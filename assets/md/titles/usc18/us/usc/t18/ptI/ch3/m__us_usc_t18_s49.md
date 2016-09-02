@@ -39,7 +39,7 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–79][/us/pl/113/79] designated existing provisions as subsec. (a) and inserted heading, substituted “subsection (a)(1),” for “subsection (a),”, and added subsecs. (b) and (c).
+    2014—[Pub. L. 113–79][/us/pl/113/79] designated existing provisions as subsec. (a), inserted heading, substituted “subsection (a)(1),” for “subsection (a),”, and added subsecs. (b) and (c).
 
     2008—[Pub. L. 110–246, § 14207(b)][/us/pl/110/246/s14207/b], substituted “5 years” for “3 years”.
 
