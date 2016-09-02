@@ -117,6 +117,10 @@
 
  __Short Title of 2015 Amendment__ 
 
+[Pub. L. 114–80, § 1][/us/pl/114/80/s1], Nov. 5, 2015, [129 Stat. 646][/us/stat/129/646], provided that: 
+
+> “This Act \[enacting [section 195d of this title][/us/usc/t6/s195d]\] may be cited as the ‘DHS Social Media Improvement Act of 2015’.”
+
 [Pub. L. 114–22, title III, § 301][/us/pl/114/22/s301], May 29, 2015, [129 Stat. 251][/us/stat/129/251], provided that: 
 
 > “This title \[enacting [section 473 of this title][/us/usc/t6/s473] and [section 2421 of Title 18][/us/usc/t18/s2421], Crimes and Criminal Procedure, amending [section 187 of this title][/us/usc/t6/s187], repealing former [section 2421 of Title 18][/us/usc/t18/s2421], and enacting provisions set out as a note under [section 473 of this title][/us/usc/t6/s473]\] may be cited as the ‘Human Exploitation Rescue Operations Act of 2015’ or the ‘HERO Act of 2015’.”
@@ -557,6 +561,9 @@
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/stat/116/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2142
+[/us/pl/114/80/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F80%2Fs1
+[/us/stat/129/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F646
+[/us/usc/t6/s195d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs195d
 [/us/pl/114/22/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs301
 [/us/stat/129/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F251
 [/us/usc/t6/s473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs473

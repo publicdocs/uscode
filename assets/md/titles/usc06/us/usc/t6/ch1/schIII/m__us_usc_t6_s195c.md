@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t6/ch1/schIII/m__us_usc_t6_s195b.md) | [Next](./../../../../..//us/usc/t6/ch1/schIV/m__us_usc_t6_ch1_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs195c)
+[Previous](./../../../../..//us/usc/t6/ch1/schIII/m__us_usc_t6_s195b.md) | [Next](./../../../../..//us/usc/t6/ch1/schIII/m__us_usc_t6_s195d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs195c)
 
 ## § 195c. Promoting antiterrorism through international cooperation program
 
@@ -173,7 +173,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t6/ch1/schIII/m__us_usc_t6_s195b.md) | [Next](./../../../../..//us/usc/t6/ch1/schIV/m__us_usc_t6_ch1_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs195c)
+[Previous](./../../../../..//us/usc/t6/ch1/schIII/m__us_usc_t6_s195b.md) | [Next](./../../../../..//us/usc/t6/ch1/schIII/m__us_usc_t6_s195d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs195c)
 
 ----------
 ----------
