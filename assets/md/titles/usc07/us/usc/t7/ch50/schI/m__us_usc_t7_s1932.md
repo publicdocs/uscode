@@ -429,15 +429,7 @@
 
                     In making or guaranteeing a loan under clause (i), the Secretary shall give priority to projects that have components benefitting underserved communities.
 
-                (iv) __Reports__ 
-
-                Not later than 2 years after the date of enactment of this paragraph and annually thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes projects carried out using loans or loan guarantees made under clause (i), including—
-
-                    (I) the characteristics of the communities served; and
-
-                    (II) resulting benefits.
-
-                (v) __Reservation of funds__ 
+                (iv) __Reservation of funds__ 
 
                     (I) __In general__ 
 
@@ -497,7 +489,7 @@
 
         Effective beginning on the date of enactment of this subsection through September 30, 2018, the Secretary shall carry out those rural economic area partnership zones administratively in effect on the date of enactment of this subsection in accordance with the terms and conditions contained in the memorandums of agreement entered into by the Secretary for the rural economic area partnership zones, except as otherwise provided in this subsection.
 
-([Pub. L. 87–128, title III, § 310B][/us/pl/87/128/s310B], as added [Pub. L. 92–419, title I, § 118(a)][/us/pl/92/419/s118/a], Aug. 30, 1972, [86 Stat. 663][/us/stat/86/663]; amended [Pub. L. 91–524, title VIII, § 817][/us/pl/91/524/s817], as added [Pub. L. 93–86, § 1(27)(B)][/us/pl/93/86/s1/27/B], Aug. 10, 1973, [87 Stat. 241][/us/stat/87/241]; [Pub. L. 95–113, title XV, § 1503(b)][/us/pl/95/113/s1503/b], Sept. 29, 1977, [91 Stat. 1021][/us/stat/91/1021]; [Pub. L. 95–334, title I, § 112][/us/pl/95/334/s112], Aug. 4, 1978, [92 Stat. 424][/us/stat/92/424]; [Pub. L. 96–358, § 5][/us/pl/96/358/s5], Sept. 25, 1980, [94 Stat. 1187][/us/stat/94/1187]; [Pub. L. 96–438, § 1(2)][/us/pl/96/438/s1/2], Oct. 13, 1980, [94 Stat. 1871][/us/stat/94/1871]; [Pub. L. 99–409, § 2][/us/pl/99/409/s2], Aug. 28, 1986, [100 Stat. 923][/us/stat/100/923]; [Pub. L. 100–203, title I, § 1504][/us/pl/100/203/s1504], Dec. 22, 1987, [101 Stat. 1330–28][/us/stat/101/1330-28]; [Pub. L. 101–624, title XXIII][/us/pl/101/624], §§ 2325, 2337, 2347, formerly 2347(a), 2386, 2388(b), (c), Nov. 28, 1990, [104 Stat. 4013][/us/stat/104/4013], 4022, 4034, 4051, 4052; [Pub. L. 102–237, title VII, § 701(c)][/us/pl/102/237/s701/c], (h)(1)(C), (D), Dec. 13, 1991, [105 Stat. 1879][/us/stat/105/1879], 1880; [Pub. L. 102–552, title V, § 516(d)][/us/pl/102/552/s516/d], Oct. 28, 1992, [106 Stat. 4137][/us/stat/106/4137]; [Pub. L. 102–554, § 6][/us/pl/102/554/s6], Oct. 28, 1992, [106 Stat. 4144][/us/stat/106/4144]; [Pub. L. 104–127, title VI][/us/pl/104/127], §§ 635(b), 661(d), title VII, §§ 705(1), 747(a), 759B, Apr. 4, 1996, [110 Stat. 1093][/us/stat/110/1093], 1107, 1112, 1125, 1138; [Pub. L. 104–180, title VII, § 731][/us/pl/104/180/s731], Aug. 6, 1996, [110 Stat. 1600][/us/stat/110/1600]; [Pub. L. 107–171, title VI][/us/pl/107/171], §§ 6007(b), 6013–6017, May 13, 2002, [116 Stat. 355][/us/stat/116/355], 358, 359; [Pub. L. 110–234, title VI][/us/pl/110/234], §§ 6012(a), (b)(2), 6013–6017, May 22, 2008, [122 Stat. 1164–1169][/us/stat/122/1164-1169]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, §§ 6012(a), (b)(2), 6013–6017, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1925, 1927–1931; [Pub. L. 113–79, title VI][/us/pl/113/79], §§ 6010(a), (b), 6011, 6012(a), 6013–6016, Feb. 7, 2014, [128 Stat. 843–845][/us/stat/128/843-845].)
+([Pub. L. 87–128, title III, § 310B][/us/pl/87/128/s310B], as added [Pub. L. 92–419, title I, § 118(a)][/us/pl/92/419/s118/a], Aug. 30, 1972, [86 Stat. 663][/us/stat/86/663]; amended [Pub. L. 91–524, title VIII, § 817][/us/pl/91/524/s817], as added [Pub. L. 93–86, § 1(27)(B)][/us/pl/93/86/s1/27/B], Aug. 10, 1973, [87 Stat. 241][/us/stat/87/241]; [Pub. L. 95–113, title XV, § 1503(b)][/us/pl/95/113/s1503/b], Sept. 29, 1977, [91 Stat. 1021][/us/stat/91/1021]; [Pub. L. 95–334, title I, § 112][/us/pl/95/334/s112], Aug. 4, 1978, [92 Stat. 424][/us/stat/92/424]; [Pub. L. 96–358, § 5][/us/pl/96/358/s5], Sept. 25, 1980, [94 Stat. 1187][/us/stat/94/1187]; [Pub. L. 96–438, § 1(2)][/us/pl/96/438/s1/2], Oct. 13, 1980, [94 Stat. 1871][/us/stat/94/1871]; [Pub. L. 99–409, § 2][/us/pl/99/409/s2], Aug. 28, 1986, [100 Stat. 923][/us/stat/100/923]; [Pub. L. 100–203, title I, § 1504][/us/pl/100/203/s1504], Dec. 22, 1987, [101 Stat. 1330–28][/us/stat/101/1330-28]; [Pub. L. 101–624, title XXIII][/us/pl/101/624], §§ 2325, 2337, 2347, formerly 2347(a), 2386, 2388(b), (c), Nov. 28, 1990, [104 Stat. 4013][/us/stat/104/4013], 4022, 4034, 4051, 4052; [Pub. L. 102–237, title VII, § 701(c)][/us/pl/102/237/s701/c], (h)(1)(C), (D), Dec. 13, 1991, [105 Stat. 1879][/us/stat/105/1879], 1880; [Pub. L. 102–552, title V, § 516(d)][/us/pl/102/552/s516/d], Oct. 28, 1992, [106 Stat. 4137][/us/stat/106/4137]; [Pub. L. 102–554, § 6][/us/pl/102/554/s6], Oct. 28, 1992, [106 Stat. 4144][/us/stat/106/4144]; [Pub. L. 104–127, title VI][/us/pl/104/127], §§ 635(b), 661(d), title VII, §§ 705(1), 747(a), 759B, Apr. 4, 1996, [110 Stat. 1093][/us/stat/110/1093], 1107, 1112, 1125, 1138; [Pub. L. 104–180, title VII, § 731][/us/pl/104/180/s731], Aug. 6, 1996, [110 Stat. 1600][/us/stat/110/1600]; [Pub. L. 107–171, title VI][/us/pl/107/171], §§ 6007(b), 6013–6017, May 13, 2002, [116 Stat. 355][/us/stat/116/355], 358, 359; [Pub. L. 110–234, title VI][/us/pl/110/234], §§ 6012(a), (b)(2), 6013–6017, May 22, 2008, [122 Stat. 1164–1169][/us/stat/122/1164-1169]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, §§ 6012(a), (b)(2), 6013–6017, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1925, 1927–1931; [Pub. L. 113–79, title VI][/us/pl/113/79], §§ 6010(a), (b), 6011, 6012(a), 6013–6016, Feb. 7, 2014, [128 Stat. 843–845][/us/stat/128/843-845]; [Pub. L. 113–188, title I, § 101(c)][/us/pl/113/188/s101/c], Nov. 26, 2014, [128 Stat. 2017][/us/stat/128/2017].)
 
  __References in Text__ 
 
@@ -507,7 +499,7 @@
 
     Title V of the Housing Act of 1949, referred to in subsec. (d)(7), is title V of [act July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], [63 Stat. 432][/us/stat/63/432], as amended, which is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the code, see References in Text note set out under [section 1441 of Title 42][/us/usc/t42/s1441] and Tables.
 
-    The date of enactment of this paragraph and the date of enactment of this subsection, referred to in subsecs. (g)(9)(B)(iv) and (j), respectively, is the date of enactment of [Pub. L. 110–246][/us/pl/110/246], which was approved June 18, 2008.
+    The date of enactment of this subsection, referred to in subsec. (j), is the date of enactment of [Pub. L. 110–246][/us/pl/110/246], which was approved June 18, 2008.
 
  __Codification__ 
 
@@ -528,6 +520,8 @@
     Subsec. (e)(12), (13). [Pub. L. 113–79, § 6013][/us/pl/113/79/s6013], added par. (12), redesignated former par. (12) as (13), and substituted “$40,000,000 for each of fiscal years 2014 through 2018” for “$50,000,000 for each of fiscal years 2008 through 2012”.
 
     Subsec. (g)(7). [Pub. L. 113–79, § 6010(b)][/us/pl/113/79/s6010/b], designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+    Subsec. (g)(9)(B)(iv), (v). [Pub. L. 113–188][/us/pl/113/188] redesignated cl. (v) as (iv) and struck out former cl. (iv) which required annual reports describing projects carried out using loans or loan guarantees made under cl. (i).
 
     Subsec. (g)(9)(B)(v)(I). [Pub. L. 113–79, § 6014][/us/pl/113/79/s6014], substituted “2018” for “2012”.
 
@@ -818,6 +812,8 @@
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/stat/128/843-845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F843-845
+[/us/pl/113/188/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs101%2Fc
+[/us/stat/128/2017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2017
 [/us/pl/93/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577
 [/us/stat/88/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1878
 [/us/usc/t42/s5901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5901
@@ -842,6 +838,7 @@
 [/us/pl/113/79/s6012/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6012%2Fa
 [/us/pl/113/79/s6013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6013
 [/us/pl/113/79/s6010/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6010%2Fb
+[/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
 [/us/pl/113/79/s6014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6014
 [/us/pl/113/79/s6015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6015
 [/us/pl/113/79/s6016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs6016

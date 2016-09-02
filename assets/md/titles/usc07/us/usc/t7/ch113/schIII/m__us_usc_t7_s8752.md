@@ -109,19 +109,11 @@
 
             (B) a limited resource farmer or rancher, as defined by the Secretary.
 
-        (3) __Data collection and publication__ 
+        (3) __Suspension of prohibition__ 
 
-        The Secretary shall—
+            Paragraphs (1) and (2) shall not apply during the 2008 crop year.
 
-            (A) collect and publish segregated data and survey information about the farm profiles, utilization of land, and crop production; and
-
-            (B) perform an evaluation on the supply and price of fruits and vegetables based on the effects of suspension of base acres under this section.
-
-        (4) __Suspension of prohibition__ 
-
-            Paragraphs (1) through (3) shall not apply during the 2008 crop year.
-
-([Pub. L. 110–234, title I, § 1302][/us/pl/110/234/s1302], May 22, 2008, [122 Stat. 968][/us/stat/122/968]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1302, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1696; [Pub. L. 110–398, § 1(a)(2)][/us/pl/110/398/s1/a/2], Oct. 13, 2008, [122 Stat. 4213][/us/stat/122/4213].)
+([Pub. L. 110–234, title I, § 1302][/us/pl/110/234/s1302], May 22, 2008, [122 Stat. 968][/us/stat/122/968]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1302, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1696; [Pub. L. 110–398, § 1(a)(2)][/us/pl/110/398/s1/a/2], Oct. 13, 2008, [122 Stat. 4213][/us/stat/122/4213]; [Pub. L. 113–188, title I, § 101(a)][/us/pl/113/188/s101/a], Nov. 26, 2014, [128 Stat. 2017][/us/stat/128/2017].)
 
  __References in Text__ 
 
@@ -136,6 +128,10 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical sections. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (d)(3). [Pub. L. 113–188, § 101(a)(1)][/us/pl/113/188/s101/a/1], (3), redesignated par. (4) as (3) and struck out former par. (3) which related to required data collection and publication.
+
+    Subsec. (d)(4). [Pub. L. 113–188, § 101(a)(2)][/us/pl/113/188/s101/a/2], (3), substituted “Paragraphs (1) and (2)” for “Paragraphs (1) through (3)” and redesignated par. (4) as (3).
 
     2008—Subsec. (d)(4). [Pub. L. 110–398][/us/pl/110/398] added par. (4).
 
@@ -160,6 +156,8 @@
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/398/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398%2Fs1%2Fa%2F2
 [/us/stat/122/4213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4213
+[/us/pl/113/188/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs101%2Fa
+[/us/stat/128/2017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2017
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/stat/99/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1354
@@ -170,6 +168,8 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/188/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs101%2Fa%2F1
+[/us/pl/113/188/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs101%2Fa%2F2
 [/us/pl/110/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F398
 
 

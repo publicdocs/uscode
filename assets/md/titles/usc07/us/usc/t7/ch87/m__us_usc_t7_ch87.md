@@ -411,7 +411,7 @@ SUBCHAPTER VI—REPORTS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5713" data-uslm-ref="/us/usc/t7/s5713">5713.</a>  </td>
 
-    <td> Other reports to Congress.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 

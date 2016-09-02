@@ -187,7 +187,7 @@
 
  __Promotion of Agricultural Exports to Emerging Markets__ 
 
-[Pub. L. 101–624, title XV, § 1542][/us/pl/101/624/s1542], Nov. 28, 1990, [104 Stat. 3691][/us/stat/104/3691], as amended by [Pub. L. 102–237, title III, § 338][/us/pl/102/237/s338], Dec. 13, 1991, [105 Stat. 1859][/us/stat/105/1859]; [Pub. L. 102–511, title VII, § 706][/us/pl/102/511/s706], Oct. 24, 1992, [106 Stat. 3350][/us/stat/106/3350]; [Pub. L. 103–182, title III, § 321(g)][/us/pl/103/182/s321/g], Dec. 8, 1993, [107 Stat. 2112][/us/stat/107/2112]; [Pub. L. 104–127, title II][/us/pl/104/127], §§ 277(a), 278, Apr. 4, 1996, [110 Stat. 977][/us/stat/110/977], 979; [Pub. L. 107–171, title III, § 3203][/us/pl/107/171/s3203], May 13, 2002, [116 Stat. 300][/us/stat/116/300]; [Pub. L. 110–246, title III, § 3204][/us/pl/110/246/s3204], June 18, 2008, [122 Stat. 1837][/us/stat/122/1837]; [Pub. L. 113–79, title III, § 3203][/us/pl/113/79/s3203], Feb. 7, 2014, [128 Stat. 779][/us/stat/128/779], provided that:
+[Pub. L. 101–624, title XV, § 1542][/us/pl/101/624/s1542], Nov. 28, 1990, [104 Stat. 3691][/us/stat/104/3691], as amended by [Pub. L. 102–237, title III, § 338][/us/pl/102/237/s338], Dec. 13, 1991, [105 Stat. 1859][/us/stat/105/1859]; [Pub. L. 102–511, title VII, § 706][/us/pl/102/511/s706], Oct. 24, 1992, [106 Stat. 3350][/us/stat/106/3350]; [Pub. L. 103–182, title III, § 321(g)][/us/pl/103/182/s321/g], Dec. 8, 1993, [107 Stat. 2112][/us/stat/107/2112]; [Pub. L. 104–127, title II][/us/pl/104/127], §§ 277(a), 278, Apr. 4, 1996, [110 Stat. 977][/us/stat/110/977], 979; [Pub. L. 107–171, title III, § 3203][/us/pl/107/171/s3203], May 13, 2002, [116 Stat. 300][/us/stat/116/300]; [Pub. L. 110–246, title III, § 3204][/us/pl/110/246/s3204], June 18, 2008, [122 Stat. 1837][/us/stat/122/1837]; [Pub. L. 113–79, title III, § 3203][/us/pl/113/79/s3203], Feb. 7, 2014, [128 Stat. 779][/us/stat/128/779]; [Pub. L. 113–188, title I, § 101(b)][/us/pl/113/188/s101/b], Nov. 26, 2014, [128 Stat. 2017][/us/stat/128/2017], provided that:
 
 >     “(a)  __Funding__  __.—__ 
 
@@ -317,29 +317,9 @@
 
 >             There are authorized to be appropriated such sums as may be necessary to carry out the program established under this paragraph.
 
->     “(e) __Foreign Debt Burdens.—__ 
+>     “(e)  __Foreign Debt Burdens__  __.—__ 
 
->         “(1)  __Effect of credits__  __.—__ 
-
->         In carrying out the program described in subsection (a), the Secretary of Agriculture shall ensure that the credits for which repayment is guaranteed under subsection (a) do not negatively affect the political and economic situation in emerging markets by excessively adding to the foreign debt burdens of such countries.
-
->         “(2)  __Consultation and report__  __.—__ 
-
->         Subject to section 217 of the Department of Agriculture Reorganization Act of 1994 ([7 U.S.C. 6917][/us/usc/t7/s6917]), not later than 6 months after the effective date of this title \[Nov. 28, 1990\], and not later than the end of each 6-month period occurring thereafter, the Secretary of Agriculture, in consultation with other appropriate Federal departments, shall prepare and transmit to the Committee on Foreign Affairs and the Committee on Agriculture of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report to assist the Congress in assessing the extent to which credits for which repayment is guaranteed under subsection (a) meet the requirements of paragraph (1). The report shall include—
-
->             “(A) the amount and allocation, by country, of credit guarantees issued under subsection (a);
-
->             “(B) the aggregate foreign debt burdens of countries receiving commodities or facilities under such credit guarantees, expressed in terms of debt on account of agricultural commodities or products thereof, or facilities for which guarantees may be made under subsection (a)(1)(B), and all other debt;
-
->             “(C) the activities of creditor governments and private creditors to reschedule or reduce payments due on existing debt owed to such creditors by a country in cases where such country has been unable to fully meet its debt obligations; and
-
->             “(D)
-
->              an analysis of—
-
->                 “(i) the economic effects of the foreign debt burden of each recipient country, and in particular the economic effects on each recipient country of the credits for which repayment is guaranteed under subsection (a); and
-
->                 “(ii) the relationship between any negative economic effects on any recipient country caused by its overall foreign debt burden and debt incurred under subsection (a) and such country’s political stability.
+>     In carrying out the program described in subsection (a), the Secretary of Agriculture shall ensure that the credits for which repayment is guaranteed under subsection (a) do not negatively affect the political and economic situation in emerging markets by excessively adding to the foreign debt burdens of such countries.
 
 >     “(f)  __Emerging Market__  __.—__ 
 
@@ -441,11 +421,12 @@ Pursuant to the authority vested in me by section 1542(f) of the Food, Agricultu
 [/us/stat/122/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1837
 [/us/pl/113/79/s3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs3203
 [/us/stat/128/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F779
+[/us/pl/113/188/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs101%2Fb
+[/us/stat/128/2017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2017
 [/us/usc/t7/s5621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5621
 [/us/usc/t7/s5641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5641
 [/us/usc/t7/s5602/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5602%2F7
 [/us/usc/t7/s5602/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5602%2F7
-[/us/usc/t7/s6917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6917
 [/us/usc/t7/s3293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3293
 [/us/usc/t7/s5622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5622
 

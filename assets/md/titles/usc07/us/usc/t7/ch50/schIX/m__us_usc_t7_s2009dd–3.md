@@ -89,11 +89,9 @@
 
                 (ii) to provide financial and technical assistance to promote a broad-based regional development program aimed at increasing and diversifying economic growth, improved community facilities, and improved quality of life;
 
-            (C) implement the approved regional investment strategy;
+            (C) implement the approved regional investment strategy; and
 
-            (D) provide annual reports to the Secretary and the National Board on progress made in achieving the benchmarks of the regional investment strategy, including an annual financial statement; and
-
-            (E) select a non-Federal organization (such as a regional development organization) in the local area served by the Regional Board that has previous experience in the management of Federal funds to serve as fiscal manager of any funds of the Regional Board.
+            (D) select a non-Federal organization (such as a regional development organization) in the local area served by the Regional Board that has previous experience in the management of Federal funds to serve as fiscal manager of any funds of the Regional Board.
 
     (b) __Urban areas__ 
 
@@ -113,13 +111,15 @@
 
         (5) provide annual reports to the Secretary and the National Board on progress made in achieving the strategy, including an annual financial statement.
 
-([Pub. L. 87–128, title III, § 385D][/us/pl/87/128/s385D], as added [Pub. L. 107–171, title VI, § 6030][/us/pl/107/171/s6030], May 13, 2002, [116 Stat. 405][/us/stat/116/405]; amended [Pub. L. 110–234, title VI, § 6028][/us/pl/110/234/s6028], May 22, 2008, [122 Stat. 1187][/us/stat/122/1187]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6028, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1948.)
+([Pub. L. 87–128, title III, § 385D][/us/pl/87/128/s385D], as added [Pub. L. 107–171, title VI, § 6030][/us/pl/107/171/s6030], May 13, 2002, [116 Stat. 405][/us/stat/116/405]; amended [Pub. L. 110–234, title VI, § 6028][/us/pl/110/234/s6028], May 22, 2008, [122 Stat. 1187][/us/stat/122/1187]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VI, § 6028, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1948; [Pub. L. 113–188, title I, § 101(e)(2)][/us/pl/113/188/s101/e/2], Nov. 26, 2014, [128 Stat. 2017][/us/stat/128/2017].)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(7)(C) to (E). [Pub. L. 113–188][/us/pl/113/188] inserted “and” at end of subpar. (C), redesignated subpar. (E) as (D), and struck out former subpar. (D) which read as follows: “provide annual reports to the Secretary and the National Board on progress made in achieving the benchmarks of the regional investment strategy, including an annual financial statement; and”.
 
     2008—[Pub. L. 110–246, § 6028][/us/pl/110/246/s6028], amended section generally. Prior to amendment, section related to establishment of National Board on Rural America.
 
@@ -145,10 +145,13 @@
 [/us/stat/122/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1187
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/188/s101/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs101%2Fe%2F2
+[/us/stat/128/2017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2017
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
 [/us/pl/110/246/s6028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs6028
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

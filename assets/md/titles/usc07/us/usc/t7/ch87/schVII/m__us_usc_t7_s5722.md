@@ -27,13 +27,11 @@
 
         (2) assistance for other costs that are necessary or appropriate to carry out the foreign market development cooperator program, including contingent liabilities that are not otherwise funded.
 
-    (c) __Report to Congress__ 
-
-        The Secretary shall annually submit to the Committee on Agriculture and the Committee on Foreign Affairs of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on activities under this section describing the amount of funding provided, the types of programs funded, the value-added products that have been targeted, and the foreign markets for those products that have been developed.
-
-([Pub. L. 95–501, title VII, § 702][/us/pl/95/501/s702], as added [Pub. L. 104–127, title II, § 252][/us/pl/104/127/s252], Apr. 4, 1996, [110 Stat. 971][/us/stat/110/971]; amended [Pub. L. 107–171, title III, § 3105(a)][/us/pl/107/171/s3105/a], May 13, 2002, [116 Stat. 290][/us/stat/116/290]; [Pub. L. 110–246, title III, § 3104(a)][/us/pl/110/246/s3104/a], June 18, 2008, [122 Stat. 1833][/us/stat/122/1833].)
+([Pub. L. 95–501, title VII, § 702][/us/pl/95/501/s702], as added [Pub. L. 104–127, title II, § 252][/us/pl/104/127/s252], Apr. 4, 1996, [110 Stat. 971][/us/stat/110/971]; amended [Pub. L. 107–171, title III, § 3105(a)][/us/pl/107/171/s3105/a], May 13, 2002, [116 Stat. 290][/us/stat/116/290]; [Pub. L. 110–246, title III, § 3104(a)][/us/pl/110/246/s3104/a], June 18, 2008, [122 Stat. 1833][/us/stat/122/1833]; [Pub. L. 113–188, title I, § 101(f)][/us/pl/113/188/s101/f], Nov. 26, 2014, [128 Stat. 2018][/us/stat/128/2018].)
 
  __Amendments__ 
+
+    2014—Subsec. (c). [Pub. L. 113–188][/us/pl/113/188] struck out subsec. (c) which required the Secretary to submit annual reports to Congress on certain activities under this section.
 
     2008—Subsec. (c). [Pub. L. 110–246][/us/pl/110/246] substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
 
@@ -59,6 +57,9 @@
 [/us/stat/116/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F290
 [/us/pl/110/246/s3104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3104%2Fa
 [/us/stat/122/1833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1833
+[/us/pl/113/188/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs101%2Ff
+[/us/stat/128/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2018
+[/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171/s3105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3105%2Fa%2F1
 [/us/pl/107/171/s3105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs3105%2Fa%2F2
