@@ -285,7 +285,7 @@
 
         (18) The term “immigration officer” means any employee or class of employees of the Service or of the United States designated by the Attorney General, individually or by regulation, to perform the functions of an immigration officer specified by this chapter or any section of this title.
 
-        (19) The term “ineligible to citizenship,” when used in reference to any individual, means, notwithstanding the provisions of any treaty relating to military service, an individual who is, or was at any time permanently debarred from becoming a citizen of the United States under section 3(a) of the Selective Training and Service Act of 1940, as amended ([54 Stat. 885][/us/stat/54/885]; [55 Stat. 844][/us/stat/55/844]), or under section 4(a) of the Selective Service Act of 1948, as amended ([62 Stat. 605][/us/stat/62/605]; [65 Stat. 76][/us/stat/65/76]) \[50 U.S.C. App. 454(a)\], or under any section of this chapter, or any other Act, or under any law amendatory of, supplementary to, or in substitution for, any of such sections or Acts.
+        (19) The term “ineligible to citizenship,” when used in reference to any individual, means, notwithstanding the provisions of any treaty relating to military service, an individual who is, or was at any time permanently debarred from becoming a citizen of the United States under section 3(a) of the Selective Training and Service Act of 1940, as amended ([54 Stat. 885][/us/stat/54/885]; [55 Stat. 844][/us/stat/55/844]), or under section 4(a) of the Selective Service Act of 1948, as amended ([62 Stat. 605][/us/stat/62/605]; [65 Stat. 76][/us/stat/65/76]) \[[50 U.S.C. 3803(a)][/us/usc/t50/s3803/a]\], or under any section of this chapter, or any other Act, or under any law amendatory of, supplementary to, or in substitution for, any of such sections or Acts.
 
         (20) The term “lawfully admitted for permanent residence” means the status of having been lawfully accorded the privilege of residing permanently in the United States as an immigrant in accordance with the immigration laws, such status not having changed.
 
@@ -2301,11 +2301,11 @@
 
  __Afghan Allies Protection__ 
 
-[Pub. L. 111–8, div. F, title VI][/us/pl/111/8], Mar. 11, 2009, [123 Stat. 807][/us/stat/123/807], as amended by [Pub. L. 111–118, div. A, title VIII, § 8120(b)][/us/pl/111/118/s8120/b], Dec. 19, 2009, [123 Stat. 3457][/us/stat/123/3457]; [Pub. L. 113–66, div. A, title XII, § 1219][/us/pl/113/66/s1219], Dec. 26, 2013, [127 Stat. 913][/us/stat/127/913]; [Pub. L. 113–76, div. K, title VII, § 7034][/us/pl/113/76/s7034](o), Jan. 17, 2014, [128 Stat. 516][/us/stat/128/516]; [Pub. L. 113–160, § 1][/us/pl/113/160/s1], Aug. 8, 2014, [128 Stat. 1853][/us/stat/128/1853]; [Pub. L. 113–291, div. A, title XII, § 1227][/us/pl/113/291/s1227], Dec. 19, 2014, [128 Stat. 3552][/us/stat/128/3552], provided that:
+[Pub. L. 111–8, div. F, title VI][/us/pl/111/8], Mar. 11, 2009, [123 Stat. 807][/us/stat/123/807], as amended by [Pub. L. 111–118, div. A, title VIII, § 8120(b)][/us/pl/111/118/s8120/b], Dec. 19, 2009, [123 Stat. 3457][/us/stat/123/3457]; [Pub. L. 113–66, div. A, title XII, § 1219][/us/pl/113/66/s1219], Dec. 26, 2013, [127 Stat. 913][/us/stat/127/913]; [Pub. L. 113–76, div. K, title VII, § 7034][/us/pl/113/76/s7034](o), Jan. 17, 2014, [128 Stat. 516][/us/stat/128/516]; [Pub. L. 113–160, § 1][/us/pl/113/160/s1], Aug. 8, 2014, [128 Stat. 1853][/us/stat/128/1853]; [Pub. L. 113–291, div. A, title XII, § 1227][/us/pl/113/291/s1227], Dec. 19, 2014, [128 Stat. 3552][/us/stat/128/3552]; [Pub. L. 114–92, div. A, title XII, § 1216][/us/pl/114/92/s1216], Nov. 25, 2015, [129 Stat. 1045][/us/stat/129/1045], provided that:
 
 > “SEC. 601. __SHORT TITLE.__ 
 
->     “This Act \[probably should be “this title”\] may be cited as the ‘Afghan Allies Protection Act of 2009’.
+>     “This title may be cited as the ‘Afghan Allies Protection Act of 2009’.
 
 > “SEC. 602. __PROTECTION FOR AFGHAN ALLIES.__ 
 
@@ -2341,17 +2341,17 @@
 
 >                 “(ii)
 
->                  was or is employed in Afghanistan on or after October 7, 2001, for not less than 1 year—
+>                  was or is employed in Afghanistan on or after October 7, 2001, for not less than 1 year, or, if submitting a petition after September 30, 2015, for a period of not less than 2 years—
 
 >                          “(I) by, or on behalf of, the United States Government; or
 
 >                          “(II)
 
->                      by the International Security Assistance Force in a capacity that required the alien—
+>                      by the International Security Assistance Force (or any successor name for such Force) in a capacity that required the alien—
 
->                         “(aa) while traveling off-base with United States military personnel stationed at International Security Assistance Force, to serve as an interpreter or translator for such United States military personnel; or
+>                         “(aa) while traveling off-base with United States military personnel stationed at International Security Assistance Force (or any successor name for such Force), to serve as an interpreter or translator for such United States military personnel; or
 
->                         “(bb) to perform sensitive and trusted activities for United States military personnel stationed at International Security Assistance Force;
+>                         “(bb) to perform sensitive and trusted activities for United States military personnel stationed at International Security Assistance Force (or any successor name for such Force);
 
 >                 “(iii) provided faithful and valuable service to an entity or organization described in clause (ii), which is documented in a positive recommendation or evaluation, subject to subparagraph (D), from the employee’s senior supervisor or the person currently occupying that position, or a more senior person, if the employee’s senior supervisor has left the employer or has left Afghanistan; and
 
@@ -2467,15 +2467,15 @@
 
 >                 Clause (i) shall not be construed to affect the authority, numerical limitations, or terms for provision of status, under subparagraph (D).
 
->             “(F)  __Fiscal years 2015 and 2016__  __.—__ 
+>             “(F)  __Fiscal years 2015, 2016, and 2017__  __.—__ 
 
->             In addition to any unused balance under subparagraph (D), for the period beginning on the date of the enactment of this subparagraph \[Dec. 19, 2014\] and ending on September 30, 2016, the total number of principal aliens who may be provided special immigrant status under this section shall not exceed 4,000. For purposes of status provided under this subparagraph—
+>             In addition to any unused balance under subparagraph (D), for the period beginning on the date of the enactment of this subparagraph \[Dec. 19, 2014\] until such time that available special immigrant visas under subparagraphs (D) and (E) and this subparagraph are exhausted,, \[sic\] the total number of principal aliens who may be provided special immigrant status under this section shall not exceed 7,000. For purposes of status provided under this subparagraph—
 
->                 “(i) the period during which an alien must have been employed in accordance with paragraph (2)(A)(ii) must terminate on or before September 30, 2015;
+>                 “(i) the period during which an alien must have been employed in accordance with paragraph (2)(A)(ii) must terminate on or before December 31, 2016;
 
->                 “(ii) the principal alien seeking special immigrant status under this subparagraph shall apply to the Chief of Mission in accordance with paragraph (2)(D) not later than December 31, 2015; and
+>                 “(ii) the principal alien seeking special immigrant status under this subparagraph shall apply to the Chief of Mission in accordance with paragraph (2)(D) not later than December 31, 2016; and
 
->                 “(iii) the authority to issue visas shall commence on the date of the enactment of this subparagraph \[Dec. 19, 2014\] and shall terminate on March 31, 2017.
+>                 “(iii) the authority to issue visas shall commence on the date of the enactment of this subparagraph \[Dec. 19, 2014\] and shall terminate on the date such visas are exhausted.
 
 >         “(4) __Application process.—__ 
 
@@ -2637,6 +2637,22 @@
 
 >             “(H) The number of special immigrant status approvals revoked by the Chief of Mission that were appealed and the number of those revocations that were overturned pursuant to the appeal.
 
+>         “(15)  __Reports informing the conclusion of the afghan special immigrant visa program__  __.—__ 
+
+>         Not later than June 1, 2016, and every six months thereafter, the Secretary of Defense, in conjunction with the Secretary of State, shall submit to the Committee on Armed Services and the Committee on the Judiciary of the Senate and the Committee on Armed Services and the Committee on the Judiciary of the House of Representatives a report that contains—
+
+>             “(A) a description of the United States force presence in Afghanistan during the previous 6 months;
+
+>             “(B) a description of the projected United States force presence in Afghanistan;
+
+>             “(C) the number of citizens or nationals of Afghanistan who were employed by or on behalf of the entities described in paragraph (2)(A)(ii) during the previous 6 months; and
+
+>             “(D) the projected number of such citizens or nationals who will be employed by or on behalf of such entities.
+
+>         “(16)  __Sense of congress__  __.—__ 
+
+>         It is the sense of Congress that the necessity of providing special immigrant status under this subsection should be assessed at regular intervals by the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, taking into account the scope of the current and planned presence of United States troops in Afghanistan, the current and prospective numbers of citizens and nationals of Afghanistan employed by or on behalf of the entities described in paragraph (2)(A)(ii), and the security climate in Afghanistan.
+
 >     “(c) __Information Regarding Citizens or Nationals of Afghanistan Employed by the United States or Federal Contractors in Afghanistan.—__ 
 
 >         “(1) __Requirement to compile information.—__ 
@@ -2667,7 +2683,7 @@
 
 >         “(4)  __Executive agency defined__  __.—__ 
 
->         In this subsection, the term ‘executive agency’ has the meaning given that term in section 4 of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 403][/us/usc/t41/s403]) \[see [41 U.S.C. 133][/us/usc/t41/s133]\].
+>         In this subsection, the term ‘executive agency’ has the meaning given that term in [section 133 of title 41][/us/usc/t41/s133], United States Code.
 
 >     “(d)  __Rule of Construction__  __.—__ 
 
@@ -3506,6 +3522,7 @@ This Administration has had success deterring large ship-based smuggling directl
 [/us/stat/55/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F844
 [/us/stat/62/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F605
 [/us/stat/65/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F76
+[/us/usc/t50/s3803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3803%2Fa
 [/us/pl/102/232/s305/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F232%2Fs305%2Fm%2F1
 [/us/stat/105/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1750
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
@@ -4627,6 +4644,8 @@ This Administration has had success deterring large ship-based smuggling directl
 [/us/stat/128/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1853
 [/us/pl/113/291/s1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1227
 [/us/stat/128/3552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3552
+[/us/pl/114/92/s1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1216
+[/us/stat/129/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1045
 [/us/usc/t8/s1101/a/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F27
 [/us/usc/t8/s1153/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1153%2Fb%2F4
 [/us/usc/t8/s1182/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F4
@@ -4645,7 +4664,6 @@ This Administration has had success deterring large ship-based smuggling directl
 [/us/usc/t8/s1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1157
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/stat/122/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F396
-[/us/usc/t41/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403
 [/us/usc/t41/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs133
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
