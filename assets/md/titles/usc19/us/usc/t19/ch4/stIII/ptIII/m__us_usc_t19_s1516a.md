@@ -655,7 +655,7 @@
 
 [Section 1002 of title X of Pub. L. 96–39][/us/pl/96/39/s1002] provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     The amendments made by this title \[enacting this section and amending sections 1514, 1515, and 1516 of this title and sections 1541, 1582, 2632, 2633, and 2637 of Title 28, Judiciary and Judicial Procedure\] shall take effect on that date (hereinafter in this section referred to as the ‘effective date’) on which title VII of the Tariff Act of 1930 \[subtitle IV of this chapter\] (as added by title I of this Act) takes effect \[Jan. 1, 1980\]; and section 515(a) of such Act of 1930 \[[section 1515(a) of this title][/us/usc/t19/s1515/a]\] (as amended by section 1001(b)(2)) shall apply with respect to any denial, in whole or in part, of a protest filed under section 514 of such Act of 1930 \[[section 1514 of this title][/us/usc/t19/s1514]\] on or after the effective date.
 

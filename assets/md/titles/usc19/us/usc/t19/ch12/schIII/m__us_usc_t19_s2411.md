@@ -301,7 +301,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 96–39, title IX, § 903][/us/pl/96/39/s903], July 26, 1979 ,[93 Stat. 300][/us/stat/93/300], provided that: 
+[Pub. L. 96–39, title IX, § 903][/us/pl/96/39/s903], July 26, 1979, [93 Stat. 300][/us/stat/93/300], provided that: 
 
 > “The amendments made by sections 901 and 902 \[enacting this subchapter and amending sections 1872, 2192, and 2194 of this title\] shall take effect on the date of the enactment of this Act \[July 26, 1979\]. Any petition for review filed with the Special Representative for Trade Negotiations under section 301 of the Trade Act of 1974 (as in effect on the day before such date of enactment) \[former [section 2411 of this title][/us/usc/t19/s2411]\] and pending on such date of enactment shall be treated as an investigation initiated on such date of enactment under section 302(b)(2) of the Trade Act of 1974 (as added by section 901 of this Act) \[[section 2412(b)(2) of this title][/us/usc/t19/s2412/b/2]\] and any information developed by, or submitted to, the Special Representative before such date of enactment under the review shall be treated as part of the information developed during such investigation.”
 

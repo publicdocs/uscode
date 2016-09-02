@@ -249,7 +249,7 @@
 
 [Pub. L. 100–418, title I, § 1001][/us/pl/100/418/s1001], Aug. 23, 1988, [102 Stat. 1119][/us/stat/102/1119], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -291,7 +291,7 @@
 
 >         “(6) while the United States is not in a position to dictate economic policy to the rest of the world, the United States is in a position to lead the world and it is in the national interest for the United States to do so.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this title \[see Tables for classification\] are to—
 

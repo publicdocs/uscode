@@ -19,7 +19,7 @@
 
 [Pub. L. 112–40, title II, § 201(b)][/us/pl/112/40/s201/b], (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], provided that:
 
->     “(b) __Applicability of Certain Provisions.—__ 
+>     “(b)  __Applicability of Certain Provisions__  __.—__ 
 
 >     Except as otherwise provided in this subtitle \[subtitle A (§§ 201–233) of title II of [Pub. L. 112–40][/us/pl/112/40], see Tables for classification\], the provisions of chapters 2 through 6 of title II of the Trade Act of 1974 \[this part, parts 3 to 6 of this subchapter, and provisions set out as a note below\], as in effect on February 12, 2011, and as amended by this subtitle, shall—
 
@@ -27,13 +27,13 @@
 
 >         “(2) apply to petitions for certification filed under chapter 2, 3, or 6 of title II of the Trade Act of 1974 \[this part and parts 3 and 6 of this subchapter\] on or after such date of enactment.
 
->     “(c) __References.—__ 
+>     “(c)  __References__  __.—__ 
 
 >     Except as otherwise provided in this subtitle, whenever in this subtitle an amendment or repeal is expressed in terms of an amendment to, or repeal of, a provision of chapters 2 through 6 of title II of the Trade Act of 1974, the reference shall be considered to be made to a provision of any such chapter, as in effect on February 12, 2011.”
 
 [Pub. L. 112–40, title II, § 233][/us/pl/112/40/s233], Oct. 21, 2011, [125 Stat. 416][/us/stat/125/416], provided that:
 
->     “(a) __Application of Prior Law.—__ 
+>     “(a)  __Application of Prior Law__  __.—__ 
 
 >     Subject to subsection (b), beginning on January 1, 2014, the provisions of chapters 2, 3, 5, and 6 of title II of the Trade Act of 1974 ([19 U.S.C. 2271][/us/usc/t19/s2271] et seq.) \[this part, parts 3, 5, and 6 of this subchapter, and provisions set out as a note below\], as in effect on February 13, 2011, shall apply, except that in applying and administering such chapters—
 
@@ -107,7 +107,7 @@
 
 >                 “ ‘(ii) to the extent the recipient of the assistance is otherwise eligible to receive such assistance.’.
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >     The provisions of chapters 2, 3, 5, and 6 of title II of the Trade Act of 1974 \[this part, parts 3, 5, and 6 of this subchapter, and provisions set out as a note below\], as in effect on the date of the enactment of this Act \[Oct. 21, 2011\], shall continue to apply on and after January 1, 2014, with respect to—
 
@@ -131,11 +131,11 @@
 
 [Pub. L. 107–210, div. A, title I, § 151][/us/pl/107/210/s151], Aug. 6, 2002, [116 Stat. 953][/us/stat/116/953], as amended by [Pub. L. 108–429, title II, § 2004(a)(21)][/us/pl/108/429/s2004/a/21], Dec. 3, 2004, [118 Stat. 2591][/us/stat/118/2591], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in sections 123(c) \[set out as a note under [section 2331 of this title][/us/usc/t19/s2331]\], 141(b) \[set out as a note under [section 2401 of this title][/us/usc/t19/s2401]\], 201(d) \[set out as a note under [section 35 of Title 26][/us/usc/t26/s35], Internal Revenue Code\], and 202(e) \[set out as a note under [section 6050T of Title 26][/us/usc/t26/s6050T]\], and subsections (b), (c), and (d) of this section, the amendments made by this division \[enacting sections 1431a, 1583, 2318, and 2401 to 2401g of this title, sections 35, 6050T, and 7527 of Title 26, and [section 300gg–45 of Title 42][/us/usc/t42/s300gg–45], The Public Health and Welfare, amending sections 58c, 482, 1318, 1330, 1411, 1505, 1509, 2075, 2171, 2271 to 2273, 2275, 2291, 2293, 2295 to 2298, 2317, 2346, and 2395 of this title, sections 4980B, 6103, 6724, and 7213A of Title 26, sections 1165, 2862, 2918, and 2919 of Title 29, Labor, [section 1324 of Title 31][/us/usc/t31/s1324], Money and Finance, and [section 300bb–5 of Title 42][/us/usc/t42/s300bb–5], renumbering [section 35 of Title 26][/us/usc/t26/s35] as [section 36 of Title 26][/us/usc/t26/s36], repealing sections 2318, 2322, and 2331 of this title, enacting provisions set out as notes under sections 58c, 482, 1583, 1625, 1654, 2071, 2075, 2082, 2101, 2251, 2271, 2331, and 2401 of this title, sections 35 and 6050T of Title 26, and [section 2918 of Title 29][/us/usc/t29/s2918], and amending provisions set out as a note below\] shall apply to petitions for certification filed under chapter 2 or 3 of title II of the Trade Act of 1974 \[this part and part 3 of this subchapter\] on or after the date that is 90 days after the date of enactment of this Act \[Aug. 6, 2002\].
 
->     “(b) __Workers Certified as Eligible Before Effective Date.—__ 
+>     “(b)  __Workers Certified as Eligible Before Effective Date__  __.—__ 
 
 >     Notwithstanding subsection (a), a worker shall continue to receive (or be eligible to receive) trade adjustment assistance and other benefits under chapter 2 of title II of the Trade Act of 1974 \[this part\], as in effect on September 30, 2001, for any week for which the worker meets the eligibility requirements of such chapter 2 as in effect on such date, if on or before such date, the worker—
 
@@ -145,21 +145,21 @@
 
 >     “(c) __Workers Who Became Eligible During Qualified Period.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding subsection (a) or any other provision of law, including section 285 of the Trade Act of 1974 \[[Pub. L. 93–618][/us/pl/93/618], set out as a Termination Date note below\], any worker who would have been eligible to receive trade adjustment assistance or other benefits under chapter 2 of title II of the Trade Act of 1974 \[this part\] during the qualified period if such chapter 2 had been in effect during such period, shall be eligible to receive trade adjustment assistance and other benefits under chapter 2 of title II of the Trade Act of 1974, as in effect on September 30, 2001, for any week during the qualified period for which the worker meets the eligibility requirements of such chapter 2 as in effect on September 30, 2001.
 
->         “(2) __Qualified period.—__ 
+>         “(2)  __Qualified period__  __.—__ 
 
 >         For purposes of this subsection, the term ‘qualified period’ means the period beginning on January 11, 2002, and ending on the date that is 90 days after the date of enactment of this Act \[Aug. 6, 2002\].
 
 >     “(d) __Adjustment Assistance for Firms.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding subsection (a) or any other provision of law, including section 285 of the Trade Act of 1974 \[set out as a Termination Date note below\], and except as provided in paragraph (2), any firm that would have been eligible to receive adjustment assistance under chapter 3 of title II of the Trade Act if 1974 \[part 3 of this subchapter\] during the qualified period if such chapter 3 had been in effect during such period, shall be eligible to receive adjustment assistance under chapter 3 of title II of the Trade Act of 1974, as in effect on September 30, 2001, for any week during the qualified period for which the firm meets the eligibility requirements of such chapter 3 as in effect on September 30, 2001.
 
->         “(2) __Qualified period.—__ 
+>         “(2)  __Qualified period__  __.—__ 
 
 >         For purposes of this subsection, the term ‘qualified period’ means the period beginning on October 1, 2001, and ending on the date that is 90 days after the date of enactment of this Act \[Aug. 6, 2002\].”
 
@@ -169,11 +169,11 @@
 
 >     “(a) __Assistance for Workers.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), trade adjustment assistance, vouchers, allowances, and other payments or benefits may not be provided under chapter 2 \[this part\] after December 31, 2013.
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         Notwithstanding paragraph (1), a worker shall continue to receive trade adjustment assistance benefits and other benefits under chapter 2 for any week for which the worker meets the eligibility requirements of that chapter if the worker is—
 
@@ -185,11 +185,11 @@
 
 >         “(1) __Assistance for firms.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subparagraph (B), technical assistance and grants may not be provided under chapter 3 \[part 3 of this subchapter\] after December 31, 2013.
 
->             “(B) __Exception.—__ 
+>             “(B)  __Exception__  __.—__ 
 
 >             Notwithstanding subparagraph (A), any technical assistance or grant approved under chapter 3 pursuant to a petition filed under section 251 \[[19 U.S.C. 2341][/us/usc/t19/s2341]\] on or before December 31, 2013, may be provided—
 
@@ -199,11 +199,11 @@
 
 >         “(2) __Farmers.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subparagraph (B), technical assistance and financial assistance may not be provided under chapter 6 \[part 6 of this subchapter\] after December 31, 2013.
 
->             “(B) __Exception.—__ 
+>             “(B)  __Exception__  __.—__ 
 
 >             Notwithstanding subparagraph (A), any technical or financial assistance approved under chapter 6 pursuant to a petition filed under section 292 \[[19 U.S.C. 2401a][/us/usc/t19/s2401a]\] on or before December 31, 2013, may be provided—
 

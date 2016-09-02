@@ -69,11 +69,11 @@
 
             (A) __Commission standard for retroactive application.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 If the finding of the administering authority under subsection (a)(2) of this section is affirmative, then the final determination of the Commission shall include a finding as to whether the imports subject to the affirmative determination under subsection (a)(2) of this section are likely to undermine seriously the remedial effect of the countervailing duty order to be issued under [section 1671e of this title][/us/usc/t19/s1671e].
 
-                (ii) __Factors to consider.—__ 
+                (ii)  __Factors to consider__  __.—__ 
 
                 In making the evaluation under clause (i), the Commission shall consider, among other factors it considers relevant—
 

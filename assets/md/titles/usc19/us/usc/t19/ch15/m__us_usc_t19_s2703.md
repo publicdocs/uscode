@@ -839,19 +839,19 @@
 
 [Pub. L. 108–429, title II, § 2004(g)][/us/pl/108/429/s2004/g], Dec. 3, 2004, [118 Stat. 2593][/us/stat/118/2593], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Notwithstanding section 514 of the Tariff Act of 1930 ([19 U.S.C. 1514][/us/usc/t19/s1514]) or any other provision of law, the Customs Service \[Bureau of Customs and Border Protection\] shall liquidate or reliquidate as free of duty and free of any quantitative restrictions, limitations, or consultation levels entries of articles described in paragraph (4) made on or after October 1, 2000.
 
->     “(2) __Requests.—__ 
+>     “(2)  __Requests__  __.—__ 
 
 >     Liquidation or reliquidation may be made under paragraph (1) with respect to an entry described in paragraph (4) only if a request therefor is filed with the Customs Service within 90 days after the date of the enactment of this Act \[Dec. 3, 2004\] and the request contains sufficient information to enable the Customs Service to locate the entry or reconstruct the entry if it cannot be located.
 
->     “(3) __Payment of amounts owed.—__ 
+>     “(3)  __Payment of amounts owed__  __.—__ 
 
 >     Any amounts owed by the United States pursuant to the liquidation or reliquidation of any entry under paragraph (1) shall be paid not later than 180 days after the date of such liquidation or reliquidation.
 
->     “(4) __Entries.—__ 
+>     “(4)  __Entries__  __.—__ 
 
 >     The entries referred to in paragraph (1) are entries of apparel articles (other than socks provided for in heading 6115 of the Harmonized Tariff Schedule of the United States \[see Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title][/us/usc/t19/s1202]\]) that meet the requirements of section 213(b)(2)(A) of the Caribbean Basin Economic Recovery Act \[[19 U.S.C. 2703(b)(2)(A)][/us/usc/t19/s2703/b/2/A]\] (as amended by section 3107(a) of the Trade Act of 2002 \[[Pub. L. 107–210][/us/pl/107/210]\] and subsection (b) of this section).”
 
@@ -865,7 +865,7 @@
 
 [Pub. L. 99–514, title IV, § 423(a)][/us/pl/99/514/s423/a]–(c), (e), Oct. 22, 1986, [100 Stat. 2230–2232][/us/stat/100/2230-2232], as amended by [Pub. L. 100–418, title I, § 1910(a)][/us/pl/100/418/s1910/a], Aug. 23, 1988, [102 Stat. 1319][/us/stat/102/1319]; [Pub. L. 101–221, § 7(a)][/us/pl/101/221/s7/a], Dec. 12, 1989, [103 Stat. 1890][/us/stat/103/1890], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), no ethyl alcohol or a mixture thereof may be considered—
 
@@ -941,7 +941,7 @@
 
 >         “(2) The exception provided under paragraph (1) shall cease to apply during each of calendar years 1987, 1988, and 1989 to ethyl alcohol produced in a facility described in subparagraph (A), (B), or (C) of paragraph (1) after 20,000,000 gallons of ethyl alcohol produced in that facility are entered into the United States during that year.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For purposes of this section \[amending this section and General Headnote 3(a)(i) of the Tariff Schedules of the United States formerly set out under [section 1202 of this title][/us/usc/t19/s1202] and enacting provisions set out as notes under this section\]—
 

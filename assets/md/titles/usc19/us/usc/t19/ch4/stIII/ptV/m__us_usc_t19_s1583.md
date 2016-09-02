@@ -109,11 +109,11 @@
 
 [Pub. L. 107–210, div. A, title III, § 344(c)][/us/pl/107/210/s344/c], Aug. 6, 2002, [116 Stat. 987][/us/stat/116/987], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), this section \[enacting this section and provisions set out as a note under this section\] and the amendments made by this section shall take effect on the date of enactment of this Act \[Aug. 6, 2002\].
 
->     “(2) __Certification with respect to foreign mail.—__ 
+>     “(2)  __Certification with respect to foreign mail__  __.—__ 
 
 >     The provisions of section 583 of the Tariff Act of 1930 \[this section\] relating to foreign mail transiting the United States that is imported or exported by the United States Postal Service shall not take effect until the Secretary of State certifies to Congress, pursuant to subsection (b) \[set out as a note below\], that the application of such section 583 is consistent with international law and any international obligation of the United States.”
 

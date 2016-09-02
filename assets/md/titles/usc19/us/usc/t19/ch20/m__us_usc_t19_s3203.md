@@ -475,7 +475,7 @@
 
     2007—Subsec. (b)(3)(B)(iii)(II). [Pub. L. 110–42, § 2(1)(A)][/us/pl/110/42/s2/1/A], substituted “The” for “Subject to [section 3206 of this title][/us/usc/t19/s3206], the” and “5 succeeding 1-year periods” for “4 succeeding 1-year periods”.
 
-    Subsec. (b)(3)(B)(iii)(III). [Pub. L. 110–42, § 2(1)(B)][/us/pl/110/42/s2/1/B], substituted “means—”for “means” and “; and” for period, inserted item (aa) designation, and added item (bb).
+    Subsec. (b)(3)(B)(iii)(III). [Pub. L. 110–42, § 2(1)(B)][/us/pl/110/42/s2/1/B], substituted “means—” for “means” and “; and” for period, inserted item (aa) designation, and added item (bb).
 
     Subsec. (b)(3)(B)(v)(II). [Pub. L. 110–42, § 2(2)][/us/pl/110/42/s2/2], substituted “During” for “Subject to [section 3206 of this title][/us/usc/t19/s3206], during” and “4 succeeding 1-year periods” for “3 succeeding 1-year periods”.
 
@@ -537,7 +537,7 @@
 
 [Pub. L. 108–429, title II, § 2003][/us/pl/108/429/s2003], Dec. 3, 2004, [118 Stat. 2589][/us/stat/118/2589], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding section 514 of the Tariff Act of 1930 \[[19 U.S.C. 1514][/us/usc/t19/s1514]\] or any other provision of law, and subject to subsection (c)—
 
@@ -545,11 +545,11 @@
 
 >         “(2) such entries shall be liquidated or reliquidated as if the reduced duty preferential treatment applied, and the Secretary of the Treasury shall refund any excess duties paid with respect to such entry.
 
->     “(b) __Entry.—__ 
+>     “(b)  __Entry__  __.—__ 
 
 >     As used in this subsection, the term ‘entry’ includes a withdrawal from warehouse for consumption.
 
->     “(c) __Requests.—__ 
+>     “(c)  __Requests__  __.—__ 
 
 >     Liquidation or reliquidation may be made under paragraph (1) with respect to an entry only if a request therefor is filed with the Customs Service \[Bureau of Customs and Border Protection\], within 180 days after the date of the enactment of this Act \[Dec. 3, 2004\], and such request contains sufficient information to enable the Customs Service—
 

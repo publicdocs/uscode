@@ -81,7 +81,7 @@
 
 [Pub. L. 107–210, div. C, title XXXI, § 3104(b)][/us/pl/107/210/s3104/b], Aug. 6, 2002, [116 Stat. 1034][/us/stat/116/1034], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Notwithstanding section 514 of the Tariff Act of 1930 \[[19 U.S.C. 1514][/us/usc/t19/s1514]\] or any other provision of law, and subject to paragraph (3), the entry—
 
@@ -91,11 +91,11 @@
 
 >         shall be liquidated or reliquidated as if such duty-free treatment (or preferential treatment) applied, and the Secretary of the Treasury shall refund any duty paid with respect to such entry.
 
->     “(2) __Entry.—__ 
+>     “(2)  __Entry__  __.—__ 
 
 >     As used in this subsection, the term ‘entry’ includes a withdrawal from warehouse for consumption.
 
->     “(3) __Requests.—__ 
+>     “(3)  __Requests__  __.—__ 
 
 >     Liquidation or reliquidation may be made under paragraph (1) with respect to an entry only if a request therefor is filed with the Customs Service, within 180 days after the date of the enactment of this Act, that contains sufficient information to enable the Customs Service—
 

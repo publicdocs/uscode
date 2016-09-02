@@ -185,7 +185,7 @@
 
 > “For purposes of this Act:
 
->     “(1) __Agreement.—__ 
+>     “(1)  __Agreement__  __.—__ 
 
 >     The term ‘Agreement’ means the Agreement between the United States of America and the Hashemite Kingdom of Jordan on the Establishment of a Free Trade Area, entered into on October 24, 2000.
 
@@ -197,7 +197,7 @@
 
 > “SEC. 101. __TARIFF MODIFICATIONS.__ 
 
->     “(a) __Tariff Modifications Provided for in the Agreement.—__ 
+>     “(a)  __Tariff Modifications Provided for in the Agreement__  __.—__ 
 
 >     The President may proclaim—
 
@@ -209,7 +209,7 @@
 
 >         as the President determines to be necessary or appropriate to carry out article 2.1 of the Agreement and the schedule of duty reductions with respect to Jordan set out in Annex 2.1 of the Agreement.
 
->     “(b) __Other Tariff Modifications.—__ 
+>     “(b)  __Other Tariff Modifications__  __.—__ 
 
 >     The President may proclaim—
 
@@ -227,7 +227,7 @@
 
 >         “(1) __Eligible articles.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The reduction or elimination of any duty imposed on any article by the United States provided for in the Agreement shall apply only if—
 
@@ -243,7 +243,7 @@
 
 >             “(B) __Requirements.—__ 
 
->                 “(i) __General rule.—__ 
+>                 “(i)  __General rule__  __.—__ 
 
 >                 The requirements of this subparagraph are that with respect to an article described in subparagraph (A)(ii)(II), the sum of—
 
@@ -253,11 +253,11 @@
 
 >                  is not less than 35 percent of the appraised value of such article at the time it is entered.
 
->                 “(ii) __Materials produced in united states.—__ 
+>                 “(ii)  __Materials produced in united states__  __.—__ 
 
 >                 If the cost or value of materials produced in the customs territory of the United States is included with respect to an article to which this paragraph applies, an amount not to exceed 15 percent of the appraised value of the article at the time it is entered that is attributable to such United States cost or value may be applied toward determining the percentage referred to in clause (i).
 
->         “(2) __Exclusions.—__ 
+>         “(2)  __Exclusions__  __.—__ 
 
 >         No article may be considered to meet the requirements of paragraph (1)(A) by virtue of having merely undergone—
 
@@ -267,7 +267,7 @@
 
 >     “(b) __Direct Costs of Processing Operations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         As used in this section, the term ‘direct costs of processing operations’ includes, but is not limited to—
 
@@ -275,7 +275,7 @@
 
 >             “(B) dies, molds, tooling, and depreciation on machinery and equipment which are allocable to the specific merchandise.
 
->         “(2) __Excluded costs.—__ 
+>         “(2)  __Excluded costs__  __.—__ 
 
 >         The term ‘direct costs of processing operations’ does not include costs which are not directly attributable to the merchandise concerned, or are not costs of manufacturing the product, such as—
 
@@ -285,7 +285,7 @@
 
 >     “(c) __Textile and Apparel Articles.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A textile or apparel article imported directly from Jordan into the customs territory of the United States shall be considered to meet the requirements of paragraph (1)(A) of subsection (a) only if—
 
@@ -303,29 +303,29 @@
 
 >             “(D) the article is any other textile or apparel article that is wholly assembled in Jordan from its component pieces.
 
->         “(2) __Definition.—__ 
+>         “(2)  __Definition__  __.—__ 
 
 >         For purposes of paragraph (1), an article is ‘wholly obtained or produced in Jordan’ if it is wholly the growth, product, or manufacture of Jordan.
 
 >         “(3) __Special rules.—__ 
 
->             “(A) __Certain made-up articles, textile articles in the piece, and certain other textiles and textile articles.—__ 
+>             “(A)  __Certain made-up articles, textile articles in the piece, and certain other textiles and textile articles__  __.—__ 
 
 >             Notwithstanding paragraph (1)(D) and except as provided in subparagraphs (C) and (D) of this paragraph, subparagraph (A), (B), or (C) of paragraph (1), as appropriate, shall determine whether a good that is classified under one of the following headings or subheadings of the HTS shall be considered to meet the requirements of paragraph (1)(A) of subsection (a): 5609, 5807, 5811, 6209.20.50.40, 6213, 6214, 6301, 6302, 6304, 6305, 6306, 6307.10, 6307.90, 6308, and 9404.90.
 
->             “(B) __Certain knit-to-shape textiles and textile articles.—__ 
+>             “(B)  __Certain knit-to-shape textiles and textile articles__  __.—__ 
 
 >             Notwithstanding paragraph (1)(D) and except as provided in subparagraphs (C) and (D) of this paragraph, a textile or apparel article which is knit-to-shape in Jordan shall be considered to meet the requirements of paragraph (1)(A) of subsection (a).
 
->             “(C) __Certain dyed and printed textiles and textile articles.—__ 
+>             “(C)  __Certain dyed and printed textiles and textile articles__  __.—__ 
 
 >             Notwithstanding paragraph (1)(D), a good classified under heading 6117.10, 6213.00, 6214.00. 6302.22, 6302.29, 6302.52, 6302.53, 6302.59, 6302.92, 6302.93, 6302.99, 6303.92, 6303.99, 6304.19, 6304.93, 6304.99, 9404.90.85, or 9404.90.95 of the HTS, except for a good classified under any such heading as of cotton or of wool or consisting of fiber blends containing 16 percent or more by weight of cotton, shall be considered to meet the requirements of paragraph (1)(A) of subsection (a) if the fabric in the good is both dyed and printed in Jordan, and such dyeing and printing is accompanied by 2 or more of the following finishing operations: bleaching, shrinking, fulling, napping, decating, permanent stiffening, weighting, permanent embossing, or moireing.
 
->             “(D) __Fabrics of silk, cotton, manmade fiber or vegetable fiber.—__ 
+>             “(D)  __Fabrics of silk, cotton, manmade fiber or vegetable fiber__  __.—__ 
 
 >             Notwithstanding paragraph (1)(C), a fabric classified under the HTS as of silk, cotton, man-made fiber, or vegetable fiber shall be considered to meet the requirements of paragraph (1)(A) of subsection (a) if the fabric is both dyed and printed in Jordan, and such dyeing and printing is accompanied by 2 or more of the following finishing operations: bleaching, shrinking, fulling, napping, decating, permanent stiffening, weighting, permanent embossing, or moireing.
 
->         “(4) __Multicountry rule.—__ 
+>         “(4)  __Multicountry rule__  __.—__ 
 
 >         If the origin of a textile or apparel article cannot be determined under paragraph (1) or (3), then that article shall be considered to meet the requirements of paragraph (1)(A) of subsection (a) if—
 
@@ -333,7 +333,7 @@
 
 >             “(B) if the applicability of paragraph (1)(A) of subsection (a) cannot be determined under subparagraph (A), the last important assembly or manufacturing occurs in Jordan.
 
->     “(d) __Exclusion.—__ 
+>     “(d)  __Exclusion__  __.—__ 
 
 >     A good shall not be considered to meet the requirements of paragraph (1)(A) of subsection (a) if the good—
 
@@ -341,7 +341,7 @@
 
 >         “(2) is processed in Jordan into a good classified under any of subheadings 2009.11 through 2009.30 of the HTS.
 
->     “(e) __Regulations.—__ 
+>     “(e)  __Regulations__  __.—__ 
 
 >     The Secretary of the Treasury, after consultation with the United States Trade Representative, shall prescribe such regulations as may be necessary to carry out this section.
 
@@ -353,11 +353,11 @@
 
 > “As used in this title:
 
->     “(1) __Commission.—__ 
+>     “(1)  __Commission__  __.—__ 
 
 >     The term ‘Commission’ means the United States International Trade Commission.
 
->     “(2) __Jordanian article.—__ 
+>     “(2)  __Jordanian article__  __.—__ 
 
 >     The term ‘Jordanian article’ means an article that qualifies for reduction or elimination of a duty under section 102.
 
@@ -367,29 +367,29 @@
 
 >     “(a) __Filing of Petition.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A petition requesting action under this subtitle for the purpose of adjusting to the obligations of the United States under the Agreement may be filed with the Commission by an entity, including a trade association, firm, certified or recognized union, or group of workers that is representative of an industry. The Commission shall transmit a copy of any petition filed under this subsection to the United States Trade Representative.
 
->         “(2) __Provisional relief.—__ 
+>         “(2)  __Provisional relief__  __.—__ 
 
 >         An entity filing a petition under this subsection may request that provisional relief be provided as if the petition had been filed under section 202(a) of the Trade Act of 1974 \[[19 U.S.C. 2252(a)][/us/usc/t19/s2252/a]\].
 
->         “(3) __Critical circumstances.—__ 
+>         “(3)  __Critical circumstances__  __.—__ 
 
 >         Any allegation that critical circumstances exist shall be included in the petition.
 
 >     “(b) __Investigation and Determination.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Upon the filing of a petition under subsection (a), the Commission, unless subsection (d) applies, shall promptly initiate an investigation to determine whether, as a result of the reduction or elimination of a duty provided for under the Agreement, a Jordanian article is being imported into the United States in such increased quantities, in absolute terms or relative to domestic production, and under such conditions that imports of the Jordanian article alone constitute a substantial cause of serious injury or threat thereof to the domestic industry producing an article that is like, or directly competitive with, the imported article.
 
->         “(2) __Causation.—__ 
+>         “(2)  __Causation__  __.—__ 
 
 >         For purposes of this subtitle, a Jordanian article is being imported into the United States in increased quantities as a result of the reduction or elimination of a duty provided for under the Agreement if the reduction or elimination is a cause that contributes significantly to the increase in imports. Such cause need not be equal to or greater than any other cause.
 
->     “(c) __Applicable Provisions.—__ 
+>     “(c)  __Applicable Provisions__  __.—__ 
 
 >     The following provisions of section 202 of the Trade Act of 1974 ([19 U.S.C. 2252][/us/usc/t19/s2252]) apply with respect to any investigation initiated under subsection (b):
 
@@ -399,21 +399,21 @@
 
 >         “(3) Subsection (d).
 
->     “(d) __Articles Exempt From Investigation.—__ 
+>     “(d)  __Articles Exempt From Investigation__  __.—__ 
 
 >     No investigation may be initiated under this section with respect to any Jordanian article if import relief has been provided under this subtitle with respect to that article.
 
 > “SEC. 212. __COMMISSION ACTION ON PETITION.__ 
 
->     “(a) __Determination.—__ 
+>     “(a)  __Determination__  __.—__ 
 
 >     By no later than 120 days (180 days if critical circumstances have been alleged) after the date on which an investigation is initiated under section 211(b) with respect to a petition, the Commission shall make the determination required under that section.
 
->     “(b) __Additional Finding and Recommendation if Determination Affirmative.—__ 
+>     “(b)  __Additional Finding and Recommendation if Determination Affirmative__  __.—__ 
 
 >     If the determination made by the Commission under subsection (a) with respect to imports of an article is affirmative, the Commission shall find, and recommend to the President in the report required under subsection (c), the amount of import relief that is necessary to remedy or prevent the injury found by the Commission in the determination and to facilitate the efforts of the domestic industry to make a positive adjustment to import competition. The import relief recommended by the Commission under this subsection shall be limited to that described in section 213(c).
 
->     “(c) __Report to President.—__ 
+>     “(c)  __Report to President__  __.—__ 
 
 >     No later than the date that is 30 days after the date on which a determination is made under subsection (a) with respect to an investigation, the Commission shall submit to the President a report that shall include—
 
@@ -423,25 +423,25 @@
 
 >         “(3) any finding made under subsection (b) regarding import relief.
 
->     “(d) __Public Notice.—__ 
+>     “(d)  __Public Notice__  __.—__ 
 
 >     Upon submitting a report to the President under subsection (c), the Commission shall promptly make public such report (with the exception of information which the Commission determines to be confidential) and shall cause a summary thereof to be published in the Federal Register.
 
->     “(e) __Applicable Provisions.—__ 
+>     “(e)  __Applicable Provisions__  __.—__ 
 
 >     For purposes of this subtitle, the provisions of paragraphs (1), (2), and (3) of section 330(d) of the Tariff Act of 1930 ([19 U.S.C. 1330(d)][/us/usc/t19/s1330/d]) shall be applied with respect to determinations and findings made under this section as if such determinations and findings were made under section 202 of the Trade Act of 1974 ([19 U.S.C. 2252][/us/usc/t19/s2252]).
 
 > “SEC. 213. __PROVISION OF RELIEF.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     No later than the date that is 30 days after the date on which the President receives the report of the Commission containing an affirmative determination of the Commission under section 212(a), the President shall provide relief from imports of the article that is the subject of such determination to the extent that the President determines necessary to prevent or remedy the injury found by the Commission and to facilitate the efforts of the domestic industry to make a positive adjustment to import competition, unless the President determines that the provision of such relief is not in the national economic interest of the United States or, in extraordinary circumstances, that the provision of such relief would cause serious harm to the national security of the United States.
 
->     “(b) __National Economic Interest.—__ 
+>     “(b)  __National Economic Interest__  __.—__ 
 
 >     The President may determine under subsection (a) that providing import relief is not in the national economic interest of the United States only if the President finds that taking such action would have an adverse impact on the United States economy clearly greater than the benefits of taking such action.
 
->     “(c) __Nature of Relief.—__ 
+>     “(c)  __Nature of Relief__  __.—__ 
 
 >     The import relief (including provisional relief) that the President is authorized to provide under this subtitle with respect to imports of an article is—
 
@@ -457,11 +457,11 @@
 
 >         “(3) in the case of a duty applied on a seasonal basis to that article, an increase in the rate of duty imposed on the article to a level that does not exceed the column 1 general rate of duty imposed under the HTS on the article for the corresponding season occurring immediately before the date on which the Agreement enters into force.
 
->     “(d) __Period of Relief.—__ 
+>     “(d)  __Period of Relief__  __.—__ 
 
 >     The import relief that the President is authorized to provide under this section may not exceed 4 years.
 
->     “(e) __Rate After Termination of Import Relief.—__ 
+>     “(e)  __Rate After Termination of Import Relief__  __.—__ 
 
 >     When import relief under this subtitle is terminated with respect to an article—
 
@@ -477,11 +477,11 @@
 
 > “SEC. 214. __TERMINATION OF RELIEF AUTHORITY.__ 
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Except as provided in subsection (b), no import relief may be provided under this subtitle after the date that is 15 years after the date on which the Agreement enters into force.
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     Import relief may be provided under this subtitle in the case of a Jordanian article after the date on which such relief would, but for this subsection, terminate under subsection (a), but only if the Government of Jordan consents to such provision.
 
@@ -503,11 +503,11 @@
 
 > “SEC. 221. __FINDINGS AND ACTION ON JORDANIAN IMPORTS.__ 
 
->     “(a) __Effect of Imports.—__ 
+>     “(a)  __Effect of Imports__  __.—__ 
 
 >     If, in any investigation initiated under chapter 1 of title II of the Trade Act of 1974 \[[19 U.S.C. 2251][/us/usc/t19/s2251] et seq.\], the Commission makes an affirmative determination (or a determination which the President may treat as an affirmative determination under such chapter by reason of section 330(d) of the Tariff Act of 1930 \[[19 U.S.C. 1330(d)][/us/usc/t19/s1330/d]\]), the Commission shall also find (and report to the President at the time such injury determination is submitted to the President) whether imports of the article from Jordan are a substantial cause of serious injury or threat thereof.
 
->     “(b) __Presidential Action Regarding Jordanian Imports.—__ 
+>     “(b)  __Presidential Action Regarding Jordanian Imports__  __.—__ 
 
 >     In determining the nature and extent of action to be taken under chapter 1 of title II of the Trade Act of 1974, the President shall determine whether imports from Jordan are a substantial cause of the serious injury found by the Commission and, if such determination is in the negative, may exclude from such action imports from Jordan.
 
@@ -527,11 +527,11 @@
 
 >     “(a) __Relationship of Agreement to United States Law.—__ 
 
->         “(1) __United states law to prevail in conflict.—__ 
+>         “(1)  __United states law to prevail in conflict__  __.—__ 
 
 >         No provision of the Agreement, nor the application of any such provision to any person or circumstance, that is inconsistent with any law of the United States shall have effect.
 
->         “(2) __Construction.—__ 
+>         “(2)  __Construction__  __.—__ 
 
 >         Nothing in this Act shall be construed—
 
@@ -543,11 +543,11 @@
 
 >     “(b) __Relationship of Agreement to State Law.—__ 
 
->         “(1) __Legal challenge.—__ 
+>         “(1)  __Legal challenge__  __.—__ 
 
 >         No State law, or the application thereof, may be declared invalid as to any person or circumstance on the ground that the provision or application is inconsistent with the Agreement, except in an action brought by the United States for the purpose of declaring such law or application invalid.
 
->         “(2) __Definition of state law.—__ 
+>         “(2)  __Definition of state law__  __.—__ 
 
 >         For purposes of this subsection, the term ‘State law’ includes—
 
@@ -555,7 +555,7 @@
 
 >             “(B) any State law regulating or taxing the business of insurance.
 
->     “(c) __Effect of Agreement With Respect to Private Remedies.—__ 
+>     “(c)  __Effect of Agreement With Respect to Private Remedies__  __.—__ 
 
 >     No person other than the United States—
 
@@ -579,15 +579,15 @@
 
 > “SEC. 404. __EFFECTIVE DATES; EFFECT OF TERMINATION.__ 
 
->     “(a) __Effective Dates.—__ 
+>     “(a)  __Effective Dates__  __.—__ 
 
 >     Except as provided in subsection (b), the provisions of this Act and the amendments made by this Act take effect on the date the Agreement enters into force \[Dec. 17, 2001\].
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >     Sections 1 through 3 and this title take effect on the date of the enactment of this Act \[Sept. 28, 2001\].
 
->     “(c) __Termination of the Agreement.—__ 
+>     “(c)  __Termination of the Agreement__  __.—__ 
 
 >     On the date on which the Agreement ceases to be in force, the provisions of this Act (other than this subsection) and the amendments made by this Act, shall cease to be effective.”
 
@@ -599,11 +599,11 @@
 
 > “SECTION 1. __SHORT TITLE AND TABLE OF CONTENTS.__ 
 
->     “(a) __Short Title.—__ 
+>     “(a)  __Short Title__  __.—__ 
 
 >     This Act \[enacting [section 1584 of Title 28][/us/usc/t28/s1584], Judiciary and Judicial Procedure, amending sections 58c, 81c, 1305, 1306, 1311, 1312, 1313, 1502, 1508, 1514, 1516a, 1562, 1677, 1677f, and 2518 of this title, sections 150bb, 150cc, 154, 156, 624, 1582, and 2803 of Title 7, Agriculture, [section 1184 of Title 8][/us/usc/t8/s1184], Aliens and Nationality, [section 24 of Title 12][/us/usc/t12/s24], Banks and Banking, [section 152 of Title 21][/us/usc/t21/s152], Food and Drugs, sections 1581, 2201, and 2643 of Title 28, [section 2201 of Title 42][/us/usc/t42/s2201], The Public Health and Welfare, section 2406 of the Appendix to Title 50, War and National Defense, enacting provisions set out as notes below, and amending provisions set out as a note under [section 2253 of this title][/us/usc/t19/s2253]\] may be cited as the ‘United States-Canada Free-Trade Agreement Implementation Act of 1988’.
 
->     “(b) __Table of Contents.—__ 
+>     “(b)  __Table of Contents__  __.—__ 
 
 >     \[Omitted.\]
 
@@ -623,7 +623,7 @@
 
 > “SEC. 101. __APPROVAL OF UNITED STATES-CANADA FREE-TRADE AGREEMENT.__ 
 
->     “(a) __Approval of Agreement and Statement of Administrative Action.—__ 
+>     “(a)  __Approval of Agreement and Statement of Administrative Action__  __.—__ 
 
 >     Pursuant to sections 102 and 151 of the Trade Act of 1974 ([19 U.S.C. 2112][/us/usc/t19/s2112] and 2191), the Congress approves—
 
@@ -639,11 +639,11 @@
 
 >         “(3) the statement of administrative action proposed to implement the Agreement that was submitted to the Congress on July 25, 1988.
 
->     “(b) __Conditions for Entry Into Force of the Agreement.—__ 
+>     “(b)  __Conditions for Entry Into Force of the Agreement__  __.—__ 
 
 >     At such time as the President determines that Canada has taken measures necessary to comply with the obligations of the Agreement, the President is authorized to exchange notes with the Government of Canada providing for the entry into force, on or after January 1, 1989, of the Agreement with respect to the United States.
 
->     “(c) __Report on Canadian Practices.—__ 
+>     “(c)  __Report on Canadian Practices__  __.—__ 
 
 >     Within 60 days after the date of the enactment of this Act \[Sept. 28, 1988\] (but not later than December 15, 1988), the United States Trade Representative shall submit to the Congress a report identifying, to the maximum extent practicable, major current Canadian practices (and the legal authority for such practices) that, in the opinion of the United States Trade Representative—
 
@@ -653,7 +653,7 @@
 
 > “SEC. 102. __RELATIONSHIP OF THE AGREEMENT TO UNITED STATES LAW.__ 
 
->     “(a) __United States Laws To Prevail in Conflict.—__ 
+>     “(a)  __United States Laws To Prevail in Conflict__  __.—__ 
 
 >     No provision of the Agreement, nor the application of any such provision to any person or circumstance, which is in conflict with any law of the United States shall have effect.
 
@@ -687,7 +687,7 @@
 
 >             “(B) any State law regulating or taxing the business of insurance.
 
->     “(c) __Effect of Agreement With Respect to Private Remedies.—__ 
+>     “(c)  __Effect of Agreement With Respect to Private Remedies__  __.—__ 
 
 >     No person other than the United States shall—
 
@@ -695,17 +695,17 @@
 
 >         “(2) challenge, in any action brought under any provision of law, any action or inaction by any department, agency, or other instrumentality of the United States, any State, or any political subdivision of a State on the ground that such action or inaction is inconsistent with the Agreement.
 
->     “(d) __Initial Implementing Regulations.—__ 
+>     “(d)  __Initial Implementing Regulations__  __.—__ 
 
 >     Initial regulations necessary or appropriate to carry out the actions proposed in the statement of administrative action submitted under section 101(a)(3) to implement the Agreement shall, to the maximum extent feasible, be issued within 1 year after the date of entry into force of the Agreement \[Jan. 1, 1989\]. In the case of any implementing action that takes effect after the date of entry into force of the Agreement, initial regulations to carry out that action shall, to the maximum extent feasible, be issued within 1 year after such effective date.
 
->     “(e) __Changes in Statutes To Implement a Requirement, Amendment, or Recommendation.—__ 
+>     “(e)  __Changes in Statutes To Implement a Requirement, Amendment, or Recommendation__  __.—__ 
 
 >     The provisions of section 3(c) of the Trade Agreements Act of 1979 ([19 U.S.C. 2504(c)][/us/usc/t19/s2504/c]) shall apply as if the Agreement were an agreement approved under section 2(a) of that Act \[[19 U.S.C. 2503(a)][/us/usc/t19/s2503/a]\] whenever the President determines that it is necessary or appropriate to amend, repeal, or enact a statute of the United States in order to implement any requirement of, amendment to, or recommendation, finding or opinion under, the Agreement; but such provisions shall not apply to any bill to implement any such requirement, amendment, recommendation, finding, or opinion that is submitted to the Congress after the close of the 30th month after the month in which the Agreement enters into force \[January 1989\].
 
 > “SEC. 103. __CONSULTATION AND LAY-OVER REQUIREMENTS FOR, AND EFFECTIVE DATE OF, PROCLAIMED ACTIONS.__ 
 
->     “(a) __Consultation and Lay-Over Requirements.—__ 
+>     “(a)  __Consultation and Lay-Over Requirements__  __.—__ 
 
 >     If a provision of this Act provides that the implementation of an action by the President by proclamation is subject to the consultation and lay-over requirements of this section, such action may be proclaimed only if—
 
@@ -729,17 +729,17 @@
 
 >         “(4) the President has consulted with such Committees regarding the proposed action during the period referred to in paragraph (3).
 
->     “(b) __Effective Date of Certain Proclaimed Actions.—__ 
+>     “(b)  __Effective Date of Certain Proclaimed Actions__  __.—__ 
 
 >     No action proclaimed by the President under the authority of this Act, if such action is not subject to the consultation and lay-over requirements under subsection (a), may take effect before the 15th day after the date on which the text of the proclamation is published in the Federal Register.
 
 > “SEC. 104. __HARMONIZED SYSTEM.__ 
 
->     “(a) __Definition.—__ 
+>     “(a)  __Definition__  __.—__ 
 
 >     As used in this Act, the term ‘Harmonized System’ means the nomenclature system established under the International Convention on the Harmonized Commodity Description and Coding System (done at Brussels on June 14, 1983, and the protocol thereto, done at Brussels on June 24, 1986) as implemented under United States law.
 
->     “(b) __Interim Application of TSUS.—__ 
+>     “(b)  __Interim Application of TSUS__  __.—__ 
 
 >     The following apply if the International Convention, and the protocol thereto, referred to in subsection (a) are not implemented under United States law before the Agreement enters into force:
 
@@ -767,7 +767,7 @@
 
 > “SEC. 201. __TARIFF MODIFICATIONS.__ 
 
->     “(a) __Tariff Modifications Specified in the Agreement.—__ 
+>     “(a)  __Tariff Modifications Specified in the Agreement__  __.—__ 
 
 >     The President may proclaim—
 
@@ -779,7 +779,7 @@
 
 >         as the President determines to be necessary or appropriate to carry out article 401 of the Agreement and the schedule of duty reductions with respect to Canada set forth in Annexes 401.2 and 401.7 to the Agreement, as approved under section 101(a)(1). For purposes of proclaiming necessary modifications under such Annex 401.2, any article covered under subheading 9813.00.05 (contained in the United States Schedule in such Annex) shall, unless such article is a drawback eligible good under section 204(a), be treated as being subject to any otherwise applicable customs duty if the article, or merchandise incorporating such article, is exported to Canada.
 
->     “(b) __Other Tariff Modifications.—__ 
+>     “(b)  __Other Tariff Modifications__  __.—__ 
 
 >     Subject to the consultation and lay-over requirements of section 103(a), the President may proclaim—
 
@@ -831,7 +831,7 @@
 
 >         “(3) Accessories, spare parts, or tools delivered with any piece of equipment, machinery, apparatus, or vehicle that form part of its standard equipment shall be treated as having the same origin as that equipment, machinery, apparatus, or vehicle if the quantities and values of such accessories, spare parts, or tools are customary for the equipment, machinery, apparatus, or vehicle.
 
->     “(b) __Transshipment.—__ 
+>     “(b)  __Transshipment__  __.—__ 
 
 >     Goods exported from the territory of one Party originate in the territory of that Party only if—
 
@@ -841,7 +841,7 @@
 
 >         “(3) the documents related to the exportation and shipment of the goods from the territory of a Party show the territory of the other Party as their final destination.
 
->     “(c) __Interpretation.—__ 
+>     “(c)  __Interpretation__  __.—__ 
 
 >     In interpreting this section, the following apply:
 
@@ -895,7 +895,7 @@
 
 >         “(2) For purposes of administering the value requirement (as defined in section 304(c)(3)) with respect to vehicles, the Secretary of the Treasury shall prescribe regulations governing the averaging of the value content of vehicles of the same class, or of sister vehicles, assembled in the same plant as an alternative to the calculation of the value content of each vehicle.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
@@ -1021,7 +1021,7 @@
 
 >             “(B) the direct cost of processing or the direct cost of assembling the goods.
 
->     “(g) __Special Provision Regarding Application of Rules of Origin to Certain Apparel.—__ 
+>     “(g)  __Special Provision Regarding Application of Rules of Origin to Certain Apparel__  __.—__ 
 
 >     The Secretary of Commerce is authorized to issue regulations governing the exportation to Canada of apparel products that are cut, or knit to shape, and sewn, or otherwise assembled, in either Party from fabric produced or obtained in a third country for the purpose of establishing which exports of such products shall be permitted to claim preferential tariff treatment under the rules of origin of the Agreement, to the extent that the Agreement provides for quantitative limits on the availability of preferential tariff treatment for such products.
 
@@ -1031,7 +1031,7 @@
 
 > “SEC. 204. __DRAWBACK.__ 
 
->     “(a) __Definition.—__ 
+>     “(a)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘drawback eligible goods’ means—
 
@@ -1043,7 +1043,7 @@
 
 >         No drawback may be paid with respect to countervailing duties or antidumping duties imposed on drawback eligible goods.
 
->     “(b) __Implementation of Article 404.—__ 
+>     “(b)  __Implementation of Article__  __404.—__ 
 
 >     The President is authorized—
 
@@ -1059,23 +1059,23 @@
 
 >     “(c) __Consequential Amendments.—__ 
 
->         “(1) __Bonded manufacturing warehouses.—__ 
+>         “(1)  __Bonded manufacturing warehouses__  __.—__ 
 
 >         \[Amended [section 1311 of this title][/us/usc/t19/s1311].\]
 
->         “(2) __Bonded smelting and refining warehouses.—__ 
+>         “(2)  __Bonded smelting and refining warehouses__  __.—__ 
 
 >         \[Amended [section 1312 of this title][/us/usc/t19/s1312].\]
 
->         “(3) __Drawback.—__ 
+>         “(3)  __Drawback__  __.—__ 
 
 >         \[Amended [section 1313 of this title][/us/usc/t19/s1313].\]
 
->         “(4) __Manipulation in warehouse.—__ 
+>         “(4)  __Manipulation in warehouse__  __.—__ 
 
 >         \[Amended [section 1562 of this title][/us/usc/t19/s1562].\]
 
->         “(5) __Foreign trade zones.—__ 
+>         “(5)  __Foreign trade zones__  __.—__ 
 
 >         \[Amended [section 81c of this title][/us/usc/t19/s81c].\]
 
@@ -1089,7 +1089,7 @@
 
 >         “(3) Any person that certifies falsely that goods exported to Canada meet the rules of origin under such section 202 shall be liable to the United States for the same civil penalties provided under section 592 of the Tariff Act of 1930 ([19 U.S.C. 1592][/us/usc/t19/s1592]) for a violation of section 592(a) of such Act by fraud, gross negligence, or negligence, as the case may be. The procedures and provisions of section 592 of such Act that are applicable to a violation under section 592(a) of such Act shall apply with respect to such false certification.
 
->     “(b) __Housekeeping Requirements.—__ 
+>     “(b)  __Housekeeping Requirements__  __.—__ 
 
 >     \[Amended [section 1508 of this title][/us/usc/t19/s1508].\]
 
@@ -1099,7 +1099,7 @@
 
 > “SEC. 207. __PRODUCTION-BASED DUTY REMISSION PROGRAMS WITH RESPECT TO AUTOMOTIVE PRODUCTS.__ 
 
->     “(a) __USTR Study.—__ 
+>     “(a)  __USTR Study__  __.—__ 
 
 >     The United States Trade Representative shall—
 
@@ -1227,19 +1227,19 @@
 
 >         “(10) The authority to impose temporary duties under this subsection expires on the 20th anniversary of the date on which the Agreement enters into force.
 
->     “(b) __Meat Import Act of 1979.—__ 
+>     “(b)  __Meat Import Act of__  __1979.—__ 
 
 >     \[Amended [section 2 of Pub. L. 88–482][/us/pl/88/482/s2], set out as a note under [section 2253 of this title][/us/usc/t19/s2253].\]
 
->     “(c) __Agricultural Adjustment Act.—__ 
+>     “(c)  __Agricultural Adjustment Act__  __.—__ 
 
 >     \[Amended [section 624 of Title 7][/us/usc/t7/s624], Agriculture.\]
 
->     “(d) __Importation of Animal Vaccines.—__ 
+>     “(d)  __Importation of Animal Vaccines__  __.—__ 
 
 >     \[Amended [section 152 of Title 21][/us/usc/t21/s152], Food and Drugs.\]
 
->     “(e) __Importation of Seeds.—__ 
+>     “(e)  __Importation of Seeds__  __.—__ 
 
 >     \[Amended [section 1582 of Title 7][/us/usc/t7/s1582], Agriculture.\]
 
@@ -1477,7 +1477,7 @@
 
 >             “(E) take other action that the President considers appropriate to enforce such United States rights.
 
->     “(f) __Biennial Report.—__ 
+>     “(f)  __Biennial Report__  __.—__ 
 
 >     The President shall submit to the Congress, at the close of each biennial period occurring after the date on which the Agreement enters into force \[Jan. 1, 1989\], a report regarding—
 
@@ -1491,11 +1491,11 @@
 
 > “SEC. 305. __ENERGY.__ 
 
->     “(a) __Alaskan Oil.—__ 
+>     “(a)  __Alaskan Oil__  __.—__ 
 
 >     \[Amended section 2406 of the Appendix to Title 50, War and National Defense.\]
 
->     “(b) __Uranium.—__ 
+>     “(b)  __Uranium__  __.—__ 
 
 >     \[Amended [section 2201 of Title 42][/us/usc/t42/s2201], The Public Health and Welfare.\]
 
@@ -1505,11 +1505,11 @@
 
 > “SEC. 307. __TEMPORARY ENTRY FOR BUSINESS PERSONS.__ 
 
->     “(a) __Nonimmigrant Traders and Investors.—__ 
+>     “(a)  __Nonimmigrant Traders and Investors__  __.—__ 
 
 >     Upon a basis of reciprocity secured by the United States-Canada Free-Trade Agreement, a citizen of Canada, and the spouse and children of any such citizen if accompanying or following to join such citizen, may, if otherwise eligible for a visa and if otherwise admissible into the United States under the Immigration and Nationality Act ([8 U.S.C. 1101][/us/usc/t8/s1101] et seq.), be considered to be classifiable as a nonimmigrant under section 101(a)(15)(E) of such Act ([8 U.S.C. 1101(a)(15)(E)][/us/usc/t8/s1101/a/15/E]) if entering solely for a purpose specified in Annex 1502.1 (United States of America), Part B—Traders and Investors, of such Agreement, but only if any such purpose shall have been specified in such Annex as of the date of entry into force of such Agreement \[Jan. 1, 1989\].
 
->     “(b) __Nonimmigrant Professionals.—__ 
+>     “(b)  __Nonimmigrant Professionals__  __.—__ 
 
 >     \[Amended [section 1184 of Title 8][/us/usc/t8/s1184], Aliens and Nationality.\]
 
@@ -1529,19 +1529,19 @@
 
 > “SEC. 402. __AMENDMENTS TO TITLE 28, UNITED STATES CODE.__ 
 
->     “(a) __Jurisdiction of Court of International Trade.—__ 
+>     “(a)  __Jurisdiction of Court of International Trade__  __.—__ 
 
 >     \[Amended [section 1581 of Title 28][/us/usc/t28/s1581], Judiciary and Judicial Procedure.\]
 
->     “(b) __Relief in Court of International Trade.—__ 
+>     “(b)  __Relief in Court of International Trade__  __.—__ 
 
 >     \[Amended [section 2643 of Title 28][/us/usc/t28/s2643].\]
 
->     “(c) __Declaratory Judgments.—__ 
+>     “(c)  __Declaratory Judgments__  __.—__ 
 
 >     \[Amended [section 2201 of Title 28][/us/usc/t28/s2201].\]
 
->     “(d) __Actions Under the Agreement.—__ 
+>     “(d)  __Actions Under the Agreement__  __.—__ 
 
 >     \[Enacted [section 1584 of Title 28][/us/usc/t28/s1584].\]
 
@@ -1713,15 +1713,15 @@
 
 >                     “(II) by substituting ‘the date that is 3 months after the date on which the Agreement enters into force’ for ‘March 31 of each calendar year’ in paragraph (4)(A).
 
->     “(b) __Status of Panelists.—__ 
+>     “(b)  __Status of Panelists__  __.—__ 
 
 >     Notwithstanding any other provision of law, individuals appointed by the United States to serve on panels or committees convened pursuant to chapter 19 of the Agreement, and individuals designated to assist such appointed individuals, shall not be considered to be employees or special employees of, or to be otherwise affiliated with, the Government of the United States.
 
->     “(c) __Immunity of Panelists.—__ 
+>     “(c)  __Immunity of Panelists__  __.—__ 
 
 >     With the exception of acts described in section 777f(d)(3) \[777(d)(3)\] of the Tariff Act of 1930, as added by this Act \[[19 U.S.C. 1677f(d)(3)][/us/usc/t19/s1677f/d/3]\], individuals serving on panels or committees convened pursuant to chapter 19 of the Agreement, and individuals designated to assist the individuals serving on such panels or committees, shall be immune from suit and legal process relating to acts performed by such individuals in their official capacity and within the scope of their functions as such panelists or committee members or assistants to such panelists or committee members.
 
->     “(d) __Regulations.—__ 
+>     “(d)  __Regulations__  __.—__ 
 
 >     The administering authority under title VII of the Tariff Act of 1930 \[[19 U.S.C. 1671][/us/usc/t19/s1671] et seq.\], the United States International Trade Commission, and the United States Trade Representative may promulgate such regulations as are necessary or appropriate to carry out actions in order to implement their respective responsibilities under chapters 18 and 19 of the Agreement. Initial regulations to carry out such functions shall be issued prior to the date of entry into force of the Agreement \[Jan. 1, 1989\].
 
@@ -1739,7 +1739,7 @@
 
 > “SEC. 406. __AUTHORIZATION OF APPROPRIATIONS FOR THE SECRETARIAT, THE PANELS, AND THE COMMITTEES.__ 
 
->     “(a) __The Secretariat.—__ 
+>     “(a)  __The Secretariat__  __.—__ 
 
 >     There are authorized to be appropriated to the department or agency within which the United States Secretariat described in chapter 19 of the Agreement is established the lesser of—
 
@@ -1761,7 +1761,7 @@
 
 > “SEC. 407. __TESTIMONY AND PRODUCTION OF PAPERS IN EXTRAORDINARY CHALLENGES.__ 
 
->     “(a) __Authority of Extraordinary Challenge Committee To Obtain Information.—__ 
+>     “(a)  __Authority of Extraordinary Challenge Committee To Obtain Information__  __.—__ 
 
 >     If an extraordinary challenge committee (hereinafter referred to in this section as the ‘committee’) is convened pursuant to article 1904(13) of the Agreement, and the allegations before the committee include a matter referred to in article 1904(13)(a)(i) of the Agreement, for the purposes of carrying out its functions and duties under Annex 1904.13 of the Agreement, the committee—
 
@@ -1775,29 +1775,29 @@
 
 >         Any member of the committee may sign subpoenas, and members of the committee, when authorized by the committee, may administer oaths and affirmations, examine witnesses, take testimony, and receive evidence.
 
->     “(b) __Witnesses and Evidence.—__ 
+>     “(b)  __Witnesses and Evidence__  __.—__ 
 
 >     The attendance of witnesses who are authorized to be summoned, and the production of documentary evidence authorized to be ordered, under subsection (a) may be required from any place in the United States at any designated place of hearing. In the case of disobedience to a subpoena authorized under subsection (a), the committee may request the Attorney General of the United States to invoke the aid of any district or territorial court of the United States in requiring the attendance and testimony of witnesses and the production of documentary evidence. Such court, within the jurisdiction of which such inquiry is carried on, may, in case of contumacy or refusal to obey a subpoena issued to any individual, partnership, corporation, association, organization, or other entity, issue an order requiring such individual or entity to appear before the committee, or to produce documentary evidence if so ordered or to give evidence concerning the matter in question. Any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
->     “(c) __Mandamus.—__ 
+>     “(c)  __Mandamus__  __.—__ 
 
 >     Any court referred to in subsection (b) shall have jurisdiction to issue writs of mandamus commanding compliance with the provisions of this section or any order of the committee made in pursuance thereof.
 
->     “(d) __Depositions.—__ 
+>     “(d)  __Depositions__  __.—__ 
 
 >     The committee may order testimony to be taken by deposition at any stage of the committee review. Such deposition may be taken before any person designated by the committee and having power to administer oaths. Such testimony shall be reduced to writing by the person taking the deposition, or under the direction of such person, and shall then be subscribed by the deponent. Any individual, partnership, corporation, association, organization or other entity may be compelled to appear and depose and to produce documentary evidence in the same manner as witnesses may be compelled to appear and testify and produce documentary evidence before the committee, as provided in this section.
 
 > “SEC. 408. __REQUESTS FOR REVIEW OF CANADIAN ANTIDUMPING AND COUNTERVAILING DUTY DETERMINATIONS.__ 
 
->     “(a) __Requests for Review by the United States.—__ 
+>     “(a)  __Requests for Review by the United States__  __.—__ 
 
 >     In the case of a final antidumping or countervailing duty determination of a competent investigating authority of Canada, as defined in article 1911 of the Agreement, requests by the United States for binational panel review under article 1904 of the Agreement shall be made by the United States Secretary, described in article 1909(4) of the Agreement.
 
->     “(b) __Requests for Review by a Person.—__ 
+>     “(b)  __Requests for Review by a Person__  __.—__ 
 
 >     In the case of a final antidumping or countervailing duty determination of a competent investigating authority of Canada, as defined in article 1911 of the Agreement, a person, within the meaning of article 1904(5) of the Agreement, may request a binational panel review of such determination by filing with the United States Secretary, described in article 1909(4) of the Agreement, such a request within the time limit provided for in article 1904(4) of the Agreement. The receipt of such request by the United States Secretary shall be deemed to be a request for binational panel review within the meaning of article 1904(4) of the Agreement. Such request shall contain such information and be in such form, manner, and style as the administering authority shall prescribe by regulations. The request for such panel review shall not preclude the United States, Canada, or any other person from challenging before a binational panel the basis for a particular request for review.
 
->     “(c) __Service of Request for Review.—__ 
+>     “(c)  __Service of Request for Review__  __.—__ 
 
 >     Whenever binational panel review is requested under this section, the United States Secretary shall serve a copy of the request on all persons who would otherwise be entitled under Canadian law to commence procedures for judicial review of a final antidumping or countervailing duty determination made by a competent investigating authority of Canada.
 
@@ -1903,7 +1903,7 @@
 
 > “SEC. 410. __TERMINATION OF AGREEMENT.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     If—
 
@@ -1923,25 +1923,25 @@
 
 > “SEC. 501. __EFFECTIVE DATES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), the provisions of this Act, and the amendments made by this Act, shall take effect on the date the Agreement enters into force \[Jan. 1, 1989\].    \[A Presidential Memorandum on the Canada-United States Free-Trade Agreement, dated Dec. 31, 1988, directing the Secretary of State to exchange notes with the Government of Canada to provide for the entry into force of the Agreement on Jan. 1, 1989, is set out in 24 Weekly Compilation of Presidential Documents 1688, Jan. 2, 1989. See, also, confirmation by Office of the United States Trade Representative, 54 F.R. 505.\]
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >     Sections 1 and 2, title I, section 304 (except subsection (f)), section 309, this section and section 502 shall take effect on the date of enactment of this Act \[Sept. 28, 1988\].
 
 >     “(c) __Termination or Suspension of Agreement.—__ 
 
->         “(1) __Termination of agreement.—__ 
+>         “(1)  __Termination of agreement__  __.—__ 
 
 >         On the date the Agreement ceases to be in force, the provisions of this Act (other than this paragraph and section 410(b)), and the amendments made by this Act, shall cease to have effect.
 
->         “(2) __Effect of agreement suspension.—__ 
+>         “(2)  __Effect of agreement suspension__  __.—__ 
 
 >         An agreement by the United States and Canada to suspend the operation of the Agreement shall not be deemed to cause the Agreement to cease to be in force within the meaning of paragraph (1).
 
->         “(3) __Suspension resulting from nafta.—__ 
+>         “(3)  __Suspension resulting from nafta__  __.—__ 
 
 >         On the date the United States and Canada agree to suspend the operation of the Agreement by reason of the entry into force between them of the North American Free Trade Agreement, the following provisions of this Act are suspended and shall remain suspended until such time as the suspension of the Agreement may be terminated:
 
@@ -2001,7 +2001,7 @@
 
 > “SEC. 4. __PROCLAMATION AUTHORITY.__ 
 
->     “(a) __Tariff Modifications.—__ 
+>     “(a)  __Tariff Modifications__  __.—__ 
 
 >     Except as provided in subsection (c), the President may proclaim—
 
@@ -2013,7 +2013,7 @@
 
 >         as the President determines to be required or appropriate to carry out the schedule of duty reductions with respect to Israel set forth in annex 1 of the Agreement.
 
->     “(b) __Additional Tariff Modification Authority.—__ 
+>     “(b)  __Additional Tariff Modification Authority__  __.—__ 
 
 >     Except as provided in subsection (c), whenever the President determines that it is necessary to maintain the general level of reciprocal and mutually advantageous concessions with respect to Israel provided for by the Agreement, the President may proclaim—
 
@@ -2025,13 +2025,13 @@
 
 >         as the President determines to be required or appropriate to carry out the Agreement.
 
->     “(c) __Exception to Authority.—__ 
+>     “(c)  __Exception to Authority__  __.—__ 
 
 >     No modification of any duty imposed on any article provided for in paragraph (4) of annex 1 of the Agreement that may be proclaimed under subsection (a) or (b) shall take effect prior to January 1, 1995.
 
 > “SEC. 5. __RELATIONSHIP OF THE AGREEMENT TO UNITED STATES LAW.__ 
 
->     “(a) __United States Statutes To Prevail in Conflict.—__ 
+>     “(a)  __United States Statutes To Prevail in Conflict__  __.—__ 
 
 >     No provision of the Agreement, nor the application of any such provision to any person or circumstance, which is in conflict with—
 
@@ -2041,7 +2041,7 @@
 
 >         shall be given effect under the laws of the United States.
 
->     “(b) __Implementing Regulations.—__ 
+>     “(b)  __Implementing Regulations__  __.—__ 
 
 >     Regulations that are necessary or appropriate to carry out actions proposed in any statement of proposed administrative action submitted to the Congress under section 102 of the Trade Act of 1974 ([19 U.S.C. 2112][/us/usc/t19/s2112]) in order to implement the Agreement shall be prescribed. Initial regulations to carry out such action shall be issued within one year after the date of the entry into force of the Agreement.
 
@@ -2073,7 +2073,7 @@
 
 >             “(C) the consultations required under section 3(c)(1) of such Act occur at least ninety days prior to the date on which such bill is submitted to the Congress under section 3(c) of such Act.
 
->     “(d) __Private Remedies Not Created.—__ 
+>     “(d)  __Private Remedies Not Created__  __.—__ 
 
 >     Neither the entry into force of the Agreement with respect to the United States, nor the enactment of this Act, shall be construed as creating any private right of action or remedy for which provision is not explicitly made under this Act or under the laws of the United States.
 

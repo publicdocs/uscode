@@ -67,7 +67,7 @@
 
 > “SEC. 102. __TERMINATION OF APPLICATION OF TITLE IV OF THE TRADE ACT OF 1974 TO PRODUCTS OF THE RUSSIAN FEDERATION.__ 
 
->     “(a) __Presidential Determinations and Extension of Nondiscriminatory Treatment.—__ 
+>     “(a)  __Presidential Determinations and Extension of Nondiscriminatory Treatment__  __.—__ 
 
 >     Notwithstanding any provision of title IV of the Trade Act of 1974 ([19 U.S.C. 2431][/us/usc/t19/s2431] et seq.), the President may—
 
@@ -75,11 +75,11 @@
 
 >         “(2) after making a determination under paragraph (1) with respect to the Russian Federation, proclaim the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of the Russian Federation.
 
->     “(b) __Effective Date of Nondiscriminatory Treatment.—__ 
+>     “(b)  __Effective Date of Nondiscriminatory Treatment__  __.—__ 
 
 >     The extension of nondiscriminatory treatment to the products of the Russian Federation pursuant to subsection (a) shall be effective not sooner than the effective date of the accession of the Russian Federation to the World Trade Organization \[Aug. 22, 2012\].
 
->     “(c) __Termination of Applicability of Title IV.—__ 
+>     “(c)  __Termination of Applicability of Title__  __IV.—__ 
 
 >     On and after the effective date under subsection (b) of the extension of nondiscriminatory treatment to the products of the Russian Federation, title IV of the Trade Act of 1974 ([19 U.S.C. 2431][/us/usc/t19/s2431] et seq.) shall cease to apply to the Russian Federation.
 
@@ -89,7 +89,7 @@
 
 >     “(a) __Reports on Implementation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than one year after the effective date under section 102(b) of the extension of nondiscriminatory treatment to the products of the Russian Federation, and annually thereafter, the United States Trade Representative shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report assessing the following:
 
@@ -111,11 +111,11 @@
 
 >         “(2) __Plan for action by trade representative.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             If, in preparing a report required by paragraph (1), the Trade Representative believes that the Russian Federation is not fully implementing an agreement specified in subparagraph (A) or (B) of that paragraph or that the Russian Federation is not making adequate progress in acceding to an agreement specified in subparagraph (B) of that paragraph, the Trade Representative shall, except as provided in subparagraph (B) of this paragraph, include in the report a description of the actions the Trade Representative plans to take to encourage the Russian Federation to improve its implementation of the agreement or increase its progress in acceding to the agreement, as the case may be.
 
->             “(B) __Classified information.—__ 
+>             “(B)  __Classified information__  __.—__ 
 
 >             If any information regarding a planned action referred to in subparagraph (A) is classifiable under Executive Order No. 13526 (75 Fed. Reg. 707; relating to classified national security information) \[[50 U.S.C. 3161][/us/usc/t50/s3161] note\] or a subsequent Executive order, the Trade Representative shall report that information to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives by—
 
@@ -125,21 +125,21 @@
 
 >         “(3) __Public comments.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In developing the report required by paragraph (1), the Trade Representative shall provide an opportunity for the public to comment, including by holding a public hearing.
 
->             “(B) __Publication in federal register.—__ 
+>             “(B)  __Publication in federal register__  __.—__ 
 
 >             The Trade Representative shall publish notice of the opportunity to comment and hearing required by subparagraph (A) in the Federal Register.
 
->     “(b) __Report on Enforcement Actions Taken by Trade Representative.—__ 
+>     “(b)  __Report on Enforcement Actions Taken by Trade Representative__  __.—__ 
 
 >     Not later than 180 days after the effective date under section 102(b) of the extension of nondiscriminatory treatment to the products of the Russian Federation, and annually thereafter, the United States Trade Representative shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report describing the enforcement actions taken by the Trade Representative against the Russian Federation to ensure the full compliance of the Russian Federation with its obligations as a member of the World Trade Organization, including obligations under agreements with members of the Working Party on the accession of the Russian Federation to the World Trade Organization.
 
 > “SEC. 202. __PROMOTION OF THE RULE OF LAW IN THE RUSSIAN FEDERATION TO SUPPORT UNITED STATES TRADE AND INVESTMENT.__ 
 
->     “(a) __Reports on Promotion of Rule of Law.—__ 
+>     “(a)  __Reports on Promotion of Rule of Law__  __.—__ 
 
 >     Not later than one year after the effective date under section 102(b) of the extension of nondiscriminatory treatment to the products of the Russian Federation, and annually thereafter, the United States Trade Representative and the Secretary of State shall jointly submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report—
 
@@ -161,7 +161,7 @@
 
 >     “(b) __Anti-Bribery Reporting and Assistance.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Commerce shall establish and maintain a dedicated phone hotline and secure website, accessible from within and outside the Russian Federation, for the purpose of allowing United States entities—
 
@@ -171,7 +171,7 @@
 
 >         “(2) __Report required.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Not later than one year after the effective date under section 102(b) of the extension of nondiscriminatory treatment to the products of the Russian Federation, and annually thereafter, the Secretary of Commerce shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report that includes the following:
 
@@ -183,7 +183,7 @@
 
 >                 “(iv) A description of the efforts taken by the Secretary to inform United States entities conducting business in the Russian Federation or considering conducting business in the Russian Federation of the availability of assistance through the hotline and website.
 
->             “(B) __Confidentiality.—__ 
+>             “(B)  __Confidentiality__  __.—__ 
 
 >             The Secretary shall not include in the report required by subparagraph (A) the identity of a United States entity that reports instances of bribery, attempted bribery, or other forms of corruption in the Russian Federation or requests assistance pursuant to paragraph (1).
 
@@ -215,7 +215,7 @@
 
 > “SEC. 302. __TERMINATION OF APPLICATION OF TITLE IV OF THE TRADE ACT OF 1974 TO PRODUCTS OF MOLDOVA.__ 
 
->     “(a) __Presidential Determinations and Extension of Nondiscriminatory Treatment.—__ 
+>     “(a)  __Presidential Determinations and Extension of Nondiscriminatory Treatment__  __.—__ 
 
 >     Notwithstanding any provision of title IV of the Trade Act of 1974 ([19 U.S.C. 2431][/us/usc/t19/s2431] et seq.), the President may—
 
@@ -223,7 +223,7 @@
 
 >         “(2) after making a determination under paragraph (1) with respect to Moldova, proclaim the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of Moldova.
 
->     “(b) __Termination of Applicability of Title IV.—__ 
+>     “(b)  __Termination of Applicability of Title__  __IV.—__ 
 
 >     On and after the date on which the President extends nondiscriminatory treatment to the products of Moldova pursuant to subsection (a), title IV of the Trade Act of 1974 ([19 U.S.C. 2431][/us/usc/t19/s2431] et seq.) shall cease to apply to Moldova.”
 
@@ -255,7 +255,7 @@
 
 > “SEC. 2. __TERMINATION OF APPLICATION OF TITLE IV OF THE TRADE ACT OF 1974 TO THE PRODUCTS OF UKRAINE.__ 
 
->     “(a) __Presidential Determinations and Extension of Nondiscriminatory Treatment.—__ 
+>     “(a)  __Presidential Determinations and Extension of Nondiscriminatory Treatment__  __.—__ 
 
 >     Notwithstanding any provision of title IV of the Trade Act of 1974 ([19 U.S.C. 2431][/us/usc/t19/s2431] et seq.), the President may—
 
@@ -263,7 +263,7 @@
 
 >         “(2) after making a determination under paragraph (1) with respect to Ukraine, proclaim the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of that country.
 
->     “(b) __Termination of Applicability of Title IV.—__ 
+>     “(b)  __Termination of Applicability of Title__  __IV.—__ 
 
 >     On and after the effective date under subsection (a) of the extension of nondiscriminatory treatment to the products of Ukraine \[Nondiscriminatory treatment extended Mar. 31, 2006, see Proc. No. 7995, listed in the table of presidential documents below.\], title IV of the Trade Act of 1974 shall cease to apply to that country.”
 
@@ -271,7 +271,7 @@
 
 [Pub. L. 108–429, title II, § 2001][/us/pl/108/429/s2001], Dec. 3, 2004, [118 Stat. 2587][/us/stat/118/2587], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -285,7 +285,7 @@
 
 >         “(5) Total United States-Armenia bilateral trade for 2002 amounted to more than $134,200,000.
 
->     “(b) __Presidential Determinations and Extensions of Nondiscriminatory Treatment.—__ 
+>     “(b)  __Presidential Determinations and Extensions of Nondiscriminatory Treatment__  __.—__ 
 
 >     Notwithstanding any provision of title IV of the Trade Act of 1974 ([19 U.S.C. 2431][/us/usc/t19/s2431] et seq.), the President may—
 
@@ -293,7 +293,7 @@
 
 >         “(2) after making a determination under paragraph (1) with respect to Armenia, proclaim the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of that country.
 
->     “(c) __Termination of application of Title IV.—__ 
+>     “(c)  __Termination of application of Title__  __IV.—__ 
 
 >     On and after the effective date of the extension under subsection (b)(2) of nondiscriminatory treatment to the products of Armenia \[Nondiscriminatory treatment extended Jan. 7, 2005, see Proc. No. 7860, listed in the table of presidential documents below.\], title IV of the Trade Act of 1974 shall cease to apply to that country.”
 
@@ -321,7 +321,7 @@
 
 > “SEC. 4002. __TERMINATION OF APPLICATION OF TITLE IV OF THE TRADE ACT OF 1974 TO VIETNAM.__ 
 
->     “(a) __Presidential Determinations and Extension of Non-Discriminatory Treatment.—__ 
+>     “(a)  __Presidential Determinations and Extension of Non-Discriminatory Treatment__  __.—__ 
 
 >     Notwithstanding any provision of title IV of the Trade Act of 1974 ([19 U.S.C. 2431][/us/usc/t19/s2431] et seq.), the President may—
 
@@ -329,7 +329,7 @@
 
 >         “(2) after making a determination under paragraph (1) with respect to Vietnam, proclaim the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of that country.
 
->     “(b) __Termination of the Applicability of Title IV.—__ 
+>     “(b)  __Termination of the Applicability of Title IV__  __.—__ 
 
 >     On and after the effective date of the extension of nondiscriminatory treatment to the products of Vietnam under subsection (a) \[Nondiscriminatory treatment extended Dec. 29, 2006, see Proc. No. 8096, listed in the table of presidential documents below.\], title IV of the Trade Act of 1974 \[[19 U.S.C. 2431][/us/usc/t19/s2431] et seq.\] shall cease to apply to that country.”
 
@@ -371,7 +371,7 @@
 
 > “SEC. 3002. __TERMINATION OF APPLICATION OF TITLE IV OF THE TRADE ACT OF 1974 TO GEORGIA.__ 
 
->     “(a) __Presidential Determinations and Extensions of Nondiscriminatory Treatment.—__ 
+>     “(a)  __Presidential Determinations and Extensions of Nondiscriminatory Treatment__  __.—__ 
 
 >     Notwithstanding any provision of title IV of the Trade Act of 1974 ([19 U.S.C. 2431][/us/usc/t19/s2431] et seq.), the President may—
 
@@ -379,7 +379,7 @@
 
 >         “(2) after making a determination under paragraph (1) with respect to Georgia, proclaim the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of that country.
 
->     “(b) __Termination of Application of Title IV.—__ 
+>     “(b)  __Termination of Application of Title IV__  __.—__ 
 
 >     On and after the effective date of the extension under subsection (a)(2) of nondiscriminatory treatment to the products of Georgia \[Nondiscriminatory treatment extended Dec. 29, 2000, see Proc. No. 7389, listed in the table of presidential documents below.\], title IV of the Trade Act of 1974 shall cease to apply to that country.”
 
@@ -389,7 +389,7 @@
 
 > “SEC. 101. __TERMINATION OF APPLICATION OF CHAPTER 1 OF TITLE IV OF THE TRADE ACT OF 1974 TO THE PEOPLE’S REPUBLIC OF CHINA.__ 
 
->     “(a) __Presidential Determinations and Extension of Nondiscriminatory Treatment.—__ 
+>     “(a)  __Presidential Determinations and Extension of Nondiscriminatory Treatment__  __.—__ 
 
 >     Notwithstanding any provision of chapter 1 of title IV of the Trade Act of 1974 ([19 U.S.C. 2431][/us/usc/t19/s2431] et seq.) \[this part\], as designated by section 3(a)(2) \[103(a)(2)\] of this Act, the President may—
 
@@ -397,17 +397,17 @@
 
 >         “(2) after making a determination under paragraph (1) with respect to the People’s Republic of China, proclaim the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of that country.
 
->     “(b) __Accession of the People’s Republic of China to the World Trade Organization.—__ 
+>     “(b)  __Accession of the People’s Republic of China to the World Trade Organization__  __.—__ 
 
 >     Prior to making the determination provided for in subsection (a)(1) and pursuant to the provisions of section 122 of the Uruguay Round Agreements Act ([19 U.S.C. 3532][/us/usc/t19/s3532]), the President shall transmit a report to Congress certifying that the terms and conditions for the accession of the People’s Republic of China to the World Trade Organization are at least equivalent to those agreed between the United States and the People’s Republic of China on November 15, 1999.
 
 > “SEC. 102. __EFFECTIVE DATE.__ 
 
->     “(a) __Effective Date of Nondiscriminatory Treatment.—__ 
+>     “(a)  __Effective Date of Nondiscriminatory Treatment__  __.—__ 
 
 >     The extension of nondiscriminatory treatment pursuant to section 101(a) shall be effective no earlier than the effective date of the accession of the People’s Republic of China to the World Trade Organization \[Dec. 11, 2001\].
 
->     “(b) __Termination of Applicability of Title IV.—__ 
+>     “(b)  __Termination of Applicability of Title IV__  __.—__ 
 
 >     On and after the effective date under subsection (a) of the extension of nondiscriminatory treatment to the products of the People’s Republic of China \[Nondiscriminatory treatment extended Jan. 1, 2002, see Proc. No. 7516, listed in the table of presidential documents below.\], chapter 1 of title IV of the Trade Act of 1974 \[this part\] (as designated by section 103(a)(2) of this Act) shall cease to apply to that country.”
 
@@ -415,7 +415,7 @@
 
 [Pub. L. 106–200, title III, § 301][/us/pl/106/200/s301], May 18, 2000, [114 Stat. 288][/us/stat/114/288], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -429,9 +429,9 @@
 
 >         “(5) The extension of unconditional normal trade relations treatment to the products of Albania will enable the United States to avail itself of all rights under the World Trade Organization with respect to Albania when that country becomes a member of the World Trade Organization.
 
->     “(b) __Termination of Application of Title IV of the Trade Act of 1974 to Albania.—__ 
+>     “(b)  __Termination of Application of Title IV of the Trade Act of__  __1974 to Albania.—__ 
 
->         “(1) __Presidential determinations and extensions of nondiscriminatory treatment.—__ 
+>         “(1)  __Presidential determinations and extensions of nondiscriminatory treatment__  __.—__ 
 
 >         Notwithstanding any provision of title IV of the Trade Act of 1974 ([19 U.S.C. 2431][/us/usc/t19/s2431] et seq.), the President may—
 
@@ -439,7 +439,7 @@
 
 >             “(B) after making a determination under subparagraph (A) with respect to Albania, proclaim the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of that country.
 
->         “(2) __Termination of application of title iv.—__ 
+>         “(2)  __Termination of application of title iv__  __.—__ 
 
 >         On or after the effective date of the extension under paragraph (1)(B) of nondiscriminatory treatment to the products of Albania \[Nondiscriminatory treatment extended June 29, 2000, see Proc. No. 7326, listed in the table of presidential documents below.\], title IV of the Trade Act of 1974 shall cease to apply to that country.”
 
@@ -447,7 +447,7 @@
 
 [Pub. L. 106–200, title III, § 302][/us/pl/106/200/s302], May 18, 2000, [114 Stat. 289][/us/stat/114/289], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -461,9 +461,9 @@
 
 >         “(5) The extension of unconditional normal trade relations treatment to the products of Kyrgyzstan will enable the United States to avail itself of all rights under the World Trade Organization with respect to Kyrgyzstan.
 
->     “(b) __Termination of Application of Title IV of the Trade Act of 1974 to Kyrgyzstan.—__ 
+>     “(b)  __Termination of Application of Title IV of the Trade Act of__  __1974 to Kyrgyzstan.—__ 
 
->         “(1) __Presidential determinations and extensions of nondiscriminatory treatment.—__ 
+>         “(1)  __Presidential determinations and extensions of nondiscriminatory treatment__  __.—__ 
 
 >         Notwithstanding any provision of title IV of the Trade Act of 1974 ([19 U.S.C. 2431][/us/usc/t19/s2431] et seq.), the President may—
 
@@ -471,7 +471,7 @@
 
 >             “(B) after making a determination under subparagraph (A) with respect to Kyrgyzstan, proclaim the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of that country.
 
->         “(2) __Termination of application of title iv.—__ 
+>         “(2)  __Termination of application of title iv__  __.—__ 
 
 >         On or after the effective date of the extension under paragraph (1)(B) of nondiscriminatory treatment to the products of Kyrgyzstan \[Nondiscriminatory treatment extended June 29, 2000, see Proc. No. 7326, listed in the table of presidential documents below.\], title IV of the Trade Act of 1974 shall cease to apply to that country.”
 
@@ -479,7 +479,7 @@
 
 [Pub. L. 106–36, title II, § 2424][/us/pl/106/36/s2424], June 25, 1999, [113 Stat. 180][/us/stat/113/180], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that Mongolia—
 
@@ -497,9 +497,9 @@
 
 >         “(7) has demonstrated a strong desire to build friendly relationships and to cooperate fully with the United States on trade matters.
 
->     “(b) __Termination of Application of Title IV of the Trade Act of 1974 to Mongolia.—__ 
+>     “(b)  __Termination of Application of Title IV of the Trade Act of __  __1974 to Mongolia.—__ 
 
->         “(1) __Presidential determinations and extensions of nondiscriminatory treatment.—__ 
+>         “(1)  __Presidential determinations and extensions of nondiscriminatory treatment__  __.—__ 
 
 >         Notwithstanding any provision of title IV of the Trade Act of 1974 ([19 U.S.C. 2431][/us/usc/t19/s2431] et seq.), the President may—
 
@@ -507,7 +507,7 @@
 
 >             “(B) after making a determination under subparagraph (A) with respect to Mongolia, proclaim the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of that country.
 
->         “(2) __Termination of application of title iv.—__ 
+>         “(2)  __Termination of application of title iv__  __.—__ 
 
 >         On or after the effective date of the extension under paragraph (1)(B) of nondiscriminatory treatment to the products of Mongolia \[Nondiscriminatory treatment extended July 1, 1999, see Proc. No. 7207, listed in the table of presidential documents below.\], title IV of the Trade Act of 1974 \[[19 U.S.C. 2431][/us/usc/t19/s2431] et seq.\] shall cease to apply to that country.”
 
@@ -535,7 +535,7 @@
 
 > “SEC. 2. __TERMINATION OF APPLICATION OF TITLE IV OF THE TRADE ACT OF 1974 TO ROMANIA.__ 
 
->     “(a) __Presidential Determinations and Extension of Nondiscriminatory Treatment.—__ 
+>     “(a)  __Presidential Determinations and Extension of Nondiscriminatory Treatment__  __.—__ 
 
 >     Notwithstanding any provision of title IV of the Trade Act of 1974 ([19 U.S.C. 2431][/us/usc/t19/s2431] et seq.), the President may—
 
@@ -543,7 +543,7 @@
 
 >         “(2) after making a determination under paragraph (1), proclaim the extension of nondiscriminatory treatment (most-favored-nation treatment) to the products of that country.
 
->     “(b) __Termination of Application of Title IV.—__ 
+>     “(b)  __Termination of Application of Title IV__  __.—__ 
 
 >     On and after the effective date of the extension under subsection (a)(2) of nondiscriminatory treatment to the products of Romania \[Nondiscriminatory treatment extended Nov. 12, 1996, see Proc. No. 6951, listed in the table of presidential documents below.\], title IV of the Trade Act of 1974 shall cease to apply to that country.”
 
@@ -555,11 +555,11 @@
 
 [Pub. L. 102–420][/us/pl/102/420], Oct. 16, 1992, [106 Stat. 2149][/us/stat/106/2149], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that Serbia or Montenegro are not complying with the provisions of the Final Act of the Conference on Security and Cooperation in Europe (also known as the ‘Helsinki Final Act’), particularly the provisions regarding human rights and humanitarian affairs and are not respecting minority rights in Kosovo and Vojvodina.
 
->     “(b) __Withdrawal of MFN Status.—__ 
+>     “(b)  __Withdrawal of MFN Status__  __.—__ 
 
 >     Except as provided in subsection (c), nondiscriminatory treatment shall not apply with respect to any goods that—
 
@@ -567,7 +567,7 @@
 
 >         “(2) are entered into the customs territory of the United States on or after the 15th day after the date of the enactment of this Act \[Oct. 16, 1992\].
 
->     “(c) __Restoration of Nondiscriminatory Treatment.—__ 
+>     “(c)  __Restoration of Nondiscriminatory Treatment__  __.—__ 
 
 >     Notwithstanding subsection (b), the President may restore nondiscriminatory treatment to goods that are the product of Serbia or Montenegro, as the case may be, 30 days after he certifies to the Congress that Serbia or Montenegro, as the case may be—
 
@@ -595,7 +595,7 @@
 
 > “SECTION 1. __CONGRESSIONAL FINDINGS AND PREPARATORY PRESIDENTIAL ACTION.__ 
 
->     “(a) __Congressional Findings.—__ 
+>     “(a)  __Congressional Findings__  __.—__ 
 
 >     The Congress finds that the Czech and Slovak Federal Republic and the Republic of Hungary both have—
 
@@ -609,7 +609,7 @@
 
 >         “(5) demonstrated a strong desire to build friendly relationships with the United States.
 
->     “(b) __Preparatory Presidential Action.—__ 
+>     “(b)  __Preparatory Presidential Action__  __.—__ 
 
 >     The Congress notes that the President in anticipation of the enactment of section 2, has directed the United States Trade Representative to negotiate with the Czech and Slovak Federal Republic and the Republic of Hungary, respectively, in order to—
 
@@ -619,7 +619,7 @@
 
 > “SEC. 2. __TERMINATION OF APPLICATION OF TITLE IV OF THE TRADE ACT OF 1974 TO CZECHOSLOVAKIA AND HUNGARY.__ 
 
->     “(a) __Presidential Determinations and Extension of Nondiscriminatory Treatment.—__ 
+>     “(a)  __Presidential Determinations and Extension of Nondiscriminatory Treatment__  __.—__ 
 
 >     Notwithstanding any provision of title IV of the Trade Act of 1974 ([19 U.S.C. 2431][/us/usc/t19/s2431] et seq.), the President may—
 
@@ -627,7 +627,7 @@
 
 >         “(2) after making a determination under paragraph (1) with respect to a country, proclaim the extension of nondiscriminatory treatment (most-favored-nation treatment) to the products of that country.
 
->     “(b) __Termination of Application of Title IV.—__ 
+>     “(b)  __Termination of Application of Title IV__  __.—__ 
 
 >     On and after the effective date of the extension under subsection (a)(2) of nondiscriminatory treatment to the products of a country \[Nondiscriminatory treatment extended Apr. 14, 1992, see Proc. No. 6419, listed in the table of presidential documents below.\], title IV of the Trade Act of 1974 shall cease to apply to that country.”
 
@@ -659,15 +659,15 @@
 
 > “SEC. 102. __EXTENSION OF NONDISCRIMINATORY TREATMENT TO THE PRODUCTS OF ESTONIA, LATVIA, AND LITHUANIA.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any provision of title IV of the Trade Act of 1974 ([19 U.S.C. 2431][/us/usc/t19/s2431] et seq.) or any other provision of law, nondiscriminatory treatment (most-favored-nation treatment) applies to the products of Estonia, Latvia, and Lithuania.
 
->     “(b) __Conforming Tariff Schedule Amendments.—__ 
+>     “(b)  __Conforming Tariff Schedule Amendments__  __.—__ 
 
 >     General Note 3(b) of the Harmonized Tariff Schedule of the United States is amended by striking out ‘Estonia’, ‘Latvia’, and ‘Lithuania’.
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     Subsection (a) and the amendments made by subsection (b) apply with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act \[Dec. 4, 1991\].
 
@@ -685,7 +685,7 @@
 
 > “SECTION 1. __CONGRESSIONAL FINDINGS AND SUPPLEMENTAL ACTION.__ 
 
->     “(a) __Congressional Findings.—__ 
+>     “(a)  __Congressional Findings__  __.—__ 
 
 >     The Congress finds that Bulgaria—
 
@@ -697,13 +697,13 @@
 
 >         “(4) has demonstrated a strong desire to build friendly relationships and to cooperate fully with the United States on trade matters.
 
->     “(b) __Supplemental Action.—__ 
+>     “(b)  __Supplemental Action__  __.—__ 
 
 >     The Congress notes that the United States Trade Representative intends to negotiate with Bulgaria in order to preserve the commitments of that country under the bilateral commercial agreement in effect between that country and the United States that are consistent with the GATT and the WTO.
 
 > “SEC. 2. __TERMINATION OF APPLICATION OF TITLE IV OF THE TRADE ACT OF 1974 TO BULGARIA.__ 
 
->     “(a) __Presidential Determinations and Extension of Nondiscriminatory Treatment.—__ 
+>     “(a)  __Presidential Determinations and Extension of Nondiscriminatory Treatment__  __.—__ 
 
 >     Notwithstanding any provision of title IV of the Trade Act of 1974 ([19 U.S.C. 2431][/us/usc/t19/s2431] et seq.), the President may—
 
@@ -711,7 +711,7 @@
 
 >         “(2) after making a determination under paragraph (1) with respect to Bulgaria, proclaim the extension of nondiscriminatory treatment (most-favored-nation treatment) to the products of that country.
 
->     “(b) __Termination of Application of Title IV.—__ 
+>     “(b)  __Termination of Application of Title IV__  __.—__ 
 
 >     On and after the effective date of the extension under subsection (a)(2) of nondiscriminatory treatment to the products of Bulgaria \[Nondiscriminatory treatment extended Oct. 1, 1996, see Proc. No. 6922, listed in the table of presidential documents below.\], title IV of the Trade Act of 1974 shall cease to apply to that country.”
 

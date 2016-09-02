@@ -131,7 +131,7 @@
 
             (C) a finding issued under the Antidumping Act, 1921, or
 
-            (D) a countervailing duty order issued under [section 1671e of this title][/us/usc/t19/s1671e] or section 1303  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of this title,
+            (D) a countervailing duty order issued under [section 1671e of this title][/us/usc/t19/s1671e] or section 1303 1 of this title,
 
             shall include articles altered in form or appearance in minor respects (including raw agricultural products that have undergone minor processing), whether or not included in the same tariff classification.
 
@@ -143,7 +143,7 @@
 
         (1) __In general__ 
 
-        For purposes of determining whether merchandise developed after an investigation is initiated under this subtitle or section 1303 2 of this title (hereafter in this paragraph referred to as the “later-developed merchandise”) is within the scope of an outstanding antidumping or countervailing duty order issued under this subtitle or section 1303 2 of this title as a result of such investigation, the administering authority shall consider whether—
+        For purposes of determining whether merchandise developed after an investigation is initiated under this subtitle or section 1303 1 of this title (hereafter in this paragraph referred to as the “later-developed merchandise”) is within the scope of an outstanding antidumping or countervailing duty order issued under this subtitle or section 1303 1 of this title as a result of such investigation, the administering authority shall consider whether—
 
             (A) the later-developed merchandise has the same general physical characteristics as the merchandise with respect to which the order was originally issued (hereafter in this paragraph referred to as the “earlier product”),
 

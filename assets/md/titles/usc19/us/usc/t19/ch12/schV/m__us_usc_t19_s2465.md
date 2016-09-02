@@ -45,13 +45,13 @@
 
 [Pub. L. 112–40, § 1(b)][/us/pl/112/40/s1/b], Oct. 21, 2011, [125 Stat. 401][/us/stat/125/401], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to articles entered on or after the 15th day after the date of the enactment of this Act \[Oct. 21, 2011\].
 
 >     “(2) __Retroactive application for certain liquidations and reliquidations.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Notwithstanding section 514 of the Tariff Act of 1930 ([19 U.S.C. 1514][/us/usc/t19/s1514]) or any other provision of law and subject to subparagraph (B), any entry of an article to which duty-free treatment or other preferential treatment under title V of the Trade Act of 1974 \[[19 U.S.C. 2461][/us/usc/t19/s2461] et seq.\] would have applied if the entry had been made on December 31, 2010, that was made—
 
@@ -61,7 +61,7 @@
 
 >             shall be liquidated or reliquidated as though such entry occurred on the 15th day after the date of the enactment of this Act.
 
->         “(B) __Requests.—__ 
+>         “(B)  __Requests__  __.—__ 
 
 >         A liquidation or reliquidation may be made under subparagraph (A) with respect to an entry only if a request therefor is filed with U.S. Customs and Border Protection not later than 180 days after the date of the enactment of this Act \[Oct. 21, 2011\] that contains sufficient information to enable U.S. Customs and Border Protection—
 
@@ -69,11 +69,11 @@
 
 >             “(ii) to reconstruct the entry if it cannot be located.
 
->         “(C) __Payment of amounts owed.—__ 
+>         “(C)  __Payment of amounts owed__  __.—__ 
 
 >         Any amounts owed by the United States pursuant to the liquidation or reliquidation of an entry of an article under subparagraph (A) shall be paid, without interest, not later than 90 days after the date of the liquidation or reliquidation (as the case may be).
 
->     “(3) __Definition.—__ 
+>     “(3)  __Definition__  __.—__ 
 
 >     As used in this subsection, the terms ‘enter’ and ‘entry’ include a withdrawal from warehouse for consumption.”
 
@@ -81,13 +81,13 @@
 
 [Pub. L. 106–170, title V, § 508(b)][/us/pl/106/170/s508/b], Dec. 17, 1999, [113 Stat. 1923][/us/stat/113/1923], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by this section \[amending this section\] applies to articles entered on or after the date of the enactment of this Act \[Dec. 17, 1999\].
 
 >     “(2) __Retroactive application for certain liquidations and reliquidations.—__ 
 
->         “(A) __General rule.—__ 
+>         “(A)  __General rule__  __.—__ 
 
 >         Notwithstanding section 514 of the Tariff Act of 1930 \[[19 U.S.C. 1514][/us/usc/t19/s1514]\] or any other provision of law, and subject to paragraph (3), any entry—
 
@@ -103,11 +103,11 @@
 
 >             shall be liquidated or reliquidated as free of duty, and the Secretary of the Treasury shall refund any duty paid with respect to such entry.
 
->         “(B) __Entry.—__ 
+>         “(B)  __Entry__  __.—__ 
 
 >         As used in this paragraph, the term ‘entry’ includes a withdrawal from warehouse for consumption.
 
->     “(3) __Requests.—__ 
+>     “(3)  __Requests__  __.—__ 
 
 >     Liquidation or reliquidation may be made under paragraph (2) with respect to an entry only if a request therefore is filed with the Customs Service, within 180 days after the date of the enactment of this Act \[Dec. 17, 1999\], that contains sufficient information to enable the Customs Service—
 
@@ -119,13 +119,13 @@
 
 [Pub. L. 105–277, div. J, title I, § 1011(b)][/us/pl/105/277/s1011/b], Oct. 21, 1998, [112 Stat. 2681–900][/us/stat/112/2681-900], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] apply to articles entered on or after the date of the enactment of this Act \[Oct. 21, 1998\].
 
 >     “(2) __Retroactive application for certain liquidations and reliquidations.—__ 
 
->         “(A) __General rule.—__ 
+>         “(A)  __General rule__  __.—__ 
 
 >         Notwithstanding section 514 of the Tariff Act of 1930 \[[19 U.S.C. 1514][/us/usc/t19/s1514]\] or any other provision of law, and subject to paragraph (3), any entry—
 
@@ -141,11 +141,11 @@
 
 >             shall be liquidated or reliquidated as free of duty, and the Secretary of the Treasury shall refund any duty paid with respect to such entry.
 
->         “(B) __Entry.—__ 
+>         “(B)  __Entry__  __.—__ 
 
 >         As used in this paragraph, the term ‘entry’ includes a withdrawal from warehouse for consumption.
 
->     “(3) __Requests.—__ 
+>     “(3)  __Requests__  __.—__ 
 
 >     Liquidation or reliquidation may be made under paragraph (2) with respect to an entry only if a request therefor is filed with the Customs Service, within 180 days after the date of enactment of this Act, that contains sufficient information to enable the Customs Service—
 
@@ -157,7 +157,7 @@
 
 [Pub. L. 107–210, div. D, title XLI, § 4101(b)][/us/pl/107/210/s4101/b], Aug. 6, 2002, [116 Stat. 1040][/us/stat/116/1040], as amended by [Pub. L. 108–429, title II, § 2004(a)(20)][/us/pl/108/429/s2004/a/20], Dec. 3, 2004, [118 Stat. 2591][/us/stat/118/2591], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Notwithstanding section 514 of the Tariff Act of 1930 \[[19 U.S.C. 1514][/us/usc/t19/s1514]\] or any other provision of law, and subject to paragraph (2), the entry of any article—
 
@@ -169,7 +169,7 @@
 
 >         shall be liquidated or reliquidated as free of duty, and the Secretary of the Treasury shall refund any duty paid with respect to such entry.
 
->     “(2) __Requests.—__ 
+>     “(2)  __Requests__  __.—__ 
 
 >     Liquidation or reliquidation may be made under paragraph (1) with respect to an entry only if a request therefor is filed with the Customs Service, within 180 days after the date of the enactment of this Act, that contains sufficient information to enable the Customs Service—
 
@@ -177,7 +177,7 @@
 
 >         “(B) to reconstruct the entry if it cannot be located.
 
->     “(3) __Definition.—__ 
+>     “(3)  __Definition__  __.—__ 
 
 >     As used in this subsection, the term ‘entry’ includes a withdrawal from warehouse for consumption.”
 

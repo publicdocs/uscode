@@ -113,7 +113,7 @@
 
 [Pub. L. 101–382, title I, § 132(d)][/us/pl/101/382/s132/d], Aug. 20, 1990, [104 Stat. 647][/us/stat/104/647], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 2191 to 2194, 2435, and 2437 of this title\] take effect on the date of the enactment of this Act \[Aug. 20, 1990\].
 

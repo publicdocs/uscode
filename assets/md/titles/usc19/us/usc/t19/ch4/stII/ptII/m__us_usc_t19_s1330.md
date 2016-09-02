@@ -223,11 +223,11 @@
 
 [Pub. L. 102–185, § 1(a)(3)][/us/pl/102/185/s1/a/3], Dec. 4, 1991, [105 Stat. 1280][/us/stat/105/1280], provided that:
 
->     “(A) __Modification.—__ 
+>     “(A)  __Modification__  __.—__ 
 
 >     The amendments made by paragraph (1) \[amending this section\] shall apply to terms beginning on and after June 17, 1990.
 
->     “(B) __1-year requirement.—__ 
+>     “(B) __1-__  __year requirement__  __.—__ 
 
 >     The amendments made by paragraph (2) \[amending this section\] shall apply to terms beginning on and after June 17, 1996.”
 

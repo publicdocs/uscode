@@ -133,7 +133,7 @@
 
 [Pub. L. 108–429, title I, § 1560][/us/pl/108/429/s1560], Dec. 3, 2004, [118 Stat. 2580][/us/stat/118/2580], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -147,15 +147,15 @@
 
 >     “(b) __Creation of Integrated Border Inspection Areas.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Commissioner of the Customs Service \[Bureau of Customs and Border Protection\], in consultation with the Canadian Customs and Revenue Agency (CCRA), shall seek to establish Integrated Border Inspection Areas (IBIAs), such as areas on either side of the United States-Canada border, in which United States Customs officers can inspect vehicles entering the United States from Canada before they enter the United States, or Canadian Customs officers can inspect vehicles entering Canada from the United States before they enter Canada. Such inspections may include, where appropriate, employment of reverse inspection techniques.
 
->         “(2) __Additional requirement.—__ 
+>         “(2)  __Additional requirement__  __.—__ 
 
 >         The Commissioner of Customs, in consultation with the Administrator of the General Services Administration when appropriate, shall seek to carry out paragraph (1) in a manner that minimizes adverse impacts on the surrounding community.
 
->         “(3) __Elements of the program.—__ 
+>         “(3)  __Elements of the program__  __.—__ 
 
 >         Using the authority granted by this section and under section 629 of the Tariff Act of 1930 \[[19 U.S.C. 1629][/us/usc/t19/s1629]\], the Commissioner of Customs, in consultation with the Canadian Customs and Revenue Agency, shall seek to—
 

@@ -57,15 +57,15 @@
 
         (4) __De minimis countervailable subsidy.—__ 
 
-            (A) __General rule.—__ 
+            (A)  __General rule__  __.—__ 
 
             In making a determination under this subsection, the administering authority shall disregard any de minimis countervailable subsidy. For purposes of the preceding sentence, a countervailable subsidy is de minimis if the administering authority determines that the aggregate of the net countervailable subsidies is less than 1 percent ad valorem or the equivalent specific rate for the subject merchandise.
 
-            (B) __Exception for developing countries.—__ 
+            (B)  __Exception for developing countries__  __.—__ 
 
             In the case of subject merchandise imported from a Subsidies Agreement country (other than a country to which subparagraph (C) applies) designated by the Trade Representative as a developing country in accordance with [section 1677(36) of this title][/us/usc/t19/s1677/36], a countervailable subsidy is de minimis if the administering authority determines that the aggregate of the net countervailable subsidies does not exceed 2 percent ad valorem or the equivalent specific rate for the subject merchandise.
 
-            (C) __Certain other developing countries.—__ 
+            (C)  __Certain other developing countries__  __.—__ 
 
             In the case of subject merchandise imported from a Subsidies Agreement country that is—
 
@@ -75,13 +75,13 @@
 
                 subparagraph (B) shall be applied by substituting “3 percent” for “2 percent”.
 
-            (D) __Limitations on application of subparagraph (C).—__ 
+            (D)  __Limitations on application of subparagraph__  __(C).—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 In the case of a country described in subparagraph (C)(i), the provisions of subparagraph (C) shall not apply after the date that is 8 years after the date the WTO Agreement enters into force.
 
-                (ii) __Special rule for subparagraph (C)(ii) countries.—__ 
+                (ii)  __Special rule for subparagraph__  __(C)(ii)__  __countries__  __.—__ 
 
                 In the case of a country described in subparagraph (C)(ii), the provisions of subparagraph (C) shall not apply after the earlier of—
 
@@ -89,7 +89,7 @@
 
                     (II) the date on which the Trade Representative notifies the administering authority that such country is providing an export subsidy.
 
-        (5) __Notification of article 8 violation.—__ 
+        (5)  __Notification of article 8 violation__  __.—__ 
 
         If the only subsidy under investigation is a subsidy with respect to which the administering authority received notice from the Trade Representative of a violation of Article 8 of the Subsidies Agreement, paragraph (1) shall be applied by substituting “60 days” for “65 days”.
 

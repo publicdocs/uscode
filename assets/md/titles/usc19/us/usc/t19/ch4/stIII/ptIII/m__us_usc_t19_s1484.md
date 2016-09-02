@@ -267,25 +267,25 @@
 
 >     “(a) __Requirement on Importers.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Pursuant to sections 484 and 485 of the Tariff Act of 1930 ([19 U.S.C. 1484][/us/usc/t19/s1484] and 1485), the Commissioner responsible for U.S. Customs and Border Protection shall require each importer of merchandise to provide to U.S. Customs and Border Protection at the time of entry of the merchandise the information described in paragraph (2).
 
->         “(2) __Information required.—__ 
+>         “(2)  __Information required__  __.—__ 
 
 >         The information referred to in paragraph (1) is a declaration as to whether the transaction value of the imported merchandise is determined on the basis of the price paid by the buyer in the first or earlier sale occurring prior to introduction of the merchandise into the United States.
 
->         “(3) __Effective date.—__ 
+>         “(3)  __Effective date__  __.—__ 
 
 >         The requirement to provide information under this subsection shall be effective for the 1-year period beginning 90 days after the date of the enactment of this Act \[June 18, 2008\].
 
 >     “(b) __Report to International Trade Commission.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Commissioner responsible for U.S. Customs and Border Protection shall submit to the United States International Trade Commission on a monthly basis for the 1-year period specified in subsection (a)(3) a report on the information provided by importers under subsection (a)(2) during the preceding month. The report required under this paragraph shall be submitted in a form agreed upon between U.S. Customs and Border Protection and the United States International Trade Commission.
 
->         “(2) __Matters to be included.—__ 
+>         “(2)  __Matters to be included__  __.—__ 
 
 >         The report required under paragraph (1) shall include—
 
@@ -297,11 +297,11 @@
 
 >     “(c) __Report to Congress.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 90 days after the submission of the final report under subsection (b), the United States International Trade Commission shall submit to the appropriate congressional committees a report on the information contained in all reports submitted under subsection (b).
 
->         “(2) __Matters to be included.—__ 
+>         “(2)  __Matters to be included__  __.—__ 
 
 >         The report required under paragraph (1) shall include—
 
@@ -315,11 +315,11 @@
 
 >     “(d) __Sense of Congress Regarding Prohibition on Proposed Interpretation of the Term ‘Sold for Exportation to the United States’.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         It is the sense of Congress that the Commissioner responsible for U.S. Customs and Border Protection should not implement a change to U.S. Customs and Border Protection’s interpretation (as such interpretation is in effect on the date of the enactment of this Act \[June 18, 2008\]) of the term ‘sold for exportation to the United States’, as described in section 402(b) of the Tariff Act of 1930 ([19 U.S.C. 1401a(b)][/us/usc/t19/s1401a/b]), for purposes of applying the transaction value of the imported merchandise in a series of sales, before January 1, 2011.
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         It is the sense of Congress that beginning on January 1, 2011, the Commissioner responsible for U.S. Customs and Border Protection may propose to change or change U.S. Customs and Border Protection’s interpretation of the term ‘sold for exportation to the United States’, as described in paragraph (1), only if U.S. Customs and Border Protection—
 
@@ -341,27 +341,27 @@
 
 >             “(C) receives the explicit approval of the Secretary of the Treasury prior to publishing a change.
 
->         “(3) __Consideration of international trade commission report.—__ 
+>         “(3)  __Consideration of international trade commission report__  __.—__ 
 
 >         It is the sense of Congress that prior to publishing a change to U.S. Customs and Border Protection’s interpretation (as such interpretation is in effect on the date of the enactment of this Act \[June 18, 2008\]) of the term ‘sold for exportation to the United States’, as described in section 402(b) of the Tariff Act of 1930 ([19 U.S.C. 1401a(b)][/us/usc/t19/s1401a/b]), for purposes of applying the transaction value of the imported merchandise in a series of sales, the Commissioner responsible for U.S. Customs and Border Protection should take into consideration the matters included in the report prepared by the United States International Trade Commission under subsection (c).
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Appropriate congressional committees.—__ 
+>         “(1)  __Appropriate congressional committees__  __.—__ 
 
 >         The term ‘appropriate congressional committees’ means the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
 
->         “(2) __Commercial operations advisory committee.—__ 
+>         “(2)  __Commercial operations advisory committee__  __.—__ 
 
 >         The term ‘Commercial Operations Advisory Committee’ means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 \[[Pub. L. 100–203][/us/pl/100/203]\] ([19 U.S.C. 2071][/us/usc/t19/s2071] note) or any successor committee.
 
->         “(3) __Importer.—__ 
+>         “(3)  __Importer__  __.—__ 
 
 >         The term ‘importer’ means one of the parties qualifying as an ‘importer of record’ under section 484(a)(2)(B) in the Tariff Act of 1930 ([19 U.S.C. 1484(a)(2)(B)][/us/usc/t19/s1484/a/2/B]).
 
->         “(4) __Transaction value of the imported merchandise.—__ 
+>         “(4)  __Transaction value of the imported merchandise__  __.—__ 
 
 >         The term ‘transaction value of the imported merchandise’ has the meaning described in section 402(b) of the Tariff Act of 1930 ([19 U.S.C. 1401a(b)][/us/usc/t19/s1401a/b]).”
 
@@ -371,11 +371,11 @@
 
 [Pub. L. 101–382, title I, § 137][/us/pl/101/382/s137], Aug. 20, 1990, [104 Stat. 652][/us/stat/104/652], provided that:
 
->     “(a) __Statistical Annotations.—__ 
+>     “(a)  __Statistical Annotations__  __.—__ 
 
 >     The Secretary of the Treasury, the Secretary of Commerce, and the United States International Trade Commission shall take actions under section 484(e) of the Tariff Act of 1930 ([19 U.S.C. 1484(e)][/us/usc/t19/s1484/e]) to implement the recommendations of the Commission regarding additional statistical annotations that were made in the report of the Commission on Investigation 332–277.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     By no later than the date that is 1 year after the date of enactment of this Act \[Aug. 20, 1990\], the Commissioner of Customs shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report on the operational response of the United States Customs Service to the recommendations contained in the report of the United States Trade Commission described in subsection (a). The report submitted by the Commissioner of Customs under this subsection shall address the effectiveness of the United States Customs Service in monitoring and seizing drug paraphernalia, including crack bags, vials, and pipes.”
 

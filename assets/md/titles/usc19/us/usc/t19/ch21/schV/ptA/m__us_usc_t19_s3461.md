@@ -23,11 +23,11 @@
 
 [Pub. L. 103–182, title V, § 516][/us/pl/103/182/s516], Dec. 8, 1993, [107 Stat. 2160][/us/stat/107/2160], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), the provisions of this subtitle \[subtitle B (§§ 511–516) of title V of [Pub. L. 103–182][/us/pl/103/182], enacting this part and [section 2707 of this title][/us/usc/t19/s2707], amending [section 2242 of this title][/us/usc/t19/s2242], and enacting provisions set out as a note under [section 2707 of this title][/us/usc/t19/s2707]\] shall take effect on the date the Agreement enters into force with respect to the United States \[Jan. 1, 1994\].
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     Section 515 \[enacting [section 2707 of this title][/us/usc/t19/s2707] and provisions set out as a note under [section 2707 of this title][/us/usc/t19/s2707]\] shall take effect on the date of the enactment of this Act \[Dec. 8, 1993\].”
 

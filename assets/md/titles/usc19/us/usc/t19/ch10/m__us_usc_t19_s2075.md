@@ -271,7 +271,7 @@
 
 >     “\[(2) Repealed. [Pub. L. 107–296, title IV, § 419(b)][/us/pl/107/296/s419/b], Nov. 25, 2002, [116 Stat. 2182][/us/stat/116/2182].\]
 
->     “(3) __Reports.—__ 
+>     “(3)  __Reports__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Aug. 6, 2002\], and not later than the end of each subsequent 90-day period, the Commissioner of Customs shall prepare and submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report demonstrating that the development and establishment of the Automated Commercial Environment computer system is being carried out in a cost-effective manner and meets the modernization requirements of title VI of the North American Free Trade Agreement Implementation Act \[[Pub. L. 103–182][/us/pl/103/182], see Tables for classification\].”
 

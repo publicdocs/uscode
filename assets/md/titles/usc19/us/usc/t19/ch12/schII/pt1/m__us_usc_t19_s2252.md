@@ -553,15 +553,15 @@
 
 [Pub. L. 103–465, title III, § 304][/us/pl/103/465/s304], Dec. 8, 1994, [108 Stat. 4938][/us/stat/108/4938], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), this subtitle \[subtitle A (§§ 301–304) of title III of [Pub. L. 103–465][/us/pl/103/465], amending this section and sections 2253 and 2254 of this title\] and the amendments made by this subtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\].
 
->     “(b) __Section 301(b).—__ 
+>     “(b)  __Section__  __301(b).—__ 
 
 >     The amendment made by section 301(b) \[amending this section\] takes effect on the date of the enactment of this Act \[Dec. 8, 1994\].”
 
- __Effective Dates of 1993 Amendment__ 
+ __Effective Date of 1993 Amendment__ 
 
     Amendment by [Pub. L. 103–182][/us/pl/103/182] effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see [section 318 of Pub. L. 103–182][/us/pl/103/182/s318], set out as an Effective Date note under [section 3351 of this title][/us/usc/t19/s3351].
 

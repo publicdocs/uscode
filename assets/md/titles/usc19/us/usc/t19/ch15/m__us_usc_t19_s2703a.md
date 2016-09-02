@@ -4155,11 +4155,11 @@
 
 [Pub. L. 110–234, title XV, § 15412][/us/pl/110/234/s15412], May 22, 2008, [122 Stat. 1547][/us/stat/122/1547], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15412, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2309, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), this part \[part I (§§ 15401–15412) of subtitle D of title XV of [Pub. L. 110–246][/us/pl/110/246], amending this section and [section 2703 of this title][/us/usc/t19/s2703] and enacting provisions set out as notes under this section and [section 2701 of this title][/us/usc/t19/s2701]\] and the amendments made by this part shall take effect on the date of the enactment of this Act \[June 18, 2008\].
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     The amendments made by section 15402 \[amending this section\] shall take effect on October 1, 2008, and shall apply to articles entered, or withdrawn from warehouse for consumption, on or after that date.”
 
@@ -4213,7 +4213,7 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __Rapid response team.—__ 
+>         “(1)  __Rapid response team__  __.—__ 
 
 >         The Commissioner responsible for United States Customs and Border Protection (in this section referred to as the ‘Commissioner’) shall, in consultation with the United States Coast Guard, the Drug Enforcement Agency, and other Federal agencies, as appropriate, seek to send a rapid response team to Haiti—
 
@@ -4231,7 +4231,7 @@
 
 >                 “(iv) otherwise strengthening cooperation between the customs authorities of the United States, Haiti, and the Dominican Republic with respect to trade facilitation and economic development, customs compliance and law enforcement, and efforts to combat unlawful trafficking in narcotic drugs and psychotropic substances.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than 75 days after the date of the enactment of this Act \[May 24, 2010\], the Commissioner shall prepare and submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a nonconfidential report summarizing the results of the assessment required by paragraph (1)(A), including—
 
@@ -4243,17 +4243,17 @@
 
 >     “(b) __Support Team.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Commissioner shall, in consultation with other Federal agencies, as appropriate, seek to establish a support team in Haiti for the purpose of helping to meet the short-term and long-term technical, capacity-building, and training needs of the authorities of the Government of Haiti responsible for customs services, as described in this section.
 
->         “(2) __Termination.—__ 
+>         “(2)  __Termination__  __.—__ 
 
 >         The support team authorized by paragraph (1) shall terminate on September 30, 2020.
 
 >     “(c) __Authorization of Appropriations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There are authorized to be appropriated to the United States Customs and Border Protection Agency, to remain available until expended—
 
@@ -4261,7 +4261,7 @@
 
 >             “(B) $750,000 for each of the fiscal years 2011 through 2020 for the purpose of maintaining the support team authorized by subsection (b).
 
->         “(2) __Supplement and not supplant.—__ 
+>         “(2)  __Supplement and not supplant__  __.—__ 
 
 >         The amounts authorized to be appropriated by paragraph (1) shall supplement and not supplant any other funds authorized to be appropriated to the Department of Homeland Security.”
 

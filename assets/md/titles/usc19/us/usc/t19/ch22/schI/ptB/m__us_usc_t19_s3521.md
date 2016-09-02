@@ -3015,11 +3015,11 @@
 
 [Pub. L. 103–465, title I, § 116][/us/pl/103/465/s116], Dec. 8, 1994, [108 Stat. 4828][/us/stat/108/4828], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in section 114(a) \[[108 Stat. 4827][/us/stat/108/4827]\] and subsection (b) of this section, this subtitle \[subtitle B (§§ 111–116) of title I of [Pub. L. 103–465][/us/pl/103/465], enacting this part and amending [section 1466 of this title][/us/usc/t19/s1466] and provisions set out as a note under [section 1466 of this title][/us/usc/t19/s1466]\] and the amendments made by this subtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\].
 
->     “(b) __Section 115.—__ 
+>     “(b)  __Section__  __115.—__ 
 
 >     Section 115 \[enacting [section 3524 of this title][/us/usc/t19/s3524]\] takes effect on the date of the enactment of this Act \[Dec. 8, 1994\].”
 

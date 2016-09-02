@@ -177,11 +177,11 @@
 
 [Pub. L. 105–277, div. C, title XII, § 1203][/us/pl/105/277/s1203], Oct. 21, 1998, [112 Stat. 2681–727][/us/stat/112/2681-727], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     It is the sense of Congress that the President should seek bilateral, regional, and multilateral agreements to remove barriers to global electronic commerce through the World Trade Organization, the Organization for Economic Cooperation and Development, the Trans-Atlantic Economic Partnership, the Asia Pacific Economic Cooperation forum, the Free Trade Area of the America, the North American Free Trade Agreement, and other appropriate venues.
 
->     “(b) __Negotiating Objectives.—__ 
+>     “(b)  __Negotiating Objectives__  __.—__ 
 
 >     The negotiating objectives of the United States shall be—
 
@@ -207,7 +207,7 @@
 
 >             “(D) the exchange of goods, services, and digitalized information.
 
->     “(c) __Electronic Commerce.—__ 
+>     “(c)  __Electronic Commerce__  __.—__ 
 
 >     For purposes of this section, the term ‘electronic commerce’ has the meaning given that term in section 1104(3) \[probably means [Pub. L. 105–277, div. C, title XI, § 1105(3)][/us/pl/105/277/s1105/3], set out in a note under [section 151 of Title 47][/us/usc/t47/s151], Telecommunications\].”
 

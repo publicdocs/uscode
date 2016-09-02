@@ -23,7 +23,7 @@
 
 [Pub. L. 100–418, title I, § 1430][/us/pl/100/418/s1430], Aug. 23, 1988, [102 Stat. 1256][/us/stat/102/1256], as amended by [Pub. L. 100–647, title IX, § 9001(a)(21)][/us/pl/100/647/s9001/a/21], Nov. 10, 1988, [102 Stat. 3808][/us/stat/102/3808], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided by this section, the amendments made by this part \[part 3 (§§ 1421–1430) of subtitle D of title I of [Pub. L. 100–418][/us/pl/100/418], enacting this section and sections 2318 and 2396 of this title, amending sections 2272, 2275, 2291 to 2293, 2295, 2296, 2311, 2317, 2341, and 2346 of this title, and amending provisions set out as a note preceding [section 2271 of this title][/us/usc/t19/s2271]\] shall take effect on the date of enactment of this Act \[Aug. 23, 1988\].
 
@@ -49,23 +49,23 @@
 
 >             “(B) the date on which the President submits to the Congress the written statement described in section 1428(a)(3)(B) \[set out as a note below\] certifying the consent of such foreign country to the imposition of the fee.
 
->     “(c) __Trust Fund.—__ 
+>     “(c)  __Trust Fund__  __.—__ 
 
 >     The amendments made by section 1427 \[enacting [section 2396 of this title][/us/usc/t19/s2396]\] shall take effect on the first date on which the amendment made by section 1428(b) \[enacting this section\] applies with respect to any articles.
 
->     “(d) __Eligibility of Workers and Firms.—__ 
+>     “(d)  __Eligibility of Workers and Firms__  __.—__ 
 
 >     The amendments made by sections 1421(b) and 1424(b) \[amending sections 2272, 2296, and 2341 of this title\] shall take effect on the date that is 1 year after the first date on which the amendment made by section 1428(b) \[enacting this section\] applies with respect to any articles.
 
->     “(e) __Notification Requirements.—__ 
+>     “(e)  __Notification Requirements__  __.—__ 
 
 >     The amendments made by section 1422 \[amending [section 2275 of this title][/us/usc/t19/s2275]\] shall take effect on the date that is 30 days after the date of enactment of this Act \[Aug. 23, 1988\].
 
->     “(f) __Training Requirement.—__ 
+>     “(f)  __Training Requirement__  __.—__ 
 
 >     The amendments made by subsections (a), (b)(2), and (c)(2) of section 1423 and by paragraphs (2) and (3) of section 1424(c) \[amending sections 2291 to 2293, 2296, and 2311 of this title\] shall take effect on the date that is 90 days after the date of enactment of this Act \[Aug. 23, 1988\].
 
->     “(g) __Limitation on Period for Which Trade Readjustment Allowances May Be Made.—__ 
+>     “(g)  __Limitation on Period for Which Trade Readjustment Allowances May Be Made__  __.—__ 
 
 >     The amendment made by section 1425(a) \[amending [section 2293 of this title][/us/usc/t19/s2293]\] shall not apply with respect to any total separation of a worker from adversely affected employment (within the meaning of section 247 of such Act \[[19 U.S.C. 2319][/us/usc/t19/s2319]\]) that occurs before the date of enactment of this Act \[Aug. 23, 1988\] if the application of such amendment with respect to such total separation would reduce the period for which such worker would (but for such amendment) be allowed to receive trade readjustment allowances under part I of subchapter B of chapter 2 of title II of the Trade Act of 1974 \[[19 U.S.C. 2291][/us/usc/t19/s2291] et seq.\].”
 

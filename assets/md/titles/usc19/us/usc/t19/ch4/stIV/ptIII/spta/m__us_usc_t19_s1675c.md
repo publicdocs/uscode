@@ -25,7 +25,7 @@
 
 [Pub. L. 111–5, div. B, title I, § 1701][/us/pl/111/5/s1701], Feb. 17, 2009, [123 Stat. 366][/us/stat/123/366], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law, neither the Secretary of Homeland Security nor any other person may—
 
@@ -33,7 +33,7 @@
 
 >         “(2) offset any past, current, or future distributions of antidumping or countervailing duties assessed with respect to imports from countries that are not parties to the North American Free Trade Agreement in an attempt to recoup any payments described in subsection (b).
 
->     “(b) __Payments Described.—__ 
+>     “(b)  __Payments Described__  __.—__ 
 
 >     Payments described in this subsection are payments of antidumping or countervailing duties made pursuant to the Continued Dumping and Subsidy Offset Act of 2000 (section 754 of the Tariff Act of 1930 ([19 U.S.C. 1675c][/us/usc/t19/s1675c]; repealed by subtitle F of title VII of the Deficit Reduction Act of 2005 ([Public Law 109–171][/us/pl/109/171]; [120 Stat. 154][/us/stat/120/154]))) that were—
 
@@ -41,7 +41,7 @@
 
 >         “(2) distributed on or after January 1, 2001, and before January 1, 2006.
 
->     “(c) __Payment of Funds Collected or Withheld.—__ 
+>     “(c)  __Payment of Funds Collected or Withheld__  __.—__ 
 
 >     Not later than the date that is 60 days after the date of the enactment of this Act \[Feb. 17, 2009\], the Secretary of Homeland Security shall—
 
@@ -49,7 +49,7 @@
 
 >         “(2) fully distribute any antidumping or countervailing duties that the U.S. Customs and Border Protection is withholding as an offset as described in subsection (a)(2).
 
->     “(d) __Limitation.—__ 
+>     “(d)  __Limitation__  __.—__ 
 
 >     Nothing in this section shall be construed to prevent the Secretary of Homeland Security, or any other person, from requiring repayment of, or attempting to otherwise recoup, any payments described in subsection (b) as a result of—
 

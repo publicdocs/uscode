@@ -255,7 +255,7 @@
 
 [Pub. L. 100–418, title I, § 1909(a)][/us/pl/100/418/s1909/a], (b), Aug. 23, 1988, [102 Stat. 1317][/us/stat/102/1317], 1318, provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -267,7 +267,7 @@
 
 >         “(4) the diversification of the economies and expansion of exports, particularly those of a non-traditional nature, of the nations of the Caribbean and Central America is linked directly to fair access to the markets of the United States.
 
->     “(b) __Intent of the Congress.—__ 
+>     “(b)  __Intent of the Congress__  __.—__ 
 
 >     The Congress hereby expresses its intention to ensure that—
 

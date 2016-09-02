@@ -159,7 +159,7 @@
 
 [Pub. L. 106–476, title I, § 1442][/us/pl/106/476/s1442], Nov. 9, 2000, [114 Stat. 2163][/us/stat/114/2163], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -181,7 +181,7 @@
 
 >         “(9) The imposition of a ban on the sale, manufacture, offer for sale, transportation, and distribution of dog and cat fur products, regardless of their source, is consistent with the international obligations of the United States because it applies equally to domestic and foreign producers and avoids any discrimination among foreign sources of competing products. Such a ban is also consistent with provisions of international agreements to which the United States is a party that expressly allow for measures designed to protect the health and welfare of animals and to enjoin the use of deceptive trade practices in international or domestic commerce.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this chapter \[chapter 3 (§§ 1441–1443) of subtitle B of title I of [Pub. L. 106–476][/us/pl/106/476], see Short Title of 2000 Amendment note set out under [section 1654 of this title][/us/usc/t19/s1654]\] are to—
 

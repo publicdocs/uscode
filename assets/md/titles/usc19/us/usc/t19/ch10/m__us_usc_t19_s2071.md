@@ -63,17 +63,17 @@
 
 >     “(a) __Cargo Information.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >             (A) Subject to paragraphs (2) and (3), the Secretary is authorized to promulgate regulations providing for the transmission to the Customs Service, through an electronic data interchange system, of information pertaining to cargo to be brought into the United States or to be sent from the United States, prior to the arrival or departure of the cargo.
 
 >             “(B) The Secretary shall endeavor to promulgate an initial set of regulations under subparagraph (A) not later than October 1, 2003.
 
->         “(2) __Information required.—__ 
+>         “(2)  __Information required__  __.—__ 
 
 >         The cargo information required by the regulations promulgated pursuant to paragraph (1) under the parameters set forth in paragraph (3) shall be such information on cargo as the Secretary determines to be reasonably necessary to ensure cargo safety and security pursuant to those laws enforced and administered by the Customs Service. The Secretary shall provide to appropriate Federal departments and agencies cargo information obtained pursuant to paragraph (1).
 
->         “(3) __Parameters.—__ 
+>         “(3)  __Parameters__  __.—__ 
 
 >         In developing regulations pursuant to paragraph (1), the Secretary shall adhere to the following parameters:
 
@@ -113,11 +113,11 @@
 
 >                 “(v) if the Secretary determines to amend the proposed regulations after they have been transmitted to the Committees pursuant to this subparagraph, the Secretary shall transmit the amended regulations to such Committees no later than 5 days prior to the publication of the final rule.
 
->         “(4) __Transmission of data.—__ 
+>         “(4)  __Transmission of data__  __.—__ 
 
 >         Pursuant to paragraph (2), not later than 1 year after the date of enactment of this paragraph \[Aug. 10, 2005\], the Secretary of Homeland Security, after consultation with the Secretary of the Treasury, shall establish an electronic data interchange system through which the United States Customs and Border Protection shall transmit to the Internal Revenue Service information pertaining to cargoes of any taxable fuel (as defined in section 4083 of the Internal Revenue Code of 1986 \[[26 U.S.C. 4083][/us/usc/t26/s4083]\]) that the United States Customs and Border Protection has obtained electronically under its regulations adopted in accordance with paragraph (1). For this purpose, not later than 1 year after the date of enactment of this paragraph, all filers of required cargo information for such taxable fuels (as so defined) must provide such information to the United States Customs and Border Protection through such electronic data interchange system.
 
->     “(c) __Secretary.—__ 
+>     “(c)  __Secretary__  __.—__ 
 
 >     For purposes of this section \[enacting [section 1431a of this title][/us/usc/t19/s1431a] and this note\], the term ‘Secretary’ means the Secretary of the Treasury. If, at the time the regulations required by subsection (a)(1) are promulgated, the Customs Service is no longer located in the Department of the Treasury, then the Secretary of the Treasury shall exercise the authority under subsection (a) jointly with the Secretary of the Department in which the Customs Service is located.”
 
@@ -143,7 +143,7 @@
 
 [Pub. L. 101–382, title I, § 124][/us/pl/101/382/s124], Aug. 20, 1990, [104 Stat. 643][/us/stat/104/643], provided that:
 
->     “(a) __Customs Preclearance.—__ 
+>     “(a)  __Customs Preclearance__  __.—__ 
 
 >     The Secretary of the Treasury, in consultation with the Secretary of State, shall assess the advisability of expanding the use of preclearance operations by the United States Customs Service at foreign airports. The Secretary of the Treasury shall submit a report on the assessment to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate (hereafter in this section referred to as the ‘Committees’) no later than February 1, 1991.
 
@@ -153,7 +153,7 @@
 
 >         “(2) No later than February 1, 1991, the Secretary of the Treasury shall submit to the Committees a report on the evaluation required under paragraph (1), together with any legislative recommendation that the Secretary considers appropriate.
 
->     “(c) __Merchandise Damage Statistics.—__ 
+>     “(c)  __Merchandise Damage Statistics__  __.—__ 
 
 >     The Commissioner of Customs shall keep accurate statistics on the incidence, nature, and extent of damage to merchandise resulting from customs examinations and shall provide an annual summary of these statistics to the Committees.”
 

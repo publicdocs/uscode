@@ -17,7 +17,7 @@
 
 ## “SEC. 9. DEVELOPMENT STUDY AND CAPACITY BUILDING.
 
->     “(a) __Reports.—__ 
+>     “(a)  __Reports__  __.—__ 
 
 >     The President shall, by not later than 1 year after the date of the enactment of this Act \[July 13, 2004\], conduct a study on each eligible sub-Saharan African country, that—
 
@@ -27,7 +27,7 @@
 
 >         “(3) makes recommendations on how the United States Government and the private sector can provide technical assistance to that country to assist in dismantling such barriers and in promoting investment in such sectors.
 
->     “(b) __Dissemination of Information.—__ 
+>     “(b)  __Dissemination of Information__  __.—__ 
 
 >     The President shall disseminate information in each study conducted under subsection (a) to the appropriate United States agencies for the purpose of implementing recommendations on the provision of technical assistance and in identifying opportunities for United States investors, businesses, and farmers.
 

@@ -545,11 +545,11 @@
 
         (3)
 
-            (A) Fees may not be charged under paragraphs (9) and (10) of subsection (a) of this section after October 22, 2021.
+            (A) Fees may not be charged under paragraphs (9) and (10) of subsection (a) of this section after September 30, 2023.
 
             (B)
 
-                (i) Subject to clause (ii), Fees  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  may not be charged under paragraphs (1) through (8) of subsection (a) of this section after October 29, 2021.
+                (i) Subject to clause (ii), Fees  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  may not be charged under paragraphs (1) through (8) of subsection (a) of this section after September 30, 2023.
 
                 (ii)
 
@@ -567,7 +567,7 @@
 
         The Commissioner of Customs shall establish an advisory committee whose membership shall consist of representatives from the airline, cruise ship, and other transportation industries who may be subject to fees under subsection (a) of this section. The advisory committee shall not be subject to termination under section 14 of the Federal Advisory Committee Act. The advisory committee shall meet on a periodic basis and shall advise the Commissioner on issues related to the performance of the inspectional services of the United States Customs Service. Such advice shall include, but not be limited to, such issues as the time periods during which such services should be performed, the proper number and deployment of inspection officers, the level of fees, and the appropriateness of any proposed fee. The Commissioner shall give consideration to the views of the advisory committee in the exercise of his or her duties.
 
-([Pub. L. 99–272, title XIII, § 13031][/us/pl/99/272/s13031], Apr. 7, 1986, [100 Stat. 308][/us/stat/100/308]; [Pub. L. 99–509, title VIII, § 8101][/us/pl/99/509/s8101], Oct. 21, 1986, [100 Stat. 1965][/us/stat/100/1965]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, § 1893(a)–(c)(1), (d), (e), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2927–2930; [Pub. L. 100–203, title IX, § 9501(a)][/us/pl/100/203/s9501/a], Dec. 22, 1987, [101 Stat. 1330–377][/us/stat/101/1330-377]; [Pub. L. 100–418, title I, § 1214(g)][/us/pl/100/418/s1214/g], Aug. 23, 1988, [102 Stat. 1156][/us/stat/102/1156]; [Pub. L. 100–449, title II, § 203][/us/pl/100/449/s203], Sept. 28, 1988, [102 Stat. 1861][/us/stat/102/1861]; [Pub. L. 100–647, title IX, § 9001(a)(13)][/us/pl/100/647/s9001/a/13], Nov. 10, 1988, [102 Stat. 3807][/us/stat/102/3807]; [Pub. L. 101–207, § 3(c)(1)][/us/pl/101/207/s3/c/1], (f)(2), Dec. 7, 1989, [103 Stat. 1834][/us/stat/103/1834], 1835; [Pub. L. 101–382, title I][/us/pl/101/382], §§ 111(a)–(e), 139(c), Aug. 20, 1990, [104 Stat. 635–639][/us/stat/104/635-639], 654; [Pub. L. 101–508, title X, § 10001(a)][/us/pl/101/508/s10001/a], (b), (e), (f), Nov. 5, 1990, [104 Stat. 1388–385][/us/stat/104/1388-385] to 1388–387; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13801, 13813, Aug. 10, 1993, [107 Stat. 667][/us/stat/107/667], 671; [Pub. L. 103–182, title II, § 204][/us/pl/103/182/s204], title V, § 521(a), title VI, § 682, Dec. 8, 1993, [107 Stat. 2092][/us/stat/107/2092], 2160, 2218; [Pub. L. 103–465, title VI][/us/pl/103/465], §§ 611(a), 612(a), Dec. 8, 1994, [108 Stat. 4991][/us/stat/108/4991], 4992; [Pub. L. 104–295][/us/pl/104/295], §§ 4(a), 6, 21(a)(1), 38(a)–(c), Oct. 11, 1996, [110 Stat. 3516][/us/stat/110/3516], 3517, 3529, 3539, 3540; [Pub. L. 105–150, § 1(a)][/us/pl/105/150/s1/a], Dec. 16, 1997, [111 Stat. 2685][/us/stat/111/2685]; [Pub. L. 106–36, title I, § 1001(b)(1)][/us/pl/106/36/s1001/b/1], title II, § 2418(a)–(d), June 25, 1999, [113 Stat. 131][/us/stat/113/131], 176, 177; [Pub. L. 106–476, title I, § 1457][/us/pl/106/476/s1457], Nov. 9, 2000, [114 Stat. 2170][/us/stat/114/2170]; [Pub. L. 107–210, div. A, title III, § 337(a)][/us/pl/107/210/s337/a], Aug. 6, 2002, [116 Stat. 978][/us/stat/116/978]; [Pub. L. 107–296, title IV, § 419(a)][/us/pl/107/296/s419/a], Nov. 25, 2002, [116 Stat. 2181][/us/stat/116/2181]; [Pub. L. 108–77, title II, § 204][/us/pl/108/77/s204], Sept. 3, 2003, [117 Stat. 930][/us/stat/117/930]; [Pub. L. 108–78, title II, § 203][/us/pl/108/78/s203], Sept. 3, 2003, [117 Stat. 961][/us/stat/117/961]; [Pub. L. 108–89, title III, § 301][/us/pl/108/89/s301], Oct. 1, 2003, [117 Stat. 1134][/us/stat/117/1134]; [Pub. L. 108–121, title II, § 201][/us/pl/108/121/s201], Nov. 11, 2003, [117 Stat. 1343][/us/stat/117/1343]; [Pub. L. 108–286, title II, § 204][/us/pl/108/286/s204], Aug. 3, 2004, [118 Stat. 939][/us/stat/118/939]; [Pub. L. 108–357, title VIII, § 892(a)][/us/pl/108/357/s892/a], (b), (c)(2), (d), Oct. 22, 2004, [118 Stat. 1644–1646][/us/stat/118/1644-1646]; [Pub. L. 108–429, title II, § 2004(f)][/us/pl/108/429/s2004/f], Dec. 3, 2004, [118 Stat. 2593][/us/stat/118/2593]; [Pub. L. 109–53, title II, § 204][/us/pl/109/53/s204], Aug. 2, 2005, [119 Stat. 483][/us/stat/119/483]; [Pub. L. 109–169, title II, § 203][/us/pl/109/169/s203], Jan. 11, 2006, [119 Stat. 3591][/us/stat/119/3591]; [Pub. L. 109–280, title XIV, § 1635(f)(5)][/us/pl/109/280/s1635/f/5], Aug. 17, 2006, [120 Stat. 1171][/us/stat/120/1171]; [Pub. L. 109–283, title II, § 203][/us/pl/109/283/s203], Sept. 26, 2006, [120 Stat. 1201][/us/stat/120/1201]; [Pub. L. 110–42, § 3][/us/pl/110/42/s3], June 30, 2007, [121 Stat. 236][/us/stat/121/236]; [Pub. L. 110–52, § 2][/us/pl/110/52/s2], Aug. 1, 2007, [121 Stat. 264][/us/stat/121/264]; [Pub. L. 110–89, § 2(b)][/us/pl/110/89/s2/b], Sept. 28, 2007, [121 Stat. 982][/us/stat/121/982]; [Pub. L. 110–138, title II, § 204][/us/pl/110/138/s204], title VI, § 601, Dec. 14, 2007, [121 Stat. 1475][/us/stat/121/1475], 1489; [Pub. L. 110–191, § 3][/us/pl/110/191/s3], Feb. 29, 2008, [122 Stat. 646][/us/stat/122/646]; [Pub. L. 110–234, title XV, § 15201(a)][/us/pl/110/234/s15201/a], (b), May 22, 2008, [122 Stat. 1500][/us/stat/122/1500]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15201(a), (b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2262; [Pub. L. 110–287, § 2][/us/pl/110/287/s2], July 29, 2008, [122 Stat. 2649][/us/stat/122/2649]; [Pub. L. 110–436, § 5(a)][/us/pl/110/436/s5/a], Oct. 16, 2008, [122 Stat. 4981][/us/stat/122/4981]; [Pub. L. 111–42, title I, § 103][/us/pl/111/42/s103], July 28, 2009, [123 Stat. 1963][/us/stat/123/1963]; [Pub. L. 111–124, § 3][/us/pl/111/124/s3], Dec. 28, 2009, [123 Stat. 3484][/us/stat/123/3484]; [Pub. L. 111–171, § 11][/us/pl/111/171/s11], May 24, 2010, [124 Stat. 1207][/us/stat/124/1207]; [Pub. L. 111–210, § 2][/us/pl/111/210/s2], July 27, 2010, [124 Stat. 2256][/us/stat/124/2256]; [Pub. L. 111–227, title IV, § 4001(a)][/us/pl/111/227/s4001/a], (b)(1), Aug. 11, 2010, [124 Stat. 2480][/us/stat/124/2480]; [Pub. L. 111–291, title VIII, § 821][/us/pl/111/291/s821], Dec. 8, 2010, [124 Stat. 3163][/us/stat/124/3163]; [Pub. L. 111–344, title III, § 301][/us/pl/111/344/s301], Dec. 29, 2010, [124 Stat. 3617][/us/stat/124/3617]; [Pub. L. 112–41, title II, § 203][/us/pl/112/41/s203], title V, § 504, Oct. 21, 2011, [125 Stat. 447][/us/stat/125/447], 460; [Pub. L. 112–42, title II, § 204][/us/pl/112/42/s204], title VI, §§ 601(a), 602, Oct. 21, 2011, [125 Stat. 483][/us/stat/125/483], 495, 496; [Pub. L. 112–43, title II, § 204][/us/pl/112/43/s204], title V, § 501, Oct. 21, 2011, [125 Stat. 518][/us/stat/125/518], 530; [Pub. L. 112–163, § 5][/us/pl/112/163/s5], Aug. 10, 2012, [126 Stat. 1277][/us/stat/126/1277].)
+([Pub. L. 99–272, title XIII, § 13031][/us/pl/99/272/s13031], Apr. 7, 1986, [100 Stat. 308][/us/stat/100/308]; [Pub. L. 99–509, title VIII, § 8101][/us/pl/99/509/s8101], Oct. 21, 1986, [100 Stat. 1965][/us/stat/100/1965]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, § 1893(a)–(c)(1), (d), (e), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2927–2930; [Pub. L. 100–203, title IX, § 9501(a)][/us/pl/100/203/s9501/a], Dec. 22, 1987, [101 Stat. 1330–377][/us/stat/101/1330-377]; [Pub. L. 100–418, title I, § 1214(g)][/us/pl/100/418/s1214/g], Aug. 23, 1988, [102 Stat. 1156][/us/stat/102/1156]; [Pub. L. 100–449, title II, § 203][/us/pl/100/449/s203], Sept. 28, 1988, [102 Stat. 1861][/us/stat/102/1861]; [Pub. L. 100–647, title IX, § 9001(a)(13)][/us/pl/100/647/s9001/a/13], Nov. 10, 1988, [102 Stat. 3807][/us/stat/102/3807]; [Pub. L. 101–207, § 3(c)(1)][/us/pl/101/207/s3/c/1], (f)(2), Dec. 7, 1989, [103 Stat. 1834][/us/stat/103/1834], 1835; [Pub. L. 101–382, title I][/us/pl/101/382], §§ 111(a)–(e), 139(c), Aug. 20, 1990, [104 Stat. 635–639][/us/stat/104/635-639], 654; [Pub. L. 101–508, title X, § 10001(a)][/us/pl/101/508/s10001/a], (b), (e), (f), Nov. 5, 1990, [104 Stat. 1388–385][/us/stat/104/1388-385] to 1388–387; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13801, 13813, Aug. 10, 1993, [107 Stat. 667][/us/stat/107/667], 671; [Pub. L. 103–182, title II, § 204][/us/pl/103/182/s204], title V, § 521(a), title VI, § 682, Dec. 8, 1993, [107 Stat. 2092][/us/stat/107/2092], 2160, 2218; [Pub. L. 103–465, title VI][/us/pl/103/465], §§ 611(a), 612(a), Dec. 8, 1994, [108 Stat. 4991][/us/stat/108/4991], 4992; [Pub. L. 104–295][/us/pl/104/295], §§ 4(a), 6, 21(a)(1), 38(a)–(c), Oct. 11, 1996, [110 Stat. 3516][/us/stat/110/3516], 3517, 3529, 3539, 3540; [Pub. L. 105–150, § 1(a)][/us/pl/105/150/s1/a], Dec. 16, 1997, [111 Stat. 2685][/us/stat/111/2685]; [Pub. L. 106–36, title I, § 1001(b)(1)][/us/pl/106/36/s1001/b/1], title II, § 2418(a)–(d), June 25, 1999, [113 Stat. 131][/us/stat/113/131], 176, 177; [Pub. L. 106–476, title I, § 1457][/us/pl/106/476/s1457], Nov. 9, 2000, [114 Stat. 2170][/us/stat/114/2170]; [Pub. L. 107–210, div. A, title III, § 337(a)][/us/pl/107/210/s337/a], Aug. 6, 2002, [116 Stat. 978][/us/stat/116/978]; [Pub. L. 107–296, title IV, § 419(a)][/us/pl/107/296/s419/a], Nov. 25, 2002, [116 Stat. 2181][/us/stat/116/2181]; [Pub. L. 108–77, title II, § 204][/us/pl/108/77/s204], Sept. 3, 2003, [117 Stat. 930][/us/stat/117/930]; [Pub. L. 108–78, title II, § 203][/us/pl/108/78/s203], Sept. 3, 2003, [117 Stat. 961][/us/stat/117/961]; [Pub. L. 108–89, title III, § 301][/us/pl/108/89/s301], Oct. 1, 2003, [117 Stat. 1134][/us/stat/117/1134]; [Pub. L. 108–121, title II, § 201][/us/pl/108/121/s201], Nov. 11, 2003, [117 Stat. 1343][/us/stat/117/1343]; [Pub. L. 108–286, title II, § 204][/us/pl/108/286/s204], Aug. 3, 2004, [118 Stat. 939][/us/stat/118/939]; [Pub. L. 108–357, title VIII, § 892(a)][/us/pl/108/357/s892/a], (b), (c)(2), (d), Oct. 22, 2004, [118 Stat. 1644–1646][/us/stat/118/1644-1646]; [Pub. L. 108–429, title II, § 2004(f)][/us/pl/108/429/s2004/f], Dec. 3, 2004, [118 Stat. 2593][/us/stat/118/2593]; [Pub. L. 109–53, title II, § 204][/us/pl/109/53/s204], Aug. 2, 2005, [119 Stat. 483][/us/stat/119/483]; [Pub. L. 109–169, title II, § 203][/us/pl/109/169/s203], Jan. 11, 2006, [119 Stat. 3591][/us/stat/119/3591]; [Pub. L. 109–280, title XIV, § 1635(f)(5)][/us/pl/109/280/s1635/f/5], Aug. 17, 2006, [120 Stat. 1171][/us/stat/120/1171]; [Pub. L. 109–283, title II, § 203][/us/pl/109/283/s203], Sept. 26, 2006, [120 Stat. 1201][/us/stat/120/1201]; [Pub. L. 110–42, § 3][/us/pl/110/42/s3], June 30, 2007, [121 Stat. 236][/us/stat/121/236]; [Pub. L. 110–52, § 2][/us/pl/110/52/s2], Aug. 1, 2007, [121 Stat. 264][/us/stat/121/264]; [Pub. L. 110–89, § 2(b)][/us/pl/110/89/s2/b], Sept. 28, 2007, [121 Stat. 982][/us/stat/121/982]; [Pub. L. 110–138, title II, § 204][/us/pl/110/138/s204], title VI, § 601, Dec. 14, 2007, [121 Stat. 1475][/us/stat/121/1475], 1489; [Pub. L. 110–191, § 3][/us/pl/110/191/s3], Feb. 29, 2008, [122 Stat. 646][/us/stat/122/646]; [Pub. L. 110–234, title XV, § 15201(a)][/us/pl/110/234/s15201/a], (b), May 22, 2008, [122 Stat. 1500][/us/stat/122/1500]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15201(a), (b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2262; [Pub. L. 110–287, § 2][/us/pl/110/287/s2], July 29, 2008, [122 Stat. 2649][/us/stat/122/2649]; [Pub. L. 110–436, § 5(a)][/us/pl/110/436/s5/a], Oct. 16, 2008, [122 Stat. 4981][/us/stat/122/4981]; [Pub. L. 111–42, title I, § 103][/us/pl/111/42/s103], July 28, 2009, [123 Stat. 1963][/us/stat/123/1963]; [Pub. L. 111–124, § 3][/us/pl/111/124/s3], Dec. 28, 2009, [123 Stat. 3484][/us/stat/123/3484]; [Pub. L. 111–171, § 11][/us/pl/111/171/s11], May 24, 2010, [124 Stat. 1207][/us/stat/124/1207]; [Pub. L. 111–210, § 2][/us/pl/111/210/s2], July 27, 2010, [124 Stat. 2256][/us/stat/124/2256]; [Pub. L. 111–227, title IV, § 4001(a)][/us/pl/111/227/s4001/a], (b)(1), Aug. 11, 2010, [124 Stat. 2480][/us/stat/124/2480]; [Pub. L. 111–291, title VIII, § 821][/us/pl/111/291/s821], Dec. 8, 2010, [124 Stat. 3163][/us/stat/124/3163]; [Pub. L. 111–344, title III, § 301][/us/pl/111/344/s301], Dec. 29, 2010, [124 Stat. 3617][/us/stat/124/3617]; [Pub. L. 112–41, title II, § 203][/us/pl/112/41/s203], title V, § 504, Oct. 21, 2011, [125 Stat. 447][/us/stat/125/447], 460; [Pub. L. 112–42, title II, § 204][/us/pl/112/42/s204], title VI, §§ 601(a), 602, Oct. 21, 2011, [125 Stat. 483][/us/stat/125/483], 495, 496; [Pub. L. 112–43, title II, § 204][/us/pl/112/43/s204], title V, § 501, Oct. 21, 2011, [125 Stat. 518][/us/stat/125/518], 530; [Pub. L. 112–163, § 5][/us/pl/112/163/s5], Aug. 10, 2012, [126 Stat. 1277][/us/stat/126/1277]; [Pub. L. 113–67, div. A, title VII, § 701][/us/pl/113/67/s701], Dec. 26, 2013, [127 Stat. 1189][/us/stat/127/1189].)
 
  __Amendment of Section__ 
 
@@ -638,6 +638,10 @@
     Section is comprised of [section 13031 of Pub. L. 99–272][/us/pl/99/272/s13031]. Subsec. (h) of [section 13031 of Pub. L. 99–272][/us/pl/99/272/s13031] amended [section 545(i) of Title 45][/us/usc/t45/s545/i], Railroads, and repealed section 1741(e) of former Title 49, Transportation.
 
  __Amendments__ 
+
+    2013—Subsec. (j)(3)(A). [Pub. L. 113–67, § 701(1)][/us/pl/113/67/s701/1], substituted “September 30, 2023” for “October 22, 2021”.
+
+    Subsec. (j)(3)(B)(i). [Pub. L. 113–67, § 701(2)][/us/pl/113/67/s701/2], substituted “September 30, 2023” for “October 29, 2021”.
 
     2012—Subsec. (j)(3)(A). [Pub. L. 112–163, § 5(1)][/us/pl/112/163/s5/1], substituted “October 22, 2021” for “August 2, 2021”.
 
@@ -1223,25 +1227,25 @@
 
 [Pub. L. 101–508, title X, § 10001(g)][/us/pl/101/508/s10001/g], Nov. 5, 1990, [104 Stat. 1388–387][/us/stat/104/1388-387], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by subsections (b), (c), and (d) \[amending this section and [section 2082 of this title][/us/usc/t19/s2082] and amending provisions set out below\] shall take effect on the date of the enactment of the Act providing full-year appropriations for the Customs Service for fiscal year 1992 \[[Pub. L. 102–141][/us/pl/102/141], Oct. 28, 1991, [105 Stat. 837][/us/stat/105/837]\], and shall apply to fiscal years beginning on and after October 1, 1991.
 
->     “(2) __Merchandise processing fees for small airports.—__ 
+>     “(2)  __Merchandise processing fees for small airports__  __.—__ 
 
 >     The amendments made by subsection (e) \[amending this section\] shall take effect as if included in section 111 of the Customs and Trade Act of 1990 \[[Pub. L. 101–382][/us/pl/101/382], set out below\].
 
->     “(3) __Manual Entries and Releases.—__ 
+>     “(3)  __Manual Entries and Releases__  __.—__ 
 
 >     The amendment made by subsection (f) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 [Pub. L. 101–382, title I, § 115][/us/pl/101/382/s115], Aug. 20, 1990, [104 Stat. 640][/us/stat/104/640], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), this subtitle \[subtitle B (§§ 111–115) of title I of [Pub. L. 101–382][/us/pl/101/382], enacting [section 2082 of this title][/us/usc/t19/s2082], amending this section, and enacting provisions set out as notes below\], and the amendments made by this subtitle, take effect October 1, 1990, but the amendment made by section 111(b)(1) \[amending this section\] applies with respect to railroad cars arriving in the United States on or after July 7, 1986.
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >     The amendment made by section 111(d) \[amending this section\], and section 112 \[enacting provisions set out below\], take effect on the date of the enactment of this Act \[Aug. 20, 1990\].”
 
@@ -1315,7 +1319,7 @@
 
 [Pub. L. 112–40, title II, § 262][/us/pl/112/40/s262], Oct. 21, 2011, [125 Stat. 426][/us/stat/125/426], provided that:
 
->     “(a) __Fees for Period From__  __July 1, 2014__  __, to__  __November 30, 2015__  __.—__ 
+>     “(a)  __Fees for Period From July __  __1, 2014__  __, to November __  __30, 2015.—__ 
 
 >     For the period beginning on July 1, 2014, and ending on November 30, 2015, section 13031(a)(9) of the Consolidated Omnibus Budget Reconciliation Act of 1985 ([19 U.S.C. 58c(a)(9)][/us/usc/t19/s58c/a/9]) shall be applied and administered—
 
@@ -1323,7 +1327,7 @@
 
 >         “(2) in subparagraph (B)(i), by substituting ‘0.3464’ for ‘0.21’.
 
->     “(b) __Fees for Period From__  __October 1, 2016__  __, to__  __September 30, 2019__  __.—__ 
+>     “(b)  __Fees for Period From October __  __1, 2016__  __, to September __  __30, 2019.—__ 
 
 >     For the period beginning on October 1, 2016, and ending on September 30, 2019, section 13031(a)(9) of the Consolidated Omnibus Budget Reconciliation Act of 1985 ([19 U.S.C. 58c(a)(9)][/us/usc/t19/s58c/a/9]) shall be applied and administered—
 
@@ -1530,6 +1534,8 @@
 [/us/stat/125/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F518
 [/us/pl/112/163/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163%2Fs5
 [/us/stat/126/1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1277
+[/us/pl/113/67/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs701
+[/us/stat/127/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1189
 [/us/pl/112/43/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F43%2Fs107%2Fc
 [/us/pl/112/42/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F42%2Fs107%2Fc
 [/us/pl/112/41/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F41%2Fs107%2Fc
@@ -1584,6 +1590,8 @@
 [/us/pl/99/272/s13031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13031
 [/us/pl/99/272/s13031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13031
 [/us/usc/t45/s545/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs545%2Fi
+[/us/pl/113/67/s701/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs701%2F1
+[/us/pl/113/67/s701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs701%2F2
 [/us/pl/112/163/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163%2Fs5%2F1
 [/us/pl/112/163/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163%2Fs5%2F2
 [/us/pl/112/163/s5/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163%2Fs5%2F3

@@ -107,7 +107,7 @@
 
 [Pub. L. 97–446, title III, § 315][/us/pl/97/446/s315], Jan. 12, 1983, [96 Stat. 2363][/us/stat/96/2363], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     This title \[enacting this chapter\] shall take effect on the ninetieth day after the date of the enactment of this Act \[Jan. 12, 1983\] or on any date which the President shall prescribe and publish in the Federal Register, if such date is—
 
@@ -115,7 +115,7 @@
 
 >         “(2) after the initial membership of the Committee is appointed.
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     Notwithstanding subsection (a), the members of the Committee may be appointed in the manner provided for in section 306 \[2605 of this title\] at any time after the date of the enactment of this Act \[Jan. 12, 1983\].”
 

@@ -55,11 +55,11 @@
 
 [Pub. L. 105–261, div. C, title XXXVII, § 3702][/us/pl/105/261/s3702], Oct. 17, 1998, [112 Stat. 2275][/us/stat/112/2275], provided that:
 
->     “(a) __Report to Congress.—__ 
+>     “(a)  __Report to Congress__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Oct. 17, 1998\], the Commissioner of Customs shall prepare and transmit to the Congress a report on products made with forced labor that are destined for the United States market.
 
->     “(b) __Contents of Report.—__ 
+>     “(b)  __Contents of Report__  __.—__ 
 
 >     The report under subsection (a) shall include information concerning the following:
 

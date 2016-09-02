@@ -69,7 +69,7 @@
 
 [Pub. L. 106–200, title II, § 202][/us/pl/106/200/s202], May 18, 2000, [114 Stat. 275][/us/stat/114/275], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -89,7 +89,7 @@
 
 >         “(8) Given the greater propensity of countries located in the Western Hemisphere to use United States components and to purchase United States products compared to other countries, increased trade and economic activity between the United States and countries in the Western Hemisphere will create new jobs in the United States as a result of expanding export opportunities.
 
->     “(b) __Policy.—__ 
+>     “(b)  __Policy__  __.—__ 
 
 >     It is the policy of the United States—
 
@@ -101,15 +101,15 @@
 
 [Pub. L. 106–200, title II, § 213][/us/pl/106/200/s213], May 18, 2000, [114 Stat. 288][/us/stat/114/288], provided that:
 
->     “(a) __Schedule of Meetings.—__ 
+>     “(a)  __Schedule of Meetings__  __.—__ 
 
 >     The President shall take the necessary steps to convene a meeting with the trade ministers of the CBTPA beneficiary countries in order to establish a schedule of regular meetings, to commence as soon as is practicable, of the trade ministers and the Trade Representative, for the purpose set forth in subsection (b).
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of the meetings scheduled under subsection (a) is to reach agreement between the United States and CBTPA beneficiary countries on the likely timing and procedures for initiating negotiations for CBTPA beneficiary countries to enter into mutually advantageous free trade agreements with the United States that contain provisions comparable to those in the NAFTA and would make substantial progress in achieving the negotiating objectives set forth in [section 108(b)(5) of Public Law 103–182][/us/pl/103/182/s108/b/5] ([19 U.S.C. 3317(b)(5)][/us/usc/t19/s3317/b/5]).
 
->     “(c) __Definition.—__ 
+>     “(c)  __Definition__  __.—__ 
 
 >     In this section, the term ‘CBTPA beneficiary country’ has the meaning given that term in section 213(b)(5)(B) of the Caribbean Basin Economic Recovery Act \[[19 U.S.C. 2703(b)(5)(B)][/us/usc/t19/s2703/b/5/B]\].”
 
@@ -131,15 +131,15 @@
 
 > “In this title \[see Short Title of 2000 Amendment note above\]:
 
->     “(1) __NAFTA.—__ 
+>     “(1)  __NAFTA__  __.—__ 
 
 >     The term ‘NAFTA’ means the North American Free Trade Agreement entered into between the United States, Mexico, and Canada on December 17, 1992.
 
->     “(2) __NAFTA country.—__ 
+>     “(2)  __NAFTA country__  __.—__ 
 
 >     The term ‘NAFTA country’ means any country with respect to which the NAFTA is in force.
 
->     “(3) __WTO and wto member.—__ 
+>     “(3)  __WTO and wto member__  __.—__ 
 
 >     The terms ‘WTO’ and ‘WTO member’ have the meanings given those terms in section 2 of the Uruguay Round Agreements Act ([19 U.S.C. 3501][/us/usc/t19/s3501]).”
 

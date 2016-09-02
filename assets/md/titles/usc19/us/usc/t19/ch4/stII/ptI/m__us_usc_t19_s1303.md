@@ -27,7 +27,7 @@
 
 >     “(b) __Savings Provisions.—__ 
 
->         “(1) __Continuing effect of legal documents.—__ 
+>         “(1)  __Continuing effect of legal documents__  __.—__ 
 
 >         All orders, determinations, and other administrative actions—
 
@@ -37,15 +37,15 @@
 
 >             shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the administering authority, the International Trade Commission, or a court of competent jurisdiction, or by operation of law. Except as provided in paragraph (3), such orders or determinations shall be subject to review under section 751 of the Tariff Act of 1930 \[[19 U.S.C. 1675][/us/usc/t19/s1675]\] and, to the extent applicable, investigation under section 753 of such Act \[[19 U.S.C. 1675b][/us/usc/t19/s1675b]\] (as added by this title).
 
->         “(2) __Proceedings not affected.—__ 
+>         “(2)  __Proceedings not affected__  __.—__ 
 
 >         The provisions of subsection (a) shall not affect any proceedings, including notices of proposed rulemaking, pending before the administering authority or the International Trade Commission on the effective date of this title with respect to such section 303 \[[19 U.S.C. 1303][/us/usc/t19/s1303]\]. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, in accordance with such section 303 as in effect on the day before the effective date of this title and, except as provided in paragraph (3), shall be subject to review under section 751 of the Tariff Act of 1930 \[[19 U.S.C. 1675][/us/usc/t19/s1675]\] and, to the extent applicable, investigation under section 753 of such Act \[[19 U.S.C. 1675b][/us/usc/t19/s1675b]\]. Orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, set aside, or revoked in accordance with law by the administering authority, a court of competent jurisdiction, or by operation of law. Nothing in this section shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this section had not been enacted.
 
->         “(3) __Suits not affected.—__ 
+>         “(3)  __Suits not affected__  __.—__ 
 
 >         The provisions of subsection (a) shall not affect the review pursuant to section 516A of the Tariff Act of 1930 \[[19 U.S.C. 1516a][/us/usc/t19/s1516a]\] of a countervailing duty order issued pursuant to an investigation conducted under section 303 of such Act \[[19 U.S.C. 1303][/us/usc/t19/s1303]\] or a review of a countervailing duty order issued under section 751 of such Act \[[19 U.S.C. 1675][/us/usc/t19/s1675]\], if such review is pending or the time for filing such review has not expired on the effective date of this title.
 
->     “(c) __Definition of Administering Authority.—__ 
+>     “(c)  __Definition of Administering Authority__  __.—__ 
 
 >     For purposes of this section, the term ‘administering authority’ has the meaning given such term by section 771(1) of the Tariff Act of 1930 \[[19 U.S.C. 1677(1)][/us/usc/t19/s1677/1]\].”
 

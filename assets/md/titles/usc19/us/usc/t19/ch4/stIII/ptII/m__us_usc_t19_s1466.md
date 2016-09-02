@@ -147,7 +147,7 @@
 
 [Pub. L. 101–382, title III, § 484E(b)][/us/pl/101/382/s484E/b], (c), Aug. 20, 1990, [104 Stat. 710][/us/stat/104/710], as amended by [Pub. L. 103–465, title I, § 112(a)][/us/pl/103/465/s112/a], Dec. 8, 1994, [108 Stat. 4825][/us/stat/108/4825]; [Pub. L. 104–295, § 27][/us/pl/104/295/s27], Oct. 11, 1996, [110 Stat. 3533][/us/stat/110/3533], provided that:
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     The amendment made by this section \[amending this section\] shall apply to—
 
@@ -171,7 +171,7 @@
 
 >         “(4) any entry made pursuant to section 466(h)(1) or (2) of the Tariff Act of 1930 ([19 U.S.C. 1466(h)(1)][/us/usc/t19/s1466/h/1] or (2)), on or after the date of the entry into force of the WTO Agreement with respect to the United States \[Jan. 1, 1995\].
 
->     “(c) __Entries.—__ 
+>     “(c)  __Entries__  __.—__ 
 
 >     The entries referred to in subsection (b)(3) are the following:
 
@@ -1107,7 +1107,7 @@
 
 >         </table>
 
->         “(2) __Additional entry.—__ 
+>         “(2)  __Additional entry__  __.—__ 
 
 >         The entry of a 66th LASH barge (No. CG E69), for which no entry number is available, if, within 60 days after the date of the enactment of this subsection \[Oct. 11, 1996\], a proper entry is filed with the Customs Service.”
 

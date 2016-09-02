@@ -95,6 +95,10 @@
 
     Amendment by [Pub. L. 96–39][/us/pl/96/39] effective July 26, 1979, see [section 903 of Pub. L. 96–39][/us/pl/96/39/s903], set out as an Effective Date note under [section 2411 of this title][/us/usc/t19/s2411].
 
+ __Transfer of Functions From East-West Foreign Trade Board__ 
+
+    East-West Foreign Trade Board, which was established by [Pub. L. 93–618, title IV, § 411][/us/pl/93/618/s411], Jan. 3, 1975, [88 Stat. 2065][/us/stat/88/2065], and classified to [section 2441 of this title][/us/usc/t19/s2441], abolished by Reorg. Plan No. 3 of 1979, § 6, [44 Stat. 69275][/us/stat/44/69275], [93 Stat. 1381][/us/stat/93/1381], eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under [section 2171 of this title][/us/usc/t19/s2171], and functions of Board under subsecs. (a) and (b) of [section 411 of Pub. L. 93–618][/us/pl/93/618/s411] transferred to interagency organization established under this section by section 5(e) of Reorg. Plan No. 3 of 1979. See [section 2441 of this title][/us/usc/t19/s2441].
+
  __Establishment of Interagency Group__ 
 
     For provisions establishing an interagency group within the interagency organization established under this section, relating to the implementation of chapter 19 of the North American Free Trade Agreement as well as the oversight of the United States Section established under [section 3315 of this title][/us/usc/t19/s3315], see [section 3432(c)(2) of this title][/us/usc/t19/s3432/c/2].
@@ -106,10 +110,6 @@
 [Pub. L. 100–418, title I, § 1621(b)][/us/pl/100/418/s1621/b], Aug. 23, 1988, [102 Stat. 1264][/us/stat/102/1264], provided that: 
 
 > “It is the sense of Congress that the interagency organization established under subsection (a) \[amending this section\] should be the principal interagency forum within the executive branch on international trade policy matters.”
-
- __Transfer of Functions From East-West Foreign Trade Board__ 
-
-    East-West Foreign Trade Board, which was established by [Pub. L. 93–618, title IV, § 411][/us/pl/93/618/s411], Jan. 3, 1975, [88 Stat. 2065][/us/stat/88/2065], and classified to [section 2441 of this title][/us/usc/t19/s2441], abolished by Reorg. Plan No. 3 of 1979, § 6, [44 Stat. 69275][/us/stat/44/69275], [93 Stat. 1381][/us/stat/93/1381], eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under [section 2171 of this title][/us/usc/t19/s2171], and functions of Board under subsecs. (a) and (b) of [section 411 of Pub. L. 93–618][/us/pl/93/618/s411] transferred to interagency organization established under this section by section 5(e) of Reorg. Plan No. 3 of 1979. See [section 2441 of this title][/us/usc/t19/s2441].
 
  __Trade Policy Committee__ 
 
@@ -155,12 +155,6 @@
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/96/39/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs903
 [/us/usc/t19/s2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2411
-[/us/usc/t19/s3315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3315
-[/us/usc/t19/s3432/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3432%2Fc%2F2
-[/us/pl/100/449/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs405
-[/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
-[/us/pl/100/418/s1621/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1621%2Fb
-[/us/stat/102/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1264
 [/us/pl/93/618/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs411
 [/us/stat/88/2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2065
 [/us/usc/t19/s2441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2441
@@ -169,6 +163,12 @@
 [/us/usc/t19/s2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171
 [/us/pl/93/618/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs411
 [/us/usc/t19/s2441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2441
+[/us/usc/t19/s3315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3315
+[/us/usc/t19/s3432/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3432%2Fc%2F2
+[/us/pl/100/449/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F449%2Fs405
+[/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
+[/us/pl/100/418/s1621/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1621%2Fb
+[/us/stat/102/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1264
 [/us/usc/t19/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2111
 
 

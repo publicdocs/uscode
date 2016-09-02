@@ -39,11 +39,11 @@
 
 [Pub. L. 103–465, title III, § 316][/us/pl/103/465/s316], Dec. 8, 1994, [108 Stat. 4943][/us/stat/108/4943], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), this subtitle \[subtitle B (§§ 311–316) of title III of [Pub. L. 103–465][/us/pl/103/465], enacting this section and amending sections 2241, 2242, 2411, 2414, 2416, and 2420 of this title\] and the amendments made by this subtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\].
 
->     “(b) __Section 314(f).—__ 
+>     “(b)  __Section__  __314(f).—__ 
 
 >     The amendment made by section 314(f) \[amending [section 2420 of this title][/us/usc/t19/s2420]\] takes effect on the date of the enactment of this Act \[Dec. 8, 1994\].”
 

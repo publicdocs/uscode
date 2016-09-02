@@ -35,13 +35,13 @@
 
 [Pub. L. 104–188, title I, § 1953][/us/pl/104/188/s1953], Aug. 20, 1996, [110 Stat. 1926][/us/stat/110/1926], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The amendments made by this subtitle \[subtitle J (§§ 1951–1954) of title I of [Pub. L. 104–188][/us/pl/104/188], enacting this subchapter, amending sections 2702, 3011, 3202, 3331, and 3551 of this title, [section 1444–2 of Title 7][/us/usc/t7/s1444–2], Agriculture, [section 4711 of Title 15][/us/usc/t15/s4711], Commerce and Trade, sections 262p–4p and 2191a of Title 22, Foreign Relations and Intercourse, and [section 871 of Title 26][/us/usc/t26/s871], Internal Revenue Code, and enacting provisions set out as a note under [section 2101 of this title][/us/usc/t19/s2101]\] apply to articles entered on or after October 1, 1996.
 
 >     “(b) __Retroactive Application.—__ 
 
->         “(1) __General rule.—__ 
+>         “(1)  __General rule__  __.—__ 
 
 >         Notwithstanding section 514 of the Tariff Act of 1930 \[[19 U.S.C. 1514][/us/usc/t19/s1514]\] or any other provision of law and subject to subsection (c)—
 
@@ -65,15 +65,15 @@
 
 >                   to which duty-free treatment under title V of the Trade Act of 1974 \[this subchapter\] (as amended by this subtitle) would have applied if the entry had been made on or after October 1, 1996, shall be liquidated or reliquidated as free of duty, and the Secretary of the Treasury shall refund any duty paid with respect to such entry.
 
->         “(2) __Limitation on refunds.—__ 
+>         “(2)  __Limitation on refunds__  __.—__ 
 
 >         No refund shall be made pursuant to this subsection before October 1, 1996.
 
->         “(3) __Entry.—__ 
+>         “(3)  __Entry__  __.—__ 
 
 >         As used in this subsection, the term ‘entry’ includes a withdrawal from warehouse for consumption.
 
->     “(c) __Requests.—__ 
+>     “(c)  __Requests__  __.—__ 
 
 >     Liquidation or reliquidation may be made under subsection (b) with respect to an entry only if a request therefor is filed with the Customs Service, within 180 days after the date of the enactment of this Act \[Aug. 20, 1996\], that contains sufficient information to enable the Customs Service—
 

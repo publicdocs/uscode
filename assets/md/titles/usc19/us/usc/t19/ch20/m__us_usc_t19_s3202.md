@@ -221,11 +221,11 @@
 
 [Pub. L. 107–210, div. C, title XXXI, § 3103(d)][/us/pl/107/210/s3103/d], Aug. 6, 2002, [116 Stat. 1033][/us/stat/116/1033], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Aug. 6, 2002\], the President shall promulgate regulations regarding the review of eligibility of articles and countries under the Andean Trade Preference Act \[[19 U.S.C. 3201][/us/usc/t19/s3201] et seq.\], consistent with section 203(e) of such Act \[[19 U.S.C. 3202(e)][/us/usc/t19/s3202/e]\], as amended by this title.
 
->     “(2) __Content of regulations.—__ 
+>     “(2)  __Content of regulations__  __.—__ 
 
 >     The regulations shall be similar to the regulations regarding eligibility under the generalized system of preferences under title V of the Trade Act of 1974 \[[19 U.S.C. 2461][/us/usc/t19/s2461] et seq.\] with respect to the timetable for reviews and content, and shall include procedures for requesting withdrawal, suspension, or limitations of preferential duty treatment under the Andean Trade Preference Act, conducting reviews of such requests, and implementing the results of the reviews.”
 

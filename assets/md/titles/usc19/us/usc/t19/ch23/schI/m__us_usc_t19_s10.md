@@ -17,7 +17,7 @@
 
 ## “SEC. 10. ACTIVITIES IN SUPPORT OF INFRASTRUCTURE TO SUPPORT INCREASING TRADE CAPACITY AND ECOTOURISM.
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds the following:
 
@@ -51,7 +51,7 @@
 
 >         “(10) Ecotourism needs to generate local community benefits by utilizing sub-Saharan Africa’s natural heritage, parks, wildlife reserves, and other protected areas that can play a significant role in encouraging local economic development by sourcing food and other locally produced resources.
 
->     “(b) __Action by the President.—__ 
+>     “(b)  __Action by the President__  __.—__ 
 
 >     The President shall develop and implement policies to—
 

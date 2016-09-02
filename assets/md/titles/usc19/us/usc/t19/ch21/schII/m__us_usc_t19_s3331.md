@@ -75,15 +75,15 @@
 
 [Pub. L. 103–182, title II, § 213][/us/pl/103/182/s213], Dec. 8, 1993, [107 Stat. 2099][/us/stat/107/2099], provided that:
 
->     “(a) __Provisions Effective on Date of Enactment.—__ 
+>     “(a)  __Provisions Effective on Date of Enactment__  __.—__ 
 
 >     Section 212 \[enacting provisions set out as a note under [section 58c of this title][/us/usc/t19/s58c]\] and this section take effect on the date of the enactment of this Act \[Dec. 8, 1993\].
 
->     “(b) __Provisions Effective When Agreement Enters Into Force.—__ 
+>     “(b)  __Provisions Effective When Agreement Enters Into Force__  __.—__ 
 
 >     Section 201, section 202, section 203(a), (d), and (e), section 210 and section 211, the amendment made by section 203(c), and the amendments made by sections 204 through 209 \[enacting this section and sections 3332, 3333(a), (d), (e), 3334, and 3335 of this title and amending sections 58c, 1304, 1313, 1508, 1509, 1514, 1520, 1592, and 1628 of this title\] take effect on the date the Agreement enters into force with respect to the United States \[Jan. 1, 1994\].
 
->     “(c) __Provisions With Delayed Effective Dates.—__ 
+>     “(c)  __Provisions With Delayed Effective Dates__  __.—__ 
 
 >     The amendments made by section 203(b) \[amending sections 81c, 1311 to 1313, and 1562 of this title\] apply—
 

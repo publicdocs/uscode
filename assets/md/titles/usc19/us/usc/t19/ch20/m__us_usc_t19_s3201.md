@@ -23,10 +23,6 @@
 
     2002—[Pub. L. 107–210][/us/pl/107/210] inserted “(or other preferential treatment)” after “treatment”.
 
- __Termination of Preferential Treatment__ 
-
-    Preferential treatment under this chapter to expire after June 30, 2007, see [section 3206 of this title][/us/usc/t19/s3206].
-
  __Short Title of 2008 Amendment__ 
 
 [Pub. L. 110–191, § 1][/us/pl/110/191/s1], Feb. 29, 2008, [122 Stat. 646][/us/stat/122/646], provided that: 
@@ -50,6 +46,10 @@
 [Pub. L. 102–182, title II, § 201][/us/pl/102/182/s201], Dec. 4, 1991, [105 Stat. 1236][/us/stat/105/1236], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Andean Trade Preference Act’.”
+
+ __Termination of Preferential Treatment__ 
+
+    For termination of preferential treatment, see [section 3206 of this title][/us/usc/t19/s3206].
 
  __Findings__ 
 
@@ -85,7 +85,6 @@
 [/us/pl/107/210/s3103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs3103%2Fc%2F1
 [/us/stat/116/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1033
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
-[/us/usc/t19/s3206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3206
 [/us/pl/110/191/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F191%2Fs1
 [/us/stat/122/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F646
 [/us/usc/t26/s6655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6655
@@ -95,6 +94,7 @@
 [/us/stat/116/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1023
 [/us/pl/102/182/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2Fs201
 [/us/stat/105/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1236
+[/us/usc/t19/s3206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3206
 [/us/pl/107/210/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs3102
 [/us/stat/116/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1023
 [/us/usc/t19/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3201

@@ -17,7 +17,7 @@
 
 ## “SEC. 9. ADDITIONAL PROCLAMATION AUTHORITY.
 
->     “(a) __Elimination or Modifications of Duties.—__ 
+>     “(a)  __Elimination or Modifications of Duties__  __.—__ 
 
 >     The President is authorized to proclaim elimination or modification of any existing duty as the President determines is necessary to exempt any article from duty if—
 
@@ -39,7 +39,7 @@
 
 >     “(b) __Applicability of Certain Provisions of the Agreement.—__ 
 
->         “(1) __Nonqualifying operations.—__ 
+>         “(1)  __Nonqualifying operations__  __.—__ 
 
 >         No article shall be considered a new or different article of commerce under this section, and no material shall be included for purposes of determining the 35 percent requirement of subsection (a)(3), by virtue of having merely undergone—
 
@@ -47,11 +47,11 @@
 
 >             “(B) mere dilution with water or with another substance that does not materially alter the characteristics of the article or material.
 
->         “(2) __Requirements for new or different article of commerce.—__ 
+>         “(2)  __Requirements for new or different article of commerce__  __.—__ 
 
 >         For purposes of subsection (a)(1), an article is a ‘new or different article of commerce’ if it is substantially transformed into an article having a new name, character, or use.
 
->         “(3) __Cost or value of materials.—__ 
+>         “(3)  __Cost or value of materials__  __.—__ 
 
 >             (A)
 
@@ -77,7 +77,7 @@
 
 >                 If the information necessary to compute the cost or value of a material is not available, the Customs Service may ascertain or estimate the value thereof using all reasonable methods.
 
->         “(4) __Direct costs of processing operations.—__ 
+>         “(4)  __Direct costs of processing operations__  __.—__ 
 
 >             (A)
 
@@ -99,7 +99,7 @@
 
 >                 “(ii) general expenses of doing business which are either not allocable to the article or are not related to the growth, production, manufacture, or assembly of the article, such as administrative salaries, casualty and liability insurance, advertising, and salesmen’s salaries, commissions, or expenses.
 
->         “(5) __Imported directly.—__ 
+>         “(5)  __Imported directly__  __.—__ 
 
 >         For purposes of this section—
 
@@ -121,7 +121,7 @@
 
 >                 “(iii) have not been subjected to operations other than loading, unloading, or other activities necessary to preserve the article in good condition.
 
->         “(6) __Documentation required.—__ 
+>         “(6)  __Documentation required__  __.—__ 
 
 >         An article is eligible for the duty exemption under this section only if—
 
@@ -141,15 +141,15 @@
 
 >                 “(v) A description of the origin and cost or value of any foreign materials used in the article which have not been substantially transformed in the West Bank, the Gaza Strip, or a qualifying industrial zone.
 
->     “(c) __Shipment of Articles of Israel Through West Bank or Gaza Strip.—__ 
+>     “(c)  __Shipment of Articles of Israel Through West Bank or Gaza Strip__  __.—__ 
 
 >     The President is authorized to proclaim that articles of Israel may be treated as though they were articles directly shipped from Israel for the purposes of the Agreement even if shipped to the United States from the West Bank, the Gaza Strip, or a qualifying industrial zone, if the articles otherwise meet the requirements of the Agreement.
 
->     “(d) __Treatment of Cost or Value of Materials.—__ 
+>     “(d)  __Treatment of Cost or Value of Materials__  __.—__ 
 
 >     The President is authorized to proclaim that the cost or value of materials produced in the West Bank, the Gaza Strip, or a qualifying industrial zone may be included in the cost or value of materials produced in Israel under section 1(c)(i) of Annex 3 of the Agreement, and the direct costs of processing operations performed in the West Bank, the Gaza Strip, or a qualifying industrial zone may be included in the direct costs of processing operations performed in Israel under section 1(c)(ii) of Annex 3 of the Agreement.
 
->     “(e) __Qualifying Industrial Zone Defined.—__ 
+>     “(e)  __Qualifying Industrial Zone Defined__  __.—__ 
 
 >     For purposes of this section, a ‘qualifying industrial zone’ means any area that—
 
@@ -213,7 +213,7 @@
 
 > “SEC. 403. __APPLICATION OF CERTAIN OTHER TRADE LAW PROVISIONS.__ 
 
->     “(a) __Suspension of Duty-Free Treatment.—__ 
+>     “(a)  __Suspension of Duty-Free Treatment__  __.—__ 
 
 >     The President may by proclamation suspend the reduction or elimination of any duty provided under any trade agreement provision entered into with Israel under the authority of section 102(b)(1) of the Trade Act of 1974 \[[19 U.S.C. 2112(b)(1)][/us/usc/t19/s2112/b/1]\] with respect to any article and may proclaim a duty rate for such article if such action is proclaimed under section 203 of the Trade Act of 1974 \[[19 U.S.C. 2253][/us/usc/t19/s2253]\] or section 232 of the Trade Expansion Act of 1962 \[[19 U.S.C. 1862][/us/usc/t19/s1862]\].
 

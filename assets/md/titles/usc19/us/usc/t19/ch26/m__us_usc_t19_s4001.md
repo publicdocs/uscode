@@ -39,19 +39,19 @@
 
 [Pub. L. 109–53, title I, § 107][/us/pl/109/53/s107], Aug. 2, 2005, [119 Stat. 466][/us/stat/119/466], provided that:
 
->     “(a) __Effective Dates.—__ 
+>     “(a)  __Effective Dates__  __.—__ 
 
 >     Except as provided in subsection (b), the provisions of this Act \[see Short Title note set out below\] and the amendments made by this Act take effect on the date the Agreement \[Dominican Republic-Central America-United States Free Trade Agreement\] enters into force \[Mar. 1, 2006\].
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >     Sections 1 through 3 and this title \[enacting this section, [section 4002 of this title][/us/usc/t19/s4002], and provisions set out as a note below\] take effect on the date of the enactment of this Act \[Aug. 2, 2005\].
 
->     “(c) __Termination of CAFTA–DR Status.—__ 
+>     “(c)  __Termination of CAFTA–DR Status__  __.—__ 
 
 >     During any period in which a country ceases to be a CAFTA–DR country, the provisions of this Act (other than this subsection) and the amendments made by this Act shall cease to have effect with respect to that country.
 
->     “(d) __Termination of the Agreement.—__ 
+>     “(d)  __Termination of the Agreement__  __.—__ 
 
 >     On the date on which the Agreement ceases to be in force with respect to the United States, the provisions of this Act (other than this subsection) and the amendments made by this Act shall cease to have effect.”
 

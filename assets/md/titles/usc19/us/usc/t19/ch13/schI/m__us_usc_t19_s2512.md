@@ -117,11 +117,11 @@
 
 [Pub. L. 103–465, title III, § 344][/us/pl/103/465/s344], Dec. 8, 1994, [108 Stat. 4955][/us/stat/108/4955], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), the amendments made by this subtitle \[subtitle E (§[§ 341–344 of title III of Pub. L. 103–465][/us/pl/103/465/s341–344], amending this section and sections 2513 to 2515, 2517, and 2518 of this title, repealing [section 2516 of this title][/us/usc/t19/s2516], and amending provisions set out as a note under [section 903 of Title 7][/us/usc/t7/s903], Agriculture\] take effect on the date on which the Agreement on Government Procurement referred to in section 101(d)(17) \[[19 U.S.C. 3511(d)(17)][/us/usc/t19/s3511/d/17]\] enters into force with respect to the United States \[Jan. 1, 1995\].
 
->     “(b) __Section 342(g).—__ 
+>     “(b)  __Section__  __342(g).—__ 
 
 >     The amendments made by section 342(g) \[amending provisions set out as a note under [section 903 of Title 7][/us/usc/t7/s903]\] take effect on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\].”
 

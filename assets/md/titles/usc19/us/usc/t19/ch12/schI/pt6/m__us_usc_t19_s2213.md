@@ -131,27 +131,15 @@
 
     1988—[Pub. L. 100–418][/us/pl/100/418] amended section generally, completely revising and expanding provisions covering reports, changing the structure of the section from one consisting of subsecs. (a) and (b) to one consisting of subsecs. (a) to (c).
 
- __Delegation of Functions__ 
-
-    Memorandum of President of the United States, Mar. 1, 2004, 69 F.R. 10133, provided:
-
-    Memorandum for the United States Trade Representative
-
-    By the authority vested in me as President by the Constitution and the laws of the United States, including [section 301 of title 3][/us/usc/t3/s301], United States Code, I hereby delegate to you the functions conferred upon the President by section 163 of the Trade Act of 1974, as amended ([19 U.S.C. 2213][/us/usc/t19/s2213]), to provide the specified report to the Congress.
-
-    You are authorized and directed to publish this memorandum in the Federal Register.
-
-                              George W. Bush.
-
  __Trade Deficit Review Commission__ 
 
 [Pub. L. 105–277, div. A, § 127][/us/pl/105/277/s127], Oct. 21, 1998, [112 Stat. 2681–547][/us/stat/112/2681-547], as amended by [Pub. L. 106–57, title III, § 311][/us/pl/106/57/s311], Sept. 29, 1999, [113 Stat. 427][/us/stat/113/427]; [Pub. L. 106–246, div. B, title II, § 2501][/us/pl/106/246/s2501], July 13, 2000, [114 Stat. 556][/us/stat/114/556]; [Pub. L. 107–107, div. A, title X, § 1048(i)(10)][/us/pl/107/107/s1048/i/10], Dec. 28, 2001, [115 Stat. 1229][/us/stat/115/1229], provided that:
 
->     “(a) __Short Title.—__ 
+>     “(a)  __Short Title__  __.—__ 
 
 >     This section may be cited as the ‘Trade Deficit Review Commission Act’.
 
->     “(b) __Findings.—__ 
+>     “(b)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -169,17 +157,17 @@
 
 >     “(c) __Establishment of Commission.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         There is established a commission to be known as the Trade Deficit Review Commission (hereafter in this section referred to as the ‘Commission’).
 
->         “(2) __Purpose.—__ 
+>         “(2)  __Purpose__  __.—__ 
 
 >         The purpose of the Commission is to study the nature, causes, and consequences of the United States merchandise trade and current account deficits.
 
 >         “(3) __Membership of commission.—__ 
 
->             “(A) __Composition.—__ 
+>             “(A)  __Composition__  __.—__ 
 
 >             The Commission shall be composed of 12 members as follows:
 
@@ -193,7 +181,7 @@
 
 >             “(B) __Qualifications of members.—__ 
 
->                 “(i) __Appointments.—__ 
+>                 “(i)  __Appointments__  __.—__ 
 
 >                 Persons who are appointed under subparagraph (A) shall be persons who—
 
@@ -201,7 +189,7 @@
 
 >                          “(II) are not officers or employees of the United States.
 
->                 “(ii) __Other considerations.—__ 
+>                 “(ii)  __Other considerations__  __.—__ 
 
 >                 In appointing Commission members, every effort shall be made to ensure that the members—
 
@@ -211,41 +199,41 @@
 
 >         “(4) __Period of appointment; vacancies.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Members shall be appointed not later than 60 days after the date of enactment of this Act \[Oct. 21, 1998\] and the appointment shall be for the life of the Commission.
 
->             “(B) __Vacancies.—__ 
+>             “(B)  __Vacancies__  __.—__ 
 
 >             Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner as the original appointment.
 
->         “(5) __Initial meeting.—__ 
+>         “(5)  __Initial meeting__  __.—__ 
 
 >         Not later than 30 days after the date on which all members of the Commission have been appointed, the Commission shall hold its first meeting.
 
->         “(6) __Meetings.—__ 
+>         “(6)  __Meetings__  __.—__ 
 
 >         The Commission shall meet at the call of the Chairperson.
 
->         “(7) __Chairperson and vice chairperson.—__ 
+>         “(7)  __Chairperson and vice chairperson__  __.—__ 
 
 >         The members of the Commission shall elect a chairperson and vice chairperson from among the members of the Commission.
 
->         “(8) __Quorum.—__ 
+>         “(8)  __Quorum__  __.—__ 
 
 >         A majority of the members of the Commission shall constitute a quorum for the transaction of business.
 
->         “(9) __Voting.—__ 
+>         “(9)  __Voting__  __.—__ 
 
 >         Each member of the Commission shall be entitled to 1 vote, which shall be equal to the vote of every other member of the Commission.
 
 >     “(d) __Duties of the Commission.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Commission shall be responsible for examining the nature, causes, and consequences of, and the accuracy of available data on, the United States merchandise trade and current account deficits.
 
->         “(2) __Issues to be addressed.—__ 
+>         “(2)  __Issues to be addressed__  __.—__ 
 
 >         The Commission shall examine and report to the President, the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, and other appropriate committees of Congress on the following:
 
@@ -307,7 +295,7 @@
 
 >     “(e) __Final Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 15 months after the date of the initial meeting of the Commission, the Commission shall submit to the President and Congress a final report which contains—
 
@@ -315,71 +303,83 @@
 
 >             “(B) recommendations for addressing the problems identified as part of the Commission’s analysis.
 
->         “(2) __Separate views.—__ 
+>         “(2)  __Separate views__  __.—__ 
 
 >         Any member of the Commission may submit additional findings and recommendations as part of the final report.
 
 >     “(f) __Powers of Commission.—__ 
 
->         “(1) __Hearings.—__ 
+>         “(1)  __Hearings__  __.—__ 
 
 >         The Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission may find advisable to fulfill the requirements of this section. The Commission shall hold at least 1 or more hearings in Washington, D.C., and 4 in different regions of the United States.
 
->         “(2) __Information from federal agencies.—__ 
+>         “(2)  __Information from federal agencies__  __.—__ 
 
 >         The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out the provisions of this section. Upon request of the Chairperson of the Commission, the head of such department or agency shall furnish such information to the Commission.
 
->         “(3) __Postal services.—__ 
+>         “(3)  __Postal services__  __.—__ 
 
 >         The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
 
 >     “(g) __Commission Personnel Matters.—__ 
 
->         “(1) __Compensation of members.—__ 
+>         “(1)  __Compensation of members__  __.—__ 
 
 >         Each member of the Commission shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315], United States Code, for each day (including travel time) during which such member is engaged in the performance of the duties of the Commission.
 
->         “(2) __Travel expenses.—__ 
+>         “(2)  __Travel expenses__  __.—__ 
 
 >         The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
 
 >         “(3) __Staff.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Chairperson of the Commission may, without regard to the civil service laws and regulations, appoint and terminate an executive director and such other additional personnel as may be necessary to enable the Commission to perform its duties. The employment of an executive director shall be subject to confirmation by the Commission.
 
->             “(B) __Compensation.—__ 
+>             “(B)  __Compensation__  __.—__ 
 
 >             The Chairperson of the Commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the executive director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
 
->         “(4) __Detail of government employees.—__ 
+>         “(4)  __Detail of government employees__  __.—__ 
 
 >         Any Federal Government employee may be detailed to the Commission without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
 
->         “(5) __Procurement of temporary and intermittent services.—__ 
+>         “(5)  __Procurement of temporary and intermittent services__  __.—__ 
 
 >         The Chairperson of the Commission may procure temporary and intermittent services under [section 3109(b) of title 5][/us/usc/t5/s3109/b], United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
 
->         “(6) __Applicability of certain pay authorities.—__ 
+>         “(6)  __Applicability of certain pay authorities__  __.—__ 
 
 >         An individual who is a member of the Commission and is an annuitant or otherwise covered by section 8344 or 8468 of title 5, United States Code, by reason of membership on the Commission is not subject to the provisions of section 8344 or 8468 (whichever is applicable) with respect to such membership.
 
->     “(h) __Support Services.—__ 
+>     “(h)  __Support Services__  __.—__ 
 
 >     The Administrator of the General Services Administration shall provide to the Commission on a reimbursable basis such administrative support services as the Commission may request.
 
->     “(i) __Appropriations.—__ 
+>     “(i)  __Appropriations__  __.—__ 
 
 >     There are appropriated $2,000,000 to the Commission to carry out the provisions of this section. Amounts appropriated pursuant to this subsection shall remain available until the date which is 90 days after the date on which the Commission submits the final report described in subsection (e).
 
->     “(j) __Federal Advisory Committee Act.—__ 
+>     “(j)  __Federal Advisory Committee Act__  __.—__ 
 
 >     The provisions of the Federal Advisory Committee Act ([Public Law 92–463][/us/pl/92/463]; 5 U.S.C. App.) shall not apply to the Commission.
 
->     “(k) __Termination.—__ 
+>     “(k)  __Termination__  __.—__ 
 
 >     The Commission shall terminate 90 days after the date on which the Commission submits the final report under subsection (e).”
+
+ __Delegation of Functions__ 
+
+    Memorandum of President of the United States, Mar. 1, 2004, 69 F.R. 10133, provided:
+
+    Memorandum for the United States Trade Representative
+
+    By the authority vested in me as President by the Constitution and the laws of the United States, including [section 301 of title 3][/us/usc/t3/s301], United States Code, I hereby delegate to you the functions conferred upon the President by section 163 of the Trade Act of 1974, as amended ([19 U.S.C. 2213][/us/usc/t19/s2213]), to provide the specified report to the Congress.
+
+    You are authorized and directed to publish this memorandum in the Federal Register.
+
+                              George W. Bush.
 
 ----------
 
@@ -398,8 +398,6 @@
 [/us/stat/88/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1978
 [/us/usc/t19/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2101
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
-[/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
-[/us/usc/t19/s2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2213
 [/us/pl/105/277/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs127
 [/us/stat/112/2681-547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-547
 [/us/pl/106/57/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F57%2Fs311
@@ -411,5 +409,7 @@
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
+[/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
+[/us/usc/t19/s2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2213
 
 

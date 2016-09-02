@@ -49,11 +49,11 @@
 
 [Pub. L. 103–465, title I, § 138][/us/pl/103/465/s138], Dec. 8, 1994, [108 Stat. 4842][/us/stat/108/4842], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in section 136(d) \[enacting provisions set out as a note under [section 5001 of Title 26][/us/usc/t26/s5001], Internal Revenue Code\] and subsection (b) of this section, this subtitle \[subtitle D (§§ 131–138) of title I of [Pub. L. 103–465][/us/pl/103/465], enacting this part, amending sections 5001, 5002, 5005, 5007, 5061, 5131, 5132, 5134, and 7652 of Title 26, Internal Revenue Code, and enacting provisions set out as a note under [section 5001 of Title 26][/us/usc/t26/s5001]\] and the amendments made by this subtitle take effect on the date of the enactment of this Act \[Dec. 8, 1994\].
 
->     “(b) __Sections 132 and 135.—__ 
+>     “(b)  __Sections__  __132__  __and__  __135.—__ 
 
 >     Sections 132 and 135 \[enacting sections 3552 and 3555 of this title\] take effect on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\].”
 

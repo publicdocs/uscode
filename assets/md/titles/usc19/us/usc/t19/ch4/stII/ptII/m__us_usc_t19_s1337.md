@@ -453,7 +453,7 @@
 
 [Pub. L. 100–418, title I, § 1341][/us/pl/100/418/s1341], Aug. 23, 1988, [102 Stat. 1211][/us/stat/102/1211], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -461,7 +461,7 @@
 
 >         “(2) the existing protection under section 337 of the Tariff Act of 1930 \[this section\] against unfair trade practices is cumbersome and costly and has not provided United States owners of intellectual property rights with adequate protection against foreign companies violating such rights.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of this part \[part 3 (§§ 1341, 1342) of subtitle C of title I of [Pub. L. 100–418][/us/pl/100/418], amending this section, repealing [section 1337a of this title][/us/usc/t19/s1337a], and enacting provisions set out as a note above\] is to amend section 337 of the Tariff Act of 1930 to make it a more effective remedy for the protection of United States intellectual property rights.”
 

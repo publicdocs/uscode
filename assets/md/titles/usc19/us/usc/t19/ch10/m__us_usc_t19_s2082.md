@@ -59,15 +59,15 @@
 
 >     “(a) __Establishment and Implementation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than September 30, 2003, the Commissioner of Customs shall, in accordance with the audit of the Customs Service’s fiscal years 2000 and 1999 financial statements (as contained in the report of the Office of the Inspector General of the Department of the Treasury issued on February 23, 2001), establish and implement a cost accounting system for expenses incurred in both commercial and noncommercial operations of the Customs Service.
 
->         “(2) __Additional requirement.—__ 
+>         “(2)  __Additional requirement__  __.—__ 
 
 >         The cost accounting system described in paragraph (1) shall provide for an identification of expenses based on the type of operation, the port at which the operation took place, the amount of time spent on the operation by personnel of the Customs Service, and an identification of expenses based on any other appropriate classification necessary to provide for an accurate and complete accounting of the expenses.
 
->     “(b) __Reports.—__ 
+>     “(b)  __Reports__  __.—__ 
 
 >     Beginning on the date of the enactment of this Act \[Aug. 6, 2002\] and ending on the date on which the cost accounting system described in subsection (a) is fully implemented, the Commissioner of Customs shall prepare and submit to Congress on a quarterly basis a report on the progress of implementing the cost accounting system pursuant to subsection (a).”
 

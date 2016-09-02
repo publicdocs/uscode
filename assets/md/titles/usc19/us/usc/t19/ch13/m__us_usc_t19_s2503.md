@@ -119,7 +119,7 @@
 
 >         Subject to paragraph (2), the President may accept the Protocol for the United States.
 
->         “(2) __Limitation on acceptance of protocol.—__ 
+>         “(2)  __Limitation on acceptance of protocol__  __.—__ 
 
 >         Paragraph (3) of section 2(b) of the Trade Agreements Act of 1979 ([19 U.S.C. 2503(b)(3)][/us/usc/t19/s2503/b/3]) (relating to the limitation on acceptance of trade agreements concerning major industrial countries) applies to the Protocol and for such purpose the Protocol shall be treated as a trade agreement that is referred to in such paragraph (3).
 

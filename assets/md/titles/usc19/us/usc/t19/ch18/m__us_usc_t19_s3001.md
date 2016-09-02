@@ -33,11 +33,11 @@
 
 [Pub. L. 100–418, title I, § 1217][/us/pl/100/418/s1217], Aug. 23, 1988, [102 Stat. 1163][/us/stat/102/1163], provided that:
 
->     “(a) __Accession to Convention and Provisions Other Than the Implementation of the Harmonized Tariff Schedule.—__ 
+>     “(a)  __Accession to Convention and Provisions Other Than the Implementation of the Harmonized Tariff Schedule__  __.—__ 
 
 >     Except as provided in subsection (b), the provisions of this subtitle \[subtitle B (§§ 1201–1217) of title I of [Pub. L. 100–418][/us/pl/100/418], see References in Text note above\] take effect on the date of the enactment of the Omnibus Trade and Competitiveness Act of 1988 \[Aug. 23, 1988\].
 
->     “(b) __Implementation of the Harmonized Tariff Schedule.—__ 
+>     “(b)  __Implementation of the Harmonized Tariff Schedule__  __.—__ 
 
 >     The effective date of the Harmonized Tariff Schedule is January 1, 1989. On such date—
 

@@ -51,15 +51,15 @@
 
 >     “(a) __Effective Dates.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         This title \[enacting this subchapter and amending provisions set out as a note under [section 2112 of this title][/us/usc/t19/s2112]\] (other than the amendment made by section 107 \[amending provisions set out as a note under [section 2112 of this title][/us/usc/t19/s2112]\]) takes effect on the date of the enactment of this Act \[Dec. 8, 1993\].
 
->         “(2) __Section 107 amendment.—__ 
+>         “(2)  __Section 107 amendment__  __.—__ 
 
 >         The amendment made by section 107 takes effect on the date the Agreement enters into force between the United States and Canada \[Jan. 1, 1994\].
 
->     “(b) __Termination of NAFTA Status.—__ 
+>     “(b)  __Termination of NAFTA Status__  __.—__ 
 
 >     During any period in which a country ceases to be a NAFTA country, sections 101 through 106 \[enacting this section and sections 3312 to 3316 of this title\] shall cease to have effect with respect to such country.”
 

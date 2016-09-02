@@ -393,7 +393,7 @@
 
 >     “(a) __Effective Date of Amendments.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), the amendments made by this title \[amending the Tariff Schedules of the United States (see Publication of Tariff Schedules note under [section 1202 of this title][/us/usc/t19/s1202]), sections 1332, 1336, 1351, 1401a, 1500, and 2481 of this title, and [section 993 of Title 26][/us/usc/t26/s993], Internal Revenue Code, repealing [section 1402 of this title][/us/usc/t19/s1402], and enacting provisions set out as notes under sections 1202, 1401a, and 2111 of this title\] (except the amendments made by section 223(b) \[amending schedule 7, part 1, subpart A of the Tariff Schedules of the United States\] shall take effect on—
 
@@ -403,7 +403,7 @@
 
 >             and shall apply with respect to merchandise that is exported to the United States on or after whichever of such dates applies.
 
->         “(2) __Earlier effective date under certain circumstances.—__ 
+>         “(2)  __Earlier effective date under certain circumstances__  __.—__ 
 
 >         If the President determines before January 1, 1981, that—
 
@@ -417,15 +417,15 @@
 
 >             “(ii) shall apply with respect to merchandise exported to the United States on or after January 1, 1981, and before the date on which the Agreement enters into such force.
 
->     “(b) __Application of Old Law Valuation Standards.—__ 
+>     “(b)  __Application of Old Law Valuation Standards__  __.—__ 
 
 >     For purposes of the administration of the customs laws, all merchandise (other than merchandise to which subsections (a) and (c) apply) shall be appraised on the same basis, and in the same manner, as if the amendments made by this title had not been enacted.
 
->     “(c) __Special Treatment for Certain Rubber Footwear.—__ 
+>     “(c)  __Special Treatment for Certain Rubber Footwear__  __.—__ 
 
 >     The amendments made by section 223(b) \[amending schedule 7, part 1, subpart A of the Tariff Schedules of the United States\] shall take effect July 1, 1981, or, if later, the date on which the Agreement enters into force with respect to the United States, and shall apply, together with the other amendments made by this title, to rubber footwear exported to the United States on or after such date. For purposes of the administration of the customs laws, all rubber footwear (other than rubber footwear to which the preceding sentence applies) shall be appraised on the same basis, and in the same manner, as if the amendments made by this title had not been enacted.
 
->     “(d) __Definition.—__ 
+>     “(d)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘rubber footwear’ means articles described in item 700.60 of the Tariff Schedules of the United States (as in effect on the day before the day on which the amendments made by section 223(b) \[amending schedule 7, part 1, subpart A of the Tariff Schedules of the United States\] take effect).”
 

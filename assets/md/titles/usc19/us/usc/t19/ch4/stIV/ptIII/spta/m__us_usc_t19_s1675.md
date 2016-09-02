@@ -233,7 +233,7 @@
 
             For purposes of this section, the term “transition order” means—
 
-                (i) a countervailing duty order under this subtitle or under section 1303  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of this title,
+                (i) a countervailing duty order under this subtitle or under section 1303 1 of this title,
 
                 (ii) an antidumping duty order under this subtitle or a finding under the Antidumping Act, 1921, or
 

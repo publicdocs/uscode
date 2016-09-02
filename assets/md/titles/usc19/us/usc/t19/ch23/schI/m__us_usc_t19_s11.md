@@ -17,7 +17,7 @@
 
 ## “SEC. 11. ACTIVITIES IN SUPPORT OF TRANSPORTATION, ENERGY, AGRICULTURE, AND TELECOMMUNICATIONS INFRASTRUCTURE.
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds the following:
 
@@ -27,7 +27,7 @@
 
 >         “(3) Sub-Saharan Africa is rich in exportable agricultural goods, but development of this industry remains stymied because of an underdeveloped infrastructure.
 
->     “(b) __Action by the President.—__ 
+>     “(b)  __Action by the President__  __.—__ 
 
 >     In order to enhance trade with Africa and to bring the benefits of trade to African countries, the President shall develop and implement policies to encourage investment in eligible sub-Saharan African countries, particularly with respect to the following:
 

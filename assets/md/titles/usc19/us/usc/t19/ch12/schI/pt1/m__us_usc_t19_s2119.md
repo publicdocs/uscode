@@ -59,7 +59,7 @@
 
 [Pub. L. 96–39, title V, § 503][/us/pl/96/39/s503], July 26, 1979, [93 Stat. 251][/us/stat/93/251], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The aggregate reduction in the rate of duty applicable to items described in this subsection in effect on any day pursuant to a trade agreement entered into under section 101 of the Trade Act of 1974 \[[19 U.S.C. 2111][/us/usc/t19/s2111]\] before January 3, 1980, may exceed the limitation in section 109(a) of such Act ([19 U.S.C. 2119][/us/usc/t19/s2119]):
 
@@ -79,7 +79,7 @@
 
 >         “(6) Items for which the President determines the effective date of the first reduction will be after June 30, 1980, and before January 1, 1981, to the extent necessary to permit the second reduction to take effect on January 1, 1981.
 
->     “(b) __Opportunity for Comment.—__ 
+>     “(b)  __Opportunity for Comment__  __.—__ 
 
 >     Before making any determination under subsection (a)(1) and (2), the President shall provide interested parties an opportunity to comment and shall publish his final determinations in the Federal Register before July 1, 1980.”
 

@@ -83,7 +83,7 @@
 
 [Pub. L. 111–5, div. B, title I, § 1891][/us/pl/111/5/s1891], Feb. 17, 2009, [123 Stat. 420][/us/stat/123/420], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this subtitle \[subtitle I (§§ 1800–1899L) of title I of div. B of [Pub. L. 111–5][/us/pl/111/5], enacting part 4 (§ 2371 et seq.) of this subchapter and sections 2295a, 2322, 2323, 2344, 2345, 2356, and 2397a of this title, amending sections 2271 to 2275, 2291 to 2295, 2296 to 2298, 2311, 2315 to 2321, 2341, 2343, 2348 to 2352, 2354, 2355, 2393, 2395, 2401 to 2401b, and 2401e to 2401g of this title, sections 35, 4980B, 7527, and 9801 of Title 26, Internal Revenue Code, [section 1581 of Title 28][/us/usc/t28/s1581], Judiciary and Judicial Procedure, sections 1162, 1181, 2918, and 2919 of Title 29, Labor, and sections 300bb–2 and 300gg of Title 42, The Public Health and Welfare, repealing former sections 2344 to 2347 of this title, enacting provisions set out as notes preceding section 2271 and under sections 2271, 2295a, 2296, 2323, 2344, 2371, and 2393 of this title and sections 1, 35, 4980B, 7527, and 9801 of Title 26, and amending provisions set out as a note preceding [section 2271 of this title][/us/usc/t19/s2271]\], and subsection (b) of this section, this subtitle and the amendments made by this subtitle—
 
@@ -97,7 +97,7 @@
 
 >             “(B) petitions for assistance and proposals for grants filed under chapter 4 of title II of the Trade Act of 1974 \[part 4 of this subchapter\] on or after such effective date.
 
->     “(b) __Certifications Made Before Effective Date.—__ 
+>     “(b)  __Certifications Made Before Effective Date__  __.—__ 
 
 >     Notwithstanding subsection (a)—
 
@@ -135,17 +135,17 @@
 
 [Pub. L. 103–182, title V, § 506][/us/pl/103/182/s506], Dec. 8, 1993, [107 Stat. 2152][/us/stat/107/2152], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The amendments made by sections 501, 502, 503, 504, and 505 \[enacting sections 2322 and 2331 of this title and amending this section, sections 2272, 2273, 2275, 2317, and 2395 of this title, and provisions set out as a note preceding this section\] shall take effect on the date the Agreement \[North American Free Trade Agreement\] enters into force with respect to the United States \[Jan. 1, 1994\].
 
 >     “(b) __Covered Workers.—__ 
 
->         “(1) __General rule.—__ 
+>         “(1)  __General rule__  __.—__ 
 
 >         Except as provided in paragraph (2), no worker shall be certified as eligible to receive assistance under subchapter D of chapter 2 of title II of the Trade Act of 1974 \[former [19 U.S.C. 2331][/us/usc/t19/s2331] et seq.\] (as added by this subtitle) whose last total or partial separation from a firm (or appropriate subdivision of a firm) occurred before such date of entry into force.
 
->         “(2) __Reachback.—__ 
+>         “(2)  __Reachback__  __.—__ 
 
 >         Notwithstanding paragraph (1), any worker—
 
@@ -175,11 +175,11 @@
 
 >             “(A) __Certifications of workers not certified before date of enactment.—__ 
 
->                 “(i) __Criteria if a determination has not been made.—__ 
+>                 “(i)  __Criteria if a determination has not been made__  __.—__ 
 
 >                 If, as of the date of the enactment of this Act \[Oct. 21, 2011\], the Secretary of Labor has not made a determination with respect to whether to certify a group of workers as eligible to apply for adjustment assistance under section 222 of the Trade Act of 1974 \[[19 U.S.C. 2272][/us/usc/t19/s2272]\] pursuant to a petition described in clause (iii), the Secretary shall make that determination based on the requirements of section 222 of the Trade Act of 1974, as in effect on such date of enactment.
 
->                 “(ii) __Reconsideration of denials of certifications.—__ 
+>                 “(ii)  __Reconsideration of denials of certifications__  __.—__ 
 
 >                 If, before the date of the enactment of this Act, the Secretary made a determination not to certify a group of workers as eligible to apply for adjustment assistance under section 222 of the Trade Act of 1974 pursuant to a petition described in clause (iii), the Secretary shall—
 
@@ -187,19 +187,19 @@
 
 >                          “(II) if the group of workers meets the requirements of section 222 of the Trade Act of 1974, as in effect on such date of enactment, certify the group of workers as eligible to apply for adjustment assistance.
 
->                 “(iii) __Petition described.—__ 
+>                 “(iii)  __Petition described__  __.—__ 
 
 >                 A petition described in this clause is a petition for a certification of eligibility for a group of workers filed under section 221 of the Trade Act of 1974 \[[19 U.S.C. 2271][/us/usc/t19/s2271]\] on or after February 13, 2011, and before the date of the enactment of this Act.
 
 >             “(B) __Eligibility for benefits.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Except as provided in clause (ii), a worker certified as eligible to apply for adjustment assistance under section 222 of the Trade Act of 1974 \[[19 U.S.C. 2272][/us/usc/t19/s2272]\] pursuant to a petition described in subparagraph (A)(iii) shall be eligible, on and after the date that is 60 days after the date of the enactment of this Act \[Oct. 21, 2011\], to receive benefits only under the provisions of chapter 2 of title II of the Trade Act of 1974 \[this part\], as in effect on such date of enactment.
 
 >                 “(ii) __Election for workers receiving benefits on the 60th day after enactment.—__ 
 
->                          “(I) __In general.—__ 
+>                          “(I)  __In general__  __.—__ 
 
 >                     A worker certified as eligible to apply for adjustment assistance under section 222 of the Trade Act of 1974 \[[19 U.S.C. 2272][/us/usc/t19/s2272]\] pursuant to a petition described in subparagraph (A)(iii) who is receiving benefits under chapter 2 of title II of the Trade Act of 1974 as of the date that is 60 days after the date of the enactment of this Act \[Oct. 21, 2011\] may, not later than the date that is 150 days after such date of enactment, make a one-time election to receive benefits pursuant to—
 
@@ -207,15 +207,15 @@
 
 >                         “(bb) the provisions of chapter 2 of title II of the Trade Act of 1974, as in effect on February 13, 2011.
 
->                          “(II) __Effect of failure to make election.—__ 
+>                          “(II)  __Effect of failure to make election__  __.—__ 
 
 >                     A worker described in subclause (I) who does not make the election described in that subclause on or before the date that is 150 days after the date of the enactment of this Act shall be eligible to receive benefits only under the provisions of chapter 2 of title II of the Trade Act of 1974, as in effect on February 13, 2011.
 
->                          “(III) __Computation of maximum benefits.—__ 
+>                          “(III)  __Computation of maximum benefits__  __.—__ 
 
 >                     Benefits received by a worker described in subclause (I) under chapter 2 of title II of the Trade Act of 1974, as in effect on February 13, 2011, before the worker makes the election described in that subclause shall be included in any determination of the maximum benefits for which the worker is eligible under the provisions of chapter 2 of title II of the Trade Act of 1974, as in effect on the date of the enactment of this Act \[Oct. 21, 2011\], or as in effect on February 13, 2011, whichever is applicable after the election of the worker under subclause (I).
 
->         “(2) __Petitions filed before__  __february 13, 2011__  __.—__ 
+>         “(2)  __Petitions filed before __  __february 13, 2011__  __.—__ 
 
 >         A worker certified as eligible to apply for adjustment assistance pursuant to a petition filed under section 221 of the Trade Act of 1974 \[[19 U.S.C. 2271][/us/usc/t19/s2271]\]—
 
@@ -223,7 +223,7 @@
 
 >             “(B) before May 18, 2009, shall continue to be eligible to apply for and receive benefits under the provisions of chapter 2 of title II of such Act, as in effect on May 17, 2009.
 
->         “(3) __Qualifying separations with respect to petitions filed within 90 days of date of enactment.—__ 
+>         “(3)  __Qualifying separations with respect to petitions filed within 90 days of date of enactment__  __.—__ 
 
 >         Section 223(b) of the Trade Act of 1974 \[[19 U.S.C. 2273(b)][/us/usc/t19/s2273/b]\], as in effect on the date of the enactment of this Act \[Oct. 21, 2011\], shall be applied and administered by substituting ‘before February 13, 2010’ for ‘more than one year before the date of the petition on which such certification was granted’ for purposes of determining whether a worker is eligible to apply for adjustment assistance pursuant to a petition filed under section 221 of the Trade Act of 1974 \[[19 U.S.C. 2271][/us/usc/t19/s2271]\] on or after the date of the enactment of this Act and on or before the date that is 90 days after such date of enactment.
 
@@ -231,11 +231,11 @@
 
 >         “(1) __Certification of firms not certified before date of enactment.—__ 
 
->             “(A) __Criteria if a determination has not been made.—__ 
+>             “(A)  __Criteria if a determination has not been made__  __.—__ 
 
 >             If, as of the date of the enactment of this Act \[Oct. 21, 2011\], the Secretary of Commerce has not made a determination with respect to whether to certify a firm as eligible to apply for adjustment assistance under section 251 of the Trade Act of 1974 \[[19 U.S.C. 2341][/us/usc/t19/s2341]\] pursuant to a petition described in subparagraph (C), the Secretary shall make that determination based on the requirements of section 251 of the Trade Act of 1974, as in effect on such date of enactment.
 
->             “(B) __Reconsideration of denial of certain petitions.—__ 
+>             “(B)  __Reconsideration of denial of certain petitions__  __.—__ 
 
 >             If, before the date of the enactment of this Act, the Secretary made a determination not to certify a firm as eligible to apply for adjustment assistance under section 251 of the Trade Act of 1974 pursuant to a petition described in subparagraph (C), the Secretary shall—
 
@@ -243,17 +243,17 @@
 
 >                 “(ii) if the firm meets the requirements of section 251 of the Trade Act of 1974, as in effect on such date of enactment, certify the firm as eligible to apply for adjustment assistance.
 
->             “(C) __Petition described.—__ 
+>             “(C)  __Petition described__  __.—__ 
 
 >             A petition described in this subparagraph is a petition for a certification of eligibility filed by a firm or its representative under section 251 of the Trade Act of 1974 \[[19 U.S.C. 2341][/us/usc/t19/s2341]\] on or after February 13, 2011, and before the date of the enactment of this Act \[Oct. 21, 2011\].
 
 >         “(2) __Certification of firms that did not submit petitions between__  __february 13, 2011__  __, and date of enactment.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary of Commerce shall certify a firm described in subparagraph (B) as eligible to apply for adjustment assistance under section 251 of the Trade Act of 1974 \[[19 U.S.C. 2341][/us/usc/t19/s2341]\], as in effect on the date of the enactment of this Act \[Oct. 21, 2011\], if the firm or its representative files a petition for a certification of eligibility under section 251 of the Trade Act of 1974 not later than 90 days after such date of enactment.
 
->             “(B) __Firm described.—__ 
+>             “(B)  __Firm described__  __.—__ 
 
 >             A firm described in this subparagraph is a firm that the Secretary determines would have been certified as eligible to apply for adjustment assistance if—
 
@@ -277,11 +277,11 @@
 
 [Pub. L. 107–210, div. A, title I, § 125][/us/pl/107/210/s125], Aug. 6, 2002, [116 Stat. 946][/us/stat/116/946], provided that:
 
->     “(a) __Declaration of Policy.—__ 
+>     “(a)  __Declaration of Policy__  __.—__ 
 
 >     Congress reiterates that, under the trade adjustment assistance program under chapter 2 of title II of the Trade Act of 1974 \[this part\], workers are eligible for transportation, childcare, and healthcare assistance, as well as other related assistance under programs administered by the Department of Labor.
 
->     “(b) __Sense of Congress.—__ 
+>     “(b)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that the Secretary of Labor, working independently and in conjunction with the States, should, in accordance with section 225 of the Trade Act of 1974 \[[19 U.S.C. 2275][/us/usc/t19/s2275]\], provide more specific information about benefit allowances, training, and other employment services, and the petition and application procedures (including appropriate filing dates) for such allowances, training, and services, under the trade adjustment assistance program under chapter 2 of title II of the Trade Act of 1974 to workers who are applying for, or are certified to receive, assistance under that program, including information on all other Federal assistance available to such workers.”
 

@@ -155,7 +155,7 @@
 
 [Pub. L. 103–465, title II, § 291][/us/pl/103/465/s291], Dec. 8, 1994, [108 Stat. 4931][/us/stat/108/4931], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in section 261 \[amending this section and sections 1315, 1337, 1677i, 2192, and 2194 of this title, repealing [section 1303 of this title][/us/usc/t19/s1303], enacting provisions set out as notes under sections 1303 and 1315 of this title, and amending provisions set out as a note under [section 1303 of this title][/us/usc/t19/s1303]\], the amendments made by this title \[see Tables for classification\] shall take effect on the date described in subsection (b) and apply with respect to—
 
@@ -187,7 +187,7 @@
 
 >             “(B) pursuant to a request filed after such date.
 
->     “(b) __Date Described.—__ 
+>     “(b)  __Date Described__  __.—__ 
 
 >     The date described in this subsection is the date on which the WTO Agreement (as defined in section 2(9) \[[19 U.S.C. 3501(9)][/us/usc/t19/s3501/9]\]) enters into force with respect to the United States \[Jan. 1, 1995\].”
 
@@ -197,11 +197,11 @@
 
 [Pub. L. 100–418, title I, § 1337][/us/pl/100/418/s1337], Aug. 23, 1988, [102 Stat. 1211][/us/stat/102/1211], as amended by [Pub. L. 100–647, title IX, § 9001(a)(6)][/us/pl/100/647/s9001/a/6], Nov. 10, 1988, [102 Stat. 3807][/us/stat/102/3807], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this section, the amendments made by this part \[part 2 (§§ 1311–1337) of subtitle C of title I of [Pub. L. 100–418][/us/pl/100/418], enacting sections 1673h, 1677–2, 1677i to 1677k of this title, amending this section and sections 1516, 1671a to 1671d, 1673a to 1673e, 1675, 1677, 1677b, 1677e, 1677f, and 1677h of this section, and amending provisions set out as a note under [section 2253 of this title][/us/usc/t19/s2253]\] shall take effect on the date of enactment of this Act \[Aug. 23, 1988\].
 
->     “(b) __Investigations and Reviews After Enactment.—__ 
+>     “(b)  __Investigations and Reviews After Enactment__  __.—__ 
 
 >     The amendments made by sections 1312, 1315, 1316, 1318, 1325, 1326, 1327, 1328, 1329, 1331, and 1332 \[amending this section and sections 1516, 1671a to 1671c, 1673a to 1673c, 1673e, 1677, 1677b, 1677e, and 1677f of this title\] shall only apply with respect to—
 
@@ -209,19 +209,19 @@
 
 >         “(2) reviews initiated under section 736(c) or 751 of the Tariff Act of 1930 \[[19 U.S.C. 1673e(c)][/us/usc/t19/s1673e/c] or 1675\] after the date of enactment of this Act \[Aug. 23, 1988\].
 
->     “(c) __Investigations After Enactment.—__ 
+>     “(c)  __Investigations After Enactment__  __.—__ 
 
 >     The amendments made by sections 1324 and 1330 \[amending sections 1671a, 1671b, 1671d, 1673a, 1673b, 1673d, and 1677 of this title\] shall only apply with respect to investigations initiated after the date of enactment of this Act \[Aug. 23, 1988\].
 
->     “(d) __Prevention of Circumvention of Duties; Drawback.—__ 
+>     “(d)  __Prevention of Circumvention of Duties; Drawback__  __.—__ 
 
 >     The provisions of section 781 of the Tariff Act of 1930, as added by section 1321(a) \[[19 U.S.C. 1677j][/us/usc/t19/s1677j]\], and the amendments made by section 1334 \[amending [section 1677h of this title][/us/usc/t19/s1677h]\] shall apply with respect to articles entered, or withdrawn from warehouse for consumption, on or after the date of enactment of this Act \[Aug. 23, 1988\].
 
->     “(e) __Governmental Importations; Steel.—__ 
+>     “(e)  __Governmental Importations; Steel__  __.—__ 
 
 >     The amendments made by sections 1322 \[amending provisions set out as a note under [section 2253 of this title][/us/usc/t19/s2253]\] and 1335 \[amending [section 1677 of this title][/us/usc/t19/s1677]\] shall apply with respect to entries, and withdrawals from warehouse for consumption, that are liquidated on or after the date of enactment of this Act \[Aug. 23, 1988\].
 
->     “(f) __Fictitious Markets.—__ 
+>     “(f)  __Fictitious Markets__  __.—__ 
 
 >     The amendment made by section 1319 \[amending [section 1677b of this title][/us/usc/t19/s1677b]\] shall only apply with respect to—
 
@@ -329,7 +329,7 @@
 
 >             and shall furnish to the Commission the most current information it has with respect to the net subsidy benefitting the merchandise subject to the countervailing duty order.
 
->         “(2) __Determination by the commission.—__ 
+>         “(2)  __Determination by the commission__  __.—__ 
 
 >         Within 180 days after the date on which it receives the information from the administering authority under paragraph (1), the Commission shall make a determination of whether—
 
@@ -347,11 +347,11 @@
 
 >         “(3) __Effect of determination.—__ 
 
->             “(A) __Affirmative determination.—__ 
+>             “(A) __ Affirmative determination__  __.—__ 
 
 >             Upon being notified by the Commission of an affirmative determination under paragraph (2), the administering authority shall terminate the waiver of imposition of countervailing duties for merchandise subject to the order, if any. The countervailing duty order under section 303 of the Tariff Act of 1930 \[[section 1303 of this title][/us/usc/t19/s1303]\] which applies to that merchandise shall remain in effect until revoked, in whole or in part, under section 751(d) of such Act \[[section 1675(d) of this title][/us/usc/t19/s1675/d]\].
 
->             “(B) __Negative determination.—__ 
+>             “(B) __ Negative determination__  __.—__ 
 
 >             Upon being notified by the Commission of a negative determination under paragraph (2), the administering authority shall revoke the countervailing duty order, and publish notice in the Federal Register of the revocation.
 
@@ -369,7 +369,7 @@
 
 >             the Commission, upon the request of the government of such a country or of exporters accounting for a significant proportion of exports to the United States of merchandise which is covered by the order, submitted within 3 years after the effective date of title VII of the Tariff Act of 1930 \[see Effective Date note set out above\] shall make a determination under paragraph (2) of this subsection.
 
->         “(2) __Determination by the commission.—__ 
+>         “(2)  __Determination by the commission__  __.—__ 
 
 >         In a case described in paragraph (1) with respect to which it has received a request for review, the Commission shall commence an investigation to determine whether—
 
@@ -391,11 +391,11 @@
 
 >         “(4) __Effect of determination.—__ 
 
->             “(A) __Affirmative determination.—__ 
+>             “(A) __ Affirmative determination__  __.—__ 
 
 >             Upon being notified of an affirmative determination under paragraph (2) by the Commission, the administering authority shall liquidate entries of merchandise the liquidation of which was suspended under paragraph (3) of this subsection and impose countervailing duties in the amount of the estimated duties required to be deposited. The countervailing duty order shall remain in effect until revoked, in whole or in part, under section 751(c) of the Tariff Act of 1930 \[[section 1675(c) of this title][/us/usc/t19/s1675/c]\].
 
->             “(B) __Negative determination.—__ 
+>             “(B) __ Negative determination__  __.—__ 
 
 >             Upon being notified of a negative determination under paragraph (2) by the Commission, the administering authority shall revoke the countervailing duty order then in effect, publish notice thereof in the Federal Register, and refund, without payment of interest, any estimated countervailing duties collected during the period of suspension of liquidation.
 

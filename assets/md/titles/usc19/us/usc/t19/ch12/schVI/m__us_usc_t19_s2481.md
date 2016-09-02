@@ -77,7 +77,7 @@
 
 [Pub. L. 105–206, title V, § 5003(a)][/us/pl/105/206/s5003/a], July 22, 1998, [112 Stat. 789][/us/stat/112/789], provided that:
 
->     “(1) __Findings.—__ 
+>     “(1)  __Findings__  __.—__ 
 
 >     The Congress makes the following findings:
 
@@ -89,7 +89,7 @@
 
 >         “(D) The term ‘normal trade relations’ is a more accurate description of the principle of nondiscrimination as it applies to the tariffs applicable generally to imports from United States trading partners, that is, the general rates of duty set forth in column 1 of the Harmonized Tariff Schedule of the United States.
 
->     “(2) __Policy.—__ 
+>     “(2)  __Policy__  __.—__ 
 
 >     It is the sense of the Congress that—
 

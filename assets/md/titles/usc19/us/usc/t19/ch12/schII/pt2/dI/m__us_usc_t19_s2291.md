@@ -277,19 +277,19 @@
 
 [Pub. L. 99–272, title XIII, § 13009][/us/pl/99/272/s13009], Apr. 7, 1986, [100 Stat. 305][/us/stat/100/305], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsections (b) and (c), the amendments made by this part \[part 1 (§§ 13001–13009) of subtitle A, amending this section, sections 2271, 2272, 2292, 2293, 2296, 2297, 2311, 2317, 2319, 2341 to 2344, and 2346 of this title, and provisions set out as a note preceding [section 2271 of this title][/us/usc/t19/s2271]\] shall take effect on the date of the enactment of this Act \[Apr. 7, 1986\].
 
->     “(b) __Job Search Program Requirements.—__ 
+>     “(b)  __Job Search Program Requirements__  __.—__ 
 
 >     The amendments made by section 13003(a) \[amending this section and [section 2311 of this title][/us/usc/t19/s2311]\] apply with respect to workers covered by petitions filed under section 221 of the Trade Act of 1974 \[[section 2271 of this title][/us/usc/t19/s2271]\] on or after the date of the enactment of this Act \[Apr. 7, 1986\].
 
->     “(c) __Extension and Authorization.—__ 
+>     “(c)  __Extension and Authorization__  __.—__ 
 
 >     Chapters 2 and 3 of title II of the Trade Act of 1974 ([19 U.S.C. 2271][/us/usc/t19/s2271], et seq.) \[parts 2 and 3 of this subchapter\] shall be applied as if the amendments made by sections 13007 and 13008 \[amending sections 2317 and 2346 of this title and provisions set out as a note preceding [section 2271 of this title][/us/usc/t19/s2271]\] had taken effect on December 18, 1985.
 
->     “(d) __Application of Gramm-Rudman.—__ 
+>     “(d)  __Application of Gramm-Rudman__  __.—__ 
 
 >     Trade readjustment allowances payable under part I \[of subchapter B\] of chapter 2 of title II of the Trade Act of 1974 \[[19 U.S.C. 2291][/us/usc/t19/s2291] et seq.\] for the period from March 1, 1986, and until October 1, 1986, shall be reduced by a percentage equal to the non-defense sequester percentage applied in the Sequestration Report (submitted under the Balanced Budget and Emergency Deficit Control Act of 1985 \[see Short Title note set out under [section 900 of Title 2][/us/usc/t2/s900], The Congress\] and dated January 21, 1986) of the Comptroller General of the United States for fiscal year 1986.”
 

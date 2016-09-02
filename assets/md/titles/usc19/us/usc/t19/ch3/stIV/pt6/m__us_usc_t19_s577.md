@@ -19,7 +19,7 @@
 
  __Savings Provision__ 
 
-    [Act Oct. 31, 1951, ch. 655, § 56][/us/act/1951-10-31/ch655/s56](l), [65 Stat. 730][/us/stat/65/730], provided that the repeal of this section shall not affect any rights or liabilities existing hereunder on the effective date of such repeal \[Oct. 31, 1951.\].
+    [Act Oct. 31, 1951, ch. 655, § 56][/us/act/1951-10-31/ch655/s56](l), [65 Stat. 730][/us/stat/65/730], provided that the repeal of this section shall not affect any rights or liabilities existing hereunder on the effective date of such repeal \[Oct. 31, 1951\].
 
 ----------
 

@@ -55,11 +55,11 @@
 
 [Pub. L. 103–465, title IV, § 421][/us/pl/103/465/s421], Dec. 8, 1994, [108 Stat. 4964][/us/stat/108/4964], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In the application of section 125(c) of the Trade Act of 1974 ([19 U.S.C. 2135][/us/usc/t19/s2135]) with respect to any item provided for in subheadings 2401.10.60, 2401.20.30, 2401.20.80, 2401.30.30, 2401.30.60, 2401.30.90, 2403.10.00, 2403.91.40, or 2403.99.00 of the HTS, ‘350’ shall be substituted for ‘20’ where it appears in such section.
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     This section shall take effect on the date of the enactment of this Act \[Dec. 8, 1994\].”
 
@@ -79,15 +79,15 @@
 
 [Pub. L. 96–39, title VIII, § 854][/us/pl/96/39/s854], July 26, 1979, [93 Stat. 294][/us/stat/93/294], provided that:
 
->     “(a) __Review.—__ 
+>     “(a)  __Review__  __.—__ 
 
 >     The President shall review foreign tariff and nontariff barriers affecting United States exports of alcoholic beverages. Not later than January 1, 1982, the President shall report to the Congress the results of his review.
 
->     “(b) __Withdrawal of Concessions.—__ 
+>     “(b)  __Withdrawal of Concessions__  __.—__ 
 
 >     If, as the result of his review under subsection (a), the President determines that a foreign country or instrumentality has not implemented concessions to the United States affecting alcoholic beverages which were negotiated in trade agreements entered into before January 3, 1980, under the authority of title I of the Trade Act of 1974 \[this subchapter\], the President shall withdraw, suspend, or modify the application of substantially equivalent trade agreement obligations of benefit to such foreign country or instrumentality under section 125 of the Trade Act of 1974 ([19 U.S.C. 2135][/us/usc/t19/s2135]).
 
->     “(c) __Further Negotiations To Remove Barriers.—__ 
+>     “(c)  __Further Negotiations To Remove Barriers__  __.—__ 
 
 >     If, as the result of his review under subsection (a), the President determines that foreign tariff or nontariff barriers are unduly burdening or restricting the United States exports of alcoholic beverages, he shall enter into negotiations under the Trade Act of 1974 \[this chapter\] to eliminate or reduce such barriers.”
 

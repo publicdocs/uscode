@@ -25,11 +25,11 @@
 
 [Pub. L. 107–210, div. A, title I, § 123(c)][/us/pl/107/210/s123/c], Aug. 6, 2002, [116 Stat. 944][/us/stat/116/944], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending sections 2275 and 2395 of this title and repealing this subpart and [section 2322 of this title][/us/usc/t19/s2322]\] shall apply with respect to petitions filed under chapter 2 of title II of the Trade Act of 1974 \[this part\], on or after the date that is 90 days after the date of enactment of this Act \[Aug. 6, 2002\].
 
->     “(2) __Workers certified as eligible before effective date.—__ 
+>     “(2)  __Workers certified as eligible before effective date__  __.—__ 
 
 >     Notwithstanding subsection (a), a worker receiving benefits under chapter 2 of title II of the Trade Act of 1974 shall continue to receive (or be eligible to receive) benefits and services under chapter 2 of title II of the Trade Act of 1974, as in effect on the day before the amendments made by this section take effect under subsection (a), for any week for which the worker meets the eligibility requirements of such chapter 2 as in effect on such date.”
 
