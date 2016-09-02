@@ -123,7 +123,9 @@
 
         (3) comply with the provisions of the administration of the recreational trails program under section 206, including the use of apportioned funds described under subsection (d)(3)(A) of that section.
 
-    (g) __State Flexibility.—A State may opt out of the recreational trails program under subsection (f) if the Governor of the State notifies the Secretary not later than 30 days prior to apportionments being made for any fiscal year.__ 
+    (g) __State Flexibility.—__ 
+
+    A State may opt out of the recreational trails program under subsection (f) if the Governor of the State notifies the Secretary not later than 30 days prior to apportionments being made for any fiscal year.
 
 (Added [Pub. L. 112–141, div. A, title I, § 1122(a)][/us/pl/112/141/s1122/a], July 6, 2012, [126 Stat. 494][/us/stat/126/494].)
 

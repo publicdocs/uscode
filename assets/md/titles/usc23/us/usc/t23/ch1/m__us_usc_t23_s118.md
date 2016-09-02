@@ -19,7 +19,9 @@
 
     Except as otherwise specifically provided, authorizations from the Highway Trust Fund (other than the Mass Transit Account) to carry out this title shall be available for obligation on the date of their apportionment or allocation or on October 1 of the fiscal year for which they are authorized, whichever occurs first.
 
-    (b) __Period of Availability.—Except as otherwise specifically provided, funds apportioned or allocated pursuant to this title in a State shall remain available for obligation in that State for a period of 3 years after the last day of the fiscal year for which the funds are authorized. Any amounts so apportioned or allocated that remain unobligated at the end of that period shall lapse.__ 
+    (b) __Period of Availability.—__ 
+
+    Except as otherwise specifically provided, funds apportioned or allocated pursuant to this title in a State shall remain available for obligation in that State for a period of 3 years after the last day of the fiscal year for which the funds are authorized. Any amounts so apportioned or allocated that remain unobligated at the end of that period shall lapse.
 
     (c) __Obligation and Release of Funds.—__ 
 
