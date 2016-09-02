@@ -67,7 +67,7 @@ SUBCHAPTER I—CONTROL OF TOXIC SUBSTANCES  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2605" data-uslm-ref="/us/usc/t15/s2605">2605.</a>  </td>
 
-    <td> Regulation of hazardous chemical substances and mixtures.  </td>
+    <td> Prioritization, risk evaluation, and regulation of chemical substances and mixtures.  </td>
 
   </tr>
 
@@ -99,7 +99,7 @@ SUBCHAPTER I—CONTROL OF TOXIC SUBSTANCES  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs2609" data-uslm-ref="/us/usc/t15/s2609">2609.</a>  </td>
 
-    <td> Research, development, collection, dissemination, and utilization of data.  </td>
+    <td> Research, development, collection, dissemination, and utilization of information.  </td>
 
   </tr>
 

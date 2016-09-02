@@ -37,7 +37,7 @@
 
         (3) When the primary contact person managing the loan application has changed.
 
-    (c)  __Report on web portal for disaster loan application status__ 
+    (c) __Report on web portal for disaster loan application status__ 
 
         (1) __In general__ 
 

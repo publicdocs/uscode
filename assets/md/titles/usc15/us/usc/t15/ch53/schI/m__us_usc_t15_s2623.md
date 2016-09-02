@@ -43,17 +43,19 @@
 
              If public hearings are to be held on any matter involved in an investigation conducted under this subsection—
 
-                (i) at least five days’ notice shall be provided the person making the request for the investigation and any person identified in such request,
+                (i) at least five days’ notice shall be provided the person making the request for the investigation and any person identified in such request, and
 
-                (ii) such hearings shall be held in accordance with [section 2605(c)(3) of this title][/us/usc/t15/s2605/c/3], and
-
-                (iii) each employee who made or for whom was made a request for such hearings and the employer of such employee shall be required to present information respecting the applicable matter referred to in paragraph (1)(A) or (1)(B) together with the basis for such information.
+                (ii) each employee who made or for whom was made a request for such hearings and the employer of such employee shall be required to present information respecting the applicable matter referred to in paragraph (1)(A) or (1)(B) together with the basis for such information.
 
         (3) Upon completion of an investigation under paragraph (2), the Administrator shall make findings of fact, shall make such recommendations as the Administrator deems appropriate, and shall make available to the public such findings and recommendations.
 
         (4) This section shall not be construed to require the Administrator to amend or repeal any rule or order in effect under this chapter.
 
-([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 24, Oct. 11, 1976, [90 Stat. 2045][/us/stat/90/2045]; renumbered title I, [Pub. L. 99–519][/us/pl/99/519], § 3(c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989].)
+([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 24, Oct. 11, 1976, [90 Stat. 2045][/us/stat/90/2045]; renumbered title I, [Pub. L. 99–519][/us/pl/99/519], § 3(c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; amended [Pub. L. 114–182, title I][/us/pl/114/182/tI], § 19(p), June 22, 2016, [130 Stat. 510][/us/stat/130/510].)
+
+ __Amendments__ 
+
+    2016—Subsec. (b)(2)(B). [Pub. L. 114–182][/us/pl/114/182] inserted “and” at end of cl. (i), redesignated cl. (iii) as (ii), and struck out former cl. (ii) which read as follows: “such hearings shall be held in accordance with [section 2605(c)(3) of this title][/us/usc/t15/s2605/c/3], and”.
 
 ----------
 
@@ -62,10 +64,13 @@
 ----------
 ----------
 
-[/us/usc/t15/s2605/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2605%2Fc%2F3
 [/us/pl/94/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtI
 [/us/stat/90/2045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2045
 [/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2989
+[/us/pl/114/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182%2FtI
+[/us/stat/130/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F510
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/usc/t15/s2605/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2605%2Fc%2F3
 
 

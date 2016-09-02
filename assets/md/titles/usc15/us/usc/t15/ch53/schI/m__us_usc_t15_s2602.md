@@ -49,19 +49,25 @@
 
     (3) The term “commerce” means trade, traffic, transportation, or other commerce (A) between a place in a State and any place outside of such State, or (B) which affects trade, traffic, transportation, or commerce described in clause (A).
 
-    (4) The terms “distribute in commerce” and “distribution in commerce” when used to describe an action taken with respect to a chemical substance or mixture or article containing a substance or mixture mean to sell, or the sale of, the substance, mixture, or article in commerce; to introduce or deliver for introduction into commerce, or the introduction or delivery for introduction into commerce of, the substance, mixture, or article; or to hold, or the holding of, the substance, mixture, or article after its introduction into commerce.
+    (4) The term “conditions of use” means the circumstances, as determined by the Administrator, under which a chemical substance is intended, known, or reasonably foreseen to be manufactured, processed, distributed in commerce, used, or disposed of.
 
-    (5) The term “environment” includes water, air, and land and the interrelationship which exists among and between water, air, and land and all living things.
+    (5) The terms “distribute in commerce” and “distribution in commerce” when used to describe an action taken with respect to a chemical substance or mixture or article containing a substance or mixture mean to sell, or the sale of, the substance, mixture, or article in commerce; to introduce or deliver for introduction into commerce, or the introduction or delivery for introduction into commerce of, the substance, mixture, or article; or to hold, or the holding of, the substance, mixture, or article after its introduction into commerce.
 
-    (6) The term “health and safety study” means any study of any effect of a chemical substance or mixture on health or the environment or on both, including underlying data and epidemiological studies, studies of occupational exposure to a chemical substance or mixture, toxicological, clinical, and ecological studies of a chemical substance or mixture, and any test performed pursuant to this chapter.
+    (6) The term “environment” includes water, air, and land and the interrelationship which exists among and between water, air, and land and all living things.
 
-    (7) The term “manufacture” means to import into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), produce, or manufacture.
+    (7) The term “guidance” means any significant written guidance of general applicability prepared by the Administrator.
 
-    (8) The term “mixture” means any combination of two or more chemical substances if the combination does not occur in nature and is not, in whole or in part, the result of a chemical reaction; except that such term does include any combination which occurs, in whole or in part, as a result of a chemical reaction if none of the chemical substances comprising the combination is a new chemical substance and if the combination could have been manufactured for commercial purposes without a chemical reaction at the time the chemical substances comprising the combination were combined.
+    (8) The term “health and safety study” means any study of any effect of a chemical substance or mixture on health or the environment or on both, including underlying information and epidemiological studies, studies of occupational exposure to a chemical substance or mixture, toxicological, clinical, and ecological studies of a chemical substance or mixture, and any test performed pursuant to this chapter.
 
-    (9) The term “new chemical substance” means any chemical substance which is not included in the chemical substance list compiled and published under [section 2607(b) of this title][/us/usc/t15/s2607/b].
+    (9) The term “manufacture” means to import into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), produce, or manufacture.
 
-    (10)
+    (10) The term “mixture” means any combination of two or more chemical substances if the combination does not occur in nature and is not, in whole or in part, the result of a chemical reaction; except that such term does include any combination which occurs, in whole or in part, as a result of a chemical reaction if none of the chemical substances comprising the combination is a new chemical substance and if the combination could have been manufactured for commercial purposes without a chemical reaction at the time the chemical substances comprising the combination were combined.
+
+    (11) The term “new chemical substance” means any chemical substance which is not included in the chemical substance list compiled and published under [section 2607(b) of this title][/us/usc/t15/s2607/b].
+
+    (12) The term “potentially exposed or susceptible subpopulation” means a group of individuals within the general population identified by the Administrator who, due to either greater susceptibility or greater exposure, may be at greater risk than the general population of adverse health effects from exposure to a chemical substance or mixture, such as infants, children, pregnant women, workers, or the elderly.
+
+    (13)
 
      The term “process” means the preparation of a chemical substance or mixture, after its manufacture, for distribution in commerce—
 
@@ -69,11 +75,11 @@
 
         (B) as part of an article containing the chemical substance or mixture.
 
-    (11) The term “processor” means any person who processes a chemical substance or mixture.
+    (14) The term “processor” means any person who processes a chemical substance or mixture.
 
-    (12)
+    (15)
 
-     The term “standards for the development of test data” means a prescription of—
+     The term “protocols and methodologies for the development of information” means a prescription of—
 
         (A)
 
@@ -83,23 +89,23 @@
 
             (ii) information relating to toxicity, persistence, and other characteristics which affect health and the environment,
 
-            for which test data for a chemical substance or mixture are to be developed and any analysis that is to be performed on such data, and
+            for which information for a chemical substance or mixture are to be developed and any analysis that is to be performed on such information, and
 
         (B)
 
-         to the extent necessary to assure that data respecting such effects and characteristics are reliable and adequate—
+         to the extent necessary to assure that information respecting such effects and characteristics are reliable and adequate—
 
-            (i) the manner in which such data are to be developed,
+            (i) the manner in which such information are  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “is”. </sup></sup>  to be developed,
 
-            (ii) the specification of any test protocol or methodology to be employed in the development of such data, and
+            (ii) the specification of any test protocol or methodology to be employed in the development of such information, and
 
             (iii) such other requirements as are necessary to provide such assurance.
 
-    (13) The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Canal Zone, American Samoa, the Northern Mariana Islands, or any other territory or possession of the United States.
+    (16) The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Canal Zone, American Samoa, the Northern Mariana Islands, or any other territory or possession of the United States.
 
-    (14) The term “United States”, when used in the geographic sense, means all of the States.
+    (17) The term “United States”, when used in the geographic sense, means all of the States.
 
-([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 3, Oct. 11, 1976, [90 Stat. 2004][/us/stat/90/2004]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; renumbered title I, [Pub. L. 99–519][/us/pl/99/519], § 3(c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1214(e)(1), Aug. 23, 1988, [102 Stat. 1156][/us/stat/102/1156]; [Pub. L. 114–92, div. A, title III][/us/pl/114/92/dA/tIII], § 315, Nov. 25, 2015, [129 Stat. 791][/us/stat/129/791].)
+([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 3, Oct. 11, 1976, [90 Stat. 2004][/us/stat/90/2004]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; renumbered title I, [Pub. L. 99–519][/us/pl/99/519], § 3(c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1214(e)(1), Aug. 23, 1988, [102 Stat. 1156][/us/stat/102/1156]; [Pub. L. 114–92, div. A, title III][/us/pl/114/92/dA/tIII], § 315, Nov. 25, 2015, [129 Stat. 791][/us/stat/129/791]; [Pub. L. 114–182, title I][/us/pl/114/182/tI], §§ 3, 19(c), June 22, 2016, [130 Stat. 448][/us/stat/130/448], 505.)
 
  __References in Text__ 
 
@@ -107,11 +113,31 @@
 
     The Atomic Energy Act of 1954, referred to in par. (2)(B)(iv), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], and amended, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42][/us/usc/t42/s2011] and Tables.
 
-    The Harmonized Tariff Schedule of the United States, referred to in par. (7), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of Title 19][/us/usc/t19/s1202], Customs Duties.
+    The Harmonized Tariff Schedule of the United States, referred to in par. (9), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of Title 19][/us/usc/t19/s1202], Customs Duties.
 
-    For definition of Canal Zone, Governor of the Canal Zone, and Panama Canal Company, referred to in par. (13), see [section 3602(b) of Title 22][/us/usc/t22/s3602/b], Foreign Relations and Intercourse.
+    For definition of Canal Zone, Governor of the Canal Zone, and Panama Canal Company, referred to in par. (16), see [section 3602(b) of Title 22][/us/usc/t22/s3602/b], Foreign Relations and Intercourse.
 
  __Amendments__ 
+
+    2016—Pars. (4) to (7). [Pub. L. 114–182][/us/pl/114/182], § 3(1)–(3), added pars. (4) and (7) and redesignated former pars. (4) and (5) as (5) and (6), respectively. Former pars. (6) and (7) redesignated (8) and (9), respectively.
+
+    Par. (8). [Pub. L. 114–182][/us/pl/114/182], § 19(c)(1), substituted “information” for “data”.
+
+    [Pub. L. 114–182][/us/pl/114/182], § 3(1), redesignated par. (6) as (8). Former par. (8) redesignated (10).
+
+    Pars. (9) to (14). [Pub. L. 114–182][/us/pl/114/182], § 3(1), (4), added par. (12) and redesignated former pars. (7) to (11) as (9), (10), (11), (13), and (14), respectively. Former pars. (12) to (14) redesignated (15) to (17), respectively.
+
+    Par. (15). [Pub. L. 114–182][/us/pl/114/182], § 19(c)(2)(A), (B), in introductory provisions, substituted “protocols and methodologies for the development of information” for “standards for the development of test data”.
+
+    [Pub. L. 114–182][/us/pl/114/182], § 3(1), redesignated par. (12) as (15).
+
+    Par. (15)(A). [Pub. L. 114–182][/us/pl/114/182], § 19(c)(2)(C), substituted “on such information” for “on such data” in concluding provisions.
+
+    [Pub. L. 114–182][/us/pl/114/182], § 19(c)(2)(B), substituted “for which information” for “for which test data” in concluding provisions.
+
+    Par. (15)(B). [Pub. L. 114–182][/us/pl/114/182], § 19(c)(2)(C), substituted “information” for “data” wherever appearing.
+
+    Pars. (16), (17). [Pub. L. 114–182][/us/pl/114/182], § 3(1), redesignated pars. (13) and (14) as (16) and (17), respectively.
 
     2015—Par. (2)(B)(v). [Pub. L. 114–92][/us/pl/114/92] substituted “and any component of such an article (limited to shot shells, cartridges, and components of shot shells and cartridges), and” for “, and”.
 
@@ -148,6 +174,8 @@
 [/us/stat/102/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1156
 [/us/pl/114/92/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtIII
 [/us/stat/129/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F791
+[/us/pl/114/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182%2FtI
+[/us/stat/130/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F448
 [/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
 [/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
 [/us/stat/86/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F973
@@ -158,6 +186,16 @@
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

@@ -41,7 +41,7 @@
 
     Provisions similar to this section were contained in [section 6752 of this title][/us/usc/t15/s6752], prior to the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1].
 
-    A prior section 6751, [Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 321, Nov. 12, 1999, [113 Stat. 1422][/us/stat/113/1422], related to state flexibility in multistate licensing reforms, prior to the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1].
+    A prior section 6751, [Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 321, Nov. 12, 1999, [113 Stat. 1422][/us/stat/113/1422], related to State flexibility in multistate licensing reforms, prior to the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1].
 
 ----------
 

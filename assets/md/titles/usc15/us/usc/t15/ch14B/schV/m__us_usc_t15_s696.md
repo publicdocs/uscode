@@ -291,7 +291,7 @@
 
     Amendment by [Pub. L. 97–35][/us/pl/97/35] effective Oct. 1, 1981, see [section 1918 of Pub. L. 97–35][/us/pl/97/35/s1918], set out as a note under [section 631 of this title][/us/usc/t15/s631].
 
- __Refinancing not Involving Expansions__ 
+ __Refinancing Not Involving Expansions__ 
 
 [Pub. L. 114–113, div. E, title V][/us/pl/114/113/dE/tV], § 521(a), Dec. 18, 2015, [129 Stat. 2463][/us/stat/129/2463], provided that: 
 

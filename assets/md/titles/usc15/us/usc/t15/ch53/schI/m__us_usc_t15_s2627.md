@@ -39,17 +39,15 @@
 
         (2) The Administrator may approve an application submitted in accordance with paragraph (1) only if the applicant has established to the satisfaction of the Administrator a priority need, as determined under rules of the Administrator, for the grant for which the application has been submitted. Such rules shall take into consideration the seriousness of the health effects in a State which are associated with chemical substances or mixtures, including cancer, birth defects, and gene mutations, the extent of the exposure in a State of human beings and the environment to chemical substances and mixtures, and the extent to which chemical substances and mixtures are manufactured, processed, used, and disposed of in a State.
 
-    (c) __Annual reports__ 
-
-        Not later than six months after the end of each of the fiscal years 1979, 1980, and 1981, the Administrator shall submit to the Congress a report respecting the programs assisted by grants under subsection (a) in the preceding fiscal year and the extent to which the Administrator has disseminated information respecting such programs.
-
-    (d) __Authorization__ 
-
-        For the purpose of making grants under subsection (a), there are authorized to be appropriated $1,500,000 for each of the fiscal years 1982 and 1983. Sums appropriated under this subsection shall remain available until expended.
-
-([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 28, Oct. 11, 1976, [90 Stat. 2049][/us/stat/90/2049]; [Pub. L. 97–129][/us/pl/97/129], § 1(a), Dec. 29, 1981, [95 Stat. 1686][/us/stat/95/1686]; renumbered title I, [Pub. L. 99–519][/us/pl/99/519], § 3(c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989].)
+([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 28, Oct. 11, 1976, [90 Stat. 2049][/us/stat/90/2049]; [Pub. L. 97–129][/us/pl/97/129], § 1(a), Dec. 29, 1981, [95 Stat. 1686][/us/stat/95/1686]; renumbered title I, [Pub. L. 99–519][/us/pl/99/519], § 3(c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; amended [Pub. L. 114–182, title I][/us/pl/114/182/tI], § 18, June 22, 2016, [130 Stat. 505][/us/stat/130/505].)
 
  __Amendments__ 
+
+    2016—Subsecs. (c), (d). [Pub. L. 114–182][/us/pl/114/182] struck out subsecs. (c) and (d). Text read as follows:
+
+    “(c) Not later than six months after the end of each of the fiscal years 1979, 1980, and 1981, the Administrator shall submit to the Congress a report respecting the programs assisted by grants under subsection (a) in the preceding fiscal year and the extent to which the Administrator has disseminated information respecting such programs.
+
+    “(d) For the purpose of making grants under subsection (a), there are authorized to be appropriated $1,500,000 for each of the fiscal years 1982 and 1983. Sums appropriated under this subsection shall remain available until expended.”
 
     1981—Subsec. (d). [Pub. L. 97–129][/us/pl/97/129] substituted provisions relating to authorization of appropriations of $1,500,000 for each of the fiscal years 1982 and 1983 for provisions relating to such authorization for fiscal years ending Sept. 30, 1977, Sept. 30, 1978, and Sept. 30, 1979.
 
@@ -66,6 +64,9 @@
 [/us/stat/95/1686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1686
 [/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2989
+[/us/pl/114/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182%2FtI
+[/us/stat/130/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F505
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
 [/us/pl/97/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F129
 
 

@@ -17,7 +17,7 @@
 
     (a) __Civil__ 
 
-        (1) Any person who violates a provision of section 2614 or 2689 of this title shall be liable to the United States for a civil penalty in an amount not to exceed $25,000 for each such violation. Each day such a violation continues shall, for purposes of this subsection, constitute a separate violation of section 2614 or 2689 of this title.
+        (1) Any person who violates a provision of section 2614 or 2689 of this title shall be liable to the United States for a civil penalty in an amount not to exceed $37,500 for each such violation. Each day such a violation continues shall, for purposes of this subsection, constitute a separate violation of section 2614 or 2689 of this title.
 
         (2)
 
@@ -41,11 +41,31 @@
 
     (b) __Criminal__ 
 
-        Any person who knowingly or willfully violates any provision of section 2614 or 2689 of this title, shall, in addition to or in lieu of any civil penalty which may be imposed under subsection (a) of this section for such violation, be subject, upon conviction, to a fine of not more than $25,000 for each day of violation, or to imprisonment for not more than one year, or both.
+        (1) __In general__ 
 
-([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 16, Oct. 11, 1976, [90 Stat. 2037][/us/stat/90/2037]; renumbered title I, [Pub. L. 99–519][/us/pl/99/519], § 3(c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; amended [Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1021(b)(5), Oct. 28, 1992, [106 Stat. 3923][/us/stat/106/3923].)
+            Any person who knowingly or willfully violates any provision of section 2614 or 2689 of this title, shall, in addition to or in lieu of any civil penalty which may be imposed under subsection (a) of this section for such violation, be subject, upon conviction, to a fine of not more than $50,000 for each day of violation, or to imprisonment for not more than one year, or both.
+
+        (2) __Imminent danger of death or serious bodily injury__ 
+
+            (A) __In general__ 
+
+                Any person who knowingly and willfully violates any provision of section 2614 or 2689 of this title, and who knows at the time of the violation that the violation places an individual in imminent danger of death or serious bodily injury, shall be subject on conviction to a fine of not more than $250,000, or imprisonment for not more than 15 years, or both.
+
+            (B) __Organizations__ 
+
+                Notwithstanding the penalties described in subparagraph (A), an organization that commits a knowing violation described in subparagraph (A) shall be subject on conviction to a fine of not more than $1,000,000 for each violation.
+
+            (C) __Incorporation of corresponding provisions__ 
+
+                Subparagraphs (B) through (F) of [section 7413(c)(5) of title 42][/us/usc/t42/s7413/c/5] shall apply to the prosecution of a violation under this paragraph.
+
+([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 16, Oct. 11, 1976, [90 Stat. 2037][/us/stat/90/2037]; renumbered title I, [Pub. L. 99–519][/us/pl/99/519], § 3(c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; amended [Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1021(b)(5), Oct. 28, 1992, [106 Stat. 3923][/us/stat/106/3923]; [Pub. L. 114–182, title I][/us/pl/114/182/tI], § 12, June 22, 2016, [130 Stat. 492][/us/stat/130/492].)
 
  __Amendments__ 
+
+    2016—Subsec. (a)(1). [Pub. L. 114–182][/us/pl/114/182], § 12(1), substituted “$37,500” for “$25,000”.
+
+    Subsec. (b). [Pub. L. 114–182][/us/pl/114/182], § 12(2), designated existing provisions as par. (1), inserted heading, substituted “$50,000” for “$25,000”, and added par. (2).
 
     1992—Subsecs. (a)(1), (2)(A), (b). [Pub. L. 102–550][/us/pl/102/550] substituted “section 2614 or 2689 of this title” for “[section 2614 of this title][/us/usc/t15/s2614]” wherever appearing.
 
@@ -57,12 +77,17 @@
 ----------
 
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
+[/us/usc/t42/s7413/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413%2Fc%2F5
 [/us/pl/94/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtI
 [/us/stat/90/2037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2037
 [/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2989
 [/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3923
+[/us/pl/114/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182%2FtI
+[/us/stat/130/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F492
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t15/s2614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2614
 

@@ -17,11 +17,11 @@
 
     (a) __In general__ 
 
-        Any person may petition the Administrator to initiate a proceeding for the issuance, amendment, or repeal of a rule under section 2603, 2605, or 2607 of this title or an order under section 2604(e) or 2605(b)(2) of this title.
+        Any person may petition the Administrator to initiate a proceeding for the issuance, amendment, or repeal of a rule under section 2603, 2605, or 2607 of this title or an order under section 2603 or 2604(e) or (f) of this title.
 
     (b) __Procedures__ 
 
-        (1) Such petition shall be filed in the principal office of the Administrator and shall set forth the facts which it is claimed establish that it is necessary to issue, amend, or repeal a rule under section 2603, 2605, or 2607 of this title or an order under section 2604(e), 2605(b)(1)(A), or 2605(b)(1)(B) of this title.
+        (1) Such petition shall be filed in the principal office of the Administrator and shall set forth the facts which it is claimed establish that it is necessary to issue, amend, or repeal a rule under section 2603, 2605, or 2607 of this title or an order under section 2603 or 2604(e) or (f) of this title.
 
         (2) The Administrator may hold a public hearing or may conduct such investigation or proceeding as the Administrator deems appropriate in order to determine whether or not such petition should be granted.
 
@@ -33,17 +33,17 @@
 
             (B)
 
-             In an action under subparagraph (A) respecting a petition to initiate a proceeding to issue a rule under section 2603, 2605, or 2607 of this title or an order under section 2604(e) or 2605(b)(2) of this title, the petitioner shall be provided an opportunity to have such petition considered by the court in a de novo proceeding. If the petitioner demonstrates to the satisfaction of the court by a preponderance of the evidence that—
+             In an action under subparagraph (A) respecting a petition to initiate a proceeding to issue a rule under section 2603, 2605, or 2607 of this title or an order under section 2603 or 2604(e) or (f) of this title, the petitioner shall be provided an opportunity to have such petition considered by the court in a de novo proceeding. If the petitioner demonstrates to the satisfaction of the court by a preponderance of the evidence that—
 
                 (i)
 
-                 in the case of a petition to initiate a proceeding for the issuance of a rule under [section 2603 of this title][/us/usc/t15/s2603] or an order under [section 2604(e) of this title][/us/usc/t15/s2604/e]—
+                 in the case of a petition to initiate a proceeding for the issuance of a rule under [section 2603 of this title][/us/usc/t15/s2603] or an order under section 2603 or 2604(e) of this title—
 
                     (I) information available to the Administrator is insufficient to permit a reasoned evaluation of the health and environmental effects of the chemical substance to be subject to such rule or order; and
 
                     (II) in the absence of such information, the substance may present an unreasonable risk to health or the environment, or the substance is or will be produced in substantial quantities and it enters or may reasonably be anticipated to enter the environment in substantial quantities or there is or may be significant or substantial human exposure to it; or
 
-                (ii) in the case of a petition to initiate a proceeding for the issuance of a rule under section 2605 or 2607 of this title or an order under [section 2605(b)(2) of this title][/us/usc/t15/s2605/b/2], there is a reasonable basis to conclude that the issuance of such a rule or order is necessary to protect health or the environment against an unreasonable risk of injury to health or the environment. <sup>\[1\]</sup>  <sup><sup> 1 So in original. The period probably should be a semicolon. </sup></sup> 
+                (ii) in the case of a petition to initiate a proceeding for the issuance of a rule under section 2605(a) or 2607 of this title or an order under [section 2604(f) of this title][/us/usc/t15/s2604/f], the chemical substance or mixture to be subject to such rule or order presents an unreasonable risk of injury to health or the environment, without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed or susceptible subpopulation, under the conditions of use. <sup>\[1\]</sup>  <sup><sup> 1 So in original. The period probably should be a semicolon. </sup></sup> 
 
                 the court shall order the Administrator to initiate the action requested by the petitioner. If the court finds that the extent of the risk to health or the environment alleged by the petitioner is less than the extent of risks to health or the environment with respect to which the Administrator is taking action under this chapter and there are insufficient resources available to the Administrator to take the action requested by the petitioner, the court may permit the Administrator to defer initiating the action requested by the petitioner until such time as the court prescribes.
 
@@ -51,7 +51,19 @@
 
         (5) The remedies under this section shall be in addition to, and not in lieu of, other remedies provided by law.
 
-([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 21, Oct. 11, 1976, [90 Stat. 2042][/us/stat/90/2042]; renumbered title I, [Pub. L. 99–519][/us/pl/99/519], § 3(c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989].)
+([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 21, Oct. 11, 1976, [90 Stat. 2042][/us/stat/90/2042]; renumbered title I, [Pub. L. 99–519][/us/pl/99/519], § 3(c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; amended [Pub. L. 114–182, title I][/us/pl/114/182/tI], § 19(o), June 22, 2016, [130 Stat. 509][/us/stat/130/509].)
+
+ __Amendments__ 
+
+    2016—Subsec. (a). [Pub. L. 114–182][/us/pl/114/182], § 19(o)(1), substituted “order under section 2603 or 2604(e) or (f) of this title” for “order under section 2604(e) or 2605(b)(2) of this title”.
+
+    Subsec. (b)(1). [Pub. L. 114–182][/us/pl/114/182], § 19(o)(2)(A), substituted “order under section 2603 or 2604(e) or (f)” for “order under section 2604(e), 2605(b)(1)(A), or 2605(b)(1)(B) of this title”.
+
+    Subsec. (b)(4)(B). [Pub. L. 114–182][/us/pl/114/182], § 19(o)(2)(B)(i), substituted “order under section 2603 or 2604(e) or (f) of this title” for “order under section 2604(e) or 2605(b)(2) of this title” in introductory provisions.
+
+    Subsec. (b)(4)(B)(i). [Pub. L. 114–182][/us/pl/114/182], § 19(o)(2)(B)(ii), substituted “order under section 2603 or 2604(e) of this title” for “order under [section 2604(e) of this title][/us/usc/t15/s2604/e]” in introductory provisions.
+
+    Subsec. (b)(4)(B)(ii). [Pub. L. 114–182][/us/pl/114/182], § 19(o)(2)(B)(iii), substituted “section 2605(a) or 2607 of this title or an order under [section 2604(f) of this title][/us/usc/t15/s2604/f], the chemical substance or mixture to be subject to such rule or order presents an unreasonable risk of injury to health or the environment, without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed or susceptible subpopulation, under the conditions of use” for “section 2605 or 2607 of this title or an order under [section 2605(b)(2) of this title][/us/usc/t15/s2605/b/2], there is a reasonable basis to conclude that the issuance of such a rule or order is necessary to protect health or the environment against an unreasonable risk of injury to health or the environment”.
 
 ----------
 
@@ -61,11 +73,20 @@
 ----------
 
 [/us/usc/t15/s2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2603
-[/us/usc/t15/s2604/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2604%2Fe
-[/us/usc/t15/s2605/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2605%2Fb%2F2
+[/us/usc/t15/s2604/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2604%2Ff
 [/us/pl/94/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtI
 [/us/stat/90/2042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2042
 [/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2989
+[/us/pl/114/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182%2FtI
+[/us/stat/130/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F509
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/usc/t15/s2604/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2604%2Fe
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/usc/t15/s2604/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2604%2Ff
+[/us/usc/t15/s2605/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2605%2Fb%2F2
 
 

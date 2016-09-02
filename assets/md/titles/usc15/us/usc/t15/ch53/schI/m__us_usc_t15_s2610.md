@@ -27,25 +27,29 @@
 
          No inspection under subsection (a) shall extend to—
 
-            (A) financial data,
+            (A) financial information,
 
-            (B) sales data (other than shipment data),
+            (B) sales information (other than shipment information),
 
-            (C) pricing data,
+            (C) pricing information,
 
-            (D) personnel data, or
+            (D) personnel information, or
 
-            (E) research data (other than data required by this chapter or under a rule promulgated thereunder),
+            (E) research information (other than information required by this chapter or under a rule promulgated, order issued, or consent agreement entered into thereunder),
 
-            unless the nature and extent of such data are described with reasonable specificity in the written notice required by subsection (a) for such inspection.
+            unless the nature and extent of such information are described with reasonable specificity in the written notice required by subsection (a) for such inspection.
 
     (c) __Subpoenas__ 
 
         In carrying out this chapter, the Administrator may by subpoena require the attendance and testimony of witnesses and the production of reports, papers, documents, answers to questions, and other information that the Administrator deems necessary. Witnesses shall be paid the same fees and mileage that are paid witnesses in the courts of the United States. In the event of contumacy, failure, or refusal of any person to obey any such subpoena, any district court of the United States in which venue is proper shall have jurisdiction to order any such person to comply with such subpoena. Any failure to obey such an order of the court is punishable by the court as a contempt thereof.
 
-([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 11, Oct. 11, 1976, [90 Stat. 2032][/us/stat/90/2032]; renumbered title I, [Pub. L. 99–519][/us/pl/99/519], § 3(c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; amended [Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1021(b)(2), (3), Oct. 28, 1992, [106 Stat. 3923][/us/stat/106/3923].)
+([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 11, Oct. 11, 1976, [90 Stat. 2032][/us/stat/90/2032]; renumbered title I, [Pub. L. 99–519][/us/pl/99/519], § 3(c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; amended [Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1021(b)(2), (3), Oct. 28, 1992, [106 Stat. 3923][/us/stat/106/3923]; [Pub. L. 114–182, title I][/us/pl/114/182/tI], § 19(j), June 22, 2016, [130 Stat. 507][/us/stat/130/507].)
 
  __Amendments__ 
+
+    2016—Subsec. (b)(2). [Pub. L. 114–182][/us/pl/114/182], § 19(j)(1), substituted “information” for “data” wherever appearing.
+
+    Subsec. (b)(2)(E). [Pub. L. 114–182][/us/pl/114/182], § 19(j)(2), substituted “rule promulgated, order issued, or consent agreement entered into” for “rule promulgated”.
 
     1992—Subsec. (a). [Pub. L. 102–550][/us/pl/102/550], § 1021(b)(2), in first sentence, substituted “substances, mixtures, or products subject to subchapter IV” for “substances or mixtures” and inserted “such products,” before “or such articles”.
 
@@ -64,6 +68,10 @@
 [/us/stat/100/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2989
 [/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3923
+[/us/pl/114/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182%2FtI
+[/us/stat/130/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F507
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 

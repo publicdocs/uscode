@@ -27,13 +27,13 @@
 
             (C) for both such seizure and relief.
 
-            A civil action may be commenced under this paragraph notwithstanding the existence of a rule under [section 2603 of this title][/us/usc/t15/s2603], 2604 of this title, 2605 of this title, or subchapter IV or an order under [section 2604 of this title][/us/usc/t15/s2604] or subchapter IV, and notwithstanding the pendency of any administrative or judicial proceeding under any provision of this chapter.
+            A civil action may be commenced under this paragraph notwithstanding the existence of a determination under section 2604 or 2605 of this title, a rule under section 2603, 2604, or 2605 of this title or subchapter IV, an order under section 2603, 2604, or 2605 of this title or subchapter IV, or a consent agreement under [section 2603 of this title][/us/usc/t15/s2603], and notwithstanding the pendency of any administrative or judicial proceeding under any provision of this chapter.
 
-        (2) If the Administrator has not made a rule under [section 2605(a) of this title][/us/usc/t15/s2605/a] immediately effective (as authorized by [section 2605(d)(2)(A)(i) of this title][/us/usc/t15/s2605/d/2/A/i]) with respect to an imminently hazardous chemical substance or mixture, the Administrator shall commence in a district court of the United States with respect to such substance or mixture or article containing such substance or mixture a civil action described in subparagraph (A), (B), or (C) of paragraph (1).
+        (2) If the Administrator has not made a rule under [section 2605(a) of this title][/us/usc/t15/s2605/a] immediately effective (as authorized by [section 2605(d)(3)(A)(i) of this title][/us/usc/t15/s2605/d/3/A/i]) with respect to an imminently hazardous chemical substance or mixture, the Administrator shall commence in a district court of the United States with respect to such substance or mixture or article containing such substance or mixture a civil action described in subparagraph (A), (B), or (C) of paragraph (1).
 
     (b) __Relief authorized__ 
 
-        (1) The district court of the United States in which an action under subsection (a) is brought shall have jurisdiction to grant such temporary or permanent relief as may be necessary to protect health or the environment from the unreasonable risk associated with the chemical substance, mixture, or article involved in such action.
+        (1) The district court of the United States in which an action under subsection (a) is brought shall have jurisdiction to grant such temporary or permanent relief as may be necessary to protect health or the environment from the unreasonable risk (as identified by the Administrator without consideration of costs or other nonrisk factors) associated with the chemical substance, mixture, or article involved in such action.
 
         (2) In the case of an action under subsection (a) brought against a person who manufactures, processes, or distributes in commerce a chemical substance or mixture or an article containing a chemical substance or mixture, the relief authorized by paragraph (1) may include the issuance of a mandatory order requiring (A) in the case of purchasers of such substance, mixture, or article known to the defendant, notification to such purchasers of the risk associated with it; (B) public notice of such risk; (C) recall; (D) the replacement or repurchase of such substance, mixture, or article; or (E) any combination of the actions described in the preceding clauses.
 
@@ -61,11 +61,19 @@
 
     (f) __“Imminently hazardous chemical substance or mixture” defined__ 
 
-        For the purposes of subsection (a), the term “imminently hazardous chemical substance or mixture” means a chemical substance or mixture which presents an imminent and unreasonable risk of serious or widespread injury to health or the environment. Such a risk to health or the environment shall be considered imminent if it is shown that the manufacture, processing, distribution in commerce, use, or disposal of the chemical substance or mixture, or that any combination of such activities, is likely to result in such injury to health or the environment before a final rule under [section 2605 of this title][/us/usc/t15/s2605] can protect against such risk.
+        For the purposes of subsection (a), the term “imminently hazardous chemical substance or mixture” means a chemical substance or mixture which presents an imminent and unreasonable risk of serious or widespread injury to health or the environment, without consideration of costs or other nonrisk factors. Such a risk to health or the environment shall be considered imminent if it is shown that the manufacture, processing, distribution in commerce, use, or disposal of the chemical substance or mixture, or that any combination of such activities, is likely to result in such injury to health or the environment before a final rule under [section 2605 of this title][/us/usc/t15/s2605] can protect against such risk.
 
-([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 7, Oct. 11, 1976, [90 Stat. 2026][/us/stat/90/2026]; renumbered title I, [Pub. L. 99–519][/us/pl/99/519], § 3(c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; amended [Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1021(b)(1), Oct. 28, 1992, [106 Stat. 3923][/us/stat/106/3923].)
+([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 7, Oct. 11, 1976, [90 Stat. 2026][/us/stat/90/2026]; renumbered title I, [Pub. L. 99–519][/us/pl/99/519], § 3(c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; amended [Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1021(b)(1), Oct. 28, 1992, [106 Stat. 3923][/us/stat/106/3923]; [Pub. L. 114–182, title I][/us/pl/114/182/tI], §§ 7, 19(f), June 22, 2016, [130 Stat. 470][/us/stat/130/470], 507.)
 
  __Amendments__ 
+
+    2016—Subsec. (a)(1). [Pub. L. 114–182][/us/pl/114/182], § 19(f)(1), substituted “a determination under section 2604 or 2605 of this title, a rule under section 2603, 2604, or 2605 of this title or subchapter IV, an order under section 2603, 2604, or 2605 of this title or subchapter IV, or a consent agreement under [section 2603 of this title][/us/usc/t15/s2603]” for ““a rule under [section 2603 of this title][/us/usc/t15/s2603], 2604 of this title, 2605 of this title, or subchapter IV or an order under [section 2604 of this title][/us/usc/t15/s2604] or subchapter IV”.
+
+    Subsec. (a)(2). [Pub. L. 114–182][/us/pl/114/182], § 19(f)(2), substituted “section 2605(d)(3)(A)(i)” for “section 2605(d)(2)(A)(i)”.
+
+    Subsec. (b)(1). [Pub. L. 114–182][/us/pl/114/182], § 7(1), inserted “(as identified by the Administrator without consideration of costs or other nonrisk factors)” after “from the unreasonable risk”.
+
+    Subsec. (f). [Pub. L. 114–182][/us/pl/114/182], § 7(2), inserted “, without consideration of costs or other nonrisk factors” after “widespread injury to health or the environment”.
 
     1992—Subsec. (a)(1). [Pub. L. 102–550][/us/pl/102/550] substituted “[section 2603 of this title][/us/usc/t15/s2603], 2604 of this title, 2605 of this title, or subchapter IV” for “section 2603, 2604, or 2605 of this title” in last sentence.
 
@@ -79,9 +87,8 @@
 ----------
 
 [/us/usc/t15/s2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2603
-[/us/usc/t15/s2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2604
 [/us/usc/t15/s2605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2605%2Fa
-[/us/usc/t15/s2605/d/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2605%2Fd%2F2%2FA%2Fi
+[/us/usc/t15/s2605/d/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2605%2Fd%2F3%2FA%2Fi
 [/us/usc/t15/s2605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2605%2Fa
 [/us/usc/t15/s2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2605
 [/us/pl/94/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtI
@@ -90,6 +97,15 @@
 [/us/stat/100/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2989
 [/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3923
+[/us/pl/114/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182%2FtI
+[/us/stat/130/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F470
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/usc/t15/s2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2603
+[/us/usc/t15/s2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2603
+[/us/usc/t15/s2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2604
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t15/s2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2603
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550

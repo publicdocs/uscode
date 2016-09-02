@@ -19,7 +19,7 @@
 
     Except as provided in subsection (b), any person may commence a civil action—
 
-        (1) against any person (including (A) the United States, and (B) any other governmental instrumentality or agency to the extent permitted by the eleventh amendment to the Constitution) who is alleged to be in violation of this chapter or any rule promulgated under section 2603, 2604, or 2605 of this title, or subchapter II or IV, or order issued under [section 2604 of this title][/us/usc/t15/s2604] or subchapter II or IV to restrain such violation, or
+        (1) against any person (including (A) the United States, and (B) any other governmental instrumentality or agency to the extent permitted by the eleventh amendment to the Constitution) who is alleged to be in violation of this chapter or any rule promulgated under section 2603, 2604, or 2605 of this title, or subchapter II or IV, or order issued under section 2603 or 2604 of this title or subchapter II or IV to restrain such violation, or
 
         (2) against the Administrator to compel the Administrator to perform any act or duty under this chapter which is not discretionary.
 
@@ -35,9 +35,11 @@
 
             (A) before the expiration of 60 days after the plaintiff has given notice of such violation (i) to the Administrator, and (ii) to the person who is alleged to have committed such violation, or
 
-            (B) if the Administrator has commenced and is diligently prosecuting a proceeding for the issuance of an order under [section 2615(a)(2) of this title][/us/usc/t15/s2615/a/2] to require compliance with this chapter or with such rule or order or if the Attorney General has commenced and is diligently prosecuting a civil action in a court of the United States to require compliance with this chapter or with such rule or order, but if such proceeding or civil action is commenced after the giving of notice, any person giving such notice may intervene as a matter of right in such proceeding or action; or
+            (B) if the Administrator has commenced and is diligently prosecuting a proceeding for the issuance of an order under [section 2615(a)(2) of this title][/us/usc/t15/s2615/a/2] to require compliance with this chapter or with such rule or order or if the Attorney General has commenced and is diligently prosecuting a civil action in a court of the United States to require compliance with this chapter or with such rule or order, but if such proceeding or civil action is commenced after the giving of notice, any person giving such notice may intervene as a matter of right in such proceeding or action;
 
-        (2) under subsection (a)(2) before the expiration of 60 days after the plaintiff has given notice to the Administrator of the alleged failure of the Administrator to perform an act or duty which is the basis for such action or, in the case of an action under such subsection for the failure of the Administrator to file an action under [section 2606 of this title][/us/usc/t15/s2606], before the expiration of ten days after such notification.
+        (2) under subsection (a)(2) before the expiration of 60 days after the plaintiff has given notice to the Administrator of the alleged failure of the Administrator to perform an act or duty which is the basis for such action or, in the case of an action under such subsection for the failure of the Administrator to file an action under [section 2606 of this title][/us/usc/t15/s2606], before the expiration of ten days after such notification, except that no prior notification shall be required in the case of a civil action brought to compel a decision by the Administrator pursuant to [section 2617(f)(3)(B) of this title][/us/usc/t15/s2617/f/3/B]; or
+
+        (3) in the case of a civil action brought to compel a decision by the Administrator pursuant to [section 2617(f)(3)(B) of this title][/us/usc/t15/s2617/f/3/B], after the date that is 60 days after the deadline specified in [section 2617(f)(3)(B) of this title][/us/usc/t15/s2617/f/3/B].
 
         Notice under this subsection shall be given in such manner as the Administrator shall prescribe by rule.
 
@@ -61,9 +63,13 @@
 
         The court issuing such an order shall give prompt notification of the order to the other courts in which the civil actions consolidated under the order are pending.
 
-([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 20, Oct. 11, 1976, [90 Stat. 2041][/us/stat/90/2041]; renumbered title I and amended [Pub. L. 99–519][/us/pl/99/519], § 3(b)(3), (c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; [Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1021(b)(9), Oct. 28, 1992, [106 Stat. 3923][/us/stat/106/3923].)
+([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 20, Oct. 11, 1976, [90 Stat. 2041][/us/stat/90/2041]; renumbered title I and amended [Pub. L. 99–519][/us/pl/99/519], § 3(b)(3), (c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; [Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1021(b)(9), Oct. 28, 1992, [106 Stat. 3923][/us/stat/106/3923]; [Pub. L. 114–182, title I][/us/pl/114/182/tI], §§ 15, 19(n), June 22, 2016, [130 Stat. 498][/us/stat/130/498], 509.)
 
  __Amendments__ 
+
+    Subsec. (a)(1). [Pub. L. 114–182][/us/pl/114/182], § 19(n), “order issued under section 2603 or 2604 of this title” for “order issued under [section 2604 of this title][/us/usc/t15/s2604]”.
+
+    Subsec. (b)(2), (3). [Pub. L. 114–182][/us/pl/114/182], § 15, substituted “, except that no prior notification shall be required in the case of a civil action brought to compel a decision by the Administrator pursuant to [section 2617(f)(3)(B) of this title][/us/usc/t15/s2617/f/3/B]; or” for period at end of par. (2) and added par. (3).
 
     1992—Subsec. (a)(1). [Pub. L. 102–550][/us/pl/102/550] substituted “subchapter II or IV” for “subchapter II” in two places.
 
@@ -76,15 +82,23 @@
 ----------
 ----------
 
-[/us/usc/t15/s2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2604
 [/us/usc/t15/s2615/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2615%2Fa%2F2
 [/us/usc/t15/s2606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2606
+[/us/usc/t15/s2617/f/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2617%2Ff%2F3%2FB
+[/us/usc/t15/s2617/f/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2617%2Ff%2F3%2FB
+[/us/usc/t15/s2617/f/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2617%2Ff%2F3%2FB
 [/us/pl/94/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtI
 [/us/stat/90/2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2041
 [/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2989
 [/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3923
+[/us/pl/114/182/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182%2FtI
+[/us/stat/130/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F498
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/usc/t15/s2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2604
+[/us/pl/114/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F182
+[/us/usc/t15/s2617/f/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2617%2Ff%2F3%2FB
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 

@@ -381,7 +381,7 @@
 
                 (iii) a description of the type of funding agreement under which the research, development, or production was obtained; and
 
-            (D) to implement subsection (v), including establishing standardized procedures for the provision of information pursuant to subsection (k)(3)
+            (D) to implement subsection (v), including establishing standardized procedures for the provision of information pursuant to subsection (k)(3).
 
     (k) __Database__ 
 
