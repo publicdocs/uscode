@@ -265,11 +265,11 @@ June 25, 1938, ch. 688, 52 Stat. 1173.  </td>
 
 [Pub. L. 99–661, div. A, title VI, § 654][/us/pl/99/661/s654], Nov. 14, 1986, [100 Stat. 3890][/us/stat/100/3890], provided that:
 
->     “(a) __Civil Service Retirement Credit.—__ 
+>     “(a)  __Civil Service Retirement Credit__  __.—__ 
 
 >     A period of service performed under [section 709 of title 32][/us/usc/t32/s709], United States Code (or under a prior corresponding provision of law), before January 1, 1969, which would not otherwise be creditable under subchapter III of chapter 83 of title 5, United States Code, because of the antepenultimate sentence of section 8332(b) of such title, shall be considered creditable service under such subchapter, notwithstanding such sentence, in the case of an individual described in subsection (b).
 
->     “(b) __Covered Individuals.—__ 
+>     “(b)  __Covered Individuals__  __.—__ 
 
 >     Subsection (a) applies in the case of an individual who—
 
@@ -279,7 +279,7 @@ June 25, 1938, ch. 688, 52 Stat. 1173.  </td>
 
 >         “(3) before the date of the separation on which entitlement to an annuity under subchapter III of chapter 83 of title 5, United States Code, is based, makes an appropriate deposit under section 8334(c) of such title with respect to the period of service involved, based on the percentage of basic pay for such service which would be required under such section if such service had been performed as an employee under such subchapter.
 
->     “(c) __Regulations.—__ 
+>     “(c)  __Regulations__  __.—__ 
 
 >     The Office of Personnel Management shall prescribe regulations to carry out subsection (a). Such regulations shall be prescribed not later than 60 days after the date of the enactment of this Act \[Nov. 14, 1986\].”
 

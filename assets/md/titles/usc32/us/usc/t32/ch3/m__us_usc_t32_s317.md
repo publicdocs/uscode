@@ -69,15 +69,15 @@ June 3, 1916, ch. 134, § 95, 39 Stat. 207.  </td>
 
 [Pub. L. 112–81, div. A, title V, § 515(c)][/us/pl/112/81/s515/c], Dec. 31, 2011, [125 Stat. 1395][/us/stat/125/1395], provided that:
 
->     “(1) __Dual-status commander.—__ 
+>     “(1)  __Dual-status commander__  __.—__ 
 
 >     When the Armed Forces and the National Guard are employed simultaneously in support of civil authorities in the United States, appointment of a commissioned officer as a dual-status commander serving on active duty and duty in, or with, the National Guard of a State under sections 315 or 325 of title 32, United States Code, as commander of Federal forces by Federal authorities and as commander of State National Guard forces by State authorities, should be the usual and customary command and control arrangement, including for missions involving a major disaster or emergency as those terms are defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5122][/us/usc/t42/s5122]). The chain of command for the Armed Forces shall remain in accordance with sections 162(b) and 164(c) of title 10, United States Code.
 
->     “(2) __State authorities supported.—__ 
+>     “(2)  __State authorities supported__  __.—__ 
 
 >     When a major disaster or emergency occurs in any area subject to the laws of any State, Territory, or the District of Columbia, the Governor of the State affected normally should be the principal civil authority supported by the primary Federal agency and its supporting Federal entities, and the Adjutant General of the State or his or her subordinate designee normally should be the principal military authority supported by the dual-status commander when acting in his or her State capacity.
 
->     “(3) __Rule of construction.—__ 
+>     “(3)  __Rule of construction__  __.—__ 
 
 >     Nothing in paragraphs (1) or (2) shall be construed to preclude or limit, in any way, the authorities of the President, the Secretary of Defense, or the Governor of any State to direct, control, and prescribe command and control arrangements for forces under their command.”
 

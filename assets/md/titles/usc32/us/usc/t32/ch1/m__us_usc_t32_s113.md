@@ -15,11 +15,11 @@
 
 ## § 113. Federal financial assistance for support of additional duties assigned to the Army National Guard
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of the Army may provide financial assistance to a State to support activities carried out by the Army National Guard of the State in the performance of duties that the Secretary has assigned, with the consent of the Chief of the National Guard Bureau, to the Army National Guard of the State. The Secretary shall determine the amount of the assistance that is appropriate for the purpose.
 
-    (b) __Covered Activities.—__ 
+    (b)  __Covered Activities__  __.—__ 
 
         (1)
 
@@ -31,11 +31,11 @@
 
         (2) Paragraph (1)(B) does not apply to an activity that, on October 17, 1998, was performed for the Federal Government by employees of the Federal Government or employees of a State.
 
-    (c) __Disbursement Through National Guard Bureau.—__ 
+    (c)  __Disbursement Through National Guard Bureau__  __.—__ 
 
     The Secretary of the Army shall disburse any contribution under this section through the Chief of the National Guard Bureau.
 
-    (d) __Availability of Funds.—__ 
+    (d)  __Availability of Funds__  __.—__ 
 
     Funds appropriated for the Army for a fiscal year are available for providing financial assistance under this section in support of activities carried out by the Army National Guard during that fiscal year.
 

@@ -195,11 +195,11 @@ Aug. 10, 1956, ch. 1041, § 30, 70A Stat. 632.  </td>
 
 [Pub. L. 112–239, div. A, title XII, § 1204][/us/pl/112/239/s1204], Jan. 2, 2013, [126 Stat. 1982][/us/stat/126/1982], provided that:
 
->     “(a) __Limitation.—__ 
+>     “(a)  __Limitation__  __.—__ 
 
 >     If both requirements specified in subsection (b) are not met as of February 28, 2013, no activities may be carried out under the State Partnership Program after that date until both requirements are met.
 
->     “(b) __Requirements.—__ 
+>     “(b)  __Requirements__  __.—__ 
 
 >     The requirements specified in this subsection are the following:
 
@@ -207,7 +207,7 @@ Aug. 10, 1956, ch. 1041, § 30, 70A Stat. 632.  </td>
 
 >         “(2) A requirement for the Secretary of Defense to certify to the appropriate congressional committees that appropriate modifications have been made, and appropriate controls have been instituted, to ensure the compliance of the Program with [section 1341 of title 31][/us/usc/t31/s1341], United States Code (commonly referred to as the ‘Anti-Deficiency Act’), in the future.
 
->     “(c) __Appropriate Congressional Committees Defined.—__ 
+>     “(c)  __Appropriate Congressional Committees Defined__  __.—__ 
 
 >     In this section, the term ‘appropriate congressional committees’ has the meaning given that term in subsection (d) of section 1210 of the National Defense Authorization Act for Fiscal Year 2010.”
 
@@ -215,25 +215,25 @@ Aug. 10, 1956, ch. 1041, § 30, 70A Stat. 632.  </td>
 
 [Pub. L. 111–84, div. A, title XII, § 1210][/us/pl/111/84/s1210], Oct. 28, 2009, [123 Stat. 2517][/us/stat/123/2517], provided that:
 
->     “(a) __Regulations Required.—__ 
+>     “(a)  __Regulations Required__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense, in consultation with \[the\] Secretary of State, shall prescribe regulations regarding the use of funds appropriated to the Department of Defense to pay the costs incurred by the National Guard in conducting activities under the State Partnership Program. The Secretary of Defense shall transmit to the appropriate congressional committees a copy of the regulations not later than 15 days after the date on which the regulations are prescribed under this subsection.
 
 >     “(b) __Limitations.—__ 
 
->         “(1) __Approval by commander of combatant command and chief of mission.—__ 
+>         “(1)  __Approval by commander of combatant command and chief of mission__  __.—__ 
 
 >         Funds shall not be available under subsection (a) for activities conducted under the State Partnership Program in a foreign country unless such activities are jointly approved by the commander of the combatant command concerned and the chief of mission concerned.
 
->         “(2) __Participation by members.—__ 
+>         “(2)  __Participation by members__  __.—__ 
 
 >         Funds shall not be available under subsection (a) for the participation of a member of the National Guard in activities conducted under the State Partnership Program in a foreign country unless the member is on active duty in the Armed Forces at the time of such participation.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act, and not later than the end of each of the fiscal years 2010 through 2013, the Secretary of Defense shall submit to the appropriate congressional committees a report describing the civilian engagement activities conducted under the State Partnership Program, including a detailed description of the activities undertaken and funds expended in the previous fiscal year under the State Partnership Program.
 
->     “(d) __Definition.—__ 
+>     “(d)  __Definition__  __.—__ 
 
 >     In this section, the term ‘appropriate congressional committees’ means—
 

@@ -15,11 +15,11 @@
 
 ## § 509. National Guard Youth Challenge Program of opportunities for civilian youth
 
-    (a) __Program Authority and Purpose.—__ 
+    (a)  __Program Authority and Purpose__  __.—__ 
 
     The Secretary of Defense may use the National Guard to conduct a civilian youth opportunities program, to be known as the “National Guard Youth Challenge Program”, which shall consist of at least a 22-week residential program and a 12-month post-residential mentoring period. The Program shall seek to improve life skills and employment potential of participants by providing military-based training and supervised work experience, together with the core program components of assisting participants to receive a high school diploma or its equivalent, leadership development, promoting fellowship and community service, developing life coping skills and job skills, and improving physical fitness and health and hygiene.
 
-    (b) __Conduct of the Program.—__ 
+    (b)  __Conduct of the Program__  __.—__ 
 
         (1) The Secretary of Defense shall provide for the conduct of the Program in such States as the Secretary considers to be appropriate.
 
@@ -35,23 +35,23 @@
 
         (4) The Secretary of Defense shall remain the executive agent to carry out the Program regardless of the source of funds for the Program or any transfer of jurisdiction over the Program within the executive branch. As provided in subsection (a), the Secretary may use the National Guard to conduct the Program.
 
-    (c) __Program Agreements.—__ 
+    (c)  __Program Agreements__  __.—__ 
 
         (1) To carry out the Program in a State, the Secretary of Defense shall enter into an agreement with the Governor of the State or, in the case of the District of Columbia, with the commanding general of the District of Columbia National Guard, under which the Governor or the commanding general will establish, organize, and administer the Program in the State.
 
         (2) The agreement may provide for the Secretary to provide funds to the State for civilian personnel costs attributable to the use of civilian employees of the National Guard in the conduct of the Program.
 
-    (d) __Matching Funds Required.—__ 
+    (d)  __Matching Funds Required__  __.—__ 
 
         (1) The amount of assistance provided by the Secretary of Defense to a State program of the Program for a fiscal year under this section may not exceed 75 percent of the costs of operating the State program during that fiscal year.
 
         (2) The limitation in paragraph (1) may not be construed as a limitation on the amount of assistance that may be provided to a State program of the Program for a fiscal year from sources other than the Department of Defense.
 
-    (e) __Persons Eligible To Participate in Program.—__ 
+    (e)  __Persons Eligible To Participate in Program__  __.—__ 
 
     A school dropout from secondary school shall be eligible to participate in the Program. The Secretary of Defense shall prescribe the standards and procedures for selecting participants from among school dropouts.
 
-    (f) __Authorized Benefits for Participants.—__ 
+    (f)  __Authorized Benefits for Participants__  __.—__ 
 
         (1)
 
@@ -77,7 +77,7 @@
 
         (2) In the case of a person selected for training in the Program who afterwards becomes a member of the Civilian Community Corps under subtitle E of title I of the National and Community Service Act of 1990 ([42 U.S.C. 12611][/us/usc/t42/s12611] et seq.), the person may not receive a temporary stipend under paragraph (1)(I) while the person is a member of that Corps. The person may receive the temporary stipend after completing service in the Corps unless the person elects to receive benefits provided under subsection (f) or (g) of section 158 of such Act ([42 U.S.C. 12618][/us/usc/t42/s12618]).
 
-    (g) __Program Personnel.—__ 
+    (g)  __Program Personnel__  __.—__ 
 
         (1) Personnel of the National Guard of a State in which the Program is conducted may serve on full-time National Guard duty for the purpose of providing command, administrative, training, or supporting services for the Program. For the performance of those services, any such personnel may be ordered to duty under [section 502(f) of this title][/us/usc/t32/s502/f] for not longer than the period of the Program.
 
@@ -85,13 +85,13 @@
 
         (3) Civilian employees of the National Guard performing services for the Program and contractor personnel performing such services may be required, when appropriate to achieve the purposes of the Program, to be members of the National Guard and to wear the military uniform.
 
-    (h) __Equipment and Facilities.—__ 
+    (h)  __Equipment and Facilities__  __.—__ 
 
         (1) Equipment and facilities of the National Guard, including military property of the United States issued to the National Guard, may be used in carrying out the Program.
 
         (2) Activities under the Program shall be considered noncombat activities of the National Guard for purposes of [section 710 of this title][/us/usc/t32/s710].
 
-    (i) __Status of Participants.—__ 
+    (i)  __Status of Participants__  __.—__ 
 
         (1)
 
@@ -113,15 +113,15 @@
 
         (3) A person referred to in paragraph (1) may not be considered an employee of the United States for any purpose other than a purpose set forth in that paragraph.
 
-    (j) __Supplemental Resources.—__ 
+    (j)  __Supplemental Resources__  __.—__ 
 
     To carry out the Program in a State, the Governor of the State or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard may supplement funds made available under the Program out of other resources (including gifts) available to the Governor or the commanding general. The Governor or the commanding general may accept, use, and dispose of gifts or donations of money, other property, or services for the Program.
 
-    (k) __Report.—__ 
+    (k)  __Report__  __.—__ 
 
     Within 90 days after the end of each fiscal year, the Secretary of Defense shall submit to Congress a report on the design, conduct, and effectiveness of the Program during the preceding fiscal year. In preparing the report, the Secretary shall coordinate with the Governor of each State in which the Program is carried out and, if the Program is carried out in the District of Columbia, with the commanding general of the District of Columbia National Guard.
 
-    (l) __Definitions.—__ 
+    (l)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -131,7 +131,7 @@
 
         (3) The term “Program” means the National Guard Youth Challenge Program carried out pursuant to this section.
 
-    (m) __Regulations.—__ 
+    (m)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations to carry out the Program. The regulations shall address at a minimum the following:
 

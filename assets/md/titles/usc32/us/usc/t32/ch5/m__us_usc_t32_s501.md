@@ -81,11 +81,11 @@ June 3, 1916, ch. 134, § 91, 39 Stat. 206.  </td>
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 390\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–90, provided that:
 
->     “(a) __Authorization and Purpose of Project.—__ 
+>     “(a)  __Authorization and Purpose of Project__  __.—__ 
 
 >     The Secretary of the Army, acting through the Chief of the National Guard Bureau, may carry out a demonstration project in rural communities that are unserved or underserved by the telecommunications medium known as the Internet to provide or increase Internet access and services to units and members of the National Guard and other reserve components located in these communities.
 
->     “(b) __Project Elements.—__ 
+>     “(b)  __Project Elements__  __.—__ 
 
 >     In carrying out the demonstration project, the Secretary may—
 
@@ -93,7 +93,7 @@ June 3, 1916, ch. 134, § 91, 39 Stat. 206.  </td>
 
 >         “(2) provide Internet access and services in such classrooms through GuardNet, the telecommunications infrastructure of the National Guard.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than February 1, 2005, the Secretary shall submit to Congress a report on the demonstration project. The report shall describe the activities conducted under the demonstration project and include any recommendations for the improvement or expansion of the demonstration project that the Secretary considers appropriate.”
 
@@ -101,37 +101,37 @@ June 3, 1916, ch. 134, § 91, 39 Stat. 206.  </td>
 
 [Pub. L. 102–484, div. A, title III, § 376][/us/pl/102/484/s376], Oct. 23, 1992, [106 Stat. 2385][/us/stat/106/2385], as amended by [Pub. L. 103–160, div. A, title III, § 365][/us/pl/103/160/s365], Nov. 30, 1993, [107 Stat. 1629][/us/stat/107/1629]; [Pub. L. 103–337, div. A, title III, § 384][/us/pl/103/337/s384], Oct. 5, 1994, [108 Stat. 2741][/us/stat/108/2741], provided that:
 
->     “(a) __Pilot Program.—__ 
+>     “(a)  __Pilot Program__  __.—__ 
 
 >     The Chief of the National Guard Bureau shall enter into an agreement, approved by the Secretary of Defense, with each of the Governors of one or more States to carry out a pilot program during fiscal years 1993, 1994, and 1995 to provide training and professional development opportunities for members of the National Guard through the provision of health care to residents of medically underserved communities in those States with the use of personnel and equipment of the National Guard.
 
->     “(b) __Funding Assistance.—__ 
+>     “(b)  __Funding Assistance__  __.—__ 
 
 >     Amounts made available from Department of Defense accounts for operation and maintenance and for pay and allowances to carry out the pilot program shall be apportioned by the Chief of the National Guard Bureau among those States with which the Chief has entered into approved agreements. In addition to such amounts, the Chief of the National Guard Bureau may authorize any such State, in order to carry out the pilot program during a fiscal year, to use funds received as part of the operation and maintenance allotments and the pay and allowances allotments for the National Guard of the State for that fiscal year.
 
->     “(c) __Supplies and Equipment.—__ 
+>     “(c)  __Supplies and Equipment__  __.—__ 
 
 >         (1) Funds made available from Department of Defense operation and maintenance accounts to carry out the pilot program may be used for the purchase of supplies and equipment necessary for the provision of health care under the pilot program.
 
 >         “(2) In addition to supplies and equipment provided through the use of funds under paragraph (1), supplies and equipment described in such paragraph that are furnished by a State, a Federal agency, a private agency, or an individual may be used to carry out the pilot program.
 
->     “(d) __Maintenance of Effort.—__ 
+>     “(d)  __Maintenance of Effort__  __.—__ 
 
 >     The Chief of the National Guard Bureau shall ensure that each agreement under subsection (a) provides that the provision of services under the pilot program will supplement and increase the level of services that would be provided with non-Federal funds in the absence of such services, and will in no event supplant services provided with non-Federal funds.
 
->     “(e) __Coordination Among Programs.—__ 
+>     “(e)  __Coordination Among Programs__  __.—__ 
 
 >     In carrying out the pilot program under subsection (a), the Chief of the National Guard Bureau shall consult with the Secretary of Health and Human Services for the purpose of ensuring that the provision of services under the pilot program are not redundant with the services of programs of such Secretary.
 
->     “(f) __Service of Participants.—__ 
+>     “(f)  __Service of Participants__  __.—__ 
 
 >     Service in the pilot program by a member of the National Guard shall be considered training in the member’s Federal status as a member of the National Guard of a State under section 270 \[see 10147\] of title 10, United States Code, and [section 502 of title 32][/us/usc/t32/s502], United States Code.
 
->     “(g) __Report.—__ 
+>     “(g)  __Report__  __.—__ 
 
 >     The Secretary of Defense shall, not later than January 1, 1995, submit to the Congress a report on the effectiveness of the pilot program and any recommendations with respect to the pilot program.
 
->     “(h) __Definitions.—__ 
+>     “(h)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -153,21 +153,21 @@ June 3, 1916, ch. 134, § 91, 39 Stat. 206.  </td>
 
 [Pub. L. 104–106, div. A, title V, § 573][/us/pl/104/106/s573], Feb. 10, 1996, [110 Stat. 355][/us/stat/110/355], provided that:
 
->     “(a) __Termination.—__ 
+>     “(a)  __Termination__  __.—__ 
 
 >     The authority under subsection (a) of section 1091 of the National Defense Authorization Act for Fiscal Year 1993 ([Public Law 102–484][/us/pl/102/484]; [32 U.S.C. 501][/us/usc/t32/s501] note) to carry out a pilot program under that section is hereby continued through the end of the 18-month period beginning on the date of the enactment of this Act \[Feb. 10, 1996\] and such authority shall terminate as of the end of that period.
 
->     “(b) __Limitation on Number of Programs.—__ 
+>     “(b)  __Limitation on Number of Programs__  __.—__ 
 
 >     During the period beginning on the date of the enactment of this Act and ending on the termination of the pilot program under subsection (a), the number of programs carried out under subsection (d) of that section as part of the pilot program may not exceed the number of such programs as of September 30, 1995.”
 
 [Pub. L. 102–484, div. A, title X, § 1091][/us/pl/102/484/s1091], Oct. 23, 1992, [106 Stat. 2519][/us/stat/106/2519], as amended by [Pub. L. 103–82, title I, § 104(e)(1)(A)][/us/pl/103/82/s104/e/1/A], (C), Sept. 21, 1993, [107 Stat. 846][/us/stat/107/846]; [Pub. L. 103–160, div. A, title XI, § 1174][/us/pl/103/160/s1174], Nov. 30, 1993, [107 Stat. 1767][/us/stat/107/1767]; [Pub. L. 103–382, title III, § 391][/us/pl/103/382/s391](o), Oct. 20, 1994, [108 Stat. 4024][/us/stat/108/4024]; [Pub. L. 105–85, div. A, title X, § 1073(d)(2)(B)][/us/pl/105/85/s1073/d/2/B], Nov. 18, 1997, [111 Stat. 1905][/us/stat/111/1905], provided that:
 
->     “(a) __Program Authority.—__ 
+>     “(a)  __Program Authority__  __.—__ 
 
 >     During fiscal years 1993 through 1995, the Secretary of Defense, acting through the Chief of the National Guard Bureau, may conduct a pilot program to be known as the ‘National Guard Civilian Youth Opportunities Program’.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of the pilot program is to provide a basis for determining—
 
@@ -175,11 +175,11 @@ June 3, 1916, ch. 134, § 91, 39 Stat. 206.  </td>
 
 >         “(2) whether it is feasible and cost effective for the National Guard to provide military-based training to such youth for the purpose of achieving such improvements.
 
->     “(c) __Conduct of the Program.—__ 
+>     “(c)  __Conduct of the Program__  __.—__ 
 
 >     The Secretary of Defense may provide for the conduct of the pilot program in such States as the Secretary considers to be appropriate.
 
->     “(d) __Program Agreements.—__ 
+>     “(d)  __Program Agreements__  __.—__ 
 
 >         (1) To carry out the pilot program in a State, the Secretary of Defense shall enter into an agreement with the Governor of the State or, in the case of the District of Columbia, with the commanding general of the District of Columbia National Guard.
 
@@ -187,13 +187,13 @@ June 3, 1916, ch. 134, § 91, 39 Stat. 206.  </td>
 
 >         “(3) The agreement may provide for the Secretary to provide funds to the State for civilian personnel costs attributable to the use of civilian employees of the National Guard in the conduct of the National Guard civilian youth opportunities program.
 
->     “(e) __Persons Eligible to Participate in Program.—__ 
+>     “(e)  __Persons Eligible to Participate in Program__  __.—__ 
 
 >         (1) A school dropout from secondary school shall be eligible to participate in a National Guard civilian youth opportunities program conducted under the pilot program.
 
 >         “(2) The Secretary shall prescribe the standards and procedures for selecting participants for a National Guard civilian youth opportunities program from among school dropouts eligible to participate in the program.
 
->     “(f) __Authorized Benefits for Participants.—__ 
+>     “(f)  __Authorized Benefits for Participants__  __.—__ 
 
 >         (1)
 
@@ -219,7 +219,7 @@ June 3, 1916, ch. 134, § 91, 39 Stat. 206.  </td>
 
 >         “(2) In the case of a person selected for training in a National Guard civilian youth opportunities program conducted under the pilot program who afterwards becomes a member of the Civilian Community Corps under subtitle E of title I of the National and Community Service Act of 1990 \[[42 U.S.C. 12611][/us/usc/t42/s12611] et seq.\] (as added by section 1092(a)), the person may not receive a temporary stipend under paragraph (1)(I) while the person is a member of that Corps. The person may receive the temporary stipend after completing service in the Corps unless the person elects to receive benefits provided under subsection (f) or (g) of section 158 of such Act \[[42 U.S.C. 12618(f)][/us/usc/t42/s12618/f], (g)\].
 
->     “(g) __Program Personnel.—__ 
+>     “(g)  __Program Personnel__  __.—__ 
 
 >         (1) Personnel of the National Guard of a State in which a National Guard civilian youth opportunities program is conducted under the pilot program may serve on full-time National Guard duty for the purpose of providing command, administrative, training, or supporting services for that program. For the performance of those services, any such personnel may be ordered to duty under [section 502(f) of title 32][/us/usc/t32/s502/f], United States Code, for not longer than the period of the program.
 
@@ -235,13 +235,13 @@ June 3, 1916, ch. 134, § 91, 39 Stat. 206.  </td>
 
 >         “(4) Civilian employees of the National Guard performing services for such a program and contractor personnel performing such services may be required, when appropriate to achieve a program objective, to be members of the National Guard and to wear the military uniform.
 
->     “(h) __Equipment and Facilities.—__ 
+>     “(h)  __Equipment and Facilities__  __.—__ 
 
 >         (1) Equipment and facilities of the National Guard, including military property of the United States issued to the National Guard, may be used in carrying out the pilot program.
 
 >         “(2) Activities under the pilot program shall be considered noncombat activities of the National Guard for purposes of [section 710 of title 32][/us/usc/t32/s710], United States Code.
 
->     “(i) __Status of Participants.—__ 
+>     “(i)  __Status of Participants__  __.—__ 
 
 >         (1)
 
@@ -263,19 +263,19 @@ June 3, 1916, ch. 134, § 91, 39 Stat. 206.  </td>
 
 >         “(3) A person referred to in paragraph (1) may not be considered an employee of the United States for any purpose other than a purpose set forth in that paragraph.
 
->     “(j) __Supplemental Resources.—__ 
+>     “(j)  __Supplemental Resources__  __.—__ 
 
 >         (1) To carry out a National Guard civilian youth opportunities program conducted under the pilot program, the Governor of a State or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard may supplement any funding made available pursuant to subsection (m) out of other resources (including gifts) available to the Governor or the commanding general.
 
 >         “(2) The provision of funds authorized to be appropriated for the pilot program shall not preclude a Governor participating in the pilot program, or the commanding general of the District of Columbia National Guard (if the District of Columbia National Guard is participating in the pilot program), from accepting, using, and disposing of gifts or donations of money, other property, or services for the pilot program.
 
->     “(k) __Report.—__ 
+>     “(k)  __Report__  __.—__ 
 
 >         (1) Within 90 days after the end of the one-year period beginning on the first day of the pilot program, the Secretary shall submit to the congressional defense committees a report on the design, conduct, and effectiveness of the pilot program during that one-year period. The report shall include an assessment of the matters set forth in paragraphs (1) and (2) of subsection (b).
 
 >         “(2) In preparing the report required by paragraph (1), the Secretary shall coordinate with the Governor of each State in which a National Guard civilian youth opportunities program is carried out under the pilot program and, if such a program is carried out in the District of Columbia, with the commanding general of the District of Columbia National Guard.
 
->     “(l) __Definitions.—__ 
+>     “(l)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -287,7 +287,7 @@ June 3, 1916, ch. 134, § 91, 39 Stat. 206.  </td>
 
 >         “(4) The term ‘full-time National Guard duty’ has the meaning given that term in [section 101 of title 32][/us/usc/t32/s101], United States Code.
 
->     “(m) __Funding.—__ 
+>     “(m)  __Funding__  __.—__ 
 
 >     Of the amounts appropriated for the Department of Defense for operation and maintenance in fiscal year 1993 pursuant to the authorization of appropriations in section 301 \[[106 Stat. 2360][/us/stat/106/2360]\], $50,000,000 shall be available to carry out the pilot program for fiscal year 1993.”
 

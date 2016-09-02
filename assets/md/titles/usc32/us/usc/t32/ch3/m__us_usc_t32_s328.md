@@ -15,11 +15,11 @@
 
 ## § 328. Active Guard and Reserve duty: Governor’s authority
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Governor of a State or the Commonwealth of Puerto Rico, Guam, or the Virgin Islands, or the commanding general of the District of Columbia National Guard, as the case may be, with the consent of the Secretary concerned, may order a member of the National Guard to perform Active Guard and Reserve duty, as defined by [section 101(d)(6) of title 10][/us/usc/t10/s101/d/6], pursuant to [section 502(f) of this title][/us/usc/t32/s502/f].
 
-    (b) __Duties.—__ 
+    (b)  __Duties__  __.—__ 
 
     A member of the National Guard performing duty under subsection (a) may perform the additional duties specified in [section 502(f)(2) of this title][/us/usc/t32/s502/f/2] to the extent that the performance of those duties does not interfere with the performance of the member’s primary Active Guard and Reserve duties of organizing, administering, recruiting, instructing, and training the reserve components.
 

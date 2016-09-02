@@ -15,11 +15,11 @@
 
 ## § 908. Annual report
 
-    (a) __Requirement for Report.—__ 
+    (a)  __Requirement for Report__  __.—__ 
 
     After the end of any fiscal year during which any assistance was provided or activities were carried out under this chapter, the Secretary of Defense shall submit to the congressional defense committees a report regarding any assistance provided and activities carried out under this chapter during that fiscal year. The report for a fiscal year shall be submitted not later than March 31 of the year following the year in which such fiscal year ended.
 
-    (b) __Content.—__ 
+    (b)  __Content__  __.—__ 
 
     The report for a fiscal year shall include the following matters:
 

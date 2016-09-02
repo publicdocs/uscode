@@ -15,7 +15,7 @@
 
 ## § 508. Assistance for certain youth and charitable organizations
 
-    (a) __Authority To Provide Services.—__ 
+    (a)  __Authority To Provide Services__  __.—__ 
 
     Members and units of the National Guard may provide the services described in subsection (b) to an eligible organization in conjunction with training required under this chapter in any case in which—
 
@@ -27,7 +27,7 @@
 
         (4) the provision of the services will not result in a significant increase in the cost of the training.
 
-    (b) __Authorized Services.—__ 
+    (b)  __Authorized Services__  __.—__ 
 
     The services authorized to be provided under subsection (a) are as follows:
 
@@ -43,11 +43,11 @@
 
         (6) Communications services.
 
-    (c) __Other Authorized Assistance.—__ 
+    (c)  __Other Authorized Assistance__  __.—__ 
 
     Facilities and equipment of the National Guard, including military property of the United States issued to the National Guard and General Services Administration vehicles leased to the National Guard, and General Services Administration vehicles leased to the Department of Defense, may be used in connection with providing services to any eligible organization under this section.
 
-    (d) __Eligible Organizations.—__ 
+    (d)  __Eligible Organizations__  __.—__ 
 
     The organizations eligible to receive services under this section are as follows:
 

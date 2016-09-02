@@ -341,7 +341,7 @@ Source (Statutes at Large)  </td>
 
 [Pub. L. 112–241, § 1][/us/pl/112/241/s1], Jan. 10, 2013, [126 Stat. 2372][/us/stat/126/2372], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -361,17 +361,17 @@ Source (Statutes at Large)  </td>
 
 >         “(8) The designation of the City of Salem, Massachusetts, as the Birthplace of the National Guard of the United States will contribute positively to tourism and economic development in the city, create jobs, and instill pride in both the local and State communities.
 
->     “(b) __Designation of Salem, Massachusetts, as National Guard Birthplace.—__ 
+>     “(b)  __Designation of Salem, Massachusetts, as National Guard Birthplace__  __.—__ 
 
 >     In light of the findings made in subsection (a), the City of Salem, Massachusetts, is hereby designated as the Birthplace of the National Guard of the United States.
 
 >     “(c) __Responsibilities.—__ 
 
->         “(1) __Military ceremonial support.—__ 
+>         “(1)  __Military ceremonial support__  __.—__ 
 
 >         The Chief of the National Guard Bureau, in conjunction with the Secretary of the Army, the Secretary of the Air Force, the Council of Governors, and the Adjutant General of the State of Massachusetts, shall provide military ceremonial support at the dedication of any monument, plaque, or other form of official recognition placed in Salem, Massachusetts, celebrating the designation of Salem, Massachusetts, as the Birthplace of the National Guard of the United States.
 
->         “(2) __Funding source.—__ 
+>         “(2)  __Funding source__  __.—__ 
 
 >         Federal funds may not be used to design, procure, prepare, install, or maintain any monument, plaque, or other form of official recognition placed in Salem, Massachusetts, celebrating the designation of Salem, Massachusetts, as the Birthplace of the National Guard of the United States, but the Adjutant General of the State of Massachusetts may accept and expend contributions of non-Federal funds for this purpose.”
 

@@ -15,7 +15,7 @@
 
 ## § 325. Relief from National Guard duty when ordered to active duty
 
-    (a) __Relief Required.—__ 
+    (a)  __Relief Required__  __.—__ 
 
         (1) Except as provided in paragraph (2), each member of the Army National Guard of the United States or the Air National Guard of the United States who is ordered to active duty is relieved from duty in the National Guard of his State, or of the Commonwealth of Puerto Rico, Guam, or the Virgin Islands or the District of Columbia, as the case may be, from the effective date of his order to active duty until he is relieved from that duty.
 
@@ -27,11 +27,11 @@
 
             (B) the Governor of his State, or of the Commonwealth of Puerto Rico, Guam, or the Virgin Islands, or the commanding general of the District of Columbia National Guard, as the case may be, consents to such service in both duty statuses.
 
-    (b) __Advance Authorization and Consent.—__ 
+    (b)  __Advance Authorization and Consent__  __.—__ 
 
     The President and the Governor of a State or Territory, or of the Commonwealth of Puerto Rico, or the commanding general of the District of Columbia National Guard, as applicable, may give the authorization or consent required by subsection (a)(2) with respect to an officer in advance for the purpose of establishing the succession of command of a unit.
 
-    (c) __Return to State Status.—__ 
+    (c)  __Return to State Status__  __.—__ 
 
     So far as practicable, members, organizations, and units of the Army National Guard of the United States or the Air National Guard of the United States ordered to active duty shall be returned to their National Guard status upon relief from that duty.
 

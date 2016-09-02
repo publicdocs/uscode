@@ -15,7 +15,7 @@
 
 ## § 112. Drug interdiction and counter-drug activities
 
-    (a) __Funding Assistance.—__ 
+    (a)  __Funding Assistance__  __.—__ 
 
     The Secretary of Defense may provide funds to the Governor of a State who submits to the Secretary a State drug interdiction and counter-drug activities plan satisfying the requirements of subsection (c). Such funds shall be used for the following:
 
@@ -25,7 +25,7 @@
 
         (3) The procurement of services and equipment, and the leasing of equipment, for the National Guard of that State used for the purpose of drug interdiction and counter-drug activities. However, the use of such funds for the procurement of equipment may not exceed $5,000 per item, unless approval for procurement of equipment in excess of that amount is granted in advance by the Secretary of Defense.
 
-    (b) __Use of Personnel Performing Full-Time National Guard Duty.—__ 
+    (b)  __Use of Personnel Performing Full-Time National Guard Duty__  __.—__ 
 
         (1) Under regulations prescribed by the Secretary of Defense, personnel of the National Guard of a State may, in accordance with the State drug interdiction and counter-drug activities plan referred to in subsection (c), be ordered to perform full-time National Guard duty under [section 502(f) of this title][/us/usc/t32/s502/f] for the purpose of carrying out drug interdiction and counter-drug activities.
 
@@ -57,7 +57,7 @@
 
             (C) the services or assistance is authorized under subsection (b) or (c) of such section or in the State drug interdiction and counter-drug activities plan.
 
-    (c) __Plan Requirements.—__ 
+    (c)  __Plan Requirements__  __.—__ 
 
     A State drug interdiction and counter-drug activities plan shall—
 
@@ -73,7 +73,7 @@
 
         (6) certify that the Governor of the State or a civilian law enforcement official of the State designated by the Governor has determined that any activities included in the plan that are carried out in conjunction with Federal law enforcement agencies serve a State law enforcement purpose.
 
-    (d) __Examination of Plan.—__ 
+    (d)  __Examination of Plan__  __.—__ 
 
         (1) Before funds are provided to the Governor of a State under this section and before members of the National Guard of that State are ordered to full-time National Guard duty as authorized in subsection (b), the Secretary of Defense shall examine the adequacy of the plan submitted by the Governor under subsection (c). The plan as approved by the Secretary may provide for the use of personnel and equipment of the National Guard of that State to assist the Immigration and Naturalization Service in the transportation of aliens who have violated a Federal or State law prohibiting or regulating the possession, use, or distribution of a controlled substance.
 
@@ -87,7 +87,7 @@
 
             (B) pursuant to the plan submitted for a previous fiscal year, funds were provided to the State in accordance with subsection (a) or personnel of the National Guard of the State were ordered to perform full-time National Guard duty in accordance with subsection (b).
 
-    (e) __End Strength Limitation.—__ 
+    (e)  __End Strength Limitation__  __.—__ 
 
         (1)
 
@@ -99,7 +99,7 @@
 
         (2) The Secretary of Defense may increase the end strength authorized under paragraph (1) by not more than 20 percent for any fiscal year if the Secretary determines that such an increase is necessary in the national security interests of the United States.
 
-    (f) __Annual Report.—__ 
+    (f)  __Annual Report__  __.—__ 
 
     The Secretary of Defense shall submit to Congress an annual report regarding assistance provided and activities carried out under this section during the preceding fiscal year. The report shall include the following:
 
@@ -111,11 +111,11 @@
 
         (4) A description of the effect on military training and readiness of using units and personnel of the National Guard to perform activities under the State drug interdiction and counter-drug activities plans.
 
-    (g) __Statutory Construction.—__ 
+    (g)  __Statutory Construction__  __.—__ 
 
     Nothing in this section shall be construed as a limitation on the authority of any unit of the National Guard of a State, when such unit is not in Federal service, to perform law enforcement functions authorized to be performed by the National Guard by the laws of the State concerned.
 
-    (h) __Definitions.—__ 
+    (h)  __Definitions__  __.—__ 
 
     For purposes of this section:
 
@@ -221,11 +221,11 @@
 
 [Pub. L. 109–469, title IX, § 901][/us/pl/109/469/s901], Dec. 29, 2006, [120 Stat. 3536][/us/stat/120/3536], as amended by [Pub. L. 112–239, div. A, title X, § 1008][/us/pl/112/239/s1008], Jan. 2, 2013, [126 Stat. 1905][/us/stat/126/1905], provided that:
 
->     “(a) __Authority To Operate.—__ 
+>     “(a)  __Authority To Operate__  __.—__ 
 
 >     Under such regulations as the Secretary of Defense may prescribe, the Chief of the National Guard Bureau may establish and operate, or provide financial assistance to the States to establish and operate, not more than 5 schools (to be known generally as ‘National Guard counterdrug schools’).
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of the National Guard counterdrug schools shall be the provision by the National Guard of training in drug interdiction and counterdrug activities and drug demand reduction activities to personnel of the following:
 
@@ -237,7 +237,7 @@
 
 >         “(4) Other non-Federal governmental and private entities and organizations engaged in such activities.
 
->     “(c) __Counterdrug Schools Specified.—__ 
+>     “(c)  __Counterdrug Schools Specified__  __.—__ 
 
 >     The National Guard counterdrug schools operated under the authority in subsection (a) are as follows:
 
@@ -253,19 +253,19 @@
 
 >     “(d) __Use of National Guard Personnel.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         To the extent provided for in the State drug interdiction and counterdrug activities plan of a State in which a National Guard counterdrug school is located, personnel of the National Guard of that State who are ordered to perform full-time National Guard duty authorized under section 112(b) of that \[sic\] title 32, United States Code, may provide training referred to in subsection (b) at that school.
 
->         “(2) __Definition.—__ 
+>         “(2)  __Definition__  __.—__ 
 
 >         In this subsection, the term ‘State drug interdiction and counterdrug activities plan’, in the case of a State, means the current plan submitted by the Governor of the State to the Secretary of Defense under [section 112 of title 32][/us/usc/t32/s112], United States Code.
 
->     “(e) __Treatment Under Authority To Provide Counterdrug Support.—__ 
+>     “(e)  __Treatment Under Authority To Provide Counterdrug Support__  __.—__ 
 
 >     The provisions of section 1004 of the National Defense Authorization Act for Fiscal Year 1991 ([Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 374][/us/usc/t10/s374] note) shall apply to any activities of a National Guard counterdrug school under this section that are for an agency referred to in subsection (a) of such section 1004 and for a purpose set forth in subsection (b) of such section 1004.
 
->     “(f) __Annual Report on Activities.—__ 
+>     “(f)  __Annual Report on Activities__  __.—__ 
 
 >     Not later than February 1 each year, the Secretary of Defense shall submit to Congress a report on the activities of the National Guard counterdrug schools during the preceding year. Each such report shall set forth a description of the activities of each National Guard counterdrug school for the fiscal year preceding the fiscal year during which the report is submitted, including—
 
@@ -283,11 +283,11 @@
 
 >     “(g) __Authorization of Appropriations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not more than $30,000,000 may be expended by the Secretary of Defense for purposes of the National Guard counterdrug schools in any fiscal year.
 
->         “(2) __Construction.—__ 
+>         “(2)  __Construction__  __.—__ 
 
 >         The amount expended pursuant to paragraph (1) for a fiscal year is in addition to any other amount authorized to be appropriated for the Department of Defense for the National Guard for such fiscal year.”
 
