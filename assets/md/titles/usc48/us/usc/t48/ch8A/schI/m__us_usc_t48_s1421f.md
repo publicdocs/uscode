@@ -25,7 +25,7 @@
 
     (c) __Secretary of the Interior; sale or lease__ 
 
-        All property owned by the United States in Guam, the title to which is not transferred to the government of Guam by subsection (a) of this section, or which is not placed under the control of the government of Guam by subsection (b) of this section, is transferred to the administrative supervision of the Secretary of the Interior, except as the President may from time to time otherwise prescribe: Provided, That the Secretary of the Interior shall be authorized to lease or to sell, on such terms as he may deem in the public interest, any property, real and personal, of the United States under his administrative supervision in Guam not needed for public purposes.
+        All property owned by the United States in Guam, the title to which is not transferred to the government of Guam by subsection (a) hereof, or which is not placed under the control of the government of Guam by subsection (b) hereof, is transferred to the administrative supervision of the Secretary of the Interior, except as the President may from time to time otherwise prescribe: Provided, That the Secretary of the Interior shall be authorized to lease or to sell, on such terms as he may deem in the public interest, any property, real and personal, of the United States under his administrative supervision in Guam not needed for public purposes.
 
 ([Aug. 1, 1950, ch. 512, § 28][/us/act/1950-08-01/ch512/s28], [64 Stat. 392][/us/stat/64/392]; [Pub. L. 90–497, § 12(b)][/us/pl/90/497/s12/b], Sept. 11, 1968, [82 Stat. 848][/us/stat/82/848].)
 

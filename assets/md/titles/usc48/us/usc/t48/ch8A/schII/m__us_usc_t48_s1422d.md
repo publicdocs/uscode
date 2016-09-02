@@ -25,7 +25,7 @@
 
     (b) __Scope of authority transferred__ 
 
-        The authority granted in paragraph (a) of this section shall extend to all activities of the government of Guam, and shall be in addition to the authority conferred upon the Inspector General by the Inspector General Act of 1978 ([92 Stat. 1101][/us/stat/92/1101]), as amended.
+        The authority granted in paragraph (a) shall extend to all activities of the government of Guam, and shall be in addition to the authority conferred upon the Inspector General by the Inspector General Act of 1978 ([92 Stat. 1101][/us/stat/92/1101]), as amended.
 
     (c) __Transfer of personnel, assets, etc., of office of government comptroller for Guam to Office of Inspector General, Department of the Interior__ 
 

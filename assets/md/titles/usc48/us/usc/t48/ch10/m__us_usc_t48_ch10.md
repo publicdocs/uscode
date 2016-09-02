@@ -139,7 +139,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1492a" data-uslm-ref="/us/usc/t48/s1492a">1492a.</a>  </td>
 
-    <td> Study of Electric Rates in the Insular Areas.  </td>
+    <td> Study of electric rates in the insular areas.  </td>
 
   </tr>
 

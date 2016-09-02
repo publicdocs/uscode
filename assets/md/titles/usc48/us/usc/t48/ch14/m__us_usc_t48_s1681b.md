@@ -25,7 +25,7 @@
 
     (b) __Scope of authority transferred__ 
 
-        The authority granted in paragraph (a) of this section shall extend to all activities of the governments of the Marshall Islands, the Federated States of Micronesia, Palau, and the Northern Mariana Islands, and shall be in addition to the authority conferred upon the Inspector General by the Inspector General Act of 1978 ([92 Stat. 1101][/us/stat/92/1101]), as amended. This section is not subject to termination under section 502(a)(3) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America ([90 Stat. 263][/us/stat/90/263], 268).
+        The authority granted in paragraph (a) shall extend to all activities of the governments of the Marshall Islands, the Federated States of Micronesia, Palau, and the Northern Mariana Islands, and shall be in addition to the authority conferred upon the Inspector General by the Inspector General Act of 1978 ([92 Stat. 1101][/us/stat/92/1101]), as amended. This section is not subject to termination under section 502(a)(3) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America ([90 Stat. 263][/us/stat/90/263], 268).
 
     (c) __Transfer of personnel, assets, etc., of office of government comptroller for Guam to Office of Inspector General, Department of the Interior__ 
 

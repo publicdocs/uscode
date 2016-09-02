@@ -21,7 +21,7 @@
 
     (b) __Appellate division of District Court; quorum; presiding judge; designation of judges; decisions__ 
 
-        Appeals to the District Court of the Virgin Islands shall be heard and determined by an appellate division of the court consisting of three judges, of whom two shall constitute a quorum. The chief judge of the district court shall be the presiding judge of the appellate division and shall preside therein unless disqualified or otherwise unable to act. The other judges who are to sit in the appellate division at any session shall be designated by the presiding judge from among the judges who are serving on, or are assigned to, the district court from time to time pursuant to section 1614(a) of this chapter: Provided, That no more than one of them may be a judge of a court established by local law. The concurrence of two judges shall be necessary to any decision by the appellate division of the district court on the merits of an appeal, but the presiding judge alone may make any appropriate orders with respect to an appeal prior to the hearing and determination thereof on the merits and may dismiss an appeal for want of jurisdiction or failure to take or prosecute it in accordance with the applicable law or rules of procedure. Appeals pending in the district court on the effective date of this Act  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  shall be heard and determined by a single judge.
+        Appeals to the District Court of the Virgin Islands shall be heard and determined by an appellate division of the court consisting of three judges, of whom two shall constitute a quorum. The chief judge of the district court shall be the presiding judge of the appellate division and shall preside therein unless disqualified or otherwise unable to act. The other judges who are to sit in the appellate division at any session shall be designated by the presiding judge from among the judges who are serving on, or are assigned to, the district court from time to time pursuant to [section 1614(a) of this title][/us/usc/t48/s1614/a]: Provided, That no more than one of them may be a judge of a court established by local law. The concurrence of two judges shall be necessary to any decision by the appellate division of the district court on the merits of an appeal, but the presiding judge alone may make any appropriate orders with respect to an appeal prior to the hearing and determination thereof on the merits and may dismiss an appeal for want of jurisdiction or failure to take or prosecute it in accordance with the applicable law or rules of procedure. Appeals pending in the district court on the effective date of this Act  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  shall be heard and determined by a single judge.
 
     (c) __United States Court of Appeals for Third Circuit; jurisdiction; appeals; rules__ 
 
@@ -35,7 +35,7 @@
 
  __References in Text__ 
 
-    This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning [act July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], [68 Stat. 497][/us/stat/68/497], as amended, known as the Revised Organic Act of the Virgin Islands, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1541 of this title][/us/usc/t48/s1541] and Tables.
+    This chapter, referred to in subsec. (a), was in the original “this Act”, meaning [act July 22, 1954, ch. 558][/us/act/1954-07-22/ch558], [68 Stat. 497][/us/stat/68/497], as amended, known as the Revised Organic Act of the Virgin Islands, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1541 of this title][/us/usc/t48/s1541] and Tables.
 
     The effective date of this Act, referred to in subsec. (b), probably means the effective date of title VII of [Pub. L. 98–454][/us/pl/98/454], which is 90 days after Oct. 5, 1984, and which enacted this section.
 
@@ -51,6 +51,7 @@
 ----------
 
 [/us/usc/t48/s1611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1611%2Fa
+[/us/usc/t48/s1614/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1614%2Fa
 [/us/usc/t48/s1611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1611%2Fa
 [/us/act/1954-07-22/ch558/s23A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-22%2Fch558%2Fs23A
 [/us/pl/98/454/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454%2Fs705

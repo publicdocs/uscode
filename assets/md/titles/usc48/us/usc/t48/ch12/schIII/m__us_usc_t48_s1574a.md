@@ -21,11 +21,11 @@
 
     (b) __Federal guarantee__ 
 
-        The legislature of the government of the Virgin Islands may provide, in connection with any issue of bonds or other obligations authorized to be issued under subsection (a) of this section the proceeds of which are to be used for public works or other capital projects, that a guarantee of such bonds or obligations by the United States should be applied for under [section 1574b of this title][/us/usc/t48/s1574b].
+        The legislature of the government of the Virgin Islands may provide, in connection with any issue of bonds or other obligations authorized to be issued under subsection (a) the proceeds of which are to be used for public works or other capital projects, that a guarantee of such bonds or obligations by the United States should be applied for under [section 1574b of this title][/us/usc/t48/s1574b].
 
     (c) __Limitations on issuance__ 
 
-        Except to the extent inconsistent with the provisions of this Act, the provisions of [section 1574(b)(ii) of this title][/us/usc/t48/s1574/b/ii] (other than the limitation contained in the proviso to the first sentence of subparagraph (A)) shall apply to bonds and other obligations authorized to be issued under subsection (a) of this section.
+        Except to the extent inconsistent with the provisions of this Act, the provisions of [section 1574(b)(ii) of this title][/us/usc/t48/s1574/b/ii] (other than the limitation contained in the proviso to the first sentence of subparagraph (A)) shall apply to bonds and other obligations authorized to be issued under subsection (a).
 
 ([Pub. L. 94–392, § 1][/us/pl/94/392/s1], Aug. 19, 1976, [90 Stat. 1193][/us/stat/90/1193]; [Pub. L. 105–83, title I, § 124(c)][/us/pl/105/83/s124/c], Nov. 14, 1997, [111 Stat. 1567][/us/stat/111/1567]; [Pub. L. 106–84, § 1(b)(3)][/us/pl/106/84/s1/b/3], Oct. 28, 1999, [113 Stat. 1295][/us/stat/113/1295].)
 

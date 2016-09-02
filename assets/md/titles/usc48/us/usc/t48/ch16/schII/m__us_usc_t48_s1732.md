@@ -29,7 +29,7 @@
 
     (d) __Effect of establishment of primary elections__ 
 
-        Notwithstanding subsection (a) of this section, if the legislature of American Samoa provides for primary elections for the election of Delegate, the Delegate shall be elected by a majority of votes cast in any subsequent general election for the office of Delegate for which such primary elections were held.
+        Notwithstanding subsection (a), if the legislature of American Samoa provides for primary elections for the election of Delegate, the Delegate shall be elected by a majority of votes cast in any subsequent general election for the office of Delegate for which such primary elections were held.
 
 ([Pub. L. 95–556, § 2][/us/pl/95/556/s2], Oct. 31, 1978, [92 Stat. 2078][/us/stat/92/2078]; [Pub. L. 108–376, § 2][/us/pl/108/376/s2], Oct. 30, 2004, [118 Stat. 2200][/us/stat/118/2200].)
 

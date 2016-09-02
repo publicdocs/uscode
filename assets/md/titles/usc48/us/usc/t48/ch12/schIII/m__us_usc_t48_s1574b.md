@@ -33,7 +33,7 @@
 
     (c) __Administrative costs; deposit of fees__ 
 
-        The Secretary shall charge and collect fees in amounts sufficient in his judgment to cover the costs of administering this section. Fees collected under this subsection shall be deposited in the revolving fund created under subsection (g) of this section.
+        The Secretary shall charge and collect fees in amounts sufficient in his judgment to cover the costs of administering this section. Fees collected under this subsection shall be deposited in the revolving fund created under subsection (g).
 
     (d) __Conclusiveness and incontestability; pledge of full faith and credit__ 
 

@@ -29,7 +29,7 @@
 
     (c) __Original jurisdiction__ 
 
-        In addition to the jurisdiction described in subsection (b) of this section, the District Court of Guam shall have original jurisdiction in all other causes in Guam, jurisdiction over which is not then vested by the legislature in another court or other courts established by it. In causes brought in the district court solely on the basis of this subsection, the district court shall be considered a court established by the laws of Guam for the purpose of determining the requirements of indictment by grand jury or trial by jury.
+        In addition to the jurisdiction described in subsection (b), the District Court of Guam shall have original jurisdiction in all other causes in Guam, jurisdiction over which is not then vested by the legislature in another court or other courts established by it. In causes brought in the district court solely on the basis of this subsection, the district court shall be considered a court established by the laws of Guam for the purpose of determining the requirements of indictment by grand jury or trial by jury.
 
 ([Aug. 1, 1950, ch. 512, § 22][/us/act/1950-08-01/ch512/s22], [64 Stat. 389][/us/stat/64/389]; [Aug. 27, 1954, ch. 1017, § 1][/us/act/1954-08-27/ch1017/s1], [68 Stat. 882][/us/stat/68/882]; [Pub. L. 85–444][/us/pl/85/444], §§ 1, 2, June 4, 1958, [72 Stat. 178][/us/stat/72/178], 179; [Pub. L. 95–598, title III, § 335][/us/pl/95/598/s335], Nov. 6, 1978, [92 Stat. 2680][/us/stat/92/2680]; [Pub. L. 98–454, title VIII][/us/pl/98/454], §§ 801, 803, title X, § 1001, Oct. 5, 1984, [98 Stat. 1741][/us/stat/98/1741], 1743, 1745; [Pub. L. 108–378, § 1(a)][/us/pl/108/378/s1/a], Oct. 30, 2004, [118 Stat. 2206][/us/stat/118/2206].)
 

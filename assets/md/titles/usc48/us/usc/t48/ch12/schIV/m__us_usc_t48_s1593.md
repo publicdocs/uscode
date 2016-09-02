@@ -17,7 +17,7 @@
 
     (a) __Grant of rights__ 
 
-        The people of the Virgin Islands shall have the rights of initiative and recall to be exercised as provided in subsection (b) and subsection (c) of this section, respectively.
+        The people of the Virgin Islands shall have the rights of initiative and recall to be exercised as provided in subsection (b) and subsection (c), respectively.
 
     (b) __Initiative__ 
 

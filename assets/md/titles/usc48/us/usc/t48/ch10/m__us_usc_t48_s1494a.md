@@ -25,7 +25,7 @@
 
     (b) __Transmission date__ 
 
-        The annual reports required by subsection (a) of this section shall be transmitted to the Committee on Natural Resources of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate not later than the first day of October each year.
+        The annual reports required by subsection (a) shall be transmitted to the Committee on Natural Resources of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate not later than the first day of October each year.
 
 ([Pub. L. 99–570, title V, § 5003][/us/pl/99/570/s5003], Oct. 27, 1986, [100 Stat. 3207–155][/us/stat/100/3207-155]; [Pub. L. 100–690, title IX, § 9309][/us/pl/100/690/s9309], Nov. 18, 1988, [102 Stat. 4539][/us/stat/102/4539]; [Pub. L. 103–437, § 17(a)(3)][/us/pl/103/437/s17/a/3], Nov. 2, 1994, [108 Stat. 4595][/us/stat/108/4595].)
 

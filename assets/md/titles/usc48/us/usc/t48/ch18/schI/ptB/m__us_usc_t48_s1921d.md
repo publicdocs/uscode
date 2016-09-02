@@ -127,7 +127,7 @@
 
                 (iii) __Supplemental education grants__ 
 
-                In lieu of eligibility for appropriations under part A of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6311][/us/usc/t20/s6311] et seq.), title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.), other than subtitle C of that Act ([29 U.S.C. 2881][/us/usc/t29/s2881] et seq.) (Job Corps), title II of the Workforce Investment Act of 1998 ([20 U.S.C. 9201][/us/usc/t20/s9201] et seq.; commonly known as the Adult Education and Family Literacy Act), title I of the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2321][/us/usc/t20/s2321] et seq.), the Head Start Act ([42 U.S.C. 9831][/us/usc/t42/s9831] et seq.), and subpart 3 of part A, and part C, of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070b][/us/usc/t20/s1070b] et seq., [42 U.S.C. 2751][/us/usc/t42/s2751] et seq.), there are authorized to be appropriated to the Secretary of Education to supplement the education grants under section 211(a)(1) of the U.S.-FSM Compact and section 211(a)(1) of the U.S.-RMI Compact, respectively, the following amounts:
+                In lieu of eligibility for appropriations under part A of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6311][/us/usc/t20/s6311] et seq.), titles I \[[29 U.S.C. 3111][/us/usc/t29/s3111] et seq.\] (other than subtitle C \[[29 U.S.C. 3191][/us/usc/t29/s3191] et seq.\]) and II \[[29 U.S.C. 3271][/us/usc/t29/s3271] et seq.\] of the Workforce Innovation and Opportunity Act, title I of the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2321][/us/usc/t20/s2321] et seq.), the Head Start Act ([42 U.S.C. 9831][/us/usc/t42/s9831] et seq.), and subpart 3 of part A, and part C, of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070b][/us/usc/t20/s1070b] et seq., [42 U.S.C. 2751][/us/usc/t42/s2751] et seq.), there are authorized to be appropriated to the Secretary of Education to supplement the education grants under section 211(a)(1) of the U.S.-FSM Compact and section 211(a)(1) of the U.S.-RMI Compact, respectively, the following amounts:
 
                     (I) $12,230,000 for the Federated States of Micronesia for fiscal year 2005 and an equivalent amount, as adjusted for inflation under section 217 of the U.S.-FSM Compact, for each of fiscal years 2005 through 2023; and
 
@@ -239,10 +239,6 @@
 
 ([Pub. L. 108–188, title I, § 105][/us/pl/108/188/s105], Dec. 17, 2003, [117 Stat. 2744][/us/stat/117/2744]; [Pub. L. 109–270, § 2][/us/pl/109/270/s2](l), Aug. 12, 2006, [120 Stat. 749][/us/stat/120/749]; [Pub. L. 110–161, div. F, title I, § 124][/us/pl/110/161/s124], Dec. 26, 2007, [121 Stat. 2121][/us/stat/121/2121]; [Pub. L. 110–229, title VIII][/us/pl/110/229], §§ 803(a), 804, 805, 806(a)(3), May 8, 2008, [122 Stat. 870][/us/stat/122/870], 871; [Pub. L. 113–128, title V, § 512(g)(1)][/us/pl/113/128/s512/g/1], July 22, 2014, [128 Stat. 1708][/us/stat/128/1708]; [Pub. L. 113–287, § 5][/us/pl/113/287/s5](o)(2), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272].)
 
- __Amendment of Subsection (f)(1)(B)(iii)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(g)(1), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1708, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (f)(1)(B)(iii) of this section is amended by striking “title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.), other than subtitle C of that Act ([29 U.S.C. 2881][/us/usc/t29/s2881] et seq.) (Job Corps), title II of the Workforce Investment Act of 1998 ([20 U.S.C. 9201][/us/usc/t20/s9201] et seq.; commonly known as the Adult Education and Family Literacy Act),” and inserting “titles I (other than subtitle C) and II of the Workforce Innovation and Opportunity Act,”. See 2014 Amendment note below.
-
  __References in Text__ 
 
     This joint resolution, referred to in subsecs. (a), (b)(10), and (f)(2), is [Pub. L. 108–188][/us/pl/108/188], Dec. 17, 2003, [117 Stat. 2720][/us/stat/117/2720], known as the Compact of Free Association Amendments Act of 2003, which enacted this part and provisions set out as notes under sections 1901 and 1921 of this title and amended provisions set out as a note under [section 3101 of Title 5][/us/usc/t5/s3101], Government Organization and Employees. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under [section 1901 of this title][/us/usc/t48/s1901] and Tables.
@@ -259,7 +255,7 @@
 
     The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1)(B)(iii), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], as amended. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20][/us/usc/t20/s6301] and Tables.
 
-    The Workforce Investment Act of 1998, referred to in subsec. (f)(1)(B)(iii), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. Subtitle C of title I of the Act is classified generally to subchapter III (§ 2881 et seq.) of chapter 30 of Title 29. Title II of the Act, known as the Adult Education and Family Literacy Act, is classified principally to subchapter I (§ 9201 et seq.) of chapter 73 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201] and Tables.
+    The Workforce Innovation and Opportunity Act, referred to in subsec. (f)(1)(B)(iii), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. Subtitle C of title I of the Act is classified generally to part C (§ 3191 et seq.) of subchapter I of chapter 32 of Title 29. Chapter II of the Act is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
     Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (f)(1)(B)(iii), is [Pub. L. 88–210][/us/pl/88/210], Dec. 18, 1963, [77 Stat. 403][/us/stat/77/403], as amended generally by [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 683][/us/stat/120/683]. Title I of the Act is classified generally to subchapter I (§ 2321 et seq.) of chapter 44 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of Title 20][/us/usc/t20/s2301] and Tables.
 
@@ -267,7 +263,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (f)(1)(B)(iii). [Pub. L. 113–128][/us/pl/113/128] substituted “titles I (other than subtitle C) and II of the Workforce Innovation and Opportunity Act,” for “title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.), other than subtitle C of that Act ([29 U.S.C. 2881][/us/usc/t29/s2881] et seq.) (Job Corps), title II of the Workforce Investment Act of 1998 ([20 U.S.C. 9201][/us/usc/t20/s9201] et seq.; commonly known as the Adult Education and Family Literacy Act),”.
+    2014—Subsec. (f)(1)(B)(iii). [Pub. L. 113–128][/us/pl/113/128], in introductory provisions, substituted “titles I (other than subtitle C) and II of the Workforce Innovation and Opportunity Act,” for “title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.), other than subtitle C of that Act ([29 U.S.C. 2881][/us/usc/t29/s2881] et seq.) (Job Corps), title II of the Workforce Investment Act of 1998 ([20 U.S.C. 9201][/us/usc/t20/s9201] et seq.; commonly known as the Adult Education and Family Literacy Act),”.
 
     Subsec. (j). [Pub. L. 113–287][/us/pl/113/287] substituted “division A of subtitle III of title 54” for “the National Historic Preservation Act ([80 Stat. 915][/us/stat/80/915]; [16 U.S.C. 470–470t][/us/usc/t16/s470–470t])”.
 
@@ -289,7 +285,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -329,9 +325,9 @@
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 [/us/usc/t20/s1070a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a
 [/us/usc/t20/s6311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/usc/t29/s2881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2881
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
+[/us/usc/t29/s3191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3191
+[/us/usc/t29/s3271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3271
 [/us/usc/t20/s2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2321
 [/us/usc/t42/s9831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9831
 [/us/usc/t20/s1070b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070b
@@ -349,11 +345,6 @@
 [/us/stat/128/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1708
 [/us/pl/113/287/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/usc/t29/s2881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2881
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
 [/us/pl/108/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188
 [/us/stat/117/2720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2720
 [/us/usc/t5/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3101
@@ -375,9 +366,9 @@
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/88/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210
 [/us/stat/77/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F403
 [/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb

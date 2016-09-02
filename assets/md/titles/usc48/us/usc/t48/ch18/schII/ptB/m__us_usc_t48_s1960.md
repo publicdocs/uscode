@@ -31,7 +31,7 @@
 
     (b) __Adjustment and payment__ 
 
-        Subject to the provisions of subsection (a) of this section and upon the request of the Government of Palau, the sum of $28 million appropriated by [Public Law 99–349][/us/pl/99/349] to fulfill the obligations of the United States under section 211(b) of the Compact (approved in [Public Law 99–658][/us/pl/99/658]), adjusted by section 215 of such Compact, shall be provided to Palau upon entry into force of the Compact.
+        Subject to the provisions of subsection (a) and upon the request of the Government of Palau, the sum of $28 million appropriated by [Public Law 99–349][/us/pl/99/349] to fulfill the obligations of the United States under section 211(b) of the Compact (approved in [Public Law 99–658][/us/pl/99/658]), adjusted by section 215 of such Compact, shall be provided to Palau upon entry into force of the Compact.
 
     (c) __Availability of appropriation account__ 
 

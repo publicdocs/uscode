@@ -13,7 +13,7 @@
 
 [Previous](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1492.md) | [Next](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1493.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1492a)
 
-## § 1492a. Study of Electric Rates in the Insular Areas
+## § 1492a. Study of electric rates in the insular areas
 
     (a) __Definitions__ 
 

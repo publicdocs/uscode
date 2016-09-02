@@ -29,7 +29,7 @@
 
     (c) __Scope of authority transferred__ 
 
-        The authority granted in paragraph (b) of this section shall extend to all activities of the government of American Samoa, and shall be in addition to the authority conferred upon the Inspector General by the Inspector General Act of 1978 ([92 Stat. 1101][/us/stat/92/1101]), as amended.
+        The authority granted in paragraph (b) shall extend to all activities of the government of American Samoa, and shall be in addition to the authority conferred upon the Inspector General by the Inspector General Act of 1978 ([92 Stat. 1101][/us/stat/92/1101]), as amended.
 
     (d) __Transfer of personnel, assets, etc., of office of government comptroller for American Samoa to Office of Inspector General, Department of the Interior__ 
 
