@@ -557,11 +557,17 @@
 
     [Pub. L. 86–70, § 21(e)][/us/pl/86/70/s21/e], June 25, 1959, [73 Stat. 146][/us/stat/73/146], provided that the amendments made by that section (amending this section and sections 104, 116, and 120 of this title) are effective July 1, 1959.
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–21, § 1(a)][/us/pl/114/21/s1/a], May 29, 2015, [129 Stat. 218][/us/stat/129/218], provided that: 
+
+> “This Act \[amending [section 403 of this title][/us/usc/t23/s403], [section 777c of Title 16][/us/usc/t16/s777c], Conservation, sections 9503, 9504, and 9508 of Title 26, Internal Revenue Code, and sections 5128, 5311, 5336, 5338, 5339, 31104, and 31144 of Title 49, Transportation, and amending provisions set out as notes under sections 104, 202, and 402 of this title and sections 31100 and 31301 of Title 49\] may be cited as the ‘Highway and Transportation Funding Act of 2015’.”
+
  __Short Title of 2014 Amendment__ 
 
 [Pub. L. 113–159, § 1(a)][/us/pl/113/159/s1/a], Aug. 8, 2014, [128 Stat. 1839][/us/stat/128/1839], provided that: 
 
-> “This Act \[see Tables for classification\] may be cited as the ‘Highway and Transportation Funding Act of 2014’.”
+> “This Act \[amending [section 403 of this title][/us/usc/t23/s403], [section 777c of Title 16][/us/usc/t16/s777c], Conservation, [section 58c of Title 19][/us/usc/t19/s58c], Customs Duties, sections 430, 436, 9503, 9504, and 9508 of Title 26, Internal Revenue Code, sections 1021, 1056, and 1083 of Title 29, Labor, and sections 5128, 5311, 5336, 5338, 5339, 31104, and 31144 of Title 49, Transportation, enacting provisions set out as notes under [section 101 of this title][/us/usc/t23/s101], sections 430 and 436 of Title 26, and [section 1021 of Title 29][/us/usc/t29/s1021], amending provisions set out as notes under sections 104, 202, and 402 of this title and sections 31100 and 31301 of Title 49\] may be cited as the ‘Highway and Transportation Funding Act of 2014’.”
 
  __Short Title of 2012 Amendment__ 
 
@@ -851,7 +857,7 @@
 
 >     “(1) the existing Highway Trust Fund system is unsustainable and unable to meet our Nation’s 21st century transportation needs;
 
->     “(2) MAP–21 \[[Pub. L. 112–141][/us/pl/112/141], see Short Title of 2012 Amendment note above\] included important reforms that must be built upon in the next reauthorization bill to increase the efficient and effective utilization of Federal funding;
+>     “(2) MAP–21 \[[Pub. L. 112–141][/us/pl/112/141], see Tables for classification\] included important reforms that must be built upon in the next reauthorization bill to increase the efficient and effective utilization of Federal funding;
 
 >     “(3) these reforms should include the elimination of duplicative Federal regulations and increase the authority and responsibility of the States to safely and efficiently build, operate, and fund transportation systems that best serve the needs of their citizens, including the ability of each State to implement innovative solutions, while also maintaining the appropriate Federal role in transportation; and
 
@@ -2560,8 +2566,17 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t23/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs133
 [/us/pl/86/70/s21/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs21%2Fe
 [/us/stat/73/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F146
+[/us/pl/114/21/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1%2Fa
+[/us/stat/129/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F218
+[/us/usc/t23/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs403
+[/us/usc/t16/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c
 [/us/pl/113/159/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs1%2Fa
 [/us/stat/128/1839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1839
+[/us/usc/t23/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs403
+[/us/usc/t16/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c
+[/us/usc/t19/s58c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58c
+[/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/usc/t29/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1021
 [/us/pl/112/141/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1%2Fa
 [/us/stat/126/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F405
 [/us/pl/112/141/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs2001

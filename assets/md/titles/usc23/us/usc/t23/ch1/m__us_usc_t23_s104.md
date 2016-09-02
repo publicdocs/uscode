@@ -1001,7 +1001,7 @@
 
  __Federal-Aid Highways and Highway Safety Construction Programs; Maximum Limits on Total Obligations; Exceptions; State Allocations__ 
 
-[Pub. L. 112–141, div. A, title I, § 1102][/us/pl/112/141/s1102], July 6, 2012, [126 Stat. 416][/us/stat/126/416], as amended by [Pub. L. 113–159, title I, § 1001(c)(3)][/us/pl/113/159/s1001/c/3], Aug. 8, 2014, [128 Stat. 1841][/us/stat/128/1841], provided that:
+[Pub. L. 112–141, div. A, title I, § 1102][/us/pl/112/141/s1102], July 6, 2012, [126 Stat. 416][/us/stat/126/416], as amended by [Pub. L. 113–159, title I, § 1001(c)(3)][/us/pl/113/159/s1001/c/3], Aug. 8, 2014, [128 Stat. 1841][/us/stat/128/1841]; [Pub. L. 114–21, title I, § 1001(c)(2)][/us/pl/114/21/s1001/c/2], May 29, 2015, [129 Stat. 219][/us/stat/129/219], provided that:
 
 >     “(a)  __General Limitation__  __.—__ 
 
@@ -1011,7 +1011,7 @@
 
 >         “(2) $40,256,000,000 for fiscal year 2014; and
 
->         “(3) $26,800,569,863 for the period beginning on October 1, 2014, and ending on May 31, 2015.
+>         “(3) $33,528,284,932 for the period beginning on October 1, 2014, and ending on July 31, 2015.
 
 >     “(b)  __Exceptions__  __.—__ 
 
@@ -1039,11 +1039,11 @@
 
 >         “(11) section 1603 of SAFETEA–LU ([23 U.S.C. 118][/us/usc/t23/s118] note; [119 Stat. 1248][/us/stat/119/1248]), to the extent that funds obligated in accordance with that section were not subject to a limitation on obligations at the time at which the funds were initially made available for obligation; and
 
->         “(12) [section 119 of title 23][/us/usc/t23/s119], United States Code (but, for each of fiscal years 2013 through 2014, only in an amount equal to $639,000,000 for each of those fiscal years, and for the period beginning on October 1, 2014, and ending on May 31, 2015, only in an amount equal to $639,000,000, less any reductions that would have otherwise been required for that year by section 251A of the Balanced Budget and Emergency Deficit Control Act of 1985 ([2 U.S.C. 901a][/us/usc/t2/s901a]), then multiplied by 243⁄365 for that period).
+>         “(12) [section 119 of title 23][/us/usc/t23/s119], United States Code (but, for each of fiscal years 2013 through 2014, only in an amount equal to $639,000,000 for each of those fiscal years, and for the period beginning on October 1, 2014, and ending on July 31, 2015, only in an amount equal to $639,000,000, less any reductions that would have otherwise been required for that year by section 251A of the Balanced Budget and Emergency Deficit Control Act of 1985 ([2 U.S.C. 901a][/us/usc/t2/s901a]), then multiplied by 304⁄365 for that period).
 
 >     “(c)  __Distribution of Obligation Authority__  __.—__ 
 
->     For each of fiscal years 2013 through 2014 and for the period beginning on October 1, 2014, and ending on May 31, 2015, the Secretary \[of Transportation\]—
+>     For each of fiscal years 2013 through 2014 and for the period beginning on October 1, 2014, and ending on July 31, 2015, the Secretary \[of Transportation\]—
 
 >         “(1)
 
@@ -1055,7 +1055,7 @@
 
 >         “(2)
 
->          shall not distribute an amount of obligation authority provided by subsection (a) that is equal to the unobligated balance of amounts or, for the period beginning on October 1, 2014, and ending May 31, 2015, that is equal to 243⁄365 of such unobligated balance—
+>          shall not distribute an amount of obligation authority provided by subsection (a) that is equal to the unobligated balance of amounts or, for the period beginning on October 1, 2014, and ending on July 31, 2015, that is equal to 304⁄365 of such unobligated balance—
 
 >             “(A) made available from the Highway Trust Fund (other than the Mass Transit Account) for Federal-aid highway and highway safety construction programs for previous fiscal years the funds for which are allocated by the Secretary (or apportioned by the Secretary under sections 202 or 204 of title 23, United States Code); and
 
@@ -1115,7 +1115,7 @@
 
 >         “(1)  __In general__  __.—__ 
 
->         Not later than 30 days after the date of distribution of obligation authority under subsection (c) for each of fiscal years 2013 through 2014 and for the period beginning on October 1, 2014, and ending on May 31, 2015, the Secretary \[of Transportation\] shall distribute to the States any funds (excluding funds authorized for the program under [section 202 of title 23][/us/usc/t23/s202], United States Code) that—
+>         Not later than 30 days after the date of distribution of obligation authority under subsection (c) for each of fiscal years 2013 through 2014 and for the period beginning on October 1, 2014, and ending on July 31, 2015, the Secretary \[of Transportation\] shall distribute to the States any funds (excluding funds authorized for the program under [section 202 of title 23][/us/usc/t23/s202], United States Code) that—
 
 >             “(A) are authorized to be appropriated for the fiscal year or period for Federal-aid highway programs; and
 
@@ -1197,7 +1197,7 @@ Similar provisions for prior fiscal years were contained in the following acts:
 
 >         “(1) [section 125 of title 23][/us/usc/t23/s125], United States Code;
 
->         “(2) section 147 of the Surface Transportation Assistance Act of 1978 (\[formerly\] [23 U.S.C. 144][/us/usc/t23/s144] note; [92 Stat. 2714][/us/stat/92/2714]);
+>         “(2) section 147 of the Surface Transportation Assistance Act of 1978 (\[former\] [23 U.S.C. 144][/us/usc/t23/s144] note; [92 Stat. 2714][/us/stat/92/2714]);
 
 >         “(3) section 9 of the Federal-Aid Highway Act of 1981 \[[Pub. L. 97–134][/us/pl/97/134]\] ([95 Stat. 1701][/us/stat/95/1701]);
 
@@ -1856,6 +1856,8 @@ Provisions entitling each State, for specific fiscal years, to receive at least 
 [/us/stat/126/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F416
 [/us/pl/113/159/s1001/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs1001%2Fc%2F3
 [/us/stat/128/1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1841
+[/us/pl/114/21/s1001/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1001%2Fc%2F2
+[/us/stat/129/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F219
 [/us/usc/t23/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs125
 [/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
 [/us/usc/t23/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs144

@@ -101,7 +101,7 @@
 
         (1)  __Establishment and funding__  __.—__ 
 
-        Notwithstanding the apportionment formula set forth in section 402(c)(2), $2,500,000 of the total amount available for apportionment to the States for highway safety programs under subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup>  402(c) in each fiscal year ending before October 1, 2014, and $1,664,384 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available for expenditure by the Secretary, acting through the Administrator of the National Highway Traffic Safety Administration, for a cooperative research and evaluation program to research and evaluate priority highway safety countermeasures.
+        Notwithstanding the apportionment formula set forth in section 402(c)(2), $2,500,000 of the total amount available for apportionment to the States for highway safety programs under subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup>  402(c) in each fiscal year ending before October 1, 2014, and $2,082,192 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2014, and ending on July 31, 2015, shall be available for expenditure by the Secretary, acting through the Administrator of the National Highway Traffic Safety Administration, for a cooperative research and evaluation program to research and evaluate priority highway safety countermeasures.
 
         (2)  __Administration__  __.—__ 
 
@@ -149,13 +149,15 @@
 
             The term “legal limit” means a blood alcohol concentration of 0.08 percent or greater (as set forth in section 163(a)) or such other percentage limitation as may be established by applicable Federal, State, or local law.
 
-(Added [Pub. L. 89–564, title I, § 101][/us/pl/89/564/s101], Sept. 9, 1966, [80 Stat. 733][/us/stat/80/733]; amended [Pub. L. 93–87, title II][/us/pl/93/87], §§ 208(a), 220–222, 226(a), Aug. 13, 1973, [87 Stat. 286][/us/stat/87/286], 291, 292; [Pub. L. 102–240, title II, § 2003][/us/pl/102/240/s2003], Dec. 18, 1991, [105 Stat. 2071][/us/stat/105/2071]; [Pub. L. 105–178, title II, § 2002(a)][/us/pl/105/178/s2002/a], (b)(1), June 9, 1998, [112 Stat. 325][/us/stat/112/325]; [Pub. L. 109–59, title II][/us/pl/109/59], §§ 2003(a), (b), 2013(e), Aug. 10, 2005, [119 Stat. 1522][/us/stat/119/1522], 1540; [Pub. L. 112–141, div. C, title I, § 31103][/us/pl/112/141/s31103], July 6, 2012, [126 Stat. 739][/us/stat/126/739]; [Pub. L. 113–159, title I, § 1101(b)][/us/pl/113/159/s1101/b], Aug. 8, 2014, [128 Stat. 1843][/us/stat/128/1843].)
+(Added [Pub. L. 89–564, title I, § 101][/us/pl/89/564/s101], Sept. 9, 1966, [80 Stat. 733][/us/stat/80/733]; amended [Pub. L. 93–87, title II][/us/pl/93/87], §§ 208(a), 220–222, 226(a), Aug. 13, 1973, [87 Stat. 286][/us/stat/87/286], 291, 292; [Pub. L. 102–240, title II, § 2003][/us/pl/102/240/s2003], Dec. 18, 1991, [105 Stat. 2071][/us/stat/105/2071]; [Pub. L. 105–178, title II, § 2002(a)][/us/pl/105/178/s2002/a], (b)(1), June 9, 1998, [112 Stat. 325][/us/stat/112/325]; [Pub. L. 109–59, title II][/us/pl/109/59], §§ 2003(a), (b), 2013(e), Aug. 10, 2005, [119 Stat. 1522][/us/stat/119/1522], 1540; [Pub. L. 112–141, div. C, title I, § 31103][/us/pl/112/141/s31103], July 6, 2012, [126 Stat. 739][/us/stat/126/739]; [Pub. L. 113–159, title I, § 1101(b)][/us/pl/113/159/s1101/b], Aug. 8, 2014, [128 Stat. 1843][/us/stat/128/1843]; [Pub. L. 114–21, title I, § 1101(b)][/us/pl/114/21/s1101/b], May 29, 2015, [129 Stat. 221][/us/stat/129/221].)
 
  __References in Text__ 
 
     The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(3), is [Pub. L. 96–480][/us/pl/96/480], Oct. 21, 1980, [94 Stat. 2311][/us/stat/94/2311], which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 15][/us/usc/t15/s3701] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (f)(1). [Pub. L. 114–21][/us/pl/114/21] substituted “and $2,082,192 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2014, and ending on July 31, 2015,” for “and $1,664,384 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2014, and ending on May 31, 2015,”.
 
     2014—Subsec. (f)(1). [Pub. L. 113–159][/us/pl/113/159] inserted “ending before October 1, 2014, and $1,664,384 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2014, and ending on May 31, 2015,” after “each fiscal year”.
 
@@ -465,9 +467,12 @@
 [/us/stat/126/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F739
 [/us/pl/113/159/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs1101%2Fb
 [/us/stat/128/1843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1843
+[/us/pl/114/21/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1101%2Fb
+[/us/stat/129/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F221
 [/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/stat/94/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2311
 [/us/usc/t15/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701
+[/us/pl/114/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21
 [/us/pl/113/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159
 [/us/pl/112/141/s31103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31103%2F1
 [/us/pl/112/141/s31103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31103%2F2
