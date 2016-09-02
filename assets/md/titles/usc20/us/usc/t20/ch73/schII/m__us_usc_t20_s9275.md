@@ -35,6 +35,10 @@
 
 ([Pub. L. 105–220, title V, § 505][/us/pl/105/220/s505], Aug. 7, 1998, [112 Stat. 1245][/us/stat/112/1245]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 401(18)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–412.)
 
+ __Repeal of Section__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably Jul
+
  __References in Text__ 
 
     Titles I, II, and III, referred to in subsecs. (a) and (b), are titles I, II, and III of [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 939][/us/stat/112/939], 1059, 1080. Title I is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. Title II, known as the Adult Education and Family Literacy Act, is classified principally to subchapter I (§ 9201 et seq.) of this chapter. Title III enacted section 49l–2 of this title and [section 4110B of Title 38][/us/usc/t38/s4110B], Veterans’ Benefits, amended sections 49a to 49c, 49d, 49e to 49g, 49j, 49k, 633a, and 791 of this title, [section 7103 of Title 5][/us/usc/t5/s7103], Government Organization and Employees, [section 2311 of Title 19][/us/usc/t19/s2311], Customs Duties, and sections 655a, 2000e–16, and 3056 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under sections 49a, 633a, and 2701 of this title. For complete classification of titles I, II, and III to the Code, see Short Title note set out under [section 9201 of this title][/us/usc/t20/s9201] and Tables.
@@ -50,6 +54,10 @@
     1998—Subsec. (a). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 401(18)(A)\], substituted “under title I, II, or III or this subchapter” for “in this Act”.
 
     Subsec. (b)(1), (2). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 401(18)(B)\], substituted “under title I, II, or III or this subchapter” for “under this Act”.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -68,6 +76,8 @@
 [/us/stat/112/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1245
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F939
 [/us/usc/t38/s4110B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4110B
@@ -81,5 +91,7 @@
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

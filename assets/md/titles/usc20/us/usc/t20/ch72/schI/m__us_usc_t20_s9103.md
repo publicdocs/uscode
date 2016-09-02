@@ -113,7 +113,11 @@
 
                 The disapproval of an application by the Director shall not be construed to mean, and shall not be considered as evidence that, the project for which the applicant requested financial assistance is or is not obscene.
 
-([Pub. L. 94–462, title II, § 204][/us/pl/94/462/s204], as added [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VII, § 702\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–294; amended [Pub. L. 108–81, title I, § 103][/us/pl/108/81/s103], Sept. 25, 2003, [117 Stat. 992][/us/stat/117/992]; [Pub. L. 111–340, title I, § 102][/us/pl/111/340/s102], Dec. 22, 2010, [124 Stat. 3595][/us/stat/124/3595].)
+([Pub. L. 94–462, title II, § 204][/us/pl/94/462/s204], as added [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VII, § 702\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–294; amended [Pub. L. 108–81, title I, § 103][/us/pl/108/81/s103], Sept. 25, 2003, [117 Stat. 992][/us/stat/117/992]; [Pub. L. 111–340, title I, § 102][/us/pl/111/340/s102], Dec. 22, 2010, [124 Stat. 3595][/us/stat/124/3595]; [Pub. L. 113–128, title V, § 512(t)(1)][/us/pl/113/128/s512/t/1], July 22, 2014, [128 Stat. 1712][/us/stat/128/1712].)
+
+ __Amendment of Subsection (f)(3)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(t)(1), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1712, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (f)(3) of this section is amended by striking “activities under the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.) (including activities under section 134(c) of such Act) ([29 U.S.C. 2864(c)][/us/usc/t29/s2864/c])” and inserting “activities under the Workforce Innovation and Opportunity Act (including activities under section 121(e) of such Act))”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -129,6 +133,8 @@
 
  __Amendments__ 
 
+    2014—Subsec. (f)(3). [Pub. L. 113–128][/us/pl/113/128] substituted “activities under the Workforce Innovation and Opportunity Act (including activities under section 121(e) of such Act))” for “activities under the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.) (including activities under section 134(c) of such Act) ([29 U.S.C. 2864(c)][/us/usc/t29/s2864/c])”.
+
     2010—Subsec. (c). [Pub. L. 111–340, § 102(1)][/us/pl/111/340/s102/1], added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Director shall perform such duties and exercise such powers as may be prescribed by law, including awarding financial assistance for activities described in this chapter.”
 
     Subsecs. (e) to (g). [Pub. L. 111–340, § 102(3)][/us/pl/111/340/s102/3], added subsecs. (e) to (g) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: “The Director shall ensure coordination of the policies and activities of the Institute with the policies and activities of other agencies and offices of the Federal Government having interest in and responsibilities for the improvement of museums and libraries and information services. Where appropriate, the Director shall ensure that activities under subchapter II of this chapter are coordinated with activities under [section 6383 of this title][/us/usc/t20/s6383].” Former subsecs. (f) and (g) redesignated (h) and (i), respectively.
@@ -138,6 +144,10 @@
     2003—Subsec. (e). [Pub. L. 108–81, § 103(1)][/us/pl/108/81/s103/1], inserted at end “Where appropriate, the Director shall ensure that activities under subchapter II of this chapter are coordinated with activities under [section 6383 of this title][/us/usc/t20/s6383].”
 
     Subsecs. (f), (g). [Pub. L. 108–81, § 103(2)][/us/pl/108/81/s103/2], added subsecs. (f) and (g).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Service of Individuals Serving on__  __September 30, 1996__ 
 
@@ -163,6 +173,12 @@
 [/us/stat/117/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F992
 [/us/pl/111/340/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs102
 [/us/stat/124/3595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3595
+[/us/pl/113/128/s512/t/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Ft%2F1
+[/us/stat/128/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1712
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
 [/us/pl/94/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F499
@@ -174,6 +190,9 @@
 [/us/usc/t20/s963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs963
 [/us/pl/94/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
 [/us/pl/111/340/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs102%2F1
 [/us/pl/111/340/s102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs102%2F3
 [/us/usc/t20/s6383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6383
@@ -181,6 +200,7 @@
 [/us/pl/108/81/s103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs103%2F1
 [/us/usc/t20/s6383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6383
 [/us/pl/108/81/s103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs103%2F2
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
 [/us/pl/108/81/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs505%2Fb

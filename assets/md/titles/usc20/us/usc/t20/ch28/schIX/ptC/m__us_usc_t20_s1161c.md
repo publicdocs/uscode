@@ -157,13 +157,39 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
-([Pub. L. 89–329, title VIII, § 803][/us/pl/89/329/s803], as added [Pub. L. 110–315, title VIII, § 801][/us/pl/110/315/s801], Aug. 14, 2008, [122 Stat. 3382][/us/stat/122/3382].)
+([Pub. L. 89–329, title VIII, § 803][/us/pl/89/329/s803], as added [Pub. L. 110–315, title VIII, § 801][/us/pl/110/315/s801], Aug. 14, 2008, [122 Stat. 3382][/us/stat/122/3382]; amended [Pub. L. 113–128, title V, § 512(n)(5)][/us/pl/113/128/s512/n/5], July 22, 2014, [128 Stat. 1710][/us/stat/128/1710].)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(n)(5), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1710, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended:
+
+    (1) in subsection (i)(1), by striking “for changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 and the Workforce Investment Act of 1998 (including titles I and II), to help create and sustain business and industry workforce partnerships at institutions of higher education” and inserting “for changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 and the Workforce Innovation and Opportunity Act (including titles I and II), to help create and sustain business and industry workforce partnerships at institutions of higher education”; and
+
+    (2) in subsection (j)(1)—
+
+    (A) in subparagraph (A)(ii), by striking “local board (as such term is defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801]))” and inserting “local board (as such term is defined in section 3 of the Workforce Innovation and Opportunity Act)”; and
+
+    (B) in subparagraph (B), by striking “a State board (as such term is defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801]))” and inserting “a State board (as such term is defined in section 3 of the Workforce Innovation and Opportunity Act)”.
+
+    See 2014 Amendment notes below.
 
  __References in Text__ 
 
     The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (i)(1), is [Pub. L. 88–210][/us/pl/88/210], Dec. 18, 1963, [77 Stat. 403][/us/stat/77/403], as amended generally by [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 683][/us/stat/120/683], which is classified generally to chapter 44 (§ 2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of this title][/us/usc/t20/s2301] and Tables.
 
     The Workforce Investment Act of 1998, referred to in subsec. (i)(1), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], which enacted chapter 73 (§ 9201 et seq.) of this title, and chapter 30 (§ 2801 et seq.) of Title 29, Labor, and enacted, amended, and repealed numerous other sections and notes in the Code. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29. Title II of the Act is classified generally to subchapter I (§ 9201 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title][/us/usc/t20/s9201] and Tables.
+
+ __Amendments__ 
+
+    2014—Subsec. (i)(1). [Pub. L. 113–128, § 512(n)(5)(A)][/us/pl/113/128/s512/n/5/A], substituted “for changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 and the Workforce Innovation and Opportunity Act (including titles I and II), to help create and sustain business and industry workforce partnerships at institutions of higher education” for “for changes to this chapter and part C of subchapter I of chapter 34 of title 42 and related Acts, such as the Carl D. Perkins Career and Technical Education Act of 2006 and the Workforce Investment Act of 1998 (including titles I and II), to help create and sustain business and industry workforce partnerships at institutions of higher education”.
+
+    Subsec. (j)(1)(A)(ii). [Pub. L. 113–128, § 512(n)(5)(B)(i)][/us/pl/113/128/s512/n/5/B/i], substituted “local board (as such term is defined in section 3 of the Workforce Innovation and Opportunity Act)” for “local board (as such term is defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801]))”.
+
+    Subsec. (j)(1)(B). [Pub. L. 113–128, § 512(n)(5)(B)(ii)][/us/pl/113/128/s512/n/5/B/ii], substituted “a State board (as such term is defined in section 3 of the Workforce Innovation and Opportunity Act)” for “a State board (as such term is defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801]))”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -181,6 +207,12 @@
 [/us/pl/89/329/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs803
 [/us/pl/110/315/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs801
 [/us/stat/122/3382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3382
+[/us/pl/113/128/s512/n/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fn%2F5
+[/us/stat/128/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1710
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/88/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210
 [/us/stat/77/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F403
 [/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
@@ -189,5 +221,13 @@
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
 [/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128/s512/n/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fn%2F5%2FA
+[/us/pl/113/128/s512/n/5/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fn%2F5%2FB%2Fi
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/pl/113/128/s512/n/5/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fn%2F5%2FB%2Fii
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

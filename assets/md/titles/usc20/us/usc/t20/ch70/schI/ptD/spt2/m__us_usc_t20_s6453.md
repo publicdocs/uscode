@@ -49,7 +49,11 @@
 
     (13) as appropriate, a description of the steps participating schools will take to find alternative placements for children and youth interested in continuing their education but unable to participate in a regular public school program.
 
-([Pub. L. 89–10, title I, § 1423][/us/pl/89/10/s1423], as added [Pub. L. 107–110, title I, § 101][/us/pl/107/110/s101], Jan. 8, 2002, [115 Stat. 1588][/us/stat/115/1588].)
+([Pub. L. 89–10, title I, § 1423][/us/pl/89/10/s1423], as added [Pub. L. 107–110, title I, § 101][/us/pl/107/110/s101], Jan. 8, 2002, [115 Stat. 1588][/us/stat/115/1588]; amended [Pub. L. 113–128, title V, § 512(i)(3)][/us/pl/113/128/s512/i/3], July 22, 2014, [128 Stat. 1708][/us/stat/128/1708].)
+
+ __Amendment of Paragraph (9)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(i)(3), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1708, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], paragraph (9) of this section is amended by striking “a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of [Public Law 105–220][/us/pl/105/220]” and inserting “a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -60,6 +64,14 @@
  __Prior Provisions__ 
 
     A prior section 6453, [Pub. L. 89–10, title I, § 1423][/us/pl/89/10/s1423], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3598][/us/stat/108/3598]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(18)(C), (f)(13)(C)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–422, 2681–431, related to local educational agency applications, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
+
+ __Amendments__ 
+
+    2014—Par. (9). [Pub. L. 113–128][/us/pl/113/128] substituted “a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of the Workforce Innovation and Opportunity Act” for “a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of [Public Law 105–220][/us/pl/105/220]”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -74,6 +86,11 @@
 [/us/pl/89/10/s1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1423
 [/us/pl/107/110/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs101
 [/us/stat/115/1588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1588
+[/us/pl/113/128/s512/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fi%2F3
+[/us/stat/128/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1708
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
@@ -87,5 +104,10 @@
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

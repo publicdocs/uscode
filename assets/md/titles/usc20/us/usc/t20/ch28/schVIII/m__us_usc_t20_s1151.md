@@ -147,6 +147,10 @@
 
 ([Pub. L. 105–244, title VIII, § 821][/us/pl/105/244/s821], Oct. 7, 1998, [112 Stat. 1813][/us/stat/112/1813]; [Pub. L. 110–315, title IX, § 932][/us/pl/110/315/s932], Aug. 14, 2008, [122 Stat. 3456][/us/stat/122/3456]; [Pub. L. 111–39, title VIII, § 802(a)(1)][/us/pl/111/39/s802/a/1], July 1, 2009, [123 Stat. 1956][/us/stat/123/1956].)
 
+ __Repeal of Section__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(b), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.
+
  __References in Text__ 
 
     The Jacob Wetterling Crimes Against Children and Sexually Violent Offender Registration Act, referred to in subsec. (e)(3)(A), is subtitle A of title XVII of [Pub. L. 103–322][/us/pl/103/322], Sept. 13, 1994, [108 Stat. 2038][/us/stat/108/2038], which was classified generally to subchapter VI (§ 14071 et seq.) of chapter 136 of Title 42, The Public Health and Welfare, prior to repeal by [Pub. L. 109–248, title I, § 129(a)][/us/pl/109/248/s129/a], July 27, 2006, [120 Stat. 600][/us/stat/120/600].
@@ -160,6 +164,10 @@
     2009—Subsec. (h). [Pub. L. 111–39][/us/pl/111/39] amended subsec. (h) generally. Prior to amendment, text read as follows: “From the funds appropriated pursuant to subsection (i) for each fiscal year, the Secretary shall allot to each State an amount that bears the same relationship to such funds as the total number of students eligible under subsection (e) in such State bears to the total number of such students in all States.”
 
     2008—[Pub. L. 110–315][/us/pl/110/315] amended section generally. Prior to amendment, section consisted of subsecs. (a) to (j) relating to grants to States for workplace and community transition training for incarcerated youth offenders.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -180,12 +188,16 @@
 [/us/stat/122/3456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3456
 [/us/pl/111/39/s802/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs802%2Fa%2F1
 [/us/stat/123/1956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1956
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/stat/108/2038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2038
 [/us/pl/109/248/s129/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs129%2Fa
 [/us/stat/120/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F600
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3

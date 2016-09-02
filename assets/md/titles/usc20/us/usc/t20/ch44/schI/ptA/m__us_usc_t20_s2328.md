@@ -99,7 +99,17 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 2007 through 2012.
 
-([Pub. L. 88–210, title I, § 118][/us/pl/88/210/s118], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 713][/us/stat/120/713].)
+([Pub. L. 88–210, title I, § 118][/us/pl/88/210/s118], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 713][/us/stat/120/713]; amended [Pub. L. 113–128, title V, § 512(e)(1)][/us/pl/113/128/s512/e/1], July 22, 2014, [128 Stat. 1706][/us/stat/128/1706].)
+
+ __Amendment of Subsection (d)(2)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(e)(1), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1706, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (d)(2) of this section is amended:
+
+    (1) in the paragraph heading, by striking “Public law 105–220” and inserting “Workforce Innovation and Opportunity Act”; and
+
+    (2) in the text, by striking “functions and activities carried out under [Public Law 105–220][/us/pl/105/220]” and inserting “functions and activities carried out under the Workforce Innovation and Opportunity Act”.
+
+    See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -133,6 +143,14 @@
 
     Section 2336, [Pub. L. 88–210, title II, § 225][/us/pl/88/210/s225], as added [Pub. L. 101–392, title II, § 201][/us/pl/101/392/s201], Sept. 25, 1990, [104 Stat. 778][/us/stat/104/778], related to programs for criminal offenders.
 
+ __Amendments__ 
+
+    2014—Subsec. (d)(2). [Pub. L. 113–128][/us/pl/113/128] substituted “Workforce Innovation and Opportunity Act” for “[Public Law 105–220][/us/pl/105/220]” in heading and “functions and activities carried out under the Workforce Innovation and Opportunity Act” for “functions and activities carried out under [Public Law 105–220][/us/pl/105/220]” in text.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t20/ch44/schI/ptA/m__us_usc_t20_s2327.md) | [Next](./../../../../../..//us/usc/t20/ch44/schI/ptB/m__us_usc_t20_ch44_schI_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2328)
@@ -151,6 +169,11 @@
 [/us/pl/88/210/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs118
 [/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
 [/us/stat/120/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F713
+[/us/pl/113/128/s512/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fe%2F1
+[/us/stat/128/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1706
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
@@ -203,5 +226,11 @@
 [/us/pl/88/210/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs225
 [/us/pl/101/392/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2Fs201
 [/us/stat/104/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F778
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

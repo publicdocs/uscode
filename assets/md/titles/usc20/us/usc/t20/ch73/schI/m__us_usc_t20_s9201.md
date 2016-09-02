@@ -25,9 +25,17 @@
 
 ([Pub. L. 105–220, title II, § 202][/us/pl/105/220/s202], Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059].)
 
+ __Repeal of Section__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.
+
  __References in Text__ 
 
     This subchapter, referred to in text, was in the original “this title”, meaning title II of [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], known as the Adult Education and Family Literacy Act. For complete classification of title II to the Code, see Short Title note set out below and Tables.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date__ 
 
@@ -35,15 +43,21 @@
 
 > “Except as otherwise provided in this Act \[see Tables for classification\], this Act and the amendments made by this Act, shall take effect on the date of the enactment of this Act \[Aug. 7, 1998\].”
 
+    \[[Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], [section 507 of Pub. L. 105–220][/us/pl/105/220/s507], set out above, is repealed.\]
+
  __Short Title__ 
 
 [Pub. L. 105–220, § 1(a)][/us/pl/105/220/s1/a], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Workforce Investment Act of 1998’.”
 
+    \[[Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], [section 1(a) of Pub. L. 105–220][/us/pl/105/220/s1/a], set out above, is repealed.\]
+
 [Pub. L. 105–220, title II, § 201][/us/pl/105/220/s201], Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], provided that: 
 
 > “This title \[enacting this subchapter, amending sections 6362, 6365, 6366, 6813, and 7881 of this title and [section 3013 of Title 42][/us/usc/t42/s3013], The Public Health and Welfare, and repealing sections 1201 to 1213d of this title and provisions set out as notes under sections 1201, 1213c, 2963, and 2966 of this title\] may be cited as the ‘Adult Education and Family Literacy Act’.”
+
+    \[[Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], [section 201 of Pub. L. 105–220][/us/pl/105/220/s201], set out above, is repealed.\]
 
  __Ex. Ord. No. 13445. Strengthening Adult Education__ 
 
@@ -140,15 +154,28 @@
 
 [/us/pl/105/220/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs202
 [/us/stat/112/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1059
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1059
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/105/220/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs507
 [/us/stat/112/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1247
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/pl/105/220/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs507
 [/us/pl/105/220/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs1%2Fa
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/pl/105/220/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs1%2Fa
 [/us/pl/105/220/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs201
 [/us/stat/112/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1059
 [/us/usc/t42/s3013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3013
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/pl/105/220/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs201
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 
 

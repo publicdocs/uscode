@@ -185,7 +185,11 @@
 
         For the purpose of making grants and contracts under this section, there are authorized to be appropriated $75,000,000 for fiscal year 2009 and such sums as may be necessary for the each of the five succeeding fiscal years.
 
-([Pub. L. 89–329, title IV, § 418A][/us/pl/89/329/s418A], as added [Pub. L. 99–498, title IV, § 401(a)][/us/pl/99/498/s401/a], Oct. 17, 1986, [100 Stat. 1341][/us/stat/100/1341]; amended [Pub. L. 100–50, § 7][/us/pl/100/50/s7], June 3, 1987, [101 Stat. 340][/us/stat/101/340]; [Pub. L. 102–325, title IV, § 405][/us/pl/102/325/s405], July 23, 1992, [106 Stat. 507][/us/stat/106/507]; [Pub. L. 103–382, title III, § 391(e)(1)][/us/pl/103/382/s391/e/1], (2), Oct. 20, 1994, [108 Stat. 4022][/us/stat/108/4022]; [Pub. L. 105–244, title IV, § 408][/us/pl/105/244/s408], Oct. 7, 1998, [112 Stat. 1667][/us/stat/112/1667]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(15)(A), (f)(12)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–421, 2681–431; [Pub. L. 110–315, title IV, § 408][/us/pl/110/315/s408], Aug. 14, 2008, [122 Stat. 3223][/us/stat/122/3223].)
+([Pub. L. 89–329, title IV, § 418A][/us/pl/89/329/s418A], as added [Pub. L. 99–498, title IV, § 401(a)][/us/pl/99/498/s401/a], Oct. 17, 1986, [100 Stat. 1341][/us/stat/100/1341]; amended [Pub. L. 100–50, § 7][/us/pl/100/50/s7], June 3, 1987, [101 Stat. 340][/us/stat/101/340]; [Pub. L. 102–325, title IV, § 405][/us/pl/102/325/s405], July 23, 1992, [106 Stat. 507][/us/stat/106/507]; [Pub. L. 103–382, title III, § 391(e)(1)][/us/pl/103/382/s391/e/1], (2), Oct. 20, 1994, [108 Stat. 4022][/us/stat/108/4022]; [Pub. L. 105–244, title IV, § 408][/us/pl/105/244/s408], Oct. 7, 1998, [112 Stat. 1667][/us/stat/112/1667]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(15)(A), (f)(12)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–421, 2681–431; [Pub. L. 110–315, title IV, § 408][/us/pl/110/315/s408], Aug. 14, 2008, [122 Stat. 3223][/us/stat/122/3223]; [Pub. L. 113–128, title V, § 512(n)(1)][/us/pl/113/128/s512/n/1], July 22, 2014, [128 Stat. 1710][/us/stat/128/1710].)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(n)(1), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1710, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsections (b)(1)(B)(ii) and (c)(1)(A) of this section are amended by striking “[section 2912 of title 29][/us/usc/t29/s2912]” and inserting “[section 3222 of title 29][/us/usc/t29/s3222]”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -200,6 +204,8 @@
     A prior section 1070d–3, [Pub. L. 89–329, title IV, § 418B][/us/pl/89/329/s418B], as added [Pub. L. 94–482, title I, § 125][/us/pl/94/482/s125], Oct. 12, 1976, [90 Stat. 2097][/us/stat/90/2097], related to administration by States of Educational Information Centers program, prior to repeal by [Pub. L. 96–374, title I, § 101(b)][/us/pl/96/374/s101/b], Oct. 3, 1980, [94 Stat. 1383][/us/stat/94/1383], eff. Oct. 1, 1980.
 
  __Amendments__ 
+
+    2014—Subsecs. (b)(1)(B)(ii), (c)(1)(A). [Pub. L. 113–128][/us/pl/113/128] substituted “[section 3222 of title 29][/us/usc/t29/s3222]” for “[section 2912 of title 29][/us/usc/t29/s2912]”.
 
     2008—Subsec. (b)(1)(B)(i). [Pub. L. 110–315, § 408(1)(A)][/us/pl/110/315/s408/1/A], substituted “immediate family” for “parents”.
 
@@ -265,6 +271,10 @@
 
     1987—Subsec. (g). [Pub. L. 100–50][/us/pl/100/50] amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “There is authorized to be appropriated for this part $9,000,000 for fiscal year 1987, and such sums as may be necessary for the 4 succeeding fiscal years.”
 
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+
  __Effective Date of 1998 Amendments__ 
 
     Amendment by section 101(f) \[title VIII, § 405(d)(15)(A)\] of [Pub. L. 105–277][/us/pl/105/277] effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, § 405(f)(12)(A)\] of [Pub. L. 105–277][/us/pl/105/277] effective July 1, 2000, see section 101(f) \[title VIII, § 405(g)(1), (2)(B)\] of [Pub. L. 105–277][/us/pl/105/277], set out as a note under [section 3502 of Title 5][/us/usc/t5/s3502], Government Organization and Employees.
@@ -302,6 +312,12 @@
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/pl/110/315/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs408
 [/us/stat/122/3223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3223
+[/us/pl/113/128/s512/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fn%2F1
+[/us/stat/128/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1710
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2912
+[/us/usc/t29/s3222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3222
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
@@ -322,6 +338,9 @@
 [/us/stat/90/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2097
 [/us/pl/96/374/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs101%2Fb
 [/us/stat/94/1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1383
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/usc/t29/s3222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3222
+[/us/usc/t29/s2912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2912
 [/us/pl/110/315/s408/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs408%2F1%2FA
 [/us/pl/110/315/s408/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs408%2F1%2FB
 [/us/pl/110/315/s408/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs408%2F1%2FC
@@ -361,6 +380,9 @@
 [/us/pl/102/325/s405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs405%2Fc
 [/us/pl/102/325/s405/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs405%2Fd
 [/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277

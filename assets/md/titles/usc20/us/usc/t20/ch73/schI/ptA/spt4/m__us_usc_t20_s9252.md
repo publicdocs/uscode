@@ -213,6 +213,10 @@
 
 ([Pub. L. 105–220, title II, § 242][/us/pl/105/220/s242], Aug. 7, 1998, [112 Stat. 1073][/us/stat/112/1073]; [Pub. L. 110–154, § 1(c)(2)][/us/pl/110/154/s1/c/2], Dec. 21, 2007, [121 Stat. 1827][/us/stat/121/1827]; [Pub. L. 112–166, § 2(dd)][/us/pl/112/166/s2/dd], Aug. 10, 2012, [126 Stat. 1290][/us/stat/126/1290].)
 
+ __Repeal of Section__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.
+
  __References in Text__ 
 
     The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(3)(A), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27]. Titles I and VII of the Act are classified generally to subchapters I (§ 6301 et seq.) and VII (§ 7401 et seq.), respectively, of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title][/us/usc/t20/s6301] and Tables.
@@ -240,6 +244,10 @@
  __Change of Name__ 
 
     Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -271,6 +279,8 @@
 [/us/stat/121/1827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1827
 [/us/pl/112/166/s2/dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fdd
 [/us/stat/126/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1290
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
@@ -290,6 +300,8 @@
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/110/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/112/166/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs6%2Fa
 [/us/usc/t6/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs113

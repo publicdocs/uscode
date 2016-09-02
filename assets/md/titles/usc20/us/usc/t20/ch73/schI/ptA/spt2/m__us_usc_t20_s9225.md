@@ -59,6 +59,10 @@
 
 ([Pub. L. 105–220, title II, § 225][/us/pl/105/220/s225], Aug. 7, 1998, [112 Stat. 1069][/us/stat/112/1069]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 404(d)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–417.)
 
+ __Repeal of Section__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.
+
  __Prior Provisions__ 
 
     Provisions similar to this section were contained in [section 1204 of this title][/us/usc/t20/s1204] prior to repeal by [Pub. L. 105–220][/us/pl/105/220].
@@ -68,6 +72,10 @@
     1998—Subsec. (a). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 404(d)(1)\], substituted “and education” for “or education”.
 
     Subsec. (c). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 404(d)(2)\], substituted “within” for “with” before “5 years”.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -81,9 +89,13 @@
 [/us/stat/112/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1069
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/usc/t20/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1204
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

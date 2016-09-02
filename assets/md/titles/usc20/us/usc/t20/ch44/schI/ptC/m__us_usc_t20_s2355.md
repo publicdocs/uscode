@@ -169,7 +169,11 @@
 
         Each eligible recipient receiving funds under this part shall not use more than 5 percent of the funds for administrative costs associated with the administration of activities assisted under this section.
 
-([Pub. L. 88–210, title I, § 135][/us/pl/88/210/s135], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 734][/us/stat/120/734].)
+([Pub. L. 88–210, title I, § 135][/us/pl/88/210/s135], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 734][/us/stat/120/734]; amended [Pub. L. 113–128, title V, § 512(e)(6)][/us/pl/113/128/s512/e/6], July 22, 2014, [128 Stat. 1707][/us/stat/128/1707].)
+
+ __Amendment of Subsection (c)(16)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(e)(6), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1707, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (c)(16) of this section is amended by striking “such as through referral to the system established under [section 2841 of title 29][/us/usc/t29/s2841]” and inserting “such as through referral to the system established under [section 3151 of title 29][/us/usc/t29/s3151]”. See 2014 Amendment note below.
 
  __Prior Provisions__ 
 
@@ -182,6 +186,14 @@
     Section 2362, [Pub. L. 88–210, title III, § 312][/us/pl/88/210/s312], as added [Pub. L. 98–524, § 1][/us/pl/98/524/s1], Oct. 19, 1984, [98 Stat. 2458][/us/stat/98/2458]; amended [Pub. L. 99–159, title VII, § 706(c)][/us/pl/99/159/s706/c], Nov. 22, 1985, [99 Stat. 906][/us/stat/99/906]; [Pub. L. 101–392, title III, § 303][/us/pl/101/392/s303], Sept. 25, 1990, [104 Stat. 786][/us/stat/104/786], related to use of funds from consumer and homemaking education grants.
 
     Section 2363, [Pub. L. 88–210, title III, § 313][/us/pl/88/210/s313], as added [Pub. L. 98–524, § 1][/us/pl/98/524/s1], Oct. 19, 1984, [98 Stat. 2459][/us/stat/98/2459]; amended [Pub. L. 99–159, title VII, § 707][/us/pl/99/159/s707], Nov. 22, 1985, [99 Stat. 906][/us/stat/99/906]; [Pub. L. 101–392, title III, § 304][/us/pl/101/392/s304], Sept. 25, 1990, [104 Stat. 786][/us/stat/104/786], related to information dissemination and leadership.
+
+ __Amendments__ 
+
+    2014—Subsec. (c)(16). [Pub. L. 113–128][/us/pl/113/128] substituted “such as through referral to the system established under [section 3151 of title 29][/us/usc/t29/s3151]” for “such as through referral to the system established under [section 2841 of title 29][/us/usc/t29/s2841]”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -200,6 +212,12 @@
 [/us/pl/88/210/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs135
 [/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
 [/us/stat/120/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F734
+[/us/pl/113/128/s512/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fe%2F6
+[/us/stat/128/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1707
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2841
+[/us/usc/t29/s3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151
 [/us/pl/88/210/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs135
 [/us/pl/105/332/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs1%2Fb
 [/us/stat/112/3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3115
@@ -226,5 +244,11 @@
 [/us/stat/99/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F906
 [/us/pl/101/392/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2Fs304
 [/us/stat/104/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F786
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/usc/t29/s3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151
+[/us/usc/t29/s2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2841
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

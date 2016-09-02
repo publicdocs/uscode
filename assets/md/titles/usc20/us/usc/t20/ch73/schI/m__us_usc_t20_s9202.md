@@ -147,6 +147,10 @@
 
 ([Pub. L. 105–220, title II, § 203][/us/pl/105/220/s203], Aug. 7, 1998, [112 Stat. 1060][/us/stat/112/1060]; [Pub. L. 105–244, title I, § 102(d)(2)][/us/pl/105/244/s102/d/2], Oct. 7, 1998, [112 Stat. 1622][/us/stat/112/1622]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 404(a)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–416; [Pub. L. 107–110, title X, § 1076(s)][/us/pl/107/110/s1076/s], Jan. 8, 2002, [115 Stat. 2092][/us/stat/115/2092].)
 
+ __Repeal of Section__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.
+
  __Amendments__ 
 
     2002—Par. (13). [Pub. L. 107–110][/us/pl/107/110] substituted “section 7801” for “section 8801”.
@@ -154,6 +158,10 @@
     1998—[Pub. L. 105–277][/us/pl/105/277] made technical amendment to reference in original act which appears in text as reference to this subchapter.
 
     Par. (11). [Pub. L. 105–244][/us/pl/105/244] substituted “section 1001” for “section 1141”.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -183,9 +191,13 @@
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/pl/107/110/s1076/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1076%2Fs
 [/us/stat/115/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2092
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/107/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301

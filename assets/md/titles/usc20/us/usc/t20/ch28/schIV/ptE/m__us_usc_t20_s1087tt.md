@@ -31,13 +31,19 @@
 
         On a case-by-case basis, an eligible institution may refuse to certify a statement that permits a student to receive a loan under part B or C of this subchapter, or may certify a loan amount or make a loan that is less than the student’s determination of need (as determined under this part), if the reason for the action is documented and provided in written form to the student. No eligible institution shall discriminate against any borrower or applicant in obtaining a loan on the basis of race, national origin, religion, sex, marital status, age, or disability status.
 
-([Pub. L. 89–329, title IV, § 479A][/us/pl/89/329/s479A], as added [Pub. L. 100–50, § 14(26)][/us/pl/100/50/s14/26], June 3, 1987, [101 Stat. 352][/us/stat/101/352]; amended [Pub. L. 101–239, title II, § 2009][/us/pl/101/239/s2009], Dec. 19, 1989, [103 Stat. 2122][/us/stat/103/2122]; [Pub. L. 102–325, title IV, § 471(a)][/us/pl/102/325/s471/a], July 23, 1992, [106 Stat. 605][/us/stat/106/605]; [Pub. L. 103–208, § 2(g)(16)][/us/pl/103/208/s2/g/16], Dec. 20, 1993, [107 Stat. 2473][/us/stat/107/2473]; [Pub. L. 105–244, title IV, § 478][/us/pl/105/244/s478], Oct. 7, 1998, [112 Stat. 1731][/us/stat/112/1731]; [Pub. L. 110–84, title VI, § 603(a)][/us/pl/110/84/s603/a], Sept. 27, 2007, [121 Stat. 805][/us/stat/121/805]; [Pub. L. 110–315, title IV, § 472(a)][/us/pl/110/315/s472/a], Aug. 14, 2008, [122 Stat. 3269][/us/stat/122/3269].)
+([Pub. L. 89–329, title IV, § 479A][/us/pl/89/329/s479A], as added [Pub. L. 100–50, § 14(26)][/us/pl/100/50/s14/26], June 3, 1987, [101 Stat. 352][/us/stat/101/352]; amended [Pub. L. 101–239, title II, § 2009][/us/pl/101/239/s2009], Dec. 19, 1989, [103 Stat. 2122][/us/stat/103/2122]; [Pub. L. 102–325, title IV, § 471(a)][/us/pl/102/325/s471/a], July 23, 1992, [106 Stat. 605][/us/stat/106/605]; [Pub. L. 103–208, § 2(g)(16)][/us/pl/103/208/s2/g/16], Dec. 20, 1993, [107 Stat. 2473][/us/stat/107/2473]; [Pub. L. 105–244, title IV, § 478][/us/pl/105/244/s478], Oct. 7, 1998, [112 Stat. 1731][/us/stat/112/1731]; [Pub. L. 110–84, title VI, § 603(a)][/us/pl/110/84/s603/a], Sept. 27, 2007, [121 Stat. 805][/us/stat/121/805]; [Pub. L. 110–315, title IV, § 472(a)][/us/pl/110/315/s472/a], Aug. 14, 2008, [122 Stat. 3269][/us/stat/122/3269]; [Pub. L. 113–128, title V, § 512(n)(3)][/us/pl/113/128/s512/n/3], July 22, 2014, [128 Stat. 1710][/us/stat/128/1710].)
+
+ __Amendment of Subsection (a)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(n)(3), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1710, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a) of this section is amended by striking “a dislocated worker (as defined in [section 2801 of title 29][/us/usc/t29/s2801])” and inserting “a dislocated worker (as defined in [section 3102 of title 29][/us/usc/t29/s3102])”. See 2014 Amendment note below.
 
  __Prior Provisions__ 
 
     A prior section 1087tt, [Pub. L. 89–329, title IV, § 479A][/us/pl/89/329/s479A], as added [Pub. L. 99–498, title IV, § 406(a)][/us/pl/99/498/s406/a], Oct. 17, 1986, [100 Stat. 1472][/us/stat/100/1472], related to discretion of student financial aid administrators under this part, prior to repeal by [section 14(26) of Pub. L. 100–50][/us/pl/100/50/s14/26].
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–128][/us/pl/113/128] substituted “a dislocated worker (as defined in [section 3102 of title 29][/us/usc/t29/s3102])” for “a dislocated worker (as defined in [section 2801 of title 29][/us/usc/t29/s2801])”.
 
     2008—Subsec. (a). [Pub. L. 110–315][/us/pl/110/315] substituted “medical, dental, or nursing home expenses” for “medical or dental expenses”, inserted “or dependent care” after “child care” and “student or” before “family member who is a dislocated worker”, and substituted “In addition, nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted as limiting the authority of the student financial aid administrator in such cases (1) to request and use supplementary information about the financial status or personal circumstances of eligible applicants in selecting recipients and determining the amount of awards under this subchapter and part C of subchapter I of chapter 34 of title 42, or (2) to offer a dependent student financial assistance under [section 1078–8 of this title][/us/usc/t20/s1078–8] or a Federal Direct Unsubsidized Stafford Loan without requiring the parents of such student to file the financial aid form prescribed under [section 1090 of this title][/us/usc/t20/s1090] if the student financial aid administrator verifies that the parent or parents of such student have ended financial support of such student and refuse to file such form.” for “In addition, nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted as limiting the authority of the student financial aid administrator in such cases to request and use supplementary information about the financial status or personal circumstances of eligible applicants in selecting recipients and determining the amount of awards under this subchapter and part C of subchapter I of chapter 34 of title 42.”
 
@@ -52,6 +58,10 @@
     1992—[Pub. L. 102–325][/us/pl/102/325] amended section generally, revising and restating provisions of subsecs. (a) and (b) and striking out former subsec. (c) which related to asset adjustment as example.
 
     1989—Subsec. (a). [Pub. L. 101–239][/us/pl/101/239] amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted as limiting the authority of the student financial aid administrator, on the basis of adequate documentation, to make necessary adjustments to the cost of attendance and expected student or parent contribution (or both) to allow for treatment of individual students with special circumstances. In addition, nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted as limiting the authority of the student financial aid administrator to use supplementary information about the financial status or personal circumstance of eligible applicants in selecting recipients and determining the amount of awards under subparts 1 and 2 of part A and parts B and D of this subchapter and part C of subchapter I of chapter 34 of title 42.”
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2007 Amendment__ 
 
@@ -102,10 +112,19 @@
 [/us/stat/121/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F805
 [/us/pl/110/315/s472/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs472%2Fa
 [/us/stat/122/3269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3269
+[/us/pl/113/128/s512/n/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fn%2F3
+[/us/stat/128/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1710
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 [/us/pl/89/329/s479A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs479A
 [/us/pl/99/498/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs406%2Fa
 [/us/stat/100/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1472
 [/us/pl/100/50/s14/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F26
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t20/s1078–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%938
 [/us/usc/t20/s1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1090
@@ -119,6 +138,9 @@
 [/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/110/84/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2Fs603%2Fb
 [/us/stat/121/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F806
 [/us/pl/110/315/s472/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs472%2Fb

@@ -39,7 +39,11 @@
 
     (11) if appropriate, work with local businesses to develop training, curriculum-based youth entrepreneurship education, and mentoring programs for children and youth.
 
-([Pub. L. 89–10, title I, § 1425][/us/pl/89/10/s1425], as added [Pub. L. 107–110, title I, § 101][/us/pl/107/110/s101], Jan. 8, 2002, [115 Stat. 1589][/us/stat/115/1589].)
+([Pub. L. 89–10, title I, § 1425][/us/pl/89/10/s1425], as added [Pub. L. 107–110, title I, § 101][/us/pl/107/110/s101], Jan. 8, 2002, [115 Stat. 1589][/us/stat/115/1589]; amended [Pub. L. 113–128, title V, § 512(i)(4)][/us/pl/113/128/s512/i/4], July 22, 2014, [128 Stat. 1708][/us/stat/128/1708].)
+
+ __Amendment of Paragraph (9)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(i)(4), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1708, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], paragraph (9) of this section is amended by striking “coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of [Public Law 105–220][/us/pl/105/220],” and inserting “coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of the Workforce Innovation and Opportunity Act,”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -52,6 +56,14 @@
  __Prior Provisions__ 
 
     A prior section 6455, [Pub. L. 89–10, title I, § 1425][/us/pl/89/10/s1425], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3599][/us/stat/108/3599]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(18)(D), (f)(13)(D)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–422, 2681–431, related to program requirements for correctional facilities receiving funds, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
+
+ __Amendments__ 
+
+    2014—Par. (9). [Pub. L. 113–128][/us/pl/113/128] substituted “coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of the Workforce Innovation and Opportunity Act,” for “coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of [Public Law 105–220][/us/pl/105/220],”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -68,6 +80,11 @@
 [/us/pl/89/10/s1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1425
 [/us/pl/107/110/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs101
 [/us/stat/115/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1589
+[/us/pl/113/128/s512/i/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fi%2F4
+[/us/stat/128/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1708
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
@@ -84,5 +101,10 @@
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

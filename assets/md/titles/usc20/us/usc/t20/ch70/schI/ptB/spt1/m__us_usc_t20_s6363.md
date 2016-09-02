@@ -153,7 +153,19 @@
 
             If, before January 8, 2002, a State educational agency established a consortium, partnership, or any other similar body that was considered a reading and literacy partnership for purposes of part C of title II of this Act (as such part was in effect on January 8, 2002), that consortium, partnership, or body may be considered a reading and literacy partnership for purposes of this subsection consistent with the provisions of this subpart.
 
-([Pub. L. 89–10, title I, § 1203][/us/pl/89/10/s1203], as added [Pub. L. 107–110, title I, § 101][/us/pl/107/110/s101], Jan. 8, 2002, [115 Stat. 1543][/us/stat/115/1543]; amended [Pub. L. 110–154, § 1(c)(3)][/us/pl/110/154/s1/c/3], Dec. 21, 2007, [121 Stat. 1828][/us/stat/121/1828].)
+([Pub. L. 89–10, title I, § 1203][/us/pl/89/10/s1203], as added [Pub. L. 107–110, title I, § 101][/us/pl/107/110/s101], Jan. 8, 2002, [115 Stat. 1543][/us/stat/115/1543]; amended [Pub. L. 110–154, § 1(c)(3)][/us/pl/110/154/s1/c/3], Dec. 21, 2007, [121 Stat. 1828][/us/stat/121/1828]; [Pub. L. 113–128, title V, § 512(i)(1)][/us/pl/113/128/s512/i/1], July 22, 2014, [128 Stat. 1708][/us/stat/128/1708].)
+
+ __Amendment of Subsection (c)(2)(A)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(i)(1), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1708, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (c)(2)(A) of this section is amended:
+
+    (1) by striking “, in consultation with the National Institute for Literacy,”; and
+
+    (2) by striking clause (ii); and
+
+    (3) by redesignating clauses (iii) and (iv) as clauses (ii) and (iii), respectively.
+
+    See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -171,7 +183,13 @@
 
  __Amendments__ 
 
+    2014—Subsec. (c)(2)(A). [Pub. L. 113–128][/us/pl/113/128] struck out “, in consultation with the National Institute for Literacy,” after “The Secretary” in introductory provisions, redesignated subcls. (iii) and (iv) as (ii) and (iii), respectively, and struck out former cl. (ii) which read as follows: “three individuals selected by the National Institute for Literacy;”.
+
     2007—Subsec. (c)(2)(A)(iv). [Pub. L. 110–154][/us/pl/110/154] substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -198,6 +216,10 @@
 [/us/stat/115/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1543
 [/us/pl/110/154/s1/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154%2Fs1%2Fc%2F3
 [/us/stat/121/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1828
+[/us/pl/113/128/s512/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fi%2F1
+[/us/stat/128/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1708
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
@@ -222,6 +244,10 @@
 [/us/usc/t20/s2783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2783
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/110/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

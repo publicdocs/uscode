@@ -51,6 +51,10 @@
 
 ([Pub. L. 105–220, title V, § 503][/us/pl/105/220/s503], Aug. 7, 1998, [112 Stat. 1244][/us/stat/112/1244]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 404(f)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–417; [Pub. L. 106–246, div. B, title II, § 2403(a)(1)][/us/pl/106/246/s2403/a/1], July 13, 2000, [114 Stat. 555][/us/stat/114/555].)
 
+ __Repeal of Section__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.
+
  __References in Text__ 
 
     Title I, referred to in subsecs. (a) and (b)(2)(C), is title I of [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 939][/us/stat/112/939], which is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of title I to the Code, see Tables.
@@ -66,6 +70,10 @@
     Subsec. (d). [Pub. L. 106–246, § 2403(a)(1)(B)][/us/pl/106/246/s2403/a/1/B], added subsec. (d).
 
     1998—Subsec. (a). [Pub. L. 105–277][/us/pl/105/277] substituted “adjusted” for “expected” before “levels of performance for title II”.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -93,6 +101,8 @@
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/pl/106/246/s2403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246%2Fs2403%2Fa%2F1
 [/us/stat/114/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F555
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F939
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
@@ -110,5 +120,7 @@
 [/us/usc/t20/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2301
 [/us/pl/106/246/s2403/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246%2Fs2403%2Fa%2F1%2FB
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

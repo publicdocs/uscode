@@ -89,7 +89,11 @@
 
     (15) provide for an independent evaluation of the program, to be used for program improvement.
 
-([Pub. L. 89–10, title I, § 1235][/us/pl/89/10/s1235], as added [Pub. L. 107–110, title I, § 101][/us/pl/107/110/s101], Jan. 8, 2002, [115 Stat. 1560][/us/stat/115/1560].)
+([Pub. L. 89–10, title I, § 1235][/us/pl/89/10/s1235], as added [Pub. L. 107–110, title I, § 101][/us/pl/107/110/s101], Jan. 8, 2002, [115 Stat. 1560][/us/stat/115/1560]; amended [Pub. L. 113–128, title V, § 512(i)(2)][/us/pl/113/128/s512/i/2], July 22, 2014, [128 Stat. 1708][/us/stat/128/1708].)
+
+ __Amendment of Paragraph (9)(B)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(i)(2), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1708, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], paragraph (9)(B) of this section is amended by striking “any relevant programs under the Adult Education and Family Literacy Act, the Individuals with Disabilities Education Act, and title I of the Workforce Investment Act of 1998” and inserting “any relevant programs under the Adult Education and Family Literacy Act, the Individuals with Disabilities Education Act, and title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -98,6 +102,14 @@
     The Individuals with Disabilities Education Act, referred to in par. (9)(B), is title VI of [Pub. L. 91–230][/us/pl/91/230], Apr. 13, 1970, [84 Stat. 175][/us/stat/84/175], as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title][/us/usc/t20/s1400] and Tables.
 
     The Workforce Investment Act of 1998, referred to in par. (9)(B), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of this title][/us/usc/t20/s9201] and Tables.
+
+ __Amendments__ 
+
+    2014—Par. (9)(B). [Pub. L. 113–128][/us/pl/113/128] substituted “any relevant programs under the Adult Education and Family Literacy Act, the Individuals with Disabilities Education Act, and title I of the Workforce Innovation and Opportunity Act” for “any relevant programs under the Adult Education and Family Literacy Act, the Individuals with Disabilities Education Act, and title I of the Workforce Investment Act of 1998”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -112,6 +124,10 @@
 [/us/pl/89/10/s1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1235
 [/us/pl/107/110/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs101
 [/us/stat/115/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1560
+[/us/pl/113/128/s512/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fi%2F2
+[/us/stat/128/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1708
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1059
 [/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
@@ -121,5 +137,9 @@
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
 [/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

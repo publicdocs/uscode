@@ -95,6 +95,10 @@
 
 ([Pub. L. 105–220, title V, § 501][/us/pl/105/220/s501], Aug. 7, 1998, [112 Stat. 1242][/us/stat/112/1242]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 401(17)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–412; [Pub. L. 109–270, § 2(h)(7)][/us/pl/109/270/s2/h/7]–(9), Aug. 12, 2006, [120 Stat. 748][/us/stat/120/748]; [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (2)(R), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (2)(R), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858.)
 
+ __Repeal of Section__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.
+
  __References in Text__ 
 
     The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsecs. (b)(2)(A), (B) and (d)(2)(B), is [Pub. L. 88–210][/us/pl/88/210], Dec. 18, 1963, [77 Stat. 403][/us/stat/77/403], as amended generally by [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 683][/us/stat/120/683], which is classified generally to chapter 44 (§ 2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of this title][/us/usc/t20/s2301] and Tables.
@@ -135,6 +139,10 @@
 
     1998—Subsec. (b)(1). [Pub. L. 105–277][/us/pl/105/277] inserted at end “For purposes of this paragraph, the activities and programs described in subparagraphs (A) and (B) of paragraph (2) shall not be considered to be 2 or more activities or programs for purposes of the unified plan. Such activities or programs shall be considered to be 1 activity or program.”
 
+ __Effective Date of Repeal__ 
+
+    Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+
  __Effective Date of 2008 Amendment__ 
 
     Amendment of this section and repeal of [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008, the date of enactment of [Pub. L. 110–234][/us/pl/110/234], except as otherwise provided, see [section 4 of Pub. L. 110–246][/us/pl/110/246/s4], set out as an Effective Date note under [section 8701 of Title 7][/us/usc/t7/s8701], Agriculture.
@@ -174,6 +182,8 @@
 [/us/stat/122/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1096
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/88/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210
 [/us/stat/77/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F403
 [/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
@@ -213,6 +223,8 @@
 [/us/pl/109/270/s2/h/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs2%2Fh%2F8%2FA
 [/us/pl/109/270/s2/h/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs2%2Fh%2F9
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

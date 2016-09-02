@@ -55,6 +55,10 @@
 
 ([Pub. L. 105–220, title V, § 506][/us/pl/105/220/s506], Aug. 7, 1998, [112 Stat. 1246][/us/stat/112/1246]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 401(19)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–412; [Pub. L. 105–332, § 4(2)][/us/pl/105/332/s4/2], Oct. 31, 1998, [112 Stat. 3126][/us/stat/112/3126].)
 
+ __Repeal of Section__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.
+
  __References in Text__ 
 
     The Job Training Partnership Act, referred to in subsecs. (a) and (d), is [Pub. L. 97–300][/us/pl/97/300], Oct. 13, 1982, [96 Stat. 1322][/us/stat/96/1322], as amended, which was classified generally to chapter 19 (§ 1501 et seq.) of Title 29, Labor, prior to repeal by [Pub. L. 105–220, title I, § 199(b)(2)][/us/pl/105/220/s199/b/2], (c)(2)(B), Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], effective July 1, 2000. For complete classification of this Act to the Code, see Tables.
@@ -73,6 +77,10 @@
 
     Subsec. (d)(2). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 401(19)(B)\], inserted “planning authorized under” after “carry out” in two places and substituted “the planning purposes” for “the purposes”.
 
+ __Effective Date of Repeal__ 
+
+    Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t20/ch73/schII/m__us_usc_t20_s9275.md) | [Next](./../../../../..//us/usc/t20/ch74/m__us_usc_t20_ch74.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9276)
@@ -90,6 +98,8 @@
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/pl/105/332/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs4%2F2
 [/us/stat/112/3126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3126
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/97/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300
 [/us/stat/96/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1322
 [/us/pl/105/220/s199/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs199%2Fb%2F2
@@ -107,5 +117,7 @@
 [/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

@@ -39,7 +39,11 @@
 
         For the purposes of this section, the term “additional funds” does not include funds used as matching funds.
 
-([Pub. L. 88–210, title III, § 321][/us/pl/88/210/s321], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 745][/us/stat/120/745].)
+([Pub. L. 88–210, title III, § 321][/us/pl/88/210/s321], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 745][/us/stat/120/745]; amended [Pub. L. 113–128, title V, § 512(e)(7)][/us/pl/113/128/s512/e/7], July 22, 2014, [128 Stat. 1707][/us/stat/128/1707].)
+
+ __Amendment of Subsection (b)(1)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(e)(7), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1707, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (b)(1) of this section is amended by striking “Chapters 4 and 5 of subtitle B of title I of [Public Law 105–220][/us/pl/105/220]” and inserting “Chapters 2 and 3 of subtitle B of title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -59,6 +63,14 @@
 
     Another prior [section 321 of Pub. L. 88–210][/us/pl/88/210/s321] was classified to [section 2371 of this title][/us/usc/t20/s2371], prior to repeal by [Pub. L. 101–392][/us/pl/101/392].
 
+ __Amendments__ 
+
+    2014—Subsec. (b)(1). [Pub. L. 113–128][/us/pl/113/128] substituted “Chapters 2 and 3 of subtitle B of title I of the Workforce Innovation and Opportunity Act” for “Chapters 4 and 5 of subtitle B of title I of [Public Law 105–220][/us/pl/105/220]”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t20/ch44/schIII/ptB/m__us_usc_t20_ch44_schIII_ptB.md) | [Next](./../../../../../..//us/usc/t20/ch44/schIII/ptB/m__us_usc_t20_s2412.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2411)
@@ -72,6 +84,11 @@
 [/us/pl/88/210/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs321
 [/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
 [/us/stat/120/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F745
+[/us/pl/113/128/s512/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fe%2F7
+[/us/stat/128/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1707
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
@@ -97,5 +114,10 @@
 [/us/pl/88/210/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs321
 [/us/usc/t20/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2371
 [/us/pl/101/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

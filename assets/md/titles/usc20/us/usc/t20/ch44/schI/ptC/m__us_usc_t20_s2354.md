@@ -79,11 +79,23 @@
 
             (B) the transition to teaching from business and industry.
 
-([Pub. L. 88–210, title I, § 134][/us/pl/88/210/s134], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 732][/us/stat/120/732].)
+([Pub. L. 88–210, title I, § 134][/us/pl/88/210/s134], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 732][/us/stat/120/732]; amended [Pub. L. 113–128, title V, § 512(e)(5)][/us/pl/113/128/s512/e/5], July 22, 2014, [128 Stat. 1707][/us/stat/128/1707].)
+
+ __Amendment of Subsection (b)(5)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(e)(5), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1707, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (b)(5) of this section is amended by striking “entities participating in activities described in [section 2832 of title 29][/us/usc/t29/s2832] (if applicable)” and inserting “entities participating in activities described in [section 3122 of title 29][/us/usc/t29/s3122] (if applicable)”. See 2014 Amendment note below.
 
  __Prior Provisions__ 
 
     A prior section 2354, [Pub. L. 88–210, title I, § 134][/us/pl/88/210/s134], as added [Pub. L. 105–332, § 1(b)][/us/pl/105/332/s1/b], Oct. 31, 1998, [112 Stat. 3114][/us/stat/112/3114], related to local plan for vocational and technical education programs, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
+
+ __Amendments__ 
+
+    2014—Subsec. (b)(5). [Pub. L. 113–128][/us/pl/113/128] substituted “entities participating in activities described in [section 3122 of title 29][/us/usc/t29/s3122] (if applicable)” for “entities participating in activities described in [section 2832 of title 29][/us/usc/t29/s2832] (if applicable)”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -102,9 +114,21 @@
 [/us/pl/88/210/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs134
 [/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
 [/us/stat/120/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F732
+[/us/pl/113/128/s512/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fe%2F5
+[/us/stat/128/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1707
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2832
+[/us/usc/t29/s3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3122
 [/us/pl/88/210/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs134
 [/us/pl/105/332/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs1%2Fb
 [/us/stat/112/3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3114
 [/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/usc/t29/s3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3122
+[/us/usc/t29/s2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2832
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

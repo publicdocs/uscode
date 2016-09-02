@@ -261,7 +261,11 @@
 
         The term “special combat pay” means pay received by a member of the Armed Forces because of exposure to a hazardous situation.
 
-([Pub. L. 89–329, title IV, § 480][/us/pl/89/329/s480], as added [Pub. L. 99–498, title IV, § 406(a)][/us/pl/99/498/s406/a], Oct. 17, 1986, [100 Stat. 1472][/us/stat/100/1472]; amended [Pub. L. 100–50, § 14(28)][/us/pl/100/50/s14/28], June 3, 1987, [101 Stat. 353][/us/stat/101/353]; [Pub. L. 100–369, § 7(b)][/us/pl/100/369/s7/b], July 18, 1988, [102 Stat. 837][/us/stat/102/837]; [Pub. L. 101–610, title I, § 185(3)][/us/pl/101/610/s185/3], (4), Nov. 16, 1990, [104 Stat. 3168][/us/stat/104/3168]; [Pub. L. 102–325, title IV, § 471(a)][/us/pl/102/325/s471/a], July 23, 1992, [106 Stat. 606][/us/stat/106/606]; [Pub. L. 103–82, title I, § 102(c)(4)][/us/pl/103/82/s102/c/4], (5), Sept. 21, 1993, [107 Stat. 824][/us/stat/107/824]; [Pub. L. 103–208, § 2(g)(17)][/us/pl/103/208/s2/g/17]–(20), Dec. 20, 1993, [107 Stat. 2474][/us/stat/107/2474]; [Pub. L. 104–193, title I, § 110(h)(2)][/us/pl/104/193/s110/h/2], Aug. 22, 1996, [110 Stat. 2172][/us/stat/110/2172]; [Pub. L. 105–78, title VI, § 609(j)][/us/pl/105/78/s609/j], (k), Nov. 13, 1997, [111 Stat. 1524][/us/stat/111/1524]; [Pub. L. 105–244, title IV, § 479][/us/pl/105/244/s479], Oct. 7, 1998, [112 Stat. 1732][/us/stat/112/1732]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(15)(B), (f)(12)(B)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–421, 2681–431; [Pub. L. 109–171, title VIII, § 8019][/us/pl/109/171/s8019], Feb. 8, 2006, [120 Stat. 176][/us/stat/120/176]; [Pub. L. 110–84, title VI, § 604(a)][/us/pl/110/84/s604/a], Sept. 27, 2007, [121 Stat. 806][/us/stat/121/806]; [Pub. L. 110–153, § 1(a)][/us/pl/110/153/s1/a], Dec. 21, 2007, [121 Stat. 1824][/us/stat/121/1824]; [Pub. L. 110–315, title IV, § 473(a)][/us/pl/110/315/s473/a]–(e), Aug. 14, 2008, [122 Stat. 3270][/us/stat/122/3270], 3271; [Pub. L. 111–39, title IV, § 406(a)(6)][/us/pl/111/39/s406/a/6]–(8), July 1, 2009, [123 Stat. 1949][/us/stat/123/1949], 1950.)
+([Pub. L. 89–329, title IV, § 480][/us/pl/89/329/s480], as added [Pub. L. 99–498, title IV, § 406(a)][/us/pl/99/498/s406/a], Oct. 17, 1986, [100 Stat. 1472][/us/stat/100/1472]; amended [Pub. L. 100–50, § 14(28)][/us/pl/100/50/s14/28], June 3, 1987, [101 Stat. 353][/us/stat/101/353]; [Pub. L. 100–369, § 7(b)][/us/pl/100/369/s7/b], July 18, 1988, [102 Stat. 837][/us/stat/102/837]; [Pub. L. 101–610, title I, § 185(3)][/us/pl/101/610/s185/3], (4), Nov. 16, 1990, [104 Stat. 3168][/us/stat/104/3168]; [Pub. L. 102–325, title IV, § 471(a)][/us/pl/102/325/s471/a], July 23, 1992, [106 Stat. 606][/us/stat/106/606]; [Pub. L. 103–82, title I, § 102(c)(4)][/us/pl/103/82/s102/c/4], (5), Sept. 21, 1993, [107 Stat. 824][/us/stat/107/824]; [Pub. L. 103–208, § 2(g)(17)][/us/pl/103/208/s2/g/17]–(20), Dec. 20, 1993, [107 Stat. 2474][/us/stat/107/2474]; [Pub. L. 104–193, title I, § 110(h)(2)][/us/pl/104/193/s110/h/2], Aug. 22, 1996, [110 Stat. 2172][/us/stat/110/2172]; [Pub. L. 105–78, title VI, § 609(j)][/us/pl/105/78/s609/j], (k), Nov. 13, 1997, [111 Stat. 1524][/us/stat/111/1524]; [Pub. L. 105–244, title IV, § 479][/us/pl/105/244/s479], Oct. 7, 1998, [112 Stat. 1732][/us/stat/112/1732]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(15)(B), (f)(12)(B)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–421, 2681–431; [Pub. L. 109–171, title VIII, § 8019][/us/pl/109/171/s8019], Feb. 8, 2006, [120 Stat. 176][/us/stat/120/176]; [Pub. L. 110–84, title VI, § 604(a)][/us/pl/110/84/s604/a], Sept. 27, 2007, [121 Stat. 806][/us/stat/121/806]; [Pub. L. 110–153, § 1(a)][/us/pl/110/153/s1/a], Dec. 21, 2007, [121 Stat. 1824][/us/stat/121/1824]; [Pub. L. 110–315, title IV, § 473(a)][/us/pl/110/315/s473/a]–(e), Aug. 14, 2008, [122 Stat. 3270][/us/stat/122/3270], 3271; [Pub. L. 111–39, title IV, § 406(a)(6)][/us/pl/111/39/s406/a/6]–(8), July 1, 2009, [123 Stat. 1949][/us/stat/123/1949], 1950; [Pub. L. 113–128, title V, § 512(n)(4)][/us/pl/113/128/s512/n/4], July 22, 2014, [128 Stat. 1710][/us/stat/128/1710].)
+
+ __Amendment of Subsection (b)(1)(I)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(n)(4), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1710, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (b)(1)(I) of this section is amended by striking “benefits received through participation in employment and training activities under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)” and inserting “benefits received through participation in employment and training activities under title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -284,6 +288,8 @@
     Amendment by [section 2(g)(19) of Pub. L. 103–208][/us/pl/103/208/s2/g/19] (which was effective as if included in [Pub. L. 102–325][/us/pl/102/325]) was executed to this section as amended by [Pub. L. 102–325][/us/pl/102/325] and [Pub. L. 103–82][/us/pl/103/82], to reflect the probable intent of Congress.
 
  __Amendments__ 
+
+    2014—Subsec. (b)(1)(I). [Pub. L. 113–128][/us/pl/113/128] substituted “benefits received through participation in employment and training activities under title I of the Workforce Innovation and Opportunity Act” for “benefits received through participation in employment and training activities under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)”.
 
     2009—Subsec. (a)(2). [Pub. L. 111–39, § 406(a)(6)][/us/pl/111/39/s406/a/6], substituted “12511” for “12571”.
 
@@ -392,6 +398,10 @@
     Subsec. (d)(2)(F). [Pub. L. 100–50, § 14(28)(F)][/us/pl/100/50/s14/28/F], substituted “annual total resources (including all sources of resources other than parents)” for “an annual total income”.
 
     Subsecs. (f) to (h). [Pub. L. 100–50, § 14(28)(G)][/us/pl/100/50/s14/28/G], added subsecs. (f) to (h).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -514,6 +524,11 @@
 [/us/stat/122/3270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3270
 [/us/pl/111/39/s406/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs406%2Fa%2F6
 [/us/stat/123/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1949
+[/us/pl/113/128/s512/n/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fn%2F4
+[/us/stat/128/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1710
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/stat/104/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3127
 [/us/usc/t20/s1070a–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%936
@@ -538,6 +553,8 @@
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/111/39/s406/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs406%2Fa%2F6
 [/us/pl/111/39/s406/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs406%2Fa%2F7
 [/us/pl/97/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F376
@@ -594,6 +611,9 @@
 [/us/pl/100/50/s14/28/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F28%2FE
 [/us/pl/100/50/s14/28/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F28%2FF
 [/us/pl/100/50/s14/28/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F28%2FG
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3

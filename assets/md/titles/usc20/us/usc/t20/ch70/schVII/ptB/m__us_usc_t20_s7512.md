@@ -139,7 +139,11 @@
 
         (C) promotes the study of the Hawaiian culture, language, and history by providing a Hawaiian education program and using community expertise as a suitable and essential means to further the program.
 
-([Pub. L. 89–10, title VII, § 7202][/us/pl/89/10/s7202], as added [Pub. L. 107–110, title VII, § 701][/us/pl/107/110/s701], Jan. 8, 2002, [115 Stat. 1932][/us/stat/115/1932]; amended [Pub. L. 111–256, § 2(c)][/us/pl/111/256/s2/c], Oct. 5, 2010, [124 Stat. 2643][/us/stat/124/2643].)
+([Pub. L. 89–10, title VII, § 7202][/us/pl/89/10/s7202], as added [Pub. L. 107–110, title VII, § 701][/us/pl/107/110/s701], Jan. 8, 2002, [115 Stat. 1932][/us/stat/115/1932]; amended [Pub. L. 111–256, § 2(c)][/us/pl/111/256/s2/c], Oct. 5, 2010, [124 Stat. 2643][/us/stat/124/2643]; [Pub. L. 113–128, title V, § 512(i)(5)][/us/pl/113/128/s512/i/5], July 22, 2014, [128 Stat. 1709][/us/stat/128/1709].)
+
+ __Amendment of Paragraph (13)(H)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(i)(5), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1709, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], paragraph (13)(H) of this section is amended by striking “the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)” and inserting “the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -179,7 +183,13 @@
 
  __Amendments__ 
 
+    2014—Par. (13)(H). [Pub. L. 113–128][/us/pl/113/128] substituted “the Workforce Innovation and Opportunity Act” for “the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)”.
+
     2010—Par. (16)(E). [Pub. L. 111–256][/us/pl/111/256] substituted “mild intellectual disabilities,” for “mild mental retardation,”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Definitions__ 
 
@@ -214,6 +224,11 @@
 [/us/stat/115/1932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1932
 [/us/pl/111/256/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2%2Fc
 [/us/stat/124/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2643
+[/us/pl/113/128/s512/i/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fi%2F5
+[/us/stat/128/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1709
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/103/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F150
 [/us/pl/103/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F150
 [/us/stat/107/1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1510
@@ -262,7 +277,12 @@
 [/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
 [/us/stat/108/3737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3737
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/111/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/111/256/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2
 [/us/pl/111/256/s2/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2%2Fk
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400

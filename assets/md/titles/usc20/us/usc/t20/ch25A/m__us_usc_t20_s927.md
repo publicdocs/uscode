@@ -85,7 +85,7 @@
 
 >     “(c)  __Remaining Provisions__  __.—__ 
 
->     The remaining sections of this Act \[enacting [section 1484a of this title][/us/usc/t20/s1484a], amending this section, sections 241, 1087ee, 1400 to 1402, 1404, 1405, 1407, 1411 to 1417, 1419, 1421 to 1425, 1431 to 1433, 1435, 1442, 1443, 1451, 1452, 1461, 1471 to 1473, and 1475 to 1485 of this title, sections 2503 and 2504 of Title 25, Indians, sections 721, 774, 777a, 795m, and 796d of Title 29, Labor, and sections 1396b, 1396n, 6022, 6024, 9835, 9855d, 9862, and 9886 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 1400 and 1484 of this title\] and the amendments made by such sections shall take effect on the date of the enactment of this Act \[Oct. 7, 1991\].”
+>     The remaining sections of this Act \[enacting [section 1484a of this title][/us/usc/t20/s1484a], amending this section, sections 241, 1087ee, 1400 to 1402, 1404, 1405, 1407, 1411 to 1417, 1419, 1421 to 1425, 1431 to 1433, 1435, 1442, 1443, 1451, 1452, 1461, 1471 to 1473, and 1475 to 1485 of this title, sections 2503 and 2504 of Title 25, Indians, sections 721, \[former\] 774, 777a, 795m, and 796d of Title 29, Labor, and sections 1396b, 1396n, 6022, 6024, 9835, 9855d, 9862, and 9886 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 1400 and 1484 of this title\] and the amendments made by such sections shall take effect on the date of the enactment of this Act \[Oct. 7, 1991\].”
 
 ----------
 

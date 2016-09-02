@@ -163,7 +163,11 @@
 
             (F) other programs identified by the Secretary.
 
-([Pub. L. 89–329, title IV, § 479][/us/pl/89/329/s479], as added [Pub. L. 99–498, title IV, § 406(a)][/us/pl/99/498/s406/a], Oct. 17, 1986, [100 Stat. 1472][/us/stat/100/1472]; amended [Pub. L. 100–50, § 14(23)][/us/pl/100/50/s14/23]–(25), June 3, 1987, [101 Stat. 352][/us/stat/101/352]; [Pub. L. 100–369, § 7(c)][/us/pl/100/369/s7/c], July 18, 1988, [102 Stat. 837][/us/stat/102/837]; [Pub. L. 102–26, § 11][/us/pl/102/26/s11], Apr. 9, 1991, [105 Stat. 129][/us/stat/105/129]; [Pub. L. 102–325, title IV, § 471(a)][/us/pl/102/325/s471/a], July 23, 1992, [106 Stat. 604][/us/stat/106/604]; [Pub. L. 103–208, § 2(g)(10)][/us/pl/103/208/s2/g/10]–(15), Dec. 20, 1993, [107 Stat. 2472][/us/stat/107/2472]; [Pub. L. 105–244, title IV, § 477][/us/pl/105/244/s477], Oct. 7, 1998, [112 Stat. 1731][/us/stat/112/1731]; [Pub. L. 109–171, title VIII, § 8018(a)][/us/pl/109/171/s8018/a], Feb. 8, 2006, [120 Stat. 174][/us/stat/120/174]; [Pub. L. 110–84, title VI, § 602(a)][/us/pl/110/84/s602/a], Sept. 27, 2007, [121 Stat. 804][/us/stat/121/804]; [Pub. L. 110–234, title IV, § 4002(b)(1)(A)][/us/pl/110/234/s4002/b/1/A], (B), (2)(N), May 22, 2008, [122 Stat. 1095–1097][/us/stat/122/1095-1097]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(A), (B), (2)(N), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858; [Pub. L. 111–39, title IV, § 406(a)(4)][/us/pl/111/39/s406/a/4], July 1, 2009, [123 Stat. 1948][/us/stat/123/1948]; [Pub. L. 112–74, div. F, title III, § 309(b)][/us/pl/112/74/s309/b], Dec. 23, 2011, [125 Stat. 1100][/us/stat/125/1100].)
+([Pub. L. 89–329, title IV, § 479][/us/pl/89/329/s479], as added [Pub. L. 99–498, title IV, § 406(a)][/us/pl/99/498/s406/a], Oct. 17, 1986, [100 Stat. 1472][/us/stat/100/1472]; amended [Pub. L. 100–50, § 14(23)][/us/pl/100/50/s14/23]–(25), June 3, 1987, [101 Stat. 352][/us/stat/101/352]; [Pub. L. 100–369, § 7(c)][/us/pl/100/369/s7/c], July 18, 1988, [102 Stat. 837][/us/stat/102/837]; [Pub. L. 102–26, § 11][/us/pl/102/26/s11], Apr. 9, 1991, [105 Stat. 129][/us/stat/105/129]; [Pub. L. 102–325, title IV, § 471(a)][/us/pl/102/325/s471/a], July 23, 1992, [106 Stat. 604][/us/stat/106/604]; [Pub. L. 103–208, § 2(g)(10)][/us/pl/103/208/s2/g/10]–(15), Dec. 20, 1993, [107 Stat. 2472][/us/stat/107/2472]; [Pub. L. 105–244, title IV, § 477][/us/pl/105/244/s477], Oct. 7, 1998, [112 Stat. 1731][/us/stat/112/1731]; [Pub. L. 109–171, title VIII, § 8018(a)][/us/pl/109/171/s8018/a], Feb. 8, 2006, [120 Stat. 174][/us/stat/120/174]; [Pub. L. 110–84, title VI, § 602(a)][/us/pl/110/84/s602/a], Sept. 27, 2007, [121 Stat. 804][/us/stat/121/804]; [Pub. L. 110–234, title IV, § 4002(b)(1)(A)][/us/pl/110/234/s4002/b/1/A], (B), (2)(N), May 22, 2008, [122 Stat. 1095–1097][/us/stat/122/1095-1097]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(A), (B), (2)(N), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858; [Pub. L. 111–39, title IV, § 406(a)(4)][/us/pl/111/39/s406/a/4], July 1, 2009, [123 Stat. 1948][/us/stat/123/1948]; [Pub. L. 112–74, div. F, title III, § 309(b)][/us/pl/112/74/s309/b], Dec. 23, 2011, [125 Stat. 1100][/us/stat/125/1100]; [Pub. L. 113–128, title V, § 512(n)(2)][/us/pl/113/128/s512/n/2], July 22, 2014, [128 Stat. 1710][/us/stat/128/1710].)
+
+ __Amendment of Subsection (d)(1)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(n)(2), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1710, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (d)(1) of this section is amended by striking “The term ‘dislocated worker’ has the meaning given the term in [section 2801 of title 29][/us/usc/t29/s2801]” and inserting “The term ‘dislocated worker’ has the meaning given the term in [section 3102 of title 29][/us/usc/t29/s3102]”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -178,6 +182,8 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (d)(1). [Pub. L. 113–128][/us/pl/113/128] substituted “The term ‘dislocated worker’ has the meaning given the term in [section 3102 of title 29][/us/usc/t29/s3102]” for “The term ‘dislocated worker’ has the meaning given the term in [section 2801 of title 29][/us/usc/t29/s2801]”.
 
     2011—Subsec. (c)(1)(B). [Pub. L. 112–74, § 309(b)(1)][/us/pl/112/74/s309/b/1], substituted “$23,000” for “$30,000”.
 
@@ -264,6 +270,10 @@
     Subsec. (b)(6). [Pub. L. 100–50, § 14(24)(B)][/us/pl/100/50/s14/24/B]–(D), added par. (6).
 
     Subsec. (c). [Pub. L. 100–50, § 14(25)][/us/pl/100/50/s14/25], added subsec. (c).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2011 Amendment__ 
 
@@ -362,6 +372,12 @@
 [/us/stat/123/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1948
 [/us/pl/112/74/s309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs309%2Fb
 [/us/stat/125/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1100
+[/us/pl/113/128/s512/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fn%2F2
+[/us/stat/128/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1710
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -375,6 +391,9 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/112/74/s309/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs309%2Fb%2F1
 [/us/pl/112/74/s309/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs309%2Fb%2F2
 [/us/pl/111/39/s406/a/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs406%2Fa%2F4%2FA%2Fi
@@ -421,6 +440,9 @@
 [/us/pl/100/50/s14/24/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F24%2FA
 [/us/pl/100/50/s14/24/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F24%2FB
 [/us/pl/100/50/s14/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F25
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/pl/112/74/s309/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs309%2Fg
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001

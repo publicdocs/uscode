@@ -257,7 +257,23 @@
 
             A State plan shall be deemed approved by the Secretary if the Secretary has not responded to the eligible agency regarding the State plan within 90 days of the date the Secretary receives the State plan.
 
-([Pub. L. 88–210, title I, § 122][/us/pl/88/210/s122], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 715][/us/stat/120/715].)
+([Pub. L. 88–210, title I, § 122][/us/pl/88/210/s122], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 715][/us/stat/120/715]; amended [Pub. L. 113–128, title V, § 512(e)(3)][/us/pl/113/128/s512/e/3], July 22, 2014, [128 Stat. 1706][/us/stat/128/1706].)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(e)(3), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1706, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended:
+
+    (1) in subsection (b)(1)(A)(viii), by striking “entities participating in activities described in [section 2821 of title 29][/us/usc/t29/s2821]” and inserting “entities participating in activities described in [section 3111 of title 29][/us/usc/t29/s3111]”;
+
+    (2) in subsection (c)(20), by striking “the description and information specified in sections 2822(b)(8) and 2841(c) of title 29 concerning the provision of services only for postsecondary students and school dropouts” and inserting “the description and information specified in subparagraphs (B) and (C)(iii) of section 3112(b)(2), and, as appropriate, section 3113(b)(3)(A), and section 3151(c), of title 29 concerning the provision of services only for postsecondary students and school dropouts”; and
+
+    (3) in subsection (d)(2)
+
+    (A) in the paragraph heading, by striking “501 plan” and inserting “combined plan”; and
+
+    (B) in the text, by striking “as part of the plan submitted under [section 501 of Public Law 105–220][/us/pl/105/220/s501]” and inserting “as part of the plan submitted under [section 3113 of title 29][/us/usc/t29/s3113]”.
+
+    See 2014 Amendment notes below.
 
  __References in Text__ 
 
@@ -272,6 +288,18 @@
     Another prior section 2342, [Pub. L. 88–210, title II, § 235][/us/pl/88/210/s235], as added [Pub. L. 101–392, title II, § 201][/us/pl/101/392/s201], Sept. 25, 1990, [104 Stat. 783][/us/stat/104/783], related to uses of funds, prior to the general amendment of this chapter by [Pub. L. 105–332][/us/pl/105/332].
 
     Another prior section 2342, [Pub. L. 88–210, title II, § 252][/us/pl/88/210/s252], as added [Pub. L. 98–524, § 1][/us/pl/98/524/s1], Oct. 19, 1984, [98 Stat. 2457][/us/stat/98/2457], related to criteria for program improvement, innovation, and expansion, prior to the general amendment of former subchapter II of this chapter by [Pub. L. 101–392][/us/pl/101/392].
+
+ __Amendments__ 
+
+    2014—Subsec. (b)(1)(A)(viii). [Pub. L. 113–128, § 512(e)(3)(A)][/us/pl/113/128/s512/e/3/A], substituted “entities participating in activities described in [section 3111 of title 29][/us/usc/t29/s3111]” for “entities participating in activities described in [section 2821 of title 29][/us/usc/t29/s2821]”.
+
+    Subsec. (c)(20). [Pub. L. 113–128, § 512(e)(3)(B)][/us/pl/113/128/s512/e/3/B], substituted “the description and information specified in subparagraphs (B) and (C)(iii) of section 3112(b)(2), and, as appropriate, section 3113(b)(3)(A), and section 3151(c), of title 29 concerning the provision of services only for postsecondary students and school dropouts” for “the description and information specified in sections 2822(b)(8) and 2841(c) of title 29 concerning the provision of services only for postsecondary students and school dropouts”.
+
+    Subsec. (d)(2). [Pub. L. 113–128, § 512(e)(3)(C)][/us/pl/113/128/s512/e/3/C], substituted “combined plan” for “501 plan” in heading and “as part of the plan submitted under [section 3113 of title 29][/us/usc/t29/s3113]” for “as part of the plan submitted under [section 501 of Public Law 105–220][/us/pl/105/220/s501]” in text.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -301,6 +329,14 @@
 [/us/pl/88/210/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs122
 [/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
 [/us/stat/120/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F715
+[/us/pl/113/128/s512/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fe%2F3
+[/us/stat/128/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1706
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2821
+[/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
+[/us/pl/105/220/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs501
+[/us/usc/t29/s3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3113
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
@@ -319,5 +355,15 @@
 [/us/pl/98/524/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F524%2Fs1
 [/us/stat/98/2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2457
 [/us/pl/101/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392
+[/us/pl/113/128/s512/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fe%2F3%2FA
+[/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
+[/us/usc/t29/s2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2821
+[/us/pl/113/128/s512/e/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fe%2F3%2FB
+[/us/pl/113/128/s512/e/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fe%2F3%2FC
+[/us/usc/t29/s3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3113
+[/us/pl/105/220/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs501
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

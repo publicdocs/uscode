@@ -95,11 +95,11 @@
 
         (23)
 
-            (A) The institution, if located in a State to which [section 1973gg–2(b) of title 42][/us/usc/t42/s1973gg–2/b] does not apply, will make a good faith effort to distribute a mail voter registration form, requested and received from the State, to each student enrolled in a degree or certificate program and physically in attendance at the institution, and to make such forms widely available to students at the institution.
+            (A) The institution, if located in a State to which [section 20503(b) of title 52][/us/usc/t52/s20503/b] does not apply, will make a good faith effort to distribute a mail voter registration form, requested and received from the State, to each student enrolled in a degree or certificate program and physically in attendance at the institution, and to make such forms widely available to students at the institution.
 
             (B) The institution shall request the forms from the State 120 days prior to the deadline for registering to vote within the State. If an institution has not received a sufficient quantity of forms to fulfill this section from the State within 60 days prior to the deadline for registering to vote in the State, the institution shall not be held liable for not meeting the requirements of this section during that election year.
 
-            (C) This paragraph shall apply to general and special elections for Federal office, as defined in [section 431(3) of title 2][/us/usc/t2/s431/3], and to the elections for Governor or other chief executive within such State). <sup>\[1\]</sup>  <sup><sup> 1 So in original. The closing parenthesis probably should not appear. </sup></sup> 
+            (C) This paragraph shall apply to general and special elections for Federal office, as defined in [section 30101(3) of title 52][/us/usc/t52/s30101/3], and to the elections for Governor or other chief executive within such State). <sup>\[1\]</sup>  <sup><sup> 1 So in original. The closing parenthesis probably should not appear. </sup></sup> 
 
             (D) The institution shall be considered in compliance with the requirements of subparagraph (A) for each student to whom the institution electronically transmits a message containing a voter registration form acceptable for use in the State in which the institution is located, or an Internet address where such a form can be downloaded, if such information is in an electronic message devoted exclusively to voter registration.
 
@@ -589,7 +589,7 @@
 
  __Amendments__ 
 
-    2009—Subsec. (a)(23)(A). [Pub. L. 111–39, § 407(b)(8)(A)][/us/pl/111/39/s407/b/8/A], made technical amendment to reference in original act which appears in text as reference to [section 1973gg–2(b) of title 42][/us/usc/t42/s1973gg–2/b].
+    2009—Subsec. (a)(23)(A). [Pub. L. 111–39, § 407(b)(8)(A)][/us/pl/111/39/s407/b/8/A], made technical amendment to reference in original act which appears in text as reference to [section 20503(b) of title 52][/us/usc/t52/s20503/b].
 
     Subsec. (c)(1)(A)(i), (F), (H). [Pub. L. 111–39, § 407(b)(8)(B)][/us/pl/111/39/s407/b/8/B], substituted “students receive” for “students receives” in subpar. (A)(i) and “paragraph (3)(B)” for “paragraph (2)(B)” in subpars. (F) and (H).
 
@@ -758,8 +758,8 @@
 [/us/usc/t20/s1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1082
 [/us/usc/t20/s1092/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1092%2Fg
 [/us/usc/t20/s1091b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1091b
-[/us/usc/t42/s1973gg–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973gg%E2%80%932%2Fb
-[/us/usc/t2/s431/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431%2F3
+[/us/usc/t52/s20503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20503%2Fb
+[/us/usc/t52/s30101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101%2F3
 [/us/usc/t20/s1002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002%2Fb
 [/us/usc/t18/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs16
 [/us/usc/t15/s1638/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1638%2Fe%2F3
@@ -810,7 +810,7 @@
 [/us/stat/100/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F356
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/pl/111/39/s407/b/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F8%2FA
-[/us/usc/t42/s1973gg–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973gg%E2%80%932%2Fb
+[/us/usc/t52/s20503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20503%2Fb
 [/us/pl/111/39/s407/b/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F8%2FB
 [/us/pl/111/39/s407/b/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F8%2FC
 [/us/pl/111/39/s407/b/8/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F8%2FD
