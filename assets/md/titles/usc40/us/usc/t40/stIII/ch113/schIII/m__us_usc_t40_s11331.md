@@ -17,7 +17,7 @@
 
     (a)  __Definition__  __.—__ 
 
-    In this section, the term “information security” has the meaning given that term in [section 3532(b)(1) of title 44][/us/usc/t44/s3532/b/1].
+    In this section, the term “information security” has the meaning given that term in section 3532(b)(1)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 44.
 
     (b) __Requirement to Prescribe Standards.—__ 
 
@@ -41,7 +41,7 @@
 
         (2)  __Standards and guidelines for national security systems__  __.—__ 
 
-        Standards and guidelines for national security systems, as defined under [section 3532(3) of title 44][/us/usc/t44/s3532/3], shall be developed, promulgated, enforced, and overseen as otherwise authorized by law and as directed by the President.
+        Standards and guidelines for national security systems, as defined under section 3532(3) 1 of title 44, shall be developed, promulgated, enforced, and overseen as otherwise authorized by law and as directed by the President.
 
     (c)  __Application of More Stringent Standards__  __.—__ 
 
@@ -49,7 +49,7 @@
 
         (1) contain, at a minimum, the provisions of those applicable standards made compulsory and binding by the Director; and
 
-        (2) are otherwise consistent with policies and guidelines issued under [section 3533 of title 44][/us/usc/t44/s3533].
+        (2) are otherwise consistent with policies and guidelines issued under section 3533 1 of title 44.
 
     (d) __Requirements Regarding Decisions by Director.—__ 
 
@@ -108,6 +108,10 @@ Pub. L. 104–106, div. E, title LI, § 5131(a)–(d), Feb. 10, 1996, 110 Stat
   </tr>
 
 </table>
+
+ __References in Text__ 
+
+    Sections 3532 and 3533 of title 44, referred to in subsecs. (a), (b)(2), and (c)(2) were repealed by [Pub. L. 113–283, § 2(a)][/us/pl/113/283/s2/a], Dec. 18, 2014, [128 Stat. 3073][/us/stat/128/3073]. Provisions similar to sections 3532 and 3533 of title 44 are now contained in sections 3552 and 3553, respectively, of title 44, as enacted by [Pub. L. 113–283][/us/pl/113/283].
 
  __Amendments__ 
 
@@ -181,7 +185,7 @@ Pub. L. 104–106, div. E, title LI, § 5131(a)–(d), Feb. 10, 1996, 110 Stat
 
  __Effective Date of 2002 Amendments__ 
 
-    Amendment by [Pub. L. 107–347][/us/pl/107/347] effective Dec. 17, 2002, see [section 402(b) of Pub. L. 107–347][/us/pl/107/347/s402/b], set out as an Effective Date note under [section 3541 of Title 44][/us/usc/t44/s3541], Public Printing and Documents.
+    Amendment by [Pub. L. 107–347][/us/pl/107/347] effective Dec. 17, 2002, see [section 402(b) of Pub. L. 107–347][/us/pl/107/347/s402/b], set out as a note under [section 3504 of Title 44][/us/usc/t44/s3504], Public Printing and Documents.
 
     Amendment by [Pub. L. 107–296][/us/pl/107/296] effective 60 days after Nov. 25, 2002, see [section 4 of Pub. L. 107–296][/us/pl/107/296/s4], set out as an Effective Date note under [section 101 of Title 6][/us/usc/t6/s101], Domestic Security.
 
@@ -192,11 +196,8 @@ Pub. L. 104–106, div. E, title LI, § 5131(a)–(d), Feb. 10, 1996, 110 Stat
 ----------
 ----------
 
-[/us/usc/t44/s3532/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3532%2Fb%2F1
 [/us/usc/t15/s278g–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%933%2Fa
 [/us/usc/t15/s278g–3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%933%2Fb
-[/us/usc/t44/s3532/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3532%2F3
-[/us/usc/t44/s3533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3533
 [/us/usc/t15/s278g–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%933
 [/us/usc/t15/s278g–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%933
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
@@ -205,6 +206,9 @@ Pub. L. 104–106, div. E, title LI, § 5131(a)–(d), Feb. 10, 1996, 110 Stat
 [/us/stat/116/2268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2268
 [/us/pl/107/347/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs302%2Fa
 [/us/stat/116/2956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2956
+[/us/pl/113/283/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fa
+[/us/stat/128/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3073
+[/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/usc/t15/s278g–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%933%2Fa
@@ -219,7 +223,7 @@ Pub. L. 104–106, div. E, title LI, § 5131(a)–(d), Feb. 10, 1996, 110 Stat
 [/us/usc/t44/s3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3506
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/pl/107/347/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs402%2Fb
-[/us/usc/t44/s3541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3541
+[/us/usc/t44/s3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3504
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
