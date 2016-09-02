@@ -175,7 +175,7 @@
 
 [Pub. L. 95–619, title III, § 301][/us/pl/95/619/s301], Nov. 9, 1978, [92 Stat. 3238][/us/stat/92/3238], provided:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -187,7 +187,7 @@
 
 >         “(4) public and nonprofit schools and hospitals in many instances need financial assistance in order to make the necessary improvements to achieve energy conservation.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     It is the purpose of this part \[part 1 (§§ 301–303) of title III of [Pub. L. 95–619][/us/pl/95/619], enacting sections 6371 to 6371i of this title, amending sections 300k–2 and 300n–1 of this title, and enacting provisions set out as notes under this section\] to authorize grants to States and to public and nonprofit schools and hospitals to assist them in identifying and implementing energy conservation maintenance and operating procedures and in evaluating, acquiring, and installing energy conservation measures to reduce the energy use and anticipated energy costs of schools and hospitals.”
 

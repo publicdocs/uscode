@@ -173,11 +173,11 @@
 
     (13) __Electric motor.—__ 
 
-        (A) __General purpose electric motor (subtype i).—__ 
+        (A)  __General purpose electric motor (subtype i)__  __.—__ 
 
         The term “general purpose electric motor (subtype I)” means any motor that meets the definition of “General Purpose” as established in the final rule issued by the Department of Energy entitled “Energy Efficiency Program for Certain Commercial and Industrial Equipment: Test Procedures, Labeling, and Certification Requirements for Electric Motors” (10 CFR 431), as in effect on December 19, 2007.
 
-        (B) __General purpose electric motor (subtype ii).—__ 
+        (B)  __General purpose electric motor (subtype ii)__  __.—__ 
 
         The term “general purpose electric motor (subtype II)” means motors incorporating the design elements of a general purpose electric motor (subtype I) that are configured as 1 of the following:
 
@@ -235,11 +235,11 @@
 
     (20) __Walk-in cooler; walk-in freezer.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The terms “walk-in cooler” and “walk-in freezer” mean an enclosed storage space refrigerated to temperatures, respectively, above, and at or below 32 degrees Fahrenheit that can be walked into, and has a total chilled storage area of less than 3,000 square feet.
 
-        (B) __Exclusion.—__ 
+        (B)  __Exclusion__  __.—__ 
 
         The terms “walk-in cooler” and “walk-in freezer” do not include products designed and marketed exclusively for medical, scientific, or research purposes.
 
@@ -265,7 +265,7 @@
 
     (22)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Two pars. (22) have been enacted. </sup></sup>  The term “harvest rate” means the amount of ice (at 32 degrees F) in pounds produced per 24 hours.
 
-    (22)  __2__  __Single package vertical air conditioner.—__ 
+    (22)  __2__   __Single package vertical air conditioner__  __.—__ 
 
     The term “single package vertical air conditioner” means air-cooled commercial package air conditioning and heating equipment that—
 
@@ -285,7 +285,7 @@
 
         (D) has heating components that may include electrical resistance, steam, hot water, or gas, but may not include reverse cycle refrigeration as a heating means.
 
-    (23) __Single package vertical heat pump.—__ 
+    (23)  __Single package vertical heat pump__  __.—__ 
 
     The term “single package vertical heat pump” means a single package vertical air conditioner that—
 

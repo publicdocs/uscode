@@ -153,7 +153,7 @@
 
 [Pub. L. 102–515, § 2][/us/pl/102/515/s2], Oct. 24, 1992, [106 Stat. 3372][/us/stat/106/3372], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -167,7 +167,7 @@
 
 >         “(5) AACCR also cites that of the 50 States, 39 collect data on less than 100 percent of their population, and less than half have adequate resources for insuring minimum standards for quality and for completeness of case information.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     It is the purpose of this Act \[enacting this part and provisions set out as a note under [section 201 of this title][/us/usc/t42/s201]\] to establish a national program of cancer registries.”
 

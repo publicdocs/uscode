@@ -193,11 +193,11 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title II, § 229(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–357, provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Administrator for Health Care Policy and Research shall provide for a study that, with respect to the provision of ultrasound under the medicare and medicaid programs under titles XVIII and XIX of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq., 1396 et seq.\], compares differences in quality between ultrasound furnished by individuals who are credentialed by private entities or organizations and ultrasound furnished by those who are not so credentialed. Such study shall examine and evaluate differences in error rates, resulting complications, and patient outcomes as a result of the differences in credentialing. In designing the study, the Administrator shall consult with organizations nationally recognized for their expertise in ultrasound.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than two years after the date of the enactment of this Act \[Nov. 29, 1999\], the Administrator shall submit a report to Congress on the study conducted under paragraph (1).”
 

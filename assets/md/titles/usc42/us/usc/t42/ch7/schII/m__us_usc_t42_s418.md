@@ -665,15 +665,15 @@
 
 [Pub. L. 105–277, div. J, title II, § 2023][/us/pl/105/277/s2023], Oct. 21, 1998, [112 Stat. 2681–904][/us/stat/112/2681-904], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding section 218 of the Social Security Act \[[42 U.S.C. 418][/us/usc/t42/s418]\], any agreement with a State (or any modification thereof) entered into pursuant to such section may, at the option of such State, be modified at any time on or after January 1, 1999, and on or before March 31, 1999, so as to exclude service performed in the employ of a school, college, or university if such service is performed by a student who is enrolled and is regularly attending classes at such school, college, or university.
 
->     “(b) __Effective Date of Modification.—__ 
+>     “(b)  __Effective Date of Modification__  __.—__ 
 
 >     Any modification of an agreement pursuant to subsection (a) shall be effective with respect to services performed after June 30, 2000.
 
->     “(c) __Irrevocability of Modification.—__ 
+>     “(c)  __Irrevocability of Modification__  __.—__ 
 
 >     If any modification of an agreement pursuant to subsection (a) terminates coverage with respect to service performed in the employ of a school, college, or university, by a student who is enrolled and regularly attending classes at such school, college, or university, the Commissioner of Social Security and the State may not thereafter modify such agreement so as to again make the agreement applicable to such service performed in the employ of such school, college, or university.”
 
@@ -687,11 +687,11 @@
 
 [Pub. L. 100–203, title IX, § 9008][/us/pl/100/203/s9008], Dec. 22, 1987, [101 Stat. 1330–292][/us/stat/101/1330-292], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding subsection (d)(5)(A) of section 218 of the Social Security Act \[[42 U.S.C. 418(d)(5)(A)][/us/usc/t42/s418/d/5/A]\] and the references thereto in subsections (d)(1) and (d)(3) of such section 218, the agreement with the State of Iowa heretofore entered into pursuant to such section 218 may, at any time prior to January 1, 1989, be modified pursuant to subsection (c)(4) of such section 218 so as to apply to services performed in policemen’s or firemen’s positions required to be covered by a retirement system pursuant to section 410.1 of the Iowa Code as in effect on July 1, 1953, if the State of Iowa has at any time prior to the date of the enactment of this Act \[Dec. 22, 1987\] paid to the Secretary of the Treasury, with respect to any of the services performed in such positions, the sums prescribed pursuant to subsection (e)(1) of such section 218 (as in effect on December 31, 1986, with respect to payments due with respect to wages paid on or before such date).
 
->     “(b) __Service To Be Covered.—__ 
+>     “(b)  __Service To Be Covered__  __.—__ 
 
 >     Notwithstanding the provisions of subsection (e) of section 218 of the Social Security Act (as so redesignated by section 9002(c)(1) of the Omnibus Budget Reconciliation Act of 1986)), any modification in the agreement with the State of Iowa under subsection (a) shall be made effective with respect to—
 

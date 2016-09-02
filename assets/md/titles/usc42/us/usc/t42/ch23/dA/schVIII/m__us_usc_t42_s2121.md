@@ -83,17 +83,17 @@
 
 [Pub. L. 105–261, div. C, title XXXI, § 3159][/us/pl/105/261/s3159], Oct. 17, 1998, [112 Stat. 2258][/us/stat/112/2258], as amended by [Pub. L. 106–65, div. A, title X, § 1067(3)][/us/pl/106/65/s1067/3], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 107–107, div. C, title XXXI, § 3156][/us/pl/107/107/s3156], Dec. 28, 2001, [115 Stat. 1379][/us/stat/115/1379]; [Pub. L. 107–314, div. C, title XXXI, § 3175][/us/pl/107/314/s3175], Dec. 2, 2002, [116 Stat. 2745][/us/stat/116/2745], provided that:
 
->     “(a) __Requirement for Panel.—__ 
+>     “(a)  __Requirement for Panel__  __.—__ 
 
 >     The Secretary of Defense, in consultation with the Secretary of Energy, shall enter into a contract with a federally funded research and development center to establish a panel for the assessment of the certification process for the reliability, safety, and security of the United States nuclear stockpile.
 
->     “(b) __Composition and Administration of Panel.—__ 
+>     “(b)  __Composition and Administration of Panel__  __.—__ 
 
 >         (1) The panel shall consist of private citizens of the United States with knowledge and expertise in the technical aspects of design, manufacture, and maintenance of nuclear weapons.
 
 >         “(2) The federally funded research and development center shall be responsible for establishing appropriate procedures for the panel, including selection of a panel chairman.
 
->     “(c) __Duties of Panel.—__ 
+>     “(c)  __Duties of Panel__  __.—__ 
 
 >     Each year the panel shall review and assess the following:
 
@@ -103,11 +103,11 @@
 
 >         “(3) The adequacy of the criteria established by the Secretary of Energy pursuant to section 3158 \[formerly set out as a note above\] for achieving the purposes for which those criteria are established.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than October 1 of 1999 and 2000, and not later than February 1, 2002, the panel shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report setting forth its findings and conclusions resulting from the review and assessment carried out for the year covered by the report. The report shall be submitted in classified and unclassified form.
 
->     “(e) __Cooperation of Other Agencies.—__ 
+>     “(e)  __Cooperation of Other Agencies__  __.—__ 
 
 >         (1) The panel may secure directly from the Department of Energy, the Department of Defense, or any of the national weapons laboratories or plants or any other Federal department or agency information that the panel considers necessary to carry out its duties.
 
@@ -115,19 +115,19 @@
 
 >         “(3) The Secretary of Energy and the Secretary of Defense shall each designate at least one officer or employee of the Department of Energy and the Department of Defense, respectively, to serve as a liaison officer between the department and the panel.
 
->     “(f) __Funding.—__ 
+>     “(f)  __Funding__  __.—__ 
 
 >     The Secretary of Defense and the Secretary of Energy shall each contribute 50 percent of the amount of funds that are necessary for the panel to carry out its duties. Funds available for the Department of Energy for the National Nuclear Security Administration shall be available for the Department of Energy contribution.
 
->     “(g) __Termination of Panel.—__ 
+>     “(g)  __Termination of Panel__  __.—__ 
 
 >     The panel shall terminate April 1, 2003.
 
->     “(h) __Initial Implementation.—__ 
+>     “(h)  __Initial Implementation__  __.—__ 
 
 >     The Secretary of Defense shall enter into the contract required under subsection (a) not later than 60 days after the date of the enactment of this Act \[Oct. 17, 1998\]. The panel shall convene its first meeting not later than 30 days after the date as of which all members of the panel have been appointed.
 
->     “(i) __Follow-Up Report.—__ 
+>     “(i)  __Follow-Up Report__  __.—__ 
 
 >     Not later than February 1, 2003, the panel shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a follow-up report assessing progress toward meeting the expectations set forth by the panel for the United States stockpile stewardship program, and making recommendations for corrective legislative action where progress has been unsatisfactory.”
 
@@ -135,11 +135,11 @@
 
 [Pub. L. 104–201, div. C, title XXXI, § 3162][/us/pl/104/201/s3162], Sept. 23, 1996, [110 Stat. 2843][/us/stat/110/2843], as amended by [Pub. L. 105–85, div. C, title XXXI, § 3163][/us/pl/105/85/s3163], Nov. 18, 1997, [111 Stat. 2049][/us/stat/111/2049], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is hereby established a commission to be known as the ‘Commission on Maintaining United States Nuclear Weapons Expertise’ (in this section referred to as the ‘Commission’).
 
->     “(b) __Organizational Matters.—__ 
+>     “(b)  __Organizational Matters__  __.—__ 
 
 >         (1)
 
@@ -167,7 +167,7 @@
 
 >         “(2) The members of the Commission shall establish procedures for the activities of the Commission, including procedures for calling meetings, requirements for quorums, and the manner of taking votes.
 
->     “(c) __Duties.—__ 
+>     “(c)  __Duties__  __.—__ 
 
 >         (1) The Commission shall develop a plan for recruiting and retaining within the Department of Energy nuclear weapons complex such scientific, engineering, and technical personnel as the Commission determines appropriate in order to permit the Department to maintain over the long term a safe and reliable nuclear weapons stockpile without engaging in underground testing.
 
@@ -179,11 +179,11 @@
 
 >             “(B) review and recommend improvements to the on-going efforts of the Department to attract such personnel to the nuclear weapons complex.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than March 15, 1999, the Commission shall submit to the Secretary and to Congress a report containing the plan developed under subsection (c). The report may include recommendations for legislation and administrative action.
 
->     “(e) __Commission Personnel Matters.—__ 
+>     “(e)  __Commission Personnel Matters__  __.—__ 
 
 >         (1) Each member of the Commission who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315], United States Code, for each day (including travel time) during which such member is engaged in the performance of the duties of the Commission. All members of the Commission who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.
 
@@ -193,15 +193,15 @@
 
 >         “(4) Any Federal Government employee may be detailed to the Commission without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
 
->     “(f) __Termination.—__ 
+>     “(f)  __Termination__  __.—__ 
 
 >     The Commission shall terminate 30 days after the date on which the Commission submits its report under subsection (d).
 
->     “(g) __Applicability of FACA.—__ 
+>     “(g)  __Applicability of FACA__  __.—__ 
 
 >     The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the activities of the Commission.
 
->     “(h) __Funding.—__ 
+>     “(h)  __Funding__  __.—__ 
 
 >     Of the amounts authorized to be appropriated pursuant to section 3101 \[[110 Stat. 2820][/us/stat/110/2820]\], not more than $1,000,000 shall be available for the activities of the Commission under this section. Funds made available to the Commission under this section shall remain available until expended.”
 
@@ -251,11 +251,11 @@
 
 [Pub. L. 103–160, div. A, title II, § 261][/us/pl/103/160/s261], Nov. 30, 1993, [107 Stat. 1608][/us/stat/107/1608], provided that:
 
->     “(a) __Limitation on Obligation of Funds.—__ 
+>     “(a)  __Limitation on Obligation of Funds__  __.—__ 
 
 >     The Secretary of Defense may not obligate funds in preparation for any activity of the Department of Defense, including the so-called ‘Mighty Uncle’ test, to study the effects of a nuclear weapon explosion through underground nuclear weapons testing unless that test is permitted in accordance with the provisions of [section 507 of Public Law 102–377][/us/pl/102/377/s507] \[set out below\] ([106 Stat. 1343][/us/stat/106/1343]).
 
->     “(b) __Certain Actions Not Prohibited.—__ 
+>     “(b)  __Certain Actions Not Prohibited__  __.—__ 
 
 >     Subsection (a) does not preclude the Secretary of Defense, acting through the Director of the Defense Nuclear Agency, from—
 
@@ -263,7 +263,7 @@
 
 >         “(2) expending funds for infrastructure activities not covered by the limitation in subsection (a).
 
->     “(c) __Funding.—__ 
+>     “(c)  __Funding__  __.—__ 
 
 >     Of the funds authorized to be appropriated pursuant to section 201 \[[107 Stat. 1583][/us/stat/107/1583]\] for Defense-wide activities, not more than $38,000,000 may be used for activities described in subsection (b).”
 

@@ -681,7 +681,7 @@
 
 >     “(1) __GAO study and report on quality assurance and accreditation standards.—__ 
 
->         “(A) __Study.—__ 
+>         “(A)  __Study__  __.—__ 
 
 >         The Comptroller General of the United States shall conduct a study and analysis of the quality assurance programs and accreditation standards applicable to managed care entities operating in the private sector, or to such entities that operate under contracts under the medicare program under title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.). Such study shall determine—
 
@@ -689,17 +689,17 @@
 
 >             “(ii) the appropriateness of applying such programs and standards to medicaid managed care organizations under section 1932(c) of such Act \[[42 U.S.C. 1396u–2(c)][/us/usc/t42/s1396u–2/c]\].
 
->         “(B) __Report.—__ 
+>         “(B)  __Report__  __.—__ 
 
 >         The Comptroller General shall submit a report to the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives and the Committee on Finance of the Senate on the study conducted under subparagraph (A).
 
 >     “(2) __Study and report on services provided to individuals with special health care needs.—__ 
 
->         “(A) __Study.—__ 
+>         “(A)  __Study__  __.—__ 
 
 >         The Secretary of Health and Human Services, in consultation with States, managed care organizations, the National Academy of State Health Policy, representatives of beneficiaries with special health care needs, experts in specialized health care, and others, shall conduct a study concerning safeguards (if any) that may be needed to ensure that the health care needs of individuals with special health care needs and chronic conditions who are enrolled with medicaid managed care organizations are adequately met.
 
->         “(B) __Report.—__ 
+>         “(B)  __Report__  __.—__ 
 
 >         Not later than 2 years after the date of the enactment of this Act \[Aug. 5, 1997\], the Secretary shall submit to Committees described in paragraph (1)(B) a report on such study.”
 

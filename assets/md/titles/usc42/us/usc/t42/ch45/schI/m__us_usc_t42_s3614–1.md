@@ -81,21 +81,21 @@
 
 [Pub. L. 104–208, div. A, title II, § 2302(b)(2)][/us/pl/104/208/s2302/b/2], Sept. 30, 1996, [110 Stat. 3009–423][/us/stat/110/3009-423], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Not later than 6 months after the date of enactment of this Act \[Sept. 30, 1996\], in consultation with the Board and after providing notice and an opportunity for public comment, the Secretary of Housing and Urban Development shall prescribe final regulations to implement section 814A of the Fair Housing Act \[[42 U.S.C. 3614–1][/us/usc/t42/s3614–1]\], as added by this section.
 
 >     “(B) __Self-test.—__ 
 
->         “(i) __Definition.—__ 
+>         “(i)  __Definition__  __.—__ 
 
 >         The regulations prescribed by the Secretary under subparagraph (A) shall include a definition of the term “self-test” for purposes of section 814A of the Fair Housing Act, as added by this section.
 
->         “(ii) __Requirement for self-test.—__ 
+>         “(ii)  __Requirement for self-test__  __.—__ 
 
 >         The regulations prescribed by the Secretary under subparagraph (A) shall specify that a self-test shall be sufficiently extensive to constitute a determination of the level and effectiveness of the compliance by a person engaged in residential real estate related lending activities with the Fair Housing Act \[[42 U.S.C. 3601][/us/usc/t42/s3601] et seq.\].
 
->         “(iii) __Substantial similarity to certain equal credit opportunity act regulations.—__ 
+>         “(iii)  __Substantial similarity to certain equal credit opportunity act regulations__  __.—__ 
 
 >         The regulations prescribed under subparagraph (A) shall be substantially similar to the regulations prescribed by the Board to carry out section 704A of the Equal Credit Opportunity Act \[[15 U.S.C. 1691c–1][/us/usc/t15/s1691c–1]\], as added by this section.”
 

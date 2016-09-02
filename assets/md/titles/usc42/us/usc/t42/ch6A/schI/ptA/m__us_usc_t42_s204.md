@@ -93,11 +93,11 @@
 
 [Pub. L. 111–148, title V, § 5701][/us/pl/111/148/s5701], Mar. 23, 2010, [124 Stat. 684][/us/stat/124/684], provided that:
 
->     “(a) __Reports by Secretary of Health and Human Services.—__ 
+>     “(a)  __Reports by Secretary of Health and Human Services__  __.—__ 
 
 >     On an annual basis, the Secretary of Health and Human Services shall submit to the appropriate Committees of Congress a report on the activities carried out under the amendments made by this title \[see Tables for classification\], and the effectiveness of such activities.
 
->     “(b) __Reports by Recipients of Funds.—__ 
+>     “(b)  __Reports by Recipients of Funds__  __.—__ 
 
 >     The Secretary of Health and Human Services may require, as a condition of receiving funds under the amendments made by this title, that the entity receiving such award submit to such Secretary such reports as the such Secretary may require on activities carried out with such award, and the effectiveness of such activities.”
 

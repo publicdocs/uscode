@@ -243,7 +243,7 @@
 
 [Pub. L. 106–169, title II, § 210][/us/pl/106/169/s210], Dec. 14, 1999, [113 Stat. 1842][/us/stat/113/1842], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     As soon as practicable after the date of the enactment of this Act \[Dec. 14, 1999\], the Commissioner of Social Security, in consultation with the Inspector General of the Social Security Administration and the Attorney General, shall conduct a study of possible measures to improve—
 
@@ -251,7 +251,7 @@
 
 >         “(2) timely processing of reported income changes by individuals receiving such benefits.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Dec. 14, 1999\], the Commissioner shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a written report that contains the results of the Commissioner’s study under subsection (a). The report shall contain such recommendations for legislative and administrative changes as the Commissioner considers appropriate.”
 

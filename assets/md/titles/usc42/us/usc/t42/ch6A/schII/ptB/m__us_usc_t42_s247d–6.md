@@ -287,7 +287,7 @@
 
 [Pub. L. 107–188, title I, § 101(b)(1)][/us/pl/107/188/s101/b/1], June 12, 2002, [116 Stat. 598][/us/stat/116/598], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act \[June 12, 2002\], the Secretary of Health and Human Services (referred to in this subsection as the ‘Secretary’) shall submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate, a report concerning—
 

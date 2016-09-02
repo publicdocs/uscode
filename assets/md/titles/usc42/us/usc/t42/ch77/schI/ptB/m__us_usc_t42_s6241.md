@@ -287,11 +287,11 @@
 
 [Pub. L. 105–388, § 9(b)][/us/pl/105/388/s9/b], Nov. 13, 1998, [112 Stat. 3484][/us/stat/112/3484], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Energy shall issue such regulations as are necessary to carry out the amendment made by subsection (a) \[amending this section\].
 
->     “(2) __Administrative procedure.—__ 
+>     “(2)  __Administrative procedure__  __.—__ 
 
 >     Regulations issued to carry out the amendment made by subsection (a) shall not be subject to—
 

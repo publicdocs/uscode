@@ -37,7 +37,7 @@
 
                 (iii) such contract is governed by part 17.1 of the Federal Acquisition Regulation promulgated under [section 1303 of title 41][/us/usc/t41/s1303] or the applicable rules promulgated under this subchapter.
 
-            (E) __Funding options.—__ 
+            (E)  __Funding options__  __.—__ 
 
             In carrying out a contract under this subchapter, a Federal agency may use any combination of—
 
@@ -45,7 +45,7 @@
 
                 (ii) private financing under an energy savings performance contract.
 
-            (F) __Promotion of contracts.—__ 
+            (F)  __Promotion of contracts__  __.—__ 
 
             In carrying out this section, a Federal agency shall not—
 
@@ -55,11 +55,11 @@
 
             (G) __Measurement and verification requirements for private financing.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 In the case of energy savings performance contracts, the evaluations and savings measurement and verification required under paragraphs (2) and (4) of [section 8253(f) of this title][/us/usc/t42/s8253/f] shall be used by a Federal agency to meet the requirements for the need for energy audits, calculation of energy savings, and any other evaluation of costs and savings needed to implement the guarantee of savings under this section.
 
-                (ii) __Modification of existing contracts.—__ 
+                (ii)  __Modification of existing contracts__  __.—__ 
 
                 Not later than 18 months after December 19, 2007, each Federal agency shall, to the maximum extent practicable, modify any indefinite delivery and indefinite quantity energy savings performance contracts, and other indefinite delivery and indefinite quantity contracts using private financing, to conform to the amendments made by subtitle B of title V of the Energy Independence and Security Act of 2007.
 
@@ -219,11 +219,11 @@ The following substitutions were made on authority of [Pub. L. 111–350, § 6
 
 [Pub. L. 100–456, div. A, title VII, § 736][/us/pl/100/456/s736], Sept. 29, 1988, [102 Stat. 2006][/us/stat/102/2006], as amended by [Pub. L. 101–189, div. A, title III, § 331][/us/pl/101/189/s331], Nov. 29, 1989, [103 Stat. 1417][/us/stat/103/1417], provided that:
 
->     “(a) __Energy Conservation Incentive.—__ 
+>     “(a)  __Energy Conservation Incentive__  __.—__ 
 
 >     In order to provide additional incentive for the Secretary of a military department to enter into contracts under title VIII of the National Energy Conservation Policy Act ([42 U.S.C. 8287][/us/usc/t42/s8287] et seq.), the Secretary may use the energy cost savings realized by the United States during the first five years under any such contract in the manner provided in subsection (b). The amount of savings available for use under subsection (b) shall be determined as provided in subsection (c) and shall remain available for obligation until expended.
 
->     “(b) __Authorized Uses of Savings.—__ 
+>     “(b)  __Authorized Uses of Savings__  __.—__ 
 
 >     The energy cost savings realized by the United States in each of the first five years under a contract may be used as follows:
 
@@ -231,7 +231,7 @@ The following substitutions were made on authority of [Pub. L. 111–350, § 6
 
 >         “(2) One-half of the amount of such savings may be used for any morale, welfare, or recreation facility or service that is normally provided with appropriated funds, or for any minor military construction project (as defined in [section 2805(a) of title 10][/us/usc/t10/s2805/a], United States Code), that will enhance the quality of life of members of the Armed Forces at the military installation at which the energy cost savings were realized.
 
->     “(c) __Determination of Amount of Savings.—__ 
+>     “(c)  __Determination of Amount of Savings__  __.—__ 
 
 >     Not more than 90 days after the end of each of the first five years during which energy savings measures have been in operation under a contract entered into by the Secretary of a military department under title VIII of the National Energy Conservation Policy Act, the Secretary of the military department concerned shall determine the amount of energy cost savings realized by the United States under the terms of the contract during that year by reason of the energy savings measures acquired and installed at that installation pursuant to that contract.”
 

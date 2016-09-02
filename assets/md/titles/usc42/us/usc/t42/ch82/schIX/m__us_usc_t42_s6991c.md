@@ -65,7 +65,7 @@
 
         (5) For the purpose of this subsection, the term “guarantor” means any person, other than the owner or operator, who provides evidence of financial responsibility for an owner or operator under this subsection.
 
-        (6) __Withdrawal of approval.—__ 
+        (6)  __Withdrawal of approval__  __.—__ 
 
         After an opportunity for good faith, collaborative efforts to correct financial deficiencies with a State fund, the Administrator may withdraw approval of any State fund or State assurance program to be used as a financial responsibility mechanism without withdrawing approval of a State underground storage tank program under subsection (a) of this section.
 

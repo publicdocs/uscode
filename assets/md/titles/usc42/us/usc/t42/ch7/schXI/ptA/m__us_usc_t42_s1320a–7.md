@@ -439,11 +439,11 @@
 
 [Pub. L. 111–148, title VI, § 6408(d)][/us/pl/111/148/s6408/d], Mar. 23, 2010, [124 Stat. 772][/us/stat/124/772], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1320a–7a and 1395w–27 of this title\] shall apply to acts committed on or after January 1, 2010.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendments made by subsection (b)(1) \[amending [section 1395w–27 of this title][/us/usc/t42/s1395w–27]\] take effect on the date of enactment of this Act \[Mar. 23, 2010\].”
 
@@ -487,15 +487,15 @@
 
 [Pub. L. 100–93, § 15][/us/pl/100/93/s15], Aug. 18, 1987, [101 Stat. 698][/us/stat/101/698], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsections (b), (c), (d), and (e), the amendments made by this Act \[enacting sections 1395aaa and 1396r–2 of this title, amending this section, sections 704, 1320a–3, 1320a–5, 1320a–7a, 1320a–7b, 1320c–5, 1395u, 1395y, 1395cc, 1395ff, 1395nn, 1395rr, 1395ss, 1395ww, 1396a, 1396b, 1396h, 1396n, 1396s, and 1397d of this title, and [section 824 of Title 21][/us/usc/t21/s824], Food and Drugs, transferring [section 1396h of this title][/us/usc/t42/s1396h] to [section 1320a–7b of this title][/us/usc/t42/s1320a–7b], repealing [section 1395nn of this title][/us/usc/t42/s1395nn], enacting provisions set out as a note under [section 1320a–7b of this title][/us/usc/t42/s1320a–7b], and amending provisions set out as a note under [section 1396a of this title][/us/usc/t42/s1396a]\] shall become effective at the end of the fourteen-day period beginning on the date of the enactment of this Act \[Aug. 18, 1987\] and shall not apply to administrative proceedings commenced before the end of such period.
 
->     “(b) __Mandatory Minimum Exclusions Apply Prospectively.—__ 
+>     “(b)  __Mandatory Minimum Exclusions Apply Prospectively__  __.—__ 
 
 >     Section 1128(c)(3)(B) of the Social Security Act \[[42 U.S.C. 1320a–7(c)(3)(B)][/us/usc/t42/s1320a–7/c/3/B]\] (as amended by this Act), which requires an exclusion of not less than five years in the case of certain exclusions, shall not apply to exclusions based on convictions occurring before the date of the enactment of this Act \[Aug. 18, 1987\].
 
->     “(c) __Effective Date for Changes in Medicaid Law.—__ 
+>     “(c)  __Effective Date for Changes in Medicaid Law__  __.—__ 
 
 >         (1) The amendments made by sections 5 and 8(f) \[enacting [section 1396r–2 of this title][/us/usc/t42/s1396r–2] and amending sections 1396a and 1396s of this title\] apply (except as provided under paragraph (2)) to payments under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calendar quarters beginning more than thirty days after the date of the enactment of this Act \[Aug. 18, 1987\], without regard to whether or not final regulations to carry out such amendment have been published by such date.
 
@@ -503,15 +503,15 @@
 
 >         “(3) Subsection (j) of section 1128A of the Social Security Act \[[42 U.S.C. 1320a–7a(j)][/us/usc/t42/s1320a–7a/j]\] (as added by section 3(f) of this Act) takes effect on the date of the enactment of this Act.
 
->     “(d) __Physician Misrepresentations.—__ 
+>     “(d)  __Physician Misrepresentations__  __.—__ 
 
 >     Clauses (ii) and (iii) of section 1128A(a)(1)(C) of the Social Security Act \[[42 U.S.C. 1320a–7a(a)(1)(C)(ii)][/us/usc/t42/s1320a–7a/a/1/C/ii], (iii)\], as amended by section 3(a)(1) of this Act, apply to claims presented for services performed on or after the effective date specified in subsection (a), without regard to the date the misrepresentation of fact was made.
 
->     “(e) __Clarification of Medicaid Moratorium.—__ 
+>     “(e)  __Clarification of Medicaid Moratorium__  __.—__ 
 
 >     The amendments made by section 9 of this Act \[amending provisions set out as a note under [section 1396a of this title][/us/usc/t42/s1396a]\] shall apply as though they were originally included in the enactment of section 2373(c) of the Deficit Reduction Act of 1984 \[set out as a note under [section 1396a of this title][/us/usc/t42/s1396a]\].
 
->     “(f) __Treatment of Certain Denials of Payment.—__ 
+>     “(f)  __Treatment of Certain Denials of Payment__  __.—__ 
 
 >     For purposes of section 1128(b)(8)(B)(iii) of the Social Security Act \[[42 U.S.C. 1320a–7(b)(8)(B)(iii)][/us/usc/t42/s1320a–7/b/8/B/iii]\] (as amended by section 2 of this Act), a person shall be considered to have been excluded from participation under a program under title XVIII \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] if payment to the person has been denied under section 1862(d) of the Social Security Act \[[42 U.S.C. 1395y(d)][/us/usc/t42/s1395y/d]\], as in effect before the effective date specified in subsection (a).”
 

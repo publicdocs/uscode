@@ -193,11 +193,11 @@
 
 [Pub. L. 102–486, title I, § 141(d)][/us/pl/102/486/s141/d], Oct. 24, 1992, [106 Stat. 2841][/us/stat/106/2841], provided that:
 
->     “(1) __In General.—__ 
+>     “(1)  __In General__  __.—__ 
 
 >     The Administrator of the National Highway Traffic Safety Administration, in consultation with State agencies with jurisdiction over traffic safety issues, shall conduct a study on the safety impact of the requirement specified in section 362(c)(5) of the Energy Policy and Conservation Act ([42 U.S.C. 6322(c)(5)][/us/usc/t42/s6322/c/5]), particularly with respect to the impact on pedestrian safety.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     The Administrator shall report the findings of the study conducted under paragraph (1) to the Congress and the Secretary not later than 2 years after the date of the enactment of this Act \[Oct. 24, 1992\].”
 

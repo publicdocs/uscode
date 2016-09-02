@@ -55,21 +55,21 @@
 
             whichever is later.
 
-        (7) __Authorization.—__ 
+        (7)  __Authorization__  __.—__ 
 
         For the purpose of making grants under paragraph (1), there are authorized to be appropriated $100,000,000 for each of fiscal years 1997 through 2003.
 
-        (8) __Reservation of funds by the administrator.—__ 
+        (8)  __Reservation of funds by the administrator__  __.—__ 
 
         If the Administrator assumes the primary enforcement responsibility of a State public water system supervision program, the Administrator may reserve from funds made available pursuant to this subsection an amount equal to the amount that would otherwise have been provided to the State pursuant to this subsection. The Administrator shall use the funds reserved pursuant to this paragraph to ensure the full and effective administration of a public water system supervision program in the State.
 
         (9) __State loan funds.—__ 
 
-            (A) __Reservation of funds.—__ 
+            (A)  __Reservation of funds__  __.—__ 
 
             For any fiscal year for which the amount made available to the Administrator by appropriations to carry out this subsection is less than the amount that the Administrator determines is necessary to supplement funds made available pursuant to paragraph (8) to ensure the full and effective administration of a public water system supervision program in a State, the Administrator may reserve from the funds made available to the State under [section 300j–12 of this title][/us/usc/t42/s300j–12] (relating to State loan funds) an amount that is equal to the amount of the shortfall. This paragraph shall not apply to any State not exercising primary enforcement responsibility for public water systems as of August 6, 1996.
 
-            (B) __Duty of administrator.—__ 
+            (B)  __Duty of administrator__  __.—__ 
 
             If the Administrator reserves funds from the allocation of a State under subparagraph (A), the Administrator shall carry out in the State each of the activities that would be required of the State if the State had primary enforcement authority under [section 300g–2 of this title][/us/usc/t42/s300g–2].
 

@@ -193,27 +193,27 @@
 
 >     “(a) __Establishment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary \[of Health and Human Services\], in consultation with the Inspector General of the Department of Health and Human Services, shall conduct a demonstration project to develop, test, and implement an independent monitor program to oversee interstate and large intrastate chains of skilled nursing facilities and nursing facilities.
 
->         “(2) __Selection.—__ 
+>         “(2)  __Selection__  __.—__ 
 
 >         The Secretary shall select chains of skilled nursing facilities and nursing facilities described in paragraph (1) to participate in the demonstration project under this section from among those chains that submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
->         “(3) __Duration.—__ 
+>         “(3)  __Duration__  __.—__ 
 
 >         The Secretary shall conduct the demonstration project under this section for a 2-year period.
 
->         “(4) __Implementation.—__ 
+>         “(4)  __Implementation__  __.—__ 
 
 >         The Secretary shall implement the demonstration project under this section not later than 1 year after the date of the enactment of this Act \[Mar. 23, 2010\].
 
->     “(b) __Requirements.—__ 
+>     “(b)  __Requirements__  __.—__ 
 
 >     The Secretary shall evaluate chains selected to participate in the demonstration project under this section based on criteria selected by the Secretary, including where evidence suggests that a number of the facilities of the chain are experiencing serious safety and quality of care problems. Such criteria may include the evaluation of a chain that includes a number of facilities participating in the ‘Special Focus Facility’ program (or a successor program) or multiple facilities with a record of repeated serious safety and quality of care deficiencies.
 
->     “(c) __Responsibilities.—__ 
+>     “(c)  __Responsibilities__  __.—__ 
 
 >     An independent monitor that enters into a contract with the Secretary to participate in the conduct of the demonstration project under this section shall—
 
@@ -229,7 +229,7 @@
 
 >     “(d) __Implementation of Recommendations.—__ 
 
->         “(1) __Receipt of finding by chain.—__ 
+>         “(1)  __Receipt of finding by chain__  __.—__ 
 
 >         Not later than 10 days after receipt of a finding of an independent monitor under subsection (c)(4), a chain participating in the demonstration project shall submit to the independent monitor a report—
 
@@ -237,53 +237,53 @@
 
 >             “(B) indicating that the chain will not implement such recommendations, and why it will not do so.
 
->         “(2) __Receipt of report by independent monitor.—__ 
+>         “(2)  __Receipt of report by independent monitor__  __.—__ 
 
 >         Not later than 10 days after receipt of a report submitted by a chain under paragraph (1), an independent monitor shall finalize its recommendations and submit a report to the chain and facilities of the chain, the Secretary, and the State or States, as appropriate, containing such final recommendations.
 
->     “(e) __Cost of Appointment.—__ 
+>     “(e)  __Cost of Appointment__  __.—__ 
 
 >     A chain shall be responsible for a portion of the costs associated with the appointment of independent monitors under the demonstration project under this section. The chain shall pay such portion to the Secretary (in an amount and in accordance with procedures established by the Secretary).
 
->     “(f) __Waiver Authority.—__ 
+>     “(f)  __Waiver Authority__  __.—__ 
 
 >     The Secretary may waive such requirements of titles XVIII and XIX of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.; 1396 et seq.) as may be necessary for the purpose of carrying out the demonstration project under this section.
 
->     “(g) __Authorization of Appropriations.—__ 
+>     “(g)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
->     “(h) __Definitions.—__ 
+>     “(h)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Additional disclosable party.—__ 
+>         “(1)  __Additional disclosable party__  __.—__ 
 
 >         The term ‘additional disclosable party’ has the meaning given such term in section 1124(c)(5)(A) of the Social Security Act \[[42 U.S.C. 1320a–3(c)(5)(A)][/us/usc/t42/s1320a–3/c/5/A]\], as added by section 4201(a) \[probably should be “6101(a)”\].
 
->         “(2) __Facility.—__ 
+>         “(2)  __Facility__  __.—__ 
 
 >         The term ‘facility’ means a skilled nursing facility or a nursing facility.
 
->         “(3) __Nursing facility.—__ 
+>         “(3)  __Nursing facility__  __.—__ 
 
 >         The term ‘nursing facility’ has the meaning given such term in section 1919(a) of the Social Security Act ([42 U.S.C. 1396r(a)][/us/usc/t42/s1396r/a]).
 
->         “(4) __Secretary.—__ 
+>         “(4)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of Health and Human Services, acting through the Assistant Secretary for Planning and Evaluation.
 
->         “(5) __Skilled nursing facility.—__ 
+>         “(5)  __Skilled nursing facility__  __.—__ 
 
 >         The term ‘skilled nursing facility’ has the meaning given such term in section 1819(a) of the Social Security Act ([42 U.S.C. 1395(a)][/us/usc/t42/s1395/a] \[1395i–3(a)\]).
 
 >     “(i) __Evaluation and Report.—__ 
 
->         “(1) __Evaluation.—__ 
+>         “(1)  __Evaluation__  __.—__ 
 
 >         The Secretary, in consultation with the Inspector General of the Department of Health and Human Services, shall evaluate the demonstration project conducted under this section.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than 180 days after the completion of the demonstration project under this section, the Secretary shall submit to Congress a report containing the results of the evaluation conducted under paragraph (1), together with recommendations—
 

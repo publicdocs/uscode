@@ -309,11 +309,11 @@
 
 [Pub. L. 103–252, title I, § 127][/us/pl/103/252/s127], May 18, 1994, [108 Stat. 651][/us/stat/108/651], provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     This title \[see Short Title of 1994 Amendment note set out under [section 9801 of this title][/us/usc/t42/s9801]\], and the amendments made by this title, shall take effect on the date of enactment of this title \[May 18, 1994\].
 
->     “(b) __Application.—__ 
+>     “(b)  __Application__  __.—__ 
 
 >     The requirements of this title and the amendments made by this title shall not apply to Head Start agencies and other recipients of financial assistance under the Head Start Act \[[42 U.S.C. 9831][/us/usc/t42/s9831] et seq.\] until October 1, 1994.”
 

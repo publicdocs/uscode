@@ -39,7 +39,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 103–317, title VI, § 610][/us/pl/103/317/s610], Aug. 26, 1994, [108 Stat. 1774][/us/stat/108/1774], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -65,7 +65,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(11) the subject of religious harassment also raises issues about human interaction that are to some extent unique in comparison to other harassment.
 
->     “(b) __Category of Religious Harassment in Proposed Guidelines.—__ 
+>     “(b)  __Category of Religious Harassment in Proposed Guidelines__  __.—__ 
 
 >     For purposes of issuing final regulations under title VII of the Civil Rights Act of 1964 \[[42 U.S.C. 2000e][/us/usc/t42/s2000e] et seq.\] in connection with the proposed guidelines published by the Equal Employment Opportunity Commission on October 1, 1993 (58 Fed. Reg. 51266), the Chairperson of the Equal Employment Opportunity Commission shall ensure that—
 

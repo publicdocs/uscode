@@ -199,11 +199,11 @@
 
         (3) __Relation to State laws__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             In the case of a payment or other transfer of value provided by an applicable manufacturer that is received by a covered recipient (as defined in subsection (e)) on or after January 1, 2012, subject to subparagraph (B), the provisions of this section shall preempt any statute or regulation of a State or of a political subdivision of a State that requires an applicable manufacturer (as so defined) to disclose or report, in any format, the type of information (as described in subsection (a)) regarding such payment or other transfer of value.
 
-            (B) __No preemption of additional requirements.—__ 
+            (B)  __No preemption of additional requirements__  __.—__ 
 
             Subparagraph (A) shall not preempt any statute or regulation of a State or of a political subdivision of a State that requires the disclosure or reporting of information—
 

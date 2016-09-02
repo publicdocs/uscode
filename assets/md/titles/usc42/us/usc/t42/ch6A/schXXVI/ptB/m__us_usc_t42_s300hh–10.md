@@ -249,11 +249,11 @@
 
 [Pub. L. 109–417, title I, § 102(b)][/us/pl/109/417/s102/b], Dec. 19, 2006, [120 Stat. 2834][/us/stat/120/2834], provided that:
 
->     “(1) __Transfer of functions.—__ 
+>     “(1)  __Transfer of functions__  __.—__ 
 
 >     There shall be transferred to the Office of the Assistant Secretary for Preparedness and Response the functions, personnel, assets, and liabilities of the Assistant Secretary for Public Health Emergency Preparedness as in effect on the day before the date of enactment of this Act \[Dec. 19, 2006\].
 
->     “(2) __References.—__ 
+>     “(2)  __References__  __.—__ 
 
 >     Any reference in any Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to the Assistant Secretary for Public Health Emergency Preparedness as in effect the day before the date of enactment of this Act, shall be deemed to be a reference to the Assistant Secretary for Preparedness and Response.”
 

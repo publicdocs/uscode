@@ -143,7 +143,7 @@
 
 [Pub. L. 103–160, div. C, title XXXI, § 3159][/us/pl/103/160/s3159], Nov. 30, 1993, [107 Stat. 1956][/us/stat/107/1956], as amended by [Pub. L. 103–337, div. A, title X, § 1070(b)(16)][/us/pl/103/337/s1070/b/16], Oct. 5, 1994, [108 Stat. 2857][/us/stat/108/2857], provided that:
 
->     “(a) __Goal.—__ 
+>     “(a)  __Goal__  __.—__ 
 
 >     Except as provided in subsection (c), a goal of 5 percent of the amount described in subsection (b) shall be the objective of the Department of Energy in carrying out national security programs of the Department in each of fiscal years 1994 through 2000 for the total combined amount obligated for contracts and subcontracts entered into with—
 
@@ -153,13 +153,13 @@
 
 >         “(3) minority institutions (as defined in section 1046(3) of the Higher Education Act of 1965 ([20 U.S.C. 1135d][/us/usc/t20/s1135d]-5(3))), which, for the purposes of this section, shall include Hispanic-serving institutions (as defined in section 316(b)(1) of such Act ([20 U.S.C. 1059c(b)(1)][/us/usc/t20/s1059c/b/1])).
 
->     “(b) __Amount.—__ 
+>     “(b)  __Amount__  __.—__ 
 
 >         (1) Except as provided in paragraph (2), the requirements of subsection (a) for any fiscal year apply to the combined total of the funds obligated for contracts entered into by the Department of Energy pursuant to competitive procedures for such fiscal year for purposes of carrying out national security programs of the Department.
 
 >         “(2) In computing the combined total of funds under paragraph (1) for a fiscal year, funds obligated for such fiscal year for contracts for naval reactor programs shall not be included.
 
->     “(c) __Applicability.—__ 
+>     “(c)  __Applicability__  __.—__ 
 
 >     Subsection (a) does not apply—
 

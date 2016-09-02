@@ -43,7 +43,7 @@
 
 [Pub. L. 108–173, title I, § 109(d)][/us/pl/108/173/s109/d], Dec. 8, 2003, [117 Stat. 2173][/us/stat/117/2173], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary \[of Health and Human Services\] shall request the Institute of Medicine of the National Academy of Sciences to conduct an evaluation of the program under part B of title XI of the Social Security Act \[[42 U.S.C. 1320c][/us/usc/t42/s1320c] et seq.\]. The study shall include a review of the following:
 
@@ -61,11 +61,11 @@
 
 >         “(G) The conduct of oversight of such organizations.
 
->     “(2) __Report to congress.—__ 
+>     “(2)  __Report to congress__  __.—__ 
 
 >     Not later than June 1, 2006, the Secretary shall submit to Congress a report on the results of the study described in paragraph (1), including any recommendations for legislation.
 
->     “(3) __Increased competition.—__ 
+>     “(3)  __Increased competition__  __.—__ 
 
 >     If the Secretary finds based on the study conducted under paragraph (1) that other entities could improve quality in the medicare program as well as, or better than, the current quality improvement organizations, then the Secretary shall provide for such increased competition through the addition of new types of entities which may perform quality improvement functions.”
 
@@ -73,7 +73,7 @@
 
 [Pub. L. 101–508, title IV, § 4205(c)][/us/pl/101/508/s4205/c], Nov. 5, 1990, [104 Stat. 1388–113][/us/stat/104/1388-113], provided that:
 
->     “(1) __Development and implementation of plan.—__ 
+>     “(1)  __Development and implementation of plan__  __.—__ 
 
 >     The Secretary of Health and Human Services shall develop and implement a plan to coordinate the physician review activities of peer review organizations and carriers. Such plan shall include—
 
@@ -83,7 +83,7 @@
 
 >         “(C) improved methods for exchange of information among peer review organizations and carriers.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than January 1, 1992, the Secretary shall submit to Congress a report on the development of the plan described under paragraph (1) and shall include in the report such recommendations for changes in legislation as may be appropriate.”
 

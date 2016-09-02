@@ -293,11 +293,11 @@
 
 [Pub. L. 103–304, § 3(b)(10)][/us/pl/103/304/s3/b/10], Aug. 23, 1994, [108 Stat. 1568][/us/stat/108/1568], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section and sections 5024, 12591, 12602, 12615, 12619, 12622, 12651d, 12653, and 12655n of this title\] shall take effect on the date of the enactment of this Act \[Aug. 23, 1994\].
 
->     “(B) __Retroactive effective date.—__ 
+>     “(B)  __Retroactive effective date__  __.—__ 
 
 >     The amendments made by paragraphs (1) and (2) \[amending sections 12651d and 12655n of this title\] shall take effect as of October 1, 1993.”
 

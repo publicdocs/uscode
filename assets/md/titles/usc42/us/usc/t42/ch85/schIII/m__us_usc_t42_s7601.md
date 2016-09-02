@@ -99,7 +99,7 @@
 
 > “SEC. 1001. __DISADVANTAGED BUSINESS CONCERNS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In providing for any research relating to the requirements of the amendments made by the Clean Air Act Amendments of 1990 \[[Pub. L. 101–549][/us/pl/101/549], see Tables for classification\] which uses funds of the Environmental Protection Agency, the Administrator of the Environmental Protection Agency shall, to the extent practicable, require that not less than 10 percent of total Federal funding for such research will be made available to disadvantaged business concerns.
 
@@ -157,7 +157,7 @@
 
 >             “(E) Nothing in this paragraph shall prohibit any member of a racial or ethnic group that is not listed in subparagraph (B)(i) from establishing that they have been impeded in establishing or developing a business concern as a result of racial or ethnic discrimination.
 
-> “Sec. 1002. __Use of Quotas Prohibited.—__ 
+> “Sec. 1002.  __Use of Quotas Prohibited__  __.—__ 
 
 > Nothing in this title shall permit or require the use of quotas or a requirement that has the effect of a quota in determining eligibility under section 1001.”
 

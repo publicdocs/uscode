@@ -167,15 +167,15 @@
 
 >     “(1) __Regulations.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The Secretary shall implement the amendments made by this section \[enacting this section and amending [section 1437z of this title][/us/usc/t42/s1437z]\] by regulation issued after notice and opportunity for public comment.
 
->         “(B) __Comments sought.—__ 
+>         “(B)  __Comments sought__  __.—__ 
 
 >         The notice under subparagraph (A) shall seek comments as to the definitions of the terms ‘ownership interest in’ and ‘effective control’, as such terms are used in the definition of the term ‘agent employed to manage such property that has an identity of interest’.
 
->     “(2) __Timing.—__ 
+>     “(2)  __Timing__  __.—__ 
 
 >     A proposed rule implementing the amendments made by this section shall be published not later than 1 year after the date of enactment of this Act \[Oct. 27, 1997\].”
 

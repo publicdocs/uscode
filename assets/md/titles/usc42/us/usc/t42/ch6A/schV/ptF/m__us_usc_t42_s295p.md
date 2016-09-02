@@ -31,7 +31,7 @@
 
     (2) The term “teaching facilities” means areas dedicated for use by students, faculty, or administrative or maintenance personnel for clinical purposes, research activities, libraries, classrooms, offices, auditoriums, dining areas, student activities, or other related purposes necessary for, and appropriate to, the conduct of comprehensive programs of education. Such term includes interim facilities but does not include off-site improvements or living quarters.
 
-    (3) __Physician assistant education program.—__ 
+    (3)  __Physician assistant education program__  __.—__ 
 
     The term “physician assistant education program” means an educational program in a public or private institution in a State that—
 
@@ -105,31 +105,31 @@
 
         (B) is licensed or certified on the basis of the doctoral degree in psychology, by the State in which the individual practices, at the independent practice level of psychology to furnish diagnostic, assessment, preventive, and therapeutic services directly to individuals.
 
-    (12) __Area health education center.—__ 
+    (12)  __Area health education center__  __.—__ 
 
     The term “area health education center” means a public or nonprofit private organization that has a cooperative agreement or contract in effect with an entity that has received an award under subsection (a)(1) or (a)(2) of [section 294a of this title][/us/usc/t42/s294a], satisfies the requirements in [section 294a(d)(1) of this title][/us/usc/t42/s294a/d/1], and has as one of its principal functions the operation of an area health education center. Appropriate organizations may include hospitals, health organizations with accredited primary care training programs, accredited physician assistant educational programs associated with a college or university, and universities or colleges not operating a school of medicine or osteopathic medicine.
 
-    (13) __Area health education center program.—__ 
+    (13)  __Area health education center program__  __.—__ 
 
     The term “area health education center program” means  <sup>\[3\]</sup>  <sup><sup> 3 So in original. The word “a” probably should appear. </sup></sup>  cooperative program consisting of an entity that has received an award under subsection (a)(1) or (a)(2) of [section 294a of this title][/us/usc/t42/s294a] for the purpose of planning, developing, operating, and evaluating an area health education center program and one or more area health education centers, which carries out the required activities described in [section 294a(c) of this title][/us/usc/t42/s294a/c], satisfies the program requirements in such section, <sup>\[4\]</sup>  <sup><sup> 4 So in original. The word “and” probably should appear. </sup></sup>  has as one of its principal functions identifying and implementing strategies and activities that address health care workforce needs in its service area, in coordination with the local workforce investment boards.
 
-    (14) __Clinical social worker.—__ 
+    (14)  __Clinical social worker__  __.—__ 
 
     The term “clinical social worker” has the meaning given the term in [section 1395x(hh)(1) of this title][/us/usc/t42/s1395x/hh/1].
 
-    (15) __Cultural competency.—__ 
+    (15)  __Cultural competency__  __.—__ 
 
     The term “cultural competency” shall be defined by the Secretary in a manner consistent with [section 300u–6(d)(3) of this title][/us/usc/t42/s300u–6/d/3].
 
-    (16) __Direct care worker.—__ 
+    (16)  __Direct care worker__  __.—__ 
 
     The term “direct care worker” has the meaning given that term in the 2010 Standard Occupational Classifications of the Department of Labor for Home Health Aides \[31–1011\], Psychiatric Aides \[31–1013\], Nursing Assistants \[31–1014\], and Personal Care Aides \[39–9021\].
 
-    (17) __Federally qualified health center.—__ 
+    (17)  __Federally qualified health center__  __.—__ 
 
     The term “Federally qualified health center” has the meaning given that term in [section 1395x(aa) of this title][/us/usc/t42/s1395x/aa].
 
-    (18) __Frontier health professional shortage area.—__ 
+    (18)  __Frontier health professional shortage area__  __.—__ 
 
     The term “frontier health professional shortage area” means an area—
 
@@ -137,35 +137,35 @@
 
         (B) with respect to which the distance or time for the population to access care is excessive.
 
-    (19) __Graduate psychology.—__ 
+    (19)  __Graduate psychology__  __.—__ 
 
     The term “graduate psychology” means an accredited program in professional psychology.
 
-    (20) __Health disparity population.—__ 
+    (20)  __Health disparity population__  __.—__ 
 
     The term “health disparity population” has the meaning given such term in [section 299a–1(d)(1) of this title][/us/usc/t42/s299a–1/d/1].
 
-    (21) __Health literacy.—__ 
+    (21)  __Health literacy__  __.—__ 
 
     The term “health literacy” means the degree to which an individual has the capacity to obtain, communicate, process, and understand health information and services in order to make appropriate health decisions.
 
-    (22) __Mental health service professional.—__ 
+    (22)  __Mental health service professional__  __.—__ 
 
     The term “mental health service professional” means an individual with a graduate or postgraduate degree from an accredited institution of higher education in psychiatry, psychology, school psychology, behavioral pediatrics, psychiatric nursing, social work, school social work, substance abuse disorder prevention and treatment, marriage and family counseling, school counseling, or professional counseling.
 
-    (23) __One-stop delivery system center.—__ 
+    (23)  __One-stop delivery system center__  __.—__ 
 
     The term “one-stop delivery system” means a one-stop delivery system described in [section 2864(c) of title 29][/us/usc/t29/s2864/c].
 
-    (24) __Paraprofessional child and adolescent mental health worker.—__ 
+    (24)  __Paraprofessional child and adolescent mental health worker__  __.—__ 
 
     The term “paraprofessional child and adolescent mental health worker” means an individual who is not a mental or behavioral health service professional, but who works at the first stage of contact with children and families who are seeking mental or behavioral health services, including substance abuse prevention and treatment services.
 
-    (25) __Racial and ethnic minority group; racial and ethnic minority population.—__ 
+    (25)  __Racial and ethnic minority group; racial and ethnic minority population__  __.—__ 
 
     The terms “racial and ethnic minority group” and “racial and ethnic minority population” have the meaning given the term “racial and ethnic minority group” in [section 300u–6 of this title][/us/usc/t42/s300u–6].
 
-    (26) __Rural health clinic.—__ 
+    (26)  __Rural health clinic__  __.—__ 
 
     The term “rural health clinic” has the meaning given that term in [section 1395x(aa) of this title][/us/usc/t42/s1395x/aa].
 

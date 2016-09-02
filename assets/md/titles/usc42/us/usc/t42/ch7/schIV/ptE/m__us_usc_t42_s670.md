@@ -77,7 +77,7 @@
 
 > “In this Act:
 
->     “(1) __Abuse and neglect courts.—__ 
+>     “(1)  __Abuse and neglect courts__  __.—__ 
 
 >     The term ‘abuse and neglect courts’ means the State and local courts that carry out State or local laws requiring proceedings (conducted by or under the supervision of the courts)—
 
@@ -89,7 +89,7 @@
 
 >         “(D) that determine any other legal disposition of a child in the abuse and neglect court system.
 
->     “(2) __Agency attorney.—__ 
+>     “(2)  __Agency attorney__  __.—__ 
 
 >     The term ‘agency attorney’ means an attorney or other individual, including any government attorney, district attorney, attorney general, State attorney, county attorney, city solicitor or attorney, corporation counsel, or privately retained special prosecutor, who represents the State or local agency administrating the programs under parts B and E of title IV of the Social Security Act ([42 U.S.C. 620][/us/usc/t42/s620] et seq.; 670 et seq.) in a proceeding conducted by, or under the supervision of, an abuse and neglect court, including a proceeding for termination of parental rights.
 
@@ -97,7 +97,7 @@
 
 >     “(a) __Authority To Award Grants.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), the Attorney General, acting through the Office of Juvenile Justice and Delinquency Prevention of the Office of Justice Programs, shall award grants in accordance with this section to State courts and local courts for the purposes of—
 
@@ -109,25 +109,25 @@
 
 >         “(2) __Limitations.—__ 
 
->             “(A) __Number of grants.—__ 
+>             “(A)  __Number of grants__  __.—__ 
 
 >             Not less than 20 nor more than 50 grants may be awarded under this section.
 
->             “(B) __Per state limitation.—__ 
+>             “(B)  __Per state limitation__  __.—__ 
 
 >             Not more than 2 grants authorized under this section may be awarded per State.
 
->             “(C) __Use of grants.—__ 
+>             “(C)  __Use of grants__  __.—__ 
 
 >             Funds provided under a grant made under this section may only be used for the purpose of developing, implementing, or enhancing automated data collection and case-tracking systems for proceedings conducted by, or under the supervision of, an abuse and neglect court.
 
 >     “(b) __Application.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A State court or local court may submit an application for a grant authorized under this section at such time and in such manner as the Attorney General may determine.
 
->         “(2) __Information required.—__ 
+>         “(2)  __Information required__  __.—__ 
 
 >         An application for a grant authorized under this section shall contain the following:
 
@@ -215,29 +215,29 @@
 
 >         “(1) __Matching requirement.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             A State court or local court awarded a grant under this section shall expend $1 for every $3 awarded under the grant to carry out the development, implementation, and maintenance of the automated data collection and case-tracking system under the proposed plan.
 
->             “(B) __Waiver for hardship.—__ 
+>             “(B)  __Waiver for hardship__  __.—__ 
 
 >             The Attorney General may waive or modify the matching requirement described in subparagraph (A) in the case of any State court or local court that the Attorney General determines would suffer undue hardship as a result of being subject to the requirement.
 
 >             “(C) __Non-federal expenditures.—__ 
 
->                 “(i) __Cash or in kind.—__ 
+>                 “(i)  __Cash or in kind__  __.—__ 
 
 >                 State court or local court expenditures required under subparagraph (A) may be in cash or in kind, fairly evaluated, including plant, equipment, or services.
 
->                 “(ii) __No credit for pre-award expenditures.—__ 
+>                 “(ii)  __No credit for pre-award expenditures__  __.—__ 
 
 >                 Only State court or local court expenditures made after a grant has been awarded under this section may be counted for purposes of determining whether the State court or local court has satisfied the matching expenditure requirement under subparagraph (A).
 
->         “(2) __Notification to state or appropriate child welfare agency.—__ 
+>         “(2)  __Notification to state or appropriate child welfare agency__  __.—__ 
 
 >         No application for a grant authorized under this section may be approved unless the State court or local court submitting the application demonstrates to the satisfaction of the Attorney General that the court has provided the State, in the case of a State court, or the appropriate child welfare agency, in the case of a local court, with notice of the contents and submission of the application.
 
->         “(3) __Considerations.—__ 
+>         “(3)  __Considerations__  __.—__ 
 
 >         In evaluating an application for a grant under this section the Attorney General shall consider the following:
 
@@ -247,21 +247,21 @@
 
 >             “(C) The extent to which the proposed system is feasible and likely to achieve the purposes described in subsection (a)(1).
 
->         “(4) __Diversity of awards.—__ 
+>         “(4)  __Diversity of awards__  __.—__ 
 
 >         The Attorney General shall award grants under this section in a manner that results in a reasonable balance among grants awarded to State courts and grants awarded to local courts, grants awarded to courts located in urban areas and courts located in rural areas, and grants awarded in diverse geographical locations.
 
->     “(d) __Length of Awards.—__ 
+>     “(d)  __Length of Awards__  __.—__ 
 
 >     No grant may be awarded under this section for a period of more than 5 years.
 
->     “(e) __Availability of Funds.—__ 
+>     “(e)  __Availability of Funds__  __.—__ 
 
 >     Funds provided to a State court or local court under a grant awarded under this section shall remain available until expended without fiscal year limitation.
 
 >     “(f) __Reports.—__ 
 
->         “(1) __Annual report from grantees.—__ 
+>         “(1)  __Annual report from grantees__  __.—__ 
 
 >         Each State court or local court that is awarded a grant under this section shall submit an annual report to the Attorney General that contains—
 
@@ -271,21 +271,21 @@
 
 >         “(2) __Interim and final reports from attorney general.—__ 
 
->             “(A) __Interim reports.—__ 
+>             “(A)  __Interim reports__  __.—__ 
 
 >             Beginning 2 years after the date of enactment of this Act \[Oct. 17, 2000\], and biannually thereafter until a final report is submitted in accordance with subparagraph (B), the Attorney General shall submit to Congress interim reports on the grants made under this section.
 
->             “(B) __Final report.—__ 
+>             “(B)  __Final report__  __.—__ 
 
 >             Not later than 90 days after the termination of all grants awarded under this section, the Attorney General shall submit to Congress a final report evaluating the automated data collection and case-tracking systems funded under such grants and identifying successful models of such systems that are suitable for replication in other jurisdictions. The Attorney General shall ensure that a copy of such final report is transmitted to the highest State court in each State.
 
->     “(g) __Authorization of Appropriations.—__ 
+>     “(g)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to carry out this section, $10,000,000 for the period of fiscal years 2001 through 2005.
 
 > “SEC. 5. __GRANTS TO REDUCE PENDING BACKLOGS OF ABUSE AND NEGLECT CASES TO PROMOTE PERMANENCY FOR ABUSED AND NEGLECTED CHILDREN.__ 
 
->     “(a) __Authority To Award Grants.—__ 
+>     “(a)  __Authority To Award Grants__  __.—__ 
 
 >     The Attorney General, acting through the Office of Juvenile Justice and Delinquency Prevention of the Office of Justice Programs and in collaboration with the Secretary of Health and Human Services, shall award grants in accordance with this section to State courts and local courts for the purposes of—
 
@@ -293,7 +293,7 @@
 
 >         “(2) enabling such courts to reduce existing backlogs of cases pending in abuse and neglect courts, especially with respect to cases to terminate parental rights and cases in which parental rights to a child have been terminated but an adoption of the child has not yet been finalized.
 
->     “(b) __Application.—__ 
+>     “(b)  __Application__  __.—__ 
 
 >     A State court or local court shall submit an application for a grant under this section, in such form and manner as the Attorney General shall require, that contains a description of the following:
 
@@ -305,7 +305,7 @@
 
 >         “(4) How the grant funds requested will be used to assist the implementation of the strategies described in paragraph (3).
 
->     “(c) __Use of Funds.—__ 
+>     “(c)  __Use of Funds__  __.—__ 
 
 >     Funds provided under a grant awarded under this section may be used for any purpose that the Attorney General determines is likely to successfully achieve the purposes described in subsection (a), including temporarily—
 
@@ -317,15 +317,15 @@
 
 >         “(4) extending the operating hours of such courts.
 
->     “(d) __Number of Grants.—__ 
+>     “(d)  __Number of Grants__  __.—__ 
 
 >     Not less than 15 nor more than 20 grants shall be awarded under this section.
 
->     “(e) __Availability of Funds.—__ 
+>     “(e)  __Availability of Funds__  __.—__ 
 
 >     Funds awarded under a grant made under this section shall remain available for expenditure by a grantee for a period not to exceed 3 years from the date of the grant award.
 
->     “(f) __Report on Use of Funds.—__ 
+>     “(f)  __Report on Use of Funds__  __.—__ 
 
 >     Not later than the date that is halfway through the period for which a grant is awarded under this section, and 90 days after the end of such period, a State court or local court awarded a grant under this section shall submit a report to the Attorney General that includes the following:
 
@@ -345,13 +345,13 @@
 
 >         “(5) Any additional information that the Attorney General determines would assist jurisdictions in achieving the permanency goals established in the Adoption and Safe Families Act of 1997.
 
->     “(g) __Authorization of Appropriations.—__ 
+>     “(g)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated for the period of fiscal years 2001 and 2002 $10,000,000 for the purpose of making grants under this section.
 
 > “SEC. 6. __GRANTS TO EXPAND THE COURT-APPOINTED SPECIAL ADVOCATE PROGRAM IN UNDERSERVED AREAS.__ 
 
->     “(a) __Grants To Expand CASA Programs in Underserved Areas.—__ 
+>     “(a)  __Grants To Expand CASA Programs in Underserved Areas__  __.—__ 
 
 >     The Administrator of the Office of Juvenile Justice and Delinquency Prevention of the Department of Justice shall make a grant to the National Court-Appointed Special Advocate Association for the purposes of—
 
@@ -361,15 +361,15 @@
 
 >         “(3) providing training and supervision of volunteers in court-appointed special advocate programs.
 
->     “(b) __Limitation on Administrative Expenditures.—__ 
+>     “(b)  __Limitation on Administrative Expenditures__  __.—__ 
 
 >     Not more than 5 percent of the grant made under this subsection may be used for administrative expenditures.
 
->     “(c) __Determination of Urban and Rural Areas.—__ 
+>     “(c)  __Determination of Urban and Rural Areas__  __.—__ 
 
 >     For purposes of administering the grant authorized under this subsection, the Administrator of the Office of Juvenile Justice and Delinquency Prevention of the Department of Justice shall determine whether an area is one of the 15 largest urban areas or a rural area in accordance with the practices of, and statistical information compiled by, the Bureau of the Census.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to make the grant authorized under this section, $5,000,000 for the period of fiscal years 2001 and 2002.”
 

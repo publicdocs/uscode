@@ -93,11 +93,11 @@
 
 [Pub. L. 108–358, § 5][/us/pl/108/358/s5], Oct. 22, 2004, [118 Stat. 1664][/us/stat/118/1664], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Health and Human Services shall ensure that the National Survey on Drug Use and Health includes questions concerning the use of anabolic steroids.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to carry out this section, $1,000,000 for each of fiscal years 2005 through 2010.”
 

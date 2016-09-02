@@ -75,17 +75,17 @@
 
         (2) If any loan which was made or insured under section 1484 or 1485 of this title pursuant to a contract entered into prior to December 15, 1989, is prepaid or refinanced on or after October 8, 1980, and tenants of the housing and related facilities financed with such loan are displaced due to a change in the use of the housing, or to an increase in rental or other charges, as a result of such prepayment or refinancing, the Secretary shall provide such tenants a priority for relocation in alternative housing assisted pursuant to this subchapter.
 
-        (3) __Notice of offer to prepay.—__ 
+        (3)  __Notice of offer to prepay__  __.—__ 
 
         Not less than 30 days after receiving an offer to prepay any loan made or insured under section 1484 or 1485 of this title, the Secretary shall provide written notice of the offer or request to the tenants of the housing and related facilities involved, to interested nonprofit organizations, and to any appropriate State and local agencies.
 
         (4)
 
-            (A) __Agreement by borrower to extend low income use.—__ 
+            (A)  __Agreement by borrower to extend low income use__  __.—__ 
 
             Before accepting any offer to prepay, or requesting refinancing in accordance with subsection (b)(3) of this section of, any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into prior to December 15, 1989, the Secretary shall make reasonable efforts to enter into an agreement with the borrower under which the borrower will make a binding commitment to extend the low income use of the assisted housing and related facilities involved for not less than the 20-year period beginning on the date on which the agreement is executed.
 
-            (B) __Assistance available to borrower to extend low income use.—__ 
+            (B)  __Assistance available to borrower to extend low income use__  __.—__ 
 
             To the extent of amounts provided in appropriation Acts, the agreement under subparagraph (A) may provide for 1 or more of the following forms of assistance that the Secretary, after taking into account local market conditions, determines to be necessary to extend the low income use of the housing and related facilities involved:
 
@@ -101,7 +101,7 @@
 
                 (vi) In the case of a project that has received rental assistance under [section 1437f of this title][/us/usc/t42/s1437f], permitting the owner to receive rent in excess of the amount determined necessary by the Secretary to defray the cost of long-term repair or maintenance of such a project.
 
-            (C) __Approval of assistance.—__ 
+            (C)  __Approval of assistance__  __.—__ 
 
             The Secretary may approve assistance under subparagraph (B) for assisted housing only if the restrictive period has expired for any loan for the housing made or insured under section 1484 or 1485 of this title pursuant to a contract entered into after December 21, 1979, but before December 15, 1989, and the Secretary determines that the combination of assistance provided—
 
@@ -113,17 +113,17 @@
 
             (A) __Offer to sell to nonprofit organizations and public agencies.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 If the Secretary determines after a reasonable period that an agreement will not be entered into with a borrower under paragraph (4), the Secretary shall require the borrower (except as provided in subparagraph (G)) to offer to sell the assisted housing and related facilities involved to any qualified nonprofit organization or public agency at a fair market value determined by 2 independent appraisers, one of whom shall be selected by the Secretary and one of whom shall be selected by the borrower. If the 2 appraisers fail to agree on the fair market value, the Secretary and the borrower shall jointly select a third appraiser, whose appraisal shall be binding on the Secretary and the borrower.
 
-                (ii) __Period for which requirement applicable.—__ 
+                (ii)  __Period for which requirement applicable__  __.—__ 
 
                 If, upon the expiration of 180 days after an offer is made to sell housing and related facilities under clause (i), no qualified nonprofit organization or public agency has made a bona fide offer to purchase, the Secretary may accept the offer to prepay, or may request refinancing in accordance with subsection (b)(3) of this section of, the loan. This clause shall apply only when funds are available for purposes of carrying out a transfer under this paragraph.
 
             (B) __Qualified nonprofit organizations and public agencies.—__ 
 
-                (i) __Local nonprofit organization or public agency.—__ 
+                (i)  __Local nonprofit organization or public agency__  __.—__ 
 
                 A local nonprofit organization or public agency may purchase housing and related facilities under this paragraph only if—
 
@@ -131,15 +131,15 @@
 
                     (II) the organization or agency has entered into an agreement that obligates it (and successors in interest thereof) to maintain the housing and related facilities as affordable for very low-income families or persons and low income families or persons for the remaining useful life of the housing and related facilities.
 
-                (ii) __National or regional nonprofit organization.—__ 
+                (ii)  __National or regional nonprofit organization__  __.—__ 
 
                 If the Secretary determines that there is no local nonprofit organization or public agency qualified to purchase the housing and related facilities involved, the Secretary shall require the borrower to offer to sell the assisted housing and related facilities to an existing qualified national or regional nonprofit organization.
 
-                (iii) __Selection of qualified purchaser.—__ 
+                (iii)  __Selection of qualified purchaser__  __.—__ 
 
                 The Secretary shall promulgate regulations that establish criteria for selecting a qualified nonprofit organization or public agency to purchase housing and related facilities when more than 1 such organization or agency has made a bona fide offer. Such regulations shall give a priority to those organizations or agencies with the greatest experience in developing or managing low income housing or community development projects and with the longest record of service to the community.
 
-            (C) __Financing of sale.—__ 
+            (C)  __Financing of sale__  __.—__ 
 
             To facilitate the sale described in subparagraph (A), the Secretary shall—
 
@@ -151,11 +151,11 @@
 
                 (iv) to the extent provided in appropriation Acts, provide a loan under [section 1485(c)(3) of this title][/us/usc/t42/s1485/c/3] to the nonprofit organization or public agency whose offer to purchase is accepted under this paragraph to enable the organization or agency to purchase the housing and related facilities involved.
 
-            (D) __Rent limitation and assistance.—__ 
+            (D)  __Rent limitation and assistance__  __.—__ 
 
             The Secretary shall, to the extent provided in appropriation Acts, provide to each nonprofit organization or public agency purchasing housing and related facilities under this paragraph financial assistance (in the form of monthly payments or forgiveness of debt) in an amount necessary to ensure that the monthly rent payment made by each low income family or person residing in the housing does not exceed the maximum rent permitted under [section 1490a(a)(2)(A) of this title][/us/usc/t42/s1490a/a/2/A] or, in the case of housing assisted under [section 1490a(a)(5) of this title][/us/usc/t42/s1490a/a/5], does not exceed the rents established for the project under such section.
 
-            (E) __Restriction on subsequent transfers.—__ 
+            (E)  __Restriction on subsequent transfers__  __.—__ 
 
             Except as provided in subparagraph (B)(ii), the Secretary may not approve the transfer of any housing and related facilities purchased under this paragraph during the remaining useful life of the housing and related facilities, unless the Secretary determines that—
 
@@ -163,11 +163,11 @@
 
                 (ii) there is no longer a need for such housing and related facilities by low income families or persons.
 
-            (F) __General restriction on prepayments and refinancings.—__ 
+            (F)  __General restriction on prepayments and refinancings__  __.—__ 
 
             Following the transfer of the maximum number of dwelling units set forth in subparagraph (H)(i) in any fiscal year or the maximum number of dwelling units for which budget authority is available in any fiscal year, the Secretary may not accept in such fiscal year any offer to prepay, or request refinancing in accordance with subsection (b)(3) of this section of, any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into prior to December 15, 1989, except in accordance with subparagraph (G). The limitation established in this subparagraph shall not apply to an offer to prepay, or request to refinance, if, following the date on which such offer or request is made (or following February 5, 1988, whichever occurs later) a 15-month period expires during which no budget authority is available to carry out this paragraph. For purposes of this subparagraph, the Secretary shall allocate budget authority under this paragraph in the order in which offers to prepay, or request to refinance, are made.
 
-            (G) __Exception.—__ 
+            (G)  __Exception__  __.—__ 
 
             This paragraph shall not apply to any offer to prepay, or any request to refinance in accordance with subsection (b)(3) of this section, any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into prior to December 15, 1989, if—
 
@@ -189,19 +189,19 @@
 
             (H) __Funding.—__ 
 
-                (i) __Budget limitation.—__ 
+                (i)  __Budget limitation__  __.—__ 
 
                 Not more than 5,000 dwelling units may be transferred under this paragraph in any fiscal year, and the budget authority that may be provided under this paragraph for any fiscal year may not exceed the amounts required to carry out this paragraph with respect to such number.
 
-                (ii) __Reimbursement of rural housing insurance fund.—__ 
+                (ii)  __Reimbursement of rural housing insurance fund__  __.—__ 
 
                 There are authorized to be appropriated to the Rural Housing Insurance Fund such sums as may be necessary to reimburse the Fund for financial assistance provided under this paragraph, paragraph (4), and [section 1487(j)(7) of this title][/us/usc/t42/s1487/j/7].
 
-            (I) __Definitions.—__ 
+            (I)  __Definitions__  __.—__ 
 
             For purposes of this paragraph:
 
-                (i) __Local nonprofit organization.—__ 
+                (i)  __Local nonprofit organization__  __.—__ 
 
                 The term “local nonprofit organization” means a nonprofit organization that—
 
@@ -209,7 +209,7 @@
 
                     (II) is a not-for-profit charitable organization whose principal purposes include developing or managing low income housing or community development projects.
 
-                (ii) __Nonprofit organization.—__ 
+                (ii)  __Nonprofit organization__  __.—__ 
 
                 The term “nonprofit organization” means any private organization—
 
@@ -219,7 +219,7 @@
 
                     (III) that does not have among its officers or directorate persons or parties with a material interest (or persons or parties related to any person or party with such an interest) in loans financed under [section 1485 of this title][/us/usc/t42/s1485] that have been prepaid.
 
-            (J) __Regulations.—__ 
+            (J)  __Regulations__  __.—__ 
 
             Notwithstanding [section 1490n of this title][/us/usc/t42/s1490n], the Secretary shall issue final regulations to carry out this paragraph not later than 60 days after February 5, 1988. The Secretary shall provide for the regulations to take effect not later than 45 days after the date on which the regulations are issued.
 
@@ -641,19 +641,19 @@
 
 [Pub. L. 101–625, title VII, § 706(d)][/us/pl/101/625/s706/d], Nov. 28, 1990, [104 Stat. 4286][/us/stat/104/4286], provided that:
 
->     “(1) __Proposed regulations and comment period.—__ 
+>     “(1)  __Proposed regulations and comment period__  __.—__ 
 
 >     Not later than 120 days after the date of the enactment of this Act \[Nov. 28, 1990\], the Secretary of Agriculture shall publish in the Federal Register proposed regulations to implement the amendments made by this section \[amending this section and [section 1701x of Title 12][/us/usc/t12/s1701x], Banks and Banking\]. The Secretary shall receive comments regarding the regulations during the 30-day period beginning on the date of the publication of the proposed regulations.
 
->     “(2) __Implementation.—__ 
+>     “(2)  __Implementation__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act, the Secretary of Agriculture shall issue final regulations to implement the amendments made by this section. The Secretary shall provide for the regulations to take effect not later than 30 days after the date on which the regulations are issued.
 
->     “(3) __Applicability.—__ 
+>     “(3)  __Applicability__  __.—__ 
 
 >     The amendments made by this section shall not apply to guaranteed loans under title V of the Housing Act of 1949 ([42 U.S.C. 1471][/us/usc/t42/s1471] et seq.) made before the date on which the final regulations issued by the Secretary under paragraph (2) take effect.
 
->     “(4) __Consultation.—__ 
+>     “(4)  __Consultation__  __.—__ 
 
 >     In developing and promulgating the regulations under paragraphs (1) and (2), the Secretary of Agriculture shall consult with the chairperson of the Federal Agricultural Mortgage Corporation and shall solicit the views of borrowers, lenders, realtors, and homebuilders experienced and knowledgeable regarding housing in rural areas to provide that the regulations promulgated ensure that guaranteed loans pursuant to the amendments made by this section—
 
@@ -669,7 +669,7 @@
 
 [Pub. L. 111–22, div. A, title I, § 101(c)][/us/pl/111/22/s101/c], May 20, 2009, [123 Stat. 1635][/us/stat/123/1635], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The promulgation of regulations necessitated and the administration actions required by the amendments made by this section \[amending this section\] shall be made without regard to—
 
@@ -679,7 +679,7 @@
 
 >         “(C) chapter 35 of title 44, United States Code (commonly known as the ‘Paperwork Reduction Act’).
 
->     “(2) __Congressional review of agency rulemaking.—__ 
+>     “(2)  __Congressional review of agency rulemaking__  __.—__ 
 
 >     In carrying out this section, and the amendments made by this section, the Secretary shall use the authority provided under [section 808 of title 5][/us/usc/t5/s808], United States Code.”
 
@@ -725,7 +725,7 @@ Similar provisions were contained in the following appropriation acts:
 
 [Pub. L. 101–625, title VII, § 706(a)][/us/pl/101/625/s706/a], Nov. 28, 1990, [104 Stat. 4284][/us/stat/104/4284], provided that:
 
->     “(1) __Findings.—__ 
+>     “(1)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -733,7 +733,7 @@ Similar provisions were contained in the following appropriation acts:
 
 >         “(B) many rural areas contain disproportionate amounts of substandard housing in need of repair, but lack the necessary funding and support to modernize such housing through preservation.
 
->     “(2) __Purpose.—__ 
+>     “(2)  __Purpose__  __.—__ 
 
 >     The purpose of this section \[amending this section and [section 1701x of Title 12][/us/usc/t12/s1701x], Banks and Banking, and enacting provisions set out above\] is to expand homeownership opportunities to low- and moderate-income residents of rural areas of the country through the establishment of guaranteed rural housing loans to be made available in rural locations where there is an insufficient availability of mortgage financing from other sources.”
 

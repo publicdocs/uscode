@@ -55,11 +55,11 @@
 
 [Pub. L. 102–586, § 8(d)][/us/pl/102/586/s8/d], Nov. 4, 1992, [106 Stat. 5036][/us/stat/106/5036], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting [section 9858q of this title][/us/usc/t42/s9858q] and amending this section and [section 9858n of this title][/us/usc/t42/s9858n]\] shall take effect on the date of enactment of this Act \[Nov. 4, 1992\].
 
->     “(2) __Application.—__ 
+>     “(2)  __Application__  __.—__ 
 
 >     The amendments made by this section shall not apply with respect to fiscal years beginning before October 1, 1992.”
 

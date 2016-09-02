@@ -285,11 +285,11 @@
 
 [Pub. L. 112–34, title I, § 107][/us/pl/112/34/s107], Sept. 30, 2011, [125 Stat. 378][/us/stat/125/378], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this title \[enacting [section 629m of this title][/us/usc/t42/s629m], amending sections 622 to 625, 629a to 629c, 629f to 629h, 673, 675, and 679b of this title, and enacting provisions set out as notes under sections 629h and 629m of this title\], this title and the amendments made by this title shall take effect on October 1, 2011, and shall apply to payments under parts B and E of title IV of the Social Security Act \[[42 U.S.C. 620][/us/usc/t42/s620] et seq., 670 et seq.\] for calendar quarters beginning on or after such date, without regard to whether regulations to implement the amendments are promulgated by such date.
 
->     “(b) __Delay Permitted if State Legislation Required.—__ 
+>     “(b)  __Delay Permitted if State Legislation Required__  __.—__ 
 
 >     If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan developed pursuant to subpart 1 of part B \[[42 U.S.C. 620][/us/usc/t42/s620] et seq.\], or a State plan approved under subpart 2 of part B \[[42 U.S.C. 629][/us/usc/t42/s629] et seq.\] or part E, of title IV of the Social Security Act to meet the additional requirements imposed by the amendments made by this title, the plan shall not be regarded as failing to meet any of the additional requirements before the 1st day of the 1st calendar quarter beginning after the first regular session of the State legislature that begins after the date of the enactment of this Act \[Sept. 30, 2011\]. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.”
 
@@ -309,11 +309,11 @@
 
 [Pub. L. 109–239, § 14][/us/pl/109/239/s14], July 3, 2006, [120 Stat. 514][/us/stat/120/514], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this section, the amendments made by this Act \[enacting [section 673c of this title][/us/usc/t42/s673c], amending this section and sections 629h, 671, and 675 of this title, and repealing [section 673c of this title][/us/usc/t42/s673c]\] shall take effect on October 1, 2006, and shall apply to payments under parts B and E of title IV of the Social Security Act \[[42 U.S.C. 620][/us/usc/t42/s620] et seq., 670 et seq.\] for calendar quarters beginning on or after such date, without regard to whether regulations to implement the amendments are promulgated by such date.
 
->     “(b) __Delay Permitted If State Legislation Required.—__ 
+>     “(b)  __Delay Permitted If State Legislation Required__  __.—__ 
 
 >     If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under part B or E of title IV of the Social Security Act to meet the additional requirements imposed by the amendments made by a provision of this Act, the plan shall not be regarded as failing to meet any of the additional requirements before the 1st day of the 1st calendar quarter beginning after the first regular session of the State legislature that begins after the date of the enactment of this Act \[July 3, 2006\]. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.”
 
@@ -327,11 +327,11 @@
 
 [Pub. L. 105–89, title V, § 501][/us/pl/105/89/s501], Nov. 19, 1997, [111 Stat. 2136][/us/stat/111/2136], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this Act \[enacting sections 673b, 678, and 679b of this title, amending this section, sections 603, 629, 629a, 629b, 653, 671 to 673, 674, 675, 677, and 1320a–9 of this title, and sections 645 and 901 of Title 2, The Congress, enacting provisions set out as notes under sections 613, 629a, 671, 673, 675, 679b, 1305, 1320a–9, 5111, and 5113 of this title, and amending provisions set out as a note under [section 670 of this title][/us/usc/t42/s670]\], the amendments made by this Act take effect on the date of enactment of this Act \[Nov. 19, 1997\].
 
->     “(b) __Delay Permitted if State Legislation Required.—__ 
+>     “(b)  __Delay Permitted if State Legislation Required__  __.—__ 
 
 >     In the case of a State plan under part B or E of title IV of the Social Security Act \[[42 U.S.C. 620][/us/usc/t42/s620] et seq., 670 et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this Act, the State plan shall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet such additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Nov. 19, 1997\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
 
@@ -379,7 +379,7 @@
 
 [Pub. L. 103–382, title V, § 552][/us/pl/103/382/s552], Oct. 20, 1994, [108 Stat. 4056][/us/stat/108/4056], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -393,7 +393,7 @@
 
 >         “(5) active, creative, and diligent efforts are needed to recruit foster and adoptive parents of every race, ethnicity, and culture in order to facilitate the placement of children in foster and adoptive homes which will best meet each child’s needs.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     It is the purpose of this subpart \[subpart 1 of part E of title V of [Pub. L. 103–382][/us/pl/103/382], enacting [section 5115a of this title][/us/usc/t42/s5115a], amending this section, and enacting provisions set out as a note under [section 1305 of this title][/us/usc/t42/s1305]\] to promote the best interests of children by—
 

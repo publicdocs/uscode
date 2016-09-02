@@ -403,11 +403,11 @@
 
 [Pub. L. 111–148, title VII, § 7101(e)][/us/pl/111/148/s7101/e], Mar. 23, 2010, [124 Stat. 823][/us/stat/124/823], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] and section 7102 \[amending this section\] shall take effect on January 1, 2010, and shall apply to drugs purchased on or after January 1, 2010.
 
->     “(2) __Effectiveness.—__ 
+>     “(2)  __Effectiveness__  __.—__ 
 
 >     The amendments made by this section and section 7102 shall be effective and shall be taken into account in determining whether a manufacturer is deemed to meet the requirements of section 340B(a) of the Public Health Service Act ([42 U.S.C. 256b(a)][/us/usc/t42/s256b/a]), notwithstanding any other provision of law.”
 

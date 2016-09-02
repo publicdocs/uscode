@@ -259,7 +259,7 @@
 
 [Pub. L. 111–13, title I, § 1711][/us/pl/111/13/s1711], Apr. 21, 2009, [123 Stat. 1550][/us/stat/123/1550], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     In order to reduce administrative burdens and lower costs for national service programs carried out under the national service laws, the Corporation shall conduct a study to determine the feasibility and effectiveness of implementing a data matching system under which the statements of an individual declaring that such individual is in compliance with the requirements of section 146(a)(3) of the National and Community Service Act of 1990 ([42 U.S.C. 12602(a)(3)][/us/usc/t42/s12602/a/3]) shall be verified by the Corporation by comparing information provided by the individual with information relevant to such a declaration in the possession of other Federal agencies. Such study shall—
 
@@ -287,19 +287,19 @@
 
 >             “(F) recommendations for implementation of such an expanded or comparable system.
 
->     “(b) __Consultation.—__ 
+>     “(b)  __Consultation__  __.—__ 
 
 >     The Corporation shall carry out the study in consultation with the Secretary of Education, the Commissioner of the Social Security Administration, the Secretary of Homeland Security, and other Federal agencies, entities, and individuals that the Corporation considers appropriate.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 9 months after the effective date of this Act \[for general effective date of [Pub. L. 111–13][/us/pl/111/13] as Oct. 1, 2009, see Effective Date of 2009 Amendment note under [section 4950 of this title][/us/usc/t42/s4950]\], the Corporation shall submit to the authorizing committees a report on the results of the study required by subsection (a) and a plan for implementation of a pilot data matching program using promising strategies and approaches identified in such study, if the Corporation determines such program to be feasible.
 
->     “(d) __Pilot Program.—__ 
+>     “(d)  __Pilot Program__  __.—__ 
 
 >     From amounts made available to carry out this section, the Corporation may develop and carry out a pilot data matching program based on the report submitted under subsection (c).
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section, the terms ‘Corporation’, ‘authorizing committees’, and ‘national service laws’ have the meanings given the terms in section 101 of the National and Community Service Act of 1990 ([42 U.S.C. 12511][/us/usc/t42/s12511]).”
 

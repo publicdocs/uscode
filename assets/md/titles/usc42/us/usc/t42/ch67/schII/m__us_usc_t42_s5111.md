@@ -149,7 +149,7 @@
 
 [Pub. L. 105–89, title II, § 202(c)][/us/pl/105/89/s202/c], Nov. 19, 1997, [111 Stat. 2126][/us/stat/111/2126], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Comptroller General of the United States shall—
 
@@ -167,7 +167,7 @@
 
 >             “(iv) concerning the procedures related to the administration and implementation of the Interstate Compact on the Placement of Children.
 
->     “(2) __Report to the congress.—__ 
+>     “(2)  __Report to the congress__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Nov. 19, 1997\], the Comptroller General shall submit to the appropriate committees of the Congress a report that includes—
 

@@ -67,11 +67,11 @@
 
 [Pub. L. 106–310, div. A, title X, § 1004][/us/pl/106/310/s1004], Oct. 17, 2000, [114 Stat. 1130][/us/stat/114/1130], as amended by [Pub. L. 108–446, title III, § 301][/us/pl/108/446/s301], Dec. 3, 2004, [118 Stat. 2803][/us/stat/118/2803]; [Pub. L. 109–482, title I, § 104(b)(3)(E)][/us/pl/109/482/s104/b/3/E], Jan. 15, 2007, [120 Stat. 3694][/us/stat/120/3694]; [Pub. L. 110–154, § 1(d)][/us/pl/110/154/s1/d], Dec. 21, 2007, [121 Stat. 1828][/us/stat/121/1828], provided that:
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     It is the purpose of this section to authorize the Eunice Kennedy Shriver National Institute of Child Health and Human Development to conduct a national longitudinal study of environmental influences (including physical, chemical, biological, and psychosocial) on children’s health and development.
 
->     “(b) __In General.—__ 
+>     “(b)  __In General__  __.—__ 
 
 >     The Director of the Eunice Kennedy Shriver National Institute of Child Health and Human Development shall establish a consortium of representatives from appropriate Federal agencies (including the Centers for Disease Control and Prevention, the Environmental Protection Agency, and the Department of Education) to—
 
@@ -79,7 +79,7 @@
 
 >         “(2) investigate basic mechanisms of developmental disorders and environmental factors, both risk and protective, that influence health and developmental processes.
 
->     “(c) __Requirement.—__ 
+>     “(c)  __Requirement__  __.—__ 
 
 >     The study under subsection (b) shall—
 
@@ -93,7 +93,7 @@
 
 >     “\[(d) Repealed. [Pub. L. 109–482, title I, § 104(b)(3)(E)][/us/pl/109/482/s104/b/3/E], Jan. 15, 2007, [120 Stat. 3694][/us/stat/120/3694].\]
 
->     “(e) __Authorization of Appropriations.—__ 
+>     “(e)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this section $18,000,000 for fiscal year 2001, and such sums as may be necessary for each \[sic\] the fiscal years 2002 through 2005.”
 

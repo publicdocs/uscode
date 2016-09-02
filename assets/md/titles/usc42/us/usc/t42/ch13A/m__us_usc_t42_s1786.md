@@ -35,7 +35,7 @@
 
         (6) “Local agency” means a public health or welfare agency or a private nonprofit health or welfare agency, which, directly or through an agency or physician with which it has contracted, provides health services. The term shall include an Indian tribe, band, or group recognized by the Department of the Interior, the Indian Health Service of the Department of Health and Human Services, or an inter­tribal council or group that is an authorized representative of Indian tribes, bands, or groups recognized by the Department of the Interior.
 
-        (7) __Nutrition education.—__ 
+        (7)  __Nutrition education__  __.—__ 
 
         The term “nutrition education” means individual and group sessions and the provision of material that are designed to improve health status and achieve positive change in dietary and physical activity habits, and that emphasize the relationship between nutrition, physical activity, and health, all in keeping with the personal and cultural preferences of the individual.
 
@@ -87,7 +87,7 @@
 
         (20) “Net price” means the difference between the manufacturer’s wholesale price for infant formula and the rebate level or the discount offered or provided by the manufacturer under a cost containment contract entered into with the pertinent State agency.
 
-        (21) __Remote indian or native village.—__ 
+        (21)  __Remote indian or native village__  __.—__ 
 
         The term “remote Indian or Native village” means an Indian or Native village that—
 
@@ -97,11 +97,11 @@
 
             (C) is not accessible year-around by means of a public road (as defined in [section 101 of title 23][/us/usc/t23/s101]).
 
-        (22) __Primary contract infant formula.—__ 
+        (22)  __Primary contract infant formula__  __.—__ 
 
         The term “primary contract infant formula” means the specific infant formula for which manufacturers submit a bid to a State agency in response to a rebate solicitation under this section and for which a contract is awarded by the State agency as a result of that bid.
 
-        (23) __State alliance.—__ 
+        (23)  __State alliance__  __.—__ 
 
         The term “State alliance” means 2 or more State agencies that join together for the purpose of procuring infant formula under the program by soliciting competitive bids for infant formula.
 
@@ -167,7 +167,7 @@
 
                 (ii) any cost-of-living allowance provided under [section 475 of title 37][/us/usc/t37/s475] to a member of a uniformed service who is on duty outside the contiguous States of the United States.
 
-            (C) __Combat pay.—__ 
+            (C)  __Combat pay__  __.—__ 
 
             For the purpose of determining income eligibility under this section, a State agency shall exclude from income any additional payment under chapter 5 of title 37, or otherwise designated by the Secretary to be appropriate for exclusion under this subparagraph, that is received by or from a member of the United States Armed Forces deployed to a designated combat zone, if the additional pay—
 
@@ -181,15 +181,15 @@
 
             (A) __Procedures.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Subject to clause (ii), a person shall be certified for participation in accordance with general procedures prescribed by the Secretary.
 
-                (ii) __Breastfeeding women.—__ 
+                (ii)  __Breastfeeding women__  __.—__ 
 
                 A State may elect to certify a breastfeeding woman for a period of 1 year postpartum or until a woman discontinues breastfeeding, whichever is earlier.
 
-                (iii) __Children.—__ 
+                (iii)  __Children__  __.—__ 
 
                 A State may elect to certify participant children for a period of up to 1 year, if the State electing the option provided under this clause ensures that participant children receive required health and nutrition assessments.
 
@@ -197,11 +197,11 @@
 
             (C) __Physical presence.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Except as provided in clause (ii) and subject to the requirements of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101][/us/usc/t42/s12101] et seq.) and [section 794 of title 29][/us/usc/t29/s794], each individual seeking certification or recertification for participation in the program shall be physically present at each certification or recertification determination in order to determine eligibility under the program.
 
-                (ii) __Waivers.—__ 
+                (ii)  __Waivers__  __.—__ 
 
                 If the agency determines that the requirement of clause (i) would present an unreasonable barrier to participation, a local agency may waive the requirement of clause (i) with respect to—
 
@@ -233,11 +233,11 @@
 
             (D) __Income documentation.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Except as provided in clause (ii), in order to participate in the program pursuant to clause (i) of paragraph (2)(A), an individual seeking certification or recertification for participation in the program shall provide documentation of family income.
 
-                (ii) __Waivers.—__ 
+                (ii)  __Waivers__  __.—__ 
 
                 A State agency may waive the documentation requirement of clause (i), in accordance with criteria established by the Secretary, with respect to—
 
@@ -245,11 +245,11 @@
 
                     (II) an individual, such as a homeless woman or child, for whom the agency determines the requirement of clause (i) would present an unreasonable barrier to participation.
 
-            (E) __Adjunct documentation.—__ 
+            (E)  __Adjunct documentation__  __.—__ 
 
             In order to participate in the program pursuant to clause (ii) or (iii) of paragraph (2)(A), an individual seeking certification or recertification for participation in the program shall provide documentation of receipt of assistance described in that clause.
 
-            (F) __Proof of residency.—__ 
+            (F)  __Proof of residency__  __.—__ 
 
             An individual residing in a remote Indian or Native village or an individual served by an Indian tribal organization and residing on a reservation or pueblo may, under standards established by the Secretary, establish proof of residency under this section by providing to the State agency the mailing address of the individual and the name of the remote Indian or Native village.
 
@@ -261,17 +261,17 @@
 
         (3) __Nutrition education materials.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary shall, after submitting proposed nutrition education materials to the Secretary of Health and Human Services for comment, issue such materials for use in the program under this section.
 
             (B) __Sharing of materials with other programs.—__ 
 
-                (i) __Commodity supplemental food program.—__ 
+                (i)  __Commodity supplemental food program__  __.—__ 
 
                 The Secretary may provide, in bulk quantity, nutrition education materials (including materials promoting breastfeeding) developed with funds made available for the program authorized under this section to State agencies administering the commodity supplemental food program established under section 5 of the Agriculture and Consumer Protection Act of 1973 ([7 U.S.C. 612c][/us/usc/t7/s612c] note; [Public Law 93–86][/us/pl/93/86]) at no cost to that program.
 
-                (ii) __Child and adult care food program.—__ 
+                (ii)  __Child and adult care food program__  __.—__ 
 
                 A State agency may allow the local agencies or clinics under the State agency to share nutrition educational materials with institutions participating in the child and adult care food program established under [section 1766 of this title][/us/usc/t42/s1766] at no cost to that program, if a written materials sharing agreement exists between the relevant agencies.
 
@@ -365,15 +365,15 @@
 
         (11) __Supplemental foods.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary shall prescribe by regulation the supplemental foods to be made available in the program under this section.
 
-            (B) __Appropriate content.—__ 
+            (B)  __Appropriate content__  __.—__ 
 
             To the degree possible, the Secretary shall assure that the fat, sugar, and salt content of the prescribed foods is appropriate.
 
-            (C) __Review of available supplemental foods.—__ 
+            (C)  __Review of available supplemental foods__  __.—__ 
 
             As frequently as determined by the Secretary to be necessary to reflect the most recent scientific knowledge, but not less than every 10 years, the Secretary shall—
 
@@ -411,7 +411,7 @@
 
         (20) Each State agency shall conduct monitoring reviews of each local agency at least biennially.
 
-        (21) __Use of claims from local agencies, vendors, and participants.—__ 
+        (21)  __Use of claims from local agencies, vendors, and participants__  __.—__ 
 
         A State agency may use funds recovered from local agencies, vendors, and participants, as a result of a claim arising under the program, to carry out the program during—
 
@@ -429,11 +429,11 @@
 
             (B) the timely provision of medical information related to the program authorized by this section to agencies carrying out the program.
 
-        (23) __Individuals participating at more than one site.—__ 
+        (23)  __Individuals participating at more than one site__  __.—__ 
 
         Each State agency shall implement a system designed by the State agency to identify individuals who are participating at more than one site under the program.
 
-        (24) __High risk vendors.—__ 
+        (24)  __High risk vendors__  __.—__ 
 
         Each State agency shall—
 
@@ -441,11 +441,11 @@
 
             (B) conduct compliance investigations of the vendors.
 
-        (25) __Infant formula benefits.—__ 
+        (25)  __Infant formula benefits__  __.—__ 
 
         A State agency may round up to the next whole can of infant formula to allow all participants under the program to receive the full-authorized nutritional benefit specified by regulation.
 
-        (26) __Notification of violations.—__ 
+        (26)  __Notification of violations__  __.—__ 
 
         If a State agency finds that a vendor has committed a violation that requires a pattern of occurrences in order to impose a penalty or sanction, the State agency shall notify the vendor of the initial violation in writing prior to documentation of another violation, unless the State agency determines that notifying the vendor would compromise an investigation.
 
@@ -453,11 +453,11 @@
 
         (1) __In general.—__ 
 
-            (A) __Authorization.—__ 
+            (A)  __Authorization__  __.—__ 
 
             There are authorized to be appropriated to carry out this section such sums as are necessary for each of fiscal years 2010 through 2015.
 
-            (B) __Advance appropriations; availability.—__ 
+            (B)  __Advance appropriations; availability__  __.—__ 
 
             As authorized by [section 1752 of this title][/us/usc/t42/s1752], appropriations to carry out the provisions of this section may be made not more than 1 year in advance of the beginning of the fiscal year in which the funds will become available for disbursement to the States, and shall remain available for the purposes for which appropriated until expended.
 
@@ -519,11 +519,11 @@
 
             (C) __Remaining amounts.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Except as provided in clause (ii), in any fiscal year, amounts remaining from amounts appropriated for such fiscal year under subsection (g)(1) of this section and from amounts appropriated under such section for the preceding fiscal year, after carrying out subparagraph (A), shall be made available for food benefits under this section, except to the extent that such amounts are needed to carry out the purposes of subsections (g)(4) and (g)(5) of this section.
 
-                (ii) __Breast pumps.—__ 
+                (ii)  __Breast pumps__  __.—__ 
 
                 A State agency may use amounts made available under clause (i) for the purchase of breast pumps.
 
@@ -607,7 +607,7 @@
 
         (4) __Requirements.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary shall—
 
@@ -637,7 +637,7 @@
 
             (B) __Exemplary breastfeeding support practices.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 In evaluating exemplary practices under subparagraph (A)(viii), the Secretary shall consider—
 
@@ -649,13 +649,13 @@
 
                     (IV) such other criteria as the Secretary considers appropriate after consultation with State and local program agencies.
 
-                (ii) __Authorization of appropriations.—__ 
+                (ii)  __Authorization of appropriations__  __.—__ 
 
                 There is authorized to be appropriated to carry out the activities described in clause (viii) of subparagraph (A) such sums as are necessary.
 
             (C) __Performance bonuses.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Following the publication of breastfeeding performance measurements under subparagraph (A)(vii), the Secretary shall provide performance bonus payments to not more than 15 State agencies that demonstrate, as compared to other State agencies participating in the program—
 
@@ -663,11 +663,11 @@
 
                     (II) the greatest improvement in proportion of breast-fed infants.
 
-                (ii) __Consideration.—__ 
+                (ii)  __Consideration__  __.—__ 
 
                 In providing performance bonus payments to State agencies under this subparagraph, the Secretary shall consider the proportion of fully breast-fed infants in the States.
 
-                (iii) __Use of funds.—__ 
+                (iii)  __Use of funds__  __.—__ 
 
                 A State agency that receives a performance bonus under clause (i)—
 
@@ -675,7 +675,7 @@
 
                     (II) may transfer the funds to local agencies for use in carrying out the program.
 
-                (iv) __Implementation.—__ 
+                (iv)  __Implementation__  __.—__ 
 
                 The Secretary shall provide the first performance bonuses not later than 1 year after December 13, 2010, and may subsequently revise the criteria for awarding performance bonuses; and  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The “; and” probably should be a period. </sup></sup> 
 
@@ -693,7 +693,7 @@
 
             (C) For the purposes of this paragraph, the term “acceptable measures” includes use of cost containment measures, curtailment of vendor abuse, and breastfeeding promotion activities.
 
-            (D) __Remote indian or native villages.—__ 
+            (D)  __Remote indian or native villages__  __.—__ 
 
             For noncontiguous States containing a significant number of remote Indian or Native villages, a State agency may convert amounts allocated for food benefits for a fiscal year to the costs of nutrition services and administration to the extent that the conversion is necessary to cover expenditures incurred in providing services (including the full cost of air transportation and other transportation) to remote Indian or Native villages and to provide breastfeeding support in remote Indian or Native villages.
 
@@ -741,41 +741,41 @@
 
                     (III) differences in administrative costs relating to the implementation of the various cost containment systems (such as costs of converting a computer system for the purpose of operating a cost containment system and costs of preparing participants for conversion to a new or alternate cost containment system).
 
-                (iii) __Competitive bidding system.—__ 
+                (iii)  __Competitive bidding system__  __.—__ 
 
                 A State agency using a competitive bidding system for infant formula shall award contracts to bidders offering the lowest net price for a specific infant formula for which manufacturers submit a bid unless the State agency demonstrates to the satisfaction of the Secretary that the weighted average retail price for different brands of infant formula in the State does not vary by more than 5 percent.
 
                 (iv) __Size of state alliances.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     Except as provided in subclauses (II) through (IV), no State alliance may exist among States if the total number of infants served by States participating in the alliance as of October 1, 2003, or such subsequent date determined by the Secretary for which data is available, would exceed 100,000.
 
-                    (II) __Addition of infant participants.—__ 
+                    (II)  __Addition of infant participants__  __.—__ 
 
                     In the case of a State alliance that exists on June 30, 2004, the alliance may continue and may expand to serve more than 100,000 infants but, except as provided in subclause (III), may not expand to include any additional State agency.
 
-                    (III) __Addition of small state agencies and indian state agencies.—__ 
+                    (III)  __Addition of small state agencies and indian state agencies__  __.—__ 
 
                     Except as provided in paragraph (9)(B)(i)(II), any State alliance may expand to include any State agency that served less than 5,000 infant participants as of October 1, 2003, or such subsequent date determined by the Secretary for which data is available, or any Indian State agency, if the State agency or Indian State agency requests to join the State alliance.
 
-                    (IV) __Secretarial waiver.—__ 
+                    (IV)  __Secretarial waiver__  __.—__ 
 
                     The Secretary may waive the requirements of this clause not earlier than 30 days after submitting to the Committee on Education and the Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a written report that describes the cost-containment and competitive benefits of the proposed waiver.
 
-                (v) __First choice of issuance.—__ 
+                (v)  __First choice of issuance__  __.—__ 
 
                 The State agency shall use the primary contract infant formula as the first choice of issuance (by formula type), with all other infant formulas issued as an alternative to the primary contract infant formula.
 
-                (vi) __Rebate invoices.—__ 
+                (vi)  __Rebate invoices__  __.—__ 
 
                 Effective beginning October 1, 2004, each State agency shall have a system to ensure that infant formula rebate invoices, under competitive bidding, provide a reasonable estimate or an actual count of the number of units sold to participants in the program under this section.
 
-                (vii) __Separate solicitations.—__ 
+                (vii)  __Separate solicitations__  __.—__ 
 
                 In soliciting bids for infant formula under a competitive bidding system, any State agency, or State alliance, that served under the program a monthly average of more than 100,000 infants during the preceding 12-month period shall solicit bids from infant formula manufacturers under procedures that require that bids for rebates or discounts are solicited for milk-based and soy-based infant formula separately.
 
-                (viii) __Cent-for-cent adjustments.—__ 
+                (viii)  __Cent-for-cent adjustments__  __.—__ 
 
                 A bid solicitation for infant formula under the program shall require the manufacturer to adjust for price changes subsequent to the opening of the bidding process in a manner that requires—
 
@@ -783,7 +783,7 @@
 
                     (II) a cent-for-cent decrease in the rebate amounts if there is a decrease in the lowest national wholesale price for a full truckload of the particular infant formula.
 
-                (ix) __List of infant formula wholesalers, distributors, retailers, and manufacturers.—__ 
+                (ix)  __List of infant formula wholesalers, distributors, retailers, and manufacturers__  __.—__ 
 
                 The State agency shall maintain a list of—
 
@@ -791,7 +791,7 @@
 
                     (II) infant formula manufacturers registered with the Food and Drug Administration that provide infant formula.
 
-                (x) __Purchase requirement.—__ 
+                (x)  __Purchase requirement__  __.—__ 
 
                 A vendor authorized to participate in the program under this section shall only purchase infant formula from the list described in clause (ix).
 
@@ -837,17 +837,17 @@
 
             (J) A State shall not incur any interest liability to the Federal Government on rebate funds for infant formula and other foods if all interest earned by the State on the funds is used for program purposes.
 
-            (K) __Reporting.—__ 
+            (K)  __Reporting__  __.—__ 
 
             Effective beginning October 1, 2011, each State agency shall report rebate payments received from manufacturers in the month in which the payments are received, rather than in the month in which the payments were earned.
 
         (9) __Cost containment measure.—__ 
 
-            (A) __Definition of cost containment measure.—__ 
+            (A)  __Definition of cost containment measure__  __.—__ 
 
             In this subsection, the term “cost containment measure” means a competitive bidding, rebate, direct distribution, or home delivery system implemented by a State agency as described in the approved State plan of operation and administration of the State agency.
 
-            (B) __Solicitation and rebate billing requirements.—__ 
+            (B)  __Solicitation and rebate billing requirements__  __.—__ 
 
             Any State agency instituting a cost containment measure for any authorized food, including infant formula, shall—
 
@@ -865,17 +865,17 @@
 
                 (iv) unless otherwise exempted by the Secretary, provide a minimum of 30 days between the publication of the solicitation and the date on which the bids are due.
 
-            (C) __State alliances for authorized foods other than infant formula.—__ 
+            (C)  __State alliances for authorized foods other than infant formula__  __.—__ 
 
             Program requirements relating to the size of State alliances under paragraph (8)(A)(iv) shall apply to cost containment measures established for any authorized food under this section.
 
         (10) __Funds for infrastructure, management information systems, and special nutrition education.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             For each of fiscal years 2010 through 2015, the Secretary shall use for the purposes specified in subparagraph (B) $139,000,000 (as adjusted annually for inflation by the same factor used to determine the national average per participant grant for nutrition services and administration for the fiscal year under paragraph (1)(B)).
 
-            (B) __Purposes.—__ 
+            (B)  __Purposes__  __.—__ 
 
             Subject to subparagraph (C), of the amount made available under subparagraph (A) for a fiscal year—
 
@@ -893,11 +893,11 @@
 
                 (iii) $90,000,000 shall be used for special nutrition education (such as breastfeeding peer counselors and other related activities), of which not more than $10,000,000 of any funding provided in excess of $50,000,000 shall be used to make performance bonus payments under paragraph (4)(C).
 
-            (C) __Adjustment.—__ 
+            (C)  __Adjustment__  __.—__ 
 
             Each of the amounts referred to in clauses (i), (ii), and (iii) of subparagraph (B) shall be adjusted annually for inflation by the same factor used to determine the national average per participant grant for nutrition services and administration for the fiscal year under paragraph (1)(B).
 
-            (D) __Proportional distribution.—__ 
+            (D)  __Proportional distribution__  __.—__ 
 
             The Secretary shall distribute funds made available under subparagraph (A) in accordance with the proportional distribution described in subparagraphs (B) and (C).
 
@@ -905,7 +905,7 @@
 
             (A) __Peer groups.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The State agency shall—
 
@@ -929,7 +929,7 @@
 
                 Nothing in this paragraph shall be construed to compel a State agency to achieve lower food costs if program participants redeem supplemental food vouchers at vendors described in subparagraph (D)(ii)(I) rather than at vendors other than vendors described in subparagraph (D)(ii)(I).
 
-                (ii) __Exemptions.—__ 
+                (ii)  __Exemptions__  __.—__ 
 
                 The Secretary may exempt from the requirements of clause (i)—
 
@@ -951,7 +951,7 @@
 
             (B) __Competitive pricing.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The State agency shall establish competitive price criteria for each peer group for the selection of vendors for participation in the program that—
 
@@ -965,17 +965,17 @@
 
                         (bb) the prices that the vendor bid for supplemental foods, which shall not exceed the shelf prices of the vendor for all buyers.
 
-                (ii) __Participant access.—__ 
+                (ii)  __Participant access__  __.—__ 
 
                 In establishing competitive price criteria, the State agency shall consider participant access by geographic area.
 
-                (iii) __Subsequent price increases.—__ 
+                (iii)  __Subsequent price increases__  __.—__ 
 
                 The State agency shall establish procedures to ensure that a retail store selected for participation in the program does not, subsequent to selection, increase prices to levels that would make the store ineligible for selection to participate in the program.
 
             (C) __Allowable reimbursement levels.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The State agency shall establish allowable reimbursement levels for supplemental foods for each vendor peer group that ensure—
 
@@ -983,15 +983,15 @@
 
                     (II) that the State agency does not reimburse a vendor for supplemental foods at a level that would make the vendor ineligible for authorization under the criteria established under subparagraph (B).
 
-                (ii) __Price fluctuations.—__ 
+                (ii)  __Price fluctuations__  __.—__ 
 
                 The allowable reimbursement levels may include a factor to reflect fluctuations in wholesale prices.
 
-                (iii) __Participant access.—__ 
+                (iii)  __Participant access__  __.—__ 
 
                 In establishing allowable reimbursement levels, the State agency shall consider participant access in a geographic area.
 
-            (D) __Exemptions.—__ 
+            (D)  __Exemptions__  __.—__ 
 
             The State agency may exempt from competitive price criteria and allowable reimbursement levels established under this paragraph—
 
@@ -1009,45 +1009,45 @@
 
                     (II) that are nonprofit.
 
-            (E) __Cost containment.—__ 
+            (E)  __Cost containment__  __.—__ 
 
             If a State agency elects to authorize any types of vendors described in subparagraph (D)(ii)(I), the State agency shall demonstrate to the Secretary, and the Secretary shall certify, that the competitive price criteria and allowable reimbursement levels established under this paragraph for vendors described in subparagraph (D)(ii)(I) do not result in average payments per voucher to vendors described in subparagraph (D)(ii)(I) that are higher than average payments per voucher to comparable vendors other than vendors described in subparagraph (D)(ii)(I).
 
-            (F) __Limitation on private rights of action.—__ 
+            (F)  __Limitation on private rights of action__  __.—__ 
 
             Nothing in this paragraph may be construed as creating a private right of action.
 
-            (G) __Implementation.—__ 
+            (G)  __Implementation__  __.—__ 
 
             A State agency shall comply with this paragraph not later than 18 months after June 30, 2004.
 
         (12) __Electronic benefit transfer.—__ 
 
-            (A) __Definitions.—__ 
+            (A)  __Definitions__  __.—__ 
 
             In this paragraph:
 
-                (i) __Electronic benefit transfer.—__ 
+                (i)  __Electronic benefit transfer__  __.—__ 
 
                 The term “electronic benefit transfer” means a food delivery system that provides benefits using a card or other access device approved by the Secretary that permits electronic access to program benefits.
 
-                (ii) __Program.—__ 
+                (ii)  __Program__  __.—__ 
 
                 The term “program” means the special supplemental nutrition program established by this section.
 
             (B) __Requirements.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Not later than October 1, 2020, each State agency shall be required to implement electronic benefit transfer systems throughout the State, unless the Secretary grants an exemption under subparagraph (C) for a State agency that is facing unusual barriers to implement an electronic benefit transfer system.
 
-                (ii) __Responsibility.—__ 
+                (ii)  __Responsibility__  __.—__ 
 
                 The State agency shall be responsible for the coordination and management of the electronic benefit transfer system of the agency.
 
             (C) __Exemptions.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 To be eligible for an exemption from the statewide implementation requirements of subparagraph (B)(i), a State agency shall demonstrate to the satisfaction of the Secretary 1 or more of the following:
 
@@ -1057,21 +1057,21 @@
 
                     (III) It is in the best interest of the program to grant the exemption.
 
-                (ii) __Specific date.—__ 
+                (ii)  __Specific date__  __.—__ 
 
                 A State agency requesting an exemption under clause (i) shall specify a date by which the State agency anticipates statewide implementation described in subparagraph (B)(i).
 
             (D) __Reporting.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Each State agency shall submit to the Secretary electronic benefit transfer project status reports to demonstrate the progress of the State toward statewide implementation.
 
-                (ii) __Consultation.—__ 
+                (ii)  __Consultation__  __.—__ 
 
                 If a State agency plans to incorporate additional programs in the electronic benefit transfer system of the State, the State agency shall consult with the State agency officials responsible for administering the programs prior to submitting the planning documents to the Secretary for approval.
 
-                (iii) __Requirements.—__ 
+                (iii)  __Requirements__  __.—__ 
 
                 At a minimum, a status report submitted under clause (i) shall contain—
 
@@ -1083,25 +1083,25 @@
 
             (E) __Imposition of costs on vendors.—__ 
 
-                (i) __Cost prohibition.—__ 
+                (i)  __Cost prohibition__  __.—__ 
 
                 Except as otherwise provided in this paragraph, the Secretary may not impose, or allow a State agency to impose, the costs of any equipment or system required for electronic benefit transfers on any authorized vendor in order to transact electronic benefit transfers if the vendor equipment or system is used solely to support the program.
 
-                (ii) __Cost-sharing.—__ 
+                (ii)  __Cost-sharing__  __.—__ 
 
                 The Secretary shall establish criteria for cost-sharing by State agencies and vendors of costs associated with any equipment or system that is not solely dedicated to transacting electronic benefit transfers for the program.
 
                 (iii) __Fees.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     A vendor that elects to accept electronic benefit transfers using multifunction equipment shall pay commercial transaction processing costs and fees imposed by a third-party processor that the vendor elects to use to connect to the electronic benefit transfer system of the State.
 
-                    (II) __Interchange fees.—__ 
+                    (II)  __Interchange fees__  __.—__ 
 
                     No interchange fees shall apply to electronic benefit transfer transactions under this paragraph.
 
-                (iv) __Statewide operations.—__ 
+                (iv)  __Statewide operations__  __.—__ 
 
                 After completion of statewide expansion of a system for transaction of electronic benefit transfers—
 
@@ -1111,15 +1111,15 @@
 
             (F) __Minimum lane coverage.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The Secretary shall establish minimum lane coverage guidelines for vendor equipment and systems used to support electronic benefit transfers.
 
-                (ii) __Provision of equipment.—__ 
+                (ii)  __Provision of equipment__  __.—__ 
 
                 If a vendor does not elect to accept electronic benefit transfers using its own multifunction equipment, the State agency shall provide such equipment as is necessary to solely support the program to meet the established minimum lane coverage guidelines.
 
-            (G) __Technical standards.—__ 
+            (G)  __Technical standards__  __.—__ 
 
             The Secretary shall—
 
@@ -1129,25 +1129,25 @@
 
         (13) __Universal product codes database.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Not later than 2 years after December 13, 2010, the Secretary shall establish a national universal product code database to be used by all State agencies in carrying out the requirements of paragraph (12).
 
             (B) __Funding.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 On October 1, 2010, and on each October 1 thereafter, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary to carry out this paragraph $1,000,000, to remain available until expended.
 
-                (ii) __Receipt and acceptance.—__ 
+                (ii)  __Receipt and acceptance__  __.—__ 
 
                 The Secretary shall be entitled to receive, shall accept, and shall use to carry out this paragraph the funds transferred under clause (i), without further appropriation.
 
-                (iii) __Use of funds.—__ 
+                (iii)  __Use of funds__  __.—__ 
 
                 The Secretary shall use the funds provided under clause (i) for development, hosting, hardware and software configuration, and support of the database required under subparagraph (A).
 
-        (14) __Incentive items.—__ 
+        (14)  __Incentive items__  __.—__ 
 
         A State agency shall not authorize or make payments to a vendor described in paragraph (11)(D)(ii)(I) that provides incentive items or other free merchandise, except food or merchandise of nominal value (as determined by the Secretary), to program participants unless the vendor provides to the State agency proof that the vendor obtained the incentive items or merchandise at no cost.
 
@@ -1187,7 +1187,7 @@
 
         (7) In addition to any amounts expended under paragraph (3)(A)(i), any State agency using cost containment measures as defined in subsection (h)(9) of this section may temporarily use amounts made available to such agency for the first quarter of a fiscal year to defray expenses for costs incurred during the final quarter of the preceding fiscal year. In any fiscal year, any State agency that uses amounts made available for a succeeding fiscal year under the authority of the preceding sentence shall restore or reimburse such amounts when such agency receives payment as a result of its cost containment measures for such expenses.
 
-        (8) __Temporary spending authority.—__ 
+        (8)  __Temporary spending authority__  __.—__ 
 
         During each of fiscal years 2012 and 2013, the Secretary may authorize a State agency to expend more than the amount otherwise authorized under paragraph (3)(C) for expenses incurred under this section for supplemental foods during the preceding fiscal year, if the Secretary determines that—
 
@@ -1385,7 +1385,7 @@
 
         (9) __Funding.—__ 
 
-            (A) __Authorization of appropriations.—__ 
+            (A)  __Authorization of appropriations__  __.—__ 
 
             There are authorized to be appropriated to carry out this subsection such sums as are necessary for each of fiscal years 2010 through 2015.
 
@@ -2361,11 +2361,11 @@
 
 [Pub. L. 106–224, title II, § 244(f)][/us/pl/106/224/s244/f], June 20, 2000, [114 Stat. 422][/us/stat/114/422], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] take effect on the date of the enactment of this Act \[June 20, 2000\].
 
->     “(2) __Allocation of funds.—__ 
+>     “(2)  __Allocation of funds__  __.—__ 
 
 >     The amendments made by subsections (d) and (e) \[amending this section\] take effect on October 1, 2000.”
 
@@ -2499,7 +2499,7 @@
 
 [Pub. L. 105–336, title II, § 203(r)][/us/pl/105/336/s203/r], Oct. 31, 1998, [112 Stat. 3166][/us/stat/112/3166], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Agriculture shall conduct a study on the effect of cost containment practices established by States under the special supplemental nutrition program for women, infants, and children authorized under section 17 of the Child Nutrition Act of 1966 ([42 U.S.C. 1786][/us/usc/t42/s1786]) for the selection of vendors and approved food items (other than infant formula) on—
 
@@ -2517,7 +2517,7 @@
 
 >         “(G) program costs.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     The Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate—
 
@@ -2529,7 +2529,7 @@
 
 [Pub. L. 105–336, title II, § 203(s)][/us/pl/105/336/s203/s], Oct. 31, 1998, [112 Stat. 3167][/us/stat/112/3167], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct a study that assesses—
 
@@ -2541,7 +2541,7 @@
 
 >         “(D) the costs incurred for personnel, automation, central support, and other activities to deliver the services and whether the costs meet Federal audit standards for allowable costs under the program.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 3 years after the date of enactment of this Act \[Oct. 31, 1998\], the Comptroller General shall submit to the Secretary of Agriculture, the Committee on Education and the Workforce of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containing the results of the study conducted under paragraph (1).”
 
@@ -2577,7 +2577,7 @@
 
 >         “(5) barriers exist in the infant formula industry that inhibit the entry of new firms and thus limit competition.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     It is the purpose of this title \[amending this section and enacting provisions set out as notes under this section and [section 1771 of this title][/us/usc/t42/s1771]\] to enhance competition among infant formula manufacturers and to reduce the per unit costs of infant formula for the special supplemental nutrition program for women, infants, and children (WIC).”
 

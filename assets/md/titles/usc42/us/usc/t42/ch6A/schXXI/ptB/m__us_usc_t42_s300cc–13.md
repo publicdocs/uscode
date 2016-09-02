@@ -97,7 +97,7 @@
 
 [Pub. L. 102–96, § 2][/us/pl/102/96/s2], Aug. 14, 1991, [105 Stat. 481][/us/stat/105/481], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -107,7 +107,7 @@
 
 >         “(3) because the community-based clinical trials model has a proven ability to conduct rapid trials that meet the very highest standards of scientific inquiry, this program should be reauthorized and significantly expanded.
 
->     “(b) __Sense of Congress.—__ 
+>     “(b)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that, because of Terry Beirn’s tireless efforts to foster a partnership among all parties invested in AIDS research (including the National Institutes of Health university-based research system, primary care physicians practicing in the community, and patients), the community-based clinical trials program should be renamed as the ‘Terry Beirn Community-Based AIDS Research Initiative’ in his honor.”
 

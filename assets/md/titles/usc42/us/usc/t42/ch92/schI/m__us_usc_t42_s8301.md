@@ -83,7 +83,7 @@
 
 [Pub. L. 95–620, title IX, § 902][/us/pl/95/620/s902], Nov. 9, 1978, [92 Stat. 3349][/us/stat/92/3349], provided that:
 
->     “(a) __Exemptions in the Case of Certain Powerplants.—__ 
+>     “(a)  __Exemptions in the Case of Certain Powerplants__  __.—__ 
 
 >     In the case of—
 
@@ -93,7 +93,7 @@
 
 >         the Secretary may receive, consider, and grant (or deny) any petition for an exemption under title II or III \[subchapters II and III of this chapter\] notwithstanding section 901 \[[section 901 of Pub. L. 95–620][/us/pl/95/620/s901], set out as a note above\] or the fact that all rules related to such petition have not been prescribed at the time.
 
->     “(b) __Exemptions Under Section 211(d).—__ 
+>     “(b)  __Exemptions Under Section__  __211(d).—__ 
 
 >     The Secretary may receive, consider, and grant (or deny) any petition for any exemption under section 211(d) \[[section 8321(d) of this title][/us/usc/t42/s8321/d]\] notwithstanding section 901 \[[section 901 of Pub. L. 95–620][/us/pl/95/620/s901], set out as a note above\], or the fact that all rules related to such petition have not been prescribed at the time.”
 

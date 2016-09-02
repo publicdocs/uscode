@@ -181,11 +181,11 @@
 
 [Pub. L. 111–3, title IV, § 402(b)][/us/pl/111/3/s402/b], Feb. 4, 2009, [123 Stat. 83][/us/stat/123/83], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Feb. 4, 2009\], the Secretary \[of Health and Human Services\] shall specify a standardized format for States to use for reporting the information required under section 2108(e) of the Social Security Act \[[42 U.S.C. 1397hh(e)][/us/usc/t42/s1397hh/e]\], as added by subsection (a)(2).
 
->     “(2) __Transition period for states.—__ 
+>     “(2)  __Transition period for states__  __.—__ 
 
 >     Each State that is required to submit a report under subsection (a) of section 2108 of the Social Security Act \[[42 U.S.C. 1397hh(a)][/us/usc/t42/s1397hh/a]\] that includes the information required under subsection (e) of such section may use up to 3 reporting periods to transition to the reporting of such information in accordance with the standardized format specified by the Secretary under paragraph (1).”
 

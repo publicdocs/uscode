@@ -69,7 +69,7 @@
 
     (q) For purposes of this chapter, the term “applicable implementation plan” means the portion (or portions) of the implementation plan, or most recent revision thereof, which has been approved under [section 7410 of this title][/us/usc/t42/s7410], or promulgated under [section 7410(c) of this title][/us/usc/t42/s7410/c], or promulgated or approved pursuant to regulations promulgated under [section 7601(d) of this title][/us/usc/t42/s7601/d] and which implements the relevant requirements of this chapter.
 
-    (r) __Indian Tribe.—__ 
+    (r)  __Indian Tribe__  __.—__ 
 
     The term “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village, which is Federally recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
@@ -81,7 +81,7 @@
 
     The term “PM–10” means particulate matter with an aerodynamic diameter less than or equal to a nominal ten micrometers, as measured by such method as the Administrator may determine.
 
-    (u) __NAAQS and CTG.—__ 
+    (u) __NAAQS__  __and__  __CTG.—__ 
 
     The term “NAAQS” means national ambient air quality standard. The term “CTG” means a Control Technique Guideline published by the Administrator under [section 7408 of this title][/us/usc/t42/s7408].
 
@@ -93,15 +93,15 @@
 
     The term “CO” means carbon monoxide.
 
-    (x) __Small Source.—__ 
+    (x)  __Small Source__  __.—__ 
 
     The term “small source” means a source that emits less than 100 tons of regulated pollutants per year, or any class of persons that the Administrator determines, through regulation, generally lack technical ability or knowledge regarding control of air pollution.
 
-    (y) __Federal Implementation Plan.—__ 
+    (y)  __Federal Implementation Plan__  __.—__ 
 
     The term “Federal implementation plan” means a plan (or portion thereof) promulgated by the Administrator to fill all or a portion of a gap or otherwise correct all or a portion of an inadequacy in a State implementation plan, and which includes enforceable emission limitations or other control measures, means or techniques (including economic incentives, such as marketable permits or auctions of emissions allowances), and provides for attainment of the relevant national ambient air quality standard.
 
-    (z) __Stationary Source.—__ 
+    (z)  __Stationary Source__  __.—__ 
 
     The term “stationary source” means generally any source of an air pollutant except those emissions resulting directly from an internal combustion engine for transportation purposes or from a nonroad engine or nonroad vehicle as defined in [section 7550 of this title][/us/usc/t42/s7550].
 

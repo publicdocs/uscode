@@ -27,7 +27,7 @@
 
             (ii) if combined (in the case of a dwelling that the Secretary finds not to be decent, safe, and sanitary) with a loan for improvement, rehabilitation, or repairs and not refinanced, is likely to result in the applicant’s continuing to be deprived of a decent, safe, and sanitary dwelling.
 
-        (5)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original.__  __ </sup></sup> __  __Definitions.—__ 
+        (5)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original.__  __ </sup></sup> __   __Definitions__  __.—__ 
 
         For purposes of this subchapter, the terms “repair”, “repairs”, “rehabilitate”, and “rehabilitation” include measures to evaluate and reduce lead-based paint hazards, as such terms are defined in [section 4851b of this title][/us/usc/t42/s4851b].
 
@@ -217,19 +217,19 @@
 
 [Pub. L. 102–550, title IX, § 925(b)][/us/pl/102/550/s925/b], Oct. 28, 1992, [106 Stat. 3885][/us/stat/106/3885], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Agriculture may establish performance goals for the major housing programs of the Farmers Home Administration in order to measure progress towards meeting the objectives of national housing policy.
 
->     “(2) __Form of goals.—__ 
+>     “(2)  __Form of goals__  __.—__ 
 
 >     The performance goals referred to in paragraph (1) shall be expressed in terms sufficient to measure progress.
 
->     “(3) __Report.—__ 
+>     “(3)  __Report__  __.—__ 
 
 >     The Secretary of Agriculture shall prepare a report to the Congress on the progress made in attaining the performance goals for each program, citing the actual results achieved in such program for the previous year.
 
->     “(4) __Failure to meet goals.—__ 
+>     “(4)  __Failure to meet goals__  __.—__ 
 
 >     If a performance standard or goal has not been met, the report under paragraph (3) shall include an explanation of why the goal was not met, propose plans for achieving the performance goal, and recommend any legislative or regulatory changes necessary for achievement of the goal.”
 

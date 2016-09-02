@@ -37,11 +37,11 @@
 
 [Pub. L. 102–550, title VI, § 606(k)][/us/pl/102/550/s606/k], Oct. 28, 1992, [106 Stat. 3811][/us/stat/106/3811], provided that:
 
->     “(1) __Interim regulations.—__ 
+>     “(1)  __Interim regulations__  __.—__ 
 
 >     Not later than the expiration of the 30-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], the Secretary of Housing and Urban Development shall submit to the Congress a copy of proposed interim regulations implementing subtitle D of title VIII of the Cranston-Gonzalez National Affordable Housing Act \[[42 U.S.C. 12901][/us/usc/t42/s12901] et seq.\] (as amended by this section). Not later than the expiration of the 45-day period beginning on the date of the enactment of this Act, but not before the expiration of the 15-day period beginning upon the submission of the proposed interim regulations to the Congress, the Secretary shall publish interim regulations implementing such subtitle (as amended), which shall take effect upon publication.
 
->     “(2) __Final regulations.—__ 
+>     “(2)  __Final regulations__  __.—__ 
 
 >     Not later than the expiration of the 90-day period beginning upon the publication of interim regulations under paragraph (1), the Secretary shall issue final regulations implementing subtitle D of title VIII of the Cranston-Gonzalez National Affordable Housing Act (as amended by this section) after notice and opportunity for public comment regarding the interim regulations, pursuant to the provisions of [section 553 of title 5][/us/usc/t5/s553], United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). The duration of the period for public comment under such section 553 shall be not less than 60 days, and the final regulations shall take effect upon issuance.”
 

@@ -507,17 +507,17 @@
 
 [Pub. L. 108–276, § 3(c)(1)][/us/pl/108/276/s3/c/1],(2), July 21, 2004, [118 Stat. 853][/us/stat/118/853], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), there shall be transferred to the Secretary of Health and Human Services the functions, personnel, assets, unexpended balances, and liabilities of the Strategic National Stockpile, including the functions of the Secretary of Homeland Security relating thereto.
 
 >     “(2) __Exceptions.—__ 
 
->         “(A) __Functions.—__ 
+>         “(A)  __Functions__  __.—__ 
 
 >         The transfer of functions pursuant to paragraph (1) shall not include such functions as are explicitly assigned to the Secretary of Homeland Security by this Act \[see Short Title of 2004 Amendments note set out under [section 201 of this title][/us/usc/t42/s201]\] (including the amendments made by this Act).
 
->         “(B) __Assets and unexpended balances.—__ 
+>         “(B)  __Assets and unexpended balances__  __.—__ 
 
 >         The transfer of assets and unexpended balances pursuant to paragraph (1) shall not include the funds appropriated under the heading ‘biodefense countermeasures’ in the Department of Homeland Security Appropriations Act, 2004 ([Public Law 108–90][/us/pl/108/90] \[[117 Stat. 1148][/us/stat/117/1148]\]).”
 
@@ -525,13 +525,13 @@
 
 [Pub. L. 107–188, title I, § 127][/us/pl/107/188/s127], June 12, 2002, [116 Stat. 615][/us/stat/116/615], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Through the national stockpile under section 121 \[now section 319F–2 of act July 1, 1944, [42 U.S.C. 247d–6b][/us/usc/t42/s247d–6b]\], the President, subject to subsections (b) and (c), shall make available to State and local governments potassium iodide tablets for stockpiling and for distribution as appropriate to public facilities, such as schools and hospitals, in quantities sufficient to provide adequate protection for the population within 20 miles of a nuclear power plant.
 
 >     “(b) __State and Local Plans.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subsection (a) applies with respect to a State or local government, subject to paragraph (2), if the government involved meets the following conditions:
 
@@ -539,7 +539,7 @@
 
 >             “(B) The plan is accompanied by certifications by such government that the government has not already received sufficient quantities of potassium iodide tablets from the Federal Government.
 
->         “(2) __Local governments.—__ 
+>         “(2)  __Local governments__  __.—__ 
 
 >         Subsection (a) applies with respect to a local government only if, in addition to the conditions described in paragraph (1), the following conditions are met:
 
@@ -555,17 +555,17 @@
 
 >             “(C) The local government has submitted its local plan under paragraph (1)(A) to the State, and the State has approved the plan and certified that the plan is not inconsistent with the State emergency plan.
 
->     “(c) __Guidelines.—__ 
+>     “(c)  __Guidelines__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act \[June 12, 2002\], the President, in consultation with individuals representing appropriate Federal, State, and local agencies, shall establish guidelines for the stockpiling of potassium iodide tablets, and for the distribution and utilization of potassium iodide tablets in the event of a nuclear incident. Such tablets may not be made available under subsection (a) until such guidelines have been established.
 
->     “(d) __Information.—__ 
+>     “(d)  __Information__  __.—__ 
 
 >     The President shall carry out activities to inform State and local governments of the program under this section.
 
 >     “(e) __Reports.—__ 
 
->         “(1) __President.—__ 
+>         “(1)  __President__  __.—__ 
 
 >         Not later than six months after the date on which the guidelines under subsection (c) are issued, the President shall submit to the Congress a report—
 
@@ -575,15 +575,15 @@
 
 >         “(2) __National academy of sciences.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The President shall request the National Academy of Sciences to enter into an agreement with the President under which the Academy conducts a study to determine what is the most effective and safe way to distribute and administer potassium iodide tablets on a mass scale. If the Academy declines to conduct the study, the President shall enter into an agreement with another appropriate public or nonprofit private entity to conduct the study.
 
->             “(B) __Report.—__ 
+>             “(B)  __Report__  __.—__ 
 
 >             The President shall ensure that, not later than six months after the date of the enactment of this Act \[June 12, 2002\], the study required in subparagraph (A) is completed and a report describing the findings made in the study is submitted to the Congress.
 
->     “(f) __Applicability.—__ 
+>     “(f)  __Applicability__  __.—__ 
 
 >     Subsections (a) and (d) cease to apply as requirements if the President determines that there is an alternative and more effective prophylaxis or preventive measures for adverse thyroid conditions that may result from the release of radionuclides from nuclear power plants.”
 

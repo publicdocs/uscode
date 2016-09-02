@@ -363,15 +363,15 @@
 
 > “In this title:
 
->     “(1) __Applicable period.—__ 
+>     “(1)  __Applicable period__  __.—__ 
 
 >     The term ‘applicable period’ means, with respect to amounts to be paid from a grant made for a project year, the calendar year immediately preceding the calendar year in which the grant is made.
 
->     “(2) __Eligible individual.—__ 
+>     “(2)  __Eligible individual__  __.—__ 
 
 >     The term ‘eligible individual’ means an individual who is selected to participate in a demonstration project by a qualified entity under section 409.
 
->     “(3) __Emergency withdrawal.—__ 
+>     “(3)  __Emergency withdrawal__  __.—__ 
 
 >     The term ‘emergency withdrawal’ means a withdrawal by an eligible individual that—
 
@@ -389,13 +389,13 @@
 
 >             “(iii) payments necessary to enable the individual to meet necessary living expenses following loss of employment.
 
->     “(4) __Household.—__ 
+>     “(4)  __Household__  __.—__ 
 
 >     The term ‘household’ means all individuals who share use of a dwelling unit as primary quarters for living and eating separate from other individuals.
 
 >     “(5) __Individual development account.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The term ‘individual development account’ means a trust created or organized in the United States exclusively for the purpose of paying the qualified expenses of an eligible individual, or enabling the eligible individual to make an emergency withdrawal, but only if the written governing instrument creating the trust contains the following requirements:
 
@@ -411,17 +411,17 @@
 
 >             “(vi) Any balance in the trust on the day after the date on which the individual for whose benefit the trust is established dies shall be distributed within 30 days of that date as directed by that individual to another individual development account established for the benefit of an eligible individual.
 
->         “(B) __Custodial accounts.—__ 
+>         “(B)  __Custodial accounts__  __.—__ 
 
 >         For purposes of subparagraph (A), a custodial account shall be treated as a trust if the assets of the custodial account are held by a bank (as defined in section 408(n) of the Internal Revenue Code of 1986 \[[26 U.S.C. 408(n)][/us/usc/t26/s408/n]\]) or another person who demonstrates, to the satisfaction of the Secretary, that the manner in which such person will administer the custodial account will be consistent with the requirements of this title, and if the custodial account would, except for the fact that it is not a trust, constitute an individual development account described in subparagraph (A). For purposes of this title, in the case of a custodial account treated as a trust by reason of the preceding sentence, the custodian of that custodial account shall be treated as the trustee of the account.
 
->     “(6) __Project year.—__ 
+>     “(6)  __Project year__  __.—__ 
 
 >     The term ‘project year’ means, with respect to a demonstration project, any of the 5 consecutive 12-month periods beginning on the date the project is originally authorized to be conducted.
 
 >     “(7) __Qualified entity.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The term ‘qualified entity’ means—
 
@@ -593,17 +593,17 @@
 
 “(a) In General.—Any individual who is a member of a household that is eligible for assistance under the State temporary assistance for needy families program established under part A of title IV of the Social Security Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.), or that meets each of the following requirements shall be eligible to participate in a demonstration project conducted under this title:
 
->     “(1) __Income test.—__ 
+>     “(1)  __Income test__  __.—__ 
 
 >     The adjusted gross income of the household is equal to or less than 200 percent of the poverty line (as determined by the Office of Management and Budget) or the earned income amount described in section 32 of the Internal Revenue Code of 1986 \[[26 U.S.C. 32][/us/usc/t26/s32]\] (taking into account the size of the household).
 
 >     “(2) __Net worth test.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The net worth of the household, as of the end of the calendar year preceding the determination of eligibility, does not exceed $10,000.
 
->         “(B) __Determination of net worth.—__ 
+>         “(B)  __Determination of net worth__  __.—__ 
 
 >         For purposes of subparagraph (A), the net worth of a household is the amount equal to—
 
@@ -611,11 +611,11 @@
 
 >             “(ii) the obligations or debts of any member of the household.
 
->         “(C) __Exclusions.—__ 
+>         “(C)  __Exclusions__  __.—__ 
 
 >         For purposes of determining the net worth of a household, a household’s assets shall not be considered to include the primary dwelling unit and one motor vehicle owned by a member of the household.
 
->             “(b) __Individuals Unable To Complete the Project.—__ 
+>             “(b)  __Individuals Unable To Complete the Project__  __.—__ 
 
 >             The Secretary shall establish such regulations as are necessary to ensure compliance with this title if an individual participating in the demonstration project moves from the community in which the project is conducted or is otherwise unable to continue participating in that project, including regulations prohibiting future eligibility to participate in any other demonstration project conducted under this title.
 
@@ -629,7 +629,7 @@
 
 > “SEC. 410. __DEPOSITS BY QUALIFIED ENTITIES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not less than once every 3 months during each project year, each qualified entity under this title shall deposit in the individual development account of each individual participating in the project, or into a parallel account maintained by the qualified entity—
 
@@ -639,19 +639,19 @@
 
 >         “(3) any interest that has accrued on amounts deposited under paragraph (1) or (2) on behalf of that individual into the individual development account of the individual or into a parallel account maintained by the qualified entity.
 
->     “(b) __Limitation on Deposits for an Individual.—__ 
+>     “(b)  __Limitation on Deposits for an Individual__  __.—__ 
 
 >     Not more than $2,000 from a grant made under section 406(b) shall be provided to any one individual over the course of the demonstration project.
 
->     “(c) __Limitation on Deposits for a Household.—__ 
+>     “(c)  __Limitation on Deposits for a Household__  __.—__ 
 
 >     Not more than $4,000 from a grant made under section 406(b) shall be provided to any one household over the course of the demonstration project.
 
->     “(d) __Withdrawal of Funds.—__ 
+>     “(d)  __Withdrawal of Funds__  __.—__ 
 
 >     The Secretary shall establish such guidelines as may be necessary to ensure that funds held in an individual development account are not withdrawn, except for one or more qualified expenses, or for an emergency withdrawal. Such guidelines shall include a requirement that a responsible official of the qualified entity conducting a project approve a withdrawal from such an account in writing. The guidelines shall provide that no individual may withdraw funds from an individual development account earlier than 6 months after the date on which the individual first deposits funds in the account.
 
->     “(e) __Reimbursement.—__ 
+>     “(e)  __Reimbursement__  __.—__ 
 
 >     An individual shall reimburse an individual development account for any funds withdrawn from the account for an emergency withdrawal, not later than 12 months after the date of the withdrawal. If the individual fails to make the reimbursement, the qualified entity administering the account shall transfer the funds deposited into the account or a parallel account under this section to the Reserve Fund of the qualified entity, and use the funds to benefit other individuals participating in the demonstration project involved.
 
@@ -661,7 +661,7 @@
 
 > “SEC. 412. __ANNUAL PROGRESS REPORTS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Each qualified entity under this title shall prepare an annual report on the progress of the demonstration project. Each report shall include both program and participant information and shall specify for the period covered by the report the following information:
 
@@ -681,7 +681,7 @@
 
 >         “(8) Such other information as the Secretary may require to evaluate the demonstration project.
 
->     “(b) __Submission of Reports.—__ 
+>     “(b)  __Submission of Reports__  __.—__ 
 
 >     The qualified entity shall submit each report required to be prepared under subsection (a) to—
 
@@ -689,17 +689,17 @@
 
 >         “(2) the Treasurer (or equivalent official) of the State in which the project is conducted, if the State or a local government or a tribal government committed funds to the demonstration project.
 
->     “(c) __Timing.—__ 
+>     “(c)  __Timing__  __.—__ 
 
 >     The first report required by subsection (a) shall be submitted not later than 60 days after the end of the project year in which the Secretary authorized the qualified entity to conduct the demonstration project, and subsequent reports shall be submitted every 12 months thereafter, until the conclusion of the project.
 
 > “SEC. 413. __SANCTIONS.__ 
 
->     “(a) __Authority To Terminate Demonstration Project.—__ 
+>     “(a)  __Authority To Terminate Demonstration Project__  __.—__ 
 
 >     If the Secretary determines that a qualified entity under this title is not operating a demonstration project in accordance with the entity’s approved application under section 405 or the requirements of this title (and has not implemented any corrective recommendations directed by the Secretary), the Secretary shall terminate such entity’s authority to conduct the demonstration project.
 
->     “(b) __Actions Required Upon Termination.—__ 
+>     “(b)  __Actions Required Upon Termination__  __.—__ 
 
 >     If the Secretary terminates the authority to conduct a demonstration project, the Secretary—
 
@@ -735,11 +735,11 @@
 
 > “SEC. 414. __EVALUATIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 10 months after the date of enactment of this title \[Oct. 27, 1998\], the Secretary shall enter into a contract with an independent research organization to evaluate the demonstration projects conducted under this title, individually and as a group, including evaluating all qualified entities participating in and sources providing funds for the demonstration projects conducted under this title.
 
->     “(b) __Factors To Evaluate.—__ 
+>     “(b)  __Factors To Evaluate__  __.—__ 
 
 >     In evaluating any demonstration project conducted under this title, the research organization shall address the following factors:
 
@@ -757,7 +757,7 @@
 
 >         “(7) Such other factors as may be prescribed by the Secretary.
 
->     “(c) __Methodological Requirements.—__ 
+>     “(c)  __Methodological Requirements__  __.—__ 
 
 >     In evaluating any demonstration project conducted under this title, the research organization shall—
 
@@ -769,15 +769,15 @@
 
 >     “(d) __Reports by the Secretary.—__ 
 
->         “(1) __Interim reports.—__ 
+>         “(1)  __Interim reports__  __.—__ 
 
 >         Not later than 90 days after the end of the project year in which the Secretary first authorizes a qualified entity to conduct a demonstration project under this title, and every 12 months thereafter until all demonstration projects conducted under this title are completed, the Secretary shall submit to Congress an interim report setting forth the results of the reports submitted pursuant to section 412(b).
 
->         “(2) __Final reports.—__ 
+>         “(2)  __Final reports__  __.—__ 
 
 >         Not later than 12 months after the conclusion of all demonstration projects conducted under this title, the Secretary shall submit to Congress a final report setting forth the results and findings of all reports and evaluations conducted pursuant to this title.
 
->     “(e) __Evaluation Expenses.—__ 
+>     “(e)  __Evaluation Expenses__  __.—__ 
 
 >     Of the amount appropriated under section 416 for a fiscal year, the Secretary may expend not more than $500,000 for such fiscal year to carry out the objectives of this section.
 

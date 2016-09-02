@@ -57,7 +57,7 @@
 
             (C) In the case of a system which does not serve more than a population of 3,300 and which needs financial assistance for the necessary improvements, an exemption granted under clause (i) or (ii) of subparagraph (B) may be renewed for one or more additional 2-year periods, but not to exceed a total of 6 years, if the system establishes that it is taking all practicable steps to meet the requirements of subparagraph (B).
 
-            (D) __Limitation.—__ 
+            (D)  __Limitation__  __.—__ 
 
             A public water system may not receive an exemption under this section if the system was granted a variance under [section 300g–4(e) of this title][/us/usc/t42/s300g–4/e].
 

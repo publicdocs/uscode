@@ -3247,11 +3247,11 @@
 
             (H) __Public access to off-site consequence analysis information.—__ 
 
-                (i) __Definitions.—__ 
+                (i)  __Definitions__  __.—__ 
 
                 In this subparagraph:
 
-                    (I) __Covered person.—__ 
+                    (I)  __Covered person__  __.—__ 
 
                     The term “covered person” means—
 
@@ -3269,19 +3269,19 @@
 
                         (gg) a qualified researcher under clause (vii).
 
-                    (II) __Official use.—__ 
+                    (II)  __Official use__  __.—__ 
 
                     The term “official use” means an action of a Federal, State, or local government agency or an entity referred to in subclause (I)(ee) intended to carry out a function relevant to preventing, planning for, or responding to accidental releases.
 
-                    (III) __Off-site consequence analysis information.—__ 
+                    (III)  __Off-site consequence analysis information__  __.—__ 
 
                     The term “off-site consequence analysis information” means those portions of a risk management plan, excluding the executive summary of the plan, consisting of an evaluation of 1 or more worst-case release scenarios or alternative release scenarios, and any electronic data base created by the Administrator from those portions.
 
-                    (IV) __Risk management plan.—__ 
+                    (IV)  __Risk management plan__  __.—__ 
 
                     The term “risk management plan” means a risk management plan submitted to the Administrator by an owner or operator of a stationary source under subparagraph (B)(iii).
 
-                (ii) __Regulations.—__ 
+                (ii)  __Regulations__  __.—__ 
 
                 Not later than 1 year after August 5, 1999, the President shall—
 
@@ -3309,19 +3309,19 @@
 
                 (iii) __Availability under freedom of information act.—__ 
 
-                    (I) __First year.—__ 
+                    (I)  __First year__  __.—__ 
 
                     Off-site consequence analysis information, and any ranking of stationary sources derived from the information, shall not be made available under [section 552 of title 5][/us/usc/t5/s552] during the 1-year period beginning on August 5, 1999.
 
-                    (II) __After first year.—__ 
+                    (II)  __After first year__  __.—__ 
 
                     If the regulations under clause (ii) are promulgated on or before the end of the period described in subclause (I), off-site consequence analysis information covered by the regulations, and any ranking of stationary sources derived from the information, shall not be made available under [section 552 of title 5][/us/usc/t5/s552] after the end of that period.
 
-                    (III) __Applicability.—__ 
+                    (III)  __Applicability__  __.—__ 
 
                     Subclauses (I) and (II) apply to off-site consequence analysis information submitted to the Administrator before, on, or after August 5, 1999.
 
-                (iv) __Availability of information during transition period.—__ 
+                (iv)  __Availability of information during transition period__  __.—__ 
 
                 The Administrator shall make off-site consequence analysis information available to covered persons for official use in a manner that meets the requirements of items (cc) through (ee) of clause (ii)(II), and to the public in a form that does not make available any information concerning the identity or location of stationary sources, during the period—
 
@@ -3331,15 +3331,15 @@
 
                 (v) __Prohibition on unauthorized disclosure of information by covered persons.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     Beginning on August 5, 1999, a covered person shall not disclose to the public off-site consequence analysis information in any form, or any statewide or national ranking of identified stationary sources derived from such information, except as authorized by this subparagraph (including the regulations promulgated under clause (ii)). After the end of the 1-year period beginning on August 5, 1999, if regulations have not been promulgated under clause (ii), the preceding sentence shall not apply.
 
-                    (II) __Criminal penalties.—__ 
+                    (II)  __Criminal penalties__  __.—__ 
 
                     Notwithstanding [section 7413 of this title][/us/usc/t42/s7413], a covered person that willfully violates a restriction or prohibition established by this subparagraph (including the regulations promulgated under clause (ii)) shall, upon conviction, be fined for an infraction under [section 3571 of title 18][/us/usc/t18/s3571] (but shall not be subject to imprisonment) for each unauthorized disclosure of off-site consequence analysis information, except that subsection (d) of such section 3571 shall not apply to a case in which the offense results in pecuniary loss unless the defendant knew that such loss would occur. The disclosure of off-site consequence analysis information for each specific stationary source shall be considered a separate offense. The total of all penalties that may be imposed on a single person or organization under this item shall not exceed $1,000,000 for violations committed during any 1 calendar year.
 
-                    (III) __Applicability.—__ 
+                    (III)  __Applicability__  __.—__ 
 
                     If the owner or operator of a stationary source makes off-site consequence analysis information relating to that stationary source available to the public without restriction—
 
@@ -3347,49 +3347,49 @@
 
                         (bb) the owner or operator shall notify the Administrator of the public availability of the information.
 
-                    (IV) __List.—__ 
+                    (IV)  __List__  __.—__ 
 
                     The Administrator shall maintain and make publicly available a list of all stationary sources that have provided notification under subclause (III)(bb).
 
-                (vi) __Notice.—__ 
+                (vi)  __Notice__  __.—__ 
 
                 The Administrator shall provide notice of the definition of official use as provided in clause (i)(III)  <sup>\[9\]</sup>  <sup><sup> 9 So in original. Probably should be “(i)(II)”. </sup></sup>  and examples of actions that would and would not meet that definition, and notice of the restrictions on further dissemination and the penalties established by this chapter to each covered person who receives off-site consequence analysis information under clause (iv) and each covered person who receives off-site consequence analysis information for an official use under the regulations promulgated under clause (ii).
 
                 (vii) __Qualified researchers.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     Not later than 180 days after August 5, 1999, the Administrator, in consultation with the Attorney General, shall develop and implement a system for providing off-site consequence analysis information, including facility identification, to any qualified researcher, including a qualified researcher from industry or any public interest group.
 
-                    (II) __Limitation on dissemination.—__ 
+                    (II)  __Limitation on dissemination__  __.—__ 
 
                     The system shall not allow the researcher to disseminate, or make available on the Internet, the off-site consequence analysis information, or any portion of the off-site consequence analysis information, received under this clause.
 
-                (viii) __Read-only information technology system.—__ 
+                (viii)  __Read-only information technology system__  __.—__ 
 
                 In consultation with the Attorney General and the heads of other appropriate Federal agencies, the Administrator shall establish an information technology system that provides for the availability to the public of off-site consequence analysis information by means of a central data base under the control of the Federal Government that contains information that users may read, but that provides no means by which an electronic or mechanical copy of the information may be made.
 
-                (ix) __Voluntary industry accident prevention standards.—__ 
+                (ix)  __Voluntary industry accident prevention standards__  __.—__ 
 
                 The Environmental Protection Agency, the Department of Justice, and other appropriate agencies may provide technical assistance to owners and operators of stationary sources and participate in the development of voluntary industry standards that will help achieve the objectives set forth in paragraph (1).
 
                 (x) __Effect on state or local law.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     Subject to subclause (II), this subparagraph (including the regulations promulgated under this subparagraph) shall supersede any provision of State or local law that is inconsistent with this subparagraph (including the regulations).
 
-                    (II) __Availability of information under state law.—__ 
+                    (II)  __Availability of information under state law__  __.—__ 
 
                     Nothing in this subparagraph precludes a State from making available data on the off-site consequences of chemical releases collected in accordance with State law.
 
                 (xi) __Report.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     Not later than 3 years after August 5, 1999, the Attorney General, in consultation with appropriate State, local, and Federal Government agencies, affected industry, and the public, shall submit to Congress a report that describes the extent to which regulations promulgated under this paragraph have resulted in actions, including the design and maintenance of safe facilities, that are effective in detecting, preventing, and minimizing the consequences of releases of regulated substances that may be caused by criminal activity. As part of this report, the Attorney General, using available data to the extent possible, and a sampling of covered stationary sources selected at the discretion of the Attorney General, and in consultation with appropriate State, local, and Federal governmental agencies, affected industry, and the public, shall review the vulnerability of covered stationary sources to criminal and terrorist activity, current industry practices regarding site security, and security of transportation of regulated substances. The Attorney General shall submit this report, containing the results of the review, together with recommendations, if any, for reducing vulnerability of covered stationary sources to criminal and terrorist activity, to the Committee on Commerce of the United States House of Representatives and the Committee on Environment and Public Works of the United States Senate and other relevant committees of Congress.
 
-                    (II) __Interim report.—__ 
+                    (II)  __Interim report__  __.—__ 
 
                     Not later than 12 months after August 5, 1999, the Attorney General shall submit to the Committee on Commerce of the United States House of Representatives and the Committee on Environment and Public Works of the United States Senate, and other relevant committees of Congress, an interim report that includes, at a minimum—
 
@@ -3399,11 +3399,11 @@
 
                         (cc) an explanation of the activities expected to occur that could cause the findings of the report under subclause (I) to be different than the preliminary findings.
 
-                    (III) __Availability of information.—__ 
+                    (III)  __Availability of information__  __.—__ 
 
                     Information that is developed by the Attorney General or requested by the Attorney General and received from a covered stationary source for the purpose of conducting the review under subclauses (I) and (II) shall be exempt from disclosure under [section 552 of title 5][/us/usc/t5/s552] if such information would pose a threat to national security.
 
-                (xii) __Scope.—__ 
+                (xii)  __Scope__  __.—__ 
 
                 This subparagraph—
 
@@ -3411,7 +3411,7 @@
 
                     (II) does not restrict the dissemination of off-site consequence analysis information by any covered person in any manner or form except in the form of a risk management plan or an electronic data base created by the Administrator from off-site consequence analysis information.
 
-                (xiii) __Authorization of appropriations.—__ 
+                (xiii)  __Authorization of appropriations__  __.—__ 
 
                 There are authorized to be appropriated to the Administrator and the Attorney General such sums as are necessary to carry out this subparagraph (including the regulations promulgated under clause (ii)), to remain available until expended.
 
@@ -3567,15 +3567,15 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 [Pub. L. 106–40, § 3(b)][/us/pl/106/40/s3/b], Aug. 5, 1999, [113 Stat. 213][/us/stat/113/213], provided that:
 
->     “(1) __Definition of accidental release.—__ 
+>     “(1)  __Definition of accidental release__  __.—__ 
 
 >     In this subsection, the term ‘accidental release’ has the meaning given the term in section 112(r)(2) of the Clean Air Act ([42 U.S.C. 7412(r)(2)][/us/usc/t42/s7412/r/2]).
 
->     “(2) __Report on status of certain amendments.—__ 
+>     “(2)  __Report on status of certain amendments__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[Aug. 5, 1999\], the Comptroller General of the United States shall submit to Congress a report on the status of the development of amendments to the National Fire Protection Association Code for Liquefied Petroleum Gas that will result in the provision of information to local emergency response personnel concerning the off-site effects of accidental releases of substances exempted from listing under section 112(r)(4)(B) of the Clean Air Act (as added by section 3).
 
->     “(3) __Report on compliance with certain information submission requirements.—__ 
+>     “(3)  __Report on compliance with certain information submission requirements__  __.—__ 
 
 >     Not later than 3 years after the date of enactment of this Act, the Comptroller General of the United States shall submit to Congress a report that—
 
@@ -3593,11 +3593,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 [Pub. L. 106–40, § 4][/us/pl/106/40/s4], Aug. 5, 1999, [113 Stat. 214][/us/stat/113/214], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Aug. 5, 1999\], each owner or operator of a stationary source covered by section 112(r)(7)(B)(ii) of the Clean Air Act \[[42 U.S.C. 7412(r)(7)(B)(ii)][/us/usc/t42/s7412/r/7/B/ii]\] shall convene a public meeting, after reasonable public notice, in order to describe and discuss the local implications of the risk management plan submitted by the stationary source pursuant to section 112(r)(7)(B)(iii) of the Clean Air Act, including a summary of the off-site consequence analysis portion of the plan. Two or more stationary sources may conduct a joint meeting. In lieu of conducting such a meeting, small business stationary sources as defined in section 507(c)(1) of the Clean Air Act \[[42 U.S.C. 7661f(c)(1)][/us/usc/t42/s7661f/c/1]\] may comply with this section by publicly posting a summary of the off-site consequence analysis information for their facility not later than 180 days after the enactment of this Act. Not later than 10 months after the date of enactment of this Act, each such owner or operator shall send a certification to the director of the Federal Bureau of Investigation stating that such meeting has been held, or that such summary has been posted, within 1 year prior to, or within 6 months after, the date of the enactment of this Act. This section shall not apply to sources that employ only Program 1 processes within the meaning of regulations promulgated under section 112(r)(7)(B)(i) of the Clean Air Act.
 
->     “(b) __Enforcement.—__ 
+>     “(b)  __Enforcement__  __.—__ 
 
 >     The Administrator of the Environmental Protection Agency may bring an action in the appropriate United States district court against any person who fails or refuses to comply with the requirements of this section, and such court may issue such orders, and take such other actions, as may be necessary to require compliance with such requirements.”
 
@@ -3605,11 +3605,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 [Pub. L. 101–549, title III, § 303][/us/pl/101/549/s303], Nov. 15, 1990, [104 Stat. 2574][/us/stat/104/2574], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is hereby established a Risk Assessment and Management Commission (hereafter referred to in this section as the ‘Commission’), which shall commence proceedings not later than 18 months after the date of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\] and which shall make a full investigation of the policy implications and appropriate uses of risk assessment and risk management in regulatory programs under various Federal laws to prevent cancer and other chronic human health effects which may result from exposure to hazardous substances.
 
->     “(b) __Charge.—__ 
+>     “(b)  __Charge__  __.—__ 
 
 >     The Commission shall consider—
 
@@ -3623,11 +3623,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(5) and comment on the degree to which it is possible or desirable to develop a consistent risk assessment methodology, or a consistent standard of acceptable risk, among various Federal programs.
 
->     “(c) __Membership.—__ 
+>     “(c)  __Membership__  __.—__ 
 
 >     Such Commission shall be composed of ten members who shall have knowledge or experience in fields of risk assessment or risk management, including three members to be appointed by the President, two members to be appointed by the Speaker of the House of Representatives, one member to be appointed by the Minority Leader of the House of Representatives, two members to be appointed by the Majority Leader of the Senate, one member to be appointed by the Minority Leader of the Senate, and one member to be appointed by the President of the National Academy of Sciences. Appointments shall be made not later than 18 months after the date of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\].
 
->     “(d) __Assistance from Agencies.—__ 
+>     “(d)  __Assistance from Agencies__  __.—__ 
 
 >     The Administrator of the Environmental Protection Agency and the heads of all other departments, agencies, and instrumentalities of the executive branch of the Federal Government shall, to the maximum extent practicable, assist the Commission in gathering such information as the Commission deems necessary to carry out this section subject to other provisions of law.
 
@@ -3639,11 +3639,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(3) The members of the Commission who are not officers or employees of the United States, while attending conferences or meetings of the Commission or while otherwise serving at the request of the Chair, shall be entitled to receive compensation at a rate not in excess of the maximum rate of pay for Grade GS–18, as provided in the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332] of the United States Code, including travel time, and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence as authorized by law for persons in the Government service employed intermittently.
 
->     “(f) __Report.—__ 
+>     “(f)  __Report__  __.—__ 
 
 >     A report containing the results of all Commission studies and investigations under this section, together with any appropriate legislative recommendations or administrative recommendations, shall be made available to the public for comment not later than 42 months after the date of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\] and shall be submitted to the President and to the Congress not later than 48 months after such date of enactment. In the report, the Commission shall make recommendations with respect to the appropriate use of risk assessment and risk management in Federal regulatory programs to prevent cancer or other chronic health effects which may result from exposure to hazardous substances. The Commission shall cease to exist upon the date determined by the Commission, but not later than 9 months after the submission of such report.
 
->     “(g) __Authorization.—__ 
+>     “(g)  __Authorization__  __.—__ 
 
 >     There are authorized to be appropriated such sums as are necessary to carry out the activities of the Commission established by this section.”
 

@@ -203,11 +203,11 @@
 
 [Pub. L. 106–534, § 5][/us/pl/106/534/s5], Nov. 22, 2000, [114 Stat. 2557][/us/stat/114/2557], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Attorney General shall conduct a study relating to crimes against seniors, in order to assist in developing new strategies to prevent and otherwise reduce the incidence of those crimes.
 
->     “(b) __Issues Addressed.—__ 
+>     “(b)  __Issues Addressed__  __.—__ 
 
 >     The study conducted under this section shall include an analysis of—
 
@@ -253,7 +253,7 @@
 
 > “SEC. 2. __FINDINGS; PURPOSES.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -275,7 +275,7 @@
 
 >         “(5) the National Academy of Science Committee on Law and Justice of the National Research Council is a premier research institution with unique experience in developing seminal, multidisciplinary studies to establish a strong research base from which to make public policy.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this Act are—
 
@@ -291,11 +291,11 @@
 
 > “SEC. 4. __STUDY.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Attorney General shall conduct a study to increase knowledge and information about crimes against individuals with developmental disabilities that will be useful in developing new strategies to reduce the incidence of crimes against those individuals.
 
->     “(b) __Issues Addressed.—__ 
+>     “(b)  __Issues Addressed__  __.—__ 
 
 >     The study conducted under this section shall address such issues as—
 
@@ -307,11 +307,11 @@
 
 >         “(4) the means by which States may establish and maintain a centralized computer database on the incidence of crimes against individuals with disabilities within a State.
 
->     “(c) __National Academy of Sciences.—__ 
+>     “(c)  __National Academy of Sciences__  __.—__ 
 
 >     In carrying out this section, the Attorney General shall consider contracting with the Committee on Law and Justice of the National Research Council of the National Academy of Sciences to provide research for the study conducted under this section.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than 18 months after the date of enactment of this Act \[Oct. 27, 1998\], the Attorney General shall submit to the Committees on the Judiciary of the Senate and the House of Representatives a report describing the results of the study conducted under this section.
 

@@ -19,7 +19,7 @@
 
         (1) The President may prescribe such rules and regulations as may be necessary and proper to carry out any of the provisions of this chapter, and he may exercise any power or authority conferred on him by any section of this chapter either directly or through such Federal agency or agencies as he may designate.
 
-        (2) __Deadline for payment of assistance.—__ 
+        (2)  __Deadline for payment of assistance__  __.—__ 
 
         Rules and regulations authorized by paragraph (1) shall provide that payment of any assistance under this chapter to a State shall be completed within 60 days after the date of approval of such assistance.
 

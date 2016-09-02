@@ -397,27 +397,27 @@
 
 [Pub. L. 110–53, title XXII, § 2201(d)][/us/pl/110/53/s2201/d], Aug. 3, 2007, [121 Stat. 541][/us/stat/121/541], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Assistant Secretary of Commerce for Communications and Information may establish not more than 10 geographically dispersed project grants to emergency medical and public health care facilities to improve the capabilities of emergency communications systems in emergency medical care facilities.
 
->     “(2) __Maximum amount.—__ 
+>     “(2)  __Maximum amount__  __.—__ 
 
 >     The Assistant Secretary may not provide more than $2,000,000 in Federal assistance under the pilot program to any applicant.
 
->     “(3) __Cost sharing.—__ 
+>     “(3)  __Cost sharing__  __.—__ 
 
 >     The Assistant Secretary may not provide more than 20 percent of the cost, incurred during the period of the grant, of any project under the pilot program.
 
->     “(4) __Maximum period of grants.—__ 
+>     “(4)  __Maximum period of grants__  __.—__ 
 
 >     The Assistant Secretary may not fund any applicant under the pilot program for more than 3 years.
 
->     “(5) __Deployment and distribution.—__ 
+>     “(5)  __Deployment and distribution__  __.—__ 
 
 >     The Assistant Secretary shall seek to the maximum extent practicable to ensure a broad geographic distribution of project sites.
 
->     “(6) __Transfer of information and knowledge.—__ 
+>     “(6)  __Transfer of information and knowledge__  __.—__ 
 
 >     The Assistant Secretary shall establish mechanisms to ensure that the information and knowledge gained by participants in the pilot program are transferred among the pilot program participants and to other interested parties, including other applicants that submitted applications.”
 

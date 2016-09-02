@@ -2167,11 +2167,11 @@
 
 [Pub. L. 110–379, § 3(b)][/us/pl/110/379/s3/b], Oct. 8, 2008, [122 Stat. 4075][/us/stat/122/4075], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] take effect on October 1, 2009.
 
->     “(2) __Extension of effective date for state law amendment.—__ 
+>     “(2)  __Extension of effective date for state law amendment__  __.—__ 
 
 >     In the case of a State plan under title XIX of the Social Security Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.) which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by subsection (a), the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Oct. 8, 2008\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session is considered to be a separate regular session of the State legislature.”
 
@@ -2201,17 +2201,17 @@
 
 [Pub. L. 109–171, title VI, § 6051(b)][/us/pl/109/171/s6051/b], Feb. 8, 2006, [120 Stat. 92][/us/stat/120/92], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Subject to paragraph (2), the amendment made by subsection (a) \[amending this section\] shall be effective as of the date of the enactment of this Act \[Feb. 8, 2006\].
 
 >     “(2) __Delay in effective date.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Subject to subparagraph (B), in the case of a State specified in subparagraph (B), the amendment made by subsection (a) shall be effective as of October 1, 2009.
 
->         “(B) __Specified states.—__ 
+>         “(B)  __Specified states__  __.—__ 
 
 >         For purposes of subparagraph (A), the States specified in this subparagraph are States that have enacted a law providing for a tax on the services of a Medicaid managed care organization with a contract under section 1903(m) of the Social Security Act \[[42 U.S.C. 1396b(m)][/us/usc/t42/s1396b/m]\] as of December 8, 2005.”
 
@@ -2265,15 +2265,15 @@
 
 [Pub. L. 105–33, title IV, § 4710][/us/pl/105/33/s4710], Aug. 5, 1997, [111 Stat. 506][/us/stat/111/506], provided that:
 
->     “(a) __General Effective Date.—__ 
+>     “(a)  __General Effective Date__  __.—__ 
 
 >     Except as otherwise provided in this chapter \[chapter 1 (§§ 4701–4710) of subtitle H of title IV of [Pub. L. 105–33][/us/pl/105/33], enacting [section 1396u–2 of this title][/us/usc/t42/s1396u–2], amending this section and sections 1320a–3, 1320a–7b, 1396a, 1396d, 1396o, 1396r–6, 1396r–8, 1396u–2, and 1396v of this title, and enacting provisions set out as a note under [section 1396u–2 of this title][/us/usc/t42/s1396u–2]\] and section 4759 \[enacting provisions set out as a note under [section 1396a of this title][/us/usc/t42/s1396a]\], the amendments made by this chapter shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\] and shall apply to contracts entered into or renewed on or after October 1, 1997.
 
->     “(b) __Specific Effective Dates.—__ 
+>     “(b)  __Specific Effective Dates__  __.—__ 
 
 >     Subject to subsection (c) and section 4759—
 
->         “(1) __PCCM option.—__ 
+>         “(1)  __PCCM option__  __.—__ 
 
 >         The amendments made by section 4702 \[amending this section and sections 1396a and 1396d of this title\] shall apply to primary care case management services furnished on or after October 1, 1997.
 
@@ -2281,33 +2281,33 @@
 
 >         25 rule.—The amendments made by section 4703 \[amending this section and [section 1396r–6 of this title][/us/usc/t42/s1396r–6]\] apply to contracts under section 1903(m) of the Social Security Act ([42 U.S.C. 1396b(m)][/us/usc/t42/s1396b/m]) on and after June 20, 1997.
 
->         “(3) __Quality standards.—__ 
+>         “(3)  __Quality standards__  __.—__ 
 
 >         Section 1932(c)(1) of the Social Security Act \[[42 U.S.C. 1396u–2(c)(1)][/us/usc/t42/s1396u–2/c/1]\], as added by section 4705(a), shall take effect on January 1, 1999.
 
 >         “(4) __Solvency standards.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The amendments made by section 4706 \[amending this section\] shall apply to contracts entered into or renewed on or after October 1, 1998.
 
->             “(B) __Transition rule.—__ 
+>             “(B)  __Transition rule__  __.—__ 
 
 >             In the case of an organization that as of the date of the enactment of this Act \[Aug. 5, 1997\] has entered into a contract under section 1903(m) of the Social Security Act \[[42 U.S.C. 1396b(m)][/us/usc/t42/s1396b/m]\] with a State for the provision of medical assistance under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] under which the organization assumes full financial risk and is receiving capitation payments, the amendment made by section 4706 shall not apply to such organization until 3 years after the date of the enactment of this Act.
 
->         “(5) __Sanctions for noncompliance.—__ 
+>         “(5)  __Sanctions for noncompliance__  __.—__ 
 
 >         Section 1932(e) of the Social Security Act \[[42 U.S.C. 1396u–2(e)][/us/usc/t42/s1396u–2/e]\], as added by section 4707(a), shall apply to contracts entered into or renewed on or after April 1, 1998.
 
->         “(6) __Limitation on ffp for enrollment brokers.—__ 
+>         “(6)  __Limitation on ffp for enrollment brokers__  __.—__ 
 
 >         The amendment made by section 4707(b) \[amending this section\] shall apply to amounts expended on or after October 1, 1997.
 
->         “(7) __6-month guaranteed eligibility.—__ 
+>         “(7) __6-__  __month guaranteed eligibility__  __.—__ 
 
 >         The amendments made by section 4709 \[amending [section 1396a of this title][/us/usc/t42/s1396a]\] shall take effect on October 1, 1997.
 
->     “(c) __Nonapplication to Waivers.—__ 
+>     “(c)  __Nonapplication to Waivers__  __.—__ 
 
 >     Nothing in this chapter (or the amendments made by this chapter) shall be construed as affecting the terms and conditions of any waiver, or the authority of the Secretary of Health and Human Services with respect to any such waiver, under section 1115 or 1915 of the Social Security Act ([42 U.S.C. 1315][/us/usc/t42/s1315], 1396n).”
 
@@ -2729,15 +2729,15 @@
 
 [Pub. L. 102–234, § 5][/us/pl/102/234/s5], Dec. 12, 1991, [105 Stat. 1804][/us/stat/105/1804], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to subsection (b), the Secretary of Health and Human Services shall issue such regulations (on an interim final or other basis) as may be necessary to implement this Act \[see Short Title of 1991 Amendment note set out under [section 1305 of this title][/us/usc/t42/s1305]\] and the amendments made by this Act.
 
->     “(b) __Regulations Changing Treatment of Intergovernmental Transfers.—__ 
+>     “(b)  __Regulations Changing Treatment of Intergovernmental Transfers__  __.—__ 
 
 >     The Secretary may not issue any interim final regulation that changes the treatment (specified in section 433.45(a) of title 42, Code of Federal Regulations) of public funds as a source of State share of financial participation under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], except as may be necessary to permit the Secretary to deny Federal financial participation for public funds described in section 1903(w)(6)(A) of such Act \[[42 U.S.C. 1396b(w)(6)(A)][/us/usc/t42/s1396b/w/6/A]\] (as added by section 2(a) of this Act) that are derived from donations or taxes that would not otherwise be recognized as the non-Federal share under section 1903(w) of such Act.
 
->     “(c) __Consultation With States.—__ 
+>     “(c)  __Consultation With States__  __.—__ 
 
 >     The Secretary shall consult with the States before issuing any regulations under this Act.”
 
@@ -2757,11 +2757,11 @@
 
 [Pub. L. 111–3, title VI, § 615][/us/pl/111/3/s615], Feb. 4, 2009, [123 Stat. 102][/us/stat/123/102], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Nothing in section 1903(w) of the Social Security Act ([42 U.S.C. 1396b(w)][/us/usc/t42/s1396b/w]) shall be construed by the Secretary of Health and Human Services as prohibiting a State’s use of funds as the non-Federal share of expenditures under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] where such funds are transferred from or certified by a publicly-owned regional medical center located in another State and described in subsection (b), so long as the Secretary determines that such use of funds is proper and in the interest of the program under title XIX.
 
->     “(b) __Center Described.—__ 
+>     “(b)  __Center Described__  __.—__ 
 
 >     A center described in this subsection is a publicly-owned regional medical center that—
 
@@ -2779,11 +2779,11 @@
 
 [Pub. L. 108–173, title X, § 1001(e)][/us/pl/108/173/s1001/e], Dec. 8, 2003, [117 Stat. 2431][/us/stat/117/2431], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Nothing in section 1903(w) of the Social Security Act ([42 U.S.C. 1396b(w)][/us/usc/t42/s1396b/w]) shall be construed by the Secretary \[of Health and Human Services\] as prohibiting a State’s use of funds as the non-Federal share of expenditures under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] where such funds are transferred from or certified by a publicly-owned regional medical center located in another State and described in paragraph (2), so long as the Secretary determines that such use of funds is proper and in the interest of the program under title XIX.
 
->     “(2) __Center described.—__ 
+>     “(2)  __Center described__  __.—__ 
 
 >     A center described in this paragraph is a publicly-owned regional medical center that—
 
@@ -2799,7 +2799,7 @@
 
 >         “(F) meets the criteria for a disproportionate share hospital under section 1923 of such Act \[[42 U.S.C. 1396r–4][/us/usc/t42/s1396r–4]\] in at least one State other than the one in which the center is located.
 
->     “(3) __Effective period.—__ 
+>     “(3)  __Effective period__  __.—__ 
 
 >     This subsection shall apply through December 31, 2005.”
 
@@ -2823,11 +2823,11 @@
 
 [Pub. L. 101–508, title IV, § 4718][/us/pl/101/508/s4718], Nov. 5, 1990, [104 Stat. 1388–193][/us/stat/104/1388-193], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For purposes of section 1903(f)(1)(B) \[probably means section 1903(f)(1)(B) of the Social Security Act, [42 U.S.C. 1396b(f)(1)(B)][/us/usc/t42/s1396b/f/1/B]\], for payments made before, on, or after the date of the enactment of this Act \[Nov. 5, 1990\], a State described in subparagraph (B) may use, in determining the ‘highest amount which would ordinarily be paid to a family of the same size’ (under the State’s plan approved under part A of title IV of such Act \[probably means [42 U.S.C. 601][/us/usc/t42/s601] et seq.\]) in the case of a family consisting only of one individual and without regard to whether or not such plan provides for aid to families consisting only of one individual, an amount reasonably related to the highest money payment which would ordinarily be made under such a plan to a family of two without income or resources.
 
->     “(b) __States Covered.—__ 
+>     “(b)  __States Covered__  __.—__ 
 
 >     Subsection (a) shall only apply to a State the State plan of which (under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\]) as of June 1, 1989, provided for the policy described in such paragraph. For purposes of the previous sentence, a State plan includes all the matter included in a State plan under section 2373(c)(5) of the Deficit Reduction Act of 1984 \[[Pub. L. 98–369][/us/pl/98/369], set out as a note under [section 1396a of this title][/us/usc/t42/s1396a]\] (as amended by section 9 of the Medicare and Medicaid Patient and Program Protection Act of 1987 \[[Pub. L. 100–93][/us/pl/100/93]\]).”
 
@@ -2835,7 +2835,7 @@
 
 [Pub. L. 101–239, title VI, § 6411(g)][/us/pl/101/239/s6411/g], Dec. 19, 1989, [103 Stat. 2272][/us/stat/103/2272], provided that:
 
->     “(1) __Prohibition of disallowance pending issuance of regulations.—__ 
+>     “(1)  __Prohibition of disallowance pending issuance of regulations__  __.—__ 
 
 >     Except as specifically permitted under paragraph (3), the Secretary of Health and Human Services may not—
 
@@ -2843,7 +2843,7 @@
 
 >         “(B) withdraw Federal approval of any such State plan provision.
 
->     “(2) __Requirements for regulation.—__ 
+>     “(2)  __Requirements for regulation__  __.—__ 
 
 >     A final regulation described in this paragraph is a regulation, promulgated after a notice of proposed rule-making and a period of at least 60 days for public comment, that—
 
@@ -2851,7 +2851,7 @@
 
 >         “(B) any requirements respecting such coverage.
 
->     “(3) __Prospective application of regulation.—__ 
+>     “(3)  __Prospective application of regulation__  __.—__ 
 
 >     If the Secretary promulgates a final regulation described in paragraph (2) and the Secretary determines that a State plan under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] does not comply with such regulation, the Secretary shall notify the State of the determination and its basis, and such determination shall not apply to day habilitation and related services furnished before the first day of the first calendar quarter beginning after the date of the notice to the State.”
 
@@ -2901,7 +2901,7 @@
 
 [Pub. L. 99–272, title XII, § 12301][/us/pl/99/272/s12301], Apr. 7, 1986, [100 Stat. 291][/us/stat/100/291], as amended by [Pub. L. 99–514, title XVII, § 1710][/us/pl/99/514/s1710], Oct. 22, 1986, [100 Stat. 2783][/us/stat/100/2783]; [Pub. L. 100–485, title VI, § 609(b)][/us/pl/100/485/s609/b], Oct. 13, 1988, [102 Stat. 2425][/us/stat/102/2425], provided that:
 
->     “(a) __Studies.—__ 
+>     “(a)  __Studies__  __.—__ 
 
 >         (1) The Secretary of Health and Human Services (hereafter referred to in this section as the ‘Secretary’) shall conduct a study of quality control systems for the Aid to Families with Dependent Children Program under title IV–A of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\] and for the Medicaid Program under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\]. The study shall examine how best to operate such systems in order to obtain information which will allow program managers to improve the quality of administration, and provide reasonable data on the basis of which Federal funding may be withheld for States with excessive levels of erroneous payments.
 
@@ -2909,13 +2909,13 @@
 
 >         “(3) The Secretary and the National Academy of Sciences shall report the results of their respective studies to the Congress within one year after the date the Secretary and the National Academy of Sciences enter into the contract required under paragraph (2).
 
->     “(b) __Moratorium on Penalties.—__ 
+>     “(b)  __Moratorium on Penalties__  __.—__ 
 
 >         (1) During the 24-month period beginning with the first calendar quarter which begins after the date of the enactment of this Act \[Apr. 7, 1986\] (hereafter in this section referred to as the ‘moratorium period’), the Secretary shall not impose any reductions in payments to States pursuant to section 403(i) of the Social Security Act \[[42 U.S.C. 603(i)][/us/usc/t42/s603/i]\] (or prior regulations), or pursuant to any comparable provision of law relating to the programs under title IV–A of such Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\] in Puerto Rico, Guam, the Virgin Islands, American Samoa, or the Northern Mariana Islands.
 
 >         “(2) During the moratorium period, the Secretary and the States shall continue to operate the quality control systems in effect under title IV–A of the Social Security Act, and to calculate the error rates under the provisions referred to in paragraph (1).
 
->     “(c) __Restructured Quality Control Systems.—__ 
+>     “(c)  __Restructured Quality Control Systems__  __.—__ 
 
 >         (1)
 
@@ -2933,7 +2933,7 @@
 
 >             “(B) for quarters in and before the moratorium period, as provided under the regulations described in paragraph (1)(B).
 
->     “(d) __Effective Date.—__ 
+>     “(d)  __Effective Date__  __.—__ 
 
 >     This section shall become effective on the date of the enactment of this Act \[Apr. 7, 1986\].”
 

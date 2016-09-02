@@ -33,7 +33,7 @@
 
                 (iii) improvements in, or expansion of, facilities for the manufacture of renewable energy or energy efficiency technologies.
 
-            (B) __Requirements.—__ 
+            (B)  __Requirements__  __.—__ 
 
             Each project selected under this section shall include at least one for-profit business. Activities supported under this section shall be performed in the United States. Each project under this section shall require the manufacture and reproduction substantially within the United States for commercial sale of any invention or product that may result from the project.
 

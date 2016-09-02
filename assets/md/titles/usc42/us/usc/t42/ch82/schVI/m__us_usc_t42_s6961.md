@@ -41,15 +41,15 @@
 
 [Pub. L. 102–386, title I, § 102(c)][/us/pl/102/386/s102/c], Oct. 6, 1992, [106 Stat. 1506][/us/stat/106/1506], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in paragraphs (2) and (3), the amendments made by subsection (a) \[amending this section\] shall take effect upon the date of the enactment of this Act \[Oct. 6, 1992\].
 
->     “(2) __Delayed effective date for certain mixed waste.—__ 
+>     “(2)  __Delayed effective date for certain mixed waste__  __.—__ 
 
 >     Until the date that is 3 years after the date of the enactment of this Act, the waiver of sovereign immunity contained in section 6001(a) of the Solid Waste Disposal Act \[subsec. (a) of this section\] with respect to civil, criminal, and administrative penalties and fines (as added by the amendments made by subsection (a)) shall not apply to departments, agencies, and instrumentalities of the executive branch of the Federal Government for violations of section 3004(j) of the Solid Waste Disposal Act \[[42 U.S.C. 6924(j)][/us/usc/t42/s6924/j]\] involving storage of mixed waste that is not subject to an existing agreement, permit, or administrative or judicial order, so long as such waste is managed in compliance with all other applicable requirements.
 
->     “(3) __Effective date for certain mixed waste.—__ 
+>     “(3)  __Effective date for certain mixed waste__  __.—__ 
 
 >         (A) Except as provided in subparagraph (B), after the date that is 3 years after the date of the enactment of this Act, the waiver of sovereign immunity contained in section 6001(a) of the Solid Waste Disposal Act with respect to civil, criminal, and administrative penalties and fines (as added by the amendments made by subsection (a)) shall apply to departments, agencies, and instrumentalities of the executive branch of the Federal Government for violations of section 3004(j) of the Solid Waste Disposal Act involving storage of mixed waste.
 
@@ -61,11 +61,11 @@
 
 >             “(ii) an order requiring compliance with such plan which has been issued pursuant to such section 3021(b) and which is in effect.
 
->     “(4) __Application of waiver to agreements and orders.—__ 
+>     “(4)  __Application of waiver to agreements and orders__  __.—__ 
 
 >     The waiver of sovereign immunity contained in section 6001(a) of the Solid Waste Disposal Act (as added by the amendments made by subsection (a)) shall take effect on the date of the enactment of this Act with respect to any agreement, permit, or administrative or judicial order existing on such date of enactment (and any subsequent modifications to such an agreement, permit, or order), including, without limitation, any provision of an agreement, permit, or order that addresses compliance with section 3004(j) of such Act with respect to mixed waste.
 
->     “(5) __Agreement or order.—__ 
+>     “(5)  __Agreement or order__  __.—__ 
 
 >     Except as provided in paragraph (4), nothing in this Act \[see Short Title of 1992 Amendment note set out under [section 6901 of this title][/us/usc/t42/s6901]\] shall be construed to alter, modify, or change in any manner any agreement, permit, or administrative or judicial order, including, without limitation, any provision of an agreement, permit, or order—
 

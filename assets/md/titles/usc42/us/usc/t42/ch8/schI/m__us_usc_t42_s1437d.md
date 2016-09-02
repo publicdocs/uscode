@@ -273,7 +273,7 @@
 
         (4) __Sanctions for improper use of amounts.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             In addition to any other actions authorized under this chapter, if the Secretary finds that a public housing agency receiving assistance amounts under [section 1437g of this title][/us/usc/t42/s1437g] for public housing has failed to comply substantially with any provision of this chapter relating to the public housing program, the Secretary may—
 
@@ -289,7 +289,7 @@
 
                 (vi) order other corrective action with respect to the agency.
 
-            (B) __Termination of compliance action.—__ 
+            (B)  __Termination of compliance action__  __.—__ 
 
             If the Secretary takes action under subparagraph (A) with respect to a public housing agency, the Secretary shall—
 
@@ -913,11 +913,11 @@
 
 [Pub. L. 104–120, § 13][/us/pl/104/120/s13], Mar. 28, 1996, [110 Stat. 845][/us/stat/110/845], provided that:
 
->     “(a) __Applicability.—__ 
+>     “(a)  __Applicability__  __.—__ 
 
 >     This Act \[enacting [section 1490p–2 of this title][/us/usc/t42/s1490p–2], amending this section, sections 1437e, 1437n, 1479, 1485, 1490p–2, and 5308 of this title, and sections 1715z–20, 1715z–22, and 1721 of Title 12, Banks and Banking, and enacting provisions set out as notes under sections 1437f, 5305, and 12805 of this title and sections 1701 and 4101 of Title 12\] and the amendments made by this Act shall be construed to have become effective on October 1, 1995.
 
->     “(b) __Implementation.—__ 
+>     “(b)  __Implementation__  __.—__ 
 
 >     The amendments made by sections 9 and 10 \[amending this section and sections 1437e and 1437n of this title\] shall apply as provided in subsection (a) of this section, notwithstanding the effective date of any regulations issued by the Secretary of Housing and Urban Development to implement such amendments or any failure by the Secretary to issue any such regulations.”
 
@@ -975,11 +975,11 @@
 
 [Pub. L. 105–276, title V, § 563][/us/pl/105/276/s563], Oct. 21, 1998, [112 Stat. 2624][/us/stat/112/2624], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Housing and Urban Development shall provide under subsection (e) for a study to be conducted to determine the effectiveness of various alternative methods of evaluating the performance of public housing agencies and other providers of federally assisted housing.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of the study under this section shall be—
 
@@ -987,15 +987,15 @@
 
 >         “(2) to identify specific monitoring and oversight activities currently conducted by the Department of Housing and Urban Development and to evaluate whether such activities should be eliminated, expanded, modified, or transferred to other entities (including governmental and private entities) to increase accuracy and effectiveness and improve monitoring.
 
->     “(c) __Evaluation of Various Performance Evaluation Systems.—__ 
+>     “(c)  __Evaluation of Various Performance Evaluation Systems__  __.—__ 
 
 >     To carry out the purposes under subsection (b), the study under this section shall identify, and analyze the advantages and disadvantages of various methods of regulating and evaluating the performance of public housing agencies and other providers of federally assisted housing, including the following methods:
 
->         “(1) __Current system.—__ 
+>         “(1)  __Current system__  __.—__ 
 
 >         The system pursuant to the United States Housing Act of 1937 \[[42 U.S.C. 1437][/us/usc/t42/s1437] et seq.\], including the methods and requirements under such system for reporting, auditing, reviewing, sanctioning, and monitoring of such agencies and housing providers and the public housing management assessment program pursuant to section 6(j) of the United States Housing Act of 1937 \[[42 U.S.C. 1437d(j)][/us/usc/t42/s1437d/j]\].
 
->         “(2) __Accreditation models.—__ 
+>         “(2)  __Accreditation models__  __.—__ 
 
 >         Various models that are based upon accreditation of such agencies and housing providers, subject to the following requirements:
 
@@ -1009,43 +1009,43 @@
 
 >             “(E) The study shall estimate the costs involved in developing and maintaining such an independent accreditation program.
 
->         “(3) __Performance based models.—__ 
+>         “(3)  __Performance based models__  __.—__ 
 
 >         Various performance-based models, including systems that establish performance goals or targets, assess the compliance with such goals or targets, and provide for incentives or sanctions based on performance relative to such goals or targets.
 
->         “(4) __Local review and monitoring models.—__ 
+>         “(4)  __Local review and monitoring models__  __.—__ 
 
 >         Various models providing for local, resident, and community review and monitoring of such agencies and housing providers, including systems for review and monitoring by local and State governmental bodies and agencies.
 
->         “(5) __Private models.—__ 
+>         “(5)  __Private models__  __.—__ 
 
 >         Various models using private contractors for review and monitoring of such agencies and housing providers.
 
->         “(6) __Other models.—__ 
+>         “(6)  __Other models__  __.—__ 
 
 >         Various models of any other systems that may be more effective and efficient in regulating and evaluating such agencies and housing providers.
 
->     “(d) __Consultation.—__ 
+>     “(d)  __Consultation__  __.—__ 
 
 >     The entity that, pursuant to subsection (e), carries out the study under this section shall, in carrying out the study, consult with individuals and organizations experienced in managing public housing, private real estate managers, representatives from State and local governments, residents of public housing, families and individuals receiving tenant-based assistance, the Secretary of Housing and Urban Development, the Inspector General of the Department of Housing and Urban Development, and the Comptroller General of the United States.
 
 >     “(e) __Contract to Conduct Study.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), the Secretary shall enter into a contract, within 90 days of the enactment of this Act \[Oct. 21, 1998\], with a public or nonprofit private entity to conduct the study under this section, using amounts made available pursuant to subsection (g).
 
->         “(2) __National academy of public administration.—__ 
+>         “(2)  __National academy of public administration__  __.—__ 
 
 >         The Secretary shall request the National Academy of Public Administration to enter into the contract under paragraph (1) to conduct the study under this section. If such Academy declines to conduct the study, the Secretary shall carry out such paragraph through other public or nonprofit private entities, selected through a competitive process.
 
 >     “(f) __Report.—__ 
 
->         “(1) __Interim report.—__ 
+>         “(1)  __Interim report__  __.—__ 
 
 >         The Secretary shall ensure that, not later than the expiration of the 6-month period beginning on the date of the execution of the contract under subsection (e)(1), the entity conducting the study under this section submits to the Congress an interim report describing the actions taken to carry out the study, the actions to be taken to complete the study, and any findings and recommendations available at the time.
 
->         “(2) __Final report.—__ 
+>         “(2)  __Final report__  __.—__ 
 
 >         The Secretary shall ensure that—
 
@@ -1053,7 +1053,7 @@
 
 >             “(B) before submitting the report under this paragraph to the Congress, the report is submitted to the Secretary, national organizations for public housing agencies, and other appropriate national organizations at such time to provide the Secretary and such agencies an opportunity to review the report and provide written comments on the report, which shall be included together with the report upon submission to the Congress under subparagraph (A).
 
->     “(g) __Effective Date.—__ 
+>     “(g)  __Effective Date__  __.—__ 
 
 >     This section shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].”
 

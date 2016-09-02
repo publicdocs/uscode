@@ -45,11 +45,11 @@
 
 [Pub. L. 101–336, title II, § 205][/us/pl/101/336/s205], July 26, 1990, [104 Stat. 338][/us/stat/104/338], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Except as provided in subsection (b), this subtitle \[subtitle A (§§ 201–205) of title II of [Pub. L. 101–336][/us/pl/101/336], enacting this part\] shall become effective 18 months after the date of enactment of this Act \[July 26, 1990\].
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     Section 204 \[[section 12134 of this title][/us/usc/t42/s12134]\] shall become effective on the date of enactment of this Act.”
 

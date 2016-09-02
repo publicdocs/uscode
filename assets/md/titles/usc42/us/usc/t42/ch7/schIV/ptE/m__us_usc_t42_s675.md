@@ -339,7 +339,7 @@
 
 [Pub. L. 105–89, title I, § 103(c)][/us/pl/105/89/s103/c], Nov. 19, 1997, [111 Stat. 2119][/us/stat/111/2119], provided that:
 
->     “(1) __New foster children.—__ 
+>     “(1)  __New foster children__  __.—__ 
 
 >     In the case of a child who enters foster care (within the meaning of section 475(5)(F) of the Social Security Act \[[42 U.S.C. 675(5)(F)][/us/usc/t42/s675/5/F]\]) under the responsibility of a State after the date of the enactment of this Act \[Nov. 19, 1997\]—
 
@@ -347,7 +347,7 @@
 
 >         “(B) if the State comes into such compliance after the child has been in such foster care for 15 of the most recent 22 months, the State shall comply with such section 475(5)(E) with respect to the child not later than 3 months after the end of the first regular session of the State legislature that begins after such date of enactment.
 
->     “(2) __Current foster children.—__ 
+>     “(2)  __Current foster children__  __.—__ 
 
 >     In the case of children in foster care under the responsibility of the State on the date of the enactment of this Act, the State shall—
 
@@ -357,11 +357,11 @@
 
 >         “(C) not later than 18 months after the end of such first regular session, comply with such section 475(5)(E) with respect to all of such children.
 
->     “(3) __Treatment of 2-year legislative sessions.—__ 
+>     “(3)  __Treatment of 2-year legislative sessions__  __.—__ 
 
 >     For purposes of this subsection, in the case of a State that has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.
 
->     “(4) __Requirements treated as state plan requirements.—__ 
+>     “(4)  __Requirements treated as state plan requirements__  __.—__ 
 
 >     For purposes of part E of title IV of the Social Security Act, the requirements of this subsection shall be treated as State plan requirements imposed by section 471(a) of such Act \[[42 U.S.C. 671(a)][/us/usc/t42/s671/a]\].”
 

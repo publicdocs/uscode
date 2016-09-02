@@ -47,11 +47,11 @@
 
 [Pub. L. 101–336, title II, § 231][/us/pl/101/336/s231], July 26, 1990, [104 Stat. 346][/us/stat/104/346], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Except as provided in subsection (b), this part \[part I (§§ 221–231) of subtitle B of title II of [Pub. L. 101–336][/us/pl/101/336], enacting this subpart\] shall become effective 18 months after the date of enactment of this Act \[July 26, 1990\].
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     Sections 222, 223 (other than subsection (a)), 224, 225, 227(b), 228(b), and 229 \[sections 12142, 12143(b) to (f), 12144, 12145, 12147(b), 12148(b), and 12149 of this title\] shall become effective on the date of enactment of this Act.”
 

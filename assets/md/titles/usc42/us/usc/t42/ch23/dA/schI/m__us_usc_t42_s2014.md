@@ -117,7 +117,7 @@
 
     (hh) The term “public liability action”, as used in [section 2210 of this title][/us/usc/t42/s2210], means any suit asserting public liability. A public liability action shall be deemed to be an action arising under [section 2210 of this title][/us/usc/t42/s2210], and the substantive rules for decision in such action shall be derived from the law of the State in which the nuclear incident involved occurs, unless such law is inconsistent with the provisions of such section.
 
-    (jj)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. No subsec. (ii) has been enacted.__  __ </sup></sup> __  __Legal Costs.—__ 
+    (jj)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. No subsec. (ii) has been enacted.__  __ </sup></sup> __   __Legal Costs__  __.—__ 
 
     As used in [section 2210 of this title][/us/usc/t42/s2210], the term “legal costs” means the costs incurred by a plaintiff or a defendant in initiating, prosecuting, investigating, settling, or defending claims or suits for damage arising under such section.
 

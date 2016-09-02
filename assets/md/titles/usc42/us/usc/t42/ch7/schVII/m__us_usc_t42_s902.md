@@ -113,15 +113,15 @@
 
 [Pub. L. 101–508, title V, § 5110][/us/pl/101/508/s5110], Nov. 5, 1990, [104 Stat. 1388–272][/us/stat/104/1388-272], provided that:
 
->     “(a) __Required Minimum Level of Access to Local Offices.—__ 
+>     “(a)  __Required Minimum Level of Access to Local Offices__  __.—__ 
 
 >     In addition to such other access by telephone to offices of the Social Security Administration as the Secretary of Health and Human Services may consider appropriate, the Secretary shall maintain access by telephone to local offices of the Social Security Administration at the level of access generally available as of September 30, 1989.
 
->     “(b) __Telephone Listings.—__ 
+>     “(b)  __Telephone Listings__  __.—__ 
 
 >     The Secretary shall make such requests of local telephone utilities in the United States as are necessary to ensure that the listings subsequently maintained and published by such utilities for each locality include the address and telephone number for each local office of the Social Security Administration to which direct telephone access is maintained under subsection (a) in such locality. Such listing may also include information concerning the availability of a toll-free number which may be called for general information.
 
->     “(c) __Report by Secretary.—__ 
+>     “(c)  __Report by Secretary__  __.—__ 
 
 >     Not later than January 1, 1993, the Secretary shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report which—
 
@@ -129,11 +129,11 @@
 
 >         “(2) presents a plan for using new, innovative technologies to enhance access to the Social Security Administration, including access to local offices.
 
->     “(d) __GAO Report.—__ 
+>     “(d)  __GAO Report__  __.—__ 
 
 >     The Comptroller General of the United States shall review the level of telephone access by the public to the local offices of the Social Security Administration. The Comptroller General shall file an interim report with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate describing such level of telephone access not later than 120 days after the date of the enactment of this Act \[Nov. 5, 1990\] and shall file a final report with such Committees describing such level of access not later than 210 days after such date.
 
->     “(e) __Effective Date.—__ 
+>     “(e)  __Effective Date__  __.—__ 
 
 >     The Secretary of Health and Human Services shall meet the requirements of subsections (a) and (b) as soon as possible after the date of the enactment of this Act but not later \[than\] 180 days after such date.”
 

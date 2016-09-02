@@ -695,7 +695,7 @@
 
             (E) An issuer of a medicare supplemental policy shall not deny or condition the issuance or effectiveness of the policy (including the imposition of any exclusion of benefits under the policy based on a pre-existing condition) and shall not discriminate in the pricing of the policy (including the adjustment of premium rates) of an individual on the basis of the genetic information with respect to such individual.
 
-            (F) __Rule of construction.—__ 
+            (F)  __Rule of construction__  __.—__ 
 
             Nothing in subparagraph (E) or in subparagraphs (A) or (B) of subsection (x)(2) shall be construed to limit the ability of an issuer of a medicare supplemental policy from, to the extent otherwise permitted under this subchapter—
 
@@ -1587,25 +1587,25 @@
 
 [Pub. L. 105–33, title IV, § 4031(d)][/us/pl/105/33/s4031/d], Aug. 5, 1997, [111 Stat. 357][/us/stat/111/357], provided that:
 
->     “(1) __Guaranteed issue.—__ 
+>     “(1)  __Guaranteed issue__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall take effect on July 1, 1998.
 
->     “(2) __Limit on preexisting condition exclusions.—__ 
+>     “(2)  __Limit on preexisting condition exclusions__  __.—__ 
 
 >     The amendment made by subsection (b) \[amending this section\] shall apply to policies issued on or after July 1, 1998.
 
->     “(3) __Conforming amendment.—__ 
+>     “(3)  __Conforming amendment__  __.—__ 
 
 >     The amendment made by subsection (c) \[amending this section\] shall be effective as if included in the enactment of the Health Insurance Portability and Accountability Act of 1996 \[[Pub. L. 104–191][/us/pl/104/191]\].”
 
 [Pub. L. 105–33, title IV, § 4032(b)][/us/pl/105/33/s4032/b], Aug. 5, 1997, [111 Stat. 359][/us/stat/111/359] provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by subsection (a) \[amending this section\] shall take effect the date of the enactment of this Act \[Aug. 5, 1997\].
 
->     “(2) __Transition.—__ 
+>     “(2)  __Transition__  __.—__ 
 
 >     The provisions of section 4031(e) \[set out as a note below\] shall apply with respect to this section in the same manner as they apply to section 4031 \[amending this section and enacting provisions set out as notes below\].”
 
@@ -1713,11 +1713,11 @@
 
 [Pub. L. 108–173, title I, § 104(c)][/us/pl/108/173/s104/c], Dec. 8, 2003, [117 Stat. 2165][/us/stat/117/2165], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Nothing in this Act \[see Tables for classification\] shall be construed to require an issuer of a medicare supplemental policy under section 1882 of the Social Security Act ([42 U.S.C. 1395rr][/us/usc/t42/s1395rr]) \[[42 U.S.C. 1395ss][/us/usc/t42/s1395ss]\] to participate as a PDP sponsor under part D of title XVIII of such Act \[[42 U.S.C. 1395w–101][/us/usc/t42/s1395w–101] et seq.\], as added by section 101, as a condition for issuing such policy.
 
->     “(2) __Prohibition on state requirement.—__ 
+>     “(2)  __Prohibition on state requirement__  __.—__ 
 
 >     A State may not require an issuer of a medicare supplemental policy under section 1882 of the Social Security Act ([42 U.S.C. 1395rr][/us/usc/t42/s1395rr]) \[[42 U.S.C. 1395ss][/us/usc/t42/s1395ss]\] to participate as a PDP sponsor under such part D as a condition for issuing such policy.”
 
@@ -1725,21 +1725,21 @@
 
 [Pub. L. 110–275, title I, § 104(a)][/us/pl/110/275/s104/a], July 15, 2008, [122 Stat. 2501][/us/stat/122/2501], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Health and Human Services (in this section \[enacting [section 1395ss–1 of this title][/us/usc/t42/s1395ss–1] and amending this section\] referred to as the ‘Secretary’) shall provide for implementation of the changes in the NAIC model law and regulations approved by the National Association of Insurance Commissioners in its Model #651 (‘Model Regulation to Implement the NAIC Medicare Supplement Insurance Minimum Standards Model Act’) on March 11, 2007, as modified to reflect the changes made under this Act \[see Short Title of 2008 Amendment note set out under [section 1305 of this title][/us/usc/t42/s1305]\] and the Genetic Information Nondiscrimination Act of 2008 ([Public Law 110–233][/us/pl/110/233]) \[see Short Title note set out under [section 2000ff of this title][/us/usc/t42/s2000ff]\].
 
 >     “(2) __Implementation dates.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The modifications to Model #651 required under paragraph (1) shall be completed by the National Association of Insurance Commissioners not later than October 31, 2008. Except as provided in subparagraph (B), each State shall have 1 year from the date the National Association of Insurance Commissioners adopts the revised NAIC model law and regulations (as changed by Model #651, as so modified) to conform the regulatory program established by the State to such revised NAIC model law and regulations.
 
->         “(B) __Extension of effective date for state law amendment.—__ 
+>         “(B)  __Extension of effective date for state law amendment__  __.—__ 
 
 >         In the case of a State which the Secretary determines requires State legislation in order to conform the regulatory program established by the State to such revised NAIC model law and regulations, the State shall not be regarded as failing to comply with the requirements of this section solely on the basis of its failure to meet such requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[July 15, 2008\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session is considered to be a separate regular session of the State legislature.
 
->         “(C) __Transition dates.—__ 
+>         “(C)  __Transition dates__  __.—__ 
 
 >         No carrier may issue a new or revised medicare supplemental policy or certificate under section 1882 of the Social Security Act ([42 U.S.C. 1395ss][/us/usc/t42/s1395ss]) that meets the requirements of such revised NAIC model law and regulations for coverage effective prior to June 1, 2010. A carrier may continue to offer or issue a medicare supplemental policy under such section that meets the requirements of the NAIC model law and regulations and State law (as in effect prior to the adoption of such revised NAIC model law and regulations) prior to June 1, 2010. Nothing shall preclude carriers from marketing new or revised medicare supplemental policies or certificates that meet the requirements of such revised NAIC model law and regulations on or after the date on which the State conforms the regulatory program established by the State to such revised NAIC model law and regulations.”
 
@@ -1747,11 +1747,11 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title V, § 553(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–393, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Comptroller General of the United States (in this section referred to as the ‘Comptroller General’) shall conduct a study of the issues described in paragraph (2) regarding medicare supplemental policies described in section 1882(g)(1) of the Social Security Act ([42 U.S.C. 1395ss(g)(1)][/us/usc/t42/s1395ss/g/1]).
 
->     “(2) __Issues to be studied.—__ 
+>     “(2)  __Issues to be studied__  __.—__ 
 
 >     The issues described in this paragraph are the following:
 
@@ -1779,21 +1779,21 @@
 
 [Pub. L. 110–233, title I, § 104(d)][/us/pl/110/233/s104/d], May 21, 2008, [122 Stat. 903][/us/stat/122/903], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     If the Secretary of Health and Human Services identifies a State as requiring a change to its statutes or regulations to conform its regulatory program to the changes made by this section \[amending this section\], the State regulatory program shall not be considered to be out of compliance with the requirements of section 1882 of the Social Security Act \[[42 U.S.C. 1395ss][/us/usc/t42/s1395ss]\] due solely to failure to make such change until the date specified in paragraph (4).
 
->     “(2) __NAIC standards.—__ 
+>     “(2) __NAIC__  __standards__  __.—__ 
 
 >     If, not later than October 31, 2008, the National Association of Insurance Commissioners (in this subsection referred to as the ‘NAIC’) modifies its NAIC Model Regulation relating to section 1882 of the Social Security Act \[[42 U.S.C. 1395ss][/us/usc/t42/s1395ss]\] (referred to in such section as the 1991 NAIC Model Regulation, as subsequently modified) to conform to the amendments made by this section \[amending this section\], such revised regulation incorporating the modifications shall be considered to be the applicable NAIC model regulation (including the revised NAIC model regulation and the 1991 NAIC Model Regulation) for the purposes of such section.
 
->     “(3) __Secretary standards.—__ 
+>     “(3)  __Secretary standards__  __.—__ 
 
 >     If the NAIC does not make the modifications described in paragraph (2) within the period specified in such paragraph, the Secretary of Health and Human Services shall, not later than July 1, 2009, make the modifications described in such paragraph and such revised regulation incorporating the modifications shall be considered to be the appropriate regulation for the purposes of such section.
 
 >     “(4) __Date specified.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Subject to subparagraph (B), the date specified in this paragraph for a State is the earlier of—
 
@@ -1801,7 +1801,7 @@
 
 >             “(ii) July 1, 2009.
 
->         “(B) __Additional legislative action required.—__ 
+>         “(B)  __Additional legislative action required__  __.—__ 
 
 >         In the case of a State which the Secretary identifies as—
 
@@ -1811,21 +1811,21 @@
 
 [Pub. L. 105–33, title IV, § 4031(e)][/us/pl/105/33/s4031/e], Aug. 5, 1997, [111 Stat. 358][/us/stat/111/358], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     If the Secretary of Health and Human Services identifies a State as requiring a change to its statutes or regulations to conform its regulatory program to the changes made by this section \[amending this section\], the State regulatory program shall not be considered to be out of compliance with the requirements of section 1882 of the Social Security Act \[[42 U.S.C. 1395ss][/us/usc/t42/s1395ss]\] due solely to failure to make such change until the date specified in paragraph (4).
 
->     “(2) __NAIC standards.—__ 
+>     “(2) __NAIC__  __standards__  __.—__ 
 
 >     If, within 9 months after the date of the enactment of this Act \[Aug. 5, 1997\], the National Association of Insurance Commissioners (in this subsection referred to as the ‘NAIC’) modifies its NAIC Model Regulation relating to section 1882 of the Social Security Act \[[42 U.S.C. 1395ss][/us/usc/t42/s1395ss]\] (referred to in such section as the 1991 NAIC Model Regulation, as modified pursuant to section 171(m)(2) of the Social Security Act Amendments of 1994 ([Public Law 103–432][/us/pl/103/432]) \[set out as a note below\] and as modified pursuant to section 1882(d)(3)(A)(vi)(IV) of the Social Security Act \[[42 U.S.C. 1395ss(d)(3)(A)(vi)(IV)][/us/usc/t42/s1395ss/d/3/A/vi/IV]\], as added by section 271(a) of the Health Insurance Portability and Accountability Act of 1996 ([Public Law 104–191][/us/pl/104/191]) to conform to the amendments made by this section \[amending this section\], such revised regulation incorporating the modifications shall be considered to be the applicable NAIC model regulation (including the revised NAIC model regulation and the 1991 NAIC Model Regulation) for the purposes of such section.
 
->     “(3) __Secretary standards.—__ 
+>     “(3)  __Secretary standards__  __.—__ 
 
 >     If the NAIC does not make the modifications described in paragraph (2) within the period specified in such paragraph, the Secretary of Health and Human Services shall make the modifications described in such paragraph and such revised regulation incorporating the modifications shall be considered to be the appropriate Regulation for the purposes of such section.
 
 >     “(4) __Date specified.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Subject to subparagraph (B), the date specified in this paragraph for a State is the earlier of—
 
@@ -1833,7 +1833,7 @@
 
 >             “(ii) 1 year after the date the NAIC or the Secretary first makes the modifications under paragraph (2) or (3), respectively.
 
->         “(B) __Additional legislative action required.—__ 
+>         “(B)  __Additional legislative action required__  __.—__ 
 
 >         In the case of a State which the Secretary identifies as—
 
@@ -1845,11 +1845,11 @@
 
 [Pub. L. 104–191, title II, § 271(c)][/us/pl/104/191/s271/c], Aug. 21, 1996, [110 Stat. 2036][/us/stat/110/2036], provided that:
 
->     “(1) __No penalties.—__ 
+>     “(1)  __No penalties__  __.—__ 
 
 >     Subject to paragraph (3), no criminal or civil money penalty may be imposed under section 1882(d)(3)(A) of the Social Security Act \[[42 U.S.C. 1395ss(d)(3)(A)][/us/usc/t42/s1395ss/d/3/A]\] for any act or omission that occurred during the transition period (as defined in paragraph (4)) and that relates to any health insurance policy that is described in clause (iv) or (v) of such section (as amended by subsection (a)).
 
->     “(2) __Limitation on legal action.—__ 
+>     “(2)  __Limitation on legal action__  __.—__ 
 
 >     Subject to paragraph (3), no legal action shall be brought or continued in any Federal or State court insofar as such action—
 
@@ -1857,11 +1857,11 @@
 
 >         “(B) relates to the application of section 1882(d)(3)(A) of the Social Security Act to any act or omission with respect to the sale, issuance, or renewal of any health insurance policy that is described in clause (iv) or (v) of such section (as amended by subsection (a)).
 
->     “(3) __Disclosure condition.—__ 
+>     “(3)  __Disclosure condition__  __.—__ 
 
 >     In the case of a policy described in clause (iv) of section 1882(d)(3)(A) of the Social Security Act that is sold or issued on or after the effective date of statements under section 171(d)(3)(C) of the Social Security Act Amendments of 1994 \[[Pub. L. 103–432][/us/pl/103/432], set out below\] and before the end of the 30-day period beginning on the date of the enactment of this Act \[Aug. 21, 1996\], paragraphs (1) and (2) shall only apply if disclosure was made in accordance with section 1882(d)(3)(C)(ii) of the Social Security Act (as in effect before the date of the enactment of this Act).
 
->     “(4) __Transition period.—__ 
+>     “(4)  __Transition period__  __.—__ 
 
 >     In this subsection, the term ‘transition period’ means the period beginning on November 5, 1991, and ending on the date of the enactment of this Act.”
 
@@ -1875,21 +1875,21 @@
 
 [Pub. L. 103–432, title I, § 171(m)][/us/pl/103/432/s171/m], Oct. 31, 1994, [108 Stat. 4451][/us/stat/108/4451], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     If the Secretary of Health and Human Services identifies a State as requiring a change to its statutes or regulations to conform its regulatory program to the changes made by this section \[amending this section and sections 1320c–3, 1395b–2, and 1395b–4 of this title, repealing [section 1395zz of this title][/us/usc/t42/s1395zz], and enacting and amending provisions set out as notes under this section\], the State regulatory program shall not be considered to be out of compliance with the requirements of section 1882 of the Social Security Act \[[42 U.S.C. 1395ss][/us/usc/t42/s1395ss]\] due solely to failure to make such change until the date specified in paragraph (4).
 
->     “(2) __NAIC standards.—__ 
+>     “(2) __NAIC__  __standards__  __.—__ 
 
 >     If, within 6 months after the date of the enactment of this Act \[Oct. 31, 1994\], the National Association of Insurance Commissioners (in this subsection referred to as the ‘NAIC’) modifies its 1991 NAIC Model Regulation (adopted in July 1991) to conform to the amendments made by this section and to delete from section 15C the exception which begins with ‘unless’, such revised regulation incorporating the modifications shall be considered to be the 1991 Regulation for the purposes of section 1882 of the Social Security Act.
 
->     “(3) __Secretary standards.—__ 
+>     “(3)  __Secretary standards__  __.—__ 
 
 >     If the NAIC does not make the modifications described in paragraph (2) within the period specified in such paragraph, the Secretary of Health and Human Services shall make the modifications described in such paragraph and such revised regulation incorporating the modifications shall be considered to be the 1991 Regulation for the purposes of section 1882 of the Social Security Act.
 
 >     “(4) __Date specified.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Subject to subparagraph (B), the date specified in this paragraph for a State is the earlier of—
 
@@ -1897,7 +1897,7 @@
 
 >             “(ii) 1 year after the date the NAIC or the Secretary first makes the modifications under paragraph (2) or (3), respectively.
 
->         “(B) __Additional legislative action required.—__ 
+>         “(B)  __Additional legislative action required__  __.—__ 
 
 >         In the case of a State which the Secretary identifies as—
 

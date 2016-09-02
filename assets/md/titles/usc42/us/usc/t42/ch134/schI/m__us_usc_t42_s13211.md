@@ -23,11 +23,11 @@
 
     (3) __Alternative fueled vehicle.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The term “alternative fueled vehicle” means a dedicated vehicle or a dual fueled vehicle;
 
-        (B) __Inclusions.—__ 
+        (B)  __Inclusions__  __.—__ 
 
         The term “alternative fueled vehicle” includes—
 

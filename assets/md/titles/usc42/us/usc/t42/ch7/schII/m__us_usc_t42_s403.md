@@ -875,27 +875,27 @@
 
 [Pub. L. 101–508, title V, § 5117(a)(4)][/us/pl/101/508/s5117/a/4], Nov. 5, 1990, [104 Stat. 1388–277][/us/stat/104/1388-277], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section and [section 415 of this title][/us/usc/t42/s415]\] shall apply with respect to the computation of the primary insurance amount of any insured individual in any case in which a person becomes entitled to benefits under section 202 or 223 \[[42 U.S.C. 402][/us/usc/t42/s402], 423\] on the basis of such insured individual’s wages and self-employment income for months after the 18-month period following the month in which this Act is enacted \[November 1990\], except that such amendments shall not apply if any person is entitled to benefits based on the wages and self-employment income of such insured individual for the month preceding the initial month of such person’s entitlement to such benefits under section 202 or 223.
 
->     “(B) __Recomputations.—__ 
+>     “(B)  __Recomputations__  __.—__ 
 
 >     The amendments made by this subsection shall apply with respect to any primary insurance amount upon the recomputation of such primary insurance amount if such recomputation is first effective for monthly benefits for months after the 18-month period following the month in which this Act is enacted.”
 
 [Pub. L. 101–508, title V, § 5119(e)][/us/pl/101/508/s5119/e], Nov. 5, 1990, [104 Stat. 1388–280][/us/stat/104/1388-280], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 416 of this title][/us/usc/t42/s416]\] shall apply with respect to benefits for months after December 1990.
 
 >     “(2) __Application requirement.—__ 
 
->         “(A) __General rule.—__ 
+>         “(A)  __General rule__  __.—__ 
 
 >         Except as provided in subparagraph (B), the amendments made by this section shall apply only with respect to benefits for which application is filed with the Secretary of Health and Human Services after December 31, 1990.
 
->         “(B) __Exception from application requirement.—__ 
+>         “(B)  __Exception from application requirement__  __.—__ 
 
 >         Subparagraph (A) shall not apply with respect to the benefits of any individual if such individual is entitled to a benefit under subsection (b), (c), (e), or (f) of section 202 of the Social Security Act \[[42 U.S.C. 402(b)][/us/usc/t42/s402/b], (c), (e), (f)\] for December 1990 and the individual on whose wages and self-employment income such benefit for December 1990 is based is the same individual on the basis of whose wages and self-employment income application would otherwise be required under subparagraph (A).”
 

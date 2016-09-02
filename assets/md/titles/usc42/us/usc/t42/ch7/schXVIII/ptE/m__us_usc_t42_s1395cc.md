@@ -881,15 +881,15 @@
 
 [Pub. L. 108–173, title IX, § 936(b)][/us/pl/108/173/s936/b], Dec. 8, 2003, [117 Stat. 2412][/us/stat/117/2412], provided that:
 
->     “(1) __Enrollment process.—__ 
+>     “(1)  __Enrollment process__  __.—__ 
 
 >     The Secretary \[of Health and Human Services\] shall provide for the establishment of the enrollment process under section 1866(j)(1) of the Social Security Act \[[42 U.S.C. 1395cc(j)(1)][/us/usc/t42/s1395cc/j/1]\], as added by subsection (a)(2), within 6 months after the date of the enactment of this Act \[Dec. 8, 2003\].
 
->     “(2) __Consultation.—__ 
+>     “(2)  __Consultation__  __.—__ 
 
 >     Section 1866(j)(1)(C) of the Social Security Act \[[42 U.S.C. 1395cc(j)(1)(C)][/us/usc/t42/s1395cc/j/1/C]\], as added by subsection (a)(2), shall apply with respect to changes in provider enrollment forms made on or after January 1, 2004.
 
->     “(3) __Hearing rights.—__ 
+>     “(3)  __Hearing rights__  __.—__ 
 
 >     Section 1866(j)(2) \[now 1866(j)(8)\] of the Social Security Act \[[42 U.S.C. 1395cc(j)(8)][/us/usc/t42/s1395cc/j/8]\], as added by subsection (a)(2), shall apply to denials occurring on or after such date (not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\]) as the Secretary specifies.”
 
@@ -1139,7 +1139,7 @@
 
 [Pub. L. 110–275, title I, § 187][/us/pl/110/275/s187], July 15, 2008, [122 Stat. 2588][/us/stat/122/2588], provided that:
 
->     “(a) __Report.—__ 
+>     “(a)  __Report__  __.—__ 
 
 >     Not later than two years after the date of the enactment of this Act \[July 15, 2008\], the Inspector General of the Department of Health and Human Services shall prepare and publish a report on—
 
@@ -1149,7 +1149,7 @@
 
 >         Such report shall include recommendations on improving compliance with CLAS Standards and recommendations on improving enforcement of CLAS Standards.
 
->     “(b) __Implementation.—__ 
+>     “(b)  __Implementation__  __.—__ 
 
 >     Not later than one year after the date of publication of the report under subsection (a), the Department of Health and Human Services shall implement changes responsive to any deficiencies identified in the report.”
 
@@ -1159,7 +1159,7 @@
 
 >     “(a) __Study.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Comptroller General of the United States shall conduct a study on concierge care (as defined in paragraph (2)) to determine the extent to which such care—
 
@@ -1167,7 +1167,7 @@
 
 >             “(B) has impacted upon the access of medicare beneficiaries (as so defined) to items and services for which reimbursement is provided under the medicare program under title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.).
 
->         “(2) __Concierge care.—__ 
+>         “(2)  __Concierge care__  __.—__ 
 
 >         In this section, the term ‘concierge care’ means an arrangement under which, as a prerequisite for the provision of a health care item or service to an individual, a physician, practitioner (as described in section 1842(b)(18)(C) of the Social Security Act ([42 U.S.C. 1395u(b)(18)(C)][/us/usc/t42/s1395u/b/18/C])), or other individual—
 
@@ -1175,7 +1175,7 @@
 
 >             “(B) requires the individual desiring to receive the health care item or service from such physician, practitioner, or other individual to purchase an item or service.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than the date that is 12 months after the date of enactment of this Act \[Dec. 8, 2003\], the Comptroller General of the United States shall submit to Congress a report on the study conducted under subsection (a)(1) together with such recommendations for legislative or administrative action as the Comptroller General determines to be appropriate.”
 

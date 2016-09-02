@@ -381,17 +381,17 @@
 
 [Pub. L. 100–242, title V, § 515(f)][/us/pl/100/242/s515/f], (g), Feb. 5, 1988, [101 Stat. 1934][/us/stat/101/1934], provided that:
 
->     “(f) __Regulations.—__ 
+>     “(f)  __Regulations__  __.—__ 
 
 >     The Secretary of Housing and Urban Development shall issue such regulations as may be necessary to carry out the amendments made by this section \[amending this section\]. Such regulations shall be published for comment in the Federal Register not later than 60 days after the date of enactment of this Act \[Feb. 5, 1988\]. The provisions of section 119(d)(1)(D), section 119(d)(3), and section 119(d)(4) of the Housing and Community Development Act of 1974 \[subsec. (d)(1)(D), (3), (4) of this section\], shall take effect on the date of enactment of this Act.
 
 >     “(g) __Applicability.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The amendments made by this section \[amending this section\] shall be applicable to the making of urban development action grants that have not received the preliminary approval of the Secretary of Housing and Urban Development before the date on which final regulations issued by the Secretary under subsection (f) become effective. For the fiscal year in which the amendments made by this section become applicable, such amendments shall only apply with respect to the aggregate amount awarded for such grants on or after such effective date.
 
->         “(2) __Sunset of urban county competition rule.—__ 
+>         “(2)  __Sunset of urban county competition rule__  __.—__ 
 
 >         Effective October 1, 1989, section 119(d)(6) of the Housing and Community Development Act of 1974 \[subsec. (d)(6) of this section\] is repealed.”
 
@@ -435,11 +435,11 @@
 
 > “SEC. 1102. __NEW TOWN PLAN.__ 
 
->     “(a) __Requirement.—__ 
+>     “(a)  __Requirement__  __.—__ 
 
 >     The Secretary may make assistance available under this title only in connection with, and according to the provisions of a new town plan developed and established by a governing board under section 1107 and approved under subsection (d) of this section. In developing such plans, the governing board shall consult with representatives of the units of general local government within whose boundaries are located any portion of the new town demonstration area for the demonstration program to be carried out under such plan.
 
->     “(b) __Eligible New Town Demonstration Areas.—__ 
+>     “(b)  __Eligible New Town Demonstration Areas__  __.—__ 
 
 >     A new town plan under this section shall provide for carrying out a new town development demonstration providing assistance available under this title within a new town demonstration area, which shall be a geographic area defined in the new town plan—
 
@@ -461,131 +461,131 @@
 
 >             “(B) within an area for which the President, pursuant to title IV or V of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[[42 U.S.C. 5170][/us/usc/t42/s5170] et seq., 5191 et seq.\], declared that a major disaster or emergency existed for purposes of such Act \[[42 U.S.C. 5121][/us/usc/t42/s5121] et seq.\], as a result of the civil disturbances involving acts of violence occurring on or after April 29, 1992, and before May 6, 1992.
 
->     “(c) __Contents.—__ 
+>     “(c)  __Contents__  __.—__ 
 
 >     Each new town plan shall include the following information:
 
->         “(1) __Governing board.—__ 
+>         “(1)  __Governing board__  __.—__ 
 
 >         A description of the members and purposes of the governing board that developed the plan, the manner in which members of the governing board were selected, and the businesses, agencies, interests, and community ties of each member of the governing board.
 
->         “(2) __New town demonstration area.—__ 
+>         “(2)  __New town demonstration area__  __.—__ 
 
 >         A definition and description of the new town demonstration area for the new town development demonstration to be assisted under this title.
 
->         “(3) __Target community.—__ 
+>         “(3)  __Target community__  __.—__ 
 
 >         A description of the economic, social, racial, and ethnic characteristics of the population of the neighborhood or area in which the new town demonstration area is located.
 
->         “(4) __Agreements.—__ 
+>         “(4)  __Agreements__  __.—__ 
 
 >         Agreements that the governing board will carry out the new town demonstration program in accordance with the requirements of this title.
 
->         “(5) __Housing units.—__ 
+>         “(5)  __Housing units__  __.—__ 
 
 >         A description of the number, size, location, cost, style, and characteristics of rental and homeownership housing units to be developed under the new town demonstration program, any financing for developing such housing, and the amount of assistance necessary under section 1105 for developing the housing under the program.
 
->         “(6) __Jobs.—__ 
+>         “(6)  __Jobs__  __.—__ 
 
 >         A description of the number, types, and duration of any new jobs that will be created in the new town demonstration area and surrounding areas as a result of the demonstration program, and of any job training activities and apprenticeship programs to be made available in connection with the program.
 
->         “(7) __Social services.—__ 
+>         “(7)  __Social services__  __.—__ 
 
 >         A description of the social and supportive services to be made available under the demonstration program to residents of housing assisted under the demonstration program pursuant to section 1103(d) and to residents of the new town demonstration area.
 
->         “(8) __Supplemental resources.—__ 
+>         “(8)  __Supplemental resources__  __.—__ 
 
 >         A description of any funds, assistance, in-kind contributions, and other resources to be made available in connection with the demonstration program, including the sources and amounts of any private capital resources and non-Federal funds required under section 1103(h).
 
->         “(9) __Contractors and developers.—__ 
+>         “(9)  __Contractors and developers__  __.—__ 
 
 >         A listing of the contractors and developers who potentially will carry out any construction and rehabilitation work for development of housing under the demonstration program and the expected costs involved in hiring such contractors and developers.
 
->         “(10) __Financing for homebuyers.—__ 
+>         “(10)  __Financing for homebuyers__  __.—__ 
 
 >         A description of any mortgage lenders who have indicated that they will make financing available to families purchasing housing developed under the demonstration program through mortgages eligible for insurance under section 1104 and proposed terms of such mortgages.
 
->         “(11) __Commitments.—__ 
+>         “(11)  __Commitments__  __.—__ 
 
 >         Evidence of any commitments entered into for making any of the resources described in paragraphs (6) through (8) available in connection with the demonstration program.
 
->         “(12) __Presale requirements.—__ 
+>         “(12)  __Presale requirements__  __.—__ 
 
 >         A description of commitments made to purchase not less than 50 percent of the housing to be developed under the demonstration program for purchase by the occupant and to rent not less than 50 percent of the rental dwelling units to be developed under the demonstration program.
 
->         “(13) __Community development activities.—__ 
+>         “(13)  __Community development activities__  __.—__ 
 
 >         A description of the community development activities to be carried out with assistance under section 1106, the amount of assistance necessary under such section for such activities, and of the projected uses of such assistance.
 
 >     “(d) __Review and Approval.—__ 
 
->         “(1) __Submission.—__ 
+>         “(1)  __Submission__  __.—__ 
 
 >         Not later than the expiration of the 6-month period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], a governing board shall submit a new town plan under this section to the chief executive officers of each unit of general local government within whose boundaries is located any portion of the new town demonstration area described under the plan of the board.
 
->         “(2) __Approval.—__ 
+>         “(2)  __Approval__  __.—__ 
 
 >         For a plan to be eligible for assistance available under this title, the chief executive officer of all units of general local government to whom the new town plan is submitted shall approve the plan at a public meeting after the plan has been made publicly available for a period of not less than 30 days. A governing board may resubmit for approval any plan returned by any such chief executive officer to the governing board, and such chief executive officer may, upon returning the plan indicate any modifications necessary for approval. A new town plan may not be approved unless such chief executive officers determine that the membership of the governing board submitting the plan is constituted in accordance with section 1107 and the governing board is capable of carrying out the plan.
 
->         “(3) __Amendment.—__ 
+>         “(3)  __Amendment__  __.—__ 
 
 >         An approved new town plan for the demonstration program developed by the governing board may be amended by the board by obtaining approval of the amendment in the manner provided under this subsection for approval of plans. If the chief executive officer of the unit of general local government does not approve or return the amended plan within 30 days of submission, the amended plan shall be considered to be approved for purposes of this subsection.
 
 > “SEC. 1103. __NEW TOWN DEVELOPMENT DEMONSTRATION PROGRAM REQUIREMENTS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Each of the 2 new town development demonstration programs selected for assistance under this title under section 1102 shall be carried out, by the governing board submitting the new town plan for the demonstration program, in accordance with such plan (and any approved amendments of such plans) and shall be subject to the requirements under this section.
 
->     “(b) __Local Participation.—__ 
+>     “(b)  __Local Participation__  __.—__ 
 
 >     With respect to any activities carried out under the demonstration program, the program shall give preference in awarding contracts, purchasing materials, acquiring services, and obtaining assistance or training, to contractors, businesses, developers, professionals, and other establishments located or having offices within the new town demonstration area.
 
 >     “(c) __Housing.—__ 
 
->         “(1) __Number of units.—__ 
+>         “(1)  __Number of units__  __.—__ 
 
 >         The demonstration program shall construct or renovate not less than 1,500 dwelling units in the new town demonstration area, of which not less than 60 percent shall be units available for purchase by the occupant.
 
->         “(2) __Affordability.—__ 
+>         “(2)  __Affordability__  __.—__ 
 
 >         Units of varying sizes and costs shall be designed and developed under the demonstration program so that the program provides housing affordable to families of varying incomes not exceeding 115 percent of the median income for the area in which the new town demonstration area is located, including very low- and low-income families (as such terms are defined in section 3(b) of the United States Housing Act of 1937 \[[42 U.S.C. 1437a(b)][/us/usc/t42/s1437a/b]\]).
 
->         “(3) __Homeownership units.—__ 
+>         “(3)  __Homeownership units__  __.—__ 
 
 >         Dwelling units developed under the demonstration program for purchase by the occupant shall initially be sold at prices affordable to families eligible to purchase such units. Such units shall be available for purchase only by families having incomes not exceeding the amount specified in paragraph (2). The demonstration shall develop 2-, 3-, and 4-bedroom units for purchase.
 
->         “(4) __Rental units.—__ 
+>         “(4)  __Rental units__  __.—__ 
 
 >         Dwelling units developed under the demonstration program that are to be available for rental shall include family-type units and single bedroom and efficiency units designed for elderly occupants. Such units shall be available for occupancy only by families who (upon initial occupancy) have incomes of (A) less than 60 percent of the median income for the area, or (B) less than $20,000. Occupant families shall pay not more than 30 percent of the family income for rent.
 
->     “(d) __Social Services.—__ 
+>     “(d)  __Social Services__  __.—__ 
 
 >     The demonstration program shall provide for appropriate social and supportive services to be made available to residents of housing assisted under the demonstration program and to other residents of the new town demonstration area, which may include rental and homeownership counseling, child care, job placement, educational programs, recreational and health care facilities and programs, and other appropriate services.
 
->     “(e) __Job Creation and Training.—__ 
+>     “(e)  __Job Creation and Training__  __.—__ 
 
 >     The demonstration program shall provide, to the extent practicable, that activities in connection with the demonstration program, including development of housing under subsection (c) and community development activities assisted under section 1106, shall employ and provide job training opportunities for residents of the housing assisted under the demonstration program and other residents of the new town demonstration area.
 
->     “(f) __Financing.—__ 
+>     “(f)  __Financing__  __.—__ 
 
 >     The demonstration program shall provide for coordination with banks, credit unions, and other mortgage lenders to make financing available to purchasers of units developed under the demonstration program through mortgages eligible for insurance under section 1104, and shall give preference to such mortgage lenders who have offices located within or near the new town demonstration area.
 
->     “(g) __Support Facilities.—__ 
+>     “(g)  __Support Facilities__  __.—__ 
 
 >     The demonstration program shall encourage, facilitate, and provide for development of appropriate support facilities to serve residents in the housing developed under the program, including infrastructure and commercial facilities.
 
->     “(h) __Non-Federal Funds.—__ 
+>     “(h)  __Non-Federal Funds__  __.—__ 
 
 >     The governing board carrying out the demonstration program shall ensure that not less than 25 percent of the total amounts used to carry out the demonstration program is provided from non-Federal sources, including State or local government funds, any salary paid to staff to carry out the demonstration program, the value of any time, services, and materials donated to carry out the program, the value of any donated building, and the value of any lease on a building.
 
 > “SEC. 1104. __FEDERAL MORTGAGE INSURANCE.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Pursuant to title II and section 251 of the National Housing Act \[[12 U.S.C. 1707][/us/usc/t12/s1707] et seq., 1715z–16\], the Secretary shall (to the extent authority is available pursuant to subsection (d)) insure mortgages under this section involving properties upon which are located dwelling units described in section 1103(c)(3) of this Act that are developed under the new town demonstration programs carried out pursuant to this title.
 
->     “(b) __Mortgage Terms.—__ 
+>     “(b)  __Mortgage Terms__  __.—__ 
 
 >     Mortgages insured under this section shall—
 
@@ -605,31 +605,31 @@
 
 >         “(2) have a maturity of 35 years from the date of the beginning of the amortization of the mortgage.
 
->     “(c) __Board Approval.—__ 
+>     “(c)  __Board Approval__  __.—__ 
 
 >     The Secretary may provide insurance under this section for a mortgage only if the governing board for the demonstration program for the new town demonstration area in which the property subject to the mortgage is located has indicated to the Secretary approval of the mortgage in connection with the demonstration program.
 
->     “(d) __Insurance Authority.—__ 
+>     “(d)  __Insurance Authority__  __.—__ 
 
 >     To the extent provided in appropriation Acts, the Secretary shall use any authority provided pursuant to section 531(b) of the National Housing Act \[[12 U.S.C. 1735f–9(b)][/us/usc/t12/s1735f–9/b]\] to enter into commitments to insure loans and mortgages under this section in fiscal years 1993 and 1994 with an aggregate principal amount not exceeding such sums as may be necessary to carry out the demonstration under this title. Mortgages insured under this section shall not be considered for purposes of the aggregate limitation on the number of mortgages insured under section 251 of the National Housing Act \[[12 U.S.C. 1715z–16][/us/usc/t12/s1715z–16]\] specified in subsection (c) of such section.
 
 > “SEC. 1105. __SECONDARY SOFT MORTGAGE FINANCING FOR HOUSING.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary shall, to the extent amounts are provided in appropriation Acts under subsection (e), provide assistance under this section through the governing boards carrying out the new town demonstration programs under this section to assist in the development of housing under the program.
 
->     “(b) __Use.—__ 
+>     “(b)  __Use__  __.—__ 
 
 >     Any assistance provided under this section shall be used only for costs in planning, developing, constructing, and rehabilitating housing under the demonstration program available for rental or purchase by the occupant. The governing board shall determine, according to the new town plan for the demonstration program, the allocation of amounts of assistance provided under this section.
 
->     “(c) __Amount.—__ 
+>     “(c)  __Amount__  __.—__ 
 
 >     The Secretary may not provide assistance under this section for the development of housing under a demonstration program in an amount exceeding $50,000 per dwelling unit assisted.
 
 >     “(d) __Second Mortgage.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Assistance under this section shall be repaid in accordance with this subsection. Repayment of the amount of any assistance provided with respect to—
 
@@ -639,29 +639,29 @@
 
 >             shall be secured by a second mortgage held by the Secretary on the property involved.
 
->         “(2) __Terms.—__ 
+>         “(2)  __Terms__  __.—__ 
 
 >         During the period ending upon repayment of the assistance as provided in this subsection, any building containing rental units that is provided assistance under this section shall be used as rental housing subject to the requirements of section 1103(c)(4). During the period ending upon repayment of the assistance as provided in this subsection, any dwelling unit made available for purchase by the occupant that is provided assistance under this section may be sold only to a family having an income not exceeding the amount specified in section 1103(c)(2).
 
->         “(3) __Interest.—__ 
+>         “(3)  __Interest__  __.—__ 
 
 >         Any assistance provided under this section for a building or dwelling unit shall bear interest at a rate equivalent to the rate for the most recently marketable obligations issued by the United States Treasury have terms of 10 years. The interest on such assistance shall be required to be repaid only upon sale of the building.
 
->         “(4) __Discounted repayment.—__ 
+>         “(4)  __Discounted repayment__  __.—__ 
 
 >         The assistance provided under this section for any building containing rental units or any dwelling unit available for purchase by the occupant shall be considered to have been repaid for purposes of this subsection if the original purchaser of the building or the dwelling unit pays to the Secretary an amount equal to 50 percent of the amount of the assistance provided under this section.
 
->     “(e) __Authorization of Appropriations.—__ 
+>     “(e)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated for fiscal years 1993 and 1994 such sums as may be necessary for providing assistance under this section.
 
 > “SEC. 1106. __COMMUNITY DEVELOPMENT ASSISTANCE.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary shall provide assistance under this section, to the extent amounts are provided in appropriation Acts under subsection (h), to units of general local government to address vital unmet needs and to promote the creation of jobs and economic development in connection with the new town demonstration programs carried out under this title.
 
->     “(b) __Eligible Units of General Local Government.—__ 
+>     “(b)  __Eligible Units of General Local Government__  __.—__ 
 
 >     Assistance may be provided under this section only to units of general local government—
 
@@ -671,7 +671,7 @@
 
 >         “(3) that will comply with a residential antidisplacement and relocation assistance plan described in subsection (d).
 
->     “(c) __Required Certifications.—__ 
+>     “(c)  __Required Certifications__  __.—__ 
 
 >     The certifications referred to in subsection (b)(2) shall be certifications that—
 
@@ -693,7 +693,7 @@
 
 >     “(d) __Antidisplacement and Relocation Plan.—__ 
 
->         “(1) __Contents.—__ 
+>         “(1)  __Contents__  __.—__ 
 
 >         The residential antidisplacement and relocation assistance plan referred to in subsection (b)(3) shall, in connection with activities assisted under this section—
 
@@ -729,15 +729,15 @@
 
 >             “(C) provide that where a claim for assistance under subparagraph (A)(iv) is denied by the unit of general local government, the claimant may appeal to the Secretary, and that the decision of the Secretary shall be final unless a court determines the decision was arbitrary and capricious.
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         Paragraphs (1)(A)(i) and (1)(A)(ii) shall not apply in any case in which the Secretary finds, on the basis of objective data, that there is available in the area an adequate supply of habitable affordable housing for low- and moderate-income persons. A determination under this paragraph shall be final and nonreviewable.
 
->     “(e) __Eligible Activities.—__ 
+>     “(e)  __Eligible Activities__  __.—__ 
 
 >     Activities assisted with amounts provided under this section may include only the following activities:
 
->         “(1) __Acquisition of real property.—__ 
+>         “(1)  __Acquisition of real property__  __.—__ 
 
 >         The acquisition of real property (including air rights, water rights, and other interests therein) that is located within the new town demonstration area and is—
 
@@ -753,55 +753,55 @@
 
 >             “(F) to be used for other public purposes.
 
->         “(2) __Construction of public works and facilities.—__ 
+>         “(2)  __Construction of public works and facilities__  __.—__ 
 
 >         The acquisition, construction, rehabilitation, or installation of public works or public facilities within the new town demonstration area, including buildings for the general conduct of government and facilities for coordinating and providing activities and services for high risk youth (as such term is defined in section 509A \[now 517\] of the Public Health Service Act).
 
->         “(3) __Clearance and rehabilitation of buildings.—__ 
+>         “(3)  __Clearance and rehabilitation of buildings__  __.—__ 
 
 >         The clearance, removal, and rehabilitation of buildings and improvements located within the new town demonstration area, including interim assistance, assistance for facilities for coordinating and providing activities and services for high risk youth (as such term is defined in section 509A \[now 517\] of the Public Health Service Act), and assistance to privately owned buildings and improvements.
 
 >         “(4) __Provision of public services and housing.—__ 
 
->             “(A) __Public services.—__ 
+>             “(A)  __Public services__  __.—__ 
 
 >             The provision of public services within the new town demonstration area that are concerned with job training and retraining, health care and education, crime prevention, drug abuse treatment and rehabilitation, child care, education, and recreation, which may include the provision of public health and public safety vehicles.
 
->             “(B) __Housing activities.—__ 
+>             “(B)  __Housing activities__  __.—__ 
 
 >             The acquisition and rehabilitation of housing for low- and moderate-income families within the new town demonstration area, except that any grantee that uses amounts received under this section for housing activities under this subparagraph shall make not less than 15 percent of the amount used for such housing activities available only for community housing development organizations and nonprofit organizations (as such terms are defined in section 104 of the Cranston-Gonzalez National Affordable Housing Act \[[42 U.S.C. 12704][/us/usc/t42/s12704]\]) for such activities;
 
->             “(C) __Limitation.—__ 
+>             “(C)  __Limitation__  __.—__ 
 
 >             Not more than 25 percent of the amount of any assistance provided under this section (including program income) to any unit of general local government may be used for activities under this paragraph.
 
->         “(5) __Relocation assistance.—__ 
+>         “(5)  __Relocation assistance__  __.—__ 
 
 >         Relocation payments and assistance for individuals, families, business, and organizations that are displaced as a result of activities assisted under this title.
 
->         “(6) __Payment of administrative expenses.—__ 
+>         “(6)  __Payment of administrative expenses__  __.—__ 
 
 >         Payment of reasonable administrative costs associated with activities assisted under this section and any expenses of developing the new town plan under section 1102.
 
->     “(f) __Allocation of Assistance.—__ 
+>     “(f)  __Allocation of Assistance__  __.—__ 
 
 >     The Secretary may not provide more than 50 percent of any amounts appropriated under this section in connection with any one of the 2 new town demonstration programs carried out under this title.
 
->     “(g) __Other Requirements.—__ 
+>     “(g)  __Other Requirements__  __.—__ 
 
 >     The provisions of subsections (f), (g), and (h) of section 104, subsections (c) and (d) of section 105, section 107, 108, 109, and 110 of the bill, H.R. 4073, 102d Congress (as reported on March 14, 1992 \[May 14, 1992, H. Rept. No. 102–524\], by the Committee on Banking, Finance and Urban Affairs of the House of Representatives), shall apply to grantees receiving assistance under this section.
 
->     “(h) __Authorization of Appropriations.—__ 
+>     “(h)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated for fiscal years 1993 and 1994 such sums as may be necessary for assistance under this section.
 
 > “SEC. 1107. __GOVERNING BOARDS.__ 
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     For purposes of this title, a governing board shall be a board organized for the purpose of developing a new town plan under this title and carrying out a new town development demonstration under this title.
 
->     “(b) __Membership.—__ 
+>     “(b)  __Membership__  __.—__ 
 
 >     Each governing board shall consist of not less than 10 members, who shall include—
 
@@ -813,7 +813,7 @@
 
 >         “(4) representatives of financial institutions located or having offices in such area.
 
->     “(c) __Organization.—__ 
+>     “(c)  __Organization__  __.—__ 
 
 >     A governing board may organize itself and conduct business in the manner that the board determines is appropriate to carry out the new town development demonstration under this title.
 
@@ -825,23 +825,23 @@
 
 > “For purposes of this title:
 
->     “(1) __Demonstration program.—__ 
+>     “(1)  __Demonstration program__  __.—__ 
 
 >     The terms ‘demonstration program’ and ‘program’ mean a new town development demonstration program receiving assistance under this title, which is carried out within a new town demonstration area by a governing board.
 
->     “(2) __Governing board.—__ 
+>     “(2)  __Governing board__  __.—__ 
 
 >     The term ‘governing board’ means a board established under section 1107.
 
->     “(3) __New town demonstration area.—__ 
+>     “(3)  __New town demonstration area__  __.—__ 
 
 >     The term ‘new town demonstration area’ means the area defined in a new town plan in which the new town development demonstration under the plan is to be carried out.
 
->     “(4) __New town plan.—__ 
+>     “(4)  __New town plan__  __.—__ 
 
 >     The terms ‘new town plan’ and ‘plan’ mean a plan under section 1102 developed by a governing board.
 
->     “(5) __Unit of general local government.—__ 
+>     “(5)  __Unit of general local government__  __.—__ 
 
 >     The term ‘unit of general local government’ means any city, county, town, township, parish, village, or other general purpose political subdivision of the State of California.”
 

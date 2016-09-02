@@ -57,11 +57,11 @@
 
 [Pub. L. 105–19, § 7][/us/pl/105/19/s7], June 18, 1997, [111 Stat. 223][/us/stat/111/223], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     This Act \[enacting this chapter\] shall take effect 90 days after the date of enactment of this Act \[June 18, 1997\].
 
->     “(b) __Application.—__ 
+>     “(b)  __Application__  __.—__ 
 
 >     This Act applies to any claim for harm caused by an act or omission of a volunteer where that claim is filed on or after the effective date of this Act but only if the harm that is the subject of the claim or the conduct that caused such harm occurred after such effective date.”
 

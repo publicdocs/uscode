@@ -45,7 +45,7 @@
 
 [Pub. L. 106–505, title II, § 202][/us/pl/106/505/s202], Nov. 13, 2000, [114 Stat. 2325][/us/stat/114/2325], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -97,7 +97,7 @@
 
 >         “(13) In fiscal year 1999, there were 77 general clinical research centers in operation, supplying patients in the areas in which such centers operate with access to the most modern clinical research and clinical research facilities and technologies.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     It is the purpose of this title \[see Short Title of 2000 Amendments note set out under [section 201 of this title][/us/usc/t42/s201]\] to provide additional support for and to expand clinical research programs.”
 

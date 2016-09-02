@@ -91,11 +91,11 @@
 
 [Pub. L. 107–18, § 1][/us/pl/107/18/s1], July 5, 2001, [115 Stat. 152][/us/stat/115/152], provided that:
 
->     “(a) __Availability of Fees.—__ 
+>     “(a)  __Availability of Fees__  __.—__ 
 
 >     Notwithstanding section 620(e)(2) of the National Manufactured Housing Construction and Safety Standards Act of 1974 ([42 U.S.C. 5419(e)(2)][/us/usc/t42/s5419/e/2]), any fees collected under that Act, including any fees collected before the date of enactment of the American Homeownership and Economic Opportunity Act of 2000 ([12 U.S.C. 1701][/us/usc/t12/s1701] note) \[Dec. 27, 2000\] and remaining unobligated on the date of enactment of this Act \[July 5, 2001\], shall be available for expenditure to offset the expenses incurred by the Secretary under the National Manufactured Housing Construction and Safety Standards Act of 1974 ([42 U.S.C. 5401][/us/usc/t42/s5401] et seq.), otherwise in accordance with section 620 of that Act.
 
->     “(b) __Duration.—__ 
+>     “(b)  __Duration__  __.—__ 
 
 >     The authority for the use of fees provided for in subsection (a) shall remain in effect during the period beginning in fiscal year 2001 and ending on the effective date of the first appropriations Act referred to in section 620(e)(2) of the National Manufactured Housing Construction and Safety Standards Act of 1974 ([42 U.S.C. 5419(e)(2)][/us/usc/t42/s5419/e/2]) that is enacted with respect to a fiscal year after fiscal year 2001.”
 

@@ -199,11 +199,11 @@
 
 [Pub. L. 110–234, title IV, § 4304(a)(2)][/us/pl/110/234/s4304/a/2], May 22, 2008, [122 Stat. 1130][/us/stat/122/1130], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4304(a)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1891, provided that:
 
->     “(A) __Existing secondary schools.—__ 
+>     “(A)  __Existing secondary schools__  __.—__ 
 
 >     Section 19(d)(1)(C) of the Richard B. Russell National School Lunch Act \[[42 U.S.C. 1769a(d)(1)(C)][/us/usc/t42/s1769a/d/1/C]\] (as amended by paragraph (1)) may be waived by a State until July 1, 2010, for each secondary school in the State that has been awarded funding under section 18(f) of that Act ([42 U.S.C. 1769(f)][/us/usc/t42/s1769/f]) for the school year beginning July 1, 2008.
 
->     “(B) __School year beginning__  __july 1, 2008__  __.—__ 
+>     “(B)  __School year beginning __  __july 1, 2008__  __.—__ 
 
 >     To facilitate transition from the program authorized under section 18(f) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1769(f)][/us/usc/t42/s1769/f]) (as in effect on the day before the date of enactment of this Act \[June 18, 2008\]) to the program established under section 19 of that Act \[[42 U.S.C. 1769a][/us/usc/t42/s1769a]\] (as amended by paragraph (1))—
 

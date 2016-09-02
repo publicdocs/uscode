@@ -31,7 +31,7 @@
 
     (7) The term “low-income” means that income in relation to family size which (A) is at or below 200 percent of the poverty level determined in accordance with criteria established by the Director of the Office of Management and Budget, except that the Secretary may establish a higher level if the Secretary, after consulting with the Secretary of Agriculture and the Director of the Community Services Administration, determines that such a higher level is necessary to carry out the purposes of this part and is consistent with the eligibility criteria established for the weatherization program under [section 2809(a)(12) of this title][/us/usc/t42/s2809/a/12], (B) is the basis on which cash assistance payments have been paid during the preceding 12-month period under titles IV and XVI of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq., 1381 et seq.\] or applicable State or local law, or (C) if a State elects, is the basis for eligibility for assistance under the Low-Income Home Energy Assistance Act of 1981 ([42 U.S.C. 8621][/us/usc/t42/s8621]), provided that such basis is at least 200 percent of the poverty level determined in accordance with criteria established by the Director of the Office of Management and Budget.
 
-    (8) __State.—__ 
+    (8)  __State__  __.—__ 
 
     The term “State” means—
 

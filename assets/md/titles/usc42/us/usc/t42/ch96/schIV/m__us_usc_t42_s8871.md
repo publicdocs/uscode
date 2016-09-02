@@ -33,11 +33,11 @@
 
 [Pub. L. 102–190, div. A, title VIII, § 841(c)][/us/pl/102/190/s841/c], (d), Dec. 5, 1991, [105 Stat. 1449][/us/stat/105/1449], provided that:
 
->     “(c) __Report on Exemptions.—__ 
+>     “(c)  __Report on Exemptions__  __.—__ 
 
 >     The Secretary of Defense shall review all exemptions granted for the Department of Defense, and the Administrator of the General Services Administration shall review all exemptions granted for Federal agencies and departments, to the requirements of [section 2398 of title 10][/us/usc/t10/s2398], United States Code, and section 271 of the Energy Security Act ([Public Law 96–294][/us/pl/96/294]; [42 U.S.C. 8871][/us/usc/t42/s8871]) and shall terminate any exemption that the Secretary or the Administrator determines is no longer appropriate. Not later than 90 days after the date of the enactment of this Act \[Dec. 5, 1991\], the Secretary and the Administrator shall submit jointly to Congress a report on the results of the review, with a justification for the exemptions that remain in effect under those provisions of law.
 
->     “(d) __Sense of Congress.—__ 
+>     “(d)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that whenever any motor vehicle capable of operating on gasoline or alcohol-gasoline blends that is owned or operated by the Department of Defense or any other department or agency of the Federal Government is refueled, it shall be refueled with an alcohol-gasoline blend containing at least 10 percent domestically produced alcohol if available along the normal travel route of the vehicle at the same or lower price than unleaded gasoline.”
 

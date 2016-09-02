@@ -1131,31 +1131,31 @@
 
 [Pub. L. 99–272, title IX, § 9502(j)][/us/pl/99/272/s9502/j], Apr. 7, 1986, [100 Stat. 204][/us/stat/100/204], as amended by [Pub. L. 99–509, title IX, § 9435(a)][/us/pl/99/509/s9435/a], Oct. 21, 1986, [100 Stat. 2069][/us/stat/100/2069]; [Pub. L. 100–203, title IV, § 4118(j)][/us/pl/100/203/s4118/j], Dec. 22, 1987, [101 Stat. 1330–156][/us/stat/101/1330-156], provided that:
 
->     “(1) __Habilitation services.—__ 
+>     “(1)  __Habilitation services__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall be effective for services furnished on or after the date of the enactment of this Act \[Apr. 7, 1986\] to individuals eligible for services under a waiver granted under section 1915(c) of the Social Security Act \[[42 U.S.C. 1396n(c)][/us/usc/t42/s1396n/c]\], without regard to whether such individuals were receiving institutional services before their participation in the waiver.
 
->     “(2) __Hospitalized patients.—__ 
+>     “(2)  __Hospitalized patients__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending this section\] shall be effective for services furnished on or after October 1, 1985.
 
->     “(3) __Prohibition of regulatory limits and treatment of certain physically disabled individuals.—__ 
+>     “(3)  __Prohibition of regulatory limits and treatment of certain physically disabled individuals__  __.—__ 
 
 >     The amendments made by subsections (c) and (d) \[amending this section\] shall apply to applications for waivers (or renewals thereof) filed before, on, or after, the date of the enactment of this Act \[Apr. 7, 1986\] and for services furnished on or after August 13, 1981.
 
->     “(4) __Income standards.—__ 
+>     “(4)  __Income standards__  __.—__ 
 
 >     The amendment made by subsection (e) \[amending this section\] shall apply to waivers (or renewals thereof) approved before, on, or after the date of the enactment of this Act \[Apr. 7, 1986\].
 
->     “(5) __Waiver extensions.—__ 
+>     “(5)  __Waiver extensions__  __.—__ 
 
 >     Subsection (f) \[enacting provisions set out below\] shall apply to waivers expiring on or after September 30, 1985, and before September 30, 1986.
 
->     “(6) __Waiver renewals.—__ 
+>     “(6)  __Waiver renewals__  __.—__ 
 
 >     The amendments made by subsection (g) \[amending this section\] shall become effective on September 30, 1986.
 
->     “(7) __Coordinated services and substitution of participants.—__ 
+>     “(7)  __Coordinated services and substitution of participants__  __.—__ 
 
 >     The amendments made by subsections (h) and (i) \[amending this section\] shall become effective on the date of the enactment of this Act \[Apr. 7, 1986\].”
 
@@ -1219,11 +1219,11 @@
 
 [Pub. L. 109–171, title VI, § 6086(b)][/us/pl/109/171/s6086/b], Feb. 8, 2006, [120 Stat. 127][/us/stat/120/127], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary, acting through the Director of the Agency for Healthcare Research and Quality, shall consult with consumers, health and social service providers and other professionals knowledgeable about long-term care services and supports to develop program performance indicators, client function indicators, and measures of client satisfaction with respect to home and community-based services offered under State Medicaid programs.
 
->     “(2) __Best practices.—__ 
+>     “(2)  __Best practices__  __.—__ 
 
 >     The Secretary shall—
 
@@ -1231,7 +1231,7 @@
 
 >         “(B) make publicly available the best practices identified through such assessment and a comparative analyses of the system features of each State.
 
->     “(3) __Appropriation.—__ 
+>     “(3)  __Appropriation__  __.—__ 
 
 >     Out of any funds in the Treasury not otherwise appropriated, there is appropriated to the Secretary of Health and Human Services, $1,000,000 for the period of fiscal years 2006 through 2010 to carry out this subsection.”
 

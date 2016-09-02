@@ -61,7 +61,7 @@
 
         (3) The health care services referred to in paragraphs (1) and (2) which are provided under grants or contracts under subsection (a)(1) of this section may be provided by traditional Native Hawaiian healers.
 
-        (4) __Health and education.—__ 
+        (4)  __Health and education__  __.—__ 
 
         In order to enable privately funded organizations to continue to supplement public efforts to provide educational programs designed to improve the health, capability, and well-being of Native Hawaiians and to continue to provide health services to Native Hawaiians, notwithstanding any other provision of Federal or State law, it shall be lawful for the private educational organization identified in [section 7512(16) of title 20][/us/usc/t20/s7512/16] to continue to offer its educational programs and services to Native Hawaiians (as defined in [section 7517 of title 20][/us/usc/t20/s7517]) first and to others only after the need for such programs and services by Native Hawaiians has been met.
 

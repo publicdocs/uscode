@@ -127,43 +127,43 @@
 
 > “SEC. 3403. __DUTIES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Commission shall study and include in the report made under section 3407 recommendations for changes regarding law enforcement agencies and law enforcement issues on the Federal, State, and local levels, including the following:
 
->         “(1) __Funding.—__ 
+>         “(1)  __Funding__  __.—__ 
 
 >         The sufficiency of funding, including a review of grant programs at the Federal level.
 
->         “(2) __Employment.—__ 
+>         “(2)  __Employment__  __.—__ 
 
 >         The conditions of law enforcement employment.
 
->         “(3) __Information.—__ 
+>         “(3)  __Information__  __.—__ 
 
 >         The effectiveness of information-sharing systems, intelligence, infrastructure, and procedures among law enforcement agencies of Federal, State, and local governments.
 
->         “(4) __Research and training.—__ 
+>         “(4)  __Research and training__  __.—__ 
 
 >         The status of law enforcement research and education and training.
 
->         “(5) __Equipment and resources.—__ 
+>         “(5)  __Equipment and resources__  __.—__ 
 
 >         The adequacy of equipment, physical resources, and human resources.
 
->         “(6) __Cooperation.—__ 
+>         “(6)  __Cooperation__  __.—__ 
 
 >         The cooperation among Federal, State, and local law enforcement agencies.
 
->         “(7) __Responsibility.—__ 
+>         “(7)  __Responsibility__  __.—__ 
 
 >         The responsibility of governments and law enforcement agencies in solving the crime problem.
 
->         “(8) __Impact.—__ 
+>         “(8)  __Impact__  __.—__ 
 
 >         The impact of the criminal justice system, including court schedules and prison overcrowding, on law enforcement.
 
->     “(b) __Consultation.—__ 
+>     “(b)  __Consultation__  __.—__ 
 
 >     The Commission shall conduct surveys and consult with focus groups of law enforcement officers, local officials, and community leaders across the Nation to obtain information and seek advice on important law enforcement issues.
 
@@ -173,47 +173,47 @@
 
 >     “(b) __Compensation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Members of the Commission shall receive no additional pay, allowances, or benefits by reason of service on the Commission.
 
->         “(2) __Travel expenses.—__ 
+>         “(2)  __Travel expenses__  __.—__ 
 
 >         Each member of the Commission shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code.
 
 > “SEC. 3405. __EXPERTS AND CONSULTANTS.__ 
 
->     “(a) __Experts and Consultants.—__ 
+>     “(a)  __Experts and Consultants__  __.—__ 
 
 >     The Commission may procure temporary and intermittent services under [section 3109(b) of title 5][/us/usc/t5/s3109/b], United States Code.
 
->     “(b) __Staff of Federal Agencies.—__ 
+>     “(b)  __Staff of Federal Agencies__  __.—__ 
 
 >     Upon request of the Commission, the head of any Federal agency is authorized to detail, on a reimbursable basis, any of the personnel of that agency to the Commission to assist the Commission in carrying out its duties under this title.
 
->     “(c) __Administrative Support.—__ 
+>     “(c)  __Administrative Support__  __.—__ 
 
 >     The Administrator of General Services shall provide to the Commission, on a reimbursable basis, administrative support services as the Commission may request.
 
 > “SEC. 3406. __POWERS OF COMMISSION.__ 
 
->     “(a) __Hearings.—__ 
+>     “(a)  __Hearings__  __.—__ 
 
 >     The Commission may, for purposes of this title, hold hearings, sit and act at the times and places, take testimony, and receive evidence, as the Commission considers appropriate.
 
->     “(b) __Delegation of Authority.—__ 
+>     “(b)  __Delegation of Authority__  __.—__ 
 
 >     Any member or agent of the Commission may, if authorized by the Commission, take any action the Commission is authorized to take by this section.
 
->     “(c) __Information.—__ 
+>     “(c)  __Information__  __.—__ 
 
 >     The Commission may secure directly from any Federal agency information necessary to enable it to carry out this title. Upon request of the chairperson of the Commission, the head of an agency shall furnish the information to the Commission to the extent permitted by law.
 
->     “(d) __Gifts and Donations.—__ 
+>     “(d)  __Gifts and Donations__  __.—__ 
 
 >     The Commission may accept, use, and dispose of gifts or donations of services or property.
 
->     “(e) __Mails.—__ 
+>     “(e)  __Mails__  __.—__ 
 
 >     The Commission may use the United States mails in the same manner and under the same conditions as other Federal agencies.
 
@@ -269,7 +269,7 @@
 
 >         “(f) __Number and Appointment.—__ 
 
->             “(1) __In general.—__ 
+>             “(1)  __In general__  __.—__ 
 
 >             The Commission shall be composed of 29 members as follows:    “(A)
 
@@ -315,15 +315,15 @@
 
 >      Two individuals representing a State or local governmental entity, such as a Governor, mayor, or State attorney general, to be appointed jointly by the Speaker and the minority leader of the House of Representatives.
 
->         “(2) __Comptroller general.—__ 
+>         “(2)  __Comptroller general__  __.—__ 
 
 >         The Comptroller General may serve in an advisory capacity, may oversee the methodology, and may approve of the Commission study.
 
->         “(3) __Chairperson.—__ 
+>         “(3)  __Chairperson__  __.—__ 
 
 >         Upon their appointment the members of the Commission shall select one of their number to act as chairperson.
 
->         “(4) __Appointment date.—__ 
+>         “(4)  __Appointment date__  __.—__ 
 
 >         Members of the Commission shall be appointed no later than 90 days after the enactment of this Act \[probably means enactment of [Pub. L. 103–322][/us/pl/103/322], which was approved Sept. 13, 1994\].
 

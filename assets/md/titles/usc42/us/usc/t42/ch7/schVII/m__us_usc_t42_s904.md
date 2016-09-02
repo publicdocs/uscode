@@ -97,11 +97,11 @@
 
 [Pub. L. 103–296, title I, § 104(c)][/us/pl/103/296/s104/c], Aug. 15, 1994, [108 Stat. 1472][/us/stat/108/1472], provided that:
 
->     “(1) __Effective date.—__ 
+>     “(1)  __Effective date__  __.—__ 
 
 >     Section 704(e)(4) of the Social Security Act \[[42 U.S.C. 904(e)(4)][/us/usc/t42/s904/e/4]\] (as amended by subsection (a)) shall take effect March 31, 1996.
 
->     “(2) __Transition rule.—__ 
+>     “(2)  __Transition rule__  __.—__ 
 
 >     Notwithstanding any other provision of law (including subsections (b), (o), (p), (q), (r), and (u) of [section 552a of title 5][/us/usc/t5/s552a], United States Code), arrangements for disclosure of records or other information, and arrangements for computer matching of records, which were in effect immediately before the date of the enactment of this Act \[Aug. 15, 1994\] between the Social Security Administration in the Department of Health and Human Services and other components of such Department may continue between the Social Security Administration established under section 701 of the Social Security Act \[[42 U.S.C. 901][/us/usc/t42/s901]\] (as amended by this Act) and such Department during the period beginning on the date of the enactment of this Act and ending March 31, 1996.”
 

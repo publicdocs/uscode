@@ -221,11 +221,11 @@
 
 [Pub. L. 100–203, title IV, § 4091(a)(1)][/us/pl/100/203/s4091/a/1], Dec. 22, 1987, [101 Stat. 1330–134][/us/stat/101/1330-134], as amended by [Pub. L. 100–360, title IV, § 411(j)(1)][/us/pl/100/360/s411/j/1], July 1, 1988, [102 Stat. 790][/us/stat/102/790], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     In order to permit the Secretary of Health and Human Services an adequate time to complete contract renewal negotiations with utilization and quality control peer review \[now “quality improvement”\] organizations under part B of title XI of the Social Security Act \[[42 U.S.C. 1320c][/us/usc/t42/s1320c] et seq.\] and to provide for a staggered period of contract expiration dates, notwithstanding section 1153(c) of such Act \[[42 U.S.C. 1320c–2(c)][/us/usc/t42/s1320c–2/c]\], the Secretary may provide for extensions of existing contracts, but the total of such extensions may not exceed 24 months for any contract.
 
->     “(B) __Effective date.—__ 
+>     “(B)  __Effective date__  __.—__ 
 
 >     The amendment made by subparagraph (A) shall apply to contracts expiring on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
 

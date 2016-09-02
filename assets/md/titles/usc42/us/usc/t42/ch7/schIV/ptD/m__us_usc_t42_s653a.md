@@ -163,11 +163,11 @@
 
 [Pub. L. 112–40, title II, § 253(b)][/us/pl/112/40/s253/b], Oct. 21, 2011, [125 Stat. 422][/us/stat/125/422], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Subject to paragraph (2), the amendments made by this section \[amending this section\] shall take effect 6 months after the date of the enactment of this Act \[Oct. 21, 2011\].
 
->     “(2) __Compliance transition period.—__ 
+>     “(2)  __Compliance transition period__  __.—__ 
 
 >     If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under part D of title IV of the Social Security Act \[[42 U.S.C. 651][/us/usc/t42/s651] et seq.\] to meet the additional requirement imposed by the amendment made by subsection (a) \[amending this section\], the plan shall not be regarded as failing to meet such requirement before the first day of the second calendar quarter beginning after the close of the first regular session of the State legislature that begins after the effective date of such amendment. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.”
 
@@ -175,11 +175,11 @@
 
 [Pub. L. 111–291, title VIII, § 802(c)][/us/pl/111/291/s802/c], Dec. 8, 2010, [124 Stat. 3157][/us/stat/124/3157], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Subject to paragraph (2), the amendments made by this section \[amending this section\] shall take effect 6 months after the date of the enactment of this Act \[Dec. 8, 2010\].
 
->     “(2) __Compliance transition period.—__ 
+>     “(2)  __Compliance transition period__  __.—__ 
 
 >     If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under part D of title IV of the Social Security Act \[[42 U.S.C. 651][/us/usc/t42/s651] et seq.\] to meet the additional requirements imposed by the amendment made by subsection (a), the plan shall not be regarded as failing to meet such requirements before the first day of the second calendar quarter beginning after the close of the first regular session of the State legislature that begins after the effective date of such amendment. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.”
 

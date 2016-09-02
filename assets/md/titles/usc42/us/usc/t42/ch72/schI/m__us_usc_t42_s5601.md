@@ -113,11 +113,11 @@
 
 [Pub. L. 107–273, div. C, title II, § 12223][/us/pl/107/273/s12223], Nov. 2, 2002, [116 Stat. 1896][/us/stat/116/1896], as amended by [Pub. L. 108–7, div. B, title I, § 110(2)][/us/pl/108/7/s110/2], (3), Feb. 20, 2003, [117 Stat. 67][/us/stat/117/67], provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     Except as provided in subsection (b), this subtitle \[subtitle B (§§ 12201–12223) of title II of div. C of [Pub. L. 107–273][/us/pl/107/273], see Short Title of 2002 Amendment note below\] and the amendments made by this subtitle shall take effect on the effective date provided in section 12102(b) \[set out as a note under [section 3796ee of this title][/us/usc/t42/s3796ee]\].
 
->     “(b) __Application of Amendments.—__ 
+>     “(b)  __Application of Amendments__  __.—__ 
 
 >     The amendments made by this subtitle shall apply only with respect to fiscal years beginning on or after the effective date provided in subsection (a).”
 
@@ -125,11 +125,11 @@
 
 [Pub. L. 100–690, title VII, § 7296][/us/pl/100/690/s7296], Nov. 18, 1988, [102 Stat. 4463][/us/stat/102/4463], as amended by [Pub. L. 101–204, title X, § 1001(d)][/us/pl/101/204/s1001/d], Dec. 7, 1989, [103 Stat. 1827][/us/stat/103/1827], provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     Except as provided in subsection (b), this subtitle \[subtitle F (§§ 7250–7296) of title VII of [Pub. L. 100–690][/us/pl/100/690], see Short Title of 1988 Amendment note below\] and the amendments made by this Act \[probably should be subtitle\] shall take effect on October 1, 1988.
 
->     “(b) __Application of Amendments.—__ 
+>     “(b)  __Application of Amendments__  __.—__ 
 
 >         (1) The amendments made by section 7258(a) \[amending [section 5633 of this title][/us/usc/t42/s5633]\] shall not apply to a State with respect to a fiscal year beginning before the date of the enactment of this Act \[Nov. 18, 1988\] if the State plan is approved before such date by the Administrator for such fiscal year.
 

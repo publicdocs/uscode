@@ -713,35 +713,35 @@
 
             (A) __In general.—__ 
 
-                (i) __Option to use a finding from an express lane agency.—__ 
+                (i)  __Option to use a finding from an express lane agency__  __.—__ 
 
                 At the option of the State, the State plan may provide that in determining eligibility under this subchapter for a child (as defined in subparagraph (G)), the State may rely on a finding made within a reasonable period (as determined by the State) from an Express Lane agency (as defined in subparagraph (F)) when it determines whether a child satisfies one or more components of eligibility for medical assistance under this subchapter. The State may rely on a finding from an Express Lane agency notwithstanding sections 1396a(a)(46)(B) and 1320b–7(d) of this title or any differences in budget unit, disregard, deeming or other methodology, if the following requirements are met:
 
-                    (I) __Prohibition on determining children ineligible for coverage.—__ 
+                    (I)  __Prohibition on determining children ineligible for coverage__  __.—__ 
 
                     If a finding from an Express Lane agency would result in a determination that a child does not satisfy an eligibility requirement for medical assistance under this subchapter and for child health assistance under subchapter XXI, the State shall determine eligibility for assistance using its regular procedures.
 
-                    (II) __Notice requirement.—__ 
+                    (II)  __Notice requirement__  __.—__ 
 
                     For any child who is found eligible for medical assistance under the State plan under this subchapter or child health assistance under subchapter XXI and who is subject to premiums based on an Express Lane agency’s finding of such child’s income level, the State shall provide notice that the child may qualify for lower premium payments if evaluated by the State using its regular policies and of the procedures for requesting such an evaluation.
 
-                    (III) __Compliance with screen and enroll requirement.—__ 
+                    (III)  __Compliance with screen and enroll requirement__  __.—__ 
 
                     The State shall satisfy the requirements under subparagraphs (A) and (B) of [section 1397bb(b)(3) of this title][/us/usc/t42/s1397bb/b/3] (relating to screen and enroll) before enrolling a child in child health assistance under subchapter XXI. At its option, the State may fulfill such requirements in accordance with either option provided under subparagraph (C) of this paragraph.
 
-                    (IV) __Verification of citizenship or nationality status.—__ 
+                    (IV)  __Verification of citizenship or nationality status__  __.—__ 
 
                     The State shall satisfy the requirements of section 1396a(a)(46)(B) or 1397ee(c)(9) of this title, as applicable for verifications of citizenship or nationality status.
 
-                    (V) __Coding.—__ 
+                    (V)  __Coding__  __.—__ 
 
                     The State meets the requirements of subparagraph (E).
 
-                (ii) __Option to apply to renewals and redeterminations.—__ 
+                (ii)  __Option to apply to renewals and redeterminations__  __.—__ 
 
                 The State may apply the provisions of this paragraph when conducting initial determinations of eligibility, redeterminations of eligibility, or both, as described in the State plan.
 
-            (B) __Rules of construction.—__ 
+            (B)  __Rules of construction__  __.—__ 
 
             Nothing in this paragraph shall be construed—
 
@@ -751,21 +751,21 @@
 
             (C) __Options for satisfying the screen and enroll requirement.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 With respect to a child whose eligibility for medical assistance under this subchapter or for child health assistance under subchapter XXI has been evaluated by a State agency using an income finding from an Express Lane agency, a State may carry out its duties under subparagraphs (A) and (B) of [section 1397bb(b)(3) of this title][/us/usc/t42/s1397bb/b/3] (relating to screen and enroll) in accordance with either clause (ii) or clause (iii).
 
                 (ii) __Establishing a screening threshold.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     Under this clause, the State establishes a screening threshold set as a percentage of the Federal poverty level that exceeds the highest income threshold applicable under this subchapter to the child by a minimum of 30 percentage points or, at State option, a higher number of percentage points that reflects the value (as determined by the State and described in the State plan) of any differences between income methodologies used by the program administered by the Express Lane agency and the methodologies used by the State in determining eligibility for medical assistance under this subchapter.
 
-                    (II) __Children with income not above threshold.—__ 
+                    (II)  __Children with income not above threshold__  __.—__ 
 
                     If the income of a child does not exceed the screening threshold, the child is deemed to satisfy the income eligibility criteria for medical assistance under this subchapter regardless of whether such child would otherwise satisfy such criteria.
 
-                    (III) __Children with income above threshold.—__ 
+                    (III)  __Children with income above threshold__  __.—__ 
 
                     If the income of a child exceeds the screening threshold, the child shall be considered to have an income above the Medicaid applicable income level described in [section 1397jj(b)(4) of this title][/us/usc/t42/s1397jj/b/4] and to satisfy the requirement under [section 1397jj(b)(1)(C) of this title][/us/usc/t42/s1397jj/b/1/C] (relating to the requirement that CHIP matching funds be used only for children not eligible for Medicaid). If such a child is enrolled in child health assistance under subchapter XXI, the State shall provide the parent, guardian, or custodial relative with the following:
 
@@ -775,39 +775,39 @@
 
                 (iii) __Temporary enrollment in chip pending screen and enroll.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     Under this clause, a State enrolls a child in child health assistance under subchapter XXI for a temporary period if the child appears eligible for such assistance based on an income finding by an Express Lane agency.
 
-                    (II) __Determination of eligibility.—__ 
+                    (II)  __Determination of eligibility__  __.—__ 
 
                     During such temporary enrollment period, the State shall determine the child’s eligibility for child health assistance under subchapter XXI or for medical assistance under this subchapter in accordance with this clause.
 
-                    (III) __Prompt follow up.—__ 
+                    (III)  __Prompt follow up__  __.—__ 
 
                     In making such a determination, the State shall take prompt action to determine whether the child should be enrolled in medical assistance under this subchapter or child health assistance under subchapter XXI pursuant to subparagraphs (A) and (B) of [section 1397bb(b)(3) of this title][/us/usc/t42/s1397bb/b/3] (relating to screen and enroll).
 
-                    (IV) __Requirement for simplified determination.—__ 
+                    (IV)  __Requirement for simplified determination__  __.—__ 
 
                     In making such a determination, the State shall use procedures that, to the maximum feasible extent, reduce the burden imposed on the individual of such determination. Such procedures may not require the child’s parent, guardian, or custodial relative to provide or verify information that already has been provided to the State agency by an Express Lane agency or another source of information unless the State agency has reason to believe the information is erroneous.
 
-                    (V) __Availability of chip matching funds during temporary enrollment period.—__ 
+                    (V)  __Availability of chip matching funds during temporary enrollment period__  __.—__ 
 
                     Medical assistance for items and services that are provided to a child enrolled in subchapter XXI during a temporary enrollment period under this clause shall be treated as child health assistance under such subchapter.
 
             (D) __Option for automatic enrollment.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The State may initiate and determine eligibility for medical assistance under the State Medicaid plan or for child health assistance under the State CHIP plan without a program application from, or on behalf of, the child based on data obtained from sources other than the child (or the child’s family), but a child can only be automatically enrolled in the State Medicaid plan or the State CHIP plan if the child or the family affirmatively consents to being enrolled through affirmation in writing, by telephone, orally, through electronic signature, or through any other means specified by the Secretary or by signature on an Express Lane agency application, if the requirement of clause (ii) is met.
 
-                (ii) __Information requirement.—__ 
+                (ii)  __Information requirement__  __.—__ 
 
                 The requirement of this clause is that the State informs the parent, guardian, or custodial relative of the child of the services that will be covered, appropriate methods for using such services, premium or other cost sharing charges (if any) that apply, medical support obligations (under [section 1396k(a) of this title][/us/usc/t42/s1396k/a]) created by enrollment (if applicable), and the actions the parent, guardian, or relative must take to maintain enrollment and renew coverage.
 
             (E) __Coding; application to enrollment error rates.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 For purposes of subparagraph (A)(iv), <sup>\[12\]</sup>  <sup><sup> 12 So in original. Probably should be “subparagraph (A)(i)(V),”. </sup></sup>  the requirement of this subparagraph for a State is that the State agrees to—
 
@@ -821,21 +821,21 @@
 
                     (V) if such error rate exceeds 3 percent for any fiscal year in which the State elects to apply this paragraph, a reduction in the amount otherwise payable to the State under [section 1396b(a) of this title][/us/usc/t42/s1396b/a] for quarters for that fiscal year, equal to the total amount of erroneous excess payments determined for the fiscal year only with respect to the children included in the sample for the fiscal year that are in excess of a 3 percent error rate with respect to such children.
 
-                (ii) __No punitive action based on error rate.—__ 
+                (ii)  __No punitive action based on error rate__  __.—__ 
 
                 The Secretary shall not apply the error rate derived from the sample under clause (i) to the entire population of children enrolled in the State Medicaid plan or the State CHIP plan through reliance on a finding made by an Express Lane agency, or to the population of children enrolled in such plans on the basis of the State’s regular procedures for determining eligibility, or penalize the State on the basis of such error rate in any manner other than the reduction of payments provided for under clause (i)(V).
 
-                (iii) __Rule of construction.—__ 
+                (iii)  __Rule of construction__  __.—__ 
 
                 Nothing in this paragraph shall be construed as relieving a State that elects to apply this paragraph from being subject to a penalty under [section 1396b(u) of this title][/us/usc/t42/s1396b/u], for payments made under the State Medicaid plan with respect to ineligible individuals and families that are determined to exceed the error rate permitted under that section (as determined without regard to the error rate determined under clause (i)(II)).
 
-                (iv) __Error rate defined.—__ 
+                (iv)  __Error rate defined__  __.—__ 
 
                 In this subparagraph, the term “error rate” means the rate of erroneous excess payments for medical assistance (as defined in [section 1396b(u)(1)(D) of this title][/us/usc/t42/s1396b/u/1/D]) for the period involved, except that such payments shall be limited to individuals for which eligibility determinations are made under this paragraph and except that in applying this paragraph under subchapter XXI, there shall be substituted for references to provisions of this subchapter corresponding provisions within subchapter XXI.
 
             (F) __Express lane agency.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 In this paragraph, the term “Express Lane agency” means a public agency that—
 
@@ -855,7 +855,7 @@
 
                     (IV) enters into, or is subject to, an interagency agreement to limit the disclosure and use of the information disclosed.
 
-                (ii) __Inclusion of specific public agencies and Indian tribes and tribal organizations.—__ 
+                (ii)  __Inclusion of specific public agencies and Indian tribes and tribal organizations__  __.—__ 
 
                 Such term includes the following:
 
@@ -893,11 +893,11 @@
 
                     (IV) The Indian Health Service, an Indian Tribe, Tribal Organization, or Urban Indian Organization (as defined in [section 1320b–9(c) of this title][/us/usc/t42/s1320b–9/c]).
 
-                (iii) __Exclusions.—__ 
+                (iii)  __Exclusions__  __.—__ 
 
                 Such term does not include an agency that determines eligibility for a program established under the Social Services Block Grant established under subchapter XX or a private, for-profit organization.
 
-                (iv) __Rules of construction.—__ 
+                (iv)  __Rules of construction__  __.—__ 
 
                 Nothing in this paragraph shall be construed as—
 
@@ -905,43 +905,43 @@
 
                     (II) authorizing a State Medicaid agency that elects to use Express Lane agencies under this subparagraph to use the Express Lane option to avoid complying with such requirements for purposes of making eligibility determinations under the State Medicaid plan.
 
-                (v) __Additional definitions.—__ 
+                (v)  __Additional definitions__  __.—__ 
 
                 In this paragraph:
 
-                    (I) __State.—__ 
+                    (I)  __State__  __.—__ 
 
                     The term “State” means 1 of the 50 States or the District of Columbia.
 
-                    (II) __State chip agency.—__ 
+                    (II)  __State chip agency__  __.—__ 
 
                     The term “State CHIP agency” means the State agency responsible for administering the State CHIP plan.
 
-                    (III) __State chip plan.—__ 
+                    (III)  __State chip plan__  __.—__ 
 
                     The term “State CHIP plan” means the State child health plan established under subchapter XXI and includes any waiver of such plan.
 
-                    (IV) __State medicaid agency.—__ 
+                    (IV)  __State medicaid agency__  __.—__ 
 
                     The term “State Medicaid agency” means the State agency responsible for administering the State Medicaid plan.
 
-                    (V) __State medicaid plan.—__ 
+                    (V)  __State medicaid plan__  __.—__ 
 
                     The term “State Medicaid plan” means the State plan established under subchapter XIX and includes any waiver of such plan.
 
-            (G) __Child defined.—__ 
+            (G)  __Child defined__  __.—__ 
 
             For purposes of this paragraph, the term “child” means an individual under 19 years of age, or, at the option of a State, such higher age, not to exceed 21 years of age, as the State may elect.
 
-            (H) __State option to rely on state income tax data or return.—__ 
+            (H)  __State option to rely on state income tax data or return__  __.—__ 
 
             At the option of the State, a finding from an Express Lane agency may include gross income or adjusted gross income shown by State income tax records or returns.
 
-            (I) __Application.—__ 
+            (I)  __Application__  __.—__ 
 
             This paragraph shall not apply with respect to eligibility determinations made after September 30, 2014.
 
-        (14) __Exclusion of compensation for participation in a clinical trial for testing of treatments for a rare disease or condition.—__ 
+        (14)  __Exclusion of compensation for participation in a clinical trial for testing of treatments for a rare disease or condition__  __.—__ 
 
         The first $2,000 received by an individual (who has attained 19 years of age) as compensation for participation in a clinical trial meeting the requirements of [section 1382a(b)(26) of this title][/us/usc/t42/s1382a/b/26] shall be disregarded for purposes of determining the income eligibility of such individual for medical assistance under the State plan or any waiver of such plan.
 
@@ -3099,11 +3099,11 @@
 
 [Pub. L. 111–296, title I, § 103(c)(2)][/us/pl/111/296/s103/c/2], Dec. 13, 2010, [124 Stat. 3192][/us/stat/124/3192], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 13, 2010\].
 
->     “(B) __Extension of effective date for state law amendment.—__ 
+>     “(B)  __Extension of effective date for state law amendment__  __.—__ 
 
 >     In the case of a State plan under title XIX of the Social Security Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.) which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by this section \[amending this section, [section 1758 of this title][/us/usc/t42/s1758], and [section 1232g of Title 20][/us/usc/t20/s1232g], Education\], the State plan shall not be regarded as failing to comply with the requirements of the amendments made by this section solely on the basis of its failure to meet such additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Dec. 13, 2010\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session is considered to be a separate regular session of the State legislature.”
 
@@ -3125,11 +3125,11 @@
 
 [Pub. L. 111–148, title II, § 2301(c)][/us/pl/111/148/s2301/c], Mar. 23, 2010, [124 Stat. 293][/us/stat/124/293], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 1396d of this title][/us/usc/t42/s1396d]\] shall take effect on the date of the enactment of this Act \[Mar. 23, 2010\] and shall apply to services furnished on or after such date.
 
->     “(2) __Exception if state legislation required.—__ 
+>     “(2)  __Exception if state legislation required__  __.—__ 
 
 >     In the case of a State plan for medical assistance under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirement imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet this additional requirement before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Mar. 23, 2010\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
 
@@ -3143,11 +3143,11 @@
 
 [Pub. L. 111–148, title VI, § 6508][/us/pl/111/148/s6508], Mar. 23, 2010, [124 Stat. 778][/us/stat/124/778], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this subtitle \[subtitle F (§§ 6501–6508) of title VI of [Pub. L. 111–148][/us/pl/111/148], amending this section and [section 1396b of this title][/us/usc/t42/s1396b]\], this subtitle and the amendments made by this subtitle take effect on January 1, 2011, without regard to whether final regulations to carry out such amendments and subtitle have been promulgated by that date.
 
->     “(b) __Delay if State Legislation Required.—__ 
+>     “(b)  __Delay if State Legislation Required__  __.—__ 
 
 >     In the case of a State plan for medical assistance under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] or a child health plan under title XXI of such Act \[[42 U.S.C. 1397aa][/us/usc/t42/s1397aa] et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirement imposed by the amendments made by this subtitle, the State plan or child health plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet this additional requirement before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Mar. 23, 2010\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
 
@@ -3173,11 +3173,11 @@
 
 >     “(1) __In general.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as provided in subparagraph (B), the amendments made by this section \[amending this section and sections 1396b and 1397ee of this title\] shall take effect on January 1, 2010.
 
->         “(B) __Technical amendments.—__ 
+>         “(B)  __Technical amendments__  __.—__ 
 
 >         The amendments made by—
 
@@ -3185,11 +3185,11 @@
 
 >             “(ii) paragraph (4) of subsection (b) \[amending [section 1396b of this title][/us/usc/t42/s1396b]\] shall take effect as if included in the enactment of section 405 of division B of the Tax Relief and Health Care Act of 2006 ([Public Law 109–432][/us/pl/109/432]; [120 Stat. 2996][/us/stat/120/2996]).
 
->     “(2) __Restoration of eligibility.—__ 
+>     “(2)  __Restoration of eligibility__  __.—__ 
 
 >     In the case of an individual who, during the period that began on July 1, 2006, and ends on October 1, 2009, was determined to be ineligible for medical assistance under a State Medicaid plan, including any waiver of such plan, solely as a result of the application of subsections (i)(22) and (x) of section 1903 of the Social Security Act \[[42 U.S.C. 1396b(i)(22)][/us/usc/t42/s1396b/i/22], (x)\] (as in effect during such period), but who would have been determined eligible for such assistance if such subsections, as amended by subsection (b), had applied to the individual, a State may deem the individual to be eligible for such assistance as of the date that the individual was determined to be ineligible for such medical assistance on such basis.
 
->     “(3) __Special transition rule for indians.—__ 
+>     “(3)  __Special transition rule for indians__  __.—__ 
 
 >     During the period that begins on July 1, 2006, and ends on the effective date of final regulations issued under subclause (II) of section 1903(x)(3)(B)(v) of the Social Security Act ([42 U.S.C. 1396b(x)(3)(B)(v)][/us/usc/t42/s1396b/x/3/B/v]) (as added by subsection (b)(1)(B)), an individual who is a member of a federally-recognized Indian tribe described in subclause (II) of that section who presents a document described in subclause (I) of such section that is issued by such Indian tribe, shall be deemed to have presented satisfactory evidence of citizenship or nationality for purposes of satisfying the requirement of subsection (x) of section 1903 of such Act.”
 
@@ -3261,11 +3261,11 @@
 
 [Pub. L. 107–121, § 2(c)][/us/pl/107/121/s2/c], Jan. 15, 2002, [115 Stat. 2384][/us/stat/115/2384], provided that:
 
->     “(1) __Bccpta technical amendment.—__ 
+>     “(1)  __Bccpta technical amendment__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Breast and Cervical Cancer Prevention and Treatment Act of 2000 ([Public Law 106–354][/us/pl/106/354]; [114 Stat. 1381][/us/stat/114/1381]).
 
->     “(2) __Bipa technical amendments.—__ 
+>     “(2)  __Bipa technical amendments__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending this section and [section 1396n of this title][/us/usc/t42/s1396n]\] shall take effect as if included in the enactment of section 702 of the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000 ([114 Stat. 2763][/us/stat/114/2763]A–572) (as enacted into law by [section 1(a)(6) of Public Law 106–554][/us/pl/106/554/s1/a/6]).”
 
@@ -3475,11 +3475,11 @@
 
 [Pub. L. 101–508, title IV, § 4603(b)][/us/pl/101/508/s4603/b], Nov. 5, 1990, [104 Stat. 1388–168][/us/stat/104/1388-168], provided that:
 
->     “(1) __Infants.—__ 
+>     “(1)  __Infants__  __.—__ 
 
 >     The amendment made by subsection (a)(1) \[amending this section\] shall apply to individuals born on or after January 1, 1991, without regard to whether or not final regulations to carry out such amendment have been promulgated by such date.
 
->     “(2) __Pregnant women.—__ 
+>     “(2)  __Pregnant women__  __.—__ 
 
 >     The amendments made by subsection (a)(2) \[amending this section\] shall apply with respect to determinations to terminate the eligibility of women, based on change of income, made on or after January 1, 1991, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.”
 
@@ -3591,11 +3591,11 @@
 
 [Pub. L. 101–239, title VI, § 6411(e)(4)][/us/pl/101/239/s6411/e/4], Dec. 19, 1989, [103 Stat. 2272][/us/stat/103/2272], provided that:
 
->     “(A) __Spousal transfers.—__ 
+>     “(A)  __Spousal transfers__  __.—__ 
 
 >     The amendments made by paragraph (1) \[amending [section 1396p of this title][/us/usc/t42/s1396p]\] shall apply to transfers occurring after the date of the enactment of this Act \[Dec. 19, 1989\].
 
->     “(B) __Other amendments.—__ 
+>     “(B)  __Other amendments__  __.—__ 
 
 >     Except as provided in subparagraph (A), the amendments made by this subsection \[amending this section and sections 1396p and 1396r–5 of this title\] shall apply as if included in the enactment of section 303 of the Medicare Catastrophic Coverage Act of 1988 \[[Pub. L. 100–360][/us/pl/100/360]\].”
 
@@ -3651,15 +3651,15 @@
 
 [Pub. L. 100–360, title III, § 302(f)][/us/pl/100/360/s302/f], July 1, 1988, [102 Stat. 753][/us/stat/102/753], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 1396b and 1396r–4 of this title\] apply (except as provided in this subsection) to payments under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calendar quarters beginning on or after July 1, 1989, with respect to eligibility for medical assistance on or after such date, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
->     “(2) __Payment adjustment.—__ 
+>     “(2)  __Payment adjustment__  __.—__ 
 
 >     The amendments made by subsection (b)(2) \[amending [section 1396r–4 of this title][/us/usc/t42/s1396r–4]\] shall take effect on the date of the enactment of this Act \[July 1, 1988\].
 
->     “(3) __Delay for state legislation.—__ 
+>     “(3)  __Delay for state legislation__  __.—__ 
 
 >     In the case of a State plan for medical assistance under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this section (other than subsection (b)(2)), the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act. For purposes of the previous sentence, in the case of a State that has a regular legislative session of 2 years, each year of such session shall be deemed to be a separate regular session of the State legislature.”
 
@@ -3805,11 +3805,11 @@
 
 [Pub. L. 99–272, title IX, § 9501(d)(2)][/us/pl/99/272/s9501/d/2], (3), Apr. 7, 1986, [100 Stat. 202][/us/stat/100/202], provided that:
 
->     “(2) __Optional services.—__ 
+>     “(2)  __Optional services__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending this section\] shall become effective on the date of the enactment of this Act \[Apr. 7, 1986\].
 
->     “(3) __Continued coverage.—__ 
+>     “(3)  __Continued coverage__  __.—__ 
 
 >     The amendment made by subsection (c) \[amending this section\] shall apply to medical assistance furnished to a woman on or after the date of the enactment of this Act.”
 
@@ -3829,11 +3829,11 @@
 
 [Pub. L. 99–272, title IX, § 9506(b)][/us/pl/99/272/s9506/b], (c), Apr. 7, 1986, [100 Stat. 210][/us/stat/100/210], as amended by [Pub. L. 99–509, title IX, § 9435(c)][/us/pl/99/509/s9435/c], Oct. 21, 1986, [100 Stat. 2070][/us/stat/100/2070], provided that:
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to medical assistance furnished on or after the first day of the second month beginning after the date of the enactment of this Act \[Apr. 7, 1986\].
 
->     “(c) __Exception.—__ 
+>     “(c)  __Exception__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall not apply to any trust or initial trust decree established prior to April 7, 1986, solely for the benefit of a mentally retarded individual who resides in an intermediate care facility for the mentally retarded.”
 
@@ -4175,7 +4175,7 @@
 
 >     “(a) __Authority To Conduct Project.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall establish a demonstration project under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] to evaluate the use of bundled payments for the provision of integrated care for a Medicaid beneficiary—
 
@@ -4183,11 +4183,11 @@
 
 >             “(B) for concurrent physicians services provided during a hospitalization.
 
->         “(2) __Duration.—__ 
+>         “(2)  __Duration__  __.—__ 
 
 >         The demonstration project shall begin on January 1, 2012, and shall end on December 31, 2016.
 
->     “(b) __Requirements.—__ 
+>     “(b)  __Requirements__  __.—__ 
 
 >     The demonstration project shall be conducted in accordance with the following:
 
@@ -4203,17 +4203,17 @@
 
 >         “(6) The Secretary and each State selected to participate in the demonstration project shall ensure that the demonstration project does not result in the Medicaid beneficiaries whose care is subject to payment under the demonstration project being provided with less items and services for which medical assistance is provided under the State Medicaid program than the items and services for which medical assistance would have been provided to such beneficiaries under the State Medicaid program in the absence of the demonstration project.
 
->     “(c) __Waiver of Provisions.—__ 
+>     “(c)  __Waiver of Provisions__  __.—__ 
 
 >     Notwithstanding section 1115(a) of the Social Security Act ([42 U.S.C. 1315(a)][/us/usc/t42/s1315/a]), the Secretary may waive such provisions of titles XIX, XVIII, and XI of that Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq., 1395 et seq., 1301 et seq.\] as may be necessary to accomplish the goals of the demonstration, ensure beneficiary access to acute and post-acute care, and maintain quality of care.
 
 >     “(d) __Evaluation and Report.—__ 
 
->         “(1) __Data.—__ 
+>         “(1)  __Data__  __.—__ 
 
 >         Each State selected to participate in the demonstration project under this section shall provide to the Secretary, in such form and manner as the Secretary shall specify, relevant data necessary to monitor outcomes, costs, and quality, and evaluate the rationales for selection of the episodes of care and services specified by States under subsection (b)(3).
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than 1 year after the conclusion of the demonstration project, the Secretary shall submit a report to Congress on the results of the demonstration project.”
 
@@ -4223,37 +4223,37 @@
 
 >     “(a) __Authority To Conduct Demonstration.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall establish the Pediatric Accountable Care Organization Demonstration Project to authorize a participating State to allow pediatric medical providers that meet specified requirements to be recognized as an accountable care organization for purposes of receiving incentive payments (as described under subsection (d)), in the same manner as an accountable care organization is recognized and provided with incentive payments under section 1899 of the Social Security Act \[[42 U.S.C. 1395jjj][/us/usc/t42/s1395jjj]\] (as added by section 3022).
 
->         “(2) __Duration.—__ 
+>         “(2)  __Duration__  __.—__ 
 
 >         The demonstration project shall begin on January 1, 2012, and shall end on December 31, 2016.
 
->     “(b) __Application.—__ 
+>     “(b)  __Application__  __.—__ 
 
 >     A State that desires to participate in the demonstration project under this section shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
 >     “(c) __Requirements.—__ 
 
->         “(1) __Performance guidelines.—__ 
+>         “(1)  __Performance guidelines__  __.—__ 
 
 >         The Secretary, in consultation with the States and pediatric providers, shall establish guidelines to ensure that the quality of care delivered to individuals by a provider recognized as an accountable care organization under this section is not less than the quality of care that would have otherwise been provided to such individuals.
 
->         “(2) __Savings requirement.—__ 
+>         “(2)  __Savings requirement__  __.—__ 
 
 >         A participating State, in consultation with the Secretary, shall establish an annual minimal level of savings in expenditures for items and services covered under the Medicaid program under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] and the CHIP program under title XXI of such Act \[[42 U.S.C. 1397aa][/us/usc/t42/s1397aa] et seq.\] that must be reached by an accountable care organization in order for such organization to receive an incentive payment under subsection (d).
 
->         “(3) __Minimum participation period.—__ 
+>         “(3)  __Minimum participation period__  __.—__ 
 
 >         A provider desiring to be recognized as an accountable care organization under the demonstration project shall enter into an agreement with the State to participate in the project for not less than a 3-year period.
 
->     “(d) __Incentive Payment.—__ 
+>     “(d)  __Incentive Payment__  __.—__ 
 
 >     An accountable care organization that meets the performance guidelines established by the Secretary under subsection (c)(1) and achieves savings greater than the annual minimal savings level established by the State under subsection (c)(2) shall receive an incentive payment for such year equal to a portion (as determined appropriate by the Secretary) of the amount of such excess savings. The Secretary may establish an annual cap on incentive payments for an accountable care organization.
 
->     “(e) __Authorization of Appropriations.—__ 
+>     “(e)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated such sums as are necessary to carry out this section.”
 
@@ -4261,7 +4261,7 @@
 
 [Pub. L. 111–148, title II, § 2707][/us/pl/111/148/s2707], Mar. 23, 2010, [124 Stat. 326][/us/stat/124/326], provided that:
 
->     “(a) __Authority To Conduct Demonstration Project.—__ 
+>     “(a)  __Authority To Conduct Demonstration Project__  __.—__ 
 
 >     The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall establish a demonstration project under which an eligible State (as described in subsection (c)) shall provide payment under the State Medicaid plan under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] to an institution for mental diseases that is not publicly owned or operated and that is subject to the requirements of section 1867 of the Social Security Act ([42 U.S.C. 1395dd][/us/usc/t42/s1395dd]) for the provision of medical assistance available under such plan to individuals who—
 
@@ -4271,25 +4271,25 @@
 
 >         “(3) require such medical assistance to stabilize an emergency medical condition.
 
->     “(b) __Stabilization Review.—__ 
+>     “(b)  __Stabilization Review__  __.—__ 
 
 >     A State shall specify in its application described in subsection (c)(1) establish \[sic\] a mechanism for how it will ensure that institutions participating in the demonstration will determine whether or not such individuals have been stabilized (as defined in subsection (h)(5)). This mechanism shall commence before the third day of the inpatient stay. States participating in the demonstration project may manage the provision of services for the stabilization of medical emergency conditions through utilization review, authorization, or management practices, or the application of medical necessity and appropriateness criteria applicable to behavioral health.
 
 >     “(c) __Eligible State Defined.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         An eligible State is a State that has made an application and has been selected pursuant to paragraphs (2) and (3).
 
->         “(2) __Application.—__ 
+>         “(2)  __Application__  __.—__ 
 
 >         A State seeking to participate in the demonstration project under this section shall submit to the Secretary, at such time and in such format as the Secretary requires, an application that includes such information, provisions, and assurances, as the Secretary may require.
 
->         “(3) __Selection.—__ 
+>         “(3)  __Selection__  __.—__ 
 
 >         A State shall be determined eligible for the demonstration by the Secretary on a competitive basis among States with applications meeting the requirements of paragraph (1). In selecting State applications for the demonstration project, the Secretary shall seek to achieve an appropriate national balance in the geographic distribution of such projects.
 
->     “(d) __Length of Demonstration Project.—__ 
+>     “(d)  __Length of Demonstration Project__  __.—__ 
 
 >     The demonstration project established under this section shall be conducted for a period of 3 consecutive years.
 
@@ -4297,19 +4297,19 @@
 
 >         “(1) __Appropriation.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Out of any funds in the Treasury not otherwise appropriated, there is appropriated to carry out this section, $75,000,000 for fiscal year 2011.
 
->             “(B) __Budget authority.—__ 
+>             “(B)  __Budget authority__  __.—__ 
 
 >             Subparagraph (A) constitutes budget authority in advance of appropriations Act \[sic\] and represents the obligation of the Federal Government to provide for the payment of the amounts appropriated under that subparagraph.
 
->         “(2) __5-year availability.—__ 
+>         “(2) __5-__  __year availability__  __.—__ 
 
 >         Funds appropriated under paragraph (1) shall remain available for obligation through December 31, 2015.
 
->         “(3) __Limitation on payments.—__ 
+>         “(3)  __Limitation on payments__  __.—__ 
 
 >         In no case may—
 
@@ -4317,17 +4317,17 @@
 
 >             “(B) payments be provided by the Secretary under this section after December 31, 2015.
 
->         “(4) __Funds allocated to states.—__ 
+>         “(4)  __Funds allocated to states__  __.—__ 
 
 >         Funds shall be allocated to eligible States on the basis of criteria, including a State’s application and the availability of funds, as determined by the Secretary.
 
->         “(5) __Payments to states.—__ 
+>         “(5)  __Payments to states__  __.—__ 
 
 >         The Secretary shall pay to each eligible State, from its allocation under paragraph (4), an amount each quarter equal to the Federal medical assistance percentage of expenditures in the quarter for medical assistance described in subsection (a). As a condition of receiving payment, a State shall collect and report information, as determined necessary by the Secretary, for the purposes of providing Federal oversight and conducting an evaluation under subsection (f)(1).
 
 >     “(f) __Evaluation and Report to Congress.—__ 
 
->         “(1) __Evaluation.—__ 
+>         “(1)  __Evaluation__  __.—__ 
 
 >         The Secretary shall conduct an evaluation of the demonstration project in order to determine the impact on the functioning of the health and mental health service system and on individuals enrolled in the Medicaid program and shall include the following:
 
@@ -4341,45 +4341,45 @@
 
 >             “(E) A recommendation regarding whether the demonstration project should be continued after December 31, 2013, and expanded on a national basis.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than December 31, 2013, the Secretary shall submit to Congress and make available to the public a report on the findings of the evaluation under paragraph (1).
 
 >     “(g) __Waiver Authority.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall waive the limitation of subdivision (B) following paragraph (28) of section 1905(a) of the Social Security Act ([42 U.S.C. 1396d(a)][/us/usc/t42/s1396d/a]) (relating to limitations on payments for care or services for individuals under 65 years of age who are patients in an institution for mental diseases) for purposes of carrying out the demonstration project under this section.
 
->         “(2) __Limited other waiver authority.—__ 
+>         “(2)  __Limited other waiver authority__  __.—__ 
 
 >         The Secretary may waive other requirements of titles XI and XIX of the Social Security Act \[[42 U.S.C. 1301][/us/usc/t42/s1301] et seq., 1396 et seq.\] (including the requirements of sections 1902(a)(1) \[[42 U.S.C. 1396a(a)(1)][/us/usc/t42/s1396a/a/1]\] (relating to statewideness) and 1902(1)(10)(B) \[probably means 1902(a)(1)(10)(B), [42 U.S.C. 1396a(a)(1)(10)(B)][/us/usc/t42/s1396a/a/1/10/B]\] (relating to comparability)) only to \[the\] extent necessary to carry out the demonstration project under this section.
 
->     “(h) __Definitions.—__ 
+>     “(h)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Emergency medical condition.—__ 
+>         “(1)  __Emergency medical condition__  __.—__ 
 
 >         The term ‘emergency medical condition’ means, with respect to an individual, an individual who expresses suicidal or homicidal thoughts or gestures, if determined dangerous to self or others.
 
->         “(2) __Federal medical assistance percentage.—__ 
+>         “(2)  __Federal medical assistance percentage__  __.—__ 
 
 >         The term ‘Federal medical assistance percentage’ has the meaning given that term with respect to a State under section 1905(b) of the Social Security Act ([42 U.S.C. 1396d(b)][/us/usc/t42/s1396d/b]).
 
->         “(3) __Institution for mental diseases.—__ 
+>         “(3)  __Institution for mental diseases__  __.—__ 
 
 >         The term ‘institution for mental diseases’ has the meaning given to that term in section 1905(i) of the Social Security Act ([42 U.S.C. 1396d(i)][/us/usc/t42/s1396d/i]).
 
->         “(4) __Medical assistance.—__ 
+>         “(4)  __Medical assistance__  __.—__ 
 
 >         The term ‘medical assistance’ has the meaning given that term in section 1905(a) of the Social Security Act ([42 U.S.C. 1396d(a)][/us/usc/t42/s1396d/a]).
 
->         “(5) __Stabilized.—__ 
+>         “(5)  __Stabilized__  __.—__ 
 
 >         The term ‘stabilized’ means, with respect to an individual, that the emergency medical condition no longer exists with respect to the individual and the individual is no longer dangerous to self or others.
 
->         “(6) __State.—__ 
+>         “(6)  __State__  __.—__ 
 
 >         The term ‘State’ has the meaning given that term for purposes of title XIX of the Social Security Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.).”
 
@@ -4391,7 +4391,7 @@
 
 >         “(1) __Establishment.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary \[of Health and Human Services\] shall award grants to States to carry out initiatives to provide incentives to Medicaid beneficiaries who—
 
@@ -4399,23 +4399,23 @@
 
 >                 “(ii) upon completion of such participation, demonstrate changes in health risk and outcomes, including the adoption and maintenance of healthy behaviors by meeting specific targets (as described in subsection (c)(2)).
 
->             “(B) __Purpose.—__ 
+>             “(B)  __Purpose__  __.—__ 
 
 >             The purpose of the initiatives under this section is to test approaches that may encourage behavior modification and determine scalable solutions.
 
 >         “(2) __Duration.—__ 
 
->             “(A) __Initiation of program; resources.—__ 
+>             “(A)  __Initiation of program; resources__  __.—__ 
 
 >             The Secretary shall awards grants to States beginning on January 1, 2011, or beginning on the date on which the Secretary develops program criteria, whichever is earlier. The Secretary shall develop program criteria for initiatives under this section using relevant evidence-based research and resources, including the Guide to Community Preventive Services, the Guide to Clinical Preventive Services, and the National Registry of Evidence-Based Programs and Practices.
 
->             “(B) __Duration of program.—__ 
+>             “(B)  __Duration of program__  __.—__ 
 
 >             A State awarded a grant to carry out initiatives under this section shall carry out such initiatives within the 5-year period beginning on January 1, 2011, or beginning on the date on which the Secretary develops program criteria, whichever is earlier. Initiatives under this section shall be carried out by a State for a period of not less than 3 years.
 
 >         “(3) __Program described.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             A program described in this paragraph is a comprehensive, evidence-based, widely available, and easily accessible program, proposed by the State and approved by the Secretary, that is designed and uniquely suited to address the needs of Medicaid beneficiaries and has demonstrated success in helping individuals achieve one or more of the following:
 
@@ -4429,33 +4429,33 @@
 
 >                 “(v) Avoiding the onset of diabetes or, in the case of a diabetic, improving the management of that condition.
 
->             “(B) __Co-morbidities.—__ 
+>             “(B)  __Co-morbidities__  __.—__ 
 
 >             A program under this section may also address co-morbidities (including depression) that are related to any of the conditions described in subparagraph (A).
 
->             “(C) __Waiver authority.—__ 
+>             “(C)  __Waiver authority__  __.—__ 
 
 >             The Secretary may waive the requirements of section 1902(a)(1) (relating to statewideness) of the Social Security Act \[[42 U.S.C. 1396a(a)(1)][/us/usc/t42/s1396a/a/1]\] for a State awarded a grant to conduct an initiative under this section and shall ensure that a State makes any program described in subparagraph (A) available and accessible to Medicaid beneficiaries.
 
->             “(D) __Flexibility in implementation.—__ 
+>             “(D)  __Flexibility in implementation__  __.—__ 
 
 >             A State may enter into arrangements with providers participating in Medicaid, community-based organizations, faith-based organizations, public-private partnerships, Indian tribes, or similar entities or organizations to carry out programs described in subparagraph (A).
 
->         “(4) __Application.—__ 
+>         “(4)  __Application__  __.—__ 
 
 >         Following the development of program criteria by the Secretary, a State may submit an application, in such manner and containing such information as the Secretary may require, that shall include a proposal for programs described in paragraph (3)(A) and a plan to make Medicaid beneficiaries and providers participating in Medicaid who reside in the State aware and informed about such programs.
 
 >     “(b) __Education and Outreach Campaign.—__ 
 
->         “(1) __State awareness.—__ 
+>         “(1)  __State awareness__  __.—__ 
 
 >         The Secretary shall conduct an outreach and education campaign to make States aware of the grants under this section.
 
->         “(2) __Provider and beneficiary education.—__ 
+>         “(2)  __Provider and beneficiary education__  __.—__ 
 
 >         A State awarded a grant to conduct an initiative under this section shall conduct an outreach and education campaign to make Medicaid beneficiaries and providers participating in Medicaid who reside in the State aware of the programs described in subsection (a)(3) that are to be carried out by the State under the grant.
 
->     “(c) __Impact.—__ 
+>     “(c)  __Impact__  __.—__ 
 
 >     A State awarded a grant to conduct an initiative under this section shall develop and implement a system to—
 
@@ -4471,7 +4471,7 @@
 
 >     “(d) __Evaluations and Reports.—__ 
 
->         “(1) __Independent assessment.—__ 
+>         “(1)  __Independent assessment__  __.—__ 
 
 >         The Secretary shall enter into a contract with an independent entity or organization to conduct an evaluation and assessment of the initiatives carried out by States under this section, for the purpose of determining—
 
@@ -4483,7 +4483,7 @@
 
 >             “(D) the administrative costs incurred by State agencies that are responsible for administration of the program.
 
->         “(2) __State reporting.—__ 
+>         “(2)  __State reporting__  __.—__ 
 
 >         A State awarded a grant to carry out initiatives under this section shall submit reports to the Secretary, on a semi-annual basis, regarding the programs that are supported by the grant funds. Such report shall include information, as specified by the Secretary, regarding—
 
@@ -4495,31 +4495,31 @@
 
 >             “(D) estimates of cost savings resulting from such programs.
 
->         “(3) __Initial report.—__ 
+>         “(3)  __Initial report__  __.—__ 
 
 >         Not later than January 1, 2014, the Secretary shall submit to Congress an initial report on such initiatives based on information provided by States through reports required under paragraph (2). The initial report shall include an interim evaluation of the effectiveness of the initiatives carried out with grants awarded under this section and a recommendation regarding whether funding for expanding or extending the initiatives should be extended beyond January 1, 2016.
 
->         “(4) __Final report.—__ 
+>         “(4)  __Final report__  __.—__ 
 
 >         Not later than July 1, 2016, the Secretary shall submit to Congress a final report on the program that includes the results of the independent assessment required under paragraph (1), together with recommendations for such legislation and administrative action as the Secretary determines appropriate.
 
->     “(e) __No Effect on Eligibility for, or Amount of, Medicaid or Other Benefits.—__ 
+>     “(e)  __No Effect on Eligibility for, or Amount of, Medicaid or Other Benefits__  __.—__ 
 
 >     Any incentives provided to a Medicaid beneficiary participating in a program described in subsection (a)(3) shall not be taken into account for purposes of determining the beneficiary’s eligibility for, or amount of, benefits under the Medicaid program or any program funded in whole or in part with Federal funds.
 
->     “(f) __Funding.—__ 
+>     “(f)  __Funding__  __.—__ 
 
 >     Out of any funds in the Treasury not otherwise appropriated, there are appropriated for the 5-year period beginning on January 1, 2011, $100,000,000 to the Secretary to carry out this section. Amounts appropriated under this subsection shall remain available until expended.
 
->     “(g) __Definitions.—__ 
+>     “(g)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Medicaid beneficiary.—__ 
+>         “(1)  __Medicaid beneficiary__  __.—__ 
 
 >         The term ‘Medicaid beneficiary’ means an individual who is eligible for medical assistance under a State plan or waiver under title XIX of the Social Security Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.) and is enrolled in such plan or waiver.
 
->         “(2) __State.—__ 
+>         “(2)  __State__  __.—__ 
 
 >         The term ‘State’ has the meaning given that term for purposes of title XIX of the Social Security Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.).”
 
@@ -4527,11 +4527,11 @@
 
 [Pub. L. 111–148, title VI, § 6411(a)(2)][/us/pl/111/148/s6411/a/2], Mar. 23, 2010, [124 Stat. 775][/us/stat/124/775], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The Secretary of Health and Human Services, acting through the Administrator of the Centers for Medicare & Medicaid Services, shall coordinate the expansion of the Recovery Audit Contractor program to Medicaid with States, particularly with respect to each State that enters into a contract with a recovery audit contractor for purposes of the State’s Medicaid program prior to December 31, 2010.
 
->     “(B) __Regulations.—__ 
+>     “(B)  __Regulations__  __.—__ 
 
 >     The Secretary of Health and Human Services shall promulgate regulations to carry out this subsection \[amending this section\] and the amendments made by this subsection, including with respect to conditions of Federal financial participation, as specified by the Secretary.”
 
@@ -4565,51 +4565,51 @@
 
 [Pub. L. 109–171, title VI, § 6063][/us/pl/109/171/s6063], Feb. 8, 2006, [120 Stat. 99][/us/stat/120/99], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary is authorized to conduct, during each of fiscal years 2007 through 2011, demonstration projects (each in the section referred to as a ‘demonstration project’) in accordance with this section under which up to 10 States (as defined for purposes of title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\]) are awarded grants, on a competitive basis, to test the effectiveness in improving or maintaining a child’s functional level and cost-effectiveness of providing coverage of home and community-based alternatives to psychiatric residential treatment for children enrolled in the Medicaid program under title XIX of such Act.
 
 >     “(b) __Application of Terms and Conditions.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to the provisions of this section, for the purposes of the demonstration projects, and only with respect to children enrolled under such demonstration projects, a psychiatric residential treatment facility (as defined in section 483.352 of title 42 of the Code of Federal Regulations) shall be deemed to be a facility specified in section 1915(c) of the Social Security Act ([42 U.S.C. 1396n(c)][/us/usc/t42/s1396n/c]), and to be included in each reference in such section 1915(c) to hospitals, nursing facilities, and intermediate care facilities for the mentally retarded.
 
->         “(2) __State option to assure continuity of medicaid coverage.—__ 
+>         “(2)  __State option to assure continuity of medicaid coverage__  __.—__ 
 
 >         Upon the termination of a demonstration project under this section, the State that conducted the project may elect, only with respect to a child who is enrolled in such project on the termination date, to continue to provide medical assistance for coverage of home and community-based alternatives to psychiatric residential treatment for the child in accordance with section 1915(c) of the Social Security Act ([42 U.S.C. 1396n(c)][/us/usc/t42/s1396n/c]), as modified through the application of paragraph (1). Expenditures incurred for providing such medical assistance shall be treated as a home and community-based waiver program under section 1915(c) of the Social Security Act ([42 U.S.C. 1396n(c)][/us/usc/t42/s1396n/c]) for purposes of payment under section 1903 of such Act ([42 U.S.C. 1396b][/us/usc/t42/s1396b]).
 
 >     “(c) __Terms of Demonstration Projects.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as otherwise provided in this section, a demonstration project shall be subject to the same terms and conditions as apply to a waiver under section 1915(c) of the Social Security Act ([42 U.S.C. 1396n(c)][/us/usc/t42/s1396n/c]), including the waiver of certain requirements under the first sentence of paragraph (3) of such section but not applying the second sentence of such paragraph.
 
->         “(2) __Budget neutrality.—__ 
+>         “(2)  __Budget neutrality__  __.—__ 
 
 >         In conducting the demonstration projects under this section, the Secretary shall ensure that the aggregate payments made by the Secretary under title XIX of the Social Security Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.) do not exceed the amount which the Secretary estimates would have been paid under that title if the demonstration projects under this section had not been implemented.
 
->         “(3) __Evaluation.—__ 
+>         “(3)  __Evaluation__  __.—__ 
 
 >         The application for a demonstration project shall include an assurance to provide for such interim and final evaluations of the demonstration project by independent third parties, and for such interim and final reports to the Secretary, as the Secretary may require.
 
 >     “(d) __Payments to States; Limitations to Scope and Funding.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), a demonstration project approved by the Secretary under this section shall be treated as a home and community-based waiver program under section 1915(c) of the Social Security Act ([42 U.S.C. 1396n(c)][/us/usc/t42/s1396n/c]) for purposes of payment under section 1903 of such Act ([42 U.S.C. 1396b][/us/usc/t42/s1396b]).
 
->         “(2) __Limitation.—__ 
+>         “(2)  __Limitation__  __.—__ 
 
 >         In no case may the amount of payments made by the Secretary under this section for State demonstration projects for a fiscal year exceed the amount available under subsection (f)(2)(A) for such fiscal year.
 
->     “(e) __Secretary’s Evaluation and Report.—__ 
+>     “(e)  __Secretary’s Evaluation and Report__  __.—__ 
 
 >     The Secretary shall conduct an interim and final evaluation of State demonstration projects under this section and shall report to the President and Congress the conclusions of such evaluations within 12 months of completing such evaluations.
 
 >     “(f) __Funding.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         For the purpose of carrying out this section, there are appropriated, from amounts in the Treasury not otherwise appropriated, for fiscal years 2007 through 2011, a total of $218,000,000, of which—
 
@@ -4619,11 +4619,11 @@
 
 >         “(2) __Fiscal year limit.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             For purposes of paragraph (1), the amount specified in this paragraph for a fiscal year is the amount specified in subparagraph (B) for the fiscal year plus the difference, if any, between the total amount available under this paragraph for prior fiscal years and the total amount previously expended under paragraph (1)(A) for such prior fiscal years.
 
->             “(B) __Fiscal year amounts.—__ 
+>             “(B)  __Fiscal year amounts__  __.—__ 
 
 >             The amount specified in this subparagraph for—
 
@@ -4641,35 +4641,35 @@
 
 [Pub. L. 109–171, title VI, § 6071][/us/pl/109/171/s6071], Feb. 8, 2006, [120 Stat. 102][/us/stat/120/102], as amended by [Pub. L. 111–148, title II, § 2403(a)][/us/pl/111/148/s2403/a], (b)(1), Mar. 23, 2010, [124 Stat. 304][/us/stat/124/304], 305, provided that:
 
->     “(a) __Program Purpose and Authority.—__ 
+>     “(a)  __Program Purpose and Authority__  __.—__ 
 
 >     The Secretary is authorized to award, on a competitive basis, grants to States in accordance with this section for demonstration projects (each in this section referred to as an ‘MFP demonstration project’) designed to achieve the following objectives with respect to institutional and home and community-based long-term care services under State Medicaid programs:
 
->         “(1) __Rebalancing.—__ 
+>         “(1)  __Rebalancing__  __.—__ 
 
 >         Increase the use of home and community-based, rather than institutional, long-term care services.
 
->         “(2) __Money follows the person.—__ 
+>         “(2)  __Money follows the person__  __.—__ 
 
 >         Eliminate barriers or mechanisms, whether in the State law, the State Medicaid plan, the State budget, or otherwise, that prevent or restrict the flexible use of Medicaid funds to enable Medicaid-eligible individuals to receive support for appropriate and necessary long-term services in the settings of their choice.
 
->         “(3) __Continuity of service.—__ 
+>         “(3)  __Continuity of service__  __.—__ 
 
 >         Increase the ability of the State Medicaid program to assure continued provision of home and community-based long-term care services to eligible individuals who choose to transition from an institutional to a community setting.
 
->         “(4) __Quality assurance and quality improvement.—__ 
+>         “(4)  __Quality assurance and quality improvement__  __.—__ 
 
 >         Ensure that procedures are in place (at least comparable to those required under the qualified HCB program) to provide quality assurance for eligible individuals receiving Medicaid home and community-based long-term care services and to provide for continuous quality improvement in such services.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
->         “(1) __Home and community-based long-term care services.—__ 
+>         “(1)  __Home and community-based long-term care services__  __.—__ 
 
 >         The term ‘home and community-based long-term care services’ means, with respect to a State Medicaid program, home and community-based services (including home health and personal care services) that are provided under the State’s qualified HCB program or that could be provided under such a program but are otherwise provided under the Medicaid program.
 
->         “(2) __Eligible individual.—__ 
+>         “(2)  __Eligible individual__  __.—__ 
 
 >         The term ‘eligible individual’ means, with respect to an MFP demonstration project of a State, an individual in the State—
 
@@ -4687,19 +4687,19 @@
 
 >             Any days that an individual resides in an institution on the basis of having been admitted solely for purposes of receiving short-term rehabilitative services for a period for which payment for such services is limited under title XVIII \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] shall not be taken into account for purposes of determining the 90-day period required under subparagraph (A)(i).
 
->         “(3) __Inpatient facility.—__ 
+>         “(3)  __Inpatient facility__  __.—__ 
 
 >         The term ‘inpatient facility’ means a hospital, nursing facility, or intermediate care facility for the mentally retarded. Such term includes an institution for mental diseases, but only, with respect to a State, to the extent medical assistance is available under the State Medicaid plan for services provided by such institution.
 
->         “(4) __Medicaid.—__ 
+>         “(4)  __Medicaid__  __.—__ 
 
 >         The term ‘Medicaid’ means, with respect to a State, the State program under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] (including any waiver or demonstration under such title or under section 1115 of such Act \[[42 U.S.C. 1315][/us/usc/t42/s1315]\] relating to such title).
 
->         “(5) __Qualified hcb program.—__ 
+>         “(5)  __Qualified hcb program__  __.—__ 
 
 >         The term ‘qualified HCB program’ means a program providing home and community-based long-term care services operating under Medicaid, whether or not operating under waiver authority.
 
->         “(6) __Qualified residence.—__ 
+>         “(6)  __Qualified residence__  __.—__ 
 
 >         The term ‘qualified residence’ means, with respect to an eligible individual—
 
@@ -4709,19 +4709,19 @@
 
 >             “(C) a residence, in a community-based residential setting, in which no more than 4 unrelated individuals reside.
 
->         “(7) __Qualified expenditures.—__ 
+>         “(7)  __Qualified expenditures__  __.—__ 
 
 >         The term ‘qualified expenditures’ means expenditures by the State under its MFP demonstration project for home and community-based long-term care services for an eligible individual participating in the MFP demonstration project, but only with respect to services furnished during the 12-month period beginning on the date the individual is discharged from an inpatient facility referred to in paragraph (2)(A)(i).
 
->         “(8) __Self-directed services.—__ 
+>         “(8)  __Self-directed services__  __.—__ 
 
 >         The term ‘self-directed’ means, with respect to home and community-based long-term care services for an eligible individual, such services for the individual which are planned and purchased under the direction and control of such individual or the individual’s authorized representative (as defined by the Secretary), including the amount, duration, scope, provider, and location of such services, under the State Medicaid program consistent with the following requirements:
 
->             “(A) __Assessment.—__ 
+>             “(A)  __Assessment__  __.—__ 
 
 >             There is an assessment of the needs, capabilities, and preferences of the individual with respect to such services.
 
->             “(B) __Service plan.—__ 
+>             “(B)  __Service plan__  __.—__ 
 
 >             Based on such assessment, there is developed jointly with such individual or the individual’s authorized representative a plan for such services for such individual that is approved by the State and that—
 
@@ -4745,7 +4745,7 @@
 
 >                 “(vi) may include an individualized budget which identifies the dollar value of the services and supports under the control and direction of the individual or the individual’s authorized representative.
 
->             “(C) __Budget process.—__ 
+>             “(C)  __Budget process__  __.—__ 
 
 >             With respect to individualized budgets described in subparagraph (B)(vi), the State application under subsection (c)—
 
@@ -4755,31 +4755,31 @@
 
 >                 “(iii) provides a procedure to evaluate expenditures under such budgets.
 
->         “(9) __State.—__ 
+>         “(9)  __State__  __.—__ 
 
 >         The term ‘State’ has the meaning given such term for purposes of title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\].
 
->     “(c) __State Application.—__ 
+>     “(c)  __State Application__  __.—__ 
 
 >     A State seeking approval of an MFP demonstration project shall submit to the Secretary, at such time and in such format as the Secretary requires, an application meeting the following requirements and containing such additional information, provisions, and assurances, as the Secretary may require:
 
->         “(1) __Assurance of a public development process.—__ 
+>         “(1)  __Assurance of a public development process__  __.—__ 
 
 >         The application contains an assurance that the State has engaged, and will continue to engage, in a public process for the design, development, and evaluation of the MFP demonstration project that allows for input from eligible individuals, the families of such individuals, authorized representatives of such individuals, providers, and other interested parties.
 
->         “(2) __Operation in connection with qualified hcb program to assure continuity of services.—__ 
+>         “(2)  __Operation in connection with qualified hcb program to assure continuity of services__  __.—__ 
 
 >         The State will conduct the MFP demonstration project for eligible individuals in conjunction with the operation of a qualified HCB program that is in operation (or approved) in the State for such individuals in a manner that assures continuity of Medicaid coverage for such individuals so long as such individuals continue to be eligible for medical assistance.
 
->         “(3) __Demonstration project period.—__ 
+>         “(3)  __Demonstration project period__  __.—__ 
 
 >         The application shall specify the period of the MFP demonstration project, which shall include at least 2 consecutive fiscal years in the 5-fiscal-year period beginning with fiscal year 2007.
 
->         “(4) __Service area.—__ 
+>         “(4)  __Service area__  __.—__ 
 
 >         The application shall specify the service area or areas of the MFP demonstration project, which may be a statewide area or 1 or more geographic areas of the State.
 
->         “(5) __Targeted groups and numbers of individuals served.—__ 
+>         “(5)  __Targeted groups and numbers of individuals served__  __.—__ 
 
 >         The application shall specify—
 
@@ -4789,7 +4789,7 @@
 
 >             “(C) the estimated total annual qualified expenditures for each fiscal year of the MFP demonstration project.
 
->         “(6) __Individual choice, continuity of care.—__ 
+>         “(6)  __Individual choice, continuity of care__  __.—__ 
 
 >         The application shall contain assurances that—
 
@@ -4799,7 +4799,7 @@
 
 >             “(C) the State will continue to make available, so long as the State operates its qualified HCB program consistent with applicable requirements, home and community-based long-term care services to each individual who completes participation in the MFP demonstration project for as long as the individual remains eligible for medical assistance for such services under such qualified HCB program (including meeting a requirement relating to requiring a level of care provided in an inpatient facility and continuing to require such services, and, if the State applies a more stringent level of care standard as a result of implementing the State plan option permitted under section 1915(i) of the Social Security Act \[[42 U.S.C. 1396n(i)][/us/usc/t42/s1396n/i]\], meeting the requirement for at least the level of care which had resulted in the individual’s admission to the institution).
 
->         “(7) __Rebalancing.—__ 
+>         “(7)  __Rebalancing__  __.—__ 
 
 >         The application shall—
 
@@ -4811,11 +4811,11 @@
 
 >                 “(ii) describe the extent to which the MFP demonstration project will contribute to accomplishment of objectives described in subsection (a).
 
->         “(8) __Money follows the person.—__ 
+>         “(8)  __Money follows the person__  __.—__ 
 
 >         The application shall describe the methods to be used by the State to eliminate any legal, budgetary, or other barriers to flexibility in the availability of Medicaid funds to pay for long-term care services for eligible individuals participating in the project in the appropriate settings of their choice, including costs to transition from an institutional setting to a qualified residence.
 
->         “(9) __Maintenance of effort and cost-effectiveness.—__ 
+>         “(9)  __Maintenance of effort and cost-effectiveness__  __.—__ 
 
 >         The application shall contain or be accompanied by such information and assurances as may be required to satisfy the Secretary that—
 
@@ -4829,11 +4829,11 @@
 
 >             “(B) in the case of a qualified HCB program operating under a waiver under subsection (c) or (d) of section 1915 of the Social Security Act ([42 U.S.C. 1396n][/us/usc/t42/s1396n]), but for the amount awarded under a grant under this section, the State program would continue to meet the cost-effectiveness requirements of subsection (c)(2)(D) of such section or comparable requirements under subsection (d)(5) of such section, respectively.
 
->         “(10) __Waiver requests.—__ 
+>         “(10)  __Waiver requests__  __.—__ 
 
 >         The application shall contain or be accompanied by requests for any modification or adjustment of waivers of Medicaid requirements described in subsection (d)(3), including adjustments to the maximum numbers of individuals included and package of benefits, including one-time transitional services, provided.
 
->         “(11) __Quality assurance and quality improvement.—__ 
+>         “(11)  __Quality assurance and quality improvement__  __.—__ 
 
 >         The application shall include—
 
@@ -4841,29 +4841,29 @@
 
 >             “(B) an assurance that the State will cooperate in carrying out activities under subsection (f) to develop and implement continuous quality assurance and quality improvement systems for home and community-based long-term care services.
 
->         “(12) __Optional program for self-directed services.—__ 
+>         “(12)  __Optional program for self-directed services__  __.—__ 
 
 >         If the State elects to provide for any home and community-based long-term care services as self-directed services (as defined in subsection (b)(8)) under the MFP demonstration project, the application shall provide the following:
 
->             “(A) __Meeting requirements.—__ 
+>             “(A)  __Meeting requirements__  __.—__ 
 
 >             A description of how the project will meet the applicable requirements of such subsection for the provision of self-directed services.
 
->             “(B) __Voluntary election.—__ 
+>             “(B)  __Voluntary election__  __.—__ 
 
 >             A description of how eligible individuals will be provided with the opportunity to make an informed election to receive self-directed services under the project and after the end of the project.
 
->             “(C) __State support in service plan development.—__ 
+>             “(C)  __State support in service plan development__  __.—__ 
 
 >             Satisfactory assurances that the State will provide support to eligible individuals who self-direct in developing and implementing their service plans.
 
->             “(D) __Oversight of receipt of services.—__ 
+>             “(D)  __Oversight of receipt of services__  __.—__ 
 
 >             Satisfactory assurances that the State will provide oversight of eligible individual’s receipt of such self-directed services, including steps to assure the quality of services provided and that the provision of such services are consistent with the service plan under such subsection.
 
 >             Nothing in this section shall be construed as requiring a State to make an election under the project to provide for home and community-based long-term care services as self-directed services, or as requiring an individual to elect to receive self-directed services under the project.
 
->         “(13) __Reports and evaluation.—__ 
+>         “(13)  __Reports and evaluation__  __.—__ 
 
 >         The application shall provide that—
 
@@ -4873,11 +4873,11 @@
 
 >     “(d) __Secretary’s Award of Competitive Grants.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall award grants under this section on a competitive basis to States selected from among those with applications meeting the requirements of subsection (c), in accordance with the provisions of this subsection.
 
->         “(2) __Selection and modification of state applications.—__ 
+>         “(2)  __Selection and modification of state applications__  __.—__ 
 
 >         In selecting State applications for the awarding of such a grant, the Secretary—
 
@@ -4895,31 +4895,31 @@
 
 >             “(D) shall take such objectives into consideration in setting the annual amounts of State grant awards under this section.
 
->         “(3) __Waiver authority.—__ 
+>         “(3)  __Waiver authority__  __.—__ 
 
 >         The Secretary is authorized to waive the following provisions of title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], to the extent necessary to enable a State initiative to meet the requirements and accomplish the purposes of this section:
 
->             “(A) __Statewideness.—__ 
+>             “(A)  __Statewideness__  __.—__ 
 
 >             Section 1902(a)(1) \[[42 U.S.C. 1396a(a)(1)][/us/usc/t42/s1396a/a/1]\], in order to permit implementation of a State initiative in a selected area or areas of the State.
 
->             “(B) __Comparability.—__ 
+>             “(B)  __Comparability__  __.—__ 
 
 >             Section 1902(a)(10)(B), in order to permit a State initiative to assist a selected category or categories of individuals described in subsection (b)(2)(A).
 
->             “(C) __Income and resources eligibility.—__ 
+>             “(C)  __Income and resources eligibility__  __.—__ 
 
 >             Section 1902(a)(10)(C)(i)(III), in order to permit a State to apply institutional eligibility rules to individuals transitioning to community-based care.
 
->             “(D) __Provider agreements.—__ 
+>             “(D)  __Provider agreements__  __.—__ 
 
 >             Section 1902(a)(27), in order to permit a State to implement self-directed services in a cost-effective manner.
 
->         “(4) __Conditional approval of outyear grant.—__ 
+>         “(4)  __Conditional approval of outyear grant__  __.—__ 
 
 >         In awarding grants under this section, the Secretary shall condition the grant for the second and any subsequent fiscal years of the grant period on the following:
 
->             “(A) __Numerical benchmarks.—__ 
+>             “(A)  __Numerical benchmarks__  __.—__ 
 
 >             The State must demonstrate to the satisfaction of the Secretary that it is meeting numerical benchmarks specified in the grant agreement for—
 
@@ -4927,13 +4927,13 @@
 
 >                 “(ii) numbers of eligible individuals assisted to transition to qualified residences.
 
->             “(B) __Quality of care.—__ 
+>             “(B)  __Quality of care__  __.—__ 
 
 >             The State must demonstrate to the satisfaction of the Secretary that it is meeting the requirements under subsection (c)(11) to assure the health and welfare of MFP demonstration project participants.
 
 >     “(e) __Payments to States; Carryover of Unused Grant Amounts.—__ 
 
->         “(1) __Payments.—__ 
+>         “(1)  __Payments__  __.—__ 
 
 >         For each calendar quarter in a fiscal year during the period a State is awarded a grant under subsection (d), the Secretary shall pay to the State from its grant award for such fiscal year an amount equal to the lesser of—
 
@@ -4941,25 +4941,25 @@
 
 >             “(B) the total amount remaining in such grant award for such fiscal year (taking into account the application of paragraph (2)).
 
->         “(2) __Carryover of unused amounts.—__ 
+>         “(2)  __Carryover of unused amounts__  __.—__ 
 
 >         Any portion of a State grant award for a fiscal year under this section remaining at the end of such fiscal year shall remain available to the State for the next 4 fiscal years, subject to paragraph (3).
 
->         “(3) __Reawarding of certain unused amounts.—__ 
+>         “(3)  __Reawarding of certain unused amounts__  __.—__ 
 
 >         In the case of a State that the Secretary determines pursuant to subsection (d)(4) has failed to meet the conditions for continuation of a MFP demonstration project under this section in a succeeding year or years, the Secretary shall rescind the grant awards for such succeeding year or years, together with any unspent portion of an award for prior years, and shall add such amounts to the appropriation for the immediately succeeding fiscal year for grants under this section.
 
->         “(4) __Preventing duplication of payment.—__ 
+>         “(4)  __Preventing duplication of payment__  __.—__ 
 
 >         The payment under a MFP demonstration project with respect to qualified expenditures shall be in lieu of any payment with respect to such expenditures that could otherwise be paid under Medicaid, including under section 1903(a) of the Social Security Act \[[42 U.S.C. 1396b(a)][/us/usc/t42/s1396b/a]\]. Nothing in the previous sentence shall be construed as preventing the payment under Medicaid for such expenditures in a grant year after amounts available to pay for such expenditures under the MFP demonstration project have been exhausted.
 
->         “(5) __MFP-enhanced fmap.—__ 
+>         “(5) __MFP-__  __enhanced fmap__  __.—__ 
 
 >         For purposes of paragraph (1)(A), the ‘MFP-enhanced FMAP’, for a State for a fiscal year, is equal to the Federal medical assistance percentage (as defined in the first sentence of section 1905(b) \[[42 U.S.C. 1396d(b)][/us/usc/t42/s1396d/b]\]) for the State increased by a number of percentage points equal to 50 percent of the number of percentage points by which (A) such Federal medical assistance percentage for the State, is less than (B) 100 percent; but in no case shall the MFP-enhanced FMAP for a State exceed 90 percent.
 
 >     “(f) __Quality Assurance and Improvement; Technical Assistance; Oversight.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary, either directly or by grant or contract, shall provide for technical assistance to, and oversight of, States for purposes of upgrading quality assurance and quality improvement systems under Medicaid home and community-based waivers, including—
 
@@ -4971,27 +4971,27 @@
 
 >             “(D) guidance on remedying programmatic and systemic problems.
 
->         “(2) __Funding.—__ 
+>         “(2)  __Funding__  __.—__ 
 
 >         From the amounts appropriated under subsection (h)(1) for the portion of fiscal year 2007 that begins on January 1, 2007, and ends on September 30, 2007, and for fiscal year 2008, not more than $2,400,000 shall be available to the Secretary to carry out this subsection during the period that begins on January 1, 2007, and ends on September 30, 2011.
 
 >     “(g) __Research and Evaluation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary, directly or through grant or contract, shall provide for research on, and a national evaluation of, the program under this section, including assistance to the Secretary in preparing the final report required under paragraph (2). The evaluation shall include an analysis of projected and actual savings related to the transition of individuals to qualified residences in each State conducting an MFP demonstration project.
 
->         “(2) __Final report.—__ 
+>         “(2)  __Final report__  __.—__ 
 
 >         The Secretary shall make a final report to the President and Congress, not later than September 30, 2016, reflecting the evaluation described in paragraph (1) and providing findings and conclusions on the conduct and effectiveness of MFP demonstration projects.
 
->         “(3) __Funding.—__ 
+>         “(3)  __Funding__  __.—__ 
 
 >         From the amounts appropriated under subsection (h)(1) for each of fiscal years 2008 through 2016, not more than $1,100,000 per year shall be available to the Secretary to carry out this subsection.
 
 >     “(h) __Appropriations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There are appropriated, from any funds in the Treasury not otherwise appropriated, for grants to carry out this section—
 
@@ -5005,7 +5005,7 @@
 
 >             “(E) $450,000,000 for each of fiscal years 2011 through 2016.
 
->         “(2) __Availability.—__ 
+>         “(2)  __Availability__  __.—__ 
 
 >         Amounts made available under paragraph (1) for a fiscal year shall remain available for the awarding of grants to States by not later than September 30, 2016.”
 
@@ -5019,51 +5019,51 @@
 
 [Pub. L. 107–251, title IV, § 404][/us/pl/107/251/s404], Oct. 26, 2002, [116 Stat. 1662][/us/stat/116/1662], as amended by [Pub. L. 108–163, § 2(n)(1)][/us/pl/108/163/s2/n/1], Dec. 6, 2003, [117 Stat. 2023][/us/stat/117/2023], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary shall conduct a study of the problems experienced by farmworkers (including their families) under Medicaid and SCHIP. Specifically, the Secretary shall examine the following:
 
->         “(1) __Barriers to enrollment.—__ 
+>         “(1)  __Barriers to enrollment__  __.—__ 
 
 >         Barriers to their enrollment, including a lack of outreach and outstationed eligibility workers, complicated applications and eligibility determination procedures, and linguistic and cultural barriers.
 
->         “(2) __Lack of portability.—__ 
+>         “(2)  __Lack of portability__  __.—__ 
 
 >         The lack of portability of Medicaid and SCHIP coverage for farmworkers who are determined eligible in one State but who move to other States on a seasonal or other periodic basis.
 
->         “(3) __Possible solutions.—__ 
+>         “(3)  __Possible solutions__  __.—__ 
 
 >         The development of possible solutions to increase enrollment and access to benefits for farmworkers, because, in part, of the problems identified in paragraphs (1) and (2), and the associated costs of each of the possible solutions described in subsection (b).
 
->     “(b) __Possible Solutions.—__ 
+>     “(b)  __Possible Solutions__  __.—__ 
 
 >     Possible solutions to be examined shall include each of the following:
 
->         “(1) __Interstate compacts.—__ 
+>         “(1)  __Interstate compacts__  __.—__ 
 
 >         The use of interstate compacts among States that establish portability and reciprocity for eligibility for farmworkers under the Medicaid and SCHIP and potential financial incentives for States to enter into such compacts.
 
->         “(2) __Demonstration projects.—__ 
+>         “(2)  __Demonstration projects__  __.—__ 
 
 >         The use of multi-state demonstration waiver projects under section 1115 of the Social Security Act ([42 U.S.C. 1315][/us/usc/t42/s1315]) to develop comprehensive migrant coverage demonstration projects.
 
->         “(3) __Use of current law flexibility.—__ 
+>         “(3)  __Use of current law flexibility__  __.—__ 
 
 >         Use of current law Medicaid and SCHIP State plan provisions relating to coverage of residents and out-of-State coverage.
 
->         “(4) __National migrant family coverage.—__ 
+>         “(4)  __National migrant family coverage__  __.—__ 
 
 >         The development of programs of national migrant family coverage in which States could participate.
 
->         “(5) __Public-private partnerships.—__ 
+>         “(5)  __Public-private partnerships__  __.—__ 
 
 >         The provision of incentives for development of public-private partnerships to develop private coverage alternatives for farmworkers.
 
->         “(6) __Other possible solutions.—__ 
+>         “(6)  __Other possible solutions__  __.—__ 
 
 >         Such other solutions as the Secretary deems appropriate.
 
->     “(c) __Consultations.—__ 
+>     “(c)  __Consultations__  __.—__ 
 
 >     In conducting the study, the Secretary shall consult with the following:
 
@@ -5083,15 +5083,15 @@
 
 >         “(8) Designees of labor organizations representing farmworkers.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
->         “(1) __Farmworker.—__ 
+>         “(1)  __Farmworker__  __.—__ 
 
 >         The term ‘farmworker’ means a migratory agricultural worker or seasonal agricultural worker, as such terms are defined in section 330(g)(3) of the Public Health Service Act ([42 U.S.C. 254c(g)(3)][/us/usc/t42/s254c/g/3] \[254b(g)(3)\]), and includes a family member of such a worker.
 
->         “(2) __Medicaid.—__ 
+>         “(2)  __Medicaid__  __.—__ 
 
 >         The term ‘Medicaid’ means the program under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\].
 
@@ -5099,7 +5099,7 @@
 
 >         The term ‘SCHIP’ means the State children’s health insurance program under title XXI of the Social Security Act \[[42 U.S.C. 1397aa][/us/usc/t42/s1397aa] et seq.\].
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act \[Oct. 26, 2002\], the Secretary shall transmit a report to the President and the Congress on the study conducted under this section. The report shall contain a detailed statement of findings and conclusions of the study, together with its recommendations for such legislation and administrative actions as the Secretary considers appropriate.”
 
@@ -5107,11 +5107,11 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title I, § 125\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–479, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Health and Human Services shall conduct a study to determine if access to certain services (including mental health services) for qualified medicare beneficiaries has been affected by limitations on a State’s payment for medicare cost-sharing for such beneficiaries under section 1902(n) of the Social Security Act ([42 U.S.C. 1396a(n)][/us/usc/t42/s1396a/n]). As part of such study, the Secretary shall analyze the effect of such payment limitation on providers who serve a disproportionate share of such beneficiaries.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary shall submit to Congress a report on the study under subsection (a). The report shall include recommendations regarding any changes that should be made to the State payment limits under section 1902(n) for qualified medicare beneficiaries to ensure appropriate access to services.”
 
@@ -5151,7 +5151,7 @@
 
 [Pub. L. 106–170, title II, § 204][/us/pl/106/170/s204], Dec. 17, 1999, [113 Stat. 1897][/us/stat/113/1897], provided that:
 
->     “(a) __State Application.—__ 
+>     “(a)  __State Application__  __.—__ 
 
 >     A State may apply to the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) for approval of a demonstration project (in this section referred to as a ‘demonstration project’) under which up to a specified maximum number of individuals who are workers with a potentially severe disability (as defined in subsection (b)(1)) are provided medical assistance equal to—
 
@@ -5159,11 +5159,11 @@
 
 >         “(2) in the case of a State that has not elected to provide medical assistance under that section to such individuals, such medical assistance as the Secretary determines is an appropriate equivalent to the medical assistance described in paragraph (1).
 
->     “(b) __Worker With a Potentially Severe Disability Defined.—__ 
+>     “(b)  __Worker With a Potentially Severe Disability Defined__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The term ‘worker with a potentially severe disability’ means, with respect to a demonstration project, an individual who—
 
@@ -5173,7 +5173,7 @@
 
 >             “(C) is employed (as defined in paragraph (2)).
 
->         “(2) __Definition of employed.—__ 
+>         “(2)  __Definition of employed__  __.—__ 
 
 >         An individual is considered to be ‘employed’ if the individual—
 
@@ -5183,19 +5183,19 @@
 
 >     “(c) __Approval of Demonstration Projects.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (3), the Secretary shall approve applications under subsection (a) that meet the requirements of paragraph (2) and such additional terms and conditions as the Secretary may require. The Secretary may waive the requirement of section 1902(a)(1) of the Social Security Act ([42 U.S.C. 1396a(a)(1)][/us/usc/t42/s1396a/a/1]) to allow for sub-State demonstrations.
 
->         “(2) __Terms and conditions of demonstration projects.—__ 
+>         “(2)  __Terms and conditions of demonstration projects__  __.—__ 
 
 >         The Secretary may not approve a demonstration project under this section unless the State provides assurances satisfactory to the Secretary that the following conditions are or will be met:
 
->             “(A) __Maintenance of state effort.—__ 
+>             “(A)  __Maintenance of state effort__  __.—__ 
 
 >             Federal funds paid to a State pursuant to this section must be used to supplement, but not supplant, the level of State funds expended for workers with potentially severe disabilities under programs in effect for such individuals at the time the demonstration project is approved under this section.
 
->             “(B) __Independent evaluation.—__ 
+>             “(B)  __Independent evaluation__  __.—__ 
 
 >             The State provides for an independent evaluation of the project.
 
@@ -5203,7 +5203,7 @@
 
 >             “(A) __Appropriation.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Out of any funds in the Treasury not otherwise appropriated, there is appropriated to carry out this section—
 
@@ -5211,11 +5211,11 @@
 
 >                          “(II) $41,000,000 for each of fiscal years 2005 and 2006.
 
->                 “(ii) __Budget authority.—__ 
+>                 “(ii)  __Budget authority__  __.—__ 
 
 >                 Clause (i) constitutes budget authority in advance of appropriations Acts and represents the obligation of the Federal Government to provide for the payment of the amounts appropriated under clause (i).
 
->             “(B) __Limitation on payments.—__ 
+>             “(B)  __Limitation on payments__  __.—__ 
 
 >             In no case may—
 
@@ -5225,19 +5225,19 @@
 
 >                 “(iii) payments be provided by the Secretary for a fiscal year after fiscal year 2009.
 
->             “(C) __Funds allocated to states.—__ 
+>             “(C)  __Funds allocated to states__  __.—__ 
 
 >             The Secretary shall allocate funds to States based on their applications and the availability of funds. Funds allocated to a State under a grant made under this section for a fiscal year shall remain available until expended.
 
->             “(D) __Funds not allocated to States.—__ 
+>             “(D)  __Funds not allocated to States__  __.—__ 
 
 >             Funds not allocated to States in the fiscal year for which they are appropriated shall remain available in succeeding fiscal years for allocation by the Secretary using the allocation formula established under this section.
 
->             “(E) __Payments to States.—__ 
+>             “(E)  __Payments to States__  __.—__ 
 
 >             The Secretary shall pay to each State with a demonstration project approved under this section, from its allocation under subparagraph (C), an amount for each quarter equal to the Federal medical assistance percentage (as defined in section 1905(b) of the Social Security Act ([42 U.S.C. 1395d(b)][/us/usc/t42/s1395d/b] \[[42 U.S.C. 1396d(b)][/us/usc/t42/s1396d/b]\]) of expenditures in the quarter for medical assistance provided to workers with a potentially severe disability.
 
->     “(d) __Annual Report.—__ 
+>     “(d)  __Annual Report__  __.—__ 
 
 >     A State with a demonstration project approved under this section shall submit an annual report to the Secretary on the use of funds provided under the grant. Each report shall include enrollment and financial statistics on—
 
@@ -5245,11 +5245,11 @@
 
 >         “(2) each population of such workers with a specific physical or mental impairment described in subsection (b)(1)(B) served by such project.
 
->     “(e) __Recommendation.—__ 
+>     “(e)  __Recommendation__  __.—__ 
 
 >     Not later than October 1, 2004, the Secretary shall submit a recommendation to the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives and the Committee on Finance of the Senate regarding whether the demonstration project established under this section should be continued after fiscal year 2006.
 
->     “(f) __State Defined.—__ 
+>     “(f)  __State Defined__  __.—__ 
 
 >     In this section, the term ‘State’ has the meaning given such term for purposes of title XIX of the Social Security Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.).”
 
@@ -5263,11 +5263,11 @@
 
 [Pub. L. 105–33, title IV, § 4711(b)][/us/pl/105/33/s4711/b], Aug. 5, 1997, [111 Stat. 508][/us/stat/111/508], provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Secretary of Health and Human Services shall study the effect on access to, and the quality of, services provided to beneficiaries of the rate-setting methods used by States pursuant to section 1902(a)(13)(A) of the Social Security Act ([42 U.S.C. 1396a(a)(13)(A)][/us/usc/t42/s1396a/a/13/A]), as amended by subsection (a).
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 4 years after the date of the enactment of this Act \[Aug. 5, 1997\], the Secretary of Health and Human Services shall submit a report to the appropriate committees of Congress on the conclusions of the study conducted under paragraph (1), together with any recommendations for legislation as a result of such conclusions.”
 
@@ -5293,13 +5293,13 @@
 
 >     “(a) __Demonstration Projects.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >             (A) The Secretary of Health and Human Services (hereafter in this section referred to as the ‘Secretary’) shall enter into agreements with 3 and no more than 4 States submitting applications under this section for the purpose of conducting demonstration projects to study the effect on access to, and costs of, health care of eliminating the categorical eligibility requirement for medicaid benefits for certain low-income individuals.
 
 >             “(B) In entering into agreements with States under this section the Secretary shall provide that at least 1 and no more than 2 of the projects are conducted on a substate basis.
 
->         “(2) __Requirements.—__ 
+>         “(2)  __Requirements__  __.—__ 
 
 >             (A)
 
@@ -5319,81 +5319,81 @@
 
 >             “(B) The Secretary may waive the requirements of clause (ii) of this paragraph \[probably means subparagraph (A)\] with respect to those projects described in subparagraph (B) of paragraph (1).
 
->         “(3) __Permissible restrictions.—__ 
+>         “(3)  __Permissible restrictions__  __.—__ 
 
 >         A project may limit eligibility to individuals whose assets are valued below a level specified by the State. For this purpose, any evaluation of such assets shall be made in a manner consistent with the standards for valuation of assets under the State plan under title XIX of the Social Security Act for individuals entitled to assistance under part A of title IV of such Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\]. Nothing in this section shall be construed as requiring a State to provide for eligibility for individuals for months before the month in which such eligibility is first established.
 
->         “(4) __Extension of eligibility.—__ 
+>         “(4)  __Extension of eligibility__  __.—__ 
 
 >         A project may provide for extension of eligibility for medical assistance for individuals covered under the project in a manner similar to that provided under section 1925 of the Social Security Act to certain families receiving aid pursuant to a plan of the State approved under part A of title IV of such Act.
 
 >         “(5) __Waiver of requirements.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Subject to subparagraph (B), the Secretary may waive such requirements of title XIX of the Social Security Act (except section 1903(m) of the Social Security Act \[[42 U.S.C. 1396b(m)][/us/usc/t42/s1396b/m]\]) as may be required to provide for additional coverage of individuals under projects under this section.
 
->             “(B) __Nonwaivable provisions.—__ 
+>             “(B)  __Nonwaivable provisions__  __.—__ 
 
 >             Except with respect to those projects described in subparagraph (B) of paragraph (1), the Secretary may not waive, under subparagraph (A), the statewideness requirement of section 1902(a)(1) of the Social Security Act \[[42 U.S.C. 1396a(a)(1)][/us/usc/t42/s1396a/a/1]\] or the Federal medical assistance percentage specified in section 1905(b) of such Act \[[42 U.S.C. 1396d(b)][/us/usc/t42/s1396d/b]\].
 
 >     “(b) __Benefits.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in this subsection, the amount, duration, and scope of medical assistance made available under a project shall be the same as the amount, duration, and scope of such assistance made available to individuals entitled to medical assistance under the State plan under section 1902(a)(10)(A)(i) of the Social Security Act \[[42 U.S.C. 1396a(a)(10)(A)(i)][/us/usc/t42/s1396a/a/10/A/i]\].
 
 >         “(2) __Limits on benefits.—__ 
 
->             “(A) __Required.—__ 
+>             “(A)  __Required__  __.—__ 
 
 >             Except with respect to those projects described in subparagraph (B) of paragraph (1), no medical assistance shall be made available under a project for nursing facility services or community-based long-term care services (as defined by the Secretary) or for pregnancy-related services. No medical assistance shall be made available under a project to individuals confined to a State correctional facility, county jail, local or county detention center, or other State institution.
 
->             “(B) __Permissible.—__ 
+>             “(B)  __Permissible__  __.—__ 
 
 >             A State, with the approval of the Secretary, may limit or otherwise deny eligibility for medical assistance under the project and may limit coverage of items and services under the project, other than early and periodic screening, diagnostic, and treatment services for children under 18 years of age.
 
->         “(3) __Use of utilization controls.—__ 
+>         “(3)  __Use of utilization controls__  __.—__ 
 
 >         Nothing in this subsection shall be construed as limiting a State’s authority to impose controls over utilization of services, including preadmission requirements, managed care provisions, use of preferred providers, and use of second opinions before surgical procedures.
 
 >     “(c) __Premiums and Cost-Sharing.—__ 
 
->         “(1) __None for those with income below the poverty line.—__ 
+>         “(1)  __None for those with income below the poverty line__  __.—__ 
 
 >         Under a project, there shall be no premiums, coinsurance, or other cost-sharing for individuals whose family income level does not exceed 100 percent of the income official poverty line (as defined in subsection (g)(1)) applicable to a family of the size involved.
 
->         “(2) __Limit for those with income above the poverty line.—__ 
+>         “(2)  __Limit for those with income above the poverty line__  __.—__ 
 
 >         Under a project, for individuals whose family income level exceeds 100 percent, but is less than 150 percent, of the income official poverty line applicable to a family of the size involved, the monthly average amount of premiums, coinsurance, and other cost-sharing for covered items and services shall not exceed 3 percent of the family’s average gross monthly earnings.
 
->         “(3) __Income determination.—__ 
+>         “(3)  __Income determination__  __.—__ 
 
 >         Each project shall provide for determinations of income in a manner consistent with the methodology used for determinations of income under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for individuals entitled to benefits under part A of title IV of such Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\].
 
->     “(d) __Duration.—__ 
+>     “(d)  __Duration__  __.—__ 
 
 >     Each project under this section shall commence not later than July 1, 1991 and shall be conducted for a 3-year period; except that the Secretary may terminate such a project if the Secretary determines that the project is not in substantial compliance with the requirements of this section.
 
 >     “(e) __Limits on Expenditures and Funding.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >             (A) The Secretary in conducting projects shall limit the total amount of the Federal share of benefits paid and expenses incurred under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] to no more than $40,000,000.
 
 >             “(B) Of the amounts appropriated under subparagraph (A), the Secretary shall provide that no more than one-third of such amounts shall be used to carry out the projects described in paragraph (1)(B) of subsection (a) (for which the statewideness requirement has been waived).
 
->         “(2) __No funding of current beneficiaries.—__ 
+>         “(2)  __No funding of current beneficiaries__  __.—__ 
 
 >         No funding shall be available under a project with respect to medical assistance provided to individuals who are otherwise eligible for medical assistance under the plan without regard to the project.
 
->         “(3) __No increase in federal medical assistance percentage.—__ 
+>         “(3)  __No increase in federal medical assistance percentage__  __.—__ 
 
 >         Payments to a State under a project with respect to expenditures made for medical assistance made available under the project may not exceed the Federal medical assistance percentage (as defined in section 1905(b) of the Social Security Act \[[42 U.S.C. 1396d(b)][/us/usc/t42/s1396d/b]\]) of such expenditures.
 
 >     “(f) __Evaluation and Report.—__ 
 
->         “(1) __Evaluations.—__ 
+>         “(1)  __Evaluations__  __.—__ 
 
 >         For each project the Secretary shall provide for an evaluation to determine the effect of the project with respect to—
 
@@ -5403,11 +5403,11 @@
 
 >             “(C) premiums and cost-sharing.
 
->         “(2) __Reports.—__ 
+>         “(2)  __Reports__  __.—__ 
 
 >         The Secretary shall prepare and submit to Congress an interim report on the status of the projects not later than January 1, 1993, and a final report containing such summary together with such further recommendations as the Secretary may determine appropriate not later than one year after the termination of the projects.
 
->     “(g) __Definitions.—__ 
+>     “(g)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -5421,11 +5421,11 @@
 
 [Pub. L. 101–508, title IV, § 4747][/us/pl/101/508/s4747], Nov. 5, 1990, [104 Stat. 1388–202][/us/stat/104/1388-202], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 3 months after the date of the enactment of this Act \[Nov. 5, 1990\], the Secretary of Health and Human Services (hereafter in this section referred to as the ‘Secretary’) shall provide for 2 demonstration projects to be administered by States that submit an application under this section, through programs administered by the States under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\]. Such demonstration projects shall provide coverage for the services described in subsection (c) to individuals whose income and resources do not exceed the maximum allowable amount for eligibility for any individual in any category of disability under the State plan under section 1902 of the Social Security Act \[[42 U.S.C. 1396a][/us/usc/t42/s1396a]\], and who have tested positive for the presence of HIV virus (without regard to the presence of any symptoms of AIDS or opportunistic diseases related to AIDS).
 
->     “(b) __Services Available Under a Demonstration Project.—__ 
+>     “(b)  __Services Available Under a Demonstration Project__  __.—__ 
 
 >         (1) The medical assistance made available to individuals described in section 1902(a)(10)(A) of the Social Security Act \[[42 U.S.C. 1396a(a)(10)(A)][/us/usc/t42/s1396a/a/10/A]\] shall be made available to individuals described in subsection (a) who receive services under a demonstration project under such paragraph.
 
@@ -5453,7 +5453,7 @@
 
 >             “(J) diagnostic and laboratory services\[.\]
 
->     “(c) __Agreements With States.—__ 
+>     “(c)  __Agreements With States__  __.—__ 
 
 >         (1) Each State conducting a demonstration project under subsection (a) shall enter into an agreement with a hospital and at least one other nonprofit organization submitting applications to the State. The State shall require that such hospital and other entity have a demonstrated record of case management of patients who have tested positive for the presence of HIV virus and have access to a control group of such type of patients who are not receiving State or Federal payments for medical services (or other payments from private insurance coverage) before developing symptoms of AIDS. Under such agreement, the State shall agree to pay each such entity for the services provided under subsection (b) and not later than 12 months after the commencement of a demonstration project, institute a system of monthly payment to each such entity based on the average per capita cost of the services described in subsection (c) provided to individuals described in paragraphs (1) and (2) of subsection (a).
 
@@ -5467,15 +5467,15 @@
 
 >             “(B) The Secretary shall report to Congress on the results of the evaluation conducted under subparagraph (A) no later than 6 months after the date of termination of the demonstration projects described in this section.
 
->     “(d) __Federal Share of Costs.—__ 
+>     “(d)  __Federal Share of Costs__  __.—__ 
 
 >     The Federal share of the cost of services described in paragraph (3) furnished under a demonstration project conducted under paragraph (1) shall be determined by the otherwise applicable Federal matching assistance percentage pursuant to section 1905(b) of the Social Security Act \[[42 U.S.C. 1396d(b)][/us/usc/t42/s1396d/b]\].
 
->     “(e) __Waiver of Requirements of the Social Security Act.—__ 
+>     “(e)  __Waiver of Requirements of the Social Security Act__  __.—__ 
 
 >     The Secretary may waive such requirements of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] as the Secretary determines to be necessary to carry out the purposes of this section.
 
->     “(f) __Limitation on Amount of Expenditures.—__ 
+>     “(f)  __Limitation on Amount of Expenditures__  __.—__ 
 
 >     The amount of funds that may be expended as medical assistance to carry out the purposes of this section shall be $5,000,000 for fiscal year 1991, $12,000,000 for fiscal year 1992, and $13,000,000 for fiscal year 1993.”
 
@@ -5483,19 +5483,19 @@
 
 [Pub. L. 101–508, title IV, § 4751(d)][/us/pl/101/508/s4751/d], Nov. 5, 1990, [104 Stat. 1388–205][/us/stat/104/1388-205], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary, no later than 6 months after the date of enactment of this section \[Nov. 5, 1990\], shall develop and implement a national campaign to inform the public of the option to execute advance directives and of a patient’s right to participate and direct health care decisions.
 
->     “(2) __Development and distribution of information.—__ 
+>     “(2)  __Development and distribution of information__  __.—__ 
 
 >     The Secretary shall develop or approve nationwide informational materials that would be distributed by providers under the requirements of this section \[amending this section and sections 1396b and 1396r of this title and enacting provisions set out above\], to inform the public and the medical and legal profession of each person’s right to make decisions concerning medical care, including the right to accept or refuse medical or surgical treatment, and the existence of advance directives.
 
->     “(3) __Providing assistance to states.—__ 
+>     “(3)  __Providing assistance to states__  __.—__ 
 
 >     The Secretary shall assist appropriate State agencies, associations, or other private entities in developing the State-specific documents that would be distributed by providers under the requirements of this section. The Secretary shall further assist appropriate State agencies, associations, or other private entities in ensuring that providers are provided a copy of the documents that are to be distributed under the requirements of the section.
 
->     “(4) __Duties of secretary.—__ 
+>     “(4)  __Duties of secretary__  __.—__ 
 
 >     The Secretary shall mail information to Social Security recipients, \[and\] add a page to the medicare handbook with respect to the provisions of this section.”
 
@@ -5509,7 +5509,7 @@
 
 [Pub. L. 101–508, title IV, § 4752(d)][/us/pl/101/508/s4752/d], Nov. 5, 1990, [104 Stat. 1388–207][/us/stat/104/1388-207], provided that:
 
->     “(1) __Passage of fmgems examination in order to obtain identifier.—__ 
+>     “(1)  __Passage of fmgems examination in order to obtain identifier__  __.—__ 
 
 >     The Secretary of Health and Human Service\[s\] shall provide, in the identifier system established under section 1902(x) of the Social Security Act \[[42 U.S.C. 1396a(x)][/us/usc/t42/s1396a/x]\], that no foreign medical graduate (as defined in section 1886(h)(5)(D) of such Act \[[42 U.S.C. 1395ww(h)(5)(D)][/us/usc/t42/s1395ww/h/5/D]\]) shall be issued an identifier under such system unless the individual—
 
@@ -5519,7 +5519,7 @@
 
 >         “(C) has held a license from 1 or more States continuously since 1958.
 
->     “(2) __Effective date.—__ 
+>     “(2)  __Effective date__  __.—__ 
 
 >     Paragraph (1) shall apply with respect to issuance of an identifier applicable to services furnished on or after January 1, 1992.”
 
@@ -5533,11 +5533,11 @@
 
 [Pub. L. 101–239, title VI, § 6506(b)][/us/pl/101/239/s6506/b], Dec. 19, 1989, [103 Stat. 2282][/us/stat/103/2282], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Health and Human Services shall, by not later than 1 year after the date of the enactment of this Act \[Dec. 19, 1989\], develop a model application form for use in applying for benefits under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for individuals who are not receiving cash assistance under part A of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\], and who are not institutionalized. In developing such model application form, the Secretary is not authorized to require that such form be adopted by States as part of their State medicaid plan.
 
->     “(2) __Dissemination of model form.—__ 
+>     “(2)  __Dissemination of model form__  __.—__ 
 
 >     The Secretary shall provide for publication in the Federal Register of the model application form developed under paragraph (1), and shall send a copy of such form to each State agency responsible for administering a State medicaid plan.”
 
@@ -5573,7 +5573,7 @@
 
 [Pub. L. 99–509, title IX, § 9432][/us/pl/99/509/s9432], Oct. 21, 1986, [100 Stat. 2066][/us/stat/100/2066], as amended by [Pub. L. 100–203, title IV, § 4118(p)(11)][/us/pl/100/203/s4118/p/11], as added by [Pub. L. 100–360, title IV, § 411(k)(10)(M)][/us/pl/100/360/s411/k/10/M], July 1, 1988, [102 Stat. 797][/us/stat/102/797]; [Pub. L. 101–508, title IV, § 4755(b)][/us/pl/101/508/s4755/b], Nov. 5, 1990, [104 Stat. 1388–210][/us/stat/104/1388-210], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >         (1) The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) may not publish final or interim final regulations requiring a State plan approved under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] to include a program requiring second surgical opinions or a program of inpatient hospital preadmission review.
 
@@ -5639,7 +5639,7 @@
 
 >         “(5) The Secretary shall submit an interim report on the results of the study, including an analysis of the geographic variations under paragraph (2), to the Congress not later than January 1, 1990, and shall report the final results of the study to the Congress not later than January 1, 1992.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     The Secretary shall report to Congress, by not later than January 1, 1993, for each State in a representative sample of States—
 

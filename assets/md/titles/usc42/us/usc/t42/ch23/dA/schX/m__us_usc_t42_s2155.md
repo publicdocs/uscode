@@ -71,11 +71,11 @@
 
 [Pub. L. 105–261, div. A, title XV, § 1523][/us/pl/105/261/s1523], Oct. 17, 1998, [112 Stat. 2180][/us/stat/112/2180], as amended by [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XI, § 1135\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–494, provided that:
 
->     “(a) __Notification of Congress.—__ 
+>     “(a)  __Notification of Congress__  __.—__ 
 
 >     The President shall notify the Committee on Foreign Relations of the Senate and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives upon the granting of a license by the Nuclear Regulatory Commission for the export or reexport of any nuclear-related technology or equipment, including source material, special nuclear material, or equipment or material especially designed or prepared for the processing, use, or production of special nuclear material.
 
->     “(b) __Applicability.—__ 
+>     “(b)  __Applicability__  __.—__ 
 
 >     The requirements of this section shall apply only to an export or reexport to a country that—
 
@@ -83,7 +83,7 @@
 
 >         “(2) is not a member of the North Atlantic Treaty Organization.
 
->     “(c) __Content of Notification.—__ 
+>     “(c)  __Content of Notification__  __.—__ 
 
 >     The notification required pursuant to this section shall include—
 

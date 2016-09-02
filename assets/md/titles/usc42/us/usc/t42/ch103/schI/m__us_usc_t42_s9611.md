@@ -27,11 +27,11 @@
 
         (4) Payment of costs specified under subsection (c) of this section.
 
-        (5) __Grants for technical assistance.—__ 
+        (5)  __Grants for technical assistance__  __.—__ 
 
         The cost of grants under [section 9617(e) of this title][/us/usc/t42/s9617/e] (relating to public participation grants for technical assistance).
 
-        (6) __Lead contaminated soil.—__ 
+        (6)  __Lead contaminated soil__  __.—__ 
 
         Payment of not to exceed $15,000,000 for the costs of a pilot program for removal, decontamination, or other action with respect to lead-contaminated soil in one to three different metropolitan areas.
 
@@ -69,35 +69,35 @@
 
         (6) Subject to such amounts as are provided in appropriation Acts, the costs of a program to protect the health and safety of employees involved in response to hazardous substance releases. Such program shall be developed jointly by the Environmental Protection Agency, the Occupational Safety and Health Administration, and the National Institute for Occupational Safety and Health and shall include, but not be limited to, measures for identifying and assessing hazards to which persons engaged in removal, remedy, or other response to hazardous substances may be exposed, methods to protect workers from such hazards, and necessary regulatory and enforcement measures to assure adequate protection of such employees.
 
-        (7) __Evaluation costs under petition provisions of section 9605(d).—__ 
+        (7)  __Evaluation costs under petition provisions of section 9605__  __(d).—__ 
 
         Costs incurred by the President in evaluating facilities pursuant to petitions under [section 9605(d) of this title][/us/usc/t42/s9605/d] (relating to petitions for assessment of release).
 
-        (8) __Contract costs under section 9604(a)(1).—__ 
+        (8)  __Contract costs under section 9604__  __(a)(1).—__ 
 
         The costs of contracts or arrangements entered into under [section 9604(a)(1) of this title][/us/usc/t42/s9604/a/1] to oversee and review the conduct of remedial investigations and feasibility studies undertaken by persons other than the President and the costs of appropriate Federal and State oversight of remedial activities at National Priorities List sites resulting from consent orders or settlement agreements.
 
-        (9) __Acquisition costs under section 9604(j).—__ 
+        (9)  __Acquisition costs under section 9604__  __(j).—__ 
 
         The costs incurred by the President in acquiring real estate or interests in real estate under [section 9604(j) of this title][/us/usc/t42/s9604/j] (relating to acquisition of property).
 
-        (10) __Research, development, and demonstration costs under section 9660.—__ 
+        (10)  __Research, development, and demonstration costs under section 9660__  __.—__ 
 
         The cost of carrying out [section 9660 of this title][/us/usc/t42/s9660] (relating to research, development, and demonstration), except that the amounts available for such purposes shall not exceed the amounts specified in subsection (n) of this section.
 
-        (11) __Local government reimbursement.—__ 
+        (11)  __Local government reimbursement__  __.—__ 
 
         Reimbursements to local governments under [section 9623 of this title][/us/usc/t42/s9623], except that during the 8-fiscal year period beginning October 1, 1986, not more than 0.1 percent of the total amount appropriated from the Fund may be used for such reimbursements.
 
-        (12) __Worker training and education grants.—__ 
+        (12)  __Worker training and education grants__  __.—__ 
 
         The costs of grants under [section 9660a of this title][/us/usc/t42/s9660a] for training and education of workers to the extent that such costs do not exceed $20,000,000 for each of the fiscal years 1987, 1988, 1989, 1990, 1991, 1992, 1993, and 1994.
 
-        (13) __Awards under section 9609.—__ 
+        (13)  __Awards under section 9609__  __.—__ 
 
         The costs of any awards granted under [section 9609(d) of this title][/us/usc/t42/s9609/d].
 
-        (14) __Lead poisoning study.—__ 
+        (14)  __Lead poisoning study__  __.—__ 
 
         The cost of carrying out the study under subsection (f) of section 118 of the Superfund Amendments and Reauthorization Act of 1986 (relating to lead poisoning in children).
 
@@ -293,11 +293,11 @@
 
 [Pub. L. 108–375, div. A, title III, § 311][/us/pl/108/375/s311], Oct. 28, 2004, [118 Stat. 1842][/us/stat/118/1842], provided that:
 
->     “(a) __Satisfaction of Requirements.—__ 
+>     “(a)  __Satisfaction of Requirements__  __.—__ 
 
 >     The Inspector General of the Department of Defense shall be deemed to be in compliance with the requirements of section 111(k) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9611(k)][/us/usc/t42/s9611/k]) if the Inspector General conducts periodic audits of the payments, obligations, reimbursements, and other uses of the Hazardous Substance Superfund by the Department of Defense, even if such audits do not occur on an annual basis.
 
->     “(b) __Reports to Congress on Audits.—__ 
+>     “(b)  __Reports to Congress on Audits__  __.—__ 
 
 >     The Inspector General shall submit to Congress a report on each audit conducted by the Inspector General as described in subsection (a).”
 

@@ -175,7 +175,7 @@
 
 [Pub. L. 111–148, title II, § 2703(b)(2)][/us/pl/111/148/s2703/b/2], Mar. 23, 2010, [124 Stat. 322][/us/stat/124/322], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Not later than January 1, 2014, the Secretary of Health and Human Services shall survey States that have elected the option under section 1945 of the Social Security Act \[[42 U.S.C. 1396w–4][/us/usc/t42/s1396w–4]\] (as added by subsection (a)) and report to Congress on the nature, extent, and use of such option, particularly as it pertains to—
 
@@ -193,7 +193,7 @@
 
 >         “(vii) estimates of cost savings.
 
->     “(B) __Implementation reporting.—__ 
+>     “(B)  __Implementation reporting__  __.—__ 
 
 >     A State that has elected the option under section 1945 of the Social Security Act (as added by subsection (a)) shall report to the Secretary, as necessary, on processes that have been developed and lessons learned regarding provision of coordinated care through a health home for Medicaid beneficiaries with chronic conditions under such option.”
 

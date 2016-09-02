@@ -191,11 +191,11 @@
 
 [Pub. L. 105–285, title III, § 308(a)][/us/pl/105/285/s308/a], (b), Oct. 27, 1998, [112 Stat. 2758][/us/stat/112/2758], provided that:
 
->     “(a) __Evaluation.—__ 
+>     “(a)  __Evaluation__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct an evaluation of the Residential Energy Assistance Challenge program described in section 2607B of the Low-Income Home Energy Assistance Act of 1981 ([42 U.S.C. 8626b][/us/usc/t42/s8626b]).
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[Oct. 27, 1998\], the Comptroller General of the United States shall prepare and submit to Congress a report containing—
 

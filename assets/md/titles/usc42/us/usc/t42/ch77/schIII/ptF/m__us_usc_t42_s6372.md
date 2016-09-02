@@ -63,7 +63,7 @@
 
 [Pub. L. 95–619, title III, § 310][/us/pl/95/619/s310], Nov. 9, 1978, [92 Stat. 3248][/us/stat/92/3248], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 

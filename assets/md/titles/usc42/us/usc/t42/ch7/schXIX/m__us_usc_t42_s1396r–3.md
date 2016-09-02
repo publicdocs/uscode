@@ -125,7 +125,7 @@
 
 [Pub. L. 100–203, title IV, § 4217][/us/pl/100/203/s4217], Dec. 22, 1987, [101 Stat. 1330–220][/us/stat/101/1330-220], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 30 days after the date of enactment of this Act \[Dec. 22, 1987\], the Secretary of Health and Human Services shall promulgate final regulations to implement the amendments made by section 9516 of the Consolidated Omnibus Budget Reconciliation Act of 1985 \[enacting this section\].
 

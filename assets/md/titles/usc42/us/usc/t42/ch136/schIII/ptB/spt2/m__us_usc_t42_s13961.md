@@ -33,7 +33,7 @@
 
 [Pub. L. 106–386, div. B, title IV, § 1404][/us/pl/106/386/s1404], Oct. 28, 2000, [114 Stat. 1514][/us/stat/114/1514], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Attorney General shall—
 
@@ -47,7 +47,7 @@
 
 >             “(B) recommendations for priorities in carrying out that agenda to most effectively advance knowledge about and means by which to prevent or reduce violence against women.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated such sums as may be necessary to carry out this section.”
 

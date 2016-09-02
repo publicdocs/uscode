@@ -471,11 +471,11 @@
 
 >     “(e) __Transitional Provision of Assistance.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), before the implementation of formulas pursuant to sections 9(d)(2) and 9(e)(2) of the United States Housing Act of 1937 \[[42 U.S.C. 1437g(d)(2)][/us/usc/t42/s1437g/d/2], (e)(2)\] (as amended by subsection (a) of this section), the Secretary shall provide that each public housing agency shall receive funding under sections 9 and 14 of the United States Housing Act of 1937 \[[42 U.S.C. 1437g][/us/usc/t42/s1437g], 1437l\], as those sections existed immediately before the enactment of this Act \[Oct. 21, 1998\] (except that such sections shall be subject to any amendments to such sections that may be contained in title II of this Act \[see Tables for classification\]).
 
->         “(2) __Qualifications.—__ 
+>         “(2)  __Qualifications__  __.—__ 
 
 >         Before the implementation of formulas pursuant to sections 9(d)(2) and 9(e)(2) of the United States Housing Act of 1937 \[[42 U.S.C. 1437g(d)(2)][/us/usc/t42/s1437g/d/2], (e)(2)\] (as amended by subsection (a) of this section)—
 
@@ -485,11 +485,11 @@
 
 >             “(C) if a public housing agency establishes a rental amount other than as provided under subparagraph (A) or (B) that is less than the greatest of the amounts determined under subparagraphs (A), (B), and (C) of section 3(a)(1) of the United States Housing Act of 1937 \[[42 U.S.C. 1437a(a)(1)(A)][/us/usc/t42/s1437a/a/1/A], (B), (C)\], the Secretary shall not take into account any reduction of the per unit dwelling rental income of the public housing agency resulting from the use of that rental amount in calculating the contributions for the public housing agency for the operation of the public housing under section 9 of the United States Housing Act of 1937 \[[42 U.S.C. 1437g][/us/usc/t42/s1437g]\].
 
->     “(f) __Effective Date of Operating Formula.—__ 
+>     “(f)  __Effective Date of Operating Formula__  __.—__ 
 
 >     Notwithstanding the effective date under section 503(a) \[[42 U.S.C. 1437][/us/usc/t42/s1437] note\], the Secretary may extend the effective date of the formula under section 9(e)(2) of the United States Housing Act of 1937 \[[42 U.S.C. 1437g(e)(2)][/us/usc/t42/s1437g/e/2]\] (as amended by subsection (a) of this section) for up to 6 months if such additional time is necessary to implement such formula.
 
->     “(g) __Effective Date.—__ 
+>     “(g)  __Effective Date__  __.—__ 
 
 >     Subsections (d) \[[42 U.S.C. 1437a][/us/usc/t42/s1437a] note\], (e), and (f) shall take effect upon the date of the enactment of this Act \[Oct. 21, 1998\].”
 

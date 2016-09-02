@@ -61,11 +61,11 @@
 
 > “SECTION 1. __SHORT TITLE; TABLE OF CONTENTS.__ 
 
->     “(a) __Short Title.—__ 
+>     “(a)  __Short Title__  __.—__ 
 
 >     This Act may be cited as the ‘Ricky Ray Hemophilia Relief Fund Act of 1998’.
 
->     “(b) __Table of Contents.—__ 
+>     “(b)  __Table of Contents__  __.—__ 
 
 >     \[Omitted.\]
 
@@ -73,29 +73,29 @@
 
 > “SEC. 101. __RICKY RAY HEMOPHILIA RELIEF FUND.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established in the Treasury of the United States a trust fund to be known as the ‘Ricky Ray Hemophilia Relief Fund’, which shall be administered by the Secretary of the Treasury.
 
->     “(b) __Investment of Amounts in Fund.—__ 
+>     “(b)  __Investment of Amounts in Fund__  __.—__ 
 
 >     Amounts in the Fund shall be invested in accordance with [section 9702 of title 31][/us/usc/t31/s9702], United States Code, and any interest on and proceeds from any such investment shall be credited to and become part of the Fund.
 
->     “(c) __Availability of Fund.—__ 
+>     “(c)  __Availability of Fund__  __.—__ 
 
 >     Amounts in the Fund shall be available only for disbursement by the Secretary of Health and Human Services under section 103.
 
->     “(d) __Termination.—__ 
+>     “(d)  __Termination__  __.—__ 
 
 >     The Fund shall terminate upon the expiration of the 5-year period beginning on the date of the enactment of this Act \[Nov. 12, 1998\]. If all of the amounts in the Fund have not been expended by the end of the 5-year period, investments of amounts in the Fund shall be liquidated, the receipts of such liquidation shall be deposited in the Fund, and all funds remaining in the Fund shall be deposited in the miscellaneous receipts account in the Treasury of the United States.
 
->     “(e) __Authorization of Appropriations.—__ 
+>     “(e)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to the Fund to carry out this title $750,000,000. There is appropriated to the Fund $475,000,000 for fiscal year 2001, to remain available until expended.
 
 > “SEC. 102. __COMPASSIONATE PAYMENT RELATING TO INDIVIDUALS WITH BLOOD-CLOTTING DISORDERS AND HIV.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     If the conditions described in subsection (b) are met and if there are sufficient amounts in the Fund to make each payment, the Secretary shall make a single payment of $100,000 from the Fund to any individual who has an HIV infection and who is described in one of the following paragraphs:
 
@@ -111,41 +111,41 @@
 
 >         “(3) The individual acquired the HIV infection through perinatal transmission from a parent who is an individual described in paragraph (1) or (2).
 
->     “(b) __Conditions.—__ 
+>     “(b)  __Conditions__  __.—__ 
 
 >     The conditions described in this subsection are, with respect to an individual, as follows:
 
->         “(1) __Submission of medical documentation of hiv infection.—__ 
+>         “(1)  __Submission of medical documentation of hiv infection__  __.—__ 
 
 >         The individual submits to the Secretary written medical documentation that the individual has an HIV infection.
 
->         “(2) __Petition.—__ 
+>         “(2)  __Petition__  __.—__ 
 
 >         A petition for the payment is filed with the Secretary by or on behalf of the individual.
 
->         “(3) __Determination.—__ 
+>         “(3)  __Determination__  __.—__ 
 
 >         The Secretary determines, in accordance with section 103(b), that the petition meets the requirements of this title.
 
 > “SEC. 103. __DETERMINATION AND PAYMENT.__ 
 
->     “(a) __Establishment of Filing Procedures.—__ 
+>     “(a)  __Establishment of Filing Procedures__  __.—__ 
 
 >     The Secretary of Health and Human Services shall establish procedures under which individuals may submit petitions for payment under this title. The procedures shall include a requirement that each petition filed under this Act include written medical documentation that the relevant individual described in section 102(a)(1) has (or had) a blood-clotting disorder, such as hemophilia, and was treated as described in such section.
 
->     “(b) __Determination.—__ 
+>     “(b)  __Determination__  __.—__ 
 
 >     For each petition filed under this title, the Secretary shall determine whether the petition meets the requirements of this title.
 
->     “(c) __Payment.—__ 
+>     “(c)  __Payment__  __.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         To the extent there are sufficient amounts in the Fund to cover each payment, the Secretary shall pay, from the Fund, each petition that the Secretary determines meets the requirements of this title in the order received.
 
->         “(2) __Payments in case of deceased individuals.—__ 
+>         “(2)  __Payments in case of deceased individuals__  __.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In the case of an individual referred to in section 102(a) who is deceased at the time that payment is made under this section on a petition filed by or on behalf of the individual, the payment shall be made as follows:
 
@@ -157,11 +157,11 @@
 
 >                 “(iv) If the individual is not survived by a person described in clause (i), (ii), or (iii), the payment shall revert back to the Fund.
 
->             “(B) __Filing of petition by survivor.—__ 
+>             “(B)  __Filing of petition by survivor__  __.—__ 
 
 >             If an individual eligible for payment under section 102(a) dies before filing a petition under this title, a survivor of the individual may file a petition for payment under this title on behalf of the individual if the survivor may receive payment under subparagraph (A).
 
->             “(C) __Definitions.—__ 
+>             “(C)  __Definitions__  __.—__ 
 
 >             For purposes of this paragraph:
 
@@ -171,27 +171,27 @@
 
 >                 “(iii) The term ‘parent’ includes fathers and mothers through adoption.
 
->         “(3) __Timing of payment.—__ 
+>         “(3)  __Timing of payment__  __.—__ 
 
 >         The Secretary may not make a payment on a petition under this title before the expiration of the 120-day period beginning on the date of the enactment of this Act \[Nov. 12, 1998\] or after the expiration of the 5-year period beginning on the date of the enactment of this Act.
 
->     “(d) __Action on Petitions.—__ 
+>     “(d)  __Action on Petitions__  __.—__ 
 
 >     The Secretary shall complete the determination required by subsection (b) regarding a petition not later than 120 days after the date the petition is filed under this title.
 
->     “(e) __Humanitarian Nature of Payment.—__ 
+>     “(e)  __Humanitarian Nature of Payment__  __.—__ 
 
 >     This Act does not create or admit any claim of or on behalf of the individual against the United States or against any officer, employee, or agent thereof acting within the scope of employment or agency that relate to an HIV infection arising from treatment with antihemophilic factor, at any time during the period beginning on July 1, 1982, and ending on December 31, 1987. A payment under this Act shall, however, when accepted by or on behalf of the individual, be in full satisfaction of all such claims by or on behalf of that individual.
 
->     “(f) __Administrative Costs Not Paid From Fund.—__ 
+>     “(f)  __Administrative Costs Not Paid From Fund__  __.—__ 
 
 >     No costs incurred by the Secretary in carrying out this title may be paid from the Fund or set off against, or otherwise deducted from, any payment made under subsection (c)(1).
 
->     “(g) __Termination of Duties of Secretary.—__ 
+>     “(g)  __Termination of Duties of Secretary__  __.—__ 
 
 >     The duties of the Secretary under this section shall cease when the Fund terminates.
 
->     “(h) __Treatment of Payments Under Other Laws.—__ 
+>     “(h)  __Treatment of Payments Under Other Laws__  __.—__ 
 
 >     A payment under subsection (c)(1) to an individual—
 
@@ -201,21 +201,21 @@
 
 >         “(3) shall not be treated as a third party payment or payment in relation to a legal liability with respect to such benefits and shall not be subject (whether by subrogation or otherwise) to recovery, recoupment, reimbursement, or collection with respect to such benefits (including the Federal or State governments or any entity that provides such benefits under a contract).
 
->     “(i) __Regulatory Authority.—__ 
+>     “(i)  __Regulatory Authority__  __.—__ 
 
 >     The Secretary may issue regulations necessary to carry out this title.
 
->     “(j) __Time of Issuance of Procedures.—__ 
+>     “(j)  __Time of Issuance of Procedures__  __.—__ 
 
 >     The Secretary shall, through the promulgation of appropriate regulations, guidelines, or otherwise, first establish the procedures to carry out this title not later than 120 days after the date of the enactment of this Act \[Nov. 12, 1998\].
 
 > “SEC. 104. __LIMITATION ON TRANSFER OF RIGHTS AND NUMBER OF PETITIONS.__ 
 
->     “(a) __Rights Not Assignable or Transferable.—__ 
+>     “(a)  __Rights Not Assignable or Transferable__  __.—__ 
 
 >     Any right under this title shall not be assignable or transferable.
 
->     “(b) __One Petition With Respect to Each Victim.—__ 
+>     “(b)  __One Petition With Respect to Each Victim__  __.—__ 
 
 >     With respect to each individual described in paragraph (1), (2), or (3) of section 102(a), the Secretary may not make payment with respect to more than one petition filed in respect to an individual.
 
@@ -247,9 +247,9 @@
 
 > “SEC. 201. __TREATMENT OF CERTAIN PAYMENTS IN HEMOPHILIA-CLOTTING-FACTOR SUIT UNDER THE MEDICAID AND SSI PROGRAMS.__ 
 
->     “(a) __Private Payments.—__ 
+>     “(a)  __Private Payments__  __.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law, the payments described in paragraph (2) shall not be considered income or resources in determining eligibility for, or the amount of—
 
@@ -257,7 +257,7 @@
 
 >             “(B) supplemental security income benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\].
 
->         “(2) __Private payments described.—__ 
+>         “(2)  __Private payments described__  __.—__ 
 
 >         The payments described in this subsection are—
 
@@ -277,13 +277,13 @@
 
 >                          “(II) the date that is 270 days after the date on which such release is first sent to the persons (or the legal representative of such persons) to whom the payment is to be made.
 
->     “(b) __Government Payments.—__ 
+>     “(b)  __Government Payments__  __.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law, the payments described in paragraph (2) shall not be considered income or resources in determining eligibility for, or the amount of supplemental security income benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\].
 
->         “(2) __Government payments described.—__ 
+>         “(2)  __Government payments described__  __.—__ 
 
 >         The payments described in this subsection are payments made from the Fund established pursuant to section 101 of this Act.”
 

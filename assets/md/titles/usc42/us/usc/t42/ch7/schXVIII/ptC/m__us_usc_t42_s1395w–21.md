@@ -809,11 +809,11 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VI, § 620(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–564, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to terminations and discontinuations occurring on or after the date of the enactment of this Act \[Dec. 21, 2000\].
 
->     “(2) __Application to prior plan terminations.—__ 
+>     “(2)  __Application to prior plan terminations__  __.—__ 
 
 >     Clause (ii) of section 1851(a)(3)(B) of the Social Security Act \[[42 U.S.C. 1395w–21(a)(3)(B)(ii)][/us/usc/t42/s1395w–21/a/3/B/ii]\] (as inserted by subsection (a)) shall also apply to individuals whose enrollment in a Medicare+Choice plan was terminated or discontinued after December 31, 1998, and before the date of the enactment of this Act. In applying this paragraph, such an individual shall be treated, for purposes of part C of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\], as having discontinued enrollment in such a plan as of the date of the enactment of this Act.”
 
@@ -857,15 +857,15 @@
 
 [Pub. L. 108–173, title II, § 201][/us/pl/108/173/s201], Dec. 8, 2003, [117 Stat. 2176][/us/stat/117/2176], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     There is hereby established the Medicare Advantage program. The Medicare Advantage program shall consist of the program under part C of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\] (as amended by this Act \[see Tables for classification\]).
 
->     “(b) __References.—__ 
+>     “(b)  __References__  __.—__ 
 
 >     Subject to subsection (c), any reference to the program under part C of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\] shall be deemed a reference to the Medicare Advantage program and, with respect to such part, any reference to ‘Medicare+Choice’ is deemed a reference to ‘Medicare Advantage’ and ‘MA’.
 
->     “(c) __Transition.—__ 
+>     “(c)  __Transition__  __.—__ 
 
 >     In order to provide for an orderly transition and avoid beneficiary and provider confusion, the Secretary \[of Health and Human Services\] shall provide for an appropriate transition in the use of the terms ‘Medicare+Choice’ and ‘Medicare Advantage’ (or ‘MA’) in reference to the program under part C of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\]. Such transition shall be fully completed for all materials for plan years beginning not later than January 1, 2006. Before the completion of such transition, any reference to ‘Medicare Advantage’ or ‘MA’ shall be deemed to include a reference to ‘Medicare+Choice’.”
 
@@ -889,11 +889,11 @@
 
 [Pub. L. 110–173, title I, § 108(b)][/us/pl/110/173/s108/b], Dec. 29, 2007, [121 Stat. 2496][/us/stat/121/2496], provided that:
 
->     “(1) __Authority to designate other plans as specialized ma plans.—__ 
+>     “(1)  __Authority to designate other plans as specialized ma plans__  __.—__ 
 
 >     During the period beginning on January 1, 2008, and ending on December 31, 2009, the Secretary of Health and Human Services shall not exercise the authority provided under section 231(d) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 \[[Pub. L. 108–173][/us/pl/108/173]\] ([42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] note) to designate other plans as specialized MA plans for special needs individuals under part C of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\]. The preceding sentence shall not apply to plans designated as specialized MA plans for special needs individuals under such authority prior to January 1, 2008.
 
->     “(2) __Enrollment in new plans.—__ 
+>     “(2)  __Enrollment in new plans__  __.—__ 
 
 >     During the period beginning on January 1, 2008, and ending on December 31, 2009, the Secretary of Health and Human Services shall not permit enrollment of any individual residing in an area in a specialized Medicare Advantage plan for special needs individuals under part C of title XVIII of the Social Security Act to take effect unless that specialized Medicare Advantage plan for special needs individuals was available for enrollment for individuals residing in that area on January 1, 2008.”
 
@@ -921,11 +921,11 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title V, § 553(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–393, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Beginning in 2000, the Comptroller General shall conduct an annual audit of the expenditures by the Secretary of Health and Human Services during the preceding year in providing information regarding the Medicare+Choice program under part C of title XVIII of the Social Security Act ([42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.) to eligible medicare beneficiaries.
 
->     “(3)     \[(2) __\] Reports.—__ 
+>     “(3)     \[(2) __\]__  __Reports__  __.—__ 
 
 >         Not later than March 31 of 2001, 2004, 2007, and 2010, the Comptroller General shall submit a report to Congress on the results of the audit of the expenditures of the preceding 3 years conducted pursuant to subsection (a) \[enacting provisions set out as a note under [section 1395ss of this title][/us/usc/t42/s1395ss]\], together with an evaluation of the effectiveness of the means used by the Secretary of Health and Human Services in providing information regarding the Medicare+Choice program under part C of title XVIII of the Social Security Act ([42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.) to eligible medicare beneficiaries.”
 
@@ -949,11 +949,11 @@
 
 >     “(a) __Demonstration Project.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         The Secretary shall implement a demonstration project (in this section referred to as the ‘project’) for the purpose of evaluating the use of a third-party contractor to conduct the Medicare+Choice plan enrollment and disenrollment functions, as described in part C of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\] (as added by section 4001 of this Act), in an area.
 
->         “(2) __Consultation.—__ 
+>         “(2)  __Consultation__  __.—__ 
 
 >         Before implementing the project under this section, the Secretary shall consult with affected parties on—
 
@@ -965,27 +965,27 @@
 
 >         “(3) __Performance standards.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary shall establish performance standards for the accuracy and timeliness of the Medicare+Choice plan enrollment and disenrollment functions performed by the third-party contractor.
 
->             “(B) __Noncompliance.—__ 
+>             “(B)  __Noncompliance__  __.—__ 
 
 >             In the event that the third-party contractor is not in substantial compliance with the performance standards established under subparagraph (A), such enrollment and disenrollment functions shall be performed by the Medicare+Choice plan until the Secretary appoints a new third-party contractor.
 
->     “(b) __Report to Congress.—__ 
+>     “(b)  __Report to Congress__  __.—__ 
 
 >     The Secretary shall periodically report to Congress on the progress of the project conducted pursuant to this section.
 
->     “(c) __Waiver Authority.—__ 
+>     “(c)  __Waiver Authority__  __.—__ 
 
 >     The Secretary shall waive compliance with the requirements of part C of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\] (as amended by section 4001 of this Act) to such extent and for such period as the Secretary determines is necessary to conduct the project.
 
->     “(d) __Duration.—__ 
+>     “(d)  __Duration__  __.—__ 
 
 >     A demonstration project under this section shall be conducted for a 3-year period.
 
->     “(e) __Separate From Other Demonstration Proj­ects.—__ 
+>     “(e)  __Separate From Other Demonstration Proj­ects__  __.—__ 
 
 >     A project implemented by the Secretary under this section shall not be conducted in conjunction with any other demonstration project.”
 

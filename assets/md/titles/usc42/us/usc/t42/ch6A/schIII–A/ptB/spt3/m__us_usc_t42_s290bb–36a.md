@@ -167,11 +167,11 @@
 
 [Pub. L. 106–386, div. B, title VI, § 1602][/us/pl/106/386/s1602], Oct. 28, 2000, [114 Stat. 1538][/us/stat/114/1538], provided that:
 
->     “(a) __Short Title.—__ 
+>     “(a)  __Short Title__  __.—__ 
 
 >     This section may be cited as the ‘Teen Suicide Prevention Act of 2000’.
 
->     “(b) __Findings.—__ 
+>     “(b)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -215,11 +215,11 @@
 
 >                 “(ii) 3 to 5 times as many males as females completing suicide.
 
->     “(c) __Purpose.—__ 
+>     “(c)  __Purpose__  __.—__ 
 
 >     The purpose of this section is to provide for a study of predictors of suicide among at-risk and other youth, and barriers that prevent the youth from receiving treatment, to facilitate the development of model treatment programs and public education and awareness efforts.
 
->     “(d) __Study.—__ 
+>     “(d)  __Study__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Oct. 28, 2000\], the Secretary of Health and Human Services shall carry out, directly or by grant or contract, a study that is designed to identify—
 
@@ -229,7 +229,7 @@
 
 >         “(3) the barriers that prevent youth described in paragraphs (1) and (2) from receiving treatment.
 
->     “(e) __Authorization of Appropriations.—__ 
+>     “(e)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this section such sums as may be necessary.”
 

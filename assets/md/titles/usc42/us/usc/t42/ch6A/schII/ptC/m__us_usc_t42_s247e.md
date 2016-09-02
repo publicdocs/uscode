@@ -71,7 +71,7 @@
 
 [Pub. L. 107–220][/us/pl/107/220], §§ 1(b), 2, Aug. 21, 2002, [116 Stat. 1332][/us/stat/116/1332], provided that:
 
->     “(b)  __[__  __Public Law 105–78__  __][/us/pl/105/78]__  __.—__ 
+>     “(b)  __Public Law__  __105–78.—__ 
 
 >     References in [section 211 of Public Law 105–78][/us/pl/105/78/s211] \[amending this section and enacting provisions set out as a note under this section\], and in deeds, agreements, or other documents under such section, to the Gillis W. Long Hansen’s Disease Center shall be deemed to be references to the National Hansen’s Disease Programs Center.
 
@@ -275,7 +275,6 @@
 [/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/pl/107/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F220
 [/us/stat/116/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1332
-[/us/pl/105/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78
 [/us/pl/105/78/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78%2Fs211
 [/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/pl/86/624/s47/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs47%2Ff

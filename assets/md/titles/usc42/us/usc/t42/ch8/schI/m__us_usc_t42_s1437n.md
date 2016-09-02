@@ -23,7 +23,7 @@
 
         (2) __PHA income mix__ 
 
-            (A)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. No subpar. (B) has been enacted.__  __ </sup></sup> __  __Targeting.—__ 
+            (A)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. No subpar. (B) has been enacted.__  __ </sup></sup> __   __Targeting__  __.—__ 
 
             Except as provided in paragraph (4), of the public housing dwelling units of a public housing agency made available for occupancy in any fiscal year by eligible families, not less than 40 percent shall be occupied by families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary’s findings that such variations are necessary because of unusually high or low family incomes.
 

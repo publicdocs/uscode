@@ -23,19 +23,19 @@
 
 [Pub. L. 106–65, div. C, title XXXI, § 3175][/us/pl/106/65/s3175], Oct. 5, 1999, [113 Stat. 950][/us/stat/113/950], provided that:
 
->     “(a) __Requirement.—__ 
+>     “(a)  __Requirement__  __.—__ 
 
 >         (1) The Secretary of Energy shall carry out a pilot program on use of project management oversight services (in this section referred to as ‘PMO services’) for construction projects of the Department of Energy.
 
 >         “(2) The purpose of the pilot program shall be to provide a basis for determining whether or not the use of competitively procured, external PMO services for those construction projects would permit the Department to control excessive costs and schedule delays associated with those construction projects that have large capital costs.
 
->     “(b) __Projects Covered by Program.—__ 
+>     “(b)  __Projects Covered by Program__  __.—__ 
 
 >         (1) Subject to paragraph (2), the Secretary shall carry out the pilot program at construction projects selected by the Secretary. The projects shall include one or more construction projects authorized pursuant to section 3101 \[[113 Stat. 915][/us/stat/113/915]\] and one construction project authorized pursuant to section 3102 \[[113 Stat. 917][/us/stat/113/917]\].
 
 >         “(2) Each project selected by the Secretary shall be a project having capital construction costs anticipated to be not less than $25,000,000.
 
->     “(c) __Services Under Program.—__ 
+>     “(c)  __Services Under Program__  __.—__ 
 
 >     The PMO services used under the pilot program shall include the following services:
 
@@ -51,7 +51,7 @@
 
 >         “(6) Any other management oversight services that the Secretary considers appropriate for purposes of the pilot program.
 
->     “(d) __Procurement of Services Under Program.—__ 
+>     “(d)  __Procurement of Services Under Program__  __.—__ 
 
 >     Any PMO services procured under the pilot program shall be acquired—
 
@@ -65,7 +65,7 @@
 
 >             “(B) have an expertise in the management of large construction projects.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     Not later than February 1, 2000, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot program. The report shall include the assessment of the Secretary as to the feasibility and desirability of using PMO services for construction projects of the Department.”
 

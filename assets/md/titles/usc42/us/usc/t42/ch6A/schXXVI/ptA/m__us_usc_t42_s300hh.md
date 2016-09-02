@@ -37,7 +37,7 @@
 
 [Pub. L. 107–188, title I, § 157][/us/pl/107/188/s157], June 12, 2002, [116 Stat. 633][/us/stat/116/633], provided that:
 
->     “(a) __In General \[sic\].—__ 
+>     “(a) __ In General__  __\[sic\].—__ 
 
 >     The Comptroller General shall submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate, and to the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives, a report that describes—
 

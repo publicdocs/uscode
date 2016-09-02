@@ -135,7 +135,7 @@
 
 [Pub. L. 107–107, div. A, title XVI, § 1601][/us/pl/107/107/s1601], Dec. 28, 2001, [115 Stat. 1274][/us/stat/115/1274], provided that:
 
->     “(a) __Sense of Congress.—__ 
+>     “(a)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that each person who is an administrator of a Federal, State, or local election—
 
@@ -151,7 +151,7 @@
 
 >             “(C) all eligible American voters, regardless of race, ethnicity, disability, the language they speak, or the resources of the community in which they live, should have an equal opportunity to cast a vote and to have that vote counted.
 
->     “(b) __Uniformed Services Voter Defined.—__ 
+>     “(b)  __Uniformed Services Voter Defined__  __.—__ 
 
 >     In this section, the term ‘uniformed services voter’ means—
 
@@ -167,31 +167,31 @@
 
 >     “(a) __Establishment of Demonstration Project.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), the Secretary of Defense shall carry out a demonstration project under which absent uniformed services voters are permitted to cast ballots in the regularly scheduled general election for Federal office for November 2002 through an electronic voting system. The project shall be carried out with participation of sufficient numbers of absent uniformed services voters so that the results are statistically relevant.
 
->         “(2) __Authority to delay implementation.—__ 
+>         “(2)  __Authority to delay implementation__  __.—__ 
 
 >         If the Secretary of Defense determines that the implementation of the demonstration project under paragraph (1) with respect to the regularly scheduled general election for Federal office for November 2002 may adversely affect the national security of the United States, the Secretary may delay the implementation of such demonstration project until the first regularly scheduled general election for Federal office which occurs after the Election Assistance Commission notifies the Secretary that the Commission has established electronic absentee voting guidelines and certifies that it will assist the Secretary in carrying out the project. The Secretary shall notify the Committee on Armed Services and the Committee on Rules and Administration of the Senate and the Committee on Armed Services and the Committee on House Administration of the House of Representatives of any decision to delay implementation of the demonstration project.
 
->     “(b) __Coordination With State Election Officials.—__ 
+>     “(b)  __Coordination With State Election Officials__  __.—__ 
 
 >     The Secretary shall carry out the demonstration project under this section through cooperative agreements with State election officials of States that agree to participate in the project.
 
->     “(c) __Report to Congress.—__ 
+>     “(c)  __Report to Congress__  __.—__ 
 
 >     Not later than June 1 of the year following the year in which the demonstration project is conducted under this section, the Secretary of Defense shall submit to Congress a report analyzing the demonstration project. The Secretary shall include in the report any recommendations the Secretary considers appropriate for continuing the project on an expanded basis for absent uniformed services voters during the next regularly scheduled general election for Federal office.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Absent uniformed services voter.—__ 
+>         “(1)  __Absent uniformed services voter__  __.—__ 
 
 >         The term ‘absent uniformed services voter’ has the meaning given that term in section 107(1) of the Uniformed and Overseas Citizens Absentee Voting Act ([42 U.S.C. 1973ff–6(1)][/us/usc/t42/s1973ff–6/1]).
 
->         “(2) __State.—__ 
+>         “(2)  __State__  __.—__ 
 
 >         The term ‘State’ includes the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, and American Samoa.”
 
@@ -199,7 +199,7 @@
 
 [Pub. L. 107–107, div. A, title XVI, § 1605][/us/pl/107/107/s1605], Dec. 28, 2001, [115 Stat. 1277][/us/stat/115/1277], provided that:
 
->     “(a) __Reports.—__ 
+>     “(a)  __Reports__  __.—__ 
 
 >         (1) Whenever a State receives a uniformed services voting assistance legislative recommendation from the Secretary of Defense, acting as the Presidential designee, the chief executive authority of that State shall, not later than 90 days after receipt of that recommendation, provide a report on the status of implementation of that recommendation by that State.
 
@@ -207,11 +207,11 @@
 
 >         “(3) Any report under paragraph (1) shall be transmitted to the Secretary of Defense, acting as the Presidential designee. The Secretary shall transmit a copy of the response to each Member of Congress who represents that State.
 
->     “(b) __Period of Applicability.—__ 
+>     “(b)  __Period of Applicability__  __.—__ 
 
 >     This section applies with respect to any uniformed services voting assistance legislative recommendation transmitted to a State by the Secretary of Defense, acting as the Presidential designee, during the three-year period beginning on the date of the enactment of this Act \[Dec. 28, 2001\].
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 

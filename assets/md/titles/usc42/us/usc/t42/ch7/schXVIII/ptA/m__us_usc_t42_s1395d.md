@@ -251,7 +251,7 @@
 
 [Pub. L. 100–360, title I, § 104(a)][/us/pl/100/360/s104/a], July 1, 1988, [102 Stat. 687][/us/stat/102/687], as amended by [Pub. L. 100–485, title VI, § 608(d)(3)(A)][/us/pl/100/485/s608/d/3/A], Oct. 13, 1988, [102 Stat. 2413][/us/stat/102/2413], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2) and subsection (b), the amendments made by this subtitle \[subtitle A (§§ 101–104) of title I of [Pub. L. 100–360][/us/pl/100/360], amending this section and sections 1395c, 1395e, 1395f, 1395i–2, 1395k, 1395x, 1395cc, and 1395tt of this title\] shall take effect on January 1, 1989, and shall apply—
 
@@ -263,7 +263,7 @@
 
 >         “(D) to blood or blood cells furnished on or after January 1, 1989.
 
->     “(2) __Elimination of post-hospital requirement for extended care services.—__ 
+>     “(2)  __Elimination of post-hospital requirement for extended care services__  __.—__ 
 
 >     The amendments made by this subtitle, insofar as they eliminate the requirement (under section 1812(a)(2) of the Social Security Act \[[42 U.S.C. 1395d(a)(2)][/us/usc/t42/s1395d/a/2]\]) that extended care services are only covered under title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] if they are post-hospital extended care services, shall only apply to extended care services furnished pursuant to an admission to a skilled nursing facility occurring on or after January 1, 1989.”
 
@@ -317,29 +317,29 @@
 
 >     “(a) __Establishment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall establish a Medicare Hospice Concurrent Care demonstration program at participating hospice programs under which Medicare beneficiaries are furnished, during the same period, hospice care and any other items or services covered under title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.) from funds otherwise paid under such title to such hospice programs.
 
->         “(2) __Duration.—__ 
+>         “(2)  __Duration__  __.—__ 
 
 >         The demonstration program under this section shall be conducted for a 3-year period.
 
->         “(3) __Sites.—__ 
+>         “(3)  __Sites__  __.—__ 
 
 >         The Secretary shall select not more than 15 hospice programs at which the demonstration program under this section shall be conducted. Such hospice programs shall be located in urban and rural areas.
 
 >     “(b) __Independent Evaluation and Reports.—__ 
 
->         “(1) __Independent evaluation.—__ 
+>         “(1)  __Independent evaluation__  __.—__ 
 
 >         The Secretary shall provide for the conduct of an independent evaluation of the demonstration program under this section. Such independent evaluation shall determine whether the demonstration program has improved patient care, quality of life, and cost-effectiveness for Medicare beneficiaries participating in the demonstration program.
 
->         “(2) __Reports.—__ 
+>         “(2)  __Reports__  __.—__ 
 
 >         The Secretary shall submit to Congress a report containing the results of the evaluation conducted under paragraph (1), together with such recommendations as the Secretary determines appropriate.
 
->     “(c) __Budget Neutrality.—__ 
+>     “(c)  __Budget Neutrality__  __.—__ 
 
 >     With respect to the 3-year period of the demonstration program under this section, the Secretary shall ensure that the aggregate expenditures under title XVIII \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] for such period shall not exceed the aggregate expenditures that would have been expended under such title if the demonstration program under this section had not been implemented.”
 
@@ -353,15 +353,15 @@
 
 [Pub. L. 108–173, title IV, § 409][/us/pl/108/173/s409], Dec. 8, 2003, [117 Stat. 2271][/us/stat/117/2271], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary \[of Health and Human Services\] shall conduct a demonstration project for the delivery of hospice care to medicare beneficiaries in rural areas. Under the project medicare beneficiaries who are unable to receive hospice care in the facility for lack of an appropriate caregiver are provided such care in a facility of 20 or fewer beds which offers, within its walls, the full range of services provided by hospice programs under section 1861(dd) of the Social Security Act ([42 U.S.C. 1395x(dd)][/us/usc/t42/s1395x/dd]).
 
->     “(b) __Scope of Project.—__ 
+>     “(b)  __Scope of Project__  __.—__ 
 
 >     The Secretary shall conduct the project under this section with respect to no more than 3 hospice programs over a period of not longer than 5 years each.
 
->     “(c) __Compliance With Conditions.—__ 
+>     “(c)  __Compliance With Conditions__  __.—__ 
 
 >     Under the demonstration project—
 
@@ -371,7 +371,7 @@
 
 >         The Secretary may require the program to comply with such additional quality assurance standards for its provision of services in its facility as the Secretary deems appropriate.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Upon completion of the project, the Secretary shall submit a report to Congress on the project and shall include in the report recommendations regarding extension of such project to hospice programs serving rural areas.”
 
@@ -389,11 +389,11 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title III, § 323\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–501, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Medicare Payment Advisory Commission shall conduct a study to examine the factors affecting the use of hospice benefits under the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], including a delay in the time (relative to death) of entry into a hospice program, and differences in such use between urban and rural hospice programs and based upon the presenting condition of the patient.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 18 months after the date of the enactment of this Act \[Dec. 21, 2000\], the Commission shall submit to Congress a report on the study conducted under subsection (a), together with any recommendations for legislation that the Commission deems appropriate.”
 
@@ -401,11 +401,11 @@
 
 [Pub. L. 105–33, title IV, § 4611(e)][/us/pl/105/33/s4611/e], Aug. 5, 1997, [111 Stat. 473][/us/stat/111/473], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Notwithstanding any provision of title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], the Secretary of Health and Human Services shall establish a transition for the aggregate amount of expenditures that are transferred from part A, to part B, of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq.\], as a result of the amendments made by this section \[amending this section and sections 1395u, 1395x, and 1395ff of this title\], during each of the years during the period beginning with 1998 and ending with 2002 according to this subsection. Under the transition for each such year, the Secretary shall effect such transfer, between the trust funds under such parts, as will result in only the proportion (specified in paragraph (2)) of such aggregate expenditures for the year being transferred from such part A to such part B.
 
->     “(2) __Proportion specified.—__ 
+>     “(2)  __Proportion specified__  __.—__ 
 
 >     The proportion specified in this paragraph for—
 
@@ -421,7 +421,7 @@
 
 >     “(3) __Application in establishing monthly premiums for 1998 through 2003.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         For purposes only of computing the monthly premium under section 1839 of the Social Security Act ([42 U.S.C. 1395r][/us/usc/t42/s1395r]), the monthly actuarial rate for enrollees age 65 and over shall be computed as though any reference in paragraph (1) of this subsection to 2002 were a reference to 2003 and as if the following proportions were substituted for the proportions specified in paragraph (2):
 
@@ -437,7 +437,7 @@
 
 >             “(vi) For 2003, 6⁄7.
 
->         “(B) __No impact on government contribution.—__ 
+>         “(B)  __No impact on government contribution__  __.—__ 
 
 >         Subparagraph (A) does not apply in determining the amount of the Government contribution under section 1844 of the Social Security Act ([42 U.S.C. 1395w][/us/usc/t42/s1395w]).”
 

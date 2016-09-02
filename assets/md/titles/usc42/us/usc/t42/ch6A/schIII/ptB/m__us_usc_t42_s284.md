@@ -133,7 +133,7 @@
 
 [Pub. L. 109–482, title I, § 106][/us/pl/109/482/s106], Jan. 15, 2007, [120 Stat. 3696][/us/stat/120/3696], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In administering the Clinical and Translational Science Award, the Director of NIH shall establish a mechanism to preserve independent funding and infrastructure for pediatric clinical research centers by—
 
@@ -141,11 +141,11 @@
 
 >         “(2) otherwise securing institutional independence of pediatric clinical research centers with respect to finances, infrastructure, resources, and research agenda.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     As part of the biennial report under section 403 of the Public Health Service Act \[[42 U.S.C. 283][/us/usc/t42/s283]\], the Director of NIH shall provide an evaluation and comparison of outcomes and effectiveness of training programs under subsection (a).
 
->     “(c) __Definition.—__ 
+>     “(c)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘Director of NIH’ has the meaning given such term in section 401 of the Public Health Service Act \[[42 U.S.C. 281][/us/usc/t42/s281]\].”
 

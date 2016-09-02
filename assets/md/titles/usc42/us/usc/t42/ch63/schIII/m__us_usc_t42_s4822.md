@@ -247,15 +247,15 @@
 
 [Pub. L. 100–242, title V, § 566(b)][/us/pl/100/242/s566/b], Feb. 5, 1988, [101 Stat. 1947][/us/stat/101/1947], as amended by [Pub. L. 100–418, title V, § 5115(c)][/us/pl/100/418/s5115/c], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 100–628, title X, § 1088(g)][/us/pl/100/628/s1088/g], Nov. 7, 1988, [102 Stat. 3282][/us/stat/102/3282], provided that:
 
->     “(1) __Proposed regulations.—__ 
+>     “(1)  __Proposed regulations__  __.—__ 
 
 >     Not later than the expiration of the 60-day period following the date of the enactment of this Act \[Feb. 5, 1988\], the Secretary of Housing and Urban Development shall publish proposed regulations to carry out the amendments made by this section \[amending this section\].
 
->     “(2) __Final regulations.—__ 
+>     “(2)  __Final regulations__  __.—__ 
 
 >     The Secretary shall publish final regulations to carry out the amendments made by this section, which shall become effective not later than the expiration of the 120-day period following the date of the enactment of this Act.
 
->     “(3) __Required consultations.—__ 
+>     “(3)  __Required consultations__  __.—__ 
 
 >     Before issuing proposed regulations and in preparing reports under this section, the Secretary shall consult with—
 

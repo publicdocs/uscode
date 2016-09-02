@@ -195,11 +195,11 @@
 
 [Pub. L. 101–235, title I, § 105(d)][/us/pl/101/235/s105/d], Dec. 15, 1989, [103 Stat. 1999][/us/stat/103/1999], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this paragraph and paragraph (2), the amendments made by this section \[amending this section\] shall apply with respect to any grants made under section 107 of the Housing and Community Development Act of 1974 \[this section\] on or after the date of the enactment of this Act \[Dec. 15, 1989\], except a grant made under the third sentence of section 107(a) of \[the\] Housing and Community Development Act of 1974, as such sentence existed immediately before such date, and grants for specific activities (referred to in House Report Number 101–297) pursuant to the amount appropriated for use under section 107 by the enactment of the bill, H.R. 2916, of the One Hundred First Congress \[[Pub. L. 101–144][/us/pl/101/144], Nov. 9, 1989, [103 Stat. 850][/us/stat/103/850]\].
 
->     “(2) __Prior grants.—__ 
+>     “(2)  __Prior grants__  __.—__ 
 
 >     Any grant made under section 107 of the Housing and Community Development Act of 1974 \[this section\] before the date of the enactment of this Act \[Dec. 15, 1989\] or pursuant to a grant award notification made before such date shall be governed by the provisions of such section as it existed immediately before the date of the enactment of this Act.”
 

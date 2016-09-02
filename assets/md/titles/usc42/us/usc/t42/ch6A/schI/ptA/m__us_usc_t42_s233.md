@@ -653,11 +653,11 @@
 
 [Pub. L. 102–501, § 5][/us/pl/102/501/s5], Oct. 24, 1992, [106 Stat. 3271][/us/stat/106/3271], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than April 1, 1995, the Attorney General, in consultation with the Secretary of Health and Human Services (hereafter referred to as the ‘Secretary’), shall submit a report to Congress on the medical malpractice liability claims experience of entities subject to section 224(g) of the Public Health Service Act \[[42 U.S.C. 233(g)][/us/usc/t42/s233/g]\] (as added by section 2(a)) and the risk exposure associated with such entities.
 
->     “(b) __Effect of Liability Protections on Costs Incurred by Covered Entities.—__ 
+>     “(b)  __Effect of Liability Protections on Costs Incurred by Covered Entities__  __.—__ 
 
 >     The Attorney General’s report under subsection (a) shall include an analysis by the Secretary comparing—
 

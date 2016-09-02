@@ -139,11 +139,11 @@
 
 [Pub. L. 111–148, title III, § 3012][/us/pl/111/148/s3012], Mar. 23, 2010, [124 Stat. 380][/us/stat/124/380], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The President shall convene a working group to be known as the Interagency Working Group on Health Care Quality (referred to in this section as the ‘Working Group’).
 
->     “(b) __Goals.—__ 
+>     “(b)  __Goals__  __.—__ 
 
 >     The goals of the Working Group shall be to achieve the following:
 
@@ -155,7 +155,7 @@
 
 >     “(c) __Composition.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Working Group shall be composed of senior level representatives of—
 
@@ -209,15 +209,15 @@
 
 >         “(2) __Chair and vice-chair.—__ 
 
->             “(A) __Chair.—__ 
+>             “(A)  __Chair__  __.—__ 
 
 >             The Working Group shall be chaired by the Secretary of Health and Human Services.
 
->             “(B) __Vice chair.—__ 
+>             “(B)  __Vice chair__  __.—__ 
 
 >             Members of the Working Group, other than the Secretary of Health and Human Services, shall serve as Vice Chair of the Group on a rotating basis, as determined by the Group.
 
->     “(d) __Report to Congress.—__ 
+>     “(d)  __Report to Congress__  __.—__ 
 
 >     Not later than December 31, 2010, and annually thereafter, the Working Group shall submit to the relevant Committees of Congress, and make public on an Internet website, a report describing the progress and recommendations of the Working Group in meeting the goals described in subsection (b).”
 

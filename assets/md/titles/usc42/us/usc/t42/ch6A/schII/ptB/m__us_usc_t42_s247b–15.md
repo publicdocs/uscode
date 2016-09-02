@@ -43,9 +43,9 @@
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XVII, § 1704\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–365, provided that:
 
->     “(a) __Study Regarding Prevalence Among Certain Emergency Response Employees.—__ 
+>     “(a)  __Study Regarding Prevalence Among Certain Emergency Response Employees__  __.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Health and Human Services (referred to in this section as the ‘Secretary’), in consultation with the Secretary of Labor, shall conduct a study to determine—
 
@@ -53,17 +53,17 @@
 
 >             “(B) the likely means through which such employees become infected with such disease in the course of performing their duties as such employees.
 
->         “(2) __Designated emergency response employees.—__ 
+>         “(2)  __Designated emergency response employees__  __.—__ 
 
 >         For purposes of this section, the term ‘designated emergency response employees’ means firefighters, paramedics, and emergency medical technicians who are employees or volunteers of units of local government.
 
->         “(3) __Date certain for completion; report to congress.—__ 
+>         “(3)  __Date certain for completion; report to congress__  __.—__ 
 
 >         The Secretary shall commence the study under paragraph (1) not later than 90 days after the date of the enactment of this Act \[Oct. 30, 2000\]. Not later than one year after such date, the Secretary shall complete the study and submit to the Congress a report describing the findings of the study.
 
->     “(b) __Demonstration Projects Regarding Training and Treatment.—__ 
+>     “(b)  __Demonstration Projects Regarding Training and Treatment__  __.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary, in consultation with the Secretary of Labor, shall make grants to qualifying local governments for the purpose of carrying out demonstration projects that (directly or through arrangements with nonprofit private entities) carry out each of the following activities:
 
@@ -73,19 +73,19 @@
 
 >             “(C) Treating the employees for the disease.
 
->         “(2) __Qualifying local governments.—__ 
+>         “(2)  __Qualifying local governments__  __.—__ 
 
 >         For purposes of this section, the term ‘qualifying local government’ means a unit of local government whose population of designated emergency response employees has a prevalence of hepatitis C that is not less than 200 percent of the national average for the prevalence of such disease in such populations.
 
->         “(3) __Confidentiality.—__ 
+>         “(3)  __Confidentiality__  __.—__ 
 
 >         A grant may be made under paragraph (1) only if the qualifying local government involved agrees to ensure that information regarding the testing or treatment of designated emergency response employees pursuant to the grant is maintained confidentially in a manner not inconsistent with applicable law.
 
->         “(4) __Evaluations.—__ 
+>         “(4)  __Evaluations__  __.—__ 
 
 >         The Secretary shall provide for an evaluation of each demonstration project under paragraph (1) in order to determine the extent to which the project has been effective in carry \[sic\] out the activities described in such paragraph.
 
->         “(5) __Report to congress.—__ 
+>         “(5)  __Report to congress__  __.—__ 
 
 >         Not later than 180 days after the date on which all grants under paragraph (1) have been expended, the Secretary shall submit to Congress a report providing—
 
@@ -93,7 +93,7 @@
 
 >             “(B) the recommendations of the Secretary for administrative or legislative initiatives regarding the activities described in paragraph (1).
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     For the purpose of carrying out this section, there is authorized to be appropriated to the Department of Health and Human Services and the Department of Labor $10,000,000 for fiscal year 2001.”
 

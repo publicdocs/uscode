@@ -367,11 +367,11 @@
 
 [Pub. L. 108–173, title III, § 303(c)(2)][/us/pl/108/173/s303/c/2], Dec. 8, 2003, [117 Stat. 2245][/us/stat/117/2245], provided that:
 
->     “(A) __Study.—__ 
+>     “(A)  __Study__  __.—__ 
 
 >     The Secretary \[of Health and Human Services\] shall conduct a study on sales of drugs and biologicals to large volume purchasers, such as pharmacy benefit managers and health maintenance organizations, for purposes of determining whether the price at which such drugs and biologicals are sold to such purchasers does not represent the price such drugs and biologicals are made available for purchase to prudent physicians.
 
->     “(B) __Report.—__ 
+>     “(B)  __Report__  __.—__ 
 
 >     Not later than January 1, 2006, the Secretary shall submit to Congress a report on the study conducted under paragraph (1), and shall include recommendations on whether such sales to large volume purchasers should be excluded from the computation of a manufacturer’s average sales price under section 1847A of the Social Security Act \[[42 U.S.C. 1395w–3a][/us/usc/t42/s1395w–3a]\], as added by paragraph (1).”
 
@@ -379,11 +379,11 @@
 
 [Pub. L. 108–173, title III, § 303(c)(3)][/us/pl/108/173/s303/c/3], Dec. 8, 2003, [117 Stat. 2245][/us/stat/117/2245], provided that:
 
->     “(A) __Study.—__ 
+>     “(A)  __Study__  __.—__ 
 
 >     The Inspector General of the Department of Health and Human Services shall conduct a study on the ability of physician practices in the specialties of hematology, hematology/oncology, and medical oncology of different sizes, especially particularly large practices, to obtain drugs and biologicals for the treatment of cancer patients at 106 percent of the average sales price for the drugs and biologicals. In conducting the study, the Inspector General shall conduct an audit of a representative sample of such practices to determine the adequacy of reimbursement under section 1847A of the Social Security Act \[[42 U.S.C. 1395w–3a][/us/usc/t42/s1395w–3a]\], as added by paragraph (1).
 
->     “(B) __Report.—__ 
+>     “(B)  __Report__  __.—__ 
 
 >     Not later October 1, 2005, the Inspector General shall submit to Congress a report on the study conducted under subparagraph (A), and shall include recommendations on the adequacy of reimbursement for such drugs and biologicals under such section 1847A \[[42 U.S.C. 1395w–3a][/us/usc/t42/s1395w–3a]\].”
 

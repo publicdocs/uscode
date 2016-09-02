@@ -105,11 +105,11 @@
 
 [Pub. L. 106–129, § 5][/us/pl/106/129/s5], Dec. 6, 1999, [113 Stat. 1675][/us/stat/113/1675], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’), acting through the appropriate agencies of the Public Health Service, shall conduct a study to determine whether and to what extent there is a shortage of licensed pharmacists. In carrying out the study, the Secretary shall seek the comments of appropriate public and private entities regarding any such shortage.
 
->     “(b) __Report to Congress.—__ 
+>     “(b)  __Report to Congress__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Dec. 6, 1999\], the Secretary shall complete the study under subsection (a) and submit to the Congress a report that describes the findings made through the study and that contains a summary of the comments received by the Secretary pursuant to such subsection.”
 

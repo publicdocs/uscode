@@ -213,43 +213,43 @@
 
 [Pub. L. 111–211, title II, § 247(a)][/us/pl/111/211/s247/a]–(d), July 29, 2010, [124 Stat. 2296][/us/stat/124/2296], 2297, provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
 >         “(1) __State.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The term ‘State’ means the State of Alaska.
 
->             “(B) __Inclusion.—__ 
+>             “(B)  __Inclusion__  __.—__ 
 
 >             The term ‘State’ includes any political subdivision of the State of Alaska.
 
->         “(2) __Village public safety officer.—__ 
+>         “(2)  __Village public safety officer__  __.—__ 
 
 >         The term ‘village public safety officer’ means an individual employed as a village public safety officer under the program established by the State pursuant to Alaska Statute 18.65.670.
 
->         “(3) __Tribal organization.—__ 
+>         “(3)  __Tribal organization__  __.—__ 
 
 >         The term ‘tribal organization’ has the meaning given that term in section 4 of the Indian Self-Determination and Educational \[Education\] Assistance Act ([25 U.S.C. 450b][/us/usc/t25/s450b](l)).
 
->     “(b) __COPS Grants.—__ 
+>     “(b)  __COPS Grants__  __.—__ 
 
 >     The State and any Indian tribe or tribal organization in the State that employs a village public safety officer shall be eligible to apply for a grant under section 1701 of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796dd][/us/usc/t42/s3796dd]) (provided that only an Indian tribe or tribal organization may receive a grant under the tribal resources grant program under subsection (j) of that section) on an equal basis with other eligible applicants for funding under that section.
 
->     “(c) __Staffing for Adequate Fire and Emergency Response Grants.—__ 
+>     “(c)  __Staffing for Adequate Fire and Emergency Response Grants__  __.—__ 
 
 >     The State and any Indian tribe or tribal organization in the State that employs a village public safety officer shall be eligible to apply for a grant under the Staffing for Adequate Fire and Emergency Response program under section 34 of the Federal Fire Prevention and Control Act of 1974 ([15 U.S.C. 2229a][/us/usc/t15/s2229a]) on an equal basis with other eligible applicants for funding under that program.
 
 >     “(d) __Training for Village Public Safety Officers and Tribal Law Enforcement Positions Funded Under COPS Program.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Any village public safety officer or tribal law enforcement officer in the State shall be eligible to participate in any training program offered at the Indian Police Academy of the Federal Law Enforcement Training Center.
 
->         “(2) __Funding.—__ 
+>         “(2)  __Funding__  __.—__ 
 
 >         Funding received pursuant to grants approved under section 1701 of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796dd][/us/usc/t42/s3796dd]) may be used for training of officers at programs described in paragraph (1) or at a police academy in the State certified by the Alaska Police Standards Council.”
 

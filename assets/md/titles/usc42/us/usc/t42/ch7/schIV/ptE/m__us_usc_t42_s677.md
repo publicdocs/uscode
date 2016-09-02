@@ -431,11 +431,11 @@
 
 [Pub. L. 101–239, title VIII, § 8002(d)][/us/pl/101/239/s8002/d], Dec. 19, 1989, [103 Stat. 2453][/us/stat/103/2453], provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Secretary of Health and Human Services shall study the programs authorized under section 477 of the Social Security Act \[[42 U.S.C. 677][/us/usc/t42/s677]\] for the purposes of evaluating the effectiveness of the programs. The study shall include a comparison of outcomes of children who participated in the programs and a comparable group of children who did not participate in the programs.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Upon completion of the study, the Secretary shall issue a report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives.”
 

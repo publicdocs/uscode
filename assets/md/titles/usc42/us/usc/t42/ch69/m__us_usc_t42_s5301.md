@@ -201,7 +201,7 @@
 
 [Pub. L. 111–203, title XIV, § 1497][/us/pl/111/203/s1497], July 21, 2010, [124 Stat. 2209][/us/stat/124/2209], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Effective October 1, 2010, out of funds in the Treasury not otherwise appropriated, there is hereby made available to the Secretary of Housing and Urban Development $1,000,000,000, and the Secretary of Housing and Urban Development shall use such amounts for assistance to States and units of general local government for the redevelopment of abandoned and foreclosed homes, in accordance with the same provisions applicable under the second undesignated paragraph under the heading ‘Community Planning and Development—Community Development Fund’ in title XII of division A of the American Recovery and Reinvestment Act of 2009 ([Public Law 111–5][/us/pl/111/5]; [123 Stat. 217][/us/stat/123/217]) to amounts made available under such second undesignated paragraph, except as follows:
 
@@ -259,7 +259,7 @@
 
 >     “(b) __Additional Amendments.—__ 
 
->         “(1) __Section 2301.—__ 
+>         “(1)  __Section 2301__  __.—__ 
 
 >         Section 2301(f)(3)(A)(ii) of the Housing and Economic Recovery Act of 2008 \[[Pub. L. 110–289][/us/pl/110/289]\] ([42 U.S.C. 5301(f)(3)(A)(ii)][/us/usc/t42/s5301/f/3/A/ii]) \[set out below\]—
 
@@ -267,7 +267,7 @@
 
 >             “(B) shall apply with respect to any unexpended or unobligated balances, including recaptured and reallocated funds made available under this Act \[see Tables for classification\], section 2301 of the Housing and Economic Recovery Act of 2008 ([42 U.S.C. 5301][/us/usc/t42/s5301] \[note\]), and the heading ‘Community Planning and Development—Community Development Fund’ in title XII of division A of the American Recovery and Reinvestment Act of 2009 ([Public Law 111–5][/us/pl/111/5]; [123 Stat. 217][/us/stat/123/217]).
 
->         “(2) __Notice of foreclosure.—__ 
+>         “(2)  __Notice of foreclosure__  __.—__ 
 
 >         For any amounts made available under this section, under division B, title III of the Housing and Economic Recovery Act of 2008 ([42 U.S.C. 5301][/us/usc/t42/s5301] \[note\]), or under the heading ‘Community Planning and Development—Community Development Fund’ in title XII of division A of the American Recovery and Reinvestment Act of 2009 ([Public Law 111–5][/us/pl/111/5]; [123 Stat. 217][/us/stat/123/217]), the date of a notice of foreclosure shall be deemed to be the date on which complete title to a property is transferred to a successor entity or person as a result of an order of a court or pursuant to provisions in a mortgage, deed of trust, or security deed.”
 
@@ -287,21 +287,21 @@
 
 > “SEC. 2301. __EMERGENCY ASSISTANCE FOR THE REDEVELOPMENT OF ABANDONED AND FORECLOSED HOMES.__ 
 
->     “(a) __Direct Appropriations.—__ 
+>     “(a)  __Direct Appropriations__  __.—__ 
 
 >     There are appropriated out of any money in the Treasury not otherwise appropriated for the fiscal year 2008, $4,000,000,000, to remain available until expended, for assistance to States and units of general local government (as such terms are defined in section 102 of the Housing and Community Development Act of 1974 ([42 U.S.C. 5302][/us/usc/t42/s5302])) for the redevelopment of abandoned and foreclosed upon homes and residential properties.
 
 >     “(b) __Allocation of Appropriated Amounts.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The amounts appropriated or otherwise made available to States and units of general local government under this section shall be allocated based on a funding formula established by the Secretary of Housing and Urban Development (in this title referred to as the ‘Secretary’).
 
->         “(2) __Formula to be devised swiftly.—__ 
+>         “(2)  __Formula to be devised swiftly__  __.—__ 
 
 >         The funding formula required under paragraph (1) shall be established not later than 60 days after the date of enactment of this section \[July 30, 2008\].
 
->         “(3) __Criteria.—__ 
+>         “(3)  __Criteria__  __.—__ 
 
 >         The funding formula required under paragraph (1) shall ensure that any amounts appropriated or otherwise made available under this section are allocated to States and units of general local government with the greatest need, as such need is determined in the discretion of the Secretary based on—
 
@@ -311,17 +311,17 @@
 
 >             “(C) the number and percentage of homes in default or delinquency in each State or unit of general local government.
 
->         “(4) __Distribution.—__ 
+>         “(4)  __Distribution__  __.—__ 
 
 >         Amounts appropriated or otherwise made available under this section shall be distributed according to the funding formula established by the Secretary under paragraph (1) not later than 30 days after the establishment of such formula.
 
 >     “(c) __Use of Funds.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Any State or unit of general local government that receives amounts pursuant to this section shall, not later than 18 months after the receipt of such amounts, use such amounts to purchase and redevelop abandoned and foreclosed homes and residential properties.
 
->         “(2) __Priority.—__ 
+>         “(2)  __Priority__  __.—__ 
 
 >         Any State or unit of general local government that receives amounts pursuant to this section shall in distributing such amounts give priority emphasis and consideration to those metropolitan areas, metropolitan cities, urban areas, rural areas, low- and moderate-income areas, and other areas with the greatest need, including those—
 
@@ -331,11 +331,11 @@
 
 >             “(C) identified by the State or unit of general local government as likely to face a significant rise in the rate of home foreclosures.
 
->         “(3) __Exception for certain states.—__ 
+>         “(3)  __Exception for certain states__  __.—__ 
 
 >         Each State that has received the minimum allocation of amounts pursuant to the requirement under section 2302 may, to the extent such State has fulfilled the requirements of paragraph (2), distribute any remaining amounts to areas with homeowners at risk of foreclosure or in foreclosure without regard to the percentage of home foreclosures in such areas.
 
->         “(4) __Eligible uses.—__ 
+>         “(4)  __Eligible uses__  __.—__ 
 
 >         Amounts made available under this section may be used to—
 
@@ -351,41 +351,41 @@
 
 >     “(d) __Limitations.—__ 
 
->         “(1) __On purchases.—__ 
+>         “(1)  __On purchases__  __.—__ 
 
 >         Any purchase of a foreclosed upon home or residential property under this section shall be at a discount from the current market appraised value of the home or property, taking into account its current condition, and such discount shall ensure that purchasers are paying below-market value for the home or property.
 
->         “(2) __Rehabilitation.—__ 
+>         “(2)  __Rehabilitation__  __.—__ 
 
 >         Any rehabilitation of a foreclosed-upon home or residential property under this section shall be to the extent necessary to comply with applicable laws, codes, and other requirements relating to housing safety, quality, and habitability, in order to sell, rent, or redevelop such homes and properties. Rehabilitation may include improvements to increase the energy efficiency or conservation of such homes and properties or provide a renewable energy source or sources for such homes and properties.
 
->         “(3) __Sale of homes.—__ 
+>         “(3)  __Sale of homes__  __.—__ 
 
 >         If an abandoned or foreclosed upon home or residential property is purchased, redeveloped, or otherwise sold to an individual as a primary residence, then such sale shall be in an amount equal to or less than the cost to acquire and redevelop or rehabilitate such home or property up to a decent, safe, and habitable condition.
 
 >     “(e) __Rules of Construction.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as otherwise provided by this section, amounts appropriated, revenues generated, or amounts otherwise made available to States and units of general local government under this section shall be treated as though such funds were community development block grant funds under title I of the Housing and Community Development Act of 1974 ([42 U.S.C. 5301][/us/usc/t42/s5301] et seq.).
 
->         “(2) __No match.—__ 
+>         “(2)  __No match__  __.—__ 
 
 >         No matching funds shall be required in order for a State or unit of general local government to receive any amounts under this section.
 
 >     “(f) __Authority to Specify Alternative Requirements.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In administering any amounts appropriated or otherwise made available under this section, the Secretary may specify alternative requirements to any provision under title I of the Housing and Community Development Act of 1974 \[[42 U.S.C. 5301][/us/usc/t42/s5301] et seq.\] (except for those related to fair housing, nondiscrimination, labor standards, and the environment) in accordance with the terms of this section and for the sole purpose of expediting the use of such funds.
 
->         “(2) __Notice.—__ 
+>         “(2)  __Notice__  __.—__ 
 
 >         The Secretary shall provide written notice of its intent to exercise the authority to specify alternative requirements under paragraph (1) to the Committee on Banking, Housing and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives not later than 10 business days before such exercise of authority is to occur.
 
 >         “(3) __Low and moderate income requirement.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Notwithstanding the authority of the Secretary under paragraph (1)—
 
@@ -393,11 +393,11 @@
 
 >                 “(ii) not less than 25 percent of the funds appropriated or otherwise made available under this section shall be used to house individuals or families whose incomes do not exceed 50 percent of area median income.
 
->             “(B) __Recurrent requirement.—__ 
+>             “(B)  __Recurrent requirement__  __.—__ 
 
 >             The Secretary shall, by rule or order, ensure, to the maximum extent practicable and for the longest feasible term, that the sale, rental, or redevelopment of abandoned and foreclosed upon homes and residential properties under this section remain affordable to individuals or families described in subparagraph (A).
 
->     “(g) __Periodic Audits.—__ 
+>     “(g)  __Periodic Audits__  __.—__ 
 
 >     In consultation with the Secretary of Housing and Urban Development, the Comptroller General of the United States shall conduct periodic audits to ensure that funds appropriated, made available, or otherwise distributed under this section are being used in a manner consistent with the criteria provided in this section.
 
@@ -411,7 +411,7 @@
 
 > “SEC. 2304. __LIMITATION ON DISTRIBUTION OF FUNDS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     None of the funds made available under this title or title IV \[[122 Stat. 2854][/us/stat/122/2854]\] shall be distributed to—
 
@@ -419,7 +419,7 @@
 
 >         “(2) an organization which employs applicable individuals.
 
->     “(b) __Applicable Individuals Defined.—__ 
+>     “(b)  __Applicable Individuals Defined__  __.—__ 
 
 >     In this section, the term ‘applicable individual’ means an individual who—
 
@@ -451,7 +451,7 @@
 
 [Pub. L. 105–276, title V, § 590][/us/pl/105/276/s590], Oct. 21, 1998, [112 Stat. 2651][/us/stat/112/2651], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Housing and Urban Development shall, for not less than 10 jurisdictions that are metropolitan cities or urban counties for purposes of title I of the Housing and Community Development Act of 1974 \[[42 U.S.C. 5301][/us/usc/t42/s5301] et seq.\], grant exceptions not later than 90 days after the date of the enactment of this Act \[Oct. 21, 1998\] for such jurisdictions that provide that—
 
@@ -459,7 +459,7 @@
 
 >         “(2) for purposes of the community development block grant program under title I of the Housing and Community Development Act of 1974 \[[42 U.S.C. 5301][/us/usc/t42/s5301] et seq.\], the limitation based on percentage of median income that is applicable pursuant to section 102(a)(20) \[[42 U.S.C. 5302(a)(20)][/us/usc/t42/s5302/a/20]\] for any area within the State or unit of general local government shall be the numerical percentage that is specified in subparagraph (A) of such section.
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     This section shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].”
 
@@ -467,7 +467,7 @@
 
 [Pub. L. 100–242, § 2][/us/pl/100/242/s2], Feb. 5, 1988, [101 Stat. 1819][/us/stat/101/1819], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -477,7 +477,7 @@
 
 >         “(3) the tragedy of homelessness in urban and suburban communities across the Nation, involving a record number of people, dramatically demonstrates the lack of affordable residential shelter, and people living on the economic margins of our society (lower income families, the elderly, the working poor, and the deinstitutionalized) have few available alternatives for shelter.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of this Act \[see Short Title of 1988 Amendment note above\], therefore, is—
 
@@ -493,11 +493,11 @@
 
 [Pub. L. 100–242, § 3][/us/pl/100/242/s3], Feb. 5, 1988, [101 Stat. 1819][/us/stat/101/1819], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     This Act and the amendments made by this Act \[see Short Title of 1988 Amendment note above\] may not be construed to provide for new budget authority, budget outlays, or new entitlement authority, for fiscal year 1988 in excess of the appropriate aggregate levels established by the concurrent resolution on the budget for such fiscal year for the programs authorized by this Act and the amendments made by this Act.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For purposes of this section, the terms ‘budget authority’, ‘budget outlays’, ‘concurrent resolution on the budget’, and ‘entitlement authority’ have the meanings given such terms in section 3 of the Congressional Budget Act of 1974 ([2 U.S.C. 622][/us/usc/t2/s622]).”
 

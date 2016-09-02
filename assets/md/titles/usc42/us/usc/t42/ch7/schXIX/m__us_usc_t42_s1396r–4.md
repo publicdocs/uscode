@@ -2237,7 +2237,7 @@
 
 [Pub. L. 103–66, title XIII, § 13621(b)(3)][/us/pl/103/66/s13621/b/3], Aug. 10, 1993, [107 Stat. 631][/us/stat/107/631], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section\] shall apply to payments to States under section 1903(a) of the Social Security Act \[[42 U.S.C. 1396b(a)][/us/usc/t42/s1396b/a]\] for payments to hospitals made under State plans after—
 
@@ -2247,7 +2247,7 @@
 
 >         without regard to whether or not final regulations to carry out such amendments have been promulgated by either such date.
 
->     “(B) __Delay in implementation for private hospitals.—__ 
+>     “(B)  __Delay in implementation for private hospitals__  __.—__ 
 
 >     With respect to a hospital that is not owned or operated by a State (or by an instrumentality or a unit of government within a State), the amendments made by this subsection shall apply to payments to States under section 1903(a) for payments to hospitals made under State plans for State fiscal years that begin during or after 1995, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.”
 
@@ -2277,7 +2277,7 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VII, § 701(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–571, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     During the period described in paragraph (3), with respect to a State, section 4721(e) of the Balanced Budget Act of 1997 ([Public Law 105–33][/us/pl/105/33]; [111 Stat. 514][/us/stat/111/514]) \[set out as a note below\], as amended by section 607 of BBRA \[[Pub. L. 106–113, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, § 607(a)\]\] ([113 Stat. 1501][/us/stat/113/1501]A–396), shall be applied as though—
 
@@ -2303,11 +2303,11 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VII, § 701(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–571, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Beginning with fiscal year 2002, notwithstanding section 1923(f) of the Social Security Act ([42 U.S.C. 1396r–4(f)][/us/usc/t42/s1396r–4/f]) and subject to paragraph (3), with respect to a State, payment adjustments made under title XIX of the Social Security Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.) to a hospital described in paragraph (2) shall be made without regard to the DSH allotment limitation for the State determined under section 1923(f) of that Act ([42 U.S.C. 1396r–4(f)][/us/usc/t42/s1396r–4/f]).
 
->     “(2) __Hospital described.—__ 
+>     “(2)  __Hospital described__  __.—__ 
 
 >     A hospital is described in this paragraph if the hospital—
 
@@ -2325,11 +2325,11 @@
 
 >     “(3) __Limitation on expenditures.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         With respect to any fiscal year, the aggregate amount of Federal financial participation that may be provided for payment adjustments described in paragraph (1) for that fiscal year for all States may not exceed the amount described in subparagraph (B) for the fiscal year.
 
->         “(B) __Amount described.—__ 
+>         “(B)  __Amount described__  __.—__ 
 
 >         The amount described in this subparagraph for a fiscal year is as follows:
 

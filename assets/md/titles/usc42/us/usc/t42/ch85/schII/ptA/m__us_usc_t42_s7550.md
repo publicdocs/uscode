@@ -29,23 +29,23 @@
 
     (6) The term “commerce” means (A) commerce between any place in any State and any place outside thereof; and (B) commerce wholly within the District of Columbia.
 
-    (7) __Vehicle curb weight, gross vehicle weight rating, light-duty truck, light-duty vehicle, and loaded vehicle weight.—__ 
+    (7)  __Vehicle curb weight, gross vehicle weight rating, light-duty truck, light-duty vehicle, and loaded vehicle weight__  __.—__ 
 
     The terms “vehicle curb weight”, “gross vehicle weight rating” (GVWR), “light-duty truck” (LDT), light-duty vehicle, <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be set off by quotation marks. </sup></sup>  and “loaded vehicle weight” (LVW) have the meaning provided in regulations promulgated by the Administrator and in effect as of November 15, 1990. The abbreviations in parentheses corresponding to any term referred to in this paragraph shall have the same meaning as the corresponding term.
 
-    (8) __Test weight.—__ 
+    (8)  __Test weight__  __.—__ 
 
     The term “test weight” and the abbreviation “tw” mean the vehicle curb weight added to the gross vehicle weight rating (gvwr) and divided by 2.
 
-    (9) __Motor vehicle or engine part manufacturer.—__ 
+    (9)  __Motor vehicle or engine part manufacturer__  __.—__ 
 
     The term “motor vehicle or engine part manufacturer” as used in sections 7541 and 7542 of this title means any person engaged in the manufacturing, assembling or rebuilding of any device, system, part, component or element of design which is installed in or on motor vehicles or motor vehicle engines.
 
-    (10) __Nonroad engine.—__ 
+    (10)  __Nonroad engine__  __.—__ 
 
     The term “nonroad engine” means an internal combustion engine (including the fuel system) that is not used in a motor vehicle or a vehicle used solely for competition, or that is not subject to standards promulgated under [section 7411 of this title][/us/usc/t42/s7411] or [section 7521 of this title][/us/usc/t42/s7521].
 
-    (11) __Nonroad vehicle.—__ 
+    (11)  __Nonroad vehicle__  __.—__ 
 
     The term “nonroad vehicle” means a vehicle that is powered by a nonroad engine and that is not a motor vehicle or a vehicle used solely for competition.
 

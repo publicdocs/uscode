@@ -139,11 +139,11 @@
 
 [Pub. L. 101–508, title IV, § 4712(c)][/us/pl/101/508/s4712/c], Nov. 5, 1990, [104 Stat. 1388–190][/us/stat/104/1388-190], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[enacting this section and amending [section 1396d of this title][/us/usc/t42/s1396d]\] shall apply to community supported living arrangements services furnished on or after the later of July 1, 1991, or 30 days after the publication of regulations setting forth interim requirements under subsection (h) \[probably means [42 U.S.C. 1396u(h)][/us/usc/t42/s1396u/h]\] without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
->     “(2) __Application process.—__ 
+>     “(2)  __Application process__  __.—__ 
 
 >     The Secretary of Health and Human Services shall provide that the applications required to be submitted by States under this section shall be received and approved prior to the effective date specified in paragraph (1).”
 

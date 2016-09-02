@@ -697,11 +697,11 @@
 
 [Pub. L. 109–171, title VI, § 6016(e)][/us/pl/109/171/s6016/e], Feb. 8, 2006, [120 Stat. 67][/us/stat/120/67], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section\] shall apply to payments under title XIX of the Social Security Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.) for calendar quarters beginning on or after the date of enactment of this Act \[Feb. 8, 2006\], without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
->     “(2) __Exceptions.—__ 
+>     “(2)  __Exceptions__  __.—__ 
 
 >     The amendments made by this section shall not apply—
 
@@ -711,7 +711,7 @@
 
 >         “(C) with respect to trusts established on or before the date of enactment of this Act.
 
->     “(3) __Extension of effective date for state law amendment.—__ 
+>     “(3)  __Extension of effective date for state law amendment__  __.—__ 
 
 >     In the case of a State plan under title XIX of the Social Security Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.) which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by a provision of this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session is considered to be a separate regular session of the State legislature.”
 
@@ -799,19 +799,19 @@
 
 >     “(a) __Expansion Authority.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         \[Amended this section.\]
 
->         “(2) __State reporting requirements.—__ 
+>         “(2)  __State reporting requirements__  __.—__ 
 
 >         Nothing in clauses (iii)(VI) and (v) of section 1917(b)(1)(C) of the Social Security Act \[[42 U.S.C. 1396p(b)(1)(C)(iii)(VI)][/us/usc/t42/s1396p/b/1/C/iii/VI], (v)\] (as added by paragraph (1)) shall be construed as prohibiting a State from requiring an issuer of a long-term care insurance policy sold in the State (regardless of whether the policy is issued under a qualified State long-term care insurance partnership under section 1917(b)(1)(C)(iii) of such Act) to require the issuer to report information or data to the State that is in addition to the information or data required under such clauses.
 
->         “(3) __Effective date.—__ 
+>         “(3)  __Effective date__  __.—__ 
 
 >         A State plan amendment that provides for a qualified State long-term care insurance partnership under the amendments made by paragraph (1) may provide that such amendment is effective for long-term care insurance policies issued on or after a date, specified in the amendment, that is not earlier than the first day of the first calendar quarter in which the plan amendment was submitted to the Secretary of Health and Human Services.
 
->     “(b) __Standards for Reciprocal Recognition Among Partnership States.—__ 
+>     “(b)  __Standards for Reciprocal Recognition Among Partnership States__  __.—__ 
 
 >     In order to permit portability in long-term care insurance policies purchased under State long-term care insurance partnerships, the Secretary of Health and Human Services shall develop, not later than January 1, 2007, and in consultation with the National Association of Insurance Commissioners, issuers of long-term care insurance policies, States with experience with long-term care insurance partnership plans, other States, and representatives of consumers of long-term care insurance policies, standards for uniform reciprocal recognition of such policies among States with qualified State long-term care insurance partnerships under which—
 
@@ -821,23 +821,23 @@
 
 >     “(c) __Annual Reports to Congress.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Health and Human Services shall annually report to Congress on the long-term care insurance partnerships established in accordance with section 1917(b)(1)(C)(ii) of the Social Security Act ([42 U.S.C. 1396p(b)(1)(C)(ii)][/us/usc/t42/s1396p/b/1/C/ii]) (as amended by subsection (a)(1)). Such reports shall include analyses of the extent to which such partnerships expand or limit access of individuals to long-term care and the impact of such partnerships on Federal and State expenditures under the Medicare and Medicaid programs. Nothing in this section shall be construed as requiring the Secretary to conduct an independent review of each long-term care insurance policy offered under or in connection with such a partnership.
 
->         “(2) __Appropriation.—__ 
+>         “(2)  __Appropriation__  __.—__ 
 
 >         Out of any funds in the Treasury not otherwise appropriated, there is appropriated to the Secretary of Health and Human Services, $1,000,000 for the period of fiscal years 2006 through 2010 to carry out paragraph (1).
 
 >     “(d) __National Clearinghouse for Long-Term Care Information.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         The Secretary of Health and Human Services shall establish a National Clearinghouse for Long-Term Care Information. The Clearinghouse may be established through a contract or interagency agreement.
 
 >         “(2) __Duties.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The National Clearinghouse for Long-Term Care Information shall—
 
@@ -847,11 +847,11 @@
 
 >                 “(iii) maintain a list of States with State long-term care insurance partnerships under the Medicaid program that provide reciprocal recognition of long-term care insurance policies issued under such partnerships.
 
->             “(B) __Requirement.—__ 
+>             “(B)  __Requirement__  __.—__ 
 
 >             In providing information to consumers on long-term care in accordance with this subsection, the National Clearinghouse for Long-Term Care Information shall not advocate in favor of a specific long-term care insurance provider or a specific long-term care insurance policy.
 
->         “(3) __Appropriation.—__ 
+>         “(3)  __Appropriation__  __.—__ 
 
 >         Out of any funds in the Treasury not otherwise appropriated, there is appropriated to carry out this subsection, $3,000,000 for each of fiscal years 2006 through 2010.”
 

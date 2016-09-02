@@ -73,11 +73,11 @@
 
 [Pub. L. 108–375, div. C, title XXXI, § 3169][/us/pl/108/375/s3169], Oct. 28, 2004, [118 Stat. 2191][/us/stat/118/2191], provided that:
 
->     “(a) __Update of Report.—__ 
+>     “(a)  __Update of Report__  __.—__ 
 
 >     Not later than December 31, 2006, the Director of the National Institute for Occupational Safety and Health shall submit to Congress an update to the report required by section 3151(b) of the National Defense Authorization Act for Fiscal Year 2002 ([Public Law 107–107][/us/pl/107/107]; [42 U.S.C. 7384][/us/usc/t42/s7384] note).
 
->     “(b) __Elements.—__ 
+>     “(b)  __Elements__  __.—__ 
 
 >     The update shall—
 
@@ -91,7 +91,7 @@
 
 >         “(5) if new information that pertains to the report has been made available to the Director since that report was submitted, identify and describe such information.
 
->     “(c) __Publication.—__ 
+>     “(c)  __Publication__  __.—__ 
 
 >     The Director shall ensure that the report referred to in subsection (a) is published in the Federal Register not later than 15 days after being released.”
 

@@ -217,11 +217,11 @@
 
 Section 902(a)(2), (3) of [Pub. L. 102–550][/us/pl/102/550] provided that:
 
->     “(2) __Transfer of functions.—__ 
+>     “(2)  __Transfer of functions__  __.—__ 
 
 >     Not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], the Secretary of Housing and Urban Development shall transfer to the Special Assistant for Indian and Alaska Native Programs any functions and duties described in section 4(e)(1)(B) of the Department of Housing and Urban Development Act \[[42 U.S.C. 3533(e)(1)(B)][/us/usc/t42/s3533/e/1/B]\] (as added by paragraph (1) of this subsection).
 
->     “(3) __Staff.—__ 
+>     “(3)  __Staff__  __.—__ 
 
 >     Not later than the expiration of the 1-year period beginning on the date of the enactment of this Act, the Secretary of Housing and Urban Development shall transfer from offices within the Department of Housing and Urban Development to the office of the Special Assistant for Indian and Alaska Native Programs such staff, having experience and capacity to administer Indian housing and community development programs, as may be necessary and appropriate to assist the Special Assistant in carrying out the responsibilities under section 4(e)(1)(B) of the Department of Housing and Urban Development Act (as added by paragraph (1) of this subsection).”
 

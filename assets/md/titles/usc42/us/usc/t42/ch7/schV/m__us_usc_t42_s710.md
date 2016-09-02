@@ -79,7 +79,7 @@
 
 [Pub. L. 104–193, title IX, § 905][/us/pl/104/193/s905], Aug. 22, 1996, [110 Stat. 2349][/us/stat/110/2349], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than January 1, 1997, the Secretary of Health and Human Services shall establish and implement a strategy for—
 
@@ -87,7 +87,7 @@
 
 >         “(2) assuring that at least 25 percent of the communities in the United States have teenage pregnancy prevention programs in place.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than June 30, 1998, and annually thereafter, the Secretary shall report to the Congress with respect to the progress that has been made in meeting the goals described in paragraphs (1) and (2) of subsection (a).”
 

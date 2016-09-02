@@ -141,7 +141,7 @@
 
 [Pub. L. 100–203, title IV, § 4095(c)][/us/pl/100/203/s4095/c], (d), Dec. 22, 1987, [101 Stat. 1330–138][/us/stat/101/1330-138], provided that:
 
->     “(c) __Transition for Current Cases.—__ 
+>     “(c)  __Transition for Current Cases__  __.—__ 
 
 >     In the case of a practitioner or person—
 
@@ -153,7 +153,7 @@
 
 >         the Secretary of Health and Human Services shall provide for a hearing described in section 1156(b)(5) of the Social Security Act (as amended by subsection (a) of this section).
 
->     “(d) __Redeterminations in Certain Cases.—__ 
+>     “(d)  __Redeterminations in Certain Cases__  __.—__ 
 
 >     If, in hearing under subsection (c), the judge does not determine, by a preponderance of the evidence, that the provider or practitioner will pose a serious risk to individuals entitled to benefits under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] if permitted to continue or resume furnishing such services, the Secretary shall not effect the exclusion (or shall suspend the exclusion, if previously effected) under paragraph (2) of section 1156(b) of such Act \[[42 U.S.C. 1320c–5(b)(2)][/us/usc/t42/s1320c–5/b/2]\] until the provider or practitioner has been provided an administrative hearing thereon under paragraph (4) of such section, notwithstanding any failure by the provider or practitioner to request the hearing on a timely basis.”
 

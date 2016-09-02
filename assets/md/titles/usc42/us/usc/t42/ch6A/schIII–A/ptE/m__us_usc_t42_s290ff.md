@@ -117,11 +117,11 @@
 
 [Pub. L. 106–310, div. B, title XXXI, § 3105(e)][/us/pl/106/310/s3105/e], Oct. 17, 2000, [114 Stat. 1175][/us/stat/114/1175], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Entities with active grants under section 561 of the Public Health Service Act ([42 U.S.C. 290ff][/us/usc/t42/s290ff]) on the date of the enactment of this Act \[Oct. 17, 2000\] shall be eligible to receive a sixth year of funding under the grant in an amount not to exceed the amount that such grantee received in the fifth year of funding under such grant. Such sixth year may be funded without requiring peer and Advisory Council review as required under section 504 of such Act ([42 U.S.C. 290aa–3][/us/usc/t42/s290aa–3]).
 
->     “(2) __Limitation.—__ 
+>     “(2)  __Limitation__  __.—__ 
 
 >     Paragraph (1) shall apply with respect to a grantee only if the grantee agrees to comply with the provisions of section 561 as amended by subsection (a).”
 

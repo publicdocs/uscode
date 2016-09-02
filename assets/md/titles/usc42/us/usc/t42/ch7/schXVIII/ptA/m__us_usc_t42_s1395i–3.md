@@ -1377,21 +1377,21 @@
 
 [Pub. L. 101–239, title VI, § 6901(b)(6)][/us/pl/101/239/s6901/b/6], Dec. 19, 1989, [103 Stat. 2300][/us/stat/103/2300], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section and sections 1396b and 1396r of this title\] shall take effect as if they were included in the enactment of the Omnibus Budget Reconciliation Act of 1987 \[[Pub. L. 100–203][/us/pl/100/203]\].
 
->     “(B) __Exception.—__ 
+>     “(B)  __Exception__  __.—__ 
 
 >     The amendments made by paragraph (3) \[amending this section and [section 1396r of this title][/us/usc/t42/s1396r]\] shall apply to nurse aide training and competency evaluation programs, and nurse aide competency evaluation programs, offered on or after the end of the 90-day period beginning on the date of the enactment of this Act \[Dec. 19, 1989\], but shall not affect competency evaluations conducted under programs offered before the end of such period.”
 
 [Pub. L. 101–239, title VI, § 6901(d)(6)][/us/pl/101/239/s6901/d/6], Dec. 19, 1989, [103 Stat. 2301][/us/stat/103/2301], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section and sections 1396i and 1396r of this title\] shall take effect as if they were included in the enactment of the Omnibus Budget Reconciliation Act of 1987 \[[Pub. L. 100–203][/us/pl/100/203]\].
 
->     “(B) __Exception.—__ 
+>     “(B)  __Exception__  __.—__ 
 
 >     The amendment made by paragraph (1) \[amending [section 1396r of this title][/us/usc/t42/s1396r]\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\].”
 
@@ -1405,17 +1405,17 @@
 
 [Pub. L. 100–203, title IV, § 4204][/us/pl/100/203/s4204], Dec. 22, 1987, [101 Stat. 1330–182][/us/stat/101/1330-182], as amended by [Pub. L. 100–360, title IV, § 411][/us/pl/100/360/s411](l)(9), July 1, 1988, [102 Stat. 805][/us/stat/102/805]; [Pub. L. 100–485, title VI, § 608(d)(27)(K)][/us/pl/100/485/s608/d/27/K], Oct. 13, 1988, [102 Stat. 2423][/us/stat/102/2423], provided that:
 
->     “(a) __New Requirements and Survey and Certification Process.—__ 
+>     “(a)  __New Requirements and Survey and Certification Process__  __.—__ 
 
 >     Except as otherwise specifically provided in section 1819 of the Social Security Act \[[42 U.S.C. 1395i–3][/us/usc/t42/s1395i–3]\], the amendments made by sections 4201 and 4202 \[enacting and amending this section and amending sections 1395x, 1395aa, 1395tt, and 1395yy of this title\] (relating to skilled nursing facility requirements and survey and certification requirements) shall apply to services furnished on or after October 1, 1990, without regard to whether regulations to implement such amendments are promulgated by such date.
 
->     “(b) __Enforcement.—__ 
+>     “(b)  __Enforcement__  __.—__ 
 
 >         (1) Except as otherwise specifically provided in section 1819 of the Social Security Act \[[42 U.S.C. 1395i–3][/us/usc/t42/s1395i–3]\], the amendments made by section 4203 of this Act \[amending this section and [section 1395aa of this title][/us/usc/t42/s1395aa]\] apply January 1, 1988, without regard to whether regulations to implement such amendments are promulgated by such date.
 
 >         “(2) In applying the amendments made by section 4203 of this Act for services furnished by a skilled nursing facility before October 1, 1990, any reference to a requirement of subsection (b), (c), or (d), of section 1819 of the Social Security Act is deemed a reference to the provisions of section 1861(j) of such Act \[[42 U.S.C. 1395x(j)][/us/usc/t42/s1395x/j]\].
 
->     “(c) __Waiver of Paperwork Reduction.—__ 
+>     “(c)  __Waiver of Paperwork Reduction__  __.—__ 
 
 >     Chapter 35 of title 44, United States Code, shall not apply to information required for purposes of carrying out this part \[part 1 of subtitle C (§§ 4201–4206), enacting this section, amending this section and sections 1395x, 1395aa, 1395tt, and 1395yy of this title, and enacting provisions set out as notes under this section\] and implementing the amendments made by this part.”
 
@@ -1423,23 +1423,23 @@
 
 [Pub. L. 111–148, title VI, § 6103(d)(1)][/us/pl/111/148/s6103/d/1], (3), Mar. 23, 2010, [124 Stat. 710][/us/stat/124/710], provided that:
 
->     “(1) __Guidance.—__ 
+>     “(1)  __Guidance__  __.—__ 
 
 >     The Secretary of Health and Human Services (in this subtitle \[subtitle B (§§ 6101–6121) of title VI of [Pub. L. 111–148][/us/pl/111/148], enacting [section 1320a–7j of this title][/us/usc/t42/s1320a–7j], amending this section and sections 1320a–3, 1320a–7j, 1395yy, 1396a, and 1396r of this title, and enacting provisions set out as notes under this section and sections 1320a–3, 1320a–7j, and 1396r of this title\] referred to as the ‘Secretary’) shall provide guidance to States on how States can establish electronic links to Form 2567 State inspection reports (or a successor form), complaint investigation reports, and a facility’s plan of correction or other response to such Form 2567 State inspection reports (or a successor form) on the Internet website of the State that provides information on skilled nursing facilities and nursing facilities and the Secretary shall, if possible, include such information on Nursing Home Compare.
 
->     “(3) __Definitions.—__ 
+>     “(3)  __Definitions__  __.—__ 
 
 >     In this subsection:
 
->         “(A) __Nursing facility.—__ 
+>         “(A)  __Nursing facility__  __.—__ 
 
 >         The term ‘nursing facility’ has the meaning given such term in section 1919(a) of the Social Security Act ([42 U.S.C. 1396r(a)][/us/usc/t42/s1396r/a]).
 
->         “(B) __Secretary.—__ 
+>         “(B)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of Health and Human Services.
 
->         “(C) __Skilled nursing facility.—__ 
+>         “(C)  __Skilled nursing facility__  __.—__ 
 
 >         The term ‘skilled nursing facility’ has the meaning given such term in section 1819(a) of the Social Security Act ([42 U.S.C. 1395i–3(a)][/us/usc/t42/s1395i–3/a]).”
 
@@ -1463,51 +1463,51 @@
 
 [Pub. L. 111–148, title VI, § 6114][/us/pl/111/148/s6114], Mar. 23, 2010, [124 Stat. 720][/us/stat/124/720], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary \[of Health and Human Services\] shall conduct 2 demonstration projects, 1 for the development of best practices in skilled nursing facilities and nursing facilities that are involved in the culture change movement (including the development of resources for facilities to find and access funding in order to undertake culture change) and 1 for the development of best practices in skilled nursing facilities and nursing facilities for the use of information technology to improve resident care.
 
 >     “(b) __Conduct of Demonstration Projects.—__ 
 
->         “(1) __Grant award.—__ 
+>         “(1)  __Grant award__  __.—__ 
 
 >         Under each demonstration project conducted under this section, the Secretary shall award 1 or more grants to facility-based settings for the development of best practices described in subsection (a) with respect to the demonstration project involved. Such award shall be made on a competitive basis and may be allocated in 1 lump-sum payment.
 
->         “(2) __Consideration of special needs of residents.—__ 
+>         “(2)  __Consideration of special needs of residents__  __.—__ 
 
 >         Each demonstration project conducted under this section shall take into consideration the special needs of residents of skilled nursing facilities and nursing facilities who have cognitive impairment, including dementia.
 
 >     “(c) __Duration and Implementation.—__ 
 
->         “(1) __Duration.—__ 
+>         “(1)  __Duration__  __.—__ 
 
 >         The demonstration projects shall each be conducted for a period not to exceed 3 years.
 
->         “(2) __Implementation.—__ 
+>         “(2)  __Implementation__  __.—__ 
 
 >         The demonstration projects shall each be implemented not later than 1 year after the date of the enactment of this Act \[Mar. 23, 2010\].
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Nursing facility.—__ 
+>         “(1)  __Nursing facility__  __.—__ 
 
 >         The term ‘nursing facility’ has the meaning given such term in section 1919(a) of the Social Security Act ([42 U.S.C. 1396r(a)][/us/usc/t42/s1396r/a]).
 
->         “(2) __Secretary.—__ 
+>         “(2)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of Health and Human Services.
 
->         “(3) __Skilled nursing facility.—__ 
+>         “(3)  __Skilled nursing facility__  __.—__ 
 
 >         The term ‘skilled nursing facility’ has the meaning given such term in section 1819(a) of the Social Security Act ([42 U.S.C. 1395(a)][/us/usc/t42/s1395/a] \[1395i–3(a)\]).
 
->     “(e) __Authorization of Appropriations.—__ 
+>     “(e)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
->     “(f) __Report.—__ 
+>     “(f)  __Report__  __.—__ 
 
 >     Not later than 9 months after the completion of the demonstration project, the Secretary shall submit to Congress a report on such project, together with recommendations for such legislation and administrative action as the Secretary determines appropriate.”
 
@@ -1517,11 +1517,11 @@
 
 >     “(1) __Review.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Not later than 12 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall conduct a thorough review of the current standards of practice for pharmacy services provided to patients in nursing facilities.
 
->         “(B) __Specific matters reviewed.—__ 
+>         “(B)  __Specific matters reviewed__  __.—__ 
 
 >         In conducting the review under subparagraph (A), the Secretary shall—
 
@@ -1531,11 +1531,11 @@
 
 >     “(2) __Report.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Not later than the date that is 18 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary shall submit a report to Congress on the study conducted under paragraph (1)(A).
 
->         “(B) __Contents.—__ 
+>         “(B)  __Contents__  __.—__ 
 
 >         The report submitted under subparagraph (A) shall contain—
 
@@ -1547,7 +1547,7 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title I, § 107\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–328, provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Secretary of Health and Human Services shall conduct a study that—
 
@@ -1557,7 +1557,7 @@
 
 >         “(3) determines whether regular respiratory therapy competency examinations or certifications should be required under the medicare program under title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.) for such providers and individuals.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 18 months after the date of enactment of this Act \[Nov. 29, 1999\], the Secretary of Health and Human Services shall submit to Congress a report on the results of the study conducted under this section, together with any recommendations for legislation that the Secretary determines to be appropriate as a result of such study.”
 
@@ -1571,7 +1571,7 @@
 
 [Pub. L. 104–134, title I, § 101(d)][/us/pl/104/134/s101/d] \[title V, § 516(d)\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–248; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Secretary of Health and Human Services shall provide for—
 
@@ -1579,7 +1579,7 @@
 
 >         “(B) a study concerning the effectiveness and appropriateness of the current mechanisms for surveying and certifying renal dialysis facilities for compliance with the conditions and requirements of section 1881(b) of the Social Security Act \[[42 U.S.C. 1395rr(b)][/us/usc/t42/s1395rr/b]\].
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than July 1, 1997, the Secretary shall transmit to Congress a report on each of the studies provided for under paragraph (1). The report on the study under paragraph (1)(A) shall include (and the report on the study under paragraph (1)(B) may include) a specific framework, where appropriate, for implementing a process under which facilities covered under the respective study may be deemed to meet applicable medicare conditions and requirements if they are accredited by a national accreditation body.”
 

@@ -47,7 +47,7 @@
 
 > “In this Act:
 
->     “(1) __Aquifer.—__ 
+>     “(1)  __Aquifer__  __.—__ 
 
 >     The term ‘aquifer’ means a subsurface water-bearing geologic formation from which significant quantities of water may be extracted.
 
@@ -55,7 +55,7 @@
 
 >     The term ‘IBWC’ means the International Boundary and Water Commission, an agency of the Department of State.
 
->     “(3) __Indian tribe.—__ 
+>     “(3)  __Indian tribe__  __.—__ 
 
 >     The term ‘Indian tribe’ means an Indian tribe, band, nation, or other organized group or community—
 
@@ -63,31 +63,31 @@
 
 >         “(B) the reservation of which includes a transboundary aquifer within the exterior boundaries of the reservation.
 
->     “(4) __Participating state.—__ 
+>     “(4)  __Participating state__  __.—__ 
 
 >     The term ‘Participating State’ means each of the States of Arizona, New Mexico, and Texas.
 
->     “(5) __Priority transboundary aquifer.—__ 
+>     “(5)  __Priority transboundary aquifer__  __.—__ 
 
 >     The term ‘priority transboundary aquifer’ means a transboundary aquifer that has been designated for study and analysis under the program.
 
->     “(6) __Program.—__ 
+>     “(6)  __Program__  __.—__ 
 
 >     The term ‘program’ means the United States-Mexico transboundary aquifer assessment program established under section 4(a).
 
->     “(7) __Reservation.—__ 
+>     “(7)  __Reservation__  __.—__ 
 
 >     The term ‘reservation’ means land that has been set aside or that has been acknowledged as having been set aside by the United States for the use of an Indian tribe, the exterior boundaries of which are more particularly defined in a final tribal treaty, agreement, executive order, Federal statute, secretarial order, or judicial determination.
 
->     “(8) __Secretary.—__ 
+>     “(8)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of the Interior, acting through the Director of the United States Geological Survey.
 
->     “(9) __Transboundary aquifer.—__ 
+>     “(9)  __Transboundary aquifer__  __.—__ 
 
 >     The term ‘transboundary aquifer’ means an aquifer that underlies the boundary between a Participating State and Mexico.
 
->     “(10) __Tri-regional planning group.—__ 
+>     “(10)  __Tri-regional planning group__  __.—__ 
 
 >     The term ‘Tri-Regional Planning Group’ means the binational planning group comprised of—
 
@@ -97,17 +97,17 @@
 
 >         “(C) the Lower Rio Grande Water Users Organization.
 
->     “(11) __Water resources research institutes.—__ 
+>     “(11)  __Water resources research institutes__  __.—__ 
 
 >     The term ‘water resources research institutes’ means the institutes within the Participating States established under section 104 of the Water Resources Research Act of 1984 ([42 U.S.C. 10303][/us/usc/t42/s10303]).
 
 > “SEC. 4. __ESTABLISHMENT OF PROGRAM.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary, in consultation and cooperation with the Participating States, the water resources research institutes, Sandia National Laboratories, and other appropriate entities in the United States and Mexico, and the IBWC, as appropriate, shall carry out the United States-Mexico transboundary aquifer assessment program to characterize, map, and model priority transboundary aquifers along the United States-Mexico border at a level of detail determined to be appropriate for the particular aquifer.
 
->     “(b) __Objectives.—__ 
+>     “(b)  __Objectives__  __.—__ 
 
 >     The objectives of the program are to—
 
@@ -159,7 +159,7 @@
 
 >     “(c) __Designation of Priority Transboundary Aquifers.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         For purposes of the program, the Secretary shall designate as priority transboundary aquifers—
 
@@ -169,21 +169,21 @@
 
 >             “(C) the San Pedro aquifers underlying Arizona and Sonora, Mexico.
 
->         “(2) __Additional aquifers.—__ 
+>         “(2)  __Additional aquifers__  __.—__ 
 
 >         The Secretary may, using the criteria under subsection (b)(1)(A), evaluate and designate additional priority transboundary aquifers which underlie New Mexico or Texas.
 
->     “(d) __Cooperation With Mexico.—__ 
+>     “(d)  __Cooperation With Mexico__  __.—__ 
 
 >     To ensure a comprehensive assessment of priority transboundary aquifers, the Secretary shall, to the maximum extent practicable, work with appropriate Federal agencies and other organizations to develop partnerships with, and receive input from, relevant organizations in Mexico to carry out the program.
 
->     “(e) __Grants and Cooperative Agreements.—__ 
+>     “(e)  __Grants and Cooperative Agreements__  __.—__ 
 
 >     The Secretary may provide grants or enter into cooperative agreements and other agreements with the water resources research institutes and other Participating State entities to carry out the program.
 
 > “SEC. 5. __IMPLEMENTATION OF PROGRAM.__ 
 
->     “(a) __Coordination With States, Tribes, and Other Entities.—__ 
+>     “(a)  __Coordination With States, Tribes, and Other Entities__  __.—__ 
 
 >     The Secretary shall coordinate the activities carried out under the program with—
 
@@ -195,17 +195,17 @@
 
 >         “(4) the IBWC, as appropriate.
 
->     “(b) __New Activity.—__ 
+>     “(b)  __New Activity__  __.—__ 
 
 >     After the date of enactment of this Act \[Dec. 22, 2006\], the Secretary shall not initiate any new field studies or analyses under the program before consulting with, and coordinating the activity with, any Participating State water resource agencies that have jurisdiction over the aquifer.
 
 >     “(c) __Study Plans; Cost Estimates.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall work closely with appropriate Participating State water resource agencies, water resources research institutes, and other relevant entities to develop a study plan, timeline, and cost estimate for each priority transboundary aquifer to be studied under the program.
 
->         “(2) __Requirements.—__ 
+>         “(2)  __Requirements__  __.—__ 
 
 >         A study plan developed under paragraph (1) shall, to the maximum extent practicable—
 
@@ -217,7 +217,7 @@
 
 > “SEC. 6. __EFFECT.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Nothing in this Act affects—
 
@@ -227,7 +227,7 @@
 
 >         “(3) State water law, or an interstate compact or international treaty governing water.
 
->     “(b) __Treaty.—__ 
+>     “(b)  __Treaty__  __.—__ 
 
 >     Nothing in this Act shall delay or alter the implementation or operation of any works constructed, modified, acquired, or used within the territorial limits of the United States relating to the waters governed by the Treaty Between the United States and Mexico Regarding Utilization of Waters of the Colorado and Tijuana Rivers and of the Rio Grande, Treaty Series 994 ([59 Stat. 1219][/us/stat/59/1219]).
 
@@ -243,15 +243,15 @@
 
 > “SEC. 8. __AUTHORIZATION OF APPROPRIATIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this Act $50,000,000 for the period of fiscal years 2007 through 2016.
 
->     “(b) __Distribution of Funds.—__ 
+>     “(b)  __Distribution of Funds__  __.—__ 
 
 >     Of the amounts made available under subsection (a), 50 percent shall be made available to the water resources research institutes to provide funding to appropriate entities in the Participating States (including Sandia National Laboratories, State agencies, universities, the Tri-Regional Planning Group, and other relevant organizations) and to implement cooperative agreements entered into with appropriate entities in Mexico to conduct specific authorized activities in furtherance of the program, including the binational collection and exchange of scientific data.
 
->     “(c) __Criteria.—__ 
+>     “(c)  __Criteria__  __.—__ 
 
 >     Funding provided to an appropriate entity in Mexico pursuant to subsection (b) shall be contingent on that entity providing 50 percent of the necessary resources (including in-kind services) to further assist in carrying out the authorized activity.
 

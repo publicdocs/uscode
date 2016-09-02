@@ -2901,11 +2901,11 @@
 
 [Pub. L. 110–173, title I, § 101(a)(2)(B)][/us/pl/110/173/s101/a/2/B], Dec. 29, 2007, [121 Stat. 2494][/us/stat/121/2494], provided that:
 
->     “(i) __In general.—__ 
+>     “(i)  __In general__  __.—__ 
 
 >     Subject to clause (ii), the amendments made by subparagraph (A) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 29, 2007\].
 
->     “(ii) __Special rule for coordination with consolidated appropriations act, 2008.—__ 
+>     “(ii)  __Special rule for coordination with consolidated appropriations act, 2008__  __.—__ 
 
 >     If the date of the enactment of the Consolidated Appropriations Act, 2008 \[Dec. 26, 2007\], occurs on or after the date described in clause (i), the amendments made by subparagraph (A) shall be deemed to be made on the day after the effective date of sections 225(c)(1) \[[121 Stat. 2190][/us/stat/121/2190]\] and 524 \[amending this section\] of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2008 (division G of the Consolidated Appropriations Act, 2008).”
 
@@ -3065,15 +3065,15 @@
 
 >     “(a) __Payment Adjustment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         For purposes of payment for services furnished under the physician fee schedule under section 1848 of the Social Security Act ([42 U.S.C. 1395w–4][/us/usc/t42/s1395w–4]) during the period beginning on July 1, 2008, and ending on February 29, 2012, the Secretary of Health and Human Services shall increase the fee schedule otherwise applicable for specified services by 5 percent.
 
->         “(2) __Nonapplication of budget-neutrality.—__ 
+>         “(2)  __Nonapplication of budget-neutrality__  __.—__ 
 
 >         The budget-neutrality provision of section 1848(c)(2)(B)(ii) of the Social Security Act ([42 U.S.C. 1395w–4(c)(2)(B)(ii)][/us/usc/t42/s1395w–4/c/2/B/ii]) shall not apply to the adjustments described in paragraph (1).
 
->     “(b) __Definition of Specified Services.—__ 
+>     “(b)  __Definition of Specified Services__  __.—__ 
 
 >     In this section, the term ‘specified services’ means procedure codes for services in the categories of the Health Care Common Procedure Coding System, established by the Secretary of Health and Human Services under section 1848(c)(5) of the Social Security Act ([42 U.S.C. 1395w–4(c)(5)][/us/usc/t42/s1395w–4/c/5]), as of July 1, 2007, and as subsequently modified by the Secretary, consisting of psychiatric therapeutic procedures furnished in office or other outpatient facility settings or in inpatient hospital, partial hospital, or residential care facility settings, but only with respect to such services in such categories that are in the subcategories of services which are—
 
@@ -3081,7 +3081,7 @@
 
 >         “(2) interactive psychotherapy.
 
->     “(c) __Implementation.—__ 
+>     “(c)  __Implementation__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Secretary may implement this section by program instruction or otherwise.”
 
@@ -3105,15 +3105,15 @@
 
 [Pub. L. 108–173, title III, § 303(a)(3)][/us/pl/108/173/s303/a/3], Dec. 8, 2003, [117 Stat. 2236][/us/stat/117/2236], provided that:
 
->     “(A) __Review of policy.—__ 
+>     “(A)  __Review of policy__  __.—__ 
 
 >     The Secretary \[of Health and Human Services\] shall review the policy, as in effect on October 1, 2003, with respect to payment under section 1848 of the Social Security Act ([42 U.S.C. 1395w–4][/us/usc/t42/s1395w–4]) for the administration of more than 1 drug or biological to an individual on a single day through the push technique.
 
->     “(B) __Modification of policy.—__ 
+>     “(B)  __Modification of policy__  __.—__ 
 
 >     After conducting the review under subparagraph (A), the Secretary shall modify such payment policy as the Secretary determines to be appropriate.
 
->     “(C) __Exemption from budget neutrality under physician fee schedule.—__ 
+>     “(C)  __Exemption from budget neutrality under physician fee schedule__  __.—__ 
 
 >     If the Secretary modifies such payment policy pursuant to subparagraph (B), any increased expenditures under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] resulting from such modification shall be treated as additional expenditures attributable to subparagraph (H) of section 1848(c)(2) of the Social Security Act ([42 U.S.C. 1395w–4(c)(2)][/us/usc/t42/s1395w–4/c/2]), as added by paragraph (1)(B), for purposes of applying the exemption to budget neutrality under subparagraph (B)(iv) of such section, as added by paragraph (1)(A).”
 
@@ -3121,11 +3121,11 @@
 
 [Pub. L. 108–173, title III, § 303(a)(4)][/us/pl/108/173/s303/a/4], Dec. 8, 2003, [117 Stat. 2237][/us/stat/117/2237], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     In order to provide for a transition during 2004 and 2005 to the payment system established under the amendments made by this section \[enacting sections 1395w–3a and 1395w–3b of this title, amending this section and sections 1395l, 1395u, 1395x, 1395y, and 1396r–8 of this title, and repealing provisions set out as a note under [section 1395u of this title][/us/usc/t42/s1395u]\], in the case of physicians’ services consisting of drug administration services described in subparagraph (H)(iv) of section 1848(c)(2) of the Social Security Act ([42 U.S.C. 1395w–4(c)(2)][/us/usc/t42/s1395w–4/c/2]), as added by paragraph (1)(B), furnished on or after January 1, 2004, and before January 1, 2006, in addition to the amount determined under the fee schedule under section 1848(b) of such Act ([42 U.S.C. 1395w–4(b)][/us/usc/t42/s1395w–4/b]) there also shall be paid to the physician from the Federal Supplementary Medical Insurance Trust Fund an amount equal to the applicable percentage specified in subparagraph (B) of such fee schedule amount for the services so determined.
 
->     “(B) __Applicable percentage.—__ 
+>     “(B)  __Applicable percentage__  __.—__ 
 
 >     The applicable percentage specified in this subparagraph for services furnished—
 
@@ -3137,7 +3137,7 @@
 
 [Pub. L. 108–173, title III, § 303(a)(5)][/us/pl/108/173/s303/a/5], Dec. 8, 2003, [117 Stat. 2237][/us/stat/117/2237], provided that:
 
->     “(A) __Review.—__ 
+>     “(A)  __Review__  __.—__ 
 
 >     The Medicare Payment Advisory Commission shall review the payment changes made under this section \[enacting sections 1395w–3a and 1395w–3b of this title, amending this section and sections 1395l, 1395u, 1395x, 1395y, and 1396r–8 of this title, enacting provisions set out as notes under this section and sections 1395u, 1395w–3a, and 1395w–3b of this title, and repealing provisions set out as a note under [section 1395u of this title][/us/usc/t42/s1395u]\] insofar as they affect payment under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\]—
 
@@ -3145,7 +3145,7 @@
 
 >         “(ii) for drug administration services furnished by other specialists.
 
->     “(B) __Other matters studied.—__ 
+>     “(B)  __Other matters studied__  __.—__ 
 
 >     In conducting the review under subparagraph (A), the Commission shall also review such changes as they affect—
 
@@ -3155,7 +3155,7 @@
 
 >         “(iii) the impact on physician practices.
 
->     “(C) __Reports.—__ 
+>     “(C)  __Reports__  __.—__ 
 
 >     The Commission shall submit to the Secretary \[of Health and Human Services\] and Congress—
 
@@ -3165,7 +3165,7 @@
 
 >         Each such report may include such recommendations regarding further adjustments in such payments as the Commission deems appropriate.
 
->     “(D) __Secretarial response.—__ 
+>     “(D)  __Secretarial response__  __.—__ 
 
 >     As part of the rulemaking with respect to payment for physicians services under section 1848 of the Social Security Act ([42 U.S.C. 1395w–4][/us/usc/t42/s1395w–4]) for 2007, the Secretary may make appropriate adjustments to payment for items and services described in subparagraph (A)(i), taking into account the report submitted under such subparagraph (C)(i).”
 
@@ -3185,7 +3185,7 @@
 
 [Pub. L. 108–173, title IV, § 413(c)][/us/pl/108/173/s413/c], Dec. 8, 2003, [117 Stat. 2277][/us/stat/117/2277], provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct a study of differences in payment amounts under the physician fee schedule under section 1848 of the Social Security Act ([42 U.S.C. 1395w–4][/us/usc/t42/s1395w–4]) for physicians’ services in different geographic areas. Such study shall include—
 
@@ -3203,7 +3203,7 @@
 
 >             “(ii) the mobility of physicians, including specialists, over the last decade.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\], the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1). The report shall include recommendations regarding the use of more current data in computing geographic cost of practice indices as well as the use of data directly representative of physicians’ costs (rather than proxy measures of such costs).”
 
@@ -3221,21 +3221,21 @@
 
 [Pub. L. 108–173, title VI, § 605][/us/pl/108/173/s605], Dec. 8, 2003, [117 Stat. 2302][/us/stat/117/2302], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than January 1, 2005, the Secretary \[of Health and Human Services\] shall, in collaboration with State and other appropriate organizations representing physicians, and other appropriate persons, review and consider alternative data sources than those currently used in establishing the geographic index for the practice expense component under the medicare physician fee schedule under section 1848(e)(1)(A)(i) of the Social Security Act ([42 U.S.C. 1395w–4(e)(1)(A)(i)][/us/usc/t42/s1395w–4/e/1/A/i]).
 
->     “(b) __Sites.—__ 
+>     “(b)  __Sites__  __.—__ 
 
 >     The Secretary shall select two physician payment localities in which to carry out subsection (a). One locality shall include rural areas and at least one locality shall be a statewide locality that includes both urban and rural areas.
 
 >     “(c) __Report and Recommendations.—__ 
 
->         “(1) __Report.—__ 
+>         “(1)  __Report__  __.—__ 
 
 >         Not later than January 1, 2006, the Secretary shall submit to Congress a report on the review and consideration conducted under subsection (a). Such report shall include information on the alternative developed data sources considered by the Secretary under subsection (a), including the accuracy and validity of the data as measures of the elements of the geographic index for practice expenses under the medicare physician fee schedule as well as the feasibility of using such alternative data nationwide in lieu of current proxy data used in such index, and the estimated impacts of using such alternative data.
 
->         “(2) __Recommendations.—__ 
+>         “(2)  __Recommendations__  __.—__ 
 
 >         The report submitted under paragraph (1) shall contain recommendations on which data sources reviewed and considered under subsection (a) are appropriate for use in calculating the geographic index for practice expenses under the medicare physician fee schedule.”
 
@@ -3243,7 +3243,7 @@
 
 [Pub. L. 108–173, title VI, § 606][/us/pl/108/173/s606], Dec. 8, 2003, [117 Stat. 2302][/us/stat/117/2302], provided that:
 
->     “(a) __Practice Expense Component.—__ 
+>     “(a)  __Practice Expense Component__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\], the Medicare Payment Advisory Commission shall submit to Congress a report on the effect of refinements to the practice expense component of payments for physicians’ services, after the transition to a full resource-based payment system in 2002, under section 1848 of the Social Security Act ([42 U.S.C. 1395w–4][/us/usc/t42/s1395w–4]). Such report shall examine the following matters by physician specialty:
 
@@ -3257,7 +3257,7 @@
 
 >         “(5) The effect of such refinements on physician participation under the medicare program.
 
->     “(b) __Volume of Physicians’ Services.—__ 
+>     “(b)  __Volume of Physicians’ Services__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\], the Medicare Payment Advisory Commission shall submit to Congress a report on the extent to which increases in the volume of physicians’ services under part B \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] of the medicare program are a result of care that improves the health and well-being of medicare beneficiaries. The study shall include the following:
 
@@ -3277,11 +3277,11 @@
 
 [Pub. L. 108–173, title VI, § 644][/us/pl/108/173/s644], Dec. 8, 2003, [117 Stat. 2323][/us/stat/117/2323], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Medicare Payment Advisory Commission (in this section referred to as the ‘Commission’) shall conduct a study on the practice expense relative values established by the Secretary of Health and Human Services under the medicare physician fee schedule under section 1848 of the Social Security Act ([42 U.S.C. 1395w–4][/us/usc/t42/s1395w–4]) for physicians in the specialties of thoracic and cardiac surgery to determine whether such values adequately take into account the attendant costs that such physicians incur in providing clinical staff for patient care in hospitals.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than January 1, 2005, the Commission shall submit to Congress a report on the study conducted under subsection (a) together with recommendations for such legislation or administrative action as the Commission determines to be appropriate.”
 
@@ -3295,19 +3295,19 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title V, § 542\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–550, as amended by [Pub. L. 108–173, title VII, § 732][/us/pl/108/173/s732], Dec. 8, 2003, [117 Stat. 2352][/us/stat/117/2352]; [Pub. L. 109–432, div. B, title I, § 104][/us/pl/109/432/s104], Dec. 20, 2006, [120 Stat. 2981][/us/stat/120/2981]; [Pub. L. 110–173, title I, § 104][/us/pl/110/173/s104], Dec. 29, 2007, [121 Stat. 2495][/us/stat/121/2495]; [Pub. L. 110–275, title I, § 136][/us/pl/110/275/s136], July 15, 2008, [122 Stat. 2540][/us/stat/122/2540]; [Pub. L. 111–148, title III, § 3104][/us/pl/111/148/s3104], Mar. 23, 2010, [124 Stat. 417][/us/stat/124/417]; [Pub. L. 111–309, title I, § 105][/us/pl/111/309/s105], Dec. 15, 2010, [124 Stat. 3287][/us/stat/124/3287]; [Pub. L. 112–78, title III, § 305][/us/pl/112/78/s305], Dec. 23, 2011, [125 Stat. 1284][/us/stat/125/1284]; [Pub. L. 112–96, title III, § 3006][/us/pl/112/96/s3006], Feb. 22, 2012, [126 Stat. 189][/us/stat/126/189], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     When an independent laboratory furnishes the technical component of a physician pathology service to a fee-for-service medicare beneficiary who is an inpatient or outpatient of a covered hospital, the Secretary of Health and Human Services shall treat such component as a service for which payment shall be made to the laboratory under section 1848 of the Social Security Act ([42 U.S.C. 1395w–4][/us/usc/t42/s1395w–4]) and not as an inpatient hospital service for which payment is made to the hospital under section 1886(d) of such Act ([42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]) or as an outpatient hospital service for which payment is made to the hospital under section 1833(t) of such Act ([42 U.S.C. 1395][/us/usc/t42/s1395]l(t)).
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
->         “(1) __Covered hospital.—__ 
+>         “(1)  __Covered hospital__  __.—__ 
 
 >         The term ‘covered hospital’ means, with respect to an inpatient or an outpatient, a hospital that had an arrangement with an independent laboratory that was in effect as of July 22, 1999, under which a laboratory furnished the technical component of physician pathology services to fee-for-service medicare beneficiaries who were hospital inpatients or outpatients, respectively, and submitted claims for payment for such component to a medicare carrier (that has a contract with the Secretary under section 1842 of the Social Security Act, [42 U.S.C. 1395u][/us/usc/t42/s1395u]) and not to such hospital.
 
->         “(2) __Fee-for-service medicare beneficiary.—__ 
+>         “(2)  __Fee-for-service medicare beneficiary__  __.—__ 
 
 >         The term ‘fee-for-service medicare beneficiary’ means an individual who—
 
@@ -3325,17 +3325,17 @@
 
 >                 “(iv) A social health maintenance organization (SHMO) demonstration project established under section 4018(b) of the Omnibus Budget Reconciliation Act of 1987 ([Public Law 100–203][/us/pl/100/203]) \[[101 Stat. 1330–65][/us/stat/101/1330-65]\].
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     This section shall apply to services furnished during the 2-year period beginning on January 1, 2001, and for services furnished during 2005, 2006, 2007, 2008, 2009, 2010, 2011, and the first six months of 2012.
 
 >     “(d) __GAO Report.—__ 
 
->         “(1) __Study.—__ 
+>         “(1)  __Study__  __.—__ 
 
 >         The Comptroller General of the United States shall conduct a study of the effects of the previous provisions of this section on hospitals and laboratories and access of fee-for-service medicare beneficiaries to the technical component of physician pathology services.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than April 1, 2002, the Comptroller General shall submit to Congress a report on such study. The report shall include recommendations about whether such provisions should be extended after the end of the period specified in subsection (c) for either or both inpatient and outpatient hospital services, and whether the provisions should be extended to other hospitals.”
 
@@ -3355,11 +3355,11 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title II, § 212\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–350, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Health and Human Services shall establish by regulation (after notice and opportunity for public comment) a process (including data collection standards) under which the Secretary will accept for use and will use, to the maximum extent practicable and consistent with sound data practices, data collected or developed by entities and organizations (other than the Department of Health and Human Services) to supplement the data normally collected by that Department in determining the practice expense component under section 1848(c)(2)(C)(ii) of the Social Security Act ([42 U.S.C. 1395w–4(c)(2)(C)(ii)][/us/usc/t42/s1395w–4/c/2/C/ii]) for purposes of determining relative values for payment for physicians’ services under the fee schedule under section 1848 of such Act ([42 U.S.C. 1395w–4][/us/usc/t42/s1395w–4]). The Secretary shall first promulgate such regulation on an interim final basis in a manner that permits the submission and use of data in the computation of practice expense relative value units for payment rates for 2001.
 
->     “(b) __Publication of Information.—__ 
+>     “(b)  __Publication of Information__  __.—__ 
 
 >     The Secretary shall include, in the publication of the estimated and final updates under section 1848(c) of such Act ([42 U.S.C. 1395w–4(c)][/us/usc/t42/s1395w–4/c]) for payments for 2001 and for 2002, a description of the process established under subsection (a) for the use of external data in making adjustments in relative value units and the extent to which the Secretary has used such external data in making such adjustments for each such year, particularly in cases in which the data otherwise used are inadequate because such data are not based upon a large enough sample size to be statistically reliable.”
 
@@ -3383,11 +3383,11 @@
 
 [Pub. L. 103–432, title I, § 121(a)][/us/pl/103/432/s121/a], Oct. 31, 1994, [108 Stat. 4408][/us/stat/108/4408], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Health and Human Services shall develop a methodology for implementing in 1998 a resource-based system for determining practice expense relative value units for each physicians’ service. The methodology utilized shall recognize the staff, equipment, and supplies used in the provision of various medical and surgical services in various settings.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     The Secretary shall transmit a report by June 30, 1996, on the methodology developed under paragraph (1) to the Committees on Ways and Means and Energy and Commerce of the House of Representatives and the Committee on Finance of the Senate. The report shall include a presentation of data utilized in developing the methodology and an explanation of the methodology.”
 
@@ -3441,7 +3441,7 @@
 
 [Pub. L. 101–508, title IV, § 4115][/us/pl/101/508/s4115], Nov. 5, 1990, [104 Stat. 1388–65][/us/stat/104/1388-65], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Secretary of Health and Human Services shall conduct a study of—
 
@@ -3453,7 +3453,7 @@
 
 >         “(4) appropriate adjustments or modifications in the transition to, or manner of determining payments under, the fee schedule established under section 1848 of the Social Security Act, to compensate for such variations and ensure continued access to physicians’ services for Medicare beneficiaries in such areas.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     By not later than July 1, 1992, the Secretary shall submit to Congress a report on the study conducted under subsection (a).”
 

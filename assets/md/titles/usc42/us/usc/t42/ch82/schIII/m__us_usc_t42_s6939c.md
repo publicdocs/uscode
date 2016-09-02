@@ -149,11 +149,11 @@
 
 [Pub. L. 102–386, title I, § 105(c)][/us/pl/102/386/s105/c], Oct. 6, 1992, [106 Stat. 1512][/us/stat/106/1512], provided that:
 
->     “(1) __Requirement.—__ 
+>     “(1)  __Requirement__  __.—__ 
 
 >     Not later than 18 months after the date of the enactment of this Act \[Oct. 6, 1992\], the Comptroller General shall submit to Congress a report on the Department of Energy’s progress in complying with section 3021(b) of the Solid Waste Disposal Act \[[42 U.S.C. 6939c(b)][/us/usc/t42/s6939c/b]\].
 
->     “(2) __Matters to be included.—__ 
+>     “(2)  __Matters to be included__  __.—__ 
 
 >     The report required under paragraph (1) shall contain, at a minimum, the following:
 

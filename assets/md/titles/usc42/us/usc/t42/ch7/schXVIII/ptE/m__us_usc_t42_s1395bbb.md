@@ -323,21 +323,21 @@
 
 >     “(a) __Treatment of Branch Offices.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law, in determining for purposes of title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] whether an office of a home health agency constitutes a branch office or a separate home health agency, neither the time nor distance between a parent office of the home health agency and a branch office shall be the sole determinant of a home health agency’s branch office status.
 
->         “(2) __Consideration of forms of technology in definition of supervision.—__ 
+>         “(2)  __Consideration of forms of technology in definition of supervision__  __.—__ 
 
 >         The Secretary of Health and Human Services may include forms of technology in determining what constitutes ‘supervision’ for purposes of determining a home heath \[sic\] agency’s branch office status under paragraph (1).
 
 >     “(b) __GAO Study.—__ 
 
->         “(1) __Study.—__ 
+>         “(1)  __Study__  __.—__ 
 
 >         The Comptroller General of the United States shall conduct a study of the provision of adequate supervision to maintain quality of home health services delivered under the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] in isolated rural areas. The study shall evaluate the methods that home health agency branches and subunits use to maintain adequate supervision in the delivery of services to clients residing in those areas, how these methods of supervision compare to requirements that subunits independently meet medicare conditions of participation, and the resources utilized by subunits to meet such conditions.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than January 1, 2002, the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1). The report shall include recommendations on whether exceptions are needed for subunits and branches of home health agencies under the medicare program to maintain access to the home health benefit or whether alternative policies should be developed to assure adequate supervision and access and recommendations on whether a national standard for supervision is appropriate.”
 

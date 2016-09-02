@@ -51,7 +51,7 @@
 
 > “SEC. 6302. __ASSISTANCE TO HOUSING ASSISTANCE COUNCIL.__ 
 
->     “(a) __Use.—__ 
+>     “(a)  __Use__  __.—__ 
 
 >     The Secretary of Housing and Urban Development may provide financial assistance to the Housing Assistance Council for use by the Council to develop the ability and capacity of community-based housing development organizations to undertake community development and affordable housing projects and programs in rural areas. Assistance provided by the Secretary under this section may be used by the Housing Assistance Council for—
 
@@ -61,7 +61,7 @@
 
 >         “(3) such other activities as may be determined by the Secretary of Housing and Urban Development and the Housing Assistance Council.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated for financial assistance under this section for the Housing Assistance Council $10,000,000 for each of fiscal years 2009 through 2011.
 
@@ -69,11 +69,11 @@
 
 >     “(a) __Audit.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The financial transactions and activities of the Housing Assistance Council shall be audited annually by an independent certified public accountant or an independent licensed public accountant certified or licensed by a regulatory authority of a State or other political subdivision of the United States.
 
->         “(2) __Requirements of audits.—__ 
+>         “(2)  __Requirements of audits__  __.—__ 
 
 >         The Comptroller General of the United States may rely on any audit completed under paragraph (1), if the audit complies with—
 
@@ -81,11 +81,11 @@
 
 >             “(B) generally accepted government auditing standards.
 
->         “(3) __Report to congress.—__ 
+>         “(3)  __Report to congress__  __.—__ 
 
 >         The Comptroller General shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representative a report detailing each audit completed under paragraph (1).
 
->     “(b) __GAO Report.—__ 
+>     “(b) __GAO__  __Report__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct a study and submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representative on the use of any funds appropriated to the Housing Assistance Council over the past 7 years.
 

@@ -103,7 +103,7 @@
 
 [Pub. L. 105–85, div. C, title XXXII, § 3202][/us/pl/105/85/s3202], Nov. 18, 1997, [111 Stat. 2054][/us/stat/111/2054], provided that:
 
->     “(a) __Reporting Requirement.—__ 
+>     “(a)  __Reporting Requirement__  __.—__ 
 
 >     The Defense Nuclear Facilities Safety Board (in this section referred to as the ‘Board’) shall prepare a report and make recommendations on its role in the Department of Energy’s decision to establish external regulation of defense nuclear facilities. The report shall include the following:
 
@@ -149,15 +149,15 @@
 
 >         “(16) A comparison of the cost, as identified by the Nuclear Regulatory Commission, that would be incurred at a gaseous diffusion plant to comply with regulations issued by the Nuclear Regulatory Commission, with the cost that would be incurred by a gaseous diffusion plant if such a plant was considered to be a Department of Energy defense nuclear facility as defined by chapter 21 of the Atomic Energy Act of 1954 ([42 U.S.C. 2286][/us/usc/t42/s2286] et seq.).
 
->     “(b) __Comments on Report.—__ 
+>     “(b)  __Comments on Report__  __.—__ 
 
 >     Before submission of the report to Congress under subsection (c), the Board shall transmit the report to the Secretary of Energy and the Nuclear Regulatory Commission. The Secretary and the Commission shall provide their comments on the report to both the Board and to Congress.
 
->     “(c) __Submission to Congress.—__ 
+>     “(c)  __Submission to Congress__  __.—__ 
 
 >     Not later than six months after the date of the enactment of this Act \[Nov. 18, 1997\], the Board shall provide to Congress an interim report on the status of the implementation of this section. Not later than one year after the date of the enactment of this Act, and not earlier than 30 days after receipt of comments from the Secretary of Energy and the Nuclear Regulatory Commission under subsection (b), the Board shall submit to Congress the report required under subsection (a).
 
->     “(d) __Definition.—__ 
+>     “(d)  __Definition__  __.—__ 
 
 >     In this section, the term ‘Department of Energy defense nuclear facility’ has the meaning provided by section 318 of the Atomic Energy Act of 1954 ([42 U.S.C. 2286g][/us/usc/t42/s2286g]).”
 

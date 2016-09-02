@@ -133,7 +133,7 @@
 
 [Pub. L. 112–141, div. F, title II, § 100226][/us/pl/112/141/s100226], July 6, 2012, [126 Stat. 942][/us/stat/126/942], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section—
 
@@ -145,13 +145,13 @@
 
 >     “(b) __Establishment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Administrator and the Secretary of the Army, acting through the Chief of Engineers, in cooperation with the National Committee on Levee Safety, shall jointly establish a Flood Protection Structure Accreditation Task Force.
 
 >         “(2) __Duties.—__ 
 
->             “(A) __Developing process.—__ 
+>             “(A)  __Developing process__  __.—__ 
 
 >             The task force shall develop a process to better align the information and data collected by or for the Corps of Engineers under the Inspection of Completed Works Program with the flood protection structure accreditation requirements so that—
 
@@ -159,11 +159,11 @@
 
 >                 “(ii) information and data collected by or for the Corps of Engineers under the Inspection of Completed Works Program is sufficient to satisfy the flood protection structure accreditation requirements.
 
->             “(B) __Gathering recommendations.—__ 
+>             “(B)  __Gathering recommendations__  __.—__ 
 
 >             The task force shall gather, and consider in the process developed under subparagraph (A), recommendations from interested persons in each region relating to the information, data, and accreditation requirements described in subparagraph (A).
 
->         “(3) __Considerations.—__ 
+>         “(3)  __Considerations__  __.—__ 
 
 >         In developing the process under paragraph (2), the task force shall consider changes to—
 
@@ -171,15 +171,15 @@
 
 >             “(B) the flood protection structure accreditation requirements.
 
->         “(4) __Rule of construction.—__ 
+>         “(4)  __Rule of construction__  __.—__ 
 
 >         Nothing in this section shall be construed to require a reduction in the level of public safety and flood control provided by accredited levees, as determined by the Administrator for purposes of this section.
 
->     “(c) __Implementation.—__ 
+>     “(c)  __Implementation__  __.—__ 
 
 >     The Administrator and the Secretary of the Army, acting through the Chief of Engineers, shall implement the process developed by the task force under subsection (b) not later than 1 year after the date of enactment of this Act \[July 6, 2012\] and shall complete the process under subsection (b) not later than 2 years after the date of enactment of this Act.
 
->     “(d) __Reports.—__ 
+>     “(d)  __Reports__  __.—__ 
 
 >     The Administrator and the Secretary of the Army, acting through the Chief of Engineers, in cooperation with the National Committee on Levee Safety, shall jointly submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on Environment and Public Works of the Senate and the Committee on Financial Services, the Committee on Transportation and Infrastructure, and the Committee on Natural Resources of the House of Representatives reports concerning the activities of the task force and the implementation of the process developed by the task force under subsection (b), including—
 
@@ -187,7 +187,7 @@
 
 >         “(2) a final report, not later than 1 year after the date of enactment of this Act.
 
->     “(e) __Termination.—__ 
+>     “(e)  __Termination__  __.—__ 
 
 >     The task force shall terminate on the date of submission of the report under subsection (d)(2).”
 

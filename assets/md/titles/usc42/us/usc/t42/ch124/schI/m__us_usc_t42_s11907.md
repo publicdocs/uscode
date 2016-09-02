@@ -47,7 +47,7 @@
 
 [Pub. L. 105–276, title V, § 587][/us/pl/105/276/s587], Oct. 21, 1998, [112 Stat. 2650][/us/stat/112/2650], provided that:
 
->     “(a) __Requirement.—__ 
+>     “(a)  __Requirement__  __.—__ 
 
 >     The Secretary of Housing and Urban Development shall investigate all security contracts awarded by grantees under the Public and Assisted Housing Drug Elimination Act of 1990 ([42 U.S.C. 11901][/us/usc/t42/s11901] et seq.) that are public housing agencies that own or operate more than 4,500 public housing dwelling units—
 
@@ -59,11 +59,11 @@
 
 >         “(4) to evaluate the effectiveness of the contracts.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary shall complete the investigation required under subsection (a) and submit a report to the Congress regarding the findings under the investigation. With respect to each such contract, the report shall (1) state whether the contract was made and is operating, or was not made or is not operating, in full compliance with applicable laws and regulations, and (2) for each contract that the Secretary determines is in such compliance issue a certification of such compliance by the Secretary of Housing and Urban Development.
 
->     “(c) __Actions.—__ 
+>     “(c)  __Actions__  __.—__ 
 
 >     For each contract that is described in the report under subsection (b) as not made or not operating in full compliance with applicable laws and regulations, the Secretary of Housing and Urban Development shall promptly take any actions available under law or regulation that are necessary—
 
@@ -71,7 +71,7 @@
 
 >         “(2) to terminate the contract.
 
->     “(d) __Effective Date.—__ 
+>     “(d)  __Effective Date__  __.—__ 
 
 >     This section shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].”
 

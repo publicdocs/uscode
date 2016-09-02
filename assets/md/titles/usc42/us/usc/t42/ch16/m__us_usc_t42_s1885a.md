@@ -179,7 +179,7 @@
 
 > “SEC. 5. __MEMBERSHIP.__ 
 
->     “(a) __Number and Appointment.—__ 
+>     “(a)  __Number and Appointment__  __.—__ 
 
 >     The Commission shall be composed of 11 members as follows:
 
@@ -197,41 +197,41 @@
 
 >         “(7) Two members appointed by the Vice Chairman of the National Governors Association from among such individuals.
 
->     “(b) __Initial Appointments.—__ 
+>     “(b)  __Initial Appointments__  __.—__ 
 
 >     Initial appointments shall be made under subsection (a) not later than 90 days after the date of the enactment of this Act \[Oct. 14, 1998\].
 
 >     “(c) __Terms.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Each member shall be appointed for the life of the Commission.
 
->         “(2) __Vacancies.—__ 
+>         “(2)  __Vacancies__  __.—__ 
 
 >         A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
 
->     “(d) __Pay of Members.—__ 
+>     “(d)  __Pay of Members__  __.—__ 
 
 >     Members shall not be paid by reason of their service on the Commission.
 
->     “(e) __Travel Expenses.—__ 
+>     “(e)  __Travel Expenses__  __.—__ 
 
 >     Each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code.
 
->     “(f) __Quorum.—__ 
+>     “(f)  __Quorum__  __.—__ 
 
 >     A majority of the members of the Commission shall constitute a quorum for the transaction of business.
 
->     “(g) __Chairperson.—__ 
+>     “(g)  __Chairperson__  __.—__ 
 
 >     The Chairperson of the Commission shall be elected by the members.
 
->     “(h) __Meetings.—__ 
+>     “(h)  __Meetings__  __.—__ 
 
 >     The Commission shall meet not fewer than 5 times in connection with and pending the completion of the report described in section 8. The Commission shall hold additional meetings for such purpose if the Chairperson or a majority of the members of the Commission requests the additional meetings in writing.
 
->     “(i) __Employment Status.—__ 
+>     “(i)  __Employment Status__  __.—__ 
 
 >     Members of the Commission shall not be deemed to be employees of the Federal Government by reason of their work on the Commission except for the purposes of—
 
@@ -241,49 +241,49 @@
 
 > “SEC. 6. __DIRECTOR AND STAFF OF COMMISSION; EXPERTS AND CONSULTANTS.__ 
 
->     “(a) __Director.—__ 
+>     “(a)  __Director__  __.—__ 
 
 >     The Commission shall appoint a Director who shall be paid at a rate not to exceed the maximum annual rate of basic pay payable under [section 5376 of title 5][/us/usc/t5/s5376], United States Code.
 
->     “(b) __Staff.—__ 
+>     “(b)  __Staff__  __.—__ 
 
 >     The Commission may appoint and fix the pay of additional personnel as the Commission considers appropriate.
 
->     “(c) __Applicability of Certain Civil Service Laws.—__ 
+>     “(c)  __Applicability of Certain Civil Service Laws__  __.—__ 
 
 >     The Director and staff of the Commission may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates, except that an individual so appointed may not receive pay in excess of the maximum annual rate of basic pay payable under [section 5376 of title 5][/us/usc/t5/s5376], United States Code.
 
->     “(d) __Experts and Consultants.—__ 
+>     “(d)  __Experts and Consultants__  __.—__ 
 
 >     The Commission may procure temporary and intermittent services under [section 3109(b) of title 5][/us/usc/t5/s3109/b], United States Code, at rates for individuals not to exceed the maximum annual rate of basic pay payable under [section 5376 of title 5][/us/usc/t5/s5376], United States Code.
 
->     “(e) __Staff of Federal Agencies.—__ 
+>     “(e)  __Staff of Federal Agencies__  __.—__ 
 
 >     Upon request of the Commission, the Director of the National Science Foundation or the head of any other Federal department or agency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Commission to assist it in carrying out its duties under this Act.
 
 > “SEC. 7. __POWERS OF COMMISSION.__ 
 
->     “(a) __Hearings and Sessions.—__ 
+>     “(a)  __Hearings and Sessions__  __.—__ 
 
 >     The Commission may, for the purpose of carrying out this Act, hold hearings, sit and act at times and places, take testimony, and receive evidence as the Commission considers appropriate. The Commission may administer oaths or affirmations to witnesses appearing before it.
 
->     “(b) __Powers of Members and Agents.—__ 
+>     “(b)  __Powers of Members and Agents__  __.—__ 
 
 >     Any member or agent of the Commission may, if authorized by the Commission, take any action which the Commission is authorized to take by this section.
 
->     “(c) __Obtaining Official Data.—__ 
+>     “(c)  __Obtaining Official Data__  __.—__ 
 
 >     The Commission may secure directly from any department or agency of the United States information necessary to enable it to carry out this Act. Upon request of the Chairperson of the Commission, the head of that department or agency shall furnish that information to the Commission.
 
->     “(d) __Mails.—__ 
+>     “(d)  __Mails__  __.—__ 
 
 >     The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
 
->     “(e) __Administrative Support Services.—__ 
+>     “(e)  __Administrative Support Services__  __.—__ 
 
 >     Upon the request of the Commission, the Administrator of General Services shall provide to the Commission, on a reimbursable basis, the administrative support services necessary for the Commission to carry out its responsibilities under this Act.
 
->     “(f) __Contract Authority.—__ 
+>     “(f)  __Contract Authority__  __.—__ 
 
 >     To the extent provided in advance in appropriations Acts, the Commission may contract with and compensate Government and private agencies or persons for the purpose of conducting research or surveys necessary to enable the Commission to carry out its duties under this Act.
 
@@ -293,27 +293,27 @@
 
 > “SEC. 9. __CONSTRUCTION; USE OF INFORMATION OBTAINED.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Nothing in this Act shall be construed to require any non-Federal entity (such as a business, college or university, foundation, or research organization) to provide information to the Commission concerning such entity’s personnel policies, including salaries and benefits, promotion criteria, and affirmative action plans.
 
->     “(b) __Use of Information Obtained.—__ 
+>     “(b)  __Use of Information Obtained__  __.—__ 
 
 >     No information obtained from any entity by the Commission may be used in connection with any employment related litigation.
 
 > “SEC. 10. __TERMINATION; ACCESS TO INFORMATION.__ 
 
->     “(a) __Termination.—__ 
+>     “(a)  __Termination__  __.—__ 
 
 >     The Commission shall terminate 30 days after submitting the report required by section 8.
 
->     “(b) __Access to Information.—__ 
+>     “(b)  __Access to Information__  __.—__ 
 
 >     On or before the date of the termination of the Commission under subsection (a), the Commission shall provide to the National Science Foundation the information gathered by the Commission in the process of carrying out its duties under this Act. The National Science Foundation shall act as a central repository for such information and shall make such information available to the public, including making such information available through the Internet.
 
 > “SEC. 11. __REVIEW OF INFORMATION PROVIDED BY THE NATIONAL SCIENCE FOUNDATION AND OTHER AGENCIES.__ 
 
->     “(a) __Provision of Information.—__ 
+>     “(a)  __Provision of Information__  __.—__ 
 
 >     At the request of the Commission, the National Science Foundation and any other Federal department or agency shall provide to the Commission any information determined necessary by the Commission to carry out its duties under this Act, including—
 
@@ -321,7 +321,7 @@
 
 >         “(2) information gathered by the National Science Foundation in the process of compiling its biennial report on Women, Minorities, and Persons with Disabilities in Science and Engineering.
 
->     “(b) __Review of Information.—__ 
+>     “(b)  __Review of Information__  __.—__ 
 
 >     The Commission shall review any information provided under subsection (a) and shall include in the report required under section 8—
 

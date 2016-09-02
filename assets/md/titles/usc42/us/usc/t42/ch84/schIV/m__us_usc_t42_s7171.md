@@ -85,19 +85,19 @@
 
 [Pub. L. 101–549, title VIII, § 808][/us/pl/101/549/s808], Nov. 15, 1990, [104 Stat. 2690][/us/stat/104/2690], provided that:
 
->     “(a) __Definition.—__ 
+>     “(a)  __Definition__  __.—__ 
 
 >     For purposes of this section, ‘renewable energy’ means energy from photovoltaic, solar thermal, wind, geothermal, and biomass energy production technologies.
 
->     “(b) __Rate Incentives Study.—__ 
+>     “(b)  __Rate Incentives Study__  __.—__ 
 
 >     Within 18 months after enactment \[Nov. 15, 1990\], the Federal Energy Regulatory Commission, in consultation with the Environmental Protection Agency, shall complete a study which calculates the net environmental benefits of renewable energy, compared to nonrenewable energy, and assigns numerical values to them. The study shall include, but not be limited to, environmental impacts on air, water, land use, water use, human health, and waste disposal.
 
->     “(c) __Model Regulations.—__ 
+>     “(c)  __Model Regulations__  __.—__ 
 
 >     In conjunction with the study in subsection (b), the Commission shall propose one or more models for incorporating the net environmental benefits into the regulatory treatment of renewable energy in order to provide economic compensation for those benefits.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     The Commission shall transmit the study and the model regulations to Congress, along with any recommendations on the best ways to reward renewable energy technologies for their environmental benefits, in a report no later than 24 months after enactment \[Nov. 15, 1990\].”
 

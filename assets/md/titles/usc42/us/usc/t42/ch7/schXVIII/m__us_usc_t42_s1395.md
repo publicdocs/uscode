@@ -27,11 +27,11 @@
 
 [Pub. L. 111–148, title III, § 3601][/us/pl/111/148/s3601], Mar. 23, 2010, [124 Stat. 538][/us/stat/124/538], provided that:
 
->     “(a) __Protecting Guaranteed Medicare Benefits.—__ 
+>     “(a)  __Protecting Guaranteed Medicare Benefits__  __.—__ 
 
 >     Nothing in the provisions of, or amendments made by, this Act \[see Short Title note set out under [section 18001 of this title][/us/usc/t42/s18001]\] shall result in a reduction of guaranteed benefits under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].
 
->     “(b) __Ensuring That Medicare Savings Benefit the Medicare Program and Medicare Beneficiaries.—__ 
+>     “(b)  __Ensuring That Medicare Savings Benefit the Medicare Program and Medicare Beneficiaries__  __.—__ 
 
 >     Savings generated for the Medicare program under title XVIII of the Social Security Act under the provisions of, and amendments made by, this Act shall extend the solvency of the Medicare trust funds, reduce Medicare premiums and other cost-sharing for beneficiaries, and improve or expand guaranteed Medicare benefits and protect access to Medicare providers.”
 

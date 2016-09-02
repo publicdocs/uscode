@@ -363,11 +363,11 @@
 
 [Pub. L. 108–173, title VI, § 625(b)][/us/pl/108/173/s625/b], Dec. 8, 2003, [117 Stat. 2318][/us/stat/117/2318], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     In the case of any individual who, as of the date of the enactment of this Act \[Dec. 8, 2003\], is eligible to enroll but is not enrolled under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] and is a covered beneficiary (as defined in [section 1072(5) of title 10][/us/usc/t10/s1072/5], United States Code), the Secretary of Health and Human Services shall provide for a special enrollment period during which the individual may enroll under such part. Such period shall begin as soon as possible after the date of the enactment of this Act and shall end on December 31, 2004.
 
->     “(2) __Coverage period.—__ 
+>     “(2)  __Coverage period__  __.—__ 
 
 >     In the case of an individual who enrolls during the special enrollment period provided under paragraph (1), the coverage period under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] shall begin on the first day of the month following the month in which the individual enrolls.”
 

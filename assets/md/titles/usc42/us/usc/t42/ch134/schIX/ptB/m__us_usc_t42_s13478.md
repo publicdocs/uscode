@@ -141,15 +141,15 @@
 
         (4) __Solicitation and selection of proposals.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Within 15 months after October 24, 1992, and as often thereafter as appropriate, the Secretary and the Director shall, in consultation with the Interagency Committee, solicit and select proposals to conduct activities under the program.
 
-            (B) __Consultation with advisory committee.—__ 
+            (B)  __Consultation with advisory committee__  __.—__ 
 
             In preparing solicitations for proposals to conduct activities, the Secretary and the Director shall consult with the Advisory Committee.
 
-            (C) __Peer review panels.—__ 
+            (C)  __Peer review panels__  __.—__ 
 
             Before a proposal to conduct activities under the program may be selected by the Secretary or the Director, such proposal must be submitted to, and evaluated by, at least one scientific and technical peer review panel.
 

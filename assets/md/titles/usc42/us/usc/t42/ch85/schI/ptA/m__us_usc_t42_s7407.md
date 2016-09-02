@@ -231,7 +231,7 @@
 
 >     “(d) The Administrator shall promulgate the designations referred to in section 107(d)(1) of the Clean Air Act \[[42 U.S.C. 7407(d)(1)][/us/usc/t42/s7407/d/1]\] for each area following promulgation of the July 1997 PM2.5 national ambient air quality standard by the earlier of 1 year after the initial designations required under subsection (c)(1) are required to be submitted or December 31, 2005.
 
->     “(e) __Field Study.—__ 
+>     “(e)  __Field Study__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of the SAFETEA–LU \[Aug. 10, 2005\], the Administrator shall—
 

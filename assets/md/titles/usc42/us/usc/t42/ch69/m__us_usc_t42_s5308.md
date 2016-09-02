@@ -285,7 +285,7 @@
 
 [Pub. L. 101–625, title IX, § 910(a)][/us/pl/101/625/s910/a], Nov. 28, 1990, [104 Stat. 4389][/us/stat/104/4389], provided that:
 
->     “(1) __Purposes.—__ 
+>     “(1)  __Purposes__  __.—__ 
 
 >     The purposes of the amendments made by this section \[amending this section and [section 5313 of this title][/us/usc/t42/s5313]\] are—
 
@@ -293,7 +293,7 @@
 
 >         “(B) to promote revitalization and development projects undertaken by local governments that principally benefit persons of low and moderate income, the elimination of slums and blight, and to meet urgent community needs, with special priority for projects located in areas designated as enterprise zones by the Federal Government or by any State.
 
->     “(2) __Objectives.—__ 
+>     “(2)  __Objectives__  __.—__ 
 
 >     In order to further the purpose described in paragraph (1), activities undertaken pursuant to the amendments made by this section shall be directed toward meeting the objectives set forth in sections 101(c) and 104(b)(3) of the Housing and Community Development Act of 1974 ([42 U.S.C. 5301(c)][/us/usc/t42/s5301/c] and 5304(b)(3)) and the additional objectives of—
 

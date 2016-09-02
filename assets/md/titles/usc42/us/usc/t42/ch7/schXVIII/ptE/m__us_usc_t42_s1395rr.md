@@ -791,11 +791,11 @@
 
 [Pub. L. 112–240, title VI, § 632(b)][/us/pl/112/240/s632/b], Jan. 2, 2013, [126 Stat. 2354][/us/stat/126/2354], provided that:
 
->     “(1) __Delay.—__ 
+>     “(1)  __Delay__  __.—__ 
 
 >     The Secretary of Health and Human Services may not implement the policy under section 413.174(f)(6) of title 42, Code of Federal Regulations (relating to oral-only ESRD-related drugs in the ESRD prospective payment system), prior to January 1, 2016.
 
->     “(2) __Monitoring.—__ 
+>     “(2)  __Monitoring__  __.—__ 
 
 >     With respect to the implementation of oral-only ESRD-related drugs in the ESRD prospective payment system under subsection (b)(14) of section 1881 of the Social Security Act ([42 U.S.C. 1395rr(b)(14)][/us/usc/t42/s1395rr/b/14]), the Secretary of Health and Human Services shall monitor the bone and mineral metabolism of individuals with end stage renal disease.”
 
@@ -813,21 +813,21 @@
 
 [Pub. L. 108–173, title VI, § 623(c)][/us/pl/108/173/s623/c], Dec. 8, 2003, [117 Stat. 2312][/us/stat/117/2312], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Inspector General of the Department of Health and Human Services shall conduct two studies with respect to drugs and biologicals (including erythropoietin) furnished to end-stage renal disease patients under the medicare program which are separately billed by end stage renal disease facilities.
 
 >     “(2) __Studies on esrd drugs.—__ 
 
->         “(A) __Existing drugs.—__ 
+>         “(A)  __Existing drugs__  __.—__ 
 
 >         The first study under paragraph (1) shall be conducted with respect to such drugs and biologicals for which a billing code exists prior to January 1, 2004.
 
->         “(B) __New drugs.—__ 
+>         “(B)  __New drugs__  __.—__ 
 
 >         The second study under paragraph (1) shall be conducted with respect to such drugs and biologicals for which a billing code does not exist prior to January 1, 2004.
 
->     “(3) __Matters studied.—__ 
+>     “(3)  __Matters studied__  __.—__ 
 
 >     Under each study conducted under paragraph (1), the Inspector General shall—
 
@@ -837,11 +837,11 @@
 
 >     “(4) __Reports.—__ 
 
->         “(A) __Existing esrd drugs.—__ 
+>         “(A)  __Existing esrd drugs__  __.—__ 
 
 >         Not later than April 1, 2004, the Inspector General shall report to the Secretary \[of Health and Human Services\] on the study described in paragraph (2)(A).
 
->         “(B) __New esrd drugs.—__ 
+>         “(B)  __New esrd drugs__  __.—__ 
 
 >         Not later than April 1, 2006, the Inspector General shall report to the Secretary on the study described in paragraph (2)(B).”
 
@@ -855,43 +855,43 @@
 
 >     “(1) __Report.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Not later than October 1, 2005, the Secretary \[of Health and Human Services\] shall submit to Congress a report detailing the elements and features for the design and implementation of a bundled prospective payment system for services furnished by end stage renal disease facilities including, to the maximum extent feasible, bundling of drugs, clinical laboratory tests, and other items that are separately billed by such facilities. The report shall include a description of the methodology to be used for the establishment of payment rates, including components of the new system described in paragraph (2).
 
->         “(B) __Recommendations.—__ 
+>         “(B)  __Recommendations__  __.—__ 
 
 >         The Secretary shall include in such report recommendations on elements, features, and methodology for a bundled prospective payment system or other issues related to such system as the Secretary determines to be appropriate.
 
->     “(2) __Elements and features of a bundled prospective payment system.—__ 
+>     “(2)  __Elements and features of a bundled prospective payment system__  __.—__ 
 
 >     The report required under paragraph (1) shall include the following elements and features of a bundled prospective payment system:
 
->         “(A) __Bundle of items and services.—__ 
+>         “(A)  __Bundle of items and services__  __.—__ 
 
 >         A description of the bundle of items and services to be included under the prospective payment system.
 
->         “(B) __Case mix.—__ 
+>         “(B)  __Case mix__  __.—__ 
 
 >         A description of the case-mix adjustment to account for the relative resource use of different types of patients.
 
->         “(C) __Wage index.—__ 
+>         “(C)  __Wage index__  __.—__ 
 
 >         A description of an adjustment to account for geographic differences in wages.
 
->         “(D) __Rural areas.—__ 
+>         “(D)  __Rural areas__  __.—__ 
 
 >         The appropriateness of establishing a specific payment adjustment to account for additional costs incurred by rural facilities.
 
->         “(E) __Other adjustments.—__ 
+>         “(E)  __Other adjustments__  __.—__ 
 
 >         Such other adjustments as may be necessary to reflect the variation in costs incurred by facilities in caring for patients with end stage renal disease.
 
->         “(F) __Update framework.—__ 
+>         “(F)  __Update framework__  __.—__ 
 
 >         A methodology for appropriate updates under the prospective payment system.
 
->         “(G) __Additional recommendations.—__ 
+>         “(G)  __Additional recommendations__  __.—__ 
 
 >         Such other matters as the Secretary determines to be appropriate.”
 
@@ -899,19 +899,19 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IV, § 422(a)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–516, as amended by [Pub. L. 108–173, title VI, § 623(b)(1)][/us/pl/108/173/s623/b/1], Dec. 8, 2003 [117 Stat. 2312][/us/stat/117/2312], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Subject to subparagraphs (B), (C), and (D), the Secretary of Health and Human Services may not provide for an exception under section 1881(b)(7) of the Social Security Act ([42 U.S.C. 1395rr(b)(7)][/us/usc/t42/s1395rr/b/7]) on or after December 31, 2000.
 
->     “(B) __Deadline for new applications.—__ 
+>     “(B)  __Deadline for new applications__  __.—__ 
 
 >     Subject to subparagraph (D), in the case of a facility that during 2000 did not file for an exception rate under such section, the facility may submit an application for an exception rate by not later than July 1, 2001.
 
->     “(C) __Protection of approved exception rates.—__ 
+>     “(C)  __Protection of approved exception rates__  __.—__ 
 
 >     Any exception rate under such section in effect on December 31, 2000 (or, in the case of an application under subparagraph (B), as approved under such application) shall continue in effect so long as such rate is greater than the composite rate as updated by the amendment made by paragraph (1) \[amending this section\].
 
->     “(D) __Inapplicability to pediatric facilities.—__ 
+>     “(D)  __Inapplicability to pediatric facilities__  __.—__ 
 
 >     Subparagraphs (A) and (B) shall not apply, as of October 1, 2002, to pediatric facilities that do not have an exception rate described in subparagraph (C) in effect on such date. For purposes of this subparagraph, the term ‘pediatric facility’ means a renal facility at least 50 percent of whose patients are individuals under 18 years of age.”
 
@@ -919,7 +919,7 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IV, § 422(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–516, provided that:
 
->     “(1) __Development.—__ 
+>     “(1)  __Development__  __.—__ 
 
 >     The Secretary of Health and Human Services shall collect data and develop an ESRD market basket whereby the Secretary can estimate, before the beginning of a year, the percentage by which the costs for the year of the mix of labor and nonlabor goods and services included in the ESRD composite rate under section 1881(b)(7) of the Social Security Act ([42 U.S.C. 1395rr(b)(7)][/us/usc/t42/s1395rr/b/7]) will exceed the costs of such mix of goods and services for the preceding year. In developing such index, the Secretary may take into account measures of changes in—
 
@@ -929,7 +929,7 @@
 
 >         “(C) the amounts by which the payments under such section for all services billed by a facility for a year exceed the aggregate allowable audited costs of such services for such facility for such year.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     The Secretary of Health and Human Services shall submit to Congress a report on the index developed under paragraph (1) no later than July 1, 2002, and shall include in the report recommendations on the appropriateness of an annual or periodic update mechanism for renal dialysis services under the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] based on such index.”
 
@@ -937,11 +937,11 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IV, § 422(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–517, provided that:
 
->     “(1) __Development.—__ 
+>     “(1)  __Development__  __.—__ 
 
 >     The Secretary of Health and Human Services shall develop a system which includes, to the maximum extent feasible, in the composite rate used for payment under section 1881(b)(7) of the Social Security Act ([42 U.S.C. 1395rr(b)(7)][/us/usc/t42/s1395rr/b/7]), payment for clinical diagnostic laboratory tests and drugs (including drugs paid under section 1881(b)(11)(B) of such Act ([42 U.S.C. 1395rr(b)(11)(B)][/us/usc/t42/s1395rr/b/11/B]) that are routinely used in furnishing dialysis services to medicare beneficiaries but which are currently separately billable by renal dialysis facilities.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     The Secretary shall include, as part of the report submitted under subsection (b)(2) \[set out above\], a report on the system developed under paragraph (1) and recommendations on the appropriateness of incorporating the system into medicare payment for renal dialysis services.”
 
@@ -949,11 +949,11 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IV, § 422(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–517, provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Comptroller General of the United States shall study access of medicare beneficiaries to renal dialysis services. Such study shall include whether there is a sufficient supply of facilities to furnish needed renal dialysis services, whether medicare payment levels are appropriate, taking into account audited costs of facilities for all services furnished, to ensure continued access to such services, and improvements in access (and quality of care) that may result in the increased use of long nightly and short daily hemodialysis modalities.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than January 1, 2003, the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1).”
 
@@ -977,11 +977,11 @@
 
 [Pub. L. 105–33, title IV, § 4558][/us/pl/105/33/s4558], Aug. 5, 1997, [111 Stat. 463][/us/stat/111/463], provided that:
 
->     “(a) __Auditing of Cost Reports.—__ 
+>     “(a)  __Auditing of Cost Reports__  __.—__ 
 
 >     Beginning with cost reports for 1996, the Secretary shall audit cost reports of each renal dialysis provider at least once every 3 years.
 
->     “(b) __Implementation of Quality Standards.—__ 
+>     “(b)  __Implementation of Quality Standards__  __.—__ 
 
 >     The Secretary of Health and Human Services shall develop, by not later than January 1, 1999, and implement, by not later than January 1, 2000, a method to measure and report quality of renal dialysis services provided under the medicare program under title XVIII of the Social Security Act \[this subchapter\].”
 
@@ -991,11 +991,11 @@
 
 >     “(1) __In general.—__ 
 
->         “(A) __Study.—__ 
+>         “(A)  __Study__  __.—__ 
 
 >         The Prospective Payment Assessment Commission (in this subsection referred to as the ‘Commission’) shall conduct a study to determine the costs and services and profits associated with various modalities of dialysis treatments provided to end stage renal disease patients provided under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].
 
->         “(B) __Recommendations.—__ 
+>         “(B)  __Recommendations__  __.—__ 
 
 >         Based on information collected for the study described in subparagraph (A), the Commission shall make recommendations to Congress regarding the method or methods and the levels at which the payments made for the facility component of dialysis services by providers of service and renal dialysis facilities under title XVIII of the Social Security Act should be established for dialysis services furnished during fiscal year 1993 and the methodology to be used to update such payments for subsequent fiscal years. In making recommendations concerning the appropriate methodology the Commission shall consider—
 
@@ -1013,11 +1013,11 @@
 
 >             “(vii) efficient costs related to high quality of care and positive outcomes for all treatment modalities.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than June 1, 1992, the Commission shall submit a report to the Committee on Finance of the Senate, and the Committees on Ways and Means and Energy and Commerce of the House of Representatives on the study conducted under paragraph (1)(A) and shall include in the report the recommendations described in paragraph (1)(B), taking into account the factors described in paragraph (1)(B).
 
->     “(3) __Annual report.—__ 
+>     “(3)  __Annual report__  __.—__ 
 
 >     The Commission, not later than March 1 before the beginning of each fiscal year (beginning with fiscal year 1993) shall report its recommendations to the Committee on Finance of the Senate and the Committees on Ways and Means and Energy and Commerce of the House of Representatives on an appropriate change factor which should be used for updating payments for services rendered in that fiscal year. The Commission in making such report to Congress shall consider conclusions and recommendations available from the Institute of Medicine.”
 
@@ -1029,11 +1029,11 @@
 
 >     “(a) __Establishment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 9 months after the date of the enactment of this Act \[Nov. 5, 1990\], the Secretary of Health and Human Services shall establish and carry out a 3-year demonstration project to determine whether the services of a home dialysis staff assistant providing services to a patient during hemodialysis treatment at the patient’s home may be covered under the medicare program in a cost-effective manner that ensures patient safety.
 
->         “(2) __Number of participants.—__ 
+>         “(2)  __Number of participants__  __.—__ 
 
 >         The total number of eligible patients receiving services under the demonstration project established under paragraph (1) may not exceed 800.
 
@@ -1041,11 +1041,11 @@
 
 >         “(1) __Services for which payment may be made.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Under the demonstration project established under subsection (a), the Secretary shall make payments for 3 years under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] to providers of services (other than a skilled nursing facility) or renal dialysis facilities for services of a qualified home hemodialysis staff assistant (as described in subsection (d)) provided to an individual described in subsection (c) during hemodialysis treatment at the individual’s home in an amount determined under paragraph (2).
 
->             “(B) __Services described.—__ 
+>             “(B)  __Services described__  __.—__ 
 
 >             For purposes of subparagraph (A), the term ‘services of a home hemodialysis staff assistant’ means—
 
@@ -1055,11 +1055,11 @@
 
 >         “(2) __Amount of payment.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Payment to a provider of services or renal dialysis facility participating in the demonstration project established under subsection (a) for the services described in paragraph (1) shall be prospectively determined by the Secretary, made on a per treatment basis, and shall be in an amount determined under subparagraph (B).
 
->             “(B) __Determination of payment amount.—__ 
+>             “(B)  __Determination of payment amount__  __.—__ 
 
 >                 (i)
 
@@ -1085,13 +1085,13 @@
 
 >                     “(II) the national median hourly wage for a home hemodialysis staff assistant shall be the sum of 65 percent of the national median hourly wage for a licensed practical nurse and 35 percent of the national median hourly wage for a registered nurse.
 
->             “(C) __Payment as add-on to composite rate.—__ 
+>             “(C)  __Payment as add-on to composite rate__  __.—__ 
 
 >             The amount of payment determined under this paragraph shall be in addition to the amount of payment otherwise made to the provider of services or renal dialysis facility under section 1881(b) of such Act.
 
 >     “(c) __Individuals Eligible to Receive Services Under Project.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         An individual may receive services from a provider of services or renal dialysis facility participating in the demonstration project if—
 
@@ -1107,15 +1107,15 @@
 
 >             “(F) no family member or other individual is available to provide such assistance to the individual.
 
->         “(2) __Coverage of individuals currently receiving services.—__ 
+>         “(2)  __Coverage of individuals currently receiving services__  __.—__ 
 
 >         Any individual who, on the date of the enactment of this Act \[Nov. 5, 1990\], is receiving staff assistance under the experimental authority provided under section 1881(f)(2) of the Social Security Act \[[42 U.S.C. 1395rr(f)(2)][/us/usc/t42/s1395rr/f/2]\] shall be deemed to be an eligible individual for purposes of this subsection.
 
->         “(3) __Continuation of coverage upon termination of project.—__ 
+>         “(3)  __Continuation of coverage upon termination of project__  __.—__ 
 
 >         Notwithstanding any provision of title XVIII of the Social Security Act, any individual receiving services under the demonstration project established under subsection (a) as of the date of the termination of the project shall continue to be eligible for home hemodialysis staff assistance after such date under such title on the same terms and conditions as applied under the demonstration project.
 
->     “(d) __Qualifications for Home Hemodialysis Staff Assistants.—__ 
+>     “(d)  __Qualifications for Home Hemodialysis Staff Assistants__  __.—__ 
 
 >     For purposes of subsection (b), a home dialysis aide is qualified if the aide—
 
@@ -1125,15 +1125,15 @@
 
 >     “(e) __Reports.—__ 
 
->         “(1) __Interim status report.—__ 
+>         “(1)  __Interim status report__  __.—__ 
 
 >         Not later than December 1, 1992, the Secretary shall submit to Congress a preliminary report on the status of the demonstration project established under subsection (a).
 
->         “(2) __Final report.—__ 
+>         “(2)  __Final report__  __.—__ 
 
 >         Not later than December 31, 1995, the Secretary shall submit to Congress a final report evaluating the project, and shall include in such report recommendations regarding appropriate eligibility criteria and cost-control mechanisms for medicare coverage of the services of a home dialysis aide providing medical assistance to a patient during hemodialysis treatment at the patient’s home.
 
->     “(f) __Authorization of Appropriations.—__ 
+>     “(f)  __Authorization of Appropriations__  __.—__ 
 
 >     The Secretary shall provide for the transfer from the Federal Supplementary Medical Insurance Trust Fund (established under section 1841 of the Social Security Act \[[42 U.S.C. 1395t][/us/usc/t42/s1395t]\]) of not more than the following amounts to carry out the demonstration project established under subsection (a) (without regard to amounts appropriated in advance in appropriation Acts):
 
@@ -1191,11 +1191,11 @@
 
 [Pub. L. 99–509, title IX, § 9335(d)(2)][/us/pl/99/509/s9335/d/2], (3), Oct. 21, 1986, [100 Stat. 2031][/us/stat/100/2031], as amended by [Pub. L. 100–203, title IV, § 4009(j)(6)(E)][/us/pl/100/203/s4009/j/6/E], Dec. 22, 1987, [101 Stat. 1330–59][/us/stat/101/1330-59], provided that:
 
->     “(2) __Deadline for establishing new areas.—__ 
+>     “(2)  __Deadline for establishing new areas__  __.—__ 
 
 >     The Secretary of Health and Human Services shall establish end stage renal disease network areas, pursuant to the amendment made by paragraph (1) \[amending this section\], not later than May 1, 1987. The Secretary shall designate network administrative organizations for such areas by not later than July 1, 1987.
 
->     “(3) __Transition.—__ 
+>     “(3)  __Transition__  __.—__ 
 
 >     If, under the amendment made by paragraph (1), the Secretary designates a network administrative organization for an area which was not previously designated for that area, the Secretary shall offer to continue to fund the previously designated organization for that area for a period of 30 days after the first date the newly designated organization assumes the duties of a network administrative organization for that area.”
 

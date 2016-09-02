@@ -25,15 +25,15 @@
 
 [Pub. L. 105–276, title V, § 522(c)][/us/pl/105/276/s522/c], Oct. 21, 1998, [112 Stat. 2565][/us/stat/112/2565], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Section 14 of the United States Housing Act of 1937 \[[42 U.S.C. 1437][/us/usc/t42/s1437]l\] shall apply as provided in section 519(e) of this Act \[[42 U.S.C. 1437g][/us/usc/t42/s1437g] note\].
 
->     “(2) __Expansion of use of modernization funding.—__ 
+>     “(2)  __Expansion of use of modernization funding__  __.—__ 
 
 >     Before the implementation of formulas pursuant to sections 9(d)(2) and 9(e)(2) of the United States Housing Act of 1937 \[[42 U.S.C. 1437g(d)(2)][/us/usc/t42/s1437g/d/2], (e)(2)\] (as amended by section 519(a) of this Act) an agency may utilize any authority provided under or pursuant to section 14(q) of such Act \[[42 U.S.C. 1437][/us/usc/t42/s1437]l(q)\] (including the authority under section 201(a) of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1996 \[see Tables for classification\] ([Public Law 104–134][/us/pl/104/134]; [110 Stat. 1321–277][/us/stat/110/1321-277])), as such provisions (including such section 201(a)) may be amended thereafter, including any amendment made by title II of this Act \[see Tables for classification\]), notwithstanding any other provision of law (including the repeal made under this section, the expiration of the applicability of such section 201 \[see Tables for classification\], or any repeal of such section 201).
 
->     “(3) __Effective date.—__ 
+>     “(3)  __Effective date__  __.—__ 
 
 >     This subsection shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].”
 

@@ -49,11 +49,11 @@
 
 [Pub. L. 104–120, § 11][/us/pl/104/120/s11], Mar. 28, 1996, [110 Stat. 841][/us/stat/110/841], as amended by [Pub. L. 105–276, title V, § 599E(a)][/us/pl/105/276/s599E/a], Oct. 21, 1998, [112 Stat. 2663][/us/stat/112/2663]; [Pub. L. 106–569, title II, § 202][/us/pl/106/569/s202], Dec. 27, 2000, [114 Stat. 2951][/us/stat/114/2951]; [Pub. L. 108–285, § 2][/us/pl/108/285/s2], Aug. 2, 2004, [118 Stat. 917][/us/stat/118/917], provided that:
 
->     “(a) __Grant Authority.—__ 
+>     “(a)  __Grant Authority__  __.—__ 
 
 >     The Secretary of Housing and Urban Development may, to the extent amounts are available to carry out this section and the requirements of this section are met, make grants for use in accordance with this section to national and regional organizations and consortia that have experience in providing or facilitating self-help housing homeownership opportunities.
 
->     “(b) __Goals and Accountability.—__ 
+>     “(b)  __Goals and Accountability__  __.—__ 
 
 >     In making grants under this section, the Secretary shall take such actions as may be necessary to ensure that—
 
@@ -71,25 +71,25 @@
 
 >         If, at any time, the Secretary determines that the goals under this subsection cannot be met by providing assistance in accordance with the terms of this section, the Secretary shall immediately notify the applicable Committees in writing of such determination and any proposed changes for such goals or this section.
 
->     “(c) __National Competition.—__ 
+>     “(c)  __National Competition__  __.—__ 
 
 >     The Secretary shall select organizations and consortia referred to in subsection (a) to receive grants through a national competitive process, which the Secretary shall establish.
 
 >     “(d) __Use.—__ 
 
->         “(1) __Purpose.—__ 
+>         “(1)  __Purpose__  __.—__ 
 
 >         Amounts from grants made under this section, including any recaptured amounts, shall be used only for eligible expenses in connection with developing new decent, safe, and sanitary nonluxury dwellings in the United States for families and persons who otherwise would be unable to afford to purchase a dwelling.
 
->         “(2) __Eligible expenses.—__ 
+>         “(2)  __Eligible expenses__  __.—__ 
 
 >         For purposes of paragraph (1), the term ‘eligible expenses’ means costs only for the following activities:
 
->             “(A) __Land acquisition.—__ 
+>             “(A)  __Land acquisition__  __.—__ 
 
 >             Acquiring land (including financing and closing costs), which may include reimbursing an organization, consortium, or affiliate, upon approval of any required environmental review, for nongrant amounts of the organization, consortium, or affiliate advanced before such review to acquire land.
 
->             “(B) __Infrastructure improvement.—__ 
+>             “(B)  __Infrastructure improvement__  __.—__ 
 
 >             Installing, extending, constructing, rehabilitating, or otherwise improving utilities and other infrastructure.
 
@@ -97,15 +97,15 @@
 
 >     “(e) __Establishment of Grant Fund.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Any amounts from any grant made under this section shall be deposited by the grantee organization or consortium in a fund that is established by such organization or consortium for such amounts, administered by such organization or consortium, and available for use only for the purposes under subsection (d). Any interest, fees, or other earnings of the fund shall be deposited in the fund and shall be considered grant amounts for purposes of this section.
 
->         “(2) __Assistance to affiliates.—__ 
+>         “(2)  __Assistance to affiliates__  __.—__ 
 
 >         Any organization or consortia that receives a grant under this section may use amounts in the fund established for such organization or consortia pursuant to paragraph (1) for the purposes under subsection (d) by providing assistance from the fund to local affiliates of such organization or consortia.
 
->     “(f) __Requirements for Assistance.—__ 
+>     “(f)  __Requirements for Assistance__  __.—__ 
 
 >     The Secretary may make a grant to an organization or consortium under subsection (a) only pursuant to—
 
@@ -123,11 +123,11 @@
 
 >     “\[(g) Repealed. [Pub. L. 105–276, title V, § 599E(a)(6)][/us/pl/105/276/s599E/a/6], Oct. 21, 1998, [112 Stat. 2664][/us/stat/112/2664].\]
 
->     “(h) __Geographical Diversity.—__ 
+>     “(h)  __Geographical Diversity__  __.—__ 
 
 >     In making grants under subsection (a), the Secretary shall ensure that grants are provided and grant amounts are used in a manner that results in national geographic diversity among housing developed using grant amounts under this section.
 
->     “(i) __Grant Agreement.—__ 
+>     “(i)  __Grant Agreement__  __.—__ 
 
 >     A grant under this section shall be made only pursuant to a grant agreement entered into by the Secretary and the organization or consortia receiving the grant, which shall—
 
@@ -143,11 +143,11 @@
 
 >         “(6) contain such other terms as the Secretary may require to provide for compliance with subsection (b) and the requirements of this section.
 
->     “(j) __Fulfillment of Grant Agreement.—__ 
+>     “(j)  __Fulfillment of Grant Agreement__  __.—__ 
 
 >     If the Secretary determines that an organization or consortia awarded a grant under this section has not, within 24 months after grant amounts are first made available to the organization or consortia (or, in the case of grant amounts from amounts made available for fiscal year 1996 to carry out this section and grant amounts provided to a local affiliate of the organization or consortia that is developing five or more dwellings in connection with such grant amounts, within 36 months), substantially fulfilled the obligations under the grant agreement, including development of the appropriate number of dwellings under the agreement, the Secretary shall use any such undisbursed amounts remaining from such grant for other grants in accordance with this section.
 
->     “(k) __Records and Audits.—__ 
+>     “(k)  __Records and Audits__  __.—__ 
 
 >     During the period beginning upon the making of a grant under this section and ending upon close-out of the grant under subsection (l)—
 
@@ -155,39 +155,39 @@
 
 >         “(2) the Secretary and the Comptroller General of the United States, and any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the grantee organization or consortia and its affiliates that are pertinent to the grant made under this section.
 
->     “(l) __Close-Out.—__ 
+>     “(l)  __Close-Out__  __.—__ 
 
 >     The Secretary shall close out a grant made under this section upon determining that the aggregate amount of any assistance provided from the fund established under subsection (e)(1) by the grantee organization or consortium exceeds the amount of the grant. For purposes of this paragraph, any interest, fees, and other earnings of the fund shall be excluded from the amount of the grant.
 
->     “(m) __Environmental Review.—__ 
+>     “(m)  __Environmental Review__  __.—__ 
 
 >     A grant under this section shall be considered to be funds for a special project for purposes of section 305(c) of the Multifamily Housing Property Disposition Reform Act of 1994 \[[42 U.S.C. 3547][/us/usc/t42/s3547]\].
 
->     “(n) __Report to Congress.—__ 
+>     “(n)  __Report to Congress__  __.—__ 
 
 >     Not later than 90 days after close-out of all grants under this section is completed, the Secretary shall submit a report to the applicable Committees describing the grants made under this section, the grantees, the housing developed in connection with the grant amounts, and the purposes for which the grant amounts were used.
 
->     “(o) __Definitions.—__ 
+>     “(o)  __Definitions__  __.—__ 
 
 >     For purposes of this section, the following definitions shall apply:
 
->         “(1) __Applicable committees.—__ 
+>         “(1)  __Applicable committees__  __.—__ 
 
 >         The term ‘applicable Committees’ means the Committee on Banking and Financial Services \[now Committee on Financial Services\] of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
->         “(2) __Secretary.—__ 
+>         “(2)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of Housing and Urban Development.
 
->         “(3) __United states.—__ 
+>         “(3)  __United states__  __.—__ 
 
 >         The term ‘United States’ includes the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, and any other territory or possession of the United States.
 
->     “(p) __Authorization of Appropriations.—__ 
+>     “(p)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2001.
 
->     “(q) __Regulations.—__ 
+>     “(q)  __Regulations__  __.—__ 
 
 >     The Secretary shall issue any final regulations necessary to carry out this section not later than 30 days after the date of the enactment of this Act \[Mar. 28, 1996\]. The regulations shall take effect upon issuance and may not exceed, in length, 5 full pages in the Federal Register.”
 
@@ -207,7 +207,7 @@
 
 [Pub. L. 104–120, § 12][/us/pl/104/120/s12], Mar. 28, 1996, [110 Stat. 845][/us/stat/110/845], provided that:
 
->     “(a) __Authority to Use Assisted Housing Amounts.—__ 
+>     “(a)  __Authority to Use Assisted Housing Amounts__  __.—__ 
 
 >     To the extent and for the purposes specified in subsection (b), the Secretary of Housing and Urban Development may use amounts in the account of the Department of Housing and Urban Development known as the Annual Contributions for Assisted Housing account, but only such amounts which—
 
@@ -215,19 +215,19 @@
 
 >         “(2) have been obligated before becoming available for use under this section.
 
->     “(b) __Fiscal Year 1996.—__ 
+>     “(b)  __Fiscal Year__  __1996.—__ 
 
 >     Of the amounts described in subsection (a), $60,000,000 shall be available to the Secretary of Housing and Urban Development for fiscal year 1996 in the following amounts for the following purposes:
 
->         “(1) __Self-help housing assistance.—__ 
+>         “(1)  __Self-help housing assistance__  __.—__ 
 
 >         $40,000,000 for carrying out section 11 of this Act \[set out above\].
 
->         “(2) __National cities in schools community development program.—__ 
+>         “(2)  __National cities in schools community development program__  __.—__ 
 
 >         $10,000,000 for carrying out section 930 of the Housing and Community Development Act of 1992 ([Public Law 102–550][/us/pl/102/550]; [106 Stat. 3887][/us/stat/106/3887]).
 
->         “(3) __Capacity building through national community development initiative.—__ 
+>         “(3)  __Capacity building through national community development initiative__  __.—__ 
 
 >         $10,000,000 for carrying out section 4 of the HUD Demonstration Act of 1993 ([42 U.S.C. 9816][/us/usc/t42/s9816] note).”
 

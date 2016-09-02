@@ -777,7 +777,7 @@
 
 [Pub. L. 103–66, title XIII, § 13562(b)][/us/pl/103/66/s13562/b], Aug. 10, 1993, [107 Stat. 604][/us/stat/107/604], as amended by [Pub. L. 103–432, title I, § 152(c)][/us/pl/103/432/s152/c], Oct. 31, 1994, [108 Stat. 4437][/us/stat/108/4437], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to referrals—
 
@@ -785,7 +785,7 @@
 
 >         “(B) made after December 31, 1994, in the case of other designated health services.
 
->     “(2) __Exceptions.—__ 
+>     “(2)  __Exceptions__  __.—__ 
 
 >     With respect to referrals made for clinical laboratory services on or before December 31, 1994—
 
@@ -831,11 +831,11 @@
 
 [Pub. L. 111–148, title VI, § 6001(b)][/us/pl/111/148/s6001/b], Mar. 23, 2010, [124 Stat. 689][/us/stat/124/689], as amended by [Pub. L. 111–148, title X, § 10601(b)][/us/pl/111/148/s10601/b], Mar. 23, 2010, [124 Stat. 1005][/us/stat/124/1005], provided that:
 
->     “(1) __Ensuring compliance.—__ 
+>     “(1)  __Ensuring compliance__  __.—__ 
 
 >     The Secretary of Health and Human Services shall establish policies and procedures to ensure compliance with the requirements described in subsection (i)(1) of section 1877 of the Social Security Act \[[42 U.S.C. 1395nn(i)(1)][/us/usc/t42/s1395nn/i/1]\], as added by subsection (a)(3), beginning on the date such requirements first apply. Such policies and procedures may include unannounced site reviews of hospitals.
 
->     “(2) __Audits.—__ 
+>     “(2)  __Audits__  __.—__ 
 
 >     Beginning not later than May 1, 2012, the Secretary of Health and Human Services shall conduct audits to determine if hospitals violate the requirements referred to in paragraph (1).”
 
@@ -845,7 +845,7 @@
 
 >     “(a) __Development of Self-Referral Disclosure Protocol.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Health and Human Services, in cooperation with the Inspector General of the Department of Health and Human Services, shall establish, not later than 6 months after the date of the enactment of this Act \[Mar. 23, 2010\], a protocol to enable health care providers of services and suppliers to disclose an actual or potential violation of section 1877 of the Social Security Act ([42 U.S.C. 1395nn][/us/usc/t42/s1395nn]) pursuant to a self-referral disclosure protocol (in this section referred to as an ‘SRDP’). The SRDP shall include direction to health care providers of services and suppliers on—
 
@@ -853,15 +853,15 @@
 
 >             “(B) instruction on the implication of the SRDP on corporate integrity agreements and corporate compliance agreements.
 
->         “(2) __Publication on internet website of srdp information.—__ 
+>         “(2)  __Publication on internet website of srdp information__  __.—__ 
 
 >         The Secretary of Health and Human Services shall post information on the public Internet website of the Centers for Medicare & Medicaid Services to inform relevant stakeholders of how to disclose actual or potential violations pursuant to an SRDP.
 
->         “(3) __Relation to advisory opinions.—__ 
+>         “(3)  __Relation to advisory opinions__  __.—__ 
 
 >         The SRDP shall be separate from the advisory opinion process set forth in regulations implementing section 1877(g) of the Social Security Act \[[42 U.S.C. 1395nn(g)][/us/usc/t42/s1395nn/g]\].
 
->     “(b) __Reduction in Amounts Owed.—__ 
+>     “(b)  __Reduction in Amounts Owed__  __.—__ 
 
 >     The Secretary of Health and Human Services is authorized to reduce the amount due and owing for all violations under section 1877 of the Social Security Act \[[42 U.S.C. 1395nn][/us/usc/t42/s1395nn]\] to an amount less than that specified in subsection (g) of such section. In establishing such amount for a violation, the Secretary may consider the following factors:
 
@@ -873,7 +873,7 @@
 
 >         “(4) Such other factors as the Secretary considers appropriate.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 18 months after the date on which the SRDP protocol is established under subsection (a)(1), the Secretary shall submit to Congress a report on the implementation of this section. Such report shall include—
 
@@ -899,7 +899,7 @@
 
 [Pub. L. 108–173, title V, § 507(c)][/us/pl/108/173/s507/c], Dec. 8, 2003, [117 Stat. 2296][/us/stat/117/2296], provided that:
 
->     “(1) __MedPAC study.—__ 
+>     “(1)  __MedPAC study__  __.—__ 
 
 >     The Medicare Payment Advisory Commission, in consultation with the Comptroller General of the United States, shall conduct a study to determine—
 
@@ -913,7 +913,7 @@
 
 >         “(E) the proportions of payments received, by type of payer, between the specialty hospitals and local full-service community hospitals.
 
->     “(2) __HHS study.—__ 
+>     “(2) __HHS__  __study__  __.—__ 
 
 >     The Secretary \[of Health and Human Services\] shall conduct a study of a representative sample of specialty hospitals—
 
@@ -925,7 +925,7 @@
 
 >         “(D) to assess the differences in uncompensated care, as defined by the Secretary, between the specialty hospital and local full-service community hospitals, and the relative value of any tax exemption available to such hospitals.
 
->     “(3) __Reports.—__ 
+>     “(3)  __Reports__  __.—__ 
 
 >     Not later than 15 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Commission and the Secretary, respectively, shall each submit to Congress a report on the studies conducted under paragraphs (1) and (2), respectively, and shall include any recommendations for legislation or administrative changes.”
 

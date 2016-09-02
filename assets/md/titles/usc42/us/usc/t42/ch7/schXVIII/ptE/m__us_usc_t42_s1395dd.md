@@ -355,11 +355,11 @@
 
 [Pub. L. 108–173, title IX, § 945][/us/pl/108/173/s945], Dec. 8, 2003, [117 Stat. 2423][/us/stat/117/2423], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary \[of Health and Human Services\] shall establish a Technical Advisory Group (in this section referred to as the ‘Advisory Group’) to review issues related to the Emergency Medical Treatment and Labor Act (EMTALA) and its implementation. In this section, the term ‘EMTALA’ refers to the provisions of section 1867 of the Social Security Act ([42 U.S.C. 1395dd][/us/usc/t42/s1395dd]).
 
->     “(b) __Membership.—__ 
+>     “(b)  __Membership__  __.—__ 
 
 >     The Advisory Group shall be composed of 19 members, including the Administrator of the Centers for Medicare & Medicaid Services and the Inspector General of the Department of Health and Human Services and of which—
 
@@ -375,7 +375,7 @@
 
 >         In selecting members described in paragraphs (1) through (3), the Secretary shall consider qualified individuals nominated by organizations representing providers and patients.
 
->     “(c) __General Responsibilities.—__ 
+>     “(c)  __General Responsibilities__  __.—__ 
 
 >     The Advisory Group—
 
@@ -389,19 +389,19 @@
 
 >     “(d) __Administrative Matters.—__ 
 
->         “(1) __Chairperson.—__ 
+>         “(1)  __Chairperson__  __.—__ 
 
 >         The members of the Advisory Group shall elect a member to serve as chairperson of the Advisory Group for the life of the Advisory Group.
 
->         “(2) __Meetings.—__ 
+>         “(2)  __Meetings__  __.—__ 
 
 >         The Advisory Group shall first meet at the direction of the Secretary. The Advisory Group shall then meet twice per year and at such other times as the Advisory Group may provide.
 
->     “(e) __Termination.—__ 
+>     “(e)  __Termination__  __.—__ 
 
 >     The Advisory Group shall terminate 30 months after the date of its first meeting.
 
->     “(f) __Waiver of Administrative Limitation.—__ 
+>     “(f)  __Waiver of Administrative Limitation__  __.—__ 
 
 >     The Secretary shall establish the Advisory Group notwithstanding any limitation that may apply to the number of advisory committees that may be established (within the Department of Health and Human Services or otherwise).”
 
@@ -411,11 +411,11 @@
 
 >     “(a) __Total Amount Available for Allotment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Out of any funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary \[of Health and Human Services\] $250,000,000 for each of fiscal years 2005 through 2008 for the purpose of making allotments under this section for payments to eligible providers in States described in paragraph (1) or (2) of subsection (b).
 
->         “(2) __Availability.—__ 
+>         “(2)  __Availability__  __.—__ 
 
 >         Funds appropriated under paragraph (1) shall remain available until expended.
 
@@ -423,11 +423,11 @@
 
 >         “(1) __Based on percentage of undocumented aliens.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Out of the amount appropriated under subsection (a) for a fiscal year, the Secretary shall use $167,000,000 of such amount to make allotments for such fiscal year in accordance with subparagraph (B).
 
->             “(B) __Formula.—__ 
+>             “(B)  __Formula__  __.—__ 
 
 >             The amount of the allotment for payments to eligible providers in each State for a fiscal year shall be equal to the product of—
 
@@ -437,11 +437,11 @@
 
 >         “(2) __Based on number of undocumented alien apprehension states.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Out of the amount appropriated under subsection (a) for a fiscal year, the Secretary shall use $83,000,000 of such amount to make allotments, in addition to amounts allotted under paragraph (1), for such fiscal year for each of the 6 States with the highest number of undocumented alien apprehensions for such fiscal year.
 
->             “(B) __Determination of allotments.—__ 
+>             “(B)  __Determination of allotments__  __.—__ 
 
 >             The amount of the allotment for each State described in subparagraph (A) for a fiscal year shall be equal to the product of—
 
@@ -449,19 +449,19 @@
 
 >                 “(ii) the percentage of undocumented alien apprehensions in the State in that fiscal year as compared to the total of such apprehensions for all such States for the preceding fiscal year.
 
->             “(C) __Data.—__ 
+>             “(C)  __Data__  __.—__ 
 
 >             For purposes of this paragraph, the highest number of undocumented alien apprehensions for a fiscal year shall be based on the apprehension rates for the 4-consecutive-quarter period ending before the beginning of the fiscal year for which information is available for undocumented aliens in such States, as reported by the Department of Homeland Security.
 
 >     “(c) __Use of Funds.—__ 
 
->         “(1) __Authority to make payments.—__ 
+>         “(1)  __Authority to make payments__  __.—__ 
 
 >         From the allotments made for a State under subsection (b) for a fiscal year, the Secretary shall pay the amount (subject to the total amount available from such allotments) determined under paragraph (2) directly to eligible providers located in the State for the provision of eligible services to aliens described in paragraph (5) to the extent that the eligible provider was not otherwise reimbursed (through insurance or otherwise) for such services during that fiscal year.
 
 >         “(2) __Determination of payment amounts.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Subject to subparagraph (B), the payment amount determined under this paragraph shall be an amount determined by the Secretary that is equal to the lesser of—
 
@@ -469,11 +469,11 @@
 
 >                 “(ii) amounts determined under a methodology established by the Secretary for purposes of this subsection.
 
->             “(B) __Pro-rata reduction.—__ 
+>             “(B)  __Pro-rata reduction__  __.—__ 
 
 >             If the amount of funds allotted to a State under subsection (b) for a fiscal year is insufficient to ensure that each eligible provider in that State receives the amount of payment calculated under subparagraph (A), the Secretary shall reduce that amount of payment with respect to each eligible provider to ensure that the entire amount allotted to the State for that fiscal year is paid to such eligible providers.
 
->         “(3) __Methodology.—__ 
+>         “(3)  __Methodology__  __.—__ 
 
 >         In establishing a methodology under paragraph (2)(A)(ii), the Secretary—
 
@@ -493,11 +493,11 @@
 
 >             If a hospital makes the election under subparagraph (C)(i), the hospital shall pass on payments for services of a physician to the physician and may not charge any administrative or other fee with respect to such payments.
 
->         “(4) __Limitation on use of funds.—__ 
+>         “(4)  __Limitation on use of funds__  __.—__ 
 
 >         Payments made to eligible providers in a State from allotments made under subsection (b) for a fiscal year may only be used for costs incurred in providing eligible services to aliens described in paragraph (5).
 
->         “(5) __Aliens described.—__ 
+>         “(5)  __Aliens described__  __.—__ 
 
 >         For purposes of paragraphs (1) and (2), aliens described in this paragraph are any of the following:
 
@@ -511,43 +511,43 @@
 
 >         “(1) __Deadline for establishment of application process.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Not later than September 1, 2004, the Secretary shall establish a process under which eligible providers located in a State may request payments under subsection (c).
 
->             “(B) __Inclusion of measures to combat fraud and abuse.—__ 
+>             “(B)  __Inclusion of measures to combat fraud and abuse__  __.—__ 
 
 >             The Secretary shall include in the process established under subparagraph (A) measures to ensure that inappropriate, excessive, or fraudulent payments are not made from the allotments determined under subsection (b), including certification by the eligible provider of the veracity of the payment request.
 
->         “(2) __Advance payment; retrospective adjustment.—__ 
+>         “(2)  __Advance payment; retrospective adjustment__  __.—__ 
 
 >         The process established under paragraph (1) may provide for making payments under this section for each quarter of a fiscal year on the basis of advance estimates of expenditures submitted by applicants for such payments and such other investigation as the Secretary may find necessary, and for making reductions or increases in the payments as necessary to adjust for any overpayment or underpayment for prior quarters of such fiscal year.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Eligible provider.—__ 
+>         “(1)  __Eligible provider__  __.—__ 
 
 >         The term ‘eligible provider’ means a hospital, physician, or provider of ambulance services (including an Indian Health Service facility whether operated by the Indian Health Service or by an Indian tribe or tribal organization).
 
->         “(2) __Eligible services.—__ 
+>         “(2)  __Eligible services__  __.—__ 
 
 >         The term ‘eligible services’ means health care services required by the application of section 1867 of the Social Security Act ([42 U.S.C. 1395dd][/us/usc/t42/s1395dd]), and related hospital inpatient and outpatient services and ambulance services (as defined by the Secretary).
 
->         “(3) __Hospital.—__ 
+>         “(3)  __Hospital__  __.—__ 
 
 >         The term ‘hospital’ has the meaning given such term in section 1861(e) of the Social Security Act ([42 U.S.C. 1395x(e)][/us/usc/t42/s1395x/e]), except that such term shall include a critical access hospital (as defined in section 1861(mm)(1) of such Act ([42 U.S.C. 1395x(mm)(1)][/us/usc/t42/s1395x/mm/1]).
 
->         “(4) __Physician.—__ 
+>         “(4)  __Physician__  __.—__ 
 
 >         The term ‘physician’ has the meaning given that term in section 1861(r) of the Social Security Act ([42 U.S.C. 1395x(r)][/us/usc/t42/s1395x/r]).
 
->         “(5) __Indian tribe; tribal organization.—__ 
+>         “(5)  __Indian tribe; tribal organization__  __.—__ 
 
 >         The terms ‘Indian tribe’ and ‘tribal organization’ have the meanings given such terms in section 4 of the Indian Health Care Improvement Act ([25 U.S.C. 1603][/us/usc/t25/s1603]).
 
->         “(6) __State.—__ 
+>         “(6)  __State__  __.—__ 
 
 >         The term ‘State’ means the 50 States and the District of Columbia.”
 

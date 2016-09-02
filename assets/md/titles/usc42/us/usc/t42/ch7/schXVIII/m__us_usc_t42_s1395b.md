@@ -33,33 +33,33 @@
 
 [Pub. L. 101–239, title X, § 10202][/us/pl/101/239/s10202], Dec. 19, 1989, [103 Stat. 2473][/us/stat/103/2473], provided that:
 
->     “(a) __Old-Age, Survivors, and Disability, and Hospital Insurance Programs.—__ 
+>     “(a)  __Old-Age, Survivors, and Disability, and Hospital Insurance Programs__  __.—__ 
 
 >     For purposes of title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] and chapter 21 of the Internal Revenue Code of 1986 \[[26 U.S.C. 3101][/us/usc/t26/s3101] et seq.\], the term ‘wages’ shall not include the amount of any refund required under section 421 of the Medicare Catastrophic Coverage Act of 1988 \[[section 421 of Pub. L. 100–360][/us/pl/100/360/s421], formerly set out as a note below\].
 
->     “(b) __Railroad Retirement Program.—__ 
+>     “(b)  __Railroad Retirement Program__  __.—__ 
 
 >     For purposes of chapter 22 of the Internal Revenue Code of 1986 \[[26 U.S.C. 3201][/us/usc/t26/s3201] et seq.\], the term ‘compensation’ shall not include the amount of any refund required under section 421 of the Medicare Catastrophic Coverage Act of 1988.
 
 >     “(c) __Federal Unemployment Programs.—__ 
 
->         “(1) __Federal unemployment tax.—__ 
+>         “(1)  __Federal unemployment tax__  __.—__ 
 
 >         For purposes of chapter 23 of the Internal Revenue Code of 1986 \[[26 U.S.C. 3301][/us/usc/t26/s3301] et seq.\], the term ‘wages’ shall not include the amount of any refund required under section 421 of the Medicare Catastrophic Coverage Act of 1988.
 
->         “(2) __Railroad unemployment contributions.—__ 
+>         “(2)  __Railroad unemployment contributions__  __.—__ 
 
 >         For purposes of the Railroad Unemployment Insurance Act \[[45 U.S.C. 351][/us/usc/t45/s351] et seq.\], the term ‘compensation’ shall not include the amount of any refund required under section 421 of the Medicare Catastrophic Coverage Act of 1988.
 
->         “(3) __Railroad unemployment repayment tax.—__ 
+>         “(3)  __Railroad unemployment repayment tax__  __.—__ 
 
 >         For purposes of chapter 23A of the Internal Revenue Code of 1986 \[[26 U.S.C. 3321][/us/usc/t26/s3321] et seq.\], the term ‘rail wages’ shall not include the amount of any refund required under section 421 of the Medicare Catastrophic Coverage Act of 1988.
 
->     “(d) __Reporting Requirements.—__ 
+>     “(d)  __Reporting Requirements__  __.—__ 
 
 >     Any refund required under section 421 of the Medicare Catastrophic Coverage Act of 1988 shall be reported to the Secretary of the Treasury or his delegate and to the person to whom such refund is made in such manner as the Secretary of the Treasury or his delegate shall prescribe.
 
->     “(e) __Effective Date.—__ 
+>     “(e)  __Effective Date__  __.—__ 
 
 >     This section shall apply with respect to refunds provided on or after January 1, 1989.”
 

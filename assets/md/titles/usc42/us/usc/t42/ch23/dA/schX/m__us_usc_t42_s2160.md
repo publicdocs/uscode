@@ -115,15 +115,15 @@
 
 [Pub. L. 103–160, div. C, title XXXI, § 3151][/us/pl/103/160/s3151], Nov. 30, 1993, [107 Stat. 1949][/us/stat/107/1949], provided that:
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     It is the purpose of this section to regulate the receipt and storage of spent nuclear fuel at the Department of Energy defense nuclear facility located at the Savannah River Site, South Carolina (in this section referred to as the ‘Savannah River Site’).
 
->     “(b) __Receipt in Emergency Circumstances.—__ 
+>     “(b)  __Receipt in Emergency Circumstances__  __.—__ 
 
 >     When the Secretary of Energy determines that emergency circumstances make it necessary to receive spent nuclear fuel, the Secretary shall submit a notification of that determination to the Congress. The Secretary may not receive spent nuclear fuel at the Savannah River Site until the expiration of the 30-day period beginning on the date on which the Congress receives the notification.
 
->     “(c) __Limitation on Storage in Non-emergency Circumstances.—__ 
+>     “(c)  __Limitation on Storage in Non-emergency Circumstances__  __.—__ 
 
 >     The Secretary of Energy may not, under other than emergency circumstances, receive and store at the Savannah River Site any spent nuclear fuel in excess of the amount that (as of the date of the enactment of this Act \[Nov. 30, 1993\]) the Savannah River Site is capable of receiving and storing, until, with respect to the receipt and storage of any such spent nuclear fuel—
 
@@ -133,7 +133,7 @@
 
 >         “(3) the signing by the Secretary of a record of decision following such completion.
 
->     “(d) __Limitations on Receipt.—__ 
+>     “(d)  __Limitations on Receipt__  __.—__ 
 
 >     The Secretary of Energy may not, under emergency or non-emergency circumstances, receive spent nuclear fuel if the spent nuclear fuel—
 
@@ -141,7 +141,7 @@
 
 >         “(2) will remain on a vessel in the port of entry for a period that exceeds the period necessary to unload the fuel from the vessel pursuant to routine unloading procedures.
 
->     “(e) __Criteria for Port of Entry.—__ 
+>     “(e)  __Criteria for Port of Entry__  __.—__ 
 
 >     The Secretary of Energy shall, if economically feasible and to the maximum extent practicable, provide for the receipt of spent nuclear fuel under this section at a port of entry in the United States which, as determined by the Secretary and compared to each other port of entry in the United States that is capable of receiving the spent nuclear fuel—
 
@@ -151,7 +151,7 @@
 
 >         “(3) has the most appropriate facilities for, and experience in, receiving spent nuclear fuel.
 
->     “(f) __Definition.—__ 
+>     “(f)  __Definition__  __.—__ 
 
 >     In this section, the term ‘spent nuclear fuel’ means nuclear fuel that—
 

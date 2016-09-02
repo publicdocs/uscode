@@ -73,11 +73,11 @@
 
 [Pub. L. 108–173, title IX, § 923(d)(2)][/us/pl/108/173/s923/d/2], Dec. 8, 2003, [117 Stat. 2395][/us/stat/117/2395], provided that:
 
->     “(A) __Study.—__ 
+>     “(A)  __Study__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct a study to monitor the accuracy and consistency of information provided to individuals entitled to benefits under part A \[probably means part A of title XVIII of the Social Security Act which is classified to part A of this subchapter\] or enrolled under part B \[probably means part B of title XVIII of the Social Security Act, [42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\], or both, through the toll-free telephone number 1–800–MEDICARE, including an assessment of whether the information provided is sufficient to answer questions of such individuals. In conducting the study, the Comptroller General shall examine the education and training of the individuals providing information through such number.
 
->     “(B) __Report.—__ 
+>     “(B)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\], the Comptroller General shall submit to Congress a report on the study conducted under subparagraph (A).”
 

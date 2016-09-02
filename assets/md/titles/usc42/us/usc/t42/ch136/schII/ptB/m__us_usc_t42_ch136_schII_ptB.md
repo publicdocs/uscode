@@ -39,25 +39,25 @@
 
 >     “(a) __Establishment of Youth Violence Reduction Demonstration Projects.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Attorney General shall make up to 5 grants for the purpose of carrying out Youth Violence Demonstration Projects to reduce juvenile and young adult violence, homicides, and recidivism among high-risk populations.
 
->         “(2) __Eligible entities.—__ 
+>         “(2)  __Eligible entities__  __.—__ 
 
 >         An entity is eligible for a grant under paragraph (1) if it is a unit of local government or a combination of local governments established by agreement for purposes of undertaking a demonstration project.
 
 >     “(b) __Selection of Grant Recipients.—__ 
 
->         “(1) __Awards.—__ 
+>         “(1)  __Awards__  __.—__ 
 
 >         The Attorney General shall award grants for Youth Violence Reduction Demonstration Projects on a competitive basis.
 
->         “(2) __Amount of awards.—__ 
+>         “(2)  __Amount of awards__  __.—__ 
 
 >         No single grant award made under subsection (a) shall exceed $15,000,000 per fiscal year.
 
->         “(3) __Application.—__ 
+>         “(3)  __Application__  __.—__ 
 
 >         An application for a grant under paragraph (1) shall be submitted to the Attorney General in such a form, and containing such information and assurances, as the Attorney General may require, and at a minimum shall propose—
 
@@ -67,7 +67,7 @@
 
 >             “(C) a plan for evaluation by an independent third party.
 
->         “(4) __Distribution.—__ 
+>         “(4)  __Distribution__  __.—__ 
 
 >         In making grants under this section, the Attorney General shall ensure the following:
 
@@ -75,7 +75,7 @@
 
 >             “(B) No less than one recipient is a nonmetropolitan county or group of counties with per capita arrest rates of juveniles and young adults for serious violent offenses that exceed the national average for nonmetropolitan counties by at least 5 percent.
 
->         “(5) __Criteria.—__ 
+>         “(5)  __Criteria__  __.—__ 
 
 >         In making grants under this section, the Attorney General shall give preference to entities operating programs that meet the following criteria:
 
@@ -103,7 +103,7 @@
 
 >             “(H) A program structure that can serve as a model for other communities in addressing the problem of youth violence and juvenile and young adult recidivism.
 
->     “(c) __Authorized Activities.—__ 
+>     “(c)  __Authorized Activities__  __.—__ 
 
 >     Amounts paid to an eligible entity under a grant award may be used for the following activities:
 
@@ -127,7 +127,7 @@
 
 >     “(d) __Evaluation and Reports.—__ 
 
->         “(1) __Independent evaluation.—__ 
+>         “(1)  __Independent evaluation__  __.—__ 
 
 >         The Attorney General may use up to $500,000 of funds appropriated annually under this such section to—
 
@@ -137,7 +137,7 @@
 
 >             “(C) disseminate broadly the information generated and lessons learned from the operation of the demonstration projects.
 
->         “(2) __Reports to congress.—__ 
+>         “(2)  __Reports to congress__  __.—__ 
 
 >         Not later than 120 days after the last day of each fiscal year for which 1 or more demonstration grants are awarded, the Attorney General shall submit to Congress a report which shall include—
 
@@ -149,31 +149,31 @@
 
 >     “(e) __Federal Share.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Federal share of a grant awarded under this Act \[see Short Title of 2006 Amendment note set out under [section 13701 of this title][/us/usc/t42/s13701]\] shall not exceed 90 percent of the total program costs.
 
->         “(2) __Non-federal share.—__ 
+>         “(2)  __Non-federal share__  __.—__ 
 
 >         The non-Federal share of such cost may be provided in cash or in-kind.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Unit of local government.—__ 
+>         “(1)  __Unit of local government__  __.—__ 
 
 >         The term ‘unit of local government’ means a county, township, city, or political subdivision of a county, township, or city, that is a unit of local government as determined by the Secretary of Commerce for general statistical purposes.
 
->         “(2) __Juvenile.—__ 
+>         “(2)  __Juvenile__  __.—__ 
 
 >         The term ‘juvenile’ means an individual who is 17 years of age or younger.
 
->         “(3) __Young adult.—__ 
+>         “(3)  __Young adult__  __.—__ 
 
 >         The term ‘young adult’ means an individual who is 18 through 24 years of age.
 
->     “(g) __Authorization of Appropriations.—__ 
+>     “(g)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this section $50,000,000 for fiscal year 2007 and such sums as may be necessary for each of fiscal years 2008 through 2009, to remain available until expended.”
 
@@ -237,35 +237,35 @@
 
 > “In this Act:
 
->     “(1) __Assistant attorney general.—__ 
+>     “(1)  __Assistant attorney general__  __.—__ 
 
 >     The term ‘Assistant Attorney General’ means the Assistant Attorney General for the Office of Justice Programs of the Department of Justice.
 
->     “(2) __Distressed area.—__ 
+>     “(2)  __Distressed area__  __.—__ 
 
 >     The term ‘distressed area’ means an urban, suburban, or rural area with a high percentage of high-risk youth, as defined in section 509A of the Public Health Service Act ([42 U.S.C. 290aa–8(f)][/us/usc/t42/s290aa–8/f]) \[now [42 U.S.C. 290bb–23(g)][/us/usc/t42/s290bb–23/g]\].
 
->     “(3) __PAL chapter.—__ 
+>     “(3)  __PAL chapter__  __.—__ 
 
 >     The term ‘PAL chapter’ means a chapter of a Police or Sheriff’s Athletic/Activities League.
 
->     “(4) __Police Athletic/activities league.—__ 
+>     “(4)  __Police Athletic/activities league__  __.—__ 
 
 >     The term ‘Police Athletic/Activities League’ means the private, nonprofit, national representative organization for 320 Police or Sheriff’s Athletic/Activities Leagues throughout the United States (including the Virgin Islands and the Commonwealth of Puerto Rico).
 
->     “(5) __Public housing; project.—__ 
+>     “(5)  __Public housing; project__  __.—__ 
 
 >     The terms ‘public housing’ and ‘project’ have the meanings given those terms in section 3(b) of the United States Housing Act of 1937 ([42 U.S.C. 1437a(b)][/us/usc/t42/s1437a/b]).
 
 > “SEC. 5. __GRANTS AUTHORIZED.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to appropriations, for each of fiscal years 2006 through 2010, the Assistant Attorney General shall award a grant to the Police Athletic/Activities League for the purpose of establishing PAL chapters to serve public housing projects and other distressed areas, and expanding existing PAL chapters to serve additional youths.
 
 >     “(b) __Application.—__ 
 
->         “(1) __Submission.—__ 
+>         “(1)  __Submission__  __.—__ 
 
 >         In order to be eligible to receive a grant under this section, the Police Athletic/Activities League shall submit to the Assistant Attorney General an application, which shall include—
 
@@ -277,7 +277,7 @@
 
 >             “(D) an explanation of the manner in which new PAL chapters will operate without additional, direct Federal financial assistance once assistance under this Act is discontinued.
 
->         “(2) __Review.—__ 
+>         “(2)  __Review__  __.—__ 
 
 >         The Assistant Attorney General shall review and take action on an application submitted under paragraph (1) not later than 120 days after the date of such submission.
 
@@ -285,11 +285,11 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __Assistance for new and expanded chapters.—__ 
+>         “(1)  __Assistance for new and expanded chapters__  __.—__ 
 
 >         Amounts made available under a grant awarded under this Act shall be used by the Police Athletic/Activities League to provide funding for the establishment of PAL chapters serving public housing projects and other distressed areas, or the expansion of existing PAL chapters.
 
->         “(2) __Program requirements.—__ 
+>         “(2)  __Program requirements__  __.—__ 
 
 >         Each new or expanded PAL chapter assisted under paragraph (1) shall carry out not less than two programs during nonschool hours, of which—
 
@@ -323,7 +323,7 @@
 
 >                 “(vi) Youth Police Athletic/Activities League Conferences or Youth Forums.
 
->     “(b) __Additional Requirements.—__ 
+>     “(b)  __Additional Requirements__  __.—__ 
 
 >     In carrying out the programs under subsection (a), a PAL chapter shall, to the maximum extent practicable—
 
@@ -339,21 +339,21 @@
 
 > “SEC. 7. __REPORTS.__ 
 
->     “(a) __Report to Assistant Attorney General.—__ 
+>     “(a)  __Report to Assistant Attorney General__  __.—__ 
 
 >     For each fiscal year for which a grant is awarded under this Act, the Police Athletic/Activities League shall submit to the Assistant Attorney General a report on the use of amounts made available under the grant.
 
->     “(b) __Report to Congress.—__ 
+>     “(b)  __Report to Congress__  __.—__ 
 
 >     Not later than May 1 of each fiscal year for which amounts are made available to carry out this Act, the Assistant Attorney General shall submit to the Committees on the Judiciary of the Senate and the House of Representatives a report that details the progress made under this Act in establishing and expanding PAL chapters in public housing projects and other distressed areas, and the effectiveness of the PAL programs in reducing drug abuse, school dropouts, and juvenile crime.
 
 > “SEC. 8. __AUTHORIZATION OF APPROPRIATIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this Act $16,000,000 for each of fiscal years 2006 through 2010.
 
->     “(b) __Funding for Program Administration.—__ 
+>     “(b)  __Funding for Program Administration__  __.—__ 
 
 >     Of the amount made available to carry out this Act in each fiscal year—
 
@@ -369,11 +369,11 @@
 
 [Pub. L. 106–313, title I, § 112][/us/pl/106/313/s112], Oct. 17, 2000, [114 Stat. 1260][/us/stat/114/1260], provided that:
 
->     “(a) __Short Title.—__ 
+>     “(a)  __Short Title__  __.—__ 
 
 >     This section may be cited as the ‘Kids 2000 Act’.
 
->     “(b) __Findings.—__ 
+>     “(b)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -397,7 +397,7 @@
 
 >     “(c) __After-School Technology Grants to the Boys and Girls Clubs of America.—__ 
 
->         “(1) __Purposes.—__ 
+>         “(1)  __Purposes__  __.—__ 
 
 >         The Attorney General shall make grants to the Boys and Girls Clubs of America for the purpose of funding effective after-school technology programs, such as PowerUp, in order to provide—
 
@@ -407,17 +407,17 @@
 
 >             “(C) full-time staffing with teachers, tutors, and other qualified personnel.
 
->         “(2) __Subawards.—__ 
+>         “(2)  __Subawards__  __.—__ 
 
 >         The Boys and Girls Clubs of America shall make subawards to local boys and girls clubs authorizing expenditures associated with providing technology programs such as PowerUp, including the hiring of teachers and other personnel, procurement of goods and services, including computer equipment, or such other purposes as are approved by the Attorney General.
 
 >     “(d) __Applications.—__ 
 
->         “(1) __Eligibility.—__ 
+>         “(1)  __Eligibility__  __.—__ 
 
 >         In order to be eligible to receive a grant under this section, an applicant for a subaward (specified in subsection (c)(2)) shall submit an application to the Boys and Girls Clubs of America, in such form and containing such information as the Attorney General may reasonably require.
 
->         “(2) __Application requirements.—__ 
+>         “(2)  __Application requirements__  __.—__ 
 
 >         Each application submitted in accordance with paragraph (1) shall include—
 
@@ -435,7 +435,7 @@
 
 >             “(G) any additional statistical or financial information that the Boys and Girls Clubs of America may reasonably require.
 
->     “(e) __Grant Awards.—__ 
+>     “(e)  __Grant Awards__  __.—__ 
 
 >     In awarding subgrants under this section, the Boys and Girls Clubs of America shall consider—
 
@@ -447,15 +447,15 @@
 
 >     “(f) __Authorization of Appropriations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There is authorized to be appropriated $20,000,000 for each of the fiscal years 2001 through 2006 to carry out this section.
 
->         “(2) __Source of funds.—__ 
+>         “(2)  __Source of funds__  __.—__ 
 
 >         Funds to carry out this section may be derived from the Violent Crime Reduction Trust Fund.
 
->         “(3) __Continued availability.—__ 
+>         “(3)  __Continued availability__  __.—__ 
 
 >         Amounts made available under this subsection shall remain available until expended.”
 
@@ -465,7 +465,7 @@
 
 >     “(a) __Findings and Purpose.—__ 
 
->         “(1) __Findings.—__ 
+>         “(1)  __Findings__  __.—__ 
 
 >         The Congress finds that—
 
@@ -485,11 +485,11 @@
 
 >             “(H) many public housing projects and other distressed areas are still underserved by Boys and Girls Clubs.
 
->         “(2) __Purpose.—__ 
+>         “(2)  __Purpose__  __.—__ 
 
 >         The purpose of this section is to provide adequate resources in the form of seed money for the Boys and Girls Clubs of America to establish 1,500 additional local clubs where needed, with particular emphasis placed on establishing clubs in public housing projects and distressed areas, and to ensure that there are a total of not less than 5,000 Boys and Girls Clubs of America facilities in operation not later than December 31, 2010, serving not less than 5,000,000 young people.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
@@ -499,11 +499,11 @@
 
 >     “(c) __Establishment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         For each of the fiscal years 2006, 2007, 2008, 2009, and 2010, the Director of the Bureau of Justice Assistance of the Department of Justice shall make a grant to the Boys and Girls Clubs of America for the purpose of establishing and extending Boys and Girls Clubs facilities where needed, with particular emphasis placed on establishing clubs in and extending services to public housing projects and distressed areas.
 
->         “(2) __Applications.—__ 
+>         “(2)  __Applications__  __.—__ 
 
 >         The Attorney General shall accept an application for a grant under this subsection if submitted by the Boys and Girls Clubs of America, and approve or deny the grant not later than 90 days after the date on which the application is submitted, if the application—
 
@@ -515,13 +515,13 @@
 
 >             “(D) explains the manner in which new facilities will operate without additional, direct Federal financial assistance to the Boys and Girls Clubs once assistance under this subsection is discontinued.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than May 1 of each fiscal year for which amounts are made available to carry out this Act \[see Tables for classification\], the Attorney General shall submit to the Committees on the Judiciary of the Senate and the House of Representatives a report that details the progress made under this Act in establishing Boys and Girls Clubs in public housing projects and other distressed areas, and the effectiveness of the programs in reducing drug abuse and juvenile crime.
 
 >     “(e) __Authorization of Appropriations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There are authorized to be appropriated to carry out this section—
 
@@ -537,7 +537,7 @@
 
 >         “\[(2) Repealed. [Pub. L. 107–273, div. B, title I, § 1101(3)][/us/pl/107/273/s1101/3], Nov. 2, 2002, [116 Stat. 1791][/us/stat/116/1791].\]
 
->     “(f) __Role Model Grants.—__ 
+>     “(f)  __Role Model Grants__  __.—__ 
 
 >     Of amounts made available under subsection (e) for any fiscal year—
 

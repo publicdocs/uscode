@@ -113,11 +113,11 @@
 
 > “SEC. 5. __TEXAS LOW-LEVEL RADIOACTIVE WASTE COMPACT.__ 
 
->     “(a) __Consent of Congress.—__ 
+>     “(a)  __Consent of Congress__  __.—__ 
 
 >     In accordance with section 4(a)(2) of the Low-Level Radioactive Waste Policy Act ([42 U.S.C. 2021d(a)(2)][/us/usc/t42/s2021d/a/2]), the consent of Congress is given to the States of Texas, Maine, and Vermont to enter into the compact set forth in subsection (b).
 
->     “(b) __Text of Compact.—__ 
+>     “(b)  __Text of Compact__  __.—__ 
 
 >     The compact reads substantially as follows: \[Text of compact appears at [112 Stat. 1543][/us/stat/112/1543]\]”.
 

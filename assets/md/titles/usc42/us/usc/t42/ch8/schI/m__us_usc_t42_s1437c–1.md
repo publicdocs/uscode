@@ -421,15 +421,15 @@
 
 [Pub. L. 105–276, title V, § 511(b)][/us/pl/105/276/s511/b], Oct. 21, 1998, [112 Stat. 2538][/us/stat/112/2538], provided that:
 
->     “(1) __Interim rule.—__ 
+>     “(1)  __Interim rule__  __.—__ 
 
 >     Not later than 120 days after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary shall issue an interim rule to require the submission of an interim public housing agency plan by each public housing agency, as required by section 5A of the United States Housing Act of 1937 \[[42 U.S.C. 1437c–1][/us/usc/t42/s1437c–1]\] (as added by subsection (a) of this section). The interim rule shall provide for a public comment period of not less than 60 days.
 
->     “(2) __Final regulations.—__ 
+>     “(2)  __Final regulations__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary shall issue final regulations implementing section 5A of the United States Housing Act of 1937 \[[42 U.S.C. 1437c–1][/us/usc/t42/s1437c–1]\] (as added by subsection (a) of this section).
 
->     “(3) __Factors for consideration.—__ 
+>     “(3)  __Factors for consideration__  __.—__ 
 
 >     Before the publication of the final regulations under paragraph (2), in addition to public comments invited in connection with the publication of the interim rule, the Secretary shall—
 
@@ -451,7 +451,7 @@
 
 [Pub. L. 105–276, title V, § 511(c)][/us/pl/105/276/s511/c], Oct. 21, 1998, [112 Stat. 2538][/us/stat/112/2538], provided that:
 
->     “(1) __Audit and review.—__ 
+>     “(1)  __Audit and review__  __.—__ 
 
 >     Not later than 1 year after the effective date of final regulations issued under subsection (b)(2) \[set out as a note above\], in order to determine the degree of compliance, by public housing agencies, with public housing agency plans approved under section 5A of the United States Housing Act of 1937 \[[42 U.S.C. 1437c–1][/us/usc/t42/s1437c–1]\] (as added by subsection (a) of this section), the Comptroller General of the United States shall conduct—
 
@@ -459,7 +459,7 @@
 
 >         “(B) an audit and review of the public housing agencies submitting such plans.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 2 years after the date on which public housing agency plans are initially required to be submitted under section 5A of the United States Housing Act of 1937 \[[42 U.S.C. 1437c–1][/us/usc/t42/s1437c–1]\] (as added by subsection (a) of this section) the Comptroller General of the United States shall submit to the Congress a report, which shall include—
 

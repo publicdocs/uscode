@@ -245,7 +245,7 @@
 
 [Pub. L. 106–386, div. B, title IV, § 1405][/us/pl/106/386/s1405], Oct. 28, 2000, [114 Stat. 1515][/us/stat/114/1515], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Attorney General shall—
 
@@ -255,15 +255,15 @@
 
 >         “(3) review existing national, State, tribal, and local protocols on sexual assault forensic examinations, and based on this review, develop a recommended national protocol and establish a mechanism for its nationwide dissemination.
 
->     “(b) __Consultation.—__ 
+>     “(b)  __Consultation__  __.—__ 
 
 >     The Attorney General shall consult with national, State, tribal, and local experts in the area of rape and sexual assault, including rape crisis centers, State and tribal sexual assault and domestic violence coalitions and programs, and programs for criminal justice, forensic nursing, forensic science, emergency room medicine, law, social services, and sex crimes in underserved communities (as defined in \[former\] section 2003(7) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (\[former\] [42 U.S.C. 3796gg–2(7)][/us/usc/t42/s3796gg–2/7]), as amended by this division).
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     The Attorney General shall ensure that not later than 1 year after the date of the enactment of this Act \[Oct. 28, 2000\], a report of the actions taken pursuant to subsection (a) is submitted to Congress.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to carry out this section $200,000 for fiscal year 2001.”
 

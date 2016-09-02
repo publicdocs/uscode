@@ -245,11 +245,11 @@
 
 [Pub. L. 110–343, div. C, title V, § 512(e)][/us/pl/110/343/s512/e], Oct. 3, 2008, [122 Stat. 3891][/us/stat/122/3891], as amended by [Pub. L. 110–460, § 1][/us/pl/110/460/s1], Dec. 23, 2008, [122 Stat. 5123][/us/stat/122/5123], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section, [section 9812 of Title 26][/us/usc/t26/s9812], Internal Revenue Code, and [section 1185a of Title 29][/us/usc/t29/s1185a], Labor\] shall apply with respect to group health plans for plan years beginning after the date that is 1 year after the date of enactment of this Act \[Oct. 3, 2008\], regardless of whether regulations have been issued to carry out such amendments by such effective date, except that the amendments made by subsections (a)(5), (b)(5), and (c)(5) \[amending this section, [section 9812 of Title 26][/us/usc/t26/s9812], and [section 1185a of Title 29][/us/usc/t29/s1185a]\], relating to striking of certain sunset provisions, shall take effect on January 1, 2009.
 
->     “(2) __Special rule for collective bargaining agreements.—__ 
+>     “(2)  __Special rule for collective bargaining agreements__  __.—__ 
 
 >     In the case of a group health plan maintained pursuant to one or more collective bargaining agreements between employee representatives and one or more employers ratified before the date of the enactment of this Act \[Oct. 3, 2008\], the amendments made by this section shall not apply to plan years beginning before the later of—
 

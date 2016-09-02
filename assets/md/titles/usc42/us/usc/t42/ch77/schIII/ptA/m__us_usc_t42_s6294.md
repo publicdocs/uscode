@@ -27,11 +27,11 @@
 
             (C) __Metal halide lamp fixtures.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The Commission shall issue labeling rules under this section applicable to the covered product specified in [section 6292(a)(19) of this title][/us/usc/t42/s6292/a/19] and to which standards are applicable under [section 6295 of this title][/us/usc/t42/s6295].
 
-                (ii) __Labeling.—__ 
+                (ii)  __Labeling__  __.—__ 
 
                 The rules shall provide that the labeling of any metal halide lamp fixture manufactured on or after the later of January 1, 2009, or the date that is 270 days after December 19, 2007, shall indicate conspicuously, in a manner prescribed by the Commission under subsection (b) by July 1, 2008, a capital letter “E” printed within a circle on the packaging of the fixture, and on the ballast contained in the fixture.
 
@@ -43,7 +43,7 @@
 
                 (iii) __Rulemaking to consider effectiveness of lamp labeling.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     Not later than 1 year after December 19, 2007, the Commission shall initiate a rulemaking to consider—
 
@@ -51,7 +51,7 @@
 
                         (bb) alternative labeling approaches that will help consumers to understand new high-efficiency lamp products and to base the purchase decisions of the consumers on the most appropriate source that meets the requirements of the consumers for lighting level, light quality, lamp lifetime, and total lifecycle cost.
 
-                    (II) __Completion.—__ 
+                    (II)  __Completion__  __.—__ 
 
                     The Commission shall—
 
@@ -99,7 +99,7 @@
 
             (I) __Labeling requirements.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Subject to clauses (ii) through (iv), not later than 18 months after the date of issuance of applicable Department of Energy testing procedures, the Commission, in consultation with the Secretary and the Administrator of the Environmental Protection Agency (acting through the Energy Star program), shall, by regulation, prescribe labeling or other disclosure requirements for the energy use of—
 
@@ -113,7 +113,7 @@
 
                     (V) personal computer monitors.
 
-                (ii) __Alternate testing procedures.—__ 
+                (ii)  __Alternate testing procedures__  __.—__ 
 
                 In the absence of applicable testing procedures described in clause (i) for products described in subclauses (I) through (V) of that clause, the Commission may, by regulation, prescribe labeling or other disclosure requirements for a consumer product category described in clause (i) if the Commission—
 
@@ -123,15 +123,15 @@
 
                 (iii) __Deadline and requirements for labeling.—__ 
 
-                    (I) __Deadline.—__ 
+                    (I)  __Deadline__  __.—__ 
 
                     Not later than 18 months after the date of promulgation of any requirements under clause (i) or (ii), the Commission shall require labeling of, or other disclosure requirements for, electronic products described in clause (i).
 
-                    (II) __Requirements.—__ 
+                    (II)  __Requirements__  __.—__ 
 
                     The requirements prescribed under clause (i) or (ii) may include specific requirements for each electronic product to be labeled with respect to the placement, size, and content of Energy Guide labels.
 
-                (iv) __Determination of feasibility.—__ 
+                (iv)  __Determination of feasibility__  __.—__ 
 
                 Clause (i) or (ii) shall not apply in any case in which the Commission determines that labeling in accordance with this subsection—
 
@@ -159,7 +159,7 @@
 
             (C) In the case of dehumidifiers covered under [section 6295(dd) of this title][/us/usc/t42/s6295/dd], the Commission shall not require an “Energy Guide” label.
 
-        (6) __Authority to include additional product categories.—__ 
+        (6)  __Authority to include additional product categories__  __.—__ 
 
         The Commission may, by regulation, require labeling or other disclosures in accordance with this subsection for any consumer product not specified in this subsection or [section 6292 of this title][/us/usc/t42/s6292] if the Commission determines that labeling for the product is likely to assist consumers in making purchasing decisions.
 
@@ -239,7 +239,7 @@
 
             (C) such label shall be displayed in a manner, prescribed by the Commission, to be likely to assist consumers in making purchasing decisions and appropriate to carry out the purposes of this chapter.
 
-        (9) __Discretionary application.—__ 
+        (9)  __Discretionary application__  __.—__ 
 
         The Commission may apply paragraphs (1), (2), (3), (5), and (6) of this subsection to the labeling of any product covered by paragraph (2)(I) or (6) of subsection (a).
 
@@ -363,7 +363,7 @@
 
 [Pub. L. 110–140, title III, § 321(c)][/us/pl/110/140/s321/c], Dec. 19, 2007, [121 Stat. 1584][/us/stat/121/1584], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     In cooperation with the Administrator of the Environmental Protection Agency, the Secretary of Commerce, the Federal Trade Commission, lighting and retail industry associations, energy efficiency organizations, and any other entities that the Secretary of Energy determines to be appropriate, the Secretary of Energy shall—
 
@@ -379,7 +379,7 @@
 
 >         “(C) in cooperation with industry trade associations, lighting industry members, utilities, and other interested parties, carry out a proactive national program of consumer awareness, information, and education that broadly uses the media and other effective communication techniques over an extended period of time to help consumers understand the lamp labels and make energy-efficient lighting choices that meet the needs of consumers.
 
->     “(2) __Authorization of appropriations.—__ 
+>     “(2)  __Authorization of appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to carry out this subsection $10,000,000 for each of fiscal years 2009 through 2012.”
 

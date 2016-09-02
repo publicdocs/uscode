@@ -57,11 +57,11 @@
 
 > “In this Act \[enacting this section and provisions set out as notes under this section and [section 1771 of this title][/us/usc/t42/s1771]\]:
 
->     “(1) __Apparently wholesome food.—__ 
+>     “(1)  __Apparently wholesome food__  __.—__ 
 
 >     The term ‘apparently wholesome food’ has the meaning given the term in section 2(b) \[probably means subsec. (b)\] of the Bill Emerson Good Samaritan Food Donation Act ([42 U.S.C. 1791(b)][/us/usc/t42/s1791/b]).
 
->     “(2) __Excess.—__ 
+>     “(2)  __Excess__  __.—__ 
 
 >     The term ‘excess’, when applied to food, means food that—
 
@@ -69,11 +69,11 @@
 
 >         “(B) would otherwise be discarded.
 
->     “(3) __Food-insecure.—__ 
+>     “(3)  __Food-insecure__  __.—__ 
 
 >     The term ‘food-insecure’ means inconsistent access to sufficient, safe, and nutritious food.
 
->     “(4) __Nonprofit organization.—__ 
+>     “(4)  __Nonprofit organization__  __.—__ 
 
 >     The term ‘nonprofit organization’ means any organization that is—
 

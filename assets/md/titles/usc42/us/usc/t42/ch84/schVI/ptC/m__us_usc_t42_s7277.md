@@ -59,11 +59,11 @@
 
 [Pub. L. 99–58, title II, § 203][/us/pl/99/58/s203], July 2, 1985, [99 Stat. 108][/us/stat/99/108], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Energy shall, through the Energy Information Administration, conduct a comprehensive analysis of the coal import market in the United States and report the findings of such analysis to the Committee on Energy and Natural Resources of the Senate and the appropriate committees of the House of Representatives, within nine months of the date of enactment of this Act \[July 2, 1985\].
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     The report required by this section shall—
 

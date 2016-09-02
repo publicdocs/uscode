@@ -85,11 +85,11 @@
 
 [Pub. L. 107–314, div. C, title XXXI, § 3173(b)][/us/pl/107/314/s3173/b], Dec. 2, 2002, [116 Stat. 2745][/us/stat/116/2745], provided that:
 
->     “(1) __Deadline for promulgating regulations.—__ 
+>     “(1)  __Deadline for promulgating regulations__  __.—__ 
 
 >     The Secretary of Energy shall promulgate the regulations required by subsection a. of section 234C of the Atomic Energy Act of 1954 \[[42 U.S.C. 2282c(a)][/us/usc/t42/s2282c/a]\] (as added by subsection (a)) not later than one year after the date of the enactment of this Act \[Dec. 2, 2002\].
 
->     “(2) __Effective date.—__ 
+>     “(2)  __Effective date__  __.—__ 
 
 >     The regulations promulgated under paragraph (1) shall take effect on the date that is one year after the promulgation date of the regulations.”
 

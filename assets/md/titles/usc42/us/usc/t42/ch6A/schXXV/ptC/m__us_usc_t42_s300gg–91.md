@@ -155,11 +155,11 @@
 
             (A) The term “governmental plan” has the meaning given such term under section 3(32) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1002(32)][/us/usc/t29/s1002/32]\] and any Federal governmental plan.
 
-            (B) __Federal governmental plan.—__ 
+            (B)  __Federal governmental plan__  __.—__ 
 
             The term “Federal governmental plan” means a governmental plan established or maintained for its employees by the Government of the United States or by any agency or instrumentality of such Government.
 
-            (C) __Non-Federal governmental plan.—__ 
+            (C)  __Non-Federal governmental plan__  __.—__ 
 
             The term “non-Federal governmental plan” means a governmental plan that is not a Federal governmental plan.
 

@@ -57,27 +57,27 @@
 
 > “In this subtitle \[subtitle A (§§ 501–527) of title V of [Pub. L. 111–358][/us/pl/111/358], enacting this section and sections 1862p–1 to 1862p–15 of this title, amending sections 1862n–1a, 1862n–5, 1863, and 1869 of this title, and enacting provisions set out as notes under sections 1862p and 1869 of this title\]:
 
->     “(1) __Director.—__ 
+>     “(1)  __Director__  __.—__ 
 
 >     The term ‘Director’ means the Director of the National Science Foundation.
 
->     “(2) __EPSCoR.—__ 
+>     “(2)  __EPSCoR__  __.—__ 
 
 >     The term ‘EPSCoR’ means the Experimental Program to Stimulate Competitive Research.
 
->     “(3) __Foundation.—__ 
+>     “(3)  __Foundation__  __.—__ 
 
 >     The term ‘Foundation’ means the National Science Foundation established under section 2 of the National Science Foundation Act of 1950 ([42 U.S.C. 1861][/us/usc/t42/s1861]).
 
->     “(4) __Institution of higher education.—__ 
+>     “(4)  __Institution of higher education__  __.—__ 
 
 >     The term ‘institution of higher education’ has the meaning given such term in section 101(a) of the Higher Education Act of 1965 ([20 U.S.C. 1001(a)][/us/usc/t20/s1001/a]).
 
->     “(5) __State.—__ 
+>     “(5)  __State__  __.—__ 
 
 >     The term ‘State’ means one of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States.
 
->     “(6) __United States.—__ 
+>     “(6)  __United States__  __.—__ 
 
 >     The term ‘United States’ means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.”
 

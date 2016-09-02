@@ -119,11 +119,11 @@
 
 > “SEC. 604. __BIANNUAL REPORT.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Big Brothers Big Sisters of America shall submit 2 reports to the Administrator in each of fiscal years 2007 through 2013. Big Brothers Big Sisters of America shall submit the first report in a fiscal year not later than April 1 of that fiscal year and the second report in a fiscal year not later than September 30 of that fiscal year.
 
->     “(b) __Required Content.—__ 
+>     “(b)  __Required Content__  __.—__ 
 
 >     Each such report shall include the following:
 

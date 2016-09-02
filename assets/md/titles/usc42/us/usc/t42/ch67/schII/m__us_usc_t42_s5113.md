@@ -287,7 +287,7 @@
 
 >     “(a) __Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Health and Human Services shall—
 
@@ -301,7 +301,7 @@
 
 >                 “(ii) include the policy recommendations of the Secretary with respect to the matter.
 
->         “(2) __Required contents.—__ 
+>         “(2)  __Required contents__  __.—__ 
 
 >         Each report required by paragraph (1) shall—
 
@@ -329,11 +329,11 @@
 
 >     “(b) __Advisory Panel.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         The Secretary of Health and Human Services, in consultation with the Chairman of the Committee on Ways and Means of the House of Representatives and the Chairman of the Committee on Finance of the Senate, shall convene an advisory panel which shall include parents, foster parents, relative caregivers, former foster children, State and local public officials responsible for administering child welfare programs, private persons involved in the delivery of child welfare services, representatives of tribal governments and tribal courts, judges, and academic experts.
 
->         “(2) __Duties.—__ 
+>         “(2)  __Duties__  __.—__ 
 
 >         The advisory panel convened pursuant to paragraph (1) shall review the report prepared pursuant to subsection (a), and, not later than October 1, 1998, submit to the Secretary comments on the report.”
 

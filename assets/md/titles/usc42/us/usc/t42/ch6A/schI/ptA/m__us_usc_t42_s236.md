@@ -99,21 +99,21 @@
 
 [Pub. L. 102–321, title VIII, § 801][/us/pl/102/321/s801], July 10, 1992, [106 Stat. 441][/us/stat/106/441], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     This Act \[See Tables for classification\] takes effect on the date of the enactment of this Act \[July 10, 1992\], subject to subsections (b) through (d).
 
->     “(b) __Amendments.—__ 
+>     “(b)  __Amendments__  __.—__ 
 
 >     The amendments described in this Act are made on the date of the enactment of this Act and take effect on such date, except as provided in subsections (c) and (d).
 
->     “(c) __Reorganization Under Title I.—__ 
+>     “(c)  __Reorganization Under Title I__  __.—__ 
 
 >     Title I \[§§ 101–171\] takes effect on October 1, 1992. The amendments described in such title are made on such date and take effect on such date.
 
 >     “(d) __Programs Providing Financial Assistance.—__ 
 
->         “(1) __Fiscal year 1993 and subsequent years.—__ 
+>         “(1)  __Fiscal year 1993 and subsequent years__  __.—__ 
 
 >         In the case of any program making awards of grants, cooperative agreements, or contracts, the amendments made by this Act are effective for awards made on or after October 1, 1992.
 
@@ -137,11 +137,11 @@
 
 [Pub. L. 99–91, § 4][/us/pl/99/91/s4], Aug. 15, 1985, [99 Stat. 388][/us/stat/99/388], as amended by [Pub. L. 100–290, § 4][/us/pl/100/290/s4], Apr. 18, 1988, [102 Stat. 92][/us/stat/102/92]; [Pub. L. 102–321, title I, § 163(c)(1)][/us/pl/102/321/s163/c/1], July 10, 1992, [106 Stat. 376][/us/stat/106/376], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established the National Commission on Orphan Diseases (hereinafter referred to as the ‘Commission’).
 
->     “(b) __Duty.—__ 
+>     “(b)  __Duty__  __.—__ 
 
 >     The Commission shall assess the activities of the National Institutes of Health, the Food and Drug Administration, other public agencies, and private entities in connection with—
 
@@ -153,7 +153,7 @@
 
 >         “(4) the dissemination to the public, health care professionals, researchers, and drug and medical device manufacturers of knowledge developed in research on rare diseases and other diseases which can be used in the prevention, diagnosis, and treatment of rare diseases.
 
->     “(c) __Review Requirements.—__ 
+>     “(c)  __Review Requirements__  __.—__ 
 
 >     In assessing the activities of the National Institutes of Health, and the Food and Drug Administration in connection with research on rare diseases, the Commission shall review—
 
@@ -173,7 +173,7 @@
 
 >         “(8) the effectiveness of activities undertaken to assure that knowledge developed in research on nonrare diseases is, when appropriate, used in research on rare diseases.
 
->     “(d) __Composition.—__ 
+>     “(d)  __Composition__  __.—__ 
 
 >     The Commission shall be composed of twenty members appointed by the Secretary of Health and Human Services as follows:
 
@@ -187,7 +187,7 @@
 
 >         A vacancy in the Commission shall be filled in the manner in which the original appointment was made. If any member of the Commission who was appointed to the Commission as a director of a national research institute or as an officer or employee of the Food and Drug Administration leaves that office or position, or if any member of the Commission who was appointed from persons who are not officers or employees of the Government becomes an officer or employee of the Government, such member may continue as a member of the Commission for not longer than the ninety-day period beginning on the date such member leaves that office or position or becomes such an officer or employee, as the case may be.
 
->     “(e) __Term.—__ 
+>     “(e)  __Term__  __.—__ 
 
 >     Members shall be appointed for the life of the Commission.
 
@@ -197,35 +197,35 @@
 
 >         “(2) Members of the Commission who are full-time officers or employees of the Government shall receive no additional pay by reason of their service on the Commission.
 
->     “(g) __Chairman.—__ 
+>     “(g)  __Chairman__  __.—__ 
 
 >     The Chairman of the Commission shall be designated by the members of the Commission.
 
->     “(h) __Staff.—__ 
+>     “(h)  __Staff__  __.—__ 
 
 >     Subject to such rules as may be prescribed by the Commission, the Commission may appoint and fix the pay of such personnel as it determines are necessary to enable the Commission to carry out its functions. Personnel shall be appointed subject to the provisions of title 5, United States Code, governing appointments in the competitive service, and shall be paid in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
->     “(i) __Experts and Consultants.—__ 
+>     “(i)  __Experts and Consultants__  __.—__ 
 
 >     Subject to such rules as may be prescribed by the Commission, the Commission may procure temporary and intermittent services under [section 3109(b) of title 5][/us/usc/t5/s3109/b] of the United States Code, but at rates for individuals not to exceed the daily equivalent of the basic pay payable for grade GS–15 of the General Schedule.
 
->     “(j) __Detail of Personnel.—__ 
+>     “(j)  __Detail of Personnel__  __.—__ 
 
 >     Upon request of the Commission, the head of any Federal agency is authorized to detail, on a reimbursable basis, any of the personnel of such agency to the Commission to assist the Commission in carrying out its functions.
 
->     “(k) __Administrative Support Services.—__ 
+>     “(k)  __Administrative Support Services__  __.—__ 
 
 >     The Administrator of General Services shall provide to the Commission on a reimbursable basis such administrative support services as the Commission may request.
 
->     “(l) __General Authority.—__ 
+>     “(l)  __General Authority__  __.—__ 
 
 >     The Commission may, for the purpose of carrying out this section, hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence, as the Commission considers appropriate.
 
->     “(m) __Information.—__ 
+>     “(m)  __Information__  __.—__ 
 
 >     The Commission may secure directly from any department or agency of the United States information necessary to enable it to carry out this section. Upon request of the Chairman, the head of such department or agency shall furnish such information to the Commission.
 
->     “(n) __Report.—__ 
+>     “(n)  __Report__  __.—__ 
 
 >     The Commission shall transmit to the Secretary and to each House of the Congress a report not later than February 1, 1989, on the activities of the Commission. The report shall contain a detailed statement of the findings and conclusions of the Commission, together with its recommendations for—
 
@@ -233,11 +233,11 @@
 
 >         “(2) such legislation or administrative actions as it considers appropriate.
 
->     “(o) __Termination.—__ 
+>     “(o)  __Termination__  __.—__ 
 
 >     The Commission shall terminate 90 days after the date of the submittal of its report under subsection (n).
 
->     “(p) __Funds.—__ 
+>     “(p)  __Funds__  __.—__ 
 
 >     The Director of the National Institutes of Health shall make available $1,000,000 to the Commission from appropriations for fiscal year 1986 for the National Institutes of Health.”
 

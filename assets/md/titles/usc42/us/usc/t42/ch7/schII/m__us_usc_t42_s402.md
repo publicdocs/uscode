@@ -2475,7 +2475,7 @@
 
 [Pub. L. 108–203, title IV, § 412(c)][/us/pl/108/203/s412/c], Mar. 2, 2004, [118 Stat. 528][/us/stat/118/528], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by—
 
@@ -2485,21 +2485,21 @@
 
 >         “(C) subsection (a)(3) \[amending this section\] shall be effective as if enacted on March 1, 1991.
 
->     “(2) __Subsequent correction of cross-reference and terminology.—__ 
+>     “(2)  __Subsequent correction of cross-reference and terminology__  __.—__ 
 
 >     The amendments made by subsections (a)(4) and (b)(1) \[amending this section\] shall be effective as if enacted on April 1, 1997.
 
->     “(3) __References to the secretary of homeland security.—__ 
+>     “(3)  __References to the secretary of homeland security__  __.—__ 
 
 >     The amendment made by subsection (b)(2) \[amending this section\] shall be effective as if enacted on March 1, 2003.”
 
 [Pub. L. 108–203, title IV, § 418(c)][/us/pl/108/203/s418/c], Mar. 2, 2004, [118 Stat. 533][/us/stat/118/533], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 426 of this title][/us/usc/t42/s426]\] shall apply with respect to applications for benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] filed on or after the first day of the first month that begins after the date of enactment of this Act \[Mar. 2, 2004\], except that such amendments shall not apply in connection with monthly periodic benefits of any individual based on earnings while in service described in section 202(k)(5)(A) of the Social Security Act \[[42 U.S.C. 402(k)(5)(A)][/us/usc/t42/s402/k/5/A]\] (in the matter preceding clause (i) thereof) if the last day of such service occurs before July 1, 2004.
 
->     “(2) __Transitional rule.—__ 
+>     “(2)  __Transitional rule__  __.—__ 
 
 >     In the case of any individual whose last day of service described in subparagraph (A) of section 202(k)(5) of the Social Security Act (as added by subsection (a) of this section) occurs within 5 years after the date of enactment of this Act—
 
@@ -2579,11 +2579,11 @@
 
 [Pub. L. 101–508, title V, § 5103(e)][/us/pl/101/508/s5103/e], Nov. 5, 1990, [104 Stat. 1388–253][/us/stat/104/1388-253], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 416, 423, 426, and 1383c of this title\] (other than paragraphs (1) and (2)(C) of subsection (c) \[amending sections 426 and 1383c of this title\]) shall apply with respect to monthly insurance benefits for months after December 1990 for which applications are filed on or after January 1, 1991, or are pending on such date. The amendments made by subsection (c)(1) \[amending [section 1383c of this title][/us/usc/t42/s1383c]\] shall apply with respect to medical assistance provided after December 1990. The amendments made by subsection (c)(2)(C) \[amending [section 426 of this title][/us/usc/t42/s426]\] shall apply with respect to items and services furnished after December 1990.
 
->     “(2) __Application requirements for certain individuals on benefit rolls.—__ 
+>     “(2)  __Application requirements for certain individuals on benefit rolls__  __.—__ 
 
 >     In the case of any individual who—
 

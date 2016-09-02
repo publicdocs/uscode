@@ -1933,11 +1933,11 @@
 
 [Pub. L. 103–432, title I, § 123(f)(3)][/us/pl/103/432/s123/f/3], (4), Oct. 31, 1994, [108 Stat. 4413][/us/stat/108/4413], provided that:
 
->     “(3) __EOMBs.—__ 
+>     “(3)  __EOMBs__  __.—__ 
 
 >     The amendments made by subsection (c)(1) \[amending this section\] shall apply to explanations of benefits provided on or after July 1, 1995.
 
->     “(4) __Carrier determinations.—__ 
+>     “(4)  __Carrier determinations__  __.—__ 
 
 >     The amendments made by subsection (c)(2) \[amending this section\] shall apply to contracts as of January 1, 1995.”
 
@@ -2049,7 +2049,7 @@
 
 >      ‘HMO/CMP enrollments.—The amendment made by subsection (f) \[amending [section 1395mm of this title][/us/usc/t42/s1395mm]\] shall apply to enrollments effected on or after January 1, 1990.’\]
 
->     “(4) __Diagnostic coding.—__ 
+>     “(4)  __Diagnostic coding__  __.—__ 
 
 >     The amendment made by subsection (g) \[amending this section\] shall apply to services furnished after March 31, 1989.
 
@@ -2339,7 +2339,7 @@
 
 >         “(1) __Study.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Comptroller General of the United States shall conduct a study on the reimbursement for drugs and biologicals under the current medicare payment methodology (provided under section 1842(o) of the Social Security Act ([42 U.S.C. 1395u][/us/usc/t42/s1395u](o))) and for related services under part B of title XVIII of such Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\]. In the study, the Comptroller General shall—
 
@@ -2349,17 +2349,17 @@
 
 >                 “(iii) determine the extent to which (if any) payment under such part is adequate to compensate physicians, providers of services, or other suppliers of such drugs and biologicals for costs incurred in the administration, handling, or storage of such drugs or biologicals.
 
->             “(B) __Consultation.—__ 
+>             “(B)  __Consultation__  __.—__ 
 
 >             In conducting the study under subparagraph (A), the Comptroller General shall consult with physicians, providers of services, and suppliers of drugs and biologicals under the medicare program under title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], as well as other organizations involved in the distribution of such drugs and biologicals to such physicians, providers of services, and suppliers.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than 9 months after the date of the enactment of this Act \[Dec. 21, 2000\], the Comptroller General shall submit to Congress and to the Secretary of Health and Human Services a report on the study conducted under this subsection, and shall include in such report recommendations for revised payment methodologies described in paragraph (3).
 
 >         “(3) __Recommendations for revised payment methodologies.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Comptroller General shall provide specific recommendations for revised payment methodologies for reimbursement for drugs and biologicals and for related services under the medicare program. The Comptroller General may include in the recommendations—
 
@@ -2367,11 +2367,11 @@
 
 >                 “(ii) proposals for new payments to providers of services or suppliers for such costs, if appropriate.
 
->             “(B) __Ensuring patient access to care.—__ 
+>             “(B)  __Ensuring patient access to care__  __.—__ 
 
 >             In making recommendations under this paragraph, the Comptroller General shall ensure that any proposed revised payment methodology is designed to ensure that medicare beneficiaries continue to have appropriate access to health care services under the medicare program.
 
->             “(C) __Matters considered.—__ 
+>             “(C)  __Matters considered__  __.—__ 
 
 >             In making recommendations under this paragraph, the Comptroller General shall consider—
 
@@ -2381,21 +2381,21 @@
 
 >                 “(iii) the effect of any revised payment methodology on the delivery of drug therapies by hospital outpatient departments.
 
->             “(D) __Coordination with bbra study.—__ 
+>             “(D)  __Coordination with bbra study__  __.—__ 
 
 >             In making recommendations under this paragraph, the Comptroller General shall conclude and take into account the results of the study provided for under section 213(a) of BBRA \[[Pub. L. 106–113, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title II, § 213(a)\], set out as a note under section 1395l of this title\] ([113 Stat. 1501][/us/stat/113/1501]A–350).
 
 >     “(b) __Implementation of New Payment Methodology.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law, based on the recommendations contained in the report under subsection (a), the Secretary of Health and Human Services, subject to paragraph (2), shall revise the payment methodology under section 1842(o) of the Social Security Act ([42 U.S.C. 1395u][/us/usc/t42/s1395u](o)) for drugs and biologicals furnished under part B of the medicare program \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\]. To the extent the Secretary determines appropriate, the Secretary may provide for the adjustments to payments amounts referred to in subsection (a)(3)(A)(i) or additional payments referred to in subsection (a)(2)(A)(ii).
 
->         “(2) __Limitation.—__ 
+>         “(2)  __Limitation__  __.—__ 
 
 >         In revising the payment methodology under paragraph (1), in no case may the estimated aggregate payments for drugs and biologicals under the revised system (including additional payments referred to in subsection (a)(3)(A)(ii)) exceed the aggregate amount of payment for such drugs and biologicals, as projected by the Secretary, that would have been made under the payment methodology in effect under such section 1842(o).
 
->     “(c) __Moratorium on Decreases in Payment Rates.—__ 
+>     “(c)  __Moratorium on Decreases in Payment Rates__  __.—__ 
 
 >     Notwithstanding any other provision of law, effective for drugs and biologicals furnished on or after January 1, 2001, the Secretary may not directly or indirectly decrease the rates of reimbursement (in effect as of such date) for drugs and biologicals under the current medicare payment methodology (provided under section 1842(o) of the Social Security Act ([42 U.S.C. 1395u][/us/usc/t42/s1395u](o))) until such time as the Secretary has reviewed the report submitted under subsection (a)(2).”
 
@@ -2403,7 +2403,7 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title II, § 223(a), (b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–352, 1501A–353, provided that:
 
->     “(a) __Limitation on Use.—__ 
+>     “(a)  __Limitation on Use__  __.—__ 
 
 >     The Secretary of Health and Human Services may not use, or permit fiscal intermediaries or carriers to use, the inherent reasonableness authority provided under section 1842(b)(8) of the Social Security Act ([42 U.S.C. 1395u(b)(8)][/us/usc/t42/s1395u/b/8]) until after—
 
@@ -2411,7 +2411,7 @@
 
 >         “(2) the Secretary has published a notice of final rulemaking in the Federal Register that relates to such authority and that responds to such report and to comments received in response to the Secretary’s interim final regulation relating to such authority that was published in the Federal Register on January 7, 1998.
 
->     “(b) __Reevaluation of IR Criteria.—__ 
+>     “(b)  __Reevaluation of IR Criteria__  __.—__ 
 
 >     In promulgating the final regulation under subsection (a)(2), the Secretary shall—
 
@@ -2431,7 +2431,7 @@
 
 >     “(a) __Selection of Regional Carriers.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall—
 
@@ -2439,7 +2439,7 @@
 
 >             “(B) designate a single carrier for each such region, for the purpose of payment of claims under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] with respect to clinical diagnostic laboratory tests furnished on or after such date (not later than July 1, 1999) as the Secretary specifies.
 
->         “(2) __Designation.—__ 
+>         “(2)  __Designation__  __.—__ 
 
 >         In designating such carriers, the Secretary shall consider, among other criteria—
 
@@ -2447,25 +2447,25 @@
 
 >             “(B) a carrier’s capacity to conduct electronic data interchange with laboratories and data matches with other carriers.
 
->         “(3) __Single data resource.—__ 
+>         “(3)  __Single data resource__  __.—__ 
 
 >         The Secretary shall select one of the designated carriers to serve as a central statistical resource for all claims information relating to such clinical diagnostic laboratory tests handled by all the designated carriers under such part.
 
->         “(4) __Allocation of claims.—__ 
+>         “(4)  __Allocation of claims__  __.—__ 
 
 >         The allocation of claims for clinical diagnostic laboratory tests to particular designated carriers shall be based on whether a carrier serves the geographic area where the laboratory specimen was collected or other method specified by the Secretary.
 
->         “(5) __Secretarial exclusion.—__ 
+>         “(5)  __Secretarial exclusion__  __.—__ 
 
 >         Paragraph (1) shall not apply with respect to clinical diagnostic laboratory tests furnished by physician office laboratories if the Secretary determines that such offices would be unduly burdened by the application of billing responsibilities with respect to more than one carrier.
 
 >     “(b) __Adoption of National Policies for Clinical Laboratory Tests Benefit.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than January 1, 1999, the Secretary shall first adopt, consistent with paragraph (2), national coverage and administrative policies for clinical diagnostic laboratory tests under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\], using a negotiated rulemaking process under subchapter III of chapter 5 of title 5, United States Code.
 
->         “(2) __Considerations in design of national policies.—__ 
+>         “(2)  __Considerations in design of national policies__  __.—__ 
 
 >         The policies under paragraph (1) shall be designed to promote program integrity and national uniformity and simplify administrative requirements with respect to clinical diagnostic laboratory tests payable under such part in connection with the following:
 
@@ -2483,27 +2483,27 @@
 
 >             “(G) Limitation on frequency of coverage for the same tests performed on the same individual.
 
->         “(3) __Changes in laboratory policies pending adoption of national policy.—__ 
+>         “(3)  __Changes in laboratory policies pending adoption of national policy__  __.—__ 
 
 >         During the period that begins on the date of the enactment of this Act \[Aug. 5, 1997\] and ends on the date the Secretary first implements national policies pursuant to regulations promulgated under this subsection, a carrier under such part may implement changes relating to requirements for the submission of a claim for clinical diagnostic laboratory tests.
 
->         “(4) __Use of interim policies.—__ 
+>         “(4)  __Use of interim policies__  __.—__ 
 
 >         After the date the Secretary first implements such national policies, the Secretary shall permit any carrier to develop and implement interim policies of the type described in paragraph (1), in accordance with guidelines established by the Secretary, in cases in which a uniform national policy has not been established under this subsection and there is a demonstrated need for a policy to respond to aberrant utilization or provision of unnecessary tests. Except as the Secretary specifically permits, no policy shall be implemented under this paragraph for a period of longer than 2 years.
 
->         “(5) __Interim national policies.—__ 
+>         “(5)  __Interim national policies__  __.—__ 
 
 >         After the date the Secretary first designates regional carriers under subsection (a), the Secretary shall establish a process under which designated carriers can collectively develop and implement interim national policies of the type described in paragraph (1). No such policy shall be implemented under this paragraph for a period of longer than 2 years.
 
->         “(6) __Biennial review process.—__ 
+>         “(6)  __Biennial review process__  __.—__ 
 
 >         Not less often than once every 2 years, the Secretary shall solicit and review comments regarding changes in the national policies established under this subsection. As part of such biennial review process, the Secretary shall specifically review and consider whether to incorporate or supersede interim policies developed under paragraph (4) or (5). Based upon such review, the Secretary may provide for appropriate changes in the national policies previously adopted under this subsection.
 
->         “(7) __Requirement and notice.—__ 
+>         “(7)  __Requirement and notice__  __.—__ 
 
 >         The Secretary shall ensure that any policies adopted under paragraph (3), (4), or (5) shall apply to all laboratory claims payable under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\], and shall provide for advance notice to interested parties and a 45-day period in which such parties may submit comments on the proposed change.
 
->     “(c) __Inclusion of Laboratory Representative on Carrier Advisory Committees.—__ 
+>     “(c)  __Inclusion of Laboratory Representative on Carrier Advisory Committees__  __.—__ 
 
 >     The Secretary shall direct that any advisory committee established by a carrier to advise such carrier with respect to coverage and administrative policies under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] shall include an individual to represent the independent clinical laboratories and such other laboratories as the Secretary deems appropriate. The Secretary shall consider recommendations from national and local organizations that represent independent clinical laboratories in such selection.”
 
@@ -2571,15 +2571,15 @@
 
 [Pub. L. 101–239, title VI, § 6107(a)][/us/pl/101/239/s6107/a], Dec. 19, 1989, [103 Stat. 2211][/us/stat/103/2211], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Subject to the amendments made by this section \[amending this section\], any increase or adjustment in customary, prevailing, or reasonable charges, fee schedule amounts, maximum allowable actual charges, and other limits on actual charges with respect to physicians’ services and other items and services described in paragraph (2) under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] which would otherwise occur as of January 1, 1990, shall be delayed so as to occur as of April 1, 1990, and, notwithstanding any other provision of law, the amount of payment under such part for such items and services which are furnished during the period beginning on January 1, 1990, and ending on March 31, 1990, shall be determined on the same basis as the amount of payment for such services furnished on December 31, 1989.
 
->     “(2) __Items and services covered.—__ 
+>     “(2)  __Items and services covered__  __.—__ 
 
 >     The items and services described in this paragraph are items and services (other than ambulance services and clinical diagnostic laboratory services) for which payment is made under part B of title XVIII of the Social Security Act on the basis of a reasonable charge or a fee schedule.
 
->     “(3) __Extension of participation agreements and related provisions.—__ 
+>     “(3)  __Extension of participation agreements and related provisions__  __.—__ 
 
 >     Notwithstanding any other provision of law—
 
@@ -2659,11 +2659,11 @@
 
 [Pub. L. 100–203, title IV, § 4051(b)][/us/pl/100/203/s4051/b], Dec. 22, 1987, [101 Stat. 1330–94][/us/stat/101/1330-94], provided that:
 
->     “(1) __Review.—__ 
+>     “(1)  __Review__  __.—__ 
 
 >     The Secretary of Health and Human Services shall review payment levels under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] for diagnostic tests (described in section 1861(s)(3) of such Act \[[42 U.S.C. 1935x(s)(3)][/us/usc/t42/s1935x/s/3]\], but excluding clinical diagnostic laboratory tests) which are commonly performed by independent suppliers, sold as a service to physicians, and billed by such physicians, in order to determine the reasonableness of payment amounts for such tests (and for associated professional services component of such tests). The Secretary may require physicians and suppliers to provide such information on the purchase or sale price (net of any discounts) for such tests as is necessary to complete the review and make the adjustments under this subsection. The Secretary shall also review the reasonableness of payment levels for comparable in-office diagnostic tests.
 
->     “(2) __Establishment of revised payment screens.—__ 
+>     “(2)  __Establishment of revised payment screens__  __.—__ 
 
 >     If, as a result of such review, the Secretary determines, after notice and opportunity of at least 60 days for public comment, that the current prevailing charge levels (under the third and fourth sentences of section 1842(b) of the Social Security Act \[[42 U.S.C. 1395u(b)][/us/usc/t42/s1395u/b]\]) for any such tests or associated professional services are excessive, the Secretary shall establish such charge levels at levels which, consistent with assuring that the test is widely and consistently available to medicare beneficiaries, reflect a reasonable price for the test without any markup. Alternatively, the Secretary, pursuant to guidelines published after notice and opportunity of at least 60 days for public comment, may delegate to carriers with contracts under section 1842 of the Social Security Act the establishment of new prevailing charge levels under this paragraph. When such charge levels are established, the provisions of section 1842(j)(1)(D) of such Act shall apply in the same manner as they apply to a reduction under section 1842(b)(8)(A) of such Act.”
 
@@ -2677,11 +2677,11 @@
 
 [Pub. L. 100–203, title IV, § 4056(a)][/us/pl/100/203/s4056/a], formerly § 4055(a), Dec. 22, 1987, [101 Stat. 1330–98][/us/stat/101/1330-98], as renumbered and amended by [Pub. L. 100–360, title IV, § 411(f)(13)(A)][/us/pl/100/360/s411/f/13/A], (14), July 1, 1988, [102 Stat. 781][/us/stat/102/781]; [Pub. L. 101–508, title IV, § 4118(g)(4)][/us/pl/101/508/s4118/g/4], Nov. 5, 1990, [104 Stat. 1388–70][/us/stat/104/1388-70], provided that:
 
->     “(1) __Report on variations in carrier payment practice.—__ 
+>     “(1)  __Report on variations in carrier payment practice__  __.—__ 
 
 >     The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall conduct a study of variations in payment practices for physicians’ services among the different carriers under section 1842 of the Social Security Act \[[42 U.S.C. 1395u][/us/usc/t42/s1395u]\]. Such study shall examine carrier variations in the services included in global fees and pre- and post-operative services included in payment for the operation.
 
->     “(2) __Uniform definitions of procedures for payment purposes.—__ 
+>     “(2)  __Uniform definitions of procedures for payment purposes__  __.—__ 
 
 >     The Secretary shall develop, in consultation with appropriate national medical specialty societies and by not later than July 1, 1989, uniform definitions of physicians’ services (including appropriate classification scheme for procedures) which could serve as the basis for making payments for such services under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\]. In developing such definitions, to the extent practicable—
 
@@ -2695,11 +2695,11 @@
 
 [Pub. L. 100–203, title IV, § 4062(a)][/us/pl/100/203/s4062/a], Dec. 22, 1987, [101 Stat. 1330–100][/us/stat/101/1330-100], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     In imposing limitations on allowable charges for items and services (other than physicians’ services) furnished in 1988 under part B of title XVIII of such Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] and for which payment is made on the basis of the reasonable charge for the item or service, the Secretary of Health and Human Services shall not impose any limitation at a level higher than the same level as was in effect in December 1987.
 
->     “(2) __Transition.—__ 
+>     “(2)  __Transition__  __.—__ 
 
 >     The provisions of section 4041(a)(2) (other than subparagraph (D) thereof) of this subtitle \[set out as a note above\] shall apply to suppliers of items and services described in paragraph (1), and directories of participating suppliers of such items and services, in the same manner as such section applies to physicians furnishing physicians’ services, and directories of participating physicians.”
 
@@ -2745,11 +2745,11 @@
 
 [Pub. L. 99–509, title IX, § 9331(c)(1)][/us/pl/99/509/s9331/c/1], (2), (4)–(6), Oct. 21, 1986, [100 Stat. 2020][/us/stat/100/2020], 2021, provided that:
 
->     “(1) __For 1987.—__ 
+>     “(1)  __For 1987__  __.—__ 
 
 >     Notwithstanding any other provision of law, for purposes of part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] for physicians’ services furnished in 1987, the percentage increase in the MEI (as defined in section 1842(b)(4)(E)(ii) of the Social Security Act \[[42 U.S.C. 1395u(b)(4)(E)(ii)][/us/usc/t42/s1395u/b/4/E/ii]\]) shall be 3.2 percent.
 
->     “(2) __Prohibiting retroactive adjustment of medicare economic index.—__ 
+>     “(2)  __Prohibiting retroactive adjustment of medicare economic index__  __.—__ 
 
 >     The Secretary of Health and Human Services is not authorized to revise the MEI in a manner that provides, for any period before January 1, 1985, for the substitution of a rental equivalence or rental substitution factor for the housing component of the consumer price index.”
 
@@ -2773,11 +2773,11 @@
 
 [Pub. L. 99–509, title IX, § 9332(a)(4)(B)][/us/pl/99/509/s9332/a/4/B], (C), Oct. 21, 1986, [100 Stat. 2023][/us/stat/100/2023], as amended by [Pub. L. 100–203, title IV, § 4041(a)(3)(B)(ii)][/us/pl/100/203/s4041/a/3/B/ii], (iii), Dec. 22, 1987, [101 Stat. 1330–84][/us/stat/101/1330-84]; [Pub. L. 100–360, title IV, § 411(f)(1)(C)][/us/pl/100/360/s411/f/1/C], July 1, 1988, [102 Stat. 776][/us/stat/102/776], provided that:
 
->     “(B) __Performance measures.—__ 
+>     “(B)  __Performance measures__  __.—__ 
 
 >     The Secretary of Health and Human Services shall provide for the establishment of the standards and criteria required under the last sentence of section 1842(b)(2) of the Social Security Act \[[42 U.S.C. 1395u(b)(2)][/us/usc/t42/s1395u/b/2]\] by not later than October 1, 1987, which shall apply to contracts as of October 1, 1987.
 
->     “(C) __Carrier bonuses.—__ 
+>     “(C)  __Carrier bonuses__  __.—__ 
 
 >     From the amounts appropriated for each fiscal year (beginning with fiscal year 1988), the Secretary of Health and Human Services shall first provide for payments of bonuses to carriers under section 1842(c)(1)(B) of the Social Security Act \[[42 U.S.C. 1395u(c)(1)(B)][/us/usc/t42/s1395u/c/1/B]\] not later than September 30, 1988, to reflect performance of carriers during the enrollment period before April 1, 1988.”
 
@@ -2791,11 +2791,11 @@
 
 [Pub. L. 99–509, title IX, § 9334(b)][/us/pl/99/509/s9334/b], Oct. 21, 1986, [100 Stat. 2028][/us/stat/100/2028], as amended by [Pub. L. 100–203, title IV, § 4045(c)(2)(C)][/us/pl/100/203/s4045/c/2/C], Dec. 22, 1987, [101 Stat. 1330–88][/us/stat/101/1330-88], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Congress hereby ratifies the final regulation of the Secretary of Health and Human Services published on page 35693 of volume 51 of the Federal Register on October 7, 1986, relating to reasonable charge payment limits for anesthesia services under the medicare program.
 
->     “(2) __Patient protections.—__ 
+>     “(2)  __Patient protections__  __.—__ 
 
 >     In the case of any reduction in the reasonable charge for physicians’ services effected under the regulation described in paragraph (1), the provisions of section 1842(j)(1)(D) of the Social Security Act \[[42 U.S.C. 1395u(j)(1)(D)][/us/usc/t42/s1395u/j/1/D]\] (added by the amendment made by subsection (a)(3)) shall apply in the same manner and to the same extent as they apply to a reduction in the reasonable charge for a physicians’ service effected under section 1842(b)(8) of such Act.”
 

@@ -71,13 +71,13 @@
 
 [Pub. L. 106–170, title III, § 302][/us/pl/106/170/s302], Dec. 17, 1999, [113 Stat. 1902][/us/stat/113/1902], as amended by [Pub. L. 108–203, title IV][/us/pl/108/203], §§ 402, 403, Mar. 2, 2004, [118 Stat. 525][/us/stat/118/525], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     The Commissioner of Social Security shall conduct demonstration projects for the purpose of evaluating, through the collection of data, a program for title II disability beneficiaries (as defined in section 1148(k)(3) of the Social Security Act \[[42 U.S.C. 1320b–19(k)(3)][/us/usc/t42/s1320b–19/k/3]\]) under which benefits payable under section 223 of such Act \[[42 U.S.C. 423][/us/usc/t42/s423]\], or under section 202 of such Act \[[42 U.S.C. 402][/us/usc/t42/s402]\] based on the beneficiary’s disability, are reduced by $1 for each $2 of the beneficiary’s earnings that is above a level to be determined by the Commissioner. Such projects shall be conducted at a number of localities which the Commissioner shall determine is sufficient to adequately evaluate the appropriateness of national implementation of such a program. Such projects shall identify reductions in Federal expenditures that may result from the permanent implementation of such a program.
 
 >     “(b) __Scope and Scale and Matters To Be Determined.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The demonstration projects developed under subsection (a) shall be of sufficient duration, shall be of sufficient scope, and shall be carried out on a wide enough scale to permit a thorough evaluation of the project to determine—
 
@@ -89,7 +89,7 @@
 
 >             The Commissioner shall take into account advice provided by the Ticket to Work and Work Incentives Advisory Panel pursuant to section 101(f)(2)(B)(ii) of this Act \[set out as a note under [section 1320b–19 of this title][/us/usc/t42/s1320b–19]\].
 
->         “(2) __Additional matters.—__ 
+>         “(2)  __Additional matters__  __.—__ 
 
 >         The Commissioner shall also determine with respect to each project—
 
@@ -101,19 +101,19 @@
 
 >             The Commissioner may include within the matters evaluated under the project the merits of trial work periods and periods of extended eligibility.
 
->     “(c) __Waivers.—__ 
+>     “(c)  __Waivers__  __.—__ 
 
 >     The Commissioner may waive compliance with the benefit provisions of title II of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401] et seq.) and the requirements of section 1148 of such Act ([42 U.S.C. 1320b–19][/us/usc/t42/s1320b–19]) as they relate to the program established under title II of such Act, and the Secretary of Health and Human Services may waive compliance with the benefit requirements of title XVIII of such Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.), insofar as is necessary for a thorough evaluation of the alternative methods under consideration. No such project shall be actually placed in operation unless at least 90 days prior thereto a written report, prepared for purposes of notification and information only and containing a full and complete description thereof, has been transmitted by the Commissioner to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate. Periodic reports on the progress of such projects shall be submitted by the Commissioner to such committees. When appropriate, such reports shall include detailed recommendations for changes in administration or law, or both, to carry out the objectives stated in subsection (a).
 
->     “(d) __Interim Reports.—__ 
+>     “(d)  __Interim Reports__  __.—__ 
 
 >     Not later than 2 years after the date of the enactment of this Act \[Dec. 17, 1999\], and annually thereafter, the Commissioner of Social Security shall submit to the Congress an interim report on the progress of the demonstration projects carried out under this subsection together with any related data and materials that the Commissioner of Social Security may consider appropriate.
 
->     “(e) __Final Report.—__ 
+>     “(e)  __Final Report__  __.—__ 
 
 >     The Commissioner of Social Security shall submit to the Congress a final report with respect to all demonstration projects carried out under this section not later than 1 year after their completion.
 
->     “(f) __Expenditures.—__ 
+>     “(f)  __Expenditures__  __.—__ 
 
 >     Administrative expenses for demonstration projects under this section shall be paid from funds available for the administration of title II or XVIII of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq., 1395 et seq.\], as appropriate. Benefits payable to or on behalf of individuals by reason of participation in projects under this section shall be made from the Federal Disability Insurance Trust Fund and the Federal Old-Age and Survivors Insurance Trust Fund, as determined appropriate by the Commissioner of Social Security, and from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund, as determined appropriate by the Secretary of Health and Human Services, from funds available for benefits under such title II or XVIII.”
 

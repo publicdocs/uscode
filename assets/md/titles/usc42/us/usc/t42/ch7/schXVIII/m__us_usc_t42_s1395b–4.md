@@ -163,19 +163,19 @@
 
 [Pub. L. 110–275, title I, § 186][/us/pl/110/275/s186], July 15, 2008, [122 Stat. 2588][/us/stat/122/2588], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     Within one year after the date of the enactment of this Act \[July 15, 2008\], the Secretary (in this section referred to as the ‘Secretary’) shall establish a demonstration project to determine the greatest needs and most effective methods of outreach to medicare beneficiaries who were previously uninsured.
 
->     “(b) __Scope.—__ 
+>     “(b)  __Scope__  __.—__ 
 
 >     The demonstration shall be in no fewer than 10 sites, and shall include state health insurance assistance programs, community health centers, community-based organizations, community health workers, and other service providers under parts A, B, and C of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq., 1395w–21 et seq.\]. Grantees that are plans operating under part C shall document that enrollees who were previously uninsured receive the ‘Welcome to Medicare’ physical exam.
 
->     “(c) __Duration.—__ 
+>     “(c)  __Duration__  __.—__ 
 
 >     The Secretary shall conduct the demonstration project for a period of 2 years.
 
->     “(d) __Report and Evaluation.—__ 
+>     “(d)  __Report and Evaluation__  __.—__ 
 
 >     The Secretary shall conduct an evaluation of the demonstration and not later than 1 year after the completion of the project shall submit to Congress a report including the following:
 

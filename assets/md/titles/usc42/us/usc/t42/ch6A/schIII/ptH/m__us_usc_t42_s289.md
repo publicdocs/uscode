@@ -29,7 +29,7 @@
 
 [Pub. L. 107–109, § 12][/us/pl/107/109/s12], Jan. 4, 2002, [115 Stat. 1416][/us/stat/115/1416], provided that:
 
->     “(a) __Contract With Institute of Medicine.—__ 
+>     “(a)  __Contract With Institute of Medicine__  __.—__ 
 
 >     The Secretary of Health and Human Services shall enter into a contract with the Institute of Medicine for—
 
@@ -45,7 +45,7 @@
 
 >         “(2) the submission to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, not later than two years after the date of enactment of this Act, of a report concerning the review conducted under paragraph (1) that includes recommendations on best practices relating to research involving children.
 
->     “(b) __Areas of Review.—__ 
+>     “(b)  __Areas of Review__  __.—__ 
 
 >     In conducting the review under subsection (a)(1), the Institute of Medicine shall consider the following:
 
@@ -63,7 +63,7 @@
 
 >         “(7) The unique roles and responsibilities of institutional review boards in reviewing research involving children, including composition of membership on institutional review boards.
 
->     “(c) __Requirements of Expertise.—__ 
+>     “(c)  __Requirements of Expertise__  __.—__ 
 
 >     The Institute of Medicine shall conduct the review under subsection (a)(1) and make recommendations under subsection (a)(2) in conjunction with experts in pediatric medicine, pediatric research, and the ethical conduct of research involving children.”
 

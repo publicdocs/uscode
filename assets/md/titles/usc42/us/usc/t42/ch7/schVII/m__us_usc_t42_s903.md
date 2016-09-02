@@ -153,29 +153,29 @@
 
 [Pub. L. 105–33, title V, § 5528][/us/pl/105/33/s5528], Aug. 5, 1997, [111 Stat. 625][/us/stat/111/625], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in this section, the amendments made by this chapter \[chapter 2 (§§ 5521–5528) of subtitle F of title V of [Pub. L. 105–33][/us/pl/105/33], amending this section, sections 1310, 1382, 1382c, 1382d, and 1383 of this title, and provisions set out as a note under [section 1382 of this title][/us/usc/t42/s1382] and repealing provisions set out as notes under sections 425 and 1382 of this title\] shall take effect as if included in the enactment of title II of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 ([Public Law 104–193][/us/pl/104/193]; [110 Stat. 2185][/us/stat/110/2185]).
 
->     “(b) __Section 5524 Amendments.—__ 
+>     “(b)  __Section__  __5524__  __Amendments__  __.—__ 
 
 >     The amendments made by section 5524 of this Act \[amending [section 1310 of this title][/us/usc/t42/s1310]\] shall take effect as if included in the enactment of the Social Security Independence and Program Improvements Act of 1994 ([Public Law 103–296][/us/pl/103/296]; [108 Stat. 1464][/us/stat/108/1464]).
 
->     “(c) __Section 5525 Amendments.—__ 
+>     “(c)  __Section__  __5525 Amendments.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The amendments made by subsections (a) and (b) of section 5525 of this Act \[amending provisions set out as a note under [section 1382 of this title][/us/usc/t42/s1382]\] shall take effect as if included in the enactment of section 105 of the Contract with America Advancement Act of 1996 ([Public Law 104–121][/us/pl/104/121]; [110 Stat. 852][/us/stat/110/852] et seq.).
 
->         “(2) __Repeals.—__ 
+>         “(2)  __Repeals__  __.—__ 
 
 >         The repeals made by section 5525(c) \[repealing provisions set out as notes under sections 425 and 1382 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].
 
->     “(d) __Section 5526 Amendments.—__ 
+>     “(d)  __Section__  __5526__  __Amendments__  __.—__ 
 
 >     The amendments made by section 5526 of this Act \[amending this section\] shall take effect as if included in the enactment of section 108 of the Contract with America Advancement Act of 1996 ([Public Law 104–121][/us/pl/104/121]; [110 Stat. 857][/us/stat/110/857]).
 
->     “(e) __Section 5227.—__ 
+>     “(e)  __Section__  __5227.—__ 
 
 >     Section 5227 \[probably means section 5527 of this Act which is set out as a note under [section 909 of this title][/us/usc/t42/s909]\] shall take effect on the date of the enactment of this Act.”
 

@@ -287,11 +287,11 @@
 
 > “SEC. 413. __GRANTS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Health and Human Services, acting through the Rural Health Outreach Office of the Health Resources and Services Administration, shall award grants to community partnerships that meet the requirements of subsection (b) to enable such partnerships to purchase equipment and provide training as provided for in subsection (c).
 
->     “(b) __Community Partnerships.—__ 
+>     “(b)  __Community Partnerships__  __.—__ 
 
 >     A community partnership meets the requirements of this subsection if such partnership—
 
@@ -301,7 +301,7 @@
 
 >         “(3) submits to the Secretary of Health and Human Services an application at such time, in such manner, and containing such information as the Secretary may require.
 
->     “(c) __Use of Funds.—__ 
+>     “(c)  __Use of Funds__  __.—__ 
 
 >     Amounts provided under a grant under this section shall be used—
 
@@ -309,11 +309,11 @@
 
 >         “(2) to provide defibrillator and basic life support training in automated external defibrillator usage through the American Heart Association, the American Red Cross, or other nationally recognized training courses.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than 4 years after the date of the enactment of this Act \[Nov. 13, 2000\], the Secretary of Health and Human Services shall prepare and submit to the appropriate committees of Congress a report containing data relating to whether the increased availability of defibrillators has affected survival rates in the communities in which grantees under this section operated. The procedures under which the Secretary obtains data and prepares the report under this subsection shall not impose an undue burden on program participants under this section.
 
->     “(e) __Authorization of Appropriations.—__ 
+>     “(e)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated $25,000,000 for fiscal years 2001 through 2003 to carry out this section.”
 

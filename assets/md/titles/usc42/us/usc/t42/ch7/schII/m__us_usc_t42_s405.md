@@ -1247,11 +1247,11 @@
 
 [Pub. L. 103–296, title II, § 201(a)(1)(D)][/us/pl/103/296/s201/a/1/D], Aug. 15, 1994, [108 Stat. 1491][/us/stat/108/1491], provided that:
 
->     “(i) __General rule.—__ 
+>     “(i)  __General rule__  __.—__ 
 
 >     Except as provided in clause (ii), the amendments made by this paragraph \[amending this section\] shall apply with respect to benefits paid in months beginning after 180 days after the date of the enactment of this Act \[Aug. 15, 1994\].
 
->     “(ii) __Treatment of current beneficiaries.—__ 
+>     “(ii)  __Treatment of current beneficiaries__  __.—__ 
 
 >     In any case in which—
 
@@ -1291,7 +1291,7 @@
 
 [Pub. L. 101–508, title V, § 5105(a)(5)][/us/pl/101/508/s5105/a/5], Nov. 5, 1990, [104 Stat. 1388–262][/us/stat/104/1388-262], provided that:
 
->     “(A) __Use and selection of representative payees.—__ 
+>     “(A)  __Use and selection of representative payees__  __.—__ 
 
 >     The amendments made by paragraphs (1) and (2) \[amending this section and [section 1383 of this title][/us/usc/t42/s1383]\] shall take effect July 1, 1991, and shall apply only with respect to—
 
@@ -1299,7 +1299,7 @@
 
 >         “(ii) provisions for payment of benefits under title XVI of such Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] to representative payees made on or after such date.
 
->     “(B) __Compensation of representative payees.—__ 
+>     “(B)  __Compensation of representative payees__  __.—__ 
 
 >     The amendments made by paragraph (3) \[amending this section and [section 1383 of this title][/us/usc/t42/s1383]\] shall take effect July 1, 1991, and the Secretary of Health and Human Services shall prescribe initial regulations necessary to carry out such amendments not later than such date.”
 
@@ -1461,7 +1461,7 @@
 
 [Pub. L. 108–458, title VII, § 7213][/us/pl/108/458/s7213], Dec. 17, 2004, [118 Stat. 3830][/us/stat/118/3830], provided that:
 
->     “(a) __Security Enhancements.—__ 
+>     “(a)  __Security Enhancements__  __.—__ 
 
 >     The Commissioner of Social Security shall—
 
@@ -1477,7 +1477,7 @@
 
 >         “(2) notwithstanding section 205(r) of the Social Security Act ([42 U.S.C. 405(r)][/us/usc/t42/s405/r]) and any agreement entered into thereunder, not later than 18 months after the date of enactment of this Act with respect to death indicators and not later than 36 months after the date of enactment of this Act with respect to fraud indicators, add death and fraud indicators to the social security number verification systems for employers, State agencies issuing driver’s licenses and identity cards, and other verification routines that the Commissioner determines to be appropriate.
 
->     “(b) __Interagency Security Task Force.—__ 
+>     “(b)  __Interagency Security Task Force__  __.—__ 
 
 >     The Commissioner of Social Security, in consultation with the Secretary of Homeland Security, shall form an interagency task force for the purpose of further improving the security of social security cards and numbers. Not later than 18 months after the date of enactment of this Act \[Dec. 17, 2004\], the task force shall establish, and the Commissioner shall provide for the implementation of, security requirements, including—
 
@@ -1489,7 +1489,7 @@
 
 >     “(c) __Enumeration at Birth.—__ 
 
->         “(1) __Improvement of application process.—__ 
+>         “(1)  __Improvement of application process__  __.—__ 
 
 >         As soon as practicable after the date of enactment of this Act \[Dec. 17, 2004\], the Commissioner of Social Security shall undertake to make improvements to the enumeration at birth program for the issuance of social security account numbers to newborns. Such improvements shall be designed to prevent—
 
@@ -1499,27 +1499,27 @@
 
 >             “(C) other opportunities for fraudulently obtaining a social security account number.
 
->         “(2) __Report to congress.—__ 
+>         “(2)  __Report to congress__  __.—__ 
 
 >         Not later than 1 year after the date of enactment of this Act, the Commissioner shall transmit to each House of Congress a report specifying in detail the extent to which the improvements required under paragraph (1) have been made.
 
 >     “(d) __Study Regarding Process for Enumeration at Birth.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         As soon as practicable after the date of enactment of this Act \[Dec. 17, 2004\], the Commissioner of Social Security shall conduct a study to determine the most efficient options for ensuring the integrity of the process for enumeration at birth. This study shall include an examination of available methods for reconciling hospital birth records with birth registrations submitted to agencies of States and political subdivisions thereof and with information provided to the Commissioner as part of the process for enumeration at birth.
 
 >         “(2) __Report.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Not later than 18 months after the date of enactment of this Act, the Commissioner shall submit a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate regarding the results of the study conducted under paragraph (1).
 
->             “(B) __Contents.—__ 
+>             “(B)  __Contents__  __.—__ 
 
 >             The report submitted under subparagraph (A) shall contain such recommendations for legislative changes as the Commissioner considers necessary to implement needed improvements in the process for enumeration at birth.
 
->     “(e) __Authorization of Appropriations.—__ 
+>     “(e)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to the Commissioner of Social Security for each of the fiscal years 2005 through 2009, such sums as may be necessary to carry out this section.”
 
@@ -1529,7 +1529,7 @@
 
 >     “(a) __Development.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Commissioner of Social Security (in this section referred to as the ‘Commissioner’) shall, in accordance with the provisions of this section, develop a prototype of a counterfeit-resistant social security card. Such prototype card—
 
@@ -1539,21 +1539,21 @@
 
 >             “(C) shall be developed so as to provide individuals with reliable proof of citizenship or legal resident alien status.
 
->         “(2) __Assistance by attorney general.—__ 
+>         “(2)  __Assistance by attorney general__  __.—__ 
 
 >         The Attorney General shall provide such information and assistance as the Commissioner deems necessary to achieve the purposes of this section.
 
 >     “(b) __Studies and Reports.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Comptroller General and the Commissioner of Social Security shall each conduct a study, and issue a report to the Congress, that examines different methods of improving the social security card application process.
 
->         “(2) __Elements of studies.—__ 
+>         “(2)  __Elements of studies__  __.—__ 
 
 >         The studies shall include evaluations of the cost and work load implications of issuing a counterfeit-resistant social security card for all individuals over a 3, 5, and 10 year period. The studies shall also evaluate the feasibility and cost implications of imposing a user fee for replacement cards and cards issued to individuals who apply for such a card prior to the scheduled 3, 5, and 10 year phase-in options.
 
->         “(3) __Distribution of reports.—__ 
+>         “(3)  __Distribution of reports__  __.—__ 
 
 >         Copies of the reports described in this subsection, along with facsimiles of the prototype cards as described in subsection (a), shall be submitted to the Committees on Ways and Means and Judiciary of the House of Representatives and the Committees on Finance and Judiciary of the Senate not later than 1 year after the date of the enactment of this Act \[Sept. 30, 1996\].”
 

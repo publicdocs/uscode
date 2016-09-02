@@ -45,11 +45,11 @@
 
 [Pub. L. 106–525, title III, § 301][/us/pl/106/525/s301], Nov. 22, 2000, [114 Stat. 2507][/us/stat/114/2507], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The National Academy of Sciences shall conduct a comprehensive study of the Department of Health and Human Services’ data collection systems and practices, and any data collection or reporting systems required under any of the programs or activities of the Department, relating to the collection of data on race or ethnicity, including other Federal data collection systems (such as the Social Security Administration) with which the Department interacts to collect relevant data on race and ethnicity.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Nov. 22, 2000\], the National Academy of Sciences shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives, a report that—
 
@@ -61,7 +61,7 @@
 
 >         “(4) includes projections about the costs associated with the implementation of the recommendations described in paragraph (3), and the possible effects of the costs on program operations.
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for fiscal year 2001.”
 

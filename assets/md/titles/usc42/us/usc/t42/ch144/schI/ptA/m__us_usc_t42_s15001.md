@@ -161,7 +161,7 @@
 
 > “SEC. 2. __FINDINGS AND PURPOSE.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds the following:
 
@@ -181,7 +181,7 @@
 
 >         “(8) The Government of the United States enthusiastically supports Special Olympics, recognizes its importance in improving the lives of people with intellectual disabilities, and recognizes Special Olympics as a valued and important component of the global community.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purposes of this Act are to—
 
@@ -195,7 +195,7 @@
 
 > “SEC. 3. __ASSISTANCE FOR SPECIAL OLYMPICS.__ 
 
->     “(a) __Education Activities.—__ 
+>     “(a)  __Education Activities__  __.—__ 
 
 >     The Secretary of Education may award grants to, or enter into contracts or cooperative agreements with, Special Olympics to carry out the following:
 
@@ -203,7 +203,7 @@
 
 >         “(2) The design and implementation of Special Olympics education programs, including character education and volunteer programs that support the purposes of this Act, that can be integrated into classroom instruction and are consistent with academic content standards.
 
->     “(b) __International Activities.—__ 
+>     “(b)  __International Activities__  __.—__ 
 
 >     The Secretary of State may award grants to, or enter into contracts or cooperative agreements with, Special Olympics to carry out the following:
 
@@ -213,15 +213,15 @@
 
 >     “(c) __Healthy Athletes.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Health and Human Services may award grants to, or enter into contracts or cooperative agreements with, Special Olympics for the implementation of on-site health assessments, screening for health problems, health education, data collection, and referrals to direct health care services.
 
->         “(2) __Coordination.—__ 
+>         “(2)  __Coordination__  __.—__ 
 
 >         Activities under paragraph (1) shall be coordinated with private health providers, existing authorized programs of State and local jurisdictions, or the Department of Health and Human Services, as applicable.
 
->     “(d) __Limitation.—__ 
+>     “(d)  __Limitation__  __.—__ 
 
 >     Amounts appropriated to carry out this section shall not be used for direct treatment of diseases, medical conditions, or mental health conditions. Nothing in the preceding sentence shall be construed to limit the use of non-Federal funds by Special Olympics.
 
@@ -229,29 +229,29 @@
 
 >     “(a) __Application.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         To be eligible for a grant, contract, or cooperative agreement under subsection (a), (b), or (c) of section 3, Special Olympics shall submit an application at such time, in such manner, and containing such information as the Secretary of Education, Secretary of State, or Secretary of Health and Human Services, as applicable, may require.
 
->         “(2) __Content.—__ 
+>         “(2)  __Content__  __.—__ 
 
 >         At a minimum, an application under this subsection shall contain the following:
 
->             “(A) __Activities.—__ 
+>             “(A)  __Activities__  __.—__ 
 
 >             A description of activities to be carried out with the grant, contract, or cooperative agreement.
 
->             “(B) __Measurable goals.—__ 
+>             “(B)  __Measurable goals__  __.—__ 
 
 >             Information on specific measurable goals and objectives to be achieved through activities carried out with the grant, contract, or cooperative agreement.
 
 >     “(b) __Annual Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         As a condition on receipt of any funds under subsection (a), (b), or (c) of section 3, Special Olympics shall agree to submit an annual report at such time, in such manner, and containing such information as the Secretary of Education, Secretary of State, or Secretary of Health and Human Services, as applicable, may require.
 
->         “(2) __Content.—__ 
+>         “(2)  __Content__  __.—__ 
 
 >         At a minimum, each annual report under this subsection shall describe the degree to which progress has been made toward meeting the goals and objectives described in the applications submitted under subsection (a).
 

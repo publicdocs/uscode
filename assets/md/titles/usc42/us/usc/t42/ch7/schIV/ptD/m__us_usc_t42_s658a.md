@@ -2845,31 +2845,31 @@
 
 >     “(1) __General review of new incentive payment system.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The Secretary of Health and Human Services shall conduct a study of the implementation of the incentive payment system established by section 458 of the Social Security Act \[[42 U.S.C. 658a][/us/usc/t42/s658a]\], in order to identify the problems and successes of the system.
 
 >         “(B) __Reports to the congress.—__ 
 
->             “(i) __Report on variations in state performance attributable to demographic variables.—__ 
+>             “(i)  __Report on variations in state performance attributable to demographic variables__  __.—__ 
 
 >             Not later than October 1, 2000, the Secretary shall submit to the Congress a report that identifies any demographic or economic variables that account for differences in the performance levels achieved by the States with respect to the performance measures used in the system, and contains the recommendations of the Secretary for such adjustments to the system as may be necessary to ensure that the relative performance of States is measured from a baseline that takes account of any such variables.
 
->             “(ii) __Interim report.—__ 
+>             “(ii)  __Interim report__  __.—__ 
 
 >             Not later than March 1, 2001, the Secretary shall submit to the Congress an interim report that contains the findings of the study required by subparagraph (A).
 
->             “(iii) __Final report.—__ 
+>             “(iii)  __Final report__  __.—__ 
 
 >             Not later than October 1, 2003, the Secretary shall submit to the Congress a final report that contains the final findings of the study required by subparagraph (A). The report shall include any recommendations for changes in the system that the Secretary determines would improve the operation of the child support enforcement program.
 
 >     “(2) __Development of medical support incentive.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The Secretary of Health and Human Services, in consultation with State directors of programs operated under part D of title IV of the Social Security Act \[[42 U.S.C. 651][/us/usc/t42/s651] et seq.\] and representatives of children potentially eligible for medical support, shall develop a performance measure based on the effectiveness of States in establishing and enforcing medical support obligations, and shall make recommendations for the incorporation of the measure, in a revenue neutral manner, into the incentive payment system established by section 458A \[now 458\] of the Social Security Act \[[42 U.S.C. 658a][/us/usc/t42/s658a]\].
 
->         “(B) __Report.—__ 
+>         “(B)  __Report__  __.—__ 
 
 >         Not later than October 1, 1999, the Secretary shall submit to the Congress a report that describes the performance measure and contains the recommendations required by subparagraph (A).”
 

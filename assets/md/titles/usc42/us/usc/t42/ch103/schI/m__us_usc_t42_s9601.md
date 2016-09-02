@@ -67,11 +67,11 @@
 
         (E) __Exclusion of lenders not participants in management.—__ 
 
-            (i) __Indicia of ownership to protect security.—__ 
+            (i)  __Indicia of ownership to protect security__  __.—__ 
 
             The term “owner or operator” does not include a person that is a lender that, without participating in the management of a vessel or facility, holds indicia of ownership primarily to protect the security interest of the person in the vessel or facility.
 
-            (ii) __Foreclosure.—__ 
+            (ii)  __Foreclosure__  __.—__ 
 
             The term “owner or operator” does not include a person that is a lender that did not participate in management of a vessel or facility prior to foreclosure, notwithstanding that the person—
 
@@ -81,7 +81,7 @@
 
                 if the person seeks to sell, re-lease (in the case of a lease finance transaction), or otherwise divest the person of the vessel or facility at the earliest practicable, commercially reasonable time, on commercially reasonable terms, taking into account market conditions and legal and regulatory requirements.
 
-        (F) __Participation in management.—__ 
+        (F)  __Participation in management__  __.—__ 
 
         For purposes of subparagraph (E)—
 
@@ -133,11 +133,11 @@
 
                 if the actions do not rise to the level of participating in management (within the meaning of clauses (i) and (ii)).
 
-        (G) __Other terms.—__ 
+        (G)  __Other terms__  __.—__ 
 
         As used in this chapter:
 
-            (i) __Extension of credit.—__ 
+            (i)  __Extension of credit__  __.—__ 
 
             The term “extension of credit” includes a lease finance transaction—
 
@@ -145,11 +145,11 @@
 
                 (II) that conforms with regulations issued by the appropriate Federal banking agency or the appropriate State bank supervisor (as those terms are defined in [section 1813 of title 12][/us/usc/t12/s1813]  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by a closing parenthesis. </sup></sup>  or with regulations issued by the National Credit Union Administration Board, as appropriate.
 
-            (ii) __Financial or administrative function.—__ 
+            (ii)  __Financial or administrative function__  __.—__ 
 
             The term “financial or administrative function” includes a function such as that of a credit manager, accounts payable officer, accounts receivable officer, personnel manager, comptroller, or chief financial officer, or a similar function.
 
-            (iii) __Foreclosure; foreclose.—__ 
+            (iii)  __Foreclosure; foreclose__  __.—__ 
 
             The terms “foreclosure” and “foreclose” mean, respectively, acquiring, and to acquire, a vessel or facility through—
 
@@ -167,7 +167,7 @@
 
                 (III) any other formal or informal manner by which the person acquires, for subsequent disposition, title to or possession of a vessel or facility in order to protect the security interest of the person.
 
-            (iv) __Lender.—__ 
+            (iv)  __Lender__  __.—__ 
 
             The term “lender” means—
 
@@ -187,11 +187,11 @@
 
                 (VIII) a person that provides title insurance and that acquires a vessel or facility as a result of assignment or conveyance in the course of underwriting claims and claims settlement.
 
-            (v) __Operational function.—__ 
+            (v)  __Operational function__  __.—__ 
 
             The term “operational function” includes a function such as that of a facility or plant manager, operations manager, chief operating officer, or chief executive officer.
 
-            (vi) __Security interest.—__ 
+            (vi)  __Security interest__  __.—__ 
 
             The term “security interest” includes a right under a mortgage, deed of trust, assignment, judgment lien, pledge, security agreement, factoring agreement, or lease and any other right accruing to a person to secure the repayment of money, the performance of a duty, or any other obligation by a nonaffiliated person.
 
@@ -239,7 +239,7 @@
 
         (B) __Reason to know.—__ 
 
-            (i) __All appropriate inquiries.—__ 
+            (i)  __All appropriate inquiries__  __.—__ 
 
             To establish that the defendant had no reason to know of the matter described in subparagraph (A)(i), the defendant must demonstrate to a court that—
 
@@ -255,11 +255,11 @@
 
                     (cc) prevent or limit any human, environmental, or natural resource exposure to any previously released hazardous substance.
 
-            (ii) __Standards and practices.—__ 
+            (ii)  __Standards and practices__  __.—__ 
 
             Not later than 2 years after January 11, 2002, the Administrator shall by regulation establish standards and practices for the purpose of satisfying the requirement to carry out all appropriate inquiries under clause (i).
 
-            (iii) __Criteria.—__ 
+            (iii)  __Criteria__  __.—__ 
 
             In promulgating regulations that establish the standards and practices referred to in clause (ii), the Administrator shall include each of the following:
 
@@ -285,7 +285,7 @@
 
             (iv) __Interim standards and practices.—__ 
 
-                (I) __Property purchased before__  __may 31, 1997__  __.—__ 
+                (I)  __Property purchased before __  __may 31, 1997__  __.—__ 
 
                 With respect to property purchased before May 31, 1997, in making a determination with respect to a defendant described in clause (i), a court shall take into account—
 
@@ -299,11 +299,11 @@
 
                     (ee) the ability of the defendant to detect the contamination by appropriate inspection.
 
-                (II) __Property purchased on or after__  __may 31, 1997__  __.—__ 
+                (II)  __Property purchased on or after __  __may 31, 1997__  __.—__ 
 
                 With respect to property purchased on or after May 31, 1997, and until the Administrator promulgates the regulations described in clause (ii), the procedures of the American Society for Testing and Materials, including the document known as “Standard E1527–97”, entitled “Standard Practice for Environmental Site Assessment: Phase 1 Environmental Site Assessment Process”, shall satisfy the requirements in clause (i).
 
-            (v) __Site inspection and title search.—__ 
+            (v)  __Site inspection and title search__  __.—__ 
 
             In the case of property for residential use or other similar use purchased by a nongovernmental or noncommercial entity, a facility inspection and title search that reveal no basis for further investigation shall be considered to satisfy the requirements of this subparagraph.
 
@@ -331,11 +331,11 @@
 
     (39) __Brownfield site.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The term “brownfield site” means real property, the expansion, redevelopment, or reuse of which may be complicated by the presence or potential presence of a hazardous substance, pollutant, or contaminant.
 
-        (B) __Exclusions.—__ 
+        (B)  __Exclusions__  __.—__ 
 
         The term “brownfield site” does not include—
 
@@ -375,11 +375,11 @@
 
             (ix) a portion of a facility, for which portion, assistance for response activity has been obtained under subtitle I of the Solid Waste Disposal Act ([42 U.S.C. 6991][/us/usc/t42/s6991] et seq.) from the Leaking Underground Storage Tank Trust Fund established under [section 9508 of title 26][/us/usc/t26/s9508].
 
-        (C) __Site-by-site determinations.—__ 
+        (C)  __Site-by-site determinations__  __.—__ 
 
         Notwithstanding subparagraph (B) and on a site-by-site basis, the President may authorize financial assistance under [section 9604(k) of this title][/us/usc/t42/s9604/k] to an eligible entity at a site included in clause (i), (iv), (v), (vi), (viii), or (ix) of subparagraph (B) if the President finds that financial assistance will protect human health and the environment, and either promote economic development or enable the creation of, preservation of, or addition to parks, greenways, undeveloped property, other recreational property, or other property used for nonprofit purposes.
 
-        (D) __Additional areas.—__ 
+        (D)  __Additional areas__  __.—__ 
 
         For the purposes of [section 9604(k) of this title][/us/usc/t42/s9604/k], the term “brownfield site” includes a site that—
 
@@ -405,33 +405,33 @@
 
                 (III) is mine-scarred land.
 
-    (40) __Bona fide prospective purchaser.—__ 
+    (40)  __Bona fide prospective purchaser__  __.—__ 
 
     The term “bona fide prospective purchaser” means a person (or a tenant of a person) that acquires ownership of a facility after January 11, 2002, and that establishes each of the following by a preponderance of the evidence:
 
-        (A) __Disposal prior to acquisition.—__ 
+        (A)  __Disposal prior to acquisition__  __.—__ 
 
         All disposal of hazardous substances at the facility occurred before the person acquired the facility.
 
         (B) __Inquiries.—__ 
 
-            (i) __In general.—__ 
+            (i)  __In general__  __.—__ 
 
             The person made all appropriate inquiries into the previous ownership and uses of the facility in accordance with generally accepted good commercial and customary standards and practices in accordance with clauses (ii) and (iii).
 
-            (ii) __Standards and practices.—__ 
+            (ii)  __Standards and practices__  __.—__ 
 
             The standards and practices referred to in clauses (ii) and (iv) of paragraph (35)(B) shall be considered to satisfy the requirements of this subparagraph.
 
-            (iii) __Residential use.—__ 
+            (iii)  __Residential use__  __.—__ 
 
             In the case of property in residential or other similar use at the time of purchase by a nongovernmental or noncommercial entity, a facility inspection and title search that reveal no basis for further investigation shall be considered to satisfy the requirements of this subparagraph.
 
-        (C) __Notices.—__ 
+        (C)  __Notices__  __.—__ 
 
         The person provides all legally required notices with respect to the discovery or release of any hazardous substances at the facility.
 
-        (D) __Care.—__ 
+        (D)  __Care__  __.—__ 
 
         The person exercises appropriate care with respect to hazardous substances found at the facility by taking reasonable steps to—
 
@@ -441,11 +441,11 @@
 
             (iii) prevent or limit human, environmental, or natural resource exposure to any previously released hazardous substance.
 
-        (E) __Cooperation, assistance, and access.—__ 
+        (E)  __Cooperation, assistance, and access__  __.—__ 
 
         The person provides full cooperation, assistance, and access to persons that are authorized to conduct response actions or natural resource restoration at a vessel or facility (including the cooperation and access necessary for the installation, integrity, operation, and maintenance of any complete or partial response actions or natural resource restoration at the vessel or facility).
 
-        (F) __Institutional control.—__ 
+        (F)  __Institutional control__  __.—__ 
 
         The person—
 
@@ -453,11 +453,11 @@
 
             (ii) does not impede the effectiveness or integrity of any institutional control employed at the vessel or facility in connection with a response action.
 
-        (G) __Requests; subpoenas.—__ 
+        (G)  __Requests; subpoenas__  __.—__ 
 
         The person complies with any request for information or administrative subpoena issued by the President under this chapter.
 
-        (H) __No affiliation.—__ 
+        (H)  __No affiliation__  __.—__ 
 
         The person is not—
 
@@ -473,11 +473,11 @@
 
     (41) __Eligible response site.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The term “eligible response site” means a site that meets the definition of a brownfield site in subparagraphs (A) and (B) of paragraph (39), as modified by subparagraphs (B) and (C) of this paragraph.
 
-        (B) __Inclusions.—__ 
+        (B)  __Inclusions__  __.—__ 
 
         The term “eligible response site” includes—
 
@@ -491,7 +491,7 @@
 
                 (II) promote economic development or facilitate the creation of, preservation of, or addition to a park, a greenway, undeveloped property, recreational property, or other property used for nonprofit purposes.
 
-        (C) __Exclusions.—__ 
+        (C)  __Exclusions__  __.—__ 
 
         The term “eligible response site” does not include—
 
@@ -681,7 +681,7 @@
 
 >     The term ‘CERCLA’ means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9601][/us/usc/t42/s9601] et seq.).
 
->     “(2) __Administrator.—__ 
+>     “(2)  __Administrator__  __.—__ 
 
 >     The term ‘Administrator’ means the Administrator of the Environmental Protection Agency.”
 

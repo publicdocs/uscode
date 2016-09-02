@@ -393,17 +393,17 @@
 
         (1) __In general.—__ 
 
-            (A) __Requirement.—__ 
+            (A)  __Requirement__  __.—__ 
 
             Funds paid to any State under this section shall be disbursed to eligible institutions by the State under agreements approved by the Secretary. Disbursements to any institution shall be made only for the purpose of assisting in providing meals to children attending institutions, or in family or group day care homes. Disbursement to any institution shall not be dependent upon the collection of moneys from participating children. All valid claims from such institutions shall be paid within forty-five days of receipt by the State. The State shall notify the institution within fifteen days of receipt of a claim if the claim as submitted is not valid because it is incomplete or incorrect.
 
             (B) __Fraud or abuse.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The State may recover funds disbursed under subparagraph (A) to an institution if the State determines that the institution has engaged in fraud or abuse with respect to the program or has submitted an invalid claim for reimbursement.
 
-                (ii) __Payment.—__ 
+                (ii)  __Payment__  __.—__ 
 
                 Amounts recovered under clause (i)—
 
@@ -411,7 +411,7 @@
 
                     (II) shall not be paid from funds used to provide meals and supplements.
 
-                (iii) __Hearing.—__ 
+                (iii)  __Hearing__  __.—__ 
 
                 An institution shall be provided a fair hearing in accordance with subsection (e)(1) of this section prior to any determination to recover funds under this subparagraph.
 
@@ -423,11 +423,11 @@
 
             (C) __Limitation on administrative expenses for certain sponsoring organizations.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Except as provided in clause (ii), a sponsoring organization of a day care center may reserve not more than 15 percent of the funds provided under paragraph (1) for the administrative expenses of the organization.
 
-                (ii) __Waiver.—__ 
+                (ii)  __Waiver__  __.—__ 
 
                 A State may waive the requirement in clause (i) with respect to a sponsoring organization if the organization provides justification to the State that the organization requires funds in excess of 15 percent of the funds provided under paragraph (1) to pay the administrative expenses of the organization.
 
@@ -435,13 +435,13 @@
 
             (A) __Reimbursement factor.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 An institution that participates in the program under this section as a family or group day care home sponsoring organization shall be provided, for payment to a home sponsored by the organization, reimbursement factors in accordance with this subparagraph for the cost of obtaining and preparing food and prescribed labor costs involved in providing meals under this section.
 
                 (ii) __Tier i family or group day care homes.—__ 
 
-                    (I) __Definition of tier i family or group day care home.—__ 
+                    (I)  __Definition of tier i family or group day care home__  __.—__ 
 
                     In this paragraph, the term “tier I family or group day care home” means—
 
@@ -451,15 +451,15 @@
 
                         (cc) a family or group day care home that is operated by a provider whose household meets the income eligibility guidelines for free or reduced price meals under [section 1758 of this title][/us/usc/t42/s1758] and whose income is verified by the sponsoring organization of the home under regulations established by the Secretary.
 
-                    (II) __Reimbursement.—__ 
+                    (II)  __Reimbursement__  __.—__ 
 
                     Except as provided in subclause (III), a tier I family or group day care home shall be provided reimbursement factors under this clause without a requirement for documentation of the costs described in clause (i), except that reimbursement shall not be provided under this subclause for meals or supplements served to the children of a person acting as a family or group day care home provider unless the children meet the income eligibility guidelines for free or reduced price meals under [section 1758 of this title][/us/usc/t42/s1758].
 
-                    (III) __Factors.—__ 
+                    (III)  __Factors__  __.—__ 
 
                     Except as provided in subclause (IV), the reimbursement factors applied to a home referred to in subclause (II) shall be the factors in effect on July 1, 1996.
 
-                    (IV) __Adjustments.—__ 
+                    (IV)  __Adjustments__  __.—__ 
 
                     The reimbursement factors under this subparagraph shall be adjusted on July 1, 1997, and each July 1 thereafter, to reflect changes in the Consumer Price Index for food at home for the most recent 12-month period for which the data are available. The reimbursement factors under this subparagraph shall be rounded to the nearest lower cent increment and based on the unrounded adjustment in effect on June 30 of the preceding school year.
 
@@ -467,53 +467,53 @@
 
                     (I) __In general.—__ 
 
-                        (aa) __Factors.—__ 
+                        (aa)  __Factors__  __.—__ 
 
                         Except as provided in subclause (II), with respect to meals or supplements served under this clause by a family or group day care home that does not meet the criteria set forth in clause (ii)(I), the reimbursement factors shall be 95 cents for lunches and suppers, 27 cents for breakfasts, and 13 cents for supplements.
 
-                        (bb) __Adjustments.—__ 
+                        (bb)  __Adjustments__  __.—__ 
 
                         The factors shall be adjusted on July 1, 1997, and each July 1 thereafter, to reflect changes in the Consumer Price Index for food at home for the most recent 12-month period for which the data are available. The reimbursement factors under this item shall be rounded down to the nearest lower cent increment and based on the unrounded adjustment for the preceding 12-month period.
 
-                        (cc) __Reimbursement.—__ 
+                        (cc)  __Reimbursement__  __.—__ 
 
                         A family or group day care home shall be provided reimbursement factors under this subclause without a requirement for documentation of the costs described in clause (i), except that reimbursement shall not be provided under this subclause for meals or supplements served to the children of a person acting as a family or group day care home provider unless the children meet the income eligibility guidelines for free or reduced price meals under [section 1758 of this title][/us/usc/t42/s1758].
 
-                    (II) __Other factors.—__ 
+                    (II)  __Other factors__  __.—__ 
 
                     A family or group day care home that does not meet the criteria set forth in clause (ii)(I) may elect to be provided reimbursement factors determined in accordance with the following requirements:
 
-                        (aa) __Children eligible for free or reduced price meals.—__ 
+                        (aa)  __Children eligible for free or reduced price meals__  __.—__ 
 
                         In the case of meals or supplements served under this subsection to children who are members of households whose incomes meet the income eligibility guidelines for free or reduced price meals under [section 1758 of this title][/us/usc/t42/s1758], the family or group day care home shall be provided reimbursement factors set by the Secretary in accordance with clause (ii)(III).
 
-                        (bb) __Ineligible children.—__ 
+                        (bb)  __Ineligible children__  __.—__ 
 
                         In the case of meals or supplements served under this subsection to children who are members of households whose incomes do not meet the income eligibility guidelines, the family or group day care home shall be provided reimbursement factors in accordance with subclause (I).
 
                     (III) __Information and determinations.—__ 
 
-                        (aa) __In general.—__ 
+                        (aa)  __In general__  __.—__ 
 
                         If a family or group day care home elects to claim the factors described in subclause (II), the family or group day care home sponsoring organization serving the home shall collect the necessary income information, as determined by the Secretary, from any parent or other caretaker to make the determinations specified in subclause (II) and shall make the determinations in accordance with rules prescribed by the Secretary.
 
-                        (bb) __Categorical eligibility.—__ 
+                        (bb)  __Categorical eligibility__  __.—__ 
 
                         In making a determination under item (aa), a family or group day care home sponsoring organization may consider a child participating in or subsidized under, or a child with a parent participating in or subsidized under, a federally or State supported child care or other benefit program with an income eligibility limit that does not exceed the eligibility standard for free or reduced price meals under [section 1758 of this title][/us/usc/t42/s1758] to be a child who is a member of a household whose income meets the income eligibility guidelines under [section 1758 of this title][/us/usc/t42/s1758].
 
-                        (cc) __Factors for children only.—__ 
+                        (cc)  __Factors for children only__  __.—__ 
 
                         A family or group day care home may elect to receive the reimbursement factors prescribed under clause (ii)(III) solely for the children participating in a program referred to in item (bb) if the home elects not to have income statements collected from parents or other caretakers.
 
-                        (dd) __Transmission of income information by sponsored family or group day care homes.—__ 
+                        (dd)  __Transmission of income information by sponsored family or group day care homes__  __.—__ 
 
                         If a family or group day care home elects to be provided reimbursement factors described in subclause (II), the family or group day care home may assist in the transmission of necessary household income information to the family or group day care home sponsoring organization in accordance with the policy described in item (ee).
 
-                        (ee) __Policy.—__ 
+                        (ee)  __Policy__  __.—__ 
 
                         The Secretary shall develop a policy under which a sponsored family or group day care home described in item (dd) may, under terms and conditions specified by the Secretary and with the written consent of the parents or guardians of a child in a family or group day care home participating in the program, assist in the transmission of the income information of the family to the family or group day care home sponsoring organization.
 
-                    (IV) __Simplified meal counting and reporting procedures.—__ 
+                    (IV)  __Simplified meal counting and reporting procedures__  __.—__ 
 
                     The Secretary shall prescribe simplified meal counting and reporting procedures for use by a family or group day care home that elects to claim the factors under subclause (II) and by a family or group day care home sponsoring organization that sponsors the home. The procedures the Secretary prescribes may include 1 or more of the following:
 
@@ -523,13 +523,13 @@
 
                         (cc) Such other simplified procedures as the Secretary may prescribe.
 
-                    (V) __Minimum verification requirements.—__ 
+                    (V)  __Minimum verification requirements__  __.—__ 
 
                     The Secretary may establish any minimum verification requirements that are necessary to carry out this clause.
 
             (B) __Administrative funds.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 In addition to reimbursement factors described in subparagraph (A), a family or group day care home sponsoring organization shall receive reimbursement for the administrative expenses of the sponsoring organization in an amount that is not less than the product obtained each month by multiplying—
 
@@ -537,11 +537,11 @@
 
                     (II) the appropriate administrative rate determined by the Secretary.
 
-                (ii) __Annual adjustment.—__ 
+                (ii)  __Annual adjustment__  __.—__ 
 
                 The administrative reimbursement levels specified in clause (i) shall be adjusted July 1 of each year to reflect changes in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor for the most recent 12-month period for which such data are available.
 
-                (iii) __Carryover funds.—__ 
+                (iii)  __Carryover funds__  __.—__ 
 
                 The Secretary shall develop procedures under which not more than 10 percent of the amount made available to sponsoring organizations under this section for administrative expenses for a fiscal year may remain available for obligation or expenditure in the succeeding fiscal year.
 
@@ -553,31 +553,31 @@
 
             (D) __Limitations on ability of family or group day care homes to transfer sponsoring organizations.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Subject to clause (ii), a State agency shall limit the ability of a family or group day care home to transfer from a sponsoring organization to another sponsoring organization more frequently than once a year.
 
-                (ii) __Good cause.—__ 
+                (ii)  __Good cause__  __.—__ 
 
                 The State agency may permit or require a family or group day care home to transfer from a sponsoring organization to another sponsoring organization more frequently than once a year for good cause (as determined by the State agency), including circumstances in which the sponsoring organization of the family or group day care home ceases to participate in the child and adult care food program.
 
             (E) __Provision of data to family or group day care home sponsoring organizations.—__ 
 
-                (i) __Census data.—__ 
+                (i)  __Census data__  __.—__ 
 
                 The Secretary shall provide to each State agency administering a child and adult care food program under this section data from the most recent decennial census survey or other appropriate census survey for which the data are available showing which areas in the State meet the requirements of subparagraph (A)(ii)(I)(aa). The State agency shall provide the data to family or group day care home sponsoring organizations located in the State.
 
                 (ii) __School data.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     A State agency administering the school lunch program under this chapter or the school breakfast program under the Child Nutrition Act of 1966 ([42 U.S.C. 1771][/us/usc/t42/s1771] et seq.) shall provide to approved family or group day care home sponsoring organizations a list of schools serving elementary school children in the State in which not less than ½ of the children enrolled are certified to receive free or reduced price meals. The State agency shall collect the data necessary to create the list annually and provide the list on a timely basis to any approved family or group day care home sponsoring organization that requests the list.
 
-                    (II) __Use of data from preceding school year.—__ 
+                    (II)  __Use of data from preceding school year__  __.—__ 
 
                     In determining for a fiscal year or other annual period whether a home qualifies as a tier I family or group day care home under subparagraph (A)(ii)(I), the State agency administering the program under this section, and a family or group day care home sponsoring organization, shall use the most current available data at the time of the determination.
 
-                (iii) __Duration of determination.—__ 
+                (iii)  __Duration of determination__  __.—__ 
 
                 For purposes of this section, a determination that a family or group day care home is located in an area that qualifies the home as a tier I family or group day care home (as the term is defined in subparagraph (A)(ii)(I)), shall be in effect for 5 years (unless the determination is made on the basis of census data, in which case the determination shall remain in effect until more recent census data are available) unless the State agency determines that the area in which the home is located no longer qualifies the home as a tier I family or group day care home.
 
@@ -1433,11 +1433,11 @@
 
 [Pub. L. 104–193, title VII, § 708(k)(1)][/us/pl/104/193/s708/k/1], (2), Aug. 22, 1996, [110 Stat. 2299][/us/stat/110/2299], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall become effective on the date of enactment of this Act \[Aug. 22, 1996\].
 
->     “(2) __Improved targeting of day care home reimbursements.—__ 
+>     “(2)  __Improved targeting of day care home reimbursements__  __.—__ 
 
 >     The amendments made by paragraphs (1) and (4) of subsection (e) \[amending this section\] shall become effective on July 1, 1997.”
 
@@ -1487,11 +1487,11 @@
 
 [Pub. L. 101–147, title I, § 105(d)][/us/pl/101/147/s105/d], Nov. 10, 1989, [103 Stat. 885][/us/stat/103/885], provided that:
 
->     “(1) __Expansion; demonstration project.—__ 
+>     “(1)  __Expansion; demonstration project__  __.—__ 
 
 >     The Secretary of Agriculture shall implement the amendments made by subsections (b)(1) and (b)(2) \[amending this section\] not later than July 1, 1990.
 
->     “(2) __Dietary requirements for adult day care food program.—__ 
+>     “(2)  __Dietary requirements for adult day care food program__  __.—__ 
 
 >     Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement the amendments made by subsection (b)(3) \[amending this section\].”
 
@@ -1499,7 +1499,7 @@
 
 [Pub. L. 104–193, title VII, § 708(k)(3)][/us/pl/104/193/s708/k/3], Aug. 22, 1996, [110 Stat. 2300][/us/stat/110/2300], provided that:
 
->     “(A) __Interim regulations.—__ 
+>     “(A)  __Interim regulations__  __.—__ 
 
 >     Not later than January 1, 1997, the Secretary of Agriculture shall issue interim regulations to implement—
 
@@ -1507,7 +1507,7 @@
 
 >         “(ii) section 17(f)(3)(C) of the \[Richard B. Russell\] National School Lunch Act ([42 U.S.C. 1766(f)(3)(C)][/us/usc/t42/s1766/f/3/C]).
 
->     “(B) __Final regulations.—__ 
+>     “(B)  __Final regulations__  __.—__ 
 
 >     Not later than July 1, 1997, the Secretary of Agriculture shall issue final regulations to implement the provisions of law referred to in subparagraph (A).”
 
@@ -1533,15 +1533,15 @@
 
 [Pub. L. 111–296, title III, § 336][/us/pl/111/296/s336], Dec. 13, 2010, [124 Stat. 3252][/us/stat/124/3252], provided that:
 
->     “(a) __Definition of Program.—__ 
+>     “(a)  __Definition of Program__  __.—__ 
 
 >     In this section, the term ‘program’ means the child and adult care food program established under section 17 of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1766][/us/usc/t42/s1766]).
 
->     “(b) __Establishment.—__ 
+>     “(b)  __Establishment__  __.—__ 
 
 >     The Secretary \[of Agriculture\], in conjunction with States and participating institutions, shall continue to examine the feasibility of reducing unnecessary or duplicative paperwork resulting from regulations and recordkeeping requirements for State agencies, institutions, family and group day care homes, and sponsored centers participating in the program.
 
->     “(c) __Duties.—__ 
+>     “(c)  __Duties__  __.—__ 
 
 >     At a minimum, the examination shall include—
 
@@ -1549,11 +1549,11 @@
 
 >         “(2) examination of additional paperwork and administrative requirements that have been established since February 23, 2007, that could be reduced or simplified.
 
->     “(d) __Additional Duties.—__ 
+>     “(d)  __Additional Duties__  __.—__ 
 
 >     The Secretary, in conjunction with States and institutions participating in the program, may also examine any aspect of administration of the program.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     Not later than 4 years after the date of enactment of this Act \[Dec. 13, 2010\], the Secretary shall submit to Congress a report that describes the actions that have been taken to carry out this section, including—
 
@@ -1591,15 +1591,15 @@
 
 [Pub. L. 108–265, title I, § 119(j)][/us/pl/108/265/s119/j], June 30, 2004, [118 Stat. 755][/us/stat/118/755], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Subject to the availability of funds made available under paragraph (6), for a period of 4 successive years, the Secretary of Agriculture shall award to 1 or more entities with expertise in designing and implementing health education programs for limited-English-proficient individuals 1 or more grants to enhance obesity prevention activities for child care centers and sponsoring organizations providing services to limited-English-proficient individuals through the child and adult care food program under section 17 of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1766][/us/usc/t42/s1766]) in each of 4 States selected by the Secretary in accordance with paragraph (2).
 
->     “(2) __States.—__ 
+>     “(2)  __States__  __.—__ 
 
 >     The Secretary shall provide grants under this subsection in States that have experienced a growth in the limited-English-proficient population of the States of at least 100 percent between the years 1990 and 2000, as measured by the census.
 
->     “(3) __Required activities.—__ 
+>     “(3)  __Required activities__  __.—__ 
 
 >     Activities carried out under paragraph (1) shall include—
 
@@ -1615,11 +1615,11 @@
 
 >             “(ii) enhance the capacity of the child care centers and sponsoring organizations to use appropriate obesity prevention strategies.
 
->     “(4) __Evaluation.—__ 
+>     “(4)  __Evaluation__  __.—__ 
 
 >     Each grant recipient shall identify an institution of higher education to conduct an independent evaluation of the effectiveness of the grant.
 
->     “(5) __Report.—__ 
+>     “(5)  __Report__  __.—__ 
 
 >     The Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry and the Committee on Health, Education, Labor, and Pensions, of the Senate a report that includes—
 
@@ -1629,7 +1629,7 @@
 
 >         “(C) any recommendations of the Secretary concerning the grants.
 
->     “(6) __Authorization of appropriations.—__ 
+>     “(6)  __Authorization of appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this subsection $250,000 for each of fiscal years 2005 through 2009.”
 

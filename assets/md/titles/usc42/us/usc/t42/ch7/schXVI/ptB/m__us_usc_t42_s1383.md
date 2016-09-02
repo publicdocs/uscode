@@ -197,7 +197,7 @@
 
                 (iv) In the case of an individual who is no longer eligible for benefits under this subchapter but to whom any amount of past-due benefits under this subchapter has not been paid, for purposes of clause (i), any amount of such past-due benefits payable in any month shall be treated as a monthly benefit referred to in clause (i)(I).
 
-            (E) __Restitution.—__ 
+            (E)  __Restitution__  __.—__ 
 
             In cases where the negligent failure of the Commissioner of Social Security to investigate or monitor a representative payee results in misuse of benefits by the representative payee, the Commissioner of Social Security shall make payment to the beneficiary or the beneficiary’s representative payee of an amount equal to such misused benefits. In any case in which a representative payee that—
 
@@ -1317,11 +1317,11 @@
 
 [Pub. L. 104–193, title II, § 221(c)][/us/pl/104/193/s221/c], Aug. 22, 1996, [110 Stat. 2197][/us/stat/110/2197], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] are effective with respect to past-due benefits payable under title XVI of the Social Security Act \[this subchapter\] after the third month following the month in which this Act is enacted \[August 1996\].
 
->     “(2) __Benefits payable under title xvi.—__ 
+>     “(2)  __Benefits payable under title xvi__  __.—__ 
 
 >     For purposes of this subsection, the term ‘benefits payable under title XVI of the Social Security Act’ includes supplementary payments pursuant to an agreement for Federal administration under section 1616(a) of the Social Security Act \[[section 1382e(a) of this title][/us/usc/t42/s1382e/a]\], and payments pursuant to an agreement entered into under [section 212(b) of Public Law 93–66][/us/pl/93/66/s212/b] \[set out as a note under [section 1382 of this title][/us/usc/t42/s1382]\].”
 
@@ -1531,11 +1531,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 100–203, title IX, § 9117][/us/pl/100/203/s9117], Dec. 22, 1987, [101 Stat. 1330–306][/us/stat/101/1330-306], as amended by [Pub. L. 104–66, title I, § 1061(e)][/us/pl/104/66/s1061/e], Dec. 21, 1995, [109 Stat. 720][/us/stat/109/720], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) is authorized to make grants to States for projects designed to demonstrate and test the feasibility of special procedures and services to ensure that homeless individuals are provided SSI and other benefits under the Social Security Act \[this chapter\] to which they are entitled and receive assistance in using such benefits to obtain permanent housing, food, and health care. Each project approved under this section shall meet such conditions and requirements, consistent with this section, as the Secretary shall prescribe.
 
->     “(b) __Scope of Projects.—__ 
+>     “(b)  __Scope of Projects__  __.—__ 
 
 >     Projects for which grants are made under this section shall include, more specifically, procedures and services to overcome barriers which prevent homeless individuals (particularly the chronically mentally ill) from receiving and appropriately using benefits, including—
 
@@ -1555,7 +1555,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(8) such other procedures and services as the Secretary may approve.
 
->     “(c) __SSI Outreach Team Projects.—__ 
+>     “(c)  __SSI Outreach Team Projects__  __.—__ 
 
 >         (1)
 
@@ -1581,7 +1581,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         \[(d) Repealed. [Pub. L. 104–66, title I, § 1061(e)][/us/pl/104/66/s1061/e], Dec. 21, 1995, [109 Stat. 720][/us/stat/109/720].\]
 
->     “(e) __Authorization of Appropriations.—__ 
+>     “(e)  __Authorization of Appropriations__  __.—__ 
 
 >     To carry out this section, there are authorized to be appropriated to the Secretary—
 

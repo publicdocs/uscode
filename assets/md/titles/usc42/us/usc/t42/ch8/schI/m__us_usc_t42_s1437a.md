@@ -31,17 +31,17 @@
 
             (A) __Authority for family to select.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 A family residing in a public housing dwelling shall pay as monthly rent for the unit the amount determined under clause (i) or (ii) of subparagraph (B), subject to the requirement under paragraph (3) (relating to minimum rents). Each public housing agency shall provide for each family residing in a public housing dwelling unit owned, assisted, or operated by the agency to elect annually whether the rent paid by such family shall be determined under clause (i) or (ii) of subparagraph (B). A public housing agency may not at any time fail to provide both such rent options for any public housing dwelling unit owned, assisted, or operated by the agency.
 
-                (ii) __Authority to retain flat and ceiling rents.—__ 
+                (ii)  __Authority to retain flat and ceiling rents__  __.—__ 
 
                 Notwithstanding clause (i) or any other provision of law, any public housing agency that is administering flat rents or ceiling rents pursuant to any authority referred to in section 519(d) of the Quality Housing and Work Responsibility Act of 1998 before the effective day of such Act may continue to charge rent in accordance with such rent provisions after such effective date, except that the agency shall provide for families residing in public housing dwelling units owned or operated by the agency to elect annually whether to pay rent under such provisions or in accordance with one of the rent options referred to in subparagraph (A).
 
             (B) __Allowable rent structures.—__ 
 
-                (i) __Flat rents.—__ 
+                (i)  __Flat rents__  __.—__ 
 
                 Except as otherwise provided under this clause, each public housing agency shall establish, for each dwelling unit in public housing owned or operated by the agency, a flat rental amount for the dwelling unit, which shall—
 
@@ -53,15 +53,15 @@
 
                 (ii) __Income-based rents.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     The monthly rental amount determined under this clause for a family shall be an amount, determined by the public housing agency, that does not exceed the greatest of the amounts (rounded to the nearest dollar) determined under subparagraphs (A), (B), and (C) of paragraph (1). This clause may not be construed to require a public housing agency to charge a monthly rent in the maximum amount permitted under this clause.
 
-                    (II) __Discretion.—__ 
+                    (II)  __Discretion__  __.—__ 
 
                     Subject to the limitation on monthly rental amount under subclause (I), a public housing agency may, in its discretion, implement a rent structure under this clause requiring that a portion of the rent be deposited to an escrow or savings account, imposing ceiling rents, or adopting income exclusions (such as those set forth in subsection (b)(5)(B) of this section), or may establish another reasonable rent structure or amount.
 
-            (C) __Switching rent determination methods because of hardship circumstances.—__ 
+            (C)  __Switching rent determination methods because of hardship circumstances__  __.—__ 
 
             Notwithstanding subparagraph (A), in the case of a family that has elected to pay rent in the amount determined under subparagraph (B)(i), a public housing agency shall immediately provide for the family to pay rent in the amount determined under subparagraph (B)(ii) during the period for which such election was made upon a determination that the family is unable to pay the amount determined under subparagraph (B)(i) because of financial hardship, including—
 
@@ -71,17 +71,17 @@
 
                 (iii) such other situations as may be determined by the agency.
 
-            (D) __Encouragement of self-sufficiency.—__ 
+            (D)  __Encouragement of self-sufficiency__  __.—__ 
 
             The rental policy developed by each public housing agency shall encourage and reward employment and economic self-sufficiency.
 
-            (E) __Income reviews.—__ 
+            (E)  __Income reviews__  __.—__ 
 
             Notwithstanding the second sentence of paragraph (1), in the case of families that are paying rent in the amount determined under subparagraph (B)(i), the agency shall review the income of such family not less than once every 3 years.
 
         (3) __Minimum rental amount.—__ 
 
-            (A) __Requirement.—__ 
+            (A)  __Requirement__  __.—__ 
 
             Notwithstanding paragraph (1) of this subsection, the method for rent determination elected pursuant to paragraph (2)(A) of this subsection by a family residing in public housing, section 1437f(o)(2) of this title, or section 206(d) of the Housing and Urban-Rural Recovery Act of 1983 (including paragraph (5) of such section), the following entities shall require the following families to pay a minimum monthly rental amount (which amount shall include any amount allowed for utilities) of not more than $50 per month, as follows:
 
@@ -99,35 +99,35 @@
 
             (B) __Exception for hardship circumstances.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Notwithstanding subparagraph (A), a public housing agency (or the Secretary, in the case of a family described in subparagraph (A)(ii)) shall immediately grant an exemption from application of the minimum monthly rental under such subparagraph to any family unable to pay such amount because of financial hardship, which shall include situations in which (I) the family has lost eligibility for or is awaiting an eligibility determination for a Federal, State, or local assistance program, including a family that includes a member who is an alien lawfully admitted for permanent residence under the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\] who would be entitled to public benefits but for title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[[8 U.S.C. 1601][/us/usc/t8/s1601] et seq.\]; (II) the family would be evicted as a result of the imposition of the minimum rent requirement under subparagraph (A); (III) the income of the family has decreased because of changed circumstance, including loss of employment; (IV) a death in the family has occurred; and (V) other situations as may be determined by the agency (or the Secretary, in the case of a family described in subparagraph (A)(ii)).
 
-                (ii) __Waiting period.—__ 
+                (ii)  __Waiting period__  __.—__ 
 
                 If a resident requests a hardship exemption under this subparagraph and the public housing agency (or the Secretary, in the case of a family described in subparagraph (A)(ii)) reasonably determines the hardship to be of a temporary nature, an exemption shall not be granted during the 90-day period beginning upon the making of a request for the exemption. A resident may not be evicted during such 90-day period for nonpayment of rent. In such a case, if the resident thereafter demonstrates that the financial hardship is of a long-term basis, the agency (or the Secretary) shall retroactively exempt the resident from the applicability of the minimum rent requirement for such 90-day period.
 
         (4) __Occupancy by police officers.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to subparagraph (B) and notwithstanding any other provision of law, a public housing agency may, in accordance with the public housing agency plan for the agency, allow a police officer who is not otherwise eligible for residence in public housing to reside in a public housing dwelling unit. The number and location of units occupied by police officers under this paragraph and the terms and conditions of their tenancies shall be determined by the public housing agency.
 
-            (B) __Increased security.—__ 
+            (B)  __Increased security__  __.—__ 
 
             A public housing agency may take the actions authorized in subparagraph (A) only for the purpose of increasing security for the residents of a public housing project.
 
-            (C) __Definition.—__ 
+            (C)  __Definition__  __.—__ 
 
             In this paragraph, the term “police officer” means any person determined by a public housing agency to be, during the period of residence of that person in public housing, employed on a full-time basis as a duly licensed professional police officer by a Federal, State, or local government or by any agency thereof (including a public housing agency having an accredited police force).
 
         (5) __Occupancy by over-income families in certain public housing.—__ 
 
-            (A) __Authority.—__ 
+            (A)  __Authority__  __.—__ 
 
             Notwithstanding any other provision of law, a public housing agency that owns or operates less than 250 units may, on a month-to-month basis, lease a dwelling unit in a public housing project to an over-income family in accordance with this paragraph, but only if there are no eligible families applying for housing assistance from the public housing agency for that month and the agency provides not less than 30-day public notice of the availability of such assistance.
 
-            (B) __Terms and conditions.—__ 
+            (B)  __Terms and conditions__  __.—__ 
 
             The number and location of dwelling units of a public housing agency occupied under this paragraph by over-income families, and the terms and conditions of those tenancies, shall be determined by the public housing agency, except that—
 
@@ -137,7 +137,7 @@
 
                 (iii) if a unit is vacant and there is no one on the waiting list, the public housing agency may allow an over-income family to gain immediate occupancy in the unit, while simultaneously providing reasonable public notice and outreach with regard to availability of the unit.
 
-            (C) __Definition.—__ 
+            (C)  __Definition__  __.—__ 
 
             For purposes of this paragraph, the term “over-income family” means an individual or family that is not a low-income family at the time of initial occupancy.
 
@@ -151,23 +151,23 @@
 
         (3) __Persons and families.—__ 
 
-            (A) __Single persons.—__ 
+            (A)  __Single persons__  __.—__ 
 
             The term “families” includes families consisting of a single person in the case of (i) an elderly person, (ii) a disabled person, (iii) a displaced person, (iv) the remaining member of a tenant family, and (v) any other single persons. In no event may any single person under clause (v) of the first sentence be provided a housing unit assisted under this chapter of 2 or more bedrooms.
 
-            (B) __Families.—__ 
+            (B)  __Families__  __.—__ 
 
             The term “families” includes families with children and, in the cases of elderly families, near-elderly families, and disabled families, means families whose heads (or their spouses), or whose sole members, are elderly, near-elderly, or persons with disabilities, respectively. The term includes, in the cases of elderly families, near-elderly families, and disabled families, 2 or more elderly persons, near-elderly persons, or persons with disabilities living together, and 1 or more such persons living with 1 or more persons determined under the public housing agency plan to be essential to their care or well-being.
 
-            (C) __Absence of children.—__ 
+            (C)  __Absence of children__  __.—__ 
 
             The temporary absence of a child from the home due to placement in foster care shall not be considered in determining family composition and family size.
 
-            (D) __Elderly person.—__ 
+            (D)  __Elderly person__  __.—__ 
 
             The term “elderly person” means a person who is at least 62 years of age.
 
-            (E) __Person with disabilities.—__ 
+            (E)  __Person with disabilities__  __.—__ 
 
             The term “person with disabilities” means a person who—
 
@@ -179,29 +179,29 @@
 
                 Such term shall not exclude persons who have the disease of acquired immunodeficiency syndrome or any conditions arising from the etiologic agent for acquired immunodeficiency syndrome. Notwithstanding any other provision of law, no individual shall be considered a person with disabilities, for purposes of eligibility for low-income housing under this subchapter, solely on the basis of any drug or alcohol dependence. The Secretary shall consult with other appropriate Federal agencies to implement the preceding sentence.
 
-            (F) __Displaced person.—__ 
+            (F)  __Displaced person__  __.—__ 
 
             The term “displaced person” means a person displaced by governmental action, or a person whose dwelling has been extensively damaged or destroyed as a result of a disaster declared or otherwise formally recognized pursuant to Federal disaster relief laws.
 
-            (G) __Near-elderly person.—__ 
+            (G)  __Near-elderly person__  __.—__ 
 
             The term “near-elderly person” means a person who is at least 50 years of age but below the age of 62.
 
         (4) The term “income” means income from all sources of each member of the household, as determined in accordance with criteria prescribed by the Secretary, in consultation with the Secretary of Agriculture, except that any amounts not actually received by the family and any amounts which would be eligible for exclusion under [section 1382b(a)(7) of this title][/us/usc/t42/s1382b/a/7] or any deferred Department of Veterans Affairs disability benefits that are received in a lump sum amount or in prospective monthly amounts may not be considered as income under this paragraph.
 
-        (5) __Adjusted income.—__ 
+        (5)  __Adjusted income__  __.—__ 
 
         The term “adjusted income” means, with respect to a family, the amount (as determined by the public housing agency) of the income of the members of the family residing in a dwelling unit or the persons on a lease, after any income exclusions as follows:
 
-            (A) __Mandatory exclusions.—__ 
+            (A)  __Mandatory exclusions__  __.—__ 
 
             In determining adjusted income, a public housing agency shall exclude from the annual income of a family the following amounts:
 
-                (i) __Elderly and disabled families.—__ 
+                (i)  __Elderly and disabled families__  __.—__ 
 
                 $400 for any elderly or disabled family.
 
-                (ii) __Medical expenses.—__ 
+                (ii)  __Medical expenses__  __.—__ 
 
                 The amount by which 3 percent of the annual family income is exceeded by the sum of—
 
@@ -211,23 +211,23 @@
 
                     (III) unreimbursed reasonable attendant care and auxiliary apparatus expenses for each handicapped member of the family, to the extent necessary to enable any member of such family (including such handicapped member) to be employed.
 
-                (iii) __Child care expenses.—__ 
+                (iii)  __Child care expenses__  __.—__ 
 
                 Any reasonable child care expenses necessary to enable a member of the family to be employed or to further his or her education.
 
-                (iv) __Minors, students, and persons with disabilities.—__ 
+                (iv)  __Minors, students, and persons with disabilities__  __.—__ 
 
                 $480 for each member of the family residing in the household (other than the head of the household or his or her spouse) who is less than 18 years of age or is attending school or vocational training on a full-time basis, or who is 18 years of age or older and is a person with disabilities.
 
-                (v) __Child support payments.—__ 
+                (v)  __Child support payments__  __.—__ 
 
                 Any payment made by a member of the family for the support and maintenance of any child who does not reside in the household, except that the amount excluded under this clause may not exceed $480 for each child for whom such payment is made; except that this clause shall apply only to the extent approved in appropriations Acts.
 
-                (vi) __Spousal support expenses.—__ 
+                (vi)  __Spousal support expenses__  __.—__ 
 
                 Any payment made by a member of the family for the support and maintenance of any spouse or former spouse who does not reside in the household, except that the amount excluded under this clause shall not exceed the lesser of (I) the amount that such family member has a legal obligation to pay, or (II) $550 for each individual for whom such payment is made; except that this clause shall apply only to the extent approved in appropriations Acts.
 
-                (vii) __Earned income of minors.—__ 
+                (vii)  __Earned income of minors__  __.—__ 
 
                 The amount of any earned income of a member of the family who is not—
 
@@ -235,15 +235,15 @@
 
                     (II) the head of the household (or the spouse of the head of the household).
 
-            (B) __Permissive exclusions for public housing.—__ 
+            (B)  __Permissive exclusions for public housing__  __.—__ 
 
             In determining adjusted income, a public housing agency may, in the discretion of the agency, establish exclusions from the annual income of a family residing in a public housing dwelling unit. Such exclusions may include the following amounts:
 
-                (i) __Excessive travel expenses.—__ 
+                (i)  __Excessive travel expenses__  __.—__ 
 
                 Excessive travel expenses in an amount not to exceed $25 per family per week, for employment- or education-related travel.
 
-                (ii) __Earned income.—__ 
+                (ii)  __Earned income__  __.—__ 
 
                 An amount of any earned income of the family, established at the discretion of the public housing agency, which may be based on—
 
@@ -255,17 +255,17 @@
 
                     (IV) the amount earned by families or members during certain periods or from certain sources.
 
-                (iii) __Others.—__ 
+                (iii)  __Others__  __.—__ 
 
                 Such other amounts for other purposes, as the public housing agency may establish.
 
         (6) __Public housing agency.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided in subparagraph (B), the term “public housing agency” means any State, county, municipality, or other governmental entity or public body (or agency or instrumentality thereof) which is authorized to engage in or assist in the development or operation of public housing.
 
-            (B) __Section 1437f program.—__ 
+            (B)  __Section __  __1437f__  __program__  __.—__ 
 
             For purposes of the program for tenant-based assistance under [section 1437f of this title][/us/usc/t42/s1437f], such term includes—
 
@@ -285,23 +285,23 @@
 
         (8) The term “Secretary” means the Secretary of Housing and Urban Development.
 
-        (9) __Drug-related criminal activity.—__ 
+        (9)  __Drug-related criminal activity__  __.—__ 
 
         The term “drug-related criminal activity” means the illegal manufacture, sale, distribution, use, or possession with intent to manufacture, sell, distribute, or use, of a controlled substance (as such term is defined in [section 802 of title 21][/us/usc/t21/s802]).
 
-        (10) __Mixed-finance project.—__ 
+        (10)  __Mixed-finance project__  __.—__ 
 
         The term “mixed-finance project” means a public housing project that meets the requirements of [section 1437z–7 of this title][/us/usc/t42/s1437z–7].
 
-        (11) __Public housing agency plan.—__ 
+        (11)  __Public housing agency plan__  __.—__ 
 
         The term “public housing agency plan” means the plan of a public housing agency prepared in accordance with [section 1437c–1 of this title][/us/usc/t42/s1437c–1].
 
-        (12) __Capital fund.—__ 
+        (12)  __Capital fund__  __.—__ 
 
         The term “Capital Fund” means the fund established under [section 1437g(d) of this title][/us/usc/t42/s1437g/d].
 
-        (13) __Operating fund.—__ 
+        (13)  __Operating fund__  __.—__ 
 
         The term “Operating Fund” means the fund established under [section 1437g(e) of this title][/us/usc/t42/s1437g/e].
 
@@ -659,11 +659,11 @@
 
 > “The Secretary of Housing and Urban Development may carry out programs to provide lower income housing on Indian reservations and other Indian areas only in accordance with the amendments made by this Act \[enacting sections 1437aa to 1437ee of this title, amending this section and [section 1437c of this title][/us/usc/t42/s1437c], and enacting provisions set out as a note under [section 1437 of this title][/us/usc/t42/s1437]\], commencing on whichever of the following occurs earlier:
 
->     “(1) __Effective date of regulations.—__ 
+>     “(1)  __Effective date of regulations__  __.—__ 
 
 >     The effective date of regulations issued under section 205 of the United States Housing Act of 1937 \[former [section 1437ee of this title][/us/usc/t42/s1437ee]\].
 
->     “(2) __90 days.—__ 
+>     “(2) __90__  __days__  __.—__ 
 
 >     The expiration of the 90-day period beginning on the date of the enactment of this Act \[June 29, 1988\].”
 
@@ -689,11 +689,11 @@
 
 [Pub. L. 104–99, title IV, § 402(b)(2)][/us/pl/104/99/s402/b/2], Jan. 26, 1996, [110 Stat. 41][/us/stat/110/41], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The Secretary shall, by regulation, after notice and an opportunity for public comment, establish such requirements as may be necessary to carry out section 3(a)(2)(A) of the United States Housing Act of 1937 \[[42 U.S.C. 1437a(a)(2)(A)][/us/usc/t42/s1437a/a/2/A]\], as amended by paragraph (1).
 
->     “(B) __Transition rule.—__ 
+>     “(B)  __Transition rule__  __.—__ 
 
 >     Prior to the issuance of final regulations under paragraph (1), a public housing agency may implement ceiling rents, which shall be not less than the monthly costs to operate the housing of the agency and—
 
@@ -725,7 +725,7 @@
 
 > “Notwithstanding section 3(a)(1) of the United States Housing Act of 1937 ([42 U.S.C. 1437a][/us/usc/t42/s1437a]\[(a)\](1)), during the period ending upon the later of the implementation of the formulas established pursuant to subsections (d)(2) and (e)(2) of \[section 9 of\] such Act \[[42 U.S.C. 1437g(d)(2)][/us/usc/t42/s1437g/d/2], (e)(2)\] (as amended by this section) and October 1, 1999, a public housing agency may take any of the following actions with respect to public housing:
 
->     “(1) __New provisions.—__ 
+>     “(1)  __New provisions__  __.—__ 
 
 >     An agency may—
 
@@ -741,11 +741,11 @@
 
 >         “(B) allow families to pay ceiling rents referred to in subparagraph (A), unless, with respect to any family, the ceiling rent established under this paragraph would exceed the amount payable as rent by that family under paragraph (1).
 
->     “(2) __Ceiling rents from balanced budget act, I.—__ 
+>     “(2)  __Ceiling rents from balanced budget act, I__  __.—__ 
 
 >     An agency may utilize the authority under section 3(a)(2) of the United States Housing Act of 1937 ([42 U.S.C. 1437a(a)(2)][/us/usc/t42/s1437a/a/2]), as in effect immediately before the enactment of this Act \[Oct. 21, 1998\], notwithstanding any amendment to such section made by this Act.
 
->     “(3) __Transitional ceiling rents for balanced budget act, I.—__ 
+>     “(3)  __Transitional ceiling rents for balanced budget act, I__  __.—__ 
 
 >     An agency may utilize the authority with respect to ceiling rents under section 402(b)(2) of The Balanced Budget Downpayment Act, I \[[Pub. L. 104–99][/us/pl/104/99]\] ([42 U.S.C. 1437a][/us/usc/t42/s1437a] note), notwithstanding any other provision of law (including the expiration of the applicability of such section or the repeal of such section).”
 
@@ -753,29 +753,29 @@
 
 [Pub. L. 103–286, § 1][/us/pl/103/286/s1], Aug. 1, 1994, [108 Stat. 1450][/us/stat/108/1450], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Payments made to individuals because of their status as victims of Nazi persecution shall be disregarded in determining eligibility for and the amount of benefits or services to be provided under any Federal or federally assisted program which provides benefits or services based, in whole or in part, on need.
 
->     “(b) __Applicability.—__ 
+>     “(b)  __Applicability__  __.—__ 
 
 >     Subsection (a) shall apply to determinations made on or after the date of the enactment of this Act \[Aug. 1, 1994\] with respect to payments referred to in subsection (a) made before, on, or after such date.
 
->     “(c) __Prohibition Against Recovery of Value of Excessive Benefits or Services Provided Due to Failure to Take Account of Certain Payments Made to Victims of Nazi Persecution.—__ 
+>     “(c)  __Prohibition Against Recovery of Value of Excessive Benefits or Services Provided Due to Failure to Take Account of Certain Payments Made to Victims of Nazi Persecution__  __.—__ 
 
 >     No officer, agency, or instrumentality of any government may attempt to recover the value of excessive benefits or services provided before the date of the enactment of this Act \[Aug. 1, 1994\] under any program referred to in subsection (a) by reason of any failure to take account of payments referred to in subsection (a).
 
->     “(d) __Notice to Individuals Who May Have Been Denied Eligibility for Benefits or Services Due to the Failure to Disregard Certain Payments Made to Victims of Nazi Persecution.—__ 
+>     “(d)  __Notice to Individuals Who May Have Been Denied Eligibility for Benefits or Services Due to the Failure to Disregard Certain Payments Made to Victims of Nazi Persecution__  __.—__ 
 
 >     Any agency of government that has not disregarded payments referred to in subsection (a) in determining eligibility for a program referred to in subsection (a) shall make a good faith effort to notify any individual who may have been denied eligibility for benefits or services under the program of the potential eligibility of the individual for such benefits or services.
 
 >     “(e) __Repayment of Additional Rent Paid Under HUD Housing Programs Because of Failure to Disregard Reparation Payments.—__ 
 
->         “(1) __Authority.—__ 
+>         “(1)  __Authority__  __.—__ 
 
 >         To the extent that amounts are provided in appropriation Acts for payments under this subsection, the Secretary of Housing and Urban Development shall make payments to qualified individuals in the amount determined under paragraph (3).
 
->         “(2) __Qualified individuals.—__ 
+>         “(2)  __Qualified individuals__  __.—__ 
 
 >         For purposes of this subsection, the term ‘qualified individual’ means an individual who—
 
@@ -789,7 +789,7 @@
 
 >             The term does not include the successors, heirs, or estate of an individual meeting the requirements of the preceding sentence.
 
->         “(3) __Amount of payment.—__ 
+>         “(3)  __Amount of payment__  __.—__ 
 
 >         The amount of a payment under this subsection for a qualified individual shall be equal to the difference between—
 
@@ -797,7 +797,7 @@
 
 >             “(B) the sum of the amount of rent that would have been payable by the individual for rental of such dwelling unit for such period if the payments referred to in paragraph (2)(A) were disregarded in determining the amount of rent payable by the individual for such period.
 
->         “(4) __Submission of claims.—__ 
+>         “(4)  __Submission of claims__  __.—__ 
 
 >         A payment under this subsection for an individual may be made only pursuant to a written claim for such payment by such individual submitted to the Secretary of Housing and Urban Development in the form and manner required by the Secretary before—
 

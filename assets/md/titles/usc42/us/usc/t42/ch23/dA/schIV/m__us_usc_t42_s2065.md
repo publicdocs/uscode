@@ -143,19 +143,19 @@
 
 > “In this subtitle \[subtitle F (§§ 3171–3178), see Short Title of 2013 Amendment note set out under [section 2011 of this title][/us/usc/t42/s2011] and Tables\]:
 
->     “(1) __Department.—__ 
+>     “(1)  __Department__  __.—__ 
 
 >     The term ‘Department’ means the Department of Energy.
 
->     “(2) __Highly enriched uranium.—__ 
+>     “(2)  __Highly enriched uranium__  __.—__ 
 
 >     The term ‘highly enriched uranium’ means uranium enriched to 20 percent or greater in the isotope U–235.
 
->     “(3) __Low enriched uranium.—__ 
+>     “(3)  __Low enriched uranium__  __.—__ 
 
 >     The term ‘low enriched uranium’ means uranium enriched to less than 20 percent in the isotope U–235.
 
->     “(4) __Secretary.—__ 
+>     “(4)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of Energy.”
 

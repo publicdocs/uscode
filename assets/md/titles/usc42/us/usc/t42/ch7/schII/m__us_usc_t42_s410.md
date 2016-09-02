@@ -861,11 +861,11 @@
 
 [Pub. L. 99–272, title XIII, § 13205(d)(2)][/us/pl/99/272/s13205/d/2], Apr. 7, 1986, [100 Stat. 318][/us/stat/100/318], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending this section and sections 426, 426–1, and 1395c of this title\] shall be effective after March 31, 1986, and the amendments made by paragraph (3) of that subsection \[subsection does not contain a paragraph (3)\] shall apply to services performed (for medicare qualified government employment) after that date.
 
->     “(B) __Treatment of certain disabilities.—__ 
+>     “(B)  __Treatment of certain disabilities__  __.—__ 
 
 >     For purposes of establishing entitlement to hospital insurance benefits under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] pursuant to the amendments made by subsection (b), no individual may be considered to be under a disability for any period beginning before April 1, 1986.”
 

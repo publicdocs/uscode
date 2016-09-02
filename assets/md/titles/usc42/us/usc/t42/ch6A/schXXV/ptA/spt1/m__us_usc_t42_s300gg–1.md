@@ -83,7 +83,7 @@ A prior section 300gg–1, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373]
 
 >     “(a) __In Eligibility To Enroll.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), a group health plan, and a health insurance issuer offering group health insurance coverage in connection with a group health plan, may not establish rules for eligibility (including continued eligibility) of any individual to enroll under the terms of the plan based on any of the following health status-related factors in relation to the individual or a dependent of the individual:
 
@@ -103,7 +103,7 @@ A prior section 300gg–1, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373]
 
 >             “(H) Disability.
 
->         “(2) __No application to benefits or exclusions.—__ 
+>         “(2)  __No application to benefits or exclusions__  __.—__ 
 
 >         To the extent consistent with [section 300gg of this title][/us/usc/t42/s300gg], paragraph (1) shall not be construed—
 
@@ -111,17 +111,17 @@ A prior section 300gg–1, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373]
 
 >             “(B) to prevent such a plan or coverage from establishing limitations or restrictions on the amount, level, extent, or nature of the benefits or coverage for similarly situated individuals enrolled in the plan or coverage.
 
->         “(3) __Construction.—__ 
+>         “(3)  __Construction__  __.—__ 
 
 >         For purposes of paragraph (1), rules for eligibility to enroll under a plan include rules defining any applicable waiting periods for such enrollment.
 
 >     “(b) __In Premium Contributions.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A group health plan, and a health insurance issuer offering health insurance coverage in connection with a group health plan, may not require any individual (as a condition of enrollment or continued enrollment under the plan) to pay a premium or contribution which is greater than such premium or contribution for a similarly situated individual enrolled in the plan on the basis of any health status-related factor in relation to the individual or to an individual enrolled under the plan as a dependent of the individual.
 
->         “(2) __Construction.—__ 
+>         “(2)  __Construction__  __.—__ 
 
 >         Nothing in paragraph (1) shall be construed—
 
@@ -131,35 +131,35 @@ A prior section 300gg–1, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373]
 
 >         “(3) __No group-based discrimination on basis of genetic information.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             For purposes of this section, a group health plan, and health insurance issuer offering group health insurance coverage in connection with a group health plan, may not adjust premium or contribution amounts for the group covered under such plan on the basis of genetic information.
 
->             “(B) __Rule of construction.—__ 
+>             “(B)  __Rule of construction__  __.—__ 
 
 >             Nothing in subparagraph (A) or in paragraphs (1) and (2) of subsection (d) shall be construed to limit the ability of a health insurance issuer offering health insurance coverage in connection with a group health plan to increase the premium for an employer based on the manifestation of a disease or disorder of an individual who is enrolled in the plan. In such case, the manifestation of a disease or disorder in one individual cannot also be used as genetic information about other group members and to further increase the premium for the employer.
 
 >     “(c) __Genetic Testing.—__ 
 
->         “(1) __Limitation on requesting or requiring genetic testing.—__ 
+>         “(1)  __Limitation on requesting or requiring genetic testing__  __.—__ 
 
 >         A group health plan, and a health insurance issuer offering health insurance coverage in connection with a group health plan, shall not request or require an individual or a family member of such individual to undergo a genetic test.
 
->         “(2) __Rule of construction.—__ 
+>         “(2)  __Rule of construction__  __.—__ 
 
 >         Paragraph (1) shall not be construed to limit the authority of a health care professional who is providing health care services to an individual to request that such individual undergo a genetic test.
 
 >         “(3) __Rule of construction regarding payment.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Nothing in paragraph (1) shall be construed to preclude a group health plan, or a health insurance issuer offering health insurance coverage in connection with a group health plan, from obtaining and using the results of a genetic test in making a determination regarding payment (as such term is defined for the purposes of applying the regulations promulgated by the Secretary under part C of title XI of the Social Security Act and section 264 of the Health Insurance Portability and Accountability Act of 1996, as may be revised from time to time) consistent with subsection (a).
 
->             “(B) __Limitation.—__ 
+>             “(B)  __Limitation__  __.—__ 
 
 >             For purposes of subparagraph (A), a group health plan, or a health insurance issuer offering health insurance coverage in connection with a group health plan, may request only the minimum amount of information necessary to accomplish the intended purpose.
 
->         “(4) __Research exception.—__ 
+>         “(4)  __Research exception__  __.—__ 
 
 >         Notwithstanding paragraph (1), a group health plan, or a health insurance issuer offering health insurance coverage in connection with a group health plan, may request, but not require, that a participant or beneficiary undergo a genetic test if each of the following conditions is met:
 
@@ -181,23 +181,23 @@ A prior section 300gg–1, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373]
 
 >     “(d) __Prohibition on Collection of Genetic Information.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A group health plan, and a health insurance issuer offering health insurance coverage in connection with a group health plan, shall not request, require, or purchase genetic information for underwriting purposes (as defined in [section 300gg–91 of this title][/us/usc/t42/s300gg–91]).
 
->         “(2) __Prohibition on collection of genetic information prior to enrollment.—__ 
+>         “(2)  __Prohibition on collection of genetic information prior to enrollment__  __.—__ 
 
 >         A group health plan, and a health insurance issuer offering health insurance coverage in connection with a group health plan, shall not request, require, or purchase genetic information with respect to any individual prior to such individual’s enrollment under the plan or coverage in connection with such enrollment.
 
->         “(3) __Incidental collection.—__ 
+>         “(3)  __Incidental collection__  __.—__ 
 
 >         If a group health plan, or a health insurance issuer offering health insurance coverage in connection with a group health plan, obtains genetic information incidental to the requesting, requiring, or purchasing of other information concerning any individual, such request, requirement, or purchase shall not be considered a violation of paragraph (2) if such request, requirement, or purchase is not in violation of paragraph (1).
 
->     “(e) __Application to All Plans.—__ 
+>     “(e)  __Application to All Plans__  __.—__ 
 
 >     The provisions of subsections (a)(1)(F), (b)(3), (c), and (d) and subsection (b)(1) and [section 300gg of this title][/us/usc/t42/s300gg] with respect to genetic information, shall apply to group health plans and health insurance issuers without regard to [section 300gg–21(a) of this title][/us/usc/t42/s300gg–21/a].
 
->     “(f) __Genetic Information of a Fetus or Embryo.—__ 
+>     “(f)  __Genetic Information of a Fetus or Embryo__  __.—__ 
 
 >     Any reference in this part to genetic information concerning an individual or family member of an individual shall—
 

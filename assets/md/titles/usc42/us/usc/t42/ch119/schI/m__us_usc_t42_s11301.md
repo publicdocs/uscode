@@ -119,11 +119,11 @@
 
 [Pub. L. 111–22, div. B, title V, § 1504][/us/pl/111/22/s1504], May 20, 2009, [123 Stat. 1702][/us/stat/123/1702], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 12 months after the date of the enactment of this division \[May 20, 2009\], the Secretary of Housing and Urban Development shall promulgate regulations governing the operation of the programs that are created or modified by this division \[see Short Title of 2009 Amendment note above\].
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     This section shall take effect on the date of the enactment of this division.”
 
@@ -135,7 +135,7 @@
 
 [Pub. L. 111–22, div. B, § 1002][/us/pl/111/22/s1002], May 20, 2009, [123 Stat. 1664][/us/stat/123/1664], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -143,7 +143,7 @@
 
 >         “(2) homelessness affects all types of communities in the United States, including rural, urban, and suburban areas.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this division \[see Short Title of 2009 Amendment note above\] are—
 

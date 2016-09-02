@@ -87,15 +87,15 @@
 
 [Pub. L. 100–242, title I, § 125][/us/pl/100/242/s125], Feb. 5, 1988, [101 Stat. 1847][/us/stat/101/1847], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary of Housing and Urban Development shall establish a demonstration program through the assistance of an appropriate technology transfer organization that specializes in producing detailed energy-efficient designs and in conducting local and statewide, public participation tests for energy efficient, needs-oriented housing. The appropriate technology organization shall carry out the demonstration working through and with public housing agencies to build and test a variety of energy-efficient housing designs in 100 separate housing units in 4 different States that meet local lower income housing needs (including single parent, disabled, and elderly concerns) through a composite ranging from single to 12-plex units in the cluster approach on vacant lots and open areas.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     As soon as practicable following September 30, 1988, the Secretary of Housing and Urban Development shall submit to the Congress a report setting forth the findings and recommendations of the Secretary as a result of the demonstration under this section.
 
->     “(c) __Funding.—__ 
+>     “(c)  __Funding__  __.—__ 
 
 >     Of the budget authority authorized to be provided for the development of public housing, there is authorized to be appropriated to carry out this section $4,700,000 for fiscal year 1988.”
 

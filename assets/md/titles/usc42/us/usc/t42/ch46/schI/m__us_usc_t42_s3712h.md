@@ -83,11 +83,11 @@
 
 [Pub. L. 109–162, title XI, § 1158(b)][/us/pl/109/162/s1158/b], Jan. 5, 2006, [119 Stat. 3116][/us/stat/119/3116], as amended by [Pub. L. 109–271, § 8(n)(3)][/us/pl/109/271/s8/n/3], Aug. 12, 2006, [120 Stat. 768][/us/stat/120/768], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), section 109 of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3712d][/us/usc/t42/s3712d]) \[now 3712h\] shall take effect on April 5, 2006.
 
->     “(2) __Certain provisions.—__ 
+>     “(2)  __Certain provisions__  __.—__ 
 
 >     Subsections (c), (d), and (e) of section 109 of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3712d][/us/usc/t42/s3712d]) \[now 3712h\] shall take effect on October 1, 2006.”
 

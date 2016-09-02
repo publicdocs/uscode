@@ -31,7 +31,7 @@
 
 [Section 251 of Pub. L. 100–607][/us/pl/100/607/s251], as amended by [Pub. L. 100–690, title II, § 2602(b)][/us/pl/100/690/s2602/b], Nov. 18, 1988, [102 Stat. 4234][/us/stat/102/4234], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Health and Human Services, acting through the Director of the Office of Minority Health, shall conduct a study for the purpose of determining—
 
@@ -39,7 +39,7 @@
 
 >         “(2) the effectiveness of Federal, State, and local prevention programs with respect to acquired immune deficiency syndrome in minority communities.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     The Secretary shall, not later than 12 months after the date of the enactment of this title \[Nov. 4, 1988\], complete the study required in subsection (a) and submit to the Congress a report describing the findings made as a result of the study.”
 

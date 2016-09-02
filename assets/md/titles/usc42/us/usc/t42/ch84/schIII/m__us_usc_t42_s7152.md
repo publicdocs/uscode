@@ -103,33 +103,33 @@
 
 > “SEC. 103. __SALE OF EKLUTNA AND SNETTISHAM HYDROELECTRIC PROJECTS.__ 
 
->     “(a) __Sale of Eklutna.—__ 
+>     “(a)  __Sale of Eklutna__  __.—__ 
 
 >     The Secretary of Energy is authorized and directed to sell Eklutna to the Eklutna Purchasers in accordance with the terms of this Act and the Eklutna Purchase Agreement.
 
->     “(b) __Sale of Snettisham.—__ 
+>     “(b)  __Sale of Snettisham__  __.—__ 
 
 >     The Secretary of Energy is authorized and directed to sell Snettisham to the Snettisham Purchaser in accordance with the terms of this Act and the Snettisham Purchase Agreement.
 
->     “(c) __Cooperation of Other Agencies.—__ 
+>     “(c)  __Cooperation of Other Agencies__  __.—__ 
 
 >     The heads of other Federal departments, agencies, and instrumentalities of the United States shall assist the Secretary of Energy in implementing the sales and conveyances authorized and directed by this title.
 
->     “(d) __Proceeds.—__ 
+>     “(d)  __Proceeds__  __.—__ 
 
 >     Proceeds from the sales required by this title shall be deposited in the Treasury of the United States to the credit of miscellaneous receipts.
 
->     “(e) __Authorization of Appropriations.—__ 
+>     “(e)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated such sums as may be necessary to prepare, survey, and acquire Eklutna and Snettisham for sale and conveyance. Such preparations and acquisitions shall provide sufficient title to ensure the beneficial use, enjoyment, and occupancy by the purchasers.
 
->     “(f) __Contributed Funds.—__ 
+>     “(f)  __Contributed Funds__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Alaska Power Administration is authorized to receive, administer, and expend such contributed funds as may be provided by the Eklutna Purchasers or customers or the Snettisham Purchaser or customers for the purposes of upgrading, improving, maintaining, or administering Eklutna or Snettisham. Upon the termination of the Alaska Power Administration under section 104(f), the Secretary of Energy shall administer and expend any remaining balances of such contributed funds for the purposes intended by the contributors.
 
 > “SEC. 104. __EXEMPTION AND OTHER PROVISIONS.__ 
 
->     “(a) __Federal Power Act.—__ 
+>     “(a)  __Federal Power Act__  __.—__ 
 
 >         (1) After the sales authorized by this Act occur, Eklutna and Snettisham, including future modifications, shall continue to be exempt from the requirements of Part I of the Federal Power Act ([16 U.S.C. 791a][/us/usc/t16/s791a] et seq.), except as provided in subsection (b).
 
@@ -137,11 +137,11 @@
 
 >         “(3) Nothing in this title or the Federal Power Act preempts the State of Alaska from carrying out the responsibilities and authorities of the Memorandum of Agreement.
 
->     “(b) __Subsequent Transfers.—__ 
+>     “(b)  __Subsequent Transfers__  __.—__ 
 
 >     Except for subsequent assignment of interest in Eklutna by the Eklutna Purchasers to the Alaska Electric Generation and Transmission Cooperative Inc. pursuant to section 19 of the Eklutna Purchase Agreement, upon any subsequent sale or transfer of any portion of Eklutna or Snettisham from the Eklutna Purchasers or the Snettisham Purchaser to any other person, the exemption set forth in paragraph (1) of subsection (a) of this section shall cease to apply to such portion.
 
->     “(c) __Review.—__ 
+>     “(c)  __Review__  __.—__ 
 
 >         (1) The United States District Court for the District of Alaska shall have jurisdiction to review decisions made under the Memorandum of Agreement and to enforce the provisions of the Memorandum of Agreement, including the remedy of specific performance.
 
@@ -149,7 +149,7 @@
 
 >         “(3) An action seeking review of implementation of the Program shall be brought not later than 90 days after the challenged act implementing the Program, or be barred.
 
->     “(d) __Eklutna Lands.—__ 
+>     “(d)  __Eklutna Lands__  __.—__ 
 
 >     With respect to Eklutna lands described in Exhibit A of the Eklutna Purchase Agreement:
 
@@ -167,11 +167,11 @@
 
 >         “(3) With respect to the Eklutna lands identified in paragraph 1 of Exhibit A of the Eklutna Purchase Agreement, the State of Alaska may select, and the Secretary of the Interior shall convey to the State, improved lands under the selection entitlements in [section 6 of the Act of July 7, 1958][/us/act/1958-07-07/s6] (commonly referred to as the Alaska Statehood Act, [Public Law 85–508][/us/pl/85/508]; [72 Stat. 339][/us/stat/72/339]) \[set out as a note preceding [section 21 of Title 48][/us/usc/t48/s21], Territories and Insular Possessions\], and the North Anchorage Land Agreement dated January 31, 1983. This conveyance shall be subject to the rights-of-way provided to the Eklutna Purchasers under paragraph (1).
 
->     “(e) __Snettisham Lands.—__ 
+>     “(e)  __Snettisham Lands__  __.—__ 
 
 >     With respect to the Snettisham lands identified in paragraph 1 of Exhibit A of the Snettisham Purchase Agreement and Public Land Order No. 5108, the State of Alaska may select, and the Secretary of the Interior shall convey to the State of Alaska, improved lands under the selection entitlements in [section 6 of the Act of July 7, 1958][/us/act/1958-07-07/s6] (commonly referred to as the Alaska Statehood Act, [Public Law 85–508][/us/pl/85/508]; [72 Stat. 339][/us/stat/72/339]).
 
->     “(f) __Termination of Alaska Power Administration.—__ 
+>     “(f)  __Termination of Alaska Power Administration__  __.—__ 
 
 >     Not later than one year after both of the sales authorized in section 103 have occurred, as measured by the Transaction Dates stipulated in the Purchase Agreements, the Secretary of Energy shall—
 
@@ -181,7 +181,7 @@
 
 >         “(3) return unobligated balances of funds appropriated for the Alaska Power Administration to the Treasury of the United States.
 
->     “(g) __Repeals.—__ 
+>     “(g)  __Repeals__  __.—__ 
 
 >         (1) The Act of July 31, 1950 ([64 Stat. 382][/us/stat/64/382]) \[enacting sections 312 to 312d of Title 48, Territories and Insular Possessions, and provisions formerly set out as a note under [section 312 of Title 48][/us/usc/t48/s312]\] is repealed effective on the date that Eklutna is conveyed to the Eklutna Purchasers \[ownership of Eklutna project transferred Oct. 2, 1997\].
 
@@ -189,7 +189,7 @@
 
 >         “(3) The Act of August 9, 1955 \[enacting sections 1962d–12 to 1962d–14 of this title\], concerning water resources investigation in Alaska ([69 Stat. 618][/us/stat/69/618]), is repealed.
 
->     “(h) __DOE Organization Act.—__ 
+>     “(h)  __DOE Organization Act__  __.—__ 
 
 >     As of the later of the two dates determined in paragraphs (1) and (2) of subsection (g), section 302(a) of the Department of Energy Organization Act ([42 U.S.C. 7152(a)][/us/usc/t42/s7152/a]) is amended—
 
@@ -203,7 +203,7 @@
 
 >         “(2) in paragraph (2) by striking out ‘and the Alaska Power Administration’ and by inserting ‘and’ after ‘Southwestern Power Administration,’.
 
->     “(i) __Disposal.—__ 
+>     “(i)  __Disposal__  __.—__ 
 
 >     The sales of Eklutna and Snettisham under this title are not considered disposal of Federal surplus property under the Federal Property and Administrative Services Act of 1949 \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\] ([40 U.S.C. 484][/us/usc/t40/s484]) \[now [40 U.S.C. 541–555][/us/usc/t40/s541–555]\] or the Act of October 3, 1944, popularly referred to as the ‘Surplus Property Act of 1944’ (50 U.S.C. App. 1622).
 

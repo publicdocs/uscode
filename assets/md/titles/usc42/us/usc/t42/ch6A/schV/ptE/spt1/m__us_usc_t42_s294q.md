@@ -359,7 +359,7 @@
 
 > “In this title \[see Tables for classification\]:
 
->     “(1) __Allied health professional.—__ 
+>     “(1)  __Allied health professional__  __.—__ 
 
 >     The term ‘allied health professional’ means an allied health professional as defined in section 799B(5) of the Public Heath Service Act ([42 U.S.C. 295p(5)][/us/usc/t42/s295p/5]) who—
 
@@ -367,7 +367,7 @@
 
 >         “(B) is employed with a Federal, State, local or tribal public health agency, or in a setting where patients might require health care services, including acute care facilities, ambulatory care facilities, personal residences, and other settings located in health professional shortage areas, medically underserved areas, or medically underserved populations, as recognized by the Secretary of Health and Human Services.
 
->     “(2) __Health care career pathway.—__ 
+>     “(2)  __Health care career pathway__  __.—__ 
 
 >     The term ‘healthcare career pathway’ means a rigorous, engaging, and high quality set of courses and services that—
 
@@ -389,21 +389,21 @@
 
 >             “(ii) a postsecondary degree, an apprenticeship or other occupational certification, a certificate, or a license.
 
->     “(3) __Institution of higher education.—__ 
+>     “(3)  __Institution of higher education__  __.—__ 
 
 >     The term ‘institution of higher education’ has the meaning given the term in sections 101 and 102 of the Higher Education Act of 1965 ([20 U.S.C. 1001][/us/usc/t20/s1001] and 1002).
 
 >     “(4) __Low income individual, state workforce investment board, and local workforce investment board.—__ 
 
->         “(A) __Low-income individual.—__ 
+>         “(A)  __Low-income individual__  __.—__ 
 
 >         The term ‘low-income individual’ has the meaning given that term in section 101 of the Workforce investment \[sic\] Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801]).
 
->         “(B) __State workforce investment board; local workforce investment board.—__ 
+>         “(B)  __State workforce investment board; local workforce investment board__  __.—__ 
 
 >         The terms ‘State workforce investment board’ and ‘local workforce investment board’, \[sic\] refer to a State workforce investment board established under section 111 of the Workforce Investment Act of 1998 ([29 U.S.C. 2821][/us/usc/t29/s2821]) and a local workforce investment board established under section 117 of such Act ([29 U.S.C. 2832][/us/usc/t29/s2832]), respectively.
 
->     “(5) __Postsecondary education.—__ 
+>     “(5)  __Postsecondary education__  __.—__ 
 
 >     The term ‘postsecondary education’ means—
 
@@ -411,7 +411,7 @@
 
 >         “(B) a certificate or registered apprenticeship program at the postsecondary level offered by an institution of higher education or a non-profit educational institution.
 
->     “(6) __Registered apprenticeship program.—__ 
+>     “(6)  __Registered apprenticeship program__  __.—__ 
 
 >     The term ‘registered apprenticeship program’ means an industry skills training program at the postsecondary level that combines technical and theoretical training through structure on the job learning with related instruction (in a classroom or through distance learning) while an individual is employed, working under the direction of qualified personnel or a mentor, and earning incremental wage increases aligned to enhance job proficiency, resulting in the acquisition of a nationally recognized and portable certificate, under a plan approved by the Office of Apprenticeship or a State agency recognized by the Department of Labor.”
 

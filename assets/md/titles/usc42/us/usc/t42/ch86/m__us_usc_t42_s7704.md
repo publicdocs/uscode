@@ -377,27 +377,27 @@
 
 >     “(a) __Automatic Seismic Warning System Development.—__ 
 
->         “(1) __Definitions.—__ 
+>         “(1)  __Definitions__  __.—__ 
 
 >         In this section:
 
->             “(A) __Director.—__ 
+>             “(A)  __Director__  __.—__ 
 
 >             The term ‘Director’ means the Director of the United States Geological Survey.
 
->             “(B) __High-risk activity.—__ 
+>             “(B)  __High-risk activity__  __.—__ 
 
 >             The term ‘high-risk activity’ means an activity that may be adversely affected by a moderate to severe seismic event (as determined by the Director). The term includes high-speed rail transportation.
 
->             “(C) __Real-time seismic warning system.—__ 
+>             “(C)  __Real-time seismic warning system__  __.—__ 
 
 >             The term ‘real-time seismic warning system’ means a system that issues warnings in real-time from a network of seismic sensors to a set of analysis processors, directly to receivers related to high-risk activities.
 
->         “(2) __In general.—__ 
+>         “(2)  __In general__  __.—__ 
 
 >         The Director shall conduct a program to develop a prototype real-time seismic warning system. The Director may enter into such agreements or contracts as may be necessary to carry out the program.
 
->         “(3) __Upgrade of seismic sensors.—__ 
+>         “(3)  __Upgrade of seismic sensors__  __.—__ 
 
 >         In carrying out a program under paragraph (2), in order to increase the accuracy and speed of seismic event analysis to provide for timely warning signals, the Director shall provide for the upgrading of the network of seismic sensors participating in the prototype to increase the capability of the sensors—
 
@@ -405,7 +405,7 @@
 
 >             “(B) to acquire additional parametric data.
 
->         “(4) __Development of communications and computation infrastructure.—__ 
+>         “(4)  __Development of communications and computation infrastructure__  __.—__ 
 
 >         In carrying out a program under paragraph (2), the Director shall develop a communications and computation infrastructure that is necessary—
 
@@ -419,27 +419,27 @@
 
 >                 “(ii) the issuance of warnings to receivers related to high-risk activities.
 
->         “(5) __Procurement of computer hardware and computer software.—__ 
+>         “(5)  __Procurement of computer hardware and computer software__  __.—__ 
 
 >         In carrying out a program under paragraph (2), the Director shall procure such computer hardware and computer software as may be necessary to carry out the program.
 
 >         “(6) __Reports on progress.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Not later than 120 days after the date of enactment of this Act \[Oct. 1, 1997\], the Director shall prepare and submit to Congress a report that contains a plan for implementing a real-time seismic hazard warning system.
 
->             “(B) __Additional reports.—__ 
+>             “(B)  __Additional reports__  __.—__ 
 
 >             Not later than 1 year after the date on which the Director submits the report under subparagraph (A), and annually thereafter, the Director shall prepare and submit to Congress a report that summarizes the progress of the Director in implementing the plan referred to in subparagraph (A).
 
->         “(7) __Authorization of appropriations.—__ 
+>         “(7)  __Authorization of appropriations__  __.—__ 
 
 >         In addition to the amounts made available to the Director under section 12(b) of the Earthquake Hazards Reduction Act of 1977 ([42 U.S.C. 7706(b)][/us/usc/t42/s7706/b]), there are authorized to be appropriated to the Department of the Interior, to be used by the Director to carry out paragraph (2), $3,000,000 for each of fiscal years 1998 and 1999; $2,600,000 for fiscal year 2001; $2,710,000 for fiscal year 2002; and $2,825,000 for fiscal year 2003.
 
 >     “(b) __Seismic Monitoring Networks Assessment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Director shall provide for an assessment of regional seismic monitoring networks in the United States. The assessment shall address—
 
@@ -453,51 +453,51 @@
 
 >             “(E) projected costs for meeting the needs described in subparagraphs (A) through (D).
 
->         “(2) __Results.—__ 
+>         “(2)  __Results__  __.—__ 
 
 >         The Director shall transmit the results of the assessment conducted under this subsection to Congress not later than 1 year after the date of enactment of this Act \[Oct. 1, 1997\].
 
 >     “(c) __Earth Science Teaching Materials.—__ 
 
->         “(1) __Definitions.—__ 
+>         “(1)  __Definitions__  __.—__ 
 
 >         In this subsection:
 
->             “(A) __Local educational agency.—__ 
+>             “(A)  __Local educational agency__  __.—__ 
 
 >             The term ‘local educational agency’ has the meaning given that term in section 9101 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\].
 
->             “(B) __School.—__ 
+>             “(B)  __School__  __.—__ 
 
 >             The term ‘school’ means a nonprofit institutional day or residential school that provides education for any of the grades kindergarten through grade 12.
 
->         “(2) __Teaching materials.—__ 
+>         “(2)  __Teaching materials__  __.—__ 
 
 >         In a manner consistent with the requirement under section 5(b)(4) of the Earthquake Hazards Reduction Act of 1977 ([42 U.S.C. 7704(b)(4)][/us/usc/t42/s7704/b/4]) and subject to a merit based competitive process, the Director of the National Science Foundation may use funds made available to him or her under section 12(c) of such Act ([42 U.S.C. 7706(c)][/us/usc/t42/s7706/c]) to develop, and make available to schools and local educational agencies for use by schools, at a minimal cost, earth science teaching materials that are designed to meet the needs of elementary and secondary school teachers and students.
 
 >     “(d) __Improved Seismic Hazard Assessment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         As soon as practicable after the date of enactment of this Act \[Oct. 1, 1997\], the Director shall conduct a project to improve the seismic hazard assessment of seismic zones.
 
 >         “(2) __Reports.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Not later than 1 year after the date of enactment of this Act, and annually during the period of the project, the Director shall prepare, and submit to Congress, a report on the findings of the project.
 
->             “(B) __Final report.—__ 
+>             “(B)  __Final report__  __.—__ 
 
 >             Not later than 60 days after the date of termination of the project conducted under this subsection, the Director shall prepare and submit to Congress a report concerning the findings of the project.
 
 >     “(e) __Study of National Earthquake Emergency Training Capabilities.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Director of the Federal Emergency Management Agency shall conduct an assessment of the need for additional Federal disaster-response training capabilities that are applicable to earthquake response.
 
->         “(2) __Contents of assessment.—__ 
+>         “(2)  __Contents of assessment__  __.—__ 
 
 >         The assessment conducted under this subsection shall include—
 
@@ -507,7 +507,7 @@
 
 >             “(C) a recommendation on the need to provide additional Federal disaster-response training centers.
 
->         “(3) __Report.—__ 
+>         “(3)  __Report__  __.—__ 
 
 >         Not later than 180 days after the date of enactment of this Act \[Oct. 1, 1997\], the Director shall prepare and submit to Congress a report that addresses the results of the assessment conducted under this subsection.”
 

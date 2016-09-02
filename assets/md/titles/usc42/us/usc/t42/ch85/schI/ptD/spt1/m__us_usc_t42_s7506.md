@@ -93,15 +93,15 @@
 
         (4) __Criteria and procedures for determining conformity.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Administrator shall promulgate, and periodically update, criteria and procedures for determining conformity (except in the case of transportation plans, programs, and projects) of, and for keeping the Administrator informed about, the activities referred to in paragraph (1).
 
-            (B) __Transportation plans, programs, and projects.—__ 
+            (B)  __Transportation plans, programs, and projects__  __.—__ 
 
             The Administrator, with the concurrence of the Secretary of Transportation, shall promulgate, and periodically update, criteria and procedures for demonstrating and assuring conformity in the case of transportation plans, programs, and projects.
 
-            (C) __Civil action to compel promulgation.—__ 
+            (C)  __Civil action to compel promulgation__  __.—__ 
 
             A civil action may be brought against the Administrator and the Secretary of Transportation under [section 7604 of this title][/us/usc/t42/s7604] to compel promulgation of such criteria and procedures and the Federal district court shall have jurisdiction to order such promulgation.
 
@@ -121,13 +121,13 @@
 
                 (iii) address how conformity determinations will be made with respect to maintenance plans.
 
-            (E) __Inclusion of criteria and procedures in sip.—__ 
+            (E)  __Inclusion of criteria and procedures in sip__  __.—__ 
 
             Not later than 2 years after August 10, 2005, the procedures under subparagraph (A) shall include a requirement that each State include in the State implementation plan criteria and procedures for consultation required by subparagraph (D)(i), and enforcement and enforceability (pursuant to sections 93.125(c) and 93.122(a)(4)(ii) of title 40, Code of Federal Regulations) in accordance with the Administrator’s criteria and procedures for consultation, enforcement and enforceability.
 
             (F) Compliance with the rules of the Administrator for determining the conformity of transportation plans, programs, and projects funded or approved under title 23 or chapter 53 of title 49 to State or Federal implementation plans shall not be required for traffic signal synchronization projects prior to the funding, approval or implementation of such projects. The supporting regional emissions analysis for any conformity determination made with respect to a transportation plan, program, or project shall consider the effect on emissions of any such project funded, approved, or implemented prior to the conformity determination.
 
-        (5) __Applicability.—__ 
+        (5)  __Applicability__  __.—__ 
 
         This subsection shall apply only with respect to—
 
@@ -139,7 +139,7 @@
 
         (7) __Conformity horizon for transportation plans.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Each conformity determination required under this section for a transportation plan under [section 134(i) of title 23][/us/usc/t23/s134/i] or [section 5303(i) of title 49][/us/usc/t49/s5303/i] shall require a demonstration of conformity for the period ending on either the final year of the transportation plan, or at the election of the metropolitan planning organization, after consultation with the air pollution control agency and solicitation of public comments and consideration of such comments, the longest of the following periods:
 
@@ -149,25 +149,25 @@
 
                 (iii) The year after the completion date of a regionally significant project if the project is included in the transportation improvement program or the project requires approval before the subsequent conformity determination.
 
-            (B) __Regional emissions analysis.—__ 
+            (B)  __Regional emissions analysis__  __.—__ 
 
             The conformity determination shall be accompanied by a regional emissions analysis for the last year of the transportation plan and for any year shown to exceed emission budgets by a prior analysis, if such year extends beyond the applicable period as determined under subparagraph (A).
 
-            (C) __Exception.—__ 
+            (C)  __Exception__  __.—__ 
 
             In any case in which an area has a revision to an implementation plan under [section 7505a(b) of this title][/us/usc/t42/s7505a/b] and the Administrator has found the motor vehicles emissions budgets from that revision to be adequate in accordance with section 93.118(e)(4) of title 40, Code of Federal Regulations (as in effect on October 1, 2004), or has approved the revision, the demonstration of conformity at the election of the metropolitan planning organization, after consultation with the air pollution control agency and solicitation of public comments and consideration of such comments, shall be required to extend only through the last year of the implementation plan required under [section 7505a(b) of this title][/us/usc/t42/s7505a/b].
 
-            (D) __Effect of election.—__ 
+            (D)  __Effect of election__  __.—__ 
 
             Any election by a metropolitan planning organization under this paragraph shall continue in effect until the metropolitan planning organization elects otherwise.
 
-            (E) __Air pollution control agency defined.—__ 
+            (E)  __Air pollution control agency defined__  __.—__ 
 
             In this paragraph, the term “air pollution control agency” means an air pollution control agency (as defined in [section 7602(b) of this title][/us/usc/t42/s7602/b]) that is responsible for developing plans or controlling air pollution within the area covered by a transportation plan.
 
         (8) __Substitution of transportation control measures.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Transportation control measures that are specified in an implementation plan may be replaced or added to the implementation plan with alternate or additional transportation control measures—
 
@@ -195,7 +195,7 @@
 
                 (v) if the metropolitan planning organization, State air pollution control agency, and the Administrator concur with the equivalency of the substitute or additional control measures.
 
-            (B) __Adoption.—__ 
+            (B)  __Adoption__  __.—__ 
 
                 (i) Concurrence by the metropolitan planning organization, State air pollution control agency and the Administrator as required by subparagraph (A)(v) shall constitute adoption of the substitute or additional control measures so long as the requirements of subparagraphs (A)(i), (A)(ii), (A)(iii) and (A)(iv) are met.
 
@@ -203,11 +203,11 @@
 
                 (iii) Within 90 days of its concurrence under subparagraph (A)(v), the State air pollution control agency shall submit the substitute or additional control measure to the Administrator for incorporation in the codification of the applicable implementation plan. Nothwithstanding  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “Notwithstanding”. </sup></sup>  any other provision of this chapter, no additional State process shall be necessary to support such revision to the applicable plan.
 
-            (C) __No requirement for express permission.—__ 
+            (C)  __No requirement for express permission__  __.—__ 
 
             The substitution or addition of a transportation control measure in accordance with this paragraph and the funding or approval of such a control measure shall not be contingent on the existence of any provision in the applicable implementation plan that expressly permits such a substitution or addition.
 
-            (D) __No requirement for new conformity determination.—__ 
+            (D)  __No requirement for new conformity determination__  __.—__ 
 
             The substitution or addition of a transportation control measure in accordance with this paragraph shall not require—
 
@@ -215,19 +215,19 @@
 
                 (ii) a revision of the implementation plan.
 
-            (E) __Continuation of control measure being replaced.—__ 
+            (E)  __Continuation of control measure being replaced__  __.—__ 
 
             A control measure that is being replaced by a substitute control measure under this paragraph shall remain in effect until the substitute control measure is adopted by the State pursuant to subparagraph (B).
 
-            (F) __Effect of adoption.—__ 
+            (F)  __Effect of adoption__  __.—__ 
 
             Adoption of a substitute control measure shall constitute rescission of the previously applicable control measure.
 
-        (9) __Lapse of conformity.—__ 
+        (9)  __Lapse of conformity__  __.—__ 
 
         If a conformity determination required under this subsection for a transportation plan under [section 134(i) of title 23][/us/usc/t23/s134/i] or [section 5303(i) of title 49][/us/usc/t49/s5303/i] or a transportation improvement program under section 134(j) of such title 23 or under section 5303(j) of such title 49 is not made by the applicable deadline and such failure is not corrected by additional measures to either reduce motor vehicle emissions sufficient to demonstrate compliance with the requirements of this subsection within 12 months after such deadline or other measures sufficient to correct such failures, the transportation plan shall lapse.
 
-        (10) __Lapse.—__ 
+        (10)  __Lapse__  __.—__ 
 
         In this subsection, the term “lapse” means that the conformity determination for a transportation plan or transportation improvement program has expired, and thus there is no currently conforming transportation plan or transportation improvement program.
 

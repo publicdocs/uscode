@@ -37,15 +37,15 @@
 
 [Pub. L. 109–288, § 12][/us/pl/109/288/s12], Sept. 28, 2006, [120 Stat. 1255][/us/stat/120/1255], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this Act \[see Short Title of 2006 Amendment note set out under [section 1305 of this title][/us/usc/t42/s1305]\], the amendments made by this Act shall take effect on October 1, 2006, and shall apply to payments under parts B and E of title IV of the Social Security Act \[[42 U.S.C. 620][/us/usc/t42/s620] et seq., 670 et seq.\] for calendar quarters beginning on or after such date, without regard to whether regulations to implement the amendments are promulgated by such date.
 
->     “(b) __Delay Permitted If State Legislation Required.—__ 
+>     “(b)  __Delay Permitted If State Legislation Required__  __.—__ 
 
 >     If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan developed pursuant to subpart 1 of part B \[[42 U.S.C. 620][/us/usc/t42/s620] et seq.\], or a State plan approved under subpart 2 of part B \[[42 U.S.C. 629][/us/usc/t42/s629] et seq.\] or part E \[[42 U.S.C. 670][/us/usc/t42/s670] et seq.\], of title IV of the Social Security Act to meet the additional requirements imposed by the amendments made by this Act, the plan shall not be regarded as failing to meet any of the additional requirements before the 1st day of the 1st calendar quarter beginning after the first regular session of the State legislature that begins after the date of the enactment of this Act \[Sept. 28, 2006\]. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.
 
->     “(c) __Availability of Promoting Safe and Stable Families Resources for Fiscal Year 2006.—__ 
+>     “(c)  __Availability of Promoting Safe and Stable Families Resources for Fiscal Year__  __2006.—__ 
 
 >     Section 3(c) \[[120 Stat. 1235][/us/stat/120/1235]\] shall take effect on the date of the enactment of this Act \[Sept. 28, 2006\].”
 

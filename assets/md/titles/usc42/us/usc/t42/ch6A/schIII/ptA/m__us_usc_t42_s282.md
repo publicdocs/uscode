@@ -981,19 +981,19 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __Request for proposals.—__ 
+>         “(1)  __Request for proposals__  __.—__ 
 
 >         Not later than 90 days after the date of the enactment of this Act \[Sept. 27, 2007\], the Secretary of Health and Human Services shall issue a request for proposals for 1 or more grants or contracts to nonprofit consortia for demonstration projects to promote pediatric device development.
 
->         “(2) __Determination on grants or contracts.—__ 
+>         “(2)  __Determination on grants or contracts__  __.—__ 
 
 >         Not later than 180 days after the date the Secretary of Health and Human Services issues a request for proposals under paragraph (1), the Secretary shall make a determination on the grants or contracts under this section.
 
->     “(b) __Application.—__ 
+>     “(b)  __Application__  __.—__ 
 
 >     A nonprofit consortium that desires to receive a grant or contract under this section shall submit an application to the Secretary of Health and Human Services at such time, in such manner, and containing such information as the Secretary may require.
 
->     “(c) __Use of Funds.—__ 
+>     “(c)  __Use of Funds__  __.—__ 
 
 >     A nonprofit consortium that receives a grant or contract under this section shall facilitate the development, production, and distribution of pediatric medical devices by—
 
@@ -1009,7 +1009,7 @@
 
 >     “(d) __Coordination.—__ 
 
->         “(1) __National institutes of health.—__ 
+>         “(1)  __National institutes of health__  __.—__ 
 
 >         Each consortium that receives a grant or contract under this section shall—
 
@@ -1017,15 +1017,15 @@
 
 >             “(B) provide to the National Institutes of Health any identified pediatric device needs that the consortium lacks sufficient capacity to address or those needs in which the consortium has been unable to stimulate manufacturer interest.
 
->         “(2) __Food and drug administration.—__ 
+>         “(2)  __Food and drug administration__  __.—__ 
 
 >         Each consortium that receives a grant or contract under this section shall coordinate with the Commissioner of Food and Drugs and device companies to facilitate the application for approval or clearance of devices labeled for pediatric use.
 
->         “(3) __Effectiveness and outcomes.—__ 
+>         “(3)  __Effectiveness and outcomes__  __.—__ 
 
 >         Each consortium that receives a grant or contract under this section shall annually report to the Secretary of Health and Human Services on the status of pediatric device development, production, and distribution that has been facilitated by the consortium.
 
->     “(e) __Authorization of Appropriations.—__ 
+>     “(e)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this section $5,250,000 for each of fiscal years 2013 through 2017.”
 
@@ -1039,11 +1039,11 @@
 
 [Pub. L. 110–85, title VIII, § 801(d)][/us/pl/110/85/s801/d], Sept. 27, 2007, [121 Stat. 922][/us/stat/121/922], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Upon the expansion of the registry and results data bank under section 402(j)(3)(D) of the Public Health Service Act \[[42 U.S.C. 282(j)(3)(D)][/us/usc/t42/s282/j/3/D]\], as added by this section, no State or political subdivision of a State may establish or continue in effect any requirement for the registration of clinical trials or for the inclusion of information relating to the results of clinical trials in a database.
 
->     “(2) __Rule of construction.—__ 
+>     “(2)  __Rule of construction__  __.—__ 
 
 >     The fact of submission of clinical trial information, if submitted in compliance with subsection (j) of section 402 of the Public Health Service Act (as amended by this section), that relates to a use of a drug or device not included in the official labeling of the approved drug or device shall not be construed by the Secretary of Health and Human Services or in any administrative or judicial proceeding, as evidence of a new intended use of the drug or device that is different from the intended use of the drug or device set forth in the official labeling of the drug or device. The availability of clinical trial information through the registry and results data bank under such subsection (j), if submitted in compliance with such subsection, shall not be considered as labeling, adulteration, or misbranding of the drug or device under the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301][/us/usc/t21/s301] et seq.).”
 

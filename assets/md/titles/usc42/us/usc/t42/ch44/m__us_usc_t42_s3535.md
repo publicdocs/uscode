@@ -337,7 +337,7 @@
 
 [Pub. L. 105–276, title V, § 591][/us/pl/105/276/s591], Oct. 21, 1998, [112 Stat. 2652][/us/stat/112/2652], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 12 months after the date of the enactment of this Act \[Oct. 21, 1998\], the Inspector General of the Department of Housing and Urban Development shall submit to the Congress a report, which shall include information relating to—
 
@@ -399,7 +399,7 @@
 
 >         “(3) the Department’s plans and operations to address vacancies and substandard physical conditions described in paragraphs (1) and (2).
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     This section shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].”
 

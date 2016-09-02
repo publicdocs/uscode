@@ -359,11 +359,11 @@
 
 [Pub. L. 106–170, title I, § 101(e)][/us/pl/106/170/s101/e], Dec. 17, 1999, [113 Stat. 1877][/us/stat/113/1877], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Commissioner of Social Security shall prescribe such regulations as are necessary to implement the amendments made by this section \[enacting this section and amending sections 421, 422, 425, 1382d, 1383, and 1383b of this title\].
 
->     “(2) __Specific matters to be included in regulations.—__ 
+>     “(2)  __Specific matters to be included in regulations__  __.—__ 
 
 >     The matters which shall be addressed in such regulations shall include—
 
@@ -419,7 +419,7 @@
 
 [Pub. L. 108–203, title IV, § 406][/us/pl/108/203/s406], Mar. 2, 2004, [118 Stat. 527][/us/stat/118/527], provided that:
 
->     “(a) __\[sic\] GAO Report.—__ 
+>     “(a) __\[sic\] GAO__  __Report__  __.—__ 
 
 >     Not later than 12 months after the date of enactment of this Act \[Mar. 2, 2004\], the Comptroller General of the United States shall submit a report to Congress regarding the Ticket to Work and Self-Sufficiency Program established under section 1148 of the Social Security Act ([42 U.S.C. 1320b–19][/us/usc/t42/s1320b–19]) that—
 
@@ -433,7 +433,7 @@
 
 [Pub. L. 106–170, § 2][/us/pl/106/170/s2], Dec. 17, 1999, [113 Stat. 1862][/us/stat/113/1862], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress makes the following findings:
 
@@ -461,7 +461,7 @@
 
 >         “(12) If only an additional one-half of one percent of the current Social Security Disability Insurance and Supplemental Security Income recipients were to cease receiving benefits as a result of employment, the savings to the Social Security Trust Funds and to the Treasury in cash assistance would total $3,500,000,000 over the worklife of such individuals, far exceeding the cost of providing incentives and services needed to assist them in entering work and achieving financial independence to the best of their abilities.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this Act \[see Tables for classification\] are as follows:
 
@@ -477,35 +477,35 @@
 
 [Pub. L. 106–170, title I, § 101(d)][/us/pl/106/170/s101/d], Dec. 17, 1999, [113 Stat. 1874][/us/stat/113/1874], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Dec. 17, 1999\], the Commissioner of Social Security shall commence implementation of the amendments made by this section \[enacting this section and amending sections 421, 422, 425, 1382d, 1383, and 1383b of this title\] (other than paragraphs (1)(C) and (2)(B) of subsection (b) \[amending sections 422 and 1382d of this title\]) in graduated phases at phase-in sites selected by the Commissioner. Such phase-in sites shall be selected so as to ensure, prior to full implementation of the Ticket to Work and Self-Sufficiency Program, the development and refinement of referral processes, payment systems, computer linkages, management information systems, and administrative processes necessary to provide for full implementation of such amendments. Subsection (c) \[set out as a note above\] shall apply with respect to paragraphs (1)(C) and (2)(B) of subsection (b) without regard to this subsection.
 
->     “(2) __Requirements.—__ 
+>     “(2)  __Requirements__  __.—__ 
 
 >     Implementation of the Program at each phase-in site shall be carried out on a wide enough scale to permit a thorough evaluation of the alternative methods under consideration, so as to ensure that the most efficacious methods are determined and in place for full implementation of the Program on a timely basis.
 
->     “(3) __Full implementation.—__ 
+>     “(3)  __Full implementation__  __.—__ 
 
 >     The Commissioner shall ensure that ability to provide tickets and services to individuals under the Program exists in every State as soon as practicable on or after the effective date specified in subsection (c) but not later than 3 years after such date.
 
 >     “(4) __Ongoing evaluation of program.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The Commissioner shall provide for independent evaluations to assess the effectiveness of the activities carried out under this section \[enacting this section, amending sections 421, 422, 425, 1382d, 1383, and 1383b of this title, and enacting provisions set out as notes under this section\] and the amendments made thereby. Such evaluations shall address the cost-effectiveness of such activities, as well as the effects of this section and the amendments made thereby on work outcomes for beneficiaries receiving tickets to work and self-sufficiency under the Program.
 
->         “(B) __Consultation.—__ 
+>         “(B)  __Consultation__  __.—__ 
 
 >         Evaluations shall be conducted under this paragraph after receiving relevant advice from experts in the fields of disability, vocational rehabilitation, and program evaluation and individuals using tickets to work and self-sufficiency under the Program and in consultation with the Ticket to Work and Work Incentives Advisory Panel established under section 101(f) of this Act \[set out as a note below\], the Comptroller General of the United States, other agencies of the Federal Government, and private organizations with appropriate expertise.
 
 >         “(C) __Methodology.—__ 
 
->             “(i) __Implementation.—__ 
+>             “(i)  __Implementation__  __.—__ 
 
 >             The Commissioner, in consultation with the Ticket to Work and Work Incentives Advisory Panel established under section 101(f) of this Act, shall ensure that plans for evaluations and data collection methods under the Program are appropriately designed to obtain detailed employment information.
 
->             “(ii) __Specific matters to be addressed.—__ 
+>             “(ii)  __Specific matters to be addressed__  __.—__ 
 
 >             Each such evaluation shall address (but is not limited to)—
 
@@ -531,13 +531,13 @@
 
 >                 “(XI) reasons for (including comments solicited from beneficiaries regarding) their choice not to use their tickets or their inability to return to work despite the use of their tickets.
 
->         “(D) __Periodic evaluation reports.—__ 
+>         “(D)  __Periodic evaluation reports__  __.—__ 
 
 >         Following the close of the third and fifth fiscal years ending after the effective date under subsection (c), and prior to the close of the seventh fiscal year ending after such date, the Commissioner shall transmit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report containing the Commissioner’s evaluation of the progress of activities conducted under the provisions of this section and the amendments made thereby. Each such report shall set forth the Commissioner’s evaluation of the extent to which the Program has been successful and the Commissioner’s conclusions on whether or how the Program should be modified. Each such report shall include such data, findings, materials, and recommendations as the Commissioner may consider appropriate.
 
 >     “(5) __Extent of state’s right of first refusal in advance of full implementation of amendments in such state.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of any State in which the amendments made by subsection (a) \[enacting this section\] have not been fully implemented pursuant to this subsection, the Commissioner shall determine by regulation the extent to which—
 
@@ -547,7 +547,7 @@
 
 >             shall apply in such State.
 
->         “(B) __Existing agreements.—__ 
+>         “(B)  __Existing agreements__  __.—__ 
 
 >         Nothing in subparagraph (A) or the amendments made by subsection (a) \[enacting this section\] shall be construed to limit, impede, or otherwise affect any agreement entered into pursuant to section 222(d)(2) of the Social Security Act ([42 U.S.C. 422(d)(2)][/us/usc/t42/s422/d/2]) before the date of the enactment of this Act \[Dec. 17, 1999\] with respect to services provided pursuant to such agreement to beneficiaries receiving services under such agreement as of such date, except with respect to services (if any) to be provided after 3 years after the effective date provided in subsection (c).”
 
@@ -555,11 +555,11 @@
 
 [Pub. L. 106–170, title I, § 101(f)][/us/pl/106/170/s101/f], Dec. 17, 1999, [113 Stat. 1878][/us/stat/113/1878], provided that:
 
->     “(1) __Establishment.—__ 
+>     “(1)  __Establishment__  __.—__ 
 
 >     There is established within the Social Security Administration a panel to be known as the ‘Ticket to Work and Work Incentives Advisory Panel’ (in this subsection referred to as the ‘Panel’).
 
->     “(2) __Duties of panel.—__ 
+>     “(2)  __Duties of panel__  __.—__ 
 
 >     It shall be the duty of the Panel to—
 
@@ -579,7 +579,7 @@
 
 >     “(3) __Membership.—__ 
 
->         “(A) __Number and appointment.—__ 
+>         “(A)  __Number and appointment__  __.—__ 
 
 >         The Panel shall be composed of 12 members as follows:
 
@@ -595,21 +595,21 @@
 
 >         “(B) __Representation.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             The members appointed under subparagraph (A) shall have experience or expert knowledge as a recipient, provider, employer, or employee in the fields of, or related to, employment services, vocational rehabilitation services, and other support services.
 
->             “(ii) __Requirement.—__ 
+>             “(ii)  __Requirement__  __.—__ 
 
 >             At least one-half of the members appointed under subparagraph (A) shall be individuals with disabilities, or representatives of individuals with disabilities, with consideration given to current or former title II \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] disability beneficiaries or title XVI \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] disability beneficiaries (as such terms are defined in section 1148(k) of the Social Security Act \[[42 U.S.C. 1320b–19(k)][/us/usc/t42/s1320b–19/k]\] (as added by subsection (a)).
 
 >         “(C) __Terms.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             Each member shall be appointed for a term of 4 years (or, if less, for the remaining life of the Panel), except as provided in clauses (ii) and (iii). The initial members shall be appointed not later than 90 days after the date of the enactment of this Act \[Dec. 17, 1999\].
 
->             “(ii) __Terms of initial appointees.—__ 
+>             “(ii)  __Terms of initial appointees__  __.—__ 
 
 >             Of the members first appointed under each clause of subparagraph (A), as designated by the appointing authority for each such clause—
 
@@ -617,77 +617,77 @@
 
 >                 “(II) the remaining members shall be appointed for a term of 4 years.
 
->             “(iii) __Vacancies.—__ 
+>             “(iii)  __Vacancies__  __.—__ 
 
 >             Any member appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member’s term until a successor has taken office. A vacancy in the Panel shall be filled in the manner in which the original appointment was made.
 
->         “(D) __Basic pay.—__ 
+>         “(D)  __Basic pay__  __.—__ 
 
 >         Members shall each be paid at a rate, and in a manner, that is consistent with guidelines established under section 7 of the Federal Advisory Committee Act (5 U.S.C. App.).
 
->         “(E) __Travel expenses.—__ 
+>         “(E)  __Travel expenses__  __.—__ 
 
 >         Each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code.
 
->         “(F) __Quorum.—__ 
+>         “(F)  __Quorum__  __.—__ 
 
 >         Eight members of the Panel shall constitute a quorum but a lesser number may hold hearings.
 
->         “(G) __Chairperson.—__ 
+>         “(G)  __Chairperson__  __.—__ 
 
 >         The Chairperson of the Panel shall be designated by the President. The term of office of the Chairperson shall be 4 years.
 
->         “(H) __Meetings.—__ 
+>         “(H)  __Meetings__  __.—__ 
 
 >         The Panel shall meet at least quarterly and at other times at the call of the Chairperson or a majority of its members.
 
 >     “(4) __Director and staff of panel; experts and consultants.—__ 
 
->         “(A) __Director.—__ 
+>         “(A)  __Director__  __.—__ 
 
 >         The Panel shall have a Director who shall be appointed by the Chairperson, and paid at a rate, and in a manner, that is consistent with guidelines established under section 7 of the Federal Advisory Committee Act (5 U.S.C. App.).
 
->         “(B) __Staff.—__ 
+>         “(B)  __Staff__  __.—__ 
 
 >         Subject to rules prescribed by the Commissioner of Social Security, the Director may appoint and fix the pay of additional personnel as the Director considers appropriate.
 
->         “(C) __Experts and consultants.—__ 
+>         “(C)  __Experts and consultants__  __.—__ 
 
 >         Subject to rules prescribed by the Commissioner of Social Security, the Director may procure temporary and intermittent services under [section 3109(b) of title 5][/us/usc/t5/s3109/b], United States Code.
 
->         “(D) __Staff of federal agencies.—__ 
+>         “(D)  __Staff of federal agencies__  __.—__ 
 
 >         Upon request of the Panel, the head of any Federal department or agency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Panel to assist it in carrying out its duties under this Act \[see Tables for classification\].
 
 >     “(5) __Powers of panel.—__ 
 
->         “(A) __Hearings and sessions.—__ 
+>         “(A)  __Hearings and sessions__  __.—__ 
 
 >         The Panel may, for the purpose of carrying out its duties under this subsection, hold such hearings, sit and act at such times and places, and take such testimony and evidence as the Panel considers appropriate.
 
->         “(B) __Powers of members and agents.—__ 
+>         “(B)  __Powers of members and agents__  __.—__ 
 
 >         Any member or agent of the Panel may, if authorized by the Panel, take any action which the Panel is authorized to take by this section \[enacting this section, amending sections 421, 422, 425, 1382d, 1383, and 1383b of this title, and enacting provisions set out as notes above\].
 
->         “(C) __Mails.—__ 
+>         “(C)  __Mails__  __.—__ 
 
 >         The Panel may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
 
 >     “(6) __Reports.—__ 
 
->         “(A) __Interim reports.—__ 
+>         “(A)  __Interim reports__  __.—__ 
 
 >         The Panel shall submit to the President and the Congress interim reports at least annually.
 
->         “(B) __Final report.—__ 
+>         “(B)  __Final report__  __.—__ 
 
 >         The Panel shall transmit a final report to the President and the Congress not later than eight years after the date of the enactment of this Act \[Dec. 17, 1999\]. The final report shall contain a detailed statement of the findings and conclusions of the Panel, together with its recommendations for legislation and administrative actions which the Panel considers appropriate.
 
->     “(7) __Termination.—__ 
+>     “(7)  __Termination__  __.—__ 
 
 >     The Panel shall terminate 30 days after the date of the submission of its final report under paragraph (6)(B).
 
->     “(8) __Authorization of appropriations.—__ 
+>     “(8)  __Authorization of appropriations__  __.—__ 
 
 >     There are authorized to be appropriated from the Federal Old-Age and Survivors Insurance Trust Fund, the Federal Disability Insurance Trust Fund, and the general fund of the Treasury, as appropriate, such sums as are necessary to carry out this subsection.”
 

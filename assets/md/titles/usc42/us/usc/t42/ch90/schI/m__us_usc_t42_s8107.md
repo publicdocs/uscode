@@ -79,7 +79,7 @@
 
 [Pub. L. 101–625, title IX, § 917(a)][/us/pl/101/625/s917/a], (b), Nov. 28, 1990, [104 Stat. 4397][/us/stat/104/4397], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -93,7 +93,7 @@
 
 >         “(5) expanding upon the existing capabilities, resources, and potential of the national neighborhood housing services network is a cost-effective response to the affordable housing and neighborhood revitalization needs confronting the Nation, and is a strong preventive measure in addressing the national tragedy of homelessness.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     It is the purpose of this section \[amending this section\] to authorize appropriations for the Neighborhood Reinvestment Corporation for fiscal years 1991 and 1992 to permit the corporation—
 

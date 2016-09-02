@@ -75,11 +75,11 @@
 
 > “In this Act \[see Tables for classification\]:
 
->     “(1) __Director.—__ 
+>     “(1)  __Director__  __.—__ 
 
 >     In title I \[enacting this section, sections 6622 to 6624 of this title, and [section 3719 of Title 15][/us/usc/t15/s3719], Commerce and Trade, and amending [section 20144 of Title 51][/us/usc/t51/s20144], National and Commercial Space Programs\], the term ‘Director’ means the Director of the Office of Science and Technology Policy.
 
->     “(2) __STEM.—__ 
+>     “(2)  __STEM__  __.—__ 
 
 >     The term ‘STEM’ means the academic and professional disciplines of science, technology, engineering, and mathematics.”
 

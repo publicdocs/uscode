@@ -85,7 +85,7 @@
 
 [Pub. L. 108–136, div. A, title III, § 323][/us/pl/108/136/s323], Nov. 24, 2003, [117 Stat. 1440][/us/stat/117/1440], provided that:
 
->     “(a) __Epidemiological Study of Exposure to Perchlorate.—__ 
+>     “(a)  __Epidemiological Study of Exposure to Perchlorate__  __.—__ 
 
 >     The Secretary of Defense shall provide for an independent epidemiological study of exposure to perchlorate in drinking water. The entity conducting the study shall—
 
@@ -95,7 +95,7 @@
 
 >         “(3) examine thyroid function, including measurements of urinary iodine and thyroid hormone levels, in a sufficient number of pregnant women, neonates, and infants exposed to perchlorate in drinking water and match measurements of perchlorate levels in the drinking water of each study participant in order to permit the development of meaningful conclusions on the public health threat to individuals exposed to perchlorate.
 
->     “(b) __Review of Effects of Perchlorate on Endocrine System.—__ 
+>     “(b)  __Review of Effects of Perchlorate on Endocrine System__  __.—__ 
 
 >     The Secretary shall provide for an independent review of the effects of perchlorate on the human endocrine system. The entity conducting the review shall assess—
 
@@ -103,13 +103,13 @@
 
 >         “(2) available data on other substances that have endocrine effects similar to perchlorate to which the public is frequently exposed.
 
->     “(c) __Performance of Study and Review.—__ 
+>     “(c)  __Performance of Study and Review__  __.—__ 
 
 >         (1) The Secretary shall provide for the performance of the study under subsection (a) through the Centers for Disease Control and Prevention, the National Institutes of Health, or another Federal entity with experience in environmental toxicology selected by the Secretary.
 
 >         “(2) The Secretary shall provide for the performance of the review under subsection (b) through the Centers for Disease Control and Prevention, the National Institutes of Health, or another appropriate Federal research entity with experience in human endocrinology selected by the Secretary. The Secretary shall ensure that the panel conducting the review is composed of individuals with expertise in human endocrinology.
 
->     “(d) __Reporting Requirements.—__ 
+>     “(d)  __Reporting Requirements__  __.—__ 
 
 >     Not later than June 1, 2005, the Federal entities conducting the study and review under this section shall submit to the Secretary reports containing the results of the study and review.”
 

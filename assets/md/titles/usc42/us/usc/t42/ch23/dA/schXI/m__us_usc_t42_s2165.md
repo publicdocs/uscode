@@ -87,11 +87,11 @@
 
 [Pub. L. 106–65, div. C, title XXXI, § 3144(b)][/us/pl/106/65/s3144/b], (c), Oct. 5, 1999, [113 Stat. 934][/us/stat/113/934], provided that:
 
->     “(b) __Compliance.—__ 
+>     “(b)  __Compliance__  __.—__ 
 
 >     The Director of the Federal Bureau of Investigation shall have 18 months from the date of the enactment of this Act \[Oct. 5, 1999\] to meet the responsibilities of the Bureau under subsection e.(2) of section 145 of the Atomic Energy Act of 1954 \[[42 U.S.C. 2165(e)(2)][/us/usc/t42/s2165/e/2]\], as added by subsection (a).
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >         (1)
 

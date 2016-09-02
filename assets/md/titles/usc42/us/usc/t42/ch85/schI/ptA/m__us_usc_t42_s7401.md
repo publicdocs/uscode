@@ -181,7 +181,7 @@
 
 [Pub. L. 99–499, title I, § 118(k)][/us/pl/99/499/s118/k], Oct. 17, 1986, [100 Stat. 1659][/us/stat/100/1659], as amended by [Pub. L. 105–362, title V, § 501(i)][/us/pl/105/362/s501/i], Nov. 10, 1998, [112 Stat. 3284][/us/stat/112/3284], provided that:
 
->     “(1) __National assessment of radon gas.—__ 
+>     “(1)  __National assessment of radon gas__  __.—__ 
 
 >     No later than one year after the enactment of this Act \[Oct. 17, 1986\], the Administrator shall submit to the Congress a report which shall, to the extent possible—
 
@@ -197,15 +197,15 @@
 
 >     “(2) __Radon mitigation demonstration program.—__ 
 
->         “(A) __Demonstration program.—__ 
+>         “(A)  __Demonstration program__  __.—__ 
 
 >         The Administrator shall conduct a demonstration program to test methods and technologies of reducing or eliminating radon gas and radon daughters where it poses a threat to human health. The Administrator shall take into consideration any demonstration program underway in the Reading Prong of Pennsylvania, New Jersey, and New York and at other sites prior to enactment. The demonstration program under this section shall be conducted in the Reading Prong, and at such other sites as the Administrator considers appropriate.
 
->         “(B) __Liability.—__ 
+>         “(B)  __Liability__  __.—__ 
 
 >         Liability, if any, for persons undertaking activities pursuant to the radon mitigation demonstration program authorized under this subsection shall be determined under principles of existing law.
 
->     “(3) __Construction of section.—__ 
+>     “(3)  __Construction of section__  __.—__ 
 
 >     Nothing in this subsection shall be construed to authorize the Administrator to carry out any regulatory program or any activity other than research, development, and related reporting, information dissemination, and coordination activities specified in this subsection. Nothing in paragraph (1) or (2) shall be construed to limit the authority of the Administrator or of any other agency or instrumentality of the United States under any other authority of law.”
 
@@ -213,11 +213,11 @@
 
 [Pub. L. 99–499, title I, § 118(n)][/us/pl/99/499/s118/n], Oct. 17, 1986, [100 Stat. 1660][/us/stat/100/1660], provided that:
 
->     “(1) __Establishment of program.—__ 
+>     “(1)  __Establishment of program__  __.—__ 
 
 >     Within 180 days of enactment of this subsection \[Oct. 17, 1986\], the Secretary of the United States Department of Energy is directed to carry out a program of testing and evaluation of technologies which may be utilized in responding to liquefied gaseous and other hazardous substance spills at the Liquefied Gaseous Fuels Spill Test Facility that threaten public health or the environment.
 
->     “(2) __Technology transfer.—__ 
+>     “(2)  __Technology transfer__  __.—__ 
 
 >     In carrying out the program established under this subsection, the Secretary shall conduct a technology transfer program that, at a minimum—
 
@@ -235,11 +235,11 @@
 
 >         “(G) establishes safety standards for personnel engaged in spill response activities.
 
->     “(3) __Contracts and grants.—__ 
+>     “(3)  __Contracts and grants__  __.—__ 
 
 >     The Secretary is directed to enter into contracts and grants with a nonprofit organization in Albany County, Wyoming, that is capable of providing the necessary technical support and which is involved in environmental activities related to such hazardous substance related emergencies.
 
->     “(4) __Use of site.—__ 
+>     “(4)  __Use of site__  __.—__ 
 
 >     The Secretary shall arrange for the use of the Liquefied Gaseous Fuels Spill Test Facility to carry out the provisions of this subsection.”
 
@@ -265,7 +265,7 @@
 
 > “SEC. 403. __RADON GAS AND INDOOR AIR QUALITY RESEARCH PROGRAM.__ 
 
->     “(a) __Design of Program.—__ 
+>     “(a)  __Design of Program__  __.—__ 
 
 >     The Administrator of the Environmental Protection Agency shall establish a research program with respect to radon gas and indoor air quality. Such program shall be designed to—
 
@@ -275,7 +275,7 @@
 
 >         “(3) assess appropriate Federal Government actions to mitigate the environmental and health risks associated with indoor air quality problems.
 
->     “(b) __Program Requirements.—__ 
+>     “(b)  __Program Requirements__  __.—__ 
 
 >     The research program required under this section shall include—
 
@@ -305,15 +305,15 @@
 
 >         “(6) the dissemination of information to assure the public availability of the findings of the activities under this section.
 
->     “(c) __Advisory Committees.—__ 
+>     “(c)  __Advisory Committees__  __.—__ 
 
 >     The Administrator shall establish a committee comprised of individuals representing Federal agencies concerned with various aspects of indoor air quality and an advisory group comprised of individuals representing the States, the scientific community, industry, and public interest organizations to assist him in carrying out the research program for radon gas and indoor air quality.
 
->     “(d) __Implementation Plan.—__ 
+>     “(d)  __Implementation Plan__  __.—__ 
 
 >     Not later than 90 days after the enactment of this Act \[Oct. 17, 1986\], the Administrator shall submit to the Congress a plan for implementation of the research program under this section. Such plan shall also be submitted to the EPA Science Advisory Board, which shall, within a reasonable period of time, submit its comments on such plan to Congress.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     Not later than 2 years after the enactment of this Act \[Oct. 17, 1986\], the Administrator shall submit to Congress a report respecting his activities under this section and making such recommendations as appropriate.
 

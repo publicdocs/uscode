@@ -55,11 +55,11 @@
 
 [Pub. L. 100–553, § 3][/us/pl/100/553/s3], Oct. 28, 1988, [102 Stat. 2774][/us/stat/102/2774], provided that:
 
->     “(a) __Transfer of Personnel, Assets, and Liabilities.—__ 
+>     “(a)  __Transfer of Personnel, Assets, and Liabilities__  __.—__ 
 
 >     Personnel employed by the National Institutes of Health in connection with the functions vested under section 2 \[enacting this subpart and amending sections 281 and 285j of this title\] in the Director of the National Institute on Deafness and Other Communication Disorders, and assets, property, contracts, liabilities, records, unexpended balances of appropriations, authorizations, allocations, and other funds of the National Institutes of Health, arising from or employed, held, used, available to, or to be made available, in connection with such functions shall be transferred to the Director for appropriate allocation. Unexpended funds transferred under this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated.
 
->     “(b) __Savings Provisions.—__ 
+>     “(b)  __Savings Provisions__  __.—__ 
 
 >     With respect to functions vested under section 1 \[probably means section 2, enacting this subpart and amending sections 281 and 285j of this title\] in the Director of the National Institute on Deafness and Other Communication Disorders, all orders, rules, regulations, grants, contracts, certificates, licenses, privileges, and other determinations, actions, or official documents, that have been issued, made, granted, or allowed to become effective, and that are effective on the date of the enactment of this Act \[Oct. 28, 1988\], shall continue in effect according to their terms unless changed pursuant to law.”
 

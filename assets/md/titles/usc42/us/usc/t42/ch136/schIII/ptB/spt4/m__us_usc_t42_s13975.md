@@ -147,11 +147,11 @@
 
                 (i) __Indian tribes.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized by [section 3796gg–10 of this title][/us/usc/t42/s3796gg–10].
 
-                    (II) __Applicability of part.—__ 
+                    (II)  __Applicability of part__  __.—__ 
 
   <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “section”. </sup></sup>  The requirements of this section shall not apply to funds allocated for the program described in subclause (I).
 

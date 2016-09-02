@@ -31,11 +31,11 @@
 
 [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title IX, § 903(c)(1)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–438, provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[enacting this section\] shall apply to group health plans for plan years beginning on or after the date of enactment of this Act \[Oct. 21, 1998\].
 
->     “(B) __Special rule for collective bargaining agreements.—__ 
+>     “(B)  __Special rule for collective bargaining agreements__  __.—__ 
 
 >     In the case of a group health plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers, any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement added by the amendment made by subsection (a) shall not be treated as a termination of such collective bargaining agreement.”
 

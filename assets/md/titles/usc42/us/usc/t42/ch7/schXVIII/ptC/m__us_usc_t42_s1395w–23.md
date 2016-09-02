@@ -935,7 +935,7 @@
 
             (A) Subject to paragraph (3), in the case of a qualifying MA organization (as defined in subsection (l)(5)), if, according to the attestation of the organization submitted under subsection (l)(6) for an applicable period, one or more eligible hospitals (as defined in section 1395ww(n)(6)(A) 8 of this title) that are under common corporate governance with such organization and that serve individuals enrolled under a plan offered by such organization are not meaningful EHR users (as defined in [section 1395ww(n)(3) of this title][/us/usc/t42/s1395ww/n/3]) with respect to a period, the payment amount payable under this section for such organization for such period shall be the percent specified in subparagraph (B) for such period of the payment amount otherwise provided under this section for such period.
 
-            (B) __Specified percent.—__ 
+            (B)  __Specified percent__  __.—__ 
 
             The percent specified under this subparagraph for a year is 100 percent minus a number of percentage points equal to the product of—
 
@@ -943,11 +943,11 @@
 
                 (ii) the Medicare hospital expenditure proportion specified in subparagraph (C) for the year.
 
-            (C) __Medicare hospital expenditure proportion.—__ 
+            (C)  __Medicare hospital expenditure proportion__  __.—__ 
 
             The Medicare hospital expenditure proportion under this subparagraph for a year is the Secretary’s estimate of the proportion, of the expenditures under parts A and B that are not attributable to this part, that are attributable to expenditures for inpatient hospital services.
 
-            (D) __Application of payment adjustment.—__ 
+            (D)  __Application of payment adjustment__  __.—__ 
 
             In the case that a qualifying MA organization attests that not all eligible hospitals are meaningful EHR users with respect to an applicable period, the Secretary shall apply the payment adjustment under this paragraph based on a methodology specified by the Secretary, taking into account the proportion of such eligible hospitals, or discharges from such hospitals, that are not meaningful EHR users for such period.
 
@@ -1713,33 +1713,33 @@
 
 [Pub. L. 108–173, title II, § 211(i)][/us/pl/108/173/s211/i], Dec. 8, 2003, [117 Stat. 2179][/us/stat/117/2179], provided that:
 
->     “(1) __Announcement of revised medicare advantage payment rates.—__ 
+>     “(1)  __Announcement of revised medicare advantage payment rates__  __.—__ 
 
 >     Within 6 weeks after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall determine, and shall announce (in a manner intended to provide notice to interested parties) MA capitation rates under section 1853 of the Social Security Act ([42 U.S.C. 1395w–23][/us/usc/t42/s1395w–23]) for 2004, revised in accordance with the provisions of this section \[amending this section and [section 1395w–22 of this title][/us/usc/t42/s1395w–22] and enacting provisions set out as notes under this section and [section 1395w–21 of this title][/us/usc/t42/s1395w–21]\].
 
->     “(2) __Transition to revised payment rates.—__ 
+>     “(2)  __Transition to revised payment rates__  __.—__ 
 
 >     The provisions of section 604 of BIPA \[the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, H.R. 5661, as enacted by [section 1(a)(6) of Public Law 106–554][/us/pl/106/554/s1/a/6], set out as a note under this section\] ([114 Stat. 2763][/us/stat/114/2763]A–555) (other than subsection (a)) shall apply to the provisions of subsections (a) through (d) of this section \[amending this section\] for 2004 in the same manner as the provisions of such section 604 applied to the provisions of BIPA for 2001.
 
 >     “(3) __Special rule for payment rates in 2004.—__ 
 
->         “(A) __January and february.—__ 
+>         “(A)  __January and february__  __.—__ 
 
 >         Notwithstanding the amendments made by subsections (a) through (d) \[amending this section\], for purposes of making payments under section 1853 of the Social Security Act ([42 U.S.C. 1395w–23][/us/usc/t42/s1395w–23]) for January and February 2004, the annual capitation rate for a payment area shall be calculated and the excess amount under section 1854(f)(1)(B) of such Act ([42 U.S.C. 1395w–24(f)(1)(B)][/us/usc/t42/s1395w–24/f/1/B]) shall be determined as if such amendments had not been enacted.
 
->         “(B) __March through december.—__ 
+>         “(B)  __March through december__  __.—__ 
 
 >         Notwithstanding the amendments made by subsections (a) through (d) \[amending this section\], for purposes of making payments under section 1853 of the Social Security Act ([42 U.S.C. 1395w–23][/us/usc/t42/s1395w–23]) for March through December 2004, the annual capitation rate for a payment area shall be calculated and the excess amount under section 1854(f)(1)(B) of such Act ([42 U.S.C. 1395w–24(f)(1)(B)][/us/usc/t42/s1395w–24/f/1/B]) shall be determined, in such manner as the Secretary estimates will ensure that the total of such payments with respect to 2004 is the same as the amounts that would have been if subparagraph (A) had not been enacted.
 
->         “(C) __Construction.—__ 
+>         “(C)  __Construction__  __.—__ 
 
 >         Subparagraphs (A) and (B) shall not be taken into account in computing such capitation rate for 2005 and subsequent years.
 
->     “(4) __Plans required to provide notice of changes in plan benefits.—__ 
+>     “(4)  __Plans required to provide notice of changes in plan benefits__  __.—__ 
 
 >     In the case of an organization offering a plan under part C of title XVIII of the Social Security Act \[this part\] that revises its submission of the information described in section 1854(a)(1) of such Act ([42 U.S.C. 1395w–23(a)(1)][/us/usc/t42/s1395w–23/a/1] \[1395w–24(a)(1)\]) for a plan pursuant to the application of paragraph (2), if such revision results in changes in beneficiary premiums, beneficiary cost-sharing, or benefits under the plan, then by not later than 3 weeks after the date the Secretary approves such submission, the organization offering the plan shall provide each beneficiary enrolled in the plan with written notice of such changes.
 
->     “(5) __Limitation on review.—__ 
+>     “(5)  __Limitation on review__  __.—__ 
 
 >     There shall be no administrative or judicial review under section 1869 or section 1878 of the Social Security Act ([42 U.S.C. 1395ff][/us/usc/t42/s1395ff] and 1395oo), or otherwise of any determination made by the Secretary under this subsection or the application of the payment rates determined pursuant to this subsection.”
 
@@ -1747,11 +1747,11 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VI, § 601(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–554, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Notwithstanding the amendments made by subsection (a) \[amending this section\], for purposes of making payments under section 1853 of the Social Security Act ([42 U.S.C. 1395w–23][/us/usc/t42/s1395w–23]) for January and February 2001, the annual Medicare+Choice capitation rate for a Medicare+Choice payment area shall be calculated, and the excess amount under section 1854(f)(1)(B) of such Act ([42 U.S.C. 1395w–24(f)(1)(B)][/us/usc/t42/s1395w–24/f/1/B]) shall be determined, as if such amendments had not been enacted.
 
->     “(2) __Construction.—__ 
+>     “(2)  __Construction__  __.—__ 
 
 >     Paragraph (1) shall not be taken into account in computing such capitation rate for 2002 and subsequent years.”
 
@@ -1763,15 +1763,15 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VI, § 604\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–555, provided that:
 
->     “(a) __Announcement of Revised Medicare+Choice Payment Rates.—__ 
+>     “(a)  __Announcement of Revised Medicare+Choice Payment Rates__  __.—__ 
 
 >     Within 2 weeks after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary of Health and Human Services shall determine, and shall announce (in a manner intended to provide notice to interested parties) Medicare+Choice capitation rates under section 1853 of the Social Security Act ([42 U.S.C. 1395w–23][/us/usc/t42/s1395w–23]) for 2001, revised in accordance with the provisions of this Act.
 
->     “(b) __Reentry Into Program Permitted for Medicare+Choice Programs.—__ 
+>     “(b)  __Reentry Into Program Permitted for Medicare+Choice Programs__  __.—__ 
 
 >     A Medicare+Choice organization that provided notice to the Secretary of Health and Human Services before the date of the enactment of this Act \[Dec. 21, 2000\] that it was terminating its contract under part C of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\] or was reducing the service area of a Medicare+Choice plan offered under such part shall be permitted to continue participation under such part, or to maintain the service area of such plan, for 2001 if it submits the Secretary with the information described in section 1854(a)(1) of the Social Security Act ([42 U.S.C. 1395w–24(a)(1)][/us/usc/t42/s1395w–24/a/1]) within 2 weeks after the date revised rates are announced by the Secretary under subsection (a).
 
->     “(c) __Revised Submission of Proposed Premiums and Related Information.—__ 
+>     “(c)  __Revised Submission of Proposed Premiums and Related Information__  __.—__ 
 
 >     If—
 
@@ -1781,11 +1781,11 @@
 
 >         such organization shall revise its submission of the information described in section 1854(a)(1) of the Social Security Act ([42 U.S.C. 1395w–24(a)(1)][/us/usc/t42/s1395w–24/a/1]), and shall submit such revised information to the Secretary, within 2 weeks after the date revised rates are announced by the Secretary under subsection (a). In making such submission, the organization may only reduce beneficiary premiums, reduce beneficiary cost-sharing, enhance benefits, utilize the stabilization fund described in section 1854(f)(2) of such Act ([42 U.S.C. 1395w–24(f)(2)][/us/usc/t42/s1395w–24/f/2]), or stabilize or enhance beneficiary access to providers (so long as such stabilization or enhancement does not result in increased beneficiary premiums, increased beneficiary cost-sharing, or reduced benefits).
 
->     “(d) __Waiver of Limits on Stabilization Fund.—__ 
+>     “(d)  __Waiver of Limits on Stabilization Fund__  __.—__ 
 
 >     Any regulatory provision that limits the proportion of the excess amount that can be withheld in such stabilization fund for a contract period shall not apply with respect to submissions described in subsections (b) and (c).
 
->     “(e) __Disregard of New Rate Announcement in Applying Pass-Through for New National Coverage Determinations.—__ 
+>     “(e)  __Disregard of New Rate Announcement in Applying Pass-Through for New National Coverage Determinations__  __.—__ 
 
 >     For purposes of applying section 1852(a)(5) of the Social Security Act ([42 U.S.C. 1395w–22(a)(5)][/us/usc/t42/s1395w–22/a/5]), the announcement of revised rates under subsection (a) shall not be treated as an announcement under section 1853(b) of such Act ([42 U.S.C. 1395w–23(b)][/us/usc/t42/s1395w–23/b]).”
 
@@ -1813,11 +1813,11 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title V, § 511(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–380, provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Medicare Payment Advisory Commission shall conduct a study that evaluates the methodology used by the Secretary of Health and Human Services in developing the risk factors used in adjusting the Medicare+Choice capitation rate paid to Medicare+Choice organizations under section 1853 of the Social Security Act ([42 U.S.C. 1395w–23][/us/usc/t42/s1395w–23]) and includes the issues described in paragraph (2).
 
->     “(2) __Issues to be studied.—__ 
+>     “(2)  __Issues to be studied__  __.—__ 
 
 >     The issues described in this paragraph are the following:
 
@@ -1833,7 +1833,7 @@
 
 >         “(F) Suggestions for changes or improvements in the risk adjustment methodology.
 
->     “(3) __Report.—__ 
+>     “(3)  __Report__  __.—__ 
 
 >     Not later than December 1, 2000, the Commission shall submit a report to Congress on the study conducted under paragraph (1), together with any recommendations for legislation that the Commission determines to be appropriate as a result of such study.”
 
@@ -1841,7 +1841,7 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title V, § 511(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–381, provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Secretary of Health and Human Services shall conduct a study on how to reduce the costs and burdens on Medicare+Choice organizations of their complying with reporting requirements for encounter data imposed by the Secretary in establishing and implementing a risk adjustment methodology used in making payments to such organizations under section 1853 of the Social Security Act ([42 U.S.C. 1395w–23][/us/usc/t42/s1395w–23]). The Secretary shall consult with representatives of Medicare+Choice organizations in conducting the study. The study shall address the following issues:
 
@@ -1855,7 +1855,7 @@
 
 >         “(E) Differences in the ability of Medicare+Choice organizations to report encounter data, and the potential for adverse competitive impacts on group and staff model health maintenance organizations or other integrated providers of care based on data reporting capabilities.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than January 1, 2001, the Secretary shall submit a report to Congress on the study conducted under this subsection, together with any recommendations for legislation that the Secretary determines to be appropriate as a result of such study.”
 
@@ -1869,7 +1869,7 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title V, § 552(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–392, provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Medicare Payment Advisory Commission shall conduct a study on the development of a payment methodology under the Medicare+Choice program for frail elderly Medicare+Choice beneficiaries enrolled in a Medicare+Choice plan under a specialized program for the frail elderly that—
 
@@ -1879,7 +1879,7 @@
 
 >         “(C) includes functional indicators of health status and such other factors as may be necessary to achieve appropriate payments for plans serving such beneficiaries.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Nov. 29, 1999\], the Commission shall submit a report to Congress on the study conducted under paragraph (1), together with any recommendations for legislation that the Commission determines to be appropriate as a result of such study.”
 
@@ -1897,57 +1897,57 @@
 
 >     “(a) __Establishment of Project.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to the succeeding provisions of this subsection, the Secretary of Health and Human Services (in this subchapter \[subchapter A (§§ 4011–4012) of chapter 2 of subtitle A of title IV of [Pub. L. 105–33][/us/pl/105/33]\] referred to as the ‘Secretary’) shall establish a demonstration project (in this subchapter referred to as the ‘project’) under which payments to Medicare+Choice organizations in medicare payment areas in which the project is being conducted are determined in accordance with a competitive pricing methodology established under this subchapter.
 
->         “(2) __Delay in implementation.—__ 
+>         “(2)  __Delay in implementation__  __.—__ 
 
 >         The Secretary shall not implement the project until January 1, 2002, or, if later, 6 months after the date the Competitive Pricing Advisory Committee has submitted to Congress a report on each of the following topics:
 
->             “(A) __Incorporation of original medicare fee-for-service program into project.—__ 
+>             “(A)  __Incorporation of original medicare fee-for-service program into project__  __.—__ 
 
 >             What changes would be required in the project to feasibly incorporate the original medicare fee-for-service program into the project in the areas in which the project is operational.
 
->             “(B) __Quality activities.—__ 
+>             “(B)  __Quality activities__  __.—__ 
 
 >             The nature and extent of the quality reporting and monitoring activities that should be required of plans participating in the project, the estimated costs that plans will incur as a result of these requirements, and the current ability of the Health Care Financing Administration to collect and report comparable data, sufficient to support comparable quality reporting and monitoring activities with respect to beneficiaries enrolled in the original medicare fee-for-service program generally.
 
->             “(C) __Rural project.—__ 
+>             “(C)  __Rural project__  __.—__ 
 
 >             The current viability of initiating a project site in a rural area, given the site specific budget neutrality requirements of the project under subsection (g), and insofar as the Committee decides that the addition of such a site is not viable, recommendations on how the project might best be changed so that such a site is viable.
 
->             “(D) __Benefit structure.—__ 
+>             “(D)  __Benefit structure__  __.—__ 
 
 >             The nature and extent of the benefit structure that should be required of plans participating in the project, the rationale for such benefit structure, the potential implications that any benefit standardization requirement may have on the number of plan choices available to a beneficiary in an area designated under the project, the potential implications of requiring participating plans to offer variations on any standardized benefit package the committee might recommend, such that a beneficiary could elect to pay a higher percentage of out-of-pocket costs in exchange for a lower premium (or premium rebate as the case may be), and the potential implications of expanding the project (in conjunction with the potential inclusion of the original medicare fee-for-service program) to require medicare supplemental insurance plans operating in an area designated under the project to offer a coordinated and comparable standardized benefit package.
 
->         “(3) __Conforming deadlines.—__ 
+>         “(3)  __Conforming deadlines__  __.—__ 
 
 >         Any dates specified in the succeeding provisions of this section shall be delayed (as specified by the Secretary) in a manner consistent with the delay effected under paragraph (2).
 
->     “(b) __Designation of 7 Medicare Payment Areas Covered by Project.—__ 
+>     “(b)  __Designation of__  __7 Medicare Payment Areas Covered by Project.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall designate, in accordance with the recommendations of the Competitive Pricing Advisory Committee under paragraphs (2) and (3), medicare payment areas as areas in which the project under this subchapter will be conducted. In this section, the term ‘Competitive Pricing Advisory Committee’ means the Competitive Pricing Advisory Committee established under section 4012(a).
 
 >         “(2) __Initial designation of 4 areas.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Competitive Pricing Advisory Committee shall recommend to the Secretary, consistent with subparagraph (B), the designation of 4 specific areas as medicare payment areas to be included in the project. Such recommendations shall be made in a manner so as to ensure that payments under the project in 2 such areas will begin on January 1, 1999, and in 2 such areas will begin on January 1, 2000.
 
->             “(B) __Location of designation.—__ 
+>             “(B)  __Location of designation__  __.—__ 
 
 >             Of the 4 areas recommended under subparagraph (A), 3 shall be in urban areas and 1 shall be in a rural area.
 
->         “(3) __Designation of additional 3 areas.—__ 
+>         “(3)  __Designation of additional 3 areas__  __.—__ 
 
 >         Not later than December 31, 2001, the Competitive Pricing Advisory Committee may recommend to the Secretary the designation of up to 3 additional, specific medicare payment areas to be included in the project.
 
 >     “(c) __Project Implementation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), the Secretary shall for each medicare payment area designated under subsection (b)—
 
@@ -1969,33 +1969,33 @@
 
 >                 “(ii) provide for the collection of plan information (including information concerning quality and access to care), the dissemination of information, and the methods of evaluating the results of the project.
 
->         “(2) __Consultation.—__ 
+>         “(2)  __Consultation__  __.—__ 
 
 >         The Secretary shall take into account the recommendations of the area advisory committee established in section 4012(b), in implementing a project design for any area, except that no modifications may be made in the project design without consultation with the Competitive Pricing Advisory Committee. In no case may the Secretary change the designation of an area based on recommendations of any area advisory committee.
 
 >     “(d) __Monitoring and Report.—__ 
 
->         “(1) __Monitoring impact.—__ 
+>         “(1)  __Monitoring impact__  __.—__ 
 
 >         Taking into consideration the recommendations of the Competitive Pricing Advisory Committee and the area advisory committees, the Secretary shall closely monitor and measure the impact of the project in the different areas on the price and quality of, and access to, medicare covered services, choice of health plans, changes in enrollment, and other relevant factors.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than December 31, 2002, the Secretary shall submit to Congress a report on the progress under the project under this subchapter, including a comparison of the matters monitored under paragraph (1) among the different designated areas. The report may include any legislative recommendations for extending the project to the entire medicare population.
 
->     “(e) __Waiver Authority.—__ 
+>     “(e)  __Waiver Authority__  __.—__ 
 
 >     The Secretary of Health and Human Services may waive such requirements of title XVIII of the Social Security Act \[this subchapter\] (as amended by this Act) as may be necessary for the purposes of carrying out the project.
 
->     “(f) __Relationship to Other Authority.—__ 
+>     “(f)  __Relationship to Other Authority__  __.—__ 
 
 >     Except pursuant to this subchapter, the Secretary of Health and Human Services may not conduct or continue any medicare demonstration project relating to payment of health maintenance organizations, Medicare+Choice organizations, or similar prepaid managed care entities on the basis of a competitive bidding process or pricing system described in subsection (a).
 
->     “(g) __No Additional Costs to Medicare Program.—__ 
+>     “(g)  __No Additional Costs to Medicare Program__  __.—__ 
 
 >     The aggregate payments to Medicare+Choice organizations under the project for any designated area for a fiscal year may not exceed the aggregate payments to such organizations that would have been made under title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.), as amended by section 4001 \[enacting this part and redesignating former part C of this subchapter as part D\], if the project had not been conducted.
 
->     “(h) __Definitions.—__ 
+>     “(h)  __Definitions__  __.—__ 
 
 >     Any term used in this subchapter which is also used in part C of title XVIII of the Social Security Act \[this part\], as amended by section 4001, shall have the same meaning as when used in such part.
 
@@ -2003,31 +2003,31 @@
 
 >     “(a) __Competitive Pricing Advisory Committee.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Before implementing the project under this subchapter \[subchapter A (§§ 4011–4012) of chapter 2 of subtitle A of title IV of [Pub. L. 105–33][/us/pl/105/33]\], the Secretary shall appoint the Competitive Pricing Advisory Committee, including independent actuaries, individuals with expertise in competitive health plan pricing, and an employee of the Office of Personnel Management with expertise in the administration of the Federal Employees Health Benefit Program, to make recommendations to the Secretary concerning the designation of areas for inclusion in the project and appropriate research design for implementing the project.
 
->         “(2) __Initial recommendations.—__ 
+>         “(2)  __Initial recommendations__  __.—__ 
 
 >         The Competitive Pricing Advisory Committee initially shall submit recommendations regarding the area selection, benefit design among plans offered, structuring choice among health plans offered, methods for setting the price to be paid to plans, collection of plan information (including information concerning quality and access to care), information dissemination, and methods of evaluating the results of the project.
 
->         “(3) __Quality recommendation.—__ 
+>         “(3)  __Quality recommendation__  __.—__ 
 
 >         The Competitive Pricing Advisory Committee shall study and make recommendations regarding the feasibility of providing financial incentives and penalties to plans operating under the project that meet, or fail to meet, applicable quality standards.
 
->         “(4) __Advice during implementation.—__ 
+>         “(4)  __Advice during implementation__  __.—__ 
 
 >         Upon implementation of the project, the Competitive Pricing Advisory Committee shall continue to advise the Secretary on the application of the design in different areas and changes in the project based on experience with its operations.
 
->         “(5) __Sunset.—__ 
+>         “(5)  __Sunset__  __.—__ 
 
 >         The Competitive Pricing Advisory Committee shall terminate on December 31, 2004.
 
->     “(b) __Appointment of Area Advisory Committee.—__ 
+>     “(b)  __Appointment of Area Advisory Committee__  __.—__ 
 
 >     Upon the designation of an area for inclusion in the project, the Secretary shall appoint an area advisory committee, composed of representatives of health plans, providers, and medicare beneficiaries in the area, to advise the Secretary concerning how the project will be implemented in the area. Such advice may include advice concerning the marketing and pricing of plans in the area and other salient factors. The duration of such a committee for an area shall be for the duration of the operation of the project in the area.
 
->     “(c) __Special application.—__ 
+>     “(c)  __Special application__  __.—__ 
 
 >     Notwithstanding section 9(c) of the Federal Advisory Committee Act (5 U.S.C. App.), the Competitive Pricing Advisory Commission and any area advisory committee (described in subsection (b)) may meet as soon as the members of the commission or committee, respectively, are appointed.”
 

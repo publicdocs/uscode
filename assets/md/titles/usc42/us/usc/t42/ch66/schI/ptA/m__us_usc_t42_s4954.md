@@ -67,7 +67,7 @@
 
 [Pub. L. 101–204, title I, § 101(c)][/us/pl/101/204/s101/c], Dec. 7, 1989, [103 Stat. 1810][/us/stat/103/1810], as amended by [Pub. L. 103–82, title IV, § 405(h)][/us/pl/103/82/s405/h], Sept. 21, 1993, [107 Stat. 921][/us/stat/107/921], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Notwithstanding the limitations established in section 104(b) of the Domestic Volunteer Service Act of 1973 ([42 U.S.C. 4954(b)][/us/usc/t42/s4954/b]) for the maximum period of service as a volunteer under part A of title I of such Act ([42 U.S.C. 4951][/us/usc/t42/s4951] et seq.), the Chief Executive Officer of the Corporation for National and Community Service may, subject to paragraphs (2) and (3), extend beyond such maximum the period of service for such volunteer in any case in which—
 
@@ -75,7 +75,7 @@
 
 >         “(B) such Director determines that such extension is appropriate with respect to meeting the goals of such project or program.
 
->     “(2) __Limitations on extensions.—__ 
+>     “(2)  __Limitations on extensions__  __.—__ 
 
 >     With respect to extensions under paragraph (1) for volunteers described in such paragraph—
 

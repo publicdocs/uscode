@@ -233,11 +233,11 @@
 
 [Pub. L. 106–310, div. A, title XXI, § 2101(b)][/us/pl/106/310/s2101/b], Oct. 17, 2000, [114 Stat. 1156][/us/stat/114/1156], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Health and Human Services (referred to in this subsection as the ‘Secretary’) shall provide for a study to determine the costs of immunosuppressive drugs that are provided to children pursuant to organ transplants and to determine the extent to which health plans and health insurance cover such costs. The Secretary may carry out the study directly or through a grant to the Institute of Medicine (or other public or nonprofit private entity).
 
->     “(2) __Recommendations regarding certain issues.—__ 
+>     “(2)  __Recommendations regarding certain issues__  __.—__ 
 
 >     The Secretary shall ensure that, in addition to making determinations under paragraph (1), the study under such paragraph makes recommendations regarding the following issues:
 
@@ -249,7 +249,7 @@
 
 >         “(D) Other issues that are particular to the special health and transplantation needs of children.
 
->     “(3) __Report.—__ 
+>     “(3)  __Report__  __.—__ 
 
 >     The Secretary shall ensure that, not later than December 31, 2001, the study under paragraph (1) is completed and a report describing the findings of the study is submitted to the Congress.”
 

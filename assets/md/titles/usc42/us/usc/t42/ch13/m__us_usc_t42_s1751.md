@@ -127,11 +127,11 @@
 
 [Pub. L. 111–296, title III, § 307][/us/pl/111/296/s307], Dec. 13, 2010, [124 Stat. 3245][/us/stat/124/3245], provided that:
 
->     “(a) __Guidance on Indirect Costs Rules.—__ 
+>     “(a)  __Guidance on Indirect Costs Rules__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Dec. 13, 2010\], the Secretary \[of Agriculture\] shall issue guidance to school food authorities participating in the school lunch program established under the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751][/us/usc/t42/s1751] et seq.) and the school breakfast program established by section 4 of the Child Nutrition Act of 1966 ([42 U.S.C. 1773][/us/usc/t42/s1773]) covering program rules pertaining to indirect costs, including allowable indirect costs that may be charged to the nonprofit school food service account.
 
->     “(b) __Indirect Cost Study.—__ 
+>     “(b)  __Indirect Cost Study__  __.—__ 
 
 >     The Secretary shall—
 
@@ -151,7 +151,7 @@
 
 >         “(2) after completing the study required under paragraph (1), issue additional guidance relating to the types of costs that are reasonable and necessary to provide meals under the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751][/us/usc/t42/s1751] et seq.) and the Child Nutrition Act of 1966 ([42 U.S.C. 1771][/us/usc/t42/s1771] et seq.).
 
->     “(c) __Regulations.—__ 
+>     “(c)  __Regulations__  __.—__ 
 
 >     After conducting the study under subsection (b)(1) and identifying costs under subsection (b)(2), the Secretary may promulgate regulations to address—
 
@@ -159,17 +159,17 @@
 
 >         “(2) the authority of school food authorities to reimburse only those costs identified by the Secretary as reasonable and necessary under subsection (b)(2).
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than October 1, 2013, the Secretary shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the study under subsection (b).
 
 >     “(e) __Funding.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         On October 1, 2010, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary to carry out this section $2,000,000, to remain available until expended.
 
->         “(2) __Receipt and acceptance.—__ 
+>         “(2)  __Receipt and acceptance__  __.—__ 
 
 >         The Secretary shall be entitled to receive, shall accept, and shall use to carry out this section the funds transferred under paragraph (1), without further appropriation.”
 
@@ -183,15 +183,15 @@
 
 >     “(a) __Coordination.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Agriculture shall develop proposed changes to the regulations under the school lunch program under the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751][/us/usc/t42/s1751] et seq.), the summer food service program under section 13 of that Act ([42 U.S.C. 1761][/us/usc/t42/s1761]), and the school breakfast program under section 4 of the Child Nutrition Act of 1966 ([42 U.S.C. 1773][/us/usc/t42/s1773]), for the purpose of simplifying and coordinating those programs into a comprehensive meal program.
 
->         “(2) __Consultation.—__ 
+>         “(2)  __Consultation__  __.—__ 
 
 >         In developing proposed changes to the regulations under paragraph (1), the Secretary of Agriculture shall consult with local, State, and regional administrators of the programs described in such paragraph.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than November 1, 1997, the Secretary of Agriculture shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Economic and Educational Opportunities of the House of Representatives a report containing the proposed changes developed under subsection (a).”
 
@@ -217,11 +217,11 @@
 
 [Pub. L. 103–448, title III, § 301][/us/pl/103/448/s301], Nov. 2, 1994, [108 Stat. 4749][/us/stat/108/4749], as amended by [Pub. L. 106–78, title VII, § 752(b)(15)][/us/pl/106/78/s752/b/15], Oct. 22, 1999, [113 Stat. 1170][/us/stat/113/1170], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any provision of \[the\] Richard B. Russell National School Lunch Act ([42 U.S.C. 1751][/us/usc/t42/s1751] et seq.) or the Child Nutrition Act of 1966 ([42 U.S.C. 1771][/us/usc/t42/s1771] et seq.), except as otherwise provided in this section, the Secretary of Agriculture shall, not later than 18 months after the date of enactment of this Act \[Nov. 2, 1994\], develop and implement regulations to consolidate the school lunch program under the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751][/us/usc/t42/s1751] et seq.) and the school breakfast program under section 4 of the Child Nutrition Act of 1966 ([42 U.S.C. 1773][/us/usc/t42/s1773]) into a comprehensive meal program.
 
->     “(b) __Requirements.—__ 
+>     “(b)  __Requirements__  __.—__ 
 
 >     In establishing the comprehensive meal program under subsection (a), the Secretary shall meet the following requirements:
 
@@ -233,11 +233,11 @@
 
 >     “(c) __Plan and Recommendations.—__ 
 
->         “(1) __Plan for consolidation and simplification.—__ 
+>         “(1)  __Plan for consolidation and simplification__  __.—__ 
 
 >         Not later than 180 days prior to implementing the regulations described in subsection (a), the Secretary shall prepare and submit to the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a plan for the consolidation and simplification of the school lunch program and the school breakfast program.
 
->         “(2) __Recommendations with respect to change in payment amounts.—__ 
+>         “(2)  __Recommendations with respect to change in payment amounts__  __.—__ 
 
 >         If the Secretary proposes to change the amount of the breakfast assistance payment or the food assistance payment under the comprehensive meal program, the Secretary shall not include the change in the consolidation and shall prepare and submit to the Committee on Education and Labor \[now Committee on Education and the Workforce\], and the Committee on Agriculture, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate recommendations for legislation to effect the change.”
 

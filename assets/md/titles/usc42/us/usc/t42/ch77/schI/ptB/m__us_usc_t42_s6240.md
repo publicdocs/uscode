@@ -183,11 +183,11 @@
 
 [Pub. L. 109–58, title III, § 301(e)(2)(B)][/us/pl/109/58/s301/e/2/B], (C), Aug. 8, 2005, [119 Stat. 684][/us/stat/119/684], 685, provided that:
 
->     “(B) __Review of requests for deferrals of scheduled deliveries.—__ 
+>     “(B)  __Review of requests for deferrals of scheduled deliveries__  __.—__ 
 
 >     The procedures developed under section 160(c) of the Energy Policy and Conservation Act \[[42 U.S.C. 6240(c)][/us/usc/t42/s6240/c]\], as added by subparagraph (A), shall include procedures and criteria for the review of requests for the deferrals of scheduled deliveries.
 
->     “(C) __Deadlines.—__ 
+>     “(C)  __Deadlines__  __.—__ 
 
 >     The Secretary \[of Energy\] shall—
 

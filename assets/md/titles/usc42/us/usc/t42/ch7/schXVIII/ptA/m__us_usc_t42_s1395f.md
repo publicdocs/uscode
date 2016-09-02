@@ -227,37 +227,37 @@
 
             (A) __Reduction in update for failure to report.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 For purposes of fiscal year 2014 and each subsequent fiscal year, in the case of a hospice program that does not submit data to the Secretary in accordance with subparagraph (C) with respect to such a fiscal year, after determining the market basket percentage increase under paragraph (1)(C)(ii)(VII) or paragraph (1)(C)(iii), as applicable, and after application of paragraph (1)(C)(iv), with respect to the fiscal year, the Secretary shall reduce such market basket percentage increase by 2 percentage points.
 
-                (ii) __Special rule.—__ 
+                (ii)  __Special rule__  __.—__ 
 
                 The application of this subparagraph may result in the market basket percentage increase under paragraph (1)(C)(ii)(VII) or paragraph (1)(C)(iii), as applicable, being less than 0.0 for a fiscal year, and may result in payment rates under this subsection for a fiscal year being less than such payment rates for the preceding fiscal year.
 
-            (B) __Noncumulative application.—__ 
+            (B)  __Noncumulative application__  __.—__ 
 
             Any reduction under subparagraph (A) shall apply only with respect to the fiscal year involved and the Secretary shall not take into account such reduction in computing the payment amount under this subsection for a subsequent fiscal year.
 
-            (C) __Submission of quality data.—__ 
+            (C)  __Submission of quality data__  __.—__ 
 
             For fiscal year 2014 and each subsequent fiscal year, each hospice program shall submit to the Secretary data on quality measures specified under subparagraph (D). Such data shall be submitted in a form and manner, and at a time, specified by the Secretary for purposes of this subparagraph.
 
             (D) __Quality measures.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Subject to clause (ii), any measure specified by the Secretary under this subparagraph must have been endorsed by the entity with a contract under [section 1395aaa(a) of this title][/us/usc/t42/s1395aaa/a].
 
-                (ii) __Exception.—__ 
+                (ii)  __Exception__  __.—__ 
 
                 In the case of a specified area or medical topic determined appropriate by the Secretary for which a feasible and practical measure has not been endorsed by the entity with a contract under [section 1395aaa(a) of this title][/us/usc/t42/s1395aaa/a], the Secretary may specify a measure that is not so endorsed as long as due consideration is given to measures that have been endorsed or adopted by a consensus organization identified by the Secretary.
 
-                (iii) __Time frame.—__ 
+                (iii)  __Time frame__  __.—__ 
 
                 Not later than October 1, 2012, the Secretary shall publish the measures selected under this subparagraph that will be applicable with respect to fiscal year 2014.
 
-            (E) __Public availability of data submitted.—__ 
+            (E)  __Public availability of data submitted__  __.—__ 
 
             The Secretary shall establish procedures for making data submitted under subparagraph (C) available to the public. Such procedures shall ensure that a hospice program has the opportunity to review the data that is to be made public with respect to the hospice program prior to such data being made public. The Secretary shall report quality measures that relate to hospice care provided by hospice programs on the Internet website of the Centers for Medicare & Medicaid Services.
 
@@ -693,11 +693,11 @@
 
 [Pub. L. 111–148, title VI, § 6404(b)][/us/pl/111/148/s6404/b], Mar. 23, 2010, [124 Stat. 768][/us/stat/124/768], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by subsection (a) \[amending this section and sections 1395n and 1395u of this title\] shall apply to services furnished on or after January 1, 2010.
 
->     “(2) __Services furnished before 2010.—__ 
+>     “(2)  __Services furnished before 2010__  __.—__ 
 
 >     In the case of services furnished before January 1, 2010, a bill or request for payment under section 1814(a)(1), 1842(b)(3)(B), or 1835(a) \[probably means section 1814(a)(1) ([42 U.S.C. 1395f(a)(1)][/us/usc/t42/s1395f/a/1]), 1842(b)(3)(B) ([42 U.S.C. 1395u(b)(3)(B)][/us/usc/t42/s1395u/b/3/B]), or 1835(a) ([42 U.S.C. 1395n(a)][/us/usc/t42/s1395n/a]) of act Aug. 14, 1935\] shall be filed not later that \[sic\] December 31, 2010.”
 
@@ -943,11 +943,11 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title V, § 507(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–532, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct an evaluation of the effect of the amendment \[amending this section and [section 1395n of this title][/us/usc/t42/s1395n]\] on the cost of and access to home health services under the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Dec. 21, 2000\], the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1).”
 
@@ -955,11 +955,11 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title III, § 322(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–501, provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Secretary of Health and Human Services shall conduct a study to examine the appropriateness of the certification regarding terminal illness of an individual under section 1814(a)(7) of the Social Security Act ([42 U.S.C. 1395f(a)(7)][/us/usc/t42/s1395f/a/7]) that is required in order for such individual to receive hospice benefits under the medicare program under title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\]. In conducting such study, the Secretary shall take into account the effect of the amendment made by subsection (a) \[amending this section\].
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 2 years after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary of Health and Human Services shall submit to Congress a report on the study conducted under paragraph (1), together with any recommendations for legislation that the Secretary deems appropriate.”
 
@@ -971,7 +971,7 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title I, § 131\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–333, provided that:
 
->     “(a) __Increase for Fiscal Years 2001 and 2002.—__ 
+>     “(a)  __Increase for Fiscal Years__  __2001__  __and__  __2002.—__ 
 
 >     For purposes of payments under section 1814(i)(1)(C) of the Social Security Act ([42 U.S.C. 1395f(i)(1)(C)][/us/usc/t42/s1395f/i/1/C]) for hospice care furnished during fiscal years 2001 and 2002, the Secretary of Health and Human Services shall increase the payment rate in effect (but for this section) for—
 
@@ -979,7 +979,7 @@
 
 >         “(2) fiscal year 2002, by 0.75 percent.
 
->     “(b) __Additional Payment Not Built Into the Base.—__ 
+>     “(b)  __Additional Payment Not Built Into the Base__  __.—__ 
 
 >     The Secretary of Health and Human Services shall not include any additional payment made under this subsection (a) in updating the payment rate, as increased by the applicable market basket percentage increase for the fiscal year involved under section 1814(i)(1)(C)(ii) of that Act ([42 U.S.C. 1395f(i)(1)(C)(ii)][/us/usc/t42/s1395f/i/1/C/ii]).”
 
@@ -987,13 +987,13 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title I, § 132\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–333, provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct a study to determine the feasibility and advisability of updating the payment rates and the cap amount determined with respect to a fiscal year under section 1814(i) of the Social Security Act ([42 U.S.C. 1395f(i)][/us/usc/t42/s1395f/i]) for routine home care and other services included in hospice care. Such study shall examine the cost factors used to determine such rates and such amount and shall evaluate whether such factors should be modified, eliminated, or supplemented with additional cost factors.
 
->     “(b) __Report.__ 
+>     “(b)  __Report.__  __—__ 
 
->     —Not later than one year after the date of enactment of this Act \[Nov. 29, 1999\], the Comptroller General of the United States shall submit to Congress a report on the study conducted under subsection (a), together with any recommendations for legislation that the Comptroller General determines to be appropriate as a result of such study.”
+>     Not later than one year after the date of enactment of this Act \[Nov. 29, 1999\], the Comptroller General of the United States shall submit to Congress a report on the study conducted under subsection (a), together with any recommendations for legislation that the Comptroller General determines to be appropriate as a result of such study.”
 
  __Study of Methods To Compensate Hospices for High-Cost Care__ 
 

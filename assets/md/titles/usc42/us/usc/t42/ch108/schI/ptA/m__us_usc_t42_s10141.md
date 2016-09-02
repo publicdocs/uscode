@@ -57,11 +57,11 @@
 
 >     “(a) __Environmental Protection Agency Standards.—__ 
 
->         “(1) __Promulgation.—__ 
+>         “(1)  __Promulgation__  __.—__ 
 
 >         Notwithstanding the provisions of section 121(a) of the Nuclear Waste Policy Act of 1982 ([42 U.S.C. 10141(a)][/us/usc/t42/s10141/a]), section 161 b. of the Atomic Energy Act of 1954 ([42 U.S.C. 2201(b)][/us/usc/t42/s2201/b]), and any other authority of the Administrator of the Environmental Protection Agency to set generally applicable standards for the Yucca Mountain site, the Administrator shall, based upon and consistent with the findings and recommendations of the National Academy of Sciences, promulgate, by rule, public health and safety standards for protection of the public from releases from radioactive materials stored or disposed of in the repository at the Yucca Mountain site. Such standards shall prescribe the maximum annual effective dose equivalent to individual members of the public from releases to the accessible environment from radioactive materials stored or disposed of in the repository. The standards shall be promulgated not later than 1 year after the Administrator receives the findings and recommendations of the National Academy of Sciences under paragraph (2) and shall be the only such standards applicable to the Yucca Mountain site.
 
->         “(2) __Study by national academy of sciences.—__ 
+>         “(2)  __Study by national academy of sciences__  __.—__ 
 
 >         Within 90 days after the date of the enactment of this Act \[Oct. 24, 1992\], the Administrator shall contract with the National Academy of Sciences to conduct a study to provide, by not later than December 31, 1993, findings and recommendations on reasonable standards for protection of the public health and safety, including—
 
@@ -71,17 +71,17 @@
 
 >             “(C) whether it is possible to make scientifically supportable predictions of the probability that the repository’s engineered or geologic barriers will be breached as a result of human intrusion over a period of 10,000 years.
 
->         “(3) __Applicability.—__ 
+>         “(3)  __Applicability__  __.—__ 
 
 >         The provisions of this section shall apply to the Yucca Mountain site, rather than any other authority of the Administrator to set generally applicable standards for radiation protection.
 
 >     “(b) __Nuclear Regulatory Commission Requirements and Criteria.—__ 
 
->         “(1) __Modifications.—__ 
+>         “(1)  __Modifications__  __.—__ 
 
 >         Not later than 1 year after the Administrator promulgates standards under subsection (a), the Nuclear Regulatory Commission shall, by rule, modify its technical requirements and criteria under section 121(b) of the Nuclear Waste Policy Act of 1982 ([42 U.S.C. 10141(b)][/us/usc/t42/s10141/b]), as necessary, to be consistent with the Administrator’s standards promulgated under subsection (a).
 
->         “(2) __Required assumptions.—__ 
+>         “(2)  __Required assumptions__  __.—__ 
 
 >         The Commission’s requirements and criteria shall assume, to the extent consistent with the findings and recommendations of the National Academy of Sciences, that, following repository closure, the inclusion of engineered barriers and the Secretary’s post-closure oversight of the Yucca Mountain site, in accordance with subsection (c), shall be sufficient to—
 
@@ -89,7 +89,7 @@
 
 >             “(B) prevent any increase in the exposure of individual members of the public to radiation beyond allowable limits.
 
->     “(c) __Post-Closure Oversight.—__ 
+>     “(c)  __Post-Closure Oversight__  __.—__ 
 
 >     Following repository closure, the Secretary of Energy shall continue to oversee the Yucca Mountain site to prevent any activity at the site that poses an unreasonable risk of—
 

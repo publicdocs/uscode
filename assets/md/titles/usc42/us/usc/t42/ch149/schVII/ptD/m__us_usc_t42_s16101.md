@@ -35,7 +35,7 @@
 
 [Pub. L. 110–140, title XI, § 1111][/us/pl/110/140/s1111], Dec. 19, 2007, [121 Stat. 1757][/us/stat/121/1757], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Transportation, in consultation with the Administrator of the Environmental Protection Agency, shall establish and carry out a pilot program for making grants to railroad carriers (as defined in [section 20102 of title 49][/us/usc/t49/s20102], United States Code) and State and local governments—
 
@@ -43,11 +43,11 @@
 
 >         “(2) to demonstrate the extent to which such locomotives increase fuel economy, reduce emissions, and lower costs of operation.
 
->     “(b) __Limitation.—__ 
+>     “(b)  __Limitation__  __.—__ 
 
 >     Notwithstanding subsection (a), no grant under this section may be used to fund the costs of emissions reductions that are mandated under Federal law.
 
->     “(c) __Grant Criteria.—__ 
+>     “(c)  __Grant Criteria__  __.—__ 
 
 >     In selecting applicants for grants under this section, the Secretary of Transportation shall consider—
 
@@ -61,23 +61,23 @@
 
 >     “(d) __Competitive Grant Selection Process.—__ 
 
->         “(1) __Applications.—__ 
+>         “(1)  __Applications__  __.—__ 
 
 >         A railroad carrier or State or local government seeking a grant under this section shall submit for approval by the Secretary of Transportation an application for the grant containing such information as the Secretary of Transportation may require.
 
->         “(2) __Competitive selection.—__ 
+>         “(2)  __Competitive selection__  __.—__ 
 
 >         The Secretary of Transportation shall conduct a national solicitation for applications for grants under this section and shall select grantees on a competitive basis.
 
->     “(e) __Federal Share.—__ 
+>     “(e)  __Federal Share__  __.—__ 
 
 >     The Federal share of the cost of a project under this section shall not exceed 80 percent of the project cost.
 
->     “(f) __Report.—__ 
+>     “(f)  __Report__  __.—__ 
 
 >     Not later than 3 years after the date of enactment of this Act \[Dec. 19, 2007\], the Secretary of Transportation shall submit to Congress a report on the results of the pilot program carried out under this section.
 
->     “(g) __Authorization of Appropriations.—__ 
+>     “(g)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to the Secretary of Transportation $10,000,000 for each of the fiscal years 2008 through 2011 to carry out this section. Such funds shall remain available until expended.”
 

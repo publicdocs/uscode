@@ -51,7 +51,7 @@
 
                 (ii) core medical services are available to all individuals with HIV/AIDS identified and eligible under this subchapter.
 
-            (B) __Notification of waiver status.—__ 
+            (B)  __Notification of waiver status__  __.—__ 
 
             When informing an applicant that a grant under subsection (a) is being made for a fiscal year, the Secretary shall inform the applicant whether a waiver under subparagraph (A) is in effect for the fiscal year.
 

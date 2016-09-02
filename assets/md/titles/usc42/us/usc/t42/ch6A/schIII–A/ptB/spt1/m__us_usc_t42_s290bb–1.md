@@ -245,11 +245,11 @@
 
 >         “(B) Subparagraph (A) shall apply with respect to a project notwithstanding that the project is not eligible to receive a grant under current section 508 or 509 \[[42 U.S.C. 290bb–1][/us/usc/t42/s290bb–1], 290bb–2\].
 
->     “(2) __Limitation on funding for certain projects.—__ 
+>     “(2)  __Limitation on funding for certain projects__  __.—__ 
 
 >     With respect to the amounts appropriated for any fiscal year under current section 508, any such amounts appropriated in excess of the amount appropriated for fiscal year 1992 under former section 509F shall be available only for grants under current section 508.
 
->     “(3) __Definitions.—__ 
+>     “(3)  __Definitions__  __.—__ 
 
 >     For purposes of this subsection:
 

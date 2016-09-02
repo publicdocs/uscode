@@ -295,11 +295,11 @@
 
 [Pub. L. 101–549, title IV, § 403(b)][/us/pl/101/549/s403/b], (c), Nov. 15, 1990, [104 Stat. 2631][/us/stat/104/2631], provided that:
 
->     “(b) __Revised Regulations.—__ 
+>     “(b)  __Revised Regulations__  __.—__ 
 
 >     Not later than three years after the date of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], the Administrator shall promulgate revised regulations for standards of performance for new fossil fuel fired electric utility units commencing construction after the date on which such regulations are proposed that, at a minimum, require any source subject to such revised standards to emit sulfur dioxide at a rate not greater than would have resulted from compliance by such source with the applicable standards of performance under this section \[amending sections 7411 and 7479 of this title\] prior to such revision.
 
->     “(c) __Applicability.—__ 
+>     “(c)  __Applicability__  __.—__ 
 
 >     The provisions of subsections (a) \[amending this section\] and (b) apply only so long as the provisions of section 403(e) of the Clean Air Act \[[42 U.S.C. 7651b(e)][/us/usc/t42/s7651b/e]\] remain in effect.”
 

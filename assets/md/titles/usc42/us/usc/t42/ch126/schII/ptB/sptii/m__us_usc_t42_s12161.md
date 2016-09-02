@@ -65,11 +65,11 @@
 
 [Pub. L. 101–336, title II, § 246][/us/pl/101/336/s246], July 26, 1990, [104 Stat. 353][/us/stat/104/353], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Except as provided in subsection (b), this part \[part II (§§ 241–246) of subtitle B of title II of [Pub. L. 101–336][/us/pl/101/336], enacting this subpart\] shall become effective 18 months after the date of enactment of this Act \[July 26, 1990\].
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     Sections 242 and 244 \[sections 12162 and 12164 of this title\] shall become effective on the date of enactment of this Act.”
 

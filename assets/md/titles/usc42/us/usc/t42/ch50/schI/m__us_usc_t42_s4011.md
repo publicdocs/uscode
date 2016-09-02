@@ -105,7 +105,7 @@
 
 >     “(a) __Report.—__ 
 
->         “(1) __Review.—__ 
+>         “(1)  __Review__  __.—__ 
 
 >         The Administrator shall review—
 
@@ -117,7 +117,7 @@
 
 >             “(D) the effects and implications that weather conditions, including rainfall, snowfall, projected snowmelt, existing water levels, and other conditions, have on the determination that a flood event has commenced or is in progress.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than 6 months after the date of enactment of this Act \[July 6, 2012\], the Administrator shall submit a report to Congress that describes—
 
@@ -125,13 +125,13 @@
 
 >             “(B) any actions taken, or proposed actions to be taken, by the Administrator to provide for more precise and technical processes and procedures for determining that a flood event has commenced or is in progress.
 
->     “(b) __Effective Date of Policies Covering Properties Affected by Flooding of the Missouri River in 2011.—__ 
+>     “(b)  __Effective Date of Policies Covering Properties Affected by Flooding of the Missouri River in __  __2011.—__ 
 
->         “(1) __Eligible coverage.—__ 
+>         “(1)  __Eligible coverage__  __.—__ 
 
 >         For purposes of this subsection, the term ‘eligible coverage’ means coverage under a new contract for flood insurance coverage under the National Flood Insurance Program, or a modification to coverage under an existing flood insurance contract, for property damaged by the flooding of the Missouri River that commenced on June 1, 2011, that was purchased or made during the period beginning May 1, 2011, and ending June 6, 2011.
 
->         “(2) __Effective dates.—__ 
+>         “(2)  __Effective dates__  __.—__ 
 
 >         Notwithstanding section 1306(c) of the National Flood Insurance Act of 1968 ([42 U.S.C. 4013(c)][/us/usc/t42/s4013/c]), or any other provision of law, any eligible coverage shall—
 
@@ -139,7 +139,7 @@
 
 >             “(B) cover damage to property occurring after the effective date described in subparagraph (A) that resulted from the flooding of the Missouri River that commenced on June 1, 2011, if the property did not suffer damage or loss as a result of such flooding before the effective date described in subparagraph (A).
 
->     “(c) __Timely Notification.—__ 
+>     “(c)  __Timely Notification__  __.—__ 
 
 >     Not later than 90 days after the date on which the Administrator submits the report required under subsection (a)(2), the Administrator shall, taking into consideration the results of the review under subsection (a)(1)(B), develop procedures for providing timely notification, to the extent practicable, to policyholders who have purchased flood insurance coverage under the National Flood Insurance Program within 30 days of a determination of a flood in progress and who may be affected by the flood of the determination and how the determination may affect their coverage.”
 
@@ -193,21 +193,21 @@
 
 > “In this title, the following definitions shall apply:
 
->     “(1) __Director.—__ 
+>     “(1)  __Director__  __.—__ 
 
 >     The term ‘Director’ means the Administrator of the Federal Emergency Management Agency.
 
->     “(2) __Flood insurance policy.—__ 
+>     “(2)  __Flood insurance policy__  __.—__ 
 
 >     The term ‘flood insurance policy’ means a flood insurance policy issued under the National Flood Insurance Act of 1968 (42 U.S.C. \[4001\] et seq.).
 
->     “(3) __Program.—__ 
+>     “(3)  __Program__  __.—__ 
 
 >     The term ‘Program’ means the National Flood Insurance Program established under the National Flood Insurance Act of 1968 ([42 U.S.C. 4001][/us/usc/t42/s4001] et seq.).
 
 > “SEC. 202. __SUPPLEMENTAL FORMS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 6 months after the date of enactment of this Act \[June 30, 2004\], the Director shall develop supplemental forms to be issued in conjunction with the issuance of a flood insurance policy that set forth, in simple terms—
 
@@ -221,7 +221,7 @@
 
 >         “(5) any other information that the Director determines will be helpful to policyholders in understanding flood insurance coverage.
 
->     “(b) __Distribution.—__ 
+>     “(b)  __Distribution__  __.—__ 
 
 >     The forms developed under subsection (a) shall be given to—
 
@@ -231,7 +231,7 @@
 
 > “SEC. 203. __ACKNOWLEDGEMENT FORM.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 6 months after the date of enactment of this Act \[June 30, 2004\], the Director shall develop an acknowledgement form to be signed by the purchaser of a flood insurance policy that contains—
 
@@ -239,13 +239,13 @@
 
 >         “(2) an acknowledgement that the purchaser has been told that the contents of a property or dwelling are not covered under the terms of the standard flood insurance policy, and that the policyholder has the option to purchase additional coverage for such contents.
 
->     “(b) __Distribution.—__ 
+>     “(b)  __Distribution__  __.—__ 
 
 >     Copies of an acknowledgement form executed under subsection (a) shall be made available to the purchaser and the Director.
 
 > “SEC. 204. __FLOOD INSURANCE CLAIMS HANDBOOK.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 6 months after the date of enactment of this Act \[June 30, 2004\], the Director shall develop a flood insurance claims handbook that contains—
 
@@ -255,7 +255,7 @@
 
 >         “(3) detailed information regarding the appeals process established under section 205.
 
->     “(b) __Distribution.—__ 
+>     “(b)  __Distribution__  __.—__ 
 
 >     The handbook developed under subsection (a) shall be made available to—
 
@@ -291,7 +291,7 @@
 
 > “SEC. 208. __GAO STUDY AND REPORT.__ 
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct a study of—
 
@@ -301,7 +301,7 @@
 
 >         “(3) the practices of the Federal Emergency Management Agency and insurance adjusters in estimating losses incurred during a flood, and how such practices affect the adequacy of payments to flood victims.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[June 30, 2004\], the Comptroller General shall submit to Congress a report regarding the results of the study under subsection (a).
 

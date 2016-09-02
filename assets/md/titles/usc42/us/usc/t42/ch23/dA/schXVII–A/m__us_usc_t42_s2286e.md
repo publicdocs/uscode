@@ -43,13 +43,13 @@
 
 [Pub. L. 100–456, div. A, title XIV, § 1441(c)][/us/pl/100/456/s1441/c], (d), Sept. 29, 1988, [102 Stat. 2084][/us/stat/102/2084], provided that:
 
->     “(c) __Requirements for First Annual Report.—__ 
+>     “(c)  __Requirements for First Annual Report__  __.—__ 
 
 >         (1) Before submission of the first annual report by the Defense Nuclear Facilities Safety Board under section 316(a) of the Atomic Energy Act of 1954 \[subsec. (a) of this section\] (as added by subsection (a)), the Board shall conduct a study on whether nuclear facilities of the Department of Energy that are excluded from the definition of ‘Department of Energy defense nuclear facility’ in section 318(1)(C) of such Act \[[section 2286g(1)(C) of this title][/us/usc/t42/s2286g/1/C]\] (hereafter in this subsection referred to as ‘non-defense nuclear facilities’) should be subject to independent external oversight. The Board shall include in such first annual report the results of such study and the recommendation of the Board on whether non-defense nuclear facilities should be subject to independent external oversight.
 
 >         “(2) If the Board recommends in the report that non-defense nuclear facilities should be subject to such oversight, the report shall include a discussion of alternative mechanisms for implementing such oversight, including mechanisms such as a separate executive agency and oversight as a part of the Board’s responsibilities. The discussion of alternative mechanisms of oversight also shall include considerations of budgetary costs, protection of the security of sensitive nuclear weapons information, and the similarities and differences in the design, construction, operation, and decommissioning of defense and non-defense nuclear facilities of the Department of Energy.
 
->     “(d) __Requirements for Fifth Annual Report.—__ 
+>     “(d)  __Requirements for Fifth Annual Report__  __.—__ 
 
 >     The fifth annual report submitted by the Defense Nuclear Facilities Safety Board under section 316(a) of the Atomic Energy Act of 1954 \[subsec. (a) of this section\] (as added by subsection (a)) shall include—
 

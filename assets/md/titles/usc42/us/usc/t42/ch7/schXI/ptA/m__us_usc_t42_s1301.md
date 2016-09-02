@@ -191,11 +191,11 @@
 
 [Pub. L. 99–272, title IX, § 9528(b)][/us/pl/99/272/s9528/b], (c), Apr. 7, 1986, [100 Stat. 219][/us/stat/100/219], as amended by [Pub. L. 99–509, title IX][/us/pl/99/509], §§ 9102, 9421(a), Oct. 21, 1986, [100 Stat. 1972][/us/stat/100/1972], 2065, provided that:
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply to the Federal percentage (and Federal medical assistance percentage) for fiscal years 1987 and thereafter. Such amendments shall apply without regard to the requirement of section 1101(a)(8)(B) of the Social Security Act \[[42 U.S.C. 1301(a)(8)(B)][/us/usc/t42/s1301/a/8/B]\] relating to the promulgation of the Federal percentage prior to November 30 of the year preceding the year in which the new Federal percentage becomes applicable. The Secretary of Health and Human Services shall promulgate such new percentage for fiscal year 1987 as soon as practicable after the date of the enactment of this Act \[Apr. 7, 1986\].
 
->     “(c) __Hold Harmless Provision.—__ 
+>     “(c)  __Hold Harmless Provision__  __.—__ 
 
 >     Notwithstanding subsection (b), for calendar quarters occurring during fiscal year 1987 and only for purposes of making payments to States under sections 403 and 1903 of the Social Security Act \[[42 U.S.C. 603][/us/usc/t42/s603] and 1396b\], the amendments made by subsection (a) \[amending this section\] shall not apply to a State with respect to either such section if the effect of the \[sic\] applying the amendments would be to reduce the amount of payment made to the State under that section.”
 
@@ -327,7 +327,7 @@
 
 >     The term ‘BIPA’ means the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, as enacted into law by [section 1(a)(6) of Public Law 106–554][/us/pl/106/554/s1/a/6] \[see Tables for classification\].
 
->     “(2) __Secretary.—__ 
+>     “(2)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of Health and Human Services.”
 

@@ -23,7 +23,7 @@
 
         (1) __Test procedures.—__ 
 
-            (A) __Amendment.—__ 
+            (A)  __Amendment__  __.—__ 
 
             At least once every 7 years, the Secretary shall review test procedures for all covered products and—
 
@@ -99,11 +99,11 @@
 
             (B) The Secretary may review and revise the test procedures established under subparagraph (A).
 
-        (17) __Class a external power supplies.—__ 
+        (17)  __Class a external power supplies__  __.—__ 
 
         Test procedures for class A external power supplies shall be based on the “Test Method for Calculating the Energy Efficiency of Single-Voltage External AC–DC and AC–AC Power Supplies” published by the Environmental Protection Agency on August 11, 2004, except that the test voltage specified in section 4(d) of that test method shall be only 115 volts, 60 Hz.
 
-        (18) __Metal halide lamp ballasts.—__ 
+        (18)  __Metal halide lamp ballasts__  __.—__ 
 
         Test procedures for metal halide lamp ballasts shall be based on ANSI Standard C82.6–2005, entitled “Ballasts for High Intensity Discharge Lamps—Method of Measurement”.
 

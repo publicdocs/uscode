@@ -233,11 +233,11 @@
 
 [Pub. L. 102–550, title XIV, § 1411][/us/pl/102/550/s1411], Oct. 28, 1992, [106 Stat. 4039][/us/stat/106/4039], provided that:
 
->     “(a) __Use of Available Space at National Guard Facilities.—__ 
+>     “(a)  __Use of Available Space at National Guard Facilities__  __.—__ 
 
 >     The Secretary of Housing and Urban Development shall consult with the chief executive officers of the States and the Secretary of Defense to determine the availability of space at National Guard facilities for use by homeless organizations in providing overnight shelter for homeless persons and families. The Secretary of Housing and Urban Development shall determine the availability of only such space that can be used for shelter purposes during periods it is not actively being used for National Guard purposes. The Secretary of Housing and Urban Development shall also determine the availability of incidental services at such facilities, including utilities, bedding, security, transportation, renovation of facilities, minor repairs undertaken specifically to make available space in a facility suitable for use as an overnight shelter for homeless individuals, and property liability insurance.
 
->     “(b) __Limitations.—__ 
+>     “(b)  __Limitations__  __.—__ 
 
 >     In consultations under this section, the Secretary of Housing and Urban Development shall determine—
 
@@ -245,7 +245,7 @@
 
 >         “(2) whether any available space is suitable for use as an overnight shelter for homeless individuals or can, with minor repairs, be made suitable for that use.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     The Secretary of Housing and Urban Development shall submit to the Congress, not later than the expiration of the 1-year period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], a report regarding the consultations and determinations made by the Secretary under this section. The report shall include any recommendations of the Secretary regarding the need for, and feasibility of, using National Guard facilities for homeless shelters and any recommendations of the Secretary for administrative or legislative action to provide for such use.”
 

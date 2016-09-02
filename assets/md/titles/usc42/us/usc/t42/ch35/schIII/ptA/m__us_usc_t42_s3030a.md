@@ -169,11 +169,11 @@
 
 [Pub. L. 110–19, § 3][/us/pl/110/19/s3], Apr. 23, 2007, [121 Stat. 85][/us/stat/121/85], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The amendments made by section 2 \[amending this section\] shall take effect beginning with fiscal year 2008.
 
->     “(b) __Application Process.—__ 
+>     “(b)  __Application Process__  __.—__ 
 
 >     Effective on the date of enactment of this Act \[Apr. 23, 2007\], the Secretary of Agriculture shall take such actions as will enable State agencies and title VI \[subchapter X of this chapter\] grantees described in section 311 of the Older Americans Act of 1965 ([42 U.S.C. 3030a][/us/usc/t42/s3030a]) to apply during fiscal year 2007 for allotments under such section for fiscal year 2008.”
 

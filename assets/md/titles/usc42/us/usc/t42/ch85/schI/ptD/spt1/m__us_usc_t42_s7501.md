@@ -17,11 +17,11 @@
 
     For the purpose of this part—
 
-    (1) __Reasonable further progress.—__ 
+    (1)  __Reasonable further progress__  __.—__ 
 
     The term “reasonable further progress” means such annual incremental reductions in emissions of the relevant air pollutant as are required by this part or may reasonably be required by the Administrator for the purpose of ensuring attainment of the applicable national ambient air quality standard by the applicable date.
 
-    (2) __Nonattainment area.—__ 
+    (2)  __Nonattainment area__  __.—__ 
 
     The term “nonattainment area” means, for any air pollutant, an area which is designated “nonattainment” with respect to that pollutant within the meaning of [section 7407(d) of this title][/us/usc/t42/s7407/d].
 

@@ -95,7 +95,7 @@
 
 [Pub. L. 108–265, title V, § 502][/us/pl/108/265/s502], June 30, 2004, [118 Stat. 789][/us/stat/118/789], as amended by [Pub. L. 108–447, div. A, title VII, § 788(f)][/us/pl/108/447/s788/f], Dec. 8, 2004, [118 Stat. 2851][/us/stat/118/2851], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this Act \[see Short Title of 2004 Amendment note set out under [section 1751 of this title][/us/usc/t42/s1751]\], this Act and the amendments made by this Act take effect on the date of enactment of this Act \[June 30, 2004\].
 

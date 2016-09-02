@@ -21,11 +21,11 @@
 
 [Pub. L. 99–499, title V, § 514(c)][/us/pl/99/499/s514/c], Oct. 17, 1986, [100 Stat. 1767][/us/stat/100/1767], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[repealing this section and sections 4681 and 4682 of Title 26, Internal Revenue Code\] shall take effect on October 1, 1983.
 
->     “(2) __Waiver of statute of limitations.—__ 
+>     “(2)  __Waiver of statute of limitations__  __.—__ 
 
 >     If on the date of the enactment of this Act \[Oct. 17, 1986\] (or at any time within 1 year after such date of enactment) refund or credit of any overpayment of tax resulting from the application of this section is barred by any law or rule of law, refund or credit of such overpayment shall, nevertheless, be made or allowed if claim therefor is filed before the date 1 year after the date of the enactment of this Act.”
 

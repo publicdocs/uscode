@@ -75,7 +75,7 @@
 
         In this section, the term “approved clinical trial” means a phase I, phase II, phase III, or phase IV clinical trial that is conducted in relation to the prevention, detection, or treatment of cancer or other life-threatening disease or condition and is described in any of the following subparagraphs:
 
-            (A) __Federally funded trials.—__ 
+            (A)  __Federally funded trials__  __.—__ 
 
             The study or investigation is approved or funded (which may include funding through in-kind contributions) by one or more of the following:
 

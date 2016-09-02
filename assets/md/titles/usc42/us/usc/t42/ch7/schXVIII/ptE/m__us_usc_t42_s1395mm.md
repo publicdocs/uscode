@@ -929,15 +929,15 @@
 
 [Pub. L. 99–509, title IX, § 9312(c)(3)][/us/pl/99/509/s9312/c/3], Oct. 21, 1986, [100 Stat. 2000][/us/stat/100/2000], as amended by [Pub. L. 100–203, title IV, § 4018(d)][/us/pl/100/203/s4018/d], Dec. 22, 1987, [101 Stat. 1330–66][/us/stat/101/1330-66]; [Pub. L. 101–239, title VI, § 6212(a)][/us/pl/101/239/s6212/a], Dec. 19, 1989, [103 Stat. 2249][/us/stat/103/2249]; [Pub. L. 103–66, title XIII, § 13569][/us/pl/103/66/s13569], Aug. 10, 1993, [107 Stat. 608][/us/stat/107/608], provided that:
 
->     “(A) __New restriction.—__ 
+>     “(A)  __New restriction__  __.—__ 
 
 >     The amendment made by paragraph (1) \[amending this section\] shall apply to modifications and waivers granted after the date of the enactment of this Act \[Oct. 21, 1986\].
 
->     “(B) __Sanctions for noncompliance.—__ 
+>     “(B)  __Sanctions for noncompliance__  __.—__ 
 
 >     The amendments made by paragraph (2) \[amending this section\] shall take effect on the date of the enactment of this Act.
 
->     “(C) __Treatment of current waivers.—__ 
+>     “(C)  __Treatment of current waivers__  __.—__ 
 
 >     In the case of an eligible organization (or successor organization) that—
 
@@ -947,7 +947,7 @@
 
 >         the organization shall make, and continue to make, reasonable efforts to meet scheduled enrollment goals, consistent with a schedule of compliance approved by the Secretary of Health and Human Services. If the Secretary determines that the organization has complied, or made significant progress towards compliance, with such schedule of compliance, the Secretary may extend such waiver. If the Secretary determines that the organization has not complied with such schedule, the Secretary may provide for a sanction described in section 1876(f)(3) of the Social Security Act \[[42 U.S.C. 1395mm(f)(3)][/us/usc/t42/s1395mm/f/3]\] (as amended by this section) effective with respect to individuals enrolling with the organization after the date the Secretary notifies the organization of such noncompliance.
 
->     “(D) __Treatment of certain waivers.—__ 
+>     “(D)  __Treatment of certain waivers__  __.—__ 
 
 >     In the case of an eligible organization (or successor organization) that is described in clauses (i) and (ii) of subparagraph (C) and that received a grant or grants totaling at least $3,000,000 in fiscal year 1987 under section 329(d)(1)(A) or 330(d)(1) of the Public Health Service Act \[[42 U.S.C. 254b(d)(1)(A)][/us/usc/t42/s254b/d/1/A], 254c(d)(1)\]—
 
@@ -971,15 +971,15 @@
 
 [Pub. L. 99–272, title IX, § 9211(e)][/us/pl/99/272/s9211/e], Apr. 7, 1986, [100 Stat. 179][/us/stat/100/179], provided that:
 
->     “(1) __Financial responsibility.—__ 
+>     “(1)  __Financial responsibility__  __.—__ 
 
 >     The amendments made by subsection (a) \[amending this section\] shall apply to enrollments and disenrollments that become effective on or after the date of the enactment of this Act \[Apr. 7, 1986\].
 
->     “(2) __Disenrollments.—__ 
+>     “(2)  __Disenrollments__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending this section\] shall apply to requests for termination of enrollment submitted on or after May 1, 1986.
 
->     “(3) __Material review.—__ 
+>     “(3)  __Material review__  __.—__ 
 
 >         (A) The amendment made by subsection (c) \[amending this section\] shall not apply to material which has been distributed before July 1, 1986.
 
@@ -987,11 +987,11 @@
 
 >         “(C) Such amendment shall also not apply to material which the Secretary determines has been prepared before the date of the enactment of this Act \[Apr. 7, 1986\] and for which a commitment for distribution has been made, if the application of such amendment would constitute a hardship for the organization involved.
 
->     “(4) __Publication.—__ 
+>     “(4)  __Publication__  __.—__ 
 
 >     The amendment made by subsection (d) \[amending this section\] shall apply to determinations of per capita rates of payment for 1987 and subsequent years.
 
->     “(5) __Necessary modification of contracts.—__ 
+>     “(5)  __Necessary modification of contracts__  __.—__ 
 
 >     The Secretary of Health and Human Services shall provide for such changes in the risk-sharing contracts which have been entered into under section 1876 of the Social Security Act \[[42 U.S.C. 1395mm][/us/usc/t42/s1395mm]\] as may be necessary to conform to the requirements imposed by the amendments made by this section \[amending this section\] on a timely basis.”
 
@@ -1281,7 +1281,7 @@
 
 >         “(3) There are authorized to be appropriated to carry out projects under this subsection $5,000,000 in each of fiscal years 1989 and 1990.
 
->     “(c) __Application of Provisions.—__ 
+>     “(c)  __Application of Provisions__  __.—__ 
 
 >     The provisions of subsection (a)(2) and the first sentence of subsection (b) of section 402 of the Social Security Amendments of 1967 \[[42 U.S.C. 1395b–1(a)(2)][/us/usc/t42/s1395b–1/a/2], (b)\] shall apply to the demonstration projects under this section in the same manner as they apply to experiments under subsection (a)(1) of that section.”
 
@@ -1295,21 +1295,21 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title V, § 532\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–388, as amended by [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VI, § 632(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–566, provided that:
 
->     “(a) __Extension.—__ 
+>     “(a)  __Extension__  __.—__ 
 
 >     Notwithstanding any other provision of law, any demonstration project conducted under section 4079 of the Omnibus Budget Reconciliation Act of 1987 ([Public Law 100–123][/us/pl/100/123] \[[Pub. L. 100–203][/us/pl/100/203]\]; [42 U.S.C. 1395mm][/us/usc/t42/s1395mm] note) and conducted for the additional period of 2 years as provided for under section 4019 of BBA \[[Pub. L. 105–33][/us/pl/105/33], set out as a note below\], shall be conducted for an additional period of 2 years.
 
 >     “(b) __Terms and Conditions.—__ 
 
->         “(1) __January through september 2000.—__ 
+>         “(1)  __January through september 2000__  __.—__ 
 
 >         For the 9-month period beginning with January 2000, any such demonstration project shall be conducted under the same terms and conditions as applied to such demonstration during 1999.
 
->         “(2) __October 2000 through december 2001.—__ 
+>         “(2)  __October 2000 through december 2001__  __.—__ 
 
 >         For the 15-month period beginning with October 2000, any such demonstration project shall be conducted under the same terms and conditions as applied to such demonstration during 1999, except that the following modifications shall apply:
 
->             “(A) __Basic capitation rate.—__ 
+>             “(A)  __Basic capitation rate__  __.—__ 
 
 >             The basic capitation rate paid for services covered under the project (other than case management services) per enrollee per month and furnished during—
 
@@ -1317,7 +1317,7 @@
 
 >                 “(ii) 2001 shall be determined by actuarially adjusting the capitation rate determined under clause (i) for inflation, utilization, and other changes to the CNO service package.
 
->             “(B) __Targeted case management fee.—__ 
+>             “(B)  __Targeted case management fee__  __.—__ 
 
 >             Effective October 1, 2000—
 
@@ -1331,7 +1331,7 @@
 
 >                 “(ii) such case management fee shall be paid only for enrollees who are classified as moderately frail or frail pursuant to criteria established by the Secretary.
 
->             “(C) __Greater uniformity in clinical features among sites.—__ 
+>             “(C)  __Greater uniformity in clinical features among sites__  __.—__ 
 
 >             Each project shall implement for each site—
 
@@ -1349,7 +1349,7 @@
 
 >                 “(iv) standardized patient educational materials for specified diseases and health conditions.
 
->             “(D) __Quality improvement.—__ 
+>             “(D)  __Quality improvement__  __.—__ 
 
 >             Each project shall implement at each site once during the 15-month period—
 
@@ -1359,7 +1359,7 @@
 
 >     “(c) __Evaluation.—__ 
 
->         “(1) __Preliminary report.—__ 
+>         “(1)  __Preliminary report__  __.—__ 
 
 >         Not later than July 1, 2001, the Secretary of Health and Human Services shall submit to the Committees on Ways and Means and Commerce \[now Energy and Commerce\] of the House of Representatives and the Committee on Finance of the Senate a preliminary report that—
 
@@ -1367,11 +1367,11 @@
 
 >             “(B) includes a similar evaluation of such projects for the portion of the extension period that occurs after September 30, 2000.
 
->         “(2) __Final report.—__ 
+>         “(2)  __Final report__  __.—__ 
 
 >         The Secretary shall submit a final report to such Committees on such demonstration projects not later than July 1, 2002. Such report shall include the same elements as the preliminary report required by paragraph (1), but for the period after December 31, 1999.
 
->         “(3) __Methodology for spending comparisons.—__ 
+>         “(3)  __Methodology for spending comparisons__  __.—__ 
 
 >         Any evaluation of the impact of the demonstration projects on per beneficiary spending included in such reports shall include a comparison of—
 
@@ -1397,11 +1397,11 @@
 
 [Pub. L. 100–203, title IV, § 4079][/us/pl/100/203/s4079], Dec. 22, 1987, [101 Stat. 1330–121][/us/stat/101/1330-121], as amended by [Pub. L. 100–360, title IV, § 411(h)(8)][/us/pl/100/360/s411/h/8], July 1, 1988, [102 Stat. 787][/us/stat/102/787], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall enter into an agreement with not less than four eligible organizations submitting applications under this section to conduct demonstration projects to provide payment on a prepaid, capitated basis for community nursing and ambulatory care furnished to any individual entitled to benefits under part A and enrolled under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq.\] (other than an individual medically determined to have end-stage renal disease) who resides in the geographic area served by the organization and enrolls with such organization (in accordance with subsection (c)(2)).
 
->     “(b) __Definitions of Community Nursing and Ambulatory Care and Eligible Organization.—__ 
+>     “(b)  __Definitions of Community Nursing and Ambulatory Care and Eligible Organization__  __.—__ 
 
 >     As used in this section:
 
@@ -1531,11 +1531,11 @@
 
 >         “(5) Section 1876(e)(4) of the Social Security Act \[[42 U.S.C. 1395mm(e)(4)][/us/usc/t42/s1395mm/e/4]\] shall apply to eligible organizations under this section in the same manner as it applies to eligible organizations under section 1876 of such Act.
 
->     “(f) __Commencement and Duration of Projects.—__ 
+>     “(f)  __Commencement and Duration of Projects__  __.—__ 
 
 >     Each demonstration project under this section shall begin not later than July 1, 1989, and shall be conducted for a period of three years.
 
->     “(g) __Report.—__ 
+>     “(g)  __Report__  __.—__ 
 
 >     Not later than January 1, 1992, the Secretary shall submit to the Congress a report on the results of the demonstration projects conducted under this section.”
 

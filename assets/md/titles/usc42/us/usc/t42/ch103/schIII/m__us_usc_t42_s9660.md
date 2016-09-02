@@ -303,11 +303,11 @@
 
 > “SEC. 3. __VOLUNTARY GUIDELINES.__ 
 
->     “(a) __Establishment of Voluntary Guidelines.—__ 
+>     “(a)  __Establishment of Voluntary Guidelines__  __.—__ 
 
 >     Not later than one year after the date of enactment of this Act \[Dec. 21, 2007\], the Administrator of the Environmental Protection Agency (in this Act referred to as the ‘Administrator’), in consultation with the National Institute of Standards and Technology, shall establish voluntary guidelines, based on the best currently available scientific knowledge, for the remediation of former methamphetamine laboratories, including guidelines regarding preliminary site assessment and the remediation of residual contaminants.
 
->     “(b) __Considerations.—__ 
+>     “(b)  __Considerations__  __.—__ 
 
 >     In developing the voluntary guidelines under subsection (a), the Administrator shall consider, at a minimum—
 
@@ -317,11 +317,11 @@
 
 >         “(3) the expected cost of carrying out any proposed guidelines.
 
->     “(c) __States.—__ 
+>     “(c)  __States__  __.—__ 
 
 >     The voluntary guidelines should be designed to assist State and local governments in the development and the implementation of legislation and other policies to apply state-of-the-art knowledge and research results to the remediation of former methamphetamine laboratories. The Administrator shall work with State and local governments and other relevant non-Federal agencies and organizations, including through the conference described in section 5, to promote and encourage the appropriate adoption of the voluntary guidelines.
 
->     “(d) __Updating the Guidelines.—__ 
+>     “(d)  __Updating the Guidelines__  __.—__ 
 
 >     The Administrator shall periodically update the voluntary guidelines as the Administrator, in consultation with States and other interested parties, determines to be necessary and appropriate to incorporate research findings and other new knowledge.
 
@@ -339,17 +339,17 @@
 
 > “SEC. 5. __TECHNOLOGY TRANSFER CONFERENCE.__ 
 
->     “(a) __Conference.—__ 
+>     “(a)  __Conference__  __.—__ 
 
 >     Not later than 90 days after the date of enactment of this Act \[Dec. 21, 2007\], and at least every third year thereafter, the Administrator shall convene a conference of appropriate State agencies, as well as individuals or organizations involved in research and other activities directly related to the environmental, or biological impacts of former methamphetamine laboratories. The conference should be a forum for the Administrator to provide information on the guidelines developed under section 3 and on the latest findings from the research program described in section 4, and for the non-Federal participants to provide information on the problems and needs of States and localities and their experience with guidelines developed under section 3.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 3 months after each conference, the Administrator shall submit a report to the Congress that summarizes the proceedings of the conference, including a summary of any recommendations or concerns raised by the non-Federal participants and how the Administrator intends to respond to them. The report shall also be made widely available to the general public.
 
 > “SEC. 6. __RESIDUAL EFFECTS STUDY.__ 
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     Not later than 6 months after the date of enactment of this Act \[Dec. 21, 2007\], the Administrator shall enter into an arrangement with the National Academy of Sciences for a study of the status and quality of research on the residual effects of methamphetamine laboratories. The study shall identify research gaps and recommend an agenda for the research program described in section 4. The study shall pay particular attention to the need for research on the impacts of methamphetamine laboratories on—
 
@@ -357,7 +357,7 @@
 
 >         “(2) first responders.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 3 months after the completion of the study, the Administrator shall transmit to Congress a report on how the Administrator will use the results of the study to carry out the activities described in sections 3 and 4.
 
@@ -375,11 +375,11 @@
 
 > “SEC. 9. __AUTHORIZATION OF APPROPRIATIONS.__ 
 
->     “(a) __Environmental Protection Agency.—__ 
+>     “(a)  __Environmental Protection Agency__  __.—__ 
 
 >     There are authorized to be appropriated to the Environmental Protection Agency to carry out this Act $1,750,000 for each of the fiscal years 2007 and 2008.
 
->     “(b) __National Institute of Standards and Technology.—__ 
+>     “(b)  __National Institute of Standards and Technology__  __.—__ 
 
 >     There are authorized to be appropriated to the National Institute of Standards and Technology to carry out this Act $750,000 for each of the fiscal years 2007 and 2008.”
 
@@ -387,21 +387,21 @@
 
 [Pub. L. 99–499, title I, § 118][/us/pl/99/499/s118](l), Oct. 17, 1986, [100 Stat. 1660][/us/stat/100/1660], provided that:
 
->     “(1) __Establishment of hazardous substance research, development, and demonstration center.—__ 
+>     “(1)  __Establishment of hazardous substance research, development, and demonstration center__  __.—__ 
 
 >     The Administrator shall establish a hazardous substance research, development, and demonstration center (hereinafter in this subsection referred to as the ‘Center’) for the purpose of conducting research to aid in more effective hazardous substance response and waste management throughout the Gulf Coast.
 
->     “(2) __Purposes of the center.—__ 
+>     “(2)  __Purposes of the center__  __.—__ 
 
 >     The Center shall carry out a program of research, evaluation, testing, development, and demonstration of alternative or innovative technologies which may be utilized in response actions or in normal handling of hazardous wastes to achieve better protection of human health and the environment.
 
->     “(3) __Operation of center.—__ 
+>     “(3)  __Operation of center__  __.—__ 
 
 >         (A) For purposes of operating the Center, the Administrator is authorized to enter into contracts and cooperative agreements with, and make grants to, a university related institute involved with the improvement of waste management. Such institute shall be located in Jefferson County, Texas.
 
 >         “(B) The Center shall be authorized to make grants, accept contributions, and enter into agreements with universities located in the States of Texas, Louisiana, Mississippi, Alabama, and Florida in order to carry out the purposes of the Center.
 
->     “(4) __Authorization of appropriations.—__ 
+>     “(4)  __Authorization of appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to the Administrator for purposes of carrying out this subsection for fiscal years beginning after September 30, 1986, not more than $5,000,000.”
 
@@ -409,35 +409,35 @@
 
 [Pub. L. 99–499, title I, § 118][/us/pl/99/499/s118](o), Oct. 17, 1986, [100 Stat. 1661][/us/stat/100/1661], provided that:
 
->     “(1) __Establishment.—__ 
+>     “(1)  __Establishment__  __.—__ 
 
 >     The Administrator shall establish a hazardous substance research, development, and demonstration center (hereinafter in this subsection referred to as the ‘Center’) for the purpose of conducting research to aid in more effective hazardous substance response in the Pacific Northwest.
 
->     “(2) __Purposes of center.—__ 
+>     “(2)  __Purposes of center__  __.—__ 
 
 >     The Center shall carry out a program of research, evaluation, testing, development, and demonstration of alternative or innovative technologies which may be utilized in response actions to achieve more permanent protection of human health and welfare and the environment.
 
 >     “(3) __Operation of center.—__ 
 
->         “(A) __Nonprofit entity.—__ 
+>         “(A)  __Nonprofit entity__  __.—__ 
 
 >         For the purposes of operating the Center, the Administrator is authorized to enter into contracts and cooperative agreements with, and make grants to, a nonprofit private entity as defined in section 201(i) of Public Law 96-517 \[probably means [section 201(i) of Title 35][/us/usc/t35/s201/i], Patents, which was enacted by [section 6(a) of Pub. L. 96–517][/us/pl/96/517/s6/a], Dec. 12, 1980, [94 Stat. 3020][/us/stat/94/3020]\] which entity shall agree to provide the basic technical and management personnel. Such nonprofit private entity shall also agree to provide at least two permanent research facilities, one of which shall be located in Benton County, Washington, and one of which shall be located in Clallam County, Washington.
 
->         “(B) __Authorities.—__ 
+>         “(B)  __Authorities__  __.—__ 
 
 >         The Center shall be authorized to make grants, accept contributions, and enter into agreements with universities located in the States of Washington, Oregon, Idaho, and Montana in order to carry out the purposes of the Center.
 
 >     “(4) __Hazardous waste research at the hanford site.—__ 
 
->         “(A) __Interagency agreements.—__ 
+>         “(A)  __Interagency agreements__  __.—__ 
 
 >         The Administrator and the Secretary of Energy are authorized to enter into interagency agreements with one another for the purpose of providing for research, evaluation, testing, development, and demonstration into alternative or innovative technologies to characterize and assess the nature and extent of hazardous waste (including radioactive mixed waste) contamination at the Hanford site, in the State of Washington.
 
->         “(B) __Funding.—__ 
+>         “(B)  __Funding__  __.—__ 
 
 >         There is authorized to be appropriated to the Secretary of Energy for purposes of carrying out this paragraph for fiscal years beginning after September 30, 1986, not more than $5,000,000. All sums appropriated under this subparagraph shall be provided to the Administrator by the Secretary of Energy, pursuant to the interagency agreement entered into under subparagraph (A), for the purpose of the Administrator entering into contracts and cooperative agreements with, and making grants to, the Center in order to carry out the research, evaluation, testing, development, and demonstration described in paragraph (1).
 
->     “(5) __Authorization of appropriations.—__ 
+>     “(5)  __Authorization of appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to the Administrator for purposes of carrying out this subsection (other than paragraph (4)) for fiscal years beginning after September 30, 1986, not more than $5,000,000.”
 

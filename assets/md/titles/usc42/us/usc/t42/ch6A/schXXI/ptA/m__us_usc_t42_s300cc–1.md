@@ -79,21 +79,21 @@
 
 >     “(a) __Expansion, Intensification, and Coordination of Research and Other Activities.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Director of NIH shall expand, intensify, and coordinate research and other activities of the National Institutes of Health with respect to the development of reliable and affordable tests for HIV disease that can rapidly be administered and whose results can rapidly be obtained (in this section referred to as ‘rapid HIV test’).
 
->         “(2) __Report to congress.—__ 
+>         “(2)  __Report to congress__  __.—__ 
 
 >         The Director of NIH shall periodically submit to the appropriate committees of Congress a report describing the research and other activities conducted or supported under paragraph (1).
 
->         “(3) __Authorization of appropriations.—__ 
+>         “(3)  __Authorization of appropriations__  __.—__ 
 
 >         For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
 
 >     “(b) __Premarket Review of Rapid HIV Tests.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 90 days after the date of the enactment of this Act \[Oct. 20, 2000\], the Secretary, in consultation with the Director of the Centers for Disease Control and Prevention and the Commissioner of Food and Drugs, shall submit to the appropriate committees of the Congress a report describing the progress made towards, and barriers to, the premarket review and commercial distribution of rapid HIV tests. The report shall—
 
@@ -109,7 +109,7 @@
 
 >                 “(ii) for identifying antibodies to HIV subtypes of rare incidence in the United States to rapid HIV tests intended for use in screening situations other than donor screening.
 
->     “(c) __Guidelines of Centers for Disease Control and Prevention.—__ 
+>     “(c)  __Guidelines of Centers for Disease Control and Prevention__  __.—__ 
 
 >     Promptly after commercial distribution of a rapid HIV test begins, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall establish or update guidelines that include recommendations for States, hospitals, and other appropriate entities regarding the ready availability of such tests for administration to pregnant women who are in labor or in the late stage of pregnancy and whose HIV status is not known to the attending obstetrician.”
 
@@ -123,19 +123,19 @@
 
 [Pub. L. 103–43, title XIX, § 1901(b)][/us/pl/103/43/s1901/b], June 10, 1993, [107 Stat. 200][/us/stat/107/200], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Health and Human Services, acting through the National Institutes of Health, shall develop a plan for the appropriate inclusion of HIV-infected women, including pregnant women, HIV-infected infants, and HIV-infected children in studies conducted by or through the National Institutes of Health concerning the safety and efficacy of HIV vaccines for the treatment and prevention of HIV infection. Such plan shall ensure the full participation of other Federal agencies currently conducting HIV vaccine studies and require that such studies conform fully to the requirements of part 46 of title 45, Code of Federal Regulations.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[June 10, 1993\], the Secretary of Health and Human Services shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate, a report concerning the plan developed under paragraph (1).
 
->     “(3) __Implementation.—__ 
+>     “(3)  __Implementation__  __.—__ 
 
 >     Not later than 12 months after the date of the enactment of this Act, the Secretary of Health and Human Services shall implement the plan developed under paragraph (1), including measures for the full participation of other Federal agencies currently conducting HIV vaccine studies.
 
->     “(4) __Authorization of appropriations.—__ 
+>     “(4)  __Authorization of appropriations__  __.—__ 
 
 >     For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1994 through 1996.”
 

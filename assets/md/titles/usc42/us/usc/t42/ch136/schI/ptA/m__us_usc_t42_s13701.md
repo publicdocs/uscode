@@ -63,11 +63,11 @@
 
 [Pub. L. 109–162, § 1][/us/pl/109/162/s1], Jan. 5, 2006, [119 Stat. 2960][/us/stat/119/2960], as amended [Pub. L. 109–271, § 1(a)][/us/pl/109/271/s1/a], Aug. 12, 2006, [120 Stat. 750][/us/stat/120/750], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     This Act \[see Tables for classification\] may be cited as the ‘Violence Against Women and Department of Justice Reauthorization Act of 2005’.
 
->     “(b) __Separate Short Titles.—__ 
+>     “(b)  __Separate Short Titles__  __.—__ 
 
 >     Section 3 and titles I through IX of this Act \[see Tables for classification\] may be cited as the ‘Violence Against Women Reauthorization Act of 2005’. Title XI of this Act \[see Tables for classification\] may be cited as the ‘Department of Justice Appropriations Authorization Act of 2005’.”
 

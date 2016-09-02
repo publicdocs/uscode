@@ -39,17 +39,17 @@
 
 [Pub. L. 111–148, title X, § 10408][/us/pl/111/148/s10408], Mar. 23, 2010, [124 Stat. 977][/us/stat/124/977], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary shall award grants to eligible employers to provide their employees with access to comprehensive workplace wellness programs (as described under subsection (c)).
 
 >     “(b) __Scope.—__ 
 
->         “(1) __Duration.—__ 
+>         “(1)  __Duration__  __.—__ 
 
 >         The grant program established under this section shall be conducted for a 5-year period.
 
->         “(2) __Eligible employer.—__ 
+>         “(2)  __Eligible employer__  __.—__ 
 
 >         The term ‘eligible employer’ means an employer (including a non-profit employer) that—
 
@@ -59,11 +59,11 @@
 
 >     “(c) __Comprehensive Workplace Wellness Programs.—__ 
 
->         “(1) __Criteria.—__ 
+>         “(1)  __Criteria__  __.—__ 
 
 >         The Secretary shall develop program criteria for comprehensive workplace wellness programs under this section that are based on and consistent with evidence-based research and best practices, including research and practices as provided in the Guide to Community Preventive Services, the Guide to Clinical Preventive Services, and the National Registry for Effective Programs.
 
->         “(2) __Requirements.—__ 
+>         “(2)  __Requirements__  __.—__ 
 
 >         A comprehensive workplace wellness program shall be made available by an eligible employer to all employees and include the following components:
 
@@ -75,11 +75,11 @@
 
 >             “(D) Supportive environment efforts (including workplace policies to encourage healthy lifestyles, healthy eating, increased physical activity, and improved mental health).
 
->     “(d) __Application.—__ 
+>     “(d)  __Application__  __.—__ 
 
 >     An eligible employer desiring to participate in the grant program under this section shall submit an application to the Secretary, in such manner and containing such information as the Secretary may require, which shall include a proposal for a comprehensive workplace wellness program that meet \[sic\] the criteria and requirements described under subsection (c).
 
->     “(e) __Authorization of Appropriation.—__ 
+>     “(e)  __Authorization of Appropriation__  __.—__ 
 
 >     For purposes of carrying out the grant program under this section, there is authorized to be appropriated $200,000,000 for the period of fiscal years 2011 through 2015. Amounts appropriated pursuant to this subsection shall remain available until expended.”
 

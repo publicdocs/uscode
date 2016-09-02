@@ -1283,7 +1283,7 @@
 
 [Pub. L. 109–171, title VI, § 6001(c)(3)][/us/pl/109/171/s6001/c/3], Feb. 8, 2006, [120 Stat. 55][/us/stat/120/55], provided that:
 
->     “(A) __Inspector general recommendations.—__ 
+>     “(A)  __Inspector general recommendations__  __.—__ 
 
 >     Not later than June 1, 2006, the Inspector General of the Department of Health and Human Services shall—
 
@@ -1291,7 +1291,7 @@
 
 >         “(ii) shall submit to the Secretary of Health and Human Services and Congress such recommendations for changes in such requirements or manner as the Inspector General determines to be appropriate.
 
->     “(B) __Deadline for promulgation.—__ 
+>     “(B)  __Deadline for promulgation__  __.—__ 
 
 >     Not later than July 1, 2007, the Secretary of Health and Human Services shall promulgate a regulation that clarifies the requirements for, and manner in which, average manufacturer prices are determined under section 1927 of the Social Security Act, taking into consideration the recommendations submitted to the Secretary in accordance with subparagraph (A)(ii).”
 
@@ -1299,7 +1299,7 @@
 
 [Pub. L. 110–275, title II, § 203][/us/pl/110/275/s203], July 15, 2008, [122 Stat. 2592][/us/stat/122/2592], provided that:
 
->     “(a) __Delay in Application of New Payment Limit for Multiple Source Drugs Under Medicaid.—__ 
+>     “(a)  __Delay in Application of New Payment Limit for Multiple Source Drugs Under Medicaid__  __.—__ 
 
 >     Notwithstanding paragraphs (4) and (5) of subsection (e) of section 1927 of the Social Security Act ([42 U.S.C. 1396r–8][/us/usc/t42/s1396r–8]) or part 447 of title 42, Code of Federal Regulations, as published on July 17, 2007 (72 Federal Register 39142)—
 
@@ -1307,11 +1307,11 @@
 
 >         “(2) the Secretary of Health and Human Services shall not, prior to October 1, 2009, finalize, implement, enforce, or otherwise take any action (through promulgation of regulation, issuance of regulatory guidance, use of Federal payment audit procedures, or other administrative action, policy, or practice, including a Medical Assistance Manual transmittal or letter to State Medicaid directors) to impose the specific upper limit established under section 447.514(b) of title 42, Code of Federal Regulations as published on July 17, 2007 (72 Federal Register 39142).
 
->     “(b) __Temporary Suspension of Updated Publicly Available AMP Data.—__ 
+>     “(b)  __Temporary Suspension of Updated Publicly Available AMP Data__  __.—__ 
 
 >     Notwithstanding clause (v) of section 1927(b)(3)(D) of the Social Security Act ([42 U.S.C. 1396r–8(b)(3)(D)][/us/usc/t42/s1396r–8/b/3/D]), the Secretary of Health and Human Services shall not, prior to October 1, 2009, make publicly available any AMP disclosed to the Secretary.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this subsection:
 

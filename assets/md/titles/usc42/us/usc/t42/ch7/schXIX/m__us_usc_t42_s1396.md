@@ -305,15 +305,15 @@
 
 [Pub. L. 111–3, § 3][/us/pl/111/3/s3], Feb. 4, 2009, [123 Stat. 10][/us/stat/123/10], provided that:
 
->     “(a) __General Effective Date.—__ 
+>     “(a)  __General Effective Date__  __.—__ 
 
 >     Unless otherwise provided in this Act \[enacting this section and sections 247d–9, 1320b–9a, 1396e–1, 1396w–2, and 1397kk to 1397mm of this title and [section 657p of Title 15][/us/usc/t15/s657p], Commerce and Trade, transferring former [section 1396 of this title][/us/usc/t42/s1396] to [section 1396–1 of this title][/us/usc/t42/s1396–1], amending sections 300gg, 1308, 1320b–9, 1320b–9a, 1396a, 1396b, 1396r–1, 1396r–4, 1396u–7, 1397bb to 1397ee, and 1397gg to 1397jj of this title, [section 1514 of Title 19][/us/usc/t19/s1514], Customs Duties, sections 5701 to 5703, 5712, 5713, 5721 to 5723, 5741, 6103, and 9801 of Title 26, Internal Revenue Code, and sections 1022, 1132, and 1181 of Title 29, Labor, enacting provisions set out as notes under this section and sections 1305, 1396a, 1396b, 1396d, 1396u–7, 1396u–8, 1396w–2, 1397bb to 1397ee, 1397gg, and 1397hh of this title, [section 1514 of Title 19][/us/usc/t19/s1514], sections 5701 to 5703, 5711, 5712, 6103, and 6655 of Title 26, and [section 1181 of Title 29][/us/usc/t29/s1181], amending provisions set out as a note under [section 1397gg of this title][/us/usc/t42/s1397gg], and repealing provisions set out as notes under sections 1397aa and 1397ee of this title\], subject to subsections (b) through (d), this Act (and the amendments made by this Act) shall take effect on April 1, 2009, and shall apply to child health assistance and medical assistance provided on or after that date.
 
->     “(b) __Exception for State Legislation.—__ 
+>     “(b)  __Exception for State Legislation__  __.—__ 
 
 >     In the case of a State plan under title XIX \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] or State child health plan under \[title\] XXI \[[42 U.S.C. 1397aa][/us/usc/t42/s1397aa] et seq.\] of the Social Security Act, which the Secretary of Health and Human Services determines requires State legislation in order for the respective plan to meet one or more additional requirements imposed by amendments made by this Act, the respective plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet such an additional requirement before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Feb. 4, 2009\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session shall be considered to be a separate regular session of the State legislature.
 
->     “(c) __Coordination of CHIP Funding for Fiscal Year 2009.—__ 
+>     “(c)  __Coordination of CHIP Funding for Fiscal Year__  __2009.—__ 
 
 >     Notwithstanding any other provision of law, insofar as funds have been appropriated under section 2104(a)(11), 2104(k), or 2104(l) of the Social Security Act \[[42 U.S.C. 1397dd(a)(11)][/us/usc/t42/s1397dd/a/11], (k), (l)\], as amended by [section 201 of Public Law 110–173][/us/pl/110/173/s201], to provide allotments to States under CHIP for fiscal year 2009—
 
@@ -321,7 +321,7 @@
 
 >         “(2) any amount provided for CHIP allotments to a State under this Act (and the amendments made by this Act) for such fiscal year shall be reduced by the amount of such appropriations so allotted and obligated before such date.
 
->     “(d) __Reliance on Law.—__ 
+>     “(d)  __Reliance on Law__  __.—__ 
 
 >     With respect to amendments made by this Act (other than title VII) \[enacting this section and sections 1320b–9a, 1396e–1, 1396w–2, and 1397kk to 1397mm of this title, amending sections 300gg, 1308, 1320b–9, 1320b–9a, 1396a, 1396b, 1396r–1, 1396r–4, 1396u–7, 1397bb to 1397ee, and 1397gg to 1397jj of this title, [section 9801 of Title 26][/us/usc/t26/s9801], Internal Revenue Code, and sections 1022, 1132, and 1181 of Title 29, Labor, amending provisions set out as a note under [section 1397gg of this title][/us/usc/t42/s1397gg], and repealing provisions set out as notes under sections 1397aa and 1397ee of this title\] that become effective as of a date—
 
@@ -339,11 +339,11 @@
 
 [Pub. L. 111–3, title II, § 213][/us/pl/111/3/s213], Feb. 4, 2009, [123 Stat. 56][/us/stat/123/56], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In order to assure continuity of coverage of low-income children under the Medicaid program and the State Children’s Health Insurance Program (CHIP), not later than 18 months after the date of the enactment of this Act \[Feb. 4, 2009\], the Secretary of Health and Human Services, in consultation with State Medicaid and CHIP directors and organizations representing program beneficiaries, shall develop a model process for the coordination of the enrollment, retention, and coverage under such programs of children who, because of migration of families, emergency evacuations, natural or other disasters, public health emergencies, educational needs, or otherwise, frequently change their State of residency or otherwise are temporarily located outside of the State of their residency.
 
->     “(b) __Report to Congress.—__ 
+>     “(b)  __Report to Congress__  __.—__ 
 
 >     After development of such model process, the Secretary of Health and Human Services shall submit to Congress a report describing additional steps or authority needed to make further improvements to coordinate the enrollment, retention, and coverage under CHIP and Medicaid of children described in subsection (a).”
 
@@ -385,11 +385,11 @@
 
 >     The term ‘CHIP’ means the State Children’s Health Insurance Program established under title XXI of the Social Security Act ([42 U.S.C. 1397aa][/us/usc/t42/s1397aa] et seq.).
 
->     “(2) __Medicaid.—__ 
+>     “(2)  __Medicaid__  __.—__ 
 
 >     The term ‘Medicaid’ means the program for medical assistance established under title XIX of the Social Security Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.).
 
->     “(3) __Secretary.—__ 
+>     “(3)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of Health and Human Services.”
 

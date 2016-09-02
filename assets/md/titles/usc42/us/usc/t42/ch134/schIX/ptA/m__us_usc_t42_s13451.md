@@ -79,7 +79,7 @@
 
 [Pub. L. 102–486, title I, § 172][/us/pl/102/486/s172], Oct. 24, 1992, [106 Stat. 2865][/us/stat/106/2865], as amended by [Pub. L. 109–58, title II, § 206(b)][/us/pl/109/58/s206/b], Aug. 8, 2005, [119 Stat. 655][/us/stat/119/655], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary, in consultation with appropriate industry organizations, shall conduct a study to—
 
@@ -93,7 +93,7 @@
 
 >         “(5) evaluate the use of renewable energy systems (as such term is defined in section 415(c) of the Energy Conservation and Production Act ([42 U.S.C. 6865(c)][/us/usc/t42/s6865/c])) in residential buildings.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 2 years after the date of the enactment of the Energy Policy Act of 2005 \[Aug. 8, 2005\], the Secretary shall transmit to the Congress a report containing the findings, conclusions and recommendations, if any, of the Secretary for carrying out Federal, State, and local programs as a result of the study conducted under subsection (a).”
 
@@ -101,11 +101,11 @@
 
 [Pub. L. 102–486, title I, § 173][/us/pl/102/486/s173], Oct. 24, 1992, [106 Stat. 2865][/us/stat/106/2865], as amended by [Pub. L. 105–362, title IV, § 401(c)][/us/pl/105/362/s401/c], Nov. 10, 1998, [112 Stat. 3282][/us/stat/112/3282], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary shall, in consultation with the appropriate industry representatives, conduct a study to assess the cost-effectiveness, technical performance, energy efficiency, and environmental impacts of active noise and vibration cancellation technologies that use fast adapting algorithms.
 
->     “(b) __Procedure.—__ 
+>     “(b)  __Procedure__  __.—__ 
 
 >     In carrying out such study, the Secretary shall—
 
@@ -113,7 +113,7 @@
 
 >         “(2) evaluate the cost-effectiveness of active noise and vibration cancellation technologies as compared to other alternatives for reducing noise and vibration.
 
->     “(c) __Demonstration.—__ 
+>     “(c)  __Demonstration__  __.—__ 
 
 >     The Secretary may, based on the findings and conclusions of the study carried out under this section, conduct at least one project designed to demonstrate the commercial application of active noise and vibration cancellation technologies using fast adapting algorithms in products or equipment with a significant potential for increased energy efficiency.”
 

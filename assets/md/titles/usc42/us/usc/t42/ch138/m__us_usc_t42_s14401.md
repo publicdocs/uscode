@@ -41,11 +41,11 @@
 
 [Pub. L. 105–12, § 11][/us/pl/105/12/s11], Apr. 30, 1997, [111 Stat. 29][/us/stat/111/29], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The provisions of this Act \[see Short Title note below\] (and the amendments made by this Act) take effect upon its enactment \[Apr. 30, 1997\] and apply, subject to subsection (b), to Federal payments made pursuant to obligations incurred after the date of the enactment of this Act for items and services provided on or after such date.
 
->     “(b) __Application to Contracts.—__ 
+>     “(b)  __Application to Contracts__  __.—__ 
 
 >     Such provisions shall apply with respect to contracts entered into, renewed, or extended after the date of the enactment of this Act \[Apr. 30, 1997\] and shall also apply to a contract entered into before such date to the extent permitted under such contract.”
 

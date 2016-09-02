@@ -161,17 +161,17 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __General rule.—__ 
+>         “(1)  __General rule__  __.—__ 
 
 >         Except as provided in paragraph (2), sections 101, 102, and 104(d) (other than paragraph (7)) of the Medicare Catastrophic Coverage Act of 1988 ([Public Law 100–360][/us/pl/100/360]) \[amending this section and sections 1395c, 1395d, 1395f, 1395k, 1395x, 1395cc, and 1395tt of this title\] (in this Act referred to as ‘MCCA’) are repealed, and the provisions of law amended or repealed by such sections are restored or revived as if such section had not been enacted.
 
->         “(2) __Exception for blood deduction.—__ 
+>         “(2)  __Exception for blood deduction__  __.—__ 
 
 >         The repeal of section 102(1) of MCCA \[amending this section\] (relating to deductibles and coinsurance under part A) shall not apply, but only insofar as such section amended paragraph (2) of section 1813(a) of the Social Security Act \[[42 U.S.C. 1395e(a)(2)][/us/usc/t42/s1395e/a/2]\] (relating to a deduction for blood).
 
 >     “(b) __Transition Provisions for Medicare Beneficiaries.—__ 
 
->         “(1) __Inpatient hospital services and post-hospital extended care services.—__ 
+>         “(1)  __Inpatient hospital services and post-hospital extended care services__  __.—__ 
 
 >         In applying sections 1812 and 1813 of the Social Security Act \[[42 U.S.C. 1395d][/us/usc/t42/s1395d], 1395e\], as restored by subsection (a)(1), with respect to inpatient hospital services and extended care services provided on or after January 1, 1990—
 
@@ -191,7 +191,7 @@
 
 >                 “(iii) in the case of a spell of illness of an individual that began before January 1, 1990.
 
->         “(2) __Hospice care.—__ 
+>         “(2)  __Hospice care__  __.—__ 
 
 >         The restoration of section 1812(a)(4) of the Social Security Act \[[42 U.S.C. 1395d(a)(4)][/us/usc/t42/s1395d/a/4]\], effected by subsection (a)(1), shall not apply to hospice care provided during the subsequent period (described in such section as in effect on December 31, 1989) with respect to which an election has been made before January 1, 1990.”
 

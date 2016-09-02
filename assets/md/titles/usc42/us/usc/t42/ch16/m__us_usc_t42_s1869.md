@@ -47,7 +47,7 @@
 
 [Pub. L. 111–358, title V, § 510(a)][/us/pl/111/358/s510/a], (b), Jan. 4, 2011, [124 Stat. 4010][/us/stat/124/4010], provided that:
 
->     “(a) __Finding.—__ 
+>     “(a)  __Finding__  __.—__ 
 
 >     The Congress finds that—
 
@@ -55,7 +55,7 @@
 
 >         “(2) the Integrative Graduate Education and Research Traineeship program is no less valuable to the preparation and support of graduate students than the Foundation’s Graduate Research Fellowship program.
 
->     “(b) __Equal Treatment of IGERT and GRF.—__ 
+>     “(b)  __Equal Treatment of IGERT and GRF__  __.—__ 
 
 >     Beginning in fiscal year 2011, the Director shall increase or, if necessary, decrease funding for the Foundation’s Integrative Graduate Education and Research Traineeship program (or any program by which it is replaced) at least at the same rate as it increases or decreases funding for the Graduate Research Fellowship program.”
 

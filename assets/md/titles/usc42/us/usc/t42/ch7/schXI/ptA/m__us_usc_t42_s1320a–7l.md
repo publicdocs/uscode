@@ -229,19 +229,19 @@
 
 [Pub. L. 108–173, title III, § 307][/us/pl/108/173/s307], Dec. 8, 2003, [117 Stat. 2257][/us/stat/117/2257], provided that:
 
->     “(a) __Authority To Conduct Program.—__ 
+>     “(a)  __Authority To Conduct Program__  __.—__ 
 
 >     The Secretary \[of Health and Human Services\], in consultation with the Attorney General, shall establish a pilot program to identify efficient, effective, and economical procedures for long term care facilities or providers to conduct background checks on prospective direct patient access employees.
 
 >     “(b) __Requirements.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Under the pilot program, a long-term care facility or provider in a participating State, prior to employing a direct patient access employee that is first hired on or after the commencement date of the pilot program in the State, shall conduct a background check on the employee in accordance with such procedures as the participating State shall establish.
 
 >         “(2) __Procedures.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The procedures established by a participating State under paragraph (1) should be designed to—
 
@@ -263,51 +263,51 @@
 
 >                 “(iv) permit the facility or provider to obtain State and national criminal history background checks on the prospective employee through a 10-fingerprint check that utilizes State criminal records and the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation.
 
->             “(B) __Elimination of unnecessary checks.—__ 
+>             “(B)  __Elimination of unnecessary checks__  __.—__ 
 
 >             The procedures established by a participating State under paragraph (1) shall permit a long-term care facility or provider to terminate the background check at any stage at which the facility or provider obtains disqualifying information regarding a prospective direct patient access employee.
 
 >         “(3) __Prohibition on hiring of abusive workers.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             A long-term care facility or provider may not knowingly employ any direct patient access employee who has any disqualifying information.
 
 >             “(B) __Provisional employment.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Under the pilot program, a participating State may permit a long-term care facility or provider to provide for a provisional period of employment for a direct patient access employee pending completion of a background check, subject to such supervision during the employee’s provisional period of employment as the participating State determines appropriate.
 
->                 “(ii) __Special consideration for certain facilities and providers.—__ 
+>                 “(ii)  __Special consideration for certain facilities and providers__  __.—__ 
 
 >                 In determining what constitutes appropriate supervision of a provisional employee, a participating State shall take into account cost or other burdens that would be imposed on small rural long-term care facilities or providers, as well as the nature of care delivered by such facilities or providers that are home health agencies or providers of hospice care.
 
 >         “(4) __Use of information; immunity from liability.—__ 
 
->             “(A) __Use of information.—__ 
+>             “(A)  __Use of information__  __.—__ 
 
 >             A participating State shall ensure that a long-term care facility or provider that obtains information about a direct patient access employee pursuant to a background check uses such information only for the purpose of determining the suitability of the employee for employment.
 
->             “(B) __Immunity from liability.—__ 
+>             “(B)  __Immunity from liability__  __.—__ 
 
 >             A participating State shall ensure that a long-term care facility or provider that, in denying employment for an individual selected for hire as a direct patient access employee (including during any period of provisional employment), reasonably relies upon information obtained through a background check of the individual, shall not be liable in any action brought by the individual based on the employment determination resulting from the information.
 
->         “(5) __Agreements with employment agencies.—__ 
+>         “(5)  __Agreements with employment agencies__  __.—__ 
 
 >         A participating State may establish procedures for facilitating the conduct of background checks on prospective direct patient access employees that are hired by a long-term care facility or provider through an employment agency (including a temporary employment agency).
 
->         “(6) __Penalties.—__ 
+>         “(6)  __Penalties__  __.—__ 
 
 >         A participating State may impose such penalties as the State determines appropriate to enforce the requirements of the pilot program conducted in that State.
 
 >     “(c) __Participating States.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall enter into agreements with not more than 10 States to conduct the pilot program under this section in such States.
 
->         “(2) __Requirements for states.—__ 
+>         “(2)  __Requirements for states__  __.—__ 
 
 >         An agreement entered into under paragraph (1) shall require that a participating State—
 
@@ -327,13 +327,13 @@
 
 >         “(3) __Application and selection criteria.—__ 
 
->             “(A) __Application.—__ 
+>             “(A)  __Application__  __.—__ 
 
 >             A State seeking to participate in the pilot program established under this section, shall submit an application to the Secretary containing such information and at such time as the Secretary may specify.
 
 >             “(B) __Selection criteria.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 In selecting States to participate in the pilot program, the Secretary shall establish criteria to ensure—
 
@@ -345,7 +345,7 @@
 
 >                          “(IV) the evaluation of a variety of penalties (monetary and otherwise) used by participating States to enforce the requirements of the pilot program in such States.
 
->                 “(ii) __Additional criteria.—__ 
+>                 “(ii)  __Additional criteria__  __.—__ 
 
 >                 The Secretary shall, to the greatest extent practicable, select States to participate in the pilot program in accordance with the following:
 
@@ -355,11 +355,11 @@
 
 >                          “(III) At least one participating State should include patient abuse prevention training (including behavior training and interventions) for managers and employees of long-term care facilities and providers as part of the pilot program conducted in that State.
 
->                 “(iii) __Inclusion of states with existing programs.—__ 
+>                 “(iii)  __Inclusion of states with existing programs__  __.—__ 
 
 >                 Nothing in this section shall be construed as prohibiting any State which, as of the date of the enactment of this Act \[Dec. 8, 2003\], has procedures for conducting background checks on behalf of any entity described in subsection (g)(5) from being selected to participate in the pilot program conducted under this section.
 
->     “(d) __Payments.—__ 
+>     “(d)  __Payments__  __.—__ 
 
 >     Of the amounts made available under subsection (f) to conduct the pilot program under this section, the Secretary shall—
 
@@ -367,7 +367,7 @@
 
 >         “(2) reserve up to 4 percent of such amounts to conduct the evaluation required under subsection (e).
 
->     “(e) __Evaluation.—__ 
+>     “(e)  __Evaluation__  __.—__ 
 
 >     The Secretary, in consultation with the Attorney General, shall conduct by grant, contract, or interagency agreement an evaluation of the pilot program conducted under this section. Such evaluation shall—
 
@@ -387,15 +387,15 @@
 
 >         “(8) recommend appropriate procedures and payment mechanisms for implementing a national criminal background check program for such facilities and providers.
 
->     “(f) __Funding.—__ 
+>     “(f)  __Funding__  __.—__ 
 
 >     Out of any funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary to carry out the pilot program under this section for the period of fiscal years 2004 through 2007, $25,000,000.
 
->     “(g) __Definitions.—__ 
+>     “(g)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Conviction for a relevant crime.—__ 
+>         “(1)  __Conviction for a relevant crime__  __.—__ 
 
 >         The term ‘conviction for a relevant crime’ means any Federal or State criminal conviction for—
 
@@ -403,11 +403,11 @@
 
 >             “(B) such other types of offenses as a participating State may specify for purposes of conducting the pilot program in such State.
 
->         “(2) __Disqualifying information.—__ 
+>         “(2)  __Disqualifying information__  __.—__ 
 
 >         The term ‘disqualifying information’ means a conviction for a relevant crime or a finding of patient or resident abuse.
 
->         “(3) __Finding of patient or resident abuse.—__ 
+>         “(3)  __Finding of patient or resident abuse__  __.—__ 
 
 >         The term ‘finding of patient or resident abuse’ means any substantiated finding by a State agency under section 1819(g)(1)(C) or 1919(g)(1)(C) of the Social Security Act ([42 U.S.C. 1395i–3(g)(1)(C)][/us/usc/t42/s1395i–3/g/1/C], 1396r(g)(1)(C)) or a Federal agency that a direct patient access employee has committed—
 
@@ -415,13 +415,13 @@
 
 >             “(B) such other types of acts as a participating State may specify for purposes of conducting the pilot program in such State.
 
->         “(4) __Direct patient access employee.—__ 
+>         “(4)  __Direct patient access employee__  __.—__ 
 
 >         The term ‘direct patient access employee’ means any individual (other than a volunteer) that has access to a patient or resident of a long-term care facility or provider through employment or through a contract with such facility or provider, as determined by a participating State for purposes of conducting the pilot program in such State.
 
 >         “(5) __Long-term care facility or provider.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The term ‘long-term care facility or provider’ means the following facilities or providers which receive payment for services under title XVIII or XIX of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq., 1396 et seq.\]:
 
@@ -441,11 +441,11 @@
 
 >                 “(viii) An intermediate care facility for the mentally retarded (as defined in section 1905(d) of such Act) \[(\][42 U.S.C. 1396d(d)][/us/usc/t42/s1396d/d]).
 
->             “(B) __Additional facilities or providers.—__ 
+>             “(B)  __Additional facilities or providers__  __.—__ 
 
 >             During the first year in which a pilot program under this section is conducted in a participating State, the State may expand the list of facilities or providers under subparagraph (A) (on a phased-in basis or otherwise) to include such other facilities or providers of long-term care services under such titles as the participating State determines appropriate.
 
->             “(C) __Exceptions.—__ 
+>             “(C)  __Exceptions__  __.—__ 
 
 >             Such term does not include—
 
@@ -453,7 +453,7 @@
 
 >                 “(ii) any such arrangement that is obtained by a patient or resident functioning as an employer.
 
->         “(6) __Participating state.—__ 
+>         “(6)  __Participating state__  __.—__ 
 
 >         The term ‘participating State’ means a State with an agreement under subsection (c)(1).”
 

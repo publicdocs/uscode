@@ -21,7 +21,7 @@
 
     (b) __Other existing housing programs__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary is authorized to enter into annual contributions contracts with public housing agencies pursuant to which such agencies may enter into contracts to make assistance payments to owners of existing dwelling units in accordance with this section. In areas where no public housing agency has been organized or where the Secretary determines that a public housing agency is unable to implement the provisions of this section, the Secretary is authorized to enter into such contracts and to perform the other functions assigned to a public housing agency by this section.
 
@@ -107,11 +107,11 @@
 
         (4) A public housing agency that serves more than one unit of general local government may, at the discretion of the agency, in allocating assistance under this section, give priority to disabled families that are not elderly families.
 
-        (5) __Calculation of limit.—__ 
+        (5)  __Calculation of limit__  __.—__ 
 
         Any contract entered into under section 514 of the Multifamily Assisted Housing Reform and Affordability Act of 1997 shall be excluded in computing the limit on project-based assistance under this subsection.
 
-        (6) __Treatment of common areas.—__ 
+        (6)  __Treatment of common areas__  __.—__ 
 
         The Secretary may not provide any assistance amounts pursuant to an existing contract for project-based assistance under this section for a housing project and may not enter into a new or renewal contract for such assistance for a project unless the owner of the project provides consent, to such local law enforcement agencies as the Secretary determines appropriate, for law enforcement officers of such agencies to enter common areas of the project at any time and without advance notice upon a determination of probable cause by such officers that criminal activity is taking place in such areas.
 
@@ -637,7 +637,7 @@
 
     (r) __Portability__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
             (A) Any family receiving tenant-based assistance under subsection (o) of this section may receive such assistance to rent an eligible dwelling unit if the dwelling unit to which the family moves is within any area in which a program is being administered under this section.
 
@@ -653,7 +653,7 @@
 
         (4) The provisions of this subsection may not be construed to restrict any authority of the Secretary under any other provision of law to provide for the portability of assistance under this section.
 
-        (5) __Lease violations.—__ 
+        (5)  __Lease violations__  __.—__ 
 
         A family may not receive a voucher from a public housing agency and move to another jurisdiction under the tenant-based assistance program if the family has moved out of the assisted dwelling unit of the family in violation of a lease, except that a family may receive a voucher from a public housing agency and move to another jurisdiction under the tenant-based assistance program if the family has complied with all other obligations of the section 8 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\] program and has moved out of the assisted dwelling unit in order to protect the health or safety of an individual who is or has been the victim of domestic violence, dating violence, or stalking and who reasonably believed he or she was imminently threatened by harm from further violence if he or she remained in the assisted dwelling unit.
 
@@ -1701,15 +1701,15 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 [Pub. L. 105–276, title V, § 559][/us/pl/105/276/s559], Oct. 21, 1998, [112 Stat. 2615][/us/stat/112/2615], provided that:
 
->     “(a) __Interim Regulations.—__ 
+>     “(a)  __Interim Regulations__  __.—__ 
 
 >     The Secretary of Housing and Urban Development shall issue such interim regulations as may be necessary to implement the amendments made by this subtitle \[subtitle C (§§ 545–559) of title V of [Pub. L. 105–276][/us/pl/105/276], see Tables for classification\] and other provisions in this title \[see Tables for classification\] which relate to section 8(o) of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f](o)\].
 
->     “(b) __Final Regulations.—__ 
+>     “(b)  __Final Regulations__  __.—__ 
 
 >     The Secretary shall issue final regulations necessary to implement the amendments made by this subtitle and other provisions in this title which relate to section 8(o) of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f](o)\] not later then 1 year after the date of the enactment of this Act \[Oct. 21, 1998\].
 
->     “(c) __Factors For Consideration.—__ 
+>     “(c)  __Factors For Consideration__  __.—__ 
 
 >     Before the publication of the final regulations under subsection (b), in addition to public comments invited in connection with the publication of the interim rule, the Secretary shall—
 
@@ -1729,15 +1729,15 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >     “(d) __Conversion Assistance.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary may provide for the conversion of assistance under the certificate and voucher programs under subsections (b) and (o) of section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f(b)][/us/usc/t42/s1437f/b], (o)\], as in effect before the applicability of the amendments made by this subtitle, to the voucher program established by the amendments made by this subtitle.
 
->         “(2) __Continued applicability.—__ 
+>         “(2)  __Continued applicability__  __.—__ 
 
 >         The Secretary may apply the provisions of the United States Housing Act of 1937 \[[42 U.S.C. 1437][/us/usc/t42/s1437] et seq.\], or any other provision of law amended by this subtitle, as those provisions were in effect immediately before the date of the enactment of this Act \[Oct. 21, 1998\] (except that such provisions shall be subject to any amendments to such provisions that may be contained in title II of this Act \[see Tables for classification\]), to assistance obligated by the Secretary before October 1, 1999, for the certificate or voucher program under section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\], if the Secretary determines that such action is necessary for simplification of program administration, avoidance of hardship, or other good cause.
 
->     “(e) __Effective Date.—__ 
+>     “(e)  __Effective Date__  __.—__ 
 
 >     This section shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].”
 
@@ -1767,7 +1767,7 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 [Pub. L. 110–289, div. A, title VI, § 1603][/us/pl/110/289/s1603], July 30, 2008, [122 Stat. 2825][/us/stat/122/2825], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Secretary may, at the request of an owner of a multifamily housing project that exceeds 5,000 units to which a contract for project-based rental assistance under section 8 of the United States Housing Act of 1937 (‘Act’) ([42 U.S.C. 1437f][/us/usc/t42/s1437f]) and a Rental Assistance Payment contract is subject, convert such contracts to a contract for project-based rental assistance under section 8 of the Act.
 
@@ -1777,7 +1777,7 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >         “(2) A request by an owner pursuant to paragraph (1) shall be upon such terms and conditions as the Secretary may require.
 
->     “(c) __Resulting Contract.—__ 
+>     “(c)  __Resulting Contract__  __.—__ 
 
 >     The resulting contract shall—
 
@@ -1793,15 +1793,15 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >         “(6) be subject to such other terms and conditions as the Secretary considers appropriate.
 
->     “(d) __Income Targeting.—__ 
+>     “(d)  __Income Targeting__  __.—__ 
 
 >     To the extent that assisted dwelling units, subject to the resulting contract under subsection (a), serve low-income families, as defined in section 3(b)(2) of the Act ([42 U.S.C. 1437a(b)(2)][/us/usc/t42/s1437a/b/2]) the units shall be considered to be in compliance with all income targeting requirements under the Act ([42 U.S.C. 1437][/us/usc/t42/s1437] et seq\[.\]).
 
->     “(e) __Tenant Eligibility.—__ 
+>     “(e)  __Tenant Eligibility__  __.—__ 
 
 >     Notwithstanding any other provision of law, each family residing in an assisted dwelling unit on the date of conversion of a contract under this section, subject to the resulting contract under subsection (a), shall be considered to meet the applicable requirements for income eligibility and occupancy.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     As used in this section—
 
@@ -1855,11 +1855,11 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 [Pub. L. 105–276, title V, § 555(b)][/us/pl/105/276/s555/b], Oct. 21, 1998, [112 Stat. 2613][/us/stat/112/2613], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     With the consent of the affected public housing agencies, the Secretary may carry out (or contract with 1 or more entities to carry out) a demonstration program under section 8(y) of the United States Housing Act of 1937 ([42 U.S.C. 1437f(y)][/us/usc/t42/s1437f/y]) to expand homeownership opportunities for low-income families.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     The Secretary shall report annually to Congress on activities conducted under this subsection.”
 
@@ -1871,7 +1871,7 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 > “SEC. 511. __FINDINGS AND PURPOSES.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -1921,7 +1921,7 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >         “(12) the authority and duties of the Secretary, not including the control by the Secretary of applicable accounts in the Treasury of the United States, may be delegated to State, local or other entities at the discretion of the Secretary, to the extent the Secretary determines, and for the purpose of carrying out this title \[see Short Title of 1997 Amendment note set out under [section 1701 of Title 12][/us/usc/t12/s1701], Banks and Banking\], so that the Secretary has the discretion to be relieved of processing and approving any document or action required by these reforms.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     Consistent with the purposes and requirements of the Government Performance and Results Act of 1993 \[[Pub. L. 103–62][/us/pl/103/62], see Short Title of 1993 Amendment note set out under [section 1101 of Title 31][/us/usc/t31/s1101], Money and Finance\], the purposes of this subtitle are—
 
@@ -1947,7 +1947,7 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 > “In this subtitle:
 
->     “(1) __Comparable properties.—__ 
+>     “(1)  __Comparable properties__  __.—__ 
 
 >     The term ‘comparable properties’ means properties in the same market areas, where practicable, that—
 
@@ -1955,7 +1955,7 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >         “(B) are not receiving project-based assistance.
 
->     “(2) __Eligible multifamily housing project.—__ 
+>     “(2)  __Eligible multifamily housing project__  __.—__ 
 
 >     The term ‘eligible multifamily housing project’ means a property consisting of more than 4 dwelling units—
 
@@ -1983,27 +1983,27 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >         Such term does not include any project with an expiring contract described in paragraph (1) or (2) of section 524(e), but does include a project described in section 524(e)(3). Notwithstanding any other provision of this title, the Secretary may treat a project as an eligible multifamily housing project for purposes of this title if (I) the project is assisted pursuant to a contract for project-based assistance under section 8 of the United States Housing Act of 1937 renewed under section 524 of this Act, (II) the owner consents to such treatment, and (III) the project met the requirements of the first sentence of this paragraph for eligibility as an eligible multifamily housing project before the initial renewal of the contract under section 524.
 
->     “(3) __Expiring contract.—__ 
+>     “(3)  __Expiring contract__  __.—__ 
 
 >     The term ‘expiring contract’ means a project-based assistance contract attached to an eligible multifamily housing project which, under the terms of the contract, will expire.
 
->     “(4) __Expiration date.—__ 
+>     “(4)  __Expiration date__  __.—__ 
 
 >     The term ‘expiration date’ means the date on which an expiring contract expires.
 
->     “(5) __Fair market rent.—__ 
+>     “(5)  __Fair market rent__  __.—__ 
 
 >     The term ‘fair market rent’ means the fair market rental established under section 8(c) of the United States Housing Act of 1937.
 
->     “(6) __Low-income families.—__ 
+>     “(6)  __Low-income families__  __.—__ 
 
 >     The term ‘low-income families’ has the same meaning as provided under section 3(b)(2) of the United States Housing Act of 1937 \[[42 U.S.C. 1437a(b)(2)][/us/usc/t42/s1437a/b/2]\].
 
->     “(7) __Mortgage restructuring and rental assistance sufficiency plan.—__ 
+>     “(7)  __Mortgage restructuring and rental assistance sufficiency plan__  __.—__ 
 
 >     The term ‘mortgage restructuring and rental assistance sufficiency plan’ means the plan as provided under section 514.
 
->     “(8) __Nonprofit organization.—__ 
+>     “(8)  __Nonprofit organization__  __.—__ 
 
 >     The term ‘nonprofit organization’ means any private nonprofit organization that—
 
@@ -2013,43 +2013,43 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >         “(C) has a long-term record of service in providing or financing quality affordable housing for low-income families through relationships with public entities.
 
->     “(9) __Portfolio restructuring agreement.—__ 
+>     “(9)  __Portfolio restructuring agreement__  __.—__ 
 
 >     The term ‘portfolio restructuring agreement’ means the agreement entered into between the Secretary and a participating administrative entity, as provided under section 513.
 
->     “(10) __Participating administrative entity.—__ 
+>     “(10)  __Participating administrative entity__  __.—__ 
 
 >     The term ‘participating administrative entity’ means a public agency (including a State housing finance agency or a local housing agency), a nonprofit organization, or any other entity (including a law firm or an accounting firm) or a combination of such entities, that meets the requirements under section 513(b).
 
->     “(11) __Project-based assistance.—__ 
+>     “(11)  __Project-based assistance__  __.—__ 
 
 >     The term ‘project-based assistance’ means rental assistance described in paragraph (2)(B) of this section that is attached to a multifamily housing project.
 
->     “(12) __Renewal.—__ 
+>     “(12)  __Renewal__  __.—__ 
 
 >     The term ‘renewal’ means the replacement of an expiring Federal rental contract with a new contract under section 8 of the United States Housing Act of 1937, consistent with the requirements of this subtitle.
 
->     “(13) __Secretary.—__ 
+>     “(13)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of Housing and Urban Development.
 
->     “(14) __State.—__ 
+>     “(14)  __State__  __.—__ 
 
 >     The term ‘State’ has the same meaning as in section 104 of the Cranston-Gonzalez National Affordable Housing Act \[[42 U.S.C. 12704][/us/usc/t42/s12704]\].
 
->     “(15) __Tenant-based assistance.—__ 
+>     “(15)  __Tenant-based assistance__  __.—__ 
 
 >     The term ‘tenant-based assistance’ has the same meaning as in section 8(f) of the United States Housing Act of 1937.
 
->     “(16) __Unit of general local government.—__ 
+>     “(16)  __Unit of general local government__  __.—__ 
 
 >     The term ‘unit of general local government’ has the same meaning as in section 104 of the Cranston-Gonzalez National Affordable Housing Act.
 
->     “(17) __Very low-income family.—__ 
+>     “(17)  __Very low-income family__  __.—__ 
 
 >     The term ‘very low-income family’ has the same meaning as in section 3(b) of the United States Housing Act of 1937 \[[42 U.S.C. 1437a(b)][/us/usc/t42/s1437a/b]\].
 
->     “(18) __Qualified mortgagee.—__ 
+>     “(18)  __Qualified mortgagee__  __.—__ 
 
 >     The term ‘qualified mortgagee’ means an entity approved by the Secretary that is capable of servicing, as well as originating, FHA-insured mortgages, and that—
 
@@ -2059,7 +2059,7 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >         “(C) is not in default under any Government National Mortgage Association obligation.
 
->     “(19) __Office.—__ 
+>     “(19)  __Office__  __.—__ 
 
 >     The term ‘Office’ means the Office of Multifamily Housing Assistance Restructuring established under section 571.
 
@@ -2067,7 +2067,7 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >     “(a) __Participating Administrative Entities.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to subsection (b)(3), the Secretary shall enter into portfolio restructuring agreements with participating administrative entities for the implementation of mortgage restructuring and rental assistance sufficiency plans to restructure multifamily housing mortgages insured or held by the Secretary under the National Housing Act \[[12 U.S.C. 1701][/us/usc/t12/s1701] et seq.\], in order to—
 
@@ -2077,7 +2077,7 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >             “(C) correct management and ownership deficiencies.
 
->         “(2) __Portfolio restructuring agreements.—__ 
+>         “(2)  __Portfolio restructuring agreements__  __.—__ 
 
 >         Each portfolio restructuring agreement entered into under this subsection shall—
 
@@ -2101,7 +2101,7 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >     “(b) __Selection of Participating Administrative Entity.—__ 
 
->         “(1) __Selection criteria.—__ 
+>         “(1)  __Selection criteria__  __.—__ 
 
 >         The Secretary shall select a participating administrative entity based on whether, in the determination of the Secretary, the participating administrative entity—
 
@@ -2117,7 +2117,7 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >             “(F) meets other criteria, as determined by the Secretary.
 
->         “(2) __Selection.—__ 
+>         “(2)  __Selection__  __.—__ 
 
 >         If more than 1 interested entity meets the qualifications and selection criteria for a participating administrative entity, the Secretary may select the entity that demonstrates, as determined by the Secretary, that it will—
 
@@ -2131,11 +2131,11 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >             “(B) protect the public interest (including the long-term provision of decent low-income affordable rental housing and protection of residents, communities, and the American taxpayer).
 
->         “(3) __Partnerships.—__ 
+>         “(3)  __Partnerships__  __.—__ 
 
 >         For the purposes of any participating administrative entity applying under this subsection, participating administrative entities are encouraged to develop partnerships with each other and with nonprofit organizations, if such partnerships will further the participating administrative entity’s ability to meet the purposes of this title.
 
->         “(4) __Alternative administrators.—__ 
+>         “(4)  __Alternative administrators__  __.—__ 
 
 >         With respect to any eligible multifamily housing project for which a participating administrative entity is unavailable, or should not be selected to carry out the requirements of this subtitle with respect to that multifamily housing project for reasons relating to the selection criteria under paragraph (1), the Secretary shall—
 
@@ -2143,27 +2143,27 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >             “(B) contract with other qualified entities that meet the requirements of paragraph (1) to provide the authority to carry out all or a portion of the requirements of this subtitle with respect to that eligible multifamily housing project.
 
->         “(5) __Priority for public agencies as participating administrative entities.—__ 
+>         “(5)  __Priority for public agencies as participating administrative entities__  __.—__ 
 
 >         The Secretary shall provide a reasonable period during which the Secretary will consider proposals only from State housing finance agencies or local housing agencies, and the Secretary shall select such an agency without considering other applicants if the Secretary determines that the agency is qualified. The period shall be of sufficient duration for the Secretary to determine whether any State housing finance agencies or local housing agencies are interested and qualified. Not later than the end of the period, the Secretary shall notify the State housing finance agency or the local housing agency regarding the status of the proposal and, if the proposal is rejected, the reasons for the rejection and an opportunity for the applicant to respond.
 
 >         “(6) __State and local portfolio requirements.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             If the housing finance agency of a State is selected as the participating administrative entity, that agency shall be responsible for such eligible multifamily housing projects in that State as may be agreed upon by the participating administrative entity and the Secretary. If a local housing agency is selected as the participating administrative entity, that agency shall be responsible for such eligible multifamily housing projects in the jurisdiction of the agency as may be agreed upon by the participating administrative entity and the Secretary.
 
->             “(B) __Nondelegation.—__ 
+>             “(B)  __Nondelegation__  __.—__ 
 
 >             Except with the prior approval of the Secretary, a participating administrative entity may not delegate or transfer responsibilities and functions under this subtitle to 1 or more entities.
 
 >         “(7) __Private entity requirements.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             If a for-profit entity is selected as the participating administrative entity, that entity shall be required to enter into a partnership with a public purpose entity (including the Department).
 
->             “(B) __Prohibition.—__ 
+>             “(B)  __Prohibition__  __.—__ 
 
 >             No private entity shall share, participate in, or otherwise benefit from any equity created, received, or restructured as a result of the portfolio restructuring agreement.
 
@@ -2171,31 +2171,31 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >     “(a) __In General.—__ 
 
->         “(1) __Development of procedures and requirements.—__ 
+>         “(1)  __Development of procedures and requirements__  __.—__ 
 
 >         The Secretary shall develop procedures and requirements for the submission of a mortgage restructuring and rental assistance sufficiency plan for each eligible multifamily housing project with an expiring contract.
 
->         “(2) __Terms and conditions.—__ 
+>         “(2)  __Terms and conditions__  __.—__ 
 
 >         Each mortgage restructuring and rental assistance sufficiency plan submitted under this subsection shall be developed by the participating administrative entity, in cooperation with an owner of an eligible multifamily housing project and any servicer for the mortgage that is a qualified mortgagee, under such terms and conditions as the Secretary shall require.
 
->         “(3) __Consolidation.—__ 
+>         “(3)  __Consolidation__  __.—__ 
 
 >         Mortgage restructuring and rental assistance sufficiency plans submitted under this subsection may be consolidated as part of an overall strategy for more than 1 property.
 
->     “(b) __Notice Requirements.—__ 
+>     “(b)  __Notice Requirements__  __.—__ 
 
 >     The Secretary shall establish notice procedures and hearing requirements for tenants and owners concerning the dates for the expiration of project-based assistance contracts for any eligible multifamily housing project.
 
->     “(c) __Extension of Contract Term.—__ 
+>     “(c)  __Extension of Contract Term__  __.—__ 
 
 >     Subject to agreement by a project owner, the Secretary may extend the term of any expiring contract or provide a section 8 contract with rent levels set in accordance with subsection (g) for a period sufficient to facilitate the implementation of a mortgage restructuring and rental assistance sufficiency plan, as determined by the Secretary.
 
->     “(d) __Tenant Rent Protection.—__ 
+>     “(d)  __Tenant Rent Protection__  __.—__ 
 
 >     If the owner of a project with an expiring Federal rental assistance contract does not agree to extend the contract, not less than 12 months prior to terminating the contract, the project owner shall provide written notice to the Secretary and the tenants and the Secretary shall make tenant-based assistance available to tenants residing in units assisted under the expiring contract at the time of expiration. In addition, if after giving the notice required in the first sentence, an owner determines to terminate a contract, an owner shall provide an additional written notice with respect to the termination, in a form prescribed by the Secretary, not less than 120 days prior to the termination. In the event the owner does not provide the 120-day notice required in the preceding sentence, the owner may not evict the tenants or increase the tenants’ rent payment until such time as the owner has provided the 120-day notice and such period has elapsed. The Secretary may allow the owner to renew the terminating contract for a period of time sufficient to give tenants 120 days of advance notice in accordance with section 524 of this Act.
 
->     “(e) __Mortgage Restructuring and Rental Assistance Sufficiency Plan.—__ 
+>     “(e)  __Mortgage Restructuring and Rental Assistance Sufficiency Plan__  __.—__ 
 
 >     Each mortgage restructuring and rental assistance sufficiency plan shall—
 
@@ -2239,15 +2239,15 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >         “(1) __Procedures.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary shall establish procedures to provide an opportunity for tenants of the project, residents of the neighborhood, the local government, and other affected parties to participate effectively and on a timely basis in the restructuring process established by this subtitle.
 
->             “(B) __Coverage.—__ 
+>             “(B)  __Coverage__  __.—__ 
 
 >             These procedures shall take into account the need to provide tenants of the project, residents of the neighborhood, the local government, and other affected parties timely notice of proposed restructuring actions and appropriate access to relevant information about restructuring activities. To the extent practicable and consistent with the need to accomplish project restructuring in an efficient manner, the procedures shall give all such parties an opportunity to provide comments to the participating administrative entity in writing, in meetings, or in another appropriate manner (which comments shall be taken into consideration by the participating administrative entity).
 
->         “(2) __Required consultation.—__ 
+>         “(2)  __Required consultation__  __.—__ 
 
 >         The procedures developed pursuant to paragraph (1) shall require consultation with tenants of the project, residents of the neighborhood, the local government, and other affected parties, in connection with at least the following:
 
@@ -2259,21 +2259,21 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >         “(3) __Funding.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary shall make available not more than $10,000,000 annually in funding, which amount shall be in addition to any amounts made available under this subparagraph and carried over from previous years, from which the Secretary may make obligations to tenant groups, nonprofit organizations, and public entities for building the capacity of tenant organizations, for technical assistance in furthering any of the purposes of this subtitle (including transfer of developments to new owners), for technical assistance for preservation of low-income housing for which project-based rental assistance is provided at below market rent levels and may not be renewed (including transfer of developments to tenant groups, nonprofit organizations, and public entities), for tenant services, and for tenant groups, nonprofit organizations, and public entities described in section 517(a)(5), from those amounts made available under appropriations Acts for implementing this subtitle or previously made available for technical assistance in connection with the preservation of affordable rental housing for low-income persons.
 
->             “(B) __Manner of providing.—__ 
+>             “(B)  __Manner of providing__  __.—__ 
 
 >             Notwithstanding any other provision of law restricting the use of preservation technical assistance funds, the Secretary may provide any funds made available under subparagraph (A) through existing technical assistance programs pursuant to any other Federal law, including the Low-Income Housing Preservation and Resident Homeownership Act of 1990 \[[12 U.S.C. 4101][/us/usc/t12/s4101] et seq.\] and the Multifamily Housing Property Disposition Reform Act of 1994 \[[Pub. L. 103–233][/us/pl/103/233], see Short Title of 1994 Amendment note set out under [section 1701 of Title 12][/us/usc/t12/s1701], Banks and Banking\], or through any other means that the Secretary considers consistent with the purposes of this subtitle, without regard to any set-aside requirement otherwise applicable to those funds.
 
->             “(C) __Prohibition.—__ 
+>             “(C)  __Prohibition__  __.—__ 
 
 >             None of the funds made available under subparagraph (A) may be used directly or indirectly to pay for any personal service, advertisement, telegram, telephone, letter, printed or written matter, or other device, intended or designed to influence in any manner a Member of Congress, to favor or oppose, by vote or otherwise, any legislation or appropriation by Congress, whether before or after the introduction of any bill or resolution proposing such legislation or appropriation.
 
 >     “(g) __Rent Levels.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), each mortgage restructuring and rental assistance sufficiency plan pursuant to the terms, conditions, and requirements of this subtitle shall establish for units assisted with project-based assistance in eligible multifamily housing projects adjusted rent levels that—
 
@@ -2289,7 +2289,7 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >         “(2) __Exceptions.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             A contract under this section may include rent levels that exceed the rent level described in paragraph (1) at rent levels that do not exceed 120 percent of the fair market rent for the market area (except that the Secretary may waive this limit for not more than five percent of all units subject to portfolio restructuring agreements, based on a finding of special need), if the participating administrative entity—
 
@@ -2297,11 +2297,11 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >                 “(ii) follows the procedures under paragraph (3).
 
->             “(B) __Exception rents.—__ 
+>             “(B)  __Exception rents__  __.—__ 
 
 >             In any fiscal year, a participating administrative entity may approve exception rents on not more than 20 percent of all units covered by the portfolio restructuring agreement with expiring contracts in that fiscal year, except that the Secretary may waive this ceiling upon a finding of special need.
 
->         “(3) __Rent levels for exception projects.—__ 
+>         “(3)  __Rent levels for exception projects__  __.—__ 
 
 >         For purposes of this section, a project eligible for an exception rent shall receive a rent calculated on the actual and projected costs of operating the project, at a level that provides income sufficient to support a budget-based rent that consists of—
 
@@ -2323,7 +2323,7 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >             “(E) other expenses determined by the participating administrative entity to be necessary for the operation of the project.
 
->     “(h) __Exemptions From Restructuring.—__ 
+>     “(h)  __Exemptions From Restructuring__  __.—__ 
 
 >     The following categories of projects shall not be covered by a mortgage restructuring and rental assistance sufficiency plan if—
 
@@ -2335,23 +2335,23 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 > “SEC. 515. __SECTION 8 RENEWALS AND LONG-TERM AFFORDABILITY COMMITMENT BY OWNER OF PROJECT.__ 
 
->     “(a) __Section 8 Renewals of Restructured Projects.—__ 
+>     “(a)  __Section __  __8 Renewals of Restructured Projects.—__ 
 
->         “(1) __Project-based assistance.—__ 
+>         “(1)  __Project-based assistance__  __.—__ 
 
 >         Subject to the availability of amounts provided in advance in appropriations Acts, and to the control of the Secretary of applicable accounts in the Treasury of the United States, with respect to an expiring section 8 contract on an eligible multifamily housing project to be renewed with project-based assistance (based on a determination under subsection (c)), the Secretary shall enter into contracts with participating administrative entities pursuant to which the participating administrative entity shall offer to renew or extend the contract, or the Secretary shall offer to renew such contract, and the owner of the project shall accept the offer, if the initial renewal is in accordance with the terms and conditions specified in the mortgage restructuring and rental assistance sufficiency plan and the rental assistance assessment plan.
 
->         “(2) __Tenant-based assistance.—__ 
+>         “(2)  __Tenant-based assistance__  __.—__ 
 
 >         Subject to the availability of amounts provided in advance in appropriations Acts and to the control of the Secretary of applicable accounts in the Treasury of the United States, with respect to an expiring section 8 contract on an eligible multifamily housing project to be renewed with tenant-based assistance (based on a determination under subsection (c)), the Secretary shall enter into contracts with participating administrative entities pursuant to which the participating administrative entity shall provide for the renewal of section 8 assistance on an eligible multifamily housing project with tenant-based assistance, or the Secretary shall provide for such renewal, in accordance with the terms and conditions specified in the mortgage restructuring and rental assistance sufficiency plan and the rental assistance assessment plan.
 
->     “(b) __Required Commitment.—__ 
+>     “(b)  __Required Commitment__  __.—__ 
 
 >     After the initial renewal of a section 8 contract pursuant to this section, the owner shall accept each offer made pursuant to subsection (a) to renew the contract, for the term of the affordability and use restrictions required by section 514(e)(6), if the offer to renew is on terms and conditions specified in the mortgage restructuring and rental assistance sufficiency plan.
 
 >     “(c) __Determination of Whether To Renew With Project-Based or Tenant-Based Assistance.—__ 
 
->         “(1) __Mandatory renewal of project-based assistance.—__ 
+>         “(1)  __Mandatory renewal of project-based assistance__  __.—__ 
 
 >         Section 8 assistance shall be renewed with project-based assistance, if—
 
@@ -2363,11 +2363,11 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >         “(2) __Rental assistance assessment plan.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             With respect to any project that is not described in paragraph (1), the participating administrative entity shall, after consultation with the owner of the project, develop a rental assistance assessment plan to determine whether to renew assistance for the project with tenant-based assistance or project-based assistance.
 
->             “(B) __Rental assistance assessment plan requirements.—__ 
+>             “(B)  __Rental assistance assessment plan requirements__  __.—__ 
 
 >             Each rental assistance assessment plan developed under this paragraph shall include an assessment of the impact of converting to tenant-based assistance and the impact of extending project-based assistance on—
 
@@ -2387,7 +2387,7 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >                 “(viii) the project’s ability to compete in the marketplace.
 
->             “(C) __Reports to director.—__ 
+>             “(C)  __Reports to director__  __.—__ 
 
 >             Each participating administrative entity shall report regularly to the Director as defined in subtitle D, as the Director shall require, identifying—
 
@@ -2395,21 +2395,21 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >                 “(ii) each project for which the entity has developed such a plan under which the assistance is renewed using tenant-based assistance.
 
->         “(3) __Eligibility for tenant-based assistance.—__ 
+>         “(3)  __Eligibility for tenant-based assistance__  __.—__ 
 
 >         Subject to paragraph (4), with respect to any project that is not described in paragraph (1), if a participating administrative entity approves the use of tenant-based assistance based on a rental assistance assessment plan developed under paragraph (2), tenant-based assistance shall be provided to each assisted family (other than a family already receiving tenant-based assistance) residing in the project at the time the assistance described in section 512(2)(B) terminates.
 
->         “(4) __Assistance through enhanced vouchers.—__ 
+>         “(4)  __Assistance through enhanced vouchers__  __.—__ 
 
 >         In the case of any family described in paragraph (3) that resides in a project described in section 512(2)(B), the tenant-based assistance provided shall be enhanced voucher assistance under section 8(t) of the United States Housing Act of 1937 ([42 U.S.C. 1437f(t)][/us/usc/t42/s1437f/t]).
 
->         “(5) __Inapplicability of certain provision.—__ 
+>         “(5)  __Inapplicability of certain provision__  __.—__ 
 
 >         If a participating administrative entity approves renewal with project-based assistance under this subsection, section 8(d)(2) of the United States Housing Act of 1937 shall not apply.
 
 > “SEC. 516. __PROHIBITION ON RESTRUCTURING.__ 
 
->     “(a) __Prohibition on Restructuring.—__ 
+>     “(a)  __Prohibition on Restructuring__  __.—__ 
 
 >     The Secretary may elect not to consider any mortgage restructuring and rental assistance sufficiency plan or request for contract renewal if the Secretary or the participating administrative entity determines that—
 
@@ -2449,39 +2449,39 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >     “(b) __Opportunity To Dispute Findings.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         During the 30-day period beginning on the date on which the owner or purchaser of an eligible multifamily housing project receives notice of a rejection under subsection (a) or of a mortgage restructuring and rental assistance sufficiency plan under section 514, the Secretary or participating administrative entity shall provide that owner or purchaser with an opportunity to dispute the basis for the rejection and an opportunity to cure.
 
 >         “(2) __Affirmation, modification, or reversal.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             After providing an opportunity to dispute under paragraph (1), the Secretary or the participating administrative entity may affirm, modify, or reverse any rejection under subsection (a) or rejection of a mortgage restructuring and rental assistance sufficiency plan under section 514.
 
->             “(B) __Reasons for decision.—__ 
+>             “(B)  __Reasons for decision__  __.—__ 
 
 >             The Secretary or the participating administrative entity, as applicable, shall identify the reasons for any final decision under this paragraph.
 
->             “(C) __Review process.—__ 
+>             “(C)  __Review process__  __.—__ 
 
 >             The Secretary shall establish an administrative review process to appeal any final decision under this paragraph.
 
->     “(c) __Final Determination.—__ 
+>     “(c)  __Final Determination__  __.—__ 
 
 >     Any final determination under this section shall not be subject to judicial review.
 
 >     “(d) __Displaced Tenants.—__ 
 
->         “(1) __Notice to certain residents.—__ 
+>         “(1)  __Notice to certain residents__  __.—__ 
 
 >         The Office shall notify any tenant that is residing in a project or receiving assistance under section 8 of the United States Housing Act of 1937 ([42 U.S.C. 1437f][/us/usc/t42/s1437f]) at the time of rejection under this section, of such rejection, except that the Office may delegate the responsibility to provide notice under this paragraph to the participating administrative entity.
 
->         “(2) __Assistance and moving expenses.—__ 
+>         “(2)  __Assistance and moving expenses__  __.—__ 
 
 >         Subject to the availability of amounts provided in advance in appropriations Acts, for any low-income tenant that is residing in a project or receiving assistance under section 8 of the United States Housing Act of 1937 at the time of rejection under this section, that tenant shall be provided with tenant-based assistance and reasonable moving expenses, as determined by the Secretary.
 
->     “(e) __Transfer of Property.—__ 
+>     “(e)  __Transfer of Property__  __.—__ 
 
 >     For properties disqualified from the consideration of a mortgage restructuring and rental assistance sufficiency plan under this section in accordance with paragraph (1) or (2) of subsection (a) because of actions by an owner or purchaser, the Secretary shall establish procedures to facilitate the voluntary sale or transfer of a property as part of a mortgage restructuring and rental assistance sufficiency plan, with a preference for tenant organizations and tenant-endorsed community-based nonprofit and public agency purchasers meeting such reasonable qualifications as may be established by the Secretary.
 
@@ -2521,31 +2521,31 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >         “(6) The second mortgage under this section may be a first mortgage if no restructured or new first mortgage will meet the requirement of paragraph (1)(A).
 
->     “(b) __Restructuring Tools.—__ 
+>     “(b)  __Restructuring Tools__  __.—__ 
 
 >     In addition to the requirements of subsection (a) and to the extent these actions are consistent with this section and with the control of the Secretary of applicable accounts in the Treasury of the United States, an approved mortgage restructuring and rental assistance sufficiency plan under this subtitle may include one or more of the following actions:
 
->         “(1) __Full or partial payment of claim.—__ 
+>         “(1)  __Full or partial payment of claim__  __.—__ 
 
 >         Making a full payment of claim or partial payment of claim under section 541(b) of the National Housing Act \[[12 U.S.C. 1735f–19(b)][/us/usc/t12/s1735f–19/b]\], as amended by section 523(b) of this Act. Any payment under this paragraph shall not require the approval of a mortgagee.
 
->         “(2) __Refinancing of debt.—__ 
+>         “(2)  __Refinancing of debt__  __.—__ 
 
 >         Refinancing of all or part of the debt on a project. If the refinancing involves a mortgage that will continue to be insured under the National Housing Act \[[12 U.S.C. 1701][/us/usc/t12/s1701] et seq.\], the refinancing shall be documented through amendment of the existing insurance contract and not through a new insurance contract.
 
->         “(3) __Mortgage insurance.—__ 
+>         “(3)  __Mortgage insurance__  __.—__ 
 
 >         Providing FHA multifamily mortgage insurance, reinsurance or other credit enhancement alternatives, including multifamily risk-sharing mortgage programs, as provided under section 542 of the Housing and Community Development Act of 1992 \[[Pub. L. 102–550][/us/pl/102/550], [12 U.S.C. 1707][/us/usc/t12/s1707] note\]. The Secretary shall use risk-shared financing under section 542(c) of the Housing and Community Development Act of 1992 for any mortgage restructuring, rehabilitation financing, or debt refinancing included as part of a mortgage restructuring and rental assistance sufficiency plan if the terms and conditions are considered to be the best available financing in terms of financial savings to the FHA insurance funds and will result in reduced risk of loss to the Federal Government. Any limitations on the number of units available for mortgage insurance under section 542 shall not apply to eligible multifamily housing projects. Any credit subsidy costs of providing mortgage insurance shall be paid from the Liquidating Accounts of the General Insurance Fund or the Special Risk Insurance Fund and shall not be subject to any limitation on appropriations.
 
->         “(4) __Credit enhancement.—__ 
+>         “(4)  __Credit enhancement__  __.—__ 
 
 >         Providing any additional State or local mortgage credit enhancements and risk-sharing arrangements that may be established with State or local housing finance agencies, the Federal Housing Finance Agency, the Federal National Mortgage Association, and the Federal Home Loan Mortgage Corporation, to a modified or refinanced first mortgage.
 
->         “(5) __Compensation of third parties.—__ 
+>         “(5)  __Compensation of third parties__  __.—__ 
 
 >         Consistent with the portfolio restructuring agreement, entering into agreements, incurring costs, or making payments, including incentive agreements designed to reward superior performance in meeting the purposes of this Act, as may be reasonably necessary, to compensate the participation of participating administrative entities and other parties in undertaking actions authorized by this subtitle. Upon request to the Secretary, participating administrative entities that are qualified under the United States Housing Act of 1937 to serve as contract administrators shall be the contract administrators under section 8 of the United States Housing Act of 1937 \[[12 U.S.C. 1437f][/us/usc/t12/s1437f]\] for purposes of any contracts entered into as part of an approved mortgage restructuring and rental assistance sufficiency plan. Subject to the availability of amounts provided in advance in appropriations Acts for administrative fees under section 8 of the United States Housing Act of 1937, such amounts may be used to compensate participating administrative entities for compliance monitoring costs incurred under section 519.
 
->         “(6) __Use of project accounts.—__ 
+>         “(6)  __Use of project accounts__  __.—__ 
 
 >         Applying any residual receipts, replacement reserves, and any other project accounts not required for project operations, to maintain the long-term affordability and physical condition of the property or of other eligible multifamily housing projects. The participating administrative entity may expedite the acquisition of residual receipts, replacement reserves, or other such accounts, by entering into agreements with owners of housing covered by an expiring contract to provide an owner with a share of the receipts, not to exceed 10 percent, in accordance with guidelines established by the Secretary.
 
@@ -2553,37 +2553,37 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >         “(1) __Rehabilitation needs.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Rehabilitation may be paid from the residual receipts, replacement reserves, or any other project accounts not required for project operations, or, as provided in appropriations Acts and subject to the control of the Secretary of applicable accounts in the Treasury of the United States, from budget authority provided for increases in the budget authority for assistance contracts under section 8 of the United States Housing Act of 1937, the rehabilitation grant program established under section 236 of the National Housing Act \[[12 U.S.C. 1715z–1][/us/usc/t12/s1715z–1]\], as amended by section 531 of subtitle B of this Act, or through the debt restructuring transaction. Rehabilitation under this paragraph shall only be for the purpose of restoring the project to a non-luxury standard adequate for the rental market intended at the original approval of the project-based assistance.
 
->             “(B) __Contribution.—__ 
+>             “(B)  __Contribution__  __.—__ 
 
 >             Each owner or purchaser of a project to be rehabilitated under an approved mortgage restructuring and rental assistance sufficiency plan shall contribute, from non-project resources, not less than 25 percent of the amount of rehabilitation assistance received, except that the participating administrative entity may provide an exception from the requirement of this subparagraph for housing cooperatives.
 
 >         “(2) __Addition of significant features.—__ 
 
->             “(A) __Authority.—__ 
+>             “(A)  __Authority__  __.—__ 
 
 >             An approved mortgage restructuring and rental assistance sufficiency plan may require the improvement of the project by the addition of significant features that are not necessary for rehabilitation to the standard provided under paragraph (1), such as air conditioning, an elevator, and additional community space. The Secretary shall establish guidelines regarding the inclusion of requirements regarding such additional significant features under such plans.
 
->             “(B) __Funding.—__ 
+>             “(B)  __Funding__  __.—__ 
 
 >             Significant features added pursuant to an approved mortgage restructuring and rental assistance sufficiency plan may be paid from the funding sources specified in the first sentence of paragraph (1)(A).
 
->             “(C) __Limitation on owner contribution.—__ 
+>             “(C)  __Limitation on owner contribution__  __.—__ 
 
 >             An owner of a project may not be required to contribute from non-project resources, toward the cost of any additional significant features required pursuant to this paragraph, more than 25 percent of the amount of any assistance received for the inclusion of such features.
 
->             “(D) __Applicability.—__ 
+>             “(D)  __Applicability__  __.—__ 
 
 >             This paragraph shall apply to all eligible multifamily housing projects, except projects for which the Secretary and the project owner executed a mortgage restructuring and rental assistance sufficiency plan on or before the date of the enactment of the Mark-to-Market Extension Act of 2001 \[Jan. 10, 2002\].
 
->     “(d) __Prohibition on Equity Sharing by the Secretary.—__ 
+>     “(d)  __Prohibition on Equity Sharing by the Secretary__  __.—__ 
 
 >     The Secretary is prohibited from participating in any equity agreement or profit-sharing agreement in conjunction with any eligible multifamily housing project.
 
->     “(e) __Conflict of Interest Guidelines.—__ 
+>     “(e)  __Conflict of Interest Guidelines__  __.—__ 
 
 >     The Secretary may establish guidelines to prevent conflicts of interest by a participating administrative entity that provides, directly or through risk-sharing arrangements, any form of credit enhancement or financing pursuant to subsections \[sic\] (b)(3) or (b)(4) or to prevent conflicts of interest by any other person or entity under this subtitle.
 
@@ -2593,7 +2593,7 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 > “SEC. 519. __MONITORING OF COMPLIANCE.__ 
 
->     “(a) __Compliance Agreements.—__ 
+>     “(a)  __Compliance Agreements__  __.—__ 
 
 >         (1)
 
@@ -2607,45 +2607,45 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >     “(b) __Periodic Monitoring.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not less than annually, each participating administrative entity that is qualified to be the section 8 contract administrator shall review the status of all multifamily housing projects for which a mortgage restructuring and rental assistance sufficiency plan has been implemented.
 
->         “(2) __Inspections.—__ 
+>         “(2)  __Inspections__  __.—__ 
 
 >         Each review under this subsection shall include onsite inspection to determine compliance with housing codes and other requirements as provided in this subtitle and the portfolio restructuring agreements.
 
->         “(3) __Administration.—__ 
+>         “(3)  __Administration__  __.—__ 
 
 >         If the participating administrative entity is not qualified under the United States Housing Act of 1937 to be a section 8 contract administrator, either the Secretary or a qualified State or local housing agency shall be responsible for the review required by this subsection.
 
->     “(c) __Audit by the Secretary.—__ 
+>     “(c)  __Audit by the Secretary__  __.—__ 
 
 >     The Comptroller General of the United States, the Secretary, and the Inspector General of the Department of Housing and Urban Development may conduct an audit at any time of any multifamily housing project for which a mortgage restructuring and rental assistance sufficiency plan has been implemented.
 
 > “SEC. 520. __REPORTS TO CONGRESS.__ 
 
->     “(a) __Annual Review.—__ 
+>     “(a)  __Annual Review__  __.—__ 
 
 >     In order to ensure compliance with this subtitle, the Secretary shall conduct an annual review and report to the Congress on actions taken under this subtitle and the status of eligible multifamily housing projects.
 
->     “(b) __Semiannual Review.—__ 
+>     “(b)  __Semiannual Review__  __.—__ 
 
 >     Not less than semiannually during the 2-year period beginning on the date of the enactment of this Act \[Oct. 27, 1997\] and not less than annually thereafter, the Secretary shall submit reports to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate stating, for such periods, the total number of projects identified by participating administrative entities under each of clauses (i) and (ii) of section 515(c)(2)(C).
 
 > “SEC. 521. __GAO AUDIT AND REVIEW.__ 
 
->     “(a) __Initial Audit.—__ 
+>     “(a)  __Initial Audit__  __.—__ 
 
 >     Not later than 18 months after the effective date of final regulations promulgated under this subtitle, the Comptroller General of the United States shall conduct an audit to evaluate eligible multifamily housing projects and the implementation of mortgage restructuring and rental assistance sufficiency plans.
 
 >     “(b) __Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 18 months after the audit conducted under subsection (a), the Comptroller General of the United States shall submit to Congress a report on the status of eligible multifamily housing projects and the implementation of mortgage restructuring and rental assistance sufficiency plans.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         The report submitted under paragraph (1) shall include—
 
@@ -2657,15 +2657,15 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >     “(a) __Rulemaking and Implementation.—__ 
 
->         “(1) __Interim regulations.—__ 
+>         “(1)  __Interim regulations__  __.—__ 
 
 >         The Director shall issue such interim regulations as may be necessary to implement this subtitle and the amendments made by this subtitle with respect to eligible multifamily housing projects covered by contracts described in section 512(2)(B) that expire in fiscal year 1999 or thereafter. If, before the expiration of such period, the Director has not been appointed, the Secretary shall issue such interim regulations.
 
->         “(2) __Final regulations.—__ 
+>         “(2)  __Final regulations__  __.—__ 
 
 >         The Director shall issue final regulations necessary to implement this subtitle and the amendments made by this subtitle with respect to eligible multifamily housing projects covered by contracts described in section 512(2)(B) that expire in fiscal year 1999 or thereafter before the later of: (A) the expiration of the 12-month period beginning upon the date of the enactment of this Act \[Oct. 27, 1997\]; and (B) the 3-month period beginning upon the appointment of the Director under subtitle D.
 
->         “(3) __Factors for consideration.—__ 
+>         “(3)  __Factors for consideration__  __.—__ 
 
 >         Before the publication of the final regulations under paragraph (2), in addition to public comments invited in connection with publication of the interim rule, the Secretary shall—
 
@@ -2687,33 +2687,33 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >             “(B) convene not less than 3 public forums at which the organizations making recommendations under subparagraph (A) may express views concerning the proposed disposition of the recommendations.
 
->     “(b) __Transition Provision for Contracts Expiring in Fiscal Year 1998.—__ 
+>     “(b)  __Transition Provision for Contracts Expiring in Fiscal Year__  __1998.—__ 
 
 >     Notwithstanding any other provision of law, the Secretary shall apply all the terms of section 211 and section 212 of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997 \[[Pub. L. 104–204][/us/pl/104/204], set out below\] (except for section 212(h)(1)(G) and the limitation in section 212(k)) contracts for project-based assistance that expire during fiscal year 1998 (in the same manner that such provisions apply to expiring contracts defined in section 212(a)(3) of such Act), except that section 517(a) of the Act shall apply to mortgages on projects subject to such contracts.
 
 > “SEC. 523. __TECHNICAL AND CONFORMING AMENDMENTS.__ 
 
->     “(a) __Calculation of Limit on Project-Based Assistance.—__ 
+>     “(a)  __Calculation of Limit on Project-Based Assistance__  __.—__ 
 
 >     \[Amended this section.\]
 
->     “(b) __Partial Payment of Claims on Multifamily Housing Projects.—__ 
+>     “(b)  __Partial Payment of Claims on Multifamily Housing Projects__  __.—__ 
 
 >     \[Amended [section 1735f–19 of Title 12][/us/usc/t12/s1735f–19], Banks and Banking.\]
 
->     “(c) __Reuse and Rescission of Certain Recaptured Budget Authority.—__ 
+>     “(c)  __Reuse and Rescission of Certain Recaptured Budget Authority__  __.—__ 
 
 >     \[Amended this section.\]
 
->     “(d) __Section 8 Contract Renewals.—__ 
+>     “(d)  __Section__  __8__  __Contract Renewals__  __.—__ 
 
 >     \[Amended [section 405(a) of Pub. L. 104–99][/us/pl/104/99/s405/a], set out below.\]
 
->     “(e) __Renewal Upon Request of Owner.—__ 
+>     “(e)  __Renewal Upon Request of Owner__  __.—__ 
 
 >     \[Amended [section 211 of Pub. L. 104–204][/us/pl/104/204/s211], set out below.\]
 
->     “(f) __Extension of Demonstration Contract Period.—__ 
+>     “(f)  __Extension of Demonstration Contract Period__  __.—__ 
 
 >     \[Amended [section 212 of Pub. L. 104–204][/us/pl/104/204/s212], set out below.\]
 
@@ -2721,23 +2721,23 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >     “(a) __In General.—__ 
 
->         “(1) __Renewal.—__ 
+>         “(1)  __Renewal__  __.—__ 
 
 >         Subject to paragraph (2), upon termination or expiration of a contract for project-based assistance under section 8 for a multifamily housing project (and notwithstanding section 8(v) of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\] for loan management assistance), the Secretary shall, at the request of the owner of the project and to the extent sufficient amounts are made available in appropriation Acts, use amounts available for the renewal of assistance under section 8 of such Act to provide such assistance for the project. The assistance shall be provided under a contract having such terms and conditions as the Secretary considers appropriate, subject to the requirements of this section. This section shall not require contract renewal for a project that is eligible under this subtitle for a mortgage restructuring and rental assistance sufficiency plan, if there is no approved plan for the project and the Secretary determines that such an approved plan is necessary.
 
->         “(2) __Prohibition on renewal.—__ 
+>         “(2)  __Prohibition on renewal__  __.—__ 
 
 >         Notwithstanding part 24 of title 24 of the Code of Federal Regulations, the Secretary may elect not to renew assistance for a project otherwise required to be renewed under paragraph (1) or provide comparable benefits under paragraph (1) or (2) of subsection (e) for a project described in either such paragraph, if the Secretary determines that a violation under paragraphs (1) through (4) of section 516(a) has occurred with respect to the project. For purposes of such a determination, the provisions of section 516 shall apply to a project under this section in the same manner and to the same extent that the provisions of such section apply to eligible multifamily housing projects, except that the Secretary shall make the determination under section 516(a)(4).
 
->         “(3) __Contract term for mark-up-to-market contracts.—__ 
+>         “(3)  __Contract term for mark-up-to-market contracts__  __.—__ 
 
 >         In the case of an expiring or terminating contract that has rent levels less than comparable market rents for the market area, if the rent levels under the renewal contract under this section are equal to comparable market rents for the market area, the contract shall have a term of not less than 5 years, subject to the availability of sufficient amounts in appropriation Acts.
 
->         “(4) __Renewal rents.—__ 
+>         “(4)  __Renewal rents__  __.—__ 
 
 >         Except as provided in subsection (b), the contract for assistance shall provide assistance at the following rent levels:
 
->             “(A) __Market rents.—__ 
+>             “(A)  __Market rents__  __.—__ 
 
 >             At the request of the owner of the project, at rent levels equal to the lesser of comparable market rents for the market area or 150 percent of the fair market rents, in the case only of a project that—
 
@@ -2761,11 +2761,11 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >                   The Secretary may adjust the percentages of fair market rent (as specified in the matter preceding clause (i) and in clause (v)), but only upon a determination and written notification to the Congress within 10 days of making such determination, that such adjustment is necessary to ensure that this subparagraph covers projects with a high risk of nonrenewal of expiring contracts for project-based assistance.
 
->             “(B) __Reduction to market rents.—__ 
+>             “(B)  __Reduction to market rents__  __.—__ 
 
 >             In the case of a project that has rent levels under the expiring or terminating contract that exceed comparable market rents for the market area, at rent levels equal to such comparable market rents.
 
->             “(C) __Rents not exceeding market rents.—__ 
+>             “(C)  __Rents not exceeding market rents__  __.—__ 
 
 >             In the case of a project that is not subject to subparagraph (A) or (B), at rent levels that—
 
@@ -2775,7 +2775,7 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >                   In determining the rent level for a contract under this subparagraph, the Secretary shall approve rents sufficient to cover budget-based cost increases and shall give greater consideration to providing rent at a level up to comparable market rents for the market area based on the number of the criteria under clauses (i) through (iii) of subparagraph (D) that the project meets. Notwithstanding any other provision of law, the Secretary shall include in such budget-based cost increases costs relating to the project as a whole (including costs incurred with respect to units not covered by the contract for assistance), but only (I) if inclusion of such costs is requested by the owner or purchaser of the project, (II) if inclusion of such costs will permit capital repairs to the project or acquisition of the project by a nonprofit organization, and (III) to the extent that inclusion of such costs (or a portion thereof) complies with the requirement under clause (ii).
 
->             “(D) __Waiver of 150 percent limitation.—__ 
+>             “(D)  __Waiver of 150 percent limitation__  __.—__ 
 
 >             Notwithstanding subparagraph (A), at rent levels up to comparable market rents for the market area, in the case of a project that meets the requirements under clauses (i) through (v) of subparagraph (A) and—
 
@@ -2787,25 +2787,25 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >                   In determining the rent level for a contract under this subparagraph, the Secretary shall approve rents sufficient to cover budget-based cost increases and shall give greater consideration to providing rent at a level up to comparable market rents for the market area based on the number of the criteria under clauses (i) through (iv) that the project meets.
 
->         “(5) __Comparable market rents and comparison with fair market rents.—__ 
+>         “(5)  __Comparable market rents and comparison with fair market rents__  __.—__ 
 
 >         The Secretary shall prescribe the method for determining comparable market rent by comparison with rents charged for comparable properties (as such term is defined in section 512), which may include appropriate adjustments for utility allowances and adjustments to reflect the value of any subsidy (other than section 8 assistance) provided by the Department of Housing and Urban Development.
 
 >     “(b) __Exception Rents.—__ 
 
->         “(1) __Renewal.—__ 
+>         “(1)  __Renewal__  __.—__ 
 
 >         In the case of a multifamily housing project described in paragraph (2), pursuant to the request of the owner of the project, the contract for assistance for the project pursuant to subsection (a) shall provide assistance at the lesser of the following rent levels:
 
->             “(A) __Adjusted existing rents.—__ 
+>             “(A)  __Adjusted existing rents__  __.—__ 
 
 >             The existing rents under the expiring contract, as adjusted by an operating cost adjustment factor established by the Secretary (which shall not result in a negative adjustment).
 
->             “(B) __Budget-based rents.—__ 
+>             “(B)  __Budget-based rents__  __.—__ 
 
 >             Subject to a determination by the Secretary that a rent level under this subparagraph is appropriate for a project, a rent level that provides income sufficient to support a budget-based rent (including a budget-based rent adjustment if justified by reasonable and expected operating expenses).
 
->         “(2) __Projects covered.—__ 
+>         “(2)  __Projects covered__  __.—__ 
 
 >         A multifamily housing project described in this paragraph is a multifamily housing project that—
 
@@ -2813,43 +2813,43 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >             “(B) is exempt from mortgage restructuring under this subtitle pursuant to section 514(h).
 
->         “(3) __Moderate rehabilitation projects.—__ 
+>         “(3)  __Moderate rehabilitation projects__  __.—__ 
 
 >         In the case of a project with a contract under the moderate rehabilitation program, other than a moderate rehabilitation contract under \[former\] section 441 of the McKinney-Vento Homeless Assistance Act \[[42 U.S.C. 11401][/us/usc/t42/s11401]\], pursuant to the request of the owner of the project, the contract for assistance for the project pursuant to subsection (a) shall provide assistance at the lesser of the following rent levels:
 
->             “(A) __Adjusted existing rents.—__ 
+>             “(A)  __Adjusted existing rents__  __.—__ 
 
 >             The existing rents under the expiring contract, as adjusted by an operating cost adjustment factor established by the Secretary (which shall not result in a negative adjustment).
 
->             “(B) __Fair market rents.—__ 
+>             “(B)  __Fair market rents__  __.—__ 
 
 >             Fair market rents (less any amounts allowed for tenant-purchased utilities).
 
->             “(C) __Market rents.—__ 
+>             “(C)  __Market rents__  __.—__ 
 
 >             Comparable market rents for the market area.
 
 >     “(c) __Rent Adjustments After Renewal of Contract.—__ 
 
->         “(1) __Required.—__ 
+>         “(1)  __Required__  __.—__ 
 
 >         After the initial renewal of a contract for assistance under section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\] pursuant to subsection (a), (b)(1), or (e)(2), the Secretary shall annually adjust the rents using an operating cost adjustment factor established by the Secretary (which shall not result in a negative adjustment) or, upon the request of the owner and subject to approval of the Secretary, on a budget basis. In the case of projects with contracts renewed pursuant to subsection (a) or pursuant to subsection (e)(2) at rent levels equal to comparable market rents for the market area, at the expiration of each 5-year period, the Secretary shall compare existing rents with comparable market rents for the market area and may make any adjustments in the rent necessary to maintain the contract rents at a level not greater than comparable market rents or to increase rents to comparable market rents.
 
->         “(2) __Discretionary.—__ 
+>         “(2)  __Discretionary__  __.—__ 
 
 >         In addition to review and adjustment required under paragraph (1), in the case of projects with contracts renewed pursuant to subsection (a) or pursuant to subsection (e)(2) at rent levels equal to comparable market rents for the market area, the Secretary may, at the discretion of the Secretary but only once within each 5-year period referred to in paragraph (1), conduct a comparison of rents for a project and adjust the rents accordingly to maintain the contract rents at a level not greater than comparable market rents or to increase rents to comparable market rents.
 
 >     “(d) __Enhanced Vouchers Upon Contract Expiration.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In the case of a contract for project-based assistance under section 8 for a covered project that is not renewed under subsection (a) or (b) of this section (or any other authority), to the extent that amounts for assistance under this subsection are provided in advance in appropriation Acts, upon the date of the expiration of such contract the Secretary shall make enhanced voucher assistance under section 8(t) of the United States Housing Act of 1937 ([42 U.S.C. 1437f(t)][/us/usc/t42/s1437f/t]) available on behalf of each low-income family who, upon the date of such expiration, is residing in an assisted dwelling unit in the covered project.
 
->         “(2) __Definitions.—__ 
+>         “(2)  __Definitions__  __.—__ 
 
 >         For purposes of this subsection, the following definitions shall apply:
 
->             “(A) __Assisted dwelling unit.—__ 
+>             “(A)  __Assisted dwelling unit__  __.—__ 
 
 >             The term ‘assisted dwelling unit’ means a dwelling unit that—
 
@@ -2857,7 +2857,7 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >                 “(ii) is covered by rental assistance provided under the contract for project-based assistance for the covered project.
 
->             “(B) __Covered project.—__ 
+>             “(B)  __Covered project__  __.—__ 
 
 >             The term ‘covered project’ means any housing that—
 
@@ -2885,25 +2885,25 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >                 “(iii) is not housing for which residents are eligible for enhanced voucher assistance as provided, pursuant to the ‘Preserving Existing Housing Investment’ account in the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997 ([Public Law 104–204][/us/pl/104/204]; [110 Stat. 2884][/us/stat/110/2884]) or any other subsequently enacted provision of law, in lieu of any benefits under section 223 of the Low-Income Housing Preservation and Resident Homeownership Act of 1990 ([12 U.S.C. 4113][/us/usc/t12/s4113]).
 
->         “(4) __Authorization of appropriations.—__ 
+>         “(4)  __Authorization of appropriations__  __.—__ 
 
 >         There are authorized to be appropriated for each of fiscal years 2000, 2001, 2002, 2003, and 2004 such sums as may be necessary for enhanced voucher assistance under this subsection.
 
->     “(e) __Contractual Commitments Under Preservation Laws.—__ 
+>     “(e)  __Contractual Commitments Under Preservation Laws__  __.—__ 
 
 >     Except as provided in subsection (a)(2) and notwithstanding any other provision of this subtitle, the following shall apply:
 
->         “(1) __Preservation projects.—__ 
+>         “(1)  __Preservation projects__  __.—__ 
 
 >         Upon expiration of a contract for assistance under section 8 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\] for a project that is subject to an approved plan of action under the Emergency Low Income Housing Preservation Act of 1987 ([12 U.S.C. 1715][/us/usc/t12/s1715]l note) or the Low-Income Housing Preservation and Resident Homeownership Act of 1990 ([12 U.S.C. 4101][/us/usc/t12/s4101] et seq.), to the extent amounts are specifically made available in appropriation Acts, the Secretary shall provide to the owner benefits comparable to those provided under such plan of action, including distributions, rent increase procedures, and duration of low-income affordability restrictions. This paragraph shall apply to projects with contracts expiring before, on, or after the date of the enactment of this section \[Oct. 27, 1997\].
 
 >         “(2) __Demonstration projects.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Upon expiration of a contract for assistance under section 8 for a project entered into pursuant to any authority specified in subparagraph (B) for which the Secretary determines that debt restructuring is inappropriate, the Secretary shall, at the request of the owner of the project and to the extent sufficient amounts are made available in appropriation Acts, provide benefits to the owner comparable to those provided under such contract, including annual distributions, rent increase procedures, and duration of low-income affordability restrictions. This paragraph shall apply to projects with contracts expiring before, on, or after the date of the enactment of this section \[Oct. 27, 1997\].
 
->             “(B) __Demonstration programs.—__ 
+>             “(B)  __Demonstration programs__  __.—__ 
 
 >             The authority specified in this subparagraph is the authority under—
 
@@ -2913,17 +2913,17 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >                 “(iii) either of such sections, pursuant to any provision of this title \[see Short Title of 1997 Amendment note set out under [section 1701 of title 12][/us/usc/t12/s1701]\].
 
->         “(3) __Mortgage restructuring and rental assistance sufficiency plans.—__ 
+>         “(3)  __Mortgage restructuring and rental assistance sufficiency plans__  __.—__ 
 
 >         Notwithstanding paragraph (1), the owner of the project may request, and the Secretary may consider, mortgage restructuring and rental assistance sufficiency plans to facilitate sales or transfers of properties under this subtitle, subject to an approved plan of action under the Emergency Low Income Housing Preservation Act of 1987 ([12 U.S.C. 1715][/us/usc/t12/s1715]l note) \[see Codification note preceding [section 4101 of Title 12][/us/usc/t12/s4101], Banks and Banking\] or the Low-Income Housing Preservation and Resident Homeownership Act of 1990 ([12 U.S.C. 4101][/us/usc/t12/s4101] et seq.), which plans shall result in a sale or transfer of those properties.
 
 >     “(f) __Preemption of Conflicting State Laws Limiting Distributions.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), no State or political subdivision of a State may establish, continue in effect, or enforce any law or regulation that limits or restricts, to an amount that is less than the amount provided for under the regulations of the Secretary establishing allowable project distributions to provide a return on investment, the amount of surplus funds accruing after the date of the enactment of this section \[Oct. 27, 1997\] that may be distributed from any multifamily housing project assisted under a contract for rental assistance renewed under any provision of this section (except subsection (b)) to the owner of the project.
 
->         “(2) __Exception and waiver.—__ 
+>         “(2)  __Exception and waiver__  __.—__ 
 
 >         Paragraph (1) shall not apply to any law or regulation to the extent such law or regulation applies to—
 
@@ -2931,33 +2931,33 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >             “(B) a multifamily housing project for which the owner has elected to waive the applicability of paragraph (1).
 
->         “(3) __Treatment of low-income use restrictions.—__ 
+>         “(3)  __Treatment of low-income use restrictions__  __.—__ 
 
 >         This subsection may not be construed to provide for, allow, or result in the release or termination, for any project, of any low- or moderate-income use restrictions that can not be eliminated by unilateral action of the owner of the project.
 
->     “(g) __Applicability.—__ 
+>     “(g)  __Applicability__  __.—__ 
 
 >     Except to the extent otherwise specifically provided in this section, this section shall apply with respect to any multifamily housing project having a contract for project-based assistance under section 8 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\] that terminates or expires during fiscal year 2000 or thereafter.
 
 > “SEC. 525. __CONSISTENCY OF RENT LEVELS UNDER ENHANCED VOUCHER ASSISTANCE AND RENT RESTRUCTURINGS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary shall examine the standards and procedures for determining and establishing the rent standards described under subsection (b). Pursuant to such examination, the Secretary shall establish procedures and guidelines that are designed to ensure that the amounts determined by the various rent standards for the same dwelling units are reasonably consistent and reflect rents for comparable unassisted units in the same area as such dwelling units.
 
->     “(b) __Rent Standards.—__ 
+>     “(b)  __Rent Standards__  __.—__ 
 
 >     The rent standards described in this subsection are as follows:
 
->         “(1) __Enhanced vouchers.—__ 
+>         “(1)  __Enhanced vouchers__  __.—__ 
 
 >         The payment standard for enhanced voucher assistance under section 8(t) of the United States Housing Act of 1937 ([42 U.S.C. 1437f(t)][/us/usc/t42/s1437f/t]).
 
->         “(2) __Mark-to-market.—__ 
+>         “(2)  __Mark-to-market__  __.—__ 
 
 >         The rents derived from comparable properties, for purposes of section 514(g) of this Act.
 
->         “(3) __Contract renewal.—__ 
+>         “(3)  __Contract renewal__  __.—__ 
 
 >         The comparable market rents for the market area, for purposes of section 524(a)(4) of this Act.
 
@@ -2969,7 +2969,7 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >     “(a) __Repeals.—__ 
 
->         “(1) __Mark-to-market program.—__ 
+>         “(1)  __Mark-to-market program__  __.—__ 
 
 >         Subtitle A (except for section 524) is repealed effective October 1, 2015.
 
@@ -2977,15 +2977,15 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >         Subtitle D (except for this section) is repealed effective October 1, 2004.
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     Notwithstanding the repeal under subsection (a), the provisions of subtitle A (as in effect immediately before such repeal) shall apply with respect to projects and programs for which binding commitments have been entered into under this Act before October 1, 2015.
 
->     “(c) __Termination of Director and Office.—__ 
+>     “(c)  __Termination of Director and Office__  __.—__ 
 
 >     The Office of Multifamily Housing Assistance Restructuring and the position of Director of such Office shall terminate at the end of September 30, 2004.
 
->     “(d) __Transfer of Authority.—__ 
+>     “(d)  __Transfer of Authority__  __.—__ 
 
 >     Effective upon the repeal of subtitle D under subsection (a)(2) of this section, all authority and responsibilities to administer the program under subtitle A are transferred to the Secretary.”
 
@@ -3073,7 +3073,7 @@ Similar provisions were contained in the following prior appropriations Acts:
 
 [Pub. L. 104–204, title II, § 211][/us/pl/104/204/s211], Sept. 26, 1996, [110 Stat. 2895][/us/stat/110/2895], as amended by [Pub. L. 105–18, title II, § 10006][/us/pl/105/18/s10006], June 12, 1997, [111 Stat. 201][/us/stat/111/201]; [Pub. L. 105–65, title V, § 523(e)][/us/pl/105/65/s523/e], Oct. 27, 1997, [111 Stat. 1407][/us/stat/111/1407]; [Pub. L. 106–400, § 2][/us/pl/106/400/s2], Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
@@ -3093,13 +3093,13 @@ Similar provisions were contained in the following prior appropriations Acts:
 
 >         “(8) the term ‘tenant-based assistance’ has the same meaning as in section 8(f) of the United States Housing Act of 1937.
 
->     “(b) __Section 8 Contract Renewal Authority.—__ 
+>     “(b)  __Section__  __8 Contract Renewal Authority.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding section 405(a) of the Balanced Budget Downpayment Act, I \[[Pub. L. 104–99][/us/pl/104/99], set out below\], upon the request of the owner of a multifamily housing project that is covered by an expiring contract, the Secretary shall use amounts made available for the renewal of assistance under section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\] to renew the expiring contract as project-based assistance for a period of not more than one year, at rent levels that are equal to those under the expiring contract as of the date on which the contract expires: Provided, That those rent levels do not exceed 120 percent of the fair market rent for the market area in which the project is located. For an FHA-insured multifamily housing project with an expiring contract at rent levels that exceed 120 percent of the fair market rent for the market area, the Secretary shall provide, at the request of the owner, section 8 project-based assistance, for a period of not more than one year, at rent levels that do not exceed 120 percent of the fair market rent.
 
->         “(2) __Exemption for state and local housing agency projects.—__ 
+>         “(2)  __Exemption for state and local housing agency projects__  __.—__ 
 
 >         Notwithstanding paragraph (1), upon the expiration of a contract with rent levels that exceed the percentage described in that paragraph, if the Secretary determines that the primary financing or mortgage insurance for the multifamily housing project that is covered by that expiring contract was provided by a public agency, the Secretary shall, at the request of the owner and the public agency, renew the expiring contract—
 
@@ -3107,7 +3107,7 @@ Similar provisions were contained in the following prior appropriations Acts:
 
 >             “(B) at rent levels that are equal to those under the expiring contract as of the date on which the contract expires.
 
->         “(3) __Exemption of certain other projects.—__ 
+>         “(3)  __Exemption of certain other projects__  __.—__ 
 
 >         Notwithstanding paragraph (1), for section 202 projects, section 515 projects, projects with contracts entered into pursuant to \[former\] section 441 of the McKinney-Vento Homeless Assistance Act \[[42 U.S.C. 11401][/us/usc/t42/s11401]\], and projects with rents that exceed 100 percent of fair market rent for the market area, but that are less than rents for comparable projects, upon the expiration of a section 8 contract, the Secretary shall, at the request of the owner, renew the expiring contract—
 
@@ -3117,19 +3117,19 @@ Similar provisions were contained in the following prior appropriations Acts:
 
 >         “(4) __Other contracts.—__ 
 
->             “(A) __Participation in demonstration.—__ 
+>             “(A)  __Participation in demonstration__  __.—__ 
 
 >             For a contract covering an FHA-insured multifamily housing project that expires during fiscal year 1997 with rent levels that exceed the percentage described in paragraph (1) and after notice to the tenants, the Secretary shall, at the request of the owner of the project and after notice to the tenants, include that multifamily housing project in the demonstration program under section 212 of this Act \[set out below\]. The Secretary shall ensure that a multifamily housing project with an expiring contract in fiscal year 1997 shall be allowed to be included in the demonstration.
 
->             “(B) __Effect of material adverse actions and omissions.—__ 
+>             “(B)  __Effect of material adverse actions and omissions__  __.—__ 
 
 >             Notwithstanding paragraph (1) or any other provision of law, the Secretary shall not renew an expiring contract if the Secretary determines that the owner of the multifamily housing project has engaged in material adverse financial or managerial actions or omissions with regard to the project (or with regard to other similar projects if the Secretary determines that such actions or omissions constitute a pattern of mismanagement that would warrant suspension or debarment by the Secretary). The term ‘owner’, as used in this subparagraph, in addition to it having the same meaning as in section 8(f) of the United States Housing Act of 1937 \[[42 U.S.C. 1437f(f)][/us/usc/t42/s1437f/f]\], also means an affiliate of the owner. The term ‘affiliate of the owner’ means any person or entity (including, but not limited to, a general partner or managing member, or an officer of either) that controls an owner, is controlled by an owner, or is under common control with the owner. The term ‘control’ means the direct or indirect power (under contract, equity ownership, the right to vote or determine a vote, or otherwise) to direct the financial, legal, beneficial, or other interests of the owner.
 
->             “(C) __Transfer of property.—__ 
+>             “(C)  __Transfer of property__  __.—__ 
 
 >             For properties disqualified from the demonstration program because of actions by an owner or purchaser in accordance with subparagraph (B), the Secretary shall establish procedures to facilitate the voluntary sale or transfer of the property, with a preference for tenant organizations and tenant-endorsed community-based nonprofit and public agency purchasers meeting such reasonable qualifications as may be established by the Secretary. The Secretary may include the transfer of section 8 project-based assistance.
 
->         “(5) __Tenant protections.—__ 
+>         “(5)  __Tenant protections__  __.—__ 
 
 >         Any family residing in an assisted unit in a multifamily housing project that is covered by an expiring contract that is not renewed, shall be offered tenant-based assistance before the date on which the contract expires or is not renewed.”
 
@@ -3151,19 +3151,19 @@ Similar provisions were contained in the following prior appropriations Acts:
 
 >         “(1) __Repeal.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Section 210 of the Departments of Veterans Affairs and Housing and Urban Development and Independent Agencies Appropriations Act, 1996 ([110 Stat. 1321][/us/stat/110/1321]) \[section 101(e) \[title II, § 210\] of [Pub. L. 104–134][/us/pl/104/134], formerly set out as a note below\] is repealed.
 
->             “(B) __Exception.—__ 
+>             “(B)  __Exception__  __.—__ 
 
 >             Notwithstanding the repeal under subparagraph (A), amounts made available under section 210(f) \[of\] the Departments of Veterans Affairs and Housing and Urban Development and Independent Agencies Appropriations Act, 1996 shall remain available for the demonstration program under this section through the end of fiscal year 1997.
 
->         “(2) __Savings provisions.—__ 
+>         “(2)  __Savings provisions__  __.—__ 
 
 >         Nothing in this section shall be construed to affect any commitment entered into before the date of enactment of this Act \[Sept. 26, 1996\] under the demonstration program under section 210 of the Departments of Veterans Affairs and Housing and Urban Development and Independent Agencies Appropriations Act, 1996.
 
->         “(3) __Definitions.—__ 
+>         “(3)  __Definitions__  __.—__ 
 
 >         For purposes of this section—
 
@@ -3185,7 +3185,7 @@ Similar provisions were contained in the following prior appropriations Acts:
 
 >     “(b) __Demonstration Authority.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to the funding limitation in subsection (l), the Secretary shall administer a demonstration program with respect to multifamily projects—
 
@@ -3195,7 +3195,7 @@ Similar provisions were contained in the following prior appropriations Acts:
 
 >             “(C) the mortgages of which are insured under the National Housing Act \[[12 U.S.C. 1701][/us/usc/t12/s1701] et seq.\].
 
->         “(2) __Purpose.—__ 
+>         “(2)  __Purpose__  __.—__ 
 
 >         The demonstration program shall be designed to obtain as much information as is feasible on the economic viability and rehabilitation needs of the multifamily housing projects in the demonstration, to test various approaches for restructuring mortgages to reduce the financial risk to the FHA Insurance Fund while reducing the cost of section 8 subsidies, and to test the feasibility and desirability of—
 
@@ -3207,7 +3207,7 @@ Similar provisions were contained in the following prior appropriations Acts:
 
 >     “(c) __Goals.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall carry out the demonstration program in a manner that will protect the financial interests of the Federal Government through debt restructuring and subsidy reduction and, in the least costly fashion, address the goals of—
 
@@ -3223,21 +3223,21 @@ Similar provisions were contained in the following prior appropriations Acts:
 
 >             “(F) minimizing any adverse impacts on residential neighborhoods and local communities.
 
->         “(2) __Balance of competing goals.—__ 
+>         “(2)  __Balance of competing goals__  __.—__ 
 
 >         In determining the manner in which a mortgage is to be restructured or a subsidy reduced under this subsection, the Secretary may balance competing goals relating to individual projects in a manner that will further the purposes of this section.
 
 >     “(d) __Participation Arrangements.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In carrying out the demonstration program, the Secretary may enter into participation arrangements with designees, under which the Secretary may provide for the assumption by designees (by delegation, by contract, or otherwise) of some or all of the functions, obligations, responsibilities and benefits of the Secretary.
 
->         “(2) __Designees.—__ 
+>         “(2)  __Designees__  __.—__ 
 
 >         In entering into any arrangement under this subsection, the Secretary shall select state housing finance agencies, housing agencies or nonprofits (separately or in conjunction with each other) to act as designees to the extent such agencies are determined to be qualified by the Secretary. In locations where there is no qualified State housing finance agency, housing agency or nonprofit to act as a designee, the Secretary may act as a designee. Each participation arrangement entered into under this subsection shall include a designee as the primary partner. Any organization selected by the Secretary under this section shall have a long-term record of service in providing low-income housing and meet standards of fiscal responsibility, as determined by the Secretary.
 
->         “(3) __Designee partnerships.—__ 
+>         “(3)  __Designee partnerships__  __.—__ 
 
 >         For purposes of any participation arrangement under this subsection, designees are encouraged to develop partnerships with each other, and to contract or subcontract with other entities, including—
 
@@ -3259,27 +3259,27 @@ Similar provisions were contained in the following prior appropriations Acts:
 
 >     “(e) __Long-Term Affordability.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         After the renewal of a section 8 contract pursuant to a restructuring under this section, the owner shall accept each offer to renew the section 8 contract, for a period of 20 years from the date of the renewal under the demonstration, if the offer to renew is on terms and conditions, as agreed to by the Secretary or designee and the owner under a restructuring.
 
->         “(2) __Affordability requirements.—__ 
+>         “(2)  __Affordability requirements__  __.—__ 
 
 >         Except as otherwise provided by the Secretary, in exchange for any mortgage restructuring under this section, a project shall remain affordable for a period of not less than 20 years. Affordability requirements shall be determined in accordance with guidelines established by the Secretary or designee. The Secretary or designee may waive these requirements for good cause.
 
 >     “(f) __Procedures.—__ 
 
->         “(1) __Notice of participation in demonstration.—__ 
+>         “(1)  __Notice of participation in demonstration__  __.—__ 
 
 >         Not later than 45 days before the date of expiration of an expiring contract (or such later date, as determined by the Secretary, for good cause), the owner of the multifamily housing project covered by that expiring contract shall notify the Secretary or designee and the residents of the owner’s intent to participate in the demonstration program.
 
->         “(2) __Demonstration contract.—__ 
+>         “(2)  __Demonstration contract__  __.—__ 
 
 >         Upon receipt of a notice under paragraph (1), the owner and the Secretary or designee shall enter into a demonstration contract, which shall provide for initial section 8 project-based rents at the same rent levels as those under the expiring contract or, if practical, the budget-based rent to cover debt service, reasonable operating expenses (including reasonable and appropriate services), and a reasonable return to the owner, as determined solely by the Secretary. The demonstration contract shall be for the minimum term necessary for the rents and mortgages of the multifamily housing project to be restructured under the demonstration program, but shall not be for a period of time to exceed 180 days, unless extended for good cause by the Secretary.
 
 >     “(g)
 
->         (1) __Project-Based Section 8.—__ 
+>         (1)  __Project-Based Section__  __8.—__ 
 
 >         The Secretary shall renew all expiring contracts under the demonstration as section 8 project-based contracts, for a period of time not to exceed one year, unless otherwise provided under subsection (h) or in paragraph (2).
 
@@ -3293,89 +3293,89 @@ Similar provisions were contained in the following prior appropriations Acts:
 
 >     “(h) __Demonstration Actions.—__ 
 
->         “(1) __Demonstration actions.—__ 
+>         “(1)  __Demonstration actions__  __.—__ 
 
 >         For purposes of carrying out the demonstration program, and in order to ensure that contract rights are not abrogated, subject to such third party consents as are necessary (if any), including consent by the Government National Mortgage Association if it owns a mortgage insured by the Secretary, consent by an issuer under the mortgage-backed securities program of the Association, subject to the responsibilities of the issuer to its security holders and the Association under such program, and consent by parties to any contractual agreement which the Secretary proposes to modify or discontinue, the Secretary or, except with respect to subparagraph (B), designee, subject to the funding limitation in subsection (l), shall take not less than one of the actions specified in subparagraphs (G), (H), and (I) and may take any of the following actions:
 
 >             “(A) __Removal of restrictions.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Consistent with the purposes of this section, subject to the agreement of the owner of the project and after consultation with the tenants of the project, the Secretary or designee may remove, relinquish, extinguish, modify, or agree to the removal of any mortgage, regulatory agreement, project-based assistance contract, use agreement, or restriction that had been imposed or required by the Secretary, including restrictions on distributions of income which the Secretary or designee determines would interfere with the ability of the project to operate without above-market rents.
 
->                 “(ii) __Accumulated residual receipts.—__ 
+>                 “(ii)  __Accumulated residual receipts__  __.—__ 
 
 >                 The Secretary or designee may require an owner of a property assisted under the section 8 new construction/substantial rehabilitation program under the United States Housing Act of 1937 \[[42 U.S.C. 1437][/us/usc/t42/s1437] et seq.\] to apply any accumulated residual receipts toward effecting the purposes of this section.
 
->             “(B) __Reinsurance.—__ 
+>             “(B)  __Reinsurance__  __.—__ 
 
 >             With respect to not more than 5,000 units within the demonstration during fiscal year 1997, the Secretary may enter into contracts to purchase reinsurance, or enter into participations or otherwise transfer economic interest in contracts of insurance or in the premiums paid, or due to be paid, on such insurance, on such terms and conditions as the Secretary may determine. Any contract entered into under this paragraph shall require that any associated units be maintained as low-income units for the life of the mortgage, unless waived by the Secretary for good cause.
 
->             “(C) __Participation by third parties.—__ 
+>             “(C)  __Participation by third parties__  __.—__ 
 
 >             The Secretary or designee may enter into such agreements, provide such concessions, incur such costs, make such grants (including grants to cover all or a portion of the rehabilitation costs for a project) and other payments, and provide other valuable consideration as may reasonably be necessary for owners, lenders, servicers, third parties, and other entities to participate in the demonstration program. The Secretary may establish performance incentives for designees.
 
->             “(D) __Section 8 administrative fees.—__ 
+>             “(D)  __Section 8 administrative fees__  __.—__ 
 
 >             Notwithstanding any other provision of law, the Secretary may make fees available from the section 8 contract renewal appropriation to a designee for contract administration under section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\] for purposes of any contract restructured or renewed under the demonstration program.
 
->             “(E) __Full or partial payment of claim.—__ 
+>             “(E)  __Full or partial payment of claim__  __.—__ 
 
 >             Notwithstanding any other provision of law, the Secretary may make a full payment of claim or partial payment of claim prior to default.
 
 >             “(F) __Credit enhancement.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 The Secretary or designee may provide FHA multifamily mortgage insurance, reinsurance, or other credit enhancement alternatives, including retaining the existing FHA mortgage insurance on a restructured first mortgage at market value or using the multifamily risk-sharing mortgage programs, as provided under section 542 of the Housing and Community Development Act of 1992 \[[12 U.S.C. 1707][/us/usc/t12/s1707] note\]. Any limitations on the number of units available for mortgage insurance under section 542 shall not apply to insurance issued for purposes of the demonstration program.
 
->                 “(ii) __Maximum percentage.—__ 
+>                 “(ii)  __Maximum percentage__  __.—__ 
 
 >                 During fiscal year 1997, not more than 25 percent of the units in multifamily housing projects with expiring contracts in the demonstration, in the aggregate, may be restructured without FHA insurance, unless otherwise agreed to by the owner of a project.
 
->                 “(iii) __Credit subsidy.—__ 
+>                 “(iii)  __Credit subsidy__  __.—__ 
 
 >                 Any credit subsidy costs of providing mortgage insurance shall be paid from amounts made available under subsection (l).
 
 >             “(G) __Mortgage restructuring.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 The Secretary or designee may restructure mortgages to provide a restructured first mortgage to cover debt service and operating expenses (including a reasonable rate of return to the owner) at the market rent, and a second mortgage equal to the difference between the restructured first mortgage and the mortgage balance of the eligible multifamily housing project at the time of restructuring.
 
->                 “(ii) __Credit subsidy.—__ 
+>                 “(ii)  __Credit subsidy__  __.—__ 
 
 >                 Any credit subsidy costs of providing a second mortgage shall be paid from amounts made available under subsection (l).
 
->             “(H) __Debt forgiveness.—__ 
+>             “(H)  __Debt forgiveness__  __.—__ 
 
 >             The Secretary or designee, for good cause and at the request of the owner of a multifamily housing project, may forgive at the time of the restructuring of a mortgage any portion of a debt on the project that exceeds the market value of the project.
 
->             “(I) __Budget-based rents.—__ 
+>             “(I)  __Budget-based rents__  __.—__ 
 
 >             The Secretary or designee may renew an expiring contract, including a contract for a project in which operating costs exceed comparable market rents, for a period of not more than one year, at a budget-based rent that covers debt service, reasonable operating expenses (including all reasonable and appropriate services), and a reasonable rate of return to the owner, as determined solely by the Secretary, provided that the contract does not exceed the rent levels under the expiring contract. The Secretary may establish a preference under the demonstration program for budget-based rents for unique housing projects, such as projects designated for occupancy by elderly families and projects in rural areas.
 
->             “(J) __Section 8 tenant-based assistance.—__ 
+>             “(J)  __Section 8 tenant-based assistance__  __.—__ 
 
 >             For not more than 10 percent of units in multifamily housing projects that have had their mortgages restructured in any fiscal year under the demonstration, the Secretary or designee may provide, with the agreement of an owner and in consultation with the tenants of the housing, section 8 tenant-based assistance for some or all of the assisted units in a multifamily housing project in lieu of section 8 project-based assistance. Section 8 tenant-based assistance may only be provided where the Secretary determines and certifies that there is adequate available and affordable housing within the local area and that tenants will be able to use the section 8 tenant-based assistance successfully.
 
->         “(2) __Offer and acceptance.—__ 
+>         “(2)  __Offer and acceptance__  __.—__ 
 
 >         Notwithstanding any other provision of law, an owner of a project in the demonstration must accept any reasonable offer made by the Secretary or a designee under this subsection. An owner may appeal the reasonableness of any offer to the Secretary and the Secretary shall respond within 30 days of the date of appeal with a final offer. If the final offer is not acceptable, the owner may opt out of the program.
 
->     “(i) __Community and Tenant Input.—__ 
+>     “(i)  __Community and Tenant Input__  __.—__ 
 
 >     In carrying out this section, the Secretary shall develop procedures to provide appropriate and timely notice, including an opportunity for comment and timely access to all relevant information, to officials of the unit of general local government affected, the community in which the project is situated, and the tenants of the project.
 
->     “(j) __Transfer of Property.—__ 
+>     “(j)  __Transfer of Property__  __.—__ 
 
 >     The Secretary shall establish procedures to facilitate the voluntary sale or transfer of multifamily housing projects under the demonstration to tenant organizations and tenant-endorsed community-based nonprofit and public agency purchasers meeting such reasonable qualifications as may be established by the Secretary.
 
->     “(k) __Limitation on Demonstration Authority.—__ 
+>     “(k)  __Limitation on Demonstration Authority__  __.—__ 
 
 >     The Secretary shall carry out the demonstration program with respect to mortgages not to exceed 50,000 units.
 
->     “(l) __Funding.—__ 
+>     “(l)  __Funding__  __.—__ 
 
 >     In addition to the $30,000,000 made available under section 210 of the Departments of Veterans Affairs and Housing and Urban Development and Independent Agencies Appropriations Act, 1996 ([110 Stat. 1321][/us/stat/110/1321]) \[section 101(e) \[title II, § 210\] of [Pub. L. 104–134][/us/pl/104/134], formerly set out as a note below\], for the costs (including any credit subsidy costs associated with providing direct loans or mortgage insurance) of modifying and restructuring loans held or guaranteed by the Federal Housing Administration, as authorized under this section, $10,000,000 is hereby appropriated, to remain available until September 30, 1998.
 
@@ -3383,15 +3383,15 @@ Similar provisions were contained in the following prior appropriations Acts:
 
 >         “(1) __In general.—__ 
 
->             “(A) __Quarterly reports.—__ 
+>             “(A)  __Quarterly reports__  __.—__ 
 
 >             Not less than every 3 months, the Secretary shall submit to the Congress a report describing and assessing the status of the projects in the demonstration program.
 
->             “(B) __Final report.—__ 
+>             “(B)  __Final report__  __.—__ 
 
 >             Not later than 6 months after the end of the demonstration program, the Secretary shall submit to the Congress a final report on the demonstration program.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         Each report submitted under paragraph (1)(A) shall include a description of—
 
@@ -3407,7 +3407,7 @@ Similar provisions were contained in the following prior appropriations Acts:
 
 >             “(F) the demonstration program’s impact on the owners of the projects, including any tax consequences.
 
->         “(3) __Contents of final report.—__ 
+>         “(3)  __Contents of final report__  __.—__ 
 
 >         The report submitted under paragraph (1)(B) shall include—
 
@@ -3421,15 +3421,15 @@ Similar provisions were contained in the following prior appropriations Acts:
 
 Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as amended by [Pub. L. 105–276, title V, § 522(b)(3)][/us/pl/105/276/s522/b/3], Oct. 21, 1998, [112 Stat. 2564][/us/stat/112/2564], provided that:
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     The purpose of this demonstration is to give public housing agencies and the Secretary of Housing and Urban Development the flexibility to design and test various approaches for providing and administering housing assistance that: reduce cost and achieve greater cost effectiveness in Federal expenditures; give incentives to families with children where the head of household is working, seeking work, or is preparing for work by participating in job training, educational programs, or programs that assist people to obtain employment and become economically self-sufficient; and increase housing choices for low-income families.
 
->     “(b) __Program Authority.—__ 
+>     “(b)  __Program Authority__  __.—__ 
 
 >     The Secretary of Housing and Urban Development shall conduct a demonstration program under this section beginning in fiscal year 1996 under which up to 30 public housing agencies (including Indian housing authorities) administering the public or Indian housing program and the section 8 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\] housing assistance payments program may be selected by the Secretary to participate. The Secretary shall provide training and technical assistance during the demonstration and conduct detailed evaluations of up to 15 such agencies in an effort to identify replicable program models promoting the purpose of the demonstration. Under the demonstration, notwithstanding any provision of the United States Housing Act of 1937 \[[42 U.S.C. 1437][/us/usc/t42/s1437] et seq.\] except as provided in subsection (e), an agency may combine operating assistance provided under section 9 of the United States Housing Act of 1937 \[[42 U.S.C. 1437g][/us/usc/t42/s1437g]\], modernization assistance provided under section 14 of such Act \[[42 U.S.C. 1437][/us/usc/t42/s1437]l\], and assistance provided under section 8 of such Act for the certificate and voucher programs, to provide housing assistance for low-income families, as defined in section 3(b)(2) of the United States Housing Act of 1937 \[[42 U.S.C. 1437a(b)(2)][/us/usc/t42/s1437a/b/2]\], and services to facilitate the transition to work on such terms and conditions as the agency may propose and the Secretary may approve.
 
->     “(c) __Application.—__ 
+>     “(c)  __Application__  __.—__ 
 
 >     An application to participate in the demonstration—
 
@@ -3453,27 +3453,27 @@ Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as
 
 >         “(4) may request assistance for training and technical assistance to assist with design of the demonstration and to participate in a detailed evaluation.
 
->     “(d) __Selection.—__ 
+>     “(d)  __Selection__  __.—__ 
 
 >     In selecting among applications, the Secretary shall take into account the potential of each agency to plan and carry out a program under the demonstration, the relative performance by an agency under the public housing management assessment program under section 6(j) of the United States Housing Act of 1937 \[[42 U.S.C. 1437d(j)][/us/usc/t42/s1437d/j]\], and other appropriate factors as determined by the Secretary.
 
->     “(e) __Applicability of 1937 Act Provisions.—__ 
+>     “(e)  __Applicability of__  __1937 Act Provisions.—__ 
 
 >         “(1) Section 18 of the United States Housing Act of 1937 \[[42 U.S.C. 1437p][/us/usc/t42/s1437p]\] shall continue to apply to public housing notwithstanding any use of the housing under this demonstration.
 
 >         “(2) Section 12 of such Act \[[42 U.S.C. 1437j][/us/usc/t42/s1437j]\] shall apply to housing assisted under the demonstration, other than housing assisted solely due to occupancy by families receiving tenant-based assistance.
 
->     “(f) __Effect on Section 8, Operating Subsidies, and Comprehensive Grant Program Allocations.—__ 
+>     “(f)  __Effect on Section__  __8,__  __Operating Subsidies, and Comprehensive Grant Program Allocations__  __.—__ 
 
 >     The amount of assistance received under section 8, section 9, or pursuant to section 14 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f], 1437g, 1437l\] by a public housing agency participating in the demonstration under this part \[section\] shall not be diminished by its participation.
 
 >     “(g) __Records, Reports, and Audits.—__ 
 
->         “(1) __Keeping of records.—__ 
+>         “(1)  __Keeping of records__  __.—__ 
 
 >         Each agency shall keep such records as the Secretary may prescribe as reasonably necessary to disclose the amounts and the disposition of amounts under this demonstration, to ensure compliance with the requirements of this section, and to measure performance.
 
->         “(2) __Reports.—__ 
+>         “(2)  __Reports__  __.—__ 
 
 >         Each agency shall submit to the Secretary a report, or series of reports, in a form and at a time specified by the Secretary. Each report shall—
 
@@ -3483,25 +3483,25 @@ Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as
 
 >             “(C) describe and analyze the effect of assisted activities in addressing the objectives of this part \[section\].
 
->         “(3) __Access to documents by the secretary.—__ 
+>         “(3)  __Access to documents by the secretary__  __.—__ 
 
 >         The Secretary shall have access for the purpose of audit and examination to any books, documents, papers, and records that are pertinent to assistance in connection with, and the requirements of, this section.
 
->         “(4) __Access to documents by the comptroller general.—__ 
+>         “(4)  __Access to documents by the comptroller general__  __.—__ 
 
 >         The Comptroller General of the United States, or any of the duly authorized representatives of the Comptroller General, shall have access for the purpose of audit and examination to any books, documents, papers, and records that are pertinent to assistance in connection with, and the requirements of, this section.
 
 >     “(h) __Evaluation and Report.—__ 
 
->         “(1) __Consultation with pha and family representatives.—__ 
+>         “(1)  __Consultation with pha and family representatives__  __.—__ 
 
 >         In making assessments throughout the demonstration, the Secretary shall consult with representatives of public housing agencies and residents.
 
->         “(2) __Report to congress.—__ 
+>         “(2)  __Report to congress__  __.—__ 
 
 >         Not later than 180 days after the end of the third year of the demonstration, the Secretary shall submit to the Congress a report evaluating the programs carried out under the demonstration. The report shall also include findings and recommendations for any appropriate legislative action.
 
->     “(i) __Funding for Technical Assistance and Evaluation.—__ 
+>     “(i)  __Funding for Technical Assistance and Evaluation__  __.—__ 
 
 >     From amounts appropriated for assistance under section 14 of the United States Housing Act of 1937 \[[42 U.S.C. 1437][/us/usc/t42/s1437]l\] for fiscal years 1996, 1997, and 1998, the Secretary may use up to a total of $5,000,000—
 
@@ -3515,7 +3515,7 @@ Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as
 
 >         “(2) to conduct detailed evaluations of the activities of the public housing agencies under paragraph (1)(B), directly or by contract.
 
->     “(j) __Capital and Operating Fund Assistance.—__ 
+>     “(j)  __Capital and Operating Fund Assistance__  __.—__ 
 
 >     With respect to any public housing agency participating in the demonstration under this section that receives assistance from the Capital or Operating Fund under section 9 of the United States Housing Act of 1937 \[[42 U.S.C. 1437g][/us/usc/t42/s1437g]\] (as amended by the Quality Housing and Work Responsibility Act of 1998), for purposes of this section—
 
@@ -3545,11 +3545,11 @@ Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as
 
 [Pub. L. 103–120, § 6][/us/pl/103/120/s6], Oct. 27, 1993, [107 Stat. 1148][/us/stat/107/1148], as amended by [Pub. L. 104–316, title I, § 122(j)][/us/pl/104/316/s122/j], Oct. 19, 1996, [110 Stat. 3837][/us/stat/110/3837], provided that:
 
->     “(a) __Demonstration Program.—__ 
+>     “(a)  __Demonstration Program__  __.—__ 
 
 >     The Secretary shall carry out a demonstration program to attract pension fund investment in affordable housing through the use of project-based rental assistance under section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\].
 
->     “(b) __Funding Requirements.—__ 
+>     “(b)  __Funding Requirements__  __.—__ 
 
 >     In carrying out this section, the Secretary shall ensure that not less than 50 percent of the funds appropriated for the demonstration program each year are used in conjunction with the disposition of either—
 
@@ -3559,7 +3559,7 @@ Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as
 
 >     “(c) __Contract Terms.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Project-based assistance under this section shall be provided pursuant to a contract entered into by the Secretary and the owner of the eligible housing that—
 
@@ -3567,11 +3567,11 @@ Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as
 
 >             “(B) provides for contract rents, to be determined by the Secretary, which shall not exceed contract rents permitted under section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\], taking into consideration any costs for the construction, rehabilitation, or acquisition of the housing.
 
->         “(2) __Amendment to section 203.—__ 
+>         “(2)  __Amendment to section__  __203.—__ 
 
 >         \[Amended [section 1701z–11 of Title 12][/us/usc/t12/s1701z–11], Banks and Banking.\]
 
->     “(d) __Limitation.—__ 
+>     “(d)  __Limitation__  __.—__ 
 
 >         (1)
 
@@ -3589,29 +3589,29 @@ Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as
 
 >         “(2) If the Secretary determines that there are expressions of interest referred to in paragraph (1)(A)(ii), the Secretary may reserve funding sufficient in the Secretary’s determination to fund such applications and may use any remaining funding for other pension funds in accordance with this section.
 
->     “(e) __Implementation.—__ 
+>     “(e)  __Implementation__  __.—__ 
 
 >     The Secretary shall by notice establish such requirements as may be necessary to carry out the provisions of this section. The notice shall take effect upon issuance.
 
->     “(f) __Applicability of ERISA.—__ 
+>     “(f)  __Applicability of ERISA__  __.—__ 
 
 >     Notwithstanding section 514(d) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1144(d)][/us/usc/t29/s1144/d]\], nothing in this section shall be construed to authorize any action or failure to act that would constitute a violation of such Act \[[29 U.S.C. 1001][/us/usc/t29/s1001] et seq.\].
 
->     “(g) __Report.—__ 
+>     “(g)  __Report__  __.—__ 
 
 >     Not later than 3 months after the last day of each fiscal year, the Secretary shall submit to the Committee on Banking, Finance and Urban Affairs \[now Committee on Financial Services\] of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report summarizing the activities carried out under this section during that fiscal year.
 
->     “(h) __Establishment of Standards.—__ 
+>     “(h)  __Establishment of Standards__  __.—__ 
 
 >     Mortgages secured by housing assisted under this demonstration shall meet such standards regarding financing and securitization as the Secretary may establish.
 
->     “(i) __Authorization of Appropriations.—__ 
+>     “(i)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated $100,000,000 for fiscal year 1994 to carry out this section.
 
 >     “\[(j) Redesignated (i).\]
 
->     “(k) __Termination Date.—__ 
+>     “(k)  __Termination Date__  __.—__ 
 
 >     The Secretary shall not enter into any new commitment to provide assistance under this section after September 30, 1998.”
 
@@ -3677,15 +3677,15 @@ Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as
 
 [Pub. L. 101–625, title V, § 550(b)][/us/pl/101/625/s550/b], Nov. 28, 1990, [104 Stat. 4222][/us/stat/104/4222], provided that:
 
->     “(1) __Data.—__ 
+>     “(1)  __Data__  __.—__ 
 
 >     The Secretary of Housing and Urban Development shall collect and maintain, in an automated system, data describing the characteristics of families assisted under the certificate and voucher programs established under section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\], which data shall include the share of family income paid toward rent.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not less than annually, the Secretary shall submit a report to the Congress setting forth, for each of the certificate program and the voucher program, the percentage of families participating in the program who are paying for rent more than the amount determined under section 3(a)(1) of such Act \[[42 U.S.C. 1437a(a)(1)][/us/usc/t42/s1437a/a/1]\]. The report shall set forth data in appropriate categories, such as various areas of the country, types and sizes of public housing agencies, types of families, and types or markets. The data shall identify the jurisdictions in which more than 10 percent of the families assisted under section 8 of such Act pay for rent more than the amount determined under section 3(a)(1) of such Act and the report shall include an examination of whether the fair market rent for such areas is appropriate. The report shall also include any recommendations of the Secretary for legislative and administrative actions appropriate as a result of analysis of the data.
 
->     “(3) __Availability of data.—__ 
+>     “(3)  __Availability of data__  __.—__ 
 
 >     The Secretary shall make available to each public housing agency administering assistance under the certificate or voucher program any data maintained under this subsection that relates to the public housing agency.”
 
@@ -3721,13 +3721,13 @@ Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as
 
 [Pub. L. 101–625, title IX, § 962][/us/pl/101/625/s962], as added by [Pub. L. 102–238, § 5(a)][/us/pl/102/238/s5/a], Dec. 17, 1991, [105 Stat. 1909][/us/stat/105/1909], provided that:
 
->     “(a) __Assistance Authorized.—__ 
+>     “(a)  __Assistance Authorized__  __.—__ 
 
 >     The Secretary of Housing and Urban Development is authorized to provide assistance, under any housing assistance program administered by the Secretary, to the State of Hawaii, for use by the State in meeting the responsibilities with which it has been charged under the provisions of the Act of July 9, 1921 ([42 Stat. 108][/us/stat/42/108]) \[formerly [48 U.S.C. 691–718][/us/usc/t48/s691–718]\].
 
 >     “(b) __Mortgage Insurance.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision or limitation of this Act \[see Short Title note set out under [section 12701 of this title][/us/usc/t42/s12701]\], or the National Housing Act \[[12 U.S.C. 1701][/us/usc/t12/s1701] et seq.\], including those relating to marketability of title, the Secretary of Housing and Urban Development may provide mortgage insurance covering any property on lands set aside under the provisions of the Act of July 9, 1921 ([42 Stat. 108][/us/stat/42/108]), upon which there is or will be located a multifamily residence, for which the Department of the Hawaiian Home Lands of the State of Hawaii—
 
@@ -3737,7 +3737,7 @@ Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as
 
 >             “(C) offers other security that is acceptable to the Secretary, subject to appropriate conditions prescribed by the Secretary.
 
->         “(2) __Sale on default.—__ 
+>         “(2)  __Sale on default__  __.—__ 
 
 >         In the event of a default on a mortgage insured pursuant to paragraph (1), the Department of Hawaiian Home Lands of the State of Hawaii may sell the insured property or housing unit to an eligible beneficiary as defined in the Act of July 9, 1921 ([42 Stat. 108][/us/stat/42/108]).”
 
@@ -3747,7 +3747,7 @@ Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as
 
 >     “(a) __Effect of Prior Comparability Studies.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In any case in which, in implementing section 8(c)(2) of the United States Housing Act of 1937 \[[42 U.S.C. 1437f(c)(2)][/us/usc/t42/s1437f/c/2]\]—
 
@@ -3759,19 +3759,19 @@ Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as
 
 >         “(2) __Applicability.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Subsection (a) shall apply with respect to any use of comparability studies referred to in such subsection occurring before the effective date of the regulations issued under subsection (e).
 
->             “(B) __Final litigation.—__ 
+>             “(B)  __Final litigation__  __.—__ 
 
 >             Subsection (a) shall not apply to any project with respect to which litigation regarding the authority of the Secretary to use comparability studies to limit rental adjustments under section 8(c)(2) of the United States Housing Act of 1937 has resulted in a judgment before the effective date of this Act \[Dec. 15, 1989\] that is final and not appealable (including any settlement agreement).
 
->     “(b) __3-Year Payments.—__ 
+>     “(b) __3-__  __Year Payments__  __.—__ 
 
 >     The Secretary shall provide the amounts under subsection (a) over the 3-year period beginning on the effective date of the regulations issued under subsection (e). The Secretary shall provide the payments authorized under subsection (a) only to the extent approved in subsequent appropriations Acts. There are authorized to be appropriated such sums as may be necessary for this purpose.
 
->     “(d) __Determination of Contract Rent.—__ 
+>     “(d)  __Determination of Contract Rent__  __.—__ 
 
 >         (1)
 
@@ -3783,7 +3783,7 @@ Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as
 
 >         “(2) All adjustments in contract rents under section 8(c)(2) of the United States Housing Act of 1937, including adjustments involving projects referred to in subsection (a), that occur beginning with the first anniversary date of the contract after the regulations issued under subsection (e) take effect shall be made in accordance with the annual adjustment and comparability provisions of sections 8(c)(2)(A) and 8(c)(2)(C) of such Act, respectively, using the one-time contract rent determination under paragraph (1).
 
->     “(e) __Regulations.—__ 
+>     “(e)  __Regulations__  __.—__ 
 
 >     The Secretary shall issue regulations to carry out this section and the amendments made by this section \[amending this section\], including the amendments made by subsection (c) with regard to annual adjustment factors and comparability studies. The Secretary shall issue such regulations not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Dec. 15, 1989\].”
 
@@ -3809,7 +3809,7 @@ Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as
 
 [Pub. L. 100–628, title X, § 1012][/us/pl/100/628/s1012], Nov. 7, 1988, [102 Stat. 3268][/us/stat/102/3268], as amended by [Pub. L. 102–273, § 2(a)][/us/pl/102/273/s2/a], (c)(1), Apr. 21, 1992, [106 Stat. 113][/us/stat/106/113]; [Pub. L. 102–550, title I, § 163][/us/pl/102/550/s163], Oct. 28, 1992, [106 Stat. 3722][/us/stat/106/3722], provided that:
 
->     “(a) __Definition of Qualified Project.—__ 
+>     “(a)  __Definition of Qualified Project__  __.—__ 
 
 >     For purposes of this section, the term ‘qualified project’ means any State financed project or local government or local housing agency financed project, that—
 
@@ -3823,17 +3823,17 @@ Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as
 
 >         “(2) is being refinanced.
 
->     “(b) __Availability of Funds.—__ 
+>     “(b)  __Availability of Funds__  __.—__ 
 
 >     The Secretary shall make available to the State housing finance agency in the State in which a qualified project is located, or the local government or local housing agency initiating the refinancing of the qualified project, as applicable, an amount equal to 50 percent of the amounts recaptured from the project (as determined by the Secretary on a project-by-project basis). Notwithstanding any other provision of law, such amounts shall be used only for providing decent, safe, and sanitary housing affordable for very low-income families and persons.
 
 >     “(c) __Applicability and Budget Compliance.—__ 
 
->         “(1) __Retroactivity.—__ 
+>         “(1)  __Retroactivity__  __.—__ 
 
 >         This section shall apply to refinancings of projects for which settlement occurred or occurs before, on, or after the date of the enactment of the Housing and Community Development Act of 1992 \[Oct. 28, 1992\], subject to the provisions of paragraph (2).
 
->         “(2) __Budget compliance.—__ 
+>         “(2)  __Budget compliance__  __.—__ 
 
 >         This section shall apply only to the extent or in such amounts as are provided in appropriation Acts.”
 
@@ -3865,7 +3865,7 @@ Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as
 
 >     “(d) __Rental Assistance Fraud Recoveries.—__ 
 
->         “(1) __Authority to retain recovered amounts.—__ 
+>         “(1)  __Authority to retain recovered amounts__  __.—__ 
 
 >         The Secretary of Housing and Urban Development shall permit public housing agencies administering the housing assistance payments program under section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\] to retain, out of amounts obtained by the agencies from tenants that are due as a result of fraud and abuse, an amount (determined in accordance with regulations issued by the Secretary) equal to the greater of—
 
@@ -3873,11 +3873,11 @@ Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as
 
 >             “(B) the actual, reasonable, and necessary expenses related to the collection, including costs of investigation, legal fees, and collection agency fees.
 
->         “(2) __Use.—__ 
+>         “(2)  __Use__  __.—__ 
 
 >         Amounts retained by an agency shall be made available for use in support of the affected program or project, in accordance with regulations issued by the Secretary. Where the Secretary is the principal party initiating or sustaining an action to recover amounts from families or owners, the provisions of this section shall not apply.
 
->         “(3) __Recovery.—__ 
+>         “(3)  __Recovery__  __.—__ 
 
 >         Amounts may be recovered under this paragraph—
 

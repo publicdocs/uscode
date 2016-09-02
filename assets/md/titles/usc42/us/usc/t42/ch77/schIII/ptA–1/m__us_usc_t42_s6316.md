@@ -151,21 +151,21 @@
 
             (A) __Relationship to other law.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Except as otherwise provided in this subsection, [section 6297 of this title][/us/usc/t42/s6297] shall apply to walk-in coolers and walk-in freezers for which standards have been established under paragraphs (1), (2), and (3) of [section 6313(f) of this title][/us/usc/t42/s6313/f] to the same extent and in the same manner as the section applies under part A on December 19, 2007.
 
-                (ii) __State standards.—__ 
+                (ii)  __State standards__  __.—__ 
 
                 Any State standard prescribed before December 19, 2007, shall not be preempted until the standards established under paragraphs (1) and (2) of [section 6313(f) of this title][/us/usc/t42/s6313/f] take effect.
 
-            (B) __Administration.—__ 
+            (B)  __Administration__  __.—__ 
 
             In applying [section 6297 of this title][/us/usc/t42/s6297] to equipment under subparagraph (A), paragraphs (1), (2), and (3) of subsection (a) shall apply.
 
         (2) __Final rule not timely.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             If the Secretary does not issue a final rule for a specific type of walk-in cooler or walk-in freezer within the timeframe established under paragraph (4) or (5) of [section 6313(f) of this title][/us/usc/t42/s6313/f], subsections (b) and (c) of [section 6297 of this title][/us/usc/t42/s6297] shall no longer apply to the specific type of walk-in cooler or walk-in freezer during the period—
 
@@ -173,11 +173,11 @@
 
                 (ii) ending on the date on which the Secretary publishes a final rule covering the specific type of walk-in cooler or walk-in freezer.
 
-            (B) __State standards.—__ 
+            (B)  __State standards__  __.—__ 
 
             Any State standard issued before the publication of the final rule shall not be preempted until the standards established in the final rule take effect.
 
-        (3) __California.—__ 
+        (3)  __California__  __.—__ 
 
         Any standard issued in the State of California before January 1, 2011, under title 20 of the California Code of Regulations, that refers to walk-in coolers and walk-in freezers, for which standards have been established under paragraphs (1), (2), and (3) of [section 6313(f) of this title][/us/usc/t42/s6313/f], shall not be preempted until the standards established under [section 6313(f)(4) of this title][/us/usc/t42/s6313/f/4] take effect.
 

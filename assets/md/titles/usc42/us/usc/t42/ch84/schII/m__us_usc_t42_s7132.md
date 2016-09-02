@@ -91,15 +91,15 @@
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3151\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–464, provided that:
 
->     “(a) __Length of Term.—__ 
+>     “(a)  __Length of Term__  __.—__ 
 
 >     The term of office as Under Secretary for Nuclear Security of the Department of Energy of the person first appointed to that position shall be three years.
 
->     “(b) __Exclusive Reasons for Removal.—__ 
+>     “(b)  __Exclusive Reasons for Removal__  __.—__ 
 
 >     The exclusive reasons for removal from office as Under Secretary for Nuclear Security of the person described in subsection (a) shall be inefficiency, neglect of duty, or malfeasance in office.
 
->     “(c) __Position Described.—__ 
+>     “(c)  __Position Described__  __.—__ 
 
 >     The position of Under Secretary for Nuclear Security of the Department of Energy referred to in this section is the position established by subsection (c) of section 202 of the Department of Energy Organization Act ([42 U.S.C. 7132][/us/usc/t42/s7132]), as added by section 3202 of the National Nuclear Security Administration Act (title XXXII of [Public Law 106–65][/us/pl/106/65]; [113 Stat. 954][/us/stat/113/954]).”
 

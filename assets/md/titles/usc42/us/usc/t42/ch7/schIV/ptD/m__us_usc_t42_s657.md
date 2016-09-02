@@ -293,11 +293,11 @@
 
 [Pub. L. 104–193, title III, § 302(c)][/us/pl/104/193/s302/c], Aug. 22, 1996, [110 Stat. 2204][/us/stat/110/2204], provided that:
 
->     “(1) __In General.—__ 
+>     “(1)  __In General__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 654 and 664 of this title\] shall be effective on October 1, 1996, or earlier at the State’s option.
 
->     “(2) __Conforming amendments.—__ 
+>     “(2)  __Conforming amendments__  __.—__ 
 
 >     The amendments made by subsection (b)(2) \[amending [section 654 of this title][/us/usc/t42/s654]\] shall become effective on the date of the enactment of this Act \[Aug. 22, 1996\].”
 

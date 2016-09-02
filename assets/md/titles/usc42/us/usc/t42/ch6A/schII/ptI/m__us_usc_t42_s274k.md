@@ -409,15 +409,15 @@
 
 [Pub. L. 101–616, title I, § 102][/us/pl/101/616/s102], Nov. 16, 1990, [104 Stat. 3282][/us/stat/104/3282], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     This title \[enacting this section and section 274l of this title and amending [section 274a of this title][/us/usc/t42/s274a]\], and the amendments made by this title, shall not affect any legal document, including any order, regulation, grant, or contract, in effect on the date of enactment of this Act \[Nov. 16, 1990\], or any administrative proceeding or lawsuit pending on the date, that relates to the bone marrow registry established under section 373(b) of the Public Health Service Act \[[42 U.S.C. 274a(b)][/us/usc/t42/s274a/b]\] (as it existed before the amendment made by section 101(b) of this Act).
 
->     “(b) __Continued Effect.—__ 
+>     “(b)  __Continued Effect__  __.—__ 
 
 >     A legal document described in subsection (a) or an order issued in a lawsuit described in subsection (a) shall continue in effect until modified, terminated, or revoked.
 
->     “(c) __Proceedings.—__ 
+>     “(c)  __Proceedings__  __.—__ 
 
 >     In any administrative proceeding or lawsuit described in subsection (a), parties shall take appeals, and officials shall hold proceedings and render judgments, in the same manner and with the same effect as if this title had not been enacted.”
 
@@ -425,11 +425,11 @@
 
 [Pub. L. 109–129, § 2][/us/pl/109/129/s2], Dec. 20, 2005, [119 Stat. 2550][/us/stat/119/2550], as amended by [Pub. L. 111–264, § 2(a)][/us/pl/111/264/s2/a], Oct. 8, 2010, [124 Stat. 2789][/us/stat/124/2789], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Health and Human Services shall enter into one-time contracts with qualified cord blood banks to assist in the collection and maintenance of the inventory goal of at least 150,000 new units of high-quality cord blood to be made available for transplantation through the C.W. Bill Young Cell Transplantation Program and to carry out the requirements of subsection (b).
 
->     “(b) __Requirements.—__ 
+>     “(b)  __Requirements__  __.—__ 
 
 >     The Secretary shall require each recipient of a contract under this section—
 
@@ -447,23 +447,23 @@
 
 >     “(c) __Related Cord Blood Donors.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall establish a 3-year demonstration project under which qualified cord blood banks receiving a contract under this section may use a portion of the funding under such contract for the collection and storage of cord blood units for a family where a first-degree relative has been diagnosed with a condition that will benefit from transplantation (including selected blood disorders, malignancies, metabolic storage disorders, hemoglobinopathies, and congenital immunodeficiencies) at no cost to such family. Qualified cord blood banks collecting cord blood units under this paragraph shall comply with the requirements of paragraphs (1), (2), (3), and (5) of subsection (b).
 
->         “(2) __Availability.—__ 
+>         “(2)  __Availability__  __.—__ 
 
 >         Qualified cord blood banks that are operating a program under paragraph (1) shall provide assurances that the cord blood units in such banks will be available for directed transplantation until such time that the cord blood unit is released for transplantation for a first-degree relative.
 
->         “(3) __Inventory.—__ 
+>         “(3)  __Inventory__  __.—__ 
 
 >         Cord blood units collected through the program under this section shall not be counted toward the inventory goal under the C.W. Bill Young Cell Transplantation Program.
 
->         “(4) __Report.—__ 
+>         “(4)  __Report__  __.—__ 
 
 >         Not later than 90 days after the date on which the project under paragraph (1) is terminated by the Secretary, the Secretary shall submit to Congress a report on the outcomes of the project that shall include the recommendations of the Secretary with respect to the continuation of such project.
 
->     “(d) __Application.—__ 
+>     “(d)  __Application__  __.—__ 
 
 >     To seek to enter into a contract under this section, a qualified cord blood bank shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require. At a minimum, an application for a contract under this section shall include a requirement that the applicant—
 
@@ -479,11 +479,11 @@
 
 >     “(e) __Duration of Contracts.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), the term of each contract entered into by the Secretary under this section shall be for a period of at least 10 years beginning on the last date on which the recipient of a contract under this section receives Federal funds under this section. The Secretary shall ensure that no Federal funds shall be obligated under any such contract after the date that is 5 years after the date on which the contract is entered into, except as provided in paragraphs (2) and (3).
 
->         “(2) __Extensions.—__ 
+>         “(2)  __Extensions__  __.—__ 
 
 >         The Secretary may extend the period of funding under a contract under this section to exceed a period of 5 years if—
 
@@ -493,7 +493,7 @@
 
 >             “(C) the Secretary determines that the outstanding inventory need cannot be met by the qualified cord blood banks under contract under this section.
 
->         “(3) __Extension eligibility.—__ 
+>         “(3)  __Extension eligibility__  __.—__ 
 
 >         A qualified cord blood bank shall be eligible for a 5-year extension of a contract awarded under this section, as described in paragraph (2), provided that the qualified cord blood bank—
 
@@ -503,11 +503,11 @@
 
 >             “(C) annually provides to the Secretary a plan for, and demonstrates, ongoing measurable progress toward achieving self-sufficiency of cord blood unit collection and banking operations.
 
->     “(f) __Regulations.—__ 
+>     “(f)  __Regulations__  __.—__ 
 
 >     The Secretary may promulgate regulations to carry out this section.
 
->     “(g) __Definitions.—__ 
+>     “(g)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -525,11 +525,11 @@
 
 >     “(h) __Authorization of Appropriations.—__ 
 
->         “(1) __Authorization of appropriations.—__ 
+>         “(1)  __Authorization of appropriations__  __.—__ 
 
 >         There are authorized to be appropriated to the Secretary to carry out the program under this section $23,000,000 for each of fiscal years 2011 through 2014 and $20,000,000 for fiscal year 2015.
 
->         “(2) __Limitation.—__ 
+>         “(2)  __Limitation__  __.—__ 
 
 >         Not to exceed 5 percent of the amount appropriated under this section for each of fiscal years 2011 through 2015 may be used to carry out the demonstration project under subsection (c).”
 

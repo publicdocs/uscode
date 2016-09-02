@@ -41,11 +41,11 @@
 
 [Pub. L. 101–549, title VIII, § 821][/us/pl/101/549/s821], Nov. 15, 1990, [104 Stat. 2699][/us/stat/104/2699], provided that:
 
->     “(a) __Monitoring.—__ 
+>     “(a)  __Monitoring__  __.—__ 
 
 >     The Administrator of the Environmental Protection Agency shall promulgate regulations within 18 months after the enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\] to require that all affected sources subject to title V of the Clean Air Act \[probably means title IV of the Clean Air Act as added by [Pub. L. 101–549][/us/pl/101/549], which is classified to section 7651 et seq. of this title\] shall also monitor carbon dioxide emissions according to the same timetable as in section 511(b) and (c) \[probably means section 412(b) and (c) of the Clean Air Act, which is classified to section 7651k(b) and (c) of this title\]. The regulations shall require that such data be reported to the Administrator. The provisions of section 511(e) of title V of the Clean Air Act \[probably means section 412(e) of title IV of the Clean Air Act, which is classified to [section 7651k(e) of this title][/us/usc/t42/s7651k/e]\] shall apply for purposes of this section in the same manner and to the same extent as such provision applies to the monitoring and data referred to in section 511 \[probably means section 412 of the Clean Air Act, which is classified to [section 7651k of this title][/us/usc/t42/s7651k]\].
 
->     “(b) __Public Availability of Carbon Dioxide Information.—__ 
+>     “(b)  __Public Availability of Carbon Dioxide Information__  __.—__ 
 
 >     For each unit required to monitor and provide carbon dioxide data under subsection (a), the Administrator shall compute the unit’s aggregate annual total carbon dioxide emissions, incorporate such data into a computer data base, and make such aggregate annual data available to the public.”
 

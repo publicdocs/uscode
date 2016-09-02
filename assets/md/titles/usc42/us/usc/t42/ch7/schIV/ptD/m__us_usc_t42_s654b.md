@@ -81,11 +81,11 @@
 
 [Pub. L. 104–193, title III, § 312(d)][/us/pl/104/193/s312/d], Aug. 22, 1996, [110 Stat. 2209][/us/stat/110/2209], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending sections 654 and 654a of this title\] shall become effective on October 1, 1998.
 
->     “(2) __Limited exception to unit handling payments.—__ 
+>     “(2)  __Limited exception to unit handling payments__  __.—__ 
 
 >     Notwithstanding section 454B(b)(1) of the Social Security Act \[[42 U.S.C. 654b(b)(1)][/us/usc/t42/s654b/b/1]\], as added by this section, any State which, as of the date of the enactment of this Act \[Aug. 22, 1996\], processes the receipt of child support payments through local courts may, at the option of the State, continue to process through September 30, 1999, such payments through such courts as processed such payments on or before such date of enactment.”
 

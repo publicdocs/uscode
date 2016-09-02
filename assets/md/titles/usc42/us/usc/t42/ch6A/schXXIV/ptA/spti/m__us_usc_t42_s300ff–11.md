@@ -73,11 +73,11 @@
 
 [Pub. L. 111–87, § 2(a)(2)][/us/pl/111/87/s2/a/2], (3), Oct. 30, 2009, [123 Stat. 2885][/us/stat/123/2885], provided that:
 
->     “(2) __Effective Date.—__ 
+>     “(2)  __Effective Date__  __.—__ 
 
 >     Paragraph (1) \[repealing [section 703 of Pub. L. 109–415][/us/pl/109/415/s703], formerly set out as an Effective Date of Repeal note below\] shall take effect as if enacted on September 30, 2009.
 
->     “(3) __Contingency Provisions.—__ 
+>     “(3)  __Contingency Provisions__  __.—__ 
 
 >     Notwithstanding section 703 of the Ryan White HIV/AIDS Treatment Modernization Act of 2006 ([Public Law 109–415][/us/pl/109/415]; [120 Stat. 2767][/us/stat/120/2767] \[2820\]) \[repealing this subchapter, formerly set out as an Effective Date of Repeal note below\] and section 139 of the Continuing Appropriations Resolution, 2010 \[[123 Stat. 2048][/us/stat/123/2048]\]—
 
@@ -93,11 +93,11 @@
 
 [Pub. L. 104–146, § 13][/us/pl/104/146/s13], May 20, 1996, [110 Stat. 1374][/us/stat/110/1374], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), this Act \[enacting sections 300ff–27a, 300ff–31, 300ff–33 to 300ff–37, 300ff–77, 300ff–78, and 300ff–101 of this title, amending this section and sections 294n, 300d, 300ff–12 to 300ff–17, 300ff–21 to 300ff–23, 300ff–26 to 300ff–29, 300ff–47 to 300ff–49, 300ff–51, 300ff–52, 300ff–54, 300ff–55, 300ff–64, 300ff–71, 300ff–74, 300ff–76, and 300ff–84 of this title, transferring [section 294n of this title][/us/usc/t42/s294n] to [section 300ff–111 of this title][/us/usc/t42/s300ff–111], repealing sections 300ff–18 and 300ff–30 of this title, and enacting provisions set out as notes under sections 201, 300cc, and 300ff–33 of this title and [section 4103 of Title 5][/us/usc/t5/s4103], Government Organization and Employees\], and the amendments made by this Act, shall become effective on October 1, 1996.
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     The amendments made by sections 3(a), 5, 6, and 7 of this Act to sections 2601(c), 2601(d), 2603(a), 2618(b), 2626, 2677, and 2691 of the Public Health Service Act \[[42 U.S.C. 300ff–11(c)][/us/usc/t42/s300ff–11/c], (d), 300ff–13(a), 300ff–28(b), 300ff–34, 300ff–77, 300ff–101\] shall become effective on the date of enactment of this Act \[May 20, 1996\].”
 

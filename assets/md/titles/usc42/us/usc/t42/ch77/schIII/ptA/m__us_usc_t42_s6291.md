@@ -257,7 +257,7 @@
 
         (D) __General service incandescent lamp.—__ 
 
-            (i) __In general.—__ 
+            (i)  __In general__  __.—__ 
 
             The term “general service incandescent lamp” means a standard incandescent or halogen type lamp that—
 
@@ -269,7 +269,7 @@
 
                 (IV) is capable of being operated at a voltage range at least partially within 110 and 130 volts.
 
-            (ii) __Exclusions.—__ 
+            (ii)  __Exclusions__  __.—__ 
 
             The term “general service incandescent lamp” does not include the following incandescent lamps:
 
@@ -369,7 +369,7 @@
 
                     (bb) unlikely to be used in general purpose applications.
 
-        (T) __Appliance lamp.—__ 
+        (T)  __Appliance lamp__  __.—__ 
 
         The term “appliance lamp” means any lamp that—
 
@@ -383,15 +383,15 @@
 
                 (II) marketing materials that identify the lamp as being for appliance use.
 
-        (U) __Candelabra base incandescent lamp.—__ 
+        (U)  __Candelabra base incandescent lamp__  __.—__ 
 
         The term “candelabra base incandescent lamp” means a lamp that uses candelabra screw base as described in ANSI C81.61–2006, Specifications for Electric Bases, common designations E11 and E12.
 
-        (V) __Intermediate base incandescent lamp.—__ 
+        (V)  __Intermediate base incandescent lamp__  __.—__ 
 
         The term “intermediate base incandescent lamp” means a lamp that uses an intermediate screw base as described in ANSI C81.61–2006, Specifications for Electric Bases, common designation E17.
 
-        (W) __Modified spectrum.—__ 
+        (W)  __Modified spectrum__  __.—__ 
 
         The term “modified spectrum” means, with respect to an incandescent lamp, an incandescent lamp that—
 
@@ -405,7 +405,7 @@
 
                 (II) has a color point with (x,y) chromaticity coordinates on the C.I.E. 1931 chromaticity diagram that lies at least 4 MacAdam steps (as referenced in IESNA LM16) distant from the color point of a clear lamp with the same filament and bulb shape, operated at the same rated voltage and wattage.
 
-        (X) __Rough service lamp.—__ 
+        (X)  __Rough service lamp__  __.—__ 
 
         The term “rough service lamp” means a lamp that—
 
@@ -419,7 +419,7 @@
 
                 (II) marketing materials that identify the lamp as being for rough service.
 
-        (Y) __3-way incandescent lamp.—__ 
+        (Y) __3-__  __way incandescent lamp__  __.—__ 
 
         The term “3-way incandescent lamp” includes an incandescent lamp that—
 
@@ -427,7 +427,7 @@
 
             (ii) is designated on the lamp packaging and marketing materials as being a 3-way incandescent lamp.
 
-        (Z) __Shatter-resistant lamp, shatter-proof lamp, or shatter-protected lamp.—__ 
+        (Z)  __Shatter-resistant lamp, shatter-proof lamp, or shatter-protected lamp__  __.—__ 
 
         The terms “shatter-resistant lamp”, “shatter-proof lamp”, and “shatter-protected lamp” mean a lamp that—
 
@@ -441,7 +441,7 @@
 
                 (II) marketing materials that identify the lamp as being shatter-resistant, shatter-proof, or shatter-protected.
 
-        (AA) __Vibration service lamp.—__ 
+        (AA)  __Vibration service lamp__  __.—__ 
 
         The term “vibration service lamp” means a lamp that—
 
@@ -461,7 +461,7 @@
 
         (BB) __General service lamp.—__ 
 
-            (i) __In general.—__ 
+            (i)  __In general__  __.—__ 
 
             The term “general service lamp” includes—
 
@@ -473,7 +473,7 @@
 
                 (IV) any other lamps that the Secretary determines are used to satisfy lighting applications traditionally served by general service incandescent lamps.
 
-            (ii) __Exclusions.—__ 
+            (ii)  __Exclusions__  __.—__ 
 
             The term “general service lamp” does not include—
 
@@ -483,11 +483,11 @@
 
         (CC) __Light-emitting diode; led.—__ 
 
-            (i) __In general.—__ 
+            (i)  __In general__  __.—__ 
 
             The terms “light-emitting diode” and “LED” means a p-n junction solid state device the radiated output of which is a function of the physical construction, material used, and exciting current of the device.
 
-            (ii) __Output.—__ 
+            (ii)  __Output__  __.—__ 
 
             The output of a light-emitting diode may be in—
 
@@ -497,11 +497,11 @@
 
                 (III) the ultraviolet region.
 
-        (DD) __Organic light-emitting diode; oled.—__ 
+        (DD)  __Organic light-emitting diode; oled__  __.—__ 
 
         The terms “organic light-emitting diode” and “OLED” mean a thin-film light-emitting device that typically consists of a series of organic layers between 2 electrical contacts (electrodes).
 
-        (EE) __Colored incandescent lamp.—__ 
+        (EE)  __Colored incandescent lamp__  __.—__ 
 
         The term “colored incandescent lamp” means an incandescent lamp designated and marketed as a colored lamp that has—
 
@@ -601,17 +601,17 @@
 
     (36) __External power supply.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The term “external power supply” means an external power supply circuit that is used to convert household electric current into DC current or lower-voltage AC current to operate a consumer product.
 
-        (B) __Active mode.—__ 
+        (B)  __Active mode__  __.—__ 
 
         The term “active mode” means the mode of operation when an external power supply is connected to the main electricity supply and the output is connected to a load.
 
         (C) __Class a external power supply.—__ 
 
-            (i) __In general.—__ 
+            (i)  __In general__  __.—__ 
 
             The term “class A external power supply” means a device that—
 
@@ -627,7 +627,7 @@
 
                 (VI) has nameplate output power that is less than or equal to 250 watts.
 
-            (ii) __Exclusions.—__ 
+            (ii)  __Exclusions__  __.—__ 
 
             The term “class A external power supply” does not include any device that—
 
@@ -635,7 +635,7 @@
 
                 (II) powers the charger of a detachable battery pack or charges the battery of a product that is fully or primarily motor operated.
 
-        (D) __No-load mode.—__ 
+        (D)  __No-load mode__  __.—__ 
 
         The term “no-load mode” means the mode of operation when an external power supply is connected to the main electricity supply and the output is not connected to a load.
 
@@ -701,7 +701,7 @@
 
     (46) __High intensity discharge lamp.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The term “high intensity discharge lamp” means an electric-discharge lamp in which—
 
@@ -709,21 +709,21 @@
 
             (ii) the arc tube wall loading is in excess of 3 Watts/cm2.
 
-        (B) __Inclusions.—__ 
+        (B)  __Inclusions__  __.—__ 
 
         The term “high intensity discharge lamp” includes mercury vapor, metal halide, and high-pressure sodium lamps described in subparagraph (A).
 
     (47) __Mercury vapor lamp.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The term “mercury vapor lamp” means a high intensity discharge lamp in which the major portion of the light is produced by radiation from mercury typically operating at a partial vapor pressure in excess of 100,000 Pa (approximately 1 atm).
 
-        (B) __Inclusions.—__ 
+        (B)  __Inclusions__  __.—__ 
 
         The term “mercury vapor lamp” includes clear, phosphor-coated, and self-ballasted screw base lamps described in subparagraph (A).
 
-    (48) __Mercury vapor lamp ballast.—__ 
+    (48)  __Mercury vapor lamp ballast__  __.—__ 
 
     The term “mercury vapor lamp ballast” means a device that is designed and marketed to start and operate mercury vapor lamps intended for general illumination by providing the necessary voltage and current.
 
@@ -739,7 +739,7 @@
 
     (51) The term “medium screw base” means an Edison screw base identified with the prefix E–26 in the “American National Standard for Electric Lamp Bases”, ANSI/IEC C81.61–2003, published by the American National Standards Institute.
 
-    (52) __Detachable battery.—__ 
+    (52)  __Detachable battery__  __.—__ 
 
     The term “detachable battery” means a battery that is—
 
@@ -747,7 +747,7 @@
 
         (B) intended to be removed or disconnected from the product for recharging.
 
-    (53) __Specialty application mercury vapor lamp ballast.—__ 
+    (53)  __Specialty application mercury vapor lamp ballast__  __.—__ 
 
     The term “specialty application mercury vapor lamp ballast” means a mercury vapor lamp ballast that—
 
@@ -761,13 +761,13 @@
 
             (ii) specifies the specific applications for which the ballast is designed.
 
-    (54) __BPAR incandescent reflector lamp.—__ 
+    (54) __BPAR__  __incandescent reflector lamp__  __.—__ 
 
     The term “BPAR incandescent reflector lamp” means a reflector lamp as shown in figure C78.21–278 on page 32 of ANSI C78.21–2003.
 
     (55) __BR incandescent reflector lamp; br30; br40.—__ 
 
-        (A) __BR incandescent reflector lamp.—__ 
+        (A) __BR__  __incandescent reflector lamp__  __.—__ 
 
         The term “BR incandescent reflector lamp” means a reflector lamp that has—
 
@@ -785,7 +785,7 @@
 
     (56) __ER incandescent reflector lamp; er30; er40.—__ 
 
-        (A) __ER incandescent reflector lamp.—__ 
+        (A) __ER__  __incandescent reflector lamp__  __.—__ 
 
         The term “ER incandescent reflector lamp” means a reflector lamp that has—
 
@@ -801,21 +801,21 @@
 
         The term “ER40” means an ER incandescent reflector lamp with a diameter of 40/8ths of an inch.
 
-    (57) __R20 incandescent reflector lamp.—__ 
+    (57) __R20__  __incandescent reflector lamp__  __.—__ 
 
     The term “R20 incandescent reflector lamp” means a reflector lamp that has a face diameter of approximately 2.5 inches, as shown in figure 1(R) on page 7 of ANSI C79.1–1994.
 
-    (58) __Ballast.—__ 
+    (58)  __Ballast__  __.—__ 
 
     The term “ballast” means a device used with an electric discharge lamp to obtain necessary circuit conditions (voltage, current, and waveform) for starting and operating.
 
     (59) __Ballast efficiency.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The term “ballast efficiency” means, in the case of a high intensity discharge fixture, the efficiency of a lamp and ballast combination, expressed as a percentage, and calculated in accordance with the following formula: Efficiency = Pout/Pin.
 
-        (B) __Efficiency formula.—__ 
+        (B)  __Efficiency formula__  __.—__ 
 
         For the purpose of subparagraph (A)—
 
@@ -835,31 +835,31 @@
 
                 (II) 2 kHz for ballast with a frequency greater than 60 Hz.
 
-        (C) __Modification.—__ 
+        (C)  __Modification__  __.—__ 
 
         The Secretary may, by rule, modify the definition of “ballast efficiency” if the Secretary determines that the modification is necessary or appropriate to carry out the purposes of this chapter.
 
-    (60) __Electronic ballast.—__ 
+    (60)  __Electronic ballast__  __.—__ 
 
     The term “electronic ballast” means a device that uses semiconductors as the primary means to control lamp starting and operation.
 
-    (61) __General lighting application.—__ 
+    (61)  __General lighting application__  __.—__ 
 
     The term “general lighting application” means lighting that provides an interior or exterior area with overall illumination.
 
-    (62) __Metal halide ballast.—__ 
+    (62)  __Metal halide ballast__  __.—__ 
 
     The term “metal halide ballast” means a ballast used to start and operate metal halide lamps.
 
-    (63) __Metal halide lamp.—__ 
+    (63)  __Metal halide lamp__  __.—__ 
 
     The term “metal halide lamp” means a high intensity discharge lamp in which the major portion of the light is produced by radiation of metal halides and their products of dissociation, possibly in combination with metallic vapors.
 
-    (64) __Metal halide lamp fixture.—__ 
+    (64)  __Metal halide lamp fixture__  __.—__ 
 
     The term “metal halide lamp fixture” means a light fixture for general lighting application designed to be operated with a metal halide lamp and a ballast for a metal halide lamp.
 
-    (65) __Probe-start metal halide ballast.—__ 
+    (65)  __Probe-start metal halide ballast__  __.—__ 
 
     The term “probe-start metal halide ballast” means a ballast that—
 
@@ -869,11 +869,11 @@
 
     (66) __Pulse-start metal halide ballast.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The term “pulse-start metal halide ballast” means an electronic or electromagnetic ballast that starts a pulse-start metal halide lamp with high voltage pulses.
 
-        (B) __Starting process.—__ 
+        (B)  __Starting process__  __.—__ 
 
         For the purpose of subparagraph (A)—
 

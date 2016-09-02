@@ -131,7 +131,7 @@
 
 [Pub. L. 110–426, § 3][/us/pl/110/426/s3], Oct. 15, 2008, [122 Stat. 4835][/us/stat/122/4835], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Health and Human Services shall request that the Executive Director of the Organ Procurement and Transplantation Network submit to Congress, not later than 1 year after the date of enactment of this Act \[Oct. 15, 2008\], a report that shall include—
 
@@ -145,7 +145,7 @@
 
 >         “(5) specifically with respect to allosensitized patients, a comparison of the number of heart transplants performed, the mortality rate for individuals on the heart transplant waiting lists, and the post heart transplant survival rate nationally and by region prior to and after the heart allocation policy change of 2006.
 
->     “(b) __Limitation on Funding.—__ 
+>     “(b)  __Limitation on Funding__  __.—__ 
 
 >     The increase provided for in the amendment made by section 2 \[amending this section\] shall not apply with respect to contracts entered into under section 372(a) of the Public Health Service Act ([42 U.S.C. 274(a)][/us/usc/t42/s274/a]) after the date that is 1 year after the date of enactment of this Act \[Oct. 15, 2008\] if the Executive Director of the Organ Procurement and Transplantation Network fails to submit the report under subsection (a).”
 

@@ -289,7 +289,7 @@
 
 [Pub. L. 106–390, title I, § 101][/us/pl/106/390/s101], Oct. 30, 2000, [114 Stat. 1552][/us/stat/114/1552], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -323,7 +323,7 @@
 
 >             “(E) make commitments to long-term hazard mitigation efforts to be applied to new and existing structures.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of this title \[enacting this section and sections 5134, 5165 and 5165a of this title, amending [section 5170c of this title][/us/usc/t42/s5170c], and repealing [section 5176 of this title][/us/usc/t42/s5176]\] is to establish a national disaster hazard mitigation program—
 

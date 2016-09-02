@@ -1531,11 +1531,11 @@
 
 [Pub. L. 108–173, title IX, § 943][/us/pl/108/173/s943], Dec. 8, 2003, [117 Stat. 2422][/us/stat/117/2422], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary \[of Health and Human Services\] shall not require a hospital (including a critical access hospital) to ask questions (or obtain information) relating to the application of section 1862(b) of the Social Security Act \[[42 U.S.C. 1395y(b)][/us/usc/t42/s1395y/b]\] (relating to medicare secondary payor provisions) in the case of reference laboratory services described in subsection (b), if the Secretary does not impose such requirement in the case of such services furnished by an independent laboratory.
 
->     “(b) __Reference Laboratory Services Described.—__ 
+>     “(b)  __Reference Laboratory Services Described__  __.—__ 
 
 >     Reference laboratory services described in this subsection are clinical laboratory diagnostic tests (or the interpretation of such tests, or both) furnished without a face-to-face encounter between the individual entitled to benefits under part A \[probably means part A of title XVIII of the Social Security Act which is classified to part A of this subchapter\] or enrolled under part B \[probably means part B of title XVIII of the Social Security Act which is classified to [42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\], or both, and the hospital involved and in which the hospital submits a claim only for such test or interpretation.”
 
@@ -1601,11 +1601,11 @@
 
 [Pub. L. 99–509, title IX, § 9305(f)][/us/pl/99/509/s9305/f], Oct. 21, 1986, [100 Stat. 1991][/us/stat/100/1991], as amended by [Pub. L. 100–360, title IV, § 426(a)][/us/pl/100/360/s426/a], July 1, 1988, [102 Stat. 814][/us/stat/102/814]; [Pub. L. 101–508, title IV, § 4008(a)(2)][/us/pl/101/508/s4008/a/2], Nov. 5, 1990, [104 Stat. 1388–44][/us/stat/104/1388-44], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Health and Human Services shall, for purposes of determining whether payments to a hospice program should be denied pursuant to section 1862(a)(1)(C) of the Social Security Act \[[42 U.S.C. 1395y(a)(1)(C)][/us/usc/t42/s1395y/a/1/C]\], apply (under section 1879(a) of such Act \[[42 U.S.C. 1395pp(a)][/us/usc/t42/s1395pp/a]\]) a presumption of compliance of 2.5 percent (based on the number of days of hospice care billed) in a manner substantially similar to that provided to home health agencies under policies in effect as of July 1, 1985.
 
->     “(2) __Effective date.—__ 
+>     “(2)  __Effective date__  __.—__ 
 
 >     Paragraph (1) shall apply to hospice care furnished on or after the first day of the first month that begins at least 6 months after the date of the enactment of this Act \[Oct. 21, 1986\] and before December 31, 1995.”
 

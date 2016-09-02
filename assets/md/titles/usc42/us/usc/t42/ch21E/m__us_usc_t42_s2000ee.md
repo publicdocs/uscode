@@ -287,11 +287,11 @@
 
 [Pub. L. 110–53, title VIII, § 801(d)][/us/pl/110/53/s801/d], Aug. 3, 2007, [121 Stat. 358][/us/stat/121/358], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by subsection (a) and subsection (b) \[amending this section\] shall take effect 180 days after the date of enactment of this Act \[Aug. 3, 2007\].
 
->     “(2) __Transition provisions.—__ 
+>     “(2)  __Transition provisions__  __.—__ 
 
 >     Subsection (c) \[enacting provisions set out as a note under this section\] shall take effect on the date of enactment of this Act.”
 
@@ -307,21 +307,21 @@
 
 >     “(1) __Treatment of incumbent members of the privacy and civil liberties oversight board.—__ 
 
->         “(A) __Continuation of service.—__ 
+>         “(A)  __Continuation of service__  __.—__ 
 
 >         Any individual who is a member of the Privacy and Civil Liberties Oversight Board on the date of enactment of this Act \[Aug. 3, 2007\] may continue to serve on the Board until 180 days after the date of enactment of this Act.
 
->         “(B) __Termination of terms.—__ 
+>         “(B)  __Termination of terms__  __.—__ 
 
 >         The term of any individual who is a member of the Privacy and Civil Liberties Oversight Board on the date of enactment of this Act shall terminate 180 days after the date of enactment of this Act.
 
 >     “(2) __Appointments.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The President and the Senate shall take such actions as necessary for the President, by and with the advice and consent of the Senate, to appoint members to the Privacy and Civil Liberties Oversight Board as constituted under the amendments made by subsection (a) \[amending this section\] in a timely manner to provide for the continuing operation of the Board and orderly implementation of this section \[amending this section and enacting provisions set out as notes under this section\].
 
->         “(B) __Designations.—__ 
+>         “(B)  __Designations__  __.—__ 
 
 >         In making the appointments described under subparagraph (A) of the first members of the Privacy and Civil Liberties Oversight Board as constituted under the amendments made by subsection (a), the President shall provide for the members to serve terms of 2, 3, 4, 5, and 6 years beginning on the effective date described under subsection (d)(1) \[set out above\], with the term of each such member to be designated by the President.”
 

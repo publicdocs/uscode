@@ -417,7 +417,7 @@
 
 [Pub. L. 102–550, title VIII, § 852][/us/pl/102/550/s852], Oct. 28, 1992, [106 Stat. 3858][/us/stat/106/3858], provided that:
 
->     “(a) __Establishment of Demonstration Program.—__ 
+>     “(a)  __Establishment of Demonstration Program__  __.—__ 
 
 >     Not later than the expiration of the 1-year period beginning on the date appropriations for the purposes of this section are made available, the Secretary of Housing and Urban Development (hereafter in this section referred to as the ‘Secretary’) shall establish and implement a demonstration program to determine the feasibility of assisting States and units of general local government to develop methods, utilizing contemporary computer technology, to—
 
@@ -427,45 +427,45 @@
 
 >     “(b) __Integrated Database System and Computer Mapping Tool.—__ 
 
->         “(1) __Development and purposes.—__ 
+>         “(1)  __Development and purposes__  __.—__ 
 
 >         In carrying out the program under this section, the Secretary shall provide for the development of an integrated database system and computer mapping tool designed to efficiently (A) collect, store, process, and retrieve information relating to priority nonhousing community development needs within States, and (B) coordinate strategies for meeting such needs. The integrated database system and computer mapping tool shall be designed in a manner to coordinate and facilitate the preparation of community development plans under section 104(m)(1) of the Housing and Community Development Act of 1974 \[[42 U.S.C. 5304(m)(1)][/us/usc/t42/s5304/m/1]\] and to process any information necessary for such plans.
 
->         “(2) __Availability to states.—__ 
+>         “(2)  __Availability to states__  __.—__ 
 
 >         The Secretary shall make the integrated database system and computer mapping tool developed pursuant to this subsection available to States without charge.
 
->         “(3) __Coordination with existing technology.—__ 
+>         “(3)  __Coordination with existing technology__  __.—__ 
 
 >         The Secretary shall, to the extent practicable, utilize existing technologies and coordinate such activities with existing data systems to prevent duplication.
 
->     “(c) __Technical Assistance.—__ 
+>     “(c)  __Technical Assistance__  __.—__ 
 
 >     Under the program under this section, the Secretary shall provide consultation and advice to States and units of general local government regarding the capabilities and advantages of the integrated database system and computer mapping tool developed pursuant to subsection (b) and assistance in installing and using the database system and mapping tool.
 
 >     “(d) __Grants.—__ 
 
->         “(1) __Authority and purpose.—__ 
+>         “(1)  __Authority and purpose__  __.—__ 
 
 >         The Secretary shall, to the extent amounts are made available under appropriation Acts pursuant to subsection (g), make grants to States for capital costs relating to installation and use of the integrated database system and computer mapping tool developed pursuant to subsection (b).
 
->         “(2) __Limitations.—__ 
+>         “(2)  __Limitations__  __.—__ 
 
 >         The Secretary may not make more than one grant under this subsection to any single State. The Secretary may not make a grant under this subsection to any single State in an amount exceeding $1,000,000.
 
->         “(3) __Application and selection.—__ 
+>         “(3)  __Application and selection__  __.—__ 
 
 >         The Secretary shall provide for the form and manner of applications for grants under this subsection. The Secretary shall establish criteria for the selection of States which have submitted applications to receive grants under this section and shall select recipients according to such criteria, which shall give priority to States having, on a long-term basis (as determined by the Secretary), levels of unemployment above the national average level.
 
->     “(e) __State Coordination of Local Needs.—__ 
+>     “(e)  __State Coordination of Local Needs__  __.—__ 
 
 >     Each State that receives a grant under subsection (d) shall annually submit to the Secretary a report containing a summary of the priority nonhousing community development needs within the State.
 
->     “(f) __Reports by Secretary.—__ 
+>     “(f)  __Reports by Secretary__  __.—__ 
 
 >     The Secretary shall annually submit to the Committees on Banking, Finance and Urban Affairs \[now Committee on Financial Services\] of the House of Representatives and Banking, Housing, and Urban Affairs of the Senate, a report containing a summary of the information submitted for the year by States pursuant to subsection (e), which shall describe the priority nonhousing community development needs within such States.
 
->     “(g) __Authorization of Appropriations.—__ 
+>     “(g)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated for each of the fiscal years 1993 and 1994, $10,000,000 to carry out the program established under this section.”
 
@@ -473,11 +473,11 @@
 
 [Pub. L. 101–625, title IX, § 909][/us/pl/101/625/s909], Nov. 28, 1990, [104 Stat. 4389][/us/stat/104/4389], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law, units of general local government receiving assistance under title I of the Housing and Community Development Act of 1974 \[[42 U.S.C. 5301][/us/usc/t42/s5301] et seq.\] may receive funds in one payment for use in establishing or supplementing revolving loan funds in the manner provided under section 104(h) of such Act ([42 U.S.C. 5304(h)][/us/usc/t42/s5304/h]).
 
->     “(b) __Applicability.—__ 
+>     “(b)  __Applicability__  __.—__ 
 
 >     This section shall apply to funds approved in appropriations Acts for use under title I of the Housing and Community Development Act of 1974 for fiscal year 1992 and any fiscal year thereafter.”
 

@@ -61,7 +61,7 @@
 
 [Pub. L. 97–229, § 6][/us/pl/97/229/s6], Aug. 3, 1982, [96 Stat. 253][/us/stat/96/253], provided that:
 
->     “(a) __Impact Analysis.—__ 
+>     “(a)  __Impact Analysis__  __.—__ 
 
 >         (1)
 
@@ -79,7 +79,7 @@
 
 >         “(2) Within one year after the date of the enactment of this Act \[Aug. 3, 1982\], the Secretary of Energy shall submit a report to the Congress and the President containing the analysis required by this subsection, including a detailed step-by-step description of the procedures by which the policies specified in paragraph (1)(C) would be accomplished in an emergency, along with such recommendations as the Secretary of Energy deems appropriate.
 
->     “(b) __Strategic Petroleum Reserve Drawdown and Distribution Report.—__ 
+>     “(b)  __Strategic Petroleum Reserve Drawdown and Distribution Report__  __.—__ 
 
 >     The President shall prepare and transmit to the Congress, at the time he transmits the drawdown plan pursuant to section 4(c) \[[section 4(c) of Pub. L. 97–229][/us/pl/97/229/s4/c], set out as a note under [42 U.S.C. 6234][/us/usc/t42/s6234]\], a report containing—
 
@@ -89,7 +89,7 @@
 
 >         The description of each strategy under paragraph (2) shall include an explanation of the methods which would likely be used to determine the price and distribution of petroleum products from the Reserve in any such distribution, and an explanation of the disposition of revenues arising from sales of any such petroleum products under the strategy.
 
->     “(c) __Regional Reserve Report.—__ 
+>     “(c)  __Regional Reserve Report__  __.—__ 
 
 >     The President or his delegate shall submit to the Congress no later than December 31, 1982, a report regarding the actions taken to comply with the provisions of section 157 of the Energy Policy and Conservation Act ([42 U.S.C. 6237][/us/usc/t42/s6237]). Such report shall include an analysis of the economic benefits and costs of establishing Regional Petroleum Reserves, including—
 
@@ -99,11 +99,11 @@
 
 >         “(3) a list of potential sites for Regional Petroleum Reserves.
 
->     “(d) __Strategic Alcohol Fuel Reserve Report.—__ 
+>     “(d)  __Strategic Alcohol Fuel Reserve Report__  __.—__ 
 
 >     The Secretary of Energy shall, in consultation with the Secretary of Agriculture, prepare and transmit to the Congress no later than December 31, 1982, a study of the potential for establishing a Strategic Alcohol Fuel Reserve.
 
->     “(e) __Meaning of Terms.—__ 
+>     “(e)  __Meaning of Terms__  __.—__ 
 
 >     As used in this section, the terms ‘international energy program’, ‘petroleum product’, ‘Reserve’, ‘severe energy supply interruption’, and ‘Strategic Petroleum Reserve’ have the meanings given such terms in sections 3 and 152 of the Energy Policy and Conservation Act ([42 U.S.C. 6202][/us/usc/t42/s6202] and 6232).”
 

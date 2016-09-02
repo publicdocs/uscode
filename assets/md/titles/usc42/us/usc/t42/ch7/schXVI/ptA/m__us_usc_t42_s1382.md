@@ -527,11 +527,11 @@
 
 [Pub. L. 104–193, title II, § 204(d)][/us/pl/104/193/s204/d], Aug. 22, 1996, [110 Stat. 2188][/us/stat/110/2188], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 1382c and 1383 of this title\] shall apply to applications for benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] filed on or after the date of the enactment of this Act \[Aug. 22, 1996\], without regard to whether regulations have been issued to implement such amendments.
 
->     “(2) __Benefits under title xvi.—__ 
+>     “(2)  __Benefits under title xvi__  __.—__ 
 
 >     For purposes of this subsection, the term ‘benefits under title XVI of the Social Security Act’ includes supplementary payments pursuant to an agreement for Federal administration under section 1616(a) of the Social Security Act \[[42 U.S.C. 1382e(a)][/us/usc/t42/s1382e/a]\], and payments pursuant to an agreement entered into under [section 212(b) of Public Law 93–66][/us/pl/93/66/s212/b] \[set out below\].”
 
@@ -573,21 +573,21 @@
 
 [Pub. L. 103–296, title II, § 201(b)(3)(C)][/us/pl/103/296/s201/b/3/C], (E), Aug. 15, 1994, [108 Stat. 1504][/us/stat/108/1504], 1505, provided that:
 
->     “(C) __Sunset of 36-month rule.—__ 
+>     “(C)  __Sunset of 36-month rule__  __.—__ 
 
 >     Section 1611(e)(3)(A)(v) of the Social Security Act \[[42 U.S.C. 1382(e)(3)(A)(v)][/us/usc/t42/s1382/e/3/A/v]\] (added by subparagraph (A) of this paragraph) shall cease to be effective with respect to benefits for months after September 2004.
 
 >     “(E) __Effective date.—__ 
 
->         “(i) __In general.—__ 
+>         “(i)  __In general__  __.—__ 
 
 >         Except as otherwise provided in this paragraph \[amending this section and [section 1383c of this title][/us/usc/t42/s1383c] and enacting provisions set out as notes below\], the amendments made by this paragraph shall apply with respect to supplemental security income benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] by reason of disability which are otherwise payable in months beginning after 180 days after the date of the enactment of this Act \[Aug. 15, 1994\]. The Secretary of Health and Human Services shall issue regulations necessary to carry out the amendments made by this paragraph not later than 180 days after such date of enactment.
 
->         “(ii) __Referral and monitoring agencies.—__ 
+>         “(ii)  __Referral and monitoring agencies__  __.—__ 
 
 >         The amendments made by subparagraph (B) \[amending this section\] shall take effect 180 days after the date of the enactment of this Act \[Aug. 15, 1994\].
 
->         “(iii) __Termination after 36 months.—__ 
+>         “(iii)  __Termination after 36 months__  __.—__ 
 
 >         Clause (v) of section 1611(e)(3)(A) of the Social Security Act \[[42 U.S.C. 1382(e)(3)(A)][/us/usc/t42/s1382/e/3/A]\] (added by the amendment made by subparagraph (A) of this paragraph) shall apply with respect to supplemental security income benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] by reason of disability for months beginning after 180 days after the date of the enactment of this Act \[Aug. 15, 1994\].”
 
@@ -711,11 +711,11 @@
 
 [Pub. L. 106–169, title II, § 261][/us/pl/106/169/s261], Dec. 14, 1999, [113 Stat. 1856][/us/stat/113/1856], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Commissioner of Social Security shall conduct a study of the reasons why family farmers with resources of less than $100,000 are denied supplemental security income benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\], including whether the deeming process unduly burdens and discriminates against family farmers who do not institutionalize a disabled dependent, and shall determine the number of such farmers who have been denied such benefits during each of the preceding 10 years.
 
->     “(b) __Report to the Congress.—__ 
+>     “(b)  __Report to the Congress__  __.—__ 
 
 >     Within 1 year after the date of the enactment of this Act \[Dec. 14, 1999\], the Commissioner of Social Security shall prepare and submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report that contains the results of the study, and the determination, required by subsection (a).”
 
@@ -723,7 +723,7 @@
 
 [Pub. L. 104–193, title II, § 203(b)][/us/pl/104/193/s203/b], Aug. 22, 1996, [110 Stat. 2187][/us/stat/110/2187], provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Commissioner of Social Security shall conduct a study of the desirability, feasibility, and cost of—
 
@@ -731,7 +731,7 @@
 
 >         “(B) requiring that State and local jails, prisons, and other institutions that enter into agreements with the Commissioner under section 1611(e)(1)(I) of the Social Security Act \[[42 U.S.C. 1382(e)(1)(I)][/us/usc/t42/s1382/e/1/I]\] furnish the information required by such agreements to the Commissioner by means of an electronic or other sophisticated data exchange system.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Aug. 22, 1996\], the Commissioner of Social Security shall submit a report on the results of the study conducted pursuant to this subsection to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives.”
 
@@ -771,11 +771,11 @@
 
 [Pub. L. 103–296, title II, § 208][/us/pl/103/296/s208], Aug. 15, 1994, [108 Stat. 1516][/us/stat/108/1516], provided that:
 
->     “(a) __Temporary Annual Minimum Number of Reviews.—__ 
+>     “(a)  __Temporary Annual Minimum Number of Reviews__  __.—__ 
 
 >     During each year of the 3-year period that begins on October 1, 1995, the Secretary of Health and Human Services shall apply section 221(i) of the Social Security Act \[[42 U.S.C. 421(i)][/us/usc/t42/s421/i]\] in making disability determinations under title XVI of such Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] with respect to at least 100,000 recipients of supplemental security income benefits under such title.
 
->     “(b) __Report to the Congress.—__ 
+>     “(b)  __Report to the Congress__  __.—__ 
 
 >     Not later than October 1, 1998, the Secretary of Health and Human Services shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the activities conducted under subsection (a).”
 

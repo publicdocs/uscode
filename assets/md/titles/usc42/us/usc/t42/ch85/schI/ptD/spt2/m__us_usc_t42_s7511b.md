@@ -207,11 +207,11 @@
 
 [Pub. L. 105–286, § 3][/us/pl/105/286/s3], Oct. 27, 1998, [112 Stat. 2774][/us/stat/112/2774], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The amendment made by section 2 \[amending this section\] takes effect 180 days after the date of the enactment of this Act \[Oct. 27, 1998\]. Nothing in that amendment shall require action that is inconsistent with the obligations of the United States under any international agreement.
 
->     “(b) __Information.—__ 
+>     “(b)  __Information__  __.—__ 
 
 >     As soon as practicable after the date of the enactment of this Act, the appropriate agency of the United States shall distribute information to publicize the prohibition set forth in the amendment made by section 2.”
 

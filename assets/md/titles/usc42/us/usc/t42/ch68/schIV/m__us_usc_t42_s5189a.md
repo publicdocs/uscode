@@ -33,15 +33,15 @@
 
 [Pub. L. 113–2, div. B, § 1105][/us/pl/113/2/s1105], Jan. 29, 2013, [127 Stat. 43][/us/stat/127/43], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section, the following definitions apply:
 
->         “(1) __Administrator.—__ 
+>         “(1)  __Administrator__  __.—__ 
 
 >         The term ‘Administrator’ means the Administrator of the Federal Emergency Management Agency.
 
->         “(2) __Eligible assistance.—__ 
+>         “(2)  __Eligible assistance__  __.—__ 
 
 >         The term ‘eligible assistance’ means assistance—
 
@@ -55,15 +55,15 @@
 
 >     “(b) __Procedures.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 180 days after the date of enactment of this section \[Jan. 29, 2013\], and in order to facilitate an efficient recovery from major disasters, the Administrator shall establish procedures under which an applicant may request the use of alternative dispute resolution, including arbitration by an independent review panel, to resolve disputes relating to eligible assistance.
 
->         “(2) __Binding effect.—__ 
+>         “(2)  __Binding effect__  __.—__ 
 
 >         A decision by an independent review panel under this section shall be binding upon the parties to the dispute.
 
->         “(3) __Considerations.—__ 
+>         “(3)  __Considerations__  __.—__ 
 
 >         The procedures established under this section shall—
 
@@ -95,17 +95,17 @@
 
 >             “(F) direct that if an independent review panel for any alternative dispute resolution under this section determines that the basis upon which a party submits a request for alternative dispute resolution is frivolous, the independent review panel shall direct the party to pay the reasonable costs to the Federal Emergency Management Agency relating to the review by the independent review panel. Any funds received by the Federal Emergency Management Agency under the authority of this section shall be deposited to the credit of the appropriation or appropriations available for the eligible assistance in dispute on the date on which the funds are received.
 
->     “(c) __Sunset.—__ 
+>     “(c)  __Sunset__  __.—__ 
 
 >     A request for review by an independent review panel under this section may not be made after December 31, 2015.
 
 >     “(d) __Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 270 days after the termination of authority under this section under subsection (c), the Comptroller General of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report analyzing the effectiveness of the program under this section.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         The report submitted under paragraph (1) shall include—
 

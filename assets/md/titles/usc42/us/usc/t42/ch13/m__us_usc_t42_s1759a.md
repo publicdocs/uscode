@@ -65,13 +65,13 @@
 
             (F) __Universal meal service in high poverty areas.—__ 
 
-                (i) __Definition of identified students.—__ 
+                (i)  __Definition of identified students__  __.—__ 
 
                 The term “identified students” means students certified based on documentation of benefit receipt or categorical eligibility as described in section 245.6a(c)(2) of title 7, Code of Federal Regulations (or successor regulations).
 
                 (ii) __Election of special assistance payments.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     A local educational agency may, for all schools in the district or on behalf of certain schools in the district, elect to receive special assistance payments under this subparagraph in lieu of special assistance payments otherwise made available under this paragraph based on applications for free and reduced price lunches if—
 
@@ -83,13 +83,13 @@
 
                         (dd) during the school year prior to the first year of the period for which the local educational agency elects to receive special assistance payments under this subparagraph, the local educational agency or school had a percentage of enrolled students who were identified students that meets or exceeds the threshold described in clause (viii).
 
-                    (II) __Election to stop receiving payments.—__ 
+                    (II)  __Election to stop receiving payments__  __.—__ 
 
                     A local educational agency may, for all schools in the district or on behalf of certain schools in the district, elect to stop receiving special assistance payments under this subparagraph for the following school year by notifying the State agency not later than June 30 of the current school year of the intention to stop receiving special assistance payments under this subparagraph.
 
                 (iii) __First year of option.—__ 
 
-                    (I) __Special assistance payment.—__ 
+                    (I)  __Special assistance payment__  __.—__ 
 
                     For each month of the first school year of the 4-year period during which a school or local educational agency elects to receive payments under this subparagraph, special assistance payments at the rate for free meals shall be made under this subparagraph for a percentage of all reimbursable meals served in an amount equal to the product obtained by multiplying—
 
@@ -97,13 +97,13 @@
 
                         (bb) the percentage of identified students at the school or local educational agency as of April 1 of the prior school year, up to a maximum of 100 percent.
 
-                    (II) __Payment for other meals.—__ 
+                    (II)  __Payment for other meals__  __.—__ 
 
                     The percentage of meals served that is not described in subclause (I) shall be reimbursed at the rate provided under [section 1753 of this title][/us/usc/t42/s1753].
 
                 (iv) __Second, third, or fourth year of option.—__ 
 
-                    (I) __Special assistance payment.—__ 
+                    (I)  __Special assistance payment__  __.—__ 
 
                     For each month of the second, third, or fourth school year of the 4-year period during which a school or local educational agency elects to receive payments under this subparagraph, special assistance payments at the rate for free meals shall be made under this subparagraph for a percentage of all reimbursable meals served in an amount equal to the product obtained by multiplying—
 
@@ -111,17 +111,17 @@
 
                         (bb) the higher of the percentage of identified students at the school or local educational agency as of April 1 of the prior school year or the percentage of identified students at the school or local educational agency as of April 1 of the school year prior to the first year that the school or local educational agency elected to receive special assistance payments under this subparagraph, up to a maximum of 100 percent.
 
-                    (II) __Payment for other meals.—__ 
+                    (II)  __Payment for other meals__  __.—__ 
 
                     The percentage of meals served that is not described in subclause (I) shall be reimbursed at the rate provided under [section 1753 of this title][/us/usc/t42/s1753].
 
                 (v) __Grace year.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     If, not later than April 1 of the fourth year of a 4-year period described in clause (ii)(I), a school or local educational agency has a percentage of enrolled students who are identified students that meets or exceeds a percentage that is 10 percentage points lower than the threshold described in clause (viii), the school or local educational agency may elect to receive special assistance payments under subclause (II) for an additional grace year.
 
-                    (II) __Special assistance payment.—__ 
+                    (II)  __Special assistance payment__  __.—__ 
 
                     For each month of a grace year, special assistance payments at the rate for free meals shall be made under this subparagraph for a percentage of all reimbursable meals served in an amount equal to the product obtained by multiplying—
 
@@ -129,21 +129,21 @@
 
                         (bb) the percentage of identified students at the school or local educational agency as of April 1 of the prior school year, up to a maximum of 100 percent.
 
-                    (III) __Payment for other meals.—__ 
+                    (III)  __Payment for other meals__  __.—__ 
 
                     The percentage of meals served that is not described in subclause (II) shall be reimbursed at the rate provided under [section 1753 of this title][/us/usc/t42/s1753].
 
-                (vi) __Applications.—__ 
+                (vi)  __Applications__  __.—__ 
 
                 A school or local educational agency that receives special assistance payments under this subparagraph may not be required to collect applications for free and reduced price lunches.
 
                 (vii) __Multiplier.—__ 
 
-                    (I) __Phase-in.—__ 
+                    (I)  __Phase-in__  __.—__ 
 
                     For each school year beginning on or before July 1, 2013, the multiplier shall be 1.6.
 
-                    (II) __Full implementation.—__ 
+                    (II)  __Full implementation__  __.—__ 
 
                     For each school year beginning on or after July 1, 2014, the Secretary may use, as determined by the Secretary—
 
@@ -153,21 +153,21 @@
 
                 (viii) __Threshold.—__ 
 
-                    (I) __Phase-in.—__ 
+                    (I)  __Phase-in__  __.—__ 
 
                     For each school year beginning on or before July 1, 2013, the threshold shall be 40 percent.
 
-                    (II) __Full implementation.—__ 
+                    (II)  __Full implementation__  __.—__ 
 
                     For each school year beginning on or after July 1, 2014, the Secretary may use a threshold that is less than 40 percent.
 
                 (ix) __Phase-in.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     In selecting States for participation during the phase-in period, the Secretary shall select States with an adequate number and variety of schools and local educational agencies that could benefit from the option under this subparagraph, as determined by the Secretary.
 
-                    (II) __Limitation.—__ 
+                    (II)  __Limitation__  __.—__ 
 
                     The Secretary may not approve additional schools and local educational agencies to receive special assistance payments under this subparagraph after the Secretary has approved schools and local educational agencies in—
 
@@ -177,11 +177,11 @@
 
                 (x) __Election of option.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     For each school year beginning on or after July 1, 2014, any local educational agency eligible to make the election described in clause (ii) for all schools in the district or on behalf of certain schools in the district may elect to receive special assistance payments under clause (iii) for the next school year if, not later than June 30 of the current school year, the local educational agency submits to the State agency the percentage of identified students at the school or local educational agency.
 
-                    (II) __State agency notification.—__ 
+                    (II)  __State agency notification__  __.—__ 
 
                     Not later than May 1 of each school year beginning on or after July 1, 2011, each State agency with schools or local educational agencies that may be eligible to elect to receive special assistance payments under this subparagraph shall notify—
 
@@ -193,11 +193,11 @@
 
                         (dd) each local educational agency that meets or exceeds a percentage that is 10 percentage points lower than the threshold described in clause (viii) that the local educational agency may be eligible to elect to receive special assistance payments under clause (iii) if the threshold described in clause (viii) is met by April 1 of the school year or if the threshold is met for a subsequent school year.
 
-                    (III) __Public notification of local educational agencies.—__ 
+                    (III)  __Public notification of local educational agencies__  __.—__ 
 
                     Not later than May 1 of each school year beginning on or after July 1, 2011, each State agency with 1 or more schools or local educational agencies eligible to elect to receive special assistance payments under clause (iii) shall submit to the Secretary, and the Secretary shall publish, lists of the local educational agencies receiving notices under subclause (II).
 
-                    (IV) __Public notification of schools.—__ 
+                    (IV)  __Public notification of schools__  __.—__ 
 
                     Not later than May 1 of each school year beginning on or after July 1, 2011, each local educational agency in a State with 1 or more schools eligible to elect to receive special assistance payments under clause (iii) shall submit to the State agency, and the State agency shall publish—
 
@@ -209,15 +209,15 @@
 
                 (xi) __Implementation.—__ 
 
-                    (I) __Guidance.—__ 
+                    (I)  __Guidance__  __.—__ 
 
                     Not later than 90 days after December 13, 2010, the Secretary shall issue guidance to implement this subparagraph.
 
-                    (II) __Regulations.—__ 
+                    (II)  __Regulations__  __.—__ 
 
                     Not later than December 31, 2013, the Secretary shall promulgate regulations that establish procedures for State agencies, local educational agencies, and schools to meet the requirements of this subparagraph, including exercising the option described in this subparagraph.
 
-                    (III) __Publication.—__ 
+                    (III)  __Publication__  __.—__ 
 
                     If the Secretary uses the authority provided in clause (vii)(II)(bb) to use a different multiplier for different schools or local educational agencies, for each school year beginning on or after July 1, 2014, not later than April 1, 2014, the Secretary shall publish on the website of the Secretary a table that indicates—
 
@@ -227,7 +227,7 @@
 
                         (cc) an explanation of the methodology used to calculate the multiplier or threshold for each school or local educational agency.
 
-                (xii) __Report.—__ 
+                (xii)  __Report__  __.—__ 
 
                 Not later than December 31, 2013, the Secretary shall publish a report that describes—
 
@@ -271,11 +271,11 @@
 
                 (xiii) __Funding.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     On October 1, 2010, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary to carry out clause (xii) $5,000,000, to remain available until September 30, 2014.
 
-                    (II) __Receipt and acceptance.—__ 
+                    (II)  __Receipt and acceptance__  __.—__ 
 
                     The Secretary shall be entitled to receive, shall accept, and shall use to carry out clause (xii) the funds transferred under subclause (I), without further appropriation.
 
@@ -297,15 +297,15 @@
 
             (B) __Computation of adjustment.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The annual adjustment under this paragraph shall reflect changes in the cost of operating meal programs under this chapter and the Child Nutrition Act of 1966 \[[42 U.S.C. 1771][/us/usc/t42/s1771] et seq.\], as indicated by the change in the series for food away from home of the Consumer Price Index for all Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor.
 
-                (ii) __Basis.—__ 
+                (ii)  __Basis__  __.—__ 
 
                 Each annual adjustment shall reflect the changes in the series for food away from home for the most recent 12-month period for which such data are available.
 
-                (iii) __Rounding.—__ 
+                (iii)  __Rounding__  __.—__ 
 
                 On July 1, 1999, and on each subsequent July 1, the national average payment rates for meals and supplements shall be adjusted to the nearest lower cent increment and shall be based on the unrounded amounts for the preceding 12-month period.
 

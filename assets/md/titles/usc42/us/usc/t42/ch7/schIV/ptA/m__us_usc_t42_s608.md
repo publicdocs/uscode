@@ -465,11 +465,11 @@
 
 [Pub. L. 109–171, title VII, § 7301(e)][/us/pl/109/171/s7301/e], Feb. 8, 2006, [120 Stat. 144][/us/stat/120/144], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this section, the amendments made by the preceding provisions of this section \[amending this section, sections 654 and 657 of this title, and [section 6402 of Title 26][/us/usc/t26/s6402], Internal Revenue Code\] shall take effect on October 1, 2009, and shall apply to payments under parts A and D of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq., 651 et seq.\] for calendar quarters beginning on or after such date, and without regard to whether regulations to implement the amendments (in the case of State programs operated under such part D) are promulgated by such date.
 
->     “(2) __State option to accelerate effective date.—__ 
+>     “(2)  __State option to accelerate effective date__  __.—__ 
 
 >     Notwithstanding paragraph (1), a State may elect to have the amendments made by the preceding provisions of this section apply to the State and to amounts collected by the State (and the payments under parts A and D), on and after such date as the State may select that is not earlier than October 1, 2008, and not later than September 30, 2009.”
 
@@ -485,11 +485,11 @@
 
 [Pub. L. 105–33, title V, § 5557][/us/pl/105/33/s5557], Aug. 5, 1997, [111 Stat. 637][/us/stat/111/637], as amended by [Pub. L. 105–200, title IV, § 410(e)(1)][/us/pl/105/200/s410/e/1], July 16, 1998, [112 Stat. 673][/us/stat/112/673], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), the amendments made by this chapter \[chapter 3 (§§ 5531–5557) of subtitle F of title V of [Pub. L. 105–33][/us/pl/105/33], amending this section, sections 652 to 654, 654b, 655, 656, 657 to 659, 663, 664, and 666 of this title, [section 1738B of Title 28][/us/usc/t28/s1738B], Judiciary and Judicial Procedure, and provisions set out as a note under [section 655 of this title][/us/usc/t42/s655]\] shall take effect as if included in the enactment of title III of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 ([Public Law 104–193][/us/pl/104/193]; [110 Stat. 2105][/us/stat/110/2105]).
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     The amendments made by section 5532(b)(2) of this Act \[amending this section\] shall take effect as if the amendments had been included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 ([Public Law 104–193][/us/pl/104/193]; [110 Stat. 2112][/us/stat/110/2112]). The amendment made by section 5536(1)(A) \[amending [section 666 of this title][/us/usc/t42/s666]\] shall not take effect with respect to a State until October 1, 2000, or such earlier date as the State may select.”
 

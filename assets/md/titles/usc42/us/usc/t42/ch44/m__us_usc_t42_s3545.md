@@ -217,11 +217,11 @@
 
 [Pub. L. 102–550, title IX, § 911][/us/pl/102/550/s911], Oct. 28, 1992, [106 Stat. 3875][/us/stat/106/3875], as amended by [Pub. L. 103–233, title III, § 308][/us/pl/103/233/s308], Apr. 11, 1994, [108 Stat. 379][/us/stat/108/379], provided that:
 
->     “(a) __Certification of Subsidy Layering Compliance.—__ 
+>     “(a)  __Certification of Subsidy Layering Compliance__  __.—__ 
 
 >     The requirements of section 102(d) of the Department of Housing and Urban Development Reform Act of 1989 \[[42 U.S.C. 3545(d)][/us/usc/t42/s3545/d]\] may be satisfied in connection with a project receiving assistance under a program that is within the jurisdiction of the Department of Housing and Urban Development and under section 42 of the Internal Revenue Code of 1986 \[[26 U.S.C. 42][/us/usc/t26/s42]\] by a certification by a housing credit agency to the Secretary, submitted in accordance with guidelines established by the Secretary, that the combination of assistance within the jurisdiction of the Secretary and other government assistance provided in connection with a property for which assistance is to be provided within the jurisdiction of the Department of Housing and Urban Development and under section 42 of the Internal Revenue Code of 1986 shall not be any greater than is necessary to provide affordable housing.
 
->     “(b) __In Particular.—__ 
+>     “(b)  __In Particular__  __.—__ 
 
 >     The guidelines established pursuant to subsection (a) shall—
 
@@ -229,7 +229,7 @@
 
 >         “(2) require that project costs, including developer fees, are within a reasonable range, taking into account project size, project characteristics, project location and project risk factors, as determined by the housing credit agency.
 
->     “(c) __Revocation by Secretary.—__ 
+>     “(c)  __Revocation by Secretary__  __.—__ 
 
 >     If the Secretary determines that a housing credit agency has failed to comply with the guidelines established under subsection (a), the Secretary—
 
@@ -237,7 +237,7 @@
 
 >         “(2) shall carry out section 102(d) of the Department of Housing and Urban Development Reform Act of 1989 \[[42 U.S.C. 3545(d)][/us/usc/t42/s3545/d]\] relating to affected projects allocated a low-income housing tax credit pursuant to section 42 of the Internal Revenue Code of 1986 \[[26 U.S.C. 42][/us/usc/t26/s42]\].
 
->     “(d) __Applicability.—__ 
+>     “(d)  __Applicability__  __.—__ 
 
 >     Section 102(d) of the Department of Housing and Urban Development Reform Act of 1989 ([42 U.S.C. 3545(d)][/us/usc/t42/s3545/d]) shall apply only to projects for which an application for assistance or insurance was filed after the date of enactment of the Housing and Urban Development Reform Act \[probably should be Department of Housing and Urban Development Reform Act of 1989, enacted Dec. 15, 1989\].”
 

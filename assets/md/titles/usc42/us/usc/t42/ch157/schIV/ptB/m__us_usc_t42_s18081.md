@@ -317,6 +317,22 @@
 
     Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
+ __Verification of Household Income and Other Qualifications for the Provision of ACA Premium and Cost-Sharing Subsidies__ 
+
+[Pub. L. 113–46, div. B, § 1001][/us/pl/113/46/s1001], Oct. 17, 2013, [127 Stat. 566][/us/stat/127/566], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Notwithstanding any other provision of law, the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall ensure that American Health Benefit Exchanges verify that individuals applying for premium tax credits under section 36B of the Internal Revenue Code of 1986 \[[26 U.S.C. 36B][/us/usc/t26/s36B]\] and reductions in cost-sharing under section 1402 of the Patient Protection and Affordable Care Act ([42 U.S.C. 18071][/us/usc/t42/s18071]) are eligible for such credits and cost sharing reductions consistent with the requirements of section 1411 of such Act ([42 U.S.C. 18081][/us/usc/t42/s18081]), and, prior to making such credits and reductions available, the Secretary shall certify to the Congress that the Exchanges verify such eligibility consistent with the requirements of such Act \[[Pub. L. 111–148][/us/pl/111/148], see Tables for classification\].
+
+>     “(b)  __Report by Secretary__  __.—__ 
+
+>     Not later than January 1, 2014, the Secretary shall submit a report to the Congress that details the procedures employed by American Health Benefit Exchanges to verify eligibility for credits and cost-sharing reductions described in subsection (a).
+
+>     “(c)  __Report by Inspector General__  __.—__ 
+
+>     Not later than July 1, 2014, the Inspector General of the Department of Health and Human Services shall submit to the Congress a report regarding the effectiveness of the procedures and safeguards provided under the Patient Protection and Affordable Care Act for preventing the submission of inaccurate or fraudulent information by applicants for enrollment in a qualified health plan offered through an American Health Benefit Exchange.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t42/ch157/schIV/ptB/m__us_usc_t42_ch157_schIV_ptB.md) | [Next](./../../../../../..//us/usc/t42/ch157/schIV/ptB/m__us_usc_t42_s18082.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18081)
@@ -356,5 +372,11 @@
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F130
 [/us/pl/111/148/s1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1513
+[/us/pl/113/46/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F46%2Fs1001
+[/us/stat/127/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F566
+[/us/usc/t26/s36B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs36B
+[/us/usc/t42/s18071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18071
+[/us/usc/t42/s18081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18081
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 
 

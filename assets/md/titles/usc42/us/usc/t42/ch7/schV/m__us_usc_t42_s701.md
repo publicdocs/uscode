@@ -213,11 +213,11 @@
 
 [Pub. L. 101–239, title VI, § 6510][/us/pl/101/239/s6510], Dec. 19, 1989, [103 Stat. 2284][/us/stat/103/2284], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), the amendments made by this subtitle \[subtitle C (§§ 6501–6510) of title VI of [Pub. L. 101–239][/us/pl/101/239], amending this section and sections 702 to 706, 708, and 709 of this title\] shall apply to appropriations for fiscal years beginning with fiscal year 1990.
 
->     “(b) __Application and Report.—__ 
+>     “(b)  __Application and Report__  __.—__ 
 
 >     The amendments made—
 
@@ -333,19 +333,19 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __Development.—__ 
+>         “(1)  __Development__  __.—__ 
 
 >         The Secretary of Health and Human Services shall develop a maternal and child health handbook in consultation with the National Commission to Prevent Infant Mortality and public and private organizations interested in the health and welfare of mothers and children.
 
->         “(2) __Field testing and evaluation.—__ 
+>         “(2)  __Field testing and evaluation__  __.—__ 
 
 >         The Secretary shall complete publication of the handbook for field testing by July 1, 1990, and shall complete field testing and evaluation by June 1, 1991.
 
->         “(3) __Availability and distribution.—__ 
+>         “(3)  __Availability and distribution__  __.—__ 
 
 >         The Secretary shall make the handbook available to pregnant women and families with young children, and shall provide copies of the handbook to maternal and child health programs (including maternal and child health clinics supported through either title V or title XIX of the Social Security Act \[[42 U.S.C. 701][/us/usc/t42/s701] et seq., 1396 et seq.\], community and migrant health centers under sections 329 and 330 of the Public Health Service Act \[former [42 U.S.C. 254b][/us/usc/t42/s254b], 254c\], the grant program for the homeless under section 340 of the Public Health Service Act \[former [42 U.S.C. 256][/us/usc/t42/s256]\], the ‘WIC’ program under section 17 of the Child Nutrition Act of 1966 \[[42 U.S.C. 1786][/us/usc/t42/s1786]\], and the head start program under the Head Start Act \[[42 U.S.C. 9831][/us/usc/t42/s9831] et seq.\]) that serve high-risk women. The Secretary shall coordinate the distribution of the handbook with State maternal and child health departments, State and local public health clinics, private providers of obstetric and pediatric care, and community groups where applicable. The Secretary shall make efforts to involve private entities in the distribution of the handbook under this paragraph.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated $1,000,000 for each of fiscal years 1991, 1992, and 1993, for carrying out the purposes of this section.”
 

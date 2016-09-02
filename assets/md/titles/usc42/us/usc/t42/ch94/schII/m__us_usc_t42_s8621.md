@@ -101,11 +101,11 @@
 
 [Pub. L. 101–501, title X, § 1001][/us/pl/101/501/s1001], Nov. 3, 1990, [104 Stat. 1283][/us/stat/104/1283], provided that:
 
->     “(a) __General Effective Date.—__ 
+>     “(a)  __General Effective Date__  __.—__ 
 
 >     Except as provided in subsection (b), this Act and the amendments made by this Act \[see Tables for classification\] shall take effect on October 1, 1990.
 
->     “(b) __Special Effective Dates.—__ 
+>     “(b)  __Special Effective Dates__  __.—__ 
 
 >         (1) The amendment made by section 207(b) \[repealing a provision set out as a note preceding [section 9861 of this title][/us/usc/t42/s9861]\] shall take effect immediately before October 1, 1990.
 
@@ -115,15 +115,15 @@
 
 [Pub. L. 99–425, title X, § 1001][/us/pl/99/425/s1001], Sept. 30, 1986, [100 Stat. 978][/us/stat/100/978], provided that:
 
->     “(a) __General Effective Date.—__ 
+>     “(a)  __General Effective Date__  __.—__ 
 
 >     Except as provided in subsections (b) and (c), this Act and the amendments made by this Act \[enacting sections 8628a, 9812a, 9910b, and 10901 to 10905 of this title, amending this section, sections 8623, 8624, 8629, 9803, 9834, 9835, 9837, 9840, 9862, 9867, 9871, 9874, 9877, 9901 to 9904, 9905a, 9908 to 9910, and 9910a of this title and [section 4033 of Title 20][/us/usc/t20/s4033], Education, enacting provisions set out as notes under this section and sections 8623, 9801, and 10901 of this title, and amending provisions set out as notes under [section 9861 of this title][/us/usc/t42/s9861] and [section 1932 of Title 7][/us/usc/t7/s1932], Agriculture\] shall take effect on October 1, 1986, or the date of the enactment of this Act \[Sept. 30, 1986\], whichever occurs later.
 
->     “(b) __Effective Date for Energy Crisis Intervention Amendments.—__ 
+>     “(b)  __Effective Date for Energy Crisis Intervention Amendments__  __.—__ 
 
 >     The amendments made by section 502(a) \[amending [section 8623 of this title][/us/usc/t42/s8623] and enacting provisions set out as a note under [section 8623 of this title][/us/usc/t42/s8623]\] shall take effect on December 1, 1986, or 60 days after the date of the enactment of this Act \[Sept. 30, 1986\], whichever occurs later.
 
->     “(c) __Application of Certain Other Amendments Relating to Energy Assistance.—__ 
+>     “(c)  __Application of Certain Other Amendments Relating to Energy Assistance__  __.—__ 
 
 >     The amendments made by subsections (a), (b), (c), and (d) of section 504 \[amending [section 8624 of this title][/us/usc/t42/s8624]\] shall not apply with respect to any fiscal year beginning in or before the 60-day period ending on the effective date of this Act \[Oct. 1, 1986\].”
 

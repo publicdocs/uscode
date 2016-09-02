@@ -741,11 +741,11 @@
 
          The Secretary shall determine a national adjusted DRG prospective payment rate, for each inpatient hospital discharge in fiscal year 1984 involving inpatient hospital services of a subsection (d) hospital in the United States, and shall determine a regional adjusted DRG prospective payment rate for such discharges in each region, for which payment may be made under part A of this subchapter. Each such rate shall be determined for hospitals located in urban or rural areas within the United States or within each such region, respectively, as follows:
 
-            (A) __Determining allowable individual hospital costs for base period.—__ 
+            (A)  __Determining allowable individual hospital costs for base period__  __.—__ 
 
             The Secretary shall determine the allowable operating costs per discharge of inpatient hospital services for the hospital for the most recent cost reporting period for which data are available.
 
-            (B) __Updating for fiscal year 1984.—__ 
+            (B)  __Updating for fiscal year 1984__  __.—__ 
 
             The Secretary shall update each amount determined under subparagraph (A) for fiscal year 1984 by—
 
@@ -753,7 +753,7 @@
 
                 (ii) projecting for fiscal year 1984 by the applicable percentage increase (as defined in subsection (b)(3)(B) of this section) for fiscal year 1984.
 
-            (C) __Standardizing amounts.—__ 
+            (C)  __Standardizing amounts__  __.—__ 
 
             The Secretary shall standardize the amount updated under subparagraph (B) for each hospital by—
 
@@ -765,7 +765,7 @@
 
                 (iv) for discharges occurring on or after October 1, 1986, excluding an estimate of the additional payments to certain hospitals to be made under paragraph (5)(F), except that the Secretary shall not exclude additional payments under such paragraph made as a result of the enactment of section 6003(c) of the Omnibus Budget Reconciliation Act of 1989, the enactment of section 4002(b) of the Omnibus Budget Reconciliation Act of 1990, the enactment of section 303 of the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, or the enactment of section 402(a)(1)  <sup>\[5\]</sup>  <sup><sup> 5 See References in Text note below. </sup></sup>  of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003.
 
-            (D) __Computing urban and rural averages.—__ 
+            (D)  __Computing urban and rural averages__  __.—__ 
 
             The Secretary shall compute an average of the standardized amounts determined under subparagraph (C) for the United States and for each region—
 
@@ -775,15 +775,15 @@
 
                 For purposes of this subsection, the term “region” means one of the nine census divisions, comprising the fifty States and the District of Columbia, established by the Bureau of the Census for statistical and reporting purposes; the term “urban area” means an area within a Metropolitan Statistical Area (as defined by the Office of Management and Budget) or within such similar area as the Secretary has recognized under subsection (a) of this section by regulation; the term “large urban area” means, with respect to a fiscal year, such an urban area which the Secretary determines (in the publications described in subsection (e)(5) of this section before the fiscal year) has a population of more than 1,000,000 (as determined by the Secretary based on the most recent available population data published by the Bureau of the Census); and the term “rural area” means any area outside such an area or similar area. A hospital located in a Metropolitan Statistical Area shall be deemed to be located in the region in which the largest number of the hospitals in the same Metropolitan Statistical Area are located, or, at the option of the Secretary, the region in which the majority of the inpatient discharges (with respect to which payments are made under this subchapter) from hospitals in the same Metropolitan Statistical Area are made.
 
-            (E) __Reducing for value of outlier payments.—__ 
+            (E)  __Reducing for value of outlier payments__  __.—__ 
 
             The Secretary shall reduce each of the average standardized amounts determined under subparagraph (D) by a proportion equal to the proportion (estimated by the Secretary) of the amount of payments under this subsection based on DRG prospective payment rates which are additional payments described in paragraph (5)(A) (relating to outlier payments).
 
-            (F) __Maintaining budget neutrality.—__ 
+            (F)  __Maintaining budget neutrality__  __.—__ 
 
             The Secretary shall adjust each of such average standardized amounts as may be required under subsection (e)(1)(B) of this section for that fiscal year.
 
-            (G) __Computing drg-specific rates for urban and rural hospitals in the united states and in each region.—__ 
+            (G)  __Computing drg-specific rates for urban and rural hospitals in the united states and in each region__  __.—__ 
 
             For each discharge classified within a diagnosis-related group, the Secretary shall establish a national DRG prospective payment rate and shall establish a regional DRG prospective payment rate for each region, each of which is equal—
 
@@ -803,7 +803,7 @@
 
                     (II) the weighting factor (determined under paragraph (4)(B)) for that diagnosis-related group.
 
-            (H) __Adjusting for different area wage levels.—__ 
+            (H)  __Adjusting for different area wage levels__  __.—__ 
 
             The Secretary shall adjust the proportion, (as estimated by the Secretary from time to time) of hospitals’ costs which are attributable to wages and wage-related costs, of the national and regional DRG prospective payment rates computed under subparagraph (G) for area differences in hospital wage levels by a factor (established by the Secretary) reflecting the relative hospital wage level in the geographic area of the hospital compared to the national average hospital wage level.
 
@@ -811,7 +811,7 @@
 
          The Secretary shall determine a national adjusted DRG prospective payment rate, for each inpatient hospital discharge in a fiscal year after fiscal year 1984 involving inpatient hospital services of a subsection (d) hospital in the United States, and shall determine, for fiscal years before fiscal year 1997, a regional adjusted DRG prospective payment rate for such discharges in each region for which payment may be made under part A of this subchapter. Each such rate shall be determined for hospitals located in large urban, other urban, or rural areas within the United States and within each such region, respectively, as follows:
 
-            (A) __Updating previous standardized amounts.—__ 
+            (A)  __Updating previous standardized amounts__  __.—__ 
 
                 (i) For discharges occurring in a fiscal year beginning before October 1, 1987, the Secretary shall compute an average standardized amount for hospitals located in an urban area and for hospitals located in a rural area within the United States and for hospitals located in an urban area and for hospitals located in a rural area within each region, equal to the respective average standardized amount computed for the previous fiscal year under paragraph (2)(D) or under this subparagraph, increased for the fiscal year involved by the applicable percentage increase under subsection (b)(3)(B) of this section. With respect to discharges occurring on or after October 1, 1987, the Secretary shall compute urban and rural averages on the basis of discharge weighting rather than hospital weighting, making appropriate adjustments to ensure that computation on such basis does not result in total payments under this section that are greater or less than the total payments that would have been made under this section but for this sentence, and making appropriate changes in the manner of determining the reductions under subparagraph (C)(ii).
 
@@ -829,17 +829,17 @@
 
                 (vi) Insofar as the Secretary determines that the adjustments under paragraph (4)(C)(i) for a previous fiscal year (or estimates that such adjustments for a future fiscal year) did (or are likely to) result in a change in aggregate payments under this subsection during the fiscal year that are a result of changes in the coding or classification of discharges that do not reflect real changes in case mix, the Secretary may adjust the average standardized amounts computed under this paragraph for subsequent fiscal years so as to eliminate the effect of such coding or classification changes.
 
-            (B) __Reducing for value of outlier payments.—__ 
+            (B)  __Reducing for value of outlier payments__  __.—__ 
 
             The Secretary shall reduce each of the average standardized amounts determined under subparagraph (A) by a factor equal to the proportion of payments under this subsection (as estimated by the Secretary) based on DRG prospective payment amounts which are additional payments described in paragraph (5)(A) (relating to outlier payments).
 
-            (C) __Maintaining budget neutrality for fiscal year 1985.—__ 
+            (C)  __Maintaining budget neutrality for fiscal year 1985__  __.—__ 
 
                 (i) For discharges occurring in fiscal year 1985, the Secretary shall adjust each of such average standardized amounts as may be required under subsection (e)(1)(B) of this section for that fiscal year.
 
                 (ii) For discharges occurring after September 30, 1986, the Secretary shall further reduce each of the average standardized amounts (in a proportion which takes into account the differing effects of the standardization effected under paragraph (2)(C)(i)) so as to provide for a reduction in the total of the payments (attributable to this paragraph) made for discharges occurring on or after October 1, 1986, of an amount equal to the estimated reduction in the payment amounts under paragraph (5)(B) that would have resulted from the enactment of the amendments made by section 9104 of the Medicare and Medicaid Budget Reconciliation Amendments of 1985 and by section 4003(a)(1) of the Omnibus Budget Reconciliation Act of 1987 if the factor described in clause (ii)(II) of paragraph (5)(B) (determined without regard to amendments made by the Omnibus Budget Reconciliation Act of 1990) were applied for discharges occurring on or after such date instead of the factor described in clause (ii) of that paragraph.
 
-            (D) __Computing drg-specific rates for hospitals.—__ 
+            (D)  __Computing drg-specific rates for hospitals__  __.—__ 
 
             For each discharge classified within a diagnosis-related group, the Secretary shall establish for the fiscal year a national DRG prospective payment rate and shall establish, for fiscal years before fiscal year 1997, a regional DRG prospective payment rate for each region which is equal—
 
@@ -869,29 +869,29 @@
 
             (E) __Adjusting for different area wage levels.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Except as provided in clause (ii) or (iii), the Secretary shall adjust the proportion, (as estimated by the Secretary from time to time) of hospitals’ costs which are attributable to wages and wage-related costs, of the DRG prospective payment rates computed under subparagraph (D) for area differences in hospital wage levels by a factor (established by the Secretary) reflecting the relative hospital wage level in the geographic area of the hospital compared to the national average hospital wage level. Not later than October 1, 1990, and October 1, 1993 (and at least every 12 months thereafter), the Secretary shall update the factor under the preceding sentence on the basis of a survey conducted by the Secretary (and updated as appropriate) of the wages and wage-related costs of subsection (d) hospitals in the United States. Not less often than once every 3 years the Secretary (through such survey or otherwise) shall measure the earnings and paid hours of employment by occupational category and shall exclude data with respect to the wages and wage-related costs incurred in furnishing skilled nursing facility services. Any adjustments or updates made under this subparagraph for a fiscal year (beginning with fiscal year 1991) shall be made in a manner that assures that the aggregate payments under this subsection in the fiscal year are not greater or less than those that would have been made in the year without such adjustment. The Secretary shall apply the previous sentence for any period as if the amendments made by section 403(a)(1) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 and the amendments made by section 10324(a)(1) of the Patient Protection and Affordable Care Act had not been enacted.
 
-                (ii) __Alternative proportion to be adjusted beginning in fiscal year 2005.—__ 
+                (ii)  __Alternative proportion to be adjusted beginning in fiscal year 2005__  __.—__ 
 
                 For discharges occurring on or after October 1, 2004, the Secretary shall substitute “62 percent” for the proportion described in the first sentence of clause (i), unless the application of this clause would result in lower payments to a hospital than would otherwise be made.
 
                 (iii) __Floor on area wage index for hospitals in frontier states.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     Subject to subclause (IV), for discharges occurring on or after October 1, 2010, the area wage index applicable under this subparagraph to any hospital which is located in a frontier State (as defined in subclause (II)) may not be less than 1.00.
 
-                    (II) __Frontier state defined.—__ 
+                    (II)  __Frontier state defined__  __.—__ 
 
                     In this clause, the term “frontier State” means a State in which at least 50 percent of the counties in the State are frontier counties.
 
-                    (III) __Frontier county defined.—__ 
+                    (III)  __Frontier county defined__  __.—__ 
 
                     In this clause, the term “frontier county” means a county in which the population per square mile is less than 6.
 
-                    (IV) __Limitation.—__ 
+                    (IV)  __Limitation__  __.—__ 
 
                     This clause shall not apply to any hospital located in a State that receives a non-labor related share adjustment under paragraph (5)(H).
 
@@ -1625,29 +1625,29 @@
 
         (11) __Additional payments for managed care enrollees.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             For portions of cost reporting periods occurring on or after January 1, 1998, the Secretary shall provide for an additional payment amount for each applicable discharge of any subsection (d) hospital that has an approved medical residency training program.
 
-            (B) __Applicable discharge.—__ 
+            (B)  __Applicable discharge__  __.—__ 
 
             For purposes of this paragraph, the term “applicable discharge” means the discharge of any individual who is enrolled under a risk-sharing contract with an eligible organization under [section 1395mm of this title][/us/usc/t42/s1395mm] and who is entitled to benefits under part A of this subchapter or any individual who is enrolled with a Medicare+ÐChoice organization under part C of this subchapter.
 
-            (C) __Determination of amount.—__ 
+            (C)  __Determination of amount__  __.—__ 
 
             The amount of the payment under this paragraph with respect to any applicable discharge shall be equal to the applicable percentage (as defined in subsection (h)(3)(D)(ii) of this section) of the estimated average per discharge amount that would otherwise have been paid under paragraph (5)(B) if the individuals had not been enrolled as described in subparagraph (B).
 
-            (D) __Special rule for hospitals under reimbursement system.—__ 
+            (D)  __Special rule for hospitals under reimbursement system__  __.—__ 
 
             The Secretary shall establish rules for the application of this paragraph to a hospital reimbursed under a reimbursement system authorized under [section 1395f(b)(3) of this title][/us/usc/t42/s1395f/b/3] in the same manner as it would apply to the hospital if it were not reimbursed under such section.
 
         (12) __Payment adjustment for low-volume hospitals.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             In addition to any payments calculated under this section for a subsection (d) hospital, for discharges occurring during a fiscal year (beginning with fiscal year 2005), the Secretary shall provide for an additional payment amount to each low-volume hospital (as defined in subparagraph (C)(i)) for discharges occurring during that fiscal year that is equal to the applicable percentage increase (determined under subparagraph (B) or (D) for the hospital involved) in the amount paid to such hospital under this section for such discharges (determined without regard to this paragraph).
 
-            (B) __Applicable percentage increase.—__ 
+            (B)  __Applicable percentage increase__  __.—__ 
 
             For discharges occurring in fiscal years 2005 through 2010 and for discharges occurring in fiscal year 2014 and subsequent fiscal years, the Secretary shall determine an applicable percentage increase for purposes of subparagraph (A) as follows:
 
@@ -1659,15 +1659,15 @@
 
             (C) __Definitions.—__ 
 
-                (i) __Low-volume hospital.—__ 
+                (i)  __Low-volume hospital__  __.—__ 
 
                 For purposes of this paragraph, the term “low-volume hospital” means, for a fiscal year, a subsection (d) hospital (as defined in paragraph (1)(B)) that the Secretary determines is located more than 25 road miles (or, with respect to fiscal years 2011, 2012, and 2013, 15 road miles) from another subsection (d) hospital and has less than 800 discharges (or, with respect to fiscal years 2011, 2012, and 2013, 1,600 discharges of individuals entitled to, or enrolled for, benefits under part A) during the fiscal year.
 
-                (ii) __Discharge.—__ 
+                (ii)  __Discharge__  __.—__ 
 
                 For purposes of subparagraph (B) and clause (i), the term “discharge” means an inpatient acute care discharge of an individual regardless of whether the individual is entitled to benefits under part A of this subchapter.
 
-            (D) __Temporary applicable percentage increase.—__ 
+            (D)  __Temporary applicable percentage increase__  __.—__ 
 
             For discharges occurring in fiscal years 2011, 2012, and 2013, the Secretary shall determine an applicable percentage increase for purposes of subparagraph (A) using a continuous linear sliding scale ranging from 25 percent for low-volume hospitals with 200 or fewer discharges of individuals entitled to, or enrolled for, benefits under part A in the fiscal year to 0 percent for low-volume hospitals with greater than 1,600 discharges of such individuals in the fiscal year.
 
@@ -5215,7 +5215,7 @@
 
 [Pub. L. 111–148, title V, § 5505(c)][/us/pl/111/148/s5505/c], Mar. 23, 2010, [124 Stat. 661][/us/stat/124/661], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided, the Secretary of Health and Human Services shall implement the amendments made by this section \[amending this section\] in a manner so as to apply to cost reporting periods beginning on or after January 1, 1983.
 
@@ -5259,11 +5259,11 @@
 
 [Pub. L. 108–173, title V, § 503(e)][/us/pl/108/173/s503/e], Dec. 8, 2003, [117 Stat. 2292][/us/stat/117/2292], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary \[of Health and Human Services\] shall implement the amendments made by this section \[amending this section\] so that they apply to classification for fiscal years beginning with fiscal year 2005.
 
->     “(2) __Reconsiderations of applications for fiscal year 2004 that are denied.—__ 
+>     “(2)  __Reconsiderations of applications for fiscal year 2004 that are denied__  __.—__ 
 
 >     In the case of an application for a classification of a medical service or technology as a new medical service or technology under section 1886(d)(5)(K) of the Social Security Act ([42 U.S.C. 1395ww(d)(5)(K)][/us/usc/t42/s1395ww/d/5/K]) that was filed for fiscal year 2004 and that is denied—
 
@@ -5511,7 +5511,7 @@
 
 [Pub. L. 100–203, title IV, § 4002(g)][/us/pl/100/203/s4002/g], Dec. 22, 1987, [101 Stat. 1330–45][/us/stat/101/1330-45], as amended by [Pub. L. 100–360, title IV, § 411(b)(1)(I)][/us/pl/100/360/s411/b/1/I], July 1, 1988, [102 Stat. 769][/us/stat/102/769], provided that:
 
->     “(1) __PPS hospitals, drg portion of payment.—__ 
+>     “(1)  __PPS hospitals, drg portion of payment__  __.—__ 
 
 >     In the case of a subsection (d) hospital (as defined in paragraph (6))—
 
@@ -5519,7 +5519,7 @@
 
 >         “(B) for discharges occurring on or after October 1, 1988, the applicable percentage increase (described in section 1886(b)(3)(B) of such Act \[[42 U.S.C. 1395ww(b)(3)(B)][/us/usc/t42/s1395ww/b/3/B]\]) for discharges occurring during fiscal year 1987 is deemed to have been such percentage increase as amended by subsection (a).
 
->     “(2) __PPS sole community hospitals, hospital specific portion of payment.—__ 
+>     “(2)  __PPS sole community hospitals, hospital specific portion of payment__  __.—__ 
 
 >     In the case of a subsection (d) hospital which receives payments made under section 1886(d)(1)(A) of the Social Security Act \[[42 U.S.C. 1395ww(d)(1)(A)][/us/usc/t42/s1395ww/d/1/A]\] because it is a sole community hospital—
 
@@ -5537,7 +5537,7 @@
 
 >         “(C) for cost reporting periods beginning on or after October 1, 1988, the applicable percentage increase (as so defined) with respect to the previous cost reporting period shall be deemed to have been the applicable percentage increase (as so defined, as amended by subsection (a)).
 
->     “(3) __PPS-exempt hospitals.—__ 
+>     “(3)  __PPS-exempt hospitals__  __.—__ 
 
 >     In the case of a hospital that is not a subsection (d) hospital—
 
@@ -5547,15 +5547,15 @@
 
 >         “(C) for cost reporting periods beginning on or after October 1, 1988, the applicable percentage increase (as so defined) with respect to the cost reporting period beginning during fiscal year 1988 shall be deemed to have been 2.7 percent.
 
->     “(4) __Definition, regional floor, and technical and conforming amendments.—__ 
+>     “(4)  __Definition, regional floor, and technical and conforming amendments__  __.—__ 
 
 >     The amendments made by subsections (b) and (d) and paragraphs (1) and (2) of subsection (f) \[amending this section and provisions set out as a note below\] shall take effect on the date of the enactment of this Act \[Dec. 22, 1987\].
 
->     “(5) __Transition for large urban area rates.—__ 
+>     “(5)  __Transition for large urban area rates__  __.—__ 
 
 >     In computing the average standardized amount for hospitals located in a large urban area or other urban area under section 1886(d)(3)(A)(ii) of the Social Security Act \[[42 U.S.C. 1395ww(d)(3)(A)(ii)][/us/usc/t42/s1395ww/d/3/A/ii]\] (as amended by subsection (c)) for fiscal year 1988, the reference to ‘the respective average standardized amount computed for the previous fiscal year under this subparagraph’ is deemed a reference to the average standardized amount computed for hospitals located in an urban area for the 51-day period beginning on October 1, 1987.
 
->     “(6) __Definition.—__ 
+>     “(6)  __Definition__  __.—__ 
 
 >     In this subsection, the term ‘subsection (d) hospital’ has the meaning given such term in section 1886(d)(1)(B) of the Social Security Act \[[42 U.S.C. 1395ww(d)(1)(B)][/us/usc/t42/s1395ww/d/1/B]\].”
 
@@ -5645,7 +5645,7 @@
 
 [Pub. L. 99–272, title IX, § 9101(e)][/us/pl/99/272/s9101/e], Apr. 7, 1986, [100 Stat. 154][/us/stat/100/154], provided that:
 
->     “(1) __PPS hospitals, drg portion of payment.—__ 
+>     “(1)  __PPS hospitals, drg portion of payment__  __.—__ 
 
 >     In the case of a subsection (d) hospital (as defined in paragraph (4))—
 
@@ -5653,7 +5653,7 @@
 
 >         “(B) for discharges occurring on or after October 1, 1986, the applicable percentage increase (described in section 1886(b)(3)(B) \[[42 U.S.C. 1395ww(b)(3)(B)][/us/usc/t42/s1395ww/b/3/B]\]) for discharges occurring during fiscal year 1986 shall be deemed to have been ½ percent.
 
->     “(2) __PPS hospitals, hospital specific portion of payment.—__ 
+>     “(2)  __PPS hospitals, hospital specific portion of payment__  __.—__ 
 
 >     In the case of a subsection (d) hospital—
 
@@ -5669,7 +5669,7 @@
 
 >         “(C) for cost reporting periods beginning on or after October 1, 1986, the applicable percentage increase (as so defined) with respect to the previous cost reporting period shall be deemed to have been ½ percent.
 
->     “(3) __PPS-exempt hospitals.—__ 
+>     “(3)  __PPS-exempt hospitals__  __.—__ 
 
 >     In the case of a hospital that is not a subsection (d) hospital—
 
@@ -5679,13 +5679,13 @@
 
 >         “(C) for cost reporting periods beginning on or after October 1, 1986, the applicable percentage increase (as so defined) with respect to the cost reporting period beginning during fiscal year 1986 shall be deemed to have been ½ percent.
 
->     “(4) __Definition.—__ 
+>     “(4)  __Definition__  __.—__ 
 
 >     In this subsection, the term ‘subsection (d) hospital’ has the meaning given such term in section 1886(d)(1)(B) of the Social Security Act \[[42 U.S.C. 1395ww(d)(1)(B)][/us/usc/t42/s1395ww/d/1/B]\].”
 
 [Pub. L. 99–272, title IX, § 9102(d)][/us/pl/99/272/s9102/d], Apr. 7, 1986, [100 Stat. 155][/us/stat/100/155], provided that:
 
->     “(1) __Delay in final transition.—__ 
+>     “(1)  __Delay in final transition__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Apr. 7, 1986\].”
 
@@ -5845,17 +5845,17 @@
 
 >     “(2) __Special rule for fiscal year 2011.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Subject to subparagraph (B), for purposes of implementation of the amendment made by paragraph (1) \[amending [section 106(a) of div. B of Pub. L. 109–432][/us/pl/109/432/s106/a], set out as a note under this section\], including (notwithstanding paragraph (3) of section 117(a) of the Medicare, Medicaid, and SCHIP Extension Act of 2007 ([Public Law 110–173][/us/pl/110/173]) \[set out as a note under this section\], as amended by section 124(b) of the Medicare Improvements for Patients and Providers Act of 2008 ([Public Law 110–275][/us/pl/110/275])) for purposes of the implementation of paragraph (2) of such section 117(a), during fiscal year 2011, the Secretary of Health and Human Services shall use the hospital wage index that was promulgated by the Secretary of Health and Human Services in the Federal Register on August 16, 2010 (75 Fed. Reg. 50042), and any subsequent corrections.
 
->         “(B) __Exception.—__ 
+>         “(B)  __Exception__  __.—__ 
 
 >         Beginning on April 1, 2011, in determining the wage index applicable to hospitals that qualify for wage index reclassification, the Secretary shall include the average hourly wage data of hospitals whose reclassification was extended pursuant to the amendment made by paragraph (1) only if including such data results in a higher applicable reclassified wage index. Any revision to hospital wage indexes made as a result of this subparagraph shall not be effected in a budget neutral manner.
 
 >     “(3) __Adjustment for certain hospitals in fiscal year 2011.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of a subsection (d) hospital (as defined in subsection (d)(1)(B) of section 1886 of the Social Security Act ([42 U.S.C. 1395ww][/us/usc/t42/s1395ww])) with respect to which—
 
@@ -5863,7 +5863,7 @@
 
 >             “(ii) the wage index applicable for such hospital for the period beginning on October 1, 2010, and ending on March 31, 2011, was lower than for the period beginning on April 1, 2011, and ending on September 30, 2011, by reason of the application of paragraph (2)(B);    “the Secretary shall pay such hospital an additional payment that reflects the difference between the wage index for such periods.
 
->         “(B) __Timeframe for payments.—__ 
+>         “(B)  __Timeframe for payments__  __.—__ 
 
 >         The Secretary shall make payments required under subparagraph (A) by not later than December 31, 2011.”
 
@@ -5873,11 +5873,11 @@
 
 [Pub. L. 111–192, title I, § 102(c)][/us/pl/111/192/s102/c], June 25, 2010, [124 Stat. 1281][/us/stat/124/1281], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Health and Human Services may not reopen a claim, adjust a claim, or make a payment pursuant to any request for payment under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], submitted by an entity (including a hospital or an entity wholly owned or operated by the hospital) for services described in paragraph (2) for purposes of treating, as unrelated to a patient’s inpatient admission, services provided during the 3 days (or, in the case of a hospital that is not a subsection (d) hospital, during the 1 day) immediately preceding the date of the patient’s inpatient admission.
 
->     “(2) __Services described.—__ 
+>     “(2)  __Services described__  __.—__ 
 
 >     For purposes of paragraph (1), the services described in this paragraph are other services related to the admission (as described in section 1886(a)(4) of the Social Security Act ([42 U.S.C. 1395ww(a)(4)][/us/usc/t42/s1395ww/a/4]), as amended by subsection (a)) which were previously included on a claim or request for payment submitted under part A of title XVIII of such Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] for which a reopening, adjustment, or request for payment under part B of such title \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\], was not submitted prior to the date of the enactment of this Act \[June 25, 2010\].”
 
@@ -5891,19 +5891,19 @@
 
 [Pub. L. 111–152, title I, § 1109][/us/pl/111/152/s1109], Mar. 30, 2010, [124 Stat. 1051][/us/stat/124/1051], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     From the amount available under subsection (b), the Secretary of Health and Human Services shall provide for a payment to qualifying hospitals (as defined in subsection (d)) for fiscal years 2011 and 2012 of the amount determined under subsection (c).
 
->     “(b) __Amounts Available.—__ 
+>     “(b)  __Amounts Available__  __.—__ 
 
 >     There shall be available from the Federal Hospital Insurance Trust Fund $400,000,000 for payments under this section for fiscal years 2011 and 2012.
 
->     “(c) __Payment Amount.—__ 
+>     “(c)  __Payment Amount__  __.—__ 
 
 >     The amount of payment under this section for a qualifying hospital shall be determined, in a manner consistent with the amount available under subsection (b), in proportion to the portion of the amount of the aggregate payments under section 1886(d) of the Social Security Act \[[42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]\] to the hospital for fiscal year 2009 bears to the sum of all such payments to all qualifying hospitals for such fiscal year.
 
->     “(d) __Qualifying Hospital Defined.—__ 
+>     “(d)  __Qualifying Hospital Defined__  __.—__ 
 
 >     In this section, the term ‘qualifying hospital’ means a subsection (d) hospital (as defined for purposes of section 1886(d) of the Social Security Act) that is located in a county that ranks, based upon its ranking in age, sex, and race adjusted spending for benefits under parts A and B under title XVIII of such Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.; [42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] per enrollee, within the lowest quartile of such counties in the United States.”
 
@@ -5915,27 +5915,27 @@
 
 >         “(A) __Establishment.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             Not later than 2 years after the date of enactment of this Act \[Mar. 23, 2010\], the Secretary of Health and Human Services (in this subsection referred to as the ‘Secretary’) shall establish a demonstration program under which the Secretary establishes a value-based purchasing program under the Medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] for critical access hospitals (as defined in paragraph (1) of section 1861(mm) of such Act ([42 U.S.C. 1395x(mm)][/us/usc/t42/s1395x/mm])) with respect to inpatient critical access hospital services (as defined in paragraph (2) of such section) in order to test innovative methods of measuring and rewarding quality and efficient health care furnished by such hospitals.
 
->             “(ii) __Duration.—__ 
+>             “(ii)  __Duration__  __.—__ 
 
 >             The demonstration program under this paragraph shall be conducted for a 3-year period.
 
->             “(iii) __Sites.—__ 
+>             “(iii)  __Sites__  __.—__ 
 
 >             The Secretary shall conduct the demonstration program under this paragraph at an appropriate number (as determined by the Secretary) of critical access hospitals. The Secretary shall ensure that such hospitals are representative of the spectrum of such hospitals that participate in the Medicare program.
 
->         “(B) __Waiver authority.—__ 
+>         “(B)  __Waiver authority__  __.—__ 
 
 >         The Secretary may waive such requirements of titles XI and XVIII of the Social Security Act \[[42 U.S.C. 1301][/us/usc/t42/s1301] et seq., 1395 et seq.\] as may be necessary to carry out the demonstration program under this paragraph.
 
->         “(C) __Budget neutrality requirement.—__ 
+>         “(C)  __Budget neutrality requirement__  __.—__ 
 
 >         In conducting the demonstration program under this section \[amending this section and enacting this note\], the Secretary shall ensure that the aggregate payments made by the Secretary do not exceed the amount which the Secretary would have paid if the demonstration program under this section was not implemented.
 
->         “(D) __Report.—__ 
+>         “(D)  __Report__  __.—__ 
 
 >         Not later than 18 months after the completion of the demonstration program under this paragraph, the Secretary shall submit to Congress a report on the demonstration program together with—
 
@@ -5947,31 +5947,31 @@
 
 >         “(A) __Establishment.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             Not later than 2 years after the date of enactment of this Act \[Mar. 23, 2010\], the Secretary shall establish a demonstration program under which the Secretary establishes a value-based purchasing program under the Medicare program under title XVIII of the Social Security Act for applicable hospitals (as defined in clause (ii)) with respect to inpatient hospital services (as defined in section 1861(b) of the Social Security Act ([42 U.S.C. 1395x(b)][/us/usc/t42/s1395x/b])) in order to test innovative methods of measuring and rewarding quality and efficient health care furnished by such hospitals.
 
->             “(ii) __Applicable hospital defined.—__ 
+>             “(ii)  __Applicable hospital defined__  __.—__ 
 
 >             For purposes of this paragraph, the term ‘applicable hospital’ means a hospital described in subclause (III) or (IV) of section 1886(o)(1)(C)(ii) of the Social Security Act \[[42 U.S.C. 1395ww][/us/usc/t42/s1395ww](o)(1)(C)(ii)\], as added by subsection (a)(1).
 
->             “(iii) __Duration.—__ 
+>             “(iii)  __Duration__  __.—__ 
 
 >             The demonstration program under this paragraph shall be conducted for a 3-year period.
 
->             “(iv) __Sites.—__ 
+>             “(iv)  __Sites__  __.—__ 
 
 >             The Secretary shall conduct the demonstration program under this paragraph at an appropriate number (as determined by the Secretary) of applicable hospitals. The Secretary shall ensure that such hospitals are representative of the spectrum of such hospitals that participate in the Medicare program.
 
->         “(B) __Waiver authority.—__ 
+>         “(B)  __Waiver authority__  __.—__ 
 
 >         The Secretary may waive such requirements of titles XI and XVIII of the Social Security Act \[[42 U.S.C. 1301][/us/usc/t42/s1301] et seq., 1395 et seq.\] as may be necessary to carry out the demonstration program under this paragraph.
 
->         “(C) __Budget neutrality requirement.—__ 
+>         “(C)  __Budget neutrality requirement__  __.—__ 
 
 >         In conducting the demonstration program under this section, the Secretary shall ensure that the aggregate payments made by the Secretary do not exceed the amount which the Secretary would have paid if the demonstration program under this section was not implemented.
 
->         “(D) __Report.—__ 
+>         “(D)  __Report__  __.—__ 
 
 >         Not later than 18 months after the completion of the demonstration program under this paragraph, the Secretary shall submit to Congress a report on the demonstration program together with—
 
@@ -5983,13 +5983,13 @@
 
 [Pub. L. 111–148, title III, § 3137(b)][/us/pl/111/148/s3137/b], (c), Mar. 23, 2010, [124 Stat. 438][/us/stat/124/438], 439, provided that:
 
->     “(b) __Plan for Reforming the Medicare Hospital Wage Index System__ 
+>     “(b)  __Plan for Reforming the Medicare Hospital Wage Index System__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than December 31, 2011, the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall submit to Congress a report that includes a plan to reform the hospital wage index system under section 1886 of the Social Security Act \[[42 U.S.C. 1395ww][/us/usc/t42/s1395ww]\].
 
->         “(2) __Details.—__ 
+>         “(2)  __Details__  __.—__ 
 
 >         In developing the plan under paragraph (1), the Secretary shall take into account the goals for reforming such system set forth in the Medicare Payment Advisory Commission June 2007 report entitled ‘Report to Congress: Promoting Greater Efficiency in Medicare’, including establishing a new hospital compensation index system that—
 
@@ -6005,11 +6005,11 @@
 
 >             “(F) provides for a transition.
 
->         “(3) __Consultation.—__ 
+>         “(3)  __Consultation__  __.—__ 
 
 >         In developing the plan under paragraph (1), the Secretary shall consult with relevant affected parties.
 
->     “(c) __Use of Particular Criteria for Determining Reclassifications.—__ 
+>     “(c)  __Use of Particular Criteria for Determining Reclassifications__  __.—__ 
 
 >     Notwithstanding any other provision of law, in making decisions on applications for reclassification of a subsection (d) hospital (as defined in paragraph (1)(B) of section 1886(d) of the Social Security Act ([42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d])\[)\] for the purposes described in paragraph (10)(D)(v) of such section for fiscal year 2011 and each subsequent fiscal year (until the first fiscal year beginning on or after the date that is 1 year after the Secretary of Health and Human Services submits the report to Congress under subsection (b)), the Geographic Classification Review Board established under paragraph (10) of such section shall use the average hourly wage comparison criteria used in making such decisions as of September 30, 2008. The preceding sentence shall be effected in a budget neutral manner.”
 
@@ -6033,37 +6033,37 @@
 
 >         “(1) __Establishment.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary shall establish a graduate nurse education demonstration under title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.) under which an eligible hospital may receive payment for the hospital’s reasonable costs (described in paragraph (2)) for the provision of qualified clinical training to advance practice nurses.
 
->             “(B) __Number.—__ 
+>             “(B)  __Number__  __.—__ 
 
 >             The demonstration shall include up to 5 eligible hospitals.
 
->             “(C) __Written agreements.—__ 
+>             “(C)  __Written agreements__  __.—__ 
 
 >             Eligible hospitals selected to participate in the demonstration shall enter into written agreements pursuant to subsection (b) in order to reimburse the eligible partners of the hospital the share of the costs attributable to each partner.
 
 >         “(2) __Costs described.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Subject to subparagraph (B) and subsection (d), the costs described in this paragraph are the reasonable costs (as described in section 1861(v) of the Social Security Act ([42 U.S.C. 1395x(v)][/us/usc/t42/s1395x/v])) of each eligible hospital for the clinical training costs (as determined by the Secretary) that are attributable to providing advanced practice registered nurses with qualified training.
 
->             “(B) __Limitation.—__ 
+>             “(B)  __Limitation__  __.—__ 
 
 >             With respect to a year, the amount reimbursed under subparagraph (A) may not exceed the amount of costs described in subparagraph (A) that are attributable to an increase in the number of advanced practice registered nurses enrolled in a program that provides qualified training during the year and for which the hospital is being reimbursed under the demonstration, as compared to the average number of advanced practice registered nurses who graduated in each year during the period beginning on January 1, 2006, and ending on December 31, 2010 (as determined by the Secretary) from the graduate nursing education program operated by the applicable school of nursing that is an eligible partner of the hospital for purposes of the demonstration.
 
->         “(3) __Waiver authority.—__ 
+>         “(3)  __Waiver authority__  __.—__ 
 
 >         The Secretary may waive such requirements of titles XI and XVIII of the Social Security Act \[[42 U.S.C. 1301][/us/usc/t42/s1301] et seq., 1395 et seq.\] as may be necessary to carry out the demonstration.
 
->         “(4) __Administration.—__ 
+>         “(4)  __Administration__  __.—__ 
 
 >         Chapter 35 of title 44, United States Code, shall not apply to the implementation of this section.
 
->     “(b) __Written Agreements With Eligible Partners.—__ 
+>     “(b)  __Written Agreements With Eligible Partners__  __.—__ 
 
 >     No payment shall be made under this section to an eligible hospital unless such hospital has in effect a written agreement with the eligible partners of the hospital. Such written agreement shall describe, at a minimum—
 
@@ -6071,7 +6071,7 @@
 
 >         “(2) the obligation of the eligible hospital to reimburse such eligible partners applicable (in a timely manner) for the costs of such qualified training attributable to partner.
 
->     “(c) __Evaluation.—__ 
+>     “(c)  __Evaluation__  __.—__ 
 
 >     Not later than October 17, 2017, the Secretary shall submit to Congress a report on the demonstration. Such report shall include an analysis of the following:
 
@@ -6085,23 +6085,23 @@
 
 >     “(d) __Funding.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There is hereby appropriated to the Secretary, out of any funds in the Treasury not otherwise appropriated, $50,000,000 for each of fiscal years 2012 through 2015 to carry out this section, including the design, implementation, monitoring, and evaluation of the demonstration.
 
->         “(2) __Proration.—__ 
+>         “(2)  __Proration__  __.—__ 
 
 >         If the aggregate payments to eligible hospitals under the demonstration exceed $50,000,000 for a fiscal year described in paragraph (1), the Secretary shall prorate the payment amounts to each eligible hospital in order to ensure that the aggregate payments do not exceed such amount.
 
->         “(3) __Without fiscal year limitation.—__ 
+>         “(3)  __Without fiscal year limitation__  __.—__ 
 
 >         Amounts appropriated under this subsection shall remain available without fiscal year limitation.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Advanced practice registered nurse.—__ 
+>         “(1)  __Advanced practice registered nurse__  __.—__ 
 
 >         The term ‘advanced practice registered nurse’ includes the following:
 
@@ -6113,19 +6113,19 @@
 
 >             “(D) A certified nurse-midwife (as defined in subsection (gg)(2) of such section).
 
->         “(2) __Applicable non-hospital community-based care setting.—__ 
+>         “(2)  __Applicable non-hospital community-based care setting__  __.—__ 
 
 >         The term ‘applicable non-hospital community-based care setting’ means a non-hospital community-based care setting which has entered into a written agreement (as described in subsection (b)) with the eligible hospital participating in the demonstration. Such settings include Federally qualified health centers, rural health clinics, and other non-hospital settings as determined appropriate by the Secretary.
 
->         “(3) __Applicable school of nursing.—__ 
+>         “(3)  __Applicable school of nursing__  __.—__ 
 
 >         The term ‘applicable school of nursing’ means an accredited school of nursing (as defined in section 801 of the Public Health Service Act \[[42 U.S.C. 296][/us/usc/t42/s296]\]) which has entered into a written agreement (as described in subsection (b)) with the eligible hospital participating in the demonstration.
 
->         “(4) __Demonstration.—__ 
+>         “(4)  __Demonstration__  __.—__ 
 
 >         The term ‘demonstration’ means the graduate nurse education demonstration established under subsection (a).
 
->         “(5) __Eligible hospital.—__ 
+>         “(5)  __Eligible hospital__  __.—__ 
 
 >         The term ‘eligible hospital’ means a hospital (as defined in subsection (e) of section 1861 of the Social Security Act ([42 U.S.C. 1395x][/us/usc/t42/s1395x])) or a critical access hospital (as defined in subsection (mm)(1) of such section) that has a written agreement in place with—
 
@@ -6133,7 +6133,7 @@
 
 >             “(B) 2 or more applicable non-hospital community-based care settings.
 
->         “(6) __Eligible partners.—__ 
+>         “(6)  __Eligible partners__  __.—__ 
 
 >         The term ‘eligible partners’ includes the following:
 
@@ -6143,7 +6143,7 @@
 
 >         “(7) __Qualified training.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The term ‘qualified training’ means training—
 
@@ -6151,11 +6151,11 @@
 
 >                 “(ii) subject to subparagraph (B), at least half of which is provided in a non-hospital community-based care setting.
 
->             “(B) __Waiver of requirement half of training be provided in non-hospital community-based care setting in certain areas.—__ 
+>             “(B)  __Waiver of requirement half of training be provided in non-hospital community-based care setting in certain areas__  __.—__ 
 
 >             The Secretary may waive the requirement under subparagraph (A)(ii) with respect to eligible hospitals located in rural or medically underserved areas.
 
->         “(8) __Secretary.—__ 
+>         “(8)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of Health and Human Services.”
 
@@ -6163,7 +6163,7 @@
 
 [Pub. L. 110–173, title I, § 114(c)][/us/pl/110/173/s114/c], Dec. 29, 2007, [121 Stat. 2502][/us/stat/121/2502], as amended by [Pub. L. 111–5, div. B, title IV, § 4302(a)][/us/pl/111/5/s4302/a], Feb. 17, 2009, [123 Stat. 495][/us/stat/123/495]; [Pub. L. 111–148, title III, § 3106(a)][/us/pl/111/148/s3106/a], title X, § 10312(a), Mar. 23, 2010, [124 Stat. 418][/us/stat/124/418], 943, provided that:
 
->     “(1) __Delay in application of 25 percent patient threshold payment adjustment.—__ 
+>     “(1)  __Delay in application of 25 percent patient threshold payment adjustment__  __.—__ 
 
 >     The Secretary \[of Health and Human Services\] shall not apply, for cost reporting periods beginning on or after July 1, 2007, for a 5-year period—
 
@@ -6173,29 +6173,29 @@
 
 >     “(2) __Payment for hospitals-within-hospitals.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Payment to an applicable long-term care hospital or satellite facility which is located in a rural area or which is co-located with an urban single or MSA dominant hospital under paragraphs (d)(1), (e)(1), and (e)(4) of section 412.534 of title 42, Code of Federal Regulations, shall not be subject to any payment adjustment under such section if no more than 75 percent of the hospital’s Medicare discharges (other than discharges described in paragraph (d)(2) or (e)(3) of such section) are admitted from a co-located hospital.
 
 >         “(B) __Co-located long-term care hospitals and satellite facilities.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             Payment to an applicable long-term care hospital or satellite facility which is co-located with another hospital shall not be subject to any payment adjustment under section 412.534 of title 42, Code of Federal Regulations, if no more than 50 percent of the hospital’s Medicare discharges (other than discharges described in paragraph (c)(3) of such section) are admitted from a co-located hospital.
 
->             “(ii) __Applicable long-term care hospital or satellite facility defined.—__ 
+>             “(ii)  __Applicable long-term care hospital or satellite facility defined__  __.—__ 
 
 >             In this paragraph, the term ‘applicable long-term care hospital or satellite facility’ means a hospital or satellite facility that is subject to the transition rules under section 412.534(g) of title 42, Code of Federal Regulations or that is described in section 412.22(h)(3)(i) of such title.
 
->         “(C) __Effective date.—__ 
+>         “(C)  __Effective date__  __.—__ 
 
 >         Subparagraphs (A) and (B) shall apply to cost reporting periods beginning on or after October 1, 2007 (or July 1, 2007, in the case of a satellite facility described in section 412.22(h)(3)(i) of title 42, Code of Federal Regulations) for a 5-year period.
 
->     “(3) __No application of very short-stay outlier policy.—__ 
+>     “(3)  __No application of very short-stay outlier policy__  __.—__ 
 
 >     The Secretary shall not apply, for the 5-year period beginning on the date of the enactment of this Act, the amendments finalized on May 11, 2007 (72 Federal Register 26904, 26992) made to the short-stay outlier payment provision for long-term care hospitals contained in section 412.529(c)(3)(i) of title 42, Code of Federal Regulations, or any similar provision.
 
->     “(4) __No application of one-time adjustment to standard amount.—__ 
+>     “(4)  __No application of one-time adjustment to standard amount__  __.—__ 
 
 >     The Secretary shall not, for the 5-year period beginning on the date of the enactment of this Act, make the one-time prospective adjustment to long-term care hospital prospective payment rates provided for in section 412.523(d)(3) of title 42, Code of Federal Regulations, or any similar provision.”
 
@@ -6209,7 +6209,7 @@
 
 [Pub. L. 110–173, title I, § 114(d)][/us/pl/110/173/s114/d], Dec. 29, 2007, [121 Stat. 2503][/us/stat/121/2503], as amended by [Pub. L. 111–5, div. B, title IV, § 4302(b)][/us/pl/111/5/s4302/b], Feb. 17, 2009, [123 Stat. 496][/us/stat/123/496]; [Pub. L. 111–148, title III, § 3106(b)][/us/pl/111/148/s3106/b], title X, § 10312(b), Mar. 23, 2010, [124 Stat. 418][/us/stat/124/418], 943, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     During the 5-year period beginning on the date of the enactment of this Act \[Dec. 29, 2007\], the Secretary \[of Health and Human Services\] shall impose a moratorium for purposes of the Medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\]—
 
@@ -6217,7 +6217,7 @@
 
 >         “(B) subject to paragraph (3), on an increase of long-term care hospital beds in existing long-term care hospitals or satellite facilities.
 
->     “(2) __Exception for certain long-term care hospitals.—__ 
+>     “(2)  __Exception for certain long-term care hospitals__  __.—__ 
 
 >     The moratorium under paragraph (1)(A) shall not apply to a long-term care hospital that as of the date of the enactment of this Act—
 
@@ -6229,7 +6229,7 @@
 
 >     “(3) __Exception for bed increases during moratorium.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Subject to subparagraph (B), the moratorium under paragraph (1)(B) shall not apply to an increase in beds in an existing hospital or satellite facility if the hospital or facility obtained a certificate of need for an increase in beds that is in a State for which such certificate of need is required and that was issued on or after April 1, 2005, and before December 29, 2007, or if the hospital or facility—
 
@@ -6237,15 +6237,15 @@
 
 >             “(ii) requests an increase in beds following the closure or the decrease in the number of beds of another long-term care hospital in the State.
 
->         “(B) __No effect on certain limitation.—__ 
+>         “(B)  __No effect on certain limitation__  __.—__ 
 
 >         The exception under subparagraph (A) shall not effect the limitation on increasing beds under sections 412.22(h)(3) and 412.22(f) of title 42, Code of Federal Regulations.
 
->     “(4) __Existing hospital or satellite facility defined.—__ 
+>     “(4)  __Existing hospital or satellite facility defined__  __.—__ 
 
 >     For purposes of this subsection, the term ‘existing’ means, with respect to a hospital or satellite facility, a hospital or satellite facility that received payment under the provisions of subpart O of part 412 of title 42, Code of Federal Regulations, as of the date of the enactment of this Act.
 
->     “(5) __Judicial review.—__ 
+>     “(5)  __Judicial review__  __.—__ 
 
 >     There shall be no administrative or judicial review under section 1869 of the Social Security Act ([42 U.S.C. 1395ff][/us/usc/t42/s1395ff]), section 1878 of such Act ([42 U.S.C. 1395][/us/usc/t42/s1395]oo), or otherwise, of the application of this subsection by the Secretary.”
 
@@ -6255,11 +6255,11 @@
 
 [Pub. L. 110–173, title I, § 114(f)][/us/pl/110/173/s114/f], Dec. 29, 2007, [121 Stat. 2505][/us/stat/121/2505], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Health and Human Services shall provide, under contracts with one or more appropriate fiscal intermediaries or medicare administrative contractors under section 1874A(a)(4)(G) of the Social Security Act ([42 U.S.C. 1395kk–1(a)(4)(G)][/us/usc/t42/s1395kk–1/a/4/G]), for reviews of the medical necessity of admissions to long-term care hospitals (described in section 1886(d)(1)(B)(iv) of such Act \[[42 U.S.C. 1395ww(d)(1)(B)(iv)][/us/usc/t42/s1395ww/d/1/B/iv]\]) and continued stay at such hospitals, of individuals entitled to, or enrolled for, benefits under part A of title XVIII of such Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] consistent with this subsection. Such reviews shall be made for discharges occurring on or after October 1, 2007.
 
->     “(2) __Review methodology.—__ 
+>     “(2)  __Review methodology__  __.—__ 
 
 >     The medical necessity reviews under paragraph (1) shall be conducted on an annual basis in accordance with rules specified by the Secretary. Such reviews shall—
 
@@ -6267,21 +6267,21 @@
 
 >         “(B) guarantee that at least 75 percent of overpayments received by long-term care hospitals for medically unnecessary admissions and continued stays of individuals in long-term care hospitals will be identified and recovered and that related days of care will not be counted toward the length of stay requirement contained in section 1886(d)(1)(B)(iv) of the Social Security Act ([42 U.S.C. 1395ww(d)(1)(B)(iv)][/us/usc/t42/s1395ww/d/1/B/iv]).
 
->     “(3) __Continuation of reviews.—__ 
+>     “(3)  __Continuation of reviews__  __.—__ 
 
 >     Under contracts under this subsection, the Secretary shall establish an error rate with respect to such reviews that could require further review of the medical necessity of admissions and continued stay in the hospital involved and other actions as determined by the Secretary.
 
 >     “(4) __Termination of required reviews.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Subject to subparagraph (B), the previous provisions of this subsection shall cease to apply for discharges occurring on or after October 1, 2010.
 
->         “(B) __Continuation.—__ 
+>         “(B)  __Continuation__  __.—__ 
 
 >         As of the date specified in subparagraph (A), the Secretary shall determine whether to continue to guarantee, through continued medical review and sampling under this paragraph, recovery of at least 75 percent of overpayments received by long-term care hospitals due to medically unnecessary admissions and continued stays.
 
->     “(5) __Funding.—__ 
+>     “(5)  __Funding__  __.—__ 
 
 >     The costs to fiscal intermediaries or medicare administrative contractors conducting the medical necessity reviews under paragraph (1) shall be funded from the aggregate overpayments recouped by the Secretary of Health and Human Services from long-term care hospitals due to medically unnecessary admissions and continued stays. The Secretary may use an amount not in excess of 40 percent of the overpayments recouped under this paragraph to compensate the fiscal intermediaries or Medicare administrative contractors for the costs of services performed.”
 
@@ -6289,11 +6289,11 @@
 
 [Pub. L. 110–173, title I, § 117(a)(2)][/us/pl/110/173/s117/a/2], (3), Dec. 29, 2007, [121 Stat. 2507][/us/stat/121/2507], as amended by [Pub. L. 110–275, title I, § 124(b)][/us/pl/110/275/s124/b], July 15, 2008, [122 Stat. 2518][/us/stat/122/2518]; [Pub. L. 111–309, title I, § 102(b)][/us/pl/111/309/s102/b], Dec. 15, 2010, [124 Stat. 3287][/us/stat/124/3287], provided that:
 
->     “(2) __Special exception reclassifications.—__ 
+>     “(2)  __Special exception reclassifications__  __.—__ 
 
 >     The Secretary of Health and Human Services shall extend for discharges occurring through the last date of the extension of reclassifications under section 106(a) of the Medicare Improvement\[s\] and Extension Act of 2006 (division B of [Public Law 109–432][/us/pl/109/432]) \[set out below\], the special exception reclassifications made under the authority of section 1886(d)(5)(I)(i) of the Social Security Act ([42 U.S.C. 1395ww(d)(5)(I)(i)][/us/usc/t42/s1395ww/d/5/I/i]) and contained in the final rule promulgated by the Secretary in the Federal Register on August 11, 2004 (69 Fed. Reg. 49105, 49107).
 
->     “(3) __Use of particular wage index.—__ 
+>     “(3)  __Use of particular wage index__  __.—__ 
 
 >     For purposes of implementation of this subsection \[par. (1) of this subsection amended [section 106(a) of Pub. L. 109–432][/us/pl/109/432/s106/a], set out below\] in fiscal years 2008 and 2009, the Secretary shall use the hospital wage index that was promulgated by the Secretary in the Federal Register on October 10, 2007 (72 Fed. Reg. 57634), and any subsequent corrections.”
 
@@ -6341,11 +6341,11 @@
 
 [Pub. L. 109–171, title V, § 5001(b)][/us/pl/109/171/s5001/b], Feb. 8, 2006, [120 Stat. 29][/us/stat/120/29], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Health and Human Services shall develop a plan to implement a value based purchasing program for payments under the Medicare program for subsection (d) hospitals beginning with fiscal year 2009.
 
->     “(2) __Details.—__ 
+>     “(2)  __Details__  __.—__ 
 
 >     Such a plan shall include consideration of the following issues:
 
@@ -6363,15 +6363,15 @@
 
 [Pub. L. 109–171, title V, § 5005][/us/pl/109/171/s5005], Feb. 8, 2006, [120 Stat. 33][/us/stat/120/33], as amended by [Pub. L. 110–173, title I, § 115(b)(1)][/us/pl/110/173/s115/b/1], Dec. 29, 2007, [121 Stat. 2506][/us/stat/121/2506], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding section 412.23(b)(2) of title 42, Code of Federal Regulations, the Secretary of Health and Human Services shall require a compliance rate that is no greater than the 60 percent compliance rate that became effective for cost reporting periods beginning on or after July 1, 2006, in the classification criterion used under the IRF regulation (as defined in subsection (c)) to determine whether a hospital or unit of a hospital is an inpatient rehabilitation facility under the Medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].
 
->     “(b) __Continued Use of Comorbidities.—__ 
+>     “(b)  __Continued Use of Comorbidities__  __.—__ 
 
 >     For cost reporting periods beginning on or after July 1, 2007, the Secretary shall include patients with comorbidities as described in section 412.23(b)(2)(i) of title 42, Code of Federal Regulations (as in effect as of January 1, 2007), in the inpatient population that counts toward the percent specified in subsection (a).
 
->     “(c) __IRF Regulation.—__ 
+>     “(c) __IRF__  __Regulation__  __.—__ 
 
 >     For purposes of subsection (a), the term ‘IRF regulation’ means the rule published in the Federal Register on May 7, 2004, entitled ‘Medicare Program; Final Rule; Changes to the Criteria for Being Classified as an Inpatient Rehabilitation Facility’ (69 Fed. Reg. 25752).”
 
@@ -6385,19 +6385,19 @@
 
 [Pub. L. 109–171, title V, § 5007][/us/pl/109/171/s5007], Feb. 8, 2006, [120 Stat. 34][/us/stat/120/34], as amended by [Pub. L. 111–148, title III, § 3027][/us/pl/111/148/s3027], Mar. 23, 2010, [124 Stat. 415][/us/stat/124/415], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary shall establish under this section a qualified gainsharing demonstration program under which the Secretary shall approve demonstration projects by not later than November 1, 2006, to test and evaluate methodologies and arrangements between hospitals and physicians designed to govern the utilization of inpatient hospital resources and physician work to improve the quality and efficiency of care provided to Medicare beneficiaries and to develop improved operational and financial hospital performance with sharing of remuneration as specified in the project. Such projects shall be operational by not later than January 1, 2007.
 
->     “(b) __Requirements Described.—__ 
+>     “(b)  __Requirements Described__  __.—__ 
 
 >     A demonstration project under this section shall meet the following requirements for purposes of maintaining or improving quality while achieving cost savings:
 
->         “(1) __Arrangement for remuneration as share of savings.—__ 
+>         “(1)  __Arrangement for remuneration as share of savings__  __.—__ 
 
 >         The demonstration project shall involve an arrangement between a hospital and a physician under which the hospital provides remuneration to the physician that represents solely a share of the savings incurred directly as a result of collaborative efforts between the hospital and the physician.
 
->         “(2) __Written plan agreement.—__ 
+>         “(2)  __Written plan agreement__  __.—__ 
 
 >         The demonstration project shall be conducted pursuant to a written agreement that—
 
@@ -6405,25 +6405,25 @@
 
 >             “(B) includes a plan outlining how the project will achieve improvements in quality and efficiency.
 
->         “(3) __Patient notification.—__ 
+>         “(3)  __Patient notification__  __.—__ 
 
 >         The demonstration project shall include a notification process to inform patients who are treated in a hospital participating in the project of the participation of the hospital in such project.
 
->         “(4) __Monitoring quality and efficiency of care.—__ 
+>         “(4)  __Monitoring quality and efficiency of care__  __.—__ 
 
 >         The demonstration project shall provide measures to ensure that the quality and efficiency of care provided to patients who are treated in a hospital participating in the demonstration project is continuously monitored to ensure that such quality and efficiency is maintained or improved.
 
->         “(5) __Independent review.—__ 
+>         “(5)  __Independent review__  __.—__ 
 
 >         The demonstration project shall certify, prior to implementation, that the elements of the demonstration project are reviewed by an organization that is not affiliated with the hospital or the physician participating in the project.
 
->         “(6) __Referral limitations.—__ 
+>         “(6)  __Referral limitations__  __.—__ 
 
 >         The demonstration project shall not be structured in such a manner as to reward any physician participating in the project on the basis of the volume or value of referrals to the hospital by the physician.
 
 >     “(c) __Waiver of Certain Restrictions.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         An incentive payment made by a hospital to a physician under and in accordance with a demonstration project shall not constitute—
 
@@ -6433,73 +6433,73 @@
 
 >             “(C) a financial relationship for purposes of section 1877 of such Act ([42 U.S.C. 1395nn][/us/usc/t42/s1395nn]).
 
->         “(2) __Protection for existing arrangements.—__ 
+>         “(2)  __Protection for existing arrangements__  __.—__ 
 
 >         In no case shall the failure to comply with the requirements described in paragraph (1) affect a finding made by the Inspector General of the Department of Health and Human Services prior to the date of the enactment of this Act \[Feb. 8, 2006\] that an arrangement between a hospital and a physician does not violate paragraph (1) or (2) of section 1128A(a) of the Social Security Act ([42 U.S.C. 1320a–7(a)][/us/usc/t42/s1320a–7/a] \[[42 U.S.C. 1320a–7a(a)][/us/usc/t42/s1320a–7a/a]\]).
 
 >     “(d) __Program Administration.—__ 
 
->         “(1) __Solicitation of applications.—__ 
+>         “(1)  __Solicitation of applications__  __.—__ 
 
 >         By not later than 90 days after the date of the enactment of this Act \[Feb. 8, 2006\], the Secretary shall solicit applications for approval of a demonstration project, in such form and manner, and at such time specified by the Secretary.
 
->         “(2) __Number of projects approved.—__ 
+>         “(2)  __Number of projects approved__  __.—__ 
 
 >         The Secretary shall approve not more than 6 demonstration projects, at least 2 of which shall be located in a rural area.
 
->         “(3) __Duration.—__ 
+>         “(3)  __Duration__  __.—__ 
 
 >         The qualified gainsharing demonstration program under this section shall be conducted for the period beginning on January 1, 2007, and ending on December 31, 2009 (or September 30, 2011, in the case of a demonstration project in operation as of October 1, 2008).
 
 >     “(e) __Reports.—__ 
 
->         “(1) __Initial report.—__ 
+>         “(1)  __Initial report__  __.—__ 
 
 >         By not later than December 1, 2006, the Secretary shall submit to Congress a report on the number of demonstration projects that will be conducted under this section.
 
->         “(2) __Project update.—__ 
+>         “(2)  __Project update__  __.—__ 
 
 >         By not later than December 1, 2007, the Secretary shall submit to Congress a report on the details of such projects (including the project improvements towards quality and efficiency described in subsection (b)(2)(B)).
 
->         “(3) __Quality improvement and savings.—__ 
+>         “(3)  __Quality improvement and savings__  __.—__ 
 
 >         By not later than March 31, 2011, the Secretary shall submit to Congress a report on quality improvement and savings achieved as a result of the qualified gainsharing demonstration program established under subsection (a).
 
->         “(4) __Final report.—__ 
+>         “(4)  __Final report__  __.—__ 
 
 >         By not later than March 31, 2013, the Secretary shall submit to Congress a final report on the information described in paragraph (3).
 
 >     “(f) __Funding.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Out of any funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary for fiscal year 2006 $6,000,000, and for fiscal year 2010, $1,600,000, to carry out this section.
 
->         “(2) __Availability.—__ 
+>         “(2)  __Availability__  __.—__ 
 
 >         Funds appropriated under paragraph (1) shall remain available for expenditure through fiscal year 2014 or until expended.
 
->     “(g) __Definitions.—__ 
+>     “(g)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
->         “(1) __Demonstration project.—__ 
+>         “(1)  __Demonstration project__  __.—__ 
 
 >         The term ‘demonstration project’ means a project implemented under the qualified gainsharing demonstration program established under subsection (a).
 
->         “(2) __Hospital.—__ 
+>         “(2)  __Hospital__  __.—__ 
 
 >         The term ‘hospital’ means a hospital that receives payment under section 1886(d) of the Social Security Act ([42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]), and does not include a critical access hospital (as defined in section 1861(mm) of such Act ([42 U.S.C. 1395x(mm)][/us/usc/t42/s1395x/mm])).
 
->         “(3) __Medicare.—__ 
+>         “(3)  __Medicare__  __.—__ 
 
 >         The term ‘Medicare’ means the programs under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].
 
->         “(4) __Physician.—__ 
+>         “(4)  __Physician__  __.—__ 
 
 >         The term ‘physician’ means, with respect to a demonstration project, a physician described in paragraph (1) or (3) of section 1861(r) of the Social Security Act ([42 U.S.C. 1395x(r)][/us/usc/t42/s1395x/r]) who is licensed as such a physician in the area in which the project is located and meets requirements to provide services for which benefits are provided under Medicare. Such term shall be deemed to include a practitioner described in section 1842(e)(18)(C) of such Act ([42 U.S.C. 1395u(e)(18)(C)][/us/usc/t42/s1395u/e/18/C]).
 
->         “(5) __Secretary.—__ 
+>         “(5)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of Health and Human Services.”
 
@@ -6507,11 +6507,11 @@
 
 [Pub. L. 108–173, title IV, § 404][/us/pl/108/173/s404], Dec. 8, 2003, [117 Stat. 2266][/us/stat/117/2266], provided that:
 
->     “(a) __More Frequent Updates in Weights.—__ 
+>     “(a)  __More Frequent Updates in Weights__  __.—__ 
 
 >     After revising the weights used in the hospital market basket under section 1886(b)(3)(B)(iii) of the Social Security Act ([42 U.S.C. 1395ww(b)(3)(B)(iii)][/us/usc/t42/s1395ww/b/3/B/iii]) to reflect the most current data available, the Secretary \[of Health and Human Services\] shall establish a frequency for revising such weights, including the labor share, in such market basket to reflect the most current data available more frequently than once every 5 years.
 
->     “(b) __Incorporation of Explanation in Rulemaking.—__ 
+>     “(b)  __Incorporation of Explanation in Rulemaking__  __.—__ 
 
 >     The Secretary shall include in the publication of the final rule for payment for inpatient hospital services under section 1886(d) of the Social Security Act ([42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]) for fiscal year 2006, an explanation of the reasons for, and options considered, in determining frequency established under subsection (a).”
 
@@ -6521,33 +6521,33 @@
 
 >     “(a) __Establishment of Rural Community Hospital (RCH) Demonstration Program.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary \[of Health and Human Services\] shall establish a demonstration program to test the feasibility and advisability of the establishment of rural community hospitals (as defined in subsection (f)(1)) to furnish covered inpatient hospital services (as defined in subsection (f)(2)) to medicare beneficiaries.
 
->         “(2) __Demonstration areas.—__ 
+>         “(2)  __Demonstration areas__  __.—__ 
 
 >         The program shall be conducted in rural areas selected by the Secretary in States with low population densities, as determined by the Secretary.
 
->         “(3) __Application.—__ 
+>         “(3)  __Application__  __.—__ 
 
 >         Each rural community hospital that is located in a demonstration area selected under paragraph (2) that desires to participate in the demonstration program under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
->         “(4) __Selection of hospitals.—__ 
+>         “(4)  __Selection of hospitals__  __.—__ 
 
 >         The Secretary shall select from among rural community hospitals submitting applications under paragraph (3) not more than 15 of such hospitals to participate in the demonstration program under this section.
 
->         “(5) __Duration.—__ 
+>         “(5)  __Duration__  __.—__ 
 
 >         The Secretary shall conduct the demonstration program under this section for a 5-year period (in this section referred to as the ‘initial 5-year period’) and, as provided in subsection (g), for the 5-year extension period.
 
->         “(6) __Implementation.—__ 
+>         “(6)  __Implementation__  __.—__ 
 
 >         The Secretary shall implement the demonstration program not later than January 1, 2005, but may not implement the program before October 1, 2004.
 
 >     “(b) __Payment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The amount of payment under the demonstration program for covered inpatient hospital services furnished in a rural community hospital, other than such services furnished in a psychiatric or rehabilitation unit of the hospital which is a distinct part, is—
 
@@ -6561,7 +6561,7 @@
 
 >                 “(ii) the target amount (as defined in paragraph (2)), applicable to the cost reporting period involved.
 
->         “(2) __Target amount.—__ 
+>         “(2)  __Target amount__  __.—__ 
 
 >         For purposes of paragraph (1)(B)(ii), the term ‘target amount’ means, with respect to a rural community hospital for a particular 12-month cost reporting period—
 
@@ -6573,29 +6573,29 @@
 
 >     “(c) __Funding.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall provide for the transfer from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act ([42 U.S.C. 1395i][/us/usc/t42/s1395i]) of such funds as are necessary for the costs of carrying out the demonstration program under this section.
 
->         “(2) __Budget neutrality.—__ 
+>         “(2)  __Budget neutrality__  __.—__ 
 
 >         In conducting the demonstration program under this section, the Secretary shall ensure that the aggregate payments made by the Secretary do not exceed the amount which the Secretary would have paid if the demonstration program under this section was not implemented.
 
->     “(d) __Waiver Authority.—__ 
+>     “(d)  __Waiver Authority__  __.—__ 
 
 >     The Secretary may waive such requirements of title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.) as may be necessary for the purpose of carrying out the demonstration program under this section.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     Not later than 6 months after the completion of the demonstration program under this section, the Secretary shall submit to Congress a report on such program, together with recommendations for such legislation and administrative action as the Secretary determines to be appropriate.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     In this section:
 
 >         “(1) __Rural community hospital defined.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The term ‘rural community hospital’ means a hospital (as defined in section 1861(e) of the Social Security Act ([42 U.S.C. 1395x(e)][/us/usc/t42/s1395x/e])) that—
 
@@ -6607,11 +6607,11 @@
 
 >                 “(iv) is not eligible for designation, or has not been designated, as a critical access hospital under section 1820 \[probably means section 1820 of the Social Security Act, [42 U.S.C. 1395i–4][/us/usc/t42/s1395i–4]\].
 
->             “(B) __Treatment of psychiatric and rehabilitation units.—__ 
+>             “(B)  __Treatment of psychiatric and rehabilitation units__  __.—__ 
 
 >             For purposes of subparagraph (A)(ii), beds in a psychiatric or rehabilitation unit of the hospital which is a distinct part of the hospital shall not be counted.
 
->         “(2) __Covered inpatient hospital services.—__ 
+>         “(2)  __Covered inpatient hospital services__  __.—__ 
 
 >         The term ‘covered inpatient hospital services’ means inpatient hospital services, and includes extended care services furnished under an agreement under section 1883 of the Social Security Act ([42 U.S.C. 1395tt][/us/usc/t42/s1395tt]).”
 
@@ -6649,17 +6649,17 @@
 
 [Pub. L. 108–173, title IV, § 433][/us/pl/108/173/s433], Dec. 8, 2003, [117 Stat. 2288][/us/stat/117/2288], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Medicare Payment Advisory Commission shall conduct a study of the impact of sections 401 through 406, 411, 416, and 505 \[amending this section and sections 1395f, 1395g, 1395i–4, 1395l, 1395m, 1395cc, and 1395tt of this title and enacting provisions set out as notes under this section and sections 1395f, 1395g, 1395i–4, 1395l, and 1395m of this title\]. The Commission shall analyze the effect on total payments, growth in costs, capital spending, and such other payment effects under those sections.
 
 >     “(b) __Reports.—__ 
 
->         “(1) __Interim report.—__ 
+>         “(1)  __Interim report__  __.—__ 
 
 >         Not later than 18 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Commission shall submit to Congress an interim report on the matters studied under subsection (a) with respect only to changes to the critical access hospital provisions under section 405 \[amending sections 1395f, 1395g, 1395i–4, 1395m, and 1395tt of this title and enacting provisions set out as notes under sections 1395f, 1395g, 1395i–4, and 1395m of this title\].
 
->         “(2) __Final report.—__ 
+>         “(2)  __Final report__  __.—__ 
 
 >         Not later than 3 years after the date of the enactment of this Act \[Dec. 8, 2003\], the Commission shall submit to Congress a final report on all matters studied under subsection (a).”
 
@@ -6667,7 +6667,7 @@
 
 [Pub. L. 108–173, title V, § 501(c)][/us/pl/108/173/s501/c], Dec. 8, 2003, [117 Stat. 2290][/us/stat/117/2290], provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Comptroller General of the United States, using the most current data available, shall conduct a study to determine—
 
@@ -6675,7 +6675,7 @@
 
 >         “(B) whether there is a need to adjust such payments under such system to reflect legitimate differences in costs across different geographic areas, kinds of hospitals, and types of cases.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 24 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Comptroller General of the United States shall submit to Congress a report on the study conducted under paragraph (1) together with such recommendations for legislative and administrative action as the Comptroller General determines appropriate.”
 
@@ -6691,11 +6691,11 @@
 
 >     “(a) __Establishment of Process.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary \[of Health and Human Services\] shall establish not later than January 1, 2004, by instruction or otherwise a process under which a hospital may appeal the wage index classification otherwise applicable to the hospital and select another area within the State (or, at the discretion of the Secretary, within a contiguous State) to which to be reclassified.
 
->         “(2) __Process requirements.—__ 
+>         “(2)  __Process requirements__  __.—__ 
 
 >         The process established under paragraph (1) shall be consistent with the following:
 
@@ -6705,19 +6705,19 @@
 
 >             “(C) There shall be no further administrative or judicial review of a decision of such Board.
 
->         “(3) __Reclassification upon successful appeal.—__ 
+>         “(3)  __Reclassification upon successful appeal__  __.—__ 
 
 >         If the Medicare Geographic Reclassification Review Board determines that the hospital is a qualifying hospital (as defined in subsection (c)), the hospital shall be reclassified to the area selected under paragraph (1). Such reclassification shall apply with respect to discharges occurring during the 3-year period beginning with April 1, 2004.
 
->         “(4) __Inapplicability of certain provisions.—__ 
+>         “(4)  __Inapplicability of certain provisions__  __.—__ 
 
 >         Except as the Secretary may provide, the provisions of paragraphs (8) and (10) of section 1886(d) of the Social Security Act ([42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]) shall not apply to an appeal under this section.
 
->     “(b) __Application of Reclassification.—__ 
+>     “(b)  __Application of Reclassification__  __.—__ 
 
 >     In the case of an appeal decided in favor of a qualifying hospital under subsection (a), the wage index reclassification shall not affect the wage index computation for any area or for any other hospital and shall not be effected in a budget neutral manner. The provisions of this section shall not affect payment for discharges occurring after the end of the 3-year-period referred to in subsection (a).
 
->     “(c) __Qualifying Hospital Defined.—__ 
+>     “(c)  __Qualifying Hospital Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘qualifying hospital’ means a subsection (d) hospital (as defined in section 1886(d)(1)(B) of the Social Security Act, [42 U.S.C. 1395ww(d)(1)(B)][/us/usc/t42/s1395ww/d/1/B]) that—
 
@@ -6727,19 +6727,19 @@
 
 >         The Secretary may modify the wage comparison guidelines promulgated under section 1886(d)(10)(D) of such Act ([42 U.S.C. 1395ww(d)(10)(D)][/us/usc/t42/s1395ww/d/10/D]) in carrying out this section.
 
->     “(d) __Wage Index Classification.—__ 
+>     “(d)  __Wage Index Classification__  __.—__ 
 
 >     For purposes of this section, the term ‘wage index classification’ means the geographic area in which it is classified for purposes of determining for a fiscal year the factor used to adjust the DRG prospective payment rate under section 1886(d) of the Social Security Act ([42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]) for area differences in hospital wage levels that applies to such hospital under paragraph (3)(E) of such section.
 
->     “(e) __Limitation on Expenditures.—__ 
+>     “(e)  __Limitation on Expenditures__  __.—__ 
 
 >     The aggregate amount of additional expenditures resulting from the application of this section shall not exceed $900,000,000.
 
->     “(f) __Transitional Extension.—__ 
+>     “(f)  __Transitional Extension__  __.—__ 
 
 >     Any reclassification of a county or other area made by Act of Congress for purposes of making payments under section 1886(d) of the Social Security Act ([42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]) that expired on September 30, 2003, shall be deemed to be in effect during the period beginning on January 1, 2004, and ending on September 30, 2004.
 
->     “(g) __Disregarding Hospital Reclassifications for Purposes of Group Reclassifications.—__ 
+>     “(g)  __Disregarding Hospital Reclassifications for Purposes of Group Reclassifications__  __.—__ 
 
 >     For purposes of the reclassification of a group of hospitals in a geographic area under section 1886(d) of the Social Security Act \[[42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]\] for purposes of discharges occurring beginning on October 1, 2007, and ending on the last date of the extension of reclassifications under section 106(a) of the Medicare Improvement\[s\] and Extension Act of 2006 (division B of [Public Law 109–432][/us/pl/109/432]) \[set out above\], a hospital reclassified under this section (including any such reclassification which is extended under section 106(a) of the Medicare Improvements and Extension Act of 2006) \[div. B of [Pub. L. 109–432][/us/pl/109/432], set out as a note under this section\] shall not be taken into account and shall not prevent the other hospitals in such area from continuing such a group for such purpose.”
 
@@ -6747,11 +6747,11 @@
 
 [Pub. L. 108–173, title VII, § 712][/us/pl/108/173/s712], Dec. 8, 2003, [117 Stat. 2340][/us/stat/117/2340], provided that:
 
->     “(a) __Clarification of Congressional Intent.—__ 
+>     “(a)  __Clarification of Congressional Intent__  __.—__ 
 
 >     Congress intended section 1886(h)(5)(F)(ii) of the Social Security Act ([42 U.S.C. 1395ww(h)(5)(F)(ii)][/us/usc/t42/s1395ww/h/5/F/ii]), as added by section 9202 of the Consolidated Omnibus Budget Reconciliation Act of 1985 ([Public Law 99–272][/us/pl/99/272]), to provide an exception to the initial residency period for geriatric residency or fellowship programs such that, where a particular approved geriatric training program requires a resident to complete 2 years of training to initially become board eligible in the geriatric specialty, the 2 years spent in the geriatric training program are treated as part of the resident’s initial residency period, but are not counted against any limitation on the initial residency period.
 
->     “(b) __Interim Final Regulatory Authority and Effective Date.—__ 
+>     “(b)  __Interim Final Regulatory Authority and Effective Date__  __.—__ 
 
 >     The Secretary \[of Health and Human Services\] shall promulgate interim final regulations consistent with the congressional intent expressed in this section after notice and pending opportunity for public comment to be effective for cost reporting periods beginning on or after October 1, 2003.”
 
@@ -6759,17 +6759,17 @@
 
 [Pub. L. 108–173, title VII, § 713][/us/pl/108/173/s713], Dec. 8, 2003, [117 Stat. 2340][/us/stat/117/2340], provided that:
 
->     “(a) __Moratorium on Changes in Treatment.—__ 
+>     “(a)  __Moratorium on Changes in Treatment__  __.—__ 
 
 >     During the 1-year period beginning on January 1, 2004, for purposes of applying subsections (d)(5)(B) and (h) of section 1886 of the Social Security Act ([42 U.S.C. 1395ww][/us/usc/t42/s1395ww]), the Secretary \[of Health and Human Services\] shall allow all hospitals to count residents in osteopathic and allopathic family practice programs in existence as of January 1, 2002, who are training at non-hospital sites, without regard to the financial arrangement between the hospital and the teaching physician practicing in the non-hospital site to which the resident has been assigned.
 
 >     “(b) __Study and Report.—__ 
 
->         “(1) __Study.—__ 
+>         “(1)  __Study__  __.—__ 
 
 >         The Inspector General of the Department of Health and Human Services shall conduct a study of the appropriateness of alternative payment methodologies under such sections for the costs of training residents in non-hospital settings.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\], the Inspector General shall submit to Congress a report on the study conducted under paragraph (1), together with such recommendations as the Inspector General determines appropriate.”
 
@@ -6809,7 +6809,7 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title V, § 547(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–553, provided that:
 
->     “(a) __Inpatient Hospital Services.—__ 
+>     “(a)  __Inpatient Hospital Services__  __.—__ 
 
 >     The payment increase provided under the following sections shall not apply to discharges occurring after fiscal year 2001 and shall not be taken into account in calculating the payment amounts applicable for discharges occurring after such fiscal year:
 
@@ -6829,7 +6829,7 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title III, § 301(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–491, provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Medicare Payment Advisory Commission shall conduct a study on—
 
@@ -6847,7 +6847,7 @@
 
 >         “(D) the feasibility and advisability of establishing mechanisms under such payment system to provide for more timely and accurate recognition of such cost increases in the future.
 
->     “(2) __Consultation.—__ 
+>     “(2)  __Consultation__  __.—__ 
 
 >     In conducting the study under this subsection, the Commission shall consult with representatives of the blood community, including—
 
@@ -6857,7 +6857,7 @@
 
 >         “(C) organizations involved in the development of new blood safety technologies.
 
->     “(3) __Report.—__ 
+>     “(3)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Dec. 21, 2000\], the Commission shall submit to Congress a report on the study conducted under paragraph (1) together with such recommendations for legislation and administrative action as the Commission determines appropriate.”
 
@@ -6865,11 +6865,11 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title III, § 304(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–494, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Health and Human Services shall establish a process (based on the voluntary process utilized by the Secretary of Health and Human Services under section 1848 of the Social Security Act ([42 U.S.C. 1395w–4][/us/usc/t42/s1395w–4]) for purposes of computing and applying a statewide geographic adjustment factor) under which an appropriate statewide entity may apply to have all the geographic areas in a State treated as a single geographic area for purposes of computing and applying the area wage index under section 1886(d)(3)(E) of such Act ([42 U.S.C. 1395ww(d)(3)(E)][/us/usc/t42/s1395ww/d/3/E]). Such process shall be established by October 1, 2001, for reclassifications beginning in fiscal year 2003.
 
->     “(2) __Prohibition on individual hospital reclassification.—__ 
+>     “(2)  __Prohibition on individual hospital reclassification__  __.—__ 
 
 >     Notwithstanding any other provision of law, if the Secretary applies a statewide geographic wage index under paragraph (1) with respect to a State, any application submitted by a hospital in that State under section 1886(d)(10) of the Social Security Act ([42 U.S.C. 1395ww(d)(10)][/us/usc/t42/s1395ww/d/10]) for geographic reclassification shall not be considered.”
 
@@ -6897,11 +6897,11 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title V, § 533(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–548, provided that:
 
->     “(1) __Report.—__ 
+>     “(1)  __Report__  __.—__ 
 
 >     Not later than April 1, 2001, the Secretary of Health and Human Services shall submit to Congress a report on methods of expeditiously incorporating new medical services and technologies into the clinical coding system used with respect to payment for inpatient hospital services furnished under the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], together with a detailed description of the Secretary’s preferred methods to achieve this purpose.
 
->     “(2) __Implementation.—__ 
+>     “(2)  __Implementation__  __.—__ 
 
 >     Not later than October 1, 2001, the Secretary shall implement the preferred methods described in the report transmitted pursuant to paragraph (1).”
 
@@ -6915,11 +6915,11 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title I, § 111(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–329, provided that:
 
->     “(1) __Additional payment.—__ 
+>     “(1)  __Additional payment__  __.—__ 
 
 >     In addition to payments made to each subsection (d) hospital (as defined in section 1886(d)(1)(B) of the Social Security Act ([42 U.S.C. 1395ww(d)(1)(B)][/us/usc/t42/s1395ww/d/1/B]) under section 1886(d)(5)(B) of such Act ([42 U.S.C. 1395ww(d)(5)(B)][/us/usc/t42/s1395ww/d/5/B])) which receives payment for the direct costs of medical education for discharges occurring in fiscal year 2000, the Secretary of Health and Human Services shall make one or more payments to each such hospital in an amount which, as estimated by the Secretary, is equal in the aggregate to the difference between the amount of payments to the hospital under such section for such discharges and the amount of payments that would have been paid under such section for such discharges if ‘c’ in clause (ii)(IV) of such section equalled 1.6 rather than 1.47. Additional payments made under this subsection shall be made applying the same structure as applies to payments made under section 1886(d)(5)(B) of such Act.
 
->     “(2) __No effect on other payments or determinations.—__ 
+>     “(2)  __No effect on other payments or determinations__  __.—__ 
 
 >     In making such additional payments, the Secretary shall not change payments, determinations, or budget neutrality adjustments made for such period under section 1886(d) of such Act ([42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]).”
 
@@ -6927,11 +6927,11 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title I, § 112(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–330, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Health and Human Services shall require any subsection (d) hospital (as defined in section 1886(d)(1)(B) of the Social Security Act ([42 U.S.C. 1395ww(d)(1)(B)][/us/usc/t42/s1395ww/d/1/B])) to submit to the Secretary, in the cost reports submitted to the Secretary by such hospital for discharges occurring during a fiscal year, data on the costs incurred by the hospital for providing inpatient and outpatient hospital services for which the hospital is not compensated, including non-medicare bad debt, charity care, and charges for medicaid and indigent care.
 
->     “(2) __Effective date.—__ 
+>     “(2)  __Effective date__  __.—__ 
 
 >     The Secretary shall require the submission of the data described in paragraph (1) in cost reports for cost reporting periods beginning on or after October 1, 2001.”
 
@@ -6943,11 +6943,11 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title III, § 307(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–496, provided that:
 
->     “(1) __Modification of requirement.—__ 
+>     “(1)  __Modification of requirement__  __.—__ 
 
 >     In developing the prospective payment system for payment for inpatient hospital services provided in long-term care hospitals described in section 1886(d)(1)(B)(iv) of the Social Security Act ([42 U.S.C. 1395ww(d)(1)(B)(iv)][/us/usc/t42/s1395ww/d/1/B/iv]) under the medicare program under title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] required under section 123 of BBRA \[[Pub. L. 106–113, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title I, § 123\], set out as a note below\], the Secretary of Health and Human Services shall examine the feasibility and the impact of basing payment under such a system on the use of existing (or refined) hospital diagnosis-related groups (DRGs) that have been modified to account for different resource use of long-term care hospital patients as well as the use of the most recently available hospital discharge data. The Secretary shall examine and may provide for appropriate adjustments to the long-term hospital payment system, including adjustments to DRG weights, area wage adjustments, geographic reclassification, outliers, updates, and a disproportionate share adjustment consistent with section 1886(d)(5)(F) of the Social Security Act ([42 U.S.C. 1395ww(d)(5)(F)][/us/usc/t42/s1395ww/d/5/F]).
 
->     “(2) __Default implementation of system based on existing drg methodology.—__ 
+>     “(2)  __Default implementation of system based on existing drg methodology__  __.—__ 
 
 >     If the Secretary is unable to implement the prospective payment system under section 123 of the BBRA by October 1, 2002, the Secretary shall implement a prospective payment system for such hospitals that bases payment under such a system using existing hospital diagnosis-related groups (DRGs), modified where feasible to account for resource use of long-term care hospital patients using the most recently available hospital discharge data for such services furnished on or after that date.”
 
@@ -6955,19 +6955,19 @@
 
 >     “(a) __Development of System.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Health and Human Services shall develop a per discharge prospective payment system for payment for inpatient hospital services of long-term care hospitals described in section 1886(d)(1)(B)(iv) of the Social Security Act ([42 U.S.C. 1395ww(d)(1)(B)(iv)][/us/usc/t42/s1395ww/d/1/B/iv]) under the medicare program. Such system shall include an adequate patient classification system that is based on diagnosis-related groups (DRGs) and that reflects the differences in patient resource use and costs, and shall maintain budget neutrality.
 
->         “(2) __Collection of data and evaluation.—__ 
+>         “(2)  __Collection of data and evaluation__  __.—__ 
 
 >         In developing the system described in paragraph (1), the Secretary may require such long-term care hospitals to submit such information to the Secretary as the Secretary may require to develop the system.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than October 1, 2001, the Secretary shall submit to the appropriate committees of Congress a report that includes a description of the system developed under subsection (a)(1).
 
->     “(c) __Implementation of Prospective Payment System.—__ 
+>     “(c)  __Implementation of Prospective Payment System__  __.—__ 
 
 >     Notwithstanding section 1886(b)(3) of the Social Security Act ([42 U.S.C. 1395ww(b)(3)][/us/usc/t42/s1395ww/b/3]), the Secretary shall provide, for cost reporting periods beginning on or after October 1, 2002, for payments for inpatient hospital services furnished by long-term care hospitals under title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.) in accordance with the system described in subsection (a).”
 
@@ -6977,23 +6977,23 @@
 
 >     “(a) __Development of System.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Health and Human Services shall develop a per diem prospective payment system for payment for inpatient hospital services of psychiatric hospitals and units (as defined in paragraph (3)) under the medicare program. Such system shall include an adequate patient classification system that reflects the differences in patient resource use and costs among such hospitals and shall maintain budget neutrality.
 
->         “(2) __Collection of data and evaluation.—__ 
+>         “(2)  __Collection of data and evaluation__  __.—__ 
 
 >         In developing the system described in paragraph (1), the Secretary may require such psychiatric hospitals and units to submit such information to the Secretary as the Secretary may require to develop the system.
 
->         “(3) __Definition.—__ 
+>         “(3)  __Definition__  __.—__ 
 
 >         In this section, the term ‘psychiatric hospitals and units’ means a psychiatric hospital described in clause (i) of section 1886(d)(1)(B) of the Social Security Act ([42 U.S.C. 1395ww(d)(1)(B)][/us/usc/t42/s1395ww/d/1/B]) and psychiatric units described in the matter following clause (v) of such section.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than October 1, 2001, the Secretary shall submit to the appropriate committees of Congress a report that includes a description of the system developed under subsection (a)(1).
 
->     “(c) __Implementation of Prospective Payment System.—__ 
+>     “(c)  __Implementation of Prospective Payment System__  __.—__ 
 
 >     Notwithstanding section 1886(b)(3) of the Social Security Act ([42 U.S.C. 1395ww(b)(3)][/us/usc/t42/s1395ww/b/3]), the Secretary shall provide, for cost reporting periods beginning on or after October 1, 2002, for payments for inpatient hospital services furnished by psychiatric hospitals and units under title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.) in accordance with the prospective payment system established by the Secretary under this section in a budget neutral manner.”
 
@@ -7001,11 +7001,11 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title I, § 125(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–333, provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Secretary of Health and Human Services shall conduct a study of the impact on utilization and beneficiary access to services of the implementation of the medicare prospective payment system for inpatient hospital services or rehabilitation facilities under section 1886(j) of the Social Security Act ([42 U.S.C. 1395ww(j)][/us/usc/t42/s1395ww/j]).
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 3 years after the date such system is first implemented, the Secretary shall submit to Congress a report on such study.”
 
@@ -7013,11 +7013,11 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title I, § 141\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–334, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Medicare Payment Advisory Commission shall conduct a study of medicare payment policy with respect to professional clinical training of different classes of nonphysician health care professionals (such as nurses, nurse practitioners, allied health professionals, physician assistants, and psychologists) and the basis for any differences in treatment among such classes.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 18 months after the date of the enactment of this Act \[Nov. 29, 1999\], the Commission shall submit a report to Congress on the study conducted under subsection (a).”
 
@@ -7025,11 +7025,11 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title IV, § 407(d)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–374, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Any applicable resident described in paragraph (2) shall not be taken into account in applying any limitation regarding the number of residents or interns for which payment may be made under section 1886 of the Social Security Act ([42 U.S.C. 1395ww][/us/usc/t42/s1395ww]).
 
->     “(2) __Applicable resident described.—__ 
+>     “(2)  __Applicable resident described__  __.—__ 
 
 >     An applicable resident described in this paragraph is a resident or intern who—
 
@@ -7041,11 +7041,11 @@
 
 >     “(3) __Effective date.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Paragraph (1) applies as if included in the enactment of BBA \[the Balanced Budget Act of 1997, [Pub. L. 105–33][/us/pl/105/33]\].
 
->         “(B) __Retroactive payments.—__ 
+>         “(B)  __Retroactive payments__  __.—__ 
 
 >         If the Secretary of Health and Human Services determines that a hospital operating an approved medical residency program is owed payments as a result of enactment of this subsection, the Secretary shall make such payments not later than 60 days after the date of the enactment of this Act \[Nov. 29, 1999\].”
 
@@ -7053,7 +7053,7 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title IV, § 410\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–376, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct a study of the current laws and regulations for geographic reclassification of hospitals to determine whether such reclassification is appropriate for purposes of applying wage indices under the medicare program and whether such reclassification results in more accurate payments for all hospitals. Such study shall examine data on the number of hospitals that are reclassified and their reclassified status in determining payments under the medicare program. The study shall evaluate—
 
@@ -7071,7 +7071,7 @@
 
 >         “(7) whether there are sufficient controls over the intermediary evaluation of the wage data reported by hospitals.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 18 months after the date of the enactment of this Act \[Nov. 29, 1999\], the Comptroller General of the United States shall submit to Congress a report on the study conducted under subsection (a).”
 
@@ -7079,11 +7079,11 @@
 
 [Pub. L. 105–33, title IV, § 4202(b)][/us/pl/105/33/s4202/b], Aug. 5, 1997, [111 Stat. 375][/us/stat/111/375], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Any hospital classified as a rural referral center by the Secretary of Health and Human Services under section 1886(d)(5)(C) of the Social Security Act \[[42 U.S.C. 1395ww(d)(5)(C)][/us/usc/t42/s1395ww/d/5/C]\] for fiscal year 1991 shall be classified as such a rural referral center for fiscal year 1998 and each subsequent fiscal year.
 
->     “(2) __Budget neutrality.—__ 
+>     “(2)  __Budget neutrality__  __.—__ 
 
 >     The provisions of section 1886(d)(8)(D) of the Social Security Act \[[42 U.S.C. 1395ww(d)(8)(D)][/us/usc/t42/s1395ww/d/8/D]\] shall apply to reclassifications made pursuant to paragraph (1) in the same manner as such provisions apply to a reclassification under section 1886(d)(10) of such Act \[[42 U.S.C. 1395ww(d)(10)][/us/usc/t42/s1395ww/d/10]\].”
 
@@ -7091,15 +7091,15 @@
 
 [Pub. L. 105–33, title IV, § 4203][/us/pl/105/33/s4203], Aug. 5, 1997, [111 Stat. 375][/us/stat/111/375], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For the period described in subsection (c), the Medicare Geographic Classification Review Board shall consider the application under section 1886(d)(10)(C)(i) of the Social Security Act ([42 U.S.C. 1395ww(d)(10)(C)(i)][/us/usc/t42/s1395ww/d/10/C/i]) of a hospital described in 1886(d)(1)(B) of such Act ([42 U.S.C. 1395ww(d)(1)(B)][/us/usc/t42/s1395ww/d/1/B]) to change the hospital’s geographic classification for purposes of determining for a fiscal year eligibility for and amount of additional payment amounts under section 1886(d)(5)(F) of such Act ([42 U.S.C. 1395ww(d)(5)(F)][/us/usc/t42/s1395ww/d/5/F]).
 
->     “(b) __Applicable Guidelines.—__ 
+>     “(b)  __Applicable Guidelines__  __.—__ 
 
 >     The Medicare Geographic Classification Review Board shall apply the guidelines established for reclassification under subclause (I) of section 1886(d)(10)(C)(i) of such Act to reclassification by reason of subsection (a) until the Secretary of Health and Human Services promulgates separate guidelines for such reclassification.
 
->     “(c) __Period Described.—__ 
+>     “(c)  __Period Described__  __.—__ 
 
 >     The period described in this subsection is the period beginning on the date of the enactment of this Act \[Aug. 5, 1997\] and ending 30 months after such date.”
 
@@ -7107,7 +7107,7 @@
 
 [Pub. L. 105–33, title IV, § 4401(b)][/us/pl/105/33/s4401/b], Aug. 5, 1997, [111 Stat. 397][/us/stat/111/397], as amended by [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title III, § 321(d)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–366, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     In the case of a hospital described in paragraph (2) for its cost reporting period—
 
@@ -7117,7 +7117,7 @@
 
 >         Subparagraph (A) shall not apply in computing the increase under subparagraph (B) and neither subparagraph shall affect payment for discharges for any hospital occurring during a fiscal year after fiscal year 1999. Payment increases under this subsection for discharges occurring during a fiscal year are subject to settlement after the close of the fiscal year.
 
->     “(2) __Hospitals covered.—__ 
+>     “(2)  __Hospitals covered__  __.—__ 
 
 >     A hospital described in this paragraph for a cost reporting period is a hospital—
 
@@ -7127,7 +7127,7 @@
 
 >         “(C) with respect to which the payments under section 1886(d) of such Act ([42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]) for discharges occurring in the cost reporting period involved, as estimated by the Secretary, is less than the allowable operating costs of inpatient hospital services (as defined in section 1886(a)(4) of such Act ([42 U.S.C. 1395ww(a)(4)][/us/usc/t42/s1395ww/a/4])\[)\] for such hospital for such period, as estimated by the Secretary.
 
->     “(3) __Non-teaching, non-DSH hospitals described.—__ 
+>     “(3)  __Non-teaching, non-DSH hospitals described__  __.—__ 
 
 >     A hospital described in this paragraph for a cost reporting period is a subsection (d) hospital (as defined in section 1886(d)(1)(B) of such Act ([42 U.S.C. 1395ww(d)(1)(B)][/us/usc/t42/s1395ww/d/1/B])) that—
 
@@ -7143,11 +7143,11 @@
 
 >     “(b) __Report on New Payment Formula.—__ 
 
->         “(1) __Report.—__ 
+>         “(1)  __Report__  __.—__ 
 
 >         Not later than 1 year after the date of the enactment of this Act \[Aug. 5, 1997\], the Secretary of Health and Human Services shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report that contains a formula for determining additional payment amounts to hospitals under section 1886(d)(5)(F) of the Social Security Act ([42 U.S.C. 1395ww(d)(5)(F)][/us/usc/t42/s1395ww/d/5/F]).
 
->         “(2) __Factors in Determination of Formula.—__ 
+>         “(2)  __Factors in Determination of Formula__  __.—__ 
 
 >         In determining such formula the Secretary shall—
 
@@ -7163,7 +7163,7 @@
 
 >             “(B) The costs incurred by the hospital during a period (as so determined) of furnishing hospital services to individuals who receive medical assistance under the State plan under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] and are not entitled to benefits under part A of title XVIII of such Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] (including individuals enrolled in a managed care organization (as defined in section 1903(m)(1)(A) of such Act ([42 U.S.C. 1396b(m)(1)(A)][/us/usc/t42/s1396b/m/1/A]) or any other managed care plan under such title and individuals who receive medical assistance under such title pursuant to a waiver approved by the Secretary under section 1115 of such Act ([42 U.S.C. 1315][/us/usc/t42/s1315])).
 
->     “(c) __Data Collection.—__ 
+>     “(c)  __Data Collection__  __.—__ 
 
 >     In developing the formula described in subsection (b), the Secretary of Health and Human Services may require any subsection (d) hospital (as defined in section 1886(d)(1)(B) of the Social Security Act ([42 U.S.C. 1395ww(d)(1)(B)][/us/usc/t42/s1395ww/d/1/B])) receiving additional payments by reason of section 1886(d)(5)(F) of such Act ([42 U.S.C. 1395ww(d)(5)(F)][/us/usc/t42/s1395ww/d/5/F]) to submit to the Secretary any information that the Secretary determines is necessary to develop such formula.”
 
@@ -7171,11 +7171,11 @@
 
 [Pub. L. 105–33, title IV, § 4409][/us/pl/105/33/s4409], Aug. 5, 1997, [111 Stat. 402][/us/stat/111/402], provided that:
 
->     “(a) __New Guidelines for Reclassification.—__ 
+>     “(a)  __New Guidelines for Reclassification__  __.—__ 
 
 >     Notwithstanding the guidelines published under section 1886(d)(10)(D)(i)(I) of the Social Security Act ([42 U.S.C. 1395ww(d)(10)(D)(i)(I)][/us/usc/t42/s1395ww/d/10/D/i/I]), the Secretary of Health and Human Services shall publish and use alternative guidelines under which a hospital described in subsection (b) qualifies for geographic reclassification under such section for a fiscal year beginning with fiscal year 1998.
 
->     “(b) __Hospitals Covered.—__ 
+>     “(b)  __Hospitals Covered__  __.—__ 
 
 >     A hospital described in this subsection is a hospital that demonstrates that—
 
@@ -7189,15 +7189,15 @@
 
 [Pub. L. 105–33, title IV, § 4410][/us/pl/105/33/s4410], Aug. 5, 1997, [111 Stat. 402][/us/stat/111/402], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For purposes of section 1886(d)(3)(E) of the Social Security Act ([42 U.S.C. 1395ww(d)(3)(E)][/us/usc/t42/s1395ww/d/3/E]) for discharges occurring on or after October 1, 1997, the area wage index applicable under such section to any hospital which is not located in a rural area (as defined in section 1886(d)(2)(D) of such Act ([42 U.S.C. 1395ww(d)(2)(D)][/us/usc/t42/s1395ww/d/2/D])\[)\] may not be less than the area wage index applicable under such section to hospitals located in rural areas in the State in which the hospital is located.
 
->     “(b) __Implementation.—__ 
+>     “(b)  __Implementation__  __.—__ 
 
 >     The Secretary of Health and Human Services shall adjust the area wage index referred to in subsection (a) for hospitals not described in such subsection in a manner which assures that the aggregate payments made under section 1886(d) of the Social Security Act ([42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]) in a fiscal year for the operating costs of inpatient hospital services are not greater or less than those which would have been made in the year if this section did not apply.
 
->     “(c) __Exclusion of Certain Wages.—__ 
+>     “(c)  __Exclusion of Certain Wages__  __.—__ 
 
 >     In the case of a hospital that is owned by a municipality and that was reclassified as an urban hospital under section 1886(d)(10) of the Social Security Act \[[42 U.S.C. 1395ww(d)(10)][/us/usc/t42/s1395ww/d/10]\] for fiscal year 1996, in calculating the hospital’s average hourly wage for purposes of geographic reclassification under such section for fiscal year 1998, the Secretary of Health and Human Services shall exclude the general service wages and hours of personnel associated with a skilled nursing facility that is owned by the hospital of the same municipality and that is physically separated from the hospital to the extent that such wages and hours of such personnel are not shared with the hospital and are separately documented. A hospital that applied for and was denied reclassification as an urban hospital for fiscal year 1998, but that would have received reclassification had the exclusion required by this section been applied to it, shall be reclassified as an urban hospital for fiscal year 1998.”
 
@@ -7211,25 +7211,25 @@
 
 [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 152(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–252, provided that:
 
->     “(1) __Application to cost reporting periods.—__ 
+>     “(1)  __Application to cost reporting periods__  __.—__ 
 
 >     Any classification by reason of section 1886(d)(1)(B)(v)(III) of the Social Security Act \[[42 U.S.C. 1395ww(d)(1)(B)(v)(III)][/us/usc/t42/s1395ww/d/1/B/v/III]\] (as added by subsection (a)) shall apply to 12-month cost reporting periods beginning on or after July 1, 1999.
 
->     “(2) __Base year.—__ 
+>     “(2)  __Base year__  __.—__ 
 
 >     Notwithstanding the provisions of section 1886(b)(3)(E) of such Act ([42 U.S.C. 1395ww(b)(3)(E)][/us/usc/t42/s1395ww/b/3/E]) or other provisions to the contrary, the base cost reporting period for purposes of determining the target amount for any hospital classified by reason of section 1886(d)(1)(B)(v)(III) of such Act \[[42 U.S.C. 1395ww(d)(1)(B)(v)(III)][/us/usc/t42/s1395ww/d/1/B/v/III]\] (as added by subsection (a)) shall be the 12-month cost reporting period beginning on July 1, 1995.
 
->     “(3) __Deadline for payments.—__ 
+>     “(3)  __Deadline for payments__  __.—__ 
 
 >     Any payments owed to a hospital by reason of this subsection shall be made expeditiously, but in no event later than 1 year after the date of the enactment of this Act \[Dec. 21, 2000\].”
 
 [Pub. L. 105–33, title IV, § 4418(b)][/us/pl/105/33/s4418/b], Aug. 5, 1997, [111 Stat. 409][/us/stat/111/409], provided that:
 
->     “(1) __Application to cost reporting periods.—__ 
+>     “(1)  __Application to cost reporting periods__  __.—__ 
 
 >     Any classification by reason of section 1886(d)(1)(B)(v)(II) of the Social Security Act ([42 U.S.C. 1395ww(d)(1)(B)(v)(II)][/us/usc/t42/s1395ww/d/1/B/v/II]) (as added by subsection (a)) shall apply to all cost reporting periods beginning on or after January 1, 1991.
 
->     “(2) __Base year.—__ 
+>     “(2)  __Base year__  __.—__ 
 
 >     Notwithstanding the provisions of section 1886(b)(3)(E) of such Act ([42 U.S.C. 1395ww(b)(3)(E)][/us/usc/t42/s1395ww/b/3/E]) or other provisions to the contrary, the base cost reporting period for purposes of determining the target amount for any hospital classified by reason of section 1886(d)(1)(B)(v)(II) of such Act shall be either—
 
@@ -7237,7 +7237,7 @@
 
 >         “(B) pursuant to an election under 1886(b)(3)(G) of such Act ([42 U.S.C. 1395ww(b)(3)(G)][/us/usc/t42/s1395ww/b/3/G]), as added in section 4413(b), the period provided for under such section.
 
->     “(3) __Deadline for payments.—__ 
+>     “(3)  __Deadline for payments__  __.—__ 
 
 >     Any payments owed to a hospital by reason of this subsection shall be made expeditiously, but in no event later than 1 year after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -7253,11 +7253,11 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __Legislative proposal.—__ 
+>         “(1)  __Legislative proposal__  __.—__ 
 
 >         The Secretary of Health and Human Services shall develop a legislative proposal for establishing a case-mix adjusted prospective payment system for payment of long-term care hospitals described in section 1886(d)(1)(B)(iv) of the Social Security Act ([42 U.S.C. 1395ww(d)(1)(B)(iv)][/us/usc/t42/s1395ww/d/1/B/iv]) under the medicare program. Such system shall include an adequate patient classification system that reflects the differences in patient resource use and costs among such hospitals.
 
->         “(2) __Collection of data and evaluation.—__ 
+>         “(2)  __Collection of data and evaluation__  __.—__ 
 
 >         In developing the legislative proposal described in paragraph (1), the Secretary—
 
@@ -7265,7 +7265,7 @@
 
 >             “(B) shall consider several payment methodologies, including the feasibility of expanding the current diagnosis-related groups and prospective payment system established under section 1886(d) of the Social Security Act \[[42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]\] to apply to payments under the medicare program to long-term care hospitals.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than October 1, 1999, the Secretary shall submit to the appropriate committees of Congress a report that includes the legislative proposal developed under subsection (a)(1).”
 
@@ -7275,7 +7275,7 @@
 
 >     “(a) __Determination and Notice Concerning Hospital-Specific Per Discharge Relative Values.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         For 1999 and 2001 the Secretary of Health and Human Services shall determine for each hospital—
 
@@ -7283,17 +7283,17 @@
 
 >             “(B) whether the hospital-specific relative value is projected to be excessive (as determined based on such value represented as a percentage of the median of hospital-specific per discharge relative values determined under subsection (b)).
 
->         “(2) __Notice to subset of medical staffs; evaluation of responses.—__ 
+>         “(2)  __Notice to subset of medical staffs; evaluation of responses__  __.—__ 
 
 >         The Secretary shall notify the medical executive committee of a subset of the hospitals identified under paragraph (1)(B) as having an excessive hospital-specific relative value, of the determinations made with respect to the medical staff under paragraph (1). The Secretary shall evaluate the responses of the hospitals so notified with the responses of other hospitals so identified that were not so notified.
 
 >     “(b) __Determination of Hospital-Specific Per Discharge Relative Values.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         For purposes of this section, the hospital-specific per discharge relative value for the medical staff of a hospital (other than a teaching hospital) for a year shall be equal to the average per discharge relative value (as determined under section 1848(c)(2) of the Social Security Act ([42 U.S.C. 1395w–4(c)(2)][/us/usc/t42/s1395w–4/c/2])\[)\] for physicians’ services furnished to inpatients of the hospital by the hospital’s medical staff (excluding interns and residents) during the second year preceding that calendar year, adjusted for variations in case-mix among hospitals and disproportionate share status and teaching status among hospitals (as determined by the Secretary under paragraph (3)).
 
->         “(2) __Special rule for teaching hospitals.—__ 
+>         “(2)  __Special rule for teaching hospitals__  __.—__ 
 
 >         The hospital-specific relative value projected for a teaching hospital in a year shall be equal to the sum of—
 
@@ -7303,19 +7303,19 @@
 
 >             The Secretary shall determine the equivalent relative value unit per discharge for interns and residents based on the best available data and may make such adjustment in the aggregate.
 
->         “(3) __Adjustment for teaching and disproportionate share hospitals.—__ 
+>         “(3)  __Adjustment for teaching and disproportionate share hospitals__  __.—__ 
 
 >         The Secretary shall adjust the allowable per discharge relative values otherwise determined under this subsection to take into account the needs of teaching hospitals and hospitals receiving additional payments under subparagraphs (F) and (G) of section 1886(d)(5) of the Social Security Act ([42 U.S.C. 1395ww(d)(5)][/us/usc/t42/s1395ww/d/5]). The adjustment for teaching status or disproportionate share shall not be less than zero.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
->         “(1) __Hospital.—__ 
+>         “(1)  __Hospital__  __.—__ 
 
 >         The term ‘hospital’ means a subsection (d) hospital as defined in section 1886(d) of the Social Security Act ([42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]).
 
->         “(2) __Medical staff.—__ 
+>         “(2)  __Medical staff__  __.—__ 
 
 >         An individual furnishing a physician’s service is considered to be on the medical staff of a hospital—
 
@@ -7331,19 +7331,19 @@
 
 >             “(B) if the physician provides at least one service to an individual entitled to benefits under this title in that hospital.
 
->         “(3) __Physicians’ services.—__ 
+>         “(3)  __Physicians’ services__  __.—__ 
 
 >         The term ‘physicians’ services’ means the services described in section 1848(j)(3) of the Social Security Act ([42 U.S.C. 1395w–4(j)(3)][/us/usc/t42/s1395w–4/j/3]).
 
->         “(4) __Rural area; urban area.—__ 
+>         “(4)  __Rural area; urban area__  __.—__ 
 
 >         The terms ‘rural area’ and ‘urban area’ have the meaning given those terms under section 1886(d)(2)(D) of such Act ([42 U.S.C. 1395ww(d)(2)(D)][/us/usc/t42/s1395ww/d/2/D]).
 
->         “(5) __Secretary.—__ 
+>         “(5)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of Health and Human Services.
 
->         “(6) __Teaching hospital.—__ 
+>         “(6)  __Teaching hospital__  __.—__ 
 
 >         The term ‘teaching hospital’ means a hospital which has a teaching program approved as specified in section 1861(b)(6) of the Social Security Act ([42 U.S.C. 1395x(b)(6)][/us/usc/t42/s1395x/b/6]).”
 
@@ -7359,7 +7359,7 @@
 
 >         “(3) A demonstration project described in this paragraph is a project that primarily provides for additional payments under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] in connection with a reduction in the number of residents in a medical residency training program.
 
->     “(c) __Interim, Final Regulations.—__ 
+>     “(c)  __Interim, Final Regulations__  __.—__ 
 
 >     In order to carry out the amendment made by subsection (a) in a timely manner, the Secretary of Health and Human Services may first promulgate regulations, that take effect on an interim basis, after notice and pending opportunity for public comment, by not later than 6 months after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -7367,11 +7367,11 @@
 
 [Pub. L. 105–33, title IV, § 4628][/us/pl/105/33/s4628], Aug. 5, 1997, [111 Stat. 484][/us/stat/111/484], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall establish a demonstration project under which, instead of making payments to teaching hospitals pursuant to section 1886(h) of the Social Security Act \[[42 U.S.C. 1395ww(h)][/us/usc/t42/s1395ww/h]\], the Secretary shall make payments under this section to each consortium that meets the requirements of subsection (b) and that applies to be included under the project.
 
->     “(b) __Qualifying Consortia.—__ 
+>     “(b)  __Qualifying Consortia__  __.—__ 
 
 >     For purposes of subsection (a), a consortium meets the requirements of this subsection if the consortium is in compliance with the following:
 
@@ -7399,7 +7399,7 @@
 
 >         “(4) The consortium meets such additional requirements as the Secretary may establish.
 
->     “(c) __Amount and Source of Payment.—__ 
+>     “(c)  __Amount and Source of Payment__  __.—__ 
 
 >     The total of payments to a qualifying consortium for a fiscal year pursuant to subsection (a) shall not exceed the amount that would have been paid under section 1886(h) or (k) of the Social Security Act \[[42 U.S.C. 1395ww(h)][/us/usc/t42/s1395ww/h], (k)\] for the teaching hospital (or hospitals) in the consortium. Such payments shall be made in such proportion from each of the trust funds established under title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] as the Secretary specifies.”
 
@@ -7407,7 +7407,7 @@
 
 [Pub. L. 105–33, title IV, § 4629][/us/pl/105/33/s4629], Aug. 5, 1997, [111 Stat. 484][/us/stat/111/484], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Medicare Payment Advisory Commission (established under section 1805 of the Social Security Act \[[42 U.S.C. 1395b–6][/us/usc/t42/s1395b–6]\] and in this section referred to as the ‘Commission’) shall examine and develop recommendations on whether and to what extent medicare payment policies and other Federal policies regarding teaching hospitals and graduate medical education should be changed. Such recommendations shall include recommendations regarding each of the following:
 
@@ -7427,7 +7427,7 @@
 
 >         “(5) Methods for promoting an appropriate number, mix, and geographical distribution of health professionals.
 
->     “(b) __Consultation.—__ 
+>     “(b)  __Consultation__  __.—__ 
 
 >     In conducting the study under subsection (a), the Commission shall consult with the Council on Graduate Medical Education and individuals with expertise in the area of graduate medical education, including—
 
@@ -7443,7 +7443,7 @@
 
 >         “(6) individuals with expertise in health care payment policies.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 2 years after the date of the enactment of this Act \[Aug. 5, 1997\], the Commission shall submit to the Congress a report providing its recommendations under this section and the reasons and justifications for such recommendations.”
 
@@ -7451,7 +7451,7 @@
 
 [Pub. L. 105–33, title IV, § 4630][/us/pl/105/33/s4630], Aug. 5, 1997, [111 Stat. 485][/us/stat/111/485], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Health and Human Services shall conduct a study with respect to—
 
@@ -7459,7 +7459,7 @@
 
 >         “(2) the reasons for such variations.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Aug. 5, 1997\], the Secretary shall report the results of the study conducted under subsection (a) to the appropriate committees of Congress, including recommendations for legislation reducing variations described in subsection (a) that the Secretary finds inappropriate.”
 
@@ -7491,11 +7491,11 @@
 
 [Pub. L. 103–66, title XIII, § 13501(d)][/us/pl/103/66/s13501/d], Aug. 10, 1993, [107 Stat. 575][/us/stat/107/575], provided that:
 
->     “(1) __Extension of classification through fiscal year 1994.—__ 
+>     “(1)  __Extension of classification through fiscal year 1994__  __.—__ 
 
 >     Any hospital that is classified as a regional referral center under section 1886(d)(5)(C) of the Social Security Act \[[42 U.S.C. 1395ww(d)(5)(C)][/us/usc/t42/s1395ww/d/5/C]\] as of September 30, 1992, shall continue to be so classified for cost reporting periods beginning during fiscal year 1993 or fiscal year 1994, unless the area in which the hospital is located is redesignated as a Metropolitan Statistical Area by the Office of Management and Budget for such a fiscal year.
 
->     “(2) __Permitting hospitals to decline reclassification.—__ 
+>     “(2)  __Permitting hospitals to decline reclassification__  __.—__ 
 
 >     If any hospital fails to qualify as a rural referral center under section 1886(d)(5)(C) of the Social Security Act as a result of a decision by the Medicare Geographic Classification Review Board under section 1886(d)(10) of such Act to reclassify the hospital as being located in an urban area for fiscal year 1993 or fiscal year 1994, the Secretary of Health and Human Services shall—
 
@@ -7513,11 +7513,11 @@
 
 >     “(3) __Requiring lump-sum retroactive payment for hospitals losing classification.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of a hospital described in paragraph (1), the Secretary of Health and Human Services shall make a lump-sum payment to the hospital equal to the difference between the aggregate payment made to the hospital under section 1886 of such Act (excluding outlier payments under subsection (d)(5)(A) of such section) during the period of applicability described in subparagraph (B) and the aggregate payment that would have been made to the hospital under such section if, during the period of applicability, the hospital was classified a regional referral center under section 1886(d)(5)(C) of such Act.
 
->         “(B) __Period of applicability.—__ 
+>         “(B)  __Period of applicability__  __.—__ 
 
 >         In subparagraph (A), the ‘period of applicability’ is the period that begins on October 1, 1992, and ends on the date of the enactment of this Act \[Aug. 10, 1993\].”
 
@@ -7525,7 +7525,7 @@
 
 [Pub. L. 103–66, title XIII, § 13501(e)(2)][/us/pl/103/66/s13501/e/2], (3), Aug. 10, 1993, [107 Stat. 576][/us/stat/107/576], as amended by [Pub. L. 105–33, title IV, § 4204(a)(3)][/us/pl/105/33/s4204/a/3], Aug. 5, 1997, [111 Stat. 376][/us/stat/111/376]; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title IV, § 404(b)(2)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–372; [Pub. L. 109–171, title V, § 5003(a)(2)(B)][/us/pl/109/171/s5003/a/2/B], Feb. 8, 2006, [120 Stat. 32][/us/stat/120/32]; [Pub. L. 111–148, title III, § 3124(b)(2)][/us/pl/111/148/s3124/b/2], Mar. 23, 2010, [124 Stat. 425][/us/stat/124/425]; [Pub. L. 112–240, title VI, § 606(b)(2)][/us/pl/112/240/s606/b/2], Jan. 2, 2013, [126 Stat. 2349][/us/stat/126/2349], provided that:
 
->     “(2) __Permitting hospitals to decline reclassification.—__ 
+>     “(2)  __Permitting hospitals to decline reclassification__  __.—__ 
 
 >     If any hospital fails to qualify as a medicare-dependent, small rural hospital under section 1886(d)(5)(G)(i) of the Social Security Act \[[42 U.S.C. 1395ww(d)(5)(G)(i)][/us/usc/t42/s1395ww/d/5/G/i]\] as a result of a decision by the Medicare Geographic Classification Review Board under section 1886(d)(10) of such Act to reclassify the hospital as being located in an urban area for fiscal year 1993, fiscal year 1994, fiscal year 1998, fiscal year 1999, or fiscal year 2000 through fiscal year 2013, the Secretary of Health and Human Services shall—
 
@@ -7537,11 +7537,11 @@
 
 >     “(3) __Requiring lump-sum retroactive payment.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In the case of a hospital treated as a medicare-dependent, small rural hospital under section 1886(d)(5)(G) of the Social Security Act, the Secretary of Health and Human Services shall make a lump-sum payment to the hospital equal to the difference between the aggregate payment made to the hospital under section 1886 of such Act (excluding outlier payments under subsection (d)(5)(A) of such section) during the period of applicability described in subparagraph (B) and the aggregate payment that would have been made to the hospital under such section if, during the period of applicability, section 1886(d)(5)(G) of such Act had been applied as if the amendments made by paragraph (1) \[amending this section\] had been in effect.
 
->         “(B) __Period of applicability.—__ 
+>         “(B)  __Period of applicability__  __.—__ 
 
 >         In subparagraph (A), the ‘period of applicability’ is, with respect to a hospital, the period that begins on the first day of the hospital’s first 12-month cost reporting period that begins after April 1, 1992, and ends on the date of the enactment of this Act \[Aug. 10, 1993\].”
 
@@ -7549,15 +7549,15 @@
 
 [Pub. L. 103–66, title XIII, § 13563(d)][/us/pl/103/66/s13563/d], Aug. 10, 1993, [107 Stat. 606][/us/stat/107/606], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     In determining the amount of payment to be made under section 1886(h) of the Social Security Act \[[42 U.S.C. 1395ww(h)][/us/usc/t42/s1395ww/h]\] in the case of a hospital described in paragraph (2) for cost reporting periods beginning on or after October 1, 1992, the Secretary of Health and Human Services shall redetermine the approved FTE resident amount to reflect the amount that would have been paid the hospital if, during the hospital’s base cost reporting period, the hospital had been liable for FICA taxes or for contributions to the retirement system of a State, a political subdivision of a State, or an instrumentality of such a State or political subdivision with respect to interns and residents in its medical residency training program.
 
->     “(2) __Hospitals affected.—__ 
+>     “(2)  __Hospitals affected__  __.—__ 
 
 >     A hospital described in this paragraph is a hospital that did not pay FICA taxes with respect to interns and residents in its medical residency training program during the hospital’s base cost reporting period, but is required to pay FICA taxes or make contributions to a retirement system described in paragraph (1) with respect to such interns and residents because of the amendments made by section 11332(b) of OBRA–1990 \[[Pub. L. 101–508][/us/pl/101/508], amending [section 3121 of Title 26][/us/usc/t26/s3121], Internal Revenue Code\].
 
->     “(3) __Definitions.—__ 
+>     “(3)  __Definitions__  __.—__ 
 
 >     In this subsection:
 
@@ -7589,25 +7589,25 @@
 
 >     “(a) __Hospital Graduate Medical Education Recoupment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Health and Human Services may not, before October 1, 1991, recoup payments from a hospital because of alleged overpayments to such hospital under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] due to a determination that the amount of payments made for graduate medical education programs exceeds the amount allowable under section 1886(h) \[[42 U.S.C. 1395ww(h)][/us/usc/t42/s1395ww/h]\].
 
->         “(2) __Cap on annual amount of recoupment.—__ 
+>         “(2)  __Cap on annual amount of recoupment__  __.—__ 
 
 >         With respect to overpayments to a hospital described in paragraph (1), the Secretary may not recoup more than 25 percent of the amount of such overpayments from the hospital during a fiscal year.
 
->         “(3) __Effective date.—__ 
+>         “(3)  __Effective date__  __.—__ 
 
 >         Paragraphs (1) and (2) shall take effect October 1, 1990.
 
 >     “(b) __University Hospital Nursing Education.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The reasonable costs incurred by a hospital (or by an educational institution related to the hospital by common ownership or control) during a cost reporting period for clinical training (as defined by the Secretary) conducted on the premises of the hospital under approved nursing and allied health education programs that are not operated by the hospital shall be allowable as reasonable costs under part A of title XVIII of the Social Security Act and reimbursed under such part on a pass-through basis.
 
->         “(2) __Conditions for reimbursement.—__ 
+>         “(2)  __Conditions for reimbursement__  __.—__ 
 
 >         The reasonable costs incurred by a hospital during a cost reporting period shall be reimbursable pursuant to paragraph (1) only if—
 
@@ -7621,19 +7621,19 @@
 
 >         “(3) __Prohibition against recoupment of costs by secretary.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary of Health and Human Services may not recoup payments from (or otherwise reduce or adjust payments under part A of title XVIII of the Social Security Act to) a hospital because of alleged overpayments to such hospital under such title due to a determination that costs which were reported by the hospital on its medicare cost reports for cost reporting periods beginning on or after October 1, 1983, and before October 1, 1990, relating to approved nursing and allied health education programs did not meet the requirements for allowable nursing and allied health education costs (as developed by the Secretary pursuant to section 1861(v) of such Act \[[42 U.S.C. 1395x(v)][/us/usc/t42/s1395x/v]\]).
 
->             “(B) __Refund of amounts recouped.—__ 
+>             “(B)  __Refund of amounts recouped__  __.—__ 
 
 >             If, prior to the date of the enactment of this Act \[Nov. 5, 1990\], the Secretary has recouped payments from (or otherwise reduced or adjusted payments under part A of title XVIII of the Social Security Act to) a hospital because of overpayments described in subparagraph (A), the Secretary shall refund the amount recouped, reduced, or adjusted from the hospital.
 
->         “(4) __Special audit to determine costs.—__ 
+>         “(4)  __Special audit to determine costs__  __.—__ 
 
 >         In determining the amount of costs incurred by, claimed by, and reimbursed to, a hospital for purposes of this subsection, the Secretary shall conduct a special audit (or use such other appropriate mechanism) to ensure the accuracy of such past claims and payments.
 
->         “(5) __Effective date.—__ 
+>         “(5)  __Effective date__  __.—__ 
 
 >         Except as provided in paragraph (3), the provisions of this subsection shall apply to cost reporting periods beginning on or after October 1, 1990.”
 
@@ -7641,25 +7641,25 @@
 
 >     “(a) __Hospital Graduate Medical Education Recoupment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Health and Human Services may not, before October 1, 1991, recoup payments from a hospital because of alleged overpayments to such hospital under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] due to a determination that the amount of payments made for graduate medical education programs exceeds the amount allowable under section 1886(h) \[[42 U.S.C. 1395ww(h)][/us/usc/t42/s1395ww/h]\].
 
->         “(2) __Cap on annual amount of recoupment.—__ 
+>         “(2)  __Cap on annual amount of recoupment__  __.—__ 
 
 >         With respect to overpayments to a hospital described in paragraph (1), the Secretary may not recoup more than 25 percent of the amount of such overpayments from the hospital during a fiscal year.
 
->         “(3) __Effective date.—__ 
+>         “(3)  __Effective date__  __.—__ 
 
 >         Paragraphs (1) and (2) shall take effect October 1, 1990.
 
 >     “(b) __University Hospital Nursing Education.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The reasonable costs incurred by a hospital (or by an educational institution related to the hospital by common ownership or control) during a cost reporting period for clinical training (as defined by the Secretary) conducted on the premises of the hospital under approved nursing and allied health education programs that are not operated by the hospital shall be allowable as reasonable costs under part B of title XVIII of the Social Security Act and reimbursed under such part on a pass-through basis.
 
->         “(2) __Conditions for reimbursement.—__ 
+>         “(2)  __Conditions for reimbursement__  __.—__ 
 
 >         The reasonable costs incurred by a hospital during a cost reporting period shall be reimbursable pursuant to paragraph (1) only if—
 
@@ -7673,19 +7673,19 @@
 
 >         “(3) __Prohibition against recoupment of costs by secretary.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary of Health and Human Services may not recoup payments from (or otherwise reduce or adjust payments under part B of title XVIII of the Social Security Act to) a hospital because of alleged overpayments to such hospital under such title due to a determination that costs which were reported by the hospital on its medicare cost reports for cost reporting periods beginning on or after October 1, 1983, and before October 1, 1990, relating to approved nursing and allied health education programs did not meet the requirements for allowable nursing and allied health education costs (as developed by the Secretary pursuant to section 1861(v) of such Act \[[42 U.S.C. 1395x(v)][/us/usc/t42/s1395x/v]\]).
 
->             “(B) __Refund of amounts recouped.—__ 
+>             “(B)  __Refund of amounts recouped__  __.—__ 
 
 >             If, prior to the date of the enactment of this Act \[Nov. 5, 1990\], the Secretary has recouped payments from (or otherwise reduced or adjusted payments under part B of title XVIII of the Social Security Act to) a hospital because of overpayments described in subparagraph (A), the Secretary shall refund the amount recouped, reduced, or adjusted from the hospital.
 
->         “(4) __Special audit to determine costs.—__ 
+>         “(4)  __Special audit to determine costs__  __.—__ 
 
 >         In determining the amount of costs incurred by, claimed by, and reimbursed to, a hospital for purposes of this subsection, the Secretary shall conduct a special audit (or use such other appropriate mechanism) to ensure the accuracy of such past claims and payments.
 
->         “(5) __Effective Date.—__ 
+>         “(5)  __Effective Date__  __.—__ 
 
 >         Except as provided in paragraph (3), the provisions of this subsection shall apply to cost reporting periods beginning on or after October 1, 1990.”
 
@@ -7693,7 +7693,7 @@
 
 [Pub. L. 101–508, title IV, § 4005(b)][/us/pl/101/508/s4005/b], Nov. 5, 1990, [104 Stat. 1388–40][/us/stat/104/1388-40], provided that:
 
->     “(1) __Development of proposal.—__ 
+>     “(1)  __Development of proposal__  __.—__ 
 
 >     The Secretary of Health and Human Services shall develop a proposal to modify the current system under which hospitals that are not subsection (d) hospitals (as defined in section 1886(d)(1)(B) of the Social Security Act \[[42 U.S.C. 1395ww(d)(1)(B)][/us/usc/t42/s1395ww/d/1/B]\]) receive payment for the operating and capital-related costs of inpatient hospital services under part A \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] of the medicare program or a proposal to replace such system with a system under which such payments would be made on the basis of nationally-determined average standardized amounts. In developing any proposal under this paragraph to replace the current system with a prospective payment system, the Secretary shall—
 
@@ -7707,7 +7707,7 @@
 
 >         “(E) provide for the appropriate allocation of operating and capital-related costs of hospitals not subject to the new prospective payment system and distinct units of such hospitals that would be paid under such system.
 
->     “(2) __Reports.—__ 
+>     “(2)  __Reports__  __.—__ 
 
 >         (A) By not later than April 1, 1992, the Secretary shall submit the proposal developed under paragraph (1) to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives.
 
@@ -7723,7 +7723,7 @@
 
 [Pub. L. 101–508, title IV, § 4007][/us/pl/101/508/s4007], Nov. 5, 1990, [104 Stat. 1388–43][/us/stat/104/1388-43], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law, for purposes of determining the amount of payment for items or services under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] (including payments under section 1886 of such Act \[[42 U.S.C. 1395ww][/us/usc/t42/s1395ww]\] attributable to or allocated under such part) during the period described in subsection (b):
 
@@ -7735,7 +7735,7 @@
 
 >         “(4) The percentage change in the consumer price index applicable under section 1886(h)(2)(D) of such Act shall be deemed to be 0.
 
->     “(b) __Description of Period.—__ 
+>     “(b)  __Description of Period__  __.—__ 
 
 >     The period referred to in subsection (a) is the period beginning on October 21, 1990, and ending on December 31, 1990.”
 
@@ -7743,11 +7743,11 @@
 
 [Pub. L. 101–508, title IV, § 4008][/us/pl/101/508/s4008](l), Nov. 5, 1990, [104 Stat. 1388–53][/us/stat/104/1388-53], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Health and Human Services shall review the requirements applicable under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] to determine which requirements could be made less administratively and economically burdensome (without diminishing the quality of care) for hospitals defined in section 1886(d)(1)(B) of such Act \[[42 U.S.C. 1395ww(d)(1)(B)][/us/usc/t42/s1395ww/d/1/B]\] that are located in a rural area (as defined in section 1886(d)(2)(D) of such Act). Such review shall specifically include standards related to staffing requirements.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     The Secretary of Health and Human Services shall report to Congress by April 1, 1992, on the results of the review conducted under subsection (a), and include conclusions on which regulations, if any, should be modified with respect to hospitals described in subsection (a).”
 
@@ -7797,11 +7797,11 @@
 
 [Pub. L. 101–239, title VI, § 6003(h)(5)][/us/pl/101/239/s6003/h/5], Dec. 19, 1989, [103 Stat. 2157][/us/stat/103/2157], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     If the Secretary of Health and Human Services (hereinafter referred to as the ‘Secretary’) discovers an error with respect to the determination, adjustment, or computation of the area wage index described in section 1886(d)(3)(E) of the Social Security Act \[[42 U.S.C. 1395ww(d)(3)(E)][/us/usc/t42/s1395ww/d/3/E]\] and subsequently corrects such error, the Secretary shall make an additional payment under title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] to a hospital affected by such error for inpatient hospital discharges occurring during the period when the erroneously determined, adjusted, or computed wage index was in effect.
 
->     “(B) __Conditions for additional payment.—__ 
+>     “(B)  __Conditions for additional payment__  __.—__ 
 
 >     A hospital is eligible for an additional payment under subparagraph (A) only if—
 
@@ -7811,7 +7811,7 @@
 
 >         “(iii) the correction of the error resulted in an adjustment to the area wage index of not less than 3 percentage points.
 
->     “(C) __Period of applicability.—__ 
+>     “(C)  __Period of applicability__  __.—__ 
 
 >     A hospital may not receive an additional payment under subparagraph (A) for discharges occurring after October 1, 1990.”
 
@@ -7823,11 +7823,11 @@
 
 [Pub. L. 101–239, title VI, § 6011(b)][/us/pl/101/239/s6011/b], (c), Dec. 19, 1989, [103 Stat. 2161][/us/stat/103/2161], provided that:
 
->     “(b) __Determining Payment Amount.—__ 
+>     “(b)  __Determining Payment Amount__  __.—__ 
 
 >     The Secretary of Health and Human Services shall determine the amount of payment made to hospitals under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] for the costs of administering blood clotting factors to individuals with hemophilia by multiplying a predetermined price per unit of blood clotting factor (determined in consultation with the Prospective Payment Assessment Commission) by the number of units provided to the individual.
 
->     “(c) __Recommendations on Payments.—__ 
+>     “(c)  __Recommendations on Payments__  __.—__ 
 
 >     The Prospective Payment Assessment Commission and the Health Care Financing Administration shall develop recommendations with respect to payments to hospitals under part A of title XVIII of the Social Security Act for the costs of administering blood clotting factors to individuals with hemophilia, and shall submit such recommendations to Congress not later than 18 months after the date of enactment of this Act \[Dec. 19, 1989\].”
 
@@ -7873,7 +7873,7 @@
 
 [Pub. L. 101–2399, title VI, § 6217][/us/pl/101/2399/s6217], Dec. 19, 1989, [103 Stat. 2253][/us/stat/103/2253], as amended by [Pub. L. 101–508, title IV, § 4207(k)(5)][/us/pl/101/508/s4207/k/5], formerly § 4027(k)(5), Nov. 5, 1990, [104 Stat. 1388–125][/us/stat/104/1388-125], renumbered [Pub. L. 103–432, title I, § 160(d)(4)][/us/pl/103/432/s160/d/4], Oct. 31, 1994, [108 Stat. 4444][/us/stat/108/4444], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary of Health and Human Services shall establish a demonstration project in a public hospital that is located in a large urban area and that has established a triage system, under which the Secretary shall make payments out of the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund (in such proportions as the Secretary determines to be appropriate in a year) for 3 years to reimburse the hospital for the reasonable costs of operating the system, including costs—
 
@@ -7881,7 +7881,7 @@
 
 >         “(2) to provide services to patients who might otherwise be denied appropriate and prompt care.
 
->     “(b) __Limitations on Payment.—__ 
+>     “(b)  __Limitations on Payment__  __.—__ 
 
 >         (1) The Secretary may not make payment under the demonstration project established under subsection (a) for costs that the Secretary determines are not reasonable.
 
@@ -7903,11 +7903,11 @@
 
 [Pub. L. 100–360, title I, § 104(c)][/us/pl/100/360/s104/c], July 1, 1988, [102 Stat. 688][/us/stat/102/688], as amended by [Pub. L. 100–485, title VI, § 608(d)(3)(C)][/us/pl/100/485/s608/d/3/C]–(E), Oct. 13, 1988, [102 Stat. 2413][/us/stat/102/2413]; [Pub. L. 101–234, title I, § 101(c)(1)][/us/pl/101/234/s101/c/1], (2)(A), Dec. 13, 1989, [103 Stat. 1980][/us/stat/103/1980], provided that:
 
->     “(1) __PPS hospitals.—__ 
+>     “(1) __PPS__  __hospitals__  __.—__ 
 
 >     In adjusting DRG prospective payment rates under section 1886(d) of the Social Security Act \[[42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]\], outlier cutoff points under section 1886(d)(5)(A) of such Act, and weighting factors under section 1886(d)(4) of such Act for discharges occurring on or after October 1, 1988, and before January 1, 1990, the Secretary of Health and Human Services shall, to the extent appropriate, take into consideration the reductions in payments to hospitals by (or on behalf of) medicare beneficiaries resulting from the elimination of a day limitation on medicare inpatient hospital services (under the amendments made by section 101 \[amending [section 1395d of this title][/us/usc/t42/s1395d]\]).
 
->     “(2) __PPS-exempt hospitals.—__ 
+>     “(2) __PPS-__  __exempt hospitals__  __.—__ 
 
 >     In adjusting target amounts under section 1886(b)(3) of the Social Security Act \[[42 U.S.C. 1395ww(b)(3)][/us/usc/t42/s1395ww/b/3]\] for portions of cost reporting periods occurring on or after January 1, 1989, and before January 1, 1990, the Secretary shall, on a hospital-specific basis, take into consideration the reductions in payments to hospitals by (or on behalf of) medicare beneficiaries resulting from the elimination of a day limitation on medicare inpatient hospital services (under the amendments made by section 101 \[amending [section 1395d of this title][/us/usc/t42/s1395d]\]), without regard to whether such a hospital is paid on the basis described in subparagraph (A) or (B) of section 1886(b)(1) of such Act, without regard to whether any of such beneficiaries exhausted medicare inpatient hospital insurance benefits before January 1, 1989.”
 
@@ -8053,7 +8053,7 @@
 
 [Pub. L. 100–203, title IV, § 4007][/us/pl/100/203/s4007], Dec. 22, 1987, [101 Stat. 1330–53][/us/stat/101/1330-53], as amended by [Pub. L. 100–360, title IV, § 411(b)(6)][/us/pl/100/360/s411/b/6], July 1, 1988, [102 Stat. 770][/us/stat/102/770]; [Pub. L. 100–485, title VI, § 608(d)(18)(D)][/us/pl/100/485/s608/d/18/D], Oct. 13, 1988, [102 Stat. 2419][/us/stat/102/2419], provided that:
 
->     “(a) __Development of Data Base.—__ 
+>     “(a)  __Development of Data Base__  __.—__ 
 
 >     The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall develop and place into effect not later than June 1, 1989, a data base of the operating costs of inpatient hospital services with respect to all hospitals under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], which data base shall be updated at least once every quarter (and maintained for the 12-month period preceding any such update). The data base under this subsection may include data from preliminary cost reports (but the Secretary shall make available an updated analysis of the differences between preliminary and settled cost reports).
 
@@ -8113,7 +8113,7 @@
 
 >         “(7) The Comptroller General shall analyze the adequacy of the existing system for reporting of hospital information and the costs and benefits of data reporting under the demonstration system and will recommend improvements in hospital data collection and in analysis and display of data in support of policy making.
 
->     “(d) __Consultation.—__ 
+>     “(d)  __Consultation__  __.—__ 
 
 >     The Secretary shall consult representatives of the hospital industry in carrying out the provisions of this section.”
 
@@ -8123,25 +8123,25 @@
 
 >     “(1) __Increase in outlier payments for burn center drgs.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         For discharges classified in diagnosis-related groups relating to burn cases and occurring on or after April 1, 1988, and before October 1, 1989, the marginal cost of care permitted by the Secretary of Health and Human Services under section 1886(d)(5)(A)(iii) of the Social Security Act \[[42 U.S.C. 1395ww(d)(5)(A)(iii)][/us/usc/t42/s1395ww/d/5/A/iii]\] shall be 90 percent of the appropriate per diem cost of care or 90 percent of the cost for cost outliers.
 
->         “(B) __Budget neutrality.—__ 
+>         “(B)  __Budget neutrality__  __.—__ 
 
 >         Subparagraph (A) shall be implemented in a manner that ensures that total payments under section 1886(d) of the Social Security Act are not increased or decreased by reason of the adjustments required by such subparagraph.
 
 >     “(2) __Limitation on changes in outlier regulations.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law, except as required to implement specific provisions required under statute, the Secretary of Health and Human Services is not authorized to issue in final form, after the date of the enactment of this Act \[Dec. 22, 1987\] and before September 1, 1988, any final regulation which changes the method of payment for outlier cases under section 1886(d)(5)(A) of the Social Security Act \[[42 U.S.C. 1395ww(d)(5)(A)][/us/usc/t42/s1395ww/d/5/A]\].
 
->         “(B) __Propac report.—__ 
+>         “(B)  __Propac report__  __.—__ 
 
 >         The chairman of the Prospective Payment Assessment Commission shall report to the Congress and the Secretary of Health and Human Services, by not later than June 1, 1988, on the method of payment for outlier cases under such section and providing more adequate and appropriate payments with respect to burn outlier cases.
 
->     “(3) __Report on outlier payments.—__ 
+>     “(3)  __Report on outlier payments__  __.—__ 
 
 >     The Secretary of Health and Human Services shall include in the annual report submitted to the Congress pursuant to section 1875(b) of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]ll(b)\] a comparison with respect to hospitals located in an urban area and hospitals located in a rural area in the amount of reductions under section 1886(d)(3)(B) of the Social Security Act \[[42 U.S.C. 1395ww(d)(3)(B)][/us/usc/t42/s1395ww/d/3/B]\] and additional payments under section 1886(d)(5)(A) of such Act.”
 
@@ -8149,15 +8149,15 @@
 
 [Pub. L. 100–203, title IV, § 4009(h)][/us/pl/100/203/s4009/h], Dec. 22, 1987, [101 Stat. 1330–58][/us/stat/101/1330-58], provided that:
 
->     “(1) __Propac reports on study of drg rates for hospitals in rural and urban areas.—__ 
+>     “(1)  __Propac reports on study of drg rates for hospitals in rural and urban areas__  __.—__ 
 
 >     The Prospective Payment Assessment Commission shall evaluate the study conducted by the Secretary of Health and Human Services pursuant to section 603(a)(2)(C)(i) of the Social Security Amendments of 1983 \[[section 603(a)(2)(C)(i) of Pub. L. 98–21][/us/pl/98/21/s603/a/2/C/i], set out below\] (relating to the feasibility, impact, and desirability of eliminating or phasing out separate urban and rural DRG prospective payment rates) and report its conclusions and recommendations to the Congress not later than March 1, 1988.
 
->     “(2) __Propac report on separate urban payment rates.—__ 
+>     “(2)  __Propac report on separate urban payment rates__  __.—__ 
 
 >     The Prospective Payment Assessment Commission shall evaluate the desirability of maintaining separate DRG prospective payment rates for hospitals located in large urban areas (as defined in section 1886(d)(2)(D)) of the Social Security Act \[[42 U.S.C. 1395ww(d)(2)(D)][/us/usc/t42/s1395ww/d/2/D]\]) and in other urban areas, and shall report to Congress on such evaluation not later than January 1, 1989.
 
->     “(3) __Report on adjustment for non-labor costs.—__ 
+>     “(3)  __Report on adjustment for non-labor costs__  __.—__ 
 
 >     The Prospective Payment Assessment Commission shall perform an analysis to determine the feasibility and appropriateness of adjusting the non-wage-related portion of the adjusted average standardized amounts under section 1886(d)(3) of the Social Security Act \[[42 U.S.C. 1395ww(d)(3)][/us/usc/t42/s1395ww/d/3]\] based on area differences in hospitals’ costs (other than wage-related costs) and input prices. The Commission shall report to the Congress on such analysis by not later than October 1, 1989.”
 
@@ -8171,15 +8171,15 @@
 
 [Pub. L. 100–203, title IV, § 4038][/us/pl/100/203/s4038], Dec. 22, 1987, [101 Stat. 1330–80][/us/stat/101/1330-80], as amended by [Pub. L. 101–239, title VI, § 6216][/us/pl/101/239/s6216], Dec. 19, 1989, [103 Stat. 2253][/us/stat/103/2253], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall enter into agreements with 10 sponsoring hospitals submitting applications under this subsection to conduct demonstration projects to assist resident physicians in developing field clinical experience in rural areas.
 
->     “(b) __Nature of Project.—__ 
+>     “(b)  __Nature of Project__  __.—__ 
 
 >     Under a demonstration project conducted under subsection (a), a sponsoring hospital entering into an agreement with the Secretary under such subsection shall enter into arrangements with a small rural hospital to provide to such rural hospital, for a period of one to three months of training, physicians (in such number as the agreement under subsection (a) may provide) who have completed one year of residency training.
 
->     “(c) __Selection.—__ 
+>     “(c)  __Selection__  __.—__ 
 
 >         (1)
 
@@ -8191,7 +8191,7 @@
 
 >         “(2) The provisions of paragraph (1) shall not apply with respect to applications submitted as a result of amendments made by section 6216 of the Omnibus Budget Reconciliation Act of 1989 \[[Pub. L. 101–239][/us/pl/101/239], amending this note\].
 
->     “(d) __Clarification of Payment.—__ 
+>     “(d)  __Clarification of Payment__  __.—__ 
 
 >     For purposes of section 1886 of the Social Security Act \[[42 U.S.C. 1395ww][/us/usc/t42/s1395ww]\]—
 
@@ -8199,11 +8199,11 @@
 
 >         “(2) with respect to subsection (h) of such section, the payment amount permitted under such subsection for a sponsoring hospital with an agreement under subsection (a) shall be increased (for the duration of the project only) by an amount equal to the amount of any direct graduate medical education costs (as defined in paragraph (5) of such subsection (h)) incurred by such hospital in supervising the education and training activities under a project under subsection (a).
 
->     “(e) __Duration of Project.—__ 
+>     “(e)  __Duration of Project__  __.—__ 
 
 >     Each demonstration project under subsection (a) shall be commenced not later than six months after the date of enactment of this Act \[Dec. 22, 1987\] (or the date of the enactment of the Omnibus Budget Reconciliation Act of 1989 \[Dec. 19, 1989\], in the case of a project conducted as a result of the amendments made by section 6216 of such Act \[[Pub. L. 101–239][/us/pl/101/239], amending this note\]) and shall be conducted for a period of three years.
 
->     “(f) __Definition.—__ 
+>     “(f)  __Definition__  __.—__ 
 
 >     In this section, the term ‘sponsoring hospital’ means a hospital that receives payments under sections 1886(d)(5)(B) and 1886(h) of the Social Security Act \[[42 U.S.C. 1395ww(d)(5)(B)][/us/usc/t42/s1395ww/d/5/B], (h)\].”
 
@@ -8219,13 +8219,13 @@
 
 > “Notwithstanding any other provision of law, with respect to payment for inpatient hospital services under section 1886 of the Social Security Act \[[42 U.S.C. 1395ww][/us/usc/t42/s1395ww]\]:
 
->     “(A) __Temporary freeze in pps hospital rates.—__ 
+>     “(A)  __Temporary freeze in pps hospital rates__  __.—__ 
 
 >     For purposes of subsection (d) of such section for discharges occurring during the period beginning on October 1, 1987, and ending on November 20, 1987 (in this paragraph referred to as the ‘extension period’), the applicable percentage increase under subsection (b)(3)(B) of such section with respect to fiscal year 1988 is deemed to be 0 percent.
 
 >     “(B) __Temporary freeze in payment basis.—__ 
 
->         “(i) __Extension of blended drg rate.—__ 
+>         “(i)  __Extension of blended drg rate__  __.—__ 
 
 >         For purposes of subsection (d)(1) of such section, the ‘applicable combined adjusted DRG prospective payment rate’ for discharges occurring—
 
@@ -8233,19 +8233,19 @@
 
 >             “(II) after such period is the national adjusted prospective payment rate determined under subsection (d)(3) of such section.
 
->         “(ii) __Extension of hospital-specific payment.—__ 
+>         “(ii)  __Extension of hospital-specific payment__  __.—__ 
 
 >         For the first 51 days of a hospital cost reporting period beginning during fiscal year 1988, payment shall be made under clause (ii) (rather than clause (iii)) of subsection (d)(1)(A) of such section (subject to clause (i) of this subparagraph), the target percentage and DRG percentage shall be those specified in subsection (d)(1)(C)(iv) of such section, and the applicable percentage increase in a hospital’s target amount shall be deemed to be 0 percent.
 
->     “(C) __Temporary freeze in amounts of payment for capital.—__ 
+>     “(C)  __Temporary freeze in amounts of payment for capital__  __.—__ 
 
 >     For payments attributable to portions of cost reporting periods occurring during the extension period, the percent specified in subsection (g)(3)(A)(ii) of such section is deemed to be 3.5 percent.
 
->     “(D) __Temporary freeze in return on equity reductions.—__ 
+>     “(D)  __Temporary freeze in return on equity reductions__  __.—__ 
 
 >     For the first 51 days of a cost reporting period beginning during fiscal year 1988, subsection (g)(2) of such section shall be applied as though the applicable percentage were 75 percent.
 
->     “(E) __Temporary freeze in payments rates for pps-exempt hospitals.—__ 
+>     “(E)  __Temporary freeze in payments rates for pps-exempt hospitals__  __.—__ 
 
 >     For purposes of payment under subsection (b) of such section for cost reporting periods beginning during fiscal year 1988, with respect to the first 51 days of such a period the applicable percentage increase under paragraph (3)(B) of such subsection is deemed to be 0 percent.”
 
@@ -8255,7 +8255,7 @@
 
 [Pub. L. 100–119, title I, § 107(b)][/us/pl/100/119/s107/b], Sept. 29, 1987, [101 Stat. 783][/us/stat/101/783], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Secretary of Health and Human Services is not authorized to issue after September 18, 1987, and before November 21, 1987—
 
@@ -8267,11 +8267,11 @@
 
 >         The final regulation of the Health Care Financing Administration published on September 1, 1987 (52 Federal Register 32920) and relating to changes to the return on equity capital provisions for outpatient hospital services is void and of no effect.
 
->     “(2) __Other cost savings policies.—__ 
+>     “(2)  __Other cost savings policies__  __.—__ 
 
 >     Notwithstanding any other provision of law, except as required to implement specific provisions required under statute, the Secretary of Health and Human Services is not authorized to issue in final form, after September 18, 1987, and before November 21, 1987, any regulation, instruction, or other policy which is estimated by the Secretary to result in a net reduction in expenditures under title XVIII of the Social Security Act in fiscal year 1988 of more than $50,000,000. Any regulation, instruction, or policy which is issued in violation of this paragraph is void and of no effect.
 
->     “(3) __Exception.—__ 
+>     “(3)  __Exception__  __.—__ 
 
 >     Paragraphs (1) and (2) shall not be construed to apply to any regulation, instruction, or policy required to implement the amendment made by section 9311(a) of the Omnibus Budget Reconciliation Act of 1986 \[[section 9311(a) of Pub. L. 99–509][/us/pl/99/509/s9311/a], which amended [section 1395g of this title][/us/usc/t42/s1395g]\] (relating to periodic interim payments).”
 
@@ -8327,19 +8327,19 @@
 
 [Pub. L. 99–509, title IX, § 9321(c)][/us/pl/99/509/s9321/c], Oct. 21, 1986, [100 Stat. 2016][/us/stat/100/2016], as amended by [Pub. L. 100–119, title I, § 107(a)(2)][/us/pl/100/119/s107/a/2], Sept. 29, 1987, [101 Stat. 783][/us/stat/101/783]; [Pub. L. 100–203, title IV, § 4009(j)(6)(D)][/us/pl/100/203/s4009/j/6/D], (F), Dec. 22, 1987, [101 Stat. 1330–59][/us/stat/101/1330-59], provided that:
 
->     “(1) __Prohibition of issuance of final regulations on capital-related costs as part of payment for operating costs before__  __november 21, 1987__  __.—__ 
+>     “(1)  __Prohibition of issuance of final regulations on capital-related costs as part of payment for operating costs before __  __november 21, 1987__  __.—__ 
 
 >     Notwithstanding any other provision of law (except as provided in paragraph (3)), the Secretary of Health and Human Services may not issue, in final form, after September 1, 1986, and before November 21, 1987, any regulation that changes the methodology for computing the amount of payment for capital-related costs (as defined in paragraph (4)) for inpatient hospital services under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\]. Any regulation published in violation of the previous sentence is void and of no effect.
 
->     “(2) __Not including capital-related regulations in budget baseline.—__ 
+>     “(2)  __Not including capital-related regulations in budget baseline__  __.—__ 
 
 >     Any reference in law to a regulation issued in final form or proposed by the Health Care Financing Administration pursuant to sections 1886(b)(3)(B), 1886(d)(3)(A), and 1886(e)(4) of the Social Security Act \[[42 U.S.C. 1395ww(b)(3)(B)][/us/usc/t42/s1395ww/b/3/B], (d)(3)(A), (e)(4)\] shall not include any regulation issued or proposed with respect to capital-related costs (as defined in paragraph (4)).
 
->     “(3) __Exception.—__ 
+>     “(3)  __Exception__  __.—__ 
 
 >     Paragraph (1) shall not apply to any regulation issued for the sole purpose of implementing section 1861(v)(1)(O) and 1886(g)(2) of the Social Security Act \[[42 U.S.C. 1395x(v)(1)(O)][/us/usc/t42/s1395x/v/1/O], 1395ww(g)(2)\] and section 1886(g)(3)(A) and (B) of the Social Security Act \[[42 U.S.C. 1395ww(g)(3)(A)][/us/usc/t42/s1395ww/g/3/A], (B)\] (as amended by section 9303(a) of this Act).
 
->     “(4) __Capital-related costs defined.—__ 
+>     “(4)  __Capital-related costs defined__  __.—__ 
 
 >     In this subsection, the term ‘capital-related costs’ means those capital-related costs that are specifically excluded, under the second sentence of section 1886(a)(4) of the Social Security Act \[[42 U.S.C. 1395ww(a)(4)][/us/usc/t42/s1395ww/a/4]\], from the term ‘operating costs of inpatient hospital services’ (as defined in that section) for cost reporting periods beginning prior to October 1, 1987.”
 
@@ -8361,7 +8361,7 @@
 
 [Pub. L. 99–272, title IX, § 9108][/us/pl/99/272/s9108], Apr. 7, 1986, [100 Stat. 161][/us/stat/100/161], provided that:
 
->     “(a) __Continuation of Waivers.—__ 
+>     “(a)  __Continuation of Waivers__  __.—__ 
 
 >     A hospital reimbursement control system which, on January 1, 1985, was carrying out a demonstration under a contract which had been approved by the Secretary of Health and Human Services pursuant to section 222(a) of the Social Security Amendments of 1972 \[[section 222(a) of Pub. L. 92–603][/us/pl/92/603/s222/a], set out as a note under [section 1395b–1 of this title][/us/usc/t42/s1395b–1]\], or under section 402 of the Social Security Amendments of 1967 (as amended by section 222(b) of the Social Security Amendments of 1972) \[[42 U.S.C. 1395b–1][/us/usc/t42/s1395b–1]\], shall be deemed to meet the requirements of section 1886(c)(1)(A) of the Social Security Act \[[42 U.S.C. 1395ww(c)(1)(A)][/us/usc/t42/s1395ww/c/1/A]\] if such system applies—
 
@@ -8375,11 +8375,11 @@
 
 >             “(B) revenues or expenses in such geographic area for inpatient hospital services provided under the State’s plan approved under title XIX \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\].
 
->     “(b) __Approval.—__ 
+>     “(b)  __Approval__  __.—__ 
 
 >     In the case of a hospital cost control system described in subsection (a), the requirements of section 1886(c) of the Social Security Act \[[42 U.S.C. 1395ww(c)][/us/usc/t42/s1395ww/c]\] which apply to States shall instead apply to such system and, for such purposes, any reference to a State is deemed a reference to such system.
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     This section shall become effective on the date of the enactment of this Act \[Apr. 7, 1986\].”
 
@@ -8387,11 +8387,11 @@
 
 [Pub. L. 99–272, title IX, § 9114][/us/pl/99/272/s9114], Apr. 7, 1986, [100 Stat. 163][/us/stat/100/163], provided that:
 
->     “(a) __Disclosure of Information.—__ 
+>     “(a)  __Disclosure of Information__  __.—__ 
 
 >     The Secretary of Health and Human Services shall make available to the Prospective Payment Assessment Commission, the Congressional Budget Office, the Comptroller General, and the Congressional Research Service the most current information on the payments being made under section 1886 of the Social Security Act \[[42 U.S.C. 1395ww][/us/usc/t42/s1395ww]\] to individual hospitals. Such information shall be made available in a manner that permits examination of the impact of such section on hospitals.
 
->     “(b) __Confidentiality.—__ 
+>     “(b)  __Confidentiality__  __.—__ 
 
 >     Information disclosed under subsection (a) shall be treated as confidential and shall not be subject to further disclosure in a manner that permits the identification of individual hospitals.”
 
@@ -8399,11 +8399,11 @@
 
 [Pub. L. 99–272, title IX, § 9115][/us/pl/99/272/s9115], Apr. 7, 1986, [100 Stat. 163][/us/stat/100/163], provided that:
 
->     “(a) __Waiver of Paperwork Reduction.—__ 
+>     “(a)  __Waiver of Paperwork Reduction__  __.—__ 
 
 >     Chapter 35 of title 44, United States Code, shall not apply to information required for purposes of carrying out this subpart and implementing the amendments made by this subpart \[subpart A (§§ 9101–9115) of part 1 of subtitle A of title IX of [Pub. L. 99–272][/us/pl/99/272], see Tables for classification\].
 
->     “(b) __Use of Interim Final Regulations.—__ 
+>     “(b)  __Use of Interim Final Regulations__  __.—__ 
 
 >     The Secretary of Health and Human Services shall issue such regulations (on an interim or other basis) as may be necessary to implement this subpart and the amendments made by this subpart.”
 
@@ -8417,7 +8417,7 @@
 
 [Pub. L. 99–272, title IX, § 9202(c)][/us/pl/99/272/s9202/c]–(h), Apr. 7, 1986, [100 Stat. 175][/us/stat/100/175], as amended by [Pub. L. 100–203, title IV, § 4085(f)][/us/pl/100/203/s4085/f], Dec. 22, 1987, [101 Stat. 1330–131][/us/stat/101/1330-131]; [Pub. L. 101–508, title IV, § 4118(i)(2)][/us/pl/101/508/s4118/i/2], Nov. 5, 1990, [104 Stat. 1388–70][/us/stat/104/1388-70], provided that:
 
->     “(c) __Studies by Secretary.—__ 
+>     “(c)  __Studies by Secretary__  __.—__ 
 
 >         (1)
 
@@ -8433,7 +8433,7 @@
 
 >         “(2) The Secretary shall conduct a separate study of the advisability of continuing or terminating the exception under section 1886(h)(5)(F)(ii) of the Social Security Act \[[42 U.S.C. 1395ww(h)(5)(F)(ii)][/us/usc/t42/s1395ww/h/5/F/ii]\] for geriatric residencies and fellowships, and of expanding such exception to cover other educational activities, particularly those which are necessary to meet the projected health care needs of Medicare beneficiaries. Such study shall also examine the adequacy of the supply of faculty in the field of geriatrics. The Secretary shall report the results of such study to the committees described in paragraph (1) prior to July 1, 1990.
 
->     “(d) __GAO Study.—__ 
+>     “(d)  __GAO Study__  __.—__ 
 
 >         (1) The Comptroller General shall conduct a study of the variation in the amounts of payments made under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] with respect to patients in different teaching hospital settings and in the amounts of such payments which are made with respect to patients who are treated in teaching and nonteaching hospital settings. Such study shall identify the components of such payments (including payments with respect to inpatient hospital services, physicians’ services, and capital costs, and, in the case of teaching hospital patients, payments with respect to direct and indirect teaching costs) and shall account, to the extent feasible, for any variations in the amounts of the payment components between teaching and nonteaching settings and among different teaching settings.
 
@@ -8441,11 +8441,11 @@
 
 >         “(3) The Comptroller General shall report the results of the study to the committees described in subsection (c)(1) prior to December 31, 1987.
 
->     “(e) __Report on Uniformity of Approved FTE Resident Amounts.—__ 
+>     “(e)  __Report on Uniformity of Approved FTE Resident Amounts__  __.—__ 
 
 >     The Secretary of Health and Human Services shall report to the committees described in subsection (c)(1), not later than December 31, 1987, on whether section 1886(h) of the Social Security Act \[[42 U.S.C. 1395ww(h)][/us/usc/t42/s1395ww/h]\] should be revised to provide for greater uniformity in the approved FTE resident amounts established under paragraph (2) of that section, and, if so, how such revisions should be implemented.
 
->     “(f) __Study on Foreign Medical Graduates.—__ 
+>     “(f)  __Study on Foreign Medical Graduates__  __.—__ 
 
 >     The Secretary of Health and Human Services shall study, and report to the committees described in subsection (c)(1), not later than December 31, 1987, respecting the use of physicians who are foreign medical graduates (within the meaning of section 1886(h)(5)(D) of the Social Security Act \[[42 U.S.C. 1395ww(h)(5)(D)][/us/usc/t42/s1395ww/h/5/D]\]) in the provision of health care services (particularly inpatient and outpatient hospital services) to medicare beneficiaries. Such study shall evaluate—
 
@@ -8459,7 +8459,7 @@
 
 >     “\[(g) Repealed. [Pub. L. 101–508, title IV, § 4118(i)(2)][/us/pl/101/508/s4118/i/2], Nov. 5, 1990, [104 Stat. 1388–70][/us/stat/104/1388-70].\]
 
->     “(h) __Paperwork Reduction.—__ 
+>     “(h)  __Paperwork Reduction__  __.—__ 
 
 >     Chapter 35 of title 44, United States Code, shall not apply to information required for purposes of carrying out this section and the amendments made by this section \[amending this section and [section 1395x of this title][/us/usc/t42/s1395x] and enacting notes set out under this section and [section 1395x of this title][/us/usc/t42/s1395x]\].”
 
@@ -8481,11 +8481,11 @@
 
 [Pub. L. 99–272, title IX, § 9204][/us/pl/99/272/s9204], Apr. 7, 1986, [100 Stat. 177][/us/stat/100/177], as amended by [Pub. L. 99–509, title IX, § 9339(e)][/us/pl/99/509/s9339/e], Oct. 21, 1986, [100 Stat. 2037][/us/stat/100/2037]; [Pub. L. 100–203, title IV, § 4085(c)][/us/pl/100/203/s4085/c], Dec. 22, 1987, [101 Stat. 1330–130][/us/stat/101/1330-130]; [Pub. L. 100–647, title VIII, § 8426][/us/pl/100/647/s8426], Nov. 10, 1988, [102 Stat. 3803][/us/stat/102/3803], provided that:
 
->     “(a) __Moratorium.—__ 
+>     “(a)  __Moratorium__  __.—__ 
 
 >     Prior to January 1, 1990, the Secretary of Health and Human Services shall not conduct any demonstration projects relating to competitive bidding as a method of purchasing laboratory services under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\]. The Secretary may contract for the design of, and site selection for, such demonstration projects.
 
->     “(b) __Cooperation in Study.—__ 
+>     “(b)  __Cooperation in Study__  __.—__ 
 
 >     The Secretary of Health and Human Services and the Comptroller General shall assist representatives of clinical laboratories in the industry’s conduct of a study to determine whether methods exist which are better than competitive bidding for purposes of utilizing competitive market forces in setting payment levels for laboratory services under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\]. If such a study is conducted by the clinical laboratory industry, the Secretary and the Comptroller General shall comment on such study and submit such comments and the study to the Senate Committee on Finance and the House Committees on Ways and Means and Energy and Commerce.”
 
@@ -8493,21 +8493,21 @@
 
 [Pub. L. 99–107, § 5][/us/pl/99/107/s5], Sept. 30, 1985, [99 Stat. 479][/us/stat/99/479], as amended by [Pub. L. 99–155, § 2(d)][/us/pl/99/155/s2/d], Nov. 14, 1985, [99 Stat. 814][/us/stat/99/814]; [Pub. L. 99–181, § 4][/us/pl/99/181/s4], Dec. 13, 1985, [99 Stat. 1172][/us/stat/99/1172]; [Pub. L. 99–189, § 4][/us/pl/99/189/s4], Dec. 18, 1985, [99 Stat. 1184][/us/stat/99/1184]; [Pub. L. 99–201, § 2][/us/pl/99/201/s2], Dec. 23, 1985, [99 Stat. 1665][/us/stat/99/1665]; [Pub. L. 99–272, title IX][/us/pl/99/272], §§ 9101(a), 9301(a), Apr. 7, 1986, [100 Stat. 153][/us/stat/100/153], 184, provided that:
 
->     “(a) __Maintaining Existing Hospital Payment Rates.—__ 
+>     “(a)  __Maintaining Existing Hospital Payment Rates__  __.—__ 
 
 >     Notwithstanding any other provision of law, the amount of payment under section 1886 of the Social Security Act \[[42 U.S.C. 1395ww][/us/usc/t42/s1395ww]\] for inpatient hospital services for discharges occurring (and cost reporting periods beginning) during the extension period (as defined in subsection (c)) shall be determined on the same basis as the amount of payment for such services for a discharge occurring on (or the cost reporting period beginning immediately on or before) September 30, 1985.
 
->     “(b) __Maintaining Existing Payment Rates for Physicians’ Services.—__ 
+>     “(b)  __Maintaining Existing Payment Rates for Physicians’ Services__  __.—__ 
 
 >     Notwithstanding any other provision of law, the amount of payment under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] for physicians’ services which are furnished during the extension period (as defined in subsection (c)) shall be determined on the same basis as the amount of payment for such services furnished on September 30, 1985, and the 15-month period, referred to in section 1842(j)(1) of such Act \[[42 U.S.C. 1395u(j)(1)][/us/usc/t42/s1395u/j/1]\], shall be deemed to include the extension period.
 
 >     “(c) __Extension Period Defined.—__ 
 
->         “(1) __Hospital payments.—__ 
+>         “(1)  __Hospital payments__  __.—__ 
 
 >         For purposes of subsection (a), the term ‘extension period’ means the period beginning on October 1, 1985, and ending on April 30, 1986.
 
->         “(2) __Physician payments.—__ 
+>         “(2)  __Physician payments__  __.—__ 
 
 >         For purposes of subsection (b), the term ‘extension period’ means the period beginning on October 1, 1985, and ending on April 30, 1986.”
 

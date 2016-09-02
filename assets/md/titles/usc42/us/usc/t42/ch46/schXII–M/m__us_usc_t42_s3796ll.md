@@ -123,7 +123,7 @@
 
 [Pub. L. 105–181, § 2][/us/pl/105/181/s2], June 16, 1998, [112 Stat. 512][/us/stat/112/512], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -139,7 +139,7 @@
 
 >         “(6) the Executive Committee for Indian Country Law Enforcement Improvements reports that violent crime in Indian country has risen sharply, despite a decrease in the national crime rate, and has concluded that there is a ‘public safety crisis in Indian country’.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of this Act \[see Short Title of 1998 Amendments note set out under [section 3711 of this title][/us/usc/t42/s3711]\] is to save lives of law enforcement officers by helping State, local, and tribal law enforcement agencies provide officers with armor vests.”
 

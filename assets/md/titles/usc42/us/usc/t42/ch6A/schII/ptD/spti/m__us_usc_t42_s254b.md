@@ -1037,7 +1037,7 @@
 
 >     “(a) __Establishment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall establish, through a negotiated rulemaking process under subchapter 3 \[III\] of chapter 5 of title 5, United States Code, a comprehensive methodology and criteria for designation of—
 
@@ -1045,7 +1045,7 @@
 
 >             “(B) health professions shortage areas under section 332 of the Public Health Service Act ([42 U.S.C. 254e][/us/usc/t42/s254e]).
 
->         “(2) __Factors to consider.—__ 
+>         “(2)  __Factors to consider__  __.—__ 
 
 >         In establishing the methodology and criteria under paragraph (1), the Secretary—
 
@@ -1063,15 +1063,15 @@
 
 >                 “(iv) the extent to which the methodology accurately measures various barriers that confront individuals and population groups in seeking health care services.
 
->     “(b) __Publication of Notice.—__ 
+>     “(b)  __Publication of Notice__  __.—__ 
 
 >     In carrying out the rulemaking process under this subsection, the Secretary shall publish the notice provided for under [section 564(a) of title 5][/us/usc/t5/s564/a], United States Code, by not later than 45 days after the date of the enactment of this Act \[Mar. 23, 2010\].
 
->     “(c) __Target Date for Publication of Rule.—__ 
+>     “(c)  __Target Date for Publication of Rule__  __.—__ 
 
 >     As part of the notice under subsection (b), and for purposes of this subsection, the ‘target date for publication’, as referred to in [section 564(a)(5) of title 5][/us/usc/t5/s564/a/5], United Sates \[sic\] Code, shall be July 1, 2010.
 
->     “(d) __Appointment of Negotiated Rulemaking Committee and Facilitator.—__ 
+>     “(d)  __Appointment of Negotiated Rulemaking Committee and Facilitator__  __.—__ 
 
 >     The Secretary shall provide for—
 
@@ -1079,19 +1079,19 @@
 
 >         “(2) the nomination of a facilitator under section 566(c) of such title 5 by not later than 10 days after the date of appointment of the committee.
 
->     “(e) __Preliminary Committee Report.—__ 
+>     “(e)  __Preliminary Committee Report__  __.—__ 
 
 >     The negotiated rulemaking committee appointed under subsection (d) shall report to the Secretary, by not later than April 1, 2010, regarding the committee’s progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus is likely to occur before one month before the target date for publication of the rule. If the committee reports that the committee has failed to make significant progress toward such consensus or is unlikely to reach such consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this section through such other methods as the Secretary may provide.
 
->     “(f) __Final Committee Report.—__ 
+>     “(f)  __Final Committee Report__  __.—__ 
 
 >     If the committee is not terminated under subsection (e), the rulemaking committee shall submit a report containing a proposed rule by not later than one month before the target publication date.
 
->     “(g) __Interim Final Effect.—__ 
+>     “(g)  __Interim Final Effect__  __.—__ 
 
 >     The Secretary shall publish a rule under this section in the Federal Register by not later than the target publication date. Such rule shall be effective and final immediately on an interim basis, but is subject to change and revision after public notice and opportunity for a period (of not less than 90 days) for public comment. In connection with such rule, the Secretary shall specify the process for the timely review and approval of applications for such designations pursuant to such rules and consistent with this section.
 
->     “(h) __Publication of Rule After Public Comment.—__ 
+>     “(h)  __Publication of Rule After Public Comment__  __.—__ 
 
 >     The Secretary shall provide for consideration of such comments and republication of such rule by not later than 1 year after the target publication date.”
 
@@ -1099,7 +1099,7 @@
 
 [Pub. L. 110–355, § 2(b)(1)][/us/pl/110/355/s2/b/1]–(3), Oct. 8, 2008, [122 Stat. 3988][/us/stat/122/3988], 3989, provided that:
 
->     “(1) __Definitions.—__ 
+>     “(1)  __Definitions__  __.—__ 
 
 >     For purposes of this subsection—
 
@@ -1109,11 +1109,11 @@
 
 >     “(2) __School-based health center study.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Not later than 2 years after the date of enactment of this Act \[Oct. 8, 2008\], the Comptroller General of the United States shall issue a study of the economic costs and benefits of school-based health centers and the impact on the health of students of these centers.
 
->         “(B) __Content.—__ 
+>         “(B)  __Content__  __.—__ 
 
 >         In conducting the study under subparagraph (A), the Comptroller General of the United States shall analyze—
 
@@ -1129,11 +1129,11 @@
 
 >     “(3) __Health care quality study.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Not later than 1 year after the date of enactment of this Act \[Oct. 8, 2008\], the Secretary of Health and Human Services (referred to in this Act \[see Short Title of 2008 Amendment note set out under [section 201 of this title][/us/usc/t42/s201]\] as the ‘Secretary’), acting through the Administrator of the Health Resources and Services Administration, and in collaboration with the Agency for Healthcare Research and Quality, shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that describes agency efforts to expand and accelerate quality improvement activities in community health centers.
 
->         “(B) __Content.—__ 
+>         “(B)  __Content__  __.—__ 
 
 >         The report under subparagraph (A) shall focus on—
 
@@ -1165,7 +1165,7 @@
 
 >             “(vii) partnerships with other Federal agencies and private organizations or networks as appropriate, to enhance health care quality in community health centers.
 
->         “(C) __Dissemination.—__ 
+>         “(C)  __Dissemination__  __.—__ 
 
 >         The Administrator of the Health Resources and Services Administration shall establish a formal mechanism or mechanisms for the ongoing dissemination of agency initiatives, best practices, and other information that may assist health care quality improvement efforts in community health centers.”
 

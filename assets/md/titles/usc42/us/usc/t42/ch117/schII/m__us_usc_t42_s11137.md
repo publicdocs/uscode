@@ -59,11 +59,11 @@
 
 [Pub. L. 100–177, title IV, § 402(d)][/us/pl/100/177/s402/d], formerly § 402(c), Dec. 1, 1987, [101 Stat. 1007][/us/stat/101/1007], as renumbered and amended by [Pub. L. 101–239, title VI, § 6103(e)(6)][/us/pl/101/239/s6103/e/6], Dec. 19, 1989, [103 Stat. 2208][/us/stat/103/2208], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by subsections (a) and (c) \[amending this section and sections 1111 and 1115 of this title\] shall become effective on November 14, 1986.
 
->     “(2) __Fees.—__ 
+>     “(2)  __Fees__  __.—__ 
 
 >     The amendment made by subsection (b) \[amending this section\] shall become effective on the date of enactment of this Act \[Dec. 1, 1987\].”
 

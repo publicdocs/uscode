@@ -19,11 +19,11 @@
 
     (1) __Indian tribe.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The term “Indian tribe” means any Indian tribe, band, nation, or other organized group or community that is recognized as being eligible for special programs and services provided by the United States to Indians because of their status as Indians.
 
-        (B) __Inclusions.—__ 
+        (B)  __Inclusions__  __.—__ 
 
         The term “Indian tribe” includes an Alaska Native village, as defined in or established under the Alaska Native Claims Settlement Act ([43 U.S.C. 1601][/us/usc/t43/s1601] et seq.); and  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The semicolon probably should be a period and the word “and” probably should not appear. </sup></sup> 
 
@@ -53,7 +53,7 @@
 
     (8) The term “release” means any spilling, leaking, emitting, discharging, escaping, leaching, or disposing from an underground storage tank into ground water, surface water or subsurface soils.
 
-    (9) __Trust fund.—__ 
+    (9)  __Trust fund__  __.—__ 
 
     The term “Trust Fund” means the Leaking Underground Storage Tank Trust Fund established by [section 9508 of title 26][/us/usc/t26/s9508].
 
@@ -125,11 +125,11 @@
 
 [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XII, § 1201\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–313, provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this provision:
 
->         “(1) __Aboveground storage tank.—__ 
+>         “(1)  __Aboveground storage tank__  __.—__ 
 
 >         The term ‘aboveground storage tank’ means any tank or combination of tanks (including any connected pipe)—
 
@@ -137,15 +137,15 @@
 
 >             “(B) the volume of which (including the volume of any connected pipe) is located wholly above the surface of the ground.
 
->         “(2) __Administrator.—__ 
+>         “(2)  __Administrator__  __.—__ 
 
 >         The term ‘Administrator’ means the Administrator of the Environmental Protection Agency.
 
->         “(3) __Denali Commission.—__ 
+>         “(3)  __Denali Commission__  __.—__ 
 
 >         The term ‘Denali Commission’ means the commission established by section 303(a) of the Denali Commission Act of 1998 \[[Pub. L. 105–277, div. C, title III][/us/pl/105/277]\] ([42 U.S.C. 3121][/us/usc/t42/s3121] note).
 
->         “(4) __Federal environmental law.—__ 
+>         “(4)  __Federal environmental law__  __.—__ 
 
 >         The term ‘Federal environmental law’ means—
 
@@ -159,29 +159,29 @@
 
 >             “(E) any other Federal law that is applicable to the release into the environment of a regulated substance, as determined by the Administrator.
 
->         “(5) __Native village.—__ 
+>         “(5)  __Native village__  __.—__ 
 
 >         The term ‘Native village’ has the meaning given the term in section 11(b) in [Public Law 92–203][/us/pl/92/203] ([85 Stat. 688][/us/stat/85/688]) \[[43 U.S.C. 1610(b)][/us/usc/t43/s1610/b]\].
 
->         “(6) __Program.—__ 
+>         “(6)  __Program__  __.—__ 
 
 >         The term ‘program’ means the Aboveground Storage Tank Grant Program established by subsection (b)(1).
 
->         “(7) __Regulated substance.—__ 
+>         “(7)  __Regulated substance__  __.—__ 
 
 >         The term ‘regulated substance’ has the meaning given the term in section 9001 of the Solid Waste Disposal Act ([42 U.S.C. 6991][/us/usc/t42/s6991]).
 
->         “(8) __State.—__ 
+>         “(8)  __State__  __.—__ 
 
 >         The term ‘State’ means the State of Alaska.
 
 >     “(b) __Establishment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There is established a grant program to be known as the ‘Aboveground Storage Tank Grant Program’
 
->         “(2) __Grants.—__ 
+>         “(2)  __Grants__  __.—__ 
 
 >         Under the program, the Administrator shall award a grant to—
 
@@ -189,7 +189,7 @@
 
 >             “(B) the Denali Commission.
 
->     “(c) __Use of Grants.—__ 
+>     “(c)  __Use of Grants__  __.—__ 
 
 >     The State or the Denali Commission shall use the funds of a grant under subsection (b) to repair, upgrade, or replace one or more aboveground storage tanks that—
 
@@ -219,7 +219,7 @@
 
 >             “(C) that receives payments from the Federal Government under chapter 69 of title 31, United States Code (commonly known as ‘payments in lieu of taxes’).
 
->     “(d) __Reports.—__ 
+>     “(d)  __Reports__  __.—__ 
 
 >     Not later than 1 year after the date on which the State or the Denali Commission receives a grant under subsection (c), and annually thereafter, the State or the Denali Commission, as the case may be, shall submit a report describing each project completed with grant funds and any projects planned for the following year, to—
 
@@ -233,7 +233,7 @@
 
 >         “(5) the Committee on Appropriations of the Senate.
 
->     “(e) __Authorization of Appropriations.—__ 
+>     “(e)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this Act \[probably means this section\], to remain available until expended—
 

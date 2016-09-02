@@ -31,7 +31,7 @@
 
         (2) __Fluid milk.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Lunches served by schools participating in the school lunch program under this chapter—
 
@@ -43,19 +43,19 @@
 
             (B) __Substitutes.—__ 
 
-                (i) __Standards for substitution.—__ 
+                (i)  __Standards for substitution__  __.—__ 
 
                 A school may substitute for the fluid milk provided under subparagraph (A), a nondairy beverage that is nutritionally equivalent to fluid milk and meets nutritional standards established by the Secretary (which shall, among other requirements to be determined by the Secretary, include fortification of calcium, protein, vitamin A, and vitamin D to levels found in cow’s milk) for students who cannot consume fluid milk because of a medical or other special dietary need other than a disability described in subparagraph (A)(iii).
 
-                (ii) __Notice.—__ 
+                (ii)  __Notice__  __.—__ 
 
                 The substitutions may be made if the school notifies the State agency that the school is implementing a variation allowed under this subparagraph, and if the substitution is requested by written statement of a medical authority or by a student’s parent or legal guardian that identifies the medical or other special dietary need that restricts the student’s diet, except that the school shall not be required to provide beverages other than beverages the school has identified as acceptable substitutes.
 
-                (iii) __Excess expenses borne by school food authority.—__ 
+                (iii)  __Excess expenses borne by school food authority__  __.—__ 
 
                 Expenses incurred in providing substitutions under this subparagraph that are in excess of expenses covered by reimbursements under this chapter shall be paid by the school food authority.
 
-            (C) __Restrictions on sale of milk prohibited.—__ 
+            (C)  __Restrictions on sale of milk prohibited__  __.—__ 
 
             A school that participates in the school lunch program under this chapter shall not directly or indirectly restrict the sale or marketing of fluid milk products by the school (or by a person approved by the school) at any time or any place—
 
@@ -67,15 +67,15 @@
 
         (4) __Provision of information.—__ 
 
-            (A) __Guidance.—__ 
+            (A)  __Guidance__  __.—__ 
 
             Prior to the beginning of the school year beginning July 2004, the Secretary shall issue guidance to States and school food authorities to increase the consumption of foods and food ingredients that are recommended for increased serving consumption in the most recent Dietary Guidelines for Americans published under [section 5341 of title 7][/us/usc/t7/s5341].
 
-            (B) __Rules.—__ 
+            (B)  __Rules__  __.—__ 
 
             Not later than 2 years after June 30, 2004, the Secretary shall promulgate rules, based on the most recent Dietary Guidelines for Americans, that reflect specific recommendations, expressed in serving recommendations, for increased consumption of foods and food ingredients offered in school nutrition programs under this chapter and the Child Nutrition Act of 1966 ([42 U.S.C. 1771][/us/usc/t42/s1771] et seq.).
 
-            (C) __Procurement and processing of food service products and commodities.—__ 
+            (C)  __Procurement and processing of food service products and commodities__  __.—__ 
 
             The Secretary shall—
 
@@ -91,7 +91,7 @@
 
                 (iii) to the maximum extent practicable, in purchasing and processing commodities for use in school nutrition programs under this chapter and the Child Nutrition Act of 1966 ([42 U.S.C. 1771][/us/usc/t42/s1771] et seq.), purchase the widest variety of healthful foods that reflect the most recent Dietary Guidelines for Americans.
 
-        (5) __Water.—__ 
+        (5)  __Water__  __.—__ 
 
         Schools participating in the school lunch program under this chapter shall make available to children free of charge, as nutritionally appropriate, potable water for consumption in the place where meals are served during meal service.
 
@@ -117,17 +117,17 @@
 
             (B) __Applications and descriptive material.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Applications for free and reduced price lunches, in such form as the Secretary may prescribe or approve, and any descriptive material, shall be distributed to the parents or guardians of children in attendance at the school, and shall contain only the family size income levels for reduced price meal eligibility with the explanation that households with incomes less than or equal to these values would be eligible for free or reduced price lunches.
 
-                (ii) __Income eligibility guidelines.—__ 
+                (ii)  __Income eligibility guidelines__  __.—__ 
 
                 Forms and descriptive material distributed in accordance with clause (i) may not contain the income eligibility guidelines for free lunches.
 
                 (iii) __Contents of descriptive material.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     Descriptive material distributed in accordance with clause (i) shall contain a notification that—
 
@@ -135,7 +135,7 @@
 
                         (bb) documentation may be requested for verification of eligibility for free or reduced price meals.
 
-                    (II) __Programs.—__ 
+                    (II)  __Programs__  __.—__ 
 
                     The programs referred to in subclause (I)(aa) are—
 
@@ -149,17 +149,17 @@
 
         (3) __Household applications.—__ 
 
-            (A) __Definition of household application.—__ 
+            (A)  __Definition of household application__  __.—__ 
 
             In this paragraph, the term “household application” means an application for a child of a household to receive free or reduced price school lunches under this chapter, or free or reduced price school breakfasts under the Child Nutrition Act of 1966 ([42 U.S.C. 1771][/us/usc/t42/s1771] et seq.), for which an eligibility determination is made other than under paragraph (4) or (5).
 
             (B) __Eligibility determination.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 An eligibility determination shall be made on the basis of a complete household application executed by an adult member of the household or in accordance with guidance issued by the Secretary.
 
-                (ii) __Electronic signatures and applications.—__ 
+                (ii)  __Electronic signatures and applications__  __.—__ 
 
                 A household application may be executed using an electronic signature if—
 
@@ -169,21 +169,21 @@
 
             (C) __Children in household.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The household application shall identify the names of each child in the household for whom meal benefits are requested.
 
-                (ii) __Separate applications.—__ 
+                (ii)  __Separate applications__  __.—__ 
 
                 A State educational agency or local educational agency may not request a separate application for each child in the household that attends schools under the same local educational agency.
 
             (D) __Verification of sample.—__ 
 
-                (i) __Definitions.—__ 
+                (i)  __Definitions__  __.—__ 
 
                 In this subparagraph:
 
-                    (I) __Error prone application.—__ 
+                    (I)  __Error prone application__  __.—__ 
 
                     The term “error prone application” means an approved household application that—
 
@@ -191,15 +191,15 @@
 
                         (bb) in lieu of the criteria established under item (aa), meets criteria established by the Secretary.
 
-                    (II) __Non-response rate.—__ 
+                    (II)  __Non-response rate__  __.—__ 
 
                     The term “non-response rate” means (in accordance with guidelines established by the Secretary) the percentage of approved household applications for which verification information has not been obtained by a local educational agency after attempted verification under subparagraphs (F) and (G).
 
-                (ii) __Verification of sample.—__ 
+                (ii)  __Verification of sample__  __.—__ 
 
                 Each school year, a local educational agency shall verify eligibility of the children in a sample of household applications approved for the school year by the local educational agency, as determined by the Secretary in accordance with this subsection.
 
-                (iii) __Sample size.—__ 
+                (iii)  __Sample size__  __.—__ 
 
                 Except as otherwise provided in this paragraph, the sample for a local educational agency for a school year shall equal the lesser of—
 
@@ -209,17 +209,17 @@
 
                 (iv) __Alternative sample size.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     If the conditions described in subclause (IV) are met, the verification sample size for a local educational agency shall be the sample size described in subclause (II) or (III), as determined by the local educational agency.
 
-                    (II) __3,000/3 percent option.—__ 
+                    (II) __3,000/3__  __percent option__  __.—__ 
 
                     The sample size described in this subclause shall be the lesser of 3,000, or 3 percent of, applications selected at random from applications approved by the local educational agency for the school year, as of October 1 of the school year.
 
                     (III) __1,000/1 percent plus option.—__ 
 
-                        (aa) __In general.—__ 
+                        (aa)  __In general__  __.—__ 
 
                         The sample size described in this subclause shall be the sum of—
 
@@ -227,7 +227,7 @@
 
                             (BB) the lesser of 500, or ½ of 1 percent of, applications approved by the local educational agency for the school year, as of October 1 of the school year, that provide a case number (in lieu of income information) showing participation in a program described in item (bb) selected from those approved applications that provide a case number (in lieu of income information) verifying the participation.
 
-                        (bb) __Programs.—__ 
+                        (bb)  __Programs__  __.—__ 
 
                         The programs described in this item are—
 
@@ -237,7 +237,7 @@
 
                             (CC) a State program funded under the program of block grants to States for temporary assistance for needy families established under part A of title IV of the Social Security Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.) that the Secretary determines complies with standards established by the Secretary that ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995.
 
-                    (IV) __Conditions.—__ 
+                    (IV)  __Conditions__  __.—__ 
 
                     The conditions referred to in subclause (I) shall be met for a local educational agency for a school year if—
 
@@ -251,7 +251,7 @@
 
                             (BB) in the case of the school year beginning July 2005, the local educational agency attempts to verify all approved household applications selected for verification through use of public agency records from at least 2 of the programs or sources of information described in subparagraph (F)(i).
 
-                (v) __Additional selected applications.—__ 
+                (v)  __Additional selected applications__  __.—__ 
 
                 A sample for a local educational agency for a school year under clauses (iii) and (iv)(III)(AA) shall include the number of additional randomly selected approved household applications that are required to comply with the sample size requirements in those clauses.
 
@@ -259,19 +259,19 @@
 
                 (i) __Review for accuracy.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     Prior to conducting any other verification activity for approved household applications selected for verification, the local educational agency shall ensure that the initial eligibility determination for each approved household application is reviewed for accuracy by an individual other than the individual making the initial eligibility determination, unless otherwise determined by the Secretary.
 
-                    (II) __Waiver.—__ 
+                    (II)  __Waiver__  __.—__ 
 
                     The requirements of subclause (I) shall be waived for a local educational agency if the local educational agency is using a technology-based solution that demonstrates a high level of accuracy, to the satisfaction of the Secretary, in processing an initial eligibility determination in accordance with the income eligibility guidelines of the school lunch program.
 
-                (ii) __Correct eligibility determination.—__ 
+                (ii)  __Correct eligibility determination__  __.—__ 
 
                 If the review indicates that the initial eligibility determination is correct, the local educational agency shall verify the approved household application.
 
-                (iii) __Incorrect eligibility determination.—__ 
+                (iii)  __Incorrect eligibility determination__  __.—__ 
 
                 If the review indicates that the initial eligibility determination is incorrect, the local educational agency shall (as determined by the Secretary)—
 
@@ -285,7 +285,7 @@
 
             (F) __Direct verification.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Subject to clauses (ii) and (iii), to verify eligibility for free or reduced price meals for approved household applications selected for verification, the local educational agency may (in accordance with criteria established by the Secretary) first obtain and use income and program participation information from a public agency administering—
 
@@ -299,7 +299,7 @@
 
                     (V) a similar income-tested program or other source of information, as determined by the Secretary.
 
-                (ii) __Free meals.—__ 
+                (ii)  __Free meals__  __.—__ 
 
                 Public agency records that may be obtained and used under clause (i) to verify eligibility for free meals for approved household applications selected for verification shall include the most recent available information (other than information reflecting program participation or income before the 180-day period ending on the date of application for free meals) that is relied on to administer—
 
@@ -313,7 +313,7 @@
 
                         (bb) a State that otherwise identifies households that have income that is not more than 133 percent of the official poverty line described in section 1902(l)(2)(A) of that Act ([42 U.S.C. 1396a][/us/usc/t42/s1396a](l)(2)(A)).
 
-                (iii) __Reduced price meals.—__ 
+                (iii)  __Reduced price meals__  __.—__ 
 
                 Public agency records that may be obtained and used under clause (i) to verify eligibility for reduced price meals for approved household applications selected for verification shall include the most recent available information (other than information reflecting program participation or income before the 180-day period ending on the date of application for reduced price meals) that is relied on to administer—
 
@@ -327,7 +327,7 @@
 
                         (bb) a State that otherwise identifies households that have income that is not more than 185 percent of the official poverty line described in section 1902(l)(2)(A) of that Act ([42 U.S.C. 1396a][/us/usc/t42/s1396a](l)(2)(A)).
 
-                (iv) __Evaluation.—__ 
+                (iv)  __Evaluation__  __.—__ 
 
                 Not later than 3 years after June 30, 2004, the Secretary shall complete an evaluation of—
 
@@ -335,13 +335,13 @@
 
                     (II) the feasibility of direct verification by State agencies and local educational agencies.
 
-                (v) __Expanded use of direct verification.—__ 
+                (v)  __Expanded use of direct verification__  __.—__ 
 
                 If the Secretary determines that direct verification significantly decreases the portion of the verification sample that must be verified under subparagraph (G), while ensuring that adequate verification information is obtained, and can be conducted by most State agencies and local educational agencies, the Secretary may require a State agency or local educational agency to implement direct verification through 1 or more of the programs described in clause (i), as determined by the Secretary, unless the State agency or local educational agency demonstrates (under criteria established by the Secretary) that the State agency or local educational agency lacks the capacity to conduct, or is unable to implement, direct verification.
 
             (G) __Household verification.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 If an approved household application is not verified through the use of public agency records, a local educational agency shall provide to the household written notice that—
 
@@ -349,15 +349,15 @@
 
                     (II) the household is required to submit verification information to confirm eligibility for free or reduced price meals.
 
-                (ii) __Phone number.—__ 
+                (ii)  __Phone number__  __.—__ 
 
                 The written notice in clause (i) shall include a toll-free phone number that parents and legal guardians in households selected for verification can call for assistance with the verification process.
 
-                (iii) __Followup activities.—__ 
+                (iii)  __Followup activities__  __.—__ 
 
                 If a household does not respond to a verification request, a local educational agency shall make at least 1 attempt to obtain the necessary verification from the household in accordance with guidelines and regulations promulgated by the Secretary.
 
-                (iv) __Contract authority for school food authorities.—__ 
+                (iv)  __Contract authority for school food authorities__  __.—__ 
 
                 A local educational agency may contract (under standards established by the Secretary) with a third party to assist the local educational agency in carrying out clause (iii).
 
@@ -365,19 +365,19 @@
 
                 (i) __General deadline.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     Subject to subclause (II), not later than November 15 of each school year, a local educational agency shall complete the verification activities required for the school year (including followup activities).
 
-                    (II) __Extension.—__ 
+                    (II)  __Extension__  __.—__ 
 
                     Under criteria established by the Secretary, a State may extend the deadline established under subclause (I) for a school year for a local educational agency to December 15 of the school year.
 
-                (ii) __Eligibility changes.—__ 
+                (ii)  __Eligibility changes__  __.—__ 
 
                 Based on the verification activities, the local educational agency shall make appropriate modifications to the eligibility determinations made for household applications in accordance with criteria established by the Secretary.
 
-            (I) __Local conditions.—__ 
+            (I)  __Local conditions__  __.—__ 
 
             In the case of a natural disaster, civil disorder, strike, or other local condition (as determined by the Secretary), the Secretary may substitute alternatives for—
 
@@ -385,7 +385,7 @@
 
                 (ii) the verification deadline established under subparagraph (H).
 
-            (J) __Individual review.—__ 
+            (J)  __Individual review__  __.—__ 
 
             In accordance with criteria established by the Secretary, the local educational agency may, on individual review—
 
@@ -395,7 +395,7 @@
 
             (K) __Feasibility study.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The Secretary shall conduct a study of the feasibility of using computer technology (including data mining) to reduce—
 
@@ -405,7 +405,7 @@
 
                     (III) errors, waste, fraud, and abuse in other nutrition programs, as determined to be appropriate by the Secretary.
 
-                (ii) __Report.—__ 
+                (ii)  __Report__  __.—__ 
 
                 Not later than 180 days after June 30, 2004, the Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing—
 
@@ -419,19 +419,19 @@
 
         (4) __Direct certification for children in supplemental nutrition assistance program households.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to subparagraph (D), each State agency shall enter into an agreement with the State agency conducting eligibility determinations for the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011][/us/usc/t7/s2011] et seq.).
 
-            (B) __Procedures.—__ 
+            (B)  __Procedures__  __.—__ 
 
             Subject to paragraph (6), the agreement shall establish procedures under which a child who is a member of a household receiving assistance under the supplemental nutrition assistance program shall be certified as eligible for free lunches under this chapter and free breakfasts under the Child Nutrition Act of 1966 ([42 U.S.C. 1771][/us/usc/t42/s1771] et seq.), without further application.
 
-            (C) __Certification.—__ 
+            (C)  __Certification__  __.—__ 
 
             Subject to paragraph (6), under the agreement, the local educational agency conducting eligibility determinations for a school lunch program under this chapter and a school breakfast program under the Child Nutrition Act of 1966 ([42 U.S.C. 1771][/us/usc/t42/s1771] et seq.) shall certify a child who is a member of a household receiving assistance under the supplemental nutrition assistance program as eligible for free lunches under this chapter and free breakfasts under the Child Nutrition Act of 1966 ([42 U.S.C. 1771][/us/usc/t42/s1771] et seq.), without further application.
 
-            (D) __Applicability.—__ 
+            (D)  __Applicability__  __.—__ 
 
             This paragraph applies to—
 
@@ -443,11 +443,11 @@
 
             (E) __Performance awards.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Effective for each of the school years beginning July 1, 2011, July 1, 2012, and July 1, 2013, the Secretary shall offer performance awards to States to encourage the States to ensure that all children eligible for direct certification under this paragraph are certified in accordance with this paragraph.
 
-                (ii) __Requirements.—__ 
+                (ii)  __Requirements__  __.—__ 
 
                 For each school year described in clause (i), the Secretary shall—
 
@@ -461,7 +461,7 @@
 
                         (bb) substantial improvement.
 
-                (iii) __Use of funds.—__ 
+                (iii)  __Use of funds__  __.—__ 
 
                 A State agency that receives a performance award under clause (i)—
 
@@ -471,7 +471,7 @@
 
                 (iv) __Funding.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     On October 1, 2011, and each subsequent October 1 through October 1, 2013, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary—
 
@@ -479,17 +479,17 @@
 
                         (bb) $2,000,000 to carry out clause (ii)(II)(bb).
 
-                    (II) __Receipt and acceptance.—__ 
+                    (II)  __Receipt and acceptance__  __.—__ 
 
                     The Secretary shall be entitled to receive, shall accept, and shall use to carry out this clause the funds transferred under subclause (I), without further appropriation.
 
-                (v) __Payments not subject to judicial review.—__ 
+                (v)  __Payments not subject to judicial review__  __.—__ 
 
                 A determination by the Secretary whether, and in what amount, to make a performance award under this subparagraph shall not be subject to administrative or judicial review.
 
             (F) __Continuous improvement plans.—__ 
 
-                (i) __Definition of required percentage.—__ 
+                (i)  __Definition of required percentage__  __.—__ 
 
                 In this subparagraph, the term “required percentage” means—
 
@@ -499,7 +499,7 @@
 
                     (III) for the school year beginning July 1, 2013, and each school year thereafter, 95 percent.
 
-                (ii) __Requirements.—__ 
+                (ii)  __Requirements__  __.—__ 
 
                 Each school year, the Secretary shall—
 
@@ -511,11 +511,11 @@
 
                 (iii) __Failure to meet performance standard.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     A State that is required to develop and implement a continuous improvement plan under clause (ii)(II) shall be required to submit the continuous improvement plan to the Secretary, for the approval of the Secretary.
 
-                    (II) __Requirements.—__ 
+                    (II)  __Requirements__  __.—__ 
 
                     At a minimum, a continuous improvement plan under subclause (I) shall include—
 
@@ -527,15 +527,15 @@
 
             (G) __Without further application.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 In this paragraph, the term “without further application” means that no action is required by the household of the child.
 
-                (ii) __Clarification.—__ 
+                (ii)  __Clarification__  __.—__ 
 
                 A requirement that a household return a letter notifying the household of eligibility for direct certification or eligibility for free school meals does not meet the requirements of clause (i).
 
-        (5) __Discretionary certification.—__ 
+        (5)  __Discretionary certification__  __.—__ 
 
         Subject to paragraph (6), any local educational agency may certify any child as eligible for free lunches or breakfasts, without further application, by directly communicating with the appropriate State or local agency to obtain documentation of the status of the child as—
 
@@ -555,7 +555,7 @@
 
         (6) __Use or disclosure of information.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The use or disclosure of any information obtained from an application for free or reduced price meals, or from a State or local agency referred to in paragraph (3)(F), (4), or (5), shall be limited to—
 
@@ -587,15 +587,15 @@
 
                 (v) a third party contractor described in paragraph (3)(G)(iv).
 
-            (B) __Limitation on information provided.—__ 
+            (B)  __Limitation on information provided__  __.—__ 
 
             Information provided under clause (ii) or (v) of subparagraph (A) shall be limited to the income eligibility status of the child for whom application for free or reduced price meal benefits is made or for whom eligibility information is provided under paragraph (3)(F), (4), or (5), unless the consent of the parent or guardian of the child for whom application for benefits was made is obtained.
 
-            (C) __Criminal penalty.—__ 
+            (C)  __Criminal penalty__  __.—__ 
 
             A person described in subparagraph (A) who publishes, divulges, discloses, or makes known in any manner, or to any extent not authorized by Federal law (including a regulation), any information obtained under this subsection shall be fined not more than $1,000 or imprisoned not more than 1 year, or both.
 
-            (D) __Requirements for waiver of confidentiality.—__ 
+            (D)  __Requirements for waiver of confidentiality__  __.—__ 
 
             A State that elects to exercise the option described in subparagraph (A)(iv)(I) shall ensure that any local educational agency or school food authority acting in accordance with that option—
 
@@ -607,47 +607,47 @@
 
                     (II) provides each parent or guardian of a child in the household with an opportunity to elect not to have the information disclosed.
 
-            (E) __Use of disclosed information.—__ 
+            (E)  __Use of disclosed information__  __.—__ 
 
             A person to which information is disclosed under subparagraph (A)(iv)(I) shall use or disclose the information only as necessary for the purpose of enrolling children in health programs referred to in subparagraph (A)(iv).
 
         (7) __Free and reduced price policy statement.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             After the initial submission, a local educational agency shall not be required to submit a free and reduced price policy statement to a State educational agency under this chapter unless there is a substantive change in the free and reduced price policy of the local educational agency.
 
-            (B) __Routine change.—__ 
+            (B)  __Routine change__  __.—__ 
 
             A routine change in the policy of a local educational agency (such as an annual adjustment of the income eligibility guidelines for free and reduced price meals) shall not be sufficient cause for requiring the local educational agency to submit a policy statement.
 
         (8) __Communications.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Any communication with a household under this subsection or subsection (d) of this section shall be in an understandable and uniform format and, to the maximum extent practicable, in a language that parents and legal guardians can understand.
 
-            (B) __Electronic availability.—__ 
+            (B)  __Electronic availability__  __.—__ 
 
             In addition to the distribution of applications and descriptive material in paper form as provided for in this paragraph, the applications and material may be made available electronically via the Internet.
 
         (9) __Eligibility for free and reduced price lunches.—__ 
 
-            (A) __Free lunches.—__ 
+            (A)  __Free lunches__  __.—__ 
 
             Any child who is a member of a household whose income, at the time the application is submitted, is at an annual rate which does not exceed the applicable family size income level of the income eligibility guidelines for free lunches, as determined under paragraph (1), shall be served a free lunch.
 
             (B) __Reduced price lunches.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Any child who is a member of a household whose income, at the time the application is submitted, is at an annual rate greater than the applicable family size income level of the income eligibility guidelines for free lunches, as determined under paragraph (1), but less than or equal to the applicable family size income level of the income eligibility guidelines for reduced price lunches, as determined under paragraph (1), shall be served a reduced price lunch.
 
-                (ii) __Maximum price.—__ 
+                (ii)  __Maximum price__  __.—__ 
 
                 The price charged for a reduced price lunch shall not exceed 40 cents.
 
-            (C) __Duration.—__ 
+            (C)  __Duration__  __.—__ 
 
             Except as otherwise specified in paragraph (3)(E), (3)(H)(ii), and [section 1759a(a) of this title][/us/usc/t42/s1759a/a], eligibility for free or reduced price meals for any school year shall remain in effect—
 
@@ -685,13 +685,13 @@
 
             (B) Proof of receipt of supplemental nutrition assistance program benefits or assistance under the State program funded under part A of title IV of the Social Security Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.) that the Secretary determines complies with standards established by the Secretary that ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995, or of enrollment or participation in a Head Start program on the basis described in subparagraph (A)(iii), shall be sufficient to satisfy any verification requirement imposed under this subsection.
 
-        (13) __Exclusion of certain military housing allowances.—__ 
+        (13)  __Exclusion of certain military housing allowances__  __.—__ 
 
         The amount of a basic allowance provided under [section 403 of title 37][/us/usc/t37/s403] on behalf of a member of a uniformed service for housing that is acquired or constructed under subchapter IV of chapter 169 of title 10, or any related provision of law, shall not be considered to be income for the purpose of determining the eligibility of a child who is a member of the household of the member of a uniformed service for free or reduced price lunches under this chapter.
 
         (14) __Combat pay.—__ 
 
-            (A) __Definition of combat pay.—__ 
+            (A)  __Definition of combat pay__  __.—__ 
 
             In this paragraph, the term “combat pay” means any additional payment under chapter 5 of title 37, or otherwise designated by the Secretary to be appropriate for exclusion under this paragraph, that is received by or from a member of the United States Armed Forces deployed to a designated combat zone, if the additional pay—
 
@@ -699,17 +699,17 @@
 
                 (ii) was not received immediately prior to serving in a combat zone.
 
-            (B) __Exclusion.—__ 
+            (B)  __Exclusion__  __.—__ 
 
             Combat pay shall not be considered to be income for the purpose of determining the eligibility for free or reduced price meals of a child who is a member of the household of a member of the United States Armed Forces.
 
         (15) __Direct certification for children receiving medicaid benefits.—__ 
 
-            (A) __Definitions.—__ 
+            (A)  __Definitions__  __.—__ 
 
             In this paragraph:
 
-                (i) __Eligible child.—__ 
+                (i)  __Eligible child__  __.—__ 
 
                 The term “eligible child” means a child—
 
@@ -721,17 +721,17 @@
 
                     (II) who is a member of a household (as that term is defined in section 245.2 of title 7, Code of Federal Regulations (or successor regulations)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Another closing parenthesis probably should appear. </sup></sup>  with a child described in subclause (I).
 
-                (ii) __Medicaid program.—__ 
+                (ii)  __Medicaid program__  __.—__ 
 
                 The term “Medicaid program” means the program of medical assistance established under title XIX of the Social Security Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.).
 
             (B) __Demonstration project.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The Secretary, acting through the Administrator of the Food and Nutrition Service and in cooperation with selected State agencies, shall conduct a demonstration project in selected local educational agencies to determine whether direct certification of eligible children is an effective method of certifying children for free lunches and breakfasts under subsection (b)(1)(A) and section 4(e)(1)(A) of the Child Nutrition Act of 1966 ([42 U.S.C. 1773(e)(1)(A)][/us/usc/t42/s1773/e/1/A]).
 
-                (ii) __Scope of project.—__ 
+                (ii)  __Scope of project__  __.—__ 
 
                 The Secretary shall carry out the demonstration project under this subparagraph—
 
@@ -741,7 +741,7 @@
 
                     (III) for the school year beginning July 1, 2014, and each subsequent school year, in selected local educational agencies that collectively serve 10 percent of students certified for free and reduced price meals nationwide, based on the most recent available data.
 
-                (iii) __Purposes of the project.—__ 
+                (iii)  __Purposes of the project__  __.—__ 
 
                 At a minimum, the purposes of the demonstration project shall be—
 
@@ -751,7 +751,7 @@
 
                     (III) to provide an estimate of the effect on Federal costs and on participation in the school lunch program under this chapter and the school breakfast program established by section 4 of the Child Nutrition Act of 1966 ([42 U.S.C. 1773][/us/usc/t42/s1773]) of direct certification with the Medicaid program.
 
-                (iv) __Cost estimate.—__ 
+                (iv)  __Cost estimate__  __.—__ 
 
                 For each of 2 school years of the demonstration project, the Secretary shall estimate the cost of the direct certification of eligible children for free school meals through data derived from—
 
@@ -763,25 +763,25 @@
 
             (C) __Agreement.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Not later than July 1 of the first school year during which a State agency will participate in the demonstration project, the State agency shall enter into an agreement with the 1 or more State agencies conducting eligibility determinations for the Medicaid program.
 
-                (ii) __Without further application.—__ 
+                (ii)  __Without further application__  __.—__ 
 
                 Subject to paragraph (6), the agreement described in subparagraph (D) shall establish procedures under which an eligible child shall be certified for free lunches under this chapter and free breakfasts under section 4 of the Child Nutrition Act of 1966 ([42 U.S.C. 1773][/us/usc/t42/s1773]), without further application (as defined in paragraph (4)(G)).
 
-            (D) __Certification.—__ 
+            (D)  __Certification__  __.—__ 
 
             For the school year beginning on July 1, 2012, and each subsequent school year, subject to paragraph (6), the local educational agencies participating in the demonstration project shall certify an eligible child as eligible for free lunches under this chapter and free breakfasts under the Child Nutrition Act of 1966 ([42 U.S.C. 1771][/us/usc/t42/s1771] et seq.), without further application (as defined in paragraph (4)(G)).
 
             (E) __Site selection.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 To be eligible to participate in the demonstration project under this subsection, a State agency shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
-                (ii) __Considerations.—__ 
+                (ii)  __Considerations__  __.—__ 
 
                 In selecting States and local educational agencies for participation in the demonstration project, the Secretary may take into consideration such factors as the Secretary considers to be appropriate, which may include—
 
@@ -797,7 +797,7 @@
 
                     (VI) the willingness of the State and local educational agencies to comply with the requirements of the demonstration project.
 
-            (F) __Access to data.—__ 
+            (F)  __Access to data__  __.—__ 
 
             For purposes of conducting the demonstration project under this paragraph, the Secretary shall have access to—
 
@@ -807,21 +807,21 @@
 
             (G) __Report to congress.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Not later than October 1, 2014, the Secretary shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, an interim report that describes the results of the demonstration project required under this paragraph.
 
-                (ii) __Final report.—__ 
+                (ii)  __Final report__  __.—__ 
 
                 Not later than October 1, 2015, the Secretary shall submit a final report to the committees described in clause (i).
 
             (H) __Funding.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 On October 1, 2010, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary to carry out subparagraph (G) $5,000,000, to remain available until expended.
 
-                (ii) __Receipt and acceptance.—__ 
+                (ii)  __Receipt and acceptance__  __.—__ 
 
                 The Secretary shall be entitled to receive, shall accept, and shall use to carry out subparagraph (G) the funds transferred under clause (i), without further appropriation.
 
@@ -861,7 +861,7 @@
 
     (f) __Nutritional requirements__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Schools that are participating in the school lunch program or school breakfast program shall serve lunches and breakfasts that—
 
@@ -885,7 +885,7 @@
 
         (3) __Use of any reasonable approach.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             A school food service authority may use any reasonable approach, within guidelines established by the Secretary in a timely manner, to meet the requirements of this subsection, including—
 
@@ -893,11 +893,11 @@
 
                 (ii) using any of the approaches described in paragraph (3).
 
-            (B) __Nutrient analysis.—__ 
+            (B)  __Nutrient analysis__  __.—__ 
 
             The Secretary may not require a school to conduct or use a nutrient analysis to meet the requirements of this subsection.
 
-        (4) __Waiver of requirement for weighted averages for nutrient analysis.—__ 
+        (4)  __Waiver of requirement for weighted averages for nutrient analysis__  __.—__ 
 
         During the period ending on September 30, 2010, the Secretary shall not require the use of weighted averages for nutrient analysis of menu items and foods offered or served as part of a meal offered or served under the school lunch program under this chapter or the school breakfast program under section 4 of the Child Nutrition Act of 1966 ([42 U.S.C. 1773][/us/usc/t42/s1773]).
 
@@ -1395,15 +1395,15 @@
 
 [Pub. L. 108–265, title V, § 501][/us/pl/108/265/s501], June 30, 2004, [118 Stat. 789][/us/stat/118/789], provided that:
 
->     “(a) __Guidance.—__ 
+>     “(a)  __Guidance__  __.—__ 
 
 >     As soon as practicable after the date of enactment of this Act \[June 30, 2004\], the Secretary of Agriculture shall issue guidance to implement the amendments made by sections 102, 103, 104, 105, 106, 107, 111, 116, 119(c), 119(g), 120, 126(b), 126(c), 201, 203(a)(3), 203(b), 203(c)(5), 203(e)(3), 203(e)(4), 203(e)(5), 203(e)(6), 203(e)(7), 203(e)(10), and 203(h)(1) \[amending this section, sections 1396a, 1759a, 1761, 1766, 1769, 1769c, 1773, 1776, and 1786 of this title, and [section 2020 of Title 7][/us/usc/t7/s2020], Agriculture\].
 
->     “(b) __Interim Final Regulations.—__ 
+>     “(b)  __Interim Final Regulations__  __.—__ 
 
 >     The Secretary may promulgate interim final regulations to implement the amendments described in subsection (a).
 
->     “(c) __Regulations.—__ 
+>     “(c)  __Regulations__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[June 30, 2004\], the Secretary shall promulgate final regulations to implement the amendments described in subsection (a).”
 
@@ -1417,15 +1417,15 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __Review.—__ 
+>         “(1)  __Review__  __.—__ 
 
 >         The Secretary \[of Agriculture\], in conjunction with States and participating local educational agencies, shall examine the current policies and practices of States and local educational agencies regarding extending credit to children to pay the cost to the children of reimbursable school lunches and breakfasts.
 
->         “(2) __Scope.—__ 
+>         “(2)  __Scope__  __.—__ 
 
 >         The examination under paragraph (1) shall include the policies and practices in effect as of the date of enactment of this Act \[Dec. 13, 2010\] relating to providing to children who are without funds a meal other than the reimbursable meals.
 
->         “(3) __Feasibility.—__ 
+>         “(3)  __Feasibility__  __.—__ 
 
 >         In carrying out the examination under paragraph (1), the Secretary shall—
 
@@ -1435,7 +1435,7 @@
 
 >     “(b) __Followup Actions.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Based on the findings and recommendations under subsection (a), the Secretary may—
 
@@ -1445,7 +1445,7 @@
 
 >             “(C) study further the feasibility of recommendations.
 
->         “(2) __Factors for consideration.—__ 
+>         “(2)  __Factors for consideration__  __.—__ 
 
 >         In determining how best to implement recommendations described in subsection (a)(3), the Secretary shall consider such factors as—
 

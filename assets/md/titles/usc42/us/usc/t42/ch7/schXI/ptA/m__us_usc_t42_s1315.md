@@ -247,7 +247,7 @@
 
 [Pub. L. 100–485, title V, § 501][/us/pl/100/485/s501], Oct. 13, 1988, [102 Stat. 2400][/us/stat/102/2400], as amended by [Pub. L. 103–432, title II, § 262][/us/pl/103/432/s262], Oct. 31, 1994, [108 Stat. 4467][/us/stat/108/4467], provided that:
 
->     “(a) __Demonstration Projects To Test the Effect of Early Childhood Development Programs.—__ 
+>     “(a)  __Demonstration Projects To Test the Effect of Early Childhood Development Programs__  __.—__ 
 
 >         (1) In order to test the effect of in-home early childhood development programs and pre-school center-based development programs (emphasizing the use of volunteers and including academic credit for student volunteers) on families receiving aid under State plans approved under section 402 of the Social Security Act \[[42 U.S.C. 602][/us/usc/t42/s602]\] and participating in the job opportunities and basic skills training program under part F of title IV of such Act \[former [42 U.S.C. 681–687][/us/usc/t42/s681–687]\], up to 10 States may undertake and carry out demonstration projects utilizing such development programs to enhance the cognitive skills and linguistic ability of children under the age of 5, to improve the communications skills of such children, and to develop their ability to read, write, and speak the English language effectively. Such projects may include parents along with their eligible children in family-centered education programs that assist children directly in achieving the goals stated in the preceding sentence and also help parents contribute to the proper development and education of their young children. Demonstration projects under this subsection shall meet such conditions and requirements as the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall prescribe, and no such project shall be conducted for a period of more than 3 years.
 
@@ -257,15 +257,15 @@
 
 >         “(4) For grants to States to conduct demonstration projects under this subsection, there are authorized to be appropriated not to exceed $3,000,000 for each of the fiscal years 1995 through 1999.
 
->     “(b) __State Demonstration Projects To Encourage Innovative Education and Training Programs for Children.—__ 
+>     “(b)  __State Demonstration Projects To Encourage Innovative Education and Training Programs for Children__  __.—__ 
 
 >     In order to encourage States to develop innovative education and training programs for children receiving aid under State plans approved under section 402 of the Social Security Act \[[42 U.S.C. 602][/us/usc/t42/s602]\], any State may establish and conduct one or more demonstration projects, targeted to such children, designed to test financial incentives and interdisciplinary approaches to reducing school dropouts, encouraging skill development, and avoiding welfare dependence; and the Secretary may make grants to States to assist in financing such projects. Demonstration projects under this subsection shall meet such conditions and requirements as the Secretary shall prescribe, and no such project shall be conducted for a period of less than one year or more than 5 years.
 
->     “(c) __Demonstrations To Ensure Long Term Family Self-Sufficiency Through Community-Based Services.—__ 
+>     “(c)  __Demonstrations To Ensure Long Term Family Self-Sufficiency Through Community-Based Services__  __.—__ 
 
 >     Any State, using funds made available to it from appropriations made pursuant to subsection (d) in conjunction with its other resources, may conduct demonstrations to test more effective methods of providing coordination and services to ensure long term family self-sufficiency through community-based comprehensive family support services involving a partnership between the State agency administering or supervising the administrating of the State’s plan under section 402 of the Social Security Act \[[42 U.S.C. 602][/us/usc/t42/s602]\] and community-based organizations having experience and demonstrated effectiveness in providing services.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     For the purpose of making grants to States to conduct demonstration projects under this section, there is authorized to be appropriated not to exceed $6,000,000 for each of the fiscal years 1990, 1991, and 1992.”
 
@@ -281,7 +281,7 @@
 
 [Pub. L. 100–485, title V, § 506][/us/pl/100/485/s506], Oct. 13, 1988, [102 Stat. 2405][/us/stat/102/2405], provided that:
 
->     “(a) __Findings and Purpose.—__ 
+>     “(a)  __Findings and Purpose__  __.—__ 
 
 >         (1)
 
@@ -297,11 +297,11 @@
 
 >         “(2) It is the purpose of the demonstration projects conducted under this section to provide programs in which a range of non-academic services (sports, recreation, the arts) and self-image counseling are provided to high-risk teenagers in order to reduce the rates of pregnancy, suicide, substance abuse, and school dropout among such teenagers.
 
->     “(b) __In General.—__ 
+>     “(b)  __In General__  __.—__ 
 
 >     The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall enter into an agreement with each of 4 States submitting applications under this section for the purpose of conducting demonstration projects in accordance with this section to provide counseling and services to certain high-risk teenagers.
 
->     “(c) __Nature of Project.—__ 
+>     “(c)  __Nature of Project__  __.—__ 
 
 >     Under each demonstration project conducted under this section—
 
@@ -331,7 +331,7 @@
 
 >             “(D) is pregnant or is a mother of a child.
 
->     “(d) __Applications; Selection Criteria.—__ 
+>     “(d)  __Applications; Selection Criteria__  __.—__ 
 
 >         (1)
 
@@ -373,23 +373,23 @@
 
 >             “(C) two shall be States with populations of more than 1,000,000 but less than 20,000,000.
 
->     “(e) __Evaluation and Report.—__ 
+>     “(e)  __Evaluation and Report__  __.—__ 
 
 >         (1) Each State conducting a demonstration project under this section shall submit to the Secretary for his approval an evaluation plan that provides for examining the effectiveness of the project in both the home base and peripheral area of the State.
 
 >         “(2) Not later than October 1, 1992, the Secretary shall submit to the Congress a report containing a summary of the evaluations conducted by States pursuant to the plans described in paragraph (1).
 
->     “(f) __Funding.—__ 
+>     “(f)  __Funding__  __.—__ 
 
 >         (1) Three-fifths of the total amount appropriated pursuant to this section for any fiscal year for each State conducting a demonstration project shall be expended by such State for the provision of services and facilities within the State’s designated project home base, and 5 percent of such three-fifths shall be set aside for the conduct of the State’s evaluation as provided for in subsection (e).
 
 >         “(2) Two-fifths of the total amounts appropriated pursuant to this section for any fiscal year for each State conducting a demonstration project shall be expended by such State for the provision of services and facilities within the State’s designated peripheral area, and 5 percent of such two-fifths shall be set aside for the conduct of the State’s evaluation as provided for in subsection (e).
 
->     “(g) __Duration.—__ 
+>     “(g)  __Duration__  __.—__ 
 
 >     A demonstration project conducted under this section shall be commenced not later than September 30, 1989, and shall be conducted for a 3-year period; except that the Secretary may terminate a project before the end of such period if he determines that the State conducting the project is not in substantial compliance with the terms of the agreement entered into with the Secretary under this section.
 
->     “(h) __Authorization of Appropriations.—__ 
+>     “(h)  __Authorization of Appropriations__  __.—__ 
 
 >     For the purpose of funding in equal amounts each State demonstration project conducted under this section, there is authorized to be appropriated not to exceed $1,500,000 for each of the fiscal years 1990, 1991, and 1992.”
 

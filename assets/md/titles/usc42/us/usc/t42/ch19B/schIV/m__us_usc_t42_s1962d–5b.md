@@ -161,15 +161,15 @@
 
 [Pub. L. 110–114, title II, § 2003(f)][/us/pl/110/114/s2003/f], Nov. 8, 2007, [121 Stat. 1070][/us/stat/121/1070], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     A goal of agreements entered into under section 221 of the Flood Control Act of 1970 ([42 U.S.C. 1962d–5b][/us/usc/t42/s1962d–5b]) shall be to further partnership and cooperation, and the agreements shall be referred to as ‘partnership agreements’.
 
->     “(2) __References to cooperation agreements.—__ 
+>     “(2)  __References to cooperation agreements__  __.—__ 
 
 >     Any reference in a law, regulation, document, or other paper of the United States to a ‘cooperation agreement’ or ‘project cooperation agreement’ shall be deemed to be a reference to a ‘partnership agreement’ or a ‘project partnership agreement’, respectively.
 
->     “(3) __References to partnership agreements.—__ 
+>     “(3)  __References to partnership agreements__  __.—__ 
 
 >     Any reference to a ‘partnership agreement’ or ‘project partnership agreement’ in this Act \[see Short Title of 2007 Amendment note set out under [section 2201 of Title 33][/us/usc/t33/s2201], Navigation and Navigable Waters\] (other than this section) shall be deemed to be a reference to a ‘cooperation agreement’ or a ‘project cooperation agreement’, respectively.”
 

@@ -131,7 +131,7 @@
 
         (3) __Full compliance__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Not later than March 1, 2008, the Secretary shall ensure that all provisions of this section, including activities directed to be carried out by the Centers for Disease Control and Prevention and the Food and Drug Administration, are fully implemented and being complied with. Not later than April 30, 2008, the Secretary shall submit to Congress a report that certifies compliance with the preceding sentence and that contains a description of all activities undertaken to achieve such compliance.
 

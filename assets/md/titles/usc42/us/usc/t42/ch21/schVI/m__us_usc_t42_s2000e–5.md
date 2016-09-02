@@ -155,11 +155,11 @@
 
 [Pub. L. 111–2, § 5(a)][/us/pl/111/2/s5/a], (b), Jan. 29, 2009, [123 Stat. 6][/us/stat/123/6], provided that:
 
->     “(a) __Americans With Disabilities Act of 1990.—__ 
+>     “(a)  __Americans With Disabilities Act of__  __1990.—__ 
 
 >     The amendments made by section 3 \[amending this section\] shall apply to claims of discrimination in compensation brought under title I and section 503 of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12111][/us/usc/t42/s12111] et seq., 12203), pursuant to section 107(a) of such Act ([42 U.S.C. 12117(a)][/us/usc/t42/s12117/a]), which adopts the powers, remedies, and procedures set forth in section 706 of the Civil Rights Act of 1964 ([42 U.S.C. 2000e–5][/us/usc/t42/s2000e–5]).
 
->     “(b) __Rehabilitation Act of 1973.—__ 
+>     “(b)  __Rehabilitation Act of__  __1973.—__ 
 
 >     The amendments made by section 3 shall apply to claims of discrimination in compensation brought under sections 501 and 504 of the Rehabilitation Act of 1973 ([29 U.S.C. 791][/us/usc/t29/s791], 794), pursuant to—
 

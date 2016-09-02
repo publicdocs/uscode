@@ -175,13 +175,13 @@
 
 [Pub. L. 103–252, title I, § 120][/us/pl/103/252/s120], May 18, 1994, [108 Stat. 648][/us/stat/108/648], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Secretary of Health and Human Services shall conduct a study regarding the benefits available to individuals employed by Head Start agencies under the Head Start Act ([42 U.S.C. 9831][/us/usc/t42/s9831] et seq.).
 
 >     “(b) __Report.—__ 
 
->         “(1) __Preparation.—__ 
+>         “(1)  __Preparation__  __.—__ 
 
 >         The Secretary shall prepare a report, containing the results of the study, that—
 
@@ -191,7 +191,7 @@
 
 >             “(C) addresses the feasibility of participation by such individuals in the Federal Employees’ Retirement System under chapter 84 of title 5, United States Code.
 
->         “(2) __Submission.—__ 
+>         “(2)  __Submission__  __.—__ 
 
 >         The Secretary shall submit the report to the appropriate committees of Congress.”
 

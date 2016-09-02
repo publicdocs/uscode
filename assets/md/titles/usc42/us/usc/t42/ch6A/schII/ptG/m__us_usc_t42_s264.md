@@ -73,11 +73,11 @@
 
 [Pub. L. 110–392, title I, § 121][/us/pl/110/392/s121], Oct. 13, 2008, [122 Stat. 4200][/us/stat/122/4200], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of the Comprehensive Tuberculosis Elimination Act of 2008 \[Oct. 13, 2008\], the Secretary of Health and Human Services shall prepare and submit to the appropriate committees of Congress a report that evaluates and provides recommendations on changes needed to Federal and State public health authorities to address current disease containment challenges such as isolation and quarantine.
 
->     “(b) __Contents of Evaluation.—__ 
+>     “(b)  __Contents of Evaluation__  __.—__ 
 
 >     The report described in subsection (a) shall include—
 
@@ -87,7 +87,7 @@
 
 >         “(3) specific legislative recommendations for changes to Federal laws, if any.
 
->     “(c) __Update of Quarantine Regulations.—__ 
+>     “(c)  __Update of Quarantine Regulations__  __.—__ 
 
 >     Not later than 240 days after the date of enactment of this Act \[Oct. 13, 2008\], the Secretary of Health and Human Services shall promulgate regulations to update the current interstate and foreign quarantine regulations found in parts 70 and 71 of title 42, Code of Federal Regulations.”
 

@@ -51,7 +51,7 @@
 
 [Pub. L. 110–53, title XX, § 2034][/us/pl/110/53/s2034], Aug. 3, 2007, [121 Stat. 517][/us/stat/121/517], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds the following:
 
@@ -61,21 +61,21 @@
 
 >         “(3) The Secretary of State has launched an initiative to try to address the differences between the United States and many of its allies regarding the treatment of detainees.
 
->     “(b) __Sense of Congress.—__ 
+>     “(b)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that the Secretary, acting through the Legal Adviser of the Department of State, should continue to build on the Secretary’s efforts to engage United States allies to develop a common coalition approach, in compliance with Common Article 3 of the Geneva Conventions and other applicable legal principles, toward the detention and humane treatment of individuals detained during Operation Iraqi Freedom, Operation Enduring Freedom, or in connection with United States counterterrorist operations.
 
 >     “(c) __Reporting to Congress.—__ 
 
->         “(1) __Briefings.—__ 
+>         “(1)  __Briefings__  __.—__ 
 
 >         The Secretary of State shall keep the appropriate congressional committees fully and currently informed of the progress of any discussions between the United States and its allies regarding the development of the common coalition approach described in subsection (b).
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Aug. 3, 2007\], the Secretary of State, in consultation with the Attorney General and the Secretary of Defense, shall submit to the appropriate congressional committees a report on any progress towards developing the common coalition approach described in subsection (b).
 
->     “(d) __Definition.—__ 
+>     “(d)  __Definition__  __.—__ 
 
 >     In this section, the term ‘appropriate congressional committees’ means—
 

@@ -377,11 +377,11 @@
 
 [Pub. L. 104–208, div. C, title V, § 577][/us/pl/104/208/s577], Sept. 30, 1996, [110 Stat. 3009–688][/us/stat/110/3009-688], provided that:
 
->     “(a) __Issuance.—__ 
+>     “(a)  __Issuance__  __.—__ 
 
 >     Not later than the 60 days after the date of enactment of this Act \[Sept. 30, 1996\], the Secretary of Housing and Urban Development shall issue any regulations necessary to implement the amendments made by this part \[probably means this subtitle, subtitle E (§§ 571–577) of title V of div. C of [Pub. L. 104–208][/us/pl/104/208], see Short Title of 1996 Amendment note above\]. Such regulations shall be issued in the form of an interim final rule, which shall take effect upon issuance and shall not be subject to the provisions of [section 533 of title 5][/us/usc/t5/s533], United States Code, regarding notice or opportunity for comment.
 
->     “(b) __Failure To Issue.—__ 
+>     “(b)  __Failure To Issue__  __.—__ 
 
 >     If the Secretary fails to issue the regulations required under subsection (a) before the date specified in that subsection, the regulations relating to restrictions on assistance to noncitizens, contained in the final rule issued by the Secretary of Housing and Urban Development in RIN–2501–AA63 (Docket No. R–95–1409; FR–2383–F–050), published in the Federal Register on March 20, 1995 (Vol. 60, No. 53; pp. 14824–14861), shall not apply after that date.”
 

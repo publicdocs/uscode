@@ -83,7 +83,7 @@
 
 [Pub. L. 105–276, title V, § 503][/us/pl/105/276/s503], Oct. 21, 1998, [112 Stat. 2521][/us/stat/112/2521], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The amendments under this title \[see Tables for classification\] are made on the date of the enactment of this Act \[Oct. 21, 1998\], but this title shall take effect, and the amendments made by this title shall apply beginning upon, October 1, 1999, except—
 
@@ -93,23 +93,23 @@
 
 >         The Secretary may, by notice, implement any provision of this title or any amendment made by this title before such date, except to the extent that such provision or amendment specifically provides otherwise.
 
->     “(b) __Savings Provision.—__ 
+>     “(b)  __Savings Provision__  __.—__ 
 
 >     Notwithstanding any amendment under this title that is made (in accordance with subsection (a)) on the date of the enactment of this Act \[Oct. 21, 1998\] but applies beginning on October 1, 1999, the provisions of law amended by such amendment, as such provisions were in effect immediately before the making of such amendment, shall continue to apply during the period beginning on the date of the enactment of this Act and ending upon October 1, 1999, unless otherwise specifically provided by this title.
 
->     “(c) __Technical Recommendations.—__ 
+>     “(c)  __Technical Recommendations__  __.—__ 
 
 >     Not later than 9 months after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking and Financial Services \[now Committee on Financial Services\] of the House of Representatives, recommended technical and conforming legislative changes necessary to carry out this title and the amendments made by this title.
 
->     “(d) __List of Obsolete Documents.—__ 
+>     “(d)  __List of Obsolete Documents__  __.—__ 
 
 >     Not later than October 1, 1999, the Secretary of Housing and Urban Development shall cause to be published in the Federal Register a list of all rules, regulations, and orders (including all handbooks, notices, and related requirements) pertaining to public housing or section 8 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\] tenant-based programs issued or promulgated under the United States Housing Act of 1937 \[[42 U.S.C. 1437][/us/usc/t42/s1437] et seq.\] before the date of the enactment of this Act \[Oct. 21, 1998\] that are or will be obsolete because of the enactment of this Act or are otherwise obsolete.
 
->     “(e) __Protection of Certain Regulations.—__ 
+>     “(e)  __Protection of Certain Regulations__  __.—__ 
 
 >     No provision of this title may be construed to repeal the regulations of the Secretary regarding tenant participation and tenant opportunities in public housing (24 C.F.R. 964).
 
->     “(g)    \[(f) __\] Effective Date.—__ 
+>     “(g)    \[(f) __\]__  __Effective Date__  __.—__ 
 
 >         This section shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].”
 
@@ -181,11 +181,11 @@
 
 [Pub. L. 102–550, title I, § 103(b)][/us/pl/102/550/s103/b], Oct. 28, 1992, [106 Stat. 3684][/us/stat/106/3684], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     In accordance with section 201(b)(2) of the United States Housing Act of 1937 (\[former\] [42 U.S.C. 1437aa(b)(2)][/us/usc/t42/s1437aa/b/2]), the provisions of sections 572, 573, and 574 of the Cranston-Gonzalez National Affordable Housing Act \[[Pub. L. 101–625][/us/pl/101/625], amending this section and sections 1437a, 1437b to 1437d, 1437f, 1437g, 1437i, 1437j, 1437l, 1437n, 1437p, 1437r, 1437s, and 1437aa to 1437dd of this title, repealing section 1437o of this title, and enacting provisions set out as notes under [section 1437a of this title][/us/usc/t42/s1437a]\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian Housing Authority.
 
->     “(2) __Effective date.—__ 
+>     “(2)  __Effective date__  __.—__ 
 
 >     Paragraph (1) shall take effect as if such provision were enacted upon the date of the enactment of the Cranston-Gonzalez National Affordable Housing Act \[Nov. 28, 1990\].”
 
@@ -237,7 +237,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 105–276, title V, § 502][/us/pl/105/276/s502], Oct. 21, 1998, [112 Stat. 2520][/us/stat/112/2520], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -261,7 +261,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >             “(D) rewards employment and economic self-sufficiency of public housing residents.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purpose of this title \[see Tables for classification\] is to promote homes that are affordable to low-income families in safe and healthy environments, and thereby contribute to the supply of affordable housing, by—
 
@@ -293,7 +293,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 105–276, title V, § 581][/us/pl/105/276/s581], Oct. 21, 1998, [112 Stat. 2643][/us/stat/112/2643], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Oct. 21, 1998\], and annually thereafter, the Secretary shall submit a report to the Congress on—
 
@@ -307,7 +307,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(2) the effectiveness of the rent policies established by this Act and the amendments made by this Act on the employment status and earned income of public housing residents.
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     This section shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].”
 
@@ -315,15 +315,15 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 105–276, title V, § 584][/us/pl/105/276/s584], Oct. 21, 1998, [112 Stat. 2645][/us/stat/112/2645], provided that:
 
->     “(a) __Purchase of American-Made Equipment and Products.—__ 
+>     “(a)  __Purchase of American-Made Equipment and Products__  __.—__ 
 
 >     It is the sense of the Congress that, to the greatest extent practicable, all equipment and products purchased with funds made available in this Act \[[Pub. L. 105–276][/us/pl/105/276], see Tables for classification\] should be American made.
 
->     “(b) __Notice Requirement.—__ 
+>     “(b)  __Notice Requirement__  __.—__ 
 
 >     In providing financial assistance to, or entering into any contract with, any entity using funds made available in this Act, the head of each Federal agency, to the greatest extent practicable, shall provide to such entity a notice describing the statement made in subsection (a) by the Congress.
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     This section shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].”
 
@@ -331,11 +331,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 105–276, title V, § 585][/us/pl/105/276/s585], Oct. 21, 1998, [112 Stat. 2645][/us/stat/112/2645], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct a study that provides an objective and independent accounting and analysis of the full cost to the Federal Government, public housing agencies, State and local governments, and other entities, per assisted household, of the Federal assisted housing programs, taking into account the qualitative differences among Federal assisted housing programs in accordance with applicable standards of the Department of Housing and Urban Development.
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     The study under this section shall—
 
@@ -343,11 +343,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(2) measure and evaluate qualitative differences among Federal assisted housing programs in accordance with applicable standards of the Department of Housing and Urban Development.
 
->     “(c) __Prohibition of Recommendations.—__ 
+>     “(c)  __Prohibition of Recommendations__  __.—__ 
 
 >     In conducting the study under this section and reporting under subsection (e), the Comptroller General may not make any recommendations regarding Federal housing policy.
 
->     “(d) __Federal Assisted Housing Programs.—__ 
+>     “(d)  __Federal Assisted Housing Programs__  __.—__ 
 
 >     For purposes of this section, the term ‘Federal assisted housing programs’ means—
 
@@ -373,11 +373,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(11) any other program for housing assistance administered by the Secretary of Housing and Urban Development or the Secretary of Agriculture, under which occupancy in the housing assisted or housing assistance provided is based on income, as the Comptroller General may determine.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     Not later than 12 months after the date of the enactment of this Act \[Oct. 21, 1998\], the Comptroller General shall submit to the Congress a final report which shall contain the results of the study under this section, including the analysis and estimates required under subsection (b).
 
->     “(f) __Effective Date.—__ 
+>     “(f)  __Effective Date__  __.—__ 
 
 >     This section shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].”
 

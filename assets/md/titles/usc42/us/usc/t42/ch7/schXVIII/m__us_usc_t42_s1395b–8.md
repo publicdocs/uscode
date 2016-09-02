@@ -253,11 +253,11 @@
 
 >     “(a) __Establishment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to the succeeding provisions of this section, the Secretary \[of Health and Human Services\] shall establish demonstration projects (in this section referred to as ‘demonstration projects’) under which the Secretary shall evaluate methods that improve the quality of care provided to individuals with chronic conditions and that reduce expenditures that would otherwise be made under the medicare program on behalf of such individuals for such chronic conditions, such methods to include permitting those beneficiaries to direct their own health care needs and services.
 
->         “(2) __Individuals with chronic conditions defined.—__ 
+>         “(2)  __Individuals with chronic conditions defined__  __.—__ 
 
 >         In this section, the term ‘individuals with chronic conditions’ means an individual entitled to benefits under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\], and enrolled under part B of such title \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\], but who is not enrolled under part C of such title \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\] who is diagnosed as having one or more chronic conditions (as defined by the Secretary), such as diabetes.
 
@@ -265,33 +265,33 @@
 
 >         “(1) __Evaluation before implementation of project.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In establishing the demonstration projects under this section, the Secretary shall evaluate best practices employed by group health plans and practices under State plans for medical assistance under the medicaid program under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], as well as best practices in the private sector or other areas, of methods that permit patients to self-direct the provision of personal care services. The Secretary shall evaluate such practices for a 1-year period and, based on such evaluation, shall design the demonstration project.
 
->             “(B) __Requirement for estimate of budget neutral costs.—__ 
+>             “(B)  __Requirement for estimate of budget neutral costs__  __.—__ 
 
 >             As part of the evaluation under subparagraph (A), the Secretary shall evaluate the costs of furnishing care under the projects. The Secretary may not implement the demonstration projects under this section unless the Secretary determines that the costs of providing care to individuals with chronic conditions under the project will not exceed the costs, in the aggregate, of furnishing care to such individuals under title XVIII of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], that would otherwise be paid without regard to the demonstration projects for the period of the project.
 
->         “(2) __Scope of services.—__ 
+>         “(2)  __Scope of services__  __.—__ 
 
 >         The Secretary shall determine the appropriate scope of personal care services that would apply under the demonstration projects.
 
->     “(c) __Voluntary Participation.—__ 
+>     “(c)  __Voluntary Participation__  __.—__ 
 
 >     Participation of providers of services and suppliers, and of individuals with chronic conditions, in the demonstration projects shall be voluntary.
 
->     “(d) __Demonstration Projects Sites.—__ 
+>     “(d)  __Demonstration Projects Sites__  __.—__ 
 
 >     Not later than 2 years after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary shall conduct a demonstration project in at least one area that the Secretary determines has a population of individuals entitled to benefits under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\], and enrolled under part B of such title \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\], with a rate of incidence of diabetes that significantly exceeds the national average rate of all areas.
 
 >     “(e) __Evaluation and Report.—__ 
 
->         “(1) __Evaluations.—__ 
+>         “(1)  __Evaluations__  __.—__ 
 
 >         The Secretary shall conduct evaluations of the clinical and cost effectiveness of the demonstration projects.
 
->         “(2) __Reports.—__ 
+>         “(2)  __Reports__  __.—__ 
 
 >         Not later than 2 years after the commencement of the demonstration projects, and biannually thereafter, the Secretary shall submit to Congress a report on the evaluation, and shall include in the report the following:
 
@@ -301,11 +301,11 @@
 
 >             “(C) Such recommendations regarding the extension, expansion, or termination of the projects as the Secretary determines appropriate.
 
->     “(f) __Waiver Authority.—__ 
+>     “(f)  __Waiver Authority__  __.—__ 
 
 >     The Secretary shall waive compliance with the requirements of title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.) to such extent and for such period as the Secretary determines is necessary to conduct demonstration projects.
 
->     “(g) __Authorization of Appropriations.—__ 
+>     “(g)  __Authorization of Appropriations__  __.—__ 
 
 >         (1) Payments for the costs of carrying out the demonstration project under this section shall be made from the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act ([42 U.S.C. 1395t][/us/usc/t42/s1395t]).
 
@@ -347,11 +347,11 @@
 
 [Pub. L. 108–173, title VII, § 723][/us/pl/108/173/s723], Dec. 8, 2003, [117 Stat. 2348][/us/stat/117/2348], provided that:
 
->     “(a) __Development of Plan.—__ 
+>     “(a)  __Development of Plan__  __.—__ 
 
 >     Not later than 6 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall develop a plan to improve quality of care and reduce the cost of care for chronically ill medicare beneficiaries.
 
->     “(b) __Plan Requirements.—__ 
+>     “(b)  __Plan Requirements__  __.—__ 
 
 >     The plan will utilize existing data and identify data gaps, develop research initiatives, and propose intervention demonstration programs to provide better health care for chronically ill medicare beneficiaries. The plan shall—
 
@@ -363,15 +363,15 @@
 
 >         “(4) develop a research agenda using such data.
 
->     “(c) __Consultation.—__ 
+>     “(c)  __Consultation__  __.—__ 
 
 >     In developing the plan under this section, the Secretary shall consult with experts in the fields of care for the chronically ill (including clinicians).
 
->     “(d) __Implementation.—__ 
+>     “(d)  __Implementation__  __.—__ 
 
 >     Not later than 2 years after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary shall implement the plan developed under this section. The Secretary may contract with appropriate entities to implement such plan.
 
->     “(e) __Authorization of Appropriations.—__ 
+>     “(e)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to the Secretary such sums as may be necessary in fiscal years 2004 and 2005 to carry out this section.”
 

@@ -327,15 +327,15 @@
 
 [Pub. L. 108–173, title IX, § 934(b)][/us/pl/108/173/s934/b], Dec. 8, 2003, [117 Stat. 2407][/us/stat/117/2407], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, the amendment made by subsection (a) \[amending this section\] shall take effect 1 year after the date of the enactment of this Act \[Dec. 8, 2003\].
 
->     “(2) __Deadline for promulgation of certain regulations.—__ 
+>     “(2)  __Deadline for promulgation of certain regulations__  __.—__ 
 
 >     The Secretary \[of Health and Human Services\] shall first issue regulations under section 1874A(h) of the Social Security Act \[[42 U.S.C. 1395kk–1(h)][/us/usc/t42/s1395kk–1/h]\], as added by subsection (a), by not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\].
 
->     “(3) __Application of standard protocols for random prepayment review.—__ 
+>     “(3)  __Application of standard protocols for random prepayment review__  __.—__ 
 
 >     Section 1874A(h)(1)(B) of the Social Security Act \[[42 U.S.C. 1395kk–1(h)(1)(B)][/us/usc/t42/s1395kk–1/h/1/B]\], as added by subsection (a), shall apply to random prepayment reviews conducted on or after such date (not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\]) as the Secretary shall specify.”
 
@@ -345,29 +345,29 @@
 
 >     “(1) __Effective date.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section and amending sections 1395h and 1395u of this title\] shall take effect on October 1, 2005, and the Secretary \[of Health and Human Services\] is authorized to take such steps before such date as may be necessary to implement such amendments on a timely basis.
 
->         “(B) __Construction for current contracts.—__ 
+>         “(B)  __Construction for current contracts__  __.—__ 
 
 >         Such amendments shall not apply to contracts in effect before the date specified under subparagraph (A) that continue to retain the terms and conditions in effect on such date (except as otherwise provided under this Act \[see Tables for classification\], other than under this section) until such date as the contract is let out for competitive bidding under such amendments.
 
->         “(C) __Deadline for competitive bidding.—__ 
+>         “(C)  __Deadline for competitive bidding__  __.—__ 
 
 >         The Secretary shall provide for the letting by competitive bidding of all contracts for functions of medicare administrative contractors for annual contract periods that begin on or after October 1, 2011.
 
 >     “(2) __General transition rules.—__ 
 
->         “(A) __Authority to continue to enter into new agreements and contracts and waiver of provider nomination provisions during transition.—__ 
+>         “(A)  __Authority to continue to enter into new agreements and contracts and waiver of provider nomination provisions during transition__  __.—__ 
 
 >         Prior to October 1, 2005, the Secretary may, consistent with subparagraph (B), continue to enter into agreements under section 1816 and contracts under section 1842 of the Social Security Act ([42 U.S.C. 1395h][/us/usc/t42/s1395h], 1395u). The Secretary may enter into new agreements under section 1816 prior to October 1, 2005, without regard to any of the provider nomination provisions of such section.
 
->         “(B) __Appropriate transition.—__ 
+>         “(B)  __Appropriate transition__  __.—__ 
 
 >         The Secretary shall take such steps as are necessary to provide for an appropriate transition from agreements under section 1816 and contracts under section 1842 of the Social Security Act ([42 U.S.C. 1395h][/us/usc/t42/s1395h], 1395u) to contracts under section 1874A \[[42 U.S.C. 1395kk–1][/us/usc/t42/s1395kk–1]\], as added by subsection (a)(1).
 
->     “(3) __Authorizing continuation of mip functions under current contracts and agreements and under transition contracts.—__ 
+>     “(3)  __Authorizing continuation of mip functions under current contracts and agreements and under transition contracts__  __.—__ 
 
 >     Notwithstanding the amendments made by this section \[enacting this section and amending sections 1395h and 1395u of this title\], the provisions contained in the exception in section 1893(d)(2) of the Social Security Act ([42 U.S.C. 1395ddd(d)(2)][/us/usc/t42/s1395ddd/d/2]) shall continue to apply during the period that begins on the date of the enactment of this Act \[Dec. 8, 2003\] and ends on October 1, 2011, and any reference in such provisions to an agreement or contract shall be deemed to include a contract under section 1874A of such Act \[[42 U.S.C. 1395kk–1][/us/usc/t42/s1395kk–1]\], as inserted by subsection (a)(1), that continues the activities referred to in such provisions.”
 
@@ -405,11 +405,11 @@
 
 [Pub. L. 108–173, title IX, § 911(g)][/us/pl/108/173/s911/g], Dec. 8, 2003, [117 Stat. 2386][/us/stat/117/2386], provided that:
 
->     “(1) __Plan for implementation.—__ 
+>     “(1)  __Plan for implementation__  __.—__ 
 
 >     By not later than October 1, 2004, the Secretary \[of Health and Human Services\] shall submit a report to Congress and the Comptroller General of the United States that describes the plan for implementation of the amendments made by this section \[enacting this section and amending sections 1395h and 1395u of this title\]. The Comptroller General shall conduct an evaluation of such plan and shall submit to Congress, not later than 6 months after the date the report is received, a report on such evaluation and shall include in such report such recommendations as the Comptroller General deems appropriate.
 
->     “(2) __Status of implementation.—__ 
+>     “(2)  __Status of implementation__  __.—__ 
 
 >     The Secretary shall submit a report to Congress not later than October 1, 2008, that describes the status of implementation of such amendments and that includes a description of the following:
 
@@ -425,11 +425,11 @@
 
 [Pub. L. 108–173, title IX, § 912(b)][/us/pl/108/173/s912/b], Dec. 8, 2003, [117 Stat. 2388][/us/stat/117/2388], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The provisions of section 1874A(e)(2) of the Social Security Act \[[42 U.S.C. 1395kk–1(e)(2)][/us/usc/t42/s1395kk–1/e/2]\] (other than subparagraph (B)), as added by subsection (a), shall apply to each fiscal intermediary under section 1816 of the Social Security Act ([42 U.S.C. 1395h][/us/usc/t42/s1395h]) and each carrier under section 1842 of such Act ([42 U.S.C. 1395u][/us/usc/t42/s1395u]) in the same manner as they apply to medicare administrative contractors under such provisions.
 
->     “(2) __Deadline for initial evaluation.—__ 
+>     “(2)  __Deadline for initial evaluation__  __.—__ 
 
 >     In the case of such a fiscal intermediary or carrier with an agreement or contract under such respective section in effect as of the date of the enactment of this Act \[Dec. 8, 2003\], the first evaluation under section 1874A(e)(2)(A) of the Social Security Act \[[42 U.S.C. 1395kk–1(e)(2)(A)][/us/usc/t42/s1395kk–1/e/2/A]\] (as added by subsection (a)), pursuant to paragraph (1), shall be completed (and a report on the evaluation submitted to the Secretary \[of Health and Human Services\]) by not later than 1 year after such date.”
 
@@ -449,7 +449,7 @@
 
 [Pub. L. 108–173, title IX, § 941][/us/pl/108/173/s941], Dec. 8, 2003, [117 Stat. 2418][/us/stat/117/2418], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary \[of Health and Human Services\] may not implement any new or modified documentation guidelines (which for purposes of this section includes clinical examples) for evaluation and management physician services under the \[sic\] title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] on or after the date of the enactment of this Act \[Dec. 8, 2003\] unless the Secretary—
 
@@ -467,11 +467,11 @@
 
 >     “(b) __Pilot Projects to Test Modified or New Evaluation and Management Documentation Guidelines.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         With respect to proposed new or modified documentation guidelines referred to in subsection (a), the Secretary shall conduct under this subsection appropriate and representative pilot projects to test the proposed guidelines.
 
->         “(2) __Length and consultation.—__ 
+>         “(2)  __Length and consultation__  __.—__ 
 
 >         Each pilot project under this subsection shall—
 
@@ -481,7 +481,7 @@
 
 >             “(C) be conducted, in development and throughout the planning and operational stages of the project, in consultation with practicing physicians (including both generalists and specialists).
 
->         “(3) __Range of pilot projects.—__ 
+>         “(3)  __Range of pilot projects__  __.—__ 
 
 >         Of the pilot projects conducted under this subsection with respect to proposed new or modified documentation guidelines—
 
@@ -493,7 +493,7 @@
 
 >             “(D) at least one shall be conducted in a setting where physicians bill under physicians’ services in teaching settings and at least one shall be conducted in a setting other than a teaching setting.
 
->         “(4) __Study of impact.—__ 
+>         “(4)  __Study of impact__  __.—__ 
 
 >         Each pilot project shall examine the effect of the proposed guidelines on—
 
@@ -501,11 +501,11 @@
 
 >             “(B) the costs of physician compliance, including education, implementation, auditing, and monitoring.
 
->         “(5) __Report on pilot projects.—__ 
+>         “(5)  __Report on pilot projects__  __.—__ 
 
 >         Not later than 6 months after the date of completion of pilot projects carried out under this subsection with respect to a proposed guideline described in paragraph (1), the Secretary shall submit to Congress a report on the pilot projects. Each such report shall include a finding by the Secretary of whether the objectives described in subsection (c) will be met in the implementation of such proposed guideline.
 
->     “(c) __Objectives for Evaluation and Management Guidelines.—__ 
+>     “(c)  __Objectives for Evaluation and Management Guidelines__  __.—__ 
 
 >     The objectives for modified evaluation and management documentation guidelines developed by the Secretary shall be to—
 
@@ -519,11 +519,11 @@
 
 >     “(d) __Study of Simpler, Alternative Systems of Documentation for Physician Claims.—__ 
 
->         “(1) __Study.—__ 
+>         “(1)  __Study__  __.—__ 
 
 >         The Secretary shall carry out a study of the matters described in paragraph (2).
 
->         “(2) __Matters described.—__ 
+>         “(2)  __Matters described__  __.—__ 
 
 >         The matters referred to in paragraph (1) are—
 
@@ -531,11 +531,11 @@
 
 >             “(B) consideration of systems other than current coding and documentation requirements for payment for such physician services.
 
->         “(3) __Consultation with practicing physicians.—__ 
+>         “(3)  __Consultation with practicing physicians__  __.—__ 
 
 >         In designing and carrying out the study under paragraph (1), the Secretary shall consult with practicing physicians, including physicians who are part of group practices and including both generalists and specialists.
 
->         “(4) __Application of hipaa uniform coding requirements.—__ 
+>         “(4)  __Application of hipaa uniform coding requirements__  __.—__ 
 
 >         In developing an alternative system under paragraph (2), the Secretary shall consider requirements of administrative simplification under part C of title XI of the Social Security Act \[[42 U.S.C. 1320d][/us/usc/t42/s1320d] et seq.\].
 
@@ -545,11 +545,11 @@
 
 >             “(B) The Medicare Payment Advisory Commission shall conduct an analysis of the results of the study included in the report under subparagraph (A) and shall submit a report on such analysis to Congress.
 
->     “(e) __Study on Appropriate Coding of Certain Extended Office Visits.—__ 
+>     “(e)  __Study on Appropriate Coding of Certain Extended Office Visits__  __.—__ 
 
 >     The Secretary shall conduct a study of the appropriateness of coding in cases of extended office visits in which there is no diagnosis made. Not later than October 1, 2005, the Secretary shall submit a report to Congress on such study and shall include recommendations on how to code appropriately for such visits in a manner that takes into account the amount of time the physician spent with the patient.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     In this section—
 

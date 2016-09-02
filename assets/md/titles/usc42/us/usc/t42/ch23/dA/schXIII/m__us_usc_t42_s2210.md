@@ -659,11 +659,11 @@
 
 [Pub. L. 106–245, § 3(e)(2)][/us/pl/106/245/s3/e/2], July 10, 2000, [114 Stat. 507][/us/stat/114/507], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The Attorney General shall take such action as may be necessary to ensure that the procedures established by the Attorney General under section 6 of the Radiation Exposure Compensation Act \[[Pub. L. 101–426][/us/pl/101/426]\] ([42 U.S.C. 2210][/us/usc/t42/s2210] note) provide that, in addition to any other material that may be used to substantiate employment history for purposes of determining working level months, an individual filing a claim under those procedures may make such a substantiation by means of an affidavit described in subparagraph (B).
 
->     “(B) __Affidavits.—__ 
+>     “(B)  __Affidavits__  __.—__ 
 
 >     An affidavit referred to under subparagraph (A) is an affidavit—
 
@@ -685,7 +685,7 @@
 
 > “SEC. 2. __FINDINGS, PURPOSE, AND APOLOGY.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -699,39 +699,39 @@
 
 >         “(5) the Congress recognizes that the lives and health of uranium miners and of individuals who were exposed to radiation were subjected to increased risk of injury and disease to serve the national security interests of the United States.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     It is the purpose of this Act to establish a procedure to make partial restitution to the individuals described in subsection (a) for the burdens they have borne for the Nation as a whole.
 
->     “(c) __Apology.—__ 
+>     “(c)  __Apology__  __.—__ 
 
 >     The Congress apologizes on behalf of the Nation to the individuals described in subsection (a) and their families for the hardships they have endured.
 
 > “SEC. 3. __TRUST FUND.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established in the Treasury of the United States, a trust fund to be known as the ‘Radiation Exposure Compensation Trust Fund’ (hereinafter in this Act referred to as the ‘Fund’), which shall be administered by the Secretary of the Treasury.
 
->     “(b) __Investment of Amounts in the Fund.—__ 
+>     “(b)  __Investment of Amounts in the Fund__  __.—__ 
 
 >     Amounts in the Fund shall be invested in accordance with [section 9702 of title 31][/us/usc/t31/s9702], United States Code, and any interest on, and proceeds from any such investment shall be credited to and become a part of the Fund.
 
->     “(c) __Availability of the Fund.—__ 
+>     “(c)  __Availability of the Fund__  __.—__ 
 
 >     Amounts in the Fund shall be available only for disbursement by the Attorney General under section 6.
 
->     “(d) __Termination.—__ 
+>     “(d)  __Termination__  __.—__ 
 
 >     The Fund shall terminate 22 years after the date of the enactment of the Radiation Exposure Compensation Act Amendments of 2000 \[July 10, 2000\]. If all of the amounts in the Fund have not been expended by the end of that 22-year period, investments of amounts in the Fund shall be liquidated and receipts thereof deposited in the Fund and all funds remaining in the Fund shall be deposited in the miscellaneous receipts account in the Treasury.
 
 >     “(e) __Appropriation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There are appropriated to the Fund, out of any money in the Treasury not otherwise appropriated, for fiscal year 2002 and each fiscal year thereafter, such sums as may be necessary, not to exceed the applicable maximum amount specified in paragraph (2), to carry out the purposes of the Fund.
 
->         “(2) __Limitation.—__ 
+>         “(2)  __Limitation__  __.—__ 
 
 >         Appropriation of amounts to the Fund pursuant to paragraph (1) is subject to the following maximum amounts:
 
@@ -749,7 +749,7 @@
 
 >         “(1) __Claims relating to leukemia.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             An individual described in this subparagraph shall receive an amount specified in subparagraph (B) if the conditions described in subparagraph (C) are met. An individual referred to in the preceding sentence is an individual who—
 
@@ -769,7 +769,7 @@
 
 >                          “(II) more that \[sic\] 2 years after first exposure to fallout.
 
->             “(B) __Amounts.—__ 
+>             “(B)  __Amounts__  __.—__ 
 
 >             If the conditions described in subparagraph (C) are met, an individual—
 
@@ -777,7 +777,7 @@
 
 >                 “(ii) who is described in subclause (III) of subparagraph (A)(i) shall receive $75,000.
 
->             “(C) __Conditions.—__ 
+>             “(C)  __Conditions__  __.—__ 
 
 >             The conditions described in this subparagraph are as follows:
 
@@ -787,7 +787,7 @@
 
 >                 “(iii) The Attorney General determines, in accordance with section 6, that the claim meets the requirements of this Act.
 
->         “(2) __Claims Relating to Specified Diseases.—__ 
+>         “(2)  __Claims Relating to Specified Diseases__  __.—__ 
 
 >         Any individual who—
 
@@ -803,15 +803,15 @@
 
 >             “(ii) the Attorney General determines, in accordance with section 6, that the claim meets the requirements of this Act.
 
->         “(3) __Conformity with section 6.—__ 
+>         “(3)  __Conformity with section 6__  __.—__ 
 
 >         Payments under this section may be made only in accordance with section 6.
 
->         “(4) __Exclusion.—__ 
+>         “(4)  __Exclusion__  __.—__ 
 
 >         No payment may be made under this section on any claim of the Government of the Marshall Islands, or of any citizen or national of the Marshall Islands, that is referred to in Article X, Section 1 of the Agreement Between the Government of the United States and the Government of the Marshall Islands for the Implementation of section 177 of the Compact of Free Association (as approved by the Compact of Free Association Act of 1985 ([Public Law 99–239][/us/pl/99/239]) \[[48 U.S.C. 1901][/us/usc/t48/s1901] et seq., 2001 et seq.\]).
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For purposes of this section, the term—
 
@@ -831,7 +831,7 @@
 
 >     “(a) __Eligibility of Individuals.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         An individual shall receive $100,000 for a claim made under this Act if—
 
@@ -851,7 +851,7 @@
 
 >             “(C) the Attorney General determines, in accordance with section 6, that the claim meets the requirements of this Act.
 
->         “(2) __Inclusion of additional states.—__ 
+>         “(2)  __Inclusion of additional states__  __.—__ 
 
 >         Paragraph (1)(A)(i) shall apply to a State, in addition to the States named under such clause, if—
 
@@ -861,11 +861,11 @@
 
 >             “(C) the Attorney General makes a determination to include such State.
 
->         “(3) __Payment requirement.—__ 
+>         “(3)  __Payment requirement__  __.—__ 
 
 >         Each payment under this section may be made only in accordance with section 6.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
@@ -913,7 +913,7 @@
 
 >         “(1) __Diagnosis alternative to arterial blood gas study.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             For purposes of this Act, the written diagnosis and the accompanying interpretive reports described in subsection (b)(5)(A) shall—
 
@@ -923,11 +923,11 @@
 
 >             “(B) __Certain written diagnoses.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 For purposes of this Act, a written diagnosis made by a physician described under clause (ii) of a nonmalignant pulmonary disease of a claimant that is accompanied by written documentation shall be considered to be conclusive evidence of that disease.
 
->                 “(ii) __Description of physicians.—__ 
+>                 “(ii)  __Description of physicians__  __.—__ 
 
 >                 A physician referred to under clause (i) is a physician who—
 
@@ -939,7 +939,7 @@
 
 >         “(2) __Chest x-rays.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             For purposes of this Act, a chest x-ray and the accompanying interpretive reports described in subsection (b)(5)(B) shall—
 
@@ -949,11 +949,11 @@
 
 >             “(B) __Certain written diagnoses.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 For purposes of this Act, a written diagnosis made by a physician described in clause (ii) of a nonmalignant pulmonary disease of a claimant that is accompanied by written documentation that meets the definition of that term under subsection (b)(5) shall be considered to be conclusive evidence of that disease.
 
->                 “(ii) __Description of physicians.—__ 
+>                 “(ii)  __Description of physicians__  __.—__ 
 
 >                 A physician referred to under clause (i) is a physician who—
 
@@ -969,17 +969,17 @@
 
 > “SEC. 6. __DETERMINATION AND PAYMENT OF CLAIMS.__ 
 
->     “(a) __Establishment of Filing Procedures.—__ 
+>     “(a)  __Establishment of Filing Procedures__  __.—__ 
 
 >     The Attorney General shall establish procedures whereby individuals may submit claims for payments under this Act. In establishing procedures under this subsection, the Attorney General shall take into account and make allowances for the law, tradition, and customs of Indian tribes (as that term is defined in section 5(b)) and members of Indian tribes, to the maximum extent practicable.
 
 >     “(b) __Determination of Claims.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Attorney General shall, in accordance with this subsection, determine whether each claim filed under this Act meets the requirements of this Act. All reasonable doubt with regard to whether a claim meets the requirements of this Act shall be resolved in favor of the claimant.
 
->         “(2) __Consultation.—__ 
+>         “(2)  __Consultation__  __.—__ 
 
 >         The Attorney General shall—
 
@@ -993,11 +993,11 @@
 
 >     “(c) __Payment of Claims.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Attorney General shall pay, from amounts available in the Fund (or, in the case of a payment under section 5, from the Energy Employees Occupational Illness Compensation Fund, pursuant to section 3630(d) of the Energy Employees Occupational Illness Compensation Program Act of 2000 \[[42 U.S.C. 7384u(d)][/us/usc/t42/s7384u/d]\]), claims filed under this Act which the Attorney General determines meet the requirements of this Act.
 
->         “(2) __Offset for certain payments.—__ 
+>         “(2)  __Offset for certain payments__  __.—__ 
 
 >             (A)
 
@@ -1017,13 +1017,13 @@
 
 >                 that is based on injuries incurred by that individual on account of exposure to radiation as a result of onsite participation in a test involving the atmospheric detonation of a nuclear device. The amount of the offset under this subparagraph with respect to payments described in clauses (i) and (ii) shall be the actuarial present value of such payments.
 
->         “(3) __Right of subrogation.—__ 
+>         “(3)  __Right of subrogation__  __.—__ 
 
 >         Upon payment of a claim under this section, the United States Government is subrogated for the amount of the payment to a right or claim that the individual to whom the payment was made may have against any person on account of injuries referred to in paragraph (2).
 
 >         “(4) __Payments in the case of deceased persons.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In the case of an individual who is deceased at the time of payment under this section, such payment may be made only as follows:
 
@@ -1037,11 +1037,11 @@
 
 >                 “(v) If there is no surviving spouse described in clause (i), and if there are no children described in clause (ii), parents described in clause (iii), or grandchildren described in clause (iv), then such payment shall be made in equal shares to the grandparents of the individual who are living at the time of payment.
 
->             “(B) __Individuals who are survivors.—__ 
+>             “(B)  __Individuals who are survivors__  __.—__ 
 
 >             If an individual eligible for payment under section 4 or 5 dies before filing a claim under this Act, a survivor of that individual who may receive payment under subparagraph (A) may file a claim for such payment under this Act.
 
->             “(C) __Definitions.—__ 
+>             “(C)  __Definitions__  __.—__ 
 
 >             For purposes of this paragraph—
 
@@ -1055,27 +1055,27 @@
 
 >                 “(v) a ‘grandparent’ of an individual is a parent of a parent of that individual.
 
->             “(D) __Application of native american law.—__ 
+>             “(D)  __Application of native american law__  __.—__ 
 
 >             In determining those individuals eligible to receive compensation by virtue of marriage, relationship, or survivorship, such determination shall take into consideration and give effect to established law, tradition, and custom of the particular affected Indian tribe.
 
 >     “(d) __Action on Claims.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Attorney General shall complete the determination on each claim filed in accordance with the procedures established under subsection (a) not later than twelve months after the claim is so filed. For purposes of determining when the 12-month period ends, a claim under this Act shall be deemed filed as of the date of its receipt by the Attorney General. In the event of the denial of a claim, the claimant shall be permitted a reasonable period in which to seek administrative review of the denial by the Attorney General. The Attorney General shall make a final determination with respect to any administrative review within 90 days after the receipt of the claimant’s request for such review. In the event the Attorney General fails to render a determination within 12 months after the date of the receipt of such request, the claim shall be deemed awarded as a matter of law and paid.
 
->         “(2) __Additional information.—__ 
+>         “(2)  __Additional information__  __.—__ 
 
 >         The Attorney General may request from any claimant under this Act, or from any individual or entity on behalf of any such claimant, any reasonable additional information or documentation necessary to complete the determination on the claim in accordance with the procedures established under subsection (a).
 
 >         “(3) __Treatment of period associated with request.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The period described in subparagraph (B) shall not apply to the 12-month limitation under paragraph (1).
 
->             “(B) __Period.—__ 
+>             “(B)  __Period__  __.—__ 
 
 >             The period described in this subparagraph is the period—
 
@@ -1083,27 +1083,27 @@
 
 >                 “(ii) ending on the date on which the claimant or individual or entity acting on behalf of that claimant submits that information or documentation or informs the Attorney General that it is not possible to provide that information or that the claimant or individual or entity will not provide that information.
 
->         “(4) __Payment within 6 weeks.—__ 
+>         “(4)  __Payment within 6 weeks__  __.—__ 
 
 >         The Attorney General shall ensure that an approved claim is paid not later than 6 weeks after the date on which such claim is approved.
 
->         “(5) __Native american considerations.—__ 
+>         “(5)  __Native american considerations__  __.—__ 
 
 >         Any procedures under this subsection shall take into consideration and incorporate, to the fullest extent feasible, Native American law, tradition, and custom with respect to the submission and processing of claims by Native Americans.
 
->     “(e) __Payment in Full Settlement of Claims Against the United States.—__ 
+>     “(e)  __Payment in Full Settlement of Claims Against the United States__  __.—__ 
 
 >     Except as otherwise authorized by law, the acceptance of payment by an individual under this section shall be in full satisfaction of all claims of or on behalf of that individual against the United States, or against any person with respect to that person’s performance of a contract with the United States, that arise out of exposure to radiation, from atmospheric nuclear testing, in the affected area (as defined in section 4(b)(1)) at any time during the period described in subsection (a)(1), (a)(2)(A), or (a)(2)(B) of section 4, exposure to radiation in a uranium mine, mill, or while employed in the transport of uranium ore or vanadium-uranium ore from such mine or mill at any time during the period described in section 5(a), or exposure to radiation as a result of onsite participation in a test involving the atmospheric detonation of a nuclear device.
 
->     “(f) __Administrative Costs Not Paid From the Fund.—__ 
+>     “(f)  __Administrative Costs Not Paid From the Fund__  __.—__ 
 
 >     No costs incurred by the Attorney General in carrying out this section shall be paid from the Fund or set off against, or otherwise deducted from, any payment under this section to any individual.
 
->     “(g) __Termination of Duties of Attorney General.—__ 
+>     “(g)  __Termination of Duties of Attorney General__  __.—__ 
 
 >     The duties of the Attorney General under this section shall cease when the Fund terminates.
 
->     “(h) __Certification of Treatment of Payments Under Other Laws.—__ 
+>     “(h)  __Certification of Treatment of Payments Under Other Laws__  __.—__ 
 
 >     Amounts paid to an individual under this section—
 
@@ -1111,49 +1111,49 @@
 
 >         “(2) shall not be included as income or resources for purposes of determining eligibility to receive benefits described in [section 3803(c)(2)(C) of title 31][/us/usc/t31/s3803/c/2/C], United States Code, or the amount of such benefits.
 
->     “(i) __Use of Existing Resources.—__ 
+>     “(i)  __Use of Existing Resources__  __.—__ 
 
 >     The Attorney General should use funds and resources available to the Attorney General to carry out his or her functions under this Act.
 
->     “(j) __Regulatory Authority.—__ 
+>     “(j)  __Regulatory Authority__  __.—__ 
 
 >     The Attorney General may issue such regulations as are necessary to carry out this Act.
 
->     “(k) __Issuance of Regulations, Guidelines, and Procedures.—__ 
+>     “(k)  __Issuance of Regulations, Guidelines, and Procedures__  __.—__ 
 
 >     Regulations, guidelines, and procedures to carry out this Act shall be issued not later than 180 days after the date of the enactment of this Act \[Oct. 15, 1990\]. Not later than 180 days after the date of enactment of the Radiation Exposure Compensation Act Amendments of 2000 \[July 10, 2000\], the Attorney General shall issue revised regulations to carry out this Act.
 
->     “(l) __Judicial Review.—__ 
+>     “(l)  __Judicial Review__  __.—__ 
 
 >     An individual whose claim for compensation under this Act is denied may seek judicial review solely in a district court of the United States. The court shall review the denial on the administrative record and shall hold unlawful and set aside the denial if it is arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.
 
 > “SEC. 7. __CLAIMS NOT ASSIGNABLE OR TRANSFERABLE; CHOICE OF REMEDIES.__ 
 
->     “(a) __Claims Not Assignable or Transferable.—__ 
+>     “(a)  __Claims Not Assignable or Transferable__  __.—__ 
 
 >     No claim cognizable under this Act shall be assignable or transferable.
 
->     “(b) __Choice of Remedies.—__ 
+>     “(b)  __Choice of Remedies__  __.—__ 
 
 >     No individual may receive more than 1 payment under this Act.
 
 > “SEC. 8. __LIMITATIONS ON CLAIMS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     A claim to which this Act applies shall be barred unless the claim is filed within 22 years after the date of the enactment of the Radiation Exposure Compensation Act Amendments of 2000 \[July 10, 2000\].
 
->     “(b) __Resubmittal of Claims.—__ 
+>     “(b)  __Resubmittal of Claims__  __.—__ 
 
 >     After the date of the enactment of the Radiation Exposure Compensation Act Amendments of 2000 \[July 10, 2000\], any claimant who has been denied compensation under this Act may resubmit a claim for consideration by the Attorney General in accordance with this Act not more than three times. Any resubmittal made before the date of the enactment of the Radiation Exposure Compensation Act Amendments of 2000 shall not be applied to the limitation under the preceding sentence.
 
 > “SEC. 9. __ATTORNEY FEES.__ 
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Notwithstanding any contract, the representative of an individual may not receive, for services rendered in connection with the claim of an individual under this Act, more than that percentage specified in subsection (b) of a payment made under this Act on such claim.
 
->     “(b) __Applicable Percentage Limitations.—__ 
+>     “(b)  __Applicable Percentage Limitations__  __.—__ 
 
 >     The percentage referred to in subsection (a) is—
 
@@ -1167,7 +1167,7 @@
 
 >             “(B) a resubmission of a denied claim.
 
->     “(c) __Penalty.—__ 
+>     “(c)  __Penalty__  __.—__ 
 
 >     Any such representative who violates this section shall be fined not more than $5,000.
 
@@ -1181,11 +1181,11 @@
 
 > “SEC. 12. __REPORT.__ 
 
->     “(a) __Report.—__ 
+>     “(a)  __Report__  __.—__ 
 
 >     The Secretary of Health and Human Services shall submit a report on the incidence of radiation related moderate or severe silicosis and pneumoconiosis in uranium miners employed in the uranium mines that are defined in section 5 and are located off of Indian reservations.
 
->     “(b) __Completion.—__ 
+>     “(b)  __Completion__  __.—__ 
 
 >     Such report shall be completed not later than September 30, 1992.
 
@@ -1199,33 +1199,33 @@
 
 >     “(a) __Rulemaking Proceeding.—__ 
 
->         “(1) __Purpose.—__ 
+>         “(1)  __Purpose__  __.—__ 
 
 >         The Nuclear Regulatory Commission (hereafter in this section referred to as the ‘Commission’) shall initiate a proceeding, in accordance with the requirements of this section, to determine whether to enter into indemnity agreements under section 170 of the Atomic Energy Act of 1954 ([42 U.S.C. 2210][/us/usc/t42/s2210]) with persons licensed by the Commission under section 81, 104(a), or 104(c) of the Atomic Energy Act of 1954 ([42 U.S.C. 2111][/us/usc/t42/s2111], 2134(a), and 2134(c)) or by a State under section 274(b) of the Atomic Energy Act of 1954 ([42 U.S.C. 2021(b)][/us/usc/t42/s2021/b]) for the manufacture, production, possession, or use of radioisotopes or radiopharmaceuticals for medical purposes (hereafter in this section referred to as ‘radiopharmaceutical licensees’).
 
->         “(2) __Final determination.—__ 
+>         “(2)  __Final determination__  __.—__ 
 
 >         A final determination with respect to whether radiopharmaceutical licensees, or any class of such licensees, shall be indemnified pursuant to section 170 of the Atomic Energy Act of 1954 ([42 U.S.C. 2210][/us/usc/t42/s2210]) and if so, the terms and conditions of such indemnification, shall be rendered by the Commission within 18 months of the date of the enactment of this Act \[Aug. 20, 1988\].
 
 >     “(b) __Negotiated Rulemaking.—__ 
 
->         “(1) __Administrative conference guidelines.—__ 
+>         “(1)  __Administrative conference guidelines__  __.—__ 
 
 >         For the purpose of making the determination required under subsection (a), the Commission shall, to the extent consistent with the provisions of this Act \[see Short Title of 1988 Amendment note set out under [section 2011 of this title][/us/usc/t42/s2011]\], conduct a negotiated rulemaking in accordance with the guidance provided by the Administrative Conference of the United States in Recommendation 82–4, ‘Procedures for Negotiating Proposed Regulations’ (42 Fed. Reg. 30708, July 15, 1982).
 
->         “(2) __Designation of convener.—__ 
+>         “(2)  __Designation of convener__  __.—__ 
 
 >         Within 30 days of the date of the enactment of this Act \[Aug. 20, 1988\], the Commission shall designate an individual or individuals recommended by the Administrative Conference of the United States to serve as a convener for such negotiations.
 
->         “(3) __Submission of recommendations of the convener.—__ 
+>         “(3)  __Submission of recommendations of the convener__  __.—__ 
 
 >         The convener shall, not later than 7 months after the date of the enactment of this Act, submit to the Commission recommendations for a proposed rule regarding whether the Commission should enter into indemnity agreements under section 170 of the Atomic Energy Act of 1954 ([42 U.S.C. 2210][/us/usc/t42/s2210]) with radiopharmaceutical licensees and, if so, the terms and conditions of such indemnification. If the convener recommends that such indemnity be provided for radiopharmaceutical licensees, the proposed rule submitted by the convener shall set forth the procedures for the execution of indemnification agreements with radiopharmaceutical licensees.
 
->         “(4) __Publication of recommendations and proposed rule.—__ 
+>         “(4)  __Publication of recommendations and proposed rule__  __.—__ 
 
 >         If the convener recommends that such indemnity be provided for radiopharmaceutical licensees, the Commission shall publish the recommendations of the convener submitted under paragraph (3) as a notice of proposed rulemaking within 30 days of the submission of such recommendations under such paragraph.
 
->         “(5) __Administrative procedures.—__ 
+>         “(5)  __Administrative procedures__  __.—__ 
 
 >         To the extent consistent with the provisions of this Act, the Commission shall conduct the proceeding required under subsection (a) in accordance with [section 553 of title 5][/us/usc/t5/s553], United States Code.”
 

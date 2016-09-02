@@ -161,11 +161,11 @@
 
 [Pub. L. 103–82, title V, § 502][/us/pl/103/82/s502], Sept. 21, 1993, [107 Stat. 923][/us/stat/107/923], provided that:
 
->     “(a) __Purchase of American-Made Equipment and Products.—__ 
+>     “(a)  __Purchase of American-Made Equipment and Products__  __.—__ 
 
 >     In the case of any equipment or product that may be authorized to be purchased with financial assistance provided under this Act \[see Tables for classification\] (including the amendments made by this Act), it is the sense of the Congress that entities receiving such assistance should, in expending the assistance, purchase only American-made equipment and products.
 
->     “(b) __Notice to Recipients of Assistance.—__ 
+>     “(b)  __Notice to Recipients of Assistance__  __.—__ 
 
 >     In providing financial assistance under this Act (including the amendments made by this Act), the Secretary of Education shall provide to each recipient of the assistance a notice describing the statement made in subsection (a) by the Congress.”
 

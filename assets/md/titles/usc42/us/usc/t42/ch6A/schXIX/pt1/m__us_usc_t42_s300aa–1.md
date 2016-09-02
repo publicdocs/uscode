@@ -35,11 +35,11 @@
 
 [Pub. L. 99–660, title III, § 322][/us/pl/99/660/s322], Nov. 14, 1986, [100 Stat. 3783][/us/stat/100/3783], as amended by [Pub. L. 101–239, title VI, § 6602][/us/pl/101/239/s6602], Dec. 19, 1989, [103 Stat. 2293][/us/stat/103/2293]; [Pub. L. 101–502, § 5(g)(1)][/us/pl/101/502/s5/g/1], Nov. 3, 1990, [104 Stat. 1288][/us/stat/104/1288], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), if any provision \[of\] part A or B of subtitle 2 of title XXI of the Public Health Service Act \[[42 U.S.C. 300aa–10][/us/usc/t42/s300aa–10] et seq., 300aa–21 et seq.\], as added by section 311(a), or the application of such a provision to any person or circumstance is held invalid by reason of a violation of the Constitution, both such parts shall be considered invalid.
 
->     “(b) __Special Rule.—__ 
+>     “(b)  __Special Rule__  __.—__ 
 
 >     If any amendment made by section 6601 of the Omnibus Budget Reconciliation Act of 1989 \[[Pub. L. 101–239][/us/pl/101/239], amending sections 300aa–10 to 300aa–17, 300aa–21, 300aa–23, 300aa–26, and 300aa–27 of this title\] to title XXI of the Public Health Service Act \[[42 U.S.C. 300aa–1][/us/usc/t42/s300aa–1] et seq.\] or the application of such a provision to any person or circumstance is held invalid by reason of the Constitution, subsection (a) shall not apply and such title XXI of the Public Health Service Act without such amendment shall continue in effect.”
 
@@ -83,11 +83,11 @@
 
 >             “(C) The Institute of Medicine or other group or association conducting the study required by paragraph (1) shall conduct such studies in consultation with the Advisory Commission on Childhood Vaccines established under section 2119 of the Public Health Service Act \[[42 U.S.C. 300aa–19][/us/usc/t42/s300aa–19]\].
 
->     “(b) __Revision of Guidelines.—__ 
+>     “(b)  __Revision of Guidelines__  __.—__ 
 
 >     The Secretary shall periodically, but at least every 3 years after establishing guidelines under subsection (a), review and revise such guidelines after notice and opportunity for public hearing and consideration of all relevant medical and scientific information, unless the Secretary finds that on the basis of all relevant information no revision of such guidelines is warranted and publishes such finding in the Federal Register.
 
->     “(c) __Factors Affecting Guidelines.—__ 
+>     “(c)  __Factors Affecting Guidelines__  __.—__ 
 
 >     Guidelines under subsection (a) shall take into account—
 
@@ -97,7 +97,7 @@
 
 >         “(3) the risks to the public of not having such vaccines administered.
 
->     “(d) __Dissemination.—__ 
+>     “(d)  __Dissemination__  __.—__ 
 
 >     The Secretary shall widely disseminate the guidelines established under subsection (a) to—
 

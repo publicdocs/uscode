@@ -79,11 +79,11 @@
 
 [Pub. L. 106–569, title VI, § 613][/us/pl/106/569/s613], Dec. 27, 2000, [114 Stat. 3012][/us/stat/114/3012], provided that:
 
->     “(a) __Standards and Regulations.—__ 
+>     “(a)  __Standards and Regulations__  __.—__ 
 
 >     The Federal manufactured home construction and safety standards (as such term is defined in section 603 of the National Manufactured Housing Construction and Safety Standards Act of 1974 \[[42 U.S.C. 5402][/us/usc/t42/s5402]\]) and all regulations pertaining thereto in effect on the day before the date of the enactment of this Act \[Dec. 27, 2000\] shall apply until the effective date of a standard or regulation modifying or superseding the existing standard or regulation that is promulgated under subsection (a) or (b) of section 604 of the National Manufactured Housing Construction and Safety Standards Act of 1974, as amended by this title \[[42 U.S.C. 5403(a)][/us/usc/t42/s5403/a], (b)\].
 
->     “(b) __Contracts.—__ 
+>     “(b)  __Contracts__  __.—__ 
 
 >     Any contract awarded pursuant to a Request for Proposal issued before the date of the enactment of this Act \[Dec. 27, 2000\] shall remain in effect until the earlier of—
 

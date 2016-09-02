@@ -31,11 +31,11 @@
 
 [Pub. L. 100–509, § 8][/us/pl/100/509/s8], Oct. 20, 1988, [102 Stat. 2546][/us/stat/102/2546], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The amendments made by this Act \[amending sections 10802, 10804 to 10806, 10821, 10822, and 10825 of this title\], other than the amendment made by section 7(f) \[amending this section\], shall become effective on the date of the enactment of this Act \[Oct. 20, 1988\].
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     The amendment made by section 7(f) \[amending this section\] shall become effective on October 1, 1988.”
 

@@ -229,7 +229,7 @@
 
 [Pub. L. 106–525, title V, § 501][/us/pl/106/525/s501], Nov. 22, 2000, [114 Stat. 2510][/us/stat/114/2510], provided that:
 
->     “(a) __Public Awareness on Health Disparities.—__ 
+>     “(a)  __Public Awareness on Health Disparities__  __.—__ 
 
 >     The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall conduct a national campaign to inform the public and health care professionals about health disparities in minority and other underserved populations by disseminating information and materials available on specific diseases affecting these populations and programs and activities to address these disparities. The campaign shall—
 
@@ -237,7 +237,7 @@
 
 >         “(2) include an evaluation component to assess the impact of the national campaign in raising awareness of health disparities and information on available resources.
 
->     “(b) __Dissemination of Information on Health Disparities.—__ 
+>     “(b)  __Dissemination of Information on Health Disparities__  __.—__ 
 
 >     The Secretary shall develop and implement a plan for the dissemination of information and findings with respect to health disparities under titles I, II, III, and IV of this Act \[see Tables for classification\]. The plan shall—
 

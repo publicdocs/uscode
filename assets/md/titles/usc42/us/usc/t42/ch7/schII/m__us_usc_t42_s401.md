@@ -515,25 +515,25 @@
 
 [Pub. L. 103–296, title I, § 110][/us/pl/103/296/s110], Aug. 15, 1994, [108 Stat. 1490][/us/stat/108/1490], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this title, this title \[see Tables for classification\], and the amendments made by such title, shall take effect March 31, 1995.
 
->     “(b) __Transition Rules.—__ 
+>     “(b)  __Transition Rules__  __.—__ 
 
 >     Section 106 \[amending [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, and enacting provisions set out as a note under [section 901 of this title][/us/usc/t42/s901]\] shall take effect on the date of the enactment of this Act \[Aug. 15, 1994\].
 
->     “(c) __Exceptions.—__ 
+>     “(c)  __Exceptions__  __.—__ 
 
 >     The amendments made by section 103 \[amending [section 903 of this title][/us/usc/t42/s903]\], subsections (b)(4) and (c) of section 105 \[enacting provisions set out in a note under [section 901 of this title][/us/usc/t42/s901]\], and subsections (a)(1), (e)(1), (e)(2), (e)(3), and (l)(2) of section 108 \[enacting [section 913 of this title][/us/usc/t42/s913] and amending sections 5312, 5313, and 5315 of Title 5 and [section 11 of Pub. L. 95–452][/us/pl/95/452/s11], Inspector General Act of 1978, set out in the Appendix to Title 5\] shall take effect on the date of the enactment of this Act.”
 
 [Pub. L. 103–296, title III, § 301(c)][/us/pl/103/296/s301/c], Aug. 15, 1994, [108 Stat. 1518][/us/stat/108/1518], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply with respect to obligations issued, and payments made, after 60 days after the date of the enactment of this Act \[Aug. 15, 1994\].
 
->     “(2) __Treatment of outstanding obligations.—__ 
+>     “(2)  __Treatment of outstanding obligations__  __.—__ 
 
 >     Not later than 60 days after the date of the enactment of this Act, the Secretary of the Treasury shall issue to the Federal Old-Age and Survivors Insurance Trust Fund or the Federal Disability Insurance Trust Fund, as applicable, a paper instrument, in the form of a bond, note, or certificate of indebtedness, for each obligation which has been issued to the Trust Fund under section 201(d) of the Social Security Act \[[42 U.S.C. 401(d)][/us/usc/t42/s401/d]\] and which is outstanding as of such date. Each such document shall set forth the principal amount, date of maturity, and interest rate of the obligation, and shall state on its face that the obligation shall be incontestable in the hands of the Trust Fund to which it was issued, that the obligation is supported by the full faith and credit of the United States, and that the United States is pledged to the payment of the obligation with respect to both principal and interest.”
 
@@ -683,17 +683,17 @@
 
 [Pub. L. 107–147, title V, § 501][/us/pl/107/147/s501], Mar. 9, 2002, [116 Stat. 58][/us/stat/116/58], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Nothing in this Act \[see Tables for classification\] (or an amendment made by this Act) shall be construed to alter or amend title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] (or any regulation promulgated under that Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\]).
 
 >     “(b) __Transfers.—__ 
 
->         “(1) __Estimate of secretary.—__ 
+>         “(1)  __Estimate of secretary__  __.—__ 
 
 >         The Secretary of the Treasury shall annually estimate the impact that the enactment of this Act has on the income and balances of the trust funds established under section 201 of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401]).
 
->         “(2) __Transfer of funds.—__ 
+>         “(2)  __Transfer of funds__  __.—__ 
 
 >         If, under paragraph (1), the Secretary of the Treasury estimates that the enactment of this Act has a negative impact on the income and balances of the trust funds established under section 201 of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401]), the Secretary shall transfer, not less frequently than quarterly, from the general revenues of the Federal Government an amount sufficient so as to ensure that the income and balances of such trust funds are not reduced as a result of the enactment of this Act.”
 
@@ -701,17 +701,17 @@
 
 [Pub. L. 107–134, title III, § 301][/us/pl/107/134/s301], Jan. 23, 2002, [115 Stat. 2444][/us/stat/115/2444], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Nothing in this Act \[see Short Title of 2002 Amendment note set out under [section 1 of Title 26][/us/usc/t26/s1], Internal Revenue Code\] (or an amendment made by this Act) shall be construed to alter or amend title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] (or any regulation promulgated under that Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\]).
 
 >     “(b) __Transfers.—__ 
 
->         “(1) __Estimate of secretary.—__ 
+>         “(1)  __Estimate of secretary__  __.—__ 
 
 >         The Secretary of the Treasury shall annually estimate the impact that the enactment of this Act has on the income and balances of the trust funds established under section 201 of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401]).
 
->         “(2) __Transfer of funds.—__ 
+>         “(2)  __Transfer of funds__  __.—__ 
 
 >         If, under paragraph (1), the Secretary of the Treasury estimates that the enactment of this Act has a negative impact on the income and balances of the trust funds established under section 201 of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401]), the Secretary shall transfer, not less frequently than quarterly, from the general revenues of the Federal Government an amount sufficient so as to ensure that the income and balances of such trust funds are not reduced as a result of the enactment of this Act.”
 
@@ -723,11 +723,11 @@
 
 [Pub. L. 104–121, title I, § 103(d)][/us/pl/104/121/s103/d], Mar. 29, 1996, [110 Stat. 850][/us/stat/110/850], as amended by [Pub. L. 104–193, title II, § 211(d)(5)(D)][/us/pl/104/193/s211/d/5/D], Aug. 22, 1996, [110 Stat. 2192][/us/stat/110/2192], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Commissioner of Social Security shall ensure that funds made available for continuing disability reviews (as defined in section 201(g)(1)(A) of the Social Security Act \[[42 U.S.C. 401(g)(1)(A)][/us/usc/t42/s401/g/1/A]\]) are used, to the greatest extent practicable, to maximize the combined savings in the old-age, survivors, and disability insurance, supplemental security income, Medicare, and medicaid programs, except that the amounts appropriated pursuant to the authorization and discretionary spending allowance provisions in section 211(d)(2)(5) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[probably means [section 211(d)(5) of Pub. L. 104–193][/us/pl/104/193/s211/d/5], which amended sections 665e and 901 of Title 2, The Congress, enacted provisions set out as a note under [section 1382c of this title][/us/usc/t42/s1382c], and amended this note\] shall be used only for continuing disability reviews and redeterminations under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\].
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     The Commissioner of Social Security shall provide annually (at the conclusion of each of the fiscal years 1996 through 2002) to the Congress a report on continuing disability reviews which includes—
 
@@ -747,33 +747,33 @@
 
 [Pub. L. 98–21, title I, § 121(e)][/us/pl/98/21/s121/e], Apr. 20, 1983, [97 Stat. 83][/us/stat/97/83], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–66, title XIII, § 13215(c)][/us/pl/103/66/s13215/c], Aug. 10, 1993, [107 Stat. 476][/us/stat/107/476]; [Pub. L. 104–188, title I, § 1703(n)(12)][/us/pl/104/188/s1703/n/12], Aug. 20, 1996, [110 Stat. 1877][/us/stat/110/1877], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >         (A) There are hereby appropriated to each payor fund amounts equivalent to (i) the aggregate increase in tax liabilities under chapter 1 of the Internal Revenue Code of 1986 \[[26 U.S.C. 1][/us/usc/t26/s1] et seq.\] which is attributable to the application of sections 86 and 871(a)(3) of such Code (as added by this section) \[[26 U.S.C. 86][/us/usc/t26/s86], 871(a)(3)\] to payments from such payor fund, less (ii) the amounts equivalent to the aggregate increase in tax liabilities under chapter 1 of the Internal Revenue Code of 1986 which is attributable to the amendments to section 86 of such Code made by section 13215 of the Revenue Reconciliation Act of 1993 \[[Pub. L. 103–66][/us/pl/103/66]\].
 
 >         “(B) There are hereby appropriated to the hospital insurance trust fund amounts equal to the increase in tax liabilities described in subparagraph (A)(ii). Such appropriated amounts shall be transferred from the general fund of the Treasury on the basis of estimates of such tax liabilities made by the Secretary of the Treasury. Transfers shall be made pursuant to a schedule made by the Secretary of the Treasury that takes into account estimated timing of collection of such liabilities.
 
->     “(2) __Transfers.—__ 
+>     “(2)  __Transfers__  __.—__ 
 
 >     The amounts appropriated by paragraph (1)(A) to any payor fund shall be transferred from time to time (but not less frequently than quarterly) from the general fund of the Treasury on the basis of estimates made by the Secretary of the Treasury of the amounts referred to in such paragraph. Any such quarterly payment shall be made on the first day of such quarter and shall take into account social security benefits estimated to be received during such quarter. Proper adjustments shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.
 
->     “(3) __Definitions.—__ 
+>     “(3)  __Definitions__  __.—__ 
 
 >     For purposes of this subsection—
 
->         “(A) __Payor fund.—__ 
+>         “(A)  __Payor fund__  __.—__ 
 
 >         The term ‘payor fund’ means any trust fund or account from which payments of social security benefits are made.
 
->         “(B) __Hospital insurance trust fund.—__ 
+>         “(B)  __Hospital insurance trust fund__  __.—__ 
 
 >         The term ‘hospital insurance trust fund’ means the fund established pursuant to section 1817 of the Social Security Act \[[42 U.S.C. 1395i][/us/usc/t42/s1395i]\].
 
->         “(C) __Social security benefits.—__ 
+>         “(C)  __Social security benefits__  __.—__ 
 
 >         The term ‘social security benefits’ has the meaning given such term by section 86(d)(1) of the Internal Revenue Code of 1986 \[[26 U.S.C. 86(d)(1)][/us/usc/t26/s86/d/1]\].
 
->     “(4) __Reports.—__ 
+>     “(4)  __Reports__  __.—__ 
 
 >     The Secretary of the Treasury shall submit annual reports to the Congress and to the Secretary of Health and Human Services and the Railroad Retirement Board on—
 

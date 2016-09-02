@@ -325,35 +325,35 @@
 
 > “In this Act \[see Short Title of 2002 Amendment note set out under [section 1861 of this title][/us/usc/t42/s1861]\]:
 
->     “(1) __Academic unit.—__ 
+>     “(1)  __Academic unit__  __.—__ 
 
 >     The term ‘academic unit’ means a department, division, institute, school, college, or other subcomponent of an institution of higher education.
 
->     “(2) __Board.—__ 
+>     “(2)  __Board__  __.—__ 
 
 >     The term ‘Board’ means the National Science Board established under section 2 of the National Science Foundation Act of 1950 ([42 U.S.C. 1861][/us/usc/t42/s1861]).
 
->     “(3) __Community college.—__ 
+>     “(3)  __Community college__  __.—__ 
 
 >     The term ‘community college’ has the meaning given such term in section 3301(3) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7011(3)][/us/usc/t20/s7011/3]).
 
->     “(4) __Director.—__ 
+>     “(4)  __Director__  __.—__ 
 
 >     The term ‘Director’ means the Director of the National Science Foundation established under section 2 of the National Science Foundation Act of 1950 ([42 U.S.C. 1861][/us/usc/t42/s1861]).
 
->     “(5) __Elementary school.—__ 
+>     “(5)  __Elementary school__  __.—__ 
 
 >     The term ‘elementary school’ has the meaning given that term by section 9101(18) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801(18)][/us/usc/t20/s7801/18]).
 
->     “(6) __Eligible nonprofit organization.—__ 
+>     “(6)  __Eligible nonprofit organization__  __.—__ 
 
 >     The term ‘eligible nonprofit organization’ means a nonprofit research institute, or a nonprofit professional association, with demonstrated experience and effectiveness in mathematics or science education as determined by the Director.
 
->     “(7) __Foundation.—__ 
+>     “(7)  __Foundation__  __.—__ 
 
 >     The term ‘Foundation’ means the National Science Foundation established under section 2 of the National Science Foundation Act of 1950 ([42 U.S.C. 1861][/us/usc/t42/s1861]).
 
->     “(8) __High-need local educational agency.—__ 
+>     “(8)  __High-need local educational agency__  __.—__ 
 
 >     The term ‘high-need local educational agency’ means a local educational agency that meets one or more of the following criteria:
 
@@ -369,15 +369,15 @@
 
 >         “(C) It has at least one school whose teacher attrition rate has been 15 percent or more over the last three school years.
 
->     “(9) __Institution of higher education.—__ 
+>     “(9)  __Institution of higher education__  __.—__ 
 
 >     The term ‘institution of higher education’ has the meaning given such term in section 101(a) of the Higher Education Act of 1965 ([20 U.S.C. 1001(a)][/us/usc/t20/s1001/a]).
 
->     “(10) __Local educational agency.—__ 
+>     “(10)  __Local educational agency__  __.—__ 
 
 >     The term ‘local educational agency’ has the meaning given such term by section 9101(26) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801(26)][/us/usc/t20/s7801/26]).
 
->     “(11) __Master teacher.—__ 
+>     “(11)  __Master teacher__  __.—__ 
 
 >     The term ‘master teacher’ means a mathematics or science teacher who works to improve the instruction of mathematics or science in kindergarten through grade 12 through—
 
@@ -391,23 +391,23 @@
 
 >         “(E) providing professional development, including for the purposes of training other master teachers, to mathematics and science teachers.
 
->     “(12) __National research facility.—__ 
+>     “(12)  __National research facility__  __.—__ 
 
 >     The term ‘national research facility’ means a research facility funded by the Foundation which is available, subject to appropriate policies allocating access, for use by all scientists and engineers affiliated with research institutions located in the United States.
 
->     “(13) __Secondary school.—__ 
+>     “(13)  __Secondary school__  __.—__ 
 
 >     The term ‘secondary school’ has the meaning given that term by section 9101(38) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801(38)][/us/usc/t20/s7801/38]).
 
->     “(14) __State.—__ 
+>     “(14)  __State__  __.—__ 
 
 >     Except with respect to the Experimental Program to Stimulate Competitive Research, the term ‘State’ means one of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States.
 
->     “(15) __State educational agency.—__ 
+>     “(15)  __State educational agency__  __.—__ 
 
 >     The term ‘State educational agency’ has the meaning given such term by section 9101(41) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801(41)][/us/usc/t20/s7801/41]).
 
->     “(16) __United states.—__ 
+>     “(16)  __United states__  __.—__ 
 
 >     The term ‘United States’ means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.”
 

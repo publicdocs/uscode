@@ -29,47 +29,47 @@
 
         (2) __Monitoring program for unregulated contaminants.—__ 
 
-            (A) __Establishment.—__ 
+            (A)  __Establishment__  __.—__ 
 
             The Administrator shall promulgate regulations establishing the criteria for a monitoring program for unregulated contaminants. The regulations shall require monitoring of drinking water supplied by public water systems and shall vary the frequency and schedule for monitoring requirements for systems based on the number of persons served by the system, the source of supply, and the contaminants likely to be found, ensuring that only a representative sample of systems serving 10,000 persons or fewer are required to monitor.
 
             (B) __Monitoring program for certain unregulated contaminants.—__ 
 
-                (i) __Initial list.—__ 
+                (i)  __Initial list__  __.—__ 
 
                 Not later than 3 years after August 6, 1996, and every 5 years thereafter, the Administrator shall issue a list pursuant to subparagraph (A) of not more than 30 unregulated contaminants to be monitored by public water systems and to be included in the national drinking water occurrence data base maintained pursuant to subsection (g) of this section.
 
-                (ii) __Governors’ petition.—__ 
+                (ii)  __Governors’ petition__  __.—__ 
 
                 The Administrator shall include among the list of contaminants for which monitoring is required under this paragraph each contaminant recommended in a petition signed by the Governor of each of 7 or more States, unless the Administrator determines that the action would prevent the listing of other contaminants of a higher public health concern.
 
             (C) __Monitoring plan for small and medium systems.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Based on the regulations promulgated by the Administrator, each State may develop a representative monitoring plan to assess the occurrence of unregulated contaminants in public water systems that serve a population of 10,000 or fewer in that State. The plan shall require monitoring for systems representative of different sizes, types, and geographic locations in the State.
 
-                (ii) __Grants for small system costs.—__ 
+                (ii)  __Grants for small system costs__  __.—__ 
 
                 From funds reserved under section 300j–12(o) of this title or appropriated under subparagraph (H), the Administrator shall pay the reasonable cost of such testing and laboratory analysis as are necessary to carry out monitoring under the plan.
 
-            (D) __Monitoring results.—__ 
+            (D)  __Monitoring results__  __.—__ 
 
             Each public water system that conducts monitoring of unregulated contaminants pursuant to this paragraph shall provide the results of the monitoring to the primary enforcement authority for the system.
 
-            (E) __Notification.—__ 
+            (E)  __Notification__  __.—__ 
 
             Notification of the availability of the results of monitoring programs required under paragraph (2)(A) shall be given to the persons served by the system.
 
-            (F) __Waiver of monitoring requirement.—__ 
+            (F)  __Waiver of monitoring requirement__  __.—__ 
 
             The Administrator shall waive the requirement for monitoring for a contaminant under this paragraph in a State, if the State demonstrates that the criteria for listing the contaminant do not apply in that State.
 
-            (G) __Analytical methods.—__ 
+            (G)  __Analytical methods__  __.—__ 
 
             The State may use screening methods approved by the Administrator under subsection (i) of this section in lieu of monitoring for particular contaminants under this paragraph.
 
-            (H) __Authorization of appropriations.—__ 
+            (H)  __Authorization of appropriations__  __.—__ 
 
             There are authorized to be appropriated to carry out this paragraph $10,000,000 for each of the fiscal years 1997 through 2003.
 

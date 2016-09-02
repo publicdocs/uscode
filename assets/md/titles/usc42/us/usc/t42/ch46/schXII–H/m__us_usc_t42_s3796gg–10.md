@@ -105,13 +105,13 @@
 
 [Pub. L. 109–162, title IX, § 904(a)][/us/pl/109/162/s904/a], Jan. 5, 2006, [119 Stat. 3078][/us/stat/119/3078], as amended by [Pub. L. 113–4, title IX, § 907(a)][/us/pl/113/4/s907/a], Mar. 7, 2013, [127 Stat. 125][/us/stat/127/125], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of the Violence Against Women Reauthorization Act of 2013 \[Mar. 7, 2013\], the National Institute of Justice, in consultation with the Office on Violence Against Women, shall conduct a national baseline study to examine violence against Indian women in Indian country and in Native villages (as defined in section 3 of the Alaska Native Claims Settlement Act ([43 U.S.C. 1602][/us/usc/t43/s1602])).
 
 >     “(2) __Scope.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The study shall examine violence committed against Indian women, including—
 
@@ -127,21 +127,21 @@
 
 >             “(vi) sex trafficking.
 
->         “(B) __Evaluation.—__ 
+>         “(B)  __Evaluation__  __.—__ 
 
 >         The study shall evaluate the effectiveness of Federal, State, tribal, and local responses to the violations described in subparagraph (A) committed against Indian women.
 
->         “(C) __Recommendations.—__ 
+>         “(C)  __Recommendations__  __.—__ 
 
 >         The study shall propose recommendations to improve the effectiveness of Federal, State, tribal, and local responses to the violation described in subparagraph (A) committed against Indian women.
 
 >     “(3) __Task force.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The Attorney General, acting through the Director of the Office on Violence Against Women, shall establish a task force to assist in the development and implementation of the study under paragraph (1) and guide implementation of the recommendation in paragraph (2)(C).
 
->         “(B) __Members.—__ 
+>         “(B)  __Members__  __.—__ 
 
 >         The Director shall appoint to the task force representatives from—
 
@@ -151,11 +151,11 @@
 
 >             “(iii) the national tribal organizations.
 
->     “(4) __Report.—__ 
+>     “(4)  __Report__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of the Violence Against Women Reauthorization Act of 2013 \[Mar. 7, 2013\], the Attorney General shall submit to the Committee on Indian Affairs of the Senate, the Committee on the Judiciary of the Senate, and the Committee on the Judiciary of the House of Representatives a report that describes the study.
 
->     “(5) __Authorization of appropriations.—__ 
+>     “(5)  __Authorization of appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to carry out this subsection $1,000,000 for each of fiscal years 2014 and 2015, to remain available until expended.”
 

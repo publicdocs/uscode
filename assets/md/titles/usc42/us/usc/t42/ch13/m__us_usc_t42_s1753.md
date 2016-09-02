@@ -33,63 +33,63 @@
 
             (A) __Regulations.—__ 
 
-                (i) __Proposed regulations.—__ 
+                (i)  __Proposed regulations__  __.—__ 
 
                 Notwithstanding [section 1758(f) of this title][/us/usc/t42/s1758/f], not later than 18 months after December 13, 2010, the Secretary shall promulgate proposed regulations to update the meal patterns and nutrition standards for the school lunch program authorized under this chapter and the school breakfast program established by [section 1773 of this title][/us/usc/t42/s1773] based on recommendations made by the Food and Nutrition Board of the National Research Council of the National Academy of Sciences.
 
                 (ii) __Interim or final regulations.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     Not later than 18 months after promulgation of the proposed regulations under clause (i), the Secretary shall promulgate interim or final regulations.
 
-                    (II) __Date of required compliance.—__ 
+                    (II)  __Date of required compliance__  __.—__ 
 
                     The Secretary shall establish in the interim or final regulations a date by which all school food authorities participating in the school lunch program authorized under this Act and the school breakfast program established by [section 1773 of this title][/us/usc/t42/s1773] are required to comply with the meal pattern and nutrition standards established in the interim or final regulations.
 
-                (iii) __Report to congress.—__ 
+                (iii)  __Report to congress__  __.—__ 
 
                 Not later than 90 days after December 13, 2010, and each 90 days thereafter until the Secretary has promulgated interim or final regulations under clause (ii), the Secretary shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a quarterly report on progress made toward promulgation of the regulations described in this subparagraph.
 
-            (B) __Performance-based reimbursement rate increase.—__ 
+            (B)  __Performance-based reimbursement rate increase__  __.—__ 
 
             Beginning on the later of the date of promulgation of the implementing regulations described in subparagraph (A)(ii), December 13, 2010, or October 1, 2012, the Secretary shall provide additional reimbursement for each lunch served in school food authorities determined to be eligible under subparagraph (D).
 
             (C) __Additional reimbursement.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Each lunch served in school food authorities determined to be eligible under subparagraph (D) shall receive an additional 6 cents, adjusted in accordance with [section 1759a(a)(3) of this title][/us/usc/t42/s1759a/a/3], to the national lunch average payment for each lunch served.
 
-                (ii) __Disbursement.—__ 
+                (ii)  __Disbursement__  __.—__ 
 
                 The State agency shall disburse funds made available under this paragraph to school food authorities eligible to receive additional reimbursement.
 
-            (D) __Eligible school food authority.—__ 
+            (D)  __Eligible school food authority__  __.—__ 
 
             To be eligible to receive an additional reimbursement described in this paragraph, a school food authority shall be certified by the State to be in compliance with the interim or final regulations described in subparagraph (A)(ii).
 
-            (E) __Failure to comply.—__ 
+            (E)  __Failure to comply__  __.—__ 
 
             Beginning on the later of the date described in subparagraph (A)(ii)(II), December 13, 2010, or October 1, 2012, school food authorities found to be out of compliance with the meal patterns or nutrition standards established by the implementing regulations shall not receive the additional reimbursement for each lunch served described in this paragraph.
 
             (F) __Administrative costs.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Subject to clauses (ii) and (iii), the Secretary shall make funds available to States for State activities related to training, technical assistance, certification, and oversight activities of this paragraph.
 
-                (ii) __Provision of funds.—__ 
+                (ii)  __Provision of funds__  __.—__ 
 
                 The Secretary shall provide funds described in clause (i) to States administering a school lunch program in a manner proportional to the administrative expense allocation of each State during the preceding fiscal year.
 
                 (iii) __Funding.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     In the later of the fiscal year in which the implementing regulations described in subparagraph (A)(ii) are promulgated or the fiscal year in which this paragraph is enacted, and in the subsequent fiscal year, the Secretary shall use not more than $50,000,000 of funds made available under [section 1752 of this title][/us/usc/t42/s1752] to make payments to States described in clause (i).
 
-                    (II) __Reservation.—__ 
+                    (II)  __Reservation__  __.—__ 
 
                     In providing funds to States under clause (i), the Secretary may reserve not more than $3,000,000 per fiscal year to support Federal administrative activities to carry out this paragraph.
 

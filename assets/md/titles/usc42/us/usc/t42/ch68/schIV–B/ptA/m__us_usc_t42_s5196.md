@@ -165,43 +165,43 @@
 
 [Pub. L. 108–458, title VII, § 7302][/us/pl/108/458/s7302], Dec. 17, 2004, [118 Stat. 3840][/us/stat/118/3840], as amended by [Pub. L. 110–250, § 1][/us/pl/110/250/s1], June 26, 2008, [122 Stat. 2318][/us/stat/122/2318], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Authorized representative of the federal government.—__ 
+>         “(1)  __Authorized representative of the federal government__  __.—__ 
 
 >         The term ‘authorized representative of the Federal Government’ means any individual or individuals designated by the President with respect to the executive branch, the Chief Justice with respect to the Federal judiciary, or the President of the Senate and Speaker of the House of Representatives with respect to Congress, or their designees, to request assistance under a mutual aid agreement for an emergency or public service event.
 
->         “(2) __Chief operating officer.—__ 
+>         “(2)  __Chief operating officer__  __.—__ 
 
 >         The term ‘chief operating officer’ means the official designated by law to declare an emergency in and for the locality of that chief operating officer.
 
->         “(3) __Emergency.—__ 
+>         “(3)  __Emergency__  __.—__ 
 
 >         The term ‘emergency’ means a major disaster or emergency declared by the President, or a state of emergency declared by the mayor of the District of Columbia, the Governor of the State of Maryland or the Commonwealth of Virginia, or the declaration of a local emergency by the chief operating officer of a locality, or their designees, that triggers mutual aid under the terms of a mutual aid agreement.
 
->         “(4) __Employee.—__ 
+>         “(4)  __Employee__  __.—__ 
 
 >         The term ‘employee’ means the employees of the party who are committed in a mutual aid agreement to prepare for or who respond to an emergency or public service event.
 
->         “(5) __Locality.—__ 
+>         “(5)  __Locality__  __.—__ 
 
 >         The term ‘locality’ means a county, city, town, or other governmental agency, governmental authority, or governmental institution with the power to sue or be sued in its own name, within the National Capital Region.
 
->         “(6) __Mutual aid agreement.—__ 
+>         “(6)  __Mutual aid agreement__  __.—__ 
 
 >         The term ‘mutual aid agreement’ means an agreement, authorized under subsection (b), for the provision of police, fire, rescue and other public safety and health or medical services to any party to the agreement during a public service event, an emergency, or pre-planned training event.
 
->         “(7) __National capital region or region.—__ 
+>         “(7)  __National capital region or region__  __.—__ 
 
 >         The term ‘National Capital Region’ or ‘Region’ means the area defined under [section 2674(f)(2) of title 10][/us/usc/t10/s2674/f/2], United States Code, and those counties with a border abutting that area and any municipalities therein.
 
->         “(8) __Party.—__ 
+>         “(8)  __Party__  __.—__ 
 
 >         The term ‘party’ means the State of Maryland, the Commonwealth of Virginia, the District of Columbia, and any of the localities duly executing a Mutual Aid Agreement under this section.
 
->         “(9) __Public service event.—__ 
+>         “(9)  __Public service event__  __.—__ 
 
 >         The term ‘public service event’—
 
@@ -209,17 +209,17 @@
 
 >             “(B) includes Presidential inaugurations, public gatherings, demonstrations and protests, and law enforcement, fire, rescue, emergency health and medical services, transportation, communications, public works and engineering, mass care, and other support that require human resources, equipment, facilities or services supplemental to or greater than the requesting jurisdiction can provide.
 
->         “(10) __State.—__ 
+>         “(10)  __State__  __.—__ 
 
 >         The term ‘State’ means the State of Maryland, the Commonwealth of Virginia, and the District of Columbia.
 
->         “(11) __Training.—__ 
+>         “(11)  __Training__  __.—__ 
 
 >         The term ‘training’ means emergency and public service event-related exercises, testing, or other activities using equipment and personnel to simulate performance of any aspect of the giving or receiving of aid by National Capital Region jurisdictions during emergencies or public service events, such actions occurring outside actual emergency or public service event periods.
 
 >     “(b) __Mutual Aid Authorized.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The mayor of the District of Columbia, any authorized representative of the Federal Government, the Governor of the State of Maryland, the Governor of the Commonwealth of Virginia, or the chief operating officer of a locality, or their designees, acting within his or her jurisdictional purview, may, in accordance with State law, enter into, request or provide assistance under mutual aid agreements with localities for—
 
@@ -229,11 +229,11 @@
 
 >             “(C) training for any of the activities described under subparagraphs (A) and (B).
 
->         “(2) __Facilitating localities.—__ 
+>         “(2)  __Facilitating localities__  __.—__ 
 
 >         The State of Maryland and the Commonwealth of Virginia are encouraged to facilitate the ability of localities to enter into interstate mutual aid agreements in the National Capital Region under this section.
 
->         “(3) __Application and effect.—__ 
+>         “(3)  __Application and effect__  __.—__ 
 
 >         This section—
 
@@ -249,45 +249,45 @@
 
 >                 “(ii) affect any other agreement in effect before the date of enactment of this Act \[Dec. 17, 2004\] among the States and localities, including the Emergency Management Assistance Compact.
 
->         “(4) __Rights described.—__ 
+>         “(4)  __Rights described__  __.—__ 
 
 >         Other than as described in this section, the rights and responsibilities of the parties to a mutual aid agreement entered into under this section shall be as described in the mutual aid agreement.
 
 >     “(c) __District of Columbia.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The District of Columbia may purchase liability and indemnification insurance or become self insured against claims arising under a mutual aid agreement authorized under this section.
 
->         “(2) __Authorization of appropriations.—__ 
+>         “(2)  __Authorization of appropriations__  __.—__ 
 
 >         There are authorized to be appropriated such sums as may be necessary to carry out paragraph (1).
 
 >     “(d) __Liability and Actions at Law.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Any responding party or its officers, employees, or agents rendering aid or failing to render aid to the District of Columbia, the Federal Government, the State of Maryland, the Commonwealth of Virginia, or a locality, under a mutual aid agreement authorized under this section, and any party or its officers, employees, or agents engaged in training activities with another party under such a mutual aid agreement, shall be liable on account of any act or omission of its officers, employees, or agents while so engaged or on account of the maintenance or use of any related equipment, facilities, or supplies, but only to the extent permitted under the laws and procedures of the State of the party rendering aid.
 
->         “(2) __Actions.—__ 
+>         “(2)  __Actions__  __.—__ 
 
 >         Any action brought against a party or its officers, employees, or agents on account of an act or omission in the rendering of aid to the District of Columbia, the Federal Government, the State of Maryland, the Commonwealth of Virginia, or a locality, or failure to render such aid or on account of the maintenance or use of any related equipment, facilities, or supplies may be brought only under the laws and procedures of the State of the party rendering aid and only in the Federal or State courts located therein. Actions against the United States under this section may be brought only in Federal courts.
 
->         “(3) __Immunities.—__ 
+>         “(3)  __Immunities__  __.—__ 
 
 >         This section shall not abrogate any other immunities from liability that any party has under any other Federal or State law.
 
 >     “(e) __Workers Compensation.—__ 
 
->         “(1) __Compensation.—__ 
+>         “(1)  __Compensation__  __.—__ 
 
 >         Each party shall provide for the payment of compensation and death benefits to injured members of the emergency forces of that party and representatives of deceased members of such forces if such members sustain injuries or are killed while rendering aid to the District of Columbia, the Federal Government, the State of Maryland, the Commonwealth of Virginia, or a locality, under a mutual aid agreement, or engaged in training activities under a mutual aid agreement, in the same manner and on the same terms as if the injury or death were sustained within their own jurisdiction.
 
->         “(2) __Other state law.—__ 
+>         “(2)  __Other state law__  __.—__ 
 
 >         No party shall be liable under the law of any State other than its own for providing for the payment of compensation and death benefits to injured members of the emergency forces of that party and representatives of deceased members of such forces if such members sustain injuries or are killed while rendering aid to the District of Columbia, the Federal Government, the State of Maryland, the Commonwealth of Virginia, or a locality, under a mutual aid agreement or engaged in training activities under a mutual aid agreement.
 
->     “(f) __Licenses and Permits.—__ 
+>     “(f)  __Licenses and Permits__  __.—__ 
 
 >     If any person holds a license, certificate, or other permit issued by any responding party evidencing the meeting of qualifications for professional, mechanical, or other skills and assistance is requested by a receiving jurisdiction, such person will be deemed licensed, certified, or permitted by the receiving jurisdiction to render aid involving such skill to meet a public service event, emergency or training for any such events.”
 

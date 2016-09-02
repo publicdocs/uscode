@@ -39,7 +39,7 @@
 
 >     “(1) __Authority to conduct demonstration program.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The Administrator, through the Bureau of Primary Health Care and the Maternal and Child Health Bureau, shall conduct a demonstration program by making grants to up to 40 eligible entities for each fiscal year in which the program is conducted under this section \[probably means this subsection\] for the purpose of developing and establishing systemic mechanisms to improve the prevention and treatment of Sickle Cell Disease, including through—
 
@@ -55,11 +55,11 @@
 
 >         “(B) __Grant award requirements.—__ 
 
->             “(i) __Geographic diversity.—__ 
+>             “(i)  __Geographic diversity__  __.—__ 
 
 >             The Administrator shall, to the extent practicable, award grants under this section \[probably means this subsection\] to eligible entities located in different regions of the United States.
 
->             “(ii) __Priority.—__ 
+>             “(ii)  __Priority__  __.—__ 
 
 >             In awarding grants under this subsection, the Administrator shall give priority to awarding grants to eligible entities that are—
 
@@ -67,7 +67,7 @@
 
 >                 “(II) Federally-qualified health centers that intend to develop a partnership or other arrangement with a comprehensive Sickle Cell Disease treatment center that does not receive funds from the National Institutes of Health.
 
->     “(2) __Additional requirements.—__ 
+>     “(2)  __Additional requirements__  __.—__ 
 
 >     An eligible entity awarded a grant under this subsection shall use funds made available under the grant to carry out, in addition to the activities described in paragraph (1)(A), the following activities:
 
@@ -89,11 +89,11 @@
 
 >     “(3) __National coordinating center.—__ 
 
->         “(A) __Establishment.—__ 
+>         “(A)  __Establishment__  __.—__ 
 
 >         The Administrator shall enter into a contract with an entity to serve as the National Coordinating Center for the demonstration program conducted under this subsection.
 
->         “(B) __Activities described.—__ 
+>         “(B)  __Activities described__  __.—__ 
 
 >         The National Coordinating Center shall—
 
@@ -111,19 +111,19 @@
 
 >                 “(II) the number of individuals that were tested and subsequently received genetic counseling for the sickle cell trait.
 
->     “(4) __Application.—__ 
+>     “(4)  __Application__  __.—__ 
 
 >     An eligible entity desiring a grant under this subsection shall submit an application to the Administrator at such time, in such manner, and containing such information as the Administrator may require.
 
->     “(5) __Definitions.—__ 
+>     “(5)  __Definitions__  __.—__ 
 
 >     In this subsection:
 
->         “(A) __Administrator.—__ 
+>         “(A)  __Administrator__  __.—__ 
 
 >         The term ‘Administrator’ means the Administrator of the Health Resources and Services Administration.
 
->         “(B) __Eligible entity.—__ 
+>         “(B)  __Eligible entity__  __.—__ 
 
 >         The term ‘eligible entity’ means a Federally-qualified health center, a nonprofit hospital or clinic, or a university health center that provides primary health care, that—
 
@@ -131,11 +131,11 @@
 
 >             “(ii) demonstrates to the Administrator that either the Federally-qualified health center, the nonprofit hospital or clinic, the university health center, the organization or entity described in clause (i), or the experts described in paragraph (2)(C), has at least 5 years of experience in working with individuals who have Sickle Cell Disease.
 
->         “(C) __Federally-qualified health center.—__ 
+>         “(C)  __Federally-qualified health center__  __.—__ 
 
 >         The term ‘Federally-qualified health center’ has the meaning given that term in section 1905(l)(2)(B) of the Social Security Act ([42 U.S.C. 1396d][/us/usc/t42/s1396d](l)(2)(B)).
 
->     “(6) __Authorization of appropriations.—__ 
+>     “(6)  __Authorization of appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to carry out this subsection, $10,000,000 for each of fiscal years 2005 through 2009.”
 

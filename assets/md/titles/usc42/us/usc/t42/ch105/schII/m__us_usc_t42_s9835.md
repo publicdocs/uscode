@@ -673,13 +673,13 @@
 
 [Pub. L. 102–401, § 4][/us/pl/102/401/s4], Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959], provided that:
 
->     “(a) __Effective Dates.—__ 
+>     “(a)  __Effective Dates__  __.—__ 
 
 >         (1) Except as provided in paragraph (2) and subsection (b), this Act \[amending this section and sections 9835a to 9839, 9846, 9846a, and 9858n of this title and enacting provisions set out as a note under [section 9836 of this title][/us/usc/t42/s9836]\] and the amendments made by this Act shall take effect on the date of the enactment of this Act \[Oct. 7, 1992\].
 
 >         “(2) The amendment made by section 2(e)(1) \[amending [section 9836 of this title][/us/usc/t42/s9836]\] shall take effect on July 30, 1992.
 
->     “(b) __Application of Amendments.—__ 
+>     “(b)  __Application of Amendments__  __.—__ 
 
 >     The amendments made by this Act, other than the amendment made by section 2(e)(1), shall not apply with respect to fiscal years beginning before October 1, 1992.”
 

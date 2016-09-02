@@ -43,11 +43,11 @@
 
 [Pub. L. 107–273, div. C, title I, § 11011][/us/pl/107/273/s11011], Nov. 2, 2002, [116 Stat. 1823][/us/stat/116/1823], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Attorney General shall commission a study of offenders, or a sampling of such offenders, with mental illness released from prison or jail in 2 or more jurisdictions, including at least 1 State or local and 1 Federal, to determine the extent to which participation in public benefit programs correlates with successful reentry and improved public safety.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[Nov. 2, 2002\], the Attorney General shall submit to the Committees on the Judiciary of the Senate and the House of Representatives—
 
@@ -77,7 +77,7 @@
 
 >         “(2) any recommendations.
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized such sums as necessary to conduct the study and issue the report required by this section.”
 

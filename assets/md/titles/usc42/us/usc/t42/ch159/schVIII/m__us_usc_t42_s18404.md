@@ -35,7 +35,7 @@
 
         (2) The policy shall be based on the premise that the Federal Government has an established interest in conducting research and development programs that help preserve the role of the United States as a global leader in space technologies and their application.
 
-        (3) __Considerations.—__ 
+        (3)  __Considerations__  __.—__ 
 
         In developing the national space technology development policy, the President or the President’s designee shall consider, and include a discussion in the report required by subsection (c), of the following issues:
 
@@ -47,7 +47,7 @@
 
             (D) The extent to which NASA will conduct research in-house, fund university research, and collaborate on industry research and the expected impact of that mix of funding on the supply of United States workers for industry.
 
-        (4) __Consultation.—__ 
+        (4)  __Consultation__  __.—__ 
 
         In the development of the national space technology development policy, the President or the President’s designee shall consult widely with academic and industry experts and with other Federal agencies. The Administrator may enter into an arrangement with the National Academy of Sciences to help develop the policy.
 

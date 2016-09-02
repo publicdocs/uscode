@@ -411,29 +411,29 @@
 
 [Pub. L. 104–59, title III, § 348][/us/pl/104/59/s348], Nov. 28, 1995, [109 Stat. 617][/us/stat/109/617], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Administrator of the Environmental Protection Agency (hereinafter in this section referred to as the ‘Administrator’) shall not require adoption or implementation by a State of a test-only I/M240 enhanced vehicle inspection and maintenance program as a means of compliance with section 182 or 187 of the Clean Air Act ([42 U.S.C. 7511a][/us/usc/t42/s7511a]; 7512a), but the Administrator may approve such a program if a State chooses to adopt the program as a means of compliance with such section.
 
->     “(b) __Limitation on Plan Disapproval.—__ 
+>     “(b)  __Limitation on Plan Disapproval__  __.—__ 
 
 >     The Administrator shall not disapprove or apply an automatic discount to a State implementation plan revision under section 182 or 187 of the Clean Air Act ([42 U.S.C. 7511a][/us/usc/t42/s7511a]; 7512a) on the basis of a policy, regulation, or guidance providing for a discount of emissions credits because the inspection and maintenance program in such plan revision is decentralized or a test-and-repair program.
 
 >     “(c) __Emissions Reduction Credits.—__ 
 
->         “(1) __State plan revision; approval.—__ 
+>         “(1)  __State plan revision; approval__  __.—__ 
 
 >         Within 120 days of the date of the enactment of this subsection \[Nov. 28, 1995\], a State may submit an implementation plan revision proposing an interim inspection and maintenance program under section 182 or 187 of the Clean Air Act ([42 U.S.C. 7511a][/us/usc/t42/s7511a]; 7512a). The Administrator shall approve the program based on the full amount of credits proposed by the State for each element of the program if the proposed credits reflect good faith estimates by the State and the revision is otherwise in compliance with such Act. If, within such 120-day period, the State submits to the Administrator proposed revisions to the implementation plan, has all of the statutory authority necessary to implement the revisions, and has proposed a regulation to make the revisions, the Administrator may approve the revisions without regard to whether or not such regulation has been issued as a final regulation by the State.
 
->         “(2) __Expiration of interim approval.—__ 
+>         “(2)  __Expiration of interim approval__  __.—__ 
 
 >         The interim approval shall expire on the earlier of (A) the last day of the 18-month period beginning on the date of the interim approval, or (B) the date of final approval. The interim approval may not be extended.
 
->         “(3) __Final approval.—__ 
+>         “(3)  __Final approval__  __.—__ 
 
 >         The Administrator shall grant final approval of the revision based on the credits proposed by the State during or after the period of interim approval if data collected on the operation of the State program demonstrates that the credits are appropriate and the revision is otherwise in compliance with the Clean Air Act \[[42 U.S.C. 7401][/us/usc/t42/s7401] et seq.\].
 
->         “(4) __Basis of approval; no automatic discount.—__ 
+>         “(4)  __Basis of approval; no automatic discount__  __.—__ 
 
 >         Any determination with respect to interim or full approval shall be based on the elements of the program and shall not apply any automatic discount because the program is decentralized or a test-and-repair program.”
 

@@ -69,11 +69,11 @@
 
 [Pub. L. 102–484, div. A, title X, § 1093][/us/pl/102/484/s1093], Oct. 23, 1992, [106 Stat. 2534][/us/stat/106/2534], as amended by [Pub. L. 103–82, title I, § 104(e)(1)(B)][/us/pl/103/82/s104/e/1/B], title IV, § 402(a)(2), Sept. 21, 1993, [107 Stat. 846][/us/stat/107/846], 918, provided that:
 
->     “(a) __Coordinated Administration.—__ 
+>     “(a)  __Coordinated Administration__  __.—__ 
 
 >     To the maximum extent practicable, the Chief of the National Guard Bureau, the Board of Directors and Chief Executive Officer of the Corporation for National and Community Service, and the Director of the Civilian Community Corps shall coordinate the National Guard Youth Opportunities Program established pursuant to section 1091 \[of [Pub. L. 102–484][/us/pl/102/484], [32 U.S.C. 501][/us/usc/t32/s501] note\] and the Civilian Community Corps Demonstration Program established pursuant to the authorization contained in section 152 of the National and Community Service Act of 1990 \[[42 U.S.C. 12612][/us/usc/t42/s12612]\] (as added by section 1092(a)).
 
->     “(b) __Objectives.—__ 
+>     “(b)  __Objectives__  __.—__ 
 
 >     The officials referred to in subsection (a) shall ensure that—
 

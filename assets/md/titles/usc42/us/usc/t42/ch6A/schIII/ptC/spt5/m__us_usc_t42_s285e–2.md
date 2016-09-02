@@ -69,11 +69,11 @@
 
 > “SEC. 301. __REQUIREMENT FOR CLINICAL TRIALS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Director of the National Institute on Aging shall provide for the conduct of clinical trials on the efficacy of the use of such promising therapeutic agents as have been or may be discovered and recommended for further scientific analysis by the National Institute on Aging and the Food and Drug Administration to treat individuals with Alzheimer’s disease, to retard the progression of symptoms of Alzheimer’s disease, or to improve the functioning of individuals with such disease.
 
->     “(b) __Rule of Construction.—__ 
+>     “(b)  __Rule of Construction__  __.—__ 
 
 >     Nothing in this title shall be construed to affect adversely any research being conducted as of the date of the enactment of this Act \[Nov. 29, 1987\].
 

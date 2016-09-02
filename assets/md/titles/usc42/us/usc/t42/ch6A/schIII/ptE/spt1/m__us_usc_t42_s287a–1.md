@@ -75,7 +75,7 @@
 
 [Pub. L. 107–280, § 2][/us/pl/107/280/s2], Nov. 6, 2002, [116 Stat. 1988][/us/stat/116/1988], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -97,7 +97,7 @@
 
 >         “(9) To redress this oversight, the Department of Health and Human Services has proposed the establishment of a network of regional centers of excellence for research on rare diseases.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this Act \[see Short Title of 2002 Amendments note set out under [section 201 of this title][/us/usc/t42/s201]\] are to—
 

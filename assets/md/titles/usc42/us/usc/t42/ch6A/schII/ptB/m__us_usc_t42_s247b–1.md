@@ -207,7 +207,7 @@
 
 [Pub. L. 106–310, div. A, title XXV, § 2501(c)][/us/pl/106/310/s2501/c], Oct. 17, 2000, [114 Stat. 1161][/us/stat/114/1161], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Director of the Centers for Disease Control and Prevention shall—
 
@@ -223,11 +223,11 @@
 
 >         “(F) establish performance measures for evaluating State and local implementation of the requirements and improvements described in subparagraphs (A) through (E).
 
->     “(2) __Authorization of appropriations.—__ 
+>     “(2)  __Authorization of appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this subsection such sums as may be necessary for each \[sic\] the fiscal years 2001 through 2005.
 
->     “(3) __Effective date.—__ 
+>     “(3)  __Effective date__  __.—__ 
 
 >     This subsection takes effect on the date of the enactment of this Act \[Oct. 17, 2000\].”
 

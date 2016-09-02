@@ -83,7 +83,7 @@
 
 > “SEC. 2. __ALASKA NATIVE IMPLEMENTATION STUDY.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds and declares that—
 
@@ -91,11 +91,11 @@
 
 >         “(2) the Alaska Federation of Natives is the representative body of statewide Alaska Native interests best suited to further investigate and report to Congress with proposals to implement the recommendations of the Alaska Natives Commission.
 
->     “(b) __Grant.—__ 
+>     “(b)  __Grant__  __.—__ 
 
 >     The Secretary of Health and Human Services shall make a grant to the Alaska Federation of Natives to conduct the study and submit the report required by this section. Such grant may only be made if the Alaska Federation of Natives agrees to abide by the requirements of this section.
 
->     “(c) __Study.—__ 
+>     “(c)  __Study__  __.—__ 
 
 >     Pursuant to subsection (b), the Alaska Federation of Natives shall—
 
@@ -107,19 +107,19 @@
 
 >         “(4) recommend enactment of specific provisions of law and other actions the Congress should take to implement such recommendations.
 
->     “(d) __Consideration of Local Control.—__ 
+>     “(d)  __Consideration of Local Control__  __.—__ 
 
 >     In developing its recommendations pursuant to subsection (c)(4), the Alaska Federation of Natives shall give specific attention to the ways in which the recommendations may be achieved at the local level with maximum local control of the implementation of the recommendations.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     Not later than 12 months after the date on which the grant is made under subsection (b), the Alaska Federation of Natives shall submit a report on the study conducted under this section, together with the recommendations developed pursuant to subsection (c)(4), to the President and the Congress and to the Governor and legislature of the State of Alaska. In addition, the Alaska Federation of Natives shall make the report available to Alaska Native villages and organizations and to the general public.
 
->     “(f) __Authorization of Appropriations.—__ 
+>     “(f)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated $350,000 for the grant under subsection (b).
 
->     “(g) __Additional State Funding.—__ 
+>     “(g)  __Additional State Funding__  __.—__ 
 
 >     The Congress encourages the State of Alaska to provide the additional funding necessary for the completion of the study under this section.”
 

@@ -87,7 +87,7 @@
 
     For purposes of this part:
 
-        (1) __Underground injection.—__ 
+        (1)  __Underground injection__  __.—__ 
 
         The term “underground injection”—
 

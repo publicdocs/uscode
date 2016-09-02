@@ -127,15 +127,15 @@
 
 [Pub. L. 107–205, title II, § 204][/us/pl/107/205/s204], Aug. 1, 2002, [116 Stat. 818][/us/stat/116/818], provided that:
 
->     “(a) __National Variations.—__ 
+>     “(a)  __National Variations__  __.—__ 
 
 >     Not later than 4 years after the date of the enactment of this Act \[Aug. 1, 2002\], the Comptroller General of the United States shall conduct a survey to determine national variations in the nursing shortage at hospitals, nursing homes, and other health care providers, and submit a report, including recommendations, to the Congress on Federal remedies to ease nursing shortages. The Comptroller General shall submit to the Congress this report describing the findings relating to ownership status and associated remedies.
 
->     “(b) __Hiring Differences Among Certain Private Entities.—__ 
+>     “(b)  __Hiring Differences Among Certain Private Entities__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct a study to determine differences in the hiring of nurses by nonprofit private entities as compared to the hiring of nurses by private entities that are not nonprofit. In carrying out the study, the Comptroller General shall determine the effect of the inclusion of private entities that are not nonprofit in the program under section 846 of the Public Health Service Act \[[42 U.S.C. 297n][/us/usc/t42/s297n]\]. Not later than 4 years after the date of the enactment of this Act \[Aug. 1, 2002\], the Comptroller General shall submit to the Congress a report describing the findings of the study.
 
->     “(c) __Nursing Scholarships.—__ 
+>     “(c)  __Nursing Scholarships__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct an evaluation of whether the program carried out under section 846(d) of the Public Health Service Act \[[42 U.S.C. 297n(d)][/us/usc/t42/s297n/d]\] has demonstrably increased the number of applicants to schools of nursing and, not later than 4 years after the date of the enactment of this Act \[Aug. 1, 2002\], submit a report to the Congress on the results of such evaluation.”
 

@@ -25,27 +25,27 @@
 
         (3)
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
                 (i) Unless the standard is changed as provided in subparagraph (B), regulations under paragraph (1) of this subsection applicable to emissions of hydrocarbons, carbon monoxide, oxides of nitrogen, and particulate matter from classes or categories of heavy-duty vehicles or engines manufactured during or after model year 1983 shall contain standards which reflect the greatest degree of emission reduction achievable through the application of technology which the Administrator determines will be available for the model year to which such standards apply, giving appropriate consideration to cost, energy, and safety factors associated with the application of such technology.
 
                 (ii) In establishing classes or categories of vehicles or engines for purposes of regulations under this paragraph, the Administrator may base such classes or categories on gross vehicle weight, horsepower, type of fuel used, or other appropriate factors.
 
-            (B) __Revised standards for heavy duty trucks.—__ 
+            (B)  __Revised standards for heavy duty trucks__  __.—__ 
 
                 (i) On the basis of information available to the Administrator concerning the effects of air pollutants emitted from heavy-duty vehicles or engines and from other sources of mobile source related pollutants on the public health and welfare, and taking costs into account, the Administrator may promulgate regulations under paragraph (1) of this subsection revising any standard promulgated under, or before the date of, the enactment of the Clean Air Act Amendments of 1990 (or previously revised under this subparagraph) and applicable to classes or categories of heavy-duty vehicles or engines.
 
                 (ii) Effective for the model year 1998 and thereafter, the regulations under paragraph (1) of this subsection applicable to emissions of oxides of nitrogen (NOx) from gasoline and diesel-fueled heavy duty trucks shall contain standards which provide that such emissions may not exceed 4.0 grams per brake horsepower hour (gbh).
 
-            (C) __Lead time and stability.—__ 
+            (C)  __Lead time and stability__  __.—__ 
 
             Any standard promulgated or revised under this paragraph and applicable to classes or categories of heavy-duty vehicles or engines shall apply for a period of no less than 3 model years beginning no earlier than the model year commencing 4 years after such revised standard is promulgated.
 
-            (D) __Rebuilding practices.—__ 
+            (D)  __Rebuilding practices__  __.—__ 
 
             The Administrator shall study the practice of rebuilding heavy-duty engines and the impact rebuilding has on engine emissions. On the basis of that study and other information available to the Administrator, the Administrator may prescribe requirements to control rebuilding practices, including standards applicable to emissions from any rebuilt heavy-duty engines (whether or not the engine is past its statutory useful life), which in the Administrator’s judgment cause, or contribute to, air pollution which may reasonably be anticipated to endanger public health or welfare taking costs into account. Any regulation shall take effect after a period the Administrator finds necessary to permit the development and application of the requisite control measures, giving appropriate consideration to the cost of compliance within the period and energy and safety factors.
 
-            (E) __Motorcycles.—__ 
+            (E)  __Motorcycles__  __.—__ 
 
             For purposes of this paragraph, motorcycles and motorcycle engines shall be treated in the same manner as heavy-duty vehicles and engines (except as otherwise permitted under section 7525(f)(1)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title) unless the Administrator promulgates a rule reclassifying motorcycles as light-duty vehicles within the meaning of this section or unless the Administrator promulgates regulations under subsection (a) of this section applying standards applicable to the emission of air pollutants from motorcycles as a separate class or category. In any case in which such standards are promulgated for such emissions from motorcycles as a separate class or category, the Administrator, in promulgating such standards, shall consider the need to achieve equivalency of emission reductions between motorcycles and other motor vehicles to the maximum extent practicable.
 
@@ -65,7 +65,7 @@
 
             (D) For the purpose of this paragraph, the term “fill pipe” shall include the fuel tank fill pipe, fill neck, fill inlet, and closure.
 
-        (6) __Onboard vapor recovery.—__ 
+        (6)  __Onboard vapor recovery__  __.—__ 
 
         Within 1 year after November 15, 1990, the Administrator shall, after consultation with the Secretary of Transportation regarding the safety of vehicle-based (“onboard”) systems for the control of vehicle refueling emissions, promulgate standards under this section requiring that new light-duty vehicles manufactured beginning in the fourth model year after the model year in which the standards are promulgated and thereafter shall be equipped with such systems. The standards required under this paragraph shall apply to a percentage of each manufacturer’s fleet of new light-duty vehicles beginning with the fourth model year after the model year in which the standards are promulgated. The percentage shall be as specified in the following table:
 

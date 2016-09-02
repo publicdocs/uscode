@@ -723,11 +723,11 @@
 
 [Pub. L. 111–3, title VI, § 601(b)][/us/pl/111/3/s601/b]–(g), Feb. 4, 2009, [123 Stat. 96–98][/us/stat/123/96-98], as amended by [Pub. L. 111–309, title II, § 205(c)][/us/pl/111/309/s205/c], Dec. 15, 2010, [124 Stat. 3290][/us/stat/124/3290], provided that:
 
->     “(b) __Final Rule Required To Be in Effect for All States.—__ 
+>     “(b)  __Final Rule Required To Be in Effect for All States__  __.—__ 
 
 >     Notwithstanding parts 431 and 457 of title 42, Code of Federal Regulations (as in effect on the date of enactment of this Act \[Feb. 4, 2009\]), the Secretary shall not calculate or publish any national or State-specific error rate based on the application of the payment error rate measurement (in this section referred to as ‘PERM’) requirements to CHIP until after the date that is 6 months after the date on which a new final rule (in this section referred to as the ‘new final rule’) promulgated after the date of the enactment of this Act \[Feb. 4, 2009\] and implementing such requirements in accordance with the requirements of subsection (c) is in effect for all States. Any calculation of a national error rate or a State specific error rate after such new final rule in effect for all States may only be inclusive of errors, as defined in such new final rule or in guidance issued within a reasonable time frame after the effective date for such new final rule that includes detailed guidance for the specific methodology for error determinations. The Secretary is not required under this subsection to calculate or publish a national or a State-specific error rate for fiscal year 2009 or fiscal year 2010.
 
->     “(c) __Requirements for New Final Rule.—__ 
+>     “(c)  __Requirements for New Final Rule__  __.—__ 
 
 >     For purposes of subsection (b), the requirements of this subsection are that the new final rule implementing the PERM requirements shall—
 
@@ -749,25 +749,25 @@
 
 >         “(2) provide that the payment error rate determined for a State shall not take into account payment errors resulting from the State’s verification of an applicant’s self-declaration or self-certification of eligibility for, and the correct amount of, medical assistance or child health assistance, if the State process for verifying an applicant’s self-declaration or self-certification satisfies the requirements for such process applicable under regulations promulgated by the Secretary or otherwise approved by the Secretary.
 
->     “(d) __Option for Application of Data for States in First Application Cycle Under the Interim Final Rule.—__ 
+>     “(d)  __Option for Application of Data for States in First Application Cycle Under the Interim Final Rule__  __.—__ 
 
 >     After the new final rule implementing the PERM requirements in accordance with the requirements of subsection (c) is in effect for all States, a State for which the PERM requirements were first in effect under an interim final rule for fiscal year 2007 or under a final rule for fiscal year 2008 may elect to accept any payment error rate determined in whole or in part for the State on the basis of data for that fiscal year or may elect to not have any payment error rate determined on the basis of such data and, instead, shall be treated as if fiscal year 2010 or fiscal year 2011 were the first fiscal year for which the PERM requirements apply to the State.
 
 >     “(e) __Harmonization of MEQC and PERM.—__ 
 
->         “(1) __Reduction of redundancies.—__ 
+>         “(1)  __Reduction of redundancies__  __.—__ 
 
 >         The Secretary shall review the Medicaid Eligibility Quality Control (in this subsection referred to as the ‘MEQC’) requirements with the PERM requirements and coordinate consistent implementation of both sets of requirements, while reducing redundancies.
 
->         “(2) __State option to apply perm data.—__ 
+>         “(2)  __State option to apply perm data__  __.—__ 
 
 >         A State may elect, for purposes of determining the erroneous excess payments for medical assistance ratio applicable to the State for a fiscal year under section 1903(u) of the Social Security Act ([42 U.S.C. 1396b(u)][/us/usc/t42/s1396b/u]) to substitute data resulting from the application of the PERM requirements to the State after the new final rule implementing such requirements is in effect for all States for data obtained from the application of the MEQC requirements to the State with respect to a fiscal year.
 
->         “(3) __State option to apply meqc data.—__ 
+>         “(3)  __State option to apply meqc data__  __.—__ 
 
 >         For purposes of satisfying the requirements of subpart Q of part 431 of title 42, Code of Federal Regulations, relating to Medicaid eligibility reviews, a State may elect to substitute data obtained through MEQC reviews conducted in accordance with section 1903(u) of the Social Security Act ([42 U.S.C. 1396b(u)][/us/usc/t42/s1396b/u]) for data required for purposes of PERM requirements, but only if the State MEQC reviews are based on a broad, representative sample of Medicaid applicants or enrollees in the States.
 
->     “(f) __Identification of Improved State-Specific Sample Sizes.—__ 
+>     “(f)  __Identification of Improved State-Specific Sample Sizes__  __.—__ 
 
 >     The Secretary shall establish State-specific sample sizes for application of the PERM requirements with respect to State child health plans for fiscal years beginning with the first fiscal year that begins on or after the date on which the new final rule is in effect for all States, on the basis of such information as the Secretary determines appropriate. In establishing such sample sizes, the Secretary shall, to the greatest extent practicable—
 
@@ -775,7 +775,7 @@
 
 >         “(2) maintain State flexibility to manage such programs.
 
->     “(g) __Time for Promulgation of Final Rule.—__ 
+>     “(g)  __Time for Promulgation of Final Rule__  __.—__ 
 
 >     The final rule implementing the PERM requirements under subsection (b) shall be promulgated not later than 6 months after the date of enactment of this Act \[Feb. 4, 2009\].”
 

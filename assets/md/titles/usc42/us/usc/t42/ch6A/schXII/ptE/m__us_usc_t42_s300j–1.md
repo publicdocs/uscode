@@ -31,7 +31,7 @@
 
             (E) improved methods of protecting underground water sources of public water systems from contamination.
 
-        (2) __Information and research facilities.—__ 
+        (2)  __Information and research facilities__  __.—__ 
 
         In carrying out this subchapter, the Administrator is authorized to—
 
@@ -155,7 +155,7 @@
 
 [Pub. L. 104–182, title II, § 202][/us/pl/104/182/s202], Aug. 6, 1996, [110 Stat. 1682][/us/stat/110/1682], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Administrator shall—
 
@@ -171,7 +171,7 @@
 
 >             “(B) does not duplicate any other research being conducted by the Agency.
 
->     “(b) __Plan.—__ 
+>     “(b)  __Plan__  __.—__ 
 
 >     The Administrator shall transmit the plan to the Committees on Commerce \[now Energy and Commerce\] and Science \[now Science, Space, and Technology\] of the House of Representatives and the Committee on Environment and Public Works of the Senate and the plan shall be made available to the public.”
 

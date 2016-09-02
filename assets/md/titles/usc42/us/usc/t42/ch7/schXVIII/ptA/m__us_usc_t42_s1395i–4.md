@@ -509,11 +509,11 @@
 
 [Pub. L. 110–275, title I, § 123][/us/pl/110/275/s123], July 15, 2008, [122 Stat. 2514][/us/stat/122/2514], as amended by [Pub. L. 111–148, title III, § 3126][/us/pl/111/148/s3126], Mar. 23, 2010, [124 Stat. 425][/us/stat/124/425], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary shall establish a demonstration project to allow eligible entities to develop and test new models for the delivery of health care services in eligible counties for the purpose of improving access to, and better integrating the delivery of, acute care, extended care, and other essential health care services to Medicare beneficiaries.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of the demonstration project under this section is to—
 
@@ -521,7 +521,7 @@
 
 >         “(2) evaluate regulatory challenges facing such providers and the communities they serve.
 
->     “(c) __Requirements.—__ 
+>     “(c)  __Requirements__  __.—__ 
 
 >     The following requirements shall apply under the demonstration project:
 
@@ -539,11 +539,11 @@
 
 >         “(1) __Eligibility.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Eligibility to participate in the demonstration project under this section shall be limited to eligible entities.
 
->             “(B) __Eligible entity defined.—__ 
+>             “(B)  __Eligible entity defined__  __.—__ 
 
 >             In this section, the term ‘eligible entity’ means an entity that—
 
@@ -553,19 +553,19 @@
 
 >         “(2) __Application.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             An eligible entity seeking to participate in the demonstration project under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
->             “(B) __Limitation.—__ 
+>             “(B)  __Limitation__  __.—__ 
 
 >             The Secretary shall select eligible entities located in not more than 4 States to participate in the demonstration project under this section.
 
->         “(3) __Selection of eligible counties.—__ 
+>         “(3)  __Selection of eligible counties__  __.—__ 
 
 >         An eligible entity selected by the Secretary to participate in the demonstration project under this section shall select eligible counties in the State in which the entity is located in which to conduct the demonstration project.
 
->         “(4) __Eligible county defined.—__ 
+>         “(4)  __Eligible county defined__  __.—__ 
 
 >         In this section, the term ‘eligible county’ means a county that meets the following requirements:
 
@@ -595,11 +595,11 @@
 
 >     “(e) __Administration.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The demonstration project under this section shall be administered jointly by the Administrator of the Office of Rural Health Policy of the Health Resources and Services Administration and the Administrator of the Centers for Medicare & Medicaid Services, in accordance with paragraphs (2) and (3).
 
->         “(2) __HRSA duties.—__ 
+>         “(2) __HRSA__  __duties__  __.—__ 
 
 >         In administering the demonstration project under this section, the Administrator of the Office of Rural Health Policy of the Health Resources and Services Administration shall—
 
@@ -607,17 +607,17 @@
 
 >             “(B) work with such entities to provide technical assistance related to the requirements under the project.
 
->         “(3) __CMS duties.—__ 
+>         “(3) __CMS__  __duties__  __.—__ 
 
 >         In administering the demonstration project under this section, the Administrator of the Centers for Medicare & Medicaid Services shall determine which provisions of titles XVIII and XIX of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.; 1396 et seq.) the Secretary should waive under the waiver authority under subsection (i) that are relevant to the development of alternative reimbursement methodologies, which may include, as appropriate, covering at least the reasonable costs of the provider in furnishing acute care, extended care, and other essential health care services to Medicare beneficiaries and coordinating the survey and certification process under the Medicare and Medicaid programs, as appropriate, across all service categories included in the demonstration project.
 
 >     “(f) __Duration.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The demonstration project under this section shall be conducted for a 3-year period beginning on October 1, 2009.
 
->         “(2) __Beginning date of demonstration project.—__ 
+>         “(2)  __Beginning date of demonstration project__  __.—__ 
 
 >         The demonstration project under this section shall be considered to have begun in a State on the date on which the eligible counties selected to participate in the demonstration project under subsection (d)(3) begin operations in accordance with the requirements under the demonstration project.
 
@@ -625,11 +625,11 @@
 
 >         “(1) __CMS.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary shall provide for the transfer, in appropriate part from the Federal Hospital Insurance Trust Fund established under section 1817 of the Social Security Act ([42 U.S.C. 1395i][/us/usc/t42/s1395i]) and the Federal Supplementary Medical Insurance Trust Fund established under section 1841 of such Act ([42 U.S.C. 1395t][/us/usc/t42/s1395t]), of such sums as are necessary for the costs to the Centers for Medicare & Medicaid Services of carrying out its duties under the demonstration project under this section.
 
->             “(B) __Budget neutrality.—__ 
+>             “(B)  __Budget neutrality__  __.—__ 
 
 >             In conducting the demonstration project under this section, the Secretary shall ensure that the aggregate payments made by the Secretary do not exceed the amount which the Secretary estimates would have been paid if the demonstration project under this section was not implemented.
 
@@ -639,23 +639,23 @@
 
 >     “(h) __Report.—__ 
 
->         “(1) __Interim report.—__ 
+>         “(1)  __Interim report__  __.—__ 
 
 >         Not later than the date that is 2 years after the date on which the demonstration project under this section is implemented, the Administrator of the Office of Rural Health Policy of the Health Resources and Services Administration, in coordination with the Administrator of the Centers for Medicare & Medicaid Services, shall submit a report to Congress on the status of the demonstration project that includes initial recommendations on ways to improve access to, and the availability of, health care services in eligible counties based on the findings of the demonstration project.
 
->         “(2) __Final report.—__ 
+>         “(2)  __Final report__  __.—__ 
 
 >         Not later than 1 year after the completion of the demonstration project, the Administrator of the Office of Rural Health Policy of the Health Resources and Services Administration, in coordination with the Administrator of the Centers for Medicare & Medicaid Services, shall submit a report to Congress on such project, together with recommendations for such legislation and administrative action as the Secretary determines appropriate.
 
->     “(i) __Waiver Authority.—__ 
+>     “(i)  __Waiver Authority__  __.—__ 
 
 >     The Secretary may waive such requirements of titles XVIII and XIX of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.; 1396 et seq.) as may be necessary and appropriate for the purpose of carrying out the demonstration project under this section.
 
->     “(j) __Definitions.—__ 
+>     “(j)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Extended care services.—__ 
+>         “(1)  __Extended care services__  __.—__ 
 
 >         The term ‘extended care services’ means the following:
 
@@ -665,31 +665,31 @@
 
 >             “(C) Hospice care.
 
->         “(2) __Covered skilled nursing facility services.—__ 
+>         “(2)  __Covered skilled nursing facility services__  __.—__ 
 
 >         The term ‘covered skilled nursing facility services’ has the meaning given such term in section 1888(e)(2)(A) of the Social Security Act ([42 U.S.C. 1395yy(e)(2)(A)][/us/usc/t42/s1395yy/e/2/A]).
 
->         “(3) __Critical access hospital.—__ 
+>         “(3)  __Critical access hospital__  __.—__ 
 
 >         The term ‘critical access hospital’ means a facility designated as a critical access hospital under section 1820(c) of such Act ([42 U.S.C. 1395i–4(c)][/us/usc/t42/s1395i–4/c]).
 
->         “(4) __Home health services.—__ 
+>         “(4)  __Home health services__  __.—__ 
 
 >         The term ‘home health services’ has the meaning given such term in section 1861(m) of such Act ([42 U.S.C. 1395x(m)][/us/usc/t42/s1395x/m]).
 
->         “(5) __Hospice care.—__ 
+>         “(5)  __Hospice care__  __.—__ 
 
 >         The term ‘hospice care’ has the meaning given such term in section 1861(dd) of such Act ([42 U.S.C. 1395x(dd)][/us/usc/t42/s1395x/dd]).
 
->         “(6) __Medicaid program.—__ 
+>         “(6)  __Medicaid program__  __.—__ 
 
 >         The term ‘Medicaid program’ means the program under title XIX of such Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.).
 
->         “(7) __Medicare program.—__ 
+>         “(7)  __Medicare program__  __.—__ 
 
 >         The term ‘Medicare program’ means the program under title XVIII of such Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.).
 
->         “(8) __Other essential health care services.—__ 
+>         “(8)  __Other essential health care services__  __.—__ 
 
 >         The term ‘other essential health care services’ means the following:
 
@@ -701,7 +701,7 @@
 
 >             “(D) Other health care services determined appropriate by the Secretary.
 
->         “(9) __Secretary.—__ 
+>         “(9)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of Health and Human Services.”
 
@@ -711,7 +711,7 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title II, § 206\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–483, provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct a study on the eligibility requirements for critical access hospitals under section 1820(c) of the Social Security Act ([42 U.S.C. 1395i–4(c)][/us/usc/t42/s1395i–4/c]) with respect to limitations on average length of stay and number of beds in such a hospital, including an analysis of—
 
@@ -719,7 +719,7 @@
 
 >         “(2) the effect of seasonal variations in patient admissions on critical access hospital eligibility requirements with respect to limitations on average annual length of stay and number of beds.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Dec. 21, 2000\], the Comptroller General shall submit to Congress a report on the study conducted under subsection (a) together with recommendations regarding—
 
@@ -735,17 +735,17 @@
 
 [Pub. L. 105–33, title IV, § 4201(c)(6)][/us/pl/105/33/s4201/c/6], Aug. 5, 1997, [111 Stat. 374][/us/stat/111/374], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The Secretary of Health and Human Services shall provide for an appropriate transition for a facility that, as of the date of the enactment of this Act \[Aug. 5, 1997\], operated as a limited service rural hospital under a demonstration described in section 4008(i)(1) of the Omnibus Budget Reconciliation Act of 1990 \[[Pub. L. 101–508][/us/pl/101/508]\] ([42 U.S.C. 1395b–1][/us/usc/t42/s1395b–1] note) from such demonstration to the program established under subsection (a) \[amending this section\]. At the conclusion of the transition period described in subparagraph (B), the Secretary shall end such demonstration.
 
 >     “(B) __Transition period described.—__ 
 
->         “(i) __Initial period.—__ 
+>         “(i)  __Initial period__  __.—__ 
 
 >         Subject to clause (ii), the transition period described in this subparagraph is the period beginning on the date of the enactment of this Act and ending on October 1, 1998.
 
->         “(ii) __Extension.—__ 
+>         “(ii)  __Extension__  __.—__ 
 
 >         If the Secretary determines that the transition is not complete as of October 1, 1998, the Secretary shall provide for an appropriate extension of the transition period.”
 

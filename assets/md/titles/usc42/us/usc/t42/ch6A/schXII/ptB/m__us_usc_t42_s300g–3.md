@@ -33,7 +33,7 @@
 
         (2) __Enforcement in nonprimacy states.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             If, on the basis of information available to the Administrator, the Administrator finds, with respect to a period in which a State does not have primary enforcement responsibility for public water systems, that a public water system in the State—
 
@@ -43,7 +43,7 @@
 
                 the Administrator shall issue an order under subsection (g) of this section requiring the public water system to comply with the requirement, or commence a civil action under subsection (b) of this section.
 
-            (B) __Notice.—__ 
+            (B)  __Notice__  __.—__ 
 
             If the Administrator takes any action pursuant to this paragraph, the Administrator shall notify an appropriate local elected official, if any, with jurisdiction over the public water system of the action prior to the time that the action is taken.
 

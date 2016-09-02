@@ -345,7 +345,7 @@
 
         (1) __Payments.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to subparagraph (B) and in addition to amounts made available under paragraph (3), payments to service institutions shall be—
 
@@ -355,11 +355,11 @@
 
                 (iii) 46 cents for each meal supplement served.
 
-            (B) __Adjustments.—__ 
+            (B)  __Adjustments__  __.—__ 
 
             Amounts specified in subparagraph (A) shall be adjusted on January 1, 1997, and each January 1 thereafter, to the nearest lower cent increment to reflect changes for the 12-month period ending the preceding November 30 in the series for food away from home of the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor. Each adjustment shall be based on the unrounded adjustment for the prior 12-month period.
 
-            (C) __Seamless summer reimbursements.—__ 
+            (C)  __Seamless summer reimbursements__  __.—__ 
 
             A service institution described in subsection (a)(8) of this section shall be reimbursed for meals and meal supplements in accordance with the applicable provisions under this chapter (other than subparagraphs (A) and (B) of this paragraph and paragraph (4)) and the Child Nutrition Act of 1966 ([42 U.S.C. 1771][/us/usc/t42/s1771] et seq.), as determined by the Secretary.
 
@@ -369,15 +369,15 @@
 
             (A) __Permanent operating agreements.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Subject to clauses (ii) and (iii), to participate in the program, a service institution that meets the conditions of eligibility described in this section and in regulations promulgated by the Secretary, shall be required to enter into a permanent agreement with the applicable State agency.
 
-                (ii) __Amendments.—__ 
+                (ii)  __Amendments__  __.—__ 
 
                 A permanent agreement described in clause (i) may be amended as necessary to ensure that the service institution is in compliance with all requirements established in this section or by the Secretary.
 
-                (iii) __Termination.—__ 
+                (iii)  __Termination__  __.—__ 
 
                 A permanent agreement described in clause (i)—
 
@@ -393,11 +393,11 @@
 
             (B) __Budget for administrative costs.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 When applying for participation in the program, and not less frequently than annually thereafter, each service institution shall submit a complete budget for administrative costs related to the program, which shall be subject to approval by the State.
 
-                (ii) __Amount.—__ 
+                (ii)  __Amount__  __.—__ 
 
                 Payment to service institutions for administrative costs shall equal the levels determined by the Secretary pursuant to the study required in paragraph (4).
 
@@ -445,7 +445,7 @@
 
         (6) Such inspections and any testing resulting therefrom shall be in accordance with the practices employed by such local health authority.
 
-        (7) __Offer versus serve.—__ 
+        (7)  __Offer versus serve__  __.—__ 
 
         A school food authority participating as a service institution may permit a child to refuse one or more items of a meal that the child does not intend to consume, under rules that the school uses for school meals programs. A refusal of an offered food item shall not affect the amount of payments made under this section to a school for the meal.
 

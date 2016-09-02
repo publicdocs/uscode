@@ -75,15 +75,15 @@
 
 [Pub. L. 109–432, div. B, title IV, § 402][/us/pl/109/432/s402], Dec. 20, 2006, [120 Stat. 2994][/us/stat/120/2994], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In supporting research on the development of vaccines against human diseases, the Secretary of Health and Human Services shall make grants for the purpose of conducting research toward the development of a vaccine against coccidioidomycosis (commonly known as Valley Fever).
 
->     “(b) __Sunset.—__ 
+>     “(b)  __Sunset__  __.—__ 
 
 >     No grant may be made under subsection (a) on or after October 1, 2012. The preceding sentence does not have any legal effect on payments under grants for which amounts appropriated under subsection (c) were obligated prior to such date.
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     For the purpose of making grants under subsection (a), there are authorized to be appropriated $40,000,000 for the period of fiscal years 2007 through 2012.”
 
@@ -91,7 +91,7 @@
 
 [Pub. L. 101–502, § 2(b)][/us/pl/101/502/s2/b], Nov. 3, 1990, [104 Stat. 1285][/us/stat/104/1285], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control, may make grants to public and nonprofit private entities for the purpose of carrying out demonstration projects—
 
@@ -99,7 +99,7 @@
 
 >         “(B) to provide outreach services to identify such children and to inform the parents (or other guardians) of the children of the availability from the entities of the immunizations specified in subparagraph (A).
 
->     “(2) __Authorization of appropriations.—__ 
+>     “(2)  __Authorization of appropriations__  __.—__ 
 
 >     For the purpose of carrying out paragraph (1), there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1991 through 1993.”
 
@@ -109,11 +109,11 @@
 
 [Pub. L. 101–502, § 3][/us/pl/101/502/s3], Nov. 3, 1990, [104 Stat. 1285][/us/stat/104/1285], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control, shall acquire and maintain a supply of vaccines sufficient to provide vaccinations throughout a 6-month period. Any proceeds received by the Secretary from the sale of vaccines from such supply shall be available to the Secretary for the purpose of purchasing vaccines for the supply. Such proceeds shall remain available for such purpose until expended.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     For the purpose of carrying out subsection (a), there are authorized to be appropriated $5,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1995.”
 
@@ -121,11 +121,11 @@
 
 [Pub. L. 100–177, title I, § 110(b)][/us/pl/100/177/s110/b], Dec. 1, 1987, [101 Stat. 991][/us/stat/101/991], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control, shall acquire and maintain a supply of vaccines sufficient to provide vaccinations throughout a 6-month period.
 
->     “(2) __Authorization of Appropriations.—__ 
+>     “(2)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to carry out paragraph (1) $5,000,000 for fiscal year 1988, and such sums as may be necessary for each of the fiscal years 1989 and 1990.”
 

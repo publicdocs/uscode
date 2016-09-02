@@ -129,11 +129,11 @@
 
 [Pub. L. 109–58, title XII, § 1274][/us/pl/109/58/s1274], Aug. 8, 2005, [119 Stat. 977][/us/stat/119/977], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except for section 1272 \[[42 U.S.C. 16460][/us/usc/t42/s16460]\] (relating to implementation), this subtitle \[subtitle F (§§ 1261 to 1277) of title XII of [Pub. L. 109–58][/us/pl/109/58], enacting this part, amending sections 824 and 824m of Title 16, Conservation, repealing chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, and [section 825q of Title 16][/us/usc/t16/s825q], and enacting provisions set out as a note under [section 15801 of this title][/us/usc/t42/s15801]\] shall take effect 6 months after the date of enactment of this subtitle \[Aug. 8, 2005\].
 
->     “(b) __Compliance With Certain Rules.—__ 
+>     “(b)  __Compliance With Certain Rules__  __.—__ 
 
 >     If the \[Federal Energy Regulatory\] Commission approves and makes effective any final rulemaking modifying the standards of conduct governing entities that own, operate, or control facilities for transmission of electricity in interstate commerce or transportation of natural gas in interstate commerce prior to the effective date of this subtitle, any action taken by a public-utility company or utility holding company to comply with the requirements of such rulemaking shall not subject such public-utility company or utility holding company to any regulatory requirement applicable to a holding company under the Public Utility Holding Company Act of 1935 ([15 U.S.C. 79][/us/usc/t15/s79] et seq.).”
 

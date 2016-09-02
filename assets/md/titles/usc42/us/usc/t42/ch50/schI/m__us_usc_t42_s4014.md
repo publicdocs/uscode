@@ -195,7 +195,7 @@
 
 >     “(a) __Eligibility for Flood Insurance Coverage.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law (including section 1307(e) of the National Flood Insurance Act of 1968 ([42 U.S.C. 4014(e)][/us/usc/t42/s4014/e])), a person residing in a community that the Administrator determines has made adequate progress on the reconstruction or improvement of a flood protection system that will afford flood protection for a 100-year floodplain (without regard to the level of Federal funding of or participation in the construction, reconstruction, or improvement), shall be eligible for flood insurance coverage under the National Flood Insurance Program—
 
@@ -205,7 +205,7 @@
 
 >         “(2) __Adequate progress.—__ 
 
->             “(A) __Reconstruction or improvement.—__ 
+>             “(A)  __Reconstruction or improvement__  __.—__ 
 
 >             For purposes of paragraph (1), the Administrator shall determine that a community has made adequate progress on the reconstruction or improvement of a flood protection system if—
 
@@ -217,25 +217,25 @@
 
 >                 “(iv) the reconstruction or improvement has a project schedule that does not exceed 5 years, beginning on the date on which the reconstruction or construction of the improvement commences.
 
->             “(B) __Considerations.—__ 
+>             “(B)  __Considerations__  __.—__ 
 
 >             In determining whether a flood protection system has been assessed as being without deficiencies, the Administrator shall consider the requirements under section 65.10 of chapter 44, Code of Federal Regulations, or any successor thereto.
 
->             “(C) __Date of commencement.—__ 
+>             “(C)  __Date of commencement__  __.—__ 
 
 >             For purposes of subparagraph (A)(iv) of this paragraph and subsection (b)(2)(B), the date of commencement of the reconstruction or improvement of a flood protection system that is undergoing reconstruction or improvement on the date of enactment of this Act \[July 6, 2012\] shall be deemed to be the date on which the owner of the flood protection system submits a request under paragraph (3).
 
->         “(3) __Request for determination.—__ 
+>         “(3)  __Request for determination__  __.—__ 
 
 >         The owner of a flood protection system that is undergoing reconstruction or improvement on the date of enactment of this Act \[July 6, 2012\] may submit to the Administrator a request for a determination under paragraph (2) that the community in which the flood protection system is located has made adequate progress on the reconstruction or improvement of the flood protection system.
 
->         “(4) __Rule of construction.—__ 
+>         “(4)  __Rule of construction__  __.—__ 
 
 >         Nothing in this subsection shall be construed to prohibit the Administrator from making a determination under paragraph (2) for any community in which a flood protection system is not undergoing reconstruction or improvement on the date of enactment of this Act.
 
 >     “(b) __Termination of Eligibility.—__ 
 
->         “(1) __Adequate continuing progress.—__ 
+>         “(1)  __Adequate continuing progress__  __.—__ 
 
 >         The Administrator shall issue rules to establish a method of determining whether a community has made adequate continuing progress on the reconstruction or improvement of a flood protection system that includes—
 
@@ -263,7 +263,7 @@
 
 >                 “(ii) provide the owner of the flood protection system the opportunity to appeal the determination.
 
->         “(2) __Termination.—__ 
+>         “(2)  __Termination__  __.—__ 
 
 >         The Administrator shall terminate the eligibility for flood insurance coverage under subsection (a) for persons residing in a community with respect to which the Administrator made a determination under subsection (a) if—
 
@@ -271,7 +271,7 @@
 
 >             “(B) on the date that is 5 years after the date on which the reconstruction or construction of the improvement commences, the project has not been completed.
 
->         “(3) __Waiver.—__ 
+>         “(3)  __Waiver__  __.—__ 
 
 >         A person whose eligibility would otherwise be terminated under paragraph (2)(B) shall continue to be eligible to purchase flood insurance coverage described in subsection (a) if the Administrator determines—
 
@@ -279,13 +279,13 @@
 
 >             “(B) there is a reasonable expectation that the reconstruction or improvement of the flood protection system will be completed not later than 1 year after the date of the determination under this paragraph.
 
->         “(4) __Risk premium rate.—__ 
+>         “(4)  __Risk premium rate__  __.—__ 
 
 >         If the Administrator terminates the eligibility of persons residing in a community to purchase flood insurance coverage described in subsection (a), the Administrator shall establish an appropriate risk premium rate for flood insurance coverage under the National Flood Insurance Program for persons residing in the community that purchased flood insurance coverage before the date on which the termination of eligibility takes effect, taking into consideration the then-current state of the flood protection system.
 
 >     “(c) __Additional Authority.—__ 
 
->         “(1) __Additional authority.—__ 
+>         “(1)  __Additional authority__  __.—__ 
 
 >         Notwithstanding subsection (a), in exceptional and exigent circumstances, the Administrator may, in the Administrator’s sole discretion, determine that a person residing in a community, which is a participant in the National Flood Insurance Program, that has begun reconstruction or improvement of a flood protection system that will afford flood protection for a 100-year floodplain (without regard to the level of Federal funding of or participation in the reconstruction or improvement) shall be eligible for flood insurance coverage under the National Flood Insurance Program at a risk premium rate that does not exceed the risk premium rate that would be chargeable if the flood protection system had been completed, provided—
 
@@ -295,11 +295,11 @@
 
 >             “(C) the eligibility for flood insurance coverage at a risk premium rate determined under this subsection terminates no later than 1 year after the date on which the Administrator makes the determination.
 
->         “(2) __Limitation.—__ 
+>         “(2)  __Limitation__  __.—__ 
 
 >         Upon termination of eligibility under paragraph (1)(C), a community may submit another request pursuant to paragraph (1)(A). The Administrator may make no more than two determinations under paragraph (1) with respect to persons residing within any single requesting community.
 
->         “(3) __Termination.—__ 
+>         “(3)  __Termination__  __.—__ 
 
 >         The authority provided under paragraphs (1) and (2) shall terminate two years after the enactment of this Act \[July 6, 2012\].”
 

@@ -831,19 +831,19 @@
 
 [Pub. L. 108–173, title IX, § 938(b)][/us/pl/108/173/s938/b], Dec. 8, 2003, [117 Stat. 2415][/us/stat/117/2415], provided that:
 
->     “(1) __Effective date.—__ 
+>     “(1)  __Effective date__  __.—__ 
 
 >     The Secretary \[of Health and Human Services\] shall establish the prior determination process under the amendment made by subsection (a) \[amending this section\] in such a manner as to provide for the acceptance of requests for determinations under such process filed not later than 18 months after the date of the enactment of this Act \[Dec. 8, 2003\].
 
->     “(2) __Sunset.—__ 
+>     “(2)  __Sunset__  __.—__ 
 
 >     Such prior determination process shall not apply to requests filed after the end of the 5-year period beginning on the first date on which requests for determinations under such process are accepted.
 
->     “(3) __Transition.—__ 
+>     “(3)  __Transition__  __.—__ 
 
 >     During the period in which the amendment made by subsection (a) \[amending this section\] has become effective but contracts are not provided under section 1874A of the Social Security Act \[[42 U.S.C. 1395kk–1][/us/usc/t42/s1395kk–1]\] with medicare administrative contractors, any reference in section 1869(g) \[probably should be 1869(h)\] of such Act \[[42 U.S.C. 1395ff(h)][/us/usc/t42/s1395ff/h]\] (as added by such amendment) to such a contractor is deemed a reference to a fiscal intermediary or carrier with an agreement under section 1816, or contract under section 1842, respectively, of such Act \[[42 U.S.C. 1395h][/us/usc/t42/s1395h], 1395u\].
 
->     “(4) __Limitation on application to sgr.—__ 
+>     “(4)  __Limitation on application to sgr__  __.—__ 
 
 >     For purposes of applying section 1848(f)(2)(D) of the Social Security Act ([42 U.S.C. 1395w–4(f)(2)(D)][/us/usc/t42/s1395w–4/f/2/D]), the amendment made by subsection (a) \[amending this section\] shall not be considered to be a change in law or regulation.”
 
@@ -907,39 +907,39 @@
 
 >     “(a) __Transition Plan.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than April 1, 2004, the Commissioner of Social Security and the Secretary \[of Health and Human Services\] shall develop and transmit to Congress and the Comptroller General of the United States a plan under which the functions of administrative law judges responsible for hearing cases under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] (and related provisions in title XI of such Act \[[42 U.S.C. 1301][/us/usc/t42/s1301] et seq.\]) are transferred from the responsibility of the Commissioner and the Social Security Administration to the Secretary and the Department of Health and Human Services.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         The plan shall include information on the following:
 
->             “(A) __Workload.—__ 
+>             “(A)  __Workload__  __.—__ 
 
 >             The number of such administrative law judges and support staff required now and in the future to hear and decide such cases in a timely manner, taking into account the current and anticipated claims volume, appeals, number of beneficiaries, and statutory changes.
 
->             “(B) __Cost projections and financing.—__ 
+>             “(B)  __Cost projections and financing__  __.—__ 
 
 >             Funding levels required for fiscal year 2005 and subsequent fiscal years to carry out the functions transferred under the plan.
 
->             “(C) __Transition timetable.—__ 
+>             “(C)  __Transition timetable__  __.—__ 
 
 >             A timetable for the transition.
 
->             “(D) __Regulations.—__ 
+>             “(D)  __Regulations__  __.—__ 
 
 >             The establishment of specific regulations to govern the appeals process.
 
->             “(E) __Case tracking.—__ 
+>             “(E)  __Case tracking__  __.—__ 
 
 >             The development of a unified case tracking system that will facilitate the maintenance and transfer of case specific data across both the fee-for-service and managed care components of the medicare program.
 
->             “(F) __Feasibility of precedential authority.—__ 
+>             “(F)  __Feasibility of precedential authority__  __.—__ 
 
 >             The feasibility of developing a process to give decisions of the Departmental Appeals Board in the Department of Health and Human Services addressing broad legal issues binding, precedential authority.
 
->             “(G) __Access to administrative law judges.—__ 
+>             “(G)  __Access to administrative law judges__  __.—__ 
 
 >             The feasibility of—
 
@@ -947,65 +947,65 @@
 
 >                 “(ii) conducting hearings using tele- or video-conference technologies.
 
->             “(H) __Independence of administrative law judges.—__ 
+>             “(H)  __Independence of administrative law judges__  __.—__ 
 
 >             The steps that should be taken to ensure the independence of administrative law judges consistent with the requirements of subsection (b)(2).
 
->             “(I) __Geographic distribution.—__ 
+>             “(I)  __Geographic distribution__  __.—__ 
 
 >             The steps that should be taken to provide for an appropriate geographic distribution of administrative law judges throughout the United States to carry out subsection (b)(3).
 
->             “(J) __Hiring.—__ 
+>             “(J)  __Hiring__  __.—__ 
 
 >             The steps that should be taken to hire administrative law judges (and support staff) to carry out subsection (b)(4).
 
->             “(K) __Performance standards.—__ 
+>             “(K)  __Performance standards__  __.—__ 
 
 >             The appropriateness of establishing performance standards for administrative law judges with respect to timelines for decisions in cases under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] taking into account requirements under subsection (b)(2) for the independence of such judges and consistent with the applicable provisions of title 5, United States Code\[,\] relating to impartiality.
 
->             “(L) __Shared resources.—__ 
+>             “(L)  __Shared resources__  __.—__ 
 
 >             The steps that should be taken to carry out subsection (b)(6) (relating to the arrangements with the Commissioner of Social Security to share office space, support staff, and other resources, with appropriate reimbursement).
 
->             “(M) __Training.—__ 
+>             “(M)  __Training__  __.—__ 
 
 >             The training that should be provided to administrative law judges with respect to laws and regulations under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].
 
->         “(3) __Additional information.—__ 
+>         “(3)  __Additional information__  __.—__ 
 
 >         The plan may also include recommendations for further congressional action, including modifications to the requirements and deadlines established under section 1869 of the Social Security Act ([42 U.S.C. 1395ff][/us/usc/t42/s1395ff]) (as amended by this Act).
 
->         “(4) __GAO evaluation.—__ 
+>         “(4) __GAO__  __evaluation__  __.—__ 
 
 >         The Comptroller General of the United States shall evaluate the plan and, not later than the date that is 6 months after the date on which the plan is received by the Comptroller General, shall submit to Congress a report on such evaluation.
 
 >     “(b) __Transfer of Adjudication Authority.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not earlier than July 1, 2005, and not later than October 1, 2005, the Commissioner of Social Security and the Secretary shall implement the transition plan under subsection (a) and transfer the administrative law judge functions described in such subsection from the Social Security Administration to the Secretary.
 
->         “(2) __Assuring independence of judges.—__ 
+>         “(2)  __Assuring independence of judges__  __.—__ 
 
 >         The Secretary shall assure the independence of administrative law judges performing the administrative law judge functions transferred under paragraph (1) from the Centers for Medicare & Medicaid Services and its contractors. In order to assure such independence, the Secretary shall place such judges in an administrative office that is organizationally and functionally separate from such Centers. Such judges shall report to, and be under the general supervision of, the Secretary, but shall not report to, or be subject to supervision by, another officer of the Department of Health and Human Services.
 
->         “(3) __Geographic distribution.—__ 
+>         “(3)  __Geographic distribution__  __.—__ 
 
 >         The Secretary shall provide for an appropriate geographic distribution of administrative law judges performing the administrative law judge functions transferred under paragraph (1) throughout the United States to ensure timely access to such judges.
 
->         “(4) __Hiring authority.—__ 
+>         “(4)  __Hiring authority__  __.—__ 
 
 >         Subject to the amounts provided in advance in appropriations Acts, the Secretary shall have authority to hire administrative law judges to hear such cases, taking into consideration those judges with expertise in handling medicare appeals and in a manner consistent with paragraph (3), and to hire support staff for such judges.
 
->         “(5) __Financing.—__ 
+>         “(5)  __Financing__  __.—__ 
 
 >         Amounts payable under law to the Commissioner for administrative law judges performing the administrative law judge functions transferred under paragraph (1) from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund shall become payable to the Secretary for the functions so transferred.
 
->         “(6) __Shared resources.—__ 
+>         “(6)  __Shared resources__  __.—__ 
 
 >         The Secretary shall enter into such arrangements with the Commissioner as may be appropriate with respect to transferred functions of administrative law judges to share office space, support staff, and other resources, with appropriate reimbursement from the Trust Funds described in paragraph (5).
 
->     “(c) __Increased Financial Support.—__ 
+>     “(c)  __Increased Financial Support__  __.—__ 
 
 >     In addition to any amounts otherwise appropriated, to ensure timely action on appeals before administrative law judges and the Departmental Appeals Board consistent with section 1869 of the Social Security Act ([42 U.S.C. 1395ff][/us/usc/t42/s1395ff]) (as amended by this Act), there are authorized to be appropriated (in appropriate part from the Federal Hospital Insurance Trust Fund, established under section 1817 of the Social Security Act ([42 U.S.C. 1395i][/us/usc/t42/s1395i]), and the Federal Supplementary Medical Insurance Trust Fund, established under section 1841 of such Act ([42 U.S.C. 1395t][/us/usc/t42/s1395t])) to the Secretary such sums as are necessary for fiscal year 2005 and each subsequent fiscal year to—
 
@@ -1025,11 +1025,11 @@
 
 [Pub. L. 108–173, title IX, § 937][/us/pl/108/173/s937], Dec. 8, 2003, [117 Stat. 2412][/us/stat/117/2412], provided that:
 
->     “(a) __Claims.—__ 
+>     “(a)  __Claims__  __.—__ 
 
 >     The Secretary \[of Health and Human Services\] shall develop, in consultation with appropriate medicare contractors (as defined in section 1889(g) of the Social Security Act \[[42 U.S.C. 1395zz(g)][/us/usc/t42/s1395zz/g]\], as inserted by section 301(a)(1) \[probably should be 921(f)(1)\]) and representatives of providers of services and suppliers, a process whereby, in the case of minor errors or omissions (as defined by the Secretary) that are detected in the submission of claims under the programs under title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], a provider of services or supplier is given an opportunity to correct such an error or omission without the need to initiate an appeal. Such process shall include the ability to resubmit corrected claims.
 
->     “(b) __Deadline.—__ 
+>     “(b)  __Deadline__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary shall first develop the process under subsection (a).”
 
@@ -1041,7 +1041,7 @@
 
 [Pub. L. 100–203, title IV, § 4037][/us/pl/100/203/s4037], Dec. 22, 1987, [101 Stat. 1330–80][/us/stat/101/1330-80], provided that:
 
->     “(a) __Maintaining Current System for Hearings and Appeals.—__ 
+>     “(a)  __Maintaining Current System for Hearings and Appeals__  __.—__ 
 
 >     Any hearing conducted under section 1869(b)(1) of the Social Security Act \[[42 U.S.C. 1395ff(b)(1)][/us/usc/t42/s1395ff/b/1]\] prior to the earliest of the date on which the Secretary of Health and Human Services submits the report required to be submitted by the Secretary under subsection (b)(1) or September 1 shall be conducted by Administrative Law Judges of the Office of Hearings and Appeals of the Social Security Administration in the same manner as are hearings conducted under section 205(b)(1) of such Act \[[42 U.S.C. 405(b)(1)][/us/usc/t42/s405/b/1]\].
 

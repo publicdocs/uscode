@@ -37,11 +37,11 @@
 
 [Pub. L. 106–390, title II, § 202(b)][/us/pl/106/390/s202/b], Oct. 30, 2000, [114 Stat. 1560][/us/stat/114/1560], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Subject to paragraph (2), subsections (a) and (b) of section 324 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[[42 U.S.C. 5165b(a)][/us/usc/t42/s5165b/a], (b)\] (as added by subsection (a)) shall apply to major disasters declared under that Act \[[42 U.S.C. 5121][/us/usc/t42/s5121] et seq.\] on or after the date of the enactment of this Act \[Oct. 30, 2000\].
 
->     “(2) __Interim authority.—__ 
+>     “(2)  __Interim authority__  __.—__ 
 
 >     Until the date on which the President establishes the management cost rates under section 324 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (as added by subsection (a)), section 406(f) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5172(f)][/us/usc/t42/s5172/f]) (as in effect on the day before the date of the enactment of this Act) shall be used to establish management cost rates.”
 

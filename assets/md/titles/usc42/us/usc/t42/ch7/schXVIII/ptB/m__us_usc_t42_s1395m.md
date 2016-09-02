@@ -2369,11 +2369,11 @@
 
 [Pub. L. 111–148, title III, § 3136(c)][/us/pl/111/148/s3136/c], Mar. 23, 2010, [124 Stat. 438][/us/stat/124/438], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Subject to paragraph (2), the amendments made by subsection (a) \[amending this section\] shall take effect on January 1, 2011, and shall apply to power-driven wheelchairs furnished on or after such date.
 
->     “(2) __Application to competitive bidding.—__ 
+>     “(2)  __Application to competitive bidding__  __.—__ 
 
 >     The amendments made by subsection (a) shall not apply to payment made for items and services furnished pursuant to contracts entered into under section 1847 of the Social Security Act ([42 U.S.C. 1395w–3][/us/usc/t42/s1395w–3]) prior to January 1, 2011, pursuant to the implementation of subsection (a)(1)(B)(i)(I) of such section 1847.”
 
@@ -2411,11 +2411,11 @@
 
 [Pub. L. 109–171, title V, § 5101(b)(2)][/us/pl/109/171/s5101/b/2], Feb. 8, 2006, [120 Stat. 39][/us/stat/120/39], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The amendments made by paragraph (1) \[amending this section\] shall take effect on January 1, 2006.
 
->     “(B) __Application to certain individuals.—__ 
+>     “(B)  __Application to certain individuals__  __.—__ 
 
 >     In the case of an individual receiving oxygen equipment on December 31, 2005, for which payment is made under section 1834(a) of the Social Security Act ([42 U.S.C. 1395m(a)][/us/usc/t42/s1395m/a]), the 36-month period described in paragraph (5)(F)(i) of such section, as added by paragraph (1), shall begin on January 1, 2006.”
 
@@ -2431,11 +2431,11 @@
 
 [Pub. L. 108–173, title IV, § 405(d)(2)][/us/pl/108/173/s405/d/2], Dec. 8, 2003, [117 Stat. 2267][/us/stat/117/2267], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as provided in subparagraph (B), the amendment made by paragraph (1) \[amending this section\] shall apply to cost reporting periods beginning on or after July 1, 2004.
 
->     “(B) __Rule of application.—__ 
+>     “(B)  __Rule of application__  __.—__ 
 
 >     In the case of a critical access hospital that made an election under section 1834(g)(2) of the Social Security Act ([42 U.S.C. 1395m(g)(2)][/us/usc/t42/s1395m/g/2]) before November 1, 2003, the amendment made by paragraph (1) shall apply to cost reporting periods beginning on or after July 1, 2001.”
 
@@ -2499,11 +2499,11 @@
 
 [Pub. L. 105–33, title IV, § 4105(d)][/us/pl/105/33/s4105/d], Aug. 5, 1997, [111 Stat. 367][/us/stat/111/367], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1395w–4 and 1395x of this title\] shall apply to items and services furnished on or after July 1, 1998.
 
->     “(2) __Testing strips.—__ 
+>     “(2)  __Testing strips__  __.—__ 
 
 >     The amendment made by subsection (b)(2) \[amending this section\] shall apply with respect to blood glucose testing strips furnished on or after January 1, 1998.”
 
@@ -2531,11 +2531,11 @@
 
 [Pub. L. 105–33, title IV, § 4552(e)][/us/pl/105/33/s4552/e], Aug. 5, 1997, [111 Stat. 459][/us/stat/111/459], provided that:
 
->     “(1) __Oxygen.—__ 
+>     “(1)  __Oxygen__  __.—__ 
 
 >     The amendments made by subsection (a) \[amending this section\] shall apply to items furnished on and after January 1, 1998.
 
->     “(2) __Other provisions.—__ 
+>     “(2)  __Other provisions__  __.—__ 
 
 >     The amendments made by this section other than subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -2717,15 +2717,15 @@
 
 >     “(1) __Conduct of demonstration project.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall conduct a demonstration project using the models described in paragraph (2)(E) to collect data regarding physician compliance with appropriateness criteria selected under paragraph (2)(D) in order to determine the appropriateness of advanced diagnostic imaging services furnished to Medicare beneficiaries.
 
->         “(B) __Advanced diagnostic imaging services.—__ 
+>         “(B)  __Advanced diagnostic imaging services__  __.—__ 
 
 >         In this subsection, the term ‘advanced diagnostic imaging services’ has the meaning given such term in section 1834(e)(1)(B) of the Social Security Act \[[42 U.S.C. 1395m(e)(1)(B)][/us/usc/t42/s1395m/e/1/B]\], as added by subsection (a).
 
->         “(C) __Authority to focus demonstration project.—__ 
+>         “(C)  __Authority to focus demonstration project__  __.—__ 
 
 >         The Secretary may focus the demonstration project with respect to certain advanced diagnostic imaging services, such as services that account for a large amount of expenditures under the Medicare program, services that have recently experienced a high rate of growth, or services for which appropriateness criteria exists.
 
@@ -2733,21 +2733,21 @@
 
 >         “(A) __Implementation and duration.—__ 
 
->             “(i) __Implementation.—__ 
+>             “(i)  __Implementation__  __.—__ 
 
 >             The Secretary shall implement the demonstration project under this subsection not later than January 1, 2010.
 
->             “(ii) __Duration.—__ 
+>             “(ii)  __Duration__  __.—__ 
 
 >             The Secretary shall conduct the demonstration project under this subsection for a 2-year period.
 
 >         “(B) __Application and selection of participating physicians.—__ 
 
->             “(i) __Application.—__ 
+>             “(i)  __Application__  __.—__ 
 
 >             Each physician that desires to participate in the demonstration project under this subsection shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
->             “(ii) __Selection.—__ 
+>             “(ii)  __Selection__  __.—__ 
 
 >             The Secretary shall select physicians to participate in the demonstration project under this subsection from among physicians submitting applications under clause (i). The Secretary shall ensure that the physicians selected—
 
@@ -2755,7 +2755,7 @@
 
 >                 “(II) have the capability to submit data to the Secretary (or an entity under a subcontract with the Secretary) in an electronic format in accordance with standards established by the Secretary.
 
->         “(C) __Administrative costs and incentives.—__ 
+>         “(C)  __Administrative costs and incentives__  __.—__ 
 
 >         The Secretary shall—
 
@@ -2765,11 +2765,11 @@
 
 >         “(D) __Use of appropriateness criteria.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             The Secretary, in consultation with medical specialty societies and other stakeholders, shall select criteria with respect to the clinical appropriateness of advanced diagnostic imaging services for use in the demonstration project under this subsection.
 
->             “(ii) __Criteria selected.—__ 
+>             “(ii)  __Criteria selected__  __.—__ 
 
 >             Any criteria selected under clause (i) shall—
 
@@ -2777,7 +2777,7 @@
 
 >                 “(II) be developed in adherence to appropriateness principles developed by a consensus organization, such as the AQA alliance.
 
->         “(E) __Models for collecting data regarding physician compliance with selected criteria.—__ 
+>         “(E)  __Models for collecting data regarding physician compliance with selected criteria__  __.—__ 
 
 >         Subject to subparagraph (H), in carrying out the demonstration project under this subsection, the Secretary shall use each of the following models for collecting data regarding physician compliance with appropriateness criteria selected under subparagraph (D):
 
@@ -2787,7 +2787,7 @@
 
 >             “(iii) Any other model that the Secretary determines to be useful in evaluating the use of appropriateness criteria for advanced diagnostic imaging services.
 
->         “(F) __Point of service model described.—__ 
+>         “(F)  __Point of service model described__  __.—__ 
 
 >         A model described in this subparagraph is a model that—
 
@@ -2803,7 +2803,7 @@
 
 >             “(ii) provides for feedback reports in accordance with paragraph (3)(B).
 
->         “(G) __Point of order model described.—__ 
+>         “(G)  __Point of order model described__  __.—__ 
 
 >         A model described in this subparagraph is a model that—
 
@@ -2811,7 +2811,7 @@
 
 >             “(ii) provides for feedback reports in accordance with paragraph (3)(B).
 
->         “(H) __Limitation.—__ 
+>         “(H)  __Limitation__  __.—__ 
 
 >         In no case may the Secretary use prior authorization—
 
@@ -2821,11 +2821,11 @@
 
 >         “(I) __Required contracts and performance standards for certain entities.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             The Secretary shall enter into contracts with entities to carry out the model described in subparagraph (G).
 
->             “(ii) __Performance standards.—__ 
+>             “(ii)  __Performance standards__  __.—__ 
 
 >             The Secretary shall establish and enforce performance standards for such entities under the contracts entered into under clause (i), including performance standards with respect to—
 
@@ -2839,7 +2839,7 @@
 
 >     “(3) __Comparison of utilization of advanced diagnostic imaging services and feedback reports.—__ 
 
->         “(A) __Comparison of utilization of advanced diagnostic imaging services.—__ 
+>         “(A)  __Comparison of utilization of advanced diagnostic imaging services__  __.—__ 
 
 >         The Secretary shall consult with medical specialty societies and other stakeholders to develop mechanisms for comparing the utilization of advanced diagnostic imaging services by physicians participating in the demonstration project under this subsection against—
 
@@ -2847,7 +2847,7 @@
 
 >             “(ii) to the extent feasible, the utilization of such services by physicians not participating in the demonstration project.
 
->         “(B) __Feedback reports.—__ 
+>         “(B)  __Feedback reports__  __.—__ 
 
 >         The Secretary shall, in consultation with medical specialty societies and other stakeholders, develop mechanisms to provide feedback reports to physicians participating in the demonstration project under this subsection. Such feedback reports shall include—
 
@@ -2869,17 +2869,17 @@
 
 >     “(4) __Conduct of demonstration project and waiver.—__ 
 
->         “(A) __Conduct of demonstration project.—__ 
+>         “(A)  __Conduct of demonstration project__  __.—__ 
 
 >         Chapter 35 of title 44, United States Code, shall not apply to the conduct of the demonstration project under this subsection.
 
->         “(B) __Waiver.—__ 
+>         “(B)  __Waiver__  __.—__ 
 
 >         The Secretary may waive such provisions of titles XI and XVIII of the Social Security Act ([42 U.S.C. 1301][/us/usc/t42/s1301] et seq.; 1395 et seq.) as may be necessary to carry out the demonstration project under this subsection.
 
 >     “(5) __Evaluation and report.—__ 
 
->         “(A) __Evaluation.—__ 
+>         “(A)  __Evaluation__  __.—__ 
 
 >         The Secretary shall evaluate the demonstration project under this subsection to—
 
@@ -2915,11 +2915,11 @@
 
 >                 “(VI) the potential for using methods (including financial incentives), in addition to those used under the models under the demonstration project, to ensure compliance with such criteria.
 
->         “(B) __Report.—__ 
+>         “(B)  __Report__  __.—__ 
 
 >         Not later than 1 year after the completion of the demonstration project under this subsection, the Secretary shall submit to Congress a report containing the results of the evaluation of the demonstration project conducted under subparagraph (A), together with recommendations for such legislation and administrative action as the Secretary determines appropriate.
 
->     “(6) __Funding.—__ 
+>     “(6)  __Funding__  __.—__ 
 
 >     The Secretary shall provide for the transfer from the Federal Supplementary Medical Insurance Trust Fund established under section 1841 of the Social Security Act ([42 U.S.C. 1395t][/us/usc/t42/s1395t]) of $10,000,000, for carrying out the demonstration project under this subsection (including costs associated with administering the demonstration project, reimbursing physicians for administrative costs and providing incentives to encourage participation under paragraph (2)(C), entering into contracts under paragraph (2)(I), and evaluating the demonstration project under paragraph (5)).”
 
@@ -2961,15 +2961,15 @@
 
 [Pub. L. 108–173, title IV, § 418][/us/pl/108/173/s418], Dec. 8, 2003, [117 Stat. 2283][/us/stat/117/2283], provided that:
 
->     “(a) __Evaluation.—__ 
+>     “(a)  __Evaluation__  __.—__ 
 
 >     The Secretary \[of Health and Human Services\], acting through the Administrator of the Health Resources and Services Administration in consultation with the Administrator of the Centers for Medicare & Medicaid Services, shall evaluate demonstration projects conducted by the Secretary under which skilled nursing facilities (as defined in section 1819(a) of the Social Security Act ([42 U.S.C. 1395i–3(a)][/us/usc/t42/s1395i–3/a])\[)\] are treated as originating sites for telehealth services.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than January 1, 2005, the Secretary shall submit to Congress a report on the evaluation conducted under subsection (a). Such report shall include recommendations on mechanisms to ensure that permitting a skilled nursing facility to serve as an originating site for the use of telehealth services or any other service delivered via a telecommunications system does not serve as a substitute for in-person visits furnished by a physician, or for in-person visits furnished by a physician assistant, nurse practitioner or clinical nurse specialist, as is otherwise required by the Secretary.
 
->     “(c) __Authority To Expand Originating Telehealth Sites To Include Skilled Nursing Facilities.—__ 
+>     “(c)  __Authority To Expand Originating Telehealth Sites To Include Skilled Nursing Facilities__  __.—__ 
 
 >     Insofar as the Secretary concludes in the report required under subsection (b) that it is advisable to permit a skilled nursing facility to be an originating site for telehealth services under section 1834(m) of the Social Security Act ([42 U.S.C. 1395m(m)][/us/usc/t42/s1395m/m]), and that the Secretary can establish the mechanisms to ensure such permission does not serve as a substitute for in-person visits furnished by a physician, or for in-person visits furnished by a physician assistant, nurse practitioner or clinical nurse specialist, the Secretary may deem a skilled nursing facility to be an originating site under paragraph (4)(C)(ii) of such section beginning on January 1, 2006.”
 
@@ -2979,7 +2979,7 @@
 
 >     “(1) __Tests furnished in 2001.—__ 
 
->         “(A) __Screening.—__ 
+>         “(A)  __Screening__  __.—__ 
 
 >         For a screening mammography (as defined in section 1861(jj) of the Social Security Act ([42 U.S.C. 1395x(jj)][/us/usc/t42/s1395x/jj])) furnished during the period beginning on April 1, 2001, and ending on December 31, 2001, that uses a new technology, payment for such screening mammography shall be made as follows:
 
@@ -2987,23 +2987,23 @@
 
 >             “(ii) In the case of a technology which allows conversion of a standard film mammogram into a digital image and subsequently analyzes such resulting image with software to identify possible problem areas, in an amount equal to the limit that would otherwise be applied under section 1834(c)(3) of such Act ([42 U.S.C. 1395m(c)(3)][/us/usc/t42/s1395m/c/3]) for 2001, increased by $15.
 
->         “(B) __Bilateral diagnostic mammography.—__ 
+>         “(B)  __Bilateral diagnostic mammography__  __.—__ 
 
 >         For a bilateral diagnostic mammography furnished during the period beginning on April 1, 2001, and ending on December 31, 2001, that uses a new technology described in subparagraph (A), payment for such mammography shall be the amount of payment provided for under such subparagraph.
 
->         “(C) __Allocation of amounts.—__ 
+>         “(C)  __Allocation of amounts__  __.—__ 
 
 >         The Secretary shall provide for an appropriate allocation of the amounts under subparagraphs (A) and (B) between the professional and technical components.
 
->         “(D) __Implementation of provision.—__ 
+>         “(D)  __Implementation of provision__  __.—__ 
 
 >         The Secretary of Health and Human Services may implement the provisions of this paragraph by program memorandum or otherwise.
 
->     “(2) __Consideration of new hcpcs code for new technologies after 2001.—__ 
+>     “(2)  __Consideration of new hcpcs code for new technologies after 2001__  __.—__ 
 
 >     The Secretary shall determine, for such mammographies performed after 2001, whether the assignment of a new HCPCS code is appropriate for mammography that uses a new technology. If the Secretary determines that a new code is appropriate for such mammography, the Secretary shall provide for such new code for such tests furnished after 2001.
 
->     “(3) __New technology described.—__ 
+>     “(3)  __New technology described__  __.—__ 
 
 >     For purposes of this subsection, a new technology with respect to a mammography is an advance in technology with respect to the test or equipment that results in the following:
 
@@ -3013,7 +3013,7 @@
 
 >         “(C) A significant advance in medical technology that is expected to significantly improve the treatment of medicare beneficiaries.
 
->     “(4) __HCPCS code defined.—__ 
+>     “(4)  __HCPCS code defined__  __.—__ 
 
 >     The term ‘HCPCS code’ means a code under the Health Care Common Procedure Coding System (HCPCS).”
 
@@ -3023,11 +3023,11 @@
 
 >     “(a) __Study.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Medicare Payment Advisory Commission shall conduct a study on coverage of cardiac and pulmonary rehabilitation therapy services under the medicare program under title XVIII of the Social Security Act \[this subchapter\].
 
->         “(2) __Focus.—__ 
+>         “(2)  __Focus__  __.—__ 
 
 >         In conducting the study under paragraph (1), the Commission shall focus on the appropriate—
 
@@ -3037,7 +3037,7 @@
 
 >             “(C) level of reimbursement for such services.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 18 months after the date of the enactment of this Act \[Dec. 21, 2000\], the Commission shall submit to Congress a report on the study conducted under subsection (a) together with such recommendations for legislation and administrative action as the Commission determines appropriate.”
 
@@ -3045,11 +3045,11 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title II, § 221(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–486, provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct a study on each of the matters described in paragraph (2).
 
->     “(2) __Matters described.—__ 
+>     “(2)  __Matters described__  __.—__ 
 
 >     The matters referred to in paragraph (1) are the following:
 
@@ -3057,7 +3057,7 @@
 
 >         “(B) The means by which rural areas with low population densities can be identified for the purpose of designating areas in which the cost of providing ambulance services would be expected to be higher than similar services provided in more heavily populated areas because of low usage. Such study shall also include an analysis of the additional costs of providing ambulance services in areas designated under the previous sentence.
 
->     “(3) __Report.—__ 
+>     “(3)  __Report__  __.—__ 
 
 >     Not later than June 30, 2002, the Comptroller General shall submit to Congress a report on the results of the studies conducted under paragraph (1) and shall include recommendations on steps that should be taken to assure access to ambulance services in rural areas.”
 
@@ -3071,7 +3071,7 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title II, § 223(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–489, provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Secretary of Health and Human Services shall conduct a study to identify—
 
@@ -3081,7 +3081,7 @@
 
 >         “(C) geographic areas in which telehealth services may be reimbursed that are in addition to the geographic areas where such services may be reimbursed under such section.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 2 years after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary shall submit to Congress a report on the study conducted under paragraph (1) together with such recommendations for legislation that the Secretary determines are appropriate.”
 
@@ -3121,11 +3121,11 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IV, § 436\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–527, provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct a study on the costs of providing emergency and medical transportation services across the range of acuity levels of conditions for which such transportation services are provided.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 18 months after the date of the enactment of this Act \[Dec. 21, 2000\], the Comptroller General shall submit to Congress a report on the study conducted under subsection (a), together with recommendations for any changes in methodology or payment level necessary to fairly compensate suppliers of emergency and medical transportation services and to ensure the access of beneficiaries under the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].”
 
@@ -3153,7 +3153,7 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title II, § 228\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–356, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For purposes of payments under section 1834(a) of the Social Security Act ([42 U.S.C. 1395m(a)][/us/usc/t42/s1395m/a]) for covered items (as defined in paragraph (13) of that section) furnished during 2001 and 2002, the Secretary of Health and Human Services shall increase the payment amount in effect (but for this section) for such items for—
 
@@ -3161,7 +3161,7 @@
 
 >         “(2) 2002 by 0.6 percent.
 
->     “(b) __Limiting Application to Specified Years.—__ 
+>     “(b)  __Limiting Application to Specified Years__  __.—__ 
 
 >     The payment amount increase—
 
@@ -3173,7 +3173,7 @@
 
 [Pub. L. 105–33, title IV, § 4532][/us/pl/105/33/s4532], Aug. 5, 1997, [111 Stat. 453][/us/stat/111/453], as amended by [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title II, § 225\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–353, provided that:
 
->     “(a) __Demonstration Project Contracts with Local Governments.—__ 
+>     “(a)  __Demonstration Project Contracts with Local Governments__  __.—__ 
 
 >     The Secretary of Health and Human Services shall establish up to 3 demonstration projects under which, at the request of a unit of local government, the Secretary enters into a contract with the unit of local government under which—
 
@@ -3187,7 +3187,7 @@
 
 >     “(b) __Amount of Payment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The amount of the monthly payment made for months occurring during a calendar year to a unit of local government under a demonstration project contract under subsection (a) shall be equal to the product of—
 
@@ -3195,7 +3195,7 @@
 
 >             “(B) 1⁄12 of the capitated payment rate for the year established under paragraph (2).
 
->         “(2) __Capitated payment rate defined.—__ 
+>         “(2)  __Capitated payment rate defined__  __.—__ 
 
 >         In this subsection, the term ‘capitated payment rate’ means, with respect to a demonstration project—
 
@@ -3203,7 +3203,7 @@
 
 >             “(B) in a subsequent year, the capitated payment rate established for the previous year increased by an appropriate inflation adjustment factor.
 
->     “(c) __Other Terms of Contract.—__ 
+>     “(c)  __Other Terms of Contract__  __.—__ 
 
 >     The Secretary and the unit of local government may include in a contract under this section such other terms as the parties consider appropriate, including—
 
@@ -3213,17 +3213,17 @@
 
 >         “(3) implementing such other innovations as the unit of local government may propose to improve the quality of ambulance services and control the costs of such services.
 
->     “(d) __Contract Payments in Lieu of Other Benefits.—__ 
+>     “(d)  __Contract Payments in Lieu of Other Benefits__  __.—__ 
 
 >     Payments under a contract to a unit of local government under this section shall be instead of the amounts which (in the absence of the contract) would otherwise be payable under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] for the services covered under the contract which are furnished to individuals who reside in the unit of local government.
 
 >     “(e) __Report on Effects of Capitated Contracts.—__ 
 
->         “(1) __Study.—__ 
+>         “(1)  __Study__  __.—__ 
 
 >         The Secretary shall evaluate the demonstration projects conducted under this section. Such evaluation shall include an analysis of the quality and cost-effectiveness of ambulance services furnished under the projects.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than January 1, 2000, the Secretary shall submit a report to Congress on the study conducted under paragraph (1), and shall include in the report such recommendations as the Secretary considers appropriate, including recommendations regarding modifications to the methodology used to determine the amount of payments made under such contracts and extending or expanding such projects.”
 
@@ -3247,11 +3247,11 @@
 
 [Pub. L. 105–33, title IV, § 4552(d)][/us/pl/105/33/s4552/d], Aug. 5, 1997, [111 Stat. 459][/us/stat/111/459], provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Comptroller General of the United States shall study issues relating to access to home oxygen equipment and shall, within 18 months after the date of the enactment of this Act \[Aug. 5, 1997\], report to the Committees on Commerce and Ways and Means of the House of Representatives and the Committee on Finance of the Senate the results of the study, including recommendations (if any) for legislation.
 
->     “(2) __Peer review evaluation.—__ 
+>     “(2)  __Peer review evaluation__  __.—__ 
 
 >     The Secretary of Health and Human Services shall arrange for peer review \[now “quality improvement”\] organizations established under section 1154 of the Social Security Act \[[42 U.S.C. 1320c–3][/us/usc/t42/s1320c–3]\] to evaluate access to, and quality of, home oxygen equipment.”
 
@@ -3259,11 +3259,11 @@
 
 [Pub. L. 103–432, title I, § 131(b)][/us/pl/103/432/s131/b], Oct. 31, 1994, [108 Stat. 4419][/us/stat/108/4419], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Health and Human Services, in consultation with representatives of suppliers of durable medical equipment under part B of the medicare program \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] and individuals entitled to benefits under such program on the basis of disability, shall conduct a study of the effects of the methodology for determining payments for items of such equipment under such part on the ability of such individuals to obtain items of such equipment, including customized items.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act \[Oct. 31, 1994\], the Secretary shall submit a report to Congress on the study conducted under paragraph (1), and shall include in the report such recommendations as the Secretary considers appropriate to assure that disabled medicare beneficiaries have access to items of durable medical equipment.”
 
@@ -3275,11 +3275,11 @@
 
 [Pub. L. 103–432, title I, § 134(b)][/us/pl/103/432/s134/b], Oct. 31, 1994, [108 Stat. 4422][/us/stat/108/4422], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     In accordance with section 1834(a)(10)(B) of the Social Security Act \[[42 U.S.C. 1395m(a)(10)(B)][/us/usc/t42/s1395m/a/10/B]\] (as amended by subsection (a)), the Secretary of Health and Human Services shall determine whether the payment amounts for the items described in paragraph (2) are not inherently reasonable, and shall adjust such amounts in accordance with such section if the amounts are not inherently reasonable.
 
->     “(2) __Items described.—__ 
+>     “(2)  __Items described__  __.—__ 
 
 >     The items referred to in paragraph (1) are decubitus care equipment, transcutaneous electrical nerve stimulators, and any other items considered appropriate by the Secretary.”
 
@@ -3287,11 +3287,11 @@
 
 [Pub. L. 101–508, title IV, § 4102(c)][/us/pl/101/508/s4102/c], Nov. 5, 1990, [104 Stat. 1388–57][/us/stat/104/1388-57], as amended by [Pub. L. 103–432, title I, § 126(b)(3)][/us/pl/103/432/s126/b/3], Oct. 31, 1994, [108 Stat. 4415][/us/stat/108/4415], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     In applying part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\], the prevailing charge for physicians’ services, furnished during 1991, which are radiology services may not exceed the fee schedule amount established under section 1834(b) of such Act \[[42 U.S.C. 1395m(b)][/us/usc/t42/s1395m/b]\] with respect to such services.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     Paragraph (1) shall not apply to nuclear medicine services.”
 
@@ -3327,11 +3327,11 @@
 
 [Pub. L. 101–239, title VI, § 6112(b)][/us/pl/101/239/s6112/b], Dec. 19, 1989, [103 Stat. 2215][/us/stat/103/2215], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amount of any monthly rental payment under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] for an enteral or parenteral pump furnished on or after April 1, 1990, shall be determined in accordance with the methodology under which monthly rental payments for such pumps were determined during 1989.
 
->     “(2) __Cap on Rental Payments, Servicing, and Repairs.—__ 
+>     “(2)  __Cap on Rental Payments, Servicing, and Repairs__  __.—__ 
 
 >     In the case of an enteral or parenteral pump described in paragraph (1) that is furnished on a rental basis during a period of medical need—
 

@@ -47,15 +47,15 @@
 
 >     “(a) __Effective Dates.—__ 
 
->         “(1) __Provisions effective upon enactment.—__ 
+>         “(1)  __Provisions effective upon enactment__  __.—__ 
 
 >         Sections 2, 3, 101 through 103, 202 through 205, 401(a), 403, 503, and 505(a) \[enacting this section and sections 14902, 14911 to 14913, 14922 to 14924, 14941(a), 14943, and 14953 of this title and amending [section 622 of this title][/us/usc/t42/s622]\] shall take effect on the date of the enactment of this Act \[Oct. 6, 2000\].
 
->         “(2) __Provisions effective upon the entry into force of the convention.—__ 
+>         “(2)  __Provisions effective upon the entry into force of the convention__  __.—__ 
 
 >         Subject to subsection (b), the provisions of this Act not specified in paragraph (1) \[enacting sections 14914, 14921, 14931, 14932, 14941(b), (c), 14942, 14944, 14951, 14952, and 14954 of this title, amending sections 1101 and 1154 of Title 8, Aliens and Nationality, and enacting provisions set out as notes under this section\] shall take effect upon the entry into force of the Convention \[Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption\] for the United States pursuant to Article 46(2)(a) of the Convention \[The Convention entered into force for the United States on Apr. 1, 2008.\].
 
->     “(b) __Transition Rule.—__ 
+>     “(b)  __Transition Rule__  __.—__ 
 
 >     The Convention and this Act \[see Short Title note below\] shall not apply—
 

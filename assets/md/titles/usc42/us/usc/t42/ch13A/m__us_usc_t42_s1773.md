@@ -41,7 +41,7 @@
 
             (D) No breakfast assistance payment may be made under this subsection for any breakfast served by a school unless such breakfast consists of a combination of foods which meet the minimum nutritional requirements prescribed by the Secretary under subsection (e) of this section.
 
-            (E) __Free and reduced price policy statement.—__ 
+            (E)  __Free and reduced price policy statement__  __.—__ 
 
             After the initial submission, a local educational agency shall not be required to submit a free and reduced price policy statement to a State educational agency under this chapter unless there is a substantive change in the free and reduced price policy of the local educational agency. A routine change in the policy of a local educational agency, such as an annual adjustment of the income eligibility guidelines for free and reduced price meals, shall not be sufficient cause for requiring the local educational agency to submit a policy statement.
 

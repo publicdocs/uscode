@@ -525,11 +525,11 @@
 
 [Pub. L. 106–170, title I, § 112(c)][/us/pl/106/170/s112/c], Dec. 17, 1999, [113 Stat. 1886][/us/stat/113/1886], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 1383 of this title][/us/usc/t42/s1383]\] shall take effect on the first day of the thirteenth month beginning after the date of the enactment of this Act \[Dec. 17, 1999\].
 
->     “(2) __Limitation.—__ 
+>     “(2)  __Limitation__  __.—__ 
 
 >     No benefit shall be payable under title II or XVI \[of the Social Security Act, [42 U.S.C. 401][/us/usc/t42/s401] et seq. or 1381 et seq.\] on the basis of a request for reinstatement filed under section 223(i) or 1631(p) of the Social Security Act ([42 U.S.C. 423(i)][/us/usc/t42/s423/i], 1383(p)) before the effective date described in paragraph (1).”
 

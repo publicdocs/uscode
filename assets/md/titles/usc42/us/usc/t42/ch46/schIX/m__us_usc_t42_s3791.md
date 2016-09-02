@@ -185,7 +185,7 @@
 
 [Pub. L. 112–239, div. A, title X, § 1086(d)][/us/pl/112/239/s1086/d], Jan. 2, 2013, [126 Stat. 1969][/us/stat/126/1969], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (1) \[probably means paragraph (2)\], the amendments made by this section \[amending this section, sections 3796 to 3796c–2, 3796d–1 to 3796d–3, 3796d–5, and 3796d–6 of this title and sections 101 and 402 of Title 26, Internal Revenue Code\] shall—
 
@@ -195,11 +195,11 @@
 
 >     “(2) __Exceptions.—__ 
 
->         “(A) __Rescue squads and ambulance crews.—__ 
+>         “(A)  __Rescue squads and ambulance crews__  __.—__ 
 
 >         For a member of a rescue squad or ambulance crew (as defined in section 1204(7) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 \[[42 U.S.C. 3796b(7)][/us/usc/t42/s3796b/7]\], as amended by this section), the amendments made by this Act \[probably means this section\] shall apply to injuries sustained on or after June 1, 2009.
 
->         “(B) __Heart attacks, strokes, and vascular ruptures.—__ 
+>         “(B)  __Heart attacks, strokes, and vascular ruptures__  __.—__ 
 
 >         Section 1201(k) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 \[[42 U.S.C. 3796(k)][/us/usc/t42/s3796/k]\], as amended by this section, shall apply to heart attacks, strokes, and vascular ruptures sustained on or after December 15, 2003.”
 

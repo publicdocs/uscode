@@ -251,13 +251,13 @@
 
 [Pub. L. 99–603, title I, § 121(c)(3)][/us/pl/99/603/s121/c/3], (4), Nov. 6, 1986, [100 Stat. 3391][/us/stat/100/3391], 3392, provided that:
 
->     “(3) __Use of verification system required in fiscal year 1989.—__ 
+>     “(3)  __Use of verification system required in fiscal year 1989__  __.—__ 
 
 >     Except as provided in paragraph (4), the amendments made by subsection (a) \[amending this section, [section 1436a of this title][/us/usc/t42/s1436a], and [section 1091 of Title 20][/us/usc/t20/s1091], Education\] take effect on October 1, 1988. States have until that date to begin complying with the requirements imposed by those amendments.
 
 >     “(4) __Use of verification system not required for a program in certain cases.—__ 
 
->         “(A) __Report to respective congressional committees.—__ 
+>         “(A)  __Report to respective congressional committees__  __.—__ 
 
 >         With respect to each covered program (as defined in subparagraph (D)(i)), each appropriate Secretary shall examine and report to the appropriate Committees of the House of Representatives and of the Senate, by not later than April 1, 1988, concerning whether (and the extent to which)—
 
@@ -267,7 +267,7 @@
 
 >             The amendments made by subsection (a) shall not apply with respect to a covered program described in subclause (II), (V), (VI), or (VII) of subparagraph (D)(i) until after the date of receipt of such report with respect to the program.
 
->         “(B) __Waiver in certain cases.—__ 
+>         “(B)  __Waiver in certain cases__  __.—__ 
 
 >         If, with respect to a covered program, the appropriate Secretary determines, on the Secretary’s own initiative or upon an application by an administering entity and based on such information as the Secretary deems persuasive (which may include the results of the report required under subsection (d)(1) \[set out as a note below\] and information contained in such an application), that—
 
@@ -283,7 +283,7 @@
 
 >             such Secretary may waive the application of such amendments to the covered program to the extent (by State or other geographic area or otherwise) that such determinations apply.
 
->         “(C) __Basis for determination.—__ 
+>         “(C)  __Basis for determination__  __.—__ 
 
 >         A determination under subparagraph (B)(ii) shall be based upon the appropriate Secretary’s estimate of—
 
@@ -295,7 +295,7 @@
 
 >             the degree to which the Immigration and Naturalization Service is capable of providing timely and accurate information to the administering entity in order to permit a reliable determination of immigration status, and such other factors as such Secretary deems relevant.
 
->         “(D) __Definitions.—__ 
+>         “(D)  __Definitions__  __.—__ 
 
 >         In this paragraph:
 

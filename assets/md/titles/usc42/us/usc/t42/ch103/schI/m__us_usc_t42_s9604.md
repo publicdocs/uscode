@@ -19,11 +19,11 @@
 
         (1) Whenever (A) any hazardous substance is released or there is a substantial threat of such a release into the environment, or (B) there is a release or substantial threat of release into the environment of any pollutant or contaminant which may present an imminent and substantial danger to the public health or welfare, the President is authorized to act, consistent with the national contingency plan, to remove or arrange for the removal of, and provide for remedial action relating to such hazardous substance, pollutant, or contaminant at any time (including its removal from any contaminated natural resource), or take any other response measure consistent with the national contingency plan which the President deems necessary to protect the public health or welfare or the environment. When the President determines that such action will be done properly and promptly by the owner or operator of the facility or vessel or by any other responsible party, the President may allow such person to carry out the action, conduct the remedial investigation, or conduct the feasibility study in accordance with [section 9622 of this title][/us/usc/t42/s9622]. No remedial investigation or feasibility study (RI/FS) shall be authorized except on a determination by the President that the party is qualified to conduct the RI/FS and only if the President contracts with or arranges for a qualified person to assist the President in overseeing and reviewing the conduct of such RI/FS and if the responsible party agrees to reimburse the Fund for any cost incurred by the President under, or in connection with, the oversight contract or arrangement. In no event shall a potentially responsible party be subject to a lesser standard of liability, receive preferential treatment, or in any other way, whether direct or indirect, benefit from any such arrangements as a response action contractor, or as a person hired or retained by such a response action contractor, with respect to the release or facility in question. The President shall give primary attention to those releases which the President deems may present a public health threat.
 
-        (2) __Removal Action.—__ 
+        (2)  __Removal Action__  __.—__ 
 
         Any removal action undertaken by the President under this subsection (or by any other person referred to in [section 9622 of this title][/us/usc/t42/s9622]) should, to the extent the President deems practicable, contribute to the efficient performance of any long term remedial action with respect to the release or threatened release concerned.
 
-        (3) __Limitations on Response.—__ 
+        (3)  __Limitations on Response__  __.—__ 
 
         The President shall not provide for a removal or remedial action under this section in response to a release or threat of release—
 
@@ -33,7 +33,7 @@
 
             (C) into public or private drinking water supplies due to deterioration of the system through ordinary use.
 
-        (4) __Exception to Limitations.—__ 
+        (4)  __Exception to Limitations__  __.—__ 
 
         Notwithstanding paragraph (3) of this subsection, to the extent authorized by this section, the President may respond to any release or threat of release if in the President’s discretion, it constitutes a public health or environmental emergency and no other person with the authority and capability to respond to the emergency will do so in a timely manner.
 
@@ -55,17 +55,17 @@
 
         (3) The President shall not provide any remedial actions pursuant to this section unless the State in which the release occurs first enters into a contract or cooperative agreement with the President providing assurances deemed adequate by the President that (A) the State will assure all future maintenance of the removal and remedial actions provided for the expected life of such actions as determined by the President; (B) the State will assure the availability of a hazardous waste disposal facility acceptable to the President and in compliance with the requirements of subtitle C of the Solid Waste Disposal Act \[[42 U.S.C. 6921][/us/usc/t42/s6921] et seq.\] for any necessary offsite storage, destruction, treatment, or secure disposition of the hazardous substances; and (C) the State will pay or assure payment of (i) 10 per centum of the costs of the remedial action, including all future maintenance, or (ii) 50 percent (or such greater amount as the President may determine appropriate, taking into account the degree of responsibility of the State or political subdivision for the release) of any sums expended in response to a release at a facility, that was operated by the State or a political subdivision thereof, either directly or through a contractual relationship or otherwise, at the time of any disposal of hazardous substances therein. For the purpose of clause (ii) of this subparagraph, the term “facility” does not include navigable waters or the beds underlying those waters. In the case of remedial action to be taken on land or water held by an Indian tribe, held by the United States in trust for Indians, held by a member of an Indian tribe (if such land or water is subject to a trust restriction on alienation), or otherwise within the borders of an Indian reservation, the requirements of this paragraph for assurances regarding future maintenance and cost-sharing shall not apply, and the President shall provide the assurance required by this paragraph regarding the availability of a hazardous waste disposal facility.
 
-        (4) __Selection of Remedial Action.—__ 
+        (4)  __Selection of Remedial Action__  __.—__ 
 
         The President shall select remedial actions to carry out this section in accordance with [section 9621 of this title][/us/usc/t42/s9621] (relating to cleanup standards).
 
         (5) __State Credits.—__ 
 
-            (A) __Granting of credit.—__ 
+            (A)  __Granting of credit__  __.—__ 
 
             The President shall grant a State a credit against the share of the costs, for which it is responsible under paragraph (3) with respect to a facility listed on the National Priorities List under the National Contingency Plan, for amounts expended by a State for remedial action at such facility pursuant to a contract or cooperative agreement with the President. The credit under this paragraph shall be limited to those State expenses which the President determines to be reasonable, documented, direct out-of-pocket expenditures of non-Federal funds.
 
-            (B) __Expenses before listing or agreement.—__ 
+            (B)  __Expenses before listing or agreement__  __.—__ 
 
             The credit under this paragraph shall include expenses for remedial action at a facility incurred before the listing of the facility on the National Priorities List or before a contract or cooperative agreement is entered into under subsection (d) of this section for the facility if—
 
@@ -73,35 +73,35 @@
 
                 (ii) the President determines that such expenses would have been credited to the State under subparagraph (A) had the expenditures been made after listing of the facility on such list and after the date on which such contract or cooperative agreement is entered into.
 
-            (C) __Response actions between 1978 and 1980.—__ 
+            (C)  __Response actions between 1978 and 1980__  __.—__ 
 
             The credit under this paragraph shall include funds expended or obligated by the State or a political subdivision thereof after January 1, 1978, and before December 11, 1980, for cost-eligible response actions and claims for damages compensable under [section 9611 of this title][/us/usc/t42/s9611].
 
-            (D) __State expenses after__  __december 11, 1980__  __, in excess of 10 percent of costs.—__ 
+            (D)  __State expenses after __  __december 11, 1980__  __, in excess of 10 percent of costs__  __.—__ 
 
             The credit under this paragraph shall include 90 percent of State expenses incurred at a facility owned, but not operated, by such State or by a political subdivision thereof. Such credit applies only to expenses incurred pursuant to a contract or cooperative agreement under subsection (d) of this section and only to expenses incurred after December 11, 1980, but before October 17, 1986.
 
-            (E) __Item-by-item approval.—__ 
+            (E)  __Item-by-item approval__  __.—__ 
 
             In the case of expenditures made after October 17, 1986, the President may require prior approval of each item of expenditure as a condition of granting a credit under this paragraph.
 
-            (F) __Use of credits.—__ 
+            (F)  __Use of credits__  __.—__ 
 
             Credits granted under this paragraph for funds expended with respect to a facility may be used by the State to reduce all or part of the share of costs otherwise required to be paid by the State under paragraph (3) in connection with remedial actions at such facility. If the amount of funds for which credit is allowed under this paragraph exceeds such share of costs for such facility, the State may use the amount of such excess to reduce all or part of the share of such costs at other facilities in that State. A credit shall not entitle the State to any direct payment.
 
-        (6) __Operation and Maintenance.—__ 
+        (6)  __Operation and Maintenance__  __.—__ 
 
         For the purposes of paragraph (3) of this subsection, in the case of ground or surface water contamination, completed remedial action includes the completion of treatment or other measures, whether taken onsite or offsite, necessary to restore ground and surface water quality to a level that assures protection of human health and the environment. With respect to such measures, the operation of such measures for a period of up to 10 years after the construction or installation and commencement of operation shall be considered remedial action. Activities required to maintain the effectiveness of such measures following such period or the completion of remedial action, whichever is earlier, shall be considered operation or maintenance.
 
-        (7) __Limitation on Source of Funds for O&M.—__ 
+        (7)  __Limitation on Source of Funds for__  __O&M.—__ 
 
         During any period after the availability of funds received by the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26 from tax revenues or appropriations from general revenues, the Federal share of the payment of the cost of operation or maintenance pursuant to paragraph (3)(C)(i) or paragraph (6) of this subsection (relating to operation and maintenance) shall be from funds received by the Hazardous Substance Superfund from amounts recovered on behalf of such fund under this chapter.
 
-        (8) __Recontracting.—__ 
+        (8)  __Recontracting__  __.—__ 
 
         The President is authorized to undertake or continue whatever interim remedial actions the President determines to be appropriate to reduce risks to public health or the environment where the performance of a complete remedial action requires recontracting because of the discovery of sources, types, or quantities of hazardous substances not known at the time of entry into the original contract. The total cost of interim actions undertaken at a facility pursuant to this paragraph shall not exceed $2,000,000.
 
-        (9) __Siting.—__ 
+        (9)  __Siting__  __.—__ 
 
         Effective 3 years after October 17, 1986, the President shall not provide any remedial actions pursuant to this section unless the State in which the release occurs first enters into a contract or cooperative agreement with the President providing assurances deemed adequate by the President that the State will assure the availability of hazardous waste treatment or disposal facilities which—
 
@@ -117,15 +117,15 @@
 
         (1) __Cooperative Agreements.—__ 
 
-            (A) __State applications.—__ 
+            (A)  __State applications__  __.—__ 
 
             A State or political subdivision thereof or Indian tribe may apply to the President to carry out actions authorized in this section. If the President determines that the State or political subdivision or Indian tribe has the capability to carry out any or all of such actions in accordance with the criteria and priorities established pursuant to [section 9605(a)(8) of this title][/us/usc/t42/s9605/a/8] and to carry out related enforcement actions, the President may enter into a contract or cooperative agreement with the State or political subdivision or Indian tribe to carry out such actions. The President shall make a determination regarding such an application within 90 days after the President receives the application.
 
-            (B) __Terms and conditions.—__ 
+            (B)  __Terms and conditions__  __.—__ 
 
             A contract or cooperative agreement under this paragraph shall be subject to such terms and conditions as the President may prescribe. The contract or cooperative agreement may cover a specific facility or specific facilities.
 
-            (C) __Reimbursements.—__ 
+            (C)  __Reimbursements__  __.—__ 
 
             Any State which expended funds during the period beginning September 30, 1985, and ending on October 17, 1986, for response actions at any site included on the National Priorities List and subject to a cooperative agreement under this chapter shall be reimbursed for the share of costs of such actions for which the Federal Government is responsible under this chapter.
 

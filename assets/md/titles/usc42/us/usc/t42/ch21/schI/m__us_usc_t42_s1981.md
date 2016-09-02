@@ -43,11 +43,11 @@
 
 [Pub. L. 102–166, title IV, § 402][/us/pl/102/166/s402], Nov. 21, 1991, [105 Stat. 1099][/us/stat/105/1099], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise specifically provided, this Act \[see Short Title of 1991 Amendment note below\] and the amendments made by this Act shall take effect upon enactment \[Nov. 21, 1991\].
 
->     “(b) __Certain Disparate Impact Cases.—__ 
+>     “(b)  __Certain Disparate Impact Cases__  __.—__ 
 
 >     Notwithstanding any other provision of this Act, nothing in this Act shall apply to any disparate impact case for which a complaint was filed before March 1, 1975, and for which an initial decision was rendered after October 30, 1983.”
 

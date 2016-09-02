@@ -85,21 +85,21 @@
 
 [Pub. L. 111–383, div. C, title XXXI, § 3120][/us/pl/111/383/s3120], Jan. 7, 2011, [124 Stat. 4514][/us/stat/124/4514], provided that:
 
->     “(a) __Environmental Restoration.—__ 
+>     “(a)  __Environmental Restoration__  __.—__ 
 
 >     If the Secretary of Energy determines under any authority previously established by law that a parcel of land described in subsection (c) requires environmental restoration or remediation, the Secretary shall, to the maximum extent practicable, complete the environmental restoration or remediation of the parcel not later than September 30, 2022, and otherwise in compliance with such law.
 
->     “(b) __Conveyance or Transfer.—__ 
+>     “(b)  __Conveyance or Transfer__  __.—__ 
 
 >     If the Secretary determines under any authority previously established by law that environmental restoration or remediation cannot reasonably be expected to be completed with respect to a parcel of land described in subsection (c) by September 30, 2022, the Secretary shall not convey or transfer the parcel of land.
 
->     “(c) __Parcels of Land.—__ 
+>     “(c)  __Parcels of Land__  __.—__ 
 
 >     A parcel of land described in this subsection is a parcel of land under the jurisdiction or administrative control of the Secretary at or in the vicinity of Los Alamos National Laboratory that the Secretary has previously identified as suitable for conveyance or transfer in a report submitted to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] prior to the date of the enactment of this Act \[Jan. 7, 2011\].”
 
 [Pub. L. 105–119, title VI, § 632][/us/pl/105/119/s632], Nov. 26, 1997, [111 Stat. 2523][/us/stat/111/2523], as amended by [Pub. L. 108–375, div. C, title XXXI, § 3148][/us/pl/108/375/s3148], Oct. 28, 2004, [118 Stat. 2177][/us/stat/118/2177]; [Pub. L. 109–364, div. C, title XXXI, § 3119][/us/pl/109/364/s3119], Oct. 17, 2006, [120 Stat. 2509][/us/stat/120/2509], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Energy shall—
 
@@ -109,7 +109,7 @@
 
 >         “(3) transfer to the Secretary of the Interior, in trust for the Pueblo of San Ildefonso (in this section referred to as the ‘Pueblo’), administrative jurisdiction over the parcels that are allocated for transfer to the Secretary of the Interior in such agreement.
 
->     “(b) __Preliminary Identification of Parcels of Land for Conveyance or Transfer.—__ 
+>     “(b)  __Preliminary Identification of Parcels of Land for Conveyance or Transfer__  __.—__ 
 
 >         (1) Not later than 90 days after the date of enactment of this Act \[Nov. 26, 1997\], the Secretary of Energy shall submit to the congressional defense committees a report identifying the parcels of land under the jurisdiction or administrative control of the Secretary at or in the vicinity of Los Alamos National Laboratory that are suitable for conveyance or transfer under this section.
 
@@ -123,13 +123,13 @@
 
 >             “(C) is suitable for use for a purpose specified in subsection (h).
 
->     “(c) __Review of Title.—__ 
+>     “(c)  __Review of Title__  __.—__ 
 
 >         (1) Not later than one year after the date of enactment of this Act \[Nov. 26, 1997\], the Secretary shall submit to the congressional defense committees a report setting forth the results of a title search on each parcel of land identified as suitable for conveyance or transfer under subsection (b), including an analysis of any claims against or other impairments to the fee title to each such parcel.
 
 >         “(2) In the period beginning on the date of the completion of the title search with respect to a parcel under paragraph (1) and ending on the date of the submittal of the report under that paragraph, the Secretary shall take appropriate actions to resolve the claims against or other impairments, if any, to fee title that are identified with respect to the parcel in the title search.
 
->     “(d) __Environmental Restoration.—__ 
+>     “(d)  __Environmental Restoration__  __.—__ 
 
 >         (1)
 
@@ -143,17 +143,17 @@
 
 >         “(2) If the Secretary determines under paragraph (1) that a parcel described in paragraph (1)(A) requires environmental restoration or remediation, the Secretary shall, to the maximum extent practicable, complete the environmental restoration or remediation of the parcel not later than November 26, 2012.
 
->     “(e) __Agreement for Allocation of Parcels.—__ 
+>     “(e)  __Agreement for Allocation of Parcels__  __.—__ 
 
 >     As soon as practicable after completing the review of titles to parcels of land under subsection (c), but not later than 90 days after the submittal of the report under subsection (d)(1)(C), the County and the Pueblo shall submit to the Secretary an agreement between the County and the Pueblo which allocates between the County and the Pueblo the parcels identified for conveyance or transfer under subsection (b).
 
->     “(f) __Plan for Conveyance and Transfer.—__ 
+>     “(f)  __Plan for Conveyance and Transfer__  __.—__ 
 
 >         (1) Not later than 90 days after the date of the submittal to the Secretary of Energy of the agreement under subsection (e), the Secretary shall submit to the congressional defense committees a plan for conveying or transferring parcels of land under this section in accordance with the allocation specified in the agreement.
 
 >         “(2) The plan under paragraph (1) shall provide for the completion of the conveyance or transfer of parcels under this section not later than 9 months after the date of the submittal of the plan under that paragraph.
 
->     “(g) __Conveyance or Transfer.—__ 
+>     “(g)  __Conveyance or Transfer__  __.—__ 
 
 >         (1) Subject to paragraphs (2) and (3), the Secretary shall convey or transfer parcels of land in accordance with the allocation specified in the agreement submitted to the Secretary under subsection (e).
 
@@ -165,17 +165,17 @@
 
 >             “(B) If the Secretary determines that environmental restoration or remediation cannot reasonably be expected to be completed with respect to a parcel by November 26, 2012, the Secretary shall not convey or transfer the parcel under this section.
 
->     “(h) __Use of Conveyed or Transferred Land.—__ 
+>     “(h)  __Use of Conveyed or Transferred Land__  __.—__ 
 
 >     The parcels of land conveyed or transferred under this section shall be used for historic, cultural, or environmental preservation purposes, economic diversification purposes, or community self-sufficiency purposes.
 
->     “(i) __Treatment of Conveyances and Transfers.—__ 
+>     “(i)  __Treatment of Conveyances and Transfers__  __.—__ 
 
 >         (1) The purpose of the conveyances and transfers under this section is to fulfill the obligations of the United States with respect to Los Alamos National Laboratory, New Mexico, under sections 91 and 94 of the Atomic Energy Community Act of 1955 ([42 U.S.C. 2391][/us/usc/t42/s2391], 2394).
 
 >         “(2) Upon the completion of the conveyance or transfer of the parcels of land available for conveyance or transfer under this section, the Secretary shall make no further payments with respect to Los Alamos National Laboratory under section 91 or section 94 of the Atomic Energy Community Act of 1955.
 
->     “(j) __Repeal of Superseded Provision.—__ 
+>     “(j)  __Repeal of Superseded Provision__  __.—__ 
 
 >     In the event of the enactment of the National Defense Authorization Act for Fiscal Year 1998 \[[Pub. L. 105–85][/us/pl/105/85]\] by reason of the approval of the President of the conference report to accompany the bill (H.R. 1119) of the 105th Congress, section 3165 of such Act \[[section 3165 of Pub. L. 105–85][/us/pl/105/85/s3165], see below\] is repealed.”
 

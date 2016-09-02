@@ -123,11 +123,11 @@
 
 [Pub. L. 101–336, title III, § 310][/us/pl/101/336/s310], July 26, 1990, [104 Stat. 365][/us/stat/104/365], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Except as provided in subsections (b) and (c), this title \[enacting this subchapter\] shall become effective 18 months after the date of the enactment of this Act \[July 26, 1990\].
 
->     “(b) __Civil Actions.—__ 
+>     “(b)  __Civil Actions__  __.—__ 
 
 >     Except for any civil action brought for a violation of section 303 \[[section 12183 of this title][/us/usc/t42/s12183]\], no civil action shall be brought for any act or omission described in section 302 \[[section 12182 of this title][/us/usc/t42/s12182]\] which occurs—
 
@@ -135,7 +135,7 @@
 
 >         “(2) during the first year after the effective date, against businesses that employ 10 or fewer employees and have gross receipts of $500,000 or less.
 
->     “(c) __Exception.—__ 
+>     “(c)  __Exception__  __.—__ 
 
 >     Sections 302(a) \[[section 12182(a) of this title][/us/usc/t42/s12182/a]\] for purposes of section 302(b)(2)(B) and (C) only, 304(a) \[[section 12184(a) of this title][/us/usc/t42/s12184/a]\] for purposes of section 304(b)(3) only, 304(b)(3), 305 \[[section 12185 of this title][/us/usc/t42/s12185]\], and 306 \[[section 12186 of this title][/us/usc/t42/s12186]\] shall take effect on the date of the enactment of this Act \[July 26, 1990\].”
 

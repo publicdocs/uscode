@@ -103,15 +103,15 @@
 
 [Pub. L. 107–273, div. B, title II, § 2303][/us/pl/107/273/s2303], Nov. 2, 2002, [116 Stat. 1799][/us/stat/116/1799], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Comptroller General of the United States shall study and assess the effectiveness and impact of grants authorized by part EE of title I of the Omnibus Crime Control and Safe Streets Act of 1968 \[[42 U.S.C. 3797u][/us/usc/t42/s3797u] et seq.\] as added by section 2401 \[2301\] and report to Congress the results of the study on or before January 1, 2005.
 
->     “(b) __Documents and Information.—__ 
+>     “(b)  __Documents and Information__  __.—__ 
 
 >     The Attorney General and grant recipients shall provide the Comptroller General with all relevant documents and information that the Comptroller General deems necessary to conduct the study under subsection (a), including the identities and criminal records of program participants.
 
->     “(c) __Criteria.—__ 
+>     “(c)  __Criteria__  __.—__ 
 
 >     In assessing the effectiveness of the grants made under programs authorized by part EE of \[title I of\] the Omnibus Crime Control and Safe Streets Act of 1968 \[[42 U.S.C. 3797u][/us/usc/t42/s3797u] et seq.\], the Comptroller General shall consider, among other things—
 

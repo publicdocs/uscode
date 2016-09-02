@@ -91,7 +91,7 @@
 
 [Pub. L. 101–549, title VIII, § 811][/us/pl/101/549/s811], Nov. 15, 1990, [104 Stat. 2690][/us/stat/104/2690], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -105,7 +105,7 @@
 
 >     “(b) __Action by the President.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Within 18 months after the date of the enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], the President shall submit to the Congress a report—
 
@@ -121,17 +121,17 @@
 
 >             “(B) containing a strategy for addressing such economic effects through trade consultations and negotiations.
 
->         “(2) __Additional reporting requirements.—__ 
+>         “(2)  __Additional reporting requirements__  __.—__ 
 
 >             (A) The evaluation required under paragraph (1)(A) shall examine the extent to which the significant air quality standards and controls required under this Act are comparable to existing internationally-agreed norms.
 
 >             “(B) The strategy required to be developed under paragraph (1)(B) shall include recommended options (such as the harmonization of standards and trade adjustment measures) for reducing or eliminating competitive disadvantages caused by differences in standards and controls between the United States and each of its major trading partners.
 
->         “(3) __Public comment.—__ 
+>         “(3)  __Public comment__  __.—__ 
 
 >         Interested parties shall be given an opportunity to submit comments regarding the evaluations and strategy required in the report under paragraph (1). The President shall take any such comment into account in preparing the report.
 
->         “(4) __Interim report.—__ 
+>         “(4)  __Interim report__  __.—__ 
 
 >         Within 9 months after the date of the enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], the President shall submit to the Congress an interim report on the progress being made in complying with paragraph (1).”
 

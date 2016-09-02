@@ -157,11 +157,11 @@
 
 [Pub. L. 104–191, title I, § 111(b)][/us/pl/104/191/s111/b], Aug. 21, 1996, [110 Stat. 1987][/us/stat/110/1987], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, part B of title XXVII of the Public Health Service Act \[[42 U.S.C. 300gg–41][/us/usc/t42/s300gg–41] et seq.\] (as inserted by subsection (a)) shall apply with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market after June 30, 1997, regardless of when a period of creditable coverage occurs.
 
->     “(2) __Application of certification rules.—__ 
+>     “(2)  __Application of certification rules__  __.—__ 
 
 >     The provisions of section 102(d)(2) \[102(c)(2)\] of this Act \[[42 U.S.C. 300gg][/us/usc/t42/s300gg] note\] shall apply to section 2743 of the Public Health Service Act \[[42 U.S.C. 300gg–43][/us/usc/t42/s300gg–43]\] in the same manner as it applies to section 2701(e) \[now 2704(e)\] of such Act \[[42 U.S.C. 300gg–3(e)][/us/usc/t42/s300gg–3/e]\].”
 

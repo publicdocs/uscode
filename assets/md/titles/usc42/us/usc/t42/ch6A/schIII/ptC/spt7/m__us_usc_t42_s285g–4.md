@@ -143,7 +143,7 @@
 
 [Pub. L. 101–613, § 3(b)][/us/pl/101/613/s3/b], Nov. 16, 1990, [104 Stat. 3230][/us/stat/104/3230], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Health and Human Services and the heads of other Federal agencies shall—
 
@@ -151,11 +151,11 @@
 
 >         “(B) as appropriate, enter into agreements for preventing duplication among such programs.
 
->     “(2) __Time for completion.—__ 
+>     “(2)  __Time for completion__  __.—__ 
 
 >     The agreements required in paragraph (1)(B) shall be made not later than one year after the date of the enactment of this Act \[Nov. 16, 1990\].
 
->     “(3) __Definition of medical rehabilitation.—__ 
+>     “(3)  __Definition of medical rehabilitation__  __.—__ 
 
 >     For purposes of this subsection, the term ‘medical rehabilitation’ means the rehabilitation of individuals with physical disabilities resulting from diseases or disorders of the neurological, musculoskeletal, cardiovascular, pulmonary, or any other physiological system.”
 

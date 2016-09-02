@@ -127,13 +127,13 @@
 
 [Pub. L. 103–43, title I, § 113][/us/pl/103/43/s113], June 10, 1993, [107 Stat. 132][/us/stat/107/132], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (c), no official of the executive branch may impose a policy that the Department of Health and Human Services is prohibited from conducting or supporting any research on the transplantation of human fetal tissue for therapeutic purposes. Such research shall be carried out in accordance with section 498A of the Public Health Service Act \[[42 U.S.C. 289g–1][/us/usc/t42/s289g–1]\] (as added by section 111 of this Act), without regard to any such policy that may have been in effect prior to the date of the enactment of this Act \[June 10, 1993\].
 
 >     “(b) __Prohibition Against Withholding of Funds in Cases of Technical and Scientific Merit.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to subsection (b)(2) of section 492A of the Public Health Service Act \[[42 U.S.C. 289a–1(b)(2)][/us/usc/t42/s289a–1/b/2]\] (as added by section 101 of this Act), in the case of any proposal for research on the transplantation of human fetal tissue for therapeutic purposes, the Secretary of Health and Human Services may not withhold funds for the research if—
 
@@ -143,7 +143,7 @@
 
 >             “(C) there are reasonable assurances that the research will not utilize any human fetal tissue that has been obtained in violation of section 498B(a) of such Act \[[42 U.S.C. 289g–2(a)][/us/usc/t42/s289g–2/a]\] (as added by section 112 of this Act).
 
->         “(2) __Standing approval regarding ethical status.—__ 
+>         “(2)  __Standing approval regarding ethical status__  __.—__ 
 
 >         In the case of any proposal for research on the transplantation of human fetal tissue for therapeutic purposes, the issuance in December 1988 of the Report of the Human Fetal Tissue Transplantation Research Panel shall be deemed to be a report—
 
@@ -151,11 +151,11 @@
 
 >             “(B) finding, on a basis that is neither arbitrary nor capricious, that the nature of the research is such that it is not unethical to conduct or support the research.
 
->     “(c) __Authority for Withholding Funds From Research.—__ 
+>     “(c)  __Authority for Withholding Funds From Research__  __.—__ 
 
 >     In the case of any research on the transplantation of human fetal tissue for therapeutic purposes, the Secretary of Health and Human Services may withhold funds for the research if any of the conditions specified in any of subparagraphs (A) through (C) of subsection (b)(1) are not met with respect to the research.
 
->     “(d) __Definition.—__ 
+>     “(d)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘human fetal tissue’ has the meaning given such term in section 498A(f) of the Public Health Service Act \[[42 U.S.C. 289g–1(f)][/us/usc/t42/s289g–1/f]\] (as added by section 111 of this Act).”
 

@@ -61,19 +61,19 @@
 
         (5) __Operating assistance for migrant farmworker projects.—__ 
 
-            (A) __Authority.—__ 
+            (A)  __Authority__  __.—__ 
 
             In the case of housing (and related facilities) for migrant farmworkers provided or assisted with a loan under [section 1484 of this title][/us/usc/t42/s1484] or a grant under [section 1486 of this title][/us/usc/t42/s1486], the Secretary may, at the request of the owner of the project, use amounts provided for rental assistance payments under paragraph (2) to provide assistance for the costs of operating the project. Any tenant or unit assisted under this paragraph may not receive rental assistance under paragraph (2).
 
-            (B) __Amount.—__ 
+            (B)  __Amount__  __.—__ 
 
             In any fiscal year, the assistance provided under this paragraph for any project shall not exceed an amount equal to 90 percent of the operating costs for the project for the year, as determined by the Secretary. The amount of assistance to be provided for a project under this paragraph shall be an amount that makes units in the project available to migrant farmworkers in the area of the project at rates not exceeding 30 percent of the monthly adjusted incomes of such farmworkers, based on the prevailing incomes of such farmworkers in the area.
 
-            (C) __Submission of information.—__ 
+            (C)  __Submission of information__  __.—__ 
 
             The owner of a project assisted under this paragraph shall be required to provide to the Secretary, at least annually, a budget of operating expenses and estimated rental income, which the Secretary may use to determine the amount of assistance for the project.
 
-            (D) __Definitions.—__ 
+            (D)  __Definitions__  __.—__ 
 
             For purposes of this paragraph, the following definitions shall apply:
 

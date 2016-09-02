@@ -157,7 +157,7 @@
 
 [Pub. L. 103–296, title III, § 312(k)][/us/pl/103/296/s312/k], Aug. 15, 1994, [108 Stat. 1527][/us/stat/108/1527], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Health and Human Services and the Commissioner of Social Security shall each submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate 3 reports on the operation of section 1140 of the Social Security Act \[this section\] with respect to the Social Security Administration or the Department of Health and Human Services during the period covered by the report, which shall specify—
 
@@ -175,7 +175,7 @@
 
 >         “(G) the total amount of civil money penalties collected under this section and deposited into the Federal Old-Age and Survivors Insurance Trust Fund or the Health Insurance and Supplementary Medical Insurance Trust Funds, as applicable, during the period.
 
->     “(2) __When due.—__ 
+>     “(2)  __When due__  __.—__ 
 
 >     The reports required by paragraph (1) shall be submitted not later than December 1, 1995, not later than December 1, 1997, and not later than December 1, 1999, respectively.”
 

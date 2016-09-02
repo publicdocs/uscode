@@ -43,13 +43,13 @@
 
     (4) __Public water system.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The term “public water system” means a system for the provision to the public of water for human consumption through pipes or other constructed conveyances, if such system has at least fifteen service connections or regularly serves at least twenty-five individuals. Such term includes (i) any collection, treatment, storage, and distribution facilities under control of the operator of such system and used primarily in connection with such system, and (ii) any collection or pretreatment storage facilities not under such control which are used primarily in connection with such system.
 
         (B) __Connections.—__ 
 
-            (i) __In general.—__ 
+            (i)  __In general__  __.—__ 
 
             For purposes of subparagraph (A), a connection to a system that delivers water by a constructed conveyance other than a pipe shall not be considered a connection, if—
 
@@ -59,11 +59,11 @@
 
                 (III) the Administrator or the State (in the case of a State exercising primary enforcement responsibility for public water systems) determines that the water provided for residential or similar uses for drinking, cooking, and bathing is centrally treated or treated at the point of entry by the provider, a pass-through entity, or the user to achieve the equivalent level of protection provided by the applicable national primary drinking water regulations.
 
-            (ii) __Irrigation districts.—__ 
+            (ii)  __Irrigation districts__  __.—__ 
 
             An irrigation district in existence prior to May 18, 1994, that provides primarily agricultural service through a piped water system with only incidental residential or similar use shall not be considered to be a public water system if the system or the residential or similar users of the system comply with subclause (II) or (III) of clause (i).
 
-        (C) __Transition period.—__ 
+        (C)  __Transition period__  __.—__ 
 
         A water supplier that would be a public water system only as a result of modifications made to this paragraph by the Safe Drinking Water Act Amendments of 1996 shall not be considered a public water system for purposes of the Act until the date that is two years after August 6, 1996. If a water supplier does not serve 15 service connections (as defined in subparagraphs (A) and (B)) or 25 people at any time after the conclusion of the 2-year period, the water supplier shall not be considered a public water system.
 
@@ -91,7 +91,7 @@
 
     (14) The term “Indian Tribe” means any Indian tribe having a Federally recognized governing body carrying out substantial governmental duties and powers over any area. For purposes of [section 300j–12 of this title][/us/usc/t42/s300j–12], the term includes any Native village (as defined in [section 1602(c) of title 43][/us/usc/t43/s1602/c]).
 
-    (15) __Community water system.—__ 
+    (15)  __Community water system__  __.—__ 
 
     The term “community water system” means a public water system that—
 
@@ -99,7 +99,7 @@
 
         (B) regularly serves at least 25 year-round residents.
 
-    (16) __Noncommunity water system.—__ 
+    (16)  __Noncommunity water system__  __.—__ 
 
     The term “noncommunity water system” means a public water system that is not a community water system.
 

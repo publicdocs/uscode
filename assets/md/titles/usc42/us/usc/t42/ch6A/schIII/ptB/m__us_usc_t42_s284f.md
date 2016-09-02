@@ -103,11 +103,11 @@
 
 [Pub. L. 105–78, title VI, § 603(b)][/us/pl/105/78/s603/b], Nov. 13, 1997, [111 Stat. 1519][/us/stat/111/1519], provided that:
 
->     “(1) __Finding.—__ 
+>     “(1)  __Finding__  __.—__ 
 
 >     Congress finds that to take full advantage of the tremendous potential for finding a cure or effective treatment, the Federal investment in Parkinson’s disease must be expanded, as well as the coordination strengthened among the National Institutes of Health research institutes.
 
->     “(2) __Purpose.—__ 
+>     “(2)  __Purpose__  __.—__ 
 
 >     It is the purpose of this section \[enacting this section\] to provide for the expansion and coordination of research regarding Parkinson’s disease, and to improve care and assistance for afflicted individuals and their family caregivers.”
 

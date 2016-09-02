@@ -109,7 +109,7 @@
 
 >     “(a) __Research on Postpartum Conditions.—__ 
 
->         “(1) __Expansion and intensification of activities.—__ 
+>         “(1)  __Expansion and intensification of activities__  __.—__ 
 
 >         The Secretary of Health and Human Services (in this subsection and subsection (c) referred to as the ‘Secretary’) is encouraged to continue activities on postpartum depression or postpartum psychosis (in this subsection and subsection (c) referred to as ‘postpartum conditions’), including research to expand the understanding of the causes of, and treatments for, postpartum conditions. Activities under this paragraph shall include conducting and supporting the following:
 
@@ -139,11 +139,11 @@
 
 >         “(2) __Sense of congress regarding longitudinal study of relative mental health consequences for women of resolving a pregnancy.—__ 
 
->             “(A) __Sense of congress.—__ 
+>             “(A)  __Sense of congress__  __.—__ 
 
 >             It is the sense of Congress that the Director of the National Institute of Mental Health may conduct a nationally representative longitudinal study (during the period of fiscal years 2010 through 2019) of the relative mental health consequences for women of resolving a pregnancy (intended and unintended) in various ways, including carrying the pregnancy to term and parenting the child, carrying the pregnancy to term and placing the child for adoption, miscarriage, and having an abortion. This study may assess the incidence, timing, magnitude, and duration of the immediate and long-term mental health consequences (positive or negative) of these pregnancy outcomes.
 
->             “(B) __Report.—__ 
+>             “(B)  __Report__  __.—__ 
 
 >             Subject to the completion of the study under subsection (a), beginning not later than 5 years after the date of the enactment of this Act \[Mar. 23, 2010\], and periodically thereafter for the duration of the study, such Director may prepare and submit to the Congress reports on the findings of the study.”
 

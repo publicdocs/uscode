@@ -1597,11 +1597,11 @@
 
 [Pub. L. 111–148, title X, § 10202][/us/pl/111/148/s10202], Mar. 23, 2010, [124 Stat. 923][/us/stat/124/923], provided that:
 
->     “(a) __State Balancing Incentive Payments Program.—__ 
+>     “(a)  __State Balancing Incentive Payments Program__  __.—__ 
 
 >     Notwithstanding section 1905(b) of the Social Security Act ([42 U.S.C. 1396d(b)][/us/usc/t42/s1396d/b]), in the case of a balancing incentive payment State, as defined in subsection (b), that meets the conditions described in subsection (c), during the balancing incentive period, the Federal medical assistance percentage determined for the State under section 1905(b) of such Act and, if applicable, increased under subsection (z) or (aa) shall be increased by the applicable percentage points determined under subsection (d) with respect to eligible medical assistance expenditures described in subsection (e).
 
->     “(b) __Balancing Incentive Payment State.—__ 
+>     “(b)  __Balancing Incentive Payment State__  __.—__ 
 
 >     A balancing incentive payment State is a State—
 
@@ -1611,11 +1611,11 @@
 
 >         “(3) that is selected by the Secretary to participate in the State balancing incentive payment program established under this section.
 
->     “(c) __Conditions.—__ 
+>     “(c)  __Conditions__  __.—__ 
 
 >     The conditions described in this subsection are the following:
 
->         “(1) __Application.—__ 
+>         “(1)  __Application__  __.—__ 
 
 >         The State submits an application to the Secretary that includes, in addition to such other information as the Secretary shall require—
 
@@ -1629,43 +1629,43 @@
 
 >             “(B) In the case of any other balancing incentive payment State, the target spending percentage for the State to achieve by not later than October 1, 2015, is that 50 percent of the total expenditures for long-term services and supports under the State Medicaid program are for home and community-based services.
 
->         “(3) __Maintenance of eligibility requirements.—__ 
+>         “(3)  __Maintenance of eligibility requirements__  __.—__ 
 
 >         The State does not apply eligibility standards, methodologies, or procedures for determining eligibility for medical assistance for non-institutionally-based long-term services and supports described in subsection (f)(1)(B) under the State Medicaid program that are more restrictive than the eligibility standards, methodologies, or procedures in effect for such purposes on December 31, 2010.
 
->         “(4) __Use of additional funds.—__ 
+>         “(4)  __Use of additional funds__  __.—__ 
 
 >         The State agrees to use the additional Federal funds paid to the State as a result of this section only for purposes of providing new or expanded offerings of non-institutionally-based long-term services and supports described in subsection (f)(1)(B) under the State Medicaid program.
 
->         “(5) __Structural changes.—__ 
+>         “(5)  __Structural changes__  __.—__ 
 
 >         The State agrees to make, not later than the end of the 6-month period that begins on the date the State submits an application under this section, the following changes:
 
->             “(A) __‘No wrong door—__ 
+>             “(A) __‘__  __No wrong door—single entry point system__  __’.—__ 
 
->             single entry point system’.—Development of a statewide system to enable consumers to access all long-term services and supports through an agency, organization, coordinated network, or portal, in accordance with such standards as the State shall establish and that shall provide information regarding the availability of such services, how to apply for such services, referral services for services and supports otherwise available in the community, and determinations of financial and functional eligibility for such services and supports, or assistance with assessment processes for financial and functional eligibility.
+>             Development of a statewide system to enable consumers to access all long-term services and supports through an agency, organization, coordinated network, or portal, in accordance with such standards as the State shall establish and that shall provide information regarding the availability of such services, how to apply for such services, referral services for services and supports otherwise available in the community, and determinations of financial and functional eligibility for such services and supports, or assistance with assessment processes for financial and functional eligibility.
 
->             “(B) __Conflict-free case management services.—__ 
+>             “(B)  __Conflict-free case management services__  __.—__ 
 
 >             Conflict-free case management services to develop a service plan, arrange for services and supports, support the beneficiary (and, if appropriate, the beneficiary’s caregivers) in directing the provision of services and supports for the beneficiary, and conduct ongoing monitoring to assure that services and supports are delivered to meet the beneficiary’s needs and achieve intended outcomes.
 
->             “(C) __Core standardized assessment instruments.—__ 
+>             “(C)  __Core standardized assessment instruments__  __.—__ 
 
 >             Development of core standardized assessment instruments for determining eligibility for non-institutionally-based long-term services and supports described in subsection (f)(1)(B), which shall be used in a uniform manner throughout the State, to determine a beneficiary’s needs for training, support services, medical care, transportation, and other services, and develop an individual service plan to address such needs.
 
->         “(6) __Data collection.—__ 
+>         “(6)  __Data collection__  __.—__ 
 
 >         The State agrees to collect from providers of services and through such other means as the State determines appropriate the following data:
 
->             “(A) __Services data.—__ 
+>             “(A)  __Services data__  __.—__ 
 
 >             Services data from providers of non-institutionally-based long-term services and supports described in subsection (f)(1)(B) on a per-beneficiary basis and in accordance with such standardized coding procedures as the State shall establish in consultation with the Secretary.
 
->             “(B) __Quality data.—__ 
+>             “(B)  __Quality data__  __.—__ 
 
 >             Quality data on a selected set of core quality measures agreed upon by the Secretary and the State that are linked to population-specific outcomes measures and accessible to providers.
 
->             “(C) __Outcomes measures.—__ 
+>             “(C)  __Outcomes measures__  __.—__ 
 
 >             Outcomes measures data on a selected set of core population-specific outcomes measures agreed upon by the Secretary and the State that are accessible to providers and include—
 
@@ -1675,7 +1675,7 @@
 
 >                 “(iii) measures for achieving desired outcomes appropriate to a specific beneficiary, including employment, participation in community life, health stability, and prevention of loss in function.
 
->     “(d) __Applicable Percentage Points Increase in FMAP.—__ 
+>     “(d)  __Applicable Percentage Points Increase in__  __FMAP.—__ 
 
 >     The applicable percentage points increase is—
 
@@ -1685,19 +1685,19 @@
 
 >     “(e) __Eligible Medical Assistance Expenditures.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), medical assistance described in this subsection is medical assistance for non-institutionally-based long-term services and supports described in subsection (f)(1)(B) that is provided by a balancing incentive payment State under its State Medicaid program during the balancing incentive payment period.
 
->         “(2) __Limitation on payments.—__ 
+>         “(2)  __Limitation on payments__  __.—__ 
 
 >         In no case may the aggregate amount of payments made by the Secretary to balancing incentive payment States under this section during the balancing incentive period exceed $3,000,000,000.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Long-term services and supports defined.—__ 
+>         “(1)  __Long-term services and supports defined__  __.—__ 
 
 >         The term ‘long-term services and supports’ has the meaning given that term by Secretary and may include any of the following (as defined for purposes of State Medicaid programs):
 
@@ -1723,15 +1723,15 @@
 
 >                 “(v) Self-directed personal assistance services described in section 1915(j) of such Act \[[42 U.S.C. 1396n(j)][/us/usc/t42/s1396n/j]\].
 
->         “(2) __Balancing incentive period.—__ 
+>         “(2)  __Balancing incentive period__  __.—__ 
 
 >         The term ‘balancing incentive period’ means the period that begins on October 1, 2011, and ends on September 30, 2015.
 
->         “(3) __Poverty line.—__ 
+>         “(3)  __Poverty line__  __.—__ 
 
 >         The term ‘poverty line’ has the meaning given that term in section 2110(c)(5) of the Social Security Act ([42 U.S.C. 1397jj(c)(5)][/us/usc/t42/s1397jj/c/5]).
 
->         “(4) __State medicaid program.—__ 
+>         “(4)  __State medicaid program__  __.—__ 
 
 >         The term ‘State Medicaid program’ means the State program for medical assistance provided under a State plan under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] and under any waiver approved with respect to such State plan.”
 
@@ -1739,7 +1739,7 @@
 
 [Pub. L. 111–5, div. B, title V, § 5001][/us/pl/111/5/s5001], Feb. 17, 2009, [123 Stat. 496][/us/stat/123/496], as amended by [Pub. L. 111–226, title II, § 201][/us/pl/111/226/s201], Aug. 10, 2010, [124 Stat. 2393][/us/stat/124/2393], provided that:
 
->     “(a) __Permitting Maintenance of Fmap.—__ 
+>     “(a)  __Permitting Maintenance of Fmap__  __.—__ 
 
 >     Subject to subsections (e), (f), and (g), if the FMAP determined without regard to this section for a State for—
 
@@ -1749,29 +1749,29 @@
 
 >         “(3) fiscal year 2011 is less than the FMAP as so determined for fiscal year 2008, fiscal year 2009 (after the application of paragraph (1)), or fiscal year 2010 (after the application of paragraph (2)), the greatest of such FMAP for the State for fiscal year 2008, fiscal year 2009, or fiscal year 2010 shall be substituted for the State’s FMAP for fiscal year 2011, before the application of this section, but only for the first 3 calendar quarters in fiscal year 2011.
 
->     “(b) __General 6.2 Percentage Point Increase.—__ 
+>     “(b)  __General__  __6.2 Percentage Point Increase.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to subsections (e), (f), and (g) and paragraphs (2) and (3), for each State for calendar quarters during the recession adjustment period (as defined in subsection (h)(3)), the FMAP (after the application of subsection (a)) shall be increased (without regard to any limitation otherwise specified in section 1905(b) of the Social Security Act ([42 U.S.C. 1396d(b)][/us/usc/t42/s1396d/b])) by 6.2 percentage points.
 
->         “(2) __Special election for territories.—__ 
+>         “(2)  __Special election for territories__  __.—__ 
 
 >         In the case of a State that is not one of the 50 States or the District of Columbia, paragraph (1) shall only apply if the State makes a one-time election, in a form and manner specified by the Secretary and for the entire recession adjustment period, to apply the increase in FMAP under paragraph (1) and a 15 percent increase under subsection (d) instead of applying a 30 percent increase under subsection (d).
 
 >         “(3) __Phase-down of general increase.—__ 
 
->             “(A) __Second quarter of fiscal year 2011.—__ 
+>             “(A)  __Second quarter of fiscal year 2011__  __.—__ 
 
 >             For each State, for the second quarter of fiscal year 2011, the FMAP percentage increase for the State under paragraph (1) or (2) (as applicable) shall be 3.2 percentage points.
 
->             “(B) __Third quarter of fiscal year 2011.—__ 
+>             “(B)  __Third quarter of fiscal year 2011__  __.—__ 
 
 >             For each State, for the third quarter of fiscal year 2011, the FMAP percentage increase for the State under paragraph (1) or (2) (as applicable) shall be 1.2 percentage points.
 
 >     “(c) __Additional Relief Based on Increase in Unemployment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to subsections (e), (f), and (g), if a State is a qualifying State under paragraph (2) for a calendar quarter occurring during the recession adjustment period, the FMAP for the State shall be further increased by the number of percentage points equal to the product of—
 
@@ -1781,7 +1781,7 @@
 
 >         “(2) __Qualifying criteria.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             For purposes of paragraph (1), a State qualifies for additional relief under this subsection for a calendar quarter occurring during the recession adjustment period if the State is 1 of the 50 States or the District of Columbia and the State satisfies any of the following criteria for the quarter:
 
@@ -1791,13 +1791,13 @@
 
 >                 “(iii) The State unemployment increase percentage for the quarter is at least 3.5 percentage points.
 
->             “(B) __Maintenance of status.—__ 
+>             “(B)  __Maintenance of status__  __.—__ 
 
 >             If a State qualifies for additional relief under this subsection for a calendar quarter, it shall be deemed to have qualified for such relief for each subsequent calendar quarter ending before January 1, 2011.
 
 >         “(3) __Applicable percent.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             For purposes of paragraph (1), subject to subparagraph (B), the applicable percent is—
 
@@ -1809,17 +1809,17 @@
 
 >             “(B) __Maintenance of higher applicable percent.—__ 
 
->                 “(i) __Hold harmless period.—__ 
+>                 “(i)  __Hold harmless period__  __.—__ 
 
 >                 If the percent applied to a State under subparagraph (A) for any calendar quarter in the recession adjustment period beginning on or after January 1, 2009, and ending before January 1, 2011, \[sic\] (determined without regard to this subparagraph) is less than the percent applied for the preceding quarter (as so determined), the higher applicable percent shall continue in effect for each subsequent calendar quarter ending before January 1, 2011.
 
->                 “(ii) __Notice of lower applicable percent.—__ 
+>                 “(ii)  __Notice of lower applicable percent__  __.—__ 
 
 >                 The Secretary shall notify a State at least 60 days prior to applying any lower applicable percent to the State under this paragraph.
 
 >         “(4) __Computation of state unemployment increase percentage.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In this subsection, the ‘State unemployment increase percentage’ for a State for a calendar quarter is equal to the number of percentage points (if any) by which—
 
@@ -1827,11 +1827,11 @@
 
 >                 “(ii) the lowest average monthly unemployment rate for the State for any 3-consecutive-month period preceding the period described in clause (i) and beginning on or after January 1, 2006.
 
->             “(B) __Average monthly unemployment rate defined.—__ 
+>             “(B)  __Average monthly unemployment rate defined__  __.—__ 
 
 >             In this paragraph, the term ‘average monthly unemployment rate’ means the average of the monthly number unemployed, divided by the average of the monthly civilian labor force, seasonally adjusted, as determined based on the most recent monthly publications of the Bureau of Labor Statistics of the Department of Labor.
 
->             “(C) __Special rule.—__ 
+>             “(C)  __Special rule__  __.—__ 
 
 >             With respect to—
 
@@ -1839,11 +1839,11 @@
 
 >                 “(ii) the last 2 calendar quarters of the recession adjustment period, the most recent previous 3-consecutive-month period described in such subparagraph shall be the 3-consecutive-month period beginning with December 2009, or, if it results in a higher applicable percent under paragraph (3), any 3-consecutive-month period that begins after December 2009 and ends before January 2011.
 
->     “(d) __Increase in Cap on Medicaid Payments to Territories.—__ 
+>     “(d)  __Increase in Cap on Medicaid Payments to Territories__  __.—__ 
 
 >     Subject to subsections (f) and (g), with respect to entire fiscal years occurring during the recession adjustment period and with respect to fiscal years only a portion of which occurs during such period (and in proportion to the portion of the fiscal year that occurs during such period), the amounts otherwise determined for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa under subsections (f) and (g) of section 1108 of the Social Security Act (42 6 \[42\] U.S.C. 1308) shall each be increased by 30 percent (or, in the case of an election under subsection (b)(2), 15 percent). In the case of such an election by a territory, subsection (a)(1) of such section shall be applied without regard to any increase in payment made to the territory under part E of title IV of such Act \[[42 U.S.C. 670][/us/usc/t42/s670] et seq.\] that is attributable to the increase in FMAP effected under subsection (b) for the territory.
 
->     “(e) __Scope of Application.—__ 
+>     “(e)  __Scope of Application__  __.—__ 
 
 >     The increases in the FMAP for a State under this section shall apply for purposes of title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] and shall not apply with respect to—
 
@@ -1863,15 +1863,15 @@
 
 >         “(1) __Maintenance of eligibility requirements.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Subject to subparagraphs (B) and (C), a State is not eligible for an increase in its FMAP under subsection (a), (b), or (c), or an increase in a cap amount under subsection (d), if eligibility standards, methodologies, or procedures under its State plan under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] (including any waiver under such title or under section 1115 of such Act ([42 U.S.C. 1315][/us/usc/t42/s1315])) are more restrictive than the eligibility standards, methodologies, or procedures, respectively, under such plan (or waiver) as in effect on July 1, 2008.
 
->             “(B) __State reinstatement of eligibility permitted.—__ 
+>             “(B)  __State reinstatement of eligibility permitted__  __.—__ 
 
 >             Subject to subparagraph (C), a State that has restricted eligibility standards, methodologies, or procedures under its State plan under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] (including any waiver under such title or under section 1115 of such Act ([42 U.S.C. 1315][/us/usc/t42/s1315])) after July 1, 2008, is no longer ineligible under subparagraph (A) beginning with the first calendar quarter in which the State has reinstated eligibility standards, methodologies, or procedures that are no more restrictive than the eligibility standards, methodologies, or procedures, respectively, under such plan (or waiver) as in effect on July 1, 2008.
 
->             “(C) __Special rules.—__ 
+>             “(C)  __Special rules__  __.—__ 
 
 >             A State shall not be ineligible under subparagraph (A)—
 
@@ -1883,63 +1883,63 @@
 
 >             “(A) __Application to practitioners.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Subject to the succeeding provisions of this subparagraph, no State shall be eligible for an increased FMAP rate as provided under this section for any claim received by a State from a practitioner subject to the terms of section 1902(a)(37)(A) of the Social Security Act ([42 U.S.C. 1396a(a)(37)(A)][/us/usc/t42/s1396a/a/37/A]) for such days during any period in which that State has failed to pay claims in accordance with such section as applied under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\].
 
->                 “(ii) __Reporting requirement.—__ 
+>                 “(ii)  __Reporting requirement__  __.—__ 
 
 >                 Each State shall report to the Secretary, on a quarterly basis, its compliance with the requirements of clause (i) as such requirements pertain to claims made for covered services during each month of the preceding quarter.
 
->                 “(iii) __Waiver authority.—__ 
+>                 “(iii)  __Waiver authority__  __.—__ 
 
 >                 The Secretary may waive the application of clause (i) to a State, or the reporting requirement imposed under clause (ii), during any period in which there are exigent circumstances, including natural disasters, that prevent the timely processing of claims or the submission of such a report.
 
->                 “(iv) __Application to claims.—__ 
+>                 “(iv)  __Application to claims__  __.—__ 
 
 >                 Clauses (i) and (ii) shall only apply to claims made for covered services after the date of enactment of this Act \[Feb. 17, 2009\].
 
 >             “(B) __Application to nursing facilities and hospitals.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Subject to clause (ii), the provisions of subparagraph (A) shall apply with respect to a nursing facility or hospital, insofar as it is paid under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] on the basis of submission of claims, in the same or similar manner (but within the same timeframe) as such provisions apply to practitioners described in such subparagraph.
 
->                 “(ii) __Grace period.—__ 
+>                 “(ii)  __Grace period__  __.—__ 
 
 >                 Notwithstanding clause (i), no period of ineligibility shall be imposed against a State prior to June 1, 2009, on the basis of the State failing to pay a claim in accordance with such clause.
 
->         “(3) __State’s application toward rainy day fund.—__ 
+>         “(3)  __State’s application toward rainy day fund__  __.—__ 
 
 >         A State is not eligible for an increase in its FMAP under subsection (b) or (c), or an increase in a cap amount under subsection (d), if any amounts attributable (directly or indirectly) to such increase are deposited or credited into any reserve or rainy day fund of the State.
 
->         “(4) __No waiver authority.—__ 
+>         “(4)  __No waiver authority__  __.—__ 
 
 >         Except as provided in paragraph (2)(A)(iii), the Secretary may not waive the application of this subsection or subsection (g) under section 1115 of the Social Security Act \[[42 U.S.C. 1315][/us/usc/t42/s1315]\] or otherwise.
 
->         “(5) __Limitation of fmap to 100 percent.—__ 
+>         “(5)  __Limitation of fmap to 100 percent__  __.—__ 
 
 >         In no case shall an increase in FMAP under this section result in an FMAP that exceeds 100 percent.
 
->         “(6) __Treatment of certain expenditures.—__ 
+>         “(6)  __Treatment of certain expenditures__  __.—__ 
 
 >         With respect to expenditures described in section 2105(a)(1)(B) of the Social Security Act ([42 U.S.C. 1397ee(a)(1)(B)][/us/usc/t42/s1397ee/a/1/B]), as in effect before April 1, 2009, that are made during the period beginning on October 1, 2008, and ending on March 31, 2009, any additional Federal funds that are paid to a State as a result of this section that are attributable to such expenditures shall not be counted against any allotment under section 2104 of such Act ([42 U.S.C. 1397dd][/us/usc/t42/s1397dd]).
 
 >     “(g) __Requirements.—__ 
 
->         “(1) __State reports.—__ 
+>         “(1)  __State reports__  __.—__ 
 
 >         Each State that is paid additional Federal funds as a result of this section shall, not later than March 31, 2012, submit a report to the Secretary, in such form and such manner as the Secretary shall determine, regarding how the additional Federal funds were expended.
 
->         “(2) __Additional requirement for certain states.—__ 
+>         “(2)  __Additional requirement for certain states__  __.—__ 
 
 >         In the case of a State that requires political subdivisions within the State to contribute toward the non-Federal share of expenditures under the State Medicaid plan required under section 1902(a)(2) of the Social Security Act ([42 U.S.C. 1396a(a)(2)][/us/usc/t42/s1396a/a/2]), the State is not eligible for an increase in its FMAP under subsection (b) or (c), or an increase in a cap amount under subsection (d), if it requires that such political subdivisions pay for quarters during the recession adjustment period a greater percentage of the non-Federal share of such expenditures, or a greater percentage of the non-Federal share of payments under section 1923 of such Act \[[42 U.S.C. 1396r–4][/us/usc/t42/s1396r–4]\], than the respective percentage that would have been required by the State under such plan on September 30, 2008, prior to application of this section.
 
->         “(3) __Certification by chief executive officer.—__ 
+>         “(3)  __Certification by chief executive officer__  __.—__ 
 
 >         No additional Federal funds shall be paid to a State as a result of this section with respect to a calendar quarter occurring during the period beginning on January 1, 2011, and ending on June 30, 2011, unless, not later than 45 days after the date of enactment of this paragraph, the chief executive officer of the State certifies that the State will request and use such additional Federal funds.
 
->     “(h) __Definitions.—__ 
+>     “(h)  __Definitions__  __.—__ 
 
 >     In this section, except as otherwise provided:
 
@@ -1947,27 +1947,27 @@
 
 >         The term ‘FMAP’ means the Federal medical assistance percentage, as defined in section 1905(b) of the Social Security Act ([42 U.S.C. 1396d(b)][/us/usc/t42/s1396d/b]), as determined without regard to this section except as otherwise specified.
 
->         “(2) __Poverty line.—__ 
+>         “(2)  __Poverty line__  __.—__ 
 
 >         The term ‘poverty line’ has the meaning given such term in section 673(2) of the Community Services Block Grant Act ([42 U.S.C. 9902(2)][/us/usc/t42/s9902/2]), including any revision required by such section.
 
->         “(3) __Recession adjustment period.—__ 
+>         “(3)  __Recession adjustment period__  __.—__ 
 
 >         The term ‘recession adjustment period’ means the period beginning on October 1, 2008, and ending on June 30, 2011.
 
->         “(4) __Secretary.—__ 
+>         “(4)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of Health and Human Services.
 
->         “(5) __State.—__ 
+>         “(5)  __State__  __.—__ 
 
 >         The term ‘State’ has the meaning given such term in section 1101(a)(1) of the Social Security Act ([42 U.S.C. 1301(a)(1)][/us/usc/t42/s1301/a/1]) for purposes of title XIX of the Social Security Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.).
 
->     “(i) __Sunset.—__ 
+>     “(i)  __Sunset__  __.—__ 
 
 >     This section shall not apply to items and services furnished after the end of the recession adjustment period.
 
->     “(j) __Limitation on FMAP Change.—__ 
+>     “(j)  __Limitation on FMAP Change__  __.—__ 
 
 >     The increase in FMAP effected under section 614 of the Children’s Health Insurance Program Reauthorization Act of 2009 \[[section 614 of Pub. L. 111–3][/us/pl/111/3/s614], set out below\] shall not apply in the computation of the enhanced FMAP under title XXI or XIX of the Social Security Act \[[42 U.S.C. 1397aa][/us/usc/t42/s1397aa] et seq., 1396 et seq.\] for any period (notwithstanding subsection (i)).”
 
@@ -1983,33 +1983,33 @@
 
 [Pub. L. 111–3, title VI, § 614][/us/pl/111/3/s614], Feb. 4, 2009, [123 Stat. 101][/us/stat/123/101], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Only for purposes of computing the FMAP (as defined in subsection (e)) for a State for a fiscal year (beginning with fiscal year 2006) and applying the FMAP under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], any significantly disproportionate employer pension or insurance fund contribution described in subsection (b) shall be disregarded in computing the per capita income of such State, but shall not be disregarded in computing the per capita income for the continental United States (and Alaska) and Hawaii.
 
 >     “(b) __Significantly Disproportionate Employer Pension and Insurance Fund Contribution.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         For purposes of this section, a significantly disproportionate employer pension and insurance fund contribution described in this subsection with respect to a State is any identifiable employer contribution towards pension or other employee insurance funds that is estimated to accrue to residents of such State for a calendar year (beginning with calendar year 2003) if the increase in the amount so estimated exceeds 25 percent of the total increase in personal income in that State for the year involved.
 
->         “(2) __Data to be used.—__ 
+>         “(2)  __Data to be used__  __.—__ 
 
 >         For estimating and adjustment a FMAP already calculated as of the date of the enactment of this Act \[Feb. 4, 2009\] for a State with a significantly disproportionate employer pension and insurance fund contribution, the Secretary shall use the personal income data set originally used in calculating such FMAP.
 
->         “(3) __Special adjustment for negative growth.—__ 
+>         “(3)  __Special adjustment for negative growth__  __.—__ 
 
 >         If in any calendar year the total personal income growth in a State is negative, an employer pension and insurance fund contribution for the purposes of calculating the State’s FMAP for a calendar year shall not exceed 125 percent of the amount of such contribution for the previous calendar year for the State.
 
->     “(c) __Hold Harmless.—__ 
+>     “(c)  __Hold Harmless__  __.—__ 
 
 >     No State shall have its FMAP for a fiscal year reduced as a result of the application of this section.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than May 15, 2009, the Secretary shall submit to the Congress a report on the problems presented by the current treatment of pension and insurance fund contributions in the use of Bureau of Economic Affairs calculations for the FMAP and for Medicaid and on possible alternative methodologies to mitigate such problems.
 
->     “(e) __FMAP Defined.—__ 
+>     “(e) __FMAP__  __Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘FMAP’ means the Federal medical assistance percentage, as defined in section 1905(b) of the Social Security Act ([42 U.S.C. 1396(d)][/us/usc/t42/s1396/d] \[1396d\[b\]\]).”
 
@@ -2041,15 +2041,15 @@
 
 >     “(a) __Study.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Health and Human Services, in consultation with Governors, directors of State medicaid programs, the American Academy of Actuaries, and representatives of appropriate provider and beneficiary organizations, shall conduct a study of the provision of early and periodic screening, diagnostic, and treatment services under the medicaid program under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] in accordance with the requirements of section 1905(r) of such Act ([42 U.S.C. 1396d(r)][/us/usc/t42/s1396d/r]).
 
->         “(2) __Required contents.—__ 
+>         “(2)  __Required contents__  __.—__ 
 
 >         The study conducted under paragraph (1) shall include examination of the actuarial value of the provision of such services under the medicaid program and an examination of the portions of such actuarial value that are attributable to paragraph (5) of section 1905(r) of such Act and to the second sentence of such section.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 12 months after the date of the enactment of this Act \[Aug. 5, 1997\], the Secretary of Health and Human Services shall submit a report to Congress on the results of the study conducted under subsection (a).”
 
@@ -2061,7 +2061,7 @@
 
 [Pub. L. 101–508, title IV, § 4706][/us/pl/101/508/s4706], Nov. 5, 1990, [104 Stat. 1388–173][/us/stat/104/1388-173], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >         (1) If the Secretary of Health and Human Services makes a determination that a psychiatric facility has failed to comply with certification of need requirements for inpatient psychiatric hospital services for individuals under age 21 pursuant to section 1905(h) of the Social Security Act \[[42 U.S.C. 1396d(h)][/us/usc/t42/s1396d/h]\], and such determination has not been subject to a final judicial decision, any disallowance or deferral of Federal financial participation under such Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] based on such determination shall only apply to the period of time beginning with the first day of noncompliance and ending with the date by which the psychiatric facility develops documentation (using plan of care or utilization review procedures) of the need for inpatient care with respect to such individuals.
 
@@ -2073,7 +2073,7 @@
 
 >             “(B) shall not apply to any fiscal year before the fiscal year that is 3 years before the fiscal year in which the determination of noncompliance described in paragraph (1) is made.
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     Subsection (a) shall apply to disallowance actions and deferrals of Federal financial participation with respect to services provided before the date of enactment of this Act \[Nov. 5, 1990\].”
 

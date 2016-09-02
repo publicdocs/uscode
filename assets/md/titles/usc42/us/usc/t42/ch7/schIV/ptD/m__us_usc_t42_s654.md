@@ -547,7 +547,7 @@
 
 [Pub. L. 104–193, title III, § 395(a)][/us/pl/104/193/s395/a]–(c), Aug. 22, 1996, [110 Stat. 2259][/us/stat/110/2259], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise specifically provided (but subject to subsections (b) and (c))—
 
@@ -555,7 +555,7 @@
 
 >         “(2) all other provisions of this title shall become effective upon the date of the enactment of this Act \[Aug. 22, 1996\].
 
->     “(b) __Grace Period for State Law Changes.—__ 
+>     “(b)  __Grace Period for State Law Changes__  __.—__ 
 
 >     The provisions of this title shall become effective with respect to a State on the later of—
 
@@ -565,7 +565,7 @@
 
 >         but in no event later than the 1st day of the 1st calendar quarter beginning after the close of the 1st regular session of the State legislature that begins after the date of the enactment of this Act \[Aug. 22, 1996\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.
 
->     “(c) __Grace Period for State Constitutional Amendment.—__ 
+>     “(c)  __Grace Period for State Constitutional Amendment__  __.—__ 
 
 >     A State shall not be found out of compliance with any requirement enacted by this title if the State is unable to so comply without amending the State constitution until the earlier of—
 

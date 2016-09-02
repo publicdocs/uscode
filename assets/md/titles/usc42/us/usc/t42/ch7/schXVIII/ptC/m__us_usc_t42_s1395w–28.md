@@ -363,7 +363,7 @@
 
 [Pub. L. 110–275, title I, § 164(c)(2)][/us/pl/110/275/s164/c/2]–(4), July 15, 2008, [122 Stat. 2573][/us/stat/122/2573], as amended by [Pub. L. 111–148, title III, § 3205(d)][/us/pl/111/148/s3205/d], Mar. 23, 2010, [124 Stat. 458][/us/stat/124/458], provided that:
 
->     “(2) __Authority to operate but no service area expansion for dual snps that do not meet certain requirements.—__ 
+>     “(2)  __Authority to operate but no service area expansion for dual snps that do not meet certain requirements__  __.—__ 
 
 >     Notwithstanding subsection (f) of section 1859 of the Social Security Act ([42 U.S.C. 1395w–28][/us/usc/t42/s1395w–28]), during the period beginning on January 1, 2010, and ending on December 31, 2012, in the case of a specialized Medicare Advantage plan for special needs individuals described in subsection (b)(6)(B)(ii) of such section, as amended by this section, that does not meet the requirement described in subsection (f)(3)(D) of such section, the Secretary of Health and Human Services—
 
@@ -371,11 +371,11 @@
 
 >         “(B) shall not permit an expansion of the service area of the plan under such part C.
 
->     “(3) __Resources for state medicaid agencies.—__ 
+>     “(3)  __Resources for state medicaid agencies__  __.—__ 
 
 >     The Secretary of Health and Human Services shall provide for the designation of appropriate staff and resources that can address State inquiries with respect to the coordination of State and Federal policies for specialized MA plans for special needs individuals described in section 1859(b)(6)(B)(ii) of the Social Security Act ([42 U.S.C. 1395w–28(b)(6)(B)(ii)][/us/usc/t42/s1395w–28/b/6/B/ii]), as amended by this section.
 
->     “(4) __No requirement for contract.—__ 
+>     “(4)  __No requirement for contract__  __.—__ 
 
 >     Nothing in the provisions of, or amendments made by, this subsection \[amending this section\] shall require a State to enter into a contract with a Medicare Advantage organization with respect to a specialized MA plan for special needs individuals described in section 1859(b)(6)(B)(ii) of the Social Security Act ([42 U.S.C. 1395w–28(b)(6)(B)(ii)][/us/usc/t42/s1395w–28/b/6/B/ii]), as amended by this section.”
 

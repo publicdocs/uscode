@@ -37,7 +37,7 @@
 
             (A) The Secretary shall establish, by regulation, requirements for the approval, suspension, and revocation of biologics licenses.
 
-            (B) __Pediatric studies.—__ 
+            (B)  __Pediatric studies__  __.—__ 
 
             A person that submits an application for a license under this paragraph shall submit to the Secretary as part of the application any assessments required under section 505B of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 355c][/us/usc/t21/s355c]\].
 
@@ -55,7 +55,7 @@
 
                 (ii) if the applicant (or other appropriate person) consents to the inspection of the facility that is the subject of the application, in accordance with subsection (c) of this section.
 
-            (D) __Postmarket studies and clinical trials; labeling; risk evaluation and mitigation strategy.—__ 
+            (D)  __Postmarket studies and clinical trials; labeling; risk evaluation and mitigation strategy__  __.—__ 
 
             A person that submits an application for a license under this paragraph is subject to sections 505(o), 505(p), and 505–1 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 355][/us/usc/t21/s355](o), (p), 355–1\].
 
@@ -609,11 +609,11 @@
 
 [Pub. L. 111–148, title VII, § 7002(e)][/us/pl/111/148/s7002/e], Mar. 23, 2010, [124 Stat. 817][/us/stat/124/817], provided that:
 
->     “(1) __Requirement to follow section 351.—__ 
+>     “(1)  __Requirement to follow section__  __351.—__ 
 
 >     Except as provided in paragraph (2), an application for a biological product shall be submitted under section 351 of the Public Health Service Act ([42 U.S.C. 262][/us/usc/t42/s262]) (as amended by this Act).
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     An application for a biological product may be submitted under section 505 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355][/us/usc/t21/s355]) if—
 
@@ -627,15 +627,15 @@
 
 >             “(ii) is submitted to the Secretary not later than the date that is 10 years after the date of enactment of this Act.
 
->     “(3) __Limitation.—__ 
+>     “(3)  __Limitation__  __.—__ 
 
 >     Notwithstanding paragraph (2), an application for a biological product may not be submitted under section 505 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355][/us/usc/t21/s355]) if there is another biological product approved under subsection (a) of section 351 of the Public Health Service Act \[[42 U.S.C. 262][/us/usc/t42/s262]\] that could be a reference product with respect to such application (within the meaning of such section 351) if such application were submitted under subsection (k) of such section 351.
 
->     “(4) __Deemed approved under section 351.—__ 
+>     “(4)  __Deemed approved under section__  __351.—__ 
 
 >     An approved application for a biological product under section 505 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355][/us/usc/t21/s355]) shall be deemed to be a license for the biological product under such section 351 on the date that is 10 years after the date of enactment of this Act.
 
->     “(5) __Definitions.—__ 
+>     “(5)  __Definitions__  __.—__ 
 
 >     For purposes of this subsection, the term ‘biological product’ has the meaning given such term under section 351 of the Public Health Service Act ([42 U.S.C. 262][/us/usc/t42/s262]) (as amended by this Act).”
 
@@ -643,13 +643,13 @@
 
 [Pub. L. 111–148, title VII, § 7002(f)(3)(B)][/us/pl/111/148/s7002/f/3/B], (C), Mar. 23, 2010, [124 Stat. 818][/us/stat/124/818], 819, provided that:
 
->     “(B) __Evaluation of costs of reviewing biosimilar biological product applications.—__ 
+>     “(B)  __Evaluation of costs of reviewing biosimilar biological product applications__  __.—__ 
 
 >     During the period beginning on the date of enactment of this Act \[Mar. 23, 2010\] and ending on October 1, 2010, the Secretary \[of Health and Human Services\] shall collect and evaluate data regarding the costs of reviewing applications for biological products submitted under section 351(k) of the Public Health Service Act \[[42 U.S.C. 262(k)][/us/usc/t42/s262/k]\] (as added by this Act) during such period.
 
 >     “(C) __Audit.—__ 
 
->         “(i) __In general.—__ 
+>         “(i)  __In general__  __.—__ 
 
 >         On the date that is 2 years after first receiving a user fee applicable to an application for a biological product under section 351(k) of the Public Health Service Act \[[42 U.S.C. 262(k)][/us/usc/t42/s262/k]\] (as added by this Act), and on a biennial basis thereafter until October 1, 2013, the Secretary shall perform an audit of the costs of reviewing such applications under such section 351(k). Such an audit shall compare—
 
@@ -661,11 +661,11 @@
 
 >                 “(bb) the ratio of the costs of reviewing applications for biological products under section 351(a) of such Act \[[42 U.S.C. 262(a)][/us/usc/t42/s262/a]\] (as amended by this Act) to the amount of the user fee applicable to such applications under such section 351(a).
 
->         “(ii) __Alteration of user fee.—__ 
+>         “(ii)  __Alteration of user fee__  __.—__ 
 
 >         If the audit performed under clause (i) indicates that the ratios compared under subclause (II) of such clause differ by more than 5 percent, then the Secretary shall alter the user fee applicable to applications submitted under such section 351(k) \[[42 U.S.C. 262(k)][/us/usc/t42/s262/k]\] to more appropriately account for the costs of reviewing such applications.
 
->         “(iii) __Accounting standards.—__ 
+>         “(iii)  __Accounting standards__  __.—__ 
 
 >         The Secretary shall perform an audit under clause (i) in conformance with the accounting principles, standards, and requirements prescribed by the Comptroller General of the United States under [section 3511 of title 31][/us/usc/t31/s3511], United State Code, to ensure the validity of any potential variability.”
 
@@ -683,11 +683,11 @@
 
 [Pub. L. 111–148, title VII, § 7003][/us/pl/111/148/s7003], Mar. 23, 2010, [124 Stat. 821][/us/stat/124/821], provided that:
 
->     “(a) __Determination.—__ 
+>     “(a)  __Determination__  __.—__ 
 
 >     The Secretary of the Treasury, in consultation with the Secretary of Health and Human Services, shall for each fiscal year determine the amount of savings to the Federal Government as a result of the enactment of this subtitle \[subtitle A (§§ 7001–7003) of title VII of [Pub. L. 111–148][/us/pl/111/148], see Short Title of 2010 Amendment note under [section 201 of this title][/us/usc/t42/s201]\].
 
->     “(b) __Use.—__ 
+>     “(b)  __Use__  __.—__ 
 
 >     Notwithstanding any other provision of this subtitle (or an amendment made by this subtitle), the savings to the Federal Government generated as a result of the enactment of this subtitle shall be used for deficit reduction.”
 
@@ -695,7 +695,7 @@
 
 [Pub. L. 104–132, title V, § 511][/us/pl/104/132/s511], Apr. 24, 1996, [110 Stat. 1284][/us/stat/110/1284], as amended by [Pub. L. 107–188, title II, § 204][/us/pl/107/188/s204], June 12, 2002, [116 Stat. 647][/us/stat/116/647], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -707,11 +707,11 @@
 
 >         “(4) efforts to protect the public from exposure to such agents should ensure that individuals and groups with legitimate objectives continue to have access to such agents for clinical and research purposes.
 
->     “(b) __Criminal Enforcement.—__ 
+>     “(b)  __Criminal Enforcement__  __.—__ 
 
 >     \[Amended sections 175, 177, and 178 of Title 18, Crimes and Criminal Procedure.\]
 
->     “(c) __Terrorism.—__ 
+>     “(c)  __Terrorism__  __.—__ 
 
 >     \[Amended [section 2332a of Title 18][/us/usc/t18/s2332a].\]”
 

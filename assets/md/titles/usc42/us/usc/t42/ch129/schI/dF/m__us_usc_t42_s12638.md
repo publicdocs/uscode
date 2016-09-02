@@ -389,11 +389,11 @@
 
 [Pub. L. 103–82, title II, § 201(d)][/us/pl/103/82/s201/d], Sept. 21, 1993, [107 Stat. 873][/us/stat/107/873], provided that:
 
->     “(1) __Use of alternatives to state commission.—__ 
+>     “(1)  __Use of alternatives to state commission__  __.—__ 
 
 >     If a State does not have a State Commission on National and Community Service that satisfies the requirements specified in section 178 of the National and Community Service Act of 1990 \[[42 U.S.C. 12638][/us/usc/t42/s12638]\], as amended by subsection (a), the Corporation for National and Community Service may authorize the chief executive officer of the State to use an existing agency of the State to perform the duties otherwise reserved to a State Commission under subsection (e) of such section.
 
->     “(2) __Application of subsection.—__ 
+>     “(2)  __Application of subsection__  __.—__ 
 
 >     This subsection shall apply only during the 27-month period beginning on the date of the enactment of this Act \[Sept. 21, 1993\].”
 

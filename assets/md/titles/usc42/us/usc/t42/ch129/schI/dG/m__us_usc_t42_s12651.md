@@ -31,7 +31,7 @@
 
 [Pub. L. 103–82, title II, § 203(d)][/us/pl/103/82/s203/d], Sept. 21, 1993, [107 Stat. 895][/us/stat/107/895], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), this section \[amending this section and sections 12639, 12651b to 12651d, 12651f, and 12651g of this title, repealing sections 5041 and 5042 of this title, and enacting provisions set out below\], and the amendments made by this section, shall take effect—
 
@@ -39,7 +39,7 @@
 
 >         “(B) on such earlier date as the President shall determine to be appropriate and announce by proclamation published in the Federal Register.
 
->     “(2) __Transition.—__ 
+>     “(2)  __Transition__  __.—__ 
 
 >     Subsection (c)(10) \[set out below\] shall take effect on the date of enactment of this Act \[Sept. 21, 1993\].”
 
@@ -49,11 +49,11 @@
 
 [Pub. L. 103–82, title II, § 202(i)][/us/pl/103/82/s202/i], Sept. 21, 1993, [107 Stat. 891][/us/stat/107/891], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), or paragraph (2) or (3) of subsection (g) \[amending sections 8F and 9 of the Inspector General Act of 1978, [Pub. L. 95–452][/us/pl/95/452], set out in the Appendix to Title 5, Government Organization and Employees, and enacting provisions set out as notes under sections 8F and 9 of such act\], the amendments made by this section \[enacting this division and section 8E of the Inspector General Act of 1978, [Pub. L. 95–452][/us/pl/95/452], set out in the Appendix to Title 5, amending [section 5041 of this title][/us/usc/t42/s5041], sections 4, 8F, 8G, 9, and 11 of the Inspector General Act of 1978, [Pub. L. 95–452][/us/pl/95/452], set out in the Appendix to Title 5, sections 9101 and 9105 of Title 31, Money and Finance, [section 410 of Title 39][/us/usc/t39/s410], Postal Service, and section 484 of former Title 40, Public Buildings, Property, and Works\] shall take effect on October 1, 1993.
 
->     “(2) __Establishment and appointment authorities.—__ 
+>     “(2)  __Establishment and appointment authorities__  __.—__ 
 
 >     Sections 191, 192, and 193 of the National and Community Service Act of 1990 \[[42 U.S.C. 12651][/us/usc/t42/s12651], 12651a, 12651c\], as added by subsection (a), shall take effect on the date of enactment of this Act \[Sept. 21, 1993\].”
 
@@ -61,15 +61,15 @@
 
 [Pub. L. 103–82, title II, § 202(c)][/us/pl/103/82/s202/c], Sept. 21, 1993, [107 Stat. 888][/us/stat/107/888], provided that:
 
->     “(1) __Definitions.—__ 
+>     “(1)  __Definitions__  __.—__ 
 
 >     For purposes of this subsection, unless otherwise provided or indicated by the context, each term specified in section 203(c)(1) \[set out below\] shall have the meaning given the term in such section.
 
->     “(2) __Transfer of functions.—__ 
+>     “(2)  __Transfer of functions__  __.—__ 
 
 >     There are transferred to the Corporation the functions that the Board of Directors or Executive Director of the Commission on National and Community Service exercised before the effective date of this subsection (including all related functions of any officer or employee of the Commission).
 
->     “(3) __Application.—__ 
+>     “(3)  __Application__  __.—__ 
 
 >     The provisions of paragraphs (3) through (10) of section 203(c) \[set out below\] shall apply with respect to the transfer described in paragraph (2), except that—
 
@@ -81,7 +81,7 @@
 
 [Pub. L. 103–82, title II, § 203(c)][/us/pl/103/82/s203/c], Sept. 21, 1993, [107 Stat. 892][/us/stat/107/892], provided that:
 
->     “(1) __Definitions.—__ 
+>     “(1)  __Definitions__  __.—__ 
 
 >     For purposes of this subsection, unless otherwise provided or indicated by the context—
 
@@ -95,43 +95,43 @@
 
 >         “(E) the term ‘office’ includes any office, administration, agency, institute, unit, organizational entity, or component thereof.
 
->     “(2) __Transfer of functions.—__ 
+>     “(2)  __Transfer of functions__  __.—__ 
 
 >     There are transferred to the Corporation the functions that the Director of the ACTION Agency exercised before the effective date of this subsection \[see Effective Date of 1993 Amendment note above\] (including all related functions of any officer or employee of the ACTION Agency).
 
->     “(3) __Determinations of certain functions by the office of management and budget.—__ 
+>     “(3)  __Determinations of certain functions by the office of management and budget__  __.—__ 
 
 >     If necessary, the Office of Management and Budget shall make any determination of the functions that are transferred under paragraph (2).
 
->     “(4) __Reorganization.—__ 
+>     “(4)  __Reorganization__  __.—__ 
 
 >     The Chief Executive Officer is authorized to allocate or reallocate any function transferred under paragraph (2) among the officers of the Corporation.
 
->     “(5) __Transfer and allocations of appropriations and personnel.—__ 
+>     “(5)  __Transfer and allocations of appropriations and personnel__  __.—__ 
 
 >     Except as otherwise provided in this subsection, the personnel employed in connection with, and the assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, used, held, arising from, available to, or to be made available in connection with the functions transferred by this subsection, subject to [section 1531 of title 31][/us/usc/t31/s1531], United States Code, shall be transferred to the Corporation. Unexpended funds transferred pursuant to this paragraph shall be used only for the purposes for which the funds were originally authorized and appropriated.
 
->     “(6) __Incidental transfer.—__ 
+>     “(6)  __Incidental transfer__  __.—__ 
 
 >     The Director of the Office of Management and Budget, at such time or times as the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by this subsection, and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with such functions, as may be necessary to carry out the provisions of this subsection. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this subsection and for such further measures and dispositions as may be necessary to effectuate the purposes of this subsection.
 
 >     “(7) __Effect on personnel.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as otherwise provided by this subsection, the transfer pursuant to this subsection of full-time personnel (except special Government employees) and part-time personnel holding permanent positions shall be to positions in the Corporation subject to section 195(a) of the National and Community Service Act of 1990 \[[42 U.S.C. 12651f(a)][/us/usc/t42/s12651f/a]\], as added by section 202(a) of this Act, and shall not cause any such employee to be separated or reduced in grade or compensation, or to have the benefits of the employee reduced, for 1 year after the date of transfer of such employee under this subsection, and such transfer shall be deemed to be a transfer of functions for purposes of [section 3503 of title 5][/us/usc/t5/s3503], United States Code.
 
->         “(B) __Executive schedule positions.—__ 
+>         “(B)  __Executive schedule positions__  __.—__ 
 
 >         Except as otherwise provided in this subsection, any person who, on the day preceding the effective date of this subsection \[see Effective Date of 1993 Amendment note above\], held a position compensated in accordance with the Executive Schedule prescribed in chapter 53 of title 5, United States Code, and who, without a break in service, is appointed in the Corporation to a position having duties comparable to the duties performed immediately preceding such appointment shall continue to be compensated in such new position at not less than the rate provided for such previous position, for the duration of the service of such person in such new position.
 
->         “(C) __Termination of certain positions.—__ 
+>         “(C)  __Termination of certain positions__  __.—__ 
 
 >         Positions whose incumbents are appointed by the President, by and with the advice and consent of the Senate, the functions of which are transferred by this subsection, shall terminate on the effective date of this subsection.
 
 >     “(8) __Savings provisions.—__ 
 
->         “(A) __Continuing effect of legal documents.—__ 
+>         “(A)  __Continuing effect of legal documents__  __.—__ 
 
 >         All orders, determinations, rules, regulations, permits, agreements, grants, contracts, certificates, licenses, registrations, privileges, and other administrative actions—
 
@@ -141,27 +141,27 @@
 
 >             shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Chief Executive Officer, or other authorized official, a court of competent jurisdiction, or by operation of law.
 
->         “(B) __Proceedings not affected.—__ 
+>         “(B)  __Proceedings not affected__  __.—__ 
 
 >         The provisions of this subsection shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending before the ACTION Agency at the time this subsection takes effect, with respect to functions transferred by this subsection. Such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this subsection had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this subparagraph shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this subsection had not been enacted.
 
->         “(C) __Suits not affected.—__ 
+>         “(C)  __Suits not affected__  __.—__ 
 
 >         The provisions of this subsection shall not affect suits commenced before the effective date of this subsection, and in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this subsection had not been enacted.
 
->         “(D) __Nonabatement of actions.—__ 
+>         “(D)  __Nonabatement of actions__  __.—__ 
 
 >         No suit, action, or other proceeding commenced by or against the ACTION Agency, or by or against any individual in the official capacity of such individual as an officer of the ACTION Agency, shall abate by reason of the enactment of this subsection.
 
->         “(E) __Administrative actions relating to promulgation of regulations.—__ 
+>         “(E)  __Administrative actions relating to promulgation of regulations__  __.—__ 
 
 >         Any administrative action relating to the preparation or promulgation of a regulation by the ACTION Agency relating to a function transferred under this subsection may be continued by the Corporation with the same effect as if this subsection had not been enacted.
 
->     “(9) __Severability.—__ 
+>     “(9)  __Severability__  __.—__ 
 
 >     If a provision of this subsection or its application to any person or circumstance is held invalid, neither the remainder of this subsection nor the application of the provision to other persons or circumstances shall be affected.
 
->     “(10) __Transition.—__ 
+>     “(10)  __Transition__  __.—__ 
 
 >     Prior to, or after, any transfer of a function under this subsection, the Chief Executive Officer is authorized to utilize—
 
@@ -173,7 +173,7 @@
 
 [Pub. L. 111–13, title I, § 1710][/us/pl/111/13/s1710], Apr. 21, 2009, [123 Stat. 1549][/us/stat/123/1549], provided that:
 
->     “(a) __Planning Study.—__ 
+>     “(a)  __Planning Study__  __.—__ 
 
 >     The Corporation shall conduct a study to identify—
 
@@ -185,23 +185,23 @@
 
 >         “(4) methods for ensuring the efficient financial organization of services directed towards displaced workers.
 
->     “(b) __Consultation.—__ 
+>     “(b)  __Consultation__  __.—__ 
 
 >     The study shall be carried out in consultation with the Secretary of Labor, State labor agencies, and other individuals and entities the Corporation considers appropriate.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 1 year after the effective date of this Act \[for general effective date of [Pub. L. 111–13][/us/pl/111/13] as Oct. 1, 2009, see Effective Date of 2009 Amendment note under [section 4950 of this title][/us/usc/t42/s4950]\], the Corporation shall submit to the authorizing committees a report on the results of the planning study required by subsection (a), together with a plan for implementation of a pilot program using promising strategies and approaches for better targeting and serving displaced workers.
 
->     “(d) __Pilot Program.—__ 
+>     “(d)  __Pilot Program__  __.—__ 
 
 >     From amounts made available to carry out this section, the Corporation shall develop and carry out a pilot program based on the findings and plan in the report submitted under subsection (c).
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section, the terms ‘Corporation’, ‘authorizing committees’, and ‘national service laws’ have the meanings given the terms in section 101 of the National and Community Service Act of 1990 ([42 U.S.C. 12511][/us/usc/t42/s12511]).
 
->     “(f) __Authorization of Appropriations.—__ 
+>     “(f)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2010 through 2014.”
 
@@ -217,11 +217,11 @@
 
 >     “(a) __Business Plan Required.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Corporation for National and Community Service (referred to in this section as the ‘Corporation’) shall prepare and submit to Congress a business plan. The Corporation may not provide assistance under section 121 of the National and Community Service Act of 1990 \[[42 U.S.C. 12571][/us/usc/t42/s12571]\] before the twentieth day of continuous session of Congress after the date on which the Corporation submits the business plan to Congress.
 
->         “(2) __Computation.—__ 
+>         “(2)  __Computation__  __.—__ 
 
 >         For purposes of the computation of the 20-day period referred to in paragraph (1), continuity of a session of the Congress shall be considered to be broken only by—
 
@@ -231,7 +231,7 @@
 
 >     “(b) __Required Elements of Business Plan.—__ 
 
->         “(1) __Allocation of funds.—__ 
+>         “(1)  __Allocation of funds__  __.—__ 
 
 >         The business plan shall contain—
 
@@ -241,7 +241,7 @@
 
 >             “(C) information that indicates how accountability for such funds can be determined, in terms of the office or officer responsible for such funds.
 
->         “(2) __Investigative and audit functions.—__ 
+>         “(2)  __Investigative and audit functions__  __.—__ 
 
 >         The business plan shall include a description of the plans of the Corporation—
 
@@ -255,29 +255,29 @@
 
 >                 “(ii) the manner in which grants made by the Corporation shall be audited by such Office and the financial management controls that shall apply with regard to such grants and programs.
 
->         “(3) __Accountability measures.—__ 
+>         “(3)  __Accountability measures__  __.—__ 
 
 >         The business plan shall include a detailed description of the accountability measures to be established by the Corporation to ensure effective control of all funds for programs carried out by the Corporation after October 1, 1993.
 
->         “(4) __Information resources.—__ 
+>         “(4)  __Information resources__  __.—__ 
 
 >         The business plan shall include a description of an information resource management program that will support the program and financial management needs of the Corporation.
 
 >         “(5) __Corporation staffing and integration of action.—__ 
 
->             “(A) __Transfers.—__ 
+>             “(A)  __Transfers__  __.—__ 
 
 >             The business plan shall include a report on the progress and plans of the President for transferring the functions, programs, and related personnel of ACTION to the Corporation, and shall include a timetable for the transfer.
 
->             “(B) __Details and assignments.—__ 
+>             “(B)  __Details and assignments__  __.—__ 
 
 >             The report shall specify the number of ACTION employees detailed or assigned to the Corporation, and describe the hiring activity of the Corporation, during the transition period.
 
->             “(C) __Structure.—__ 
+>             “(C)  __Structure__  __.—__ 
 
 >             The business plan shall include a description of the organizational structure of the Corporation during the transition period.
 
->             “(D) __Staffing.—__ 
+>             “(D)  __Staffing__  __.—__ 
 
 >             The business plan shall include a description of—
 
@@ -285,7 +285,7 @@
 
 >                 “(ii) the responsibilities and authorities of the Managing Directors and other key personnel of the Corporation.
 
->             “(E) __Senior executive service.—__ 
+>             “(E)  __Senior executive service__  __.—__ 
 
 >             The business plan shall include—
 
@@ -293,11 +293,11 @@
 
 >                 “(ii) information justifying such pay for such employees.
 
->         “(6) __Duplication of functions.—__ 
+>         “(6)  __Duplication of functions__  __.—__ 
 
 >         The business plan shall include a description of the measures that the Corporation is taking or will take to minimize duplication of functions in the Corporation caused by the transfer of the functions of the Commission on National and Community Service, and the transfer of the functions of ACTION, to the Corporation. This description shall address functions at both the national and State levels.
 
->     “(c) __Definition.—__ 
+>     “(c)  __Definition__  __.—__ 
 
 >     The term ‘transition period’ means the period beginning on October 1, 1993 and ending on the day before the effective date of section 203(c)(2) \[see Effective Date of 1993 Amendment note above\].”
 

@@ -199,15 +199,15 @@
 
 [Pub. L. 105–33, title IV, § 4331(f)][/us/pl/105/33/s4331/f], Aug. 5, 1997, [111 Stat. 396][/us/stat/111/396], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in this subsection, the amendments made by this section \[amending this section and sections 1320a–7, 1320a–7a, and 1320a–7d of this title\] shall be effective as if included in the enactment of the Health Insurance Portability and Accountability Act of 1996 \[[Pub. L. 104–191][/us/pl/104/191]\].
 
->     “(2) __Federal health program.—__ 
+>     “(2)  __Federal health program__  __.—__ 
 
 >     The amendments made by subsection (c) \[amending [section 1320a–7 of this title][/us/usc/t42/s1320a–7]\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].
 
->     “(3) __Sanction for failure to report.—__ 
+>     “(3)  __Sanction for failure to report__  __.—__ 
 
 >     The amendment made by subsection (d) \[amending this section\] shall apply to failures occurring on or after the date of the enactment of this Act.”
 
@@ -215,35 +215,35 @@
 
 [Pub. L. 111–148, title VI, § 6403(d)][/us/pl/111/148/s6403/d], Mar. 23, 2010, [124 Stat. 766][/us/stat/124/766], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Effective on the date of enactment of this Act \[Mar. 23, 2010\], the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall implement a transition process under which, by not later than the end of the transition period described in paragraph (5), the Secretary shall cease operating the Healthcare Integrity and Protection Data Bank established under section 1128E of the Social Security Act \[[42 U.S.C. 1320a–7e][/us/usc/t42/s1320a–7e]\] (as in effect before the effective date specified in paragraph (6)) and shall transfer all data collected in the Healthcare Integrity and Protection Data Bank to the National Practitioner Data Bank established pursuant to the Health Care Quality Improvement Act of 1986 ([42 U.S.C. 11101][/us/usc/t42/s11101] et seq.). During such transition process, the Secretary shall have in effect appropriate procedures to ensure that data collection and access to the Healthcare Integrity and Protection Data Bank and the National Practitioner Data Bank are not disrupted.
 
->     “(2) __Regulations.—__ 
+>     “(2)  __Regulations__  __.—__ 
 
 >     The Secretary shall promulgate regulations to carry out the amendments made by subsections (a) and (b) \[amending this section and [section 1396r–2 of this title][/us/usc/t42/s1396r–2]\].
 
 >     “(3) __Funding.—__ 
 
->         “(A) __Availability of fees.—__ 
+>         “(A)  __Availability of fees__  __.—__ 
 
 >         Fees collected pursuant to section 1128E(d)(2) of the Social Security Act \[[42 U.S.C. 1320a–7e(d)(2)][/us/usc/t42/s1320a–7e/d/2]\] prior to the effective date specified in paragraph (6) for the disclosure of information in the Healthcare Integrity and Protection Data Bank shall be available to the Secretary, without fiscal year limitation, for payment of costs related to the transition process described in paragraph (1). Any such fees remaining after the transition period is complete shall be available to the Secretary, without fiscal year limitation, for payment of the costs of operating the National Practitioner Data Bank.
 
->         “(B) __Availability of additional funds.—__ 
+>         “(B)  __Availability of additional funds__  __.—__ 
 
 >         In addition to the fees described in subparagraph (A), any funds available to the Secretary or to the Inspector General of the Department of Health and Human Services for a purpose related to combating health care fraud, waste, or abuse shall be available to the extent necessary for operating the Healthcare Integrity and Protection Data Bank during the transition period, including systems testing and other activities necessary to ensure that information formerly reported to the Healthcare Integrity and Protection Data Bank will be accessible through the National Practitioner Data Bank after the end of such transition period.
 
 >     “(4) __Special provision for access to the national practitioner data bank by the department of veterans affairs.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law, during the 1-year period that begins on the effective date specified in paragraph (6), the information described in subparagraph (B) shall be available from the National Practitioner Data Bank to the Secretary of Veterans Affairs without charge.
 
->         “(B) __Information described.—__ 
+>         “(B)  __Information described__  __.—__ 
 
 >         For purposes of subparagraph (A), the information described in this subparagraph is the information that would, but for the amendments made by this section \[amending this section and sections 1320a–7c and 1396r–2 of this title\], have been available to the Secretary of Veterans Affairs from the Healthcare Integrity and Protection Data Bank.
 
->     “(5) __Transition period defined.—__ 
+>     “(5)  __Transition period defined__  __.—__ 
 
 >     For purposes of this subsection, the term ‘transition period’ means the period that begins on the date of enactment of this Act \[Mar. 23, 2010\] and ends on the later of—
 
@@ -251,7 +251,7 @@
 
 >         “(B) the effective date of the regulations promulgated under paragraph (2).
 
->     “(6) __Effective date.—__ 
+>     “(6)  __Effective date__  __.—__ 
 
 >     The amendments made by subsections (a), (b), and (c) \[amending this section and sections 1320a–7c and 1396r–2 of this title\] shall take effect on the first day after the final day of the transition period.”
 

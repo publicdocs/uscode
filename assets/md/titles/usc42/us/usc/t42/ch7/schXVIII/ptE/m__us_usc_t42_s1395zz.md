@@ -117,11 +117,11 @@
 
 >     “(a) __Establishment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary \[of Health and Human Services\] shall establish a demonstration program (in this section referred to as the ‘demonstration program’) under which technical assistance described in paragraph (2) is made available, upon request and on a voluntary basis, to small providers of services or suppliers in order to improve compliance with the applicable requirements of the programs under medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] (including provisions of title XI of such Act \[[42 U.S.C. 1301][/us/usc/t42/s1301] et seq.\] insofar as they relate to such title and are not administered by the Office of the Inspector General of the Department of Health and Human Services).
 
->         “(2) __Forms of technical assistance.—__ 
+>         “(2)  __Forms of technical assistance__  __.—__ 
 
 >         The technical assistance described in this paragraph is—
 
@@ -129,7 +129,7 @@
 
 >             “(B) information and assistance regarding policies and procedures under the medicare program, including coding and reimbursement.
 
->         “(3) __Small providers of services or suppliers.—__ 
+>         “(3)  __Small providers of services or suppliers__  __.—__ 
 
 >         In this section, the term ‘small providers of services or suppliers’ means—
 
@@ -137,23 +137,23 @@
 
 >             “(B) a supplier with fewer than 10 full-time-equivalent employees.
 
->     “(b) __Qualification of Contractors.—__ 
+>     “(b)  __Qualification of Contractors__  __.—__ 
 
 >     In conducting the demonstration program, the Secretary shall enter into contracts with qualified organizations (such as peer review \[now “quality improvement”\] organizations or entities described in section 1889(g)(2) of the Social Security Act \[[42 U.S.C. 1395zz(g)(2)][/us/usc/t42/s1395zz/g/2]\], as inserted by section 921(f)(1)) with appropriate expertise with billing systems of the full range of providers of services and suppliers to provide the technical assistance. In awarding such contracts, the Secretary shall consider any prior investigations of the entity’s work by the Inspector General of Department of Health and Human Services or the Comptroller General of the United States.
 
->     “(c) __Description of Technical Assistance.—__ 
+>     “(c)  __Description of Technical Assistance__  __.—__ 
 
 >     The technical assistance provided under the demonstration program shall include a direct and in-person examination of billing systems and internal controls of small providers of services or suppliers to determine program compliance and to suggest more efficient or effective means of achieving such compliance.
 
->     “(d) __GAO Evaluation.—__ 
+>     “(d) __GAO__  __Evaluation__  __.—__ 
 
 >     Not later than 2 years after the date the demonstration program is first implemented, the Comptroller General, in consultation with the Inspector General of ‘the Department of Health and Human Services, shall conduct an evaluation of the demonstration program. The evaluation shall include a determination of whether claims error rates are reduced for small providers of services or suppliers who participated in the program and the extent of improper payments made as a result of the demonstration program. The Comptroller General shall submit a report to the Secretary and the Congress on such evaluation and shall include in such report recommendations regarding the continuation or extension of the demonstration program.
 
->     “(e) __Financial Participation by Providers.—__ 
+>     “(e)  __Financial Participation by Providers__  __.—__ 
 
 >     The provision of technical assistance to a small provider of services or supplier under the demonstration program is conditioned upon the small provider of services or supplier paying an amount estimated (and disclosed in advance of a provider’s or supplier’s participation in the program) to be equal to 25 percent of the cost of the technical assistance.
 
->     “(f) __Authorization of Appropriations.—__ 
+>     “(f)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated, from amounts not otherwise appropriated in the Treasury, such sums as may be necessary to carry out this section.”
 

@@ -73,23 +73,23 @@
 
 [Pub. L. 106–525, title IV, § 402][/us/pl/106/525/s402], Nov. 22, 2000, [114 Stat. 2509][/us/stat/114/2509], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Nov. 22, 2000\], the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’), acting through the Administrator of the Health Resources and Services Administration, shall convene a national conference on health professions education as a method for reducing disparities in health outcomes.
 
->     “(b) __Participants.—__ 
+>     “(b)  __Participants__  __.—__ 
 
 >     The Secretary shall include in the national conference convened under subsection (a) advocacy groups and educational entities as described in section 741 of the Public Health Service Act \[[42 U.S.C. 293e][/us/usc/t42/s293e]\] (as added by section 401), tribal health programs, health centers under section 330 of such Act \[[42 U.S.C. 254b][/us/usc/t42/s254b]\], and other interested parties.
 
->     “(c) __Issues.—__ 
+>     “(c)  __Issues__  __.—__ 
 
 >     The national conference convened under subsection (a) shall include, but is not limited to, issues that address the role and impact of health professions education on the reduction of disparities in health outcomes, including the role of education on cultural competency. The conference shall focus on methods to achieve reductions in disparities in health outcomes through health professions education (including continuing education programs) and strategies for outcomes measurement to assess the effectiveness of education in reducing disparities.
 
->     “(d) __Publication of Findings.—__ 
+>     “(d)  __Publication of Findings__  __.—__ 
 
 >     Not later than 6 months after the national conference under subsection (a) has convened, the Secretary shall publish in the Federal Register a summary of the proceedings and findings of the conference.
 
->     “(e) __Authorization of Appropriations.—__ 
+>     “(e)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated such sums as may be necessary to carry out this section.”
 

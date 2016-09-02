@@ -479,11 +479,11 @@
 
 [Pub. L. 101–625, title IX, § 913(f)][/us/pl/101/625/s913/f], Nov. 28, 1990, [104 Stat. 4393][/us/stat/104/4393], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 5301 and 5307 of this title\] shall apply to amounts approved in any appropriation Act under section 103 of the Housing and Community Development Act of 1974 \[[section 5303 of this title][/us/usc/t42/s5303]\] for fiscal year 1990 and each fiscal year thereafter.
 
->     “(2) __Grants in fiscal year 1990.—__ 
+>     “(2)  __Grants in fiscal year 1990__  __.—__ 
 
 >     The Secretary of Housing and Urban Development may make grants to Indian tribes pursuant to the amendments made by this section with any amounts approved in any appropriation Act under section 103 for fiscal year 1990 for grants to Indian tribes, and the first sentence of section 106(a)(1) of the Housing and Community Development Act of 1974 \[subsec. (a)(1) of this section\] (as amended by this Act) shall not apply to such grants.”
 
@@ -535,23 +535,23 @@
 
 [Pub. L. 101–625, title IX, § 916][/us/pl/101/625/s916], Nov. 28, 1990, [104 Stat. 4396][/us/stat/104/4396], as amended by [Pub. L. 102–550, title VIII, § 810][/us/pl/102/550/s810], Oct. 28, 1992, [106 Stat. 3850][/us/stat/106/3850]; [Pub. L. 104–204, title II][/us/pl/104/204], Sept. 26, 1996, [110 Stat. 2887][/us/stat/110/2887], provided that:
 
->     “(a) __Set-Aside for Colonias.—__ 
+>     “(a)  __Set-Aside for Colonias__  __.—__ 
 
 >     The States of Arizona, California, New Mexico, and Texas shall each make available, for activities designed to meet the needs of the residents of colonias in the State relating to water, sewage, and housing, the following percentage of the amount allocated for the State under section 106(d) of the Housing and Community Development Act of 1974 ([42 U.S.C. 5306(d)][/us/usc/t42/s5306/d]):
 
->         “(1) __First fiscal year.—__ 
+>         “(1)  __First fiscal year__  __.—__ 
 
 >         For the first fiscal year to which this section applies, 10 percent.
 
->         “(2) __Succeeding fiscal years.—__ 
+>         “(2)  __Succeeding fiscal years__  __.—__ 
 
 >         For each of the succeeding fiscal years to which this section applies, a percentage (not to exceed 10 percent) that is determined by the Secretary of Housing and Urban Development to be appropriate after consultation with representatives of the interests of the residents of colonias.
 
->     “(b) __Eligible Activities.—__ 
+>     “(b)  __Eligible Activities__  __.—__ 
 
 >     Assistance distributed pursuant to this section may be used only to carry out the following activities:
 
->         “(1) __Planning.—__ 
+>         “(1)  __Planning__  __.—__ 
 
 >         Payment of the cost of planning community development (including water and sewage facilities) and housing activities, including the cost of—
 
@@ -559,27 +559,27 @@
 
 >             “(B) preliminary surveys and analyses of market needs, preliminary site engineering and architectural services, site options, applications, mortgage commitments, legal services, and obtaining construction loans.
 
->         “(2) __Assessments for public improvements.—__ 
+>         “(2)  __Assessments for public improvements__  __.—__ 
 
 >         The payment of assessments (including any charge made as a condition of obtaining access) levied against properties owned and occupied by persons of low and moderate income to recover the capital cost for a public improvement.
 
->         “(3) __Other improvements.—__ 
+>         “(3)  __Other improvements__  __.—__ 
 
 >         Other activities eligible under section 105 of the Housing and Community Development Act of 1974 \[[42 U.S.C. 5305][/us/usc/t42/s5305]\] designed to meet the needs of residents of colonias.
 
->     “(c) __Distribution of Assistance.—__ 
+>     “(c)  __Distribution of Assistance__  __.—__ 
 
 >     Assistance shall be made available pursuant to this section in accordance with a distribution plan that gives priority to colonias having the greatest need for such assistance.
 
->     “(d) __Applicable Law.—__ 
+>     “(d)  __Applicable Law__  __.—__ 
 
 >     Except to the extent inconsistent with this section, assistance provided pursuant to this section shall be subject to the provisions of title I of the Housing and Community Development Act of 1974 ([42 U.S.C. 5301][/us/usc/t42/s5301] et seq.).
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
->         “(1) __Colonia.—__ 
+>         “(1)  __Colonia__  __.—__ 
 
 >         The term ‘colonia’ means any identifiable community that—
 
@@ -591,15 +591,15 @@
 
 >             “(D) was in existence as a colonia before the date of the enactment of the Cranston-Gonzalez National Affordable Housing Act \[Nov. 28, 1990\].
 
->         “(2) __Nonprofit organization.—__ 
+>         “(2)  __Nonprofit organization__  __.—__ 
 
 >         The term ‘nonprofit organization’ means an organization described in section 501(c) of the Internal Revenue Code of 1986 \[[26 U.S.C. 501(c)][/us/usc/t26/s501/c]\] and exempt from taxation under section 501(a) of such Code.
 
->         “(3) __Persons of low and moderate income.—__ 
+>         “(3)  __Persons of low and moderate income__  __.—__ 
 
 >         The term ‘persons of low and moderate income’ has the meaning given the term in section 102(a) of the Housing and Community Development Act of 1974 ([42 U.S.C. 5302(a)][/us/usc/t42/s5302/a]).
 
->         “(4) __United states-mexico border region.—__ 
+>         “(4)  __United states-mexico border region__  __.—__ 
 
 >         The term ‘United States-Mexico border region’ means the area of the United States within 150 miles of the border between the United States and Mexico, except that the term does not include any standard metropolitan statistical area that has a population exceeding 1,000,000.”
 

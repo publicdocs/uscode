@@ -193,15 +193,15 @@
 
             (B) __Payments__ 
 
-                (i)  __July 1, 1986__  __.—__ 
+                (i)  __July__  __1, 1986.—__ 
 
                 The twenty-five per centum of any amount collected by a State under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning on January 15, 1986, and ending June 30, 1986, and transferred to the Secretary under subparagraph (A), shall be paid by the Secretary in accordance with subparagraph (D) if the milestone described in subsection (e)(1)(A) of this section is met by the State in which such waste originated.
 
-                (ii)  __January 1, 1988__  __.—__ 
+                (ii)  __January__  __1, 1988.—__ 
 
                 The twenty-five per centum of any amount collected by a State under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning July 1, 1986 and ending December 31, 1987, and transferred to the Secretary under subparagraph (A), shall be paid by the Secretary in accordance with subparagraph (D) if the milestone described in subsection (e)(1)(B) of this section is met by the State in which such waste originated (or its compact region, where applicable).
 
-                (iii)  __January 1, 1990__  __.—__ 
+                (iii)  __January__  __1, 1990.—__ 
 
                 The twenty-five per centum of any amount collected by a State under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning January 1, 1988 and ending December 31, 1989, and transferred to the Secretary under subparagraph (A), shall be paid by the Secretary in accordance with subparagraph (D) if the milestone described in subsection (e)(1)(C) of this section is met by the State in which such waste originated (or its compact region, where applicable).
 

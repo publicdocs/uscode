@@ -71,11 +71,11 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __Extension.—__ 
+>         “(1)  __Extension__  __.—__ 
 
 >         Subject to paragraph (2), notwithstanding section 1175(b)(1)(A) of the Social Security Act ([42 U.S.C. 1320d–4(b)(1)(A)][/us/usc/t42/s1320d–4/b/1/A]) and section 162.900 of title 45, Code of Federal Regulations, a health care provider, health plan (other than a small health plan), or a health care clearinghouse shall not be considered to be in noncompliance with the applicable requirements of subparts I through R of part 162 of title 45, Code of Federal Regulations, before October 16, 2003.
 
->         “(2) __Condition.—__ 
+>         “(2)  __Condition__  __.—__ 
 
 >         Paragraph (1) shall apply to a person described in such paragraph only if, before October 16, 2002, the person submits to the Secretary of Health and Human Services a plan of how the person will come into compliance with the requirements described in such paragraph not later than October 16, 2003. Such plan shall be a summary of the following:
 
@@ -87,11 +87,11 @@
 
 >             “(D) A timeframe for testing that begins not later than April 16, 2003.
 
->         “(3) __Electronic submission.—__ 
+>         “(3)  __Electronic submission__  __.—__ 
 
 >         Plans described in paragraph (2) may be submitted electronically.
 
->         “(4) __Model form.—__ 
+>         “(4)  __Model form__  __.—__ 
 
 >         Not later than March 31, 2002, the Secretary of Health and Human Services shall promulgate a model form that persons may use in drafting a plan described in paragraph (2). The promulgation of such form shall be made without regard to chapter 35 of title 44, United States Code (commonly known as the ‘Paperwork Reduction Act’).
 
@@ -99,19 +99,19 @@
 
 >             “(A) __Analysis of plans.—__ 
 
->                 “(i) __Furnishing of plans.—__ 
+>                 “(i)  __Furnishing of plans__  __.—__ 
 
 >                 Subject to subparagraph (D), the Secretary of Health and Human Services shall furnish the National Committee on Vital and Health Statistics with a sample of the plans submitted under paragraph (2) for analysis by such Committee.
 
->                 “(ii) __Analysis.—__ 
+>                 “(ii)  __Analysis__  __.—__ 
 
 >                 The National Committee on Vital and Health Statistics shall analyze the sample of the plans furnished under clause (i).
 
->             “(B) __Reports on solutions.—__ 
+>             “(B)  __Reports on solutions__  __.—__ 
 
 >             The National Committee on Vital and Health Statistics shall regularly publish, and widely disseminate to the public, reports containing effective solutions to compliance problems identified in the plans analyzed under subparagraph (A). Such reports shall not relate specifically to any one plan but shall be written for the purpose of assisting the maximum number of persons to come into compliance by addressing the most common or challenging problems encountered by persons submitting such plans.
 
->             “(C) __Consultation.—__ 
+>             “(C)  __Consultation__  __.—__ 
 
 >             In carrying out this paragraph, the National Committee on Vital and Health Statistics shall consult with each organization—
 
@@ -121,7 +121,7 @@
 
 >             “(D) __Protection of confidential information.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 The Secretary of Health and Human Services shall ensure that any material provided under subparagraph (A) to the National Committee on Vital and Health Statistics or any organization described in subparagraph (C) is redacted so as to prevent the disclosure of any—
 
@@ -131,25 +131,25 @@
 
 >                          “(III) other information the disclosure of which would constitute a clearly unwarranted invasion of personal privacy.
 
->                 “(ii) __Construction.—__ 
+>                 “(ii)  __Construction__  __.—__ 
 
 >                 Nothing in clause (i) shall be construed to affect the application of [section 552 of title 5][/us/usc/t5/s552], United States Code (commonly known as the ‘Freedom of Information Act’), including the exceptions from disclosure provided under subsection (b) of such section.
 
 >         “(6) __Enforcement through exclusion from participation in medicare.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In the case of a person described in paragraph (1) who fails to submit a plan in accordance with paragraph (2), and who is not in compliance with the applicable requirements of subparts I through R of part 162 of title 45, Code of Federal Regulations, on or after October 16, 2002, the person may be excluded at the discretion of the Secretary of Health and Human Services from participation (including under part C or as a contractor under sections 1816, 1842, and 1893) \[[42 U.S.C. 1395h][/us/usc/t42/s1395h], 1395u, 1395ddd\] in title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.).
 
->             “(B) __Procedure.—__ 
+>             “(B)  __Procedure__  __.—__ 
 
 >             The provisions of section 1128A of the Social Security Act ([42 U.S.C. 1320a–7a][/us/usc/t42/s1320a–7a]) (other than the first and second sentences of subsection (a) and subsection (b)) shall apply to an exclusion under this paragraph in the same manner as such provisions apply with respect to an exclusion or proceeding under section 1128A(a) of such Act.
 
->             “(C) __Construction.—__ 
+>             “(C)  __Construction__  __.—__ 
 
 >             The availability of an exclusion under this paragraph shall not be construed to affect the imposition of penalties under section 1176 of the Social Security Act ([42 U.S.C. 1320d–5][/us/usc/t42/s1320d–5]).
 
->             “(D) __Nonapplicability to complying persons.—__ 
+>             “(D)  __Nonapplicability to complying persons__  __.—__ 
 
 >             The exclusion under subparagraph (A) shall not apply to a person who—
 
@@ -159,7 +159,7 @@
 
 >     “(b) __Special Rules.—__ 
 
->         “(1) __Rules of construction.—__ 
+>         “(1)  __Rules of construction__  __.—__ 
 
 >         Nothing in this section shall be construed—
 
@@ -175,15 +175,15 @@
 
 >         “(2) __Applicability of privacy standards before compliance deadline for information transaction standards.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Notwithstanding any other provision of law, during the period that begins on April 14, 2003, and ends on October 16, 2003, a health care provider or, subject to subparagraph (B), a health care clearinghouse, that transmits any health information in electronic form in connection with a transaction described in subparagraph (C) shall comply with the requirements of subpart E of part 164 of title 45, Code of Federal Regulations, without regard to whether the transmission meets the standards required by part 162 of such title.
 
->             “(B) __Application to health care clearinghouses.—__ 
+>             “(B)  __Application to health care clearinghouses__  __.—__ 
 
 >             For purposes of this paragraph, during the period described in subparagraph (A), an entity that processes or facilitates the processing of information in connection with a transaction described in subparagraph (C) and that otherwise would be treated as a health care clearinghouse shall be treated as a health care clearinghouse without regard to whether the processing or facilitation produces (or is required to produce) standard data elements or a standard transaction as required by part 162 of title 45, Code of Federal Regulations.
 
->             “(C) __Transactions described.—__ 
+>             “(C)  __Transactions described__  __.—__ 
 
 >             The transactions described in this subparagraph are the following:
 
@@ -203,7 +203,7 @@
 
 >                 “(viii) A referral certification and authorization transaction.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section—
 

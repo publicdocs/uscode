@@ -219,11 +219,11 @@
 
 [Pub. L. 110–140, title IV, § 433(c)][/us/pl/110/140/s433/c], (d), Dec. 19, 2007, [121 Stat. 1614][/us/stat/121/1614], provided that:
 
->     “(c) __Revision of Federal Acquisition Regulation.—__ 
+>     “(c)  __Revision of Federal Acquisition Regulation__  __.—__ 
 
 >     Not later than 2 years after the date of the enactment of this Act \[Dec. 19, 2007\], the Federal Acquisition Regulation shall be revised to require Federal officers and employees to comply with this section \[amending this section and [section 6832 of this title][/us/usc/t42/s6832]\] and the amendments made by this section in the acquisition, construction, or major renovation of any facility. The members of the Federal Acquisition Regulatory Council (established under section 25 of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 421][/us/usc/t41/s421]) \[see [41 U.S.C. 1302][/us/usc/t41/s1302]\]) shall consult with the Federal Director and the Commercial Director before promulgating regulations to carry out this subsection.
 
->     “(d) __Guidance.—__ 
+>     “(d)  __Guidance__  __.—__ 
 
 >     Not later than 90 days after the date of promulgation of the revised regulations under subsection (c), the Administrator for Federal Procurement Policy shall issue guidance to all Federal procurement executives providing direction and instructions to renegotiate the design of proposed facilities and major renovations for existing facilities to incorporate improvements that are consistent with this section.”
 

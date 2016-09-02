@@ -3003,11 +3003,11 @@
 
 [Pub. L. 103–432, title I, § 123(f)(1)][/us/pl/103/432/s123/f/1], (2), Oct. 31, 1994, [108 Stat. 4412][/us/stat/108/4412], provided that:
 
->     “(1) __Enforcement; miscellaneous and technical amendments.—__ 
+>     “(1)  __Enforcement; miscellaneous and technical amendments__  __.—__ 
 
 >     The amendments made by subsections (a) and (e) \[amending this section and [section 1395w–4 of this title][/us/usc/t42/s1395w–4]\] shall apply to services furnished on or after the date of the enactment of this Act \[Oct. 31, 1994\]; except that the amendments made by subsection (a) \[amending [section 1395w–4 of this title][/us/usc/t42/s1395w–4]\] shall not apply to services of a nonparticipating supplier or other person furnished before January 1, 1995.
 
->     “(2) __Practitioners.—__ 
+>     “(2)  __Practitioners__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending this section and [section 1395u of this title][/us/usc/t42/s1395u]\] shall apply to services furnished on or after January 1, 1995.”
 
@@ -3345,39 +3345,39 @@
 
 [Pub. L. 112–242, title I, § 101][/us/pl/112/242/s101], Jan. 10, 2013, [126 Stat. 2374][/us/stat/126/2374], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary shall establish and implement a demonstration project under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] to evaluate the benefits of providing payment for items and services needed for the in-home administration of intravenous immune globin for the treatment of primary immune deficiency diseases.
 
 >     “(b) __Duration and Scope.—__ 
 
->         “(1) __Duration.—__ 
+>         “(1)  __Duration__  __.—__ 
 
 >         Beginning not later than one year after the date of enactment of this Act \[Jan. 10, 2013\], the Secretary shall conduct the demonstration project for a period of 3 years.
 
->         “(2) __Scope.—__ 
+>         “(2)  __Scope__  __.—__ 
 
 >         The Secretary shall enroll not more than 4,000 Medicare beneficiaries who have been diagnosed with primary immunodeficiency disease for participation in the demonstration project. A Medicare beneficiary may participate in the demonstration project on a voluntary basis and may terminate participation at any time.
 
->     “(c) __Coverage.—__ 
+>     “(c)  __Coverage__  __.—__ 
 
 >     Except as otherwise provided in this section, items and services for which payment may be made under the demonstration program shall be treated and covered under part B of title XVIII of the Social Security Act in the same manner as similar items and services covered under such part.
 
->     “(d) __Payment.—__ 
+>     “(d)  __Payment__  __.—__ 
 
 >     The Secretary shall establish a per visit payment amount for items and services needed for the in-home administration of intravenous immune globin based on the national per visit low-utilization payment amount under the prospective payment system for home health services established under section 1895 of the Social Security Act ([42 U.S.C. 1395fff][/us/usc/t42/s1395fff]).
 
->     “(e) __Waiver Authority.—__ 
+>     “(e)  __Waiver Authority__  __.—__ 
 
 >     The Secretary may waive such requirements of title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] as may be necessary to carry out the demonstration project.
 
 >     “(f) __Study and Report to Congress.—__ 
 
->         “(1) __Interim evaluation and report.—__ 
+>         “(1)  __Interim evaluation and report__  __.—__ 
 
 >         Not later than three years after the date of enactment of this Act, the Secretary shall submit to Congress a report that contains an interim evaluation of the impact of the demonstration project on access for Medicare beneficiaries to items and services needed for the in-home administration of intravenous immune globin.
 
->         “(2) __Final evaluation and report.—__ 
+>         “(2)  __Final evaluation and report__  __.—__ 
 
 >         Not later than one year after the date of completion of the demonstration project, the Secretary shall submit to Congress a report that contains the following:
 
@@ -3387,23 +3387,23 @@
 
 >             “(C) An update to the report entitled ‘Analysis of Supply, Distribution, Demand, and Access Issues Associated with Immune Globulin Intravenous (IGIV)’, issued in February 2007 by the Office of the Assistant Secretary for Planning and Evaluation of the Department of Health and Human Services.
 
->     “(g) __Funding.—__ 
+>     “(g)  __Funding__  __.—__ 
 
 >     There shall be made available to the Secretary to carry out the demonstration project not more than $45,000,000 from the Federal Supplementary Medical Insurance Trust Fund under section 1841 of the Social Security Act ([42 U.S.C. 1395t][/us/usc/t42/s1395t]).
 
->     “(h) __Definitions.—__ 
+>     “(h)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Demonstration project.—__ 
+>         “(1)  __Demonstration project__  __.—__ 
 
 >         The term ‘demonstration project’ means the demonstration project conducted under this section.
 
->         “(2) __Medicare beneficiary.—__ 
+>         “(2)  __Medicare beneficiary__  __.—__ 
 
 >         The term ‘Medicare beneficiary’ means an individual who is enrolled for benefits under part B of title XVIII of the Social Security Act.
 
->         “(3) __Secretary.—__ 
+>         “(3)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of Health and Human Services.”
 
@@ -3423,11 +3423,11 @@
 
 [Pub. L. 112–96, title III, § 3005(g)][/us/pl/112/96/s3005/g], Feb. 22, 2012, [126 Stat. 189][/us/stat/126/189], provided that:
 
->     “(1) __Strategy.—__ 
+>     “(1)  __Strategy__  __.—__ 
 
 >     The Secretary of Health and Human Services shall implement, beginning on January 1, 2013, a claims-based data collection strategy that is designed to assist in reforming the Medicare payment system for outpatient therapy services subject to the limitations of section 1833(g) of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395]l(g)). Such strategy shall be designed to provide for the collection of data on patient function during the course of therapy services in order to better understand patient condition and outcomes.
 
->     “(2) __Consultation.—__ 
+>     “(2)  __Consultation__  __.—__ 
 
 >     In proposing and implementing such strategy, the Secretary shall consult with relevant stakeholders.”
 
@@ -3437,11 +3437,11 @@
 
 >     “(a) __Demonstration Project.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall conduct a demonstration project under part B \[of\] title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] under which separate payments are made under such part for complex diagnostic laboratory tests provided to individuals under such part. Under the demonstration project, the Secretary shall establish appropriate payment rates for such tests.
 
->         “(2) __Covered complex diagnostic laboratory test defined.—__ 
+>         “(2)  __Covered complex diagnostic laboratory test defined__  __.—__ 
 
 >         In this section, the term ‘complex diagnostic laboratory test’ means a diagnostic laboratory test—
 
@@ -3455,15 +3455,15 @@
 
 >             “(E) is described in section 1861(s)(3) of the Social Security Act ([42 U.S.C. 1395x(s)(3)][/us/usc/t42/s1395x/s/3]).
 
->         “(3) __Separate payment defined.—__ 
+>         “(3)  __Separate payment defined__  __.—__ 
 
 >         In this section, the term ‘separate payment’ means direct payment to a laboratory (including a hospital-based or independent laboratory) that performs a complex diagnostic laboratory test with respect to a specimen collected from an individual during a period in which the individual is a patient of a hospital if the test is performed after such period of hospitalization and if separate payment would not otherwise be made under title XVIII of the Social Security Act by reason of sections 1862(a)(14) and 1866(a)(1)(H)(i) of the such \[sic\] Act ([42 U.S.C. 1395y(a)(14)][/us/usc/t42/s1395y/a/14]; [42 U.S.C. 1395cc(a)(1)(H)(i)][/us/usc/t42/s1395cc/a/1/H/i]).
 
->     “(b) __Duration.—__ 
+>     “(b)  __Duration__  __.—__ 
 
 >     Subject to subsection (c)(2), the Secretary shall conduct the demonstration project under this section for the 2-year period beginning on July 1, 2011.
 
->     “(c) __Payments and Limitation.—__ 
+>     “(c)  __Payments and Limitation__  __.—__ 
 
 >     Payments under the demonstration project under this section shall—
 
@@ -3471,7 +3471,7 @@
 
 >         “(2) may not exceed $100,000,000.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than 2 years after the completion of the demonstration project under this section, the Secretary shall submit to Congress a report on the project. Such report shall include—
 
@@ -3479,7 +3479,7 @@
 
 >         “(2) such recommendations as the Secretary determines appropriate.
 
->     “(e) __Implementation Funding.—__ 
+>     “(e)  __Implementation Funding__  __.—__ 
 
 >     For purposes of administering this section (including preparing and submitting the report under subsection (d)), the Secretary shall provide for the transfer, from the Federal Supplemental \[probably should be “Supplementary”\] Medical Insurance Trust Fund under section 1841 of the Social Security Act ([42 U.S.C. 1395t][/us/usc/t42/s1395t]), to the Centers for Medicare & Medicaid Services Program Management Account, of $5,000,000. Amounts transferred under the preceding sentence shall remain available until expended.”
 
@@ -3519,11 +3519,11 @@
 
 [Pub. L. 108–173, title III, § 305(b)][/us/pl/108/173/s305/b], Dec. 8, 2003, [117 Stat. 2255][/us/stat/117/2255], provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct a study to examine the adequacy of current reimbursements for inhalation therapy under the medicare program.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\], the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1).”
 
@@ -3531,15 +3531,15 @@
 
 [Pub. L. 108–173, title IV, § 416][/us/pl/108/173/s416], Dec. 8, 2003, [117 Stat. 2282][/us/stat/117/2282], as amended by [Pub. L. 109–432, div. B, title I, § 105][/us/pl/109/432/s105], Dec. 20, 2006, [120 Stat. 2981][/us/stat/120/2981]; [Pub. L. 110–173, title I, § 107][/us/pl/110/173/s107], Dec. 29, 2007, [121 Stat. 2496][/us/stat/121/2496]; [Pub. L. 111–148, title III, § 3122][/us/pl/111/148/s3122], Mar. 23, 2010, [124 Stat. 423][/us/stat/124/423]; [Pub. L. 111–309, title I, § 109][/us/pl/111/309/s109], Dec. 15, 2010, [124 Stat. 3288][/us/stat/124/3288], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding subsections (a), (b), and (h) of section 1833 of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395]l) and section 1834(d)(1) of such Act ([42 U.S.C. 1395m(d)(1)][/us/usc/t42/s1395m/d/1]), in the case of a clinical diagnostic laboratory test covered under part B of title XVIII of such Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] that is furnished during a cost reporting period described in subsection (b) by a hospital with fewer than 50 beds that is located in a qualified rural area (identified under paragraph (12)(B)(iii) of section 1834(l) of the Social Security Act ([42 U.S.C. 1395m][/us/usc/t42/s1395m](l)), as added by section 414(c)) as part of outpatient services of the hospital, the amount of payment for such test shall be 100 percent of the reasonable costs of the hospital in furnishing such test.
 
->     “(b) __Application.—__ 
+>     “(b)  __Application__  __.—__ 
 
 >     A cost reporting period described in this subsection is a cost reporting period beginning during the period beginning on July 1, 2004, and ending on June 30, 2008 or during the 2-year period beginning on July 1, 2010.
 
->     “(c) __Provision as Part of Outpatient Hospital Services.—__ 
+>     “(c)  __Provision as Part of Outpatient Hospital Services__  __.—__ 
 
 >     For purposes of subsection (a), in determining whether clinical diagnostic laboratory services are furnished as part of outpatient services of a hospital, the Secretary \[of Health and Human Services\] shall apply the same rules that are used to determine whether clinical diagnostic laboratory services are furnished as an outpatient critical access hospital service under section 1834(g)(4) of the Social Security Act ([42 U.S.C. 1395m(g)(4)][/us/usc/t42/s1395m/g/4]).”
 
@@ -3569,21 +3569,21 @@
 
 >     “(1) __Study.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The Comptroller General of the United States shall conduct a study that compares the relative costs of procedures furnished in ambulatory surgical centers to the relative costs of procedures furnished in hospital outpatient departments under section 1833(t) of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395]l(t)). The study shall also examine how accurately ambulatory payment categories reflect procedures furnished in ambulatory surgical centers.
 
->         “(B) __Consideration of asc data.—__ 
+>         “(B)  __Consideration of asc data__  __.—__ 
 
 >         In conducting the study under paragraph (1), the Comptroller General shall consider data submitted by ambulatory surgical centers regarding the matters described in clauses (i) through (iii) of paragraph (2)(B).
 
 >     “(2) __Report and recommendations.—__ 
 
->         “(A) __Report.—__ 
+>         “(A)  __Report__  __.—__ 
 
 >         Not later than January 1, 2005, the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1).
 
->         “(B) __Recommendations.—__ 
+>         “(B)  __Recommendations__  __.—__ 
 
 >         The report submitted under subparagraph (A) shall include recommendations on the following matters:
 
@@ -3603,19 +3603,19 @@
 
 [Pub. L. 108–173, title VI, § 641][/us/pl/108/173/s641], Dec. 8, 2003, [117 Stat. 2321][/us/stat/117/2321], provided that:
 
->     “(a) __Demonstration Project.—__ 
+>     “(a)  __Demonstration Project__  __.—__ 
 
 >     The Secretary \[of Health and Human Services\] shall conduct a demonstration project under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] under which payment is made for drugs or biologicals that are prescribed as replacements for drugs and biologicals described in section 1861(s)(2)(A) or 1861(s)(2)(Q) of such Act ([42 U.S.C. 1395x(s)(2)(A)][/us/usc/t42/s1395x/s/2/A], 1395x(s)(2)(Q)), or both, for which payment is made under such part. Such project shall provide for cost-sharing applicable with respect to such drugs or biologicals in the same manner as cost-sharing applies with respect to part D \[part D of this subchapter\] drugs under standard prescription drug coverage (as defined in section 1860D–2(b) of the Social Security Act \[[42 U.S.C. 1395w–102(b)][/us/usc/t42/s1395w–102/b]\], as added by section 101(a)).
 
->     “(b) __Demonstration Project Sites.—__ 
+>     “(b)  __Demonstration Project Sites__  __.—__ 
 
 >     The project established under this section shall be conducted in sites selected by the Secretary.
 
->     “(c) __Duration.—__ 
+>     “(c)  __Duration__  __.—__ 
 
 >     The Secretary shall conduct the demonstration project for the 2-year period beginning on the date that is 90 days after the date of the enactment of this Act \[Dec. 8, 2003\], but in no case may the project extend beyond December 31, 2005.
 
->     “(d) __Limitation.—__ 
+>     “(d)  __Limitation__  __.—__ 
 
 >     Under the demonstration project over the duration of the project, the Secretary may not provide—
 
@@ -3623,7 +3623,7 @@
 
 >         “(2) more than $500,000,000 in funding.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     Not later than July 1, 2006, the Secretary shall submit to Congress a report on the project. The report shall include an evaluation of patient access to care and patient outcomes under the project, as well as an analysis of the cost effectiveness of the project, including an evaluation of the costs savings (if any) to the medicare program attributable to reduced physicians’ services and hospital outpatient departments services for administration of the biological.”
 
@@ -3633,19 +3633,19 @@
 
 >     “(a) __Clinical Trial.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary \[of Health and Human Services\], acting through the National Institute of Diabetes and Digestive and Kidney Disorders, shall conduct a clinical investigation of pancreatic islet cell transplantation which includes medicare beneficiaries.
 
->         “(2) __Authorization of appropriations.—__ 
+>         “(2)  __Authorization of appropriations__  __.—__ 
 
 >         There are authorized to be appropriated to the Secretary such sums as may be necessary to conduct the clinical investigation under paragraph (1).
 
->     “(b) __Medicare Payment.—__ 
+>     “(b)  __Medicare Payment__  __.—__ 
 
 >     Not earlier than October 1, 2004, the Secretary shall pay for the routine costs as well as transplantation and appropriate related items and services (as described in subsection (c)) in the case of medicare beneficiaries who are participating in a clinical trial described in subsection (a) as if such transplantation were covered under title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] and as would be paid under part A or part B of such title \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq.\] for such beneficiary.
 
->     “(c) __Scope of Payment.—__ 
+>     “(c)  __Scope of Payment__  __.—__ 
 
 >     For purposes of subsection (b):
 
@@ -3655,7 +3655,7 @@
 
 >         “(3) The term ‘medicare beneficiary’ means an individual who is entitled to benefits under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\], or enrolled under part B of such title \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\], or both.
 
->     “(d) __Construction.—__ 
+>     “(d)  __Construction__  __.—__ 
 
 >     The provisions of this section shall not be construed—
 
@@ -3679,11 +3679,11 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title II, § 225\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–490, provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Medicare Payment Advisory Commission shall conduct a study on the effect of low patient and procedure volume on the financial status of low-volume, isolated rural health care providers participating in the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 18 months after the date of the enactment of this Act \[Dec. 21, 2000\], the Commission shall submit to Congress a report on the study conducted under subsection (a) indicating—
 
@@ -3693,7 +3693,7 @@
 
 >         “(3) any changes in the payment methodologies described in subsection (c) that are necessary to provide appropriate reimbursement under the medicare program to low-volume, isolated rural health care providers (as designated pursuant to paragraph (2)).
 
->     “(c) __Payment Methodologies Described.—__ 
+>     “(c)  __Payment Methodologies Described__  __.—__ 
 
 >     The payment methodologies described in this subsection are the following:
 
@@ -3721,11 +3721,11 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IV, § 402(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–506, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     In the case of a medical device provided as part of a service (or group of services) furnished during the period before initial categories are implemented under subparagraph (B)(i) of section 1833(t)(6) of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(t)(6)(B)(i)\] (as amended by subsection (a)), payment shall be made for such device under such section in accordance with the provisions in effect before the date of the enactment of this Act \[Dec. 21, 2000\]. In addition, beginning on the date that is 30 days after the date of the enactment of this Act, payment shall be made for such a device that is not included in a program memorandum described in such subparagraph if the Secretary of Health and Human Services determines that the device (including a device that would have been included in such program memoranda but for the requirement of subparagraph (A)(iv)(I) of that section) is likely to be described by such an initial category.
 
->     “(2) __Application of current process.—__ 
+>     “(2)  __Application of current process__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Secretary shall continue to accept applications with respect to medical devices under the process established pursuant to paragraph (6) of section 1833(t) of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(t)(6)\] (as in effect on the day before the date of the enactment of this Act \[Dec. 21, 2000\]) through December 1, 2000, and any device—
 
@@ -3739,7 +3739,7 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IV, § 421(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–516, provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Secretary of Health and Human Services shall conduct a study of the implications—
 
@@ -3747,7 +3747,7 @@
 
 >         “(B) of such requirement on the cap imposed under section 1833(g) of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395]l(g)) on physical therapy services.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 18 months after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary shall submit to Congress a report on the study conducted under paragraph (1).”
 
@@ -3761,7 +3761,7 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IV, § 434\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–526, provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Medicare Payment Advisory Commission shall conduct a study on the appropriateness of the current payment rates under the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] for services provided by a—
 
@@ -3775,7 +3775,7 @@
 
 >         The study shall separately examine the appropriateness of such payment rates for orthopedic physician assistants, taking into consideration the requirements for accreditation, training, and education.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 18 months after the date of the enactment of this Act \[Dec. 21, 2000\], the Commission shall submit to Congress a report on the study conducted under subsection (a), together with any recommendations for legislation that the Commission determines to be appropriate as a result of such study.”
 
@@ -3783,7 +3783,7 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IV, § 438\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–528, provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Medicare Payment Advisory Commission shall conduct a study on the barriers to coverage and payment for outpatient interventional pain medicine procedures under the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\]. Such study shall examine—
 
@@ -3791,7 +3791,7 @@
 
 >         “(2) the consistency of medicare payment policies for pain management procedures in those different settings.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Dec. 21, 2000\], the Commission shall submit to Congress a report on the study.”
 
@@ -3819,11 +3819,11 @@
 
 >     “(a) __Study.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Medicare Payment Advisory Commission (referred to in this section as ‘MedPAC’) shall conduct a study to determine the appropriateness (and the appropriate method) of providing payments to hospitals described in paragraph (2) for covered OPD services (as defined in paragraph (1)(B) of section 1833(t) of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395]l(t))) based on the prospective payment system established by the Secretary in accordance with such section.
 
->         “(2) __Hospitals described.—__ 
+>         “(2)  __Hospitals described__  __.—__ 
 
 >         The hospitals described in this paragraph are the following:
 
@@ -3841,11 +3841,11 @@
 
 >             “(G) A hospital described in section 1886(d)(1)(B)(v) of such Act ([42 U.S.C. 1395ww(d)(1)(B)(v)][/us/usc/t42/s1395ww/d/1/B/v]).
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 2 years after the date of the enactment of this Act \[Nov. 29, 1999\], MedPAC shall submit a report to the Secretary of Health and Human Services and Congress on the study conducted under subsection (a), together with any recommendations for legislation that MedPAC determines to be appropriate as a result of such study.
 
->     “(c) __Comments.—__ 
+>     “(c)  __Comments__  __.—__ 
 
 >     Not later than 60 days after the date on which MedPAC submits the report under subsection (b) to the Secretary of Health and Human Services, the Secretary shall submit comments on such report to Congress.”
 
@@ -3853,7 +3853,7 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title II, § 213\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–350, provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct a nationwide study to determine the physician and non-physician clinical resources necessary to provide safe outpatient cancer therapy services and the appropriate payment rates for such services under the medicare program. In making such determination, the Comptroller General shall—
 
@@ -3863,7 +3863,7 @@
 
 >         “(3) assess various standards to assure the provision of safe outpatient cancer therapy services.
 
->     “(b) __Report to Congress.—__ 
+>     “(b)  __Report to Congress__  __.—__ 
 
 >     The Comptroller General shall submit to Congress a report on the study conducted under subsection (a). The report shall include recommendations regarding practice expense adjustments to the payment methodology under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\], including the development and inclusion of adequate work units to assure the adequacy of payment amounts for safe outpatient cancer therapy services. The study shall also include an estimate of the cost of implementing such recommendations.”
 
@@ -3879,7 +3879,7 @@
 
 >     “(1) __Study.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The Secretary of Health and Human Services shall conduct a study which compares—
 
@@ -3887,11 +3887,11 @@
 
 >             “(ii) such patterns for such services that were provided in 1998 and 1999.
 
->         “(B) __Review of claims.—__ 
+>         “(B)  __Review of claims__  __.—__ 
 
 >         In conducting the study under this subsection the Secretary of Health and Human Services shall review a statistically significant number of claims for reimbursement for the services described in subparagraph (A).
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than June 30, 2001, the Secretary of Health and Human Services shall submit a report to Congress on the study conducted under paragraph (1), together with any recommendations for legislation that the Secretary determines to be appropriate as a result of such study.”
 
@@ -3911,11 +3911,11 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title II, § 229(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–356, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Medicare Payment Advisory Commission shall conduct a study on the cost-effectiveness and efficacy of covering under the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] services of a post-surgical recovery care center (that provides an intermediate level of recovery care following surgery). In conducting such study, the Commission shall consider data on these centers gathered in demonstration projects.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Nov. 29,1999\], the Commission shall submit to Congress a report on such study and shall include in the report recommendations on the feasibility, costs, and savings of covering such services under the medicare program.”
 
@@ -3923,11 +3923,11 @@
 
 [Pub. L. 105–33, title IV, § 4206][/us/pl/105/33/s4206], Aug. 5, 1997, [111 Stat. 377][/us/stat/111/377], as amended by [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title II, § 223(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–487, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For services furnished on and after January 1, 1999, and before October 1, 2001, the Secretary of Health and Human Services shall make payments from the Federal Supplementary Medical Insurance Trust Fund under part B of title XVIII of the Social Security Act ([42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.) in accordance with the methodology described in subsection (b) for professional consultation via telecommunications systems with a physician (as defined in section 1861(r) of such Act ([42 U.S.C. 1395x(r)][/us/usc/t42/s1395x/r]) or a practitioner (described in section 1842(b)(18)(C) of such Act ([42 U.S.C. 1395u(b)(18)(C)][/us/usc/t42/s1395u/b/18/C]) furnishing a service for which payment may be made under such part to a beneficiary under the medicare program residing in a county in a rural area (as defined in section 1886(d)(2)(D) of such Act ([42 U.S.C. 1395ww(d)(2)(D)][/us/usc/t42/s1395ww/d/2/D])) that is designated as a health professional shortage area under section 332(a)(1)(A) of the Public Health Service Act ([42 U.S.C. 254e(a)(1)(A)][/us/usc/t42/s254e/a/1/A]), notwithstanding that the individual physician or practitioner providing the professional consultation is not at the same location as the physician or practitioner furnishing the service to that beneficiary.
 
->     “(b) __Methodology for Determining Amount of Payments.—__ 
+>     “(b)  __Methodology for Determining Amount of Payments__  __.—__ 
 
 >     Taking into account the findings of the report required under section 192 of the Health Insurance Portability and Accountability Act of 1996 ([Public Law 104–191][/us/pl/104/191]; [110 Stat. 1988][/us/stat/110/1988]), the findings of the report required under paragraph (c), and any other findings related to the clinical efficacy and cost-effectiveness of telehealth applications, the Secretary shall establish a methodology for determining the amount of payments made under subsection (a) within the following parameters:
 
@@ -3939,7 +3939,7 @@
 
 >         “(4) The payment differential of section 1848(a)(3) of such Act ([42 U.S.C. 1395w–4(a)(3)][/us/usc/t42/s1395w–4/a/3]) shall apply to services furnished by non-participating physicians. The provisions of section 1848(g) of such Act ([42 U.S.C. 1395w–4(g)][/us/usc/t42/s1395w–4/g]) and section 1842(b)(18) of such Act ([42 U.S.C. 1395u(b)(18)][/us/usc/t42/s1395u/b/18]) shall apply. Payment for such service shall be increased annually by the update factor for physicians’ services determined under section 1848(d) of such Act ([42 U.S.C. 1395w–4(d)][/us/usc/t42/s1395w–4/d]).
 
->     “(c) __Supplemental Report.—__ 
+>     “(c)  __Supplemental Report__  __.—__ 
 
 >     Not later than January 1, 1999, the Secretary shall submit a report to Congress which shall contain a detailed analysis of—
 
@@ -3953,15 +3953,15 @@
 
 >     “(d) __Expansion of Telehealth Services for Certain Medicare Beneficiaries.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than January 1, 1999, the Secretary shall submit a report to Congress that examines the possibility of making payments from the Federal Supplementary Medical Insurance Trust Fund under part B of title XVIII of the Social Security Act ([42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.) for professional consultation via telecommunications systems with such a physician or practitioner furnishing a service for which payment may be made under such part to a beneficiary described in paragraph (2), notwithstanding that the individual physician or practitioner providing the professional consultation is not at the same location as the physician or practitioner furnishing the service to that beneficiary.
 
->         “(2) __Beneficiary described.—__ 
+>         “(2)  __Beneficiary described__  __.—__ 
 
 >         A beneficiary described in this paragraph is a beneficiary under the medicare program under title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.) who does not reside in a rural area (as so defined) that is designated as a health professional shortage area under section 332(a)(1)(A) of the Public Health Service Act ([42 U.S.C. 254e(a)(1)(A)][/us/usc/t42/s254e/a/1/A]), who is homebound or nursing homebound, and for whom being transferred for health care services imposes a serious hardship.
 
->         “(3) __Report.—__ 
+>         “(3)  __Report__  __.—__ 
 
 >         The report described in paragraph (1) shall contain a detailed statement of the potential costs and savings to the medicare program of making the payments described in that paragraph using various reimbursement schemes.”
 
@@ -3987,11 +3987,11 @@
 
 [Pub. L. 105–33, title IV, § 4553(c)][/us/pl/105/33/s4553/c], Aug. 5, 1997, [111 Stat. 460][/us/stat/111/460], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary shall request the Institute of Medicine of the National Academy of Sciences to conduct a study of payments under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] for clinical laboratory tests. The study shall include a review of the adequacy of the current methodology and recommendations regarding alternative payment systems. The study shall also analyze and discuss the relationship between such payment systems and access to high quality laboratory tests for medicare beneficiaries, including availability and access to new testing methodologies.
 
->     “(2) __Report to congress.—__ 
+>     “(2)  __Report to congress__  __.—__ 
 
 >     The Secretary shall, not later than 2 years after the date of enactment of this section \[Aug. 5, 1997\], report to the Committees on Ways and Means and Commerce of the House of Representatives and the Committee on Finance of the Senate the results of the study described in paragraph (1), including any recommendations for legislation.”
 
@@ -3999,19 +3999,19 @@
 
 [Pub. L. 103–432, title I, § 141(b)][/us/pl/103/432/s141/b], Oct. 31, 1994, [108 Stat. 4425][/us/stat/108/4425], provided that:
 
->     “(1) __Establishment of process for review of amounts.—__ 
+>     “(1)  __Establishment of process for review of amounts__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Oct. 31, 1994\], the Secretary of Health and Human Services (in this subsection referred to as the ‘Secretary’) shall develop and implement a process under which interested parties may request review by the Secretary of the appropriateness of the reimbursement amount provided under section 1833(i)(2)(A)(iii) of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(i)(2)(A)(iii)\] with respect to a class of new technology intraocular lenses. For purposes of the preceding sentence, an intraocular lens may not be treated as a new technology lens unless it has been approved by the Food and Drug Administration.
 
->     “(2) __Factors considered.—__ 
+>     “(2)  __Factors considered__  __.—__ 
 
 >     In determining whether to provide an adjustment of payment with respect to a particular lens under paragraph (1), the Secretary shall take into account whether use of the lens is likely to result in reduced risk of intraoperative or postoperative complication or trauma, accelerated postoperative recovery, reduced induced astigmatism, improved postoperative visual acuity, more stable postoperative vision, or other comparable clinical advantages.
 
->     “(3) __Notice and comment.—__ 
+>     “(3)  __Notice and comment__  __.—__ 
 
 >     The Secretary shall publish notice in the Federal Register from time to time (but no less often than once each year) of a list of the requests that the Secretary has received for review under this subsection, and shall provide for a 30-day comment period on the lenses that are the subjects of the requests contained in such notice. The Secretary shall publish a notice of the Secretary’s determinations with respect to intraocular lenses listed in the notice within 90 days after the close of the comment period.
 
->     “(4) __Effective date of adjustment.—__ 
+>     “(4)  __Effective date of adjustment__  __.—__ 
 
 >     Any adjustment of a payment amount (or payment limit) made under this subsection shall become effective not later than 30 days after the date on which the notice with respect to the adjustment is published under paragraph (3).”
 
@@ -4045,21 +4045,21 @@
 
 [Pub. L. 101–508, title IV, § 4158][/us/pl/101/508/s4158], Nov. 5, 1990, [104 Stat. 1388–89][/us/stat/104/1388-89], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law (including any other provision of this Act, other than subsection (b)(4)), payments under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] for items and services furnished during the period beginning on November 1, 1990, and ending on December 31, 1990, shall be reduced by 2 percent, in accordance with subsection (b).
 
 >     “(b) __Special Rules for Application of Reduction.—__ 
 
->         “(1) __Payment on the basis of cost reporting periods.—__ 
+>         “(1)  __Payment on the basis of cost reporting periods__  __.—__ 
 
 >         In the case in which payment for services of a provider of services is made under part B of such title on a basis relating to the reasonable cost incurred for the services during a cost reporting period of the provider, the reduction made under subsection (a) shall be applied to payment for costs for such services incurred at any time during each cost reporting period of the provider any part of which occurs during the period described in such subsection, but only in the same proportion as the fraction of the cost reporting period that occurs during such period.
 
->         “(2) __No increase in beneficiary charges in assignment-related cases.—__ 
+>         “(2)  __No increase in beneficiary charges in assignment-related cases__  __.—__ 
 
 >         If a reduction in payment amounts is made under subsection (a) for items or services for which payment under part B of such title is made on an assignment-related basis (as defined in section 1842(i)(1) of the Social Security Act \[[42 U.S.C. 1395u(i)(1)][/us/usc/t42/s1395u/i/1]\]), the person furnishing the items or services shall be considered to have accepted payment of the reasonable charge for the items or services, less any reduction in payment amount made under subsection (a), as payment in full.
 
->         “(3) __Treatment of payments to health maintenance organizations.—__ 
+>         “(3)  __Treatment of payments to health maintenance organizations__  __.—__ 
 
 >         Subsection (a) shall not apply to payments under risk-sharing contracts under section 1876 of the Social Security Act \[[42 U.S.C. 1395mm][/us/usc/t42/s1395mm]\] or under similar contracts under section 402 of the Social Security Amendments of 1967 \[[Pub. L. 90–248][/us/pl/90/248], enacting [section 1395b–1 of this title][/us/usc/t42/s1395b–1] and amending section 1395ll of this title\] or section 222 of the Social Security Amendments of 1972 \[[Pub. L. 92–603][/us/pl/92/603], amending sections 1395b–1 and 1395ll of this title and enacting provisions set out as a note under [section 1395b–1 of this title][/us/usc/t42/s1395b–1]\].”
 
@@ -4135,11 +4135,11 @@
 
 [Pub. L. 99–509, title IX, § 9339(d)][/us/pl/99/509/s9339/d], Oct. 21, 1986, [100 Stat. 2037][/us/stat/100/2037], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     If a State (as defined for purposes of title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\]) provides for the licensing or other standards with respect to the operation of clinical laboratories (including such laboratories in hospitals) in the State under which such a laboratory may be directed by an individual with certain qualifications, nothing in such title shall be construed as authorizing the Secretary of Health and Human Services to require such a laboratory, as a condition of payment or participation under such title, to be directed by an individual with other qualifications.
 
->     “(2) __Effective date.—__ 
+>     “(2)  __Effective date__  __.—__ 
 
 >     Paragraph (1) shall take effect on January 1, 1987.”
 

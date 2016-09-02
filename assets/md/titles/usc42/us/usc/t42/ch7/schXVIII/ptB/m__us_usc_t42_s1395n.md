@@ -267,15 +267,15 @@
 
 [Pub. L. 108–173, title VI, § 647][/us/pl/108/173/s647], Dec. 8, 2003, [117 Stat. 2326][/us/stat/117/2326], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Medicare Payment Advisory Commission (in this section referred to as the ‘Commission’) shall conduct a study on the feasibility and advisability of allowing medicare fee-for-service beneficiaries direct access to outpatient physical therapy services and physical therapy services furnished as comprehensive rehabilitation facility services.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than January 1, 2005, the Commission shall submit to Congress a report on the study conducted under subsection (a) together with recommendations for such legislation or administrative action as the Commission determines to be appropriate.
 
->     “(c) __Direct Access Defined.—__ 
+>     “(c)  __Direct Access Defined__  __.—__ 
 
 >     The term ‘direct access’ means, with respect to outpatient physical therapy services and physical therapy services furnished as comprehensive outpatient rehabilitation facility services, coverage of and payment for such services in accordance with the provisions of title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], except that sections 1835(a)(2), 1861(p), and 1861(cc) of such Act ([42 U.S.C. 1395n(a)(2)][/us/usc/t42/s1395n/a/2], 1395x(p), and 1395x(cc), respectively) shall be applied—
 

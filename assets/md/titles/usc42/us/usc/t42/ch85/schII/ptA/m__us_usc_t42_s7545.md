@@ -43,7 +43,7 @@
 
         (4) __Study on certain fuel additives and blendstocks.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Not later than 2 years after August 8, 2005, the Administrator shall—
 
@@ -71,7 +71,7 @@
 
                 (iii) submit to the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives a report describing the results of the studies under clauses (i) and (ii).
 
-            (B) __Contracts for study.—__ 
+            (B)  __Contracts for study__  __.—__ 
 
             In carrying out this paragraph, the Administrator may enter into one or more contracts with nongovernmental entities such as—
 
@@ -2139,7 +2139,7 @@
 
 [Pub. L. 109–58, title XV, § 1504(d)][/us/pl/109/58/s1504/d], Aug. 8, 2005, [119 Stat. 1079][/us/stat/119/1079], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Nothing in this section \[amending this section and enacting provisions set out as notes under this section\] or any amendment made by this section affects or prejudices any legal claim or action with respect to regulations promulgated by the Administrator \[of the Environmental Protection Agency\] before the date of enactment of this Act \[Aug. 8, 2005\] regarding—
 
@@ -2149,7 +2149,7 @@
 
 >     “(2) __Adjustment of standards.—__ 
 
->         “(A) __Applicability.—__ 
+>         “(A)  __Applicability__  __.—__ 
 
 >         The Administrator may apply any adjustments to the standards applicable to a refinery or importer under subparagraph (B)(iii)(I) of section 211(k)(1) of the Clean Air Act \[[42 U.S.C. 7545(k)(1)(B)(iii)(I)][/us/usc/t42/s7545/k/1/B/iii/I]\] (as added by subsection (b)(2)), except that—
 
@@ -2169,7 +2169,7 @@
 
 [Pub. L. 110–140, title II, § 204][/us/pl/110/140/s204], Dec. 19, 2007, [121 Stat. 1529][/us/stat/121/1529], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 3 years after the enactment of this section \[Dec. 19, 2007\] and every 3 years thereafter, the Administrator of the Environmental Protection Agency, in consultation with the Secretary of Agriculture and the Secretary of Energy, shall assess and report to Congress on the impacts to date and likely future impacts of the requirements of section 211(o) of the Clean Air Act \[[42 U.S.C. 7545][/us/usc/t42/s7545](o)\] on the following:
 
@@ -2181,7 +2181,7 @@
 
 >         In advance of preparing the report required by this subsection, the Administrator may seek the views of the National Academy of Sciences or another appropriate independent research institute. The report shall include the annual volume of imported renewable fuels and feedstocks for renewable fuels, and the environmental impacts outside the United States of producing such fuels and feedstocks. The report required by this subsection shall include recommendations for actions to address any adverse impacts found.
 
->     “(b) __Effect on Air Quality and Other Environmental Requirements.—__ 
+>     “(b)  __Effect on Air Quality and Other Environmental Requirements__  __.—__ 
 
 >     Except as provided in section 211(o)(12) of the Clean Air Act \[[42 U.S.C. 7545][/us/usc/t42/s7545](o)(12)\], nothing in the amendments made by this title to section 211(o) of the Clean Air Act shall be construed as superseding, or limiting, any more environmentally protective requirement under the Clean Air Act \[[42 U.S.C. 7401][/us/usc/t42/s7401] et seq.\], or under any other provision of State or Federal law or regulation, including any environmental law or regulation.”
 
@@ -2197,7 +2197,7 @@
 
 [Pub. L. 109–58, title XV, § 1501(d)][/us/pl/109/58/s1501/d], Aug. 8, 2005, [119 Stat. 1075][/us/stat/119/1075], provided that:
 
->     “(1) __Survey and report.—__ 
+>     “(1)  __Survey and report__  __.—__ 
 
 >     Not later than December 1, 2006, and annually thereafter, the Administrator of the Environmental Protection Agency (in consultation with the Secretary \[of Energy\] acting through the Administrator of the Energy Information Administration) shall—
 
@@ -2215,11 +2215,11 @@
 
 >         “(B) submit to Congress, and make publicly available, a report on the results of the survey under subparagraph (A).
 
->     “(2) __Recordkeeping and reporting requirements.—__ 
+>     “(2)  __Recordkeeping and reporting requirements__  __.—__ 
 
 >     The Administrator of the Environmental Protection Agency (hereinafter in this subsection referred to as the ‘Administrator’) may require any refiner, blender, or importer to keep such records and make such reports as are necessary to ensure that the survey conducted under paragraph (1) is accurate. The Administrator, to avoid duplicative requirements, shall rely, to the extent practicable, on existing reporting and recordkeeping requirements and other information available to the Administrator including gasoline distribution patterns that include multistate use areas.
 
->     “(3) __Applicable law.—__ 
+>     “(3)  __Applicable law__  __.—__ 
 
 >     Activities carried out under this subsection shall be conducted in a manner designed to protect confidentiality of individual responses.”
 
@@ -2251,7 +2251,7 @@
 
 [Pub. L. 100–203, title I, § 1508][/us/pl/100/203/s1508], Dec. 22, 1987, [101 Stat. 1330–29][/us/stat/101/1330-29], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -2267,7 +2267,7 @@
 
 >         “(6) increasing the quantity of motor fuels that contain at least 10 percent ethanol from current levels to 50 percent by 1992 would create thousands of new jobs in ethanol production facilities.
 
->     “(b) __Sense of Congress.—__ 
+>     “(b)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that the Administrator of the Environmental Protection Agency should use authority provided under the Clean Air Act ([42 U.S.C. 7401][/us/usc/t42/s7401] et seq.) to require greater use of ethanol as motor fuel.”
 

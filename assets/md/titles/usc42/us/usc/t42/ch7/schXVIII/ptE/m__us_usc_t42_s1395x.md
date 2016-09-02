@@ -725,7 +725,7 @@
 
             (D) For further limitations on reasonable cost and determination of payment amounts for routine service costs of skilled nursing facilities, see subsections (a) through (c) of [section 1395yy of this title][/us/usc/t42/s1395yy].
 
-        (8) __Items unrelated to patient care.—__ 
+        (8)  __Items unrelated to patient care__  __.—__ 
 
         Reasonable costs do not include costs for the following—
 
@@ -3145,21 +3145,21 @@
 
 [Pub. L. 105–33, title IV, § 4205(d)(4)][/us/pl/105/33/s4205/d/4], Aug. 5, 1997, [111 Stat. 377][/us/stat/111/377], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as otherwise provided, the amendments made by the preceding paragraphs \[amending this section and [section 1395u of this title][/us/usc/t42/s1395u]\] take effect on the date of the enactment of this Act \[Aug. 5, 1997\].
 
->     “(B) __Current rural health clinics.—__ 
+>     “(B)  __Current rural health clinics__  __.—__ 
 
 >     The amendments made by the preceding paragraphs take effect, with respect to entities that are rural health clinics under title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.) on the date of enactment of this Act, on the date of the enactment of this Act \[sic\].
 
 >     “(C) __Grandfathered clinics.—__ 
 
->         “(i) __In general.—__ 
+>         “(i)  __In general__  __.—__ 
 
 >         The amendment made by paragraph (3)(A) \[amending this section\] shall take effect on the effective date of regulations issued by the Secretary under clause (ii).
 
->         “(ii) __Regulations.—__ 
+>         “(ii)  __Regulations__  __.—__ 
 
 >         The Secretary shall issue final regulations implementing paragraph (3)(A) that shall take effect no later than January 1, 1999.”
 
@@ -3743,11 +3743,11 @@
 
 [Pub. L. 108–173, title IV, § 434][/us/pl/108/173/s434], Dec. 8, 2003, [117 Stat. 2288][/us/stat/117/2288], provided that:
 
->     “(a) __Authority To Conduct Demonstration Project.—__ 
+>     “(a)  __Authority To Conduct Demonstration Project__  __.—__ 
 
 >     The Secretary \[of Health and Human Services\] shall waive such provisions of the medicare program established under title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.) as are necessary to conduct a demonstration project under which frontier extended stay clinics described in subsection (b) in isolated rural areas are treated as providers of items and services under the medicare program.
 
->     “(b) __Clinics Described.—__ 
+>     “(b)  __Clinics Described__  __.—__ 
 
 >     A frontier extended stay clinic is described in this subsection if the clinic—
 
@@ -3761,29 +3761,29 @@
 
 >             “(B) patients who need monitoring and observation for a limited period of time.
 
->     “(c) __Specification of Codes.—__ 
+>     “(c)  __Specification of Codes__  __.—__ 
 
 >     The Secretary shall determine the appropriate life-safety codes for such clinics that treat patients for needs referred to in subsection (b)(2).
 
 >     “(d) __Funding.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), there are authorized to be appropriated, in appropriate part from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund, such sums as are necessary to conduct the demonstration project under this section.
 
->         “(2) __Budget neutral implementation.—__ 
+>         “(2)  __Budget neutral implementation__  __.—__ 
 
 >         In conducting the demonstration project under this section, the Secretary shall ensure that the aggregate payments made by the Secretary under the medicare program do not exceed the amount which the Secretary would have paid under the medicare program if the demonstration project under this section was not implemented.
 
->     “(e) __Three-Year Period.—__ 
+>     “(e)  __Three-Year Period__  __.—__ 
 
 >     The Secretary shall conduct the demonstration under this section for a 3-year period.
 
->     “(f) __Report.—__ 
+>     “(f)  __Report__  __.—__ 
 
 >     Not later than the date that is 1 year after the date on which the demonstration project concludes, the Secretary shall submit to Congress a report on the demonstration project, together with such recommendations for legislation or administrative action as the Secretary determines appropriate.
 
->     “(g) __Definitions.—__ 
+>     “(g)  __Definitions__  __.—__ 
 
 >     In this section, the terms ‘hospital’ and ‘critical access hospital’ have the meanings given such terms in subsections (e) and (mm), respectively, of section 1861 of the Social Security Act ([42 U.S.C. 1395x][/us/usc/t42/s1395x]).”
 
@@ -3791,23 +3791,23 @@
 
 [Pub. L. 108–173, title VI, § 643][/us/pl/108/173/s643], Dec. 8, 2003, [117 Stat. 2322][/us/stat/117/2322], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Medicare Payment Advisory Commission (in this section referred to as the ‘Commission’) shall conduct a study on the feasibility and advisability of providing for payment under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] for surgical first assisting services furnished by a certified registered nurse first assistant to medicare beneficiaries.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than January 1, 2005, the Commission shall submit to Congress a report on the study conducted under subsection (a) together with recommendations for such legislation or administrative action as the Commission determines to be appropriate.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Surgical first assisting services.—__ 
+>         “(1)  __Surgical first assisting services__  __.—__ 
 
 >         The term ‘surgical first assisting services’ means services consisting of first assisting a physician with surgery and related preoperative, intraoperative, and postoperative care (as determined by the Secretary \[of Health and Human Services\]) furnished by a certified registered nurse first assistant (as defined in paragraph (2)) which the certified registered nurse first assistant is legally authorized to perform by the State in which the services are performed.
 
->         “(2) __Certified registered nurse first assistant.—__ 
+>         “(2)  __Certified registered nurse first assistant__  __.—__ 
 
 >         The term ‘certified registered nurse first assistant’ means an individual who—
 
@@ -3823,19 +3823,19 @@
 
 >     “(a) __Coverage of Outpatient Vision Services Furnished by Vision Rehabilitation Professionals Under Part B.—__ 
 
->         “(1) __Study.—__ 
+>         “(1)  __Study__  __.—__ 
 
 >         The Secretary \[of Health and Human Services\] shall conduct a study to determine the feasibility and advisability of providing for payment for vision rehabilitation services furnished by vision rehabilitation professionals.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than January 1, 2005, the Secretary shall submit to Congress a report on the study conducted under paragraph (1) together with recommendations for such legislation or administrative action as the Secretary determines to be appropriate.
 
->         “(3) __Vision rehabilitation professional defined.—__ 
+>         “(3)  __Vision rehabilitation professional defined__  __.—__ 
 
 >         In this subsection, the term ‘vision rehabilitation professional’ means an orientation and mobility specialist, a rehabilitation teacher, or a low vision therapist.
 
->     “(b) __Report on Appropriateness of a Demonstration Project To Test Feasibility of Using PPO Networks To Reduce Costs of Acquiring Eyeglasses for Medicare Beneficiaries After Cataract Surgery.—__ 
+>     “(b)  __Report on Appropriateness of a Demonstration Project To Test Feasibility of Using PPO Networks To Reduce Costs of Acquiring Eyeglasses for Medicare Beneficiaries After Cataract Surgery__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary shall submit to Congress a report on the feasibility of establishing a two-year demonstration project under which the Secretary enters into arrangements with vision care preferred provider organization networks to furnish and pay for conventional eyeglasses subsequent to each cataract surgery with insertion of an intraocular lens on behalf of Medicare beneficiaries. In such report, the Secretary shall include an estimate of potential cost savings to the Medicare program through the use of such networks, taking into consideration quality of service and beneficiary access to services offered by vision care preferred provider organization networks.”
 
@@ -3843,11 +3843,11 @@
 
 [Pub. L. 108–173, title VI, § 651][/us/pl/108/173/s651], Dec. 8, 2003, [117 Stat. 2332][/us/stat/117/2332], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Chiropractic services.—__ 
+>         “(1)  __Chiropractic services__  __.—__ 
 
 >         The term ‘chiropractic services’ has the meaning given that term by the Secretary \[of Health and Human Services\] for purposes of the demonstration projects, but shall include, at a minimum—
 
@@ -3855,33 +3855,33 @@
 
 >             “(B) diagnostic and other services that a chiropractor is legally authorized to perform by the State or jurisdiction in which such treatment is provided.
 
->         “(2) __Demonstration project.—__ 
+>         “(2)  __Demonstration project__  __.—__ 
 
 >         The term ‘demonstration project’ means a demonstration project established by the Secretary under subsection (b)(1).
 
->         “(3) __Eligible beneficiary.—__ 
+>         “(3)  __Eligible beneficiary__  __.—__ 
 
 >         The term ‘eligible beneficiary’ means an individual who is enrolled under part B of the medicare program.
 
->         “(4) __Medicare program.—__ 
+>         “(4)  __Medicare program__  __.—__ 
 
 >         The term ‘medicare program’ means the health benefits program under title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.).
 
 >     “(b) __Demonstration of Coverage of Chiropractic Services Under Medicare.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         The Secretary shall establish demonstration projects in accordance with the provisions of this section for the purpose of evaluating the feasibility and advisability of covering chiropractic services under the medicare program (in addition to the coverage provided for services consisting of treatment by means of manual manipulation of the spine to correct a subluxation described in section 1861(r)(5) of the Social Security Act ([42 U.S.C. 1395x(r)(5)][/us/usc/t42/s1395x/r/5])).
 
->         “(2) __No physician approval required.—__ 
+>         “(2)  __No physician approval required__  __.—__ 
 
 >         In establishing the demonstration projects, the Secretary shall ensure that an eligible beneficiary who participates in a demonstration project, including an eligible beneficiary who is enrolled for coverage under a Medicare+Choice plan (or, on and after January 1, 2006, under a Medicare Advantage plan), is not required to receive approval from a physician or other health care provider in order to receive a chiropractic service under a demonstration project.
 
->         “(3) __Consultation.—__ 
+>         “(3)  __Consultation__  __.—__ 
 
 >         In establishing the demonstration projects, the Secretary shall consult with chiropractors, organizations representing chiropractors, eligible beneficiaries, and organizations representing eligible beneficiaries.
 
->         “(4) __Participation.—__ 
+>         “(4)  __Participation__  __.—__ 
 
 >         Any eligible beneficiary may participate in the demonstration projects on a voluntary basis.
 
@@ -3889,11 +3889,11 @@
 
 >         “(1) __Demonstration sites.—__ 
 
->             “(A) __Selection of demonstration sites.—__ 
+>             “(A)  __Selection of demonstration sites__  __.—__ 
 
 >             The Secretary shall conduct demonstration projects at 4 demonstration sites.
 
->             “(B) __Geographic diversity.—__ 
+>             “(B)  __Geographic diversity__  __.—__ 
 
 >             Of the sites described in subparagraph (A)—
 
@@ -3901,23 +3901,23 @@
 
 >                 “(ii) two shall be in urban areas.
 
->             “(C) __Sites located in hpsas.—__ 
+>             “(C)  __Sites located in hpsas__  __.—__ 
 
 >             At least 1 site described in clause (i) of subparagraph (B) and at least 1 site described in clause (ii) of such subparagraph shall be located in an area that is designated under section 332(a)(1)(A) of the Public Health Service Act ([42 U.S.C. 254e(a)(1)(A)][/us/usc/t42/s254e/a/1/A]) as a health professional shortage area.
 
 >         “(2) __Implementation; duration.—__ 
 
->             “(A) __Implementation.—__ 
+>             “(A)  __Implementation__  __.—__ 
 
 >             The Secretary shall not implement the demonstration projects before October 1, 2004.
 
->             “(B) __Duration.—__ 
+>             “(B)  __Duration__  __.—__ 
 
 >             The Secretary shall complete the demonstration projects by the date that is 2 years after the date on which the first demonstration project is implemented.
 
 >     “(d) __Evaluation and Report.—__ 
 
->         “(1) __Evaluation.—__ 
+>         “(1)  __Evaluation__  __.—__ 
 
 >         The Secretary shall conduct an evaluation of the demonstration projects—
 
@@ -3929,11 +3929,11 @@
 
 >             “(D) to evaluate such other matters as the Secretary determines is appropriate.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than the date that is 1 year after the date on which the demonstration projects conclude, the Secretary shall submit to Congress a report on the evaluation conducted under paragraph (1) together with such recommendations for legislation or administrative action as the Secretary determines is appropriate.
 
->     “(e) __Waiver of Medicare Requirements.—__ 
+>     “(e)  __Waiver of Medicare Requirements__  __.—__ 
 
 >     The Secretary shall waive compliance with such requirements of the medicare program to the extent and for the period the Secretary finds necessary to conduct the demonstration projects.
 
@@ -3941,15 +3941,15 @@
 
 >         “(1) __Demonstration projects.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Subject to subparagraph (B) and paragraph (2), the Secretary shall provide for the transfer from the Federal Supplementary Insurance Trust Fund under section 1841 of the Social Security Act ([42 U.S.C. 1395t][/us/usc/t42/s1395t]) of such funds as are necessary for the costs of carrying out the demonstration projects under this section.
 
->             “(B) __Limitation.—__ 
+>             “(B)  __Limitation__  __.—__ 
 
 >             In conducting the demonstration projects under this section, the Secretary shall ensure that the aggregate payments made by the Secretary under the medicare program do not exceed the amount which the Secretary would have paid under the medicare program if the demonstration projects under this section were not implemented.
 
->         “(2) __Evaluation and report.—__ 
+>         “(2)  __Evaluation and report__  __.—__ 
 
 >         There are authorized to be appropriated such sums as are necessary for the purpose of developing and submitting the report to Congress under subsection (d).”
 
@@ -3957,11 +3957,11 @@
 
 [Pub. L. 108–173, title VII, § 702][/us/pl/108/173/s702], Dec. 8, 2003, [117 Stat. 2335][/us/stat/117/2335], provided that:
 
->     “(a) __Demonstration Project.—__ 
+>     “(a)  __Demonstration Project__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall conduct a 2-year demonstration project under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] under which medicare beneficiaries with chronic conditions described in subsection (b) are deemed to be homebound for purposes of receiving home health services under the medicare program.
 
->     “(b) __Medicare Beneficiary Described.—__ 
+>     “(b)  __Medicare Beneficiary Described__  __.—__ 
 
 >     For purposes of subsection (a), a medicare beneficiary is eligible to be deemed to be homebound, without regard to the purpose, frequency, or duration of absences from the home, if—
 
@@ -3977,19 +3977,19 @@
 
 >         “(6) the beneficiary does not regularly work in a paid position full-time or part-time outside the home.
 
->     “(c) __Demonstration Project Sites.—__ 
+>     “(c)  __Demonstration Project Sites__  __.—__ 
 
 >     The demonstration project established under this section shall be conducted in 3 States selected by the Secretary to represent the Northeast, Midwest, and Western regions of the United States.
 
->     “(d) __Limitation on Number of Participants.—__ 
+>     “(d)  __Limitation on Number of Participants__  __.—__ 
 
 >     The aggregate number of such beneficiaries that may participate in the project may not exceed 15,000.
 
->     “(e) __Data.—__ 
+>     “(e)  __Data__  __.—__ 
 
 >     The Secretary shall collect such data on the demonstration project with respect to the provision of home health services to medicare beneficiaries that relates to quality of care, patient outcomes, and additional costs, if any, to the medicare program.
 
->     “(f) __Report to Congress.—__ 
+>     “(f)  __Report to Congress__  __.—__ 
 
 >     Not later than 1 year after the date of the completion of the demonstration project under this section, the Secretary shall submit to Congress a report on the project using the data collected under subsection (e). The report shall include the following:
 
@@ -4005,31 +4005,31 @@
 
 >         “(3) Specific recommendations to exempt permanently and severely disabled homebound beneficiaries from restrictions on the length, frequency, and purpose of their absences from the home to qualify for home health services without incurring additional costs to the medicare program.
 
->     “(g) __Waiver Authority.—__ 
+>     “(g)  __Waiver Authority__  __.—__ 
 
 >     The Secretary shall waive compliance with the requirements of title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.) to such extent and for such period as the Secretary determines is necessary to conduct demonstration projects.
 
->     “(h) __Construction.—__ 
+>     “(h)  __Construction__  __.—__ 
 
 >     Nothing in this section shall be construed as waiving any applicable civil monetary penalty, criminal penalty, or other remedy available to the Secretary under title XI or title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq., 1301 et seq.\] for acts prohibited under such titles, including penalties for false certifications for purposes of receipt of items or services under the medicare program.
 
->     “(i) __Authorization of Appropriations.—__ 
+>     “(i)  __Authorization of Appropriations__  __.—__ 
 
 >     Payments for the costs of carrying out the demonstration project under this section shall be made from the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act ([42 U.S.C. 1395t][/us/usc/t42/s1395t]).
 
->     “(j) __Definitions.—__ 
+>     “(j)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Medicare beneficiary.—__ 
+>         “(1)  __Medicare beneficiary__  __.—__ 
 
 >         The term ‘medicare beneficiary’ means an individual who is enrolled under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\].
 
->         “(2) __Home health services.—__ 
+>         “(2)  __Home health services__  __.—__ 
 
 >         The term ‘home health services’ has the meaning given such term in section 1861(m) of the Social Security Act ([42 U.S.C. 1395x(m)][/us/usc/t42/s1395x/m]).
 
->         “(3) __Activities of daily living defined.—__ 
+>         “(3)  __Activities of daily living defined__  __.—__ 
 
 >         The term ‘activities of daily living’ means eating, toileting, transferring, bathing, and dressing.”
 
@@ -4043,17 +4043,17 @@
 
 [Pub. L. 105–277, div. J, title V, § 5101(i)][/us/pl/105/277/s5101/i], Oct. 21, 1998, [112 Stat. 2681–916][/us/stat/112/2681-916], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Health and Human Services shall promptly issue (without regard to chapter 8 of title 5, United States Code) such regulations or program memoranda as may be necessary to effect the amendments made by this section \[amending this section, sections 1395r and 1395fff of this title, and provisions set out as notes under [section 1395fff of this title][/us/usc/t42/s1395fff]\] for cost reporting periods beginning during fiscal year 1999.
 
 >     “(2) __Use of payment amounts and limits from published tables.—__ 
 
->         “(A) __Per beneficiary limits.—__ 
+>         “(A)  __Per beneficiary limits__  __.—__ 
 
 >         In effecting the amendments made by subsection (a) \[amending this section\] for cost reporting periods beginning in fiscal year 1999, the ‘median’ referred to in section 1861(v)(1)(L)(vi)(I) of the Social Security Act \[[42 U.S.C. 1395x(v)(1)(L)(vi)(I)][/us/usc/t42/s1395x/v/1/L/vi/I]\] for such periods shall be the national standardized per beneficiary limitation specified in Table 3C published in the Federal Register on August 11, 1998 (63 FR 42926) and the ‘standardized regional average of such costs’ referred to in section 1861(v)(1)(L)(v)(I) of such Act \[[42 U.S.C. 1395x(v)(1)(L)(v)(I)][/us/usc/t42/s1395x/v/1/L/v/I]\] for a census division shall be the sum of the labor and nonlabor components of the standardized per beneficiary limitation for that census division specified in Table 3B published in the Federal Register on that date (63 FR 42926) (or in Table 3D as so published with respect to Puerto Rico and Guam), and adjusted to reflect variations in wages among different geographic areas as specified in Tables 4a and 4b published in the Federal Register on that date (63 FR 42926–42933).
 
->         “(B) __Per visit limits.—__ 
+>         “(B)  __Per visit limits__  __.—__ 
 
 >         In effecting the amendments made by subsection (b) \[amending this section\] for cost reporting periods beginning in fiscal year 1999, the limits determined under section 1861(v)(1)(L)(i)(V) of such Act \[[42 U.S.C. 1395x(v)(1)(L)(i)(V)][/us/usc/t42/s1395x/v/1/L/i/V]\] for cost reporting periods beginning during such fiscal year shall be equal to the per visit limits as specified in Table 3A published in the Federal Register on August 11, 1998 (63 FR 42925) and as subsequently corrected, multiplied by 106⁄105, and adjusted to reflect variations in wages among different geographic areas as specified in Tables 4a and 4b published in the Federal Register on August 11, 1998 (63 FR 42926–42933).”
 
@@ -4067,11 +4067,11 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title I, § 123\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–478, provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Secretary of Health and Human Services shall request the National Academy of Sciences, and as appropriate in conjunction with the United States Preventive Services Task Force, to conduct a study on the addition of coverage of routine thyroid screening using a thyroid stimulating hormone test as a preventive benefit provided to medicare beneficiaries under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] for some or all medicare beneficiaries. In conducting the study, the Academy shall consider the short-term and long-term benefits, and costs to the medicare program, of such addition.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 2 years after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary of Health and Human Services shall submit a report on the findings of the study conducted under subsection (a) to the Committee on Ways and Means and the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives and the Committee on Finance of the Senate.”
 
@@ -4079,7 +4079,7 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IV, § 433\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–526, provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct a study on the effect on the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] and on medicare beneficiaries of coverage under the program of surgical first assisting services of certified registered nurse first assistants. The Comptroller General shall consider the following when conducting the study:
 
@@ -4089,7 +4089,7 @@
 
 >         “(3) Appropriate rates of payment under the program to such certified registered nurse first assistants for furnishing such services, taking into account the costs of compensation, overhead, and supervision attributable to certified registered nurse first assistants.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Dec. 21, 2000\], the Comptroller General shall submit to Congress a report on the study conducted under subsection (a).”
 
@@ -4099,7 +4099,7 @@
 
 >     “(a) __Study.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Medicare Payment Advisory Commission shall conduct a study to determine the appropriateness of providing coverage under the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] for services provided by a—
 
@@ -4113,11 +4113,11 @@
 
 >             “(E) licensed professional counselor of mental health.
 
->         “(2) __Costs to program.—__ 
+>         “(2)  __Costs to program__  __.—__ 
 
 >         The study shall consider the short-term and long-term benefits, and costs to the medicare program, of providing the coverage described in paragraph (1).
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 18 months after the date of the enactment of this Act \[Dec. 21, 2000\], the Commission shall submit to Congress a report on the study conducted under subsection (a), together with any recommendations for legislation that the Commission determines to be appropriate as a result of such study.”
 
@@ -4127,11 +4127,11 @@
 
 >     “(a) __Development.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than January 1, 2005, the Secretary of Health and Human Services shall submit to the Committee on Ways and Means and the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives and the Committee on Finance of the Senate a report on the development of standard instruments for the assessment of the health and functional status of patients, for whom items and services described in subsection (b) are furnished, and include in the report a recommendation on the use of such standard instruments for payment purposes.
 
->         “(2) __Design for comparison of common elements.—__ 
+>         “(2)  __Design for comparison of common elements__  __.—__ 
 
 >         The Secretary shall design such standard instruments in a manner such that—
 
@@ -4141,11 +4141,11 @@
 
 >             “(C) the standard instruments supersede any other assessment instrument used before that date.
 
->         “(3) __Consultation.—__ 
+>         “(3)  __Consultation__  __.—__ 
 
 >         In developing an assessment instrument under paragraph (1), the Secretary shall consult with the Medicare Payment Advisory Commission, the Agency for Healthcare Research and Quality, and qualified organizations representing providers of services and suppliers under title XVIII \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].
 
->     “(b) __Description of Services.—__ 
+>     “(b)  __Description of Services__  __.—__ 
 
 >     For purposes of subsection (a), items and services described in this subsection are those items and services furnished to individuals entitled to benefits under part A, or enrolled under part B, or both of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq.\] for which payment is made under such title \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], and include the following:
 
@@ -4181,11 +4181,11 @@
 
 [Pub. L. 105–33, title IV, § 4105(c)][/us/pl/105/33/s4105/c], Aug. 5, 1997, [111 Stat. 367][/us/stat/111/367], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Health and Human Services, in consultation with appropriate organizations, shall establish outcome measures, including glysolated hemoglobin (past 90-day average blood sugar levels), for purposes of evaluating the improvement of the health status of medicare beneficiaries with diabetes mellitus.
 
->     “(2) __Recommendations for modifications to screening benefits.—__ 
+>     “(2)  __Recommendations for modifications to screening benefits__  __.—__ 
 
 >     Taking into account information on the health status of medicare beneficiaries with diabetes mellitus as measured under the outcome measures established under paragraph (1), the Secretary shall from time to time submit recommendations to Congress regarding modifications to the coverage of services for such beneficiaries under the medicare program.”
 
@@ -4193,11 +4193,11 @@
 
 [Pub. L. 105–33, title IV, § 4107][/us/pl/105/33/s4107], Aug. 5, 1997, [111 Stat. 368][/us/stat/111/368], provided that:
 
->     “(a) __Extension of Influenza and Pneumococcal Vaccination Campaign.—__ 
+>     “(a)  __Extension of Influenza and Pneumococcal Vaccination Campaign__  __.—__ 
 
 >     In order to increase utilization of pneumococcal and influenza vaccines in medicare beneficiaries, the Influenza and Pneumococcal Vaccination Campaign carried out by the Health Care Financing Administration in conjunction with the Centers for Disease Control and Prevention and the National Coalition for Adult Immunization, is extended until the end of fiscal year 2002.
 
->     “(b) __Authorization of Appropriation.—__ 
+>     “(b)  __Authorization of Appropriation__  __.—__ 
 
 >     There are hereby authorized to be appropriated for each of fiscal years 1998 through 2002, $8,000,000 for the Campaign described in subsection (a). Of the amount so authorized to be appropriated in each fiscal year, 60 percent of the amount so appropriated shall be payable from the Federal Hospital Insurance Trust Fund, and 40 percent shall be payable from the Federal Supplementary Medical Insurance Trust Fund.”
 
@@ -4255,11 +4255,11 @@
 
 [Pub. L. 105–33, title IV, § 4613][/us/pl/105/33/s4613], Aug. 5, 1997, [111 Stat. 474][/us/stat/111/474], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Secretary of Health and Human Services shall conduct a study of the criteria that should be applied, and the method of applying such criteria, in the determination of whether an individual is homebound for purposes of qualifying for receipt of benefits for home health services under the medicare program. Such criteria shall include the extent and circumstances under which a person may be absent from the home but nonetheless qualify.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than October 1, 1998, the Secretary shall submit a report to Congress on the study conducted under subsection (a). The report shall include specific recommendations on such criteria and methods.”
 
@@ -4337,11 +4337,11 @@
 
 [Pub. L. 100–647, title VIII, § 8427][/us/pl/100/647/s8427], Nov. 10, 1988, [102 Stat. 3803][/us/stat/102/3803], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Health and Human Services shall provide that in cases where (as of the date of the enactment of this Act \[Nov. 10, 1988\]) transportation on a commercial airliner is covered under section 1861(s)(7) of the Social Security Act \[[42 U.S.C. 1395x(s)(7)][/us/usc/t42/s1395x/s/7]\], the Secretary shall also provide for payment for medically necessary services of a medical escort or medical attendant.
 
->     “(b) __Effective Period.—__ 
+>     “(b)  __Effective Period__  __.—__ 
 
 >     Subsection (a) shall apply to payment for services furnished during the 5-year period beginning on July 1, 1989.”
 

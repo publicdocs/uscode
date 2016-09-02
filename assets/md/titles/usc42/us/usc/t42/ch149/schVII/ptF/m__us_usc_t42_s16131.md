@@ -115,11 +115,11 @@
 
 [Pub. L. 111–364, § 4][/us/pl/111/364/s4], Jan. 4, 2011, [124 Stat. 4061][/us/stat/124/4061], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Except as provided in subsection (b), the amendments made by section 2 \[amending this section and sections 16132 to 16134 and 16137 of this title\] shall take effect on October 1, 2011.
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     The amendments made by subsections (a)(4) and (6) and (c)(4) of section 2 \[amending this section and [section 16133 of this title][/us/usc/t42/s16133]\] shall take effect on the date of enactment of this Act \[Jan. 4, 2011\].”
 

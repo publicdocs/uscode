@@ -65,13 +65,13 @@
 
 [Pub. L. 105–207, title II, § 203][/us/pl/105/207/s203], July 29, 1998, [112 Stat. 875][/us/stat/112/875], provided that:
 
->     “(a) __Matching Funds.—__ 
+>     “(a)  __Matching Funds__  __.—__ 
 
 >     Matching funds required pursuant to section 204(a)(2)(C) of the Academic Research Facilities Modernization Act of 1988 ([42 U.S.C. 1862c(a)(2)(C)][/us/usc/t42/s1862c/a/2/C]) shall not be considered facilities costs for purposes of determining indirect cost rates under Office of Management and Budget Circular A–21.
 
 >     “(b) __Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Director of the Office of Science and Technology Policy, in consultation with other Federal agencies the Director deems appropriate, shall prepare a report—
 
@@ -107,7 +107,7 @@
 
 >                 “(ii) for analyzing the impact that changes in policies with respect to Federal indirect cost reimbursement will have on the Federal Government, researchers, and research institutions.
 
->         “(2) __Report to congress.—__ 
+>         “(2)  __Report to congress__  __.—__ 
 
 >         The report prepared under paragraph (1) shall be submitted to Congress not later than 1 year after the date of enactment of this Act \[July 29, 1998\].”
 
@@ -117,41 +117,41 @@
 
 > “SEC. 205. __NOTICE.__ 
 
->     “(a) __Notice of Reprogramming.—__ 
+>     “(a)  __Notice of Reprogramming__  __.—__ 
 
 >     If any funds appropriated pursuant to the amendments made by this Act \[See Short Title of 1998 Amendment note set out under [section 1861 of this title][/us/usc/t42/s1861]\] are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations of the Senate and the House of Representatives, notice of that action shall concurrently be provided to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate, and the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives.
 
->     “(b) __Notice of Reorganization.—__ 
+>     “(b)  __Notice of Reorganization__  __.—__ 
 
 >     Not later than 15 days before any major reorganization of any program, project, or activity of the National Science Foundation, the Director of the National Science Foundation shall provide notice to the Committees on Science \[now Science, Space, and Technology\] and Appropriations of the House of Representatives and the Committees on Commerce, Science and Transportation, Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate, and Appropriations of the Senate.
 
 > “SEC. 206. __ENHANCEMENT OF SCIENCE AND MATHEMATICS PROGRAMS.__ 
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Educationally useful federal equipment.—__ 
+>         “(1)  __Educationally useful federal equipment__  __.—__ 
 
 >         The term ‘educationally useful Federal equipment’ means computers and related peripheral tools and research equipment that is appropriate for use in schools.
 
->         “(2) __School.—__ 
+>         “(2)  __School__  __.—__ 
 
 >         The term ‘school’ means a public or private educational institution that serves any of the grades of kindergarten through grade 12.
 
 >     “(b) __Sense of the Congress.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         It is the sense of the Congress that the Director should, to the greatest extent practicable and in a manner consistent with applicable Federal law (including Executive Order No. 12999 \[[40 U.S.C. 549][/us/usc/t40/s549] note\]), donate educationally useful Federal equipment to schools in order to enhance the science and mathematics programs of those schools.
 
 >         “(2) __Reports.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Not later than 1 year after the date of enactment of this Act \[July 29, 1998\], and annually thereafter, the Director shall prepare and submit to the President a report that meets the requirements of this paragraph. The President shall submit that report to Congress at the same time as the President submits a budget request to Congress under [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code.
 
->             “(B) __Contents of report.—__ 
+>             “(B)  __Contents of report__  __.—__ 
 
 >             The report prepared by the Director under this paragraph shall describe any donations of educationally useful Federal equipment to schools made during the period covered by the report.”
 
@@ -161,27 +161,27 @@
 
 > “In this Act \[see Short Title of 1998 Amendment note set out under [section 1861 of this title][/us/usc/t42/s1861]\]:
 
->     “(1) __Director.—__ 
+>     “(1)  __Director__  __.—__ 
 
 >     The term ‘Director’ means the Director of the National Science Foundation established under section 2 of the National Science Foundation Act of 1950 ([42 U.S.C. 1861][/us/usc/t42/s1861]).
 
->     “(2) __Foundation.—__ 
+>     “(2)  __Foundation__  __.—__ 
 
 >     The term ‘Foundation’ means the National Science Foundation established under section 2 of the National Science Foundation Act of 1950 ([42 U.S.C. 1861][/us/usc/t42/s1861]).
 
->     “(3) __Full life-cycle cost.—__ 
+>     “(3)  __Full life-cycle cost__  __.—__ 
 
 >     The term ‘full life-cycle cost’ means all costs of planning, development, procurement, construction, operations and support, and shut-down costs, without regard to funding source and without regard to what entity manages the project or facility involved.
 
->     “(4) __Board.—__ 
+>     “(4)  __Board__  __.—__ 
 
 >     The term ‘Board’ means the National Science Board established under section 2 of the National Science Foundation Act of 1950 ([42 U.S.C. 1861][/us/usc/t42/s1861]).
 
->     “(5) __United states.—__ 
+>     “(5)  __United states__  __.—__ 
 
 >     The term ‘United States’ means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
 
->     “(6) __National research facility.—__ 
+>     “(6)  __National research facility__  __.—__ 
 
 >     The term ‘national research facility’ means a research facility funded by the Foundation which is available, subject to appropriate policies allocating access, for use by all scientists and engineers affiliated with research institutions located in the United States.”
 

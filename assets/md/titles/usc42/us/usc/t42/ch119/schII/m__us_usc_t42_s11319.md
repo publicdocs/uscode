@@ -55,11 +55,11 @@
 
 [Pub. L. 101–494, § 3][/us/pl/101/494/s3], Oct. 31, 1990, [104 Stat. 1185][/us/stat/104/1185], as amended by [Pub. L. 106–400, § 2][/us/pl/106/400/s2], Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675], provided that:
 
->     “(a) __Extension.—__ 
+>     “(a)  __Extension__  __.—__ 
 
 >     If upon enactment of this Act \[Oct. 31, 1990\], section 209 of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11319][/us/usc/t42/s11319]) provides for the termination of the Interagency Council on the Homeless on October 31, 1990, then notwithstanding such section, the Interagency Council on the Homeless shall cease to exist, and the requirements of title II of the McKinney-Vento Homeless Assistance Act \[[42 U.S.C. 11311][/us/usc/t42/s11311] et seq.\] shall terminate, on November 30, 1990.
 
->     “(b) __Limitations.—__ 
+>     “(b)  __Limitations__  __.—__ 
 
 >     If upon enactment of this Act \[Oct. 31, 1990\] such section 209 provides for termination of the Council (referred to in subsection (a)) on a date other than October 31, 1990, this section shall not apply. This section shall not apply with respect to any amendment to section 209 of the McKinney-Vento Homeless Assistance Act made after the date of the enactment of this Act.”
 

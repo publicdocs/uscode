@@ -127,7 +127,7 @@
 
             (B) provide for research access to ALS data as recommended by the Advisory Committee established in subsection (b) to the extent permitted by applicable statutes and regulations and in a manner that protects personal privacy consistent with applicable privacy statutes and regulations.
 
-            (C) __Coordination with nih and department of veterans affairs.—__ 
+            (C)  __Coordination with nih and department of veterans affairs__  __.—__ 
 
             Consistent with applicable privacy statutes and regulations, the Secretary may ensure that epidemiological and other types of information obtained under subsection (a) is made available to the National Institutes of Health and the Department of Veterans Affairs.
 

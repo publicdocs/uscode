@@ -79,21 +79,21 @@
 
 [Pub. L. 103–296, title II, § 201(a)(3)(C)][/us/pl/103/296/s201/a/3/C], (E), Aug. 15, 1994, [108 Stat. 1497][/us/stat/108/1497], provided that:
 
->     “(C) __Sunset of 36-month rule.—__ 
+>     “(C)  __Sunset of 36-month rule__  __.—__ 
 
 >     Section 225(c)(7) of the Social Security Act \[[42 U.S.C. 425(c)(7)][/us/usc/t42/s425/c/7]\] (added by subparagraph (A)) shall cease to be effective with respect to benefits for months after September 2004.
 
 >     “(E) __Effective date.—__ 
 
->         “(i) __In general.—__ 
+>         “(i)  __In general__  __.—__ 
 
 >         Except as otherwise provided in this paragraph, the amendments made by this paragraph \[amending this section and sections 426 and 426–1 of this title\] shall apply with respect to benefits based on disability (as defined in section 225(c)(9) of the Social Security Act \[[42 U.S.C. 425(c)(9)][/us/usc/t42/s425/c/9]\], added by this section) which are otherwise payable in months beginning after 180 days after the date of the enactment of this Act \[Aug. 15, 1994\]. The Secretary of Health and Human Services shall issue regulations necessary to carry out the amendments made by this paragraph not later than 180 days after the date of the enactment of this Act.
 
->         “(ii) __Referral and monitoring agencies.—__ 
+>         “(ii)  __Referral and monitoring agencies__  __.—__ 
 
 >         Section 225(c)(5) of the Social Security Act \[[42 U.S.C. 425(c)(5)][/us/usc/t42/s425/c/5]\] (added by this subsection) shall take effect 180 days after the date of the enactment of this Act.
 
->         “(iii) __Termination after 36 months.—__ 
+>         “(iii)  __Termination after 36 months__  __.—__ 
 
 >         Section 225(c)(7) of the Social Security Act \[[42 U.S.C. 425(c)(7)][/us/usc/t42/s425/c/7]\] (added by this subsection) shall apply with respect to benefits based on disability (as so defined) for months beginning after 180 days after the date of the enactment of this Act.”
 
@@ -141,21 +141,21 @@
 
 > “In any case in which an individual is entitled to benefits based on disability, the determination of disability was made by the Secretary of Health and Human Services during or before the 180-day period following the date of the enactment of this Act \[Aug. 15, 1994\], and alcoholism or drug addiction is a contributing factor material to the Secretary’s determination that the individual is under a disability—
 
->     “(i) __Treatment requirement.—__ 
+>     “(i)  __Treatment requirement__  __.—__ 
 
 >     Paragraphs (1) through (4) of section 225(c) of the Social Security Act \[[42 U.S.C. 425(c)(1)][/us/usc/t42/s425/c/1] to (4)\] (added by this subsection) shall apply only with respect to benefits paid in months after the month in which such individual is notified by the Secretary in writing that alcoholism or drug addiction is a contributing factor material to the Secretary’s determination and that such individual is therefore required to comply with the provisions of section 225(c) of such Act.
 
 >     “(ii) __Termination after 36 months.—__ 
 
->         “(I) __In general.—__ 
+>         “(I)  __In general__  __.—__ 
 
 >         For purposes of section 225(c)(7) of the Social Security Act \[[42 U.S.C. 425(c)(7)][/us/usc/t42/s425/c/7]\] (added by this subsection), the first month of entitlement beginning after 180 days after the date of the enactment of this Act \[Aug. 15, 1994\] shall be treated as the individual’s first month of entitlement to such benefits.
 
->         “(II) __Concurrent beneficiaries currently under treatment.—__ 
+>         “(II)  __Concurrent beneficiaries currently under treatment__  __.—__ 
 
 >         In any case in which the individual is also entitled to benefits under title XVI \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] and, as of 180 days after the date of the enactment of this Act, such individual is undergoing treatment required under section 1611(e)(3) of the Social Security Act \[[42 U.S.C. 1382(e)(3)][/us/usc/t42/s1382/e/3]\] (as in effect immediately before the date of the enactment of this Act), the Secretary of Health and Human Services shall notify such individual of the provisions of section 225(c)(7) of the Social Security Act (added by this subsection) not later than 180 days after the date of the enactment of this Act.
 
->         “(III) __Concurrent beneficiaries not currently under treatment.—__ 
+>         “(III)  __Concurrent beneficiaries not currently under treatment__  __.—__ 
 
 >         In any case in which the individual is also entitled to benefits under title XVI but, as of 180 days after the date of the enactment of this Act, such individual is not undergoing treatment described in subclause (II), section 225(c)(7) (added by this subsection) shall apply only with respect to benefits for months after the month in which treatment required under section 1611(e)(3) of the Social Security Act (as amended by subsection (b)) is available, as determined under regulations of the Secretary of Health and Human Services, and the Secretary notifies such individual of the availability of such treatment and describes in such notification the provisions of section 225(c)(7) of the Social Security Act (added by this subsection).”
 

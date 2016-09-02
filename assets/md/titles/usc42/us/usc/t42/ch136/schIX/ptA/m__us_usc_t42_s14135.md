@@ -517,19 +517,19 @@
 
 > “All grants awarded by the Department of Justice that are authorized under this title \[amending this section and enacting provisions set out as notes under this section and [section 13701 of this title][/us/usc/t42/s13701]\] shall be subject to the following:
 
->     “(1) __Audit requirement.—__ 
+>     “(1)  __Audit requirement__  __.—__ 
 
 >     Beginning in fiscal year 2013, and each fiscal year thereafter, the Inspector General of the Department of Justice shall conduct audits of recipients of grants under this title to prevent waste, fraud, and abuse of funds by grantees. The Inspector General shall determine the appropriate number of grantees to be audited each year.
 
->     “(2) __Mandatory exclusion.—__ 
+>     “(2)  __Mandatory exclusion__  __.—__ 
 
 >     A recipient of grant funds under this title that is found to have an unresolved audit finding shall not be eligible to receive grant funds under this title during the 2 fiscal years beginning after the 12-month period described in paragraph (5).
 
->     “(3) __Priority.—__ 
+>     “(3)  __Priority__  __.—__ 
 
 >     In awarding grants under this title, the Attorney General shall give priority to eligible entities that, during the 3 fiscal years before submitting an application for a grant under this title, did not have an unresolved audit finding showing a violation in the terms or conditions of a Department of Justice grant program.
 
->     “(4) __Reimbursement.—__ 
+>     “(4)  __Reimbursement__  __.—__ 
 
 >     If an entity is awarded grant funds under this Act \[[Pub. L. 113–4][/us/pl/113/4], see Tables for classification\] during the 2-fiscal-year period in which the entity is barred from receiving grants under paragraph (2), the Attorney General shall—
 
@@ -537,45 +537,45 @@
 
 >         “(B) seek to recoup the costs of the repayment to the fund from the grant recipient that was erroneously awarded grant funds.
 
->     “(5) __Defined term.—__ 
+>     “(5)  __Defined term__  __.—__ 
 
 >     In this section, the term ‘unresolved audit finding’ means an audit report finding in the final audit report of the Inspector General of the Department of Justice that the grantee has utilized grant funds for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved within a 12-month period beginning on the date when the final audit report is issued.
 
 >     “(6) __Nonprofit organization requirements.—__ 
 
->         “(A) __Definition.—__ 
+>         “(A)  __Definition__  __.—__ 
 
 >         For purposes of this section and the grant programs described in this title, the term ‘nonprofit organization’ means an organization that is described in section 501(c)(3) of the Internal Revenue Code of 1986 \[[26 U.S.C. 501(c)(3)][/us/usc/t26/s501/c/3]\] and is exempt from taxation under section 501(a) of such Code.
 
->         “(B) __Prohibition.—__ 
+>         “(B)  __Prohibition__  __.—__ 
 
 >         The Attorney General shall not award a grant under any grant program described in this title to a nonprofit organization that holds money in offshore accounts for the purpose of avoiding paying the tax described in section 511(a) of the Internal Revenue Code of 1986.
 
->         “(C) __Disclosure.—__ 
+>         “(C)  __Disclosure__  __.—__ 
 
 >         Each nonprofit organization that is awarded a grant under a grant program described in this title and uses the procedures prescribed in regulations to create a rebuttable presumption of reasonableness for the compensation of its officers, directors, trustees and key employees, shall disclose to the Attorney General, in the application for the grant, the process for determining such compensation, including the independent persons involved in reviewing and approving such compensation, the comparability data used, and contemporaneous substantiation of the deliberation and decision. Upon request, the Attorney General shall make the information disclosed under this subsection available for public inspection.
 
->     “(7) __Administrative expenses.—__ 
+>     “(7)  __Administrative expenses__  __.—__ 
 
 >     Unless otherwise explicitly provided in authorizing legislation, not more than 7.5 percent of the amounts authorized to be appropriated under this title may be used by the Attorney General for salaries and administrative expenses of the Department of Justice.
 
 >     “(8) __Conference expenditures.—__ 
 
->         “(A) __Limitation.—__ 
+>         “(A)  __Limitation__  __.—__ 
 
 >         No amounts authorized to be appropriated to the Department of Justice under this title may be used by the Attorney General or by any individual or organization awarded discretionary funds through a cooperative agreement under this Act, to host or support any expenditure for conferences that uses more than $20,000 in Department funds, unless the Deputy Attorney General or the appropriate Assistant Attorney General, Director, or principal deputy as the Deputy Attorney General may designate, provides prior written authorization that the funds may be expended to host a conference.
 
->         “(B) __Written approval.—__ 
+>         “(B)  __Written approval__  __.—__ 
 
 >         Written approval under subparagraph (A) shall include a written estimate of all costs associated with the conference, including the cost of all food and beverages, audio/visual equipment, honoraria for speakers, and any entertainment.
 
->         “(C) __Report.—__ 
+>         “(C)  __Report__  __.—__ 
 
 >         The Deputy Attorney General shall submit an annual report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives on all conference expenditures approved by operation of this paragraph.
 
 >     “(9) __Prohibition on lobbying activity.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Amounts authorized to be appropriated under this title may not be utilized by any grant recipient to—
 
@@ -583,7 +583,7 @@
 
 >             “(ii) lobby any representative of a Federal, state, local, or tribal government regarding the award of grant funding.
 
->         “(B) __Penalty.—__ 
+>         “(B)  __Penalty__  __.—__ 
 
 >         If the Attorney General determines that any recipient of a grant under this title has violated subparagraph (A), the Attorney General shall—
 
@@ -595,7 +595,7 @@
 
 [Pub. L. 106–561, § 4][/us/pl/106/561/s4], Dec. 21, 2000, [114 Stat. 2791][/us/stat/114/2791], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -631,7 +631,7 @@
 
 >         “(16) providing quality representation to defendants facing loss of liberty or life is essential to fundamental due process and the speedy final resolution of judicial proceedings.
 
->     “(b) __Sense of Congress.—__ 
+>     “(b)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that—
 

@@ -63,7 +63,7 @@
 
             (C) Any suit alleging a violation of any provision of this subsection, to the extent it does not allege a violation of the National Labor Relations Act \[[29 U.S.C. 151][/us/usc/t29/s151] et seq.\], may be brought in any district court of the United States having jurisdiction over the parties, without regard to the amount in controversy or the citizenship of the parties.
 
-        (8) __Continuity of benefits.—__ 
+        (8)  __Continuity of benefits__  __.—__ 
 
         To the extent appropriations are provided in advance for this purpose or are otherwise available, not later than 30 days after August 8, 2005, the Secretary shall implement such actions as are necessary to ensure that any employee who—
 

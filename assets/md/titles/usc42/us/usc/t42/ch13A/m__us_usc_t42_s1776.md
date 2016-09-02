@@ -57,15 +57,15 @@
 
             (B) __Reallocation of funds.—__ 
 
-                (i) __Return to secretary.—__ 
+                (i)  __Return to secretary__  __.—__ 
 
                 For each fiscal year, any amounts appropriated that are not obligated or expended during the fiscal year and are not carried over for the succeeding fiscal year under subparagraph (A) shall be returned to the Secretary.
 
-                (ii) __Reallocation by secretary.—__ 
+                (ii)  __Reallocation by secretary__  __.—__ 
 
                 The Secretary shall allocate, for purposes of administrative costs, any remaining amounts among States that demonstrate a need for the amounts.
 
-        (6) __Use of administrative funds.—__ 
+        (6)  __Use of administrative funds__  __.—__ 
 
         Funds available to a State under this subsection and under section 13(k)(1) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1761(k)(1)][/us/usc/t42/s1761/k/1]) may be used by the State for the costs of administration of the programs authorized under this chapter (except for the programs authorized under sections 1786 and 1790 of this title) and the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751][/us/usc/t42/s1751] et seq.) without regard to the basis on which the funds were earned and allocated.
 

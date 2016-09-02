@@ -137,11 +137,11 @@
 
 [Pub. L. 103–66, title XIII, § 13741(c)][/us/pl/103/66/s13741/c], Aug. 10, 1993, [107 Stat. 663][/us/stat/107/663], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2) of this subsection, the amendments made by subsections (a) and (b) \[amending this section and sections 603, 1203, and 1353 of this title and provisions set out as a note under [section 1383 of this title][/us/usc/t42/s1383]\] shall be effective with respect to calendar quarters beginning on or after April 1, 1994.
 
->     “(2) __Special rule.—__ 
+>     “(2)  __Special rule__  __.—__ 
 
 >     In the case of a State whose legislature meets biennially, and does not have a regular session scheduled in calendar year 1994, the amendments made by subsections (a) and (b) shall be effective no later than the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Aug. 10, 1993\].”
 

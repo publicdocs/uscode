@@ -91,11 +91,11 @@
 
 [Pub. L. 106–129, § 2(b)][/us/pl/106/129/s2/b], Dec. 6, 1999, [113 Stat. 1670][/us/stat/113/1670], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Section 901(a) of the Public Health Service Act \[[42 U.S.C. 299(a)][/us/usc/t42/s299/a]\] (as added by subsection (a) of this section) applies as a redesignation of the agency that carried out title IX of such Act \[[42 U.S.C. 299][/us/usc/t42/s299] et seq.\] on the day before the date of the enactment of this Act \[Dec. 6, 1999\], and not as the termination of such agency and the establishment of a different agency. The amendment made by subsection (a) of this section \[enacting this subchapter\] does not affect appointments of the personnel of such agency who were employed at the agency on the day before such date, including the appointments of members of advisory councils or study sections of the agency who were serving on the day before such date of enactment.
 
->     “(2) __References.—__ 
+>     “(2)  __References__  __.—__ 
 
 >     Any reference in law to the Agency for Health Care Policy and Research is deemed to be a reference to the Agency for Healthcare Research and Quality, and any reference in law to the Administrator for Health Care Policy and Research is deemed to be a reference to the Director of the Agency for Healthcare Research and Quality.”
 
@@ -107,25 +107,25 @@
 
 [Pub. L. 110–275, title III, § 304(b)][/us/pl/110/275/s304/b], July 15, 2008, [122 Stat. 2595][/us/stat/122/2595], as amended by [Pub. L. 111–148, title X, § 10303(c)][/us/pl/111/148/s10303/c], Mar. 23, 2010, [124 Stat. 938][/us/stat/124/938], provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     Not later than 60 days after the date of the enactment of this Act \[July 15, 2008\], the Secretary of Health and Human Services shall enter into a contract with the Institute of Medicine of the National Academies (in this section \[this note\] referred to as the ‘Institute’) under which the Institute shall conduct a study on the best methods used in developing clinical practice guidelines in order to ensure that organizations developing such guidelines have information on approaches that are objective, scientifically valid, and consistent.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 18 months after the effective date of the contract under paragraph (1), the Institute, as part of such contract, shall submit to the Secretary of Health and Human Services and the appropriate committees of jurisdiction of Congress a report containing the results of the study conducted under paragraph (1), together with recommendations for such legislation and administrative action as the Institute determines appropriate.
 
->     “(3) __Participation.—__ 
+>     “(3)  __Participation__  __.—__ 
 
 >     The contract under paragraph (1) shall require that stakeholders with expertise in making clinical recommendations participate on the panel responsible for conducting the study under paragraph (1) and preparing the report under paragraph (2).
 
 >     “(4) __Identification.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Following receipt of the report submitted under paragraph (2), and not less than every 3 years thereafter, the Secretary shall contract with the Institute to employ the results of the study performed under paragraph (1) and the best methods identified by the Institute for the purpose of identifying existing and new clinical practice guidelines that were developed using such best methods, including guidelines listed in the National Guideline Clearinghouse.
 
->         “(B) __Consultation.—__ 
+>         “(B)  __Consultation__  __.—__ 
 
 >         In carrying out the identification process under subparagraph (A), the Secretary shall allow for consultation with professional societies, voluntary health care organizations, and expert panels.”
 
@@ -133,7 +133,7 @@
 
 [Pub. L. 108–173, title I, § 107(c)][/us/pl/108/173/s107/c], Dec. 8, 2003, [117 Stat. 2170][/us/stat/117/2170], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary \[of Health and Human Services\] shall enter into a contract with the Institutes of Medicine of the National Academies of Science (such Institutes referred to in this subsection as the ‘IOM’) to carry out a comprehensive study (in this subsection referred to as the ‘study’) of drug safety and quality issues in order to provide a blueprint for system-wide change.
 
@@ -153,19 +153,19 @@
 
 >     “(3) __Conduct of study.—__ 
 
->         “(A) __Expert committee.—__ 
+>         “(A)  __Expert committee__  __.—__ 
 
 >         In conducting the study, the IOM shall convene a committee of leading experts and key stakeholders in pharmaceutical management and drug safety, including clinicians, health services researchers, pharmacists, system administrators, payer representatives, and others.
 
->         “(B) __Completion.—__ 
+>         “(B)  __Completion__  __.—__ 
 
 >         The study shall be completed within an 18-month period.
 
->     “(4) __Report.—__ 
+>     “(4)  __Report__  __.—__ 
 
 >     A report on the study shall be submitted to Congress upon the completion of the study.
 
->     “(5) __Authorization of appropriations.—__ 
+>     “(5)  __Authorization of appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this section such sums as may be necessary.”
 

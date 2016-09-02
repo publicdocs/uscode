@@ -103,11 +103,11 @@
 
 >         “(1) __Grants.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall use amounts made available under subparagraph (B) to make grants to States for State health insurance assistance programs receiving assistance under section 4360 of the Omnibus Budget Reconciliation Act of 1990 \[[42 U.S.C. 1395b–4][/us/usc/t42/s1395b–4]\].
 
->             “(B) __Funding.—__ 
+>             “(B)  __Funding__  __.—__ 
 
 >             For purposes of making grants under this subsection, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act ([42 U.S.C. 1395i][/us/usc/t42/s1395i]) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act ([42 U.S.C. 1395t][/us/usc/t42/s1395t]), in the same proportion as the Secretary determines under section 1853(f) of such Act ([42 U.S.C. 1395w–23(f)][/us/usc/t42/s1395w–23/f]), to the Centers for Medicare & Medicaid Services Program Management Account—
 
@@ -119,21 +119,21 @@
 
 >                   Amounts appropriated under this subparagraph shall remain available until expended.
 
->         “(2) __Amount of grants.—__ 
+>         “(2)  __Amount of grants__  __.—__ 
 
 >         The amount of a grant to a State under this subsection from the total amount made available under paragraph (1) shall be equal to the sum of the amount allocated to the State under paragraph (3)(A) and the amount allocated to the State under subparagraph (3)(B).
 
 >         “(3) __Allocation to states.—__ 
 
->             “(A) __Allocation based on percentage of low-income beneficiaries.—__ 
+>             “(A)  __Allocation based on percentage of low-income beneficiaries__  __.—__ 
 
 >             The amount allocated to a State under this subparagraph from ⅔ of the total amount made available under paragraph (1) shall be based on the number of individuals who meet the requirement under subsection (a)(3)(A)(ii) of section 1860D–14 of the Social Security Act ([42 U.S.C. 1395w–114][/us/usc/t42/s1395w–114]) but who have not enrolled to receive a subsidy under such section 1860D–14 relative to the total number of individuals who meet the requirement under such subsection (a)(3)(A)(ii) in each State, as estimated by the Secretary.
 
->             “(B) __Allocation based on percentage of rural beneficiaries.—__ 
+>             “(B)  __Allocation based on percentage of rural beneficiaries__  __.—__ 
 
 >             The amount allocated to a State under this subparagraph from ⅓ of the total amount made available under paragraph (1) shall be based on the number of part D eligible individuals (as defined in section 1860D–1(a)(3)(A) of such Act ([42 U.S.C. 1395w–101(a)(3)(A)][/us/usc/t42/s1395w–101/a/3/A])) residing in a rural area relative to the total number of such individuals in each State, as estimated by the Secretary.
 
->         “(4) __Portion of grant based on percentage of low-income beneficiaries to be used to provide outreach to individuals who may be subsidy eligible individuals or eligible for the medicare savings program.—__ 
+>         “(4)  __Portion of grant based on percentage of low-income beneficiaries to be used to provide outreach to individuals who may be subsidy eligible individuals or eligible for the medicare savings program__  __.—__ 
 
 >         Each grant awarded under this subsection with respect to amounts allocated under paragraph (3)(A) shall be used to provide outreach to individuals who may be subsidy eligible individuals (as defined in section 1860D–14(a)(3)(A) of the Social Security Act ([42 U.S.C. 1395w–114(a)(3)(A)][/us/usc/t42/s1395w–114/a/3/A])\[)\] or eligible for the Medicare Savings Program (as defined in subsection (f)).
 
@@ -141,11 +141,11 @@
 
 >         “(1) __Grants.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary, acting through the Assistant Secretary for Aging, shall make grants to States for area agencies on aging (as defined in section 102 of the Older Americans Act of 1965 ([42 U.S.C. 3002][/us/usc/t42/s3002])) and Native American programs carried out under the Older Americans Act of 1965 ([42 U.S.C. 3001][/us/usc/t42/s3001] et seq.).
 
->             “(B) __Funding.—__ 
+>             “(B)  __Funding__  __.—__ 
 
 >             For purposes of making grants under this subsection, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act ([42 U.S.C. 1395i][/us/usc/t42/s1395i]) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act ([42 U.S.C. 1395t][/us/usc/t42/s1395t]), in the same proportion as the Secretary determines under section 1853(f) of such Act ([42 U.S.C. 1395w–23(f)][/us/usc/t42/s1395w–23/f]), to the Administration on Aging—
 
@@ -157,17 +157,17 @@
 
 >                   Amounts appropriated under this subparagraph shall remain available until expended.
 
->         “(2) __Amount of grant and allocation to states based on percentage of low-income and rural beneficiaries.—__ 
+>         “(2)  __Amount of grant and allocation to states based on percentage of low-income and rural beneficiaries__  __.—__ 
 
 >         The amount of a grant to a State under this subsection from the total amount made available under paragraph (1) shall be determined in the same manner as the amount of a grant to a State under subsection (a), from the total amount made available under paragraph (1) of such subsection, is determined under paragraph (2) and subparagraphs (A) and (B) of paragraph (3) of such subsection.
 
 >         “(3) __Required use of funds.—__ 
 
->             “(A) __All funds.—__ 
+>             “(A)  __All funds__  __.—__ 
 
 >             Subject to subparagraph (B), each grant awarded under this subsection shall be used to provide outreach to eligible Medicare beneficiaries regarding the benefits available under title XVIII of the Social Security Act \[this subchapter\].
 
->             “(B) __Outreach to individuals who may be subsidy eligible individuals or eligible for the medicare savings program.—__ 
+>             “(B)  __Outreach to individuals who may be subsidy eligible individuals or eligible for the medicare savings program__  __.—__ 
 
 >             Subsection (a)(4) shall apply to each grant awarded under this subsection in the same manner as it applies to a grant under subsection (a).
 
@@ -175,11 +175,11 @@
 
 >         “(1) __Grants.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary shall make grants to Aging and Disability Resource Centers under the Aging and Disability Resource Center grant program that are established centers under such program on the date of the enactment of this Act \[July 15, 2008\].
 
->             “(B) __Funding.—__ 
+>             “(B)  __Funding__  __.—__ 
 
 >             For purposes of making grants under this subsection, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act ([42 U.S.C. 1395i][/us/usc/t42/s1395i]) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act ([42 U.S.C. 1395t][/us/usc/t42/s1395t]), in the same proportion as the Secretary determines under section 1853(f) of such Act ([42 U.S.C. 1395w–23(f)][/us/usc/t42/s1395w–23/f]), to the Administration on Aging—
 
@@ -191,13 +191,13 @@
 
 >                   Amounts appropriated under this subparagraph shall remain available until expended.
 
->         “(2) __Required use of funds.—__ 
+>         “(2)  __Required use of funds__  __.—__ 
 
 >         Each grant awarded under this subsection shall be used to provide outreach to individuals regarding the benefits available under the Medicare prescription drug benefit under part D of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–101][/us/usc/t42/s1395w–101] et seq.\] and under the Medicare Savings Program.
 
 >     “(d) __Coordination of Efforts To Inform Older Americans About Benefits Available Under Federal and State Programs.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary, acting through the Assistant Secretary for Aging, in cooperation with related Federal agency partners, shall make a grant to, or enter into a contract with, a qualified, experienced entity under which the entity shall—
 
@@ -209,7 +209,7 @@
 
 >             “(D) provide, in collaboration with related Federal agency partners administering the Federal programs, training and technical assistance on the most effective outreach, screening, and follow-up strategies for the Federal and State programs.
 
->         “(2) __Funding.—__ 
+>         “(2)  __Funding__  __.—__ 
 
 >         For purposes of making a grant or entering into a contract under paragraph (1), the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act ([42 U.S.C. 1395i][/us/usc/t42/s1395i]) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act ([42 U.S.C. 1395t][/us/usc/t42/s1395t]), in the same proportion as the Secretary determines under section 1853(f) of such Act ([42 U.S.C. 1395w–23(f)][/us/usc/t42/s1395w–23/f]), to the Administration on Aging—
 
@@ -221,15 +221,15 @@
 
 >             Amounts appropriated under this subparagraph shall remain available until expended.
 
->     “(e) __Reprogramming Funds From Medicare, Medicaid, and SCHIP Extension Act of 2007.—__ 
+>     “(e)  __Reprogramming Funds From Medicare, Medicaid, and SCHIP Extension Act of__  __2007.—__ 
 
 >     The Secretary shall only use the $5,000,000 in funds allocated to make grants to States for Area Agencies on Aging and Aging Disability and Resource Centers for the period of fiscal years 2008 through 2009 under section 118 of the Medicare, Medicaid, and SCHIP Extension Act of 2007 ([Public Law 110–173][/us/pl/110/173]) \[[121 Stat. 2508][/us/stat/121/2508]\] for the sole purpose of providing outreach to individuals regarding the benefits available under the Medicare prescription drug benefit under part D of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–101][/us/usc/t42/s1395w–101] et seq.\]. The Secretary shall republish the request for proposals issued on April 17, 2008, in order to comply with the preceding sentence.
 
->     “(f) __Medicare Savings Program Defined.—__ 
+>     “(f)  __Medicare Savings Program Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘Medicare Savings Program’ means the program of medical assistance for payment of the cost of medicare cost-sharing under the Medicaid program pursuant to sections 1902(a)(10)(E) and 1933 of the Social Security Act ([42 U.S.C. 1396a(a)(10)(E)][/us/usc/t42/s1396a/a/10/E], 1396u–3).
 
->     “(g) __Secretarial Authority To Enlist Support in Conducting Certain Outreach Activities.—__ 
+>     “(g)  __Secretarial Authority To Enlist Support in Conducting Certain Outreach Activities__  __.—__ 
 
 >     The Secretary may request that an entity awarded a grant under this section support the conduct of outreach activities aimed at preventing disease and promoting wellness. Notwithstanding any other provision of this section, an entity may use a grant awarded under this subsection \[probably should be “section”\] to support the conduct of activities described in the preceding sentence.”
 
@@ -237,27 +237,27 @@
 
 [Pub. L. 108–173, title IX, § 924][/us/pl/108/173/s924], Dec. 8, 2003, [117 Stat. 2395][/us/stat/117/2395], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary \[of Health and Human Services\] shall establish a demonstration program (in this section referred to as the ‘demonstration program’) under which medicare specialists employed by the Department of Health and Human Services provide advice and assistance to individuals entitled to benefits under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\], or enrolled under part B of such title \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\], or both, regarding the medicare program at the location of existing local offices of the Social Security Administration.
 
 >     “(b) __Locations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The demonstration program shall be conducted in at least 6 offices or areas. Subject to paragraph (2), in selecting such offices and areas, the Secretary shall provide preference for offices with a high volume of visits by individuals referred to in subsection (a).
 
->         “(2) __Assistance for rural beneficiaries.—__ 
+>         “(2)  __Assistance for rural beneficiaries__  __.—__ 
 
 >         The Secretary shall provide for the selection of at least 2 rural areas to participate in the demonstration program. In conducting the demonstration program in such rural areas, the Secretary shall provide for medicare specialists to travel among local offices in a rural area on a scheduled basis.
 
->     “(c) __Duration.—__ 
+>     “(c)  __Duration__  __.—__ 
 
 >     The demonstration program shall be conducted over a 3-year period.
 
 >     “(d) __Evaluation and Report.—__ 
 
->         “(1) __Evaluation.—__ 
+>         “(1)  __Evaluation__  __.—__ 
 
 >         The Secretary shall provide for an evaluation of the demonstration program. Such evaluation shall include an analysis of—
 
@@ -265,7 +265,7 @@
 
 >             “(B) the cost-effectiveness of providing beneficiary assistance through out-stationing medicare specialists at local offices of the Social Security Administration.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         The Secretary shall submit to Congress a report on such evaluation and shall include in such report recommendations regarding the feasibility of permanently out-stationing medicare specialists at local offices of the Social Security Administration.”
 

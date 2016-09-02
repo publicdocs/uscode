@@ -305,11 +305,11 @@
 
 [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title II, § 218(c)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–363, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by subsections (a) and (b) \[amending this section and [section 300x–33 of this title][/us/usc/t42/s300x–33]\] shall become effective as if enacted on October 1, 1998 and shall only apply during fiscal year 1999.
 
->     “(2) __Application.—__ 
+>     “(2)  __Application__  __.—__ 
 
 >     Upon the expiration of the fiscal year described in paragraph (1), the provisions of sections 1918(b) and 1933(b) of the Public Health Service Act ([42 U.S.C. 300x–7(b)][/us/usc/t42/s300x–7/b] and 300x–33(b)), as in effect on September 30, 1998, shall be applied as if the amendments made by this section had not been enacted.”
 

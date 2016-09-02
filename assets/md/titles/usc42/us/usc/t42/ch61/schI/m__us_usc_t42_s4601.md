@@ -143,11 +143,11 @@
 
 [Pub. L. 103–181, § 4][/us/pl/103/181/s4], Dec. 3, 1993, [107 Stat. 2055][/us/stat/107/2055], provided that:
 
->     “(a) __Inapplicability of URA.—__ 
+>     “(a)  __Inapplicability of URA__  __.—__ 
 
 >     The purchase of any real property under a qualified buyout program shall not constitute the making of Federal financial assistance available to pay all or part of the cost of a program or project resulting in the acquisition of real property or in any owner of real property being a displaced person (within the meaning of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 \[[42 U.S.C. 4601][/us/usc/t42/s4601] et seq.\]).
 
->     “(b) __Definition of ‘Qualified Buyout Program’.—__ 
+>     “(b)  __Definition of ‘Qualified Buyout Program’__  __.—__ 
 
 >     For purposes of this section, the term ‘qualified buyout program’ means any program that—
 

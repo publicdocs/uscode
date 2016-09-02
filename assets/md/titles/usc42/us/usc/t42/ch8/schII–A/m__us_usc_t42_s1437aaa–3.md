@@ -119,11 +119,11 @@
 
 [Pub. L. 105–276, title V, § 531(b)][/us/pl/105/276/s531/b], Oct. 21, 1998, [112 Stat. 2573][/us/stat/112/2573], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Notwithstanding subsections (b) and (c) of section 1002 of the Emergency Supplemental Appropriations for Additional Disaster Assistance, for Anti-terrorism Initiatives, for Assistance in the Recovery from the Tragedy that Occurred At Oklahoma City, and Rescissions Act, 1995 \[amending this section and enacting provision set out as a note under [section 1437c of this title][/us/usc/t42/s1437c]\] ([Public Law 104–19][/us/pl/104/19]; [109 Stat. 236][/us/stat/109/236]), subsection (g) of section 304 of the United States Housing Act of 1937 ([42 U.S.C. 1437aaa–3(g)][/us/usc/t42/s1437aaa–3/g]) is repealed.
 
->     “(2) __Effective date.—__ 
+>     “(2)  __Effective date__  __.—__ 
 
 >     The amendment made by paragraph (1) shall be effective with respect to any plan for the demolition, disposition, or conversion to homeownership of public housing that is approved by the Secretary after September 30, 1995.”
 

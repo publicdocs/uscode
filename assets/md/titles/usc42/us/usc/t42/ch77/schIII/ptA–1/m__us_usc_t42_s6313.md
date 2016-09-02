@@ -91,27 +91,27 @@
 
             (A) __In general.—__ 
 
-                (i) __Analysis of potential energy savings.—__ 
+                (i)  __Analysis of potential energy savings__  __.—__ 
 
                 If ASHRAE/IES Standard 90.1 is amended with respect to the standard levels or design requirements applicable under that standard to any small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, or unfired hot water storage tanks, not later than 180 days after the amendment of the standard, the Secretary shall publish in the Federal Register for public comment an analysis of the energy savings potential of amended energy efficiency standards.
 
                 (ii) __Amended uniform national standard for products.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     Except as provided in subclause (II), not later than 18 months after the date of publication of the amendment to the ASHRAE/IES Standard 90.1 for a product described in clause (i), the Secretary shall establish an amended uniform national standard for the product at the minimum level specified in the amended ASHRAE/IES Standard 90.1.
 
-                    (II) __More stringent standard.—__ 
+                    (II)  __More stringent standard__  __.—__ 
 
                     Subclause (I) shall not apply if the Secretary determines, by rule published in the Federal Register, and supported by clear and convincing evidence, that adoption of a uniform national standard more stringent than the amended ASHRAE/IES Standard 90.1 for the product would result in significant additional conservation of energy and is technologically feasible and economically justified.
 
             (B) __Rule.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 If the Secretary makes a determination described in subparagraph (A)(ii)(II) for a product described in subparagraph (A)(i), not later than 30 months after the date of publication of the amendment to the ASHRAE/IES Standard 90.1 for the product, the Secretary shall issue the rule establishing the amended standard.
 
-                (ii) __Factors.—__ 
+                (ii)  __Factors__  __.—__ 
 
                 In determining whether a standard is economically justified for the purposes of subparagraph (A)(ii)(II), the Secretary shall, after receiving views and comments furnished with respect to the proposed standard, determine whether the benefits of the standard exceed the burden of the proposed standard by, to the maximum extent practicable, considering—
 
@@ -131,23 +131,23 @@
 
                 (iii) __Administration.—__ 
 
-                    (I) __Energy use and efficiency.—__ 
+                    (I)  __Energy use and efficiency__  __.—__ 
 
                     The Secretary may not prescribe any amended standard under this paragraph that increases the maximum allowable energy use, or decreases the minimum required energy efficiency, of a covered product.
 
                     (II) __Unavailability.—__ 
 
-                        (aa) __In general.—__ 
+                        (aa)  __In general__  __.—__ 
 
                         The Secretary may not prescribe an amended standard under this subparagraph if the Secretary finds (and publishes the finding) that interested persons have established by a preponderance of the evidence that a standard is likely to result in the unavailability in the United States in any product type (or class) of performance characteristics (including reliability, features, sizes, capacities, and volumes) that are substantially the same as those generally available in the United States at the time of the finding of the Secretary.
 
-                        (bb) __Other types or classes.—__ 
+                        (bb)  __Other types or classes__  __.—__ 
 
                         The failure of some types (or classes) to meet the criterion established under this subclause shall not affect the determination of the Secretary on whether to prescribe a standard for the other types or classes.
 
             (C) __Amendment of standard.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Every 6 years, the Secretary shall conduct an evaluation of each class of covered equipment and shall publish—
 
@@ -155,7 +155,7 @@
 
                     (II) a notice of proposed rulemaking including new proposed standards based on the criteria and procedures established under subparagraph (B).
 
-                (ii) __Notice.—__ 
+                (ii)  __Notice__  __.—__ 
 
                 If the Secretary publishes a notice under clause (i), the Secretary shall—
 
@@ -165,15 +165,15 @@
 
                 (iii) __Amendment of standard; new determination.—__ 
 
-                    (I) __Amendment of standard.—__ 
+                    (I)  __Amendment of standard__  __.—__ 
 
                     Not later than 2 years after a notice is issued under clause (i)(II), the Secretary shall publish a final rule amending the standard for the product.
 
-                    (II) __New determination.—__ 
+                    (II)  __New determination__  __.—__ 
 
                     Not later than 3 years after a determination under clause (i)(I), the Secretary shall make a new determination and publication under subclause (I) or (II) of clause (i).
 
-                (iv) __Application to products.—__ 
+                (iv)  __Application to products__  __.—__ 
 
                 Notwithstanding subparagraph (D), an amendment prescribed under this subparagraph shall apply to products manufactured after a date that is the later of—
 
@@ -181,11 +181,11 @@
 
                     (II) the date that is 6 years after the effective date of the current standard for a covered product.
 
-                (v) __Reports.—__ 
+                (v)  __Reports__  __.—__ 
 
                 The Secretary shall promptly submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a progress report every 180 days on compliance with this subparagraph, including a specific plan to remedy any failures to comply with deadlines for action established under this subparagraph.
 
-                (vi)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. There are two cls. designated (vi).__  __ </sup></sup> __  __Consideration of prices and operating patterns.—__ 
+                (vi)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. There are two cls. designated (vi).__  __ </sup></sup> __   __Consideration of prices and operating patterns__  __.—__ 
 
                 If the Secretary is considering revised standards for air-cooled 3-phase central air conditioners and central air conditioning heat pumps with less  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by “than”. </sup></sup>  65,000 Btu per hour (cooling capacity), the Secretary shall use commercial energy prices and operating patterns in all analyses conducted by the Secretary.
 
@@ -281,7 +281,7 @@
 
         (10) __Single package vertical air conditioners and single package vertical heat pumps.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Single package vertical air conditioners and single package vertical heat pumps manufactured on or after January 1, 2010, shall meet the following standards:
 
@@ -301,7 +301,7 @@
 
                 (viii) The minimum energy efficiency ratio of single package vertical heat pumps at or above 135,000 Btu per hour (cooling capacity) but less than 240,000 Btu per hour (cooling capacity), shall be 8.6 and the minimum coefficient of performance in the heating mode shall be 2.9.
 
-            (B) __Review.—__ 
+            (B)  __Review__  __.—__ 
 
             Not later than 3 years after December 19, 2007, the Secretary shall review the most recently published ASHRAE/IES Standard 90.1 with respect to single package vertical air conditioners and single package vertical heat pumps in accordance with the procedures established under paragraph (6).
 
@@ -995,19 +995,19 @@
 
         (2) __Electric motors.—__ 
 
-            (A) __General purpose electric motors (subtype i).—__ 
+            (A)  __General purpose electric motors (subtype i)__  __.—__ 
 
             Except as provided in subparagraph (B), each general purpose electric motor (subtype I) with a power rating of 1 horsepower or greater, but not greater than 200 horsepower, manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007, shall have a nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–12.
 
-            (B) __Fire pump motors.—__ 
+            (B)  __Fire pump motors__  __.—__ 
 
             Each fire pump motor manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007, shall have nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–11.
 
-            (C) __General purpose electric motors (subtype ii).—__ 
+            (C)  __General purpose electric motors (subtype ii)__  __.—__ 
 
             Each general purpose electric motor (subtype II) with a power rating of 1 horsepower or greater, but not greater than 200 horsepower, manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007, shall have a nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–11.
 
-            (D) __NEMA design b, general purpose electric motors.—__ 
+            (D) __NEMA__  __design b, general purpose electric motors__  __.—__ 
 
             Each NEMA Design B, general purpose electric motor with a power rating of more than 200 horsepower, but not greater than 500 horsepower, manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007, shall have a nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–11.
 

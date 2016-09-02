@@ -79,7 +79,7 @@
 
 [Pub. L. 110–325, § 2][/us/pl/110/325/s2], Sept. 25, 2008, [122 Stat. 3553][/us/stat/122/3553], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -99,7 +99,7 @@
 
 >         “(8) Congress finds that the current Equal Employment Opportunity Commission ADA regulations defining the term ‘substantially limits’ as ‘significantly restricted’ are inconsistent with congressional intent, by expressing too high a standard.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this Act \[see Short Title of 2008 Amendment note above\] are—
 

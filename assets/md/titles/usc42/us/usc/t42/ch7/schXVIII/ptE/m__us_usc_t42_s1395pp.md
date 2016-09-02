@@ -181,19 +181,19 @@
 
 [Pub. L. 108–173, title IX, § 938(c)][/us/pl/108/173/s938/c], Dec. 8, 2003, [117 Stat. 2415][/us/stat/117/2415], provided that:
 
->     “(1) __Data collection.—__ 
+>     “(1)  __Data collection__  __.—__ 
 
 >     The Secretary \[of Health and Human Services\] shall establish a process for the collection of information on the instances in which an advance beneficiary notice (as defined in paragraph (5)) has been provided and on instances in which a beneficiary indicates on such a notice that the beneficiary does not intend to seek to have the item or service that is the subject of the notice furnished.
 
->     “(2) __Outreach and education.—__ 
+>     “(2)  __Outreach and education__  __.—__ 
 
 >     The Secretary shall establish a program of outreach and education for beneficiaries and providers of services and other persons on the appropriate use of advance beneficiary notices and coverage policies under the medicare program.
 
->     “(3) __GAO report on use of advance beneficiary notices.—__ 
+>     “(3) __GAO__  __report on use of advance beneficiary notices__  __.—__ 
 
 >     Not later than 18 months after the date on which section 1869(h) of the Social Security Act \[[42 U.S.C. 1395ff(h)][/us/usc/t42/s1395ff/h]\] (as added by subsection (a)) takes effect, the Comptroller General of the United States shall submit to Congress a report on the use of advance beneficiary notices under title XVIII of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\]. Such report shall include information concerning the providers of services and other persons that have provided such notices and the response of beneficiaries to such notices.
 
->     “(4) __GAO report on use of prior determination process.—__ 
+>     “(4) __GAO__  __report on use of prior determination process__  __.—__ 
 
 >     Not later than 36 months after the date on which section 1869(h) of the Social Security Act \[[42 U.S.C. 1395ff(h)][/us/usc/t42/s1395ff/h]\] (as added by subsection (a)) takes effect, the Comptroller General of the United States shall submit to Congress a report on the use of the prior determination process under such section. Such report shall include—
 
@@ -215,7 +215,7 @@
 
 >         “(C) recommendations for improvements or continuation of such process.
 
->     “(5) __Advance beneficiary notice defined.—__ 
+>     “(5)  __Advance beneficiary notice defined__  __.—__ 
 
 >     In this subsection, the term ‘advance beneficiary notice’ means a written notice provided under section 1879(a) of the Social Security Act ([42 U.S.C. 1395pp(a)][/us/usc/t42/s1395pp/a]) to an individual entitled to benefits under part A or enrolled under part B of title XVIII of such Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq.\] before items or services are furnished under such part in cases where a provider of services or other person that would furnish the item or service believes that payment will not be made for some or all of such items or services under such title \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].”
 

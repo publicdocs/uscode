@@ -145,7 +145,7 @@
 
 [Pub. L. 102–486, title I, § 121][/us/pl/102/486/s121], Oct. 24, 1992, [106 Stat. 2805][/us/stat/106/2805], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >         (1) The Secretary shall, after consulting with the National Fenestration Rating Council, industry representatives, and other appropriate organizations, provide financial assistance to support a voluntary national window rating program that will develop energy ratings and labels for windows and window systems.
 
@@ -159,11 +159,11 @@
 
 >         “(3) Such rating program shall be developed by the National Fenestration Rating Council according to commonly accepted procedures for the development of national testing procedures and labeling programs.
 
->     “(b) __Monitoring.—__ 
+>     “(b)  __Monitoring__  __.—__ 
 
 >     The Secretary shall monitor and evaluate the efforts of the National Fenestration Rating Council and, not later than one year after the date of the enactment of this Act \[Oct. 24, 1992\], make a determination as to whether the program developed by the Council is consistent with the objectives of subsection (a).
 
->     “(c) __Alternative System.—__ 
+>     “(c)  __Alternative System__  __.—__ 
 
 >         (1) If the Secretary makes a determination under subsection (b) that a voluntary national window rating program consistent with the objectives of subsection (a) has not been developed, the Secretary shall, after consultation with the National Institute of Standards and Technology, develop, not later than two years after such determination, test procedures under section 323 of the Energy Policy and Conservation Act ([42 U.S.C. 6293][/us/usc/t42/s6293]) for windows and window systems.
 
@@ -177,7 +177,7 @@
 
 [Pub. L. 102–486, title I, § 125][/us/pl/102/486/s125], Oct. 24, 1992, [106 Stat. 2833][/us/stat/106/2833], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >         (1) The Secretary shall, after consulting with the Computer and Business Equipment Manufacturers Association and other interested organizations, provide financial and technical assistance to support a voluntary national testing and information program for those types of commercial office equipment that are widely used and for which there is a potential for significant energy savings as a result of such program.
 
@@ -193,11 +193,11 @@
 
 >         “(3) Such program shall be developed by an appropriate organization (composed of interested parties) according to commonly accepted procedures for the development of national testing procedure and labeling programs.
 
->     “(b) __Monitoring.—__ 
+>     “(b)  __Monitoring__  __.—__ 
 
 >     The Secretary shall monitor and evaluate the efforts to develop the program described in subsection (a) and, not later than three years after the date of the enactment of this Act \[Oct. 24, 1992\], shall make a determination as to whether such program is consistent with the objectives of subsection (a).
 
->     “(c) __Alternative System.—__ 
+>     “(c)  __Alternative System__  __.—__ 
 
 >         (1) If the Secretary makes a determination under subsection (b) that a voluntary national testing and information program for commercial office equipment consistent with the objectives of subsection (a) has not been developed, the Secretary shall, after consultation with the National Institute of Standards and Technology, develop, not later than two years after such determination, test procedures under section 323 of the Energy Policy and Conservation Act ([42 U.S.C. 6293][/us/usc/t42/s6293]) for such commercial office equipment.
 
@@ -211,7 +211,7 @@
 
 [Pub. L. 102–486, title I, § 126][/us/pl/102/486/s126], Oct. 24, 1992, [106 Stat. 2834][/us/stat/106/2834], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >         (1) The Secretary shall, after consulting with the National Electric Manufacturers Association, the American Lighting Association, and other interested organizations, provide financial and technical assistance to support a voluntary national testing and information program for those types of luminaires that are widely used and for which there is a potential for significant energy savings as a result of such program.
 
@@ -227,11 +227,11 @@
 
 >         “(3) Such program shall be developed by an appropriate organization (composed of interested parties) according to commonly accepted procedures for the development of national testing procedures and labeling programs.
 
->     “(b) __Monitoring.—__ 
+>     “(b)  __Monitoring__  __.—__ 
 
 >     The Secretary shall monitor and evaluate the efforts to develop the program described in subsection (a) and, not later than three years after the date of the enactment of this Act \[Oct. 24, 1992\], shall make a determination as to whether the program developed is consistent with the objectives of subsection (a).
 
->     “(c) __Alternative System.—__ 
+>     “(c)  __Alternative System__  __.—__ 
 
 >         (1) If the Secretary makes a determination under subsection (b) that a voluntary national testing and information program for luminaires consistent with the objectives of subsection (a) has not been developed, the Secretary shall, after consultation with the National Institute of Standards and Technology, develop, not later than two years after such determination, test procedures under section 323 of the Energy Policy and Conservation Act ([42 U.S.C. 6293][/us/usc/t42/s6293]) for such luminaires.
 
@@ -245,11 +245,11 @@
 
 [Pub. L. 102–486, title I, § 127][/us/pl/102/486/s127], Oct. 24, 1992, [106 Stat. 2835][/us/stat/106/2835], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 18 months after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary shall, in consultation with the Administrator of the Environmental Protection Agency, utilities, and appliance manufacturers, prepare and submit to the Congress, a report on the potential for the development and commercialization of appliances which are substantially more efficient than required by Federal or State law.
 
->     “(b) __Identification of High-Efficiency Appliances.—__ 
+>     “(b)  __Identification of High-Efficiency Appliances__  __.—__ 
 
 >     The report submitted under subsection (a) shall identify candidate high-efficiency appliances which meet the following criteria:
 
@@ -263,7 +263,7 @@
 
 >         “(5) Manufacturers are unlikely to undertake development and commercialization of such appliances on their own, or development and production would be substantially accelerated by support to manufacturers.
 
->     “(c) __Recommendations and Proposals.—__ 
+>     “(c)  __Recommendations and Proposals__  __.—__ 
 
 >     The report submitted under subsection (a) shall also—
 

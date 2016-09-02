@@ -39,11 +39,11 @@
 
 [Pub. L. 109–162, title XI, § 1121(b)][/us/pl/109/162/s1121/b], Jan. 5, 2006, [119 Stat. 3107][/us/stat/119/3107], provided that:
 
->     “(1) __Abolishment.—__ 
+>     “(1)  __Abolishment__  __.—__ 
 
 >     The Executive Office of Weed and Seed is abolished.
 
->     “(2) __Transfer.—__ 
+>     “(2)  __Transfer__  __.—__ 
 
 >     There are hereby transferred to the Office of Weed and Seed Strategies all functions and activities performed immediately before the date of the enactment of this Act \[Jan. 5, 2006\] by the Executive Office of Weed and Seed Strategies.”
 

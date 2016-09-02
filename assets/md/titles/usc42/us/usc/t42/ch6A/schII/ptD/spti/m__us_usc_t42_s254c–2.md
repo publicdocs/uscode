@@ -67,7 +67,7 @@
 
 [Pub. L. 105–33, title IV, § 4923][/us/pl/105/33/s4923], Aug. 5, 1997, [111 Stat. 574][/us/stat/111/574], as amended by [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 931(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–585; [Pub. L. 107–360, § 1(c)][/us/pl/107/360/s1/c], Dec. 17, 2002, [116 Stat. 3019][/us/stat/116/3019]; [Pub. L. 109–482, title I, § 104(b)(3)(C)][/us/pl/109/482/s104/b/3/C], Jan. 15, 2007, [120 Stat. 3694][/us/stat/120/3694]; [Pub. L. 110–275, title III, § 303(c)][/us/pl/110/275/s303/c], July 15, 2008, [122 Stat. 2594][/us/stat/122/2594], provided that:
 
->     “(a) __Evaluation.—__ 
+>     “(a)  __Evaluation__  __.—__ 
 
 >     The Secretary of Health and Human Services shall conduct an evaluation of the diabetes grant programs established under the amendments made by this chapter \[chapter 3 (§§ 4921–4923) of subtitle J of title IV of [Pub. L. 105–33][/us/pl/105/33], enacting this section and [section 254c–3 of this title][/us/usc/t42/s254c–3]\].
 

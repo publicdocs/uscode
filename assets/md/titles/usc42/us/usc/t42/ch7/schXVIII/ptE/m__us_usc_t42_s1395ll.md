@@ -83,11 +83,11 @@
 
 >     “(a) __Evaluation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than the date that is 2 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall enter into an arrangement under which the Institute of Medicine of the National Academy of Sciences (in this section referred to as the ‘Institute’) shall conduct an evaluation of leading health care performance measures in the public and private sectors and options to implement policies that align performance with payment under the medicare program under title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.).
 
->         “(2) __Specific matters evaluated.—__ 
+>         “(2)  __Specific matters evaluated__  __.—__ 
 
 >         In conducting the evaluation under paragraph (1), the Institute shall—
 
@@ -105,19 +105,19 @@
 
 >                 “(iii) the key implementation issues (such as data and information technology requirements) that must be addressed.
 
->         “(3) __Scope of health care performance measures.—__ 
+>         “(3)  __Scope of health care performance measures__  __.—__ 
 
 >         The health care performance measures described in paragraph (2)(A) shall encompass a variety of perspectives, including physicians, hospitals, other health care providers, health plans, purchasers, and patients.
 
->         “(4) __Consultation with medpac.—__ 
+>         “(4)  __Consultation with medpac__  __.—__ 
 
 >         In evaluating the matters described in paragraph (2)(C), the Institute shall consult with the Medicare Payment Advisory Commission established under section 1805 of the Social Security Act ([42 U.S.C. 1395b–6][/us/usc/t42/s1395b–6]).
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than the date that is 18 months after the date of enactment of this Act \[Dec. 8, 2003\], the Institute shall submit to the Secretary and appropriate committees of jurisdiction of the Senate and House of Representatives a report on the evaluation conducted under subsection (a)(1) describing the findings of such evaluation and recommendations for an overall strategy and approach for aligning payment with performance, including options for updating performance measures, in the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq.\], the Medicare Advantage program under part C of such title \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\], and any other programs under such title XVIII \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated such sums as may be necessary for purposes of conducting the evaluation and preparing the report required by this section.”
 
@@ -125,7 +125,7 @@
 
 [Pub. L. 108–173, title VI, § 604][/us/pl/108/173/s604], Dec. 8, 2003, [117 Stat. 2301][/us/stat/117/2301], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct a study on access of medicare beneficiaries to physicians’ services under the medicare program. The study shall include—
 
@@ -135,7 +135,7 @@
 
 >         “(3) an examination of the extent to which physicians are not accepting new medicare beneficiaries as patients.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 18 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Comptroller General shall submit to Congress a report on the study conducted under subsection (a). The report shall include a determination whether—
 
@@ -147,7 +147,7 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IV, § 413\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–515, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct a study of the current medicare enrollment process for groups that retain independent contractor physicians with particular emphasis on hospital-based physicians, such as emergency department staffing groups. In conducting the evaluation, the Comptroller General shall consult with groups that retain independent contractor physicians and shall—
 
@@ -159,7 +159,7 @@
 
 >         “(4) develop suggested procedures for the enrollment of these groups.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Dec. 21, 2000\], the Comptroller General shall submit to Congress a report on the study conducted under subsection (a).”
 
@@ -169,7 +169,7 @@
 
 >     “(a) __GAO Study on HCFA Post-Payment Audit Process.—__ 
 
->         “(1) __Study.—__ 
+>         “(1)  __Study__  __.—__ 
 
 >         The Comptroller General of the United States shall conduct a study on the post-payment audit process under the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] as such process applies to physicians, including the proper level of resources that the Health Care Financing Administration should devote to educating physicians regarding—
 
@@ -179,17 +179,17 @@
 
 >             “(C) the calculation of overpayments.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than 18 months after the date of the enactment of this Act \[Dec. 21, 2000\], the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1) together with specific recommendations for changes or improvements in the post-payment audit process described in such paragraph.
 
 >     “(b) __GAO Study on Administration and Oversight.—__ 
 
->         “(1) __Study.—__ 
+>         “(1)  __Study__  __.—__ 
 
 >         The Comptroller General of the United States shall conduct a study on the aggregate effects of regulatory, audit, oversight, and paperwork burdens on physicians and other health care providers participating in the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than 18 months after the date of the enactment of this Act \[Dec. 21, 2000\], the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1) together with recommendations regarding any area in which—
 
@@ -201,11 +201,11 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title II, § 211(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–349, provided that:
 
->     “(1) __Study by secretary.—__ 
+>     “(1)  __Study by secretary__  __.—__ 
 
 >     The Secretary of Health and Human Services, acting through the Administrator of the Agency for Health Care Policy and Research, shall conduct a study of the issues specified in paragraph (2).
 
->     “(2) __Issues to be studied.—__ 
+>     “(2)  __Issues to be studied__  __.—__ 
 
 >     The issues specified in this paragraph are the following:
 
@@ -225,11 +225,11 @@
 
 >         “(C) Other factors that may be reliable predictors of beneficiary utilization of physicians’ services under the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.).
 
->     “(3) __Report to congress.—__ 
+>     “(3)  __Report to congress__  __.—__ 
 
 >     Not later than 3 years after the date of the enactment of this Act \[Nov. 29, 1999\], the Secretary of Health and Human Services shall submit a report to Congress setting forth the results of the study conducted pursuant to paragraph (1), together with any recommendations the Secretary determines are appropriate.
 
->     “(4) __Medpac report to congress.—__ 
+>     “(4)  __Medpac report to congress__  __.—__ 
 
 >     Not later than 180 days after the date of submission of the report under paragraph (3), the Medicare Payment Advisory Commission shall submit a report to Congress that includes—
 

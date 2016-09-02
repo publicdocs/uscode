@@ -33,11 +33,11 @@
 
 [Pub. L. 103–120, § 4][/us/pl/103/120/s4], Oct. 27, 1993, [107 Stat. 1148][/us/stat/107/1148], as amended by [Pub. L. 105–18, title II, § 10004][/us/pl/105/18/s10004], June 12, 1997, [111 Stat. 201][/us/stat/111/201], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary is authorized to provide assistance through the National Community Development Initiative, Local Initiatives Support Corporation, The Enterprise Foundation, Habitat for Humanity, and Youthbuild USA to develop the capacity and ability of community development corporations and community housing development organizations to undertake community development and affordable housing projects and programs.
 
->     “(b) __Form of Assistance.—__ 
+>     “(b)  __Form of Assistance__  __.—__ 
 
 >     Assistance under this section may be used for—
 
@@ -47,15 +47,15 @@
 
 >         “(3) such other activities as may be determined by the National Community Development Initiative, Local Initiatives Support Corporation, The Enterprise Foundation, Habitat for Humanity, and Youthbuild USA in consultation with the Secretary.
 
->     “(c) __Matching Requirement.—__ 
+>     “(c)  __Matching Requirement__  __.—__ 
 
 >     Assistance provided under this section shall be matched from private sources in an amount equal to 3 times the amount made available under this section.
 
->     “(d) __Implementation.—__ 
+>     “(d)  __Implementation__  __.—__ 
 
 >     The Secretary shall by notice establish such requirements as may be necessary to carry out the provisions of this section. The notice shall take effect upon issuance.
 
->     “(e) __Authorization.—__ 
+>     “(e)  __Authorization__  __.—__ 
 
 >     There are authorized to be appropriated $25,000,000 for fiscal year 1994 to carry out this section.”
 

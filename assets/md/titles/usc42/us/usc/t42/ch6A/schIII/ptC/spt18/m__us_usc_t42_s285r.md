@@ -113,7 +113,7 @@
 
 [Pub. L. 106–580, § 3(b)][/us/pl/106/580/s3/b]–(d), Dec. 29, 2000, [114 Stat. 3091][/us/stat/114/3091], provided that:
 
->     “(b) __Use of Existing Resources.—__ 
+>     “(b)  __Use of Existing Resources__  __.—__ 
 
 >     In providing for the establishment of the National Institute of Biomedical Imaging and Bioengineering pursuant to the amendment made by subsection (a) \[enacting this subpart\], the Director of the National Institutes of Health (referred to in this subsection as ‘NIH’)—
 
@@ -123,11 +123,11 @@
 
 >         “(3) may obtain administrative support for the Institute from the other agencies of NIH, including the other national research institutes.
 
->     “(c) __Construction of Facilities.—__ 
+>     “(c)  __Construction of Facilities__  __.—__ 
 
 >     None of the provisions of this Act \[enacting this subpart, amending [section 281 of this title][/us/usc/t42/s281], and enacting provisions set out as notes under this section and [section 201 of this title][/us/usc/t42/s201]\] or the amendments made by the Act may be construed as authorizing the construction of facilities, or the acquisition of land, for purposes of the establishment or operation of the National Institute of Biomedical Imaging and Bioengineering.
 
->     “(d) __Date Certain for Establishment of Advisory Council.—__ 
+>     “(d)  __Date Certain for Establishment of Advisory Council__  __.—__ 
 
 >     Not later than 90 days after the effective date of this Act \[Dec. 29, 2000\] under section 4 \[set out above\], the Secretary of Health and Human Services shall complete the establishment of an advisory council for the National Institute of Biomedical Imaging and Bioengineering in accordance with section 406 of the Public Health Service Act \[[42 U.S.C. 284a][/us/usc/t42/s284a]\] and in accordance with section 464z of such Act (as added by subsection (a) of this section) \[[42 U.S.C. 285r][/us/usc/t42/s285r]\].”
 

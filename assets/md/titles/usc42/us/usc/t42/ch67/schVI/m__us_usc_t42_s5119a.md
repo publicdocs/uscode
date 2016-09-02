@@ -97,45 +97,45 @@
 
 >     “(a) __Establishment of Pilot Program.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 90 days after the date of the enactment of this Act \[Apr. 30, 2003\], the Attorney General shall establish a pilot program for volunteer groups to obtain national and State criminal history background checks through a 10-fingerprint check to be conducted utilizing State criminal records and the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation.
 
 >         “(2) __State pilot program.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Attorney General shall designate 3 States as participants in a 30-month State pilot program.
 
->             “(B) __Volunteer organization requests.—__ 
+>             “(B)  __Volunteer organization requests__  __.—__ 
 
 >             A volunteer organization in one of the 3 States participating in the State pilot program under this paragraph that is part of the Boys and Girls Clubs of America, the National Mentoring Partnerships, or the National Council of Youth Sports may submit a request for a 10-fingerprint check from the participating State.
 
->             “(C) __State check.—__ 
+>             “(C)  __State check__  __.—__ 
 
 >             The participating State under this paragraph after receiving a request under subparagraph (B) shall conduct a State background check and submit a request that a Federal check be performed through the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation, to the Attorney General, in a manner to be determined by the Attorney General.
 
->             “(D) __Information provided.—__ 
+>             “(D)  __Information provided__  __.—__ 
 
 >             Under procedures established by the Attorney General, any criminal history record information resulting from the State and Federal check under subparagraph (C) shall be provided to the State or National Center for Missing and Exploited Children consistent with the National Child Protection Act \[of 1993, [42 U.S.C. 5119][/us/usc/t42/s5119] et seq.\].
 
->             “(E) __Costs.—__ 
+>             “(E)  __Costs__  __.—__ 
 
 >             A State may collect a fee to perform a criminal background check under this paragraph which may not exceed the actual costs to the State to perform such a check.
 
->             “(F) __Timing.—__ 
+>             “(F)  __Timing__  __.—__ 
 
 >             For any background check performed under this paragraph, the State shall provide the State criminal record information to the Attorney General within 7 days after receiving the request from the organization, unless the Attorney General determines during the feasibility study that such a check cannot reasonably be performed within that time period. The Attorney General shall provide the criminal history records information to the National Center for Missing and Exploited Children within 7 business days after receiving the request from the State.
 
 >         “(3) __Child safety pilot program.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Attorney General shall establish a 104-month Child Safety Pilot Program that shall provide for the processing of 200,000 10-fingerprint check requests from organizations described in subparagraph (B) conducted through the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation.
 
 >             “(B) __Participating organizations.—__ 
 
->                 “(i) __Eligible organizations.—__ 
+>                 “(i)  __Eligible organizations__  __.—__ 
 
 >                 Eligible organizations include—
 
@@ -147,19 +147,19 @@
 
 >                          “(IV) any nonprofit organization that provides care, as that term is defined in section 5 of the National Child Protection Act of 1993 ([42 U.S.C. 5119c][/us/usc/t42/s5119c]), for children.
 
->                 “(ii) __Pilot program.—__ 
+>                 “(ii)  __Pilot program__  __.—__ 
 
 >                 The eligibility of an organization described in clause (i)(IV) to participate in the pilot program established under this section shall be determined by the National Center for Missing and Exploited Children, with the rejection or concurrence within 30 days of the Attorney General, according to criteria established by such Center, including the potential number of applicants and suitability of the organization to the intent of this section. If the Attorney General fails to reject or concur within 30 days, the determination of the National Center for Missing and Exploited Children shall be conclusive.
 
->             “(C) __Applicants from participating organizations.—__ 
+>             “(C)  __Applicants from participating organizations__  __.—__ 
 
 >             Participating organizations may request background checks on applicants for positions as volunteers and employees who will be working with children or supervising volunteers.
 
->             “(D) __Procedures.—__ 
+>             “(D)  __Procedures__  __.—__ 
 
 >             The Attorney General shall notify participating organizations of a process by which the organizations may provide fingerprint cards to the Attorney General.
 
->             “(E) __Volunteer information required.—__ 
+>             “(E)  __Volunteer information required__  __.—__ 
 
 >             An organization authorized to request a background check under this paragraph shall—
 
@@ -179,25 +179,25 @@
 
 >                          “(V) notifies the volunteer of his right to correct an erroneous record held by the Attorney General.
 
->             “(F) __Timing.—__ 
+>             “(F)  __Timing__  __.—__ 
 
 >             For any background checks performed under this paragraph, the Attorney General shall provide the criminal history records information to the National Center for Missing and Exploited Children within 10 business days after receiving the request from the organization.
 
 >             “(G) __Determinations of fitness.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Consistent with the privacy protections delineated in the National Child Protection Act \[of 1993\] ([42 U.S.C. 5119][/us/usc/t42/s5119] \[et seq.\]), the National Center for Missing and Exploited Children may make a determination whether the criminal history record information received in response to the criminal history background checks conducted under this paragraph indicates that the provider or volunteer has a criminal history record that renders the provider or volunteer unfit to provide care to children based upon criteria established jointly by, the National Center for Missing and Exploited Children, the Boys and Girls Clubs of America, the National Mentoring Partnership, and the National Council of Youth Sports.
 
->                 “(ii) __Child safety pilot program.—__ 
+>                 “(ii)  __Child safety pilot program__  __.—__ 
 
 >                 The National Center for Missing and Exploited Children shall convey that determination to the organizations making requests under this paragraph.
 
->         “(4) __Fees collected by attorney general.—__ 
+>         “(4)  __Fees collected by attorney general__  __.—__ 
 
 >         The Attorney General may collect a fee which may not exceed $18 to cover the cost to the Federal Bureau of Investigation to conduct the background check under paragraph (2) or (3).
 
->     “(b) __Rights of Volunteers.—__ 
+>     “(b)  __Rights of Volunteers__  __.—__ 
 
 >     Each volunteer who is the subject of a criminal history background check under this section is entitled to contact the Attorney General to initiate procedures to—
 
@@ -207,17 +207,17 @@
 
 >     “(c) __Authorization of Appropriations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There is authorized to be appropriated such sums as may be necessary to the National Center for Missing and Exploited Children for fiscal years 2004 through 2008 to carry out the requirements of this section.
 
->         “(2) __State program.—__ 
+>         “(2)  __State program__  __.—__ 
 
 >         There is authorized to be appropriated such sums as may be necessary to the Attorney General for the States designated in subsection (a)(1) for fiscal years 2004 and 2005 to establish and enhance fingerprint technology infrastructure of the participating State.
 
 >     “(d) __Feasibility Study for a System of Background Checks for Employees and Volunteers.—__ 
 
->         “(1) __Study required.—__ 
+>         “(1)  __Study required__  __.—__ 
 
 >         The Attorney General shall conduct a feasibility study within 180 days after the date of the enactment of this Act \[Apr. 30, 2003\]. The study shall examine, to the extent discernible, the following:
 
@@ -251,15 +251,15 @@
 
 >             “(O) The extent of participation by eligible organizations in the state pilot program.
 
->         “(2) __Interim report.—__ 
+>         “(2)  __Interim report__  __.—__ 
 
 >         Based on the findings of the feasibility study under paragraph (1), the Attorney General shall, not later than 180 days after the date of the enactment of this Act \[Apr. 30, 2003\], submit to Congress an interim report, which may include recommendations for a pilot project to develop or improve programs to collect fingerprints and perform background checks on individuals that seek to volunteer with organizations that work with children, the elderly, or the disabled.
 
->         “(3) __Final report.—__ 
+>         “(3)  __Final report__  __.—__ 
 
 >         Based on the findings of the pilot project, the Attorney General shall, not later than 60 days after completion of the pilot project under this section, submit to Congress a final report, including recommendations, which may include a proposal for grants to the States to develop or improve programs to collect fingerprints and perform background checks on individuals that seek to volunteer with organizations that work with children, the elderly, or the disabled, and which may include recommendations for amendments to the National Child Protection Act \[of 1993\] and the Volunteers for Children Act \[see Short Title of 1998 Amendment note set out under [section 5101 of this title][/us/usc/t42/s5101]\] so that qualified entities can promptly and affordably conduct nationwide criminal history background checks on their employees and volunteers.
 
->     “(e) __Limitation on Liability.—__ 
+>     “(e)  __Limitation on Liability__  __.—__ 
 
 >     In connection with the Pilot Programs established under this section, in reliance upon the fitness criteria established under section 108(a)(3)(G)(i), and except upon proof of actual malice or intentional misconduct, the National Center for Missing and Exploited Children, or a director, officer, employee, or agent of the Center shall not be liable in any civil action for damages—
 

@@ -335,7 +335,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 104–182, title III, § 302][/us/pl/104/182/s302], Aug. 6, 1996, [110 Stat. 1683][/us/stat/110/1683], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law, at any time after the date 1 year after a State establishes a State loan fund pursuant to section 1452 of the Safe Drinking Water Act \[[42 U.S.C. 300j–12][/us/usc/t42/s300j–12]\] but prior to fiscal year 2002, a Governor of the State may—
 
@@ -343,11 +343,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(2) reserve in any year a dollar amount up to the dollar amount that may be reserved under paragraph (1) for that year from capitalization grants made pursuant to section 601 of such Act ([33 U.S.C. 1381][/us/usc/t33/s1381]) and add the reserved funds to any funds provided to the State pursuant to section 1452 of the Safe Drinking Water Act.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 4 years after the date of enactment of this Act \[Aug. 6, 1996\], the Administrator shall submit a report to the Congress regarding the implementation of this section, together with the Administrator’s recommendations, if any, for modifications or improvement.
 
->     “(c) __State Match.—__ 
+>     “(c)  __State Match__  __.—__ 
 
 >     Funds reserved pursuant to this section shall not be considered to be a State match of a capitalization grant required pursuant to section 1452 of the Safe Drinking Water Act or the Federal Water Pollution Control Act ([33 U.S.C. 1251][/us/usc/t33/s1251] et seq.).”
 

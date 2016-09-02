@@ -67,11 +67,11 @@
 
 [Pub. L. 105–33, title IV, § 4311(b)(3)][/us/pl/105/33/s4311/b/3], Aug. 5, 1997, [111 Stat. 386][/us/stat/111/386], provided that:
 
->     “(A) __Statement by secretary.—__ 
+>     “(A)  __Statement by secretary__  __.—__ 
 
 >     Paragraph (1) of section 1806(a) of the Social Security Act \[[42 U.S.C. 1395b–7(a)(1)][/us/usc/t42/s1395b–7/a/1]\], as added by paragraph (1), and the repeal made by paragraph (2) \[amending [section 1395b–5 of this title][/us/usc/t42/s1395b–5]\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].
 
->     “(B) __Itemized statement.—__ 
+>     “(B)  __Itemized statement__  __.—__ 
 
 >     Paragraph (2) of section 1806(a) and section 1806(b) of the Social Security Act \[[42 U.S.C. 1395b–7(a)(2)][/us/usc/t42/s1395b–7/a/2], (b)\], as so added, shall take effect not later than January 1, 1999.”
 
@@ -79,11 +79,11 @@
 
 [Pub. L. 108–173, title IX, § 925][/us/pl/108/173/s925], Dec. 8, 2003, [117 Stat. 2396][/us/stat/117/2396], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary \[of Health and Human Services\] shall provide that in medicare beneficiary notices provided (under section 1806(a) of the Social Security Act, [42 U.S.C. 1395b–7(a)][/us/usc/t42/s1395b–7/a]) with respect to the provision of post-hospital extended care services under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\], there shall be included information on the number of days of coverage of such services remaining under such part for the medicare beneficiary and spell of illness involved.
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     Subsection (a) shall apply to notices provided during calendar quarters beginning more than 6 months after the date of the enactment of this Act \[Dec. 8, 2003\].”
 

@@ -85,17 +85,17 @@
 
 [Pub. L. 100–202, § 101(d)][/us/pl/100/202/s101/d] \[title III, § 300\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–121, and [Pub. L. 100–203, title V, § 5062][/us/pl/100/203/s5062], Dec. 22, 1987, [101 Stat. 1330–251][/us/stat/101/1330-251], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law, no form of plutonium may be transported by aircraft through the air space of the United States from a foreign nation to a foreign nation unless the Nuclear Regulatory Commission has certified to Congress that the container in which such plutonium is transported is safe, as determined in accordance with subsection (b), the second undesignated paragraph under [section 201 of Public Law 94–79][/us/pl/94/79/s201] ([89 Stat. 413][/us/stat/89/413]; [42 U.S.C. 5841][/us/usc/t42/s5841] note), and all other applicable laws.
 
 >     “(b) __Responsibilities of the Nuclear Regulatory Commission.—__ 
 
->         “(1) __Determination of safety.—__ 
+>         “(1)  __Determination of safety__  __.—__ 
 
 >         The Nuclear Regulatory Commission shall determine whether the container referred to in subsection (a) is safe for use in the transportation of plutonium by aircraft and transmit to Congress a certification for the purposes of such subsection in the case of each container determined to be safe.
 
->         “(2) __Testing.—__ 
+>         “(2)  __Testing__  __.—__ 
 
 >         In order to make a determination with respect to a container under paragraph (1), the Nuclear Regulatory Commission shall—
 
@@ -103,15 +103,15 @@
 
 >             “(B) require an actual crash test of a cargo aircraft fully loaded with full-scale samples of such container loaded with test material unless the Commission determines, after consultation with an independent scientific review panel, that the stresses on the container produced by other tests used in developing the container exceed the stresses which would occur during a worst case plutonium air shipment accident.
 
->         “(3) __Limitation.—__ 
+>         “(3)  __Limitation__  __.—__ 
 
 >         The Nuclear Regulatory Commission may not certify under this section that a container is safe for use in the transportation of plutonium by aircraft if the container ruptured or released its contents during testing conducted in accordance with paragraph (2).
 
->         “(4) __Evaluation.—__ 
+>         “(4)  __Evaluation__  __.—__ 
 
 >         The Nuclear Regulatory Commission shall evaluate the container certification required by title II of the Energy Reorganization Act of 1974 ([42 U.S.C. 5841][/us/usc/t42/s5841] et seq.) and subsection (a) in accordance with the National Environmental Policy Act of 1969 ([83 Stat. 852][/us/stat/83/852]; [42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) and all other applicable law.
 
->     “(c) __Content of Certification.—__ 
+>     “(c)  __Content of Certification__  __.—__ 
 
 >     A certification referred to in subsection (a) with respect to a container shall include—
 
@@ -121,31 +121,31 @@
 
 >         “(3) a statement that the container did not rupture or release its contents into the environment during testing.
 
->     “(d) __Design of Testing Procedures.—__ 
+>     “(d)  __Design of Testing Procedures__  __.—__ 
 
 >     The tests required by subsection (b) shall be designed by the Nuclear Regulatory Commission to replicate actual worst case transportation conditions to the maximum extent practicable. In designing such tests, the Commission shall provide for public notice of the proposed test procedures, provide a reasonable opportunity for public comment on such procedures, and consider such comments, if any.
 
->     “(e) __Testing Results: Reports and Public Disclosure.—__ 
+>     “(e)  __Testing Results: Reports and Public Disclosure__  __.—__ 
 
 >     The Nuclear Regulatory Commission shall transmit to Congress a report on the results of each test conducted under this section and shall make such results available to the public.
 
->     “(f) __Alternative Routes and Means of Transportation.—__ 
+>     “(f)  __Alternative Routes and Means of Transportation__  __.—__ 
 
 >     With respect to any shipments of plutonium from a foreign nation to a foreign nation which are subject to United States consent rights contained in an Agreement for Peaceful Nuclear Cooperation, the President is authorized to make every effort to pursue and conclude arrangements for alternative routes and means of transportation, including sea shipment. All such arrangements shall be subject to stringent physical security conditions, and other conditions designed to protect the public health and safety, and provisions of this section, and all other applicable laws.
 
->     “(g) __Inapplicability to Medical Devices.—__ 
+>     “(g)  __Inapplicability to Medical Devices__  __.—__ 
 
 >     Subsections (a) through (e) shall not apply with respect to plutonium in any form contained in a medical device designed for individual human application.
 
->     “(h) __Inapplicability to Military Uses.—__ 
+>     “(h)  __Inapplicability to Military Uses__  __.—__ 
 
 >     Subsections (a) through (e) shall not apply to plutonium in the form of nuclear weapons nor to other shipments of plutonium determined by the Department of Energy to be directly connected with the United States national security or defense programs.
 
->     “(i) __Inapplicability to Previously Certified Containers.—__ 
+>     “(i)  __Inapplicability to Previously Certified Containers__  __.—__ 
 
 >     This section shall not apply to any containers for the shipment of plutonium previously certified as safe by the Nuclear Regulatory Commission under [Public Law 94–79][/us/pl/94/79] ([89 Stat. 413][/us/stat/89/413]; [42 U.S.C. 5841][/us/usc/t42/s5841] note).
 
->     “(j) __Payment of Costs.—__ 
+>     “(j)  __Payment of Costs__  __.—__ 
 
 >     All costs incurred by the Nuclear Regulatory Commission associated with the testing program required by this section, and administrative costs related thereto, shall be reimbursed to the Nuclear Regulatory Commission by any foreign country receiving plutonium shipped through United States airspace in containers specified by the Commission.”
 

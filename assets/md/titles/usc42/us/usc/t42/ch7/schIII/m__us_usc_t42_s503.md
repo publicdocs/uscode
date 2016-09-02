@@ -449,11 +449,11 @@
 
 [Pub. L. 112–40, title II, § 251(c)][/us/pl/112/40/s251/c], Oct. 21, 2011, [125 Stat. 421][/us/stat/125/421], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to erroneous payments established after the end of the 2-year period beginning on the date of the enactment of this Act \[Oct. 21, 2011\].
 
->     “(2) __Authority.—__ 
+>     “(2)  __Authority__  __.—__ 
 
 >     A State may amend its State law to apply such amendments to erroneous payments established prior to the end of the period described in paragraph (1).”
 
@@ -467,11 +467,11 @@
 
 [Pub. L. 108–295, § 2(c)][/us/pl/108/295/s2/c], (d), Aug. 9, 2004, [118 Stat. 1091][/us/stat/118/1091], provided that:
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall, with respect to a State, apply to certifications for payments (under section 302(a) of the Social Security Act \[[42 U.S.C. 502(a)][/us/usc/t42/s502/a]\]) in rate years beginning after the end of the 26-week period beginning on the first day of the first regularly scheduled session of the State legislature beginning on or after the date of the enactment of this Act \[Aug. 9, 2004\].
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
@@ -567,11 +567,11 @@
 
 [Pub. L. 112–40, title II, § 251(b)][/us/pl/112/40/s251/b], Oct. 21, 2011, [125 Stat. 421][/us/stat/125/421], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     As a condition for administering any unemployment compensation program of the United States (as defined in paragraph (2)) as an agent of the United States, if the State determines that an erroneous payment was made by the State to an individual under any such program due to fraud committed by such individual, the State shall assess a penalty on such individual and deposit any such penalty received in the same manner as the State assesses and deposits such penalties under provisions of State law implementing section 303(a)(11) of the Social Security Act \[[42 U.S.C. 503(a)(11)][/us/usc/t42/s503/a/11]\], as added by subsection (a).
 
->     “(2) __Definition.—__ 
+>     “(2)  __Definition__  __.—__ 
 
 >     For purposes of this subsection, the term ‘unemployment compensation program of the United States’ means—
 
@@ -593,15 +593,15 @@
 
 [Pub. L. 105–33, title V, § 5401][/us/pl/105/33/s5401], Aug. 5, 1997, [111 Stat. 603][/us/stat/111/603], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     No provision of a State law under which the base period for such State is defined or otherwise determined shall, for purposes of section 303(a)(1) of the Social Security Act ([42 U.S.C. 503(a)(1)][/us/usc/t42/s503/a/1]), be considered a provision for a method of administration.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For purposes of this section, the terms ‘State law’, ‘base period’, and ‘State’ shall have the meanings given them under section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 \[[Pub. L. 91–373][/us/pl/91/373]\] ([26 U.S.C. 3304][/us/usc/t26/s3304] note).
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     This section shall apply for purposes of any period beginning before, on, or after the date of the enactment of this Act \[Aug. 5, 1997\].”
 

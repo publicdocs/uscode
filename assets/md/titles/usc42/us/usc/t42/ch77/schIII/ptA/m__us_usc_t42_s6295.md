@@ -215,11 +215,11 @@
 
         (4) __Refrigerators and freezers manufactured on or after__  __january 1, 2014__  __.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Not later than December 31, 2010, the Secretary shall publish a final rule determining whether to amend the standards in effect for refrigerators, refrigerator-freezers, and freezers manufactured on or after January 1, 2014.
 
-            (B) __Amended standards.—__ 
+            (B)  __Amended standards__  __.—__ 
 
             The final rule shall contain any amended standards.
 
@@ -449,11 +449,11 @@
 
         (4) __Standards for through-the-wall central air conditioners, through-the-wall central air conditioning heat pumps, and small duct, high velocity systems.—__ 
 
-            (A) __Definitions.—__ 
+            (A)  __Definitions__  __.—__ 
 
             In this paragraph:
 
-                (i) __Small duct, high velocity system.—__ 
+                (i)  __Small duct, high velocity system__  __.—__ 
 
                 The term “small duct, high velocity system” means a heating and cooling product that contains a blower and indoor coil combination that—
 
@@ -461,7 +461,7 @@
 
                     (II) when applied in the field, uses high velocity room outlets generally greater than 1,000 fpm that have less than 6.0 square inches of free area.
 
-                (ii) __Through-the-wall central air conditioner; through-the-wall central air conditioning heat pump.—__ 
+                (ii)  __Through-the-wall central air conditioner; through-the-wall central air conditioning heat pump__  __.—__ 
 
                 The terms “through-the-wall central air conditioner” and “through-the-wall central air conditioning heat pump” mean a central air conditioner or heat pump, respectively, that is designed to be installed totally or partially within a fixed-size opening in an exterior wall, and—
 
@@ -475,13 +475,13 @@
 
                     (V) has a combined outdoor air exchange area of less than 800 square inches (split systems) or less than 1,210 square inches (single packaged systems) as measured on the surface area described in subclause (IV).
 
-                (iii) __Revision.—__ 
+                (iii)  __Revision__  __.—__ 
 
                 The Secretary may revise the definitions contained in this subparagraph through publication of a final rule.
 
             (B) __Small-duct high-velocity systems.—__ 
 
-                (i) __Seasonal energy efficiency ratio.—__ 
+                (i)  __Seasonal energy efficiency ratio__  __.—__ 
 
                 The seasonal energy efficiency ratio for small-duct high-velocity systems shall be not less than—
 
@@ -489,7 +489,7 @@
 
                     (II) 12.00 for products manufactured on or after January 1, 2015.
 
-                (ii) __Heating seasonal performance factor.—__ 
+                (ii)  __Heating seasonal performance factor__  __.—__ 
 
                 The heating seasonal performance factor for small-duct high-velocity systems shall be not less than—
 
@@ -497,7 +497,7 @@
 
                     (II) 7.2 for products manufactured on or after January 1, 2015.
 
-            (C) __Subsequent rulemakings.—__ 
+            (C)  __Subsequent rulemakings__  __.—__ 
 
             The Secretary shall conduct subsequent rulemakings for through-the-wall central air conditioners, through-the-wall central air conditioning heat pumps, and small duct, high velocity systems as part of any rulemaking under this section used to review or revise standards for other central air conditioners and heat pumps.
 
@@ -815,11 +815,11 @@
 
         (5) __Uniform efficiency descriptor for covered water heaters.—__ 
 
-            (A) __Definitions.—__ 
+            (A)  __Definitions__  __.—__ 
 
             In this paragraph:
 
-                (i) __Covered water heater.—__ 
+                (i)  __Covered water heater__  __.—__ 
 
                 The term “covered water heater” means—
 
@@ -827,15 +827,15 @@
 
                     (II) a storage water heater, instantaneous water heater, and unfired hot water storage tank (as defined in [section 6311 of this title][/us/usc/t42/s6311]).
 
-                (ii) __Final rule.—__ 
+                (ii)  __Final rule__  __.—__ 
 
                 The term “final rule” means the final rule published under this paragraph.
 
-            (B) __Publication of final rule.—__ 
+            (B)  __Publication of final rule__  __.—__ 
 
             Not later than 1 year after December 18, 2012, the Secretary shall publish a final rule that establishes a uniform efficiency descriptor and accompanying test methods for covered water heaters.
 
-            (C) __Purpose.—__ 
+            (C)  __Purpose__  __.—__ 
 
             The purpose of the final rule shall be to replace with a uniform efficiency descriptor—
 
@@ -845,33 +845,33 @@
 
             (D) __Effect of final rule.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Notwithstanding any other provision of this subchapter, effective beginning on the effective date of the final rule, the efficiency standard for covered water heaters shall be denominated according to the efficiency descriptor established by the final rule.
 
-                (ii) __Effective date.—__ 
+                (ii)  __Effective date__  __.—__ 
 
                 The final rule shall take effect 1 year after the date of publication of the final rule under subparagraph (B).
 
             (E) __Conversion factor.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The Secretary shall develop a mathematical conversion factor for converting the measurement of efficiency for covered water heaters from the test procedures in effect on December 18, 2012, to the new energy descriptor established under the final rule.
 
-                (ii) __Application.—__ 
+                (ii)  __Application__  __.—__ 
 
                 The conversion factor shall apply to models of covered water heaters affected by the final rule and tested prior to the effective date of the final rule.
 
-                (iii) __Effect on efficiency requirements.—__ 
+                (iii)  __Effect on efficiency requirements__  __.—__ 
 
                 The conversion factor shall not affect the minimum efficiency requirements for covered water heaters otherwise established under this subchapter.
 
-                (iv) __Use.—__ 
+                (iv)  __Use__  __.—__ 
 
                 During the period described in clause (v), a manufacturer may apply the conversion factor established by the Secretary to rerate existing models of covered water heaters that are in existence prior to the effective date of the rule described in clause (v)(II) to comply with the new efficiency descriptor.
 
-                (v) __Period.—__ 
+                (v)  __Period__  __.—__ 
 
                 Clause (iv) shall apply during the period—
 
@@ -879,7 +879,7 @@
 
                     (II) ending on the later of 1 year after the date of publication of the conversion factor, or December 31, 2015.
 
-            (F) __Exclusions.—__ 
+            (F)  __Exclusions__  __.—__ 
 
             The final rule may exclude a specific category of covered water heaters from the uniform efficiency descriptor established under this paragraph if the Secretary determines that the category of water heaters—
 
@@ -887,7 +887,7 @@
 
                 (ii) are  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “is”. </sup></sup>  effectively rated using the thermal efficiency and standby loss descriptors applied (as of December 18, 2012) to the category under [section 6313(a)(5) of this title][/us/usc/t42/s6313/a/5].
 
-            (G) __Options.—__ 
+            (G)  __Options__  __.—__ 
 
             The descriptor set by the final rule may be—
 
@@ -901,19 +901,19 @@
 
                 (v) a new approach.
 
-            (H) __Application.—__ 
+            (H)  __Application__  __.—__ 
 
             The efficiency descriptor and accompanying test method established under the final rule shall apply, to the maximum extent practicable, to all water heating technologies in use as of December 18, 2012, and to future water heating technologies.
 
-            (I) __Participation.—__ 
+            (I)  __Participation__  __.—__ 
 
             The Secretary shall invite interested stakeholders to participate in the rulemaking process used to establish the final rule.
 
-            (J) __Testing of alternative descriptors.—__ 
+            (J)  __Testing of alternative descriptors__  __.—__ 
 
             In establishing the final rule, the Secretary shall contract with the National Institute of Standards and Technology, as necessary, to conduct testing and simulation of alternative descriptors identified for consideration.
 
-            (K) __Existing covered water heaters.—__ 
+            (K)  __Existing covered water heaters__  __.—__ 
 
             A covered water heater shall be considered to comply with the final rule on and after the effective date of the final rule and with any revised labeling requirements established by the Federal Trade Commission to carry out the final rule if the covered water heater—
 
@@ -943,7 +943,7 @@
 
         (3) __Boilers.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to subparagraphs (B) and (C), boilers manufactured on or after September 1, 2012, shall meet the following requirements:
 
@@ -1065,23 +1065,23 @@
 
             (B) __Automatic means for adjusting water temperature.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The manufacturer shall equip each gas, oil, and electric hot water boiler (other than a boiler equipped with a tankless domestic water heating coil) with automatic means for adjusting the temperature of the water supplied by the boiler to ensure that an incremental change in inferred heat load produces a corresponding incremental change in the temperature of water supplied.
 
-                (ii) __Single input rate.—__ 
+                (ii)  __Single input rate__  __.—__ 
 
                 For a boiler that fires at 1 input rate, the requirements of this subparagraph may be satisfied by providing an automatic means that allows the burner or heating element to fire only when the means has determined that the inferred heat load cannot be met by the residual heat of the water in the system.
 
-                (iii) __No inferred heat load.—__ 
+                (iii)  __No inferred heat load__  __.—__ 
 
                 When there is no inferred heat load with respect to a hot water boiler, the automatic means described in clauses (i) and (ii) shall limit the temperature of the water in the boiler to not more than 140 degrees Fahrenheit.
 
-                (iv) __Operation.—__ 
+                (iv)  __Operation__  __.—__ 
 
                 A boiler described in clause (i) or (ii) shall be operable only when the automatic means described in clauses (i), (ii), and (iii) is installed.
 
-            (C) __Exception.—__ 
+            (C)  __Exception__  __.—__ 
 
             A boiler that is manufactured to operate without any need for electricity or any electric connection, electric gauges, electric pumps, electric wires, or electric devices shall not be required to meet the requirements of this paragraph.
 
@@ -1499,7 +1499,7 @@
 
         (9) __Residential clothes washers manufactured on or after__  __january 1, 2011__  __.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             A top-loading or front-loading standard-size residential clothes washer manufactured on or after January 1, 2011, shall have—
 
@@ -1509,17 +1509,17 @@
 
             (B) __Amendment of standards.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Not later than December 31, 2011, the Secretary shall publish a final rule determining whether to amend the standards in effect for clothes washers manufactured on or after January 1, 2015.
 
-                (ii) __Amended standards.—__ 
+                (ii)  __Amended standards__  __.—__ 
 
                 The final rule shall contain any amended standards.
 
         (10) __Residential dishwashers manufactured on or after__  __january 1, 2010__  __.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             A dishwasher manufactured on or after January 1, 2010, shall—
 
@@ -1529,11 +1529,11 @@
 
             (B) __Amendment of standards.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Not later than January 1, 2015, the Secretary shall publish a final rule determining whether to amend the standards for dishwashers manufactured on or after January 1, 2018.
 
-                (ii) __Amended standards.—__ 
+                (ii)  __Amended standards__  __.—__ 
 
                 The final rule shall contain any amended standards.
 
@@ -1551,11 +1551,11 @@
 
         (1) __Standards.—__ 
 
-            (A) __Definition of effective date.—__ 
+            (A)  __Definition of effective date__  __.—__ 
 
             In this paragraph (other than subparagraph (D)), the term “effective date” means, with respect to each type of lamp specified in a table contained in subparagraph (B), the last day of the period of months corresponding to that type of lamp (as specified in the table) that follows October 24, 1992.
 
-            (B) __Minimum standards.—__ 
+            (B)  __Minimum standards__  __.—__ 
 
             Each of the following general service fluorescent lamps and incandescent reflector lamps manufactured after the effective date specified in the tables contained in this paragraph shall meet or exceed the following lamp efficacy and CRI standards:
 
@@ -1911,7 +1911,7 @@
 
             </table>
 
-            (C) __Exemptions.—__ 
+            (C)  __Exemptions__  __.—__ 
 
             The standards specified in subparagraph (B) shall not apply to the following types of incandescent reflector lamps:
 
@@ -1923,13 +1923,13 @@
 
             (D) __Effective dates.—__ 
 
-                (i) __ER, br, and bpar lamps.—__ 
+                (i) __ER,__  __br, and bpar lamps__  __.—__ 
 
                 The standards specified in subparagraph (B) shall apply with respect to ER incandescent reflector lamps, BR incandescent reflector lamps, BPAR incandescent reflector lamps, and similar bulb shapes on and after January 1, 2008.
 
-                (ii) __Lamps between 2.__ 
+                (ii)  __Lamps between 2.25–2.75 inches in diameter__  __.—__ 
 
-                25–2.75 inches in diameter.—The standards specified in subparagraph (B) shall apply with respect to incandescent reflector lamps with a diameter of more than 2.25 inches, but not more than 2.75 inches, on and after the later of January 1, 2008, or the date that is 180 days after December 19, 2007.
+                The standards specified in subparagraph (B) shall apply with respect to incandescent reflector lamps with a diameter of more than 2.25 inches, but not more than 2.75 inches, on and after the later of January 1, 2008, or the date that is 180 days after December 19, 2007.
 
         (2) Notwithstanding [section 6302(a)(5) of this title][/us/usc/t42/s6302/a/5] and [section 6302(b) of this title][/us/usc/t42/s6302/b], it shall not be unlawful for a manufacturer to sell a lamp which is in compliance with the law at the time such lamp was manufactured.
 
@@ -1943,7 +1943,7 @@
 
             (A) __Rulemaking before__  __january 1, 2014__  __.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Not later than January 1, 2014, the Secretary shall initiate a rulemaking procedure to determine whether—
 
@@ -1951,7 +1951,7 @@
 
                     (II) the exemptions for certain incandescent lamps should be maintained or discontinued based, in part, on exempted lamp sales collected by the Secretary from manufacturers.
 
-                (ii) __Scope.—__ 
+                (ii)  __Scope__  __.—__ 
 
                 The rulemaking—
 
@@ -1959,11 +1959,11 @@
 
                     (II) shall include consideration of a minimum standard of 45 lumens per watt for general service lamps.
 
-                (iii) __Amended standards.—__ 
+                (iii)  __Amended standards__  __.—__ 
 
                 If the Secretary determines that the standards in effect for general service incandescent lamps should be amended, the Secretary shall publish a final rule not later than January 1, 2017, with an effective date that is not earlier than 3 years after the date on which the final rule is published.
 
-                (iv) __Phased-in effective dates.—__ 
+                (iv)  __Phased-in effective dates__  __.—__ 
 
                 The Secretary shall consider phased-in effective dates under this subparagraph after considering—
 
@@ -1971,11 +1971,11 @@
 
                     (II) the time needed to work with retailers and lighting designers to revise sales and marketing strategies.
 
-                (v) __Backstop requirement.—__ 
+                (v)  __Backstop requirement__  __.—__ 
 
                 If the Secretary fails to complete a rulemaking in accordance with clauses (i) through (iv) or if the final rule does not produce savings that are greater than or equal to the savings from a minimum efficacy standard of 45 lumens per watt, effective beginning January 1, 2020, the Secretary shall prohibit the sale of any general service lamp that does not meet a minimum efficacy standard of 45 lumens per watt.
 
-                (vi) __State preemption.—__ 
+                (vi)  __State preemption__  __.—__ 
 
                 Neither [section 6297(b) of this title][/us/usc/t42/s6297/b] nor any other provision of law shall preclude California or Nevada from adopting, effective beginning on or after January 1, 2018—
 
@@ -1987,7 +1987,7 @@
 
             (B) __Rulemaking before__  __january 1, 2020__  __.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Not later than January 1, 2020, the Secretary shall initiate a rulemaking procedure to determine whether—
 
@@ -1995,15 +1995,15 @@
 
                     (II) the exemptions for certain incandescent lamps should be maintained or discontinued based, in part, on exempted lamp sales data collected by the Secretary from manufacturers.
 
-                (ii) __Scope.—__ 
+                (ii)  __Scope__  __.—__ 
 
                 The rulemaking shall not be limited to incandescent lamp technologies.
 
-                (iii) __Amended standards.—__ 
+                (iii)  __Amended standards__  __.—__ 
 
                 If the Secretary determines that the standards in effect for general service incandescent lamps should be amended, the Secretary shall publish a final rule not later than January 1, 2022, with an effective date that is not earlier than 3 years after the date on which the final rule is published.
 
-                (iv) __Phased-in effective dates.—__ 
+                (iv)  __Phased-in effective dates__  __.—__ 
 
                 The Secretary shall consider phased-in effective dates under this subparagraph after considering—
 
@@ -2243,11 +2243,11 @@
 
         (4) __Energy efficiency standards for certain lamps.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary shall prescribe an energy efficiency standard for rough service lamps, vibration service lamps, 3-way incandescent lamps, 2,601–3,300 lumen general service incandescent lamps, and shatter-resistant lamps in accordance with this paragraph.
 
-            (B) __Benchmarks.—__ 
+            (B)  __Benchmarks__  __.—__ 
 
             Not later than 1 year after December 19, 2007, the Secretary, in consultation with the National Electrical Manufacturers Association, shall—
 
@@ -2257,7 +2257,7 @@
 
             (C) __Actual sales data.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Effective for each of calendar years 2010 through 2025, the Secretary, in consultation with the National Electrical Manufacturers Association, shall—
 
@@ -2267,17 +2267,17 @@
 
                 (ii) __Continuation of tracking.—__ 
 
-                    (I) __Determination.—__ 
+                    (I)  __Determination__  __.—__ 
 
                     Not later than January 1, 2023, the Secretary shall determine if actual sales data should be tracked for the lamp types described in subparagraph (A) after calendar year 2025.
 
-                    (II) __Continuation.—__ 
+                    (II)  __Continuation__  __.—__ 
 
                     If the Secretary finds that the market share of a lamp type described in subparagraph (A) could significantly erode the market share for general service lamps, the Secretary shall continue to track the actual sales data for the lamp type.
 
             (D) __Rough service lamps.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Effective beginning with the first year that the reported annual sales rate for rough service lamps demonstrates actual unit sales of rough service lamps that achieve levels that are at least 100 percent higher than modeled unit sales for that same year, the Secretary shall—
 
@@ -2285,7 +2285,7 @@
 
                     (II) not later than the date that is 1 year after the end of the previous calendar year, complete an accelerated rulemaking to establish an energy conservation standard for rough service lamps.
 
-                (ii) __Backstop requirement.—__ 
+                (ii)  __Backstop requirement__  __.—__ 
 
                 If the Secretary fails to complete an accelerated rulemaking in accordance with clause (i)(II), effective beginning 1 year after the date of the issuance of the finding under clause (i)(I), the Secretary shall require rough service lamps to—
 
@@ -2297,7 +2297,7 @@
 
             (E) __Vibration service lamps.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Effective beginning with the first year that the reported annual sales rate for vibration service lamps demonstrates actual unit sales of vibration service lamps that achieve levels that are at least 100 percent higher than modeled unit sales for that same year, the Secretary shall—
 
@@ -2305,7 +2305,7 @@
 
                     (II) not later than the date that is 1 year after the end of the previous calendar year, complete an accelerated rulemaking to establish an energy conservation standard for vibration service lamps.
 
-                (ii) __Backstop requirement.—__ 
+                (ii)  __Backstop requirement__  __.—__ 
 
                 If the Secretary fails to complete an accelerated rulemaking in accordance with clause (i)(II), effective beginning 1 year after the date of the issuance of the finding under clause (i)(I), the Secretary shall require vibration service lamps to—
 
@@ -2315,7 +2315,7 @@
 
             (F) __3-way incandescent lamps.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Effective beginning with the first year that the reported annual sales rate for 3-way incandescent lamps demonstrates actual unit sales of 3-way incandescent lamps that achieve levels that are at least 100 percent higher than modeled unit sales for that same year, the Secretary shall—
 
@@ -2323,7 +2323,7 @@
 
                     (II) not later than the date that is 1 year after the end of the previous calendar year, complete an accelerated rulemaking to establish an energy conservation standard for 3-way incandescent lamps.
 
-                (ii) __Backstop requirement.—__ 
+                (ii)  __Backstop requirement__  __.—__ 
 
                 If the Secretary fails to complete an accelerated rulemaking in accordance with clause (i)(II), effective beginning 1 year after the date of issuance of the finding under clause (i)(I), the Secretary shall require that—
 
@@ -2331,7 +2331,7 @@
 
                     (II) 3-way lamps be sold at retail only in a package containing 1 lamp.
 
-            (G) __2,601–3,300 lumen general service incandescent lamps.—__ 
+            (G) __2,601–3,300__  __lumen general service incandescent lamps__  __.—__ 
 
             Effective beginning with the first year that the reported annual sales rate demonstrates actual unit sales of 2,601–3,300 lumen general service incandescent lamps in the lumen range of 2,601 through 3,300 lumens (or, in the case of a modified spectrum, in the lumen range of 1,951 through 2,475 lumens) that achieve levels that are at least 100 percent higher than modeled unit sales for that same year, the Secretary shall impose—
 
@@ -2341,7 +2341,7 @@
 
             (H) __Shatter-resistant lamps.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Effective beginning with the first year that the reported annual sales rate for shatter-resistant lamps demonstrates actual unit sales of shatter-resistant lamps that achieve levels that are at least 100 percent higher than modeled unit sales for that same year, the Secretary shall—
 
@@ -2349,7 +2349,7 @@
 
                     (II) not later than the date that is 1 year after the end of the previous calendar year, complete an accelerated rulemaking to establish an energy conservation standard for shatter-resistant lamps.
 
-                (ii) __Backstop requirement.—__ 
+                (ii)  __Backstop requirement__  __.—__ 
 
                 If the Secretary fails to complete an accelerated rulemaking in accordance with clause (i)(II), effective beginning 1 year after the date of issuance of the finding under clause (i)(I), the Secretary shall impose—
 
@@ -2359,11 +2359,11 @@
 
             (I) __Rulemakings before__  __january 1, 2025__  __.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Except as provided in clause (ii), if the Secretary issues a final rule prior to January 1, 2025, establishing an energy conservation standard for any of the 5 types of lamps for which data collection is required under any of subparagraphs (D) through (G), the requirement to collect and model data for that type of lamp shall terminate unless, as part of the rulemaking, the Secretary determines that continued tracking is necessary.
 
-                (ii) __Backstop requirement.—__ 
+                (ii)  __Backstop requirement__  __.—__ 
 
                 If the Secretary imposes a backstop requirement as a result of a failure to complete an accelerated rulemaking in accordance with clause (i)(II) of any of subparagraphs (D) through (G), <sup>\[4\]</sup>  <sup><sup> 4 So in original. Subpar. (G) does not contain a cl. (i)(II). </sup></sup>  the requirement to collect and model data for the applicable type of lamp shall continue for an additional 2 years after the effective date of the backstop requirement.
 
@@ -2433,11 +2433,11 @@
 
             The grant of a petition by the Secretary under this subsection creates no presumption with respect to the Secretary’s determination of any of the criteria in a rulemaking under this section.
 
-        (3) __Notice of decision.—__ 
+        (3)  __Notice of decision__  __.—__ 
 
         Not later than 180 days after the date of receiving a petition, the Secretary shall publish in the Federal Register a notice of, and explanation for, the decision of the Secretary to grant or deny the petition.
 
-        (4) __New or amended standards.—__ 
+        (4)  __New or amended standards__  __.—__ 
 
         Not later than 3 years after the date of granting a petition for new or amended standards, the Secretary shall publish in the Federal Register—
 
@@ -2501,17 +2501,17 @@
 
         (6) __Regional standards for furnaces, central air conditioners, and heat pumps.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             In any rulemaking to establish a new or amended standard, the Secretary may consider the establishment of separate standards by geographic region for furnaces (except boilers), central air conditioners, and heat pumps.
 
             (B) __National and regional standards.—__ 
 
-                (i) __National standard.—__ 
+                (i)  __National standard__  __.—__ 
 
                 If the Secretary establishes a regional standard for a product, the Secretary shall establish a base national standard for the product.
 
-                (ii) __Regional standards.—__ 
+                (ii)  __Regional standards__  __.—__ 
 
                 If the Secretary establishes a regional standard for a product, the Secretary may establish more restrictive standards for the product by geographic region as follows:
 
@@ -2521,19 +2521,19 @@
 
             (C) __Boundaries of geographic regions.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Subject to clause (ii), the boundaries of additional geographic regions established by the Secretary under this paragraph shall include only contiguous States.
 
-                (ii) __Alaska and hawaii.—__ 
+                (ii)  __Alaska and hawaii__  __.—__ 
 
                 The States of Alaska and Hawaii may be included under this paragraph in a geographic region that the States are not contiguous to.
 
-                (iii) __Individual states.—__ 
+                (iii)  __Individual states__  __.—__ 
 
                 Individual States shall be placed only into a single region under this paragraph.
 
-            (D) __Prerequisites.—__ 
+            (D)  __Prerequisites__  __.—__ 
 
             In establishing additional regional standards under this paragraph, the Secretary shall—
 
@@ -2549,7 +2549,7 @@
 
             (E) __Application; effective date.—__ 
 
-                (i) __Base national standard.—__ 
+                (i)  __Base national standard__  __.—__ 
 
                 Any base national standard established for a product under this paragraph shall—
 
@@ -2557,17 +2557,17 @@
 
                     (II) apply to all products manufactured or imported into the United States on and after the effective date for the standard.
 
-                (ii) __Regional standards.—__ 
+                (ii)  __Regional standards__  __.—__ 
 
                 Any additional and more restrictive regional standard established for a product under this paragraph shall apply to any such product installed on or after the effective date of the standard in States in which the Secretary has designated the standard to apply.
 
             (F) __Continuation of regional standards.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 In any subsequent rulemaking for any product for which a regional standard has been previously established, the Secretary shall determine whether to continue the establishment of separate regional standards for the product.
 
-                (ii) __Regional standard no longer appropriate.—__ 
+                (ii)  __Regional standard no longer appropriate__  __.—__ 
 
                 Except as provided in clause (iii), if the Secretary determines that regional standards are no longer appropriate for a product, beginning on the effective date of the amended standard for the product—
 
@@ -2577,11 +2577,11 @@
 
                 (iii) __Regional standard appropriate but standard or region changed.—__ 
 
-                    (I) __State no longer contained in region.—__ 
+                    (I)  __State no longer contained in region__  __.—__ 
 
                     Subject to subclause (III), if a State is no longer contained in a region in which a regional standard that is more stringent than the base national standard applies, the authority of the State to enforce the regional standard shall terminate.
 
-                    (II) __Standard or region revised so that existing regional standard equals base national standard.—__ 
+                    (II)  __Standard or region revised so that existing regional standard equals base national standard__  __.—__ 
 
                     If the Secretary revises a base national standard for a product or the geographic definition of a region so that an existing regional standard for a State is equal to the revised base national standard—
 
@@ -2589,11 +2589,11 @@
 
                         (bb) the State shall be subject to the revised base national standard.
 
-                    (III) __Standard or region revised so that existing regional standard equals base national standard.—__ 
+                    (III)  __Standard or region revised so that existing regional standard equals base national standard__  __.—__ 
 
                     If the Secretary revises a base national standard for a product or the geographic definition of a region so that the standard for a State is lower than the previously approved regional standard, the State may continue to enforce the previously approved standard level.
 
-                (iv) __Waiver of federal preemption.—__ 
+                (iv)  __Waiver of federal preemption__  __.—__ 
 
                 Nothing in this paragraph diminishes the authority of a State to enforce a State regulation for which a waiver of Federal preemption has been granted under [section 6297(d) of this title][/us/usc/t42/s6297/d].
 
@@ -2601,43 +2601,43 @@
 
                 (i) __Base national standard.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     The Secretary shall enforce any base national standard.
 
-                    (II) __Trade association certification programs.—__ 
+                    (II)  __Trade association certification programs__  __.—__ 
 
                     In enforcing the base national standard, the Secretary shall use, to the maximum extent practicable, national standard nationally recognized certification programs of trade associations.
 
                 (ii) __Regional standards.—__ 
 
-                    (I) __Enforcement plan.—__ 
+                    (I)  __Enforcement plan__  __.—__ 
 
                     Not later than 90 days after the date of the issuance of a final rule that establishes a regional standard, the Secretary shall initiate a rulemaking to develop and implement an effective enforcement plan for regional standards for the products that are covered by the final rule.
 
-                    (II) __Responsible entities.—__ 
+                    (II)  __Responsible entities__  __.—__ 
 
                     Any rules regarding enforcement of a regional standard shall clearly specify which entities are legally responsible for compliance with the standards and for making any required information or labeling disclosures.
 
-                    (III) __Final rule.—__ 
+                    (III)  __Final rule__  __.—__ 
 
                     Not later than 15 months after the date of the issuance of a final rule that establishes a regional standard for a product, the Secretary shall promulgate a final rule covering enforcement of regional standards for the product.
 
-                    (IV) __Incorporation by states and localities.—__ 
+                    (IV)  __Incorporation by states and localities__  __.—__ 
 
                     A State or locality may incorporate any Federal regional standard into State or local building codes or State appliance standards.
 
-                    (V) __State enforcement.—__ 
+                    (V)  __State enforcement__  __.—__ 
 
                     A State agency may seek enforcement of a Federal regional standard in a Federal court of competent jurisdiction.
 
             (H) __Information disclosure.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Not later than 90 days after the date of the publication of a final rule that establishes a regional standard for a product, the Federal Trade Commission shall undertake a rulemaking to determine the appropriate 1 or more methods for disclosing information so that consumers, distributors, contractors, and installers can easily determine whether a specific piece of equipment that is installed in a specific building is in conformance with the regional standard that applies to the building.
 
-                (ii) __Methods.—__ 
+                (ii)  __Methods__  __.—__ 
 
                 A method of disclosing information under clause (i) may include—
 
@@ -2645,7 +2645,7 @@
 
                     (II) other methods that make it easy for consumers and installers to use and understand at the point of installation.
 
-                (iii) __Completion of rulemaking.—__ 
+                (iii)  __Completion of rulemaking__  __.—__ 
 
                 The rulemaking shall be completed not later 15 months after the date of the publication of a final rule that establishes a regional standard for a product.
 
@@ -2671,7 +2671,7 @@
 
         (4) __Direct final rules.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             On receipt of a statement that is submitted jointly by interested persons that are fairly representative of relevant points of view (including representatives of manufacturers of covered products, States, and efficiency advocates), as determined by the Secretary, and contains recommendations with respect to an energy or water conservation standard—
 
@@ -2679,13 +2679,13 @@
 
                 (ii) if the Secretary determines that a direct final rule cannot be issued based on the statement, the Secretary shall publish a notice of the determination, together with an explanation of the reasons for the determination.
 
-            (B) __Public comment.—__ 
+            (B)  __Public comment__  __.—__ 
 
             The Secretary shall solicit public comment for a period of at least 110 days with respect to each direct final rule issued by the Secretary under subparagraph (A)(i).
 
             (C) __Withdrawal of direct final rules.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Not later than 120 days after the date on which a direct final rule issued under subparagraph (A)(i) is published in the Federal Register, the Secretary shall withdraw the direct final rule if—
 
@@ -2693,7 +2693,7 @@
 
                     (II) based on the rulemaking record relating to the direct final rule, the Secretary determines that such adverse public comments or alternative joint recommendation may provide a reasonable basis for withdrawing the direct final rule under subsection (o), [section 6313(a)(6)(B) of this title][/us/usc/t42/s6313/a/6/B], or any other applicable law.
 
-                (ii) __Action on withdrawal.—__ 
+                (ii)  __Action on withdrawal__  __.—__ 
 
                 On withdrawal of a direct final rule under clause (i), the Secretary shall—
 
@@ -2701,11 +2701,11 @@
 
                     (II) publish in the Federal Register the reasons why the direct final rule was withdrawn.
 
-                (iii) __Treatment of withdrawn direct final rules.—__ 
+                (iii)  __Treatment of withdrawn direct final rules__  __.—__ 
 
                 A direct final rule that is withdrawn under clause (i) shall not be considered to be a final rule for purposes of subsection (o).
 
-            (D) __Effect of paragraph.—__ 
+            (D)  __Effect of paragraph__  __.—__ 
 
             Nothing in this paragraph authorizes the Secretary to issue a direct final rule based solely on receipt of more than 1 statement containing recommended standards relating to the direct final rule.
 
@@ -2765,11 +2765,11 @@
 
                 (i) __Energy conservation standards.—__ 
 
-                    (I) __External power supplies.—__ 
+                    (I)  __External power supplies__  __.—__ 
 
                     Not later than 2 years after August 8, 2005, the Secretary shall issue a final rule that determines whether energy conservation standards shall be issued for external power supplies or classes of external power supplies.
 
-                    (II) __Battery chargers.—__ 
+                    (II)  __Battery chargers__  __.—__ 
 
                     Not later than July 1, 2011, the Secretary shall issue a final rule that prescribes energy conservation standards for battery chargers or classes of battery chargers or determine that no energy conservation standard is technically feasible and economically justified.
 
@@ -2785,7 +2785,7 @@
 
         (3) __Efficiency standards for class a external power supplies.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to subparagraphs (B) through (E), a class A external power supply manufactured on or after the later of July 1, 2008, or December 19, 2007, shall meet the following standards:
 
@@ -2883,7 +2883,7 @@
 
             </table>
 
-            (B) __Noncovered supplies.—__ 
+            (B)  __Noncovered supplies__  __.—__ 
 
             A class A external power supply shall not be subject to subparagraph (A) if the class A external power supply is—
 
@@ -2897,7 +2897,7 @@
 
                     (II) was manufactured before July 1, 2008.
 
-            (C) __Marking.—__ 
+            (C)  __Marking__  __.—__ 
 
             Any class A external power supply manufactured on or after the later of July 1, 2008 or December 19, 2007, shall be clearly and permanently marked in accordance with the External Power Supply International Efficiency Marking Protocol, as referenced in the “Energy Star Program Requirements for Single Voltage External AC–DC and AC–AC Power Supplies, version 1.1” published by the Environmental Protection Agency.
 
@@ -2905,11 +2905,11 @@
 
                 (i) __Final rule by__  __july 1, 2011__  __.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     Not later than July 1, 2011, the Secretary shall publish a final rule to determine whether the standards established under subparagraph (A) should be amended.
 
-                    (II) __Administration.—__ 
+                    (II)  __Administration__  __.—__ 
 
                     The final rule shall—
 
@@ -2919,11 +2919,11 @@
 
                 (ii) __Final rule by__  __july 1, 2015__  __.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     Not later than July 1, 2015 the Secretary shall publish a final rule to determine whether the standards then in effect should be amended.
 
-                    (II) __Administration.—__ 
+                    (II)  __Administration__  __.—__ 
 
                     The final rule shall—
 
@@ -2933,11 +2933,11 @@
 
             (E) __Nonapplication of no-load mode energy efficiency standards to external power supplies for certain security or life safety alarms or surveillance systems.—__ 
 
-                (i) __Definition of security or life safety alarm or surveillance system.—__ 
+                (i)  __Definition of security or life safety alarm or surveillance system__  __.—__ 
 
                 In this subparagraph:
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     The term “security or life safety alarm or surveillance system” means equipment designed and marketed to perform any of the following functions (on a continuous basis):
 
@@ -2947,7 +2947,7 @@
 
                         (cc) Monitor, detect, record, or provide notification of fire, gas, smoke, flooding, or other physical threats to real property, physical assets, or life safety.
 
-                    (II) __Exclusion.—__ 
+                    (II)  __Exclusion__  __.—__ 
 
                     The term “security or life safety alarm or surveillance system” does not include any product with a principal function other than life safety, security, or surveillance that—
 
@@ -2955,7 +2955,7 @@
 
                         (bb) does not operate necessarily and continuously in active mode.
 
-                (ii) __Nonapplication of no-load mode requirements.—__ 
+                (ii)  __Nonapplication of no-load mode requirements__  __.—__ 
 
                 The No-Load Mode energy efficiency standards established by this paragraph shall not apply to an external power supply manufactured before July 1, 2017, that—
 
@@ -2967,7 +2967,7 @@
 
                     (IV) on establishment within the External Power Supply International Efficiency Marking Protocol, as referenced in the “Energy Star Program Requirements for Single Voltage External Ac–Dc and Ac–Ac Power Supplies”, published by the Environmental Protection Agency, of a distinguishing mark for products described in this clause, is permanently marked with the distinguishing mark.
 
-                (iii) __Administration.—__ 
+                (iii)  __Administration__  __.—__ 
 
                 In carrying out this subparagraph, the Secretary shall—
 
@@ -2975,7 +2975,7 @@
 
                     (II) restrict the eligibility of external power supplies for the exemption provided under this subparagraph on a finding that a substantial number of the external power supplies are being marketed to or installed in applications other than security or life safety alarm or surveillance systems.
 
-        (4) __End-use products.—__ 
+        (4)  __End-use products__  __.—__ 
 
         An energy conservation standard for external power supplies shall not constitute an energy conservation standard for the separate end-use product to which the external power supply is connected.
 
@@ -3125,7 +3125,7 @@
 
         </table>
 
-        (2) __Dehumidifiers manufactured on or after__  __october 1, 2012__  __.—__ 
+        (2)  __Dehumidifiers manufactured on or after __  __october 1, 2012__  __.—__ 
 
         Dehumidifiers manufactured on or after October 1, 2012, shall have an Energy Factor that meets or exceeds the following values:
 
@@ -3671,7 +3671,7 @@
 
 [Pub. L. 110–140, title III, § 321(g)][/us/pl/110/140/s321/g], Dec. 19, 2007, [121 Stat. 1586][/us/stat/121/1586], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary \[of Energy\] may carry out a lighting technology research and development program—
 
@@ -3679,11 +3679,11 @@
 
 >         “(B) to assist manufacturers of general service lamps in the manufacturing of general service lamps that, at a minimum, achieve the wattage requirements imposed as a result of the amendments made by subsection (a) \[amending this section and sections 6291 and 6292 of this title\].
 
->     “(2) __Authorization of appropriations.—__ 
+>     “(2)  __Authorization of appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this subsection $10,000,000 for each of fiscal years 2008 through 2013.
 
->     “(3) __Termination of authority.—__ 
+>     “(3)  __Termination of authority__  __.—__ 
 
 >     The program under this subsection shall terminate on September 30, 2015.”
 

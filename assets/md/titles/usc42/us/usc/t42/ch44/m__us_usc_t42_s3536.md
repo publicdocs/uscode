@@ -31,19 +31,19 @@
 
 [Pub. L. 102–550, title IX, § 925(a)][/us/pl/102/550/s925/a], Oct. 28, 1992, [106 Stat. 3884][/us/stat/106/3884], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of the Department of Housing and Urban Development (hereafter in this Act \[see Short Title of 1992 Amendment note set out under [section 5301 of this title][/us/usc/t42/s5301]\] referred to as the ‘Secretary’) may establish performance goals for the major programs of the Department of Housing and Urban Development in order to measure progress towards meeting the objectives of national housing policy.
 
->     “(2) __Form of goals.—__ 
+>     “(2)  __Form of goals__  __.—__ 
 
 >     The performance goals referred to in paragraph (1) shall be expressed in terms sufficient to measure progress.
 
->     “(3) __Report.—__ 
+>     “(3)  __Report__  __.—__ 
 
 >     The Secretary shall include in the Secretary’s annual report to the Congress a description of the progress made in attaining the performance goals for each program, citing the results achieved in each program for the previous year.
 
->     “(4) __Failure to meet goals.—__ 
+>     “(4)  __Failure to meet goals__  __.—__ 
 
 >     If a performance standard or goal has not been met, the description under paragraph (3) shall include an explanation of why the goal was not met, propose plans for achieving the performance goal, and recommend any legislative or regulatory changes necessary for achievement of the goal.”
 
@@ -51,11 +51,11 @@
 
 [Pub. L. 100–242, title I, § 166][/us/pl/100/242/s166], Feb. 5, 1988, [101 Stat. 1864][/us/stat/101/1864], as amended by [Pub. L. 101–625, title IX, § 954(b)][/us/pl/101/625/s954/b], Nov. 28, 1990, [104 Stat. 4420][/us/stat/104/4420], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Housing and Urban Development shall include in the annual report under section 8 of the Housing and Urban Development Act \[probably means section 8 of the Department of Housing and Urban Development Act, [42 U.S.C. 3536][/us/usc/t42/s3536]\] descriptions of the characteristics of families assisted under each of the following programs of assistance: public housing, section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\] (other than subsection (o) of such section), section 8(o) of the United States Housing Act of 1937, and section 202 of the Housing Act of 1959 \[[12 U.S.C. 1701q][/us/usc/t12/s1701q]\].
 
->     “(b) __Specific Requirements.—__ 
+>     “(b)  __Specific Requirements__  __.—__ 
 
 >     The descriptions required in subsection (a) shall include information with respect to—
 
@@ -67,7 +67,7 @@
 
 >         “(4) whether the head of the family (or the spouse of such person) is a member of the armed forces.
 
->     “(c) __Collection and Maintenance of Data.—__ 
+>     “(c)  __Collection and Maintenance of Data__  __.—__ 
 
 >     The Secretary shall collect and maintain data necessary to carry out the purposes of this section and shall coordinate such efforts, to the greatest extent possible, with activities and responsibilities under section 8 of the Department of Housing and Urban Development Act \[[42 U.S.C. 3536][/us/usc/t42/s3536]\].”
 

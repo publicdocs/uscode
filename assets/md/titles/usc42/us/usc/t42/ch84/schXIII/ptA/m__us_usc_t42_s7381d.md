@@ -25,7 +25,7 @@
 
     (4) The term “local educational agency” has the meaning given that term by section 2891(12)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 20.
 
-    (5) __National laboratory.—__ 
+    (5)  __National laboratory__  __.—__ 
 
     The term “National Laboratory” has the meaning given the term in [section 15801 of this title][/us/usc/t42/s15801].
 

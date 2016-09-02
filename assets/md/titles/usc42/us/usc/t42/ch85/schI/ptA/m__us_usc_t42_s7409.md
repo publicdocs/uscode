@@ -81,7 +81,7 @@
 
 [Pub. L. 101–549, title VIII, § 817][/us/pl/101/549/s817], Nov. 15, 1990, [104 Stat. 2697][/us/stat/104/2697], provided that:
 
->     “(a) __Report.—__ 
+>     “(a)  __Report__  __.—__ 
 
 >     The Administrator shall request the National Academy of Sciences to prepare a report to the Congress on the role of national secondary ambient air quality standards in protecting welfare and the environment. The report shall:
 
@@ -97,7 +97,7 @@
 
 >         “(6) consider other means consistent with the goals and objectives of the Clean Air Act \[[42 U.S.C. 7401][/us/usc/t42/s7401] et seq.\] which may be more effective than secondary standards in preventing or mitigating such effects.
 
->     “(b) __Submission to Congress; Comments; Authorization.—__ 
+>     “(b)  __Submission to Congress; Comments; Authorization__  __.—__ 
 
 >         (1) The report shall be transmitted to the Congress not later than 3 years after the date of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\].
 

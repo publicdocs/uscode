@@ -17,11 +17,11 @@
 
     As used in this chapter—
 
-    (1) __Emergency.—__ 
+    (1)  __Emergency__  __.—__ 
 
     “Emergency” means any occasion or instance for which, in the determination of the President, Federal assistance is needed to supplement State and local efforts and capabilities to save lives and to protect property and public health and safety, or to lessen or avert the threat of a catastrophe in any part of the United States.
 
-    (2) __Major disaster.—__ 
+    (2)  __Major disaster__  __.—__ 
 
     “Major disaster” means any natural catastrophe (including any hurricane, tornado, storm, high water, winddriven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, or drought), or, regardless of cause, any fire, flood, or explosion, in any part of the United States, which in the determination of the President causes damage of sufficient severity and magnitude to warrant major disaster assistance under this chapter to supplement the efforts and available resources of States, local governments, and disaster relief organizations in alleviating the damage, loss, hardship, or suffering caused thereby.
 
@@ -31,15 +31,15 @@
 
     (5) “Governor” means the chief executive of any State.
 
-    (6) __Indian tribal government.—__ 
+    (6)  __Indian tribal government__  __.—__ 
 
     The term “Indian tribal government” means the governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe under the Federally Recognized Indian Tribe List Act of 1994 ([25 U.S.C. 479a][/us/usc/t25/s479a] et seq.).
 
-    (7) __Individual with a disability.—__ 
+    (7)  __Individual with a disability__  __.—__ 
 
     The term “individual with a disability” means an individual with a disability as defined in [section 12102(2) of this title][/us/usc/t42/s12102/2].
 
-    (8) __Local government.—__ 
+    (8)  __Local government__  __.—__ 
 
     The term “local government” means—
 
@@ -51,7 +51,7 @@
 
     (9) “Federal agency” means any department, independent establishment, Government corporation, or other agency of the executive branch of the Federal Government, including the United States Postal Service, but shall not include the American National Red Cross.
 
-    (10) __Public facility.—__ 
+    (10)  __Public facility__  __.—__ 
 
     “Public facility” means the following facilities owned by a State or local government:
 
@@ -65,15 +65,15 @@
 
     (11) __Private nonprofit facility.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The term “private nonprofit facility” means private nonprofit educational, utility, irrigation, emergency, medical, rehabilitational, and temporary or permanent custodial care facilities (including those for the aged and disabled) and facilities on Indian reservations, as defined by the President.
 
-        (B) __Additional facilities.—__ 
+        (B)  __Additional facilities__  __.—__ 
 
         In addition to the facilities described in subparagraph (A), the term “private nonprofit facility” includes any private nonprofit facility that provides essential services of a governmental nature to the general public (including museums, zoos, performing arts facilities, community arts centers, libraries, homeless shelters, senior citizen centers, rehabilitation facilities, shelter workshops, and facilities that provide health and safety services of a governmental nature), as defined by the President.
 
-    (12) __Chief executive.—__ 
+    (12)  __Chief executive__  __.—__ 
 
     The term “Chief Executive” means the person who is the Chief, Chairman, Governor, President, or similar executive official of an Indian tribal government.
 
@@ -127,11 +127,11 @@
 
 [Pub. L. 113–2, div. B, § 1110(e)][/us/pl/113/2/s1110/e], Jan. 29, 2013, [127 Stat. 49][/us/stat/127/49], provided that:
 
->     “(1) __Issuance.—__ 
+>     “(1)  __Issuance__  __.—__ 
 
 >     The President shall issue regulations to carry out the amendments made by this section \[enacting [section 5123 of this title][/us/usc/t42/s5123] and amending this section and sections 5170 and 5191 of this title\].
 
->     “(2) __Factors.—__ 
+>     “(2)  __Factors__  __.—__ 
 
 >     In issuing the regulations, the President shall consider the unique conditions that affect the general welfare of Indian tribal governments.”
 
@@ -139,11 +139,11 @@
 
 [Pub. L. 100–707, title I, § 103(e)][/us/pl/100/707/s103/e], Nov. 23, 1988, [102 Stat. 4690][/us/stat/102/4690], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The term ‘local government’ is deemed to have the same meaning in the Disaster Relief and Emergency Assistance Act \[[Pub. L. 93–288][/us/pl/93/288], see Short Title note set out under [section 5121 of this title][/us/usc/t42/s5121]\], as amended by this Act \[see Short Title of 1988 Amendment note set out under [section 5121 of this title][/us/usc/t42/s5121]\], as that term had on October 1, 1988, under section 102(6) of the Disaster Relief Act of 1974 \[par. (6) of this section\] and regulations implementing the Disaster Relief Act of 1974.
 
->     “(2) __Termination of effectiveness.—__ 
+>     “(2)  __Termination of effectiveness__  __.—__ 
 
 >     Paragraph (1) shall not be effective on and after the 90th day after the President transmits to the Committee on Public Works and Transportation of the House of Representatives and to the Committee on Environment and Public Works of the Senate a report which includes an interpretation of the term ‘local government’ for purposes of the Disaster Relief and Emergency Assistance Act, as amended by this Act.”
 

@@ -567,11 +567,11 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title III, § 311(e)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–498, provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Secretary of Health and Human Services shall conduct a study of the different systems for categorizing patients in medicare skilled nursing facilities in a manner that accounts for the relative resource utilization of different patient types.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than January 1, 2005, the Secretary shall submit to Congress a report on the study conducted under subsection (a). Such report shall include such recommendations regarding changes in law as may be appropriate.”
 
@@ -579,11 +579,11 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title III, § 312(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–498, provided that:
 
->     “(1) __Audit.—__ 
+>     “(1)  __Audit__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct an audit of nursing staffing ratios in a representative sample of medicare skilled nursing facilities. Such sample shall cover selected States and shall include broad representation with respect to size, ownership, location, and medicare volume. Such audit shall include an examination of payroll records and medicaid cost reports of individual facilities.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than August 1, 2002, the Comptroller General shall submit to Congress a report on the audits conducted under paragraph (1). Such report shall include an assessment of the impact of the increased payments under this subtitle \[subtitle B, §§ 311–315, of title III of [§ 1(a)(6) of Pub. L. 106–554][/us/pl/106/554/s1/a/6], amending this section and sections 1395u, 1395y, and 1395cc of this title and enacting provisions set out as notes under this section and [section 1395u of this title][/us/usc/t42/s1395u]\] on increased nursing staff ratios and shall make recommendations as to whether increased payments under subsection (a) \[[114 Stat. 2763][/us/stat/114/2763]A–498\] should be continued.”
 
@@ -597,11 +597,11 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title III, § 315\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–500, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Health and Human Services may establish a procedure for the geographic reclassification of a skilled nursing facility for purposes of payment for covered skilled nursing facility services under the prospective payment system established under section 1888(e) of the Social Security Act ([42 U.S.C. 1395yy(e)][/us/usc/t42/s1395yy/e]). Such procedure may be based upon the method for geographic reclassifications for inpatient hospitals established under section 1886(d)(10) of the Social Security Act ([42 U.S.C. 1395ww(d)(10)][/us/usc/t42/s1395ww/d/10]).
 
->     “(b) __Requirement for Skilled Nursing Facility Wage Data.—__ 
+>     “(b)  __Requirement for Skilled Nursing Facility Wage Data__  __.—__ 
 
 >     In no case may the Secretary implement the procedure under subsection (a) before such time as the Secretary has collected data necessary to establish an area wage index for skilled nursing facilities based on wage data from such facilities.”
 
@@ -639,7 +639,7 @@
 
 [Pub. L. 101–508, title IV, § 4008(k)][/us/pl/101/508/s4008/k], Nov. 5, 1990, [104 Stat. 1388–52][/us/stat/104/1388-52], provided that:
 
->     “(1) __Development of proposal.—__ 
+>     “(1)  __Development of proposal__  __.—__ 
 
 >     The Secretary of Health and Human Services shall develop a proposal to modify the current system under which skilled nursing facilities receive payment for extended care services under part A \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] of the medicare program or a proposal to replace such system with a system under which such payments would be made on the basis of prospectively determined rates. In developing any proposal under this paragraph to replace the current system with a prospective payment system, the Secretary shall—
 
@@ -653,7 +653,7 @@
 
 >         “(E) take into consideration the appropriateness of classifying patients and payments upon functional disability, cognitive impairment, and other patient characteristics.
 
->     “(2) __Reports.—__ 
+>     “(2)  __Reports__  __.—__ 
 
 >         (A) By not later than April 1, 1991, the Secretary (acting through the Administrator of the Health Care Financing Administration) shall submit any research studies to be used in developing the proposal under paragraph (1) to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives.
 

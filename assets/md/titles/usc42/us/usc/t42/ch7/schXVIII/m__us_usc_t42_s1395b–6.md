@@ -273,15 +273,15 @@
 
 [Pub. L. 105–33, title IV, § 4022(c)][/us/pl/105/33/s4022/c], Aug. 5, 1997, [111 Stat. 355][/us/stat/111/355], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Comptroller General shall first provide for appointment of members to the Medicare Payment Advisory Commission (in this subsection referred to as ‘MedPAC’) by not later than September 30, 1997.
 
->     “(2) __Transition.—__ 
+>     “(2)  __Transition__  __.—__ 
 
 >     As quickly as possible after the date a majority of members of MedPAC are first appointed \[Oct. 1, 1997, see 62 FR 52131\], the Comptroller General, in consultation with the Prospective Payment Assessment Commission (in this subsection referred to as ‘ProPAC’) and the Physician Payment Review Commission (in this subsection referred to as ‘PPRC’), shall provide for the termination of the ProPAC and the PPRC. As of the date of termination of the respective Commissions \[Nov. 1, 1997, see 62 FR 59356\], the amendments made by paragraphs (1) and (2), respectively, of subsection (b) \[amending sections 1395w–4, 1395y, and 1395ww of this title and repealing [section 1395w–1 of this title][/us/usc/t42/s1395w–1]\] become effective. The Comptroller General, to the extent feasible, shall provide for the transfer to the MedPAC of assets and staff of the ProPAC and the PPRC, without any loss of benefits or seniority by virtue of such transfers. Fund balances available to the ProPAC or the PPRC for any period shall be available to the MedPAC for such period for like purposes.
 
->     “(3) __Continuing responsibility for reports.—__ 
+>     “(3)  __Continuing responsibility for reports__  __.—__ 
 
 >     The MedPAC shall be responsible for the preparation and submission of reports required by law to be submitted (and which have not been submitted by the date of establishment of the MedPAC) by the ProPAC and the PPRC, and, for this purpose, any reference in law to either such Commission is deemed, after the appointment of the MedPAC, to refer to the MedPAC.”
 
@@ -305,11 +305,11 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title II, § 229(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–357, provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Medicare Payment Advisory Commission shall undertake a comprehensive study to review the regulatory burdens placed on all classes of health care providers under parts A and B of the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] and to determine the costs these burdens impose on the nation’s health care system. The study shall also examine the complexity of the current regulatory system and its impact on providers.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than December 31, 2001, the Commission shall submit to Congress one or more reports on the study conducted under paragraph (1). The report shall include recommendations regarding—
 
@@ -327,11 +327,11 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title IV, § 411\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–377, provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Medicare Payment Advisory Commission shall conduct a study of rural providers furnishing items and services for which payment is made under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\]. Such study shall examine and evaluate the adequacy and appropriateness of the categories of special payments (and payment methodologies) established for rural hospitals under the medicare program, and the impact of such categories on beneficiary access and quality of health care services.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 18 months after the date of the enactment of this Act \[Nov. 29, 1999\], the Medicare Payment Advisory Commission shall submit to Congress a report on the study conducted under subsection (a).”
 
@@ -339,7 +339,7 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title V, § 520(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–386, provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Medicare Payment Advisory Commission shall conduct a study on the appropriate quality improvement standards that should apply to—
 
@@ -347,11 +347,11 @@
 
 >         “(B) the original medicare fee-for-service program under parts A and B \[sic\] title XVIII of such Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.) \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq.\].
 
->     “(2) __Considerations.—__ 
+>     “(2)  __Considerations__  __.—__ 
 
 >     Such study shall specifically examine the effects, costs, and feasibility of requiring entities, physicians, and other health care providers that provide items and services under the original medicare fee-for-service program to comply with quality standards and related reporting requirements that are comparable to the quality standards and related reporting requirements that are applicable to Medicare+Choice organizations.
 
->     “(3) __Report.—__ 
+>     “(3)  __Report__  __.—__ 
 
 >     Not later than 2 years after the date of the enactment of this Act \[Nov. 29, 1999\], such Commission shall submit a report to Congress on the study conducted under this subsection, together with any recommendations for legislation that it determines to be appropriate as a result of such study.”
 
@@ -359,7 +359,7 @@
 
 [Pub. L. 105–277, div. J, title V, § 5202(b)][/us/pl/105/277/s5202/b], Oct. 21, 1998, [112 Stat. 2681–917][/us/stat/112/2681-917], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     For purposes of staggering the initial terms of members of the Medicare Payment Advisory Commission (under section 1805(c)(3) of such Act ([42 U.S.C. 1395b–6(c)(3)][/us/usc/t42/s1395b–6/c/3])\[)\], the initial terms of the two additional members of the Commission provided for by the amendment under subsection (a) \[amending this section\] are as follows:
 
@@ -367,7 +367,7 @@
 
 >         “(B) One member shall be appointed for two years.
 
->     “(2) __Commencement of terms.—__ 
+>     “(2)  __Commencement of terms__  __.—__ 
 
 >     Such terms shall begin on May 1, 1999.”
 

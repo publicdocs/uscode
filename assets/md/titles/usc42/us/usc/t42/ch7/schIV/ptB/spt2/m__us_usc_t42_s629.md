@@ -55,11 +55,11 @@
 
 [Pub. L. 107–133, title III, § 301][/us/pl/107/133/s301], Jan. 17, 2002, [115 Stat. 2425][/us/stat/115/2425], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to subsection (b), the amendments made by this Act \[enacting sections 629f to 629i of this title and amending this section and sections 629a, 629c, 629d, 629e, 674, and 677 of this title\] shall take effect on the date of the enactment of this Act \[Jan. 17, 2002\].
 
->     “(b) __Delay Permitted if State Legislation Required.—__ 
+>     “(b)  __Delay Permitted if State Legislation Required__  __.—__ 
 
 >     In the case of a State plan under subpart 2 of part B or part E of the Social Security Act \[probably means subpart 2 of part B or part E of title IV of the Social Security Act ([42 U.S.C. 629][/us/usc/t42/s629] et seq., 670 et seq.)\] that the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments specified in subsection (a) of this section, the State plan shall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet the additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Jan. 17, 2001\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of the session shall be deemed to be a separate regular session of the State legislature.”
 

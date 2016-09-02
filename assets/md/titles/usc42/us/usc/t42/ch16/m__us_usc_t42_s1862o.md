@@ -51,31 +51,31 @@
 
 > “In this title \[enacting this section and sections 1862n–1a and 1862o–1 to 1862o–15 of this title, amending sections 1862i, 1862l, 1862n, 1862n–1, 1862n–2, 1862n–5, 1863, 1870, and 1881a of this title, sections 5503 and 5511 of Title 15, Commerce and Trade, and [section 3801 of Title 31][/us/usc/t31/s3801], Money and Finance, enacting provisions set out as notes under this section and [section 1862n–2 of this title][/us/usc/t42/s1862n–2], and amending provisions set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113]\]:
 
->     “(1) __Basic research.—__ 
+>     “(1)  __Basic research__  __.—__ 
 
 >     The term ‘basic research’ has the meaning given such term in the Office of Management and Budget circular No. A–11.
 
->     “(2) __Board.—__ 
+>     “(2)  __Board__  __.—__ 
 
 >     The term ‘Board’ means the National Science Board established under section 2 of the National Science Foundation Act of 1950 ([42 U.S.C. 1861][/us/usc/t42/s1861]).
 
->     “(3) __Director.—__ 
+>     “(3)  __Director__  __.—__ 
 
 >     The term ‘Director’ means the Director of the Foundation.
 
->     “(4) __Elementary school.—__ 
+>     “(4)  __Elementary school__  __.—__ 
 
 >     The term ‘elementary school’ has the meaning given such term in section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801][/us/usc/t20/s7801]).
 
->     “(5) __Foundation.—__ 
+>     “(5)  __Foundation__  __.—__ 
 
 >     The term ‘Foundation’ means the National Science Foundation.
 
->     “(6) __Institution of higher education.—__ 
+>     “(6)  __Institution of higher education__  __.—__ 
 
 >     The term ‘institution of higher education’ has the meaning given such term in section 101(a) of the Higher Education Act of 1965 ([20 U.S.C. 1001(a)][/us/usc/t20/s1001/a]).
 
->     “(7) __Secondary school.—__ 
+>     “(7)  __Secondary school__  __.—__ 
 
 >     The term ‘secondary school’ has the meaning given such term in section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801][/us/usc/t20/s7801]).”
 

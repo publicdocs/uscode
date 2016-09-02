@@ -179,11 +179,11 @@
 
 [Pub. L. 108–173, title IX, § 904(a)][/us/pl/108/173/s904/a], Dec. 8, 2003, [117 Stat. 2377][/us/stat/117/2377], provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct a study to determine the feasibility and appropriateness of establishing in the Secretary \[of Health and Human Services\] authority to provide legally binding advisory opinions on appropriate interpretation and application of regulations to carry out the medicare program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\]. Such study shall examine the appropriate timeframe for issuing such advisory opinions, as well as the need for additional staff and funding to provide such opinions.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     The Comptroller General shall submit to Congress a report on the study conducted under paragraph (1) by not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\].”
 

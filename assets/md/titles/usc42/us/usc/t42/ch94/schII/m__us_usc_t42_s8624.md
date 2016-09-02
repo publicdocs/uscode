@@ -409,7 +409,7 @@
 
 [Pub. L. 102–550, title IX, § 927][/us/pl/102/550/s927], Oct. 28, 1992, [106 Stat. 3885][/us/stat/106/3885], as amended by [Pub. L. 103–185, § 1][/us/pl/103/185/s1], Dec. 14, 1993, [107 Stat. 2244][/us/stat/107/2244], provided that:
 
->     “(a) __Eligibility.—__ 
+>     “(a)  __Eligibility__  __.—__ 
 
 >     Tenants who—
 
@@ -419,15 +419,15 @@
 
 >         shall not have their eligibility or benefits under other programs designed to assist low-income people with increases in energy costs since 1978 reduced or eliminated, except as provided in subsection (d).
 
->     “(b) __Equal Treatment in Benefit Programs.—__ 
+>     “(b)  __Equal Treatment in Benefit Programs__  __.—__ 
 
 >     Tenants described in subsection (a) shall be treated identically with other households eligible for or receiving energy assistance, including in the determination of the home energy costs for which they are individually responsible and in the determination of their incomes for any program in which eligibility or benefits are based on need, except as provided in subsection (d).
 
->     “(c) __Applicability.—__ 
+>     “(c)  __Applicability__  __.—__ 
 
 >     This section applies to programs under the United States Housing Act of 1937 \[[42 U.S.C. 1437][/us/usc/t42/s1437] et seq.\], the National Housing Act \[[12 U.S.C. 1701][/us/usc/t12/s1701] et seq.\], section 101 of the Housing and Urban Development Act of 1965 \[[12 U.S.C. 1701s][/us/usc/t12/s1701s]\], section 202 of the Housing Act of 1959 \[[12 U.S.C. 1701q][/us/usc/t12/s1701q]\], and title V of the Housing Act of 1949 \[[42 U.S.C. 1471][/us/usc/t42/s1471] et seq.\].
 
->     “(d) __Special Rule for Low-Income Home Energy Assistance Program.—__ 
+>     “(d)  __Special Rule for Low-Income Home Energy Assistance Program__  __.—__ 
 
 >     For purposes of the Low-Income Home Energy Assistance Program, tenants described in subsection (a)(2) who are responsible for paying some or all heating or cooling costs shall not have their eligibility automatically denied. A State may consider the amount of the heating or cooling component of utility allowances received by tenants described in subsection (a)(2) when setting benefit levels under the Low-Income Home Energy Assistance Program. The size of any reduction in Low-Income Home Energy Assistance Program benefits must be reasonably related to the amount of the heating or cooling component of the utility allowance received and must ensure that the highest level of assistance will be furnished to those households with the lowest incomes and the highest energy costs in relation to income, taking into account family size, in compliance with section 2605(b)(5) of the Low-Income Home Energy Assistance Act of 1981 ([42 U.S.C. 8624(b)(5)][/us/usc/t42/s8624/b/5]).”
 

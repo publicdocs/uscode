@@ -127,11 +127,11 @@
 
 [Pub. L. 107–273, div. B, title II, § 2201][/us/pl/107/273/s2201], Nov. 2, 2002, [116 Stat. 1793][/us/stat/116/1793], provided that:
 
->     “(a) __Requirement.—__ 
+>     “(a)  __Requirement__  __.—__ 
 
 >     The National Institute of Justice shall conduct a study of drug-testing technologies in order to identify and assess the efficacy, accuracy, and usefulness for purposes of the National effort to detect the use of illicit drugs of any drug-testing technologies (including the testing of hair) that may be used as alternatives or complements to urinalysis as a means of detecting the use of such drugs.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[Nov. 2, 2002\], the Institute shall submit to Congress a report on the results of the study conducted under subsection (a).”
 

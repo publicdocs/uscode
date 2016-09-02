@@ -27,11 +27,11 @@
 
 [Pub. L. 112–239, div. C, title XXXI, § 3120][/us/pl/112/239/s3120], Jan. 2, 2013, [126 Stat. 2174][/us/stat/126/2174], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Energy and the Administrator for Nuclear Security shall review and, to the extent practicable, revise the Department of Energy Acquisition Regulation and other regulations, rules, directives, orders, and policies that apply to the administration, execution, and oversight of the missions and operations of the Department of Energy and the National Nuclear Security Administration to improve and streamline such administration, execution, and oversight.
 
->     “(b) __Improvement and Streamlining.—__ 
+>     “(b)  __Improvement and Streamlining__  __.—__ 
 
 >     In carrying out subsection (a), the Secretary and the Administrator shall review and, to the extent practicable, carry out the following actions:
 
@@ -49,11 +49,11 @@
 
 >     “(c) __Briefing.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary and the Administrator shall provide to the appropriate congressional committees a briefing on the review conducted under subsection (a), including the status of such review and any actions taken or planned to be taken to improve and streamline the regulations, rules, directives, orders, and policies described in such subsection.
 
->         “(2) __Appropriate congressional committees defined.—__ 
+>         “(2)  __Appropriate congressional committees defined__  __.—__ 
 
 >         In this subsection, the term ‘appropriate congressional committees’ means—
 

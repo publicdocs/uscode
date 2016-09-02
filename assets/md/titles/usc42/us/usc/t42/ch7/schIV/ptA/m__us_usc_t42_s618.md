@@ -127,11 +127,11 @@
 
 [Pub. L. 105–33, title V, § 5603][/us/pl/105/33/s5603], Aug. 5, 1997, [111 Stat. 646][/us/stat/111/646], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), this chapter \[chapter 6 (§§ 5601–5603) of subtitle F of title V of [Pub. L. 105–33][/us/pl/105/33], amending this section and sections 9858c, 9858i, 9858j, 9858m, and 9858n of this title\] and the amendments made by this chapter shall take effect as if included in the enactment of title VI of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 ([Public Law 104–193][/us/pl/104/193]; [110 Stat. 2278][/us/stat/110/2278]).
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >     The amendment made by section 5601(a)(2)(B) \[amending this section\] shall take effect on October 1, 1997.”
 

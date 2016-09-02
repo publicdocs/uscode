@@ -141,11 +141,11 @@
 
 [Pub. L. 106–313, title I, § 109][/us/pl/106/313/s109], Oct. 17, 2000, [114 Stat. 1255][/us/stat/114/1255], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The National Science Foundation shall conduct a study of the divergence in access to high technology (commonly referred to as the ‘digital divide’) in the United States.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 18 months after the date of enactment of this Act \[Oct. 17, 2000\], the Director of the National Science Foundation shall submit a report to Congress setting forth the findings of the study conducted under subsection (a).”
 

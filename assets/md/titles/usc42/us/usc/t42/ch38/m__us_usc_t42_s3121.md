@@ -131,15 +131,15 @@
 
 [Pub. L. 105–393, title I, § 104][/us/pl/105/393/s104], Nov. 13, 1998, [112 Stat. 3617][/us/stat/112/3617], provided that:
 
->     “(a) __Existing Rights, Duties, and Obligations.—__ 
+>     “(a)  __Existing Rights, Duties, and Obligations__  __.—__ 
 
 >     This title \[see Short Title of 1998 Amendment note set out above\], including the amendments made by this title, does not affect the validity of any right, duty, or obligation of the United States or any other person arising under any contract, loan, or other instrument or agreement that was in effect on the day before the effective date of this title \[see Effective Date note set out above\].
 
->     “(b) __Continuation of Suits.—__ 
+>     “(b)  __Continuation of Suits__  __.—__ 
 
 >     No action or other proceeding commenced by or against any officer or employee of the Economic Development Administration shall abate by reason of the enactment of this title.
 
->     “(c) __Liquidating Account.—__ 
+>     “(c)  __Liquidating Account__  __.—__ 
 
 >     The Economic Development Revolving Fund established under section 203 of the Public Works and Economic Development Act of 1965 ([42 U.S.C. 3143][/us/usc/t42/s3143]) (as in effect on the day before the effective date of this title) shall continue to be available to the Secretary of Commerce as a liquidating account (as defined in section 502 of the Federal Credit Reform Act of 1990 ([2 U.S.C. 661a][/us/usc/t2/s661a])) for payment of obligations and expenses in connection with financial assistance provided under—
 
@@ -149,7 +149,7 @@
 
 >         “(3) the Trade Act of 1974 ([19 U.S.C. 2101][/us/usc/t19/s2101] et seq.).
 
->     “(d) __Administration.—__ 
+>     “(d)  __Administration__  __.—__ 
 
 >     The Secretary of Commerce shall take such actions authorized before the effective date of this title as are appropriate to administer and liquidate grants, contracts, agreements, loans, obligations, debentures, or guarantees made by the Secretary under law in effect before the effective date of this title.”
 
@@ -173,13 +173,13 @@
 
 > “SEC. 303. __ESTABLISHMENT OF COMMISSION.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established a commission to be known as the Denali Commission (referred to in this title as the ‘Commission’).
 
 >     “(b) __Membership.—__ 
 
->         “(1) __Composition.—__ 
+>         “(1)  __Composition__  __.—__ 
 
 >         The Commission shall be composed of 7 members, who shall be appointed by the Secretary of Commerce (referred to in this title as the ‘Secretary’), of whom—
 
@@ -199,33 +199,33 @@
 
 >         “(2) __Federal cochairperson.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The President pro temporare \[sic\] of the Senate and the Speaker of the House of Representatives shall each submit a list of nominations for the position of the Federal Cochairperson under paragraph (1)(G), including pertinent biographical information, to the Secretary.
 
->             “(B) __Appointment.—__ 
+>             “(B)  __Appointment__  __.—__ 
 
 >             The Secretary shall appoint the Federal Cochairperson from among the list of nominations submitted under subparagraph (A). The Federal Cochairperson shall serve as an employee of the Department of Commerce, and may be removed by the Secretary for cause.
 
->             “(C) __Federal cochairperson vote.—__ 
+>             “(C)  __Federal cochairperson vote__  __.—__ 
 
 >             The Federal Cochairperson appointed under this paragraph shall break any tie in the voting of the Commission.
 
->         “(4) __Date.—__ 
+>         “(4)  __Date__  __.—__ 
 
 >         The appointments of the members of the Commission shall be made no later than January 1, 1999.
 
->     “(c) __Period of Appointment; Vacancies.—__ 
+>     “(c)  __Period of Appointment; Vacancies__  __.—__ 
 
 >     The Federal Cochairperson shall serve for a term of four years and may be reappointed. All other members shall be appointed for the life of the Commission. Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner as the original appointment.
 
 >     “(d) __Meetings.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Commission shall meet at the call of the Federal Cochairperson not less frequently than 2 times each year, and may, as appropriate, conduct business by telephone or other electronic means.
 
->         “(2) __Notification.—__ 
+>         “(2)  __Notification__  __.—__ 
 
 >         Not later than 2 weeks before calling a meeting under this subsection, the Federal Cochairperson shall—
 
@@ -233,7 +233,7 @@
 
 >             “(B) provide each member of the Commission with a written agenda for the meeting, including any proposals for discussion and consideration, and any appropriate background materials.
 
->     “(e) __Quorum.—__ 
+>     “(e)  __Quorum__  __.—__ 
 
 >     A majority of the members of the Commission shall constitute a quorum, but a lesser number of members may hold hearings.
 
@@ -241,11 +241,11 @@
 
 >     “(a) __Work Plan.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 1 year after the date of enactment of this Act \[Oct. 21, 1998\] and annually thereafter, the Commission shall develop a proposed work plan for Alaska that meets the requirements of paragraph (2) and submit that plan to the Federal Cochairperson for review in accordance with the requirements of subsection (b).
 
->         “(2) __Work plan.—__ 
+>         “(2)  __Work plan__  __.—__ 
 
 >         In developing the work plan, the Commission shall—
 
@@ -253,17 +253,17 @@
 
 >             “(B) provide for a comprehensive work plan for rural and infrastructure development and necessary job training in the area covered under the work plan.
 
->         “(3) __Report.—__ 
+>         “(3)  __Report__  __.—__ 
 
 >         Upon completion of a work plan under this subsection, the Commission shall prepare, and submit to the Secretary, the Federal Cochairperson, and the Director of the Office of Management and Budget, a report that outlines the work plan and contains recommendations for funding priorities.
 
 >     “(b) __Review by Federal Cochairperson.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Upon receiving a work plan under this section, the Secretary, acting through the Federal Cochairperson, shall publish the work plan in the Federal Register, with notice and an opportunity for public comment. The period for public review and comment shall be the 30-day period beginning on the date of publication of that notice.
 
->         “(2) __Criteria for review.—__ 
+>         “(2)  __Criteria for review__  __.—__ 
 
 >         In conducting a review under paragraph (1), the Secretary, acting through the Federal Cochairperson, shall—
 
@@ -271,7 +271,7 @@
 
 >             “(B) consult with appropriate Federal officials in Alaska including but not limited to Bureau of Indian Affairs, Economic Development Administration, and Rural Development Administration.
 
->         “(3) __Approval.—__ 
+>         “(3)  __Approval__  __.—__ 
 
 >         Not later than 30 days after the end of the period specified in paragraph (1), the Secretary acting through the Federal Cochairperson, shall—
 
@@ -285,27 +285,27 @@
 
 >                 “(ii) if applicable, includes recommendations for revisions to the work plan to make the plan subject to approval.
 
->         “(4) __Review of disapproval or partial approval.—__ 
+>         “(4)  __Review of disapproval or partial approval__  __.—__ 
 
 >         If the Secretary, acting through the Federal Cochairperson, disapproves or partially approves a work plan, the Federal Cochairperson shall submit that work plan to the Commission for review and revision.
 
 > “SEC. 305. __POWERS OF THE COMMISSION.__ 
 
->     “(a) __Information From Federal Agencies.—__ 
+>     “(a)  __Information From Federal Agencies__  __.—__ 
 
 >     The Commission may secure directly from any Federal department or agency such information as it considers necessary to carry out the provisions of this Act \[probably means this title\]. Upon request of the Federal Cochairperson of the Commission, the head of such department or agency shall furnish such information to the Commission. Agencies must provide the Commission with the requested information in a timely manner. Agencies are not required to provide the Commission any information that is exempt from disclosure by the Freedom of Information Act \[[5 U.S.C. 552][/us/usc/t5/s552]\]. Agenices \[sic\] may, upon request by the Commission, make services and personnel available to the Commission to carry out the duties of the Commission. To the maximum extent practicable, the Commission shall contract for completion of necesssary \[sic\] work utilizing local firms and labor to minimize costs.
 
->     “(b) __Postal Services.—__ 
+>     “(b)  __Postal Services__  __.—__ 
 
 >     The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
 
 >     “(c) __Gifts.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), the Commission, on behalf of the United States, may accept\[,\] use, and dispose of gifts or donations of services, property, or money for purposes of carrying out this Act \[probably means this title\].
 
->         “(2) __Conditional.—__ 
+>         “(2)  __Conditional__  __.—__ 
 
 >         With respect to conditional gifts—
 
@@ -321,51 +321,51 @@
 
 > “SEC. 306. __COMMISSION PERSONNEL MATTERS.__ 
 
->     “(a) __Compensation of Members.—__ 
+>     “(a)  __Compensation of Members__  __.—__ 
 
 >     Each member of the Commission who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315], United States Code, for each day (including travel time) during the time such member is engaged in the performance of the duties of the Commission. The Federal Cochairperson shall be compensated at the annual rate prescribed for level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315], United States Code. All members of the Commission who are officers or employees of the United States shall serve without compensation that is in addition to that received for their services as officers or employees of the United States.
 
->     “(b) __Travel Expenses.—__ 
+>     “(b)  __Travel Expenses__  __.—__ 
 
 >     The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
 
 >     “(c) __Staff.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Federal Cochairperson of the Commission may, without regard to the civil service laws and regulations, appoint such personnel as may be necessary to enable the Commission to perform its duties.
 
->         “(2) __Compensation.—__ 
+>         “(2)  __Compensation__  __.—__ 
 
 >         The Federal Cochairperson of the Commission may fix the compensation of personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates.
 
->     “(d) __Detail of Government Employees.—__ 
+>     “(d)  __Detail of Government Employees__  __.—__ 
 
 >     Any Federal Government employee may be detailed to the Commission without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
 
->     “(e) __Procurement of Temporary and Intermittent Services.—__ 
+>     “(e)  __Procurement of Temporary and Intermittent Services__  __.—__ 
 
 >     The Federal Cochairperson of the Commission may procure temporary and intermittent services under [section 3109(b) of title 5][/us/usc/t5/s3109/b], United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
 
->     “(f) __Offices.—__ 
+>     “(f)  __Offices__  __.—__ 
 
 >     The principal office of the Commission shall be located in Alaska, at a location that the Commission shall select.
 
->     “(g) __Administrative Expenses and Records.—__ 
+>     “(g)  __Administrative Expenses and Records__  __.—__ 
 
 >     The Commission is hereby prohibited from using more than 5 percent of the amounts appropriated under the authority of this Act \[probably means this title\] or transferred pursuant to section 329 of the Department of Transportation and Related Agencies Appropriations Act, 1999 (section 101(g) of division A of this Act) \[[43 U.S.C. 1653][/us/usc/t43/s1653] note\] for administrative expenses. The Commission and its grantees shall maintain accurate and complete records which shall be available for audit and examination by the Comptroller General or his or her designee.
 
->     “(h) __Inspector General.—__ 
+>     “(h)  __Inspector General__  __.—__ 
 
 >     \[Amended section 8G of the Inspector General Act, 5 U.S.C. App.\]
 
 > “SEC. 307. __SPECIAL FUNCTIONS.__ 
 
->     “(a) __Rural Utilities.—__ 
+>     “(a)  __Rural Utilities__  __.—__ 
 
 >     In carrying out its functions under this title, the Commission shall as appropriate, provide assistance, seek to avoid duplicating services and assistance, and complement the water and sewer wastewater programs under section 306D of the Consolidated Farm and Rural Development Act ([7 U.S.C. 1926d][/us/usc/t7/s1926d]) and section 303 of the Safe Drinking Water Act Amendments of 1996 ([33 U.S.C. 1263a][/us/usc/t33/s1263a]).
 
->     “(b) __Bulk Fuels.—__ 
+>     “(b)  __Bulk Fuels__  __.—__ 
 
 >     Funds transferred to the Commission pursuant to section 329 of the Department of Transportation and Related Agencies Appropriations Act, 1999 (section 101(g) of division A of this Act) \[[43 U.S.C. 1653][/us/usc/t43/s1653] note\] shall be available without further appropriation and until expended. The Commission, in consultation with the Commandant of the Coast Guard, shall develop a plan to provide for the repair or replacement of bulk fuel storage tanks in Alaska that are not in compliance with applicable—
 
@@ -373,15 +373,15 @@
 
 >         “(2) State law.
 
->     “(c) __Demonstration Health Projects.—__ 
+>     “(c)  __Demonstration Health Projects__  __.—__ 
 
 >     In order to demonstrate the value of adequate health facilities and services to the economic development of the region, the Secretary of Health and Human Services is authorized to make interagency transfers to the Denali Commission to plan, construct, and equip demonstration health, nutrition, and child care projects, including hospitals, health care clinics, and mental health facilities (including drug and alcohol treatment centers) in accordance with the Work Plan referred to under section 304 of Title III—Denali Commission of Division C—Other Matters of [Public Law 105–277][/us/pl/105/277]. No grant for construction or equipment of a demonstration project shall exceed 50 percentum of such costs, unless the project is located in a severely economically distressed community, as identified in the Work Plan referred to under section 304 of Title III—Denali Commission of Division C—Other Matters of [Public Law 105–277][/us/pl/105/277], in which case no grant shall exceed 80 percentum of such costs. To carry out this section, there is authorized to be appropriated such sums as may be necessary.
 
->     “(d) __Solid Waste.—__ 
+>     “(d)  __Solid Waste__  __.—__ 
 
 >     The Secretary of Agriculture is authorized to make direct lump sum payments which shall remain available until expended to the Denali Commission to address deficiencies in solid waste disposal sites which threaten to contaminate rural drinking water supplies.
 
->     “(e) __Docks, Waterfront Transportation Development, and Related Infrastructure Projects.—__ 
+>     “(e)  __Docks, Waterfront Transportation Development, and Related Infrastructure Projects__  __.—__ 
 
 >     The Secretary of Transportation is authorized to make direct lump sum payments to the Commission to construct docks, waterfront development projects, and related transportation infrastructure, provided the local community provides a ten percent non-Federal match in the form of any necessary land or planning and design funds. To carry out this section, there is authorized to be appropriated such sums as may be necessary.
 
@@ -391,17 +391,17 @@
 
 > “SEC. 309. __DENALI ACCESS SYSTEM PROGRAM.__ 
 
->     “(a) __Establishment of the Denali Access System Program.—__ 
+>     “(a)  __Establishment of the Denali Access System Program__  __.—__ 
 
 >     Not later than 3 months after the date of enactment of the SAFETEA–LU \[Aug. 10, 2005\], the Secretary of Transportation shall establish a program to pay the costs of planning, designing, engineering, and constructing road and other surface transportation infrastructure identified for the Denali access system program under this section.
 
 >     “(b) __Denali Access System Program Advisory Committee.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         Not later than 3 months after the date of enactment of the SAFETEA–LU \[Aug. 10, 2005\], the Denali Commission shall establish a Denali Access System Program Advisory Committee (referred to in this section as the ‘advisory committee’).
 
->         “(2) __Membership.—__ 
+>         “(2)  __Membership__  __.—__ 
 
 >         The advisory committee shall be composed of nine members to be appointed by the Governor of the State of Alaska as follows:
 
@@ -413,15 +413,15 @@
 
 >         “(3) __Terms.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except for the chairman of the Commission who shall remain a member of the advisory committee, members shall be appointed to serve a term of 4 years.
 
->             “(B) __Initial members.—__ 
+>             “(B)  __Initial members__  __.—__ 
 
 >             Except for the chairman of the Commission, of the eight initial members appointed to the advisory committee, two shall be appointed for a term of 1 year, two shall be appointed for a term of 2 years, two shall be appointed for a term of 3 years, and two shall be appointed for a term of 4 years. All subsequent appointments shall be for 4 years.
 
->         “(4) __Responsibilities.—__ 
+>         “(4)  __Responsibilities__  __.—__ 
 
 >         The advisory committee shall be responsible for the following activities:
 
@@ -433,67 +433,67 @@
 
 >             “(D) Facilitate the Commission’s work on transportation projects involving more than one region.
 
->         “(5) __FACA exemption.—__ 
+>         “(5) __FACA__  __exemption__  __.—__ 
 
 >         The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the advisory committee.
 
 >     “(c) __Allocation of Funds.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall allocate funding authorized and made available for the Denali access system program to the Commission to carry out this section.
 
->         “(2) __Distribution of funding.—__ 
+>         “(2)  __Distribution of funding__  __.—__ 
 
 >         In distributing funds for surface transportation projects funded under the program, the Commission shall consult the list of transportation priorities developed by the advisory committee.
 
->     “(d) __Preference to Alaska Materials and Products.—__ 
+>     “(d)  __Preference to Alaska Materials and Products__  __.—__ 
 
 >     To construct a project under this section, the Commission shall encourage, to the maximum extent practicable, the use of employees and businesses that are residents of Alaska.
 
->     “(e) __Design Standards.—__ 
+>     “(e)  __Design Standards__  __.—__ 
 
 >     Each project carried out under this section shall use technology and design standards determined by the Commission to be appropriate given the location and the functionality of the project.
 
->     “(f) __Maintenance.—__ 
+>     “(f)  __Maintenance__  __.—__ 
 
 >     Funding for a construction project under this section may include an additional amount equal to not more than 10 percent of the total cost of construction, to be retained for future maintenance of the project. All such retained funds shall be dedicated for maintenance of the project and may not be used for other purposes.
 
->     “(g) __Lead Agency Designation.—__ 
+>     “(g)  __Lead Agency Designation__  __.—__ 
 
 >     For purposes of projects carried out under this section, the Commission shall be designated as the lead agency for purposes of accepting Federal funds and for purposes of carrying out this project.
 
->     “(h) __Non-Federal Share.—__ 
+>     “(h)  __Non-Federal Share__  __.—__ 
 
 >     Notwithstanding any other provision of law, funds made available to carry out this section may be used to meet the non-Federal share of the cost of projects under title 23, United States Code.
 
 >     “(i) __Surface Transportation Program Transferability.—__ 
 
->         “(1) __Transferability.—__ 
+>         “(1)  __Transferability__  __.—__ 
 
 >         In any fiscal year, up to 15 percent of the amounts made available to the State of Alaska for surface transportation by \[former\] [section 133 of title 23][/us/usc/t23/s133], United States Code, may be transferred to the Denali access system program.
 
->         “(2) __No effect on set-aside.—__ 
+>         “(2)  __No effect on set-aside__  __.—__ 
 
 >         Paragraph (2) of section 133(d) \[of title 23\], United States Code, shall not apply to funds transferred under paragraph (1).
 
 >     “(j) __Authorization of Appropriations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There is authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $15,000,000 for each of fiscal years 2006 through 2009.
 
->         “(2) __Applicability of title 23.—__ 
+>         “(2)  __Applicability of title 23__  __.—__ 
 
 >         Funds made available to carry out this section shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code; except that such funds shall not be transferable and shall remain available until expended, and the Federal share of the cost of any project carried out using such funds shall be determined in accordance with section 120(b).
 
 > “SEC. 310. __AUTHORIZATION OF APPROPRIATIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     There are authorized to be appropriated to the Commission to carry out the duties of the Commission consistent with the purposes of this title and pursuant to the work plan approved under section 4 \[304\] under this Act, $20,000,000 for fiscal year 1999, and such sums as may be necessary for fiscal years 2000, 2001, 2002, and 2008\[.\]
 
->     “(b) __Availability.—__ 
+>     “(b)  __Availability__  __.—__ 
 
 >     Any sums appropriated under the authorization contained in this section shall remain available until expended.
 
@@ -527,15 +527,15 @@
 
 > “SEC. 311. __TRANSFER OF FUNDS FROM OTHER FEDERAL AGENCIES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to subsection (c), for purposes of this Act \[probably means this title\], the Commission may accept transfers of funds from other Federal agencies.
 
->     “(b) __Transfers.—__ 
+>     “(b)  __Transfers__  __.—__ 
 
 >     Any Federal agency authorized to carry out an activity that is within the authority of the Commission may transfer to the Commission any appropriated funds for the activity.
 
->     “(c) __Treatment.—__ 
+>     “(c)  __Treatment__  __.—__ 
 
 >     Any funds transferred to the Commission under this subsection—
 

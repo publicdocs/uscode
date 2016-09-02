@@ -145,11 +145,11 @@
 
 [Pub. L. 105–276, title V, § 589][/us/pl/105/276/s589], Oct. 21, 1998, [112 Stat. 2651][/us/stat/112/2651], provided that:
 
->     “(a) __Establishment of Policy.—__ 
+>     “(a)  __Establishment of Policy__  __.—__ 
 
 >     Not later than 60 days after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary of Housing and Urban Development shall publish a notice in the Federal Register for effect that takes effect upon publication and provides that the specific and unmodified standards provided in the March 20, 1991, Memorandum from the General Counsel of the Department of Housing and Urban Development to all Regional Counsel shall be the policy of the Department of Housing and Urban Development with respect to complaints of discrimination under the Fair Housing Act ([42 U.S.C. 3601][/us/usc/t42/s3601] et seq.) on the basis of familial status which involve an occupancy standard established by a housing provider.
 
->     “(b) __Prohibition of National Standard.—__ 
+>     “(b)  __Prohibition of National Standard__  __.—__ 
 
 >     The Secretary of Housing and Urban Development shall not directly or indirectly establish a national occupancy standard.”
 

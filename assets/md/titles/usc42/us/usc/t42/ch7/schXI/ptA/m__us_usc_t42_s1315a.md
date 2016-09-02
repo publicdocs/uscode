@@ -283,37 +283,37 @@
 
 [Pub. L. 111–148, title II, § 2705][/us/pl/111/148/s2705], Mar. 23, 2010, [124 Stat. 324][/us/stat/124/324], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall, in coordination with the Center for Medicare and Medicaid Innovation (as established under section 1115A of the Social Security Act \[[42 U.S.C. 1315a][/us/usc/t42/s1315a]\], as added by section 3021 of this Act), establish the Medicaid Global Payment System Demonstration Project under which a participating State shall adjust the payments made to an eligible safety net hospital system or network from a fee-for-service payment structure to a global capitated payment model.
 
->     “(b) __Duration and Scope.—__ 
+>     “(b)  __Duration and Scope__  __.—__ 
 
 >     The demonstration project conducted under this section shall operate during a period of fiscal years 2010 through 2012. The Secretary shall select not more than 5 States to participate in the demonstration project.
 
->     “(c) __Eligible Safety Net Hospital System or Network.—__ 
+>     “(c)  __Eligible Safety Net Hospital System or Network__  __.—__ 
 
 >     For purposes of this section, the term ‘eligible safety net hospital system or network’ means a large, safety net hospital system or network (as defined by the Secretary) that operates within a State selected by the Secretary under subsection (b).
 
 >     “(d) __Evaluation.—__ 
 
->         “(1) __Testing.—__ 
+>         “(1)  __Testing__  __.—__ 
 
 >         The Innovation Center shall test and evaluate the demonstration project conducted under this section to examine any changes in health care quality outcomes and spending by the eligible safety net hospital systems or networks.
 
->         “(2) __Budget neutrality.—__ 
+>         “(2)  __Budget neutrality__  __.—__ 
 
 >         During the testing period under paragraph (1), any budget neutrality requirements under section 1115A(b)(3) of the Social Security Act \[[42 U.S.C. 1315a(b)(3)][/us/usc/t42/s1315a/b/3]\] (as so added) shall not be applicable.
 
->         “(3) __Modification.—__ 
+>         “(3)  __Modification__  __.—__ 
 
 >         During the testing period under paragraph (1), the Secretary may, in the Secretary’s discretion, modify or terminate the demonstration project conducted under this section.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     Not later than 12 months after the date of completion of the demonstration project under this section, the Secretary shall submit to Congress a report containing the results of the evaluation and testing conducted under subsection (d), together with recommendations for such legislation and administrative action as the Secretary determines appropriate.
 
->     “(f) __Authorization of Appropriations.—__ 
+>     “(f)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated such sums as are necessary to carry out this section.”
 

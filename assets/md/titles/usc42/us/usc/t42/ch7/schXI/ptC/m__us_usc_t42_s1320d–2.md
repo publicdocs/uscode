@@ -421,15 +421,15 @@
 
 [Pub. L. 111–148, title I, § 1104(c)][/us/pl/111/148/s1104/c], Mar. 23, 2010, [124 Stat. 153][/us/stat/124/153], provided that:
 
->     “(1) __Unique health plan identifier.—__ 
+>     “(1)  __Unique health plan identifier__  __.—__ 
 
 >     The Secretary \[of Health and Human Services\] shall promulgate a final rule to establish a unique health plan identifier (as described in section 1173(b) of the Social Security Act ([42 U.S.C. 1320d–2(b)][/us/usc/t42/s1320d–2/b])) based on the input of the National Committee on Vital and Health Statistics. The Secretary may do so on an interim final basis and such rule shall be effective not later than October 1, 2012.
 
->     “(2) __Electronic funds transfer.—__ 
+>     “(2)  __Electronic funds transfer__  __.—__ 
 
 >     The Secretary shall promulgate a final rule to establish a standard for electronic funds transfers (as described in section 1173(a)(2)(J) of the Social Security Act, as added by subsection (b)(2)(A)). The Secretary may do so on an interim final basis and shall adopt such standard not later than January 1, 2012, in a manner ensuring that such standard is effective not later than January 1, 2014.
 
->     “(3) __Health claims attachments.—__ 
+>     “(3)  __Health claims attachments__  __.—__ 
 
 >     The Secretary shall promulgate a final rule to establish a transaction standard and a single set of associated operating rules for health claims attachments (as described in section 1173(a)(2)(B) of the Social Security Act ([42 U.S.C. 1320d–2(a)(2)(B)][/us/usc/t42/s1320d–2/a/2/B])) that is consistent with the X12 Version 5010 transaction standards. The Secretary may do so on an interim final basis and shall adopt a transaction standard and a single set of associated operating rules not later than January 1, 2014, in a manner ensuring that such standard is effective not later than January 1, 2016.”
 
@@ -437,7 +437,7 @@
 
 [Pub. L. 111–148, title X, § 10109(b)][/us/pl/111/148/s10109/b], (c), Mar. 23, 2010, [124 Stat. 916][/us/stat/124/916], provided that:
 
->     “(b) __Activities and Items for Initial Consideration.—__ 
+>     “(b)  __Activities and Items for Initial Consideration__  __.—__ 
 
 >     For purposes of section 1173(a)(5) of the Social Security Act \[[42 U.S.C. 1320d–2(a)(5)][/us/usc/t42/s1320d–2/a/5]\], as added by subsection (a), the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall, not later than January 1, 2012, seek input on activities and items relating to the following areas:
 
@@ -453,19 +453,19 @@
 
 >     “(c) __ICD Coding Crosswalks.—__ 
 
->         “(1) __ICD–9 to icd–10 crosswalk.—__ 
+>         “(1) __ICD–9__  __to icd–10 crosswalk__  __.—__ 
 
 >         The Secretary shall task the ICD–9–CM Coordination and Maintenance Committee to convene a meeting, not later than January 1, 2011, to receive input from appropriate stakeholders (including health plans, health care providers, and clinicians) regarding the crosswalk between the Ninth and Tenth Revisions of the International Classification of Diseases (ICD–9 and ICD–10, respectively) that is posted on the website of the Centers for Medicare & Medicaid Services, and make recommendations about appropriate revisions to such crosswalk.
 
->         “(2) __Revision of crosswalk.—__ 
+>         “(2)  __Revision of crosswalk__  __.—__ 
 
 >         For purposes of the crosswalk described in paragraph (1), the Secretary shall make appropriate revisions and post any such revised crosswalk on the website of the Centers for Medicare & Medicaid Services.
 
->         “(3) __Use of revised crosswalk.—__ 
+>         “(3)  __Use of revised crosswalk__  __.—__ 
 
 >         For purposes of paragraph (2), any revised crosswalk shall be treated as a code set for which a standard has been adopted by the Secretary for purposes of section 1173(c)(1)(B) of the Social Security Act ([42 U.S.C. 1320d–2(c)(1)(B)][/us/usc/t42/s1320d–2/c/1/B]).
 
->         “(4) __Subsequent crosswalks.—__ 
+>         “(4)  __Subsequent crosswalks__  __.—__ 
 
 >         For subsequent revisions of the International Classification of Diseases that are adopted by the Secretary as a standard code set under section 1173(c) of the Social Security Act ([42 U.S.C. 1320d–2(c)][/us/usc/t42/s1320d–2/c]), the Secretary shall, after consultation with the appropriate stakeholders, post on the website of the Centers for Medicare & Medicaid Services a crosswalk between the previous and subsequent version of the International Classification of Diseases not later than the date of implementation of such subsequent revision.”
 
@@ -473,11 +473,11 @@
 
 [Pub. L. 104–191, title II, § 264][/us/pl/104/191/s264], Aug. 21, 1996, [110 Stat. 2033][/us/stat/110/2033], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than the date that is 12 months after the date of the enactment of this Act \[Aug. 21, 1996\], the Secretary of Health and Human Services shall submit to the Committee on Labor and Human Resources and the Committee on Finance of the Senate and the Committee on Commerce and the Committee on Ways and Means of the House of Representatives detailed recommendations on standards with respect to the privacy of individually identifiable health information.
 
->     “(b) __Subjects for Recommendations.—__ 
+>     “(b)  __Subjects for Recommendations__  __.—__ 
 
 >     The recommendations under subsection (a) shall address at least the following:
 
@@ -487,17 +487,17 @@
 
 >         “(3) The uses and disclosures of such information that should be authorized or required.
 
->     “(c) __Regulations.—__ 
+>     “(c)  __Regulations__  __.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         If legislation governing standards with respect to the privacy of individually identifiable health information transmitted in connection with the transactions described in section 1173(a) of the Social Security Act \[[42 U.S.C. 1320d–2(a)][/us/usc/t42/s1320d–2/a]\] (as added by section 262) is not enacted by the date that is 36 months after the date of the enactment of this Act \[Aug. 21, 1996\], the Secretary of Health and Human Services shall promulgate final regulations containing such standards not later than the date that is 42 months after the date of the enactment of this Act. Such regulations shall address at least the subjects described in subsection (b).
 
->         “(2) __Preemption.—__ 
+>         “(2)  __Preemption__  __.—__ 
 
 >         A regulation promulgated under paragraph (1) shall not supercede a contrary provision of State law, if the provision of State law imposes requirements, standards, or implementation specifications that are more stringent than the requirements, standards, or implementation specifications imposed under the regulation.
 
->     “(d) __Consultation.—__ 
+>     “(d)  __Consultation__  __.—__ 
 
 >     In carrying out this section, the Secretary of Health and Human Services shall consult with—
 

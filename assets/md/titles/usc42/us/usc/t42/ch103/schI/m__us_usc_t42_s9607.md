@@ -149,17 +149,17 @@
 
             (D) The President may issue such rules and take such other actions as are necessary to effectuate the purposes of this paragraph.
 
-        (5) __Suspension of liability transfer.—__ 
+        (5)  __Suspension of liability transfer__  __.—__ 
 
         Notwithstanding paragraphs (1), (2), (3), and (4) of this subsection and subsection (j) of [section 9611 of this title][/us/usc/t42/s9611], no liability shall be transferred to or assumed by the Post-Closure Liability Trust Fund established by section 9641 1 of this title prior to completion of the study required under paragraph (6) of this subsection, transmission of a report of such study to both Houses of Congress, and authorization of such a transfer or assumption by Act of Congress following receipt of such study and report.
 
         (6) __Study of options for post-closure program.—__ 
 
-            (A) __Study.—__ 
+            (A)  __Study__  __.—__ 
 
             The Comptroller General shall conduct a study of options for a program for the management of the liabilities associated with hazardous waste treatment, storage, and disposal sites after their closure which complements the policies set forth in the Hazardous and Solid Waste Amendments of 1984 and assures the protection of human health and the environment.
 
-            (B) __Program elements.—__ 
+            (B)  __Program elements__  __.—__ 
 
             The program referred to in subparagraph (A) shall be designed to assure each of the following:
 
@@ -169,7 +169,7 @@
 
                 (iii) Persons who are or seek to become owners and operators of hazardous waste disposal facilities will be able to manage their potential future liabilities and to attract the investment capital necessary to build, operate, and close such facilities in a manner which assures protection of human health and the environment.
 
-            (C) __Assessments.—__ 
+            (C)  __Assessments__  __.—__ 
 
             The study under this paragraph shall include assessments of treatment, storage, and disposal facilities which have been or are likely to be issued a permit under section 3005 of the Solid Waste Disposal Act \[[42 U.S.C. 6925][/us/usc/t42/s6925]\] and the likelihood of future insolvency on the part of owners and operators of such facilities. Separate assessments shall be made for different classes of facilities and for different classes of land disposal facilities and shall include but not be limited to—
 
@@ -179,11 +179,11 @@
 
                 (iii) the availability of mechanisms by which owners and operators of such facilities can assure that current and future costs, including post-closure costs, will be financed.
 
-            (D) __Procedures.—__ 
+            (D)  __Procedures__  __.—__ 
 
             In carrying out the responsibilities of this paragraph, the Comptroller General shall consult with the Administrator, the Secretary of Commerce, the Secretary of the Treasury, and the heads of other appropriate Federal agencies.
 
-            (E) __Consideration of options.—__ 
+            (E)  __Consideration of options__  __.—__ 
 
             In conducting the study under this paragraph, the Comptroller General shall consider various mechanisms and combinations of mechanisms to complement the policies set forth in the Hazardous and Solid Waste Amendments of 1984 to serve the purposes set forth in subparagraph (B) and to assure that the current and future costs associated with hazardous waste facilities, including post-closure costs, will be adequately financed and, to the greatest extent possible, borne by the owners and operators of such facilities. Mechanisms to be considered include, but are not limited to—
 
@@ -203,7 +203,7 @@
 
                 (viii) creation of a new program to be administered by a new or existing Federal agency or by a federally chartered corporation.
 
-            (F) __Recommendations.—__ 
+            (F)  __Recommendations__  __.—__ 
 
             The Comptroller General shall consider options for funding any program under this section and shall, to the extent necessary, make recommendations to the appropriate committees of Congress for additional authority to implement such program.
 

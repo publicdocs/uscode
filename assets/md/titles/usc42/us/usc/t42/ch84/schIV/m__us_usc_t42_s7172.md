@@ -97,21 +97,21 @@
 
 > “SEC. 1801. __OIL PIPELINE RATEMAKING METHODOLOGY.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Oct. 24, 1992\], the Federal Energy Regulatory Commission shall issue a final rule which establishes a simplified and generally applicable ratemaking methodology for oil pipelines in accordance with section 1(5) of part I of the Interstate Commerce Act \[former [49 U.S.C. 1(5)][/us/usc/t49/s1/5]\].
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     The final rule to be issued under subsection (a) may not take effect before the 365th day following the date of the issuance of the rule.
 
 > “SEC. 1802. __STREAMLINING OF COMMISSION PROCEDURES.__ 
 
->     “(a) __Rulemaking.—__ 
+>     “(a)  __Rulemaking__  __.—__ 
 
 >     Not later than 18 months after the date of the enactment of this Act \[Oct. 24, 1992\], the Commission shall issue a final rule to streamline procedures of the Commission relating to oil pipeline rates in order to avoid unnecessary regulatory costs and delays.
 
->     “(b) __Scope of Rulemaking.—__ 
+>     “(b)  __Scope of Rulemaking__  __.—__ 
 
 >     Issues to be considered in the rulemaking proceeding to be conducted under subsection (a) shall include the following:
 
@@ -125,13 +125,13 @@
 
 >         “(5) Identification of specific circumstances under which Commission staff may initiate a protest.
 
->     “(c) __Additional Procedural Changes.—__ 
+>     “(c)  __Additional Procedural Changes__  __.—__ 
 
 >     In conducting the rulemaking proceeding to carry out subsection (a), the Commission shall identify and transmit to Congress any other procedural changes relating to oil pipeline rates which the Commission determines are necessary to avoid unnecessary regulatory costs and delays and for which additional legislative authority may be necessary.
 
 >     “(d) __Withdrawal of Tariffs and Complaints.—__ 
 
->         “(1) __Withdrawal of tariffs.—__ 
+>         “(1)  __Withdrawal of tariffs__  __.—__ 
 
 >         If an oil pipeline tariff which is filed under part I of the Interstate Commerce Act \[former [49 U.S.C. 1][/us/usc/t49/s1] et seq.\] and which is subject to investigation is withdrawn—
 
@@ -141,17 +141,17 @@
 
 >             “(C) any amounts collected under the withdrawn tariff rate which are in excess of the previous tariff rate shall be refunded.
 
->         “(2) __Withdrawal of complaints.—__ 
+>         “(2)  __Withdrawal of complaints__  __.—__ 
 
 >         If a complaint which is filed under section 13 of the Interstate Commerce Act \[former [49 U.S.C. 13][/us/usc/t49/s13]\] with respect to an oil pipeline tariff is withdrawn, any proceeding with respect to such complaint shall be terminated.
 
->     “(e) __Alternative Dispute Resolution.—__ 
+>     “(e)  __Alternative Dispute Resolution__  __.—__ 
 
 >     To the maximum extent practicable, the Commission shall establish appropriate alternative dispute resolution procedures, including required negotiations and voluntary arbitration, early in an oil pipeline rate proceeding as a method preferable to adjudication in resolving disputes relating to the rate. Any proposed rates derived from implementation of such procedures shall be considered by the Commission on an expedited basis for approval.
 
 > “SEC. 1803. __PROTECTION OF CERTAIN EXISTING RATES.__ 
 
->     “(a) __Rates Deemed Just and Reasonable.—__ 
+>     “(a)  __Rates Deemed Just and Reasonable__  __.—__ 
 
 >     Except as provided in subsection (b)—
 
@@ -161,7 +161,7 @@
 
 >         if the rate in effect, as described in paragraph (1) or (2), has not been subject to protest, investigation, or complaint during such 365-day period.
 
->     “(b) __Changed Circumstances.—__ 
+>     “(b)  __Changed Circumstances__  __.—__ 
 
 >     No person may file a complaint under section 13 of the Interstate Commerce Act \[former [49 U.S.C. 13][/us/usc/t49/s13]\] against a rate deemed to be just and reasonable under subsection (a) unless—
 
@@ -177,7 +177,7 @@
 
 >         If the Commission determines pursuant to a proceeding instituted as a result of a complaint under section 13 of the Interstate Commerce Act that the rate is not just and reasonable, the rate shall not be deemed to be just and reasonable. Any tariff reduction or refunds that may result as an outcome of such a complaint shall be prospective from the date of the filing of the complaint.
 
->     “(c) __Limitation Regarding Unduly Discriminatory or Preferential Tariffs.—__ 
+>     “(c)  __Limitation Regarding Unduly Discriminatory or Preferential Tariffs__  __.—__ 
 
 >     Nothing in this section shall prohibit any aggrieved person from filing a complaint under section 13 or section 15(l) of the Interstate Commerce Act \[former [49 U.S.C. 13][/us/usc/t49/s13], 15(1)\] challenging any tariff provision as unduly discriminatory or unduly preferential.
 
@@ -185,25 +185,25 @@
 
 > “For the purposes of this title, the following definitions apply:
 
->     “(1) __Commission.—__ 
+>     “(1)  __Commission__  __.—__ 
 
 >     The term ‘Commission’ means the Federal Energy Regulatory Commission and, unless the context requires otherwise, includes the Oil Pipeline Board and any other office or component of the Commission to which the functions and authority vested in the Commission under section 402(b) of the Department of Energy Organization Act ([42 U.S.C. 7172(b)][/us/usc/t42/s7172/b]) are delegated.
 
 >     “(2) __Oil pipeline.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as provided in subparagraph (B), the term ‘oil pipeline’ means any common carrier (within the meaning of the Interstate Commerce Act \[former [49 U.S.C. 1][/us/usc/t49/s1] et seq.\]) which transports oil by pipeline subject to the functions and authority vested in the Commission under section 402(b) of the Department of Energy Organization Act ([42 U.S.C. 7172(b)][/us/usc/t42/s7172/b]).
 
->         “(B) __Exception.—__ 
+>         “(B)  __Exception__  __.—__ 
 
 >         The term ‘oil pipeline’ does not include the Trans-Alaska Pipeline authorized by the Trans-Alaska Pipeline Authorization Act ([43 U.S.C. 1651][/us/usc/t43/s1651] et seq.) or any pipeline delivering oil directly or indirectly to the Trans-Alaska Pipeline.
 
->     “(3) __Oil.—__ 
+>     “(3)  __Oil__  __.—__ 
 
 >     The term ‘oil’ has the same meaning as is given such term for purposes of the transfer of functions from the Interstate Commerce Commission to the Federal Energy Regulatory Commission under section 402(b) of the Department of Energy Organization Act ([42 U.S.C. 7172(b)][/us/usc/t42/s7172/b]).
 
->     “(4) __Rate.—__ 
+>     “(4)  __Rate__  __.—__ 
 
 >     The term ‘rate’ means all charges that an oil pipeline requires shippers to pay for transportation services.”
 

@@ -19,7 +19,7 @@
 
         (1) __Test procedures.—__ 
 
-            (A)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. No subpar. (B) has been enacted.__  __ </sup></sup> __  __Amendment.—__ 
+            (A)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. No subpar. (B) has been enacted.__  __ </sup></sup> __   __Amendment__  __.—__ 
 
             At least once every 7 years, the Secretary shall conduct an evaluation of each class of covered equipment and—
 
@@ -109,7 +109,7 @@
 
         (9) __Walk-in coolers and walk-in freezers.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             For the purpose of test procedures for walk-in coolers and walk-in freezers:
 
@@ -123,11 +123,11 @@
 
             (B) __Test procedure.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Not later than January 1, 2010, the Secretary shall establish a test procedure to measure the energy-use of walk-in coolers and walk-in freezers.
 
-                (ii) __Computer modeling.—__ 
+                (ii)  __Computer modeling__  __.—__ 
 
                 The test procedure may be based on computer modeling, if the computer model or models have been verified using the results of laboratory tests on a significant sample of walk-in coolers and walk-in freezers.
 

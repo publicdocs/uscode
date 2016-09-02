@@ -63,7 +63,7 @@
 
 [Pub. L. 110–229, title V, § 514][/us/pl/110/229/s514], May 8, 2008, [122 Stat. 844][/us/stat/122/844], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -91,7 +91,7 @@
 
 >             “(C) to remove or reduce obstacles to use of produced water for irrigation or other purposes in ways that will not adversely affect water quality or the environment.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this section are—
 
@@ -105,11 +105,11 @@
 
 >         “(2) to demonstrate means of accomplishing those results.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Lower basin state.—__ 
+>         “(1)  __Lower basin state__  __.—__ 
 
 >         The term ‘Lower Basin State’ means any of the States of—
 
@@ -119,7 +119,7 @@
 
 >             “(C) Nevada.
 
->         “(2) __Produced water.—__ 
+>         “(2)  __Produced water__  __.—__ 
 
 >         The term ‘produced water’ means water from an underground source that is brought to the surface as part of the process of exploration for, or development of—
 
@@ -131,11 +131,11 @@
 
 >             “(D) any other substance to be used as an energy source.
 
->         “(3) __Secretary.—__ 
+>         “(3)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of the Interior.
 
->         “(4) __Upper basin state.—__ 
+>         “(4)  __Upper basin state__  __.—__ 
 
 >         The term ‘Upper Basin State’ means any of the States of—
 
@@ -149,7 +149,7 @@
 
 >     “(d) __Identification of Problems and Solutions.—__ 
 
->         “(1) __Study.—__ 
+>         “(1)  __Study__  __.—__ 
 
 >         The Secretary shall conduct a study to identify—
 
@@ -161,13 +161,13 @@
 
 >             “(D) the costs and benefits associated with reducing or eliminating the obstacles identified in subparagraphs (A) and (B).
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than 1 year after the date of enactment of this Act \[May 8, 2008\], the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report describing the results of the study under paragraph (1).
 
 >     “(e) __Implementation.—__ 
 
->         “(1) __Grants.—__ 
+>         “(1)  __Grants__  __.—__ 
 
 >         Subject to the availability of appropriations, the Secretary shall provide financial assistance for the development of facilities, technologies, and processes to demonstrate the feasibility, effectiveness, and safety of—
 
@@ -175,7 +175,7 @@
 
 >             “(B) increasing the extent to which produced water may be recovered and made suitable for use for irrigation, municipal, or industrial uses, or other purposes without adversely affecting water quality or the environment.
 
->         “(2) __Limitations.—__ 
+>         “(2)  __Limitations__  __.—__ 
 
 >         Assistance under this subsection—
 
@@ -195,7 +195,7 @@
 
 >             “(E) may be in addition to assistance provided by the Federal Government pursuant to other provisions of law.
 
->     “(f) __Consultation, Advice, and Comments.—__ 
+>     “(f)  __Consultation, Advice, and Comments__  __.—__ 
 
 >     In carrying out this section, including in preparing the report under subsection (d)(2) and establishing criteria to be used in connection with an award of financial assistance under subsection (e), the Secretary shall—
 
@@ -217,7 +217,7 @@
 
 >         “(4) solicit comments and suggestions from the public.
 
->     “(g) __Relation to Other Laws.—__ 
+>     “(g)  __Relation to Other Laws__  __.—__ 
 
 >     Nothing in this section supersedes, modifies, abrogates, or limits—
 
@@ -231,7 +231,7 @@
 
 >         “(2) the applicability or effect of any Federal law (including regulations).
 
->     “(h) __Authorization of Appropriations.—__ 
+>     “(h)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated—
 
@@ -251,29 +251,29 @@
 
 > “As used in this Act:
 
->     “(1) __Desalination or desalting.—__ 
+>     “(1)  __Desalination or desalting__  __.—__ 
 
 >     The terms ‘desalination’ or ‘desalting’ mean the use of any process or technique for the removal and, when feasible, adaptation to beneficial use, of organic and inorganic elements and compounds from saline or biologically impaired waters, by itself or in conjunction with other processes.
 
->     “(2) __Saline water.—__ 
+>     “(2)  __Saline water__  __.—__ 
 
 >     The term ‘saline water’ means sea water, brackish water, and other mineralized or chemically impaired water.
 
->     “(3) __United states.—__ 
+>     “(3)  __United states__  __.—__ 
 
 >     The term ‘United States’ means the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States.
 
->     “(4) __Usable water.—__ 
+>     “(4)  __Usable water__  __.—__ 
 
 >     The term ‘usable water’ means water of a high quality suitable for environmental enhancement, agricultural, industrial, municipal, and other beneficial consumptive or nonconsumptive uses.
 
->     “(5) __Secretary.—__ 
+>     “(5)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of the Interior.
 
 > “SEC. 3. __AUTHORIZATION OF RESEARCH AND STUDIES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In order to determine the most cost-effective and technologically efficient means by which usable water can be produced from saline water or water otherwise impaired or contaminated, the Secretary is authorized to award grants and to enter into contracts, to the extent provided in advance in appropriation Acts, to conduct, encourage, and assist in the financing of research to develop processes for converting saline water into water suitable for beneficial uses. Awards of research grants and contracts under this section shall be made on the basis of a competitive, merit-reviewed process. Research and study topics authorized by this section include—
 
@@ -291,37 +291,37 @@
 
 >         “(7) salinity modeling and toxicity analysis of brine discharges, cost reduction strategies for constructing and operating desalination facilities, and the horticultural effects of desalinated water used for irrigation.
 
->     “(b) __Project Recommendations and Reports to the Congress.—__ 
+>     “(b)  __Project Recommendations and Reports to the Congress__  __.—__ 
 
 >     As soon as practicable and within three years after the date of enactment of this Act \[Oct. 11, 1996\], the Secretary shall recommend to Congress desalination demonstration projects or full-scale desalination projects to carry out the purposes of this Act and to further evaluate and implement the results of research and studies conducted under the authority of this section. Recommendations for projects shall be accompanied by reports on the engineering and economic feasibility of proposed projects and their environmental impacts.
 
->     “(c) __Authority To Engage Others.—__ 
+>     “(c)  __Authority To Engage Others__  __.—__ 
 
 >     In carrying out research and studies authorized in this section, the Secretary may engage the necessary personnel, industrial or engineering firms, Federal laboratories, water resources research and technology institutes, other facilities, and educational institutions suitable to conduct investigations and studies authorized under this section.
 
->     “(d) __Alternative Technologies.—__ 
+>     “(d)  __Alternative Technologies__  __.—__ 
 
 >     In carrying out the purposes of this Act, the Secretary shall ensure that at least three separate technologies are evaluated and demonstrated for the purposes of accomplishing desalination.
 
 > “SEC. 4. __DESALINATION DEMONSTRATION AND DEVELOPMENT.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In order to further demonstrate the feasibility of desalination processes investigated either independently or in research conducted pursuant to section 3, the Secretary shall administer and conduct a demonstration and development program for water desalination and related activities, including the following:
 
->         “(1) __Desalination plants and modules.—__ 
+>         “(1)  __Desalination plants and modules__  __.—__ 
 
 >         Conduct or contract for technical work, including the design, construction, and testing of plants and modules to develop desalination processes and concepts.
 
->         “(2) __Byproducts.—__ 
+>         “(2)  __Byproducts__  __.—__ 
 
 >         Study methods for the marketing of byproducts resulting from the desalting of water to offset the costs of treatment and to reduce environmental impacts of those byproducts.
 
->         “(3) __Economic surveys.—__ 
+>         “(3)  __Economic surveys__  __.—__ 
 
 >         Conduct economic studies and surveys to determine present and prospective costs of producing water for beneficial purposes in various locations by desalination processes compared to other methods.
 
->     “(b) __Cooperative Agreements.—__ 
+>     “(b)  __Cooperative Agreements__  __.—__ 
 
 >     Federal participation in desalination activities may be conducted through cooperative agreements, including cost-sharing agreements, with non-Federal public utilities and State and local governmental agencies and other entities, in order to develop recommendations for Federal participation in processes and plants utilizing desalting technologies for the production of water.
 
@@ -343,11 +343,11 @@
 
 > “SEC. 8. __AUTHORIZATION OF APPROPRIATIONS.__ 
 
->     “(a) __Section 3.—__ 
+>     “(a)  __Section__  __3.—__ 
 
 >     There are authorized to be appropriated to carry out section 3 of this Act $5,000,000 per year for fiscal years 1997 through 2013. Of these amounts, up to $1,000,000 in each fiscal year may be awarded to institutions of higher education, including United States-Mexico binational research foundations and interuniversity research programs established by the two countries, for research grants without any cost-sharing requirement.
 
->     “(b) __Section 4.—__ 
+>     “(b)  __Section__  __4.—__ 
 
 >     There are authorized to be appropriated to carry out section 4 of this Act $3,000,000 for each of fiscal years 2012 through 2013.
 

@@ -197,11 +197,11 @@
 
 [Pub. L. 99–401, title I, § 105][/us/pl/99/401/s105], Aug. 27, 1986, [100 Stat. 906][/us/stat/100/906], provided that:
 
->     “(a) __Data Acquisition for 1987 and 1988.—__ 
+>     “(a)  __Data Acquisition for__  __1987__  __and__  __1988.—__ 
 
 >     The Attorney General shall acquire from criminal justice agencies statistical data, for the calendar years 1987 and 1988, about the incidence of child abuse, including child sexual abuse, and shall publish annually a summary of such data.
 
->     “(b) __Modification of Uniform Crime Reporting Program.—__ 
+>     “(b)  __Modification of Uniform Crime Reporting Program__  __.—__ 
 
 >         (1) As soon as practicable, but in no case later than January 1, 1989, the Attorney General shall modify the uniform crime reporting program in the Federal Bureau of Investigation to include data on the age of the victim of the offense and the relationship, if any, of the victim to the offender, for types of offenses that may involve child abuse, including child sexual abuse.
 

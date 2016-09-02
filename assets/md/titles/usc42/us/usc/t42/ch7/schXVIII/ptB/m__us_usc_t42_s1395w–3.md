@@ -437,15 +437,15 @@
 
 [Pub. L. 108–173, title III, § 302(b)(3)][/us/pl/108/173/s302/b/3], Dec. 8, 2003, [117 Stat. 2230][/us/stat/117/2230], as amended by [Pub. L. 110–275, title I, § 154(c)(1)][/us/pl/110/275/s154/c/1], July 15, 2008, [122 Stat. 2565][/us/stat/122/2565], provided that:
 
->     “(A) __Study.—__ 
+>     “(A)  __Study__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct a study on the impact of competitive acquisition of durable medical equipment under section 1847 of the Social Security Act \[[42 U.S.C. 1395w–3][/us/usc/t42/s1395w–3]\], as amended by paragraph (1) and as amended by section 2 of the Medicare DMEPOS Competitive Acquisition Reform Act of 2008 \[probably should refer to section 154 of the Medicare Improvements for Patients and Providers Act of 2008, [Pub. L. 110–275][/us/pl/110/275]\], on suppliers and manufacturers of such equipment and on patients. Such study shall specifically examine the impact of such competitive acquisition on access to, and quality of, such equipment and service related to such equipment and the topics specified in subparagraph (C).
 
->     “(B) __Report.—__ 
+>     “(B)  __Report__  __.—__ 
 
 >     Not later than 1 year after the first date that payments are made under section 1847 of the Social Security Act, the Comptroller General shall submit to Congress a report on the study conducted under subparagraph (A) and shall include in the report such recommendations as the Comptroller General determines appropriate.
 
->     “(C) __Topics.—__ 
+>     “(C)  __Topics__  __.—__ 
 
 >     The topics specified in this subparagraph, for the study under subparagraph (A) concerning the competitive acquisition program, are the following:
 

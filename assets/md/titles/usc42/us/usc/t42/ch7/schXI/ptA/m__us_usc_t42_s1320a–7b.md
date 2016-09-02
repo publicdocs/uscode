@@ -305,11 +305,11 @@
 
 >     “(1) __Establishment.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The Secretary \[of Health and Human Services\] shall establish, on an expedited basis, standards relating to the exception described in section 1128B(b)(3)(H) \[now section 1128B(b)(3)(I)\] of the Social Security Act \[[42 U.S.C. 1320a–7b(b)(3)(I)][/us/usc/t42/s1320a–7b/b/3/I]\], as added by subsection (a), for health center entity arrangements to the antikickback penalties.
 
->         “(B) __Factors to consider.—__ 
+>         “(B)  __Factors to consider__  __.—__ 
 
 >         The Secretary shall consider the following factors, among others, in establishing standards relating to the exception for health center entity arrangements under subparagraph (A):
 
@@ -321,7 +321,7 @@
 
 >             The Secretary may also include other standards and criteria that are consistent with the intent of Congress in enacting the exception established under this section.
 
->     “(2) __Deadline.—__ 
+>     “(2)  __Deadline__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\] the Secretary shall publish final regulations establishing the standards described in paragraph (1).”
 
@@ -331,11 +331,11 @@
 
 >     “(1) __Establishment.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The Secretary of Health and Human Services (in this subsection referred to as the ‘Secretary’) shall establish, on an expedited basis and using a negotiated rulemaking process under subchapter 3 \[III\] of chapter 5 of title 5, United States Code, standards relating to the exception for risk-sharing arrangements to the anti-kickback penalties described in section 1128B(b)(3)(F) of the Social Security Act \[[42 U.S.C. 1320a–7b(b)(3)(F)][/us/usc/t42/s1320a–7b/b/3/F]\], as added by subsection (a).
 
->         “(B) __Factors to consider.—__ 
+>         “(B)  __Factors to consider__  __.—__ 
 
 >         In establishing standards relating to the exception for risk-sharing arrangements to the anti-kickback penalties under subparagraph (A), the Secretary—
 
@@ -353,19 +353,19 @@
 
 >                 “(IV) the extent to which the risk-sharing arrangement provides incentives to control the cost and quality of health care services.
 
->     “(2) __Publication of notice.—__ 
+>     “(2)  __Publication of notice__  __.—__ 
 
 >     In carrying out the rulemaking process under this subsection, the Secretary shall publish the notice provided for under [section 564(a) of title 5][/us/usc/t5/s564/a], United States Code, by not later than 45 days after the date of the enactment of this Act \[Aug. 21, 1996\].
 
->     “(3) __Target date for publication of rule.—__ 
+>     “(3)  __Target date for publication of rule__  __.—__ 
 
 >     As part of the notice under paragraph (2), and for purposes of this subsection, the ‘target date for publication’ (referred to in section 564(a)(5) of such title) shall be January 1, 1997.
 
->     “(4) __Abbreviated period for submission of comments.—__ 
+>     “(4)  __Abbreviated period for submission of comments__  __.—__ 
 
 >     In applying section 564(c) of such title under this subsection, ‘15 days’ shall be substituted for ‘30 days’.
 
->     “(5) __Appointment of negotiated rulemaking committee and facilitator.—__ 
+>     “(5)  __Appointment of negotiated rulemaking committee and facilitator__  __.—__ 
 
 >     The Secretary shall provide for—
 
@@ -373,19 +373,19 @@
 
 >         “(B) the nomination of a facilitator under section 566(c) of such title by not later than 10 days after the date of appointment of the committee.
 
->     “(6) __Preliminary committee report.—__ 
+>     “(6)  __Preliminary committee report__  __.—__ 
 
 >     The negotiated rulemaking committee appointed under paragraph (5) shall report to the Secretary, by not later than October 1, 1996, regarding the committee’s progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus is likely to occur before one month before the target date for publication of the rule. If the committee reports that the committee has failed to make significant progress toward such consensus or is unlikely to reach such consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this subsection through such other methods as the Secretary may provide.
 
->     “(7) __Final committee report.—__ 
+>     “(7)  __Final committee report__  __.—__ 
 
 >     If the committee is not terminated under paragraph (6), the rulemaking committee shall submit a report containing a proposed rule by not later than one month before the target publication date.
 
->     “(8) __Interim, final effect.—__ 
+>     “(8)  __Interim, final effect__  __.—__ 
 
 >     The Secretary shall publish a rule under this subsection in the Federal Register by not later than the target publication date. Such rule shall be effective and final immediately on an interim basis, but is subject to change and revision after public notice and opportunity for a period (of not less than 60 days) for public comment. In connection with such rule, the Secretary shall specify the process for the timely review and approval of applications of entities to be certified as provider-sponsored organizations pursuant to such rules and consistent with this subsection.
 
->     “(9) __Publication of rule after public comment.—__ 
+>     “(9)  __Publication of rule after public comment__  __.—__ 
 
 >     The Secretary shall provide for consideration of such comments and republication of such rule by not later than 1 year after the target publication date.”
 

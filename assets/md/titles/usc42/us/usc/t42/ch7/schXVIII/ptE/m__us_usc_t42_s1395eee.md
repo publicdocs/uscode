@@ -511,7 +511,7 @@
 
 [Pub. L. 109–171, title V, § 5302][/us/pl/109/171/s5302], Feb. 8, 2006, [120 Stat. 51][/us/stat/120/51], as amended by [Pub. L. 109–432, div. B, title II, § 205(a)][/us/pl/109/432/s205/a], Dec. 20, 2006, [120 Stat. 2989][/us/stat/120/2989], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -519,23 +519,23 @@
 
 >         The term ‘CMS’ means the Centers for Medicare & Medicaid Services.
 
->         “(2) __PACE program.—__ 
+>         “(2) __PACE__  __program__  __.—__ 
 
 >         The term ‘PACE program’ has the meaning given that term in sections 1894(a)(2) and 1934(a)(2) of the Social Security Act ([42 U.S.C. 1395eee(a)(2)][/us/usc/t42/s1395eee/a/2]; 1396u–4(a)(2)).
 
->         “(3) __PACE provider.—__ 
+>         “(3) __PACE__  __provider__  __.—__ 
 
 >         The term ‘PACE provider’ has the meaning given that term in section 1894(a)(3) or 1934(a)(3) of the Social Security Act ([42 U.S.C. 1395eee(a)(3)][/us/usc/t42/s1395eee/a/3]; 1396u–4(a)(3)).
 
->         “(4) __Rural area.—__ 
+>         “(4)  __Rural area__  __.—__ 
 
 >         The term ‘rural area’ has the meaning given that term in section 1886(d)(2)(D) of the Social Security Act ([42 U.S.C. 1395ww(d)(2)(D)][/us/usc/t42/s1395ww/d/2/D]).
 
->         “(5) __Rural pace pilot site.—__ 
+>         “(5)  __Rural pace pilot site__  __.—__ 
 
 >         The term ‘rural PACE pilot site’ means a PACE provider that has been approved to provide services in a geographic service area that is, in whole or in part, a rural area, and that has received a site development grant under this section.
 
->         “(6) __Secretary.—__ 
+>         “(6)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of Health and Human Services.
 
@@ -543,19 +543,19 @@
 
 >         “(1) __Site development grants.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary shall establish a process and criteria to award site development grants to qualified PACE providers that have been approved to serve a rural area.
 
->             “(B) __Amount per award.—__ 
+>             “(B)  __Amount per award__  __.—__ 
 
 >             A site development grant awarded under subparagraph (A) to any individual rural PACE pilot site shall not exceed $750,000.
 
->             “(C) __Number of awards.—__ 
+>             “(C)  __Number of awards__  __.—__ 
 
 >             Not more than 15 rural PACE pilot sites shall be awarded a site development grant under subparagraph (A).
 
->             “(D) __Use of funds.—__ 
+>             “(D)  __Use of funds__  __.—__ 
 
 >             Funds made available under a site development grant awarded under subparagraph (A) may be used for the following expenses only to the extent such expenses are incurred in relation to establishing or delivering PACE program services in a rural area:
 
@@ -581,15 +581,15 @@
 
 >             “(E) __Appropriation.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Out of funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary to carry out this subsection for fiscal year 2006, $7,500,000.
 
->                 “(ii) __Availability.—__ 
+>                 “(ii)  __Availability__  __.—__ 
 
 >                 Funds appropriated under clause (i) shall remain available for expenditure through fiscal year 2008.
 
->         “(2) __Technical assistance program.—__ 
+>         “(2)  __Technical assistance program__  __.—__ 
 
 >         The Secretary shall establish a technical assistance program to provide—
 
@@ -599,17 +599,17 @@
 
 >     “(c) __Cost Outlier Protection for Rural PACE Pilot Sites.—__ 
 
->         “(1) __Establishment of fund for reimbursement of outlier costs.—__ 
+>         “(1)  __Establishment of fund for reimbursement of outlier costs__  __.—__ 
 
 >         Notwithstanding any other provision of law, the Secretary shall establish an outlier fund to reimburse rural PACE pilot sites for recognized outlier costs (as defined in paragraph (3)) incurred for eligible outlier participants (as defined in paragraph (2)) in an amount, subject to paragraph (4), equal to 80 percent of the amount by which the recognized outlier costs exceeds $50,000.
 
->         “(2) __Eligible outlier participant.—__ 
+>         “(2)  __Eligible outlier participant__  __.—__ 
 
 >         For purposes of this subsection, the term ‘eligible outlier participant’ means a PACE program eligible individual (as defined in sections 1894(a)(5) and 1934(a)(5) of the Social Security Act ([42 U.S.C. 1395eee(a)(5)][/us/usc/t42/s1395eee/a/5]; 1396u–4(a)(5))) who resides in a rural area and with respect to whom the rural PACE pilot site incurs more than $50,000 in recognized costs in a 12-month period.
 
 >         “(3) __Recognized outlier costs defined.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             For purposes of this subsection, the term ‘recognized outlier costs’ means, with respect to services furnished to an eligible outlier participant by a rural PACE pilot site, the least of the following (as documented by the site to the satisfaction of the Secretary) for the provision of inpatient and related physician and ancillary services for the eligible outlier participant in a given 12-month period:
 
@@ -619,35 +619,35 @@
 
 >                 “(iii) The amount actually paid for the services by the pilot site.
 
->             “(B) __Inclusion in only one period.—__ 
+>             “(B)  __Inclusion in only one period__  __.—__ 
 
 >             Recognized outlier costs may not be included in more than one 12-month period.
 
 >         “(3) __\[two pars. (3) have been enacted\] Outlier expense payment.—__ 
 
->             “(A) __\[no subpar. (B) has been enacted\] Payment for outlier costs.—__ 
+>             “(A) __\[no subpar. (B) has been enacted\]__  __Payment for outlier costs__  __.—__ 
 
 >             Subject to subparagraph (B), in the case of a rural PACE pilot site that has incurred outlier costs for an eligible outlier participant, the rural PACE pilot site shall receive an outlier expense payment equal to 80 percent of such costs that exceed $50,000.
 
 >         “(4) __Limitations.—__ 
 
->             “(A) __Costs incurred per eligible outlier participant.—__ 
+>             “(A)  __Costs incurred per eligible outlier participant__  __.—__ 
 
 >             The total amount of outlier expense payments made under this subsection to a rural PACE pilot site with respect to an eligible outlier participant for any 12-month period shall not exceed $100,000 for the 12-month period used to calculate the payment.
 
->             “(B) __Costs incurred per provider.—__ 
+>             “(B)  __Costs incurred per provider__  __.—__ 
 
 >             No rural PACE pilot site may receive more than $500,000 in total outlier expense payments in a 12-month period.
 
->             “(C) __Limitation of outlier cost reimbursement period.—__ 
+>             “(C)  __Limitation of outlier cost reimbursement period__  __.—__ 
 
 >             A rural PACE pilot site shall only receive outlier expense payments under this subsection with respect to costs incurred during the first 3 years of the site’s operation.
 
->         “(5) __Requirement to access risk reserves prior to payment.—__ 
+>         “(5)  __Requirement to access risk reserves prior to payment__  __.—__ 
 
 >         A rural PACE pilot site shall access and exhaust any risk reserves held or arranged for the provider (other than revenue or reserves maintained to satisfy the requirements of section 460.80(c) of title 42, Code of Federal Regulations) and any working capital established through a site development grant awarded under subsection (b)(1), prior to receiving any payment from the outlier fund.
 
->         “(6) __Application.—__ 
+>         “(6)  __Application__  __.—__ 
 
 >         In order to receive an outlier expense payment under this subsection with respect to an eligible outlier participant, a rural PACE pilot site shall submit an application containing—
 
@@ -659,19 +659,19 @@
 
 >         “(7) __Appropriation.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Out of funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary $10,000,000 to carry out this subsection for the period of fiscal years 2006 through 2010.
 
->             “(B) __Availability.—__ 
+>             “(B)  __Availability__  __.—__ 
 
 >             Funds appropriated under subparagraph (A) shall remain available for obligation through fiscal year 2010.
 
->     “(d) __Evaluation of PACE Providers Serving Rural Service Areas.—__ 
+>     “(d)  __Evaluation of PACE Providers Serving Rural Service Areas__  __.—__ 
 
 >     Not later than 60 months after the date of enactment of this Act \[Feb. 8, 2006\], the Secretary shall submit a report to Congress containing an evaluation of the experience of rural PACE pilot sites.
 
->     “(e) __Amounts in Addition to Payments Under Social Security Act.—__ 
+>     “(e)  __Amounts in Addition to Payments Under Social Security Act__  __.—__ 
 
 >     Any amounts paid under the authority of this section to a PACE provider shall be in addition to payments made to the provider under section 1894 or 1934 of the Social Security Act ([42 U.S.C. 1395eee][/us/usc/t42/s1395eee]; 1396u–4).”
 
@@ -689,13 +689,13 @@
 
 [Pub. L. 105–33, title IV, § 4803][/us/pl/105/33/s4803], Aug. 5, 1997, [111 Stat. 549][/us/stat/111/549], as amended by [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 901\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–582, provided that:
 
->     “(a) __Timely Issuance of Regulations; Effective Date.—__ 
+>     “(a)  __Timely Issuance of Regulations; Effective Date__  __.—__ 
 
 >     The Secretary of Health and Human Services shall promulgate regulations to carry out this subtitle \[subtitle I (§§ 4801–4804) of title IV of [Pub. L. 105–33][/us/pl/105/33], enacting this section and [section 1396u–4 of this title][/us/usc/t42/s1396u–4], amending sections 1396b, 1396d, 1396r–5, and 1396v of this title, and enacting provisions set out as notes under this section and [section 1395b–6 of this title][/us/usc/t42/s1395b–6]\] in a timely manner. Such regulations shall be designed so that entities may establish and operate PACE programs under sections 1894 and 1934 of the Social Security Act \[[42 U.S.C. 1395eee][/us/usc/t42/s1395eee], 1396u–4\] (as added by sections 4801 and 4802 of this subtitle) for periods beginning not later than 1 year after the date of the enactment of this Act \[Aug. 5, 1997\].
 
 >     “(b) __Expansion and Transition for PACE Demonstration Project Waivers.—__ 
 
->         “(1) __Expansion in current number and extension of demonstration projects.—__ 
+>         “(1)  __Expansion in current number and extension of demonstration projects__  __.—__ 
 
 >         Section 9412(b) of the Omnibus Budget Reconciliation Act of 1986 \[see subsec. (d) below\], as amended by section 4118(g) of the Omnibus Budget Reconciliation Act of 1987, is amended—
 
@@ -709,19 +709,19 @@
 
 >                 “(ii) in subparagraph (C), by adding at the end the following: ‘In granting further extensions, an organization shall not be required to provide for reporting of information which is only required because of the demonstration nature of the project.’
 
->         “(2) __Elimination of replication requirement.—__ 
+>         “(2)  __Elimination of replication requirement__  __.—__ 
 
 >         Section 9412(b)(2)(B) of such Act, as so amended, shall not apply to waivers granted under such section after the date of the enactment of this Act \[Aug. 5, 1997\].
 
->         “(3) __Timely consideration of applications.—__ 
+>         “(3)  __Timely consideration of applications__  __.—__ 
 
 >         In considering an application for waivers under such section before the effective date of the repeals under subsection (d), subject to the numerical limitation under the amendment made by paragraph (1), the application shall be deemed approved unless the Secretary of Health and Human Services, within 90 days after the date of its submission to the Secretary, either denies such request in writing or informs the applicant in writing with respect to any additional information which is needed in order to make a final determination with respect to the application. After the date the Secretary receives such additional information, the application shall be deemed approved unless the Secretary, within 90 days of such date, denies such request.
 
->     “(c) __Priority and Special Consideration in Application.—__ 
+>     “(c)  __Priority and Special Consideration in Application__  __.—__ 
 
 >     During the 3-year period beginning on the date of the enactment of this Act \[Aug. 5, 1997\]:
 
->         “(1) __Provider status.—__ 
+>         “(1)  __Provider status__  __.—__ 
 
 >         The Secretary of Health and Human Services shall give priority in processing applications of entities to qualify as PACE programs under section 1894 or 1934 of the Social Security Act \[[42 U.S.C. 1395ddd][/us/usc/t42/s1395ddd], 1396u–4\]—
 
@@ -729,7 +729,7 @@
 
 >             “(B) then to entities that have applied to operate such a program as of May 1, 1997.
 
->         “(2) __New waivers.—__ 
+>         “(2)  __New waivers__  __.—__ 
 
 >         The Secretary shall give priority, in the awarding of additional waivers under section 9412(b) of the Omnibus Budget Reconciliation Act of 1986 \[see subsec. (d) below\]—
 
@@ -737,13 +737,13 @@
 
 >             “(B) to any entity that, as of May 1, 1997, has formally contracted with a State to provide services for which payment is made on a capitated basis with an understanding that the entity was seeking to become a PACE provider.
 
->         “(3) __Special consideration.—__ 
+>         “(3)  __Special consideration__  __.—__ 
 
 >         The Secretary shall give special consideration, in the processing of applications described in paragraph (1) and the awarding of waivers described in paragraph (2), to an entity which as of May 1, 1997, through formal activities (such as entering into contracts for feasibility studies) has indicated a specific intent to become a PACE provider.
 
 >     “(d) __Repeal of Current PACE Demonstration Project Waiver Authority.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), the following provisions of law are repealed:
 
@@ -755,11 +755,11 @@
 
 >         “(2) __Delay in application to current waivers.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Subject to subparagraph (B), in the case of waivers granted with respect to a PACE program before July 1, 2000, the repeals made by paragraph (1) shall not apply until the end of a transition period (of up to 36 months) that begins on the initial effective date of such regulations, and that allows sufficient time for an orderly transition from demonstration project authority to general authority provided under the amendments made by this subtitle \[subtitle I (§§ 4801–4804) of title IV of [Pub. L. 105–33][/us/pl/105/33], enacting this section and [section 1396u–4 of this title][/us/usc/t42/s1396u–4] and amending sections 1396b, 1396d, 1396r–5, and 1396v of this title\].
 
->             “(B) __State option to seek extension of current period.—__ 
+>             “(B)  __State option to seek extension of current period__  __.—__ 
 
 >             A State may elect to maintain the PACE programs which (as of the date of the enactment of this Act \[Aug. 5, 1997\]) were operating in the State under the authority described in paragraph (1) until a date (specified by the State) that is not later than 4 years after the initial effective date of regulations described in subsection (a). If a State makes such an election, the repeals made by paragraph (1) shall not apply to the programs until the date so specified, but only so long as such programs continue to operate under the same terms and conditions as apply to such programs as of the date of the enactment of this Act, and subparagraph (A) shall not apply to such programs.”
 
@@ -769,21 +769,21 @@
 
 >     “(a) __Study.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Health and Human Services (in close consultation with State administering agencies, as defined in sections 1894(a)(8) and 1934(a)(8) of the Social Security Act \[[42 U.S.C. 1395eee(a)(8)][/us/usc/t42/s1395eee/a/8], 1396u–4(a)(8)\]) shall conduct a study of the quality and cost of providing PACE program services under the medicare and medicaid programs under the amendments made by this subtitle \[subtitle I (§§ 4801–4804) of title IV of [Pub. L. 105–33][/us/pl/105/33], enacting this section and [section 1396u–4 of this title][/us/usc/t42/s1396u–4] and amending sections 1396b, 1396d, 1396r–5, and 1396v of this title\].
 
->         “(2) __Study of private, for-profit providers.—__ 
+>         “(2)  __Study of private, for-profit providers__  __.—__ 
 
 >         Such study shall specifically compare the costs, quality, and access to services by entities that are private, for-profit entities operating under demonstration projects waivers granted under sections 1894(h) and 1934(h) of the Social Security Act \[[42 U.S.C. 1395eee(h)][/us/usc/t42/s1395eee/h], 1396u–4(h)\] with the costs, quality, and access to services of other PACE providers.
 
 >     “(b) __Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 4 years after the date of the enactment of this Act \[Aug. 5, 1997\], the Secretary shall provide for a report to Congress on the impact of such amendments on quality and cost of services. The Secretary shall include in such report such recommendations for changes in the operation of such amendments as the Secretary deems appropriate.
 
->         “(2) __Treatment of private, for-profit providers.—__ 
+>         “(2)  __Treatment of private, for-profit providers__  __.—__ 
 
 >         The report shall include specific findings on whether any of the following findings is true:
 

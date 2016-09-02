@@ -185,11 +185,11 @@
 
 [Pub. L. 105–33, title IV, § 4313(e)][/us/pl/105/33/s4313/e], Aug. 5, 1997, [111 Stat. 389][/us/stat/111/389], provided that:
 
->     “(1) __Disclosure requirements.—__ 
+>     “(1)  __Disclosure requirements__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to the application of conditions of participation, and entering into and renewal of contracts and agreements, occurring more than 90 days after the date of submission of the report under subsection (d) \[set out as a note below\].
 
->     “(2) __Other providers.—__ 
+>     “(2)  __Other providers__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending [section 1320a–3a of this title][/us/usc/t42/s1320a–3a]\] shall apply to payment for items and services furnished more than 90 days after the date of submission of such report.”
 

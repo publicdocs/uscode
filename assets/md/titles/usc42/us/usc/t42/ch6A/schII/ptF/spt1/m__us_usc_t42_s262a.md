@@ -391,11 +391,11 @@
 
 [Pub. L. 107–188, title II, § 202][/us/pl/107/188/s202], June 12, 2002, [116 Stat. 646][/us/stat/116/646], provided that:
 
->     “(a) __Date Certain for Notice of Possession.—__ 
+>     “(a)  __Date Certain for Notice of Possession__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[June 12, 2002\], all persons (unless exempt under subsection (g) of section 351A of the Public Health Service Act \[[42 U.S.C. 262a(g)][/us/usc/t42/s262a/g]\], as added by section 201 of this Act) in possession of biological agents or toxins listed under such section 351A of the Public Health Service Act \[[42 U.S.C. 262a][/us/usc/t42/s262a]\] shall notify the Secretary of Health and Human Services of such possession. Not later than 30 days after such date of enactment, the Secretary shall provide written guidance on how such notice is to be provided to the Secretary.
 
->     “(b) __Date Certain for Promulgation; Effective Date Regarding Criminal and Civil Penalties.—__ 
+>     “(b)  __Date Certain for Promulgation; Effective Date Regarding Criminal and Civil Penalties__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[June 12, 2002\], the Secretary of Health and Human Services shall promulgate an interim final rule for carrying out section 351A of the Public Health Service Act \[[42 U.S.C. 262a][/us/usc/t42/s262a]\], subject to subsection (c). Such interim final rule shall take effect 60 days after the date on which such rule is promulgated, including for purposes of—
 
@@ -403,7 +403,7 @@
 
 >         “(2) section 351A(i) of the Public Health Service Act \[[42 U.S.C. 262a(i)][/us/usc/t42/s262a/i]\] (relating to civil penalties).
 
->     “(c) __Transitional Provision Regarding Current Research and Education.—__ 
+>     “(c)  __Transitional Provision Regarding Current Research and Education__  __.—__ 
 
 >     The interim final rule under subsection (b) shall include time frames for the applicability of the rule that minimize disruption of research or educational projects that involve biological agents and toxins listed pursuant to section 351A(a)(1) of the Public Health Service Act \[[42 U.S.C. 262a(a)(1)][/us/usc/t42/s262a/a/1]\] and that were underway as of the effective date of such rule.”
 

@@ -91,15 +91,15 @@
 
 [Pub. L. 103–322, title XXXII, § 320928(g)][/us/pl/103/322/s320928/g], Sept. 13, 1994, [108 Stat. 2132][/us/stat/108/2132], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Attorney General, in consultation with Federal, State, and local officials, including officials responsible for criminal history record systems, and representatives of public and private care organizations and health, legal, and social welfare organizations, shall develop guidelines for the adoption of appropriate safeguards by care providers and by States for protecting children, the elderly, or individuals with disabilities from abuse.
 
->     “(2) __Matters to be addressed.—__ 
+>     “(2)  __Matters to be addressed__  __.—__ 
 
 >     In developing guidelines under paragraph (1), the Attorney General shall address the availability, cost, timeliness, and effectiveness of criminal history background checks and recommend measures to ensure that fees for background checks do not discourage volunteers from participating in care programs.
 
->     “(3) __Dissemination.—__ 
+>     “(3)  __Dissemination__  __.—__ 
 
 >     The Attorney General shall, subject to the availability of appropriations, disseminate the guidelines to State and local officials and to public and private care providers.”
 

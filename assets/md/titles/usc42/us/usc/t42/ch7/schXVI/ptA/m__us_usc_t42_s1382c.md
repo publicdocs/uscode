@@ -317,23 +317,23 @@
 
 >     “(1) __Effective dates.—__ 
 
->         “(A) __Subsections (a) and (b).—__ 
+>         “(A)  __Subsections__  __(a)__  __and__  __(b).—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             The provisions of, and amendments made by, subsections (a) \[amending this section\] and (b) \[[110 Stat. 2189][/us/stat/110/2189]\] of this section shall apply to any individual who applies for, or whose claim is finally adjudicated with respect to, benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] on or after the date of the enactment of this Act \[Aug. 22, 1996\], without regard to whether regulations have been issued to implement such provisions and amendments.
 
->             “(ii) __Determination of final adjudication.—__ 
+>             “(ii)  __Determination of final adjudication__  __.—__ 
 
 >             For purposes of clause (i), no individual’s claim with respect to such benefits may be considered to be finally adjudicated before such date of enactment if, on or after such date, there is pending a request for either administrative or judicial review with respect to such claim that has been denied in whole, or there is pending, with respect to such claim, readjudication by the Commissioner of Social Security pursuant to relief in a class action or implementation by the Commissioner of a court remand order.
 
->         “(B) __Subsection (c).—__ 
+>         “(B)  __Subsection__  __(c).—__ 
 
 >         The amendments made by subsection (c) of this section \[amending this section\] shall apply with respect to benefits under title XVI of the Social Security Act for months beginning on or after the date of the enactment of this Act, without regard to whether regulations have been issued to implement such amendments.
 
 >     “(2) __Application to current recipients.—__ 
 
->         “(A) __Eligibility redeterminations.—__ 
+>         “(A)  __Eligibility redeterminations__  __.—__ 
 
 >         During the period beginning on the date of the enactment of this Act \[Aug. 22, 1996\] and ending on the date which is 18 months after such date of enactment, the Commissioner of Social Security shall redetermine the eligibility of any individual under age 18 who is eligible for supplemental security income benefits by reason of disability under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] as of the date of the enactment of this Act and whose eligibility for such benefits may terminate by reason of the provisions of, or amendments made by, subsections (a) and (b) of this section. Any redetermination required by the preceding sentence that is not performed before the end of the period described in the preceding sentence shall be performed as soon as is practicable thereafter. With respect to any redetermination under this subparagraph—
 
@@ -345,41 +345,41 @@
 
 >             “(iv) such redetermination shall be counted as a review or redetermination otherwise required to be made under section 208 of the Social Security Independence and Program Improvements Act of 1994 \[[Pub. L. 103–296][/us/pl/103/296], set out as a note under [section 1382 of this title][/us/usc/t42/s1382]\] or any other provision of title XVI of the Social Security Act.
 
->         “(B) __Grandfather provision.—__ 
+>         “(B)  __Grandfather provision__  __.—__ 
 
 >         The provisions of, and amendments made by, subsections (a) \[amending this section\] and (b) \[[110 Stat. 2189][/us/stat/110/2189]\] of this section, and the redetermination under subparagraph (A), shall only apply with respect to the benefits of an individual described in subparagraph (A) for months beginning on or after the later of July 1, 1997, or the date of the redetermination with respect to such individual.
 
->         “(C) __Notice.—__ 
+>         “(C)  __Notice__  __.—__ 
 
 >         Not later than January 1, 1997, the Commissioner of Social Security shall notify an individual described in subparagraph (A) of the provisions of this paragraph. Before commencing a redetermination under the 2nd sentence of subparagraph (A), in any case in which the individual involved has not already been notified of the provisions of this paragraph, the Commissioner of Social Security shall notify the individual involved of the provisions of this paragraph.
 
->     “(3) __Report.—__ 
+>     “(3)  __Report__  __.—__ 
 
 >     The Commissioner of Social Security shall report to the Congress regarding the progress made in implementing the provisions of, and amendments made by, this section \[amending this section, sections 665e and 901 of Title 2, The Congress, and provisions set out as a note under [section 401 of this title][/us/usc/t42/s401]\] on child disability evaluations not later than 180 days after the date of the enactment of this Act \[Aug. 22, 1996\].
 
->     “(4) __Regulations.—__ 
+>     “(4)  __Regulations__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Commissioner of Social Security shall submit for review to the committees of jurisdiction in the Congress any final regulation pertaining to the eligibility of individuals under age 18 for benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\] at least 45 days before the effective date of such regulation. The submission under this paragraph shall include supporting documentation providing a cost analysis, workload impact, and projections as to how the regulation will effect the future number of recipients under such title.
 
 >     “(5) __Cap adjustment for ssi administrative work required by welfare reform.—__ 
 
->         “(A) __Authorization.—__ 
+>         “(A)  __Authorization__  __.—__ 
 
 >         For the additional costs of continuing disability reviews and redeterminations under title XVI of the Social Security Act, there is hereby authorized to be appropriated to the Social Security Administration, in addition to amounts authorized under section 201(g)(1)(A) of the Social Security Act \[[42 U.S.C. 401(g)(1)(A)][/us/usc/t42/s401/g/1/A]\], $150,000,000 in fiscal year 1997 and $100,000,000 in fiscal year 1998.
 
->         “(B) __Cap adjustment.—__ 
+>         “(B)  __Cap adjustment__  __.—__ 
 
 >         \[Amended [section 901 of Title 2][/us/usc/t2/s901], The Congress.\]
 
->         “(C) __Adjustments.—__ 
+>         “(C)  __Adjustments__  __.—__ 
 
 >         \[Amended [section 665e of Title 2][/us/usc/t2/s665e].\]
 
->         “(D) __Conforming amendment.—__ 
+>         “(D)  __Conforming amendment__  __.—__ 
 
 >         \[Amended [section 103(d)(1) of Pub. L. 104–121][/us/pl/104/121/s103/d/1], set out as a note under [section 401 of this title][/us/usc/t42/s401].\]
 
->     “(6) __Benefits under title xvi.—__ 
+>     “(6)  __Benefits under title xvi__  __.—__ 
 
 >     For purposes of this subsection, the term ‘benefits under title XVI of the Social Security Act’ includes supplementary payments pursuant to an agreement for Federal administration under section 1616(a) of the Social Security Act \[[42 U.S.C. 1382e(a)][/us/usc/t42/s1382e/a]\], and payments pursuant to an agreement entered into under [section 212(b) of Public Law 93–66][/us/pl/93/66/s212/b] \[set out as a note under [section 1382 of this title][/us/usc/t42/s1382]\].”
 

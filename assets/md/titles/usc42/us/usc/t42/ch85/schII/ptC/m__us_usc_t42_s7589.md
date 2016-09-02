@@ -97,11 +97,11 @@
 
             (B) The sale of clean fuel  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “clean-fuel”. </sup></sup>  vehicles which meet standards established by the Administrator as provided in paragraph (3) which are more stringent than the clean-fuel vehicle standards otherwise applicable to such clean-fuel vehicle. A manufacturer granted credits under this paragraph may transfer some or all of the credits for use by one or more other manufacturers in demonstrating compliance with the requirements prescribed under this paragraph. The Administrator may make the credits available for use after consideration of enforceability, environmental, and economic factors and upon such terms and conditions as he finds appropriate. The Administrator shall grant credits in accordance with this paragraph, notwithstanding any requirements of State law or any credits granted with respect to the same vehicles under any State law, rule, or regulation.
 
-        (2) __Regulations and administration.—__ 
+        (2)  __Regulations and administration__  __.—__ 
 
         The Administrator shall administer the credit program established under this subsection. Within 12 months after November 15, 1990, the Administrator shall promulgate regulations for such credit program.
 
-        (3) __Standards for issuing credits for cleaner vehicles.—__ 
+        (3)  __Standards for issuing credits for cleaner vehicles__  __.—__ 
 
         The more stringent standards and other requirements (including requirements relating to the weighting of credits) established by the Administrator for purposes of the credit program under 7585(e)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “section 7586(f)”. </sup></sup>  of this title (relating to credits for clean fuel 1 vehicles in the fleets program) shall also apply for purposes of the credit program under this paragraph.
 

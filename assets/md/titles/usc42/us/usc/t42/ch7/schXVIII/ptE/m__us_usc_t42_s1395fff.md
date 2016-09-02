@@ -295,7 +295,7 @@
 
 [Pub. L. 111–148, title III, § 3131(d)][/us/pl/111/148/s3131/d], title X, § 10315(b), Mar. 23, 2010, [124 Stat. 429][/us/stat/124/429], 944, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall conduct a study on home health agency costs involved with providing ongoing access to care to low-income Medicare beneficiaries or beneficiaries in medically underserved areas, and in treating beneficiaries with varying levels of severity of illness. In conducting the study, the Secretary may analyze items such as the following:
 
@@ -317,7 +317,7 @@
 
 >         “(D) Other items determined appropriate by the Secretary.
 
->     “(2) __Considerations.—__ 
+>     “(2)  __Considerations__  __.—__ 
 
 >     In conducting the study under paragraph (1), the Secretary may consider whether patient severity of illness and access to care could be measured by factors, such as—
 
@@ -331,25 +331,25 @@
 
 >         “(E) other factors determined appropriate by the Secretary.
 
->     “(3) __Report.—__ 
+>     “(3)  __Report__  __.—__ 
 
 >     Not later than March 1, 2014, the Secretary shall submit to Congress a report on the study conducted under paragraph (1), together with recommendations for such legislation and administrative action as the Secretary determines appropriate.
 
->     “(4) __Consultations.—__ 
+>     “(4)  __Consultations__  __.—__ 
 
 >     In conducting the study under paragraph (1), the Secretary shall consult with appropriate stakeholders, such as groups representing home health agencies and groups representing Medicare beneficiaries.
 
 >     “(5) __Medicare demonstration project based on the results of the study.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Subject to subparagraph (D), taking into account the results of the study conducted under paragraph (1), the Secretary may, as determined appropriate, provide for a demonstration project to test whether making payment adjustments for home health services under the Medicare program would substantially improve access to care for patients with high severity levels of illness or for low-income or underserved Medicare beneficiaries.
 
->         “(B) __Waiving budget neutrality.—__ 
+>         “(B)  __Waiving budget neutrality__  __.—__ 
 
 >         The Secretary shall not reduce the standard prospective payment amount (or amounts) under section 1895 of the Social Security Act ([42 U.S.C. 1395fff][/us/usc/t42/s1395fff]) applicable to home health services furnished during a period to offset any increase in payments during such period resulting from the application of the payment adjustments under subparagraph (A).
 
->         “(C) __No effect on subsequent periods.—__ 
+>         “(C)  __No effect on subsequent periods__  __.—__ 
 
 >         A payment adjustment resulting from the application of subparagraph (A) for a period—
 
@@ -357,15 +357,15 @@
 
 >             “(ii) shall not be taken into account in calculating the payment amounts applicable for such services after such period.
 
->         “(D) __Duration.—__ 
+>         “(D)  __Duration__  __.—__ 
 
 >         If the Secretary determines it appropriate to conduct the demonstration project under this subsection, the Secretary shall conduct the project for a four year period beginning not later than January 1, 2015.
 
->         “(E) __Funding.—__ 
+>         “(E)  __Funding__  __.—__ 
 
 >         The Secretary shall provide for the transfer from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act ([42 U.S.C. 1395i][/us/usc/t42/s1395i]) and the Federal Supplementary Medical Insurance Trust Fund established under section 1841 of such Act ([42 U.S.C. 1395t][/us/usc/t42/s1395t]), in such proportion as the Secretary determines appropriate, of $500,000,000 for the period of fiscal years 2015 through 2018. Such funds shall be made available for the study described in paragraph (1) and the design, implementation and evaluation of the demonstration described in this paragraph. Amounts available under this subparagraph shall be available until expended.
 
->         “(F) __Evaluation and report.—__ 
+>         “(F)  __Evaluation and report__  __.—__ 
 
 >         If the Secretary determines it appropriate to conduct the demonstration project under this subsection, the Secretary shall—
 
@@ -373,7 +373,7 @@
 
 >             “(ii) submit to Congress, by a date specified by the Secretary, a report on the project.
 
->         “(G) __Administration.—__ 
+>         “(G)  __Administration__  __.—__ 
 
 >         Chapter 35 of title 44, United States Code, shall not apply with respect to this subsection.”
 
@@ -381,15 +381,15 @@
 
 [Pub. L. 108–173, title IV, § 421][/us/pl/108/173/s421], Dec. 8, 2003, [117 Stat. 2283][/us/stat/117/2283], as amended by [Pub. L. 109–171, title V, § 5201(b)][/us/pl/109/171/s5201/b], Feb. 8, 2006, [120 Stat. 46][/us/stat/120/46]; [Pub. L. 111–148, title III, § 3131(c)][/us/pl/111/148/s3131/c], Mar. 23, 2010, [124 Stat. 428][/us/stat/124/428], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     With respect to episodes and visits ending on or after April 1, 2004, and before April 1, 2005, episodes and visits beginning on or after January 1, 2006, and before January 1, 2007, and episodes and visits ending on or after April 1, 2010, and before January 1, 2016, in the case of home health services furnished in a rural area (as defined in section 1886(d)(2)(D) of the Social Security Act ([42 U.S.C. 1395ww(d)(2)(D)][/us/usc/t42/s1395ww/d/2/D])), the Secretary \[of Health and Human Services\] shall increase the payment amount otherwise made under section 1895 of such Act ([42 U.S.C. 1395fff][/us/usc/t42/s1395fff]) for such services by 5 percent (or, in the case of episodes and visits ending on or after April 1, 2010, and before January 1, 2016, 3 percent).
 
->     “(b) __Waiving Budget Neutrality.—__ 
+>     “(b)  __Waiving Budget Neutrality__  __.—__ 
 
 >     The Secretary shall not reduce the standard prospective payment amount (or amounts) under section 1895 of the Social Security Act ([42 U.S.C. 1395fff][/us/usc/t42/s1395fff]) applicable to home health services furnished during a period to offset the increase in payments resulting from the application of subsection (a).
 
->     “(c) __No Effect on Subsequent Periods.—__ 
+>     “(c)  __No Effect on Subsequent Periods__  __.—__ 
 
 >     The payment increase provided under subsection (a) for a period under such subsection—
 
@@ -401,41 +401,41 @@
 
 [Pub. L. 108–173, title VII, § 703][/us/pl/108/173/s703], Dec. 8, 2003, [117 Stat. 2336][/us/stat/117/2336], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     Subject to the succeeding provisions of this section, the Secretary \[of Health and Human Services\] shall establish a demonstration project (in this section referred to as the ‘demonstration project’) under which the Secretary shall, as part of a plan of an episode of care for home health services established for a medicare beneficiary, permit a home health agency, directly or under arrangements with a medical adult day-care facility, to provide medical adult day-care services as a substitute for a portion of home health services that would otherwise be provided in the beneficiary’s home.
 
 >     “(b) __Payment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), the amount of payment for an episode of care for home health services, a portion of which consists of substitute medical adult day-care services, under the demonstration project shall be made at a rate equal to 95 percent of the amount that would otherwise apply for such home health services under section 1895 of the Social Security Act ([42 U.S.C. 1395fff][/us/usc/t42/s1395fff]). In no case may a home health agency, or a medical adult day-care facility under arrangements with a home health agency, separately charge a beneficiary for medical adult day-care services furnished under the plan of care.
 
->         “(2) __Adjustment in case of overutilization of substitute adult day-care services to ensure budget neutrality.—__ 
+>         “(2)  __Adjustment in case of overutilization of substitute adult day-care services to ensure budget neutrality__  __.—__ 
 
 >         The Secretary shall monitor the expenditures under the demonstration project and under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] for home health services. If the Secretary estimates that the total expenditures under the demonstration project and under such title XVIII for home health services for a period determined by the Secretary exceed expenditures that would have been made under such title XVIII for home health services for such period if the demonstration project had not been conducted, the Secretary shall adjust the rate of payment to medical adult day-care facilities under paragraph (1) in order to eliminate such excess.
 
->     “(c) __Demonstration Project Sites.—__ 
+>     “(c)  __Demonstration Project Sites__  __.—__ 
 
 >     The demonstration project established under this section shall be conducted in not more than 5 sites in States selected by the Secretary that license or certify providers of services that furnish medical adult day-care services.
 
->     “(d) __Duration.—__ 
+>     “(d)  __Duration__  __.—__ 
 
 >     The Secretary shall conduct the demonstration project for a period of 3 years.
 
->     “(e) __Voluntary Participation.—__ 
+>     “(e)  __Voluntary Participation__  __.—__ 
 
 >     Participation of medicare beneficiaries in the demonstration project shall be voluntary. The total number of such beneficiaries that may participate in the project at any given time may not exceed 15,000.
 
->     “(f) __Preference in Selecting Agencies.—__ 
+>     “(f)  __Preference in Selecting Agencies__  __.—__ 
 
 >     In selecting home health agencies to participate under the demonstration project, the Secretary shall give preference to those agencies that are currently licensed or certified through common ownership and control to furnish medical adult day-care services.
 
->     “(g) __Waiver Authority.—__ 
+>     “(g)  __Waiver Authority__  __.—__ 
 
 >     The Secretary may waive such requirements of title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] as may be necessary for the purposes of carrying out the demonstration project, other than waiving the requirement that an individual be homebound in order to be eligible for benefits for home health services.
 
->     “(h) __Evaluation and Report.—__ 
+>     “(h)  __Evaluation and Report__  __.—__ 
 
 >     The Secretary shall conduct an evaluation of the clinical and cost-effectiveness of the demonstration project. Not later than 6 months after the completion of the project, the Secretary shall submit to Congress a report on the evaluation, and shall include in the report the following:
 
@@ -443,15 +443,15 @@
 
 >         “(2) Such recommendations regarding the extension, expansion, or termination of the project as the Secretary determines appropriate.
 
->     “(i) __Definitions.—__ 
+>     “(i)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Home health agency.—__ 
+>         “(1)  __Home health agency__  __.—__ 
 
 >         The term ‘home health agency’ has the meaning given such term in section 1861(o) of the Social Security Act ([42 U.S.C. 1395x][/us/usc/t42/s1395x](o)).
 
->         “(2) __Medical adult day-care facility.—__ 
+>         “(2)  __Medical adult day-care facility__  __.—__ 
 
 >         The term ‘medical adult day-care facility’ means a facility that—
 
@@ -463,7 +463,7 @@
 
 >             “(D) provides medical adult day-care services.
 
->         “(3) __Medical adult day-care services.—__ 
+>         “(3)  __Medical adult day-care services__  __.—__ 
 
 >         The term ‘medical adult day-care services’ means—
 
@@ -479,7 +479,7 @@
 
 >             “(C) such other services as the Secretary may specify.
 
->         “(4) __Medicare beneficiary.—__ 
+>         “(4)  __Medicare beneficiary__  __.—__ 
 
 >         The term ‘medicare beneficiary’ means an individual entitled to benefits under part A of this title \[probably means part A of title XVIII of the Social Security Act, [42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\], enrolled under part B of this title \[probably means part B of title XVIII of the Social Security Act, [42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\], or both.”
 
@@ -487,11 +487,11 @@
 
 [Pub. L. 108–173, title VII, § 704][/us/pl/108/173/s704], Dec. 8, 2003, [117 Stat. 2338][/us/stat/117/2338], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     During the period described in subsection (b), the Secretary \[of Health and Human Services\] may not require, under section 4602(e) of the Balanced Budget Act of 1997 ([Public Law 105–33][/us/pl/105/33]; [111 Stat. 467][/us/stat/111/467]) \[set out as a note under this section\] or otherwise under OASIS, a home health agency to gather or submit information that relates to an individual who is not eligible for benefits under either title XVIII or title XIX of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq., 1396 et seq.\] (such information in this section referred to as ‘non-medicare/medicaid OASIS information’).
 
->     “(b) __Period of Suspension.—__ 
+>     “(b)  __Period of Suspension__  __.—__ 
 
 >     The period described in this subsection—
 
@@ -501,7 +501,7 @@
 
 >     “(c) __Report.—__ 
 
->         “(1) __Study.—__ 
+>         “(1)  __Study__  __.—__ 
 
 >         The Secretary shall conduct a study on how non-medicare/medicaid OASIS information is and can be used by large home health agencies. Such study shall examine—
 
@@ -511,11 +511,11 @@
 
 >             In conducting the study the Secretary shall obtain recommendations from quality assessment experts in the use of such information and the necessity of small, as well as large, home health agencies collecting such information.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         The Secretary shall submit to Congress a report on the study conducted under paragraph (1) by not later than 18 months after the date of the enactment of this Act \[Dec. 8, 2003\].
 
->     “(d) __Construction.—__ 
+>     “(d)  __Construction__  __.—__ 
 
 >     Nothing in this section shall be construed as preventing home health agencies from collecting non-medicare/medicaid OASIS information for their own use.”
 
@@ -523,11 +523,11 @@
 
 [Pub. L. 108–173, title VII, § 705][/us/pl/108/173/s705], Dec. 8, 2003, [117 Stat. 2339][/us/stat/117/2339], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Medicare Payment Advisory Commission shall conduct a study of payment margins of home health agencies under the home health prospective payment system under section 1895 of the Social Security Act ([42 U.S.C. 1395fff][/us/usc/t42/s1395fff]). Such study shall examine whether systematic differences in payment margins are related to differences in case mix (as measured by home health resource groups (HHRGs)) among such agencies. The study shall use the partial or full-year cost reports filed by home health agencies.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 2 years after the date of the enactment of this Act \[Dec. 8, 2003\], the Commission shall submit to Congress a report on the study under subsection (a).”
 
@@ -535,7 +535,7 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title V, § 502(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–530, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Notwithstanding the amendments made by subsection (a) \[amending [section 1395x of this title][/us/usc/t42/s1395x]\], for purposes of making payments under section 1895(b) of the Social Security Act ([42 U.S.C. 1395fff(b)][/us/usc/t42/s1395fff/b]) for home health services furnished during fiscal year 2001, the Secretary of Health and Human Services shall—
 
@@ -543,7 +543,7 @@
 
 >         “(B) with respect to episodes and visits ending on or after April 1, 2001, and before October 1, 2001, use such amounts increased by 2.2 percent.
 
->     “(2) __No effect on other payments or determinations.—__ 
+>     “(2)  __No effect on other payments or determinations__  __.—__ 
 
 >     The Secretary shall not take the provisions of paragraph (1) into account for purposes of payments, determinations, or budget neutrality adjustments under section 1895 of the Social Security Act.”
 
@@ -551,11 +551,11 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title V, § 503\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–530, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding the amendments made by section 4603(b) of BBA \[[Pub. L. 105–33][/us/pl/105/33], amending [section 1395g of this title][/us/usc/t42/s1395g]\] ([42 U.S.C. 1395fff][/us/usc/t42/s1395fff] note), in the case of a home health agency that was receiving periodic interim payments under section 1815(e)(2) of the Social Security Act ([42 U.S.C. 1395g(e)(2)][/us/usc/t42/s1395g/e/2]) as of September 30, 2000, and that is not described in subsection (b), the Secretary of Health and Human Services shall, as soon as practicable, make a single periodic interim payment to such agency in an amount equal to four times the last full fortnightly periodic interim payment made to such agency under the payment system in effect prior to the implementation of the prospective payment system under section 1895(b) of such Act ([42 U.S.C. 1395fff(b)][/us/usc/t42/s1395fff/b]). Such amount of such periodic interim payment shall be included in the tentative settlement of the last cost report for the home health agency under the payment system in effect prior to the implementation of such prospective payment system, regardless of the ending date of such cost report.
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >     The Secretary shall not make an additional periodic interim payment under subsection (a) in the case of a home health agency (determined as of the day that such payment would otherwise be made) that—
 
@@ -575,11 +575,11 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title V, § 508\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–533, provided that:
 
->     “(a) __24-Month Increase Beginning__  __April 1, 2001__  __.—__ 
+>     “(a) __24__  __-Month Increase Beginning April__  __1, 2001.—__ 
 
 >     In the case of home health services furnished in a rural area (as defined in section 1886(d)(2)(D) of the Social Security Act ([42 U.S.C. 1395ww(d)(2)(D)][/us/usc/t42/s1395ww/d/2/D])) on or after April 1, 2001, and before April 1, 2003, the Secretary of Health and Human Services shall increase the payment amount otherwise made under section 1895 of such Act ([42 U.S.C. 1395fff][/us/usc/t42/s1395fff]) for such services by 10 percent.
 
->     “(b) __Waiving Budget Neutrality.—__ 
+>     “(b)  __Waiving Budget Neutrality__  __.—__ 
 
 >     The Secretary shall not reduce the standard prospective payment amount (or amounts) under section 1895 of the Social Security Act ([42 U.S.C. 1395fff][/us/usc/t42/s1395fff]) applicable to home health services furnished during a period to offset the increase in payments resulting from the application of subsection (a).”
 
@@ -587,11 +587,11 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title V, § 547(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–553, provided that:
 
->     “(1) __Transitional allowance for full marketbasket \[sic\] increase.—__ 
+>     “(1)  __Transitional allowance for full marketbasket \[sic\] increase__  __.—__ 
 
 >     The payment increase provided under section 502(b)(1)(B) \[set out as a note above\] shall not apply to episodes and visits ending after fiscal year 2001 and shall not be taken into account in calculating the payment amounts applicable for subsequent episodes and visits.
 
->     “(2) __Temporary increase for rural home health services.—__ 
+>     “(2)  __Temporary increase for rural home health services__  __.—__ 
 
 >     The payment increase provided under section 508(a) \[set out as a note above\] for the period beginning on April 1, 2001, and ending on September 30, 2002, shall not apply to episodes and visits ending after such period, and shall not be taken into account in calculating the payment amounts applicable for episodes and visits occurring after such period.”
 
@@ -599,39 +599,39 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title III, § 301\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–358, provided that:
 
->     “(a) __Adjustment To Reflect Administrative Costs__ 
+>     “(a)  __Adjustment To Reflect Administrative Costs__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In the case of a home health agency that furnishes home health services to a medicare beneficiary, for each such beneficiary to whom the agency furnished such services during the agency’s cost reporting period beginning in fiscal year 2000, the Secretary of Health and Human Services shall pay the agency, in addition to any amount of payment made under section 1861(v)(1)(L) of the Social Security Act ([42 U.S.C. 1395x(v)(1)(L)][/us/usc/t42/s1395x/v/1/L]) for the beneficiary and only for such cost reporting period, an aggregate amount of $10 to defray costs incurred by the agency attributable to data collection and reporting requirements under the Outcome and Assessment Information Set (OASIS) required by reason of section 4602(e) of BBA \[the Balanced Budget Act of 1997, [Pub. L. 105–33][/us/pl/105/33]\] ([42 U.S.C. 1395fff][/us/usc/t42/s1395fff] note).
 
->         “(2) __Payment schedule__ 
+>         “(2)  __Payment schedule__ 
 
->             “(A) __Midyear payment.—__ 
+>             “(A)  __Midyear payment__  __.—__ 
 
 >             Not later than April 1, 2000, the Secretary shall pay to a home health agency an amount that the Secretary estimates to be 50 percent of the aggregate amount payable to the agency by reason of this subsection.
 
->             “(B) __Upon settled cost report.—__ 
+>             “(B)  __Upon settled cost report__  __.—__ 
 
 >             The Secretary shall pay the balance of amounts payable to an agency under this subsection on the date that the cost report submitted by the agency for the cost reporting period beginning in fiscal year 2000 is settled.
 
->         “(3) __Payment from trust funds.—__ 
+>         “(3)  __Payment from trust funds__  __.—__ 
 
 >         Payments under this subsection shall be made, in appropriate part as specified by the Secretary, from the Federal Hospital Insurance Trust Fund and from the Federal Supplementary Medical Insurance Trust Fund.
 
->         “(4) __Definitions.—__ 
+>         “(4)  __Definitions__  __.—__ 
 
 >         In this subsection:
 
->             “(A) __Home health agency.—__ 
+>             “(A)  __Home health agency__  __.—__ 
 
 >             The term ‘home health agency’ has the meaning given that term under section 1861(o) of the Social Security Act ([42 U.S.C. 1395x][/us/usc/t42/s1395x](o)).
 
->             “(B) __Home health services.—__ 
+>             “(B)  __Home health services__  __.—__ 
 
 >             The term ‘home health services’ has the meaning given that term under section 1861(m) of such Act ([42 U.S.C. 1395x(m)][/us/usc/t42/s1395x/m]).
 
->             “(C) __Medicare beneficiary.—__ 
+>             “(C)  __Medicare beneficiary__  __.—__ 
 
 >             The term ‘medicare beneficiary’ means a beneficiary described in section 1861(v)(1)(L)(vi)(II) of the Social Security Act ([42 U.S.C. 1395x(v)(1)(L)(vi)(II)][/us/usc/t42/s1395x/v/1/L/vi/II]).
 
@@ -639,11 +639,11 @@
 
 >         “(1) __Report to congress.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Not later than 180 days after the date of the enactment of this Act \[Nov. 29, 1999\], the Comptroller General of the United States shall submit to Congress a report on the matters described in subparagraph (B) with respect to the data collection requirement of patients of such agencies under the Outcome and Assessment Information Set (OASIS) standard as part of the comprehensive assessment of patients.
 
->             “(B) __Matters studied.—__ 
+>             “(B)  __Matters studied__  __.—__ 
 
 >             For purposes of subparagraph (A), the matters described in this subparagraph include the following:
 
@@ -651,19 +651,19 @@
 
 >                 “(ii) An analysis of the effect of such data collection requirement on the privacy interests of patients from whom data is collected.
 
->             “(C) __Audit.—__ 
+>             “(C)  __Audit__  __.—__ 
 
 >             The Comptroller General shall conduct an independent audit of the costs described in subparagraph (B)(i). Not later than 180 days after receipt of the report under subparagraph (A), the Comptroller General shall submit to Congress a report describing the Comptroller General’s findings with respect to such audit, and shall include comments on the report submitted to Congress by the Secretary of Health and Human Services under subparagraph (A).
 
->         “(2) __Definitions.—__ 
+>         “(2)  __Definitions__  __.—__ 
 
 >         In this subsection:
 
->             “(A) __Comprehensive assessment of patients.—__ 
+>             “(A)  __Comprehensive assessment of patients__  __.—__ 
 
 >             The term ‘comprehensive assessment of patients’ means the rule published by the Health Care Financing Administration that requires, as a condition of participation in the medicare program, a home health agency to provide a patient-specific comprehensive assessment that accurately reflects the patient’s current status and that incorporates the Outcome and Assessment Information Set (OASIS).
 
->             “(B) __Outcome and assessment information set.—__ 
+>             “(B)  __Outcome and assessment information set__  __.—__ 
 
 >             The term ‘Outcome and Assessment Information Set’ means the standard provided under the rule relating to data items that must be used in conducting a comprehensive assessment of patients.”
 
@@ -677,11 +677,11 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title III, § 307\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–362, provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Medicare Payment Advisory Commission (referred to in this section as ‘MedPAC’) shall conduct a study to determine the feasibility and advisability of exempting home health services provided by a home health agency (or by others under arrangements with such agency) located in a rural area, or to an individual residing in a rural area, from payment under the prospective payment system for such services established by the Secretary of Health and Human Services in accordance with section 1895 of the Social Security Act ([42 U.S.C. 1395fff][/us/usc/t42/s1395fff]).
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 2 years after the date of the enactment of this Act \[Nov. 29, 1999\], MedPAC shall submit a report to Congress on the study conducted under subsection (a), together with any recommendations for legislation that MedPAC determines to be appropriate as a result of such study.”
 
@@ -705,11 +705,11 @@
 
 [Pub. L. 105–33, title IV, § 4616][/us/pl/105/33/s4616], Aug. 5, 1997, [111 Stat. 475][/us/stat/111/475], provided that:
 
->     “(a) __Estimate.—__ 
+>     “(a)  __Estimate__  __.—__ 
 
 >     Not later than October 1, 1997, the Secretary of Health and Human Services shall submit to the Committees on Commerce and Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report that includes an estimate of the outlays that will be made under parts A and B of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq.\] for the provision of home health services during each of fiscal years 1998 through 2002.
 
->     “(b) __Annual Report.—__ 
+>     “(b)  __Annual Report__  __.—__ 
 
 >     Not later than the end of each of years 1999 through 2002, the Secretary shall submit to such Committees a report that compares the actual outlays under such parts for such services during the fiscal year ending in the year, to the outlays estimated under subsection (a) for such fiscal year. If the Secretary finds that such actual outlays were greater than such estimated outlays for the fiscal year, the Secretary shall include in the report recommendations regarding beneficiary copayments for home health services provided under the medicare program or such other methods as will reduce the growth in outlays for home health services under the medicare program.”
 

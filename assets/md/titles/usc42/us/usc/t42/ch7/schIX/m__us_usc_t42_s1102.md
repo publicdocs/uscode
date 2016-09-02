@@ -65,11 +65,11 @@
 
 [Pub. L. 102–318, title V, § 531(e)][/us/pl/102/318/s531/e], July 3, 1992, [106 Stat. 317][/us/stat/106/317], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting [section 1110 of this title][/us/usc/t42/s1110] and amending this section and sections 1101, 1104, and 1105 of this title\] shall take effect on the date of the enactment of this Act \[July 3, 1992\].
 
->     “(2) __Changes in ceiling amounts.—__ 
+>     “(2)  __Changes in ceiling amounts__  __.—__ 
 
 >     The amendments made by subsection\[s\] (a)(2) and (b) \[amending this section and [section 1105 of this title][/us/usc/t42/s1105]\] shall apply to fiscal years beginning after September 30, 1993.”
 

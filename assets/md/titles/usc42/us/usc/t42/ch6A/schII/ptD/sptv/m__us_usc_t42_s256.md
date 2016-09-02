@@ -253,15 +253,15 @@
 
 [Pub. L. 111–148, title X, § 10504][/us/pl/111/148/s10504], Mar. 23, 2010, [124 Stat. 1004][/us/stat/124/1004], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 6 months after the date of enactment of this Act \[Mar. 23, 2010\], the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’), acting through the Health Resources and Services Administration, shall establish a 3 year demonstration project in up to 10 States to provide access to comprehensive health care services to the uninsured at reduced fees. The Secretary shall evaluate the feasibility of expanding the project to additional States.
 
->     “(b) __Eligibility.—__ 
+>     “(b)  __Eligibility__  __.—__ 
 
 >     To be eligible to participate in the demonstration project, an entity shall be a State-based, nonprofit, public-private partnership that provides access to comprehensive health care services to the uninsured at reduced fees. Each State in which a participant selected by the Secretary is located shall receive not more than $2,000,000 to establish and carry out the project for the 3-year demonstration period.
 
->     “(c) __Authorization.—__ 
+>     “(c)  __Authorization__  __.—__ 
 
 >     There is authorized to be appropriated such sums as may be necessary to carry out this section.”
 

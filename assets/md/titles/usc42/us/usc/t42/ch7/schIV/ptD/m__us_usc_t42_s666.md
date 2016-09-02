@@ -37,7 +37,7 @@
 
             (C) notice of the noncustodial parent’s social security account number (or numbers, if he has more than one such number) and home address shall be furnished to the State agency requesting the refund offset, and to the State agency enforcing the order.
 
-        (4) __Liens.—__ 
+        (4)  __Liens__  __.—__ 
 
         Procedures under which—
 
@@ -55,7 +55,7 @@
 
             (B) __Procedures concerning genetic testing.—__ 
 
-                (i) __Genetic testing required in certain contested cases.—__ 
+                (i)  __Genetic testing required in certain contested cases__  __.—__ 
 
                 Procedures under which the State is required, in a contested paternity case (unless otherwise barred by State law) to require the child and all other parties (other than individuals found under [section 654(29) of this title][/us/usc/t42/s654/29] to have good cause and other exceptions for refusing to cooperate) to submit to genetic tests upon the request of any such party, if the request is supported by a sworn statement by the party—
 
@@ -63,7 +63,7 @@
 
                     (II) denying paternity, and setting forth facts establishing a reasonable possibility of the nonexistence of sexual contact between the parties.
 
-                (ii) __Other requirements.—__ 
+                (ii)  __Other requirements__  __.—__ 
 
                 Procedures which require the State agency, in any case in which the agency orders genetic testing—
 
@@ -73,37 +73,37 @@
 
             (C) __Voluntary paternity acknowledgment.—__ 
 
-                (i) __Simple civil process.—__ 
+                (i)  __Simple civil process__  __.—__ 
 
                 Procedures for a simple civil process for voluntarily acknowledging paternity under which the State must provide that, before a mother and a putative father can sign an acknowledgment of paternity, the mother and the putative father must be given notice, orally, or through the use of video or audio equipment, and in writing, of the alternatives to, the legal consequences of, and the rights (including, if 1 parent is a minor, any rights afforded due to minority status) and responsibilities that arise from, signing the acknowledgment.
 
-                (ii) __Hospital-based program.—__ 
+                (ii)  __Hospital-based program__  __.—__ 
 
                 Such procedures must include a hospital-based program for the voluntary acknowledgment of paternity focusing on the period immediately before or after the birth of a child.
 
                 (iii) __Paternity establishment services.—__ 
 
-                    (I) __State-offered services.—__ 
+                    (I)  __State-offered services__  __.—__ 
 
                     Such procedures must require the State agency responsible for maintaining birth records to offer voluntary paternity establishment services.
 
                     (II) __Regulations.—__ 
 
-                        (aa) __Services offered by hospitals and birth record agencies.—__ 
+                        (aa)  __Services offered by hospitals and birth record agencies__  __.—__ 
 
                         The Secretary shall prescribe regulations governing voluntary paternity establishment services offered by hospitals and birth record agencies.
 
-                        (bb) __Services offered by other entities.—__ 
+                        (bb)  __Services offered by other entities__  __.—__ 
 
                         The Secretary shall prescribe regulations specifying the types of other entities that may offer voluntary paternity establishment services, and governing the provision of such services, which shall include a requirement that such an entity must use the same notice provisions used by, use the same materials used by, provide the personnel providing such services with the same training provided by, and evaluate the provision of such services in the same manner as the provision of such services is evaluated by, voluntary paternity establishment programs of hospitals and birth record agencies.
 
-                (iv) __Use of paternity acknowledgment affidavit.—__ 
+                (iv)  __Use of paternity acknowledgment affidavit__  __.—__ 
 
                 Such procedures must require the State to develop and use an affidavit for the voluntary acknowledgment of paternity which includes the minimum requirements of the affidavit specified by the Secretary under [section 652(a)(7) of this title][/us/usc/t42/s652/a/7] for the voluntary acknowledgment of paternity, and to give full faith and credit to such an affidavit signed in any other State according to its procedures.
 
             (D) __Status of signed paternity acknowledgment.—__ 
 
-                (i) __Inclusion in birth records.—__ 
+                (i)  __Inclusion in birth records__  __.—__ 
 
                 Procedures under which the name of the father shall be included on the record of birth of the child of unmarried parents only if—
 
@@ -113,7 +113,7 @@
 
                  Nothing in this clause shall preclude a State agency from obtaining an admission of paternity from the father for submission in a judicial or administrative proceeding, or prohibit the issuance of an order in a judicial or administrative proceeding which bases a legal finding of paternity on an admission of paternity by the father and any other additional showing required by State law.
 
-                (ii) __Legal finding of paternity.—__ 
+                (ii)  __Legal finding of paternity__  __.—__ 
 
                 Procedures under which a signed voluntary acknowledgment of paternity is considered a legal finding of paternity, subject to the right of any signatory to rescind the acknowledgment within the earlier of—
 
@@ -121,15 +121,15 @@
 
                     (II) the date of an administrative or judicial proceeding relating to the child (including a proceeding to establish a support order) in which the signatory is a party.
 
-                (iii) __Contest.—__ 
+                (iii)  __Contest__  __.—__ 
 
                 Procedures under which, after the 60-day period referred to in clause (ii), a signed voluntary acknowledgment of paternity may be challenged in court only on the basis of fraud, duress, or material mistake of fact, with the burden of proof upon the challenger, and under which the legal responsibilities (including child support obligations) of any signatory arising from the acknowledgment may not be suspended during the challenge, except for good cause shown.
 
-            (E) __Bar on acknowledgment ratification proceedings.—__ 
+            (E)  __Bar on acknowledgment ratification proceedings__  __.—__ 
 
             Procedures under which judicial or administrative proceedings are not required or permitted to ratify an unchallenged acknowledgment of paternity.
 
-            (F) __Admissibility of genetic testing results.—__ 
+            (F)  __Admissibility of genetic testing results__  __.—__ 
 
             Procedures—
 
@@ -145,31 +145,31 @@
 
                 (iii) making the test results admissible as evidence of paternity without the need for foundation testimony or other proof of authenticity or accuracy, unless objection is made.
 
-            (G) __Presumption of paternity in certain cases.—__ 
+            (G)  __Presumption of paternity in certain cases__  __.—__ 
 
             Procedures which create a rebuttable or, at the option of the State, conclusive presumption of paternity upon genetic testing results indicating a threshold probability that the alleged father is the father of the child.
 
-            (H) __Default orders.—__ 
+            (H)  __Default orders__  __.—__ 
 
             Procedures requiring a default order to be entered in a paternity case upon a showing of service of process on the defendant and any additional showing required by State law.
 
-            (I) __No right to jury trial.—__ 
+            (I)  __No right to jury trial__  __.—__ 
 
             Procedures providing that the parties to an action to establish paternity are not entitled to a trial by jury.
 
-            (J) __Temporary support order based on probable paternity in contested cases.—__ 
+            (J)  __Temporary support order based on probable paternity in contested cases__  __.—__ 
 
             Procedures which require that a temporary order be issued, upon motion by a party, requiring the provision of child support pending an administrative or judicial determination of parentage, if there is clear and convincing evidence of paternity (on the basis of genetic tests or other evidence).
 
-            (K) __Proof of certain support and paternity establishment costs.—__ 
+            (K)  __Proof of certain support and paternity establishment costs__  __.—__ 
 
             Procedures under which bills for pregnancy, childbirth, and genetic testing are admissible as evidence without requiring third-party foundation testimony, and shall constitute prima facie evidence of amounts incurred for such services or for testing on behalf of the child.
 
-            (L) __Standing of putative fathers.—__ 
+            (L)  __Standing of putative fathers__  __.—__ 
 
             Procedures ensuring that the putative father has a reasonable opportunity to initiate a paternity action.
 
-            (M) __Filing of acknowledgments and adjudications in state registry of birth records.—__ 
+            (M)  __Filing of acknowledgments and adjudications in state registry of birth records__  __.—__ 
 
             Procedures under which voluntary acknowledgments and adjudications of paternity by judicial or administrative processes are filed with the State registry of birth records for comparison with information in the State case registry.
 
@@ -177,11 +177,11 @@
 
         (7) __Reporting arrearages to credit bureaus.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Procedures (subject to safeguards pursuant to subparagraph (B)) requiring the State to report periodically to consumer reporting agencies (as defined in [section 1681a(f) of title 15][/us/usc/t15/s1681a/f]) the name of any noncustodial parent who is delinquent in the payment of support, and the amount of overdue support owed by such parent.
 
-            (B) __Safeguards.—__ 
+            (B)  __Safeguards__  __.—__ 
 
             Procedures ensuring that, in carrying out subparagraph (A), information with respect to a noncustodial parent is reported—
 
@@ -221,7 +221,7 @@
 
             (A) __3-year cycle.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Procedures under which every 3 years (or such shorter cycle as the State may determine), upon the request of either parent or if there is an assignment under part A of this subchapter, the State shall with respect to a support order being enforced under this part, taking into account the best interests of the child involved—
 
@@ -231,29 +231,29 @@
 
                     (III) use automated methods (including automated comparisons with wage or State income tax data) to identify orders eligible for review, conduct the review, identify orders eligible for adjustment, and apply the appropriate adjustment to the orders eligible for adjustment under any threshold that may be established by the State.
 
-                (ii) __Opportunity to request review of adjustment.—__ 
+                (ii)  __Opportunity to request review of adjustment__  __.—__ 
 
                 If the State elects to conduct the review under subclause (II) or (III) of clause (i), procedures which permit either party to contest the adjustment, within 30 days after the date of the notice of the adjustment, by making a request for review and, if appropriate, adjustment of the order in accordance with the child support guidelines established pursuant to [section 667(a) of this title][/us/usc/t42/s667/a].
 
-                (iii) __No proof of change in circumstances necessary in 3-year cycle review.—__ 
+                (iii)  __No proof of change in circumstances necessary in 3-year cycle review__  __.—__ 
 
                 Procedures which provide that any adjustment under clause (i) shall be made without a requirement for proof or showing of a change in circumstances.
 
-            (B) __Proof of substantial change in circumstances necessary in request for review outside 3-year cycle.—__ 
+            (B)  __Proof of substantial change in circumstances necessary in request for review outside 3-year cycle__  __.—__ 
 
             Procedures under which, in the case of a request for a review, and if appropriate, an adjustment outside the 3-year cycle (or such shorter cycle as the State may determine) under clause (i), the State shall review and, if the requesting party demonstrates a substantial change in circumstances, adjust the order in accordance with the guidelines established pursuant to [section 667(a) of this title][/us/usc/t42/s667/a].
 
-            (C) __Notice of right to review.—__ 
+            (C)  __Notice of right to review__  __.—__ 
 
             Procedures which require the State to provide notice not less than once every 3 years to the parents subject to the order informing the parents of their right to request the State to review and, if appropriate, adjust the order pursuant to this paragraph. The notice may be included in the order.
 
         (11) Procedures under which a State must give full faith and credit to a determination of paternity made by any other State, whether established through voluntary acknowledgment or through administrative or judicial processes.
 
-        (12) __Locator information from interstate networks.—__ 
+        (12)  __Locator information from interstate networks__  __.—__ 
 
         Procedures to ensure that all Federal and State agencies conducting activities under this part have access to any system used by the State to locate an individual for purposes relating to motor vehicles or law enforcement.
 
-        (13) __Recording of social security numbers in certain family matters.—__ 
+        (13)  __Recording of social security numbers in certain family matters__  __.—__ 
 
         Procedures requiring that the social security number of—
 
@@ -267,7 +267,7 @@
 
         (14) __High-volume, automated administrative enforcement in interstate cases.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Procedures under which—
 
@@ -299,11 +299,11 @@
 
                     (III) the amount of such collected support.
 
-            (B) __High-volume automated administrative enforcement.—__ 
+            (B)  __High-volume automated administrative enforcement__  __.—__ 
 
             In this part, the term “high-volume automated administrative enforcement”, in interstate cases, means, on request of another State, the identification by a State, through automated data matches with financial institutions and other entities where assets may be found, of assets owned by persons who owe child support in other States, and the seizure of such assets by the State, through levy or other appropriate processes.
 
-        (15) __Procedures to ensure that persons owing overdue support work or have a plan for payment of such support.—__ 
+        (15)  __Procedures to ensure that persons owing overdue support work or have a plan for payment of such support__  __.—__ 
 
         Procedures under which the State has the authority, in any case in which an individual owes overdue support with respect to a child receiving assistance under a State program funded under part A of this subchapter, to issue an order or to request that a court or an administrative process established pursuant to State law issue an order that requires the individual to—
 
@@ -311,13 +311,13 @@
 
             (B) if the individual is subject to such a plan and is not incapacitated, participate in such work activities (as defined in [section 607(d) of this title][/us/usc/t42/s607/d]) as the court, or, at the option of the State, the State agency administering the State program under this part, deems appropriate.
 
-        (16) __Authority to withhold or suspend licenses.—__ 
+        (16)  __Authority to withhold or suspend licenses__  __.—__ 
 
         Procedures under which the State has (and uses in appropriate cases) authority to withhold or suspend, or to restrict the use of driver’s licenses, professional and occupational licenses, and recreational and sporting licenses of individuals owing overdue support or failing, after receiving appropriate notice, to comply with subpoenas or warrants relating to paternity or child support proceedings.
 
         (17) __Financial institution data matches.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Procedures under which the State agency shall enter into agreements with financial institutions doing business in the State—
 
@@ -325,11 +325,11 @@
 
                 (ii) in response to a notice of lien or levy, encumber or surrender, as the case may be, assets held by such institution on behalf of any noncustodial parent who is subject to a child support lien pursuant to paragraph (4).
 
-            (B) __Reasonable fees.—__ 
+            (B)  __Reasonable fees__  __.—__ 
 
             The State agency may pay a reasonable fee to a financial institution for conducting the data match provided for in subparagraph (A)(i), not to exceed the actual costs incurred by such financial institution.
 
-            (C) __Liability.—__ 
+            (C)  __Liability__  __.—__ 
 
             A financial institution shall not be liable under any Federal or State law to any person—
 
@@ -339,23 +339,23 @@
 
                 (iii) for any other action taken in good faith to comply with the requirements of subparagraph (A).
 
-            (D) __Definitions.—__ 
+            (D)  __Definitions__  __.—__ 
 
             For purposes of this paragraph—
 
-                (i) __Financial institution.—__ 
+                (i)  __Financial institution__  __.—__ 
 
                 The term “financial institution” has the meaning given to such term by [section 669A(d)(1) of this title][/us/usc/t42/s669A/d/1].
 
-                (ii) __Account.—__ 
+                (ii)  __Account__  __.—__ 
 
                 The term “account” means a demand deposit account, checking or negotiable withdrawal order account, savings account, time deposit account, or money-market mutual fund account.
 
-        (18) __Enforcement of orders against paternal or maternal grandparents.—__ 
+        (18)  __Enforcement of orders against paternal or maternal grandparents__  __.—__ 
 
         Procedures under which, at the State’s option, any child support order enforced under this part with respect to a child of minor parents, if the custodial parent of such child is receiving assistance under the State program under part A of this subchapter, shall be enforceable, jointly and severally, against the parents of the noncustodial parent of such child.
 
-        (19) __Health care coverage.—__ 
+        (19)  __Health care coverage__  __.—__ 
 
         Procedures under which—
 

@@ -41,11 +41,11 @@
 
 [Pub. L. 100–628, title I, § 101][/us/pl/100/628/s101], Nov. 7, 1988, [102 Stat. 3227][/us/stat/102/3227], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     This Act and the amendments made by this Act \[see Short Title of 1988 Amendment note set out under [section 11301 of this title][/us/usc/t42/s11301]\] may not be construed to provide for new budget authority, budget outlays, or new entitlement authority, for fiscal year 1989 or 1990 in excess of the appropriate aggregate levels established by the concurrent resolution on the budget for such fiscal year for the programs authorized by this Act and the amendments made by this Act.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For purposes of this section, the terms ‘budget authority’, ‘budget outlays’, ‘concurrent resolution on the budget’, and ‘entitlement authority’ have the meanings given such terms in section 3 of the Congressional Budget Act of 1974 ([2 U.S.C. 622][/us/usc/t2/s622]).”
 

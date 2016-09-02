@@ -189,7 +189,7 @@
 
         (3) The terms “housing” and “related facilities” have the meanings given such terms in [section 1485(e) of this title][/us/usc/t42/s1485/e].
 
-        (4) __Indian tribe.—__ 
+        (4)  __Indian tribe__  __.—__ 
 
         The term “Indian tribe” means—
 

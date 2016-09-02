@@ -77,11 +77,11 @@
 
 [Pub. L. 102–164, title III, § 304][/us/pl/102/164/s304], Nov. 15, 1991, [105 Stat. 1061][/us/stat/105/1061], as amended by [Pub. L. 102–318, title V, § 533][/us/pl/102/318/s533], July 3, 1992, [106 Stat. 317][/us/stat/106/317], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Labor shall submit to the Congress, before December 31, 1994, a comprehensive report setting forth a proposal for revising the method of allocating grants among the States under section 302 of the Social Security Act \[[42 U.S.C. 502][/us/usc/t42/s502]\].
 
->     “(b) __Specific Requirements.—__ 
+>     “(b)  __Specific Requirements__  __.—__ 
 
 >     The report required by subsection (a) shall include an analysis of—
 
@@ -99,7 +99,7 @@
 
 >         “(7) the effect of the proposal set forth in such report on the grant amounts allocated to each State.
 
->     “(c) __Congressional Review Period.—__ 
+>     “(c)  __Congressional Review Period__  __.—__ 
 
 >     The Secretary of Labor may not revise the method in effect on the date of the enactment of this Act \[Nov. 15, 1991\] for allocating grants among the States under section 302 of the Social Security Act \[[42 U.S.C. 502][/us/usc/t42/s502]\], until after the expiration of the 12-month period beginning on the date on which the report required by subsection (a) is submitted to the Congress.”
 

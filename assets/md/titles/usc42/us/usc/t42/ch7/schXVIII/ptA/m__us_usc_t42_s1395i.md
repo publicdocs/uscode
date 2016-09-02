@@ -507,25 +507,25 @@
 
 [Pub. L. 108–173, title VII, § 734][/us/pl/108/173/s734], Dec. 8, 2003, [117 Stat. 2352][/us/stat/117/2352], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Clerical error.—__ 
+>         “(1)  __Clerical error__  __.—__ 
 
 >         The term ‘clerical error’ means a failure that occurs on or after April 15, 2001, to have transferred the correct amount from the general fund of the Treasury to a Trust Fund.
 
->         “(2) __Trust fund.—__ 
+>         “(2)  __Trust fund__  __.—__ 
 
 >         The term ‘Trust Fund’ means the Federal Hospital Insurance Trust Fund established under section 1817 of the Social Security Act ([42 U.S.C. 1395i][/us/usc/t42/s1395i]) and the Federal Supplementary Medical Insurance Trust Fund established under section 1841 of such Act ([42 U.S.C. 1395t][/us/usc/t42/s1395t]).
 
 >     “(b) __Correction of Trust Fund Holdings.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of the Treasury shall take the actions described in paragraph (2) with respect to the Trust Fund with the goal being that, after such actions are taken, the holdings of the Trust Fund will replicate, to the extent practicable in the judgment of the Secretary of the Treasury, in consultation with the Secretary \[of Health and Human Services\], the holdings that would have been held by the Trust Fund if the clerical error involved had not occurred.
 
->         “(2) __Obligations issued and redeemed.—__ 
+>         “(2)  __Obligations issued and redeemed__  __.—__ 
 
 >         The Secretary of the Treasury shall—
 
@@ -539,15 +539,15 @@
 
 >             “(B) redeem from the Trust Fund obligations that would have been redeemed from the Trust Fund if the clerical error involved had not occurred.
 
->     “(c) __Appropriation.—__ 
+>     “(c)  __Appropriation__  __.—__ 
 
 >     There is appropriated to the Trust Fund, out of any money in the Treasury not otherwise appropriated, an amount determined by the Secretary of the Treasury, in consultation with the Secretary, to be equal to the interest income lost by the Trust Fund through the date on which the appropriation is being made as a result of the clerical error involved.
 
->     “(d) __Congressional Notice.—__ 
+>     “(d)  __Congressional Notice__  __.—__ 
 
 >     In the case of a clerical error that occurs after April 15, 2001, the Secretary of the Treasury, before taking action to correct the error under this section, shall notify the appropriate committees of Congress concerning such error and the actions to be taken under this section in response to such error.
 
->     “(e) __Deadline.—__ 
+>     “(e)  __Deadline__  __.—__ 
 
 >     With respect to the clerical error that occurred on April 15, 2001, not later than 120 days after the date of the enactment of this Act \[Dec. 8, 2003\]—
 
@@ -561,7 +561,7 @@
 
 >     “(a) __Determinations of Excess General Revenue Medicare Funding.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Board of Trustees of each medicare trust fund shall include in the annual reports submitted under subsection (b)(2) of sections 1817 and 1841 of the Social Security Act ([42 U.S.C. 1395i][/us/usc/t42/s1395i] and 1395t)—
 
@@ -569,19 +569,19 @@
 
 >             “(B) a determination as to whether there is projected to be excess general revenue medicare funding (as defined in subsection (c)) for the fiscal year in which the report is submitted or for any of the succeeding 6 fiscal years.
 
->         “(2) __Medicare funding warning.—__ 
+>         “(2)  __Medicare funding warning__  __.—__ 
 
 >         For purposes of [section 1105(h) of title 31][/us/usc/t31/s1105/h], United States Code, and this subtitle \[subtitle A (§§ 801–804) of title VIII of [Pub. L. 108–173][/us/pl/108/173], amending this section, [section 1395t of this title][/us/usc/t42/s1395t], and [section 1105 of Title 31][/us/usc/t31/s1105], Money and Finance, and enacting provisions set out as a note under [section 1105 of Title 31][/us/usc/t31/s1105]\], an affirmative determination under paragraph (1)(B) in 2 consecutive annual reports shall be treated as a medicare funding warning in the year in which the second such report is made.
 
->         “(3) __7-fiscal-year reporting period.—__ 
+>         “(3) __7-__  __fiscal-year reporting period__  __.—__ 
 
 >         For purposes of this subtitle, the term ‘7-fiscal-year reporting period’ means, with respect to a year in which an annual report described in paragraph (1) is made, the period of 7 consecutive fiscal years beginning with the fiscal year in which the report is submitted.
 
->     “(b) __Information.—__ 
+>     “(b)  __Information__  __.—__ 
 
 >     The information described in this subsection for an annual report in a year is as follows:
 
->         “(1) __Projections of growth of general revenue spending.—__ 
+>         “(1)  __Projections of growth of general revenue spending__  __.—__ 
 
 >         A statement of the general revenue medicare funding as a percentage of the total medicare outlays for each of the following:
 
@@ -589,7 +589,7 @@
 
 >             “(B) Previous fiscal years and as of 10, 50, and 75 years after such year.
 
->         “(2) __Comparison with other growth trends.—__ 
+>         “(2)  __Comparison with other growth trends__  __.—__ 
 
 >         A comparison of the trend of such percentages with the annual growth rate in the following:
 
@@ -601,19 +601,19 @@
 
 >             “(D) Other appropriate measures.
 
->         “(3) __Part d spending.—__ 
+>         “(3)  __Part d spending__  __.—__ 
 
 >         Expenditures, including trends in expenditures, under part D of title XVIII of the Social Security Act \[[42 U.S.C. 1395w–101][/us/usc/t42/s1395w–101] et seq.\], as added by section 101.
 
->         “(4) __Combined medicare trust fund analysis.—__ 
+>         “(4)  __Combined medicare trust fund analysis__  __.—__ 
 
 >         A financial analysis of the combined medicare trust funds if general revenue medicare funding were limited to the percentage specified in subsection (c)(1)(B) of total medicare outlays.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
->         “(1) __Excess general revenue medicare funding.—__ 
+>         “(1)  __Excess general revenue medicare funding__  __.—__ 
 
 >         The term ‘excess general revenue medicare funding’ means, with respect to a fiscal year, that—
 
@@ -621,7 +621,7 @@
 
 >             “(B) 45 percent.
 
->         “(2) __General revenue medicare funding.—__ 
+>         “(2)  __General revenue medicare funding__  __.—__ 
 
 >         The term ‘general revenue medicare funding’ means for a year—
 
@@ -629,45 +629,45 @@
 
 >             “(B) the dedicated medicare financing sources (as defined in paragraph (3)) for the year.
 
->         “(3) __Dedicated medicare financing sources.—__ 
+>         “(3)  __Dedicated medicare financing sources__  __.—__ 
 
 >         The term ‘dedicated medicare financing sources’ means the following:
 
->             “(A) __Hospital insurance tax.—__ 
+>             “(A)  __Hospital insurance tax__  __.—__ 
 
 >             Amounts appropriated to the Hospital Insurance Trust Fund under the third sentence of section 1817(a) of the Social Security Act ([42 U.S.C. 1395i(a)][/us/usc/t42/s1395i/a]) and amounts transferred to such Trust Fund under section 7(c)(2) of the Railroad Retirement Act of 1974 ([45 U.S.C. 231f(c)(2)][/us/usc/t45/s231f/c/2]).
 
->             “(B) __Taxation of certain oasdi benefits.—__ 
+>             “(B)  __Taxation of certain oasdi benefits__  __.—__ 
 
 >             Amounts appropriated to the Hospital Insurance Trust Fund under section 121(e)(1)(B) of the Social Security Amendments of 1983 ([Public Law 98–21][/us/pl/98/21]) \[set out as a note under [section 401 of this title][/us/usc/t42/s401]\], as inserted by section 13215(c) of the Omnibus Budget Reconciliation Act of 1993 ([Public Law 103–66][/us/pl/103/66]).
 
->             “(C) __State transfers.—__ 
+>             “(C)  __State transfers__  __.—__ 
 
 >             The State share of amounts paid to the Federal Government by a State under section 1843 of the Social Security Act ([42 U.S.C. 1395v][/us/usc/t42/s1395v]) or pursuant to section 1935(c) of such Act \[[42 U.S.C. 1396u–5(c)][/us/usc/t42/s1396u–5/c]\].
 
->             “(D) __Premiums.—__ 
+>             “(D)  __Premiums__  __.—__ 
 
 >             The following premiums:
 
->                 “(i) __Part a.—__ 
+>                 “(i)  __Part a__  __.—__ 
 
 >                 Premiums paid by non-Federal sources under sections 1818 and section \[sic\] 1818A ([42 U.S.C. 1395i–2][/us/usc/t42/s1395i–2] and 1395i–2a) of such Act.
 
->                 “(ii) __Part b.—__ 
+>                 “(ii)  __Part b__  __.—__ 
 
 >                 Premiums paid by non-Federal sources under section 1839 of such Act ([42 U.S.C. 1395r][/us/usc/t42/s1395r]), including any adjustments in premiums under such section.
 
->                 “(iii) __Part d.—__ 
+>                 “(iii)  __Part d__  __.—__ 
 
 >                 Monthly beneficiary premiums paid under part D of title XVIII of such Act \[[42 U.S.C. 1395w–101][/us/usc/t42/s1395w–101] et seq.\], as added by section 101, and MA monthly prescription drug beneficiary premiums paid under part C of such title \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\] insofar as they are attributable to basic prescription drug coverage.
 
 >             Premiums under clauses (ii) and (iii) shall be determined without regard to any reduction in such premiums attributable to a beneficiary rebate under section 1854(b)(1)(C) of such title \[[42 U.S.C. 1395w–24(b)(1)(C)][/us/usc/t42/s1395w–24/b/1/C]\], as amended by section 222(b)(1), and premiums under clause (iii) are deemed to include any amounts paid under section 1860D–13(b) of such title \[[42 U.S.C. 1395w–113(b)][/us/usc/t42/s1395w–113/b]\], as added by section 101.
 
->             “(E) __Gifts.—__ 
+>             “(E)  __Gifts__  __.—__ 
 
 >             Amounts received by the medicare trust funds under section 201(i) of the Social Security Act ([42 U.S.C. 401(i)][/us/usc/t42/s401/i]).
 
->         “(4) __Total medicare outlays.—__ 
+>         “(4)  __Total medicare outlays__  __.—__ 
 
 >         The term ‘total medicare outlays’ means total outlays from the medicare trust funds and shall—
 
@@ -677,7 +677,7 @@
 
 >             “(C) offset outlays by the amount of fraud and abuse collections insofar as they are applied or deposited into a medicare trust fund.
 
->         “(5) __Medicare trust fund.—__ 
+>         “(5)  __Medicare trust fund__  __.—__ 
 
 >         The term ‘medicare trust fund’ means—
 
@@ -687,11 +687,11 @@
 
 >     “(d) __Conforming Amendments.—__ 
 
->         “(1) __Federal hospital insurance trust fund \[Amended__  __[__  __section 1395i of this title__  __][/us/usc/t42/s1395i]__  __\].__ 
+>         “(1)  __Federal hospital insurance trust fund__  __\[Amended__  __[__  __section 1395i of this title__  __][/us/usc/t42/s1395i]__  __\].__ 
 
->         “(2) __Federal supplementary medical insurance trust fund \[Amended__  __[__  __section 1395t of this title__  __][/us/usc/t42/s1395t]__  __\].__ 
+>         “(2)  __Federal supplementary medical insurance trust fund__  __\[Amended__  __[__  __section 1395t of this title__  __][/us/usc/t42/s1395t]__  __\].__ 
 
->     “(e) __Notice of Medicare Funding Warning.—__ 
+>     “(e)  __Notice of Medicare Funding Warning__  __.—__ 
 
 >     Whenever any report described in subsection (a) contains a determination that for any fiscal year within the 7-fiscal-year reporting period there will be excess general revenue medicare funding, Congress and the President should address the matter under existing rules and procedures.”
 
@@ -705,11 +705,11 @@
 
 [Pub. L. 104–191, title II, § 249(c)][/us/pl/104/191/s249/c], Aug. 21, 1996, [110 Stat. 2020][/us/stat/110/2020], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     After the payment of the costs of asset forfeiture has been made and after all restoration payments (if any) have been made, and notwithstanding any other provision of law, the Secretary of the Treasury shall deposit into the Federal Hospital Insurance Trust Fund pursuant to section 1817(k)(2)(C) of the Social Security Act \[[42 U.S.C. 1395i(k)(2)(C)][/us/usc/t42/s1395i/k/2/C]\], as added by section 301(b), an amount equal to the net amount realized from the forfeiture of property by reason of a Federal health care offense pursuant to [section 982(a)(6) of title 18][/us/usc/t18/s982/a/6], United States Code.
 
->     “(2) __Costs of asset forfeiture.—__ 
+>     “(2)  __Costs of asset forfeiture__  __.—__ 
 
 >     For purposes of paragraph (1), the term ‘payment of the costs of asset forfeiture’ means—
 
@@ -731,7 +731,7 @@
 
 >         “(E) the payment of State and local property taxes on forfeited real property that accrued between the date of the violation giving rise to the forfeiture and the date of the forfeiture order.
 
->     “(3) __Restoration payment.—__ 
+>     “(3)  __Restoration payment__  __.—__ 
 
 >     Notwithstanding any other provision of law, if the Federal health care offense referred to in paragraph (1) resulted in a loss to an employee welfare benefit plan within the meaning of section 3(1) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1002(1)][/us/usc/t29/s1002/1]\], the Secretary of the Treasury shall transfer to such employee welfare benefit plan, from the amount realized from the forfeiture of property referred to in paragraph (1), an amount equal to such loss. For purposes of paragraph (1), the term ‘restoration payment’ means the amount transferred to an employee welfare benefit plan pursuant to this paragraph.”
 

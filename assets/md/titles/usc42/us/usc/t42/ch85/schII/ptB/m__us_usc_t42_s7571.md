@@ -75,7 +75,7 @@
 
 [Pub. L. 101–549, title II, § 233][/us/pl/101/549/s233], Nov. 15, 1990, [104 Stat. 2529][/us/stat/104/2529], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Administrator of the Environmental Protection Agency and the Secretary of Transportation, in consultation with the Secretary of Defense, shall commence a study and investigation of the testing of uninstalled aircraft engines in enclosed test cells that shall address at a minimum the following issues and such other issues as they shall deem appropriate—
 
@@ -91,7 +91,7 @@
 
 >         “(6) the impact of not controlling such oxides of nitrogen in the applicable nonattainment areas and on other sources, stationary and mobile, on oxides of nitrogen in such areas.
 
->     “(b) __Report, Authority To Regulate.—__ 
+>     “(b)  __Report, Authority To Regulate__  __.—__ 
 
 >     Not later than 24 months after enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], the Administrator of the Environmental Protection Agency and the Secretary of Transportation shall submit to Congress a report of the study conducted under this section. Following the completion of such study, any of the States may adopt or enforce any standard for emissions of oxides of nitrogen from test cells only after issuing a public notice stating whether such standards are in accordance with the findings of the study.”
 

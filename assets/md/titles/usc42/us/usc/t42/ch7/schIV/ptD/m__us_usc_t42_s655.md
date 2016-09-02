@@ -355,15 +355,15 @@
 
 [Pub. L. 104–193, title III, § 344(b)(2)][/us/pl/104/193/s344/b/2], Aug. 22, 1996, [110 Stat. 2236][/us/stat/110/2236], as amended by [Pub. L. 105–33, title V, § 5555(b)][/us/pl/105/33/s5555/b], Aug. 5, 1997, [111 Stat. 637][/us/stat/111/637], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The Secretary of Health and Human Services may not pay more than $400,000,000 in the aggregate under section 455(a)(3)(B) of the Social Security Act \[[42 U.S.C. 655(a)(3)(B)][/us/usc/t42/s655/a/3/B]\] for fiscal years 1996 through 2001.
 
->     “(B) __Allocation of limitation among states.—__ 
+>     “(B)  __Allocation of limitation among states__  __.—__ 
 
 >     The total amount payable to a State or a system described in subparagraph (C) under section 455(a)(3)(B) of such Act for fiscal years 1996 through 2001 shall not exceed the limitation determined for the State or system by the Secretary of Health and Human Services in regulations.
 
->     “(C) __Allocation formula.—__ 
+>     “(C)  __Allocation formula__  __.—__ 
 
 >     The regulations referred to in subparagraph (B) shall prescribe a formula for allocating the amount specified in subparagraph (A) among States with plans approved under part D of title IV of the Social Security Act \[[42 U.S.C. 651][/us/usc/t42/s651] et seq.\], and among systems that have been approved by the Secretary to receive enhanced funding pursuant to the Family Support Act of 1988 ([Public Law 100–485][/us/pl/100/485]; [102 Stat. 2343][/us/stat/102/2343]) for the purpose of developing a system that meets the requirements of sections 454(16) (as in effect on and after September 30, 1995) and 454A \[probably means sections 454(16) and 454A of the Social Security Act which are classified to sections 654(16) and 654a, respectively, of this title\], including systems that have received funding for such purpose pursuant to a waiver under section 1115(a) \[probably means section 1115(a) of the Social Security Act which is classified to [section 1315(a) of this title][/us/usc/t42/s1315/a]\], which shall take into account—
 

@@ -79,33 +79,33 @@
 
 [Pub. L. 102–375, title IX, § 905][/us/pl/102/375/s905], Sept. 30, 1992, [106 Stat. 1309][/us/stat/106/1309], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in section 811(b) \[[42 U.S.C. 1766][/us/usc/t42/s1766] note\], any other provision of this Act \[see Tables for classification\] (other than this section), and in subsection (b) of this section, this Act and the amendments made by this Act shall take effect on the date of the enactment of this Act \[Sept. 30, 1992\].
 
 >     “(b) __Application of Amendments.—__ 
 
->         “(1) __Federal council on aging.—__ 
+>         “(1)  __Federal council on aging__  __.—__ 
 
 >         Incumbent members of the Federal Council on Aging may serve on the Council until their successors are appointed under section 204 of the Older Americans Act of 1965 ([42 U.S.C. 3015][/us/usc/t42/s3015]) as amended by section 205 of this Act.
 
->         “(2) __State and community programs on aging.—__ 
+>         “(2)  __State and community programs on aging__  __.—__ 
 
 >         The amendments made by sections 303(a)(2), 303(a)(3), 303(f), 304, 305, 306, 307, 316, 317, and 320 \[enacting sections 3030g–11 to 3030g–13, 3030g–21, 3030g–22, and 3030p to 3030r of this title and amending sections 3023 to 3027 of this title\] shall not apply with respect to fiscal year 1992.
 
->         “(3) __Project reports.—__ 
+>         “(3)  __Project reports__  __.—__ 
 
 >         The amendments made by sections 410, 411, 413, 414, 415, 416, 418, and 419 \[enacting sections 3035i, 3035j, 3035l to 3035o, 3035q, and 3035r of this title\] shall not apply with respect to fiscal year 1992.
 
->         “(4) __Community service employment.—__ 
+>         “(4)  __Community service employment__  __.—__ 
 
 >         The amendments made by sections 501, 504, and 506 \[enacting [section 3056h of this title][/us/usc/t42/s3056h] and amending sections 3056, 3056d, and 3056e of this title\] shall not apply with respect to fiscal year 1992.
 
->         “(5) __Indian and native hawaiian programs.—__ 
+>         “(5)  __Indian and native hawaiian programs__  __.—__ 
 
 >         The amendments made by sections 601 and 603 \[amending sections 3057e and 3057j of this title\] shall not apply with respect to fiscal year 1992.
 
->         “(6) __Vulnerable elder rights protection activities.—__ 
+>         “(6)  __Vulnerable elder rights protection activities__  __.—__ 
 
 >         The amendments made by title VII \[enacting sections 3058 to 3058k and 3058aa to 3058ee of this title and amending sections 1395i–3, 1396r, 3012, 3018, 3021, 3023, 3027, 3030d, and 3030l of this title\] shall not apply with respect to fiscal year 1992.”
 
@@ -113,11 +113,11 @@
 
 [Pub. L. 100–175, title VII, § 701][/us/pl/100/175/s701], Nov. 29, 1987, [101 Stat. 983][/us/stat/101/983], provided that:
 
->     “(a) __General Effective Date.—__ 
+>     “(a)  __General Effective Date__  __.—__ 
 
 >     Except as provided in subsections (b) and (c), this Act and the amendments made by this Act \[see Short Title of 1987 Amendment note below\] shall take effect on October 1, 1987.
 
->     “(b) __Application of Amendments.—__ 
+>     “(b)  __Application of Amendments__  __.—__ 
 
 >     The amendments made by title I of this Act \[enacting sections 3030h to 3030p, 3035f, 3035g, 3056g, and 3057 to 3057n of this title, amending sections 3001, 3002, 3011 to 3013, 3015 to 3018, 3020c, 3021 to 3029, 3030a, 3030d, 3030g, 3030aa, 3030bb, 3030jj, 3031, 3032, 3035a, 3035b, 3035d, 3037, 3056, 3056a, 3056d, 3056e, and 3056f of this title, repealing sections 3058 to 3058d of this title, enacting provisions set out as notes under this section, sections 3026, 3027, and 3057b of this title, and [section 2 of Title 29][/us/usc/t29/s2], and repealing provisions set out as a note under [section 3058 of this title][/us/usc/t42/s3058]\] shall not apply with respect to—
 
@@ -127,7 +127,7 @@
 
 >         and approved for any fiscal year beginning before the date of the enactment of this Act \[Nov. 29, 1987\].
 
->     “(c) __Effective Date of Section 506.—__ 
+>     “(c)  __Effective Date of Section__  __506.—__ 
 
 >     The amendments made by section 506 of this Act \[enacting [section 2991b–1 of this title][/us/usc/t42/s2991b–1] and amending sections 2991a, 2991b, and 2992d of this title\] shall take effect upon the expiration of the 90-day period beginning on the date of the enactment of this Act \[Nov. 29, 1987\].”
 
@@ -263,11 +263,11 @@
 
 [Pub. L. 102–375, title II, § 212][/us/pl/102/375/s212], Sept. 30, 1992, [106 Stat. 1216][/us/stat/106/1216], provided that:
 
->     “(a) __Arrangement for Study Committee.—__ 
+>     “(a)  __Arrangement for Study Committee__  __.—__ 
 
 >     The Secretary of Health and Human Services shall enter into an arrangement, in accordance with subsection (d), to establish a study committee described in subsection (c) to conduct a study through the Institute of Medicine of the National Academy of Sciences on the quality of board and care facilities for older individuals (as defined in section 102 \[[42 U.S.C. 3002][/us/usc/t42/s3002]\] of the Older Americans Act of 1965 ([42 U.S.C. 3001][/us/usc/t42/s3001] et seq.)) and the disabled.
 
->     “(b) __Scope of Study.—__ 
+>     “(b)  __Scope of Study__  __.—__ 
 
 >     The study shall include—
 
@@ -277,11 +277,11 @@
 
 >         “(3) specific recommendations to the Congress and the Secretary, by not later than 20 months after the date of the enactment of this Act \[Sept. 30, 1992\], concerning the establishment of minimum national standards for the quality, health, and safety of residents of such facilities and the enforcement of such standards.
 
->     “(c) __Composition of Study Committee.—__ 
+>     “(c)  __Composition of Study Committee__  __.—__ 
 
 >     The study committee shall be composed of members as appointed from among the following:
 
->         “(1) __National academy of sciences.—__ 
+>         “(1)  __National academy of sciences__  __.—__ 
 
 >         The members of the National Academy of Sciences with experience in long-term care. The members so appointed shall include—
 
@@ -291,7 +291,7 @@
 
 >             “(C) experts on the enforcement of life-safety codes in long-term care facilities.
 
->         “(2) __Residents.—__ 
+>         “(2)  __Residents__  __.—__ 
 
 >         Residents of board and care facilities (including privately owned board and care facilities), and representatives of such residents or of organizations that advocate on behalf of such residents. Members so appointed shall include—
 
@@ -305,7 +305,7 @@
 
 >                 “(ii) organizations that advocate on behalf of residents of nonprofit board and care facilities.
 
->         “(3) __Operators.—__ 
+>         “(3)  __Operators__  __.—__ 
 
 >         Operators of board and care facilities (including privately owned board and care facilities), and individuals who represent such operators or organizations that represent the interests of such operators. Members so appointed shall include—
 
@@ -321,41 +321,41 @@
 
 >         “(4) __Officers.—__ 
 
->             “(A) __State officers.—__ 
+>             “(A)  __State officers__  __.—__ 
 
 >             Elected and appointed State officers who have responsibility relating to the health and safety of residents of board and care facilities.
 
->             “(B) __Representatives.—__ 
+>             “(B)  __Representatives__  __.—__ 
 
 >             Representatives of such officers or of organizations representing such officers.
 
->             “(C) __Other individuals.—__ 
+>             “(C)  __Other individuals__  __.—__ 
 
 >             Other individuals with relevant expertise.
 
->     “(d) __Use of Institute of Medicine.—__ 
+>     “(d)  __Use of Institute of Medicine__  __.—__ 
 
 >     The Secretary shall request the National Academy of Sciences, through the Institute of Medicine, to establish, appoint, and provide administrative support for the study committee under an arrangement under which the actual expenses incurred by the Academy in carrying out such functions will be paid by the Secretary. If the National Academy of Sciences is willing to do so, the Secretary shall enter into such arrangement with the Academy.
 
 >     “(e) __Involvement of Others.—__ 
 
->         “(1) __Government officials.—__ 
+>         “(1)  __Government officials__  __.—__ 
 
 >         The study committee shall conduct its work in a manner that provides for the consultation with Members of Congress or their representatives, officials of the Department of Health and Human Services, and officials of State and local governments who are not members of the study committee.
 
->         “(2) __Experts.—__ 
+>         “(2)  __Experts__  __.—__ 
 
 >         The study committee may consult with any individual or organization with expertise relating to the issues involved in the activities of the study committee.
 
->     “(f) __Report.—__ 
+>     “(f)  __Report__  __.—__ 
 
 >     Not later than 20 months after an arrangement is entered into under subsection (d), the study committee shall submit, to the Secretary, the Speaker of the House of Representatives, and the President pro tempore of the Senate, a report containing the results of the study referred to in subsection (a) and the recommendations made under subsection (b).
 
->     “(g) __Board and Care Facility Defined.—__ 
+>     “(g)  __Board and Care Facility Defined__  __.—__ 
 
 >     In this section, the term ‘board and care facility’ means a facility described in section 1616(e) of the Social Security Act ([42 U.S.C. 1372e(e)][/us/usc/t42/s1372e/e] \[[42 U.S.C. 1382e(e)][/us/usc/t42/s1382e/e]\]).
 
->     “(h) __Authorization.—__ 
+>     “(h)  __Authorization__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this section $1,500,000 for fiscal year 1992 and such sums as may be necessary for subsequent fiscal years.”
 
@@ -363,11 +363,11 @@
 
 [Pub. L. 102–375, title II, § 213][/us/pl/102/375/s213], Sept. 30, 1992, [106 Stat. 1218][/us/stat/106/1218], provided that:
 
->     “(a) __Establishment Study of Committee.—__ 
+>     “(a)  __Establishment Study of Committee__  __.—__ 
 
 >     The Secretary of Health and Human Services shall enter into an arrangement, in accordance with subsection (d), to establish a study committee described in subsection (c) to conduct a study through the Institute of Medicine of the National Academy of Sciences on the quality of home care services for older individuals and disabled individuals.
 
->     “(b) __Scope of Study.—__ 
+>     “(b)  __Scope of Study__  __.—__ 
 
 >     The study shall include—
 
@@ -377,7 +377,7 @@
 
 >         “(3) specific recommendations to the Congress and the Secretary, not later than 20 months after the date of the enactment of this Act \[Sept. 30, 1992\], concerning the establishment of minimum national standards for the quality, health, and safety of patients and clients of such services and the enforcement of such standards.
 
->     “(c) __Composition of Study Committee.—__ 
+>     “(c)  __Composition of Study Committee__  __.—__ 
 
 >     The study committee shall be composed of members appointed from among—
 
@@ -391,25 +391,25 @@
 
 >         “(5) other individuals with relevant expertise.
 
->     “(d) __Use of Institute of Medicine.—__ 
+>     “(d)  __Use of Institute of Medicine__  __.—__ 
 
 >     The Secretary shall request the National Academy of Sciences, through the Institute of Medicine, to establish, appoint, and provide administrative support for the committee under an arrangement under which the actual expenses incurred by the Academy in carrying out such functions will be paid by the Secretary. If the National Academy of Sciences is willing to do so, the Secretary shall enter into such arrangement with the Academy.
 
 >     “(e) __Involvement of Others.—__ 
 
->         “(1) __Members and officials.—__ 
+>         “(1)  __Members and officials__  __.—__ 
 
 >         The committee shall conduct its work in a manner that provides for consultation with Members of Congress or their representatives, officials of the Department of Health and Human Services, and officials of State and local governments who are not members of the committee.
 
->         “(2) __Individual or organization with expertise.—__ 
+>         “(2)  __Individual or organization with expertise__  __.—__ 
 
 >         The committee may consult with any individual or organization with expertise relating to the issues involved in the activities of the committee.
 
->     “(f) __Report.—__ 
+>     “(f)  __Report__  __.—__ 
 
 >     Not later than 20 months after an arrangement is entered into under subsection (d), the committee shall submit, to the Secretary, the Speaker of the House of Representatives, and the President pro tempore of the Senate, a report containing the results of the study referred to in subsection (a).
 
->     “(g) __Authorization.—__ 
+>     “(g)  __Authorization__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this section $1,000,000 for fiscal year 1992 and such sums as may be necessary for subsequent fiscal years.”
 
@@ -421,11 +421,11 @@
 
 > “As used in this subtitle:
 
->     “(1) __Nursing home nurse aide.—__ 
+>     “(1)  __Nursing home nurse aide__  __.—__ 
 
 >     The term ‘nursing home nurse aide’ means an individual employed at a nursing or convalescent home who assists in the care of patients at such home under the direction of nursing and medical staff.
 
->     “(2) __Home health care aide.—__ 
+>     “(2)  __Home health care aide__  __.—__ 
 
 >     The term ‘home health care aide’ means an individual who—
 
@@ -435,7 +435,7 @@
 
 > “SEC. 802. __INFORMATION REQUIREMENTS.__ 
 
->     “(a) __National Center for Health Statistics.—__ 
+>     “(a)  __National Center for Health Statistics__  __.—__ 
 
 >     The Director of the National Center for Health Statistics of the Centers for Disease Control \[now Centers for Disease Control and Prevention\] shall collect, and prepare a report containing—
 
@@ -455,7 +455,7 @@
 
 >         “(2) information on the role of the aides in providing institution-based and home-based long-term care.
 
->     “(b) __Department of Labor.—__ 
+>     “(b)  __Department of Labor__  __.—__ 
 
 >     The Secretary of Labor shall—
 
@@ -523,39 +523,39 @@
 
 > “SEC. 803. __REPORTS.__ 
 
->     “(a) __Reports to Commissioner on Aging \[now Assistant Secretary for Aging\].—__ 
+>     “(a)  __Reports to Commissioner on Aging__  __\[now__  __Assistant Secretary for Aging__  __\].—__ 
 
 >         “(1) __Transmittal.—__ 
 
->             “(A) __National center for health statistics report.—__ 
+>             “(A)  __National center for health statistics report__  __.—__ 
 
 >             Not later than March 1, 1994, the Director of the National Center for Health Statistics of the Centers for Disease Control \[now Centers for Disease Control and Prevention\] shall transmit to the Commissioner on Aging the report required by section 802(a).
 
 >             “(B) __Department of labor reports.—__ 
 
->                 “(i) __Home health care aides.—__ 
+>                 “(i)  __Home health care aides__  __.—__ 
 
 >                 Not later than March 1, 1993, the Secretary of Labor shall transmit to the Commissioner on Aging a plan for the collection of the information described in section 802(b)(1). Not later than March 1, 1995, the Secretary of Labor shall transmit to the Commissioner on Aging the report required by section 802(b)(1).
 
->                 “(ii) __Nursing home nurse aides.—__ 
+>                 “(ii)  __Nursing home nurse aides__  __.—__ 
 
 >                 Not later than March 1, 1994, the Secretary of Labor shall transmit to the Commissioner on Aging the report required by section 802(b)(2).
 
 >         “(2) __Preparation.—__ 
 
->             “(A) __National center for health statistics report.—__ 
+>             “(A)  __National center for health statistics report__  __.—__ 
 
 >             The report required by section 802(a) shall be prepared and organized in such a manner as the Director of the National Center for Health Statistics may determine to be appropriate.
 
->             “(B) __Department of labor reports.—__ 
+>             “(B)  __Department of labor reports__  __.—__ 
 
 >             The reports required by paragraphs (1) and (2) of section 802(b) shall be prepared and organized in such a manner as the Secretary of Labor may determine to be appropriate.
 
->         “(3) __Presentation of information.—__ 
+>         “(3)  __Presentation of information__  __.—__ 
 
 >         The reports required by section 802 shall not identify by name individuals supplying information for purposes of the reports. The reports shall present information collected in the aggregate.
 
->     “(b) __Report to Congress.—__ 
+>     “(b)  __Report to Congress__  __.—__ 
 
 >     The Commissioner on Aging \[now Assistant Secretary for Aging\] shall review the reports required by section 802 and shall submit to the appropriate committees of Congress a report containing—
 
@@ -581,15 +581,15 @@
 
 > “SEC. 201. __AUTHORIZATION OF THE CONFERENCE.__ 
 
->     “(a) __Authority To Call Conference.—__ 
+>     “(a)  __Authority To Call Conference__  __.—__ 
 
 >     Not later than December 31, 2005, the President shall convene the White House Conference on Aging in order to fulfill the purpose set forth in subsection (c) and to make fundamental policy recommendations regarding programs that are important to older individuals and to the families and communities of such individuals.
 
->     “(b) __Planning and Direction.—__ 
+>     “(b)  __Planning and Direction__  __.—__ 
 
 >     The Conference described in subsection (a) shall be planned and conducted under the direction of the Secretary, in cooperation with the Assistant Secretary for Aging, the Director of the National Institute on Aging, the Administrator of the Health Care Financing Administration, the Social Security Administrator, and the heads of such other Federal agencies serving older individuals as are appropriate. Planning and conducting the Conference includes the assignment of personnel.
 
->     “(c) __Purpose.—__ 
+>     “(c)  __Purpose__  __.—__ 
 
 >     The purpose of the Conference described in subsection (a) shall be to gather individuals representing the spectrum of thought and experience in the field of aging to—
 
@@ -601,7 +601,7 @@
 
 >     “(d) __Conference Participants and Delegates.—__ 
 
->         “(1) __Participants.—__ 
+>         “(1)  __Participants__  __.—__ 
 
 >         In order to carry out the purposes of this section, the Conference shall bring together—
 
@@ -611,13 +611,13 @@
 
 >             “(C) representatives of the general public, particularly older individuals.
 
->         “(2) __Selection of delegates.—__ 
+>         “(2)  __Selection of delegates__  __.—__ 
 
 >         The delegates shall be selected without regard to political affiliation or past partisan activity and shall, to the best of the appointing authority’s ability, be representative of the spectrum of thought in the field of aging. Delegates shall include individuals who are professionals, individuals who are nonprofessionals, minority individuals, individuals from low-income families, representatives of Federal, State, and local governments, and individuals from rural areas. A majority of such delegates shall be age 55 or older.
 
 > “SEC. 202. __CONFERENCE ADMINISTRATION.__ 
 
->     “(a) __Administration.—__ 
+>     “(a)  __Administration__  __.—__ 
 
 >     In administering this section, the Secretary shall—
 
@@ -631,7 +631,7 @@
 
 >         “(5) engage such additional personnel as may be necessary to carry out the provisions of this section without regard to provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
->     “(b) __Duties.—__ 
+>     “(b)  __Duties__  __.—__ 
 
 >     The Secretary shall, in carrying out the Secretary’s responsibilities and functions under this section, and as part of the White House Conference on Aging, ensure that—
 
@@ -643,11 +643,11 @@
 
 >         “(4) current and adequate statistical data, including decennial census data, and other information on the well-being of older individuals in the United States are readily available, in advance of the Conference, to the delegates of the Conference, together with such information as may be necessary to evaluate Federal programs and policies relating to aging. In carrying out this subparagraph, the Secretary is authorized to make grants to, and enter into cooperative agreements with, public agencies and nonprofit private organizations.
 
->     “(c) __Gifts.—__ 
+>     “(c)  __Gifts__  __.—__ 
 
 >     The Secretary may accept, on behalf of the United States, gifts (in cash or in kind, including voluntary and uncompensated services), which shall be available to carry out this title. Gifts of cash shall be available in addition to amounts appropriated to carry out this title. Gifts may be earmarked by the donor or the executive committee for a specific purpose.
 
->     “(d) __Records.—__ 
+>     “(d)  __Records__  __.—__ 
 
 >     The Secretary shall maintain records regarding—
 
@@ -659,11 +659,11 @@
 
 >     “(a) __Policy Committee.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         There is established a Policy Committee comprised of 17 members to be selected, not later than 2 years prior to the date on which the Conference convenes, as follows:
 
->             “(A) __Presidential appointees.—__ 
+>             “(A)  __Presidential appointees__  __.—__ 
 
 >             Nine members shall be selected by the President and shall include—
 
@@ -671,15 +671,15 @@
 
 >                 “(ii) six members with experience in the field of aging, including providers and consumers of aging services.
 
->             “(B) __House appointees.—__ 
+>             “(B)  __House appointees__  __.—__ 
 
 >             Two members shall be selected by the Speaker of the House of Representatives, after consultation with the Committee on Education and the Workforce and the Committee on Ways and Means of the House of Representatives, and two members shall be selected by the Minority Leader of the House of Representatives, after consultation with such committees.
 
->             “(C) __Senate appointees.—__ 
+>             “(C)  __Senate appointees__  __.—__ 
 
 >             Two members shall be selected by the Majority Leader of the Senate, after consultation with members of the Committee on Health, Education, Labor, and Pensions and the Special Committee on Aging of the Senate, and two members shall be selected by the Minority Leader of the Senate, after consultation with members of such committees.
 
->         “(2) __Duties of the policy committee.—__ 
+>         “(2)  __Duties of the policy committee__  __.—__ 
 
 >         The Policy Committee shall initially meet at the call of the Secretary, but not later than 30 days after the last member is selected under subsection (a). Subsequent meetings of the Policy Committee shall be held at the call of the chairperson of the Policy Committee. Through meetings, hearings, and working sessions, the Policy Committee shall—
 
@@ -697,39 +697,39 @@
 
 >         “(3) __Voting; chairperson.—__ 
 
->             “(A) __Voting.—__ 
+>             “(A)  __Voting__  __.—__ 
 
 >             The Policy Committee shall act by the vote of a majority of the members present. A quorum of Committee members shall not be required to conduct Committee business.
 
->             “(B) __Chairperson.—__ 
+>             “(B)  __Chairperson__  __.—__ 
 
 >             The President shall select the chairperson from among the members of the Policy Committee. The chairperson may vote only to break a tie vote of the other members of the Policy Committee.
 
 >     “(b) __Advisory and Other Committees.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The President shall establish an advisory committee to the Conference which shall include representation from the Federal Council on Aging and other public agencies and private nonprofit organizations as appropriate. The President shall consider for appointment to the advisory committee individuals recommended by the Policy Committee.
 
->         “(2) __Other committees.—__ 
+>         “(2)  __Other committees__  __.—__ 
 
 >         The Secretary may establish such other committees, including technical committees, as may be necessary to assist in the planning, conducting, and reviewing of the Conference.
 
->     “(c) __Composition of Committees.—__ 
+>     “(c)  __Composition of Committees__  __.—__ 
 
 >     Each committee established under subsection (b) shall be composed of professionals and public members, and shall include individuals from low-income families and from minority groups. A majority of the public members of each such committee shall be 55 years of age or older, and individuals who are Native Americans.
 
->     “(d) __Compensation.—__ 
+>     “(d)  __Compensation__  __.—__ 
 
 >     Appointed members of any such committee (other than any officers or employees of the Federal Government), while attending conferences or meetings of the committee or otherwise serving at the request of the Secretary, shall be entitled to receive compensation at a rate to be fixed by the Secretary, but not to exceed the daily equivalent of the maximum rate of pay payable under [section 5376 of title 5][/us/usc/t5/s5376], United States Code (including travel time). While away from their homes or regular places of business, such members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized under section 5703 of such title for persons employed intermittently in Federal Government service.
 
 > “SEC. 204. __REPORT OF THE CONFERENCE.__ 
 
->     “(a) __Preliminary Report.—__ 
+>     “(a)  __Preliminary Report__  __.—__ 
 
 >     Not later than 100 days after the date on which the Conference adjourns, the Policy Committee shall publish and deliver to the chief executive officers of the States a preliminary report on the Conference. Comments on the preliminary report of the Conference shall be accepted by the Policy Committee.
 
->     “(b) __Final Report.—__ 
+>     “(b)  __Final Report__  __.—__ 
 
 >     Not later than 6 months after the date on which the Conference adjourns, the Policy Committee shall publish and transmit to the President and to Congress recommendations resulting from the Conference and suggestions for any administrative action and legislation necessary to implement the recommendations contained within the report.
 
@@ -751,7 +751,7 @@
 
 >     “(a) __Authorization.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There are authorized to be appropriated to carry out this section \[title\]—
 
@@ -759,21 +759,21 @@
 
 >             “(B) such sums as may be necessary for the fiscal year in which the Conference is held.
 
->         “(2) __Contracts.—__ 
+>         “(2)  __Contracts__  __.—__ 
 
 >         Authority to enter into contracts under this title shall be effective only to the extent, or in such amounts as are, provided in advance in appropriations Acts.
 
 >     “(b) __Availability of Funds.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (3), funds appropriated to carry out this title and funds received as gifts under section 202(c) shall remain available for obligation or expenditure until the expiration of the one-year period beginning on the date the Conference adjourns.
 
->         “(2) __Unobligated funds.—__ 
+>         “(2)  __Unobligated funds__  __.—__ 
 
 >         Except as provided in paragraph (3), any such funds neither expended nor obligated before the expiration of the one-year period beginning on the date the Conference adjourns shall be available to carry out the Older Americans Act of 1965 ([42 U.S.C. 3001][/us/usc/t42/s3001] et seq.).
 
->         “(3) __Conference not convened.—__ 
+>         “(3)  __Conference not convened__  __.—__ 
 
 >         If the Conference is not convened before December 31, 2005, such funds neither expended nor obligated before such date shall be available to carry out the Older Americans Act of 1965.”
 

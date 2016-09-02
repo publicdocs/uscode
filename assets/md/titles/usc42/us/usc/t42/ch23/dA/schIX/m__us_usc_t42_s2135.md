@@ -41,7 +41,7 @@
 
         (8) With respect to any application for a construction permit on file at the time of enactment into law of this subsection, which permit would be for issuance under [section 2133 of this title][/us/usc/t42/s2133], and with respect to any application for an operating license in connection with which a written request for an antitrust review is made as provided for in paragraph (3), the Commission, after consultation with the Attorney General, may, upon determination that such action is necessary in the public interest to avoid unnecessary delay, establish by rule or order periods for Commission notification and receipt of advice differing from those set forth above and may issue a construction permit or operating license in advance of consideration of and findings with respect to the matters covered in this subsection: Provided, That any construction permit or operating license so issued shall contain such conditions as the Commission deems appropriate to assure that any subsequent findings and orders of the Commission with respect to such matters will be given full force and effect.
 
-        (9) __Applicability.—__ 
+        (9)  __Applicability__  __.—__ 
 
         This subsection does not apply to an application for a license to construct or operate a utilization facility or production facility under section 2133 or 2134(b) of this title that is filed on or after August 8, 2005.
 

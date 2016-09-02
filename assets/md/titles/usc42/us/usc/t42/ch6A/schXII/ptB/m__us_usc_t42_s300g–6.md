@@ -177,11 +177,11 @@
 
 [Pub. L. 99–339, title I, § 109(c)][/us/pl/99/339/s109/c], June 19, 1986, [100 Stat. 652][/us/stat/100/652], as amended by [Pub. L. 102–54, § 13(q)(2)][/us/pl/102/54/s13/q/2], June 13, 1991, [105 Stat. 279][/us/stat/105/279], provided that:
 
->     “(1) __Prohibition.—__ 
+>     “(1)  __Prohibition__  __.—__ 
 
 >     The Secretary of Housing and Urban Development and the Secretary of Veterans Affairs may not insure or guarantee a mortgage or furnish assistance with respect to newly constructed residential property which contains a potable water system unless such system uses only lead free pipe, solder, and flux.
 
->     “(2) __Definition of lead free.—__ 
+>     “(2)  __Definition of lead free__  __.—__ 
 
 >     For purposes of paragraph (1) the term ‘lead free’—
 
@@ -189,7 +189,7 @@
 
 >         “(B) when used with respect to pipes and pipe fittings refers to pipes and pipe fittings containing not more than 8.0 percent lead.
 
->     “(3) __Effective date.—__ 
+>     “(3)  __Effective date__  __.—__ 
 
 >     Paragraph (1) shall become effective 24 months after the enactment of this Act \[June 19, 1986\].”
 

@@ -353,11 +353,11 @@
 
 [Pub. L. 112–96, title IV, § 4003(b)][/us/pl/112/96/s4003/b], Feb. 22, 2012, [126 Stat. 196][/us/stat/126/196], provided that:
 
->     “(1) __Data exchange standards.—__ 
+>     “(1)  __Data exchange standards__  __.—__ 
 
 >     The Secretary of Health and Human Services shall issue a proposed rule under section 411(d)(1) of the Social Security Act \[[42 U.S.C. 611(d)(1)][/us/usc/t42/s611/d/1]\] within 12 months after the date of the enactment of this section \[Feb. 22, 2012\], and shall issue a final rule under such section 411(d)(1), after public comment, within 24 months after such date of enactment.
 
->     “(2) __Data reporting standards.—__ 
+>     “(2)  __Data reporting standards__  __.—__ 
 
 >     The reporting standards required under section 411(d)(2) of such Act \[[42 U.S.C. 611(d)(2)][/us/usc/t42/s611/d/2]\] shall become effective with respect to reports required in the first reporting period, after the effective date of the final rule referred to in paragraph (1) of this subsection, for which the authority for data collection and reporting is established or renewed under the Paperwork Reduction Act \[[44 U.S.C. 3501][/us/usc/t44/s3501] et seq.\].”
 

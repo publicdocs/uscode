@@ -101,19 +101,19 @@
 
 >     “(a) __Issuance of Final Rules.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[June 10, 1993\], the Secretary shall, subject to paragraph (2), issue the final rule for each regulation required in section 493 or 493A of the Public Health Service Act \[[42 U.S.C. 289b][/us/usc/t42/s289b], 289b–1\].
 
->         “(2) __Definition of research misconduct.—__ 
+>         “(2)  __Definition of research misconduct__  __.—__ 
 
 >         Not later than 90 days after the date on which the report required in section 162(e) \[[107 Stat. 142][/us/stat/107/142]\] is submitted to the Secretary, the Secretary shall issue the final rule for the regulations required in section 493 of the Public Health Service Act with respect to the definition of the term ‘research misconduct’.
 
->     “(b) __Applicability to Ongoing Investigations.—__ 
+>     “(b)  __Applicability to Ongoing Investigations__  __.—__ 
 
 >     The final rule issued pursuant to subsection (a) for investigations under section 493 of the Public Health Service Act \[[42 U.S.C. 289b][/us/usc/t42/s289b]\] does not apply to investigations commenced before the date of the enactment of this Act \[June 10, 1993\] under authority of such section as in effect before such date.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 

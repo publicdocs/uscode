@@ -1749,11 +1749,11 @@
 
 [Pub. L. 101–508, title IV, § 4801(b)(9)][/us/pl/101/508/s4801/b/9], Nov. 5, 1990, [104 Stat. 1388–215][/us/stat/104/1388-215], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section\] shall take effect as if they were included in the enactment of the Omnibus Budget Reconciliation Act of 1987 \[[Pub. L. 100–203][/us/pl/100/203]\].
 
->     “(B) __Exception.—__ 
+>     “(B)  __Exception__  __.—__ 
 
 >     The amendments made by paragraphs (4), (6), and (8) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\], without regard to whether or not regulations to implement such amendments have been promulgated.”
 
@@ -1785,11 +1785,11 @@
 
 [Pub. L. 100–203, title IV, § 4214][/us/pl/100/203/s4214], Dec. 22, 1987, [101 Stat. 1330–219][/us/stat/101/1330-219], as amended by [Pub. L. 100–360, title IV, § 411][/us/pl/100/360/s411](l)(10), July 1, 1988, [102 Stat. 806][/us/stat/102/806], provided that:
 
->     “(a) __New Requirements and Survey and Certification Process.—__ 
+>     “(a)  __New Requirements and Survey and Certification Process__  __.—__ 
 
 >     Except as otherwise specifically provided in section 1919 of the Social Security Act \[[42 U.S.C. 1396r][/us/usc/t42/s1396r]\], the amendments made by sections 4211 \[enacting this section, amending sections 1320a–7b, 1396a, 1396b, 1396d, 1396j, 1396l, 1396n, 1396o, 1396p, 1396r, and 1396s of this title, redesignating [section 1396r of this title][/us/usc/t42/s1396r] as [section 1396r–3 of this title][/us/usc/t42/s1396r–3], and amending provisions set out as a note under [section 1396r–3 of this title][/us/usc/t42/s1396r–3]\] and 4212 \[amending sections 1395cc, 1396a, 1396b, 1396i, and 1396r of this title\] (relating to nursing facility requirements and survey and certification requirements) shall apply to nursing facility services furnished on or after October 1, 1990, without regard to whether regulations to implement such amendments are promulgated by such date; except that section 1902(a)(28)(B) of the Social Security Act \[[42 U.S.C. 1396a(a)(28)(B)][/us/usc/t42/s1396a/a/28/B]\] (as amended by section 4211(b) of this Act), relating to requiring State medical assistance plans to specify the services included in nursing facility services, shall apply to calendar quarters beginning more than 6 months after the date of the enactment of this Act \[Dec. 22, 1987\], without regard to whether regulations to implement such section are promulgated by such date.
 
->     “(b) __Enforcement.—__ 
+>     “(b)  __Enforcement__  __.—__ 
 
 >         (1) Except as otherwise specifically provided in section 1919 of the Social Security Act \[[42 U.S.C. 1396r][/us/usc/t42/s1396r]\], the amendments made by section 4213 of this Act \[amending this section and sections 1396a and 1396b of this title\] apply to payments under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] for calendar quarters beginning on or after the date of the enactment of this Act \[Dec. 22, 1987\], without regard to whether regulations to implement such amendments are promulgated by such date.
 
@@ -1801,7 +1801,7 @@
 
 >             “(B) with respect to such a skilled nursing facility or intermediate care facility, any reference to a requirement of subsection (b), (c), or (d) of section 1919 of the Social Security Act \[[42 U.S.C. 1396r(b)][/us/usc/t42/s1396r/b], (c), (d)\], is deemed a reference to the provisions of section 1861(j) or section 1905(c), respectively, of the Social Security Act \[[42 U.S.C. 1395x(j)][/us/usc/t42/s1395x/j], 1396d(c)\].
 
->     “(c) __Waiver of Paperwork Reduction.—__ 
+>     “(c)  __Waiver of Paperwork Reduction__  __.—__ 
 
 >     Chapter 35 of title 44, United States Code, shall not apply to information required for purposes of carrying out this part and implementing the amendments made by this part.”
 
@@ -1831,11 +1831,11 @@
 
 [Pub. L. 101–508, title IV, § 4801(e)(17)][/us/pl/101/508/s4801/e/17], Nov. 5, 1990, [104 Stat. 1388–218][/us/stat/104/1388-218], as amended by [Pub. L. 105–362, title VI, § 602(b)(1)][/us/pl/105/362/s602/b/1], Nov. 10, 1998, [112 Stat. 3286][/us/stat/112/3286], provided that:
 
->     “(A) __Maintaining regulatory standards for certain services.—__ 
+>     “(A)  __Maintaining regulatory standards for certain services__  __.—__ 
 
 >     Any regulations promulgated and applied by the Secretary of Health and Human Services after the date of the enactment of the Omnibus Budget Reconciliation Act of 1987 \[Dec. 22, 1987\] with respect to services described in clauses (ii), (iv), and (v) of section 1919(b)(4)(A) of the Social Security Act \[[42 U.S.C. 1396r(b)(4)(A)(ii)][/us/usc/t42/s1396r/b/4/A/ii], (iv), (v)\] shall include requirements for providers of such services that are at least as strict as the requirements applicable to providers of such services prior to the enactment of the Omnibus Budget Reconciliation Act of 1987.
 
->     “(B) __Study on staffing requirements in nursing facilities.—__ 
+>     “(B)  __Study on staffing requirements in nursing facilities__  __.—__ 
 
 >     The Secretary shall conduct a study and report to Congress no later than January 1, 1999, on the appropriateness of establishing minimum caregiver to resident ratios and minimum supervisor to caregiver ratios for skilled nursing facilities serving as providers of services under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] and nursing facilities receiving payments under a State plan under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\], and shall include in such study recommendations regarding appropriate minimum ratios.”
 

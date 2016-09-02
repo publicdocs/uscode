@@ -129,15 +129,15 @@
 
 [Pub. L. 111–148, title III, § 3026][/us/pl/111/148/s3026], Mar. 23, 2010, [124 Stat. 413][/us/stat/124/413], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary shall establish a Community-Based Care Transitions Program under which the Secretary provides funding to eligible entities that furnish improved care transition services to high-risk Medicare beneficiaries.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Eligible entity.—__ 
+>         “(1)  __Eligible entity__  __.—__ 
 
 >         The term ‘eligible entity’ means the following:
 
@@ -145,7 +145,7 @@
 
 >             “(B) An appropriate community-based organization that provides care transition services under this section across a continuum of care through arrangements with subsection (d) hospitals (as so defined) to furnish the services described in subsection (c)(2)(B)(i) and whose governing body includes sufficient representation of multiple health care stakeholders (including consumers).
 
->         “(2) __High-risk medicare beneficiary.—__ 
+>         “(2)  __High-risk medicare beneficiary__  __.—__ 
 
 >         The term ‘high-risk Medicare beneficiary’ means a Medicare beneficiary who has attained a minimum hierarchical condition category score, as determined by the Secretary, based on a diagnosis of multiple chronic conditions or other risk factors associated with a hospital readmission or substandard transition into post-hospitalization care, which may include 1 or more of the following:
 
@@ -157,19 +157,19 @@
 
 >             “(D) Any other chronic disease or risk factor as determined by the Secretary.
 
->         “(3) __Medicare beneficiary.—__ 
+>         “(3)  __Medicare beneficiary__  __.—__ 
 
 >         The term ‘Medicare beneficiary’ means an individual who is entitled to benefits under part A \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] of title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.) and enrolled under part B \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\] of such title, but not enrolled under part C \[[42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.\] of such title.
 
->         “(4) __Program.—__ 
+>         “(4)  __Program__  __.—__ 
 
 >         The term ‘program’ means the program conducted under this section.
 
->         “(5) __Readmission.—__ 
+>         “(5)  __Readmission__  __.—__ 
 
 >         The term ‘readmission’ has the meaning given such term in section 1886(q)(5)(E) of the Social Security Act \[[42 U.S.C. 1395ww(q)(5)(E)][/us/usc/t42/s1395ww/q/5/E]\], as added by section 3025.
 
->         “(6) __Secretary.—__ 
+>         “(6)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of Health and Human Services.
 
@@ -177,11 +177,11 @@
 
 >         “(1) __Duration.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The program shall be conducted for a 5-year period, beginning January 1, 2011.
 
->             “(B) __Expansion.—__ 
+>             “(B)  __Expansion__  __.—__ 
 
 >             The Secretary may expand the duration and the scope of the program, to the extent determined appropriate by the Secretary, if the Secretary determines (and the Chief Actuary of the Centers for Medicare & Medicaid Services, with respect to spending under this title \[title III of [Pub. L. 111–148][/us/pl/111/148], see Tables for classification\], certifies) that such expansion would reduce spending under this title without reducing quality.
 
@@ -189,15 +189,15 @@
 
 >             “(A) __In general.—__ 
 
->                 “(i) __Application.—__ 
+>                 “(i)  __Application__  __.—__ 
 
 >                 An eligible entity seeking to participate in the program shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
->                 “(ii) __Partnership.—__ 
+>                 “(ii)  __Partnership__  __.—__ 
 
 >                 If an eligible entity is a hospital, such hospital shall enter into a partnership with a community-based organization to participate in the program.
 
->             “(B) __Intervention proposal.—__ 
+>             “(B)  __Intervention proposal__  __.—__ 
 
 >             Subject to subparagraph (C), an application submitted under subparagraph (A)(i) shall include a detailed proposal for at least 1 care transition intervention, which may include the following:
 
@@ -211,11 +211,11 @@
 
 >                 “(v) Conducting comprehensive medication review and management (including, if appropriate, counseling and self-management support).
 
->             “(C) __Limitation.—__ 
+>             “(C)  __Limitation__  __.—__ 
 
 >             A care transition intervention proposed under subparagraph (B) may not include payment for services required under the discharge planning process described in section 1861(ee) of the Social Security Act ([42 U.S.C. 1395x(ee)][/us/usc/t42/s1395x/ee]).
 
->         “(3) __Selection.—__ 
+>         “(3)  __Selection__  __.—__ 
 
 >         In selecting eligible entities to participate in the program, the Secretary shall give priority to eligible entities that—
 
@@ -223,15 +223,15 @@
 
 >             “(B) provide services to medically underserved populations, small communities, and rural areas.
 
->     “(d) __Implementation.—__ 
+>     “(d)  __Implementation__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Secretary may implement the provisions of this section by program instruction or otherwise.
 
->     “(e) __Waiver Authority.—__ 
+>     “(e)  __Waiver Authority__  __.—__ 
 
 >     The Secretary may waive such requirements of titles XI and XVIII of the Social Security Act \[[42 U.S.C. 1301][/us/usc/t42/s1301] et seq., 1395 et seq.\] as may be necessary to carry out the program.
 
->     “(f) __Funding.—__ 
+>     “(f)  __Funding__  __.—__ 
 
 >     For purposes of carrying out this section, the Secretary of Health and Human Services shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act ([42 U.S.C. 1395i][/us/usc/t42/s1395i]) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act ([42 U.S.C. 1395t][/us/usc/t42/s1395t]), in such proportion as the Secretary determines appropriate, of $500,000,000, to the Centers for Medicare & Medicaid Services Program Management Account for the period of fiscal years 2011 through 2015. Amounts transferred under the preceding sentence shall remain available until expended.”
 
@@ -239,11 +239,11 @@
 
 [Pub. L. 111–148, title X, § 10326][/us/pl/111/148/s10326], Mar. 23, 2010, [124 Stat. 961][/us/stat/124/961], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than January 1, 2016, the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall, for each provider described in subsection (b), conduct a separate pilot program under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] to test the implementation of a value-based purchasing program for payments under such title for the provider.
 
->     “(b) __Providers Described.—__ 
+>     “(b)  __Providers Described__  __.—__ 
 
 >     The providers described in this paragraph are the following:
 
@@ -257,15 +257,15 @@
 
 >         “(5) Hospice programs (as defined in section 1861(dd)(2) of such Act ([42 U.S.C. 1395x(dd)(2)][/us/usc/t42/s1395x/dd/2])).
 
->     “(c) __Waiver Authority.—__ 
+>     “(c)  __Waiver Authority__  __.—__ 
 
 >     The Secretary may waive such requirements of titles XI and XVIII of the Social Security Act \[[42 U.S.C. 1301][/us/usc/t42/s1301] et seq., 1395 et seq.\] as may be necessary solely for purposes of carrying out the pilot programs under this section.
 
->     “(d) __No Additional Program Expenditures.—__ 
+>     “(d)  __No Additional Program Expenditures__  __.—__ 
 
 >     Payments under this section under the separate pilot program for value based purchasing (as described in subsection (a)) for each provider type described in paragraphs (1) through (5) of subsection (b) for applicable items and services under title XVIII of the Social Security Act for a year shall be established in a manner that does not result in spending more under each such value based purchasing program for such year than would otherwise be expended for such provider type for such year if the pilot program were not implemented, as estimated by the Secretary.
 
->     “(e) __Expansion of Pilot Program.—__ 
+>     “(e)  __Expansion of Pilot Program__  __.—__ 
 
 >     The Secretary may, at any point after January 1, 2018, expand the duration and scope of a pilot program conducted under this subsection, to the extent determined appropriate by the Secretary, if—
 
@@ -285,7 +285,7 @@
 
 [Pub. L. 109–432, div. B, title II, § 204][/us/pl/109/432/s204], Dec. 20, 2006, [120 Stat. 2987][/us/stat/120/2987], as amended by [Pub. L. 110–275, title I, § 133(a)][/us/pl/110/275/s133/a], July 15, 2008, [122 Stat. 2531][/us/stat/122/2531], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall establish under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] a medical home demonstration project (in this section referred to as the ‘project’) to redesign the health care delivery system to provide targeted, accessible, continuous and coordinated, family-centered care to high-need populations and under which—
 
@@ -297,15 +297,15 @@
 
 >     “(b) __Details.—__ 
 
->         “(1) __Duration; scope.—__ 
+>         “(1)  __Duration; scope__  __.—__ 
 
 >         Subject to paragraph (3), the project shall operate during a period of three years and shall include urban, rural, and underserved areas in a total of no more than 8 States.
 
->         “(2) __Encouraging participation of small physician practices.—__ 
+>         “(2)  __Encouraging participation of small physician practices__  __.—__ 
 
 >         The project shall be designed to include the participation of physicians in practices with fewer than three full-time equivalent physicians, as well as physicians in larger practices particularly in rural and underserved areas.
 
->         “(3) __Expansion.—__ 
+>         “(3)  __Expansion__  __.—__ 
 
 >         The Secretary may expand the duration and the scope of the project under paragraph (1), to an extent determined appropriate by the Secretary, if the Secretary determines that such expansion will result in any of the following conditions being met:
 
@@ -315,7 +315,7 @@
 
 >     “(c) __Personal Physician Defined.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         For purposes of this section, the term ‘personal physician’ means a physician (as defined in section 1861(r)(1) of the Social Security Act ([42 U.S.C. 1395x(r)(1)][/us/usc/t42/s1395x/r/1])\[)\] who—
 
@@ -325,7 +325,7 @@
 
 >             Nothing in this paragraph shall be construed as preventing such a physician from being a specialist or subspecialist for an individual requiring ongoing care for a specific chronic condition or multiple chronic conditions (such as severe asthma, complex diabetes, cardiovascular disease, rheumatologic disorder) or for an individual with a prolonged illness.
 
->         “(2) __Requirements.—__ 
+>         “(2)  __Requirements__  __.—__ 
 
 >         The requirements described in this paragraph for a personal physician are as follows:
 
@@ -333,7 +333,7 @@
 
 >             “(B) The physician has the staff and resources to manage the comprehensive and coordinated health care of each such individual.
 
->         “(3) __Services performed.—__ 
+>         “(3)  __Services performed__  __.—__ 
 
 >         A personal physician shall perform or provide for the performance of at least the following services:
 
@@ -345,7 +345,7 @@
 
 >             “(D) Encourages patients to engage in the management of their own health through education and support systems.
 
->     “(d) __Medical Home Defined.—__ 
+>     “(d)  __Medical Home Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘medical home’ means a physician practice that—
 
@@ -363,33 +363,33 @@
 
 >     “(e) __Payment Mechanisms.—__ 
 
->         “(1) __Personal physician care management fee.—__ 
+>         “(1)  __Personal physician care management fee__  __.—__ 
 
 >         Under the project, the Secretary shall provide for payment under section 1848 of the Social Security Act ([42 U.S.C. 1395w–4][/us/usc/t42/s1395w–4]) of a care management fee to personal physicians providing care management under the project. Under such section and using the relative value scale update committee (RUC) process under such section, the Secretary shall develop a care management fee code for such payments and a value for such code.
 
->         “(2) __Medical home sharing in savings.—__ 
+>         “(2)  __Medical home sharing in savings__  __.—__ 
 
 >         The Secretary shall provide for payment under the project of a medical home based on the payment methodology applied to physician group practices under section 1866A of the Social Security Act ([42 U.S.C. 1395cc–1][/us/usc/t42/s1395cc–1]). Under such methodology, 80 percent of the reductions in expenditures under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] resulting from participation of individuals that are attributable to the medical home (as reduced by the total care managements fees paid to the medical home under the project) shall be paid to the medical home. The amount of such reductions in expenditures shall be determined by using assumptions with respect to reductions in the occurrence of health complications, hospitalization rates, medical errors, and adverse drug reactions.
 
->         “(3) __Source.—__ 
+>         “(3)  __Source__  __.—__ 
 
 >         Payments paid under the project shall be made from the Federal Supplementary Medical Insurance Trust Fund under section 1841 of the Social Security Act ([42 U.S.C. 1395t][/us/usc/t42/s1395t]).
 
 >     “(f) __Evaluations and Reports.—__ 
 
->         “(1) __Annual interim evaluations and reports.—__ 
+>         “(1)  __Annual interim evaluations and reports__  __.—__ 
 
 >         For each year of the project, the Secretary shall provide for an evaluation of the project and shall submit to Congress, by a date specified by the Secretary, a report on the project and on the evaluation of the project for each such year.
 
->         “(2) __Final evaluation and report.—__ 
+>         “(2)  __Final evaluation and report__  __.—__ 
 
 >         The Secretary shall provide for an evaluation of the project and shall submit to Congress, not later than one year after completion of the project, a report on the project and on the evaluation of the project.
 
->     “(g) __Funding From SMI Trust Fund.—__ 
+>     “(g)  __Funding From SMI Trust Fund__  __.—__ 
 
 >     There shall be available, from the Federal Supplementary Medical Insurance Trust Fund (under section 1841 of the Social Security Act ([42 U.S.C. 1395t][/us/usc/t42/s1395t])), the amount of $100,000,000 to carry out the project.
 
->     “(h) __Application.—__ 
+>     “(h)  __Application__  __.—__ 
 
 >     Chapter 35 of title 44, United States Code, shall not apply to the conduct of the project.”
 
@@ -399,27 +399,27 @@
 
 >     “(a) __Establishment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         By not later than January 1, 2008, the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall establish a demonstration program for purposes of understanding costs and outcomes across different post-acute care sites. Under such program, with respect to diagnoses specified by the Secretary, an individual who receives treatment from a provider for such a diagnosis shall receive a single comprehensive assessment on the date of discharge from a subsection (d) hospital (as defined in section 1886(d)(1)(B) of the Social Security Act ([42 U.S.C. 1395ww(d)(1)(B)][/us/usc/t42/s1395ww/d/1/B])) of the needs of the patient and the clinical characteristics of the diagnosis to determine the appropriate placement of such patient in a post-acute care site. The Secretary shall use a standardized patient assessment instrument across all post-acute care sites to measure functional status and other factors during the treatment and at discharge from each provider. Participants in the program shall provide information on the fixed and variable costs for each individual. An additional comprehensive assessment shall be provided at the end of the episode of care.
 
->         “(2) __Number of sites.—__ 
+>         “(2)  __Number of sites__  __.—__ 
 
 >         The Secretary shall conduct the demonstration program under this section with sufficient numbers to determine statistically reliable results.
 
->         “(3) __Duration.—__ 
+>         “(3)  __Duration__  __.—__ 
 
 >         The Secretary shall conduct the demonstration program under this section for a 3-year period.
 
->     “(b) __Waiver Authority.—__ 
+>     “(b)  __Waiver Authority__  __.—__ 
 
 >     The Secretary may waive such requirements of titles XI and XVIII of the Social Security Act ([42 U.S.C. 1301][/us/usc/t42/s1301] et seq.; [42 U.S.C. 1395][/us/usc/t42/s1395] et seq.) as may be necessary for the purpose of carrying out the demonstration program under this section.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 6 months after the completion of the demonstration program under this section, the Secretary shall submit to Congress a report on such program, that includes the results of the program and recommendations for such legislation and administrative action as the Secretary determines to be appropriate.
 
->     “(d) __Funding.—__ 
+>     “(d)  __Funding__  __.—__ 
 
 >     The Secretary shall provide for the transfer from the Federal Hospital Insurance Trust Fund established under section 1817 of the Social Security Act ([42 U.S.C. 1395i][/us/usc/t42/s1395i]), $6,000,000 for the costs of carrying out the demonstration program under this section.”
 
@@ -429,7 +429,7 @@
 
 >     “(a) __Establishment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary \[of Health and Human Services\] shall establish a pay-for-performance demonstration program with physicians to meet the needs of eligible beneficiaries through the adoption and use of health information technology and evidence-based outcomes measures for—
 
@@ -441,7 +441,7 @@
 
 >             “(D) reducing adverse health outcomes, such as adverse drug interactions related to polypharmacy.
 
->         “(2) __Sites.—__ 
+>         “(2)  __Sites__  __.—__ 
 
 >         The Secretary shall designate no more than 4 sites at which to conduct the demonstration program under this section, of which—
 
@@ -451,17 +451,17 @@
 
 >             “(C) one shall be in a State with a medical school with a Department of Geriatrics that manages rural outreach sites and is capable of managing patients with multiple chronic conditions, one of which is dementia.
 
->         “(3) __Duration.—__ 
+>         “(3)  __Duration__  __.—__ 
 
 >         The Secretary shall conduct the demonstration program under this section for a 3-year period.
 
->         “(4) __Consultation.—__ 
+>         “(4)  __Consultation__  __.—__ 
 
 >         In carrying out the demonstration program under this section, the Secretary shall consult with private sector and non-profit groups that are undertaking similar efforts to improve quality and reduce avoidable hospitalizations for chronically ill patients.
 
 >     “(b) __Participation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A physician who provides care for a minimum number of eligible beneficiaries (as specified by the Secretary) may participate in the demonstration program under this section if such physician agrees, to phase-in over the course of the 3-year demonstration period and with the assistance provided under subsection (d)(2)—
 
@@ -469,11 +469,11 @@
 
 >             “(B) the electronic reporting of clinical quality and outcomes measures in accordance with requirements established by the Secretary under the demonstration program.
 
->         “(2) __Special rule.—__ 
+>         “(2)  __Special rule__  __.—__ 
 
 >         In the case of the sites referred to in subparagraphs (B) and (C) of subsection (a)(2), a physician who provides care for a minimum number of beneficiaries with two or more chronic conditions, including dementia (as specified by the Secretary), may participate in the program under this section if such physician agrees to the requirements in subparagraphs (A) and (B) of paragraph (1).
 
->         “(3) __Practice standards.—__ 
+>         “(3)  __Practice standards__  __.—__ 
 
 >         Each physician participating in the demonstration program under this section must demonstrate the ability—
 
@@ -495,43 +495,43 @@
 
 >             The guidelines and measures required under subparagraph (E) shall be designed to take into account beneficiaries with multiple chronic conditions.
 
->     “(c) __Payment Methodology.—__ 
+>     “(c)  __Payment Methodology__  __.—__ 
 
 >     Under the demonstration program under this section the Secretary shall pay a per beneficiary amount to each participating physician who meets or exceeds specific performance standards established by the Secretary with respect to the clinical quality and outcome measures reported under subsection (b)(1)(B). Such amount may vary based on different levels of performance or improvement.
 
 >     “(d) __Administration.—__ 
 
->         “(1) __Use of quality improvement organizations.—__ 
+>         “(1)  __Use of quality improvement organizations__  __.—__ 
 
 >         The Secretary shall contract with quality improvement organizations or such other entities as the Secretary deems appropriate to enroll physicians and evaluate their performance under the demonstration program under this section.
 
->         “(2) __Technical assistance.—__ 
+>         “(2)  __Technical assistance__  __.—__ 
 
 >         The Secretary shall require in such contracts that the contractor be responsible for technical assistance and education as needed to physicians enrolled in the demonstration program under this section for the purpose of aiding their adoption of health information technology, meeting practice standards, and implementing required clinical and outcomes measures.
 
 >     “(e) __Funding.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall provide for the transfer from the Federal Supplementary Medical Insurance Trust Fund established under section 1841 of the Social Security Act ([42 U.S.C. 1395t][/us/usc/t42/s1395t]) of such funds as are necessary for the costs of carrying out the demonstration program under this section.
 
->         “(2) __Budget neutrality.—__ 
+>         “(2)  __Budget neutrality__  __.—__ 
 
 >         In conducting the demonstration program under this section, the Secretary shall ensure that the aggregate payments made by the Secretary do not exceed the amount which the Secretary estimates would have been paid if the demonstration program under this section was not implemented.
 
->     “(f) __Waiver Authority.—__ 
+>     “(f)  __Waiver Authority__  __.—__ 
 
 >     The Secretary may waive such requirements of titles XI and XVIII of the Social Security Act ([42 U.S.C. 1301][/us/usc/t42/s1301] et seq. and 1395 et seq.) as may be necessary for the purpose of carrying out the demonstration program under this section.
 
->     “(g) __Report.—__ 
+>     “(g)  __Report__  __.—__ 
 
 >     Not later than 12 months after the date of completion of the demonstration program under this section, the Secretary shall submit to Congress a report on such program, together with recommendations for such legislation and administrative action as the Secretary determines to be appropriate.
 
->     “(h) __Definitions.—__ 
+>     “(h)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Eligible beneficiary.—__ 
+>         “(1)  __Eligible beneficiary__  __.—__ 
 
 >         The term ‘eligible beneficiary’ means any individual who—
 
@@ -539,7 +539,7 @@
 
 >             “(B) has one or more chronic medical conditions specified by the Secretary (one of which may be cognitive impairment).
 
->         “(2) __Health information technology.—__ 
+>         “(2)  __Health information technology__  __.—__ 
 
 >         The term ‘health information technology’ means email communication, clinical alerts and reminders, and other information technology that meets such functionality, interoperability, and other standards as prescribed by the Secretary.”
 
@@ -553,7 +553,7 @@
 
 >     “(a) __Demonstration.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall conduct demonstration projects (in this section referred to as ‘demonstration projects’) for the purpose of developing models and evaluating methods that—
 
@@ -565,17 +565,17 @@
 
 >             “(D) promote collaboration with community-based organizations to ensure cultural competency of health care professionals and linguistic access for persons with limited English proficiency.
 
->         “(2) __Target individual defined.—__ 
+>         “(2)  __Target individual defined__  __.—__ 
 
 >         In this section, the term ‘target individual’ means an individual of a racial and ethnic minority group, as defined by section 1707 of the Public Health Service Act \[[42 U.S.C. 300u–6][/us/usc/t42/s300u–6]\], who is entitled to benefits under part A, and enrolled under part B, of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq., 1395j et seq.\].
 
 >     “(b) __Program Design.—__ 
 
->         “(1) __Initial design.—__ 
+>         “(1)  __Initial design__  __.—__ 
 
 >         Not later than 1 year after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary shall evaluate best practices in the private sector, community programs, and academic research of methods that reduce disparities among individuals of racial and ethnic minority groups in the prevention and treatment of cancer and shall design the demonstration projects based on such evaluation.
 
->         “(2) __Number and project areas.—__ 
+>         “(2)  __Number and project areas__  __.—__ 
 
 >         Not later than 2 years after the date of the enactment of this Act, the Secretary shall implement at least nine demonstration projects, including the following:
 
@@ -597,7 +597,7 @@
 
 >             “(C) At least one project each in a rural area and inner-city area.
 
->         “(3) __Expansion of projects; implementation of demonstration project results.—__ 
+>         “(3)  __Expansion of projects; implementation of demonstration project results__  __.—__ 
 
 >         If the initial report under subsection (c) contains an evaluation that demonstration projects—
 
@@ -609,11 +609,11 @@
 
 >     “(c) __Report to Congress.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 2 years after the date the Secretary implements the initial demonstration projects, and biannually thereafter, the Secretary shall submit to Congress a report regarding the demonstration projects.
 
->         “(2) __Contents of report.—__ 
+>         “(2)  __Contents of report__  __.—__ 
 
 >         Each report under paragraph (1) shall include the following:
 
@@ -631,7 +631,7 @@
 
 >             “(C) Any other information regarding the demonstration projects that the Secretary determines to be appropriate.
 
->     “(d) __Waiver Authority.—__ 
+>     “(d)  __Waiver Authority__  __.—__ 
 
 >     The Secretary shall waive compliance with the requirements of title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] to such extent and for such period as the Secretary determines is necessary to conduct demonstration projects.
 
@@ -639,15 +639,15 @@
 
 >         “(1) __Demonstration projects.—__ 
 
->             “(A) __State projects.—__ 
+>             “(A)  __State projects__  __.—__ 
 
 >             Except as provided in subparagraph (B), the Secretary shall provide for the transfer from the Federal Hospital Insurance Trust Fund and the Federal Supplementary \[Medical\] Insurance Trust Fund under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], in such proportions as the Secretary determines to be appropriate, of such funds as are necessary for the costs of carrying out the demonstration projects.
 
->             “(B) __Territory projects.—__ 
+>             “(B)  __Territory projects__  __.—__ 
 
 >             In the case of a demonstration project described in subsection (b)(2)(B), amounts shall be available only as provided in any Federal law making appropriations for the territories.
 
->         “(2) __Limitation.—__ 
+>         “(2)  __Limitation__  __.—__ 
 
 >         In conducting demonstration projects, the Secretary shall ensure that the aggregate payments made by the Secretary do not exceed the sum of the amount which the Secretary would have paid under the program for the prevention and treatment of cancer if the demonstration projects were not implemented, plus $25,000,000.”
 
@@ -655,7 +655,7 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title I, § 128\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–480, as amended by [Pub. L. 108–173, title VII, § 736(b)(13)][/us/pl/108/173/s736/b/13], Dec. 8, 2003, [117 Stat. 2356][/us/stat/117/2356], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Health and Human Services shall carry out the demonstration project known as the Lifestyle Modification Program Demonstration, as described in the Health Care Financing Administration Memorandum of Understanding entered into on November 13, 2000, and as subsequently modified, (in this section referred to as the ‘project’) in accordance with the following requirements:
 
@@ -665,17 +665,17 @@
 
 >     “(b) __Study on Cost-Effectiveness.—__ 
 
->         “(1) __Study.—__ 
+>         “(1)  __Study__  __.—__ 
 
 >         The Secretary shall conduct a study on the cost-effectiveness of the Lifestyle Modification Program as conducted under the project. In determining whether such Program is cost-effective, the Secretary shall determine (using a control group under a matched paired experimental design) whether expenditures incurred for medicare beneficiaries enrolled under the project exceed expenditures for the control group of medicare beneficiaries with similar health conditions who are not enrolled under the project.
 
 >         “(2) __Reports.—__ 
 
->             “(A) __Initial report.—__ 
+>             “(A)  __Initial report__  __.—__ 
 
 >             Not later than 1 year after the date on which 900 medicare beneficiaries have completed the entire course of treatment under the Lifestyle Modification Program under the project, the Secretary shall submit to Congress an initial report on the study conducted under paragraph (1).
 
->             “(B) __Final report.—__ 
+>             “(B)  __Final report__  __.—__ 
 
 >             Not later than 1 year after the date on which 1,800 medicare beneficiaries have completed the entire course of treatment under such Program under the project, the Secretary shall submit to Congress a final report on the study conducted under paragraph (1).”
 
@@ -685,7 +685,7 @@
 
 >     “(a) __Demonstration Projects.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall conduct demonstration projects for the purpose of evaluating methods, such as case management and other models of coordinated care, that—
 
@@ -693,17 +693,17 @@
 
 >             “(B) reduce expenditures under the medicare program under title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.) for items and services provided to target individuals.
 
->         “(2) __Target individual defined.—__ 
+>         “(2)  __Target individual defined__  __.—__ 
 
 >         In this section, the term ‘target individual’ means an individual that has a chronic illness, as defined and identified by the Secretary, and is enrolled under the fee-for-service program under parts A and B of title XVIII of the Social Security Act ([42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.; 1395j et seq.).
 
 >     “(b) __Program Design.—__ 
 
->         “(1) __Initial design.—__ 
+>         “(1)  __Initial design__  __.—__ 
 
 >         The Secretary shall evaluate best practices in the private sector of methods of coordinated care for a period of 1 year and design the demonstration project based on such evaluation.
 
->         “(2) __Number and project areas.—__ 
+>         “(2)  __Number and project areas__  __.—__ 
 
 >         Not later than 2 years after the date of enactment of this Act \[Aug. 5, 1997\], the Secretary shall implement at least 9 demonstration projects, including—
 
@@ -715,7 +715,7 @@
 
 >         “(3) __Expansion of projects; implementation of demonstration project results.—__ 
 
->             “(A) __Expansion of projects.—__ 
+>             “(A)  __Expansion of projects__  __.—__ 
 
 >             If the initial report under subsection (c) contains an evaluation that demonstration projects—
 
@@ -725,17 +725,17 @@
 
 >                   the Secretary shall continue the existing demonstration projects and may expand the number of demonstration projects.
 
->             “(B) __Implementation of demonstration project results.—__ 
+>             “(B)  __Implementation of demonstration project results__  __.—__ 
 
 >             If a report under subsection (c) contains an evaluation as described in subparagraph (A), the Secretary may issue regulations to implement, on a permanent basis, the components of the demonstration project that are beneficial to the medicare program.
 
 >     “(c) __Report to Congress.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 2 years after the Secretary implements the initial demonstration projects under this section, and biannually thereafter, the Secretary shall submit to Congress a report regarding the demonstration projects conducted under this section.
 
->         “(2) __Contents of report.—__ 
+>         “(2)  __Contents of report__  __.—__ 
 
 >         The report in paragraph (1) shall include the following:
 
@@ -753,7 +753,7 @@
 
 >             “(C) Any other information regarding the demonstration projects conducted under this section that the Secretary determines to be appropriate.
 
->     “(d) __Waiver Authority.—__ 
+>     “(d)  __Waiver Authority__  __.—__ 
 
 >     The Secretary shall waive compliance with the requirements of title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.) to such extent and for such period as the Secretary determines is necessary to conduct demonstration projects.
 
@@ -763,19 +763,19 @@
 
 >             “(A) __In general.—__ 
 
->                 “(i) __State projects.—__ 
+>                 “(i)  __State projects__  __.—__ 
 
 >                 Except as provided in clause (ii), the Secretary shall provide for the transfer from the Federal Hospital Insurance Trust Fund and the Federal Supplementary \[Medical\] Insurance Trust Fund under title XVIII of the Social Security Act ([42 U.S.C. 1395i][/us/usc/t42/s1395i], 1395t), in such proportions as the Secretary determines to be appropriate, of such funds as are necessary for the costs of carrying out the demonstration projects under this section.
 
->                 “(ii) __Cancer hospital.—__ 
+>                 “(ii)  __Cancer hospital__  __.—__ 
 
 >                 In the case of the project described in subsection (b)(2)(C), the Secretary shall provide for the transfer from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Insurance Trust Fund \[Medical\] under title XVIII of the Social Security Act ([42 U.S.C. 1395i][/us/usc/t42/s1395i], 1395t), in such proportions as the Secretary determines to be appropriate, of such funds as are necessary to cover costs of the project, including costs for information infrastructure and recurring costs of case management services, flexible benefits, and program management.
 
->             “(B) __Limitation.—__ 
+>             “(B)  __Limitation__  __.—__ 
 
 >             In conducting the demonstration project under this section, the Secretary shall ensure that the aggregate payments made by the Secretary do not exceed the amount which the Secretary would have paid if the demonstration projects under this section were not implemented.
 
->         “(2) __Evaluation and report.—__ 
+>         “(2)  __Evaluation and report__  __.—__ 
 
 >         There are authorized to be appropriated such sums as are necessary for the purpose of developing and submitting the report to Congress under subsection (c).”
 
@@ -785,29 +785,29 @@
 
 >     “(a) __Purpose and Authorization.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 9 months after the date of enactment of this section \[Aug. 5, 1997\], the Secretary of Health and Human Services shall provide for a demonstration project described in paragraph (2). The Secretary shall make an award for such project not later than 3 months after the date of the enactment of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act of 1999 \[Nov. 29, 1999\]. The Secretary shall accept the proposal adjudged to be the best technical proposal as of such date of enactment without the need for additional review or resubmission of proposals.
 
 >         “(2) __Description of project.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The demonstration project described in this paragraph is a single demonstration project to use eligible health care provider telemedicine networks to apply high-capacity computing and advanced networks to improve primary care (and prevent health care complications) to medicare beneficiaries with diabetes mellitus who are residents of medically underserved rural areas or residents of medically underserved inner-city areas that qualify as Federally designated medically underserved areas or health professional shortage areas at the time of enrollment of beneficiaries under the project.
 
->             “(B) __Medically underserved defined.—__ 
+>             “(B)  __Medically underserved defined__  __.—__ 
 
 >             As used in this paragraph, the term ‘medically underserved’ has the meaning given such term in section 330(b)(3) of the Public Health Service Act ([42 U.S.C. 254b(b)(3)][/us/usc/t42/s254b/b/3]).
 
->         “(3) __Waiver.—__ 
+>         “(3)  __Waiver__  __.—__ 
 
 >         The Secretary shall waive such provisions of title XVIII of the Social Security Act \[this subchapter\] as may be necessary to provide for payment for services under the project in accordance with subsection (d).
 
->         “(4) __Duration of project.—__ 
+>         “(4)  __Duration of project__  __.—__ 
 
 >         The project shall be conducted over a 8-year period.
 
->     “(b) __Objectives of Project.—__ 
+>     “(b)  __Objectives of Project__  __.—__ 
 
 >     The objectives of the project include the following:
 
@@ -823,7 +823,7 @@
 
 >         “(6) Developing a model for the cost-effective delivery of primary and related care both in a managed care environment and in a fee-for-service environment.
 
->     “(c) __Eligible Health Care Provider Telemedicine Network Defined.—__ 
+>     “(c)  __Eligible Health Care Provider Telemedicine Network Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘eligible health care provider telemedicine network’ means a consortium that includes at least one tertiary care hospital (but no more than 2 such hospitals), at least one medical school, no more than 4 facilities in rural or urban areas, and at least one regional telecommunications provider and that meets the following requirements:
 
@@ -835,17 +835,17 @@
 
 >     “(d) __Coverage as Medicare Part B Services.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to the succeeding provisions of this subsection, services related to the treatment or management of (including prevention of complications from) diabetes for medicare beneficiaries furnished under the project shall be considered to be services covered under part B of title XVIII of the Social Security Act \[[42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.\].
 
 >         “(2) __Payments.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Subject to paragraph (3), payment for such services shall be made for the costs that are related to the provision of such services. In computing such costs, the Secretary shall include costs described in subparagraph (B), but may not include costs described in subparagraph (C).
 
->             “(B) __Costs that may be included.—__ 
+>             “(B)  __Costs that may be included__  __.—__ 
 
 >             The costs described in this subparagraph are the permissible costs (as recognized by the Secretary) for the following:
 
@@ -857,7 +857,7 @@
 
 >                 “(iv) Payments to practitioners and providers under the medicare programs.
 
->             “(C) __Costs not included.—__ 
+>             “(C)  __Costs not included__  __.—__ 
 
 >             The costs described in this subparagraph are costs for any of the following:
 
@@ -867,31 +867,31 @@
 
 >                 “(iii) Construction (except for minor renovations related to the installation of reimbursable equipment) or the acquisition or building of real property.
 
->         “(3) __Limitation.—__ 
+>         “(3)  __Limitation__  __.—__ 
 
 >         The total amount of the payments that may be made under this section shall not exceed $60,000,000 for the period of the project (described in subsection (a)(4)).
 
->         “(4) __Cost-sharing.—__ 
+>         “(4)  __Cost-sharing__  __.—__ 
 
 >         The project may not impose cost-sharing on a medicare beneficiary for the receipt of services under the project. Project costs will cover all costs to medicare beneficiaries and providers related to participation in the project.
 
->     “(e) __Reports.—__ 
+>     “(e)  __Reports__  __.—__ 
 
 >     The Secretary shall submit to the Committee on Ways and Means and the Committee \[on\] Commerce \[now Committee on Energy and Commerce\] of the House of Representatives and the Committee on Finance of the Senate interim reports on the project and a final report on the project within 6 months after the conclusion of the project. The final report shall include an evaluation of the impact of the use of telemedicine and medical informatics on improving access of medicare beneficiaries to health care services, on reducing the costs of such services, and on improving the quality of life of such beneficiaries.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
->         “(1) __Interventional informatics.—__ 
+>         “(1)  __Interventional informatics__  __.—__ 
 
 >         The term ‘interventional informatics’ means using information technology and virtual reality technology to intervene in patient care.
 
->         “(2) __Medical informatics.—__ 
+>         “(2)  __Medical informatics__  __.—__ 
 
 >         The term ‘medical informatics’ means the storage, retrieval, and use of biomedical and related information for problem solving and decision-making through computing and communications technologies.
 
->         “(3) __Project.—__ 
+>         “(3)  __Project__  __.—__ 
 
 >         The term ‘project’ means the demonstration project under this section.”
 
@@ -905,29 +905,29 @@
 
 [Pub. L. 101–239, title X, § 10404][/us/pl/101/239/s10404], Dec. 19, 1989, [103 Stat. 2488][/us/stat/103/2488], provided that:
 
->     “(a) __Number of Projects.—__ 
+>     “(a)  __Number of Projects__  __.—__ 
 
 >     In order to determine whether, and if so, the extent to which, the use of volunteer senior aides to provide basic medical assistance and support to families with moderately or severely disabled or chronically ill children contributes to reducing the costs of care for such children, not more than 10 communities may conduct demonstration projects under this section.
 
 >     “(b) __Duties of the Secretary.—__ 
 
->         “(1) __Consideration of applications.—__ 
+>         “(1)  __Consideration of applications__  __.—__ 
 
 >         The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall consider all applications received from communities desiring to conduct demonstration projects under this section.
 
->         “(2) __Approval of certain applications.—__ 
+>         “(2)  __Approval of certain applications__  __.—__ 
 
 >         The Secretary shall approve not more than 10 applications to conduct projects which appear likely to contribute significantly to the achievement of the purpose of this section.
 
->         “(3) __Grants.—__ 
+>         “(3)  __Grants__  __.—__ 
 
 >         The Secretary shall make grants to each community the application of which to conduct a demonstration project under this section is approved by the Secretary to assist the community in carrying out the project.
 
->     “(c) __Requirements.—__ 
+>     “(c)  __Requirements__  __.—__ 
 
 >     Each community receiving a grant with respect to a demonstration project under this section shall conduct the project in accordance with such requirements as the Secretary may prescribe.
 
->     “(d) __Limitation on Authorization of Appropriations.—__ 
+>     “(d)  __Limitation on Authorization of Appropriations__  __.—__ 
 
 >     For grants under this section, there are authorized to be appropriated to the Secretary of Health and Human Services not to exceed—
 
@@ -935,7 +935,7 @@
 
 >         “(2) $2,000,000 for each of the fiscal years 1992, 1993, and 1994.
 
->     “(e) __Effective Date.—__ 
+>     “(e)  __Effective Date__  __.—__ 
 
 >     This section shall take effect on October 1, 1989.”
 
@@ -963,7 +963,7 @@
 
 >         “(5) The Secretary shall report to Congress, by not later than January 1, 1995, on the demonstration programs conducted under this subsection and on the supply and characteristics of nurses trained under such programs.
 
->     “(b) __Joint Undergraduate Education Program.—__ 
+>     “(b)  __Joint Undergraduate Education Program__  __.—__ 
 
 >     In the case of a hospital which (1) was paid under a waiver under section 402 of the Social Security Amendments of 1967 \[[section 402 of Pub. L. 90–248][/us/pl/90/248/s402], enacting this section and amending section 1395ll of this title\] and section 222 of the Social Security Amendments of 1972 \[[section 222 of Pub. L. 92–603][/us/pl/92/603/s222], amending this section and section 1395ll of this title and enacting provisions set out below\], which waiver expired on September 30, 1985, and (2) during its cost reporting period beginning in fiscal year 1985 and for each subsequent cost reporting period, has been and is associated with, and has incurred and incurs substantial costs with respect to, a nursing college with which it has shared and shares common directors, educational activities of the nursing college shall be considered to be educational activities operated directly by such hospital for purposes of title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], and shall be allowable as reasonable costs under such title and reimbursed under such title on the same basis as if they were allowable direct costs of a hospital-operated approved educational program (other than an approved graduate medical education program), for hospital cost reporting periods beginning in fiscal years 1986 though 1991.”
 
@@ -979,11 +979,11 @@
 
 [Pub. L. 101–508, title IV, § 4207(f)][/us/pl/101/508/s4207/f], formerly § 4027(f), Nov. 5, 1990, [104 Stat. 1388–123][/us/stat/104/1388-123], as renumbered by [Pub. L. 103–432, title I, § 160(d)(4)][/us/pl/103/432/s160/d/4], Oct. 31, 1994, [108 Stat. 4444][/us/stat/108/4444], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Secretary of Health and Human Services shall resume the 3 case management demonstration projects described in paragraph (2) and approved under section 425 of the Medicare Catastrophic Coverage Act of 1988 \[[Pub. L. 100–360][/us/pl/100/360], formerly set out below\] (in this subsection referred to as ‘MCCA’).
 
->     “(2) __Project descriptions.—__ 
+>     “(2)  __Project descriptions__  __.—__ 
 
 >     The demonstration projects referred to in paragraph (1) are—
 
@@ -993,11 +993,11 @@
 
 >         “(C) the project proposed to be conducted by Key Care Health Resources, Inc., to examine the effects of case management on 2,500 high cost medicare beneficiaries as described in Project No. 18–P–99396/5.
 
->     “(3) __Terms and conditions.—__ 
+>     “(3)  __Terms and conditions__  __.—__ 
 
 >     Except as provided in paragraph (4), the demonstration projects resumed pursuant to paragraph (1) shall be subject to the same terms and conditions established under section 425 of MCCA. In determining the 2-year duration period of a project resumed pursuant to paragraph (1), the Secretary may not take into account any period of time for which the project was in effect under section 425 of MCCA.
 
->     “(4) __Authorization of appropriations.—__ 
+>     “(4)  __Authorization of appropriations__  __.—__ 
 
 >     Notwithstanding section 425(g) of MCCA, there are authorized to be appropriated for administrative costs in carrying out the demonstration projects resumed pursuant to paragraph (1) $2,000,000 in each of fiscal years 1991 and 1992.”
 
@@ -1011,13 +1011,13 @@
 
 [Pub. L. 100–203, title IV, § 4403][/us/pl/100/203/s4403], Dec. 22, 1987, 1330–226, as amended by [Pub. L. 100–360, title IV, § 411(m)(2)(A)][/us/pl/100/360/s411/m/2/A], July 1, 1988, [102 Stat. 806][/us/stat/102/806], provided that:
 
->     “(a) __Set Asides for Issues of Health Care in Rural Areas and In Inner-City Areas.—__ 
+>     “(a)  __Set Asides for Issues of Health Care in Rural Areas and In Inner-City Areas__  __.—__ 
 
 >         (1) Not less than ten percent of the total amounts annually appropriated to, and expended by, the Health Care Financing Administration for the conduct of research and demonstration projects in fiscal years 1988, 1989, and 1990 shall be expended for research and demonstration projects relating exclusively or substantially to rural health issues, including (but not limited to) the impact of the payment methodology under section 1886(d) of the Social Security Act \[[42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]\] on the financial viability of small rural hospitals, the effect of medicare payment policies on the ability of rural areas (and rural hospitals in particular) to attract and retain physicians and other health professionals, the appropriateness of medicare conditions of participation and staffing requirements for small rural hospitals, and the impact of medicare policies on access to (and the quality of) health care in rural areas.
 
 >         “(2) Not less than ten percent of the total amounts annually appropriated to, and expended by, the Health Care Financing Administration for the conduct of research and demonstration projects in fiscal years 1988, 1989, and 1990 shall be expended for research and demonstration projects relating exclusively or substantially to issues of providing health care in inner-city areas, including (but not limited to) the impact of the payment methodology under section 1886(d) of the Social Security Act on the financial viability of inner-city hospitals and the impact of medicare policies on access to (and the quality of) health care in inner-city areas.
 
->     “(b) __Agenda.—__ 
+>     “(b)  __Agenda__  __.—__ 
 
 >     The Secretary of Health and Human Services shall establish an agenda of research and demonstration projects, relating exclusively or substantially to rural health issues or to inner-city health issues, that are in progress or have been proposed, and shall include such agenda in the annual report submitted pursuant to section 1875(b) of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]ll(b)\]. The agenda shall be accompanied by a statement setting forth the amounts that have been obligated and expended with respect to such projects in the current and most recently completed fiscal years.”
 

@@ -103,11 +103,11 @@
 
 [Pub. L. 110–161, div. D, title V, § 501][/us/pl/110/161/s501], Dec. 26, 2007, [121 Stat. 1997][/us/stat/121/1997], provided that:
 
->     “(a) __Election Data Collection Grants.—__ 
+>     “(a)  __Election Data Collection Grants__  __.—__ 
 
 >     Not later than March 30, 2008, the Election Assistance Commission (in this section referred to as the ‘Commission’) shall establish an election data collection grant program (in this section referred to as the ‘program’) to provide a grant of $2,000,000 to 5 eligible States to improve the collection of data relating to the regularly scheduled general election for Federal office held in November 2008. For purposes of this section, the term ‘State’ has the meaning given such term in section 901 of the Help America Vote Act of 2002 ([42 U.S.C. 15541][/us/usc/t42/s15541]).
 
->     “(b) __Eligibility.—__ 
+>     “(b)  __Eligibility__  __.—__ 
 
 >     A State is eligible to receive a grant under the program if it submits to the Commission, at such time and in such form as the Commission may require, an application containing the following information and assurances:
 
@@ -121,21 +121,21 @@
 
 >     “(c) __Timing of Grants; Availability.—__ 
 
->         “(1) __Timing.—__ 
+>         “(1)  __Timing__  __.—__ 
 
 >         The Commission shall award grants under the program to eligible States not later than 60 days after the date on which the Commission establishes the program.
 
->         “(2) __Availability of funds.—__ 
+>         “(2)  __Availability of funds__  __.—__ 
 
 >         Amounts provided by a grant under the program shall remain available without fiscal year limitation until expended.
 
 >     “(d) __Report to Congress.—__ 
 
->         “(1) __Report.—__ 
+>         “(1)  __Report__  __.—__ 
 
 >         Not later than June 30, 2009, the Commission, in consultation with the States receiving grants under the program and the Election Assistance Commission Board of Advisors, shall submit a report to Congress on the impact of the program on the collection of the election data described in subsection (a).
 
->         “(2) __Recommendations.—__ 
+>         “(2)  __Recommendations__  __.—__ 
 
 >         The Commission shall include in the report submitted under paragraph (1) such recommendations as the Commission considers appropriate to improve the collection of data relating to regularly scheduled general elections for Federal office in all States, including recommendations for changes in Federal law or regulations and the Commission’s estimate of the amount of funding necessary to carry out such changes.”
 

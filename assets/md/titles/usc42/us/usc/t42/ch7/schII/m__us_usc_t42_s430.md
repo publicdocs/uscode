@@ -127,11 +127,11 @@
 
 [Pub. L. 101–239, title X, § 10208(c)][/us/pl/101/239/s10208/c], Dec. 19, 1989, [103 Stat. 2478][/us/stat/103/2478], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by subsections (a) and (b) \[amending this section and sections 403, 409, 413, 415, and 424a of this title\] shall apply with respect to the computation of average total wage amounts (under the amended provisions) for calendar years after 1990.
 
->     “(2) __Transitional rule.—__ 
+>     “(2)  __Transitional rule__  __.—__ 
 
 >     For purposes of determining the contribution and benefit base for 1990, 1991, and 1992 under section 230(b) of the Social Security Act \[[42 U.S.C. 430(b)][/us/usc/t42/s430/b]\] (and section 230(b) of such Act as in effect immediately prior to enactment of the Social Security Amendments of 1977 \[[Pub. L. 95–216][/us/pl/95/216], approved Dec. 20, 1977\])—
 
@@ -153,11 +153,11 @@
 
 >                 “(II) the average of total wages (as so defined and computed without regard to the limitations specified in such section 209(a)(1) and by excluding deferred compensation amounts within the meaning of such section 209(k)(2)) reported to the Secretary of the Treasury or his delegate for 1989.
 
->     “(3) __Determination of contribution and benefit base for 1993.—__ 
+>     “(3)  __Determination of contribution and benefit base for 1993__  __.—__ 
 
 >     For purposes of determining the contribution and benefit base for 1993 under section 230(b) of the Social Security Act (and section 230(b) of such Act as in effect immediately prior to enactment of the Social Security Amendments of 1977), the average of total wages for 1990 shall be determined without regard to subparagraph (C) of paragraph (2).
 
->     “(4) __Revised determination under section 230 of the social security act.—__ 
+>     “(4)  __Revised determination under section 230 of the social security act__  __.—__ 
 
 >     As soon as possible after the enactment of this Act \[Dec. 19, 1989\], the Secretary of Health and Human Services shall revise and publish, in accordance with the provisions of this Act \[[Pub. L. 101–239][/us/pl/101/239], see Tables for classification\] and the amendments made thereby, the contribution and benefit base under section 230 of the Social Security Act with respect to remuneration paid after 1989 and taxable years beginning after calendar year 1989.”
 

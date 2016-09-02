@@ -539,11 +539,11 @@
 
 [Pub. L. 105–33, title IV, § 4304(c)][/us/pl/105/33/s4304/c], Aug. 5, 1997, [111 Stat. 384][/us/stat/111/384], provided that:
 
->     “(1) __Contracts with excluded persons.—__ 
+>     “(1)  __Contracts with excluded persons__  __.—__ 
 
 >     The amendments made by subsection (a) \[amending this section\] shall apply to arrangements and contracts entered into after the date of the enactment of this Act \[Aug. 5, 1997\].
 
->     “(2) __Kickbacks.—__ 
+>     “(2)  __Kickbacks__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending this section\] shall apply to acts committed after the date of the enactment of this Act.”
 
@@ -619,11 +619,11 @@
 
 [Pub. L. 101–234, title II, § 201(a)][/us/pl/101/234/s201/a], Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981], provided that:
 
->     “(1) __General rule.—__ 
+>     “(1)  __General rule__  __.—__ 
 
 >     Except as provided in paragraph (2), sections 201 through 208 of MCCA \[sections 201 to 208 of [Pub. L. 100–360][/us/pl/100/360], enacting [section 1395w–3 of this title][/us/usc/t42/s1395w–3], amending this section and sections 1320c–3, 1395h, 1395k, 1395l, 1395m, 1395n, 1395u, 1395w–2, 1395x, 1395y, 1395z, 1395aa, 1395bb, 1395cc, 1395mm, 1396a, 1396b, and 1396n of this title, and enacting provisions set out as notes under sections 1320c–3, 1395b–1, 1395k, 1395m, 1395u, 1395x, 1395ll, and 1395ww of this title\] are repealed and the provisions of law amended or repealed by such sections are restored or revived as if such sections had not been enacted.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     Paragraph (1) shall not apply to subsections (g) and (m)(4) of section 202 of MCCA \[amending [section 1395u of this title][/us/usc/t42/s1395u] and enacting provisions set out as a note under [section 1395u of this title][/us/usc/t42/s1395u].\]”
 

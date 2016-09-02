@@ -321,17 +321,17 @@
 
 [Pub. L. 109–365, title V, § 502][/us/pl/109/365/s502], Oct. 17, 2006, [120 Stat. 2590][/us/stat/120/2590], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Title V of the Older Americans Act of 1965 \[[42 U.S.C. 3056][/us/usc/t42/s3056] et seq.\] (as amended by section 501) takes effect July 1, 2007.
 
 >     “(b) __Regulations and Expected Levels of Performance.—__ 
 
->         “(1) __Regulations.—__ 
+>         “(1)  __Regulations__  __.—__ 
 
 >         Effective on the date of enactment of this Act \[Oct. 17, 2006\], the Secretary of Labor may issue rules and regulations authorized in such title V.
 
->         “(2) __Expected levels of performance.—__ 
+>         “(2)  __Expected levels of performance__  __.—__ 
 
 >         Prior to July 1, 2007, the Secretary of Labor may carry out the activities authorized in section 513(a)(2) of the Older Americans Act of 1965 \[[42 U.S.C. 3056k(a)(2)][/us/usc/t42/s3056k/a/2]\] (as so amended), in preparation for program year 2007.”
 

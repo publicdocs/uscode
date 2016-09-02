@@ -51,15 +51,15 @@
 
 [Pub. L. 101–549, title IV, § 406][/us/pl/101/549/s406], Nov. 15, 1990, [104 Stat. 2632][/us/stat/104/2632], provided that:
 
->     “(a) __Report.—__ 
+>     “(a)  __Report__  __.—__ 
 
 >     Not later than January 1, 1995 and every 5 years thereafter, the Administrator of the Environmental Protection Agency shall transmit to the Congress a report containing an inventory of national annual sulfur dioxide emissions from industrial sources (as defined in title IV of the Act \[[42 U.S.C. 7651][/us/usc/t42/s7651] et seq.\]), including units subject to section 405(g)(6) of the Clean Air Act \[[42 U.S.C. 7651d(g)(6)][/us/usc/t42/s7651d/g/6]\], for all years for which data are available, as well as the likely trend in such emissions over the following twenty-year period. The reports shall also contain estimates of the actual emission reduction in each year resulting from promulgation of the diesel fuel desulfurization regulations under section 214 \[[42 U.S.C. 7548][/us/usc/t42/s7548]\].
 
->     “(b) __5.60 Million Ton Cap.—__ 
+>     “(b) __5.60__  __Million Ton Cap__  __.—__ 
 
 >     Whenever the inventory required by this section indicates that sulfur dioxide emissions from industrial sources, including units subject to section 405(g)(5) of the Clean Air Act \[[42 U.S.C. 7651d(g)(5)][/us/usc/t42/s7651d/g/5]\], may reasonably be expected to reach levels greater than 5.60 million tons per year, the Administrator of the Environmental Protection Agency shall take such actions under the Clean Air Act \[[42 U.S.C. 7401][/us/usc/t42/s7401] et seq.\] as may be appropriate to ensure that such emissions do not exceed 5.60 million tons per year. Such actions may include the promulgation of new and revised standards of performance for new sources, including units subject to section 405(g)(5) of the Clean Air Act, under section 111(b) of the Clean Air Act \[[42 U.S.C. 7411(b)][/us/usc/t42/s7411/b]\], as well as promulgation of standards of performance for existing sources, including units subject to section 405(g)(5) of the Clean Air Act, under authority of this section. For an existing source regulated under this section, ‘standard of performance’ means a standard which the Administrator determines is applicable to that source and which reflects the degree of emission reduction achievable through the application of the best system of continuous emission reduction which (taking into consideration the cost of achieving such emission reduction, and any nonair quality health and environmental impact and energy requirements) the Administrator determines has been adequately demonstrated for that category of sources.
 
->     “(c) __Election.—__ 
+>     “(c)  __Election__  __.—__ 
 
 >     Regulations promulgated under section 405(b) of the Clean Air Act \[[42 U.S.C. 7651d(b)][/us/usc/t42/s7651d/b]\] shall not prohibit a source from electing to become an affected unit under section 410 of the Clean Air Act \[[42 U.S.C. 7651i][/us/usc/t42/s7651i]\].”
 
@@ -75,15 +75,15 @@
 
 [Pub. L. 101–549, title IV, § 408][/us/pl/101/549/s408], Nov. 15, 1990, [104 Stat. 2633][/us/stat/104/2633], provided that:
 
->     “(a) __Reports to Congress.—__ 
+>     “(a)  __Reports to Congress__  __.—__ 
 
 >     The Administrator of the Environmental Protection Agency, in consultation with the Secretary of State, the Secretary of Energy, and other persons the Administrator deems appropriate, shall prepare and submit a report to Congress on January 1, 1994, January 1, 1999, and January 1, 2005.
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     The report to Congress shall analyze the current emission levels of sulfur dioxide and nitrogen oxides in each of the provinces participating in Canada’s acid rain control program, the amount of emission reductions of sulfur dioxide and oxides of nitrogen achieved by each province, the methods utilized by each province in making those reductions, the costs to each province and the employment impacts in each province of making and maintaining those reductions.
 
->     “(c) __Compliance.—__ 
+>     “(c)  __Compliance__  __.—__ 
 
 >     Beginning on January 1, 1999, the reports shall also assess the degree to which each province is complying with its stated emissions cap.”
 

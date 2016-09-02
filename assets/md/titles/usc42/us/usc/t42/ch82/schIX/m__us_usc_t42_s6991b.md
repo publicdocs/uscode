@@ -403,11 +403,11 @@
 
 [Pub. L. 99–499, title II, § 205(h)][/us/pl/99/499/s205/h], Oct. 17, 1986, [100 Stat. 1702][/us/stat/100/1702], provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Comptroller General shall conduct a study of the availability of pollution liability insurance, leak insurance, and contamination insurance for owners and operators of petroleum storage and distribution facilities. The study shall assess the current and projected extent to which private insurance can contribute to the financial responsibility of owners and operators of underground storage tanks and the ability of owners and operators of underground storage tanks to maintain financial responsibility through other methods. The study shall consider the experience of owners and operators of marine vessels in getting insurance for their liabilities under the Federal Water Pollution Control Act \[[33 U.S.C. 1251][/us/usc/t33/s1251] et seq.\] and the operation of the Water Quality Insurance Syndicate.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     The Comptroller General shall report the findings under this subsection to the Congress within 15 months after the enactment of this subsection \[Oct. 17, 1986\]. Such report shall include recommendations for legislative or administrative changes that will enable owners and operators of underground storage tanks to maintain financial responsibility sufficient to provide all clean-up costs and damages that may result from reasonably foreseeable releases and events.”
 

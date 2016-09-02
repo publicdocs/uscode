@@ -39,11 +39,11 @@
 
 [Pub. L. 103–43, title XX, § 2004][/us/pl/103/43/s2004], June 10, 1993, [107 Stat. 209][/us/stat/107/209], as amended by [Pub. L. 105–392, title IV, § 416(a)][/us/pl/105/392/s416/a], (b), Nov. 13, 1998, [112 Stat. 3590][/us/stat/112/3590], provided that:
 
->     “(a) __Sense of Congress Regarding Purchase of American-Made Equipment and Products.—__ 
+>     “(a)  __Sense of Congress Regarding Purchase of American-Made Equipment and Products__  __.—__ 
 
 >     In the case of any equipment or product that may be authorized to be purchased with financial assistance provided pursuant to this Act for any of the fiscal years 1994 through 1996, it is the sense of the Congress that entities receiving such assistance should, in expending the assistance, purchase only American-made equipment and products.
 
->     “(b) __Notice to Recipients of Assistance.—__ 
+>     “(b)  __Notice to Recipients of Assistance__  __.—__ 
 
 >     In providing financial assistance pursuant to this Act, the Secretary of Health and Human Services shall provide to each recipient of the assistance a notice describing the statement made in subsection (a) by the Congress.”
 

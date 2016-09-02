@@ -71,23 +71,23 @@
 
 >     “(a) __Submission of Biennial Reports.—__ 
 
->         “(1) __To the administrator.—__ 
+>         “(1)  __To the administrator__  __.—__ 
 
 >         Not later than 20 days after the date of enactment of this Act \[July 6, 2012\], each property and casualty insurance company participating in the Write Your Own program shall submit to the Administrator any biennial report required by the Federal Emergency Management Agency to be prepared in the prior 5 years by such company.
 
->         “(2) __To gao.—__ 
+>         “(2)  __To gao__  __.—__ 
 
 >         Not later than 10 days after the submission of the biennial reports under paragraph (1), the Administrator shall submit all such reports to the Comptroller General of the United States.
 
->         “(3) __Notice to congress of failure to comply.—__ 
+>         “(3)  __Notice to congress of failure to comply__  __.—__ 
 
 >         The Administrator shall notify and report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on any property and casualty insurance company participating in the Write Your Own program that failed to submit its biennial reports as required under paragraph (1).
 
->         “(4) __Failure to comply.—__ 
+>         “(4)  __Failure to comply__  __.—__ 
 
 >         A property and casualty insurance company participating in the Write Your Own program which fails to comply with the reporting requirement under this subsection or the requirement under section 62.23(j)(1) of title 44, Code of Federal Regulations (relating to biennial audit of the flood insurance financial statements) shall be subject to a civil penalty in an amount of not more than $1,000 per day for each day that the company remains in noncompliance with either such requirement.
 
->     “(b) __Methodology To Determine Reimbursed Expenses.—__ 
+>     “(b)  __Methodology To Determine Reimbursed Expenses__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[July 6, 2012\], the Administrator shall develop a methodology for determining the appropriate amounts that property and casualty insurance companies participating in the Write Your Own program should be reimbursed for selling, writing, and servicing flood insurance policies and adjusting flood insurance claims on behalf of the National Flood Insurance Program. The methodology shall be developed using actual expense data for the flood insurance line and can be derived from—
 
@@ -97,15 +97,15 @@
 
 >         “(3) a combination of the methodologies described in paragraphs (1) and (2).
 
->     “(c) __Submission of Expense Reports.—__ 
+>     “(c)  __Submission of Expense Reports__  __.—__ 
 
 >     To develop the methodology established under subsection (b), the Administrator may require each property and casualty insurance company participating in the Write Your Own program to submit a report to the Administrator, in a format determined by the Administrator and within 60 days of the request, that details the expense levels of each such company for selling, writing, and servicing standard flood insurance policies and adjusting and servicing claims.
 
->     “(d) __FEMA Rulemaking on Reimbursement of Expenses Under the Write Your Own Program.—__ 
+>     “(d)  __FEMA Rulemaking on Reimbursement of Expenses Under the Write Your Own Program__  __.—__ 
 
 >     Not later than 12 months after the date of enactment of this Act \[July 6, 2012\], the Administrator shall issue a rule to formulate revised expense reimbursements to property and casualty insurance companies participating in the Write Your Own program for their expenses (including their operating and administrative expenses for adjustment of claims) in selling, writing, and servicing standard flood insurance policies, including how such companies shall be reimbursed in both catastrophic and noncatastrophic years. Such reimbursements shall be structured to ensure reimbursements track the actual expenses, including standard business costs and operating expenses, of such companies as closely as practicably possible.
 
->     “(e) __Report of the Administrator.—__ 
+>     “(e)  __Report of the Administrator__  __.—__ 
 
 >     Not later than 60 days after the effective date of the final rule issued pursuant to subsection (d), the Administrator shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report containing—
 
@@ -117,7 +117,7 @@
 
 >     “(f) __GAO Study and Report on Expenses of Write Your Own Program.—__ 
 
->         “(1) __Study.—__ 
+>         “(1)  __Study__  __.—__ 
 
 >         Not later than 180 days after the effective date of the final rule issued pursuant to subsection (d), the Comptroller General of the United States shall—
 
@@ -125,7 +125,7 @@
 
 >             “(B) report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on the findings of the study conducted under subparagraph (A).
 
->         “(2) __GAO authority.—__ 
+>         “(2)  __GAO authority__  __.—__ 
 
 >         In conducting the study and report required under paragraph (1), the Comptroller General—
 

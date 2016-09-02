@@ -365,35 +365,35 @@
 
 [Pub. L. 108–173, title IX, § 935(b)][/us/pl/108/173/s935/b], Dec. 8, 2003, [117 Stat. 2411][/us/stat/117/2411], provided that:
 
->     “(1) __Use of repayment plans.—__ 
+>     “(1)  __Use of repayment plans__  __.—__ 
 
 >     Section 1893(f)(1) of the Social Security Act \[[42 U.S.C. 1395ddd(f)(1)][/us/usc/t42/s1395ddd/f/1]\], as added by subsection (a), shall apply to requests for repayment plans made after the date of the enactment of this Act \[Dec. 8, 2003\].
 
->     “(2) __Limitation on recoupment.—__ 
+>     “(2)  __Limitation on recoupment__  __.—__ 
 
 >     Section 1893(f)(2) of the Social Security Act \[[42 U.S.C. 1395ddd(f)(2)][/us/usc/t42/s1395ddd/f/2]\], as added by subsection (a), shall apply to actions taken after the date of the enactment of this Act.
 
->     “(3) __Use of extrapolation.—__ 
+>     “(3)  __Use of extrapolation__  __.—__ 
 
 >     Section 1893(f)(3) of the Social Security Act \[[42 U.S.C. 1395ddd(f)(3)][/us/usc/t42/s1395ddd/f/3]\], as added by subsection (a), shall apply to statistically valid random samples initiated after the date that is 1 year after the date of the enactment of this Act.
 
->     “(4) __Provision of supporting documentation.—__ 
+>     “(4)  __Provision of supporting documentation__  __.—__ 
 
 >     Section 1893(f)(4) of the Social Security Act \[[42 U.S.C. 1395ddd(f)(4)][/us/usc/t42/s1395ddd/f/4]\], as added by subsection (a), shall take effect on the date of the enactment of this Act.
 
->     “(5) __Consent settlement.—__ 
+>     “(5)  __Consent settlement__  __.—__ 
 
 >     Section 1893(f)(5) of the Social Security Act \[[42 U.S.C. 1395ddd(f)(5)][/us/usc/t42/s1395ddd/f/5]\], as added by subsection (a), shall apply to consent settlements entered into after the date of the enactment of this Act.
 
->     “(6) __Notice of overutilization.—__ 
+>     “(6)  __Notice of overutilization__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act, the Secretary \[of Health and Human Services\] shall first establish the process for notice of overutilization of billing codes under section 1893A(f)(6) \[1893(f)(6)\] of the Social Security Act \[probably means [42 U.S.C. 1395ddd(f)(6)][/us/usc/t42/s1395ddd/f/6]\], as added by subsection (a).
 
->     “(7) __Payment audits.—__ 
+>     “(7)  __Payment audits__  __.—__ 
 
 >     Section 1893A(f)(7) \[1893(f)(7)\] of the Social Security Act \[probably means [42 U.S.C. 1395ddd(f)(7)][/us/usc/t42/s1395ddd/f/7]\], as added by subsection (a), shall apply to audits initiated after the date of the enactment of this Act.
 
->     “(8) __Standard for abnormal billing patterns.—__ 
+>     “(8)  __Standard for abnormal billing patterns__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act, the Secretary shall first establish a standard methodology for selection of sample claims for abnormal billing patterns under section 1893(f)(8) of the Social Security Act \[[42 U.S.C. 1395ddd(f)(8)][/us/usc/t42/s1395ddd/f/8]\], as added by subsection (a).”
 

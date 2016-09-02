@@ -65,7 +65,7 @@
 
         (4) __Intermediate in-use standards.—__ 
 
-            (A) __Model years 1994 and 1995.—__ 
+            (A)  __Model years 1994 and 1995__  __.—__ 
 
             For light-duty trucks of up to 6,000 lbs. gross vehicle weight rating (GVWR) and light-duty vehicles which are subject to standards under table G of [section 7521(g)(1) of this title][/us/usc/t42/s7521/g/1] in model years 1994 and 1995 (40 percent of the manufacturer’s sales volume in model year 1994 and 80 percent in model year 1995), the standards applicable to NMHC, CO, and NOx for purposes of this subsection shall be those set forth in table A below in lieu of the standards for such air pollutants otherwise applicable under this subchapter.
 
@@ -171,7 +171,7 @@
 
             </table>
 
-            (B) __Model years 1996 and thereafter.—__ 
+            (B)  __Model years 1996 and thereafter__  __.—__ 
 
                 (i) In the model years 1996 and 1997, light-duty trucks (LDTs) up to 6,000 lbs. gross vehicle weight rating (GVWR) and light-duty vehicles which are not subject to final in-use standards under paragraph (5) (60 percent of the manufacturer’s sales volume in model year 1996 and 20 percent in model year 1997) shall be subject to the standards set forth in table A of subparagraph (A) for NMHC, CO, and NOx for purposes of this subsection in lieu of those set forth in paragraph (5).
 
@@ -269,11 +269,11 @@
 
                     </table>
 
-            (C) __Useful life.—__ 
+            (C)  __Useful life__  __.—__ 
 
             In the case of the in-use standards applicable under this paragraph, for purposes of applying this subsection, the applicable useful life shall be 5 years or 50,000 miles or the equivalent (whichever first occurs).
 
-        (5) __Final in-use standards.—__ 
+        (5)  __Final in-use standards__  __.—__ 
 
             (A) After the model year 1995, for purposes of applying this subsection, in the case of the percentage specified in the implementation schedule below of each manufacturer’s sales volume of light-duty trucks of up to 6,000 lbs. gross vehicle weight rating (GVWR) and light duty  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “light-duty”. </sup></sup>  vehicles, the standards for NMHC, CO, and NOx shall be as provided in Table G in [section 7521(g) of this title][/us/usc/t42/s7521/g], except that in applying the standards set forth in Table G for purposes of determining compliance with this subsection, the applicable useful life shall be (i) 5 years or 50,000 miles (or the equivalent) whichever first occurs in the case of standards applicable for purposes of certification at 50,000 miles; and (ii) 10 years or 100,000 miles (or the equivalent), whichever first occurs in the case of standards applicable for purposes of certification at 100,000 miles, except that no testing shall be done beyond 7 years or 75,000 miles, or the equivalent whichever first occurs.
 
@@ -387,7 +387,7 @@
 
             </table>
 
-        (6) __Diesel vehicles; in-use useful life and testing.—__ 
+        (6)  __Diesel vehicles; in-use useful life and testing__  __.—__ 
 
             (A) In the case of diesel-fueled light-duty trucks up to 6,000 lbs. GVWR and light-duty vehicles, the useful life for purposes of determining in-use compliance with the standards under [section 7521(g) of this title][/us/usc/t42/s7521/g] for NOx shall be a period of 10 years or 100,000 miles (or the equivalent), whichever first occurs, in the case of standards applicable for purposes of certification at 100,000 miles, except that testing shall not be done for a period beyond 7 years or 75,000 miles (or the equivalent) whichever first occurs.
 

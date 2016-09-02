@@ -275,11 +275,11 @@
 
 [Pub. L. 108–203, title III, § 303][/us/pl/108/203/s303], Mar. 2, 2004, [118 Stat. 521][/us/stat/118/521], as amended by [Pub. L. 111–142, § 3(b)(2)][/us/pl/111/142/s3/b/2], Feb. 27, 2010, [124 Stat. 39][/us/stat/124/39], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Commissioner of Social Security (hereafter in this section referred to as the ‘Commissioner’) shall develop and carry out a nationwide demonstration project under this section with respect to agents and other persons, other than attorneys, who represent claimants under titles II and XVI of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq., 1381 et seq.\] before the Commissioner. The demonstration project shall be designed to determine the potential results of extending to such representatives the fee withholding procedures and assessment procedures that apply under sections 206 and section \[sic\] 1631(d)(2) of such Act \[[42 U.S.C. 406][/us/usc/t42/s406], 1383(d)(2)\] to attorneys seeking direct payment out of past due benefits under such titles and shall include an analysis of the effect of such extension on claimants and program administration.
 
->     “(b) __Standards for Inclusion in Demonstration Project.—__ 
+>     “(b)  __Standards for Inclusion in Demonstration Project__  __.—__ 
 
 >     Fee-withholding procedures may be extended under the demonstration project carried out pursuant to subsection (a) to any non-attorney representative only if such representative meets at least the following prerequisites:
 
@@ -295,29 +295,29 @@
 
 >     “(c) __Assessment of Fees.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Commissioner may assess representatives reasonable fees to cover the cost to the Social Security Administration of administering the prerequisites described in subsection (b).
 
->         “(2) __Disposition of fees.—__ 
+>         “(2)  __Disposition of fees__  __.—__ 
 
 >         Fees collected under paragraph (1) shall be credited to the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund, or deposited as miscellaneous receipts in the general fund of the Treasury, based on such allocations as the Commissioner of Social Security determines appropriate.
 
->         “(3) __Authorization of appropriations.—__ 
+>         “(3)  __Authorization of appropriations__  __.—__ 
 
 >         The fees authorized under this subparagraph shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Amounts so appropriated are authorized to remain available until expended for administering the prerequisites described in subsection (b).
 
->     “(d) __Notice to Congress and Applicability of Fee Withholding Procedures.—__ 
+>     “(d)  __Notice to Congress and Applicability of Fee Withholding Procedures__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Mar. 2, 2004\], the Commissioner shall complete such actions as are necessary to fully implement the requirements for full operation of the demonstration project and shall submit to each House of Congress a written notice of the completion of such actions \[Such notices submitted Feb. 28, 2005.\]. The applicability under this section to non-attorney representatives of the fee withholding procedures and assessment procedures under sections 206 and 1631(d)(2) of the Social Security Act \[[42 U.S.C. 406][/us/usc/t42/s406], 1383(d)(2)\] shall be effective with respect to fees for representation of claimants in the case of claims for benefits with respect to which the agreement for representation is entered into by such non-attorney representatives during the period beginning with the date of the submission of such notice by the Commissioner to Congress and ending with the termination date of the demonstration project.
 
 >     “(e) __Reports by the Commissioner; Termination.—__ 
 
->         “(1) __Interim reports.—__ 
+>         “(1)  __Interim reports__  __.—__ 
 
 >         On or before the date which is 1 year after the date of enactment of this Act \[Mar. 2, 2004\], and annually thereafter, the Commissioner shall transmit to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate an annual interim report on the progress of the demonstration project carried out under this section, together with any related data and materials that the Commissioner may consider appropriate.
 
->         “(2) __Termination date.—__ 
+>         “(2)  __Termination date__  __.—__ 
 
 >         The termination date of the demonstration project under this section is the date which is 5 years after the date of the submission of the notice by the Commissioner to each House of Congress pursuant to subsection (d). The authority under the preceding provisions of this section shall not apply in the case of claims for benefits with respect to which the agreement for representation is entered into after the termination date.”
 

@@ -67,11 +67,11 @@
 
 [Pub. L. 101–549, title VI, § 603][/us/pl/101/549/s603], Nov. 15, 1990, [104 Stat. 2670][/us/stat/104/2670], provided that:
 
->     “(a) __Economically Justified Actions.—__ 
+>     “(a)  __Economically Justified Actions__  __.—__ 
 
 >     Not later than 2 years after enactment of this Act \[Nov. 15, 1990\], the Administrator shall prepare and submit a report to the Congress that identifies activities, substances, processes, or combinations thereof that could reduce methane emissions and that are economically and technologically justified with and without consideration of environmental benefit.
 
->     “(b) __Domestic Methane Source Inventory and Control.—__ 
+>     “(b)  __Domestic Methane Source Inventory and Control__  __.—__ 
 
 >     Not later than 2 years after the enactment of this Act \[Nov. 15, 1990\], the Administrator, in consultation and coordination with the Secretary of Energy and the Secretary of Agriculture, shall prepare and submit to the Congress reports on each of the following:
 
@@ -89,15 +89,15 @@
 
 >     “(c) __International Studies.—__ 
 
->         “(1) __Methane emissions.—__ 
+>         “(1)  __Methane emissions__  __.—__ 
 
 >         Not later than 2 years after the enactment of this Act \[Nov. 15, 1990\], the Administrator shall prepare and submit to the Congress a report on methane emissions from countries other than the United States. Such report shall include inventories of methane emissions associated with the activities listed in subsection (b).
 
->         “(2) __Preventing increases in methane concentrations.—__ 
+>         “(2)  __Preventing increases in methane concentrations__  __.—__ 
 
 >         Not later than 2 years after the enactment of this Act \[Nov. 15, 1990\], the Administrator shall prepare and submit to the Congress a report that analyzes the potential for preventing an increase in atmospheric concentrations of methane from activities and sources in other countries. Such report shall identify and evaluate the technical options for reducing methane emission from each of the activities listed in subsection (b), as well as other activities or sources that are deemed by the Administrator in consultation with other relevant Federal agencies and departments to be significant and shall include an evaluation of costs. The report shall identify the emissions reductions that would need to be achieved to prevent increasing atmospheric concentrations of methane. The report shall also identify technology transfer programs that could promote methane emissions reductions in lesser developed countries.
 
->     “(d) __Natural Sources.—__ 
+>     “(d)  __Natural Sources__  __.—__ 
 
 >     Not later than 2 years after the enactment of this Act \[Nov. 15, 1990\], the Administrator shall prepare and submit to the Congress a report on—
 
@@ -105,15 +105,15 @@
 
 >         “(2) the changes in methane emissions from biogenic sources that may occur as a result of potential increases in temperatures and atmospheric concentrations of carbon dioxide.
 
->     “(e) __Study of Measures To Limit Growth in Methane Concentrations.—__ 
+>     “(e)  __Study of Measures To Limit Growth in Methane Concentrations__  __.—__ 
 
 >     Not later than 2 years after the completion of the studies in subsections (b), (c), and (d), the Administrator shall prepare and submit to the Congress a report that presents options outlining measures that could be implemented to stop or reduce the growth in atmospheric concentrations of methane from sources within the United States referred to in paragraphs (1) through (6) of subsection (b). This study shall identify and evaluate the technical options for reducing methane emissions from each of the activities listed in subsection (b), as well as other activities or sources deemed by such agencies to be significant, and shall include an evaluation of costs, technology, safety, energy, and other factors. The study shall be based on the other studies under this section. The study shall also identify programs of the United States and international lending agencies that could be used to induce lesser developed countries to undertake measures that will reduce methane emissions and the resource needs of such programs.
 
->     “(f) __Information Gathering.—__ 
+>     “(f)  __Information Gathering__  __.—__ 
 
 >     In carrying out the studies under this section, the provisions and requirements of section 114 of the Clean Air Act \[[42 U.S.C. 7414][/us/usc/t42/s7414]\] shall be available for purposes of obtaining information to carry out such studies.
 
->     “(g) __Consultation and Coordination.—__ 
+>     “(g)  __Consultation and Coordination__  __.—__ 
 
 >     In preparing the studies under this section the Administrator shall consult and coordinate with the Secretary of Energy, the Administrators of the National Aeronautics and Space Administration and the National Oceanic and Atmospheric Administration, and the heads of other relevant Federal agencies and departments. In the case of the studies under subsections (a), (b), and (e), such consultation and coordination shall include the Secretary of Agriculture.”
 

@@ -87,7 +87,7 @@
 
 [Pub. L. 105–276, title IV, § 430][/us/pl/105/276/s430], Oct. 21, 1998, [112 Stat. 2512][/us/stat/112/2512], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Director of the Office of Science and Technology Policy, in consultation with the Director of the Office of Management and Budget, may enter into an agreement with the National Academy of Sciences for the Academy to conduct a comprehensive study to develop methods for evaluating federally-funded research and development programs. This study shall—
 
@@ -121,7 +121,7 @@
 
 >             “(E) the timeliness of program responses to requests for funding, participation, or equipment use.
 
->     “(b) __Independent Merit-Based Evaluation Defined.—__ 
+>     “(b)  __Independent Merit-Based Evaluation Defined__  __.—__ 
 
 >     The term ‘independent merit-based evaluation’ means review of the scientific or technical quality of research or development, conducted by experts who are chosen for their knowledge of scientific and technical fields relevant to the evaluation and who—
 

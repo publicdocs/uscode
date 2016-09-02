@@ -849,7 +849,7 @@
 
 [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VI, § 621(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–565, provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Medicare Payment Advisory Commission shall conduct a study analyzing the effects of the amendment made by subsection (a) \[amending this section\] on Medicare+Choice organizations. In conducting such study, the Commission shall examine the effects (if any) such amendment has had—
 
@@ -859,7 +859,7 @@
 
 >         “(C) on the contractual relationships between such organizations and skilled nursing facilities.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 2 years after the date of the enactment of this Act \[Dec. 21, 2000\], the Commission shall submit to Congress a report on the study conducted under paragraph (1).”
 

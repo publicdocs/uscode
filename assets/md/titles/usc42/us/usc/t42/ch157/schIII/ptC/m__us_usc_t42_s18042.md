@@ -249,17 +249,17 @@
 
 [Pub. L. 112–240, title VI, § 644][/us/pl/112/240/s644], Jan. 2, 2013, [126 Stat. 2362][/us/stat/126/2362], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary of Health and Human Services shall establish a fund to be used to provide assistance and oversight to qualified nonprofit health insurance issuers that have been awarded loans or grants under section 1322 of the Patient Protection and Affordable Care Act ([42 U.S.C. 18042][/us/usc/t42/s18042]) prior to the date of enactment of this Act \[Jan. 2, 2013\].
 
 >     “(b) __Transfer and Rescission.—__ 
 
->         “(1) __Transfer.—__ 
+>         “(1)  __Transfer__  __.—__ 
 
 >         From the unobligated balance of funds appropriated under section 1322(g) of the Patient Protection and Affordable Care Act ([42 U.S.C. 18042(g)][/us/usc/t42/s18042/g]), 10 percent of such sums are hereby transferred to the fund established under subsection (a) to remain available until expended.
 
->         “(2) __Rescission.—__ 
+>         “(2)  __Rescission__  __.—__ 
 
 >         Except as provided for in paragraph (1), amounts appropriated under section 1322(g) of the Patient Protection and Affordable Care Act ([42 U.S.C. 18042(g)][/us/usc/t42/s18042/g]) that are unobligated as of the date of enactment of this Act \[Jan. 2, 2013\] are rescinded.”
 

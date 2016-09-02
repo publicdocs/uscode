@@ -361,11 +361,11 @@
 
 [Pub. L. 110–351, title VI, § 601][/us/pl/110/351/s601], Oct. 7, 2008, [122 Stat. 3981][/us/stat/122/3981], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this Act \[see Short Title of 2008 Amendment note set out under [section 1305 of this title][/us/usc/t42/s1305]\], each amendment made by this Act to part B or E of title IV of the Social Security Act \[[42 U.S.C. 620][/us/usc/t42/s620] et seq., 670 et seq.\] shall take effect on the date of the enactment of this Act \[Oct. 7, 2008\], and shall apply to payments under the part amended for quarters beginning on or after the effective date of the amendment.
 
->     “(b) __Delay Permitted if State Legislation Required.—__ 
+>     “(b)  __Delay Permitted if State Legislation Required__  __.—__ 
 
 >     In the case of a State plan approved under part B or E of title IV of the Social Security Act \[[42 U.S.C. 620][/us/usc/t42/s620] et seq., 670 et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by this Act, the State plan shall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet such additional requirements before the 1st day of the 1st calendar quarter beginning after the close of the 1st regular session of the State legislature that ends after the 1-year period beginning with the date of the enactment of this Act \[Oct. 7, 2008\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.”
 
@@ -377,15 +377,15 @@
 
 [Pub. L. 109–248, title I, § 152(c)][/us/pl/109/248/s152/c], July 27, 2006, [120 Stat. 609][/us/stat/120/609], provided that:
 
->     “(1) __General.—__ 
+>     “(1)  __General__  __.—__ 
 
 >     The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2006, and shall apply with respect to payments under part E of title IV of the Social Security Act \[[42 U.S.C. 670][/us/usc/t42/s670] et seq.\] for calendar quarters beginning on or after such date, without regard to whether regulations to implement the amendments are promulgated by such date.
 
->     “(2) __Elimination of opt-out.—__ 
+>     “(2)  __Elimination of opt-out__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending this section\] shall take effect on October 1, 2008, and shall apply with respect to payments under part E of title IV of the Social Security Act for calendar quarters beginning on or after such date, without regard to whether regulations to implement the amendments are promulgated by such date.
 
->     “(3) __Delay permitted if state legislation required.—__ 
+>     “(3)  __Delay permitted if state legislation required__  __.—__ 
 
 >     If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under section 471 of the Social Security Act \[[42 U.S.C. 671][/us/usc/t42/s671]\] to meet the additional requirements imposed by the amendments made by a subsection of this section, the plan shall not be regarded as failing to meet any of the additional requirements before the first day of the first calendar quarter beginning after the first regular session of the State legislature that begins after the otherwise applicable effective date of the amendments. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.”
 
@@ -437,11 +437,11 @@
 
 [Pub. L. 100–485, title II, § 204][/us/pl/100/485/s204], Oct. 13, 1988, [102 Stat. 2381][/us/stat/102/2381], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), the amendments made by this title \[enacting sections 681 to 687 of this title, amending this section, sections 602, 603, 607, 1308, 1396a, and 1396s of this title, and [section 51 of Title 26][/us/usc/t26/s51], Internal Revenue Code, repealing sections 609, 614, 630 to 632, and 633 to 645 of this title, and enacting provisions set out as notes under [section 681 of this title][/us/usc/t42/s681]\] shall become effective on October 1, 1990.
 
->     “(b) __Special Rules.—__ 
+>     “(b)  __Special Rules__  __.—__ 
 
 >         (1)
 
@@ -473,21 +473,21 @@
 
 [Pub. L. 110–351, title III, § 301(e)][/us/pl/110/351/s301/e], Oct. 7, 2008, [122 Stat. 3970][/us/stat/122/3970], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2) of this subsection, not later than 1 year after the date of enactment of this section \[Oct. 7, 2008\], the Secretary of Health and Human Services, in consultation with Indian tribes, tribal organizations, tribal consortia, and affected States, shall promulgate interim final regulations to carry out this section \[enacting [section 679c of this title][/us/usc/t42/s679c] and amending this section and sections 672, 674, and 677 of this title\] and the amendments made by this section. Such regulations shall include procedures to ensure that a transfer of responsibility for the placement and care of a child under a State plan approved under section 471 of the Social Security Act \[[42 U.S.C. 671][/us/usc/t42/s671]\] to a tribal plan approved under section 471 of such Act in accordance with section 479B of such Act \[[42 U.S.C. 679c][/us/usc/t42/s679c]\] (as added by subsection (a)(1) of this section) or to an Indian tribe, a tribal organization, or a tribal consortium that has entered into a cooperative agreement or contract with a State for the administration or payment of funds under part E of title IV of such Act \[[42 U.S.C. 670][/us/usc/t42/s670] et seq.\] does not affect the eligibility of, provision of services for, or the making of payments on behalf of, such children under part E of title IV of such Act, or the eligibility of such children for medical assistance under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\].
 
 >     “(2) __In-kind expenditures from third-party sources for purposes of determining non-federal share of administrative and training expenditures.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Subject to subparagraph (B) of this paragraph, not later than September 30, 2011, the Secretary of Health and Human Services, in consultation with Indian tribes, tribal organizations, and tribal consortia, shall promulgate interim final regulations specifying the types of in-kind expenditures, including plants, equipment, administration, and services, and the third-party sources for such in-kind expenditures which may be claimed by tribes, organizations, and consortia with plans approved under section 471 of the Social Security Act \[[42 U.S.C. 671][/us/usc/t42/s671]\] in accordance with section 479B of such Act \[[42 U.S.C. 679c][/us/usc/t42/s679c]\], up to such percentages as the Secretary, in such consultation shall specify in such regulations, for purposes of determining the non-Federal share of administrative and training expenditures for which the tribes, organizations, and consortia may receive payments for \[sic\] under any subparagraph of section 474(a)(3) of such Act \[[42 U.S.C. 674(a)(3)][/us/usc/t42/s674/a/3]\].
 
->         “(B) __Effective date.—__ 
+>         “(B)  __Effective date__  __.—__ 
 
 >         In no event shall the regulations required to be promulgated under subparagraph (A) take effect prior to October 1, 2011.
 
->         “(C) __Sense of the congress.—__ 
+>         “(C)  __Sense of the congress__  __.—__ 
 
 >         It is the sense of the Congress that if the Secretary of Health and Human Services fails to publish in the Federal Register the regulations required under subparagraph (A) of this paragraph, the Congress should enact legislation specifying the types of in-kind expenditures and the third-party sources for such in-kind expenditures which may be claimed by tribes, organizations, and consortia with plans approved under section 471 of the Social Security Act \[[42 U.S.C. 671][/us/usc/t42/s671]\] in accordance with section 479B of such Act \[[42 U.S.C. 679c][/us/usc/t42/s679c]\], up to specific percentages, for purposes of determining the non-Federal share of administrative and training expenditures for which the tribes, organizations, and consortia may receive payments for \[sic\] under any subparagraph of section 474(a)(3) of such Act \[[42 U.S.C. 674(a)(3)][/us/usc/t42/s674/a/3]\].”
 
@@ -533,11 +533,11 @@
 
 [Pub. L. 105–89, title IV, § 406][/us/pl/105/89/s406], Nov. 19, 1997, [111 Stat. 2135][/us/stat/111/2135], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     It is the sense of the Congress that, to the greatest extent practicable, all equipment and products purchased with funds made available under this Act \[see Short Title of 1997 Amendment note set out under [section 1305 of this title][/us/usc/t42/s1305]\] should be American-made.
 
->     “(b) __Notice Requirement.—__ 
+>     “(b)  __Notice Requirement__  __.—__ 
 
 >     In providing financial assistance to, or entering into any contract with, any entity using funds made available under this Act, the head of each Federal agency, to the greatest extent practicable, shall provide to such entity a notice describing the statement made in subsection (a) by the Congress.”
 
