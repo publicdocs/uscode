@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t12/ch53/schI/ptC/m__us_usc_t12_s5371.md) | [Next](./../../../../../..//us/usc/t12/ch53/schI/ptC/m__us_usc_t12_s5373.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5372)
 
-## § 5372. Rule of construction
+## § 5372.Rule of construction
 
     Nothing in this Act shall be construed to limit or curtail the Corporation’s current authority to examine or bring enforcement actions with respect to any insured depository institution or institution-affiliated party.
 
