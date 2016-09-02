@@ -123,6 +123,40 @@
 
 > “This title \[enacting this chapter and amending [section 42 of Title 18][/us/usc/t18/s42], Crimes and Criminal Procedure\] may be cited as the ‘Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990’.”
 
+ __Aquatic Invasive Species Prevention__ 
+
+[Pub. L. 113–121, title I, § 1039(b)][/us/pl/113/121/s1039/b], June 10, 2014, [128 Stat. 1237][/us/stat/128/1237], provided that:
+
+>     “(1) __Multiagency effort to slow the spread of asian carp in the upper mississippi and ohio river basins and tributaries.—__ 
+
+>         “(A)  __In general__  __.—__ 
+
+>         The Director of the United States Fish and Wildlife Service, in coordination with the Secretary \[of the Army\], the Director of the National Park Service, and the Director of the United States Geological Survey, shall lead a multiagency effort to slow the spread of Asian carp in the Upper Mississippi and Ohio River basins and tributaries by providing technical assistance, coordination, best practices, and support to State and local governments in carrying out activities designed to slow, and eventually eliminate, the threat posed by Asian carp.
+
+>         “(B)  __Best practices__  __.—__ 
+
+>         To the maximum extent practicable, the multiagency effort shall apply lessons learned and best practices such as those described in the document prepared by the Asian Carp Working Group entitled ‘Management and Control Plan for Bighead, Black, Grass, and Silver Carps in the United States’ and dated November 2007, and the document prepared by the Asian Carp Regional Coordinating Committee entitled ‘FY 2012 Asian Carp Control Strategy Framework’ and dated February 2012.
+
+>     “(2) __Report to congress.—__ 
+
+>         “(A)  __In general__  __.—__ 
+
+>         Not later than December 31 of each year, the Director of the United States Fish and Wildlife Service, in coordination with the Secretary, shall submit to the Committee on Appropriations and the Committee on Environment and Public Works of the Senate and the Committee on Appropriations, the Committee on Natural Resources, and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report describing the coordinated strategies established and progress made toward the goals of controlling and eliminating Asian carp in the Upper Mississippi and Ohio River basins and tributaries.
+
+>         “(B)  __Contents__  __.—__ 
+
+>         Each report submitted under subparagraph (A) shall include—
+
+>             “(i) any observed changes in the range of Asian carp in the Upper Mississippi and Ohio River basins and tributaries during the 2-year period preceding submission of the report;
+
+>             “(ii) a summary of Federal agency efforts, including cooperative efforts with non-Federal partners, to control the spread of Asian carp in the Upper Mississippi and Ohio River basins and tributaries;
+
+>             “(iii) any research that the Director determines could improve the ability to control the spread of Asian carp;
+
+>             “(iv) any quantitative measures that the Director intends to use to document progress in controlling the spread of Asian carp; and
+
+>             “(v) a cross-cut accounting of Federal and non-Federal expenditures to control the spread of Asian carp.”
+
  __Construction of 1996 Amendment__ 
 
 [Pub. L. 104–332, § 3][/us/pl/104/332/s3], Oct. 26, 1996, [110 Stat. 4092][/us/stat/110/4092], provided that: 
@@ -171,6 +205,8 @@
 [/us/pl/104/332/s2/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fh%2F1
 [/us/stat/110/4091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4091
 [/us/usc/t18/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs42
+[/us/pl/113/121/s1039/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1039%2Fb
+[/us/stat/128/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1237
 [/us/pl/104/332/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs3
 [/us/stat/110/4092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4092
 [/us/usc/t16/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs931

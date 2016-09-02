@@ -109,6 +109,12 @@
 
     The National Parks Omnibus Management Act of 1998, referred to in subsec. (f)(1), is [Pub. L. 105–391][/us/pl/105/391], Nov. 13, 1998, [112 Stat. 3497][/us/stat/112/3497], as amended. Title VI of the Act was classified generally to subchapter V (§ 5991 et seq.) of chapter 79 of this title, prior to repeal by [Pub. L. 108–447, div. J, title VIII, § 813(d)(2)][/us/pl/108/447/s813/d/2], Dec. 8, 2004, [118 Stat. 3391][/us/stat/118/3391]. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of this title][/us/usc/t16/s5901] and Tables.
 
+ __America the Beautiful National Parks and Federal Recreational Lands Pass Program__ 
+
+[Pub. L. 113–121, title I, § 1048][/us/pl/113/121/s1048], June 10, 2014, [128 Stat. 1257][/us/stat/128/1257], provided that: 
+
+> “The Secretary \[of the Army\] may participate in the America the Beautiful National Parks and Federal Recreational Lands Pass program in the same manner as the National Park Service, the Bureau of Land Management, the United States Fish and Wildlife Service, the Forest Service, and the Bureau of Reclamation, including the provision of free annual passes to active duty military personnel and dependents.”
+
 ----------
 
 [Previous](./../../../..//us/usc/t16/ch87/m__us_usc_t16_s6803.md) | [Next](./../../../..//us/usc/t16/ch87/m__us_usc_t16_s6805.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6804)
@@ -129,5 +135,7 @@
 [/us/pl/108/447/s813/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs813%2Fd%2F2
 [/us/stat/118/3391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3391
 [/us/usc/t16/s5901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5901
+[/us/pl/113/121/s1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1048
+[/us/stat/128/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1257
 
 

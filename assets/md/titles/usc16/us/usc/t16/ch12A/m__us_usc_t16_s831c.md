@@ -85,6 +85,12 @@
 
     Authority of President under subsec. (k) of this section to approve transfers under subsecs. (a) and (c) of this section, other than leases for terms of less than 20 years and conveyances of property having a value not in excess of $500, delegated to Administrator of General Services, see section 1(16) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under [section 301 of Title 3][/us/usc/t3/s301], The President.
 
+ __Release of Use Restrictions__ 
+
+[Pub. L. 113–121, title VI, § 6005(h)][/us/pl/113/121/s6005/h], June 10, 2014, [128 Stat. 1360][/us/stat/128/1360], provided that: 
+
+> “Notwithstanding any other provision of law, the Tennessee Valley Authority shall, without monetary consideration, grant releases from real estate restrictions established pursuant to section 4(k)(b) of the Tennessee Valley Authority Act of 1933 ([16 U.S.C. 831c(k)(b)][/us/usc/t16/s831c/k/b]) with respect to tracts of land identified in section 4(k)(b) of that Act, subject to the condition that such releases shall be granted in a manner consistent with applicable Tennessee Valley Authority policies.”
+
 ----------
 
 [Previous](./../../../..//us/usc/t16/ch12A/m__us_usc_t16_s831b–1.md) | [Next](./../../../..//us/usc/t16/ch12A/m__us_usc_t16_s831c–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs831c)
@@ -118,5 +124,8 @@
 [/us/pl/108/447/s604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs604%2Fb
 [/us/usc/t16/s831a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs831a
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
+[/us/pl/113/121/s6005/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs6005%2Fh
+[/us/stat/128/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1360
+[/us/usc/t16/s831c/k/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs831c%2Fk%2Fb
 
 
