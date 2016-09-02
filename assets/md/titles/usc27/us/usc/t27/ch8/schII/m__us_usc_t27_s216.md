@@ -17,7 +17,7 @@
 
     No statement relating to alcoholic beverages and health, other than the statement required by [section 215 of this title][/us/usc/t27/s215], shall be required under State law to be placed on any container of an alcoholic beverage, or on any box, carton, or other package, irrespective of the material from which made, that contains such a container.
 
-([Aug. 29, 1935, ch. 814][/us/act/1935-08-29/ch814], title II, § 205, as added [Pub. L. 100–690, title VIII, § 8001(a)(3)][/us/pl/100/690/s8001/a/3], Nov. 18, 1988, [102 Stat. 4520][/us/stat/102/4520].)
+([Aug. 29, 1935, ch. 814][/us/act/1935-08-29/ch814], title II, § 205, as added [Pub. L. 100–690, title VIII][/us/pl/100/690/tVIII], § 8001(a)(3), Nov. 18, 1988, [102 Stat. 4520][/us/stat/102/4520].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t27/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs215
 [/us/act/1935-08-29/ch814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch814
-[/us/pl/100/690/s8001/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs8001%2Fa%2F3
+[/us/pl/100/690/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVIII
 [/us/stat/102/4520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4520
 
 

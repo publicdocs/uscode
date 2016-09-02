@@ -29,11 +29,11 @@
 
         (3) authorize an injunction prohibiting the advertising or marketing of any intoxicating liquor by any person in any case in which such advertising or marketing is lawful in the jurisdiction from which the importation, transportation or other conduct to which this Act applies originates.
 
-([Mar. 1, 1913, ch. 90][/us/act/1913-03-01/ch90], §  3, as added [Pub. L. 106–386, div. C, § 2004(a)][/us/pl/106/386/s2004/a], Oct. 28, 2000, [114 Stat. 1548][/us/stat/114/1548].)
+([Mar. 1, 1913, ch. 90][/us/act/1913-03-01/ch90], §  3, as added [Pub. L. 106–386, div. C][/us/pl/106/386/dC], § 2004(a), Oct. 28, 2000, [114 Stat. 1548][/us/stat/114/1548].)
 
  __References in Text__ 
 
-    The Internet Tax Freedom Act, referred to in subsec. (a), is title XI of [Pub. L. 105–277, div. C][/us/pl/105/277], Oct. 21, 1998, [112 Stat. 2681–719][/us/stat/112/2681-719], which is set out as a note under [section 151 of Title 47][/us/usc/t47/s151], Telecommunications.
+    The Internet Tax Freedom Act, referred to in subsec. (a), is title XI of [Pub. L. 105–277, div. C][/us/pl/105/277/dC], Oct. 21, 1998, [112 Stat. 2681–719][/us/stat/112/2681-719], which is set out as a note under [section 151 of Title 47][/us/usc/t47/s151], Telecommunications.
 
     This Act, referred to in subsec. (b), is [act Mar. 1, 1913, ch. 90][/us/act/1913-03-01/ch90], [37 Stat. 699][/us/stat/37/699], as amended, popularly known as the Webb-Kenyon Act, which is classified to this section and sections 122 and 122a of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -52,9 +52,9 @@
 [/us/usc/t47/s230/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs230%2Ff
 [/us/usc/t18/s2510/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2510%2F15
 [/us/act/1913-03-01/ch90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-01%2Fch90
-[/us/pl/106/386/s2004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs2004%2Fa
+[/us/pl/106/386/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdC
 [/us/stat/114/1548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1548
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC
 [/us/stat/112/2681-719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-719
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
 [/us/act/1913-03-01/ch90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-01%2Fch90

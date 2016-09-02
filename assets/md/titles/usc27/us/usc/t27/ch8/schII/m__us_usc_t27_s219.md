@@ -19,7 +19,7 @@
 
     (b) The Secretary is authorized, with respect to any violation of this subchapter, to compromise the liability arising with respect to such violation upon payment of a sum for each offense, to be collected by the Secretary and to be paid into the Treasury as miscellaneous receipts.
 
-([Aug. 29, 1935, ch. 814][/us/act/1935-08-29/ch814], title II, § 208, as added [Pub. L. 100–690, title VIII, § 8001(a)(3)][/us/pl/100/690/s8001/a/3], Nov. 18, 1988, [102 Stat. 4520][/us/stat/102/4520].)
+([Aug. 29, 1935, ch. 814][/us/act/1935-08-29/ch814], title II, § 208, as added [Pub. L. 100–690, title VIII][/us/pl/100/690/tVIII], § 8001(a)(3), Nov. 18, 1988, [102 Stat. 4520][/us/stat/102/4520].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/act/1935-08-29/ch814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch814
-[/us/pl/100/690/s8001/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs8001%2Fa%2F3
+[/us/pl/100/690/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVIII
 [/us/stat/102/4520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4520
 
 

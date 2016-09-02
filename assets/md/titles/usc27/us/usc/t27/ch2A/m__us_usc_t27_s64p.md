@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t27/ch2A/m__us_usc_t27_ch2A.md) | [Next](./../../../..//us/usc/t27/ch3/m__us_usc_t27_ch3.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs64p)
+[Previous](./../../../..//us/usc/t27/ch2A/m__us_usc_t27_s64a...64o.md) | [Next](./../../../..//us/usc/t27/ch3/m__us_usc_t27_ch3.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs64p)
 
 ## § 64p. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t27/ch2A/m__us_usc_t27_ch2A.md) | [Next](./../../../..//us/usc/t27/ch3/m__us_usc_t27_ch3.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs64p)
+[Previous](./../../../..//us/usc/t27/ch2A/m__us_usc_t27_s64a...64o.md) | [Next](./../../../..//us/usc/t27/ch3/m__us_usc_t27_ch3.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs64p)
 
 ----------
 ----------

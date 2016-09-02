@@ -43,7 +43,7 @@
 
         (2) consult and coordinate the health awareness efforts of the labeling requirements of this subchapter with the Surgeon General of the United States.
 
-([Aug. 29, 1935, ch. 814][/us/act/1935-08-29/ch814], title II, § 204, as added [Pub. L. 100–690, title VIII, § 8001(a)(3)][/us/pl/100/690/s8001/a/3], Nov. 18, 1988, [102 Stat. 4519][/us/stat/102/4519].)
+([Aug. 29, 1935, ch. 814][/us/act/1935-08-29/ch814], title II, § 204, as added [Pub. L. 100–690, title VIII][/us/pl/100/690/tVIII], § 8001(a)(3), Nov. 18, 1988, [102 Stat. 4519][/us/stat/102/4519].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/act/1935-08-29/ch814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch814
-[/us/pl/100/690/s8001/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs8001%2Fa%2F3
+[/us/pl/100/690/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVIII
 [/us/stat/102/4519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4519
 
 

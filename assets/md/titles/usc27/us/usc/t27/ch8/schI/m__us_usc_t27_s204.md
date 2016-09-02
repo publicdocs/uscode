@@ -55,7 +55,7 @@
 
         No proceeding for the suspension or revocation of a basic permit for violation of any condition thereof relating to compliance with Federal law shall be instituted by the Secretary more than eighteen months after conviction of the violation of Federal law, or, if no conviction has been had, more than three years after the violation occurred; and no basic permit shall be suspended or revoked for a violation of any such condition thereof if the alleged violation of Federal law has been compromised by any officer of the Government authorized to compromise such violation.
 
-([Aug. 29, 1935, ch. 814][/us/act/1935-08-29/ch814], title I, § 104, formerly § 4, [49 Stat. 978][/us/stat/49/978]; 1940 Reorg. Plan No. III, § 2, eff. June 30, 1940, 5 F.R. 2108, [54 Stat. 1232][/us/stat/54/1232]; [June 25, 1948, ch. 646, § 32(a)][/us/act/1948-06-25/ch646/s32/a], [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139, § 127][/us/act/1949-05-24/ch139/s127], [63 Stat. 107][/us/stat/63/107]; [Pub. L. 85–791, § 14][/us/pl/85/791/s14], Aug. 28, 1958, [72 Stat. 946][/us/stat/72/946]; renumbered title I, § 104, and amended [Pub. L. 100–690, title VIII, § 8001(a)(1)][/us/pl/100/690/s8001/a/1], (2), (b)(2), (3), Nov. 18, 1988, [102 Stat. 4517][/us/stat/102/4517], 4521.)
+([Aug. 29, 1935, ch. 814][/us/act/1935-08-29/ch814], title I, § 104, formerly § 4, [49 Stat. 978][/us/stat/49/978]; 1940 Reorg. Plan No. III, § 2, eff. June 30, 1940, 5 F.R. 2108, [54 Stat. 1232][/us/stat/54/1232]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 32(a), [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 127, [63 Stat. 107][/us/stat/63/107]; [Pub. L. 85–791][/us/pl/85/791], § 14, Aug. 28, 1958, [72 Stat. 946][/us/stat/72/946]; renumbered title I, § 104, and amended [Pub. L. 100–690, title VIII][/us/pl/100/690/tVIII], § 8001(a)(1), (2), (b)(2), (3), Nov. 18, 1988, [102 Stat. 4517][/us/stat/102/4517], 4521.)
 
  __Codification__ 
 
@@ -63,9 +63,9 @@
 
  __Amendments__ 
 
-    1988—Subsec. (c). [Pub. L. 100–690, § 8001(b)(2)][/us/pl/100/690/s8001/b/2], substituted “subchapter” for “chapter” wherever appearing.
+    1988—Subsec. (c). [Pub. L. 100–690][/us/pl/100/690], § 8001(b)(2), substituted “subchapter” for “chapter” wherever appearing.
 
-    Subsec. (d). [Pub. L. 100–690, § 8001(b)(3)][/us/pl/100/690/s8001/b/3], made technical amendment to references to sections 205 and 206 of this title to reflect renumbering of corresponding sections of original act.
+    Subsec. (d). [Pub. L. 100–690][/us/pl/100/690], § 8001(b)(3), made technical amendment to references to sections 205 and 206 of this title to reflect renumbering of corresponding sections of original act.
 
     1958—Subsec. (h). [Pub. L. 85–791][/us/pl/85/791], in third sentence, substituted “transmitted by the clerk of the court to the Secretary, or” for “served upon, the Secretary, or upon any”, substituted “file in the court” for “certify and file in the court a transcript of”, and inserted “as provided in [section 2112 of title 28][/us/usc/t28/s2112]”, and in fourth sentence, substituted “petition” for “transcript”.
 
@@ -79,7 +79,7 @@
 
  __Applicability of Administrative Procedure Act__ 
 
-[Pub. L. 85–791, § 35][/us/pl/85/791/s35], Aug. 28, 1958, [72 Stat. 951][/us/stat/72/951], provided that: 
+[Pub. L. 85–791][/us/pl/85/791], § 35, Aug. 28, 1958, [72 Stat. 951][/us/stat/72/951], provided that: 
 
 > “This Act shall not be construed to repeal or modify any provision of the Administrative Procedure Act \[see Short Title note preceding [section 551 of Title 5][/us/usc/t5/s551], Government Organization and Employees\].”
 
@@ -97,23 +97,23 @@
 [/us/act/1935-08-29/ch814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch814
 [/us/stat/49/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F978
 [/us/stat/54/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1232
-[/us/act/1948-06-25/ch646/s32/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs32%2Fa
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F991
-[/us/act/1949-05-24/ch139/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs127
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F107
-[/us/pl/85/791/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs14
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/stat/72/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F946
-[/us/pl/100/690/s8001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs8001%2Fa%2F1
+[/us/pl/100/690/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVIII
 [/us/stat/102/4517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4517
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F869
-[/us/pl/100/690/s8001/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs8001%2Fb%2F2
-[/us/pl/100/690/s8001/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs8001%2Fb%2F3
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t27/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs201
-[/us/pl/85/791/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs35
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/stat/72/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F951
 [/us/usc/t5/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551
 

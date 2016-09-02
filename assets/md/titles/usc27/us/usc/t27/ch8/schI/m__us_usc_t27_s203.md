@@ -45,7 +45,7 @@
 
         This section shall not apply to any agency of a State or political subdivision thereof or any officer or employee of any such agency, and no such agency or officer or employee shall be required to obtain a basic permit under this subchapter.
 
-([Aug. 29, 1935, ch. 814][/us/act/1935-08-29/ch814], title I, § 103, formerly § 3, [49 Stat. 978][/us/stat/49/978]; [Feb. 29, 1936, ch. 105, § 1][/us/act/1936-02-29/ch105/s1], [49 Stat. 1152][/us/stat/49/1152]; 1940 Reorg. Plan No. III, § 2, eff. June 30, 1940, 5 F.R. 2108, [54 Stat. 1232][/us/stat/54/1232]; renumbered title I, § 103, and amended [Pub. L. 100–690, title VIII, § 8001(a)(1)][/us/pl/100/690/s8001/a/1], (2), (b)(2), Nov. 18, 1988, [102 Stat. 4517][/us/stat/102/4517], 4521.)
+([Aug. 29, 1935, ch. 814][/us/act/1935-08-29/ch814], title I, § 103, formerly § 3, [49 Stat. 978][/us/stat/49/978]; [Feb. 29, 1936, ch. 105][/us/act/1936-02-29/ch105], § 1, [49 Stat. 1152][/us/stat/49/1152]; 1940 Reorg. Plan No. III, § 2, eff. June 30, 1940, 5 F.R. 2108, [54 Stat. 1232][/us/stat/54/1232]; renumbered title I, § 103, and amended [Pub. L. 100–690, title VIII][/us/pl/100/690/tVIII], § 8001(a)(1), (2), (b)(2), Nov. 18, 1988, [102 Stat. 4517][/us/stat/102/4517], 4521.)
 
  __Codification__ 
 
@@ -53,7 +53,7 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–690, § 8001(b)(2)][/us/pl/100/690/s8001/b/2], substituted “subchapter” for “chapter” wherever appearing.
+    1988—[Pub. L. 100–690][/us/pl/100/690], § 8001(b)(2), substituted “subchapter” for “chapter” wherever appearing.
 
     1936—Subsec. (c). Act Feb. 29, 1936, extended the effective date from March 1, 1936, to July 1, 1936.
 
@@ -70,12 +70,12 @@
 
 [/us/act/1935-08-29/ch814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch814
 [/us/stat/49/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F978
-[/us/act/1936-02-29/ch105/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-02-29%2Fch105%2Fs1
+[/us/act/1936-02-29/ch105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-02-29%2Fch105
 [/us/stat/49/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1152
 [/us/stat/54/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1232
-[/us/pl/100/690/s8001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs8001%2Fa%2F1
+[/us/pl/100/690/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVIII
 [/us/stat/102/4517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4517
-[/us/pl/100/690/s8001/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs8001%2Fb%2F2
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t27/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs201
 
 

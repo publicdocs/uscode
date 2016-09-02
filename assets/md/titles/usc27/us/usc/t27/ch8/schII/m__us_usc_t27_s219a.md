@@ -17,7 +17,7 @@
 
     If any provision of this subchapter or the application thereof to any person or circumstance is held invalid, the validity of the remainder of this subchapter and this chapter and of the application of such provision to other persons and circumstances shall not be affected thereby.
 
-([Aug. 29, 1935, ch. 814][/us/act/1935-08-29/ch814], title II, § 209, as added [Pub. L. 100–690, title VIII, § 8001(a)(3)][/us/pl/100/690/s8001/a/3], Nov. 18, 1988, [102 Stat. 4521][/us/stat/102/4521].)
+([Aug. 29, 1935, ch. 814][/us/act/1935-08-29/ch814], title II, § 209, as added [Pub. L. 100–690, title VIII][/us/pl/100/690/tVIII], § 8001(a)(3), Nov. 18, 1988, [102 Stat. 4521][/us/stat/102/4521].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1935-08-29/ch814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch814
-[/us/pl/100/690/s8001/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs8001%2Fa%2F3
+[/us/pl/100/690/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVIII
 [/us/stat/102/4521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4521
 
 

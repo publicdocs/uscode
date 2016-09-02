@@ -33,7 +33,7 @@
 
         The term “in bulk” mean in containers having a capacity in excess of one wine gallon.
 
-([Aug. 29, 1935, ch. 814][/us/act/1935-08-29/ch814], title I, § 106, formerly § 6, [49 Stat. 985][/us/stat/49/985]; 1940 Reorg. Plan No. III, § 2, eff. June 30, 1940, 5 F.R. 2108, [54 Stat. 1232][/us/stat/54/1232]; renumbered title I, § 106, [Pub. L. 100–690, title VIII, § 8001(a)(1)][/us/pl/100/690/s8001/a/1], (2), Nov. 18, 1988, [102 Stat. 4517][/us/stat/102/4517].)
+([Aug. 29, 1935, ch. 814][/us/act/1935-08-29/ch814], title I, § 106, formerly § 6, [49 Stat. 985][/us/stat/49/985]; 1940 Reorg. Plan No. III, § 2, eff. June 30, 1940, 5 F.R. 2108, [54 Stat. 1232][/us/stat/54/1232]; renumbered title I, § 106, [Pub. L. 100–690, title VIII][/us/pl/100/690/tVIII], § 8001(a)(1), (2), Nov. 18, 1988, [102 Stat. 4517][/us/stat/102/4517].)
 
  __Transfer of Functions__ 
 
@@ -49,7 +49,7 @@
 [/us/act/1935-08-29/ch814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch814
 [/us/stat/49/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F985
 [/us/stat/54/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1232
-[/us/pl/100/690/s8001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs8001%2Fa%2F1
+[/us/pl/100/690/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVIII
 [/us/stat/102/4517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4517
 [/us/usc/t27/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs201
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s208.md) | [Next](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s212.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs211)
+[Previous](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s209 _us_usc_t27_s210.md) | [Next](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s212.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs211)
 
 ## § 211. Miscellaneous provisions
 
@@ -43,7 +43,7 @@
 
         If any provision of this subchapter, or the application of such provision to any person or circumstance, is held invalid, the remainder of the chapter and the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.
 
-([Aug. 29, 1935, ch. 814][/us/act/1935-08-29/ch814], title I, § 117, formerly § 17, [49 Stat. 989][/us/stat/49/989]; 1940 Reorg. Plan No. III, § 2, eff. June 30, 1940, 5 F.R. 2108, [54 Stat. 1232][/us/stat/54/1232]; renumbered title I, § 117, and amended [Pub. L. 100–690, title VIII, § 8001(a)(1)][/us/pl/100/690/s8001/a/1], (2), (b)(2), Nov. 18, 1988, [102 Stat. 4517][/us/stat/102/4517], 4521.)
+([Aug. 29, 1935, ch. 814][/us/act/1935-08-29/ch814], title I, § 117, formerly § 17, [49 Stat. 989][/us/stat/49/989]; 1940 Reorg. Plan No. III, § 2, eff. June 30, 1940, 5 F.R. 2108, [54 Stat. 1232][/us/stat/54/1232]; renumbered title I, § 117, and amended [Pub. L. 100–690, title VIII][/us/pl/100/690/tVIII], § 8001(a)(1), (2), (b)(2), Nov. 18, 1988, [102 Stat. 4517][/us/stat/102/4517], 4521.)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–690, § 8001(b)(2)][/us/pl/100/690/s8001/b/2], substituted “this subchapter” for “this chapter” wherever appearing.
+    1988—[Pub. L. 100–690][/us/pl/100/690], § 8001(b)(2), substituted “this subchapter” for “this chapter” wherever appearing.
 
  __Admission of Alaska and Hawaii to Statehood__ 
 
@@ -63,7 +63,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s208.md) | [Next](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s212.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs211)
+[Previous](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s209 _us_usc_t27_s210.md) | [Next](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s212.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs211)
 
 ----------
 ----------
@@ -71,13 +71,13 @@
 [/us/act/1935-08-29/ch814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch814
 [/us/stat/49/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F989
 [/us/stat/54/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1232
-[/us/pl/100/690/s8001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs8001%2Fa%2F1
+[/us/pl/100/690/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVIII
 [/us/stat/102/4517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4517
 [/us/act/1919-02-24/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-24%2Fch18
 [/us/stat/40/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1057
 [/us/usc/t27/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs202
 [/us/usc/t27/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs201
-[/us/pl/100/690/s8001/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs8001%2Fb%2F2
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F339
 [/us/usc/t48/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs21

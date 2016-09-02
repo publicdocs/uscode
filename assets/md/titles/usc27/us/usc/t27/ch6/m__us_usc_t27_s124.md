@@ -31,13 +31,13 @@
 
     (b) __Violations__ 
 
-        If any person fails to meet any of the conditions under subsection (a) of this section, the attorney general of any State may bring a civil action under the same terms as those set out in [section 122a of this title][/us/usc/t27/s122a].
+        If any person fails to meet any of the conditions under subsection (a), the attorney general of any State may bring a civil action under the same terms as those set out in [section 122a of this title][/us/usc/t27/s122a].
 
     (c) __Report__ 
 
         Not later than 2 years after November 2, 2002, and at 2-year intervals thereafter, the Attorney General of the United States, in consultation with the Administrator of the Federal Aviation Administration, shall prepare and submit to the Committee on the Judiciary of the Senate and to the Committee on the Judiciary of the House of Representatives a report on the implementation of this section.
 
-([Pub. L. 107–273, div. C, title I, § 11022][/us/pl/107/273/s11022], Nov. 2, 2002, [116 Stat. 1829][/us/stat/116/1829].)
+([Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11022, Nov. 2, 2002, [116 Stat. 1829][/us/stat/116/1829].)
 
 ----------
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t27/s122a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs122a
-[/us/pl/107/273/s11022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11022
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1829
 
 

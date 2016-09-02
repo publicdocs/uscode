@@ -29,11 +29,11 @@
 
         (C) protected from the adverse effects that would result from a noncomprehensive program covering alcoholic beverage containers sold in interstate commerce, but not alcoholic beverage containers manufactured and sold within a single State.
 
-([Aug. 29, 1935, ch. 814][/us/act/1935-08-29/ch814], title II, § 202, as added [Pub. L. 100–690, title VIII, § 8001(a)(3)][/us/pl/100/690/s8001/a/3], Nov. 18, 1988, [102 Stat. 4518][/us/stat/102/4518].)
+([Aug. 29, 1935, ch. 814][/us/act/1935-08-29/ch814], title II, § 202, as added [Pub. L. 100–690, title VIII][/us/pl/100/690/tVIII], § 8001(a)(3), Nov. 18, 1988, [102 Stat. 4518][/us/stat/102/4518].)
 
  __Effective Date__ 
 
-[Act Aug. 29, 1935, ch. 814][/us/act/1935-08-29/ch814], title II, § 210, as added Nov. 18, 1988, [Pub. L. 100–690, title VIII, § 8001(a)(3)][/us/pl/100/690/s8001/a/3], [102 Stat. 4521][/us/stat/102/4521], provided that: 
+[Act Aug. 29, 1935, ch. 814, title II][/us/act/1935-08-29/ch814/tII], § 210, as added Nov. 18, 1988, [Pub. L. 100–690, title VIII][/us/pl/100/690/tVIII], § 8001(a)(3), [102 Stat. 4521][/us/stat/102/4521], provided that: 
 
 > “Except as provided in section 204(a) \[[27 U.S.C. 215(a)][/us/usc/t27/s215/a]\], this title \[enacting this subchapter\] shall take effect on the date of its enactment into law \[Nov. 18, 1988\].”
 
@@ -49,10 +49,10 @@
 ----------
 
 [/us/act/1935-08-29/ch814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch814
-[/us/pl/100/690/s8001/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs8001%2Fa%2F3
+[/us/pl/100/690/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVIII
 [/us/stat/102/4518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4518
-[/us/act/1935-08-29/ch814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch814
-[/us/pl/100/690/s8001/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs8001%2Fa%2F3
+[/us/act/1935-08-29/ch814/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch814%2FtII
+[/us/pl/100/690/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVIII
 [/us/stat/102/4521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4521
 [/us/usc/t27/s215/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs215%2Fa
 [/us/usc/t27/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs201

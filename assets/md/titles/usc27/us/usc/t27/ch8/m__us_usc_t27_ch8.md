@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t27/ch7/m__us_usc_t27_ch7.md) | [Next](./../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_ch8_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fch8)
+[Previous](./../../../..//us/usc/t27/ch7/m__us_usc_t27_s151...167.md) | [Next](./../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_ch8_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fch8)
 
 ## CHAPTER 8—FEDERAL ALCOHOL ADMINISTRATION ACT
 
@@ -203,7 +203,7 @@ SUBCHAPTER II—ALCOHOLIC BEVERAGE LABELING  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t27/ch7/m__us_usc_t27_ch7.md) | [Next](./../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_ch8_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fch8)
+[Previous](./../../../..//us/usc/t27/ch7/m__us_usc_t27_s151...167.md) | [Next](./../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_ch8_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fch8)
 
 ----------
 ----------

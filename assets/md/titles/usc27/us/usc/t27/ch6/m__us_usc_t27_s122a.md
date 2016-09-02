@@ -57,7 +57,7 @@
 
         (1) __In general__ 
 
-            In any action brought under this section, upon a proper showing by the attorney general of the State, the court may issue a preliminary or permanent injunction to restrain a violation of this section. A proper showing under this paragraph shall require that a State prove by a preponderance of the evidence that a violation of State law as described in subsection (b) of this section has taken place or is taking place.
+            In any action brought under this section, upon a proper showing by the attorney general of the State, the court may issue a preliminary or permanent injunction to restrain a violation of this section. A proper showing under this paragraph shall require that a State prove by a preponderance of the evidence that a violation of State law as described in subsection (b) has taken place or is taking place.
 
         (2) __Additional showing for preliminary injunction__ 
 
@@ -111,17 +111,17 @@
 
             Nothing in this section may be construed to prohibit an authorized State official from proceeding in State court on the basis of an alleged violation of any State law.
 
-([Mar. 1, 1913, ch. 90, § 2][/us/act/1913-03-01/ch90/s2], as added [Pub. L. 106–386, div. C, § 2004(a)][/us/pl/106/386/s2004/a], Oct. 28, 2000, [114 Stat. 1546][/us/stat/114/1546].)
+([Mar. 1, 1913, ch. 90][/us/act/1913-03-01/ch90], § 2, as added [Pub. L. 106–386, div. C][/us/pl/106/386/dC], § 2004(a), Oct. 28, 2000, [114 Stat. 1546][/us/stat/114/1546].)
 
  __Effective Date__ 
 
-[Pub. L. 106–386, div. C, § 2004(b)][/us/pl/106/386/s2004/b], Oct. 28, 2000, [114 Stat. 1548][/us/stat/114/1548], provided that: 
+[Pub. L. 106–386, div. C][/us/pl/106/386/dC], § 2004(b), Oct. 28, 2000, [114 Stat. 1548][/us/stat/114/1548], provided that: 
 
 > “This section \[enacting this section and [section 122b of this title][/us/usc/t27/s122b] and provisions set out as a note under this section\] and the amendments made by this section shall become effective 90 days after the date of the enactment of this Act \[Oct. 28, 2000\].”
 
  __Impact Study__ 
 
-[Pub. L. 106–386, div. C, § 2004(c)][/us/pl/106/386/s2004/c], Oct. 28, 2000, [114 Stat. 1548][/us/stat/114/1548], provided that: 
+[Pub. L. 106–386, div. C][/us/pl/106/386/dC], § 2004(c), Oct. 28, 2000, [114 Stat. 1548][/us/stat/114/1548], provided that: 
 
 > “The Attorney General shall carry out the study to determine the impact of this section \[enacting this section and [section 122b of this title][/us/usc/t27/s122b] and provisions set out as a note under this section\] and shall submit the results of such study not later than 180 days after the enactment of this Act \[Oct. 28, 2000\].”
 
@@ -134,13 +134,13 @@
 
 [/us/usc/t28/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1391
 [/us/usc/t27/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs122
-[/us/act/1913-03-01/ch90/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-01%2Fch90%2Fs2
-[/us/pl/106/386/s2004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs2004%2Fa
+[/us/act/1913-03-01/ch90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-01%2Fch90
+[/us/pl/106/386/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdC
 [/us/stat/114/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1546
-[/us/pl/106/386/s2004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs2004%2Fb
+[/us/pl/106/386/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdC
 [/us/stat/114/1548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1548
 [/us/usc/t27/s122b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs122b
-[/us/pl/106/386/s2004/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs2004%2Fc
+[/us/pl/106/386/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdC
 [/us/stat/114/1548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1548
 [/us/usc/t27/s122b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs122b
 
