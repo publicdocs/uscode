@@ -2769,6 +2769,8 @@
 
 Similar provisions were contained in the following prior acts:
 
+    [Pub. L. 113–76, div. K, title VII, § 7031(c)][/us/pl/113/76/s7031/c], Jan. 17, 2014, [128 Stat. 511][/us/stat/128/511].
+
     [Pub. L. 111–117, div. F, title VII, § 7084][/us/pl/111/117/s7084], Dec. 16, 2009, [123 Stat. 3400][/us/stat/123/3400].
 
     [Pub. L. 111–8, div. H, title VII, § 7086][/us/pl/111/8/s7086], Mar. 11, 2009, [123 Stat. 912][/us/stat/123/912].
@@ -4268,6 +4270,8 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/112/74/s7031/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7031%2Fc
 [/us/stat/125/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1211
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/113/76/s7031/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7031%2Fc
+[/us/stat/128/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F511
 [/us/pl/111/117/s7084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs7084
 [/us/stat/123/3400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3400
 [/us/pl/111/8/s7086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs7086
