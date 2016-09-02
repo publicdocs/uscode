@@ -51,7 +51,7 @@
 
 [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title IX, § 902(a), (b)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–119, provided that:
 
->     “(a) __Purposes.—__ 
+>     “(a)  __Purposes__  __.—__ 
 
 >     The purposes of this section \[amending sections 669a, 669b, 669c, 669g, and 4406 of this title, and enacting provisions set out as notes under this section\] are—
 
@@ -63,7 +63,7 @@
 
 >         “(4) to encourage State fish and wildlife agencies to provide for public involvement in the process of development and implementation of a wildlife conservation and restoration program.
 
->     “(b) __Reference to Law.—__ 
+>     “(b)  __Reference to Law__  __.—__ 
 
 >     In this section, the term ‘Federal Aid in Wildlife Restoration Act’ means the Act of September 2, 1937 ([16 U.S.C. 669][/us/usc/t16/s669] et seq.), commonly referred to as the Federal Aid in Wildlife Restoration Act or the Pittman-Robertson Act.”
 

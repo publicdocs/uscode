@@ -57,7 +57,7 @@
 
 [Pub. L. 105–82, § 2][/us/pl/105/82/s2], Nov. 13, 1997, [111 Stat. 1540][/us/stat/111/1540], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -91,7 +91,7 @@
 
 >                 “(iii) Mr. Coe accomplished much of the work described in this paragraph at his own expense, which dramatically demonstrated his commitment to establishment of Everglades National Park.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     It is the purpose of this Act \[see Short Title of 1997 Amendment note set out under [section 410r–5 of this title][/us/usc/t16/s410r–5]\] to commemorate the vision, leadership, and enduring contributions of Marjory Stoneman Douglas and Ernest F. Coe to the protection of the Everglades and the establishment of Everglades National Park.”
 

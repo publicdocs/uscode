@@ -159,11 +159,11 @@
 
 > “In this subtitle \[subtitle B (§§ 1101–1107) of title I of [Pub. L. 111–11][/us/pl/111/11], enacting this section and [section 546b–1 of this title][/us/usc/t16/s546b–1] and enacting and amending provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132]\]:
 
->     “(1) __Scenic areas.—__ 
+>     “(1)  __Scenic areas__  __.—__ 
 
 >     The term ‘scenic areas’ means the Seng Mountain National Scenic Area and the Bear Creek National Scenic Area.
 
->     “(2) __Secretary.—__ 
+>     “(2)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of Agriculture.”
 

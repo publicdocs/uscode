@@ -33,7 +33,7 @@
 
 > “SECTION 1. __FINDINGS AND PURPOSE.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds and declares that—
 
@@ -43,21 +43,21 @@
 
 >         “(3) this National Forest (managed as part of the Stanislaus National Forest) is the smallest National Forest in the United States and could be more appropriately and efficiently managed as part of the Calaveras Big Trees State Park.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of this Act is to improve the management of the lands located in the Calaveras Big Trees National Forest, and to protect certain examples of ponderosa pine, sugar pine, and giant sequoia trees, by unifying the management of the lands in such National Forest and in the California Calaveras Big Trees State Park.
 
 > “SEC. 2. __LAND CONVEYANCE.__ 
 
->     “(a) __Conveyance.—__ 
+>     “(a)  __Conveyance__  __.—__ 
 
 >     Subject to valid existing rights and the provisions of this Act, the Secretary of Agriculture (hereinafter in this Act referred to as the ‘Secretary’) is authorized and directed to convey all right, title, and interest of the United States in and to lands and interests therein within the Calaveras Big Trees National Forest, as generally depicted on a map numbered 20435 and dated June 5, 1989, prepared by the California Department of Parks and Recreation, to the State of California for inclusion within the Calaveras Big Trees State Park.
 
->     “(b) __Map and Description.—__ 
+>     “(b)  __Map and Description__  __.—__ 
 
 >     As soon as practicable after the enactment of this Act \[Oct. 17, 1990\], the Secretary shall submit a map and legal description of the lands referred to in subsection (a) to the Committee on Interior and Insular Affairs \[now Committee on Natural Resources\] of the United States House of Representatives, and the Committee on Energy and Natural Resources of the Senate. Such map and legal description shall have the same force and effect as if included in this Act, except that any clerical or typographical errors in such map or legal description may be corrected. The Secretary shall place such map and legal description on file, and make them available for public inspection, in the Office of the Chief of the Forest Service.
 
->     “(c) __Conditions of Conveyance.—__ 
+>     “(c)  __Conditions of Conveyance__  __.—__ 
 
 >     Conveyance of the lands and interests described in subsection (a) of this section shall be subject to the following conditions:
 
@@ -81,11 +81,11 @@
 
 >             “(B) any existing rights-of-way to provide the United States and its assigns access to federally owned lands.
 
->     “(d) __Enforcement.—__ 
+>     “(d)  __Enforcement__  __.—__ 
 
 >     Upon the request of the Secretary, the Attorney General shall bring any action or take any other steps necessary to enforce the provisions of subsection (c) of this section.
 
->     “(e) __Timing, Value, and Status.—__ 
+>     “(e)  __Timing, Value, and Status__  __.—__ 
 
 >         (1) Conveyance of lands to the State of California pursuant to this Act shall occur when the agreement described in paragraph (1) of subsection (c) has been reached. The restrictions and conditions specified in paragraphs (2), (3), (4), (5), (6), and (7) of subsection (c) shall be included in the instruments of conveyance of lands to the State of California.
 

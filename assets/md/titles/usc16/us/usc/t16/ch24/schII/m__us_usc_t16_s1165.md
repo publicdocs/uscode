@@ -107,11 +107,11 @@
 
 [Pub. L. 104–91, § 3][/us/pl/104/91/s3], Jan. 6, 1996, [110 Stat. 8][/us/stat/110/8], as amended by [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(e)(5)(A)(iv), (6)(A), (7)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–246, 2763A–248; [Pub. L. 106–562, title I][/us/pl/106/562], §§ 105(a)(4), 106(a), 107, Dec. 23, 2000, [114 Stat. 2797][/us/stat/114/2797], 2799; [Pub. L. 108–447, div. B, title II, § 212][/us/pl/108/447/s212], Dec. 8, 2004, [118 Stat. 2884][/us/stat/118/2884], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Commerce shall, subject to the availability of appropriations provided for the purposes of this section, clean up landfills, wastes, dumps, debris, storage tanks, property, hazardous or unsafe conditions, and contaminants, including petroleum products and their derivatives, left by the National Oceanic and Atmospheric Administration on lands which it and its predecessor agencies abandoned, quitclaimed, or otherwise transferred or are obligated to transfer, to local entities or residents on the Pribilof Islands, Alaska, pursuant to the Fur Seal Act of 1966 ([16 U.S.C. 1151][/us/usc/t16/s1151] et seq.), as amended, or other applicable law.
 
->     “(b) __Obligations of Secretary.—__ 
+>     “(b)  __Obligations of Secretary__  __.—__ 
 
 >     In carrying out cleanup activities under subsection (a), the Secretary of Commerce shall—
 
@@ -125,7 +125,7 @@
 
 >         “(5) not seek or require financial contributions by or from local entities or landowners.
 
->     “(c) __Resolution of Federal Responsibilities.—__ 
+>     “(c)  __Resolution of Federal Responsibilities__  __.—__ 
 
 >         (1)
 
@@ -141,35 +141,35 @@
 
 >     “\[(d) Redesignated as [section 212 of Pub. L. 89–702][/us/pl/89/702/s212], and transferred to [section 1169b of this title][/us/usc/t16/s1169b].\]
 
->     “(e) __Definition.—__ 
+>     “(e)  __Definition__  __.—__ 
 
 >     For the purposes of this section, the term ‘clean up’ means the planning and execution of remediation actions for lands described in subsection (a) and the redevelopment of landfills to meet statutory requirements.
 
 >     “(f) __Authorization of Appropriations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There are authorized to be appropriated $10,000,000 for each of fiscal years 2001, 2002, 2003, 2004, 2005, 2006, and 2007 for the purposes of carrying out this section.
 
->         “(2) __Limitation.—__ 
+>         “(2)  __Limitation__  __.—__ 
 
 >         None of the funds authorized by this subsection may be expended for the purpose of cleaning up or remediating any landfills, wastes, dumps, debris, storage tanks, property, hazardous or unsafe conditions, or contaminants, including petroleum products and their derivatives, left by the Department of Defense or any of its components on lands on the Pribilof Islands, Alaska.
 
 >     “(g) __Low-Interest Loan Program.—__ 
 
->         “(1) __Capitalization of revolving fund.—__ 
+>         “(1)  __Capitalization of revolving fund__  __.—__ 
 
 >         Of amounts authorized under subsection (f) for each of fiscal years 2001, 2002, 2003, 2004, and 2005, the Secretary may provide to the State of Alaska up to $2,000,000 per fiscal year to capitalize a revolving fund to be used by the State for loans under this subsection.
 
->         “(2) __Low-interest loans.—__ 
+>         “(2)  __Low-interest loans__  __.—__ 
 
 >         The Secretary shall require that any revolving fund established with amounts provided under this subsection shall be used only to provide low-interest loans to Natives of the Pribilof Islands to assess, respond to, remediate, and monitor contamination from lead paint, asbestos, and petroleum from underground storage tanks.
 
->         “(3) __Natives of the pribilof islands defined.—__ 
+>         “(3)  __Natives of the pribilof islands defined__  __.—__ 
 
 >         The definitions set forth in section 101 of the Fur Seal Act of 1966 ([16 U.S.C. 1151][/us/usc/t16/s1151]) shall apply to this section, except that the term ‘Natives of the Pribilof Islands’ includes the Tanadgusix and Tanaq Corporations.
 
->         “(4) __Reversion of funds.—__ 
+>         “(4)  __Reversion of funds__  __.—__ 
 
 >         Before the Secretary may provide any funds to the State of Alaska under this section, the State of Alaska and the Secretary must agree in writing that, on the last day of fiscal year 2011, and of each fiscal year thereafter until the full amount provided to the State of Alaska by the Secretary under this section has been repaid to the United States, the State of Alaska shall transfer to the Treasury of the United States monies remaining in the revolving fund, including principal and interest paid into the revolving fund as repayment of loans.”
 

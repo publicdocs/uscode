@@ -39,59 +39,59 @@
 
 > “In this Act:
 
->     “(1) __Map.—__ 
+>     “(1)  __Map__  __.—__ 
 
 >     The term ‘map’ means the map entitled ‘Proposed Boundary Adjustments, Petrified Forest National Park’, numbered 110/80,045, and dated January 2005.
 
->     “(2) __Park.—__ 
+>     “(2)  __Park__  __.—__ 
 
 >     The term ‘Park’ means the Petrified Forest National Park in the State.
 
->     “(3) __Secretary.—__ 
+>     “(3)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of the Interior.
 
->     “(4) __State.—__ 
+>     “(4)  __State__  __.—__ 
 
 >     The term ‘State’ means the State of Arizona.
 
 > “SEC. 3. __BOUNDARY REVISION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary is authorized to revise the boundary of the Park to include approximately 125,000 acres as depicted on the map.
 
->     “(b) __Availability of Map.—__ 
+>     “(b)  __Availability of Map__  __.—__ 
 
 >     The map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 
 > “SEC. 4. __ACQUISITION OF ADDITIONAL LAND.__ 
 
->     “(a) __Private Land.—__ 
+>     “(a)  __Private Land__  __.—__ 
 
 >     The Secretary may acquire from a willing seller, by donation, purchase with donated or appropriated funds, or exchange, any private land or interests in private land within the revised boundary of the Park. In acquiring private land and interests in private land within the revised boundary of the Park, the Secretary shall undertake to acquire such private land and interests in private land first by donation or exchange.
 
 >     “(b) __State Land.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary may, with the consent of the State and in accordance with Federal and State law, acquire from the State any State land or interests in State land within the revised boundary of the Park.
 
->         “(2) __Plan.—__ 
+>         “(2)  __Plan__  __.—__ 
 
 >         Not later than 3 years after the date of the enactment of this Act \[Dec. 3, 2004\], the Secretary shall, in coordination with the State, develop a plan for acquisition for State land or interests in State land under paragraph (1).
 
->         “(3) __Management agreement.—__ 
+>         “(3)  __Management agreement__  __.—__ 
 
 >         If the Secretary is unable to acquire the State land under paragraph (1) within the 3-year period required by paragraph (2), the Secretary may enter into an agreement that would allow the National Park Service to manage State land within the revised boundary of the Park.
 
 > “SEC. 5. __ADMINISTRATION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to applicable laws, all land and interests in land acquired under this Act shall be administered by the Secretary as part of the Park.
 
->     “(b) __Transfer of Jurisdiction.—__ 
+>     “(b)  __Transfer of Jurisdiction__  __.—__ 
 
 >     The Secretary shall transfer to the National Park Service administrative jurisdiction over any land under the jurisdiction of the Secretary that—
 
@@ -99,21 +99,21 @@
 
 >         “(2) is not under the administrative jurisdiction of the National Park Service on the date of enactment of this Act \[Dec. 3, 2004\].
 
->     “(c) __Exchange After Enactment.—__ 
+>     “(c)  __Exchange After Enactment__  __.—__ 
 
 >     Upon completion of an exchange of land after the date of the enactment of this Act \[Dec. 3, 2004\], the Secretary shall transfer administrative jurisdiction over the exchanged lands within the boundary of the Park as depicted on the map to the National Park Service.
 
 >     “(d) __Grazing.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall permit the continuation of grazing on land transferred to the Secretary under this Act, subject to applicable laws, regulations, and Executive orders.
 
->         “(2) __Termination of leases or permits.—__ 
+>         “(2)  __Termination of leases or permits__  __.—__ 
 
 >         Nothing in this subsection prohibits the Secretary from accepting the voluntary termination of a grazing permit or grazing lease within the Park.
 
->     “(e) __Amendment to General Management Plan.—__ 
+>     “(e)  __Amendment to General Management Plan__  __.—__ 
 
 >     Not later than 3 years after the date of the enactment of this Act \[Dec. 3, 2004\], the Secretary shall amend the general management plan for the Park to address the use and management of any additional land acquired under this Act.
 
@@ -125,15 +125,15 @@
 
 [Pub. L. 103–337, div. B, title XXVIII, § 2844][/us/pl/103/337/s2844], Oct. 5, 1994, [108 Stat. 3068][/us/stat/108/3068], provided that:
 
->     “(a) __Transfer Authorized.—__ 
+>     “(a)  __Transfer Authorized__  __.—__ 
 
 >     As part of the closure of an Air Force Radar Bomb Scoring Site located near Holbrook, Arizona, the Secretary of the Air Force may transfer, without reimbursement, the administrative jurisdiction, accountability, and control of the housing units and associated support facilities used in connection with the site to the Secretary of the Interior for use in connection with Petrified Forest National Park.
 
->     “(b) __Description of Property.—__ 
+>     “(b)  __Description of Property__  __.—__ 
 
 >     The exact acreage and legal description of the real property to be transferred under subsection (a) shall be determined by a survey satisfactory to the Secretary of the Air Force and the Secretary of the Interior.
 
->     “(c) __Additional Terms and Conditions.—__ 
+>     “(c)  __Additional Terms and Conditions__  __.—__ 
 
 >     The Secretary of the Air Force may require such additional terms and conditions in connection with the transfer of real property under subsection (a) as the Secretary considers appropriate.”
 

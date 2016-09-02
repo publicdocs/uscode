@@ -119,7 +119,7 @@
 
 [Pub. L. 107–314, div. C, title XXXV, § 3504(c)][/us/pl/107/314/s3504/c], (d), Dec. 2, 2002, [116 Stat. 2755][/us/stat/116/2755], 2756, provided that:
 
->     “(c) __Pilot Program on Export of Obsolete Vessels for Dismantlement and Recycling.—__ 
+>     “(c)  __Pilot Program on Export of Obsolete Vessels for Dismantlement and Recycling__  __.—__ 
 
 >         (1)
 
@@ -151,7 +151,7 @@
 
 >         “(4) The Secretary of Transportation shall submit to Congress a report on the pilot programs under paragraph (1) through the existing ship disposal reporting requirements in section 3502 of Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[section 1 \[div. C, title XXXV, § 3502\] of [Pub. L. 106–398][/us/pl/106/398], which amended this section and enacted provisions set out below\]. The report shall include a description of the activities under the pilot programs, and such recommendations for further legislative or administrative action as the Secretary considers appropriate.
 
->     “(d) __Construction.—__ 
+>     “(d)  __Construction__  __.—__ 
 
 >     Nothing in this section shall be construed to establish a preference for the reefing or export of obsolete vessels in the National Defense Reserve Fleet over other alternatives available to the Secretary for the scrapping of such vessels under section 3502(d)(3) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001.”
 
@@ -159,7 +159,7 @@
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXV, § 3502(b)–(f)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–490 to 1654A–492, as amended by [Pub. L. 109–163, div. C, title XXXV, § 3505(a)][/us/pl/109/163/s3505/a], Jan. 6, 2006, [119 Stat. 3551][/us/stat/119/3551]; [Pub. L. 112–81, div. C, title XXXV, § 3504][/us/pl/112/81/s3504], Dec. 31, 2011, [125 Stat. 1717][/us/stat/125/1717]; [Pub. L. 112–239, div. C, title XXXV, § 3502][/us/pl/112/239/s3502], Jan. 2, 2013, [126 Stat. 2222][/us/stat/126/2222], provided that:
 
->     “(b) __Selection of Scrapping Facilities.—__ 
+>     “(b)  __Selection of Scrapping Facilities__  __.—__ 
 
 >     The Secretary of Transportation may scrap obsolete vessels pursuant to section 6(c)(1) of the National Maritime Heritage Act of 1994 ([16 U.S.C. 5405(c)(1)][/us/usc/t16/s5405/c/1]) through qualified scrapping facilities, using the most expeditious scrapping methodology and location practicable. Scrapping facilities shall be selected under that section on a best value basis consistent with the Federal Acquisition Regulation, as in effect on the date of contract award, without any predisposition toward foreign or domestic facilities taking into consideration, among other things, the ability of facilities to scrap vessels—
 
@@ -173,11 +173,11 @@
 
 >     “(c) __Comprehensive Management Plan.—__ 
 
->         “(1) __Requirement to develop plan.—__ 
+>         “(1)  __Requirement to develop plan__  __.—__ 
 
 >         The Secretary of Transportation shall prepare, publish, and submit to the Congress by not later than 180 days after the date of the enactment of this Act \[probably should be “this subsection”, Jan. 6, 2006\] a comprehensive plan for management of the vessel disposal program of the Maritime Administration in accordance with the recommendations made in the Government Accountability Office in report number GAO–05–264, dated March 2005.
 
->         “(2) __Contents of plan.—__ 
+>         “(2)  __Contents of plan__  __.—__ 
 
 >         The plan shall—
 
@@ -193,7 +193,7 @@
 
 >     “(d) __Implementation of Management Plan.—__ 
 
->         “(1) __Requirement to implement.—__ 
+>         “(1)  __Requirement to implement__  __.—__ 
 
 >         Subject to the availability of appropriations, the Secretary shall implement the vessel disposal program of the Maritime Administration in accordance with—
 
@@ -201,7 +201,7 @@
 
 >             “(B) the requirements set forth in paragraph (2).
 
->         “(2) __Utilization of domestic sources.—__ 
+>         “(2)  __Utilization of domestic sources__  __.—__ 
 
 >         In the procurement of services under the vessel disposal program of the Maritime Administration, the Secretary shall—
 
@@ -211,15 +211,15 @@
 
 >     “(e) __Failure to Submit Plan.—__ 
 
->         “(1) __Private management contract for disposal of Maritime Administration vessels.—__ 
+>         “(1)  __Private management contract for disposal of Maritime Administration vessels__  __.—__ 
 
 >         The Secretary of Transportation, subject to the availability of appropriations, shall promptly award a contract using full and open competition to expeditiously implement all aspects of disposal of obsolete National Defense Reserve Fleet vessels.
 
->         “(2) __Application.—__ 
+>         “(2)  __Application__  __.—__ 
 
 >         This subsection shall apply beginning 180 days after the date of the enactment of this subsection \[Jan. 6, 2006\], unless the Secretary of Transportation has submitted to the Congress the comprehensive plan required under subsection (c).
 
->     “(f) __Briefings.—__ 
+>     “(f)  __Briefings__  __.—__ 
 
 >     The Maritime Administrator shall, upon request, provide briefings to the Committee on Transportation and Infrastructure, the Committee on Natural Resources, and the Committee on Armed Services of the House of Representatives, and the Committee on Commerce, Science, and Transportation and the Committee on Armed Services of the Senate, on the progress made in recycling vessels, problems encountered with recycling vessels, issues relating to vessel recycling, and other issues relating to vessel recycling and disposal.”
 

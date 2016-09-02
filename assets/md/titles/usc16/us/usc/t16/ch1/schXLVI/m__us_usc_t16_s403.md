@@ -39,25 +39,25 @@
 
 [Pub. L. 102–393, title V, § 533][/us/pl/102/393/s533], Oct. 6, 1992, [106 Stat. 1763][/us/stat/106/1763], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to subsection (b), the Secretary of the Interior may transfer certain land located in the Shenandoah National Park and described in subsection (c) to the Secretary of the Treasury for use by the Secretary of the Treasury as a United States Customs Service Canine Enforcement Training Center.
 
 >     “(b) __Conditions of Transfer.—__ 
 
->         “(1) __Protection of the park.—__ 
+>         “(1)  __Protection of the park__  __.—__ 
 
 >         An agreement to transfer pursuant to subsection (a) shall include such provisions for the protection of Shenandoah National Park as the Secretary of the Interior considers necessary.
 
->         “(2) __Consideration.—__ 
+>         “(2)  __Consideration__  __.—__ 
 
 >         A transfer made pursuant to subsection (a) shall be made without consideration or reimbursement.
 
->         “(3) __Abandonment.—__ 
+>         “(3)  __Abandonment__  __.—__ 
 
 >         If the land referred to in subsection (a) is abandoned by the Secretary of the Treasury at any time, administrative jurisdiction of the land shall revert to the Department of the Interior.
 
->     “(c) __Description of the Land.—__ 
+>     “(c)  __Description of the Land__  __.—__ 
 
 >     The land referred to in subsection (a) is a plot of fenced land equaling 9.888 acres containing buildings, structures, fixtures, equipment, and other improvements affixed to or resting upon the land, and has the following legal description:    “The tract of land located just west of Road No. 604 about one mile south of Front Royal, Warren County, Virginia, and bounded as follows:
 

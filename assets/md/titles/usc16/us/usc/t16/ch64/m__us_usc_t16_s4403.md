@@ -113,7 +113,7 @@
 
 [Pub. L. 105–312, title III, § 304][/us/pl/105/312/s304], Oct. 30, 1998, [112 Stat. 2958][/us/stat/112/2958], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding section 4(a)(1)(D) of the North American Wetlands Conservation Act ([16 U.S.C. 4403(a)(1)(D)][/us/usc/t16/s4403/a/1/D]), during the period of 1999 through 2002, the membership of the North American Wetlands Conservation Council under section 4(a)(1)(D) of that Act shall consist of—
 
@@ -121,7 +121,7 @@
 
 >         “(2) 2 individuals who shall be appointed by the Secretary of the Interior in accordance with section 4 of that Act and who shall each represent a different organization described in section 4(a)(1)(D) of that Act.
 
->     “(b) __Publication of Policy.—__ 
+>     “(b)  __Publication of Policy__  __.—__ 
 
 >     Not later than June 30, 1999, the Secretary of the Interior shall publish in the Federal Register, after notice and opportunity for public comment, a policy for making appointments under section 4(a)(1)(D) of the North American Wetlands Conservation Act ([16 U.S.C. 4403(a)(1)(D)][/us/usc/t16/s4403/a/1/D]).”
 

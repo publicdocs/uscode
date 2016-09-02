@@ -63,11 +63,11 @@
 
 >     “(a) __Salmon Survival Activities.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In conjunction with the Secretary of Commerce and the Secretary of the Interior, the Secretary shall accelerate ongoing research and development activities, and may carry out or participate in additional research and development activities, for the purpose of developing innovative methods and technologies for improving the survival of salmon, especially salmon in the Columbia/Snake River Basin.
 
->         “(2) __Accelerated activities.—__ 
+>         “(2)  __Accelerated activities__  __.—__ 
 
 >         Accelerated research and development activities referred to in paragraph (1) may include research and development related to—
 
@@ -83,7 +83,7 @@
 
 >             “(F) dissolved gas monitoring and abatement.
 
->         “(3) __Additional activities.—__ 
+>         “(3)  __Additional activities__  __.—__ 
 
 >         Additional research and development activities referred to in paragraph (1) may include research and development related to—
 
@@ -97,39 +97,39 @@
 
 >             “(E) other innovative technologies and actions intended to improve fish survival, including the survival of resident fish.
 
->         “(4) __Coordination.—__ 
+>         “(4)  __Coordination__  __.—__ 
 
 >         The Secretary shall coordinate any activities carried out under this subsection with appropriate Federal, State, and local agencies, affected Indian tribes, and the Northwest Power Planning Council.
 
->         “(5) __Report.—__ 
+>         “(5)  __Report__  __.—__ 
 
 >         Not later than 3 years after the date of enactment of the Water Resources Development Act of 1999 \[Aug. 17, 1999\], the Secretary shall submit to Congress a report on the research and development activities carried out under this subsection, including any recommendations of the Secretary concerning the research and development activities.
 
->         “(6) __Authorization of appropriations.—__ 
+>         “(6)  __Authorization of appropriations__  __.—__ 
 
 >         There is authorized to be appropriated $25,000,000 to carry out research and development activities under paragraph (3).
 
 >     “(b) __Advanced Turbine Development.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In conjunction with the Secretary of Energy, the Secretary shall accelerate efforts toward developing and installing in Corps of Engineers-operated dams innovative, efficient, and environmentally safe hydropower turbines, including design of fish-friendly turbines, for use on the Columbia/Snake River hydrosystem.
 
->         “(2) __Authorization of appropriations.—__ 
+>         “(2)  __Authorization of appropriations__  __.—__ 
 
 >         There is authorized to be appropriated $35,000,000 to carry out this subsection.
 
 >     “(c) __Management of Predation on Columbia/Snake River System Native Fishes.—__ 
 
->         “(1) __Nesting avian predators.—__ 
+>         “(1)  __Nesting avian predators__  __.—__ 
 
 >         In conjunction with the Secretary of Commerce and the Secretary of the Interior, and consistent with a management plan to be developed by the United States Fish and Wildlife Service, the Secretary shall carry out methods to reduce nesting populations of avian predators on dredge spoil islands in the Columbia River under the jurisdiction of the Secretary.
 
->         “(2) __Authorization of appropriations.—__ 
+>         “(2)  __Authorization of appropriations__  __.—__ 
 
 >         There is authorized to be appropriated $10,000,000 to carry out research and development activities under this subsection.
 
->     “(d) __Implementation.—__ 
+>     “(d)  __Implementation__  __.—__ 
 
 >     Nothing in this section affects the authority of the Secretary to implement the results of the research and development carried out under this section or any other law.”
 

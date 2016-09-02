@@ -43,11 +43,11 @@
 
 >     “(a) __Future Obligation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Commerce shall not be considered to have any obligation to promote or otherwise provide for the development of any form of an economy not dependent on sealing on the Pribilof Islands, Alaska, including any obligation under section 206 of the Fur Seal Act of 1966 ([16 U.S.C. 1166][/us/usc/t16/s1166]) or [section 3(c)(1)(A) of Public Law 104–91][/us/pl/104/91/s3/c/1/A] ([16 U.S.C. 1165][/us/usc/t16/s1165] note).
 
->         “(2) __Savings.—__ 
+>         “(2)  __Savings__  __.—__ 
 
 >         This subsection shall not affect any cause of action under section 206 of the Fur Seal Act of 1966 ([16 U.S.C. 1166][/us/usc/t16/s1166]) or [section 3(c)(1)(A) of Public Law 104–91][/us/pl/104/91/s3/c/1/A] ([16 U.S.C. 1165][/us/usc/t16/s1165] note)—
 
@@ -55,7 +55,7 @@
 
 >             “(B) for which a judicial action is filed before the expiration of the 5-year period beginning on the date of the enactment of this title.
 
->         “(3) __Rule of construction.—__ 
+>         “(3)  __Rule of construction__  __.—__ 
 
 >         Nothing in this title \[see Short Title of 2000 Amendments note set out under [section 1151 of this title][/us/usc/t16/s1151]\] shall be construed to imply that—
 
@@ -63,13 +63,13 @@
 
 >             “(B) any cause of action could or could not arise with respect to such an obligation.
 
->         “(4) __Conforming amendment.—__ 
+>         “(4)  __Conforming amendment__  __.—__ 
 
 >         \[Amended [section 3(c)(1) of Pub. L. 104–91][/us/pl/104/91/s3/c/1], set out as a note under [section 1165 of this title][/us/usc/t16/s1165].\]
 
 >     “(b) __Property Conveyance and Cleanup.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), there are terminated all obligations of the Secretary of Commerce and the United States to—
 
@@ -77,7 +77,7 @@
 
 >             “(B) carry out cleanup activities, including assessment, response, remediation, and monitoring, except for postremedial measures such as monitoring and operation and maintenance activities, related to National Oceanic and Atmospheric Administration administration of the Pribilof Islands, Alaska, under [section 3 of Public Law 104–91][/us/pl/104/91/s3] ([16 U.S.C. 1165][/us/usc/t16/s1165] note) and the Pribilof Islands Environmental Restoration Agreement between the National Oceanic and Atmospheric Administration and the State of Alaska, signed January 26, 1996.
 
->         “(2) __Application.—__ 
+>         “(2)  __Application__  __.—__ 
 
 >         Paragraph (1) shall apply on and after the date on which the Secretary of Commerce certifies that—
 
@@ -89,13 +89,13 @@
 
 >             “(D) all amounts appropriated under section 206(c)(1) of the Fur Seal Act of 1966 \[[16 U.S.C. 1166(c)(1)][/us/usc/t16/s1166/c/1]\], as amended by this title, have been obligated.
 
->         “(3) __Financial contributions for cleanup costs.—__ 
+>         “(3)  __Financial contributions for cleanup costs__  __.—__ 
 
 >             (A) On and after the date on which [section 3(b)(5) of Public Law 104–91][/us/pl/104/91/s3/b/5] ([16 U.S.C. 1165][/us/usc/t16/s1165] note) is repealed pursuant to subsection (c), the Secretary of Commerce may not seek or require financial contribution by or from any local governmental entity of the Pribilof Islands, any official of such an entity, or the owner of land on the Pribilof Islands, for cleanup costs incurred pursuant to [section 3(a) of Public Law 104–91][/us/pl/104/91/s3/a] (as in effect before such repeal), except as provided in subparagraph (B).
 
 >             “(B) Subparagraph (A) shall not limit the authority of the Secretary of Commerce to seek or require financial contribution from any person for costs or fees to clean up any matter that was caused or contributed to by such person on or after March 15, 2000.
 
->         “(4) __Certain reserved rights not conditions.—__ 
+>         “(4)  __Certain reserved rights not conditions__  __.—__ 
 
 >         For purposes of paragraph (2)(C), the following requirements shall not be considered to be conditions on conveyance of property:
 
@@ -109,7 +109,7 @@
 
 >             “(E) The terms of the documents described in subsection (d)(2).
 
->     “(c) __Repeals.—__ 
+>     “(c)  __Repeals__  __.—__ 
 
 >     Effective on the date on which the Secretary of Commerce makes the certification described in subsection (b)(2), the following provisions are repealed:
 
@@ -119,11 +119,11 @@
 
 >     “(d) __Savings.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Nothing in this title shall affect any obligation of the Secretary of Commerce, or of any Federal department or agency, under or with respect to any document described in paragraph (2) or with respect to any lands subject to such a document.
 
->         “(2) __Documents described.—__ 
+>         “(2)  __Documents described__  __.—__ 
 
 >         The documents referred to in paragraph (1) are the following:
 
@@ -135,11 +135,11 @@
 
 >     “(e) __Definitions.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), the definitions set forth in section 101 of the Fur Seal Act of 1966 ([16 U.S.C. 1151][/us/usc/t16/s1151]) shall apply to this section.
 
->         “(2) __Natives of the pribilof islands.—__ 
+>         “(2)  __Natives of the pribilof islands__  __.—__ 
 
 >         For purposes of this section, the term ‘Natives of the Pribilof Islands’ includes the Tanadgusix Corporation, the St. George Tanaq Corporation, and the city governments and tribal councils of St. Paul and St. George, Alaska.”
 

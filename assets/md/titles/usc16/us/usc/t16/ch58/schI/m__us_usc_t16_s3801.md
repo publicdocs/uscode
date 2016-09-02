@@ -27,11 +27,11 @@
 
             (B) sugarcane planted and produced in a State.
 
-        (2) __Beginning farmer or rancher.—__ 
+        (2)  __Beginning farmer or rancher__  __.—__ 
 
         The term “beginning farmer or rancher” has the meaning given the term in [section 1991(a)(8) of title 7][/us/usc/t7/s1991/a/8].
 
-        (3) __Conservation plan.—__ 
+        (3)  __Conservation plan__  __.—__ 
 
         The term “conservation plan” means the document that—
 
@@ -41,7 +41,7 @@
 
             (C) is approved by the local soil conservation district, in consultation with the local committees established under [section 590h(b)(5) of this title][/us/usc/t16/s590h/b/5] and the Secretary, or by the Secretary.
 
-        (4) __Conservation system.—__ 
+        (4)  __Conservation system__  __.—__ 
 
         The term “conservation system” means a combination of 1 or more conservation measures or management practices that—
 
@@ -77,7 +77,7 @@
 
                 (ii) is not assisted by an action of the producer that destroys natural wetland characteristics.
 
-        (8) __Farm.—__ 
+        (8)  __Farm__  __.—__ 
 
         The term “farm” means a farm that—
 
@@ -91,7 +91,7 @@
 
             (E) may contain lands that are incidental to the production of perennial crops, including conserving uses, forestry, and livestock, as determined by the Secretary.
 
-        (9) __Field.—__ 
+        (9)  __Field__  __.—__ 
 
         The term “field” means a part of a farm that is separated from the balance of the farm by permanent boundaries such as fences, roads, permanent waterways, or other similar features. At the option of the owner or operator of the farm, croplines may also be used to delineate a field if farming practices make it probable that the croplines are not subject to change. Any highly erodible land on which an agricultural commodity is produced after December 23, 1985, and that is not exempt under [section 3812 of this title][/us/usc/t16/s3812], shall be considered as part of the field in which the land was included on December 23, 1985, unless the owner and Secretary agree to modification of the boundaries of the field to carry out this chapter.
 
@@ -109,7 +109,7 @@
 
             (B) For purposes of this paragraph, the land capability class or rate of erosion for a field shall be that determined by the Secretary to be the predominant class or rate of erosion under regulations issued by the Secretary.
 
-            (C) __Equations.—__ 
+            (C)  __Equations__  __.—__ 
 
             Not later than 60 days after the date of enactment of this subparagraph, the Secretary shall publish in the Federal Register the universal soil loss equation and wind erosion equation used by the Department of Agriculture as of that date. The Secretary may not change the equations after that date except following notice and comment in a manner consistent with [section 553 of title 5][/us/usc/t5/s553].
 
@@ -123,21 +123,21 @@
 
             (B) a substrate that is at least periodically deficient in oxygen during a growing season as a result of excessive water content.
 
-        (14) __Indian tribe.—__ 
+        (14)  __Indian tribe__  __.—__ 
 
         The term “Indian tribe” has the meaning given the term in [section 450b(e) of title 25][/us/usc/t25/s450b/e].
 
         (15) The term “in-kind commodities” means commodities that are normally produced on land that is the subject of an agreement entered into under subchapter IV of this chapter.
 
-        (16) __Integrated pest management.—__ 
+        (16)  __Integrated pest management__  __.—__ 
 
         The term “integrated pest management” means a sustainable approach to managing pests by combining biological, cultural, physical, and chemical tools in a way that minimizes economic, health, and environmental risks.
 
-        (17) __Livestock.—__ 
+        (17)  __Livestock__  __.—__ 
 
         The term “livestock” means all animals raised on farms, as determined by the Secretary.
 
-        (18) __Nonindustrial private forest land.—__ 
+        (18)  __Nonindustrial private forest land__  __.—__ 
 
         The term “nonindustrial private forest land” means rural land, as determined by the Secretary, that—
 
@@ -145,7 +145,7 @@
 
             (B) is owned by any nonindustrial private individual, group, association, corporation, Indian tribe, or other private legal entity that has definitive decisionmaking authority over the land.
 
-        (19) __Person and legal entity.—__ 
+        (19)  __Person and legal entity__  __.—__ 
 
         For purposes of applying payment limitations under subchapter IV, the terms “person” and “legal entity” have the meanings given those terms in [section 1308(a) of title 7][/us/usc/t7/s1308/a].
 
@@ -155,13 +155,13 @@
 
         (22) The term “shelterbelt” means a vegetative barrier with a linear configuration composed of trees, shrubs, and other approved perennial vegetation.
 
-        (23) __Socially disadvantaged farmer or rancher.—__ 
+        (23)  __Socially disadvantaged farmer or rancher__  __.—__ 
 
         The term “socially disadvantaged farmer or rancher” has the meaning given the term in [section 2279(e)(2) of title 7][/us/usc/t7/s2279/e/2].
 
         (24) The term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa, the Commonwealth of the Northern Mariana Islands, or the Trust Territory of the Pacific Islands.
 
-        (25) __Technical assistance.—__ 
+        (25)  __Technical assistance__  __.—__ 
 
         The term “technical assistance” means technical expertise, information, and tools necessary for the conservation of natural resources on land active in agricultural, forestry, or related uses. The term includes the following:
 
@@ -269,11 +269,11 @@
 
 [Pub. L. 110–234, title II, § 2904][/us/pl/110/234/s2904], May 22, 2008, [122 Stat. 1091][/us/stat/122/1091], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2904, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1819, provided that:
 
->     “(a) __Issuance.—__ 
+>     “(a)  __Issuance__  __.—__ 
 
 >     Except as otherwise provided in this title \[see Tables for classification\] or an amendment made by this title, not later than 90 days after the date of enactment of this Act \[June 18, 2008\], the Secretary of Agriculture, in consultation with the Commodity Credit Corporation, shall promulgate such regulations as are necessary to implement this title.
 
->     “(b) __Applicable Authority.—__ 
+>     “(b)  __Applicable Authority__  __.—__ 
 
 >     The promulgation of regulations under subsection (a) and administration of this title—
 
@@ -293,7 +293,7 @@
 
 >             “(B) if determined to be appropriate by the Secretary of Agriculture or the Commodity Credit Corporation, as an interim rule effective on publication with an opportunity for notice and comment.
 
->     “(c) __Congressional Review of Agency Rulemaking.—__ 
+>     “(c)  __Congressional Review of Agency Rulemaking__  __.—__ 
 
 >     In carrying out this section, the Secretary shall use the authority provided under [section 808(2) of title 5][/us/usc/t5/s808/2], United States Code.”
 
@@ -301,11 +301,11 @@
 
 [Pub. L. 107–171, title II, § 2702][/us/pl/107/171/s2702], May 13, 2002, [116 Stat. 279][/us/stat/116/279], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this title \[see Tables for classification\] or an amendment made by this title, not later than 90 days after the date of enactment of this Act \[May 13, 2002\], the Secretary of Agriculture, in consultation with the Commodity Credit Corporation, shall promulgate such regulations as are necessary to implement this title.
 
->     “(b) __Applicable Authority.—__ 
+>     “(b)  __Applicable Authority__  __.—__ 
 
 >     The promulgation of regulations under subsection (a) and administration of this title—
 
@@ -325,7 +325,7 @@
 
 >             “(B) if determined to be appropriate by the Secretary of Agriculture or the Commodity Credit Corporation, as an interim rule effective on publication with an opportunity for notice and comment.
 
->     “(c) __Congressional Review of Agency Rulemaking.—__ 
+>     “(c)  __Congressional Review of Agency Rulemaking__  __.—__ 
 
 >     In carrying out this section, the Secretary shall use the authority provided under [section 808(2) of title 5][/us/usc/t5/s808/2], United States Code.”
 
@@ -345,7 +345,7 @@
 
 [Pub. L. 107–171, title II, § 2005][/us/pl/107/171/s2005], May 13, 2002, [116 Stat. 237][/us/stat/116/237], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Agriculture shall develop a plan to coordinate land retirement and agricultural working land conservation programs that are administered by the Secretary to achieve the goals of—
 
@@ -355,7 +355,7 @@
 
 >         “(3) improving services provided to agricultural producers (including the reevaluation of the provision of technical assistance).
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than December 31, 2005, the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report that describes—
 
@@ -367,11 +367,11 @@
 
 [Pub. L. 110–114, title V, § 5059][/us/pl/110/114/s5059], Nov. 8, 2007, [121 Stat. 1215][/us/stat/121/1215], provided that:
 
->     “(a) __Assistance.—__ 
+>     “(a)  __Assistance__  __.—__ 
 
 >     The Secretary \[of the Army\] may provide technical assistance to the Secretary of Agriculture for use in carrying out the Conservation Corridor Demonstration Program established under subtitle G of title II of the Farm Security and Rural Investment Act of 2002 ([16 U.S.C. 3801][/us/usc/t16/s3801] note; [116 Stat. 275][/us/stat/116/275]).
 
->     “(b) __Coordination and Integration.—__ 
+>     “(b)  __Coordination and Integration__  __.—__ 
 
 >     In carrying out water resources projects in the States on the Delmarva Peninsula, the Secretary \[of the Army\] shall coordinate and integrate those projects, to the maximum extent practicable, with any activities carried out to implement a conservation corridor plan approved by the Secretary of Agriculture under section 2602 of the Farm Security and Rural Investment Act of 2002 ([16 U.S.C. 3801][/us/usc/t16/s3801] note; [116 Stat. 275][/us/stat/116/275]).”
 
@@ -381,31 +381,31 @@
 
 > “In this subtitle:
 
->     “(1) __Delmarva peninsula.—__ 
+>     “(1)  __Delmarva peninsula__  __.—__ 
 
 >     The term ‘Delmarva Peninsula’ means land in the States of Delaware, Maryland, and Virginia located on the east side of the Chesapeake Bay.
 
->     “(2) __Demonstration program.—__ 
+>     “(2)  __Demonstration program__  __.—__ 
 
 >     The term ‘demonstration program’ means the Conservation Corridor Demonstration Program established under this subtitle.
 
->     “(3) __Conservation corridor plan; plan.—__ 
+>     “(3)  __Conservation corridor plan; plan__  __.—__ 
 
 >     The terms ‘conservation corridor plan’ and ‘plan’ mean a conservation corridor plan required to be submitted and approved as a condition for participation in the demonstration program.
 
->     “(4) __Secretary.—__ 
+>     “(4)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of Agriculture.
 
 > “SEC. 2602. __CONSERVATION CORRIDOR DEMONSTRATION PROGRAM.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary shall carry out a demonstration program, to be known as the ‘Conservation Corridor Demonstration Program’, under which any of the States of Delaware, Maryland, and Virginia, a local government of any 1 of those States with jurisdiction over land on the Delmarva Peninsula, or a combination of those States, may submit a conservation corridor plan to integrate agriculture and forestry conservation programs of the Department of Agriculture with State and local efforts to address farm conservation needs.
 
 >     “(b) __Submission of Conservation Corridor Plan.—__ 
 
->         “(1) __Submission and proposal.—__ 
+>         “(1)  __Submission and proposal__  __.—__ 
 
 >         To be eligible to participate in the demonstration program, a State, local government, or combination of States referred to in subsection (a) shall—
 
@@ -425,11 +425,11 @@
 
 >             “(B) demonstrate to the Secretary that, in developing the plan, the State, local government, or combination of States has solicited and taken into account the views of local residents.
 
->         “(2) __Draft memorandum of agreement.—__ 
+>         “(2)  __Draft memorandum of agreement__  __.—__ 
 
 >         If the conservation corridor plan is submitted by more than 1 State, the plan shall provide a draft memorandum of agreement among entities in each submitting State.
 
->     “(c) __Review of Plan.—__ 
+>     “(c)  __Review of Plan__  __.—__ 
 
 >     Not later than 90 days after the date of receipt of a conservation corridor plan, the Secretary—
 
@@ -437,11 +437,11 @@
 
 >         “(2) may approve the plan for implementation under this subtitle if the Secretary determines that the plan meets the requirements specified in subsection (d).
 
->     “(d) __Criteria for Approval.—__ 
+>     “(d)  __Criteria for Approval__  __.—__ 
 
 >     The Secretary may approve a conservation corridor plan only if, as determined by the Secretary, the plan provides for each of the following:
 
->         “(1) __Voluntary actions.—__ 
+>         “(1)  __Voluntary actions__  __.—__ 
 
 >         Actions taken under the plan—
 
@@ -451,11 +451,11 @@
 
 >             “(C) provide a mechanism by which the landowner may withdraw such consent without adverse consequences other than the loss of any payments to the landowner conditioned on continued enrollment of the land.
 
->         “(2) __Land of high conservation value.—__ 
+>         “(2)  __Land of high conservation value__  __.—__ 
 
 >         Criteria specified in the plan ensure that land enrolled in each conservation program incorporated through the plan are of exceptionally high conservation value, as determined by the Secretary.
 
->         “(3) __No effect on unenrolled land.—__ 
+>         “(3)  __No effect on unenrolled land__  __.—__ 
 
 >         The enrollment of land in a conservation program incorporated through the plan will neither—
 
@@ -463,17 +463,17 @@
 
 >             “(B) create any buffer zone on such unenrolled land.
 
->         “(4) __Greater benefits.—__ 
+>         “(4)  __Greater benefits__  __.—__ 
 
 >         The conservation programs incorporated through the plan provide benefits greater than the benefits that would likely be achieved through individual application of the conservation programs.
 
->         “(5) __Sufficient staffing.—__ 
+>         “(5)  __Sufficient staffing__  __.—__ 
 
 >         Staffing, considering both Federal and non-Federal resources, is sufficient to ensure success of the plan.
 
 > “SEC. 2603. __IMPLEMENTATION OF CONSERVATION CORRIDOR PLAN.__ 
 
->     “(a) __Memorandum of Agreement.—__ 
+>     “(a)  __Memorandum of Agreement__  __.—__ 
 
 >     On approval of a conservation corridor plan, the Secretary may enter into a memorandum of agreement with the State, local government, or combination of States that submitted the plan to—
 
@@ -483,7 +483,7 @@
 
 >         “(3) provide streamlined and integrated paperwork requirements.
 
->     “(b) __Continued Compliance With Plan Approval Criteria.—__ 
+>     “(b)  __Continued Compliance With Plan Approval Criteria__  __.—__ 
 
 >     The Secretary shall terminate the memorandum of agreement entered into under subsection (a) with respect to an approved conservation corridor plan and cease the provision of resources for implementation of the plan if the Secretary determines that, in the implementation of the plan—
 
@@ -499,7 +499,7 @@
 
 >         “(2) the economic viability of agriculture in the geographic region designated in the plan is being hindered.
 
->     “(c) __Progress Report.—__ 
+>     “(c)  __Progress Report__  __.—__ 
 
 >     At the end of the 3-year period that begins on the date on which funds are first provided with respect to a conservation corridor plan under the demonstration program, the State, local government, or combination of States that submitted the plan shall submit to the Secretary—
 
@@ -507,7 +507,7 @@
 
 >         “(2) an evaluation of the economic viability of agriculture in the geographic region designated in the plan.
 
->     “(d) __Duration.—__ 
+>     “(d)  __Duration__  __.—__ 
 
 >     The demonstration program shall be carried out for not less than 3 nor more than 5 years beginning on the date on which funds are first provided under the demonstration program.
 
@@ -515,19 +515,19 @@
 
 >     “(a) __Cost Sharing.—__ 
 
->         “(1) __Required non-federal share.—__ 
+>         “(1)  __Required non-federal share__  __.—__ 
 
 >         Subject to paragraph (2), as a condition on the approval of a conservation corridor plan, the Secretary shall require the State and local participants to contribute financial resources sufficient to cover at least 50 percent of the total cost of the activities carried out under the plan.
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         The Secretary may reduce the cost-sharing requirement in the case of a specific project or activity under the demonstration program on good cause and on demonstration that the project or activity is likely to achieve extraordinary natural resource benefits.
 
->     “(b) __Reservation of Funds.—__ 
+>     “(b)  __Reservation of Funds__  __.—__ 
 
 >     The Secretary may consider directing funds on a priority basis to the demonstration program and to projects in areas identified by the plan.
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated such sums as are necessary to carry out this subtitle for each of fiscal years 2002 through 2007.”
 
@@ -535,11 +535,11 @@
 
 [Pub. L. 107–171, title X, § 10608][/us/pl/107/171/s10608], May 13, 2002, [116 Stat. 515][/us/stat/116/515], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Eligible area.—__ 
+>         “(1)  __Eligible area__  __.—__ 
 
 >         The term ‘eligible area’ means a wetland or buffer strip adjacent to a wetland that, as determined by the Secretary—
 
@@ -551,19 +551,19 @@
 
 >             “(B) is located in an environmentally sensitive area.
 
->         “(2) __Secretary.—__ 
+>         “(2)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of Agriculture.
 
->     “(b) __Program.—__ 
+>     “(b)  __Program__  __.—__ 
 
 >     The Secretary shall establish a program to purchase permanent easements in eligible areas from willing sellers.
 
->     “(c) __Purchase Price.—__ 
+>     “(c)  __Purchase Price__  __.—__ 
 
 >     The Secretary shall ensure, to the maximum extent practicable, that each easement purchased under this section is for an amount that appropriately reflects the range of values for agricultural and nonagricultural land in the region in which the eligible area subject to the easement is located (including whether that land is located in 1 or more environmentally sensitive areas, as determined by the Secretary).
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to carry out this section $10,000,000.”
 

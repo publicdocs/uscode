@@ -47,11 +47,11 @@
 
 [Pub. L. 104–303, title II, § 208(a)][/us/pl/104/303/s208/a], Oct. 12, 1996, [110 Stat. 3680][/us/stat/110/3680], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary shall provide increased emphasis on, and opportunities for recreation at, water resources projects operated, maintained, or constructed by the Corps of Engineers.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 2 years after the date of the enactment of this Act \[Oct. 12, 1996\], the Secretary shall transmit to Congress a report on specific measures taken to implement this subsection.”
 

@@ -113,7 +113,7 @@
 
 [Pub. L. 105–42, § 2][/us/pl/105/42/s2], Aug. 15, 1997, [111 Stat. 1122][/us/stat/111/1122], provided that:
 
->     “(a) __Purposes.—__ 
+>     “(a)  __Purposes__  __.—__ 
 
 >     The purposes of this Act \[see Short Title of 1997 Amendment note above\] are—
 
@@ -123,7 +123,7 @@
 
 >         “(3) to eliminate the ban on imports of tuna from those nations that are in compliance with the International Dolphin Conservation Program.
 
->     “(b) __Findings.—__ 
+>     “(b)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 

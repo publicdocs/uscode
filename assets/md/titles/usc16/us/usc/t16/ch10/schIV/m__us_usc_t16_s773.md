@@ -67,11 +67,11 @@
 
 [Pub. L. 102–251, title III, § 308][/us/pl/102/251/s308], Mar. 9, 1992, [106 Stat. 66][/us/stat/106/66], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The amendment made by section 301(e)(3) \[amending [section 1822 of this title][/us/usc/t16/s1822]\] takes effect on the date of enactment of this Act \[Mar. 9, 1992\], and the amendments made by the other provisions of this title \[amending this section and sections 773e, 1151, 1362, 1801, 1802, 1811, 1821, 1822, 1824, 1853, 1857, 1861, 3631, and 3636 of this title and sections 1122 and 1124a of Title 33, Navigation and Navigable Waters\], except as provided in subsection (b), shall be effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States.
 
->     “(b) __Authority To Prescribe Regulations.—__ 
+>     “(b)  __Authority To Prescribe Regulations__  __.—__ 
 
 >     The authority to prescribe regulations to implement the amendments made by this title shall be effective on the date of enactment of this Act \[Mar. 9, 1992\], but no such regulation may be effective until the date on which the Agreement described in subsection (a) enters into force for the United States.”
 

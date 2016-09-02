@@ -153,29 +153,29 @@
 
 > “In this Act:
 
->     “(1) __Otherwise protected area.—__ 
+>     “(1)  __Otherwise protected area__  __.—__ 
 
 >     The term ‘otherwise protected area’ has the meaning given the term in section 12 of the Coastal Barrier Improvement Act of 1990 ([16 U.S.C. 3503][/us/usc/t16/s3503] note; [Public Law 101–591][/us/pl/101/591]).
 
->     “(2) __Pilot project.—__ 
+>     “(2)  __Pilot project__  __.—__ 
 
 >     The term ‘pilot project’ means the digital mapping pilot project authorized under section 6 of the Coastal Barrier Resources Reauthorization Act of 2000 ([16 U.S.C. 3503][/us/usc/t16/s3503] note; [Public Law 106–514][/us/pl/106/514]).
 
->     “(3) __Secretary.—__ 
+>     “(3)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of the Interior.
 
->     “(4) __System unit.—__ 
+>     “(4)  __System unit__  __.—__ 
 
 >     The term ‘System unit’ has the meaning given the term in section 3 of the Coastal Barrier Resources Act ([16 U.S.C. 3502][/us/usc/t16/s3502]).
 
 > “SEC. 3. __DIGITAL MAPPING PILOT PROJECT FINALIZATION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[May 25, 2006\], the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives a report regarding the digital maps of the System units and otherwise protected areas created under the pilot project.
 
->     “(b) __Consultation.—__ 
+>     “(b)  __Consultation__  __.—__ 
 
 >     The Secretary shall prepare the report required under subsection (a)—
 
@@ -189,7 +189,7 @@
 
 >             “(B) considering any public comments submitted under subparagraph (A).
 
->     “(c) __Contents.—__ 
+>     “(c)  __Contents__  __.—__ 
 
 >     The report required under subsection (a) shall contain—
 
@@ -203,35 +203,35 @@
 
 >         “(5) an analysis of any benefits that the public would receive by using digital mapping technology for all System units and otherwise protected areas.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to the Secretary to carry out this section $500,000 for each of fiscal years 2006 through 2007.
 
 > “SEC. 4. __DIGITAL MAPPING PROJECT FOR THE REMAINING JOHN H. CHAFEE COASTAL BARRIER RESOURCES SYSTEM UNITS AND OTHERWISE PROTECTED AREAS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary shall carry out a project to create digital versions of all of the John H. Chafee Coastal Barrier Resources System maps referred to in section 4(a) of the Coastal Barrier Resources Act ([16 U.S.C. 3503(a)][/us/usc/t16/s3503/a]), including maps of otherwise protected areas, that were not included in the pilot project.
 
 >     “(b) __Data.—__ 
 
->         “(1) __Use of existing data.—__ 
+>         “(1)  __Use of existing data__  __.—__ 
 
 >         To the maximum extent practicable, in carrying out the project under this section, the Secretary shall use any digital spatial data in the possession of Federal, State, and local agencies, including digital orthophotos, color infrared photography, wetlands data, and property parcel data.
 
->         “(2) __Provision of data by other agencies.—__ 
+>         “(2)  __Provision of data by other agencies__  __.—__ 
 
 >         The head of a Federal agency that possesses any data referred to in paragraph (1) shall, on request of the Secretary, promptly provide the data to the Secretary at no cost.
 
->         “(3) __Provision of data by non-federal agencies.—__ 
+>         “(3)  __Provision of data by non-federal agencies__  __.—__ 
 
 >         State and local agencies and any other non-Federal entities that possess data referred to in paragraph (1) are encouraged, on request of the Secretary, to promptly provide the data to the Secretary at no cost.
 
->         “(4) __Additional data.—__ 
+>         “(4)  __Additional data__  __.—__ 
 
 >         If the Secretary determines that any data necessary to carry out the project under this section does not exist, the Director of the United States Fish and Wildlife Service shall enter into an agreement with the Director of the United States Geological Survey under which the United States Geological Survey, in cooperation with the heads of other Federal agencies, as appropriate, shall obtain and provide to the Director of the United States Fish and Wildlife Service the data required to carry out this section.
 
->         “(5) __Data standards.—__ 
+>         “(5)  __Data standards__  __.—__ 
 
 >         All data used or created to carry out this section shall comply with—
 
@@ -241,11 +241,11 @@
 
 >     “(c) __Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 5 years after the submission of the report under section 3(a), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives a report regarding the digital maps created under this section.
 
->         “(2) __Consultation.—__ 
+>         “(2)  __Consultation__  __.—__ 
 
 >         The Secretary shall prepare the report required under paragraph (1)—
 
@@ -259,7 +259,7 @@
 
 >                 “(ii) considering any public comments submitted under clause (i).
 
->         “(3) __Contents.—__ 
+>         “(3)  __Contents__  __.—__ 
 
 >         The report required under paragraph (1) shall contain—
 
@@ -281,7 +281,7 @@
 
 >                 “(ii) facilitating the integration of digital System unit and otherwise protected area boundaries into Federal, State, and local planning tools.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to the Secretary to carry out this section $1,000,000 for each of fiscal years 2006 through 2010.
 
@@ -295,29 +295,29 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __Project.—__ 
+>         “(1)  __Project__  __.—__ 
 
 >         The Secretary of the Interior (referred to in this section as the ‘Secretary’), in consultation with the Director of the Federal Emergency Management Agency, shall carry out a pilot project to determine the feasibility and cost of creating digital versions of the John H. Chafee Coastal Barrier Resources System maps referred to in section 4(a) of the Coastal Barrier Resources Act ([16 U.S.C. 3503(a)][/us/usc/t16/s3503/a]) (as amended by section 3(d)).
 
->         “(2) __Number of units.—__ 
+>         “(2)  __Number of units__  __.—__ 
 
 >         The pilot project shall consist of the creation of digital maps for no more than 75 units and no fewer than 50 units of the John H. Chafee Coastal Barrier Resources System (referred to in this section as the ‘System’), ⅓ of which shall be otherwise protected areas (as defined in section 12 of the Coastal Barrier Improvement Act of 1990 ([16 U.S.C. 3503][/us/usc/t16/s3503] note; [Public Law 101–591][/us/pl/101/591])).
 
 >     “(b) __Data.—__ 
 
->         “(1) __Use of existing data.—__ 
+>         “(1)  __Use of existing data__  __.—__ 
 
 >         To the maximum extent practicable, in carrying out the pilot project under this section, the Secretary shall use digital spatial data in the possession of State, local, and Federal agencies including digital orthophotos, and shoreline, elevation, and bathymetric data.
 
->         “(2) __Provision of data by other agencies.—__ 
+>         “(2)  __Provision of data by other agencies__  __.—__ 
 
 >         The head of a Federal agency that possesses data referred to in paragraph (1) shall, upon request of the Secretary, promptly provide the data to the Secretary at no cost.
 
->         “(3) __Additional data.—__ 
+>         “(3)  __Additional data__  __.—__ 
 
 >         If the Secretary determines that data necessary to carry out the pilot project under this section do not exist, the Secretary shall enter into an agreement with the Director of the United States Geological Survey under which the Director shall obtain, in cooperation with other Federal agencies, as appropriate, and provide to the Secretary the data required to carry out this section.
 
->         “(4) __Data standards.—__ 
+>         “(4)  __Data standards__  __.—__ 
 
 >         All data used or created to carry out this section shall comply with—
 
@@ -325,17 +325,17 @@
 
 >             “(B) any other standards established by the Federal Geographic Data Committee established by Office of Management and Budget Circular A–16.
 
->     “(c) __Digital Maps Not Controlling.—__ 
+>     “(c)  __Digital Maps Not Controlling__  __.—__ 
 
 >     Any determination as to whether a location is inside or outside the System shall be made without regard to the digital maps created under this section.
 
 >     “(d) __Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 3 years after the date of enactment of this Act \[Nov. 13, 2000\], the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives a report that describes the results of the pilot project and the feasibility, data needs, and costs of completing digital maps for the entire System.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         The report shall include a description of—
 
@@ -349,7 +349,7 @@
 
 >             “(E) the amount of funding necessary to complete digital mapping of the entire System.
 
->     “(e) __Authorization of Appropriations.—__ 
+>     “(e)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to the Secretary to carry out this section $500,000 for each of fiscal years 2002 through 2004.”
 
@@ -375,11 +375,11 @@
 
 [Pub. L. 106–167, § 3(a)][/us/pl/106/167/s3/a], (b), Dec. 9, 1999, [113 Stat. 1804][/us/stat/113/1804], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Coastal Barrier Resources System established by section 4(a) of the Coastal Barrier Resources Act ([16 U.S.C. 3503(a)][/us/usc/t16/s3503/a]) is redesignated as the ‘John H. Chafee Coastal Barrier Resources System’.
 
->     “(b) __References.—__ 
+>     “(b)  __References__  __.—__ 
 
 >     Any reference in a law, map, regulation, document, paper, or other record of the United States to the Coastal Barrier Resources System shall be deemed to be a reference to the John H. Chafee Coastal Barrier Resources System.”
 
@@ -425,7 +425,7 @@ The following acts directed the Secretary of the Interior to make technical revi
 
 [Pub. L. 101–591, § 4][/us/pl/101/591/s4], Nov. 16, 1990, [104 Stat. 2932][/us/stat/104/2932], as amended by [Pub. L. 106–514, § 3(b)(1)(A)][/us/pl/106/514/s3/b/1/A], (2), Nov. 13, 2000, [114 Stat. 2395][/us/stat/114/2395], provided that:
 
->     “(a) __Technical Revision of Maps and Provision to State and Local Government.—__ 
+>     “(a)  __Technical Revision of Maps and Provision to State and Local Government__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Nov. 16, 1990\], the Secretary shall—
 
@@ -447,7 +447,7 @@ The following acts directed the Secretary of the Interior to make technical revi
 
 >             “(C) appropriate Federal agencies.
 
->     “(b) __Recommendations of State and Local Governments for Boundary Modifications.—__ 
+>     “(b)  __Recommendations of State and Local Governments for Boundary Modifications__  __.—__ 
 
 >         (1)
 
@@ -463,7 +463,7 @@ The following acts directed the Secretary of the Interior to make technical revi
 
 >     “(c) __Elections to Add to System.—__ 
 
->         “(1) __Provision of maps by secretary.—__ 
+>         “(1)  __Provision of maps by secretary__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Nov. 16, 1990\], the Secretary shall provide—
 
@@ -473,7 +473,7 @@ The following acts directed the Secretary of the Interior to make technical revi
 
 >             maps depicting those undeveloped coastal barriers not included within the System located in that local government or State, respectively.
 
->         “(2) __Elections.—__ 
+>         “(2)  __Elections__  __.—__ 
 
 >         Not later than 18 months after the date of the enactment of this Act, a local government and the Governor of any State referred to in paragraph (1), and any qualified organization—
 
@@ -489,7 +489,7 @@ The following acts directed the Secretary of the Interior to make technical revi
 
 >                 “(ii) the local government, State, or qualified organization was not provided maps under paragraph (1).
 
->         “(3) __Effective date of election.—__ 
+>         “(3)  __Effective date of election__  __.—__ 
 
 >         An area elected by a local government, Governor of a State, or qualified organization to be added to the System under this subsection shall be part of the System effective on the date on which the Secretary publishes notice in the Federal Register under subsection (e)(1)(C) with respect to that election.
 
@@ -497,7 +497,7 @@ The following acts directed the Secretary of the Interior to make technical revi
 
 >     “(e) __Modification of Boundaries, Revision of Maps, and Publication of Notice.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 2 years after the date of the enactment of this Act \[Nov. 16, 1990\], the Secretary—
 
@@ -513,7 +513,7 @@ The following acts directed the Secretary of the Interior to make technical revi
 
 >             “(C) shall publish in the Federal Register notice of each such modification or election.
 
->         “(2) __Effective date of modifications.—__ 
+>         “(2)  __Effective date of modifications__  __.—__ 
 
 >         A modification of the boundaries of a unit of the System under paragraph (1)(A) shall take effect on the date on which the Secretary published notice in the Federal Register under paragraph (1)(C) with respect to that modification.”
 

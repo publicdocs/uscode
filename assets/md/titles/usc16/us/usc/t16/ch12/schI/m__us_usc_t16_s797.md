@@ -109,11 +109,11 @@
 
 [Pub. L. 113–23, § 6][/us/pl/113/23/s6], Aug. 9, 2013, [127 Stat. 495][/us/stat/127/495], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     To improve the regulatory process and reduce delays and costs for hydropower development at nonpowered dams and closed loop pumped storage projects, the Federal Energy Regulatory Commission (referred to in this section as the ‘Commission’) shall investigate the feasibility of the issuance of a license for hydropower development at nonpowered dams and closed loop pumped storage projects in a 2-year period (referred to in this section as a ‘2-year process’). Such a 2-year process shall include any prefiling licensing process of the Commission.
 
->     “(b) __Workshops and Pilots.—__ 
+>     “(b)  __Workshops and Pilots__  __.—__ 
 
 >     The Commission shall—
 
@@ -125,13 +125,13 @@
 
 >         “(4) not later than 3 years after the date of implementation of the final pilot project testing a 2-year process, hold a final workshop to solicit public comment on the effectiveness of each tested 2-year process.
 
->     “(c) __Memorandum of Understanding.—__ 
+>     “(c)  __Memorandum of Understanding__  __.—__ 
 
 >     The Commission shall, to the extent practicable, enter into a memorandum of understanding with any applicable Federal or State agency to implement a pilot project described in subsection (b).
 
 >     “(d) __Reports.—__ 
 
->         “(1) __Pilot projects not implemented.—__ 
+>         “(1)  __Pilot projects not implemented__  __.—__ 
 
 >         If the Commission determines that no pilot project described in subsection (b) is practicable because no 2-year process is practicable, not later than 240 days after the date of enactment of this Act \[Aug. 9, 2013\], the Commission shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that—
 
@@ -139,7 +139,7 @@
 
 >             “(B) identifies the process, legal, environmental, economic, and other issues that justify the determination of the Commission that no 2-year process is practicable, with recommendations on how Congress may address or remedy the identified issues.
 
->         “(2) __Pilot projects implemented.—__ 
+>         “(2)  __Pilot projects implemented__  __.—__ 
 
 >         If the Commission develops and implements pilot projects involving a 2-year process, not later than 60 days after the date of completion of the final workshop held under subsection (b)(4), the Commission shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that—
 
@@ -163,7 +163,7 @@
 
 [Pub. L. 102–486, title XXIV, § 2405][/us/pl/102/486/s2405], Oct. 24, 1992, [106 Stat. 3098][/us/stat/106/3098], provided that:
 
->     “(a) __Studies.—__ 
+>     “(a)  __Studies__  __.—__ 
 
 >     The Secretary of the Interior, acting pursuant to the Federal reclamation laws (Act of June 17, 1902, [32 Stat. 388][/us/stat/32/388]) \[see Short Title note under [section 371 of Title 43][/us/usc/t43/s371], Public Lands\], and Acts supplementary thereto and amendatory thereof, is authorized and directed to conduct feasibility investigations of opportunities to increase the amount of hydroelectric energy available for marketing by the Secretary from Federal hydroelectric power generation facilities resulting from a reduction in the consumptive use of such power for Federal reclamation project purposes or as a result of an increase in the amount of water available for such generation because of water conservation efforts on Federal reclamation projects or a combination thereof. The Secretary of the Interior is further authorized and directed to conduct feasibility investigations of opportunities to mitigate damages to or enhance fish and wildlife as a result of increasing the amount of water available for such purposes because of water conservation efforts on Federal reclamation projects. Such feasibility investigations shall include, but not be limited to—
 
@@ -179,11 +179,11 @@
 
 >         “(6) a finding by the affected Federal Power Marketing Administrator that the hydroelectric component of the proposed water conservation feature is cost-effective and that the affected Administrator is able to market the hydro-electric power expected to be generated.
 
->     “(b) __Consultation.—__ 
+>     “(b)  __Consultation__  __.—__ 
 
 >     In preparing feasibility studies pursuant to this section, the Secretary of the Interior shall consult with, and seek the recommendations of, affected State, local and Indian tribal interests, and shall provide for appropriate public comment.
 
->     “(c) __Authorization.—__ 
+>     “(c)  __Authorization__  __.—__ 
 
 >     There is hereby authorized to be appropriated to the Secretary of the Interior such sums as may be necessary to carry out this section.”
 

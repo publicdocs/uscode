@@ -29,11 +29,11 @@
 
     (f) __Plant.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The terms “plant” and “plants” mean any wild member of the plant kingdom, including roots, seeds, parts, or products thereof, and including trees from either natural or planted forest stands.
 
-        (2) __Exclusions.—__ 
+        (2)  __Exclusions__  __.—__ 
 
         The terms “plant” and “plants” exclude—
 
@@ -43,7 +43,7 @@
 
             (C) any plant that is to remain planted or to be planted or replanted.
 
-        (3) __Exceptions to application of exclusions.—__ 
+        (3)  __Exceptions to application of exclusions__  __.—__ 
 
         The exclusions made by subparagraphs (B) and (C) of paragraph (2) do not apply if the plant is listed—
 
@@ -53,7 +53,7 @@
 
             (C) pursuant to any State law that provides for the conservation of species that are indigenous to the State and are threatened with extinction.
 
-    (g) __Prohibited Wildlife Species.—__ 
+    (g)  __Prohibited Wildlife Species__  __.—__ 
 
     The term “prohibited wildlife species” means any live species of lion, tiger, leopard, cheetah, jaguar, or cougar or any hybrid of such species.
 
@@ -63,11 +63,11 @@
 
     (j) __Taken and Taking.—__ 
 
-        (1) __Taken.—__ 
+        (1)  __Taken__  __.—__ 
 
         The term “taken” means captured, killed, or collected and, with respect to a plant, also means harvested, cut, logged, or removed.
 
-        (2) __Taking.—__ 
+        (2)  __Taking__  __.—__ 
 
         The term “taking” means the act by which fish, wildlife, or plants are taken.
 

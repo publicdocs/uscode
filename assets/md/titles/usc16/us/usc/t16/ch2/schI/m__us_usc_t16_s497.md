@@ -29,23 +29,23 @@
 
 >     “(a) The Secretary of Agriculture shall develop and implement a pilot program for the purpose of enhancing forest service administration of rights-of-way and other land uses. The authority for this program shall be for fiscal years 2000 through 2012. Prior to the expiration of the authority for this pilot program, the Secretary shall submit a report to the House and Senate Committees on Appropriations, and the Committee on Energy and Natural Resources of the Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives that evaluates whether the use of funds under this section resulted in more expeditious approval of rights-of-way and special use authorizations. This report shall include the Secretary’s recommendation for statutory or regulatory changes to reduce the average processing time for rights-of-way and special use permit applications.
 
->     “(b) __Deposit of Fees.—__ 
+>     “(b)  __Deposit of Fees__  __.—__ 
 
 >     Subject to subsections (a) and (f), during fiscal years 2000 through 2012, the Secretary of Agriculture shall deposit into a special account established in the Treasury all fees collected by the Secretary to recover the costs of processing applications for, and monitoring compliance with, authorizations to use and occupy National Forest System lands pursuant to section 28(l) of the Mineral Leasing Act ([30 U.S.C. 185][/us/usc/t30/s185](l)), section 504(g) of the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1764(g)][/us/usc/t43/s1764/g]), [section 9701 of title 31][/us/usc/t31/s9701], United States Code, and section 110(g) of the National Historic Preservation Act ([16 U.S.C. 470h–2(g)][/us/usc/t16/s470h–2/g]).
 
->     “(c) __Use of Retained Amounts.—__ 
+>     “(c)  __Use of Retained Amounts__  __.—__ 
 
 >     Amounts deposited pursuant to subsection (b) shall be available, without further appropriation, for expenditure by the Secretary of Agriculture to cover costs incurred by the Forest Service for the processing of applications for special use authorizations and for monitoring activities undertaken in connection with such authorizations. Amounts in the special account shall remain available for such purposes until expended.
 
->     “(d) __Reporting Requirement.—__ 
+>     “(d)  __Reporting Requirement__  __.—__ 
 
 >     In the budget justification documents submitted by the Secretary of Agriculture in support of the President’s budget for a fiscal year under [section 1105 of title 31][/us/usc/t31/s1105], United States Code, the Secretary shall include a description of the purposes for which amounts were expended from the special account during the preceding fiscal year, including the amounts expended for each purpose, and a description of the purposes for which amounts are proposed to be expended from the special account during the next fiscal year, including the amounts proposed to be expended for each purpose.
 
->     “(e) __Definition of Authorization.—__ 
+>     “(e)  __Definition of Authorization__  __.—__ 
 
 >     For purposes of this section, the term ‘authorizations’ means special use authorizations issued under subpart B of part 251 of title 36, Code of Federal Regulations.
 
->     “(f) __Implementation.—__ 
+>     “(f)  __Implementation__  __.—__ 
 
 >     This section shall take effect upon promulgation of Forest Service regulations for the collection of fees for processing of special use authorizations and for related monitoring activities.”
 

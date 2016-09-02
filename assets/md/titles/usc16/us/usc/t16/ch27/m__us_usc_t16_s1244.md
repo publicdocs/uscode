@@ -81,19 +81,19 @@
 
             (A) El Camino Real de Tierra Adentro (the Royal Road of the Interior) National Historic Trail, a 404 mile long trail from the Rio Grande near El Paso, Texas to San Juan Pueblo, New Mexico, as generally depicted on the maps entitled “United States Route: El Camino Real de Tierra Adentro”, contained in the report prepared pursuant to subsection (b) of this section entitled “National Historic Trail Feasibility Study and Environmental Assessment: El Camino Real de Tierra Adentro, Texas-New Mexico”, dated March 1997.
 
-            (B) __Map.—__ 
+            (B)  __Map__  __.—__ 
 
             A map generally depicting the trail shall be on file and available for public inspection in the Office of the National Park Service, Department of the Interior.
 
-            (C) __Administration.—__ 
+            (C)  __Administration__  __.—__ 
 
             The Trail shall be administered by the Secretary of the Interior.
 
-            (D) __Land acquisition.—__ 
+            (D)  __Land acquisition__  __.—__ 
 
             No lands or interests therein outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for El Camino Real de Tierra Adentro except with the consent of the owner thereof.
 
-            (E) __Volunteer groups; consultation.—__ 
+            (E)  __Volunteer groups; consultation__  __.—__ 
 
             The Secretary of the Interior shall—
 
@@ -101,29 +101,29 @@
 
                 (ii) consult with other affected Federal, State, local governmental, and tribal agencies in the administration of the trail.
 
-            (F) __Coordination of activities.—__ 
+            (F)  __Coordination of activities__  __.—__ 
 
             The Secretary of the Interior may coordinate with United States and Mexican public and non-governmental organizations, academic institutions, and, in consultation with the Secretary of State, the government of Mexico and its political subdivisions, for the purpose of exchanging trail information and research, fostering trail preservation and educational programs, providing technical assistance, and working to establish an international historic trail with complementary preservation and education programs in each nation.
 
         (22) __Ala kahakai national historic trail.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Ala Kahakai National Historic Trail (the Trail by the Sea), a 175 mile long trail extending from ‘Upolu Point on the north tip of Hawaii Island down the west coast of the Island around Ka Lae to the east boundary of Hawaiʻi Volcanoes National Park at the ancient shoreline temple known as “Waha‘ula”, as generally depicted on the map entitled “Ala Kahakai Trail”, contained in the report prepared pursuant to subsection (b) of this section entitled “Ala Kahakai National Trail Study and Environmental Impact Statement”, dated January 1998.
 
-            (B) __Map.—__ 
+            (B)  __Map__  __.—__ 
 
             A map generally depicting the trail shall be on file and available for public inspection in the Office of the National Park Service, Department of the Interior.
 
-            (C) __Administration.—__ 
+            (C)  __Administration__  __.—__ 
 
             The trail shall be administered by the Secretary of the Interior.
 
-            (D) __Land acquisition.—__ 
+            (D)  __Land acquisition__  __.—__ 
 
             No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the United States for the trail except with the consent of the owner of the land or interest in land.
 
-            (E) __Public participation; consultation.—__ 
+            (E)  __Public participation; consultation__  __.—__ 
 
             The Secretary of the Interior shall—
 
@@ -133,27 +133,27 @@
 
         (23) __Old spanish national historic trail.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Old Spanish National Historic Trail, an approximately 2,700 mile long trail extending from Santa Fe, New Mexico, to Los Angeles, California, that served as a major trade route between 1829 and 1848, as generally depicted on the maps numbered 1 through 9, as contained in the report entitled “Old Spanish Trail National Historic Trail Feasibility Study”, dated July 2001, including the Armijo Route, Northern Route, North Branch, and Mojave Road.
 
-            (B) __Map.—__ 
+            (B)  __Map__  __.—__ 
 
             A map generally depicting the trail shall be on file and available for public inspection in the appropriate offices of the Department of the Interior.
 
-            (C) __Administration.—__ 
+            (C)  __Administration__  __.—__ 
 
             The trail shall be administered by the Secretary of the Interior (referred to in this paragraph as the “Secretary”).
 
-            (D) __Land acquisition.—__ 
+            (D)  __Land acquisition__  __.—__ 
 
             The United States shall not acquire for the trail any land or interest in land outside the exterior boundary of any federally-managed area without the consent of the owner of the land or interest in land.
 
-            (E) __Consultation.—__ 
+            (E)  __Consultation__  __.—__ 
 
             The Secretary shall consult with other Federal, State, local, and tribal agencies in the administration of the trail.
 
-            (F) __Additional routes.—__ 
+            (F)  __Additional routes__  __.—__ 
 
             The Secretary may designate additional routes to the trail if—
 
@@ -163,15 +163,15 @@
 
         (24) __El camino real de los tejas national historic trail.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             El Camino Real de los Tejas (the Royal Road to the Tejas) National Historic Trail, a combination of historic routes (including the Old San Antonio Road) totaling approximately 2,580 miles, extending from the Rio Grande near Eagle Pass and Laredo, Texas, to Natchitoches, Louisiana, as generally depicted on the map entitled “El Camino Real de los Tejas” contained in the report entitled “National Historic Trail Feasibility Study and Environmental Assessment: El Camino Real de los Tejas, Texas-Louisiana”, dated July 1998.
 
-            (B) __Map.—__ 
+            (B)  __Map__  __.—__ 
 
             A map generally depicting the trail shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 
-            (C) __Administration.—__ 
+            (C)  __Administration__  __.—__ 
 
                 (i) The Secretary of the Interior (referred to in this paragraph as “the Secretary”) shall administer the trail.
 
@@ -179,29 +179,29 @@
 
                 (iii) The designation of the trail does not authorize any person to enter private property without the consent of the owner.
 
-            (D) __Consultation.—__ 
+            (D)  __Consultation__  __.—__ 
 
             The Secretary shall consult with appropriate State and local agencies in the planning and development of the trail.
 
-            (E) __Coordination of activities.—__ 
+            (E)  __Coordination of activities__  __.—__ 
 
             The Secretary may coordinate with United States and Mexican public and nongovernmental organizations, academic institutions, and, in consultation with the Secretary of State, the Government of Mexico and its political subdivisions, for the purpose of exchanging trail information and research, fostering trail preservation and educational programs, providing technical assistance, and working to establish an international historic trail with complementary preservation and education programs in each nation.
 
-            (F) __Land acquisition.—__ 
+            (F)  __Land acquisition__  __.—__ 
 
             The United States shall not acquire for the trail any land or interest in land outside the exterior boundary of any federally-administered area without the consent of the owner of the land or interest in land.
 
         (25) __Captain john smith chesapeake national historic trail.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Captain John Smith Chesapeake National Historic Trail, a series of water routes extending approximately 3,000 miles along the Chesapeake Bay and the tributaries of the Chesapeake Bay in the States of Virginia, Maryland, and Delaware, and in the District of Columbia, that traces the 1607–1609 voyages of Captain John Smith to chart the land and waterways of the Chesapeake Bay, as generally depicted on the map entitled “Captain John Smith Chesapeake National Historic Trail Map MD, VA, DE, and DC”, numbered P–16/8000 (CAJO), and dated May 2006.
 
-            (B) __Map.—__ 
+            (B)  __Map__  __.—__ 
 
             The map referred to in subparagraph (A) shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 
-            (C) __Administration.—__ 
+            (C)  __Administration__  __.—__ 
 
             The trail shall be administered by the Secretary of the Interior—
 
@@ -221,29 +221,29 @@
 
                     (II) the private sector.
 
-            (D) __Land acquisition.—__ 
+            (D)  __Land acquisition__  __.—__ 
 
             The United States shall not acquire for the trail any land or interest in land outside the exterior boundary of any federally-managed area without the consent of the owner of the land or interest in land.
 
         (26) __Star-spangled banner national historic trail.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Star-Spangled Banner National Historic Trail, a trail consisting of water and overland routes totaling approximately 290 miles, extending from Tangier Island, Virginia, through southern Maryland, the District of Columbia, and northern Virginia, in the Chesapeake Bay, Patuxent River, Potomac River, and north to the Patapsco River, and Baltimore, Maryland, commemorating the Chesapeake Campaign of the War of 1812 (including the British invasion of Washington, District of Columbia, and its associated feints, and the Battle of Baltimore in summer 1814), as generally depicted on the map titled “Star-Spangled Banner National Historic Trail”, numbered T02/80,000, and dated June 2007.
 
-            (B) __Map.—__ 
+            (B)  __Map__  __.—__ 
 
             The map referred to in subparagraph (A) shall be maintained on file and available for public inspection in the appropriate offices of the National Park Service.
 
-            (C) __Administration.—__ 
+            (C)  __Administration__  __.—__ 
 
             Subject to subparagraph (E)(ii), the trail shall be administered by the Secretary of the Interior.
 
-            (D) __Land acquisition.—__ 
+            (D)  __Land acquisition__  __.—__ 
 
             No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the United States for the trail except with the consent of the owner of the land or interest in land.
 
-            (E) __Public participation.—__ 
+            (E)  __Public participation__  __.—__ 
 
             The Secretary of the Interior shall—
 
@@ -251,7 +251,7 @@
 
                 (ii) consult with other affected landowners and Federal, State, and local agencies in the administration of the trail.
 
-            (F) __Interpretation and assistance.—__ 
+            (F)  __Interpretation and assistance__  __.—__ 
 
             Subject to the availability of appropriations, the Secretary of the Interior may provide, to State and local governments and nonprofit organizations, interpretive programs and services and technical assistance for use in—
 
@@ -261,29 +261,29 @@
 
         (27) __Arizona national scenic trail.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Arizona National Scenic Trail, extending approximately 807 miles across the State of Arizona from the U.S.–Mexico international border to the Arizona–Utah border, as generally depicted on the map entitled “Arizona National Scenic Trail” and dated December 5, 2007, to be administered by the Secretary of Agriculture, in consultation with the Secretary of the Interior and appropriate State, tribal, and local governmental agencies.
 
-            (B) __Availability of map.—__ 
+            (B)  __Availability of map__  __.—__ 
 
             The map shall be on file and available for public inspection in appropriate offices of the Forest Service.
 
-        (28) __New england national scenic trail.—__ 
+        (28)  __New england national scenic trail__  __.—__ 
 
         The New England National Scenic Trail, a continuous trail extending approximately 220 miles from the border of New Hampshire in the town of Royalston, Massachusetts to Long Island Sound in the town of Guilford, Connecticut, as generally depicted on the map titled “New England National Scenic Trail Proposed Route”, numbered T06/80,000, and dated October 2007. The map shall be on file and available for public inspection in the appropriate offices of the National Park Service. The Secretary of the Interior, in consultation with appropriate Federal, State, tribal, regional, and local agencies, and other organizations, shall administer the trail after considering the recommendations of the report titled the “Metacomet Monadnock Mattabesset Trail System National Scenic Trail Feasibility Study and Environmental Assessment”, prepared by the National Park Service, and dated Spring 2006. The United States shall not acquire for the trail any land or interest in land without the consent of the owner.
 
         (29) __Washington-rochambeau revolutionary route national historic trail.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Washington-Rochambeau Revolutionary Route National Historic Trail, a corridor of approximately 600 miles following the route taken by the armies of General George Washington and Count Rochambeau between Newport, Rhode Island, and Yorktown, Virginia, in 1781 and 1782, as generally depicted on the map entitled “WASHINGTON-ROCHAMBEAU REVOLUTIONARY ROUTE NATIONAL HISTORIC TRAIL”, numbered T01/80,001, and dated June 2007.
 
-            (B) __Map.—__ 
+            (B)  __Map__  __.—__ 
 
             The map referred to in subparagraph (A) shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 
-            (C) __Administration.—__ 
+            (C)  __Administration__  __.—__ 
 
             The trail shall be administered by the Secretary of the Interior, in consultation with—
 
@@ -291,25 +291,25 @@
 
                 (ii) the private sector.
 
-            (D) __Land acquisition.—__ 
+            (D)  __Land acquisition__  __.—__ 
 
             The United States shall not acquire for the trail any land or interest in land outside the exterior boundary of any federally-managed area without the consent of the owner of the land or interest in land.
 
         (30) __Pacific northwest national scenic trail.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Pacific Northwest National Scenic Trail, a trail of approximately 1,200 miles, extending from the Continental Divide in Glacier National Park, Montana, to the Pacific Ocean Coast in Olympic National Park, Washington, following the route depicted on the map entitled “Pacific Northwest National Scenic Trail: Proposed Trail”, numbered T12/80,000, and dated February 2008 (referred to in this paragraph as the “map”).
 
-            (B) __Availability of map.—__ 
+            (B)  __Availability of map__  __.—__ 
 
             The map shall be on file and available for public inspection in the appropriate offices of the Forest Service.
 
-            (C) __Administration.—__ 
+            (C)  __Administration__  __.—__ 
 
             The Pacific Northwest National Scenic Trail shall be administered by the Secretary of Agriculture.
 
-            (D) __Land acquisition.—__ 
+            (D)  __Land acquisition__  __.—__ 
 
             The United States shall not acquire for the Pacific Northwest National Scenic Trail any land or interest in land outside the exterior boundary of any federally-managed area without the consent of the owner of the land or interest in land.
 
@@ -491,23 +491,23 @@
 
         (40) __Star-Spangled Banner National Historic Trail.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Star-Spangled Banner National Historic Trail, tracing the War of 1812 route from the arrival of the British fleet in the Patuxent River in Calvert County and St. Mary’s County, Maryland, the landing of the British forces at Benedict, the sinking of the Chesapeake Flotilla at Pig Point, the American defeat at the Battle of Bladensburg, the siege of the Nation’s Capital, Washington, District of Columbia (including the burning of the United States Capitol and the White House), the British naval diversions in the upper Chesapeake Bay leading to the Battle of Caulk’s Field in Kent County, Maryland, the route of the American troops from Washington through Georgetown, the Maryland Counties of Montgomery, Howard, and Baltimore, and the City of Baltimore, Maryland, to the Battle of North Point, and the ultimate victory of the Americans at Fort McHenry on September 14, 1814.
 
-            (B) __Affected areas.—__ 
+            (B)  __Affected areas__  __.—__ 
 
             The trail crosses eight counties within the boundaries of the State of Maryland, the City of Baltimore, Maryland, and Washington, District of Columbia.
 
-            (C) __Coordination with other congressionally mandated activities.—__ 
+            (C)  __Coordination with other congressionally mandated activities__  __.—__ 
 
             The study under this paragraph shall be undertaken in coordination with the study authorized under section 603 of the Omnibus Parks and Public Lands Management Act of 1996 ([16 U.S.C. 1a–5][/us/usc/t16/s1a–5] note; [110 Stat. 4172][/us/stat/110/4172]) and the Chesapeake Bay Gateways and Watertrails Network authorized under the Chesapeake Bay Initiative Act of 1998 ([16 U.S.C. 461][/us/usc/t16/s461] note; [112 Stat. 2961][/us/stat/112/2961]). Such coordination shall extend to any research needed to complete the studies and any findings and implementation actions that result from the studies and shall use available resources to the greatest extent possible to avoid unnecessary duplication of effort.
 
-            (D) __Deadline for study.—__ 
+            (D)  __Deadline for study__  __.—__ 
 
             Not later than 2 years after funds are made available for the study under this paragraph, the study shall be completed and transmitted with final recommendations to the Committee on Resources in the House of Representatives and the Committee on Energy and Natural Resources in the Senate.
 
-        (41) __Metacomet-Monadnock-Mattabesett Trail.—__ 
+        (41)  __Metacomet-Monadnock-Mattabesett Trail__  __.—__ 
 
         The Metacomet-Monadnock-Mattabesett Trail, a system of trails and potential trails extending southward approximately 180 miles through western Massachusetts on the Metacomet-Monadnock Trail, across central Connecticut on the Metacomet Trail and the Mattabesett Trail, and ending at Long Island Sound.
 
@@ -529,21 +529,21 @@
 
         (44) __Chisholm Trail.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Chisholm Trail (also known as the “Abilene Trail”), from the vicinity of San Antonio, Texas, segments from the vicinity of Cuero, Texas, to Ft. Worth, Texas, Duncan, Oklahoma, alternate segments used through Oklahoma, to Enid, Oklahoma, Caldwell, Kansas, Wichita, Kansas, Abilene, Kansas, and commonly used segments running to alternative Kansas destinations.
 
-            (B) __Requirement.—__ 
+            (B)  __Requirement__  __.—__ 
 
             In conducting the study required under this paragraph, the Secretary of the Interior shall identify the point at which the trail originated south of San Antonio, Texas.
 
         (45) __Great Western Trail.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Great Western Trail (also known as the “Dodge City Trail”), from the vicinity of San Antonio, Texas, north-by-northwest through the vicinities of Kerrville and Menard, Texas, north-by-northeast through the vicinities of Coleman and Albany, Texas, north through the vicinity of Vernon, Texas, to Doan’s Crossing, Texas, northward through or near the vicinities of Altus, Lone Wolf, Canute, Vici, and May, Oklahoma, north through Kansas to Dodge City, and north through Nebraska to Ogallala.
 
-            (B) __Requirement.—__ 
+            (B)  __Requirement__  __.—__ 
 
             In conducting the study required under this paragraph, the Secretary of the Interior shall identify the point at which the trail originated south of San Antonio, Texas.
 
@@ -967,11 +967,11 @@
 
 [Pub. L. 111–11, title V, § 5401][/us/pl/111/11/s5401], Mar. 30, 2009, [123 Stat. 1164][/us/stat/123/1164], provided that:
 
->     “(a) __Effect on Access for Recreational Activities.—__ 
+>     “(a)  __Effect on Access for Recreational Activities__  __.—__ 
 
 >     Nothing in this title \[amending this section and sections 1249, 1274, and 1276 of this title and enacting provisions set out as notes under this section and sections 1271 and 1274 of this title\] shall be construed as affecting access for recreational activities otherwise allowed by law or regulation, including hunting, fishing, or trapping.
 
->     “(b) __Effect on State Authority.—__ 
+>     “(b)  __Effect on State Authority__  __.—__ 
 
 >     Nothing in this title shall be construed as affecting the authority, jurisdiction, or responsibility of the several States to manage, control, or regulate fish and resident wildlife under State law or regulations, including the regulation of hunting, fishing, and trapping.”
 
@@ -979,15 +979,15 @@
 
 [Pub. L. 111–11, title V, § 5202(b)][/us/pl/111/11/s5202/b]–(d), Mar. 30, 2009, [123 Stat. 1154][/us/stat/123/1154], 1155, provided that:
 
->     “(b) __Management.—__ 
+>     “(b)  __Management__  __.—__ 
 
 >     The Secretary of the Interior (referred to in this section \[amending this section\] as the ‘Secretary’) shall consider the actions outlined in the Trail Management Blueprint described in the report titled the ‘Metacomet Monadnock Mattabesett Trail System National Scenic Trail Feasibility Study and Environmental Assessment’, prepared by the National Park Service, and dated Spring 2006, as the framework for management and administration of the New England National Scenic Trail. Additional or more detailed plans for administration, management, protection, access, maintenance, or development of the trail may be developed consistent with the Trail Management Blueprint, and as approved by the Secretary.
 
->     “(c) __Cooperative Agreements.—__ 
+>     “(c)  __Cooperative Agreements__  __.—__ 
 
 >     The Secretary is authorized to enter into cooperative agreements with the Commonwealth of Massachusetts (and its political subdivisions), the State of Connecticut (and its political subdivisions), and other regional, local, and private organizations deemed necessary and desirable to accomplish cooperative trail administrative, management, and protection objectives consistent with the Trail Management Blueprint. An agreement under this subsection may include provisions for limited financial assistance to encourage participation in the planning, acquisition, protection, operation, development, or maintenance of the trail.
 
->     “(d) __Additional Trail Segments.—__ 
+>     “(d)  __Additional Trail Segments__  __.—__ 
 
 >     Pursuant to section 6 of the National Trails System Act ([16 U.S.C. 1245][/us/usc/t16/s1245]), the Secretary is encouraged to work with the State of New Hampshire and appropriate local and private organizations to include that portion of the Metacomet-Monadnock Trail in New Hampshire (which lies between Royalston, Massachusetts and Jaffrey, New Hampshire) as a component of the New England National Scenic Trail. Inclusion of this segment, as well as other potential side or connecting trails, is contingent upon written application to the Secretary by appropriate State and local jurisdictions and a finding by the Secretary that trail management and administration is consistent with the Trail Management Blueprint.”
 

@@ -55,7 +55,7 @@
 
 > “SEC. 2. __STUDY OF GRAZING USE AND OPEN SPACE.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of the Interior shall conduct a study concerning grazing use and open space in Grand Teton National Park, Wyoming, and associated use of certain agricultural and ranch lands within and adjacent to the Park, including—
 
@@ -63,7 +63,7 @@
 
 >         “(2) any ranch and agricultural land adjacent to the Park, the use and disposition of which may affect accomplishment of the purposes of the Act.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The study shall—
 
@@ -75,21 +75,21 @@
 
 >         “(4) estimate the costs of implementing any recommendations made for the preservation of the land.
 
->     “(c) __Participation.—__ 
+>     “(c)  __Participation__  __.—__ 
 
 >     In conducting the study, the Secretary of the Interior shall seek participation from the Governor of the State of Wyoming, the Teton County Commissioners, the Secretary of Agriculture, affected land owners, and other interested members of the public.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than 3 years from the date funding is available for the purposes of this Act, the Secretary of the Interior shall submit a report to Congress that contains the findings of the study under subsection (a) and makes recommendations to Congress regarding action that may be taken with respect to the land described in subsection (a).
 
 > “SEC. 3. __EXTENSION OF GRAZING PRIVILEGES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to subsection (b), the Secretary of the Interior shall reinstate and extend for the duration of the study described in section 2(a) and until such time as the recommendations of the study are implemented, the grazing privileges described in section 2(a)(1), under the same terms and conditions as were in effect prior to the expiration of the privileges.
 
->     “(b) __Effect of Change in Land Use.—__ 
+>     “(b)  __Effect of Change in Land Use__  __.—__ 
 
 >     If, during the period of the study or until such time as the recommendations of the study are implemented, any portion of the land described in section 2(a)(1) is disposed of in a manner that would result in the land no longer being used for ranching or other agricultural purposes, the Secretary of the Interior shall cancel the extension described in subsection (a).”
 

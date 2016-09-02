@@ -81,7 +81,7 @@
 
 [Pub. L. 104–333, div. I, title III, § 302][/us/pl/104/333/s302], Nov. 12, 1996, [110 Stat. 4117][/us/stat/110/4117], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress makes the following findings:
 
@@ -97,39 +97,39 @@
 
 >         “(1) __Ratification.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The terms, conditions, procedures, covenants, reservations, and other provisions set forth in the document entitled ‘Donation, Exchange of Lands and Interests in Lands and Wilderness Redesignation Agreement Among Arctic Slope Regional Corporation, Nunamiut Corporation, City of Anaktuvuk Pass and the United States of America’ (hereinafter referred to in this section as ‘the Agreement’), executed by the parties on December 17, 1992, as amended, are hereby incorporated in this title \[see Tables for classification\], are ratified and confirmed, and set forth the obligations and commitments of the United States, Arctic Slope Regional Corporation, Nunamiut Corporation and the City of Anaktuvuk Pass, as a matter of Federal law.
 
->             “(B) __Land acquisition.—__ 
+>             “(B)  __Land acquisition__  __.—__ 
 
 >             Lands acquired by the United States pursuant to the Agreement shall be administered by the Secretary of the Interior (hereinafter referred to as the ‘Secretary’) as part of Gates of the Arctic National Park and Preserve, subject to the laws and regulations applicable thereto.
 
->         “(2) __Maps.—__ 
+>         “(2)  __Maps__  __.—__ 
 
 >         The maps set forth as Exhibits C1, C2, and D through I to the Agreement depict the lands subject to the conveyances, retention of surface access rights, access easements and all-terrain vehicle easements. These lands are depicted in greater detail on a map entitled ‘Land Exchange Actions, Proposed Anaktuvuk Pass Land Exchange and Wilderness Redesignation, Gates of the Arctic National Park and Preserve’, Map No. 185/80,039, dated April 1994, and on file at the Alaska Regional Office of the National Park Service and the offices of Gates of the Arctic National Park and Preserve in Fairbanks, Alaska. Written legal descriptions of these lands shall be prepared and made available in the above offices. In case of any discrepancies, Map No. 185/80,039 shall be controlling.
 
 >     “(c) __National Park System Wilderness.—__ 
 
->         “(1) __Gates of the artic wilderness.—__ 
+>         “(1)  __Gates of the artic wilderness__  __.—__ 
 
 >         \[Amended provisions listed in a Table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132].\]
 
->         “(2) __Noatak national preserve.—__ 
+>         “(2)  __Noatak national preserve__  __.—__ 
 
 >         \[Amended this section.\]
 
->         “(3) __Noatak wilderness.—__ 
+>         “(3)  __Noatak wilderness__  __.—__ 
 
 >         \[Amended provisions listed in a Table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132].\]
 
 >     “(d) __Conformance With Other Law.—__ 
 
->         “(1) __Alaska native claims settlement act.—__ 
+>         “(1)  __Alaska native claims settlement act__  __.—__ 
 
 >         All of the lands, or interests therein, conveyed to and received by Arctic Slope Regional Corporation or Nunamiut Corporation pursuant to the Agreement shall be deemed conveyed and received pursuant to exchanges under section 22(f) of the Alaska Native Claims Settlement Act, as amended ([43 U.S.C. 1601][/us/usc/t43/s1601], 1621(f)). All of the lands or interests in lands conveyed pursuant to the Agreement shall be conveyed subject to valid existing rights.
 
->         “(2) __Alaska national interest lands conservation act.—__ 
+>         “(2)  __Alaska national interest lands conservation act__  __.—__ 
 
 >         Except to the extent specifically set forth in this section or the Agreement, nothing in this section or in the Agreement shall be construed to enlarge or diminish the rights, privileges, or obligations of any person, including specifically the preference for subsistence uses and access to subsistence resources provided under the Alaska National Interest Lands Conservation Act ([16 U.S.C. 3101][/us/usc/t16/s3101] et seq.).”
 

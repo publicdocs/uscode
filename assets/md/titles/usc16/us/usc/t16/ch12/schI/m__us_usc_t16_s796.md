@@ -111,13 +111,13 @@
 
     (21) “State regulatory authority” has the same meaning as the term “State commission”, except that in the case of an electric utility with respect to which the Tennessee Valley Authority has ratemaking authority (as defined in [section 2602 of this title][/us/usc/t16/s2602]), such term means the Tennessee Valley Authority;
 
-    (22) __Electric utility.—__ 
+    (22)  __Electric utility__  __.—__ 
 
         (A) The term “electric utility” means a person or Federal or State agency (including an entity described in [section 824(f) of this title][/us/usc/t16/s824/f]) that sells electric energy.1
 
         (B) The term “electric utility” includes the Tennessee Valley Authority and each Federal power marketing administration.1
 
-    (23) __Transmitting utility.—__ 
+    (23)  __Transmitting utility__  __.—__ 
 
     The term “transmitting utility” means an entity (including an entity described in [section 824(f) of this title][/us/usc/t16/s824/f]) that owns, operates, or controls facilities used for the transmission of electric energy—
 
@@ -125,15 +125,15 @@
 
         (B) for the sale of electric energy at wholesale.1
 
-    (24) __Wholesale transmission services.—__ 
+    (24)  __Wholesale transmission services__  __.—__ 
 
     The term “wholesale transmission services” means the transmission of electric energy sold, or to be sold, at wholesale in interstate commerce.1
 
-    (25) __Exempt wholesale generator.—__ 
+    (25)  __Exempt wholesale generator__  __.—__ 
 
     The term “exempt wholesale generator” shall have the meaning provided by section 79z–5a  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of title 15.1
 
-    (26) __Electric cooperative.—__ 
+    (26)  __Electric cooperative__  __.—__ 
 
     The term “electric cooperative” means a cooperatively owned electric utility.1
 
@@ -153,7 +153,7 @@
 
         (B) to ensure nondiscriminatory access to the facilities. <sup>\[3\]</sup>  <sup><sup> 3 So in original. The period probably should be “; and”. </sup></sup> 
 
-    (29) __Transmission organization.—__ 
+    (29)  __Transmission organization__  __.—__ 
 
     The term “Transmission Organization” means a Regional Transmission Organization, Independent System Operator, independent transmission provider, or other transmission organization finally approved by the Commission for the operation of transmission facilities.
 

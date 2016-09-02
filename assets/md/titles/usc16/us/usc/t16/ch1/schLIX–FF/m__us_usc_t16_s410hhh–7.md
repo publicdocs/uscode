@@ -81,7 +81,7 @@
 
                 (iv) the immediately surrounding areas of Alamosa or Saguache Counties, Colorado.
 
-            (B) __Use.—__ 
+            (B)  __Use__  __.—__ 
 
             Except as provided in the memorandum of water service agreement and the water service agreement between the Cabeza de Vaca Land and Cattle Company, LLC, and Baca Grande Water and Sanitation District, dated August 28, 1997, water rights and water resources described in subparagraph (A) shall be restricted for use in—
 

@@ -35,11 +35,11 @@
 
 > “SEC. 202. __VALLEY FORGE MUSEUM OF THE AMERICAN REVOLUTION AUTHORIZATION.__ 
 
->     “(a) __Agreement Authorized.—__ 
+>     “(a)  __Agreement Authorized__  __.—__ 
 
 >     The Secretary of the Interior, in administering the Valley Forge National Historical Park, is authorized to enter into an agreement under appropriate terms and conditions with the Society to facilitate the planning, construction, and operation of the Valley Forge Museum of the American Revolution on Federal land within the boundary of Valley Forge National Historical Park.
 
->     “(b) __Contents and Implementation of Agreement.—__ 
+>     “(b)  __Contents and Implementation of Agreement__  __.—__ 
 
 >     An agreement entered into under subsection (a) shall—
 

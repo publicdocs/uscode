@@ -27,11 +27,11 @@
 
 [Pub. L. 100–387, title IV, § 402][/us/pl/100/387/s402], as added [Pub. L. 101–82, title V, § 503][/us/pl/101/82/s503], Aug. 14, 1989, [103 Stat. 586][/us/stat/103/586], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Agriculture may provide disaster relief assistance in accordance with this section to repair damage caused by storms occurring in 1988 or 1989 to watersheds located in any county in any State, to the extent that funds authorized by this section remain available.
 
->     “(b) __Form of Assistance.—__ 
+>     “(b)  __Form of Assistance__  __.—__ 
 
 >     The assistance authorized by this section—
 
@@ -39,7 +39,7 @@
 
 >         “(2) shall be provided in a manner consistent with similar assistance authorized under section 403 of the Agricultural Credit Act of 1978 ([16 U.S.C. 2203][/us/usc/t16/s2203]).
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this section $25,000,000 for fiscal year 1990.”
 

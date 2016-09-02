@@ -183,7 +183,7 @@ Section 17, formerly section 14, of [Pub. L. 95–313][/us/pl/95/313], as renumb
 
 > “SEC. 1264. __TREE PLANTING FOUNDATION.__ 
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     The purpose of this section is to authorize the President to designate a private nonprofit Foundation as eligible to receive a grant from the Department of Agriculture to be used—
 
@@ -195,59 +195,59 @@ Section 17, formerly section 14, of [Pub. L. 95–313][/us/pl/95/313], as renumb
 
 >         “(4) to ensure that our descendants will be able to share their ancestors’ pride when referring to their land as ‘America the Beautiful’.
 
->     “(b) __Authority.—__ 
+>     “(b)  __Authority__  __.—__ 
 
 >     The President is authorized to designate a private nonprofit organization (hereafter in this section referred to as the ‘Foundation’) as eligible to receive funds pursuant to subsections (d) and (e) upon determining that such organization can, consistent with its charter, carry out the purposes stated in subsection (a), and that the officers of such organization have the experience and expertise necessary to direct the activities of the organization. Nothing in this section shall be construed to make officers, employees, or members of the board of directors of the Foundation officers or employees of the United States. The Foundation shall be a private and nonprofit organization and not an agency or establishment of the United States.
 
->     “(c) __Implementation.—__ 
+>     “(c)  __Implementation__  __.—__ 
 
 >     The Foundation shall carry out this section in accordance with the purposes stated in subsection (a).
 
->     “(d) __Funding.—__ 
+>     “(d)  __Funding__  __.—__ 
 
 >     For fiscal year 1991, the Secretary is authorized to make a grant of not to exceed $25,000,000 to the Foundation.
 
->     “(e) __Use of Funds.—__ 
+>     “(e)  __Use of Funds__  __.—__ 
 
 >     Funds made available pursuant to subsection (d) shall be granted to the Foundation by the Secretary to enable the Foundation to carry out the purposes specified in subsection (a).
 
->     “(f) __Interest.—__ 
+>     “(f)  __Interest__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Foundation may hold funds made available pursuant to subsection (e) in interest-bearing accounts prior to the disbursement of the funds for purposes specified in subsection (a) and may retain to carry out such purposes any interest earned on the deposits.
 
 >     “(g) __Limitations on Uses of Funds.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Foundation may use funds provided by this section only for making grants to qualified organizations, municipalities, counties, towns and townships for the implementation of projects and activities that are consistent with the purposes specified in subsection (a).
 
->         “(2) __Qualified organizations.—__ 
+>         “(2)  __Qualified organizations__  __.—__ 
 
 >         For the purposes of this section, qualified organizations shall consist of those organizations that meet the requirements of section 501(c)(3) of the Internal Revenue Code of 1986 ([26 U.S.C. 501(c)(3)][/us/usc/t26/s501/c/3]) and have demonstrated a capability to implement the project or activity for which the Foundation funds will be used.
 
->     “(h) __Compensation from Outside Sources.—__ 
+>     “(h)  __Compensation from Outside Sources__  __.—__ 
 
 >     An officer or employee of the Foundation may not receive any salary or other compensation for services rendered to the Foundation from any source other than the Foundation.
 
->     “(i) __Stock and Dividends.—__ 
+>     “(i)  __Stock and Dividends__  __.—__ 
 
 >     The Foundation shall not issue any shares of stock or declare or pay any dividends.
 
->     “(j) __Lobbying.—__ 
+>     “(j)  __Lobbying__  __.—__ 
 
 >     The Foundation shall not engage in lobbying or propaganda for the purpose of influencing legislation and shall not participate or intervene in any political campaign on behalf of any candidate for public office.
 
 >     “(k) __Salary; Travel and Expenses; Conflicts of Interest.—__ 
 
->         “(1) __Personal benefit from funds.—__ 
+>         “(1)  __Personal benefit from funds__  __.—__ 
 
 >         No part of the funds of the Foundation shall inure to the benefit of any board member, officer, or employee of the Foundation, except as salary or reasonable compensation for services or expenses.
 
->         “(2) __Travel and expense reimbursement.—__ 
+>         “(2)  __Travel and expense reimbursement__  __.—__ 
 
 >         Compensation for board members shall be limited to reimbursement for reasonable costs of travel and expenses.
 
->         “(3) __Conflicts of interest.—__ 
+>         “(3)  __Conflicts of interest__  __.—__ 
 
 >         No director, officer, or employee of the Foundation shall participate, directly or indirectly, in the consideration or determination of any question before the Foundation affecting—
 
@@ -261,7 +261,7 @@ Section 17, formerly section 14, of [Pub. L. 95–313][/us/pl/95/313], as renumb
 
 >                 “(ii) has any direct or indirect financial interest.
 
->     “(l) __Records; Audits.—__ 
+>     “(l)  __Records; Audits__  __.—__ 
 
 >     The Foundation shall ensure that—
 
@@ -281,29 +281,29 @@ Section 17, formerly section 14, of [Pub. L. 95–313][/us/pl/95/313], as renumb
 
 >     “(m) __Audits.—__ 
 
->         “(1) __Independent audits.—__ 
+>         “(1)  __Independent audits__  __.—__ 
 
 >         For the fiscal year in which the Foundation receives the grant awarded under subsection (e), and for the succeeding 5 fiscal years, the accounts of the Foundation shall be audited annually in accordance with generally accepted auditing standards by an independent certified public accountant or an independent licensed public accountant certified or licensed by a regulatory authority of a State or other political subdivision of the United States. The report of each such independent audit shall be included in the annual report required by subsection (n).
 
->         “(2) __Agency audits.—__ 
+>         “(2)  __Agency audits__  __.—__ 
 
 >         For the fiscal year in which the Foundation receives the grant awarded under subsection (d), and for the succeeding 5 fiscal years, the financial transactions undertaken pursuant to this section by the Foundation may be audited by any agency designated by the President.
 
 >     “(n) __Annual Reports.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 3 months after the conclusion of each fiscal year, the Foundation shall publish an annual report that includes a comprehensive and detailed report of the operations, activities, financial condition, and accomplishments of the Foundation under this subtitle during the fiscal year.
 
->         “(2) __Termination.—__ 
+>         “(2)  __Termination__  __.—__ 
 
 >         The obligation of the Foundation to publish annual reports pursuant to this subsection shall terminate after publication of the report incorporating the findings of the final audit in accordance with procedures required by subsection (l).
 
->     “(o) __Prohibition on Commercial Harvest.—__ 
+>     “(o)  __Prohibition on Commercial Harvest__  __.—__ 
 
 >     Trees planted pursuant to a program receiving funds under this section may not be commercially harvested and sold for Christmas trees.
 
->     “(p) __Authorization of Appropriations.—__ 
+>     “(p)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated $25,000,000 to be granted by the Secretary of Agriculture to the Foundation. All funds appropriated under this section may remain available until expended.
 

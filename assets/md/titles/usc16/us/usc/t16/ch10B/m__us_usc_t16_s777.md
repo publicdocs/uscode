@@ -119,25 +119,25 @@
 
 > “In this Act:
 
->     “(1) __Pacific ocean drainage area.—__ 
+>     “(1)  __Pacific ocean drainage area__  __.—__ 
 
 >     The term ‘Pacific Ocean drainage area’ means the area comprised of portions of the States of Oregon, Washington, Montana, and Idaho from which water drains into the Pacific Ocean.
 
->     “(2) __Program.—__ 
+>     “(2)  __Program__  __.—__ 
 
 >     The term ‘Program’ means the Fisheries Restoration and Irrigation Mitigation Program established by section 3(a).
 
->     “(3) __Secretary.—__ 
+>     “(3)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service.
 
 > “SEC. 3. __ESTABLISHMENT OF THE PROGRAM.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established the Fisheries Restoration and Irrigation Mitigation Program within the Department of the Interior.
 
->     “(b) __Goals.—__ 
+>     “(b)  __Goals__  __.—__ 
 
 >     The goals of the Program are—
 
@@ -147,11 +147,11 @@
 
 >     “(c) __Impacts on Fisheries.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Under the Program, the Secretary, in consultation with the heads of other appropriate agencies, shall develop and implement projects to mitigate impacts to fisheries resulting from the construction and operation of water diversions by local governmental entities (including soil and water conservation districts) in the Pacific Ocean drainage area.
 
->         “(2) __Types of projects.—__ 
+>         “(2)  __Types of projects__  __.—__ 
 
 >         Projects eligible under the Program may include—
 
@@ -167,7 +167,7 @@
 
 >             “(B) inventories by the States on the need and priority for projects described in clauses (i) through (iii).
 
->         “(3) __Priority.—__ 
+>         “(3)  __Priority__  __.—__ 
 
 >         The Secretary shall give priority to any project that has a total cost of less than $2,500,000.
 
@@ -175,15 +175,15 @@
 
 >     “(a) __Non-Federal.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Non-Federal participation in the Program shall be voluntary.
 
->         “(2) __Federal action.—__ 
+>         “(2)  __Federal action__  __.—__ 
 
 >         The Secretary shall take no action that would result in any non-Federal entity being held financially responsible for any action under the Program, unless the entity applies to participate in the Program.
 
->     “(b) __Federal.—__ 
+>     “(b)  __Federal__  __.—__ 
 
 >     Development and implementation of projects under the Program on land or facilities owned by the United States shall be nonreimbursable Federal expenditures.
 
@@ -203,7 +203,7 @@
 
 > “SEC. 6. __ELIGIBILITY REQUIREMENTS.__ 
 
->     “(a) __In General.—__ 
+>     “(a) __ In General__  __.—__ 
 
 >     A project carried out under the Program shall not be eligible for funding unless—
 
@@ -211,7 +211,7 @@
 
 >         “(2) the project is agreed to by all Federal and non-Federal entities with authority and responsibility for the project.
 
->     “(b) __Determination of Eligibility.—__ 
+>     “(b)  __Determination of Eligibility__  __.—__ 
 
 >     In determining the eligibility of a project under this Act, the Secretary shall—
 
@@ -221,37 +221,37 @@
 
 > “SEC. 7. __COST SHARING.__ 
 
->     “(a) __Non-Federal Share.—__ 
+>     “(a)  __Non-Federal Share__  __.—__ 
 
 >     The non-Federal share of the cost of development and implementation of any project under the Program on land or at a facility that is not owned by the United States shall be 35 percent.
 
->     “(b) __Non-Federal Contributions.—__ 
+>     “(b)  __Non-Federal Contributions__  __.—__ 
 
 >     The non-Federal participants in any project under the Program on land or at a facility that is not owned by the United States shall provide all land, easements, rights-of-way, dredged material disposal areas, and relocations necessary for the project.
 
 >     “(c) __Credit for Contributions.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The value of land, easements, rights-of-way, dredged material disposal areas, and relocations provided under subsection (b) for a project shall be credited toward the non-Federal share of the costs of the project.
 
 >         “(2) __Bonneville Power Administration.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary may, without further appropriation and without fiscal year limitation, accept any amounts provided to the Secretary by the Administrator of the Bonneville Power Administration.
 
->             “(B) __Non-federal share.—__ 
+>             “(B)  __Non-federal share__  __.—__ 
 
 >             Any amounts provided by the Bonneville Power Administration directly or through a grant to another entity for a project carried under the Program shall be credited toward the non-Federal share of the costs of the project.
 
 >     “(d) __Additional Costs.—__ 
 
->         “(1) __Non-federal responsibilities.—__ 
+>         “(1)  __Non-federal responsibilities__  __.—__ 
 
 >         The non-Federal participants in any project carried out under the Program on land or at a facility that is not owned by the United States shall be responsible for all costs associated with operating, maintaining, repairing, rehabilitating, and replacing the project.
 
->         “(2) __Federal responsibility.—__ 
+>         “(2)  __Federal responsibility__  __.—__ 
 
 >         The Federal Government shall be responsible for costs referred to in paragraph (1) for projects carried out on Federal land or at a Federal facility.
 
@@ -271,7 +271,7 @@
 
 > “SEC. 10. __AUTHORIZATION OF APPROPRIATIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     There is authorized to be appropriated to carry out this Act $25,000,000 for each of fiscal years 2009 through 2015.
 
@@ -279,17 +279,17 @@
 
 >         “(1) __Single state.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subparagraph (B), not more than 25 percent of the total amount of funds made available under this section may be used for one or more projects in any single State.
 
->             “(B) __Waiver.—__ 
+>             “(B)  __Waiver__  __.—__ 
 
 >             On notification to Congress, the Secretary may waive the limitation under subparagraph (A) if a State is unable to use the entire amount of funding made available to the State under this Act.
 
 >         “(2) __Administrative expenses.—__ 
 
->             “(A) __Definition of administrative expense.—__ 
+>             “(A)  __Definition of administrative expense__  __.—__ 
 
 >             In this paragraph, the term ‘administrative expense’ means, except as provided in subparagraph (B)(iii)(II), any expenditure relating to—
 
@@ -299,11 +299,11 @@
 
 >             “(B) __Limitation.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Not more than 6 percent of amounts made available to carry out this Act for each fiscal year may be used for Federal and State administrative expenses of carrying out this Act.
 
->                 “(ii) __Federal and state shares.—__ 
+>                 “(ii)  __Federal and state shares__  __.—__ 
 
 >                 To the maximum extent practicable, of the amounts made available for administrative expenses under clause (i)—
 
@@ -311,7 +311,7 @@
 
 >                          “(II) an amount equal to the cost of 1 full-time equivalent Federal employee, as determined by the Secretary, shall be provided to the Federal agency carrying out the Program.
 
->                 “(iii) __State expenses.—__ 
+>                 “(iii)  __State expenses__  __.—__ 
 
 >                 Amounts made available to States for administrative expenses under clause (i)—
 

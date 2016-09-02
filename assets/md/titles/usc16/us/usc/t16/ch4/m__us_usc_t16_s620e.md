@@ -29,11 +29,11 @@
 
         (C) held by any Native Corporation as defined in [section 1602 of title 43][/us/usc/t43/s1602].
 
-    (3) __Minor violation.—__ 
+    (3)  __Minor violation__  __.—__ 
 
     The term “minor violation” means a violation, other than an intentional violation, involving a single contract, purchase order, processing facility, or log yard involving a quantity of logs that is less than 25 logs and has a total value (at the time of the violation) of less than $10,000.
 
-    (4) __Northwestern private timber open market area.—__ 
+    (4)  __Northwestern private timber open market area__  __.—__ 
 
     The term “northwestern private timber open market area” means the State of Washington.
 
@@ -97,7 +97,7 @@
 
     (10) The acquisition of unprocessed timber from Federal lands west of the 100th meridian in the contiguous 48 States to be used in “substitution” for exported unprocessed timber originating from private lands means acquiring unprocessed timber from such Federal lands and engaging in exporting, or selling for export, unprocessed timber originating from private lands within the same geographic and economic area.
 
-    (11) __Violation.—__ 
+    (11)  __Violation__  __.—__ 
 
     The term “violation” means a violation of sections 620 to 620j of this title (including a regulation issued to implement sections 620 to 620j of this title) with regard to a course of action, including—
 

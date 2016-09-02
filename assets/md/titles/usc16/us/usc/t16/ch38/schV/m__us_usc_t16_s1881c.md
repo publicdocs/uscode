@@ -71,7 +71,7 @@
 
 [Pub. L. 104–297, title II, § 208][/us/pl/104/297/s208], Oct. 11, 1996, [110 Stat. 3614][/us/stat/110/3614], as amended by [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Secretary of Commerce shall conduct a study of the contribution of bycatch to charitable organizations by commercial fishermen. The study shall include determinations of—
 
@@ -81,11 +81,11 @@
 
 >         “(3) the impact on fisheries of the availability of those benefits.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Secretary of Commerce shall submit to the Congress a report containing determinations made in the study under subsection (a).
 
->     “(c) __Bycatch Defined.—__ 
+>     “(c)  __Bycatch Defined__  __.—__ 
 
 >     In this section the term ‘bycatch’ has the meaning given that term in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act \[[16 U.S.C. 1802][/us/usc/t16/s1802]\], as amended by section 102 of this Act.”
 

@@ -75,11 +75,11 @@
 
 [Pub. L. 101–627, title VII, § 704(a)][/us/pl/101/627/s704/a], (b), Nov. 28, 1990, [104 Stat. 4464][/us/stat/104/4464], provided that:
 
->     “(a) __Uninterrupted Service.—__ 
+>     “(a)  __Uninterrupted Service__  __.—__ 
 
 >     Individuals serving on September 30, 1990, as members of the National Fish and Seafood Promotional Council shall be deemed to continue as members in uninterrupted service since the date of their initial appointment.
 
->     “(b) __Filling of Vacancies.—__ 
+>     “(b)  __Filling of Vacancies__  __.—__ 
 
 >     Notwithstanding section 206(e) of the Fish and Seafood Promotion Act of 1986 ([16 U.S.C. 4005(e)][/us/usc/t16/s4005/e]), any vacancy on the National Fish and Seafood Promotion Act \[Promotional Council\] not filled as of September 30, 1990, shall be filled within 60 days after the date of enactment of this Act \[Nov. 28, 1990\].”
 

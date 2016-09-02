@@ -111,7 +111,7 @@
 
 [Pub. L. 105–328, § 2][/us/pl/105/328/s2], Oct. 30, 1998, [112 Stat. 3057][/us/stat/112/3057], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -135,7 +135,7 @@
 
 >             “(B) to make more extensive distributions of those items for educational, scientific, and Native American religious purposes.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this Act are to make proceeds from sales of abandoned items derived from fish, wildlife, and plants available to the Service and to authorize the use of those proceeds to cover costs incurred in shipping, storing, and disposing of those items.”
 

@@ -233,7 +233,7 @@
 
 [Pub. L. 105–42, § 8][/us/pl/105/42/s8], Aug. 15, 1997, [111 Stat. 1139][/us/stat/111/1139], provided that:
 
->     “(a) __Amendments to Take Effect When IDCP in Force.—__ 
+>     “(a)  __Amendments to Take Effect When IDCP in Force__  __.—__ 
 
 >     Sections 3 through 7 of this Act \[enacting sections 962, 1412, 1413, 1414a to 1416 of this title, amending sections 952, 953, 1362, 1371, 1374, 1378, 1380, 1385, 1411, and 1417 of this title, and repealing sections 1412 to 1416 and 1418 of this title\] (except for section 304 of the Marine Mammal Protection Act of 1972 as added by section 6 of this Act \[[section 1414a of this title][/us/usc/t16/s1414a]\]) shall become effective upon—
 
@@ -247,7 +247,7 @@
 
 >         “(2) certification by the Secretary of State to Congress that a binding resolution of the Inter-American Tropical Tuna Commission or other legally binding instrument establishing the International Dolphin Conservation Program has been adopted and is in force.
 
->     “(b) __Special Effective Date.—__ 
+>     “(b)  __Special Effective Date__  __.—__ 
 
 >     Notwithstanding subsection (a), the Secretary of Commerce may issue regulations under—
 

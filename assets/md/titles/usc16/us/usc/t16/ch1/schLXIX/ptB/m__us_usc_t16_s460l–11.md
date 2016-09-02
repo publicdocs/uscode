@@ -89,11 +89,11 @@
 
 [Pub. L. 112–140, title IV, § 402(f)][/us/pl/112/140/s402/f], June 29, 2012, [126 Stat. 403][/us/stat/126/403], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 4041, 4051, 4071, 4081, 4221, 4482, 4483, 6412, and 9503 of Title 26, Internal Revenue Code\] shall take effect on July 1, 2012.
 
->     “(2) __Technical correction.—__ 
+>     “(2)  __Technical correction__  __.—__ 
 
 >     The amendment made by subsection (e) \[amending [section 4482 of Title 26][/us/usc/t26/s4482]\] shall take effect as if included in section 402 of the Surface Transportation Extension Act of 2012 \[[Pub. L. 112–102][/us/pl/112/102]\].”
 

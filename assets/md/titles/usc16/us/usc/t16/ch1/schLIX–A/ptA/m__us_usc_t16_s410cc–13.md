@@ -47,11 +47,11 @@
 
 [Pub. L. 100–134, § 2][/us/pl/100/134/s2], Oct. 16, 1987, [101 Stat. 810][/us/stat/101/810], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), the amendments made by section 1 \[amending sections 410cc–13 and 410cc–31 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 16, 1987\].
 
->     “(b) __Effective Date of Authorization of Appropriation.—__ 
+>     “(b)  __Effective Date of Authorization of Appropriation__  __.—__ 
 
 >     The amendments made by section 1(1) \[amending [section 410cc–13 of this title][/us/usc/t16/s410cc–13]\] shall take effect on October 1, 1987.”
 

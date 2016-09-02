@@ -67,15 +67,15 @@
 
 [Pub. L. 108–447, div. E, title I, § 143(c)][/us/pl/108/447/s143/c], Dec. 8, 2004, [118 Stat. 3072][/us/stat/118/3072], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than 90 days after the date of enactment of this section \[Dec. 8, 2004\], the Secretary of the Interior shall publish in the Federal Register a list of all nonnative, human-introduced bird species to which the Migratory Bird Treaty Act ([16 U.S.C. 703][/us/usc/t16/s703] et seq.) does not apply. As necessary, the Secretary may update and publish the list of species exempted from protection of the Migratory Bird Treaty Act.
 
->     “(2) __Public comment.—__ 
+>     “(2)  __Public comment__  __.—__ 
 
 >     Before publishing the list under paragraph (1), the Secretary shall provide adequate time for public comment.
 
->     “(3) __Effect of section.—__ 
+>     “(3)  __Effect of section__  __.—__ 
 
 >     Nothing in this subsection shall delay implementation of other provisions of this section \[amending this section and enacting provisions set out as notes under this section and [section 710 of this title][/us/usc/t16/s710]\] or amendments made by this section that exclude nonnative, human-introduced bird species from the application of the Migratory Bird Treaty Act ([16 U.S.C. 703][/us/usc/t16/s703] et seq.).”
 
@@ -89,11 +89,11 @@
 
 [Pub. L. 107–314, div. A, title III, § 315][/us/pl/107/314/s315], Dec. 2, 2002, [116 Stat. 2509][/us/stat/116/2509], provided that:
 
->     “(a) __Interim Authority for Incidental Takings.—__ 
+>     “(a)  __Interim Authority for Incidental Takings__  __.—__ 
 
 >     During the period described in subsection (c), section 2 of the Migratory Bird Treaty Act ([16 U.S.C. 703][/us/usc/t16/s703]) shall not apply to the incidental taking of a migratory bird by a member of the Armed Forces during a military readiness activity authorized by the Secretary of Defense or the Secretary of the military department concerned.
 
->     “(b) __Identification of Measures to Minimize Impact of Activities.—__ 
+>     “(b)  __Identification of Measures to Minimize Impact of Activities__  __.—__ 
 
 >     During the periods described in subsections (c) and (d), the Secretary of Defense shall, in consultation with the Secretary of the Interior, identify measures—
 
@@ -101,7 +101,7 @@
 
 >         “(2) to monitor the impacts of such military readiness activities on affected species of migratory birds.
 
->     “(c) __Period of Application for Interim Authority.—__ 
+>     “(c)  __Period of Application for Interim Authority__  __.—__ 
 
 >     The period described in this subsection is the period beginning on the date of the enactment of this Act \[Dec. 2, 2002\] and ending on the date on which the Secretary of the Interior publishes in the Federal Register a notice that—
 
@@ -111,17 +111,17 @@
 
 >         “(3) the regulations have taken effect.
 
->     “(d) __Incidental Takings After Interim Period.—__ 
+>     “(d)  __Incidental Takings After Interim Period__  __.—__ 
 
 >         (1) Not later than the expiration of the one-year period beginning on the date of the enactment of this Act, the Secretary of the Interior shall exercise the authority of that Secretary under section 3(a) of the Migratory Bird Treaty Act ([16 U.S.C. 704(a)][/us/usc/t16/s704/a]) to prescribe regulations to exempt the Armed Forces for the incidental taking of migratory birds during military readiness activities authorized by the Secretary of Defense or the Secretary of the military department concerned.
 
 >         “(2) The Secretary of the Interior shall exercise authority under paragraph (1) with the concurrence of the Secretary of Defense.
 
->     “(e) __Limitation on Judicial Review.—__ 
+>     “(e)  __Limitation on Judicial Review__  __.—__ 
 
 >     An action seeking judicial review of regulations prescribed pursuant to this section or of the manner of their promulgation must be filed in the appropriate Federal court by not later than the expiration of the 120-day period beginning on the date on which such regulations are published in the Federal Register. Upon the expiration of such period and the exhaustion of any legal challenges to the regulations pursuant to any action filed in such period, there shall be no further judicial review of such regulations or of the manner of their promulgation.
 
->     “(f) __Military Readiness Activity.—__ 
+>     “(f)  __Military Readiness Activity__  __.—__ 
 
 >         (1)
 
@@ -151,7 +151,7 @@
 
 > “SEC. 2. __FINDINGS AND PURPOSES.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds the following:
 
@@ -199,7 +199,7 @@
 
 >         “(6) It is essential that the current population of mid-continent light geese be reduced by 50 percent by the year 2005 to ensure that the fragile Arctic tundra is not irreversibly damaged.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this Act are the following:
 
@@ -211,15 +211,15 @@
 
 >     “(a) __Force and Effect.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The rules published by the Service on February 16, 1999, relating to use of additional hunting methods to increase the harvest of mid-continent light geese (64 Fed. Reg. 7507–7517) and the establishment of a conservation order for the reduction of mid-continent light goose populations (64 Fed. Reg. 7517–7528), shall have the force and effect of law.
 
->         “(2) __Public notice.—__ 
+>         “(2)  __Public notice__  __.—__ 
 
 >         The Secretary, acting through the Director of the Service, shall take such action as is necessary to appropriately notify the public of the force and effect of the rules referred to in paragraph (1).
 
->     “(b) __Application.—__ 
+>     “(b)  __Application__  __.—__ 
 
 >     Subsection (a) shall apply only during the period that—
 
@@ -235,17 +235,17 @@
 
 >             “(C) May 15, 2001.
 
->     “(c) __Rule of Construction.—__ 
+>     “(c)  __Rule of Construction__  __.—__ 
 
 >     This section shall not be construed to limit the authority of the Secretary or the Service to issue rules, under another law, to regulate the taking of mid-continent light geese.
 
 > “SEC. 4. __COMPREHENSIVE MANAGEMENT PLAN.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than the end of the period described in section 103(b) \[probably means section 3(b)\], the Secretary shall prepare, and as appropriate implement, a comprehensive, long-term plan for the management of mid-continent light geese and the conservation of their habitat.
 
->     “(b) __Required Elements.—__ 
+>     “(b)  __Required Elements__  __.—__ 
 
 >     The plan shall apply principles of adaptive resource management and shall include—
 
@@ -259,7 +259,7 @@
 
 >         “(5) an identification of methods for promoting collaboration with the Government of Canada, States, and other interested persons.
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2000 through 2002.
 
@@ -267,15 +267,15 @@
 
 > “In this Act:
 
->     “(1) __Mid-continent light geese.—__ 
+>     “(1)  __Mid-continent light geese__  __.—__ 
 
 >     The term ‘mid-continent light geese’ means Lesser snow geese (Anser caerulescens caerulescens) and Ross’ geese (Anser rossii) that primarily migrate between Canada and the States of Alabama, Arkansas, Colorado, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, New Mexico, North Dakota, Ohio, Oklahoma, South Dakota, Tennessee, Texas, Wisconsin, and Wyoming.
 
->     “(2) __Secretary.—__ 
+>     “(2)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of the Interior.
 
->     “(3) __Service.—__ 
+>     “(3)  __Service__  __.—__ 
 
 >     The term ‘Service’ means the United States Fish and Wildlife Service.”
 

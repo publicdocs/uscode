@@ -89,7 +89,7 @@
 
 > “SEC. 602. __FINDINGS AND PURPOSE.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -149,7 +149,7 @@
 
 >         “(7) it is in the public interest to complete the land exchange at the earliest practicable date so that the offered land can be acquired and preserved by the United States for permanent public management, use, and enjoyment.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     It is the purpose of this Act to further the public interest by authorizing, directing, facilitating, and expediting the consummation of the Interstate 90 land exchange so as to ensure that the offered land is expeditiously acquired for permanent public use and enjoyment.
 
@@ -157,25 +157,25 @@
 
 > “In this Act:
 
->     “(1) __Offered land.—__ 
+>     “(1)  __Offered land__  __.—__ 
 
 >     The term ‘offered land’ means all right, title and interest, including the surface and subsurface interests, in land described in section 604(a) to be conveyed into the public ownership of the United States under this Act.
 
->     “(2) __Plum creek.—__ 
+>     “(2)  __Plum creek__  __.—__ 
 
 >     The term ‘Plum Creek’ means Plum Creek Timber Company, L.P., a Delaware Limited Partnership, or its successors, heirs, or assigns.
 
->     “(3) __Secretary.—__ 
+>     “(3)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of Agriculture.
 
->     “(4) __Selected land.—__ 
+>     “(4)  __Selected land__  __.—__ 
 
 >     The term ‘selected land’ means all right, title and interest, including the surface and subsurface interests, unless Plum Creek agrees otherwise, in land described in section 604(b) to be conveyed into the private ownership of Plum Creek under this Act.
 
 > “SEC. 604. __LAND EXCHANGE.__ 
 
->     “(a) __Condition and Conveyance of Offered Land.—__ 
+>     “(a)  __Condition and Conveyance of Offered Land__  __.—__ 
 
 >     The exchange directed by this Act shall be consummated if Plum Creek conveys title acceptable to the Secretary in and to the lands described in subsection (d), the offered lands described in paragraphs (1) and (2), or, if necessary, the lands and interests in land as provided in subsection (c) except title to offered lands and interests in lands described as follows: Township 21 North, Range 12 East, Section 15, W.M., Township 21 North, Range 12 East, Section 23, W.M., Township 21 North, Range 12 East, Section 25, W.M., Township 19 North, Range 13 East, Section 7, W.M., Township 19 North, Range 15 East, Section 31, W.M., Township 19 North, Range 14 East, Section 25, W.M., Township 22 North, Range 11 East, Section 3, W.M., and Township 22 North, Range 11 East, Section 19, W.M. must be placed in escrow by Plum Creek, according to terms and conditions acceptable to the Secretary and Plum Creek, for a 3-year period beginning on the later of the date of the enactment of this Act \[Oct. 21, 1998\] or consummation of the exchange. During the period the lands are held in escrow, Plum Creek shall not undertake any activities on these lands, except for fire suppression and road maintenance, without the approval of the Secretary, which shall not be unreasonably withheld.
 
@@ -183,7 +183,7 @@
 
 >         “(2) Certain land comprising approximately 53,576 acres and located within or adjacent to the exterior boundaries of the Wenatchee National Forest, Washington, as generally depicted on a map entitled ‘Interstate 90 Land Exchange’, dated October 1998 except the following parcels: Township 19 North, Range 15 East, Section 29, W.M., Township 18 North, Range 15 East, Section 3, W.M., Township 19 North, Range 14 East, Section 9, W.M., Township 21 North, Range 14 East, Section 7, W.M., Township 22 North, Range 12 East, Section 35, W.M., Township 22 North, Range 13 East, Section 3, W.M., Township 22 North, Range 13 East, Section 9, W.M., Township 22 North, Range 13 East, Section 11, W.M., Township 22 North, Range 13 East, Section 13, W.M., Township 22 North, Range 13 East, Section 15, W.M., Township 22 North, Range 13 East, Section 25, W.M., Township 22 North, Range 13 East, Section 33, W.M., Township 22 North, Range 13 East, Section 35, W.M., Township 22 North, Range 14 East, Section 7, W.M., Township 22 North, Range 14 East, Section 9, W.M., Township 22 North, Range 14 East, Section 11, W.M., Township 22 North, Range 14 East, Section 15, W.M., Township 22 North, Range 14 East, Section 17, W.M., Township 22 North, Range 14 East, Section 21, W.M., Township 22 North, Range 14 East, Section 31, W.M., Township 22 North, Range 14 East, Section 27, W.M. The appraisal approved by the Secretary of Agriculture on June 14, 1999 (the ‘Appraisal’) shall be adjusted by subtracting the values for the parcels described in the preceding sentence determined during the Appraisal process in the context of the whole estate to be conveyed.
 
->     “(b) __Conveyance of Selected Land by the United States.—__ 
+>     “(b)  __Conveyance of Selected Land by the United States__  __.—__ 
 
 >     Upon receipt of acceptable title to the offered land, as provided in section 604(a), and placement in escrow of acceptable title to Township 22 North, Range 11 East, Section 3, W.M., Township 22 North, Range 11 East, Section 19, W.M., Township 21 North, Range 12 East, Section 15, W.M., Township 21 North, Range 12 East, Section 23, W.M., Township 21 North, Range 12 East, Section 25, W.M., Township 19 North, Range 13 East, Section 7, W.M., Township 19 North, Range 15 East, Section 31, W.M., and Township 19 North, Range 14 East, Section 25, W.M., and lands and interests described in subsection (d), the Secretary shall simultaneously convey to Plum Creek all right, title and interest of the United States, subject to valid existing rights, in and to the following selected land except Township 19 North, Range 10 East, W.M., Section 4, Township 20 North, Range 10 East, W.M., Section 32, and Township 21 North, Range 14 East, W.M., W½W½ of Section 16, Township 12 North, Range 7 East, Sections 4 and 5, W.M., Township 13 North, Range 7 East, Sections 32 and 33, W.M., Township 8 North, Range 4 East, Section 17 and the S½ of 16, W.M., which shall be retained by the United States:
 
@@ -193,11 +193,11 @@
 
 >         “(3) Certain land administered, as of the date of enactment of this Act, by the Secretary of Agriculture as part of the Gifford Pinchot National Forest, Washington, and comprising approximately 5,601 acres, as generally depicted on a map entitled ‘Interstate 90 Land Exchange’, dated October 1998.
 
->     “(c) __Offered Land Title.—__ 
+>     “(c)  __Offered Land Title__  __.—__ 
 
 >     If Plum Creek conveys title acceptable to the Secretary to less than all rights and interests in the offered lands, but conveys title acceptable to the Secretary to all rights and interests that Plum Creek owns and acquires under previous agreements in the lands described in subsection (d), the offered lands, and lands on the east and west sides of Cle Elum Lake, comprising approximately 252 acres, described as Township 21 North, Range 14 East, Section 5, and Lost Lake lands comprising approximately 272 acres, described as Township 21 North, Range 11 East, W½ of Section 3, the Secretary shall convey to Plum Creek all rights and interest in the selected land after the values of the offered and selected land are equalized. The values of the offered and selected lands shall be equalized as provided in section 605(c)–(e) without regard to the value of lands described in subsection (d) or the Cle Elum or Lost Lake lands.
 
->     “(d) __Land Donation.—__ 
+>     “(d)  __Land Donation__  __.—__ 
 
 >     Plum Creek agrees that it will convey, in the form of a voluntary donation, title acceptable to the Secretary in and to lands and interests in lands comprising approximately 320 acres, described as Township 22 North, Range 11 East, S½ of Section 13, if Plum Creek conveys title to lands and interests pursuant to subsections (a) or (c). It is the intention of Congress that any portion of such donated land which the Secretary determines qualifies as wilderness be, upon the date of its acquisition by the United States, incorporated in and managed as part of the adjacent Alpine Lakes Wilderness (as designated by [Public Law 94–357][/us/pl/94/357]) in accordance with section 6(a) of the Wilderness Act ([16 U.S.C. 1135][/us/usc/t16/s1135]).
 
@@ -205,7 +205,7 @@
 
 >     “(a) __Equal Value Exchange.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The values of the offered and selected land—
 
@@ -213,29 +213,29 @@
 
 >             “(B) if the values are not equal, shall be equalized as set forth in subsections (c)–(e).
 
->         “(2) __Appraisal assumption.—__ 
+>         “(2)  __Appraisal assumption__  __.—__ 
 
 >         In order to ensure the equitable and uniform appraisal of both the offered and selected land directed for exchange by this Act, all appraisals shall determine the highest and best use of the offered and selected land in accordance with applicable provisions of the Washington State Forest Practices Act and rules and regulations thereunder, including alternative measures for protecting critical habitat pursuant to a habitat conservation plan as provided in Washington Administrative Code 222–16–080–(6).
 
->         “(3) __Appraisals.—__ 
+>         “(3)  __Appraisals__  __.—__ 
 
 >         The values of the offered land and selected land shall be determined by appraisals utilizing nationally recognized appraisal standards, including applicable provisions of the Uniform Appraisal Standards for Federal Land Acquisitions (1992), the Uniform Standards of Professional Appraisal Practice, and section 206(d) of the Federal Land Policy and Management Act of 1976, as amended ([43 U.S.C. 1716(d)][/us/usc/t43/s1716/d]).
 
->         “(4) __Approval by the Secretary.—__ 
+>         “(4)  __Approval by the Secretary__  __.—__ 
 
 >         The appraisals, if not already completed by the date of enactment of this Act \[Oct. 21, 1998\], shall be completed and submitted to the Secretary for approval not later than 180 days after the date of enactment of this Act: Provided, That all timber harvest cease no later than November 30, 1998, except for any cleanup, reforestation, or other post-harvest work which cannot be completed by November 30, 1998. A comprehensive summary of the appraisal consistent with 7 CFR Part 1.11 shall be made available for public inspection in the Office of the Supervisor, Wenatchee National Forest, not less than 30 days nor more than 45 days prior to the exchange of deeds.
 
->     “(b) __Appraisal Period.—__ 
+>     “(b)  __Appraisal Period__  __.—__ 
 
 >     After the final appraised values of the offered and selected lands, or any portion of the land, have been approved by the Secretary or otherwise determined under section 206(d) of the Federal Land Policy and Management Act ([43 U.S.C. 1716(d)][/us/usc/t43/s1716/d]), the value shall not be reappraised or updated before consummation of the land exchange, except to account for any timber harvest that might occur after completion of the final appraisal, or for any adjustments under section 606(g).
 
 >     “(c) __Equalization if Surplus of Offered Land.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         If the final appraised value of the offered land or lands and interest in lands conveyed by Plum Creek under section 604(c), except for the Cle Elum and Lost Lake lands, exceeds the final appraised value of the selected land, Plum Creek shall delete offered land parcels from the exchange in the exact order each land Section (or offered portion thereof) is listed in paragraph (2) until the values are approximately equal.
 
->         “(2) __Order of deletion.—__ 
+>         “(2)  __Order of deletion__  __.—__ 
 
 >         Offered land deletions under paragraph (1) shall be made in the following order:
 
@@ -281,11 +281,11 @@
 
 >     “(d) __Equalization if Surplus of Selected Land.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         If the final appraised value of the selected land exceeds the final appraised value of the offered land or lands and interest in lands conveyed by Plum Creek under section 604(c), except for the Cle Elum and Lost Lake lands, the Secretary shall delete selected land parcels from the exchange in the exact order each land Section (or selected portion thereof) is listed in paragraph (2) until the values are approximately equal.
 
->         “(2) __Order of deletion.—__ 
+>         “(2)  __Order of deletion__  __.—__ 
 
 >         Selected land deletions under paragraph 1 shall be made in the following listed order:
 
@@ -305,7 +305,7 @@
 
 >     “(e) Once the values of the offered and selected lands are equalized to the maximum extent practicable under subsections (c) or (d), any cash equalization balance due the Secretary or Plum Creek shall be made through cash equalization payments under subsection 206(b) of the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1716(b)][/us/usc/t43/s1716/b]).
 
->     “(f) __Use of Proceeds by the Secretary.—__ 
+>     “(f)  __Use of Proceeds by the Secretary__  __.—__ 
 
 >     The amount of any cash equalization payment received by the Secretary under this section shall be retained by the Secretary and shall be used by the Secretary until fully expended to purchase land from willing sellers in the State of Washington for addition to the National Forest System.
 
@@ -315,7 +315,7 @@
 
 >         “(1) __Land acquired by the secretary.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Land acquired by the Secretary under this Act shall become part of the Mt. Baker-Snoqualmie, Gifford Pinchot or Wenatchee National Forests, as appropriate.
 
@@ -327,81 +327,81 @@
 
 >                 “(3) For purposes of section 7 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 4601–9][/us/usc/t16/s4601–9] \[460l–9\]) the boundaries of Mt. Baker-Snoqualmie, Wenatchee and Gifford Pinchot as modified by this Act shall be considered to be the boundaries of such forests as of January 1, 1965.
 
->             “(C) __Management.—__ 
+>             “(C)  __Management__  __.—__ 
 
 >             Land acquired by the Secretary under this Act shall have the status of lands acquired under the Act of March 1, 1911 \[[act Mar. 1, 1911, ch. 186][/us/act/1911-03-01/ch186], [36 Stat. 961][/us/stat/36/961], see Tables for classification\] and shall be managed in accordance with the laws, rules, regulations and guidelines applicable to the National Forest System.
 
->         “(2) __Land acquired by plum creek.—__ 
+>         “(2)  __Land acquired by plum creek__  __.—__ 
 
 >         Land acquired by Plum Creek under this Act shall become private land for all purposes of law, unless the deed by which conveyance is made to Plum Creek contains a specific reservation.
 
 >     “(b) __Post-Exchange Access to Land.—__ 
 
->         “(1) __Finding.—__ 
+>         “(1)  __Finding__  __.—__ 
 
 >         Congress finds that Plum Creek and the Secretary should have adequate and timely post-exchange access to lands acquired pursuant to this Act over existing primary, secondary, or other national forest system roads as may be needed.
 
->         “(2) __Intention.—__ 
+>         “(2)  __Intention__  __.—__ 
 
 >         It is the intention of Congress that Plum Creek have access to all lands it acquires under this Act, and when such access requires construction of new roads, it shall be granted in compliance with the National Environmental Policy Act \[of 1969\] \[[42 U.S.C. 4321][/us/usc/t42/s4321] et seq.\], the Endangered Species Act \[of 1973\] \[[16 U.S.C. 1531][/us/usc/t16/s1531] et seq.\], the National Historic Preservation Act \[[16 U.S.C. 470][/us/usc/t16/s470] et seq.\], and other applicable laws, rules, and regulations.
 
->         “(3) __Access within cost share agreement areas.—__ 
+>         “(3)  __Access within cost share agreement areas__  __.—__ 
 
 >         Within Cost Share Construction and Use Agreement Areas, Plum Creek and the Secretary will convey road access, at no cost, to the lands acquired by each party upon consummation of the exchange pursuant to this Act in accordance with the appropriate terms and procedures of said cost share construction and use agreements.
 
->         “(4) __Access outside cost share agreement areas.—__ 
+>         “(4)  __Access outside cost share agreement areas__  __.—__ 
 
 >         Outside of Cost Share Construction and Use Agreement Areas, the Secretary shall grant Plum Creek road access easements at no cost in a form set out in Forest Service Handbook 2709.12, 35. In the case of new road construction, they shall conform to the Secretary’s rules and regulations 36 CFR 251, subpart B, for the roads identified on the map entitled ‘Plum Creek Access Road Needs’, dated September 1998, including mitigation under existing law.
 
->     “(c) __Access to Certain Lands Acquired by the United States.—__ 
+>     “(c)  __Access to Certain Lands Acquired by the United States__  __.—__ 
 
 >     Outside of Cost Share Construction and Use Agreement Areas, Plum Creek shall grant the Secretary road access easements at no cost on the locations identified by the Secretary in a format acceptable to the Secretary.
 
->     “(d) __Timing.—__ 
+>     “(d)  __Timing__  __.—__ 
 
 >     The Secretary and Plum Creek shall make the adjustments directed in section 604(a) and (b) and consummate the land exchange within 30 days of the enactment of the Interstate 90 Land Exchange Amendment \[Nov. 29, 1999\], unless the Secretary and Plum Creek mutually agree to extend the consummation date.
 
->     “(e) __Withdrawal of Selected Land.—__ 
+>     “(e)  __Withdrawal of Selected Land__  __.—__ 
 
 >     Effective upon the date of enactment of this Act \[Oct. 21, 1998\], all selected land identified for exchange to Plum Creek under section 604(b) is hereby withdrawn from all forms of entry and appropriation under the U.S. mining and mineral leasing laws, including the Geothermal Steam Act of 1970 \[[30 U.S.C. 1001][/us/usc/t30/s1001] et seq.\], until such time as the exchange is consummated, or until a particular parcel or parcels are deleted from the exchange under section 605(d).
 
->     “(f) __Withdrawal of Cle Elum River Lands.—__ 
+>     “(f)  __Withdrawal of Cle Elum River Lands__  __.—__ 
 
 >     Lands acquired by the Secretary under this Act that are located in Township 23 North, Range 14 East, and Township 22 North, Range 14 East, Willamette Meridian, shall upon the date of their acquisition be permanently withdrawn from all forms of entry and appropriation under the U.S. mining and mineral leasing laws, including the Geothermal Steam Act of 1970 \[[30 U.S.C. 1001][/us/usc/t30/s1001] et seq.\].
 
 >     “(g) __Parcels Subject to Historic or Cultural Resource Restrictions.—__ 
 
->         “(1) __Report to plum creek.—__ 
+>         “(1)  __Report to plum creek__  __.—__ 
 
 >         No later than 180 days after enactment of this Act \[Oct. 21, 1998\], the Secretary shall complete determinations and consultation under the National Historic Preservation Act \[[16 U.S.C. 470][/us/usc/t16/s470] et seq.\] and submit a report to Plum Creek and other consulting parties under the National Historic Preservation Act listing by exact aliquot part description any parcel or parcels of selected land on which cultural properties have been identified and for which protection, use restrictions or mitigation requirements will be imposed. Such report shall include an exact description of each restriction or mitigation action required.
 
->         “(2) __Plum creek response.—__ 
+>         “(2)  __Plum creek response__  __.—__ 
 
 >         Within 30 days of receipt of the Secretary’s report under paragraph (1), Plum Creek shall notify the Secretary as to: (i) those parcels it will accept subject to the identified use restrictions or mitigation requirements; and (ii) those parcels it will not accept because the restrictions or mitigation requirements are deemed by Plum Creek to be an unacceptable encumbrance on the land.
 
->         “(3) __Parcel deletion.—__ 
+>         “(3)  __Parcel deletion__  __.—__ 
 
 >         The Secretary shall delete from the selected land those parcels identified by Plum Creek as unacceptable for conveyance under paragraph (2).
 
->         “(4) __Appraisal adjustment.—__ 
+>         “(4)  __Appraisal adjustment__  __.—__ 
 
 >         The fair market value of any parcels deleted under paragraph (3), or any modification in fair market value caused by the use restrictions or mitigation requirements on land accepted by Plum Creek, shall be based on their contributory value to the final approved appraised value of the selected land and subtracted from such value prior to consummation of the exchange.
 
->     “(h) __Access Limitation.—__ 
+>     “(h)  __Access Limitation__  __.—__ 
 
 >     The Secretary shall not grant any road easements that would access the offered lands listed in section 604(a) prior to consummation of the exchange: Provided, That this provision shall not apply should either party withdraw from the exchange.
 
 > “SEC. 607. __LAND PURCHASE.__ 
 
->     “(a) __Finding.—__ 
+>     “(a)  __Finding__  __.—__ 
 
 >     The Congress finds that certain lands owned by Plum Creek in the vicinity of the offered lands (but which are not included in the land exchange under this Act, or are deleted under section 605(c)) are highly desirable for addition to the National Forest System, and that Plum Creek has indicated its willingness to sell certain such lands to the United States. It is the intention of Congress that such lands be acquired by the United States, subject to the availability of funds, by purchase at fair market value consistent with the land acquisition procedures of the Secretary, and with the consent of Plum Creek, in order to preserve their outstanding scenic and natural values for the benefit of future generations.
 
->     “(b) __Purchase Consultation.—__ 
+>     “(b)  __Purchase Consultation__  __.—__ 
 
 >     In furtherance of subsection (a), the Secretary is authorized and directed to consult with Plum Creek to determine the precise lands Plum Creek is willing to sell.
 
->     “(c) __Other Agreements.—__ 
+>     “(c)  __Other Agreements__  __.—__ 
 
 >     Nothing in this Act shall be construed to prohibit the Secretary from entering into additional agreements or contracts with Plum Creek to purchase, exchange or otherwise acquire lands from Plum Creek in Washington or any other state under the laws, rules and regulations generally applicable to Federal land acquisitions.
 
@@ -411,15 +411,15 @@
 
 > “SEC. 609. __FUTURE LAND EXCHANGE OPPORTUNITY.__ 
 
->     “(a) __Finding.—__ 
+>     “(a)  __Finding__  __.—__ 
 
 >     The Congress finds that certain lands which were identified for exchange to the United States in the I–90 Land Exchange process have been, or may be, deleted from the final exchange under this Act due to value equalization or other reasons. However, some or all of such deleted lands, or other Plum Creek lands, may possess attributes that merit their conveyance to the United States in a follow-up land exchange, including lands in or around the Carbon River, the Yakima River, the Pacific Crest Trail, Watch Mountain and Goat Mountain on the Gifford Pinchot National Forest, the Green River and the Manastash late successional reserve.
 
->     “(b) __Future Exchange.—__ 
+>     “(b)  __Future Exchange__  __.—__ 
 
 >     In furtherance of subsection (a), the Secretary is authorized and directed to consult with Plum Creek in examining opportunities for the United States to acquire such deleted lands, or other Plum Creek lands in the State of Washington, in a future exchange.
 
->     “(c) __Report to Congress.—__ 
+>     “(c)  __Report to Congress__  __.—__ 
 
 >     Not later than 18 months after the date of enactment of this Act \[Oct. 21, 1998\], the Secretary shall submit a report to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources \[now Committee on Natural Resources\] of the United States House of Representatives briefly outlining future land exchange opportunities with Plum Creek, including those for which the Secretary is required to consult under section 608, which the Secretary determines merit detailed analysis and consideration. The Secretary should identify the most urgent acquisitions for purchase or exchange in the report.
 

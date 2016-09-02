@@ -41,15 +41,15 @@
 
 >     “In this Act \[see Short Title note set out under [section 460qqq of this title][/us/usc/t16/s460qqq]\]:
 
->     “(1) __Agreement.—__ 
+>     “(1)  __Agreement__  __.—__ 
 
 >     The term ‘Agreement’ means the Agreement entitled ‘Interim Cooperative Management Agreement Between the United States of the Interior Bureau of Land Management and Clark County’, dated November 4, 1992.
 
->     “(2) __County.—__ 
+>     “(2)  __County__  __.—__ 
 
 >     The term ‘County’ means Clark County, Nevada.
 
->     “(3) __Secretary.—__ 
+>     “(3)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means—
 
@@ -57,7 +57,7 @@
 
 >         “(B) the Secretary of the Interior, with respect to other Federal land.
 
->     “(4) __State.—__ 
+>     “(4)  __State__  __.—__ 
 
 >     The term ‘State’ means the State of Nevada.”
 

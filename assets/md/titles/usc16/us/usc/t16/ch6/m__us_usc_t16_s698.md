@@ -97,7 +97,7 @@
 
 [Pub. L. 104–333, div. I, title III, § 306(e)][/us/pl/104/333/s306/e]–(g), Nov. 12, 1996, [110 Stat. 4132][/us/stat/110/4132], as amended by [Pub. L. 106–176, title I, § 104(2)][/us/pl/106/176/s104/2], Mar. 10, 2000, [114 Stat. 25][/us/stat/114/25], provided that:
 
->     “(e) __Land Exchange in Liberty County, Texas.—__ 
+>     “(e)  __Land Exchange in Liberty County, Texas__  __.—__ 
 
 >     If, within one year after the date of the enactment of this Act \[Nov. 12, 1996\]—
 
@@ -109,15 +109,15 @@
 
 >     “(f) __Lands Described.—__ 
 
->         “(1) __Private lands.—__ 
+>         “(1)  __Private lands__  __.—__ 
 
 >         The private lands described in this paragraph are approximately 3.76 acres of lands located in Liberty County, Texas, as generally depicted on the map entitled ‘Big Thicket Lake Estates Access—Proposed’.
 
->         “(2) __Federal lands.—__ 
+>         “(2)  __Federal lands__  __.—__ 
 
 >         The Federal lands described in this paragraph are approximately 2.38 acres of lands located in the Menard Creek Corridor Unit of the Big Thicket National Preserve, as generally depicted on the map referred to in paragraph (1).
 
->     “(g) __Administration of Lands Acquired by the United States.—__ 
+>     “(g)  __Administration of Lands Acquired by the United States__  __.—__ 
 
 >     The lands acquired by the Secretary under subsection (e) shall be added to and administered as part of the Menard Creek Corridor Unit of the Big Thicket National Preserve.”
 

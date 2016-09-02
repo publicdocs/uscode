@@ -107,7 +107,7 @@
 
             (C) provisions to ensure public participation in the development, revision, and implementation of projects and programs required under this paragraph.
 
-            (D) __Wildlife conservation strategy.—__ 
+            (D)  __Wildlife conservation strategy__  __.—__ 
 
             Within five years of the date of the initial apportionment, develop and begin implementation of a wildlife conservation strategy based upon the best available and appropriate scientific information and data that—
 

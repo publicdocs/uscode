@@ -83,19 +83,19 @@ Similar provisions were contained in the following prior appropriation acts:
 
 > “SEC. 102. __AUTHORITY AND RESPONSIBILITY OF THE SECRETARY OF THE INTERIOR.__ 
 
->     “(a) __Interim Authority.—__ 
+>     “(a)  __Interim Authority__  __.—__ 
 
 >     The Secretary of the Interior (hereinafter in this title referred to as the ‘Secretary’) is authorized to manage leases in existence on the date of this Act \[Nov. 12, 1996\] for properties under the administrative jurisdiction of the Secretary and located at the Presidio. Upon the expiration of any such lease, the Secretary may extend such lease for a period terminating not later than 6 months after the first meeting of the Presidio Trust. The Secretary may not enter into any new leases for property at the Presidio to be transferred to the Presidio Trust under this title, however, the Secretary is authorized to enter into agreements for use and occupancy of the Presidio properties which are assignable to the Trust and are terminable with 30 days notice. Prior to the transfer of administrative jurisdiction over any property to the Presidio Trust, and notwithstanding [section 1341 of title 31][/us/usc/t31/s1341] of the United States Code, the proceeds from any such lease shall be retained by the Secretary and such proceeds shall be available, without further appropriation, for the preservation, restoration, operation and maintenance, improvement, repair and related expenses incurred with respect to Presidio properties. The Secretary may adjust the rental charge on any such lease for any amounts to be expended by the lessee for preservation, maintenance, restoration, improvement, repair and related expenses with respect to properties and infrastructure within the Presidio.
 
->     “(b) __Public Information and Interpretation.—__ 
+>     “(b)  __Public Information and Interpretation__  __.—__ 
 
 >     The Secretary shall be responsible, in cooperation with the Presidio Trust, for providing public interpretive services, visitor orientation and educational programs on all lands within the Presidio.
 
->     “(c) __Other.—__ 
+>     “(c)  __Other__  __.—__ 
 
 >     Those lands and facilities within the Presidio that are not transferred to the administrative jurisdiction of the Presidio Trust shall continue to be managed by the Secretary. The Secretary and the Presidio Trust shall cooperate to ensure adequate public access to all portions of the Presidio. Any infrastructure and building improvement projects that were funded prior to the enactment of this Act \[Nov. 12, 1996\] shall be completed by the National Park Service.
 
->     “(d) __Park Service Employees.—__ 
+>     “(d)  __Park Service Employees__  __.—__ 
 
 >         (1) Any career employee of the National Park Service, employed at the Presidio at the time of the transfer of lands and facilities to the Presidio Trust, shall not be separated from the Service by reason of such transfer, unless such employee is employed by the Trust, other than on detail. Notwithstanding [section 3503 of title 5][/us/usc/t5/s3503], United States Code, the Trust shall have sole discretion over whether to hire any such employee or request a detail of such employee.
 
@@ -103,11 +103,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 > “SEC. 103. __ESTABLISHMENT OF THE PRESIDIO TRUST.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established a wholly owned government corporation to be known as the Presidio Trust (hereinafter in this title referred to as the ‘Trust’).
 
->     “(b) __Transfer.—__ 
+>     “(b)  __Transfer__  __.—__ 
 
 >         (1) Within 60 days after receipt of a request from the Trust for the transfer of any parcel within the area depicted as Area B on the map entitled ‘Presidio Trust Number 1’, dated December 7, 1995, the Secretary shall transfer such parcel to the administrative jurisdiction of the Trust. Within 1 year after the first meeting of the Board of Directors of the Trust, the Secretary shall transfer to the Trust administrative jurisdiction over all remaining parcels within Area B. Such map shall be on file and available for public inspection in the offices of the Trust and in the offices of the National Park Service, Department of the Interior. The Trust and the Secretary may jointly make technical and clerical revisions in the boundary depicted on such map. The Secretary shall retain jurisdiction over those portions of the building identified as number 102 as the Secretary deems essential for use as a visitor center. The Building shall be named the ‘William Penn Mott Visitor Center’. Any parcel of land, the jurisdiction over which is transferred pursuant to this subsection, shall remain within the boundary of the Golden Gate National Recreation Area. With the consent of the Secretary, the Trust may at any time transfer to the administrative jurisdiction of the Secretary any other properties within the Presidio which are surplus to the needs of the Trust and which serve essential purposes of the Golden Gate National Recreation Area. The Trust is encouraged to transfer to the administrative jurisdiction of the Secretary open space areas which have high public use potential and are contiguous to other lands administered by the Secretary.
 
@@ -119,7 +119,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >     “(c) __Board of Directors.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The powers and management of the Trust shall be vested in a Board of Directors (hereinafter referred to as the ‘Board’) consisting of the following 7 members:
 
@@ -127,39 +127,39 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >             “(B) 6 individuals, who are not employees of the Federal Government, appointed by the President, who shall possess extensive knowledge and experience in one or more of the fields of city planning, finance, real estate development, and resource conservation. At least one of these individuals shall be a veteran of the Armed Services. At least 3 of these individuals shall reside in the San Francisco Bay Area. The President shall make the appointments referred to in this subparagraph within 90 days after the enactment of this Act \[Nov. 12, 1996\] and shall ensure that the fields of city planning, finance, real estate development, and resource conservation are adequately represented. Upon establishment of the Trust, the Chairman of the Board of Directors of the Trust shall meet with the Chairman of the Energy and Natural Resources Committee of the United States Senate and the Chairman of the Resources Committee of the United States House of Representatives.
 
->         “(2) __Terms.—__ 
+>         “(2)  __Terms__  __.—__ 
 
 >         Members of the Board appointed under paragraph (1)(B) shall each serve for a term of 4 years, except that of the members first appointed, 3 shall serve for a term of 2 years. Any vacancy in the Board shall be filled in the same manner in which the original appointment was made, and any member appointed to fill a vacancy shall serve for the remainder of that term for which his or her predecessor was appointed. No appointed member may serve more than 8 years in consecutive terms, except that upon the expiration of his or her term, an appointed member may continue to serve until his or her successor has been appointed.
 
->         “(3) __Quorum.—__ 
+>         “(3)  __Quorum__  __.—__ 
 
 >         Four members of the Board shall constitute a quorum for the conduct of business by the Board.
 
->         “(4) __Organization and compensation.—__ 
+>         “(4)  __Organization and compensation__  __.—__ 
 
 >         The Board shall organize itself in such a manner as it deems most appropriate to effectively carry out the authorized activities of the Trust. Board members shall serve without pay, but may be reimbursed for the actual and necessary travel and subsistence expenses incurred by them in the performance of the duties of the Trust.
 
->         “(5) __Liability of directors.—__ 
+>         “(5)  __Liability of directors__  __.—__ 
 
 >         Members of the Board of Directors shall not be considered Federal employees by virtue of their membership on the Board, except for purposes of the Federal Tort Claims Act \[see Short Title note under [section 2671 of Title 28][/us/usc/t28/s2671], Judiciary and Judicial Procedure\] and the Ethics in Government Act \[of 1978\] \[5 U.S.C. App.\], and the provisions of chapter 11 of title 18, United States Code.
 
->         “(6) __Meetings.—__ 
+>         “(6)  __Meetings__  __.—__ 
 
 >         The Board shall meet at least three times per year in San Francisco and at least two of those meetings shall be open to the public. Upon a majority vote, the Board may close any other meetings to the public. The Board shall establish procedures for providing public information and opportunities for public comment regarding policy, planning, and design issues. The Board may establish procedures for providing public information and opportunities for public comment regarding policy, planning, and design issues through the Golden Gate National Recreation Area Advisory Commission.
 
->         “(7) __Staff.—__ 
+>         “(7)  __Staff__  __.—__ 
 
 >         Notwithstanding any other provisions of law, the Trust is authorized to appoint and fix the compensation and duties and terminate the services of an executive director and such other officers and employees as it deems necessary without regard to the provisions of title 5, United States Code, or other laws related to the appointment, compensation or termination of Federal employees.
 
->         “(8) __Necessary powers.—__ 
+>         “(8)  __Necessary powers__  __.—__ 
 
 >         The Trust shall have all necessary and proper powers for the exercise of the authorities vested in it.
 
->         “(9) __Taxes.—__ 
+>         “(9)  __Taxes__  __.—__ 
 
 >         The Trust and all properties administered by the Trust and all interest created under leases, concessions, permits and other agreements associated with the properties shall be exempt from all taxes and special assessments of every kind by the State of California, and its political subdivisions, including the City and County of San Francisco.
 
->         “(10) __Government corporation.—__ 
+>         “(10)  __Government corporation__  __.—__ 
 
 >             (A) The Trust shall be treated as a wholly owned Government corporation subject to chapter 91 of title 31, United States Code (commonly referred to as the Government Corporation Control Act). Financial statements of the Trust shall be audited annually in accordance with [section 9105 of title 31][/us/usc/t31/s9105] of the United States Code.
 
@@ -167,15 +167,15 @@ Similar provisions were contained in the following prior appropriation acts:
 
 > “SEC. 104. __DUTIES AND AUTHORITIES OF THE TRUST.__ 
 
->     “(a) __Overall Requirements of the Trust.—__ 
+>     “(a)  __Overall Requirements of the Trust__  __.—__ 
 
 >     The Trust shall manage the leasing, maintenance, rehabilitation, repair and improvement of property within the Presidio under its administrative jurisdiction using the authorities provided in this section, which shall be exercised in accordance with the purposes set forth in section 1 of the Act entitled ‘An Act to establish the Golden Gate National Recreation Area in the State of California, and for other purposes’, approved October 27, 1972 ([Public Law 92–589][/us/pl/92/589]; [86 Stat. 1299][/us/stat/86/1299]; [16 U.S.C. 460bb][/us/usc/t16/s460bb]), and in accordance with the general objectives of the General Management Plan (hereinafter referred to as the ‘management plan’) approved for the Presidio.
 
->     “(b) __Authorities.—__ 
+>     “(b)  __Authorities__  __.—__ 
 
 >     The Trust may participate in the development of programs and activities at the properties transferred to the Trust, except that the Trust shall have the authority to negotiate and enter into such agreements, leases, contracts and other arrangements with any person, firm, association, organization, corporation or governmental entity, including, without limitation, entities of Federal, State and local governments as are necessary and appropriate to carry out its authorized activities. The National Park Service or any other Federal agency is authorized to enter into agreements, leases, contracts and other arrangements with the Presidio Trust which are necessary and appropriate to carry out the purposes of this title. Any such agreement may be entered into without regard to [section 321 of the Act of June 30, 1932][/us/act/1932-06-30/s321] ([40 U.S.C. 303b][/us/usc/t40/s303b]) \[now [40 U.S.C. 1302][/us/usc/t40/s1302]\]. The Trust may use alternative means of dispute resolution authorized under subchapter IV of chapter 5 of title 5, United States Code ([5 U.S.C. 571][/us/usc/t5/s571] et seq.). The Trust shall establish procedures for lease agreements and other agreements for use and occupancy of Presidio facilities, including a requirement that in entering into such agreements the Trust shall obtain reasonable competition. The Trust may not dispose of or convey fee title to any real property transferred to it under this title. Federal laws and regulations governing procurement by Federal agencies shall not apply to the Trust, with the exception of laws and regulations related to Federal government contracts governing working conditions and wage rates, including the provisions of sections 276a–276a–6 of title 40, United States Code (Davis-Bacon Act) \[now [40 U.S.C. 3141–314][/us/usc/t40/s3141–314]4, 3146, and 3147\], and any civil rights provisions otherwise applicable thereto. The Trust, in consultation with the Administrator of Federal Procurement Policy, shall establish and promulgate procedures applicable to the Trust’s procurement of goods and services including, but not limited to, the award of contracts on the basis of contractor qualifications, price, commercially reasonable buying practices, and reasonable competition. The Trust is authorized to use funds available to the Trust to purchase insurance and for reasonable reception and representation expenses, including membership dues, business cards and business related meal expenditures.
 
->     “(c) __Management Program.—__ 
+>     “(c)  __Management Program__  __.—__ 
 
 >     The Trust shall develop a comprehensive program for management of those lands and facilities within the Presidio which are transferred to the administrative jurisdiction of the Trust. Such program shall be designed to reduce expenditures by the National Park Service and increase revenues to the Federal Government to the maximum extent possible. In carrying out this program, the Trust shall be treated as a successor in interest to the National Park Service with respect to compliance with the National Environmental Policy Act \[of 1969\] \[[42 U.S.C. 4321][/us/usc/t42/s4321] et seq.\] and other environmental compliance statutes. Such program shall consist of—
 
@@ -189,7 +189,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         The Trust shall consult with the Secretary in the preparation of this program.
 
->     “(d) __Financial Authorities.—__ 
+>     “(d)  __Financial Authorities__  __.—__ 
 
 >         (1)
 
@@ -211,51 +211,51 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(3) The aggregate amount of obligations issued under paragraph (2) of this subsection which are outstanding at any one time may not exceed $150,000,000.
 
->     “(e) __Donations.—__ 
+>     “(e)  __Donations__  __.—__ 
 
 >     The Trust may solicit and accept donations of funds, property, supplies, or services from individuals, foundations, corporations, and other private or public entities for the purpose of carrying out its duties. The Trust is encouraged to maintain a liaison with the Golden Gate National Park Association.
 
->     “(f) __Public Agency.—__ 
+>     “(f)  __Public Agency__  __.—__ 
 
 >     The Trust shall be deemed to be a public agency for purposes of entering into joint exercise of powers agreements pursuant to California government code section 6500 and related provisions of that Code.
 
->     “(g) __Financial Management.—__ 
+>     “(g)  __Financial Management__  __.—__ 
 
 >     Notwithstanding [section 1341 of title 31][/us/usc/t31/s1341] of the United States Code, all proceeds and other revenues received by the Trust shall be retained by the Trust. Those proceeds shall be available, without further appropriation, to the Trust for the administration, preservation, restoration, operation and maintenance, improvement, repair and related expenses incurred with respect to Presidio properties under its administrative jurisdiction. The Secretary of the Treasury shall invest, at the direction of the Trust, such excess moneys that the Trust determines are not required to meet current withdrawals. Such investment shall be in public debt securities with maturities suitable to the needs of the Trust and bearing interest at rates determined by the Secretary of the Treasury taking into consideration the current average yield on outstanding marketable obligations of the United States of comparable maturity.
 
->     “(h) __Suits.—__ 
+>     “(h)  __Suits__  __.—__ 
 
 >     The Trust may sue and be sued in its own name to the same extent as the Federal Government. Litigation arising out of the activities of the Trust shall be conducted by the Attorney General; except that the Trust may retain private attorneys to provide advice and counsel. The District Court for the Northern District of California shall have exclusive jurisdiction over any suit filed against the Trust.
 
->     “(i) __Memorandum of Agreement.—__ 
+>     “(i)  __Memorandum of Agreement__  __.—__ 
 
 >     The Trust shall enter into a Memorandum of Agreement with the Secretary, acting through the Chief of the United States Park Police, for the conduct of law enforcement activities and services within those portions of the Presidio transferred to the administrative jurisdiction of the Trust.
 
->     “(j) __Bylaws, Rules, and Regulations.—__ 
+>     “(j)  __Bylaws, Rules, and Regulations__  __.—__ 
 
 >     The Trust may adopt, amend, repeal, and enforce bylaws, rules and regulations governing the manner in which its business may be conducted and the powers vested in it may be exercised, including rules and regulations for the use and management of the property under the Trust’s jurisdiction. The Trust is authorized, in consultation with the Secretary, to adopt and to enforce those rules and regulations that are applicable to the Golden Gate National Recreation Area and that may be necessary and appropriate to carry out its duties and responsibilities under this title. The Trust shall give notice of the adoption of such rules and regulations by publication in the Federal Register.
 
->     “(k) __Direct Negotiations.—__ 
+>     “(k)  __Direct Negotiations__  __.—__ 
 
 >     For the purpose of compliance with applicable laws and regulations concerning properties transferred to the Trust by the Secretary, the Trust shall negotiate directly with regulatory authorities.
 
->     “(l) __Insurance.—__ 
+>     “(l)  __Insurance__  __.—__ 
 
 >     The Trust shall require that all leaseholders and contractors procure proper insurance against any loss in connection with properties under lease or contract, or the authorized activities granted in such lease or contract, as is reasonable and customary.
 
->     “(m) __Building Code Compliance.—__ 
+>     “(m)  __Building Code Compliance__  __.—__ 
 
 >     The Trust shall bring all properties under its administrative jurisdiction into compliance with Federal building codes and regulations appropriate to use and occupancy within 10 years after the enactment of this title \[Nov. 12, 1996\] to the extent practicable.
 
->     “(n) __Leasing.—__ 
+>     “(n)  __Leasing__  __.—__ 
 
 >     In managing and leasing the properties transferred to it, the Trust shall consider the extent to which prospective tenants contribute to the implementation of the general objectives of the General Management Plan for the Presidio and to the reduction of cost to the Federal Government. The Trust shall give priority to the following categories of tenants: Tenants that enhance the financial viability of the Presidio and tenants that facilitate the cost-effective preservation of historic buildings through their reuse of such buildings.
 
->     “(o) __Reversion.—__ 
+>     “(o)  __Reversion__  __.—__ 
 
 >     If, at the expiration of 15 years, the Trust has not accomplished the goals and objectives of the plan required in [section 105(b) of this title][/us/usc/t16/s105/b], then all property under the administrative jurisdiction of the Trust pursuant to [section 103(b) of this title][/us/usc/t16/s103/b] shall be transferred to the Administrator of the General Services Administration to be disposed of in accordance with the procedures outlined in the Defense Authorization Act of 1990 ([104 Stat. 1809][/us/stat/104/1809]) \[probably means part A of title XXIX of div. B of [Pub. L. 101–510][/us/pl/101/510], Nov. 5, 1990, [104 Stat. 1808][/us/stat/104/1808], set out as a note under [section 2687 of Title 10][/us/usc/t10/s2687], Armed Forces\], and any real property so transferred shall be deleted from the boundary of the Golden Gate National Recreation Area. In the event of such transfer, the terms and conditions of all agreements and loans regarding such lands and facilities entered into by the Trust shall be binding on any successor in interest.
 
->     “(p) __Exclusive Rights to Name and Insignia.—__ 
+>     “(p)  __Exclusive Rights to Name and Insignia__  __.—__ 
 
 >     The Trust shall have the sole and exclusive right to use the words ‘Presidio Trust’ and any seal, emblem, or other insignia adopted by its Board of Directors. Without express written authority of the Trust, no person may use the words ‘Presidio Trust’, or any combination or variation of those words alone or with other words, as the name under which that person shall do or purport to do business, for the purpose of trade, or by way of advertisement, or in any manner that may falsely suggest any connection with the Trust.
 
@@ -281,15 +281,15 @@ Similar provisions were contained in the following prior appropriation acts:
 
 > “SEC. 107. __CONDITIONAL AUTHORITY TO LEASE CERTAIN HOUSING UNITS WITHIN THE PRESIDIO.__ 
 
->     “(a) __Availability of Housing Units for Long-Term Army Lease.—__ 
+>     “(a)  __Availability of Housing Units for Long-Term Army Lease__  __.—__ 
 
 >     Subject to subsection (c), the Trust shall make available for lease, to those persons designated by the Secretary of the Army and for such length of time as requested by the Secretary of the Army, 22 housing units located within the Presidio that are under the administrative jurisdiction of the Trust and specified in the agreement between the Trust and the Secretary of the Army in existence as of the date of the enactment of this section \[Dec. 28, 2001\].
 
->     “(b) __Lease Amount.—__ 
+>     “(b)  __Lease Amount__  __.—__ 
 
 >     The monthly amount charged by the Trust for the lease of a housing unit under this section shall be equivalent to the monthly rate of the basic allowance for housing that the occupant of the housing unit is entitled to receive under [section 403 of title 37][/us/usc/t37/s403], United States Code.
 
->     “(c) __Condition on Continued Availability of Housing Units.—__ 
+>     “(c)  __Condition on Continued Availability of Housing Units__  __.—__ 
 
 >     Effective after the end of the four-year period beginning on the date of the enactment of this section, the Trust shall have no obligation to make housing units available under subsection (a) unless, during that four-year period, the Secretary of the Treasury purchases new obligations of at least $80,000,000 issued by the Trust under section 104(d)(2). In the event that this condition is not satisfied, the existing agreement referred to in subsection (a) shall be renewed on the same terms and conditions for an additional five years.”
 

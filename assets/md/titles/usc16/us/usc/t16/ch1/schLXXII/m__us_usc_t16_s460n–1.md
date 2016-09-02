@@ -29,15 +29,15 @@
 
 [Pub. L. 107–282, title III, § 302][/us/pl/107/282/s302], Nov. 6, 2002, [116 Stat. 2006][/us/stat/116/2006], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Administrative jurisdiction over the parcel of land described in subsection (b) is transferred from the Bureau of Land Management to the National Park Service for inclusion in the Lake Mead National Recreation Area.
 
->     “(b) __Description of Land.—__ 
+>     “(b)  __Description of Land__  __.—__ 
 
 >     The parcel of land referred to in subsection (a) is the approximately 10 acres of Bureau of Land Management land, as depicted on the map entitled ‘Eldorado/Spirit Mountain’ and dated October 1, 2002.
 
->     “(c) __Use of Land.—__ 
+>     “(c)  __Use of Land__  __.—__ 
 
 >     The parcel of land described in subsection (b) shall be used by the National Park Service for administrative facilities.”
 

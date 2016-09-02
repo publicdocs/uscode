@@ -71,11 +71,11 @@
 
 [Pub. L. 105–359, § 1][/us/pl/105/359/s1], Nov. 10, 1998, [112 Stat. 3275][/us/stat/112/3275], provided that:
 
->     “(a) __Study Required.—__ 
+>     “(a)  __Study Required__  __.—__ 
 
 >     The Secretary of Agriculture and the Secretary of the Interior shall jointly conduct a study regarding ways to improve the access for persons with disabilities to outdoor recreational opportunities (such as fishing, hunting, trapping, wildlife viewing, hiking, boating, and camping) made available to the public on the Federal lands described in subsection (b).
 
->     “(b) __Covered Federal Lands.—__ 
+>     “(b)  __Covered Federal Lands__  __.—__ 
 
 >     The Federal lands referred to in subsection (a) are the following:
 
@@ -87,7 +87,7 @@
 
 >         “(4) Lands administered by the Bureau of Land Management.
 
->     “(c) __Report on Study.—__ 
+>     “(c)  __Report on Study__  __.—__ 
 
 >     Not later than 18 months after the date of the enactment of this Act \[Nov. 10, 1998\], the Secretaries shall submit to Congress a report containing the results of the study.”
 

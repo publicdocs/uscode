@@ -533,11 +533,11 @@ Sponges
 
 [Pub. L. 101–627, title X, § 1001][/us/pl/101/627/s1001], Nov. 28, 1990, [104 Stat. 4467][/us/stat/104/4467], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Congress consents to and approves of the amendments described in subsection (b) to the interstate compact which constituted the Pacific Marine Fisheries Commission, approved by the Act of July 24, 1947 ([61 Stat. 419][/us/stat/61/419]; hereinafter in this section referred to as the ‘compact’).
 
->     “(b) __Amendment Described.—__ 
+>     “(b)  __Amendment Described__  __.—__ 
 
 >     The amendments referred to in subsection (a) are the amendments approved and ratified before the effective date of this section \[Nov. 28, 1990\] by the contracting States to the compact, which—
 
@@ -545,7 +545,7 @@ Sponges
 
 >         “(2) make such other amendments to the compact as are necessary solely to conform the text of the compact to the amendment described in paragraph (1).
 
->     “(c) __References.—__ 
+>     “(c)  __References__  __.—__ 
 
 >     Any reference in a law, map, regulation, document, paper, or other record of the United States to the Pacific Marine Fisheries Commission constituted by the compact is deemed to be a reference to the ‘Pacific States Marine Fisheries Commission’.”
 

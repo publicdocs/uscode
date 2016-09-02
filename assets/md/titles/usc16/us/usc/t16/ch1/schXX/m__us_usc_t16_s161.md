@@ -41,11 +41,11 @@
 
 [Pub. L. 112–268, § 1][/us/pl/112/268/s1], Jan. 14, 2013, [126 Stat. 2441][/us/stat/126/2441], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of the Interior may issue right-of-way permits for each natural gas pipeline (including all appurtenances used in the operation of the natural gas pipeline) that, as of March 1, 2012, is located within the boundary of Glacier National Park.
 
->     “(b) __Terms and Conditions.—__ 
+>     “(b)  __Terms and Conditions__  __.—__ 
 
 >     A permit issued under subsection (a) shall be—
 

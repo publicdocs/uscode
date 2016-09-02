@@ -23,15 +23,15 @@
 
 [Pub. L. 105–44, § 1][/us/pl/105/44/s1], Sept. 30, 1997, [111 Stat. 1141][/us/stat/111/1141], provided that:
 
->     “(a) __Designation.—__ 
+>     “(a)  __Designation__  __.—__ 
 
 >     The reservoir created by Trinity Dam in the Central Valley project, California, and designated as ‘Clair Engle Lake’ by [Public Law 88–662][/us/pl/88/662] ([78 Stat. 1093][/us/stat/78/1093]) is hereby redesignated as ‘Trinity Lake’.
 
->     “(b) __References.—__ 
+>     “(b)  __References__  __.—__ 
 
 >     Any reference in any law, regulation, document, record, map, or other paper of the United States to the reservoir referred to in subsection (a) shall be considered to be a reference to ‘Trinity Lake’.
 
->     “(c) __Repeal of Earlier Designation.—__ 
+>     “(c)  __Repeal of Earlier Designation__  __.—__ 
 
 >     [Public Law 88–662][/us/pl/88/662] ([78 Stat. 1093][/us/stat/78/1093]) is repealed.”
 

@@ -37,11 +37,11 @@
 
 [Pub. L. 104–333, div. I, title VIII, § 809][/us/pl/104/333/s809], Nov. 12, 1996, [110 Stat. 4189][/us/stat/110/4189], as amended by [Pub. L. 106–176, title I, § 119][/us/pl/106/176/s119], Mar. 10, 2000, [114 Stat. 28][/us/stat/114/28], provided that:
 
->     “(a) __Designation.—__ 
+>     “(a)  __Designation__  __.—__ 
 
 >     The visitor center at the Channel Islands National Park, California, is designated as the ‘Robert J. Lagomarsino Visitor Center’.
 
->     “(b) __Legal References.—__ 
+>     “(b)  __Legal References__  __.—__ 
 
 >     Any reference in any law, regulation, document, record, map, or other document of the United States to the visitor center referred to in subsection (a) is deemed to be a reference to the ‘Robert J. Lagomarsino Visitor Center’.”
 

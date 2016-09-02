@@ -51,7 +51,7 @@
 
                 (xii) containing such other restrictions and requirements as the Secretary determines are necessary to implement the International Dolphin Conservation Program with respect to vessels of the United States.
 
-            (C) __Adjustments to requirements.—__ 
+            (C)  __Adjustments to requirements__  __.—__ 
 
             The Secretary may make such adjustments as may be appropriate to requirements of subparagraph (B) that pertain to fishing gear, vessel equipment, and fishing practices to the extent the adjustments are consistent with the International Dolphin Conservation Program.
 

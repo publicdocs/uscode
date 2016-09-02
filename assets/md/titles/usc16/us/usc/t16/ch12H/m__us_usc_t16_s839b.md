@@ -237,31 +237,31 @@
 
             (C) The amounts expended by the Administrator for each activity pursuant to this subsection shall be allocated as appropriate by the Administrator, in consultation with the Corps of Engineers and the Water and Power Resources Service, among the various hydroelectric projects of the Federal Columbia River Power System. Amounts so allocated shall be allocated to the various project purposes in accordance with existing accounting procedures for the Federal Columbia River Power System.
 
-            (D) __Independent Scientific Review Panel.—__ 
+            (D)  __Independent Scientific Review Panel__  __.—__ 
 
                 (i) The Northwest Power Planning Council (Council) shall appoint an Independent Scientific Review Panel (Panel), which shall be comprised of eleven members, to review projects proposed to be funded through that portion of the Bonneville Power Administration’s (BPA) annual fish and wildlife budget that implements the Council’s fish and wildlife program. Members shall be appointed from a list of no fewer than 20 scientists submitted by the National Academy of Sciences (Academy), provided that Pacific Northwest scientists with expertise in Columbia River anadromous and non-anadromous fish and wildlife and ocean experts shall be among those represented on the Panel. The Academy shall provide such nominations within 90 days of September 30, 1996, and in any case not later than December 31, 1996. If appointments are required in subsequent years, the Council shall request nominations from the Academy and the Academy shall provide nominations not later than 90 days after the date of this request. If the Academy does not provide nominations within these time requirements, the Council may appoint such members as the Council deems appropriate.
 
-                (ii) __Scientific Peer Review Groups.—__ 
+                (ii)  __Scientific Peer Review Groups__  __.—__ 
 
                 The Council shall establish Scientific Peer Review Groups (Peer Review Groups), which shall be comprised of the appropriate number of scientists, from a list submitted by the Academy to assist the Panel in making its recommendations to the Council for projects to be funded through BPA’s annual fish and wildlife budget, provided that Pacific Northwest scientists with expertise in Columbia River anadromous and non-anadromous fish and wildlife and ocean experts shall be among those represented on the Peer Review Groups. The Academy shall provide such nominations within 90 days of September 30, 1996, and in any case not later than December 31, 1996. If appointments are required in subsequent years, the Council shall request nominations from the Academy and the Academy shall provide nominations not later than 90 days after the date of this request. If the Academy does not provide nominations within these time requirements, the Council may appoint such members as the Council deems appropriate.
 
-                (iii) __Conflict of Interest and Compensation.—__ 
+                (iii)  __Conflict of Interest and Compensation__  __.—__ 
 
                 Panel and Peer Review Group members may be compensated and shall be considered subject to the conflict of interest standards that apply to scientists performing comparable work for the National Academy of Sciences; provided that a Panel or Peer Review Group members with a direct or indirect financial interest in a project, or projects, shall recuse himself or herself from review of, or recommendations associated with, such project or projects. All expenses of the Panel and the Peer Review Groups shall be paid by BPA as provided for under paragraph (vii). Neither the Panel nor the Peer Review Groups shall be deemed advisory committees within the meaning of the Federal Advisory Committee Act.
 
-                (iv) __Project Criteria and Review.—__ 
+                (iv)  __Project Criteria and Review__  __.—__ 
 
                 The Peer Groups, in conjunction with the Panel, shall review projects proposed to be funded through BPA’s annual fish and wildlife budget and make recommendations on matters related to such projects to the Council no later than June 15 of each year. If the recommendations are not received by the Council by this date, the Council may proceed to make final recommendations on project funding to BPA, relying on the best information available. The Panel and Peer Review Groups shall review a sufficient number of projects to adequately ensure that the list of prioritized projects recommended is consistent with the Council’s program. Project recommendations shall be based on a determination that projects: are based on sound science principles; benefit fish and wildlife; and have a clearly defined objective and outcome with provisions for monitoring and evaluation of results. The Panel, with assistance from the Peer Review Groups, shall review, on an annual basis, the results of prior year expenditures based upon these criteria and submit its findings to the Council for its review.
 
-                (v) __Public Review.—__ 
+                (v)  __Public Review__  __.—__ 
 
                 Upon completion of the review of projects to be funded through BPA’s annual fish and wildlife budget, the Peer Review Groups shall submit its findings to the Panel. The Panel shall analyze the information submitted by the Peer Review Groups and submit recommendations on project priorities to the Council. The Council shall make the Panel’s findings available to the public and subject to public comment.
 
-                (vi) __Responsibilities of the Council.—__ 
+                (vi)  __Responsibilities of the Council__  __.—__ 
 
                 The Council shall fully consider the recommendations of the Panel when making its final recommendations of projects to be funded through BPA’s annual fish and wildlife budget, and if the Council does not incorporate a recommendation of the Panel, the Council shall explain in writing its reasons for not accepting Panel recommendations. In making its recommendations to BPA, the Council shall consider the impact of ocean conditions on fish and wildlife populations and shall determine whether the projects employ cost-effective measures to achieve program objectives. The Council, after consideration of the recommendations of the Panel and other appropriate entities, shall be responsible for making the final recommendations of projects to be funded through BPA’s annual fish and wildlife budget.
 
-                (vii) __Cost limitation.—__ 
+                (vii)  __Cost limitation__  __.—__ 
 
                 The annual cost of this provision shall not exceed $500,000 in 1997 dollars.
 

@@ -97,15 +97,15 @@
 
 [Pub. L. 104–40, § 1][/us/pl/104/40/s1], Nov. 1, 1995, [109 Stat. 350][/us/stat/109/350], provided:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of the Interior, acting through the Director of the Fish and Wildlife Service (referred to in this section as the ‘Director’), may charge reasonable fees for expenses to the Federal Government for triploid grass carp certification inspections requested by a person who owns or operates an aquaculture facility.
 
->     “(b) __Availability.—__ 
+>     “(b)  __Availability__  __.—__ 
 
 >     All fees collected under subsection (a) shall be available to the Director until expended, without further appropriations.
 
->     “(c) __Use.—__ 
+>     “(c)  __Use__  __.—__ 
 
 >     The Director shall use all fees collected under subsection (a) to carry out the activities referred to in subsection (a).”
 

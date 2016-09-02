@@ -27,11 +27,11 @@
 
 [Pub. L. 106–555, title I, § 122(c)][/us/pl/106/555/s122/c], Dec. 21, 2000, [114 Stat. 2766][/us/stat/114/2766], provided that:
 
->     “(1) __Annual report to the Secretary.—__ 
+>     “(1)  __Annual report to the Secretary__  __.—__ 
 
 >     The Secretary shall require, as a condition of providing financial assistance under this subtitle \[subtitle B (§§ 121, 122) of title I of [Pub. L. 106–555][/us/pl/106/555], amending sections 5101 to 5103, 5106, and 5107a to 5108 of this title and enacting provisions set out as a note under [section 5101 of this title][/us/usc/t16/s5101]\], that the Commission and each State receiving such assistance submit to the Secretary an annual report that provides a detailed accounting of the use of the assistance.
 
->     “(2) __Biennial reports to the Congress.—__ 
+>     “(2)  __Biennial reports to the Congress__  __.—__ 
 
 >     The Secretary shall submit biennial reports to the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the use of Federal assistance provided to the Commission and the States under this subtitle. Each biennial report shall evaluate the success of such assistance in implementing this subtitle.”
 

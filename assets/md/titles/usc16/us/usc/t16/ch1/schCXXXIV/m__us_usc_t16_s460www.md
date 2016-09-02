@@ -181,31 +181,31 @@
 
 > “In this subtitle \[subtitle O (§§ 1971–1983) of title I of [Pub. L. 111–11][/us/pl/111/11], enacting this subchapter, subchapter CXXXV of this chapter, and [section 346a–6 of this title][/us/usc/t16/s346a–6], amending [section 1274 of this title][/us/usc/t16/s1274], enacting provisions set out as notes under [section 1274 of this title][/us/usc/t16/s1274] and [section 766 of Title 25][/us/usc/t25/s766], Indians, and enacting provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132]\]:
 
->     “(1) __Beaver dam wash national conservation area map.—__ 
+>     “(1)  __Beaver dam wash national conservation area map__  __.—__ 
 
 >     The term ‘Beaver Dam Wash National Conservation Area Map’ means the map entitled ‘Beaver Dam Wash National Conservation Area’ and dated September 20, 2009.
 
->     “(2) __Canaan mountain wilderness map.—__ 
+>     “(2)  __Canaan mountain wilderness map__  __.—__ 
 
 >     The term ‘Canaan Mountain Wilderness Map’ means the map entitled ‘Canaan Mountain Wilderness’ and dated June 21, 2008.
 
->     “(3) __County.—__ 
+>     “(3)  __County__  __.—__ 
 
 >     The term ‘County’ means Washington County, Utah.
 
->     “(4) __Northeastern washington county wilderness map.—__ 
+>     “(4)  __Northeastern washington county wilderness map__  __.—__ 
 
 >     The term ‘Northeastern Washington County Wilderness Map’ means the map entitled ‘Northeastern Washington County Wilderness’ and dated November 12, 2008.
 
->     “(5) __Northwestern washington county wilderness map.—__ 
+>     “(5)  __Northwestern washington county wilderness map__  __.—__ 
 
 >     The term ‘Northwestern Washington County Wilderness Map’ means the map entitled ‘Northwestern Washington County Wilderness’ and dated June 21, 2008.
 
->     “(6) __Red cliffs national conservation area map.—__ 
+>     “(6)  __Red cliffs national conservation area map__  __.—__ 
 
 >     The term ‘Red Cliffs National Conservation Area Map’ means the map entitled ‘Red Cliffs National Conservation Area’ and dated November 12, 2008.
 
->     “(7) __Secretary.—__ 
+>     “(7)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means—
 
@@ -213,11 +213,11 @@
 
 >         “(B) with respect to land under the jurisdiction of the Secretary of the Interior, the Secretary of the Interior.
 
->     “(8) __State.—__ 
+>     “(8)  __State__  __.—__ 
 
 >     The term ‘State’ means the State of Utah.
 
->     “(9) __Washington county growth and conservation act map.—__ 
+>     “(9)  __Washington county growth and conservation act map__  __.—__ 
 
 >     The term ‘Washington County Growth and Conservation Act Map’ means the map entitled ‘Washington County Growth and Conservation Act Map’ and dated November 13, 2008.”
 

@@ -47,7 +47,7 @@
 
 [Pub. L. 106–291, title I, § 150(b)][/us/pl/106/291/s150/b], Oct. 11, 2000, [114 Stat. 956][/us/stat/114/956], provided that:
 
->     “(1) __Findings.—__ 
+>     “(1)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -61,7 +61,7 @@
 
 >         “(E) the Freedom Center has reached an agreement with the National Park Service to pursue a range of historical and educational cooperative activities related to the Underground Railroad, including but not limited to assisting the National Park Service in the implementation of the National Underground Railroad Network to Freedom Act \[[16 U.S.C. 469][/us/usc/t16/s469]l et seq.\].
 
->     “(2) __Purposes.—__ 
+>     “(2)  __Purposes__  __.—__ 
 
 >     The purposes of this section are—
 

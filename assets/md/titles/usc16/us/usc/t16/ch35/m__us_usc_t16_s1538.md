@@ -153,11 +153,11 @@
 
 [Pub. L. 103–238, § 17][/us/pl/103/238/s17], Apr. 30, 1994, [108 Stat. 559][/us/stat/108/559], provided that:
 
->     “(a) __Lawful Approaches.—__ 
+>     “(a)  __Lawful Approaches__  __.—__ 
 
 >     In waters of the United States surrounding the State of Hawaii, it is lawful for a person subject to the jurisdiction of the United States to approach, by any means other than an aircraft, no closer than 100 yards to a humpback whale, regardless of whether the approach is made in waters designated under section 222.31 of title 50, Code of Federal Regulations, as cow/calf waters.
 
->     “(b) __Termination of Legal Effect of Certain Regulations.—__ 
+>     “(b)  __Termination of Legal Effect of Certain Regulations__  __.—__ 
 
 >     Subsection (b) of section 222.31 of title 50, Code of Federal Regulations, shall cease to be in force and effect.”
 

@@ -43,21 +43,21 @@
 
 > “SEC. 3. __COMMERCIAL FISHING.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary shall allow for commercial fishing in the outer waters of the park in accordance with the management plan referred to in subsection (b) in a manner that provides for the protection of park resources and values.
 
->     “(b) __Management Plan.—__ 
+>     “(b)  __Management Plan__  __.—__ 
 
 >     The Secretary and the State shall cooperate in the development of a management plan for the regulation of commercial fisheries in the outer waters of the park in accordance with existing Federal and State laws and any applicable international conservation and management treaties.
 
->     “(c) __Savings.—__ 
+>     “(c)  __Savings__  __.—__ 
 
 >         (1) Nothing in this Act shall alter or affect the provisions of section 123 of the Department of the Interior and Related Agencies Appropriations Act for Fiscal Year 1999 ([Public Law 105–277][/us/pl/105/277]) \[set out as a note below\], as amended by section 501 of the 1999 Emergency Supplemental Appropriations Act ([Public Law 106–31][/us/pl/106/31]).
 
 >         “(2) Nothing in this Act shall enlarge or diminish Federal or State title, jurisdiction, or authority with respect to the waters of the State of Alaska, the waters within Glacier Bay National Park and Preserve, or tidal or submerged lands.
 
->     “(d) __Study.—__ 
+>     “(d)  __Study__  __.—__ 
 
 >         (1)
 
@@ -73,11 +73,11 @@
 
 > “SEC. 4. __SEA GULL EGG COLLECTION STUDY.__ 
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Secretary, in consultation with local residents, shall undertake a study of sea gulls living within the park to assess whether sea gull eggs can be collected on a limited basis without impairing the biological sustainability of the sea gull population in the park. The study shall be completed no later than two years after the date funds are made available.
 
->     “(b) __Recommendations.—__ 
+>     “(b)  __Recommendations__  __.—__ 
 
 >     If the study referred to in subsection (a) determines that the limited collection of sea gull eggs can occur without impairing the biological sustainability of the sea gull population in the park, the Secretary shall submit recommendations for legislation to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources \[now Committee on Natural Resources\] of the United States House of Representatives.
 
@@ -117,7 +117,7 @@
 
 >         “(5) With respect to the individuals engaging in commercial fishing in Glacier Bay Proper pursuant to paragraph (2), no fishing shall be allowed in Geikie Inlet.
 
->     “(b) __The Beardslee Islands and Upper Dundas Bay.—__ 
+>     “(b)  __The Beardslee Islands and Upper Dundas Bay__  __.—__ 
 
 >     Commercial fishing is prohibited in the designated wilderness waters within Glacier Bay National Park and Preserve, including the waters of the Beardslee Islands and Upper Dundas Bay. Any individual who—
 
@@ -139,7 +139,7 @@
 
 >         shall be eligible to receive from the United States compensation that is the greater of (i) $400,000, or (ii) an amount equal to the fair market value (as of the date of relinquishment) of the commercial fishing permit for Dungeness crab, together with an amount equal to the present value of the foregone net income from commercial fishing for Dungeness crab for for \[sic\] the period beginning January 1, 1999 that is equivalent in length to the period established by such individual under paragraph (1), based on the individual’s net earnings from the Dungeness crab fishery during such established period. In addition, such individual shall be eligible to receive from the United States fair market value for any Dungeness crab pots, related gear, and not more than one Dungeness crab fishing vessel if such individual chooses to relinquish to the United States such pots, related gear, or vessel. Any individual seeking such compensation shall provide the consent necessary for the Secretary of the Interior to verify such net earnings in the fishery. The Secretary of the Interior’s determination of the amount to be paid shall be completed and payment shall be made within six months from the date of application by the individuals described in this subsection and shall constitute final agency action subject to review pursuant to the Administrative Procedures \[Procedure\] Act \[[5 U.S.C. 551][/us/usc/t5/s551] et seq.; 701 et seq.\] in the United States District Court for the District of Alaska.
 
->     “(c) __Others Affected by Fishery Closures and Restrictions.—__ 
+>     “(c)  __Others Affected by Fishery Closures and Restrictions__  __.—__ 
 
 >     The Secretary of the Interior is authorized to provide $23,000,000 for a program developed with the concurrence of the State of Alaska to fairly compensate United States fish processors, fishing vessel crew members, communities, and others negatively affected by restrictions on fishing in Glacier Bay National Park. For the purpose of receiving compensation under the program required by this subsection, a potential recipient shall provide a sworn and notarized affidavit to establish the extent of such negative effect.
 
@@ -149,7 +149,7 @@
 
 >         “(2) Nothing in this section is intended to enlarge or diminish Federal or State title, jurisdiction, or authority with respect to the waters of the State of Alaska, the waters within the boundaries of Glacier Bay National Park, or the tidal or submerged lands under any provision of State or Federal law.
 
->     “(e) __Implementation and Effective Date.—__ 
+>     “(e)  __Implementation and Effective Date__  __.—__ 
 
 >     The Secretary of the Interior shall publish an interim final rule for the Federal implementation of paragraphs (2) through (5) of subsection (a) and shall provide an opportunity for public comment of no less than 45 days on such interim final rule. The final rule for the Federal implementation of paragraphs (2) through (5) of subsection (a) shall be published in the Federal Register no later than September 30, 1999 and shall take effect on September 30, 1999, except that the limitations in paragraphs (3) through (5) of such subsection shall not apply with respect to halibut fishing until November 15, 1999 or salmon troll fishing until December 31, 1999. In the event that any individual eligible for compensation under subsection (b) has not received full compensation by June 15, 1999, the Secretary shall provide partial compensation on such date to such individual and shall expeditiously provide full compensation thereafter.”
 

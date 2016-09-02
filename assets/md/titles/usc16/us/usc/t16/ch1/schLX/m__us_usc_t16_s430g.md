@@ -33,11 +33,11 @@
 
 [Pub. L. 100–132, § 2][/us/pl/100/132/s2], Oct. 16, 1987, [101 Stat. 807][/us/stat/101/807], provided that:
 
->     “(a) __Acquisition of Additional Lands.—__ 
+>     “(a)  __Acquisition of Additional Lands__  __.—__ 
 
 >     Except as provided in section 1 of this Act \[[16 U.S.C. 430g–3][/us/usc/t16/s430g–3]\], until Congress receives the study under subsection (b), the Secretary of the Interior may not acquire by purchase, donation, exchange, or any other means any additional land for the Gettysburg National Military Park which is not within the boundaries of the 3,874 acre area depicted on the map dated July 25, 1974, numbered 305–92,004 and entitled ‘Gettysburg National Military Park’.
 
->     “(b) __Study by National Park Service.—__ 
+>     “(b)  __Study by National Park Service__  __.—__ 
 
 >     The Secretary of the Interior through the National Park Service shall conduct a boundary study and shall submit a report to Congress within one year of the date of enactment of this Act \[Oct. 16, 1987\], with recommendations with respect to the final development of the Gettysburg National Military Park. In conducting the study, the Secretary shall consult with the people of the community and their elected representatives at all levels as well as with other interested individuals and groups.”
 

@@ -27,11 +27,11 @@
 
             (C) __Units at which entrance fees or admissions fees cannot be collected.—__ 
 
-                (i) __Withholding of amounts.—__ 
+                (i)  __Withholding of amounts__  __.—__ 
 
                 Notwithstanding section 107 of the Department of the Interior and Related Agencies Appropriations Act, 1998 ([16 U.S.C. 460][/us/usc/t16/s460]l–6a note; [Public Law 105–83][/us/pl/105/83]), the Secretary of the Interior shall withhold from the special account under [section 6806(a) of this title][/us/usc/t16/s6806/a] 100 percent of the fees and charges collected in connection with any unit of the National Park System at which entrance fees or admission fees cannot be collected by reason of deed restrictions.
 
-                (ii) __Use of amounts.—__ 
+                (ii)  __Use of amounts__  __.—__ 
 
                 Amounts withheld under clause (i) shall be retained by the Secretary and shall be available, without further Act of appropriation, for expenditure by the Secretary for the unit with respect to which the amounts were collected for the purposes of enhancing the quality of the visitor experience, protection of resources, repair and maintenance, interpretation, signage, habitat or facility enhancement, resource preservation, annual operation (including fee collection), maintenance, and law enforcement.
 
@@ -221,19 +221,19 @@
 
 >     “(a) __Withholding of Amounts.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         During fiscal years 1999 through 2002, the Secretary \[of the Army\] may withhold from the special account established under section 4(i)(1)(A) of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–6a(i)(1)(A)) 100 percent of the amount of receipts above a baseline of $34,000,000 per each fiscal year received from fees imposed at recreation sites under the administrative jurisdiction of the Department of the Army under section 4(b) of that Act ([16 U.S.C. 460][/us/usc/t16/s460]l–6a(b)).
 
->         “(2) __Use.—__ 
+>         “(2)  __Use__  __.—__ 
 
 >         The amounts withheld shall be retained by the Secretary and shall be available, without further Act of appropriation, for expenditure by the Secretary in accordance with subsection (b).
 
->         “(3) __Availability.—__ 
+>         “(3)  __Availability__  __.—__ 
 
 >         The amounts withheld shall remain available until September 30, 2005.
 
->     “(b) __Use of Amounts Withheld.—__ 
+>     “(b)  __Use of Amounts Withheld__  __.—__ 
 
 >     In order to increase the quality of the visitor experience at public recreational areas and to enhance the protection of resources, the amounts withheld under subsection (a) may be used only for—
 
@@ -253,7 +253,7 @@
 
 >         “(8) law enforcement related to public use.
 
->     “(c) __Availability.—__ 
+>     “(c)  __Availability__  __.—__ 
 
 >     Each amount withheld by the Secretary \[of the Army\] shall be available for expenditure, without further Act of appropriation, at the specific project from which the amount, above baseline, is collected.”
 

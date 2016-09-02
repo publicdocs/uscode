@@ -35,7 +35,7 @@
 
 > “In this title:
 
->     “(1) __Administrative site.—__ 
+>     “(1)  __Administrative site__  __.—__ 
 
 >     The term ‘administrative site’ means—
 
@@ -45,7 +45,7 @@
 
 >         “(C) not more than 10 isolated, undeveloped parcels per fiscal year of not more than 40 acres each that were acquired or used for purposes of administration of Forest Service activities, but are not being so utilized, such as vacant lots outside of the proclaimed boundary of a unit of the National Forest System.
 
->     “(2) __Facility or improvement.—__ 
+>     “(2)  __Facility or improvement__  __.—__ 
 
 >     The term ‘facility or improvement’ includes—
 
@@ -73,21 +73,21 @@
 
 >         “(L) other administrative installations for conducting Forest Service activities.
 
->     “(3) __Market analysis.—__ 
+>     “(3)  __Market analysis__  __.—__ 
 
 >     The term ‘market analysis’ means the identification and study of the real estate market for a particular economic good or service.
 
->     “(4) __Secretary.—__ 
+>     “(4)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of Agriculture.
 
 > “SEC. 503. __AUTHORIZATION FOR CONVEYANCE OF FOREST SERVICE ADMINISTRATIVE SITES.__ 
 
->     “(a) __Conveyances Authorized.—__ 
+>     “(a)  __Conveyances Authorized__  __.—__ 
 
 >     In the manner provided by this title, the Secretary may convey an administrative site, or an interest in an administrative site, that is under the jurisdiction of the Secretary.
 
->     “(b) __Means of Conveyance.—__ 
+>     “(b)  __Means of Conveyance__  __.—__ 
 
 >     The conveyance of an administrative site under this title may be made—
 
@@ -101,11 +101,11 @@
 
 >         “(5) by such other means as the Secretary considers appropriate.
 
->     “(c) __Size of Conveyance.—__ 
+>     “(c)  __Size of Conveyance__  __.—__ 
 
 >     An administrative site or compound of administrative sites disposed of in a single conveyance under this title may not exceed 40 acres.
 
->     “(d) __Certain Lands Excluded.—__ 
+>     “(d)  __Certain Lands Excluded__  __.—__ 
 
 >     The following Federal land may not be conveyed under this title:
 
@@ -125,7 +125,7 @@
 
 >     “(e) __Congressional Notifications.—__ 
 
->         “(1) __Notice of anticipated use of authority.—__ 
+>         “(1)  __Notice of anticipated use of authority__  __.—__ 
 
 >         As part of the annual budget justification documents provided to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate, the Secretary shall include—
 
@@ -135,19 +135,19 @@
 
 >             “(C) a presentation of accomplishments of previous years using this authority or other conveyance authorities available to the Secretary.
 
->         “(2) __Notice of changes to conveyance list.—__ 
+>         “(2)  __Notice of changes to conveyance list__  __.—__ 
 
 >         If the Secretary proposes to convey an administrative site under this title or using other conveyance authorities available to the Secretary and the administrative site is not included on a list provided under paragraph (1)(A), the Secretary shall submit to the congressional committees specified in paragraph (3) written notice of the proposed conveyance, including the anticipated revenue that may be obtained from the conveyance.
 
->         “(3) __Notice of use of authority.—__ 
+>         “(3)  __Notice of use of authority__  __.—__ 
 
 >         At least once a year, the Secretary shall submit to the Committee on Agriculture, the Committee on Appropriations, and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry, the Committee on Appropriations, and the Committee on Energy and Natural Resources of the Senate a report containing a description of all conveyances of National Forest System land made by the Secretary under this title or other conveyance authorities during the period covered by the report.
 
->     “(f) __Duration of Authority.—__ 
+>     “(f)  __Duration of Authority__  __.—__ 
 
 >     The authority of the Secretary to initiate the conveyance of an administrative site under this title expires on September 30, 2016.
 
->     “(g) __Repeal of Pilot Conveyance Authority.—__ 
+>     “(g)  __Repeal of Pilot Conveyance Authority__  __.—__ 
 
 >     Effective September 30, 2006, section 329 of the Department of the Interior and Related Agencies Appropriations Act, 2002 ([16 U.S.C. 580d][/us/usc/t16/s580d] note; [Public Law 107–63][/us/pl/107/63]), is repealed. Notwithstanding the repeal of such section, the Secretary may complete the conveyance under such section of any administrative site whose conveyance was initiated under such section before that date.
 
@@ -155,7 +155,7 @@
 
 >     “(a) __Configuration of Administrative Sites.—__ 
 
->         “(1) __Configuration.—__ 
+>         “(1)  __Configuration__  __.—__ 
 
 >         To facilitate the conveyance of an administrative site under this title, the Secretary may configure the administrative site—
 
@@ -163,27 +163,27 @@
 
 >             “(B) to achieve management objectives.
 
->         “(2) __Separate treatment of facility or improvement.—__ 
+>         “(2)  __Separate treatment of facility or improvement__  __.—__ 
 
 >         A facility or improvement on an administrative site to be conveyed under this title may be severed from the land and disposed of in a separate conveyance.
 
->         “(3) __Terms, conditions, and reservations.—__ 
+>         “(3)  __Terms, conditions, and reservations__  __.—__ 
 
 >         The conveyance of an administrative site under this title shall be subject to such terms, conditions, and reservations as the Secretary determines to be necessary to protect the public interest\[.\]
 
 >     “(b) __Consideration.—__ 
 
->         “(1) __Consideration required.—__ 
+>         “(1)  __Consideration required__  __.—__ 
 
 >         A person or entity acquiring an administrative site under this title shall provide to the Secretary consideration in an amount that is at least equal to the market value of the administrative site.
 
 >         “(2) __Form of consideration.—__ 
 
->             “(A) __Sale.—__ 
+>             “(A)  __Sale__  __.—__ 
 
 >             Consideration for an administrative site conveyed by sale under this title shall be paid in cash on conveyance of the administrative site.
 
->             “(B) __Exchange.—__ 
+>             “(B)  __Exchange__  __.—__ 
 
 >             If the administrative site is conveyed by exchange, the consideration shall be provided in the form of a conveyance to the Secretary of land or improvements that are equal in market value to the conveyed administrative site. If the market values are not equal, the market values may be equalized by—
 
@@ -191,7 +191,7 @@
 
 >                 “(ii) the person or entity acquiring the administrative site making a cash equalization payment to the Secretary.
 
->     “(c) __Determination of Market Value.—__ 
+>     “(c)  __Determination of Market Value__  __.—__ 
 
 >     The Secretary shall determine the market value of an administrative site to be conveyed under this title or of non-Federal land or improvements to be provided as consideration in exchange for an administrative site—
 
@@ -207,15 +207,15 @@
 
 >     “(d) __Relation to Other Laws.—__ 
 
->         “(1) __Federal property disposal.—__ 
+>         “(1)  __Federal property disposal__  __.—__ 
 
 >         Chapter 5 of subtitle I of title 40, United States Code, shall not apply to the conveyance of an administrative site under this title.
 
->         “(2) __Land exchanges.—__ 
+>         “(2)  __Land exchanges__  __.—__ 
 
 >         Section 206 of the Federal Land Policy and Management Act \[of 1976\] ([43 U.S.C. 1716][/us/usc/t43/s1716]) shall not apply to the conveyance of an administrative site under this title carried out by means of an exchange or combination of sale and exchange.
 
->         “(3) __Lead-based paint and asbestos abatement.—__ 
+>         “(3)  __Lead-based paint and asbestos abatement__  __.—__ 
 
 >         Notwithstanding any provision of law relating to the mitigation or abatement of lead-based paint or asbestos-containing building materials, the Secretary is not required to mitigate or abate lead-based paint or asbestos-containing building materials with respect to an administrative site to be conveyed under this title. However, if the administrative site has lead-based paint or asbestos-containing building materials, the Secretary shall—
 
@@ -223,7 +223,7 @@
 
 >             “(B) obtain written assurance from the person or entity acquiring the administrative site that the person or entity will comply with applicable Federal, State, and local laws relating to the management of the lead-based paint and asbestos-containing building materials.
 
->         “(4) __Environmental review.—__ 
+>         “(4)  __Environmental review__  __.—__ 
 
 >         The National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) shall apply to the conveyance of administrative sites under this title, except that, in any environmental review or analysis required under such Act for the conveyance of an administrative site under this title, the Secretary is only required to—
 
@@ -233,7 +233,7 @@
 
 >             “(C) evaluate the alternative of not conveying the administrative site, consistent with the National Environmental Policy Act of 1969.
 
->     “(e) __Rejection of Offers.—__ 
+>     “(e)  __Rejection of Offers__  __.—__ 
 
 >     The Secretary shall reject any offer made for the acquisition of an administrative site under this title if the Secretary determines that the offer is—
 
@@ -241,17 +241,17 @@
 
 >         “(2) not otherwise in the public interest.
 
->     “(f) __Consultation and Public Notice.—__ 
+>     “(f)  __Consultation and Public Notice__  __.—__ 
 
 >     As appropriate, the Secretary is encouraged to work with the Administrator of the General Services Administration with respect to the conveyance of administrative sites under this title. Before making an administrative site available for conveyance under this title, the Secretary shall consult with local governmental officials of the community in which the administrative site is located and provide public notice of the proposed conveyance.
 
 > “SEC. 505. __DISPOSITION OF PROCEEDS RECEIVED FROM ADMINISTRATIVE SITE CONVEYANCES.__ 
 
->     “(a) __Deposit.—__ 
+>     “(a)  __Deposit__  __.—__ 
 
 >     The Secretary shall deposit in the fund established under [Public Law 90–171][/us/pl/90/171] (commonly known as the Sisk Act; [16 U.S.C. 484a][/us/usc/t16/s484a]) all of the proceeds from the conveyance of an administrative site under this title.
 
->     “(b) __Use.—__ 
+>     “(b)  __Use__  __.—__ 
 
 >     Amounts deposited under paragraph (1) shall be available to the Secretary, until expended and without further appropriation, to pay any necessary and incidental costs incurred by the Secretary in connection with—
 
@@ -259,7 +259,7 @@
 
 >         “(2) the conveyance of administrative sites under this title, including costs described in subsection (c).
 
->     “(c) __Brokerage Services.—__ 
+>     “(c)  __Brokerage Services__  __.—__ 
 
 >     The Secretary may use the proceeds from the conveyance of an administrative site under this title to pay reasonable commissions or fees for brokerage services obtained in connection with the conveyance if the Secretary determines that the services are in the public interest. The Secretary shall provide public notice of any brokerage services contract entered into in connection with a conveyance under this title.”
 

@@ -45,33 +45,33 @@
 
 [Pub. L. 111–261, § 1][/us/pl/111/261/s1], Oct. 8, 2010, [124 Stat. 2777][/us/stat/124/2777], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Park.—__ 
+>         “(1)  __Park__  __.—__ 
 
 >         The term ‘Park’ means the Virgin Islands National Park.
 
->         “(2) __Resort.—__ 
+>         “(2)  __Resort__  __.—__ 
 
 >         The term ‘resort’ means the Caneel Bay resort on the island of St. John in the Park.
 
->         “(3) __Retained use estate.—__ 
+>         “(3)  __Retained use estate__  __.—__ 
 
 >         The term ‘retained use estate’ means the retained use estate for the Caneel Bay property on the island of St. John entered into between the Jackson Hole Preserve and the United States on September 30, 1983 (as amended, assigned, and assumed).
 
->         “(4) __Secretary.—__ 
+>         “(4)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of the Interior.
 
 >     “(b) __Lease Authorization.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         If the Secretary determines that the long-term benefit to the Park would be greater by entering into a lease with the owner of the retained use estate than by authorizing a concession contract upon the termination of the retained use estate, the Secretary may enter into a lease with the owner of the retained use estate for the operation and management of the resort.
 
->         “(2) __Acquisitions.—__ 
+>         “(2)  __Acquisitions__  __.—__ 
 
 >         The Secretary may—
 
@@ -79,11 +79,11 @@
 
 >             “(B) on the acquisition of property under subparagraph (A), administer the property as part of the Park.
 
->         “(3) __Authority.—__ 
+>         “(3)  __Authority__  __.—__ 
 
 >         Except as otherwise provided by this section, a lease shall be in accordance with subsection (k) of [section 3 of Public Law 91–383][/us/pl/91/383/s3] ([16 U.S.C. 1a–2(k)][/us/usc/t16/s1a–2/k]), notwithstanding paragraph (2) of that subsection.
 
->         “(4) __Terms and conditions.—__ 
+>         “(4)  __Terms and conditions__  __.—__ 
 
 >         A lease authorized under this section shall—
 
@@ -105,7 +105,7 @@
 
 >             “(F) include any other provisions determined by the Secretary to be necessary to protect the Park and the public interest.
 
->         “(5) __Rental amounts.—__ 
+>         “(5)  __Rental amounts__  __.—__ 
 
 >         In determining the fair market value rental of the lease required under [section 3(k)(4) of Public Law 91–383][/us/pl/91/383/s3/k/4] ([16 U.S.C. 1a–2(k)(4)][/us/usc/t16/s1a–2/k/4]), the Secretary shall take into consideration—
 
@@ -113,35 +113,35 @@
 
 >             “(B) the value, if any, of the relinquished term of the retained use estate.
 
->         “(6) __Use of proceeds.—__ 
+>         “(6)  __Use of proceeds__  __.—__ 
 
 >         Rental amounts paid to the United States under a lease shall be available to the Secretary, without further appropriation, for visitor services and resource protection within the Park.
 
->         “(7) __Congressional notification.—__ 
+>         “(7)  __Congressional notification__  __.—__ 
 
 >         The Secretary shall submit a proposed lease under this section to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives at least 60 days before the award of the lease.
 
->         “(8) __Renewal.—__ 
+>         “(8)  __Renewal__  __.—__ 
 
 >         A lease entered into under this section may not be extended or renewed.
 
->         “(9) __Termination.—__ 
+>         “(9)  __Termination__  __.—__ 
 
 >         Upon the termination of a lease entered into under this section, if the Secretary determines the continuation of commercial services at the resort to be appropriate, the services shall be provided in accordance with the National Park Service Concessions Management Improvement Act of 1998 ([16 U.S.C. 5951][/us/usc/t16/s5951] et seq.).
 
 >     “(c) __Retained Use Estate.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         As a condition of the lease, the owner of the retained use estate shall terminate, extinguish, and relinquish to the Secretary all rights under the retained use estate and shall transfer, without consideration, ownership of improvements on the retained use estate to the National Park Service.
 
 >         “(2) __Appraisal.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary shall require an appraisal by an independent, qualified appraiser who is agreed to by the Secretary and the owner of the retained use estate to determine the value, if any, of the relinquished term of the retained use estate.
 
->             “(B) __Requirements.—__ 
+>             “(B)  __Requirements__  __.—__ 
 
 >             An appraisal under paragraph (1) shall be conducted in accordance with—
 

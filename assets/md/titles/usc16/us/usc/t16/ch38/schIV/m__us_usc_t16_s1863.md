@@ -31,15 +31,15 @@
 
             (E) helping to restore overfished New England groundfish stocks through aquaculture or hatchery programs.
 
-        (2) __Consultation.—__ 
+        (2)  __Consultation__  __.—__ 
 
         In establishing and implementing the Northwest Fisheries Reinvestment Program, the Secretary shall consult with representatives of the commercial fishing industry, the seafood processing industry, and the academic community (including the National Sea Grant Program).
 
-        (3) __Activities Under Program.—__ 
+        (3)  __Activities Under Program__  __.—__ 
 
         Subject to the availability of appropriations, the Secretary shall award contracts, grants and other financial assistance to United States citizens to carry out the purposes of subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “paragraph”. </sup></sup>  (1), under the terms and conditions provided in [section 713c–3(c) of title 15][/us/usc/t15/s713c–3/c], except that, in making awards under this section for projects involving participation in fisheries for underutilized species, the Secretary shall give the highest priority to a person who owns or operates a fishing vessel permitted under this chapter to participate in the New England groundfish fishery who agrees to surrender that permit to the Secretary during the duration of the contract, grant or other assistance.
 
-        (4) __Authorization of Appropriations.—__ 
+        (4)  __Authorization of Appropriations__  __.—__ 
 
         There are authorized to be appropriated $5,000,000 for each of fiscal years 1993 through 1999 to carry out the purposes of this section. For fiscal year 1993 no more than $1,000,000, and for fiscal year 1994 no more than $2,000,000, of such funds may be provided from monies made available under [section 713c–3(b) of title 15][/us/usc/t15/s713c–3/b].
 

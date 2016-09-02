@@ -105,7 +105,7 @@
 
 [Pub. L. 95–617, title II, § 214][/us/pl/95/617/s214], Nov. 9, 1978, [92 Stat. 3149][/us/stat/92/3149], provided that:
 
->     “(a) __Prior Actions.—__ 
+>     “(a)  __Prior Actions__  __.—__ 
 
 >     No provision of this title \[enacting sections 823a, 824i to 824k, 824a–1 to 824a–3 and 825q–1 of this title, amending sections 796, 824, 824a, 824d, and 825d of this title and enacting provisions set out as notes under sections 824a, 824d, and 825d of this title\] or of any amendment made by this title shall apply to, or affect, any action taken by the Commission \[Federal Energy Regulatory Commission\] before the date of the enactment of this Act \[Nov. 9, 1978\].
 

@@ -119,11 +119,11 @@
 
 [Pub. L. 105–333, § 11][/us/pl/105/333/s11], Oct. 31, 1998, [112 Stat. 3135][/us/stat/112/3135], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 18 months after the date of enactment of this Act \[Oct. 31, 1998\], the Secretary of the Interior shall transmit to Congress a report.
 
->     “(b) __Local Hire.—__ 
+>     “(b)  __Local Hire__  __.—__ 
 
 >     The report required by subsection (a) shall—
 
@@ -133,7 +133,7 @@
 
 >         “(3) describe the actions of the Secretary of the Interior in contracting with Alaska Native Corporations to provide services with respect to public lands in Alaska.
 
->     “(c) __Cooperation.—__ 
+>     “(c)  __Cooperation__  __.—__ 
 
 >     The Secretary of Agriculture shall cooperate with the Secretary of the Interior in carrying out this section with respect to the Forest Service.”
 

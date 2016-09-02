@@ -29,7 +29,7 @@
 
 >  __“section 1. establishment of special resources management unit; definition of secretary__ 
 
->     “(a) __Definition of Secretary.—__ 
+>     “(a)  __Definition of Secretary__  __.—__ 
 
 >     In this Act, the term ‘Secretary’ means—
 
@@ -39,11 +39,11 @@
 
 >     “(b) __Establishment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There is established, subject to valid existing rights, a special resources management unit in the State of Oregon, comprising approximately 98,272 acres, as depicted on a map dated May 2000 and entitled ‘Bull Run Watershed Management Unit’.
 
->         “(2) __Map.—__ 
+>         “(2)  __Map__  __.—__ 
 
 >         The map described in paragraph (1) shall be on file and available for public inspection in the offices of—
 
@@ -51,7 +51,7 @@
 
 >             “(B) the Oregon State Director of the Bureau of Land Management.
 
->         “(3) __Boundary adjustments.—__ 
+>         “(3)  __Boundary adjustments__  __.—__ 
 
 >         The Secretary may periodically make such minor adjustments in the boundaries of the unit as are necessary, after consulting with the city and providing for appropriate public notice and hearings.
 
@@ -63,17 +63,17 @@
 
 >     “(b) __Timber Cutting.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), the Secretary shall prohibit the cutting of trees on Federal land in the unit, as designated in section 1 and depicted on the map referred to in that section.
 
 >         “(2) __Permitted cutting.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Subject to subparagraph (B), the Secretary shall prohibit the cutting of trees in the area described in paragraph (1).
 
->             “(B) __Permitted cutting.—__ 
+>             “(B)  __Permitted cutting__  __.—__ 
 
 >             Subject to subparagraph (C), the Secretary may only allow the cutting of trees in the area described in paragraph (1)—
 
@@ -85,7 +85,7 @@
 
 >                 “(iv) for the construction, expansion, protection or maintenance of facilities for the transmission of energy through and over the unit or previously authorized hydroelectric facilities or hydroelectric projects associated with municipal water supply facilities.
 
->             “(C) __Salvage sales.—__ 
+>             “(C)  __Salvage sales__  __.—__ 
 
 >             The Secretary may not authorize a salvage sale in the area described in paragraph (1).
 

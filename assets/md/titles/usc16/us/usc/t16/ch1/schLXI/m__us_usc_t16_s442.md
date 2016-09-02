@@ -27,15 +27,15 @@
 
 [Pub. L. 105–355, title V, § 509][/us/pl/105/355/s509], Nov. 6, 1998, [112 Stat. 3264][/us/stat/112/3264], provided that:
 
->     “(a) __Acquisition of Easement.—__ 
+>     “(a)  __Acquisition of Easement__  __.—__ 
 
 >     The Secretary of the Interior may acquire no more than a less than fee interest in the property generally known as George Washington’s Boyhood Home, Ferry Farm, located in Stafford County, Virginia, across the Rappahannock River from Fredericksburg, Virginia, comprising approximately 85 acres as generally depicted on the map entitled ‘George Washington Birthplace National Monument Boundary Map’, numbered 322/80,020, and dated April 1998, to ensure the preservation of the important cultural and natural resources associated with Ferry Farm. The Secretary of the Interior shall keep the map on file and available for public inspection in appropriate offices of the National Park Service.
 
->     “(b) __Management of Easement.—__ 
+>     “(b)  __Management of Easement__  __.—__ 
 
 >     The Secretary shall enter into a cooperative agreement with Kenmore Association, Inc., for the management of Ferry Farm pending completion of the study referred to in subsection (c).
 
->     “(c) __Resource Study.—__ 
+>     “(c)  __Resource Study__  __.—__ 
 
 >     Not later than 18 months after the date on which funds are made available to carry out this section, the Secretary of the Interior shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives a resource study of the property described in subsection (a). The study shall—
 
@@ -45,7 +45,7 @@
 
 >         “(3) include cost estimates for any necessary acquisition, development, interpretation, operation, and maintenance associated with the alternatives identified.
 
->     “(d) __Agreements.—__ 
+>     “(d)  __Agreements__  __.—__ 
 
 >     Upon completion of the resource study under subsection (c), the Secretary of the Interior may enter into an agreement with the owner of the property described in subsection (a) or other entities for the purpose of providing programs, services, facilities, or technical assistance that further the preservation and public use of the property.”
 

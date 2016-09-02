@@ -433,11 +433,11 @@
 
 > “SEC. 204. __EFFECTIVE DATE.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), section 202 shall apply with respect to fishing years beginning after April 30, 2010.
 
->     “(b) __Special Rule.—__ 
+>     “(b)  __Special Rule__  __.—__ 
 
 >     Section 202(3)(B) shall only apply with respect to fishing years beginning after April 30, 2012.”
 

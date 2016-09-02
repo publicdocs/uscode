@@ -421,7 +421,7 @@
 
 > “SEC. 302. __FINDINGS AND PURPOSES.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -447,7 +447,7 @@
 
 >         “(9) the occasion of the centennial of the System, in 2003, presents a historic opportunity to enhance natural resource stewardship and expand public enjoyment of the national wildlife refuges of the United States.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this title are—
 
@@ -467,13 +467,13 @@
 
 > “SEC. 303. __NATIONAL WILDLIFE REFUGE SYSTEM CENTENNIAL COMMISSION.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established the National Wildlife Refuge System Centennial Commission (referred to in this title as the ‘Commission’).
 
 >     “(b) __Members.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Commission shall be composed of—
 
@@ -487,13 +487,13 @@
 
 >         “(2) __Appointments.—__ 
 
->             “(A) __Deadline.—__ 
+>             “(A)  __Deadline__  __.—__ 
 
 >             The members of the Commission shall be appointed not later than 90 days after the effective date of this title.
 
 >             “(B) __Appointments by the secretary of the interior.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 The members of the Commission appointed by the Secretary of the Interior under paragraph (1)(B)—
 
@@ -507,11 +507,11 @@
 
 >                         “(bb) have outstanding knowledge or appreciation of wildlife, natural resource management, or wildlife-dependent recreation.
 
->                 “(ii) __Representation of views.—__ 
+>                 “(ii)  __Representation of views__  __.—__ 
 
 >                 In making appointments under paragraph (1)(B), the Secretary of the Interior shall make every effort to ensure that the views of the hunting, fishing, and wildlife observation communities are represented on the Commission.
 
->         “(3) __Vacancies.—__ 
+>         “(3)  __Vacancies__  __.—__ 
 
 >         Any vacancy in the Commission—
 
@@ -519,29 +519,29 @@
 
 >             “(B) shall be expeditiously filled in the same manner as the original appointment was made.
 
->     “(c) __Chairperson.—__ 
+>     “(c)  __Chairperson__  __.—__ 
 
 >     The Secretary of the Interior shall appoint one of the members as the Chairperson of the Commission.
 
->     “(d) __Compensation.—__ 
+>     “(d)  __Compensation__  __.—__ 
 
 >     The members of the Commission shall receive no compensation for their service on the Commission.
 
 >     “(e) __Travel Expenses.—__ 
 
->         “(1) __Legislative branch members.—__ 
+>         “(1)  __Legislative branch members__  __.—__ 
 
 >         The members of the Commission from the legislative branch of the Federal Government shall be allowed necessary travel expenses, as authorized by other law for official travel, while away from their homes or regular places of business in the performance of services for the Commission.
 
->         “(2) __Executive branch members.—__ 
+>         “(2)  __Executive branch members__  __.—__ 
 
 >         The members of the Commission from the executive branch of the Federal Government shall be allowed necessary travel expenses in accordance with [section 5702 of title 5][/us/usc/t5/s5702], United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
 
->         “(3) __Other members and staff.—__ 
+>         “(3)  __Other members and staff__  __.—__ 
 
 >         The members of the Commission appointed by the Secretary of the Interior and staff of the Commission may be allowed necessary travel expenses as authorized by [section 5702 of title 5][/us/usc/t5/s5702], United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
 
->     “(f) __Duties.—__ 
+>     “(f)  __Duties__  __.—__ 
 
 >     The Commission shall—
 
@@ -551,17 +551,17 @@
 
 >         “(3) plan and host, in cooperation with the partners, a conference on the National Wildlife Refuge System, and assist in the activities of the conference.
 
->     “(g) __Staff.—__ 
+>     “(g)  __Staff__  __.—__ 
 
 >     Subject to the availability of appropriations, the Commission may employ such staff as are necessary to carry out the duties of the Commission.
 
 >     “(h) __Donations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Commission may, in accordance with criteria established under paragraph (2), accept and use donations of money, personal property, or personal services.
 
->         “(2) __Criteria.—__ 
+>         “(2)  __Criteria__  __.—__ 
 
 >         The Commission shall establish written criteria to be used in determining whether the acceptance of gifts or donations under paragraph (1) would—
 
@@ -569,7 +569,7 @@
 
 >             “(B) compromise the integrity or the appearance of the integrity of any person involved in the activities of the Commission.
 
->     “(i) __Administrative Support.—__ 
+>     “(i)  __Administrative Support__  __.—__ 
 
 >     Upon the request of the Commission—
 
@@ -579,21 +579,21 @@
 
 >     “(j) __Reports.—__ 
 
->         “(1) __Annual reports.—__ 
+>         “(1)  __Annual reports__  __.—__ 
 
 >         Not later than 1 year after the effective date of this title, and annually thereafter, the Commission shall submit to Congress a report on the activities and plans of the Commission.
 
->         “(2) __Final report.—__ 
+>         “(2)  __Final report__  __.—__ 
 
 >         Not later than September 30, 2004, the Commission shall submit to the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and the Committee on Environment and Public Works of the Senate a final report on the activities of the Commission, including an accounting of all funds received and expended by the Commission.
 
 >     “(k) __Termination.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Commission shall terminate 90 days after the date on which the Commission submits the final report under subsection (j).
 
->         “(2) __Disposition of materials.—__ 
+>         “(2)  __Disposition of materials__  __.—__ 
 
 >         Upon termination of the Commission and after consultation with the Archivist of the United States and the Secretary of the Smithsonian Institution, the Secretary of the Interior may—
 
@@ -611,7 +611,7 @@
 
 > “SEC. 304. __LONG-TERM PLANNING AND ANNUAL REPORTING REQUIREMENTS REGARDING THE OPERATION AND MAINTENANCE BACKLOG.__ 
 
->     “(a) __Unified Long-Term Plan.—__ 
+>     “(a)  __Unified Long-Term Plan__  __.—__ 
 
 >     Not later than March 1, 2002, the Secretary of the Interior shall prepare and submit to Congress and the President a unified long-term plan to address priority operation, maintenance, and construction needs of the National Wildlife Refuge System, including—
 
@@ -633,7 +633,7 @@
 
 >             “(F) individual refuge comprehensive conservation plans.
 
->     “(b) __Annual Submission.—__ 
+>     “(b)  __Annual Submission__  __.—__ 
 
 >     Beginning with the submission to Congress of the budget for fiscal year 2003, the Secretary of the Interior shall prepare and submit to Congress, in the context of each annual budget submission, a report that contains—
 
@@ -643,11 +643,11 @@
 
 > “SEC. 305. __YEAR OF THE NATIONAL WILDLIFE REFUGE.__ 
 
->     “(a) __Finding.—__ 
+>     “(a)  __Finding__  __.—__ 
 
 >     Congress finds that designation of the year 2003 as the ‘Year of the National Wildlife Refuge’ would promote the goal of increasing public appreciation of the importance of the National Wildlife Refuge System.
 
->     “(b) __Proclamation.—__ 
+>     “(b)  __Proclamation__  __.—__ 
 
 >     The President is requested to issue a proclamation calling on the people of the United States to conduct appropriate programs, ceremonies, and activities to accomplish the goal of such a year.
 
@@ -689,7 +689,7 @@
 
 [Pub. L. 105–57, § 9][/us/pl/105/57/s9], Oct. 9, 1997, [111 Stat. 1260][/us/stat/111/1260], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Nothing in this Act \[see Short Title of 1997 Amendment note above\] is intended to affect—
 
@@ -699,7 +699,7 @@
 
 >         “(3) the manner in which section 810 of the Alaska National Interest Lands Conservation Act \[[16 U.S.C. 3120][/us/usc/t16/s3120]\] is implemented in national wildlife refuges in Alaska.
 
->     “(b) __Conflicts of Laws.—__ 
+>     “(b)  __Conflicts of Laws__  __.—__ 
 
 >     If any conflict arises between any provision of this Act and any provision of the Alaska National Interest Lands Conservation Act, then the provision in the Alaska National Interest Lands Conservation Act shall prevail.”
 
@@ -707,33 +707,33 @@
 
 [Pub. L. 102–154, title III, § 319][/us/pl/102/154/s319], Nov. 13, 1991, [105 Stat. 1036][/us/stat/105/1036], provided that:
 
->     “(a) __Transfer by the Air Force.—__ 
+>     “(a)  __Transfer by the Air Force__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Secretary of the Air Force shall transfer to the Department of the Interior a parcel of real property located west of McIntyre Road at the site of former Pease Air Force Base, New Hampshire: Provided, That the Secretary of the Air Force shall retain responsibility for any hazardous substances which may be found on the property so transferred.
 
->     “(b) __Establishment of National Wildlife Refuge.—__ 
+>     “(b)  __Establishment of National Wildlife Refuge__  __.—__ 
 
 >     Except as provided in subsection (c), the Secretary of the Interior shall designate the parcel of land transferred under subsection (a) as an area in the National Wildlife Refuge System under the authority of [section 4 of the Act of October 15, 1966][/us/act/1966-10-15/s4] ([16 U.S.C. 688dd][/us/usc/t16/s688dd]).
 
 >     “(c) __Conveyance to State of New Hampshire.—__ 
 
->         “(1) __Conveyance.—__ 
+>         “(1)  __Conveyance__  __.—__ 
 
 >         Subject to paragraphs (2) through (5), the Secretary of the Interior shall convey to the State of New Hampshire, without consideration, all right, title, and interest of the United States in and to a parcel of real property consisting of not more than 100 acres that is a part of the real property transferred to the Secretary under subsection (a) and that the Secretary determines to be suitable for use as a cemetery.
 
->         “(2) __Condition of conveyance.—__ 
+>         “(2)  __Condition of conveyance__  __.—__ 
 
 >         The conveyance under paragraph (1) shall be subject to the condition that the State of New Hampshire use the property conveyed under that paragraph only for the purpose of establishing and operating a State cemetery for veterans.
 
->         “(3) __Reversion.—__ 
+>         “(3)  __Reversion__  __.—__ 
 
 >         If the Secretary determines at any time that the State of New Hampshire is not complying with the condition specified in paragraph (2), all right, title, and interest in and to the property conveyed pursuant to paragraph (1), including any improvements thereon, shall revert to the United States and the United States shall have the right of immediate entry thereon.
 
->         “(4) __Description of property.—__ 
+>         “(4)  __Description of property__  __.—__ 
 
 >         The exact acreage and legal description of the parcel of real property to be conveyed under paragraph (1) shall be determined by a survey that is satisfactory to the Secretary.
 
->         “(5) __Additional terms and conditions.—__ 
+>         “(5)  __Additional terms and conditions__  __.—__ 
 
 >         The Secretary may require any additional terms or conditions in connection with the conveyance under this subsection that the Secretary determines appropriate to protect the interests of the United States.
 

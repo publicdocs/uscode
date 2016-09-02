@@ -63,43 +63,43 @@
 
 > “SEC. 3. __ESTABLISHMENT OF THE INSTITUTE.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of the Interior (referred to in this Act as the ‘Secretary’), acting through the Director of the National Park Service, shall establish the National Cave and Karst Research Institute (referred to in this Act as the ‘Institute’).
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The Institute shall, to the extent practicable, further the purposes of this Act.
 
->     “(c) __Location.—__ 
+>     “(c)  __Location__  __.—__ 
 
 >     The Institute shall be located in the vicinity of Carlsbad Caverns National Park, in the State of New Mexico. The Institute shall not be located inside the boundaries of Carlsbad Caverns National Park.
 
 > “SEC. 4. __ADMINISTRATION OF THE INSTITUTE.__ 
 
->     “(a) __Management.—__ 
+>     “(a)  __Management__  __.—__ 
 
 >     The Institute shall be jointly administered by the National Park Service and a public or private agency, organization, or institution, as determined by the Secretary.
 
->     “(b) __Guidelines.—__ 
+>     “(b)  __Guidelines__  __.—__ 
 
 >     The Institute shall be operated and managed in accordance with the study prepared by the National Park Service pursuant to section 203 of the Act entitled ‘An Act to conduct certain studies in the State of New Mexico’, approved November 15, 1990 ([Public Law 101–578][/us/pl/101/578]; [16 U.S.C. 4310][/us/usc/t16/s4310] note).
 
->     “(c) __Contracts and Cooperative Agreements.—__ 
+>     “(c)  __Contracts and Cooperative Agreements__  __.—__ 
 
 >     The Secretary may enter into a contract or cooperative agreement with a public or private agency, organization, or institution to carry out this Act.
 
 >     “(d) __Facility.—__ 
 
->         “(1) __Leasing or acquiring a facility.—__ 
+>         “(1)  __Leasing or acquiring a facility__  __.—__ 
 
 >         The Secretary may lease or acquire a facility for the Institute.
 
->         “(2) __Construction of a facility.—__ 
+>         “(2)  __Construction of a facility__  __.—__ 
 
 >         If the Secretary determines that a suitable facility is not available for a lease or acquisition under paragraph (1), the Secretary may construct a facility for the Institute.
 
->     “(e) __Acceptance of Grants and Transfers.—__ 
+>     “(e)  __Acceptance of Grants and Transfers__  __.—__ 
 
 >     To carry out this Act, the Secretary may accept—
 

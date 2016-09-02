@@ -261,13 +261,13 @@
 
 [Pub. L. 105–85, div. B, title XXIX, § 2905][/us/pl/105/85/s2905], Nov. 18, 1997, [111 Stat. 2019][/us/stat/111/2019], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section, the terms ‘military installation’ and ‘United States’ have the meanings provided in section 100 of the Sikes Act \[[16 U.S.C. 670][/us/usc/t16/s670]\] (as added by section 2911).
 
 >     “(b) __Review of Military Installations.—__ 
 
->         “(1) __Review.—__ 
+>         “(1)  __Review__  __.—__ 
 
 >         Not later than 270 days after the date of enactment of this Act \[Nov. 18, 1997\], the Secretary of each military department shall—
 
@@ -275,7 +275,7 @@
 
 >             “(B) submit to the Secretary of Defense a report on the determinations.
 
->         “(2) __Report to congress.—__ 
+>         “(2)  __Report to congress__  __.—__ 
 
 >         Not later than one year after the date of enactment of this Act, the Secretary of Defense shall submit to Congress a report on the reviews conducted under paragraph (1). The report shall include—
 
@@ -283,7 +283,7 @@
 
 >             “(B) for each of the military installations listed under subparagraph (A), an explanation of each reason such a plan is not appropriate.
 
->     “(c) __Deadline for Integrated Natural Resources Management Plans.—__ 
+>     “(c)  __Deadline for Integrated Natural Resources Management Plans__  __.—__ 
 
 >     Not later than three years after the date of the submission of the report required under subsection (b)(2), the Secretary of each military department shall, for each military installation with respect to which the Secretary has not determined under subsection (b)(2)(A) that preparation of an integrated natural resources management plan is not appropriate—
 
@@ -291,7 +291,7 @@
 
 >         “(2) in the case of a military installation for which there is in effect a cooperative plan under section 101(a) of the Sikes Act on the day before the date of enactment of this Act \[Nov. 18, 1997\], complete negotiations with the Secretary of the Interior and the heads of the appropriate State agencies regarding changes to the plan that are necessary for the plan to constitute an integrated natural resources management plan that complies with that section, as amended by this title.
 
->     “(d) __Public Comment.—__ 
+>     “(d)  __Public Comment__  __.—__ 
 
 >     The Secretary of each military department shall provide an opportunity for the submission of public comments on—
 

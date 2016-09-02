@@ -79,11 +79,11 @@
 
 [Pub. L. 102–574, § 4][/us/pl/102/574/s4], Oct. 29, 1992, [106 Stat. 4597][/us/stat/106/4597], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established the Hawaii Tropical Forest Recovery Task Force (hereafter in this section referred to as the ‘Task Force’) to advise the Secretary of Agriculture with respect to tropical forests and related ecosystems in the State of Hawaii.
 
->     “(b) __Action Plan.—__ 
+>     “(b)  __Action Plan__  __.—__ 
 
 >     Not later than 1 year after the date of the first meeting of the Task Force, the Task Force shall submit to the Committees, Secretaries, and Governor referred to in subsection (k) an action plan that contains findings and recommendations for rejuvenating Hawaii’s tropical forests, including findings and recommendations on—
 
@@ -115,7 +115,7 @@
 
 >         “(9) such other issues relating to tropical forests in Hawaii as the Task Force considers appropriate.
 
->     “(c) __Composition.—__ 
+>     “(c)  __Composition__  __.—__ 
 
 >     The Task Force shall be composed of 12 members, of whom—
 
@@ -135,41 +135,41 @@
 
 >         “(4) one member shall be the Administrator of the Department of Land and Natural Resources, State of Hawaii, or the designated representative of the Administrator.
 
->     “(d) __Initial Appointments.—__ 
+>     “(d)  __Initial Appointments__  __.—__ 
 
 >     Appointments under this section to the Task Force shall be made not later than 90 days after the date of enactment of this Act \[Oct. 29, 1992\].
 
->     “(e) __Chairperson.—__ 
+>     “(e)  __Chairperson__  __.—__ 
 
 >     The Task Force shall select a Chairperson from among its members.
 
->     “(f) __Vacancies.—__ 
+>     “(f)  __Vacancies__  __.—__ 
 
 >     A vacancy on the Task Force shall not affect its powers and shall be filled in the same manner as the original appointment.
 
 >     “(g) __Compensation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A member of the Task Force shall not receive compensation as a result of the performance of services for the Task Force.
 
->         “(2) __Travel expenses.—__ 
+>         “(2)  __Travel expenses__  __.—__ 
 
 >         The members of the Task Force shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Task Force.
 
->     “(h) __Meetings.—__ 
+>     “(h)  __Meetings__  __.—__ 
 
 >     The Task Force shall meet not later than 180 days after the date of enactment of this Act \[Oct. 29, 1992\] and shall meet at the call of the Chairperson.
 
->     “(i) __Voting.—__ 
+>     “(i)  __Voting__  __.—__ 
 
 >     The Task Force shall act and advise by majority vote.
 
->     “(j) __Assistance.—__ 
+>     “(j)  __Assistance__  __.—__ 
 
 >     The Secretary of Agriculture and the Secretary of the Interior shall provide such assistance and support as are necessary to meet the objectives of the Task Force. The assistance shall include making Federal facilities, equipment, tools, and technical assistance available on such terms and conditions as the appropriate Secretary considers necessary.
 
->     “(k) __Report.—__ 
+>     “(k)  __Report__  __.—__ 
 
 >     The action plan required under subsection (b) shall be submitted to—
 
@@ -183,11 +183,11 @@
 
 >         “(5) the Governor of Hawaii.
 
->     “(l) __Nonapplicability of Certain Provisions of Law.—__ 
+>     “(l)  __Nonapplicability of Certain Provisions of Law__  __.—__ 
 
 >     Sections 7(d), 10(f), and 14 of the Federal Advisory Committee Act (5 U.S.C. App. 2 \[sic\]) \[5 U.S.C. App.\] shall not apply to the Task Force.
 
->     “(m) __Termination.—__ 
+>     “(m)  __Termination__  __.—__ 
 
 >     The Task Force and authority to carry out this section shall terminate 180 days after submitting the report required by subsection (b).”
 

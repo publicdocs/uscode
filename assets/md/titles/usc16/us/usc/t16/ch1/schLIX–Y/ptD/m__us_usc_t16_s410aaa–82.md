@@ -39,11 +39,11 @@
 
 [Pub. L. 103–433, title VIII, § 801][/us/pl/103/433/s801], Oct. 31, 1994, [108 Stat. 4501][/us/stat/108/4501], provided that:
 
->     “(a) __Short Title.—__ 
+>     “(a)  __Short Title__  __.—__ 
 
 >     This title \[enacting this section\] may be cited as the ‘California Military Lands Withdrawal and Overflights Act of 1994’.
 
->     “(b) __Findings.—__ 
+>     “(b)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 

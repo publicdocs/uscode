@@ -227,11 +227,11 @@
 
 [Pub. L. 101–624, title XII, § 1242][/us/pl/101/624/s1242], Nov. 28, 1990, [104 Stat. 3545][/us/stat/104/3545], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary of Agriculture shall make a grant to a State for the establishment, within such State, of a center, to be known as the ‘Southern Forest Regeneration Center’ (hereafter referred to in this section as the ‘Center’), to study forest regeneration problems and forest productivity in the southern region of the United States.
 
->     “(b) __Duties of Center.—__ 
+>     “(b)  __Duties of Center__  __.—__ 
 
 >     The Center shall study forest regeneration problems and forest productivity in the southern region of the United States, including—
 
@@ -241,11 +241,11 @@
 
 >         “(3) the development of low-cost forest regeneration methods that provide options for wood products, species diversity, wildlife habitat, and production of clean air and water.
 
->     “(c) __Establishment of Other Programs.—__ 
+>     “(c)  __Establishment of Other Programs__  __.—__ 
 
 >     The Secretary of Agriculture may establish other programs in other regions of the United States, or a comprehensive National program, to carry out the purposes of this section as the Secretary determines appropriate.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated such sums as may be necessary to carry out this section.”
 
@@ -253,11 +253,11 @@
 
 [Pub. L. 101–624, title XII, § 1243][/us/pl/101/624/s1243], Nov. 28, 1990, [104 Stat. 3546][/us/stat/104/3546], provided that:
 
->     “(a) __Semiarid Agroforestry Research, Development, and Demonstration Center.—__ 
+>     “(a)  __Semiarid Agroforestry Research, Development, and Demonstration Center__  __.—__ 
 
 >     The Secretary of Agriculture shall establish at the Forestry Sciences Laboratory of the United States Forest Service, in Lincoln, Nebraska, a Semiarid Agroforestry Research, Development, and Demonstration Center (hereafter referred to in this section as the ‘Center’) and appoint a Director to manage and coordinate the program established at the Center under subsection (b).
 
->     “(b) __Program.—__ 
+>     “(b)  __Program__  __.—__ 
 
 >     The Secretary shall establish a program at the Center and seek the participation of Federal or State governmental entities, land-grant colleges or universities, State agricultural experiment stations, State and private foresters, the National Arbor Day Foundation, and other nonprofit foundations in such program to conduct or assist research, investigations, studies, and surveys to—
 
@@ -283,7 +283,7 @@
 
 >         “(11) conduct sociological, demographic, and economic studies as needed to develop strategies for increasing the use of forestry conservation and agroforestry practices.
 
->     “(c) __Information Collection and Dissemination.—__ 
+>     “(c)  __Information Collection and Dissemination__  __.—__ 
 
 >     The Secretary shall establish at the Center a program, to be known as the National Clearinghouse on Agroforestry Conservation and Promotion to—
 
@@ -291,7 +291,7 @@
 
 >         “(2) promote the use of such information by landowners and those organizations associated with forestry and tree promotion.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated $5,000,000 annually to carry out this section.”
 

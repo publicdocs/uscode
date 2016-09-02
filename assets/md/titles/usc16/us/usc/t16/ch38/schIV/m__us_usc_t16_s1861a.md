@@ -63,13 +63,13 @@
 
         (4) The harvester proponents of each program and the Secretary shall consult, as appropriate and practicable, with Councils, Federal agencies, State and regional authorities, affected fishing communities, participants in the fishery, conservation organizations, and other interested parties throughout the development and implementation of any program under this section.
 
-        (5) __Payment condition.—__ 
+        (5)  __Payment condition__  __.—__ 
 
         The Secretary may not make a payment under paragraph (2) with respect to a vessel that will not be scrapped unless the Secretary certifies that the vessel will not be used for fishing in the waters of a foreign nation or fishing on the high seas.
 
         (6) __Report.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to the availability of funds, the Secretary shall, within 12 months after January 12, 2007, submit to the Congress a report—
 
@@ -79,7 +79,7 @@
 
                 (iii) potential sources of funding for such measures.
 
-            (B) __Basis for recommendations.—__ 
+            (B)  __Basis for recommendations__  __.—__ 
 
             The Secretary shall base the recommendations made with respect to a fishery on—
 

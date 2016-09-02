@@ -375,11 +375,11 @@
 
 [Pub. L. 108–219, title IV, § 401][/us/pl/108/219/s401], Apr. 13, 2004, [118 Stat. 616][/us/stat/118/616], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding anything to the contrary in section 201, 204, or 307(2) of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1821][/us/usc/t16/s1821], 1824, and 1857(2)), foreign fishing may be conducted pursuant to the Treaty between the Government of the United States of America and the Government of Canada on Pacific Coast Albacore Tuna Vessels and Port Privileges, signed at Washington May 26, 1981, including its Annexes and any amendments thereto.
 
->     “(b) __Regulations.—__ 
+>     “(b)  __Regulations__  __.—__ 
 
 >     The Secretary of Commerce, with the concurrence of the Secretary of State, may—
 
@@ -389,11 +389,11 @@
 
 >     “(c) __Enforcement.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801][/us/usc/t16/s1801] et seq.) shall be enforced as if subsection (a) were a provision of that Act. Any reference in the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801][/us/usc/t16/s1801] et seq.) to ‘this Act’ or to any provision of that Act, shall be considered to be a reference to that Act as it would be in effect if subsection (a) were a provision of that Act.
 
->         “(2) __Regulations.—__ 
+>         “(2)  __Regulations__  __.—__ 
 
 >         The regulations promulgated under subsection (b), shall be enforced as if—
 

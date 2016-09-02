@@ -47,15 +47,15 @@
 
 > “SECTION 1. __EXPANSION OF SLEEPING BEAR DUNES NATIONAL LAKESHORE.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     When title to the land described in subsection (b) has vested in the United States in fee simple, the boundary of Sleeping Bear Dunes National Lakeshore is revised to include such land in that park.
 
->     “(b) __Land Described.—__ 
+>     “(b)  __Land Described__  __.—__ 
 
 >     The land referred to in subsection (a) consists of approximately 104.45 acres of unimproved lands generally depicted on National Park Service map number 634/80078, entitled ‘Bayberry Mills, Inc. Crystal River, MI Proposed Expansion Unit to Sleeping Bear Dunes National Lakeshore’. The Secretary of the Interior shall keep such map on file and available for public inspection in the appropriate offices of the National Park Service.
 
->     “(c) __Purchase of Lands Authorized.—__ 
+>     “(c)  __Purchase of Lands Authorized__  __.—__ 
 
 >     The Secretary of the Interior may acquire the land described in subsection (b), only by purchase from a willing seller.
 

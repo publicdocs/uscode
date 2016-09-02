@@ -41,11 +41,11 @@
 
 [Pub. L. 111–11, title VII, § 7113(a)(1)][/us/pl/111/11/s7113/a/1], (2), Mar. 30, 2009, [123 Stat. 1201][/us/stat/123/1201], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Palo Alto Battlefield National Historic Site shall be known and designated as the ‘Palo Alto Battlefield National Historical Park’.
 
->     “(2) __References.—__ 
+>     “(2)  __References__  __.—__ 
 
 >     Any reference in a law, map, regulation, document, paper, or other record of the United States to the historic site referred to in subsection (a) shall be deemed to be a reference to the Palo Alto Battlefield National Historical Park.”
 

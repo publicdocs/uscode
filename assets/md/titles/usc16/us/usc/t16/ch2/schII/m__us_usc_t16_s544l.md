@@ -45,11 +45,11 @@
 
         (3) __Limitation.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided in subparagraph (B), no payment shall be made under this subsection with respect to any land or interest therein after the eighth full fiscal year beginning after the first fiscal year in which such a payment was made with respect to such land or interest therein.
 
-            (B) __Continuation of certain payments.—__ 
+            (B)  __Continuation of certain payments__  __.—__ 
 
             For any land or interest in land for which the Secretary is making a payment in fiscal year 2000, such payment shall be continued for a total of eight fiscal years.
 

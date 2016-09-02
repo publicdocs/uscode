@@ -43,11 +43,11 @@
 
 [Pub. L. 107–356, § 2(b)][/us/pl/107/356/s2/b], Dec. 17, 2002, [116 Stat. 3013][/us/stat/116/3013], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of the Interior shall complete a fee simple land exchange in the vicinity of Beauty Mountain, Fayette County, West Virginia, to acquire a tract of land identified as NERI Tract Number 150–07 that lies adjacent to the boundary of the New River Gorge National River in exchange for a tract of land identified as NERI Tract Number 150–08 located within such boundary.
 
->     “(2) __Treatment of exchanged lands.—__ 
+>     “(2)  __Treatment of exchanged lands__  __.—__ 
 
 >     Upon the completion of such land exchange—
 
@@ -59,7 +59,7 @@
 
 [Pub. L. 100–534, § 2][/us/pl/100/534/s2], Oct. 26, 1988, [102 Stat. 2699][/us/stat/102/2699], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -75,7 +75,7 @@
 
 >         “(6) It is in the national interest to preserve the natural condition of certain segments of the New, Gauley, Meadow, and Bluestone Rivers in West Virginia and to enhance recreational opportunities available on the free-flowing segments.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of this Act \[see Short Title of 1988 Amendment note above\] is to provide for the protection and enhancement of the natural, scenic, cultural, and recreational values on certain free-flowing segments of the New, Gauley, Meadow, and Bluestone Rivers in the State of West Virginia for the benefit and enjoyment of present and future generations.”
 

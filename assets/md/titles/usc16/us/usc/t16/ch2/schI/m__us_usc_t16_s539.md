@@ -35,21 +35,21 @@
 
 [Pub. L. 102–415, § 6][/us/pl/102/415/s6], Oct. 14, 1992, [106 Stat. 2113][/us/stat/106/2113], provided that:
 
->     “(a) __Boundary Adjustment.—__ 
+>     “(a)  __Boundary Adjustment__  __.—__ 
 
 >     The boundary of the Chugach National Forest, Alaska, is modified to include the approximately 9,300 acres as generally depicted on the map entitled ‘Official Map, Boundary Modification, Chugach National Forest’ and dated September 1988. The map shall be on file and available for public inspection in the Office of the Chief of the Forest Service, Department of Agriculture.
 
->     “(b) __Administration.—__ 
+>     “(b)  __Administration__  __.—__ 
 
 >     Subject to valid existing rights, all Federal lands brought within the boundary of the Chugach National Forest by subsection (a) are added to and shall be administered as part of the Chugach National Forest.
 
->     “(c) __Terms and Conditions.—__ 
+>     “(c)  __Terms and Conditions__  __.—__ 
 
 >         (1) Nothing in this Act \[see Short Title of 1992 Amendment note set out under [section 1601 of Title 43][/us/usc/t43/s1601], Public Lands\] shall be construed to affect the validity of, or the terms and conditions of, any right-of-way, easement, lease, license, or permit on lands transferred by this section that is in existence on the date of enactment of this Act \[Oct. 14, 1992\].
 
 >         “(2) Notwithstanding any other provision of law, the Secretary of the Interior shall delegate, as necessary, to the Secretary of Agriculture the authority to renew or reissue the authorizations described in paragraph (1). The change of administrative jurisdiction over these lands resulting from subsection (a) shall not constitute a ground for the denial of renewal or re­issuance of the authorizations described in paragraph (1).
 
->     “(d) __Land and Water Conservation Fund Act.—__ 
+>     “(d)  __Land and Water Conservation Fund Act__  __.—__ 
 
 >     For purposes of section 7 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–9), the boundary of the Chugach National Forest, as modified by this section, shall be treated as if it were the boundary of the Chugach National Forest as of January 1, 1965.”
 

@@ -37,19 +37,19 @@
 
 > “In this Act:
 
->     “(1) __Map.—__ 
+>     “(1)  __Map__  __.—__ 
 
 >     The term ‘map’ means the map entitled ‘Wind Cave National Park Boundary Revision’, numbered 108/80,030, and dated June 2002.
 
->     “(2) __Park.—__ 
+>     “(2)  __Park__  __.—__ 
 
 >     The term ‘Park’ means the Wind Cave National Park in the State.
 
->     “(3) __Secretary.—__ 
+>     “(3)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of the Interior.
 
->     “(4) __State.—__ 
+>     “(4)  __State__  __.—__ 
 
 >     The term ‘State’ means the State of South Dakota.
 
@@ -57,59 +57,59 @@
 
 >     “(a) __Authority.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary may acquire the land or interest in land described in subsection (b)(1) for addition to the Park.
 
->         “(2) __Means.—__ 
+>         “(2)  __Means__  __.—__ 
 
 >         An acquisition of land under paragraph (1) may be made by donation, purchase from a willing seller with donated or appropriated funds, or exchange.
 
 >     “(b) __Boundary.—__ 
 
->         “(1) __Map and acreage.—__ 
+>         “(1)  __Map and acreage__  __.—__ 
 
 >         The land referred to in subsection (a)(1) shall consist of approximately 5,675 acres, as generally depicted on the map.
 
->         “(2) __Availability of map.—__ 
+>         “(2)  __Availability of map__  __.—__ 
 
 >         The map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 
->         “(3) __Revision.—__ 
+>         “(3)  __Revision__  __.—__ 
 
 >         The boundary of the Park shall be adjusted to reflect the acquisition of land under subsection (a)(1).
 
 > “SEC. 4. __ADMINISTRATION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary shall administer any land acquired under section 3(a)(1) as part of the Park in accordance with laws (including regulations) applicable to the Park.
 
 >     “(b) __Transfer of Administrative Jurisdiction.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall transfer from the Director of the Bureau of Land Management to the Director of the National Park Service administrative jurisdiction over the land described in paragraph (2).
 
->         “(2) __Map and acreage.—__ 
+>         “(2)  __Map and acreage__  __.—__ 
 
 >         The land referred to in paragraph (1) consists of the approximately 80 acres of land identified on the map as ‘Bureau of Land Management land’.
 
 > “SEC. 5. __GRAZING.__ 
 
->     “(a) __Grazing Permitted.—__ 
+>     “(a)  __Grazing Permitted__  __.—__ 
 
 >     Subject to any permits or leases in existence as of the date of acquisition, the Secretary may permit the continuation of livestock grazing on land acquired under section 3(a)(1).
 
->     “(b) __Limitation.—__ 
+>     “(b)  __Limitation__  __.—__ 
 
 >     Grazing under subsection (a) shall be at not more than the level existing on the date on which the land is acquired under section 3(a)(1).
 
->     “(c) __Purchase of Permit or Lease.—__ 
+>     “(c)  __Purchase of Permit or Lease__  __.—__ 
 
 >     The Secretary may purchase the outstanding portion of a grazing permit or lease on any land acquired under section 3(a)(1).
 
->     “(d) __Termination of Leases or Permits.—__ 
+>     “(d)  __Termination of Leases or Permits__  __.—__ 
 
 >     The Secretary may accept the voluntary termination of a permit or lease for grazing on any acquired land.”
 

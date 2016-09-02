@@ -55,15 +55,15 @@
 
 [Pub. L. 103–450, § 3][/us/pl/103/450/s3], Nov. 2, 1994, [108 Stat. 4767][/us/stat/108/4767], as amended by [Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title I, § 144(a)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–171, provided that:
 
->     “(a) __Withdrawal.—__ 
+>     “(a)  __Withdrawal__  __.—__ 
 
 >     Subject to valid existing rights, the lands identified in subsection (b) are hereby withdrawn from all forms of entry under the public land laws, including the mining laws, and from operation of the mineral \[see [30 U.S.C. 181][/us/usc/t30/s181] et seq., 271 et seq., and 281 et seq.\] and geothermal leasing laws: Provided, That nothing in this subsection shall limit the issuance of any necessary licenses or public land rights-of-way for any hydroelectric project involving such lands.
 
->     “(b) __Lands.—__ 
+>     “(b)  __Lands__  __.—__ 
 
 >     The lands referred to in subsection (a) are the approximately 1,280 acres of public lands as generally depicted on the map entitled ‘Potential Conservation Lands: Possible Hydroelectric Project’ dated July, 1994.
 
->     “(c) __Future Status.—__ 
+>     “(c)  __Future Status__  __.—__ 
 
 >         (1) Effective on May 2, 2000, the lands described in subsection (b) shall be added to the Red Rock Canyon National Conservation Area unless before such effective date all necessary licenses and public land rights-of-way have been issued for a hydroelectric project involving some or all of such lands.
 

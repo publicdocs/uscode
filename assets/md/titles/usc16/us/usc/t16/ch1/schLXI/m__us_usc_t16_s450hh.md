@@ -35,7 +35,7 @@
 
 > “SEC. 2. __FINDINGS AND PURPOSES.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -57,7 +57,7 @@
 
 >         “(9) only 4 years remain before the 400th anniversary of the settlement at Saint Croix Island, an occasion that should be appropriately commemorated.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of this Act is to direct the Secretary of the Interior to take all necessary and appropriate steps to work with Federal, State, and local agencies, historical societies, and nonprofit organizations to facilitate the development of a regional heritage center in downtown Calais, Maine\[,\] before the 400th anniversary of the settlement of Saint Croix Island.
 
@@ -65,21 +65,21 @@
 
 > “In this Act:
 
->     “(1) __Island.—__ 
+>     “(1)  __Island__  __.—__ 
 
 >     The term ‘Island’ means Saint Croix Island, located in the Saint Croix River, between Canada and the State of Maine.
 
->     “(2) __Secretary.—__ 
+>     “(2)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of the Interior, acting through the Director of the National Park Service.
 
 > “SEC. 4. __SAINT CROIX ISLAND REGIONAL HERITAGE CENTER.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary shall provide assistance in planning, constructing, and operating a regional heritage center in downtown Calais, Maine, to facilitate the management and interpretation of the Saint Croix Island International Historic Site.
 
->     “(b) __Cooperative Agreements.—__ 
+>     “(b)  __Cooperative Agreements__  __.—__ 
 
 >     To carry out subsection (a), in administering the Saint Croix Island International Historic Site, the Secretary may enter into cooperative agreements under appropriate terms and conditions with other Federal agencies, State and local agencies and nonprofit organizations—
 
@@ -95,15 +95,15 @@
 
 >     “(a) __Design and Construction.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There is authorized to be appropriated to carry out this Act (including the design and construction of the regional heritage center) $2,000,000.
 
->         “(2) __Expenditure.—__ 
+>         “(2)  __Expenditure__  __.—__ 
 
 >         Paragraph (1) authorizes funds to be appropriated on the condition that any expenditure of those funds shall be matched on a dollar-for-dollar basis by funds from non-Federal sources.
 
->     “(b) __Operation and Maintenance.—__ 
+>     “(b)  __Operation and Maintenance__  __.—__ 
 
 >     There are authorized to be appropriated such sums as are necessary to maintain and operate interpretive exhibits in the regional heritage center.”
 

@@ -63,7 +63,7 @@
 
 [Pub. L. 100–301, § 2][/us/pl/100/301/s2], Apr. 29, 1988, [102 Stat. 443][/us/stat/102/443], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -75,7 +75,7 @@
 
 >         “(4) public ownership of lands adjacent to the Big Cypress National Preserve would enhance the protection of the Everglades National Park while providing recreational opportunities and other public uses currently offered by the Big Cypress National Preserve.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     It is the purpose of this Act \[see Short Title of 1988 Amendment note above\] to establish the Big Cypress National Preserve Addition.”
 

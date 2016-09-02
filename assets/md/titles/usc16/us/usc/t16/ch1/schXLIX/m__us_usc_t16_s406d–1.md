@@ -41,15 +41,15 @@
 
 > “In this Act:
 
->     “(1) __Park.—__ 
+>     “(1)  __Park__  __.—__ 
 
 >     The term ‘Park’ means the Grand Teton National Park.
 
->     “(2) __Secretary.—__ 
+>     “(2)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of the Interior.
 
->     “(3) __Subdivision.—__ 
+>     “(3)  __Subdivision__  __.—__ 
 
 >     The term ‘Subdivision’ means the GT Park Subdivision, with an area of approximately 49.67 acres, as generally depicted on—
 
@@ -59,11 +59,11 @@
 
 > “SEC. 3. __ACQUISITION OF LAND.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary may accept from any willing donor the donation of any land or interest in land of the Subdivision.
 
->     “(b) __Administration.—__ 
+>     “(b)  __Administration__  __.—__ 
 
 >     On acquisition of land or an interest in land under subsection (a), the Secretary shall—
 
@@ -71,17 +71,17 @@
 
 >         “(2) administer the land or interest as part of the Park, in accordance with all applicable laws (including regulations).
 
->     “(c) __Deadline for Acquisition.—__ 
+>     “(c)  __Deadline for Acquisition__  __.—__ 
 
 >     It is the intent of Congress that the acquisition of land or an interest in land under subsection (a) be completed not later than 1 year after the date of enactment of this Act \[July 13, 2007\].
 
->     “(d) __Restriction on Transfer.—__ 
+>     “(d)  __Restriction on Transfer__  __.—__ 
 
 >     The Secretary shall not donate, sell, exchange, or otherwise transfer any land acquired under this section without express authorization from Congress.
 
 > “SEC. 4. __CRAIG THOMAS DISCOVERY AND VISITOR CENTER.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -111,11 +111,11 @@
 
 >     “(b) __The Craig Thomas Discovery and Visitor Center.—__ 
 
->         “(1) __Designation.—__ 
+>         “(1)  __Designation__  __.—__ 
 
 >         The Grand Teton Discovery and Visitor Center located in Moose, Wyoming, and scheduled for completion in August 2007 shall be known and designated as the ‘Craig Thomas Discovery and Visitor Center’.
 
->         “(2) __Reference.—__ 
+>         “(2)  __Reference__  __.—__ 
 
 >         Any reference in a law, map, regulation, document, paper, or other record of the United States to the Grand Teton Discovery and Visitor Center referred to in paragraph (1) shall be deemed to be a reference to the ‘Craig Thomas Discovery and Visitor Center’.
 
@@ -159,15 +159,15 @@
 
 > “SEC. 4. __VALUATION OF STATE AND FEDERAL INTERESTS.__ 
 
->     “(a) __Agreement on Appraiser.—__ 
+>     “(a)  __Agreement on Appraiser__  __.—__ 
 
 >     If the Secretary and the Governor are unable to agree on the value of any Federal lands eligible for exchange under section 3(a)(3) or State lands, then the Secretary and the Governor may select a qualified appraiser to conduct an appraisal of those lands. The purchase or exchange under section 3(a) shall be conducted based on the values determined by the appraisal.
 
->     “(b) __No Agreement on Appraiser.—__ 
+>     “(b)  __No Agreement on Appraiser__  __.—__ 
 
 >     If the Secretary and the Governor are unable to agree on the selection of a qualified appraiser under subsection (a), then the Secretary and the Governor shall each designate a qualified appraiser. The two designated appraisers shall select a qualified third appraiser to conduct the appraisal with the advice and assistance of the two designated appraisers. The purchase or exchange under section 3(a) shall be conducted based on the values determined by the appraisal.
 
->     “(c) __Appraisal Costs.—__ 
+>     “(c)  __Appraisal Costs__  __.—__ 
 
 >     The Secretary and the State of Wyoming shall each pay one-half of the appraisal costs under subsections (a) and (b).
 

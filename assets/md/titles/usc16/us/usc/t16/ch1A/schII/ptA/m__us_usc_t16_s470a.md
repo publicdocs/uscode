@@ -427,45 +427,45 @@
 
 [Pub. L. 111–11, title VII, § 7404][/us/pl/111/11/s7404], Mar. 30, 2009, [123 Stat. 1219][/us/stat/123/1219], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Commemoration.—__ 
+>         “(1)  __Commemoration__  __.—__ 
 
 >         The term ‘commemoration’ means the commemoration of the 450th anniversary of the founding of the settlement of St. Augustine, Florida.
 
->         “(2) __Commission.—__ 
+>         “(2)  __Commission__  __.—__ 
 
 >         The term ‘Commission’ means the St. Augustine 450th Commemoration Commission established by subsection (b)(1).
 
->         “(3) __Governor.—__ 
+>         “(3)  __Governor__  __.—__ 
 
 >         The term ‘Governor’ means the Governor of the State.
 
->         “(4) __Secretary.—__ 
+>         “(4)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of the Interior.
 
 >         “(5) __State.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The term ‘State’ means the State of Florida.
 
->             “(B) __Inclusion.—__ 
+>             “(B)  __Inclusion__  __.—__ 
 
 >             The term ‘State’ includes agencies and entities of the State of Florida.
 
 >     “(b) __Establishment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There is established a commission, to be known as the ‘St. Augustine 450th Commemoration Commission’.
 
 >         “(2) __Membership.—__ 
 
->             “(A) __Composition.—__ 
+>             “(A)  __Composition__  __.—__ 
 
 >             The Commission shall be composed of 14 members, of whom—
 
@@ -481,31 +481,31 @@
 
 >                 “(vi) 5 members shall be individuals who are residents of the State who have an interest in, support for, and expertise appropriate to the commemoration, to be appointed by the Secretary, taking into consideration the recommendations of Members of Congress.
 
->             “(B) __Time of appointment.—__ 
+>             “(B)  __Time of appointment__  __.—__ 
 
 >             Each appointment of an initial member of the Commission shall be made before the expiration of the 120-day period beginning on the date of enactment of this Act \[Mar. 30, 2009\].
 
 >             “(C) __Term; vacancies.—__ 
 
->                 “(i) __Term.—__ 
+>                 “(i)  __Term__  __.—__ 
 
 >                 A member of the Commission shall be appointed for the life of the Commission.
 
 >                 “(ii) __Vacancies.—__ 
 
->                          “(I) __In general.—__ 
+>                          “(I)  __In general__  __.—__ 
 
 >                     A vacancy on the Commission shall be filled in the same manner in which the original appointment was made.
 
->                          “(II) __Partial term.—__ 
+>                          “(II)  __Partial term__  __.—__ 
 
 >                     A member appointed to fill a vacancy on the Commission shall serve for the remainder of the term for which the predecessor of the member was appointed.
 
->                 “(iii) __Continuation of membership.—__ 
+>                 “(iii)  __Continuation of membership__  __.—__ 
 
 >                 If a member of the Commission was appointed to the Commission as Mayor of the city of St. Augustine or as an employee of the National Park Service or the State University System of Florida, and ceases to hold such position, that member may continue to serve on the Commission for not longer than the 30-day period beginning on the date on which that member ceases to hold the position.
 
->         “(3) __Duties.—__ 
+>         “(3)  __Duties__  __.—__ 
 
 >         The Commission shall—
 
@@ -525,11 +525,11 @@
 
 >     “(c) __Commission Meetings.—__ 
 
->         “(1) __Initial meeting.—__ 
+>         “(1)  __Initial meeting__  __.—__ 
 
 >         Not later than 30 days after the date on which all members of the Commission have been appointed, the Commission shall hold the initial meeting of the Commission.
 
->         “(2) __Meetings.—__ 
+>         “(2)  __Meetings__  __.—__ 
 
 >         The Commission shall meet—
 
@@ -537,53 +537,53 @@
 
 >             “(B) at the call of the Chairperson or the majority of the members of the Commission.
 
->         “(3) __Quorum.—__ 
+>         “(3)  __Quorum__  __.—__ 
 
 >         A majority of the voting members shall constitute a quorum, but a lesser number may hold meetings.
 
 >         “(4) __Chairperson and vice chairperson.—__ 
 
->             “(A) __Election.—__ 
+>             “(A)  __Election__  __.—__ 
 
 >             The Commission shall elect the Chairperson and the Vice Chairperson of the Commission on an annual basis.
 
->             “(B) __Absence of the chairperson.—__ 
+>             “(B)  __Absence of the chairperson__  __.—__ 
 
 >             The Vice Chairperson shall serve as the Chairperson in the absence of the Chairperson.
 
->         “(5) __Voting.—__ 
+>         “(5)  __Voting__  __.—__ 
 
 >         The Commission shall act only on an affirmative vote of a majority of the members of the Commission.
 
 >     “(d) __Commission Powers.—__ 
 
->         “(1) __Gifts.—__ 
+>         “(1)  __Gifts__  __.—__ 
 
 >         The Commission may solicit, accept, use, and dispose of gifts, bequests, or devises of money or other property for aiding or facilitating the work of the Commission.
 
->         “(2) __Appointment of advisory committees.—__ 
+>         “(2)  __Appointment of advisory committees__  __.—__ 
 
 >         The Commission may appoint such advisory committees as the Commission determines to be necessary to carry out this section.
 
->         “(3) __Authorization of action.—__ 
+>         “(3)  __Authorization of action__  __.—__ 
 
 >         The Commission may authorize any member or employee of the Commission to take any action that the Commission is authorized to take under this section.
 
 >         “(4) __Procurement.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Commission may procure supplies, services, and property, and make or enter into contracts, leases, or other legal agreements, to carry out this section (except that a contract, lease, or other legal agreement made or entered into by the Commission shall not extend beyond the date of termination of the Commission).
 
->             “(B) __Limitation.—__ 
+>             “(B)  __Limitation__  __.—__ 
 
 >             The Commission may not purchase real property.
 
->         “(5) __Postal services.—__ 
+>         “(5)  __Postal services__  __.—__ 
 
 >         The Commission may use the United States mails in the same manner and under the same conditions as other agencies of the Federal Government.
 
->         “(6) __Grants and technical assistance.—__ 
+>         “(6)  __Grants and technical assistance__  __.—__ 
 
 >         The Commission may—
 
@@ -597,35 +597,35 @@
 
 >         “(1) __Compensation of members.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in paragraph (2), a member of the Commission shall serve without compensation.
 
->             “(B) __Federal employees.—__ 
+>             “(B)  __Federal employees__  __.—__ 
 
 >             A member of the Commission who is an officer or employee of the Federal Government shall serve without compensation other than the compensation received for the services of the member as an officer or employee of the Federal Government.
 
->         “(2) __Travel expenses.—__ 
+>         “(2)  __Travel expenses__  __.—__ 
 
 >         A member of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, United States Code, while away from the home or regular place of business of the member in the performance of the duties of the Commission.
 
 >         “(3) __Director and staff.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Chairperson of the Commission may, without regard to the civil service laws (including regulations), nominate an executive director to enable the Commission to perform the duties of the Commission.
 
->             “(B) __Confirmation of executive director.—__ 
+>             “(B)  __Confirmation of executive director__  __.—__ 
 
 >             The employment of an executive director shall be subject to confirmation by the Commission.
 
 >         “(4) __Compensation.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subparagraph (B), the Commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates.
 
->             “(B) __Maximum rate of pay.—__ 
+>             “(B)  __Maximum rate of pay__  __.—__ 
 
 >             The rate of pay for the executive director and other personnel shall not exceed the rate payable for level V of the Executive Schedule under [section 5316 of title 5][/us/usc/t5/s5316], United States Code.
 
@@ -633,15 +633,15 @@
 
 >             “(A) __Federal employees.—__ 
 
->                 “(i) __Detail.—__ 
+>                 “(i)  __Detail__  __.—__ 
 
 >                 At the request of the Commission, the head of any Federal agency may detail, on a reimbursable or nonreimbursable basis, any of the personnel of the agency to the Commission to assist the Commission in carrying out the duties of the Commission under this section.
 
->                 “(ii) __Civil service status.—__ 
+>                 “(ii)  __Civil service status__  __.—__ 
 
 >                 The detail of an employee under clause (i) shall be without interruption or loss of civil service status or privilege.
 
->             “(B) __State employees.—__ 
+>             “(B)  __State employees__  __.—__ 
 
 >             The Commission may—
 
@@ -649,39 +649,39 @@
 
 >                 “(ii) reimburse the State for services of detailed personnel.
 
->         “(6) __Procurement of temporary and intermittent services.—__ 
+>         “(6)  __Procurement of temporary and intermittent services__  __.—__ 
 
 >         The Chairperson of the Commission may procure temporary and intermittent services in accordance with [section 3109(b) of title 5][/us/usc/t5/s3109/b], United States Code, at rates for individuals that do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
 
->         “(7) __Volunteer and uncompensated services.—__ 
+>         “(7)  __Volunteer and uncompensated services__  __.—__ 
 
 >         Notwithstanding [section 1342 of title 31][/us/usc/t31/s1342], United States Code, the Commission may accept and use such voluntary and uncompensated services as the Commission determines to be necessary.
 
 >         “(8) __Support services.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary shall provide to the Commission, on a reimbursable basis, such administrative support services as the Commission may request.
 
->             “(B) __Reimbursement.—__ 
+>             “(B)  __Reimbursement__  __.—__ 
 
 >             Any reimbursement under this paragraph shall be credited to the appropriation, fund, or account used for paying the amounts reimbursed.
 
->         “(9) __FACA nonapplicability.—__ 
+>         “(9) __FACA__  __nonapplicability__  __.—__ 
 
 >         Section 14(b) of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
 
->         “(10) __No effect on authority.—__ 
+>         “(10)  __No effect on authority__  __.—__ 
 
 >         Nothing in this subsection supersedes the authority of the State, the National Park Service, the city of St. Augustine, or any designee of those entities, with respect to the commemoration.
 
 >     “(f) __Plans; Reports.—__ 
 
->         “(1) __Strategic plan.—__ 
+>         “(1)  __Strategic plan__  __.—__ 
 
 >         The Commission shall prepare a strategic plan for the activities of the Commission carried out under this section.
 
->         “(2) __Final report.—__ 
+>         “(2)  __Final report__  __.—__ 
 
 >         Not later than September 30, 2015, the Commission shall complete and submit to Congress a final report that contains—
 
@@ -693,21 +693,21 @@
 
 >     “(g) __Authorization of Appropriations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There is authorized to be appropriated to the Commission to carry out this section $500,000 for each of fiscal years 2009 through 2015.
 
->         “(2) __Availability.—__ 
+>         “(2)  __Availability__  __.—__ 
 
 >         Amounts made available under paragraph (1) shall remain available until December 31, 2015.
 
 >     “(h) __Termination of Commission.—__ 
 
->         “(1) __Date of termination.—__ 
+>         “(1)  __Date of termination__  __.—__ 
 
 >         The Commission shall terminate on December 31, 2015.
 
->         “(2) __Transfer of documents and materials.—__ 
+>         “(2)  __Transfer of documents and materials__  __.—__ 
 
 >         Before the date of termination specified in paragraph (1), the Commission shall transfer all documents and materials of the Commission to the National Archives or another appropriate Federal entity.”
 
@@ -739,13 +739,13 @@
 
 > “SEC. 3. __ESTABLISHMENT OF COMMISSION.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established a commission to be known as the ‘Women’s Progress Commemoration Commission’ (referred to in this Act as the ‘Commission’).
 
 >     “(b) __Membership.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Commission shall be composed of 15 members, of whom—
 
@@ -761,43 +761,43 @@
 
 >         “(2) __Persons eligible.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The members of the Commission shall be individuals who have knowledge or expertise, whether by experience or training, in matters to be studied by the Commission. The members may be from the public or private sector, and may include Federal, State, or local employees, members of academia, nonprofit organizations, or industry, or other interested individuals.
 
->             “(B) __Diversity.—__ 
+>             “(B)  __Diversity__  __.—__ 
 
 >             It is the intent of Congress that persons appointed to the Commission under paragraph (1) be persons who represent diverse economic, professional, and cultural backgrounds.
 
 >         “(3) __Consultation and appointment.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The President, Speaker of the House of Representatives, minority leader of the House of Representatives, majority leader of the Senate, and minority leader of the Senate shall consult among themselves before appointing the members of the Commission in order to achieve, to the maximum extent practicable, fair and equitable representation of various points of view with respect to the matters to be studied by the Commission.
 
->             “(B) __Completion of appointments; vacancies.—__ 
+>             “(B)  __Completion of appointments; vacancies__  __.—__ 
 
 >             The President, Speaker of the House of Representatives, minority leader of the House of Representatives, majority leader of the Senate, and minority leader of the Senate shall conduct the consultation under subparagraph (3) and make their respective appointments not later than 60 days after the date of enactment of this Act \[Oct. 31, 1998\].
 
->         “(4) __Vacancies.—__ 
+>         “(4)  __Vacancies__  __.—__ 
 
 >         A vacancy in the membership of the Commission shall not affect the powers of the Commission and shall be filled in the same manner as the original appointment not later than 30 days after the vacancy occurs.
 
 >     “(c) __Meetings.—__ 
 
->         “(1) __Initial meeting.—__ 
+>         “(1)  __Initial meeting__  __.—__ 
 
 >         Not later than 30 days after the date on which all members of the Commission have been appointed, the Commission shall hold its first meeting.
 
->         “(2) __Subsequent meetings.—__ 
+>         “(2)  __Subsequent meetings__  __.—__ 
 
 >         After the initial meeting, the Commission shall meet at the call of the Chairperson.
 
->     “(d) __Quorum.—__ 
+>     “(d)  __Quorum__  __.—__ 
 
 >     A majority of the members of the Commission shall constitute a quorum for the transaction of business, but a lesser number of members may hold hearings.
 
->     “(e) __Chairperson and Vice Chairperson.—__ 
+>     “(e)  __Chairperson and Vice Chairperson__  __.—__ 
 
 >     The Commission shall select a Chairperson and Vice Chairperson from among its members.
 
@@ -811,49 +811,49 @@
 
 > “SEC. 5. __POWERS OF THE COMMISSION.__ 
 
->     “(a) __Hearings.—__ 
+>     “(a)  __Hearings__  __.—__ 
 
 >     The Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers advisable to carry out its duties of this Act.
 
->     “(b) __Information From Federal Agencies.—__ 
+>     “(b)  __Information From Federal Agencies__  __.—__ 
 
 >     The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out the provisions of this Act. At the request of the Chairperson of the Commission, the head of such department or agency shall furnish such information to the Commission.
 
 > “SEC. 6. __COMMISSION PERSONNEL MATTERS.__ 
 
->     “(a) __Compensation of Members.—__ 
+>     “(a)  __Compensation of Members__  __.—__ 
 
 >     A member of the Commission who is not otherwise an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for a position at level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315], United States Code, for each day (including travel time) during which the member is engaged in the performance of the duties of the Commission. A member of the Commission who is otherwise an officer or employee of the United States shall serve without compensation in addition to that received for services as an officer or employee of the United States.
 
->     “(b) __Travel Expenses.—__ 
+>     “(b)  __Travel Expenses__  __.—__ 
 
 >     A member of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from the home or regular place of business of the member in the performance of service for the Commission.
 
 >     “(c) __Staff.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Chairperson of the Commission may, without regard to the civil service laws (including regulations), appoint and terminate an executive director and such other additional personnel as may be necessary to enable the Commission to perform its duties. The employment and termination of an executive director shall be subject to confirmation by a majority of the members of the Commission.
 
->         “(2) __Compensation.—__ 
+>         “(2)  __Compensation__  __.—__ 
 
 >         The executive director shall be compensated at a rate not to exceed the rate payable for a position at level V of the Executive Schedule under [section 5316 of title 5][/us/usc/t5/s5316], United States Code. The Chairperson may fix the compensation of other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for such personnel may not exceed the rate payable for a position at level V of the Executive Schedule under section 5316 of that title.
 
->         “(3) __Detail of government employees.—__ 
+>         “(3)  __Detail of government employees__  __.—__ 
 
 >         Any Federal Government employee, with the approval of the head of the appropriate Federal agency, may be detailed to the Commission without reimbursement, and the detail shall be without interruption or loss of civil service status, benefits, or privilege.
 
->     “(d) __Procurement of Temporary and Intermittent Services.—__ 
+>     “(d)  __Procurement of Temporary and Intermittent Services__  __.—__ 
 
 >     The Chairperson of the Commission may procure temporary and intermittent services under [section 3109(b) of title 5][/us/usc/t5/s3109/b], United States Code, at rates for individuals not to exceed the daily equivalent of the annual rate of basic pay prescribed for a position at level V of the Executive Schedule under section 5316 of that title.
 
 > “SEC. 7. __FUNDING.__ 
 
->     “(a) __Authorization of Appropriations.—__ 
+>     “(a)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to the Commission such sums as are necessary to carry out this Act.
 
->     “(b) __Donations.—__ 
+>     “(b)  __Donations__  __.—__ 
 
 >     The Commission may accept donations from non-Federal sources to defray the costs of the operations of the Commission.
 
@@ -869,11 +869,11 @@
 
 [Pub. L. 104–333, div. I, title V, § 507][/us/pl/104/333/s507], Nov. 12, 1996, [110 Stat. 4156][/us/stat/110/4156], as amended by [Pub. L. 108–7, div. F, title I, § 150][/us/pl/108/7/s150], Feb. 20, 2003, [117 Stat. 245][/us/stat/117/245], provided that:
 
->     “(a) __Authority To Make Grants.—__ 
+>     “(a)  __Authority To Make Grants__  __.—__ 
 
 >     From the amounts made available to carry out the National Historic Preservation Act \[[16 U.S.C. 470][/us/usc/t16/s470] et seq.\], the Secretary of the Interior shall make grants in accordance with this section to eligible historically black colleges and universities for the preservation and restoration of historic buildings and structures on the campus of these institutions.
 
->     “(b) __Grant Conditions.—__ 
+>     “(b)  __Grant Conditions__  __.—__ 
 
 >     Grants made under subsection (a) shall be subject to the condition that the grantee covenants, for the period of time specified by the Secretary, that—
 
@@ -881,43 +881,43 @@
 
 >         “(2) reasonable public access to the property with respect to which the grant is made will be permitted by the grantee for interpretive and educational purposes.
 
->     “(c) __Matching Requirement for Buildings and Structures Listed on the National Register of Historic Places.—__ 
+>     “(c)  __Matching Requirement for Buildings and Structures Listed on the National Register of Historic Places__  __.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided by paragraphs (2) and (3), the Secretary may obligate funds made available under this section for a grant with respect to a building or structure listed on, or eligible for listing on, the National Register of Historic Places only if the grantee agrees to match, from funds derived from non-Federal sources, the amount of the grant with an amount that is equal or greater than the grant.
 
->         “(2) __Waiver.—__ 
+>         “(2)  __Waiver__  __.—__ 
 
 >         The Secretary may waive paragraphs (1) and (3) with respect to a grant if the Secretary determines from circumstances that an extreme emergency exists or that such a waiver is in the public interest to assure the preservation of historically significant resources.
 
->         “(3) __Exception.—__ 
+>         “(3)  __Exception__  __.—__ 
 
 >         The Secretary shall not obligate funds made available under subsection (d)(2) for a grant with respect to a building or structure listed on, or eligible for listing on, the National Register of Historic Places unless the grantee agrees to provide, from funds derived from non-Federal sources, an amount that is equal to 30 percent of the total cost of the project for which the grant is provided.
 
->     “(d) __Funding Provision.—__ 
+>     “(d)  __Funding Provision__  __.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Under section 108 of the National Historic Preservation Act \[[16 U.S.C. 470h][/us/usc/t16/s470h]\], $29,000,000 shall be made available to carry out the purposes of this section. Of amounts made available pursuant to this section, $5,000,000 shall be available for grants to Fisk University, $2,500,000 shall be available for grants to Knoxville College, $2,000,000 shall be available for grants to Miles College, Alabama, $1,500,000 shall be available for grants to Talladega College, Alabama, $1,550,000 shall be available for grants to Selma University, Alabama, $250,000 shall be available for grants to Stillman College, Alabama, $200,000 shall be available for grants to Concordia College, Alabama, $2,900,000 shall be available for grants to Allen University, South Carolina, $1,000,000 shall be available for grants to Claflin College, South Carolina, $2,000,000 shall be available for grants to Voorhees College, South Carolina, $1,000,000 shall be available for grants to Rust College, Mississippi, and $3,000,000 shall be available for grants to Tougaloo College, Mississippi.
 
->         “(2) __Additional funding.—__ 
+>         “(2)  __Additional funding__  __.—__ 
 
 >         In addition to amounts made available under paragraph (1), there is authorized to be appropriated from the Historic Preservation Fund to carry out this section $10,000,000 for each of fiscal years 2003 through 2008.
 
->     “(e) __Regulations.—__ 
+>     “(e)  __Regulations__  __.—__ 
 
 >     The Secretary shall develop such guidelines as may be necessary to carry out this section.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     For the purposes of this section:
 
->         “(1) __Historically black colleges.—__ 
+>         “(1)  __Historically black colleges__  __.—__ 
 
 >         The term ‘historically black colleges and universities’ has the same meaning given the term ‘part B institution’ by section 322 of the Higher Education Act of 1965 ([20 U.S.C. 1061][/us/usc/t20/s1061]).
 
->         “(2) __Historic building and structures.—__ 
+>         “(2)  __Historic building and structures__  __.—__ 
 
 >         The term ‘historic building and structures’ means a building or structure listed on, or eligible for listing on, the National Register of Historic Places or designated a National Historic Landmark.”
 

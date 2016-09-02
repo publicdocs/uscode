@@ -57,19 +57,19 @@
 
 [Pub. L. 111–11, title VII, § 7106][/us/pl/111/11/s7106], Mar. 30, 2009, [123 Stat. 1193][/us/stat/123/1193], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Map.—__ 
+>         “(1)  __Map__  __.—__ 
 
 >         The term ‘map’ means the map entitled ‘Minute Man National Historical Park Proposed Boundary’, numbered 406/81001, and dated July 2007.
 
->         “(2) __Park.—__ 
+>         “(2)  __Park__  __.—__ 
 
 >         The term ‘Park’ means the Minute Man National Historical Park in the State of Massachusetts.
 
->         “(3) __Secretary.—__ 
+>         “(3)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of the Interior.
 
@@ -77,15 +77,15 @@
 
 >         “(1) __Boundary adjustment.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The boundary of the Park is modified to include the area generally depicted on the map.
 
->             “(B) __Availability of map.—__ 
+>             “(B)  __Availability of map__  __.—__ 
 
 >             The map shall be on file and available for inspection in the appropriate offices of the National Park Service.
 
->         “(2) __Acquisition of land.—__ 
+>         “(2)  __Acquisition of land__  __.—__ 
 
 >         The Secretary may acquire the land or an interest in the land described in paragraph (1)(A) by—
 
@@ -95,11 +95,11 @@
 
 >             “(C) exchange.
 
->         “(3) __Administration of land.—__ 
+>         “(3)  __Administration of land__  __.—__ 
 
 >         The Secretary shall administer the land added to the Park under paragraph (1)(A) in accordance with applicable laws (including regulations).
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated such sums as are necessary to carry out this section.”
 

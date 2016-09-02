@@ -255,7 +255,7 @@
 
 [Pub. L. 101–627, title VIII, § 801][/us/pl/101/627/s801], Nov. 28, 1990, [104 Stat. 4464][/us/stat/104/4464], provided that:
 
->     “(a) __Negotiations.—__ 
+>     “(a)  __Negotiations__  __.—__ 
 
 >     Within 60 days after the date of enactment of this Act \[Nov. 28, 1990\], the Secretary of State shall commence negotiations with nations which import or export anadromous fish or anadromous fish products for the purpose of securing general agreement among such nations to implement effective measures to prohibit international trade in anadromous fish or anadromous fish products unless such fish or fish products are accompanied by a valid certificate of legal origin attesting that the fish or fish product was lawfully harvested—
 
@@ -263,7 +263,7 @@
 
 >         “(2) on the high seas according to an international agreement among nations with jurisdiction over more than 1 percent of the stocks of anadromous fish being so harvested.
 
->     “(b) __Issuance of Certificates.—__ 
+>     “(b)  __Issuance of Certificates__  __.—__ 
 
 >     For the purposes of subsection (a), a valid certificate of legal origin may be issued only by a nation which—
 
@@ -271,11 +271,11 @@
 
 >         “(2) maintains regular harvests of anadromous fish in a manner consistent with the criteria for lawful harvests set out in subsection (a).
 
->     “(c) __Bilateral or Multilateral Agreements.—__ 
+>     “(c)  __Bilateral or Multilateral Agreements__  __.—__ 
 
 >     Efforts undertaken by the Secretary of State pursuant to subsection (a) may, at the discretion of the Secretary, be directed toward achieving either bilateral or multilateral agreements, including trade agreements, whichever the Secretary determines to be most likely to result in the earliest possible date or dates of agreement by those nations which individually have in excess of $1,000,000, or the equivalent, in import or export trade in anadromous fish and anadromous fish products.
 
->     “(d) __Regulations.—__ 
+>     “(d)  __Regulations__  __.—__ 
 
 >     The Secretary of Commerce shall, within 180 days after the date of enactment of this Act \[Nov. 28, 1990\], promulgate regulations providing for—
 
@@ -285,7 +285,7 @@
 
 >         “(3) an orderly transition to such regulations, sufficient to ensure that United States commerce in anadromous fish and anadromous fish products is not unduly disrupted.
 
->     “(e) __Report Required.—__ 
+>     “(e)  __Report Required__  __.—__ 
 
 >     The Secretary of Commerce, after consultation with the Secretary of the Treasury, shall, within 180 days after the date of enactment of this Act \[Nov. 28, 1990\], submit to the Congress a report—
 
@@ -293,7 +293,7 @@
 
 >         “(2) identifying, evaluating, and making recommendations regarding any specific statutory or regulatory changes that may be necessary for the adoption of such restrictions.
 
->     “(f) __Certification.—__ 
+>     “(f)  __Certification__  __.—__ 
 
 >     If, at any time following the promulgation of the regulations required by subsection (d), the Secretary of Commerce finds that any nation is engaging in trade in unlawfully taken anadromous fish or anadromous fish products, the Secretary shall certify that fact to the President, which certification shall be deemed to be a certification for the purposes of section 8(a)(1) of the Fishermen’s Protective Act of 1967 ([22 U.S.C. 1978(a)(1)][/us/usc/t22/s1978/a/1]).”
 
@@ -319,23 +319,23 @@
 
 > “As used in this title—
 
->     “(1) __Driftnet.—__ 
+>     “(1)  __Driftnet__  __.—__ 
 
 >     The term ‘driftnet’ means a gillnet composed of a panel of plastic webbing one and one-half miles or more in length.
 
->     “(2) __Driftnet fishing.—__ 
+>     “(2)  __Driftnet fishing__  __.—__ 
 
 >     The term ‘driftnet fishing’ means a fish-harvesting method in which a driftnet is placed in water and allowed to drift with the currents and winds for the purpose of entangling fish in the webbing.
 
->     “(3) __Exclusive economic zone of the united states.—__ 
+>     “(3)  __Exclusive economic zone of the united states__  __.—__ 
 
 >     The term ‘exclusive economic zone of the United States’ means the zone defined in section 3(6) \[now 3(11)\] of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1802(b)][/us/usc/t16/s1802/b] \[1802(11)\]).
 
->     “(4) __Marine resources.—__ 
+>     “(4)  __Marine resources__  __.—__ 
 
 >     The term ‘marine resources’ includes fish, shellfish, marine mammals, seabirds, and other forms of marine life or waterfowl.
 
->     “(5) __Marine resources of the united states.—__ 
+>     “(5)  __Marine resources of the united states__  __.—__ 
 
 >     The term ‘marine resources of the United States’ means—
 
@@ -343,13 +343,13 @@
 
 >         “(B) species of fish, wherever found, that spawn in the fresh or estuarine waters of the United States.
 
->     “(6) __Secretary.—__ 
+>     “(6)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of Commerce.
 
 > “SEC. 4004. __MONITORING AGREEMENTS.__ 
 
->     “(a) __Negotiations.—__ 
+>     “(a)  __Negotiations__  __.—__ 
 
 >     The Secretary, through the Secretary of State and in consultation with the Secretary of the Interior, shall immediately initiate, negotiations with each foreign government that conducts, or authorizes its nationals to conduct, driftnet fishing that results in the taking of marine resources of the United States in waters of the North Pacific Ocean outside of the exclusive economic zone and territorial sea of any nation, for the purpose of entering into agreements for statistically reliable cooperative monitoring and assessment of the numbers of marine resources of the United States killed and retrieved, discarded, or lost by the foreign government’s driftnet fishing vessels. Such agreements shall provide for—
 
@@ -357,13 +357,13 @@
 
 >         “(2) appropriate methods for sharing equally the costs associated with such activities.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     The Secretary, in consultation with the Secretary of State, shall provide to the Congress not later than 1 year after the date of enactment of this Act \[Dec. 29, 1987\] a full report on the results of negotiations under this section.
 
 > “SEC. 4005. __IMPACT REPORT.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary shall provide to the Congress within 1 year after the date of the enactment of this Act \[Dec. 29, 1987\], and at such other times thereafter as the Secretary considers appropriate, a report identifying the nature, extent, and effects of driftnet fishing in waters of the North Pacific Ocean on marine resources of the United States. The report shall include the best available information on—
 
@@ -379,7 +379,7 @@
 
 >         “(6) any other information the Secretary considers appropriate.
 
->     “(b) __Information From Foreign Governments.—__ 
+>     “(b)  __Information From Foreign Governments__  __.—__ 
 
 >     The Secretary, through the Secretary of State, shall—
 
@@ -389,7 +389,7 @@
 
 > “SEC. 4006. __ENFORCEMENT AGREEMENTS.__ 
 
->     “(a) __Negotiations.—__ 
+>     “(a)  __Negotiations__  __.—__ 
 
 >     The Secretary shall immediately initiate, through the Secretary of State and in consultation with the Secretary of the Department in which the Coast Guard is operating negotiations with each foreign government that conducts, or authorizes its nationals to conduct, driftnet fishing that results in the taking of marine resources of the United States in waters of the North Pacific Ocean outside of the exclusive economic zone and territorial sea of any nation, for the purpose of entering into agreements for effective enforcement of laws, regulations, and agreements applicable to the location, season, and other aspects of the operations of the foreign government’s driftnet fishing vessels. Such agreements shall include measures for—
 
@@ -401,29 +401,29 @@
 
 >         “(4) appropriate methods for sharing equally the costs associated with such activities.
 
->     “(b) __Certification for Purposes of Fishermen’s Protective Act of 1967.—__ 
+>     “(b)  __Certification for Purposes of Fishermen’s Protective Act of__  __1967.—__ 
 
 >     If the Secretary, in consultation with the Secretary of State, determines that a foreign government has failed, within 18 months after the date of the enactment of this Act \[Dec. 29, 1987\], to enter into and implement an agreement under subsection (a) or section 4004(a) that is adequate, the Secretary shall certify such fact to the President, which certification shall be deemed to be a certification for the purposes of section 8(a) of the Fishermen’s Protective Act of 1967 ([22 U.S.C. 1978(a)][/us/usc/t22/s1978/a]).
 
 > “SEC. 4007. __EVALUATIONS AND RECOMMENDATIONS.__ 
 
->     “(a) __Marking, Registry, and Identification System.—__ 
+>     “(a)  __Marking, Registry, and Identification System__  __.—__ 
 
 >     The Secretary shall evaluate, in consultation with officials of other Federal agencies and such other persons as may be appropriate, the feasibility of and develop recommendations for the establishment of a driftnet marking, registry, and identification system to provide a reliable method for the determination of the origin by vessel, of lost, discarded, or abandoned driftnets and fragments of driftnets. In conducting such evaluation, the Secretary shall consider the adequacy of existing driftnet identification systems of foreign nations and the extent to which these systems achieve the objectives of this title.
 
->     “(b) __Alternative Driftnet Materials.—__ 
+>     “(b)  __Alternative Driftnet Materials__  __.—__ 
 
 >     The Secretary, in consultation with such other persons as may be appropriate, shall evaluate the feasibility of, and develop appropriate recommendations for, the use of alternative materials in driftnets for the purpose of increasing the rate of decomposition of driftnets that are discarded or lost at sea.
 
->     “(c) __Driftnet Bounty System.—__ 
+>     “(c)  __Driftnet Bounty System__  __.—__ 
 
 >     The Secretary, in consultation with such other persons as may be appropriate, shall evaluate the feasibility of and develop appropriate recommendations for the implementation of a driftnet bounty system to pay persons who retrieve from the exclusive economic zone and deposit with the Secretary lost, abandoned, and discarded driftnet and other plastic fishing material.
 
->     “(d) __Driftnet Fishing Vessel Tracking System.—__ 
+>     “(d)  __Driftnet Fishing Vessel Tracking System__  __.—__ 
 
 >     The Secretary, in consultation with such other persons as may be appropriate, shall evaluate the feasibility of, and develop appropriate recommendations for, the establishment of a cooperative driftnet fishing vessel tracking system to facilitate efforts to monitor the location of driftnet fishing vessels.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     The Secretary shall transmit to the Congress not later than 18 months after the date of the enactment of this Act \[Dec. 29, 1987\] a report setting forth—
 

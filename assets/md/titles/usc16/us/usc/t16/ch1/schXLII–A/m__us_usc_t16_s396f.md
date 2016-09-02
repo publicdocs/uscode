@@ -33,11 +33,11 @@
 
 >     “(a) __Availability of Amounts in Accounts.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other law, in addition to the purposes for which they are now available, amounts in the accounts described in paragraph (2) shall, after December 22, 1987, be available for use in any fiscal year for all purposes (including use for purchase) involving any public sale of property by an agency of the United States. In conducting any such sale, such an agency shall accept, in the same manner as cash, any amount tendered from such an account, and the balance of the account shall be adjusted by the Secretary of the Treasury or the Administrator of General Services, as applicable, to reflect that transaction.
 
->         “(2) __Accounts described.—__ 
+>         “(2)  __Accounts described__  __.—__ 
 
 >         The accounts referred to in subparagraph (B) are—
 
@@ -45,7 +45,7 @@
 
 >             “(B) the surplus property account established by the Administrator of General Services pursuant to [section 317 of Public Law 98–146][/us/pl/98/146/s317] ([16 U.S.C. 396f][/us/usc/t16/s396f]).
 
->     “(b) __Treatment of Amount Received by Agencies From Accounts.—__ 
+>     “(b)  __Treatment of Amount Received by Agencies From Accounts__  __.—__ 
 
 >     In any case in which an agency of the United States that conducts a public sale of property is authorized by law to use the proceeds of such sale for a specific purpose, the Secretary of the Treasury shall, without restriction, treat as cash receipts any amount which is—
 
@@ -55,11 +55,11 @@
 
 >         “(3) used by the agency for that specific purpose.
 
->     “(c) __Availability of Funds.—__ 
+>     “(c)  __Availability of Funds__  __.—__ 
 
 >     The Secretary of the Treasury shall hereafter use funds in the Treasury not otherwise appropriated to make any cash transfer that is necessary under subsection (b) to allow an agency to use the proceeds of a public sale of property.
 
->     “(d) __Agency Defined.—__ 
+>     “(d)  __Agency Defined__  __.—__ 
 
 >     In this section the term ‘agency’ includes—
 
@@ -69,7 +69,7 @@
 
 >         “(3) any wholly owned or mixed-owned United States Government corporation identified in chapter 91 of title 31, United States Code.
 
->     “(e) __Property Defined.—__ 
+>     “(e)  __Property Defined__  __.—__ 
 
 >     Notwithstanding the definition of ‘property’ found in the Federal Property and Administrative Services Act of 1949, as amended \[now [40 U.S.C. 102(9)][/us/usc/t40/s102/9]\], in this section the term ‘property’ includes any property—real, personal (including intangible assets sold or offered by the Federal Deposit Insurance Corporation or the Resolution Trust Corporation, such as financial instruments, notes, loans, and bonds), or mixed—owned, held, or controlled by the United States (including that in a corporate capacity or as a receiver or conservator, or such other similar fiduciary relationship), and offered for sale by any agency or instrumentality of the United States, including but not limited to the General Services Administration, Department of Defense, Department of the Interior, Department of Agriculture, Department of Housing and Urban Development, the United States Courts and any Government corporation, agency or instrumentality subject to chapter 91 of title 31, United States Code; real property as used in this section means any land or interest in land or option to purchase land, any improvements on such lands, or rights to their use or exploitation.
 

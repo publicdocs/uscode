@@ -25,7 +25,7 @@
 
         (2) Within two hundred and seventy days of receipt of the management plan, each county shall adopt a land use ordinance consistent with the management plan, and thereafter may adopt an amendment, revision or variance to a land use ordinance at any time. Each county upon adoption of a land use ordinance shall promptly submit the ordinance to the Commission.
 
-        (3) __Approval by commission.—__ 
+        (3)  __Approval by commission__  __.—__ 
 
             (A) Within ninety days after receipt of a land use ordinance, the Commission, by majority vote including at least three members from each State, shall approve the ordinance unless it determines the ordinance is inconsistent with the management plan. Should the Commission fail to act within ninety days, the ordinance shall be deemed to be approved.
 
@@ -37,7 +37,7 @@
 
         (1) Within ninety days after making a determination that a county has failed to comply with the provisions of this section, the Commission shall make and publish a land use ordinance setting standard for the use of non-Federal lands in such county within the boundaries of the national scenic area, excluding urban areas identified in [section 544b(e) of this title][/us/usc/t16/s544b/e]. The ordinance shall have the object of assuring that the use of such non-Federal lands is consistent with the management plan. The ordinance may differ amongst the several parcels of land within the boundaries of the scenic area. The ordinance may from time to time be amended by the Commission.
 
-        (2) __Subsequent Compliance.—__ 
+        (2)  __Subsequent Compliance__  __.—__ 
 
         In the event the Commission has promulgated regulations pursuant to this section, a county may thereafter upon written notice to the Commission elect to adopt a land use ordinance, in which event it shall comply with the provisions of this section for adoption of a land use ordinance. Upon approval of a land use ordinance by the Commission it shall supersede any regulations for the county developed by the Commission, subject to valid existing rights.
 

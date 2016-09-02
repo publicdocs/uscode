@@ -39,7 +39,7 @@
 
 > “SEC. 2. __FINDINGS AND PURPOSE.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -61,7 +61,7 @@
 
 >             “(C) planning for the commemoration began.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of this Act is to establish the Jamestown 400th Commemoration Commission to—
 
@@ -85,41 +85,41 @@
 
 > “In this Act:
 
->     “(1) __Commemoration.—__ 
+>     “(1)  __Commemoration__  __.—__ 
 
 >     The term ‘commemoration’ means the commemoration of the 400th anniversary of the founding of the Jamestown settlement.
 
->     “(2) __Commission.—__ 
+>     “(2)  __Commission__  __.—__ 
 
 >     The term ‘Commission’ means the Jamestown 400th Commemoration Commission established by section 4(a).
 
->     “(3) __Governor.—__ 
+>     “(3)  __Governor__  __.—__ 
 
 >     The term ‘Governor’ means the Governor of the State.
 
->     “(4) __Secretary.—__ 
+>     “(4)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of the Interior.
 
 >     “(5) __State.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The term ‘State’ means the State of Virginia.
 
->         “(B) __Inclusions.—__ 
+>         “(B)  __Inclusions__  __.—__ 
 
 >         The term ‘State’ includes agencies and entities of the State.
 
 > “SEC. 4. __JAMESTOWN 400TH COMMEMORATION COMMISSION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     There is established a commission to be known as the ‘Jamestown 400th Commemoration Commission’.
 
 >     “(b) __Membership.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Commission shall be composed of 16 members, of whom—
 
@@ -139,23 +139,23 @@
 
 >         “(2) __Term; vacancies.—__ 
 
->             “(A) __Term.—__ 
+>             “(A)  __Term__  __.—__ 
 
 >             A member of the Commission shall be appointed for the life of the Commission.
 
 >             “(B) __Vacancies.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 A vacancy on the Commission shall be filled in the same manner in which the original appointment was made.
 
->                 “(ii) __Partial term.—__ 
+>                 “(ii)  __Partial term__  __.—__ 
 
 >                 A member appointed to fill a vacancy on the Commission shall serve for the remainder of the term for which the predecessor of the member was appointed.
 
 >         “(3) __Meetings.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Commission shall meet—
 
@@ -163,27 +163,27 @@
 
 >                 “(ii) at the call of the Chairperson or the majority of the members of the Commission.
 
->             “(B) __Initial meeting.—__ 
+>             “(B)  __Initial meeting__  __.—__ 
 
 >             Not later than 30 days after the date on which all members of the Commission have been appointed, the Commission shall hold the initial meeting of the Commission.
 
 >         “(4) __Voting.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Commission shall act only on an affirmative vote of a majority of the members of the Commission.
 
->             “(B) __Quorum.—__ 
+>             “(B)  __Quorum__  __.—__ 
 
 >             A majority of the Commission shall constitute a quorum.
 
->         “(5) __Chairperson.—__ 
+>         “(5)  __Chairperson__  __.—__ 
 
 >         The Secretary shall appoint a Chairperson of the Commission, taking into consideration any recommendations of the Governor.
 
 >     “(c) __Duties.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Commission shall—
 
@@ -199,11 +199,11 @@
 
 >         “(2) __Plans; reports.—__ 
 
->             “(A) __Strategic plan; annual performance plans.—__ 
+>             “(A)  __Strategic plan; annual performance plans__  __.—__ 
 
 >             In accordance with the Government Performance and Results Act of 1993 ([Public Law 103–62][/us/pl/103/62]; [107 Stat. 285][/us/stat/107/285]) \[see Short Title of 1993 Amendment note set out under [section 1101 of Title 31][/us/usc/t31/s1101], Money and Finance\], the Commission shall prepare a strategic plan and annual performance plans for the activities of the Commission carried out under this Act.
 
->             “(B) __Final report.—__ 
+>             “(B)  __Final report__  __.—__ 
 
 >             Not later than September 30, 2008, the Commission shall complete a final report that contains—
 
@@ -213,7 +213,7 @@
 
 >                 “(iii) the findings and recommendations of the Commission.
 
->     “(d) __Powers of the Commission.—__ 
+>     “(d)  __Powers of the Commission__  __.—__ 
 
 >     The Commission may—
 
@@ -237,35 +237,35 @@
 
 >         “(1) __Compensation of members of the commission.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subparagraph (B), a member of the Commission shall serve without compensation.
 
->             “(B) __Federal employees.—__ 
+>             “(B)  __Federal employees__  __.—__ 
 
 >             A member of the Commission who is an officer or employee of the Federal Government shall serve without compensation in addition to the compensation received for the services of the member as an officer or employee of the Federal Government.
 
->             “(C) __Travel expenses.—__ 
+>             “(C)  __Travel expenses__  __.—__ 
 
 >             A member of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, United States Code, while away from the home or regular place of business of the member in the performance of the duties of the Commission.
 
 >         “(2) __Staff.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Chairperson of the Commission may, without regard to the civil service laws (including regulations), appoint and terminate an executive director and such other additional personnel as are necessary to enable the Commission to perform the duties of the Commission.
 
->             “(B) __Confirmation of executive director.—__ 
+>             “(B)  __Confirmation of executive director__  __.—__ 
 
 >             The employment of an executive director shall be subject to confirmation by the Commission.
 
 >         “(3) __Compensation.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subparagraph (B), the Chairperson of the Commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates.
 
->             “(B) __Maximum rate of pay.—__ 
+>             “(B)  __Maximum rate of pay__  __.—__ 
 
 >             The rate of pay for the executive director and other personnel shall not exceed the rate payable for level V of the Executive Schedule under [section 5316 of title 5][/us/usc/t5/s5316], United States Code.
 
@@ -273,15 +273,15 @@
 
 >             “(A) __Federal employees.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 On the request of the Commission, the head of any Federal agency may detail, on a reimbursable or non-reimbursable basis, any of the personnel of the agency to the Commission to assist the Commission in carrying out the duties of the Commission under this Act.
 
->                 “(ii) __Civil service status.—__ 
+>                 “(ii)  __Civil service status__  __.—__ 
 
 >                 The detail of an employee under clause (i) shall be without interruption or loss of civil service status or privilege.
 
->             “(B) __State employees.—__ 
+>             “(B)  __State employees__  __.—__ 
 
 >             The Commission may—
 
@@ -289,27 +289,27 @@
 
 >                 “(ii) reimburse States for services of detailed personnel.
 
->         “(5) __Volunteer and uncompensated services.—__ 
+>         “(5)  __Volunteer and uncompensated services__  __.—__ 
 
 >         Notwithstanding [section 1342 of title 31][/us/usc/t31/s1342], United States Code, the Commission may accept and use voluntary and uncompensated services as the Commission determines necessary.
 
->         “(6) __Support services.—__ 
+>         “(6)  __Support services__  __.—__ 
 
 >         The Director of the National Park Service shall provide to the Commission, on a reimbursable basis, such administrative support services as the Commission may request.
 
->     “(f) __Procurement of Temporary and Intermittent Services.—__ 
+>     “(f)  __Procurement of Temporary and Intermittent Services__  __.—__ 
 
 >     The Chairperson of the Commission may procure temporary and intermittent services in accordance with [section 3109(b) of title 5][/us/usc/t5/s3109/b], United States Code, at rates for individuals that do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of that title.
 
->     “(g) __FACA Nonapplicability.—__ 
+>     “(g)  __FACA Nonapplicability__  __.—__ 
 
 >     Section 14(b) of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
 
->     “(h) __No Effect on Authority.—__ 
+>     “(h)  __No Effect on Authority__  __.—__ 
 
 >     Nothing in this section supersedes the authority of the State, the National Park Service, or the Association for the Preservation of Virginia Antiquities, concerning the commemoration.
 
->     “(i) __Termination.—__ 
+>     “(i)  __Termination__  __.—__ 
 
 >     The Commission shall terminate on December 31, 2008.
 

@@ -27,15 +27,15 @@
 
 [Pub. L. 106–562, title IV, § 401][/us/pl/106/562/s401], Dec. 23, 2000, [114 Stat. 2807][/us/stat/114/2807], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2000\] and subject to the availability of appropriations, the Secretary of Commerce shall initiate a study of the environmental and biological factors responsible for the significant increase in mortality events of the eastern gray whale population, and the other potential impacts these factors may be having on the eastern gray whale population.
 
->     “(b) __Consideration of Western Population Information.—__ 
+>     “(b)  __Consideration of Western Population Information__  __.—__ 
 
 >     The Secretary should ensure that, to the greatest extent practicable, information from current and future studies of the western gray whale population is considered in the study under this section, so as to better understand the dynamics of each population and to test different hypotheses that may lead to an increased understanding of the mechanism driving their respective population dynamics.
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     In addition to other amounts authorized under this title \[this note\], there are authorized to be appropriated to the Secretary to carry out this section—
 

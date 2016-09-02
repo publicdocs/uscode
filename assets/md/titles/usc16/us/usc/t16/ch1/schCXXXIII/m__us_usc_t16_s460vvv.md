@@ -115,15 +115,15 @@
 
 > “In this subtitle \[subtitle K (§§ 1801–1808) of title I of [Pub. L. 111–11][/us/pl/111/11], see References in Text note above\]:
 
->     “(1) __Forest.—__ 
+>     “(1)  __Forest__  __.—__ 
 
 >     The term ‘Forest’ means the Ancient Bristlecone Pine Forest designated by section 1808(a) \[[16 U.S.C. 539][/us/usc/t16/s539]o(a)\].
 
->     “(2) __Recreation area.—__ 
+>     “(2)  __Recreation area__  __.—__ 
 
 >     The term ‘Recreation Area’ means the Bridgeport Winter Recreation Area designated by section 1806(a) \[[16 U.S.C. 460vvv(a)][/us/usc/t16/s460vvv/a]\].
 
->     “(3) __Secretary.—__ 
+>     “(3)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means—
 
@@ -131,11 +131,11 @@
 
 >         “(B) with respect to land under the jurisdiction of the Secretary of the Interior, the Secretary of the Interior.
 
->     “(4) __State.—__ 
+>     “(4)  __State__  __.—__ 
 
 >     The term ‘State’ means the State of California.
 
->     “(5) __Trail.—__ 
+>     “(5)  __Trail__  __.—__ 
 
 >     The term ‘Trail’ means the Pacific Crest National Scenic Trail.”
 

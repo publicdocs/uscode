@@ -63,11 +63,11 @@
 
 [Pub. L. 109–58, title XII, § 1289(b)][/us/pl/109/58/s1289/b], (c), Aug. 8, 2005, [119 Stat. 983][/us/stat/119/983], provided that:
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall take effect 6 months after the date of enactment of this Act \[Aug. 8, 2005\].
 
->     “(c) __Transition Provision.—__ 
+>     “(c)  __Transition Provision__  __.—__ 
 
 >     The amendments made by subsection (a) \[amending this section\] shall not apply to any application under section 203 of the Federal Power Act ([16 U.S.C. 824b][/us/usc/t16/s824b]) that was filed on or before the date of enactment of this Act \[Aug. 8, 2005\].”
 

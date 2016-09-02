@@ -39,27 +39,27 @@
 
 >     “(a) __Acquisition of Land.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary may acquire the land or an interest in the land described in subsection (b) for addition to the Mesa Verde National Park.
 
->         “(2) __Means.—__ 
+>         “(2)  __Means__  __.—__ 
 
 >         An acquisition of land under paragraph (1) may be made by donation, purchase from a willing seller with donated or appropriated funds, or exchange.
 
->     “(b) __Description of Land.—__ 
+>     “(b)  __Description of Land__  __.—__ 
 
 >     The land referred to in subsection (a)(1) is the approximately 360 acres of land adjacent to the Park, as generally depicted on the map, entitled ‘Mesa Verde National Park Proposed Boundary Adjustment’, numbered 307/80,180, and dated March 1, 2007.
 
->     “(c) __Availability of Map.—__ 
+>     “(c)  __Availability of Map__  __.—__ 
 
 >     The map shall be on file and available for inspection in the appropriate offices of the National Park Service.
 
->     “(d) __Boundary Modification.—__ 
+>     “(d)  __Boundary Modification__  __.—__ 
 
 >     The boundary of the Park shall be revised to reflect the acquisition of the land under subsection (a).
 
->     “(e) __Administration.—__ 
+>     “(e)  __Administration__  __.—__ 
 
 >     The Secretary shall administer any land or interest in land acquired under subsection (a)(1) as part of the Park in accordance with the laws (including regulations) applicable to the Park.”
 

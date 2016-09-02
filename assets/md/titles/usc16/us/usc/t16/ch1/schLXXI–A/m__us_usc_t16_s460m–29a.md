@@ -27,15 +27,15 @@
 
 [Pub. L. 105–178, title I, § 1214(c)][/us/pl/105/178/s1214/c], June 9, 1998, [112 Stat. 205][/us/stat/112/205], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary shall allocate to the Secretary of the Interior amounts made available by this subsection for the planning, design, and construction of a visitor center, and such other related facilities as may be necessary, to facilitate visitor understanding and enjoyment of the scenic, historic, cultural, and recreational resources of the New River Gorge National River in the State of West Virginia. The center and related facilities shall be located at a site for which title is held by the United States in the vicinity of the I–64 Sandstone intersection.
 
->     “(2) __Authorization of appropriations.—__ 
+>     “(2)  __Authorization of appropriations__  __.—__ 
 
 >     There are authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) to carry out this subsection $1,300,000 for fiscal year 1998, $1,200,000 for fiscal year 1999, and $9,900,000 for fiscal year 2000.
 
->     “(3) __Applicability of title 23.—__ 
+>     “(3)  __Applicability of title 23__  __.—__ 
 
 >     Funds authorized by this subsection shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code; except that such funds shall remain available until expended.”
 

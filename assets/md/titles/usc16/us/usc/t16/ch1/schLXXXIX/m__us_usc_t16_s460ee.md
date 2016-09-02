@@ -63,7 +63,7 @@
 
         (7) The Secretary shall study the desirability and feasibility of reestablishing rail transportation on the abandoned O&W railbed or an alternative mode of transportation within the National Area upon the O&W roadbed, and shall report to Congress his recommendation with regard to development of this facility.
 
-        (8) __Improvement of charit creek lodge and historic structures.—__ 
+        (8)  __Improvement of charit creek lodge and historic structures__  __.—__ 
 
         The Secretary of the Interior may make improvements to the Charit Creek Lodge and associated facilities and to historic structures determined to be eligible for listing in the National Register of Historic Places. Such improvements shall be made in a manner consistent with the historic scene and the limited ability of the National Area to accommodate additional use and development. Improvements to the Charit Creek Lodge and associated facilities shall be made within the approximately 30 acres of cleared land existing on November 15, 1990, and within carrying capacity limitations determined by the National Park Service.
 

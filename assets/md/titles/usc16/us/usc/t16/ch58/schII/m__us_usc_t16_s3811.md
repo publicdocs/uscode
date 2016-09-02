@@ -107,11 +107,11 @@
 
 [Pub. L. 104–127, title III, § 317][/us/pl/104/127/s317], Apr. 4, 1996, [110 Stat. 986][/us/stat/110/986], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Agriculture shall conduct a pilot project to review, and modify as appropriate, the use of wind erosion factors under the highly erodible conservation requirements of subtitle B of title XII of the Food Security Act of 1985 ([16 U.S.C. 3811][/us/usc/t16/s3811] et seq.).
 
->     “(b) __Selection of Counties and Producers.—__ 
+>     “(b)  __Selection of Counties and Producers__  __.—__ 
 
 >     The pilot project shall be conducted for producers in those counties that—
 
@@ -121,7 +121,7 @@
 
 >         “(3) if the use of the land classification system under section 1201(a)(9)(A) of the Act \[[16 U.S.C. 3801(a)(9)(A)][/us/usc/t16/s3801/a/9/A]\] (as redesignated by section 301(a)(1)) may result in a more accurate delineation of the cropland.
 
->     “(c) __Errors in Delineation.—__ 
+>     “(c)  __Errors in Delineation__  __.—__ 
 
 >     If the Secretary determines that a significant error has occurred in delineating cropland under the pilot project, the Secretary shall, at the request of the owners or operators of the cropland, conduct a new delineation of the cropland using the most accurate available delineation process, as determined by the Secretary.”
 

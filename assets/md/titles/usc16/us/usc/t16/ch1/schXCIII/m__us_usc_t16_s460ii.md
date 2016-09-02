@@ -39,7 +39,7 @@
 
 [Pub. L. 106–154, § 1][/us/pl/106/154/s1], Dec. 9, 1999, [106 Stat. 1736][/us/stat/106/1736], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -59,7 +59,7 @@
 
 >         “(8) if Congress appropriates funds in support of the cooperative effort described in paragraph (7), funding from the State, political subdivisions of the State, private foundations, corporate entities, private individuals, and other sources will be available to fund more than half the estimated cost of the cooperative effort.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this Act \[amending this section and sections 460ii–1 to 460ii–5 of this title\] are—
 

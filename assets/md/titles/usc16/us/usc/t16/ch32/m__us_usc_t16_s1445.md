@@ -47,7 +47,7 @@
 
 [Pub. L. 102–587, title II, § 2201][/us/pl/102/587/s2201], Nov. 4, 1992, [106 Stat. 5047][/us/stat/106/5047], provided that:
 
->     “(a) __Acquisition of Space.—__ 
+>     “(a)  __Acquisition of Space__  __.—__ 
 
 >     Pursuant to section 314 of the Marine Protection, Research, and Sanctuaries Act of 1972 ([16 U.S.C. 1445][/us/usc/t16/s1445]) and consistent with the Cooperative Agreement entered into in October, 1989, between the National Oceanic and Atmospheric Administration and the Mariner’s Museum of Newport News, Virginia, the Secretary of Commerce shall make a grant for the acquisition of space in Hatteras Village, North Carolina, for—
 
@@ -55,11 +55,11 @@
 
 >         “(2) administration and operations of the Monitor National Marine Sanctuary.
 
->     “(b) __Authorization.—__ 
+>     “(b)  __Authorization__  __.—__ 
 
 >     To carry out the responsibilities of the Secretary of Commerce under this section, there are authorized to be appropriated to the Secretary of Commerce a total of $800,000 for fiscal years 1993 and 1994, to remain available until expended.
 
->     “(c) __Federal Share.—__ 
+>     “(c)  __Federal Share__  __.—__ 
 
 >     Not more than two-thirds of the cost of space acquired under this section may be paid with amounts provided pursuant to this section.”
 

@@ -381,11 +381,11 @@
 
 [Pub. L. 105–18, title II, § 3003][/us/pl/105/18/s3003], June 12, 1997, [111 Stat. 176][/us/stat/111/176], provided that:
 
->     “(a) __Consultation and Conferencing.—__ 
+>     “(a)  __Consultation and Conferencing__  __.—__ 
 
 >     As provided by regulations issued under the Endangered Species Act ([16 U.S.C. 1531][/us/usc/t16/s1531] et seq.) for emergency situations, formal consultation or conferencing under section 7(a)(2) or section 7(a)(4) of the Act \[[16 U.S.C. 1536(a)(2)][/us/usc/t16/s1536/a/2], (4)\] for any action authorized, funded or carried out by any Federal agency to repair a Federal or non-Federal flood control project, facility or structure may be deferred by the Federal agency authorizing, funding or carrying out the action, if the agency determines that the repair is needed to respond to an emergency causing an imminent threat to human lives and property in 1996 or 1997. Formal consultation or conferencing shall be deferred until the imminent threat to human lives and property has been abated. For purposes of this section, the term repair shall include preventive and remedial measures to restore the project, facility or structure to remove an imminent threat to human lives and property.
 
->     “(b) __Reasonable and Prudent Measures.—__ 
+>     “(b)  __Reasonable and Prudent Measures__  __.—__ 
 
 >     Any reasonable and prudent measures specified under section 7 of the Endangered Species Act ([16 U.S.C. 1536][/us/usc/t16/s1536]) to minimize the impact of an action taken under this section shall be related both in nature and extent to the effect of the action taken to repair the flood control project, facility or structure.”
 
@@ -393,7 +393,7 @@
 
 [Pub. L. 99–625, § 1][/us/pl/99/625/s1], Nov. 7, 1986, [100 Stat. 3500][/us/stat/100/3500], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
@@ -417,7 +417,7 @@
 
 >         “(7) The term ‘Service’ means the United States Fish and Wildlife Service.
 
->     “(b) __Plan Specifications.—__ 
+>     “(b)  __Plan Specifications__  __.—__ 
 
 >     The Secretary may develop and implement, in accordance with this section, a plan for the relocation and management of a population of California sea otters from the existing range of the parent population to another location. The plan, which must be developed by regulation and administered by the Service in cooperation with the appropriate State agency, shall include the following:
 
@@ -441,7 +441,7 @@
 
 >         “(6) A description of the relationship of the implementation of the plan to the status of the species under the Act and to determinations of the Secretary under section 7 of the Act \[[16 U.S.C. 1536][/us/usc/t16/s1536]\].
 
->     “(c) __Status of Members of the Experimental Population.—__ 
+>     “(c)  __Status of Members of the Experimental Population__  __.—__ 
 
 >         (1)
 
@@ -463,7 +463,7 @@
 
 >         “(2) For purposes of section 7 of the Act \[[16 U.S.C. 1536][/us/usc/t16/s1536]\], any member of the experimental population shall be treated while within the management zone as a member of a species that is proposed to be listed under section 4 of the Act \[[16 U.S.C. 1533][/us/usc/t16/s1533]\]. Section 9 of the Act \[[16 U.S.C. 1538][/us/usc/t16/s1538]\] applies to members of the experimental population; except that any incidental taking of such a member during the course of an otherwise lawful activity within the management zone, may not be treated as a violation of the Act or the Marine Mammal Protection Act of 1972 \[[16 U.S.C. 1361][/us/usc/t16/s1361] et seq.\].
 
->     “(d) __Implementation of Plan.—__ 
+>     “(d)  __Implementation of Plan__  __.—__ 
 
 >     The Secretary shall implement the plan developed under subsection (b)—
 
@@ -471,11 +471,11 @@
 
 >         “(2) if no consultation under section 7(a)(2) or (3) regarding any prospective action is initiated or requested by April 1, 1986, at any time after that date.
 
->     “(e) __Consultation and Effect of Opinion.—__ 
+>     “(e)  __Consultation and Effect of Opinion__  __.—__ 
 
 >     A Federal agency shall promptly consult with the Secretary, under section 7(a)(3) of the Act \[[16 U.S.C. 1536(a)(3)][/us/usc/t16/s1536/a/3]\], at the request of, and in cooperation with, any permit or license applicant regarding any prospective action. The time limitations applicable to consultations under section 7(a)(2) of the Act apply to consultations under the preceding sentence. In applying section 7(b)(3)(B) with respect to an opinion on a prospective action that is provided after consultation under section 7(a)(3), that opinion shall be treated as the opinion issued after consultation under section 7(a)(2) unless the Secretary finds, after notice and opportunity for comment in accordance with [section 553 of title 5][/us/usc/t5/s553], United States Code, that a significant change has been made with respect to the action or that a significant change has occurred regarding the information used during the initial consultation. The interested party may petition the Secretary to make a finding under the preceding sentence. The Secretary may implement any reasonable and prudent alternatives specified in any opinion referred to in this subsection through appropriate agreements with any such Federal agency, prospective permit or license applicant, or other interested party.
 
->     “(f) __Construction.—__ 
+>     “(f)  __Construction__  __.—__ 
 
 >     For purposes of implementing the plan, no act by the Service, an authorized State agency, or an authorized agent of the Service or such an agency with respect to a sea otter that is necessary to effect the relocation or management of any sea otter under the plan may be treated as a violation of any provision of the Act or the Marine Mammal Protection Act of 1972 ([16 U.S.C. 1361][/us/usc/t16/s1361] et seq.).”
 

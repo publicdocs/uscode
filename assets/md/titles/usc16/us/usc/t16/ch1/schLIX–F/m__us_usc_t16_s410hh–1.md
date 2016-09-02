@@ -49,27 +49,27 @@
 
 >         “(1) __Ratification.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The terms, conditions, procedures, covenants, reservations, and other provisions set forth in the document entitled ‘Agreement for the Sale, Purchase and Conveyance of Lands between the Heirs, Designees and/or Assigns of Palakia Melgenak and the United States of America’ (hereinafter referred to in this section as the ‘Agreement’), executed by its signatories, including the heirs, designees and/or assigns of Palakia Melgenak (hereinafter referred to in this section as the ‘Heirs’) effective on September 1, 1998 are authorized, ratified and confirmed, and set forth the obligations and commitments of the United States and all other signatories, as a matter of Federal law.
 
->             “(B) __Native allotment.—__ 
+>             “(B)  __Native allotment__  __.—__ 
 
 >             Notwithstanding any provision of law to the contrary, all lands described in section 2(c) of the Agreement for conveyance to the Heirs shall be deemed a replacement transaction under ‘An Act to relieve restricted Indians in the Five Civilized Tribes whose nontaxable lands are required for State, county or municipal improvements or sold to other persons or for other purposes’ ([25 U.S.C. 409a][/us/usc/t25/s409a], [46 Stat. 1471][/us/stat/46/1471]), as amended, and the Secretary shall convey such lands by a patent consistent with the terms of the Agreement and subject to the same restraints on alienation and tax-exempt status as provided for Native allotments pursuant to ‘An Act authorizing the Secretary of the Interior to allot homesteads to the natives of Alaska’ ([34 Stat. 197][/us/stat/34/197]) \[former [43 U.S.C. 270–1][/us/usc/t43/s270–1] to 270–3\], as amended, repealed by section 18(a) \[of\] the Alaska Native Claims Settlement Act ([85 Stat. 710][/us/stat/85/710]) \[[43 U.S.C. 1617(a)][/us/usc/t43/s1617/a]\], with a savings clause for applications pending on December 18, 1971.
 
->             “(C) __Land acquisition.—__ 
+>             “(C)  __Land acquisition__  __.—__ 
 
 >             Lands and interests in land acquired by the United States pursuant to the Agreement shall be administered by the Secretary of the Interior (hereinafter referred to as the ‘Secretary’) as part of the Katmai National Park, subject to the laws and regulations applicable thereto.
 
->         “(2) __Maps and deeds.—__ 
+>         “(2)  __Maps and deeds__  __.—__ 
 
 >         The maps and deeds set forth in the Agreement generally depict the lands subject to the conveyances, the retention of consultation rights, the conservation easement, the access rights, Alaska Native Allotment Act \[[34 Stat. 197][/us/stat/34/197]\] status, and the use and transfer restrictions.
 
->     “(b) __Katmai National Park and Preserve Wilderness.—__ 
+>     “(b)  __Katmai National Park and Preserve Wilderness__  __.—__ 
 
 >     Upon the date of closing of the conveyance of the approximately 10 acres of Katmai National Park Wilderness lands to be conveyed to the Heirs under the Agreement, the following lands shall hereby be designated part of the Katmai Wilderness as designated by section 701(4) of the Alaska National Interest Lands Conservation Act ([16 U.S.C. 1132][/us/usc/t16/s1132] note; [94 Stat. 2417][/us/stat/94/2417]):    “A strip of land approximately one half mile long and 165 feet wide lying within Section 1, Township 24 South, Range 33 West, Seward Meridian, Alaska, the center line of which is the center of the unnamed stream from its mouth at Geographic Harbor to the north line of said Section 1. Said unnamed stream flows from the unnamed lake located in Sections 25 and 26, Township 23 South, Range 33 West, Seward Meridian. This strip of land contains approximately 10 acres.
 
->     “(c) __Availability of Appropriation.—__ 
+>     “(c)  __Availability of Appropriation__  __.—__ 
 
 >     None of the funds appropriated in this Act or any other Act hereafter enacted for the implementation of the Agreement may be expended until the Secretary determines that the Heirs have signed a valid and full relinquishment and release of any and all claims described in section 2(d) of the Agreement.
 

@@ -83,11 +83,11 @@
 
 [Pub. L. 106–514, § 7][/us/pl/106/514/s7], Nov. 13, 2000, [114 Stat. 2397][/us/stat/114/2397], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Nov. 13, 2000\], the Secretary of the Interior shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives an economic assessment of the John H. Chafee Coastal Barrier Resources System.
 
->     “(b) __Required Elements.—__ 
+>     “(b)  __Required Elements__  __.—__ 
 
 >     The assessment shall consider the impact on Federal expenditures of the Coastal Barrier Resources Act ([16 U.S.C. 3501][/us/usc/t16/s3501] et seq.), including impacts resulting from the avoidance of Federal expenditures for—
 

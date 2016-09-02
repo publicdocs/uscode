@@ -59,21 +59,21 @@
 
 > “In this Act \[see Short Title of 2006 Amendment note above\]:
 
->     “(1) __Actual stamp.—__ 
+>     “(1)  __Actual stamp__  __.—__ 
 
 >     The term ‘actual stamp’ means a Federal migratory-bird hunting and conservation stamp required under the Act of March 16, 1934 ([16 U.S.C. 718a][/us/usc/t16/s718a] \[718\] et seq.) (popularly known as the ‘Duck Stamp Act’), that is printed on paper and sold through a means in use immediately before the date of enactment of this Act \[Aug. 3, 2006\].
 
 >     “(2) __Automated licensing system.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The term ‘automated licensing system’ means an electronic, computerized licensing system used by a State fish and wildlife agency to issue hunting, fishing, and other associated licenses and products.
 
->         “(B) __Inclusion.—__ 
+>         “(B)  __Inclusion__  __.—__ 
 
 >         The term ‘automated licensing system’ includes a point-of-sale, Internet, or telephonic system used for a purpose described in subparagraph (A).
 
->     “(3) __Electronic stamp.—__ 
+>     “(3)  __Electronic stamp__  __.—__ 
 
 >     The term ‘electronic stamp’ means an electronic version of an actual stamp that—
 
@@ -87,17 +87,17 @@
 
 >         “(E) is described in the State application approved by the Secretary under section 4(b).
 
->     “(4) __Secretary.—__ 
+>     “(4)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of the Interior.
 
 > “SEC. 4. __ELECTRONIC DUCK STAMP PILOT PROGRAM.__ 
 
->     “(a) __Requirement To Conduct Program.—__ 
+>     “(a)  __Requirement To Conduct Program__  __.—__ 
 
 >     The Secretary shall conduct a 3-year pilot program under which up to 15 States authorized by the Secretary may issue electronic stamps.
 
->     “(b) __Commencement and Duration of Program.—__ 
+>     “(b)  __Commencement and Duration of Program__  __.—__ 
 
 >     The Secretary shall—
 
@@ -105,17 +105,17 @@
 
 >         “(2) carry out the pilot program for 3 Federal migratory waterfowl hunting seasons.
 
->     “(c) __Consultation.—__ 
+>     “(c)  __Consultation__  __.—__ 
 
 >     The Secretary shall carry out the program in consultation with State management agencies.
 
 > “SEC. 5. __STATE APPLICATION.__ 
 
->     “(a) __Approval of Application Required.—__ 
+>     “(a)  __Approval of Application Required__  __.—__ 
 
 >     A State may not participate in the pilot program under this Act unless the Secretary has received and approved an application submitted by the State in accordance with this section.
 
->     “(b) __Contents of Application.—__ 
+>     “(b)  __Contents of Application__  __.—__ 
 
 >     The Secretary may not approve a State application unless the application contains—
 
@@ -133,7 +133,7 @@
 
 >         “(7) such other policies, procedures, and information as may be reasonably required by the Secretary.
 
->     “(c) __Publication of Deadlines, Eligibility Requirements, and Selection Criteria.—__ 
+>     “(c)  __Publication of Deadlines, Eligibility Requirements, and Selection Criteria__  __.—__ 
 
 >     Not later than 30 days before the date on which the Secretary begins accepting applications for participation in the pilot program, the Secretary shall publish—
 
@@ -145,7 +145,7 @@
 
 > “SEC. 6. __STATE OBLIGATIONS AND AUTHORITIES.__ 
 
->     “(a) __Delivery of Actual Stamp.—__ 
+>     “(a)  __Delivery of Actual Stamp__  __.—__ 
 
 >     The Secretary shall require that each individual to whom a State sells an electronic stamp under the pilot program shall receive an actual stamp—
 
@@ -155,7 +155,7 @@
 
 >     “(b) __Collection and Transfer of Electronic Stamp Revenue and Customer Information.—__ 
 
->         “(1) __Requirement to transmit.—__ 
+>         “(1)  __Requirement to transmit__  __.—__ 
 
 >         The Secretary shall require each State participating in the pilot program to collect and submit to the Secretary in accordance with this section—
 
@@ -165,7 +165,7 @@
 
 >             “(C) the amount of the Federal portion of any fee required by the agreement for each stamp sold.
 
->         “(2) __Time of transmittal.—__ 
+>         “(2)  __Time of transmittal__  __.—__ 
 
 >         The Secretary shall require the submission under paragraph (1) to be made with respect to sales of electronic stamps by a State occurring in a month—
 
@@ -173,25 +173,25 @@
 
 >             “(B) as otherwise specified in the application of the State approved by the Secretary under section 5.
 
->         “(3) __Additional fees not affected.—__ 
+>         “(3)  __Additional fees not affected__  __.—__ 
 
 >         This section shall not apply to the State portion of any fee collected by a State under subsection (c).
 
->     “(c) __Electronic Stamp Issuance Fee.—__ 
+>     “(c)  __Electronic Stamp Issuance Fee__  __.—__ 
 
 >     A State participating in the pilot program may charge a reasonable fee to cover costs incurred by the State and the Department of the Interior in issuing electronic stamps under the program, including costs of delivery of actual stamps.
 
->     “(d) __Duplicate Electronic Stamps.—__ 
+>     “(d)  __Duplicate Electronic Stamps__  __.—__ 
 
 >     A State participating in the pilot program may issue a duplicate electronic stamp to replace an electronic stamp issued by the State that is lost or damaged.
 
->     “(e) __Limitation on Authority To Require Purchase of State License.—__ 
+>     “(e)  __Limitation on Authority To Require Purchase of State License__  __.—__ 
 
 >     A State may not require that an individual purchase a State hunting license as a condition of issuing an electronic stamp under the pilot program.
 
 > “SEC. 7. __ELECTRONIC STAMP REQUIREMENTS; RECOGNITION OF ELECTRONIC STAMP.__ 
 
->     “(a) __Stamp Requirements.—__ 
+>     “(a)  __Stamp Requirements__  __.—__ 
 
 >     The Secretary shall require an electronic stamp issued by a State under the pilot program—
 
@@ -199,7 +199,7 @@
 
 >         “(2) to specify identifying features of the licensee that are adequate to enable Federal, State, and other law enforcement officers to identify the holder.
 
->     “(b) __Recognition of Electronic Stamp.—__ 
+>     “(b)  __Recognition of Electronic Stamp__  __.—__ 
 
 >     Any electronic stamp issued by a State under the pilot program shall, during the effective period of the electronic stamp—
 
@@ -209,7 +209,7 @@
 
 >         “(3) authorize the licensee to hunt migratory waterfowl in any other State, in accordance with the laws of the other State governing that hunting.
 
->     “(c) __Duration.—__ 
+>     “(c)  __Duration__  __.—__ 
 
 >     An electronic stamp issued by a State under the pilot program shall be valid for a period agreed to by the State and the Secretary, which shall not exceed 45 days.
 
@@ -229,7 +229,7 @@
 
 > “SEC. 9. __EVALUATION.__ 
 
->     “(a) __Evaluation.—__ 
+>     “(a)  __Evaluation__  __.—__ 
 
 >     The Secretary, in consultation with State fish and wildlife management agencies and appropriate stakeholders with expertise specific to the duck stamp program, shall evaluate the pilot program and determine whether the pilot program has provided a cost-effective and convenient means for issuing migratory-bird hunting and conservation stamps, including whether the program has—
 
@@ -241,7 +241,7 @@
 
 >         “(4) maintained adequate retail availability of the actual stamp.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     The Secretary shall submit to Congress a report on the findings of the Secretary under subsection (a).”
 

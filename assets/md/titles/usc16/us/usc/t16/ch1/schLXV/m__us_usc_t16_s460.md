@@ -45,17 +45,17 @@
 
 > “In this Act:
 
->     “(1) __Parkway.—__ 
+>     “(1)  __Parkway__  __.—__ 
 
 >     The term ‘Parkway’ means the Natchez Trace Parkway, Mississippi.
 
->     “(2) __Secretary.—__ 
+>     “(2)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of the Interior.
 
 > “SEC. 2. __BOUNDARY ADJUSTMENT AND LAND ACQUISITION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary shall adjust the boundary of the Parkway to include approximately—
 
@@ -63,15 +63,15 @@
 
 >         “(2) 80 acres of land, as generally depicted on the map entitled ‘Emerald Mound Development Concept Plan’, numbered 604–20042E and dated August 1987.
 
->     “(b) __Maps.—__ 
+>     “(b)  __Maps__  __.—__ 
 
 >     The maps referred to in subsection (a) shall be on file and available for public inspection in the office of the Director of the National Park Service.
 
->     “(c) __Acquisition.—__ 
+>     “(c)  __Acquisition__  __.—__ 
 
 >     The Secretary may acquire the land described in subsection (a) by donation, purchase with donated or appropriated funds, or exchange (including exchange with the State of Mississippi, local governments, and private persons).
 
->     “(d) __Administration.—__ 
+>     “(d)  __Administration__  __.—__ 
 
 >     Land acquired under this section shall be administered by the Secretary as part of the Parkway.
 

@@ -33,11 +33,11 @@
 
 > “SEC. 2. __DESIGNATION OF THE DANTE FASCELL VISITOR CENTER AT BISCAYNE NATIONAL PARK.__ 
 
->     “(a) __Designation.—__ 
+>     “(a)  __Designation__  __.—__ 
 
 >     The Biscayne National Park visitor center, located on the shore of Biscayne Bay on Convoy Point, Florida, is designated as the ‘Dante Fascell Visitor Center’.
 
->     “(b) __References.—__ 
+>     “(b)  __References__  __.—__ 
 
 >     Any reference in a law, map, regulation, document, paper, or other document of the United States to the Biscayne National Park visitor center shall be deemed to be a reference to the ‘Dante Fascell Visitor Center’.”
 

@@ -105,11 +105,11 @@
 
 [Pub. L. 110–234, title VIII, § 8401][/us/pl/110/234/s8401], May 22, 2008, [122 Stat. 1300][/us/stat/122/1300], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8401, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2061, provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Authorized producer price index.—__ 
+>         “(1)  __Authorized producer price index__  __.—__ 
 
 >         The term ‘authorized Producer Price Index’ includes—
 
@@ -121,7 +121,7 @@
 
 >             “(D) any other subsequent comparable index, as established by the Bureau of Labor Statistics of the Department of Labor and utilized by the Secretary of Agriculture.
 
->         “(2) __Qualifying contract.—__ 
+>         “(2)  __Qualifying contract__  __.—__ 
 
 >         The term ‘qualifying contract’ means a contract for the sale of timber on National Forest System land—
 
@@ -137,13 +137,13 @@
 
 >             “(F) that is not in breach or in default.
 
->         “(3) __Secretary.—__ 
+>         “(3)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of Agriculture, acting through the Chief of the Forest Service.
 
->     “(b) __Options for Qualifying Contracts.—__ 
+>     “(b)  __Options for Qualifying Contracts__  __.—__ 
 
->         “(1) __Cancellation or rate redetermination.—__ 
+>         “(1)  __Cancellation or rate redetermination__  __.—__ 
 
 >         Notwithstanding any other provision of law, if the rate at which a qualifying contract would be advertised as of the date of enactment of this Act \[June 18, 2008\] is at least 50 percent less than the sum of the original bid rates for all of the species of timber that are the subject of the qualifying contract, the Secretary may, at the sole discretion of the Secretary—
 
@@ -165,9 +165,9 @@
 
 >                 “(ii) the rate at which the qualifying contract would be advertised as of the date of enactment of this Act \[June 18, 2008\].
 
->         “(2) __Substitution of index.—__ 
+>         “(2)  __Substitution of index__  __.—__ 
 
->             “(A) __Substitution.—__ 
+>             “(A)  __Substitution__  __.—__ 
 
 >             Notwithstanding any other provision of law, the Secretary may, at the sole discretion of the Secretary, substitute the Producer Price Index specified in the qualifying contract of a timber purchaser if the timber purchaser identifies—
 
@@ -175,7 +175,7 @@
 
 >                 “(ii) a substitute index from an authorized Producer Price Index that more accurately represents the predominant product identified in clause (i) for which there is an index.
 
->             “(B) __Rate redetermination following substitution of index.—__ 
+>             “(B)  __Rate redetermination following substitution of index__  __.—__ 
 
 >             If the Secretary substitutes the Producer Price Index of a qualifying contract under subparagraph (A), the Secretary may, at the sole discretion of the Secretary, modify the qualifying contract to provide for—
 
@@ -183,7 +183,7 @@
 
 >                 “(ii) a rate redetermination under paragraph (1)(B).
 
->             “(C) __Limitation on market-related contract term addition; periodic payments.—__ 
+>             “(C)  __Limitation on market-related contract term addition; periodic payments__  __.—__ 
 
 >             Notwithstanding any other provision of law, if the Secretary substitutes the Producer Price Index of a qualifying contract under subparagraph (A), the Secretary may, at the sole discretion of the Secretary, modify the qualifying contract—
 
@@ -191,7 +191,7 @@
 
 >                 “(ii) to adjust the periodic payments required under the contract in accordance with applicable law and policies.
 
->         “(3) __Contracts using hardwood lumber index.—__ 
+>         “(3)  __Contracts using hardwood lumber index__  __.—__ 
 
 >         With respect to a qualifying contract using the hardwood commodity index referred to in subsection (a)(1)(B) for which the Secretary does not substitute the Producer Price Index under paragraph (2), the Secretary may, at the sole discretion of the Secretary—
 
@@ -199,13 +199,13 @@
 
 >             “(B) adjust the periodic payments required under the contract in accordance with applicable law and policies.
 
->     “(c) __Extension of Market-Related Contract Term Addition Time Limit for Certain Contracts.—__ 
+>     “(c)  __Extension of Market-Related Contract Term Addition Time Limit for Certain Contracts__  __.—__ 
 
 >     Notwithstanding any other provision of law, upon the written request of a timber purchaser, the Secretary may, at the sole discretion of the Secretary, modify a timber sale contract (including a qualifying contract) awarded to the purchaser before January 1, 2007, to adjust the term of the contract in accordance with the market-related contract term addition provision in the contract and section 223.52 of title 36, Code of Federal Regulations, as in effect on the date of the modification, except that the Secretary may add no more than 4 years to the original contract length.
 
->     “(d) __Effect of Options.—__ 
+>     “(d)  __Effect of Options__  __.—__ 
 
->         “(1) __No surrender of claims.—__ 
+>         “(1)  __No surrender of claims__  __.—__ 
 
 >         Operation of this section shall not have the effect of surrendering any claim by the United States against any timber purchaser that arose—
 
@@ -213,7 +213,7 @@
 
 >             “(B) under a timber sale contract, including a qualifying contract, before the date on which the Secretary adjusts the contract term under subsection (c).
 
->         “(2) __Release of liability.—__ 
+>         “(2)  __Release of liability__  __.—__ 
 
 >         In the written request for any option provided under subsections (b) and (c), a timber purchaser shall release the United States from all liability, including further consideration or compensation, resulting from—
 
@@ -221,7 +221,7 @@
 
 >             “(B) the modification of the term of a timber sale contract (including a qualifying contract) of the purchaser under subsection (c) or a determination by the Secretary not to provide the modification.
 
->         “(3) __Limitation.—__ 
+>         “(3)  __Limitation__  __.—__ 
 
 >         Subject to subsection (b)(1)(A), the cancellation of a qualifying contract by the Secretary under subsection (b)(1) shall release the timber purchaser from further obligation under the canceled contract.”
 

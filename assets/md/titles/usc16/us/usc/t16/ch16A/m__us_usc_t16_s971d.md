@@ -87,7 +87,7 @@
 
             (B) In identifying those Nations, the Secretary shall consider, based on the best available information, whether those Nations have measures in place for reporting, monitoring, and enforcement, and whether those measures diminish the effectiveness of any conservation recommendation.
 
-        (7) __Consultation.—__ 
+        (7)  __Consultation__  __.—__ 
 
         Not later than 30 days after a Nation is notified under paragraph (6), the President may enter into consultations with the Government of that Nation for the purpose of obtaining an agreement that will—
 

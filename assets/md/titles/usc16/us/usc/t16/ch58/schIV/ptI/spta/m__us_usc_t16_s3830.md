@@ -85,7 +85,7 @@
 
 [Pub. L. 106–224, title II, § 211][/us/pl/106/224/s211], June 20, 2000, [114 Stat. 406][/us/stat/114/406], as amended by [Pub. L. 107–171, title II, § 2503(b)(1)(B)][/us/pl/107/171/s2503/b/1/B], May 13, 2002, [116 Stat. 269][/us/stat/116/269], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary shall use $40,000,000 of funds of the Commodity Credit Corporation to provide financial assistance to farmers and ranchers to—
 
@@ -95,11 +95,11 @@
 
 >         “(3) make beneficial, cost-effective changes to cropping systems, grazing management, manure, nutrient, pest, or irrigation management, land uses, or other measures needed to conserve and improve soil, water, and related natural resources.
 
->     “(b) __Type of Assistance.—__ 
+>     “(b)  __Type of Assistance__  __.—__ 
 
 >     Assistance under this section may be made in the form of cost share payments or incentive payments, as determined by the Secretary.
 
->     “(c) __Areas.—__ 
+>     “(c)  __Areas__  __.—__ 
 
 >     The Secretary shall provide assistance under this section to areas that are not designated under section 1230(c) of the Food Security Act of 1985 (\[former\] [16 U.S.C. 3830(c)][/us/usc/t16/s3830/c]).”
 

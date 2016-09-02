@@ -21,11 +21,11 @@
 
         (2) __Boundaries.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided in subparagraph (B), the boundaries of the scenic area shall be generally depicted on the map entitled “Boundary Map, Columbia River Gorge National Scenic Area,” numbered NSA–001 sheets 1 and 2, and dated September 1986, which shall be on file and available for public inspection in the offices of the Commission and of the Chief, Forest Service.
 
-            (B) __Exclusions.—__ 
+            (B)  __Exclusions__  __.—__ 
 
             The scenic area shall not include the approximately 29 acres of land owned by the Port of Camas-Washougal in the South ½ of Section 16, Township 1 North, Range 4 East, and the North ½ of Section 21, Township 1 North, Range 4 East, Willamete  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Willamette”. </sup></sup>  Meridian, Clark County, Washington, that consists of—
 
@@ -45,7 +45,7 @@
 
             (B) shall include all islands within the boundaries of the scenic area.
 
-        (3) __Modification of boundaries.—__ 
+        (3)  __Modification of boundaries__  __.—__ 
 
         The boundaries of the special management areas are modified as depicted on a map dated September 20, 2000, which shall be on file and available for public inspection in the office of the Chief of the Forest Service in Washington, District of Columbia, and copies shall be available in the office of the Commission, and the headquarters of the scenic area.
 

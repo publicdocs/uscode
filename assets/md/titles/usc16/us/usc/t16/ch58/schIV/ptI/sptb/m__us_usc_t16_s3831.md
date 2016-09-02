@@ -211,11 +211,11 @@
 
 [Pub. L. 107–171, title II, § 2101(b)][/us/pl/107/171/s2101/b], May 13, 2002, [116 Stat. 252][/us/stat/116/252], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than 18 months after the date of enactment of this Act \[May 13, 2002\], the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the economic and social effects on rural communities resulting from the conservation reserve program established under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3831][/us/usc/t16/s3831] et seq.).
 
->     “(2) __Components.—__ 
+>     “(2)  __Components__  __.—__ 
 
 >     The study under paragraph (1) shall include analyses of—
 

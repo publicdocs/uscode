@@ -215,11 +215,11 @@
 
 >     “(a) __Appointments.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         As soon as practicable after the date of enactment of this Act \[Dec. 8, 2004\], the President shall submit to the Senate nominations of six persons to serve as members of the Board of Directors of the Tennessee Valley Authority in addition to the members serving on the date of enactment of this Act.
 
->         “(2) __Initial terms.—__ 
+>         “(2)  __Initial terms__  __.—__ 
 
 >         Notwithstanding section 2(d) of the Tennessee Valley Authority Act of 1933 \[[16 U.S.C. 831a(d)][/us/usc/t16/s831a/d]\] (as amended by this title), in making the appointments under paragraph (1), the President shall appoint—
 
@@ -229,7 +229,7 @@
 
 >             “(C) two members for a term to expire on May 18, 2011.
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     The amendments made by this title \[enacting this section, amending sections 831, 831b, 831c, 831c–3, 831d, 831e, 831g, 831h, 831k, 831l, 831n, 831o, 831q, and 831w of this title and sections 5314 and 5315 of Title 5, Government Organization and Employees, and repealing prior [section 831a of this title][/us/usc/t16/s831a]\] take effect on the later of—
 
@@ -237,15 +237,15 @@
 
 >         “(2) May 18, 2005.
 
->     “(c) __Selection of Chairman.—__ 
+>     “(c)  __Selection of Chairman__  __.—__ 
 
 >     The Board of Directors of the Tennessee Valley Authority shall select one of the members to act as chairman of the Board not later than 30 days after the effective date specified in subsection (b).
 
->     “(d) __Conflict-of-Interest Policy.—__ 
+>     “(d)  __Conflict-of-Interest Policy__  __.—__ 
 
 >     The Board of Directors of the Tennessee Valley Authority shall adopt and submit to Congress a conflict-of-interest policy, as required by section 2(g)(1)(E) of the Tennessee Valley Authority Act of 1933 \[[16 U.S.C. 831a(g)(1)(E)][/us/usc/t16/s831a/g/1/E]\] (as amended by this title), as soon as practicable after the effective date specified in subsection (b).
 
->     “(e) __Transition.—__ 
+>     “(e)  __Transition__  __.—__ 
 
 >     A person who is serving as a member of the board of directors of the Tennessee Valley Authority on the date of enactment of this Act \[Dec. 8, 2004\]—
 

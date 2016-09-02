@@ -41,11 +41,11 @@
 
 [Pub. L. 105–391, title IV, § 419][/us/pl/105/391/s419], Nov. 13, 1998, [112 Stat. 3517][/us/stat/112/3517], provided that:
 
->     “(a) __Treatment of Glacier Bay Concession Permits Prospectus.—__ 
+>     “(a)  __Treatment of Glacier Bay Concession Permits Prospectus__  __.—__ 
 
 >     Nothing contained in this title \[see Short Title note set out under [section 5901 of this title][/us/usc/t16/s5901]\] shall authorize or require the Secretary to withdraw, revise, amend, modify, or reissue the February 19, 1998, Prospectus Under Which Concession Permits Will be Open for Competition for the Operation of Cruise Ship Services Within Glacier Bay National Park and Preserve (in this section referred to as the ‘1998 Glacier Bay Prospectus’). The award of concession permits pursuant to the 1998 Glacier Bay Prospectus shall be under provisions of existing law at the time the 1998 Glacier Bay Prospectus was issued.
 
->     “(b) __Preferential Right of Renewal.—__ 
+>     “(b)  __Preferential Right of Renewal__  __.—__ 
 
 >     Notwithstanding any provision of this title, the Secretary, in awarding future Glacier Bay cruise ship concession permits covering cruise ship entries for which a preferential right of renewal existed prior to the effective date of this title \[probably means the date of enactment of title IV of [Pub. L. 105–391][/us/pl/105/391], which was approved Nov. 13, 1998\], shall provide for such cruise ship entries a preferential right of renewal, as described in subparagraphs (C) and (D) of section 403(7) \[[16 U.S.C. 5952(7)(C)][/us/usc/t16/s5952/7/C], (D)\]. Any Glacier Bay concession permit awarded under the authority contained in this subsection shall expire by December 31, 2009.”
 

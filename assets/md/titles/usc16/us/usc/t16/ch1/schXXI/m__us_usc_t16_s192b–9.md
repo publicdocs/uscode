@@ -55,11 +55,11 @@
 
 [Pub. L. 104–333, div. I, title IV, § 408(b)][/us/pl/104/333/s408/b], Nov. 12, 1996, [110 Stat. 4153][/us/stat/110/4153], provided that:
 
->     “(1) __Lands inside rocky mountain national park.—__ 
+>     “(1)  __Lands inside rocky mountain national park__  __.—__ 
 
 >     Promptly following enactment of this Act \[Nov. 12, 1996\], the Secretary of the Interior shall seek to acquire by donation or exchange those lands within the boundaries of Rocky Mountain National Park owned by the city of Longmont, Colorado, that are referred to in section 111(d) of the Act commonly referred to as the ‘Colorado Wilderness Act of 1980’ ([Public Law 96–560][/us/pl/96/560]; [94 Stat. 3272][/us/stat/94/3272]; [16 U.S.C. 192b–9(d)][/us/usc/t16/s192b–9/d]).
 
->     “(2) __Other lands.—__ 
+>     “(2)  __Other lands__  __.—__ 
 
 >     The Secretary of Agriculture shall immediately and actively pursue negotiations with the city of Longmont, Colorado, concerning the city’s proposed exchange of lands owned by the city and located in and near Coulson Gulch for other lands owned by the United States. The Secretary shall report to Congress 2 calendar years after the date of enactment of this Act \[Nov. 12, 1996\], and every 2 years thereafter on the progress of such negotiations until negotiations are complete.”
 

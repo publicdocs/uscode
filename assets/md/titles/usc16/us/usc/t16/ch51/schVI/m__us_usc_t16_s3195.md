@@ -23,11 +23,11 @@
 
 [Pub. L. 99–664, § 11][/us/pl/99/664/s11], Nov. 17, 1986, [100 Stat. 4308][/us/stat/100/4308], provided that:
 
->     “(a) __Authorization.—__ 
+>     “(a)  __Authorization__  __.—__ 
 
 >     There is hereby authorized to be appropriated $250,000 to be used by the Secretary of Agriculture to conduct surveys, develop designs, and carry out other preliminary work related to the establishment of an Information and Education Center provided for in [section 1305 of Public Law 96–487][/us/pl/96/487/s1305] \[[16 U.S.C. 3195][/us/usc/t16/s3195]\].
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of the Center authorized by subsection (a) shall be—
 
@@ -37,19 +37,19 @@
 
 >         “(3) to foster educational programs relating to the heritage resources of Alaska including those pertaining to Alaska Native peoples with particular emphasis on the Haida, Tshimshian, and Tglingit peoples of Southeast Alaska.
 
->     “(c) __Design.—__ 
+>     “(c)  __Design__  __.—__ 
 
 >     Design of the center in subsection (a) shall be developed in consultation with other appropriate Federal agencies, the Alaska Division of Tourism and other appropriate agencies of the State of Alaska, the local government of the city in which such center is to be located, and southeast Alaska Native organizations.
 
->     “(d) __Consultation.—__ 
+>     “(d)  __Consultation__  __.—__ 
 
 >     In establishing, operating, and maintaining the center (and any affiliated branches), the Secretary of Agriculture shall consult with, in addition to those listed in subsection (c), Alaska colleges and universities, the National Historic Association of Alaska, the Alaska Federation of Natives, and appropriate individuals and other organizations concerned with the diverse heritage resources of Alaska.
 
->     “(e) __Cooperative Agreements.—__ 
+>     “(e)  __Cooperative Agreements__  __.—__ 
 
 >     The Secretary of Agriculture is authorized to enter into cooperative agreements with those individuals and organizations listed in subsections (c) and (d) to facilitate carrying out the purposes of the Center.
 
->     “(f) __Development Plan.—__ 
+>     “(f)  __Development Plan__  __.—__ 
 
 >     Within one year after the date of enactment of this Act \[Nov. 17, 1986\], and after consultation with the individuals and organizations listed in subsections (c) and (d), the Secretary of Agriculture shall submit to Congress a development plan for the Center along with an estimate of the cost.”
 

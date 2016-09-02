@@ -31,11 +31,11 @@
 
         (3)
 
-            (A) __Conservation security program.—__ 
+            (A)  __Conservation security program__  __.—__ 
 
             The conservation security program under subpart A of part II, using such sums as are necessary to administer contracts entered into before September 30, 2008.
 
-            (B) __Conservation stewardship program.—__ 
+            (B)  __Conservation stewardship program__  __.—__ 
 
             The conservation stewardship program under subpart B of part II.
 

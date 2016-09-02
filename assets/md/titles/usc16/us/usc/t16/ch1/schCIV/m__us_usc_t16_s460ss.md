@@ -47,11 +47,11 @@
 
 [Pub. L. 109–479, title I, § 113(b)][/us/pl/109/479/s113/b], Jan. 12, 2007, [120 Stat. 3602][/us/stat/120/3602], provided that:
 
->     “(1) __Recovery plan.—__ 
+>     “(1)  __Recovery plan__  __.—__ 
 
 >     Not later than 6 months after the date of enactment of this Act \[Jan. 12, 2007\], the Secretary of Commerce shall complete a recovery plan for Klamath River Coho salmon and make it available to the public.
 
->     “(2) __Annual report.—__ 
+>     “(2)  __Annual report__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act, and annually thereafter, the Secretary of Commerce shall submit a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Resources \[now Committee on Natural Resources\] on—
 

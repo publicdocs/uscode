@@ -155,7 +155,7 @@
 
 > “SEC. 603. __ASSESSMENTS.__ 
 
->     “(a) __Establishment of Inter-Agency Task Force.—__ 
+>     “(a)  __Establishment of Inter-Agency Task Force__  __.—__ 
 
 >     The President, through the Committee on Environment and Natural Resources of the National Science and Technology Council, shall establish an Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia (hereinafter referred to as the ‘Task Force’). The Task Force shall consist of the following representatives from—
 
@@ -211,11 +211,11 @@
 
 >     “(d) __Report to Congress on Harmful Algal Bloom Impacts.—__ 
 
->         “(1) __Development.—__ 
+>         “(1)  __Development__  __.—__ 
 
 >         Not later than 12 months after the date of enactment of the Harmful Algal Bloom and Hypoxia Amendments Act of 2004 \[Dec. 10, 2004\], the President, in consultation with the chief executive officers of the States, shall develop and submit to the Congress a report that describes and evaluates the effectiveness of measures described in paragraph (2) that may be utilized to protect environmental and public health from impacts of harmful algal blooms. In developing the report, the President shall consult with the Task Force, the coastal States, Indian tribes, local governments, appropriate industries (including fisheries, agriculture, and fertilizer), academic institutions, and nongovernmental organizations with expertise in coastal zone science and management, and also consider the scientific assessments developed under this Act.
 
->         “(2) __Requirements.—__ 
+>         “(2)  __Requirements__  __.—__ 
 
 >         The report shall—
 
@@ -225,21 +225,21 @@
 
 >             “(C) include incentive-based partnership approaches regarding subparagraphs (A) and (B) where practicable.
 
->         “(3) __Publication and opportunity for comment.—__ 
+>         “(3)  __Publication and opportunity for comment__  __.—__ 
 
 >         At least 90 days before submitting the report to the Congress, the President shall cause a summary of the proposed plan to be published in the Federal Register for a public comment period of not less than 60 days.
 
->         “(4) __Federal assistance.—__ 
+>         “(4)  __Federal assistance__  __.—__ 
 
 >         The Secretary of Commerce, in coordination with the Task Force and to the extent of funds available, shall provide for Federal cooperation with and assistance to the coastal States, Indian tribes, and local governments regarding the measures described in paragraph (2), as requested.
 
 >     “(e) __Local and Regional Scientific Assessments.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Commerce, in coordination with the Task Force and appropriate State, Indian tribe, and local governments, to the extent of funds available, shall provide for local and regional scientific assessments of hypoxia and harmful algal blooms, as requested by States, Indian tribes, and local governments, or for affected areas as identified by the Secretary. If the Secretary receives multiple requests, the Secretary shall ensure, to the extent practicable, that assessments under this subsection cover geographically and ecologically diverse locations with significant ecological and economic impacts from hypoxia or harmful algal blooms. The Secretary shall establish a procedure for reviewing requests for local and regional assessments. The Secretary shall ensure, through consultation with Sea Grant Programs, that the findings of the assessments are communicated to the appropriate State, Indian tribe, and local governments, and to the general public.
 
->         “(2) __Purpose.—__ 
+>         “(2)  __Purpose__  __.—__ 
 
 >         Local and regional assessments shall examine—
 
@@ -249,7 +249,7 @@
 
 >             “(C) other topics the Task Force considers appropriate.
 
->     “(f) __Scientific Assessment of Freshwater Harmful Algal Blooms.—__ 
+>     “(f)  __Scientific Assessment of Freshwater Harmful Algal Blooms__  __.—__ 
 
 >         (1) Not later than 24 months after the date of enactment of the Harmful Algal Bloom and Hypoxia Amendments Act of 2004 \[Dec. 10, 2004\] the Task Force shall complete and submit to Congress a scientific assessment of current knowledge about harmful algal blooms in freshwater, such as the Great Lakes and upper reaches of estuaries, including a research plan for coordinating Federal efforts to better understand freshwater harmful algal blooms.
 
@@ -263,7 +263,7 @@
 
 >             “(C) identify ways to improve coordination and to prevent unnecessary duplication of effort among Federal agencies and departments with respect to research on harmful algal blooms in freshwater locations.
 
->     “(g) __Scientific Assessments of Hypoxia.—__ 
+>     “(g)  __Scientific Assessments of Hypoxia__  __.—__ 
 
 >         (1) Not less than once every 5 years the Task Force shall complete and submit to the Congress a scientific assessment of hypoxia in United States coastal waters including the Great Lakes. The first such assessment shall be completed not less than 24 months after the date of enactment of the Harmful Algal Bloom and Hypoxia Amendments Act of 2004 \[Dec. 10, 2004\].
 
@@ -279,7 +279,7 @@
 
 >             “(D) identify ways to improve coordination and to prevent unnecessary duplication of effort among Federal agencies and departments with respect to research on hypoxia.
 
->     “(h) __Scientific Assessments of Harmful Algal Blooms.—__ 
+>     “(h)  __Scientific Assessments of Harmful Algal Blooms__  __.—__ 
 
 >         (1) Not less than once every 5 years the Task Force shall complete and submit to Congress a scientific assessment of harmful algal blooms in United States coastal waters. The first such assessment shall be completed not later than 24 months after the date of enactment of the Harmful Algal Bloom and Hypoxia Amendments Act of 2004 \[Dec. 10, 2004\] and shall consider only marine harmful algal blooms. All subsequent assessments shall examine both marine and freshwater harmful algal blooms, including those in the Great Lakes and upper reaches of estuaries.
 
@@ -295,7 +295,7 @@
 
 >             “(D) identify ways to improve coordination and to prevent unnecessary duplication of effort among Federal agencies and departments with respect to research on harmful algal blooms.
 
->     “(i) __National Scientific Research, Development, Demonstration, and Technology Transfer Plan on Reducing Impacts From Harmful Algal Blooms.—__ 
+>     “(i)  __National Scientific Research, Development, Demonstration, and Technology Transfer Plan on Reducing Impacts From Harmful Algal Blooms__  __.—__ 
 
 >         (1) Not later than 12 months after the date of enactment of the Harmful Algal Bloom and Hypoxia Amendments Act of 2004 \[Dec. 10, 2004\], the Task Force shall develop and submit to Congress a plan providing for a comprehensive and coordinated national research program to develop and demonstrate prevention, control, and mitigation methods to reduce the impacts of harmful algal blooms on coastal ecosystems (including the Great Lakes), public health, and the economy.
 
@@ -313,11 +313,11 @@
 
 > “SEC. 604. __NORTHERN GULF OF MEXICO HYPOXIA.__ 
 
->     “(a) __Assessment Report.—__ 
+>     “(a)  __Assessment Report__  __.—__ 
 
 >     Not later than May 30, 1999, the Task Force shall complete and submit to Congress and the President an integrated assessment of hypoxia in the northern Gulf of Mexico that examines: the distribution, dynamics, and causes; ecological and economic consequences; sources and loads of nutrients transported by the Mississippi River to the Gulf of Mexico; effects of reducing nutrient loads; methods for reducing nutrient loads; and the social and economic costs and benefits of such methods.
 
->     “(b) __Submission of a Plan.—__ 
+>     “(b)  __Submission of a Plan__  __.—__ 
 
 >     No later than March 30, 2000, the President, in conjunction with the chief executive officers of the States, shall develop and submit to Congress a plan, based on the integrated assessment submitted under subsection (a), for reducing, mitigating, and controlling hypoxia in the northern Gulf of Mexico. In developing such plan, the President shall consult with State, Indian tribe, and local governments, academic, agricultural, industry, and environmental groups and representatives. Such plan shall include incentive-based partnership approaches. The plan shall also include the social and economic costs and benefits of the measures for reducing, mitigating, and controlling hypoxia. At least 90 days before the President submits such plan to the Congress, a summary of the proposed plan shall be published in the Federal Register for a public comment period of not less than 60 days.
 
@@ -347,7 +347,7 @@
 
 [Pub. L. 101–508, title VI, § 6202][/us/pl/101/508/s6202], Nov. 5, 1990, [104 Stat. 1388–299][/us/stat/104/1388-299], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds and declares the following:
 
@@ -369,7 +369,7 @@
 
 >         “(9) All coastal States should have coastal zone management programs in place that conform to the Coastal Zone Management Act of 1972, as amended by this Act.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     It is the purpose of Congress in this subtitle \[see Short Title of 1990 Amendment note above\] to enhance the effectiveness of the Coastal Zone Management Act of 1972 \[[16 U.S.C. 1451][/us/usc/t16/s1451] et seq.\] by increasing our understanding of the coastal environment and expanding the ability of State coastal zone management programs to address coastal environmental problems.”
 

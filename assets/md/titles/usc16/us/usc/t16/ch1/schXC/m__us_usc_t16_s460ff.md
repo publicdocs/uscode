@@ -27,11 +27,11 @@
 
 [Pub. L. 106–291, title I, § 149(a)][/us/pl/106/291/s149/a], (b), Oct. 11, 2000, [114 Stat. 956][/us/stat/114/956], provided that:
 
->     “(a) __Redesignation.—__ 
+>     “(a)  __Redesignation__  __.—__ 
 
 >     The Cuyahoga Valley National Recreation Area is redesignated as Cuyahoga Valley National Park.
 
->     “(b) __References.—__ 
+>     “(b)  __References__  __.—__ 
 
 >     Any reference in a law, map, regulation, document, paper, or other record of the United States to the Cuyahoga Valley National Recreation Area is deemed to be a reference to Cuyahoga Valley National Park.”
 

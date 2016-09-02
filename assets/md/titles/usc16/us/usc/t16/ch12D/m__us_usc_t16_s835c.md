@@ -59,9 +59,9 @@
 
 [Pub. L. 85–240][/us/pl/85/240], Aug. 30, 1957, [71 Stat. 524][/us/stat/71/524], provided:
 
-> “\[Sec. 1. __Purpose Lands Included\]. That it is the purpose of this Act, in connection with the Columbia Basin project, to authorize the disposal of certain Federal property in the unincorporated area in the State of Washington commonly known as the town of Coulee Dam in order that the United States may withdraw from the ownership and operation of the town and that the people of that area may enjoy self-government, to facilitate the establishment by them of a municipal corporation under the laws of the State of Washington, and to authorize the disposal of certain Federal property in and in the immediate vicinity of the city of Grand Coulee, Washington, in order to reduce restrictions on the growth thereof. The area herein referred to as the town area is situated in Douglas, Grant, and Okanogan counties and comprises the following lands:__ 
+> “\[Sec. 1.  __Purpose Lands Included\]__  __.__ 
 
->     “Douglas County: Township 29 north, range 30 east, Willamette meridian, section 36, lots 2, 3, 4, east half southwest quarter and southwest quarter southwest quarter.
+>  That it is the purpose of this Act, in connection with the Columbia Basin project, to authorize the disposal of certain Federal property in the unincorporated area in the State of Washington commonly known as the town of Coulee Dam in order that the United States may withdraw from the ownership and operation of the town and that the people of that area may enjoy self-government, to facilitate the establishment by them of a municipal corporation under the laws of the State of Washington, and to authorize the disposal of certain Federal property in and in the immediate vicinity of the city of Grand Coulee, Washington, in order to reduce restrictions on the growth thereof. The area herein referred to as the town area is situated in Douglas, Grant, and Okanogan counties and comprises the following lands:    “Douglas County: Township 29 north, range 30 east, Willamette meridian, section 36, lots 2, 3, 4, east half southwest quarter and southwest quarter southwest quarter.
 
 >     “Grant County: Township 28 north, range 30 east, Willamette meridian, section 1, lots 1 and 2.
 

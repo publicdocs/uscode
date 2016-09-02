@@ -43,7 +43,7 @@
 
 > “SEC. 2. __FINDINGS AND PURPOSE.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds the following:
 
@@ -59,53 +59,53 @@
 
 >         “(6) The Gateway Visitor Center Corporation, a nonprofit organization, has been established to raise funds for and cooperate in a program to design, develop, construct, and operate the proposed Gateway Visitor Center.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of this Act is to authorize the Secretary of the Interior to enter into a cooperative agreement with the Gateway Visitor Center Corporation to construct and operate a regional visitor center on Independence Mall.
 
 > “SEC. 3. __GATEWAY VISITOR CENTER AUTHORIZATION.__ 
 
->     “(a) __Agreement.—__ 
+>     “(a)  __Agreement__  __.—__ 
 
 >     The Secretary of the Interior, in administering the Independence National Historical Park, may enter into an agreement under appropriate terms and conditions with the Gateway Visitor Center Corporation (a nonprofit corporation established under the laws of the Commonwealth of Pennsylvania) to facilitate the construction and operation of a regional Gateway Visitor Center on Independence Mall.
 
->     “(b) __Operations of Center.—__ 
+>     “(b)  __Operations of Center__  __.—__ 
 
 >     The Agreement shall authorize the Corporation to operate the Center in cooperation with the Secretary and to provide at the Center information, interpretation, facilities, and services to visitors to Independence National Historical Park, its surrounding historic sites, the City of Philadelphia, and the region, in order to assist in their enjoyment of the historic, cultural, educational, and recreational resources of the greater Philadelphia area.
 
->     “(c) __Management-Related Activities.—__ 
+>     “(c)  __Management-Related Activities__  __.—__ 
 
 >     The Agreement shall authorize the Secretary to undertake at the Center activities related to the management of Independence National Historical Park, including, but not limited to, provision of appropriate visitor information and interpretive facilities and programs related to Independence National Historical Park.
 
->     “(d) __Activities of Corporation.—__ 
+>     “(d)  __Activities of Corporation__  __.—__ 
 
 >     The Agreement shall authorize the Corporation, acting as a private nonprofit organization, to engage in activities appropriate for operation of a regional visitor center that may include, but are not limited to, charging fees, conducting events, and selling merchandise, tickets, and food to visitors to the Center.
 
->     “(e) __Use of Revenues.—__ 
+>     “(e)  __Use of Revenues__  __.—__ 
 
 >     Revenues from activities engaged in by the Corporation shall be used for the operation and administration of the Center.
 
->     “(f) __Protection of Park.—__ 
+>     “(f)  __Protection of Park__  __.—__ 
 
 >     Nothing in this section authorizes the Secretary or the Corporation to take any actions in derogation of the preservation and protection of the values and resources of Independence National Historical Park.
 
->     “(g) __Definitions.—__ 
+>     “(g)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Agreement.—__ 
+>         “(1)  __Agreement__  __.—__ 
 
 >         The term ‘Agreement’ means an agreement under this section between the Secretary and the Corporation.
 
->         “(2) __Center.—__ 
+>         “(2)  __Center__  __.—__ 
 
 >         The term ‘Center’ means a Gateway Visitor Center constructed and operated in accordance with the Agreement.
 
->         “(3) __Corporation.—__ 
+>         “(3)  __Corporation__  __.—__ 
 
 >         The term ‘Corporation’ means the Gateway Visitor Center Corporation (a nonprofit corporation established under the laws of the Commonwealth of Pennsylvania).
 
->         “(4) __Secretary.—__ 
+>         “(4)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of the Interior.”
 

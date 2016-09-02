@@ -45,21 +45,21 @@
 
 > “As used in this title:
 
->     “(1) __Corporation.—__ 
+>     “(1)  __Corporation__  __.—__ 
 
 >     The term ‘Corporation’ means the Howard Hughes Corporation, an affiliate of the Rouse Company, with its principal place of business at 10000 West Charleston Boulevard, Las Vegas, Nevada.
 
->     “(2) __Red rock canyon.—__ 
+>     “(2)  __Red rock canyon__  __.—__ 
 
 >     The term ‘Red Rock Canyon’ means the Red Rock Canyon National Conservation Area, consisting of approximately 195,780 acres of public lands in Clark County, Nevada, specially designated for protection in the Red Rock Canyon National Conservation Area Establishment Act of 1990 ([16 U.S.C. 460ccc][/us/usc/t16/s460ccc] et seq.), as depicted on the Red Rock Canyon Map.
 
->     “(3) __Red rock canyon map.—__ 
+>     “(3)  __Red rock canyon map__  __.—__ 
 
 >     The term ‘Red Rock Canyon Map’ means the map entitled ‘Southern Nevada Public Land Management Act’, dated October 1, 2002.
 
 > “SEC. 103. __FINDINGS AND PURPOSES.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress makes the following findings:
 
@@ -73,7 +73,7 @@
 
 >         “(5) The Corporation has volunteered to forgo development of the high-ground lands, and proposes that the United States acquire title to the lands so that they can be preserved in perpetuity to protect and expand Red Rock Canyon.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this title are:
 
@@ -85,7 +85,7 @@
 
 > “SEC. 104. __RED ROCK CANYON LAND EXCHANGE.__ 
 
->     “(a) __Acquisition Requirement.—__ 
+>     “(a)  __Acquisition Requirement__  __.—__ 
 
 >     If the Corporation offers to convey to the United States all right, title, and interest in and to the approximately 1,082 acres of non-Federal land owned by the Corporation and depicted on the Red Rock Canyon Map as ‘Offered Lands proposed addition to the Red Rock Canyon NCA’, the Secretary shall accept such offer on behalf of the United States, and not later than 90 days after the date of the offer, except as otherwise provided in this title, shall make the following conveyances:
 
@@ -93,25 +93,25 @@
 
 >         “(2) To Clark County, Nevada, the approximately 1,221 acres of Federal lands depicted on the Red Rock Canyon Map as ‘Proposed BLM transfer for county park’.
 
->     “(b) __Simultaneous Conveyances.—__ 
+>     “(b)  __Simultaneous Conveyances__  __.—__ 
 
 >     Title to the private property and the Federal property to be conveyed pursuant to this section shall be conveyed at the same time.
 
->     “(c) __Map.—__ 
+>     “(c)  __Map__  __.—__ 
 
 >     The Secretary shall keep the Red Rock Canyon Map on file and available for public inspection in the Las Vegas District Office of the Bureau of Land Management in Nevada, and the State Office of the Bureau of Land Management, Reno, Nevada.
 
 >     “(d) __Conditions.—__ 
 
->         “(1) __Hazardous materials.—__ 
+>         “(1)  __Hazardous materials__  __.—__ 
 
 >         As a condition of the conveyance under ––subsection \[sic\] (a)(1), the Secretary shall require that the Corporation be responsible for removal of and remediation related to any hazardous materials that are present on the property conveyed to the United States under subsection (a).
 
->         “(2) __Survey.—__ 
+>         “(2)  __Survey__  __.—__ 
 
 >         As a condition of the conveyance under subsection (a)(1), the Secretary shall require that not later than 90 days after the date of the offer referred to in subsection (a), the Corporation shall provide a metes and bounds survey, that is acceptable to the Corporation, Clark County, and the Secretary, of the common boundary between the parcels of land to be conveyed under subsection (a).
 
->         “(3) __Lands conveyed to clark county.—__ 
+>         “(3)  __Lands conveyed to clark county__  __.—__ 
 
 >         As a condition of the conveyance under subsection (a)(2), the Secretary shall require that—
 
@@ -121,7 +121,7 @@
 
 >     “(e) __Valuation.—__ 
 
->         “(1) __Equal value exchange.—__ 
+>         “(1)  __Equal value exchange__  __.—__ 
 
 >         The values of the Federal parcel and the non-Federal parcel, as determined under paragraph (2)—
 
@@ -129,13 +129,13 @@
 
 >             “(B) if the values are not equal, shall be equalized in accordance with paragraph (3).
 
->         “(2) __Appraisal.—__ 
+>         “(2)  __Appraisal__  __.—__ 
 
 >         The values of the Federal parcel and the non-Federal parcel shall be determined by an appraisal, to be approved by the Secretary, that complies with the Uniform Standards for Federal Land Acquisitions.
 
 >         “(3) __Equalization.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             If the value of the non-Federal parcel is less than the value of the Federal parcel—
 
@@ -143,17 +143,17 @@
 
 >                 “(ii) the Secretary shall, as determined to be appropriate by the Secretary and the Corporation, reduce the acreage of the Federal parcel.
 
->             “(B) __Disposition of proceeds.—__ 
+>             “(B)  __Disposition of proceeds__  __.—__ 
 
 >             The Secretary shall deposit any cash equalization payments received under subparagraph (A)(i) in accordance with section 4(e)(1)(C) of the Southern Nevada Public Land Management Act of 1998 ([112 Stat. 2345][/us/stat/112/2345]).
 
 > “SEC. 105. __STATUS AND MANAGEMENT OF LANDS.__ 
 
->     “(a) __Inclusion and Management of Lands.—__ 
+>     “(a)  __Inclusion and Management of Lands__  __.—__ 
 
 >     Upon the date of the enactment of this Act \[Nov. 6, 2002\], the Secretary shall administer the lands depicted on the Red Rock Map as ‘Public Lands-proposed addition to the Red Rock Canyon NCA’, exclusive of those lands used for the Corps of Engineers R–4 Detention Basin, as part of Red Rock and in accordance with the Red Rock Canyon National Conservation Area Establishment Act of 1990 ([16 U.S.C. 460ccc][/us/usc/t16/s460ccc] et seq.) and all other applicable laws.
 
->     “(b) __Inclusion of Acquired Lands.—__ 
+>     “(b)  __Inclusion of Acquired Lands__  __.—__ 
 
 >     Upon acquisition by the United States of lands under this Act \[[Pub. L. 107–282][/us/pl/107/282], see Short Title note set out under [section 460qqq of this title][/us/usc/t16/s460qqq]\], the Secretary shall—
 
@@ -161,25 +161,25 @@
 
 >         “(2) create new maps showing the boundaries of Red Rock as modified or pursuant to this Act, and make such maps available for review at the Las Vegas District Office of the Bureau of Land Management and the State Office of the Bureau of Land Management, Reno, Nevada.
 
->     “(c) __Conforming Amendment.—__ 
+>     “(c)  __Conforming Amendment__  __.—__ 
 
 >     \[Amended [section 460ccc–1 of this title][/us/usc/t16/s460ccc–1].\]
 
 > “SEC. 106. __GENERAL PROVISIONS.__ 
 
->     “(a) __Review of Appraisal.—__ 
+>     “(a)  __Review of Appraisal__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Nov. 6, 2002\], the Secretary shall complete a review of the appraisal entitled, ‘Complete Self-Contained Appraisal Red Rock Exchange, Las Vegas, Nevada’, completed on or about June 3, 2002. The difference in appraisal values shall be reimbursed to the Secretary by the Corporation in accordance with the Southern Nevada Public Lands \[Land\] Management Act of 1998.
 
->     “(b) __Valid Existing Rights.—__ 
+>     “(b)  __Valid Existing Rights__  __.—__ 
 
 >     The land exchange under this Act shall be subject to valid existing rights. Each party to which property is conveyed under this Act shall succeed to the rights and obligations of the conveying party with respect to any lease, right-of-way, permit, or other valid existing right to which the property is subject.
 
->     “(c) __Technical Corrections.—__ 
+>     “(c)  __Technical Corrections__  __.—__ 
 
 >     Nothing in this Act prohibits the parties to the conveyances under this Act from agreeing to the correction of technical errors or omissions in the Red Rock Map.
 
->     “(d) __Withdrawal of Affected Lands.—__ 
+>     “(d)  __Withdrawal of Affected Lands__  __.—__ 
 
 >     To the extent not already accomplished under law or administrative action, the Secretary shall withdraw from operation of the public land and mining laws, subject to valid existing rights—
 

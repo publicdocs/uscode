@@ -137,25 +137,25 @@
 
 >     “(a) __Definitions.—__ 
 
->         “(1) __Advisory committee.—__ 
+>         “(1)  __Advisory committee__  __.—__ 
 
 >         The term ‘Advisory Committee’ means the Cold War Advisory Committee established under subsection (c).
 
->         “(2) __Secretary.—__ 
+>         “(2)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of the Interior.
 
->         “(3) __Theme study.—__ 
+>         “(3)  __Theme study__  __.—__ 
 
 >         The term ‘theme study’ means the national historic landmark theme study conducted under subsection (b)(1).
 
 >     “(b) __Cold War Theme Study.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall conduct a national historic landmark theme study to identify sites and resources in the United States that are significant to the Cold War.
 
->         “(2) __Resources.—__ 
+>         “(2)  __Resources__  __.—__ 
 
 >         In conducting the theme study, the Secretary shall consider—
 
@@ -179,7 +179,7 @@
 
 >                 “(vii) strategic and tactical aircraft.
 
->         “(3) __Contents.—__ 
+>         “(3)  __Contents__  __.—__ 
 
 >         The theme study shall include—
 
@@ -205,7 +205,7 @@
 
 >             “(C) an estimate of the amount required to carry out the recommendations under subparagraphs (A) and (B).
 
->         “(4) __Consultation.—__ 
+>         “(4)  __Consultation__  __.—__ 
 
 >         In conducting the theme study, the Secretary shall consult with—
 
@@ -217,17 +217,17 @@
 
 >             “(D) other interested organizations and individuals.
 
->         “(5) __Report.—__ 
+>         “(5)  __Report__  __.—__ 
 
 >         Not later than 3 years after the date on which funds are made available to carry out this section, the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that describes the findings, conclusions, and recommendations of the theme study.
 
 >     “(c) __Cold War Advisory Committee.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         As soon as practicable after funds are made available to carry out this section, the Secretary shall establish an advisory committee, to be known as the ‘Cold War Advisory Committee’, to assist the Secretary in carrying out this section.
 
->         “(2) __Composition.—__ 
+>         “(2)  __Composition__  __.—__ 
 
 >         The Advisory Committee shall be composed of 9 members, to be appointed by the Secretary, of whom—
 
@@ -239,19 +239,19 @@
 
 >             “(D) 3 shall represent the general public.
 
->         “(3) __Chairperson.—__ 
+>         “(3)  __Chairperson__  __.—__ 
 
 >         The Advisory Committee shall select a chairperson from among the members of the Advisory Committee.
 
->         “(4) __Compensation.—__ 
+>         “(4)  __Compensation__  __.—__ 
 
 >         A member of the Advisory Committee shall serve without compensation but may be reimbursed by the Secretary for expenses reasonably incurred in the performance of the duties of the Advisory Committee.
 
->         “(5) __Meetings.—__ 
+>         “(5)  __Meetings__  __.—__ 
 
 >         On at least 3 occasions, the Secretary (or a designee) shall meet and consult with the Advisory Committee on matters relating to the theme study.
 
->     “(d) __Interpretive Handbook on the Cold War.—__ 
+>     “(d)  __Interpretive Handbook on the Cold War__  __.—__ 
 
 >     Not later than 4 years after the date on which funds are made available to carry out this section, the Secretary shall—
 
@@ -259,7 +259,7 @@
 
 >         “(2) disseminate information in the theme study by other appropriate means.
 
->     “(e) __Authorization of Appropriations.—__ 
+>     “(e)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this section $500,000.”
 
@@ -267,21 +267,21 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 326\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–194, provided that:
 
->     “(a) __Short Title.—__ 
+>     “(a)  __Short Title__  __.—__ 
 
 >     This section may be cited as the ‘National Park Service Studies Act of 1999’.
 
 >     “(b) __Authorization of Studies.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of the Interior (‘the Secretary’) shall conduct studies of the geographical areas and historic and cultural themes described in subsection (b)(3) to determine the appropriateness of including such areas or themes in the National Park System.
 
->         “(2) __Criteria.—__ 
+>         “(2)  __Criteria__  __.—__ 
 
 >         In conducting the studies authorized by this Act, the Secretary shall use the criteria for the study of areas for potential inclusion in the National Park System in accordance with [section 8 of Public Law 91–383][/us/pl/91/383/s8] \[[16 U.S.C. 1a–5][/us/usc/t16/s1a–5]\], as amended by section 303 of the National Parks Omnibus Management Act ([Public Law 105–391][/us/pl/105/391]; [112 Stat. 3501][/us/stat/112/3501]) \[[16 U.S.C. 1a–5][/us/usc/t16/s1a–5]\].
 
->         “(3) __Study areas.—__ 
+>         “(3)  __Study areas__  __.—__ 
 
 >         The Secretary shall conduct studies of the following:
 
@@ -313,7 +313,7 @@
 
 >             “(N) World War II Sites, Republic of Palau (upon the request of the Government of the Republic of Palau).
 
->     “(c) __Reports.—__ 
+>     “(c)  __Reports__  __.—__ 
 
 >     The Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives a report on the findings, conclusions, and recommendations of each study under subsection (b) within three fiscal years following the date on which funds are first made available for each study.”
 

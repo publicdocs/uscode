@@ -97,7 +97,7 @@
 
         (4) All real property acquired by the Foundation in whole or in part with Federal funds and held by it shall be administered for the conservation and management of fish and wildlife and in a manner that will provide for appropriate public access and use.
 
-        (5) __Reconveyance of real property.—__ 
+        (5)  __Reconveyance of real property__  __.—__ 
 
         The Foundation shall convey at not less than fair market value any real property acquired by the Foundation in whole or in part with Federal funds if the Foundation notifies the Federal agency that administers the Federal program under which the funds were provided, and the agency does not disagree within 60 calendar days after the date of the notification, that—
 

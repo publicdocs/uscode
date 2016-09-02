@@ -117,13 +117,13 @@
 
 [Pub. L. 100–629, § 5][/us/pl/100/629/s5], Nov. 7, 1988, [102 Stat. 3287][/us/stat/102/3287], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of State shall establish an advisory body on the fisheries of the North Pacific and the Bering Sea, which shall advise the United States representative to the International Consultative Committee created in accordance with Article XIV of the governing international fishery agreement entered into between the United States and the Union of Soviet Socialist Republics, as contained in the message to Congress from the President of the United States dated June 22, 1988.
 
 >     “(b) __Membership.—__ 
 
->         “(1) __In General.—__ 
+>         “(1)  __In General__  __.—__ 
 
 >         The advisory body established pursuant to this section shall consist of 12 members, as follows:
 
@@ -135,15 +135,15 @@
 
 >             “(D) Five members appointed by the Secretary of State from among persons nominated by the Governor of Washington on the basis of their knowledge and experience in commercial harvesting, processing, or marketing of fishery resources.
 
->         “(2) __Nominations.—__ 
+>         “(2)  __Nominations__  __.—__ 
 
 >         The Governor of Alaska and the Governor of Washington shall each nominate 10 persons for purposes of paragraph (1).
 
->     “(c) __Pay.—__ 
+>     “(c)  __Pay__  __.—__ 
 
 >     Members of the advisory body established pursuant to this section shall receive no pay by reason of their service as members of the advisory body.
 
->     “(d) __Exemption From Federal Advisory Committee Act.—__ 
+>     “(d)  __Exemption From Federal Advisory Committee Act__  __.—__ 
 
 >     The Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.) shall not apply to an advisory body established pursuant to this section.”
 

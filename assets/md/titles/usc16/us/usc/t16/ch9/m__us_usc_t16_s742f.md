@@ -33,17 +33,17 @@
 
         (2) __Use of gifts, devises, and bequests.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Any gifts and bequests of money and proceeds from the sales of other property received as gifts or bequests pursuant to this subsection shall be deposited in a separate account in the Treasury and shall be disbursed upon order of the Secretary for the benefit of programs administered by the United States Fish and Wildlife Service.
 
             (B) __Gifts, devises, and bequests to particular refuges.—__ 
 
-                (i) __Disbursal.—__ 
+                (i)  __Disbursal__  __.—__ 
 
                 Any gift, devise, or bequest made for the benefit of a particular national wildlife refuge or complex of geographically related refuges shall be disbursed only for the benefit of that refuge or complex of refuges and without further appropriations.
 
-                (ii) __Matching.—__ 
+                (ii)  __Matching__  __.—__ 
 
                 Subject to the availability of appropriations and the requirements of the National Wildlife Refuge System Administration Act of 1966 ([16 U.S.C. 668dd][/us/usc/t16/s668dd] et seq.) and other applicable law, the Secretary may provide funds to match gifts, devises, and bequests made for the benefit of a particular national wildlife refuge or complex of geographically related refuges. With respect to each gift, devise, or bequest, the amount of Federal funds may not exceed the amount (or, in the case of property or in-kind services, the fair market value) of the gift, devise, or bequest.
 
@@ -61,7 +61,7 @@
 
         (5) For the purposes of subchapter I of chapter 81 of title 5, relating to compensation to Federal employees for work injuries, volunteers under this subsection shall be deemed employees of the United States within the meaning of the term “employees” as defined in [section 8101 of title 5][/us/usc/t5/s8101], and the provisions of that subchapter shall apply.
 
-        (6) __Senior volunteer corps.—__ 
+        (6)  __Senior volunteer corps__  __.—__ 
 
         The Secretary of the Interior may establish a Senior Volunteer Corps, consisting of volunteers over the age of 50. To assist in the recruitment and retention of the volunteers, the Secretary may provide for additional incidental expenses to members of the Corps beyond the incidental expenses otherwise provided to volunteers under this subsection. The members of the Corps shall be subject to the other provisions of this subsection.
 
@@ -195,7 +195,7 @@
 
 [Pub. L. 105–242, § 2][/us/pl/105/242/s2], Oct. 5, 1998, [112 Stat. 1574][/us/stat/112/1574], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -207,7 +207,7 @@
 
 >         “(4) by encouraging refuge educational programs, public awareness of the resources of the System and public participation in the conservation of those resources can be promoted.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this Act are—
 

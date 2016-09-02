@@ -27,7 +27,7 @@
 
         (3) __Deadline__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as otherwise provided in sections 620 to 620j of this title, regulations and guidelines required under this subsection shall be issued not later than June 1, 1998.
 

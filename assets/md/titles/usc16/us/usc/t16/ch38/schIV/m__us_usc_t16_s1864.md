@@ -73,15 +73,15 @@
 
 [Pub. L. 109–479, title I, § 115][/us/pl/109/479/s115], Jan. 12, 2007, [120 Stat. 3604][/us/stat/120/3604], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Commerce shall establish an assistance program for the Gulf of Mexico commercial and recreational fishing industry.
 
->     “(b) __Allocation of Funds.—__ 
+>     “(b)  __Allocation of Funds__  __.—__ 
 
 >     Under the program, the Secretary shall allocate funds appropriated to carry out the program among the States of Alabama, Louisiana, Florida, Mississippi, and Texas in proportion to the percentage of the fishery (including crawfish) catch landed by each State before August 29, 2005, except that the amount allocated to Florida shall be based exclusively on the proportion of such catch landed by the Florida Gulf Coast fishery.
 
->     “(c) __Use of Funds.—__ 
+>     “(c)  __Use of Funds__  __.—__ 
 
 >     Of the amounts made available to each State under the program—
 
@@ -105,7 +105,7 @@
 
 >             “(G) voluntary capacity reduction programs for shrimp fisheries under limited access programs.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to the Secretary of Commerce $17,500,000 for each of fiscal years 2007 through 2012 to carry out this section.”
 

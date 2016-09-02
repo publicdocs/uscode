@@ -45,7 +45,7 @@
 
                 (iii) ceases exports in accordance with such certification.
 
-        (3) __Applicability.—__ 
+        (3)  __Applicability__  __.—__ 
 
         In the case of the purchase by a person of unprocessed timber originating from Federal lands west of the 119th meridian in the State of Washington, paragraph (1) shall apply only if—
 

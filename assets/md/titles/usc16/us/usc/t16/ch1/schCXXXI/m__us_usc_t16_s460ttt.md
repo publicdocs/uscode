@@ -35,11 +35,11 @@
 
 > “In this title \[enacting this subchapter and amending provisions listed in a table of Wilderness Areas under [section 1132 of this title][/us/usc/t16/s1132]\]:
 
->     “(1) __Management plan.—__ 
+>     “(1)  __Management plan__  __.—__ 
 
 >     The term ‘Management Plan’ means the Green Mountain National Forest Land and Resource Management Plan.
 
->     “(2) __State.—__ 
+>     “(2)  __State__  __.—__ 
 
 >     The term ‘State’ means the State of Vermont.”
 

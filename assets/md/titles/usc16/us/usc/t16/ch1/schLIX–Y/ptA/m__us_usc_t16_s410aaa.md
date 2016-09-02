@@ -91,35 +91,35 @@
 
 > “In this Act:
 
->     “(1) __Park.—__ 
+>     “(1)  __Park__  __.—__ 
 
 >     The term ‘Park’ means Death Valley National Park, including any additions to that Park.
 
->     “(2) __Secretary.—__ 
+>     “(2)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of the Interior or the designee of the Secretary.
 
->     “(3) __Tribal.—__ 
+>     “(3)  __Tribal__  __.—__ 
 
 >     The term ‘tribal’ means of or pertaining to the Tribe.
 
->     “(4) __Tribe.—__ 
+>     “(4)  __Tribe__  __.—__ 
 
 >     The term ‘Tribe’ means the Timbisha Shoshone Tribe, a tribe of American Indians recognized by the United States pursuant to part 83 of title 25, Code of Federal Regulations (or any corresponding similar regulation or ruling).
 
->     “(5) __Trust lands.—__ 
+>     “(5)  __Trust lands__  __.—__ 
 
 >     The term ‘trust lands’ means those lands taken into trust pursuant to this Act.
 
 > “SEC. 5. __TRIBAL RIGHTS AND AUTHORITY ON THE TIMBISHA SHOSHONE HOMELAND.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to valid existing rights (existing on the date of enactment of this Act \[Nov. 1, 2000\]), all right, title, and interest of the United States in and to the lands, including improvements and appurtenances, described in subsection (b) are declared to be held in trust by the United States for the benefit of the Tribe. All maps referred to in subsection (b) shall be on file and available for public inspection in the appropriate offices of the National Park Service and the Bureau of Land Management.
 
 >     “(b) __Park Lands and Bureau of Land Management Lands Described.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The following lands and water shall be held in trust for the Tribe pursuant to subsection (a):
 
@@ -137,13 +137,13 @@
 
 >             “(E) Lida, Nevada, Community Parcel, an area of approximately 3,000 acres, as generally depicted on the map entitled ‘Lida, Nevada, Community Parcel’, numbered Map #5 and dated April 12, 2000, together with 14.7 acre feet per annum of ground water for the purposes associated with the transfer of such lands.
 
->         “(2) __Water rights.—__ 
+>         “(2)  __Water rights__  __.—__ 
 
 >         The priority date of the Federal water rights described in subparagraphs (A) through (E) of paragraph (1) shall be the date of enactment of this Act \[Nov. 1, 2000\], and such Federal water rights shall be junior to Federal and State water rights existing on such date of enactment. Such Federal water rights shall not be subject to relinquishment, forfeiture or abandonment.
 
 >         “(3) __Limitations on furnace creek area development.—__ 
 
->             “(A) __Development.—__ 
+>             “(A)  __Development__  __.—__ 
 
 >             Recognizing the mutual interests and responsibilities of the Tribe and the National Park Service in and for the conservation and protection of the resources in the area described in paragraph (1), development in the area shall be limited to—
 
@@ -165,23 +165,23 @@
 
 >                 “(iii) the infrastructure necessary to support the level of development described in clauses (i) and (ii).
 
->             “(B) __Exception.—__ 
+>             “(B)  __Exception__  __.—__ 
 
 >             Notwithstanding the provisions of subparagraph (A)(ii), the National Park Service and the Tribe are authorized to negotiate mutually agreed upon, visitor-related economic development in lieu of the development set forth in that subparagraph if such alternative development will have no greater environmental impact than the development set forth in that subparagraph.
 
->             “(C) __Right-of-way.—__ 
+>             “(C)  __Right-of-way__  __.—__ 
 
 >             The Tribe shall have a right-of-way for ingress and egress on Highway 190 in California.
 
->         “(4) __Limitations on impact on mining claims.—__ 
+>         “(4)  __Limitations on impact on mining claims__  __.—__ 
 
 >         Nothing in this Act shall be construed as terminating any valid mining claim existing on the date of enactment of this Act \[Nov. 1, 2000\] on the land described in paragraph (1)(E). Any person with such an existing mining claim shall have all the rights incident to mining claims, including the rights of ingress and egress on the land described in paragraph (1)(E). Any person with such an existing mining claim shall have the right to occupy and use so much of the surface of the land as is required for all purposes reasonably necessary to mine and remove the minerals from the land, including the removal of timber for mining purposes. Such a mining claim shall terminate when the claim is determined to be invalid or is abandoned.
 
->     “(c) __Legal Descriptions.—__ 
+>     “(c)  __Legal Descriptions__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Nov. 1, 2000\], the Secretary shall file a legal description of the areas described in subsection (b) with the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and with the Committee on Indian Affairs and the Committee on Energy and Natural Resources of the Senate. Such legal description shall have the same force and effect as if the information contained in the description were included in that subsection except that the Secretary may correct clerical and typographical errors in such legal description and in the maps referred to in the legal description. The legal description shall be on file and available for public inspection in the offices of the National Park Service and the Bureau of Land Management.
 
->     “(d) __Additional Trust Resources.—__ 
+>     “(d)  __Additional Trust Resources__  __.—__ 
 
 >     The Secretary may purchase from willing sellers the following parcels and appurtenant water rights, or the water rights separately, to be taken into trust for the Tribe:
 
@@ -191,35 +191,35 @@
 
 >     “(e) __Special Use Areas.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The areas described in this subsection shall be nonexclusive special use areas for the Tribe, subject to other Federal law. Members of the Tribe are authorized to use these areas for low impact, ecologically sustainable, traditional practices pursuant to a jointly established management plan mutually agreed upon by the Tribe, and by the National Park Service or the Bureau of Land Management, as appropriate. All maps referred to in paragraph (4) shall be on file and available for public inspection in the offices of the National Park Service and Bureau of Land Management.
 
->         “(2) __Recognition of the history and culture of the tribe.—__ 
+>         “(2)  __Recognition of the history and culture of the tribe__  __.—__ 
 
 >         In the special use areas, in recognition of the significant contributions the Tribe has made to the history, ecology, and culture of the Park and to ensure that the visitor experience in the Park will be enhanced by the increased and continued presence of the Tribe, the Secretary shall permit the Tribe’s continued use of Park resources for traditional tribal purposes, practices, and activities.
 
->         “(3) __Resource use by the tribe.—__ 
+>         “(3)  __Resource use by the tribe__  __.—__ 
 
 >         In the special use areas, any use of Park resources by the Tribe for traditional purposes, practices, and activities shall not include the taking of wildlife and shall not be in derogation of purposes and values for which the Park was established.
 
->         “(4) __Specific areas.—__ 
+>         “(4)  __Specific areas__  __.—__ 
 
 >         The following areas are designated special use areas pursuant to paragraph (1):
 
->             “(A) __Mesquite use area.—__ 
+>             “(A)  __Mesquite use area__  __.—__ 
 
 >             The area generally depicted on the map entitled ‘Mesquite Use Area’ numbered Map #8 and dated April 12, 2000. The Tribe may use this area for processing mesquite using traditional plant management techniques such as thinning, pruning, harvesting, removing excess sand, and removing exotic species. The National Park Service may limit and condition, but not prohibit entirely, public use of this area or parts of this area, in consultation with the Tribe. This area shall be managed in accordance with the jointly established management plan referred to in paragraph (1).
 
->             “(B) __Buffer area.—__ 
+>             “(B)  __Buffer area__  __.—__ 
 
 >             An area of approximately 1,500 acres, as generally depicted on the map entitled ‘Buffer Area’ numbered Map #8 and dated April 12, 2000. The National Park Service shall restrict visitor use of this area to protect the privacy of the Tribe and to provide an opportunity for the Tribe to conduct community affairs without undue disruption from the public.
 
->             “(C) __Timbisha shoshone natural and cultural preservation area.—__ 
+>             “(C)  __Timbisha shoshone natural and cultural preservation area__  __.—__ 
 
 >             An area that primarily consists of Park lands and also a small portion of Bureau of Land Management land in California, as generally depicted on the map entitled ‘Timbisha Shoshone Natural and Cultural Preservation Area’ numbered Map #9 and dated April 12, 2000.
 
->         “(5) __Additional provisions.—__ 
+>         “(5)  __Additional provisions__  __.—__ 
 
 >         With respect to the Timbisha Shoshone Natural and Cultural Preservation Area designated in paragraph (4)(C)—
 
@@ -243,43 +243,43 @@
 
 >                 “(ii) any such closure shall be made in a manner that affects the smallest practicable area for the minimum period necessary for the purposes described in clause (i).
 
->     “(f) __Access and Use.—__ 
+>     “(f)  __Access and Use__  __.—__ 
 
 >     Members of the Tribe shall have the right to enter and use the Park without payment of any fee for admission into the Park.
 
->     “(g) __Administration.—__ 
+>     “(g)  __Administration__  __.—__ 
 
 >     The trust lands shall constitute the Timbisha Shoshone Reservation and shall be administered pursuant to the laws and regulations applicable to other Indian trust lands, except as otherwise provided in this Act.
 
 > “SEC. 6. __IMPLEMENTATION PROCESS.__ 
 
->     “(a) __Government-to-Government Agreements.—__ 
+>     “(a)  __Government-to-Government Agreements__  __.—__ 
 
 >     In order to fulfill the purposes of this Act and to establish cooperative partnerships for purposes of this Act, the National Park Service, the Bureau of Land Management, and the Tribe shall enter into government-to-government consultations and shall develop protocols to review planned development in the Park. The National Park Service and the Bureau of Land Management are authorized to enter into cooperative agreements with the Tribe for the purpose of providing training on the interpretation, management, protection, and preservation of the natural and cultural resources of the areas designated for special uses by the Tribe in section 5(e)(4).
 
->     “(b) __Standards.—__ 
+>     “(b)  __Standards__  __.—__ 
 
 >     The National Park Service and the Tribe shall develop mutually agreed upon standards for size, impact, and design for use in planning, resource protection, and development of the Furnace Creek area and for the facilities at Wildrose. The standards shall be based on standards for recognized best practices for environmental sustainability and shall not be less restrictive than the environmental standards applied within the National Park System at any given time. Development in the area shall be conducted in a manner consistent with the standards, which shall be reviewed periodically and revised as necessary.
 
->     “(c) __Water Monitoring.—__ 
+>     “(c)  __Water Monitoring__  __.—__ 
 
 >     The Secretary and the Tribe shall develop mutually agreed upon standards for a water monitoring system to assess the effects of water use at Scotty’s Junction and at Death Valley Junction on the tribal trust lands described in subparagraphs (A), (B), and (D) of section 5(b)(1), and on the Park. Water monitoring shall be conducted in a manner that is consistent with such standards, which shall be reviewed periodically and revised as necessary.
 
 > “SEC. 7. __MISCELLANEOUS PROVISIONS.__ 
 
->     “(a) __Tribal Employment.—__ 
+>     “(a)  __Tribal Employment__  __.—__ 
 
 >     In employing individuals to perform any construction, maintenance, interpretation, or other service in the Park, the Secretary shall, insofar as practicable, give first preference to qualified members of the Tribe.
 
->     “(b) __Gaming.—__ 
+>     “(b)  __Gaming__  __.—__ 
 
 >     Gaming as defined and regulated by the Indian Gaming Regulatory Act ([25 U.S.C. 2701][/us/usc/t25/s2701] et seq.) shall be prohibited on trust lands within the Park.
 
->     “(c) __Initial Reservation.—__ 
+>     “(c)  __Initial Reservation__  __.—__ 
 
 >     Lands taken into trust for the Tribe pursuant to section 5, except for the Park land described in subsections (b)(1)(A) and (d)(1) of such section, shall be considered to be the Tribe’s initial reservation for purposes of section 20(b)(1)(B)(ii) of the Indian Gaming Regulatory Act ([25 U.S.C. 2719(b)(1)(B)(ii)][/us/usc/t25/s2719/b/1/B/ii]).
 
->     “(d) __Tribal Jurisdiction Over Trust Lands.—__ 
+>     “(d)  __Tribal Jurisdiction Over Trust Lands__  __.—__ 
 
 >     All trust lands that are transferred under this Act and located within California shall be exempt from [section 1162 of title 18][/us/usc/t18/s1162], United States Code, and [section 1360 of title 28][/us/usc/t28/s1360], United States Code, upon the certification by the Secretary, after consultation with the Attorney General, that the law enforcement system in place for such lands will be adequate to provide for the public safety and the public interest, except that no such certification may take effect until the expiration of the 3-year period beginning on the date of enactment of this Act \[Nov. 1, 2000\].
 

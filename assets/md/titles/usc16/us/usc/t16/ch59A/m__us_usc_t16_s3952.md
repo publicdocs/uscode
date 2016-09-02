@@ -31,7 +31,7 @@
 
         (4) __List of contents__ 
 
-            (A) __Area identification; project description.—__ 
+            (A)  __Area identification; project description__  __.—__ 
 
             The list of priority coastal wetlands restoration projects shall include, but not be limited to—
 
@@ -39,7 +39,7 @@
 
                 (ii) a detailed description of each proposed coastal wetlands restoration project including a justification for including such project on the list, the proposed activities to be carried out pursuant to each coastal wetlands restoration project, the benefits to be realized by such project, the identification of the lead Task Force member to undertake each proposed coastal wetlands restoration project and the responsibilities of each other participating Task Force member, an estimated timetable for the completion of each coastal wetlands restoration project, and the estimated cost of each project.
 
-            (B) __Pre-plan.—__ 
+            (B)  __Pre-plan__  __.—__ 
 
             Prior to the date on which the plan required by subsection (b) of this section becomes effective, such list shall include only those coastal wetlands restoration projects that can be substantially completed during a five-year period commencing on the date the project is placed on the list.
 

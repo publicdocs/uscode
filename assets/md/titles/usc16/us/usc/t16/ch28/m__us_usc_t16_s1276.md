@@ -205,99 +205,99 @@
 
         (93) Great Egg Harbor River, New Jersey: The entire river.
 
-        (94) __Klickitat, Washington:__ 
+        (94)  __Klickitat, Washington__  __:__ 
 
          The segment from the southern boundary of the Yakima Indian Reservation, Washington, as described in the Treaty with the Yakimas of 1855 ([12 Stat. 951][/us/stat/12/951]), and as acknowledged by the Indian Claims Commission in Yakima Tribe of Indians v. U.S., 16 Ind. Cl. Comm. 536 (1966), to its confluence with the Little Klickitat River, Washington: Provided, That said study shall be carried on in consultation with the Yakima Indian Nation and shall include a determination of the degree to which the Yakima Indian Nation should participate in the preservation and administration of the river segment should it be proposed for inclusion in the Wild and Scenic Rivers system.
 
-        (95) __White Salmon, Washington:__ 
+        (95)  __White Salmon, Washington__  __:__ 
 
          The segment from its confluence with Trout Lake Creek, Washington, to its confluence with Gilmer Creek, Washington, near the town of B Z Corner, Washington.
 
-        (96) __Maurice, New Jersey.—__ 
+        (96)  __Maurice, New Jersey__  __.—__ 
 
         The segment from Shell Pile to the point three miles north of Laurel Lake.
 
-        (97) __Manumuskin, New Jersey.—__ 
+        (97)  __Manumuskin, New Jersey__  __.—__ 
 
         The segment from its confluence with the Maurice River to the crossing of State Route 49.
 
-        (98) __Menantico Creek, New Jersey.—__ 
+        (98)  __Menantico Creek, New Jersey__  __.—__ 
 
         The segment from its confluence with the Maurice River to its source.
 
-        (99) __Merced, California.—__ 
+        (99)  __Merced, California__  __.—__ 
 
         The segment from a point 300 feet upstream of the confluence with Bear Creek downstream to the point of maximum flood control storage of Lake McClure (elevation 867 feet mean sea level).
 
-        (100) __Blue, Oregon.—__ 
+        (100)  __Blue, Oregon__  __.—__ 
 
         The segment from its headwaters to the Blue River Reservoir; by the Secretary of Agriculture.
 
-        (101) __Chewaucan, Oregon.—__ 
+        (101)  __Chewaucan, Oregon__  __.—__ 
 
         The segment from its headwaters to the Paisley Urban Growth boundary to be studied in cooperation with, and integrated with, the Klamath River Basin Plan; by the Secretary of Agriculture.
 
-        (102) __North Fork Malheur, Oregon.—__ 
+        (102)  __North Fork Malheur, Oregon__  __.—__ 
 
         The segment from the Malheur National Forest boundary to Beulah Reservoir; by the Secretary of the Interior.
 
-        (103) __South Fork McKenzie, Oregon.—__ 
+        (103)  __South Fork McKenzie, Oregon__  __.—__ 
 
         The segments from its headwaters to the upper end of Cougar Reservoir and from the lower end of Cougar Reservoir to its confluence with the McKenzie River; by the Secretary of Agriculture.
 
-        (104) __Steamboat Creek, Oregon.—__ 
+        (104)  __Steamboat Creek, Oregon__  __.—__ 
 
         The entire creek; by the Secretary of Agriculture.
 
-        (105) __Wallowa, Oregon.—__ 
+        (105)  __Wallowa, Oregon__  __.—__ 
 
         The segment from its confluence with the Minam River to its confluence with the Grande Ronde River; by the Secretary of Agriculture.
 
-        (106) __Merrimack River, New Hampshire.—__ 
+        (106)  __Merrimack River, New Hampshire__  __.—__ 
 
         The segment from its origin at the confluence of the Pemigewasset and Winnipesaukee Rivers in Franklin, New Hampshire, to the backwater impoundment at Hooksett Dam, excluding the Garvins Falls Dam and its impoundment.
 
-        (107) __Pemigewasset, New Hampshire.—__ 
+        (107)  __Pemigewasset, New Hampshire__  __.—__ 
 
         The segments from Profile Lake downstream to the southern boundary of the Franconia Notch State Park and from the northern Thornton town-line downstream to the backwater of the Ayers Island Dam; by the Secretary of the Interior.
 
-        (108) __St.__ 
+        (108)  __St. Marys River, Florida and Georgia__  __.—__ 
 
-         Marys River, Florida and Georgia.—The segment from its headwaters to its confluence with the Bells River.
+        The segment from its headwaters to its confluence with the Bells River.
 
-        (109) __Mills River, North Carolina.—__ 
+        (109)  __Mills River, North Carolina__  __.—__ 
 
         The North Fork from the bottom of the spillway of the Hendersonville Reservoir downstream to its confluence with the South Fork; the South Fork from its confluence with the Pigeon Branch downstream to its confluence with the North Fork; and the main stem from the confluence of the North and South Forks downstream to a point 750 feet upstream from the centerline of North Carolina Highway 191/280.
 
-        (110) __Sudbury, Assabet, and Concord, Massachussets.__  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Probably should be “__  __Massachusetts__  __.”__  __ </sup></sup> __  __—__ 
+        (110)  __Sudbury, Assabet, and Concord, Massachussets__  __.__  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Probably should be “__  __Massachusetts__  __.”__  __ </sup></sup> __  __—__ 
 
         The segment of the Sudbury from the Danforth Street Bridge in the town of Framingham, to its confluence with the Assabet, the Assabet from 1,000 feet downstream of the Damon Mill Dam in Concord to its confluence with the Sudbury and the Concord from the confluence of the Sudbury and Assabet downstream to the Route 3 Bridge in the town of Billerica. The study of such river segments shall be completed and the report submitted thereon not later than at the end of the third fiscal year beginning after November 28, 1990.
 
-        (111) __Niobrara, Nebraska.—__ 
+        (111)  __Niobrara, Nebraska__  __.—__ 
 
         The 6-mile segment of the river from its confluence with Chimney Creek to its confluence with Rock Creek.
 
-        (112) __Lamprey, New Hampshire.—__ 
+        (112)  __Lamprey, New Hampshire__  __.—__ 
 
         The segment from the southern Lee town line downstream to the confluence with Woodman’s Brook at the base of Sullivan Falls in Durham.
 
-        (113) __White Clay Creek, Delaware and Pennsylvania.—__ 
+        (113)  __White Clay Creek, Delaware and Pennsylvania__  __.—__ 
 
         The headwaters of the river in Pennsylvania to its confluence with the Christina River in Delaware, including the East, West, and Middle Branches, Middle Run, Pike Creek, Mill Creek, and other main branches and tributaries as determined by the Secretary of the Interior (herein after referred to as the White Clay Creek).
 
-        (114) __Brule, Michigan and Wisconsin.—__ 
+        (114)  __Brule, Michigan and Wisconsin__  __.—__ 
 
         The 33-mile segment from Brule Lake in the northeast quarter of section 15, township 41 north, range 13 east, to the National Forest boundary at the southeast quarter of section 31, township 41 north, range 17 east.
 
-        (115) __Carp, Michigan.—__ 
+        (115)  __Carp, Michigan__  __.—__ 
 
         The 7.6-mile segment from its origin at the confluence of the outlets of Frenchman Lake and Carp Lake in section 26, township 44 north, range 6 west, to the west section line of section 30, township 43 north, range 5 west.
 
-        (116) __Little Manistee, Michigan.—__ 
+        (116)  __Little Manistee, Michigan__  __.—__ 
 
         The 42-mile segment within the Huron-Manistee National Forest.
 
-        (117) __White, Michigan.—__ 
+        (117)  __White, Michigan__  __.—__ 
 
         The 75.4-mile segment within the Huron-Manistee National Forest as follows:
 
@@ -307,7 +307,7 @@
 
             (C) The 25.7-mile segment of the North Branch White from its confluence with the South Branch White in section 25, township 13 north, range 16 west, to McLaren Lake in section 11, township 14 north, range 15 west.
 
-        (118) __Ontonagon, Michigan.—__ 
+        (118)  __Ontonagon, Michigan__  __.—__ 
 
         The 32-mile segment of the Ontonagon as follows:
 
@@ -315,7 +315,7 @@
 
             (B) The 20-mile segment of the South Branch from the confluence of the Cisco Branch and Tenmile Creek to the confluence with the West Branch Ontonagon.
 
-        (119) __Paint, Michigan.—__ 
+        (119)  __Paint, Michigan__  __.—__ 
 
         The 70-mile segment as follows:
 
@@ -327,19 +327,19 @@
 
             (D) 14 miles of the west branch of the Net River from its source in section 35, township 48 north, range 34 west, to its confluence with the mainstream of the Net River in section 24, township 46 north, range 34 west.
 
-        (120) __Presque Isle, Michigan.—__ 
+        (120)  __Presque Isle, Michigan__  __.—__ 
 
         The 13-mile segment of the mainstream from Minnewawa Falls to Lake Superior.
 
-        (121) __Sturgeon, Ottawa National Forest, Michigan.—__ 
+        (121)  __Sturgeon, Ottawa National Forest, Michigan__  __.—__ 
 
         The 36-mile segment of the mainstream from the source at Wagner Lake in section 13, township 49 north, range 31 west, to the eastern boundary of the Ottawa National Forest in section 12, township 48 north, range 35 west.
 
-        (122) __Sturgeon, Hiawatha National Forest, Michigan.—__ 
+        (122)  __Sturgeon, Hiawatha National Forest, Michigan__  __.—__ 
 
         The 18.1-mile segment from Sixteen Mile Lake to the north line of section 26, township 43 north, range 19 west.
 
-        (123) __Tahquamenon, Michigan.—__ 
+        (123)  __Tahquamenon, Michigan__  __.—__ 
 
         The 103.5-mile segment as follows—
 
@@ -347,43 +347,43 @@
 
             (B) the 13.5-mile segment of the east branch from the western boundary of the Hiawatha National Forest in section 19, township 46 north, range 6 west, to its confluence with the mainstream.
 
-        (124) __Whitefish, Michigan.—__ 
+        (124)  __Whitefish, Michigan__  __.—__ 
 
         The 26-mile segment of the West Branch Whitefish from its source in section 26, township 46 north, range 23 west, to County Road 444.
 
-        (125) __Clarion, Pennsylvania.—__ 
+        (125)  __Clarion, Pennsylvania__  __.—__ 
 
         The segment of the main stem of the river from Ridgway to its confluence with the Allegheny River. The Secretary of Agriculture shall conduct the study of such segment.
 
-        (126) __Mill Creek, Jefferson and Clarion Counties, Pennsylvania.—__ 
+        (126)  __Mill Creek, Jefferson and Clarion Counties, Pennsylvania__  __.—__ 
 
         The segment of the main stem of the creek from its headwaters near Gumbert Hill in Jefferson County, downstream to the confluence with the Clarion River.
 
-        (127) __Piru Creek, California.—__ 
+        (127)  __Piru Creek, California__  __.—__ 
 
         The segment of the main stem of the creek from its source downstream to the maximum pool of Pyramid Lake and the segment of the main stem of the creek beginning 300 feet below the dam at Pyramid Lake downstream to the maximum pool at Lake Piru, for a total distance of approximately 49 miles.
 
-        (128) __Little Sur River, California.—__ 
+        (128)  __Little Sur River, California__  __.—__ 
 
         The segment of the main stem of the river from its headwaters downstream to the Pacific Ocean, a distance of approximately 23 miles. The Secretary of Agriculture shall consult with the Big Sur Multiagency Advisory Council during the study of the river.
 
-        (129) __Matilija Creek, California.—__ 
+        (129)  __Matilija Creek, California__  __.—__ 
 
         The segment from its headwaters to its junction with Murietta Canyon, a distance of approximately 16 miles.
 
-        (130) __Lopez Creek, California.—__ 
+        (130)  __Lopez Creek, California__  __.—__ 
 
         The segments from its headwaters to Lopez Reservoir, a distance of approximately 11 miles.
 
-        (131) __Sespe Creek, California.—__ 
+        (131)  __Sespe Creek, California__  __.—__ 
 
         The segment from Chorro Grande Canyon downstream to its confluence with Rock Creek and Howard Creek, a distance of about 10.5 miles.
 
-        (132) __North Fork Merced, California.—__ 
+        (132)  __North Fork Merced, California__  __.—__ 
 
         The segment from its headwaters to its confluence with the Merced River, by the Secretary of Agriculture and the Secretary of the Interior.
 
-        (133) __Delaware River, Pennsylvania and New Jersey.—__ 
+        (133)  __Delaware River, Pennsylvania and New Jersey__  __.—__ 
 
             (A) The approximately 3.6-mile segment from the Erie Lackawanna Railroad Bridge to the southern tip of Dildine Island.
 
@@ -405,15 +405,15 @@
 
             (J) The Tohickon Creek tributary.
 
-        (134) __New River, West Virginia and Virginia.—__ 
+        (134)  __New River, West Virginia and Virginia__  __.—__ 
 
         The segment defined by public lands commencing at the U.S. Route 460 bridge over the New River in Virginia to the maximum summer pool elevation (one thousand four hundred and ten feet above mean sea level) of Bluestone Lake in West Virginia; by the Secretary of the Interior. Nothing in this chapter shall affect or impair the management of the Bluestone project or the authority of any department, agency or instrumentality of the United States to carry out the project purposes of that project as of October 26, 1992. The study of the river segment identified in this paragraph shall be completed and reported on within one year after October 26, 1992.
 
-        (135) __Rio Grande, New Mexico.—__ 
+        (135)  __Rio Grande, New Mexico__  __.—__ 
 
         The segment from the west section line of Section 15, Township 23 North, Range 10 East, downstream approximately 8 miles to the southern line of the northwest quarter of Section 34, Township 23 North, Range 9 East.
 
-        (136) __Wekiva River, Florida.—__ 
+        (136)  __Wekiva River, Florida__  __.—__ 
 
             (A) The entire river.
 
@@ -421,19 +421,19 @@
 
             (C) The Rock Springs Run tributary.
 
-        (137) __Taunton River, Massachusetts.—__ 
+        (137)  __Taunton River, Massachusetts__  __.—__ 
 
         The segment downstream from the headwaters, from the confluence of the Town River and the Matfield River in Bridgewater to the confluence with the Forge River in Raynham, Massachusetts.
 
-        (138) __Eightmile River, Connecticut.—__ 
+        (138)  __Eightmile River, Connecticut__  __.—__ 
 
         The segment from its headwaters downstream to its confluence with the Connecticut River.
 
-        (139) __Lower Farmington River and Salmon Brook, Connecticut.—__ 
+        (139)  __Lower Farmington River and Salmon Brook, Connecticut__  __.—__ 
 
         The segment of the Farmington River downstream from the segment designated as a recreational river by [section 1274(a)(156) of this title][/us/usc/t16/s1274/a/156] to its confluence with the Connecticut River, and the segment of the Salmon Brook including its mainstream and east and west branches.
 
-        (140) __Missisquoi and trout rivers, vermont.—__ 
+        (140)  __Missisquoi and trout rivers, vermont__  __.—__ 
 
         The approximately 25-mile segment of the upper Missisquoi from its headwaters in Lowell to the Canadian border in North Troy, the approximately 25-mile segment from the Canadian border in East Richford to Enosburg Falls, and the approximately 20-mile segment of the Trout River from its headwaters to its confluence with the Missisquoi River.
 
@@ -489,7 +489,7 @@
 
         (16) The study of the Wekiva River and the tributaries designated in paragraph (136) of subsection (a) of this section shall be completed and the report transmitted to Congress not later than two years after October 19, 1996.
 
-        (17) __Taunton River, Massachusetts.—__ 
+        (17)  __Taunton River, Massachusetts__  __.—__ 
 
         Not later than 3 years after October 19, 2000, the Secretary of the Interior—
 
@@ -499,7 +499,7 @@
 
         (18) The study of the Eightmile River, Connecticut, named in paragraph (138) of subsection (a) of this section shall be completed by the Secretary of the Interior and the report thereon submitted to Congress not later than 3 years after November 6, 2001.
 
-        (19) __Missisquoi and trout rivers, vermont.—__ 
+        (19)  __Missisquoi and trout rivers, vermont__  __.—__ 
 
         Not later than 3 years after the date on which funds are made available to carry out this paragraph, the Secretary of the Interior shall—
 

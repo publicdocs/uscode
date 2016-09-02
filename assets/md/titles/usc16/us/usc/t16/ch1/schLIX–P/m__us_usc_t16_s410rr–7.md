@@ -53,7 +53,7 @@
 
 [Pub. L. 101–536, § 2][/us/pl/101/536/s2], Nov. 8, 1990, [104 Stat. 2368][/us/stat/104/2368], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress makes the following findings:
 
@@ -63,7 +63,7 @@
 
 >         “(3) the campsite and headquarters of the Union forces during the Battle of Glorieta are currently within the boundary of Pecos National Historical Park.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of this Act \[enacting this section and provisions set out as a note under [section 410rr of this title][/us/usc/t16/s410rr]\] is to preserve and interpret the Battle of Glorieta and to enhance visitor understanding of the Civil War and the Far West by establishing a new unit of Pecos National Historical Park.”
 

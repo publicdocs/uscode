@@ -191,7 +191,7 @@
 
 >     “(b) For the purposes of paragraph 7(a)(3) of the Land and Water Conservation Fund Act of 1965, as amended ([16 U.S.C. 460][/us/usc/t16/s460]l–9), the statutory ceiling provided in subsection (a) shall be deemed to have been enacted prior to the convening of the Ninety-fifth Congress \[Jan. 4, 1977\].
 
->     “(c) __Additional Funding.—__ 
+>     “(c)  __Additional Funding__  __.—__ 
 
 >     In addition to such sums as have been heretofore appropriated, there is hereby authorized $10,000,000 for acquisition of lands and interests therein.
 
@@ -205,11 +205,11 @@
 
 > “SEC. 108. __INTERMODAL TRANSPORTATION CENTER.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary may provide assistance in the planning, construction, and operation of an intermodal transportation center located outside of the boundary of the Park in the town of Trenton, Maine to improve the management, interpretation, and visitor enjoyment of the Park.
 
->     “(b) __Agreements.—__ 
+>     “(b)  __Agreements__  __.—__ 
 
 >     To carry out subsection (a), in administering the intermodal transportation center, the Secretary may enter into interagency agreements with other Federal agencies, and, notwithstanding chapter 63 of title 31, United States Code, cooperative agreements, under appropriate terms and conditions, with State and local agencies, and nonprofit organizations—
 
@@ -223,11 +223,11 @@
 
 >     “(c) __Authorization of Appropriations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There are authorized to be appropriated to the Secretary not more than 40 percent of the total cost necessary to carry out this section (including planning, design and construction of the intermodal transportation center).
 
->         “(2) __Operations and maintenance.—__ 
+>         “(2)  __Operations and maintenance__  __.—__ 
 
 >         There are authorized to be appropriated to the Secretary not more than 85 percent of the total cost necessary to maintain and operate the intermodal transportation center.”
 

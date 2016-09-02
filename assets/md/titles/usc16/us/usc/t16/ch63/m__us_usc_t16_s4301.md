@@ -57,15 +57,15 @@
 
 > “SEC. 3. __LAND WITHDRAWAL.__ 
 
->     “(a) __Withdrawal.—__ 
+>     “(a)  __Withdrawal__  __.—__ 
 
 >     Subject to valid existing rights, all Federal lands within the boundaries of the cave protection area described in subsection (b) are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the United States mining laws; and from disposition under all laws pertaining to mineral and geothermal leasing, and all amendments thereto.
 
->     “(b) __Land Description.—__ 
+>     “(b)  __Land Description__  __.—__ 
 
 >     The cave protection area referred to in subsection (a) shall consist of approximately 6,280 acres of lands in New Mexico as generally depicted on the map entitled ‘Lechuguilla Cave Protection Area’ numbered 130/80,055 and dated April 1993.
 
->     “(c) __Publication, Filing, Correction, and Inspection.—__ 
+>     “(c)  __Publication, Filing, Correction, and Inspection__  __.—__ 
 
 >         (1) As soon as practicable after the date of enactment of this Act \[Dec. 2, 1993\], the Secretary of the Interior (hereinafter referred to as the ‘Secretary’) shall publish in the Federal Register the legal description of the lands withdrawn under subsection (a) and shall file such legal description and a detailed map with the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives.
 
@@ -75,11 +75,11 @@
 
 > “SEC. 4. __MANAGEMENT OF EXISTING LEASES.__ 
 
->     “(a) __Suspension.—__ 
+>     “(a)  __Suspension__  __.—__ 
 
 >     The Secretary shall not permit any new drilling on or involving any Federal mineral or geothermal lease within the cave protection area referred to in section 3(a) until the effective date of the Record of Decision for the Dark Canyon Environmental Impact Statement, or for 12 months after the date of enactment of this Act \[Dec. 2, 1993\], whichever occurs first.
 
->     “(b) __Authority To Cancel Existing Mineral or Geothermal Leases.—__ 
+>     “(b)  __Authority To Cancel Existing Mineral or Geothermal Leases__  __.—__ 
 
 >     Upon the effective date of the Record of Decision for the Dark Canyon Environmental Impact Statement and in order to protect Lechuguilla Cave or other cave resources, the Secretary is authorized to—
 
@@ -89,15 +89,15 @@
 
 > “SEC. 5. __ADDITIONAL PROTECTION AND RELATION TO OTHER LAWS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In order to protect Lechuguilla Cave or Federal lands within the cave protection area, the Secretary, subject to valid existing rights, may limit or prohibit access to or across lands owned by the United States or prohibit the removal from such lands of any mineral, geological, or cave resources: Provided, That existing access to private lands within the cave protection area shall not be affected by this subsection.
 
->     “(b) __No Effect on Pipelines.—__ 
+>     “(b)  __No Effect on Pipelines__  __.—__ 
 
 >     Nothing in this title \[Act\] shall have the effect of terminating any validly issued right-of-way, or customary operation, maintenance, repair, and replacement activities in such right-of-way; prohibiting the upgrading of and construction on existing facilities in such right-of-way for the purpose of increasing capacity of the existing pipeline; or prohibiting the renewal of such right-of-way within the cave protection area referred to in section 3(a).
 
->     “(c) __Relation to Other Laws.—__ 
+>     “(c)  __Relation to Other Laws__  __.—__ 
 
 >     Nothing in this Act shall be construed as increasing or diminishing the ability of any party to seek compensation pursuant to other applicable law, including but not limited to the Tucker Act ([28 U.S.C. 1491][/us/usc/t28/s1491]), or as precluding any defenses or claims otherwise available to the United States in connection with any action seeking such compensation from the United States.
 

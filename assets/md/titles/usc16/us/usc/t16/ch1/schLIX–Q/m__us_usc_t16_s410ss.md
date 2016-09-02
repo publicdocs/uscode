@@ -43,7 +43,7 @@
 
 [Pub. L. 107–218, § 2][/us/pl/107/218/s2], Aug. 21, 2002, [116 Stat. 1328][/us/stat/116/1328], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds the following:
 
@@ -53,7 +53,7 @@
 
 >         “(3) Tumacacori National Historical Park plays a major role in interpreting the Spanish colonial heritage of the United States.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this Act \[see Short Title of 2002 Amendment note above\] are—
 

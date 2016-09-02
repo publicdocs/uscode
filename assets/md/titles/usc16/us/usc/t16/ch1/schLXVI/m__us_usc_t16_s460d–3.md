@@ -53,19 +53,19 @@
 
 [Section 208(c) of Pub. L. 104–303][/us/pl/104/303/s208/c], as amended by [Pub. L. 106–53, title II, § 218][/us/pl/106/53/s218], Aug. 17, 1999, [113 Stat. 294][/us/stat/113/294], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary shall evaluate the feasibility of implementing an alternative to the $25 annual pass that the Secretary currently offers to users of recreation facilities at water resources projects of the Corps of Engineers.
 
->     “(2) __Annual pass.—__ 
+>     “(2)  __Annual pass__  __.—__ 
 
 >     The evaluation under paragraph (1) shall include the establishment on a test basis of an annual pass that costs $10 or less for the use of recreation facilities, including facilities at Raystown Lake, Pennsylvania.
 
->     “(3) __Report.—__ 
+>     “(3)  __Report__  __.—__ 
 
 >     Not later than December 31, 1999, the Secretary shall transmit to Congress a report on the results of the evaluation carried out under this subsection, together with recommendations concerning whether annual passes for individual projects should be offered on a nationwide basis.
 
->     “(4) __Expiration of authority.—__ 
+>     “(4)  __Expiration of authority__  __.—__ 
 
 >     The authority to establish an annual pass under paragraph (2) shall expire on the \[sic\] December 31, 2003.”
 

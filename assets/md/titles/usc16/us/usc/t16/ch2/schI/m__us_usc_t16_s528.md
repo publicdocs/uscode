@@ -29,53 +29,53 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 339\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–199, as amended by [Pub. L. 108–108, title III, § 335][/us/pl/108/108/s335], Nov. 10, 2003, [117 Stat. 1312][/us/stat/117/1312]; [Pub. L. 111–88, div. A, title IV, § 420][/us/pl/111/88/s420], Oct. 30, 2009, [123 Stat. 2960][/us/stat/123/2960], provided that:
 
->     “(a) __Definition of Forest Botanical Product.—__ 
+>     “(a)  __Definition of Forest Botanical Product__  __.—__ 
 
 >     For purposes of this section, the term ‘forest botanical product’ means any naturally occurring mushrooms, fungi, flowers, seeds, roots, bark, leaves, and other vegetation (or portion thereof) that grow on National Forest System lands. The term does not include trees, except as provided in regulations issued under this section by the Secretary of Agriculture.
 
->     “(b) __Recovery of Fair Market Value for Products.—__ 
+>     “(b)  __Recovery of Fair Market Value for Products__  __.—__ 
 
 >     The Secretary of Agriculture shall develop and implement a pilot program to charge and collect fees under subsection (c) for forest botanical products harvested on National Forest System lands. The Secretary shall establish appraisal methods and bidding procedures to determine the fair market value of forest botanical products harvested under the pilot program.
 
 >     “(c) __Fees.—__ 
 
->         “(1) __Imposition and collection.—__ 
+>         “(1)  __Imposition and collection__  __.—__ 
 
 >         Under the pilot program, the Secretary of Agriculture shall charge and collect from a person who harvests forest botanical products on National Forest System lands a fee in an amount established by the Secretary to recover at least a portion of the fair market value of the harvested forest botanical products and a portion of the costs incurred by the Department of Agriculture associated with granting, modifying, or monitoring the authorization for harvest of the forest botanical products, including the costs of any environmental or other analysis.
 
->         “(2) __Security.—__ 
+>         “(2)  __Security__  __.—__ 
 
 >         The Secretary may require a person assessed a fee under this subsection to provide security to ensure that the Secretary receives the fees imposed under this subsection from the person.
 
->     “(d) __Sustainable Harvest Levels for Forest Botanical Products.—__ 
+>     “(d)  __Sustainable Harvest Levels for Forest Botanical Products__  __.—__ 
 
 >     The Secretary of Agriculture shall conduct appropriate analyses to determine whether and how the harvest of forest botanical products on National Forest System lands can be conducted on a sustainable basis. The Secretary may not permit under the pilot program the harvest of forest botanical products at levels in excess of sustainable harvest levels, as defined pursuant to the Multiple-Use Sustained-Yield Act of 1960 ([16 U.S.C. 528][/us/usc/t16/s528] et seq.). The Secretary shall establish procedures and timeframes to monitor and revise the harvest levels established for forest botanical products.
 
 >     “(e) __Waiver Authority.—__ 
 
->         “(1) __Personal use.—__ 
+>         “(1)  __Personal use__  __.—__ 
 
 >         The Secretary of Agriculture shall establish a personal use harvest level for each forest botanical product, and the harvest of a forest botanical product below that level by a person for personal use shall not be subject to a fee under subsection (c).
 
->         “(2) __Other exceptions.—__ 
+>         “(2)  __Other exceptions__  __.—__ 
 
 >         The Secretary may also waive the application of subsection (b) or (c) pursuant to such regulations as the Secretary may prescribe.
 
 >     “(f) __Deposit and Use of Funds.—__ 
 
->         “(1) __Deposit.—__ 
+>         “(1)  __Deposit__  __.—__ 
 
 >         Funds collected under the pilot program in accordance with subsection (c) shall be deposited into a special account in the Treasury of the United States.
 
->         “(2) __Funds available.—__ 
+>         “(2)  __Funds available__  __.—__ 
 
 >         Funds deposited into the special account in accordance with paragraph (1) shall be available for expenditure by the Secretary of Agriculture under paragraph (3) without further appropriation, and shall remain available for expenditure until the date specified in subsection (h)(2).
 
->         “(3) __Authorized uses.—__ 
+>         “(3)  __Authorized uses__  __.—__ 
 
 >         The funds made available under paragraph (2) shall be expended at units of the National Forest System in proportion to the fees collected at that unit under subsection (c) to pay for the costs of conducting inventories of forest botanical products, determining sustainable levels of harvest, monitoring and assessing the impacts of harvest levels and methods, conducting restoration activities, including any necessary vegetation, and covering costs of the Department of Agriculture described in subsection (c)(1).
 
->         “(4) __Treatment of fees.—__ 
+>         “(4)  __Treatment of fees__  __.—__ 
 
 >         Funds collected under subsection (c) shall not be taken into account for the purposes of the following laws:
 
@@ -97,17 +97,17 @@
 
 >             “(I) Any other provision of law relating to revenue allocation.
 
->     “(g) __Reporting Requirements.—__ 
+>     “(g)  __Reporting Requirements__  __.—__ 
 
 >     As soon as practicable after the end of each fiscal year in which the Secretary of Agriculture collects fees under subsection (c) or expends funds from the special account under subsection (f), the Secretary shall submit to the Congress a report summarizing the activities of the Secretary under the pilot program, including the funds generated under subsection (c), the expenses incurred to carry out the pilot program, and the expenditures made from the special account during that fiscal year.
 
 >     “(h) __Duration of Pilot Program.—__ 
 
->         “(1) __Collection of fees.—__ 
+>         “(1)  __Collection of fees__  __.—__ 
 
 >         The Secretary of Agriculture may collect fees under the authority of subsection (c) until September 30, 2014.
 
->         “(2) __Use of special account.—__ 
+>         “(2)  __Use of special account__  __.—__ 
 
 >         The Secretary may make expenditures from the special account under subsection (f) until September 30 of the fiscal year following the last fiscal year specified in paragraph (1). After that date, amounts remaining in the special account shall be transferred to the general fund of the Treasury.”
 

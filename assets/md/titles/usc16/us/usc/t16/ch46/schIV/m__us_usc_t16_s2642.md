@@ -65,11 +65,11 @@
 
 >     “(e) __Demand Response and Regional Coordination.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         It is the policy of the United States to encourage States to coordinate, on a regional basis, State energy policies to provide reliable and affordable demand response services to the public.
 
->         “(2) __Technical assistance.—__ 
+>         “(2)  __Technical assistance__  __.—__ 
 
 >         The Secretary \[of Energy\] shall provide technical assistance to States and regional organizations formed by two or more States to assist them in—
 
@@ -81,7 +81,7 @@
 
 >             “(D) identifying specific measures consumers can take to participate in these demand response programs.
 
->         “(3) __Report.—__ 
+>         “(3)  __Report__  __.—__ 
 
 >         Not later than 1 year after the date of enactment of the Energy Policy Act of 2005 \[Aug. 8, 2005\], the \[Federal Energy Regulatory\] Commission shall prepare and publish an annual report, by appropriate region, that assesses demand response resources, including those available from all consumer classes, and which identifies and reviews—
 
@@ -97,7 +97,7 @@
 
 >             “(F) regulatory barriers to improve customer participation in demand response, peak reduction and critical period pricing programs.
 
->     “(f) __Federal Encouragement of Demand Response Devices.—__ 
+>     “(f)  __Federal Encouragement of Demand Response Devices__  __.—__ 
 
 >     It is the policy of the United States that time-based pricing and other forms of demand response, whereby electricity customers are provided with electricity price signals and the ability to benefit by responding to them, shall be encouraged, the deployment of such technology and devices that enable electricity customers to participate in such pricing and demand response systems shall be facilitated, and unnecessary barriers to demand response participation in energy, capacity and ancillary service markets shall be eliminated. It is further the policy of the United States that the benefits of such demand response that accrue to those not deploying such technology and devices, but who are part of the same regional electricity entity, shall be recognized.”
 

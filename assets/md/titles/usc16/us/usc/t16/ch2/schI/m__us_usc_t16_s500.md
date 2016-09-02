@@ -81,19 +81,19 @@ Provisions similar to those in this section were contained in the following prio
 
 [Pub. L. 106–291, title III, § 320][/us/pl/106/291/s320], Oct. 11, 2000, [114 Stat. 990][/us/stat/114/990], as amended by [Pub. L. 108–319, § 1][/us/pl/108/319/s1], Oct. 5, 2004, [118 Stat. 1212][/us/stat/118/1212], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Advisory committee.—__ 
+>         “(1)  __Advisory committee__  __.—__ 
 
 >         The term ‘Advisory Committee’ means the Forest Counties Payments Committee established by this section.
 
->         “(2) __Committees of jurisdiction.—__ 
+>         “(2)  __Committees of jurisdiction__  __.—__ 
 
 >         The term ‘committees of jurisdiction’ means the Committee on Agriculture, the Committee on Resources \[now Committee on Natural Resources\], and the Committee on Appropriations of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry, the Committee on Energy and Natural Resources, and the Committee on Appropriations of the Senate.
 
->         “(3) __Eligible county.—__ 
+>         “(3)  __Eligible county__  __.—__ 
 
 >         The term ‘eligible county’ means a county that, for one or more of the fiscal years 1986 through 1999, received—
 
@@ -101,11 +101,11 @@ Provisions similar to those in this section were contained in the following prio
 
 >             “(B) a portion of an eligible State’s payment, as described in paragraph (4).
 
->         “(4) __Eligible state.—__ 
+>         “(4)  __Eligible state__  __.—__ 
 
 >         The term ‘eligible State’ means a State that, for one or more of the fiscal years 1986 through 1999, received a payment under the sixth paragraph under the heading of ‘FOREST SERVICE’ in the Act of May 23, 1908 ([35 Stat. 260][/us/stat/35/260]; [16 U.S.C. 500][/us/usc/t16/s500]), or [section 13 of the Act of March 1, 1911][/us/act/1911-03-01/s13] ([36 Stat. 963][/us/stat/36/963]; [16 U.S.C. 500][/us/usc/t16/s500]).
 
->         “(5) __Federal lands.—__ 
+>         “(5)  __Federal lands__  __.—__ 
 
 >         The term ‘Federal lands’ means the following:
 
@@ -113,17 +113,17 @@ Provisions similar to those in this section were contained in the following prio
 
 >             “(B) Such portions of the Oregon and California Railroad grant lands revested in the United States by the Act of June 9, 1916 (chapter 137; [39 Stat. 218][/us/stat/39/218]), and the Coos Bay Wagon Road grant lands reconveyed to the United States by the Act of February 26, 1919 (chapter 47; [40 Stat. 1179][/us/stat/40/1179]), as are or may hereafter come under the jurisdiction of the Secretary of the Interior, which have heretofore or may hereafter be classified as timberlands, and power-site lands valuable for timber, that shall be managed, except as provided in the former [section 3 of the Act of August 28, 1937][/us/act/1937-08-28/s3] ([50 Stat. 875][/us/stat/50/875]; [43 U.S.C. 1181c][/us/usc/t43/s1181c]), for permanent forest production.
 
->         “(6) __Sustainable forestry.—__ 
+>         “(6)  __Sustainable forestry__  __.—__ 
 
 >         The term ‘sustainable forestry’ means the practice of meeting the forest resource needs and values of the present without compromising the similar capability of future generations.
 
 >     “(b) __Establishment of Advisory Committee.—__ 
 
->         “(1) __Establishment required.—__ 
+>         “(1)  __Establishment required__  __.—__ 
 
 >         There is hereby established an advisory committee, to be known as the Forest Counties Payments Committee, to develop recommendations, consistent with sustainable forestry, regarding methods to ensure that States and counties in which Federal lands are situated receive adequate Federal payments to be used for the benefit of public education and other public purposes.
 
->         “(2) __Members.—__ 
+>         “(2)  __Members__  __.—__ 
 
 >         The Advisory Committee shall be composed of the following members:
 
@@ -137,39 +137,39 @@ Provisions similar to those in this section were contained in the following prio
 
 >             “(E) Two members who are elected members of school boards for, superintendents from, or teachers employed by, school districts in eligible counties; one such member to be appointed by the President pro tempore of the Senate (in consultation with the chairmen and ranking members of the committees of jurisdiction of the Senate) and one such member to be appointed by the Speaker of the House of Representatives (in consultation with the chairmen and ranking members of the committees of jurisdiction of the House of Representatives) within 60 days of the date of the enactment of this Act \[Oct. 11, 2000\].
 
->         “(3) __Geographic representation.—__ 
+>         “(3)  __Geographic representation__  __.—__ 
 
 >         In making appointments under subparagraphs (D) and (E) of paragraph (2), the President pro tempore of the Senate and the Speaker of the House of Representatives shall seek to ensure that the Advisory Committee members are selected from geographically diverse locations.
 
 >         “(4) __Organization of advisory committee.—__ 
 
->             “(A) __Chairperson.—__ 
+>             “(A)  __Chairperson__  __.—__ 
 
 >             The Chairperson of the Advisory Committee shall be selected from among the members appointed pursuant to subparagraphs (D) and (E) of paragraph (2).
 
->             “(B) __Vacancies.—__ 
+>             “(B)  __Vacancies__  __.—__ 
 
 >             Any vacancy in the membership of the Advisory Committee shall be filled in the same manner as required by paragraph (2). A vacancy shall not impair the authority of the remaining members to perform the functions of the Advisory Committee under this section.
 
->             “(C) __Compensation.—__ 
+>             “(C)  __Compensation__  __.—__ 
 
 >             The members of the Advisory Committee who are not officers or employees of the United States, while attending meetings or other events held by the Advisory Committee or at which the members serve as representatives of the Advisory Committee or while otherwise serving at the request of the Chairperson of the Advisory Committee, shall each be entitled to receive compensation at a rate not in excess of the maximum rate of pay for grade GS–15, as provided in the General Schedule, including traveltime, and while away from their homes or regular places of business, shall each be reimbursed for travel expenses, including per diem in lieu of subsistence as authorized by [section 5703 of title 5][/us/usc/t5/s5703], United States Code, for persons in Government service employed intermittently.
 
 >         “(5) __Staff and rules.—__ 
 
->             “(A) __Executive director.—__ 
+>             “(A)  __Executive director__  __.—__ 
 
 >             The Advisory Committee shall have an Executive Director, who shall be appointed by the Advisory Committee and serve at the pleasure of the Advisory Committee. The Executive Director shall report to the Advisory Committee and assume such duties as the Advisory Committee may assign. The Executive Director shall be paid at a rate not in excess of the maximum rate of pay for grade GS–15, as provided in the General Schedule.
 
->             “(B) __Other staff.—__ 
+>             “(B)  __Other staff__  __.—__ 
 
 >             In addition to authority to appoint personnel subject to the provisions of title 5, United States Code, governing appointments to the competitive service, and to pay such personnel in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, the Advisory Committee shall have authority to enter into contracts with private or public organizations which may furnish the Advisory Committee with such administrative and technical personnel as may be necessary to carry out the functions of the Advisory Committee under this section. To the extent practicable, such administrative and technical personnel, and other necessary support services, shall be provided for the Advisory Committee by the Chief of the Forest Service and the Director of the Bureau of Land Management.
 
->             “(C) __Committee rules.—__ 
+>             “(C)  __Committee rules__  __.—__ 
 
 >             The Advisory Committee may establish such procedural and administrative rules as are necessary for the performance of its functions under this section.
 
->         “(6) __Federal agency cooperation.—__ 
+>         “(6)  __Federal agency cooperation__  __.—__ 
 
 >         The heads of the departments, agencies, and instrumentalities of the executive branch of the Federal Government shall cooperate with the Advisory Committee in the performance of its functions under this section and should furnish, as practicable, to the Advisory Committee information which the Advisory Committee deems necessary to carry out such functions.
 
@@ -177,15 +177,15 @@ Provisions similar to those in this section were contained in the following prio
 
 >         “(1) __Development of recommendations.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Advisory Committee shall develop recommendations for policy or legislative initiatives (or both) regarding alternatives for, or substitutes to, the payments required to be made to eligible States and eligible counties under the provisions of law referred to in paragraphs (3) and (4) of subsection (a) in order to provide a long-term method to generate annual payments to eligible States and eligible counties.
 
->             “(B) __Reporting requirements.—__ 
+>             “(B)  __Reporting requirements__  __.—__ 
 
 >             Not later than 18 months after the date of the enactment of this Act \[Oct. 11, 2000\], the Advisory Committee shall submit to the committees of jurisdiction a final report containing the recommendations developed under this subsection. The Advisory Committee shall submit semiannual progress reports on its activities and expenditures to the committees of jurisdiction until the final report has been submitted.
 
->         “(2) __Guidance for committee.—__ 
+>         “(2)  __Guidance for committee__  __.—__ 
 
 >         In developing the recommendations required by paragraph (1), the Advisory Committee shall—
 
@@ -197,23 +197,23 @@ Provisions similar to those in this section were contained in the following prio
 
 >             “(D) evaluate the expenditures by counties on activities on Federal lands which are Federal responsibilities.
 
->         “(3) __Monitoring and related reporting activities.—__ 
+>         “(3)  __Monitoring and related reporting activities__  __.—__ 
 
 >         The Advisory Committee shall monitor the payments made to eligible States and eligible counties under the provisions of law referred to in paragraphs (3) and (4) of subsection (a), and related laws, and submit to the committees of jurisdiction an annual report describing the amounts and sources of such payments and containing such comments as the Advisory Committee may have regarding such payments.
 
->         “(4) __Testimony.—__ 
+>         “(4)  __Testimony__  __.—__ 
 
 >         The Advisory Committee shall make itself available for testimony or comments on the reports required to be submitted by the Advisory Committee and on any legislation or regulations to implement any recommendations made in such reports in any congressional hearings or any rulemaking or other administrative decision process.
 
->     “(d) __Federal Advisory Committee Act Requirements.—__ 
+>     “(d)  __Federal Advisory Committee Act Requirements__  __.—__ 
 
 >     The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Advisory Committee.
 
->     “(e) __Termination of Advisory Committee.—__ 
+>     “(e)  __Termination of Advisory Committee__  __.—__ 
 
 >     The Advisory Committee shall terminate on September 30, 2007.
 
->     “(f) __Funding Source.—__ 
+>     “(f)  __Funding Source__  __.—__ 
 
 >     At the request of the Executive Director of the Advisory Committee, the Secretary of Agriculture shall provide funds from any account available to the Secretary, not to exceed $200,000 in fiscal year 2001, for the work of the Advisory Committee necessary to meet the requirements of this section.”
 

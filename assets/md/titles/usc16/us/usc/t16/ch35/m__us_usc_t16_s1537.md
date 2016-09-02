@@ -101,11 +101,11 @@
 
 >     “(b)
 
->         (1) __In General.—__ 
+>         (1)  __In General__  __.—__ 
 
 >         The importation of shrimp or products from shrimp which have been harvested with commercial fishing technology which may affect adversely such species of sea turtles shall be prohibited not later than May 1, 1991, except as provided in paragraph (2).
 
->         “(2) __Certification Procedure.—__ 
+>         “(2)  __Certification Procedure__  __.—__ 
 
 >         The ban on importation of shrimp or products from shrimp pursuant to paragraph (1) shall not apply if the President shall determine and certify to the Congress not later than May 1, 1991, and annually thereafter that—
 

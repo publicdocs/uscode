@@ -65,19 +65,19 @@
 
 [Pub. L. 100–647, title X, § 10004][/us/pl/100/647/s10004], Nov. 10, 1988, [102 Stat. 3811][/us/stat/102/3811], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Secretary of the Interior (here­after in this section referred to as the ‘Secretary’), in consultation and consensus with the Commonwealth of Virginia, the Federal Highway Administration, and Prince William County, shall conduct a study regarding the relocation of highways (known as routes 29 and 234) in, and in the vicinity of, the Manassas National Battlefield Park (hereinafter in this section referred to as the ‘park’). The study shall include an assessment of the available alternatives, together with cost estimates and recommendations regarding preferred options. The study shall specifically consider and develop plans for the closing of those public highways (known as routes 29 and 234) that transect the park and shall include analysis of the timing and method of such closures and of means to provide alternative routes for traffic now transecting the park. The Secretary shall provide for extensive public involvement in the preparation of the study.
 
->     “(b) __Determination.—__ 
+>     “(b)  __Determination__  __.—__ 
 
 >     Within 1 year after the enactment of this Act \[Nov. 10, 1988\], the Secretary shall complete the study under subsection (a). The study shall determine when and how the highways (known as routes 29 and 234) should be closed.
 
->     “(c) __Assistance.—__ 
+>     “(c)  __Assistance__  __.—__ 
 
 >     The Secretary shall provide funds to the appropriate construction agency for the construction and improvement of the highways to be used for the rerouting of traffic now utilizing highways (known as routes 29 and 234) to be closed pursuant to subsection (b) if the construction and improvement of such alternatives are deemed by the Secretary to be in the interest of protecting the integrity of the park. Not more than 75 percent of the costs of such construction and improvement shall be provided by the Secretary and at least 25 percent shall be provided by State or local governments from any source other than Federal funds. Such construction and improvement shall be approved by the Secretary of Transportation.
 
->     “(d) __Authorization.—__ 
+>     “(d)  __Authorization__  __.—__ 
 
 >     There is authorized to be appropriated to the Secretary not to exceed $30,000,000 to prepare the study required by subsection (a) and to provide the funding described in subsection (c).”
 

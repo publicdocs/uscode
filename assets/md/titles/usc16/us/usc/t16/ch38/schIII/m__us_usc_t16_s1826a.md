@@ -117,7 +117,7 @@
 
 [Pub. L. 102–582, § 2][/us/pl/102/582/s2], Nov. 2, 1992, [106 Stat. 4900][/us/stat/106/4900], as amended by [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -141,7 +141,7 @@
 
 >         “(10) In order to ensure that the global moratorium on large-scale driftnet fishing called for in United Nations General Assembly Resolution numbered 46–215 takes effect by December 31, 1992, and that unregulated fishing practices in the waters of the Central Bering Sea are reduced or eliminated, the United States should take the actions described in this Act \[see Short Title of 1992 Amendments note set out under [section 1801 of this title][/us/usc/t16/s1801]\] and encourage other nations to take similar action.
 
->     “(b) __Policy.—__ 
+>     “(b)  __Policy__  __.—__ 
 
 >     It is the stated policy of the United States to—
 

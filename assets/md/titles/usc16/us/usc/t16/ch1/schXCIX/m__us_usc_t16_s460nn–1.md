@@ -25,11 +25,11 @@
 
 [Pub. L. 110–1, § 1][/us/pl/110/1/s1], Jan. 17, 2007, [121 Stat. 3][/us/stat/121/3], provided that:
 
->     “(a) __Redesignation.—__ 
+>     “(a)  __Redesignation__  __.—__ 
 
 >     The White Rocks National Recreation Area in the State of Vermont, as established by section 202 of the Vermont Wilderness Act of 1984 ([16 U.S.C. 460nn–1][/us/usc/t16/s460nn–1]), is redesignated as the ‘Robert T. Stafford White Rocks National Recreation Area’.
 
->     “(b) __References.—__ 
+>     “(b)  __References__  __.—__ 
 
 >     Any reference in a law, map, regulation, document, paper, or other record of the United States to the recreation area referred to in subsection (a) shall be deemed to be a reference to the Robert T. Stafford White Rocks National Recreation Area.”
 

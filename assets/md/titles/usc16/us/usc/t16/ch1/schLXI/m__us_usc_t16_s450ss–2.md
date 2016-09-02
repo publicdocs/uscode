@@ -17,7 +17,7 @@
 
     (a) In order to preserve for the benefit and inspiration of the people of the United States and the world, as a National Memorial certain lands located in Oklahoma City, Oklahoma, there is established as an affiliate of the National Park System the Oklahoma City National Memorial.
 
-    (b) __Administration of Memorial.—__ 
+    (b)  __Administration of Memorial__  __.—__ 
 
     The Foundation shall administer the Memorial in accordance with sections 450ss to 450ss–7 of this title and the general objectives of the “Memorial Mission Statement”, adopted March 26, 1996, by the Foundation.
 

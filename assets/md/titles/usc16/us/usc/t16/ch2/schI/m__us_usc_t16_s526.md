@@ -27,11 +27,11 @@
 
 [Pub. L. 104–127, title III, § 389][/us/pl/104/127/s389], Apr. 4, 1996, [110 Stat. 1021][/us/stat/110/1021], as amended by [Pub. L. 104–180, title VII, § 736][/us/pl/104/180/s736], Aug. 6, 1996, [110 Stat. 1607][/us/stat/110/1607], provided that:
 
->     “(a) __Moratorium.—__ 
+>     “(a)  __Moratorium__  __.—__ 
 
 >     There shall be a 20-month moratorium on any Forest Service decision to require bypass flows or any other relinquishment of the unimpaired use of a decreed water right as a condition of renewal or reissuance of a land use authorization permit.
 
->     “(b) __Limitations.—__ 
+>     “(b)  __Limitations__  __.—__ 
 
 >     Subsection (a) shall not affect—
 
@@ -41,21 +41,21 @@
 
 >     “(c) __Rules of Construction.—__ 
 
->         “(1) __Existing non-federal water rights.—__ 
+>         “(1)  __Existing non-federal water rights__  __.—__ 
 
 >         Nothing in this section prevents or inhibits the exercise of the use and operation of existing non-Federal water rights on or above the National Forest land that require land use authorization permits from the Forest Service to access water supply facilities.
 
->         “(2) __Renewal or reissuance of expiring land use authorization for decreed water rights.—__ 
+>         “(2)  __Renewal or reissuance of expiring land use authorization for decreed water rights__  __.—__ 
 
 >         Nothing in this section prevents or inhibits the renewal or reissuance of expiring land use authorizations for decreed water rights. The Forest Service may extend, as needed, any expiring land use authorization for such time as is necessary to incorporate the results of the study authorized by subsection (d).
 
 >     “(d) __Study of Water Rights Across Federal Lands.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         Not later than 60 days after the date of enactment of this Act \[Apr. 4, 1996\], there shall be established a Water Rights Task Force to study the subjects described in paragraph (3).
 
->         “(2) __Membership.—__ 
+>         “(2)  __Membership__  __.—__ 
 
 >         The Task Force shall be composed of 7 members appointed as follows:
 
@@ -65,7 +65,7 @@
 
 >             “(C) 2 members shall be appointed by the Majority Leader of the Senate and 1 member shall be appointed by the Minority Leader of the Senate.
 
->         “(3) __Subjects to be studied.—__ 
+>         “(3)  __Subjects to be studied__  __.—__ 
 
 >         The Task Force shall study and make recommendations on—
 
@@ -79,7 +79,7 @@
 
 >             “(E) measures that would be useful in avoiding or resolving conflicts between the Forest Service’s responsibilities for natural resource and environmental protection, the public interest, and the property rights and interests of water holders with special use permits for water facilities, including the study of the Federal acquisition of water rights, dispute resolution, mitigation, and compensation.
 
->         “(4) __Final report.—__ 
+>         “(4)  __Final report__  __.—__ 
 
 >         As soon as practicable, but not later than 14 months, after the date of enactment of this Act \[Apr. 4, 1996\], the Task Force shall provide the final report of the Task Force to—
 
@@ -97,11 +97,11 @@
 
 >             “(G) the Chairman of the Committee on Energy and Natural Resources of the Senate.
 
->         “(5) __Authorization of funds.—__ 
+>         “(5)  __Authorization of funds__  __.—__ 
 
 >         The Secretary of Agriculture shall use funds made available for salaries and administrative expenses of the Department of Agriculture to carry out this subsection.
 
->     “(e) __Extension for Delay.—__ 
+>     “(e)  __Extension for Delay__  __.—__ 
 
 >     There shall be a day-for-day extension to the 20-month moratorium required by subsection (a) and a day-for-day extension to the report required by subsection (d)(4)—
 

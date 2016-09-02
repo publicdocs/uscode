@@ -53,15 +53,15 @@
 
         (7) __Required sale.—__ 
 
-            (A) __Definition of a joint operating entity.—__ 
+            (A)  __Definition of a joint operating entity__  __.—__ 
 
             In this section, the term “joint operating entity” means an entity that is lawfully organized under State law as a public body or cooperative prior to September 22, 2000, and is formed by and whose members or participants are two or more public bodies or cooperatives, each of which was a customer of the Bonneville Power Administration on or before January 1, 1999.
 
-            (B) __Sale.—__ 
+            (B)  __Sale__  __.—__ 
 
             Pursuant to paragraph (1), the Administrator shall sell, at wholesale to a joint operating entity, electric power solely for the purpose of meeting the regional firm power consumer loads of regional public bodies and cooperatives that are members of or participants in the joint operating entity.
 
-            (C) __No resale.—__ 
+            (C)  __No resale__  __.—__ 
 
             A public body or cooperative to which a joint operating entity sells electric power under subparagraph (B) shall not resell that power except to retail customers of the public body or cooperative or to another regional member or participant of the same joint operating entity, or except as otherwise permitted by law.
 

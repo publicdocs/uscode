@@ -1309,27 +1309,27 @@ Great Basin National Heritage Route, Nevada and Utah.—Pub. L. 109–338, title
 
 > “SECTION 1. __PRESERVATION OF HISTORIC CONFINEMENT SITES.__ 
 
->     “(a) __Preservation Program.—__ 
+>     “(a)  __Preservation Program__  __.—__ 
 
 >     The Secretary shall create a program within the National Park Service to encourage, support, recognize, and work in partnership with citizens, Federal agencies, State, local, and tribal governments, other public entities, educational institutions, and private nonprofit organizations for the purpose of identifying, researching, evaluating, interpreting, protecting, restoring, repairing, and acquiring historic confinement sites in order that present and future generations may learn and gain inspiration from these sites and that these sites will demonstrate the Nation’s commitment to equal justice under the law.
 
 >     “(b) __Grants.—__ 
 
->         “(1) __Criteria.—__ 
+>         “(1)  __Criteria__  __.—__ 
 
 >         The Secretary, after consultation with State, local, and tribal governments, other public entities, educational institutions, and private nonprofit organizations (including organizations involved in the preservation of historic confinement sites), shall develop criteria for making grants under paragraph (2) to assist in carrying out subsection (a).
 
->         “(2) __Provision of grants.—__ 
+>         “(2)  __Provision of grants__  __.—__ 
 
 >         Not later than 180 days after the date on which funds are made available to carry out this Act, the Secretary shall, subject to the availability of appropriations, make grants to the entities described in paragraph (1) only in accordance with the criteria developed under that paragraph.
 
 >     “(c) __Property Acquisition.—__ 
 
->         “(1) __Authority.—__ 
+>         “(1)  __Authority__  __.—__ 
 
 >         Federal funds made available under this section may be used to acquire non-Federal property for the purposes of this section, in accordance with section 3, only if that property is within the areas described in paragraph (2).
 
->         “(2) __Property descriptions.—__ 
+>         “(2)  __Property descriptions__  __.—__ 
 
 >         The property referred to in paragraph (2) \[probably should be “(1)”\] is the following:
 
@@ -1343,15 +1343,15 @@ Great Basin National Heritage Route, Nevada and Utah.—Pub. L. 109–338, title
 
 >             “(E) Heart Mountain, depicted in Figure 6.3 of the Site Document.
 
->         “(3) __No effect on private property.—__ 
+>         “(3)  __No effect on private property__  __.—__ 
 
 >         The authority granted in this subsection shall not constitute a Federal designation or have any effect on private property ownership.
 
->     “(d) __Matching Fund Requirement.—__ 
+>     “(d)  __Matching Fund Requirement__  __.—__ 
 
 >     The Secretary shall require a 50 percent non-Federal match for funds provided under this section.
 
->     “(e) __Sunset of Authority.—__ 
+>     “(e)  __Sunset of Authority__  __.—__ 
 
 >     This Act shall have no force or effect on and after the date that is 2 years after the disbursement to grantees under this section of the total amount of funds authorized to be appropriated under section 4.
 
@@ -1359,17 +1359,17 @@ Great Basin National Heritage Route, Nevada and Utah.—Pub. L. 109–338, title
 
 > “For purposes of this Act the following definitions apply:
 
->     “(1) __Historic confinement sites.—__ 
+>     “(1)  __Historic confinement sites__  __.—__ 
 
 >         (A) The term ‘historic confinement sites’ means the 10 internment camp sites referred to as Gila River, Granada, Heart Mountain, Jerome, Manzanar, Minidoka, Poston, Rohwer, Topaz, and Tule Lake and depicted in Figures 4.1, 5.1, 6.1, 7.1, 8.4, 9.2, 10.6, 11.2, 12.2, and 13.2, respectively, of the Site Document; and
 
 >         “(B) other historically significant locations, as determined by the Secretary, where Japanese Americans were detained during World War II.
 
->     “(2) __Secretary.—__ 
+>     “(2)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of the Interior.
 
->     “(3) __Site document.—__ 
+>     “(3)  __Site document__  __.—__ 
 
 >     The term ‘Site Document’ means the document titled ‘Confinement and Ethnicity: An Overview of World War II Japanese American Relocation Sites’, published by the Western Archeological and Conservation Center, National Park Service, in 1999.
 

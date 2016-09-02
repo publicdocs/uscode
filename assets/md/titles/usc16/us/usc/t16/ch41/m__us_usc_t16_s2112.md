@@ -77,15 +77,15 @@
 
 [Section 1247 of Pub. L. 101–624][/us/pl/101/624/s1247], as amended by [Pub. L. 102–237, title X, § 1018(c)][/us/pl/102/237/s1018/c], Dec. 13, 1991, [105 Stat. 1905][/us/stat/105/1905], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary of Agriculture may establish an International Forest Products Trade Institute (hereafter in this section referred to as the ‘Institute’).
 
->     “(b) __Mission.—__ 
+>     “(b)  __Mission__  __.—__ 
 
 >     The mission of the Institute will be to increase the competitive position of the forest industries of the northeastern United States as major producers of international forest products in order to increase domestic employment and stimulate rural development, and to provide a knowledgeable, objective analysis of global forest resource problems.
 
->     “(c) __Functions.—__ 
+>     “(c)  __Functions__  __.—__ 
 
 >     The Institute shall—
 
@@ -103,7 +103,7 @@
 
 >             “(B) manufacturing facilities that promote ecologically sustainable use, and long-term management, of international forests.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.”
 

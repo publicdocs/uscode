@@ -135,11 +135,11 @@
 
 > “In this subtitle \[subtitle C (§§ 1201–1207) of title I of [Pub. L. 111–11][/us/pl/111/11], see References in Text note above\]:
 
->     “(1) __Secretary.—__ 
+>     “(1)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of Agriculture.
 
->     “(2) __State.—__ 
+>     “(2)  __State__  __.—__ 
 
 >     The term ‘State’ means the State of Oregon.”
 

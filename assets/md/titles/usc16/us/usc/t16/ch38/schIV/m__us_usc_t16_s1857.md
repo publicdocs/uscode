@@ -209,19 +209,19 @@
 
 [Pub. L. 111–348, title I, § 103(b)][/us/pl/111/348/s103/b], Jan. 4, 2011, [124 Stat. 3670][/us/stat/124/3670], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by subsection (a) \[amending this section\] do not apply to an individual engaged in commercial fishing for smooth dogfish (Mustelus canis) in that area of the waters of the United States located shoreward of a line drawn in such a manner that each point on it is 50 nautical miles from the baseline of a State from which the territorial sea is measured, if the individual holds a valid State commercial fishing license, unless the total weight of smooth dogfish fins landed or found on board a vessel to which this subsection applies exceeds 12 percent of the total weight of smooth dogfish carcasses landed or found on board.
 
->     “(2) __Definitions.—__ 
+>     “(2)  __Definitions__  __.—__ 
 
 >     In this subsection:
 
->         “(A) __Commercial fishing.—__ 
+>         “(A)  __Commercial fishing__  __.—__ 
 
 >         The term ‘commercial fishing’ has the meaning given that term in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1802][/us/usc/t16/s1802]).
 
->         “(B) __State.—__ 
+>         “(B)  __State__  __.—__ 
 
 >         The term ‘State’ has the meaning given that term in [section 803 of Public Law 103–206][/us/pl/103/206/s803] ([16 U.S.C. 5102][/us/usc/t16/s5102]).”
 
