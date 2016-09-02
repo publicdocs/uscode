@@ -97,11 +97,11 @@
 
             Notwithstanding paragraph (1)(A), the President may designate as an eligible article or articles under subsection (a) carpets or rugs which are hand-loomed, hand-woven, hand-hooked, hand-tufted, or hand-knotted, and classifiable under subheading 5701.10.16, 5701.10.40, 5701.90.10, 5701.90.20, 5702.10.90, 5702.42.20, 5702.49.10, 5702.51.20, 5702.91.30, 5702.92.00, 5702.99.10, 5703.10.00, 5703.20.10, or 5703.30.00 of the Harmonized Tariff Schedule of the United States.
 
-        (5)  __2__  __Certain cotton articles__ 
+        (5)  __ <sup>\[__  __2__  __\]</sup> __  __ <sup><sup> __  __2__  __ So in original. Two pars. (5) have been enacted.__  __ </sup></sup> __  __Certain cotton articles__ 
 
             Notwithstanding paragraph (3), the President may designate as an eligible article or articles under subsection (a)(1)(B) only for countries designated as least-developed beneficiary developing countries under [section 2462(a)(2) of this title][/us/usc/t19/s2462/a/2] cotton articles classifiable under subheading 5201.00.18, 5201.00.28, 5201.00.38, 5202.99.30, or 5203.00.30 of the Harmonized Tariff Schedule of the United States.
 
-        (5)  __ <sup>\[__  __2__  __\]</sup> __  __ <sup><sup> __  __2__  __ So in original. Two pars. (5) have been enacted.__  __ </sup></sup> __  __Certain luggage and travel articles__ 
+        (5)  __2__  __Certain luggage and travel articles__ 
 
         Notwithstanding subparagraph (A) or (E) of paragraph (1), the President may designate the following as eligible articles under subsection (a):
 

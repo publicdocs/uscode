@@ -231,6 +231,18 @@
 
                               Barack Obama.
 
+ __Delegation of Authority for Drafting and Submission of the International Trade Data System Annual Report to the Congress__ 
+
+    Memorandum of President of the United States, Oct. 20, 2015, 80 F.R. 64305, provided:
+
+    Memorandum for the Secretary of Homeland Security
+
+    By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3][/us/usc/t3/s301], United States Code, I hereby delegate to you the reporting function conferred upon the President by section 405 of the SAFE Port Act of 2006, [Public Law 109–347][/us/pl/109/347].
+
+    You are authorized and directed to publish this memorandum in the Federal Register.
+
+                              Barack Obama.
+
 ----------
 
 [Previous](./../../../../../../..//us/usc/t19/ch4/stIII/ptI/sptb/m__us_usc_t19_ch4_stIII_ptI_sptb.md) | [Next](./../../../../../../..//us/usc/t19/ch4/stIII/ptI/sptb/m__us_usc_t19_s1412.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1411)
@@ -259,6 +271,8 @@
 [/us/pl/107/210/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs151
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
+[/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
 
 

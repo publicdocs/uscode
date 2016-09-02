@@ -39,7 +39,15 @@
 
         (2) before and after submission of the notice, consults regarding the negotiations with the committees referred to in [section 4204(a)(1)(B) of this title][/us/usc/t19/s4204/a/1/B] and the House and Senate Advisory Groups on Negotiations convened under [section 4203(c) of this title][/us/usc/t19/s4203/c].
 
-([Pub. L. 114–26, title I, § 107][/us/pl/114/26/s107], June 29, 2015, [129 Stat. 355][/us/stat/129/355].)
+    (c) __Agreement by Asia-Pacific Economic Cooperation members to reduce rates of duty on certain environmental goods__ 
+
+        Notwithstanding the notification requirement described in [section 4202(a)(2) of this title][/us/usc/t19/s4202/a/2], the President may exercise the proclamation authority provided for in [section 4202(a)(1)(B) of this title][/us/usc/t19/s4202/a/1/B] to implement an agreement by members of the Asia-Pacific Economic Cooperation (APEC) to reduce any rate of duty on certain environmental goods included in Annex C of the APEC Leaders Declaration issued on September 9, 2012, if (and only if) the President, as soon as feasible after December 18, 2015, and before exercising proclamation authority under [section 4202(a)(1)(B) of this title][/us/usc/t19/s4202/a/1/B], notifies Congress of the negotiations relating to the agreement and the specific United States objectives in the negotiations.
+
+([Pub. L. 114–26, title I, § 107][/us/pl/114/26/s107], June 29, 2015, [129 Stat. 355][/us/stat/129/355]; [Pub. L. 114–113, div. Q, title V, § 502][/us/pl/114/113/s502], Dec. 18, 2015, [129 Stat. 3127][/us/stat/129/3127].)
+
+ __Amendments__ 
+
+    2015—Subsec. (c). [Pub. L. 114–113][/us/pl/114/113] added subsec. (c).
 
  __Delegation of Functions__ 
 
@@ -62,8 +70,14 @@
 [/us/usc/t19/s4204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4204%2Fa
 [/us/usc/t19/s4204/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4204%2Fa%2F1%2FB
 [/us/usc/t19/s4203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4203%2Fc
+[/us/usc/t19/s4202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202%2Fa%2F2
+[/us/usc/t19/s4202/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202%2Fa%2F1%2FB
+[/us/usc/t19/s4202/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4202%2Fa%2F1%2FB
 [/us/pl/114/26/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs107
 [/us/stat/129/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F355
+[/us/pl/114/113/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs502
+[/us/stat/129/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3127
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/usc/t19/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs4201
 
 
