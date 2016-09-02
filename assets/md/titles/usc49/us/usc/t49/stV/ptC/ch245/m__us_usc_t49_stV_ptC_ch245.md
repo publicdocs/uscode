@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch244/m__us_usc_t49_s24406.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_stV_ptC_ch247.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstV%2FptC%2Fch245)
+[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch244/m__us_usc_t49_s24408.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_stV_ptC_ch247.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstV%2FptC%2Fch245)
 
 #### \[CHAPTER 245—REPEALED\]
 
@@ -37,7 +37,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch244/m__us_usc_t49_s24406.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_stV_ptC_ch247.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstV%2FptC%2Fch245)
+[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch244/m__us_usc_t49_s24408.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_stV_ptC_ch247.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstV%2FptC%2Fch245)
 
 ----------
 ----------

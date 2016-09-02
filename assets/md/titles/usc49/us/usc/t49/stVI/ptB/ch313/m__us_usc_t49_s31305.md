@@ -97,7 +97,53 @@
 
         (5) requiring a training provider (including a public or private driving school, motor carrier, or owner or operator of a commercial motor vehicle) that offers training that results in the issuance of a certification to an individual under paragraph (4) to demonstrate that the training meets the requirements of the regulations, through a process established by the Secretary.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1016][/us/stat/108/1016]; [Pub. L. 106–159, title II, § 201(d)][/us/pl/106/159/s201/d], Dec. 9, 1999, [113 Stat. 1760][/us/stat/113/1760]; [Pub. L. 107–56, title X, § 1012(b)][/us/pl/107/56/s1012/b], Oct. 26, 2001, [115 Stat. 397][/us/stat/115/397]; [Pub. L. 112–141, div. C, title II, § 32304(a)][/us/pl/112/141/s32304/a], (c), July 6, 2012, [126 Stat. 791][/us/stat/126/791], 792.)
+    (d) __Standards for Training and Testing of Veteran Operators.—__ 
+
+        (1)  __In general__  __.—__ 
+
+        Not later than December 31, 2016, the Secretary shall modify the regulations prescribed under subsections (a) and (c) to—
+
+            (A) exempt a covered individual from all or a portion of a driving test if the covered individual had experience in the armed forces or reserve components driving vehicles similar to a commercial motor vehicle;
+
+            (B) ensure that a covered individual may apply for an exemption under subparagraph (A) during, at least, the 1-year period beginning on the date on which such individual separates from service in the armed forces or reserve components; and
+
+            (C) credit the training and knowledge a covered individual received in the armed forces or reserve components driving vehicles similar to a commercial motor vehicle for purposes of satisfying minimum standards for training and knowledge.
+
+        (2)  __Definitions__  __.—__ 
+
+        In this subsection, the following definitions apply:
+
+            (A)  __Armed forces__  __.—__ 
+
+            The term “armed forces” has the meaning given that term in [section 101(a) of title 10][/us/usc/t10/s101/a].
+
+            (B)  __Covered individual__  __.—__ 
+
+            The term “covered individual” means an individual over the age of 21 years who is—
+
+                (i) a former member of the armed forces; or
+
+                (ii) a former member of the reserve components.
+
+            (C)  __Reserve components__  __.—__ 
+
+            The term “reserve components” means—
+
+                (i) the Army National Guard of the United States;
+
+                (ii) the Army Reserve;
+
+                (iii) the Navy Reserve;
+
+                (iv) the Marine Corps Reserve;
+
+                (v) the Air National Guard of the United States;
+
+                (vi) the Air Force Reserve; and
+
+                (vii) the Coast Guard Reserve.
+
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1016][/us/stat/108/1016]; [Pub. L. 106–159, title II, § 201(d)][/us/pl/106/159/s201/d], Dec. 9, 1999, [113 Stat. 1760][/us/stat/113/1760]; [Pub. L. 107–56, title X, § 1012(b)][/us/pl/107/56/s1012/b], Oct. 26, 2001, [115 Stat. 397][/us/stat/115/397]; [Pub. L. 112–141, div. C, title II, § 32304(a)][/us/pl/112/141/s32304/a], (c), July 6, 2012, [126 Stat. 791][/us/stat/126/791], 792; [Pub. L. 114–94, div. A, title V, § 5401(a)][/us/pl/114/94/s5401/a], Dec. 4, 2015, [129 Stat. 1546][/us/stat/129/1546].)
 
 <table>
 
@@ -171,6 +217,8 @@ Oct. 27, 1986, Pub. L. 99–570, § 12005(a), (b), 100 Stat. 3207–171.  </td
 
  __Amendments__ 
 
+    2015—Subsec. (d). [Pub. L. 114–94][/us/pl/114/94] added subsec. (d).
+
     2012—[Pub. L. 112–141, § 32304(c)][/us/pl/112/141/s32304/c], substituted “General driver fitness, testing, and training” for “General driver fitness and testing” in section catchline.
 
     Subsec. (c). [Pub. L. 112–141, § 32304(a)][/us/pl/112/141/s32304/a], added subsec. (c).
@@ -179,9 +227,49 @@ Oct. 27, 1986, Pub. L. 99–570, § 12005(a), (b), 100 Stat. 3207–171.  </td
 
     1999—Subsec. (b)(1). [Pub. L. 106–159][/us/pl/106/159] struck out “to operate the vehicle” after “written and driving tests” and inserted “to operate the vehicle and has a commercial driver’s license to operate the vehicle” before period at end.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23][/us/usc/t23/s101], Highways.
+
+ __Report on Commercial Driver’s License Skills Test Delays__ 
+
+[Pub. L. 114–94, div. A, title V, § 5506][/us/pl/114/94/s5506], Dec. 4, 2015, [129 Stat. 1553][/us/stat/129/1553], provided that: 
+
+> “Not later than 18 months after the date of enactment of this Act \[Dec. 4, 2015\], and each year thereafter, the Administrator of the Federal Motor Carrier Safety Administration shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that—
+
+>     “(1)
+
+>      describes, for each State, the status of skills testing for applicants for a commercial driver’s license, including—
+
+>         “(A) the average wait time from the date an applicant requests to take a skills test to the date the applicant has the opportunity to complete such test;
+
+>         “(B) the average wait time from the date an applicant, upon failure of a skills test, requests a retest to the date the applicant has the opportunity to complete such retest;
+
+>         “(C) the actual number of qualified commercial driver’s license examiners available to test applicants; and
+
+>         “(D) the number of testing sites available through the State department of motor vehicles and whether this number has increased or decreased from the previous year; and
+
+>     “(2) describes specific steps that the Administrator is taking to address skills testing delays in States that have average skills test or retest wait times of more than 7 days from the date an applicant requests to test or retest to the date the applicant has the opportunity to complete such test or retest.”
+
+ __Hazardous Materials Endorsement Exemption__ 
+
+[Pub. L. 114–94, div. A, title VII, § 7208][/us/pl/114/94/s7208], Dec. 4, 2015, [129 Stat. 1593][/us/stat/129/1593], provided that: 
+
+> “The Secretary \[of Transportation\] shall allow a State, at the discretion of the State, to waive the requirement for a holder of a Class A commercial driver’s license to obtain a hazardous materials endorsement under part 383 of title 49, Code of Federal Regulations, if the license holder—
+
+>     “(1) is acting within the scope of the license holder’s employment as an employee of a custom harvester operation, agrichemical business, farm retail outlet and supplier, or livestock feeder; and
+
+>     “(2)
+
+>      is operating a service vehicle that is—
+
+>         “(A) transporting diesel in a quantity of 3,785 liters (1,000 gallons) or less; and
+
+>         “(B) clearly marked with a ‘flammable’ or ‘combustible’ placard, as appropriate.”
 
  __Commercial Motor Vehicle Operator Requirements Relating to Sleep Disorders__ 
 
@@ -323,6 +411,7 @@ Oct. 27, 1986, Pub. L. 99–570, § 12005(a), (b), 100 Stat. 3207–171.  </td
 ----------
 
 [/us/usc/t49/s5103a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5103a
+[/us/usc/t10/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa
 [/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
 [/us/stat/108/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1016
 [/us/pl/106/159/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs201%2Fd
@@ -331,14 +420,24 @@ Oct. 27, 1986, Pub. L. 99–570, § 12005(a), (b), 100 Stat. 3207–171.  </td
 [/us/stat/115/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F397
 [/us/pl/112/141/s32304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32304%2Fa
 [/us/stat/126/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F791
+[/us/pl/114/94/s5401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5401%2Fa
+[/us/stat/129/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1546
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141/s32304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32304%2Fc
 [/us/pl/112/141/s32304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32304%2Fa
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/114/94/s5506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5506
+[/us/stat/129/1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1553
+[/us/pl/114/94/s7208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7208
+[/us/stat/129/1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1593
 [/us/pl/113/45/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F45%2Fs1
 [/us/stat/127/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F557
 [/us/pl/109/59/s4129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4129

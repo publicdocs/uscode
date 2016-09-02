@@ -149,6 +149,36 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, § 202(s); added Sept. 3, 1992,
 
     Subsec. (d). [Pub. L. 103–440, § 208(3)][/us/pl/103/440/s208/3], added subsec. (d).
 
+ __Commuter Rail Track Inspections__ 
+
+[Pub. L. 114–94, div. A, title XI, § 11409][/us/pl/114/94/s11409], Dec. 4, 2015, [129 Stat. 1684][/us/stat/129/1684], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Secretary \[of Transportation\] shall evaluate track inspection regulations to determine if a railroad carrier providing commuter rail passenger transportation on high density commuter railroad lines should be required to inspect the lines in the same manner as is required for other commuter railroad lines.
+
+>     “(b)  __Rulemaking__  __.—__ 
+
+>     Considering safety, including railroad carrier employee and contractor safety, system capacity, and other relevant factors, the Secretary may promulgate a rule for high density commuter railroad lines. If, after the evaluation under subsection (a), the Secretary determines that it is necessary to promulgate a rule, the Secretary shall specifically consider the following regulatory requirements for high density commuter railroad lines:
+
+>         “(1)
+
+>          At least once every 2 weeks—
+
+>             “(A) traverse each main line by vehicle; or
+
+>             “(B) inspect each main line on foot.
+
+>         “(2) At least once each month, traverse and inspect each siding by vehicle or by foot.
+
+>     “(c)  __Report__  __.—__ 
+
+>     If, after the evaluation under subsection (a), the Secretary determines it is not necessary to revise the regulations under this section, the Secretary, not later than 18 months after the date of enactment of this Act \[Dec. 4, 2015\], shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report explaining the reasons for not revising the regulations.
+
+>     “(d)  __Construction__  __.—__ 
+
+>     Nothing in this section may be construed to limit the authority of the Secretary to promulgate regulations or issue orders under any other law.”
+
  __Track Inspection Time Study__ 
 
 [Pub. L. 110–432, div. A, title IV, § 403][/us/pl/110/432/s403], Oct. 16, 2008, [122 Stat. 4884][/us/stat/122/4884], provided that:
@@ -217,6 +247,8 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, § 202(s); added Sept. 3, 1992,
 [/us/pl/103/440/s208/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs208%2F2
 [/us/pl/103/440/s208/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs208%2F1
 [/us/pl/103/440/s208/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs208%2F3
+[/us/pl/114/94/s11409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11409
+[/us/stat/129/1684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1684
 [/us/pl/110/432/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs403
 [/us/stat/122/4884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4884
 [/us/pl/110/432/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs403

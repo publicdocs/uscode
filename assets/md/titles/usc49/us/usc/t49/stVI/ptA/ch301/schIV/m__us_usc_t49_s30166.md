@@ -193,7 +193,7 @@
 
         (1)  __In general__  __.—__ 
 
-        The Secretary may promulgate rules requiring a senior official responsible for safety in any company submitting information to the Secretary in response to a request for information in a safety defect or compliance investigation under this chapter to certify that—
+        The Secretary shall promulgate rules requiring a senior official responsible for safety in any company submitting information to the Secretary in response to a request for information in a safety defect or compliance investigation under this chapter to certify that—
 
             (A) the signing official has reviewed the submission; and
 
@@ -209,7 +209,23 @@
 
         The certification requirements of this section shall be clearly stated on any request for information under paragraph (1).
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 969][/us/stat/108/969]; [Pub. L. 103–429, § 6(24)][/us/pl/103/429/s6/24], Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380]; [Pub. L. 104–88, title III, § 308(j)][/us/pl/104/88/s308/j], Dec. 29, 1995, [109 Stat. 947][/us/stat/109/947]; [Pub. L. 104–287, § 6(f)(3)][/us/pl/104/287/s6/f/3], Oct. 11, 1996, [110 Stat. 3399][/us/stat/110/3399]; [Pub. L. 106–414, § 3(a)][/us/pl/106/414/s3/a]–(c), Nov. 1, 2000, [114 Stat. 1800–1802][/us/stat/114/1800-1802]; [Pub. L. 112–141, div. C, title I][/us/pl/112/141], §§ 31209, 31303(a), 31304(a), July 6, 2012, [126 Stat. 762][/us/stat/126/762], 764.)
+        (3)  __Deadline__  __.—__ 
+
+        Not later than 1 year after the date of enactment of the Comprehensive Transportation and Consumer Protection Act of 2015, the Secretary shall issue a final rule under paragraph (1).
+
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 969][/us/stat/108/969]; [Pub. L. 103–429, § 6(24)][/us/pl/103/429/s6/24], Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380]; [Pub. L. 104–88, title III, § 308(j)][/us/pl/104/88/s308/j], Dec. 29, 1995, [109 Stat. 947][/us/stat/109/947]; [Pub. L. 104–287, § 6(f)(3)][/us/pl/104/287/s6/f/3], Oct. 11, 1996, [110 Stat. 3399][/us/stat/110/3399]; [Pub. L. 106–414, § 3(a)][/us/pl/106/414/s3/a]–(c), Nov. 1, 2000, [114 Stat. 1800–1802][/us/stat/114/1800-1802]; [Pub. L. 112–141, div. C, title I][/us/pl/112/141], §§ 31209, 31303(a), 31304(a), July 6, 2012, [126 Stat. 762][/us/stat/126/762], 764; [Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94], §§ 24109(e), 24112, Dec. 4, 2015, [129 Stat. 1707][/us/stat/129/1707], 1709.)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 114–94, div. B, title XXIV, § 24109(e)][/us/pl/114/94/s24109/e], (k), Dec. 4, 2015, [129 Stat. 1707][/us/stat/129/1707], 1709, provided that, effective on the date that is 180 days after Dec. 4, 2015, this section is amended as follows:
+
+    (1) in subsection (c)(2), by striking “or dealer” each place such term appears and inserting “dealer, or rental company”;
+
+    (2) in subsection (e), by striking “or dealer” each place such term appears and inserting “dealer, or rental company”; and
+
+    (3) in subsection (f), by striking “or to owners” and inserting “, rental companies, or other owners”.
+
+    See 2015 Amendment notes below.
 
 <table>
 
@@ -587,7 +603,19 @@ Sept. 9, 1966, Pub. L. 89–563, § 107 (related to inspecting and testing), 8
 
     The date of the enactment of the Transportation Recall Enhancement, Accountability, and Documentation (TREAD) Act, referred to in subsecs. (m)(1) and (n)(1), is the date of enactment of [Pub. L. 106–414][/us/pl/106/414], which was approved Nov. 1, 2000.
 
+    The date of enactment of the Comprehensive Transportation and Consumer Protection Act of 2015, referred to in subsec. (o)(3), probably means the date of enactment of div. B of [Pub. L. 114–94][/us/pl/114/94], which was approved Dec. 4, 2015. That Act name is the heading for div. B of [Pub. L. 114–94][/us/pl/114/94], but no such Short Title was enacted.
+
  __Amendments__ 
+
+    2015—Subsec. (c)(2). [Pub. L. 114–94, § 24109(e)(1)][/us/pl/114/94/s24109/e/1], substituted “dealer, or rental company” for “or dealer” in two places.
+
+    Subsec. (e). [Pub. L. 114–94, § 24109(e)(2)][/us/pl/114/94/s24109/e/2], substituted “dealer, or rental company” for “or dealer” wherever appearing.
+
+    Subsec. (f)(1). [Pub. L. 114–94, § 24109(e)(3)][/us/pl/114/94/s24109/e/3], substituted “, rental companies, or other owners” for “or to owners”.
+
+    Subsec. (o)(1). [Pub. L. 114–94, § 24112(1)][/us/pl/114/94/s24112/1], substituted “shall promulgate” for “may promulgate” in introductory provisions.
+
+    Subsec. (o)(3). [Pub. L. 114–94, § 24112(2)][/us/pl/114/94/s24112/2], added par. (3).
 
     2012—Subsec. (c)(3)(A). [Pub. L. 112–141, § 31209(2)(A)][/us/pl/112/141/s31209/2/A], inserted “(including at United States ports of entry)” after “held for introduction in interstate commerce”.
 
@@ -605,6 +633,10 @@ Sept. 9, 1966, Pub. L. 89–563, § 107 (related to inspecting and testing), 8
 
     1994—Subsec. (h). [Pub. L. 103–429][/us/pl/103/429] substituted “any judicial district” for “the judicial district”.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [section 24109(e) of Pub. L. 114–94][/us/pl/114/94/s24109/e] effective on the date that is 180 days after Dec. 4, 2015, see [section 24109(k) of Pub. L. 114–94][/us/pl/114/94/s24109/k], set out as a note under [section 30102 of this title][/us/usc/t49/s30102].
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23][/us/usc/t23/s101], Highways.
@@ -615,7 +647,7 @@ Sept. 9, 1966, Pub. L. 89–563, § 107 (related to inspecting and testing), 8
 
  __Effective Date of 1995 Amendment__ 
 
-    Amendment by [Pub. L. 104–88][/us/pl/104/88] effective Jan. 1, 1996, see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as an Effective Date note under [section 701 of this title][/us/usc/t49/s701].
+    Amendment by [Pub. L. 104–88][/us/pl/104/88] effective Jan. 1, 1996, see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as an Effective Date note under [section 1301 of this title][/us/usc/t49/s1301].
 
  __Effective Date of 1994 Amendment__ 
 
@@ -623,7 +655,7 @@ Sept. 9, 1966, Pub. L. 89–563, § 107 (related to inspecting and testing), 8
 
  __Public Availability of Recall Information__ 
 
-[Pub. L. 112–141, div. C, title I, § 31301][/us/pl/112/141/s31301], July 6, 2012, [126 Stat. 763][/us/stat/126/763], provided that:
+[Pub. L. 112–141, div. C, title I, § 31301][/us/pl/112/141/s31301], July 6, 2012, [126 Stat. 763][/us/stat/126/763], as amended by [Pub. L. 114–94, div. B, title XXIV, § 24103(c)][/us/pl/114/94/s24103/c], Dec. 4, 2015, [129 Stat. 1702][/us/stat/129/1702], provided that:
 
 >     “(a)  __Vehicle Recall Information__  __.—__ 
 
@@ -649,7 +681,7 @@ Sept. 9, 1966, Pub. L. 89–563, § 107 (related to inspecting and testing), 8
 
 >     “(c)  __Promotion of Public Awareness__  __.—__ 
 
->     The Secretary, in consultation with the heads of other relevant agencies, shall promote consumer awareness of the information made available to the public pursuant to this section.”
+>     The Secretary shall improve public awareness of safety recall information made publicly available by periodically updating the method of conveying that information to consumers, dealers, and manufacturers, such as through public service announcements.”
 
 ----------
 
@@ -671,11 +703,22 @@ Sept. 9, 1966, Pub. L. 89–563, § 107 (related to inspecting and testing), 8
 [/us/stat/114/1800-1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1800-1802
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F762
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1707
+[/us/pl/114/94/s24109/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fe
+[/us/stat/129/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1707
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F970
 [/us/pl/106/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s24109/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fe%2F1
+[/us/pl/114/94/s24109/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fe%2F2
+[/us/pl/114/94/s24109/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fe%2F3
+[/us/pl/114/94/s24112/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24112%2F1
+[/us/pl/114/94/s24112/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24112%2F2
 [/us/pl/112/141/s31209/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31209%2F2%2FA
 [/us/pl/112/141/s31209/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31209%2F1
 [/us/pl/112/141/s31303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31303%2Fa
@@ -686,6 +729,9 @@ Sept. 9, 1966, Pub. L. 89–563, § 107 (related to inspecting and testing), 8
 [/us/pl/104/88/s308/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs308%2Fj
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/114/94/s24109/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fe
+[/us/pl/114/94/s24109/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fk
+[/us/usc/t49/s30102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30102
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
@@ -693,12 +739,14 @@ Sept. 9, 1966, Pub. L. 89–563, § 107 (related to inspecting and testing), 8
 [/us/stat/110/3399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3399
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs9
 [/us/usc/t49/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs321
 [/us/pl/112/141/s31301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31301
 [/us/stat/126/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F763
+[/us/pl/114/94/s24103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24103%2Fc
+[/us/stat/129/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1702
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 

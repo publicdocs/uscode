@@ -329,7 +329,7 @@ Oct. 27, 1986, Pub. L. 99–570, 100 Stat. 3207–170, § 12020; added Dec. 18
 
  __Effective Date of 1995 Amendment__ 
 
-    Amendment by [Pub. L. 104–88][/us/pl/104/88] effective Jan. 1, 1996, see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as an Effective Date note under [section 701 of this title][/us/usc/t49/s701].
+    Amendment by [Pub. L. 104–88][/us/pl/104/88] effective Jan. 1, 1996, see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as an Effective Date note under [section 1301 of this title][/us/usc/t49/s1301].
 
  __Regulations__ 
 
@@ -375,7 +375,7 @@ Oct. 27, 1986, Pub. L. 99–570, 100 Stat. 3207–170, § 12020; added Dec. 18
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/pl/104/88/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs403%2Fb
 [/us/stat/109/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F956
 [/us/usc/t49/s31310/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31310%2Fh

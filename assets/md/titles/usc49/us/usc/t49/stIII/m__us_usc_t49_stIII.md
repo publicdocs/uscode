@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t49/stII/ch11/schIV/m__us_usc_t49_s1155.md) | [Next](./../../../..//us/usc/t49/stIII/ch51/m__us_usc_t49_stIII_ch51.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstIII)
+[Previous](./../../../..//us/usc/t49/stII/ch13/schII/m__us_usc_t49_s1326.md) | [Next](./../../../..//us/usc/t49/stIII/ch51/m__us_usc_t49_stIII_ch51.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstIII)
 
 ## SUBTITLE III—GENERAL AND INTERMODAL PROGRAMS
 
@@ -91,15 +91,37 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2FstIII%2Fch63" data-uslm-ref="/us/usc/t49/stIII/ch63">63.</a>  </td>
 
+    <td> Bureau of Transportation Statistics  <sup>[1]</sup>  <sup><sup> 1 So in original. Two items for chapter 63 have been enacted. </sup></sup>   </td>
+
+    <td>   </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2FstIII%2Fch63" data-uslm-ref="/us/usc/t49/stIII/ch63">63.</a>  </td>
+
     <td> Bureau of Transportation Statistics  </td>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs6301" data-uslm-ref="/us/usc/t49/s6301">6301</a>  <sup>[1]</sup>  <sup><sup> 1 Editorially supplied. </sup></sup>   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs6301" data-uslm-ref="/us/usc/t49/s6301">6301</a>  <sup>[1]</sup>   </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2FstIII%2Fch65" data-uslm-ref="/us/usc/t49/stIII/ch65">65.</a>  </td>
+
+    <td> Research planning  </td>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs6501" data-uslm-ref="/us/usc/t49/s6501">6501</a>  </td>
 
   </tr>
 
 </table>
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–94, div. A, title VI, § 6019(c)][/us/pl/114/94/s6019/c], Dec. 4, 2015, [129 Stat. 1581][/us/stat/129/1581], added items for chapters 63 and 65.
 
     2012—[Pub. L. 112–141, div. E, title II, § 52011(c)(2)][/us/pl/112/141/s52011/c/2], July 6, 2012, [126 Stat. 895][/us/stat/126/895], added item for chapter 63.
 
@@ -109,11 +131,13 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t49/stII/ch11/schIV/m__us_usc_t49_s1155.md) | [Next](./../../../..//us/usc/t49/stIII/ch51/m__us_usc_t49_stIII_ch51.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstIII)
+[Previous](./../../../..//us/usc/t49/stII/ch13/schII/m__us_usc_t49_s1326.md) | [Next](./../../../..//us/usc/t49/stIII/ch51/m__us_usc_t49_stIII_ch51.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstIII)
 
 ----------
 ----------
 
+[/us/pl/114/94/s6019/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6019%2Fc
+[/us/stat/129/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1581
 [/us/pl/112/141/s52011/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52011%2Fc%2F2
 [/us/stat/126/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F895
 [/us/pl/109/59/s3002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3002%2Fc

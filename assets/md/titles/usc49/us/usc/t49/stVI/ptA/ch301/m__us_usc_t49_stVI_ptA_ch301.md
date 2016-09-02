@@ -401,6 +401,14 @@ SUBCHAPTER IV—ENFORCEMENT AND ADMINISTRATIVE  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs30172" data-uslm-ref="/us/usc/t49/s30172">30172.</a>  </td>
+
+    <td> Whistleblower incentives and protections.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER V—MOTOR VEHICLE SAFETY RESEARCH AND DEVELOPMENT  </td>
@@ -435,6 +443,8 @@ SUBCHAPTER V—MOTOR VEHICLE SAFETY RESEARCH AND DEVELOPMENT  </td>
 
  __Amendments__ 
 
+    2015—[Pub. L. 114–94, div. B, title XXIV, § 24352(c)][/us/pl/114/94/s24352/c], Dec. 4, 2015, [129 Stat. 1720][/us/stat/129/1720], which directed amendment of the analysis for subchapter IV of this chapter by adding item 30172 at the end, was executed by adding item 30172 to the analysis for this chapter to reflect the probable intent of Congress.
+
     2012—[Pub. L. 112–141, div. C, title I][/us/pl/112/141], §§ 31202(b), 31204(b)(1), (2)(A), 31208(1), 31307(c), 31312(b), July 6, 2012, [126 Stat. 758][/us/stat/126/758], 760, 761, 769, 772, added items 30120A and 30171, item for subchapter V, and items 30181 to 30183, substituted “Nonuse of safety belts” for “Buzzers indicating nonuse of safety belts” in item 30124 and “Service of process; conditions on importation of vehicles and equipment” for “Service of process” in item 30164, and struck out item 30168 “Research, testing, development, and training”.
 
     2005—[Pub. L. 109–59, title X, § 10303(a)][/us/pl/109/59/s10303/a], Aug. 10, 2005, [119 Stat. 1940][/us/stat/119/1940], which directed amendment of the table of sections for chapter 301 by adding item 30128, without specifying the title to be amended, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
@@ -452,6 +462,8 @@ SUBCHAPTER V—MOTOR VEHICLE SAFETY RESEARCH AND DEVELOPMENT  </td>
 ----------
 ----------
 
+[/us/pl/114/94/s24352/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24352%2Fc
+[/us/stat/129/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1720
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F758
 [/us/pl/109/59/s10303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10303%2Fa

@@ -21,7 +21,11 @@
 
         (1)  __Recipient__  __.—__ 
 
-        The term “recipient” means a designated recipient or a State that receives a grant under this section directly.
+        The term “recipient” means—
+
+            (A) a designated recipient or a State that receives a grant under this section directly; or
+
+            (B) a State or local governmental entity that operates a public transportation service.
 
         (2)  __Subrecipient__  __.—__ 
 
@@ -249,7 +253,21 @@
 
             (D) other measures, as the Secretary determines is appropriate.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 807][/us/stat/108/807]; [Pub. L. 105–178, title III, § 3013(a)][/us/pl/105/178/s3013/a], June 9, 1998, [112 Stat. 359][/us/stat/112/359]; [Pub. L. 109–59, title III][/us/pl/109/59], §§ 3002(b)(2), 3012(a), Aug. 10, 2005, [119 Stat. 1544][/us/stat/119/1544], 1589; [Pub. L. 112–141, div. B, § 20009][/us/pl/112/141/s20009], July 6, 2012, [126 Stat. 675][/us/stat/126/675].)
+    (i)  __Best Practices__  __.—__ 
+
+    The Secretary shall collect from, review, and disseminate to public transportation agencies—
+
+        (1) innovative practices;
+
+        (2) program models;
+
+        (3) new service delivery options;
+
+        (4) findings from activities under subsection (h); and
+
+        (5) transit cooperative research program reports.
+
+([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 807][/us/stat/108/807]; [Pub. L. 105–178, title III, § 3013(a)][/us/pl/105/178/s3013/a], June 9, 1998, [112 Stat. 359][/us/stat/112/359]; [Pub. L. 109–59, title III][/us/pl/109/59], §§ 3002(b)(2), 3012(a), Aug. 10, 2005, [119 Stat. 1544][/us/stat/119/1544], 1589; [Pub. L. 112–141, div. B, § 20009][/us/pl/112/141/s20009], July 6, 2012, [126 Stat. 675][/us/stat/126/675]; [Pub. L. 114–94, div. A, title III, § 3006(a)][/us/pl/114/94/s3006/a], Dec. 4, 2015, [129 Stat. 1462][/us/stat/129/1462].)
 
 <table>
 
@@ -463,6 +481,10 @@ In subsection (f), the words “any applicable” are omitted as surplus. The wo
 
  __Amendments__ 
 
+    2015—Subsec. (a)(1). [Pub. L. 114–94, § 3006(a)(1)][/us/pl/114/94/s3006/a/1], added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The term ‘recipient’ means a designated recipient or a State that receives a grant under this section directly.”
+
+    Subsec. (i). [Pub. L. 114–94, § 3006(a)(2)][/us/pl/114/94/s3006/a/2], added subsec. (i).
+
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to formula grants for special needs of elderly individuals and individuals with disabilities.
 
     2005—[Pub. L. 109–59, § 3012(a)][/us/pl/109/59/s3012/a], amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (j) relating to formula grants and loans for special needs of elderly individuals and individuals with disabilities.
@@ -471,9 +493,79 @@ In subsection (f), the words “any applicable” are omitted as surplus. The wo
 
     1998—[Pub. L. 105–178][/us/pl/105/178] substituted “Formula grants” for “Grants” in section catchline.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23][/us/usc/t23/s101], Highways.
+
+ __Pilot Program for Innovative Coordinated Access and Mobility__ 
+
+[Pub. L. 114–94, div. A, title III, § 3006(b)][/us/pl/114/94/s3006/b], Dec. 4, 2015, [129 Stat. 1462][/us/stat/129/1462], provided that:
+
+>     “(1)  __Definitions__  __.—__ 
+
+>     In this subsection—
+
+>         “(A) the term ‘eligible project’ has the meaning given the term ‘capital project’ in [section 5302 of title 49][/us/usc/t49/s5302], United States Code; and
+
+>         “(B) the term ‘eligible recipient’ means a recipient or subrecipient, as those terms are defined in [section 5310 of title 49][/us/usc/t49/s5310], United States Code.
+
+>     “(2)  __General authority__  __.—__ 
+
+>     The Secretary \[of Transportation\] may make grants under this subsection to eligible recipients to assist in financing innovative projects for the transportation disadvantaged that improve the coordination of transportation services and nonemergency medical transportation services, including—
+
+>         “(A) the deployment of coordination technology;
+
+>         “(B) projects that create or increase access to community One-Call/One-Click Centers; and
+
+>         “(C) such other projects as determined appropriate by the Secretary.
+
+>     “(3)  __Application__  __.—__ 
+
+>     An eligible recipient shall submit to the Secretary an application that, at a minimum, contains—
+
+>         “(A) a detailed description of the eligible project;
+
+>         “(B)
+
+>          an identification of all eligible project partners and their specific role in the eligible project, including—
+
+>             “(i) private entities engaged in the coordination of nonemergency medical transportation services for the transportation disadvantaged; or
+
+>             “(ii) nonprofit entities engaged in the coordination of nonemergency medical transportation services for the transportation disadvantaged;
+
+>         “(C)
+
+>          a description of how the eligible project would—
+
+>             “(i) improve local coordination or access to coordinated transportation services;
+
+>             “(ii) reduce duplication of service, if applicable; and
+
+>             “(iii) provide innovative solutions in the State or community; and
+
+>         “(D) specific performance measures the eligible project will use to quantify actual outcomes against expected outcomes.
+
+>     “(4)  __Report__  __.—__ 
+
+>     The Secretary shall make publicly available an annual report on the pilot program carried out under this subsection for each fiscal year, not later than December 31 of the calendar year in which that fiscal year ends. The report shall include a detailed description of the activities carried out under the pilot program, and an evaluation of the program, including an evaluation of the performance measures described in paragraph (3)(D).
+
+>     “(5) __Government share of costs.—__ 
+
+>         “(A)  __In general__  __.—__ 
+
+>         The Government share of the cost of an eligible project carried out under this subsection shall not exceed 80 percent.
+
+>         “(B)  __Non-government share__  __.—__ 
+
+>         The non-Government share of the cost of an eligible project carried out under this subsection may be derived from in-kind contributions.
+
+>     “(6)  __Rule of construction__  __.—__ 
+
+>     For purposes of this subsection, nonemergency medical transportation services shall be limited to services eligible under Federal programs other than programs authorized under chapter 53 of title 49, United States Code.”
 
  __Elderly Individuals and Individuals With Disabilities Pilot Program__ 
 
@@ -500,6 +592,8 @@ In subsection (f), the words “any applicable” are omitted as surplus. The wo
 [/us/stat/119/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1544
 [/us/pl/112/141/s20009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20009
 [/us/stat/126/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F675
+[/us/pl/114/94/s3006/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3006%2Fa
+[/us/stat/129/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1462
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/stat/105/2110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2110
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
@@ -511,13 +605,22 @@ In subsection (f), the words “any applicable” are omitted as surplus. The wo
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/114/94/s3006/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3006%2Fa%2F1
+[/us/pl/114/94/s3006/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3006%2Fa%2F2
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59/s3012/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3012%2Fa
 [/us/pl/109/59/s3002/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3002%2Fb%2F2
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/114/94/s3006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3006%2Fb
+[/us/stat/129/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1462
+[/us/usc/t49/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5302
+[/us/usc/t49/s5310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5310
 [/us/pl/109/59/s3012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3012%2Fb
 [/us/stat/119/1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1591
 [/us/pl/111/147/s437/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs437%2Fc

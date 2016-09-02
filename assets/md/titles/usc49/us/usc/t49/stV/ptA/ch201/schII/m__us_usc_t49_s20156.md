@@ -45,7 +45,7 @@
 
     (c)  __Risk Analysis__  __.—__ 
 
-    In developing its railroad safety risk reduction program each railroad carrier required to submit such a program pursuant to subsection (a) shall identify and analyze the aspects of its railroad, including operating rules and practices, infrastructure, equipment, employee levels and schedules, safety culture, management structure, employee training, and other matters, including those not covered by railroad safety regulations or other Federal regulations, that impact railroad safety.
+    In developing its railroad safety risk reduction program, each railroad carrier required to submit such a program pursuant to subsection (a) shall identify and analyze the aspects of its railroad, including operating rules and practices, infrastructure, equipment, employee levels and schedules, safety culture, management structure, employee training, and other matters, including those not covered by railroad safety regulations or other Federal regulations, that impact railroad safety.
 
     (d) __Program Elements.—__ 
 
@@ -121,7 +121,7 @@
 
         (1)  __In general__  __.—__ 
 
-        Each railroad carrier required to submit a railroad safety risk reduction program under subsection (a) shall consult with, employ good faith and use its best efforts to reach agreement with, all of its directly affected employees, including any non-profit employee labor organization representing a class or craft of directly affected employees of the railroad carrier, on the contents of the safety risk reduction program.
+        Each railroad carrier required to submit a railroad safety risk reduction program under subsection (a) shall consult with, employ good faith, and use its best efforts to reach agreement with, all of its directly affected employees, including any nonprofit employee labor organization representing a class or craft of directly affected employees of the railroad carrier, on the contents of the safety risk reduction program.
 
         (2)  __Statement__  __.—__ 
 
@@ -131,11 +131,21 @@
 
     The Secretary shall have the authority to assess civil penalties pursuant to chapter 213 for a violation of this section, including the failure to submit, certify, or comply with a safety risk reduction program, risk mitigation plan, technology implementation plan, or fatigue management plan.
 
-(Added [Pub. L. 110–432, div. A, title I, § 103(a)][/us/pl/110/432/s103/a], Oct. 16, 2008, [122 Stat. 4853][/us/stat/122/4853].)
+(Added [Pub. L. 110–432, div. A, title I, § 103(a)][/us/pl/110/432/s103/a], Oct. 16, 2008, [122 Stat. 4853][/us/stat/122/4853]; amended [Pub. L. 114–94, div. A, title XI, § 11316(e)][/us/pl/114/94/s11316/e], Dec. 4, 2015, [129 Stat. 1676][/us/stat/129/1676].)
 
  __References in Text__ 
 
     The date of enactment of the Rail Safety Improvement Act of 2008, referred to in subsec. (a)(1), is the date of enactment of div. A of [Pub. L. 110–432][/us/pl/110/432], which was approved Oct. 16, 2008.
+
+ __Amendments__ 
+
+    2015—Subsec. (c). [Pub. L. 114–94, § 11316(e)(1)][/us/pl/114/94/s11316/e/1], inserted comma after “In developing its railroad safety risk reduction program”.
+
+    Subsec. (g)(1). [Pub. L. 114–94, § 11316(e)(2)][/us/pl/114/94/s11316/e/2], inserted comma after “good faith” and substituted “nonprofit” for “non-profit”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
 ----------
 
@@ -146,6 +156,13 @@
 
 [/us/pl/110/432/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs103%2Fa
 [/us/stat/122/4853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4853
+[/us/pl/114/94/s11316/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fe
+[/us/stat/129/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1676
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/114/94/s11316/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fe%2F1
+[/us/pl/114/94/s11316/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fe%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 
 

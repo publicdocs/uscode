@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24711.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch249/m__us_usc_t49_s24901.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstV%2FptC%2Fch249)
+[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24712.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch249/m__us_usc_t49_s24901.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstV%2FptC%2Fch249)
 
 #### CHAPTER 249—NORTHEAST CORRIDOR IMPROVEMENT PROGRAM
 
@@ -41,15 +41,7 @@
 
   <tr>
 
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24903" data-uslm-ref="/us/usc/t49/s24903">24903.</a>  </td>
-
-    <td> Repealed.]  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24904" data-uslm-ref="/us/usc/t49/s24904">24904.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24903" data-uslm-ref="/us/usc/t49/s24903">24903</a>  </td>
 
     <td> General authority.  </td>
 
@@ -57,9 +49,17 @@
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24904" data-uslm-ref="/us/usc/t49/s24904">24904.</a>  </td>
+
+    <td> Northeast Corridor planning.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24905" data-uslm-ref="/us/usc/t49/s24905">24905.</a>  </td>
 
-    <td> Northeast Corridor Infrastructure and Operations Advisory Commission; Safety Committee.  </td>
+    <td> Northeast Corridor Commission. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
   </tr>
 
@@ -103,9 +103,19 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24911" data-uslm-ref="/us/usc/t49/s24911">24911.</a>  </td>
+
+    <td> Federal-State partnership for state of good repair.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–94, div. A, title XI][/us/pl/114/94], §§ 11302(b), 11305(d)(2), 11306(b)(2), Dec. 4, 2015, [129 Stat. 1651][/us/stat/129/1651], 1658, 1660, added items 24904 and 24911, redesignated former item 24904 as 24903, and substituted “Northeast Corridor Commission” for “Northeast Corridor Infrastructure and Operations Advisory Commission; Safety Committee” in item 24905.
 
     2008—[Pub. L. 110–432, div. B, title II, § 212(b)(1)][/us/pl/110/432/s212/b/1], title III, § 306(b), Oct. 16, 2008, [122 Stat. 4924][/us/stat/122/4924], 4953, amended item 24905 generally, substituting “Northeast Corridor Infrastructure and Operations Advisory Commission; Safety Committee” for “Coordination board and safety committee”, and added item 24910.
 
@@ -113,11 +123,13 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24711.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch249/m__us_usc_t49_s24901.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstV%2FptC%2Fch249)
+[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch247/m__us_usc_t49_s24712.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch249/m__us_usc_t49_s24901.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstV%2FptC%2Fch249)
 
 ----------
 ----------
 
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1651
 [/us/pl/110/432/s212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs212%2Fb%2F1
 [/us/stat/122/4924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4924
 [/us/pl/105/134/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs405%2Fa

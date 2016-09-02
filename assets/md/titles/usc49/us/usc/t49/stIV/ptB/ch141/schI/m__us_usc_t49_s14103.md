@@ -35,6 +35,12 @@
 
     Provisions similar to those in this section were contained in [section 11109 of this title][/us/usc/t49/s11109] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
 
+ __Collection of Data on Delays in Goods Movement__ 
+
+[Pub. L. 114–94, div. A, title V, § 5501(b)][/us/pl/114/94/s5501/b], Dec. 4, 2015, [129 Stat. 1550][/us/stat/129/1550], provided that: 
+
+> “Not later than 2 years after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\] shall establish by regulation a process to collect data on delays experienced by operators of commercial motor vehicles before the loading and unloading of such vehicles and at other points in the pick-up and delivery process.”
+
 ----------
 
 [Previous](./../../../../../../..//us/usc/t49/stIV/ptB/ch141/schI/m__us_usc_t49_s14102.md) | [Next](./../../../../../../..//us/usc/t49/stIV/ptB/ch141/schI/m__us_usc_t49_s14104.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs14103)
@@ -54,5 +60,7 @@
 [/us/usc/t29/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs101
 [/us/usc/t49/s11109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11109
 [/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/114/94/s5501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5501%2Fb
+[/us/stat/129/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1550
 
 

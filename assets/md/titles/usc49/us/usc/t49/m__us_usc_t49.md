@@ -17,7 +17,7 @@
 
 This title was enacted by [Pub. L. 95–473, § 1][/us/pl/95/473/s1], Oct. 17, 1978, [92 Stat. 1337][/us/stat/92/1337]; [Pub. L. 97–449, § 1][/us/pl/97/449/s1], Jan. 12, 1983, [96 Stat. 2413][/us/stat/96/2413]; [Pub. L. 103–272][/us/pl/103/272], July 5, 1994, [108 Stat. 745][/us/stat/108/745]
 
-Current through 114-100not94not95
+Current through 114-114not95not113
 
 <table>
 
@@ -115,9 +115,9 @@ Current through 114-100not94not95
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2FstIX" data-uslm-ref="/us/usc/t49/stIX">IX.</a>  </td>
 
-    <td> [TRANSFERRED]  </td>
+    <td> Multimodal Freight Transportation  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be upper case. </sup></sup>   </td>
 
-    <td>   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs70101" data-uslm-ref="/us/usc/t49/s70101">70101</a>  </td>
 
   </tr>
 
@@ -134,6 +134,8 @@ Current through 114-100not94not95
 </table>
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–94, div. A, title VIII, § 8001(b)][/us/pl/114/94/s8001/b], Dec. 4, 2015, [129 Stat. 1612][/us/stat/129/1612], substituted “Multimodal Freight Transportation …70101” for “\[TRANSFERRED\]” in item for subtitle IX.
 
     2010—[Pub. L. 111–314, § 4(d)(1)(A)][/us/pl/111/314/s4/d/1/A], Dec. 18, 2010, [124 Stat. 3440][/us/stat/124/3440], substituted “\[TRANSFERRED\]” for “COMMERCIAL SPACE TRANSPORTATION …70101” in item for subtitle IX.
 
@@ -22634,6 +22636,8 @@ Rep.  </td>
 [/us/stat/96/2413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2413
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F745
+[/us/pl/114/94/s8001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs8001%2Fb
+[/us/stat/129/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1612
 [/us/pl/111/314/s4/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F1%2FA
 [/us/stat/124/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3440
 [/us/pl/104/88/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fb

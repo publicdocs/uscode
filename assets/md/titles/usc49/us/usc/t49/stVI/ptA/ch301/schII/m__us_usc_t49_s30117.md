@@ -33,31 +33,25 @@
 
             (B) The Secretary shall require each distributor and dealer whose business is not owned or controlled by a manufacturer of tires to give a registration form (containing the tire identification number) to the first purchaser of a tire. The Secretary shall prescribe the form, which shall be standardized for all tires and designed to allow the purchaser to complete and return it directly to the manufacturer of the tire. The manufacturer shall give sufficient copies of forms to distributors and dealers.
 
-        (3)
+        (3) __Rulemaking.—__ 
 
-            (A)
+            (A)  __In general__  __.—__ 
 
-             The Secretary shall evaluate from time to time how successful the procedures under paragraph (2) of this subsection have been in helping to maintain records about first purchasers of tires. After each evaluation, the Secretary shall decide—
+            The Secretary shall initiate a rulemaking to require a distributor or dealer of tires that is not owned or controlled by a manufacturer of tires to maintain records of—
 
-                (i) the extent to which distributors and dealers have complied with the procedures;
+                (i) the name and address of tire purchasers and lessors;
 
-                (ii) the extent to which distributors and dealers have encouraged first purchasers of tires to register the tires; and
+                (ii) information identifying the tire that was purchased or leased; and
 
-                (iii) whether to prescribe for manufacturers, distributors, or dealers other requirements that the Secretary decides will increase significantly the percentage of first purchasers of tires about whom records are maintained.
+                (iii) any additional records the Secretary considers appropriate.
 
-            (B)
+            (B)  __Electronic transmission__  __.—__ 
 
-             The Secretary may prescribe a requirement under subparagraph (A) of this paragraph only if the Secretary decides it is necessary to reduce the risk to motor vehicle safety, after considering—
+            The rulemaking carried out under subparagraph (A) shall require a distributor or dealer of tires that is not owned or controlled by a manufacturer of tires to electronically transmit the records described in clauses (i), (ii), and (iii) of subparagraph (A) to the manufacturer of the tires or the designee of the manufacturer by secure means at no cost to tire purchasers or lessors.
 
-                (i) the cost of the requirement to manufacturers and the burden of the requirement on distributors and dealers, compared to the increase in the percentage of first purchasers of tires about whom records would be maintained as a result of the requirement;
+            (C)  __Satisfaction of requirements__  __.—__ 
 
-                (ii) the extent to which distributors and dealers have complied with the procedures in paragraph (2) of this subsection; and
-
-                (iii) the extent to which distributors and dealers have encouraged first purchasers of tires to register the tires.
-
-            (C) A manufacturer of tires shall reimburse distributors and dealers of that manufacturer’s tires for all reasonable costs incurred by the distributors and dealers in complying with a requirement prescribed by the Secretary under subparagraph (A) of this paragraph.
-
-            (D) After making a decision under subparagraph (A) of this paragraph, the Secretary shall submit to each House of Congress a report containing a detailed statement of the decision and an explanation of the reasons for the decision.
+            A regulation promulgated under subparagraph (A) may be considered to satisfy the requirements of paragraph (2)(B).
 
     (c) __Rollover Tests.—__ 
 
@@ -77,7 +71,7 @@
 
         This subsection applies to motor vehicles, including passenger cars, multipurpose passenger vehicles, and trucks, with a gross vehicle weight rating of 10,000 pounds or less. A motor vehicle designed to provide temporary residential accommodations is not covered.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 948][/us/stat/108/948]; [Pub. L. 106–414, § 12][/us/pl/106/414/s12], Nov. 1, 2000, [114 Stat. 1806][/us/stat/114/1806].)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 948][/us/stat/108/948]; [Pub. L. 106–414, § 12][/us/pl/106/414/s12], Nov. 1, 2000, [114 Stat. 1806][/us/stat/114/1806]; [Pub. L. 114–94, div. B, title XXIV, § 24333][/us/pl/114/94/s24333], Dec. 4, 2015, [129 Stat. 1715][/us/stat/129/1715].)
 
 <table>
 
@@ -203,7 +197,21 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 158(b)(2), (3); added Oct. 1
 
  __Amendments__ 
 
+    2015—Subsec. (b)(3). [Pub. L. 114–94][/us/pl/114/94] amended par. (3) generally. Prior to amendment, par. (3) related to requirement for Secretary to evaluate record maintenance procedures under par. (2) and submit reports to Congress.
+
     2000—Subsec. (c). [Pub. L. 106–414][/us/pl/106/414] added subsec. (c).
+
+ __Retention of Safety Records by Manufacturers__ 
+
+[Pub. L. 114–94, div. B, title XXIV, § 24403][/us/pl/114/94/s24403], Dec. 4, 2015, [129 Stat. 1720][/us/stat/129/1720], provided that:
+
+>     “(a)  __Rule__  __.—__ 
+
+>     Not later than 18 months after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary of Transportation shall issue a final rule pursuant to [section 30117 of title 49][/us/usc/t49/s30117], United States Code, requiring each manufacturer of motor vehicles or motor vehicle equipment to retain all motor vehicle safety records required to be maintained by manufacturers under section 576.6 of title 49, Code of Federal Regulations, for a period of not less than 10 calendar years from the date on which they were generated or acquired by the manufacturer.
+
+>     “(b)  __Application__  __.—__ 
+
+>     The rule required by subsection (a) shall apply with respect to any record described in such subsection that is in the possession of a manufacturer on the effective date of such rule.”
 
  __15-__  __Passenger Van Safety__ 
 
@@ -228,8 +236,14 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 158(b)(2), (3); added Oct. 1
 [/us/stat/108/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F948
 [/us/pl/106/414/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414%2Fs12
 [/us/stat/114/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1806
+[/us/pl/114/94/s24333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24333
+[/us/stat/129/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1715
 [/us/pl/106/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/106/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414
+[/us/pl/114/94/s24403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24403
+[/us/stat/129/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1720
+[/us/usc/t49/s30117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30117
 [/us/pl/109/59/s10309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10309%2Fa
 [/us/stat/119/1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1942
 

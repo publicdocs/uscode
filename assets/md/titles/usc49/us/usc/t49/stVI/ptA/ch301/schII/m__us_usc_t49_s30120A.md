@@ -15,9 +15,13 @@
 
 ## § 30120A. Recall obligations and bankruptcy of a manufacturer
 
-    A manufacturer’s filing of a petition in bankruptcy under chapter 11 of title 11, does not negate the manufacturer’s duty to comply with section 30112 or sections 30115 through 30120 of this title. In any bankruptcy proceeding, the manufacturer’s obligations under such sections shall be treated as a claim of the United States Government against such manufacturer, subject to subchapter II of chapter 37 of title 31, United States Code, and given priority pursuant to section 3713(a)(1)(A) of such chapter, notwithstanding section 3713(a)(2), to ensure that consumers are adequately protected from any safety defect or noncompliance determined to exist in the manufacturer’s products. This section shall apply equally to actions of a manufacturer taken before or after the filing of a petition in bankruptcy.
+    A manufacturer’s filing of a petition in bankruptcy under chapter 7 or chapter 11 of title 11 does not negate the manufacturer’s duty to comply with section 30112 or sections 30115 through 30120 of this title. In any bankruptcy proceeding, the manufacturer’s obligations under such sections shall be treated as a claim of the United States Government against such manufacturer, subject to subchapter II of chapter 37 of title 31, United States Code, and given priority pursuant to section 3713(a)(1)(A) of such chapter, notwithstanding section 3713(a)(2), to ensure that consumers are adequately protected from any safety defect or noncompliance determined to exist in the manufacturer’s products. This section shall apply equally to actions of a manufacturer taken before or after the filing of a petition in bankruptcy.
 
-(Added [Pub. L. 112–141, div. C, title I, § 31312(a)][/us/pl/112/141/s31312/a], July 6, 2012, [126 Stat. 772][/us/stat/126/772].)
+(Added [Pub. L. 112–141, div. C, title I, § 31312(a)][/us/pl/112/141/s31312/a], July 6, 2012, [126 Stat. 772][/us/stat/126/772]; amended [Pub. L. 114–94, div. B, title XXIV, § 24106][/us/pl/114/94/s24106], Dec. 4, 2015, [129 Stat. 1705][/us/stat/129/1705].)
+
+ __Amendments__ 
+
+    2015—[Pub. L. 114–94][/us/pl/114/94] substituted “chapter 7 or chapter 11 of title 11” for “chapter 11 of title 11,”.
 
  __Effective Date__ 
 
@@ -32,6 +36,9 @@
 
 [/us/pl/112/141/s31312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31312%2Fa
 [/us/stat/126/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F772
+[/us/pl/114/94/s24106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24106
+[/us/stat/129/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1705
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 

@@ -119,11 +119,27 @@
 
         (2) If a State requests, the Secretary shall assist the State in revising its laws to comply with subsection (b) of this section. If a State requires time beyond April 28, 1989, to revise its laws to achieve compliance, the Secretary, on request of the State, may grant additional time that the Secretary considers reasonable by publishing a notice in the Federal Register. The notice shall include the reasons for granting the additional time. In granting additional time, the Secretary shall ensure that the State is making reasonable efforts to achieve compliance.
 
-    (g)  __Electronic Disclosures__  __.—__ 
+    (g) __Electronic Disclosures.—__ 
 
-    Not later than 18 months after the date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012, in carrying out this section, the Secretary shall prescribe regulations permitting any written disclosures or notices and related matters to be provided electronically.
+        (1) Not later than 18 months after the date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012, in carrying out this section, the Secretary shall prescribe regulations permitting any written disclosures or notices and related matters to be provided electronically.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1049][/us/stat/108/1049]; [Pub. L. 103–429, § 6(34)][/us/pl/103/429/s6/34], Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380]; [Pub. L. 104–287, § 5(62)][/us/pl/104/287/s5/62], Oct. 11, 1996, [110 Stat. 3394][/us/stat/110/3394]; [Pub. L. 105–178, title VII, § 7105][/us/pl/105/178/s7105], June 9, 1998, [112 Stat. 467][/us/stat/112/467]; [Pub. L. 112–141, div. C, title I, § 31205(b)][/us/pl/112/141/s31205/b], July 6, 2012, [126 Stat. 761][/us/stat/126/761].)
+        (2)
+
+         Notwithstanding paragraph (1) and subject to paragraph (3), a State, without approval from the Secretary under subsection (d), may allow for written disclosures or notices and related matters to be provided electronically if—
+
+            (A)
+
+             in compliance with—
+
+                (i) the requirements of subchapter 1 of chapter 96 of title 15;  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or
+
+                (ii) the requirements of a State law under [section 7002(a) of title 15][/us/usc/t15/s7002/a]; 1 and
+
+            (B) the disclosures or notices otherwise meet the requirements under this section, including appropriate authentication and security measures.
+
+        (3) Paragraph (2) ceases to be effective on the date the regulations under paragraph (1) become effective.
+
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1049][/us/stat/108/1049]; [Pub. L. 103–429, § 6(34)][/us/pl/103/429/s6/34], Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380]; [Pub. L. 104–287, § 5(62)][/us/pl/104/287/s5/62], Oct. 11, 1996, [110 Stat. 3394][/us/stat/110/3394]; [Pub. L. 105–178, title VII, § 7105][/us/pl/105/178/s7105], June 9, 1998, [112 Stat. 467][/us/stat/112/467]; [Pub. L. 112–141, div. C, title I, § 31205(b)][/us/pl/112/141/s31205/b], July 6, 2012, [126 Stat. 761][/us/stat/126/761]; [Pub. L. 114–94, div. B, title XXIV, § 24111][/us/pl/114/94/s24111], Dec. 4, 2015, [129 Stat. 1709][/us/stat/129/1709].)
 
 <table>
 
@@ -353,9 +369,13 @@ Oct. 28, 1986, Pub. L. 99–579, § 2(c), 100 Stat. 3310.  </td>
 
  __References in Text__ 
 
-    The date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012, referred to in subsec. (g), is the date of enactment of title I of div. C of [Pub. L. 112–141][/us/pl/112/141], which was approved July 6, 2012.
+    The date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012, referred to in subsec. (g)(1), is the date of enactment of title I of div. C of [Pub. L. 112–141][/us/pl/112/141], which was approved July 6, 2012.
+
+    Subchapter 1 of chapter 96 of title 15 and [section 7002(a) of title 15][/us/usc/t15/s7002/a], referred to in subsec. (g)(2)(A), probably should be references to title I and section 102(a), respectively, of the Electronic Signatures in Global and National Commerce Act, [Pub. L. 106–229][/us/pl/106/229], which are classified, respectively, to subchapter I (§ 7001 et seq.) of chapter 96 and [section 7002(a) of Title 15][/us/usc/t15/s7002/a], Commerce and Trade.
 
  __Amendments__ 
+
+    2015—Subsec. (g). [Pub. L. 114–94][/us/pl/114/94] designated existing provisions as par. (1) and added pars. (2) and (3).
 
     2012—Subsec. (g). [Pub. L. 112–141][/us/pl/112/141] added subsec. (g).
 
@@ -405,6 +425,7 @@ Oct. 28, 1986, Pub. L. 99–579, § 2(c), 100 Stat. 3310.  </td>
 ----------
 
 [/us/usc/t49/s32701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32701%2Fb
+[/us/usc/t15/s7002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7002%2Fa
 [/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
 [/us/stat/108/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1049
 [/us/pl/103/429/s6/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F34
@@ -415,6 +436,8 @@ Oct. 28, 1986, Pub. L. 99–579, § 2(c), 100 Stat. 3310.  </td>
 [/us/stat/112/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F467
 [/us/pl/112/141/s31205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31205%2Fb
 [/us/stat/126/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F761
+[/us/pl/114/94/s24111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24111
+[/us/stat/129/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1709
 [/us/pl/101/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F641
 [/us/stat/104/4657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4657
 [/us/usc/t15/s1988/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1988%2Fd%2F1%2FC
@@ -429,6 +452,10 @@ Oct. 28, 1986, Pub. L. 99–579, § 2(c), 100 Stat. 3310.  </td>
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1049
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/usc/t15/s7002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7002%2Fa
+[/us/pl/106/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229
+[/us/usc/t15/s7002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7002%2Fa
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/104/287/s5/62/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F62%2FA

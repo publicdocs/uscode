@@ -37,9 +37,9 @@
 
             recognizing the policy of this part that rail carriers shall earn adequate revenues, as established by the Board under [section 10704(a)(2) of this title][/us/usc/t49/s10704/a/2].
 
-        (3) The Board shall, within one year after January 1, 1996, complete the pending Interstate Commerce Commission non-coal rate guidelines proceeding to establish a simplified and expedited method for determining the reasonableness of challenged rail rates in those cases in which a full stand-alone cost presentation is too costly, given the value of the case.
+        (3) The Board shall maintain 1 or more simplified and expedited methods for determining the reasonableness of challenged rates in those cases in which a full stand-alone cost presentation is too costly, given the value of the case.
 
-(Added [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 809][/us/stat/109/809]; amended [Pub. L. 104–287, § 5(22)][/us/pl/104/287/s5/22], Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390].)
+(Added [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 809][/us/stat/109/809]; amended [Pub. L. 104–287, § 5(22)][/us/pl/104/287/s5/22], Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 114–110, § 11(a)][/us/pl/114/110/s11/a], Dec. 18, 2015, [129 Stat. 2233][/us/stat/129/2233].)
 
  __Prior Provisions__ 
 
@@ -51,15 +51,17 @@
 
  __Amendments__ 
 
+    2015—Subsec. (d)(3). [Pub. L. 114–110][/us/pl/114/110] amended par. (3) generally. Prior to amendment, text read as follows: “The Board shall, within one year after January 1, 1996, complete the pending Interstate Commerce Commission non-coal rate guidelines proceeding to establish a simplified and expedited method for determining the reasonableness of challenged rail rates in those cases in which a full stand-alone cost presentation is too costly, given the value of the case.”
+
     1996—Subsec. (d)(3). [Pub. L. 104–287][/us/pl/104/287] substituted “January 1, 1996” for “the effective date of this paragraph”.
 
  __Effective Date__ 
 
-    Chapter effective Jan. 1, 1996, except as otherwise provided in [Pub. L. 104–88][/us/pl/104/88], see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as a note under [section 701 of this title][/us/usc/t49/s701].
+    Chapter effective Jan. 1, 1996, except as otherwise provided in [Pub. L. 104–88][/us/pl/104/88], see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as a note under [section 1301 of this title][/us/usc/t49/s1301].
 
  __Abolition of Interstate Commerce Commission__ 
 
-    Interstate Commerce Commission abolished by [section 101 of Pub. L. 104–88][/us/pl/104/88/s101], set out as a note under [section 701 of this title][/us/usc/t49/s701].
+    Interstate Commerce Commission abolished by [section 101 of Pub. L. 104–88][/us/pl/104/88/s101], set out as a note under [section 1301 of this title][/us/usc/t49/s1301].
 
 ----------
 
@@ -74,6 +76,8 @@
 [/us/stat/109/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F809
 [/us/pl/104/287/s5/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F22
 [/us/stat/110/3390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3390
+[/us/pl/114/110/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs11%2Fa
+[/us/stat/129/2233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2233
 [/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
 [/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1371
@@ -90,11 +94,12 @@
 [/us/pl/103/272/s4/j/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fj%2F19
 [/us/stat/108/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1369
 [/us/usc/t49/s10701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10701
+[/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/pl/104/88/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs101
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 
 

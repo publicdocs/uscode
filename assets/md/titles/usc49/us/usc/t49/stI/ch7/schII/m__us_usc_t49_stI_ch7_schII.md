@@ -11,13 +11,15 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stI/ch7/schI/m__us_usc_t49_s706.md) | [Next](./../../../../../..//us/usc/t49/stI/ch7/schII/m__us_usc_t49_s721.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstI%2Fch7%2FschII)
+[Previous](./../../../../../..//us/usc/t49/stI/ch7/schI/m__us_usc_t49_stI_ch7_schI.md) | [Next](./../../../../../..//us/usc/t49/stI/ch7/schII/m__us_usc_t49_s725.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstI%2Fch7%2FschII)
 
 #### SUBCHAPTER II—ADMINISTRATIVE
 
+\[§§ 721 to 724. __Renumbered §§ 1321 to 1324\]__ 
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stI/ch7/schI/m__us_usc_t49_s706.md) | [Next](./../../../../../..//us/usc/t49/stI/ch7/schII/m__us_usc_t49_s721.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstI%2Fch7%2FschII)
+[Previous](./../../../../../..//us/usc/t49/stI/ch7/schI/m__us_usc_t49_stI_ch7_schI.md) | [Next](./../../../../../..//us/usc/t49/stI/ch7/schII/m__us_usc_t49_s725.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstI%2Fch7%2FschII)
 
 ----------
 ----------

@@ -101,9 +101,11 @@
 
     A grant or loan may not be used to—
 
-        (1) pay ordinary governmental or nonproject operating expenses; or
+        (1) pay ordinary governmental or nonproject operating expenses;
 
-        (2) support a procurement that uses an exclusionary or discriminatory specification.
+        (2) pay incremental costs of incorporating art or non-functional landscaping into facilities, including the costs of an artist on the design team; or
+
+        (3) support a procurement that uses an exclusionary or discriminatory specification.
 
     (i) __Government Share of Costs for Certain Projects.—__ 
 
@@ -159,9 +161,17 @@
 
             (C)
 
-             when procuring rolling stock (including train control, communication, and traction power equipment) under this chapter—
+             when procuring rolling stock (including train control, communication, traction power equipment, and rolling stock prototypes) under this chapter—
 
-                (i) the cost of components and subcomponents produced in the United States is more than 60 percent of the cost of all components of the rolling stock; and
+                (i)
+
+                 the cost of components and subcomponents produced in the United States—
+
+                    (I) for fiscal years 2016 and 2017, is more than 60 percent of the cost of all components of the rolling stock;
+
+                    (II) for fiscal years 2018 and 2019, is more than 65 percent of the cost of all components of the rolling stock; and
+
+                    (III) for fiscal year 2020 and each fiscal year thereafter, is more than 70 percent of the cost of all components of the rolling stock; and
 
                 (ii) final assembly of the rolling stock has occurred in the United States; or
 
@@ -185,7 +195,27 @@
 
         In this subsection, labor costs involved in final assembly are not included in calculating the cost of components.
 
-        (5)  __Waiver prohibited__  __.—__ 
+        (5)  __Rolling stock frames or car shells__  __.—__ 
+
+        In carrying out paragraph (2)(C) in the case of a rolling stock procurement receiving assistance under this chapter in which the average cost of a rolling stock vehicle in the procurement is more than $300,000, if rolling stock frames or car shells are not produced in the United States, the Secretary shall include in the calculation of the domestic content of the rolling stock the cost of steel or iron that is produced in the United States and used in the rolling stock frames or car shells.
+
+        (6) __Certification of domestic supply and disclosure.—__ 
+
+            (A)  __Certification of domestic supply__  __.—__ 
+
+            If the Secretary denies an application for a waiver under paragraph (2), the Secretary shall provide to the applicant a written certification that—
+
+                (i) the steel, iron, or manufactured goods, as applicable, (referred to in this subparagraph as the “item”) is produced in the United States in a sufficient and reasonably available amount;
+
+                (ii) the item produced in the United States is of a satisfactory quality; and
+
+                (iii) includes a list of known manufacturers in the United States from which the item can be obtained.
+
+            (B)  __Disclosure__  __.—__ 
+
+            The Secretary shall disclose the waiver denial and the written certification to the public in an easily identifiable location on the website of the Department of Transportation.
+
+        (7)  __Waiver prohibited__  __.—__ 
 
         The Secretary may not make a waiver under paragraph (2) of this subsection for goods produced in a foreign country if the Secretary, in consultation with the United States Trade Representative, decides that the government of that foreign country—
 
@@ -193,25 +223,33 @@
 
             (B) has violated the agreement by discriminating against goods to which this subsection applies that are produced in the United States and to which the agreement applies.
 
-        (6)  __Penalty for mislabeling and misrepresentation__  __.—__ 
+        (8)  __Penalty for mislabeling and misrepresentation__  __.—__ 
 
-        A person is ineligible under subpart 9.4 of the Federal Acquisition Regulation, or any successor thereto, to receive a contract or subcontract made with amounts authorized under the Federal Public Transportation Act of 2012 if a court or department, agency, or instrumentality of the Government decides the person intentionally—
+        A person is ineligible under subpart 9.4 of the Federal Acquisition Regulation, or any successor thereto, to receive a contract or subcontract made with amounts authorized under the Federal Public Transportation Act of 2015 if a court or department, agency, or instrumentality of the Government decides the person intentionally—
 
             (A) affixed a “Made in America” label, or a label with an inscription having the same meaning, to goods sold in or shipped to the United States that are used in a project to which this subsection applies but not produced in the United States; or
 
             (B) represented that goods described in subparagraph (A) of this paragraph were produced in the United States.
 
-        (7)  __State requirements__  __.—__ 
+        (9)  __State requirements__  __.—__ 
 
         The Secretary may not impose any limitation on assistance provided under this chapter that restricts a State from imposing more stringent requirements than this subsection on the use of articles, materials, and supplies mined, produced, or manufactured in foreign countries in projects carried out with that assistance or restricts a recipient of that assistance from complying with those State-imposed requirements.
 
-        (8)  __Opportunity to correct inadvertent error__  __.—__ 
+        (10)  __Opportunity to correct inadvertent error__  __.—__ 
 
         The Secretary may allow a manufacturer or supplier of steel, iron, or manufactured goods to correct after bid opening any certification of noncompliance or failure to properly complete the certification (but not including failure to sign the certification) under this subsection if such manufacturer or supplier attests under penalty of perjury that such manufacturer or supplier submitted an incorrect certification as a result of an inadvertent or clerical error. The burden of establishing inadvertent or clerical error is on the manufacturer or supplier.
 
-        (9)  __Administrative review__  __.—__ 
+        (11)  __Administrative review__  __.—__ 
 
         A party adversely affected by an agency action under this subsection shall have the right to seek review under [section 702 of title 5][/us/usc/t5/s702].
+
+        (12)  __Steel and iron__  __.—__ 
+
+        For purposes of this subsection, steel and iron meeting the requirements of section 661.5(b) of title 49, Code of Federal Regulations may be considered produced in the United States.
+
+        (13)  __Definition of small purchase__  __.—__ 
+
+        For purposes of determining whether a purchase qualifies for a general public interest waiver under paragraph (2)(A) of this subsection, including under any regulation promulgated under that paragraph, the term “small purchase” means a purchase of not more than $150,000.
 
     (k)  __Participation of Governmental Agencies in Design and Delivery of Transportation Services__  __.—__ 
 
@@ -259,7 +297,7 @@
 
         (1)  __In general__  __.—__ 
 
-        The Secretary may assist a recipient in acquiring right-of-way before the completion of the environmental reviews for any project that may use the right-of-way if the acquisition is otherwise permitted under Federal law. The Secretary may establish restrictions on such an acquisition as the Secretary determines to be necessary and appropriate.
+        The Secretary may assist a recipient in acquiring right-of-way before the completion of the environmental reviews for any project that may use the right-of-way if the acquisition is otherwise permitted under Federal law.
 
         (2)  __Environmental reviews__  __.—__ 
 
@@ -269,7 +307,19 @@
 
     A recipient of assistance under this chapter may not deny reasonable access for a private intercity or charter transportation operator to federally funded public transportation facilities, including intermodal facilities, park and ride lots, and bus-only highway lanes. In determining reasonable access, capacity requirements of the recipient of assistance and the extent to which access would be detrimental to existing public transportation services must be considered.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 821][/us/stat/108/821]; [Pub. L. 103–429, § 6(10)][/us/pl/103/429/s6/10], Oct. 31, 1994, [108 Stat. 4379][/us/stat/108/4379]; [Pub. L. 104–287, § 5(15)][/us/pl/104/287/s5/15], Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 105–178, title III, § 3020][/us/pl/105/178/s3020], June 9, 1998, [112 Stat. 362][/us/stat/112/362]; [Pub. L. 109–59, title III][/us/pl/109/59], §§ 3002(b)(4), 3023(a)–(i)(3), (j)–(m), Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545], 1615–1619; [Pub. L. 110–244, title II, § 201(j)][/us/pl/110/244/s201/j], June 6, 2008, [122 Stat. 1611][/us/stat/122/1611]; [Pub. L. 112–141, div. B, § 20016][/us/pl/112/141/s20016], July 6, 2012, [126 Stat. 697][/us/stat/126/697].)
+    (s)  __Value Capture Revenue Eligible for Local Share__  __.—__ 
+
+    Notwithstanding any other provision of law, a recipient of assistance under this chapter may use the revenue generated from value capture financing mechanisms as local matching funds for capital projects and operating costs eligible under this chapter.
+
+    (t)  __Special Condition on Charter Bus Transportation Service__  __.—__ 
+
+    If, in a fiscal year, the Secretary is prohibited by law from enforcing regulations related to charter bus service under part 604 of title 49, Code of Federal Regulations, for any transit agency that during fiscal year 2008 was both initially granted a 60-day period to come into compliance with such part 604, and then was subsequently granted an exception from such part—
+
+        (1) the transit agency shall be precluded from receiving its allocation of urbanized area formula grant funds for such fiscal year; and
+
+        (2) any amounts withheld pursuant to paragraph (1) shall be added to the amount that the Secretary may apportion under section 5336 in the following fiscal year.
+
+([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 821][/us/stat/108/821]; [Pub. L. 103–429, § 6(10)][/us/pl/103/429/s6/10], Oct. 31, 1994, [108 Stat. 4379][/us/stat/108/4379]; [Pub. L. 104–287, § 5(15)][/us/pl/104/287/s5/15], Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 105–178, title III, § 3020][/us/pl/105/178/s3020], June 9, 1998, [112 Stat. 362][/us/stat/112/362]; [Pub. L. 109–59, title III][/us/pl/109/59], §§ 3002(b)(4), 3023(a)–(i)(3), (j)–(m), Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545], 1615–1619; [Pub. L. 110–244, title II, § 201(j)][/us/pl/110/244/s201/j], June 6, 2008, [122 Stat. 1611][/us/stat/122/1611]; [Pub. L. 112–141, div. B, § 20016][/us/pl/112/141/s20016], July 6, 2012, [126 Stat. 697][/us/stat/126/697]; [Pub. L. 114–94, div. A, title III, § 3011][/us/pl/114/94/s3011], Dec. 4, 2015, [129 Stat. 1474][/us/stat/129/1474].)
 
 <table>
 
@@ -699,9 +749,25 @@ July 9, 1964, Pub. L. 88–365, § 12(j), as added Apr. 2, 1987, Pub. L. 100�
 
     The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsec. (j)(3)(B), is deemed to be Oct. 1, 2012, see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways.
 
-    The Federal Public Transportation Act of 2012, referred to in subsec. (j)(6), is div. B of [Pub. L. 112–141][/us/pl/112/141], July 6, 2012, [126 Stat. 622][/us/stat/126/622]. For complete classification of this Act to the Code, see Short Title of 2012 Amendment note set out under [section 5101 of this title][/us/usc/t49/s5101] and Tables.
+    The Federal Public Transportation Act of 2015, referred to in subsec. (j)(8), is title III of div. A of [Pub. L. 114–94][/us/pl/114/94], Dec. 4, 2015, [129 Stat. 1446][/us/stat/129/1446]. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 5101 of this title][/us/usc/t49/s5101] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (h)(2), (3). [Pub. L. 114–94, § 3011(1)][/us/pl/114/94/s3011/1], added par. (2) and redesignated former par. (2) as (3).
+
+    Subsec. (j)(2)(C). [Pub. L. 114–94, § 3011(2)(A)][/us/pl/114/94/s3011/2/A], added subpar. (C) and struck out former subpar. (C), which read as follows: “when procuring rolling stock (including train control, communication, and traction power equipment) under this chapter—
+
+    “(i) the cost of components and subcomponents produced in the United States is more than 60 percent of the cost of all components of the rolling stock; and
+
+    “(ii) final assembly of the rolling stock has occurred in the United States; or”.
+
+    Subsec. (j)(5) to (11). [Pub. L. 114–94, § 3011(2)(B)][/us/pl/114/94/s3011/2/B]–(D), added pars. (5) and (6), redesignated former pars. (5) to (9) as pars. (7) to (11), respectively, and in par. (8), substituted “Federal Public Transportation Act of 2015” for “Federal Public Transportation Act of 2012”.
+
+    Subsec. (j)(12), (13). [Pub. L. 114–94, § 3011(2)(E)][/us/pl/114/94/s3011/2/E], added pars. (12) and (13).
+
+    Subsec. (q)(1). [Pub. L. 114–94, § 3011(3)][/us/pl/114/94/s3011/3], struck out at end “The Secretary may establish restrictions on such an acquisition as the Secretary determines to be necessary and appropriate.”
+
+    Subsecs. (s), (t). [Pub. L. 114–94, § 3011(4)][/us/pl/114/94/s3011/4], added subsecs. (s) and (t).
 
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to general provisions on assistance.
 
@@ -767,6 +833,10 @@ July 9, 1964, Pub. L. 88–365, § 12(j), as added Apr. 2, 1987, Pub. L. 100�
 
     Subsec. (l). [Pub. L. 103–429, § 6(10)(B)][/us/pl/103/429/s6/10/B], added subsec. (l).
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23][/us/usc/t23/s101], Highways.
@@ -814,6 +884,8 @@ July 9, 1964, Pub. L. 88–365, § 12(j), as added Apr. 2, 1987, Pub. L. 100�
 [/us/stat/122/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1611
 [/us/pl/112/141/s20016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20016
 [/us/stat/126/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F697
+[/us/pl/114/94/s3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3011
+[/us/stat/129/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1474
 [/us/pl/103/429/s6/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F10%2FA
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
@@ -830,9 +902,15 @@ July 9, 1964, Pub. L. 88–365, § 12(j), as added Apr. 2, 1987, Pub. L. 100�
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/stat/126/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F622
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1446
 [/us/usc/t49/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5101
+[/us/pl/114/94/s3011/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3011%2F1
+[/us/pl/114/94/s3011/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3011%2F2%2FA
+[/us/pl/114/94/s3011/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3011%2F2%2FB
+[/us/pl/114/94/s3011/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3011%2F2%2FE
+[/us/pl/114/94/s3011/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3011%2F3
+[/us/pl/114/94/s3011/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3011%2F4
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
 [/us/pl/109/59/s3023/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3023%2Fa%2F1
@@ -872,6 +950,9 @@ July 9, 1964, Pub. L. 88–365, § 12(j), as added Apr. 2, 1987, Pub. L. 100�
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/103/429/s6/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F10%2FA
 [/us/pl/103/429/s6/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F10%2FB
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

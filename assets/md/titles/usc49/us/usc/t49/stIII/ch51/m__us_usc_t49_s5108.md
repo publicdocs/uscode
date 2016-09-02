@@ -101,9 +101,9 @@
 
                 (ix) other factors the Secretary considers appropriate.
 
-            (B) The Secretary shall adjust the amount being collected under this paragraph to reflect any unexpended balance in the account established under [section 5116(i) of this title][/us/usc/t49/s5116/i]. However, the Secretary is not required to refund any fee collected under this paragraph.
+            (B) The Secretary shall adjust the amount being collected under this paragraph to reflect any unexpended balance in the account established under [section 5116(h) of this title][/us/usc/t49/s5116/h]. However, the Secretary is not required to refund any fee collected under this paragraph.
 
-            (C) The Secretary shall transfer to the Secretary of the Treasury amounts the Secretary of Transportation collects under this paragraph for deposit in the Hazardous Materials Emergency Preparedness Fund established under [section 5116(i) of this title][/us/usc/t49/s5116/i].
+            (C) The Secretary shall transfer to the Secretary of the Treasury amounts the Secretary of Transportation collects under this paragraph for deposit in the Hazardous Materials Emergency Preparedness Fund established under [section 5116(h) of this title][/us/usc/t49/s5116/h].
 
         (3)  __Fees on exempt persons__  __.—__ 
 
@@ -123,7 +123,7 @@
 
             (B) Subsections (a)–(h) of this section do not apply to a department, agency, or instrumentality of the United States Government, an authority of a State or political subdivision of a State, an Indian tribe, or an employee of a department, agency, instrumentality, or authority carrying out official duties.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 765][/us/stat/108/765]; [Pub. L. 103–311, title I][/us/pl/103/311], §§ 104, 117(a)(3), 119(d)(1), Aug. 26, 1994, [108 Stat. 1673][/us/stat/108/1673], 1678, 1680; [Pub. L. 105–102, § 2(3)][/us/pl/105/102/s2/3], Nov. 20, 1997, [111 Stat. 2204][/us/stat/111/2204]; [Pub. L. 105–225, § 7(b)(1)][/us/pl/105/225/s7/b/1], Aug. 12, 1998, [112 Stat. 1511][/us/stat/112/1511]; [Pub. L. 109–59, title VII][/us/pl/109/59], §§ 7109(a)–(c), (e), (f), 7114(d)(3), 7126, Aug. 10, 2005, [119 Stat. 1897][/us/stat/119/1897], 1898, 1900, 1909.)
+([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 765][/us/stat/108/765]; [Pub. L. 103–311, title I][/us/pl/103/311], §§ 104, 117(a)(3), 119(d)(1), Aug. 26, 1994, [108 Stat. 1673][/us/stat/108/1673], 1678, 1680; [Pub. L. 105–102, § 2(3)][/us/pl/105/102/s2/3], Nov. 20, 1997, [111 Stat. 2204][/us/stat/111/2204]; [Pub. L. 105–225, § 7(b)(1)][/us/pl/105/225/s7/b/1], Aug. 12, 1998, [112 Stat. 1511][/us/stat/112/1511]; [Pub. L. 109–59, title VII][/us/pl/109/59], §§ 7109(a)–(c), (e), (f), 7114(d)(3), 7126, Aug. 10, 2005, [119 Stat. 1897][/us/stat/119/1897], 1898, 1900, 1909; [Pub. L. 114–94, div. A, title VII, § 7203(b)(1)][/us/pl/114/94/s7203/b/1], Dec. 4, 2015, [129 Stat. 1591][/us/stat/129/1591].)
 
 <table>
 
@@ -355,6 +355,8 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 117A(h)(1)– (5); added Nov
 
  __Amendments__ 
 
+    2015—Subsec. (g)(2)(B), (C). [Pub. L. 114–94][/us/pl/114/94] substituted “5116(h)” for “5116(i)”
+
     2005—Subsec. (a)(1). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
 
     Subsec. (a)(1)(B). [Pub. L. 109–59, § 7109(a)(1)][/us/pl/109/59/s7109/a/1], substituted “Division 1.1, 1.2, or 1.3 explosive material” for “class A or B explosive”.
@@ -409,6 +411,10 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 117A(h)(1)– (5); added Nov
 
     Subsec. (g)(2)(A)(viii). [Pub. L. 103–311, § 119(d)(1)][/us/pl/103/311/s119/d/1], struck out “5107(e),” before “5108(g)(2)”.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Registration__ 
 
 [Pub. L. 109–59, title VII, § 7109(d)][/us/pl/109/59/s7109/d], Aug. 10, 2005, [119 Stat. 1898][/us/stat/119/1898], provided that: 
@@ -423,8 +429,8 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 117A(h)(1)– (5); added Nov
 ----------
 
 [/us/usc/t5/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb
-[/us/usc/t49/s5116/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5116%2Fi
-[/us/usc/t49/s5116/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5116%2Fi
+[/us/usc/t49/s5116/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5116%2Fh
+[/us/usc/t49/s5116/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5116%2Fh
 [/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
 [/us/stat/108/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F765
 [/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
@@ -435,7 +441,10 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 117A(h)(1)– (5); added Nov
 [/us/stat/112/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1511
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/stat/119/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1897
+[/us/pl/114/94/s7203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7203%2Fb%2F1
+[/us/stat/129/1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1591
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
 [/us/pl/109/59/s7109/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7109%2Fa%2F1
 [/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
@@ -461,6 +470,9 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 117A(h)(1)– (5); added Nov
 [/us/pl/103/311/s117/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs117%2Fa%2F3
 [/us/pl/103/311/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs104
 [/us/pl/103/311/s119/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs119%2Fd%2F1
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/109/59/s7109/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7109%2Fd
 [/us/stat/119/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1898
 [/us/usc/t49/s5108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5108

@@ -11,9 +11,9 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch243/m__us_usc_t49_s24316.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch244/m__us_usc_t49_s24401.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstV%2FptC%2Fch244)
+[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch243/m__us_usc_t49_s24322.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch244/m__us_usc_t49_s24401.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstV%2FptC%2Fch244)
 
-#### CHAPTER 244—INTERCITY PASSENGER RAIL SERVICE CORRIDOR CAPITAL ASSISTANCE
+#### CHAPTER 244—RAIL IMPROVEMENT GRANTS
 
 <table>
 
@@ -71,14 +71,36 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24407" data-uslm-ref="/us/usc/t49/s24407">24407.</a>  </td>
+
+    <td> Consolidated rail infrastructure and safety improvements.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24408" data-uslm-ref="/us/usc/t49/s24408">24408.</a>  </td>
+
+    <td> Restoration and enhancement grants.  </td>
+
+  </tr>
+
 </table>
 
+ __Amendments__ 
+
+    2015—[Pub. L. 114–94, div. A, title XI][/us/pl/114/94], §§ 11301(b), 11303(b)(1)(A), (B), (2), Dec. 4, 2015, [129 Stat. 1648][/us/stat/129/1648], 1654, substituted “RAIL IMPROVEMENT GRANTS” for “INTERCITY PASSENGER RAIL SERVICE CORRIDOR CAPITAL ASSISTANCE” in chapter heading and added items 24407 and 24408.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch243/m__us_usc_t49_s24316.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch244/m__us_usc_t49_s24401.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstV%2FptC%2Fch244)
+[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch243/m__us_usc_t49_s24322.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch244/m__us_usc_t49_s24401.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstV%2FptC%2Fch244)
 
 ----------
 ----------
 
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1648
 
 

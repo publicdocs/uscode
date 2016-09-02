@@ -21,11 +21,7 @@
 
     (b)  __Allocation__  __.—__ 
 
-    Of the amounts made available for each fiscal year under section 5338(b)(2)(M), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the Secretary shall apportion—
-
-        (1) 50 percent to States and urbanized areas in accordance with subsection (c); and
-
-        (2) 50 percent to States and urbanized areas in accordance with subsection (d).
+    The Secretary shall apportion the amounts made available under section 5338(b)(2)(N)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section 5338(a)(2)(N)”. </sup></sup>  in accordance with subsection (c) and subsection (d).
 
     (c) __Growing State Apportionments.—__ 
 
@@ -81,11 +77,19 @@
 
         The Secretary shall apportion amounts made available to each State under paragraph (4) so that each urbanized area receives an amount equal to the amount apportioned under paragraph (4) multiplied by a ratio equal to the population of each urbanized area divided by the sum of populations of all urbanized areas in the State. Amounts apportioned to each urbanized area shall be added to amounts apportioned to that urbanized area under section 5336, and made available for grants under section 5307.
 
-(Added [Pub. L. 109–59, title III, § 3038(a)][/us/pl/109/59/s3038/a], Aug. 10, 2005, [119 Stat. 1636][/us/stat/119/1636].)
+(Added [Pub. L. 109–59, title III, § 3038(a)][/us/pl/109/59/s3038/a], Aug. 10, 2005, [119 Stat. 1636][/us/stat/119/1636]; amended [Pub. L. 114–94, div. A, title III, § 3030(f)][/us/pl/114/94/s3030/f], Dec. 4, 2015, [129 Stat. 1497][/us/stat/129/1497].)
 
- __References in Text__ 
+ __Amendments__ 
 
-    Section 5338, referred to in subsec. (b), was amended generally by [Pub. L. 112–141, div. B, § 20028][/us/pl/112/141/s20028], July 6, 2012, [126 Stat. 726][/us/stat/126/726], and, as so amended, no longer contains a subsec. (b)(2)(M). However, allocations in accordance with this section are described elsewhere in that section.
+    2015—Subsec. (b). [Pub. L. 114–94][/us/pl/114/94] added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Of the amounts made available for each fiscal year under section 5338(b)(2)(M), the Secretary shall apportion—
+
+    “(1) 50 percent to States and urbanized areas in accordance with subsection (c); and
+
+    “(2) 50 percent to States and urbanized areas in accordance with subsection (d).”
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
 ----------
 
@@ -96,7 +100,11 @@
 
 [/us/pl/109/59/s3038/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3038%2Fa
 [/us/stat/119/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1636
-[/us/pl/112/141/s20028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20028
-[/us/stat/126/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F726
+[/us/pl/114/94/s3030/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3030%2Ff
+[/us/stat/129/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1497
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 
 

@@ -1,7 +1,7 @@
 ---
 ---
 
-# 49 U.S.C., USLM ref /us/usc/t49/s722
+# 49 U.S.C., USLM ref /us/usc/t49/s1322
 
 * Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
   Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
@@ -11,9 +11,9 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stI/ch7/schII/m__us_usc_t49_s721.md) | [Next](./../../../../../..//us/usc/t49/stI/ch7/schII/m__us_usc_t49_s723.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs722)
+[Previous](./../../../../../..//us/usc/t49/stII/ch13/schII/m__us_usc_t49_s1321.md) | [Next](./../../../../../..//us/usc/t49/stII/ch13/schII/m__us_usc_t49_s1323.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1322)
 
-## § 722. Board action
+## § 1322. Board action
 
     (a)  __Effective Date of Actions__  __.—__ 
 
@@ -39,16 +39,24 @@
 
     Notwithstanding subtitle IV, an action of the Board under this section is final on the date on which it is served, and a civil action to enforce, enjoin, suspend, or set aside the action may be filed after that date.
 
-(Added [Pub. L. 104–88, title II, § 201(a)][/us/pl/104/88/s201/a], Dec. 29, 1995, [109 Stat. 936][/us/stat/109/936].)
+(Added [Pub. L. 104–88, title II, § 201(a)][/us/pl/104/88/s201/a], Dec. 29, 1995, [109 Stat. 936][/us/stat/109/936], § 722; renumbered § 1322, [Pub. L. 114–110, § 3(a)(5)][/us/pl/114/110/s3/a/5], Dec. 18, 2015, [129 Stat. 2228][/us/stat/129/2228].)
+
+ __Amendments__ 
+
+    2015—[Pub. L. 114–110][/us/pl/114/110] renumbered [section 722 of this title][/us/usc/t49/s722] as this section.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stI/ch7/schII/m__us_usc_t49_s721.md) | [Next](./../../../../../..//us/usc/t49/stI/ch7/schII/m__us_usc_t49_s723.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs722)
+[Previous](./../../../../../..//us/usc/t49/stII/ch13/schII/m__us_usc_t49_s1321.md) | [Next](./../../../../../..//us/usc/t49/stII/ch13/schII/m__us_usc_t49_s1323.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1322)
 
 ----------
 ----------
 
 [/us/pl/104/88/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs201%2Fa
 [/us/stat/109/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F936
+[/us/pl/114/110/s3/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs3%2Fa%2F5
+[/us/stat/129/2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2228
+[/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
+[/us/usc/t49/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs722
 
 

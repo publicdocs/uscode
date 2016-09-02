@@ -47,15 +47,35 @@
 
         (2) A proceeding to prescribe the regulations must be conducted under [section 553 of title 5][/us/usc/t5/s553], including an opportunity for informal oral presentation.
 
-    (c)  __Consultation__  __.—__ 
+    (c) __Federally Declared Disasters and Emergencies.—__ 
+
+        (1)  __In general__  __.—__ 
+
+        The Secretary may by order waive compliance with any part of an applicable standard prescribed under this chapter without prior notice and comment and on terms the Secretary considers appropriate if the Secretary determines that—
+
+            (A) it is in the public interest to grant the waiver;
+
+            (B) the waiver is not inconsistent with the safety of transporting hazardous materials; and
+
+            (C) the waiver is necessary to facilitate the safe movement of hazardous materials into, from, and within an area of a major disaster or emergency that has been declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121][/us/usc/t42/s5121] et seq.).
+
+        (2)  __Period of waiver__  __.—__ 
+
+        A waiver under this subsection may be issued for a period of not more than 60 days and may be renewed upon application to the Secretary only after notice and an opportunity for a hearing on the waiver. The Secretary shall immediately revoke the waiver if continuation of the waiver would not be consistent with the goals and objectives of this chapter.
+
+        (3)  __Statement of reasons__  __.—__ 
+
+        The Secretary shall include in any order issued under this section the reasons for granting the waiver.
+
+    (d)  __Consultation__  __.—__ 
 
     When prescribing a security regulation or issuing a security order that affects the safety of the transportation of hazardous material, the Secretary of Homeland Security shall consult with the Secretary of Transportation.
 
-    (d)  __Biennial Report__  __.—__ 
+    (e)  __Biennial Report__  __.—__ 
 
     The Secretary of Transportation shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Senate Committee on Commerce, Science, and Transportation a biennial report providing information on whether the Secretary has designated as hazardous materials for purposes of chapter 51 of such title all by-products of the methamphetamine-production process that are known by the Secretary to pose an unreasonable risk to health and safety or property when transported in commerce in a particular amount and form.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 761][/us/stat/108/761]; [Pub. L. 103–311, title I, § 117(a)(2)][/us/pl/103/311/s117/a/2], Aug. 26, 1994, [108 Stat. 1678][/us/stat/108/1678]; [Pub. L. 103–429, § 6(3)][/us/pl/103/429/s6/3], Oct. 31, 1994, [108 Stat. 4378][/us/stat/108/4378]; [Pub. L. 107–296, title XVII, § 1711(a)][/us/pl/107/296/s1711/a], Nov. 25, 2002, [116 Stat. 2319][/us/stat/116/2319]; [Pub. L. 109–59, title VII][/us/pl/109/59], §§ 7103, 7126, Aug. 10, 2005, [119 Stat. 1893][/us/stat/119/1893], 1909; [Pub. L. 109–177, title VII, § 741][/us/pl/109/177/s741], Mar. 9, 2006, [120 Stat. 272][/us/stat/120/272].)
+([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 761][/us/stat/108/761]; [Pub. L. 103–311, title I, § 117(a)(2)][/us/pl/103/311/s117/a/2], Aug. 26, 1994, [108 Stat. 1678][/us/stat/108/1678]; [Pub. L. 103–429, § 6(3)][/us/pl/103/429/s6/3], Oct. 31, 1994, [108 Stat. 4378][/us/stat/108/4378]; [Pub. L. 107–296, title XVII, § 1711(a)][/us/pl/107/296/s1711/a], Nov. 25, 2002, [116 Stat. 2319][/us/stat/116/2319]; [Pub. L. 109–59, title VII][/us/pl/109/59], §§ 7103, 7126, Aug. 10, 2005, [119 Stat. 1893][/us/stat/119/1893], 1909; [Pub. L. 109–177, title VII, § 741][/us/pl/109/177/s741], Mar. 9, 2006, [120 Stat. 272][/us/stat/120/272]; [Pub. L. 114–94, div. A, title VII, § 7201][/us/pl/114/94/s7201], Dec. 4, 2015, [129 Stat. 1589][/us/stat/129/1589].)
 
 <table>
 
@@ -135,7 +155,13 @@ Jan. 3, 1975, Pub. L. 93–633, § 105(a)(1)–(3), 88 Stat. 2157; restated No
 
     This amends 49:5103(b)(2) to clarify the restatement of 49 App.:1804(a)(2) by [section 1 of the Act of July 5, 1994][/us/act/1994-07-05/s1] ([Public Law 103–272][/us/pl/103/272], [108 Stat. 761][/us/stat/108/761]).
 
+ __References in Text__ 
+
+    The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (c)(1)(C), is [Pub. L. 93–288][/us/pl/93/288], May 22, 1974, [88 Stat. 143][/us/stat/88/143], which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42][/us/usc/t42/s5121] and Tables.
+
  __Amendments__ 
+
+    2015—Subsec. (c) to (e). [Pub. L. 114–94][/us/pl/114/94] added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
     2006—Subsec. (d). [Pub. L. 109–177][/us/pl/109/177] added subsec. (d).
 
@@ -165,6 +191,10 @@ Jan. 3, 1975, Pub. L. 93–633, § 105(a)(1)–(3), 88 Stat. 2157; restated No
 
     Subsec. (b)(2). [Pub. L. 103–429][/us/pl/103/429] substituted “be conducted under [section 553 of title 5][/us/usc/t5/s553], including” for “include” and “presentation” for “presentations”.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective Date of 2002 Amendment__ 
 
     Amendment by [Pub. L. 107–296][/us/pl/107/296] effective 60 days after Nov. 25, 2002, see [section 4 of Pub. L. 107–296][/us/pl/107/296/s4], set out as an Effective Date note under [section 101 of Title 6][/us/usc/t6/s101], Domestic Security.
@@ -172,6 +202,34 @@ Jan. 3, 1975, Pub. L. 93–633, § 105(a)(1)–(3), 88 Stat. 2157; restated No
  __Effective Date of 1994 Amendment__ 
 
     Amendment by [Pub. L. 103–429][/us/pl/103/429] effective July 5, 1994, see [section 9 of Pub. L. 103–429][/us/pl/103/429/s9], set out as a note under [section 321 of this title][/us/usc/t49/s321].
+
+ __GAO Study on Acceptance of Classification Examinations__ 
+
+[Pub. L. 114–94, div. A, title VII, § 7207][/us/pl/114/94/s7207], Dec. 4, 2015, [129 Stat. 1592][/us/stat/129/1592], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Not later than 180 days after the date of enactment of this Act \[Dec. 4, 2015\], the Comptroller General of the United States shall evaluate and transmit to the Secretary \[of Transportation\], the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate, a report on the standards, metrics, and protocols that the Secretary uses to regulate the performance of persons approved to recommend hazard classifications pursuant to section 173.56(b) of title 49, Code of Federal Regulations (commonly referred to as ‘third-party labs’).
+
+>     “(b)  __Evaluation__  __.—__ 
+
+>     The evaluation required under subsection (a) shall—
+
+>         “(1) identify what standards and protocols are used to approve such persons, assess the adequacy of such standards and protocols to ensure that persons seeking approval are qualified and capable of performing classifications, and make recommendations to address any deficiencies identified;
+
+>         “(2) assess the adequacy of the Secretary’s oversight of persons approved to perform the classifications, including the qualification of individuals engaged in the oversight of approved persons, and make recommendations to enhance oversight sufficiently to ensure that classifications are issued as required;
+
+>         “(3) identify what standards and protocols exist to rescind, suspend, or deny approval of persons who perform such classifications, assess the adequacy of such standards and protocols, and make recommendations to enhance such standards and protocols if necessary; and
+
+>         “(4) include annual data for fiscal years 2005 through 2015 on the number of applications received for new classifications pursuant to section 173.56(b) of title 49, Code of Federal Regulations, of those applications how many classifications recommended by persons approved by the Secretary were changed to another classification and the reasons for the change, and how many hazardous materials incidents have been attributed to a classification recommended by such approved persons in the United States.
+
+>     “(c)  __Action Plan__  __.—__ 
+
+>     Not later than 180 days after receiving the report required under subsection (a), the Secretary shall make available to the public a plan describing any actions the Secretary will take to establish standards, metrics, and protocols based on the findings and recommendations in the report to ensure that persons approved to perform classification examinations required under section 173.56(b) of title 49, Code of Federal Regulations, can sufficiently perform such examinations in a manner that meets the hazardous materials regulations.
+
+>     “(d)  __Regulations__  __.—__ 
+
+>     If the report required under subsection (a) recommends new regulations in order for the Secretary to have confidence in the accuracy of classification recommendations rendered by persons approved to perform classification examinations required under section 173.56(b) of title 49, Code of Federal Regulations, the Secretary shall consider such recommendations, and if determined appropriate, issue regulations to address the recommendations not later than 18 months after the date of the publication of the plan under subsection (c).”
 
  __Railroad Carrier Employee Exposure to Radiation Study__ 
 
@@ -267,6 +325,7 @@ Jan. 3, 1975, Pub. L. 93–633, § 105(a)(1)–(3), 88 Stat. 2157; restated No
 ----------
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
+[/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
 [/us/stat/108/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F761
 [/us/pl/103/311/s117/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs117%2Fa%2F2
@@ -279,11 +338,17 @@ Jan. 3, 1975, Pub. L. 93–633, § 105(a)(1)–(3), 88 Stat. 2157; restated No
 [/us/stat/119/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1893
 [/us/pl/109/177/s741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs741
 [/us/stat/120/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F272
+[/us/pl/114/94/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7201
+[/us/stat/129/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1589
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F761
+[/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
+[/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
+[/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
 [/us/pl/109/59/s7103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7103%2Fa
@@ -296,12 +361,17 @@ Jan. 3, 1975, Pub. L. 93–633, § 105(a)(1)–(3), 88 Stat. 2157; restated No
 [/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/103/429/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs9
 [/us/usc/t49/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs321
+[/us/pl/114/94/s7207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7207
+[/us/stat/129/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1592
 [/us/pl/110/432/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs411
 [/us/stat/122/4888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4888
 [/us/pl/110/432/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs411

@@ -35,7 +35,7 @@
 
  __Effective Date__ 
 
-    Chapter effective Jan. 1, 1996, except as otherwise provided in [Pub. L. 104–88][/us/pl/104/88], see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as a note under [section 701 of this title][/us/usc/t49/s701].
+    Chapter effective Jan. 1, 1996, except as otherwise provided in [Pub. L. 104–88][/us/pl/104/88], see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as a note under [section 1301 of this title][/us/usc/t49/s1301].
 
  __Consumer Complaint Information__ 
 
@@ -85,7 +85,7 @@
 [/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/pl/109/59/s4214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4214
 [/us/stat/119/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1759
 [/us/usc/t5/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fa

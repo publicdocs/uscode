@@ -265,17 +265,17 @@ In subsection (c), the words “vested in the Secretary” are substituted for �
 
     1984—Subsec. (c)(1). [Pub. L. 98–216][/us/pl/98/216] substituted “49 App. U.S.C.” for “49 U.S.C.”.
 
- __Update of Federal Railroad Administration’s Website__ 
+ __Update of Federal Railroad Administration Web Site__ 
 
-[Pub. L. 110–432, div. A, title III, § 307][/us/pl/110/432/s307], Oct. 16, 2008, [122 Stat. 4881][/us/stat/122/4881], provided that:
+[Pub. L. 110–432, div. A, title III, § 307][/us/pl/110/432/s307], Oct. 16, 2008, [122 Stat. 4881][/us/stat/122/4881], as amended by [Pub. L. 114–94, div. A, title XI, § 11316(j)(5)][/us/pl/114/94/s11316/j/5], Dec. 4, 2015, [129 Stat. 1677][/us/stat/129/1677], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
->     The Secretary shall update the Federal Railroad Administration’s public website to better facilitate the ability of the public, including those individuals who are not regular users of the public website, to find current information regarding the Federal Railroad Administration’s activities.
+>     The Secretary shall update the Federal Railroad Administration’s public Web site to better facilitate the ability of the public, including those individuals who are not regular users of the public Web site, to find current information regarding the Federal Railroad Administration’s activities.
 
 >     “(b)  __Public Reporting of Violations__  __.—__ 
 
->     On the Federal Railroad Administration’s public website’s home page, the Secretary shall provide a mechanism for the public to submit written reports of potential violations of Federal railroad safety and hazardous materials transportation laws, regulations, and orders to the Federal Railroad Administration.”
+>     On the Federal Railroad Administration’s public Web site’s home page, the Secretary shall provide a mechanism for the public to submit written reports of potential violations of Federal railroad safety and hazardous materials transportation laws, regulations, and orders to the Federal Railroad Administration.”
 
     \[For definitions of “Secretary” and “railroad”, as used in [section 307 of Pub. L. 110–432][/us/pl/110/432/s307], set out above, see [section 2(a) of Pub. L. 110–432][/us/pl/110/432/s2/a], set out as a note under [section 20102 of this title][/us/usc/t49/s20102].\]
 
@@ -321,6 +321,8 @@ In subsection (c), the words “vested in the Secretary” are substituted for �
 [/us/pl/98/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216
 [/us/pl/110/432/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs307
 [/us/stat/122/4881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4881
+[/us/pl/114/94/s11316/j/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fj%2F5
+[/us/stat/129/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1677
 [/us/pl/110/432/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs307
 [/us/pl/110/432/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs2%2Fa
 [/us/usc/t49/s20102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20102

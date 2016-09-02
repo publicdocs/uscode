@@ -35,19 +35,19 @@
 
         (2) provides the Secretary with satisfactory evidence of the individual’s knowledge of related rules, regulations, and industry practices.
 
-    (d) __Registration as Motor Carrier Required.—__ 
+    (d)  __Registration as Motor Carrier Required__  __.—__ 
 
-        (1)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. No par. (2) has been enacted.__  __ </sup></sup> __   __In general__  __.—__ 
-
-        A freight forwarder may not provide transportation as a motor carrier unless the freight forwarder has registered separately under this chapter to provide transportation as a motor carrier.
+    A freight forwarder may not provide transportation as a motor carrier unless the freight forwarder has registered separately under this chapter to provide transportation as a motor carrier.
 
     (e)  __Update of Registration__  __.—__ 
 
     The Secretary shall require a freight forwarder to update its registration under this section not later than 30 days after a change in the freight forwarder’s address, other contact information, officers, process agent, or other essential information, as determined by the Secretary.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 884][/us/stat/109/884]; amended [Pub. L. 109–59, title IV, § 4142(b)][/us/pl/109/59/s4142/b], Aug. 10, 2005, [119 Stat. 1747][/us/stat/119/1747]; [Pub. L. 110–244, title III, § 305(d)][/us/pl/110/244/s305/d], June 6, 2008, [122 Stat. 1620][/us/stat/122/1620]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141], §§ 32107(b), 32916(a), July 6, 2012, [126 Stat. 782][/us/stat/126/782], 820.)
+(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 884][/us/stat/109/884]; amended [Pub. L. 109–59, title IV, § 4142(b)][/us/pl/109/59/s4142/b], Aug. 10, 2005, [119 Stat. 1747][/us/stat/119/1747]; [Pub. L. 110–244, title III, § 305(d)][/us/pl/110/244/s305/d], June 6, 2008, [122 Stat. 1620][/us/stat/122/1620]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141], §§ 32107(b), 32916(a), July 6, 2012, [126 Stat. 782][/us/stat/126/782], 820; [Pub. L. 114–94, div. A, title V, § 5508(a)(2)][/us/pl/114/94/s5508/a/2], Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554].)
 
  __Amendments__ 
+
+    2015—Subsec. (d). [Pub. L. 114–94][/us/pl/114/94] struck out par. (1) designation and heading before “A freight forwarder”.
 
     2012—Subsec. (a). [Pub. L. 112–141, § 32916(a)(1)][/us/pl/112/141/s32916/a/1], substituted “determines that the person—” for “finds that the person is fit”, added par. (1), inserted par. (2) designation and “is fit” before “, willing”, and, in par. (2), struck out “and the Board” after “Secretary”.
 
@@ -70,6 +70,10 @@
     “(2) Others.—The Secretary may register a person to provide service subject to jurisdiction under subchapter III of chapter 135 as a freight forwarder (other than a freight forwarder of household goods) if the Secretary finds that such registration is needed for the protection of shippers and that the person is fit, willing, and able to provide the service and to comply with this part and applicable regulations of the Secretary and Board.”
 
     2005—Subsec. (a). [Pub. L. 109–59][/us/pl/109/59] designated existing provisions as par. (1) and inserted heading, inserted “of household goods” after “freight forwarder”, and added par. (2).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -106,6 +110,9 @@
 [/us/stat/122/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1620
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F782
+[/us/pl/114/94/s5508/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fa%2F2
+[/us/stat/129/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1554
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141/s32916/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32916%2Fa%2F1
 [/us/pl/112/141/s32916/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32916%2Fa%2F3
 [/us/pl/112/141/s32916/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32916%2Fa%2F3
@@ -115,6 +122,9 @@
 [/us/pl/112/141/s32916/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32916%2Fa%2F2
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

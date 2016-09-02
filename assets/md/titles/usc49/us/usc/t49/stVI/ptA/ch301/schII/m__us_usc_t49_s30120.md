@@ -39,13 +39,13 @@
 
         (1)
 
-         A manufacturer of a tire, including an original equipment tire, shall remedy a defective or noncomplying tire if the owner or purchaser presents the tire for remedy not later than 60 days after the later of—
+         A manufacturer of a tire, including an original equipment tire, shall remedy a defective or noncomplying tire if the owner or purchaser presents the tire for remedy not later than 180 days after the later of—
 
             (A) the day the owner or purchaser receives notification under [section 30119 of this title][/us/usc/t49/s30119]; or
 
             (B) if the manufacturer decides to replace the tire, the day the owner or purchaser receives notification that a replacement is available.
 
-        (2) If the manufacturer decides to replace the tire and the replacement is not available during the 60-day period, the owner or purchaser must present the tire for remedy during a subsequent 60-day period that begins only after the owner or purchaser receives notification that a replacement will be available during the subsequent period. If tires are available during the subsequent period, only a tire presented for remedy during that period must be remedied.
+        (2) If the manufacturer decides to replace the tire and the replacement is not available during the 180-day period, the owner or purchaser must present the tire for remedy during a subsequent 180-day period that begins only after the owner or purchaser receives notification that a replacement will be available during the subsequent period. If tires are available during the subsequent period, only a tire presented for remedy during that period must be remedied.
 
     (c)  __Adequacy of Repairs__  __.—__ 
 
@@ -77,13 +77,23 @@
 
     On the motion of the Secretary or on application by any interested person, the Secretary may conduct a hearing to decide whether the manufacturer has reasonably met the remedy requirements under this section. Any interested person may make written and oral presentations of information, views, and arguments on whether the manufacturer has reasonably met the remedy requirements. If the Secretary decides a manufacturer has not reasonably met the remedy requirements, the Secretary shall order the manufacturer to take specified action to meet those requirements and may take any other action authorized under this chapter.
 
-    (f)  __Fair Reimbursement to Dealers__  __.—__ 
+    (f) __Fair Reimbursement to Dealers.—__ 
 
-    A manufacturer shall pay fair reimbursement to a dealer providing a remedy without charge under this section.
+        (1)  __In general__  __.—__ 
+
+        A manufacturer  <sup>\[1\]</sup>  <sup><sup> 1 See 2015 Amendment note below. </sup></sup>  shall pay fair reimbursement to a dealer providing a remedy without charge under this section if—
+
+            (A) at the time of providing service for each of the manufacturer’s motor vehicles it services, the dealer notifies the owner or the individual requesting the service of any open recall; and
+
+            (B) the notification requirement under subparagraph (A) is specified in a franchise, operating, or other agreement between the dealer and the manufacturer.
+
+        (2)  __Definition of open recall__  __.—__ 
+
+        In this subsection, the term “open recall” means a recall for which a notification by a manufacturer has been provided under section 30119 and that has not been remedied under this section.
 
     (g)  __Nonapplication__  __.—__ 
 
-        (1) The requirement that a remedy be provided without charge does not apply if the motor vehicle or replacement equipment was bought by the first purchaser more than 10 calendar years, or the tire, including an original equipment tire, was bought by the first purchaser more than 5 calendar years, before notice is given under [section 30118(c) of this title][/us/usc/t49/s30118/c] or an order is issued under [section 30118(b) of this title][/us/usc/t49/s30118/b], whichever is earlier.
+        (1) The requirement that a remedy be provided without charge does not apply if the motor vehicle or replacement equipment was bought by the first purchaser more than 15 calendar years, or the tire, including an original equipment tire, was bought by the first purchaser more than 5 calendar years, before notice is given under [section 30118(c) of this title][/us/usc/t49/s30118/c] or an order is issued under [section 30118(b) of this title][/us/usc/t49/s30118/b], whichever is earlier.
 
         (2) This section does not apply during any period in which enforcement of an order under [section 30118(b) of this title][/us/usc/t49/s30118/b] is restrained or the order is set aside in a civil action to which [section 30121(d) of this title][/us/usc/t49/s30121/d] applies.
 
@@ -111,7 +121,51 @@
 
         (2) notification of the defect or noncompliance is required under section 30118(b) but enforcement of the order is set aside in a civil action to which section 30121(d) applies.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 952][/us/stat/108/952]; [Pub. L. 105–178, title VII, § 7106(a)][/us/pl/105/178/s7106/a], June 9, 1998, [112 Stat. 467][/us/stat/112/467]; [Pub. L. 106–414][/us/pl/106/414], §§ 4, 6–8, Nov. 1, 2000, [114 Stat. 1803–1805][/us/stat/114/1803-1805]; [Pub. L. 112–141, div. C, title I, § 31311][/us/pl/112/141/s31311], July 6, 2012, [126 Stat. 771][/us/stat/126/771].)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 952][/us/stat/108/952]; [Pub. L. 105–178, title VII, § 7106(a)][/us/pl/105/178/s7106/a], June 9, 1998, [112 Stat. 467][/us/stat/112/467]; [Pub. L. 106–414][/us/pl/106/414], §§ 4, 6–8, Nov. 1, 2000, [114 Stat. 1803–1805][/us/stat/114/1803-1805]; [Pub. L. 112–141, div. C, title I, § 31311][/us/pl/112/141/s31311], July 6, 2012, [126 Stat. 771][/us/stat/126/771]; [Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94], §§ 24107, 24108, 24109(c), 24402, Dec. 4, 2015, [129 Stat. 1705][/us/stat/129/1705], 1706, 1720.)
+
+ __Amendment of Subsection (i)__ 
+
+    [Pub. L. 114–94, div. B, title XXIV, § 24109(c)][/us/pl/114/94/s24109/c], (k), Dec. 4, 2015, [129 Stat. 1706][/us/stat/129/1706], 1709, provided that, effective on the date that is 180 days after Dec. 4, 2015, subsection (i) of this section is amended:
+
+    (1) in the subsection heading, by inserting “, or Rental” at the end;
+
+    (2) in paragraph (1)—
+
+    (A) by striking “(1) If notification” and inserting:
+
+    “(1) In general.—If notification”;
+
+    (B) by indenting subparagraphs (A) and (B) four ems from the left margin;
+
+    (C) by inserting “or the manufacturer has provided to a rental company notification about a covered rental vehicle in the company’s possession at the time of notification” after “time of notification”;
+
+    (D) by striking “the dealer may sell or lease,” and inserting “the dealer or rental company may sell, lease, or rent”; and
+
+    (E) in subparagraph (A), by striking “sale or lease” and inserting “sale, lease, or rental agreement”;
+
+    (3) by amending paragraph (2) to read as follows:
+
+    “(2) Rule of construction.—Nothing in this subsection may be construed to prohibit a dealer or rental company from offering the vehicle or equipment for sale, lease, or rent.”; and
+
+    (4) by adding at the end the following:
+
+    (3) Specific rules for rental companies.—
+
+    (A) In general.—Except as otherwise provided under this paragraph, a rental company shall comply with the limitations on sale, lease, or rental set forth in subparagraph (C) and paragraph (1) as soon as practicable, but not later than 24 hours after the earliest receipt of the notice to owner under subsection (b) or (c) of section 30118 (including the vehicle identification number for the covered vehicle) by the rental company, whether by electronic means or first class mail.
+
+    (B) Special rule for large vehicle fleets.—Notwithstanding subparagraph (A), if a rental company receives a notice to owner covering more than 5,000 motor vehicles in its fleet, the rental company shall comply with the limitations on sale, lease, or rental set forth in subparagraph (C) and paragraph (1) as soon as practicable, but not later than 48 hours after the earliest receipt of the notice to owner under subsection (b) or (c) of section 30118 (including the vehicle identification number for the covered vehicle) by the rental company, whether by electronic means or first class mail.
+
+    (C) Special rule for when remedies not immediately available.—If a notification required under subsection (b) or (c) of section 30118 indicates that the remedy for the defect or noncompliance is not immediately available and specifies actions to temporarily alter the vehicle that eliminate the safety risk posed by the defect or noncompliance, the rental company, after causing the specified actions to be performed, may rent (but may not sell or lease) the motor vehicle. Once the remedy for the rental vehicle becomes available to the rental company, the rental company may not rent the vehicle until the vehicle has been remedied, as provided in subsection (a).
+
+    (D) Inapplicability to junk automobiles.—Notwithstanding paragraph (1), this subsection does not prohibit a rental company from selling a covered rental vehicle if such vehicle—
+
+    (i) meets the definition of a junk automobile under section 201 of the Anti-Car Theft Act of 1992 ([49 U.S.C. 30501][/us/usc/t49/s30501]);
+
+    (ii) is retitled as a junk automobile pursuant to applicable State law; and
+
+    (iii) is reported to the National Motor Vehicle Information System, if required under section 204 of such Act ([49 U.S.C. 30504][/us/usc/t49/s30504]).
+
+    See 2015 Amendment notes below.
 
 <table>
 
@@ -439,6 +493,30 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 154(d); added Dec. 18, 1991,
 
  __Amendments__ 
 
+    2015—Subsec. (b)(1). [Pub. L. 114–94, § 24108(1)][/us/pl/114/94/s24108/1], substituted “180 days” for “60 days” in introductory provisions.
+
+    Subsec. (b)(2). [Pub. L. 114–94, § 24108(2)][/us/pl/114/94/s24108/2], substituted “180-day” for “60-day” in two places.
+
+    Subsec. (f). [Pub. L. 114–94, § 24107(1)][/us/pl/114/94/s24107/1], which directed amendment of subsec. (f) by inserting “(1) in general. A manufacturer”, without specifying the location of such insertion, and indenting appropriately, was executed by striking “A manufacturer” and inserting “(1) In general.—A manufacturer” after the subsec. heading, to reflect the probable intent of Congress.
+
+    Subsec. (f)(1). [Pub. L. 114–94, § 24107(2)][/us/pl/114/94/s24107/2], substituted “section if—” for “section.” and added subpars. (A) and (B).
+
+    Subsec. (f)(2). [Pub. L. 114–94, § 24107(3)][/us/pl/114/94/s24107/3], added par. (2).
+
+    Subsec. (g)(1). [Pub. L. 114–94, § 24402][/us/pl/114/94/s24402], substituted “15 calendar years” for “10 calendar years”.
+
+    Subsec. (i). [Pub. L. 114–94, § 24109(c)(1)][/us/pl/114/94/s24109/c/1], inserted “, or Rental” after “Equipment” in heading.
+
+    Subsec. (i)(1). [Pub. L. 114–94, § 24109(c)(2)(D)][/us/pl/114/94/s24109/c/2/D], which directed substitution of “the dealer or rental company may sell, lease, or rent” for “the dealer may sell or lease,”, was executed by making the substitution for “the dealer may sell or lease” to reflect the probable intent of Congress.
+
+    [Pub. L. 114–94, § 24109(c)(2)(A)][/us/pl/114/94/s24109/c/2/A]–(C), inserted heading, inserted “or the manufacturer has provided to a rental company notification about a covered rental vehicle in the company’s possession at the time of notification” after “time of notification” in introductory provisions, and realigned margins of subpars. (A) and (B).
+
+    Subsec. (i)(1)(A). [Pub. L. 114–94, § 24109(c)(2)(E)][/us/pl/114/94/s24109/c/2/E], substituted “sale, lease, or rental agreement” for “sale or lease”.
+
+    Subsec. (i)(2). [Pub. L. 114–94, § 24109(c)(3)][/us/pl/114/94/s24109/c/3], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “This subsection does not prohibit a dealer from offering for sale or lease the vehicle or equipment.”
+
+    Subsec. (i)(3). [Pub. L. 114–94, § 24109(c)(4)][/us/pl/114/94/s24109/c/4], added par. (3).
+
     2012—Subsec. (a)(1)(B). [Pub. L. 112–141, § 31311(1)][/us/pl/112/141/s31311/1], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “if replacement equipment, by repairing the equipment or replacing the equipment with identical or reasonably equivalent equipment.”
 
     Subsec. (i). [Pub. L. 112–141, § 31311(2)][/us/pl/112/141/s31311/2], inserted “of New Vehicles or Equipment” after “Lease” in heading.
@@ -456,6 +534,10 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 154(d); added Dec. 18, 1991,
     Subsec. (j). [Pub. L. 106–414, § 8][/us/pl/106/414/s8], added subsec. (j).
 
     1998—Subsec. (i)(1). [Pub. L. 105–178][/us/pl/105/178] inserted “(including retailers of motor vehicle equipment)” after “provided to a dealer” in introductory provisions.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [section 24109(c) of Pub. L. 114–94][/us/pl/114/94/s24109/c] effective on the date that is 180 days after Dec. 4, 2015, see [section 24109(k) of Pub. L. 114–94][/us/pl/114/94/s24109/k], set out as a note under [section 30102 of this title][/us/usc/t49/s30102].
 
  __Effective Date of 2012 Amendment__ 
 
@@ -485,6 +567,24 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 154(d); added Dec. 18, 1991,
 [/us/stat/114/1803-1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1803-1805
 [/us/pl/112/141/s31311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31311
 [/us/stat/126/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F771
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1705
+[/us/pl/114/94/s24109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fc
+[/us/stat/129/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1706
+[/us/usc/t49/s30501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30501
+[/us/usc/t49/s30504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30504
+[/us/pl/114/94/s24108/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24108%2F1
+[/us/pl/114/94/s24108/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24108%2F2
+[/us/pl/114/94/s24107/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24107%2F1
+[/us/pl/114/94/s24107/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24107%2F2
+[/us/pl/114/94/s24107/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24107%2F3
+[/us/pl/114/94/s24402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24402
+[/us/pl/114/94/s24109/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fc%2F1
+[/us/pl/114/94/s24109/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fc%2F2%2FD
+[/us/pl/114/94/s24109/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fc%2F2%2FA
+[/us/pl/114/94/s24109/c/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fc%2F2%2FE
+[/us/pl/114/94/s24109/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fc%2F3
+[/us/pl/114/94/s24109/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fc%2F4
 [/us/pl/112/141/s31311/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31311%2F1
 [/us/pl/112/141/s31311/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31311%2F2
 [/us/pl/112/141/s31311/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31311%2F3
@@ -494,6 +594,9 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 154(d); added Dec. 18, 1991,
 [/us/pl/106/414/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414%2Fs4
 [/us/pl/106/414/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414%2Fs8
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/114/94/s24109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fc
+[/us/pl/114/94/s24109/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fk
+[/us/usc/t49/s30102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30102
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

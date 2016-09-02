@@ -73,7 +73,7 @@
 
         (1) the Railroad Retirement Act of 1974 ([45 U.S.C. 231][/us/usc/t45/s231] et seq.);
 
-        (2) the Railway Labor Act (43  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “(45”. </sup></sup>  U.S.C. 151 et seq.); and
+        (2) the Railway Labor Act ([45 U.S.C. 151][/us/usc/t45/s151] et seq.); and
 
         (3) the Railroad Unemployment Insurance Act ([45 U.S.C. 351][/us/usc/t45/s351] et seq.).
 
@@ -99,13 +99,13 @@
 
             (A) the standards of [section 24312 of this title][/us/usc/t49/s24312], as such section was in effect on September 1, 2003, with respect to the project in the same manner that Amtrak is required to comply with those standards for construction work financed under an agreement made under [section 24308(a) of this title][/us/usc/t49/s24308/a]; and
 
-            (B) the protective arrangements established under section 504 of the Railroad Revitalization and Regulatory Reform Act of 1976 ([45 U.S.C. 836][/us/usc/t45/s836]) with respect to employees affected by actions taken in connection with the project to be financed in whole or in part by grants under this chapter.
+            (B) the protective arrangements that are equivalent to the protective arrangements established under section 504 of the Railroad Revitalization and Regulatory Reform Act of 1976 ([45 U.S.C. 836][/us/usc/t45/s836]) with respect to employees affected by actions taken in connection with the project to be financed in whole or in part by grants under this chapter.
 
     (d) __Replacement of Existing Intercity Passenger Rail Service.—__ 
 
         (1)  __Collective bargaining agreement for intercity passenger rail projects__  __.—__ 
 
-        Any entity providing intercity passenger railroad transportation that begins operations after the date of enactment of this Act  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  on a project funded in whole or in part by grants made under this chapter and replaces intercity rail passenger service that was provided by Amtrak, unless such service was provided solely by Amtrak to another entity, as of such date shall enter into an agreement with the authorized bargaining agent or agents for adversely affected employees of the predecessor provider that—
+        Any entity providing intercity passenger railroad transportation that begins operations after the date of enactment of this Act  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  on a project funded in whole or in part by grants made under this chapter and replaces intercity rail passenger service that was provided by Amtrak, unless such service was provided solely by Amtrak to another entity or unless Amtrak ceased providing intercity passenger railroad transportation over the affected route more than 3 years before the commencement of new service, as of such date shall enter into an agreement with the authorized bargaining agent or agents for adversely affected employees of the predecessor provider that—
 
             (A) gives each such qualified employee of the predecessor provider priority in hiring according to the employee’s seniority on the predecessor provider for each position with the replacing entity that is in the employee’s craft or class and is available within 3 years after the termination of the service being replaced;
 
@@ -137,7 +137,7 @@
 
     Nothing in this section applies to—
 
-        (1) commuter rail passenger transportation (as defined in section 24102(4) 2 of this title) operations of a State or local government  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “governmental”. </sup></sup>  authority (as those terms are defined in section 5302(11) 2 and (6),2 respectively, of this title) eligible to receive financial assistance under [section 5307 of this title][/us/usc/t49/s5307], or to its contractor performing services in connection with commuter rail passenger operations (as so defined);
+        (1) commuter rail passenger transportation (as defined in section 24102(4) 1 of this title) operations of a State or local government  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “governmental”. </sup></sup>  authority (as those terms are defined in section 5302(11) 1 and (6),1 respectively, of this title) eligible to receive financial assistance under [section 5307 of this title][/us/usc/t49/s5307], or to its contractor performing services in connection with commuter rail passenger operations (as so defined);
 
         (2) the Alaska Railroad or its contractors; or
 
@@ -145,9 +145,9 @@
 
     (f)  __Limitation__  __.—__ 
 
-    No grants shall be provided under this chapter for commuter rail passenger transportation, as defined in section 24102(4) 2 of this title.
+    No grants shall be provided under this chapter for commuter rail passenger transportation (as defined in section 24102(3)).
 
-(Added [Pub. L. 110–432, div. B, title III, § 301(a)][/us/pl/110/432/s301/a], Oct. 16, 2008, [122 Stat. 4942][/us/stat/122/4942].)
+(Added [Pub. L. 110–432, div. B, title III, § 301(a)][/us/pl/110/432/s301/a], Oct. 16, 2008, [122 Stat. 4942][/us/stat/122/4942]; amended [Pub. L. 114–94, div. A, title XI, § 11303(b)(1)(D)][/us/pl/114/94/s11303/b/1/D], Dec. 4, 2015, [129 Stat. 1654][/us/stat/129/1654].)
 
  __References in Text__ 
 
@@ -159,9 +159,23 @@
 
     The date of enactment of this Act, referred to in subsec. (d)(1), probably means the date of enactment of [Pub. L. 110–432][/us/pl/110/432], which enacted this section and was approved Oct. 16, 2008.
 
-    [Section 24102(4) of this title][/us/usc/t49/s24102/4], referred to in subsecs. (e)(1) and (f), was redesignated [section 24102(3) of this title][/us/usc/t49/s24102/3] by [Pub. L. 110–432, div. B, title II, § 201(a)(2)][/us/pl/110/432/s201/a/2], Oct. 16, 2008, [122 Stat. 4909][/us/stat/122/4909].
+    [Section 24102(4) of this title][/us/usc/t49/s24102/4], referred to in subsec. (e)(1), was redesignated [section 24102(3) of this title][/us/usc/t49/s24102/3] by [Pub. L. 110–432, div. B, title II, § 201(a)(2)][/us/pl/110/432/s201/a/2], Oct. 16, 2008, [122 Stat. 4909][/us/stat/122/4909].
 
     [Section 5302 of this title][/us/usc/t49/s5302], referred to in subsec. (e)(1), was amended generally by [Pub. L. 112–141, div. B, § 20004][/us/pl/112/141/s20004], July 6, 2012, [126 Stat. 623][/us/stat/126/623], and, as so amended, defines the terms “State” and “local governmental authority” in other pars.
+
+ __Amendments__ 
+
+    2015—Subsec. (b)(2). [Pub. L. 114–94, § 11303(b)(1)(D)(i)][/us/pl/114/94/s11303/b/1/D/i], substituted “(45” for “(43”.
+
+    Subsec. (c)(2)(B). [Pub. L. 114–94, § 11303(b)(1)(D)(ii)][/us/pl/114/94/s11303/b/1/D/ii], substituted “protective arrangements that are equivalent to the protective arrangements established” for “protective arrangements established”.
+
+    Subsec. (d)(1). [Pub. L. 114–94, § 11303(b)(1)(D)(iii)][/us/pl/114/94/s11303/b/1/D/iii], inserted “or unless Amtrak ceased providing intercity passenger railroad transportation over the affected route more than 3 years before the commencement of new service” after “unless such service was provided solely by Amtrak to another entity”.
+
+    Subsec. (f). [Pub. L. 114–94, § 11303(b)(1)(D)(iv)][/us/pl/114/94/s11303/b/1/D/iv], substituted “under this chapter for commuter rail passenger transportation (as defined in section 24102(3)).” for “under this chapter for commuter rail passenger transportation, as defined in [section 24102(4) of this title][/us/usc/t49/s24102/4].”
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Assistance With Buy America Waiver Requests__ 
 
@@ -179,6 +193,7 @@
 [/us/usc/t5/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs702
 [/us/usc/t49/s10102/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10102%2F5
 [/us/usc/t45/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231
+[/us/usc/t45/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs151
 [/us/usc/t45/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs351
 [/us/usc/t49/s28103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs28103
 [/us/usc/t49/s24312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24312
@@ -187,6 +202,8 @@
 [/us/usc/t49/s5307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5307
 [/us/pl/110/432/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs301%2Fa
 [/us/stat/122/4942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4942
+[/us/pl/114/94/s11303/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11303%2Fb%2F1%2FD
+[/us/stat/129/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1654
 [/us/act/1935-08-29/ch812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch812
 [/us/pl/93/445/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2Fs101
 [/us/stat/88/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1305
@@ -206,6 +223,14 @@
 [/us/usc/t49/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5302
 [/us/pl/112/141/s20004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20004
 [/us/stat/126/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F623
+[/us/pl/114/94/s11303/b/1/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11303%2Fb%2F1%2FD%2Fi
+[/us/pl/114/94/s11303/b/1/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11303%2Fb%2F1%2FD%2Fii
+[/us/pl/114/94/s11303/b/1/D/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11303%2Fb%2F1%2FD%2Fiii
+[/us/pl/114/94/s11303/b/1/D/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11303%2Fb%2F1%2FD%2Fiv
+[/us/usc/t49/s24102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24102%2F4
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/110/432/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs301%2Fc
 [/us/stat/122/4946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4946
 [/us/usc/t49/s24405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24405%2Fa

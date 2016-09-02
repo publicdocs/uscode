@@ -43,19 +43,21 @@
 
         (12) the recipient’s commitment to submit periodically a project budget and project schedule to the Secretary.
 
-    (b) __Secretarial Oversight.—__ 
-
-        (1) The Secretary may use no more than 1 percent of amounts made available in a fiscal year for capital projects under this chapter to enter into contracts to oversee the construction of such projects.
-
-        (2) The Secretary may use amounts available under paragraph (1) of this subsection to make contracts for safety, procurement, management, and financial compliance reviews and audits of a recipient of amounts under paragraph (1).
-
-        (3) The Federal Government shall pay the entire cost of carrying out a contract under this subsection.
+    \[(b) Repealed. [Pub. L. 114–94, div. A, title XI, § 11316(p)][/us/pl/114/94/s11316/p], Dec. 4, 2015, [129 Stat. 1679][/us/stat/129/1679]\]
 
     (c)  __Access to Sites and Records__  __.—__ 
 
     Each recipient of assistance under this chapter shall provide the Secretary and a contractor the Secretary chooses under subsection (b) of this section with access to the construction sites and records of the recipient when reasonably necessary.
 
-(Added [Pub. L. 110–432, div. B, title III, § 301(a)][/us/pl/110/432/s301/a], Oct. 16, 2008, [122 Stat. 4941][/us/stat/122/4941].)
+(Added [Pub. L. 110–432, div. B, title III, § 301(a)][/us/pl/110/432/s301/a], Oct. 16, 2008, [122 Stat. 4941][/us/stat/122/4941]; amended [Pub. L. 114–94, div. A, title XI, § 11316(p)][/us/pl/114/94/s11316/p], Dec. 4, 2015, [129 Stat. 1679][/us/stat/129/1679].)
+
+ __Amendments__ 
+
+    2015—Subsec. (b). [Pub. L. 114–94][/us/pl/114/94] struck out subsec. (b) which related to secretarial oversight.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
 ----------
 
@@ -64,7 +66,15 @@
 ----------
 ----------
 
+[/us/pl/114/94/s11316/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fp
+[/us/stat/129/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1679
 [/us/pl/110/432/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs301%2Fa
 [/us/stat/122/4941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4941
+[/us/pl/114/94/s11316/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fp
+[/us/stat/129/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1679
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 
 

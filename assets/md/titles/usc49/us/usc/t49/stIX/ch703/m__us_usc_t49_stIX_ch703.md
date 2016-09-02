@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t49/stIX/ch701/m__us_usc_t49_stIX_ch701.md) | [Next](./../../../../..//us/usc/t49/stX/m__us_usc_t49_stX.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstIX%2Fch703)
+[Previous](./../../../../..//us/usc/t49/stIX/ch702/m__us_usc_t49_s70204.md) | [Next](./../../../../..//us/usc/t49/stX/m__us_usc_t49_stX.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstIX%2Fch703)
 
 ### \[CHAPTER 703—TRANSFERRED\]
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t49/stIX/ch701/m__us_usc_t49_stIX_ch701.md) | [Next](./../../../../..//us/usc/t49/stX/m__us_usc_t49_stX.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstIX%2Fch703)
+[Previous](./../../../../..//us/usc/t49/stIX/ch702/m__us_usc_t49_s70204.md) | [Next](./../../../../..//us/usc/t49/stX/m__us_usc_t49_stX.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstIX%2Fch703)
 
 ----------
 ----------

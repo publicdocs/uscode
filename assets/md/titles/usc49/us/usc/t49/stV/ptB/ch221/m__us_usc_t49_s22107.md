@@ -145,7 +145,7 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, § 5(k)–(m); added Feb. 5, 19
 
  __Effective Date of 1995 Amendment__ 
 
-    Amendment by [Pub. L. 104–88][/us/pl/104/88] effective Jan. 1, 1996, see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as an Effective Date note under [section 701 of this title][/us/usc/t49/s701].
+    Amendment by [Pub. L. 104–88][/us/pl/104/88] effective Jan. 1, 1996, see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as an Effective Date note under [section 1301 of this title][/us/usc/t49/s1301].
 
 ----------
 
@@ -165,6 +165,6 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, § 5(k)–(m); added Feb. 5, 19
 [/us/pl/104/88/s308/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs308%2Ff%2F5
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 
 

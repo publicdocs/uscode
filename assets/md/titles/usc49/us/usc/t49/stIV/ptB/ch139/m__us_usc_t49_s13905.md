@@ -93,11 +93,7 @@
 
                 (iii) a condition of its registration; or
 
-            (D)
-
-             withhold, suspend, amend, or revoke any part of a registration of a motor carrier, foreign motor carrier, foreign motor private carrier, broker, or freight forwarder if the Secretary finds that—
-
-                (i)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. No cl. (ii) has been enacted. </sup></sup>  the motor carrier, broker, or freight forwarder does not disclose any relationship through common ownership, common management, common control, or common familial relationship to any other motor carrier, broker, or freight forwarder, or any other applicant for motor carrier, broker, or freight forwarder registration that the Secretary determines is or was unwilling or unable to comply with the relevant requirements listed in section 13902, 13903, or 13904  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be followed by a period. </sup></sup> 
+            (D) withhold, suspend, amend, or revoke any part of a registration of a motor carrier, foreign motor carrier, foreign motor private carrier, broker, or freight forwarder if the Secretary finds that the motor carrier, broker, or freight forwarder does not disclose any relationship through common ownership, common management, common control, or common familial relationship to any other motor carrier, broker, or freight forwarder, or any other applicant for motor carrier, broker, or freight forwarder registration that the Secretary determines is or was unwilling or unable to comply with the relevant requirements listed in section 13902, 13903, or 13904.
 
         (3)  __Limitation__  __.—__ 
 
@@ -133,7 +129,7 @@
 
         The Secretary may suspend or revoke under this subsection the registration only after giving notice of the suspension or revocation to the registrant. A suspension remains in effect until the registrant complies with the applicable sections or, in the case of a suspension under paragraph (2), until the Secretary revokes the suspension.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 884][/us/stat/109/884]; amended [Pub. L. 104–287, § 5(33)][/us/pl/104/287/s5/33], Oct. 11, 1996, [110 Stat. 3392][/us/stat/110/3392]; [Pub. L. 105–102, § 2(10)][/us/pl/105/102/s2/10], Nov. 20, 1997, [111 Stat. 2204][/us/stat/111/2204]; [Pub. L. 106–159, title II, § 206(a)][/us/pl/106/159/s206/a], Dec. 9, 1999, [113 Stat. 1763][/us/stat/113/1763]; [Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4104, 4303(a), Aug. 10, 2005, [119 Stat. 1716][/us/stat/119/1716], 1761; [Pub. L. 110–291, § 2(b)][/us/pl/110/291/s2/b], July 30, 2008, [122 Stat. 2915][/us/stat/122/2915]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141], §§ 32103(a), 32109, 32205, 32917, 32933(a), July 6, 2012, [126 Stat. 778][/us/stat/126/778], 782, 785, 821, 830.)
+(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 884][/us/stat/109/884]; amended [Pub. L. 104–287, § 5(33)][/us/pl/104/287/s5/33], Oct. 11, 1996, [110 Stat. 3392][/us/stat/110/3392]; [Pub. L. 105–102, § 2(10)][/us/pl/105/102/s2/10], Nov. 20, 1997, [111 Stat. 2204][/us/stat/111/2204]; [Pub. L. 106–159, title II, § 206(a)][/us/pl/106/159/s206/a], Dec. 9, 1999, [113 Stat. 1763][/us/stat/113/1763]; [Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4104, 4303(a), Aug. 10, 2005, [119 Stat. 1716][/us/stat/119/1716], 1761; [Pub. L. 110–291, § 2(b)][/us/pl/110/291/s2/b], July 30, 2008, [122 Stat. 2915][/us/stat/122/2915]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141], §§ 32103(a), 32109, 32205, 32917, 32933(a), July 6, 2012, [126 Stat. 778][/us/stat/126/778], 782, 785, 821, 830; [Pub. L. 114–94, div. A, title V, § 5508(a)(3)][/us/pl/114/94/s5508/a/3], Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554].)
 
  __Historical and Revision Notes__ 
 
@@ -152,6 +148,8 @@
     The date of the enactment of this paragraph, referred to in subsec. (d)(4), is the date of enactment of [Pub. L. 106–159][/us/pl/106/159], which was approved Dec. 9, 1999.
 
  __Amendments__ 
+
+    2015—Subsec. (d)(2)(D). [Pub. L. 114–94][/us/pl/114/94] substituted “the Secretary finds that” for “the Secretary finds that—”, struck out cl. (i) designation before “the motor carrier,”, and inserted period at end.
 
     2012—Subsec. (c). [Pub. L. 112–141, § 32917][/us/pl/112/141/s32917], amended subsec. (c) generally. Prior to amendment, text read as follows: “Except as otherwise provided in this part, each registration issued under section 13902, 13903, or 13904 shall be effective from the date specified by the Secretary and shall remain in effect for such period as the Secretary determines appropriate by regulation.”
 
@@ -193,6 +191,10 @@
 
     1996—Subsec. (a). [Pub. L. 104–287][/us/pl/104/287] substituted “December 31, 1995” for “the day before the effective date of this section”.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23][/us/usc/t23/s101], Highways.
@@ -222,10 +224,13 @@
 [/us/stat/122/2915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2915
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F778
+[/us/pl/114/94/s5508/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fa%2F3
+[/us/stat/129/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1554
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141/s32917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32917
 [/us/pl/112/141/s32103/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32103%2Fa%2F1%2FB
 [/us/pl/112/141/s32205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32205
@@ -246,6 +251,9 @@
 [/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

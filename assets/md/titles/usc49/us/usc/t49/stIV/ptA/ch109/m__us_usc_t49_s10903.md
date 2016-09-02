@@ -121,7 +121,7 @@
 
  \[Section 311 of H.R. 4209 is [section 311 of Pub. L. 97–102][/us/pl/97/102/s311], title III, Dec. 23, 1981, [95 Stat. 1460][/us/stat/95/1460], which is not classified to the Code.\] Similar provisions were contained in [Pub. L. 97–92, title IV, § 115][/us/pl/97/92/s115], Dec. 15, 1981, [95 Stat. 1196][/us/stat/95/1196].
 
-    \[Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in [Pub. L. 104–88][/us/pl/104/88], to Surface Transportation Board effective Jan. 1, 1996, by [section 702 of this title][/us/usc/t49/s702], and [section 101 of Pub. L. 104–88][/us/pl/104/88/s101], set out as a note under [section 701 of this title][/us/usc/t49/s701]. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see [section 205 of Pub. L. 104–88][/us/pl/104/88/s205], set out as a note under [section 701 of this title][/us/usc/t49/s701].\]
+    \[Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in [Pub. L. 104–88][/us/pl/104/88], to Surface Transportation Board effective Jan. 1, 1996, by [section 1302 of this title][/us/usc/t49/s1302], and [section 101 of Pub. L. 104–88][/us/pl/104/88/s101], set out as a note under [section 1301 of this title][/us/usc/t49/s1301]. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see [section 205 of Pub. L. 104–88][/us/pl/104/88/s205], set out as a note under [section 1301 of this title][/us/usc/t49/s1301].\]
 
 ----------
 
@@ -160,10 +160,10 @@
 [/us/pl/97/92/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F92%2Fs115
 [/us/stat/95/1196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1196
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
-[/us/usc/t49/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs702
+[/us/usc/t49/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1302
 [/us/pl/104/88/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs101
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/pl/104/88/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs205
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 
 

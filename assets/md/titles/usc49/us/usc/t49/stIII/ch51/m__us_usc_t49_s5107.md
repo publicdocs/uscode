@@ -93,7 +93,15 @@
 
     No grant under subsection (e) shall supplant or replace existing employer-provided hazardous materials training efforts or obligations.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 763][/us/stat/108/763]; [Pub. L. 103–311, title I][/us/pl/103/311], §§ 106, 119(c)(1)–(3), Aug. 26, 1994, [108 Stat. 1674][/us/stat/108/1674], 1680; [Pub. L. 109–59, title VII][/us/pl/109/59], §§ 7108, 7126, Aug. 10, 2005, [119 Stat. 1897][/us/stat/119/1897], 1909; [Pub. L. 112–141, div. C, title III, § 33016][/us/pl/112/141/s33016], July 6, 2012, [126 Stat. 841][/us/stat/126/841].)
+    (i)  __Community Safety Grants__  __.—__ 
+
+    The Secretary shall establish a competitive program for making grants to nonprofit organizations for—
+
+        (1) conducting national outreach and training programs to assist communities in preparing for and responding to accidents and incidents involving the transportation of hazardous materials, including Class 3 flammable liquids by rail; and
+
+        (2) training State and local personnel responsible for enforcing the safe transportation of hazardous materials, including Class 3 flammable liquids.
+
+([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 763][/us/stat/108/763]; [Pub. L. 103–311, title I][/us/pl/103/311], §§ 106, 119(c)(1)–(3), Aug. 26, 1994, [108 Stat. 1674][/us/stat/108/1674], 1680; [Pub. L. 109–59, title VII][/us/pl/109/59], §§ 7108, 7126, Aug. 10, 2005, [119 Stat. 1897][/us/stat/119/1897], 1909; [Pub. L. 112–141, div. C, title III, § 33016][/us/pl/112/141/s33016], July 6, 2012, [126 Stat. 841][/us/stat/126/841]; [Pub. L. 114–94, div. A, title VII, § 7301][/us/pl/114/94/s7301], Dec. 4, 2015, [129 Stat. 1594][/us/stat/129/1594].)
 
 <table>
 
@@ -243,6 +251,8 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 118(a)–(c); added Nov. 16,
 
  __Amendments__ 
 
+    2015—Subsec. (i). [Pub. L. 114–94][/us/pl/114/94] added subsec. (i).
+
     2012—Subsec. (e)(2). [Pub. L. 112–141][/us/pl/112/141] inserted “through a competitive process” after “shall be made” and struck out “hazmat employee” after “nonprofit” in introductory provisions.
 
     2005—Subsecs. (a) to (d). [Pub. L. 109–59, § 7126][/us/pl/109/59/s7126], substituted “Secretary” for “Secretary of Transportation” in introductory provisions of subsecs. (a) to (c) and “Secretary shall” for “Secretary of Transportation shall” in introductory provisions of subsec. (d).
@@ -271,6 +281,10 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 118(a)–(c); added Nov. 16,
 
     Subsec. (g). [Pub. L. 103–311, § 119(c)(3)][/us/pl/103/311/s119/c/3], added subsec. (g).
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23][/us/usc/t23/s101], Highways.
@@ -291,7 +305,10 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 118(a)–(c); added Nov. 16,
 [/us/stat/119/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1897
 [/us/pl/112/141/s33016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33016
 [/us/stat/126/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F841
+[/us/pl/114/94/s7301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7301
+[/us/stat/129/1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1594
 [/us/usc/t49/s1816/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1816%2Fb
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
 [/us/pl/109/59/s7108/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7108%2F1
@@ -304,6 +321,9 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 118(a)–(c); added Nov. 16,
 [/us/pl/103/311/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs106
 [/us/pl/103/311/s119/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs119%2Fc%2F1
 [/us/pl/103/311/s119/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs119%2Fc%2F3
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

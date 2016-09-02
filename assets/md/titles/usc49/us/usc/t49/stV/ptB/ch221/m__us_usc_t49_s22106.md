@@ -21,13 +21,13 @@
 
     (b)  __State Use of Repaid Funds and Contingent Interest Recoveries__  __.—__ 
 
-    The State shall place the United States Government’s share of money that is repaid and any contingent interest that is recovered in an interest-bearing account. The repaid money, contingent interest, and any interest thereof  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “thereon”. </sup></sup>  shall be considered to be State funds. The State shall use such funds to make other grants and loans, consistent with the purposes for which financial assistance may be used under subsection (a), as the State considers to be appropriate.
+    The State shall place the United States Government’s share of money that is repaid and any contingent interest that is recovered in an interest-bearing account. The repaid money, contingent interest, and any interest thereon shall be considered to be State funds. The State shall use such funds to make other grants and loans, consistent with the purposes for which financial assistance may be used under subsection (a), as the State considers to be appropriate.
 
     (c)  __Encouraging Participation__  __.—__ 
 
     To the maximum extent possible, the State shall encourage the participation of shippers, rail carriers, and local communities in paying the State share of assistance costs.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 897][/us/stat/108/897]; [Pub. L. 104–287, § 5(55)][/us/pl/104/287/s5/55], Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393]; [Pub. L. 110–432, div. A, title VII, § 701(a)][/us/pl/110/432/s701/a], Oct. 16, 2008, [122 Stat. 4905][/us/stat/122/4905].)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 897][/us/stat/108/897]; [Pub. L. 104–287, § 5(55)][/us/pl/104/287/s5/55], Oct. 11, 1996, [110 Stat. 3393][/us/stat/110/3393]; [Pub. L. 110–432, div. A, title VII, § 701(a)][/us/pl/110/432/s701/a], Oct. 16, 2008, [122 Stat. 4905][/us/stat/122/4905]; [Pub. L. 114–94, div. A, title XI, § 11316(k)][/us/pl/114/94/s11316/k], Dec. 4, 2015, [129 Stat. 1678][/us/stat/129/1678].)
 
 <table>
 
@@ -151,6 +151,8 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, § 5(d), (i); added Feb. 5, 197
 
  __Amendments__ 
 
+    2015—Subsec. (b). [Pub. L. 114–94][/us/pl/114/94] substituted “interest thereon” for “interest thereof”.
+
     2008—Subsec. (a). [Pub. L. 110–432, § 701(a)(1)][/us/pl/110/432/s701/a/1], struck out last sentence which read as follows: “The State shall decide on the financial terms of the grant or loan, except that the time for making grant advances shall comply with regulations of the Secretary of the Treasury.”
 
     Subsec. (b). [Pub. L. 110–432, § 701(a)(2)][/us/pl/110/432/s701/a/2], added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The State shall place the United States Government’s share of money that is repaid in an interest-bearing account. However, the Secretary of Transportation may allow a borrower to place that money, for the benefit of the State, in a bank designated by the Secretary of the Treasury under [section 10 of the Act of June 11, 1942][/us/act/1942-06-11/s10] ([12 U.S.C. 265][/us/usc/t12/s265]). The State shall use the money and accumulated interest to make other grants and loans under this chapter in the same manner and under the same conditions as if they were originally granted to the State by the Secretary of Transportation.”
@@ -164,6 +166,10 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, § 5(d), (i); added Feb. 5, 197
     “(2) the rail line is sold or disposed of after it has received assistance under this chapter.”
 
     1996—Subsec. (b). [Pub. L. 104–287][/us/pl/104/287] inserted “in the same manner and under the same conditions as if they were originally granted to the State by the Secretary of Transportation” after “under this chapter”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -182,10 +188,13 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, § 5(d), (i); added Feb. 5, 197
 [/us/stat/110/3393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3393
 [/us/pl/110/432/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs701%2Fa
 [/us/stat/122/4905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4905
+[/us/pl/114/94/s11316/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fk
+[/us/stat/129/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1678
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F897
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/110/432/s701/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs701%2Fa%2F1
 [/us/pl/110/432/s701/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs701%2Fa%2F2
 [/us/act/1942-06-11/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-11%2Fs10
@@ -193,6 +202,9 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, § 5(d), (i); added Feb. 5, 197
 [/us/pl/110/432/s701/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs701%2Fa%2F3
 [/us/pl/110/432/s701/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs701%2Fa%2F3
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/287/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs8%2F1
 [/us/usc/t49/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5303

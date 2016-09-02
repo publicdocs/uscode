@@ -221,13 +221,13 @@ Feb. 4, 1887, ch. 104, 24 Stat. 379, § 25(a); added Feb. 28, 1920, ch. 91, §
 
  __Definitions Applicable to Division A of__  __[__  __Pub. L. 110–432__  __][/us/pl/110/432]__ 
 
-[Pub. L. 110–432, div. A, § 2(a)][/us/pl/110/432/s2/a], Oct. 16, 2008, [122 Stat. 4849][/us/stat/122/4849], provided that: 
+[Pub. L. 110–432, div. A, § 2(a)][/us/pl/110/432/s2/a], Oct. 16, 2008, [122 Stat. 4849][/us/stat/122/4849], as amended by [Pub. L. 114–94, div. A, title XI, § 11316(j)(2)][/us/pl/114/94/s11316/j/2], Dec. 4, 2015, [129 Stat. 1677][/us/stat/129/1677], provided that: 
 
 > “In this division \[see Short Title of 2008 Amendment note set out under [section 20101 of this title][/us/usc/t49/s20101]\]:
 
 >     “(1)  __Crossing__  __.—__ 
 
->     The term ‘crossing’ means a location within a State, other than a location where one or more railroad tracks cross one or more railroad tracks at grade\[,\] where—
+>     The term ‘crossing’ means a location within a State, other than a location where one or more railroad tracks cross one or more railroad tracks at grade, where—
 
 >         “(A) a public highway, road, or street, or a private roadway, including associated sidewalks and pathways, crosses one or more railroad tracks either at grade or grade-separated; or
 
@@ -270,6 +270,8 @@ Feb. 4, 1887, ch. 104, 24 Stat. 379, § 25(a); added Feb. 28, 1920, ch. 91, §
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/110/432/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs2%2Fa
 [/us/stat/122/4849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4849
+[/us/pl/114/94/s11316/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fj%2F2
+[/us/stat/129/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1677
 [/us/usc/t49/s20101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20101
 [/us/usc/t49/s20102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20102
 [/us/usc/t49/s20102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20102

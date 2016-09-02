@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch244/m__us_usc_t49_s24405.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch245/m__us_usc_t49_stV_ptC_ch245.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24406)
+[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch244/m__us_usc_t49_s24405.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch244/m__us_usc_t49_s24407.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24406)
 
 ## § 24406. Authorization of appropriations
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch244/m__us_usc_t49_s24405.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch245/m__us_usc_t49_stV_ptC_ch245.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24406)
+[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch244/m__us_usc_t49_s24405.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch244/m__us_usc_t49_s24407.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24406)
 
 ----------
 ----------

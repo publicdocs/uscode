@@ -33,9 +33,9 @@
 
         (1)  __Appointment__  __.—__ 
 
-        The Department has 5 Assistant Secretaries and a General Counsel, including—
+        The Department has 6 Assistant Secretaries and a General Counsel, including—
 
-            (A) an Assistant Secretary for Aviation and International Affairs, an Assistant Secretary for Governmental Affairs, and an Assistant Secretary for Transportation Policy, who shall each be appointed by the President, with the advice and consent of the Senate;
+            (A) an Assistant Secretary for Aviation and International Affairs, an Assistant Secretary for Governmental Affairs, an Assistant Secretary for Research and Technology, and an Assistant Secretary for Transportation Policy, who shall each be appointed by the President, with the advice and consent of the Senate;
 
             (B) an Assistant Secretary for Budget and Programs who shall be appointed by the President;
 
@@ -79,7 +79,7 @@
 
     (h) The Department shall have a seal that shall be judicially recognized.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2414][/us/stat/96/2414]; [Pub. L. 98–557, § 26(a)][/us/pl/98/557/s26/a], Oct. 30, 1984, [98 Stat. 2873][/us/stat/98/2873]; [Pub. L. 103–272, § 4(j)(1)][/us/pl/103/272/s4/j/1], July 5, 1994, [108 Stat. 1365][/us/stat/108/1365]; [Pub. L. 107–295, title II, § 215(a)][/us/pl/107/295/s215/a], (c), Nov. 25, 2002, [116 Stat. 2101][/us/stat/116/2101], 2102; [Pub. L. 109–59, title I, § 1119][/us/pl/109/59/s1119](l), Aug. 10, 2005, [119 Stat. 1189][/us/stat/119/1189]; [Pub. L. 110–140, title XI, § 1101(a)][/us/pl/110/140/s1101/a], Dec. 19, 2007, [121 Stat. 1756][/us/stat/121/1756]; [Pub. L. 112–166, § 2(k)(1)][/us/pl/112/166/s2/k/1], Aug. 10, 2012, [126 Stat. 1286][/us/stat/126/1286].)
+([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2414][/us/stat/96/2414]; [Pub. L. 98–557, § 26(a)][/us/pl/98/557/s26/a], Oct. 30, 1984, [98 Stat. 2873][/us/stat/98/2873]; [Pub. L. 103–272, § 4(j)(1)][/us/pl/103/272/s4/j/1], July 5, 1994, [108 Stat. 1365][/us/stat/108/1365]; [Pub. L. 107–295, title II, § 215(a)][/us/pl/107/295/s215/a], (c), Nov. 25, 2002, [116 Stat. 2101][/us/stat/116/2101], 2102; [Pub. L. 109–59, title I, § 1119][/us/pl/109/59/s1119](l), Aug. 10, 2005, [119 Stat. 1189][/us/stat/119/1189]; [Pub. L. 110–140, title XI, § 1101(a)][/us/pl/110/140/s1101/a], Dec. 19, 2007, [121 Stat. 1756][/us/stat/121/1756]; [Pub. L. 112–166, § 2(k)(1)][/us/pl/112/166/s2/k/1], Aug. 10, 2012, [126 Stat. 1286][/us/stat/126/1286]; [Pub. L. 114–94, div. A, title VI, § 6011(a)][/us/pl/114/94/s6011/a], Dec. 4, 2015, [129 Stat. 1568][/us/stat/129/1568].)
 
 <table>
 
@@ -199,6 +199,10 @@ Oct. 15, 1966, Pub. L. 89–670, § 9(k), 80 Stat. 946.  </td>
 
  __Amendments__ 
 
+    2015—Subsec. (e)(1). [Pub. L. 114–94, § 6011(a)(1)][/us/pl/114/94/s6011/a/1], substituted “6” for “5” in introductory provisions.
+
+    Subsec. (e)(1)(A). [Pub. L. 114–94, § 6011(a)(2)][/us/pl/114/94/s6011/a/2], inserted “an Assistant Secretary for Research and Technology,” after “Governmental Affairs,”.
+
     2012—Subsec. (e). [Pub. L. 112–166][/us/pl/112/166] inserted subsec. (e) heading, struck out “The Department has 4 Assistant Secretaries and a General Counsel appointed by the President, by and with the advice and consent of the Senate. The Department also has an Assistant Secretary of Transportation for Administration appointed in the competitive service by the Secretary, with the approval of the President. They shall carry out duties and powers prescribed by the Secretary. An Assistant Secretary” before “or the General Counsel,”, added par. (1), inserted par. (2) designation and heading, and, in par. (2), inserted “The officers set forth in paragraph (1) shall carry out duties and powers prescribed by the Secretary. An Assistant Secretary”.
 
     2007—Subsecs. (g), (h). [Pub. L. 110–140][/us/pl/110/140] added subsec. (g) and redesignated former subsec. (g) as (h).
@@ -216,6 +220,10 @@ Oct. 15, 1966, Pub. L. 89–670, § 9(k), 80 Stat. 946.  </td>
     1994—Subsecs. (e), (f). [Pub. L. 103–272][/us/pl/103/272] redesignated subsec. (e), relating to judicial recognition of Department seal, as (f).
 
     1984—Subsecs. (d), (e). [Pub. L. 98–557][/us/pl/98/557] added subsec. (d) and redesignated former subsec. (d), relating to Assistant Secretaries and General Counsel, as (e).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -308,6 +316,10 @@ Oct. 15, 1966, Pub. L. 89–670, § 9(k), 80 Stat. 946.  </td>
 [/us/stat/121/1756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1756
 [/us/pl/112/166/s2/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fk%2F1
 [/us/stat/126/1286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1286
+[/us/pl/114/94/s6011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6011%2Fa
+[/us/stat/129/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1568
+[/us/pl/114/94/s6011/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6011%2Fa%2F1
+[/us/pl/114/94/s6011/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6011%2Fa%2F2
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
@@ -317,6 +329,9 @@ Oct. 15, 1966, Pub. L. 89–670, § 9(k), 80 Stat. 946.  </td>
 [/us/pl/107/295/s215/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs215%2Fa%2F1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/112/166/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs6%2Fa
 [/us/usc/t6/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs113

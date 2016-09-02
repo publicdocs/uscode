@@ -61,6 +61,130 @@
 
     Section effective Jan. 1, 2000, see [section 107(a) of Pub. L. 106–159][/us/pl/106/159/s107/a], set out as an Effective Date of 1999 Amendment note under [section 104 of this title][/us/usc/t49/s104].
 
+ __Guidance__ 
+
+[Pub. L. 114–94, div. A, title V, § 5203][/us/pl/114/94/s5203], Dec. 4, 2015, [129 Stat. 1535][/us/stat/129/1535], provided that:
+
+>     “(a) __In General.—__ 
+
+>         “(1)  __Date of issuance and point of contact__  __.—__ 
+
+>         Each guidance document issued by the Federal Motor Carrier Safety Administration shall have a date of issuance or a date of revision, as applicable, and shall include the name and contact information of a point of contact at the Administration who can respond to questions regarding the guidance.
+
+>         “(2) __Public accessibility.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             Each guidance document issued or revised by the Federal Motor Carrier Safety Administration shall be published on a publicly accessible Internet Web site of the Department \[of Transportation\] on the date of issuance or revision.
+
+>             “(B)  __Redaction__  __.—__ 
+
+>             The Administrator of the Federal Motor Carrier Safety Administration may redact from a guidance document published under subparagraph (A) any information that would reveal investigative techniques that would compromise Administration enforcement efforts.
+
+>         “(3)  __Incorporation into regulations__  __.—__ 
+
+>         Not later than 5 years after the date on which a guidance document is published under paragraph (2) or during an applicable review under subsection (c), whichever is earlier, the Secretary \[of Transportation\] shall revise regulations to incorporate the guidance document to the extent practicable.
+
+>         “(4)  __Reissuance__  __.—__ 
+
+>         If a guidance document is not incorporated into regulations in accordance with paragraph (3), the Administrator shall—
+
+>             “(A) reissue an updated version of the guidance document; and
+
+>             “(B) review and reissue an updated version of the guidance document every 5 years until the date on which the guidance document is removed or incorporated into applicable regulations.
+
+>     “(b)  __Initial Review__  __.—__ 
+
+>     Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Administrator shall review all guidance documents issued by the Federal Motor Carrier Safety Administration and in effect on such date of enactment to ensure that such documents are current, are readily accessible to the public, and meet the standards specified in subparagraphs (A), (B), and (C) of subsection (c)(1).
+
+>     “(c) __Regular Review.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Subject to paragraph (2), not less than once every 5 years, the Administrator shall conduct a comprehensive review of the guidance documents issued by the Federal Motor Carrier Safety Administration to determine whether such documents are—
+
+>             “(A) consistent and clear;
+
+>             “(B) uniformly and consistently enforced; and
+
+>             “(C) still necessary.
+
+>         “(2)  __Notice and comment__  __.—__ 
+
+>         Prior to beginning a review under paragraph (1), the Administrator shall publish in the Federal Register a notice and request for comment that solicits input from stakeholders on which guidance documents should be updated or eliminated.
+
+>         “(3) __Report.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             Not later than 60 days after the date on which a review under paragraph (1) is completed, the Administrator shall publish on a publicly accessible Internet Web site of the Department a report detailing the review and a full inventory of the guidance documents of the Administration.
+
+>             “(B)  __Contents__  __.—__ 
+
+>             A report under subparagraph (A) shall include a summary of the response of the Administration to comments received under paragraph (2).
+
+>     “(d)  __Guidance Document Defined__  __.—__ 
+
+>     In this section, the term ‘guidance document’ means a document issued by the Federal Motor Carrier Safety Administration that—
+
+>         “(1) provides an interpretation of a regulation of the Administration; or
+
+>         “(2) includes an enforcement policy of the Administration available to the public.”
+
+ __Petitions__ 
+
+[Pub. L. 114–94, div. A, title V, § 5204][/us/pl/114/94/s5204], Dec. 4, 2015, [129 Stat. 1536][/us/stat/129/1536], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Administrator of the Federal Motor Carrier Safety Administration shall—
+
+>         “(1) publish on a publicly accessible Internet Web site of the Department \[of Transportation\] a summary of all petitions for regulatory action submitted to the Administration;
+
+>         “(2) prioritize the petitions submitted based on the likelihood of safety improvements resulting from the regulatory action requested;
+
+>         “(3) not later than 180 days after the date a summary of a petition is published under paragraph (1), formally respond to such petition by indicating whether the Administrator will accept, deny, or further review the petition;
+
+>         “(4) prioritize responses to petitions consistent with a petition’s potential to reduce crashes, improve enforcement, and reduce unnecessary burdens; and
+
+>         “(5) not later than 60 days after the date of receipt of a petition, publish on a publicly accessible Internet Web site of the Department an updated inventory of the petitions described in paragraph (1), including any applicable disposition information for those petitions.
+
+>     “(b)  __Treatment of Multiple Petitions__  __.—__ 
+
+>     The Administrator may treat multiple similar petitions as a single petition for the purposes of subsection (a).
+
+>     “(c)  __Petition Defined__  __.—__ 
+
+>     In this section, the term ‘petition’ means a request for—
+
+>         “(1) a new regulation;
+
+>         “(2) a regulatory interpretation or clarification; or
+
+>         “(3)
+
+>          a determination by the Administrator that a regulation should be modified or eliminated because it is—
+
+>             “(A)
+
+>              no longer—
+
+>                 “(i) consistent and clear;
+
+>                 “(ii) current with the operational realities of the motor carrier industry; or
+
+>                 “(iii) uniformly enforced;
+
+>             “(B) ineffective; or
+
+>             “(C) overly burdensome.
+
+ __Prioritizing Statutory Rulemakings__ 
+
+[Pub. L. 114–94, div. A, title V, § 5302][/us/pl/114/94/s5302], Dec. 4, 2015, [129 Stat. 1543][/us/stat/129/1543], provided that: 
+
+> “The Administrator of the Federal Motor Carrier Safety Administration shall prioritize the completion of each outstanding rulemaking required by statute before beginning any other rulemaking, unless the Secretary \[of Transportation\] determines that there is a significant need for such other rulemaking and notifies Congress of such determination.”
+
  __Findings__ 
 
 [Pub. L. 106–159, § 3][/us/pl/106/159/s3], Dec. 9, 1999, [113 Stat. 1749][/us/stat/113/1749], provided that: 
@@ -164,6 +288,12 @@
 [/us/stat/113/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1750
 [/us/pl/106/159/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs107%2Fa
 [/us/usc/t49/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs104
+[/us/pl/114/94/s5203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5203
+[/us/stat/129/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1535
+[/us/pl/114/94/s5204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5204
+[/us/stat/129/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1536
+[/us/pl/114/94/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5302
+[/us/stat/129/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1543
 [/us/pl/106/159/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs3
 [/us/stat/113/1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1749
 [/us/pl/106/159/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs4

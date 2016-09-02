@@ -1,7 +1,7 @@
 ---
 ---
 
-# 49 U.S.C., USLM ref /us/usc/t49/s701
+# 49 U.S.C., USLM ref /us/usc/t49/s1301
 
 * Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
   Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
@@ -11,29 +11,33 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stI/ch7/schI/m__us_usc_t49_stI_ch7_schI.md) | [Next](./../../../../../..//us/usc/t49/stI/ch7/schI/m__us_usc_t49_s702.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701)
+[Previous](./../../../../../..//us/usc/t49/stII/ch13/schI/m__us_usc_t49_stII_ch13_schI.md) | [Next](./../../../../../..//us/usc/t49/stII/ch13/schI/m__us_usc_t49_s1302.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301)
 
-## § 701. Establishment of Board
+## § 1301. Establishment of Board
 
     (a)  __Establishment__  __.—__ 
 
-    There is hereby established within the Department of Transportation the Surface Transportation Board.
+    The Surface Transportation Board is an independent establishment of the United States Government.
 
     (b)  __Membership__  __.—__ 
 
-        (1) The Board shall consist of 3 members, to be appointed by the President, by and with the advice and consent of the Senate. Not more than 2 members may be appointed from the same political party.
+        (1) The Board shall consist of 5 members, to be appointed by the President, by and with the advice and consent of the Senate. Not more than 3 members may be appointed from the same political party.
 
-        (2) At any given time, at least 2 members of the Board shall be individuals with professional standing and demonstrated knowledge in the fields of transportation or transportation regulation, and at least one member shall be an individual with professional or business experience (including agriculture) in the private sector.
+        (2)
+
+         At all times—
+
+            (A) at least 3 members of the Board shall be individuals with professional standing and demonstrated knowledge in the fields of transportation, transportation regulation, or economic regulation; and
+
+            (B) at least 2 members shall be individuals with professional or business experience (including agriculture) in the private sector.
 
         (3) The term of each member of the Board shall be 5 years and shall begin when the term of the predecessor of that member ends. An individual appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of that individual was appointed, shall be appointed for the remainder of that term. When the term of office of a member ends, the member may continue to serve until a successor is appointed and qualified, but for a period not to exceed one year. The President may remove a member for inefficiency, neglect of duty, or malfeasance in office.
 
-        (4) On January 1, 1996, the members of the Interstate Commerce Commission serving unexpired terms on December 29, 1995, shall become members of the Board, to serve for a period of time equal to the remainder of the term for which they were originally appointed to the Interstate Commerce Commission. Any member of the Interstate Commerce Commission whose term expires on December 31, 1995, shall become a member of the Board, subject to paragraph (3).
+        (4) No individual may serve as a member of the Board for more than 2 terms. In the case of an individual appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of that individual was appointed, such individual may not be appointed for more than one additional term.
 
-        (5) No individual may serve as a member of the Board for more than 2 terms. In the case of an individual who becomes a member of the Board pursuant to paragraph (4), or an individual appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of that individual was appointed, such individual may not be appointed for more than one additional term.
+        (5) A member of the Board may not have a pecuniary interest in, hold an official relation to, or own stock in or bonds of, a carrier providing transportation by any mode and may not engage in another business, vocation, or employment.
 
-        (6) A member of the Board may not have a pecuniary interest in, hold an official relation to, or own stock in or bonds of, a carrier providing transportation by any mode and may not engage in another business, vocation, or employment.
-
-        (7) A vacancy in the membership of the Board does not impair the right of the remaining members to exercise all of the powers of the Board. The Board may designate a member to act as Chairman during any period in which there is no Chairman designated by the President.
+        (6) A vacancy in the membership of the Board does not impair the right of the remaining members to exercise all of the powers of the Board. The Board may designate a member to act as Chairman during any period in which there is no Chairman designated by the President.
 
     (c)  __Chairman__  __.—__ 
 
@@ -53,9 +57,23 @@
 
             (E) supervise the expenditure of funds allocated by the Board for major programs and purposes.
 
-(Added [Pub. L. 104–88, title II, § 201(a)][/us/pl/104/88/s201/a], Dec. 29, 1995, [109 Stat. 932][/us/stat/109/932]; amended [Pub. L. 104–287, § 5(5)][/us/pl/104/287/s5/5], Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389].)
+(Added [Pub. L. 104–88, title II, § 201(a)][/us/pl/104/88/s201/a], Dec. 29, 1995, [109 Stat. 932][/us/stat/109/932], § 701; amended [Pub. L. 104–287, § 5(5)][/us/pl/104/287/s5/5], Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389]; renumbered § 1301 and amended [Pub. L. 114–110][/us/pl/114/110], §§ 3(a)(3), (b), 4, Dec. 18, 2015, [129 Stat. 2228][/us/stat/129/2228], 2229.)
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–110, § 3(a)(3)][/us/pl/114/110/s3/a/3], renumbered [section 701 of this title][/us/usc/t49/s701] as this section.
+
+    Subsec. (a). [Pub. L. 114–110, § 3(b)][/us/pl/114/110/s3/b], added subsec. (a) and struck out former subsec. (a) which read as follows: “There is hereby established within the Department of Transportation the Surface Transportation Board.”
+
+    Subsec. (b)(1). [Pub. L. 114–110, § 4(a)(1)][/us/pl/114/110/s4/a/1], substituted “5 members” for “3 members” and “3 members” for “2 members”.
+
+    Subsec. (b)(2). [Pub. L. 114–110, § 4(a)(2)][/us/pl/114/110/s4/a/2], added par. (2) and struck out former par. (2) which read as follows: “ At any given time, at least 2 members of the Board shall be individuals with professional standing and demonstrated knowledge in the fields of transportation or transportation regulation, and at least one member shall be an individual with professional or business experience (including agriculture) in the private sector.”
+
+    Subsec. (b)(4). [Pub. L. 114–110, § 4(b)(3)][/us/pl/114/110/s4/b/3], struck out “who becomes a member of the Board pursuant to paragraph (4), or an individual” after “In the case of an individual”.
+
+    [Pub. L. 114–110, § 4(b)(1)][/us/pl/114/110/s4/b/1], (2), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “On January 1, 1996, the members of the Interstate Commerce Commission serving unexpired terms on December 29, 1995, shall become members of the Board, to serve for a period of time equal to the remainder of the term for which they were originally appointed to the Interstate Commerce Commission. Any member of the Interstate Commerce Commission whose term expires on December 31, 1995, shall become a member of the Board, subject to paragraph (3).”
+
+    Subsec. (b)(5), (6). [Pub. L. 114–110, § 4(b)(2)][/us/pl/114/110/s4/b/2], redesignated pars. (6) and (7) as (5) and (6), respectively. Former par. (5) redesignated (4).
 
     1996—Subsec. (b)(4). [Pub. L. 104–287][/us/pl/104/287] substituted “January 1, 1996” for “the effective date of this section” and “December 29, 1995,” for “the date of the enactment of the ICC Termination Act of 1995”.
 
@@ -111,6 +129,12 @@
 
 >     Except as otherwise provided by law, an officer or employee of the Board may, for purposes of performing a function transferred by this Act or the amendments made by this Act, exercise all authorities under any other provision of law that were available with respect to the performance of that function to the official responsible for the performance of the function immediately before the effective date of the transfer of the function under this Act or the amendments made by this Act.”
 
+ __Construction__ 
+
+[Pub. L. 114–110, § 17][/us/pl/114/110/s17], Dec. 18, 2015, [129 Stat. 2238][/us/stat/129/2238], provided that: 
+
+> “Nothing in this Act \[see Tables for classification\] may be construed to affect any suit commenced by or against the Surface Transportation Board, or any proceeding or challenge pending before the Surface Transportation Board, before the date of the enactment of this Act \[Dec. 18, 2015\].”
+
  __Abolition of Interstate Commerce Commission__ 
 
 [Pub. L. 104–88, title I, § 101][/us/pl/104/88/s101], Dec. 29, 1995, [109 Stat. 804][/us/stat/109/804], provided that: 
@@ -121,7 +145,7 @@
 
 [Pub. L. 104–88, title II, § 202][/us/pl/104/88/s202], Dec. 29, 1995, [109 Stat. 940][/us/stat/109/940], provided that: 
 
-> “The Chairman of the Surface Transportation Board (in this Act \[see Tables for classification\] referred to as the ‘Board’) may allocate or reallocate any function of the Board, consistent with this title \[see Tables for classification\] and subchapter I of chapter 7 \[[49 U.S.C. 701][/us/usc/t49/s701] et seq.\], as amended by [section 201 of this title][/us/usc/t49/s201], among the members or employees of the Board, and may establish, consolidate, alter, or discontinue in the Board any organizational entities that were entities of the Interstate Commerce Commission, as the Chairman considers necessary or appropriate.”
+> “The Chairman of the Surface Transportation Board (in this Act \[see Tables for classification\] referred to as the ‘Board’) may allocate or reallocate any function of the Board, consistent with this title \[see Tables for classification\] and \[former\] subchapter I of chapter 7 \[now [49 U.S.C. 1301][/us/usc/t49/s1301] et seq.\], as amended by [section 201 of this title][/us/usc/t49/s201], among the members or employees of the Board, and may establish, consolidate, alter, or discontinue in the Board any organizational entities that were entities of the Interstate Commerce Commission, as the Chairman considers necessary or appropriate.”
 
  __Transfer of Assets and Personnel__ 
 
@@ -147,7 +171,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stI/ch7/schI/m__us_usc_t49_stI_ch7_schI.md) | [Next](./../../../../../..//us/usc/t49/stI/ch7/schI/m__us_usc_t49_s702.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701)
+[Previous](./../../../../../..//us/usc/t49/stII/ch13/schI/m__us_usc_t49_stII_ch13_schI.md) | [Next](./../../../../../..//us/usc/t49/stII/ch13/schI/m__us_usc_t49_s1302.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301)
 
 ----------
 ----------
@@ -157,17 +181,29 @@
 [/us/stat/109/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F932
 [/us/pl/104/287/s5/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F5
 [/us/stat/110/3389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3389
+[/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
+[/us/stat/129/2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2228
+[/us/pl/114/110/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs3%2Fa%2F3
+[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/pl/114/110/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs3%2Fb
+[/us/pl/114/110/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs4%2Fa%2F1
+[/us/pl/114/110/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs4%2Fa%2F2
+[/us/pl/114/110/s4/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs4%2Fb%2F3
+[/us/pl/114/110/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs4%2Fb%2F1
+[/us/pl/114/110/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs4%2Fb%2F2
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
 [/us/stat/109/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F804
 [/us/pl/104/88/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs204
 [/us/stat/109/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F941
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
+[/us/pl/114/110/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs17
+[/us/stat/129/2238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2238
 [/us/pl/104/88/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs101
 [/us/stat/109/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F804
 [/us/pl/104/88/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs202
 [/us/stat/109/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F940
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/usc/t49/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs201
 [/us/pl/104/88/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs203
 [/us/stat/109/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F941

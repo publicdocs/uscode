@@ -135,11 +135,11 @@ PART B—ASSISTANCE  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2FstV%2FptB%2Fch225" data-uslm-ref="/us/usc/t49/stV/ptB/ch225">225.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2FstV%2FptB%2Fch225" data-uslm-ref="/us/usc/t49/stV/ptB/ch225">225.</a>  </td>
 
-    <td> Federal grants to States for highway-rail grade crossing safety  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be “Federal Grants to States for Highway-Rail Grade Crossing Safety”. </sup></sup>   </td>
+    <td> Repealed.]  </td>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs22501" data-uslm-ref="/us/usc/t49/s22501">22501</a>  </td>
+    <td>   </td>
 
   </tr>
 
@@ -147,7 +147,7 @@ PART B—ASSISTANCE  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2FstV%2FptB%2Fch227" data-uslm-ref="/us/usc/t49/stV/ptB/ch227">227.</a>  </td>
 
-    <td> State rail plans  <sup>[2]</sup>  <sup><sup> 2 So in original. Probably should be “State Rail Plans”. </sup></sup>   </td>
+    <td> State rail plans  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be “State Rail Plans”. </sup></sup>   </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs22701" data-uslm-ref="/us/usc/t49/s22701">22701</a>  </td>
 
@@ -173,6 +173,16 @@ PART C—PASSENGER TRANSPORTATION  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2FstV%2FptC%2Fch242" data-uslm-ref="/us/usc/t49/stV/ptC/ch242">242.</a>  </td>
+
+    <td> Project delivery  <sup>[2]</sup>  <sup><sup> 2 So in original. Probably should be “Project Delivery”. </sup></sup>   </td>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24201" data-uslm-ref="/us/usc/t49/s24201">24201</a>  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2FstV%2FptC%2Fch243" data-uslm-ref="/us/usc/t49/stV/ptC/ch243">243.</a>  </td>
 
     <td> Amtrak  </td>
@@ -185,7 +195,7 @@ PART C—PASSENGER TRANSPORTATION  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2FstV%2FptC%2Fch244" data-uslm-ref="/us/usc/t49/stV/ptC/ch244">244.</a>  </td>
 
-    <td> Intercity Passenger Rail Service Corridor Capital Assistance  </td>
+    <td> Rail improvement grants  <sup>[3]</sup>  <sup><sup> 3 So in original. Probably should be “Rail Improvement Grants”. </sup></sup>   </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24401" data-uslm-ref="/us/usc/t49/s24401">24401</a>  </td>
 
@@ -281,6 +291,8 @@ PART E—MISCELLANEOUS  </td>
 
  __Amendments__ 
 
+    2015–[Pub. L. 114–94, div. A, title XI][/us/pl/114/94], §§ 11301(c)(3), 11303(b)(2), 11503(c), Dec. 4, 2015, [129 Stat. 1648][/us/stat/129/1648], 1654, 1692, struck out item for chapter 225 “Federal grants to States for highway-rail grade crossing safety”, added item for chapter 242, and substituted “Rail improvement grants” for “Intercity Passenger Rail Service Corridor Capital Assistance” in item for chapter 244.
+
     2008—[Pub. L. 110–432, div. A, title II, § 207(b)][/us/pl/110/432/s207/b], div. B, title III, § 301(b), title IV, § 401(b), Oct. 16, 2008, [122 Stat. 4875][/us/stat/122/4875], 4946, 4956, added items for chapters 225, 244, and 285.
 
     [Pub. L. 110–432, div. B, title III, § 303(b)][/us/pl/110/432/s303/b], Oct. 16, 2008, [122 Stat. 4951][/us/stat/122/4951], which directed insertion of the item for chapter 227 after the item for chapter 223, was executed by making the insertion after the item for chapter 225 to reflect the probable intent of Congress.
@@ -302,6 +314,8 @@ PART E—MISCELLANEOUS  </td>
 ----------
 ----------
 
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1648
 [/us/pl/110/432/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs207%2Fb
 [/us/stat/122/4875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4875
 [/us/pl/110/432/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs303%2Fb

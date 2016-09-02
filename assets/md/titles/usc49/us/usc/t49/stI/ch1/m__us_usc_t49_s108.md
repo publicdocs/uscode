@@ -191,7 +191,7 @@ Oct. 15, 1966, Pub. L. 89–670, §§ 3(e)(3) (related to USCG), 6(b)(1), (2),
 
 > “The authority of the Research and Special Programs Administration exercised under chapters 51, 57, 61, 601, and 603 of title 49, United States Code, is transferred to the Administrator of the Pipeline and Hazardous Materials Safety Administration.”
 
-    For transfer of authority of the Research and Special Programs Administration, other than authority exercised under chapters 51, 57, 61, 601, and 603 of this title, to the Administrator of the Research and Innovative Technology Administration, see [section 4(b) of Pub. L. 108–426][/us/pl/108/426/s4/b], set out as a note under [section 112 of this title][/us/usc/t49/s112].
+    For transfer of authority of the Research and Special Programs Administration, other than authority exercised under chapters 51, 57, 61, 601, and 603 of this title, to the Administrator of the Research and Innovative Technology Administration, see [section 4(b) of Pub. L. 108–426][/us/pl/108/426/s4/b], set out as a note under former [section 112 of this title][/us/usc/t49/s112].
 
 [Pub. L. 108–426, § 7][/us/pl/108/426/s7], Nov. 30, 2004, [118 Stat. 2428][/us/stat/118/2428], provided that: 
 

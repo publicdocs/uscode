@@ -19,9 +19,9 @@
 
     As soon as practicable after being notified of a rail passenger accident within the United States involving a rail passenger carrier and resulting in a major loss of life, the Chairman of the National Transportation Safety Board shall—
 
-        (1) designate and publicize the name and phone number of a director of family support services who shall be an employee of the Board and shall be responsible for acting as a point of contact within the Federal Government for the families of passengers involved in the accident and a liaison between the rail passenger carrier and the families; and
+        (1) designate and publicize the name and telephone number of a director of family support services who shall be an employee of the Board and shall be responsible for acting as a point of contact within the Federal Government for the families of passengers involved in the accident and a liaison between the rail passenger carrier and the families; and
 
-        (2) designate an independent nonprofit organization, with experience in disasters and post trauma  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “post-trauma”. </sup></sup>  communication with families, which shall have primary responsibility for coordinating the emotional care and support of the families of passengers involved in the accident.
+        (2) designate an independent nonprofit organization, with experience in disasters and post-trauma communication with families, which shall have primary responsibility for coordinating the emotional care and support of the families of passengers involved in the accident.
 
     (b)  __Responsibilities of the Board__  __.—__ 
 
@@ -135,17 +135,29 @@
 
         (1)  __General rule__  __.—__ 
 
-        This section (other than subsection (g)) shall not apply to a railroad passenger accident if the Board has relinquished investigative priority under section 1131(a)(2)(B) and the Federal agency to which the Board relinquished investigative priority is willing and able to provide assistance to the victims and families of the passengers involved in the accident.
+        This section (other than subsection (g)) shall not apply to a rail passenger accident if the Board has relinquished investigative priority under section 1131(a)(2)(B) and the Federal agency to which the Board relinquished investigative priority is willing and able to provide assistance to the victims and families of the passengers involved in the accident.
 
         (2)  __Board assistance__  __.—__ 
 
-        If this section does not apply to a railroad passenger accident because the Board has relinquished investigative priority with respect to the accident, the Board shall assist, to the maximum extent possible, the agency to which the Board has relinquished investigative priority in assisting families with respect to the accident.
+        If this section does not apply to a rail passenger accident because the Board has relinquished investigative priority with respect to the accident, the Board shall assist, to the maximum extent possible, the agency to which the Board has relinquished investigative priority in assisting families with respect to the accident.
 
     (k)  __Savings Clause__  __.—__ 
 
     Nothing in this section shall be construed to abridge the authority of the Board or the Secretary of Transportation to investigate the causes or circumstances of any rail accident, including development of information regarding the nature of injuries sustained and the manner in which they were sustained for the purposes of determining compliance with existing laws and regulations or for identifying means of preventing similar injuries in the future, or both.
 
-(Added [Pub. L. 110–432, div. A, title V, § 501(a)][/us/pl/110/432/s501/a], Oct. 16, 2008, [122 Stat. 4894][/us/stat/122/4894].)
+(Added [Pub. L. 110–432, div. A, title V, § 501(a)][/us/pl/110/432/s501/a], Oct. 16, 2008, [122 Stat. 4894][/us/stat/122/4894]; amended [Pub. L. 114–94, div. A, title XI, § 11316(a)][/us/pl/114/94/s11316/a], Dec. 4, 2015, [129 Stat. 1676][/us/stat/129/1676].)
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(1). [Pub. L. 114–94, § 11316(a)(1)][/us/pl/114/94/s11316/a/1], substituted “telephone number” for “phone number”.
+
+    Subsec. (a)(2). [Pub. L. 114–94, § 11316(a)(2)][/us/pl/114/94/s11316/a/2], substituted “post-trauma communication with families” for “post trauma communication with families”.
+
+    Subsec. (j). [Pub. L. 114–94, § 11316(a)(3)][/us/pl/114/94/s11316/a/3], substituted “rail passenger accident” for “railroad passenger accident” in two places.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Establishment of Task Force__ 
 
@@ -180,6 +192,14 @@
 
 [/us/pl/110/432/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs501%2Fa
 [/us/stat/122/4894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4894
+[/us/pl/114/94/s11316/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fa
+[/us/stat/129/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1676
+[/us/pl/114/94/s11316/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fa%2F1
+[/us/pl/114/94/s11316/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fa%2F2
+[/us/pl/114/94/s11316/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fa%2F3
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/110/432/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs503
 [/us/stat/122/4899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4899
 [/us/usc/t49/s1139/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1139%2Fa%2F2

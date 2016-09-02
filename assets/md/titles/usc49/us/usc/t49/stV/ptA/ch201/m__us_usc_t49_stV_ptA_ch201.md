@@ -193,6 +193,14 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs20121" data-uslm-ref="/us/usc/t49/s20121">20121.</a>  </td>
+
+    <td> Repair and replacement of damaged track inspection equipment.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER II—PARTICULAR ASPECTS OF SAFETY  </td>
@@ -385,9 +393,9 @@ SUBCHAPTER II—PARTICULAR ASPECTS OF SAFETY  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs20154" data-uslm-ref="/us/usc/t49/s20154">20154.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs20154" data-uslm-ref="/us/usc/t49/s20154">20154.</a>  </td>
 
-    <td> Capital grants for rail line relocation projects.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -489,9 +497,17 @@ SUBCHAPTER II—PARTICULAR ASPECTS OF SAFETY  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs20167" data-uslm-ref="/us/usc/t49/s20167">20167.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs20167" data-uslm-ref="/us/usc/t49/s20167">20167.</a>  </td>
 
-    <td> Railroad safety infrastructure improvement grants.  </td>
+    <td> Repealed.]  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs20168" data-uslm-ref="/us/usc/t49/s20168">20168.</a>  </td>
+
+    <td> Installation of audio and image recording devices.  </td>
 
   </tr>
 
@@ -499,7 +515,9 @@ SUBCHAPTER II—PARTICULAR ASPECTS OF SAFETY  </td>
 
  __Amendments__ 
 
-    [Pub. L. 110–432, div. A, title I][/us/pl/110/432], §§ 103(b), 104(b), 105(b), 107(b), 109(b), title II, §§ 203(b), 204(b), 205(b), 208(b), 210(b), title III, § 303(b), title IV, §§ 401(b), 402(e), 406(b), 409(b), 413(b), 418(b), Oct. 16, 2008, [122 Stat. 4856][/us/stat/122/4856], 4858–4860, 4867, 4869, 4871, 4873, 4876, 4877, 4879, 4883, 4884, 4886, 4887, 4889, 4892, added items 20116 and 20118 to 20120, substituted “Railroad trespassing, vandalism, and highway-rail grade crossing warning sign violation prevention strategy” for “Railroad trespassing and vandalism prevention strategy” in item 20151 and “Notification of grade crossing problems” for “Emergency notification of grade crossing problems” in item 20152, and added items 20156 to 20167.
+    2015–[Pub. L. 114–94, div. A, title XI][/us/pl/114/94], §§ 11301(c)(1), 11411(b), 11413(b), Dec. 4, 2015, [129 Stat. 1648][/us/stat/129/1648], 1687, 1689, added items 20121 and 20168 and struck out items 20154 “Capital grants for rail line relocation projects” and 20167 “Railroad safety infrastructure improvement grants”. Items 20121 and 20168 were added to the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language adding those items to the analyses for subchapters I and II of this chapter, respectively.
+
+    2008—[Pub. L. 110–432, div. A, title I][/us/pl/110/432], §§ 103(b), 104(b), 105(b), 107(b), 109(b), title II, §§ 203(b), 204(b), 205(b), 208(b), 210(b), title III, § 303(b), title IV, §§ 401(b), 402(e), 406(b), 409(b), 413(b), 418(b), Oct. 16, 2008, [122 Stat. 4856][/us/stat/122/4856], 4858–4860, 4867, 4869, 4871, 4873, 4876, 4877, 4879, 4883, 4884, 4886, 4887, 4889, 4892, added items 20116 and 20118 to 20120, substituted “Railroad trespassing, vandalism, and highway-rail grade crossing warning sign violation prevention strategy” for “Railroad trespassing and vandalism prevention strategy” in item 20151 and “Notification of grade crossing problems” for “Emergency notification of grade crossing problems” in item 20152, and added items 20156 to 20167.
 
     2005—[Pub. L. 109–59, title IX][/us/pl/109/59], §§ 9002(a)(2), 9005(b)(2), Aug. 10, 2005, [119 Stat. 1921][/us/stat/119/1921], 1925, added items 20154 and 20155.
 
@@ -514,6 +532,8 @@ SUBCHAPTER II—PARTICULAR ASPECTS OF SAFETY  </td>
 ----------
 ----------
 
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1648
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/stat/122/4856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4856
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59

@@ -75,7 +75,25 @@
 
     In a civil action brought under this section, a subpena for a witness may be served in any judicial district.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 968][/us/stat/108/968]; [Pub. L. 103–429, § 6(23)][/us/pl/103/429/s6/23], Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380]; [Pub. L. 106–414, § 5(a)][/us/pl/106/414/s5/a], Nov. 1, 2000, [114 Stat. 1803][/us/stat/114/1803]; [Pub. L. 109–59, title X, § 10309(c)][/us/pl/109/59/s10309/c], Aug. 10, 2005, [119 Stat. 1942][/us/stat/119/1942]; [Pub. L. 112–141, div. C, title I][/us/pl/112/141], §§ 31203(a), 31304(b), title II, § 32301(c), July 6, 2012, [126 Stat. 758][/us/stat/126/758], 764, 788.)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 968][/us/stat/108/968]; [Pub. L. 103–429, § 6(23)][/us/pl/103/429/s6/23], Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380]; [Pub. L. 106–414, § 5(a)][/us/pl/106/414/s5/a], Nov. 1, 2000, [114 Stat. 1803][/us/stat/114/1803]; [Pub. L. 109–59, title X, § 10309(c)][/us/pl/109/59/s10309/c], Aug. 10, 2005, [119 Stat. 1942][/us/stat/119/1942]; [Pub. L. 112–141, div. C, title I][/us/pl/112/141], §§ 31203(a), 31304(b), title II, § 32301(c), July 6, 2012, [126 Stat. 758][/us/stat/126/758], 764, 788; [Pub. L. 114–94, div. B, title XXIV, § 24110(a)][/us/pl/114/94/s24110/a], Dec. 4, 2015, [129 Stat. 1709][/us/stat/129/1709].)
+
+ __Amendment of Subsection (a)__ 
+
+[Pub. L. 114–94, div. B, title XXIV, § 24110(a)][/us/pl/114/94/s24110/a], (b), Dec. 4, 2015, [129 Stat. 1709][/us/stat/129/1709], provided that, effective on the date the Secretary of Transportation makes the certification required by [section 31203(b) of Pub. L. 112–141][/us/pl/112/141/s31203/b], set out as a note below, subsection (a) of this section is amended:
+
+    (1) in paragraph (1)—
+
+    (A) by striking “$5,000” and inserting “$21,000”; and
+
+    (B) by striking “$35,000,000” and inserting “$105,000,000”; and
+
+    (2) in paragraph (3)—
+
+    (A) by striking “$5,000” and inserting “$21,000”; and
+
+    (B) by striking “$35,000,000” and inserting “$105,000,000”.
+
+    See 2015 Amendment notes below.
 
 <table>
 
@@ -201,6 +219,10 @@ Sept. 9, 1966, Pub. L. 89–563, §§ 109(b), 110(d) (related to § 109), 20
 
  __Amendments__ 
 
+    2015—Subsec. (a)(1). [Pub. L. 114–94, § 24110(a)(1)][/us/pl/114/94/s24110/a/1], substituted “$21,000” for “$5,000” and “$105,000,000” for “$35,000,000”.
+
+    Subsec. (a)(3). [Pub. L. 114–94, § 24110(a)(2)][/us/pl/114/94/s24110/a/2], substituted “$21,000” for “$5,000” and “$105,000,000” for “$35,000,000”.
+
     2012—Subsec. (a)(1). [Pub. L. 112–141, § 32301(c)][/us/pl/112/141/s32301/c], substituted “30141 through 30147, or 31137” for “or 30141 through 30147”.
 
     [Pub. L. 112–141, § 31203(a)(1)(A)][/us/pl/112/141/s31203/a/1/A], substituted “30123(a)” for “30123(d)” and “$35,000,000” for “$15,000,000”.
@@ -218,6 +240,18 @@ Sept. 9, 1966, Pub. L. 89–563, §§ 109(b), 110(d) (related to § 109), 20
     2000—Subsec. (a). [Pub. L. 106–414][/us/pl/106/414] amended heading and text generally. Prior to amendment, text read as follows: “A person that violates any of sections 30112, 30115, 30117–30122, 30123(d), 30125(c), 30127, 30141–30147, or 30166 of this title or a regulation prescribed under any of those sections is liable to the United States Government for a civil penalty of not more than $1,000 for each violation. A separate violation occurs for each motor vehicle or item of motor vehicle equipment and for each failure or refusal to allow or perform an act required by any of those sections. The maximum penalty under this subsection for a related series of violations is $800,000.”
 
     1994—Subsec. (a). [Pub. L. 103–429][/us/pl/103/429] substituted “any of sections 30112” for “section 30112” and inserted “any of” before “those sections” in two places.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–94, div. B, title XXIV, § 24110(b)][/us/pl/114/94/s24110/b], (c), Dec. 4, 2015, [129 Stat. 1709][/us/stat/129/1709], provided that:
+
+>     “(b)  __Effective Date__  __.—__ 
+
+>     The amendments made by subsection (a) of this section \[amending this section\] take effect on the date that the Secretary \[probably means Secretary of Transportation\] certifies to Congress that the National Highway Traffic Safety Administration has issued the final rule required by section 31203(b) of the Moving Ahead for Progress In the 21st Century Act ([Public Law 112–141][/us/pl/112/141]; [126 Stat. 758][/us/stat/126/758]; [49 U.S.C. 30165][/us/usc/t49/s30165] note).
+
+>     “(c)  __Publication of Effective Date__  __.—__ 
+
+>     The Secretary shall publish notice of the effective date under subsection (b) of this section in the Federal Register.”
 
  __Effective Date of 2012 Amendment__ 
 
@@ -257,8 +291,15 @@ Sept. 9, 1966, Pub. L. 89–563, §§ 109(b), 110(d) (related to § 109), 20
 [/us/stat/119/1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1942
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F758
+[/us/pl/114/94/s24110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24110%2Fa
+[/us/stat/129/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1709
+[/us/pl/114/94/s24110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24110%2Fa
+[/us/stat/129/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1709
+[/us/pl/112/141/s31203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31203%2Fb
 [/us/usc/t49/s1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1397
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/114/94/s24110/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24110%2Fa%2F1
+[/us/pl/114/94/s24110/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24110%2Fa%2F2
 [/us/pl/112/141/s32301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32301%2Fc
 [/us/pl/112/141/s31203/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31203%2Fa%2F1%2FA
 [/us/pl/112/141/s31304/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31304%2Fb%2F1
@@ -268,6 +309,11 @@ Sept. 9, 1966, Pub. L. 89–563, §§ 109(b), 110(d) (related to § 109), 20
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/106/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/114/94/s24110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24110%2Fb
+[/us/stat/129/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1709
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/stat/126/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F758
+[/us/usc/t49/s30165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30165
 [/us/pl/112/141/s31203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31203%2Fc
 [/us/stat/126/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F758
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141

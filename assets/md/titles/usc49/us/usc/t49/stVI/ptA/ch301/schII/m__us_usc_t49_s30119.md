@@ -91,7 +91,17 @@
 
         (2) A lessor that receives a notification required by [section 30118 of this title][/us/usc/t49/s30118] about a leased motor vehicle shall provide a copy of the notification to the lessee in the way the Secretary prescribes by regulation.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 951][/us/stat/108/951]; [Pub. L. 112–141, div. C, title I, § 31310][/us/pl/112/141/s31310], July 6, 2012, [126 Stat. 771][/us/stat/126/771].)
+    (g)  __Information Regarding Components Involved in Recall__  __.—__ 
+
+    A manufacturer that is required to furnish a report under section 573.6 of title 49, Code of Federal Regulations (or any successor regulation) for a defect or noncompliance in a motor vehicle or in an item of original or replacement equipment shall, if such defect or noncompliance involves a specific component or components, include in such report, with respect to such component or components, the following information:
+
+        (1) The name of the component or components.
+
+        (2) A description of the component or components.
+
+        (3) The part number of the component or components, if any.
+
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 951][/us/stat/108/951]; [Pub. L. 112–141, div. C, title I, § 31310][/us/pl/112/141/s31310], July 6, 2012, [126 Stat. 771][/us/stat/126/771]; [Pub. L. 114–94, div. B, title XXIV, § 24116][/us/pl/114/94/s24116], Dec. 4, 2015, [129 Stat. 1711][/us/stat/129/1711].)
 
 <table>
 
@@ -295,6 +305,8 @@ In subsection (d)(3), the words “(or, if the manufacturer prefers, by certifie
 
  __Amendments__ 
 
+    2015—Subsec. (g). [Pub. L. 114–94][/us/pl/114/94] added subsec. (g).
+
     2012—Subsec. (d)(1). [Pub. L. 112–141, § 31310(a)(1)][/us/pl/112/141/s31310/a/1], substituted “in the manner prescribed by the Secretary, by regulation” for “by first class mail” in introductory provisions.
 
     Subsec. (d)(2). [Pub. L. 112–141, § 31310(a)(2)][/us/pl/112/141/s31310/a/2], substituted “shall be sent in the manner prescribed by the Secretary, by regulation,” for “(except a tire) shall be sent by first class mail” and struck out second sentence which read as follows: “In addition, if the Secretary decides that public notice is required for motor vehicle safety, public notice shall be given in the way required by the Secretary after consulting with the manufacturer.”
@@ -308,6 +320,106 @@ In subsection (d)(3), the words “(or, if the manufacturer prefers, by certifie
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23][/us/usc/t23/s101], Highways.
+
+ __Improvements in Availability of Recall Information__ 
+
+[Pub. L. 114–94, div. B, title XXIV, § 24103(a)][/us/pl/114/94/s24103/a], Dec. 4, 2015, [129 Stat. 1702][/us/stat/129/1702], provided that: 
+
+> “Not later than 2 years after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[probably means Secretary of Transportation\] shall implement current information technology, web design trends, and best practices that will help ensure that motor vehicle safety recall information available to the public on the Federal website is readily accessible and easy to use, including—
+
+>     “(1) by improving the organization, availability, readability, and functionality of the website;
+
+>     “(2) by accommodating high-traffic volume; and
+
+>     “(3) by establishing best practices for scheduling routine website maintenance.”
+
+ __Notification Improvement__ 
+
+[Pub. L. 114–94, div. B, title XXIV, § 24104(a)][/us/pl/114/94/s24104/a], Dec. 4, 2015, [129 Stat. 1703][/us/stat/129/1703], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     Not later than 270 days after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[probably means Secretary of Transportation\] shall prescribe a final rule revising the regulations under section 577.7 of title 49, Code of Federal Regulations, to include notification by electronic means in addition to notification by first class mail.
+
+>     “(2)  __Definition of electronic means__  __.—__ 
+
+>     In this subsection, the term ‘electronic means’ includes electronic mail and may include such other means of electronic notification, such as social media or targeted online campaigns, as determined by the Secretary.”
+
+ __Pilot Grant Program for State Notification to Consumers of Motor Vehicle Recall Status__ 
+
+[Pub. L. 114–94, div. B, title XXIV, § 24105][/us/pl/114/94/s24105], Dec. 4, 2015, [129 Stat. 1704][/us/stat/129/1704], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Not later than October 1, 2016, the Secretary \[probably means Secretary of Transportation\] shall implement a 2-year pilot program to evaluate the feasibility and effectiveness of a State process for informing consumers of open motor vehicle recalls at the time of motor vehicle registration in the State.
+
+>     “(b)  __Grants__  __.—__ 
+
+>     To carry out this program, the Secretary may make a grant to each eligible State, but not more than 6 eligible States in total, that agrees to comply with the requirements under subsection (c). Funds made available to a State under this section shall be used by the State for the pilot program described in subsection (a).
+
+>     “(c)  __Eligibility__  __.—__ 
+
+>     To be eligible for a grant, a State shall—
+
+>         “(1) submit an application in such form and manner as the Secretary prescribes;
+
+>         “(2) agree to notify, at the time of registration, each owner or lessee of a motor vehicle presented for registration in the State of any open recall on that vehicle;
+
+>         “(3) provide the open motor vehicle recall information at no cost to each owner or lessee of a motor vehicle presented for registration in the State; and
+
+>         “(4) provide such other information as the Secretary may require.
+
+>     “(d)  __Awards__  __.—__ 
+
+>     In selecting an applicant for an award under this section, the Secretary shall consider the State’s methodology for determining open recalls on a motor vehicle, for informing consumers of the open recalls, and for determining performance.
+
+>     “(e)  __Performance Period__  __.—__ 
+
+>     Each grant awarded under this section shall require a 2-year performance period.
+
+>     “(f)  __Report__  __.—__ 
+
+>     Not later than 90 days after the completion of the performance period under subsection (e), a grantee shall provide to the Secretary a report of performance containing such information as the Secretary considers necessary to evaluate the extent to which open recalls have been remedied.
+
+>     “(g)  __Evaluation__  __.—__ 
+
+>     Not later than 180 days after the completion of the pilot program, the Secretary shall evaluate the extent to which open recalls identified have been remedied.
+
+>     “(h)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1)  __Consumer__  __.—__ 
+
+>         The term ‘consumer’ includes owner and lessee.
+
+>         “(2)  __Motor vehicle__  __.—__ 
+
+>         The term ‘motor vehicle’ has the meaning given the term under [section 30102(a) of title 49][/us/usc/t49/s30102/a], United States Code.
+
+>         “(3)  __Open recall__  __.—__ 
+
+>         The term ‘open recall’ means a recall for which a notification by a manufacturer has been provided under [section 30119 of title 49][/us/usc/t49/s30119], United States Code, and that has not been remedied under section 30120 of that title.
+
+>         “(4)  __Registration__  __.—__ 
+
+>         The term ‘registration’ means the process for registering motor vehicles in the State.
+
+>         “(5)  __State__  __.—__ 
+
+>         The term ‘State’ has the meaning given the term under [section 101(a) of title 23][/us/usc/t23/s101/a], United States Code.”
+
+ __Tire Recall Database__ 
+
+[Pub. L. 114–94, div. B, title XXIV, § 24335][/us/pl/114/94/s24335], Dec. 4, 2015, [129 Stat. 1716][/us/stat/129/1716], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Secretary \[probably means Secretary of Transportation\] shall establish a publicly available and searchable electronic database of tire recall information that is reported to the Administrator of the National Highway Traffic Safety Administration.
+
+>     “(b)  __Tire Identification Number__  __.—__ 
+
+>     The database established under subsection (a) shall be searchable by Tire Identification Number (TIN) and any other criteria that assists consumers in determining whether a tire is subject to a recall.”
 
 ----------
 
@@ -331,9 +443,12 @@ In subsection (d)(3), the words “(or, if the manufacturer prefers, by certifie
 [/us/stat/108/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F951
 [/us/pl/112/141/s31310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31310
 [/us/stat/126/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F771
+[/us/pl/114/94/s24116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24116
+[/us/stat/129/1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1711
 [/us/usc/t49/s1414/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1414%2Fb%2F2
 [/us/usc/t49/s30120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30120
 [/us/usc/t49/s30121/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30121%2Fc
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141/s31310/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31310%2Fa%2F1
 [/us/pl/112/141/s31310/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31310%2Fa%2F2
 [/us/pl/112/141/s31310/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31310%2Fa%2F3
@@ -343,5 +458,16 @@ In subsection (d)(3), the words “(or, if the manufacturer prefers, by certifie
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/114/94/s24103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24103%2Fa
+[/us/stat/129/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1702
+[/us/pl/114/94/s24104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24104%2Fa
+[/us/stat/129/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1703
+[/us/pl/114/94/s24105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24105
+[/us/stat/129/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1704
+[/us/usc/t49/s30102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30102%2Fa
+[/us/usc/t49/s30119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30119
+[/us/usc/t23/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101%2Fa
+[/us/pl/114/94/s24335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24335
+[/us/stat/129/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1716
 
 

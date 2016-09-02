@@ -55,6 +55,8 @@
 
         (12) The head of a Federal department or agency authorized to receive information regarding an individual from the Register under this section may request and receive such information from the Secretary.
 
+        (13) The Administrator of the Federal Motor Carrier Safety Administration may request the chief driver licensing official of a State to provide information under subsection (a) of this section about an individual in connection with a safety investigation under the Administrator’s jurisdiction.
+
     (c)  __Relationship to Other Laws__  __.—__ 
 
     A request for, or receipt of, information from the Register is subject to sections 552 and 552a of title 5, and other applicable laws of the United States or a State, except that—
@@ -69,7 +71,7 @@
 
     Information provided by a State under the Act of July 14, 1960 ([Public Law 86–660][/us/pl/86/660], [74 Stat. 526][/us/stat/74/526]), as restated by section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 ([Public Law 89–563][/us/pl/89/563], [80 Stat. 730][/us/stat/80/730]), and under this chapter, shall be available under this section during the transition from the register maintained under that Act to the Register maintained under this chapter.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 976][/us/stat/108/976]; [Pub. L. 104–264, title V, § 502(b)][/us/pl/104/264/s502/b], Oct. 9, 1996, [110 Stat. 3262][/us/stat/110/3262]; [Pub. L. 104–324, title II, § 207(b)][/us/pl/104/324/s207/b], Oct. 19, 1996, [110 Stat. 3908][/us/stat/110/3908]; [Pub. L. 105–102, § 2(18)][/us/pl/105/102/s2/18], Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205]; [Pub. L. 105–178, title II, § 2006(b)][/us/pl/105/178/s2006/b], June 9, 1998, [112 Stat. 335][/us/stat/112/335]; [Pub. L. 108–375, div. A, title X, § 1061][/us/pl/108/375/s1061], Oct. 28, 2004, [118 Stat. 2056][/us/stat/118/2056].)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 976][/us/stat/108/976]; [Pub. L. 104–264, title V, § 502(b)][/us/pl/104/264/s502/b], Oct. 9, 1996, [110 Stat. 3262][/us/stat/110/3262]; [Pub. L. 104–324, title II, § 207(b)][/us/pl/104/324/s207/b], Oct. 19, 1996, [110 Stat. 3908][/us/stat/110/3908]; [Pub. L. 105–102, § 2(18)][/us/pl/105/102/s2/18], Nov. 20, 1997, [111 Stat. 2205][/us/stat/111/2205]; [Pub. L. 105–178, title II, § 2006(b)][/us/pl/105/178/s2006/b], June 9, 1998, [112 Stat. 335][/us/stat/112/335]; [Pub. L. 108–375, div. A, title X, § 1061][/us/pl/108/375/s1061], Oct. 28, 2004, [118 Stat. 2056][/us/stat/118/2056]; [Pub. L. 114–94, div. A, title V, § 5512][/us/pl/114/94/s5512], Dec. 4, 2015, [129 Stat. 1556][/us/stat/129/1556].)
 
 <table>
 
@@ -149,6 +151,8 @@ Oct. 25, 1982, Pub. L. 97–364, § 206, 96 Stat. 1743; Dec. 30, 1987, Pub. L.
 
  __Amendments__ 
 
+    2015—Subsec. (b)(13). [Pub. L. 114–94][/us/pl/114/94] added par. (13).
+
     2004—Subsec. (b)(9) to (12). [Pub. L. 108–375][/us/pl/108/375] added par. (9) and redesignated former pars. (9) to (11) as (10) to (12), respectively.
 
     1998—Subsec. (b)(2). [Pub. L. 105–178, § 2006(b)(1)(A)][/us/pl/105/178/s2006/b/1/A], inserted before period at end “, unless the information is about a revocation or suspension still in effect on the date of the request”.
@@ -180,6 +184,10 @@ Oct. 25, 1982, Pub. L. 97–364, § 206, 96 Stat. 1743; Dec. 30, 1987, Pub. L.
     Subsec. (b)(8). [Pub. L. 104–324, § 207(b)][/us/pl/104/324/s207/b], redesignated par. (7), relating to individual seeking employment as pilot, as (8).
 
     [Pub. L. 104–264, § 502(b)][/us/pl/104/264/s502/b], redesignated par. (7), relating to request, as (8).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -221,6 +229,8 @@ Oct. 25, 1982, Pub. L. 97–364, § 206, 96 Stat. 1743; Dec. 30, 1987, Pub. L.
 [/us/stat/112/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F335
 [/us/pl/108/375/s1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1061
 [/us/stat/118/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2056
+[/us/pl/114/94/s5512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5512
+[/us/stat/129/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1556
 [/us/pl/97/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F364
 [/us/stat/96/1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1744
 [/us/pl/105/102/s2/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs2%2F18%2FA
@@ -234,6 +244,7 @@ Oct. 25, 1982, Pub. L. 97–364, § 206, 96 Stat. 1743; Dec. 30, 1987, Pub. L.
 [/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
 [/us/usc/t5/s7311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7311
 [/us/usc/t49/s30302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30302
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/105/178/s2006/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs2006%2Fb%2F1%2FA
 [/us/pl/105/178/s2006/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs2006%2Fb%2F2%2FB
@@ -253,6 +264,9 @@ Oct. 25, 1982, Pub. L. 97–364, § 206, 96 Stat. 1743; Dec. 30, 1987, Pub. L.
 [/us/pl/104/264/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs502%2Fb
 [/us/pl/104/324/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs207%2Fb
 [/us/pl/104/264/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs502%2Fb
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

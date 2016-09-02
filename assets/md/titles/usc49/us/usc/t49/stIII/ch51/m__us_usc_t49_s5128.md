@@ -19,59 +19,47 @@
 
     There are authorized to be appropriated to the Secretary to carry out this chapter (except sections 5107(e), 5108(g)(2), 5113, 5115, 5116, and 5119)—
 
-        (1) $42,338,000 for fiscal year 2013;
+        (1) $53,000,000 for fiscal year 2016;
 
-        (2) $42,762,000 for fiscal year 2014;
+        (2) $55,000,000 for fiscal year 2017;
 
-        (3) $42,762,000 for fiscal year 2015; and
+        (3) $57,000,000 for fiscal year 2018;
 
-        (4) $7,594,344 for the period beginning on October 1, 2015, and ending on December 4, 2015.
+        (4) $58,000,000 for fiscal year 2019; and
+
+        (5) $60,000,000 for fiscal year 2020.
 
     (b)  __Hazardous Materials Emergency Preparedness Fund__  __.—__ 
 
-        (1)  __Fiscal years 2013 through 2015__  __.—__ 
+    From the Hazardous Materials Emergency Preparedness Fund established under section 5116(h), the Secretary may expend, for each of fiscal years 2016 through 2020—
 
-        From the Hazardous Materials Emergency Preparedness Fund established under section 5116(i), the Secretary may expend, during each of fiscal years 2013 through 2015—
+        (1) $21,988,000 to carry out section 5116(a);
 
-            (A) $188,000 to carry out section 5115;
+        (2) $150,000 to carry out section 5116(e);
 
-            (B) $21,800,000 to carry out subsections (a) and (b) of section 5116, of which not less than $13,650,000 shall be available to carry out section 5116(b);
+        (3) $625,000 to publish and distribute the Emergency Response Guidebook under section 5116(h)(3); and
 
-            (C) $150,000 to carry out section 5116(f);
-
-            (D) $625,000 to publish and distribute the Emergency Response Guidebook under section 5116(i)(3); and
-
-            (E) $1,000,000 to carry out section 5116(j).
-
-        (2)  __Fiscal year 2016__  __.—__ 
-
-        From the Hazardous Materials Emergency Preparedness Fund established under section 5116(i), the Secretary may expend for the period beginning on October 1, 2015, and ending on December 4, 2015—
-
-            (A) $33,388 to carry out section 5115;
-
-            (B) $3,871,585 to carry out subsections (a) and (b) of section 5116, of which not less than $2,424,180 shall be available to carry out section 5116(b);
-
-            (C) $26,639 to carry out section 5116(f);
-
-            (D) $110,997 to publish and distribute the Emergency Response Guidebook under section 5116(i)(3); and
-
-            (E) $177,596 to carry out section 5116(j).
+        (4) $1,000,000 to carry out section 5116(i).
 
     (c)  __Hazardous Materials Training Grants__  __.—__ 
 
-    From the Hazardous Materials Emergency Preparedness Fund established pursuant to section 5116(i), the Secretary may expend $4,000,000 for each of fiscal years 2013 through 2015 and $710,383 for the period beginning on October 1, 2015, and ending on December 4, 2015, to carry out section 5107(e).
+    From the Hazardous Materials Emergency Preparedness Fund established pursuant to section 5116(h), the Secretary may expend $4,000,000 for each of fiscal years 2016 through 2020 to carry out section 5107(e).
 
-    (d) __Credits to Appropriations.—__ 
+    (d)  __Community Safety Grants__  __.—__ 
+
+    Of the amounts made available under subsection (a) to carry out this chapter, the Secretary shall withhold $1,000,000 for each of fiscal years 2016 through 2020 to carry out section 5107(i).
+
+    (e) __Credits to Appropriations.—__ 
 
         (1)  __Expenses__  __.—__ 
 
-        In addition to amounts otherwise made available to carry out this chapter, the Secretary may credit amounts received from a State, Indian tribe, or other public authority or private entity for expenses the Secretary incurs in providing training to the State, authority, or entity.
+        In addition to amounts otherwise made available to carry out this chapter, the Secretary may credit amounts received from a State, Indian tribe, or other public authority or private entity for expenses the Secretary incurs in providing training to the State, Indian tribe, authority, or entity.
 
         (2)  __Availability of amounts__  __.—__ 
 
         Amounts made available under this section shall remain available until expended.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 783][/us/stat/108/783], § 5127; [Pub. L. 103–311, title I][/us/pl/103/311], §§ 103, 119(b), (c)(4), Aug. 26, 1994, [108 Stat. 1673][/us/stat/108/1673], 1680; renumbered § 5128 and amended [Pub. L. 109–59, title VII][/us/pl/109/59], §§ 7123(b), 7125, Aug. 10, 2005, [119 Stat. 1907][/us/stat/119/1907], 1908; [Pub. L. 110–244, title III, § 302(f)][/us/pl/110/244/s302/f], June 6, 2008, [122 Stat. 1618][/us/stat/122/1618]; [Pub. L. 112–141, div. C, title III, § 33017][/us/pl/112/141/s33017], July 6, 2012, [126 Stat. 841][/us/stat/126/841]; [Pub. L. 113–159, title I, § 1301][/us/pl/113/159/s1301], Aug. 8, 2014, [128 Stat. 1847][/us/stat/128/1847]; [Pub. L. 114–21, title I, § 1301][/us/pl/114/21/s1301], May 29, 2015, [129 Stat. 225][/us/stat/129/225]; [Pub. L. 114–41, title I, § 1301][/us/pl/114/41/s1301], July 31, 2015, [129 Stat. 453][/us/stat/129/453]; [Pub. L. 114–73, title I, § 1301][/us/pl/114/73/s1301], Oct. 29, 2015, [129 Stat. 575][/us/stat/129/575]; [Pub. L. 114–87, title I, § 1301][/us/pl/114/87/s1301], Nov. 20, 2015, [129 Stat. 684][/us/stat/129/684].)
+([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 783][/us/stat/108/783], § 5127; [Pub. L. 103–311, title I][/us/pl/103/311], §§ 103, 119(b), (c)(4), Aug. 26, 1994, [108 Stat. 1673][/us/stat/108/1673], 1680; renumbered § 5128 and amended [Pub. L. 109–59, title VII][/us/pl/109/59], §§ 7123(b), 7125, Aug. 10, 2005, [119 Stat. 1907][/us/stat/119/1907], 1908; [Pub. L. 110–244, title III, § 302(f)][/us/pl/110/244/s302/f], June 6, 2008, [122 Stat. 1618][/us/stat/122/1618]; [Pub. L. 112–141, div. C, title III, § 33017][/us/pl/112/141/s33017], July 6, 2012, [126 Stat. 841][/us/stat/126/841]; [Pub. L. 113–159, title I, § 1301][/us/pl/113/159/s1301], Aug. 8, 2014, [128 Stat. 1847][/us/stat/128/1847]; [Pub. L. 114–21, title I, § 1301][/us/pl/114/21/s1301], May 29, 2015, [129 Stat. 225][/us/stat/129/225]; [Pub. L. 114–41, title I, § 1301][/us/pl/114/41/s1301], July 31, 2015, [129 Stat. 453][/us/stat/129/453]; [Pub. L. 114–73, title I, § 1301][/us/pl/114/73/s1301], Oct. 29, 2015, [129 Stat. 575][/us/stat/129/575]; [Pub. L. 114–87, title I, § 1301][/us/pl/114/87/s1301], Nov. 20, 2015, [129 Stat. 684][/us/stat/129/684]; [Pub. L. 114–94, div. A, title VII, § 7101][/us/pl/114/94/s7101], Dec. 4, 2015, [129 Stat. 1588][/us/stat/129/1588].)
 
 <table>
 
@@ -233,7 +221,9 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 121(h); added Nov. 16, 1990,
 
  __Amendments__ 
 
-    2015—Subsec. (a)(3). [Pub. L. 114–41, § 1301(a)(2)][/us/pl/114/41/s1301/a/2], added par. (3) and struck out former par. (3) which read as follows: “$35,615,474 for the period beginning on October 1, 2014, and ending on July 31, 2015.”
+    2015—[Pub. L. 114–94][/us/pl/114/94] amended section generally. Prior to amendment, section related to authorization of appropriations for fiscal years 2013 to 2015.
+
+    Subsec. (a)(3). [Pub. L. 114–41, § 1301(a)(2)][/us/pl/114/41/s1301/a/2], added par. (3) and struck out former par. (3) which read as follows: “$35,615,474 for the period beginning on October 1, 2014, and ending on July 31, 2015.”
 
     [Pub. L. 114–21, § 1301(a)][/us/pl/114/21/s1301/a], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “$28,468,948 for the period beginning on October 1, 2014, and ending on May 31, 2015.”
 
@@ -323,6 +313,10 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 121(h); added Nov. 16, 1990,
 
     [Pub. L. 103–311, § 119(b)][/us/pl/103/311/s119/b], designated existing provisions as par. (1) and added par. (2).
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23][/us/usc/t23/s101], Highways.
@@ -354,6 +348,9 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 121(h); added Nov. 16, 1990,
 [/us/stat/129/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F575
 [/us/pl/114/87/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1301
 [/us/stat/129/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F684
+[/us/pl/114/94/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7101
+[/us/stat/129/1588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1588
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/41/s1301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1301%2Fa%2F2
 [/us/pl/114/21/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1301%2Fa
 [/us/pl/114/87/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1301%2Fa
@@ -381,6 +378,9 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 121(h); added Nov. 16, 1990,
 [/us/usc/t49/s5116/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5116%2Fi
 [/us/usc/t49/s5107/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5107%2Fe
 [/us/pl/103/311/s119/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs119%2Fb
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

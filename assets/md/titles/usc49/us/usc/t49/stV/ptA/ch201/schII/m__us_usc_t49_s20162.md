@@ -23,7 +23,7 @@
 
         (2) a requirement that railroad carriers, contractors, and subcontractors develop and submit training and qualification plans to the Secretary for approval, including training programs and information deemed necessary by the Secretary to ensure that all safety-related railroad employees receive appropriate training in a timely manner; and
 
-        (3) a minimum training curriculum, and ongoing training criteria, testing, and skills evaluation measures to ensure that safety-related railroad employees, and contractor and subcontractor employees, charged with the inspection of track or railroad equipment are qualified to assess railroad compliance with Federal standards to identify defective conditions and initiate immediate remedial action to correct critical safety defects that are known to contribute to derailments, accidents, incidents, or injuries, and, in implementing the requirements of this paragraph, take into consideration existing training programs of railroad carriers.
+        (3) a minimum training curriculum, and ongoing training criteria, testing, and skills evaluation measures to ensure that safety-related railroad employees, and contractor and subcontractor employees, charged with the inspection of track or railroad equipment are qualified to assess railroad carrier compliance with Federal standards to identify defective conditions and initiate immediate remedial action to correct critical safety defects that are known to contribute to derailments, accidents, incidents, or injuries, and, in implementing the requirements of this paragraph, take into consideration existing training programs of railroad carriers.
 
     (b)  __Approval__  __.—__ 
 
@@ -33,11 +33,19 @@
 
     The Secretary may exempt railroad carriers and railroad carrier contractors and subcontractors from submitting training plans for which the Secretary has issued training regulations before the date of enactment of the Rail Safety Improvement Act of 2008.
 
-(Added [Pub. L. 110–432, div. A, title IV, § 401(a)][/us/pl/110/432/s401/a], Oct. 16, 2008, [122 Stat. 4883][/us/stat/122/4883].)
+(Added [Pub. L. 110–432, div. A, title IV, § 401(a)][/us/pl/110/432/s401/a], Oct. 16, 2008, [122 Stat. 4883][/us/stat/122/4883]; amended [Pub. L. 114–94, div. A, title XI, § 11316(h)][/us/pl/114/94/s11316/h], Dec. 4, 2015, [129 Stat. 1677][/us/stat/129/1677].)
 
  __References in Text__ 
 
     The date of enactment of the Rail Safety Improvement Act of 2008, referred to in subsecs. (a) and (c), is the date of enactment of div. A of [Pub. L. 110–432][/us/pl/110/432], which was approved Oct. 16, 2008.
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(3). [Pub. L. 114–94][/us/pl/114/94] substituted “railroad carrier compliance with Federal standards” for “railroad compliance with Federal standards”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Report and Regulations on Certification of Certain Crafts or Classes of Employees__ 
 
@@ -78,7 +86,13 @@
 
 [/us/pl/110/432/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs401%2Fa
 [/us/stat/122/4883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4883
+[/us/pl/114/94/s11316/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fh
+[/us/stat/129/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1677
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/110/432/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs402%2Fb
 [/us/stat/122/4884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4884
 [/us/usc/t49/s20162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20162

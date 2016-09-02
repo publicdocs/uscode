@@ -61,17 +61,17 @@
 
              the term “local governmental authority”—
 
-                (i) has the same meaning given that term by section 5302(a)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title; and
+                (i) has the same meaning given that term by [section 5302 of this title][/us/usc/t49/s5302]; and
 
                 (ii) includes a person or entity that contracts with the local governmental authority to provide transportation services; and
 
-            (B) the term “mass transportation” means transportation services described in section 5302(a) 1 of this title that are provided by rail.
+            (B) the term “public transportation” means transportation services described in [section 5302 of this title][/us/usc/t49/s5302] that are provided by rail.
 
         (2)
 
          Except as provided in paragraph (3), the Board does not have jurisdiction under this part over—
 
-            (A) mass transportation provided by a local government authority; or
+            (A) public transportation provided by a local government authority; or
 
             (B) a solid waste rail transfer facility as defined in [section 10908 of this title][/us/usc/t49/s10908], except as provided under sections 10908 and 10909 of this title.
 
@@ -89,11 +89,9 @@
 
             (B) The Board has jurisdiction under sections 11102 and 11103 of this title over transportation provided by a local governmental authority only if the Board finds that such governmental authority meets all of the standards and requirements for being a rail carrier providing transportation subject to the jurisdiction of the Interstate Commerce Commission that were in effect immediately before January 1, 1996. The enactment of the ICC Termination Act of 1995 shall neither expand nor contract coverage of employees and employers by the Railway Labor Act, the Railroad Retirement Act of 1974, the Railroad Retirement Tax Act, and the Railroad Unemployment Insurance Act.
 
-(Added [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 807][/us/stat/109/807]; amended [Pub. L. 104–287, § 5(21)][/us/pl/104/287/s5/21], Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 110–432, div. A, title VI, § 602][/us/pl/110/432/s602], Oct. 16, 2008, [122 Stat. 4900][/us/stat/122/4900].)
+(Added [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 807][/us/stat/109/807]; amended [Pub. L. 104–287, § 5(21)][/us/pl/104/287/s5/21], Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 110–432, div. A, title VI, § 602][/us/pl/110/432/s602], Oct. 16, 2008, [122 Stat. 4900][/us/stat/122/4900]; [Pub. L. 114–94, div. A, title III, § 3030(g)][/us/pl/114/94/s3030/g], Dec. 4, 2015, [129 Stat. 1497][/us/stat/129/1497].)
 
  __References in Text__ 
-
-    [Section 5302 of this title][/us/usc/t49/s5302], referred to in subsec. (c)(1)(A)(i), (B), was amended generally by [Pub. L. 112–141, div. B, § 20004][/us/pl/112/141/s20004], July 6, 2012, [126 Stat. 623][/us/stat/126/623], and, as so amended, no longer contains a subsec. (a) or a definition of “mass transportation”. However, the term “local governmental authority” is defined elsewhere in that section.
 
     The ICC Termination Act of 1995, referred to in subsec. (c)(3)(B), is [Pub. L. 104–88][/us/pl/104/88], Dec. 29, 1995, [109 Stat. 803][/us/stat/109/803]. For complete classification of this Act to the Code, see Short Title of 1995 Amendment note set out under [section 101 of this title][/us/usc/t49/s101] and Tables.
 
@@ -113,17 +111,27 @@
 
  __Amendments__ 
 
+    2015—Subsec. (c)(1)(A)(i). [Pub. L. 114–94, § 3030(g)(1)(A)][/us/pl/114/94/s3030/g/1/A], substituted “section 5302” for “section 5302(a)”.
+
+    Subsec. (c)(1)(B). [Pub. L. 114–94, § 3030(g)(1)(B)][/us/pl/114/94/s3030/g/1/B], substituted “public transportation” for “mass transportation” and “section 5302” for “section 5302(a)”.
+
+    Subsec. (c)(2)(A). [Pub. L. 114–94, § 3030(g)(2)][/us/pl/114/94/s3030/g/2], substituted “public transportation” for “ mass transportation”.
+
     2008—Subsec. (c)(2). [Pub. L. 110–432][/us/pl/110/432] amended par. (2) generally. Prior to amendment, text read as follows: “Except as provided in paragraph (3), the Board does not have jurisdiction under this part over mass transportation provided by a local governmental authority.”
 
     1996—Subsec. (c)(3)(B). [Pub. L. 104–287][/us/pl/104/287] substituted “January 1, 1996” for “the effective date of the ICC Termination Act of 1995”.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective Date__ 
 
-    Chapter effective Jan. 1, 1996, except as otherwise provided in [Pub. L. 104–88][/us/pl/104/88], see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as a note under [section 701 of this title][/us/usc/t49/s701].
+    Chapter effective Jan. 1, 1996, except as otherwise provided in [Pub. L. 104–88][/us/pl/104/88], see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as a note under [section 1301 of this title][/us/usc/t49/s1301].
 
  __Abolition of Interstate Commerce Commission__ 
 
-    Interstate Commerce Commission abolished by [section 101 of Pub. L. 104–88][/us/pl/104/88/s101], set out as a note under [section 701 of this title][/us/usc/t49/s701].
+    Interstate Commerce Commission abolished by [section 101 of Pub. L. 104–88][/us/pl/104/88/s101], set out as a note under [section 1301 of this title][/us/usc/t49/s1301].
 
 ----------
 
@@ -132,6 +140,8 @@
 ----------
 ----------
 
+[/us/usc/t49/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5302
+[/us/usc/t49/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5302
 [/us/usc/t49/s10908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10908
 [/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
 [/us/stat/109/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F807
@@ -139,9 +149,8 @@
 [/us/stat/110/3390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3390
 [/us/pl/110/432/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs602
 [/us/stat/122/4900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4900
-[/us/usc/t49/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5302
-[/us/pl/112/141/s20004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20004
-[/us/stat/126/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F623
+[/us/pl/114/94/s3030/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3030%2Fg
+[/us/stat/129/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1497
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/stat/109/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F803
 [/us/usc/t49/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs101
@@ -167,12 +176,18 @@
 [/us/pl/103/272/s4/j/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fj%2F15
 [/us/stat/108/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1369
 [/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/114/94/s3030/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3030%2Fg%2F1%2FA
+[/us/pl/114/94/s3030/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3030%2Fg%2F1%2FB
+[/us/pl/114/94/s3030/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3030%2Fg%2F2
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/pl/104/88/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs101
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 
 

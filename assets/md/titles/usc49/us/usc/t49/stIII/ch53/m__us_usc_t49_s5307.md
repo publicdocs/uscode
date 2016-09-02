@@ -33,9 +33,13 @@
 
         The Secretary may make grants under this section to finance the operating cost of equipment and facilities for use in public transportation, excluding rail fixed guideway, in an urbanized area with a population of not fewer than 200,000 individuals, as determined by the Bureau of the Census—
 
-            (A) for public transportation systems that operate 75 or fewer buses in fixed route service during peak service hours, in an amount not to exceed 75 percent of the share of the apportionment which is attributable to such systems within the urbanized area, as measured by vehicle revenue hours; and
+            (A) for public transportation systems that operate 75 or fewer buses in fixed route service or demand response service, excluding ADA complementary paratransit service, during peak service hours, in an amount not to exceed 75 percent of the share of the apportionment which is attributable to such systems within the urbanized area, as measured by vehicle revenue hours; and
 
-            (B) for public transportation systems that operate a minimum of 76 buses and a maximum of 100 buses in fixed route service during peak service hours, in an amount not to exceed 50 percent of the share of the apportionment which is attributable to such systems within the urbanized area, as measured by vehicle revenue hours.
+            (B) for public transportation systems that operate a minimum of 76 buses and a maximum of 100 buses in fixed route service or demand response service, excluding ADA complementary paratransit service, during peak service hours, in an amount not to exceed 50 percent of the share of the apportionment which is attributable to such systems within the urbanized area, as measured by vehicle revenue hours.
+
+        (3)  __Exception to the special rule__  __.—__ 
+
+        Notwithstanding paragraph (2), if a public transportation system described in such paragraph executes a written agreement with 1 or more other public transportation systems within the urbanized area to allocate funds for the purposes described in the paragraph by a method other than by measuring vehicle revenue hours, each public transportation system that is a party to the written agreement may follow the terms of the written agreement without regard to measured vehicle revenue hours referred to in the paragraph.
 
     (b)  __Program of Projects__  __.—__ 
 
@@ -67,7 +71,7 @@
 
             (B) has or will have satisfactory continuing control over the use of equipment and facilities;
 
-            (C) will maintain equipment and facilities;
+            (C) will maintain equipment and facilities in accordance with the recipient’s transit asset management plan;
 
             (D)
 
@@ -95,13 +99,7 @@
 
                 (ii) has decided that the expenditure for security projects is not necessary;
 
-            (K)
-
-             in the case of a recipient for an urbanized area with a population of not fewer than 200,000 individuals, as determined by the Bureau of the Census—
-
-                (i) will expend not less than 1 percent of the amount the recipient receives each fiscal year under this section for associated transit improvements, as defined in section 5302; and
-
-                (ii) will submit an annual report listing projects carried out in the preceding fiscal year with those funds; and
+            (K) in the case of a recipient for an urbanized area with a population of not fewer than 200,000 individuals, as determined by the Bureau of the Census, will submit an annual report listing projects carried out in the preceding fiscal year under this section for associated transit improvements as defined in section 5302; and
 
             (L) will comply with section 5329(d); and
 
@@ -211,7 +209,7 @@
 
         The Secretary shall solicit grant applications and make grants for eligible projects on a competitive basis.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 795][/us/stat/108/795]; [Pub. L. 103–429, § 6(7)][/us/pl/103/429/s6/7], Oct. 31, 1994, [108 Stat. 4378][/us/stat/108/4378]; [Pub. L. 104–287, § 5(11)][/us/pl/104/287/s5/11], Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389]; [Pub. L. 105–178, title III, § 3007(a)(1)][/us/pl/105/178/s3007/a/1], (b)–(h), June 9, 1998, [112 Stat. 347][/us/stat/112/347], 348; [Pub. L. 105–206, title IX, § 9009(e)][/us/pl/105/206/s9009/e], July 22, 1998, [112 Stat. 855][/us/stat/112/855]; [Pub. L. 107–232, § 1][/us/pl/107/232/s1], Oct. 1, 2002, [116 Stat. 1478][/us/stat/116/1478]; [Pub. L. 108–88, § 8(n)][/us/pl/108/88/s8/n], Sept. 30, 2003, [117 Stat. 1125][/us/stat/117/1125]; [Pub. L. 108–202, § 9(n)][/us/pl/108/202/s9/n], Feb. 29, 2004, [118 Stat. 488][/us/stat/118/488]; [Pub. L. 108–224, § 7(n)][/us/pl/108/224/s7/n], Apr. 30, 2004, [118 Stat. 636][/us/stat/118/636]; [Pub. L. 108–263, § 7(n)][/us/pl/108/263/s7/n], June 30, 2004, [118 Stat. 708][/us/stat/118/708]; [Pub. L. 108–280, § 7(n)][/us/pl/108/280/s7/n], July 30, 2004, [118 Stat. 885][/us/stat/118/885]; [Pub. L. 108–310, § 8(n)][/us/pl/108/310/s8/n], Sept. 30, 2004, [118 Stat. 1158][/us/stat/118/1158]; [Pub. L. 109–14, § 7(m)][/us/pl/109/14/s7/m], May 31, 2005, [119 Stat. 333][/us/stat/119/333]; [Pub. L. 109–20, § 7(m)][/us/pl/109/20/s7/m], July 1, 2005, [119 Stat. 355][/us/stat/119/355]; [Pub. L. 109–35, § 7(m)][/us/pl/109/35/s7/m], July 20, 2005, [119 Stat. 389][/us/stat/119/389]; [Pub. L. 109–37, § 7(m)][/us/pl/109/37/s7/m], July 22, 2005, [119 Stat. 404][/us/stat/119/404]; [Pub. L. 109–40, § 7(m)][/us/pl/109/40/s7/m], July 28, 2005, [119 Stat. 420][/us/stat/119/420]; [Pub. L. 109–59, title III][/us/pl/109/59], §§ 3002(b)(4), 3009(a)–(h), Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545], 1568–1571; [Pub. L. 110–244, title II, § 201(c)][/us/pl/110/244/s201/c], June 6, 2008, [122 Stat. 1609][/us/stat/122/1609]; [Pub. L. 111–147, title IV, § 432][/us/pl/111/147/s432], Mar. 18, 2010, [124 Stat. 88][/us/stat/124/88]; [Pub. L. 111–322, title II, § 2302][/us/pl/111/322/s2302], Dec. 22, 2010, [124 Stat. 3526][/us/stat/124/3526]; [Pub. L. 112–5, title III, § 302][/us/pl/112/5/s302], Mar. 4, 2011, [125 Stat. 18][/us/stat/125/18]; [Pub. L. 112–30, title I, § 132][/us/pl/112/30/s132], Sept. 16, 2011, [125 Stat. 350][/us/stat/125/350]; [Pub. L. 112–102, title III, § 302][/us/pl/112/102/s302], Mar. 30, 2012, [126 Stat. 275][/us/stat/126/275]; [Pub. L. 112–140, title III, § 302][/us/pl/112/140/s302], June 29, 2012, [126 Stat. 396][/us/stat/126/396]; [Pub. L. 112–141, div. B, § 20007][/us/pl/112/141/s20007], div. G, title III, § 113002, July 6, 2012, [126 Stat. 652][/us/stat/126/652], 983.)
+([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 795][/us/stat/108/795]; [Pub. L. 103–429, § 6(7)][/us/pl/103/429/s6/7], Oct. 31, 1994, [108 Stat. 4378][/us/stat/108/4378]; [Pub. L. 104–287, § 5(11)][/us/pl/104/287/s5/11], Oct. 11, 1996, [110 Stat. 3389][/us/stat/110/3389]; [Pub. L. 105–178, title III, § 3007(a)(1)][/us/pl/105/178/s3007/a/1], (b)–(h), June 9, 1998, [112 Stat. 347][/us/stat/112/347], 348; [Pub. L. 105–206, title IX, § 9009(e)][/us/pl/105/206/s9009/e], July 22, 1998, [112 Stat. 855][/us/stat/112/855]; [Pub. L. 107–232, § 1][/us/pl/107/232/s1], Oct. 1, 2002, [116 Stat. 1478][/us/stat/116/1478]; [Pub. L. 108–88, § 8(n)][/us/pl/108/88/s8/n], Sept. 30, 2003, [117 Stat. 1125][/us/stat/117/1125]; [Pub. L. 108–202, § 9(n)][/us/pl/108/202/s9/n], Feb. 29, 2004, [118 Stat. 488][/us/stat/118/488]; [Pub. L. 108–224, § 7(n)][/us/pl/108/224/s7/n], Apr. 30, 2004, [118 Stat. 636][/us/stat/118/636]; [Pub. L. 108–263, § 7(n)][/us/pl/108/263/s7/n], June 30, 2004, [118 Stat. 708][/us/stat/118/708]; [Pub. L. 108–280, § 7(n)][/us/pl/108/280/s7/n], July 30, 2004, [118 Stat. 885][/us/stat/118/885]; [Pub. L. 108–310, § 8(n)][/us/pl/108/310/s8/n], Sept. 30, 2004, [118 Stat. 1158][/us/stat/118/1158]; [Pub. L. 109–14, § 7(m)][/us/pl/109/14/s7/m], May 31, 2005, [119 Stat. 333][/us/stat/119/333]; [Pub. L. 109–20, § 7(m)][/us/pl/109/20/s7/m], July 1, 2005, [119 Stat. 355][/us/stat/119/355]; [Pub. L. 109–35, § 7(m)][/us/pl/109/35/s7/m], July 20, 2005, [119 Stat. 389][/us/stat/119/389]; [Pub. L. 109–37, § 7(m)][/us/pl/109/37/s7/m], July 22, 2005, [119 Stat. 404][/us/stat/119/404]; [Pub. L. 109–40, § 7(m)][/us/pl/109/40/s7/m], July 28, 2005, [119 Stat. 420][/us/stat/119/420]; [Pub. L. 109–59, title III][/us/pl/109/59], §§ 3002(b)(4), 3009(a)–(h), Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545], 1568–1571; [Pub. L. 110–244, title II, § 201(c)][/us/pl/110/244/s201/c], June 6, 2008, [122 Stat. 1609][/us/stat/122/1609]; [Pub. L. 111–147, title IV, § 432][/us/pl/111/147/s432], Mar. 18, 2010, [124 Stat. 88][/us/stat/124/88]; [Pub. L. 111–322, title II, § 2302][/us/pl/111/322/s2302], Dec. 22, 2010, [124 Stat. 3526][/us/stat/124/3526]; [Pub. L. 112–5, title III, § 302][/us/pl/112/5/s302], Mar. 4, 2011, [125 Stat. 18][/us/stat/125/18]; [Pub. L. 112–30, title I, § 132][/us/pl/112/30/s132], Sept. 16, 2011, [125 Stat. 350][/us/stat/125/350]; [Pub. L. 112–102, title III, § 302][/us/pl/112/102/s302], Mar. 30, 2012, [126 Stat. 275][/us/stat/126/275]; [Pub. L. 112–140, title III, § 302][/us/pl/112/140/s302], June 29, 2012, [126 Stat. 396][/us/stat/126/396]; [Pub. L. 112–141, div. B, § 20007][/us/pl/112/141/s20007], div. G, title III, § 113002, July 6, 2012, [126 Stat. 652][/us/stat/126/652], 983; [Pub. L. 114–94, div. A, title III, § 3004][/us/pl/114/94/s3004], Dec. 4, 2015, [129 Stat. 1450][/us/stat/129/1450].)
 
 <table>
 
@@ -663,6 +661,18 @@ In subsection (n)(2), the references to sections 5302(a)(8) and 5318 are added f
 
  __Amendments__ 
 
+    2015—Subsec. (a)(2). [Pub. L. 114–94, § 3004(1)(A)][/us/pl/114/94/s3004/1/A], inserted “or demand response service, excluding ADA complementary paratransit service,” before “during peak” in subpars. (A) and (B).
+
+    Subsec. (a)(3). [Pub. L. 114–94, § 3004(1)(B)][/us/pl/114/94/s3004/1/B], added par. (3).
+
+    Subsec. (c)(1)(C). [Pub. L. 114–94, § 3004(2)(A)][/us/pl/114/94/s3004/2/A], inserted “in accordance with the recipient’s transit asset management plan” after “equipment and facilities”.
+
+    Subsec. (c)(1)(K). [Pub. L. 114–94, § 3004(2)(B)][/us/pl/114/94/s3004/2/B], substituted “Census, will submit an annual report listing projects carried out in the preceding fiscal year under this section for associated transit improvements as defined in section 5302; and” for “Census—
+
+    “(i) will expend not less than 1 percent of the amount the recipient receives each fiscal year under this section for associated transit improvements, as defined in section 5302; and
+
+    “(ii) will submit an annual report listing projects carried out in the preceding fiscal year with those funds; and”.
+
     2012—[Pub. L. 112–141, § 20007][/us/pl/112/141/s20007], amended section generally. Prior to amendment, section related to urbanized area formula grants and consisted of subsecs. (a) to (l).
 
     Subsec. (b)(2). [Pub. L. 112–141, § 113002(1)][/us/pl/112/141/s113002/1], substituted “Special rule for fiscal years 2005 through 2012” for “Special rule for fiscal years 2005 through 2011 and the period beginning on october 1, 2011, and ending on june 30, 2012” in heading.
@@ -847,6 +857,10 @@ In subsection (n)(2), the references to sections 5302(a)(8) and 5318 are added f
 
     Subsec. (d)(1)(E)(iii). [Pub. L. 103–429, § 6(7)(B)][/us/pl/103/429/s6/7/B], substituted “Buy America” for “Buy-American”.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective and Termination Dates of 2012 Amendment__ 
 
     Amendment by [section 20007 of Pub. L. 112–141][/us/pl/112/141/s20007] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as a note under [section 101 of Title 23][/us/usc/t23/s101], Highways.
@@ -949,6 +963,8 @@ In subsection (n)(2), the references to sections 5302(a)(8) and 5318 are added f
 [/us/stat/126/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F396
 [/us/pl/112/141/s20007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20007
 [/us/stat/126/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F652
+[/us/pl/114/94/s3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3004
+[/us/stat/129/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1450
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/stat/105/2088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2088
 [/us/usc/t49/s5336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5336
@@ -963,6 +979,10 @@ In subsection (n)(2), the references to sections 5302(a)(8) and 5318 are added f
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
+[/us/pl/114/94/s3004/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3004%2F1%2FA
+[/us/pl/114/94/s3004/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3004%2F1%2FB
+[/us/pl/114/94/s3004/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3004%2F2%2FA
+[/us/pl/114/94/s3004/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3004%2F2%2FB
 [/us/pl/112/141/s20007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20007
 [/us/pl/112/141/s113002/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs113002%2F1
 [/us/pl/112/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140
@@ -1057,6 +1077,9 @@ In subsection (n)(2), the references to sections 5302(a)(8) and 5318 are added f
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/103/429/s6/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F7%2FA
 [/us/pl/103/429/s6/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F7%2FB
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141/s20007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20007
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

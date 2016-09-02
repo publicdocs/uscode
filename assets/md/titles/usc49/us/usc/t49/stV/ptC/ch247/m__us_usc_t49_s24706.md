@@ -17,15 +17,15 @@
 
     (a)  __Notice of Discontinuance__  __.—__ 
 
-        (1) Except as provided in subsection (b) of this section, at least 180 days before a discontinuance under section 24704  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or or  <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup>  discontinuing service over a route, Amtrak shall give notice of the discontinuance in the way Amtrak decides will give a State, a regional or local authority, or another person the opportunity to agree to share or assume the cost of any part of the train, route, or service to be discontinued.
+        (1) Except as provided in subsection (b) of this section, at least 180 days before discontinuing service over a route, Amtrak shall give notice of the discontinuance in the way Amtrak decides will give a State, a regional or local authority, or another person the opportunity to agree to share or assume the cost of any part of the train, route, or service to be discontinued.
 
-        (2) Notice of the discontinuance under section 24704 1 or paragraph (1) shall be posted in all stations served by the train to be discontinued at least 14 days before the discontinuance.
+        (2) Notice of the discontinuance under paragraph (1) shall be posted in all stations served by the train to be discontinued at least 14 days before the discontinuance.
 
     (b)  __Discontinuance for Lack of Appropriations__  __.—__ 
 
         (1)
 
-         Amtrak may discontinue service under section 24704 1 or subsection (a)(1) during—
+         Amtrak may discontinue service under subsection (a)(1) during—
 
             (A) the first month of a fiscal year if the authorization of appropriations and the appropriations for Amtrak are not enacted at least 90 days before the beginning of the fiscal year; and
 
@@ -37,7 +37,7 @@
 
     This section applies to all service over routes provided by Amtrak, notwithstanding any provision of [section 24701 of this title][/us/usc/t49/s24701] or any other provision of this title except section 24702(b).
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 927][/us/stat/108/927]; [Pub. L. 105–134, title I][/us/pl/105/134], §§ 101(c), 142(a), Dec. 2, 1997, [111 Stat. 2572][/us/stat/111/2572], 2576; [Pub. L. 110–432, div. B, title II, § 201(d)][/us/pl/110/432/s201/d], Oct. 16, 2008, [122 Stat. 4910][/us/stat/122/4910].)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 927][/us/stat/108/927]; [Pub. L. 105–134, title I][/us/pl/105/134], §§ 101(c), 142(a), Dec. 2, 1997, [111 Stat. 2572][/us/stat/111/2572], 2576; [Pub. L. 110–432, div. B, title II, § 201(d)][/us/pl/110/432/s201/d], Oct. 16, 2008, [122 Stat. 4910][/us/stat/122/4910]; [Pub. L. 114–94, div. A, title XI, § 11316(n)(1)][/us/pl/114/94/s11316/n/1], Dec. 4, 2015, [129 Stat. 1678][/us/stat/129/1678].)
 
 <table>
 
@@ -259,11 +259,13 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 405(g); added Aug. 13, 1981
 
     In subsection (c)(5), the words “be construed to” are omitted as surplus. The text of 45:565(c) (last sentence) is omitted as executed.
 
- __References in Text__ 
-
-    [Section 24704 of this title][/us/usc/t49/s24704], referred to in text, was repealed by [Pub. L. 105–134, title I, § 105(a)][/us/pl/105/134/s105/a], Dec. 2, 1997, [111 Stat. 2573][/us/stat/111/2573].
-
  __Amendments__ 
+
+    2015—Subsec. (a)(1). [Pub. L. 114–94, § 11316(n)(1)(A)(i)][/us/pl/114/94/s11316/n/1/A/i], struck out “a discontinuance under section 24704 or or” after “before”.
+
+    Subsec. (a)(2). [Pub. L. 114–94, § 11316(n)(1)(A)(ii)][/us/pl/114/94/s11316/n/1/A/ii], struck out “section 24704 or” after “under”.
+
+    Subsec. (b)(1). [Pub. L. 114–94, § 11316(n)(1)(B)][/us/pl/114/94/s11316/n/1/B], struck out “section 24704 or” after “under” in introductory provisions.
 
     2008—Subsec. (c). [Pub. L. 110–432][/us/pl/110/432] added subsec. (c).
 
@@ -274,6 +276,10 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 405(g); added Aug. 13, 1981
     Subsec. (b)(1). [Pub. L. 105–134, § 101(c)(5)][/us/pl/105/134/s101/c/5], which directed substitution of “subsection (a)(1)” for “section 24707(a) or (b) of this title”, was executed by making the substitution for “24707(a) or (b) of this title” to reflect the probable intent of Congress.
 
     Subsec. (c). [Pub. L. 105–134, § 142(a)][/us/pl/105/134/s142/a], struck out subsec. (c) which related to employee protective arrangements.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 1997 Amendment__ 
 
@@ -365,20 +371,25 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 405(g); added Aug. 13, 1981
 [/us/stat/111/2572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2572
 [/us/pl/110/432/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs201%2Fd
 [/us/stat/122/4910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4910
+[/us/pl/114/94/s11316/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fn%2F1
+[/us/stat/129/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1678
 [/us/usc/t49/s11347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11347
 [/us/pl/91/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F518
 [/us/stat/84/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1337
 [/us/act/1978-10-17/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1978-10-17%2Fs3%2Fb
 [/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1466
-[/us/usc/t49/s24704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24704
-[/us/pl/105/134/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs105%2Fa
-[/us/stat/111/2573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2573
+[/us/pl/114/94/s11316/n/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fn%2F1%2FA%2Fi
+[/us/pl/114/94/s11316/n/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fn%2F1%2FA%2Fii
+[/us/pl/114/94/s11316/n/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fn%2F1%2FB
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/105/134/s101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs101%2Fc%2F1
 [/us/pl/105/134/s101/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs101%2Fc%2F4
 [/us/pl/105/134/s101/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs101%2Fc%2F5
 [/us/pl/105/134/s142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs142%2Fa
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/105/134/s142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs142%2Fa
 [/us/pl/105/134/s142/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs142%2Fc
 [/us/pl/111/314/s4/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F8

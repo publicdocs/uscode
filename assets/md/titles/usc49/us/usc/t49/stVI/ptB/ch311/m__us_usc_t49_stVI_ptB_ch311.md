@@ -113,6 +113,14 @@ SUBCHAPTER I—GENERAL AUTHORITY AND STATE GRANTS  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs31110" data-uslm-ref="/us/usc/t49/s31110">31110.</a>  </td>
+
+    <td> Authorization of appropriations.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER II—LENGTH AND WIDTH LIMITATIONS  </td>
@@ -353,7 +361,13 @@ SUBCHAPTER IV—MISCELLANEOUS  </td>
 
 </table>
 
+ __Amendment of Analysis__ 
+
+    [Pub. L. 114–94, div. A, title V, § 5101(d)][/us/pl/114/94/s5101/d], (e)(3), (4), (f), Dec. 4, 2015, [129 Stat. 1525][/us/stat/129/1525], 1526, provided that, effective Oct. 1, 2016, the analysis for this chapter is amended by striking items 31102, 31103, and 31104 and inserting new items 31102 “Motor carrier safety assistance program”, 31103 “Commercial motor vehicle operators grant program”, and 31104 “Authorization of appropriations” and by striking items 31107 and 31109. See 2015 Amendment note below.
+
  __Amendments__ 
+
+    2015—[Pub. L. 114–94, div. A, title V][/us/pl/114/94], §§ 5101(d), (e)(3), (4), 5103(b), Dec. 4, 2015, [129 Stat. 1525][/us/stat/129/1525], 1527, substituted “Motor carrier safety assistance program” for “Grants to States” in item 31102, “Commercial motor vehicle operators grant program” for “United States Government’s share of costs” in item 31103, and “Authorization of appropriations” for “Availability of amounts” in item 31104, struck out items 31107 “Border enforcement grants” and 31109 “Performance and registration information system management”, and added item 31110.
 
     2012—[Pub. L. 112–141, div. C, title II][/us/pl/112/141], §§ 32105(b), 32301(d), July 6, 2012, [126 Stat. 781][/us/stat/126/781], 788, added items 31134 and 31137 and struck out former item 31137 “Monitoring device and brake maintenance regulations”.
 
@@ -370,6 +384,10 @@ SUBCHAPTER IV—MISCELLANEOUS  </td>
 ----------
 ----------
 
+[/us/pl/114/94/s5101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fd
+[/us/stat/129/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1525
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1525
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F781
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59

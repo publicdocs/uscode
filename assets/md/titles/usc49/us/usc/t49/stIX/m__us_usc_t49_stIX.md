@@ -13,7 +13,7 @@
 
 [Previous](./../../../..//us/usc/t49/stVIII/ch605/m__us_usc_t49_s60503.md) | [Next](./../../../..//us/usc/t49/stIX/ch701/m__us_usc_t49_stIX_ch701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstIX)
 
-## SUBTITLE IX—\[Transferred\]
+## SUBTITLE IX—MULTIMODAL FREIGHT TRANSPORTATION
 
 <table>
 
@@ -21,31 +21,43 @@
 
     <td> Chapter  </td>
 
+    <td>   </td>
+
+    <td> Sec.  </td>
+
   </tr>
 
   <tr>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2FstIX%2Fch701" data-uslm-ref="/us/usc/t49/stIX/ch701">701.</a>  </td>
 
-    <td> [Transferred]  </td>
+    <td> Multimodal freight policy  </td>
 
-    <td>   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs70101" data-uslm-ref="/us/usc/t49/s70101">70101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2FstIX%2Fch703" data-uslm-ref="/us/usc/t49/stIX/ch703">703.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2FstIX%2Fch702" data-uslm-ref="/us/usc/t49/stIX/ch702">702.</a>  </td>
 
-    <td> [Transferred]  </td>
+    <td> Multimodal freight transportation planning and information  </td>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs70201" data-uslm-ref="/us/usc/t49/s70201">70201</a>  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Prior Provisions  </td>
 
   </tr>
 
 </table>
 
- __Amendments__ 
-
-    2010—[Pub. L. 111–314, § 4(d)(1)(B)][/us/pl/111/314/s4/d/1/B], Dec. 18, 2010, [124 Stat. 3440][/us/stat/124/3440], amended analysis generally, substituting “\[Transferred\]” for headings of subtitle IX “COMMERCIAL SPACE TRANSPORTATION” and chapters 701 “Commercial Space Launch Activities” and 703 “Space Transportation Infrastructure Matching Grants”.
+    A prior subtitle IX, consisting of chapters 701 and 703, related to commercial space transportation, prior to being transferred and renumbered as chapters 509 and 511 of Title 51, National and Commercial Space Programs.
 
 ----------
 
@@ -54,7 +66,5 @@
 ----------
 ----------
 
-[/us/pl/111/314/s4/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F1%2FB
-[/us/stat/124/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3440
 
 

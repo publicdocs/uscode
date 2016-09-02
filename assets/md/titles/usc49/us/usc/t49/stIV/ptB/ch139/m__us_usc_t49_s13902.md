@@ -269,9 +269,9 @@
 
                 (ii) retains liability for the cargo and for payment of interchanged carriers; and
 
-        (2) may not arrange transportation described in paragraph (1) unless the motor carrier has obtained a separate registration as a freight forwarder or broker for transportation under section 13903 or 13904, as applicable.
+        (2) may not arrange transportation except as described in paragraph (1) unless the motor carrier has obtained a separate registration as a freight forwarder or broker for transportation under section 13903 or 13904, as applicable.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 880][/us/stat/109/880]; amended [Pub. L. 104–287, § 5(32)][/us/pl/104/287/s5/32], Oct. 11, 1996, [110 Stat. 3391][/us/stat/110/3391]; [Pub. L. 106–159, title II, § 205][/us/pl/106/159/s205], Dec. 9, 1999, [113 Stat. 1762][/us/stat/113/1762]; [Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4113(b), 4204, 4303(c), Aug. 10, 2005, [119 Stat. 1725][/us/stat/119/1725], 1753, 1762; [Pub. L. 110–291, § 2][/us/pl/110/291/s2], July 30, 2008, [122 Stat. 2915][/us/stat/122/2915]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141], §§ 32101(a), 32107(a), 32111, 32915, 32921(a), July 6, 2012, [126 Stat. 777][/us/stat/126/777], 781, 783, 820, 827.)
+(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 880][/us/stat/109/880]; amended [Pub. L. 104–287, § 5(32)][/us/pl/104/287/s5/32], Oct. 11, 1996, [110 Stat. 3391][/us/stat/110/3391]; [Pub. L. 106–159, title II, § 205][/us/pl/106/159/s205], Dec. 9, 1999, [113 Stat. 1762][/us/stat/113/1762]; [Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4113(b), 4204, 4303(c), Aug. 10, 2005, [119 Stat. 1725][/us/stat/119/1725], 1753, 1762; [Pub. L. 110–291, § 2][/us/pl/110/291/s2], July 30, 2008, [122 Stat. 2915][/us/stat/122/2915]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141], §§ 32101(a), 32107(a), 32111, 32915, 32921(a), July 6, 2012, [126 Stat. 777][/us/stat/126/777], 781, 783, 820, 827; [Pub. L. 114–94, div. A, title V, § 5508(a)(1)][/us/pl/114/94/s5508/a/1], Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554].)
 
  __Historical and Revision Notes__ 
 
@@ -304,6 +304,8 @@
     Provisions similar to those in this section were contained in [section 10922 of this title][/us/usc/t49/s10922] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
 
  __Amendments__ 
+
+    2015—Subsec. (i)(2). [Pub. L. 114–94][/us/pl/114/94] inserted “except as” before “described”.
 
     2012—Subsec. (a)(1). [Pub. L. 112–141, § 32915(1)(A)][/us/pl/112/141/s32915/1/A], inserted “using self-propelled vehicles the motor carrier owns, rents, or leases” after “motor carrier” in introductory provisions.
 
@@ -362,6 +364,10 @@
     Subsec. (b)(8)(B). [Pub. L. 104–287, § 5(32)(B)][/us/pl/104/287/s5/32/B], substituted “January 1, 1996,” for “the effective date of this paragraph”.
 
     Subsecs. (c)(4)(A), (d)(1)(A), (2). [Pub. L. 104–287, § 5(32)(C)][/us/pl/104/287/s5/32/C], substituted “December 31, 1995” for “the day before the effective date of this section”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -637,7 +643,7 @@
 
                               William J. Clinton.
 
-    \[Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in [Pub. L. 104–88][/us/pl/104/88], to Surface Transportation Board effective Jan. 1, 1996, by [section 702 of this title][/us/usc/t49/s702] and [section 101 of Pub. L. 104–88][/us/pl/104/88/s101], set out as a note under [section 701 of this title][/us/usc/t49/s701]. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see [section 205 of Pub. L. 104–88][/us/pl/104/88/s205], set out as a note under [section 701 of this title][/us/usc/t49/s701].\]
+    \[Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in [Pub. L. 104–88][/us/pl/104/88], to Surface Transportation Board effective Jan. 1, 1996, by [section 1302 of this title][/us/usc/t49/s1302] and [section 101 of Pub. L. 104–88][/us/pl/104/88/s101], set out as a note under [section 1301 of this title][/us/usc/t49/s1301]. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see [section 205 of Pub. L. 104–88][/us/pl/104/88/s205], set out as a note under [section 1301 of this title][/us/usc/t49/s1301].\]
 
  __Extension of Moratorium__ 
 
@@ -718,6 +724,8 @@
 [/us/stat/122/2915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2915
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F777
+[/us/pl/114/94/s5508/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fa%2F1
+[/us/stat/129/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1554
 [/us/pl/104/287/s5/32/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F32%2FA
 [/us/pl/104/287/s5/32/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F32%2FB
 [/us/pl/104/287/s5/32/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F32%2FC
@@ -732,6 +740,7 @@
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t49/s10922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10922
 [/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141/s32915/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32915%2F1%2FA
 [/us/pl/112/141/s32101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32101%2Fa
 [/us/pl/112/141/s32921/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32921%2Fa%2F1
@@ -753,6 +762,9 @@
 [/us/pl/104/287/s5/32/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F32%2FA
 [/us/pl/104/287/s5/32/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F32%2FB
 [/us/pl/104/287/s5/32/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F32%2FC
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
@@ -805,11 +817,11 @@
 [/us/pl/97/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F261
 [/us/usc/t49/s10922/m/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10922%2Fm%2F2%2FA
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
-[/us/usc/t49/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs702
+[/us/usc/t49/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1302
 [/us/pl/104/88/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs101
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/pl/104/88/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs205
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/usc/t49/s10922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10922
 [/us/pl/97/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F261
 [/us/usc/t49/s10922/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10922%2Fm%2F1

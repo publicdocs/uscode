@@ -91,6 +91,24 @@ Sept. 9, 1966, Pub. L. 89–564, § 201(a) (less pay of Administrator and Depu
 
     1994—Subsec. (d). [Pub. L. 103–272][/us/pl/103/272] substituted “chapter 301 of this title” for “the National Traffic and Motor Vehicle Safety Act of 1966 ([15 U.S.C. 1381][/us/usc/t15/s1381] et seq.)”.
 
+ __Required Reporting of NHTSA Agenda__ 
+
+[Pub. L. 114–94, div. B, title XXIV, § 24401][/us/pl/114/94/s24401], Dec. 4, 2015, [129 Stat. 1720][/us/stat/129/1720], provided that: 
+
+> “Not later than December 1 of the year beginning after the date of enactment of this Act \[Dec. 4, 2015\], and each year thereafter, the Administrator of the National Highway Traffic Safety Administration shall publish on the public website of the Administration, and file with the Committees on Energy and Commerce and Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate an annual plan for the following calendar year detailing the Administration’s projected activities, including—
+
+>     “(1) the Administrator’s policy priorities;
+
+>     “(2) any rulemakings projected to be commenced;
+
+>     “(3) any plans to develop guidelines;
+
+>     “(4) any plans to restructure the Administration or to establish or alter working groups;
+
+>     “(5) any planned projects or initiatives of the Administration, including the working groups and advisory committees of the Administration; and
+
+>     “(6) any projected dates or timetables associated with any of the items described in paragraphs (1) through (5).”
+
  __National Highway Traffic Safety Administration Electronics, Software, and Engineering Expertise__ 
 
 [Pub. L. 112–141, div. C, title I, § 31401][/us/pl/112/141/s31401], July 6, 2012, [126 Stat. 772][/us/stat/126/772], provided that:
@@ -138,6 +156,8 @@ Sept. 9, 1966, Pub. L. 89–564, § 201(a) (less pay of Administrator and Depu
 [/us/stat/80/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F731
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t15/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1381
+[/us/pl/114/94/s24401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24401
+[/us/stat/129/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1720
 [/us/pl/112/141/s31401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31401
 [/us/stat/126/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F772
 

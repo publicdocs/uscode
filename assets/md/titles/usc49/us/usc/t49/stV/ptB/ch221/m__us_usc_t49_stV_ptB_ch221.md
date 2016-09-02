@@ -81,13 +81,17 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs22108" data-uslm-ref="/us/usc/t49/s22108">22108.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs22108" data-uslm-ref="/us/usc/t49/s22108">22108.</a>  </td>
 
-    <td> Authorization of appropriations.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
 </table>
+
+ __Amendments__ 
+
+    2015—[Pub. L. 114–94, div. A, title XI, § 11301(c)(4)][/us/pl/114/94/s11301/c/4], Dec. 4, 2015, [129 Stat. 1648][/us/stat/129/1648], struck out item 22108 “Authorization of appropriations”.
 
 ----------
 
@@ -96,5 +100,7 @@
 ----------
 ----------
 
+[/us/pl/114/94/s11301/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11301%2Fc%2F4
+[/us/stat/129/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1648
 
 

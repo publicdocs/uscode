@@ -55,7 +55,7 @@
 
             (C) the reliability and availability of the information to the Secretary and States.
 
-    (b) __Performance and Registration Information Program.—__ 
+    (b) __Performance and Registration Information Systems Management.—__ 
 
         (1)  __Information clearinghouse__  __.—__ 
 
@@ -121,7 +121,11 @@
 
         Notwithstanding any prohibition on disclosure of information in section 31105(h) or 31143(b) of this title or [section 552a of title 5][/us/usc/t5/s552a], the Secretary may disclose information maintained by the Secretary pursuant to chapters 51, 135, 311, or 313 of this title to appropriate personnel of a State agency or instrumentality authorized to carry out State commercial motor vehicle safety activities and commercial driver’s license laws, or appropriate personnel of a local law enforcement agency, in accordance with standards, conditions, and procedures as determined by the Secretary. Disclosure under this section shall not operate as a waiver by the Secretary of any applicable privilege against disclosure under common law or as a basis for compelling disclosure under [section 552 of title 5][/us/usc/t5/s552].
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 991][/us/stat/108/991]; [Pub. L. 105–178, title IV, § 4004(a)][/us/pl/105/178/s4004/a], June 9, 1998, [112 Stat. 398][/us/stat/112/398]; [Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4108(a), 4109(a), Aug. 10, 2005, [119 Stat. 1720][/us/stat/119/1720]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141], §§ 32103(b), 32306, 32508, 32602, July 6, 2012, [126 Stat. 780][/us/stat/126/780], 793, 805, 807.)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 991][/us/stat/108/991]; [Pub. L. 105–178, title IV, § 4004(a)][/us/pl/105/178/s4004/a], June 9, 1998, [112 Stat. 398][/us/stat/112/398]; [Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4108(a), 4109(a), Aug. 10, 2005, [119 Stat. 1720][/us/stat/119/1720]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141], §§ 32103(b), 32306, 32508, 32602, July 6, 2012, [126 Stat. 780][/us/stat/126/780], 793, 805, 807; [Pub. L. 114–94, div. A, title V][/us/pl/114/94], §§ 5101(e)(2), 5102, Dec. 4, 2015, [129 Stat. 1525][/us/stat/129/1525], 1526.)
+
+ __Amendment of Subsection (b)__ 
+
+    [Pub. L. 114–94, div. A, title V, § 5101(e)(2)][/us/pl/114/94/s5101/e/2], (f), Dec. 4, 2015, [129 Stat. 1525][/us/stat/129/1525], 1526, provided that, effective Oct. 1, 2016, subsection (b) of this section is amended by striking paragraph (4). See 2015 Amendment note below.
 
 <table>
 
@@ -257,6 +261,10 @@ Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2155, § 407; added Dec. 18, 1991, Pu
 
  __Amendments__ 
 
+    2015—Subsec. (b). [Pub. L. 114–94, § 5102][/us/pl/114/94/s5102], substituted “Systems Management” for “Program” in heading.
+
+    Subsec. (b)(4). [Pub. L. 114–94, § 5101(e)(2)][/us/pl/114/94/s5101/e/2], struck out par. (4). Text read as follows: “From the funds authorized by section 31104(i), the Secretary may make a grant in a fiscal year to a State to implement the performance and registration information system management requirements of this subsection.”
+
     2012—Subsec. (a)(3)(H). [Pub. L. 112–141, § 32103(b)][/us/pl/112/141/s32103/b], added subpar. (H).
 
     Subsec. (b)(3)(C). [Pub. L. 112–141, § 32602][/us/pl/112/141/s32602], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “establish and implement a process to cancel the motor vehicle registration and seize the registration plates of a vehicle when an employer is found liable under section 31310(i)(2)(C) for knowingly allowing or requiring an employee to operate such a commercial motor vehicle in violation of an out-of-service order.”
@@ -271,6 +279,12 @@ Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2155, § 407; added Dec. 18, 1991, Pu
 
     1998—[Pub. L. 105–178][/us/pl/105/178] amended section catchline and text generally, substituting, in subsec. (a), provisions relating to information systems and data analysis for provisions relating to definition of commercial motor vehicle, in subsec. (b), provisions relating to performance and registration information program for provisions relating to information system, in subsec. (c), provisions relating to commercial motor vehicle driver safety program for provisions relating to demonstration project, in subsec. (d), provisions relating to cooperative agreements, grants, and contracts for provisions relating to review of State systems, and in subsec. (e), provisions relating to information availability and privacy protection policy for provisions relating to regulations, and striking out subsecs. (f) and (g), which related to report to Congress and authorization of appropriations, respectively.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [section 5102 of Pub. L. 114–94][/us/pl/114/94/s5102] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
+    Amendment by [section 5101(e)(2) of Pub. L. 114–94][/us/pl/114/94/s5101/e/2] effective Oct. 1, 2016, see [section 5101(f) of Pub. L. 114–94][/us/pl/114/94/s5101/f], set out as a note under [section 31102 of this title][/us/usc/t49/s31102].
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23][/us/usc/t23/s101], Highways.
@@ -281,7 +295,7 @@ Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2155, § 407; added Dec. 18, 1991, Pu
 
  __Commercial Vehicle Information Systems and Networks Deployment__ 
 
-[Pub. L. 109–59, title IV, § 4126][/us/pl/109/59/s4126], Aug. 10, 2005, [119 Stat. 1738][/us/stat/119/1738], provided that:
+[Pub. L. 109–59, title IV, § 4126][/us/pl/109/59/s4126], Aug. 10, 2005, [119 Stat. 1738][/us/stat/119/1738], as amended by [Pub. L. 114–94, div. A, title V, § 5105(f)(1)][/us/pl/114/94/s5105/f/1], Dec. 4, 2015, [129 Stat. 1529][/us/stat/129/1529], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -303,11 +317,11 @@ Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2155, § 407; added Dec. 18, 1991, Pu
 
 >         “(2)  __Amount of grants__  __.—__ 
 
->         The maximum aggregate amount the Secretary may grant to a State for the core deployment of commercial vehicle information systems and networks under this subsection and sections 5001(a)(5) and 5001(a)(6) of the Transportation Equity Act for the 21st Century \[[Pub. L. 105–178][/us/pl/105/178]\] ([112 Stat. 420][/us/stat/112/420]) may not exceed $2,500,000.
+>         The maximum aggregate amount the Secretary may grant to a State for the core deployment of commercial vehicle information systems and networks under this subsection and sections 5001(a)(5) and 5001(a)(6) of the Transportation Equity Act for the 21st Century \[[Pub. L. 105–178][/us/pl/105/178]\] ([112 Stat. 420][/us/stat/112/420]) may not exceed $2,500,000. Funds deobligated by the Secretary from previous year grants shall not be counted toward the $2,500,000 maximum aggregate amount for core deployment.
 
 >         “(3)  __Use of funds__  __.—__ 
 
->         Funds from a grant under this subsection may only be used for the core deployment of commercial vehicle information systems and networks. An eligible State that has either completed the core deployment of commercial vehicle information systems and networks or completed such deployment before grant funds are expended under this subsection may use the grant funds for the expanded deployment of commercial vehicle information systems and networks in the State.
+>         Funds from a grant under this subsection may only be used for the core deployment of commercial vehicle information systems and networks. An eligible State that has either completed the core deployment of commercial vehicle information systems and networks or completed such deployment before grant funds are expended under this subsection may use the grant funds for the expanded deployment of commercial vehicle information systems and networks in the State. Funds may also be used for planning activities, including the development or updating of program or top level design plans.
 
 >     “(d) __Expanded Deployment Grants.—__ 
 
@@ -325,7 +339,7 @@ Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2155, § 407; added Dec. 18, 1991, Pu
 
 >         “(4)  __Use of funds__  __.—__ 
 
->         A State may use funds from a grant under this subsection only for the expanded deployment of commercial vehicle information systems and networks.
+>         A State may use funds from a grant under this subsection only for the expanded deployment of commercial vehicle information systems and networks. Funds may also be used for planning activities, including the development or updating of program or top level design plans.
 
 >     “(e)  __Eligibility__  __.—__ 
 
@@ -403,6 +417,8 @@ Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2155, § 407; added Dec. 18, 1991, Pu
 
 >         The term ‘expanded deployment’ means the deployment of systems in a State that exceed the requirements of a core deployment of commercial vehicle information systems and networks, improve safety and the productivity of commercial motor vehicle operations, and enhance transportation security.”
 
+    \[[Pub. L. 114–94, div. A, title V, § 5101(e)(5)][/us/pl/114/94/s5101/e/5], (f), (g), Dec. 4, 2015, [129 Stat. 1525][/us/stat/129/1525], 1526, provided that, effective Oct. 1, 2016, [section 4126 of Pub. L. 109–59][/us/pl/109/59/s4126], set out above, is repealed, subject to a transition provision.\]
+
 ----------
 
 [Previous](./../../../../../../..//us/usc/t49/stVI/ptB/ch311/schI/m__us_usc_t49_s31105.md) | [Next](./../../../../../../..//us/usc/t49/stVI/ptB/ch311/schI/m__us_usc_t49_s31107.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31106)
@@ -421,6 +437,12 @@ Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2155, § 407; added Dec. 18, 1991, Pu
 [/us/stat/119/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1720
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F780
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1525
+[/us/pl/114/94/s5101/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fe%2F2
+[/us/stat/129/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1525
+[/us/pl/114/94/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5102
+[/us/pl/114/94/s5101/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fe%2F2
 [/us/pl/112/141/s32103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32103%2Fb
 [/us/pl/112/141/s32602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32602
 [/us/pl/112/141/s32306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32306
@@ -428,6 +450,12 @@ Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2155, § 407; added Dec. 18, 1991, Pu
 [/us/pl/109/59/s4108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4108%2Fa
 [/us/pl/109/59/s4109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4109%2Fa
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/114/94/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5102
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
+[/us/pl/114/94/s5101/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fe%2F2
+[/us/pl/114/94/s5101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Ff
+[/us/usc/t49/s31102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
@@ -435,7 +463,12 @@ Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2155, § 407; added Dec. 18, 1991, Pu
 [/us/usc/t49/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs101
 [/us/pl/109/59/s4126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4126
 [/us/stat/119/1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1738
+[/us/pl/114/94/s5105/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5105%2Ff%2F1
+[/us/stat/129/1529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1529
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/stat/112/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F420
+[/us/pl/114/94/s5101/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fe%2F5
+[/us/stat/129/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1525
+[/us/pl/109/59/s4126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4126
 
 

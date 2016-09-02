@@ -69,6 +69,14 @@ Oct. 16, 1970, Pub. L. 91–458, § 101, 84 Stat. 971.  </td>
 
  __Short Title of 2015 Amendment__ 
 
+[Pub. L. 114–94, div. A, title XI, § 11001][/us/pl/114/94/s11001], Dec. 4, 2015, [129 Stat. 1622][/us/stat/129/1622], provided that: 
+
+> “This title \[see Tables for classification\] may be cited as the ‘Passenger Rail Reform and Investment Act of 2015’.”
+
+[Pub. L. 114–94, div. A, title XI, § 11501][/us/pl/114/94/s11501], Dec. 4, 2015, [129 Stat. 1690][/us/stat/129/1690], provided that: 
+
+> “This subtitle \[subtitle E (§§ 11501–11504) of title XI of div. A of [Pub. L. 114–94][/us/pl/114/94], enacting sections 24201 and 24202 of this title, amending [section 303 of this title][/us/usc/t49/s303] and [section 138 of Title 23][/us/usc/t23/s138], Highways, and enacting provisions set out as a note under [section 4370m of Title 42][/us/usc/t42/s4370m], The Public Health and Welfare\] may be cited as the ‘Track, Railroad, and Infrastructure Network Act’ or the ‘TRAIN Act’.”
+
 [Pub. L. 114–73, title I, § 1302(a)][/us/pl/114/73/s1302/a], Oct. 29, 2015, [129 Stat. 576][/us/stat/129/576], provided that: 
 
 > “This section \[amending [section 20157 of this title][/us/usc/t49/s20157]\] may be cited as the ‘Positive Train Control Enforcement and Implementation Act of 2015’.”
@@ -99,9 +107,85 @@ Oct. 16, 1970, Pub. L. 91–458, § 101, 84 Stat. 971.  </td>
 
 > “This title \[enacting sections 20145 to 20151 and 21108 of this title, amending sections 103, 20103, 20111, 20116, 20117, 20133, 20142, and 21303 of this title, and enacting provisions set out as a note under [section 11504 of this title][/us/usc/t49/s11504]\] may be cited as the ‘Federal Railroad Safety Authorization Act of 1994’.”
 
+ __Shared-Use Study__ 
+
+[Pub. L. 114–94, div. A, title XI, § 11311][/us/pl/114/94/s11311], Dec. 4, 2015, [129 Stat. 1670][/us/stat/129/1670], provided that:
+
+>     “(a)  __In Genera__  __l.—__ 
+
+>     Not later than 3 years after the date of enactment of this Act \[Dec. 4, 2015\}, the Secretary \[of Transportation\], in consultation with Amtrak, commuter rail passenger transportation authorities, other railroad carriers, railroad carriers that own rail infrastructure over which both passenger and freight trains operate, States, the Surface Transportation Board, the Northeast Corridor Commission established under [section 24905 of title 49][/us/usc/t49/s24905], United States Code, the State-Supported Route Committee established under section 24712 of such title, and groups representing rail passengers and customers, as appropriate, shall complete a study that evaluates—
+
+>         “(1) the shared use of right-of-way by passenger and freight rail systems; and
+
+>         “(2) the operational, institutional, and legal structures that would best support improvements to the systems referred to in paragraph (1).
+
+>     “(b)  __Areas of Study__  __.—__ 
+
+>     In conducting the study under subsection (a), the Secretary shall evaluate—
+
+>         “(1)
+
+>          the access and use of railroad right-of-way by a rail carrier that does not own the right-of-way, such as passenger rail services that operate over privately-owned right-of-way, including an analysis of—
+
+>             “(A) access agreements;
+
+>             “(B) costs of access; and
+
+>             “(C) the resolution of disputes relating to such access or costs;
+
+>         “(2)
+
+>          the effectiveness of existing contractual, statutory, and regulatory mechanisms for establishing, measuring, and enforcing train performance standards, including—
+
+>             “(A) the manner in which passenger train delays are recorded;
+
+>             “(B) the assignment of responsibility for such delays; and
+
+>             “(C) the use of incentives and penalties for performance;
+
+>         “(3) the strengths and weaknesses of the existing mechanisms described in paragraph (2) and possible approaches to address the weaknesses;
+
+>         “(4) mechanisms for measuring and maintaining public benefits resulting from publicly funded freight or passenger rail improvements, including improvements directed towards shared-use right-of-way by passenger and freight rail;
+
+>         “(5)
+
+>          approaches to operations, capacity, and cost estimation modeling that—
+
+>             “(A) allow for transparent decisionmaking; and
+
+>             “(B) protect the proprietary interests of all parties;
+
+>         “(6)
+
+>          liability requirements and arrangements, including—
+
+>             “(A) whether to expand statutory liability limits to additional parties;
+
+>             “(B) whether to revise the current statutory liability limits;
+
+>             “(C) whether current insurance levels of passenger rail operators are adequate and whether to establish minimum insurance requirements for such passenger rail operators; and
+
+>             “(D) whether to establish alternative insurance models, including other models administered by the Federal Government;
+
+>         “(7) the effect on rail passenger services, operations, liability limits, and insurance levels of the assertion of sovereign immunity by a State; and
+
+>         “(8) other issues identified by the Secretary.
+
+>     “(c)  __Report__  __.—__ 
+
+>     Not later than 60 days after the study under subsection (a) is complete, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that includes—
+
+>         “(1) the results of the study; and
+
+>         “(2) any recommendations for further action, including any legislative proposals consistent with such recommendations.
+
+>     “(d)  __Implementation__  __.—__ 
+
+>     The Secretary shall integrate, as appropriate, the recommendations submitted under subsection (c) into the financial assistance programs under subtitle V of title 49, United States Code, and section 502 of the Railroad Revitalization and Regulatory Reform Act of 1976 ([45 U.S.C. 822][/us/usc/t45/s822]).”
+
  __Railroad Safety Strategy__ 
 
-[Pub. L. 110–432, div. A, title I, § 102][/us/pl/110/432/s102], Oct. 16, 2008, [122 Stat. 4852][/us/stat/122/4852], provided that:
+[Pub. L. 110–432, div. A, title I, § 102][/us/pl/110/432/s102], Oct. 16, 2008, [122 Stat. 4852][/us/stat/122/4852], as amended by [Pub. L. 114–94, div. A, title XI, § 11316(j)(3)][/us/pl/114/94/s11316/j/3], Dec. 4, 2015, [129 Stat. 1677][/us/stat/129/1677], provided that:
 
 >     “(a)  __Safety Goals__  __.—__ 
 
@@ -117,7 +201,7 @@ Oct. 16, 1970, Pub. L. 91–458, § 101, 84 Stat. 971.  </td>
 
 >         “(5) Preventing railroad trespasser accidents, incidents, injuries, and fatalities.
 
->         “(6) Improving the safety of railroad bridges, tunnels, and related infrastructure to prevent accidents, incidents, injuries, and fatalities caused by catastrophic failures and other bridge and tunnel failures.
+>         “(6) Improving the safety of railroad bridges, tunnels, and related infrastructure to prevent accidents, incidents, injuries, and fatalities caused by catastrophic and other failures of such infrastructure.
 
 >     “(b)  __Resource Needs__  __.—__ 
 
@@ -158,6 +242,14 @@ Oct. 16, 1970, Pub. L. 91–458, § 101, 84 Stat. 971.  </td>
 [/us/stat/108/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F863
 [/us/pl/93/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F633
 [/us/stat/88/2163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2163
+[/us/pl/114/94/s11001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11001
+[/us/stat/129/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1622
+[/us/pl/114/94/s11501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11501
+[/us/stat/129/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1690
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/usc/t49/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs303
+[/us/usc/t23/s138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs138
+[/us/usc/t42/s4370m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4370m
 [/us/pl/114/73/s1302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1302%2Fa
 [/us/stat/129/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F576
 [/us/usc/t49/s20157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20157
@@ -180,8 +272,14 @@ Oct. 16, 1970, Pub. L. 91–458, § 101, 84 Stat. 971.  </td>
 [/us/pl/103/440/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F440%2Fs201
 [/us/stat/108/4619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4619
 [/us/usc/t49/s11504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11504
+[/us/pl/114/94/s11311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11311
+[/us/stat/129/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1670
+[/us/usc/t49/s24905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24905
+[/us/usc/t45/s822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs822
 [/us/pl/110/432/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs102
 [/us/stat/122/4852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4852
+[/us/pl/114/94/s11316/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fj%2F3
+[/us/stat/129/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1677
 [/us/pl/110/432/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs102
 [/us/pl/110/432/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs2%2Fa
 [/us/usc/t49/s20102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20102

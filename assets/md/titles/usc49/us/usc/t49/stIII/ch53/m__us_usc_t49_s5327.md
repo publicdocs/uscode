@@ -53,17 +53,25 @@
 
     (c)  __Access to Sites and Records__  __.—__ 
 
-    Each recipient of Federal financial assistance for public transportation under this chapter or any other provision of Federal law shall provide the Secretary and a contractor the Secretary chooses under section 5338(i) with access to the construction sites and records of the recipient when reasonably necessary.
+    Each recipient of Federal financial assistance for public transportation under this chapter or any other provision of Federal law shall provide the Secretary and a contractor the Secretary chooses under section 5338(f) with access to the construction sites and records of the recipient when reasonably necessary.
 
     (d)  __Regulations__  __.—__ 
 
     The Secretary shall prescribe regulations necessary to carry out this section. The regulations shall include—
 
-        (1) a definition of “major capital project” for section 5338(i) that excludes a project to acquire rolling stock or to maintain or rehabilitate a vehicle; and
+        (1) a definition of “major capital project” for section 5338(f) that excludes a project to acquire rolling stock or to maintain or rehabilitate a vehicle;
 
-        (2) a requirement that oversight begin during the project development phase of a project, unless the Secretary finds it more appropriate to begin the oversight during another phase of the project, to maximize the transportation benefits and cost savings associated with project management oversight.
+        (2)
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 826][/us/stat/108/826]; [Pub. L. 103–429, § 6(12)][/us/pl/103/429/s6/12], Oct. 31, 1994, [108 Stat. 4379][/us/stat/108/4379]; [Pub. L. 104–287, § 5(17)][/us/pl/104/287/s5/17], Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 105–178, title III, § 3024][/us/pl/105/178/s3024], June 9, 1998, [112 Stat. 364][/us/stat/112/364]; [Pub. L. 109–59, title III, § 3026][/us/pl/109/59/s3026], Aug. 10, 2005, [119 Stat. 1622][/us/stat/119/1622]; [Pub. L. 112–141, div. B, § 20020][/us/pl/112/141/s20020], July 6, 2012, [126 Stat. 708][/us/stat/126/708].)
+         a requirement that oversight—
+
+            (A) begin during the project development phase of a project, unless the Secretary finds it more appropriate to begin the oversight during another phase of the project, to maximize the transportation benefits and cost savings associated with project management oversight; and
+
+            (B) be limited to quarterly reviews of compliance by the recipient with the project management plan approved under subsection (b) unless the Secretary finds that the recipient requires more frequent oversight because the recipient has failed to meet the requirements of such plan and the project may be at risk of going over budget or becoming behind schedule; and
+
+        (3) a process for recipients that the Secretary has found require more frequent oversight to return to quarterly reviews for purposes of paragraph (2)(B).
+
+([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 826][/us/stat/108/826]; [Pub. L. 103–429, § 6(12)][/us/pl/103/429/s6/12], Oct. 31, 1994, [108 Stat. 4379][/us/stat/108/4379]; [Pub. L. 104–287, § 5(17)][/us/pl/104/287/s5/17], Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 105–178, title III, § 3024][/us/pl/105/178/s3024], June 9, 1998, [112 Stat. 364][/us/stat/112/364]; [Pub. L. 109–59, title III, § 3026][/us/pl/109/59/s3026], Aug. 10, 2005, [119 Stat. 1622][/us/stat/119/1622]; [Pub. L. 112–141, div. B, § 20020][/us/pl/112/141/s20020], July 6, 2012, [126 Stat. 708][/us/stat/126/708]; [Pub. L. 114–94, div. A, title III, § 3012][/us/pl/114/94/s3012], Dec. 4, 2015, [129 Stat. 1475][/us/stat/129/1475].)
 
 <table>
 
@@ -225,6 +233,12 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 23(h); added Nov. 21, 1989, P
 
  __Amendments__ 
 
+    2015—Subsec. (c). [Pub. L. 114–94, § 3012(1)][/us/pl/114/94/s3012/1], which directed substitution of section “5338(f)” for “section 5338(i)”, was executed by substituting “section 5338(f)” for “section 5338(i)”, to reflect the probable intent of Congress.
+
+    Subsec. (d)(1). [Pub. L. 114–94, § 3012(2)(A)(i)][/us/pl/114/94/s3012/2/A/i], which directed substitution of section 5338(f) for “section 5338(i)” without placing quotation marks around the language to be substituted, was executed by substituting “section 5338(f)” for “section 5338(i)”, to reflect the probable intent of Congress.
+
+    Subsec. (d)(2), (3). [Pub. L. 114–94, § 3012(2)(A)(ii)][/us/pl/114/94/s3012/2/A/ii], (B), added pars. (2) and (3) and struck out former par. (2), which read as follows: “a requirement that oversight begin during the project development phase of a project, unless the Secretary finds it more appropriate to begin the oversight during another phase of the project, to maximize the transportation benefits and cost savings associated with project management oversight.”
+
     2012—Subsec. (a). [Pub. L. 112–141, § 20020(1)(A)][/us/pl/112/141/s20020/1/A], in introductory provisions, substituted “Federal financial assistance for a major capital project for public transportation under this chapter or any other provision of Federal law, a recipient must prepare a project management plan approved by the Secretary and carry out the project in accordance with the project management plan” for “United States Government financial assistance for a major capital project under this chapter or the National Capital Transportation Act of 1969 ([Public Law 91–143][/us/pl/91/143], [83 Stat. 320][/us/stat/83/320]), a recipient must prepare and carry out a project management plan approved by the Secretary of Transportation”.
 
     Subsec. (a)(12). [Pub. L. 112–141, § 20020(1)(B)][/us/pl/112/141/s20020/1/B], substituted “quarterly” for “each month”.
@@ -252,6 +266,10 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 23(h); added Nov. 21, 1989, P
     1996—Subsec. (c)(1). [Pub. L. 104–287][/us/pl/104/287] substituted “to carry out a major project under section 5309” for “to carry out a major project under section 5307”.
 
     1994—Subsec. (c)(1). [Pub. L. 103–429][/us/pl/103/429] substituted “section 5307, 5309, 5311, or 103(e)(4) or that Act” for “section 5307, 5309, 5311, or 103(e)(4) of that Act”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -290,8 +308,13 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 23(h); added Nov. 21, 1989, P
 [/us/stat/119/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1622
 [/us/pl/112/141/s20020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20020
 [/us/stat/126/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F708
+[/us/pl/114/94/s3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3012
+[/us/stat/129/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1475
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/114/94/s3012/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3012%2F1
+[/us/pl/114/94/s3012/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3012%2F2%2FA%2Fi
+[/us/pl/114/94/s3012/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3012%2F2%2FA%2Fii
 [/us/pl/112/141/s20020/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20020%2F1%2FA
 [/us/pl/91/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F143
 [/us/stat/83/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F320
@@ -308,6 +331,9 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 23(h); added Nov. 21, 1989, P
 [/us/pl/105/178/s3024/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3024%2Fb
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

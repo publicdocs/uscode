@@ -67,19 +67,7 @@
 
             (B) If the Board determines, on the basis of a complaint filed under paragraph (2)(B)(i) of this subsection, that the grounds for a complaint described in such paragraph have been established with respect to a rail carrier, the Board shall, subject to the provisions of this section, order such rail carrier to provide rates and service substantially similar to the contract at issue with such differentials in terms and conditions as are justified by the evidence.
 
-    (h)
-
-        (1) Any rail carrier may, in accordance with the terms of this section, enter into contracts for the transportation of agricultural commodities (including forest products, but not including wood pulp, wood chips, pulpwood or paper) involving the utilization of carrier owned or leased equipment not in excess of 40 percent of the capacity of such carrier’s owned or leased equipment by major car type (plain boxcars, covered hopper cars, gondolas and open top hoppers, coal cars, bulkhead flatcars, pulpwood rackcars, and flatbed equipment, including TOFC/COFC).
-
-        (2) The Board may, on request of a rail carrier or other party or on its own initiative, grant such relief from the limitations of paragraph (1) of this subsection as the Board considers appropriate, if it appears that additional equipment may be made available without impairing the rail carrier’s ability to meet its common carrier obligations under [section 11101 of this title][/us/usc/t49/s11101].
-
-        (3)
-
-            (A) This subsection shall cease to be effective after September 30, 1998.
-
-            (B) Before October 1, 1997, the National Grain Car Council and the Railroad-Shipper Transportation Advisory Council shall make recommendations to Congress on whether to extend the effectiveness of or otherwise modify this subsection.
-
-(Added [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 817][/us/stat/109/817]; amended [Pub. L. 104–287, § 5(24)][/us/pl/104/287/s5/24], Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390].)
+(Added [Pub. L. 104–88, title I, § 102(a)][/us/pl/104/88/s102/a], Dec. 29, 1995, [109 Stat. 817][/us/stat/109/817]; amended [Pub. L. 104–287, § 5(24)][/us/pl/104/287/s5/24], Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 114–110, § 11(d)][/us/pl/114/110/s11/d], Dec. 18, 2015, [129 Stat. 2234][/us/stat/129/2234].)
 
  __Prior Provisions__ 
 
@@ -99,6 +87,8 @@
 
  __Amendments__ 
 
+    2015—Subsec. (h). [Pub. L. 114–110][/us/pl/114/110] struck out subsec. (h) which related to certain contracts for the transportation of agricultural commodities.
+
     1996—Subsec. (e). [Pub. L. 104–287][/us/pl/104/287] substituted “October 1, 1980,” for “the effective date of the Staggers Rail Act of 1980”.
 
 ----------
@@ -112,11 +102,12 @@
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t49/s11101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11101
 [/us/usc/t49/s10741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10741
-[/us/usc/t49/s11101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11101
 [/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
 [/us/stat/109/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F817
 [/us/pl/104/287/s5/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F24
 [/us/stat/110/3390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3390
+[/us/pl/114/110/s11/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs11%2Fd
+[/us/stat/129/2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2234
 [/us/usc/t49/s10713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10713
 [/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
 [/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
@@ -138,6 +129,7 @@
 [/us/pl/99/509/s4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs4051
 [/us/stat/100/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1910
 [/us/usc/t49/s10709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10709
+[/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 
 

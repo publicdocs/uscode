@@ -201,6 +201,42 @@ Sept. 9, 1966, Pub. L. 89–563, § 204(a), 80 Stat. 729; restated Oct. 27, 19
 
     1998—[Pub. L. 105–178][/us/pl/105/178] redesignated subsecs. (d) to (f) as (a) to (c), respectively, and struck out former subsecs. (a) to (c), which related to labeling requirements, contents of label, and additional information that may be required, respectively.
 
+ __Tire Pressure Monitoring System__ 
+
+[Pub. L. 114–94, div. B, title XXIV, § 24115][/us/pl/114/94/s24115], Dec. 4, 2015, [129 Stat. 1710][/us/stat/129/1710], provided that:
+
+>     “(a)  __Proposed Rule__  __.—__ 
+
+>     Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[probably means Secretary of Transportation\] shall publish a proposed rule that—
+
+>         “(1) updates the standards pertaining to tire pressure monitoring systems to ensure that a tire pressure monitoring system that is installed in a new motor vehicle after the effective date of such updated standards cannot be overridden, reset, or recalibrated in such a way that the system will no longer detect when the inflation pressure in one or more of the vehicle’s tires has fallen to or below a significantly underinflated pressure level; and
+
+>         “(2) does not contain any provision that has the effect of prohibiting the availability of direct or indirect tire pressure monitoring systems that meet the requirements of the standards updated pursuant to paragraph (1).
+
+>     “(b)  __Final Rule__  __.—__ 
+
+>     Not later than 2 years after the date of enactment of this Act \[Dec. 4, 2015\], after providing the public with sufficient opportunity for notice and comment on the proposed rule published pursuant to subsection (a), the Secretary shall issue a final rule based on the proposed rule described in subsection (a) that—
+
+>         “(1)
+
+>          allows a manufacturer to install a tire pressure monitoring system that can be reset or recalibrated to accommodate—
+
+>             “(A) the repositioning of tire sensor locations on vehicles with split inflation pressure recommendations;
+
+>             “(B) tire rotation; or
+
+>             “(C) replacement tires or wheels of a different size than the original equipment tires or wheels; and
+
+>         “(2) to address the accommodations described in subparagraphs (A), (B), and (C) of paragraph (1), ensures that a tire pressure monitoring system that is reset or recalibrated according to the manufacturer’s instructions would illuminate the low tire pressure warning telltale when a tire is significantly underinflated until the tire is no longer significantly underinflated.
+
+>     “(c)  __Significantly Underinflated Pressure Level Defined__  __.—__ 
+
+>     In this section, the term ‘significantly underinflated pressure level’ means a pressure level that is—
+
+>         “(1) below the level at which the low tire pressure warning telltale must illuminate, consistent with the TPMS detection requirements contained in S4.2(a) of section 571.138 of title 49, Code of Federal Regulations, or any corresponding similar or successor regulation or ruling (as determined by the Secretary); and
+
+>         “(2) in the case of a replacement wheel or tire, below the recommended cold inflation pressure of the wheel or tire manufacturer.”
+
  __Improved Tire Information__ 
 
 [Pub. L. 106–414, § 11][/us/pl/106/414/s11], Nov. 1, 2000, [114 Stat. 1806][/us/stat/114/1806], provided that:
@@ -233,6 +269,8 @@ Sept. 9, 1966, Pub. L. 89–563, § 204(a), 80 Stat. 729; restated Oct. 27, 19
 [/us/stat/112/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F467
 [/us/usc/t49/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30101
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/114/94/s24115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24115
+[/us/stat/129/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1710
 [/us/pl/106/414/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F414%2Fs11
 [/us/stat/114/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1806
 [/us/usc/t49/s30123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30123

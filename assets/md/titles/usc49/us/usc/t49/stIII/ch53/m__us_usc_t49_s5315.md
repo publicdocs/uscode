@@ -43,7 +43,15 @@
 
         (3) perform financial assessments that include the calculation of public and private benefits of a proposed public-private partnership transaction.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 813][/us/stat/108/813]; [Pub. L. 104–287, § 5(13)][/us/pl/104/287/s5/13], Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 105–178, title III, § 3017(a)][/us/pl/105/178/s3017/a], June 9, 1998, [112 Stat. 361][/us/stat/112/361]; [Pub. L. 105–206, title IX, § 9009][/us/pl/105/206/s9009](l), July 22, 1998, [112 Stat. 857][/us/stat/112/857]; [Pub. L. 109–59, title III, § 3017][/us/pl/109/59/s3017], Aug. 10, 2005, [119 Stat. 1600][/us/stat/119/1600]; [Pub. L. 112–141, div. B, § 20013(a)][/us/pl/112/141/s20013/a], July 6, 2012, [126 Stat. 692][/us/stat/126/692].)
+    (d)  __Rule of Construction__  __.—__ 
+
+    Nothing in this section shall be construed to alter—
+
+        (1) the eligibilities, requirements, or priorities for assistance provided under this chapter; or
+
+        (2) the requirements of section 5306(a).
+
+([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 813][/us/stat/108/813]; [Pub. L. 104–287, § 5(13)][/us/pl/104/287/s5/13], Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 105–178, title III, § 3017(a)][/us/pl/105/178/s3017/a], June 9, 1998, [112 Stat. 361][/us/stat/112/361]; [Pub. L. 105–206, title IX, § 9009][/us/pl/105/206/s9009](l), July 22, 1998, [112 Stat. 857][/us/stat/112/857]; [Pub. L. 109–59, title III, § 3017][/us/pl/109/59/s3017], Aug. 10, 2005, [119 Stat. 1600][/us/stat/119/1600]; [Pub. L. 112–141, div. B, § 20013(a)][/us/pl/112/141/s20013/a], July 6, 2012, [126 Stat. 692][/us/stat/126/692]; [Pub. L. 114–94, div. A, title III, § 3010(a)][/us/pl/114/94/s3010/a], Dec. 4, 2015, [129 Stat. 1474][/us/stat/129/1474].)
 
 <table>
 
@@ -151,6 +159,8 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 29(a)–(c); added Dec. 18, 1
 
  __Amendments__ 
 
+    2015—Subsec. (d). [Pub. L. 114–94][/us/pl/114/94] added subsec. (d).
+
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to national transit institute.
 
     2005—Subsecs. (a), (b). [Pub. L. 109–59, § 3017(a)][/us/pl/109/59/s3017/a], added subsecs. (a) and (b) and struck out former subsecs. (a) and (b), which related to establishment and duties of a national transit institute in subsec. (a) and delegation to the institute of the authority of the Secretary to develop and conduct educational and training programs related to mass transportation in subsec. (b).
@@ -170,6 +180,10 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 29(a)–(c); added Dec. 18, 1
     Subsec. (a)(15), (16). [Pub. L. 105–178, § 3017(a)(2)(E)][/us/pl/105/178/s3017/a/2/E]–(G), as amended by [Pub. L. 105–206][/us/pl/105/206] added pars. (15) and (16).
 
     1996—Subsec. (d). [Pub. L. 104–287][/us/pl/104/287] substituted “sections 5307 and 5309” for “sections 5304 and 5306”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -272,7 +286,10 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 29(a)–(c); added Dec. 18, 1
 [/us/stat/119/1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1600
 [/us/pl/112/141/s20013/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20013%2Fa
 [/us/stat/126/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F692
+[/us/pl/114/94/s3010/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3010%2Fa
+[/us/stat/129/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1474
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59/s3017/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3017%2Fa
 [/us/pl/109/59/s3017/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3017%2Fb
@@ -289,6 +306,9 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 29(a)–(c); added Dec. 18, 1
 [/us/pl/105/178/s3017/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3017%2Fa%2F2%2FE
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

@@ -165,9 +165,9 @@ Oct. 16, 1970, Pub. L. 91–458, § 208(b), 84 Stat. 975; restated Nov. 2, 197
 
  __Safety Inspections in Mexico__ 
 
-[Pub. L. 110–432, div. A, title IV, § 416][/us/pl/110/432/s416], Oct. 16, 2008, [122 Stat. 4890][/us/stat/122/4890], provided that: 
+[Pub. L. 110–432, div. A, title IV, § 416][/us/pl/110/432/s416], Oct. 16, 2008, [122 Stat. 4890][/us/stat/122/4890], as amended by [Pub. L. 114–94, div. A, title XI, § 11316(j)(8)][/us/pl/114/94/s11316/j/8], Dec. 4, 2015, [129 Stat. 1678][/us/stat/129/1678], provided that: 
 
-> “Mechanical and brake inspections of rail cars performed in Mexico shall not be treated as satisfying United States rail safety laws or regulations unless the Secretary of Transportation certifies that—
+> “Mechanical and brake inspections of rail cars performed in Mexico shall not be treated as satisfying United States rail safety laws or regulations unless the Secretary certifies that—
 
 >     “(1) such inspections are being performed under regulations and standards equivalent to those applicable in the United States;
 
@@ -175,7 +175,7 @@ Oct. 16, 1970, Pub. L. 91–458, § 208(b), 84 Stat. 975; restated Nov. 2, 197
 
 >     “(3) inspection records that are required to be available to the crewmembers on board the train, including air slips and blue cards, are maintained in both English and Spanish, and such records are available to the Federal Railroad Administration for review; and
 
->     “(4) the Federal Railroad Administration is permitted to perform onsite inspections for the purpose of ensuring compliance with the requirements of this subsection \[sic\].”
+>     “(4) the Federal Railroad Administration is permitted to perform onsite inspections for the purpose of ensuring compliance with the requirements of this section.”
 
     \[For definition of “railroad”, as used in [section 416 of Pub. L. 110–432][/us/pl/110/432/s416], set out above, see [section 2(a) of Pub. L. 110–432][/us/pl/110/432/s2/a], set out as a note under [section 20102 of this title][/us/usc/t49/s20102].\]
 
@@ -195,6 +195,8 @@ Oct. 16, 1970, Pub. L. 91–458, § 208(b), 84 Stat. 975; restated Nov. 2, 197
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/110/432/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs416
 [/us/stat/122/4890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4890
+[/us/pl/114/94/s11316/j/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fj%2F8
+[/us/stat/129/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1678
 [/us/pl/110/432/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs416
 [/us/pl/110/432/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs2%2Fa
 [/us/usc/t49/s20102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20102

@@ -189,7 +189,7 @@
 
     [Section 104 of title 23][/us/usc/t23/s104], referred to in subsec. (b)(2), was amended generally by [Pub. L. 112–141, div. A, title I, § 1105(a)][/us/pl/112/141/s1105/a], July 6, 2012, [126 Stat. 427][/us/stat/126/427].
 
-    Section 211 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (e)(2)(A)(i), is [section 211 of Pub. L. 110–432][/us/pl/110/432/s211], which is set out as a note under [section 24902 of this title][/us/usc/t49/s24902].
+    Section 211 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (e)(2)(A)(i), is [section 211 of Pub. L. 110–432][/us/pl/110/432/s211], which was set out as a note under [section 24902 of this title][/us/usc/t49/s24902], prior to repeal by [Pub. L. 114–94, div. A, title XI, § 11306(b)(3)][/us/pl/114/94/s11306/b/3], Dec. 4, 2015, [129 Stat. 1660][/us/stat/129/1660].
 
     Section 207 of the Passenger Rail Investment and Improvement Act of 2008, referred to subsec. (e)(2)(B)(i)(I), is [section 207 of Pub. L. 110–432][/us/pl/110/432/s207], which is set out in a note under [section 24101 of this title][/us/usc/t49/s24101].
 
@@ -435,6 +435,8 @@
 [/us/stat/126/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F427
 [/us/pl/110/432/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs211
 [/us/usc/t49/s24902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24902
+[/us/pl/114/94/s11306/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11306%2Fb%2F3
+[/us/stat/129/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1660
 [/us/pl/110/432/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs207
 [/us/usc/t49/s24101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24101
 [/us/usc/t49/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5302

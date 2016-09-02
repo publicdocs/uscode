@@ -49,11 +49,21 @@
 
         (7) a motor vehicle under [section 30144 of this title][/us/usc/t49/s30144] imported on a temporary basis;
 
-        (8) a motor vehicle or item of motor vehicle equipment under [section 30145 of this title][/us/usc/t49/s30145] requiring further manufacturing; or
+        (8) a motor vehicle or item of motor vehicle equipment under [section 30145 of this title][/us/usc/t49/s30145] requiring further manufacturing;
 
-        (9) a motor vehicle that is at least 25 years old.
+        (9) a motor vehicle that is at least 25 years old; or
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 945][/us/stat/108/945]; [Pub. L. 109–59, title X, § 10309(b)][/us/pl/109/59/s10309/b], Aug. 10, 2005, [119 Stat. 1942][/us/stat/119/1942]; [Pub. L. 112–141, div. C, title I, § 31207][/us/pl/112/141/s31207], July 6, 2012, [126 Stat. 761][/us/stat/126/761].)
+        (10)
+
+         the introduction of a motor vehicle in interstate commerce solely for purposes of testing or evaluation by a manufacturer that agrees not to sell or offer for sale the motor vehicle at the conclusion of the testing or evaluation and that prior to the date of enactment of this paragraph—
+
+            (A) has manufactured and distributed motor vehicles into the United States that are certified to comply with all applicable Federal motor vehicle safety standards;
+
+            (B) has submitted to the Secretary appropriate manufacturer identification information under part 566 of title 49, Code of Federal Regulations; and
+
+            (C) if applicable, has identified an agent for service of process in accordance with part 551 of such title.
+
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 945][/us/stat/108/945]; [Pub. L. 109–59, title X, § 10309(b)][/us/pl/109/59/s10309/b], Aug. 10, 2005, [119 Stat. 1942][/us/stat/119/1942]; [Pub. L. 112–141, div. C, title I, § 31207][/us/pl/112/141/s31207], July 6, 2012, [126 Stat. 761][/us/stat/126/761]; [Pub. L. 114–94, div. B, title XXIV, § 24404][/us/pl/114/94/s24404], Dec. 4, 2015, [129 Stat. 1721][/us/stat/129/1721].)
 
 <table>
 
@@ -185,7 +195,11 @@ Sept. 9, 1966, Pub. L. 89–563, § 108(b)(3), 80 Stat. 723; Oct. 27, 1974, Pu
 
     The date of enactment of this paragraph, referred to in subsec. (a)(2), is the date of enactment of [Pub. L. 109–59][/us/pl/109/59], which was approved Aug. 10, 2005.
 
+    The date of enactment of this paragraph, referred to in subsec. (b)(10), is the date of enactment of [Pub. L. 114–94][/us/pl/114/94], which was approved Dec. 4, 2015.
+
  __Amendments__ 
+
+    2015—Subsec. (b)(10). [Pub. L. 114–94][/us/pl/114/94] added par. (10).
 
     2012—Subsec. (a)(3). [Pub. L. 112–141, § 31207(1)][/us/pl/112/141/s31207/1], added par. (3).
 
@@ -216,7 +230,11 @@ Sept. 9, 1966, Pub. L. 89–563, § 108(b)(3), 80 Stat. 723; Oct. 27, 1974, Pu
 [/us/stat/119/1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1942
 [/us/pl/112/141/s31207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31207
 [/us/stat/126/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F761
+[/us/pl/114/94/s24404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24404
+[/us/stat/129/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1721
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141/s31207/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31207%2F1
 [/us/pl/112/141/s31207/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31207%2F2
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59

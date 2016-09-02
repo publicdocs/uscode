@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stIV/ptA/ch117/m__us_usc_t49_s11706.md) | [Next](./../../../../../..//us/usc/t49/stIV/ptA/ch119/m__us_usc_t49_stIV_ptA_ch119.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11707)
+[Previous](./../../../../../..//us/usc/t49/stIV/ptA/ch117/m__us_usc_t49_s11706.md) | [Next](./../../../../../..//us/usc/t49/stIV/ptA/ch117/m__us_usc_t49_s11708.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11707)
 
 ## § 11707. Liability when property is delivered in violation of routing instructions
 
@@ -47,7 +47,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stIV/ptA/ch117/m__us_usc_t49_s11706.md) | [Next](./../../../../../..//us/usc/t49/stIV/ptA/ch119/m__us_usc_t49_stIV_ptA_ch119.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11707)
+[Previous](./../../../../../..//us/usc/t49/stIV/ptA/ch117/m__us_usc_t49_s11706.md) | [Next](./../../../../../..//us/usc/t49/stIV/ptA/ch117/m__us_usc_t49_s11708.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs11707)
 
 ----------
 ----------

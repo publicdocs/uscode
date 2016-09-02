@@ -353,6 +353,10 @@ Oct. 27, 1986, Pub. L. 99–570, § 12019(5), 100 Stat. 3207–188; Apr. 2, 19
 
  __Program To Assist Veterans To Acquire Commercial Driver’s Licenses__ 
 
+[Pub. L. 114–94, div. A, title V, § 5401(b)][/us/pl/114/94/s5401/b], Dec. 4, 2015, [129 Stat. 1547][/us/stat/129/1547], provided that: 
+
+> “Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\], in consultation with the Secretary of Defense, shall implement the recommendations contained in the report submitted under section 32308 of MAP–21 \[[Pub. L. 112–141][/us/pl/112/141]\] ([49 U.S.C. 31301][/us/usc/t49/s31301] note) that are not implemented as a result of the amendment in subsection (a) \[amending [section 31305 of this title][/us/usc/t49/s31305]\].”
+
 [Pub. L. 112–141, div. C, title II, § 32308][/us/pl/112/141/s32308], July 6, 2012, [126 Stat. 794][/us/stat/126/794], provided that:
 
 >     “(a) __Study.—__ 
@@ -427,7 +431,7 @@ Oct. 27, 1986, Pub. L. 99–570, § 12019(5), 100 Stat. 3207–188; Apr. 2, 19
 
  __Grant Program for Commercial Motor Vehicle Operators__ 
 
-[Pub. L. 109–59, title IV, § 4134][/us/pl/109/59/s4134], Aug. 10, 2005, [119 Stat. 1744][/us/stat/119/1744], as amended by [Pub. L. 111–147, title IV, § 422(h)][/us/pl/111/147/s422/h], Mar. 18, 2010, [124 Stat. 87][/us/stat/124/87]; [Pub. L. 111–322, title II, § 2202(h)][/us/pl/111/322/s2202/h], Dec. 22, 2010, [124 Stat. 3525][/us/stat/124/3525]; [Pub. L. 112–5, title II, § 202(h)][/us/pl/112/5/s202/h], Mar. 4, 2011, [125 Stat. 17][/us/stat/125/17]; [Pub. L. 112–30, title I, § 122(g)][/us/pl/112/30/s122/g], Sept. 16, 2011, [125 Stat. 349][/us/stat/125/349]; [Pub. L. 112–102, title II, § 202(g)][/us/pl/112/102/s202/g], Mar. 30, 2012, [126 Stat. 274][/us/stat/126/274]; [Pub. L. 112–140, title II, § 202(g)][/us/pl/112/140/s202/g], June 29, 2012, [126 Stat. 395][/us/stat/126/395]; [Pub. L. 112–141, div. C, title II, § 32603(g)][/us/pl/112/141/s32603/g], July 6, 2012, [126 Stat. 808][/us/stat/126/808]; [Pub. L. 113–159, title I, § 1102(g)][/us/pl/113/159/s1102/g], Aug. 8, 2014, [128 Stat. 1844][/us/stat/128/1844]; [Pub. L. 114–21, title I, § 1102(g)][/us/pl/114/21/s1102/g], May 29, 2015, [129 Stat. 222][/us/stat/129/222]; [Pub. L. 114–41, title I, § 1102(g)][/us/pl/114/41/s1102/g], July 31, 2015, [129 Stat. 449][/us/stat/129/449]; [Pub. L. 114–73, title I, § 1102(g)][/us/pl/114/73/s1102/g], Oct. 29, 2015, [129 Stat. 572][/us/stat/129/572]; [Pub. L. 114–87, title I, § 1102(g)][/us/pl/114/87/s1102/g], Nov. 20, 2015, [129 Stat. 681][/us/stat/129/681], provided that:
+[Pub. L. 109–59, title IV, § 4134][/us/pl/109/59/s4134], Aug. 10, 2005, [119 Stat. 1744][/us/stat/119/1744], as amended by [Pub. L. 111–147, title IV, § 422(h)][/us/pl/111/147/s422/h], Mar. 18, 2010, [124 Stat. 87][/us/stat/124/87]; [Pub. L. 111–322, title II, § 2202(h)][/us/pl/111/322/s2202/h], Dec. 22, 2010, [124 Stat. 3525][/us/stat/124/3525]; [Pub. L. 112–5, title II, § 202(h)][/us/pl/112/5/s202/h], Mar. 4, 2011, [125 Stat. 17][/us/stat/125/17]; [Pub. L. 112–30, title I, § 122(g)][/us/pl/112/30/s122/g], Sept. 16, 2011, [125 Stat. 349][/us/stat/125/349]; [Pub. L. 112–102, title II, § 202(g)][/us/pl/112/102/s202/g], Mar. 30, 2012, [126 Stat. 274][/us/stat/126/274]; [Pub. L. 112–140, title II, § 202(g)][/us/pl/112/140/s202/g], June 29, 2012, [126 Stat. 395][/us/stat/126/395]; [Pub. L. 112–141, div. C, title II, § 32603(g)][/us/pl/112/141/s32603/g], July 6, 2012, [126 Stat. 808][/us/stat/126/808]; [Pub. L. 113–159, title I, § 1102(g)][/us/pl/113/159/s1102/g], Aug. 8, 2014, [128 Stat. 1844][/us/stat/128/1844]; [Pub. L. 114–21, title I, § 1102(g)][/us/pl/114/21/s1102/g], May 29, 2015, [129 Stat. 222][/us/stat/129/222]; [Pub. L. 114–41, title I, § 1102(g)][/us/pl/114/41/s1102/g], July 31, 2015, [129 Stat. 449][/us/stat/129/449]; [Pub. L. 114–73, title I, § 1102(g)][/us/pl/114/73/s1102/g], Oct. 29, 2015, [129 Stat. 572][/us/stat/129/572]; [Pub. L. 114–87, title I, § 1102(g)][/us/pl/114/87/s1102/g], Nov. 20, 2015, [129 Stat. 681][/us/stat/129/681]; [Pub. L. 114–94, div. A, title V, § 5105(e)][/us/pl/114/94/s5105/e], Dec. 4, 2015, [129 Stat. 1529][/us/stat/129/1529], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -439,7 +443,9 @@ Oct. 27, 1986, Pub. L. 99–570, § 12019(5), 100 Stat. 3207–188; Apr. 2, 19
 
 >     “(c)  __Funding__  __.—__ 
 
->     From amounts made available under [section 31104(i) of title 49][/us/usc/t49/s31104/i], United States Code, the Secretary shall make available $1,000,000 for each of fiscal years 2005 through 2015 and $177,596 for the period beginning on October 1, 2015, and ending on December 4, 2015, to carry out this section.”
+>     From amounts made available under [section 31110 of title 49][/us/usc/t49/s31110], United States Code, the Secretary shall make available, $1,000,000 for fiscal year 2016 to carry out this section.”
+
+    \[[Pub. L. 114–94, div. A, title V, § 5101(e)(7)][/us/pl/114/94/s5101/e/7], (f), (g), Dec. 4, 2015, [129 Stat. 1525][/us/stat/129/1525], 1526, provided that, effective Oct. 1, 2016, [section 4134 of Pub. L. 109–59][/us/pl/109/59/s4134], set out above, is repealed, subject to a transition provision.\]
 
  __CDL Task Force__ 
 
@@ -507,6 +513,11 @@ Oct. 27, 1986, Pub. L. 99–570, § 12019(5), 100 Stat. 3207–188; Apr. 2, 19
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/114/94/s5401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5401%2Fb
+[/us/stat/129/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1547
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/usc/t49/s31301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31301
+[/us/usc/t49/s31305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31305
 [/us/pl/112/141/s32308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32308
 [/us/stat/126/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F794
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
@@ -544,8 +555,13 @@ Oct. 27, 1986, Pub. L. 99–570, § 12019(5), 100 Stat. 3207–188; Apr. 2, 19
 [/us/stat/129/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F572
 [/us/pl/114/87/s1102/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1102%2Fg
 [/us/stat/129/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F681
+[/us/pl/114/94/s5105/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5105%2Fe
+[/us/stat/129/1529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1529
 [/us/usc/t49/s31301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31301
-[/us/usc/t49/s31104/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31104%2Fi
+[/us/usc/t49/s31110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31110
+[/us/pl/114/94/s5101/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fe%2F7
+[/us/stat/129/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1525
+[/us/pl/109/59/s4134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4134
 [/us/pl/109/59/s4135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4135
 [/us/stat/119/1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1744
 [/us/stat/119/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1715

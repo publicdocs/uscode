@@ -157,7 +157,7 @@
 
     (h)  __Report__  __.—__ 
 
-    The Secretary shall, once every 2 years, prepare and transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a comprehensive report on the transportation of hazardous materials during the preceding 2 calendar years. The report shall include—
+    The Secretary shall, once every 2 years, prepare and make available to the public on the Department of Transportation’s Internet Web site a comprehensive report on the transportation of hazardous materials during the preceding 2 calendar years. The report shall include—
 
         (1) a statistical compilation of accidents and casualties related to the transportation of hazardous material;
 
@@ -171,7 +171,7 @@
 
         (6) recommendations for appropriate legislation.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 779][/us/stat/108/779]; [Pub. L. 103–311, title I][/us/pl/103/311], §§ 108, 117(a)(2), Aug. 26, 1994, [108 Stat. 1674][/us/stat/108/1674], 1678; [Pub. L. 109–59, title VII][/us/pl/109/59], §§ 7118, 7126, Aug. 10, 2005, [119 Stat. 1902][/us/stat/119/1902], 1909; [Pub. L. 110–244, title III, § 302(e)][/us/pl/110/244/s302/e], June 6, 2008, [122 Stat. 1618][/us/stat/122/1618]; [Pub. L. 112–141, div. C, title II, § 32501(c)][/us/pl/112/141/s32501/c], title III, § 33009(a), (b)(1), (c), July 6, 2012, [126 Stat. 803][/us/stat/126/803], 836, 837.)
+([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 779][/us/stat/108/779]; [Pub. L. 103–311, title I][/us/pl/103/311], §§ 108, 117(a)(2), Aug. 26, 1994, [108 Stat. 1674][/us/stat/108/1674], 1678; [Pub. L. 109–59, title VII][/us/pl/109/59], §§ 7118, 7126, Aug. 10, 2005, [119 Stat. 1902][/us/stat/119/1902], 1909; [Pub. L. 110–244, title III, § 302(e)][/us/pl/110/244/s302/e], June 6, 2008, [122 Stat. 1618][/us/stat/122/1618]; [Pub. L. 112–141, div. C, title II, § 32501(c)][/us/pl/112/141/s32501/c], title III, § 33009(a), (b)(1), (c), July 6, 2012, [126 Stat. 803][/us/stat/126/803], 836, 837; [Pub. L. 114–94, div. A, title VII, § 7205][/us/pl/114/94/s7205], Dec. 4, 2015, [129 Stat. 1592][/us/stat/129/1592].)
 
 <table>
 
@@ -295,6 +295,8 @@ Jan. 3, 1975, Pub. L. 93–633, § 109(e), 88 Stat. 2159; Oct. 30, 1984, Pub. 
 
  __Amendments__ 
 
+    2015—Subsec. (h). [Pub. L. 114–94][/us/pl/114/94] substituted “make available to the public on the Department of Transportation’s Internet Web site” for “transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate” in introductory provisions.
+
     2012—Subsec. (c)(1)(G). [Pub. L. 112–141, § 33009(a)][/us/pl/112/141/s33009/a], added subpar. (G).
 
     Subsec. (c)(2). [Pub. L. 112–141, § 32501(c)][/us/pl/112/141/s32501/c], inserted “, in person or in writing,” after “proper credentials”.
@@ -340,6 +342,10 @@ Jan. 3, 1975, Pub. L. 93–633, § 109(e), 88 Stat. 2159; Oct. 30, 1984, Pub. 
     1994—Subsec. (c)(1)(A). [Pub. L. 103–311, § 117(a)(2)][/us/pl/103/311/s117/a/2], substituted “a packaging or a” for “a package or”.
 
     Subsec. (e). [Pub. L. 103–311, § 108][/us/pl/103/311/s108], substituted “Report” for “Annual Report” in heading and substituted first sentence for former first sentence which read as follows: “The Secretary shall submit to the President, for submission to Congress, not later than June 15th of each year, a report about the transportation of hazardous material during the prior calendar year.”
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -465,7 +471,10 @@ Jan. 3, 1975, Pub. L. 93–633, § 109(e), 88 Stat. 2159; Oct. 30, 1984, Pub. 
 [/us/stat/122/1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1618
 [/us/pl/112/141/s32501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32501%2Fc
 [/us/stat/126/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F803
+[/us/pl/114/94/s7205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7205
+[/us/stat/129/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1592
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141/s33009/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33009%2Fa
 [/us/pl/112/141/s32501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32501%2Fc
 [/us/pl/112/141/s33009/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33009%2Fb%2F1
@@ -485,6 +494,9 @@ Jan. 3, 1975, Pub. L. 93–633, § 109(e), 88 Stat. 2159; Oct. 30, 1984, Pub. 
 [/us/pl/109/59/s7118/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7118%2Ff%2F2
 [/us/pl/103/311/s117/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs117%2Fa%2F2
 [/us/pl/103/311/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311%2Fs108
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

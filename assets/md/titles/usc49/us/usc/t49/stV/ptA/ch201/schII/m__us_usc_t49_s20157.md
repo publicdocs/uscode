@@ -213,7 +213,33 @@
 
         (3)  __Review__  __.—__ 
 
-        Nothing in the Positive Train Control Enforcement and Implementation Act of 2015, or the amendments made by such Act, shall be construed to require the Secretary to issue regulations to implement such Act or amendments other than the regulatory amendments required by paragraph (2) and subsection (k).
+        Nothing in the Positive Train Control Enforcement and Implementation Act of 2015, or the amendments made by such Act, shall be construed to require the Secretary to issue regulations to implement such Act or amendments other than the regulatory amendments required to conform with this section.
+
+        (4) __Clarification.—__ 
+
+            (A)  __Prohibitions__  __.—__ 
+
+            The Secretary is prohibited from—
+
+                (i) approving or disapproving a revised plan submitted under subsection (a)(1);
+
+                (ii) considering a revised plan under subsection (a)(1) as a request for amendment under section 236.1021 of title 49, Code of Federal Regulations; or
+
+                (iii)
+
+                 requiring the submission, as part of the revised plan under subsection (a)(1), of—
+
+                    (I) only a schedule and sequence under subsection (a)(2)(A)(iii)(VII); or
+
+                    (II) both a schedule and sequence under subsection (a)(2)(A)(iii)(VII) and an alternative schedule and sequence under subsection (a)(2)(B).
+
+            (B)  __Civil penalty authority__  __.—__ 
+
+            Except as provided in paragraph (2) and this paragraph, nothing in this subsection shall be construed to limit the Secretary’s authority to assess civil penalties pursuant to subsection (e), consistent with the requirements of this section.
+
+            (C)  __Retained review authority__  __.—__ 
+
+            The Secretary retains the authority to review revised plans submitted under subsection (a)(1) and is authorized to require modifications of those plans to the extent necessary to ensure that such plans include the descriptions under subsection (a)(2)(A)(i), the contents under subsection (a)(2)(A)(ii), and the year or years, totals, and summary under subsection (a)(2)(A)(iii)(I) through (VI).
 
     (h) __Certification.—__ 
 
@@ -283,7 +309,7 @@
 
     When a railroad carrier or other entity subject to (a)(1)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be preceded by “subsection”. </sup></sup>  notifies the Secretary it is prepared to initiate revenue service demonstration, it shall also notify any applicable tenant railroad carrier or other entity subject to subsection (a)(1).
 
-(Added [Pub. L. 110–432, div. A, title I, § 104(a)][/us/pl/110/432/s104/a], Oct. 16, 2008, [122 Stat. 4856][/us/stat/122/4856]; amended [Pub. L. 114–73, title I, § 1302(b)][/us/pl/114/73/s1302/b], (c), Oct. 29, 2015, [129 Stat. 576][/us/stat/129/576], 582.)
+(Added [Pub. L. 110–432, div. A, title I, § 104(a)][/us/pl/110/432/s104/a], Oct. 16, 2008, [122 Stat. 4856][/us/stat/122/4856]; amended [Pub. L. 114–73, title I, § 1302(b)][/us/pl/114/73/s1302/b], (c), Oct. 29, 2015, [129 Stat. 576][/us/stat/129/576], 582; [Pub. L. 114–94, div. A, title XI, § 11315(d)][/us/pl/114/94/s11315/d], Dec. 4, 2015, [129 Stat. 1675][/us/stat/129/1675].)
 
  __References in Text__ 
 
@@ -305,9 +331,17 @@
 
     Subsec. (g). [Pub. L. 114–73, § 1302(c)][/us/pl/114/73/s1302/c], designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
 
+    Subsec. (g)(3). [Pub. L. 114–94, § 11315(d)(2)][/us/pl/114/94/s11315/d/2], substituted “to conform with this section” for “by paragraph (2) and subsection (k)”.
+
+    Subsec. (g)(4). [Pub. L. 114–94, § 11315(d)(1)][/us/pl/114/94/s11315/d/1], added par. (4).
+
     Subsec. (h). [Pub. L. 114–73, § 1302(b)(4)][/us/pl/114/73/s1302/b/4], designated existing provisions as par. (1), inserted heading, and added par. (2).
 
     Subsec. (i). [Pub. L. 114–73, § 1302(b)(5)][/us/pl/114/73/s1302/b/5], added pars. (1) and (2) and redesignated former pars. (1) to (3) as (3) to (5), respectively.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
     Subsecs. (j) to (l). [Pub. L. 114–73, § 1302(b)(6)][/us/pl/114/73/s1302/b/6], added subsecs. (j) to (l).
 
@@ -322,6 +356,8 @@
 [/us/stat/122/4856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4856
 [/us/pl/114/73/s1302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1302%2Fb
 [/us/stat/129/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F576
+[/us/pl/114/94/s11315/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11315%2Fd
+[/us/stat/129/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1675
 [/us/pl/114/73/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1302
 [/us/pl/114/73/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1302
 [/us/stat/129/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F576
@@ -333,8 +369,13 @@
 [/us/pl/114/73/s1302/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1302%2Fb%2F2
 [/us/pl/114/73/s1302/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1302%2Fb%2F3
 [/us/pl/114/73/s1302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1302%2Fc
+[/us/pl/114/94/s11315/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11315%2Fd%2F2
+[/us/pl/114/94/s11315/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11315%2Fd%2F1
 [/us/pl/114/73/s1302/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1302%2Fb%2F4
 [/us/pl/114/73/s1302/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1302%2Fb%2F5
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/114/73/s1302/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1302%2Fb%2F6
 
 

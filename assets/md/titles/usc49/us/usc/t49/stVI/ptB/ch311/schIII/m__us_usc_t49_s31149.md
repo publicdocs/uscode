@@ -87,7 +87,7 @@
 
  __Amendment of Subsection (c)(1)__ 
 
-[Pub. L. 112–141, div. C, title II, § 32302(c)(1)][/us/pl/112/141/s32302/c/1], (2)(B), July 6, 2012, [126 Stat. 789][/us/stat/126/789], provided that, effective on the date the oversight policies and procedures are established pursuant to [section 32302(c)(2)(A) of Pub. L. 112–141][/us/pl/112/141/s32302/c/2/A] (set out as a note below), subsection (c)(1) of this section is amended as follows:
+[Pub. L. 112–141, div. C, title II, § 32302(c)(1)][/us/pl/112/141/s32302/c/1], (2)(B), July 6, 2012, [126 Stat. 789][/us/stat/126/789], as amended by [Pub. L. 114–94, div. A, title V, § 5508(b)(3)][/us/pl/114/94/s5508/b/3], Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554], provided that, effective on the date the oversight policies and procedures are established pursuant to [section 32302(c)(2)(A) of Pub. L. 112–141][/us/pl/112/141/s32302/c/2/A] (set out as a note below), subsection (c)(1) of this section is amended as follows:
 
     (1) by amending subparagraph (E) to read as follows:
 
@@ -121,9 +121,11 @@
 
     Amendment by [section 32302(b) of Pub. L. 112–141][/us/pl/112/141/s32302/b] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23][/us/usc/t23/s101], Highways.
 
-[Pub. L. 112–141, div. C, title II, § 32302(c)(2)(B)][/us/pl/112/141/s32302/c/2/B], July 6, 2012, [126 Stat. 789][/us/stat/126/789], provided that: 
+[Pub. L. 112–141, div. C, title II, § 32302(c)(2)(B)][/us/pl/112/141/s32302/c/2/B], July 6, 2012, [126 Stat. 789][/us/stat/126/789], as amended by [Pub. L. 114–94, div. A, title V, § 5508(b)(3)][/us/pl/114/94/s5508/b/3], Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554], provided that: 
 
-> “The amendments made by section 32303(c)(1) \[probably should be “32302(c)(1)”\] of this Act \[amending this section\] shall take effect on the date the oversight policies and procedures are established pursuant to subparagraph (A).”
+> “The amendments made by section 32302(c)(1) of this Act \[amending this section\] shall take effect on the date the oversight policies and procedures are established pursuant to subparagraph (A).”
+
+    \[[Pub. L. 114–94, div. A, title V, § 5508(b)][/us/pl/114/94/s5508/b], Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554], provided that the amendment made by section 5508(b)(3) to [section 32302(c)(2)(B) of Pub. L. 112–141][/us/pl/112/141/s32302/c/2/B], set out above, is effective as of July 6, 2012, and as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted.\]
 
  __Effective Date__ 
 
@@ -132,6 +134,56 @@
 > “The amendments made by subsections (a) and (b) \[enacting this section and amending [section 31136 of this title][/us/usc/t49/s31136]\] shall take effect on the 365th day following the date of enactment of this Act \[Aug. 10, 2005\].”
 
     \[Amendment by [Pub. L. 110–244][/us/pl/110/244] to [section 4116(f) of Pub. L. 109–59][/us/pl/109/59/s4116/f], set out above, effective as of the date of enactment of [Pub. L. 109–59][/us/pl/109/59] (Aug. 10, 2005) and to be treated as included in [Pub. L. 109–59][/us/pl/109/59] as of that date, and provisions of [Pub. L. 109–59][/us/pl/109/59], as in effect on the day before June 6, 2008, that are amended by [Pub. L. 110–244][/us/pl/110/244] to be treated as not enacted, see [section 121(b) of Pub. L. 110–244][/us/pl/110/244/s121/b], set out as an Effective Date of 2008 note under [section 101 of Title 23][/us/usc/t23/s101], Highways.\]
+
+ __Medical Certification of Veterans for Commercial Driver’s Licenses__ 
+
+[Pub. L. 114–94, div. A, title V, § 5403][/us/pl/114/94/s5403], Dec. 4, 2015, [129 Stat. 1548][/us/stat/129/1548], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     In the case of a physician-approved veteran operator, the qualified physician of such operator may, subject to the requirements of subsection (b), perform a medical examination and provide a medical certificate for purposes of compliance with the requirements of [section 31149 of title 49][/us/usc/t49/s31149], United States Code.
+
+>     “(b)  __Certification__  __.—__ 
+
+>     The certification described under subsection (a) shall include—
+
+>         “(1) assurances that the physician performing the medical examination meets the requirements of a qualified physician under this section; and
+
+>         “(2) certification that the physical condition of the operator is adequate to enable such operator to operate a commercial motor vehicle safely.
+
+>     “(c)  __National Registry of Medical Examiners__  __.—__ 
+
+>     The Secretary \[of Transportation\], in consultation with the Secretary of Veterans Affairs, shall develop a process for qualified physicians to perform a medical examination and provide a medical certificate under subsection (a) and include such physicians on the national registry of medical examiners established under [section 31149(d) of title 49][/us/usc/t49/s31149/d], United States Code.
+
+>     “(d)  __Definitions__  __.—__ 
+
+>     In this section, the following definitions apply:
+
+>         “(1)  __Physician-approved veteran operator__  __.—__ 
+
+>         The term ‘physician-approved veteran operator’ means an operator of a commercial motor vehicle who—
+
+>             “(A) is a veteran who is enrolled in the health care system established under [section 1705(a) of title 38][/us/usc/t38/s1705/a], United States Code; and
+
+>             “(B) is required to have a current valid medical certificate pursuant to [section 31149 of title 49][/us/usc/t49/s31149], United States Code.
+
+>         “(2)  __Qualified physician__  __.—__ 
+
+>         The term ‘qualified physician’ means a physician who—
+
+>             “(A) is employed in the Department of Veterans Affairs;
+
+>             “(B) is familiar with the standards for, and physical requirements of, an operator certified pursuant to [section 31149 of title 49][/us/usc/t49/s31149], United States Code; and
+
+>             “(C) has never, with respect to such section, been found to have acted fraudulently, including by fraudulently awarding a medical certificate.
+
+>         “(3)  __Veteran__  __.—__ 
+
+>         The term ‘veteran’ has the meaning given the term in [section 101 of title 38][/us/usc/t38/s101], United States Code.
+
+>     “(e)  __Statutory Construction__  __.—__ 
+
+>     Nothing in this section shall be construed to change any statutory penalty associated with fraud or abuse.”
 
  __Deadline for Establishment of National Registry of Medical Examiners__ 
 
@@ -160,6 +212,8 @@
 [/us/stat/126/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F789
 [/us/pl/112/141/s32302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32302%2Fc%2F1
 [/us/stat/126/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F789
+[/us/pl/114/94/s5508/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fb%2F3
+[/us/stat/129/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1554
 [/us/pl/112/141/s32302/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32302%2Fc%2F2%2FA
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F776
@@ -172,6 +226,12 @@
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/112/141/s32302/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32302%2Fc%2F2%2FB
 [/us/stat/126/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F789
+[/us/pl/114/94/s5508/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fb%2F3
+[/us/stat/129/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1554
+[/us/pl/114/94/s5508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fb
+[/us/stat/129/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1554
+[/us/pl/112/141/s32302/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32302%2Fc%2F2%2FB
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59/s4116/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4116%2Ff
 [/us/stat/119/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1728
 [/us/pl/110/244/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fd
@@ -185,6 +245,14 @@
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
 [/us/pl/110/244/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs121%2Fb
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/114/94/s5403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5403
+[/us/stat/129/1548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1548
+[/us/usc/t49/s31149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31149
+[/us/usc/t49/s31149/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31149%2Fd
+[/us/usc/t38/s1705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1705%2Fa
+[/us/usc/t49/s31149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31149
+[/us/usc/t49/s31149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31149
+[/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
 [/us/pl/112/141/s32302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32302%2Fa
 [/us/stat/126/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F788
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141

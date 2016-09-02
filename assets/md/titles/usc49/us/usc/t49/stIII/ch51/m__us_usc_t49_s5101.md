@@ -71,6 +71,16 @@ Jan. 3, 1975, Pub. L. 93–633, § 102, 88 Stat. 2156.  </td>
 
     2005—[Pub. L. 109–59][/us/pl/109/59] substituted “The purpose of this chapter is to protect against the risks to life, property, and the environment that are inherent in the transportation of hazardous material in intrastate, interstate, and foreign commerce” for “The purpose of this chapter is to provide adequate protection against the risks to life and property inherent in the transportation of hazardous material in commerce by improving the regulatory and enforcement authority of the Secretary of Transportation”.
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–94, div. A, title III, § 3001][/us/pl/114/94/s3001], Dec. 4, 2015, [129 Stat. 1446][/us/stat/129/1446], provided that: 
+
+> “This title \[amending sections 5302 to 5304, 5307, 5309 to 5312, 5314, 5315, 5323, 5325, 5327, 5329, 5336 to 5340, and 10501 of this title and sections 5313 and 5314 of Title 5, Government Organization and Employees, repealing sections 5313, 5319, and 5322 of this title, enacting provisions set out as notes under 5309, 5310, 5325, 5329, 5338 of this title, [section 5313 of Title 5][/us/usc/t5/s5313], and [section 12143 of Title 42][/us/usc/t42/s12143], The Public Health and Welfare, amending provisions set out as a note under sections 5303 of this title, and repealing provisions set out as a note under [section 5309 of this title][/us/usc/t49/s5309]\] may be cited as the ‘Federal Public Transportation Act of 2015’.”
+
+[Pub. L. 114–94, div. A, title VII, § 7001][/us/pl/114/94/s7001], Dec. 4, 2015, [129 Stat. 1588][/us/stat/129/1588], provided that: 
+
+> “This title \[amending sections 5103, 5107 to 5109, 5116, 5117, 5121, and 5128 of this title and enacting provisions set out as notes under sections 5103, 5116, 20103, 20141, 20155, and 31305 of this title\] may be cited as the ‘Hazardous Materials Transportation Safety Improvement Act of 2015’.”
+
  __Short Title of 2012 Amendment__ 
 
 [Pub. L. 112–141, div. B, § 20001][/us/pl/112/141/s20001], July 6, 2012, [126 Stat. 622][/us/stat/126/622], provided that: 
@@ -175,6 +185,13 @@ Jan. 3, 1975, Pub. L. 93–633, § 102, 88 Stat. 2156.  </td>
 [/us/pl/109/59/s7101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7101%2Fb
 [/us/stat/119/1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1891
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/114/94/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3001
+[/us/stat/129/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1446
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
+[/us/usc/t42/s12143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12143
+[/us/usc/t49/s5309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5309
+[/us/pl/114/94/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7001
+[/us/stat/129/1588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1588
 [/us/pl/112/141/s20001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20001
 [/us/stat/126/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F622
 [/us/pl/112/141/s33001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33001

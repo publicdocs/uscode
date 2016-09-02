@@ -75,7 +75,7 @@
 
         (2)  __Cooperation among recipients__  __.—__ 
 
-        The Secretary shall allow at least two recipients to act on a cooperative basis to procure rolling stock in compliance with this subsection and other Government procurement requirements.
+        The Secretary shall allow recipients to act on a cooperative basis to procure rolling stock in compliance with this subsection and other Government procurement requirements.
 
     (f)  __Acquiring Rolling Stock__  __.—__ 
 
@@ -97,7 +97,7 @@
 
     (h)  __Grant Prohibition__  __.—__ 
 
-    A grant awarded under this chapter or the Federal Public Transportation Act of 2012 may not be used to support a procurement that uses an exclusionary or discriminatory specification.
+    A grant awarded under this chapter or the Federal Public Transportation Act of 2015 may not be used to support a procurement that uses an exclusionary or discriminatory specification.
 
     (i)  __Bus Dealer Requirements__  __.—__ 
 
@@ -125,7 +125,7 @@
 
     Recipients and subrecipients of Federal financial assistance under this chapter shall ensure that contractors working on a capital project funded using such assistance give a hiring preference, to the extent practicable, to veterans (as defined in [section 2108 of title 5][/us/usc/t5/s2108]) who have the requisite skills and abilities to perform the construction work required under the contract. This subsection shall not be understood, construed or enforced in any manner that would require an employer to give a preference to any veteran over any equally qualified applicant who is a member of any racial or ethnic minority, female, an individual with a disability, or a former employee.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 825][/us/stat/108/825]; [Pub. L. 104–287, § 5(16)][/us/pl/104/287/s5/16], Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 105–178, title III, § 3022][/us/pl/105/178/s3022], June 9, 1998, [112 Stat. 363][/us/stat/112/363]; [Pub. L. 105–206, title IX, § 9009(n)][/us/pl/105/206/s9009/n], July 22, 1998, [112 Stat. 857][/us/stat/112/857]; [Pub. L. 107–217, § 3(n)(2)][/us/pl/107/217/s3/n/2], Aug. 21, 2002, [116 Stat. 1302][/us/stat/116/1302]; [Pub. L. 109–59, title III, § 3025(a)][/us/pl/109/59/s3025/a], Aug. 10, 2005, [119 Stat. 1620][/us/stat/119/1620]; [Pub. L. 110–244, title II, § 201(k)][/us/pl/110/244/s201/k], June 6, 2008, [122 Stat. 1611][/us/stat/122/1611]; [Pub. L. 112–141, div. B][/us/pl/112/141], §§ 20018, 20030(d), July 6, 2012, [126 Stat. 706][/us/stat/126/706], 730.)
+([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 825][/us/stat/108/825]; [Pub. L. 104–287, § 5(16)][/us/pl/104/287/s5/16], Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 105–178, title III, § 3022][/us/pl/105/178/s3022], June 9, 1998, [112 Stat. 363][/us/stat/112/363]; [Pub. L. 105–206, title IX, § 9009(n)][/us/pl/105/206/s9009/n], July 22, 1998, [112 Stat. 857][/us/stat/112/857]; [Pub. L. 107–217, § 3(n)(2)][/us/pl/107/217/s3/n/2], Aug. 21, 2002, [116 Stat. 1302][/us/stat/116/1302]; [Pub. L. 109–59, title III, § 3025(a)][/us/pl/109/59/s3025/a], Aug. 10, 2005, [119 Stat. 1620][/us/stat/119/1620]; [Pub. L. 110–244, title II, § 201(k)][/us/pl/110/244/s201/k], June 6, 2008, [122 Stat. 1611][/us/stat/122/1611]; [Pub. L. 112–141, div. B][/us/pl/112/141], §§ 20018, 20030(d), July 6, 2012, [126 Stat. 706][/us/stat/126/706], 730; [Pub. L. 114–94, div. A, title III, § 3030(e)][/us/pl/114/94/s3030/e], Dec. 4, 2015, [129 Stat. 1497][/us/stat/129/1497].)
 
 <table>
 
@@ -239,9 +239,13 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 12(b)(4); added Apr. 2, 1987,
 
  __References in Text__ 
 
-    The Federal Public Transportation Act of 2012, referred to in subsec. (h), is div. B of [Pub. L. 112–141][/us/pl/112/141], July 6, 2012, [126 Stat. 622][/us/stat/126/622]. For complete classification of this Act to the Code, see Short Title of 2012 Amendment note set out under [section 5101 of this title][/us/usc/t49/s5101] and Tables.
+    The Federal Public Transportation Act of 2015, referred to in subsec. (h), is title III of [Pub. L. 114–94][/us/pl/114/94], Dec. 4, 2015, [129 Stat. 1446][/us/stat/129/1446]. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 5101 of this title][/us/usc/t49/s5101] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (e)(2). [Pub. L. 114–94, § 3030(e)(1)][/us/pl/114/94/s3030/e/1], struck out “at least two” after “allow”.
+
+    Subsec. (h). [Pub. L. 114–94, § 3030(e)(2)][/us/pl/114/94/s3030/e/2], substituted “Federal Public Transportation Act of 2015” for “Federal Public Transportation Act of 2012”.
 
     2012—Subsec. (b)(2)(A). [Pub. L. 112–141, § 20030(d)][/us/pl/112/141/s20030/d], substituted “the Federal Acquisition Regulation, or any successor thereto” for “title 48, Code of Federal Regulations (commonly known as the Federal Acquisition Regulation)”.
 
@@ -283,6 +287,10 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 12(b)(4); added Apr. 2, 1987,
 
     1996—Subsec. (d). [Pub. L. 104–287][/us/pl/104/287] substituted “Architectural, Engineering, and Design Contracts” for “Management, Architectural, and Engineering Contracts” in heading.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23][/us/usc/t23/s101], Highways.
@@ -294,6 +302,228 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 12(b)(4); added Apr. 2, 1987,
  __Effective Date of 1996 Amendment__ 
 
     Amendment by [Pub. L. 104–287][/us/pl/104/287] effective July 5, 1994, see [section 8(1) of Pub. L. 104–287][/us/pl/104/287/s8/1], set out as a note under [section 5303 of this title][/us/usc/t49/s5303].
+
+ __Innovative Procurement__ 
+
+[Pub. L. 114–94, div. A, title III, § 3019][/us/pl/114/94/s3019], Dec. 4, 2015, [129 Stat. 1488][/us/stat/129/1488], provided that:
+
+>     “(a)  __Definition__  __.—__ 
+
+>     In this section, the term ‘grantee’ means a recipient or subrecipient of assistance under chapter 53 of title 49, United States Code.
+
+>     “(b) __Cooperative Procurement.—__ 
+
+>         “(1) __Definitions; general rules.—__ 
+
+>             “(A)  __Definitions__  __.—__ 
+
+>             In this subsection—
+
+>                 “(i)
+
+>                  the term ‘cooperative procurement contract’ means a contract—
+
+>                          “(I) entered into between a State government or eligible nonprofit entity and 1 or more vendors; and
+
+>                          “(II) under which the vendors agree to provide an option to purchase rolling stock and related equipment to multiple participants;
+
+>                 “(ii)
+
+>                  the term ‘eligible nonprofit entity’ means—
+
+>                          “(I) a nonprofit cooperative purchasing organization that is not a grantee; or
+
+>                          “(II) a consortium of entities described in subclause (I);
+
+>                 “(iii) the terms ‘lead nonprofit entity’ and ‘lead procurement agency’ mean an eligible nonprofit entity or a State government, respectively, that acts in an administrative capacity on behalf of each participant in a cooperative procurement contract;
+
+>                 “(iv) the term ‘participant’ means a grantee that participates in a cooperative procurement contract; and
+
+>                 “(v) the term ‘participate’ means to purchase rolling stock and related equipment under a cooperative procurement contract using assistance provided under chapter 53 of title 49, United States Code.
+
+>             “(B) __General rules.—__ 
+
+>                 “(i)  __Procurement not limited to intrastate participants__  __.—__ 
+
+>                 A grantee may participate in a cooperative procurement contract without regard to whether the grantee is located in the same State as the parties to the contract.
+
+>                 “(ii)  __Voluntary participation__  __.—__ 
+
+>                 Participation by grantees in a cooperative procurement contract shall be voluntary.
+
+>                 “(iii)  __Contract terms__  __.—__ 
+
+>                 The lead procurement agency or lead nonprofit entity for a cooperative procurement contract shall develop the terms of the contract.
+
+>                 “(iv)  __Duration__  __.—__ 
+
+>                 A cooperative procurement contract—
+
+>                          “(I) subject to subclauses (II) and (III), may be for an initial term of not more than 2 years;
+
+>                          “(II) may include not more than 3 optional extensions for terms of not more than 1 year each; and
+
+>                          “(III) may be in effect for a total period of not more than 5 years, including each extension authorized under subclause (II).
+
+>                 “(v)  __Administrative expenses__  __.—__ 
+
+>                 A lead procurement agency or lead nonprofit entity, as applicable, that enters into a cooperative procurement contract—
+
+>                          “(I) may charge the participants in the contract for the cost of administering, planning, and providing technical assistance for the contract in an amount that is not more than 1 percent of the total value of the contract; and
+
+>                          “(II) with respect to the cost described in subclause (I), may incorporate the cost into the price of the contract or directly charge the participants for the cost, but not both.
+
+>         “(2) __State cooperative procurement schedules.—__ 
+
+>             “(A)  __Authority__  __.—__ 
+
+>             A State government may enter into a cooperative procurement contract with 1 or more vendors if—
+
+>                 “(i) the vendors agree to provide an option to purchase rolling stock and related equipment to the State government and any other participant; and
+
+>                 “(ii) the State government acts throughout the term of the contract as the lead procurement agency.
+
+>             “(B)  __Applicability of policies and procedures__  __.—__ 
+
+>             In procuring rolling stock and related equipment under a cooperative procurement contract under this subsection, a State government shall comply with the policies and procedures that apply to procurement by the State government when using non-Federal funds, to the extent that the policies and procedures are in conformance with applicable Federal law.
+
+>         “(3) __Pilot program for nonprofit cooperative procurements.—__ 
+
+>             “(A)  __Establishment__  __.—__ 
+
+>             The Secretary \[of Transportation\] shall establish and carry out a pilot program to demonstrate the effectiveness of cooperative procurement contracts administered by eligible nonprofit entities.
+
+>             “(B)  __Designation__  __.—__ 
+
+>             In carrying out the program under this paragraph, the Secretary shall designate not less than 3 eligible nonprofit entities to enter into a cooperative procurement contract under which the eligible nonprofit entity acts throughout the term of the contract as the lead nonprofit entity.
+
+>             “(C)  __Notice of intent to participate__  __.—__ 
+
+>             At a time determined appropriate by the lead nonprofit entity, each participant in a cooperative procurement contract under this paragraph shall submit to the lead nonprofit entity a nonbinding notice of intent to participate.
+
+>         “(4) __Joint procurement clearinghouse.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             The Secretary shall establish a clearinghouse for the purpose of allowing grantees to aggregate planned rolling stock purchases and identify joint procurement participants.
+
+>             “(B)  __Nonprofit consultation__  __.—__ 
+
+>             In establishing the clearinghouse under subparagraph (A), the Secretary may consult with nonprofit entities with expertise in public transportation or procurement, and other stakeholders as the Secretary determines appropriate.
+
+>             “(C)  __Information on procurements__  __.—__ 
+
+>             The clearinghouse may include information on bus size, engine type, floor type, and any other attributes necessary to identify joint procurement participants.
+
+>             “(D) __Limitations.—__ 
+
+>                 “(i)  __Access__  __.—__ 
+
+>                 The clearinghouse shall only be accessible to the Federal Transit Administration, a nonprofit entity coordinating for such clearinghouse with the Secretary, and grantees.
+
+>                 “(ii)  __Participation__  __.—__ 
+
+>                 No grantee shall be required to submit procurement information to the database.
+
+>     “(c) __Leasing Arrangements.—__ 
+
+>         “(1) __Capital lease defined.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             In this subsection, the term ‘capital lease’ means any agreement under which a grantee acquires the right to use rolling stock or related equipment for a specified period of time, in exchange for a periodic payment.
+
+>             “(B)  __Maintenance__  __.—__ 
+
+>             A capital lease may require that the lessor provide maintenance of the rolling stock or related equipment covered by the lease.
+
+>         “(2) __Program to support innovative leasing arrangements.—__ 
+
+>             “(A)  __Authority__  __.—__ 
+
+>             A grantee may use assistance provided under chapter 53 of title 49, United States Code, to enter into a capital lease if—
+
+>                 “(i) the rolling stock or related equipment covered under the lease is eligible for capital assistance under such chapter; and
+
+>                 “(ii) there is or will be no Federal interest in the rolling stock or related equipment covered under the lease as of the date on which the lease takes effect.
+
+>             “(B)  __Grantee requirements__  __.—__ 
+
+>             A grantee that enters into a capital lease shall—
+
+>                 “(i) maintain an inventory of the rolling stock or related equipment acquired under the lease; and
+
+>                 “(ii) maintain on the accounting records of the grantee the liability of the grantee under the lease.
+
+>             “(C)  __Eligible lease costs__  __.—__ 
+
+>             The costs for which a grantee may use assistance under chapter 53 of title 49, United States Code, with respect to a capital lease, include—
+
+>                 “(i) the cost of the rolling stock or related equipment;
+
+>                 “(ii) associated financing costs, including interest, legal fees, and financial advisor fees;
+
+>                 “(iii) ancillary costs such as delivery and installation charges; and
+
+>                 “(iv) maintenance costs.
+
+>             “(D)  __Terms__  __.—__ 
+
+>             A grantee shall negotiate the terms of any lease agreement that the grantee enters into.
+
+>             “(E) __Applicability of procurement requirements.—__ 
+
+>                 “(i)  __Lease requirements__  __.—__ 
+
+>                 Part 639 of title 49, Code of Federal Regulations, or any successor regulation, and implementing guidance applicable to leasing shall not apply to a capital lease.
+
+>                 “(ii)  __Buy america__  __.—__ 
+
+>                 The requirements under [section 5323(j) of title 49][/us/usc/t49/s5323/j], United States Code, shall apply to a capital lease.
+
+>         “(3) __Capital leasing of certain zero emission vehicle components.—__ 
+
+>             “(A)  __Definitions__  __.—__ 
+
+>             In this paragraph—
+
+>                 “(i)
+
+>                  the term ‘removable power source’—
+
+>                          “(I) means a power source that is separately installed in, and removable from, a zero emission vehicle; and
+
+>                          “(II) may include a battery, a fuel cell, an ultra-capacitor, or other advanced power source used in a zero emission vehicle; and
+
+>                 “(ii) the term ‘zero emission vehicle’ has the meaning given the term in [section 5339(c) of title 49][/us/usc/t49/s5339/c], United States Code.
+
+>             “(B)  __Leased power sources__  __.—__ 
+
+>             Notwithstanding any other provision of law, for purposes of this subsection, the cost of a removable power source that is necessary for the operation of a zero emission vehicle shall not be treated as part of the cost of the vehicle if the removable power source is acquired using a capital lease.
+
+>             “(C)  __Eligible capital lease__  __.—__ 
+
+>             A grantee may acquire a removable power source by itself through a capital lease.
+
+>             “(D)  __Procurement regulations__  __.—__ 
+
+>             For purposes of this section, a removable power source shall be subject to section 200.88 of title 2, Code of Federal Regulations.
+
+>         “(4)  __Reporting requirement__  __.—__ 
+
+>         Not later than 3 years after the date on which a grantee enters into a capital lease under this subsection, the grantee shall submit to the Secretary a report that contains—
+
+>             “(A) an evaluation of the overall costs and benefits of leasing rolling stock; and
+
+>             “(B) a comparison of the expected short-term and long-term maintenance costs of leasing versus buying rolling stock.
+
+>         “(5)  __Report__  __.—__ 
+
+>         The Secretary shall make publicly available an annual report on this subsection for each fiscal year, not later than December 31 of the calendar year in which that fiscal year ends. The report shall include a detailed description of the activities carried out under this subsection, and evaluation of the program including the evaluation of the data reported in paragraph (4).
+
+>     “(d)  __Buy America__  __.—__ 
+
+>     The requirements of [section 5323(j) of title 49][/us/usc/t49/s5323/j], United States Code, shall apply to all procurements under this section.”
 
 ----------
 
@@ -319,10 +549,14 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 12(b)(4); added Apr. 2, 1987,
 [/us/stat/122/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1611
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F706
+[/us/pl/114/94/s3030/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3030%2Fe
+[/us/stat/129/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1497
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/stat/126/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F622
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1446
 [/us/usc/t49/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5101
+[/us/pl/114/94/s3030/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3030%2Fe%2F1
+[/us/pl/114/94/s3030/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3030%2Fe%2F2
 [/us/pl/112/141/s20030/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20030%2Fd
 [/us/pl/112/141/s20018/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20018%2F1
 [/us/pl/112/141/s20018/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20018%2F2
@@ -341,6 +575,9 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 12(b)(4); added Apr. 2, 1987,
 [/us/usc/t49/s5307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5307
 [/us/pl/105/178/s3022/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3022%2Fa%2F2
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
@@ -354,5 +591,10 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 12(b)(4); added Apr. 2, 1987,
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/287/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs8%2F1
 [/us/usc/t49/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5303
+[/us/pl/114/94/s3019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3019
+[/us/stat/129/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1488
+[/us/usc/t49/s5323/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5323%2Fj
+[/us/usc/t49/s5339/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5339%2Fc
+[/us/usc/t49/s5323/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5323%2Fj
 
 

@@ -69,7 +69,7 @@
 
             (B)  __Grants and contracts__  __.—__ 
 
-            In carrying out this paragraph, the Secretary may use not more than 2 percent of the amount made available under section 5338(a)(2)(E) to make grants and contracts for transportation research, technical assistance, training, and related support services in rural areas.
+            In carrying out this paragraph, the Secretary may use not more than 2 percent of the amount made available under section 5338(a)(2)(F) to make grants and contracts for transportation research, technical assistance, training, and related support services in rural areas.
 
             (C)  __Projects of a national scope__  __.—__ 
 
@@ -97,11 +97,11 @@
 
         (1)  __Public transportation on indian reservations__  __.—__ 
 
-        Of the amounts made available or appropriated for each fiscal year pursuant to section 5338(a)(2)(E) to carry out this paragraph, the following amounts shall be apportioned each fiscal year for grants to Indian tribes for any purpose eligible under this section, under such terms and conditions as may be established by the Secretary:
+        Of the amounts made available or appropriated for each fiscal year pursuant to section 5338(a)(2)(F) to carry out this paragraph, the following amounts shall be apportioned each fiscal year for grants to Indian tribes for any purpose eligible under this section, under such terms and conditions as may be established by the Secretary:
 
-            (A) $5,000,000 for each fiscal year ending before October 1, 2015, and $887,978 for the period beginning on October 1, 2015, and ending on December 4, 2015, shall be distributed on a competitive basis by the Secretary.
+            (A) $5,000,000 for each fiscal year shall be distributed on a competitive basis by the Secretary.
 
-            (B) $25,000,000 for each fiscal year ending before October 1, 2015, and $4,439,891 for the period beginning on October 1, 2015, and ending on December 4, 2015, shall be apportioned as formula grants, as provided in subsection (j).
+            (B) $30,000,000 for each fiscal year shall be apportioned as formula grants, as provided in subsection (j).
 
         (2) __Appalachian development public transportation assistance program.—__ 
 
@@ -119,7 +119,7 @@
 
             (C)  __Apportionment__  __.—__ 
 
-            Of amounts made available or appropriated for each fiscal year under section 5338(a)(2)(E) to carry out this paragraph, the Secretary shall apportion funds to eligible recipients for any purpose eligible under this section, based on the guidelines established under section 9.5(b) of the Appalachian Regional Commission Code.
+            Of amounts made available or appropriated for each fiscal year under section 5338(a)(2)(F) to carry out this paragraph, the Secretary shall apportion funds to eligible recipients for any purpose eligible under this section, based on the guidelines established under section 9.5(b) of the Appalachian Regional Commission Code.
 
             (D)  __Special rule__  __.—__ 
 
@@ -133,7 +133,7 @@
 
             (A)  __In general__  __.—__ 
 
-            The amounts made available or appropriated for each fiscal year pursuant to section 5338(a)(2)(E) that are not apportioned under paragraph (1) or (2) shall be apportioned in accordance with this paragraph.
+            The amounts made available or appropriated for each fiscal year pursuant to section 5338(a)(2)(F) that are not apportioned under paragraph (1) or (2) shall be apportioned in accordance with this paragraph.
 
             (B) __Apportionment based on land area and population in nonurbanized areas.—__ 
 
@@ -235,13 +235,17 @@
 
         The remainder of net project costs—
 
-            (A) may be provided from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, a service agreement with a State or local social service agency or a private social service organization, or new capital;
+            (A) may be provided in cash from non-Government sources;
 
-            (B) may be derived from amounts appropriated or otherwise made available to a department or agency of the Government (other than the Department of Transportation) that are eligible to be expended for transportation;
+            (B) may be provided from revenues from the sale of advertising and concessions;
 
-            (C) notwithstanding subparagraph (B), may be derived from amounts made available to carry out the Federal lands highway program established by section 204  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 23; and
+            (C) may be provided from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, a service agreement with a State or local social service agency or a private social service organization, or new capital;
 
-            (D) in the case of an intercity bus project that includes both feeder service and an unsubsidized segment of intercity bus service to which the feeder service connects, may be derived from the costs of a private operator for the unsubsidized segment of intercity bus service as an in-kind match for the operating costs of connecting rural intercity bus feeder service funded under subsection (f), if the private operator agrees in writing to the use of the costs of the private operator for the unsubsidized segment of intercity bus service as an in-kind match.
+            (D) may be derived from amounts appropriated or otherwise made available to a department or agency of the Government (other than the Department of Transportation) that are eligible to be expended for transportation;
+
+            (E) notwithstanding subparagraph (B), may be derived from amounts made available to carry out the Federal lands highway program established by section 204  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 23; and
+
+            (F) in the case of an intercity bus project that includes both feeder service and an unsubsidized segment of intercity bus service to which the feeder service connects, may be derived from the costs of a private operator for the unsubsidized segment of intercity bus service, including all operating and capital costs of such service whether or not offset by revenue from such service, as an in-kind match for the operating costs of connecting rural intercity bus feeder service funded under subsection (f), if the private operator agrees in writing to the use of the costs of the private operator for the unsubsidized segment of intercity bus service as an in-kind match.
 
         (4)  __Use of certain funds__  __.—__ 
 
@@ -277,7 +281,7 @@
 
                 (ii) 25 percent of the total amount shall be apportioned equally among each Indian tribe providing at least 200,000 vehicle revenue miles of public transportation service annually, as reported to the Secretary; and
 
-                (iii) 25 percent of the total amount shall be apportioned among each Indian tribe providing public transportation on tribal lands (as defined by the Bureau of the Census) on which more than 1,000 low-income individuals reside (as determined by the Bureau of the Census) so that each Indian tribe shall receive an amount equal to the total amount apportioned under this clause multiplied by the ratio of the number of low-income individuals residing on an Indian tribe’s lands divided by the total number of low-income individuals on tribal lands on which more than 1,000 low-income individuals reside.
+                (iii) 25 percent of the total amount shall be apportioned among each Indian tribe providing public transportation on tribal lands (American Indian Areas, Alaska Native Areas, and Hawaiian Home Lands, as defined by the Bureau of the Census) on which more than 1,000 low-income individuals reside (as determined by the Bureau of the Census) so that each Indian tribe shall receive an amount equal to the total amount apportioned under this clause multiplied by the ratio of the number of low-income individuals residing on an Indian tribe’s lands divided by the total number of low-income individuals on tribal lands on which more than 1,000 low-income individuals reside.
 
             (B)  __Limitation__  __.—__ 
 
@@ -291,11 +295,15 @@
 
             For purposes of subparagraph (A)(iii), the term “low-income individual” means an individual whose family income is at or below 100 percent of the poverty line, as that term is defined in section 673(2) of the Community Services Block Grant Act ([42 U.S.C. 9902(2)][/us/usc/t42/s9902/2]), including any revision required by that section, for a family of the size involved.
 
+            (E)  __Allocation between multiple indian tribes__  __.—__ 
+
+            If more than 1 Indian tribe provides public transportation service on tribal lands in a single Tribal Statistical Area, and the Indian tribes do not determine how to allocate the funds apportioned under clause (iii) of subparagraph (A) between the Indian tribes, the Secretary shall allocate the funds so that each Indian tribe shall receive an amount equal to the total amount apportioned under such clause (iii) multiplied by the ratio of the number of annual unlinked passenger trips provided by each Indian tribe, as reported to the National Transit Database, to the total unlinked passenger trips provided by all Indian tribes in the Tribal Statistical Area.
+
         (2)  __Non-tribal service providers__  __.—__ 
 
         A recipient that is an Indian tribe may use funds apportioned under this subsection to finance public transportation services provided by a non-tribal provider of public transportation that connects residents of tribal lands with surrounding communities, improves access to employment or healthcare, or otherwise addresses the mobility needs of tribal members.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 809][/us/stat/108/809]; [Pub. L. 105–178, title III, § 3014(a)][/us/pl/105/178/s3014/a], June 9, 1998, [112 Stat. 359][/us/stat/112/359]; [Pub. L. 109–59, title III][/us/pl/109/59], §§ 3002(b)(4), 3013(a)–(h), Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545], 1593–1596; [Pub. L. 110–244, title II, § 201(e)][/us/pl/110/244/s201/e], June 6, 2008, [122 Stat. 1610][/us/stat/122/1610]; [Pub. L. 111–147, title IV, § 434][/us/pl/111/147/s434], Mar. 18, 2010, [124 Stat. 89][/us/stat/124/89]; [Pub. L. 111–322, title II, § 2304][/us/pl/111/322/s2304], Dec. 22, 2010, [124 Stat. 3527][/us/stat/124/3527]; [Pub. L. 112–5, title III, § 304][/us/pl/112/5/s304], Mar. 4, 2011, [125 Stat. 19][/us/stat/125/19]; [Pub. L. 112–30, title I, § 134][/us/pl/112/30/s134], Sept. 16, 2011, [125 Stat. 351][/us/stat/125/351]; [Pub. L. 112–102, title III, § 304][/us/pl/112/102/s304], Mar. 30, 2012, [126 Stat. 277][/us/stat/126/277]; [Pub. L. 112–140, title III, § 304][/us/pl/112/140/s304], June 29, 2012, [126 Stat. 398][/us/stat/126/398]; [Pub. L. 112–141, div. B, § 20010][/us/pl/112/141/s20010], div. G, title III, § 113004, July 6, 2012, [126 Stat. 680][/us/stat/126/680], 985; [Pub. L. 113–159, title I, § 1201][/us/pl/113/159/s1201], Aug. 8, 2014, [128 Stat. 1845][/us/stat/128/1845]; [Pub. L. 114–21, title I, § 1201][/us/pl/114/21/s1201], May 29, 2015, [129 Stat. 222][/us/stat/129/222]; [Pub. L. 114–41, title I, § 1201][/us/pl/114/41/s1201], July 31, 2015, [129 Stat. 450][/us/stat/129/450]; [Pub. L. 114–73, title I, § 1201][/us/pl/114/73/s1201], Oct. 29, 2015, [129 Stat. 572][/us/stat/129/572]; [Pub. L. 114–87, title I, § 1201][/us/pl/114/87/s1201], Nov. 20, 2015, [129 Stat. 681][/us/stat/129/681].)
+([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 809][/us/stat/108/809]; [Pub. L. 105–178, title III, § 3014(a)][/us/pl/105/178/s3014/a], June 9, 1998, [112 Stat. 359][/us/stat/112/359]; [Pub. L. 109–59, title III][/us/pl/109/59], §§ 3002(b)(4), 3013(a)–(h), Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545], 1593–1596; [Pub. L. 110–244, title II, § 201(e)][/us/pl/110/244/s201/e], June 6, 2008, [122 Stat. 1610][/us/stat/122/1610]; [Pub. L. 111–147, title IV, § 434][/us/pl/111/147/s434], Mar. 18, 2010, [124 Stat. 89][/us/stat/124/89]; [Pub. L. 111–322, title II, § 2304][/us/pl/111/322/s2304], Dec. 22, 2010, [124 Stat. 3527][/us/stat/124/3527]; [Pub. L. 112–5, title III, § 304][/us/pl/112/5/s304], Mar. 4, 2011, [125 Stat. 19][/us/stat/125/19]; [Pub. L. 112–30, title I, § 134][/us/pl/112/30/s134], Sept. 16, 2011, [125 Stat. 351][/us/stat/125/351]; [Pub. L. 112–102, title III, § 304][/us/pl/112/102/s304], Mar. 30, 2012, [126 Stat. 277][/us/stat/126/277]; [Pub. L. 112–140, title III, § 304][/us/pl/112/140/s304], June 29, 2012, [126 Stat. 398][/us/stat/126/398]; [Pub. L. 112–141, div. B, § 20010][/us/pl/112/141/s20010], div. G, title III, § 113004, July 6, 2012, [126 Stat. 680][/us/stat/126/680], 985; [Pub. L. 113–159, title I, § 1201][/us/pl/113/159/s1201], Aug. 8, 2014, [128 Stat. 1845][/us/stat/128/1845]; [Pub. L. 114–21, title I, § 1201][/us/pl/114/21/s1201], May 29, 2015, [129 Stat. 222][/us/stat/129/222]; [Pub. L. 114–41, title I, § 1201][/us/pl/114/41/s1201], July 31, 2015, [129 Stat. 450][/us/stat/129/450]; [Pub. L. 114–73, title I, § 1201][/us/pl/114/73/s1201], Oct. 29, 2015, [129 Stat. 572][/us/stat/129/572]; [Pub. L. 114–87, title I, § 1201][/us/pl/114/87/s1201], Nov. 20, 2015, [129 Stat. 681][/us/stat/129/681]; [Pub. L. 114–94, div. A, title III, § 3007][/us/pl/114/94/s3007], Dec. 4, 2015, [129 Stat. 1464][/us/stat/129/1464].)
 
 <table>
 
@@ -583,11 +591,17 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 18(g) (related to this sectio
 
  __References in Text__ 
 
-    [Section 204 of title 23][/us/usc/t23/s204], referred to in subsec. (g)(3)(C), was repealed and a new section 204 was enacted by [Pub. L. 112–141, div. A, title I, § 1119(a)][/us/pl/112/141/s1119/a], July 6, 2012, [126 Stat. 473][/us/stat/126/473], 489. As enacted by [Pub. L. 112–141][/us/pl/112/141], section 204 relates to the Federal lands access program.
+    [Section 204 of title 23][/us/usc/t23/s204], referred to in subsec. (g)(3)(E), was repealed and a new section 204 was enacted by [Pub. L. 112–141, div. A, title I, § 1119(a)][/us/pl/112/141/s1119/a], July 6, 2012, [126 Stat. 473][/us/stat/126/473], 489. As enacted by [Pub. L. 112–141][/us/pl/112/141], section 204 relates to the Federal lands access program.
 
  __Amendments__ 
 
-    2015—Subsec. (c)(1)(A). [Pub. L. 114–87, § 1201(1)][/us/pl/114/87/s1201/1], substituted “and $887,978 for the period beginning on October 1, 2015, and ending on December 4, 2015,” for “and $696,721 for the period beginning on October 1, 2015, and ending on November 20, 2015,”.
+    2015—Subsec. (b)(3)(B). [Pub. L. 114–94, § 3007(b)(1)][/us/pl/114/94/s3007/b/1], substituted “5338(a)(2)(F)” for “5338(a)(2)(E)”.
+
+    Subsec. (c)(1). [Pub. L. 114–94, § 3007(b)(2)(A)][/us/pl/114/94/s3007/b/2/A], substituted “5338(a)(2)(F)” for “5338(a)(2)(E)” in introductory provisions.
+
+    Subsec. (c)(1)(A). [Pub. L. 114–94, § 3007(a)(1)][/us/pl/114/94/s3007/a/1], added subpar. (A) and struck out former subpar. (A), which read as follows: “$5,000,000 for each fiscal year ending before October 1, 2015, and $887,978 for the period beginning on October 1, 2015, and ending on December 4, 2015, shall be distributed on a competitive basis by the Secretary.”
+
+    [Pub. L. 114–87, § 1201(1)][/us/pl/114/87/s1201/1], substituted “and $887,978 for the period beginning on October 1, 2015, and ending on December 4, 2015,” for “and $696,721 for the period beginning on October 1, 2015, and ending on November 20, 2015,”.
 
     [Pub. L. 114–73, § 1201(1)][/us/pl/114/73/s1201/1], substituted “and $696,721 for the period beginning on October 1, 2015, and ending on November 20, 2015,” for “and $396,175 for the period beginning on October 1, 2015, and ending on October 29, 2015,”.
 
@@ -595,13 +609,25 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 18(g) (related to this sectio
 
     [Pub. L. 114–21, § 1201(1)][/us/pl/114/21/s1201/1], substituted “and $4,164,384 for the period beginning on October 1, 2014, and ending on July 31, 2015,” for “and $3,328,767 for the period beginning on October 1, 2014, and ending on May 31, 2015,”.
 
-    Subsec. (c)(1)(B). [Pub. L. 114–87, § 1201(2)][/us/pl/114/87/s1201/2], substituted “and $4,439,891 for the period beginning on October 1, 2015, and ending on December 4, 2015,” for “and $3,483,607 for the period beginning on October 1, 2015, and ending on November 20, 2015,”.
+    Subsec. (c)(1)(B). [Pub. L. 114–94, § 3007(a)(1)][/us/pl/114/94/s3007/a/1], added subpar. (B) and struck out former subpar. (B), which read as follows: “$25,000,000 for each fiscal year ending before October 1, 2015, and $4,439,891 for the period beginning on October 1, 2015, and ending on December 4, 2015, shall be apportioned as formula grants, as provided in subsection (j).”
+
+    [Pub. L. 114–87, § 1201(2)][/us/pl/114/87/s1201/2], substituted “and $4,439,891 for the period beginning on October 1, 2015, and ending on December 4, 2015,” for “and $3,483,607 for the period beginning on October 1, 2015, and ending on November 20, 2015,”.
 
     [Pub. L. 114–73, § 1201(2)][/us/pl/114/73/s1201/2], substituted “and $3,483,607 for the period beginning on October 1, 2015, and ending on November 20, 2015,” for “and $1,980,874 for the period beginning on October 1, 2015, and ending on October 29, 2015,”.
 
     [Pub. L. 114–41, § 1201(2)][/us/pl/114/41/s1201/2], substituted “for each fiscal year ending before October 1, 2015, and $1,980,874 for the period beginning on October 1, 2015, and ending on October 29, 2015,” for “for each fiscal year ending before October 1, 2014, and $20,821,918 for the period beginning on October 1, 2014, and ending on July 31, 2015,”.
 
     [Pub. L. 114–21, § 1201(2)][/us/pl/114/21/s1201/2], substituted “and $20,821,918 for the period beginning on October 1, 2014, and ending on July 31, 2015,” for “and $16,643,836 for the period beginning on October 1, 2014, and ending on May 31, 2015,”.
+
+    Subsec. (c)(2)(C). [Pub. L. 114–94, § 3007(b)(2)(B)][/us/pl/114/94/s3007/b/2/B], substituted “5338(a)(2)(F)” for “5338(a)(2)(E)”.
+
+    Subsec. (c)(3)(A). [Pub. L. 114–94, § 3007(b)(2)(C)][/us/pl/114/94/s3007/b/2/C], substituted “5338(a)(2)(F)” for “5338(a)(2)(E)”.
+
+    Subsec. (g)(3). [Pub. L. 114–94, § 3007(a)(2)][/us/pl/114/94/s3007/a/2], added subpars. (A) and (B), redesignated former subpars. (A) to (D) as (C) to (F), respectively, and in subpar. (F), inserted “, including all operating and capital costs of such service whether or not offset by revenue from such service,” after “the costs of a private operator for the unsubsidized segment of intercity bus service”.
+
+    Subsec. (j)(1)(A)(iii). [Pub. L. 114–94, § 3007(a)(3)(A)][/us/pl/114/94/s3007/a/3/A], substituted “(American Indian Areas, Alaska Native Areas, and Hawaiian Home Lands, as defined by the Bureau of the Census)” for “(as defined by the Bureau of the Census)”.
+
+    Subsec. (j)(1)(E). [Pub. L. 114–94, § 3007(a)(3)(B)][/us/pl/114/94/s3007/a/3/B], added subpar. (E).
 
     2014—Subsec. (c)(1)(A). [Pub. L. 113–159, § 1201(1)][/us/pl/113/159/s1201/1], inserted “for each fiscal year ending before October 1, 2014, and $3,328,767 for the period beginning on October 1, 2014, and ending on May 31, 2015,” before “shall be distributed”.
 
@@ -669,6 +695,10 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 18(g) (related to this sectio
 
     Subsec. (f)(1). [Pub. L. 105–178, § 3014(a)(2)][/us/pl/105/178/s3014/a/2], struck out “10 percent of the amount made available in the fiscal year ending September 30, 1993, and” before “15 percent of the amount” in introductory provisions.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective and Termination Dates of 2012 Amendment__ 
 
     Amendment by [section 20010 of Pub. L. 112–141][/us/pl/112/141/s20010] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out a note under [section 101 of Title 23][/us/usc/t23/s101], Highways.
@@ -721,18 +751,29 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 18(g) (related to this sectio
 [/us/stat/129/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F572
 [/us/pl/114/87/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1201
 [/us/stat/129/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F681
+[/us/pl/114/94/s3007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3007
+[/us/stat/129/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1464
 [/us/usc/t23/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs204
 [/us/pl/112/141/s1119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1119%2Fa
 [/us/stat/126/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F473
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/114/94/s3007/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3007%2Fb%2F1
+[/us/pl/114/94/s3007/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3007%2Fb%2F2%2FA
+[/us/pl/114/94/s3007/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3007%2Fa%2F1
 [/us/pl/114/87/s1201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1201%2F1
 [/us/pl/114/73/s1201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1201%2F1
 [/us/pl/114/41/s1201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1201%2F1
 [/us/pl/114/21/s1201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1201%2F1
+[/us/pl/114/94/s3007/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3007%2Fa%2F1
 [/us/pl/114/87/s1201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1201%2F2
 [/us/pl/114/73/s1201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1201%2F2
 [/us/pl/114/41/s1201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1201%2F2
 [/us/pl/114/21/s1201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1201%2F2
+[/us/pl/114/94/s3007/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3007%2Fb%2F2%2FB
+[/us/pl/114/94/s3007/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3007%2Fb%2F2%2FC
+[/us/pl/114/94/s3007/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3007%2Fa%2F2
+[/us/pl/114/94/s3007/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3007%2Fa%2F3%2FA
+[/us/pl/114/94/s3007/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3007%2Fa%2F3%2FB
 [/us/pl/113/159/s1201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs1201%2F1
 [/us/pl/113/159/s1201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs1201%2F2
 [/us/pl/112/141/s20010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20010
@@ -764,6 +805,9 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 18(g) (related to this sectio
 [/us/pl/109/59/s3013/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3013%2Fg%2F2
 [/us/pl/105/178/s3014/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3014%2Fa%2F1
 [/us/pl/105/178/s3014/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3014%2Fa%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141/s20010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20010
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

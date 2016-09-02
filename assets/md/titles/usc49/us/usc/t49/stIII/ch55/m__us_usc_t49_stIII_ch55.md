@@ -49,9 +49,9 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs5503" data-uslm-ref="/us/usc/t49/s5503">5503.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs5503" data-uslm-ref="/us/usc/t49/s5503">5503.</a>  </td>
 
-    <td> Office of Intermodalism.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -155,6 +155,8 @@ SUBCHAPTER II—TERMINALS  </td>
 
  __Amendments__ 
 
+    2015—[Pub. L. 114–94, div. A, title VI, § 6015(b)][/us/pl/114/94/s6015/b], Dec. 4, 2015, [129 Stat. 1571][/us/stat/129/1571], struck out item 5503 “Office of Intermodalism”.
+
     2012—[Pub. L. 112–141, div. E, title II][/us/pl/112/141], §§ 52009(b), 52010(b), July 6, 2012, [126 Stat. 887][/us/stat/126/887], added item 5505, struck out former item 5505 “National university transportation centers”, and struck out item 5506 “University transportation research”.
 
     2005—[Pub. L. 109–59, title V][/us/pl/109/59], §§ 5401(c), 5402(c), Aug. 10, 2005, [119 Stat. 1815][/us/stat/119/1815], 1820, substituted “National university transportation centers” for “University transportation research” in item 5505 and “University transportation research” for “Advanced vehicle technologies program” in item 5506.
@@ -168,6 +170,8 @@ SUBCHAPTER II—TERMINALS  </td>
 ----------
 ----------
 
+[/us/pl/114/94/s6015/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6015%2Fb
+[/us/stat/129/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1571
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F887
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59

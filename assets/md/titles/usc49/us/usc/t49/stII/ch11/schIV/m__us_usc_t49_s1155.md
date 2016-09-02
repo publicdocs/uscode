@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stII/ch11/schIV/m__us_usc_t49_s1154.md) | [Next](./../../../../../..//us/usc/t49/stIII/m__us_usc_t49_stIII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1155)
+[Previous](./../../../../../..//us/usc/t49/stII/ch11/schIV/m__us_usc_t49_s1154.md) | [Next](./../../../../../..//us/usc/t49/stII/ch13/m__us_usc_t49_stII_ch13.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1155)
 
 ## § 1155. Aviation penalties
 
@@ -257,7 +257,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 902(p); added Oct. 15, 1962,
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stII/ch11/schIV/m__us_usc_t49_s1154.md) | [Next](./../../../../../..//us/usc/t49/stIII/m__us_usc_t49_stIII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1155)
+[Previous](./../../../../../..//us/usc/t49/stII/ch11/schIV/m__us_usc_t49_s1154.md) | [Next](./../../../../../..//us/usc/t49/stII/ch13/m__us_usc_t49_stII_ch13.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1155)
 
 ----------
 ----------

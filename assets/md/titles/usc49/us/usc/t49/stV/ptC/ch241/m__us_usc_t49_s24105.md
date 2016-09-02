@@ -11,61 +11,29 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch241/m__us_usc_t49_s24104.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch243/m__us_usc_t49_stV_ptC_ch243.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24105)
+[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch241/m__us_usc_t49_s24104.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch242/m__us_usc_t49_stV_ptC_ch242.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24105)
 
-## § 24105. Congestion grants
+## \[§ 24105. Repealed. [Pub. L. 114–94, div. A, title XI, § 11301(c)(2)][/us/pl/114/94/s11301/c/2], Dec. 4, 2015, [129 Stat. 1648][/us/stat/129/1648]\]
 
-    (a)  __Authority__  __.—__ 
+    Section, [Pub. L. 110–432, div. B, title III, § 302(a)][/us/pl/110/432/s302/a], Oct. 16, 2008, [122 Stat. 4947][/us/stat/122/4947], related to congestion grants.
 
-    The Secretary of Transportation may make grants to States, or to Amtrak in cooperation with States, for financing the capital costs of facilities, infrastructure, and equipment for high priority rail corridor projects necessary to reduce congestion or facilitate ridership growth in intercity rail passenger transportation.
+ __Effective Date of Repeal__ 
 
-    (b)  __Eligible Projects__  __.—__ 
-
-    Projects eligible for grants under this section include projects—
-
-        (1) identified by Amtrak as necessary to reduce congestion or facilitate ridership growth in intercity rail passenger transportation along heavily traveled rail corridors;
-
-        (2) identified by the Surface Transportation Board as necessary to improve the on time  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “on-time”. </sup></sup>  performance and reliability of intercity rail passenger transportation under section 24308(f); and
-
-        (3) designated by the Secretary as being sufficiently advanced in development to be capable of serving the purposes described in subsection (a) on an expedited schedule.
-
-    (c)  __Federal Share__  __.—__ 
-
-    The Federal share of the cost of a project financed under this section shall not exceed 80 percent.
-
-    (d)  __Grant Conditions__  __.—__ 
-
-    The Secretary of Transportation shall require each recipient of a grant under this section to comply with the grant requirements of [section 24405 of this title][/us/usc/t49/s24405].
-
-    (e)  __Authorization of Appropriations__  __.—__ 
-
-    There are authorized to be appropriated, from amounts made available under section 301 of the Passenger Rail Investment and Improvement Act of 2008, to the Secretary to carry out this section—
-
-        (1) $50,000,000 for fiscal year 2010;
-
-        (2) $75,000,000 for fiscal year 2011;
-
-        (3) $100,000,000 for fiscal year 2012; and
-
-        (4) $100,000,000 for fiscal year 2013.
-
-(Added [Pub. L. 110–432, div. B, title III, § 302(a)][/us/pl/110/432/s302/a], Oct. 16, 2008, [122 Stat. 4947][/us/stat/122/4947].)
-
- __References in Text__ 
-
-    Section 301 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (e), is [section 301 of Pub. L. 110–432][/us/pl/110/432/s301], which enacted chapter 244 (§ 24401 et seq.) of this title and enacted provisions set out as a note under [section 24405 of this title][/us/usc/t49/s24405].
+    Repeal by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch241/m__us_usc_t49_s24104.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch243/m__us_usc_t49_stV_ptC_ch243.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24105)
+[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch241/m__us_usc_t49_s24104.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch242/m__us_usc_t49_stV_ptC_ch242.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24105)
 
 ----------
 ----------
 
-[/us/usc/t49/s24405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24405
+[/us/pl/114/94/s11301/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11301%2Fc%2F2
+[/us/stat/129/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1648
 [/us/pl/110/432/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs302%2Fa
 [/us/stat/122/4947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4947
-[/us/pl/110/432/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs301
-[/us/usc/t49/s24405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24405
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 
 

@@ -53,39 +53,55 @@
 
     The Secretary may grant in accordance with section 31315 waivers and exemptions from, or conduct pilot programs with respect to, any regulations prescribed under this section.
 
-    (f)  __Limitations on Municipality and Commercial Zone Exemptions and Waivers__  __.—__ 
+    (f) __Regulatory Impact Analysis.—__ 
 
-        (1)
+        (1)  __In general__  __.—__ 
 
-         The Secretary may not—
+        Within each regulatory impact analysis of a proposed or final major rule issued by the Federal Motor Carrier Safety Administration, the Secretary shall, whenever practicable—
 
-            (A) exempt a person or commercial motor vehicle from a regulation related to commercial motor vehicle safety only because the operations of the person or vehicle are entirely in a municipality or commercial zone of a municipality; or
+            (A) consider the effects of the proposed or final rule on different segments of the motor carrier industry; and
 
-            (B) waive application to a person or commercial motor vehicle of a regulation related to commercial motor vehicle safety only because the operations of the person or vehicle are entirely in a municipality or commercial zone of a municipality.
+            (B) formulate estimates and findings based on the best available science.
 
-        (2)
+        (2)  __Scope__  __.—__ 
 
-         If a person was authorized to operate a commercial motor vehicle in a municipality or commercial zone of a municipality in the United States for the entire period from November 19, 1987, through November 18, 1988, and if the person is otherwise qualified to operate a commercial motor vehicle, the person may operate a commercial motor vehicle entirely in a municipality or commercial zone of a municipality notwithstanding—
+        To the extent feasible and appropriate, and consistent with law, an analysis described in paragraph (1) shall—
 
-            (A) paragraph (1) of this subsection;
+            (A) use data that is representative of commercial motor vehicle operators or motor carriers, or both, that will be impacted by the proposed or final rule; and
 
-            (B) a minimum age requirement of the United States Government for operation of the vehicle; and
+            (B) consider the effects on commercial truck and bus carriers of various sizes and types.
 
-            (C)
+    (g) __Public Participation.—__ 
 
-             a medical or physical condition that—
+        (1)  __In general__  __.—__ 
 
-                (i) would prevent an operator from operating a commercial motor vehicle under the commercial motor vehicle safety regulations in title 49, Code of Federal Regulations;
+        If a proposed rule under this part is likely to lead to the promulgation of a major rule, the Secretary, before publishing such proposed rule, shall—
 
-                (ii) existed on July 1, 1988;
+            (A) issue an advance notice of proposed rulemaking; or
 
-                (iii) has not substantially worsened; and
+            (B) proceed with a negotiated rulemaking.
 
-                (iv) does not involve alcohol or drug abuse.
+        (2)  __Requirements__  __.—__ 
 
-        (3) This subsection does not affect a State commercial motor vehicle safety law applicable to intrastate commerce.
+        Each advance notice of proposed rulemaking issued under paragraph (1) shall—
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1003][/us/stat/108/1003]; [Pub. L. 104–59, title III, § 344][/us/pl/104/59/s344], Nov. 28, 1995, [109 Stat. 610][/us/stat/109/610]; [Pub. L. 104–287, § 5(60)][/us/pl/104/287/s5/60], Oct. 11, 1996, [110 Stat. 3394][/us/stat/110/3394]; [Pub. L. 105–178, title IV, § 4007(c)][/us/pl/105/178/s4007/c], June 9, 1998, [112 Stat. 403][/us/stat/112/403]; [Pub. L. 109–59, title IV, § 4116(b)][/us/pl/109/59/s4116/b], Aug. 10, 2005, [119 Stat. 1728][/us/stat/119/1728]; [Pub. L. 112–141, div. C, title II, § 32911][/us/pl/112/141/s32911], July 6, 2012, [126 Stat. 818][/us/stat/126/818].)
+            (A) identify the need for a potential regulatory action;
+
+            (B) identify and request public comment on the best available science or technical information relevant to analyzing potential regulatory alternatives;
+
+            (C) request public comment on the available data and costs with respect to regulatory alternatives reasonably likely to be considered as part of the rulemaking; and
+
+            (D) request public comment on available alternatives to regulation.
+
+        (3)  __Waiver__  __.—__ 
+
+        This subsection does not apply to a proposed rule if the Secretary, for good cause, finds (and incorporates the finding and a brief statement of reasons for such finding in the proposed or final rule) that an advance notice of proposed rulemaking is impracticable, unnecessary, or contrary to the public interest.
+
+    (h)  __Rule of Construction__  __.—__ 
+
+    Nothing in subsection (f) or (g) may be construed to limit the contents of an advance notice of proposed rulemaking.
+
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1003][/us/stat/108/1003]; [Pub. L. 104–59, title III, § 344][/us/pl/104/59/s344], Nov. 28, 1995, [109 Stat. 610][/us/stat/109/610]; [Pub. L. 104–287, § 5(60)][/us/pl/104/287/s5/60], Oct. 11, 1996, [110 Stat. 3394][/us/stat/110/3394]; [Pub. L. 105–178, title IV, § 4007(c)][/us/pl/105/178/s4007/c], June 9, 1998, [112 Stat. 403][/us/stat/112/403]; [Pub. L. 109–59, title IV, § 4116(b)][/us/pl/109/59/s4116/b], Aug. 10, 2005, [119 Stat. 1728][/us/stat/119/1728]; [Pub. L. 112–141, div. C, title II, § 32911][/us/pl/112/141/s32911], July 6, 2012, [126 Stat. 818][/us/stat/126/818]; [Pub. L. 114–94, div. A, title V, § 5202][/us/pl/114/94/s5202], Dec. 4, 2015, [129 Stat. 1534][/us/stat/129/1534].)
 
 <table>
 
@@ -215,6 +231,10 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
 
  __Amendments__ 
 
+    2015—Subsec. (f). [Pub. L. 114–94][/us/pl/114/94] added subsec. (f) and redesignated and transferred former subsec. (f) of this section to subsec. (g) of [section 31315 of this title][/us/usc/t49/s31315].
+
+    Subsecs. (g), (h). [Pub. L. 114–94, § 5202(2)][/us/pl/114/94/s5202/2], added subsecs. (g) and (h).
+
     2012—Subsec. (a)(5). [Pub. L. 112–141][/us/pl/112/141] added par. (5).
 
     2005—Subsec. (a)(3). [Pub. L. 109–59][/us/pl/109/59] amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the physical condition of operators of commercial motor vehicles is adequate to enable them to operate the vehicles safely; and”.
@@ -225,6 +245,10 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
 
     1995—Subsec. (e)(1) to (3). [Pub. L. 104–59][/us/pl/104/59] designated existing text as par. (1) and inserted heading, and added pars. (2) and (3).
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23][/us/usc/t23/s101], Highways.
@@ -232,6 +256,70 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
  __Effective Date of 2005 Amendment__ 
 
     Amendment by [Pub. L. 109–59][/us/pl/109/59] effective on the 365th day following Aug. 10, 2005, see [section 4116(f) of Pub. L. 109–59][/us/pl/109/59/s4116/f], set out as an Effective Date note under [section 31149 of this title][/us/usc/t49/s31149].
+
+ __Windshield Technology__ 
+
+[Pub. L. 114–94, div. A, title V, § 5301][/us/pl/114/94/s5301], Dec. 4, 2015, [129 Stat. 1543][/us/stat/129/1543], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Not later than 180 days after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\] shall revise the regulations in section 393.60(e) of title 49, Code of Federal Regulations (relating to the prohibition on obstructions to the driver’s field of view) to exempt from that section the voluntary mounting on a windshield of vehicle safety technology likely to achieve a level of safety that is equivalent to or greater than the level of safety that would be achieved absent the exemption.
+
+>     “(b)  __Vehicle Safety Technology Defined__  __.—__ 
+
+>     In this section, the term ‘vehicle safety technology’ includes a fleet-related incident management system, performance or behavior management system, speed management system, lane departure warning system, forward collision warning or mitigation system, and active cruise control system and any other technology that the Secretary considers applicable.
+
+>     “(c)  __Rule of Construction__  __.—__ 
+
+>     For purposes of this section, any windshield mounted technology with a short term exemption under part 381 of title 49, Code of Federal Regulations, on the date of enactment of this Act, shall be considered likely to achieve a level of safety that is equivalent to or greater than the level of safety that would be achieved absent an exemption under subsection (a).”
+
+ __Operators of Hi-Rail Vehicles__ 
+
+[Pub. L. 114–94, div. A, title V, § 5519][/us/pl/114/94/s5519], Dec. 4, 2015, [129 Stat. 1558][/us/stat/129/1558], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     In the case of a commercial motor vehicle driver subject to the hours of service requirements in part 395 of title 49, Code of Federal Regulations, who is driving a hi-rail vehicle, the maximum on duty time under section 395.3 of such title for such driver shall not include time in transportation to or from a duty assignment if such time in transportation—
+
+>         “(1) does not exceed 2 hours per calendar day or a total of 30 hours per calendar month; and
+
+>         “(2) is fully and accurately accounted for in records to be maintained by the motor carrier and such records are made available upon request of the Federal Motor Carrier Safety Administration or the Federal Railroad Administration.
+
+>     “(b)  __Hi-Rail Vehicle Defined__  __.—__ 
+
+>     In this section, the term ‘hi-rail vehicle’ means an internal rail flaw detection vehicle equipped with flange hi-rails.”
+
+ __Exemptions From Requirements for Certain Welding Trucks Used in Pipeline Industry__ 
+
+[Pub. L. 114–94, div. A, title V, § 5524][/us/pl/114/94/s5524], Dec. 4, 2015, [129 Stat. 1560][/us/stat/129/1560], provided that:
+
+>     “(a)  __Covered Motor Vehicle Defined__  __.—__ 
+
+>     In this section, the term ‘covered motor vehicle’ means a motor vehicle that—
+
+>         “(1) is traveling in the State in which the vehicle is registered or another State;
+
+>         “(2) is owned by a welder;
+
+>         “(3) is a pick-up style truck;
+
+>         “(4) is equipped with a welding rig that is used in the construction or maintenance of pipelines; and
+
+>         “(5) has a gross vehicle weight and combination weight rating and weight of 15,000 pounds or less.
+
+>     “(b)  __Federal Requirements__  __.—__ 
+
+>     A covered motor vehicle, including the individual operating such vehicle and the employer of such individual, shall be exempt from the following:
+
+>         “(1) Any requirement relating to registration as a motor carrier, including the requirement to obtain and display a Department of Transportation number, established under chapters 139 and 311 of title 49, United States Code.
+
+>         “(2) Any requirement relating to driver qualifications established under chapter 311 of title 49, United States Code.
+
+>         “(3) Any requirement relating to driving of commercial motor vehicles established under chapter 311 of title 49, United States Code.
+
+>         “(4) Any requirement relating to parts and accessories and inspection, repair, and maintenance of commercial motor vehicles established under chapter 311 of title 49, United States Code.
+
+>         “(5) Any requirement relating to hours of service of drivers, including maximum driving and on duty time, established under chapter 315 of title 49, United States Code.”
 
  __Reliable Home Heating__ 
 
@@ -561,7 +649,7 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
 
  __Exemptions From Requirements for Covered Farm Vehicles__ 
 
-[Pub. L. 112–141, div. C, title II, § 32934][/us/pl/112/141/s32934], July 6, 2012, [126 Stat. 830][/us/stat/126/830], provided that:
+[Pub. L. 112–141, div. C, title II, § 32934][/us/pl/112/141/s32934], July 6, 2012, [126 Stat. 830][/us/stat/126/830], as amended by [Pub. L. 114–94, div. A, title V, § 5518][/us/pl/114/94/s5518], Dec. 4, 2015, [129 Stat. 1558][/us/stat/129/1558], provided that:
 
 >     “(a)  __Federal Requirements__  __.—__ 
 
@@ -599,7 +687,11 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
 
 >         “(1)  __In general__  __.—__ 
 
->         Federal transportation funding to a State may not be terminated, limited, or otherwise interfered with as a result of the State exempting a covered farm vehicle, including the individual operating that vehicle, from any State requirement relating to the operation of that vehicle.
+>         Federal transportation funding to a State may not be terminated, limited, or otherwise interfered with as a result of the State exempting a covered farm vehicle, including the individual operating that vehicle, from—
+
+>             “(A) a requirement described in subsection (a) or a compatible State requirement; or
+
+>             “(B) any other minimum standard provided by a State relating to the operation of that vehicle.
 
 >         “(2)  __Exception__  __.—__ 
 
@@ -713,13 +805,13 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
 
  __Certain Exemptions__ 
 
-[Pub. L. 106–159, title II, § 229][/us/pl/106/159/s229], as added and amended by [Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4115(a), (c), 4130–4132, 4147, Aug. 10, 2005, [119 Stat. 1726][/us/stat/119/1726], 1743, 1744, 1749; [Pub. L. 110–244, title III, § 301(i)][/us/pl/110/244/s301/i], June 6, 2008, [122 Stat. 1616][/us/stat/122/1616]; [Pub. L. 112–141, div. C, title II, § 32101(d)][/us/pl/112/141/s32101/d], July 6, 2012, [126 Stat. 778][/us/stat/126/778], provided that:
+[Pub. L. 106–159, title II, § 229][/us/pl/106/159/s229], as added and amended by [Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4115(a), (c), 4130–4132, 4147, Aug. 10, 2005, [119 Stat. 1726][/us/stat/119/1726], 1743, 1744, 1749; [Pub. L. 110–244, title III, § 301(i)][/us/pl/110/244/s301/i], June 6, 2008, [122 Stat. 1616][/us/stat/122/1616]; [Pub. L. 112–141, div. C, title II, § 32101(d)][/us/pl/112/141/s32101/d], July 6, 2012, [126 Stat. 778][/us/stat/126/778]; [Pub. L. 114–94, div. A, title V][/us/pl/114/94], §§ 5508(c), 5522, Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554], 1559, provided that:
 
 >     “(a) __Exemptions.—__ 
 
 >         “(1)  __Transportation of agricultural commodities and farm supplies__  __.—__ 
 
->         Regulations prescribed by the Secretary \[of Transportation\] under sections 31136 and 31502 \[of title 49, United States Code\] regarding maximum driving and on-duty time for drivers used by motor carriers shall not apply during planting and harvest periods, as determined by each State, to—
+>         Regulations prescribed by the Secretary \[of Transportation\] under sections 31136 and 31502 of title 49, United States Code, regarding maximum driving and on-duty time for drivers used by motor carriers shall not apply during planting and harvest periods, as determined by each State, to—
 
 >             “(A) drivers transporting agricultural commodities from the source of the agricultural commodities to a location within a 150 air-mile radius from the source;
 
@@ -779,7 +871,7 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
 
 >         “(4)  __Transportation of construction materials and equipment__  __.—__ 
 
->         The term ‘transportation of construction materials and equipment’ means the transportation of construction and pavement materials, construction equipment, and construction maintenance vehicles, by a driver to or from an active construction site (a construction site between initial mobilization of equipment and materials to the site to the final completion of the construction project) within a 50 air mile radius of the normal work reporting location of the driver. This paragraph does not apply to the transportation of material found by the Secretary to be hazardous under [section 5103 of title 49][/us/usc/t49/s5103], United States Code, in a quantity requiring placarding under regulations issued to carry out such section.
+>         The term ‘transportation of construction materials and equipment’ means the transportation of construction and pavement materials, construction equipment, and construction maintenance vehicles, by a driver to or from an active construction site (a construction site between initial mobilization of equipment and materials to the site to the final completion of the construction project) within a 75 air mile radius of the normal work reporting location of the driver, except that a State, upon notice to the Secretary, may establish a different air mile radius limitation for purposes of this paragraph if such limitation is between 50 and 75 air miles and applies only to movements that take place entirely within the State. This paragraph does not apply to the transportation of material found by the Secretary to be hazardous under [section 5103 of title 49][/us/usc/t49/s5103], United States Code, in a quantity requiring placarding under regulations issued to carry out such section.
 
 >         “(5)  __Eligible unit of local government__  __.—__ 
 
@@ -899,6 +991,8 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
 
 >     In this section, the term ‘7 or 8 consecutive days’ has the meaning such term has under section 345 of this Act \[set out above\].”
 
+    \[[Pub. L. 114–94, div. A, title V, § 5101(e)(11)][/us/pl/114/94/s5101/e/11], (f), (g), Dec. 4, 2015, [129 Stat. 1526][/us/stat/129/1526], provided that, effective Oct. 1, 2016, [section 346 of Pub. L. 104–59][/us/pl/104/59/s346], set out above, is repealed, subject to a transition provision.\]
+
 ----------
 
 [Previous](./../../../../../../..//us/usc/t49/stVI/ptB/ch311/schIII/m__us_usc_t49_s31135.md) | [Next](./../../../../../../..//us/usc/t49/stVI/ptB/ch311/schIII/m__us_usc_t49_s31137.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31136)
@@ -921,18 +1015,32 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
 [/us/stat/119/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1728
 [/us/pl/112/141/s32911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32911
 [/us/stat/126/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F818
+[/us/pl/114/94/s5202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5202
+[/us/stat/129/1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1534
 [/us/usc/t49/s30103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30103%2Fa
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/usc/t49/s31315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31315
+[/us/pl/114/94/s5202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5202%2F2
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/109/59/s4116/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4116%2Ff
 [/us/usc/t49/s31149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31149
+[/us/pl/114/94/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5301
+[/us/stat/129/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1543
+[/us/pl/114/94/s5519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5519
+[/us/stat/129/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1558
+[/us/pl/114/94/s5524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5524
+[/us/stat/129/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1560
 [/us/pl/113/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F125
 [/us/stat/128/1388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1388
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
@@ -959,6 +1067,8 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/pl/112/141/s32934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32934
 [/us/stat/126/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F830
+[/us/pl/114/94/s5518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5518
+[/us/stat/129/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1558
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/109/59/s4133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4133
@@ -974,6 +1084,8 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
 [/us/stat/122/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1616
 [/us/pl/112/141/s32101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32101%2Fd
 [/us/stat/126/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F778
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1554
 [/us/usc/t49/s5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5103
 [/us/usc/t7/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1471
 [/us/pl/105/178/s4007/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4007%2Fd
@@ -1005,5 +1117,8 @@ Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1
 [/us/pl/105/206/s9003/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9003%2Fd%2F3
 [/us/stat/112/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F839
 [/us/usc/t49/s31136/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31136%2Fe
+[/us/pl/114/94/s5101/e/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fe%2F11
+[/us/stat/129/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1526
+[/us/pl/104/59/s346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs346
 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stI/ch3/schI/m__us_usc_t49_s303a.md) | [Next](./../../../../../..//us/usc/t49/stI/ch3/schI/m__us_usc_t49_s305.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs304)
+[Previous](./../../../../../..//us/usc/t49/stI/ch3/schI/m__us_usc_t49_s303a.md) | [Next](./../../../../../..//us/usc/t49/stI/ch3/schI/m__us_usc_t49_s304a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs304)
 
 ## § 304. Application of categorical exclusions for multimodal projects
 
@@ -21,21 +21,11 @@
 
         (1)  __Cooperating authority__  __.—__ 
 
-        The term “cooperating authority” means a Department of Transportation operating authority that is not the lead authority with respect to a project.
+        The term “cooperating authority” means a Department of Transportation operating administration or secretarial office that has expertise but is not the lead authority with respect to a proposed multimodal project.
 
         (2)  __Lead authority__  __.—__ 
 
-        The term “lead authority” means a Department of Transportation operating administration or secretarial office that—
-
-            (A) is the lead authority over a proposed multimodal project; and
-
-            (B)
-
-             has determined that the components of the project that fall under the modal expertise of the lead authority—
-
-                (i) satisfy the conditions for a categorical exclusion under implementing regulations or procedures of the lead authority under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.); and
-
-                (ii) do not require the preparation of an environmental assessment or environmental impact statement under that Act.
+        The term “lead authority” means a Department of Transportation operating administration or secretarial office that has the lead responsibility for compliance with the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) with respect to a proposed multimodal project.
 
         (3)  __Multimodal project__  __.—__ 
 
@@ -43,45 +33,35 @@
 
     (b)  __Exercise of Authorities__  __.—__ 
 
-    The authorities granted in this section may be exercised for a multimodal project, class of projects, or program of projects that are carried out under this title.
+    The authorities granted in this section may be exercised for a multimodal project, class of projects, or program of projects that are carried out under this title or title 23.
 
     (c)  __Application of Categorical Exclusions for Multimodal Projects__  __.—__ 
 
-    In considering the environmental impacts of a proposed multimodal project, a lead authority may apply a categorical exclusion designated under the implementing regulations or procedures of a cooperating authority for other components of the project, subject to the conditions that—
+    In considering the environmental impacts of a proposed multimodal project, a lead authority may apply categorical exclusions designated under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) in implementing regulations or procedures of a cooperating authority for a proposed multimodal project, subject to the conditions that—
 
-        (1) the multimodal project is funded under 1 grant agreement administered by the lead authority;
+        (1)
 
-        (2) the multimodal project has components that require the expertise of a cooperating authority to assess the environmental impacts of the components;
+         the lead authority makes a determination, with the concurrence of the cooperating authority—
 
-        (3) the component of the project to be covered by the categorical exclusion of the cooperating authority has independent utility;
+            (A) on the applicability of a categorical exclusion to a proposed multimodal project; and
 
-        (4)
+            (B) that the project satisfies the conditions for a categorical exclusion under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) and this section;
 
-         the cooperating authority, in consultation with the lead authority—
+        (2) the lead authority follows the implementing regulations of the cooperating authority or procedures under that Act; and
 
-            (A) follows implementing regulations or procedures under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.); and
+        (3)
 
-            (B) determines that a categorical exclusion under that Act applies to the components; and
+         the lead authority determines that—
 
-        (5)
+            (A) the proposed multimodal project does not individually or cumulatively have a significant impact on the environment; and
 
-         the lead authority has determined that—
+            (B) extraordinary circumstances do not exist that merit additional analysis and documentation in an environmental impact statement or environmental assessment required under that Act.
 
-            (A) the project, using the categorical exclusions of the lead authority and each applicable cooperating authority, does not individually or cumulatively have a significant impact on the environment; and
+    (d)  __Cooperating Authority Expertise__  __.—__ 
 
-            (B) extraordinary circumstances do not exist that merit additional analysis and documentation in an environmental impact statement or environmental assessment required under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.).
+    A cooperating authority shall provide expertise to the lead authority on aspects of the multimodal project in which the cooperating authority has expertise.
 
-    (d) __Modal Cooperation.—__ 
-
-        (1)  __In general__  __.—__ 
-
-        A cooperating authority shall provide modal expertise to the lead authority on such aspects of the multimodal project in which the cooperating authority has expertise.
-
-        (2)  __Use of categorical exclusion__  __.—__ 
-
-        In a case described in paragraph (1), the 1 or more categorical exclusions of a cooperating authority may be applied by the lead authority once the cooperating authority reviews the project on behalf of the lead authority and determines the project satisfies the conditions for a categorical exclusion under the implementing regulations or procedures of the cooperating authority under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) and this section.
-
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2419][/us/stat/96/2419]; [Pub. L. 112–141, div. A, title I, § 1314(a)][/us/pl/112/141/s1314/a], July 6, 2012, [126 Stat. 547][/us/stat/126/547].)
+([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2419][/us/stat/96/2419]; [Pub. L. 112–141, div. A, title I, § 1314(a)][/us/pl/112/141/s1314/a], July 6, 2012, [126 Stat. 547][/us/stat/126/547]; [Pub. L. 114–94, div. A, title I, § 1310][/us/pl/114/94/s1310], Dec. 4, 2015, [129 Stat. 1397][/us/stat/129/1397].)
 
 <table>
 
@@ -151,11 +131,37 @@ Oct. 15, 1966, Pub. L. 89–670, § 4(g), 80 Stat. 934.  </td>
 
  __References in Text__ 
 
-    The National Environmental Policy Act of 1969, referred to in subsecs. (a)(2)(B)(i), (c)(4)(A), (5)(B), and (d)(2), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42][/us/usc/t42/s4321] and Tables.
+    The National Environmental Policy Act of 1969, referred to in subsecs. (a)(2) and (c), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42][/us/usc/t42/s4321] and Tables.
 
  __Amendments__ 
 
+    2015—Subsec. (a)(1). [Pub. L. 114–94, § 1310(1)(A)][/us/pl/114/94/s1310/1/A], substituted “operating administration or secretarial office that has expertise but” for “operating authority that” and inserted “proposed multimodal” after “with respect to a”.
+
+    Subsec. (a)(2). [Pub. L. 114–94, § 1310(1)(B)][/us/pl/114/94/s1310/1/B], added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The term ‘lead authority’ means a Department of Transportation operating administration or secretarial office that—
+
+    “(A) is the lead authority over a proposed multimodal project; and
+
+    “(B) has determined that the components of the project that fall under the modal expertise of the lead authority—
+
+    “(i) satisfy the conditions for a categorical exclusion under implementing regulations or procedures of the lead authority under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.); and
+
+    “(ii) do not require the preparation of an environmental assessment or environmental impact statement under that Act.”
+
+    Subsec. (b). [Pub. L. 114–94, § 1310(2)][/us/pl/114/94/s1310/2], inserted “or title 23” after “under this title”.
+
+    Subsec. (c). [Pub. L. 114–94, § 1310(3)][/us/pl/114/94/s1310/3], added subsec. (c) and struck out former subsec. (c) which related to application of categorical exclusions for multimodal projects.
+
+    Subsec. (d). [Pub. L. 114–94, § 1310(3)][/us/pl/114/94/s1310/3], added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows:
+
+    “(1) In general.—A cooperating authority shall provide modal expertise to the lead authority on such aspects of the multimodal project in which the cooperating authority has expertise.
+
+    “(2) Use of categorical exclusion.—In a case described in paragraph (1), the 1 or more categorical exclusions of a cooperating authority may be applied by the lead authority once the cooperating authority reviews the project on behalf of the lead authority and determines the project satisfies the conditions for a categorical exclusion under the implementing regulations or procedures of the cooperating authority under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) and this section.”
+
     2012–[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to joint activities with the Secretary of Housing and Urban Development.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -163,7 +169,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 4(g), 80 Stat. 934.  </td>
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stI/ch3/schI/m__us_usc_t49_s303a.md) | [Next](./../../../../../..//us/usc/t49/stI/ch3/schI/m__us_usc_t49_s305.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs304)
+[Previous](./../../../../../..//us/usc/t49/stI/ch3/schI/m__us_usc_t49_s303a.md) | [Next](./../../../../../..//us/usc/t49/stI/ch3/schI/m__us_usc_t49_s304a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs304)
 
 ----------
 ----------
@@ -172,17 +178,28 @@ Oct. 15, 1966, Pub. L. 89–670, § 4(g), 80 Stat. 934.  </td>
 [/us/usc/t23/s139/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs139%2Fa
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
 [/us/stat/96/2419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2419
 [/us/pl/112/141/s1314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1314%2Fa
 [/us/stat/126/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F547
+[/us/pl/114/94/s1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1310
+[/us/stat/129/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1397
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F931
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
+[/us/pl/114/94/s1310/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1310%2F1%2FA
+[/us/pl/114/94/s1310/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1310%2F1%2FB
+[/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
+[/us/pl/114/94/s1310/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1310%2F2
+[/us/pl/114/94/s1310/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1310%2F3
+[/us/pl/114/94/s1310/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1310%2F3
+[/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

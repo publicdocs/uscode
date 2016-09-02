@@ -31,7 +31,11 @@
 
     (4) “intercity rail passenger transportation” means rail passenger transportation, except commuter rail passenger transportation.
 
-    (5)
+    (5) “long-distance route” means a route described in subparagraph (C) of paragraph (7).
+
+    (6) “National Network” includes long-distance routes and State-supported routes.
+
+    (7)
 
      “national rail passenger transportation system” means—
 
@@ -49,15 +53,25 @@
 
             (ii) another rail carrier that receives funds under chapter 244.
 
-    (6) “Northeast Corridor” means Connecticut, Delaware, the District of Columbia, Maryland, Massachusetts, New Jersey, New York, Pennsylvania, and Rhode Island.
+    (8) “Northeast Corridor” means Connecticut, Delaware, the District of Columbia, Maryland, Massachusetts, New Jersey, New York, Pennsylvania, and Rhode Island.
 
-    (7) “rail carrier” means a person, including a unit of State or local government, providing rail transportation for compensation.
+    (9) “rail carrier” means a person, including a unit of State or local government, providing rail transportation for compensation.
 
-    (8) “rate” means a rate, fare, or charge for rail transportation.
+    (10) “rate” means a rate, fare, or charge for rail transportation.
 
-    (9) “regional transportation authority” means an entity established to provide passenger transportation in a region.
+    (11) “regional transportation authority” means an entity established to provide passenger transportation in a region.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 900][/us/stat/108/900]; [Pub. L. 105–134, title IV, § 407][/us/pl/105/134/s407], Dec. 2, 1997, [111 Stat. 2586][/us/stat/111/2586]; [Pub. L. 110–432, div. B, title II, § 201(a)][/us/pl/110/432/s201/a], Oct. 16, 2008, [122 Stat. 4909][/us/stat/122/4909].)
+    (12)
+
+     “state-of-good-repair” means a condition in which physical assets, both individually and as a system, are—
+
+        (A) performing at a level at least equal to that called for in their as-built or as-modified design specification during any period when the life cycle cost of maintaining the assets is lower than the cost of replacing them; and
+
+        (B) sustained through regular maintenance and replacement programs.
+
+    (13) “State-supported route” means a route described in subparagraph (B) or (D) of paragraph (7), or in section 24702, that is operated by Amtrak, excluding those trains operated by Amtrak on the routes described in paragraph (7)(A).
+
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 900][/us/stat/108/900]; [Pub. L. 105–134, title IV, § 407][/us/pl/105/134/s407], Dec. 2, 1997, [111 Stat. 2586][/us/stat/111/2586]; [Pub. L. 110–432, div. B, title II, § 201(a)][/us/pl/110/432/s201/a], Oct. 16, 2008, [122 Stat. 4909][/us/stat/122/4909]; [Pub. L. 114–94, div. A, title XI, § 11006(a)][/us/pl/114/94/s11006/a], Dec. 4, 2015, [129 Stat. 1624][/us/stat/129/1624].)
 
 <table>
 
@@ -329,9 +343,11 @@ Feb. 5, 1976, Pub. L. 94–210, § 701(c), 90 Stat. 120.  </td>
 
  __References in Text__ 
 
-    The date of enactment of the Passenger Rail Investment and Improvement Act of 2008, referred to in par. (5)(C), is the date of enactment of div. B of [Pub. L. 110–432][/us/pl/110/432], which was approved Oct. 16, 2008.
+    The date of enactment of the Passenger Rail Investment and Improvement Act of 2008, referred to in par. (7)(C), is the date of enactment of div. B of [Pub. L. 110–432][/us/pl/110/432], which was approved Oct. 16, 2008.
 
  __Amendments__ 
+
+    2015—Pars. (5) to (13). [Pub. L. 114–94][/us/pl/114/94] added pars. (5), (6), (12), and (13) and redesignated former pars. (5) to (9) as (7) to (11), respectively.
 
     2008—Pars. (2) to (5). [Pub. L. 110–432][/us/pl/110/432] added par. (5), redesignated former pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “ ‘basic system’ means the system of intercity rail passenger transportation designated by the Secretary of Transportation under section 4 of the Amtrak Improvement Act of 1978 and approved by Congress, and transportation required to be provided under [section 24705(a) of this title][/us/usc/t49/s24705/a] and section 4(g) of the Act, including changes in the system or transportation that Amtrak makes using the route and service criteria.”
 
@@ -342,6 +358,10 @@ Feb. 5, 1976, Pub. L. 94–210, § 701(c), 90 Stat. 120.  </td>
     Pars. (8) to (10). [Pub. L. 105–134, § 407(2)][/us/pl/105/134/s407/2], redesignated pars. (8) to (10) as (7) to (9), respectively.
 
     Par. (11). [Pub. L. 105–134, § 407(1)][/us/pl/105/134/s407/1], struck out par. (11) which read as follows: “ ‘route and service criteria’ means the criteria and procedures for making route and service decisions established under section 404(c)(1)–(3)(A) of the Rail Passenger Service Act.”
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
 ----------
 
@@ -356,9 +376,12 @@ Feb. 5, 1976, Pub. L. 94–210, § 701(c), 90 Stat. 120.  </td>
 [/us/stat/111/2586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2586
 [/us/pl/110/432/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs201%2Fa
 [/us/stat/122/4909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4909
+[/us/pl/114/94/s11006/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11006%2Fa
+[/us/stat/129/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1624
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F697
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/usc/t49/s24705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24705%2Fa
 [/us/pl/105/134/s407/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs407%2F1
@@ -366,5 +389,8 @@ Feb. 5, 1976, Pub. L. 94–210, § 701(c), 90 Stat. 120.  </td>
 [/us/pl/105/134/s407/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs407%2F2
 [/us/pl/105/134/s407/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs407%2F2
 [/us/pl/105/134/s407/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134%2Fs407%2F1
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 
 

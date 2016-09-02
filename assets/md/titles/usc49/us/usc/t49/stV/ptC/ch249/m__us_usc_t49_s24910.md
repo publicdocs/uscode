@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch249/m__us_usc_t49_s24909.md) | [Next](./../../../../../..//us/usc/t49/stV/ptD/m__us_usc_t49_stV_ptD.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24910)
+[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch249/m__us_usc_t49_s24909.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch249/m__us_usc_t49_s24911.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24910)
 
 ## § 24910. Rail cooperative research program
 
@@ -53,9 +53,11 @@
 
         (11) to recommend any legislative or regulatory changes necessary to foster further development and implementation of high-speed passenger rail operations while ensuring the safety of such operations that are connected to or integrated with non-high-speed freight or passenger rail operations;
 
-        (12) to review rail crossing safety improvements, including improvements using new safety technology; and
+        (12) to review rail crossing safety improvements, including improvements using new safety technology;
 
-        (13) to review and develop technology designed to reduce train horn noise and its effect on communities, including broadband horn technology.
+        (13) to review and develop technology designed to reduce train horn noise and its effect on communities, including broadband horn technology; and
+
+        (14) to improve overall safety of intercity passenger and freight rail operations.
 
     (c) __Advisory Board.—__ 
 
@@ -81,16 +83,30 @@
 
     There are authorized to be appropriated to the Secretary of Transportation $5,000,000 for each of fiscal years 2010 through 2013 for carrying out this section.
 
-(Added [Pub. L. 110–432, div. B, title III, § 306(a)][/us/pl/110/432/s306/a], Oct. 16, 2008, [122 Stat. 4952][/us/stat/122/4952].)
+(Added [Pub. L. 110–432, div. B, title III, § 306(a)][/us/pl/110/432/s306/a], Oct. 16, 2008, [122 Stat. 4952][/us/stat/122/4952]; amended [Pub. L. 114–94, div. A, title XI, § 11316][/us/pl/114/94/s11316](o), Dec. 4, 2015, [129 Stat. 1679][/us/stat/129/1679].)
+
+ __Amendments__ 
+
+    2015—Subsec. (b)(14). [Pub. L. 114–94][/us/pl/114/94] added par. (14).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch249/m__us_usc_t49_s24909.md) | [Next](./../../../../../..//us/usc/t49/stV/ptD/m__us_usc_t49_stV_ptD.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24910)
+[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch249/m__us_usc_t49_s24909.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch249/m__us_usc_t49_s24911.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24910)
 
 ----------
 ----------
 
 [/us/pl/110/432/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs306%2Fa
 [/us/stat/122/4952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4952
+[/us/pl/114/94/s11316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316
+[/us/stat/129/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1679
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 
 

@@ -17,7 +17,7 @@
 
     (a)  __Entitlement and Uses__  __.—__ 
 
-    On the first day of each fiscal year, each State is entitled to $36,000 of the amounts made available under [section 22108 of this title][/us/usc/t49/s22108] during that fiscal year to be used—
+    On the first day of each fiscal year, each State is entitled to $36,000 of the amounts made available under section 22108  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title during that fiscal year to be used—
 
         (1) to establish, update, revise, and modify the State plan required by [section 22102 of this title][/us/usc/t49/s22102]; or
 
@@ -113,6 +113,10 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, § 5(g); added Feb. 5, 1976, Pu
 
     In subsection (c), the word “timely” is omitted as unnecessary. The words “the first 3 months after the end of the fiscal year for which the amounts were made available” are substituted for “the expiration of the period described in the previous sentence” for clarity.
 
+ __References in Text__ 
+
+    [Section 22108 of this title][/us/usc/t49/s22108], referred to in subsec. (a), was repealed by [Pub. L. 114–94, div. A, title XI, § 11301(c)(4)][/us/pl/114/94/s11301/c/4], Dec. 4, 2015, [129 Stat. 1648][/us/stat/129/1648].
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t49/stV/ptB/ch221/m__us_usc_t49_s22103.md) | [Next](./../../../../../..//us/usc/t49/stV/ptB/ch221/m__us_usc_t49_s22105.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22104)
@@ -120,10 +124,12 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, § 5(g); added Feb. 5, 1976, Pu
 ----------
 ----------
 
-[/us/usc/t49/s22108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22108
 [/us/usc/t49/s22102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22102
 [/us/usc/t49/s22101/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22101%2Fc%2F1%2FB
 [/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
 [/us/stat/108/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F896
+[/us/usc/t49/s22108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22108
+[/us/pl/114/94/s11301/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11301%2Fc%2F4
+[/us/stat/129/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1648
 
 

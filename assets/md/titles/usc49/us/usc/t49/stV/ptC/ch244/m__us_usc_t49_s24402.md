@@ -189,39 +189,71 @@
 
         A State may allocate funds under this section to any entity described in paragraph (1).
 
-    (j)  __Special Transportation Circumstances__  __.—__ 
+    (j) __Large Capital Project Requirements.—__ 
 
-    In carrying out this section, the Secretary shall allocate an appropriate portion of the amounts available under this section to provide grants to States—
+        (1)  __In general__  __.—__ 
 
-        (1) in which there is no intercity passenger rail service for the purpose of funding freight rail capital projects that are on a State rail plan developed under chapter 227 of this title that provide public benefits (as defined in chapter 227) as determined by the Secretary; or
+        For a grant awarded under this chapter for an amount in excess of $1,000,000,000, the following conditions shall apply:
 
-        (2) in which the rail transportation system is not physically connected to rail systems in the continental United States or may not otherwise qualify for a grant under this section due to the unique characteristics of the geography of that State or other relevant considerations, for the purpose of funding transportation-related capital projects.
+            (A) The Secretary may not obligate any funding unless the applicant demonstrates, to the satisfaction of the Secretary, that the applicant has committed, and will be able to fulfill, the non-Federal share required for the grant within the applicant’s proposed project completion timetable.
+
+            (B)
+
+             The Secretary may not obligate any funding for work activities that occur after the completion of final design unless—
+
+                (i) the applicant submits a financial plan to the Secretary that generally identifies the sources of the non-Federal funding required for any subsequent segments or phases of the corridor service development program covering the project for which the grant is awarded;
+
+                (ii) the grant will result in a useable segment, a transportation facility, or equipment, that has operational independence; and
+
+                (iii) the intercity passenger rail benefits anticipated to result from the grant, such as increased speed, improved on-time performance, reduced trip time, increased frequencies, new service, safety improvements, improved accessibility, or other significant enhancements, are detailed by the grantee and approved by the Secretary.
+
+            (C)
+
+                (i) The Secretary shall ensure that the project is maintained to the level of utility that is necessary to support the benefits approved under subparagraph (B)(iii) for a period of 20 years from the date on which the useable segment, transportation facility, or equipment described in subparagraph (B)(ii) is placed in service.
+
+                (ii) If the project property is not maintained as required under clause (i) for a 12-month period, the grant recipient shall refund a pro-rata share of the Federal contribution, based upon the percentage remaining of the 20-year period that commenced when the project property was placed in service.
+
+        (2)  __Early work__  __.—__ 
+
+        The Secretary may allow a grantee subject to this subsection to engage in at-risk work activities subsequent to the conclusion of final design if the Secretary determines that such work activities are reasonable and necessary.
 
     (k)  __Small Capital Projects__  __.—__ 
 
-    The Secretary shall make not less than 5 percent annually available from the amounts authorized under section 101(c) of the Passenger Rail Investment and Improvement Act of 2008 beginning in fiscal year 2009 for grants for capital projects eligible under this section not exceeding $2,000,000, including costs eligible under section 209(d) of that Act. For grants awarded under this subsection, the Secretary may waive requirements of this section, including state  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be capitalized. </sup></sup>  rail plan requirements, as appropriate.
+    The Secretary shall make not less than 5 percent annually available from the amounts authorized under section 101(c) of the Passenger Rail Investment and Improvement Act of 2008 beginning in fiscal year 2009 for grants for capital projects eligible under this section not exceeding $2,000,000, including costs eligible under section 209(d) 3 of that Act. For grants awarded under this subsection, the Secretary may waive requirements of this section, including state  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be capitalized. </sup></sup>  rail plan requirements, as appropriate.
 
     (l)  __Nonmotorized Transportation Access and Storage__  __.—__ 
 
     Grants under this chapter may be used to provide access to rolling stock for nonmotorized transportation, including bicycles, and recreational equipment, and to provide storage capacity in trains for such transportation, equipment, and other luggage, to ensure passenger safety.
 
-(Added [Pub. L. 110–432, div. B, title III, § 301(a)][/us/pl/110/432/s301/a], Oct. 16, 2008, [122 Stat. 4936][/us/stat/122/4936].)
+(Added [Pub. L. 110–432, div. B, title III, § 301(a)][/us/pl/110/432/s301/a], Oct. 16, 2008, [122 Stat. 4936][/us/stat/122/4936]; amended [Pub. L. 114–94, div. A, title XI][/us/pl/114/94], §§ 11303(b)(1)(C), 11309, Dec. 4, 2015, [129 Stat. 1654][/us/stat/129/1654], 1669.)
 
  __References in Text__ 
 
     The date of enactment of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsecs. (a)(2) and (d), is the date of enactment of div. B of [Pub. L. 110–432][/us/pl/110/432], which was approved Oct. 16, 2008.
 
-    Section 211 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsecs. (b)(1) and (c)(1)(A), is [section 211 of Pub. L. 110–432][/us/pl/110/432/s211], which is set out as a note under [section 24902 of this title][/us/usc/t49/s24902].
+    Section 211 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsecs. (b)(1) and (c)(1)(A), is [section 211 of Pub. L. 110–432][/us/pl/110/432/s211], which was set out as a note under [section 24902 of this title][/us/usc/t49/s24902], prior to repeal by [Pub. L. 114–94, div. A, title XI, § 11306(b)(3)][/us/pl/114/94/s11306/b/3], Dec. 4, 2015, [129 Stat. 1660][/us/stat/129/1660].
 
-    Sections 207 and 209(d) of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsecs. (c)(2)(A)(i) and (k), respectively, are sections 207 and 209(d) of [Pub. L. 110–432][/us/pl/110/432], which are set out in a note under [section 24101 of this title][/us/usc/t49/s24101].
+    Section 207 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (c)(2)(A)(i), is [section 207 of Pub. L. 110–432][/us/pl/110/432/s207], which is set out in a note under [section 24101 of this title][/us/usc/t49/s24101].
 
     [Section 5302 of this title][/us/usc/t49/s5302], referred to in subsec. (c)(3)(A)(vii), was amended generally by [Pub. L. 112–141, div. B, § 20004][/us/pl/112/141/s20004], July 6, 2012, [126 Stat. 623][/us/stat/126/623], and, as so amended, no longer contains a subsec. (a)(1)(G), which described a type of capital project. However, capital project is defined elsewhere in that section.
 
     [Section 22506 of this title][/us/usc/t49/s22506], referred to in subsec. (d), probably should be a reference to [section 22706 of this title][/us/usc/t49/s22706], which requires the Secretary to prescribe procedures for submitting State rail plans for review. No [section 22506 of this title][/us/usc/t49/s22506] has been enacted.
 
-    [Section 22504(a)(5) of this title][/us/usc/t49/s22504/a/5], referred to in subsec. (e), probably should be a reference to [section 22705(a)(5) of this title][/us/usc/t49/s22705/a/5], which requires each State rail plan to contain a long-range rail investment program that includes a list of any rail capital projects expected to be undertaken or supported in whole or in part by the State. [Section 22504(a) of this title][/us/usc/t49/s22504/a] does not contain a par. (5).
+    [Section 22504(a)(5) of this title][/us/usc/t49/s22504/a/5], referred to in subsec. (e), probably should be a reference to [section 22705(a)(5) of this title][/us/usc/t49/s22705/a/5], which requires each State rail plan to contain a long-range rail investment program that includes a list of any rail capital projects expected to be undertaken or supported in whole or in part by the State. [Section 22504(a) of this title][/us/usc/t49/s22504/a] did not contain a par. (5), prior to repeal by [Pub. L. 114–94, div. A, title XI, § 11301(c)(3)][/us/pl/114/94/s11301/c/3], Dec. 4, 2015, [129 Stat. 1648][/us/stat/129/1648].
 
     Section 101 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsecs. (e) and (k), is [section 101 of title I of div. B of Pub. L. 110–432][/us/pl/110/432/s101], Oct. 16, 2008, [122 Stat. 4908][/us/stat/122/4908], which is not classified to the Code.
+
+    Section 209(d) of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (k), is [section 209(d) of Pub. L. 110–432][/us/pl/110/432/s209/d], which was redesignated as section 209(c) of the Act by [Pub. L. 114–94][/us/pl/114/94] and is set out in a note under [section 24101 of this title][/us/usc/t49/s24101].
+
+ __Amendments__ 
+
+    2015—Subsec. (j). [Pub. L. 114–94, § 11309][/us/pl/114/94/s11309], added subsec. (j).
+
+    [Pub. L. 114–94, § 11303(b)(1)(C)][/us/pl/114/94/s11303/b/1/C], struck out subsec. (j) which related to special transportation circumstances.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Deemed References to Chapters 509 and 511 of Title 51__ 
 
@@ -237,10 +269,14 @@
 [/us/usc/t23/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs135
 [/us/pl/110/432/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs301%2Fa
 [/us/stat/122/4936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4936
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1654
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/110/432/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs211
 [/us/usc/t49/s24902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24902
-[/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/114/94/s11306/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11306%2Fb%2F3
+[/us/stat/129/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1660
+[/us/pl/110/432/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs207
 [/us/usc/t49/s24101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24101
 [/us/usc/t49/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5302
 [/us/pl/112/141/s20004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20004
@@ -251,8 +287,18 @@
 [/us/usc/t49/s22504/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22504%2Fa%2F5
 [/us/usc/t49/s22705/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22705%2Fa%2F5
 [/us/usc/t49/s22504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs22504%2Fa
+[/us/pl/114/94/s11301/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11301%2Fc%2F3
+[/us/stat/129/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1648
 [/us/pl/110/432/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs101
 [/us/stat/122/4908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4908
+[/us/pl/110/432/s209/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs209%2Fd
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/usc/t49/s24101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24101
+[/us/pl/114/94/s11309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11309
+[/us/pl/114/94/s11303/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11303%2Fb%2F1%2FC
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/111/314/s4/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F8
 [/us/usc/t49/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs101
 

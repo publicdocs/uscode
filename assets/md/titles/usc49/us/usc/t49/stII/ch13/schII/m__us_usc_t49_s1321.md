@@ -1,7 +1,7 @@
 ---
 ---
 
-# 49 U.S.C., USLM ref /us/usc/t49/s721
+# 49 U.S.C., USLM ref /us/usc/t49/s1321
 
 * Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
   Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
@@ -11,9 +11,9 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stI/ch7/schII/m__us_usc_t49_stI_ch7_schII.md) | [Next](./../../../../../..//us/usc/t49/stI/ch7/schII/m__us_usc_t49_s722.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs721)
+[Previous](./../../../../../..//us/usc/t49/stII/ch13/schII/m__us_usc_t49_stII_ch13_schII.md) | [Next](./../../../../../..//us/usc/t49/stII/ch13/schII/m__us_usc_t49_s1322.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1321)
 
-## § 721. Powers
+## § 1321. Powers
 
     (a)  __In General__  __.—__ 
 
@@ -55,16 +55,24 @@
 
     Each witness summoned before the Board or whose deposition is taken under this section and the individual taking the deposition are entitled to the same fees and mileage paid for those services in the courts of the United States.
 
-(Added [Pub. L. 104–88, title II, § 201(a)][/us/pl/104/88/s201/a], Dec. 29, 1995, [109 Stat. 935][/us/stat/109/935].)
+(Added [Pub. L. 104–88, title II, § 201(a)][/us/pl/104/88/s201/a], Dec. 29, 1995, [109 Stat. 935][/us/stat/109/935], § 721; renumbered § 1321, [Pub. L. 114–110, § 3(a)(5)][/us/pl/114/110/s3/a/5], Dec. 18, 2015, [129 Stat. 2228][/us/stat/129/2228].)
+
+ __Amendments__ 
+
+    2015—[Pub. L. 114–110][/us/pl/114/110] renumbered [section 721 of this title][/us/usc/t49/s721] as this section.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stI/ch7/schII/m__us_usc_t49_stI_ch7_schII.md) | [Next](./../../../../../..//us/usc/t49/stI/ch7/schII/m__us_usc_t49_s722.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs721)
+[Previous](./../../../../../..//us/usc/t49/stII/ch13/schII/m__us_usc_t49_stII_ch13_schII.md) | [Next](./../../../../../..//us/usc/t49/stII/ch13/schII/m__us_usc_t49_s1322.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1321)
 
 ----------
 ----------
 
 [/us/pl/104/88/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs201%2Fa
 [/us/stat/109/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F935
+[/us/pl/114/110/s3/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs3%2Fa%2F5
+[/us/stat/129/2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2228
+[/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
+[/us/usc/t49/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs721
 
 

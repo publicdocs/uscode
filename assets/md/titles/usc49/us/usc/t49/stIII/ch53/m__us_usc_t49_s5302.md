@@ -25,11 +25,11 @@
 
         (B) bus shelters;
 
-        (C) landscaping and streetscaping, including benches, trash receptacles, and street lights;
+        (C) functional landscaping and streetscaping, including benches, trash receptacles, and street lights;
 
         (D) pedestrian access and walkways;
 
-        (E) bicycle access, including bicycle storage facilities and installing equipment for transporting bicycles on public transportation vehicles;
+        (E) bicycle access, including bicycle storage shelters and parking facilities and the installation of equipment for transporting bicycles on public transportation vehicles;
 
         (F) signage; or
 
@@ -67,7 +67,7 @@
 
         (E) preventive maintenance;
 
-        (F) leasing equipment or a facility for use in public transportation, subject to regulations that the Secretary prescribes limiting the leasing arrangements to those that are more cost-effective than purchase or construction;
+        (F) leasing equipment or a facility for use in public transportation;
 
         (G)
 
@@ -83,7 +83,7 @@
 
             (iii) provides a fair share of revenue that will be used for public transportation;
 
-            (iv) provides that a person making an agreement to occupy space in a facility constructed under this paragraph shall pay a fair share of the costs of the facility through rental payments and other means;
+            (iv) provides that a person making an agreement to occupy space in a facility constructed under this paragraph shall pay a fair share of the costs of the facility through rental payments and other means; and
 
             (v)
 
@@ -115,13 +115,25 @@
 
                 (XIII) a capital project for, and improving, equipment or a facility for an intermodal transfer facility or transportation mall; and
 
-                (XIV) construction of space for commercial uses; and
-
-            (vi) does not include outfitting of commercial space (other than an intercity bus or rail station or terminal) or a part of a public facility not related to public transportation;
+                (XIV) construction of space for commercial uses;
 
         (H) the introduction of new technology, through innovative and improved products, into public transportation;
 
-        (I) the provision of nonfixed route paratransit transportation services in accordance with section 223 of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12143][/us/usc/t42/s12143]), but only for grant recipients that are in compliance with applicable requirements of that Act, including both fixed route and demand responsive service, and only for amounts not to exceed 10 percent of such recipient’s annual formula apportionment under sections 5307 and 5311;
+        (I)
+
+         the provision of nonfixed route paratransit transportation services in accordance with section 223 of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12143][/us/usc/t42/s12143]), but only for grant recipients that are in compliance with applicable requirements of that Act, including both fixed route and demand responsive service, and only for amounts—
+
+            (i) not to exceed 10 percent of such recipient’s annual formula apportionment under sections 5307 and 5311; or
+
+            (ii)
+
+             not to exceed 20 percent of such recipient’s annual formula apportionment under sections 5307 and 5311, if, consistent with guidance issued by the Secretary, the recipient demonstrates that the recipient meets at least 2 of the following requirements:
+
+                (I) Provides an active fixed route travel training program that is available for riders with disabilities.
+
+                (II) Provides that all fixed route and paratransit operators participate in a passenger safety, disability awareness, and sensitivity training class on at least a biennial basis.
+
+                (III) Has memoranda of understanding in place with employers and the American Job Center to increase access to employment opportunities for people with disabilities.
 
         (J) establishing a debt service reserve, made up of deposits with a bondholder’s trustee, to ensure the timely payment of principal and interest on bonds issued by a grant recipient to finance an eligible project under this chapter;
 
@@ -131,7 +143,7 @@
 
             (i) consisting of short-range planning and management activities and projects for improving coordination among public transportation and other transportation service providers carried out by a recipient or subrecipient through an agreement entered into with a person, including a governmental entity, under this chapter (other than section 5309); but
 
-            (ii) excluding operating public transportation services; or
+            (ii) excluding operating public transportation services;
 
         (L)
 
@@ -139,7 +151,11 @@
 
             (i) equipment, tires, tubes, and material, each costing at least .5 percent of the current fair market value of rolling stock comparable to the rolling stock for which the equipment, tires, tubes, and material are to be used; and
 
-            (ii) reconstruction of equipment and material, each of which after reconstruction will have a fair market value of at least .5 percent of the current fair market value of rolling stock comparable to the rolling stock for which the equipment and material will be used.
+            (ii) reconstruction of equipment and material, each of which after reconstruction will have a fair market value of at least .5 percent of the current fair market value of rolling stock comparable to the rolling stock for which the equipment and material will be used;
+
+        (M) associated transit improvements; or
+
+        (N) technological changes or innovations to modify low or no emission vehicles (as defined in section 5339(c)) or facilities.
 
     (4)  __Designated recipient__  __.—__ 
 
@@ -297,7 +313,11 @@
 
     The term “urbanized area” means an area encompassing a population of not less than 50,000 people that has been defined and designated in the most recent decennial census as an “urbanized area” by the Secretary of Commerce.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 786][/us/stat/108/786]; [Pub. L. 103–331, title III, § 335A][/us/pl/103/331/s335A], Sept. 30, 1994, [108 Stat. 2495][/us/stat/108/2495]; [Pub. L. 104–50, title III, § 333(a)][/us/pl/104/50/s333/a], Nov. 15, 1995, [109 Stat. 457][/us/stat/109/457]; [Pub. L. 104–287, § 6(c)][/us/pl/104/287/s6/c], Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398]; [Pub. L. 105–102, § 3(a)][/us/pl/105/102/s3/a], Nov. 20, 1997, [111 Stat. 2214][/us/stat/111/2214]; [Pub. L. 105–178, title III, § 3003][/us/pl/105/178/s3003], June 9, 1998, [112 Stat. 338][/us/stat/112/338]; [Pub. L. 105–206, title IX, § 9009(a)][/us/pl/105/206/s9009/a], July 22, 1998, [112 Stat. 852][/us/stat/112/852]; [Pub. L. 109–59, title III][/us/pl/109/59], §§ 3002(b)(4), 3004, Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545]; [Pub. L. 110–244, title II, § 201(a)][/us/pl/110/244/s201/a], June 6, 2008, [122 Stat. 1609][/us/stat/122/1609]; [Pub. L. 112–141, div. B, § 20004][/us/pl/112/141/s20004], July 6, 2012, [126 Stat. 623][/us/stat/126/623].)
+    (24)  __Value capture__  __.—__ 
+
+    The term “value capture” means recovering the increased property value to property located near public transportation resulting from investments in public transportation.
+
+([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 786][/us/stat/108/786]; [Pub. L. 103–331, title III, § 335A][/us/pl/103/331/s335A], Sept. 30, 1994, [108 Stat. 2495][/us/stat/108/2495]; [Pub. L. 104–50, title III, § 333(a)][/us/pl/104/50/s333/a], Nov. 15, 1995, [109 Stat. 457][/us/stat/109/457]; [Pub. L. 104–287, § 6(c)][/us/pl/104/287/s6/c], Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398]; [Pub. L. 105–102, § 3(a)][/us/pl/105/102/s3/a], Nov. 20, 1997, [111 Stat. 2214][/us/stat/111/2214]; [Pub. L. 105–178, title III, § 3003][/us/pl/105/178/s3003], June 9, 1998, [112 Stat. 338][/us/stat/112/338]; [Pub. L. 105–206, title IX, § 9009(a)][/us/pl/105/206/s9009/a], July 22, 1998, [112 Stat. 852][/us/stat/112/852]; [Pub. L. 109–59, title III][/us/pl/109/59], §§ 3002(b)(4), 3004, Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545]; [Pub. L. 110–244, title II, § 201(a)][/us/pl/110/244/s201/a], June 6, 2008, [122 Stat. 1609][/us/stat/122/1609]; [Pub. L. 112–141, div. B, § 20004][/us/pl/112/141/s20004], July 6, 2012, [126 Stat. 623][/us/stat/126/623]; [Pub. L. 114–94, div. A, title III, § 3002][/us/pl/114/94/s3002], Dec. 4, 2015, [129 Stat. 1446][/us/stat/129/1446].)
 
 <table>
 
@@ -581,6 +601,24 @@ July 9, 1964, Pub. L. 88–365, § 12(c)(10), (11), 78 Stat. 306; Aug. 10, 196
 
  __Amendments__ 
 
+    2015—Par. (1)(C). [Pub. L. 114–94, § 3002(1)(A)][/us/pl/114/94/s3002/1/A], inserted “functional” before “landscaping and”.
+
+    Par. (1)(E). [Pub. L. 114–94, § 3002(1)(B)][/us/pl/114/94/s3002/1/B], substituted “bicycle storage shelters and parking facilities and the installation of equipment” for “bicycle storage facilities and installing equipment”.
+
+    Par. (3)(F). [Pub. L. 114–94, § 3002(2)(A)][/us/pl/114/94/s3002/2/A], added subpar. (F) and struck out former subpar. (F), which read as follows: “leasing equipment or a facility for use in public transportation, subject to regulations that the Secretary prescribes limiting the leasing arrangements to those that are more cost-effective than purchase or construction;”.
+
+    Par. (3)(G)(iv). [Pub. L. 114–94, § 3002(2)(B)(i)][/us/pl/114/94/s3002/2/B/i], inserted “and” at end.
+
+    Par. (3)(G)(v)(XIV). [Pub. L. 114–94, § 3002(2)(B)(ii)][/us/pl/114/94/s3002/2/B/ii], struck out “and” at end.
+
+    Par. (3)(G)(vi). [Pub. L. 114–94, § 3002(2)(B)(iii)][/us/pl/114/94/s3002/2/B/iii], struck out cl. (vi), which read as follows: “does not include outfitting of commercial space (other than an intercity bus or rail station or terminal) or a part of a public facility not related to public transportation;”.
+
+    Par. (3)(I). [Pub. L. 114–94, § 3002(2)(C)][/us/pl/114/94/s3002/2/C], added subpar. (I) and struck out former subpar. (I), which read as follows: “the provision of nonfixed route paratransit transportation services in accordance with section 223 of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12143][/us/usc/t42/s12143]), but only for grant recipients that are in compliance with applicable requirements of that Act, including both fixed route and demand responsive service, and only for amounts not to exceed 10 percent of such recipient’s annual formula apportionment under sections 5307 and 5311;”.
+
+    Par. (3)(M), (N). [Pub. L. 114–94, § 3002(2)(D)][/us/pl/114/94/s3002/2/D]–(F), added subpars. (M) and (N).
+
+    Par. (24). [Pub. L. 114–94, § 3002(3)][/us/pl/114/94/s3002/3], added par. (24).
+
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally, substituting pars. (1) to (23) for former provisions defining terms for this chapter consisting of subsecs. (a) and (b).
 
     2008—Subsec. (a)(10). [Pub. L. 110–244][/us/pl/110/244] substituted “charter, sightseeing,” for “charter,”.
@@ -636,6 +674,10 @@ July 9, 1964, Pub. L. 88–365, § 12(c)(10), (11), 78 Stat. 306; Aug. 10, 196
     Subsec. (a)(1)(C). [Pub. L. 104–50, § 333(a)(2)][/us/pl/104/50/s333/a/2], as amended by [Pub. L. 105–102, § 3(a)(2)][/us/pl/105/102/s3/a/2], struck out “that extends the economic life of a bus for at least 8 years” after “remanufacturing a bus”.
 
     1994—Subsec. (a)(1). [Pub. L. 103–331, § 335A][/us/pl/103/331/s335A], as amended by [Pub. L. 104–287][/us/pl/104/287], inserted “payments for the capital portions of rail trackage rights agreements,” after “rights of way),”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -693,12 +735,24 @@ July 9, 1964, Pub. L. 88–365, § 12(c)(10), (11), 78 Stat. 306; Aug. 10, 196
 [/us/stat/122/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1609
 [/us/pl/112/141/s20004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20004
 [/us/stat/126/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F623
+[/us/pl/114/94/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3002
+[/us/stat/129/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1446
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
+[/us/pl/114/94/s3002/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3002%2F1%2FA
+[/us/pl/114/94/s3002/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3002%2F1%2FB
+[/us/pl/114/94/s3002/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3002%2F2%2FA
+[/us/pl/114/94/s3002/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3002%2F2%2FB%2Fi
+[/us/pl/114/94/s3002/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3002%2F2%2FB%2Fii
+[/us/pl/114/94/s3002/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3002%2F2%2FB%2Fiii
+[/us/pl/114/94/s3002/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3002%2F2%2FC
+[/us/usc/t42/s12143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12143
+[/us/pl/114/94/s3002/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3002%2F2%2FD
+[/us/pl/114/94/s3002/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3002%2F3
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
 [/us/pl/109/59/s3004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3004%2Fa
@@ -732,6 +786,9 @@ July 9, 1964, Pub. L. 88–365, § 12(c)(10), (11), 78 Stat. 306; Aug. 10, 196
 [/us/pl/105/102/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fa%2F2
 [/us/pl/103/331/s335A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F331%2Fs335A
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

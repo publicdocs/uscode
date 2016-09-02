@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t49/stI/ch1/m__us_usc_t49_s115.md) | [Next](./../../../../..//us/usc/t49/stI/ch3/schI/m__us_usc_t49_stI_ch3_schI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstI%2Fch3)
+[Previous](./../../../../..//us/usc/t49/stI/ch1/m__us_usc_t49_s117.md) | [Next](./../../../../..//us/usc/t49/stI/ch3/schI/m__us_usc_t49_stI_ch3_schI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstI%2Fch3)
 
 ### CHAPTER 3—GENERAL DUTIES AND POWERS
 
@@ -73,6 +73,14 @@ SUBCHAPTER I—DUTIES OF THE SECRETARY OF TRANSPORTATION  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs304a" data-uslm-ref="/us/usc/t49/s304a">304a.</a>  </td>
+
+    <td> Accelerated decisionmaking in environmental reviews.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs305" data-uslm-ref="/us/usc/t49/s305">305.</a>  </td>
 
     <td> Transportation investment standards and criteria.  </td>
@@ -89,9 +97,9 @@ SUBCHAPTER I—DUTIES OF THE SECRETARY OF TRANSPORTATION  </td>
 
   <tr>
 
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs307" data-uslm-ref="/us/usc/t49/s307">307.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs307" data-uslm-ref="/us/usc/t49/s307">307.</a>  </td>
 
-    <td> Repealed.]  </td>
+    <td> Improving State and Federal agency engagement in environmental reviews.  </td>
 
   </tr>
 
@@ -108,6 +116,14 @@ SUBCHAPTER I—DUTIES OF THE SECRETARY OF TRANSPORTATION  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs309" data-uslm-ref="/us/usc/t49/s309">309.</a>  </td>
 
     <td> High-speed ground transportation.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs310" data-uslm-ref="/us/usc/t49/s310">310.</a>  </td>
+
+    <td> Aligning Federal environmental reviews.  </td>
 
   </tr>
 
@@ -195,7 +211,7 @@ SUBCHAPTER II—ADMINISTRATIVE  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs330" data-uslm-ref="/us/usc/t49/s330">330.</a>  </td>
 
-    <td> Research contracts.  </td>
+    <td> Research activities.  </td>
 
   </tr>
 
@@ -291,9 +307,11 @@ SUBCHAPTER III—MISCELLANEOUS  </td>
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–141, div. C, title II, § 32932(a)(2)][/us/pl/112/141/s32932/a/2], July 6, 2012, [126 Stat. 829][/us/stat/126/829], struck out item 307 “Safety information and intervention in Interstate Commerce Commission proceedings”.
+    2015—[Pub. L. 114–94, div. A, title I][/us/pl/114/94], §§ 1311(b), 1312(b), 1313(b), title VI, § 6011(c), Dec. 4, 2015, [129 Stat. 1399][/us/stat/129/1399], 1400, 1402, 1569, added items 304a, 307, and 310 and substituted “Research activities” for “Research contracts” in item 330.
 
-    [Pub. L. 112–141, div. A, title I, § 1314(b)][/us/pl/112/141/s1314/b], July 6, 2012, [126 Stat. 549][/us/stat/126/549], which directed the general amendment of the item relating to section 304 in the analysis for title 49, was executed to the analysis for this chapter, to reflect the probable intent of Congress. Prior to amendment, item 304 read as follows: “Joint activities with the Secretary of Housing and Urban Development”.
+    [Pub. L. 114–94, div. A, title I, § 1446(d)(4)][/us/pl/114/94/s1446/d/4], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], amended [section 1314(b) of Pub. L. 112–141][/us/pl/112/141/s1314/b], effective July 6, 2012, as if included in [Pub. L. 112–141][/us/pl/112/141] as enacted. See 2012 Amendment note below.
+
+    2012—[Pub. L. 112–141, div. A, title I, § 1314(b)][/us/pl/112/141/s1314/b], div. C, title II, § 32932(a)(2), July 6, 2012, [126 Stat. 549][/us/stat/126/549], 829, as amended by [Pub. L. 114–94, div. A, title I, § 1446(d)(4)][/us/pl/114/94/s1446/d/4], Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], substituted “Application of categorical exclusions for multimodal projects” for “Joint activities with the Secretary of Housing and Urban Development” in item 304 and struck out item 307 “Safety information and intervention in Interstate Commerce Commission proceedings”.
 
     2003—[Pub. L. 108–168, § 8(b)(2)][/us/pl/108/168/s8/b/2], Dec. 6, 2003, [117 Stat. 2035][/us/stat/117/2035], added item 354.
 
@@ -307,15 +325,21 @@ SUBCHAPTER III—MISCELLANEOUS  </td>
 
 ----------
 
-[Previous](./../../../../..//us/usc/t49/stI/ch1/m__us_usc_t49_s115.md) | [Next](./../../../../..//us/usc/t49/stI/ch3/schI/m__us_usc_t49_stI_ch3_schI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstI%2Fch3)
+[Previous](./../../../../..//us/usc/t49/stI/ch1/m__us_usc_t49_s117.md) | [Next](./../../../../..//us/usc/t49/stI/ch3/schI/m__us_usc_t49_stI_ch3_schI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstI%2Fch3)
 
 ----------
 ----------
 
-[/us/pl/112/141/s32932/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32932%2Fa%2F2
-[/us/stat/126/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F829
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1399
+[/us/pl/114/94/s1446/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F4
+[/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
+[/us/pl/112/141/s1314/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1314%2Fb
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s1314/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1314%2Fb
 [/us/stat/126/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F549
+[/us/pl/114/94/s1446/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fd%2F4
+[/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
 [/us/pl/108/168/s8/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F168%2Fs8%2Fb%2F2
 [/us/stat/117/2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2035
 [/us/pl/103/272/s4/j/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fj%2F6%2FB

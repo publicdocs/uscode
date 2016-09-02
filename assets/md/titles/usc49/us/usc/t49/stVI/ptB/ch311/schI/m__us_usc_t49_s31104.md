@@ -39,7 +39,7 @@
 
         (10) $218,000,000 for fiscal year 2015; and
 
-        (11) $38,715,847 for the period beginning on October 1, 2015, and ending on December 4, 2015.
+        (11) $218,000,000 for fiscal year 2016.
 
     (b)  __Availability and Reallocation of Amounts__  __.—__ 
 
@@ -69,39 +69,7 @@
 
     The Secretary shall prescribe regulations specifying tolerance guidelines and standards for ensuring compatibility of intrastate commercial motor vehicle safety laws and regulations with Government motor carrier safety regulations to be enforced under [section 31102(a) of this title][/us/usc/t49/s31102/a]. To the extent practicable, the guidelines and standards shall allow for maximum flexibility while ensuring the degree of uniformity that will not diminish transportation safety. In reviewing State plans and allocating amounts or making grants under [section 153 of title 23][/us/usc/t23/s153], the Secretary shall ensure that the guidelines and standards are applied uniformly.
 
-    (i) __Administrative Expenses.—__ 
-
-        (1)  __Authorization of appropriations__  __.—__ 
-
-        There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) for the Secretary of Transportation to pay administrative expenses of the Federal Motor Carrier Safety Administration—
-
-            (A) $254,849,000 for fiscal year 2005;
-
-            (B) $213,000,000 for fiscal year 2006;
-
-            (C) $223,000,000 for fiscal year 2007;
-
-            (D) $228,000,000 for fiscal year 2008;
-
-            (E) $234,000,000 for fiscal year 2009;
-
-            (F) $239,828,000 for fiscal year 2010;
-
-            (G) $244,144,000 for fiscal year 2011;
-
-            (H) $251,000,000 for fiscal year 2013;
-
-            (I) $259,000,000 for fiscal year 2014;
-
-            (J) $259,000,000 for fiscal year 2015; and
-
-            (K) $45,997,268 for the period beginning on October 1, 2015, and ending on December 4, 2015.
-
-        (2)  __Use of funds__  __.—__ 
-
-        The funds authorized by this subsection shall be used for personnel costs; administrative infrastructure; rent; information technology; programs for research and technology, information management, regulatory development, the administration of the performance and registration information system management, and outreach and education; other operating expenses; and such other expenses as may from time to time become necessary to implement statutory mandates of the Administration not funded from other sources.
-
-    (j) __Availability of Funds; Contract Authority.—__ 
+    (i) __Availability of Funds; Contract Authority.—__ 
 
         (1)  __Period of availability__  __.—__ 
 
@@ -115,7 +83,7 @@
 
         Approval by the Secretary of a grant with funds made available under this section imposes upon the United States a contractual obligation for payment of the Government’s share of costs incurred in carrying out the objectives of the grant.
 
-    (k) __High-Priority Activities.—__ 
+    (j) __High-Priority Activities.—__ 
 
         (1)  __Criteria__  __.—__ 
 
@@ -123,7 +91,7 @@
 
         (2)  __Set aside__  __.—__ 
 
-        The Secretary may set aside from amounts made available by subsection (a) up to $15,000,000 for each of fiscal years 2006 through 2015 and up to $2,663,934 for the period beginning on October 1, 2015, and ending on December 4, 2015, for States, local governments, and organizations representing government agencies or officials described in paragraph (3) for carrying out high priority activities and projects that improve commercial motor vehicle safety and compliance with commercial motor vehicle safety regulations (including activities and projects that are national in scope), increase public awareness and education, demonstrate new technologies, and reduce the number and rate of accidents involving commercial motor vehicles.
+        The Secretary may set aside from amounts made available by subsection (a) up to $15,000,000 for each of fiscal years 2006 through 2016 for States, local governments, and organizations representing government agencies or officials described in paragraph (3) for carrying out high priority activities and projects that improve commercial motor vehicle safety and compliance with commercial motor vehicle safety regulations (including activities and projects that are national in scope), increase public awareness and education, demonstrate new technologies, and reduce the number and rate of accidents involving commercial motor vehicles.
 
         (3)  __Description of recipients__  __.—__ 
 
@@ -133,7 +101,89 @@
 
         At least 90 percent of the amounts set aside for a fiscal year under this subsection shall be awarded in grants to State agencies and local government agencies.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 987][/us/stat/108/987]; [Pub. L. 105–130, § 7][/us/pl/105/130/s7], Dec. 1, 1997, [111 Stat. 2559][/us/stat/111/2559]; [Pub. L. 105–178, title IV, § 4003(e)][/us/pl/105/178/s4003/e]–(g), June 9, 1998, [112 Stat. 397][/us/stat/112/397]; [Pub. L. 108–88, § 7(b)][/us/pl/108/88/s7/b], Sept. 30, 2003, [117 Stat. 1120][/us/stat/117/1120]; [Pub. L. 108–202, § 11(b)][/us/pl/108/202/s11/b], Feb. 29, 2004, [118 Stat. 490][/us/stat/118/490]; [Pub. L. 108–224, § 9(b)][/us/pl/108/224/s9/b], Apr. 30, 2004, [118 Stat. 638][/us/stat/118/638]; [Pub. L. 108–263, § 9(b)][/us/pl/108/263/s9/b], June 30, 2004, [118 Stat. 709][/us/stat/118/709]; [Pub. L. 108–280, § 9(b)][/us/pl/108/280/s9/b], July 30, 2004, [118 Stat. 886][/us/stat/118/886]; [Pub. L. 108–310, § 7(b)][/us/pl/108/310/s7/b], Sept. 30, 2004, [118 Stat. 1153][/us/stat/118/1153]; [Pub. L. 109–14, § 6(b)][/us/pl/109/14/s6/b], May 31, 2005, [119 Stat. 330][/us/stat/119/330]; [Pub. L. 109–20, § 6(b)][/us/pl/109/20/s6/b], July 1, 2005, [119 Stat. 352][/us/stat/119/352]; [Pub. L. 109–35, § 6(b)][/us/pl/109/35/s6/b], July 20, 2005, [119 Stat. 385][/us/stat/119/385]; [Pub. L. 109–37, § 6(b)][/us/pl/109/37/s6/b], July 22, 2005, [119 Stat. 400][/us/stat/119/400]; [Pub. L. 109–40, § 6(b)][/us/pl/109/40/s6/b], July 28, 2005, [119 Stat. 417][/us/stat/119/417]; [Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4101(a), (b), 4107(a), Aug. 10, 2005, [119 Stat. 1714][/us/stat/119/1714], 1719; [Pub. L. 110–244, title III, § 301(a)][/us/pl/110/244/s301/a], June 6, 2008, [122 Stat. 1616][/us/stat/122/1616]; [Pub. L. 111–147, title IV, § 422(a)][/us/pl/111/147/s422/a], (b), (d), Mar. 18, 2010, [124 Stat. 86][/us/stat/124/86], 87; [Pub. L. 111–322, title II, § 2202(a)][/us/pl/111/322/s2202/a], (b), (d), Dec. 22, 2010, [124 Stat. 3524][/us/stat/124/3524], 3525; [Pub. L. 112–5, title II, § 202(a)][/us/pl/112/5/s202/a], (b), (d), Mar. 4, 2011, [125 Stat. 16][/us/stat/125/16], 17; [Pub. L. 112–30, title I, § 122(a)][/us/pl/112/30/s122/a], (b), (d), Sept. 16, 2011, [125 Stat. 348][/us/stat/125/348], 349; [Pub. L. 112–102, title II, § 202(a)][/us/pl/112/102/s202/a], (b), (d), Mar. 30, 2012, [126 Stat. 273][/us/stat/126/273], 274; [Pub. L. 112–140, title II, § 202(a)][/us/pl/112/140/s202/a], (b), (d), June 29, 2012, [126 Stat. 394][/us/stat/126/394], 395; [Pub. L. 112–141, div. C, title II, § 32603(a)][/us/pl/112/141/s32603/a], (b), (d), div. G, title II, § 112002(a), (b), July 6, 2012, [126 Stat. 807][/us/stat/126/807], 808, 982; [Pub. L. 113–159, title I, § 1102(a)][/us/pl/113/159/s1102/a], (b), (d), Aug. 8, 2014, [128 Stat. 1843][/us/stat/128/1843], 1844; [Pub. L. 114–21, title I, § 1102(a)][/us/pl/114/21/s1102/a], (b), (d), May 29, 2015, [129 Stat. 221][/us/stat/129/221], 222; [Pub. L. 114–41, title I, § 1102(a)][/us/pl/114/41/s1102/a], (b), (d), July 31, 2015, [129 Stat. 448][/us/stat/129/448], 449; [Pub. L. 114–73, title I, § 1102(a)][/us/pl/114/73/s1102/a], (b), (d), Oct. 29, 2015, [129 Stat. 571][/us/stat/129/571], 572; [Pub. L. 114–87, title I, § 1102(a)][/us/pl/114/87/s1102/a], (b), (d), Nov. 20, 2015, [129 Stat. 680][/us/stat/129/680], 681.)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 987][/us/stat/108/987]; [Pub. L. 105–130, § 7][/us/pl/105/130/s7], Dec. 1, 1997, [111 Stat. 2559][/us/stat/111/2559]; [Pub. L. 105–178, title IV, § 4003(e)][/us/pl/105/178/s4003/e]–(g), June 9, 1998, [112 Stat. 397][/us/stat/112/397]; [Pub. L. 108–88, § 7(b)][/us/pl/108/88/s7/b], Sept. 30, 2003, [117 Stat. 1120][/us/stat/117/1120]; [Pub. L. 108–202, § 11(b)][/us/pl/108/202/s11/b], Feb. 29, 2004, [118 Stat. 490][/us/stat/118/490]; [Pub. L. 108–224, § 9(b)][/us/pl/108/224/s9/b], Apr. 30, 2004, [118 Stat. 638][/us/stat/118/638]; [Pub. L. 108–263, § 9(b)][/us/pl/108/263/s9/b], June 30, 2004, [118 Stat. 709][/us/stat/118/709]; [Pub. L. 108–280, § 9(b)][/us/pl/108/280/s9/b], July 30, 2004, [118 Stat. 886][/us/stat/118/886]; [Pub. L. 108–310, § 7(b)][/us/pl/108/310/s7/b], Sept. 30, 2004, [118 Stat. 1153][/us/stat/118/1153]; [Pub. L. 109–14, § 6(b)][/us/pl/109/14/s6/b], May 31, 2005, [119 Stat. 330][/us/stat/119/330]; [Pub. L. 109–20, § 6(b)][/us/pl/109/20/s6/b], July 1, 2005, [119 Stat. 352][/us/stat/119/352]; [Pub. L. 109–35, § 6(b)][/us/pl/109/35/s6/b], July 20, 2005, [119 Stat. 385][/us/stat/119/385]; [Pub. L. 109–37, § 6(b)][/us/pl/109/37/s6/b], July 22, 2005, [119 Stat. 400][/us/stat/119/400]; [Pub. L. 109–40, § 6(b)][/us/pl/109/40/s6/b], July 28, 2005, [119 Stat. 417][/us/stat/119/417]; [Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4101(a), (b), 4107(a), Aug. 10, 2005, [119 Stat. 1714][/us/stat/119/1714], 1719; [Pub. L. 110–244, title III, § 301(a)][/us/pl/110/244/s301/a], June 6, 2008, [122 Stat. 1616][/us/stat/122/1616]; [Pub. L. 111–147, title IV, § 422(a)][/us/pl/111/147/s422/a], (b), (d), Mar. 18, 2010, [124 Stat. 86][/us/stat/124/86], 87; [Pub. L. 111–322, title II, § 2202(a)][/us/pl/111/322/s2202/a], (b), (d), Dec. 22, 2010, [124 Stat. 3524][/us/stat/124/3524], 3525; [Pub. L. 112–5, title II, § 202(a)][/us/pl/112/5/s202/a], (b), (d), Mar. 4, 2011, [125 Stat. 16][/us/stat/125/16], 17; [Pub. L. 112–30, title I, § 122(a)][/us/pl/112/30/s122/a], (b), (d), Sept. 16, 2011, [125 Stat. 348][/us/stat/125/348], 349; [Pub. L. 112–102, title II, § 202(a)][/us/pl/112/102/s202/a], (b), (d), Mar. 30, 2012, [126 Stat. 273][/us/stat/126/273], 274; [Pub. L. 112–140, title II, § 202(a)][/us/pl/112/140/s202/a], (b), (d), June 29, 2012, [126 Stat. 394][/us/stat/126/394], 395; [Pub. L. 112–141, div. C, title II, § 32603(a)][/us/pl/112/141/s32603/a], (b), (d), div. G, title II, § 112002(a), (b), July 6, 2012, [126 Stat. 807][/us/stat/126/807], 808, 982; [Pub. L. 113–159, title I, § 1102(a)][/us/pl/113/159/s1102/a], (b), (d), Aug. 8, 2014, [128 Stat. 1843][/us/stat/128/1843], 1844; [Pub. L. 114–21, title I, § 1102(a)][/us/pl/114/21/s1102/a], (b), (d), May 29, 2015, [129 Stat. 221][/us/stat/129/221], 222; [Pub. L. 114–41, title I, § 1102(a)][/us/pl/114/41/s1102/a], (b), (d), July 31, 2015, [129 Stat. 448][/us/stat/129/448], 449; [Pub. L. 114–73, title I, § 1102(a)][/us/pl/114/73/s1102/a], (b), (d), Oct. 29, 2015, [129 Stat. 571][/us/stat/129/571], 572; [Pub. L. 114–87, title I, § 1102(a)][/us/pl/114/87/s1102/a], (b), (d), Nov. 20, 2015, [129 Stat. 680][/us/stat/129/680], 681; [Pub. L. 114–94, div. A, title V][/us/pl/114/94], §§ 5101(c), 5103(c)(1), 5105(a), (c), Dec. 4, 2015, [129 Stat. 1523][/us/stat/129/1523], 1527, 1529.)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 114–94, div. A, title V, § 5101(c)][/us/pl/114/94/s5101/c], (f), (g), Dec. 4, 2015, [129 Stat. 1523][/us/stat/129/1523], 1526, provided that, effective Oct. 1, 2016, and subject to a transition provision, this section is amended to read as follows:
+
+    § 31104. Authorization of appropriations
+
+    (a) Financial Assistance Programs.—The following sums are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account):
+
+    (1) Motor carrier safety assistance program.—Subject to paragraph (2) and subsection (c), to carry out section 31102 (except subsection (l))—
+
+    (A) $292,600,000 for fiscal year 2017;
+
+    (B) $298,900,000 for fiscal year 2018;
+
+    (C) $304,300,000 for fiscal year 2019; and
+
+    (D) $308,700,000 for fiscal year 2020.
+
+    (2) High priority activities program.—Subject to subsection (c), to carry out section 31102(l)—
+
+    (A) $42,200,000 for fiscal year 2017;
+
+    (B) $43,100,000 for fiscal year 2018;
+
+    (C) $44,000,000 for fiscal year 2019; and
+
+    (D) $44,900,000 for fiscal year 2020.
+
+    (3) Commercial motor vehicle operators grant program.—To carry out section 31103—
+
+    (A) $1,000,000 for fiscal year 2017;
+
+    (B) $1,000,000 for fiscal year 2018;
+
+    (C) $1,000,000 for fiscal year 2019; and
+
+    (D) $1,000,000 for fiscal year 2020.
+
+    (4) Commercial driver’s license program implementation program.—Subject to subsection (c), to carry out section 31313—
+
+    (A) $31,200,000 for fiscal year 2017;
+
+    (B) $31,800,000 for fiscal year 2018;
+
+    (C) $32,500,000 for fiscal year 2019; and
+
+    (D) $33,200,000 for fiscal year 2020.
+
+    (b) Reimbursement and Payment to Recipients for Government Share of Costs.—
+
+    (1) In general.—Amounts made available under subsection (a) shall be used to reimburse financial assistance recipients proportionally for the Federal Government’s share of the costs incurred.
+
+    (2) Reimbursement amounts.—The Secretary shall reimburse a recipient, in accordance with a financial assistance agreement made under section 31102, 31103, or 31313, an amount that is at least 85 percent of the costs incurred by the recipient in a fiscal year in developing and implementing programs under such sections. The Secretary shall pay the recipient an amount not more than the Federal Government share of the total costs approved by the Federal Government in the financial assistance agreement. The Secretary shall include a recipient’s in-kind contributions in determining the reimbursement.
+
+    (3) Vouchers.—Each recipient shall submit vouchers at least quarterly for costs the recipient incurs in developing and implementing programs under sections 31102, 31103, and 31313.
+
+    (c) Deductions for Partner Training and Program Support.—On October 1 of each fiscal year, or as soon after that date as practicable, the Secretary may deduct from amounts made available under paragraphs (1), (2), and (4) of subsection (a) for that fiscal year not more than 1.50 percent of those amounts for partner training and program support in that fiscal year. The Secretary shall use at least 75 percent of those deducted amounts to train non-Federal Government employees and to develop related training materials in carrying out such programs.
+
+    (d) Grants and Cooperative Agreements as Contractual Obligations.—The approval of a financial assistance agreement by the Secretary under section 31102, 31103, or 31313 is a contractual obligation of the Federal Government for payment of the Federal Government’s share of costs in carrying out the provisions of the grant or cooperative agreement.
+
+    (e) Eligible Activities.—The Secretary shall establish criteria for eligible activities to be funded with financial assistance agreements under this section and publish those criteria in a notice of funding availability before the financial assistance program application period.
+
+    (f) Period of Availability of Financial Assistance Agreement Funds for Recipient Expenditures.—The period of availability for a recipient to expend funds under a grant or cooperative agreement authorized under subsection (a) is as follows:
+
+    (1) For grants made for carrying out section 31102, other than section 31102(l), for the fiscal year in which the Secretary approves the financial assistance agreement and for the next fiscal year.
+
+    (2) For grants made or cooperative agreements entered into for carrying out section 31102(l)(2), for the fiscal year in which the Secretary approves the financial assistance agreement and for the next 2 fiscal years.
+
+    (3) For grants made for carrying out section 31102(l)(3), for the fiscal year in which the Secretary approves the financial assistance agreement and for the next 4 fiscal years.
+
+    (4) For grants made for carrying out section 31103, for the fiscal year in which the Secretary approves the financial assistance agreement and for the next fiscal year.
+
+    (5) For grants made or cooperative agreements entered into for carrying out section 31313, for the fiscal year in which the Secretary approves the financial assistance agreement and for the next 4 fiscal years.
+
+    (g) Contract Authority; Initial Date of Availability.—Amounts authorized from the Highway Trust Fund (other than the Mass Transit Account) by this section shall be available for obligation on the date of their apportionment or allocation or on October 1 of the fiscal year for which they are authorized, whichever occurs first.
+
+    (h) Availability of Funding.—Amounts made available under this section shall remain available until expended.
+
+    (i) Reallocation.—Amounts not expended by a recipient during the period of availability shall be released back to the Secretary for reallocation for any purpose under section 31102, 31103, or 31313 or this section to ensure, to the maximum extent possible, that all such amounts are obligated.
+
+    See 2015 Amendment note below.
 
 <table>
 
@@ -377,15 +427,23 @@ Dec. 18, 1991, Pub. L. 102–240, § 4002(l), 105 Stat. 2144.  </td>
 
  __Amendments__ 
 
-    2015—Subsec. (a)(10). [Pub. L. 114–41, § 1102(a)(2)][/us/pl/114/41/s1102/a/2], added par. (10) and struck out former par. (10) which read as follows: “$181,567,123 for the period beginning on October 1, 2014, and ending on July 31, 2015.”
+    2015—[Pub. L. 114–94, § 5101(c)][/us/pl/114/94/s5101/c], amended section generally. Prior to amendment, section related to availability of appropriated amounts.
+
+    Subsec. (a)(10). [Pub. L. 114–94, § 5105(a)][/us/pl/114/94/s5105/a], added par. (10) and struck out former par. (10) which read as follows: “$218,000,000 for fiscal year 2015; and”.
+
+    [Pub. L. 114–41, § 1102(a)(2)][/us/pl/114/41/s1102/a/2], added par. (10) and struck out former par. (10) which read as follows: “$181,567,123 for the period beginning on October 1, 2014, and ending on July 31, 2015.”
 
     [Pub. L. 114–21, § 1102(a)][/us/pl/114/21/s1102/a], amended par. (10) generally. Prior to amendment, par. (10) read as follows: “$145,134,247 for the period beginning on October 1, 2014, and ending on May 31, 2015.”
 
-    Subsec. (a)(11). [Pub. L. 114–87, § 1102(a)][/us/pl/114/87/s1102/a], amended par. (11) generally. Prior to amendment, par. (11) read as follows: “$30,377,049 for the period beginning on October 1, 2015, and ending on November 20, 2015.”
+    Subsec. (a)(11). [Pub. L. 114–94, § 5105(a)][/us/pl/114/94/s5105/a], added par. (11) and struck out former par. (11) which read as follows: “$38,715,847 for the period beginning on October 1, 2015, and ending on December 4, 2015.”
+
+    [Pub. L. 114–87, § 1102(a)][/us/pl/114/87/s1102/a], amended par. (11) generally. Prior to amendment, par. (11) read as follows: “$30,377,049 for the period beginning on October 1, 2015, and ending on November 20, 2015.”
 
     [Pub. L. 114–73, § 1102(a)][/us/pl/114/73/s1102/a], amended par. (11) generally. Prior to amendment, par. (11) read as follows: “$17,273,224 for the period beginning on October 1, 2015, and ending on October 29, 2015.”
 
     [Pub. L. 114–41, § 1102(a)][/us/pl/114/41/s1102/a], added par. (11).
+
+    Subsec. (i). [Pub. L. 114–94, § 5103(c)(1)][/us/pl/114/94/s5103/c/1], redesignated subsec. (j) as (i) and struck out former subsec. (i) which related to authorization of appropriations for certain administrative expenses of the Federal Motor Carrier Safety Administration. See [section 31110 of this title][/us/usc/t49/s31110].
 
     Subsec. (i)(1)(J). [Pub. L. 114–41, § 1102(b)(2)][/us/pl/114/41/s1102/b/2], added subpar. (J) and struck out former subpar. (J) which read as follows: “$215,715,068 for the period beginning on October 1, 2014, and ending on July 31, 2015.”
 
@@ -396,6 +454,12 @@ Dec. 18, 1991, Pub. L. 102–240, § 4002(l), 105 Stat. 2144.  </td>
     [Pub. L. 114–73, § 1102(b)][/us/pl/114/73/s1102/b], amended subpar. (K) generally. Prior to amendment, subpar. (K) read as follows: “$20,521,858 for the period beginning on October 1, 2015, and ending on October 29, 2015.”
 
     [Pub. L. 114–41, § 1102(b)][/us/pl/114/41/s1102/b], added subpar. (K).
+
+    Subsec. (j). [Pub. L. 114–94, § 5103(c)(1)(B)][/us/pl/114/94/s5103/c/1/B], redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
+
+    Subsec. (j)(2). [Pub. L. 114–94, § 5105(c)][/us/pl/114/94/s5105/c], substituted “2016 for States,” for “2015 and up to $2,663,934 for the period beginning on October 1, 2015, and ending on December 4, 2015, for States,”.
+
+    Subsec. (k). [Pub. L. 114–94, § 5103(c)(1)(B)][/us/pl/114/94/s5103/c/1/B], redesignated subsec. (k) as (j).
 
     Subsec. (k)(2). [Pub. L. 114–87, § 1102(d)][/us/pl/114/87/s1102/d], substituted “and up to $2,663,934 for the period beginning on October 1, 2015, and ending on December 4, 2015,” for “and up to $2,090,164 for the period beginning on October 1, 2015, and ending on November 20, 2015,”.
 
@@ -527,6 +591,12 @@ Dec. 18, 1991, Pub. L. 102–240, § 4002(l), 105 Stat. 2144.  </td>
 
     1997—Subsec. (a). [Pub. L. 105–130][/us/pl/105/130] substituted “Not more” for “not more” in pars. (1) to (5) and added par. (6).
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by sections 5103(c)(1) and 5105(a), (c) of [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
+    Amendment by [section 5101(c) of Pub. L. 114–94][/us/pl/114/94/s5101/c] effective Oct. 1, 2016, subject to a transition provision, see section 5101(f), (g) of [Pub. L. 114–94][/us/pl/114/94], set out as Effective Date of 2015 Amendment and Transition notes under [section 31102 of this title][/us/usc/t49/s31102].
+
  __Effective and Termination Dates of 2012 Amendment__ 
 
     Amendment by section 32603(a), (b) of [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as a note under [section 101 of Title 23][/us/usc/t23/s101], Highways.
@@ -537,9 +607,9 @@ Dec. 18, 1991, Pub. L. 102–240, § 4002(l), 105 Stat. 2144.  </td>
 
  __Funding__ 
 
-[Pub. L. 109–59, title IV, § 4116(d)][/us/pl/109/59/s4116/d], Aug. 10, 2005, [119 Stat. 1728][/us/stat/119/1728], provided that: 
+[Pub. L. 109–59, title IV, § 4116(d)][/us/pl/109/59/s4116/d], Aug. 10, 2005, [119 Stat. 1728][/us/stat/119/1728], as amended by [Pub. L. 114–94, div. A, title V, § 5103(c)(2)][/us/pl/114/94/s5103/c/2], Dec. 4, 2015, [129 Stat. 1527][/us/stat/129/1527], provided that: 
 
-> “Amounts made available pursuant to [section 31104(i) of title 49][/us/usc/t49/s31104/i], United States Code, shall be used by the Secretary \[of Transportation\] to carry out [section 31149 of title 49][/us/usc/t49/s31149], United States Code.”
+> “Amounts made available pursuant to [section 31110 of title 49][/us/usc/t49/s31110], United States Code, shall be used by the Secretary \[of Transportation\] to carry out [section 31149 of title 49][/us/usc/t49/s31149], United States Code.”
 
  __Increased Authorizations for Motor Carrier Safety Grants__ 
 
@@ -615,21 +685,33 @@ Dec. 18, 1991, Pub. L. 102–240, § 4002(l), 105 Stat. 2144.  </td>
 [/us/stat/129/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F571
 [/us/pl/114/87/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1102%2Fa
 [/us/stat/129/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F680
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1523
+[/us/pl/114/94/s5101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fc
+[/us/stat/129/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1523
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/stat/105/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2142
 [/us/usc/t49/s31102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102
 [/us/usc/t49/s31102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102%2Fa
 [/us/usc/t49/s31102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102%2Fa
+[/us/pl/114/94/s5101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fc
+[/us/pl/114/94/s5105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5105%2Fa
 [/us/pl/114/41/s1102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1102%2Fa%2F2
 [/us/pl/114/21/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1102%2Fa
+[/us/pl/114/94/s5105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5105%2Fa
 [/us/pl/114/87/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1102%2Fa
 [/us/pl/114/73/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1102%2Fa
 [/us/pl/114/41/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1102%2Fa
+[/us/pl/114/94/s5103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5103%2Fc%2F1
+[/us/usc/t49/s31110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31110
 [/us/pl/114/41/s1102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1102%2Fb%2F2
 [/us/pl/114/21/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1102%2Fb
 [/us/pl/114/87/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1102%2Fb
 [/us/pl/114/73/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1102%2Fb
 [/us/pl/114/41/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1102%2Fb
+[/us/pl/114/94/s5103/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5103%2Fc%2F1%2FB
+[/us/pl/114/94/s5105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5105%2Fc
+[/us/pl/114/94/s5103/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5103%2Fc%2F1%2FB
 [/us/pl/114/87/s1102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1102%2Fd
 [/us/pl/114/73/s1102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1102%2Fd
 [/us/pl/114/41/s1102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1102%2Fd
@@ -692,6 +774,12 @@ Dec. 18, 1991, Pub. L. 102–240, § 4002(l), 105 Stat. 2144.  </td>
 [/us/usc/t49/s31102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102%2Fa
 [/us/pl/105/178/s4003/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fg%2F4
 [/us/pl/105/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F130
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
+[/us/pl/114/94/s5101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fc
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/usc/t49/s31102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
@@ -706,7 +794,9 @@ Dec. 18, 1991, Pub. L. 102–240, § 4002(l), 105 Stat. 2144.  </td>
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/109/59/s4116/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4116%2Fd
 [/us/stat/119/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1728
-[/us/usc/t49/s31104/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31104%2Fi
+[/us/pl/114/94/s5103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5103%2Fc%2F2
+[/us/stat/129/1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1527
+[/us/usc/t49/s31110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31110
 [/us/usc/t49/s31149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31149
 [/us/pl/105/178/s4003/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4003%2Fi
 [/us/pl/106/159/s103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs103%2Fb%2F1

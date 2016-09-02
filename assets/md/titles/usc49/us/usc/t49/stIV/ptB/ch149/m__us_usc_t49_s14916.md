@@ -49,7 +49,15 @@
 
         (2) to the individual officers, directors, and principals of such entities.
 
-(Added [Pub. L. 112–141, div. C, title II, § 32919(a)][/us/pl/112/141/s32919/a], July 6, 2012, [126 Stat. 827][/us/stat/126/827].)
+(Added [Pub. L. 112–141, div. C, title II, § 32919(a)][/us/pl/112/141/s32919/a], July 6, 2012, [126 Stat. 827][/us/stat/126/827]; amended [Pub. L. 114–94, div. A, title V, § 5508(a)(5)][/us/pl/114/94/s5508/a/5], Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554].)
+
+ __Amendments__ 
+
+    2015—[Pub. L. 114–94][/us/pl/114/94] substituted section symbol for “SEC.” before section designation.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date__ 
 
@@ -66,6 +74,12 @@
 [/us/usc/t46/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs40102
 [/us/pl/112/141/s32919/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32919%2Fa
 [/us/stat/126/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F827
+[/us/pl/114/94/s5508/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5508%2Fa%2F5
+[/us/stat/129/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1554
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 

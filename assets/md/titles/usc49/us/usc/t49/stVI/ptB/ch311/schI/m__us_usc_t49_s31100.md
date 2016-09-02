@@ -29,6 +29,260 @@
 
 (Added [Pub. L. 105–178, title IV, § 4002(a)][/us/pl/105/178/s4002/a], June 9, 1998, [112 Stat. 395][/us/stat/112/395].)
 
+ __Compliance, Safety, Accountability Reform__ 
+
+[Pub. L. 114–94, div. A, title V][/us/pl/114/94], subtitle B, part II, Dec. 4, 2015, [129 Stat. 1538][/us/stat/129/1538], provided that:
+
+> “SEC. 5221. __CORRELATION STUDY.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Administrator of the Federal Motor Carrier Safety Administration (referred to in this part as the ‘Administrator’) shall commission the National Research Council of the National Academies to conduct a study of—
+
+>         “(1) the Compliance, Safety, Accountability program of the Federal Motor Carrier Safety Administration (referred to in this part as the ‘CSA program’); and
+
+>         “(2) the Safety Measurement System utilized by the CSA program (referred to in this part as the ‘SMS’).
+
+>     “(b)  __Scope of Study__  __.—__ 
+
+>     In carrying out the study commissioned pursuant to subsection (a), the National Research Council—
+
+>         “(1)
+
+>          shall analyze—
+
+>             “(A)
+
+>              the accuracy with which the Behavior Analysis and Safety Improvement Categories (referred to in this part as ‘BASIC’)—
+
+>                 “(i) identify high risk carriers; and
+
+>                 “(ii) predict or are correlated with future crash risk, crash severity, or other safety indicators for motor carriers, including the highest risk carriers;
+
+>             “(B) the methodology used to calculate BASIC percentiles and identify carriers for enforcement, including the weights assigned to particular violations and the tie between crash risk and specific regulatory violations, with respect to accurately identifying and predicting future crash risk for motor carriers;
+
+>             “(C) the relative value of inspection information and roadside enforcement data;
+
+>             “(D) any data collection gaps or data sufficiency problems that may exist and the impact of those gaps and problems on the efficacy of the CSA program;
+
+>             “(E) the accuracy of safety data, including the use of crash data from crashes in which a motor carrier was free from fault;
+
+>             “(F) whether BASIC percentiles for motor carriers of passengers should be calculated separately from motor carriers of freight;
+
+>             “(G) the differences in the rates at which safety violations are reported to the Federal Motor Carrier Safety Administration for inclusion in the SMS by various enforcement authorities, including States, territories, and Federal inspectors; and
+
+>             “(H) how members of the public use the SMS and what effect making the SMS information public has had on reducing crashes and eliminating unsafe motor carriers from the industry; and
+
+>         “(2) __shall consider—__ 
+
+>             “(A) whether the SMS provides comparable precision and confidence, through SMS alerts and percentiles, for the relative crash risk of individual large and small motor carriers;
+
+>             “(B) whether alternatives to the SMS would identify high risk carriers more accurately; and
+
+>             “(C) the recommendations and findings of the Comptroller General of the United States and the Inspector General of the Department \[of Transportation\], and independent review team reports, issued before the date of enactment of this Act \[Dec. 4, 2015\].
+
+>     “(c)  __Report__  __.—__ 
+
+>     Not later than 18 months after the date of enactment of this Act, the Administrator shall—
+
+>         “(1)
+
+>          submit a report containing the results of the study commissioned pursuant to subsection (a) to—
+
+>             “(A) the Committee on Commerce, Science, and Transportation of the Senate;
+
+>             “(B) the Committee on Transportation and Infrastructure of the House of Representatives; and
+
+>             “(C) the Inspector General of the Department; and
+
+>         “(2) publish the report on a publicly accessible Internet Web site of the Department.
+
+>     “(d) __Corrective Action Plan.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than 120 days after the Administrator submits the report under subsection (c), if that report identifies a deficiency or opportunity for improvement in the CSA program or in any element of the SMS, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a corrective action plan that—
+
+>             “(A) responds to the deficiencies or opportunities identified by the report;
+
+>             “(B) identifies how the Federal Motor Carrier Safety Administration will address such deficiencies or opportunities; and
+
+>             “(C) provides an estimate of the cost, including with respect to changes in staffing, enforcement, and data collection, necessary to address such deficiencies or opportunities.
+
+>         “(2)  __Program reforms__  __.—__ 
+
+>         The corrective action plan submitted under paragraph (1) shall include an implementation plan that—
+
+>             “(A) includes benchmarks;
+
+>             “(B) includes programmatic reforms, revisions to regulations, or proposals for legislation; and
+
+>             “(C) shall be considered in any rulemaking by the Department that relates to the CSA program, including the SMS or data analysis under the SMS.
+
+>     “(e)  __Inspector General Review__  __.—__ 
+
+>     Not later than 120 days after the Administrator submits a corrective action plan under subsection (d), the Inspector General of the Department shall—
+
+>         “(1)
+
+>          review the extent to which such plan addresses—
+
+>             “(A) recommendations contained in the report submitted under subsection (c); and
+
+>             “(B) relevant recommendations issued by the Comptroller General or the Inspector General before the date of enactment of this Act; and
+
+>         “(2) submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the responsiveness of the corrective action plan to the recommendations described in paragraph (1).
+
+> “SEC. 5222. __BEYOND COMPLIANCE.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>     Not later than 18 months after the date of enactment of this Act \[Dec. 4, 2015\], the Administrator shall allow recognition, including credit or an improved SMS percentile, for a motor carrier that—
+
+>         “(1) installs advanced safety equipment;
+
+>         “(2) uses enhanced driver fitness measures;
+
+>         “(3) adopts fleet safety management tools, technologies, and programs; or
+
+>         “(4) satisfies other standards determined appropriate by the Administrator.
+
+>     “(b)  __Implementation__  __.—__ 
+
+>     The Administrator shall carry out subsection (a) by—
+
+>         “(1) incorporating a methodology into the CSA program; or
+
+>         “(2) establishing a safety BASIC in the SMS.
+
+>     “(c) __Process.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Administrator, after providing notice and an opportunity for comment, shall develop a process for identifying and reviewing advanced safety equipment, enhanced driver fitness measures, fleet safety management tools, technologies, and programs, and other standards for use by motor carriers to receive recognition, including credit or an improved SMS percentile, for purposes of subsection (a).
+
+>         “(2)  __Contents__  __.—__ 
+
+>         A process developed under paragraph (1) shall—
+
+>             “(A) provide for a petition process for reviewing advanced safety equipment, enhanced driver fitness measures, fleet safety management tools, technologies, and programs, and other standards; and
+
+>             “(B) seek input and participation from industry stakeholders, including commercial motor vehicle drivers, technology manufacturers, vehicle manufacturers, motor carriers, law enforcement, safety advocates, and the Motor Carrier Safety Advisory Committee.
+
+>     “(d)  __Qualification__  __.—__ 
+
+>     The Administrator, after providing notice and an opportunity for comment, shall develop technical or other performance standards with respect to advanced safety equipment, enhanced driver fitness measures, fleet safety management tools, technologies, and programs, and other standards for purposes of subsection (a).
+
+>     “(e)  __Monitoring__  __.—__ 
+
+>     The Administrator may authorize qualified entities to monitor motor carriers that receive recognition, including credit or an improved SMS percentile, under this section through a no-cost contract structure.
+
+>     “(f)  __Dissemination of Information__  __.—__ 
+
+>     The Administrator shall maintain on a publicly accessible Internet Web site of the Department information on—
+
+>         “(1) the advanced safety equipment, enhanced driver fitness measures, fleet safety management tools, technologies, and programs, and other standards eligible for recognition, including credit or an improved SMS percentile;
+
+>         “(2) any petitions for review of advanced safety equipment, enhanced driver fitness measures, fleet safety management tools, technologies, and programs, and other standards; and
+
+>         “(3) any relevant statistics relating to the use of advanced safety equipment, enhanced driver fitness measures, fleet safety management tools, technologies, and programs, and other standards.
+
+>     “(g)  __Report__  __.—__ 
+
+>     Not later than 3 years after the date of enactment of this Act, the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the—
+
+>         “(1) number of motor carriers receiving recognition, including credit or an improved SMS percentile, under this section; and
+
+>         “(2) safety performance of such carriers.
+
+> “SEC. 5223. __DATA CERTIFICATION.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>     On and after the date that is 1 day after the date of enactment of this Act \[Dec. 4, 2015\], no information regarding analysis of violations, crashes in which a determination is made that the motor carrier or the commercial motor vehicle driver is not at fault, alerts, or the relative percentile for each BASIC developed under the CSA program may be made available to the general public until the Inspector General of the Department certifies that—
+
+>         “(1) the report required under section 5221(c) has been submitted in accordance with that section;
+
+>         “(2) any deficiencies identified in the report required under section 5221(c) have been addressed;
+
+>         “(3) if applicable, the corrective action plan under section 5221(d) has been implemented;
+
+>         “(4) the Administrator of the Federal Motor Carrier Safety Administration has fully implemented or satisfactorily addressed the issues raised in the report titled ‘Modifying the Compliance, Safety, Accountability Program Would Improve the Ability to Identify High Risk Carriers’ of the Government Accountability Office and dated February 2014 (GAO–14–114); and
+
+>         “(5) the Secretary \[of Transportation\] has initiated modification of the CSA program in accordance with section 5222.
+
+>     “(b)  __Limitation on the Use of CSA Analysis__  __.—__ 
+
+>     Information regarding alerts and the relative percentile for each BASIC developed under the CSA program may not be used for safety fitness determinations until the Inspector General of the Department makes the certification under subsection (a).
+
+>     “(c)  __Continued Public Availability of Data__  __.—__ 
+
+>     Notwithstanding any other provision of this section, inspection and violation information submitted to the Federal Motor Carrier Safety Administration by commercial motor vehicle inspectors and qualified law enforcement officials, out-of-service rates, and absolute measures shall remain available to the public.
+
+>     “(d) __Exceptions.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Notwithstanding any other provision of this section—
+
+>             “(A) the Federal Motor Carrier Safety Administration and State and local commercial motor vehicle enforcement agencies may use the information referred to in subsection (a) for purposes of investigation and enforcement prioritization;
+
+>             “(B) a motor carrier and a commercial motor vehicle driver may access information referred to in subsection (a) that relates directly to the motor carrier or driver, respectively; and
+
+>             “(C) a data analysis of motorcoach operators may be provided online with a notation indicating that the ratings or alerts listed are not intended to imply any Federal safety rating of the carrier.
+
+>         “(2)  __Notation__  __.—__ 
+
+>         The notation described in paragraph (1)(C) shall include the following: ‘Readers should not draw conclusions about a carrier’s overall safety condition simply based on the data displayed in this system. Unless a motor carrier has received an UNSATISFACTORY safety rating under part 385 of title 49, Code of Federal Regulations, or has otherwise been ordered to discontinue operations by the Federal Motor Carrier Safety Administration, it is authorized to operate on the Nation’s roadways.’.
+
+>         “(3)  __Rule of construction__  __.—__ 
+
+>         Nothing in this section may be construed to restrict the official use by State enforcement agencies of the data collected by State enforcement personnel.
+
+> “SEC. 5224. __DATA IMPROVEMENT.__ 
+
+>     “(a)  __Functional Specifications__  __.—__ 
+
+>     The Administrator shall develop functional specifications to ensure the consistent and accurate input of data into systems and databases relating to the CSA program.
+
+>     “(b)  __Functionality__  __.—__ 
+
+>     The functional specifications developed pursuant to subsection (a)—
+
+>         “(1) shall provide for the hardcoding and smart logic functionality for roadside inspection data collection systems and databases; and
+
+>         “(2) shall be made available to public and private sector developers.
+
+>     “(c)  __Effective Data Management__  __.—__ 
+
+>     The Administrator shall ensure that internal systems and databases accept and effectively manage data using uniform standards.
+
+>     “(d)  __Consultation With the States__  __.—__ 
+
+>     Before implementing the functional specifications developed pursuant to subsection (a) or the standards described in subsection (c), the Administrator shall seek input from the State agencies responsible for enforcing [section 31102 of title 49][/us/usc/t49/s31102], United States Code.
+
+> “SEC. 5225. __ACCIDENT REVIEW.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>     Not later than 1 year after a certification under section 5223, the Secretary shall task the Motor Carrier Safety Advisory Committee with reviewing the treatment of preventable crashes under the SMS.
+
+>     “(b)  __Duties__  __.—__ 
+
+>     Not later than 6 months after being tasked under subsection (a), the Motor Carrier Safety Advisory Committee shall make recommendations to the Secretary on a process to allow motor carriers and drivers to request that the Administrator make a determination with respect to the preventability of a crash, if such a process has not yet been established by the Secretary.
+
+>     “(c)  __Report__  __.—__ 
+
+>     The Secretary shall—
+
+>         “(1) review and consider the recommendations provided by the Motor Carrier Safety Advisory Committee; and
+
+>         “(2) report to Congress on how the Secretary intends to address the treatment of preventable crashes.
+
+>     “(d)  __Preventable Defined__  __.—__ 
+
+>     In this section, the term ‘preventable’ has the meaning given that term in Appendix B of part 385 of title 49, Code of Federal Regulations, as in effect on the date of enactment of this Act \[Dec. 4, 2015\].”
+
  __Administration of Grant Programs__ 
 
 [Pub. L. 112–141, div. C, title II, § 32603(i)][/us/pl/112/141/s32603/i], July 6, 2012, [126 Stat. 808][/us/stat/126/808], provided that: 
@@ -59,37 +313,7 @@
 
  __Outreach and Education__ 
 
-[Pub. L. 109–59, title IV, § 4127][/us/pl/109/59/s4127], Aug. 10, 2005, [119 Stat. 1741][/us/stat/119/1741], as amended by [Pub. L. 111–147, title IV, § 422(g)][/us/pl/111/147/s422/g], Mar. 18, 2010, [124 Stat. 87][/us/stat/124/87]; [Pub. L. 111–322, title II, § 2202(g)][/us/pl/111/322/s2202/g], Dec. 22, 2010, [124 Stat. 3525][/us/stat/124/3525]; [Pub. L. 112–5, title II, § 202(g)][/us/pl/112/5/s202/g], Mar. 4, 2011, [125 Stat. 17][/us/stat/125/17]; [Pub. L. 112–30, title I, § 122(f)][/us/pl/112/30/s122/f], Sept. 16, 2011, [125 Stat. 349][/us/stat/125/349]; [Pub. L. 112–102, title II, § 202(f)][/us/pl/112/102/s202/f], Mar. 30, 2012, [126 Stat. 274][/us/stat/126/274]; [Pub. L. 112–140, title II, § 202(f)][/us/pl/112/140/s202/f], June 29, 2012, [126 Stat. 395][/us/stat/126/395]; [Pub. L. 112–141, div. C, title II, § 32603(f)][/us/pl/112/141/s32603/f], div. G, title II, § 112002(e), July 6, 2012, [126 Stat. 808][/us/stat/126/808], 983; [Pub. L. 113–159, title I, § 1102(f)][/us/pl/113/159/s1102/f], Aug. 8, 2014, [128 Stat. 1844][/us/stat/128/1844]; [Pub. L. 114–21, title I, § 1102(f)][/us/pl/114/21/s1102/f], May 29, 2015, [129 Stat. 222][/us/stat/129/222]; [Pub. L. 114–41, title I, § 1102(f)][/us/pl/114/41/s1102/f], July 31, 2015, [129 Stat. 449][/us/stat/129/449]; [Pub. L. 114–73, title I, § 1102(f)][/us/pl/114/73/s1102/f], Oct. 29, 2015, [129 Stat. 572][/us/stat/129/572]; [Pub. L. 114–87, title I, § 1102(f)][/us/pl/114/87/s1102/f], Nov. 20, 2015, [129 Stat. 681][/us/stat/129/681], provided that:
-
->     “(a)  __In General__  __.—__ 
-
->     The Secretary \[of Transportation\] shall conduct, through any combination of grants, contracts, or cooperative agreements, an outreach and education program to be administered by the Federal Motor Carrier Safety Administration and the National Highway Traffic Safety Administration.
-
->     “(b)  __Program Elements__  __.—__ 
-
->     The program shall include, at a minimum, the following:
-
->         “(1) A program to promote a more comprehensive and national effort to educate commercial motor vehicle drivers and passenger vehicle drivers about how commercial motor vehicle drivers and passenger vehicle drivers can more safely share the road with each other.
-
->         “(2) A program to promote enhanced traffic enforcement efforts aimed at reducing the incidence of the most common unsafe driving behaviors that cause or contribute to crashes involving commercial motor vehicles and passenger vehicles.
-
->         “(3) A program to establish a public-private partnership to provide resources and expertise for the development and dissemination of information relating to sharing the road referred to in paragraphs (1) and (2) to each partner’s constituents and to the general public through the use of brochures, videos, paid and public advertisements, the Internet, and other media.
-
->     “(c)  __Federal Share__  __.—__ 
-
->     The Federal share of a program or activity for which a grant is made under this section shall be 100 percent of the cost of such program or activity.
-
->     “(d)  __Annual Report__  __.—__ 
-
->     The Secretary shall prepare and transmit to Congress an annual report on the programs and activities carried out under this section. The final annual report shall be submitted not later than September 30, 2009.
-
->     “(e)  __Funding__  __.—__ 
-
->     From amounts made available under [section 31104(i) of title 49][/us/usc/t49/s31104/i], United States Code, the Secretary shall make available $4,000,000 to the Federal Motor Carrier Safety Administration for each of fiscal years 2013 through 2015 and $710,383 to the Federal Motor Carrier Safety Administration for the period beginning on October 1, 2015, and ending on December 4, 2015, to carry out this section (other than subsection (f)).
-
->     “(f)  __Study__  __.—__ 
-
->     The Comptroller General shall update the Government Accountability Office’s evaluation of the ‘Share the Road Safely’ program to determine if it has achieved reductions in the number and severity of commercial motor vehicle crashes, including reductions in the number of deaths and the severity of injuries sustained in these crashes and shall report its updated evaluation to Congress no later than June 30, 2006.”
+    [Pub. L. 109–59, title IV, § 4127][/us/pl/109/59/s4127], Aug. 10, 2005, [119 Stat. 1741][/us/stat/119/1741], as amended by [Pub. L. 111–147, title IV, § 422(g)][/us/pl/111/147/s422/g], Mar. 18, 2010, [124 Stat. 87][/us/stat/124/87]; [Pub. L. 111–322, title II, § 2202(g)][/us/pl/111/322/s2202/g], Dec. 22, 2010, [124 Stat. 3525][/us/stat/124/3525]; [Pub. L. 112–5, title II, § 202(g)][/us/pl/112/5/s202/g], Mar. 4, 2011, [125 Stat. 17][/us/stat/125/17]; [Pub. L. 112–30, title I, § 122(f)][/us/pl/112/30/s122/f], Sept. 16, 2011, [125 Stat. 349][/us/stat/125/349]; [Pub. L. 112–102, title II, § 202(f)][/us/pl/112/102/s202/f], Mar. 30, 2012, [126 Stat. 274][/us/stat/126/274]; [Pub. L. 112–140, title II, § 202(f)][/us/pl/112/140/s202/f], June 29, 2012, [126 Stat. 395][/us/stat/126/395]; [Pub. L. 112–141, div. C, title II, § 32603(f)][/us/pl/112/141/s32603/f], div. G, title II, § 112002(e), July 6, 2012, [126 Stat. 808][/us/stat/126/808], 983; [Pub. L. 113–159, title I, § 1102(f)][/us/pl/113/159/s1102/f], Aug. 8, 2014, [128 Stat. 1844][/us/stat/128/1844]; [Pub. L. 114–21, title I, § 1102(f)][/us/pl/114/21/s1102/f], May 29, 2015, [129 Stat. 222][/us/stat/129/222]; [Pub. L. 114–41, title I, § 1102(f)][/us/pl/114/41/s1102/f], July 31, 2015, [129 Stat. 449][/us/stat/129/449]; [Pub. L. 114–73, title I, § 1102(f)][/us/pl/114/73/s1102/f], Oct. 29, 2015, [129 Stat. 572][/us/stat/129/572]; [Pub. L. 114–87, title I, § 1102(f)][/us/pl/114/87/s1102/f], Nov. 20, 2015, [129 Stat. 681][/us/stat/129/681], which provided for an outreach and education program, was repealed by [Pub. L. 114–94, div. A, title V, § 5103(c)(4)][/us/pl/114/94/s5103/c/4], Dec. 4, 2015, [129 Stat. 1527][/us/stat/129/1527]. See [section 31110(c) of this title][/us/usc/t49/s31110/c].
 
  __Safety Data Improvement Program__ 
 
@@ -116,6 +340,8 @@
 >     “(d)  __Biennial Report__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[Aug. 10, 2005\], and biennially thereafter, the Secretary shall transmit to Congress a report on the activities and results of the program carried out under this section, together with any recommendations the Secretary determines appropriate.”
+
+    \[[Pub. L. 114–94, div. A, title V, § 5101(e)(6)][/us/pl/114/94/s5101/e/6], (f), (g), Dec. 4, 2015, [129 Stat. 1525][/us/stat/129/1525], 1526, provided that, effective Oct. 1, 2016, [section 4128 of Pub. L. 109–59][/us/pl/109/59/s4128], set out above, is repealed, subject to a transition provision.\]
 
  __Operating Authority Enforcement Assistance for States__ 
 
@@ -336,6 +562,9 @@
 
 [/us/pl/105/178/s4002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4002%2Fa
 [/us/stat/112/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F395
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1538
+[/us/usc/t49/s31102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31102
 [/us/pl/112/141/s32603/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32603%2Fi
 [/us/stat/126/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F808
 [/us/pl/109/347/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs703
@@ -367,9 +596,14 @@
 [/us/stat/129/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F572
 [/us/pl/114/87/s1102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1102%2Ff
 [/us/stat/129/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F681
-[/us/usc/t49/s31104/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31104%2Fi
+[/us/pl/114/94/s5103/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5103%2Fc%2F4
+[/us/stat/129/1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1527
+[/us/usc/t49/s31110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31110%2Fc
 [/us/pl/109/59/s4128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4128
 [/us/stat/119/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1742
+[/us/pl/114/94/s5101/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fe%2F6
+[/us/stat/129/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1525
+[/us/pl/109/59/s4128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4128
 [/us/pl/109/59/s4139/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4139%2Fa
 [/us/stat/119/1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1745
 [/us/pl/109/59/s4144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4144

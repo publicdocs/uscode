@@ -15,9 +15,9 @@
 
 ## § 6302. Bureau of Transportation Statistics
 
-    (a)  __Establishment__  __.—__ 
+    (a)  __In General__  __.—__ 
 
-    There is established in the Office of the Assistant Secretary for Research and Technology of the Department of Transportation the Bureau of Transportation Statistics.
+    There shall be within the Department of Transportation the Bureau of Transportation Statistics.
 
     (b) __Director.—__ 
 
@@ -99,7 +99,7 @@
 
                     (II) the state of good repair of United States transportation infrastructure;
 
-                    (III) the extent, connectivity, and condition of the transportation system, building on the national transportation atlas database developed under section 6310;  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section 6309;”. </sup></sup> 
+                    (III) the extent, connectivity, and condition of the transportation system, building on the national transportation atlas database developed under section 6309;
 
                     (IV) economic efficiency across the entire transportation sector;
 
@@ -135,7 +135,33 @@
 
     In carrying out subsection (b)(3)(B)(ii), the Director shall be given access to all safety data that the Director determines necessary to carry out that subsection that is held by the Department or any other Federal agency upon written request and subject to any statutory or regulatory restrictions.
 
-(Added [Pub. L. 112–141, div. E, title II, § 52011(a)][/us/pl/112/141/s52011/a], July 6, 2012, [126 Stat. 887][/us/stat/126/887]; amended [Pub. L. 113–76, div. L, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 574][/us/stat/128/574].)
+    (d) __Independence of Bureau.—__ 
+
+        (1)  __In general__  __.—__ 
+
+        The Director shall not be required—
+
+            (A) to obtain the approval of any other officer or employee of the Department with respect to the collection or analysis of any information; or
+
+            (B) prior to publication, to obtain the approval of any other officer or employee of the United States Government with respect to the substance of any statistical technical reports or press releases lawfully prepared by the Director.
+
+        (2)  __Budget authority__  __.—__ 
+
+        The Director shall have a significant role in the disposition and allocation of the authorized budget of the Bureau, including—
+
+            (A) all hiring, grants, cooperative agreements, and contracts awarded by the Bureau to carry out this section; and
+
+            (B) the disposition and allocation of amounts paid to the Bureau for cost-reimbursable projects.
+
+        (3)  __Exceptions__  __.—__ 
+
+        The Secretary shall direct external support functions, such as the coordination of activities involving multiple modal administrations.
+
+        (4)  __Information technology__  __.—__ 
+
+        The Department Chief Information Officer shall consult with the Director to ensure decisions related to information technology guarantee the protection of the confidentiality of information provided solely for statistical purposes, in accordance with the Confidential Information Protection and Statistical Efficiency Act of 2002 ([44 U.S.C. 3501][/us/usc/t44/s3501] note; [Public Law 107–347][/us/pl/107/347]).
+
+(Added [Pub. L. 112–141, div. E, title II, § 52011(a)][/us/pl/112/141/s52011/a], July 6, 2012, [126 Stat. 887][/us/stat/126/887]; amended [Pub. L. 114–94, div. A, title I, § 1446(b)][/us/pl/114/94/s1446/b], title VI, §§ 6011(d)(2), 6017, Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], 1570, 1575.)
 
  __References in Text__ 
 
@@ -143,9 +169,19 @@
 
     The Government Performance and Results Act of 1993, referred to in subsec. (b)(3)(B)(ix)(I), is [Pub. L. 103–62][/us/pl/103/62], Aug. 3, 1993, [107 Stat. 285][/us/stat/107/285], which enacted [section 306 of Title 5][/us/usc/t5/s306], Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended [section 1105 of Title 31][/us/usc/t31/s1105], and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under [section 1101 of Title 31][/us/usc/t31/s1101] and Tables.
 
- __Change of Name__ 
+    The Confidential Information Protection and Statistical Efficiency Act of 2002, referred to in subsec. (d)(4), is title V of [Pub. L. 107–347][/us/pl/107/347], Dec. 17, 2002, [116 Stat. 2962][/us/stat/116/2962], which enacted [section 402 of Title 13][/us/usc/t13/s402], Census, amended [section 176a of Title 15][/us/usc/t15/s176a], Commerce and Trade, and enacted provisions set out as a note under [section 3501 of Title 44][/us/usc/t44/s3501], Public Printing and Documents.
 
-    “Office of the Assistant Secretary for Research and Technology of the Department of Transportation” substituted for “Research and Innovative Technology Administration” in subsec. (a) on authority of title I of div. L of [Pub. L. 113–76][/us/pl/113/76], set out in part as a Transfer of Duties and Powers note under [section 112 of this title][/us/usc/t49/s112].
+ __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–94, § 6011(d)(2)][/us/pl/114/94/s6011/d/2], added subsec. (a) and struck out former subsec. (a) which related to establishment of the Bureau of Transportation Statistics.
+
+    Subsec. (b)(3)(B)(vi)(III). [Pub. L. 114–94, § 1446(b)][/us/pl/114/94/s1446/b], substituted “6309” for “6310”.
+
+    Subsec. (d). [Pub. L. 114–94, § 6017][/us/pl/114/94/s6017], added subsec. (d).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date__ 
 
@@ -166,18 +202,29 @@
 
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F285
+[/us/usc/t44/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3501
+[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/pl/112/141/s52011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52011%2Fa
 [/us/stat/126/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F887
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
-[/us/stat/128/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F574
+[/us/pl/114/94/s1446/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fb
+[/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
 [/us/usc/t43/s1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1457
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F285
 [/us/usc/t5/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs306
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t31/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1101
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
-[/us/usc/t49/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs112
+[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
+[/us/stat/116/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2962
+[/us/usc/t13/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs402
+[/us/usc/t15/s176a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs176a
+[/us/usc/t44/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3501
+[/us/pl/114/94/s6011/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6011%2Fd%2F2
+[/us/pl/114/94/s1446/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1446%2Fb
+[/us/pl/114/94/s6017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6017
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/106/181/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs103%2Fb

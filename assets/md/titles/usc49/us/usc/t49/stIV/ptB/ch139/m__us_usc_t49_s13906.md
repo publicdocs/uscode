@@ -243,13 +243,13 @@
 
     (e)  __Notice of Cancellation of Insurance__  __.—__ 
 
-    The Secretary shall issue regulations requiring the submission to the Secretary of notices of insurance cancellation sufficiently in advance of actual cancellation so as to enable the Secretary to promptly revoke the registration of any carrier or broker after the effective date of the cancellation.
+    The Secretary shall issue regulations requiring the submission to the Secretary of notices of insurance cancellation sufficiently in advance of actual cancellation so as to enable the Secretary to promptly revoke or suspend the registration of any carrier or broker after the effective date of the cancellation.
 
     (f)  __Form of Endorsement__  __.—__ 
 
     The Secretary shall also prescribe the appropriate form of endorsement to be appended to policies of insurance and surety bonds which will subject the insurance policy or surety bond to the full security limits of the coverage required under this section.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 885][/us/stat/109/885]; amended [Pub. L. 104–287, § 5(34)][/us/pl/104/287/s5/34], Oct. 11, 1996, [110 Stat. 3392][/us/stat/110/3392]; [Pub. L. 109–59, title IV, § 4303(b)][/us/pl/109/59/s4303/b], (d)(1), Aug. 10, 2005, [119 Stat. 1762][/us/stat/119/1762], 1763; [Pub. L. 112–141, div. C, title II, § 32918(a)][/us/pl/112/141/s32918/a], July 6, 2012, [126 Stat. 822][/us/stat/126/822].)
+(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 885][/us/stat/109/885]; amended [Pub. L. 104–287, § 5(34)][/us/pl/104/287/s5/34], Oct. 11, 1996, [110 Stat. 3392][/us/stat/110/3392]; [Pub. L. 109–59, title IV, § 4303(b)][/us/pl/109/59/s4303/b], (d)(1), Aug. 10, 2005, [119 Stat. 1762][/us/stat/119/1762], 1763; [Pub. L. 112–141, div. C, title II, § 32918(a)][/us/pl/112/141/s32918/a], July 6, 2012, [126 Stat. 822][/us/stat/126/822]; [Pub. L. 114–94, div. A, title V, § 5201][/us/pl/114/94/s5201], Dec. 4, 2015, [129 Stat. 1534][/us/stat/129/1534].)
 
  __References in Text__ 
 
@@ -259,6 +259,8 @@
 
  __Amendments__ 
 
+    2015—Subsec. (e). [Pub. L. 114–94][/us/pl/114/94] inserted “or suspend” after “revoke”.
+
     2012—Subsecs. (b), (c). [Pub. L. 112–141][/us/pl/112/141] added subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which related to broker requirements and freight forwarder requirements, respectively.
 
     2005—[Pub. L. 109–59, § 4303(d)(1)][/us/pl/109/59/s4303/d/1], inserted “motor private carriers,” after “motor carriers,” in section catchline.
@@ -266,6 +268,10 @@
     Subsec. (a)(2) to (4). [Pub. L. 109–59, § 4303(b)][/us/pl/109/59/s4303/b], added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
     1996—Subsec. (d). [Pub. L. 104–287][/us/pl/104/287] substituted “January 1, 1996,” for “the effective date of this section”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -293,7 +299,7 @@
 
 >     “(2) the continued qualification of all carriers then so qualified under the terms and conditions set by the Interstate Commerce Commission or Secretary at the time of qualification.”
 
-    \[Interstate Commerce Commission abolished by [section 101 of Pub. L. 104–88][/us/pl/104/88/s101], set out as a note under [section 701 of this title][/us/usc/t49/s701].\]
+    \[Interstate Commerce Commission abolished by [section 101 of Pub. L. 104–88][/us/pl/104/88/s101], set out as a note under [section 1301 of this title][/us/usc/t49/s1301].\]
 
 ----------
 
@@ -310,13 +316,19 @@
 [/us/stat/119/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1762
 [/us/pl/112/141/s32918/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32918%2Fa
 [/us/stat/126/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F822
+[/us/pl/114/94/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5201
+[/us/stat/129/1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1534
 [/us/pl/109/59/s4303/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4303%2Fb%2F1
 [/us/stat/119/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1762
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59/s4303/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4303%2Fd%2F1
 [/us/pl/109/59/s4303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4303%2Fb
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141/s32918/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32918%2Fc
 [/us/stat/126/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F826
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
@@ -332,6 +344,6 @@
 [/us/pl/104/88/s104/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs104%2Fh
 [/us/stat/109/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F920
 [/us/pl/104/88/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs101
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 
 

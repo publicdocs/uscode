@@ -55,6 +55,12 @@
 
     The Federal Employers’ Liability Act, referred to in subsec. (d), is [act Apr. 22, 1908, ch. 149][/us/act/1908-04-22/ch149], [35 Stat. 65][/us/stat/35/65], as amended, which is classified generally to chapter 2 (§ 51 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under [section 51 of Title 45][/us/usc/t45/s51] and Tables.
 
+ __Adjustment Based on Consumer Price Index__ 
+
+[Pub. L. 114–94, div. A, title XI, § 11415(b)][/us/pl/114/94/s11415/b], Dec. 4, 2015, [129 Stat. 1689][/us/stat/129/1689], provided that: 
+
+> “The liability cap under [section 28103(a)(2) of title 49][/us/usc/t49/s28103/a/2], United States Code, shall be adjusted on the date of enactment of this Act \[Dec. 4, 2015\] to reflect the change in the Consumer Price Index-All Urban Consumers between such date and December 2, 1997, and the Secretary \[of Transportation\] shall provide appropriate public notice of such adjustment. The adjustment of the liability cap shall be effective 30 days after such notice. Every fifth year after the date of enactment of this Act, the Secretary shall adjust such liability cap to reflect the change in the Consumer Price Index-All Urban Consumers since the last adjustment. The Secretary shall provide appropriate public notice of each such adjustment, and the adjustment shall become effective 30 days after such notice.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t49/stV/ptE/ch281/m__us_usc_t49_s28102.md) | [Next](./../../../../../..//us/usc/t49/stV/ptE/ch283/m__us_usc_t49_stV_ptE_ch283.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs28103)
@@ -68,5 +74,8 @@
 [/us/act/1908-04-22/ch149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-04-22%2Fch149
 [/us/stat/35/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F65
 [/us/usc/t45/s51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs51
+[/us/pl/114/94/s11415/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11415%2Fb
+[/us/stat/129/1689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1689
+[/us/usc/t49/s28103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs28103%2Fa%2F2
 
 

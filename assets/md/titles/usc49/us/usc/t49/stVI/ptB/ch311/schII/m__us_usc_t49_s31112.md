@@ -19,7 +19,7 @@
 
     In this section—
 
-        (1) “property-carrying unit” means any part of a commercial motor vehicle combination (except the truck tractor) used to carry property, including a trailer, a semitrailer, or the property-carrying section of a single unit truck.
+        (1) “property-carrying unit” means any part of a commercial motor vehicle combination (except the truck tractor) used to carry property, including a trailer, a semitrailer, or the property-carrying section of a single unit truck, but not including a trailer or a semitrailer transported as part of a towaway trailer transporter combination (as defined in section 31111(a)).
 
         (2) the length of the property-carrying units of a commercial motor vehicle combination is the length measured from the front of the first property-carrying unit to the rear of the last property-carrying unit.
 
@@ -83,7 +83,7 @@
 
         (2) Not later than June 15, 1992, the Secretary shall prescribe regulations establishing criteria for a State to follow in making minor adjustments under subsection (d) of this section.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 995][/us/stat/108/995]; [Pub. L. 104–59, title III, § 312(a)(3)][/us/pl/104/59/s312/a/3], Nov. 28, 1995, [109 Stat. 584][/us/stat/109/584]; [Pub. L. 104–205, title III, § 352][/us/pl/104/205/s352], Sept. 30, 1996, [110 Stat. 2980][/us/stat/110/2980]; [Pub. L. 105–66, title III, § 343][/us/pl/105/66/s343], Oct. 27, 1997, [111 Stat. 1449][/us/stat/111/1449]; [Pub. L. 109–59, title IV, § 4112][/us/pl/109/59/s4112], Aug. 10, 2005, [119 Stat. 1724][/us/stat/119/1724].)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 995][/us/stat/108/995]; [Pub. L. 104–59, title III, § 312(a)(3)][/us/pl/104/59/s312/a/3], Nov. 28, 1995, [109 Stat. 584][/us/stat/109/584]; [Pub. L. 104–205, title III, § 352][/us/pl/104/205/s352], Sept. 30, 1996, [110 Stat. 2980][/us/stat/110/2980]; [Pub. L. 105–66, title III, § 343][/us/pl/105/66/s343], Oct. 27, 1997, [111 Stat. 1449][/us/stat/111/1449]; [Pub. L. 109–59, title IV, § 4112][/us/pl/109/59/s4112], Aug. 10, 2005, [119 Stat. 1724][/us/stat/119/1724]; [Pub. L. 114–94, div. A, title V, § 5523(c)(1)][/us/pl/114/94/s5523/c/1], Dec. 4, 2015, [129 Stat. 1560][/us/stat/129/1560].)
 
 <table>
 
@@ -251,6 +251,8 @@ Jan 6, 1983, Pub. L. 97–424, 96 Stat. 2159, § 411(j); added Dec. 18, 1991, 
 
  __Amendments__ 
 
+    2015—Subsec. (a)(1). [Pub. L. 114–94][/us/pl/114/94] inserted before period at end “, but not including a trailer or a semitrailer transported as part of a towaway trailer transporter combination (as defined in section 31111(a))”.
+
     2005—Subsec. (c). [Pub. L. 109–59, § 4112(b)][/us/pl/109/59/s4112/b], substituted “Iowa, and Nebraska” for “and Iowa” in heading.
 
     Subsec. (c)(5). [Pub. L. 109–59, § 4112(a)][/us/pl/109/59/s4112/a], added par. (5).
@@ -260,6 +262,10 @@ Jan 6, 1983, Pub. L. 97–424, 96 Stat. 2159, § 411(j); added Dec. 18, 1991, 
     1996—Subsec. (d)(4). [Pub. L. 104–205][/us/pl/104/205], which directed amendment of this section by adding a new subsection designated par. (4) without specifying where, was executed by adding par. (4) to subsec. (d) to reflect the probable intent of Congress.
 
     1995—Subsec. (c). [Pub. L. 104–59][/us/pl/104/59] substituted “Alaska, and Iowa” for “and Alaska” in heading and added par. (4).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
 ----------
 
@@ -282,12 +288,18 @@ Jan 6, 1983, Pub. L. 97–424, 96 Stat. 2159, § 411(j); added Dec. 18, 1991, 
 [/us/stat/111/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1449
 [/us/pl/109/59/s4112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4112
 [/us/stat/119/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1724
+[/us/pl/114/94/s5523/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5523%2Fc%2F1
+[/us/stat/129/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1560
 [/us/pl/101/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F427
 [/us/stat/104/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F927
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/109/59/s4112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4112%2Fb
 [/us/pl/109/59/s4112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4112%2Fa
 [/us/pl/105/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F66
 [/us/pl/104/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F205
 [/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 
 

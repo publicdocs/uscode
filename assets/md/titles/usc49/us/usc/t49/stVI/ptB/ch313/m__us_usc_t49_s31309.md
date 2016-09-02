@@ -95,7 +95,7 @@
 
     (f)  __Funding__  __.—__ 
 
-    At the Secretary’s discretion, a State may use, subject to section 31313(a), the funds made available to the State under section 31313 to modernize its commercial driver’s license information system to be compatible with the modernized information system under this section.
+    At the Secretary’s discretion, a State may use, subject to section 31313(a), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the funds made available to the State under section 31313  <sup>\[1\]</sup>  to modernize its commercial driver’s license information system to be compatible with the modernized information system under this section.
 
 ([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1020][/us/stat/108/1020]; [Pub. L. 105–178, title IV, § 4011(d)][/us/pl/105/178/s4011/d], June 9, 1998, [112 Stat. 407][/us/stat/112/407]; [Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4122(2)(E), 4123(a), Aug. 10, 2005, [119 Stat. 1734][/us/stat/119/1734]; [Pub. L. 110–244, title III, § 301(h)][/us/pl/110/244/s301/h], June 6, 2008, [122 Stat. 1616][/us/stat/122/1616]; [Pub. L. 112–141, div. C, title II][/us/pl/112/141], §§ 32305(a), 32933(e), July 6, 2012, [126 Stat. 792][/us/stat/126/792], 830.)
 
@@ -257,6 +257,8 @@ Nov. 18, 1988, Pub. L. 100–690, § 9105(b), 102 Stat. 4530.  </td>
 
     The date of enactment of this subsection, referred to in subsec. (e)(1), is the date of enactment of [Pub. L. 109–59][/us/pl/109/59], which was approved Aug. 10, 2005.
 
+    Section 31313, referred to in subsec. (f), was amended generally by [Pub. L. 114–94, div. A, title V, § 5104(a)][/us/pl/114/94/s5104/a], Dec. 4, 2015, [129 Stat. 1527][/us/stat/129/1527], and, as so amended, section relates to financial assistance program for implementation of commercial driver’s license program. Provisions contained in former section 31313(a) are now similar to those contained in section 31313(a)(2) and (b).
+
  __Amendments__ 
 
     2012—Subsec. (b)(2). [Pub. L. 112–141, § 32933(e)][/us/pl/112/141/s32933/e], substituted “section 31308(3)” for “section 31308(2)”.
@@ -401,6 +403,8 @@ Nov. 18, 1988, Pub. L. 100–690, § 9105(b), 102 Stat. 4530.  </td>
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/stat/102/4530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4530
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/114/94/s5104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5104%2Fa
+[/us/stat/129/1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1527
 [/us/pl/112/141/s32933/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32933%2Fe
 [/us/pl/112/141/s32305/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32305%2Fa%2F1
 [/us/pl/112/141/s32305/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32305%2Fa%2F2

@@ -67,11 +67,15 @@
 
     A motor carrier may provide transportation under a safety permit issued under this section only if the carrier complies with conditions the Secretary finds are required to protect public safety.
 
-    (h)  __Regulations__  __.—__ 
+    (h)  __Limitation on Denial__  __.—__ 
 
-    The Secretary shall prescribe regulations necessary to carry out this section not later than November 16, 1991.
+    The Secretary may not deny a non-temporary permit held by a motor carrier pursuant to this section based on a comprehensive review of that carrier triggered by safety management system scores or out-of-service disqualification standards, unless—
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 767][/us/stat/108/767]; [Pub. L. 109–59, title VII, § 7126][/us/pl/109/59/s7126], Aug. 10, 2005, [119 Stat. 1909][/us/stat/119/1909].)
+        (1) the carrier has the opportunity, prior to the denial of such permit, to submit a written description of corrective actions taken and other documentation the carrier wishes the Secretary to consider, including a corrective action plan; and
+
+        (2) the Secretary determines the actions or plan is insufficient to address the safety concerns identified during the course of the comprehensive review.
+
+([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 767][/us/stat/108/767]; [Pub. L. 109–59, title VII, § 7126][/us/pl/109/59/s7126], Aug. 10, 2005, [119 Stat. 1909][/us/stat/119/1909]; [Pub. L. 114–94, div. A, title VII, § 7202][/us/pl/114/94/s7202], Dec. 4, 2015, [129 Stat. 1589][/us/stat/129/1589].)
 
 <table>
 
@@ -229,7 +233,13 @@ Nov. 16, 1990, Pub. L. 101–615, § 8(b), 104 Stat. 3258.  </td>
 
  __Amendments__ 
 
+    2015—Subsec. (h). [Pub. L. 114–94][/us/pl/114/94] amended subsec. (h) generally. Prior to amendment, text read as follows: “The Secretary shall prescribe regulations necessary to carry out this section not later than November 16, 1991.”
+
     2005—Subsec. (a). [Pub. L. 109–59][/us/pl/109/59] substituted “Secretary issues” for “Secretary of Transportation issues” in introductory provisions.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Motor Carrier Safety Permits__ 
 
@@ -264,9 +274,15 @@ Nov. 16, 1990, Pub. L. 101–615, § 8(b), 104 Stat. 3258.  </td>
 [/us/stat/108/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F767
 [/us/pl/109/59/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7126
 [/us/stat/119/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1909
+[/us/pl/114/94/s7202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7202
+[/us/stat/129/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1589
 [/us/pl/101/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F615
 [/us/stat/104/3258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3258
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141/s33014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33014
 [/us/stat/126/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F840
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141

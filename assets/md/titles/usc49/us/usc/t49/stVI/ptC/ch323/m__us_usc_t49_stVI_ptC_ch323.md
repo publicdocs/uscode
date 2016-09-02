@@ -59,7 +59,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs32304A" data-uslm-ref="/us/usc/t49/s32304A">32304A.</a>  </td>
 
-    <td> Consumer tire information.  </td>
+    <td> Consumer tire information. <sup>[1]</sup>  <sup><sup> 1 Section catchline amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F114%2F94" data-uslm-ref="/us/pl/114/94">Pub. L. 114–94</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
   </tr>
 

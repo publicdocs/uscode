@@ -15,77 +15,99 @@
 
 ## § 5338. Authorizations
 
-    (a) __Formula Grants.—__ 
+    (a) __Grants.—__ 
 
         (1)  __In general__  __.—__ 
 
-        There shall be available from the Mass Transit Account of the Highway Trust Fund to carry out sections 5305, 5307, 5310, 5311, 5318, 5322(d), 5335, 5337, 5339, and 5340, and section 20005(b) of the Federal Public Transportation Act of 2012, $8,478,000,000 for fiscal year 2013, $8,595,000,000 for fiscal year 2014, $8,595,000,000 for fiscal year 2015, and $1,526,434,426 for the period beginning on October 1, 2015, and ending on December 4, 2015.
+        There shall be available from the Mass Transit Account of the Highway Trust Fund to carry out sections 5305, 5307, 5310, 5311, 5312, 5314, 5318, 5335, 5337, 5339, and 5340, section 20005(b) of the Federal Public Transportation Act of 2012, and sections  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup>  3006(b) of the Federal Public Transportation Act of 2015—
+
+            (A) $9,347,604,639 for fiscal year 2016;
+
+            (B) $9,534,706,043 for fiscal year 2017;
+
+            (C) $9,733,353,407 for fiscal year 2018;
+
+            (D) $9,939,380,030 for fiscal year 2019; and
+
+            (E) $10,150,348,462 for fiscal year 2020.
 
         (2)  __Allocation of funds__  __.—__ 
 
         Of the amounts made available under paragraph (1)—
 
-            (A) $126,900,000 for fiscal year 2013, $128,800,000 for fiscal year 2014, $128,800,000 for fiscal 2015, and $22,874,317 for the period beginning on October 1, 2015, and ending on December 4, 2015, shall be available to carry out section 5305;
+            (A) $130,732,000 for fiscal year 2016, $133,398,933 for fiscal year 2017, $136,200,310 for fiscal year 2018, $139,087,757 for fiscal year 2019, and $142,036,417 for fiscal year 2020, shall be available to carry out section 5305;
 
-            (B) $10,000,000 for each of fiscal years 2013 through 2015 and $1,775,956 for the period beginning on October 1, 2015, and ending on December 4, 2015, shall be available to carry out section 20005(b) of the Federal Public Transportation Act of 2012;
+            (B) $10,000,000 for each of fiscal years 2016 through 2020 shall be available to carry out section 20005(b) of the Federal Public Transportation Act of 2012;
 
-            (C) $4,397,950,000 for fiscal year 2013, $4,458,650,000 for fiscal year 2014, $4,458,650,000 for fiscal year 2015, and $791,836,749 for the period beginning on October 1, 2015, and ending on December 4, 2015, shall be allocated in accordance with section 5336 to provide financial assistance for urbanized areas under section 5307;
+            (C) $4,538,905,700 for fiscal year 2016, $4,629,683,814 for fiscal year 2017, $4,726,907,174 for fiscal year 2018, $4,827,117,606 for fiscal year 2019, and $4,929,452,499 for fiscal year 2020 shall be allocated in accordance with section 5336 to provide financial assistance for urbanized areas under section 5307;
 
-            (D) $254,800,000 for fiscal year 2013, $258,300,000 for fiscal year 2014, $258,300,000 for fiscal year 2015, and $45,872,951 for the period beginning on October 1, 2015, and ending on December 4, 2015, shall be available to provide financial assistance for services for the enhanced mobility of seniors and individuals with disabilities under section 5310;
+            (D) $262,949,400 for fiscal year 2016, $268,208,388 for fiscal year 2017, $273,840,764 for fiscal year 2018, $279,646,188 for fiscal year 2019, and $285,574,688 for fiscal year 2020 shall be available to provide financial assistance for services for the enhanced mobility of seniors and individuals with disabilities under section 5310;
 
-            (E) $599,500,000 for fiscal year 2013, $607,800,000 for fiscal year 2014, $607,800,000 for fiscal year 2015, and $107,942,623 for the period beginning on October 1, 2015, and ending on December 4, 2015, shall be available to provide financial assistance for rural areas under section 5311, of which not less than $30,000,000 for fiscal year 2013, $30,000,000 for fiscal year 2014, $30,000,000 for fiscal year 2015, and $5,327,869 for the period beginning on October 1, 2015, and ending on December 4, 2015, shall be available to carry out section 5311(c)(1) and $20,000,000 for fiscal year 2013, $20,000,000 for fiscal year 2014, $20,000,000 for fiscal year 2015, and $3,551,913 for the period beginning on October 1, 2015, and ending on December 4, 2015, shall be available to carry out section 5311(c)(2);
+            (E) $2,000,000 for fiscal year 2016, $3,000,000 for fiscal year 2017, $3,250,000 for fiscal year 2018, $3,500,000 for fiscal year 2019 and $3,500,000 for fiscal year 2020 shall be available for the pilot program for innovative coordinated access and mobility under section 3006(b) of the Federal Public Transportation Act of 2015;
 
-            (F) $3,000,000 for each of fiscal years 2013 through 2015 and $532,787 for the period beginning on October 1, 2015, and ending on December 4, 2015, shall be available for bus testing under section 5318;
+            (F)
 
-            (G) $5,000,000 for each of fiscal years 2013 through 2015 and $887,978 for the period beginning on October 1, 2015, and ending on December 4, 2015, shall be available for the national transit institute under section 5322(d);
+             $619,956,000 for fiscal year 2016, $632,355,120 for fiscal year 2017, $645,634,578 for fiscal year 2018, $659,322,031 for fiscal year 2019, and $673,299,658 for fiscal year 2020 shall be available to provide financial assistance for rural areas under section 5311, of which not less than—
 
-            (H) $3,850,000 for each of fiscal years 2013 through 2015 and $683,743 for the period beginning on October 1, 2015, and ending on December 4, 2015, shall be available to carry out section 5335;
+                (i) $35,000,000 for each of fiscal years 2016 through 2020 shall be available to carry out section 5311(c)(1); and
 
-            (I) $2,136,300,000 for fiscal year 2013, $2,165,900,000 for fiscal year 2014, $2,165,900,000 for fiscal year 2015, and $384,654,372 for the period beginning on October 1, 2015, and ending on December 4, 2015, shall be available to carry out section 5337;
+                (ii) $20,000,000 for each of fiscal years 2016 through 2020 shall be available to carry out section 5311(c)(2);
 
-            (J) $422,000,000 for fiscal year 2013, $427,800,000 for fiscal year 2014, $427,800,000 for fiscal year 2015, and $75,975,410 for the period beginning on October 1, 2015, and ending on December 4, 2015, shall be available for the bus and bus facilities program under section 5339; and
+            (G)
 
-            (K) $518,700,000 for fiscal year 2013, $525,900,000 for fiscal year 2014, $525,900,000 for fiscal year 2015, and $93,397,541 for the period beginning on October 1, 2015, and ending on December 4, 2015, shall be allocated in accordance with section 5340 to provide financial assistance for urbanized areas under section 5307 and rural areas under section 5311.
+             $28,000,000 for each of fiscal years 2016 through 2020 shall be available to carry out section 5312, of which—
 
-    (b)  __Research, Development Demonstration and Deployment Projects__  __.—__ 
+                (i) $3,000,000 for each of fiscal years 2016 through 2020 shall be available to carry out section 5312(h); and
 
-    There are authorized to be appropriated to carry out section 5312, $70,000,000 for fiscal year 2013, $70,000,000 for fiscal year 2014, $70,000,000 for fiscal year 2015, and $12,431,694 for the period beginning on October 1, 2015, and ending on December 4, 2015.
+                (ii) $5,000,000 for each of fiscal years 2016 through 2020 shall be available to carry out section 5312(i);
 
-    (c)  __Transit Cooperative Research Program__  __.—__ 
+            (H) $9,000,000 for each of fiscal years 2016 through 2020 shall be available to carry out section 5314; of which $5,000,000 shall be available for the national transit institute under section 5314(c);
 
-    There are authorized to be appropriated to carry out section 5313, $7,000,000 for fiscal year 2013, $7,000,000 for fiscal year 2014, $7,000,000 for fiscal year 2015, and $1,243,169 for the period beginning on October 1, 2015, and ending on December 4, 2015.
+            (I) $3,000,000 for each of fiscal years 2016 through 2020 shall be available for bus testing under section 5318;
 
-    (d)  __Technical Assistance and Standards Development__  __.—__ 
+            (J) $4,000,000 for each of fiscal years 2016 through 2020 shall be available to carry out section 5335;
 
-    There are authorized to be appropriated to carry out section 5314, $7,000,000 for fiscal year 2013, $7,000,000 for fiscal year 2014, $7,000,000 for fiscal year 2015, and $1,243,169 for the period beginning on October 1, 2015, and ending on December 4, 2015.
+            (K) $2,507,000,000 for fiscal year 2016, $2,549,670,000 for fiscal year 2017, $2,593,703,558 for fiscal year 2018, $2,638,366,859 for fiscal year 2019, and $2,683,798,369 for fiscal year 2020 shall be available to carry out section 5337;
 
-    (e)  __Human Resources and Training__  __.—__ 
+            (L) $427,800,000 for fiscal year 2016, $436,356,000 for fiscal year 2017, $445,519,476 for fiscal year 2018, $454,964,489 for fiscal year 2019, and $464,609,736 for fiscal year 2020 shall be available for the bus and buses facilities program under section 5339(a);
 
-    There are authorized to be appropriated to carry out subsections (a), (b), (c), and (e) of section 5322, $5,000,000 for fiscal year 2013, $5,000,000 for fiscal year 2014, $5,000,000 for fiscal year 2015, and $887,978 for the period beginning on October 1, 2015, and ending on December 4, 2015.
+            (M) $268,000,000 for fiscal year 2016, $283,600,000 for fiscal year 2017, $301,514,000 for fiscal year 2018, $322,059,980 for fiscal year 2019, and $344,044,179 for fiscal year 2020 shall be available for buses and bus facilities competitive grants under section 5339(b) and no or low emission grants under section 5339(c), of which $55,000,000 for each of fiscal years 2016 through 2020 shall be available to carry out section 5339(c); and
 
-    (f)  __Emergency Relief Program__  __.—__ 
+            (N)
 
-    There are authorized to be appropriated such sums as are necessary to carry out section 5324.
+             $536,261,539 for fiscal year 2016, $544,433,788 for fiscal year 2017, $552,783,547 for fiscal year 2018, $561,315,120 for fiscal year 2019 and $570,032,917 for fiscal year 2020, to carry out section 5340 to provide financial assistance for urbanized areas under section 5307 and rural areas under section 5311, of which—
 
-    (g)  __Capital Investment Grants__  __.—__ 
+                (i) $272,297,083 for fiscal year 2016, $279,129,510 for fiscal year 2017, $286,132,747 for fiscal year 2018, $293,311,066 for fiscal year 2019, $300,668,843 for fiscal year 2020 shall be for growing States under section 5340(c); and
 
-    There are authorized to be appropriated to carry out section 5309, $1,907,000,000 for fiscal year 2013, $1,907,000,000 for fiscal year 2014, $1,907,000,000 for fiscal year 2015, and $338,674,863 for the period beginning on October 1, 2015, and ending on December 4, 2015.
+                (ii) $263,964,457 for fiscal year 2016, $265,304,279 for fiscal year 2017, $266,650,800 for fiscal year 2018, $268,004,054 for fiscal year 2019, $269,364,074 for fiscal year 2020 shall be for high density States under section 5340(d).
 
-    (h) __Administration.—__ 
+    (b)  __Research, Development, Demonstration, and Deployment Program__  __.—__ 
+
+    There are authorized to be appropriated to carry out section 5312, other than subsections (h) and (i) of that section, $20,000,000 for each of fiscal years 2016 through 2020.
+
+    (c)  __Technical Assistance and Training__  __.—__ 
+
+    There are authorized to be appropriated to carry out section 5314, $5,000,000 for each of fiscal years 2016 through 2020.
+
+    (d)  __Capital Investment Grants__  __.—__ 
+
+    There are authorized to be appropriated to carry out [section 5309 of this title][/us/usc/t49/s5309] and section 3005(b) of the Federal Public Transportation Act of 2015, $2,301,785,760 for each of fiscal years 2016 through 2020.
+
+    (e) __Administration.—__ 
 
         (1)  __In general__  __.—__ 
 
-        There are authorized to be appropriated to carry out section 5334, $104,000,000 for fiscal year 2013, $104,000,000 for fiscal year 2014, $104,000,000 for fiscal year 2015, and $18,469,945 for the period beginning on October 1, 2015, and ending on December 4, 2015.
+        There are authorized to be appropriated to carry out section 5334, $115,016,543 for each of fiscal years 2016 through 2020.
 
         (2)  __Section 5329__  __.—__ 
 
-        Of the amounts authorized to be appropriated under paragraph (1), not less than $5,000,000 for each of fiscal years 2013 through 2015 and not less than $887,978 for the period beginning on October 1, 2015, and ending on December 4, 2015, shall be available to carry out section 5329.
+        Of the amounts authorized to be appropriated under paragraph (1), not less than $5,000,000 for each of fiscal years 2016 through 2020 shall be available to carry out section 5329.
 
         (3)  __Section 5326__  __.—__ 
 
-        Of the amounts made available under paragraph (2), not less than $1,000,000 for each of fiscal years 2013 through 2015 and not less than $177,596 for the period beginning on October 1, 2015, and ending on December 4, 2015, shall be available to carry out section 5326.
+        Of the amounts made available under paragraph (2), not less than $2,000,000 for each of fiscal years 2016 through 2020 shall be available to carry out section 5326.
 
-    (i) __Oversight.—__ 
+    (f) __Oversight.—__ 
 
         (1)  __In general__  __.—__ 
 
@@ -97,13 +119,15 @@
 
             (C) 1 percent of amounts made available to carry out section 5309.
 
-            (D) 1 percent of amounts made available to carry out section 601 of the Passenger Rail Investment and Improvement Act of 2008 ([Public Law 110–432][/us/pl/110/432]; 126  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “122”. </sup></sup>  Stat. 4968).
+            (D) 1 percent of amounts made available to carry out section 601 of the Passenger Rail Investment and Improvement Act of 2008 ([Public Law 110–432][/us/pl/110/432]; [126 Stat. 4968][/us/stat/126/4968]).
 
             (E) 0.5 percent of amounts made available to carry out section 5310.
 
             (F) 0.5 percent of amounts made available to carry out section 5311.
 
-            (G) 0.75 percent of amounts made available to carry out section 5337(c).
+            (G) 1 percent of amounts made available to carry out section 5337, of which not less than 0.25 percent of amounts made available for this subparagraph shall be available to carry out section 5329.
+
+            (H) 0.75 percent of amounts made available to carry out section 5339.
 
         (2)  __Activities__  __.—__ 
 
@@ -123,7 +147,7 @@
 
         Funds made available under paragraph (1)(C) shall be made available to the Secretary before allocating the funds appropriated to carry out any project under a full funding grant agreement.
 
-    (j) __Grants as Contractual Obligations.—__ 
+    (g) __Grants as Contractual Obligations.—__ 
 
         (1)  __Grants financed from highway trust fund__  __.—__ 
 
@@ -133,11 +157,11 @@
 
         A grant or contract that is approved by the Secretary and financed with amounts appropriated in advance from the General Fund of the Treasury pursuant to this section is a contractual obligation of the Government to pay the Government share of the cost of the project only to the extent that amounts are appropriated for such purpose by an Act of Congress.
 
-    (k)  __Availability of Amounts__  __.—__ 
+    (h)  __Availability of Amounts__  __.—__ 
 
     Amounts made available by or appropriated under this section shall remain available until expended.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 845][/us/stat/108/845]; [Pub. L. 104–287, § 5(20)][/us/pl/104/287/s5/20], Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 102–240, § 3049(c)][/us/pl/102/240/s3049/c], as added [Pub. L. 105–130, § 8][/us/pl/105/130/s8], Dec. 1, 1997, [111 Stat. 2559][/us/stat/111/2559]; [Pub. L. 105–178, title III, § 3029(a)][/us/pl/105/178/s3029/a], (c), June 9, 1998, [112 Stat. 368][/us/stat/112/368]; [Pub. L. 105–206, title IX, § 9009(q)][/us/pl/105/206/s9009/q], July 22, 1998, [112 Stat. 858][/us/stat/112/858]; [Pub. L. 108–88, § 8(c)][/us/pl/108/88/s8/c], (e)–(g), (i), (k), Sept. 30, 2003, [117 Stat. 1121–1124][/us/stat/117/1121-1124]; [Pub. L. 108–202, § 9(c)][/us/pl/108/202/s9/c], (e)–(g), (i), (k), Feb. 29, 2004, [118 Stat. 485–487][/us/stat/118/485-487]; [Pub. L. 108–224, § 7(c)][/us/pl/108/224/s7/c], (e)–(g), (i), (k), Apr. 30, 2004, [118 Stat. 633–636][/us/stat/118/633-636]; [Pub. L. 108–263, § 7(c)][/us/pl/108/263/s7/c], (e)–(g), (i), (k), June 30, 2004, [118 Stat. 704–707][/us/stat/118/704-707]; [Pub. L. 108–280, § 7(c)][/us/pl/108/280/s7/c], (e)–(g), (i), (k), July 30, 2004, [118 Stat. 882–884][/us/stat/118/882-884]; [Pub. L. 108–310, § 8(c)][/us/pl/108/310/s8/c], (e)–(g), (i), (k), Sept. 30, 2004, [118 Stat. 1154–1157][/us/stat/118/1154-1157]; [Pub. L. 109–14, § 7(b)][/us/pl/109/14/s7/b], (d)–(f), (h), (j), May 31, 2005, [119 Stat. 331–333][/us/stat/119/331-333]; [Pub. L. 109–20, § 7(b)][/us/pl/109/20/s7/b], (d)–(f), (h), (j), July 1, 2005, [119 Stat. 353–355][/us/stat/119/353-355]; [Pub. L. 109–35, § 7(b)][/us/pl/109/35/s7/b], (d)–(f), (h), (j), July 20, 2005, [119 Stat. 386–388][/us/stat/119/386-388]; [Pub. L. 109–37, § 7(b)][/us/pl/109/37/s7/b], (d)–(f), (h), (j), July 22, 2005, [119 Stat. 401–403][/us/stat/119/401-403]; [Pub. L. 109–40, § 7(b)][/us/pl/109/40/s7/b], (d)–(f), (h), (j), July 28, 2005, [119 Stat. 417–419][/us/stat/119/417-419]; [Pub. L. 109–42, § 5(a)][/us/pl/109/42/s5/a], July 30, 2005, [119 Stat. 436][/us/stat/119/436]; [Pub. L. 109–59, title III, § 3036][/us/pl/109/59/s3036], Aug. 10, 2005, [119 Stat. 1629][/us/stat/119/1629]; [Pub. L. 110–244, title II, § 201(n)][/us/pl/110/244/s201/n], June 6, 2008, [122 Stat. 1611][/us/stat/122/1611]; [Pub. L. 111–147, title IV, § 436][/us/pl/111/147/s436], Mar. 18, 2010, [124 Stat. 90][/us/stat/124/90]; [Pub. L. 111–322, title II, § 2306][/us/pl/111/322/s2306], Dec. 22, 2010, [124 Stat. 3528][/us/stat/124/3528]; [Pub. L. 112–5, title III, § 306][/us/pl/112/5/s306], Mar. 4, 2011, [125 Stat. 19][/us/stat/125/19]; [Pub. L. 112–30, title I, § 136][/us/pl/112/30/s136], Sept. 16, 2011, [125 Stat. 352][/us/stat/125/352]; [Pub. L. 112–102, title III, § 306][/us/pl/112/102/s306], Mar. 30, 2012, [126 Stat. 278][/us/stat/126/278]; [Pub. L. 112–140, title III, § 306][/us/pl/112/140/s306], June 29, 2012, [126 Stat. 398][/us/stat/126/398]; [Pub. L. 112–141, div. B, § 20028][/us/pl/112/141/s20028], div. G, title III, § 113006, July 6, 2012, [126 Stat. 726][/us/stat/126/726], 985; [Pub. L. 113–159, title I, § 1203][/us/pl/113/159/s1203], Aug. 8, 2014, [128 Stat. 1845][/us/stat/128/1845]; [Pub. L. 114–21, title I, § 1203][/us/pl/114/21/s1203], May 29, 2015, [129 Stat. 223][/us/stat/129/223]; [Pub. L. 114–41, title I, § 1203][/us/pl/114/41/s1203], July 31, 2015, [129 Stat. 450][/us/stat/129/450]; [Pub. L. 114–73, title I, § 1203][/us/pl/114/73/s1203], Oct. 29, 2015, [129 Stat. 573][/us/stat/129/573]; [Pub. L. 114–87, title I, § 1203][/us/pl/114/87/s1203], Nov. 20, 2015, [129 Stat. 682][/us/stat/129/682].)
+([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 845][/us/stat/108/845]; [Pub. L. 104–287, § 5(20)][/us/pl/104/287/s5/20], Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 102–240, § 3049(c)][/us/pl/102/240/s3049/c], as added [Pub. L. 105–130, § 8][/us/pl/105/130/s8], Dec. 1, 1997, [111 Stat. 2559][/us/stat/111/2559]; [Pub. L. 105–178, title III, § 3029(a)][/us/pl/105/178/s3029/a], (c), June 9, 1998, [112 Stat. 368][/us/stat/112/368]; [Pub. L. 105–206, title IX, § 9009(q)][/us/pl/105/206/s9009/q], July 22, 1998, [112 Stat. 858][/us/stat/112/858]; [Pub. L. 108–88, § 8(c)][/us/pl/108/88/s8/c], (e)–(g), (i), (k), Sept. 30, 2003, [117 Stat. 1121–1124][/us/stat/117/1121-1124]; [Pub. L. 108–202, § 9(c)][/us/pl/108/202/s9/c], (e)–(g), (i), (k), Feb. 29, 2004, [118 Stat. 485–487][/us/stat/118/485-487]; [Pub. L. 108–224, § 7(c)][/us/pl/108/224/s7/c], (e)–(g), (i), (k), Apr. 30, 2004, [118 Stat. 633–636][/us/stat/118/633-636]; [Pub. L. 108–263, § 7(c)][/us/pl/108/263/s7/c], (e)–(g), (i), (k), June 30, 2004, [118 Stat. 704–707][/us/stat/118/704-707]; [Pub. L. 108–280, § 7(c)][/us/pl/108/280/s7/c], (e)–(g), (i), (k), July 30, 2004, [118 Stat. 882–884][/us/stat/118/882-884]; [Pub. L. 108–310, § 8(c)][/us/pl/108/310/s8/c], (e)–(g), (i), (k), Sept. 30, 2004, [118 Stat. 1154–1157][/us/stat/118/1154-1157]; [Pub. L. 109–14, § 7(b)][/us/pl/109/14/s7/b], (d)–(f), (h), (j), May 31, 2005, [119 Stat. 331–333][/us/stat/119/331-333]; [Pub. L. 109–20, § 7(b)][/us/pl/109/20/s7/b], (d)–(f), (h), (j), July 1, 2005, [119 Stat. 353–355][/us/stat/119/353-355]; [Pub. L. 109–35, § 7(b)][/us/pl/109/35/s7/b], (d)–(f), (h), (j), July 20, 2005, [119 Stat. 386–388][/us/stat/119/386-388]; [Pub. L. 109–37, § 7(b)][/us/pl/109/37/s7/b], (d)–(f), (h), (j), July 22, 2005, [119 Stat. 401–403][/us/stat/119/401-403]; [Pub. L. 109–40, § 7(b)][/us/pl/109/40/s7/b], (d)–(f), (h), (j), July 28, 2005, [119 Stat. 417–419][/us/stat/119/417-419]; [Pub. L. 109–42, § 5(a)][/us/pl/109/42/s5/a], July 30, 2005, [119 Stat. 436][/us/stat/119/436]; [Pub. L. 109–59, title III, § 3036][/us/pl/109/59/s3036], Aug. 10, 2005, [119 Stat. 1629][/us/stat/119/1629]; [Pub. L. 110–244, title II, § 201(n)][/us/pl/110/244/s201/n], June 6, 2008, [122 Stat. 1611][/us/stat/122/1611]; [Pub. L. 111–147, title IV, § 436][/us/pl/111/147/s436], Mar. 18, 2010, [124 Stat. 90][/us/stat/124/90]; [Pub. L. 111–322, title II, § 2306][/us/pl/111/322/s2306], Dec. 22, 2010, [124 Stat. 3528][/us/stat/124/3528]; [Pub. L. 112–5, title III, § 306][/us/pl/112/5/s306], Mar. 4, 2011, [125 Stat. 19][/us/stat/125/19]; [Pub. L. 112–30, title I, § 136][/us/pl/112/30/s136], Sept. 16, 2011, [125 Stat. 352][/us/stat/125/352]; [Pub. L. 112–102, title III, § 306][/us/pl/112/102/s306], Mar. 30, 2012, [126 Stat. 278][/us/stat/126/278]; [Pub. L. 112–140, title III, § 306][/us/pl/112/140/s306], June 29, 2012, [126 Stat. 398][/us/stat/126/398]; [Pub. L. 112–141, div. B, § 20028][/us/pl/112/141/s20028], div. G, title III, § 113006, July 6, 2012, [126 Stat. 726][/us/stat/126/726], 985; [Pub. L. 113–159, title I, § 1203][/us/pl/113/159/s1203], Aug. 8, 2014, [128 Stat. 1845][/us/stat/128/1845]; [Pub. L. 114–21, title I, § 1203][/us/pl/114/21/s1203], May 29, 2015, [129 Stat. 223][/us/stat/129/223]; [Pub. L. 114–41, title I, § 1203][/us/pl/114/41/s1203], July 31, 2015, [129 Stat. 450][/us/stat/129/450]; [Pub. L. 114–73, title I, § 1203][/us/pl/114/73/s1203], Oct. 29, 2015, [129 Stat. 573][/us/stat/129/573]; [Pub. L. 114–87, title I, § 1203][/us/pl/114/87/s1203], Nov. 20, 2015, [129 Stat. 682][/us/stat/129/682]; [Pub. L. 114–94, div. A, title III, § 3016][/us/pl/114/94/s3016], Dec. 4, 2015, [129 Stat. 1479][/us/stat/129/1479].)
 
 <table>
 
@@ -495,11 +519,17 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9B(c); added Apr. 2, 1987, Pu
 
     Section 20005(b) of the Federal Public Transportation Act of 2012, referred to in subsec. (a)(1), (2)(B), is [section 20005(b) of Pub. L. 112–141][/us/pl/112/141/s20005/b], which is set out as a note under [section 5303 of this title][/us/usc/t49/s5303].
 
-    Section 601 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (i)(1)(D), is [section 601 of div. B of Pub. L. 110–432][/us/pl/110/432/s601], Oct. 16, 2008, [122 Stat. 4968][/us/stat/122/4968], which is not classified to the Code.
+    Section 3006(b) of the Federal Public Transportation Act of 2015, referred to in subsec. (a)(1), (2)(E), is [section 3006(b) of Pub. L. 114–94][/us/pl/114/94/s3006/b], which is set out as a note under [section 5310 of this title][/us/usc/t49/s5310].
+
+    Section 3005(b) of the Federal Public Transportation Act of 2015, referred to in subsec. (d), is [section 3005(b) of Pub. L. 114–94][/us/pl/114/94/s3005/b], which is set out as a note under [section 5309 of this title][/us/usc/t49/s5309].
+
+    Section 601 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (f)(1)(D), is [section 601 of div. B of Pub. L. 110–432][/us/pl/110/432/s601], Oct. 16, 2008, [122 Stat. 4968][/us/stat/122/4968], which is not classified to the Code.
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1). [Pub. L. 114–87, § 1203(a)(1)][/us/pl/114/87/s1203/a/1], substituted “and $1,526,434,426 for the period beginning on October 1, 2015, and ending on December 4, 2015” for “and $1,197,663,934 for the period beginning on October 1, 2015, and ending on November 20, 2015”.
+    2015—[Pub. L. 114–94][/us/pl/114/94] amended section generally, substituting provisions relating to fiscal years 2016 to 2020 for provisions relating to fiscal years 2013 to 2015.
+
+    Subsec. (a)(1). [Pub. L. 114–87, § 1203(a)(1)][/us/pl/114/87/s1203/a/1], substituted “and $1,526,434,426 for the period beginning on October 1, 2015, and ending on December 4, 2015” for “and $1,197,663,934 for the period beginning on October 1, 2015, and ending on November 20, 2015”.
 
     [Pub. L. 114–73, § 1203(a)(1)][/us/pl/114/73/s1203/a/1], substituted “and $1,197,663,934 for the period beginning on October 1, 2015, and ending on November 20, 2015” for “and $681,024,590 for the period beginning on October 1, 2015, and ending on October 29, 2015”.
 
@@ -1509,6 +1539,10 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9B(c); added Apr. 2, 1987, Pu
 
     1996—Subsec. (g)(2). [Pub. L. 104–287][/us/pl/104/287] substituted “section 5311(b)(2)” for “section 5308(b)(2)”.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective and Termination Dates of 2012 Amendment__ 
 
     Amendment by [section 20028 of Pub. L. 112–141][/us/pl/112/141/s20028] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as a note under [section 101 of Title 23][/us/usc/t23/s101], Highways.
@@ -1524,6 +1558,22 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9B(c); added Apr. 2, 1987, Pu
  __Effective Date of 1996 Amendment__ 
 
     Amendment by [Pub. L. 104–287][/us/pl/104/287] effective July 5, 1994, see [section 8(1) of Pub. L. 104–287][/us/pl/104/287/s8/1], set out as a note under [section 5303 of this title][/us/usc/t49/s5303].
+
+ __Obligation Ceiling__ 
+
+[Pub. L. 114–94, div. A, title III, § 3018][/us/pl/114/94/s3018], Dec. 4, 2015, [129 Stat. 1487][/us/stat/129/1487], provided that: 
+
+> “Notwithstanding any other provision of law, the total of all obligations from amounts made available from the Mass Transit Account of the Highway Trust Fund by subsection (a) of [section 5338 of title 49][/us/usc/t49/s5338], United States Code, and section 3028 of the Federal Public Transportation Act of 2015 \[[section 3028 of Pub. L. 114–94][/us/pl/114/94/s3028], [129 Stat. 1495][/us/stat/129/1495]\] shall not exceed—
+
+>     “(1) $9,347,604,639 in fiscal year 2016;
+
+>     “(2) $9,733,706,043 in fiscal year 2017;
+
+>     “(3) $9,733,353,407 in fiscal year 2018;
+
+>     “(4) $9,939,380,030 in fiscal year 2019; and
+
+>     “(5) $10,150,348,462 in fiscal year 2020.”
 
  __Allocations for National Research and Technology Programs__ 
 
@@ -1590,7 +1640,9 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 ----------
 
+[/us/usc/t49/s5309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5309
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/stat/126/4968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F4968
 [/us/pl/103/272/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fd
 [/us/stat/108/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F845
 [/us/pl/104/287/s5/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F20
@@ -1654,11 +1706,18 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/129/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F573
 [/us/pl/114/87/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1203
 [/us/stat/129/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F682
+[/us/pl/114/94/s3016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3016
+[/us/stat/129/1479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1479
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/112/141/s20005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20005%2Fb
 [/us/usc/t49/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5303
+[/us/pl/114/94/s3006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3006%2Fb
+[/us/usc/t49/s5310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5310
+[/us/pl/114/94/s3005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3005%2Fb
+[/us/usc/t49/s5309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5309
 [/us/pl/110/432/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs601
 [/us/stat/122/4968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4968
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/87/s1203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1203%2Fa%2F1
 [/us/pl/114/73/s1203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1203%2Fa%2F1
 [/us/pl/114/41/s1203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1203%2Fa%2F1
@@ -2178,6 +2237,9 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/102/240/s3049/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs3049%2Fc%2F8
 [/us/pl/105/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F130
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141/s20028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20028
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
@@ -2200,6 +2262,11 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/287/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs8%2F1
 [/us/usc/t49/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5303
+[/us/pl/114/94/s3018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3018
+[/us/stat/129/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1487
+[/us/usc/t49/s5338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5338
+[/us/pl/114/94/s3028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3028
+[/us/stat/129/1495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1495
 [/us/pl/109/59/s3046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3046
 [/us/stat/119/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1706
 [/us/pl/110/244/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs201

@@ -133,7 +133,7 @@ In subsection (a), the words before clause (1) are substituted for “In carryin
 
  __Border Staffing Standards__ 
 
-[Pub. L. 106–159, title II, § 218][/us/pl/106/159/s218], Dec. 9, 1999, [113 Stat. 1767][/us/stat/113/1767], provided that:
+[Pub. L. 106–159, title II, § 218][/us/pl/106/159/s218], Dec. 9, 1999, [113 Stat. 1767][/us/stat/113/1767], as amended by [Pub. L. 114–94, div. A, title V, § 5101(e)(10)][/us/pl/114/94/s5101/e/10], Dec. 4, 2015, [129 Stat. 1525][/us/stat/129/1525], provided that:
 
 >     “(a)  __Development and Implementation__  __.—__ 
 
@@ -161,6 +161,8 @@ In subsection (a), the words before clause (1) are substituted for “In carryin
 
 >         If the Secretary makes a designation pursuant to paragraph (1) for a fiscal year, the Secretary may not make a designation under \[former\] [section 31104(f)(2)(B) of title 49][/us/usc/t49/s31104/f/2/B], United States Code, for such fiscal year.”
 
+    \[[Pub. L. 114–94, div. A, title V, § 5101(e)(10)][/us/pl/114/94/s5101/e/10], (f), Dec. 4, 2015, [129 Stat. 1525][/us/stat/129/1525], 1526, provided that, effective Oct. 1, 2016, [section 218 of Pub. L. 106–159][/us/pl/106/159/s218], set out above, is amended in subsection (d)(1) by striking “[section 31104(f)(2)(B) of title 49][/us/usc/t49/s31104/f/2/B], United States Code” and inserting “[section 31104(a)(1) of title 49][/us/usc/t49/s31104/a/1], United States Code” and by striking subsection (d)(3).\]
+
 ----------
 
 [Previous](./../../../../../../..//us/usc/t49/stVI/ptB/ch311/schIII/m__us_usc_t49_s31132.md) | [Next](./../../../../../../..//us/usc/t49/stVI/ptB/ch311/schIII/m__us_usc_t49_s31134.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31133)
@@ -177,7 +179,14 @@ In subsection (a), the words before clause (1) are substituted for “In carryin
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/106/159/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs218
 [/us/stat/113/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1767
+[/us/pl/114/94/s5101/e/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fe%2F10
+[/us/stat/129/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1525
 [/us/usc/t49/s31104/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31104%2Ff%2F2%2FB
 [/us/usc/t49/s31104/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31104%2Ff%2F2%2FB
+[/us/pl/114/94/s5101/e/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5101%2Fe%2F10
+[/us/stat/129/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1525
+[/us/pl/106/159/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs218
+[/us/usc/t49/s31104/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31104%2Ff%2F2%2FB
+[/us/usc/t49/s31104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31104%2Fa%2F1
 
 

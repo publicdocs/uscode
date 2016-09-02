@@ -245,7 +245,69 @@ Sept. 20, 1982, Pub. L. 97–261, § 18(f), (g), 96 Stat. 1122.  </td>
 
  __Effective Date of 1995 Amendment__ 
 
-    Amendment by [Pub. L. 104–88][/us/pl/104/88] effective Jan. 1, 1996, see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as an Effective Date note under [section 701 of this title][/us/usc/t49/s701].
+    Amendment by [Pub. L. 104–88][/us/pl/104/88] effective Jan. 1, 1996, see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as an Effective Date note under [section 1301 of this title][/us/usc/t49/s1301].
+
+ __Minimum Financial Responsibility__ 
+
+[Pub. L. 114–94, div. A, title V, § 5509][/us/pl/114/94/s5509], Dec. 4, 2015, [129 Stat. 1554][/us/stat/129/1554], provided that:
+
+>     “(a)  __Transporting Property__  __.—__ 
+
+>     If the Secretary \[of Transportation\] proceeds with a rulemaking to determine whether to increase the minimum levels of financial responsibility required under [section 31139 of title 49][/us/usc/t49/s31139], United States Code, the Secretary shall consider, prior to issuing a final rule—
+
+>         “(1)
+
+>          the rulemaking’s potential impact on—
+
+>             “(A) the safety of motor vehicle transportation; and
+
+>             “(B) the motor carrier industry;
+
+>         “(2) the ability of the insurance industry to provide the required amount of insurance;
+
+>         “(3)
+
+>          the extent to which current minimum levels of financial responsibility adequately cover—
+
+>             “(A) medical care;
+
+>             “(B) compensation; and
+
+>             “(C) other identifiable costs;
+
+>         “(4) the frequency with which insurance claims exceed current minimum levels of financial responsibility in fatal accidents; and
+
+>         “(5) the impact of increased levels on motor carrier safety and accident reduction.
+
+>     “(b) __Transporting Passengers.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Prior to initiating a rulemaking to change the minimum levels of financial responsibility under [section 31138 of title 49][/us/usc/t49/s31138], United States Code, the Secretary shall complete a study specific to the minimum financial responsibility requirements for motor carriers of passengers.
+
+>         “(2)  __Study contents__  __.—__ 
+
+>         A study under paragraph (1) shall include, to the extent practicable—
+
+>             “(A) a review of accidents, injuries, and fatalities in the over-the-road bus and school bus industries;
+
+>             “(B) a review of insurance held by over-the-road bus and public and private school bus companies, including companies of various sizes, and an analysis of whether such insurance is adequate to cover claims;
+
+>             “(C) an analysis of whether and how insurance affects the behavior and safety record of motor carriers of passengers, including with respect to crash reduction; and
+
+>             “(D) an analysis of the anticipated impacts of an increase in financial responsibility on insurance premiums for passenger carriers and service availability.
+
+>         “(3)  __Consultation__  __.—__ 
+
+>         In conducting a study under paragraph (1), the Secretary shall consult with—
+
+>             “(A) representatives of the over-the-road bus and private school bus transportation industries, including representatives of bus drivers; and
+
+>             “(B) insurers of motor carriers of passengers.
+
+>         “(4)  __Report__  __.—__ 
+
+>         If the Secretary undertakes a study under paragraph (1), the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the study.”
 
 ----------
 
@@ -278,6 +340,10 @@ Sept. 20, 1982, Pub. L. 97–261, § 18(f), (g), 96 Stat. 1122.  </td>
 [/us/pl/104/88/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs104%2Fd
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
+[/us/pl/114/94/s5509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5509
+[/us/stat/129/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1554
+[/us/usc/t49/s31139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31139
+[/us/usc/t49/s31138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31138
 
 

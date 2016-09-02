@@ -85,7 +85,7 @@ Oct. 17, 1978, Pub. L. 95–473, § 4(c)(1)(A), (2) (related to § 306 of De
 
  __Abolition of Interstate Commerce Commission and Transfer of Functions__ 
 
-    Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in [Pub. L. 104–88][/us/pl/104/88], to Surface Transportation Board effective Jan. 1, 1996, by [section 702 of this title][/us/usc/t49/s702], and [section 101 of Pub. L. 104–88][/us/pl/104/88/s101], set out as a note under [section 701 of this title][/us/usc/t49/s701]. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see [section 205 of Pub. L. 104–88][/us/pl/104/88/s205], set out as a note under [section 701 of this title][/us/usc/t49/s701].
+    Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in [Pub. L. 104–88][/us/pl/104/88], to Surface Transportation Board effective Jan. 1, 1996, by [section 1302 of this title][/us/usc/t49/s1302], and [section 101 of Pub. L. 104–88][/us/pl/104/88/s101], set out as a note under [section 1301 of this title][/us/usc/t49/s1301]. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see [section 205 of Pub. L. 104–88][/us/pl/104/88/s205], set out as a note under [section 1301 of this title][/us/usc/t49/s1301].
 
 ----------
 
@@ -98,10 +98,10 @@ Oct. 17, 1978, Pub. L. 95–473, § 4(c)(1)(A), (2) (related to § 306 of De
 [/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
 [/us/stat/108/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1329
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
-[/us/usc/t49/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs702
+[/us/usc/t49/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1302
 [/us/pl/104/88/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs101
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/pl/104/88/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs205
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 
 

@@ -17,7 +17,7 @@
 
     (a)  __In General__  __.—__ 
 
-    Not later than 1 year after enactment of the Railroad Safety Enhancement Act of 2008, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the Secretary of Transportation shall prescribe standards, guidance, regulations, or orders governing the development, use, and implementation of rail safety technology in dark territory, in arrangements not defined in section 20501 or otherwise not covered by Federal standards, guidance, regulations, or orders that ensure the safe operation of such technology, such as—
+    Not later than 1 year after the date of enactment of the Rail Safety Improvement Act of 2008, the Secretary of Transportation shall prescribe standards, guidance, regulations, or orders governing the development, use, and implementation of rail safety technology in dark territory, in arrangements not defined in section 20501 or otherwise not covered by Federal standards, guidance, regulations, or orders that ensure the safe operation of such technology, such as—
 
         (1) switch position monitoring devices or indicators;
 
@@ -39,11 +39,19 @@
 
     In this section, the term “dark territory” means any territory in a railroad system that does not have a signal or train control system installed or operational.
 
-(Added [Pub. L. 110–432, div. A, title IV, § 406(a)][/us/pl/110/432/s406/a], Oct. 16, 2008, [122 Stat. 4886][/us/stat/122/4886].)
+(Added [Pub. L. 110–432, div. A, title IV, § 406(a)][/us/pl/110/432/s406/a], Oct. 16, 2008, [122 Stat. 4886][/us/stat/122/4886]; amended [Pub. L. 114–94, div. A, title XI, § 11316(i)][/us/pl/114/94/s11316/i], Dec. 4, 2015, [129 Stat. 1677][/us/stat/129/1677].)
 
  __References in Text__ 
 
-    The Railroad Safety Enhancement Act of 2008, referred to in subsec. (a), probably means the Rail Safety Improvement Act of 2008, div. A of [Pub. L. 110–432][/us/pl/110/432], which was approved Oct. 16, 2008.
+    The date of enactment of the Rail Safety Improvement Act of 2008, referred to in subsec. (a), is the date of enactment of div. A of [Pub. L. 110–432][/us/pl/110/432], which was approved Oct. 16, 2008.
+
+ __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–94][/us/pl/114/94] substituted “after the date of enactment of the Rail Safety Improvement Act of 2008” for “after enactment of the Railroad Safety Enhancement Act of 2008” in introductory provisions.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
 ----------
 
@@ -54,6 +62,12 @@
 
 [/us/pl/110/432/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs406%2Fa
 [/us/stat/122/4886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4886
+[/us/pl/114/94/s11316/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fi
+[/us/stat/129/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1677
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 
 

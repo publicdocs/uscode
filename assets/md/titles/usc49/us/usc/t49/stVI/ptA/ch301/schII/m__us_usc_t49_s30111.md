@@ -43,7 +43,17 @@
 
     The Secretary shall establish and periodically review and update on a continuing basis a 5-year plan for testing motor vehicle safety standards prescribed under this chapter that the Secretary considers capable of being tested. In developing the plan and establishing testing priorities, the Secretary shall consider factors the Secretary considers appropriate, consistent with [section 30101 of this title][/us/usc/t49/s30101] and the Secretary’s other duties and powers under this chapter. The Secretary may change at any time those priorities to address matters the Secretary considers of greater priority. The initial plan may be the 5-year plan for compliance testing in effect on December 18, 1991.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 944][/us/stat/108/944].)
+    (f) __Motor Vehicle Safety Guidelines.—__ 
+
+        (1)  __In general__  __.—__ 
+
+        No guidelines issued by the Secretary with respect to motor vehicle safety shall confer any rights on any person, State, or locality, nor shall operate to bind the Secretary or any person to the approach recommended in such guidelines. In any enforcement action with respect to motor vehicle safety, the Secretary shall allege a violation of a provision of this subtitle, a motor vehicle safety standard issued under this subtitle, or another relevant statute or regulation. The Secretary may not base an enforcement action on, or execute a consent order based on, practices that are alleged to be inconsistent with any such guidelines, unless the practices allegedly violate a provision of this subtitle, a motor vehicle safety standard issued under this subtitle, or another relevant statute or regulation.
+
+        (2)  __Rule of construction__  __.—__ 
+
+        Nothing in this subsection shall be construed to confer any authority upon or negate any authority of the Secretary to issue guidelines under this chapter.
+
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 944][/us/stat/108/944]; [Pub. L. 114–94, div. B, title XXIV, § 24406][/us/pl/114/94/s24406], Dec. 4, 2015, [129 Stat. 1725][/us/stat/129/1725].)
 
 <table>
 
@@ -181,6 +191,10 @@ In subsection (b)(2), the words “agency established under the Act of August 20
 
     Act of August 20, 1958, referred to in subsec. (b)(2), is set out as a note under former [section 313 of Title 23][/us/usc/t23/s313], Highways.
 
+ __Amendments__ 
+
+    2015—Subsec. (f). [Pub. L. 114–94][/us/pl/114/94] added subsec. (f).
+
  __Rulemaking on Visibility of Agricultural Equipment__ 
 
 [Pub. L. 112–141, div. C, title I, § 31601][/us/pl/112/141/s31601], July 6, 2012, [126 Stat. 775][/us/stat/126/775], provided that:
@@ -235,11 +249,11 @@ In subsection (b)(2), the words “agency established under the Act of August 20
 
  __Unattended Passenger Reminders__ 
 
-[Pub. L. 112–141, div. C, title I, § 31504][/us/pl/112/141/s31504], July 6, 2012, [126 Stat. 775][/us/stat/126/775], provided that:
+[Pub. L. 112–141, div. C, title I, § 31504][/us/pl/112/141/s31504], July 6, 2012, [126 Stat. 775][/us/stat/126/775], as amended by [Pub. L. 114–94, div. B, title XXIV, § 24114][/us/pl/114/94/s24114], Dec. 4, 2015, [129 Stat. 1710][/us/stat/129/1710], provided that:
 
 >     “(a)  __Safety Research Initiative__  __.—__ 
 
->     The Secretary \[of Transportation\] may initiate research into effective ways to minimize the risk of hyperthermia or hypothermia to children or other unattended passengers in rear seating positions.
+>     The Secretary \[of Transportation\] shall initiate research into effective ways to minimize the risk of hyperthermia or hypothermia to children or other unattended passengers in rear seating positions.
 
 >     “(b)  __Research Areas__  __.—__ 
 
@@ -474,9 +488,12 @@ In subsection (b)(2), the words “agency established under the Act of August 20
 [/us/usc/t49/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30101
 [/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
 [/us/stat/108/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F944
+[/us/pl/114/94/s24406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24406
+[/us/stat/129/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1725
 [/us/pl/85/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F684
 [/us/stat/72/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F635
 [/us/usc/t23/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs313
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141/s31601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31601
 [/us/stat/126/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F775
 [/us/usc/t23/s101/a/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101%2Fa%2F27
@@ -484,6 +501,8 @@ In subsection (b)(2), the words “agency established under the Act of August 20
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/112/141/s31504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31504
 [/us/stat/126/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F775
+[/us/pl/114/94/s24114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24114
+[/us/stat/129/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1710
 [/us/pl/111/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F373
 [/us/stat/124/4086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4086
 [/us/usc/t49/s30102/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30102%2Fa%2F6

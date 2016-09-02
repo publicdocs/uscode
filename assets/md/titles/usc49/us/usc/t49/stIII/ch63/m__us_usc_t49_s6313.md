@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t49/stIII/ch63/m__us_usc_t49_s6312.md) | [Next](./../../../../..//us/usc/t49/stIV/m__us_usc_t49_stIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs6313)
+[Previous](./../../../../..//us/usc/t49/stIII/ch63/m__us_usc_t49_s6312.md) | [Next](./../../../../..//us/usc/t49/stIII/ch63/m__us_usc_t49_s6314.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs6313)
 
 ## § 6313. Mandatory response authority for freight data collection
 
@@ -57,7 +57,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t49/stIII/ch63/m__us_usc_t49_s6312.md) | [Next](./../../../../..//us/usc/t49/stIV/m__us_usc_t49_stIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs6313)
+[Previous](./../../../../..//us/usc/t49/stIII/ch63/m__us_usc_t49_s6312.md) | [Next](./../../../../..//us/usc/t49/stIII/ch63/m__us_usc_t49_s6314.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs6313)
 
 ----------
 ----------

@@ -71,6 +71,12 @@ Source (Statutes at Large)  </td>
 
     2000—[Pub. L. 106–424][/us/pl/106/424] amended section catchline and text generally. Prior to amendment, text read as follows: “[Section 40102(a) of this title][/us/usc/t49/s40102/a] applies to this chapter.”
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–110, § 1(a)][/us/pl/114/110/s1/a], Dec. 18, 2015, [129 Stat. 2228][/us/stat/129/2228], provided that: 
+
+> “This Act \[see Tables for classification\] may be cited as the ‘Surface Transportation Board Reauthorization Act of 2015’.”
+
  __Short Title of 2006 Amendment__ 
 
 [Pub. L. 109–443, § 1(a)][/us/pl/109/443/s1/a], Dec. 21, 2006, [120 Stat. 3297][/us/stat/120/3297], provided that: 
@@ -109,6 +115,8 @@ Source (Statutes at Large)  </td>
 [/us/stat/114/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1883
 [/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
 [/us/usc/t49/s40102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102%2Fa
+[/us/pl/114/110/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs1%2Fa
+[/us/stat/129/2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2228
 [/us/pl/109/443/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F443%2Fs1%2Fa
 [/us/stat/120/3297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3297
 [/us/usc/t49/s1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1138

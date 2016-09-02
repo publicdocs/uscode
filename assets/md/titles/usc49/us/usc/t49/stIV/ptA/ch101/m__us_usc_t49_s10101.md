@@ -59,7 +59,7 @@
 
  __Effective Date__ 
 
-    Chapter effective Jan. 1, 1996, except as otherwise provided in [Pub. L. 104–88][/us/pl/104/88], see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as a note under [section 701 of this title][/us/usc/t49/s701].
+    Chapter effective Jan. 1, 1996, except as otherwise provided in [Pub. L. 104–88][/us/pl/104/88], see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as a note under [section 1301 of this title][/us/usc/t49/s1301].
 
  __Short Title of 2008 Amendment__ 
 
@@ -137,7 +137,7 @@
 [/us/stat/94/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1897
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/pl/110/432/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs601
 [/us/stat/122/4900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4900
 [/us/usc/t49/s10501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10501

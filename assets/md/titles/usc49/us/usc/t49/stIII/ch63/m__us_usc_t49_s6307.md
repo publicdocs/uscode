@@ -25,17 +25,17 @@
 
         An officer, employee, or contractor of the Bureau may not—
 
-            (A) make any disclosure in which the data provided by an individual or organization under section 6302(b)(3)(B) can be identified;
+            (A) make any disclosure in which the data provided by an individual or organization under section 6302(b)(3)(B) or section 6314(b) can be identified;
 
-            (B) use the information provided under section 6302(b)(3)(B) for a nonstatistical purpose; or
+            (B) use the information provided under section 6302(b)(3)(B) or section 6314(b) for a nonstatistical purpose; or
 
-            (C) permit anyone other than an individual authorized by the Director to examine any individual report provided under section 6302(b)(3)(B).
+            (C) permit anyone other than an individual authorized by the Director to examine any individual report provided under section 6302(b)(3)(B) or section 6314(b).
 
         (2) __Copies of reports.—__ 
 
             (A)  __In general__  __.—__ 
 
-            No department, bureau, agency, officer, or employee of the United States (except the Director in carrying out this chapter) may require, for any reason, a copy of any report that has been filed under section 6302(b)(3)(B) with the Bureau or retained by an individual respondent.
+            No department, bureau, agency, officer, or employee of the United States (except the Director in carrying out this chapter) may require, for any reason, a copy of any report that has been filed under section 6302(b)(3)(B) or section 6314(b) with the Bureau or retained by an individual respondent.
 
             (B)  __Limitation on judicial proceedings__  __.—__ 
 
@@ -61,7 +61,15 @@
 
         (2) information that the agency possessing the information determines could not be disclosed without significantly impairing the discharge of authorities and responsibilities which have been delegated to, or vested by law, in such agency.
 
-(Added [Pub. L. 112–141, div. E, title II, § 52011(a)][/us/pl/112/141/s52011/a], July 6, 2012, [126 Stat. 892][/us/stat/126/892].)
+(Added [Pub. L. 112–141, div. E, title II, § 52011(a)][/us/pl/112/141/s52011/a], July 6, 2012, [126 Stat. 892][/us/stat/126/892]; amended [Pub. L. 114–94, div. A, title VI, § 6018(b)][/us/pl/114/94/s6018/b], Dec. 4, 2015, [129 Stat. 1577][/us/stat/129/1577].)
+
+ __Amendments__ 
+
+    2015—Subsec. (b). [Pub. L. 114–94][/us/pl/114/94] inserted “or section 6314(b)” after “section 6302(b)(3)(B)” wherever appearing.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date__ 
 
@@ -76,6 +84,12 @@
 
 [/us/pl/112/141/s52011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs52011%2Fa
 [/us/stat/126/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F892
+[/us/pl/114/94/s6018/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs6018%2Fb
+[/us/stat/129/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1577
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 

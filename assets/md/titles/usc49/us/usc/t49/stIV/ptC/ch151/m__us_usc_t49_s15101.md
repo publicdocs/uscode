@@ -53,13 +53,13 @@
 
  __Effective Date__ 
 
-    Chapter effective Jan. 1, 1996, except as otherwise provided in [Pub. L. 104–88][/us/pl/104/88], see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as a note under [section 701 of this title][/us/usc/t49/s701].
+    Chapter effective Jan. 1, 1996, except as otherwise provided in [Pub. L. 104–88][/us/pl/104/88], see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as a note under [section 1301 of this title][/us/usc/t49/s1301].
 
  __GAO Report__ 
 
 [Pub. L. 104–88, title I, § 106(b)][/us/pl/104/88/s106/b], Dec. 29, 1995, [109 Stat. 932][/us/stat/109/932], provided that: 
 
-> “Within 3 years after the effective date of this Act \[Jan. 1, 1996, except as otherwise provided, see Effective Date note set out under [section 701 of this title][/us/usc/t49/s701]\], the Comptroller General shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report regarding the impact of regulations under part C \[of subtitle IV\] of title 49, United States Code, on the competitiveness of pipelines and recommend whether to continue, revise, or sunset such regulations. Congress shall take into account the findings of this report when considering the Board’s \[Surface Transportation Board\] reauthorization.”
+> “Within 3 years after the effective date of this Act \[Jan. 1, 1996, except as otherwise provided, see Effective Date note set out under [section 1301 of this title][/us/usc/t49/s1301]\], the Comptroller General shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report regarding the impact of regulations under part C \[of subtitle IV\] of title 49, United States Code, on the competitiveness of pipelines and recommend whether to continue, revise, or sunset such regulations. Congress shall take into account the findings of this report when considering the Board’s \[Surface Transportation Board\] reauthorization.”
 
 ----------
 
@@ -78,9 +78,9 @@
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/pl/104/88/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs106%2Fb
 [/us/stat/109/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F932
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 
 

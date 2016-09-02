@@ -31,7 +31,11 @@
 
         (2) to define “make inoperative”.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 956][/us/stat/108/956]; [Pub. L. 112–141, div. C, title I, § 31202(a)(1)][/us/pl/112/141/s31202/a/1], July 6, 2012, [126 Stat. 757][/us/stat/126/757].)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 956][/us/stat/108/956]; [Pub. L. 112–141, div. C, title I, § 31202(a)(1)][/us/pl/112/141/s31202/a/1], July 6, 2012, [126 Stat. 757][/us/stat/126/757]; [Pub. L. 114–94, div. B, title XXIV, § 24109(d)][/us/pl/114/94/s24109/d], Dec. 4, 2015, [129 Stat. 1707][/us/stat/129/1707].)
+
+ __Amendment of Subsection (b)__ 
+
+    [Pub. L. 114–94, div. B, title XXIV, § 24109(d)][/us/pl/114/94/s24109/d], (k), Dec. 4, 2015, [129 Stat. 1707][/us/stat/129/1707], 1709, provided that, effective on the date that is 180 days after Dec. 4, 2015, subsection (b) of this section is amended by inserting “rental company,” after “dealer,” each place such term appears. See 2015 Amendment note below.
 
 <table>
 
@@ -133,7 +137,13 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 108(a)(2)(A)– (C); added O
 
  __Amendments__ 
 
+    2015—Subsec. (b). [Pub. L. 114–94][/us/pl/114/94] inserted “rental company,” after “dealer,” in two places.
+
     2012—Subsec. (d). [Pub. L. 112–141][/us/pl/112/141] struck out subsec. (d). Text read as follows: “This section does not apply to a safety belt interlock or buzzer designed to indicate a safety belt is not in use as described in [section 30124 of this title][/us/usc/t49/s30124].”
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective on the date that is 180 days after Dec. 4, 2015, see [section 24109(k) of Pub. L. 114–94][/us/pl/114/94/s24109/k], set out as a note under [section 30102 of this title][/us/usc/t49/s30102].
 
  __Effective Date of 2012 Amendment__ 
 
@@ -151,9 +161,17 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 108(a)(2)(A)– (C); added O
 [/us/stat/108/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F956
 [/us/pl/112/141/s31202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31202%2Fa%2F1
 [/us/stat/126/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F757
+[/us/pl/114/94/s24109/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fd
+[/us/stat/129/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1707
+[/us/pl/114/94/s24109/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fd
+[/us/stat/129/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1707
 [/us/usc/t49/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30101
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t49/s30124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30124
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s24109/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fk
+[/us/usc/t49/s30102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30102
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

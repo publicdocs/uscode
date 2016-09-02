@@ -243,6 +243,112 @@ Oct. 16, 1970, Pub. L. 91–458, § 202(d), 84 Stat. 971; restated July 8, 197
 
 >     If, on the basis of the proceeding required under paragraph (1) of this subsection, the Secretary decides not to prescribe regulations, the Secretary shall report to Congress on the reasons for that decision.”
 
+ __Real-Time Emergency Response Information__ 
+
+[Pub. L. 114–94, div. A, title VII, § 7302][/us/pl/114/94/s7302], Dec. 4, 2015, [129 Stat. 1594][/us/stat/129/1594], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\], in consultation with appropriate Federal agencies, shall issue regulations that—
+
+>         “(1)
+
+>          require a Class I railroad transporting hazardous materials—
+
+>             “(A)
+
+>              to generate accurate, real-time, and electronic train consist information, including—
+
+>                 “(i) the identity, quantity, and location of hazardous materials on a train;
+
+>                 “(ii) the point of origin and destination of the train;
+
+>                 “(iii) any emergency response information or resources required by the Secretary; and
+
+>                 “(iv) an emergency response point of contact designated by the Class I railroad; and
+
+>             “(B) to enter into a memorandum of understanding with each applicable fusion center to provide the fusion center with secure and confidential access to the electronic train consist information described in subparagraph (A) for each train transporting hazardous materials in the jurisdiction of the fusion center;
+
+>         “(2) require each applicable fusion center to provide the electronic train consist information described in paragraph (1)(A) to State and local first responders, emergency response officials, and law enforcement personnel that are involved in the response to or investigation of an accident, incident, or public health or safety emergency involving the rail transportation of hazardous materials and that request such electronic train consist information;
+
+>         “(3)
+
+>          require each Class I railroad to provide advanced notification and information on high-hazard flammable trains to each State emergency response commission, consistent with the notification content requirements in Emergency Order Docket No. DOT–OST–2014–0067, including—
+
+>             “(A) a reasonable estimate of the number of implicated trains that are expected to travel, per week, through each county within the applicable State;
+
+>             “(B) updates to such estimate prior to making any material changes to any volumes or frequencies of trains traveling through a county;
+
+>             “(C) identification and a description of the Class 3 flammable liquid being transported on such trains;
+
+>             “(D) applicable emergency response information, as required by regulation;
+
+>             “(E) identification of the routes over which such liquid will be transported; and
+
+>             “(F) a point of contact at the Class I railroad responsible for serving as the point of contact for State emergency response centers and local emergency responders related to the Class I railroad’s transportation of such liquid.
+
+>         “(4) require each applicable State emergency response commission to provide to a political subdivision of a State, or public agency responsible for emergency response or law enforcement, upon request of the political subdivision or public agency, the information the commission receives from a Class I railroad pursuant to paragraph (3), including, for any such political subdivision or public agency responsible for emergency response or law enforcement that makes an initial request for such information, any updates received by the State emergency response commission.
+
+>         “(5) prohibit any Class I railroad, employee, or agent from withholding, or causing to be withheld, the train consist information from first responders, emergency response officials, and law enforcement personnel described in paragraph (2) in the event of an incident, accident, or public health or safety emergency involving the rail transportation of hazardous materials;
+
+>         “(6) establish security and confidentiality protections, including protections from the public release of proprietary information or security-sensitive information, to prevent the release to unauthorized persons any electronic train consist information or advanced notification or information provided by Class I railroads under this section; and
+
+>         “(7) allow each Class I railroad to enter into a memorandum of understanding with any Class II railroad or Class III railroad that operates trains over the Class I railroad’s line to incorporate the Class II railroad or Class III railroad’s train consist information within the existing framework described in paragraph (1).
+
+>     “(b)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1)  __Applicable fusion center__  __.—__ 
+
+>         The term ‘applicable fusion center’ means a fusion center with responsibility for a geographic area in which a Class I railroad operates.
+
+>         “(2)  __Class i railroad; class ii railroad; class iii railroad__  __.—__ 
+
+>         The terms ‘Class I railroad’, ‘Class II railroad’, and ‘Class III railroad’ have the meaning given those terms in [section 20102 of title 49][/us/usc/t49/s20102], United States Code.
+
+>         “(3)  __Class 3 flammable liquid__  __.—__ 
+
+>         The term ‘Class 3 flammable liquid’ has the meaning given the term flammable liquid in section 173.120(a) of title 49, Code of Federal Regulations.
+
+>         “(4)  __Fusion center__  __.—__ 
+
+>         The term ‘fusion center’ has the meaning given the term in section 210A(j) of the Homeland Security Act of 2002 ([6 U.S.C. 124h(j)][/us/usc/t6/s124h/j]).
+
+>         “(5)  __Hazardous material__  __.—__ 
+
+>         The term ‘hazardous material’ means a substance or material the Secretary designates as hazardous under [section 5103 of title 49][/us/usc/t49/s5103], United States Code.
+
+>         “(6)  __High-hazard flammable train__  __.—__ 
+
+>         The term ‘high-hazard flammable train’ means a single train transporting 20 or more tank cars loaded with a Class 3 flammable liquid in a continuous block or a single train transporting 35 or more tank cars loaded with a Class 3 flammable liquid throughout the train consist.
+
+>         “(7)  __Train consist__  __.—__ 
+
+>         The term ‘train consist’ includes, with regard to a specific train, the number of rail cars and the commodity transported by each rail car.
+
+>     “(c)  __Savings Clause__  __.—__ 
+
+>     Nothing in this section may be construed to prohibit a Class I railroad from voluntarily entering into a memorandum of understanding, as described in subsection (a)(1)(B), with a State emergency response commission or an entity representing or including first responders, emergency response officials, and law enforcement personnel.”
+
+ __Alerters__ 
+
+[Pub. L. 114–94, div. A, title XI, § 11407][/us/pl/114/94/s11407], Dec. 4, 2015, [129 Stat. 1684][/us/stat/129/1684], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Secretary \[of Transportation\] shall promulgate a rule to require a working alerter in the controlling locomotive of each passenger train in intercity rail passenger transportation (as defined in [section 24102 of title 49][/us/usc/t49/s24102], United States Code) or commuter rail passenger transportation (as defined in [section 24102 of title 49][/us/usc/t49/s24102], United States Code).
+
+>     “(b) __Rulemaking.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretary may promulgate a rule to specify the essential functionalities of a working alerter, including the manner in which the alerter can be reset.
+
+>         “(2)  __Alternate practice or technology__  __.—__ 
+
+>         The Secretary may require or allow a technology or practice in lieu of a working alerter if the Secretary determines that the technology or practice would achieve an equivalent or greater level of safety in enhancing or ensuring appropriate locomotive control.”
+
  __Locomotive Cab Studies__ 
 
 [Pub. L. 110–432, div. A, title IV, § 405][/us/pl/110/432/s405], Oct. 16, 2008, [122 Stat. 4885][/us/stat/122/4885], provided that:
@@ -267,23 +373,21 @@ Oct. 16, 1970, Pub. L. 91–458, § 202(d), 84 Stat. 971; restated July 8, 197
 
  __Tunnel Information__ 
 
-[Pub. L. 110–432, div. A, title IV, § 414][/us/pl/110/432/s414], Oct. 16, 2008, [122 Stat. 4889][/us/stat/122/4889], provided that: 
+[Pub. L. 110–432, div. A, title IV, § 414][/us/pl/110/432/s414], Oct. 16, 2008, [122 Stat. 4889][/us/stat/122/4889], as amended by [Pub. L. 114–94, div. A, title XI, § 11316(j)(7)][/us/pl/114/94/s11316/j/7], Dec. 4, 2015, [129 Stat. 1678][/us/stat/129/1678], provided that: 
 
 > “Not later than 120 days after the date of enactment of this Act \[Oct. 16, 2008\], each railroad carrier shall, with respect to each of its tunnels which—
 
 >     “(1) are longer than 1000 feet and located under a city with a population of 400,000 or greater; or
 
->     “(2) carry 5 or more scheduled passenger trains per day, or 500 or more carloads of poison- or toxic-by-inhalation hazardous materials (as defined in parts \[probably should be “sections”\] 171.8, 173.115, and 173.132 of title 49, Code of Federal Regulations) per year,
+>     “(2) carry 5 or more scheduled passenger trains per day, or 500 or more carloads of poison- or toxic-by-inhalation hazardous materials (as defined in sections 171.8, 173.115, and 173.132 of title 49, Code of Federal Regulations) per year,
 
->     maintain, for at least two years, historical documentation of structural inspection and maintenance activities for such tunnels, including information on the methods of ingress and egress into and out of the tunnel, the types of cargos typically transported through the tunnel, and schematics or blueprints for the tunnel, when available. Upon request, a railroad carrier shall provide periodic briefings on such information to the governments of the local jurisdiction in which the tunnel is located, including updates whenever a repair or rehabilitation project substantially alters the methods of ingress and egress. Such governments shall use appropriate means to protect and restrict the distribution of any security sensitive information (as defined in part \[probably should be “section”
-
-\] 1520.5 of title 49, Code of Federal Regulations) provided by the railroad carrier under this section, consistent with national security interests.”
+>     maintain, for at least two years, historical documentation of structural inspection and maintenance activities for such tunnels, including information on the methods of ingress and egress into and out of the tunnel, the types of cargos typically transported through the tunnel, and schematics or blueprints for the tunnel, when available. Upon request, a railroad carrier shall provide periodic briefings on such information to the governments of the local jurisdiction in which the tunnel is located, including updates whenever a repair or rehabilitation project substantially alters the methods of ingress and egress. Such governments shall use appropriate means to protect and restrict the distribution of any security sensitive information (as defined in section 1520.5 of title 49, Code of Federal Regulations) provided by the railroad carrier under this section, consistent with national security interests.”
 
     \[For definition of “railroad carrier”, as used in [section 414 of Pub. L. 110–432][/us/pl/110/432/s414], set out above, see [section 2(a) of Pub. L. 110–432][/us/pl/110/432/s2/a], set out as a note under [section 20102 of this title][/us/usc/t49/s20102].\]
 
  __Railroad Bridge Safety Assurance__ 
 
-[Pub. L. 110–432, div. A, title IV, § 417][/us/pl/110/432/s417], Oct. 16, 2008, [122 Stat. 4890][/us/stat/122/4890], provided that:
+[Pub. L. 110–432, div. A, title IV, § 417][/us/pl/110/432/s417], Oct. 16, 2008, [122 Stat. 4890][/us/stat/122/4890], as amended by [Pub. L. 114–94, div. A, title XI, § 11405][/us/pl/114/94/s11405], Dec. 4, 2015, [129 Stat. 1682][/us/stat/129/1682], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -323,7 +427,27 @@ Oct. 16, 1970, Pub. L. 91–458, § 202(d), 84 Stat. 971; restated July 8, 197
 
 >     “(d)  __Review of Data__  __.—__ 
 
->     The Secretary shall establish a program to periodically review bridge inspection and maintenance data from railroad carrier bridge inspectors and Federal Railroad Administration bridge experts.”
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretary shall establish a program to periodically review bridge inspection and maintenance data from railroad carrier bridge inspectors and Federal Railroad Administration bridge experts.
+
+>         “(2) __Availability of bridge condition.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             A State or political subdivision of a State may file a request with the Secretary for a public version of a bridge inspection report generated under subsection (b)(5) for a bridge located in such State or political subdivision’s jurisdiction.
+
+>             “(B)  __Public version of report__  __.—__ 
+
+>             If the Secretary determines that the request is reasonable, the Secretary shall require a railroad to submit a public version of the most recent bridge inspection report, such as a summary form, for a bridge subject to a request under subparagraph (A). The public version of a bridge inspection report shall include the date of last inspection, length of bridge, location of bridge, type of bridge, type of structure, feature crossed by bridge, and railroad contact information, along with a general statement on the condition of the bridge.
+
+>             “(C)  __Provision of report__  __.—__ 
+
+>             The Secretary shall provide to a State or political subdivision of a State a public version of a bridge inspection report submitted under subparagraph (B).
+
+>             “(D)  __Technical assistance__  __.—__ 
+
+>             The Secretary, upon the reasonable request of State or political subdivision of a State, shall provide technical assistance to such State or political subdivision of a State to facilitate the understanding of a bridge inspection report.”
 
     \[For definitions of “Secretary”, “railroad”, and “railroad carrier”, as used in [section 417 of Pub. L. 110–432][/us/pl/110/432/s417], set out above, see [section 2(a) of Pub. L. 110–432][/us/pl/110/432/s2/a], set out as a note under [section 20102 of this title][/us/usc/t49/s20102].\]
 
@@ -354,6 +478,15 @@ Oct. 16, 1970, Pub. L. 91–458, § 202(d), 84 Stat. 971; restated July 8, 197
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/pl/103/272/s4/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ft
 [/us/stat/108/1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1372
+[/us/pl/114/94/s7302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7302
+[/us/stat/129/1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1594
+[/us/usc/t49/s20102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20102
+[/us/usc/t6/s124h/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs124h%2Fj
+[/us/usc/t49/s5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5103
+[/us/pl/114/94/s11407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11407
+[/us/stat/129/1684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1684
+[/us/usc/t49/s24102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24102
+[/us/usc/t49/s24102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24102
 [/us/pl/110/432/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs405
 [/us/stat/122/4885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4885
 [/us/usc/t49/s20102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20102%2F4
@@ -362,11 +495,15 @@ Oct. 16, 1970, Pub. L. 91–458, § 202(d), 84 Stat. 971; restated July 8, 197
 [/us/usc/t49/s20102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20102
 [/us/pl/110/432/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs414
 [/us/stat/122/4889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4889
+[/us/pl/114/94/s11316/j/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11316%2Fj%2F7
+[/us/stat/129/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1678
 [/us/pl/110/432/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs414
 [/us/pl/110/432/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs2%2Fa
 [/us/usc/t49/s20102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20102
 [/us/pl/110/432/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs417
 [/us/stat/122/4890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4890
+[/us/pl/114/94/s11405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11405
+[/us/stat/129/1682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1682
 [/us/pl/110/432/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs417
 [/us/pl/110/432/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs2%2Fa
 [/us/usc/t49/s20102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20102

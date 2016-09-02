@@ -11,66 +11,47 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stV/ptB/ch223/m__us_usc_t49_s22301.md) | [Next](./../../../../../..//us/usc/t49/stV/ptB/ch225/m__us_usc_t49_s22501.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstV%2FptB%2Fch225)
+[Previous](./../../../../../..//us/usc/t49/stV/ptB/ch223/m__us_usc_t49_s22301.md) | [Next](./../../../../../..//us/usc/t49/stV/ptB/ch227/m__us_usc_t49_stV_ptB_ch227.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstV%2FptB%2Fch225)
 
-#### CHAPTER 225—FEDERAL GRANTS TO STATES FOR HIGHWAY-RAIL GRADE CROSSING SAFETY
+#### \[CHAPTER 225—REPEALED\]
 
-<table>
+\[§§ 22501 to 22505. __Repealed.__  __[__  __Pub. L. 114–94, div. A, title XI, § 11301(c)(3)__  __][/us/pl/114/94/s11301/c/3]__  __,__  __Dec. 4, 2015__  __,__  __[__  __129 Stat. 1648__  __][/us/stat/129/1648]__  __\]__ 
 
-  <tr>
+    Section 22501, [Pub. L. 110–432, div. A, title II, § 207(a)][/us/pl/110/432/s207/a], Oct. 16, 2008, [122 Stat. 4873][/us/stat/122/4873], related to financial assistance to States for certain projects.
 
-    <td> Sec.  </td>
+    Section 22502, [Pub. L. 110–432, div. A, title II, § 207(a)][/us/pl/110/432/s207/a], Oct. 16, 2008, [122 Stat. 4874][/us/stat/122/4874], related to distribution of grants.
 
-  </tr>
+    Section 22503, [Pub. L. 110–432, div. A, title II, § 207(a)][/us/pl/110/432/s207/a], Oct. 16, 2008, [122 Stat. 4874][/us/stat/122/4874], related to standards for awarding grants.
 
-  <tr>
+    Section 22504, [Pub. L. 110–432, div. A, title II, § 207(a)][/us/pl/110/432/s207/a], Oct. 16, 2008, [122 Stat. 4874][/us/stat/122/4874], related to use of grant funds.
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs22501" data-uslm-ref="/us/usc/t49/s22501">22501.</a>  </td>
+    Section 22505, [Pub. L. 110–432, div. A, title II, § 207(a)][/us/pl/110/432/s207/a], Oct. 16, 2008, [122 Stat. 4874][/us/stat/122/4874], related to authorization of appropriations.
 
-    <td> Financial assistance to States for certain projects.  </td>
+ __Effective Date of Repeal__ 
 
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs22502" data-uslm-ref="/us/usc/t49/s22502">22502.</a>  </td>
-
-    <td> Distribution.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs22503" data-uslm-ref="/us/usc/t49/s22503">22503.</a>  </td>
-
-    <td> Standards for awarding grants.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs22504" data-uslm-ref="/us/usc/t49/s22504">22504.</a>  </td>
-
-    <td> Use of funds.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs22505" data-uslm-ref="/us/usc/t49/s22505">22505.</a>  </td>
-
-    <td> Authorization of appropriations.  </td>
-
-  </tr>
-
-</table>
+    Repeal by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stV/ptB/ch223/m__us_usc_t49_s22301.md) | [Next](./../../../../../..//us/usc/t49/stV/ptB/ch225/m__us_usc_t49_s22501.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstV%2FptB%2Fch225)
+[Previous](./../../../../../..//us/usc/t49/stV/ptB/ch223/m__us_usc_t49_s22301.md) | [Next](./../../../../../..//us/usc/t49/stV/ptB/ch227/m__us_usc_t49_stV_ptB_ch227.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstV%2FptB%2Fch225)
 
 ----------
 ----------
 
+[/us/pl/114/94/s11301/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11301%2Fc%2F3
+[/us/stat/129/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1648
+[/us/pl/110/432/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs207%2Fa
+[/us/stat/122/4873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4873
+[/us/pl/110/432/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs207%2Fa
+[/us/stat/122/4874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4874
+[/us/pl/110/432/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs207%2Fa
+[/us/stat/122/4874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4874
+[/us/pl/110/432/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs207%2Fa
+[/us/stat/122/4874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4874
+[/us/pl/110/432/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs207%2Fa
+[/us/stat/122/4874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4874
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stIV/ptA/ch117/m__us_usc_t49_s11707.md) | [Next](./../../../../../..//us/usc/t49/stIV/ptA/ch119/m__us_usc_t49_s11901.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstIV%2FptA%2Fch119)
+[Previous](./../../../../../..//us/usc/t49/stIV/ptA/ch117/m__us_usc_t49_s11708.md) | [Next](./../../../../../..//us/usc/t49/stIV/ptA/ch119/m__us_usc_t49_s11901.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstIV%2FptA%2Fch119)
 
 #### CHAPTER 119—CIVIL AND CRIMINAL PENALTIES
 
@@ -91,7 +91,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stIV/ptA/ch117/m__us_usc_t49_s11707.md) | [Next](./../../../../../..//us/usc/t49/stIV/ptA/ch119/m__us_usc_t49_s11901.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstIV%2FptA%2Fch119)
+[Previous](./../../../../../..//us/usc/t49/stIV/ptA/ch117/m__us_usc_t49_s11708.md) | [Next](./../../../../../..//us/usc/t49/stIV/ptA/ch119/m__us_usc_t49_s11901.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstIV%2FptA%2Fch119)
 
 ----------
 ----------

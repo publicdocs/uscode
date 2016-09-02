@@ -305,6 +305,26 @@ Dec. 18, 1991, Pub. L. 102–240, § 2508(f), 105 Stat. 2087.  </td>
 
     1998—Subsec. (g)(1). [Pub. L. 105–178][/us/pl/105/178] substituted “annually” for “every 6 months” in introductory provisions.
 
+ __Improvement of Data Collection on Child Occupants in Vehicle Crashes__ 
+
+[Pub. L. 114–94, div. B, title XXIV, § 24407][/us/pl/114/94/s24407], Dec. 4, 2015, [129 Stat. 1726][/us/stat/129/1726], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[probably means Secretary of Transportation\] shall revise the crash investigation data collection system of the National Highway Traffic Safety Administration to include the collection of the following data in connection with vehicle crashes whenever a child restraint system was in use in a vehicle involved in a crash:
+
+>         “(1) The type or types of child restraint systems in use during the crash in any vehicle involved in the crash, including whether a five-point harness or belt-positioning booster. \[sic\]
+
+>         “(2) If a five-point harness child restraint system was in use during the crash, whether the child restraint system was forward-facing or rear-facing in the vehicle concerned.
+
+>     “(b)  __Consultation__  __.—__ 
+
+>     In implementing subsection (a), the Secretary shall work with law enforcement officials, safety advocates, the medical community, and research organizations to improve the recordation of data described in subsection (a) in police and other applicable incident reports.
+
+>     “(c)  __Report__  __.—__ 
+
+>     Not later than 3 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on child occupant crash data collection in the crash investigation data collection system of the National Highway Traffic Safety Administration pursuant to the revision required by subsection (a).”
+
  __Child Safety Seats__ 
 
 [Pub. L. 112–141, div. C, title I, § 31501][/us/pl/112/141/s31501], July 6, 2012, [126 Stat. 773][/us/stat/126/773], provided that:
@@ -615,6 +635,8 @@ Dec. 18, 1991, Pub. L. 102–240, § 2508(f), 105 Stat. 2087.  </td>
 [/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
 [/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/114/94/s24407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24407
+[/us/stat/129/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1726
 [/us/pl/112/141/s31501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31501
 [/us/stat/126/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F773
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141

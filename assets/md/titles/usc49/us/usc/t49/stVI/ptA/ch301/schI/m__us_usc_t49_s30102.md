@@ -85,7 +85,35 @@
 
         (2) The Secretary of Transportation may prescribe regulations changing paragraph (1)(C), (D), (F), or (G) of this subsection.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 941][/us/stat/108/941]; [Pub. L. 112–141, div. C, title I, § 31201][/us/pl/112/141/s31201], July 6, 2012, [126 Stat. 757][/us/stat/126/757].)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 941][/us/stat/108/941]; [Pub. L. 112–141, div. C, title I, § 31201][/us/pl/112/141/s31201], July 6, 2012, [126 Stat. 757][/us/stat/126/757]; [Pub. L. 114–94, div. B, title XXIV, § 24109(b)][/us/pl/114/94/s24109/b], Dec. 4, 2015, [129 Stat. 1706][/us/stat/129/1706].)
+
+ __Amendment of Subsection (a)__ 
+
+    [Pub. L. 114–94, div. B, title XXIV, § 24109(b)][/us/pl/114/94/s24109/b], (k), Dec. 4, 2015, [129 Stat. 1706][/us/stat/129/1706], 1709, provided that, effective on the date that is 180 days after Dec. 4, 2015, subsection (a) of this section is amended:
+
+    (1) by redesignating paragraphs (10) and (11) as paragraphs (12) and (13), respectively;
+
+    (2) by redesignating paragraphs (1) through (9) as paragraphs (2) through (10), respectively;
+
+    (3) by inserting before paragraph (2), as redesignated, the following:
+
+    “(1) ‘covered rental vehicle’ means a motor vehicle that—
+
+    “(A) has a gross vehicle weight rating of 10,000 pounds or less;
+
+    “(B) is rented without a driver for an initial term of less than 4 months; and
+
+    “(C) is part of a motor vehicle fleet of 35 or more motor vehicles that are used for rental purposes by a rental company.”; and
+
+    (4) by inserting after paragraph (10), as redesignated, the following:
+
+    “(11) ‘rental company’ means a person who—
+
+    “(A) is engaged in the business of renting covered rental vehicles; and
+
+    “(B) uses for rental purposes a motor vehicle fleet of 35 or more covered rental vehicles, on average, during the calendar year.”
+
+    See 2015 Amendment notes below.
 
 <table>
 
@@ -331,17 +359,47 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 159; added Oct. 27, 1974, Pu
 
  __Amendments__ 
 
+    2015—Subsec. (a)(1). [Pub. L. 114–94, § 24109(b)(3)][/us/pl/114/94/s24109/b/3], added par. (1). Former par. (1) redesignated (2).
+
+    Subsec. (a)(2) to (10). [Pub. L. 114–94, § 24109(b)(2)][/us/pl/114/94/s24109/b/2], redesignated pars. (1) to (9) as (2) to (10), respectively. Former par. (10) redesignated (12).
+
+    Subsec. (a)(11). [Pub. L. 114–94, § 24109(b)(4)][/us/pl/114/94/s24109/b/4], added par. (11). Former par. (11) redesignated (13).
+
+    Subsec. (a)(12), (13). [Pub. L. 114–94, § 24109(b)(1)][/us/pl/114/94/s24109/b/1], redesignated pars. (10) and (11) as (12) and (13), respectively.
+
     2012—Subsec. (a)(7)(C). [Pub. L. 112–141][/us/pl/112/141] amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “any device or an article or apparel (except medicine or eyeglasses prescribed by a licensed practitioner) that is not a system, part, or component of a motor vehicle and is manufactured, sold, delivered, offered, or intended to be used only to safeguard motor vehicles and highway users against risk of accident, injury, or death.”
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–94, div. B, title XXIV, § 24109(k)][/us/pl/114/94/s24109/k], Dec. 4, 2015, [129 Stat. 1709][/us/stat/129/1709], provided that: 
+
+> “The amendments made by this section \[amending this section and sections 30120, 30122, and 30166 of this title\] shall take effect on the date that is 180 days after the date of enactment of this Act \[Dec. 4, 2015\].”
 
  __Effective Date of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23][/us/usc/t23/s101], Highways.
 
+ __Rule of Construction__ 
+
+[Pub. L. 114–94, div. B, title XXIV, § 24109(i)][/us/pl/114/94/s24109/i], Dec. 4, 2015, [129 Stat. 1708][/us/stat/129/1708], provided that: 
+
+> “Nothing in this section \[amending this section and sections 30120, 30122, and 30166 of this title and enacting provisions set out as notes under this section and [section 30101 of this title][/us/usc/t49/s30101]\] or the amendments made by this section—
+
+>     “(1) may be construed to create or increase any liability, including for loss of use, for a manufacturer as a result of having manufactured or imported a motor vehicle subject to a notification of defect or noncompliance under subsection (b) or (c) of [section 30118 of title 49][/us/usc/t49/s30118], United States Code; or
+
+>     “(2) shall supersede or otherwise affect the contractual obligations, if any, between such a manufacturer and a rental company (as defined in [section 30102(a) of title 49][/us/usc/t49/s30102/a], United States Code).”
+
+ __Rulemaking__ 
+
+[Pub. L. 114–94, div. B, title XXIV, § 24109(j)][/us/pl/114/94/s24109/j], Dec. 4, 2015, [129 Stat. 1708][/us/stat/129/1708], provided that: 
+
+> “The Secretary \[probably means Secretary of Transportation\] may promulgate rules, as appropriate, to implement this section \[amending this section and sections 30120, 30122, and 30166 of this title and enacting provisions set out as notes under this section and [section 30101 of this title][/us/usc/t49/s30101]\] and the amendments made by this section.”
+
  __Low-Speed Electric Bicycles__ 
 
 [Pub. L. 107–319, § 2][/us/pl/107/319/s2], Dec. 4, 2002, [116 Stat. 2776][/us/stat/116/2776], provided that: 
 
-> “For purposes of motor vehicle safety standards issued and enforced pursuant to chapter 301 of title 49, United States Code, a low-speed electric bicycle (as defined in section 38(b) of the Consumer Product Safety Act \[[15 U.S.C. 2085(b)][/us/usc/t15/s2085/b]\]) shall not be considered a motor vehicle as defined by [section 30102(6) of title 49][/us/usc/t49/s30102/6], United States Code.”
+> “For purposes of motor vehicle safety standards issued and enforced pursuant to chapter 301 of title 49, United States Code, a low-speed electric bicycle (as defined in section 38(b) of the Consumer Product Safety Act \[[15 U.S.C. 2085(b)][/us/usc/t15/s2085/b]\]) shall not be considered a motor vehicle as defined by section 30102\[(a)\](6) of title 49, United States Code.”
 
 ----------
 
@@ -354,15 +412,32 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, § 159; added Oct. 27, 1974, Pu
 [/us/stat/108/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F941
 [/us/pl/112/141/s31201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31201
 [/us/stat/126/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F757
+[/us/pl/114/94/s24109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fb
+[/us/stat/129/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1706
+[/us/pl/114/94/s24109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fb
+[/us/stat/129/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1706
 [/us/pl/94/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F241
 [/us/stat/90/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F268
+[/us/pl/114/94/s24109/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fb%2F3
+[/us/pl/114/94/s24109/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fb%2F2
+[/us/pl/114/94/s24109/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fb%2F4
+[/us/pl/114/94/s24109/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fb%2F1
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/114/94/s24109/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fk
+[/us/stat/129/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1709
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/114/94/s24109/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fi
+[/us/stat/129/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1708
+[/us/usc/t49/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30101
+[/us/usc/t49/s30118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30118
+[/us/usc/t49/s30102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30102%2Fa
+[/us/pl/114/94/s24109/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fj
+[/us/stat/129/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1708
+[/us/usc/t49/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30101
 [/us/pl/107/319/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F319%2Fs2
 [/us/stat/116/2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2776
 [/us/usc/t15/s2085/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2085%2Fb
-[/us/usc/t49/s30102/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30102%2F6
 
 

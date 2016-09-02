@@ -83,13 +83,25 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24711" data-uslm-ref="/us/usc/t49/s24711">24711.</a>  </td>
 
-    <td> Alternate passenger rail service pilot program.  </td>
+    <td> Competitive passenger rail service pilot program.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24712" data-uslm-ref="/us/usc/t49/s24712">24712.</a>  </td>
+
+    <td> State-supported routes operated by Amtrak.  </td>
 
   </tr>
 
 </table>
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–94, div. A, title XI, § 11307(b)][/us/pl/114/94/s11307/b], Dec. 4, 2015, [129 Stat. 1664][/us/stat/129/1664], which directed the general amendment of the analysis for [section 24711 of title 49][/us/usc/t49/s24711], was executed to the analysis for this chapter, to reflect the probable intent of Congress. Prior to amendment, item 24711 read as follows: “Alternate passenger rail service pilot program”.
+
+    [Pub. L. 114–94, div. A, title XI, § 11204(b)(1)][/us/pl/114/94/s11204/b/1], Dec. 4, 2015, [129 Stat. 1637][/us/stat/129/1637], added item 24712.
 
     2008—[Pub. L. 110–432, div. B, title II][/us/pl/110/432], §§ 201(b)(2), 210(b), 214(c), Oct. 16, 2008, [122 Stat. 4910][/us/stat/122/4910], 4920, 4929, added items 24702, 24710, and 24711.
 
@@ -102,6 +114,11 @@
 ----------
 ----------
 
+[/us/pl/114/94/s11307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11307%2Fb
+[/us/stat/129/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1664
+[/us/usc/t49/s24711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24711
+[/us/pl/114/94/s11204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11204%2Fb%2F1
+[/us/stat/129/1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1637
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/stat/122/4910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4910
 [/us/pl/105/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134

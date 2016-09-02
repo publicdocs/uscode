@@ -23,7 +23,7 @@
 
         (2)  __Contents__  __.—__ 
 
-        The statewide transportation plan and the transportation improvement program developed for each State shall provide for the development and integrated management and operation of transportation systems and facilities (including accessible pedestrian walkways and bicycle transportation facilities) that will function as an intermodal transportation system for the State and an integral part of an intermodal transportation system for the United States.
+        The statewide transportation plan and the transportation improvement program developed for each State shall provide for the development and integrated management and operation of transportation systems and facilities (including accessible pedestrian walkways, bicycle transportation facilities, and intermodal facilities that support intercity transportation, including intercity buses and intercity bus facilities and commuter vanpool providers) that will function as an intermodal transportation system for the State and an integral part of an intermodal transportation system for the United States.
 
         (3)  __Process of development__  __.—__ 
 
@@ -65,9 +65,11 @@
 
             (F) enhance the integration and connectivity of the transportation system, across and between modes throughout the State, for people and freight;
 
-            (G) promote efficient system management and operation; and
+            (G) promote efficient system management and operation;
 
-            (H) emphasize the preservation of the existing transportation system.
+            (H) emphasize the preservation of the existing transportation system; and
+
+            (I) improve the resiliency and reliability of the transportation system.
 
         (2) __Performance-based approach.—__ 
 
@@ -89,11 +91,11 @@
 
                 (ii)  __Public transportation performance targets__  __.—__ 
 
-                In urbanized areas with a population of fewer than 200,000 individuals, as calculated according to the most recent decennial census, and not represented by a metropolitan planning organization, selection of performance targets by a State shall be coordinated, to the maximum extent practicable, with providers of public transportation to ensure consistency with sections 5326(c) and 5329(d).
+                In areas with a population of fewer than 200,000 individuals, as calculated according to the most recent decennial census, and not represented by a metropolitan planning organization, selection of performance targets by a State shall be coordinated, to the maximum extent practicable, with providers of public transportation to ensure consistency with sections 5326(c) and 5329(d).
 
             (C)  __Integration of other performance-based plans__  __.—__ 
 
-            A State shall integrate into the statewide transportation planning process, directly or by reference, the goals, objectives, performance measures, and targets described in this paragraph, in other State transportation plans and transportation processes, as well as any plans developed pursuant to title 23 by providers of public transportation in urbanized areas with a population of fewer than 200,000 individuals, as calculated according to the most recent decennial census, and not represented by a metropolitan planning organization, required as part of a performance-based program.
+            A State shall integrate into the statewide transportation planning process, directly or by reference, the goals, objectives, performance measures, and targets described in this paragraph, in other State transportation plans and transportation processes, as well as any plans developed pursuant to title 23 by providers of public transportation in areas with a population of fewer than 200,000 individuals, as calculated according to the most recent decennial census, and not represented by a metropolitan planning organization, required as part of a performance-based program.
 
             (D)  __Use of performance measures and targets__  __.—__ 
 
@@ -157,7 +159,7 @@
 
                 (i) nonmetropolitan local elected officials, or, if applicable, through regional transportation planning organizations described in subsection (l), an opportunity to participate in accordance with subparagraph (B)(i); and
 
-                (ii) citizens, affected public agencies, representatives of public transportation employees, freight shippers, private providers of transportation, representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, providers of freight transportation services, and other interested parties a reasonable opportunity to comment on the proposed plan.
+                (ii) citizens, affected public agencies, representatives of public transportation employees, public ports, freight shippers, private providers of transportation (including intercity bus operators, employer-based commuting programs, such as a carpool program, vanpool program, transit benefit program, parking cash-out program, shuttle program, or telework program), representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, providers of freight transportation services, and other interested parties a reasonable opportunity to comment on the proposed plan.
 
             (B)  __Methods__  __.—__ 
 
@@ -429,7 +431,7 @@
 
         If a State chooses not to establish or designate a regional transportation planning organization, the State shall consult with affected nonmetropolitan local officials to determine projects that may be of regional significance.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 793][/us/stat/108/793]; [Pub. L. 105–178, title III, § 3005][/us/pl/105/178/s3005], June 9, 1998, [112 Stat. 345][/us/stat/112/345]; [Pub. L. 105–206, title IX, § 9009(c)(2)][/us/pl/105/206/s9009/c/2], July 22, 1998, [112 Stat. 854][/us/stat/112/854]; [Pub. L. 109–59, title III, § 3006(a)][/us/pl/109/59/s3006/a], Aug. 10, 2005, [119 Stat. 1559][/us/stat/119/1559]; [Pub. L. 112–141, div. B, § 20006][/us/pl/112/141/s20006], July 6, 2012, [126 Stat. 643][/us/stat/126/643].)
+([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 793][/us/stat/108/793]; [Pub. L. 105–178, title III, § 3005][/us/pl/105/178/s3005], June 9, 1998, [112 Stat. 345][/us/stat/112/345]; [Pub. L. 105–206, title IX, § 9009(c)(2)][/us/pl/105/206/s9009/c/2], July 22, 1998, [112 Stat. 854][/us/stat/112/854]; [Pub. L. 109–59, title III, § 3006(a)][/us/pl/109/59/s3006/a], Aug. 10, 2005, [119 Stat. 1559][/us/stat/119/1559]; [Pub. L. 112–141, div. B, § 20006][/us/pl/112/141/s20006], July 6, 2012, [126 Stat. 643][/us/stat/126/643]; [Pub. L. 114–94, div. A, title III, § 3003(b)][/us/pl/114/94/s3003/b], Dec. 4, 2015, [129 Stat. 1449][/us/stat/129/1449].)
 
 <table>
 
@@ -549,6 +551,16 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 8(h); added Nov. 6, 1978, Pub
 
  __Amendments__ 
 
+    2015—Subsec. (a)(2). [Pub. L. 114–94, § 3003(b)(1)][/us/pl/114/94/s3003/b/1], substituted “, bicycle transportation facilities, and intermodal facilities that support intercity transportation, including intercity buses and intercity bus facilities and commuter vanpool providers” for “and bicycle transportation facilities”.
+
+    Subsec. (d)(1)(I). [Pub. L. 114–94, § 3003(b)(2)(A)][/us/pl/114/94/s3003/b/2/A], added subpar. (I).
+
+    Subsec. (d)(2)(B)(ii). [Pub. L. 114–94, § 3003(b)(2)(B)(i)][/us/pl/114/94/s3003/b/2/B/i], struck out “urbanized” after “In”.
+
+    Subsec. (d)(2)(C). [Pub. L. 114–94, § 3003(b)(2)(B)(ii)][/us/pl/114/94/s3003/b/2/B/ii], struck out “urbanized” after “public transportation in”.
+
+    Subsec. (f)(3)(A)(ii). [Pub. L. 114–94, § 3003(b)(3)][/us/pl/114/94/s3003/b/3], inserted “public ports,” before “freight shippers,” and “(including intercity bus operators, employer-based commuting programs, such as a carpool program, vanpool program, transit benefit program, parking cash-out program, shuttle program, or telework program)” after “private providers of transportation”.
+
     2012—[Pub. L. 112–141][/us/pl/112/141] amended section generally. Prior to amendment, section related to statewide transportation planning and consisted of subsecs. (a) to (j).
 
     2005—[Pub. L. 109–59][/us/pl/109/59] amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (e) relating to development and updating of a transportation improvement program, contents of program, selection of projects, notice and an opportunity to comment on proposed programs, and conformance of review requirements under the National Environmental Policy Act of 1969.
@@ -574,6 +586,10 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 8(h); added Nov. 6, 1978, Pub
     [Pub. L. 105–178, § 3005(c)(2)][/us/pl/105/178/s3005/c/2], added par. (4).
 
     Subsec. (c)(5), (6). [Pub. L. 105–178, § 3005(c)(2)][/us/pl/105/178/s3005/c/2], added pars. (5) and (6).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -611,6 +627,8 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 8(h); added Nov. 6, 1978, Pub
 [/us/stat/119/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1559
 [/us/pl/112/141/s20006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20006
 [/us/stat/126/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F643
+[/us/pl/114/94/s3003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3003%2Fb
+[/us/stat/129/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1449
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
@@ -619,6 +637,11 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 8(h); added Nov. 6, 1978, Pub
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
+[/us/pl/114/94/s3003/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3003%2Fb%2F1
+[/us/pl/114/94/s3003/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3003%2Fb%2F2%2FA
+[/us/pl/114/94/s3003/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3003%2Fb%2F2%2FB%2Fi
+[/us/pl/114/94/s3003/b/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3003%2Fb%2F2%2FB%2Fii
+[/us/pl/114/94/s3003/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3003%2Fb%2F3
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/105/178/s3005/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3005%2Fd%2F1
@@ -638,6 +661,9 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 8(h); added Nov. 6, 1978, Pub
 [/us/pl/105/206/s9009/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9009%2Fc%2F2
 [/us/pl/105/178/s3005/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3005%2Fc%2F2
 [/us/pl/105/178/s3005/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3005%2Fc%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

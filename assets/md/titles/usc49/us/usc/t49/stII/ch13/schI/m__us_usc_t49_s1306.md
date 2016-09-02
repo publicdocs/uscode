@@ -1,7 +1,7 @@
 ---
 ---
 
-# 49 U.S.C., USLM ref /us/usc/t49/s706
+# 49 U.S.C., USLM ref /us/usc/t49/s1306
 
 * Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
   Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
@@ -11,9 +11,9 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stI/ch7/schI/m__us_usc_t49_s705.md) | [Next](./../../../../../..//us/usc/t49/stI/ch7/schII/m__us_usc_t49_stI_ch7_schII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs706)
+[Previous](./../../../../../..//us/usc/t49/stII/ch13/schI/m__us_usc_t49_s1305.md) | [Next](./../../../../../..//us/usc/t49/stII/ch13/schII/m__us_usc_t49_stII_ch13_schII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1306)
 
-## § 706. Reporting official action
+## § 1306. Reporting official action
 
     (a)  __Reports on Proceedings__  __.—__ 
 
@@ -33,11 +33,15 @@
 
         (2) If an individual member of a group taking an official action referred to in paragraph (1) does not participate in it, the written statement of the action shall indicate that the member did not participate. An individual participating in taking an official action is entitled to express the views of that individual as part of the written statement of the action. In addition to any publication of the written statement, it shall be made available to the public under [section 552(a) of title 5][/us/usc/t5/s552/a].
 
-(Added [Pub. L. 104–88, title II, § 201(a)][/us/pl/104/88/s201/a], Dec. 29, 1995, [109 Stat. 934][/us/stat/109/934].)
+(Added [Pub. L. 104–88, title II, § 201(a)][/us/pl/104/88/s201/a], Dec. 29, 1995, [109 Stat. 934][/us/stat/109/934], § 706; renumbered § 1306, [Pub. L. 114–110, § 3(a)(3)][/us/pl/114/110/s3/a/3], Dec. 18, 2015, [129 Stat. 2228][/us/stat/129/2228].)
+
+ __Amendments__ 
+
+    2015—[Pub. L. 114–110][/us/pl/114/110] renumbered [section 706 of this title][/us/usc/t49/s706] as this section.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stI/ch7/schI/m__us_usc_t49_s705.md) | [Next](./../../../../../..//us/usc/t49/stI/ch7/schII/m__us_usc_t49_stI_ch7_schII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs706)
+[Previous](./../../../../../..//us/usc/t49/stII/ch13/schI/m__us_usc_t49_s1305.md) | [Next](./../../../../../..//us/usc/t49/stII/ch13/schII/m__us_usc_t49_stII_ch13_schII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1306)
 
 ----------
 ----------
@@ -45,5 +49,9 @@
 [/us/usc/t5/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fa
 [/us/pl/104/88/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs201%2Fa
 [/us/stat/109/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F934
+[/us/pl/114/110/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110%2Fs3%2Fa%2F3
+[/us/stat/129/2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2228
+[/us/pl/114/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F110
+[/us/usc/t49/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs706
 
 

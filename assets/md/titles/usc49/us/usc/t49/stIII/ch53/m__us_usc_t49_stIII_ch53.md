@@ -115,15 +115,15 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs5312" data-uslm-ref="/us/usc/t49/s5312">5312.</a>  </td>
 
-    <td> Research, development, demonstration, and deployment projects.  </td>
+    <td> Public transportation innovation.  </td>
 
   </tr>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs5313" data-uslm-ref="/us/usc/t49/s5313">5313.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs5313" data-uslm-ref="/us/usc/t49/s5313">5313.</a>  </td>
 
-    <td> Transit cooperative research program.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -131,7 +131,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs5314" data-uslm-ref="/us/usc/t49/s5314">5314.</a>  </td>
 
-    <td> Technical assistance and standards development.  </td>
+    <td> Technical assistance and workforce development.  </td>
 
   </tr>
 
@@ -161,9 +161,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs5319" data-uslm-ref="/us/usc/t49/s5319">5319.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs5319" data-uslm-ref="/us/usc/t49/s5319">5319.</a>  </td>
 
-    <td> Bicycle facilities.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -185,9 +185,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs5322" data-uslm-ref="/us/usc/t49/s5322">5322.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs5322" data-uslm-ref="/us/usc/t49/s5322">5322.</a>  </td>
 
-    <td> Human resources and training.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -323,7 +323,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs5339" data-uslm-ref="/us/usc/t49/s5339">5339.</a>  </td>
 
-    <td> Bus and bus facilities formula grants.  </td>
+    <td> Grants for buses and bus facilities.  </td>
 
   </tr>
 
@@ -338,6 +338,8 @@
 </table>
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–94, div. A, title III][/us/pl/114/94], §§ 3008(c), 3009(b), 3017(b), 3030(b)–(d), Dec. 4, 2015, [129 Stat. 1469][/us/stat/129/1469], 1473, 1487, 1496, 1497, substituted “Public transportation innovation” for “Research, development, demonstration, and deployment projects” in item 5312, “Technical assistance and workforce development” for “Technical assistance and standards development” in item 5314, and “Grants for buses and bus facilities” for “Bus and bus facilities formula grants” in item 5339, and struck out item 5313 “Transit cooperative research program”, item 5319 “Bicycle facilities”, and item 5322 “Human resources and training”.
 
     2012—[Pub. L. 112–141, div. B, § 20030(k)][/us/pl/112/141/s20030/k], July 6, 2012, [126 Stat. 731][/us/stat/126/731], amended generally the analysis for this chapter, adding item 5326, substituting “Policies and purposes” for “Policies, findings, and purposes” in item 5301, “Statewide and nonmetropolitan transportation planning” for “Statewide transportation planning” in item 5304, “Fixed guideway capital investment grants” for “Capital investment grants” in item 5309, “Formula grants for the enhanced mobility of seniors and individuals with disabilities” for “Formula grants for special needs of elderly individuals and individuals with disabilities” in item 5310, “Formula grants for rural areas” for “Formula grants for other than urbanized areas” in item 5311, “Technical assistance and standards development” for “National research programs” in item 5314, “Private sector participation” for “National transit institute” in item 5315, “Human resources and training” for “Human resource programs” in item 5322, “General provisions” for “General provisions on assistance” in item 5323, “Public transportation emergency relief program” for “Special provisions for capital projects” in item 5324, “Public transportation safety program” for “Investigations of safety hazards and security risks” in item 5329, “State of good repair grants” for “Apportionment based on fixed guideway factors” in item 5337, and “Bus and bus facilities formula grants” for “Alternatives analysis program” in item 5339, and striking out items 5308 “Clean fuels grant program”, 5316 “Job access and reverse commute formula grants”, 5317 “New freedom program”, 5320 “Alternative transportation in parks and public lands, and 5328 “Project review”.
 
@@ -358,6 +360,8 @@
 ----------
 ----------
 
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1469
 [/us/pl/112/141/s20030/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20030%2Fk
 [/us/stat/126/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F731
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59

@@ -237,6 +237,18 @@ Jan. 6, 1983, Pub. L. 97–424, § 310, 96 Stat. 2151.  </td>
 
     Subsecs. (d), (e). [Pub. L. 98–216, § 2(1)(A)(iii)][/us/pl/98/216/s2/1/A/iii], added subsecs. (d) and (e).
 
+ __Availability of Reports__ 
+
+[Pub. L. 114–94, div. A, title I, § 1434][/us/pl/114/94/s1434], Dec. 4, 2015, [129 Stat. 1430][/us/stat/129/1430], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Secretary \[of Transportation\] shall make available to the public on the website of the Department any report required to be submitted by the Secretary to Congress after the date of enactment of this Act \[Dec. 4, 2015\].
+
+>     “(b)  __Deadline__  __.—__ 
+
+>     Each report described in subsection (a) shall be made available on the website not later than 30 days after the report is submitted to Congress.”
+
  __Termination of Reporting Requirements__ 
 
     For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reporting provisions contained in subsecs. (a) and (b) of this section and, as subsequently amended, subsec. (e) of this section, are listed, respectively, as the 11th item on page 133, the last item on page 132, and the 5th item on page 138), see [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance.
@@ -274,6 +286,8 @@ Jan. 6, 1983, Pub. L. 97–424, § 310, 96 Stat. 2151.  </td>
 [/us/pl/98/216/s2/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs2%2F1%2FA%2Fi
 [/us/pl/98/216/s2/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs2%2F1%2FA%2Fii
 [/us/pl/98/216/s2/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F216%2Fs2%2F1%2FA%2Fiii
+[/us/pl/114/94/s1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1434
+[/us/stat/129/1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1430
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/pl/100/202/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101

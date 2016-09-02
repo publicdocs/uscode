@@ -41,8 +41,6 @@
 
         (11) A compilation of studies and reports on high-speed rail corridor development within the State not included in a previous plan under this subchapter, <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “chapter,”. </sup></sup>  and a plan for funding any recommended development of such corridors in the State.
 
-        (12) A statement that the State is in compliance with the requirements of section 22102.
-
     (b) __Long-Range Service and Investment Program.—__ 
 
         (1)  __Program content__  __.—__ 
@@ -85,7 +83,15 @@
 
             (G) Projected ridership and other service measures for passenger rail projects.
 
-(Added [Pub. L. 110–432, div. B, title III, § 303(a)][/us/pl/110/432/s303/a], Oct. 16, 2008, [122 Stat. 4949][/us/stat/122/4949].)
+(Added [Pub. L. 110–432, div. B, title III, § 303(a)][/us/pl/110/432/s303/a], Oct. 16, 2008, [122 Stat. 4949][/us/stat/122/4949]; amended [Pub. L. 114–94, div. A, title XI, § 11315(a)(2)][/us/pl/114/94/s11315/a/2], Dec. 4, 2015, [129 Stat. 1674][/us/stat/129/1674].)
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(12). [Pub. L. 114–94][/us/pl/114/94] struck out par. (12) which read as follows: “A statement that the State is in compliance with the requirements of section 22102.”
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
 ----------
 
@@ -97,5 +103,11 @@
 [/us/usc/t23/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs130
 [/us/pl/110/432/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs303%2Fa
 [/us/stat/122/4949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4949
+[/us/pl/114/94/s11315/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11315%2Fa%2F2
+[/us/stat/129/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1674
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 
 

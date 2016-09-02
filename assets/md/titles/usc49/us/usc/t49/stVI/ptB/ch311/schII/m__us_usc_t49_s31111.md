@@ -21,7 +21,7 @@
 
         (1)  __Automobile transporter__  __.—__ 
 
-        The term “automobile transporter” means any vehicle combination designed and used specifically for the transport of assembled highway vehicles, including truck camper units.
+        The term “automobile transporter” means any vehicle combination designed and used for the transport of assembled highway vehicles, including truck camper units. An automobile transporter shall not be prohibited from the transport of cargo or general freight on a backhaul, so long as it complies with weight limitations for a truck tractor and semitrailer combination.
 
         (2)  __Maxi-cube vehicle__  __.—__ 
 
@@ -33,11 +33,27 @@
 
             (A) a non-property-carrying power unit that operates in combination with a semitrailer or trailer; or
 
-            (B) a power unit that carries as property only motor vehicles when operating in combination with a semitrailer in transporting motor vehicles.
+            (B) a power unit that carries as property motor vehicles when operating in combination with a semitrailer in transporting motor vehicles or any other commodity, including cargo or general freight on a backhaul.
 
         (4)  __Driveaway saddlemount vehicle transporter combination__  __.—__ 
 
         The term “driveaway saddlemount vehicle transporter combination” means a vehicle combination designed and specifically used to tow up to 3 trucks or truck tractors, each connected by a saddle to the frame or fifth-wheel of the forward vehicle of the truck or truck tractor in front of it. Such combination may include one fullmount.
+
+        (5)  __Backhaul__  __.—__ 
+
+        The term “backhaul” means the return trip of a vehicle transporting cargo or general freight, especially when carrying goods back over all or part of the same route.
+
+        (6)  __Trailer transporter towing unit__  __.—__ 
+
+        The term “trailer transporter towing unit” means a power unit that is not used to carry property when operating in a towaway trailer transporter combination.
+
+        (7)  __Towaway trailer transporter combination__  __.—__ 
+
+        The term “towaway trailer transporter combination” means a combination of vehicles consisting of a trailer transporter towing unit and 2 trailers or semitrailers—
+
+            (A) with a total weight that does not exceed 26,000 pounds; and
+
+            (B) in which the trailers or semitrailers carry no property and constitute inventory property of a manufacturer, distributor, or dealer of such trailers or semitrailers.
 
     (b)  __General Limitations__  __.—__ 
 
@@ -53,9 +69,13 @@
 
             (D) imposes a vehicle length limitation of not less than or more than 97 feet on all driveaway saddlemount vehicle transporter combinations;
 
-            (E) has the effect of prohibiting the use of an existing semitrailer or trailer, of not more than 28.5 feet in length, in a truck tractor-semitrailer-trailer combination if the semitrailer or trailer was operating lawfully on December 1, 1982, within a 65-foot overall length limit in any State; or
+            (E) has the effect of prohibiting the use of an existing semitrailer or trailer, of not more than 28.5 feet in length, in a truck tractor-semitrailer-trailer combination if the semitrailer or trailer was operating lawfully on December 1, 1982, within a 65-foot overall length limit in any State;
 
-            (F) imposes a limitation of less than 46 feet on the distance from the kingpin to the center of the rear axle on trailers used exclusively or primarily in connection with motorsports competition events.
+            (F) imposes a limitation of less than 46 feet on the distance from the kingpin to the center of the rear axle on trailers used exclusively or primarily in connection with motorsports competition events;
+
+            (G) imposes a vehicle length limitation of less than 80 feet on a stinger-steered automobile transporter with a front overhang of less than 4 feet and a rear overhang of less than 6 feet; or
+
+            (H) has the effect of imposing an overall length limitation of less than 82 feet on a towaway trailer transporter combination.
 
         (2) A length limitation prescribed or enforced by a State under paragraph (1)(A) of this subsection applies only to a semitrailer or trailer and not to a truck tractor.
 
@@ -91,7 +111,7 @@
 
     In prescribing regulations to carry out this section, the Secretary may make decisions necessary to accommodate specialized equipment, including automobile and vessel transporters and maxi-cube vehicles.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 993][/us/stat/108/993]; [Pub. L. 104–88, title I, § 104(b)][/us/pl/104/88/s104/b], Dec. 29, 1995, [109 Stat. 919][/us/stat/109/919]; [Pub. L. 105–178, title IV, § 4005][/us/pl/105/178/s4005], June 9, 1998, [112 Stat. 400][/us/stat/112/400]; [Pub. L. 109–59, title IV, § 4141][/us/pl/109/59/s4141], Aug. 10, 2005, [119 Stat. 1746][/us/stat/119/1746]; [Pub. L. 110–244, title III, § 301(r)][/us/pl/110/244/s301/r], June 6, 2008, [122 Stat. 1617][/us/stat/122/1617].)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 993][/us/stat/108/993]; [Pub. L. 104–88, title I, § 104(b)][/us/pl/104/88/s104/b], Dec. 29, 1995, [109 Stat. 919][/us/stat/109/919]; [Pub. L. 105–178, title IV, § 4005][/us/pl/105/178/s4005], June 9, 1998, [112 Stat. 400][/us/stat/112/400]; [Pub. L. 109–59, title IV, § 4141][/us/pl/109/59/s4141], Aug. 10, 2005, [119 Stat. 1746][/us/stat/119/1746]; [Pub. L. 110–244, title III, § 301(r)][/us/pl/110/244/s301/r], June 6, 2008, [122 Stat. 1617][/us/stat/122/1617]; [Pub. L. 114–94, div. A, title V][/us/pl/114/94], §§ 5520, 5523(a), (b), Dec. 4, 2015, [129 Stat. 1558–1560][/us/stat/129/1558-1560].)
 
 <table>
 
@@ -299,6 +319,18 @@ Jan. 6, 1983, Pub. L. 97–424, § 411(d), 96 Stat. 2160; Apr. 2, 1987, Pub. L
 
  __Amendments__ 
 
+    2015—Subsec. (a)(1). [Pub. L. 114–94, § 5520(a)][/us/pl/114/94/s5520/a], struck out “specifically” before “for the transport” and inserted at end “An automobile transporter shall not be prohibited from the transport of cargo or general freight on a backhaul, so long as it complies with weight limitations for a truck tractor and semitrailer combination.”
+
+    Subsec. (a)(3)(B). [Pub. L. 114–94, § 5520(b)][/us/pl/114/94/s5520/b], struck out “only” before “motor vehicles when operating” and inserted “or any other commodity, including cargo or general freight on a backhaul” before period at end.
+
+    Subsec. (a)(5). [Pub. L. 114–94, § 5520(c)][/us/pl/114/94/s5520/c], added par. (5).
+
+    Subsec. (a)(6), (7). [Pub. L. 114–94, § 5523(a)][/us/pl/114/94/s5523/a], added pars. (6) and (7).
+
+    Subsec. (b)(1)(G). [Pub. L. 114–94, § 5520(d)][/us/pl/114/94/s5520/d], added subpar. (G).
+
+    Subsec. (b)(1)(H). [Pub. L. 114–94, § 5523(b)][/us/pl/114/94/s5523/b], added subpar. (H).
+
     2008—Subsec. (a)(4). [Pub. L. 110–244, § 301(r)(1)][/us/pl/110/244/s301/r/1], in heading, substituted “Driveaway saddlemount” for “Drive-away saddlemount with fullmount”, and, in text, substituted “driveaway saddlemount” for “drive-away saddlemount with fullmount” and inserted at end “Such combination may include one fullmount.”
 
     Subsec. (b)(1)(D). [Pub. L. 110–244, § 301(r)(2)][/us/pl/110/244/s301/r/2], substituted “all driveaway saddlemount” for “a driveaway saddlemount with fullmount”.
@@ -321,9 +353,13 @@ Jan. 6, 1983, Pub. L. 97–424, § 411(d), 96 Stat. 2160; Apr. 2, 1987, Pub. L
 
     1995—Subsec. (b)(1)(E). [Pub. L. 104–88][/us/pl/104/88] added subpar. (E).
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+
  __Effective Date of 1995 Amendment__ 
 
-    Amendment by [Pub. L. 104–88][/us/pl/104/88] effective Jan. 1, 1996, see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as an Effective Date note under [section 701 of this title][/us/usc/t49/s701].
+    Amendment by [Pub. L. 104–88][/us/pl/104/88] effective Jan. 1, 1996, see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as an Effective Date note under [section 1301 of this title][/us/usc/t49/s1301].
 
 ----------
 
@@ -342,8 +378,16 @@ Jan. 6, 1983, Pub. L. 97–424, § 411(d), 96 Stat. 2160; Apr. 2, 1987, Pub. L
 [/us/stat/119/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1746
 [/us/pl/110/244/s301/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fr
 [/us/stat/122/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1617
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1558-1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1558-1560
 [/us/pl/101/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F427
 [/us/stat/104/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F927
+[/us/pl/114/94/s5520/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5520%2Fa
+[/us/pl/114/94/s5520/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5520%2Fb
+[/us/pl/114/94/s5520/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5520%2Fc
+[/us/pl/114/94/s5523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5523%2Fa
+[/us/pl/114/94/s5520/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5520%2Fd
+[/us/pl/114/94/s5523/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5523%2Fb
 [/us/pl/110/244/s301/r/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fr%2F1
 [/us/pl/110/244/s301/r/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fr%2F2
 [/us/pl/109/59/s4141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4141%2Fa
@@ -355,8 +399,11 @@ Jan. 6, 1983, Pub. L. 97–424, § 411(d), 96 Stat. 2160; Apr. 2, 1987, Pub. L
 [/us/pl/105/178/s4005/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4005%2F3
 [/us/pl/105/178/s4005/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4005%2F4
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 
 

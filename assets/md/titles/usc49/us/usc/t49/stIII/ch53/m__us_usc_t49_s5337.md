@@ -85,7 +85,7 @@
 
         (1)  __In general__  __.—__ 
 
-        Of the amount authorized or made available under section 5338(a)(2)(I), 97.15 percent shall be apportioned to recipients in accordance with this subsection.
+        Of the amount authorized or made available under section 5338(a)(2)(K), 97.15 percent shall be apportioned to recipients in accordance with this subsection.
 
         (2) __Area share.—__ 
 
@@ -95,7 +95,7 @@
 
             (B)  __Share__  __.—__ 
 
-            A recipient shall receive an amount equal to the amount described in subparagraph (A), multiplied by the amount the recipient would have received under this section, as in effect for fiscal year 2011, if the amount had been calculated in accordance with section 5336(b)(1) and using the definition of the term “fixed guideway” under subsection (a) of this section, as such sections are in effect on the day after the date of enactment of the Federal Public Transportation Act of 2012, and divided by the total amount apportioned for all areas under this section for fiscal year 2011.
+            A recipient shall receive an amount equal to the amount described in subparagraph (A), multiplied by the amount the recipient would have received under this section, as in effect for fiscal year 2011, if the amount had been calculated in accordance with the provisions of section 5336(b)(1) and using the definition of the term “fixed guideway” under subsection (a) of this section, as such sections are in effect on the day after the date of enactment of the Federal Public Transportation Act of 2012, and divided by the total amount apportioned for all areas under this section for fiscal year 2011.
 
             (C)  __Recipient__  __.—__ 
 
@@ -151,7 +151,7 @@
 
         (2)  __Apportionment__  __.—__ 
 
-        Of the amount authorized or made available under section 5338(a)(2)(I), 2.85 percent shall be apportioned to urbanized areas for high intensity motorbus state of good repair in accordance with this subsection.
+        Of the amount authorized or made available under section 5338(a)(2)(K), 2.85 percent shall be apportioned to urbanized areas for high intensity motorbus vehicle state of good repair in accordance with this subsection.
 
         (3) __Vehicle revenue miles and directional route miles.—__ 
 
@@ -171,7 +171,27 @@
 
         For purposes of determining the number of high intensity motorbus vehicle revenue miles or high intensity motorbus directional route miles attributable to an urbanized area for a fiscal year under this subsection, only segments of high intensity motorbus systems placed in revenue service not later than 7 years before the first day of the fiscal year shall be deemed to be attributable to an urbanized area.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 844][/us/stat/108/844]; [Pub. L. 103–429, § 6(14)][/us/pl/103/429/s6/14], Oct. 31, 1994, [108 Stat. 4379][/us/stat/108/4379]; [Pub. L. 102–240, title III, § 3049(b)][/us/pl/102/240/s3049/b], as added [Pub. L. 105–130, § 8][/us/pl/105/130/s8], Dec. 1, 1997, [111 Stat. 2559][/us/stat/111/2559]; [Pub. L. 105–178, title III][/us/pl/105/178], §§ 3028, 3029(b)(12), June 9, 1998, [112 Stat. 366][/us/stat/112/366], 373; [Pub. L. 105–206, title IX, § 9009(p)][/us/pl/105/206/s9009/p], July 22, 1998, [112 Stat. 858][/us/stat/112/858]; [Pub. L. 108–88, § 8(b)(2)][/us/pl/108/88/s8/b/2], Sept. 30, 2003, [117 Stat. 1121][/us/stat/117/1121]; [Pub. L. 109–59, title III, § 3035(a)][/us/pl/109/59/s3035/a], Aug. 10, 2005, [119 Stat. 1629][/us/stat/119/1629]; [Pub. L. 110–244, title II, § 201(m)][/us/pl/110/244/s201/m], June 6, 2008, [122 Stat. 1611][/us/stat/122/1611]; [Pub. L. 111–147, title IV, § 435][/us/pl/111/147/s435], Mar. 18, 2010, [124 Stat. 89][/us/stat/124/89]; [Pub. L. 111–322, title II, § 2305][/us/pl/111/322/s2305], Dec. 22, 2010, [124 Stat. 3528][/us/stat/124/3528]; [Pub. L. 112–5, title III, § 305][/us/pl/112/5/s305], Mar. 4, 2011, [125 Stat. 19][/us/stat/125/19]; [Pub. L. 112–30, title I, § 135][/us/pl/112/30/s135], Sept. 16, 2011, [125 Stat. 352][/us/stat/125/352]; [Pub. L. 112–102, title III, § 305][/us/pl/112/102/s305], Mar. 30, 2012, [126 Stat. 277][/us/stat/126/277]; [Pub. L. 112–140, title III, § 305][/us/pl/112/140/s305], June 29, 2012, [126 Stat. 398][/us/stat/126/398]; [Pub. L. 112–141, div. B, § 20027][/us/pl/112/141/s20027], div. G, title III, § 113005, July 6, 2012, [126 Stat. 723][/us/stat/126/723], 985.)
+        (5)  __Use of funds__  __.—__ 
+
+        Amounts apportioned under this subsection may be used for any project that is an eligible project under subsection (b)(1).
+
+    (e) __Government Share of Costs.—__ 
+
+        (1)  __Capital projects__  __.—__ 
+
+        A grant for a capital project under this section shall be for 80 percent of the net project cost of the project. The recipient may provide additional local matching amounts.
+
+        (2)  __Remaining costs__  __.—__ 
+
+        The remainder of the net project cost shall be provided—
+
+            (A) in cash from non-Government sources;
+
+            (B) from revenues derived from the sale of advertising and concessions; or
+
+            (C) from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.
+
+([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 844][/us/stat/108/844]; [Pub. L. 103–429, § 6(14)][/us/pl/103/429/s6/14], Oct. 31, 1994, [108 Stat. 4379][/us/stat/108/4379]; [Pub. L. 102–240, title III, § 3049(b)][/us/pl/102/240/s3049/b], as added [Pub. L. 105–130, § 8][/us/pl/105/130/s8], Dec. 1, 1997, [111 Stat. 2559][/us/stat/111/2559]; [Pub. L. 105–178, title III][/us/pl/105/178], §§ 3028, 3029(b)(12), June 9, 1998, [112 Stat. 366][/us/stat/112/366], 373; [Pub. L. 105–206, title IX, § 9009(p)][/us/pl/105/206/s9009/p], July 22, 1998, [112 Stat. 858][/us/stat/112/858]; [Pub. L. 108–88, § 8(b)(2)][/us/pl/108/88/s8/b/2], Sept. 30, 2003, [117 Stat. 1121][/us/stat/117/1121]; [Pub. L. 109–59, title III, § 3035(a)][/us/pl/109/59/s3035/a], Aug. 10, 2005, [119 Stat. 1629][/us/stat/119/1629]; [Pub. L. 110–244, title II, § 201(m)][/us/pl/110/244/s201/m], June 6, 2008, [122 Stat. 1611][/us/stat/122/1611]; [Pub. L. 111–147, title IV, § 435][/us/pl/111/147/s435], Mar. 18, 2010, [124 Stat. 89][/us/stat/124/89]; [Pub. L. 111–322, title II, § 2305][/us/pl/111/322/s2305], Dec. 22, 2010, [124 Stat. 3528][/us/stat/124/3528]; [Pub. L. 112–5, title III, § 305][/us/pl/112/5/s305], Mar. 4, 2011, [125 Stat. 19][/us/stat/125/19]; [Pub. L. 112–30, title I, § 135][/us/pl/112/30/s135], Sept. 16, 2011, [125 Stat. 352][/us/stat/125/352]; [Pub. L. 112–102, title III, § 305][/us/pl/112/102/s305], Mar. 30, 2012, [126 Stat. 277][/us/stat/126/277]; [Pub. L. 112–140, title III, § 305][/us/pl/112/140/s305], June 29, 2012, [126 Stat. 398][/us/stat/126/398]; [Pub. L. 112–141, div. B, § 20027][/us/pl/112/141/s20027], div. G, title III, § 113005, July 6, 2012, [126 Stat. 723][/us/stat/126/723], 985; [Pub. L. 114–94, div. A, title III, § 3015][/us/pl/114/94/s3015], Dec. 4, 2015, [129 Stat. 1478][/us/stat/129/1478].)
 
 <table>
 
@@ -289,6 +309,16 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §3(h)(7); added Oct. 6, 1992, Pub
 
  __Amendments__ 
 
+    2015—Subsec. (c)(1). [Pub. L. 114–94, § 3015(b)(1)][/us/pl/114/94/s3015/b/1], substituted “5338(a)(2)(K)” for “5338(a)(2)(I)”.
+
+    Subsec. (c)(2)(B). [Pub. L. 114–94, § 3015(a)(1)][/us/pl/114/94/s3015/a/1], inserted “the provisions of” before “section 5336(b)(1)”.
+
+    Subsec. (d)(2). [Pub. L. 114–94, § 3015(a)(2)(A)][/us/pl/114/94/s3015/a/2/A], (b)(2), substituted “5338(a)(2)(K)” for “5338(a)(2)(I)” and inserted “vehicle” after “motorbus”.
+
+    Subsec. (d)(5). [Pub. L. 114–94, § 3015(a)(2)(B)][/us/pl/114/94/s3015/a/2/B], added par. (5).
+
+    Subsec. (e). [Pub. L. 114–94, § 3015(a)(3)][/us/pl/114/94/s3015/a/3], added subsec. (e).
+
     2012—[Pub. L. 112–141, § 20027][/us/pl/112/141/s20027], amended section generally. Prior to amendment, section related to apportionment based on fixed guideway factors.
 
     Subsec. (g). [Pub. L. 112–141, § 113005][/us/pl/112/141/s113005], struck out subsec. (g). Text read as follows: “The Secretary shall apportion amounts made available for fixed guideway modernization under section 5309 for the period beginning on October 1, 2011, and ending on June 30, 2012, in accordance with subsection (a), except that the Secretary shall apportion 75 percent of each dollar amount specified in subsection (a).”
@@ -332,6 +362,10 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §3(h)(7); added Oct. 6, 1992, Pub
     Subsec. (e). [Pub. L. 102–240, § 3049(b)(2)][/us/pl/102/240/s3049/b/2], as added by [Pub. L. 105–130][/us/pl/105/130], added subsec. (e).
 
     1994—Subsec. (a)(4). [Pub. L. 103–429][/us/pl/103/429] substituted “[section 5336(b)(2)(A) of this title][/us/usc/t49/s5336/b/2/A]” for “section 5336(B)(2)(A)”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective and Termination Dates of 2012 Amendment__ 
 
@@ -395,11 +429,18 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §3(h)(7); added Oct. 6, 1992, Pub
 [/us/stat/126/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F398
 [/us/pl/112/141/s20027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20027
 [/us/stat/126/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F723
+[/us/pl/114/94/s3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3015
+[/us/stat/129/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1478
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/stat/112/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F366
+[/us/pl/114/94/s3015/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3015%2Fb%2F1
+[/us/pl/114/94/s3015/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3015%2Fa%2F1
+[/us/pl/114/94/s3015/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3015%2Fa%2F2%2FA
+[/us/pl/114/94/s3015/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3015%2Fa%2F2%2FB
+[/us/pl/114/94/s3015/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs3015%2Fa%2F3
 [/us/pl/112/141/s20027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20027
 [/us/pl/112/141/s113005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs113005
 [/us/pl/112/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140
@@ -426,6 +467,9 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §3(h)(7); added Oct. 6, 1992, Pub
 [/us/pl/105/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F130
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/usc/t49/s5336/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5336%2Fb%2F2%2FA
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141/s20027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20027
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

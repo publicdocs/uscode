@@ -19,13 +19,13 @@
 
         (1)
 
-         The Amtrak Board of Directors (referred to in this section as the “Board”) is composed of the following 9 directors, each of whom must be a citizen of the United States:
+         The Amtrak Board of Directors (referred to in this section as the “Board”) is composed of the following 10 directors, each of whom must be a citizen of the United States:
 
             (A) The Secretary of Transportation.
 
-            (B) The President of Amtrak.
+            (B) The President of Amtrak, who shall serve as a nonvoting member of the Board.
 
-            (C) 7 individuals appointed by the President of the United States, by and with the advice and consent of the Senate, with general business and financial experience, experience or qualifications in transportation, freight and passenger rail transportation, travel, hospitality, cruise line, or passenger air transportation businesses, or representatives of employees or users of passenger rail transportation or a State government.
+            (C) 8 individuals appointed by the President of the United States, by and with the advice and consent of the Senate, with general business and financial experience, experience or qualifications in transportation, freight and passenger rail transportation, travel, hospitality, cruise line, or passenger air transportation businesses, or representatives of employees or users of passenger rail transportation or a State government.
 
         (2) In selecting individuals described in paragraph (1) for nominations for appointments to the Board, the President shall consult with the Speaker of the House of Representatives, the minority leader of the House of Representatives, the majority leader of the Senate, and the minority leader of the Senate and try to provide adequate and balanced representation of the major geographic regions of the United States served by Amtrak.
 
@@ -53,13 +53,13 @@
 
     (e)  __Quorum__  __.—__ 
 
-    A majority of the members serving shall constitute a quorum for doing business.
+    A majority of the members serving who are eligible to vote shall constitute a quorum for doing business.
 
     (f)  __Bylaws__  __.—__ 
 
     The Board may adopt and amend bylaws governing the operation of Amtrak. The bylaws shall be consistent with this part and the articles of incorporation.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 906][/us/stat/108/906]; [Pub. L. 105–134, title IV, § 411(a)][/us/pl/105/134/s411/a], Dec. 2, 1997, [111 Stat. 2588][/us/stat/111/2588]; [Pub. L. 110–432, div. B, title II, § 202(a)][/us/pl/110/432/s202/a], Oct. 16, 2008, [122 Stat. 4911][/us/stat/122/4911].)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 906][/us/stat/108/906]; [Pub. L. 105–134, title IV, § 411(a)][/us/pl/105/134/s411/a], Dec. 2, 1997, [111 Stat. 2588][/us/stat/111/2588]; [Pub. L. 110–432, div. B, title II, § 202(a)][/us/pl/110/432/s202/a], Oct. 16, 2008, [122 Stat. 4911][/us/stat/122/4911]; [Pub. L. 114–94, div. A, title XI, § 11205][/us/pl/114/94/s11205], Dec. 4, 2015, [129 Stat. 1637][/us/stat/129/1637].)
 
 <table>
 
@@ -281,9 +281,21 @@ Oct. 30, 1970, Pub. L. 91–518, § 303(b), (c), 84 Stat. 1331.  </td>
 
  __Amendments__ 
 
+    2015—Subsec. (a)(1). [Pub. L. 114–94, § 11205(1)(A)][/us/pl/114/94/s11205/1/A], substituted “10 directors” for “9 directors”.
+
+    Subsec. (a)(1)(B). [Pub. L. 114–94, § 11205(1)(B)][/us/pl/114/94/s11205/1/B], inserted “, who shall serve as a nonvoting member of the Board” after “Amtrak”.
+
+    Subsec. (a)(1)(C). [Pub. L. 114–94, § 11205(1)(C)][/us/pl/114/94/s11205/1/C], substituted “8” for “7”.
+
+    Subsec. (e). [Pub. L. 114–94, § 11205(2)][/us/pl/114/94/s11205/2], inserted “who are eligible to vote” after “serving”.
+
     2008—[Pub. L. 110–432][/us/pl/110/432] amended section generally. Prior to amendment, section related, in subsec. (a), to establishment, duties, membership, and confirmation procedure of Reform Board, in subsec. (b), to selection of the Board of Directors, and in subsec. (c), to authority of Reform Board to recommend to Congress a plan to implement transfer of Amtrak’s infrastructure assets and responsibilities to a new separately governed corporation.
 
     1997—[Pub. L. 105–134][/us/pl/105/134] amended section generally. Prior to amendment, section related, in subsec. (a), to composition and terms of Amtrak board of directors, in subsec. (b), to cumulative voting by stockholders, in subsec. (c), to conflicts of interest of directors, in subsec. (d), to pay and expenses of directors, in subsec. (e), to vacancies on board, and in subsec. (f), to bylaws of board.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -304,8 +316,17 @@ Oct. 30, 1970, Pub. L. 91–518, § 303(b), (c), 84 Stat. 1331.  </td>
 [/us/stat/111/2588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2588
 [/us/pl/110/432/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs202%2Fa
 [/us/stat/122/4911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4911
+[/us/pl/114/94/s11205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11205
+[/us/stat/129/1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1637
+[/us/pl/114/94/s11205/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11205%2F1%2FA
+[/us/pl/114/94/s11205/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11205%2F1%2FB
+[/us/pl/114/94/s11205/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11205%2F1%2FC
+[/us/pl/114/94/s11205/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11205%2F2
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
 [/us/pl/105/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/110/432/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs202%2Fb
 [/us/stat/122/4912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4912
 

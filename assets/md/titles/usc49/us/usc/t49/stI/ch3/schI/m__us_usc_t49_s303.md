@@ -21,7 +21,7 @@
 
     (c)  __Approval of Programs and Projects__  __.—__ 
 
-    Subject to subsection (d), the Secretary may approve a transportation program or project (other than any project for a park road or parkway under section 204  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 23) requiring the use of publicly owned land of a public park, recreation area, or wildlife and waterfowl refuge of national, State, or local significance, or land of an historic site of national, State, or local significance (as determined by the Federal, State, or local officials having jurisdiction over the park, area, refuge, or site) only if—
+    Subject to subsections (d) and (h), the Secretary may approve a transportation program or project (other than any project for a park road or parkway under section 204  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 23) requiring the use of publicly owned land of a public park, recreation area, or wildlife and waterfowl refuge of national, State, or local significance, or land of an historic site of national, State, or local significance (as determined by the Federal, State, or local officials having jurisdiction over the park, area, refuge, or site) only if—
 
         (1) there is no prudent and feasible alternative to using that land; and
 
@@ -67,7 +67,103 @@
 
             (B) the finding of the Secretary has received concurrence from the officials with jurisdiction over the park, recreation area, or wildlife or waterfowl refuge.
 
-([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2419][/us/stat/96/2419]; [Pub. L. 100–17, title I, § 133(d)][/us/pl/100/17/s133/d], Apr. 2, 1987, [101 Stat. 173][/us/stat/101/173]; [Pub. L. 109–59, title VI, § 6009(a)(2)][/us/pl/109/59/s6009/a/2], Aug. 10, 2005, [119 Stat. 1875][/us/stat/119/1875]; [Pub. L. 113–287, § 5(p)][/us/pl/113/287/s5/p], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272].)
+    (e) __Satisfaction of Requirements for Certain Historic Sites.—__ 
+
+        (1)  __In general__  __.—__ 
+
+        The Secretary shall—
+
+            (A) align, to the maximum extent practicable, the requirements of this section with the requirements of the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) and [section 306108 of title 54][/us/usc/t54/s306108], including implementing regulations; and
+
+            (B) not later than 90 days after the date of enactment of this subsection, coordinate with the Secretary of the Interior and the Executive Director of the Advisory Council on Historic Preservation (referred to in this subsection as the “Council”) to establish procedures to satisfy the requirements described in subparagraph (A) (including regulations).
+
+        (2) __Avoidance alternative analysis.—__ 
+
+            (A)  __In general__  __.—__ 
+
+            If, in an analysis required under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.), the Secretary determines that there is no feasible or prudent alternative to avoid use of a historic site, the Secretary may—
+
+                (i) include the determination of the Secretary in the analysis required under that Act;
+
+                (ii)
+
+                 provide a notice of the determination to—
+
+                    (I) each applicable State historic preservation officer and tribal historic preservation officer;
+
+                    (II) the Council, if the Council is participating in the consultation process under [section 306108 of title 54][/us/usc/t54/s306108]; and
+
+                    (III) the Secretary of the Interior; and
+
+                (iii) request from the applicable preservation officer, the Council, and the Secretary of the Interior a concurrence that the determination is sufficient to satisfy subsection (c)(1).
+
+            (B)  __Concurrence__  __.—__ 
+
+            If the applicable preservation officer, the Council, and the Secretary of the Interior each provide a concurrence requested under subparagraph (A)(iii), no further analysis under subsection (c)(1) shall be required.
+
+            (C)  __Publication__  __.—__ 
+
+            A notice of a determination, together with each relevant concurrence to that determination, under subparagraph (A) shall—
+
+                (i) be included in the record of decision or finding of no significant impact of the Secretary; and
+
+                (ii) be posted on an appropriate Federal website by not later than 3 days after the date of receipt by the Secretary of all concurrences requested under subparagraph (A)(iii).
+
+        (3) __Aligning historical reviews.—__ 
+
+            (A)  __In general__  __.—__ 
+
+            If the Secretary, the applicable preservation officer, the Council, and the Secretary of the Interior concur that no feasible and prudent alternative exists as described in paragraph (2), the Secretary may provide to the applicable preservation officer, the Council, and the Secretary of the Interior notice of the intent of the Secretary to satisfy subsection (c)(2) through the consultation requirements of [section 306108 of title 54][/us/usc/t54/s306108].
+
+            (B)  __Satisfaction of conditions__  __.—__ 
+
+            To satisfy subsection (c)(2), the applicable preservation officer, the Council, and the Secretary of the Interior shall concur in the treatment of the applicable historic site described in the memorandum of agreement or programmatic agreement developed under [section 306108 of title 54][/us/usc/t54/s306108].
+
+    (f) __References to Past Transportation Environmental Authorities.—__ 
+
+        (1)  __Section 4(f) requirements__  __.—__ 
+
+        The requirements of this section are commonly referred to as section 4(f) requirements (see section 4(f) of the Department of Transportation Act ([Public Law 89–670][/us/pl/89/670]; [80 Stat. 934][/us/stat/80/934]) as in effect before the repeal of that section).
+
+        (2)  __Section 106 requirements__  __.—__ 
+
+        The requirements of [section 306108 of title 54][/us/usc/t54/s306108] are commonly referred to as section 106 requirements (see section 106 of the National Historic Preservation Act of 1966 ([Public Law 89–665][/us/pl/89/665]; [80 Stat. 917][/us/stat/80/917]) as in effect before the repeal of that section).
+
+    (g)  __Bridge Exemption From Consideration__  __.—__ 
+
+    A common post-1945 concrete or steel bridge or culvert (as described in 77 Fed. Reg. 68790) that is exempt from individual review under [section 306108 of title 54][/us/usc/t54/s306108] shall be exempt from consideration under this section.
+
+    (h) __Rail and Transit.—__ 
+
+        (1)  __In general__  __.—__ 
+
+        Improvements to, or the maintenance, rehabilitation, or operation of, railroad or rail transit lines or elements thereof that are in use or were historically used for the transportation of goods or passengers shall not be considered a use of a historic site under subsection (c), regardless of whether the railroad or rail transit line or element thereof is listed on, or eligible for listing on, the National Register of Historic Places.
+
+        (2) __Exceptions.—__ 
+
+            (A)  __In general__  __.—__ 
+
+            Paragraph (1) shall not apply to—
+
+                (i) stations; or
+
+                (ii)
+
+                 bridges or tunnels located on—
+
+                    (I) railroad lines that have been abandoned; or
+
+                    (II) transit lines that are not in use.
+
+            (B)  __Clarification with respect to certain bridges and tunnels__  __.—__ 
+
+            The bridges and tunnels referred to in subparagraph (A)(ii) do not include bridges or tunnels located on railroad or transit lines—
+
+                (i) over which service has been discontinued; or
+
+                (ii) that have been railbanked or otherwise reserved for the transportation of goods or passengers.
+
+([Pub. L. 97–449, § 1(b)][/us/pl/97/449/s1/b], Jan. 12, 1983, [96 Stat. 2419][/us/stat/96/2419]; [Pub. L. 100–17, title I, § 133(d)][/us/pl/100/17/s133/d], Apr. 2, 1987, [101 Stat. 173][/us/stat/101/173]; [Pub. L. 109–59, title VI, § 6009(a)(2)][/us/pl/109/59/s6009/a/2], Aug. 10, 2005, [119 Stat. 1875][/us/stat/119/1875]; [Pub. L. 113–287, § 5(p)][/us/pl/113/287/s5/p], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94], §§ 1301(b), 1302(b), 1303(b), title XI, § 11502(b), Dec. 4, 2015, [129 Stat. 1376][/us/stat/129/1376], 1378, 1690.)
 
 <table>
 
@@ -169,7 +265,21 @@ Oct. 15, 1966, Pub. L. 89–670, § 4(f), 80 Stat. 934; restated Aug. 23, 1968
 
     [Section 204 of title 23][/us/usc/t23/s204], referred to in subsec. (c), was repealed and a new section 204 enacted by [Pub. L. 112–141, div. A, title I, § 1119(a)][/us/pl/112/141/s1119/a], July 6, 2012, [126 Stat. 473][/us/stat/126/473], 489.
 
+    The National Environmental Policy Act of 1969, referred to in subsec. (e)(1)(A), (2)(A), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42][/us/usc/t42/s4321] and Tables.
+
+    The date of enactment of this subsection, referred to in subsec. (e)(1)(B), means Dec. 4, 2015, the date of approval of [Pub. L. 114–94][/us/pl/114/94].
+
  __Amendments__ 
+
+    2015—Subsec. (c). [Pub. L. 114–94, § 11502(b)(1)][/us/pl/114/94/s11502/b/1], substituted “subsections (d) and (h)” for “subsection (d)”.
+
+    Subsec. (e). [Pub. L. 114–94, § 1301(b)][/us/pl/114/94/s1301/b], added subsec. (e).
+
+    Subsec. (f). [Pub. L. 114–94, § 1302(b)][/us/pl/114/94/s1302/b], added subsec. (f).
+
+    Subsec. (g). [Pub. L. 114–94, § 1303(b)][/us/pl/114/94/s1303/b], added subsec. (g).
+
+    Subsec. (h). [Pub. L. 114–94, § 11502(b)(2)][/us/pl/114/94/s11502/b/2], added subsec. (h).
 
     2014—Subsec. (d)(2)(A). [Pub. L. 113–287][/us/pl/113/287] substituted “[section 306108 of title 54][/us/usc/t54/s306108], United States Code” for “section 106 of the National Historic Preservation Act ([16 U.S.C. 470f][/us/usc/t16/s470f])” in introductory provisions.
 
@@ -178,6 +288,10 @@ Oct. 15, 1966, Pub. L. 89–670, § 4(f), 80 Stat. 934; restated Aug. 23, 1968
     Subsec. (d). [Pub. L. 109–59, § 6009(a)(2)(B)][/us/pl/109/59/s6009/a/2/B], added subsec. (d).
 
     1987—Subsec. (c). [Pub. L. 100–17][/us/pl/100/17] inserted “(other than any project for a park road or parkway under [section 204 of title 23][/us/usc/t23/s204])” after “program or project”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Treatment of Military Flight Operations__ 
 
@@ -193,6 +307,18 @@ Oct. 15, 1966, Pub. L. 89–670, § 4(f), 80 Stat. 934; restated Aug. 23, 1968
 ----------
 
 [/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
+[/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
+[/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
+[/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
+[/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
+[/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
+[/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
+[/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
+[/us/stat/80/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F934
+[/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
+[/us/pl/89/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665
+[/us/stat/80/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F917
+[/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
 [/us/pl/97/449/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs1%2Fb
 [/us/stat/96/2419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2419
 [/us/pl/100/17/s133/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs133%2Fd
@@ -201,9 +327,20 @@ Oct. 15, 1966, Pub. L. 89–670, § 4(f), 80 Stat. 934; restated Aug. 23, 1968
 [/us/stat/119/1875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1875
 [/us/pl/113/287/s5/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fp
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1376
 [/us/usc/t23/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs204
 [/us/pl/112/141/s1119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1119%2Fa
 [/us/stat/126/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F473
+[/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
+[/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
+[/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s11502/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11502%2Fb%2F1
+[/us/pl/114/94/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1301%2Fb
+[/us/pl/114/94/s1302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1302%2Fb
+[/us/pl/114/94/s1303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1303%2Fb
+[/us/pl/114/94/s11502/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11502%2Fb%2F2
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
 [/us/usc/t16/s470f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470f
@@ -211,6 +348,9 @@ Oct. 15, 1966, Pub. L. 89–670, § 4(f), 80 Stat. 934; restated Aug. 23, 1968
 [/us/pl/109/59/s6009/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs6009%2Fa%2F2%2FB
 [/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
 [/us/usc/t23/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs204
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/105/85/s1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1079
 [/us/stat/111/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1916
 [/us/usc/t49/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs303%2Fc

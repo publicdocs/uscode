@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch241/m__us_usc_t49_s24105.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch243/m__us_usc_t49_s24301.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstV%2FptC%2Fch243)
+[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch242/m__us_usc_t49_s24202.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch243/m__us_usc_t49_s24301.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstV%2FptC%2Fch243)
 
 #### CHAPTER 243—AMTRAK
 
@@ -147,7 +147,57 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24316" data-uslm-ref="/us/usc/t49/s24316">24316.</a>  </td>
 
-    <td> Plan to assist families of passengers involved in rail passenger accidents. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
+    <td> Plans to address the needs of families of passengers involved in rail passenger accidents. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24317" data-uslm-ref="/us/usc/t49/s24317">24317.</a>  </td>
+
+    <td> Accounts.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24318" data-uslm-ref="/us/usc/t49/s24318">24318.</a>  </td>
+
+    <td> Costs and revenues.  </td>
+
+    <td> 24319.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td>   </td>
+
+    <td> Grant process.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24320" data-uslm-ref="/us/usc/t49/s24320">24320.</a>  </td>
+
+    <td> Amtrak 5-year business line and asset plans.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24321" data-uslm-ref="/us/usc/t49/s24321">24321.</a>  </td>
+
+    <td> Food and beverage reform.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft49%2Fs24322" data-uslm-ref="/us/usc/t49/s24322">24322.</a>  </td>
+
+    <td> Rolling stock purchases.  </td>
 
   </tr>
 
@@ -155,17 +205,21 @@
 
  __Amendments__ 
 
+    2015—[Pub. L. 114–94, div. A, title XI][/us/pl/114/94], §§ 11201(b), 11202(b), 11203(c), 11207(b), 11208(b), 11316(m), Dec. 4, 2015, [129 Stat. 1627][/us/stat/129/1627], 1630, 1634, 1639, 1640, 1678, substituted “Plans to address the needs of families of passengers involved in rail passenger accidents” for “Plan to assist families of passengers involved in rail passenger accidents” in item 24316 and added items 24317 to 24322.
+
     2008—[Pub. L. 110–432, div. A, title V, § 502(b)][/us/pl/110/432/s502/b], div. B, title II, § 221(b), Oct. 16, 2008, [122 Stat. 4899][/us/stat/122/4899], 4932, added items 24310 and 24316.
 
     1997—[Pub. L. 105–134, title IV][/us/pl/105/134], §§ 403, 404, 415(a)(2), Dec. 2, 1997, [111 Stat. 2585][/us/stat/111/2585], 2586, 2590, substituted “Employee stock ownership plans” for “Capitalization” in item 24304 and struck out item 24310 “Assistance for upgrading facilities” and item 24314 “Demonstration of new technology”.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch241/m__us_usc_t49_s24105.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch243/m__us_usc_t49_s24301.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstV%2FptC%2Fch243)
+[Previous](./../../../../../..//us/usc/t49/stV/ptC/ch242/m__us_usc_t49_s24202.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch243/m__us_usc_t49_s24301.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstV%2FptC%2Fch243)
 
 ----------
 ----------
 
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1627
 [/us/pl/110/432/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs502%2Fb
 [/us/stat/122/4899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4899
 [/us/pl/105/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F134

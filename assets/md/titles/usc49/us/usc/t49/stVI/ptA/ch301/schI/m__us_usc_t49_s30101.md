@@ -71,6 +71,24 @@ Sept. 9, 1966, Pub. L. 89–563, § 1, 80 Stat. 718.  </td>
 
     The words “Congress hereby declares that”, “to persons”, and “Congress determines that” are omitted as surplus. The words “motor vehicle” before “equipment” are added for consistency. The words “and to expand the national driver register” are omitted because section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 ([Public Law 89–563][/us/pl/89/563], [80 Stat. 730][/us/stat/80/730]), the only section in this law related to the national driver register, was superseded by the National Driver Register Act of 1982 ([Public Law 97–364][/us/pl/97/364], [96 Stat. 1740][/us/stat/96/1740]).
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–94, div. B, title XXIV, § 24109(a)][/us/pl/114/94/s24109/a], Dec. 4, 2015, [129 Stat. 1706][/us/stat/129/1706], provided that: 
+
+> “This section \[amending sections 30102, 30120, 30122, and 30166 of this title and enacting provisions set out as notes under [section 30102 of this title][/us/usc/t49/s30102]\] may be cited as the ‘Raechel and Jacqueline Houck Safe Rental Car Act of 2015’.”
+
+[Pub. L. 114–94, div. B, title XXIV, § 24321][/us/pl/114/94/s24321], Dec. 4, 2015, [129 Stat. 1713][/us/stat/129/1713], provided that: 
+
+> “This part \[part II (§§ 24321, 24322) of subtitle C of title XXIV of div. B of [Pub. L. 114–94][/us/pl/114/94], amending [section 32302 of this title][/us/usc/t49/s32302]\] may be cited as the ‘Safety Through Informed Consumers Act of 2015’.”
+
+[Pub. L. 114–94, div. B, title XXIV, § 24331][/us/pl/114/94/s24331], Dec. 4, 2015, [129 Stat. 1713][/us/stat/129/1713], provided that: 
+
+> “This part \[part III (§§ 24331–24335) of subtitle C of title XXIV of div. B of [Pub. L. 114–94][/us/pl/114/94], amending sections 30117 and 32304A of this title and enacting provisions set out as a note under [section 30119 of this title][/us/usc/t49/s30119]\] may be cited as the ‘Tire Efficiency, Safety, and Registration Act of 2015’ or the ‘TESR Act’.”
+
+[Pub. L. 114–94, div. B, title XXIV, § 24351][/us/pl/114/94/s24351], Dec. 4, 2015, [129 Stat. 1716][/us/stat/129/1716], provided that: 
+
+> “This part \[part V (§§ 24351, 24352) of subtitle C of title XXIV of div. B of [Pub. L. 114–94][/us/pl/114/94], enacting [section 30172 of this title][/us/usc/t49/s30172] and provisions set out as a note under [section 30172 of this title][/us/usc/t49/s30172]\] may be cited as the ‘Motor Vehicle Safety Whistleblower Act’.”
+
  __Short Title of 2012 Amendment__ 
 
 [Pub. L. 112–196, § 1][/us/pl/112/196/s1], Oct. 19, 2012, [126 Stat. 1459][/us/stat/126/1459], provided that: 
@@ -110,6 +128,50 @@ Sept. 9, 1966, Pub. L. 89–563, § 1, 80 Stat. 718.  </td>
 [Pub. L. 104–152, § 1][/us/pl/104/152/s1], July 2, 1996, [110 Stat. 1384][/us/stat/110/1384], provided that: 
 
 > “This Act \[amending sections 30501 to 30505 and 33109 of this title and enacting provisions set out as a note under [section 30502 of this title][/us/usc/t49/s30502]\] may be cited as the ‘Anti-Car Theft Improvements Act of 1996’.”
+
+ __Driver Privacy__ 
+
+[Pub. L. 114–94, div. B, title XXIV][/us/pl/114/94], subtitle C, part I, Dec. 4, 2015, [129 Stat. 1712][/us/stat/129/1712], provided that:
+
+> “SEC. 24301. __SHORT TITLE.__ 
+
+>     “This part may be cited as the ‘Driver Privacy Act of 2015’.
+
+> “SEC. 24302. __LIMITATIONS ON DATA RETRIEVAL FROM VEHICLE EVENT DATA RECORDERS.__ 
+
+>     “(a)  __Ownership of Data__  __.—__ 
+
+>     Any data retained by an event data recorder (as defined in section 563.5 of title 49, Code of Federal Regulations), regardless of when the motor vehicle in which it is installed was manufactured, is the property of the owner, or, in the case of a leased vehicle, the lessee of the motor vehicle in which the event data recorder is installed.
+
+>     “(b)  __Privacy__  __.—__ 
+
+>     Data recorded or transmitted by an event data recorder described in subsection (a) may not be accessed by a person other than an owner or a lessee of the motor vehicle in which the event data recorder is installed unless—
+
+>         “(1)
+
+>          a court or other judicial or administrative authority having jurisdiction—
+
+>             “(A) authorizes the retrieval of the data; and
+
+>             “(B) to the extent that there is retrieved data, the data is subject to the standards for admission into evidence required by that court or other administrative authority;
+
+>         “(2) an owner or a lessee of the motor vehicle provides written, electronic, or recorded audio consent to the retrieval of the data for any purpose, including the purpose of diagnosing, servicing, or repairing the motor vehicle, or by agreeing to a subscription that describes how data will be retrieved and used;
+
+>         “(3) the data is retrieved pursuant to an investigation or inspection authorized under section 1131(a) or 30166 of title 49, United States Code, and the personally identifiable information of an owner or a lessee of the vehicle and the vehicle identification number is not disclosed in connection with the retrieved data, except that the vehicle identification number may be disclosed to the certifying manufacturer;
+
+>         “(4) the data is retrieved for the purpose of determining the need for, or facilitating, emergency medical response in response to a motor vehicle crash; or
+
+>         “(5) the data is retrieved for traffic safety research, and the personally identifiable information of an owner or a lessee of the vehicle and the vehicle identification number is not disclosed in connection with the retrieved data.
+
+> “SEC. 24303. __VEHICLE EVENT DATA RECORDER STUDY.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>     Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Administrator of the National Highway Traffic Safety Administration shall submit to Congress a report that contains the results of a study conducted by the Administrator to determine the amount of time event data recorders installed in passenger motor vehicles should capture and record for retrieval vehicle-related data in conjunction with an event in order to provide sufficient information to investigate the cause of motor vehicle crashes.
+
+>     “(b)  __Rulemaking__  __.—__ 
+
+>     Not later than 2 years after submitting the report required under subsection (a), the Administrator of the National Highway Traffic Safety Administration shall promulgate regulations to establish the appropriate period during which event data recorders installed in passenger motor vehicles may capture and record for retrieval vehicle-related data to the time necessary to provide accident investigators with vehicle-related information pertinent to crashes involving such motor vehicles.”
 
  __National Highway Traffic Safety Administration Outreach to Manufacturer, Dealer, and Mechanic Personnel__ 
 
@@ -296,6 +358,22 @@ Sept. 9, 1966, Pub. L. 89–563, § 1, 80 Stat. 718.  </td>
 [/us/stat/80/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F730
 [/us/pl/97/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F364
 [/us/stat/96/1740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1740
+[/us/pl/114/94/s24109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24109%2Fa
+[/us/stat/129/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1706
+[/us/usc/t49/s30102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30102
+[/us/pl/114/94/s24321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24321
+[/us/stat/129/1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1713
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/usc/t49/s32302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32302
+[/us/pl/114/94/s24331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24331
+[/us/stat/129/1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1713
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/usc/t49/s30119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30119
+[/us/pl/114/94/s24351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs24351
+[/us/stat/129/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1716
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/usc/t49/s30172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30172
+[/us/usc/t49/s30172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30172
 [/us/pl/112/196/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F196%2Fs1
 [/us/stat/126/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1459
 [/us/usc/t49/s31311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31311
@@ -322,6 +400,8 @@ Sept. 9, 1966, Pub. L. 89–563, § 1, 80 Stat. 718.  </td>
 [/us/pl/104/152/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F152%2Fs1
 [/us/stat/110/1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1384
 [/us/usc/t49/s30502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30502
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1712
 [/us/pl/112/141/s31302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31302
 [/us/stat/126/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F763
 [/us/pl/109/59/s10302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10302

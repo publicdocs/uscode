@@ -29,11 +29,11 @@
 
     (b)  __Applications__  __.—__ 
 
-    When applying for a special permit or renewal of a special permit under this section, the person must provide a safety analysis prescribed by the Secretary that justifies the special permit. The Secretary shall publish in the Federal Register notice that an application for a special permit has been filed and shall give the public an opportunity to inspect the safety analysis and comment on the application. This subsection does not require the release of information protected by law from public disclosure.
+    When applying for a special permit or renewal of a special permit under this section, the person must provide a safety analysis prescribed by the Secretary that justifies the special permit. The Secretary shall publish in the Federal Register notice that an application for a new special permit or a modification to an existing special permit has been filed and shall give the public an opportunity to inspect the safety analysis and comment on the application. The Secretary shall make available to the public on the Department of Transportation’s Internet Web site any special permit other than a new special permit or a modification to an existing special permit and shall give the public an opportunity to inspect the safety analysis and comment on the application for a period of not more than 15 days. This subsection does not require the release of information protected by law from public disclosure.
 
     (c)  __Applications To Be Dealt With Promptly__  __.—__ 
 
-    The Secretary shall issue or renew the special permit for which an application was filed or deny such issuance or renewal within 180 days after the first day of the month following the date of the filing of such application, or the Secretary shall publish a statement in the Federal Register of the reason why the Secretary’s decision on the special permit is delayed, along with an estimate of the additional time necessary before the decision is made.
+    The Secretary shall issue or renew a special permit or approval for which an application was filed or deny such issuance or renewal within 120 days after the first day of the month following the date of the filing of such application, or the Secretary shall make available to the public a statement of the reason why the Secretary’s decision on a special permit or approval is delayed, along with an estimate of the additional time necessary before the decision is made.
 
     (d)  __Exclusions__  __.—__ 
 
@@ -81,7 +81,15 @@
 
         After completing the review and analysis under paragraph (1) and after providing notice and opportunity for public comment, the Secretary shall either institute a rulemaking to incorporate the special permit into the hazardous materials regulations or publish in the Federal Register the Secretary’s justification for why the special permit is not appropriate for incorporation into the regulations.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 776][/us/stat/108/776]; [Pub. L. 103–311, title I, § 120(a)][/us/pl/103/311/s120/a], Aug. 26, 1994, [108 Stat. 1680][/us/stat/108/1680]; [Pub. L. 109–59, title VII][/us/pl/109/59], §§ 7115(a)(1), (b)–(g), 7126, Aug. 10, 2005, [119 Stat. 1901][/us/stat/119/1901], 1909; [Pub. L. 112–141, div. C, title III, § 33012(c)][/us/pl/112/141/s33012/c], July 6, 2012, [126 Stat. 839][/us/stat/126/839].)
+    (g)  __Disclosure of Final Action__  __.—__ 
+
+    The Secretary shall periodically, but at least every 120 days—
+
+        (1) publish in the Federal Register notice of the final disposition of each application for a new special permit, modification to an existing special permit, or approval during the preceding quarter; and
+
+        (2) make available to the public on the Department of Transportation’s Internet Web site notice of the final disposition of any other special permit during the preceding quarter.
+
+([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 776][/us/stat/108/776]; [Pub. L. 103–311, title I, § 120(a)][/us/pl/103/311/s120/a], Aug. 26, 1994, [108 Stat. 1680][/us/stat/108/1680]; [Pub. L. 109–59, title VII][/us/pl/109/59], §§ 7115(a)(1), (b)–(g), 7126, Aug. 10, 2005, [119 Stat. 1901][/us/stat/119/1901], 1909; [Pub. L. 112–141, div. C, title III, § 33012(c)][/us/pl/112/141/s33012/c], July 6, 2012, [126 Stat. 839][/us/stat/126/839]; [Pub. L. 114–94, div. A, title VII, § 7204][/us/pl/114/94/s7204], Dec. 4, 2015, [129 Stat. 1592][/us/stat/129/1592].)
 
 <table>
 
@@ -203,6 +211,12 @@ In subsection (c)(1), clauses (A) and (B) are substituted for “any vessel whic
 
  __Amendments__ 
 
+    2015—Subsec. (b). [Pub. L. 114–94, § 7204(1)][/us/pl/114/94/s7204/1], substituted “an application for a new special permit or a modification to an existing special permit” for “an application for a special permit” and inserted “The Secretary shall make available to the public on the Department of Transportation’s Internet Web site any special permit other than a new special permit or a modification to an existing special permit and shall give the public an opportunity to inspect the safety analysis and comment on the application for a period of not more than 15 days.” before “This subsection”.
+
+    Subsec. (c). [Pub. L. 114–94, § 7204(2)][/us/pl/114/94/s7204/2], substituted “a special permit or approval” for “the special permit” in two places, “120 days” for “180 days”, and “make available to the public” for “publish”, and struck out “in the Federal Register” after “a statement”.
+
+    Subsec. (g). [Pub. L. 114–94, § 7204(3)][/us/pl/114/94/s7204/3], added subsec. (g).
+
     2012—Subsec. (f). [Pub. L. 112–141][/us/pl/112/141] added subsec. (f).
 
     2005—[Pub. L. 109–59, § 7115(a)(1)][/us/pl/109/59/s7115/a/1], substituted “Special permits and exclusions” for “Exemptions and exclusions” in section catchline.
@@ -222,6 +236,10 @@ In subsection (c)(1), clauses (A) and (B) are substituted for “any vessel whic
     Subsec. (e). [Pub. L. 109–59, § 7115(g)][/us/pl/109/59/s7115/g], substituted “a special permit” for “an exemption” and “be granted a variance” for “be exempt”.
 
     1994—Subsecs. (c) to (e). [Pub. L. 103–311][/us/pl/103/311] added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -280,10 +298,15 @@ In subsection (c)(1), clauses (A) and (B) are substituted for “any vessel whic
 [/us/stat/119/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1901
 [/us/pl/112/141/s33012/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs33012%2Fc
 [/us/stat/126/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F839
+[/us/pl/114/94/s7204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7204
+[/us/stat/129/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1592
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/pl/92/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340
 [/us/stat/86/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F424
 [/us/usc/t33/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1221
+[/us/pl/114/94/s7204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7204%2F1
+[/us/pl/114/94/s7204/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7204%2F2
+[/us/pl/114/94/s7204/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs7204%2F3
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59/s7115/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7115%2Fa%2F1
 [/us/pl/109/59/s7115/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7115%2Fb
@@ -294,6 +317,9 @@ In subsection (c)(1), clauses (A) and (B) are substituted for “any vessel whic
 [/us/pl/109/59/s7115/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7115%2Ff
 [/us/pl/109/59/s7115/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs7115%2Fg
 [/us/pl/103/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F311
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101

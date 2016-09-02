@@ -585,41 +585,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 305(h) (last sentence); add
 
  __Northeast Corridor State-of-Good-Repair Plan__ 
 
-[Pub. L. 110–432, div. B, title II, § 211][/us/pl/110/432/s211], Oct. 16, 2008, [122 Stat. 4920][/us/stat/122/4920], provided that:
-
->     “(a)  __In General__  __.—__ 
-
->     Within 6 months after the date of enactment of this Act \[Oct. 16, 2008\], Amtrak, in consultation with the Secretary \[of Transportation\] and the States (including the District of Columbia) that make up the Northeast Corridor (as defined in [section 24102 of title 49][/us/usc/t49/s24102], United States Code), shall prepare a capital spending plan for capital projects required to return the railroad right-of-way (including track, signals, and auxiliary structures), facilities, stations, and equipment, of the Northeast Corridor main line to a state-of-good-repair by the end of fiscal year 2018, consistent with the funding levels authorized in this division \[see Short Title of 2008 Amendment note set out under [section 20101 of this title][/us/usc/t49/s20101]\], and shall submit the plan to the Secretary.
-
->     “(b) __Review and Approval by the Secretary.—__ 
-
->         “(1) __60-__  __day approval process__  __.—__ 
-
->         The Secretary shall complete the review of the capital spending plan and approve or disapprove the plan within 60 days after the date on which Amtrak submits the plan. During review, the Secretary may seek comments from the Commission established under [section 24905 of title 49][/us/usc/t49/s24905], United States Code, and other Northeast Corridor users regarding the plan. If the Secretary disapproves the plan or determines that the plan is incomplete or deficient, the Secretary shall include the reason for disapproval or the incomplete items or deficiencies in a notice to Amtrak.
-
->         “(2) __15-__  __day modification period__  __.—__ 
-
->         Within 15 days after receiving notification from the Secretary under paragraph (1), Amtrak shall submit a modified plan for the Secretary’s review.
-
->         “(3)  __Revised requests__  __.—__ 
-
->         Within 15 days after receiving a modified plan from Amtrak, the Secretary shall either approve the modified plan, or, if the Secretary finds that the plan is still incomplete or deficient, the Secretary shall identify in writing to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate the remaining deficiencies and recommend a process for resolving the outstanding portions of the plan.
-
->     “(c)  __Plan Updates__  __.—__ 
-
->     The plan shall be updated at least annually and the Secretary shall review and approve such updates, in accordance with the procedures described in subsection (b).
-
->     “(d)  __Grants__  __.—__ 
-
->     The Secretary shall make grants to Amtrak with funds authorized by section 101(c) \[[122 Stat. 4908][/us/stat/122/4908]\] for Northeast Corridor capital investments contained within the capital spending plan prepared by Amtrak and approved by the Secretary.
-
->     “(e)  __Oversight__  __.—__ 
-
->     Using the funds authorized by section 101(d) \[[122 Stat. 4908][/us/stat/122/4908]\], the Secretary shall review Amtrak’s capital expenditures funded by this section to ensure that such expenditures are consistent with the capital spending plan and that Amtrak is providing adequate project management oversight and fiscal controls.
-
->     “(f)  __Eligibility of Expenditures__  __.—__ 
-
->     The Federal share of expenditures for capital improvements under this section may not exceed 100 percent.”
+    [Pub. L. 110–432, div. B, title II, § 211][/us/pl/110/432/s211], Oct. 16, 2008, [122 Stat. 4920][/us/stat/122/4920], within 6 months after Oct. 16, 2008, required Amtrak to prepare capital spending plan to return the railroad right-of-way, facilities, stations, and equipment, of the Northeast Corridor main line to a state-of-good-repair by the end of fiscal year 2018 and required review and approval of the plan by the Secretary of Transportation, prior to repeal by [Pub. L. 114–94, div. A, title XI, § 11306(b)(3)][/us/pl/114/94/s11306/b/3], Dec. 4, 2015, [129 Stat. 1660][/us/stat/129/1660].
 
 ----------
 
@@ -653,10 +619,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 305(h) (last sentence); add
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/110/432/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432%2Fs211
 [/us/stat/122/4920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4920
-[/us/usc/t49/s24102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24102
-[/us/usc/t49/s20101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20101
-[/us/usc/t49/s24905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24905
-[/us/stat/122/4908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4908
-[/us/stat/122/4908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4908
+[/us/pl/114/94/s11306/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11306%2Fb%2F3
+[/us/stat/129/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1660
 
 
