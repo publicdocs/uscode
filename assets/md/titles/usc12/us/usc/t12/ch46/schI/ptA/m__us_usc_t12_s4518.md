@@ -157,6 +157,48 @@
 
     Subsec. (e). [Pub. L. 110–289, § 1114][/us/pl/110/289/s1114], added subsec. (e).
 
+ __Equity in Government Compensation__ 
+
+[Pub. L. 114–93][/us/pl/114/93], Nov. 25, 2015, [129 Stat. 1310][/us/stat/129/1310], provided that:
+
+> “SECTION 1. __SHORT TITLE.__ 
+
+>     “This Act may be cited as the ‘Equity in Government Compensation Act of 2015’.
+
+> “SEC. 2. __DEFINITIONS.__ 
+
+> “In this Act:
+
+>     “(1)  __Director__  __.—__ 
+
+>     The term ‘Director’ means the Director of the Federal Housing Finance Agency.
+
+>     “(2)  __Enterprise__  __.—__ 
+
+>     The term ‘enterprise’ means—
+
+>         “(A) the Federal National Mortgage Association and any affiliate thereof; and
+
+>         “(B) the Federal Home Loan Mortgage Corporation and any affiliate thereof.
+
+> “SEC. 3. __REASONABLE PAY FOR CHIEF EXECUTIVE OFFICERS.__ 
+
+>     “(a)  __Suspension of Current Compensation Package and Limitation__  __.—__ 
+
+>     The Director shall suspend the compensation packages approved for 2015 for the chief executive officers of each enterprise and, in lieu of such packages, subject to the limitation under subsection (b), establish the compensation and benefits for each such chief executive officer at the same level in effect for such officer as of January 1, 2015, and such compensation and benefits may not thereafter be increased.
+
+>     “(b)  __Limitation on Bonuses__  __.—__ 
+
+>     Subsection (a) shall not be construed to affect the applicability of section 16 of the STOCK Act ([12 U.S.C. 4518a][/us/usc/t12/s4518a]) to the chief executive officer of each enterprise.
+
+>     “(c)  __Applicability__  __.—__ 
+
+>     Subsection (a) shall only apply to a chief executive officer of an enterprise if the enterprise is in conservatorship or receivership pursuant to section 1367 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 ([12 U.S.C. 4617][/us/usc/t12/s4617]).
+
+> “SEC. 4. __FANNIE AND FREDDIE CHIEF EXECUTIVE OFFICERS NOT FEDERAL EMPLOYEES.__ 
+
+>     “Any chief executive officer affected by any provision under section 3 shall not be considered a Federal employee.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t12/ch46/schI/ptA/m__us_usc_t12_s4517.md) | [Next](./../../../../../..//us/usc/t12/ch46/schI/ptA/m__us_usc_t12_s4518a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4518)
@@ -175,5 +217,9 @@
 [/us/pl/110/289/s1113/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1113%2Fa%2F2
 [/us/pl/110/289/s1113/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1113%2Fa%2F3
 [/us/pl/110/289/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1114
+[/us/pl/114/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F93
+[/us/stat/129/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1310
+[/us/usc/t12/s4518a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4518a
+[/us/usc/t12/s4617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4617
 
 
