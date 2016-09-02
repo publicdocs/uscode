@@ -1,0 +1,79 @@
+---
+---
+
+# 25 U.S.C., USLM ref /us/usc/t25/s4164
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t25/ch43/schIV/m__us_usc_t25_s4163.md) | [Next](./../../../../..//us/usc/t25/ch43/schIV/m__us_usc_t25_s4165.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4164)
+
+## § 4164. Performance reports
+
+    (a) __Requirement__ 
+
+    For each fiscal year, each recipient shall—
+
+        (1) review the progress it has made during such fiscal year in carrying out the Indian housing plan (or plans) for the Indian tribes for which it administers grant amounts; and
+
+        (2) submit a report to the Secretary (in a form acceptable to the Secretary) describing the conclusions of the review.
+
+    (b) __Content__ 
+
+    Each report under this section for a fiscal year shall—
+
+        (1) describe the use of grant amounts provided to the recipient for such fiscal year;
+
+        (2) assess the relationship of such use to the planned activities identified in the Indian housing plan of the grant beneficiary; and
+
+        (3) indicate the programmatic accomplishments of the recipient.
+
+    (c) __Submission__ 
+
+        The Secretary shall establish dates for submission of reports under this section, and review such reports and make such recommendations as the Secretary considers appropriate to carry out the purposes of this chapter.
+
+    (d) __Public availability__ 
+
+        A recipient preparing a report under this section shall make the report publicly available to the citizens in the jurisdiction of the recipient in sufficient time to permit such citizens to comment on such report prior to its submission to the Secretary, and in such manner and at such times as the recipient may determine. The report shall include a summary of any comments received by the grant beneficiary or recipient from citizens in its jurisdiction regarding its program.
+
+([Pub. L. 104–330, title IV, § 404][/us/pl/104/330/s404], Oct. 26, 1996, [110 Stat. 4040][/us/stat/110/4040]; [Pub. L. 110–411, title IV, § 403][/us/pl/110/411/s403], Oct. 14, 2008, [122 Stat. 4330][/us/stat/122/4330].)
+
+ __References in Text__ 
+
+    This chapter, referred to in subsec. (c), was in the original “this Act”, meaning [Pub. L. 104–330][/us/pl/104/330], Oct. 26, 1996, [110 Stat. 4016][/us/stat/110/4016], known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of this title][/us/usc/t25/s4101] and Tables.
+
+ __Amendments__ 
+
+    2008—Subsec. (b)(2). [Pub. L. 110–411, § 403(1)][/us/pl/110/411/s403/1], substituted “planned activities” for “goals” and inserted “and” after semicolon at end.
+
+    Subsec. (b)(3), (4). [Pub. L. 110–411, § 403(2)][/us/pl/110/411/s403/2], (3), substituted period for “; and” at end of par. (3) and struck out par. (4) which read as follows: “describe the manner in which the recipient would change its programs as a result of its experiences.”
+
+ __Effective Date__ 
+
+    Section effective Oct. 1, 1997, except as otherwise expressly provided, see [section 107 of Pub. L. 104–330][/us/pl/104/330/s107], set out as a note under [section 4101 of this title][/us/usc/t25/s4101].
+
+----------
+
+[Previous](./../../../../..//us/usc/t25/ch43/schIV/m__us_usc_t25_s4163.md) | [Next](./../../../../..//us/usc/t25/ch43/schIV/m__us_usc_t25_s4165.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4164)
+
+----------
+----------
+
+[/us/pl/104/330/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs404
+[/us/stat/110/4040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4040
+[/us/pl/110/411/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs403
+[/us/stat/122/4330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4330
+[/us/pl/104/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330
+[/us/stat/110/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4016
+[/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
+[/us/pl/110/411/s403/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs403%2F1
+[/us/pl/110/411/s403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F411%2Fs403%2F2
+[/us/pl/104/330/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F330%2Fs107
+[/us/usc/t25/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4101
+
+

@@ -1,0 +1,42 @@
+---
+---
+
+# 25 U.S.C., USLM ref /us/usc/t25/s1651
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t25/ch18/schIV/m__us_usc_t25_ch18_schIV.md) | [Next](./../../../../..//us/usc/t25/ch18/schIV/m__us_usc_t25_s1652.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1651)
+
+## § 1651. Purpose
+
+    The purpose of this subchapter is to establish programs in urban centers to make health services more accessible to urban Indians.
+
+([Pub. L. 94–437, title V, § 501][/us/pl/94/437/s501], as added [Pub. L. 100–713, title V, § 501][/us/pl/100/713/s501], Nov. 23, 1988, [102 Stat. 4820][/us/stat/102/4820].)
+
+ __Prior Provisions__ 
+
+    A prior section 1651, [Pub. L. 94–437, title V, § 501][/us/pl/94/437/s501], Sept. 30, 1976, [90 Stat. 1410][/us/stat/90/1410]; [Pub. L. 96–537, § 7][/us/pl/96/537/s7], Dec. 17, 1980, [94 Stat. 3176][/us/stat/94/3176], related to Congressional statement of purpose, prior to the general revision of this subchapter by [Pub. L. 100–713][/us/pl/100/713].
+
+----------
+
+[Previous](./../../../../..//us/usc/t25/ch18/schIV/m__us_usc_t25_ch18_schIV.md) | [Next](./../../../../..//us/usc/t25/ch18/schIV/m__us_usc_t25_s1652.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1651)
+
+----------
+----------
+
+[/us/pl/94/437/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs501
+[/us/pl/100/713/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713%2Fs501
+[/us/stat/102/4820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4820
+[/us/pl/94/437/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F437%2Fs501
+[/us/stat/90/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1410
+[/us/pl/96/537/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F537%2Fs7
+[/us/stat/94/3176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3176
+[/us/pl/100/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F713
+
+
