@@ -47,7 +47,7 @@
 
 [Pub. L. 108–458, title VII, § 7122][/us/pl/108/458/s7122], Dec. 17, 2004, [118 Stat. 3808][/us/stat/118/3808], provided that: 
 
-> “Notwithstanding any other provision of this Act \[see Tables for classification\], this subtitle \[subtitle A (§§ 7101–7122) of title VII of [Pub. L. 108–458][/us/pl/108/458], enacting sections 2228, 2732, 3922b, 4029, 7536a, and 7555 of Title 22, Foreign Relations and Intercourse, amending this section, [section 112b of this title][/us/usc/t1/s112b], [section 1189 of Title 8][/us/usc/t8/s1189], Aliens and Nationality, sections 2651a, 2656f, 4003, 7513, 7514, 7518, 7536, 7537, 7538, and 7554 of Title 22, and [section 2405 of Title 50][/us/usc/t50/s2405], Appendix, War and National Defense, repealing [section 2374 of Title 22][/us/usc/t22/s2374], enacting provisions set out as notes under [section 1189 of Title 8][/us/usc/t8/s1189], sections 1431, 2451, 2452, 2651a, 2656, 2656f, 7501, 7511, 7513, 7514, and 7536 of Title 22, and [section 2405 of Title 50][/us/usc/t50/s2405], Appendix, and amending provisions set out as a note under [section 112b of this title][/us/usc/t1/s112b]\] shall take effect on the date of enactment of this Act \[Dec. 17, 2004\].”
+> “Notwithstanding any other provision of this Act \[see Tables for classification\], this subtitle \[subtitle A (§§ 7101–7122) of title VII of [Pub. L. 108–458][/us/pl/108/458], enacting sections 2228, 2732, 3922b, 4029, 7536a, and 7555 of Title 22, Foreign Relations and Intercourse, amending this section, [section 112b of this title][/us/usc/t1/s112b], [section 1189 of Title 8][/us/usc/t8/s1189], Aliens and Nationality, sections 2651a, 2656f, 4003, 7513, 7514, 7518, 7536, 7537, 7538, and 7554 of Title 22, and [section 4605 of Title 50][/us/usc/t50/s4605], War and National Defense, repealing [section 2374 of Title 22][/us/usc/t22/s2374], enacting provisions set out as notes under [section 1189 of Title 8][/us/usc/t8/s1189], sections 1431, 2451, 2452, 2651a, 2656, 2656f, 7501, 7511, 7513, 7514, and 7536 of Title 22, and [section 4605 of Title 50][/us/usc/t50/s4605], and amending provisions set out as a note under [section 112b of this title][/us/usc/t1/s112b]\] shall take effect on the date of enactment of this Act \[Dec. 17, 2004\].”
 
  __Effect of Repeal of Section 73 of Act__  __Jan. 12, 1895__ 
 
@@ -78,10 +78,10 @@
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t1/s112b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs112b
 [/us/usc/t8/s1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1189
-[/us/usc/t50/s2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2405
+[/us/usc/t50/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605
 [/us/usc/t22/s2374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2374
 [/us/usc/t8/s1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1189
-[/us/usc/t50/s2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2405
+[/us/usc/t50/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605
 [/us/usc/t1/s112b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs112b
 [/us/usc/t1/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs112
 [/us/act/1895-01-12/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1895-01-12%2Fch23

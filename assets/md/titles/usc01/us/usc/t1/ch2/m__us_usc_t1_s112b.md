@@ -47,11 +47,15 @@
 
                 (i) A bilateral or multilateral counterterrorism agreement.
 
-                (ii) A bilateral agreement with a country that is subject to a determination under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)), section 620A(a) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371(a)][/us/usc/t22/s2371/a]), or section 40(d) of the Arms Export Control Act ([22 U.S.C. 2780(d)][/us/usc/t22/s2780/d]).
+                (ii) A bilateral agreement with a country that is subject to a determination under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  section 620A(a) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371(a)][/us/usc/t22/s2371/a]), or section 40(d) of the Arms Export Control Act ([22 U.S.C. 2780(d)][/us/usc/t22/s2780/d]).
 
     (f) The President shall, through the Secretary of State, promulgate such rules and regulations as may be necessary to carry out this section.
 
 (Added [Pub. L. 92–403, § 1][/us/pl/92/403/s1], Aug. 22, 1972, [86 Stat. 619][/us/stat/86/619]; amended [Pub. L. 95–45, § 5][/us/pl/95/45/s5], June 15, 1977, [91 Stat. 224][/us/stat/91/224]; [Pub. L. 95–426, title VII, § 708][/us/pl/95/426/s708], Oct. 7, 1978, [92 Stat. 993][/us/stat/92/993]; [Pub. L. 103–437, § 1][/us/pl/103/437/s1], Nov. 2, 1994, [108 Stat. 4581][/us/stat/108/4581]; [Pub. L. 108–458, title VII, § 7121(b)][/us/pl/108/458/s7121/b]–(d), Dec. 17, 2004, [118 Stat. 3807][/us/stat/118/3807], 3808.)
+
+ __References in Text__ 
+
+    Section 6(j)(1)(A) of the Export Administration Act of 1979, referred to in subsec. (e)(2)(B)(ii), was classified to section 2405(j)(1)(A) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as [section 4605(j)(1)(A) of Title 50][/us/usc/t50/s4605/j/1/A].
 
  __Amendments__ 
 
@@ -114,6 +118,7 @@
 [/us/stat/108/4581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4581
 [/us/pl/108/458/s7121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7121%2Fb
 [/us/stat/118/3807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3807
+[/us/usc/t50/s4605/j/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1%2FA
 [/us/pl/108/458/s7121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7121%2Fb
 [/us/pl/108/458/s7121/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7121%2Fc
 [/us/pl/108/458/s7121/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7121%2Fd
