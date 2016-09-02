@@ -23,7 +23,7 @@
 
         (2)  __Prototype projects__  __.—__ 
 
-        The head of an executive agency, under the authority of paragraph (1), may carry out prototype projects that meet the requirements of paragraph (1) in accordance with the requirements and conditions provided for carrying out prototype projects under section 845 of the National Defense Authorization Act for Fiscal Year 1994 ([Public Law 103–160][/us/pl/103/160], [10 U.S.C. 2371][/us/usc/t10/s2371] note), including that, to the maximum extent practicable, competitive procedures shall be used when entering into agreements to carry out projects under section 845(a) of that Act and that the period of authority to carry out projects under section 845(a) of that Act terminates as provided in section 845(i) of that Act.
+        The head of an executive agency, under the authority of paragraph (1), may carry out prototype projects that meet the requirements of paragraph (1) in accordance with the requirements and conditions provided for carrying out prototype projects under section 845  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the National Defense Authorization Act for Fiscal Year 1994 ([Public Law 103–160][/us/pl/103/160], [10 U.S.C. 2371][/us/usc/t10/s2371] note), including that, to the maximum extent practicable, competitive procedures shall be used when entering into agreements to carry out projects under section 845(a) of that Act and that the period of authority to carry out projects under section 845(a) of that Act terminates as provided in section 845(i) of that Act.
 
         (3)  __Application of requirements and conditions__  __.—__ 
 
@@ -111,6 +111,10 @@ Pub. L. 108–136, title XIV, § 1441, Nov. 24, 2003, 117 Stat. 1673.  </td>
 
     In subsection (c), the words “Committee on Homeland Security and Governmental Affairs” are substituted for “Committee on Governmental Affairs” on authority of Senate Resolution No. 445 (108th Congress, October 9, 2004). The words “Committee on Oversight and Government Reform” are substituted for “Committee on Government Reform” on authority of Rule X(1)(m) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
 
+ __References in Text__ 
+
+    Section 845 of the National Defense Authorization Act for Fiscal Year 1994 ([Public Law 103–160][/us/pl/103/160], [10 U.S.C. 2371][/us/usc/t10/s2371] note), referred to in subsec. (a)(2), was repealed by [Pub. L. 114–92, div. A, title VIII, § 815(c)][/us/pl/114/92/s815/c], Nov. 25, 2015, [129 Stat. 896][/us/stat/129/896].
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t41/stI/dB/ch19/m__us_usc_t41_s1903.md) | [Next](./../../../../../..//us/usc/t41/stI/dB/ch19/m__us_usc_t41_s1905.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1904)
@@ -131,5 +135,9 @@ Pub. L. 108–136, title XIV, § 1441, Nov. 24, 2003, 117 Stat. 1673.  </td>
 [/us/stat/117/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1554
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/stat/119/3387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3387
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/usc/t10/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371
+[/us/pl/114/92/s815/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs815%2Fc
+[/us/stat/129/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F896
 
 

@@ -39,9 +39,9 @@
 
          the term “simplified acquisition threshold” means—
 
-            (A) $250,000 in the case of a contract to be awarded and performed, or purchase to be made, in the United States; and
+            (A) $750,000 in the case of a contract to be awarded and performed, or purchase to be made, in the United States; and
 
-            (B) $1,000,000 in the case of a contract to be awarded and performed, or purchase to be made, outside the United States; and
+            (B) $1,500,000 in the case of a contract to be awarded and performed, or purchase to be made, outside the United States; and
 
         (3) the $5,000,000 limitation in sections 1901(a)(2) and 3305(a)(2) of this title and [section 2304(g)(1)(B) of title 10][/us/usc/t10/s2304/g/1/B] is deemed to be $10,000,000.
 
@@ -59,7 +59,7 @@
 
             (B) cost or pricing data requirements (commonly referred to as truth in negotiating) under chapter 35 of this title and [section 2306a of title 10][/us/usc/t10/s2306a].
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3721][/us/stat/124/3721].)
+([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3721][/us/stat/124/3721]; [Pub. L. 114–92, div. A, title VIII, § 816][/us/pl/114/92/s816], Nov. 25, 2015, [129 Stat. 897][/us/stat/129/897].)
 
 <table>
 
@@ -135,6 +135,12 @@ Pub. L. 93–400, § 32A, as added Pub. L. 108–136, title XIV, § 1443(a)(
 
 </table>
 
+ __Amendments__ 
+
+    2015—Subsec. (b)(2)(A). [Pub. L. 114–92, § 816(1)][/us/pl/114/92/s816/1], substituted “$750,000” for “$250,000”.
+
+    Subsec. (b)(2)(B). [Pub. L. 114–92, § 816(2)][/us/pl/114/92/s816/2], substituted “$1,500,000” for “$1,000,000”.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t41/stI/dB/ch19/m__us_usc_t41_s1902.md) | [Next](./../../../../../..//us/usc/t41/stI/dB/ch19/m__us_usc_t41_s1904.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1903)
@@ -148,5 +154,9 @@ Pub. L. 93–400, § 32A, as added Pub. L. 108–136, title XIV, § 1443(a)(
 [/us/usc/t10/s2306a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a
 [/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
 [/us/stat/124/3721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3721
+[/us/pl/114/92/s816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs816
+[/us/stat/129/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F897
+[/us/pl/114/92/s816/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs816%2F1
+[/us/pl/114/92/s816/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs816%2F2
 
 

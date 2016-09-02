@@ -69,15 +69,21 @@
 
         (2)
 
-         rounded, in the case of a dollar threshold that on the day before the adjustment is—
+         rounded, in the case of a dollar threshold that as calculated under paragraph (1) is—
 
             (A) less than $10,000, to the nearest $500;
 
             (B) not less than $10,000, but less than $100,000, to the nearest $5,000;
 
-            (C) not less than $100,000, but less than $1,000,000, to the nearest $50,000; and
+            (C) not less than $100,000, but less than $1,000,000, to the nearest $50,000;
 
-            (D) $1,000,000 or more, to the nearest $500,000.
+            (D) not less than $1,000,000, but less than $10,000,000, to the nearest $500,000;
+
+            (E) not less than $10,000,000, but less than $100,000,000, to the nearest $5,000,000;
+
+            (F) not less than $100,000,000, but less than $1,000,000,000, to the nearest $50,000,000; and
+
+            (G) $1,000,000,000 or more, to the nearest $500,000,000.
 
     (f) __Petition for Inclusion of Omitted Threshold.—__ 
 
@@ -97,7 +103,7 @@
 
         The adjustment of a dollar threshold pursuant to a petition under this subsection takes effect on the date the revised notice adding the adjustment under paragraph (2)(B) is published.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3725][/us/stat/124/3725].)
+([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3725][/us/stat/124/3725]; [Pub. L. 114–92, div. A, title VIII, § 817][/us/pl/114/92/s817], Nov. 25, 2015, [129 Stat. 897][/us/stat/129/897].)
 
 <table>
 
@@ -269,6 +275,12 @@ Pub. L. 108–375, title VIII, § 807(c)(2), Oct. 28, 2004, 118 Stat. 2011.  <
 
     The Trade Agreements Act of 1979, referred to in subsec. (b)(2)(C), is [Pub. L. 96–39][/us/pl/96/39], July 26, 1979, [93 Stat. 144][/us/stat/93/144]. Title III of the Act is classified generally to subchapter I (§ 2511 et seq.) of chapter 13 of Title 19, Customs Duties. For complete classification of this Act to the Code, see References in Text note set out under [section 2501 of Title 19][/us/usc/t19/s2501] and Tables.
 
+ __Amendments__ 
+
+    2015—Subsec. (e)(2). [Pub. L. 114–92, § 817(1)][/us/pl/114/92/s817/1], substituted “as calculated under paragraph (1)” for “on the day before the adjustment” in introductory provisions.
+
+    Subsec. (e)(2)(D) to (G). [Pub. L. 114–92, § 817(2)][/us/pl/114/92/s817/2], (3), added subpars. (D) to (G) and struck out former subpar. (D) which read as follows: “$1,000,000 or more, to the nearest $500,000.”
+
  __Adjustment for Inflation of Right-Hand Drive Passenger Sedans__ 
 
 [Pub. L. 112–81, div. A, title VIII, § 814(b)][/us/pl/112/81/s814/b], Dec. 31, 2011, [125 Stat. 1491][/us/stat/125/1491], provided that: 
@@ -286,9 +298,13 @@ Pub. L. 108–375, title VIII, § 807(c)(2), Oct. 28, 2004, 118 Stat. 2011.  <
 [/us/usc/t19/s2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2511
 [/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
 [/us/stat/124/3725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3725
+[/us/pl/114/92/s817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs817
+[/us/stat/129/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F897
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/stat/93/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F144
 [/us/usc/t19/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2501
+[/us/pl/114/92/s817/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs817%2F1
+[/us/pl/114/92/s817/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs817%2F2
 [/us/pl/112/81/s814/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs814%2Fb
 [/us/stat/125/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1491
 [/us/usc/t41/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1302

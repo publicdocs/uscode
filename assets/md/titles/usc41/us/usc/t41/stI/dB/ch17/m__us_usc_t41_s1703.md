@@ -509,6 +509,12 @@ Pub. L. 93–400, § 37(i), as added Pub. L. 109–313, § 4, Oct. 6, 2006, 
 
     [Pub. L. 112–239, div. A, title X, § 1076(a)][/us/pl/112/239/s1076/a], Jan. 2, 2013, [126 Stat. 1947][/us/stat/126/1947], provided that the amendment made by section 1076(a)(15) is effective Dec. 31, 2011, and as if included in [Pub. L. 112–81][/us/pl/112/81] as enacted.
 
+ __Effective Communication Between Government and Industry__ 
+
+[Pub. L. 114–92, div. A, title VIII, § 887][/us/pl/114/92/s887], Nov. 25, 2015, [129 Stat. 949][/us/stat/129/949], provided that: 
+
+> “Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Federal Acquisition Regulatory Council shall prescribe a regulation making clear that agency acquisition personnel are permitted and encouraged to engage in responsible and constructive exchanges with industry, so long as those exchanges are consistent with existing law and regulation and do not promote an unfair competitive advantage to particular firms.”
+
  __Training for Contracting and Enforcement Personnel__ 
 
 [Pub. L. 111–240, title I, § 1343(a)][/us/pl/111/240/s1343/a], Sept. 27, 2010, [124 Stat. 2545][/us/stat/124/2545], provided that: 
@@ -581,6 +587,8 @@ Pub. L. 93–400, § 37(i), as added Pub. L. 109–313, § 4, Oct. 6, 2006, 
 [/us/pl/112/239/s1076/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa
 [/us/stat/126/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1947
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/114/92/s887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs887
+[/us/stat/129/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F949
 [/us/pl/111/240/s1343/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1343%2Fa
 [/us/stat/124/2545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2545
 [/us/pl/109/163/s821/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs821%2Fc
