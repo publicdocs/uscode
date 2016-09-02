@@ -1,0 +1,312 @@
+---
+---
+
+# 5 U.S.C., USLM ref /us/usc/t5/s8905
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../..//us/usc/t5/ptIII/sptG/ch89/m__us_usc_t5_s8904.md) | [Next](./../../../../../..//us/usc/t5/ptIII/sptG/ch89/m__us_usc_t5_s8905a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8905)
+
+## § 8905. Election of coverage
+
+    (a) An employee may enroll in an approved health benefits plan described by section 8903 or 8903a of this title either as an individual or for self and family.
+
+    (b)
+
+     An annuitant who at the time he becomes an annuitant was enrolled in a health benefits plan under this chapter—
+
+        (1)
+
+         as an employee for a period of not less than—
+
+            (A) the 5 years of service immediately before retirement;
+
+            (B) the full period or periods of service between the last day of the first period, as prescribed by regulations of the Office of Personnel Management, in which he is eligible to enroll in the plan and the date on which he becomes an annuitant; or
+
+            (C) the full period or periods of service beginning with the enrollment which became effective before January 1, 1965, and ending with the date on which he becomes an annuitant;
+
+            whichever is shortest; or
+
+        (2) as a member of the family of an employee or annuitant;
+
+        may continue his enrollment under the conditions of eligibility prescribed by regulations of the Office. The Office may, in its sole discretion, waive the requirements of this subsection in the case of an individual who fails to satisfy such requirements if the Office determines that, due to exceptional circumstances, it would be against equity and good conscience not to allow such individual to be enrolled as an annuitant in a health benefits plan under this chapter  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup> 
+
+    (c)
+
+        (1)
+
+         A former spouse may—
+
+            (A) within 60 days after the dissolution of the marriage, or
+
+            (B) in the case of a former spouse of a former employee whose marriage was dissolved after the employee’s retirement, within 60 days after the dissolution of the marriage or, if later, within 60 days after an election is made under section 8339(j)(3) or 8417(b) of this title for such former spouse by the retired employee,
+
+            enroll in an approved health benefits plan described by section 8903 or 8903a of this title as an individual or for self and family as provided in paragraph (2) of this subsection, subject to agreement to pay the full subscription charge of the enrollment, including the amounts determined by the Office to be necessary for administration and reserves pursuant to [section 8909(b) of this title][/us/usc/t5/s8909/b]. The former spouse shall submit an enrollment application and make premium payments to the agency which, at the time of divorce or annulment, employed the employee to whom the former spouse was married or, in the case of a former spouse who is receiving annuity payments under section 8341(h), 8345(j), 8445, or 8467 of this title, to the Office of Personnel Management.
+
+        (2)
+
+         Coverage for self and family under this subsection shall be limited to—
+
+            (A) the former spouse; and
+
+            (B)
+
+             unmarried dependent natural or adopted children of the former spouse and the employee who are—
+
+                (i) under 22 years of age; or
+
+                (ii) incapable of self-support because of mental or physical disability which existed before age 22.
+
+    (d) An individual whom the Secretary of Defense determines is an eligible beneficiary under subsection (b) of [section 1108 of title 10][/us/usc/t10/s1108] may enroll, as part of the demonstration project under such section, in a health benefits plan under this chapter in accordance with the agreement under subsection (a) of such section between the Secretary and the Office and applicable regulations under this chapter.
+
+    (e) If an employee, annuitant, or other individual eligible to enroll in a health benefits plan under this chapter has a spouse who is also eligible to enroll, either spouse, but not both, may enroll for self and family, or each spouse may enroll as an individual. However, an individual may not be enrolled both as an employee, annuitant, or other individual eligible to enroll and as a member of the family.
+
+    (f) An employee, annuitant, former spouse, or person having continued coverage under [section 8905a of this title][/us/usc/t5/s8905a] enrolled in a health benefits plan under this chapter may change his coverage or that of himself and members of his family by an application filed within 60 days after a change in family status or at other times and under conditions prescribed by regulations of the Office.
+
+    (g)
+
+        (1)
+
+         Under regulations prescribed by the Office, the Office shall, before the start of any contract term in which—
+
+            (A) an adjustment is made in any of the rates charged or benefits provided under a health benefits plan described by section 8903 or 8903a of this title,
+
+            (B) a newly approved health benefits plan is offered, or
+
+            (C) an existing plan is terminated,
+
+            provide a period of not less than 3 weeks during which any employee, annuitant, former spouse, or person having continued coverage under [section 8905a of this title][/us/usc/t5/s8905a] enrolled in a health benefits plan described by such section shall be permitted to transfer that individual’s enrollment to another such plan or to cancel such enrollment.
+
+        (2) In addition to any opportunity afforded under paragraph (1) of this subsection, an employee, annuitant, former spouse, or person having continued coverage under [section 8905a of this title][/us/usc/t5/s8905a] enrolled in a health benefits plan under this chapter shall be permitted to transfer that individual’s enrollment to another such plan, or to cancel such enrollment, at such other times and subject to such conditions as the Office may prescribe in regulations.
+
+        (3)
+
+            (A) In addition to any informational requirements otherwise applicable under this chapter, the regulations shall include provisions to ensure that each employee eligible to enroll in a health benefits plan under this chapter (whether actually enrolled or not) is notified in writing as to the rights afforded under [section 8905a of this title][/us/usc/t5/s8905a].
+
+            (B) Notification under this paragraph shall be provided by employing agencies at an appropriate point in time before each period under paragraph (1) so that employees may be aware of their rights under [section 8905a of this title][/us/usc/t5/s8905a] when making enrollment decisions during such period.
+
+    (h)
+
+        (1) An unenrolled employee who is required by a court or administrative order to provide health insurance coverage for a child who meets the requirements of section 8901(5) may enroll for self and family coverage in a health benefits plan under this chapter. If such employee fails to enroll for self and family coverage in a health benefits plan that provides full benefits and services in the location in which the child resides, and the employee does not provide documentation showing that such coverage has been provided through other health insurance, the employing agency shall enroll the employee in a self and family enrollment in the option which provides the lower level of coverage under the Service Benefit Plan.
+
+        (2) An employee who is enrolled as an individual in a health benefits plan under this chapter and who is required by a court or administrative order to provide health insurance coverage for a child who meets the requirements of section 8901(5) may change to a self and family enrollment in the same or another health benefits plan under this chapter. If such employee fails to change to a self and family enrollment and the employee does not provide documentation showing that such coverage has been provided through other health insurance, the employing agency shall change the enrollment of the employee to a self and family enrollment in the plan in which the employee is enrolled if that plan provides full benefits and services in the location where the child resides. If the plan in which the employee is enrolled does not provide full benefits and services in the location in which the child resides, or, if the employee fails to change to a self and family enrollment in a plan that provides full benefits and services in the location where the child resides, the employing agency shall change the coverage of the employee to a self and family enrollment in the option which provides the lower level of coverage under the Service Benefits Plan.
+
+        (3) The employee may not discontinue the self and family enrollment in a plan that provides full benefits and services in the location in which the child resides for so long as the court or administrative order remains in effect and the child continues to meet the requirements of section 8901(5), unless the employee provides documentation showing that such coverage has been provided through other health insurance.
+
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 603][/us/stat/80/603]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 98–615, § 3(4)][/us/pl/98/615/s3/4], Nov. 8, 1984, [98 Stat. 3203][/us/stat/98/3203]; [Pub. L. 99–53, § 2(a)][/us/pl/99/53/s2/a], (c), June 17, 1985, [99 Stat. 94][/us/stat/99/94]; [Pub. L. 99–251, title I][/us/pl/99/251], §§ 103, 104(a), Feb. 27, 1986, [100 Stat. 14][/us/stat/100/14]; [Pub. L. 99–335, title II, § 207(m)][/us/pl/99/335/s207/m], June 6, 1986, [100 Stat. 598][/us/stat/100/598]; [Pub. L. 100–654, title II][/us/pl/100/654], §§ 201(c), (d), 202(c), Nov. 14, 1988, [102 Stat. 3845][/us/stat/102/3845]; [Pub. L. 102–378, § 2(77)][/us/pl/102/378/s2/77], Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355]; [Pub. L. 105–261, div. A, title VII, § 721(b)(1)][/us/pl/105/261/s721/b/1], Oct. 17, 1998, [112 Stat. 2065][/us/stat/112/2065]; [Pub. L. 106–394, § 2][/us/pl/106/394/s2], Oct. 30, 2000, [114 Stat. 1629][/us/stat/114/1629].)
+
+<table>
+
+  <tr>
+
+    <td colspan="3"> 
+
+Historical and Revision Notes  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Derivation  </td>
+
+    <td> 
+
+U.S. Code  </td>
+
+    <td> 
+
+Revised Statutes and
+
+Statutes at Large  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+   </td>
+
+    <td> 
+
+5 U.S.C. 3002(a) (1st sentence, less words between 1st and 4th commas), (b)–(e).  </td>
+
+    <td> 
+
+Sept. 28, 1959, Pub. L. 86–382, § 3(a) (1st sentence, less words between 1st and 4th commas), (b)–(e), 73 Stat. 710.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+   </td>
+
+    <td> 
+
+   </td>
+
+    <td> 
+
+Mar. 17, 1964, Pub. L. 88–284, § 1(5), 78 Stat. 164.  </td>
+
+  </tr>
+
+</table>
+
+    In subsection (b)(1), the words “as an employee” are inserted for clarity.
+
+    In subsection (b)(1)(C), the words “before January 1, 1965” are substituted for “not later than December 31, 1964”.
+
+    Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+ __Amendments__ 
+
+    2000—Subsec. (h). [Pub. L. 106–394][/us/pl/106/394] added subsec. (h).
+
+    1998—Subsecs. (d) to (g). [Pub. L. 105–261][/us/pl/105/261] added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
+
+    1992—Subsec. (b). [Pub. L. 102–378, § 2(77)(A)][/us/pl/102/378/s2/77/A], substituted “this chapter” for “this subchapter.” at end.
+
+    Subsec. (c)(1). [Pub. L. 102–378, § 2(77)(B)][/us/pl/102/378/s2/77/B], inserted comma after “8341(h)” in last sentence.
+
+    1988—Subsec. (d). [Pub. L. 100–654, § 202(c)][/us/pl/100/654/s202/c], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “If an employee has a spouse who is an employee, either spouse, but not both, may enroll for self and family, or each spouse may enroll as an individual. However, an individual may not be enrolled both as an employee or annuitant and as a member of the family.”
+
+    Subsecs. (e), (f)(1), (2). [Pub. L. 100–654, § 201(c)][/us/pl/100/654/s201/c], (d)(1), substituted “former spouse, or person having continued coverage under [section 8905a of this title][/us/usc/t5/s8905a]” for “or former spouse”.
+
+    Subsec. (f)(3). [Pub. L. 100–654, § 201(d)(2)][/us/pl/100/654/s201/d/2], added par. (3).
+
+    1986—Subsec. (b). [Pub. L. 99–251, § 103][/us/pl/99/251/s103], inserted last sentence relating to waiver of the requirements of this subsection if it would be against equity to prohibit enrollment.
+
+    Subsec. (c)(1). [Pub. L. 99–335][/us/pl/99/335] inserted in subpar. (B) “or 8417(b)” and substituted in provision following subpar. (B) “8345(j), 8445, or 8467” for “or 8345(j)”.
+
+    Subsec. (f). [Pub. L. 99–251, § 104(a)][/us/pl/99/251/s104/a], amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “An employee, annuitant, or former spouse enrolled in a health benefits plan under this chapter may change his coverage or that of himself and members of his family by an application filed within 60 days after a change in family status or at other times and under conditions prescribed by regulations of the Office.”
+
+    1985—Subsecs. (a), (c)(1). [Pub. L. 99–53, § 2(a)][/us/pl/99/53/s2/a], inserted reference to [section 8903a of this title][/us/usc/t5/s8903a].
+
+    Subsec. (f). [Pub. L. 99–53, § 2(a)][/us/pl/99/53/s2/a], (c), inserted reference to [section 8903a of this title][/us/usc/t5/s8903a] and substituted “such plan” for “plan described by that section”.
+
+    1984—Subsec. (c). [Pub. L. 98–615, § 3(4)(A)][/us/pl/98/615/s3/4/A], added subsec. (c). Former subsec. (c) redesignated (d).
+
+    Subsec. (d). [Pub. L. 98–615, § 3(4)(A)][/us/pl/98/615/s3/4/A], redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+    Subsec. (e). [Pub. L. 98–615, § 3(4)][/us/pl/98/615/s3/4], redesignated former subsec. (d) as (e) and substituted “An employee, annuitant, or former spouse” for “An employee or annuitant”. Former subsec. (e) redesignated (f).
+
+    Subsec. (f). [Pub. L. 98–615, § 3(4)][/us/pl/98/615/s3/4], redesignated former subsec. (e) as (f) and substituted “An employee, annuitant, or former spouse” for “An employee or annuitant”.
+
+    1978—Subsecs. (b), (d), (e). [Pub. L. 95–454][/us/pl/95/454] substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+
+ __Effective Date of 1988 Amendment__ 
+
+    Amendment by [Pub. L. 100–654][/us/pl/100/654] applicable with respect to any calendar year beginning, and contracts entered into or renewed for any calendar year beginning, after end of 9-month period beginning Nov. 14, 1988, and with respect to any qualifying event occurring on or after first day of first calendar year beginning after end of such 9-month period, see [section 203 of Pub. L. 100–654][/us/pl/100/654/s203], set out as a note under [section 8902 of this title][/us/usc/t5/s8902].
+
+ __Effective Date of 1986 Amendments__ 
+
+    Amendment by [Pub. L. 99–335][/us/pl/99/335] effective Jan. 1, 1987, see [section 702(a) of Pub. L. 99–335][/us/pl/99/335/s702/a], set out as an Effective Date note under [section 8401 of this title][/us/usc/t5/s8401].
+
+[Pub. L. 99–251, title I, § 104(b)][/us/pl/99/251/s104/b], Feb. 27, 1986, [100 Stat. 15][/us/stat/100/15], provided that: 
+
+> “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to contracts entered into or renewed for calendar years beginning after December 31, 1986.”
+
+ __Effective Date of 1984 Amendment__ 
+
+    Amendment by [Pub. L. 98–615][/us/pl/98/615] effective May 7, 1985, with enumerated exceptions, and applicable to any individual who is married to an employee or annuitant on or after that date, see [section 4(a)(2) of Pub. L. 98–615][/us/pl/98/615/s4/a/2], as amended, set out as a note under [section 8341 of this title][/us/usc/t5/s8341].
+
+ __Effective Date of 1978 Amendment__ 
+
+    Amendment by [Pub. L. 95–454][/us/pl/95/454] effective 90 days after Oct. 13, 1978, see [section 907 of Pub. L. 95–454][/us/pl/95/454/s907], set out as a note under [section 1101 of this title][/us/usc/t5/s1101].
+
+ __Election of Health Benefits Coverage and Entitlement to Health Benefits Under this Chapter Rather Than Under Retired Federal Employees Health Benefits Act__ 
+
+[Pub. L. 93–246][/us/pl/93/246], §§ 2, 4(b), Jan. 31, 1974, [88 Stat. 4][/us/stat/88/4], provided that:
+
+> “Sec. 2.
+
+>      (a) Notwithstanding any other provision of law, an annuitant, as defined under [section 8901(3) of title 5][/us/usc/t5/s8901/3], United States Code, who is participating or who is eligible to participate in the health benefits program offered under the Retired Federal Employees Health Benefits Act ([74 Stat. 849][/us/stat/74/849]; [Public Law 86–724][/us/pl/86/724]), may elect, in accordance with regulations prescribed by the United States Civil Service Commission, to be covered under the provisions of chapter 89 of title 5, United States Code \[this chapter\], in lieu of coverage under such Act.
+
+>     “(b) An annuitant who elects to be covered under the provisions of chapter 89 of title 5, United States Code \[this chapter\], in accordance with subsection (a) of this section, shall be entitled to the benefits under such chapter 89.    “\[Sec. 4\] (b) Section 2 \[set out above\] shall take effect on the one hundred and eightieth day following the date of enactment \[Jan. 1, 1974\] or on such earlier date as the United States Civil Service Commission may prescribe.”
+
+----------
+
+[Previous](./../../../../../..//us/usc/t5/ptIII/sptG/ch89/m__us_usc_t5_s8904.md) | [Next](./../../../../../..//us/usc/t5/ptIII/sptG/ch89/m__us_usc_t5_s8905a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8905)
+
+----------
+----------
+
+[/us/usc/t5/s8909/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8909%2Fb
+[/us/usc/t10/s1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1108
+[/us/usc/t5/s8905a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8905a
+[/us/usc/t5/s8905a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8905a
+[/us/usc/t5/s8905a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8905a
+[/us/usc/t5/s8905a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8905a
+[/us/usc/t5/s8905a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8905a
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
+[/us/stat/80/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F603
+[/us/pl/95/454/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs906%2Fa%2F2
+[/us/stat/92/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1224
+[/us/pl/98/615/s3/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs3%2F4
+[/us/stat/98/3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3203
+[/us/pl/99/53/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53%2Fs2%2Fa
+[/us/stat/99/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F94
+[/us/pl/99/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251
+[/us/stat/100/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F14
+[/us/pl/99/335/s207/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs207%2Fm
+[/us/stat/100/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F598
+[/us/pl/100/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654
+[/us/stat/102/3845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3845
+[/us/pl/102/378/s2/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F77
+[/us/stat/106/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1355
+[/us/pl/105/261/s721/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs721%2Fb%2F1
+[/us/stat/112/2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2065
+[/us/pl/106/394/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F394%2Fs2
+[/us/stat/114/1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1629
+[/us/pl/106/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F394
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/102/378/s2/77/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F77%2FA
+[/us/pl/102/378/s2/77/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F77%2FB
+[/us/pl/100/654/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654%2Fs202%2Fc
+[/us/pl/100/654/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654%2Fs201%2Fc
+[/us/usc/t5/s8905a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8905a
+[/us/pl/100/654/s201/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654%2Fs201%2Fd%2F2
+[/us/pl/99/251/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2Fs103
+[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
+[/us/pl/99/251/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2Fs104%2Fa
+[/us/pl/99/53/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53%2Fs2%2Fa
+[/us/usc/t5/s8903a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8903a
+[/us/pl/99/53/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53%2Fs2%2Fa
+[/us/usc/t5/s8903a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8903a
+[/us/pl/98/615/s3/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs3%2F4%2FA
+[/us/pl/98/615/s3/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs3%2F4%2FA
+[/us/pl/98/615/s3/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs3%2F4
+[/us/pl/98/615/s3/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs3%2F4
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/100/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654
+[/us/pl/100/654/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F654%2Fs203
+[/us/usc/t5/s8902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8902
+[/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
+[/us/pl/99/335/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs702%2Fa
+[/us/usc/t5/s8401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8401
+[/us/pl/99/251/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F251%2Fs104%2Fb
+[/us/stat/100/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F15
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
+[/us/pl/98/615/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs4%2Fa%2F2
+[/us/usc/t5/s8341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8341
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
+[/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
+[/us/pl/93/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F246
+[/us/stat/88/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F4
+[/us/usc/t5/s8901/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8901%2F3
+[/us/stat/74/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F849
+[/us/pl/86/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F724
+
+

@@ -1,0 +1,32 @@
+---
+---
+
+# 5 U.S.C., USLM ref /us/usc/t5/s5550
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../../..//us/usc/t5/ptIII/sptD/ch55/schV/m__us_usc_t5_s5549.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptD/ch55/schV/m__us_usc_t5_s5550a.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5550)
+
+## \[§ 5550. Repealed. [Pub. L. 102–378, § 2(44)(A)][/us/pl/102/378/s2/44/A], Oct. 2, 1992, [106 Stat. 1352][/us/stat/106/1352]\]
+
+    Section, added [Pub. L. 92–392, § 10(a)][/us/pl/92/392/s10/a], Aug. 19, 1972, [86 Stat. 574][/us/stat/86/574], related to pay for Sunday and overtime work for employees of nonappropriated fund instrumentalities.
+
+----------
+
+[Previous](./../../../../../../..//us/usc/t5/ptIII/sptD/ch55/schV/m__us_usc_t5_s5549.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptD/ch55/schV/m__us_usc_t5_s5550a.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5550)
+
+----------
+----------
+
+[/us/pl/102/378/s2/44/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378%2Fs2%2F44%2FA
+[/us/stat/106/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1352
+[/us/pl/92/392/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392%2Fs10%2Fa
+[/us/stat/86/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F574
+
+

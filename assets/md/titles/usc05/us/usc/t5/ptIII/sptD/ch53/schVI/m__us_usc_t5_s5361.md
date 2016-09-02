@@ -1,0 +1,145 @@
+---
+---
+
+# 5 U.S.C., USLM ref /us/usc/t5/s5361
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../../..//us/usc/t5/ptIII/sptD/ch53/schVI/m__us_usc_t5_ptIII_sptD_ch53_schVI.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptD/ch53/schVI/m__us_usc_t5_s5362.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5361)
+
+## § 5361. Definitions
+
+For the purpose of this subchapter—
+
+    (1) “employee” means an employee to whom chapter 51 of this title applies, and a prevailing rate employee, as defined by [section 5342(a)(2) of this title][/us/usc/t5/s5342/a/2], whose employment is other than on a temporary or term basis;
+
+    (2) “agency” has the meaning given it by [section 5102 of this title][/us/usc/t5/s5102];
+
+    (3) “retained grade” means the grade used for determining benefits to which an employee to whom [section 5362 of this title][/us/usc/t5/s5362] applies is entitled;
+
+    (4)
+
+     “rate of basic pay” means—
+
+        (A)
+
+         the rate of basic pay payable to an employee under law or regulations before any deductions or additions of any kind, but including—
+
+            (i) any applicable locality-based comparability payment under section 5304 or similar provision of law;
+
+            (ii) any applicable special pay under section 5305 or similar provision of law; and
+
+            (iii) subject to such regulations as the Office of Personnel Management may prescribe, any applicable existing retained rate of pay established under section 5363 or similar provision of law; and
+
+        (B) in the case of a prevailing rate employee, the scheduled rate of pay determined under section 5343;
+
+    (5) “covered pay schedule” means the General Schedule, any prevailing rate schedule established under subchapter IV of this chapter, or a special occupational pay system under subchapter IX;
+
+    (6) “position subject to this subchapter” means any position under a covered pay schedule;
+
+    (7) “reduction-in-force procedures” means procedures applied in carrying out any reduction in force due to a reorganization, due to lack of funds or curtailment of work, or due to any other factor; and
+
+    (8) “retained rate” means the rate of basic pay to which an employee is entitled under section 5363(b)(2).
+
+(Added [Pub. L. 95–454, title VIII, § 801(a)(1)][/us/pl/95/454/s801/a/1], Oct. 13, 1978, [92 Stat. 1218][/us/stat/92/1218]; amended [Pub. L. 98–615, title II, § 204(a)(2)][/us/pl/98/615/s204/a/2], Nov. 8, 1984, [98 Stat. 3216][/us/stat/98/3216]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 105(b)(1)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1448; [Pub. L. 103–89, § 3(b)(1)(J)][/us/pl/103/89/s3/b/1/J], Sept. 30, 1993, [107 Stat. 982][/us/stat/107/982]; [Pub. L. 108–411, title III, § 301(a)(4)][/us/pl/108/411/s301/a/4], Oct. 30, 2004, [118 Stat. 2315][/us/stat/118/2315].)
+
+ __References in Text__ 
+
+    The General Schedule, referred to in par. (5), is set out under [section 5332 of this title][/us/usc/t5/s5332].
+
+ __Prior Provisions__ 
+
+    A prior section 5361, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 473][/us/stat/80/473], which related to scientific and professional positions, was renumbered [section 5371 of this title][/us/usc/t5/s5371] by [Pub. L. 95–454, title VIII, § 801(a)(3)(A)(ii)][/us/pl/95/454/s801/a/3/A/ii], Oct. 13, 1978, [92 Stat. 1221][/us/stat/92/1221].
+
+ __Amendments__ 
+
+    2004—Par. (4). [Pub. L. 108–411, § 301(a)(4)(A)][/us/pl/108/411/s301/a/4/A], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “ ‘rate of basic pay’ means, in the case of a prevailing rate employee, the scheduled rate of pay determined under [section 5343 of this title][/us/usc/t5/s5343];”.
+
+    Par. (8). [Pub. L. 108–411, § 301(a)(4)(B)][/us/pl/108/411/s301/a/4/B]–(D), added par. (8).
+
+    1993—Par. (5). [Pub. L. 103–89][/us/pl/103/89] substituted “or a special occupational pay system under subchapter IX” for “a special occupational pay system under subchapter IX, or the performance management and recognition system under chapter 54 of this title”.
+
+    1990—Par. (5). [Pub. L. 101–509][/us/pl/101/509] inserted “a special occupational pay system under subchapter IX,” before “or the performance”.
+
+    1984—Par. (5). [Pub. L. 98–615][/us/pl/98/615] substituted “performance management and recognition system” for “merit pay system”.
+
+ __Effective Date of 2004 Amendment__ 
+
+    Amendment by [Pub. L. 108–411][/us/pl/108/411] effective on the first day of the first applicable pay period beginning on or after the 180th day after Oct. 30, 2004, with provisions relating to conversion rules, see [section 301(d) of Pub. L. 108–411][/us/pl/108/411/s301/d], set out as a note under [section 5363 of this title][/us/usc/t5/s5363].
+
+ __Effective Date of 1993 Amendment__ 
+
+    Amendment by [Pub. L. 103–89][/us/pl/103/89] effective Nov. 1, 1993, see [section 3(c) of Pub. L. 103–89][/us/pl/103/89/s3/c], set out as a note under [section 3372 of this title][/us/usc/t5/s3372].
+
+ __Effective Date of 1990 Amendment__ 
+
+    Amendment by [Pub. L. 101–509][/us/pl/101/509] effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, § 305\] of [Pub. L. 101–509][/us/pl/101/509], set out as a note under [section 5301 of this title][/us/usc/t5/s5301].
+
+ __Effective Date of 1984 Amendment__ 
+
+    [Pub. L. 98–615, title II, § 205][/us/pl/98/615/s205], Nov. 8, 1984, [98 Stat. 3217][/us/stat/98/3217], provided that amendment by [Pub. L. 98–615][/us/pl/98/615] was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
+
+ __Effective Date__ 
+
+[Pub. L. 95–454, title VIII, § 801(a)(4)][/us/pl/95/454/s801/a/4], Oct. 13, 1978, [92 Stat. 1222][/us/stat/92/1222], provided that:
+
+>     “(A) The amendments made by this subsection \[enacting sections 5361 to 5366 of this title and redesignating former sections 5361 to 5366 as sections 5371 to 5375 of this title, amending sections 559, 1305, 3104, 5102, 5107, 5334, 5349, and 8704 of this title, sections 4540, 7212, and 9540 of Title 10, Armed Forces, [section 1715 of Title 15][/us/usc/t15/s1715], Commerce and Trade, and [section 3608 of Title 42][/us/usc/t42/s3608], The Public Health and Welfare, and repealing sections 5337 and 5345 of this title\] shall take effect on the first day of the first applicable pay period beginning on or after the 90th day after the date of the enactment of this Act \[Oct. 13, 1978\].
+
+>     “(B) An employee who was receiving pay under the provisions of section 5334(d), 5337, or 5345 of title 5, United States Code, on the day before the effective date prescribed in subparagraph (A) of this paragraph shall not have such pay reduced or terminated by reason of the amendments made by this subsection and, unless section 5362 of such title 5 (as amended by subsection (a)(1) of this section) applies, such an employee is entitled to continue to receive pay as authorized by those provisions (as in effect on such date).”
+
+----------
+
+[Previous](./../../../../../../..//us/usc/t5/ptIII/sptD/ch53/schVI/m__us_usc_t5_ptIII_sptD_ch53_schVI.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptD/ch53/schVI/m__us_usc_t5_s5362.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5361)
+
+----------
+----------
+
+[/us/usc/t5/s5342/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5342%2Fa%2F2
+[/us/usc/t5/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5102
+[/us/usc/t5/s5362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5362
+[/us/pl/95/454/s801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs801%2Fa%2F1
+[/us/stat/92/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1218
+[/us/pl/98/615/s204/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs204%2Fa%2F2
+[/us/stat/98/3216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3216
+[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
+[/us/pl/103/89/s3/b/1/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89%2Fs3%2Fb%2F1%2FJ
+[/us/stat/107/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F982
+[/us/pl/108/411/s301/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs301%2Fa%2F4
+[/us/stat/118/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2315
+[/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
+[/us/stat/80/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F473
+[/us/usc/t5/s5371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5371
+[/us/pl/95/454/s801/a/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs801%2Fa%2F3%2FA%2Fii
+[/us/stat/92/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1221
+[/us/pl/108/411/s301/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs301%2Fa%2F4%2FA
+[/us/usc/t5/s5343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5343
+[/us/pl/108/411/s301/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs301%2Fa%2F4%2FB
+[/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
+[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
+[/us/pl/108/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411
+[/us/pl/108/411/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs301%2Fd
+[/us/usc/t5/s5363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5363
+[/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
+[/us/pl/103/89/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89%2Fs3%2Fc
+[/us/usc/t5/s3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3372
+[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
+[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
+[/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301
+[/us/pl/98/615/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615%2Fs205
+[/us/stat/98/3217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3217
+[/us/pl/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F615
+[/us/pl/95/454/s801/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs801%2Fa%2F4
+[/us/stat/92/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1222
+[/us/usc/t15/s1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1715
+[/us/usc/t42/s3608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3608
+
+
