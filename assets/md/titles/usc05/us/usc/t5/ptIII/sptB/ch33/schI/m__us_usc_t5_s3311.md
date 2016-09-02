@@ -15,7 +15,7 @@
 
 ## § 3311. Preference eligibles; examinations; crediting experience
 
-In examinations for the competitive service in which experience is an element of qualification, a preference eligible is entitled to credit—
+    In examinations for the competitive service in which experience is an element of qualification, a preference eligible is entitled to credit—
 
     (1) for service in the armed forces when his employment in a similar vocation to that for which examined was interrupted by the service; and
 

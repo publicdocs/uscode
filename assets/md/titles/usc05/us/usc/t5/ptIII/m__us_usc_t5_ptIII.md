@@ -37,31 +37,31 @@ Subpart A—General Provisions  </td>
 
   <tr>
 
-    <td> 21.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptA%2Fch21" data-uslm-ref="/us/usc/t5/ptIII/sptA/ch21">21.</a>  </td>
 
     <td> Definitions  </td>
 
-    <td> 2101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs2101" data-uslm-ref="/us/usc/t5/s2101">2101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 23.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptA%2Fch23" data-uslm-ref="/us/usc/t5/ptIII/sptA/ch23">23.</a>  </td>
 
     <td> Merit System Principles  </td>
 
-    <td> 2301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs2301" data-uslm-ref="/us/usc/t5/s2301">2301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 29.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptA%2Fch29" data-uslm-ref="/us/usc/t5/ptIII/sptA/ch29">29.</a>  </td>
 
     <td> Commissions, Oaths, Records, and Reports  </td>
 
-    <td> 2901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs2901" data-uslm-ref="/us/usc/t5/s2901">2901</a>  </td>
 
   </tr>
 
@@ -75,51 +75,51 @@ Subpart B—Employment and Retention  </td>
 
   <tr>
 
-    <td> 31.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptB%2Fch31" data-uslm-ref="/us/usc/t5/ptIII/sptB/ch31">31.</a>  </td>
 
     <td> Authority for Employment  </td>
 
-    <td> 3101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3101" data-uslm-ref="/us/usc/t5/s3101">3101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 33.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptB%2Fch33" data-uslm-ref="/us/usc/t5/ptIII/sptB/ch33">33.</a>  </td>
 
     <td> Examination, Selection, and Placement  </td>
 
-    <td> 3301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3301" data-uslm-ref="/us/usc/t5/s3301">3301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 34.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptB%2Fch34" data-uslm-ref="/us/usc/t5/ptIII/sptB/ch34">34.</a>  </td>
 
     <td> Part-Time Career Employment Opportunities  </td>
 
-    <td> 3401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3401" data-uslm-ref="/us/usc/t5/s3401">3401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 35.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptB%2Fch35" data-uslm-ref="/us/usc/t5/ptIII/sptB/ch35">35.</a>  </td>
 
     <td> Retention Preference, Restoration, and Reemployment  <sup>[1]</sup>  <sup><sup> 1 Chapter heading amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F107%2F296" data-uslm-ref="/us/pl/107/296">Pub. L. 107–296</a> without corresponding amendment of part analysis. </sup></sup>   </td>
 
-    <td> 3501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3501" data-uslm-ref="/us/usc/t5/s3501">3501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 37.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptB%2Fch37" data-uslm-ref="/us/usc/t5/ptIII/sptB/ch37">37.</a>  </td>
 
     <td> Information Technology Exchange Program  </td>
 
-    <td> 3701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3701" data-uslm-ref="/us/usc/t5/s3701">3701</a>  </td>
 
   </tr>
 
@@ -133,51 +133,51 @@ Subpart C—Employee Performance  </td>
 
   <tr>
 
-    <td> 41.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptC%2Fch41" data-uslm-ref="/us/usc/t5/ptIII/sptC/ch41">41.</a>  </td>
 
     <td> Training  </td>
 
-    <td> 4101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4101" data-uslm-ref="/us/usc/t5/s4101">4101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 43.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptC%2Fch43" data-uslm-ref="/us/usc/t5/ptIII/sptC/ch43">43.</a>  </td>
 
     <td> Performance Appraisal  </td>
 
-    <td> 4301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4301" data-uslm-ref="/us/usc/t5/s4301">4301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 45.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptC%2Fch45" data-uslm-ref="/us/usc/t5/ptIII/sptC/ch45">45.</a>  </td>
 
     <td> Incentive Awards  </td>
 
-    <td> 4501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4501" data-uslm-ref="/us/usc/t5/s4501">4501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 47.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptC%2Fch47" data-uslm-ref="/us/usc/t5/ptIII/sptC/ch47">47.</a>  </td>
 
     <td> Personnel Research Programs and Demonstration Projects  </td>
 
-    <td> 4701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4701" data-uslm-ref="/us/usc/t5/s4701">4701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 48.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptC%2Fch48" data-uslm-ref="/us/usc/t5/ptIII/sptC/ch48">48.</a>  </td>
 
     <td> Agency Personnel Demonstration Project  </td>
 
-    <td> 4801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4801" data-uslm-ref="/us/usc/t5/s4801">4801</a>  </td>
 
   </tr>
 
@@ -191,61 +191,61 @@ Subpart D—Pay and Allowances  </td>
 
   <tr>
 
-    <td> 51.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptD%2Fch51" data-uslm-ref="/us/usc/t5/ptIII/sptD/ch51">51.</a>  </td>
 
     <td> Classification  </td>
 
-    <td> 5101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5101" data-uslm-ref="/us/usc/t5/s5101">5101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 53.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptD%2Fch53" data-uslm-ref="/us/usc/t5/ptIII/sptD/ch53">53.</a>  </td>
 
     <td> Pay Rates and Systems  </td>
 
-    <td> 5301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5301" data-uslm-ref="/us/usc/t5/s5301">5301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 54.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptD%2Fch54" data-uslm-ref="/us/usc/t5/ptIII/sptD/ch54">54.</a>  </td>
 
     <td> Human Capital Performance Fund  </td>
 
-    <td> 5401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5401" data-uslm-ref="/us/usc/t5/s5401">5401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 55.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptD%2Fch55" data-uslm-ref="/us/usc/t5/ptIII/sptD/ch55">55.</a>  </td>
 
     <td> Pay Administration  </td>
 
-    <td> 5501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5501" data-uslm-ref="/us/usc/t5/s5501">5501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 57.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptD%2Fch57" data-uslm-ref="/us/usc/t5/ptIII/sptD/ch57">57.</a>  </td>
 
     <td> Travel, Transportation, and Subsistence  </td>
 
-    <td> 5701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5701" data-uslm-ref="/us/usc/t5/s5701">5701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 59.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptD%2Fch59" data-uslm-ref="/us/usc/t5/ptIII/sptD/ch59">59.</a>  </td>
 
     <td> Allowances  </td>
 
-    <td> 5901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5901" data-uslm-ref="/us/usc/t5/s5901">5901</a>  </td>
 
   </tr>
 
@@ -259,31 +259,31 @@ Subpart E—Attendance and Leave  </td>
 
   <tr>
 
-    <td> 61.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptE%2Fch61" data-uslm-ref="/us/usc/t5/ptIII/sptE/ch61">61.</a>  </td>
 
     <td> Hours of Work  </td>
 
-    <td> 6101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs6101" data-uslm-ref="/us/usc/t5/s6101">6101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 63.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptE%2Fch63" data-uslm-ref="/us/usc/t5/ptIII/sptE/ch63">63.</a>  </td>
 
     <td> Leave  </td>
 
-    <td> 6301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs6301" data-uslm-ref="/us/usc/t5/s6301">6301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 65.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptE%2Fch65" data-uslm-ref="/us/usc/t5/ptIII/sptE/ch65">65.</a>  </td>
 
     <td> Telework  </td>
 
-    <td> 6501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs6501" data-uslm-ref="/us/usc/t5/s6501">6501</a>  </td>
 
   </tr>
 
@@ -297,61 +297,61 @@ Subpart F—Labor-Management and Employee Relations  </td>
 
   <tr>
 
-    <td> 71.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptF%2Fch71" data-uslm-ref="/us/usc/t5/ptIII/sptF/ch71">71.</a>  </td>
 
     <td> Labor-Management Relations  </td>
 
-    <td> 7101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7101" data-uslm-ref="/us/usc/t5/s7101">7101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 72.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptF%2Fch72" data-uslm-ref="/us/usc/t5/ptIII/sptF/ch72">72.</a>  </td>
 
     <td> Antidiscrimination; Right to Petition Congress  </td>
 
-    <td> 7201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7201" data-uslm-ref="/us/usc/t5/s7201">7201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 73.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptF%2Fch73" data-uslm-ref="/us/usc/t5/ptIII/sptF/ch73">73.</a>  </td>
 
     <td> Suitability, Security, and Conduct  </td>
 
-    <td> 7301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7301" data-uslm-ref="/us/usc/t5/s7301">7301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 75.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptF%2Fch75" data-uslm-ref="/us/usc/t5/ptIII/sptF/ch75">75.</a>  </td>
 
     <td> Adverse Actions  </td>
 
-    <td> 7501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7501" data-uslm-ref="/us/usc/t5/s7501">7501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 77.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptF%2Fch77" data-uslm-ref="/us/usc/t5/ptIII/sptF/ch77">77.</a>  </td>
 
     <td> Appeals  </td>
 
-    <td> 7701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7701" data-uslm-ref="/us/usc/t5/s7701">7701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 79.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptF%2Fch79" data-uslm-ref="/us/usc/t5/ptIII/sptF/ch79">79.</a>  </td>
 
     <td> Services to Employees  </td>
 
-    <td> 7901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7901" data-uslm-ref="/us/usc/t5/s7901">7901</a>  </td>
 
   </tr>
 
@@ -365,91 +365,91 @@ Subpart G—Insurance and Annuities  </td>
 
   <tr>
 
-    <td> 81.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptG%2Fch81" data-uslm-ref="/us/usc/t5/ptIII/sptG/ch81">81.</a>  </td>
 
     <td> Compensation for Work Injuries  </td>
 
-    <td> 8101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8101" data-uslm-ref="/us/usc/t5/s8101">8101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 83.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptG%2Fch83" data-uslm-ref="/us/usc/t5/ptIII/sptG/ch83">83.</a>  </td>
 
     <td> Retirement  </td>
 
-    <td> 8301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8301" data-uslm-ref="/us/usc/t5/s8301">8301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 84.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptG%2Fch84" data-uslm-ref="/us/usc/t5/ptIII/sptG/ch84">84.</a>  </td>
 
     <td> Federal Employees’ Retirement System  </td>
 
-    <td> 8401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8401" data-uslm-ref="/us/usc/t5/s8401">8401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 85.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptG%2Fch85" data-uslm-ref="/us/usc/t5/ptIII/sptG/ch85">85.</a>  </td>
 
     <td> Unemployment Compensation  </td>
 
-    <td> 8501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8501" data-uslm-ref="/us/usc/t5/s8501">8501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 87.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptG%2Fch87" data-uslm-ref="/us/usc/t5/ptIII/sptG/ch87">87.</a>  </td>
 
     <td> Life Insurance  </td>
 
-    <td> 8701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8701" data-uslm-ref="/us/usc/t5/s8701">8701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 89.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptG%2Fch89" data-uslm-ref="/us/usc/t5/ptIII/sptG/ch89">89.</a>  </td>
 
     <td> Health Insurance  </td>
 
-    <td> 8901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8901" data-uslm-ref="/us/usc/t5/s8901">8901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 89A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptG%2Fch89A" data-uslm-ref="/us/usc/t5/ptIII/sptG/ch89A">89A.</a>  </td>
 
     <td> Enhanced Dental Benefits  </td>
 
-    <td> 8951  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8951" data-uslm-ref="/us/usc/t5/s8951">8951</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 89B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptG%2Fch89B" data-uslm-ref="/us/usc/t5/ptIII/sptG/ch89B">89B.</a>  </td>
 
     <td> Enhanced Vision Benefits  </td>
 
-    <td> 8981  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8981" data-uslm-ref="/us/usc/t5/s8981">8981</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 90.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptG%2Fch90" data-uslm-ref="/us/usc/t5/ptIII/sptG/ch90">90.</a>  </td>
 
     <td> Long-Term Care Insurance  </td>
 
-    <td> 9001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs9001" data-uslm-ref="/us/usc/t5/s9001">9001</a>  </td>
 
   </tr>
 
@@ -463,11 +463,11 @@ Subpart H—Access to Criminal History Record Information  </td>
 
   <tr>
 
-    <td> 91.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptH%2Fch91" data-uslm-ref="/us/usc/t5/ptIII/sptH/ch91">91.</a>  </td>
 
     <td> Access to Criminal History Records for National Security and Other Purposes  </td>
 
-    <td> 9101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs9101" data-uslm-ref="/us/usc/t5/s9101">9101</a>  </td>
 
   </tr>
 
@@ -481,61 +481,61 @@ Subpart I—Miscellaneous  </td>
 
   <tr>
 
-    <td> 95.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptI%2Fch95" data-uslm-ref="/us/usc/t5/ptIII/sptI/ch95">95.</a>  </td>
 
     <td> Personnel flexibilities  <sup>[2]</sup>  <sup><sup> 2 So in original. Probably should be capitalized. </sup></sup>  relating  <sup>[2]</sup>  to the Internal Revenue Service  </td>
 
-    <td> 9501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs9501" data-uslm-ref="/us/usc/t5/s9501">9501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 97.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptI%2Fch97" data-uslm-ref="/us/usc/t5/ptIII/sptI/ch97">97.</a>  </td>
 
     <td> Department of Homeland Security  </td>
 
-    <td> 9701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs9701" data-uslm-ref="/us/usc/t5/s9701">9701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 98.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptI%2Fch98" data-uslm-ref="/us/usc/t5/ptIII/sptI/ch98">98.</a>  </td>
 
     <td> National Aeronautics and Space Administration  </td>
 
-    <td> 9801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs9801" data-uslm-ref="/us/usc/t5/s9801">9801</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 99.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptI%2Fch99" data-uslm-ref="/us/usc/t5/ptIII/sptI/ch99">99.</a>  </td>
 
     <td> Department of Defense Personnel Authorities  </td>
 
-    <td> 9901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs9901" data-uslm-ref="/us/usc/t5/s9901">9901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptI%2Fch101" data-uslm-ref="/us/usc/t5/ptIII/sptI/ch101">101.</a>  </td>
 
     <td> Federal Emergency Management Agency Personnel  </td>
 
-    <td> 10101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs10101" data-uslm-ref="/us/usc/t5/s10101">10101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptI%2Fch102" data-uslm-ref="/us/usc/t5/ptIII/sptI/ch102">102.</a>  </td>
 
     <td> United States Secret Service Uniformed Division Personnel  </td>
 
-    <td> 10201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs10201" data-uslm-ref="/us/usc/t5/s10201">10201</a>  </td>
 
   </tr>
 

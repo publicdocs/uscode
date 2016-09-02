@@ -15,7 +15,7 @@
 
 ## § 5402. Definitions
 
-For the purpose of this chapter—
+    For the purpose of this chapter—
 
     (1) “agency” means an Executive agency under section 105, but does not include the Government Accountability Office;
 

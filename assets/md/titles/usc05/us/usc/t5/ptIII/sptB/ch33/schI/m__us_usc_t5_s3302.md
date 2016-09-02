@@ -15,13 +15,13 @@
 
 ## § 3302. Competitive service; rules
 
-The President may prescribe rules governing the competitive service. The rules shall provide, as nearly as conditions of good administration warrant, for—
+    The President may prescribe rules governing the competitive service. The rules shall provide, as nearly as conditions of good administration warrant, for—
 
     (1) necessary exceptions of positions from the competitive service; and
 
     (2) necessary exceptions from the provisions of sections 2951, 3304(a), 3321, 7202, and 7203 of this title.
 
-        Each officer and individual employed in an agency to which the rules apply shall aid in carrying out the rules.
+    Each officer and individual employed in an agency to which the rules apply shall aid in carrying out the rules.
 
 ([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 417][/us/stat/80/417]; [Pub. L. 95–228, § 2(b)][/us/pl/95/228/s2/b], Feb. 10, 1978, [92 Stat. 25][/us/stat/92/25]; [Pub. L. 95–454, title VII, § 703(c)(1)][/us/pl/95/454/s703/c/1], Oct. 13, 1978, [92 Stat. 1217][/us/stat/92/1217]; [Pub. L. 96–54, § 2(a)(16)][/us/pl/96/54/s2/a/16], Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382]; [Pub. L. 103–94, § 2(b)(1)][/us/pl/103/94/s2/b/1], Oct. 6, 1993, [107 Stat. 1004][/us/stat/107/1004].)
 

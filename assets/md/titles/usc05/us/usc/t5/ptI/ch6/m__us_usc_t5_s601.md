@@ -15,7 +15,7 @@
 
 ## § 601. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) the term “agency” means an agency as defined in [section 551(1) of this title][/us/usc/t5/s551/1];
 
@@ -201,7 +201,9 @@ For purposes of this chapter—
 
 >     Upon request by a Member of Congress relating to a proposed policy or regulation, an agency shall conduct an assessment in accordance with subsection (c), and shall provide a certification and rationale in accordance with subsection (d).
 
->     “(f) __Judicial Review.—This section is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.”__ 
+>     “(f) __Judicial Review.—__ 
+
+>     This section is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.”
 
  __Small Business Regulatory Fairness__ 
 
@@ -245,121 +247,153 @@ For purposes of this chapter—
 
 >     “(7) to make Federal regulators more accountable for their enforcement actions by providing small entities with a meaningful opportunity for redress of excessive enforcement activities.
 
- __“subtitle a—regulatory compliance simplification__ 
+> “subtitle a— __regulatory compliance simplification__ 
 
-    “SEC. 211. DEFINITIONS.
+> “SEC. 211. __DEFINITIONS.__ 
 
-    “For purposes of this subtitle—
+> “For purposes of this subtitle—
 
-    “(1) the terms ‘rule’ and ‘small entity’ have the same meanings as in [section 601 of title 5][/us/usc/t5/s601], United States Code;
+>     “(1) the terms ‘rule’ and ‘small entity’ have the same meanings as in [section 601 of title 5][/us/usc/t5/s601], United States Code;
 
-    “(2) the term ‘agency’ has the same meaning as in [section 551 of title 5][/us/usc/t5/s551], United States Code; and
+>     “(2) the term ‘agency’ has the same meaning as in [section 551 of title 5][/us/usc/t5/s551], United States Code; and
 
-    “(3) the term ‘small entity compliance guide’ means a document designated and entitled as such by an agency.
+>     “(3) the term ‘small entity compliance guide’ means a document designated and entitled as such by an agency.
 
-    “SEC. 212. COMPLIANCE GUIDES.
+> “SEC. 212. __COMPLIANCE GUIDES.__ 
 
-    “(a) Compliance Guide.—
+>     “(a) __Compliance Guide.—__ 
 
-    “(1) In general.—For each rule or group of related rules for which an agency is required to prepare a final regulatory flexibility analysis under section 605(b) \[probably should be “section 604”\] of title 5, United States Code, the agency shall publish 1 or more guides to assist small entities in complying with the rule and shall entitle such publications ‘small entity compliance guides’.
+>         “(1) __In general.—__ 
 
-    “(2) Publication of guides.—The publication of each guide under this subsection shall include—
+>         For each rule or group of related rules for which an agency is required to prepare a final regulatory flexibility analysis under section 605(b) \[probably should be “section 604”\] of title 5, United States Code, the agency shall publish 1 or more guides to assist small entities in complying with the rule and shall entitle such publications ‘small entity compliance guides’.
 
-    “(A) the posting of the guide in an easily identified location on the website of the agency; and
+>         “(2) __Publication of guides.—__ 
 
-    “(B) distribution of the guide to known industry contacts, such as small entities, associations, or industry leaders affected by the rule.
+>         The publication of each guide under this subsection shall include—
 
-    “(3) Publication date.—An agency shall publish each guide (including the posting and distribution of the guide as described under paragraph (2))—
+>             “(A) the posting of the guide in an easily identified location on the website of the agency; and
 
-    “(A) on the same date as the date of publication of the final rule (or as soon as possible after that date); and
+>             “(B) distribution of the guide to known industry contacts, such as small entities, associations, or industry leaders affected by the rule.
 
-    “(B) not later than the date on which the requirements of that rule become effective.
+>         “(3) __Publication date.—__ 
 
-    “(4) Compliance actions.—
+>         An agency shall publish each guide (including the posting and distribution of the guide as described under paragraph (2))—
 
-    “(A) In general.—Each guide shall explain the actions a small entity is required to take to comply with a rule.
+>             “(A) on the same date as the date of publication of the final rule (or as soon as possible after that date); and
 
-    “(B) Explanation.—The explanation under subparagraph (A)—
+>             “(B) not later than the date on which the requirements of that rule become effective.
 
-    “(i) shall include a description of actions needed to meet the requirements of a rule, to enable a small entity to know when such requirements are met; and
+>         “(4) __Compliance actions.—__ 
 
-    “(ii) if determined appropriate by the agency, may include a description of possible procedures, such as conducting tests, that may assist a small entity in meeting such requirements, except that, compliance with any procedures described pursuant to this section does not establish compliance with the rule, or establish a presumption or inference of such compliance.
+>             “(A) __In general.—__ 
 
-    “(C) Procedures.—Procedures described under subparagraph (B)(ii)—
+>             Each guide shall explain the actions a small entity is required to take to comply with a rule.
 
-    “(i) shall be suggestions to assist small entities; and
+>             “(B) __Explanation.—__ 
 
-    “(ii) shall not be additional requirements, or diminish requirements, relating to the rule.
+>             The explanation under subparagraph (A)—
 
-    “(5) Agency preparation of guides.—The agency shall, in its sole discretion, taking into account the subject matter of the rule and the language of relevant statutes, ensure that the guide is written using sufficiently plain language likely to be understood by affected small entities. Agencies may prepare separate guides covering groups or classes of similarly affected small entities and may cooperate with associations of small entities to develop and distribute such guides. An agency may prepare guides and apply this section with respect to a rule or a group of related rules.
+>                 “(i) shall include a description of actions needed to meet the requirements of a rule, to enable a small entity to know when such requirements are met; and
 
-    “(6) Reporting.—Not later than 1 year after the date of enactment of the Fair Minimum Wage Act of 2007 \[May 25, 2007\], and annually thereafter, the head of each agency shall submit a report to the Committee on Small Business and Entrepreneurship of the Senate, the Committee on Small Business of the House of Representatives, and any other committee of relevant jurisdiction describing the status of the agency’s compliance with paragraphs (1) through (5).
+>                 “(ii) if determined appropriate by the agency, may include a description of possible procedures, such as conducting tests, that may assist a small entity in meeting such requirements, except that, compliance with any procedures described pursuant to this section does not establish compliance with the rule, or establish a presumption or inference of such compliance.
 
-    “(b) Comprehensive Source of Information.—Agencies shall cooperate to make available to small entities through comprehensive sources of information, the small entity compliance guides and all other available information on statutory and regulatory requirements affecting small entities.
+>             “(C) __Procedures.—__ 
 
-    “(c) Limitation on Judicial Review.—An agency’s small entity compliance guide shall not be subject to judicial review, except that in any civil or administrative action against a small entity for a violation occurring after the effective date of this section, the content of the small entity compliance guide may be considered as evidence of the reasonableness or appropriateness of any proposed fines, penalties or damages.
+>             Procedures described under subparagraph (B)(ii)—
 
-    “SEC. 213. INFORMAL SMALL ENTITY GUIDANCE.
+>                 “(i) shall be suggestions to assist small entities; and
 
-    “(a) General.—Whenever appropriate in the interest of administering statutes and regulations within the jurisdiction of an agency which regulates small entities, it shall be the practice of the agency to answer inquiries by small entities concerning information on, and advice about, compliance with such statutes and regulations, interpreting and applying the law to specific sets of facts supplied by the small entity. In any civil or administrative action against a small entity, guidance given by an agency applying the law to facts provided by the small entity may be considered as evidence of the reasonableness or appropriateness of any proposed fines, penalties or damages sought against such small entity.
+>                 “(ii) shall not be additional requirements, or diminish requirements, relating to the rule.
 
-    “(b) Program.—Each agency regulating the activities of small entities shall establish a program for responding to such inquiries no later than 1 year after enactment of this section \[Mar. 29, 1996\], utilizing existing functions and personnel of the agency to the extent practicable.
+>         “(5) __Agency preparation of guides.—__ 
 
-    “(c) Reporting.—Each agency regulating the activities of small business shall report to the Committee on Small Business \[now Committee on Small Business and Entrepreneurship\] and Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Small Business and Committee on the Judiciary of the House of Representatives no later than 2 years after the date of the enactment of this section on the scope of the agency’s program, the number of small entities using the program, and the achievements of the program to assist small entity compliance with agency regulations.
+>         The agency shall, in its sole discretion, taking into account the subject matter of the rule and the language of relevant statutes, ensure that the guide is written using sufficiently plain language likely to be understood by affected small entities. Agencies may prepare separate guides covering groups or classes of similarly affected small entities and may cooperate with associations of small entities to develop and distribute such guides. An agency may prepare guides and apply this section with respect to a rule or a group of related rules.
 
-    “SEC. 214. SERVICES OF SMALL BUSINESS DEVELOPMENT CENTERS.
+>         “(6) __Reporting.—__ 
 
-    “(a) \[Amended [section 648 of Title 15][/us/usc/t15/s648], Commerce and Trade.\]
+>         Not later than 1 year after the date of enactment of the Fair Minimum Wage Act of 2007 \[May 25, 2007\], and annually thereafter, the head of each agency shall submit a report to the Committee on Small Business and Entrepreneurship of the Senate, the Committee on Small Business of the House of Representatives, and any other committee of relevant jurisdiction describing the status of the agency’s compliance with paragraphs (1) through (5).
 
-    “(b) Nothing in this Act \[see Short Title of 1996 Amendment note, above\] in any way affects or limits the ability of other technical assistance or extension programs to perform or continue to perform services related to compliance assistance.
+>     “(b) __Comprehensive Source of Information.—__ 
 
-    “SEC. 215. COOPERATION ON GUIDANCE.
+>     Agencies shall cooperate to make available to small entities through comprehensive sources of information, the small entity compliance guides and all other available information on statutory and regulatory requirements affecting small entities.
 
-    “Agencies may, to the extent resources are available and where appropriate, in cooperation with the States, develop guides that fully integrate requirements of both Federal and State regulations where regulations within an agency’s area of interest at the Federal and State levels impact small entities. Where regulations vary among the States, separate guides may be created for separate States in cooperation with State agencies.
+>     “(c) __Limitation on Judicial Review.—__ 
 
-    “SEC. 216. EFFECTIVE DATE.
+>     An agency’s small entity compliance guide shall not be subject to judicial review, except that in any civil or administrative action against a small entity for a violation occurring after the effective date of this section, the content of the small entity compliance guide may be considered as evidence of the reasonableness or appropriateness of any proposed fines, penalties or damages.
 
-    “This subtitle and the amendments made by this subtitle shall take effect on the expiration of 90 days after the date of enactment of this subtitle \[Mar. 29, 1996\].
+> “SEC. 213. __INFORMAL SMALL ENTITY GUIDANCE.__ 
 
- __“subtitle b—regulatory enforcement reforms__ 
+>     “(a) __General.—__ 
 
-    “SEC. 221. DEFINITIONS.
+>     Whenever appropriate in the interest of administering statutes and regulations within the jurisdiction of an agency which regulates small entities, it shall be the practice of the agency to answer inquiries by small entities concerning information on, and advice about, compliance with such statutes and regulations, interpreting and applying the law to specific sets of facts supplied by the small entity. In any civil or administrative action against a small entity, guidance given by an agency applying the law to facts provided by the small entity may be considered as evidence of the reasonableness or appropriateness of any proposed fines, penalties or damages sought against such small entity.
 
-    “For purposes of this subtitle—
+>     “(b) __Program.—__ 
 
-    “(1) the terms ‘rule’ and ‘small entity’ have the same meanings as in [section 601 of title 5][/us/usc/t5/s601], United States Code;
+>     Each agency regulating the activities of small entities shall establish a program for responding to such inquiries no later than 1 year after enactment of this section \[Mar. 29, 1996\], utilizing existing functions and personnel of the agency to the extent practicable.
 
-    “(2) the term ‘agency’ has the same meaning as in [section 551 of title 5][/us/usc/t5/s551], United States Code; and
+>     “(c) __Reporting.—__ 
 
-    “(3) the term ‘small entity compliance guide’ means a document designated as such by an agency.
+>     Each agency regulating the activities of small business shall report to the Committee on Small Business \[now Committee on Small Business and Entrepreneurship\] and Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Small Business and Committee on the Judiciary of the House of Representatives no later than 2 years after the date of the enactment of this section on the scope of the agency’s program, the number of small entities using the program, and the achievements of the program to assist small entity compliance with agency regulations.
 
-    “SEC. 222. SMALL BUSINESS AND AGRICULTURE ENFORCEMENT OMBUDSMAN.
+> “SEC. 214. __SERVICES OF SMALL BUSINESS DEVELOPMENT CENTERS.__ 
 
-    “\[Enacted [section 657 of Title 15][/us/usc/t15/s657], Commerce and Trade.\]
+>     “(a) __\[Amended__  __[__  __section 648 of Title 15__  __][/us/usc/t15/s648]__  __, Commerce and Trade.\]__ 
 
-    “SEC. 223. RIGHTS OF SMALL ENTITIES IN ENFORCEMENT ACTIONS.
+>     “(b) Nothing in this Act \[see Short Title of 1996 Amendment note, above\] in any way affects or limits the ability of other technical assistance or extension programs to perform or continue to perform services related to compliance assistance.
 
-    “(a) In General.—Each agency regulating the activities of small entities shall establish a policy or program within 1 year of enactment of this section \[Mar. 29, 1996\] to provide for the reduction, and under appropriate circumstances for the waiver, of civil penalties for violations of a statutory or regulatory requirement by a small entity. Under appropriate circumstances, an agency may consider ability to pay in determining penalty assessments on small entities.
+> “SEC. 215. __COOPERATION ON GUIDANCE.__ 
 
-    “(b) Conditions and Exclusions.—Subject to the requirements or limitations of other statutes, policies or programs established under this section shall contain conditions or exclusions which may include, but shall not be limited to—
+>     “Agencies may, to the extent resources are available and where appropriate, in cooperation with the States, develop guides that fully integrate requirements of both Federal and State regulations where regulations within an agency’s area of interest at the Federal and State levels impact small entities. Where regulations vary among the States, separate guides may be created for separate States in cooperation with State agencies.
 
-    “(1) requiring the small entity to correct the violation within a reasonable correction period;
+> “SEC. 216. __EFFECTIVE DATE.__ 
 
-    “(2) limiting the applicability to violations discovered through participation by the small entity in a compliance assistance or audit program operated or supported by the agency or a State;
+>     “This subtitle and the amendments made by this subtitle shall take effect on the expiration of 90 days after the date of enactment of this subtitle \[Mar. 29, 1996\].
 
-    “(3) excluding small entities that have been subject to multiple enforcement actions by the agency;
+> “subtitle b— __regulatory enforcement reforms__ 
 
-    “(4) excluding violations involving willful or criminal conduct;
+> “SEC. 221. __DEFINITIONS.__ 
 
-    “(5) excluding violations that pose serious health, safety or environmental threats; and
+> “For purposes of this subtitle—
 
-    “(6) requiring a good faith effort to comply with the law.
+>     “(1) the terms ‘rule’ and ‘small entity’ have the same meanings as in [section 601 of title 5][/us/usc/t5/s601], United States Code;
 
-    “(c) Reporting.—Agencies shall report to the Committee on Small Business \[now Committee on Small Business and Entrepreneurship\] and Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Small Business and Committee on Judiciary of the House of Representatives no later than 2 years after the date of enactment of this section \[Mar. 29, 1996\] on the scope of their program or policy, the number of enforcement actions against small entities that qualified or failed to qualify for the program or policy, and the total amount of penalty reductions and waivers.
+>     “(2) the term ‘agency’ has the same meaning as in [section 551 of title 5][/us/usc/t5/s551], United States Code; and
 
-    “SEC. 224. EFFECTIVE DATE.
+>     “(3) the term ‘small entity compliance guide’ means a document designated as such by an agency.
 
-    “This subtitle and the amendments made by this subtitle shall take effect on the expiration of 90 days after the date of enactment of this subtitle \[Mar. 29, 1996\].”
+> “SEC. 222. __SMALL BUSINESS AND AGRICULTURE ENFORCEMENT OMBUDSMAN.__ 
+
+>     “\[Enacted [section 657 of Title 15][/us/usc/t15/s657], Commerce and Trade.\]
+
+> “SEC. 223. __RIGHTS OF SMALL ENTITIES IN ENFORCEMENT ACTIONS.__ 
+
+>     “(a) __In General.—__ 
+
+>     Each agency regulating the activities of small entities shall establish a policy or program within 1 year of enactment of this section \[Mar. 29, 1996\] to provide for the reduction, and under appropriate circumstances for the waiver, of civil penalties for violations of a statutory or regulatory requirement by a small entity. Under appropriate circumstances, an agency may consider ability to pay in determining penalty assessments on small entities.
+
+>     “(b) __Conditions and Exclusions.—__ 
+
+>     Subject to the requirements or limitations of other statutes, policies or programs established under this section shall contain conditions or exclusions which may include, but shall not be limited to—
+
+>         “(1) requiring the small entity to correct the violation within a reasonable correction period;
+
+>         “(2) limiting the applicability to violations discovered through participation by the small entity in a compliance assistance or audit program operated or supported by the agency or a State;
+
+>         “(3) excluding small entities that have been subject to multiple enforcement actions by the agency;
+
+>         “(4) excluding violations involving willful or criminal conduct;
+
+>         “(5) excluding violations that pose serious health, safety or environmental threats; and
+
+>         “(6) requiring a good faith effort to comply with the law.
+
+>     “(c) __Reporting.—__ 
+
+>     Agencies shall report to the Committee on Small Business \[now Committee on Small Business and Entrepreneurship\] and Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Small Business and Committee on Judiciary of the House of Representatives no later than 2 years after the date of enactment of this section \[Mar. 29, 1996\] on the scope of their program or policy, the number of enforcement actions against small entities that qualified or failed to qualify for the program or policy, and the total amount of penalty reductions and waivers.
+
+> “SEC. 224. __EFFECTIVE DATE.__ 
+
+>     “This subtitle and the amendments made by this subtitle shall take effect on the expiration of 90 days after the date of enactment of this subtitle \[Mar. 29, 1996\].”
 
  __Effects of Deregulation On Rural America__ 
 

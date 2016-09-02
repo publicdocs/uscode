@@ -15,7 +15,7 @@
 
 ## § 6301. Definitions
 
-For the purpose of this subchapter—
+    For the purpose of this subchapter—
 
     (1) “United States”, when used in a geographical sense means the several States and the District of Columbia; and
 
@@ -55,7 +55,7 @@ For the purpose of this subchapter—
 
         (xiii) an officer in the legislative or judicial branch who is appointed by the President.
 
-        Notwithstanding clauses (x)–(xii) of paragraph (2), the term “employee” includes any member of the Senior Foreign Service or any Foreign Service officer (other than a member or officer serving as chief of mission or in a position which requires appointment by and with the advice and consent of the Senate) and any member of the Foreign Service commissioned as a diplomatic or consular officer, or both, under section 312 of the Foreign Service Act of 1980.
+    Notwithstanding clauses (x)–(xii) of paragraph (2), the term “employee” includes any member of the Senior Foreign Service or any Foreign Service officer (other than a member or officer serving as chief of mission or in a position which requires appointment by and with the advice and consent of the Senate) and any member of the Foreign Service commissioned as a diplomatic or consular officer, or both, under section 312 of the Foreign Service Act of 1980.
 
 ([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 517][/us/stat/80/517]; [Pub. L. 91–375, § 6(c)(17)][/us/pl/91/375/s6/c/17], Aug. 12, 1970, [84 Stat. 776][/us/stat/84/776]; [Pub. L. 95–519, § 1][/us/pl/95/519/s1], Oct. 25, 1978, [92 Stat. 1819][/us/stat/92/1819]; [Pub. L. 96–70, title III, § 3302(e)(2)][/us/pl/96/70/s3302/e/2], Sept. 27, 1979, [93 Stat. 498][/us/stat/93/498]; [Pub. L. 96–465, title II][/us/pl/96/465], §§ 2312(a), 2314(f)(1), Oct. 17, 1980, [94 Stat. 2166][/us/stat/94/2166], 2168; [Pub. L. 99–335, title II, § 207(c)(1)][/us/pl/99/335/s207/c/1], formerly § 207(c), June 6, 1986, [100 Stat. 595][/us/stat/100/595], renumbered § 207(c)(1), [Pub. L. 99–556, title II, § 201(1)][/us/pl/99/556/s201/1], Oct. 27, 1986, [100 Stat. 3135][/us/stat/100/3135]; [Pub. L. 102–54, § 13(b)(2)][/us/pl/102/54/s13/b/2], June 13, 1991, [105 Stat. 274][/us/stat/105/274].)
 

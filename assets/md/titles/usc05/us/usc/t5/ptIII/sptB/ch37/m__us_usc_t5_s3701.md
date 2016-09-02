@@ -15,7 +15,7 @@
 
 ## § 3701. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) the term “agency” means an Executive agency, but does not include the Government Accountability Office; and
 

@@ -33,7 +33,7 @@ SUBCHAPTER I—COMMISSIONS, OATHS, AND RECORDS  </td>
 
   <tr>
 
-    <td> 2901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs2901" data-uslm-ref="/us/usc/t5/s2901">2901.</a>  </td>
 
     <td> Commission of an officer.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—COMMISSIONS, OATHS, AND RECORDS  </td>
 
   <tr>
 
-    <td> 2902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs2902" data-uslm-ref="/us/usc/t5/s2902">2902.</a>  </td>
 
     <td> Commission; where recorded.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—COMMISSIONS, OATHS, AND RECORDS  </td>
 
   <tr>
 
-    <td> 2903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs2903" data-uslm-ref="/us/usc/t5/s2903">2903.</a>  </td>
 
     <td> Oath; authority to administer.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—COMMISSIONS, OATHS, AND RECORDS  </td>
 
   <tr>
 
-    <td> 2904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs2904" data-uslm-ref="/us/usc/t5/s2904">2904.</a>  </td>
 
     <td> Oath; administered without fees.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—COMMISSIONS, OATHS, AND RECORDS  </td>
 
   <tr>
 
-    <td> 2905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs2905" data-uslm-ref="/us/usc/t5/s2905">2905.</a>  </td>
 
     <td> Oath; renewal.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—COMMISSIONS, OATHS, AND RECORDS  </td>
 
   <tr>
 
-    <td> 2906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs2906" data-uslm-ref="/us/usc/t5/s2906">2906.</a>  </td>
 
     <td> Oath; custody.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—REPORTS  </td>
 
   <tr>
 
-    <td> 2951.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs2951" data-uslm-ref="/us/usc/t5/s2951">2951.</a>  </td>
 
     <td> Reports to the Office of Personnel Management.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—REPORTS  </td>
 
   <tr>
 
-    <td> 2952.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs2952" data-uslm-ref="/us/usc/t5/s2952">2952.</a>  </td>
 
     <td> Time of making annual reports.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—REPORTS  </td>
 
   <tr>
 
-    <td> 2953.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs2953" data-uslm-ref="/us/usc/t5/s2953">2953.</a>  </td>
 
     <td> Reports to Congress on additional employee requirements.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—REPORTS  </td>
 
   <tr>
 
-    <td> 2954.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs2954" data-uslm-ref="/us/usc/t5/s2954">2954.</a>  </td>
 
     <td> Information to committees of Congress on request.  </td>
 

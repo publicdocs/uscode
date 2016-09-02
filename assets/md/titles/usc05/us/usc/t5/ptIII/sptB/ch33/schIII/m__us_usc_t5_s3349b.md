@@ -15,7 +15,7 @@
 
 ## § 3349b. Holdover provisions
 
-Sections 3345 through 3349a shall not be construed to affect any statute that authorizes a person to continue to serve in any office—
+    Sections 3345 through 3349a shall not be construed to affect any statute that authorizes a person to continue to serve in any office—
 
     (1) after the expiration of the term for which such person is appointed; and
 

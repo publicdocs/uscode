@@ -15,7 +15,7 @@
 
 ## § 8320. Offense or violation committed in compliance with orders
 
-When it is established by satisfactory evidence that an individual—
+    When it is established by satisfactory evidence that an individual—
 
     (1) was convicted of an offense named by [section 8312 of this title][/us/usc/t5/s8312]; or
 

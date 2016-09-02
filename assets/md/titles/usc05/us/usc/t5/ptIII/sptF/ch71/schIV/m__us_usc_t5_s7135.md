@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t5/ptIII/sptF/ch71/schIV/m__us_usc_t5_s7134.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptF/ch71/schIV/m__us_usc_t5_s7151 to 7154.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7135)
+[Previous](./../../../../../../..//us/usc/t5/ptIII/sptF/ch71/schIV/m__us_usc_t5_s7134.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptF/ch72/m__us_usc_t5_ptIII_sptF_ch72.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7135)
 
 ## § 7135. Continuation of existing laws, recognitions, agreements, and procedures
 
@@ -35,9 +35,21 @@
 
     Executive Order 11787, referred to in subsec. (b), which was set out as a note under [section 7701 of this title][/us/usc/t5/s7701], was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
+\[§§ 7151 to 7154. __Transferred\]__ 
+
+ __Codification__ 
+
+    Section 7151, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 523][/us/stat/80/523], which related to antidiscrimination policy of United States with respect to employment, was renumbered [section 7201 of this title][/us/usc/t5/s7201] by [Pub. L. 95–454, title VII, § 703(a)(1)][/us/pl/95/454/s703/a/1], Oct. 13, 1978, [92 Stat. 1216][/us/stat/92/1216].
+
+    Section 7152, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 523][/us/stat/80/523]; [Pub. L. 92–187, § 3][/us/pl/92/187/s3], Dec. 15, 1971, [85 Stat. 644][/us/stat/85/644], which related to prohibition respecting employment discrimination because of marital status, was renumbered [section 7202 of this title][/us/usc/t5/s7202] by [Pub. L. 95–454, title VII, § 703(a)(1)][/us/pl/95/454/s703/a/1], Oct. 13, 1978, [92 Stat. 1216][/us/stat/92/1216].
+
+    Section 7153, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 523][/us/stat/80/523], which related to prohibition respecting employment discrimination because of physical handicap, was renumbered [section 7203 of this title][/us/usc/t5/s7203] by [Pub. L. 95–454, title VII][/us/pl/95/454], 703(a)(1), Oct. 13, 1978, [92 Stat. 1216][/us/stat/92/1216].
+
+    Section 7154, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 523][/us/stat/80/523]; [Pub. L. 90–83, § 1(44)][/us/pl/90/83/s1/44], Sept. 11, 1967, [81 Stat. 208][/us/stat/81/208]; [Pub. L. 92–392, § 8][/us/pl/92/392/s8], Aug. 19, 1972, [86 Stat. 573][/us/stat/86/573], which related to prohibition respecting discrimination because of race, color, creed, sex, or marital status in administration of chapter 51, subchapter III and IV of chapter 53, and sections 305 and 3324 of this title, was renumbered [section 7204 of this title][/us/usc/t5/s7204] by [Pub. L. 95–454, title VII, § 703(a)(1)][/us/pl/95/454/s703/a/1], Oct. 13, 1978, [92 Stat. 1216][/us/stat/92/1216].
+
 ----------
 
-[Previous](./../../../../../../..//us/usc/t5/ptIII/sptF/ch71/schIV/m__us_usc_t5_s7134.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptF/ch71/schIV/m__us_usc_t5_s7151 to 7154.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7135)
+[Previous](./../../../../../../..//us/usc/t5/ptIII/sptF/ch71/schIV/m__us_usc_t5_s7134.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptF/ch72/m__us_usc_t5_ptIII_sptF_ch72.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7135)
 
 ----------
 ----------
@@ -49,5 +61,31 @@
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
 [/us/usc/t5/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7101
 [/us/usc/t5/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7701
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
+[/us/stat/80/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F523
+[/us/usc/t5/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7201
+[/us/pl/95/454/s703/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs703%2Fa%2F1
+[/us/stat/92/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1216
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
+[/us/stat/80/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F523
+[/us/pl/92/187/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F187%2Fs3
+[/us/stat/85/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F644
+[/us/usc/t5/s7202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7202
+[/us/pl/95/454/s703/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs703%2Fa%2F1
+[/us/stat/92/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1216
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
+[/us/stat/80/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F523
+[/us/usc/t5/s7203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7203
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/stat/92/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1216
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
+[/us/stat/80/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F523
+[/us/pl/90/83/s1/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs1%2F44
+[/us/stat/81/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F208
+[/us/pl/92/392/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392%2Fs8
+[/us/stat/86/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F573
+[/us/usc/t5/s7204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7204
+[/us/pl/95/454/s703/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs703%2Fa%2F1
+[/us/stat/92/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1216
 
 

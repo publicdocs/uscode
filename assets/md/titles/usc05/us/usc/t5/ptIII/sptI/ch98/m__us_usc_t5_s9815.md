@@ -15,7 +15,7 @@
 
 ## § 9815. Reporting requirement
 
-The Administrator shall submit to the appropriate committees of Congress, not later than February 28 of each of the next 6 years beginning after the date of enactment of this chapter, a report that provides the following:
+    The Administrator shall submit to the appropriate committees of Congress, not later than February 28 of each of the next 6 years beginning after the date of enactment of this chapter, a report that provides the following:
 
     (1) A summary of all bonuses paid under subsections (b) and (c) of section 9804 during the preceding fiscal year. Such summary shall include the total amount of bonuses paid, the total number of bonuses paid, the percentage of the amount of bonuses awarded to supervisors and management officials, and the average percentage used to calculate the total average bonus amount, under each of those subsections.
 

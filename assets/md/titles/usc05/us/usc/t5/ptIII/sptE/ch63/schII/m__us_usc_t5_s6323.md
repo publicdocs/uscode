@@ -253,7 +253,7 @@ Oct. 4, 1961, Pub. L. 87–378, § 7(a), 75 Stat. 809.  </td>
 
 >         “(B) annual leave, which may be granted without regard to the provisions of sections 5519 and 6323(b) of title 5, United States Code, if such employee is otherwise entitled to such annual leave:
 
->         Provided, That any employee who requests leave under subsection (3)(A) for service described in subsection (2) of this section is entitled to such leave, subject to the provisions of this section and of the last sentence of [section 6323(b) of title 5][/us/usc/t5/s6323/b], United States Code, and such leave shall be considered leave under [section 6323(b) of title 5][/us/usc/t5/s6323/b], United States Code.”
+>     Provided, That any employee who requests leave under subsection (3)(A) for service described in subsection (2) of this section is entitled to such leave, subject to the provisions of this section and of the last sentence of [section 6323(b) of title 5][/us/usc/t5/s6323/b], United States Code, and such leave shall be considered leave under [section 6323(b) of title 5][/us/usc/t5/s6323/b], United States Code.”
 
 Similar provisions were contained in the following prior appropriation acts:
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs701" data-uslm-ref="/us/usc/t5/s701">701.</a>  </td>
 
     <td> Application; definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs702" data-uslm-ref="/us/usc/t5/s702">702.</a>  </td>
 
     <td> Right of review.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs703" data-uslm-ref="/us/usc/t5/s703">703.</a>  </td>
 
     <td> Form and venue of proceeding.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs704" data-uslm-ref="/us/usc/t5/s704">704.</a>  </td>
 
     <td> Actions reviewable.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs705" data-uslm-ref="/us/usc/t5/s705">705.</a>  </td>
 
     <td> Relief pending review.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs706" data-uslm-ref="/us/usc/t5/s706">706.</a>  </td>
 
     <td> Scope of review.  </td>
 

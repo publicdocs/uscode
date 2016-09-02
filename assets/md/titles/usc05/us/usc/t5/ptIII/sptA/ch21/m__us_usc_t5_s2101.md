@@ -15,7 +15,7 @@
 
 ## § 2101. Civil service; armed forces; uniformed services
 
-For the purpose of this title—
+    For the purpose of this title—
 
     (1) the “civil service” consists of all appointive positions in the executive, judicial, and legislative branches of the Government of the United States, except positions in the uniformed services;
 

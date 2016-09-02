@@ -13,11 +13,11 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t5/ptI/m__us_usc_t5_ptI.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5)
 
-# 
-
-Title 5—GOVERNMENT ORGANIZATION AND EMPLOYEES
+# Title 5—GOVERNMENT ORGANIZATION AND EMPLOYEES
 
 This title was enacted by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378]
+
+Current through 113–44
 
 <table>
 
@@ -33,31 +33,31 @@ This title was enacted by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6,
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptI" data-uslm-ref="/us/usc/t5/ptI">I.</a>  </td>
 
     <td> The Agencies Generally  </td>
 
-    <td> 101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs101" data-uslm-ref="/us/usc/t5/s101">101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptII" data-uslm-ref="/us/usc/t5/ptII">II.</a>  </td>
 
     <td> Civil Service Functions and Responsibilities  </td>
 
-    <td> 1101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1101" data-uslm-ref="/us/usc/t5/s1101">1101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII" data-uslm-ref="/us/usc/t5/ptIII">III.</a>  </td>
 
     <td> Employees  </td>
 
-    <td> 2101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs2101" data-uslm-ref="/us/usc/t5/s2101">2101</a>  </td>
 
   </tr>
 

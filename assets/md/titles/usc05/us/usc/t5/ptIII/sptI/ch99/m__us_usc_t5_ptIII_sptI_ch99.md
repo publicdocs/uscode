@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs9901" data-uslm-ref="/us/usc/t5/s9901">9901.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs9902" data-uslm-ref="/us/usc/t5/s9902">9902.</a>  </td>
 
     <td> Department of Defense personnel authorities.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs9903" data-uslm-ref="/us/usc/t5/s9903">9903.</a>  </td>
 
     <td> Attracting highly qualified experts.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 9904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs9904" data-uslm-ref="/us/usc/t5/s9904">9904.</a>  </td>
 
     <td> Special pay and benefits for certain employees outside the United States.  </td>
 

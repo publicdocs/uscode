@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1401" data-uslm-ref="/us/usc/t5/s1401">1401.</a>  </td>
 
     <td> Establishment of agency Chief Human Capital Officers.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1402" data-uslm-ref="/us/usc/t5/s1402">1402.</a>  </td>
 
     <td> Authority and functions of agency Chief Human Capital Officers.  </td>
 

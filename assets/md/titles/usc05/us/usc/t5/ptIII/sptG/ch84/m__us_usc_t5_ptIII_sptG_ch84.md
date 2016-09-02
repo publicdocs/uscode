@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 8401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8401" data-uslm-ref="/us/usc/t5/s8401">8401.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 8402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8402" data-uslm-ref="/us/usc/t5/s8402">8402.</a>  </td>
 
     <td> Federal Employees’ Retirement System; exclusions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 8403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8403" data-uslm-ref="/us/usc/t5/s8403">8403.</a>  </td>
 
     <td> Relationship to the Social Security Act.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—BASIC ANNUITY  </td>
 
   <tr>
 
-    <td> 8410.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8410" data-uslm-ref="/us/usc/t5/s8410">8410.</a>  </td>
 
     <td> Eligibility for annuity.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—BASIC ANNUITY  </td>
 
   <tr>
 
-    <td> 8411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8411" data-uslm-ref="/us/usc/t5/s8411">8411.</a>  </td>
 
     <td> Creditable service.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—BASIC ANNUITY  </td>
 
   <tr>
 
-    <td> 8412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8412" data-uslm-ref="/us/usc/t5/s8412">8412.</a>  </td>
 
     <td> Immediate retirement.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—BASIC ANNUITY  </td>
 
   <tr>
 
-    <td> 8412a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8412a" data-uslm-ref="/us/usc/t5/s8412a">8412a.</a>  </td>
 
     <td> Phased retirement.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—BASIC ANNUITY  </td>
 
   <tr>
 
-    <td> 8413.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8413" data-uslm-ref="/us/usc/t5/s8413">8413.</a>  </td>
 
     <td> Deferred retirement.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—BASIC ANNUITY  </td>
 
   <tr>
 
-    <td> 8414.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8414" data-uslm-ref="/us/usc/t5/s8414">8414.</a>  </td>
 
     <td> Early retirement.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—BASIC ANNUITY  </td>
 
   <tr>
 
-    <td> 8415.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8415" data-uslm-ref="/us/usc/t5/s8415">8415.</a>  </td>
 
     <td> Computation of basic annuity.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—BASIC ANNUITY  </td>
 
   <tr>
 
-    <td> 8416.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8416" data-uslm-ref="/us/usc/t5/s8416">8416.</a>  </td>
 
     <td> Survivor reduction for a current spouse.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—BASIC ANNUITY  </td>
 
   <tr>
 
-    <td> 8417.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8417" data-uslm-ref="/us/usc/t5/s8417">8417.</a>  </td>
 
     <td> Survivor reduction for a former spouse.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—BASIC ANNUITY  </td>
 
   <tr>
 
-    <td> 8418.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8418" data-uslm-ref="/us/usc/t5/s8418">8418.</a>  </td>
 
     <td> Survivor elections; deposit; offsets.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—BASIC ANNUITY  </td>
 
   <tr>
 
-    <td> 8419.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8419" data-uslm-ref="/us/usc/t5/s8419">8419.</a>  </td>
 
     <td> Survivor reductions; computation.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—BASIC ANNUITY  </td>
 
   <tr>
 
-    <td> 8420.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8420" data-uslm-ref="/us/usc/t5/s8420">8420.</a>  </td>
 
     <td> Insurable interest reductions.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—BASIC ANNUITY  </td>
 
   <tr>
 
-    <td> 8420a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8420a" data-uslm-ref="/us/usc/t5/s8420a">8420a.</a>  </td>
 
     <td> Alternative forms of annuities.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—BASIC ANNUITY  </td>
 
   <tr>
 
-    <td> 8421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8421" data-uslm-ref="/us/usc/t5/s8421">8421.</a>  </td>
 
     <td> Annuity supplement.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—BASIC ANNUITY  </td>
 
   <tr>
 
-    <td> 8421a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8421a" data-uslm-ref="/us/usc/t5/s8421a">8421a.</a>  </td>
 
     <td> Reductions on account of earnings from work performed while entitled to an annuity supplement.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—BASIC ANNUITY  </td>
 
   <tr>
 
-    <td> 8422.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8422" data-uslm-ref="/us/usc/t5/s8422">8422.</a>  </td>
 
     <td> Deductions from pay; contributions for other service; deposits.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—BASIC ANNUITY  </td>
 
   <tr>
 
-    <td> 8423.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8423" data-uslm-ref="/us/usc/t5/s8423">8423.</a>  </td>
 
     <td> Government contributions.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—BASIC ANNUITY  </td>
 
   <tr>
 
-    <td> 8424.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8424" data-uslm-ref="/us/usc/t5/s8424">8424.</a>  </td>
 
     <td> Lump-sum benefits; designation of beneficiary; order of precedence.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER II—BASIC ANNUITY  </td>
 
   <tr>
 
-    <td> 8425.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8425" data-uslm-ref="/us/usc/t5/s8425">8425.</a>  </td>
 
     <td> Mandatory separation.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER III—THRIFT SAVINGS PLAN  </td>
 
   <tr>
 
-    <td> 8431.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8431" data-uslm-ref="/us/usc/t5/s8431">8431.</a>  </td>
 
     <td> Certain transfers to be treated as a separation.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER III—THRIFT SAVINGS PLAN  </td>
 
   <tr>
 
-    <td> 8432.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8432" data-uslm-ref="/us/usc/t5/s8432">8432.</a>  </td>
 
     <td> Contributions.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER III—THRIFT SAVINGS PLAN  </td>
 
   <tr>
 
-    <td> 8432a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8432a" data-uslm-ref="/us/usc/t5/s8432a">8432a.</a>  </td>
 
     <td> Payment of lost earnings.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER III—THRIFT SAVINGS PLAN  </td>
 
   <tr>
 
-    <td> 8432b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8432b" data-uslm-ref="/us/usc/t5/s8432b">8432b.</a>  </td>
 
     <td> Contributions of persons who perform military service.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER III—THRIFT SAVINGS PLAN  </td>
 
   <tr>
 
-    <td> 8432c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8432c" data-uslm-ref="/us/usc/t5/s8432c">8432c.</a>  </td>
 
     <td> Contributions of certain persons reemployed after service with international organizations.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER III—THRIFT SAVINGS PLAN  </td>
 
   <tr>
 
-    <td> 8432d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8432d" data-uslm-ref="/us/usc/t5/s8432d">8432d.</a>  </td>
 
     <td> Qualified Roth contribution program.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER III—THRIFT SAVINGS PLAN  </td>
 
   <tr>
 
-    <td> 8433.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8433" data-uslm-ref="/us/usc/t5/s8433">8433.</a>  </td>
 
     <td> Benefits and election of benefits.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER III—THRIFT SAVINGS PLAN  </td>
 
   <tr>
 
-    <td> 8434.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8434" data-uslm-ref="/us/usc/t5/s8434">8434.</a>  </td>
 
     <td> Annuities: methods of payment; election; purchase.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER III—THRIFT SAVINGS PLAN  </td>
 
   <tr>
 
-    <td> 8435.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8435" data-uslm-ref="/us/usc/t5/s8435">8435.</a>  </td>
 
     <td> Protections for spouses and former spouses.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER III—THRIFT SAVINGS PLAN  </td>
 
   <tr>
 
-    <td> 8436.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8436" data-uslm-ref="/us/usc/t5/s8436">8436.</a>  </td>
 
     <td> Administrative provisions.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER III—THRIFT SAVINGS PLAN  </td>
 
   <tr>
 
-    <td> 8437.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8437" data-uslm-ref="/us/usc/t5/s8437">8437.</a>  </td>
 
     <td> Thrift Savings Fund.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER III—THRIFT SAVINGS PLAN  </td>
 
   <tr>
 
-    <td> 8438.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8438" data-uslm-ref="/us/usc/t5/s8438">8438.</a>  </td>
 
     <td> Investment of Thrift Savings Fund.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER III—THRIFT SAVINGS PLAN  </td>
 
   <tr>
 
-    <td> 8439.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8439" data-uslm-ref="/us/usc/t5/s8439">8439.</a>  </td>
 
     <td> Accounting and information.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER III—THRIFT SAVINGS PLAN  </td>
 
   <tr>
 
-    <td> 8440.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8440" data-uslm-ref="/us/usc/t5/s8440">8440.</a>  </td>
 
     <td> Tax treatment of the Thrift Savings Fund.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER III—THRIFT SAVINGS PLAN  </td>
 
   <tr>
 
-    <td> 8440a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8440a" data-uslm-ref="/us/usc/t5/s8440a">8440a.</a>  </td>
 
     <td> Justices and judges.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER III—THRIFT SAVINGS PLAN  </td>
 
   <tr>
 
-    <td> 8440b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8440b" data-uslm-ref="/us/usc/t5/s8440b">8440b.</a>  </td>
 
     <td> Bankruptcy judges and magistrate judges.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER III—THRIFT SAVINGS PLAN  </td>
 
   <tr>
 
-    <td> 8440c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8440c" data-uslm-ref="/us/usc/t5/s8440c">8440c.</a>  </td>
 
     <td> Court of Federal Claims judges.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER III—THRIFT SAVINGS PLAN  </td>
 
   <tr>
 
-    <td> 8440d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8440d" data-uslm-ref="/us/usc/t5/s8440d">8440d.</a>  </td>
 
     <td> Judges of the United States Court of Appeals for Veterans Claims.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER III—THRIFT SAVINGS PLAN  </td>
 
   <tr>
 
-    <td> 8440e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8440e" data-uslm-ref="/us/usc/t5/s8440e">8440e.</a>  </td>
 
     <td> Members of the uniformed services.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER III—THRIFT SAVINGS PLAN  </td>
 
   <tr>
 
-    <td> 8440f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8440f" data-uslm-ref="/us/usc/t5/s8440f">8440f.</a>  </td>
 
     <td> Maximum percentage allowable for certain participants.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER IV—SURVIVOR ANNUITIES  </td>
 
   <tr>
 
-    <td> 8441.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8441" data-uslm-ref="/us/usc/t5/s8441">8441.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER IV—SURVIVOR ANNUITIES  </td>
 
   <tr>
 
-    <td> 8442.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8442" data-uslm-ref="/us/usc/t5/s8442">8442.</a>  </td>
 
     <td> Rights of a widow or widower.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER IV—SURVIVOR ANNUITIES  </td>
 
   <tr>
 
-    <td> 8443.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8443" data-uslm-ref="/us/usc/t5/s8443">8443.</a>  </td>
 
     <td> Rights of a child.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER IV—SURVIVOR ANNUITIES  </td>
 
   <tr>
 
-    <td> 8444.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8444" data-uslm-ref="/us/usc/t5/s8444">8444.</a>  </td>
 
     <td> Rights of a named individual with an insurable interest.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER IV—SURVIVOR ANNUITIES  </td>
 
   <tr>
 
-    <td> 8445.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8445" data-uslm-ref="/us/usc/t5/s8445">8445.</a>  </td>
 
     <td> Rights of a former spouse.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER V—DISABILITY BENEFITS  </td>
 
   <tr>
 
-    <td> 8451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8451" data-uslm-ref="/us/usc/t5/s8451">8451.</a>  </td>
 
     <td> Disability retirement.  </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER V—DISABILITY BENEFITS  </td>
 
   <tr>
 
-    <td> 8452.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8452" data-uslm-ref="/us/usc/t5/s8452">8452.</a>  </td>
 
     <td> Computation of disability annuity.  </td>
 
@@ -457,7 +457,7 @@ SUBCHAPTER V—DISABILITY BENEFITS  </td>
 
   <tr>
 
-    <td> 8453.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8453" data-uslm-ref="/us/usc/t5/s8453">8453.</a>  </td>
 
     <td> Application.  </td>
 
@@ -465,7 +465,7 @@ SUBCHAPTER V—DISABILITY BENEFITS  </td>
 
   <tr>
 
-    <td> 8454.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8454" data-uslm-ref="/us/usc/t5/s8454">8454.</a>  </td>
 
     <td> Medical examination.  </td>
 
@@ -473,7 +473,7 @@ SUBCHAPTER V—DISABILITY BENEFITS  </td>
 
   <tr>
 
-    <td> 8455.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8455" data-uslm-ref="/us/usc/t5/s8455">8455.</a>  </td>
 
     <td> Recovery; restoration of earning capacity.  </td>
 
@@ -481,7 +481,7 @@ SUBCHAPTER V—DISABILITY BENEFITS  </td>
 
   <tr>
 
-    <td> 8456.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8456" data-uslm-ref="/us/usc/t5/s8456">8456.</a>  </td>
 
     <td> Military reserve technicians.  </td>
 
@@ -497,7 +497,7 @@ SUBCHAPTER VI—GENERAL AND ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 8461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8461" data-uslm-ref="/us/usc/t5/s8461">8461.</a>  </td>
 
     <td> Authority of the Office of Personnel Management.  </td>
 
@@ -505,7 +505,7 @@ SUBCHAPTER VI—GENERAL AND ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 8462.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8462" data-uslm-ref="/us/usc/t5/s8462">8462.</a>  </td>
 
     <td> Cost-of-living adjustments.  </td>
 
@@ -513,7 +513,7 @@ SUBCHAPTER VI—GENERAL AND ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 8463.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8463" data-uslm-ref="/us/usc/t5/s8463">8463.</a>  </td>
 
     <td> Rate of benefits.  </td>
 
@@ -521,7 +521,7 @@ SUBCHAPTER VI—GENERAL AND ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 8464.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8464" data-uslm-ref="/us/usc/t5/s8464">8464.</a>  </td>
 
     <td> Commencement and termination of annuities of employees and Members.  </td>
 
@@ -529,7 +529,7 @@ SUBCHAPTER VI—GENERAL AND ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 8464a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8464a" data-uslm-ref="/us/usc/t5/s8464a">8464a.</a>  </td>
 
     <td> Relationship between annuity and workers’ compensation.  </td>
 
@@ -537,7 +537,7 @@ SUBCHAPTER VI—GENERAL AND ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 8465.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8465" data-uslm-ref="/us/usc/t5/s8465">8465.</a>  </td>
 
     <td> Waiver, allotment, and assignment of benefits.  </td>
 
@@ -545,7 +545,7 @@ SUBCHAPTER VI—GENERAL AND ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 8466.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8466" data-uslm-ref="/us/usc/t5/s8466">8466.</a>  </td>
 
     <td> Application for benefits.  </td>
 
@@ -553,7 +553,7 @@ SUBCHAPTER VI—GENERAL AND ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 8467.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8467" data-uslm-ref="/us/usc/t5/s8467">8467.</a>  </td>
 
     <td> Court orders.  </td>
 
@@ -561,7 +561,7 @@ SUBCHAPTER VI—GENERAL AND ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 8468.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8468" data-uslm-ref="/us/usc/t5/s8468">8468.</a>  </td>
 
     <td> Annuities and pay on reemployment.  </td>
 
@@ -569,7 +569,7 @@ SUBCHAPTER VI—GENERAL AND ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 8469.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8469" data-uslm-ref="/us/usc/t5/s8469">8469.</a>  </td>
 
     <td> Withholding of State income taxes.  </td>
 
@@ -577,7 +577,7 @@ SUBCHAPTER VI—GENERAL AND ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 8470.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8470" data-uslm-ref="/us/usc/t5/s8470">8470.</a>  </td>
 
     <td> Exemption from legal process; recovery of payments.  </td>
 
@@ -593,7 +593,7 @@ SUBCHAPTER VII—FEDERAL RETIREMENT THRIFT INVESTMENT MANAGEMENT SYSTEM  </td>
 
   <tr>
 
-    <td> 8471.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8471" data-uslm-ref="/us/usc/t5/s8471">8471.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -601,7 +601,7 @@ SUBCHAPTER VII—FEDERAL RETIREMENT THRIFT INVESTMENT MANAGEMENT SYSTEM  </td>
 
   <tr>
 
-    <td> 8472.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8472" data-uslm-ref="/us/usc/t5/s8472">8472.</a>  </td>
 
     <td> Federal Retirement Thrift Investment Board.  </td>
 
@@ -609,7 +609,7 @@ SUBCHAPTER VII—FEDERAL RETIREMENT THRIFT INVESTMENT MANAGEMENT SYSTEM  </td>
 
   <tr>
 
-    <td> 8473.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8473" data-uslm-ref="/us/usc/t5/s8473">8473.</a>  </td>
 
     <td> Employee Thrift Advisory Council.  </td>
 
@@ -617,7 +617,7 @@ SUBCHAPTER VII—FEDERAL RETIREMENT THRIFT INVESTMENT MANAGEMENT SYSTEM  </td>
 
   <tr>
 
-    <td> 8474.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8474" data-uslm-ref="/us/usc/t5/s8474">8474.</a>  </td>
 
     <td> Executive Director.  </td>
 
@@ -625,7 +625,7 @@ SUBCHAPTER VII—FEDERAL RETIREMENT THRIFT INVESTMENT MANAGEMENT SYSTEM  </td>
 
   <tr>
 
-    <td> 8475.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8475" data-uslm-ref="/us/usc/t5/s8475">8475.</a>  </td>
 
     <td> Investment policies.  </td>
 
@@ -633,7 +633,7 @@ SUBCHAPTER VII—FEDERAL RETIREMENT THRIFT INVESTMENT MANAGEMENT SYSTEM  </td>
 
   <tr>
 
-    <td> 8476.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8476" data-uslm-ref="/us/usc/t5/s8476">8476.</a>  </td>
 
     <td> Administrative provisions.  </td>
 
@@ -641,7 +641,7 @@ SUBCHAPTER VII—FEDERAL RETIREMENT THRIFT INVESTMENT MANAGEMENT SYSTEM  </td>
 
   <tr>
 
-    <td> 8477.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8477" data-uslm-ref="/us/usc/t5/s8477">8477.</a>  </td>
 
     <td> Fiduciary responsibilities; liability and penalties.  </td>
 
@@ -649,7 +649,7 @@ SUBCHAPTER VII—FEDERAL RETIREMENT THRIFT INVESTMENT MANAGEMENT SYSTEM  </td>
 
   <tr>
 
-    <td> 8478.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8478" data-uslm-ref="/us/usc/t5/s8478">8478.</a>  </td>
 
     <td> Bonding.  </td>
 
@@ -657,7 +657,7 @@ SUBCHAPTER VII—FEDERAL RETIREMENT THRIFT INVESTMENT MANAGEMENT SYSTEM  </td>
 
   <tr>
 
-    <td> 8478a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8478a" data-uslm-ref="/us/usc/t5/s8478a">8478a.</a>  </td>
 
     <td> Investigative authority.  </td>
 
@@ -665,7 +665,7 @@ SUBCHAPTER VII—FEDERAL RETIREMENT THRIFT INVESTMENT MANAGEMENT SYSTEM  </td>
 
   <tr>
 
-    <td> 8479.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8479" data-uslm-ref="/us/usc/t5/s8479">8479.</a>  </td>
 
     <td> Exculpatory provisions; insurance.  </td>
 
@@ -673,7 +673,7 @@ SUBCHAPTER VII—FEDERAL RETIREMENT THRIFT INVESTMENT MANAGEMENT SYSTEM  </td>
 
   <tr>
 
-    <td> 8480.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8480" data-uslm-ref="/us/usc/t5/s8480">8480.</a>  </td>
 
     <td> Subpoena authority.  </td>
 

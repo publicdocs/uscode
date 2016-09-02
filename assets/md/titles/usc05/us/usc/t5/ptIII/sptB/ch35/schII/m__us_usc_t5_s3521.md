@@ -15,7 +15,7 @@
 
 ## § 3521. Definitions
 
-In this subchapter, the term—
+    In this subchapter, the term—
 
     (1) “agency” means an Executive agency as defined under section 105 (other than the Government Accountability Office); and
 

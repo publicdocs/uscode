@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1101" data-uslm-ref="/us/usc/t5/s1101">1101.</a>  </td>
 
     <td> Office of Personnel Management.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1102" data-uslm-ref="/us/usc/t5/s1102">1102.</a>  </td>
 
     <td> Director; Deputy Director; Associate Directors.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1103" data-uslm-ref="/us/usc/t5/s1103">1103.</a>  </td>
 
     <td> Functions of the Director.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1104" data-uslm-ref="/us/usc/t5/s1104">1104.</a>  </td>
 
     <td> Delegation of authority for personnel management.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1105" data-uslm-ref="/us/usc/t5/s1105">1105.</a>  </td>
 
     <td> Administrative procedure.  </td>
 

@@ -2027,7 +2027,7 @@ Nov. 2, 1966, Pub. L. 89–702, § 208(c), 80 Stat. 1096.  </td>
 
 >     “(3) 8.5 percent of the basic pay of a Member of Congress, a Court of Federal Claims judge, a United States magistrate \[now United States magistrate judge\], a judge of the United States Court of Appeals for the Armed Forces, or a bankruptcy judge,
 
->         in lieu of the agency contributions otherwise required under section 8334(a)(1) of such title 5.”
+>     in lieu of the agency contributions otherwise required under section 8334(a)(1) of such title 5.”
 
 [Pub. L. 105–261, div. C, title XXXI, § 3154(c)(3)][/us/pl/105/261/s3154/c/3], Oct. 17, 1998, [112 Stat. 2255][/us/stat/112/2255], provided that: 
 

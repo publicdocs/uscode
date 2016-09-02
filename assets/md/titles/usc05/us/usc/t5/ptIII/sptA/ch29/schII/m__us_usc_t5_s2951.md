@@ -15,7 +15,7 @@
 
 ## § 2951. Reports to the Office of Personnel Management
 
-The President may prescribe rules which shall provide, as nearly as conditions of good administration warrant, that—
+    The President may prescribe rules which shall provide, as nearly as conditions of good administration warrant, that—
 
     (1)
 

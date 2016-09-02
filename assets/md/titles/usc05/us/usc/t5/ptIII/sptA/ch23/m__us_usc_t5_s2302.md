@@ -403,7 +403,11 @@
 
 >              shall come within the protections of [section 2302(b)(8)(A) of title 5][/us/usc/t5/s2302/b/8/A], United States Code, if—
 
->                 “(i) the employee or applicant reasonably believes that the censorship related to research, analysis, or technical information is or will cause—         “(I) any violation of law, rule, or regulation; or
+>                 “(i)
+
+>                  the employee or applicant reasonably believes that the censorship related to research, analysis, or technical information is or will cause—
+
+>                          “(I) any violation of law, rule, or regulation; or
 
 >                          “(II) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety; and
 
@@ -413,7 +417,11 @@
 
 >              shall come within the protections of [section 2302(b)(8)(B) of title 5][/us/usc/t5/s2302/b/8/B], United States Code, if—
 
->                 “(i) the employee or applicant reasonably believes that the censorship related to research, analysis, or technical information is or will cause—         “(I) any violation of law, rule, or regulation; or
+>                 “(i)
+
+>                  the employee or applicant reasonably believes that the censorship related to research, analysis, or technical information is or will cause—
+
+>                          “(I) any violation of law, rule, or regulation; or
 
 >                          “(II) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety; and
 

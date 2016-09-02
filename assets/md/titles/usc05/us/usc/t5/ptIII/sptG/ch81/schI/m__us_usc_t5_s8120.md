@@ -15,7 +15,7 @@
 
 ## § 8120. Report of injury
 
-Immediately after an injury to an employee which results in his death or probable disability, his immediate superior shall report to the Secretary of Labor. The Secretary may—
+    Immediately after an injury to an employee which results in his death or probable disability, his immediate superior shall report to the Secretary of Labor. The Secretary may—
 
     (1) prescribe the information that the report shall contain;
 

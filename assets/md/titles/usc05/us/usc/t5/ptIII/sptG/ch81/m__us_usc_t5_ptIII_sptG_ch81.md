@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8101" data-uslm-ref="/us/usc/t5/s8101">8101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8102" data-uslm-ref="/us/usc/t5/s8102">8102.</a>  </td>
 
     <td> Compensation for disability or death of employee.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8102a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8102a" data-uslm-ref="/us/usc/t5/s8102a">8102a.</a>  </td>
 
     <td> Death gratuity for injuries incurred in connection with employee’s service with an Armed Force.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8103" data-uslm-ref="/us/usc/t5/s8103">8103.</a>  </td>
 
     <td> Medical services and initial medical and other benefits.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8104" data-uslm-ref="/us/usc/t5/s8104">8104.</a>  </td>
 
     <td> Vocational rehabilitation.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8105" data-uslm-ref="/us/usc/t5/s8105">8105.</a>  </td>
 
     <td> Total disability.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8106" data-uslm-ref="/us/usc/t5/s8106">8106.</a>  </td>
 
     <td> Partial disability.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8107" data-uslm-ref="/us/usc/t5/s8107">8107.</a>  </td>
 
     <td> Compensation schedule.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8108" data-uslm-ref="/us/usc/t5/s8108">8108.</a>  </td>
 
     <td> Reduction of compensation for subsequent injury to same member.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8109" data-uslm-ref="/us/usc/t5/s8109">8109.</a>  </td>
 
     <td> Beneficiaries of awards unpaid at death; order of precedence.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8110" data-uslm-ref="/us/usc/t5/s8110">8110.</a>  </td>
 
     <td> Augmented compensation for dependents.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8111" data-uslm-ref="/us/usc/t5/s8111">8111.</a>  </td>
 
     <td> Additional compensation for services of attendants or vocational rehabilitation.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8112" data-uslm-ref="/us/usc/t5/s8112">8112.</a>  </td>
 
     <td> Maximum and minimum monthly payments.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8113" data-uslm-ref="/us/usc/t5/s8113">8113.</a>  </td>
 
     <td> Increase or decrease of basic compensation.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8114" data-uslm-ref="/us/usc/t5/s8114">8114.</a>  </td>
 
     <td> Computation of pay.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8115" data-uslm-ref="/us/usc/t5/s8115">8115.</a>  </td>
 
     <td> Determination of wage-earning capacity.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8116" data-uslm-ref="/us/usc/t5/s8116">8116.</a>  </td>
 
     <td> Limitations on right to receive compensation.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8117.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8117" data-uslm-ref="/us/usc/t5/s8117">8117.</a>  </td>
 
     <td> Time of accrual of right.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8118.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8118" data-uslm-ref="/us/usc/t5/s8118">8118.</a>  </td>
 
     <td> Election to use annual or sick leave. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8119.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8119" data-uslm-ref="/us/usc/t5/s8119">8119.</a>  </td>
 
     <td> Notice of injury or death.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8120.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8120" data-uslm-ref="/us/usc/t5/s8120">8120.</a>  </td>
 
     <td> Report of injury.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8121" data-uslm-ref="/us/usc/t5/s8121">8121.</a>  </td>
 
     <td> Claim.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8122" data-uslm-ref="/us/usc/t5/s8122">8122.</a>  </td>
 
     <td> Time for making claim.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8123.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8123" data-uslm-ref="/us/usc/t5/s8123">8123.</a>  </td>
 
     <td> Physical examinations.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8124.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8124" data-uslm-ref="/us/usc/t5/s8124">8124.</a>  </td>
 
     <td> Findings and award; hearings.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8125.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8125" data-uslm-ref="/us/usc/t5/s8125">8125.</a>  </td>
 
     <td> Misbehavior at proceedings.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8126.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8126" data-uslm-ref="/us/usc/t5/s8126">8126.</a>  </td>
 
     <td> Subpenas; oaths; examination of witnesses.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8127.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8127" data-uslm-ref="/us/usc/t5/s8127">8127.</a>  </td>
 
     <td> Representation; attorneys’ fees.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8128.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8128" data-uslm-ref="/us/usc/t5/s8128">8128.</a>  </td>
 
     <td> Review of award.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8129.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8129" data-uslm-ref="/us/usc/t5/s8129">8129.</a>  </td>
 
     <td> Recovery of overpayments.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8130.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8130" data-uslm-ref="/us/usc/t5/s8130">8130.</a>  </td>
 
     <td> Assignment of claim.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8131" data-uslm-ref="/us/usc/t5/s8131">8131.</a>  </td>
 
     <td> Subrogation of the United States.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8132.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8132" data-uslm-ref="/us/usc/t5/s8132">8132.</a>  </td>
 
     <td> Adjustment after recovery from a third person.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8133.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8133" data-uslm-ref="/us/usc/t5/s8133">8133.</a>  </td>
 
     <td> Compensation in case of death.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8134.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8134" data-uslm-ref="/us/usc/t5/s8134">8134.</a>  </td>
 
     <td> Funeral expenses; transportation of body.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8135.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8135" data-uslm-ref="/us/usc/t5/s8135">8135.</a>  </td>
 
     <td> Lump-sum payment.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8136.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8136" data-uslm-ref="/us/usc/t5/s8136">8136.</a>  </td>
 
     <td> Initial payments outside the United States.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8137.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8137" data-uslm-ref="/us/usc/t5/s8137">8137.</a>  </td>
 
     <td> Compensation for noncitizens and nonresidents.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8138.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8138" data-uslm-ref="/us/usc/t5/s8138">8138.</a>  </td>
 
     <td> Minimum limit modification for noncitizens and aliens.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8139.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8139" data-uslm-ref="/us/usc/t5/s8139">8139.</a>  </td>
 
     <td> Employees of the District of Columbia.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8140.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8140" data-uslm-ref="/us/usc/t5/s8140">8140.</a>  </td>
 
     <td> Members of the Reserve Officers’ Training Corps.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8141" data-uslm-ref="/us/usc/t5/s8141">8141.</a>  </td>
 
     <td> Civil Air Patrol volunteers.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8142" data-uslm-ref="/us/usc/t5/s8142">8142.</a>  </td>
 
     <td> Peace Corps volunteers.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8143" data-uslm-ref="/us/usc/t5/s8143">8143.</a>  </td>
 
     <td> Job Corps enrollees; volunteers in service to America.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8143a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8143a" data-uslm-ref="/us/usc/t5/s8143a">8143a.</a>  </td>
 
     <td> Members of the National Teacher Corps.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8144.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8144" data-uslm-ref="/us/usc/t5/s8144">8144.</a>  </td>
 
     <td> Student-employees.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8145.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8145" data-uslm-ref="/us/usc/t5/s8145">8145.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8146.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8146" data-uslm-ref="/us/usc/t5/s8146">8146.</a>  </td>
 
     <td> Administration for the Panama Canal Commission and The Alaska Railroad.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8146a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8146a" data-uslm-ref="/us/usc/t5/s8146a">8146a.</a>  </td>
 
     <td> Cost-of-living adjustment of compensation.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8147.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8147" data-uslm-ref="/us/usc/t5/s8147">8147.</a>  </td>
 
     <td> Employees’ Compensation Fund.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8148.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8148" data-uslm-ref="/us/usc/t5/s8148">8148.</a>  </td>
 
     <td> Forfeiture of benefits by convicted felons.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8149.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8149" data-uslm-ref="/us/usc/t5/s8149">8149.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8150.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8150" data-uslm-ref="/us/usc/t5/s8150">8150.</a>  </td>
 
     <td> Effect on other statutes.  </td>
 
@@ -457,7 +457,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8151" data-uslm-ref="/us/usc/t5/s8151">8151.</a>  </td>
 
     <td> Civil service retention rights.  </td>
 
@@ -465,7 +465,7 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
-    <td> 8152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8152" data-uslm-ref="/us/usc/t5/s8152">8152.</a>  </td>
 
     <td> Annual report.  </td>
 
@@ -481,7 +481,7 @@ SUBCHAPTER II—EMPLOYEES OF NONAPPROPRIATED FUND INSTRUMENTALITIES  </td>
 
   <tr>
 
-    <td> 8171.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8171" data-uslm-ref="/us/usc/t5/s8171">8171.</a>  </td>
 
     <td> Compensation for work injuries; generally.  </td>
 
@@ -489,7 +489,7 @@ SUBCHAPTER II—EMPLOYEES OF NONAPPROPRIATED FUND INSTRUMENTALITIES  </td>
 
   <tr>
 
-    <td> 8172.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8172" data-uslm-ref="/us/usc/t5/s8172">8172.</a>  </td>
 
     <td> Employees not citizens or residents of the United States.  </td>
 
@@ -497,7 +497,7 @@ SUBCHAPTER II—EMPLOYEES OF NONAPPROPRIATED FUND INSTRUMENTALITIES  </td>
 
   <tr>
 
-    <td> 8173.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8173" data-uslm-ref="/us/usc/t5/s8173">8173.</a>  </td>
 
     <td> Liability under this subchapter exclusive.  </td>
 
@@ -513,7 +513,7 @@ SUBCHAPTER III—LAW ENFORCEMENT OFFICERS NOT EMPLOYED BY THE UNITED STATES  </t
 
   <tr>
 
-    <td> 8191.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8191" data-uslm-ref="/us/usc/t5/s8191">8191.</a>  </td>
 
     <td> Determination of eligibility.  </td>
 
@@ -521,7 +521,7 @@ SUBCHAPTER III—LAW ENFORCEMENT OFFICERS NOT EMPLOYED BY THE UNITED STATES  </t
 
   <tr>
 
-    <td> 8192.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8192" data-uslm-ref="/us/usc/t5/s8192">8192.</a>  </td>
 
     <td> Benefits.  </td>
 
@@ -529,7 +529,7 @@ SUBCHAPTER III—LAW ENFORCEMENT OFFICERS NOT EMPLOYED BY THE UNITED STATES  </t
 
   <tr>
 
-    <td> 8193.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8193" data-uslm-ref="/us/usc/t5/s8193">8193.</a>  </td>
 
     <td> Administration.  </td>
 

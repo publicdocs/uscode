@@ -15,7 +15,7 @@
 
 ## § 4121. Specific training programs
 
-In consultation with the Office of Personnel Management, the head of each agency shall establish—
+    In consultation with the Office of Personnel Management, the head of each agency shall establish—
 
     (1) a comprehensive management succession program to provide training to employees to develop managers for the agency; and
 

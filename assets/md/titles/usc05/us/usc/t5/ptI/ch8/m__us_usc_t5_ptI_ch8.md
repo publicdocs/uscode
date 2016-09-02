@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs801" data-uslm-ref="/us/usc/t5/s801">801.</a>  </td>
 
     <td> Congressional review.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs802" data-uslm-ref="/us/usc/t5/s802">802.</a>  </td>
 
     <td> Congressional disapproval procedure.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs803" data-uslm-ref="/us/usc/t5/s803">803.</a>  </td>
 
     <td> Special rule on statutory, regulatory, and judicial deadlines.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs804" data-uslm-ref="/us/usc/t5/s804">804.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs805" data-uslm-ref="/us/usc/t5/s805">805.</a>  </td>
 
     <td> Judicial review.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 806.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs806" data-uslm-ref="/us/usc/t5/s806">806.</a>  </td>
 
     <td> Applicability; severability.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 807.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs807" data-uslm-ref="/us/usc/t5/s807">807.</a>  </td>
 
     <td> Exemption for monetary policy.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 808.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs808" data-uslm-ref="/us/usc/t5/s808">808.</a>  </td>
 
     <td> Effective date of certain rules.  </td>
 

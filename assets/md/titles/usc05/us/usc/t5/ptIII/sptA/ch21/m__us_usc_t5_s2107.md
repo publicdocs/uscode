@@ -15,7 +15,7 @@
 
 ## § 2107. Congressional employee
 
-For the purpose of this title, “Congressional employee” means—
+    For the purpose of this title, “Congressional employee” means—
 
     (1) an employee of either House of Congress, of a committee of either House, or of a joint committee of the two Houses;
 

@@ -15,13 +15,13 @@
 
 ## § 6325. Absence resulting from hostile action abroad
 
-Leave may not be charged to the account of an employee for absence, not to exceed one year, due to an injury—
+    Leave may not be charged to the account of an employee for absence, not to exceed one year, due to an injury—
 
     (1) incurred while serving abroad and resulting from war, insurgency, mob violence, or similar hostile action; and
 
     (2) not due to vicious habits, intemperance, or willful misconduct on the part of the employee.
 
-        The preceding provisions of this section shall apply in the case of an alien employee referred to in [section 6301(2)(viii) of this title][/us/usc/t5/s6301/2/viii] with respect to any leave granted to such alien employee under [section 6310 of this title][/us/usc/t5/s6310] or section 408 of the Foreign Service Act of 1980.
+    The preceding provisions of this section shall apply in the case of an alien employee referred to in [section 6301(2)(viii) of this title][/us/usc/t5/s6301/2/viii] with respect to any leave granted to such alien employee under [section 6310 of this title][/us/usc/t5/s6310] or section 408 of the Foreign Service Act of 1980.
 
 (Added [Pub. L. 90–221, § 3(a)][/us/pl/90/221/s3/a], Dec. 23, 1967, [81 Stat. 671][/us/stat/81/671]; amended [Pub. L. 96–54, § 2(a)(41)][/us/pl/96/54/s2/a/41], Aug. 14, 1979, [93 Stat. 383][/us/stat/93/383]; [Pub. L. 99–399, title VIII, § 804][/us/pl/99/399/s804], Aug. 27, 1986, [100 Stat. 883][/us/stat/100/883].)
 

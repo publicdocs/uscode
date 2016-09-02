@@ -15,7 +15,7 @@
 
 ## § 4509. Prohibition of cash award to Executive Schedule officers
 
-No officer may receive a cash award under the provisions of this subchapter, if such officer—
+    No officer may receive a cash award under the provisions of this subchapter, if such officer—
 
     (1)
 

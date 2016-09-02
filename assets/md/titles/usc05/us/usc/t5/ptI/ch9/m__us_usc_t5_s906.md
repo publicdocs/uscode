@@ -115,7 +115,7 @@ June 20, 1949, ch. 226, § 11, 63 Stat. 206.  </td>
 
 [Pub. L. 98–532][/us/pl/98/532], Oct. 19, 1984, [98 Stat. 2705][/us/stat/98/2705], provided that:
 
->     “Section 1. The Congress hereby ratifies and affirms as law each reorganization plan that has, prior to the date of enactment of this Act \[Oct. 19, 1984\], been implemented pursuant to the provisions of chapter 9 of title 5, United States Code, or any predecessor Federal reorganization statute.
+> “Section 1. The Congress hereby ratifies and affirms as law each reorganization plan that has, prior to the date of enactment of this Act \[Oct. 19, 1984\], been implemented pursuant to the provisions of chapter 9 of title 5, United States Code, or any predecessor Federal reorganization statute.
 
 > “Sec. 2. Any actions taken prior to the date of enactment of this Act \[Oct. 19, 1984\] pursuant to a reorganization plan that is ratified and affirmed by section 1 shall be considered to have been taken pursuant to a reorganization expressly approved by Act of Congress.”
 

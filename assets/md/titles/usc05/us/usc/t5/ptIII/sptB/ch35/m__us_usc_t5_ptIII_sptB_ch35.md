@@ -33,7 +33,7 @@ SUBCHAPTER I—RETENTION PREFERENCE  </td>
 
   <tr>
 
-    <td> 3501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3501" data-uslm-ref="/us/usc/t5/s3501">3501.</a>  </td>
 
     <td> Definitions; application.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—RETENTION PREFERENCE  </td>
 
   <tr>
 
-    <td> 3502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3502" data-uslm-ref="/us/usc/t5/s3502">3502.</a>  </td>
 
     <td> Order of retention.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—RETENTION PREFERENCE  </td>
 
   <tr>
 
-    <td> 3503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3503" data-uslm-ref="/us/usc/t5/s3503">3503.</a>  </td>
 
     <td> Transfer of functions.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—RETENTION PREFERENCE  </td>
 
   <tr>
 
-    <td> 3504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3504" data-uslm-ref="/us/usc/t5/s3504">3504.</a>  </td>
 
     <td> Preference eligibles; retention; physical qualifications; waiver.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—VOLUNTARY SEPARATION INCENTIVE PAYMENTS  </td>
 
   <tr>
 
-    <td> 3521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3521" data-uslm-ref="/us/usc/t5/s3521">3521.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—VOLUNTARY SEPARATION INCENTIVE PAYMENTS  </td>
 
   <tr>
 
-    <td> 3522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3522" data-uslm-ref="/us/usc/t5/s3522">3522.</a>  </td>
 
     <td> Agency plans; approval.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—VOLUNTARY SEPARATION INCENTIVE PAYMENTS  </td>
 
   <tr>
 
-    <td> 3523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3523" data-uslm-ref="/us/usc/t5/s3523">3523.</a>  </td>
 
     <td> Authority to provide voluntary separation incentive payments.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—VOLUNTARY SEPARATION INCENTIVE PAYMENTS  </td>
 
   <tr>
 
-    <td> 3524.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3524" data-uslm-ref="/us/usc/t5/s3524">3524.</a>  </td>
 
     <td> Effect of subsequent employment with the Government.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—VOLUNTARY SEPARATION INCENTIVE PAYMENTS  </td>
 
   <tr>
 
-    <td> 3525.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3525" data-uslm-ref="/us/usc/t5/s3525">3525.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER III—REINSTATEMENT OR RESTORATION AFTER SUSPENSION OR REMOVAL FOR NA
 
   <tr>
 
-    <td> 3571.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3571" data-uslm-ref="/us/usc/t5/s3571">3571.</a>  </td>
 
     <td> Reinstatement or restoration; individuals suspended or removed for national security.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER IV—REEMPLOYMENT AFTER SERVICE WITH AN INTERNATIONAL ORGANIZATION  <
 
   <tr>
 
-    <td> 3581.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3581" data-uslm-ref="/us/usc/t5/s3581">3581.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER IV—REEMPLOYMENT AFTER SERVICE WITH AN INTERNATIONAL ORGANIZATION  <
 
   <tr>
 
-    <td> 3582.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3582" data-uslm-ref="/us/usc/t5/s3582">3582.</a>  </td>
 
     <td> Rights of transferring employees.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER IV—REEMPLOYMENT AFTER SERVICE WITH AN INTERNATIONAL ORGANIZATION  <
 
   <tr>
 
-    <td> 3583.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3583" data-uslm-ref="/us/usc/t5/s3583">3583.</a>  </td>
 
     <td> Computations.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER IV—REEMPLOYMENT AFTER SERVICE WITH AN INTERNATIONAL ORGANIZATION  <
 
   <tr>
 
-    <td> 3584.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3584" data-uslm-ref="/us/usc/t5/s3584">3584.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER V—REMOVAL, REINSTATEMENT, AND GUARANTEED PLACEMENT IN THE SENIOR EX
 
   <tr>
 
-    <td> 3591.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3591" data-uslm-ref="/us/usc/t5/s3591">3591.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER V—REMOVAL, REINSTATEMENT, AND GUARANTEED PLACEMENT IN THE SENIOR EX
 
   <tr>
 
-    <td> 3592.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3592" data-uslm-ref="/us/usc/t5/s3592">3592.</a>  </td>
 
     <td> Removal from the Senior Executive Service.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER V—REMOVAL, REINSTATEMENT, AND GUARANTEED PLACEMENT IN THE SENIOR EX
 
   <tr>
 
-    <td> 3593.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3593" data-uslm-ref="/us/usc/t5/s3593">3593.</a>  </td>
 
     <td> Reinstatement in the Senior Executive Service.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER V—REMOVAL, REINSTATEMENT, AND GUARANTEED PLACEMENT IN THE SENIOR EX
 
   <tr>
 
-    <td> 3594.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3594" data-uslm-ref="/us/usc/t5/s3594">3594.</a>  </td>
 
     <td> Guaranteed placement in other personnel systems.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER V—REMOVAL, REINSTATEMENT, AND GUARANTEED PLACEMENT IN THE SENIOR EX
 
   <tr>
 
-    <td> 3595.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3595" data-uslm-ref="/us/usc/t5/s3595">3595.</a>  </td>
 
     <td> Reduction in force in the Senior Executive Service.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER V—REMOVAL, REINSTATEMENT, AND GUARANTEED PLACEMENT IN THE SENIOR EX
 
   <tr>
 
-    <td> 3595a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3595a" data-uslm-ref="/us/usc/t5/s3595a">3595a.</a>  </td>
 
     <td> Furlough in the Senior Executive Service.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER V—REMOVAL, REINSTATEMENT, AND GUARANTEED PLACEMENT IN THE SENIOR EX
 
   <tr>
 
-    <td> 3596.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3596" data-uslm-ref="/us/usc/t5/s3596">3596.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER VI—REEMPLOYMENT FOLLOWING LIMITED APPOINTMENT IN THE FOREIGN SERVIC
 
   <tr>
 
-    <td> 3597.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3597" data-uslm-ref="/us/usc/t5/s3597">3597.</a>  </td>
 
     <td> Reemployment following limited appointment in the Foreign Service.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER VII—RETENTION OF RETIRED SPECIALIZED EMPLOYEES AT THE FEDERAL BUREA
 
   <tr>
 
-    <td> 3598. <sup>[1]</sup>  <sup><sup> 1 So in original. Two sections “3598” have been enacted. </sup></sup>   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3598" data-uslm-ref="/us/usc/t5/s3598">3598.</a> <sup>[1]</sup>  <sup><sup> 1 So in original. Two sections “3598” have been enacted. </sup></sup>   </td>
 
     <td> Federal Bureau of Investigation reserve service. <sup>[2]</sup>  <sup><sup> 2 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER VII—RETENTION OF RETIRED SPECIALIZED EMPLOYEES AT THE FEDERAL BUREA
 
   <tr>
 
-    <td> 3598. <sup>[1]</sup>   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3598" data-uslm-ref="/us/usc/t5/s3598">3598.</a> <sup>[1]</sup>   </td>
 
     <td> Federal Bureau of Investigation Reserve Service.  </td>
 

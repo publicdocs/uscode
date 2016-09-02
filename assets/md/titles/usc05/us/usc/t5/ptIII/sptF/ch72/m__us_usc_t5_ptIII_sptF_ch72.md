@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t5/ptIII/sptF/ch71/schIV/m__us_usc_t5_s7151 to 7154.md) | [Next](./../../../../../..//us/usc/t5/ptIII/sptF/ch72/schI/m__us_usc_t5_ptIII_sptF_ch72_schI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptF%2Fch72)
+[Previous](./../../../../../..//us/usc/t5/ptIII/sptF/ch71/schIV/m__us_usc_t5_s7135.md) | [Next](./../../../../../..//us/usc/t5/ptIII/sptF/ch72/schI/m__us_usc_t5_ptIII_sptF_ch72_schI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptF%2Fch72)
 
 #### CHAPTER 72—ANTIDISCRIMINATION; RIGHT TO PETITION CONGRESS
 
@@ -33,7 +33,7 @@ SUBCHAPTER I—ANTIDISCRIMINATION IN EMPLOYMENT  </td>
 
   <tr>
 
-    <td> 7201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7201" data-uslm-ref="/us/usc/t5/s7201">7201.</a>  </td>
 
     <td> Antidiscrimination policy; minority recruitment program.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—ANTIDISCRIMINATION IN EMPLOYMENT  </td>
 
   <tr>
 
-    <td> 7202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7202" data-uslm-ref="/us/usc/t5/s7202">7202.</a>  </td>
 
     <td> Marital status.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—ANTIDISCRIMINATION IN EMPLOYMENT  </td>
 
   <tr>
 
-    <td> 7203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7203" data-uslm-ref="/us/usc/t5/s7203">7203.</a>  </td>
 
     <td> Handicapping condition.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—ANTIDISCRIMINATION IN EMPLOYMENT  </td>
 
   <tr>
 
-    <td> 7204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7204" data-uslm-ref="/us/usc/t5/s7204">7204.</a>  </td>
 
     <td> Other prohibitions.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—EMPLOYEES’ RIGHT TO PETITION CONGRESS  </td>
 
   <tr>
 
-    <td> 7211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7211" data-uslm-ref="/us/usc/t5/s7211">7211.</a>  </td>
 
     <td> Employees’ right to petition Congress  </td>
 
@@ -87,7 +87,7 @@ SUBCHAPTER II—EMPLOYEES’ RIGHT TO PETITION CONGRESS  </td>
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t5/ptIII/sptF/ch71/schIV/m__us_usc_t5_s7151 to 7154.md) | [Next](./../../../../../..//us/usc/t5/ptIII/sptF/ch72/schI/m__us_usc_t5_ptIII_sptF_ch72_schI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptF%2Fch72)
+[Previous](./../../../../../..//us/usc/t5/ptIII/sptF/ch71/schIV/m__us_usc_t5_s7135.md) | [Next](./../../../../../..//us/usc/t5/ptIII/sptF/ch72/schI/m__us_usc_t5_ptIII_sptF_ch72_schI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptF%2Fch72)
 
 ----------
 ----------

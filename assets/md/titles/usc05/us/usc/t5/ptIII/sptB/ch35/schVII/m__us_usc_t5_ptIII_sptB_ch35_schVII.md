@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t5/ptIII/sptB/ch35/schVI/m__us_usc_t5_s3597.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptB/ch35/schVII/m__us_usc_t5_s3598.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptB%2Fch35%2FschVII)
+[Previous](./../../../../../../..//us/usc/t5/ptIII/sptB/ch35/schVI/m__us_usc_t5_s3597.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptB/ch35/schVII/m__us_usc_t5_s3598.1.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptB%2Fch35%2FschVII)
 
 ##### SUBCHAPTER VII—RETENTION OF RETIRED SPECIALIZED EMPLOYEES AT THE FEDERAL BUREAU OF INVESTIGATION
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t5/ptIII/sptB/ch35/schVI/m__us_usc_t5_s3597.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptB/ch35/schVII/m__us_usc_t5_s3598.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptB%2Fch35%2FschVII)
+[Previous](./../../../../../../..//us/usc/t5/ptIII/sptB/ch35/schVI/m__us_usc_t5_s3597.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptB/ch35/schVII/m__us_usc_t5_s3598.1.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptB%2Fch35%2FschVII)
 
 ----------
 ----------

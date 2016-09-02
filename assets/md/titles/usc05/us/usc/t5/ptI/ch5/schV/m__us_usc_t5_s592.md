@@ -15,7 +15,7 @@
 
 ## § 592. Definitions
 
-For the purpose of this subchapter—
+    For the purpose of this subchapter—
 
     (1) “administrative program” includes a Federal function which involves protection of the public interest and the determination of rights, privileges, and obligations of private persons through rule making, adjudication, licensing, or investigation, as those terms are used in subchapter II of this chapter, except that it does not include a military or foreign affairs function of the United States;
 

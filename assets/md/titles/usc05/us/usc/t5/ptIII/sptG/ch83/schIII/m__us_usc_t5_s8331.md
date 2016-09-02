@@ -15,7 +15,7 @@
 
 ## § 8331. Definitions
 
-For the purpose of this subchapter—
+    For the purpose of this subchapter—
 
     (1)
 
@@ -1353,403 +1353,581 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 >     “Any election made (or deemed to have been made) by an employee or any other individual under this title shall be irrevocable.
 
- __“Subtitle A—Description of Retirement Coverage Errors to Which This Title Applies and Measures for Their Rectification__ 
+> “Subtitle A— __Description of Retirement Coverage Errors to Which This Title Applies and Measures for Their Rectification__ 
 
- __“chapter 1—employees and annuitants who should have been fers covered, but who were erroneously csrs covered or csrs-offset covered instead, and survivors of such employees and annuitants__ 
+> “chapter 1— __employees and annuitants who should have been fers covered, but who were erroneously csrs covered or csrs-offset covered instead, and survivors of such employees and annuitants__ 
 
-    “SEC. 2101. EMPLOYEES.
+> “SEC. 2101. __EMPLOYEES.__ 
 
-    “(a) Applicability.—This section shall apply in the case of any employee or former employee who should be (or should have been) FERS covered but, as a result of a retirement coverage error, is (or was) CSRS covered or CSRS-Offset covered instead.
+>     “(a) __Applicability.—__ 
 
-    “(b) Uncorrected Error.—
+>     This section shall apply in the case of any employee or former employee who should be (or should have been) FERS covered but, as a result of a retirement coverage error, is (or was) CSRS covered or CSRS-Offset covered instead.
 
-    “(1) Applicability.—This subsection applies if the retirement coverage error has not been corrected before the effective date of the regulations described under paragraph (3). As soon as practicable after discovery of the error, and subject to the right of an election under paragraph (2), if CSRS covered or CSRS-Offset covered, such individual shall be treated as CSRS-Offset covered, retroactive to the date of the retirement coverage error.
+>     “(b) __Uncorrected Error.—__ 
 
-    “(2) Coverage.—
+>         “(1) __Applicability.—__ 
 
-    “(A) Election.—Upon written notice of a retirement coverage error, an individual may elect to be CSRS-Offset covered or FERS covered, effective as of the date of the retirement coverage error. Such election shall be made not later than 180 days after the date of receipt of such notice.
+>         This subsection applies if the retirement coverage error has not been corrected before the effective date of the regulations described under paragraph (3). As soon as practicable after discovery of the error, and subject to the right of an election under paragraph (2), if CSRS covered or CSRS-Offset covered, such individual shall be treated as CSRS-Offset covered, retroactive to the date of the retirement coverage error.
 
-    “(B) Nonelection.—If the individual does not make an election by the date provided under subparagraph (A), a CSRS-Offset covered individual shall remain CSRS-Offset covered and a CSRS covered individual shall be treated as CSRS-Offset covered.
+>         “(2) __Coverage.—__ 
 
-    “(3) Regulations.—The Office shall prescribe regulations to carry out this subsection.
+>             “(A) __Election.—__ 
 
-    “(c) Corrected Error.—
+>             Upon written notice of a retirement coverage error, an individual may elect to be CSRS-Offset covered or FERS covered, effective as of the date of the retirement coverage error. Such election shall be made not later than 180 days after the date of receipt of such notice.
 
-    “(1) Applicability.—This subsection applies if the retirement coverage error was corrected before the effective date of the regulations described under subsection (b).
+>             “(B) __Nonelection.—__ 
 
-    “(2) Coverage.—
+>             If the individual does not make an election by the date provided under subparagraph (A), a CSRS-Offset covered individual shall remain CSRS-Offset covered and a CSRS covered individual shall be treated as CSRS-Offset covered.
 
-    “(A) Election.—
+>         “(3) __Regulations.—__ 
 
-    “(i) CSRS-offset covered.—Not later than 180 days after the date of the enactment of this Act \[Sept. 19, 2000\], the Office shall prescribe regulations authorizing individuals to elect, during the 18-month period immediately following the effective date of such regulations, to be CSRS-Offset covered, effective as of the date of the retirement coverage error.
+>         The Office shall prescribe regulations to carry out this subsection.
 
-    “(ii) Thrift savings fund contributions.—If under this section an individual elects to be CSRS-Offset covered, all employee contributions to the Thrift Savings Fund made during the period of FERS coverage (and earnings on such contributions) may remain in the Thrift Savings Fund in accordance with regulations prescribed by the Executive Director, notwithstanding any limit under title 5, United States Code, that would otherwise be applicable.
+>     “(c) __Corrected Error.—__ 
 
-    “(B) Previous settlement payment.—An individual who previously received a payment ordered by a court or provided as a settlement of claim for losses resulting from a retirement coverage error shall not be entitled to make an election under this subsection unless that amount is waived in whole or in part under section 2208, and any amount not waived is repaid.
+>         “(1) __Applicability.—__ 
 
-    “(C) Ineligibility for election.—An individual who, subsequent to correction of the retirement coverage error, received a refund of retirement deductions under [section 8424 of title 5][/us/usc/t5/s8424], United States Code, or a distribution under section 8433(b), (c), or (h)(1)(A) of title 5, United States Code, may not make an election under this subsection.
+>         This subsection applies if the retirement coverage error was corrected before the effective date of the regulations described under subsection (b).
 
-    “(3) Corrective action to remain in effect.—If an individual is ineligible to make an election or does not make an election under paragraph (2) before the end of any time limitation under this subsection, the corrective action taken before such time limitation shall remain in effect.
+>         “(2) __Coverage.—__ 
 
-    “SEC. 2102. ANNUITANTS AND SURVIVORS.
+>             “(A) __Election.—__ 
 
-    “(a) In General.—This section shall apply in the case of an individual who is—
+>                 “(i) __CSRS-offset covered.—__ 
 
-    “(1) an annuitant who should have been FERS covered but, as a result of a retirement coverage error, was CSRS covered or CSRS-Offset covered instead; or
+>                 Not later than 180 days after the date of the enactment of this Act \[Sept. 19, 2000\], the Office shall prescribe regulations authorizing individuals to elect, during the 18-month period immediately following the effective date of such regulations, to be CSRS-Offset covered, effective as of the date of the retirement coverage error.
 
-    “(2) a survivor of an employee who should have been FERS covered but, as a result of a retirement coverage error, was CSRS covered or CSRS-Offset covered instead.
+>                 “(ii) __Thrift savings fund contributions.—__ 
 
-    “(b) Coverage.—
+>                 If under this section an individual elects to be CSRS-Offset covered, all employee contributions to the Thrift Savings Fund made during the period of FERS coverage (and earnings on such contributions) may remain in the Thrift Savings Fund in accordance with regulations prescribed by the Executive Director, notwithstanding any limit under title 5, United States Code, that would otherwise be applicable.
 
-    “(1) Election.—Not later than 180 days after the date of the enactment of this Act \[Sept. 19, 2000\], the Office shall prescribe regulations authorizing an individual described under subsection (a) to elect CSRS-Offset coverage or FERS coverage, effective as of the date of the retirement coverage error.
+>             “(B) __Previous settlement payment.—__ 
 
-    “(2) Time limitation.—An election under this subsection shall be made not later than 18 months after the effective date of the regulations prescribed under paragraph (1).
+>             An individual who previously received a payment ordered by a court or provided as a settlement of claim for losses resulting from a retirement coverage error shall not be entitled to make an election under this subsection unless that amount is waived in whole or in part under section 2208, and any amount not waived is repaid.
 
-    “(3) Reduced annuity.—
+>             “(C) __Ineligibility for election.—__ 
 
-    “(A) Amount in account.—If the individual elects CSRS-Offset coverage, the amount in the employee’s Thrift Savings Fund account under subchapter III of chapter 84 of title 5, United States Code, on the date of retirement that represents the Government’s contributions and earnings on those contributions (whether or not such amount was subsequently distributed from the Thrift Savings Fund) will form the basis for a reduction in the individual’s annuity, under regulations prescribed by the Office.
+>             An individual who, subsequent to correction of the retirement coverage error, received a refund of retirement deductions under [section 8424 of title 5][/us/usc/t5/s8424], United States Code, or a distribution under section 8433(b), (c), or (h)(1)(A) of title 5, United States Code, may not make an election under this subsection.
 
-    “(B) Reduction.—The reduced annuity to which the individual is entitled shall be equal to an amount which, when taken together with the amount referred to in subparagraph (A), would result in the present value of the total being actuarially equivalent to the present value of an unreduced CSRS-Offset annuity that would have been provided the individual.
+>         “(3) __Corrective action to remain in effect.—__ 
 
-    “(4) Reduced benefit.—If—
+>         If an individual is ineligible to make an election or does not make an election under paragraph (2) before the end of any time limitation under this subsection, the corrective action taken before such time limitation shall remain in effect.
 
-    “(A) a surviving spouse elects CSRS-Offset benefits; and
+> “SEC. 2102. __ANNUITANTS AND SURVIVORS.__ 
 
-    “(B) a FERS basic employee death benefit under [section 8442(b) of title 5][/us/usc/t5/s8442/b], United States Code, was previously paid,
+>     “(a) __In General.—__ 
 
-    then the survivor’s CSRS-Offset benefit shall be subject to a reduction, under regulations prescribed by the Office. The reduced annuity to which the individual is entitled shall be equal to an amount which, when taken together with the amount of the payment referred to under subparagraph (B) would result in the present value of the total being actuarially equivalent to the present value of an unreduced CSRS-Offset annuity that would have been provided the individual.
+>     This section shall apply in the case of an individual who is—
 
-    “(5) Previous settlement payment.—An individual who previously received a payment ordered by a court or provided as a settlement of claim for losses resulting from a retirement coverage error may not make an election under this subsection unless repayment of that amount is waived in whole or in part under section 2208, and any amount not waived is repaid.
+>         “(1) an annuitant who should have been FERS covered but, as a result of a retirement coverage error, was CSRS covered or CSRS-Offset covered instead; or
 
-    “(c) Nonelection.—If the individual does not make an election under subsection (b) before any time limitation under this section, the retirement coverage shall be subject to the following rules:
+>         “(2) a survivor of an employee who should have been FERS covered but, as a result of a retirement coverage error, was CSRS covered or CSRS-Offset covered instead.
 
-    “(1) Corrective action previously taken.—If corrective action was taken before the end of any time limitation under this section, that corrective action shall remain in effect.
+>     “(b) __Coverage.—__ 
 
-    “(2) Corrective action not previously taken.—If corrective action was not taken before such time limitation, the employee shall be CSRS-Offset covered, retroactive to the date of the retirement coverage error.
+>         “(1) __Election.—__ 
 
- __“chapter 2—employee who should have been fers covered, csrs-offset covered, or csrs covered, but who was erroneously social security-only covered instead__ 
+>         Not later than 180 days after the date of the enactment of this Act \[Sept. 19, 2000\], the Office shall prescribe regulations authorizing an individual described under subsection (a) to elect CSRS-Offset coverage or FERS coverage, effective as of the date of the retirement coverage error.
 
-    “SEC. 2111. APPLICABILITY.
+>         “(2) __Time limitation.—__ 
 
-    “This chapter shall apply in the case of any employee who—
+>         An election under this subsection shall be made not later than 18 months after the effective date of the regulations prescribed under paragraph (1).
 
-    “(1) should be (or should have been) FERS covered but, as a result of a retirement coverage error, is (or was) Social Security-Only covered instead;
+>         “(3) __Reduced annuity.—__ 
 
-    “(2) should be (or should have been) CSRS-Offset covered but, as a result of a retirement coverage error, is (or was) Social Security-Only covered instead; or
+>             “(A) __Amount in account.—__ 
 
-    “(3) should be (or should have been) CSRS covered but, as a result of a retirement coverage error, is (or was) Social Security-Only covered instead.
+>             If the individual elects CSRS-Offset coverage, the amount in the employee’s Thrift Savings Fund account under subchapter III of chapter 84 of title 5, United States Code, on the date of retirement that represents the Government’s contributions and earnings on those contributions (whether or not such amount was subsequently distributed from the Thrift Savings Fund) will form the basis for a reduction in the individual’s annuity, under regulations prescribed by the Office.
 
-    “SEC. 2112. CORRECTION MANDATORY.
+>             “(B) __Reduction.—__ 
 
-    “(a) Uncorrected Error.—If the retirement coverage error has not been corrected, as soon as practicable after discovery of the error, such individual shall be covered under the correct retirement coverage, effective as of the date of the retirement coverage error.
+>             The reduced annuity to which the individual is entitled shall be equal to an amount which, when taken together with the amount referred to in subparagraph (A), would result in the present value of the total being actuarially equivalent to the present value of an unreduced CSRS-Offset annuity that would have been provided the individual.
 
-    “(b) Corrected Error.—If the retirement coverage error has been corrected, the corrective action previously taken shall remain in effect.
+>         “(4) __Reduced benefit.—__ 
 
- __“chapter 3—employee who should or could have been social security-only covered but who was erroneously csrs-offset covered or csrs covered instead__ 
+>         If—
 
-    “SEC. 2121. EMPLOYEE WHO SHOULD BE SOCIAL SECURITY-ONLY COVERED, BUT WHO IS ERRONEOUSLY CSRS OR CSRS-OFFSET COVERED INSTEAD.
+>             “(A) a surviving spouse elects CSRS-Offset benefits; and
 
-    “(a) Applicability.—This section applies in the case of a retirement coverage error in which a Social Security-Only covered employee was erroneously CSRS covered or CSRS-Offset covered.
+>             “(B) a FERS basic employee death benefit under [section 8442(b) of title 5][/us/usc/t5/s8442/b], United States Code, was previously paid,
 
-    “(b) Uncorrected Error.—
+>             then the survivor’s CSRS-Offset benefit shall be subject to a reduction, under regulations prescribed by the Office. The reduced annuity to which the individual is entitled shall be equal to an amount which, when taken together with the amount of the payment referred to under subparagraph (B) would result in the present value of the total being actuarially equivalent to the present value of an unreduced CSRS-Offset annuity that would have been provided the individual.
 
-    “(1) Applicability.—This subsection applies if the retirement coverage error has not been corrected before the effective date of the regulations described in paragraph (3).
+>         “(5) __Previous settlement payment.—__ 
 
-    “(2) Coverage.—In the case of an individual who is erroneously CSRS covered, as soon as practicable after discovery of the error, and subject to the right of an election under paragraph (3), such individual shall be CSRS-Offset covered, effective as of the date of the retirement coverage error.
+>         An individual who previously received a payment ordered by a court or provided as a settlement of claim for losses resulting from a retirement coverage error may not make an election under this subsection unless repayment of that amount is waived in whole or in part under section 2208, and any amount not waived is repaid.
 
-    “(3) Election.—
+>     “(c) __Nonelection.—__ 
 
-    “(A) In general.—Upon written notice of a retirement coverage error, an individual may elect to be CSRS-Offset covered or Social Security-Only covered, effective as of the date of the retirement coverage error. Such election shall be made not later than 180 days after the date of receipt of such notice.
+>     If the individual does not make an election under subsection (b) before any time limitation under this section, the retirement coverage shall be subject to the following rules:
 
-    “(B) Nonelection.—If the individual does not make an election before the date provided under subparagraph (A), the individual shall remain CSRS-Offset covered.
+>         “(1) __Corrective action previously taken.—__ 
 
-    “(C) Regulations.—The Office shall prescribe regulations to carry out this paragraph.
+>         If corrective action was taken before the end of any time limitation under this section, that corrective action shall remain in effect.
 
-    “(c) Corrected Error.—
+>         “(2) __Corrective action not previously taken.—__ 
 
-    “(1) Applicability.—This subsection applies if the retirement coverage error was corrected before the effective date of the regulations described under subsection (b)(3).
+>         If corrective action was not taken before such time limitation, the employee shall be CSRS-Offset covered, retroactive to the date of the retirement coverage error.
 
-    “(2) Election.—Not later than 180 days after the date of the enactment of this Act \[Sept. 19, 2000\], the Office shall prescribe regulations authorizing individuals to elect, during the 18-month period immediately following the effective date of such regulations, to be CSRS-Offset covered or Social Security-Only covered, effective as of the date of the retirement coverage error.
+> “chapter 2— __employee who should have been fers covered, csrs-offset covered, or csrs covered, but who was erroneously social security-only covered instead__ 
 
-    “(3) Nonelection.—If an eligible individual does not make an election under paragraph (2) before the end of any time limitation under this subsection, the corrective action taken before such time limitation shall remain in effect.
+> “SEC. 2111. __APPLICABILITY.__ 
 
- __“chapter 4—employee who was erroneously fers covered__ 
+> “This chapter shall apply in the case of any employee who—
 
-    “SEC. 2131. EMPLOYEE WHO SHOULD BE SOCIAL SECURITY-ONLY COVERED, CSRS COVERED, OR CSRS-OFFSET COVERED AND IS NOT FERS-ELIGIBLE, BUT WHO IS ERRONEOUSLY FERS COVERED INSTEAD.
+>     “(1) should be (or should have been) FERS covered but, as a result of a retirement coverage error, is (or was) Social Security-Only covered instead;
 
-    “(a) Applicability.—This section applies in the case of a retirement coverage error in which a Social Security-Only covered, CSRS covered, or CSRS-Offset covered employee not eligible to elect FERS coverage under authority of [section 8402(c) of title 5][/us/usc/t5/s8402/c], United States Code, was erroneously FERS covered.
+>     “(2) should be (or should have been) CSRS-Offset covered but, as a result of a retirement coverage error, is (or was) Social Security-Only covered instead; or
 
-    “(b) Uncorrected Error.—
+>     “(3) should be (or should have been) CSRS covered but, as a result of a retirement coverage error, is (or was) Social Security-Only covered instead.
 
-    “(1) Applicability.—This subsection applies if the retirement coverage error has not been corrected before the effective date of the regulations described in paragraph (2).
+> “SEC. 2112. __CORRECTION MANDATORY.__ 
 
-    “(2) Coverage.—
+>     “(a) __Uncorrected Error.—__ 
 
-    “(A) Election.—
+>     If the retirement coverage error has not been corrected, as soon as practicable after discovery of the error, such individual shall be covered under the correct retirement coverage, effective as of the date of the retirement coverage error.
 
-    “(i) In general.—Upon written notice of a retirement coverage error, an individual may elect to remain FERS covered or to be Social Security-Only covered, CSRS covered, or CSRS-Offset covered, as would have applied in the absence of the erroneous retirement coverage determination, effective as of the date of the retirement coverage error. Such election shall be made not later than 180 days after the date of receipt of such notice.
+>     “(b) __Corrected Error.—__ 
 
-    “(ii) Treatment of fers election.—An election of FERS coverage under this subsection is deemed to be an election under section 301 of the Federal Employees Retirement System Act of 1986 ([5 U.S.C. 8331][/us/usc/t5/s8331] note; [Public Law 99–335][/us/pl/99/335]; [100 Stat. 599][/us/stat/100/599]).
+>     If the retirement coverage error has been corrected, the corrective action previously taken shall remain in effect.
 
-    “(B) Nonelection.—If the individual does not make an election before the date provided under subparagraph (A), the individual shall remain FERS covered, effective as of the date of the retirement coverage error.
+> “chapter 3— __employee who should or could have been social security-only covered but who was erroneously csrs-offset covered or csrs covered instead__ 
 
-    “(3) Employee contributions in thrift savings fund.—If under this section, an individual elects to be Social Security-Only covered, CSRS covered, or CSRS-Offset covered, all employee contributions to the Thrift Savings Fund made during the period of erroneous FERS coverage (and all earnings on such contributions) may remain in the Thrift Savings Fund in accordance with regulations prescribed by the Executive Director, notwithstanding any limit under section 8351 or 8432 of title 5, United States Code.
+> “SEC. 2121. __EMPLOYEE WHO SHOULD BE SOCIAL SECURITY-ONLY COVERED, BUT WHO IS ERRONEOUSLY CSRS OR CSRS-OFFSET COVERED INSTEAD.__ 
 
-    “(4) Regulations.—Except as provided under paragraph (3), the Office shall prescribe regulations to carry out this subsection.
+>     “(a) __Applicability.—__ 
 
-    “(c) Corrected Error.—
+>     This section applies in the case of a retirement coverage error in which a Social Security-Only covered employee was erroneously CSRS covered or CSRS-Offset covered.
 
-    “(1) Applicability.—This subsection applies if the retirement coverage error was corrected before the effective date of the regulations described under paragraph (2).
+>     “(b) __Uncorrected Error.—__ 
 
-    “(2) Election.—Not later than 180 days after the date of the enactment of this Act \[Sept. 19, 2000\], the Office shall prescribe regulations authorizing individuals to elect, during the 18-month period immediately following the effective date of such regulations to remain Social Security-Only covered, CSRS covered, or CSRS-Offset covered, or to be FERS covered, effective as of the date of the retirement coverage error.
+>         “(1) __Applicability.—__ 
 
-    “(3) Nonelection.—If an eligible individual does not make an election under paragraph (2), the corrective action taken before the end of any time limitation under this subsection shall remain in effect.
+>         This subsection applies if the retirement coverage error has not been corrected before the effective date of the regulations described in paragraph (3).
 
-    “(4) Treatment of fers election.—An election of FERS coverage under this subsection is deemed to be an election under section 301 of the Federal Employees Retirement System Act of 1986 ([5 U.S.C. 8331][/us/usc/t5/s8331] note; [Public Law 99–335][/us/pl/99/335]; [100 Stat. 599][/us/stat/100/599]).
+>         “(2) __Coverage.—__ 
 
-    “SEC. 2132. FERS-ELIGIBLE EMPLOYEE WHO SHOULD HAVE BEEN CSRS COVERED, CSRS-OFFSET COVERED, OR SOCIAL SECURITY-ONLY COVERED, BUT WHO WAS ERRONEOUSLY FERS COVERED INSTEAD WITHOUT AN ELECTION.
+>         In the case of an individual who is erroneously CSRS covered, as soon as practicable after discovery of the error, and subject to the right of an election under paragraph (3), such individual shall be CSRS-Offset covered, effective as of the date of the retirement coverage error.
 
-    “(a) In General.—
+>         “(3) __Election.—__ 
 
-    “(1) FERS election prevented.—If an individual was prevented from electing FERS coverage because the individual was erroneously FERS covered during the period when the individual was eligible to elect FERS under title III of the Federal Employees Retirement System Act \[[Pub. L. 99–335][/us/pl/99/335]\] or the Federal Employees’ Retirement System Open Enrollment Act of 1997 ([Public Law 105–61][/us/pl/105/61]; [111 Stat. 1318][/us/stat/111/1318] et seq.) \[[5 U.S.C. 8331][/us/usc/t5/s8331] notes\], the individual—
+>             “(A) __In general.—__ 
 
-    “(A) is deemed to have elected FERS coverage; and
+>             Upon written notice of a retirement coverage error, an individual may elect to be CSRS-Offset covered or Social Security-Only covered, effective as of the date of the retirement coverage error. Such election shall be made not later than 180 days after the date of receipt of such notice.
 
-    “(B) shall remain covered by FERS, unless the individual declines, under regulations prescribed by the Office, to be FERS covered.
+>             “(B) __Nonelection.—__ 
 
-    “(2) Declining fers coverage.—If an individual described under paragraph (1)(B) declines to be FERS covered, such individual shall be CSRS covered, CSRS-Offset covered, or Social Security-Only covered, as would apply in the absence of a FERS election, effective as of the date of the erroneous retirement coverage determination.
+>             If the individual does not make an election before the date provided under subparagraph (A), the individual shall remain CSRS-Offset covered.
 
-    “(b) Employee Contributions in Thrift Savings Fund.—If under this section, an individual declines to be FERS covered and instead is Social Security-Only covered, CSRS covered, or CSRS-Offset covered, as would apply in the absence of a FERS election, all employee contributions to the Thrift Savings Fund made during the period of erroneous FERS coverage (and all earnings on such contributions) may remain in the Thrift Savings Fund in accordance with regulations prescribed by the Executive Director, notwithstanding any limit under title 5, United States Code, that would otherwise be applicable.
+>             “(C) __Regulations.—__ 
 
-    “(c) Inapplicability of Duration of Erroneous Coverage.—This section shall apply regardless of the length of time the erroneous coverage determination remained in effect.
+>             The Office shall prescribe regulations to carry out this paragraph.
 
-    “SEC. 2133. RETROACTIVE EFFECT.
+>     “(c) __Corrected Error.—__ 
 
-    “This chapter shall be effective as of January 1, 1987, except that section 2132 shall not apply to individuals who made or were deemed to have made elections similar to those provided in this section under regulations prescribed by the Office before the effective date of this title.
+>         “(1) __Applicability.—__ 
 
- __“chapter 5—employee who should have been csrs-offset covered, but who was erroneously csrs covered instead__ 
+>         This subsection applies if the retirement coverage error was corrected before the effective date of the regulations described under subsection (b)(3).
 
-    “SEC. 2141. APPLICABILITY.
+>         “(2) __Election.—__ 
 
-    “This chapter shall apply in the case of any employee who should be (or should have been) CSRS-Offset covered but, as a result of a retirement coverage error, is (or was) CSRS covered instead.
+>         Not later than 180 days after the date of the enactment of this Act \[Sept. 19, 2000\], the Office shall prescribe regulations authorizing individuals to elect, during the 18-month period immediately following the effective date of such regulations, to be CSRS-Offset covered or Social Security-Only covered, effective as of the date of the retirement coverage error.
 
-    “SEC. 2142. CORRECTION MANDATORY.
+>         “(3) __Nonelection.—__ 
 
-    “(a) Uncorrected Error.—If the retirement coverage error has not been corrected, as soon as practicable after discovery of the error, such individual shall be covered under the correct retirement coverage, effective as of the date of the retirement coverage error.
+>         If an eligible individual does not make an election under paragraph (2) before the end of any time limitation under this subsection, the corrective action taken before such time limitation shall remain in effect.
 
-    “(b) Corrected Error.—If the retirement coverage error has been corrected before the effective date of this title, the corrective action taken before such date shall remain in effect.
+> “chapter 4— __employee who was erroneously fers covered__ 
 
- __“chapter 6—employee who should have been csrs covered, but who was erroneously csrs-offset covered instead__ 
+> “SEC. 2131. __EMPLOYEE WHO SHOULD BE SOCIAL SECURITY-ONLY COVERED, CSRS COVERED, OR CSRS-OFFSET COVERED AND IS NOT FERS-ELIGIBLE, BUT WHO IS ERRONEOUSLY FERS COVERED INSTEAD.__ 
 
-    “SEC. 2151. APPLICABILITY.
+>     “(a) __Applicability.—__ 
 
-    “This chapter shall apply in the case of any employee who should be (or should have been) CSRS covered but, as a result of a retirement coverage error, is (or was) CSRS-Offset covered instead.
+>     This section applies in the case of a retirement coverage error in which a Social Security-Only covered, CSRS covered, or CSRS-Offset covered employee not eligible to elect FERS coverage under authority of [section 8402(c) of title 5][/us/usc/t5/s8402/c], United States Code, was erroneously FERS covered.
 
-    “SEC. 2152. CORRECTION MANDATORY.
+>     “(b) __Uncorrected Error.—__ 
 
-    “(a) Uncorrected Error.—If the retirement coverage error has not been corrected, as soon as practicable after discovery of the error, such individual shall be covered under the correct retirement coverage, effective as of the date of the retirement coverage error.
+>         “(1) __Applicability.—__ 
 
-    “(b) Corrected Error.—If the retirement coverage error has been corrected before the effective date of this title, the corrective action taken before such date shall remain in effect.
+>         This subsection applies if the retirement coverage error has not been corrected before the effective date of the regulations described in paragraph (2).
 
- __“Subtitle B—General Provisions__ 
+>         “(2) __Coverage.—__ 
 
-    “SEC. 2201. IDENTIFICATION AND NOTIFICATION REQUIREMENTS.
+>             “(A) __Election.—__ 
 
-    “Government agencies shall take all such measures as may be reasonable and appropriate to promptly identify and notify individuals who are (or have been) affected by a retirement coverage error of their rights under this title.
+>                 “(i) __In general.—__ 
 
-    “SEC. 2202. INFORMATION TO BE FURNISHED TO AND BY AUTHORITIES ADMINISTERING THIS TITLE.
+>                 Upon written notice of a retirement coverage error, an individual may elect to remain FERS covered or to be Social Security-Only covered, CSRS covered, or CSRS-Offset covered, as would have applied in the absence of the erroneous retirement coverage determination, effective as of the date of the retirement coverage error. Such election shall be made not later than 180 days after the date of receipt of such notice.
 
-    “(a) Applicability.—The authorities identified in this subsection are—
+>                 “(ii) __Treatment of fers election.—__ 
 
-    “(1) the Director of the Office of Personnel Management;
+>                 An election of FERS coverage under this subsection is deemed to be an election under section 301 of the Federal Employees Retirement System Act of 1986 ([5 U.S.C. 8331][/us/usc/t5/s8331] note; [Public Law 99–335][/us/pl/99/335]; [100 Stat. 599][/us/stat/100/599]).
 
-    “(2) the Commissioner of Social Security; and
+>             “(B) __Nonelection.—__ 
 
-    “(3) the Executive Director of the Federal Retirement Thrift Investment Board.
+>             If the individual does not make an election before the date provided under subparagraph (A), the individual shall remain FERS covered, effective as of the date of the retirement coverage error.
 
-    “(b) Authority To Obtain Information.—Each authority identified in subsection (a) may secure directly from any department or agency of the United States information necessary to enable such authority to carry out its responsibilities under this title. Upon request of the authority involved, the head of the department or agency involved shall furnish that information to the requesting authority.
+>         “(3) __Employee contributions in thrift savings fund.—__ 
 
-    “(c) Authority To Provide Information.—Each authority identified in subsection (a) may provide directly to any department or agency of the United States all information such authority believes necessary to enable the department or agency to carry out its responsibilities under this title.
+>         If under this section, an individual elects to be Social Security-Only covered, CSRS covered, or CSRS-Offset covered, all employee contributions to the Thrift Savings Fund made during the period of erroneous FERS coverage (and all earnings on such contributions) may remain in the Thrift Savings Fund in accordance with regulations prescribed by the Executive Director, notwithstanding any limit under section 8351 or 8432 of title 5, United States Code.
 
-    “(d) Limitation; Safeguards.—Each of the respective authorities under subsection (a) shall—
+>         “(4) __Regulations.—__ 
 
-    “(1) request or provide only such information as that authority considers necessary; and
+>         Except as provided under paragraph (3), the Office shall prescribe regulations to carry out this subsection.
 
-    “(2) establish, by regulation or otherwise, appropriate safeguards to ensure that any information obtained under this section shall be used only for the purpose authorized.
+>     “(c) __Corrected Error.—__ 
 
-    “SEC. 2203. SERVICE CREDIT DEPOSITS.
+>         “(1) __Applicability.—__ 
 
-    “(a) CSRS Deposit.—In the case of a retirement coverage error in which—
+>         This subsection applies if the retirement coverage error was corrected before the effective date of the regulations described under paragraph (2).
 
-    “(1) a FERS covered employee was erroneously CSRS covered or CSRS-Offset covered;
+>         “(2) __Election.—__ 
 
-    “(2) the employee made a service credit deposit under the CSRS rules; and
+>         Not later than 180 days after the date of the enactment of this Act \[Sept. 19, 2000\], the Office shall prescribe regulations authorizing individuals to elect, during the 18-month period immediately following the effective date of such regulations to remain Social Security-Only covered, CSRS covered, or CSRS-Offset covered, or to be FERS covered, effective as of the date of the retirement coverage error.
 
-    “(3) there is a subsequent retroactive change to FERS coverage,
+>         “(3) __Nonelection.—__ 
 
-    the excess of the amount of the CSRS civilian or military service credit deposit over the FERS civilian or military service credit deposit, together with interest computed in accordance with paragraphs (2) and (3) of [section 8334(e) of title 5][/us/usc/t5/s8334/e], United States Code, and regulations prescribed by the Office, shall be paid to the employee, the annuitant or, in the case of a deceased employee, to the individual entitled to lump-sum benefits under [section 8424(d) of title 5][/us/usc/t5/s8424/d], United States Code.
+>         If an eligible individual does not make an election under paragraph (2), the corrective action taken before the end of any time limitation under this subsection shall remain in effect.
 
-    “(b) FERS Deposit.—
+>         “(4) __Treatment of fers election.—__ 
 
-    “(1) Applicability.—This subsection applies in the case of an erroneous retirement coverage determination in which—
+>         An election of FERS coverage under this subsection is deemed to be an election under section 301 of the Federal Employees Retirement System Act of 1986 ([5 U.S.C. 8331][/us/usc/t5/s8331] note; [Public Law 99–335][/us/pl/99/335]; [100 Stat. 599][/us/stat/100/599]).
 
-    “(A) the employee owed a service credit deposit under [section 8411(f) of title 5][/us/usc/t5/s8411/f], United States Code; and
+> “SEC. 2132. __FERS-ELIGIBLE EMPLOYEE WHO SHOULD HAVE BEEN CSRS COVERED, CSRS-OFFSET COVERED, OR SOCIAL SECURITY-ONLY COVERED, BUT WHO WAS ERRONEOUSLY FERS COVERED INSTEAD WITHOUT AN ELECTION.__ 
 
-    “(B)(i) there is a subsequent retroactive change to CSRS or CSRS-Offset coverage; or
+>     “(a) __In General.—__ 
 
-    “(ii) the service becomes creditable under chapter 83 of title 5, United States Code.
+>         “(1) __FERS election prevented.—__ 
 
-    “(2) Reduced annuity.—
+>         If an individual was prevented from electing FERS coverage because the individual was erroneously FERS covered during the period when the individual was eligible to elect FERS under title III of the Federal Employees Retirement System Act \[[Pub. L. 99–335][/us/pl/99/335]\] or the Federal Employees’ Retirement System Open Enrollment Act of 1997 ([Public Law 105–61][/us/pl/105/61]; [111 Stat. 1318][/us/stat/111/1318] et seq.) \[[5 U.S.C. 8331][/us/usc/t5/s8331] notes\], the individual—
 
-    “(A) In general.—If at the time of commencement of an annuity there is remaining unpaid CSRS civilian or military service credit deposit for service described under paragraph (1), the annuity shall be reduced based upon the amount unpaid together with interest computed in accordance with section 8334(e)(2) and (3) of title 5, United States Code, and regulations prescribed by the Office.
+>             “(A) is deemed to have elected FERS coverage; and
 
-    “(B) Amount.—The reduced annuity to which the individual is entitled shall be equal to an amount that, when taken together with the amount referred to under subparagraph (A), would result in the present value of the total being actuarially equivalent to the present value of the unreduced annuity benefit that would have been provided the individual.
+>             “(B) shall remain covered by FERS, unless the individual declines, under regulations prescribed by the Office, to be FERS covered.
 
-    “(3) Survivor annuity.—
+>         “(2) __Declining fers coverage.—__ 
 
-    “(A) In general.—If at the time of commencement of a survivor annuity, there is remaining unpaid any CSRS service credit deposit described under paragraph (1), and there has been no actuarial reduction in an annuity under paragraph (2), the survivor annuity shall be reduced based upon the amount unpaid together with interest computed in accordance with section 8334(e)(2) and (3) of title 5, United States Code, and regulations prescribed by the Office.
+>         If an individual described under paragraph (1)(B) declines to be FERS covered, such individual shall be CSRS covered, CSRS-Offset covered, or Social Security-Only covered, as would apply in the absence of a FERS election, effective as of the date of the erroneous retirement coverage determination.
 
-    “(B) Amount.—The reduced survivor annuity to which the individual is entitled shall be equal to an amount that, when taken together with the amount referred to under subparagraph (A), would result in the present value of the total being actuarially equivalent to the present value of an unreduced survivor annuity benefit that would have been provided the individual.
+>     “(b) __Employee Contributions in Thrift Savings Fund.—__ 
 
-    “SEC. 2204. PROVISIONS RELATED TO SOCIAL SECURITY COVERAGE OF MISCLASSIFIED EMPLOYEES.
+>     If under this section, an individual declines to be FERS covered and instead is Social Security-Only covered, CSRS covered, or CSRS-Offset covered, as would apply in the absence of a FERS election, all employee contributions to the Thrift Savings Fund made during the period of erroneous FERS coverage (and all earnings on such contributions) may remain in the Thrift Savings Fund in accordance with regulations prescribed by the Executive Director, notwithstanding any limit under title 5, United States Code, that would otherwise be applicable.
 
-    “(a) Definitions.—In this section, the term—
+>     “(c) __Inapplicability of Duration of Erroneous Coverage.—__ 
 
-    “(1) ‘covered individual’ means any employee, former employee, or annuitant who—
+>     This section shall apply regardless of the length of time the erroneous coverage determination remained in effect.
 
-    “(A) is or was employed erroneously subject to CSRS coverage as a result of a retirement coverage error; and
+> “SEC. 2133. __RETROACTIVE EFFECT.__ 
 
-    “(B) is or was retroactively converted to CSRS-offset coverage, FERS coverage, or Social Security-Only coverage; and
+>     “This chapter shall be effective as of January 1, 1987, except that section 2132 shall not apply to individuals who made or were deemed to have made elections similar to those provided in this section under regulations prescribed by the Office before the effective date of this title.
 
-    “(2) ‘excess CSRS deduction amount’ means an amount equal to the difference between the CSRS deductions withheld and the CSRS-Offset or FERS deductions, if any, due with respect to a covered individual during the entire period the individual was erroneously subject to CSRS coverage as a result of a retirement coverage error.
+> “chapter 5— __employee who should have been csrs-offset covered, but who was erroneously csrs covered instead__ 
 
-    “(b) Reports to Commissioner of Social Security.—
+> “SEC. 2141. __APPLICABILITY.__ 
 
-    “(1) In general.—In order to carry out the Commissioner of Social Security’s responsibilities under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\], the Commissioner may request the head of each agency that employs or employed a covered individual to report (in coordination with the Office of Personnel Management) in such form and within such timeframe as the Commissioner may specify, any or all of—
+>     “This chapter shall apply in the case of any employee who should be (or should have been) CSRS-Offset covered but, as a result of a retirement coverage error, is (or was) CSRS covered instead.
 
-    “(A) the total wages (as defined in section 3121(a) of the Internal Revenue Code of 1986 \[[26 U.S.C. 3121(a)][/us/usc/t26/s3121/a]\]) paid to such individual during each year of the entire period of the erroneous CSRS coverage; and
+> “SEC. 2142. __CORRECTION MANDATORY.__ 
 
-    “(B) such additional information as the Commissioner may require for the purpose of carrying out the Commissioner’s responsibilities under title II of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401] et seq.).
+>     “(a) __Uncorrected Error.—__ 
 
-    “(2) Compliance.—The head of an agency or the Office shall comply with a request from the Commissioner under paragraph (1).
+>     If the retirement coverage error has not been corrected, as soon as practicable after discovery of the error, such individual shall be covered under the correct retirement coverage, effective as of the date of the retirement coverage error.
 
-    “(3) Wages.—For purposes of section 201 of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401]), wages reported under this subsection shall be deemed to be wages reported to the Secretary of the Treasury or the Secretary’s delegates pursuant to subtitle F of the Internal Revenue Code of 1986 \[[26 U.S.C. 6001][/us/usc/t26/s6001] et seq.\].
+>     “(b) __Corrected Error.—__ 
 
-    “(c) Payment Relating to OASDI Employee Taxes.—The Office shall transfer from the Civil Service Retirement and Disability Fund to the General Fund of the Treasury an amount equal to the lesser of the excess CSRS deduction amount or the OASDI taxes due for covered individuals (as adjusted by amounts transferred relating to applicable OASDI employee taxes as a result of corrections made, including corrections made before the date of the enactment of this Act \[Sept. 19, 2000\]). If the excess CSRS deductions exceed the OASDI taxes, any difference shall be paid to the covered individual or survivors, as appropriate.
+>     If the retirement coverage error has been corrected before the effective date of this title, the corrective action taken before such date shall remain in effect.
 
-    “(d) Payment of OASDI Employer Taxes.—
+> “chapter 6— __employee who should have been csrs covered, but who was erroneously csrs-offset covered instead__ 
 
-    “(1) In general.—Each employing agency shall pay an amount equal to the OASDI employer taxes owed with respect to covered individuals during the applicable period of erroneous coverage (as adjusted by amounts transferred for the payment of such taxes as a result of corrections made, including corrections made before the date of the enactment of this Act \[Sept. 19, 2000\]).
+> “SEC. 2151. __APPLICABILITY.__ 
 
-    “(2) Payment.—Amounts paid under this subsection shall be determined subject to any limitation under section 6501 of the Internal Revenue Code of 1986 \[[26 U.S.C. 6501][/us/usc/t26/s6501]\].
+>     “This chapter shall apply in the case of any employee who should be (or should have been) CSRS covered but, as a result of a retirement coverage error, is (or was) CSRS-Offset covered instead.
 
-    “SEC. 2205. THRIFT SAVINGS PLAN TREATMENT FOR CERTAIN INDIVIDUALS.
+> “SEC. 2152. __CORRECTION MANDATORY.__ 
 
-    “(a) Applicability.—This section applies to an individual who—
+>     “(a) __Uncorrected Error.—__ 
 
-    “(1) is eligible to make an election of coverage under section 2101 or 2102, and only if FERS coverage is elected (or remains in effect) for the employee involved; or
+>     If the retirement coverage error has not been corrected, as soon as practicable after discovery of the error, such individual shall be covered under the correct retirement coverage, effective as of the date of the retirement coverage error.
 
-    “(2) is described in section 2111, and makes or has made retroactive employee contributions to the Thrift Savings Fund under regulations prescribed by the Executive Director.
+>     “(b) __Corrected Error.—__ 
 
-    “(b) Payment Into Thrift Savings Fund.—
+>     If the retirement coverage error has been corrected before the effective date of this title, the corrective action taken before such date shall remain in effect.
 
-    “(1) In general.—
+> “Subtitle B— __General Provisions__ 
 
-    “(A) Payment.—With respect to an individual to whom this section applies, the employing agency shall pay to the Thrift Savings Fund under subchapter III of chapter 84 of title 5, United States Code, for credit to the account of the employee involved, an amount equal to the earnings which are disallowed under section 8432a(a)(2) of such title on the employee’s retroactive contributions to such Fund.
+> “SEC. 2201. __IDENTIFICATION AND NOTIFICATION REQUIREMENTS.__ 
 
-    “(B) Amount.—Earnings under subparagraph (A) shall be computed in accordance with the procedures for computing lost earnings under [section 8432a of title 5][/us/usc/t5/s8432a], United States Code. The amount paid by the employing agency shall be treated for all purposes as if that amount had actually been earned on the basis of the employee’s contributions.
+>     “Government agencies shall take all such measures as may be reasonable and appropriate to promptly identify and notify individuals who are (or have been) affected by a retirement coverage error of their rights under this title.
 
-    “(C) Exceptions.—If an individual made retroactive contributions before the effective date of the regulations under section 2101(c), the Director may provide for an alternative calculation of lost earnings to the extent that a calculation under subparagraph (B) is not administratively feasible. The alternative calculation shall yield an amount that is as close as practicable to the amount computed under subparagraph (B), taking into account earnings previously paid.
+> “SEC. 2202. __INFORMATION TO BE FURNISHED TO AND BY AUTHORITIES ADMINISTERING THIS TITLE.__ 
 
-    “(2) Additional employee contribution.—In cases in which the retirement coverage error was corrected before the effective date of the regulations under section 2101(c), the employee involved shall have an additional opportunity to make retroactive contributions for the period of the retirement coverage error (subject to applicable limits), and such contributions (including any contributions made after the date of the correction) shall be treated in accordance with paragraph (1).
+>     “(a) __Applicability.—__ 
 
-    “(c) Regulations.—
+>     The authorities identified in this subsection are—
 
-    “(1) Executive director.—The Executive Director shall prescribe regulations appropriate to carry out this section relating to retroactive employee contributions and payments made on or after the effective date of the regulations under section 2101(c).
+>         “(1) the Director of the Office of Personnel Management;
 
-    “(2) Office.—The Office, in consultation with the Federal Retirement Thrift Investment Board, shall prescribe regulations appropriate to carry out this section relating to the calculation of lost earnings on retroactive employee contributions made before the effective date of the regulations under section 2101(c).
+>         “(2) the Commissioner of Social Security; and
 
-    “SEC. 2206. CERTAIN AGENCY AMOUNTS TO BE PAID INTO OR REMAIN IN THE CSRDF.
+>         “(3) the Executive Director of the Federal Retirement Thrift Investment Board.
 
-    “(a) Certain Excess Agency Contributions To Remain in the CSRDF.—
+>     “(b) __Authority To Obtain Information.—__ 
 
-    “(1) In general.—Any amount described under paragraph (2) shall—
+>     Each authority identified in subsection (a) may secure directly from any department or agency of the United States information necessary to enable such authority to carry out its responsibilities under this title. Upon request of the authority involved, the head of the department or agency involved shall furnish that information to the requesting authority.
 
-    “(A) remain in the CSRDF; and
+>     “(c) __Authority To Provide Information.—__ 
 
-    “(B) may not be paid or credited to an agency.
+>     Each authority identified in subsection (a) may provide directly to any department or agency of the United States all information such authority believes necessary to enable the department or agency to carry out its responsibilities under this title.
 
-    “(2) Amounts.—Paragraph (1) refers to any amount of contributions made by an agency under [section 8423 of title 5][/us/usc/t5/s8423], United States Code, on behalf of any employee, former employee, or annuitant (or survivor of such employee, former employee, or annuitant) who makes an election to correct a retirement coverage error under this title, that the Office determines to be excess as a result of such election.
+>     “(d) __Limitation; Safeguards.—__ 
 
-    “(b) Additional Employee Retirement Deductions To Be Paid by Agency.—If a correction in a retirement coverage error results in an increase in employee deductions under section 8334 or 8422 of title 5, United States Code, that cannot be fully paid by a reallocation of otherwise available amounts previously deducted from the employee’s pay as employment taxes or retirement deductions, the employing agency—
+>     Each of the respective authorities under subsection (a) shall—
 
-    “(1) shall pay the required additional amount into the CSRDF; and
+>         “(1) request or provide only such information as that authority considers necessary; and
 
-    “(2) shall not seek repayment of that amount from the employee, former employee, annuitant, or survivor.
+>         “(2) establish, by regulation or otherwise, appropriate safeguards to ensure that any information obtained under this section shall be used only for the purpose authorized.
 
-    “SEC. 2207. CSRS COVERAGE DETERMINATIONS TO BE APPROVED BY OPM.
+> “SEC. 2203. __SERVICE CREDIT DEPOSITS.__ 
 
-    “No agency shall place an individual under CSRS coverage unless—
+>     “(a) __CSRS Deposit.—__ 
 
-    “(1) the individual has been employed with CSRS coverage within the preceding 365 days; or
+>     In the case of a retirement coverage error in which—
 
-    “(2) the Office has agreed in writing that the agency’s coverage determination is correct.
+>         “(1) a FERS covered employee was erroneously CSRS covered or CSRS-Offset covered;
 
-    “SEC. 2208. DISCRETIONARY ACTIONS BY DIRECTOR.
+>         “(2) the employee made a service credit deposit under the CSRS rules; and
 
-    “(a) In General.—The Director of the Office of Personnel Management may—
+>         “(3) there is a subsequent retroactive change to FERS coverage,
 
-    “(1) extend the deadlines for making elections under this title in circumstances involving an individual’s inability to make a timely election due to a cause beyond the individual’s control;
+>         the excess of the amount of the CSRS civilian or military service credit deposit over the FERS civilian or military service credit deposit, together with interest computed in accordance with paragraphs (2) and (3) of [section 8334(e) of title 5][/us/usc/t5/s8334/e], United States Code, and regulations prescribed by the Office, shall be paid to the employee, the annuitant or, in the case of a deceased employee, to the individual entitled to lump-sum benefits under [section 8424(d) of title 5][/us/usc/t5/s8424/d], United States Code.
 
-    “(2) provide for the reimbursement of necessary and reasonable expenses incurred by an individual with respect to settlement of a claim for losses resulting from a retirement coverage error, including attorney’s fees, court costs, and other actual expenses;
+>     “(b) __FERS Deposit.—__ 
 
-    “(3) compensate an individual for monetary losses that are a direct and proximate result of a retirement coverage error, excluding claimed losses relating to forgone contributions and earnings under the Thrift Savings Plan under subchapter III of chapter 84 of title 5, United States Code, and all other investment opportunities; and
+>         “(1) __Applicability.—__ 
 
-    “(4) waive payments required due to correction of a retirement coverage error under this title.
+>         This subsection applies in the case of an erroneous retirement coverage determination in which—
 
-    “(b) Similar Actions.—In exercising the authority under this section, the Director shall, to the extent practicable, provide for similar actions in situations involving similar circumstances.
+>             “(A) the employee owed a service credit deposit under [section 8411(f) of title 5][/us/usc/t5/s8411/f], United States Code; and
 
-    “(c) Judicial Review.—Actions taken under this section are final and conclusive, and are not subject to administrative or judicial review.
+>             “(B)
 
-    “(d) Regulations.—The Office of Personnel Management shall prescribe regulations regarding the process and criteria used in exercising the authority under this section.
+>                 (i) there is a subsequent retroactive change to CSRS or CSRS-Offset coverage; or
 
-    “(e) Report.—The Office of Personnel Management shall, not later than 180 days after the date of the enactment of this Act \[Sept. 19, 2000\], and annually thereafter for each year in which the authority provided in this section is used, submit a report to each House of Congress on the operation of this section.
+>                 “(ii) the service becomes creditable under chapter 83 of title 5, United States Code.
 
-    “SEC. 2209. REGULATIONS.
+>         “(2) __Reduced annuity.—__ 
 
-    “(a) In General.—In addition to the regulations specifically authorized in this title, the Office may prescribe such other regulations as are necessary for the administration of this title.
+>             “(A) __In general.—__ 
 
-    “(b) Former Spouse.—The regulations prescribed under this title shall provide for protection of the rights of a former spouse with entitlement to an apportionment of benefits or to survivor benefits based on the service of the employee.
+>             If at the time of commencement of an annuity there is remaining unpaid CSRS civilian or military service credit deposit for service described under paragraph (1), the annuity shall be reduced based upon the amount unpaid together with interest computed in accordance with section 8334(e)(2) and (3) of title 5, United States Code, and regulations prescribed by the Office.
 
- __“Subtitle C—Other Provisions__ 
+>             “(B) __Amount.—__ 
 
-    “SEC. 2301. PROVISIONS TO AUTHORIZE CONTINUED CONFORMITY OF OTHER FEDERAL RETIREMENT SYSTEMS.
+>             The reduced annuity to which the individual is entitled shall be equal to an amount that, when taken together with the amount referred to under subparagraph (A), would result in the present value of the total being actuarially equivalent to the present value of the unreduced annuity benefit that would have been provided the individual.
 
-    “(a) Foreign Service.—Sections 827 and 851 of the Foreign Service Act of 1980 ([22 U.S.C. 4067][/us/usc/t22/s4067] and 4071) shall apply with respect to this title in the same manner as if this title were part of—
+>         “(3) __Survivor annuity.—__ 
 
-    “(1) the Civil Service Retirement System, to the extent this title relates to the Civil Service Retirement System; and
+>             “(A) __In general.—__ 
 
-    “(2) the Federal Employees’ Retirement System, to the extent this title relates to the Federal Employees’ Retirement System.
+>             If at the time of commencement of a survivor annuity, there is remaining unpaid any CSRS service credit deposit described under paragraph (1), and there has been no actuarial reduction in an annuity under paragraph (2), the survivor annuity shall be reduced based upon the amount unpaid together with interest computed in accordance with section 8334(e)(2) and (3) of title 5, United States Code, and regulations prescribed by the Office.
 
-    “(b) Central Intelligence Agency.—Sections 292 and 301 of the Central Intelligence Agency Retirement Act ([50 U.S.C. 2141][/us/usc/t50/s2141] and 2151) shall apply with respect to this title in the same manner as if this title were part of—
+>             “(B) __Amount.—__ 
 
-    “(1) the Civil Service Retirement System, to the extent this title relates to the Civil Service Retirement System; and
+>             The reduced survivor annuity to which the individual is entitled shall be equal to an amount that, when taken together with the amount referred to under subparagraph (A), would result in the present value of the total being actuarially equivalent to the present value of an unreduced survivor annuity benefit that would have been provided the individual.
 
-    “(2) the Federal Employees’ Retirement System, to the extent this title relates to the Federal Employees’ Retirement System.
+> “SEC. 2204. __PROVISIONS RELATED TO SOCIAL SECURITY COVERAGE OF MISCLASSIFIED EMPLOYEES.__ 
 
-    “SEC. 2302. AUTHORIZATION OF PAYMENTS.
+>     “(a) __Definitions.—__ 
 
-    “All payments authorized or required by this title to be paid from the Civil Service Retirement and Disability Fund, together with administrative expenses incurred by the Office in administering this title, shall be deemed to have been authorized to be paid from that Fund, which is appropriated for the payment thereof.
+>     In this section, the term—
 
-    “SEC. 2303. INDIVIDUAL RIGHT OF ACTION PRESERVED FOR AMOUNTS NOT OTHERWISE PROVIDED FOR UNDER THIS TITLE.
+>         “(1)
 
-    “Nothing in this title shall preclude an individual from bringing a claim against the Government of the United States which such individual may have under section 1346(b) or chapter 171 of title 28, United States Code, or any other provision of law (except to the extent the claim is for any amounts otherwise provided for under this title).
+>          ‘covered individual’ means any employee, former employee, or annuitant who—
 
- __“Subtitle D—Effective Date__ 
+>             “(A) is or was employed erroneously subject to CSRS coverage as a result of a retirement coverage error; and
 
-    “SEC. 2401. EFFECTIVE DATE.
+>             “(B) is or was retroactively converted to CSRS-offset coverage, FERS coverage, or Social Security-Only coverage; and
 
-    “Except as otherwise provided in this title, this title shall take effect on the date of the enactment of this Act \[Sept. 19, 2000\].”
+>         “(2) ‘excess CSRS deduction amount’ means an amount equal to the difference between the CSRS deductions withheld and the CSRS-Offset or FERS deductions, if any, due with respect to a covered individual during the entire period the individual was erroneously subject to CSRS coverage as a result of a retirement coverage error.
+
+>     “(b) __Reports to Commissioner of Social Security.—__ 
+
+>         “(1) __In general.—__ 
+
+>         In order to carry out the Commissioner of Social Security’s responsibilities under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\], the Commissioner may request the head of each agency that employs or employed a covered individual to report (in coordination with the Office of Personnel Management) in such form and within such timeframe as the Commissioner may specify, any or all of—
+
+>             “(A) the total wages (as defined in section 3121(a) of the Internal Revenue Code of 1986 \[[26 U.S.C. 3121(a)][/us/usc/t26/s3121/a]\]) paid to such individual during each year of the entire period of the erroneous CSRS coverage; and
+
+>             “(B) such additional information as the Commissioner may require for the purpose of carrying out the Commissioner’s responsibilities under title II of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401] et seq.).
+
+>         “(2) __Compliance.—__ 
+
+>         The head of an agency or the Office shall comply with a request from the Commissioner under paragraph (1).
+
+>         “(3) __Wages.—__ 
+
+>         For purposes of section 201 of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401]), wages reported under this subsection shall be deemed to be wages reported to the Secretary of the Treasury or the Secretary’s delegates pursuant to subtitle F of the Internal Revenue Code of 1986 \[[26 U.S.C. 6001][/us/usc/t26/s6001] et seq.\].
+
+>     “(c) __Payment Relating to OASDI Employee Taxes.—__ 
+
+>     The Office shall transfer from the Civil Service Retirement and Disability Fund to the General Fund of the Treasury an amount equal to the lesser of the excess CSRS deduction amount or the OASDI taxes due for covered individuals (as adjusted by amounts transferred relating to applicable OASDI employee taxes as a result of corrections made, including corrections made before the date of the enactment of this Act \[Sept. 19, 2000\]). If the excess CSRS deductions exceed the OASDI taxes, any difference shall be paid to the covered individual or survivors, as appropriate.
+
+>     “(d) __Payment of OASDI Employer Taxes.—__ 
+
+>         “(1) __In general.—__ 
+
+>         Each employing agency shall pay an amount equal to the OASDI employer taxes owed with respect to covered individuals during the applicable period of erroneous coverage (as adjusted by amounts transferred for the payment of such taxes as a result of corrections made, including corrections made before the date of the enactment of this Act \[Sept. 19, 2000\]).
+
+>         “(2) __Payment.—__ 
+
+>         Amounts paid under this subsection shall be determined subject to any limitation under section 6501 of the Internal Revenue Code of 1986 \[[26 U.S.C. 6501][/us/usc/t26/s6501]\].
+
+> “SEC. 2205. __THRIFT SAVINGS PLAN TREATMENT FOR CERTAIN INDIVIDUALS.__ 
+
+>     “(a) __Applicability.—__ 
+
+>     This section applies to an individual who—
+
+>         “(1) is eligible to make an election of coverage under section 2101 or 2102, and only if FERS coverage is elected (or remains in effect) for the employee involved; or
+
+>         “(2) is described in section 2111, and makes or has made retroactive employee contributions to the Thrift Savings Fund under regulations prescribed by the Executive Director.
+
+>     “(b) __Payment Into Thrift Savings Fund.—__ 
+
+>         “(1) __In general.—__ 
+
+>             “(A) __Payment.—__ 
+
+>             With respect to an individual to whom this section applies, the employing agency shall pay to the Thrift Savings Fund under subchapter III of chapter 84 of title 5, United States Code, for credit to the account of the employee involved, an amount equal to the earnings which are disallowed under section 8432a(a)(2) of such title on the employee’s retroactive contributions to such Fund.
+
+>             “(B) __Amount.—__ 
+
+>             Earnings under subparagraph (A) shall be computed in accordance with the procedures for computing lost earnings under [section 8432a of title 5][/us/usc/t5/s8432a], United States Code. The amount paid by the employing agency shall be treated for all purposes as if that amount had actually been earned on the basis of the employee’s contributions.
+
+>             “(C) __Exceptions.—__ 
+
+>             If an individual made retroactive contributions before the effective date of the regulations under section 2101(c), the Director may provide for an alternative calculation of lost earnings to the extent that a calculation under subparagraph (B) is not administratively feasible. The alternative calculation shall yield an amount that is as close as practicable to the amount computed under subparagraph (B), taking into account earnings previously paid.
+
+>         “(2) __Additional employee contribution.—__ 
+
+>         In cases in which the retirement coverage error was corrected before the effective date of the regulations under section 2101(c), the employee involved shall have an additional opportunity to make retroactive contributions for the period of the retirement coverage error (subject to applicable limits), and such contributions (including any contributions made after the date of the correction) shall be treated in accordance with paragraph (1).
+
+>     “(c) __Regulations.—__ 
+
+>         “(1) __Executive director.—__ 
+
+>         The Executive Director shall prescribe regulations appropriate to carry out this section relating to retroactive employee contributions and payments made on or after the effective date of the regulations under section 2101(c).
+
+>         “(2) __Office.—__ 
+
+>         The Office, in consultation with the Federal Retirement Thrift Investment Board, shall prescribe regulations appropriate to carry out this section relating to the calculation of lost earnings on retroactive employee contributions made before the effective date of the regulations under section 2101(c).
+
+> “SEC. 2206. __CERTAIN AGENCY AMOUNTS TO BE PAID INTO OR REMAIN IN THE CSRDF.__ 
+
+>     “(a) __Certain Excess Agency Contributions To Remain in the CSRDF.—__ 
+
+>         “(1) __In general.—__ 
+
+>         Any amount described under paragraph (2) shall—
+
+>             “(A) remain in the CSRDF; and
+
+>             “(B) may not be paid or credited to an agency.
+
+>         “(2) __Amounts.—__ 
+
+>         Paragraph (1) refers to any amount of contributions made by an agency under [section 8423 of title 5][/us/usc/t5/s8423], United States Code, on behalf of any employee, former employee, or annuitant (or survivor of such employee, former employee, or annuitant) who makes an election to correct a retirement coverage error under this title, that the Office determines to be excess as a result of such election.
+
+>     “(b) __Additional Employee Retirement Deductions To Be Paid by Agency.—__ 
+
+>     If a correction in a retirement coverage error results in an increase in employee deductions under section 8334 or 8422 of title 5, United States Code, that cannot be fully paid by a reallocation of otherwise available amounts previously deducted from the employee’s pay as employment taxes or retirement deductions, the employing agency—
+
+>         “(1) shall pay the required additional amount into the CSRDF; and
+
+>         “(2) shall not seek repayment of that amount from the employee, former employee, annuitant, or survivor.
+
+> “SEC. 2207. __CSRS COVERAGE DETERMINATIONS TO BE APPROVED BY OPM.__ 
+
+> “No agency shall place an individual under CSRS coverage unless—
+
+>     “(1) the individual has been employed with CSRS coverage within the preceding 365 days; or
+
+>     “(2) the Office has agreed in writing that the agency’s coverage determination is correct.
+
+> “SEC. 2208. __DISCRETIONARY ACTIONS BY DIRECTOR.__ 
+
+>     “(a) __In General.—__ 
+
+>     The Director of the Office of Personnel Management may—
+
+>         “(1) extend the deadlines for making elections under this title in circumstances involving an individual’s inability to make a timely election due to a cause beyond the individual’s control;
+
+>         “(2) provide for the reimbursement of necessary and reasonable expenses incurred by an individual with respect to settlement of a claim for losses resulting from a retirement coverage error, including attorney’s fees, court costs, and other actual expenses;
+
+>         “(3) compensate an individual for monetary losses that are a direct and proximate result of a retirement coverage error, excluding claimed losses relating to forgone contributions and earnings under the Thrift Savings Plan under subchapter III of chapter 84 of title 5, United States Code, and all other investment opportunities; and
+
+>         “(4) waive payments required due to correction of a retirement coverage error under this title.
+
+>     “(b) __Similar Actions.—__ 
+
+>     In exercising the authority under this section, the Director shall, to the extent practicable, provide for similar actions in situations involving similar circumstances.
+
+>     “(c) __Judicial Review.—__ 
+
+>     Actions taken under this section are final and conclusive, and are not subject to administrative or judicial review.
+
+>     “(d) __Regulations.—__ 
+
+>     The Office of Personnel Management shall prescribe regulations regarding the process and criteria used in exercising the authority under this section.
+
+>     “(e) __Report.—__ 
+
+>     The Office of Personnel Management shall, not later than 180 days after the date of the enactment of this Act \[Sept. 19, 2000\], and annually thereafter for each year in which the authority provided in this section is used, submit a report to each House of Congress on the operation of this section.
+
+> “SEC. 2209. __REGULATIONS.__ 
+
+>     “(a) __In General.—__ 
+
+>     In addition to the regulations specifically authorized in this title, the Office may prescribe such other regulations as are necessary for the administration of this title.
+
+>     “(b) __Former Spouse.—__ 
+
+>     The regulations prescribed under this title shall provide for protection of the rights of a former spouse with entitlement to an apportionment of benefits or to survivor benefits based on the service of the employee.
+
+> “Subtitle C— __Other Provisions__ 
+
+> “SEC. 2301. __PROVISIONS TO AUTHORIZE CONTINUED CONFORMITY OF OTHER FEDERAL RETIREMENT SYSTEMS.__ 
+
+>     “(a) __Foreign Service.—__ 
+
+>     Sections 827 and 851 of the Foreign Service Act of 1980 ([22 U.S.C. 4067][/us/usc/t22/s4067] and 4071) shall apply with respect to this title in the same manner as if this title were part of—
+
+>         “(1) the Civil Service Retirement System, to the extent this title relates to the Civil Service Retirement System; and
+
+>         “(2) the Federal Employees’ Retirement System, to the extent this title relates to the Federal Employees’ Retirement System.
+
+>     “(b) __Central Intelligence Agency.—__ 
+
+>     Sections 292 and 301 of the Central Intelligence Agency Retirement Act ([50 U.S.C. 2141][/us/usc/t50/s2141] and 2151) shall apply with respect to this title in the same manner as if this title were part of—
+
+>         “(1) the Civil Service Retirement System, to the extent this title relates to the Civil Service Retirement System; and
+
+>         “(2) the Federal Employees’ Retirement System, to the extent this title relates to the Federal Employees’ Retirement System.
+
+> “SEC. 2302. __AUTHORIZATION OF PAYMENTS.__ 
+
+>     “All payments authorized or required by this title to be paid from the Civil Service Retirement and Disability Fund, together with administrative expenses incurred by the Office in administering this title, shall be deemed to have been authorized to be paid from that Fund, which is appropriated for the payment thereof.
+
+> “SEC. 2303. __INDIVIDUAL RIGHT OF ACTION PRESERVED FOR AMOUNTS NOT OTHERWISE PROVIDED FOR UNDER THIS TITLE.__ 
+
+>     “Nothing in this title shall preclude an individual from bringing a claim against the Government of the United States which such individual may have under section 1346(b) or chapter 171 of title 28, United States Code, or any other provision of law (except to the extent the claim is for any amounts otherwise provided for under this title).
+
+> “Subtitle D— __Effective Date__ 
+
+> “SEC. 2401. __EFFECTIVE DATE.__ 
+
+>     “Except as otherwise provided in this title, this title shall take effect on the date of the enactment of this Act \[Sept. 19, 2000\].”
 
  __Federal Employees’ Retirement System Open Enrollment Act of 1997__ 
 
@@ -2359,159 +2537,203 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 [Pub. L. 98–168, title II][/us/pl/98/168], Nov. 29, 1983, [97 Stat. 1106][/us/stat/97/1106], as amended by [Pub. L. 99–190, § 147][/us/pl/99/190/s147], Dec. 19, 1985, [99 Stat. 1324][/us/stat/99/1324]; [Pub. L. 99–335, title III][/us/pl/99/335], §§ 305(a), 309, June 6, 1986, [100 Stat. 606][/us/stat/100/606], 607; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
- __“short title__ 
+>  __“short title__ 
 
-    “Sec. 201. This title may be cited as the ‘Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983’.
+> “Sec. 201. This title may be cited as the ‘Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983’.
 
- __“statement of policy__ 
+>  __“statement of policy__ 
 
-    “Sec. 202. It is the policy of the Government—
+> “Sec. 202.
 
-    “(1) that the amount required to be contributed to certain public retirement systems by employees and officers of the Government who are also required to pay employment taxes relating to benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for service performed after December 31, 1983, be modified until the date on which such employees and officers are covered by a new Government retirement system (the design, structure, and provisions of which have not been determined on the date of enactment of this Act \[Nov. 29, 1983\]) or January 1, 1987, whichever is earlier;
+>  It is the policy of the Government—
 
-    “(2) that the Treasury be required to pay into such retirement systems the remainder of the amount such employees and officers would have contributed during such period but for the temporary modification;
+>     “(1) that the amount required to be contributed to certain public retirement systems by employees and officers of the Government who are also required to pay employment taxes relating to benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for service performed after December 31, 1983, be modified until the date on which such employees and officers are covered by a new Government retirement system (the design, structure, and provisions of which have not been determined on the date of enactment of this Act \[Nov. 29, 1983\]) or January 1, 1987, whichever is earlier;
 
-    “(3) that the employing agencies make contributions to the retirement systems with respect to such service in amounts required by law in effect before January 1, 1984, without reduction in such amounts;
+>     “(2) that the Treasury be required to pay into such retirement systems the remainder of the amount such employees and officers would have contributed during such period but for the temporary modification;
 
-    “(4) that such employees and officers accrue credit for service for the purposes of the public retirement systems in effect on the date of enactment of this Act \[Nov. 29, 1983\] until a new Government retirement system covering such employees and officers is established;
+>     “(3) that the employing agencies make contributions to the retirement systems with respect to such service in amounts required by law in effect before January 1, 1984, without reduction in such amounts;
 
-    “(5) that, where appropriate, deposits to the credit of such a retirement system be required with respect to service performed by an employee or officer of the Government during the period described in clause (1), and, where appropriate, annuities be offset by the amount of certain social security benefits attributable to such service; and
+>     “(4) that such employees and officers accrue credit for service for the purposes of the public retirement systems in effect on the date of enactment of this Act \[Nov. 29, 1983\] until a new Government retirement system covering such employees and officers is established;
 
-    “(6) that such employees and officers who are first employed in civilian service by the Government or first take office in civilian service in the Government on or after January 1, 1984, become subject to such new Government retirement system as may be established for employees and officers of the Government on or after January 1, 1984, and before January 1, 1987, with credit for service performed after December 31, 1983, by such employees and officers transferred to such new Government retirement system.
+>     “(5) that, where appropriate, deposits to the credit of such a retirement system be required with respect to service performed by an employee or officer of the Government during the period described in clause (1), and, where appropriate, annuities be offset by the amount of certain social security benefits attributable to such service; and
 
- __“definitions__ 
+>     “(6) that such employees and officers who are first employed in civilian service by the Government or first take office in civilian service in the Government on or after January 1, 1984, become subject to such new Government retirement system as may be established for employees and officers of the Government on or after January 1, 1984, and before January 1, 1987, with credit for service performed after December 31, 1983, by such employees and officers transferred to such new Government retirement system.
 
-    “Sec. 203. (a) For the purposes of this title—
+>  __“definitions__ 
 
-    “(1) the term ‘covered employee’ means any individual whose service is covered service;
+> “Sec. 203.
 
-    “(2) the term ‘covered retirement system’ means—
+>      (a)
 
-    “(A) the Civil Service Retirement and Disability System under subchapter III of chapter 83 of title 5, United States Code;
+>      For the purposes of this title—
 
-    “(B) the Foreign Service Retirement and Disability System under chapter 8 of the Foreign Service Act of 1980 ([22 U.S.C. 4041][/us/usc/t22/s4041] et seq.);
+>         “(1) the term ‘covered employee’ means any individual whose service is covered service;
 
-    “(C) the Central Intelligence Agency Retirement and Disability System under the Central Intelligence Agency Retirement Act of 1964 for Certain Employees (\[former\] [50 U.S.C. 403][/us/usc/t50/s403] note); and
+>         “(2)
 
-    “(D) any other retirement system (other than a new Government retirement system) under which a covered employee who is a participant in the system is required to make contributions to the system in an amount equal to a portion of the participant’s basic pay for covered service, as determined by the President;
+>          the term ‘covered retirement system’ means—
 
-    “(3) the term ‘covered service’ means service which is employment for the purposes of title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] and chapter 21 of the Internal Revenue Code of 1986 \[[26 U.S.C. 3101][/us/usc/t26/s3101] et seq.\] by reason of the amendments made by section 101 of the Social Security Amendments of 1983 ([97 Stat. 67][/us/stat/97/67]) \[amending [section 3121 of Title 26][/us/usc/t26/s3121], Internal Revenue Code, and sections 409 and 410 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under [section 3121 of Title 26][/us/usc/t26/s3121] and [section 410 of Title 42][/us/usc/t42/s410]\]; and
+>             “(A) the Civil Service Retirement and Disability System under subchapter III of chapter 83 of title 5, United States Code;
 
-    “(4) the term ‘new Government retirement system’ means any retirement system which (A) is established for officers or employees of the Government by or pursuant to a law enacted after December 31, 1983, and before January 1, 1987, and (B) takes effect on or before January 1, 1987.
+>             “(B) the Foreign Service Retirement and Disability System under chapter 8 of the Foreign Service Act of 1980 ([22 U.S.C. 4041][/us/usc/t22/s4041] et seq.);
 
-    “(b) The President shall publish the determinations made for the purpose of subsection (a)(2)(D) in an Executive order.
+>             “(C) the Central Intelligence Agency Retirement and Disability System under the Central Intelligence Agency Retirement Act of 1964 for Certain Employees (\[former\] [50 U.S.C. 403][/us/usc/t50/s403] note); and
 
- __“contribution adjustments__ 
+>             “(D) any other retirement system (other than a new Government retirement system) under which a covered employee who is a participant in the system is required to make contributions to the system in an amount equal to a portion of the participant’s basic pay for covered service, as determined by the President;
 
-    “Sec. 204. (a) In the case of a covered employee who is participating in a covered retirement system, an employing agency shall deduct and withhold only 1.3 percent of the basic pay of such employee under—
+>         “(3) the term ‘covered service’ means service which is employment for the purposes of title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] and chapter 21 of the Internal Revenue Code of 1986 \[[26 U.S.C. 3101][/us/usc/t26/s3101] et seq.\] by reason of the amendments made by section 101 of the Social Security Amendments of 1983 ([97 Stat. 67][/us/stat/97/67]) \[amending [section 3121 of Title 26][/us/usc/t26/s3121], Internal Revenue Code, and sections 409 and 410 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under [section 3121 of Title 26][/us/usc/t26/s3121] and [section 410 of Title 42][/us/usc/t42/s410]\]; and
 
-    “(1) [section 8334 of title 5][/us/usc/t5/s8334], United States Code;
+>         “(4) the term ‘new Government retirement system’ means any retirement system which (A) is established for officers or employees of the Government by or pursuant to a law enacted after December 31, 1983, and before January 1, 1987, and (B) takes effect on or before January 1, 1987.
 
-    “(2) section 805 of the Foreign Service Act of 1980 ([22 U.S.C. 4045][/us/usc/t22/s4045]);
+>     “(b) The President shall publish the determinations made for the purpose of subsection (a)(2)(D) in an Executive order.
 
-    “(3) section 211 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees (\[former\] [50 U.S.C. 403][/us/usc/t50/s403] note); or
+>  __“contribution adjustments__ 
 
-    “(4) any provision of any other covered retirement system which requires a participant in the system to make contributions of a portion of the basic pay of the participant;
+> “Sec. 204.
 
-    for covered service which is performed after December 31, 1983, and before the earlier of the effective date of a new Government retirement system or January 1, 1987. Deductions shall be made and withheld as provided by such provisions in the case of covered service which is performed on or after such effective date or January 1, 1987, as the case may be, and is not subject to a new Government retirement system.
+>      (a)
 
-    “(b) Employing agencies of the Government shall make contributions with respect to service to which subsection (a) of this section applies under the second sentence of [section 8334(a)(1) of title 5][/us/usc/t5/s8334/a/1], United States Code, the second sentence of section 805(a) of the Foreign Service Act of 1980 ([22 U.S.C. 4045(a)][/us/usc/t22/s4045/a]), the second sentence of section 211(a) of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees (\[former\] [50 U.S.C. 403][/us/usc/t50/s403] note), and any provision of any other covered retirement system requiring a contribution by the employing agency, as if subsection (a) of this section had not been enacted.
+>      In the case of a covered employee who is participating in a covered retirement system, an employing agency shall deduct and withhold only 1.3 percent of the basic pay of such employee under—
 
- __“reimbursement for contribution deficiency__ 
+>         “(1) [section 8334 of title 5][/us/usc/t5/s8334], United States Code;
 
-    “Sec. 205. (a) For purposes of this section—
+>         “(2) section 805 of the Foreign Service Act of 1980 ([22 U.S.C. 4045][/us/usc/t22/s4045]);
 
-    “(1) the term ‘contribution deficiency’, when used with respect to a covered retirement system, means the excess of—
+>         “(3) section 211 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees (\[former\] [50 U.S.C. 403][/us/usc/t50/s403] note); or
 
-    “(A) the total amount which, but for section 204(a) of this Act, would have been deducted and withheld under a provision referred to in such section from the pay of covered employees participating in such retirement system for service to which such section applies, over
+>         “(4) any provision of any other covered retirement system which requires a participant in the system to make contributions of a portion of the basic pay of the participant;
 
-    “(B) the total amount which was deducted and withheld from the pay of covered employees for such service as provided in section 204(a) of this Act; and
+>         for covered service which is performed after December 31, 1983, and before the earlier of the effective date of a new Government retirement system or January 1, 1987. Deductions shall be made and withheld as provided by such provisions in the case of covered service which is performed on or after such effective date or January 1, 1987, as the case may be, and is not subject to a new Government retirement system.
 
-    “(2) the term ‘appropriate agency head’ means—
+>     “(b) Employing agencies of the Government shall make contributions with respect to service to which subsection (a) of this section applies under the second sentence of [section 8334(a)(1) of title 5][/us/usc/t5/s8334/a/1], United States Code, the second sentence of section 805(a) of the Foreign Service Act of 1980 ([22 U.S.C. 4045(a)][/us/usc/t22/s4045/a]), the second sentence of section 211(a) of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees (\[former\] [50 U.S.C. 403][/us/usc/t50/s403] note), and any provision of any other covered retirement system requiring a contribution by the employing agency, as if subsection (a) of this section had not been enacted.
 
-    “(A) the Director of the Office of Personnel Management, with respect to the Civil Service Retirement and Disability System under subchapter III of chapter 83 of title 5, United States Code;
+>  __“reimbursement for contribution deficiency__ 
 
-    “(B) the Secretary of State, with respect to the Foreign Service Retirement and Disability System under chapter 8 of the Foreign Service Retirement Act of 1980 ([22 U.S.C. 404][/us/usc/t22/s404] et seq.) \[[22 U.S.C. 4041][/us/usc/t22/s4041] et seq.\];
+> “Sec. 205.
 
-    “(C) the Director of Central Intelligence, with respect to the Central Intelligence Agency Retirement and Disability System under the Central Intelligence Agency Retirement Act of 1964 for Certain Employees (\[former\] [50 U.S.C. 403][/us/usc/t50/s403] note); and
+>      (a)
 
-    “(D) the officer designated by the President for that purpose in the case of any retirement system described in section 203(a)(2)(D) of this Act.
+>      For purposes of this section—
 
-    “(b) At the end of each of fiscal years 1984, 1985, 1986, and 1987, the appropriate agency head—
+>         “(1)
 
-    “(1) shall determine the amount of the contribution deficiency for such fiscal year in the case of each covered retirement system, including the interest that those contributions would have earned had they been credited to the fund established for the payment of benefits under such retirement system in the same manner and at the same time as deductions under the applicable provision of law referred to in section 204(a) of this Act; and
+>          the term ‘contribution deficiency’, when used with respect to a covered retirement system, means the excess of—
 
-    “(2) shall notify the Secretary of the Treasury of the amount of the contribution deficiency in each such case.
+>             “(A) the total amount which, but for section 204(a) of this Act, would have been deducted and withheld under a provision referred to in such section from the pay of covered employees participating in such retirement system for service to which such section applies, over
 
-    “(c) Before closing the accounts for each of fiscal years 1984, 1985, 1986, and 1987, the Secretary of the Treasury shall credit to the fund established for the payment of benefits under each covered retirement system, as a Government contribution, out of any money in the Treasury not otherwise appropriated, an amount equal to the amount determined under subsection (b) with respect to that covered retirement system for the fiscal year involved.
+>             “(B) the total amount which was deducted and withheld from the pay of covered employees for such service as provided in section 204(a) of this Act; and
 
-    “(d) Amounts credited to a fund under subsection (c) shall be accounted for separately than amounts credited to such fund under any other provision of law.
+>         “(2)
 
- __“special deposit and offset rules relating to retirement benefits for interim covered service__ 
+>          the term ‘appropriate agency head’ means—
 
-    “Sec. 206. (a) For the purposes of this section, the term ‘interim covered service’ means covered service to which section 204(a) applies.
+>             “(A) the Director of the Office of Personnel Management, with respect to the Civil Service Retirement and Disability System under subchapter III of chapter 83 of title 5, United States Code;
 
-    “(b)(1) Paragraphs (2) and (3) apply according to the provisions thereof only with respect to a covered employee who is employed by the Government on December 31, 1983.
+>             “(B) the Secretary of State, with respect to the Foreign Service Retirement and Disability System under chapter 8 of the Foreign Service Retirement Act of 1980 ([22 U.S.C. 404][/us/usc/t22/s404] et seq.) \[[22 U.S.C. 4041][/us/usc/t22/s4041] et seq.\];
 
-    “(2)(A) Notwithstanding any other provision of law, the interim covered service of such covered employee shall be considered—
+>             “(C) the Director of Central Intelligence, with respect to the Central Intelligence Agency Retirement and Disability System under the Central Intelligence Agency Retirement Act of 1964 for Certain Employees (\[former\] [50 U.S.C. 403][/us/usc/t50/s403] note); and
 
-    “(i) in determining entitlement to and computing the amount of an annuity (other than a disability or survivor annuity) commencing under a covered retirement system during the period beginning January 1, 1984, and ending on the earlier of the date a new Government retirement system takes effect or January 1, 1987, by reason of the retirement of such covered employee during such period only if such covered employee makes a deposit to the credit of such covered retirement system for such covered service in an amount computed as provided in subsection (f); and
+>             “(D) the officer designated by the President for that purpose in the case of any retirement system described in section 203(a)(2)(D) of this Act.
 
-    “(ii) in computing a disability or survivor annuity which commences under a covered retirement system during such period and is based in any part on such interim covered service.
+>     “(b)
 
-    “(B) Notwithstanding any other provision of law, an annuity to which subparagraph (A)(ii) applies shall be reduced by the portion of the amount of any benefits which is payable under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] and is attributable to the interim covered service considered in computing the amount of such annuity, as determined under subsection (g), unless, in the case of a survivor annuity, a covered employee has made a deposit with respect to such covered service for the purposes of subparagraph (A)(i) before the date on which payment of such annuity commences.
+>      At the end of each of fiscal years 1984, 1985, 1986, and 1987, the appropriate agency head—
 
-    “(3) Notwithstanding any other provision of law, if a new Government retirement system is not established or is inapplicable to such a covered employee who retires or dies subject to a covered retirement system after the date on which such new Government retirement system takes effect, the interim covered service of such covered employee shall be considered in determining entitlement to and computing the amount of an annuity under a covered retirement system based on the service of such covered employee only if such covered employee makes a deposit to the credit of such covered retirement system for such covered service in an amount computed as provided in subsection (f).
+>         “(1) shall determine the amount of the contribution deficiency for such fiscal year in the case of each covered retirement system, including the interest that those contributions would have earned had they been credited to the fund established for the payment of benefits under such retirement system in the same manner and at the same time as deductions under the applicable provision of law referred to in section 204(a) of this Act; and
 
-    “(c)(1) Paragraphs (2) and (3) apply according to the provisions thereof only with respect to a covered employee who was not employed by the Government on December 31, 1983.
+>         “(2) shall notify the Secretary of the Treasury of the amount of the contribution deficiency in each such case.
 
-    “(2) Notwithstanding any other provision of law, any annuity which commences under a covered retirement system during the period described in subsection (b)(2)(A)(i) and is based, in any part, on interim covered service shall be reduced by the portion of the amount of any benefits which is payable under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] to the annuitant and is attributable to such service, as determined under subsection (g).
+>     “(c) Before closing the accounts for each of fiscal years 1984, 1985, 1986, and 1987, the Secretary of the Treasury shall credit to the fund established for the payment of benefits under each covered retirement system, as a Government contribution, out of any money in the Treasury not otherwise appropriated, an amount equal to the amount determined under subsection (b) with respect to that covered retirement system for the fiscal year involved.
 
-    “(3) Notwithstanding any other provision of law, if a new Government retirement system is not established, the interim covered service of such a covered employee who retires or dies after January 1, 1987, shall be considered in determining entitlement to and computing the amount of an annuity under a covered retirement system based on the service of such covered employee only if such covered employee makes a deposit to the credit of such covered retirement system for such covered service in an amount computed as provided in subsection (f).
+>     “(d) Amounts credited to a fund under subsection (c) shall be accounted for separately than amounts credited to such fund under any other provision of law.
 
-    “(d) If a covered employee with respect to whom subsection (b)(3) or (c)(3) applies dies without having made a deposit pursuant to such subsection, any individual who is entitled to an annuity under a covered retirement system based on the service of such covered employee or who would be entitled to such an annuity if such deposit had been made by the covered employee before death may make such deposit after the date of death of such covered employee. Service covered by a deposit made pursuant to the first sentence shall be considered in determining, in the case of each individual to whom the first sentence applies, the entitlement to and the amount of an annuity under a covered retirement system based on the service of such covered employee.
+>  __“special deposit and offset rules relating to retirement benefits for interim covered service__ 
 
-    “(e) A reduction in annuity under subsection (b)(2)(B) or (c)(2) shall commence on the first day of the first month after the date on which payment of benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] commence and shall be redetermined each time an increase in such benefits takes effect pursuant to section 215(i) of the Social Security Act \[[42 U.S.C. 415(i)][/us/usc/t42/s415/i]\]. In the case of an annuity of a participant or former participant in a covered retirement system, of a surviving spouse or child of such participant or former participant, or of any other person designated by such participant or former participant to receive an annuity, under a covered retirement system (other than a former spouse) the reduction in annuity under subsection (b)(2)(B) or (c)(2) shall be calculated before any reduction in such annuity provided under such system for the purpose of paying an annuity under such system to any former spouse of such participant or former participant based on the service of such participant or former participant.
+> “Sec. 206.
 
-    “(f) For the purposes of subsection (b) or (c), the amount of a deposit to the credit of the applicable covered retirement system shall be equal to the excess of—
+>      (a) For the purposes of this section, the term ‘interim covered service’ means covered service to which section 204(a) applies.
 
-    “(1) the total amount which would have been deducted and withheld from the basic pay of the covered employee for the interim covered service under such covered retirement system but for the application of section 204(a), over
+>     “(b)
 
-    “(2) the amount which was deducted and withheld from such basic pay for such interim covered service pursuant to section 204(a) and was not refunded to such covered employee.
+>         (1) Paragraphs (2) and (3) apply according to the provisions thereof only with respect to a covered employee who is employed by the Government on December 31, 1983.
 
-    “(g) For the purpose of subsections (b)(2)(B) and (c)(2), the portion of the amount of the benefits which is payable under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] to an individual and is attributable to interim covered service shall be determined by—
+>         “(2)
 
-    “(1) computing the amount of such benefits including credit for such service;
+>             (A)
 
-    “(2) computing the amount of such benefits, if any, without including credit for such service; and
+>              Notwithstanding any other provision of law, the interim covered service of such covered employee shall be considered—
 
-    “(3) subtracting the amount computed under clause (2) from the amount computed under clause (1).
+>                 “(i) in determining entitlement to and computing the amount of an annuity (other than a disability or survivor annuity) commencing under a covered retirement system during the period beginning January 1, 1984, and ending on the earlier of the date a new Government retirement system takes effect or January 1, 1987, by reason of the retirement of such covered employee during such period only if such covered employee makes a deposit to the credit of such covered retirement system for such covered service in an amount computed as provided in subsection (f); and
 
-    “(h) The Secretary of Health and Human Services shall furnish to the appropriate agency head (as defined in section 205(a)(2)) such information as such agency head considers necessary to carry out this section.
+>                 “(ii) in computing a disability or survivor annuity which commences under a covered retirement system during such period and is based in any part on such interim covered service.
 
- __“transfer of credit to new retirement system__ 
+>             “(B) Notwithstanding any other provision of law, an annuity to which subparagraph (A)(ii) applies shall be reduced by the portion of the amount of any benefits which is payable under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] and is attributable to the interim covered service considered in computing the amount of such annuity, as determined under subsection (g), unless, in the case of a survivor annuity, a covered employee has made a deposit with respect to such covered service for the purposes of subparagraph (A)(i) before the date on which payment of such annuity commences.
 
-    “Sec. 207. \[Repealed. [Pub. L. 99–335, title III, § 309][/us/pl/99/335/s309], June 6, 1986, [100 Stat. 607][/us/stat/100/607]\]
+>         “(3) Notwithstanding any other provision of law, if a new Government retirement system is not established or is inapplicable to such a covered employee who retires or dies subject to a covered retirement system after the date on which such new Government retirement system takes effect, the interim covered service of such covered employee shall be considered in determining entitlement to and computing the amount of an annuity under a covered retirement system based on the service of such covered employee only if such covered employee makes a deposit to the credit of such covered retirement system for such covered service in an amount computed as provided in subsection (f).
 
-    “Sec. 208. (a) Any individual performing service of a type referred to in clause (i), (ii), (iii), or (iv) of section 210(a)(5) of the Social Security Act \[[42 U.S.C. 410(a)(5)(i)][/us/usc/t42/s410/a/5/i]–(iv)\] beginning on or before December 31, 1983, may—
+>     “(c)
 
-    “(1) if such individual is then currently a participant in a covered retirement system, elect by written application submitted before January 1, 1984—
+>         (1) Paragraphs (2) and (3) apply according to the provisions thereof only with respect to a covered employee who was not employed by the Government on December 31, 1983.
 
-    “(A) to terminate participation in such system, effective after December 31, 1983; or
+>         “(2) Notwithstanding any other provision of law, any annuity which commences under a covered retirement system during the period described in subsection (b)(2)(A)(i) and is based, in any part, on interim covered service shall be reduced by the portion of the amount of any benefits which is payable under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] to the annuitant and is attributable to such service, as determined under subsection (g).
 
-    “(B) to remain under such system, as if the preceding sections of this Act \[probably means this ‘title’\] and the amendments made by this Act had not been enacted; or
+>         “(3) Notwithstanding any other provision of law, if a new Government retirement system is not established, the interim covered service of such a covered employee who retires or dies after January 1, 1987, shall be considered in determining entitlement to and computing the amount of an annuity under a covered retirement system based on the service of such covered employee only if such covered employee makes a deposit to the credit of such covered retirement system for such covered service in an amount computed as provided in subsection (f).
 
-    “(2) if such individual is then currently not a participant in a covered retirement system, elect by written application—
+>     “(d) If a covered employee with respect to whom subsection (b)(3) or (c)(3) applies dies without having made a deposit pursuant to such subsection, any individual who is entitled to an annuity under a covered retirement system based on the service of such covered employee or who would be entitled to such an annuity if such deposit had been made by the covered employee before death may make such deposit after the date of death of such covered employee. Service covered by a deposit made pursuant to the first sentence shall be considered in determining, in the case of each individual to whom the first sentence applies, the entitlement to and the amount of an annuity under a covered retirement system based on the service of such covered employee.
 
-    “(A) to become a participant under such system (if such individual is otherwise eligible to participate in the system), subject to the preceding sections of this Act \[probably means this ‘title’\] and the amendments made by this Act; or
+>     “(e) A reduction in annuity under subsection (b)(2)(B) or (c)(2) shall commence on the first day of the first month after the date on which payment of benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] commence and shall be redetermined each time an increase in such benefits takes effect pursuant to section 215(i) of the Social Security Act \[[42 U.S.C. 415(i)][/us/usc/t42/s415/i]\]. In the case of an annuity of a participant or former participant in a covered retirement system, of a surviving spouse or child of such participant or former participant, or of any other person designated by such participant or former participant to receive an annuity, under a covered retirement system (other than a former spouse) the reduction in annuity under subsection (b)(2)(B) or (c)(2) shall be calculated before any reduction in such annuity provided under such system for the purpose of paying an annuity under such system to any former spouse of such participant or former participant based on the service of such participant or former participant.
 
-    “(B) to become a participant under such system (if such individual is otherwise eligible to participate in the system), as if the preceding sections of this Act and the amendments made by this Act had not been enacted.
+>     “(f)
 
-    “(b) An application by an individual under subsection (a) shall be submitted to the official by whom such covered employee is paid.
+>      For the purposes of subsection (b) or (c), the amount of a deposit to the credit of the applicable covered retirement system shall be equal to the excess of—
 
-    “(c) Any individual who elects to terminate participation in a covered retirement system under subsection (a)(1)(A) is entitled to have such individual’s contributions to the retirement system refunded, in accordance with applicable provisions of law, as if such individual had separated from service as of the effective date of the election.
+>         “(1) the total amount which would have been deducted and withheld from the basic pay of the covered employee for the interim covered service under such covered retirement system but for the application of section 204(a), over
 
-    “(d) Any individual who is eligible to make an election under subparagraph (A) or (B) of subsection (a)(1), but who does not make an election under either such subparagraph, shall be subject to the preceding sections of this Act \[probably means this ‘title’\] and the amendments made by this Act.”
+>         “(2) the amount which was deducted and withheld from such basic pay for such interim covered service pursuant to section 204(a) and was not refunded to such covered employee.
+
+>     “(g)
+
+>      For the purpose of subsections (b)(2)(B) and (c)(2), the portion of the amount of the benefits which is payable under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] to an individual and is attributable to interim covered service shall be determined by—
+
+>         “(1) computing the amount of such benefits including credit for such service;
+
+>         “(2) computing the amount of such benefits, if any, without including credit for such service; and
+
+>         “(3) subtracting the amount computed under clause (2) from the amount computed under clause (1).
+
+>     “(h) The Secretary of Health and Human Services shall furnish to the appropriate agency head (as defined in section 205(a)(2)) such information as such agency head considers necessary to carry out this section.
+
+>  __“transfer of credit to new retirement system__ 
+
+> “Sec. 207. \[Repealed. [Pub. L. 99–335, title III, § 309][/us/pl/99/335/s309], June 6, 1986, [100 Stat. 607][/us/stat/100/607]\]
+
+> “Sec. 208.
+
+>      (a)
+
+>      Any individual performing service of a type referred to in clause (i), (ii), (iii), or (iv) of section 210(a)(5) of the Social Security Act \[[42 U.S.C. 410(a)(5)(i)][/us/usc/t42/s410/a/5/i]–(iv)\] beginning on or before December 31, 1983, may—
+
+>         “(1)
+
+>          if such individual is then currently a participant in a covered retirement system, elect by written application submitted before January 1, 1984—
+
+>             “(A) to terminate participation in such system, effective after December 31, 1983; or
+
+>             “(B) to remain under such system, as if the preceding sections of this Act \[probably means this ‘title’\] and the amendments made by this Act had not been enacted; or
+
+>         “(2)
+
+>          if such individual is then currently not a participant in a covered retirement system, elect by written application—
+
+>             “(A) to become a participant under such system (if such individual is otherwise eligible to participate in the system), subject to the preceding sections of this Act \[probably means this ‘title’\] and the amendments made by this Act; or
+
+>             “(B) to become a participant under such system (if such individual is otherwise eligible to participate in the system), as if the preceding sections of this Act and the amendments made by this Act had not been enacted.
+
+>     “(b) An application by an individual under subsection (a) shall be submitted to the official by whom such covered employee is paid.
+
+>     “(c) Any individual who elects to terminate participation in a covered retirement system under subsection (a)(1)(A) is entitled to have such individual’s contributions to the retirement system refunded, in accordance with applicable provisions of law, as if such individual had separated from service as of the effective date of the election.
+
+>     “(d) Any individual who is eligible to make an election under subparagraph (A) or (B) of subsection (a)(1), but who does not make an election under either such subparagraph, shall be subject to the preceding sections of this Act \[probably means this ‘title’\] and the amendments made by this Act.”
 
     \[Amendment to [section 206(c)(3) of Pub. L. 98–168][/us/pl/98/168/s206/c/3] by [section 305(a)(1) of Pub. L. 99–335][/us/pl/99/335/s305/a/1] directing the substitution of “January 1, 1987” for “January 1, 1986” has been executed by substituting “January 1, 1987” for “April 30, 1986” to reflect the probable intent of Congress.\]
 

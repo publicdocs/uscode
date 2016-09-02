@@ -15,7 +15,7 @@
 
 ## § 4104. Government facilities; use of
 
-An agency program for the training of employees by, in, and through Government facilities under this chapter shall—
+    An agency program for the training of employees by, in, and through Government facilities under this chapter shall—
 
     (1) provide for training, insofar as practicable, by, in, and through Government facilities under the jurisdiction or control of the agency; and
 

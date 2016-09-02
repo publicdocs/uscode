@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8951.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8951" data-uslm-ref="/us/usc/t5/s8951">8951.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8952.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8952" data-uslm-ref="/us/usc/t5/s8952">8952.</a>  </td>
 
     <td> Availability of dental benefits.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 8953.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8953" data-uslm-ref="/us/usc/t5/s8953">8953.</a>  </td>
 
     <td> Contracting authority.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 8954.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8954" data-uslm-ref="/us/usc/t5/s8954">8954.</a>  </td>
 
     <td> Benefits.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 8955.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8955" data-uslm-ref="/us/usc/t5/s8955">8955.</a>  </td>
 
     <td> Information to individuals eligible to enroll.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 8956.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8956" data-uslm-ref="/us/usc/t5/s8956">8956.</a>  </td>
 
     <td> Election of coverage.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 8957.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8957" data-uslm-ref="/us/usc/t5/s8957">8957.</a>  </td>
 
     <td> Coverage of restored survivor or disability annuitants.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 8958.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8958" data-uslm-ref="/us/usc/t5/s8958">8958.</a>  </td>
 
     <td> Premiums.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 8959.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8959" data-uslm-ref="/us/usc/t5/s8959">8959.</a>  </td>
 
     <td> Preemption.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 8960.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8960" data-uslm-ref="/us/usc/t5/s8960">8960.</a>  </td>
 
     <td> Studies, reports, and audits.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 8961.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8961" data-uslm-ref="/us/usc/t5/s8961">8961.</a>  </td>
 
     <td> Jurisdiction of courts.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 8962.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8962" data-uslm-ref="/us/usc/t5/s8962">8962.</a>  </td>
 
     <td> Administrative functions.  </td>
 

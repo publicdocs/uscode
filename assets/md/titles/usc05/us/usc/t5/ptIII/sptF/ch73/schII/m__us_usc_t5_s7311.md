@@ -15,7 +15,7 @@
 
 ## § 7311. Loyalty and striking
 
-An individual may not accept or hold a position in the Government of the United States or the government of the District of Columbia if he—
+    An individual may not accept or hold a position in the Government of the United States or the government of the District of Columbia if he—
 
     (1) advocates the overthrow of our constitutional form of government;
 

@@ -965,7 +965,7 @@ July 18, 1966, Pub. L. 89–504, § 503, 80 Stat. 300.  </td>
 
 >     “(2) __Exception.—__ 
 
->         “(A) __Rule for individuals separating after december 31, 1968, and before the enactment of this act.—__ 
+>         “(A) __Rule for individuals separating after__  __december 31, 1968__  __, and before the enactment of this act.—__ 
 
 >         In the case of any individual who—
 
@@ -1339,7 +1339,9 @@ July 18, 1966, Pub. L. 89–504, § 503, 80 Stat. 300.  </td>
 
 [Section 1 of Pub. L. 99–638][/us/pl/99/638/s1] provided: 
 
-> “That (a) service described in subsection (b) shall be considered creditable civilian service for purposes of subchapter III of chapter 83, or chapter 84, of title 5, United States Code, as applicable, in the case of any individual who meets the requirements of subsection (c).
+>     “That 
+
+>     (a) service described in subsection (b) shall be considered creditable civilian service for purposes of subchapter III of chapter 83, or chapter 84, of title 5, United States Code, as applicable, in the case of any individual who meets the requirements of subsection (c).
 
 >     “(b) This section relates to any period of training as a student or graduate nurse under a plan approved under [section 2 of the Act of June 15, 1943][/us/act/1943-06-15/s2] ([57 Stat. 153][/us/stat/57/153]) \[former 50 U.S.C. App. 1452\], if the total period of training under such plan was at least 2 years.
 

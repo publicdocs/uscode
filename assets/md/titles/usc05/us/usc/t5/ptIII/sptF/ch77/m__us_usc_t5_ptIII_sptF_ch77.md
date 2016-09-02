@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7701" data-uslm-ref="/us/usc/t5/s7701">7701.</a>  </td>
 
     <td> Appellate procedures.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7702" data-uslm-ref="/us/usc/t5/s7702">7702.</a>  </td>
 
     <td> Actions involving discrimination.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7703" data-uslm-ref="/us/usc/t5/s7703">7703.</a>  </td>
 
     <td> Judicial review of decisions of the Merit Systems Protection Board.  </td>
 

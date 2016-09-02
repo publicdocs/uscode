@@ -15,7 +15,7 @@
 
 ## § 3113. Restriction on reemployment after conviction of certain crimes
 
-An employee shall be separated from service and barred from reemployment in the Federal service, if—
+    An employee shall be separated from service and barred from reemployment in the Federal service, if—
 
     (1) the employee is convicted of a violation of [section 201(b) of title 18][/us/usc/t18/s201/b]; and
 

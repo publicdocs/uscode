@@ -15,7 +15,7 @@
 
 ## § 8101. Definitions
 
-For the purpose of this subchapter—
+    For the purpose of this subchapter—
 
     (1)
 
@@ -41,7 +41,7 @@ For the purpose of this subchapter—
 
         (iv) a member of the Metropolitan Police or the Fire Department of the District of Columbia who is pensioned or pensionable under sections 521–535 of title 4, District of Columbia Code; and
 
-    (F)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. [Pub. L. 93–416][/us/pl/93/416] added par. (F) immediately after par. (iv), rather than after par. (E). </sup></sup>  an individual selected pursuant to chapter 121 of title 28, United States Code, and serving as a petit or grand juror;
+        (F)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. [Pub. L. 93–416][/us/pl/93/416] added par. (F) immediately after par. (iv), rather than after par. (E). </sup></sup>  an individual selected pursuant to chapter 121 of title 28, United States Code, and serving as a petit or grand juror;
 
     (2) “physician” includes surgeons, podiatrists, dentists, clinical psychologists, optometrists, chiropractors, and osteopathic practitioners within the scope of their practice as defined by State law. The term “physician” includes chiropractors only to the extent that their reimbursable services are limited to treatment consisting of manual manipulation of the spine to correct a subluxation as demonstrated by X-ray to exist, and subject to regulation by the Secretary;
 

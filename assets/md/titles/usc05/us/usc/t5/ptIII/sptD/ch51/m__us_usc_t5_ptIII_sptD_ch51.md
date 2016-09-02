@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5101" data-uslm-ref="/us/usc/t5/s5101">5101.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5102" data-uslm-ref="/us/usc/t5/s5102">5102.</a>  </td>
 
     <td> Definitions; application.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5103" data-uslm-ref="/us/usc/t5/s5103">5103.</a>  </td>
 
     <td> Determination of applicability.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5104" data-uslm-ref="/us/usc/t5/s5104">5104.</a>  </td>
 
     <td> Basis for grading positions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5105" data-uslm-ref="/us/usc/t5/s5105">5105.</a>  </td>
 
     <td> Standards for classification of positions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5106" data-uslm-ref="/us/usc/t5/s5106">5106.</a>  </td>
 
     <td> Basis for classifying positions.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5107" data-uslm-ref="/us/usc/t5/s5107">5107.</a>  </td>
 
     <td> Classification of positions.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 5108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5108" data-uslm-ref="/us/usc/t5/s5108">5108.</a>  </td>
 
     <td> Classification of positions above GS–15.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 5109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5109" data-uslm-ref="/us/usc/t5/s5109">5109.</a>  </td>
 
     <td> Positions classified by statute.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 5110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5110" data-uslm-ref="/us/usc/t5/s5110">5110.</a>  </td>
 
     <td> Review of classification of positions.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 5111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5111" data-uslm-ref="/us/usc/t5/s5111">5111.</a>  </td>
 
     <td> Revocation and restoration of authority to classify positions.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 5112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5112" data-uslm-ref="/us/usc/t5/s5112">5112.</a>  </td>
 
     <td> General authority of the Office of Personnel Management.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 5113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5113" data-uslm-ref="/us/usc/t5/s5113">5113.</a>  </td>
 
     <td> Classification records.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> [5114.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5114" data-uslm-ref="/us/usc/t5/s5114">5114.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 5115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5115" data-uslm-ref="/us/usc/t5/s5115">5115.</a>  </td>
 
     <td> Regulations.  </td>
 

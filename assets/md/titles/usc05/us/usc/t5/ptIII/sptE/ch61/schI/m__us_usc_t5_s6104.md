@@ -15,7 +15,7 @@
 
 ## § 6104. Holidays; daily, hourly, and piece-work basis employees
 
-When a regular employee as defined by [section 2105 of this title][/us/usc/t5/s2105] or an individual employed regularly by the government of the District of Columbia, whose pay is fixed at a daily or hourly rate, or on a piece-work basis, is relieved or prevented from working on a day—
+    When a regular employee as defined by [section 2105 of this title][/us/usc/t5/s2105] or an individual employed regularly by the government of the District of Columbia, whose pay is fixed at a daily or hourly rate, or on a piece-work basis, is relieved or prevented from working on a day—
 
     (1) on which agencies are closed by Executive order, or, for individuals employed by the government of the District of Columbia, by order of the Mayor;
 
@@ -23,7 +23,7 @@ When a regular employee as defined by [section 2105 of this title][/us/usc/t5/s2
 
     (3) solely because of the occurrence of a legal public holiday under [section 6103 of this title][/us/usc/t5/s6103], or a day declared a holiday by Federal statute, Executive order, or, for individuals employed by the government of the District of Columbia, by order of the Mayor;
 
-        he is entitled to the same pay for that day as for a day on which an ordinary day’s work is performed.
+    he is entitled to the same pay for that day as for a day on which an ordinary day’s work is performed.
 
 ([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 516][/us/stat/80/516]; [Pub. L. 90–623, § 1(15)][/us/pl/90/623/s1/15], Oct. 22, 1968, [82 Stat. 1313][/us/stat/82/1313]; [Pub. L. 96–54, § 2(a)(38)][/us/pl/96/54/s2/a/38], Aug. 14, 1979, [93 Stat. 383][/us/stat/93/383].)
 

@@ -719,13 +719,15 @@ Section 1. Ethics Pledge. Every appointee in every executive agency appointed on
 
 >     (b) participate in the specific issue area in which that particular matter falls; or
 
->     (c) seek or accept employment with any executive agency that I lobbied within the 2 years before the date of my appointment.    “4. Revolving Door Ban—Appointees Leaving Government. If, upon my departure from the Government, I am covered by the post-employment restrictions on communicating with employees of my former executive agency set forth in [section 207(c) of title 18][/us/usc/t18/s207/c], United States Code, I agree that I will abide by those restrictions for a period of 2 years following the end of my appointment.
+>     (c) seek or accept employment with any executive agency that I lobbied within the 2 years before the date of my appointment.
 
->         “5. Revolving Door Ban—Appointees Leaving Government to Lobby. In addition to abiding by the limitations of paragraph 4, I also agree, upon leaving Government service, not to lobby any covered executive branch official or non-career Senior Executive Service appointee for the remainder of the Administration.
+>     “4. Revolving Door Ban—Appointees Leaving Government. If, upon my departure from the Government, I am covered by the post-employment restrictions on communicating with employees of my former executive agency set forth in [section 207(c) of title 18][/us/usc/t18/s207/c], United States Code, I agree that I will abide by those restrictions for a period of 2 years following the end of my appointment.
 
->         “6. Employment Qualification Commitment. I agree that any hiring or other employment decisions I make will be based on the candidate’s qualifications, competence, and experience.
+>     “5. Revolving Door Ban—Appointees Leaving Government to Lobby. In addition to abiding by the limitations of paragraph 4, I also agree, upon leaving Government service, not to lobby any covered executive branch official or non-career Senior Executive Service appointee for the remainder of the Administration.
 
->         “7. Assent to Enforcement. I acknowledge that the Executive Order entitled ‘Ethics Commitments by Executive Branch Personnel,’ issued by the President on January 21, 2009, which I have read before signing this document, defines certain of the terms applicable to the foregoing obligations and sets forth the methods for enforcing them. I expressly accept the provisions of that Executive Order as a part of this agreement and as binding on me. I understand that the terms of this pledge are in addition to any statutory or other legal restrictions applicable to me by virtue of Federal Government service.”
+>     “6. Employment Qualification Commitment. I agree that any hiring or other employment decisions I make will be based on the candidate’s qualifications, competence, and experience.
+
+>     “7. Assent to Enforcement. I acknowledge that the Executive Order entitled ‘Ethics Commitments by Executive Branch Personnel,’ issued by the President on January 21, 2009, which I have read before signing this document, defines certain of the terms applicable to the foregoing obligations and sets forth the methods for enforcing them. I expressly accept the provisions of that Executive Order as a part of this agreement and as binding on me. I understand that the terms of this pledge are in addition to any statutory or other legal restrictions applicable to me by virtue of Federal Government service.”
 
     Sec. 2. Definitions. As used herein and in the pledge set forth in section 1 of this order:
 

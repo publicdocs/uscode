@@ -15,7 +15,7 @@
 
 ## § 578. Authority of the arbitrator
 
-An arbitrator to whom a dispute is referred under this subchapter may—
+    An arbitrator to whom a dispute is referred under this subchapter may—
 
     (1) regulate the course of and conduct arbitral hearings;
 

@@ -33,7 +33,7 @@ SUBCHAPTER I—EMPLOYMENT AUTHORITIES  </td>
 
   <tr>
 
-    <td> 3101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3101" data-uslm-ref="/us/usc/t5/s3101">3101.</a>  </td>
 
     <td> General authority to employ.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—EMPLOYMENT AUTHORITIES  </td>
 
   <tr>
 
-    <td> 3102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3102" data-uslm-ref="/us/usc/t5/s3102">3102.</a>  </td>
 
     <td> Employment of personal assistants for handicapped employees, including blind and deaf employees.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—EMPLOYMENT AUTHORITIES  </td>
 
   <tr>
 
-    <td> 3103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3103" data-uslm-ref="/us/usc/t5/s3103">3103.</a>  </td>
 
     <td> Employment at seat of Government only for services rendered.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—EMPLOYMENT AUTHORITIES  </td>
 
   <tr>
 
-    <td> 3104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3104" data-uslm-ref="/us/usc/t5/s3104">3104.</a>  </td>
 
     <td> Employment of specially qualified scientific and professional personnel.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—EMPLOYMENT AUTHORITIES  </td>
 
   <tr>
 
-    <td> 3105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3105" data-uslm-ref="/us/usc/t5/s3105">3105.</a>  </td>
 
     <td> Appointment of administrative law judges.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—EMPLOYMENT AUTHORITIES  </td>
 
   <tr>
 
-    <td> 3106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3106" data-uslm-ref="/us/usc/t5/s3106">3106.</a>  </td>
 
     <td> Employment of attorneys; restrictions.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—EMPLOYMENT AUTHORITIES  </td>
 
   <tr>
 
-    <td> 3107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3107" data-uslm-ref="/us/usc/t5/s3107">3107.</a>  </td>
 
     <td> Employment of publicity experts; restrictions.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—EMPLOYMENT AUTHORITIES  </td>
 
   <tr>
 
-    <td> 3108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3108" data-uslm-ref="/us/usc/t5/s3108">3108.</a>  </td>
 
     <td> Employment of detective agencies; restrictions.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—EMPLOYMENT AUTHORITIES  </td>
 
   <tr>
 
-    <td> 3109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3109" data-uslm-ref="/us/usc/t5/s3109">3109.</a>  </td>
 
     <td> Employment of experts and consultants; temporary or intermittent.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—EMPLOYMENT AUTHORITIES  </td>
 
   <tr>
 
-    <td> 3110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3110" data-uslm-ref="/us/usc/t5/s3110">3110.</a>  </td>
 
     <td> Employment of relatives; restrictions.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—EMPLOYMENT AUTHORITIES  </td>
 
   <tr>
 
-    <td> 3111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3111" data-uslm-ref="/us/usc/t5/s3111">3111.</a>  </td>
 
     <td> Acceptance of volunteer service.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—EMPLOYMENT AUTHORITIES  </td>
 
   <tr>
 
-    <td> 3111a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3111a" data-uslm-ref="/us/usc/t5/s3111a">3111a.</a>  </td>
 
     <td> Federal internship programs.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—EMPLOYMENT AUTHORITIES  </td>
 
   <tr>
 
-    <td> 3112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3112" data-uslm-ref="/us/usc/t5/s3112">3112.</a>  </td>
 
     <td> Disabled veterans; noncompetitive appointment.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—EMPLOYMENT AUTHORITIES  </td>
 
   <tr>
 
-    <td> 3113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3113" data-uslm-ref="/us/usc/t5/s3113">3113.</a>  </td>
 
     <td> Restriction on reemployment after conviction of certain crimes.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—EMPLOYMENT AUTHORITIES  </td>
 
   <tr>
 
-    <td> 3114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3114" data-uslm-ref="/us/usc/t5/s3114">3114.</a>  </td>
 
     <td> Appointment of candidates to positions in the competitive service by the Securities and Exchange Commission. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—THE SENIOR EXECUTIVE SERVICE  </td>
 
   <tr>
 
-    <td> 3131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3131" data-uslm-ref="/us/usc/t5/s3131">3131.</a>  </td>
 
     <td> The Senior Executive Service.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—THE SENIOR EXECUTIVE SERVICE  </td>
 
   <tr>
 
-    <td> 3132.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3132" data-uslm-ref="/us/usc/t5/s3132">3132.</a>  </td>
 
     <td> Definitions and exclusions.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—THE SENIOR EXECUTIVE SERVICE  </td>
 
   <tr>
 
-    <td> 3133.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3133" data-uslm-ref="/us/usc/t5/s3133">3133.</a>  </td>
 
     <td> Authorization of positions; authority for appointment.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—THE SENIOR EXECUTIVE SERVICE  </td>
 
   <tr>
 
-    <td> 3134.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3134" data-uslm-ref="/us/usc/t5/s3134">3134.</a>  </td>
 
     <td> Limitations on noncareer and limited appointments.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—THE SENIOR EXECUTIVE SERVICE  </td>
 
   <tr>
 
-    <td> [3135.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3135" data-uslm-ref="/us/usc/t5/s3135">3135.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—THE SENIOR EXECUTIVE SERVICE  </td>
 
   <tr>
 
-    <td> 3136.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3136" data-uslm-ref="/us/usc/t5/s3136">3136.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER III—THE FEDERAL BUREAU OF INVESTIGATION AND DRUG ENFORCEMENT ADMINI
 
   <tr>
 
-    <td> 3151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3151" data-uslm-ref="/us/usc/t5/s3151">3151.</a>  </td>
 
     <td> The Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER III—THE FEDERAL BUREAU OF INVESTIGATION AND DRUG ENFORCEMENT ADMINI
 
   <tr>
 
-    <td> 3152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3152" data-uslm-ref="/us/usc/t5/s3152">3152.</a>  </td>
 
     <td> Limitation on pay.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER IV—TEMPORARY ORGANIZATIONS ESTABLISHED BY LAW OR EXECUTIVE ORDER  <
 
   <tr>
 
-    <td> 3161.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3161" data-uslm-ref="/us/usc/t5/s3161">3161.</a>  </td>
 
     <td> Employment and compensation of employees.  </td>
 

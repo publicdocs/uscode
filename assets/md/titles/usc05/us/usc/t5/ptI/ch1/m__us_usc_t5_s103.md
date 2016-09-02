@@ -15,7 +15,7 @@
 
 ## § 103. Government corporation
 
-For the purpose of this title—
+    For the purpose of this title—
 
     (1) “Government corporation” means a corporation owned or controlled by the Government of the United States; and
 

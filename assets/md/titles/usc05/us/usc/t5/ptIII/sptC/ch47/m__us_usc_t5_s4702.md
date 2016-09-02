@@ -15,7 +15,7 @@
 
 ## § 4702. Research programs
 
-The Office of Personnel Management shall—
+    The Office of Personnel Management shall—
 
     (1) establish and maintain (and assist in the establishment and maintenance of) research programs to study improved methods and technologies in Federal personnel management;
 

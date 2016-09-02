@@ -1,7 +1,7 @@
 ---
 ---
 
-# 5 U.S.C., USLM ref /us/usc/t5/s5757
+# 5 U.S.C., USLM ref /us/usc/t5/s5757.1
 
 * Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
   Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t5/ptIII/sptD/ch57/schIV/m__us_usc_t5_s5756.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptD/ch57/schIV/m__us_usc_t5_s5757^extra.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5757)
+[Previous](./../../../../../../..//us/usc/t5/ptIII/sptD/ch57/schIV/m__us_usc_t5_s5756.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptD/ch57/schIV/m__us_usc_t5_s5757.1^extra.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5757.1)
 
 ## § 5757. <sup>\[1\]</sup>  <sup><sup> 1 Another section 5757 is set out after this section. </sup></sup>  Payment of expenses to obtain professional credentials
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t5/ptIII/sptD/ch57/schIV/m__us_usc_t5_s5756.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptD/ch57/schIV/m__us_usc_t5_s5757^extra.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5757)
+[Previous](./../../../../../../..//us/usc/t5/ptIII/sptD/ch57/schIV/m__us_usc_t5_s5756.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptD/ch57/schIV/m__us_usc_t5_s5757.1^extra.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5757.1)
 
 ----------
 ----------

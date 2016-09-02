@@ -33,7 +33,7 @@ SUBCHAPTER I—TRAVEL AND SUBSISTENCE EXPENSES; MILEAGE ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5701" data-uslm-ref="/us/usc/t5/s5701">5701.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—TRAVEL AND SUBSISTENCE EXPENSES; MILEAGE ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5702" data-uslm-ref="/us/usc/t5/s5702">5702.</a>  </td>
 
     <td> Per diem; employees traveling on official business.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—TRAVEL AND SUBSISTENCE EXPENSES; MILEAGE ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5703" data-uslm-ref="/us/usc/t5/s5703">5703.</a>  </td>
 
     <td> Per diem, travel, and transportation expenses; experts and consultants; individuals serving without pay.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—TRAVEL AND SUBSISTENCE EXPENSES; MILEAGE ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5704" data-uslm-ref="/us/usc/t5/s5704">5704.</a>  </td>
 
     <td> Mileage and related allowances.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—TRAVEL AND SUBSISTENCE EXPENSES; MILEAGE ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5705" data-uslm-ref="/us/usc/t5/s5705">5705.</a>  </td>
 
     <td> Advancements and deductions.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—TRAVEL AND SUBSISTENCE EXPENSES; MILEAGE ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5706" data-uslm-ref="/us/usc/t5/s5706">5706.</a>  </td>
 
     <td> Allowable travel expenses.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—TRAVEL AND SUBSISTENCE EXPENSES; MILEAGE ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5706a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5706a" data-uslm-ref="/us/usc/t5/s5706a">5706a.</a>  </td>
 
     <td> Subsistence and travel expenses for threatened law enforcement personnel.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—TRAVEL AND SUBSISTENCE EXPENSES; MILEAGE ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5706b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5706b" data-uslm-ref="/us/usc/t5/s5706b">5706b.</a>  </td>
 
     <td> Interview expenses.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—TRAVEL AND SUBSISTENCE EXPENSES; MILEAGE ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5706c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5706c" data-uslm-ref="/us/usc/t5/s5706c">5706c.</a>  </td>
 
     <td> Reimbursement for taxes incurred on money received for travel expenses.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—TRAVEL AND SUBSISTENCE EXPENSES; MILEAGE ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5707" data-uslm-ref="/us/usc/t5/s5707">5707.</a>  </td>
 
     <td> Regulations and reports.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—TRAVEL AND SUBSISTENCE EXPENSES; MILEAGE ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5707a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5707a" data-uslm-ref="/us/usc/t5/s5707a">5707a.</a>  </td>
 
     <td> Adherence to fire safety guidelines in establishing rates and discounts for lodging expenses.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—TRAVEL AND SUBSISTENCE EXPENSES; MILEAGE ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5708" data-uslm-ref="/us/usc/t5/s5708">5708.</a>  </td>
 
     <td> Effect on other statutes.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—TRAVEL AND SUBSISTENCE EXPENSES; MILEAGE ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5709" data-uslm-ref="/us/usc/t5/s5709">5709.</a>  </td>
 
     <td> Air evacuation patients: furnished subsistence.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—TRAVEL AND SUBSISTENCE EXPENSES; MILEAGE ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5710" data-uslm-ref="/us/usc/t5/s5710">5710.</a>  </td>
 
     <td> Authority for travel expenses test programs.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—TRAVEL AND SUBSISTENCE EXPENSES; MILEAGE ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5711" data-uslm-ref="/us/usc/t5/s5711">5711.</a>  </td>
 
     <td> Authority for telework travel expenses test programs.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—TRAVEL AND TRANSPORTATION EXPENSES; NEW APPOINTEES, STUDENT TRAI
 
   <tr>
 
-    <td> 5721.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5721" data-uslm-ref="/us/usc/t5/s5721">5721.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—TRAVEL AND TRANSPORTATION EXPENSES; NEW APPOINTEES, STUDENT TRAI
 
   <tr>
 
-    <td> 5722.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5722" data-uslm-ref="/us/usc/t5/s5722">5722.</a>  </td>
 
     <td> Travel and transportation expenses of new appointees; posts of duty outside the continental United States.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—TRAVEL AND TRANSPORTATION EXPENSES; NEW APPOINTEES, STUDENT TRAI
 
   <tr>
 
-    <td> 5723.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5723" data-uslm-ref="/us/usc/t5/s5723">5723.</a>  </td>
 
     <td> Travel and transportation expenses of new appointees and student trainees.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—TRAVEL AND TRANSPORTATION EXPENSES; NEW APPOINTEES, STUDENT TRAI
 
   <tr>
 
-    <td> 5724.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5724" data-uslm-ref="/us/usc/t5/s5724">5724.</a>  </td>
 
     <td> Travel and transportation expenses of employees transferred; advancement of funds; reimbursement on commuted basis.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—TRAVEL AND TRANSPORTATION EXPENSES; NEW APPOINTEES, STUDENT TRAI
 
   <tr>
 
-    <td> 5724a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5724a" data-uslm-ref="/us/usc/t5/s5724a">5724a.</a>  </td>
 
     <td> Relocation expenses of employees transferred or reemployed.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—TRAVEL AND TRANSPORTATION EXPENSES; NEW APPOINTEES, STUDENT TRAI
 
   <tr>
 
-    <td> 5724b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5724b" data-uslm-ref="/us/usc/t5/s5724b">5724b.</a>  </td>
 
     <td> Taxes on reimbursements for travel, transportation, and relocation expenses of employees transferred.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER II—TRAVEL AND TRANSPORTATION EXPENSES; NEW APPOINTEES, STUDENT TRAI
 
   <tr>
 
-    <td> 5724c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5724c" data-uslm-ref="/us/usc/t5/s5724c">5724c.</a>  </td>
 
     <td> Relocation services.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER II—TRAVEL AND TRANSPORTATION EXPENSES; NEW APPOINTEES, STUDENT TRAI
 
   <tr>
 
-    <td> 5724d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5724d" data-uslm-ref="/us/usc/t5/s5724d">5724d.</a>  </td>
 
     <td> Transportation and moving expenses for immediate family of certain deceased Federal employees.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER II—TRAVEL AND TRANSPORTATION EXPENSES; NEW APPOINTEES, STUDENT TRAI
 
   <tr>
 
-    <td> 5725.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5725" data-uslm-ref="/us/usc/t5/s5725">5725.</a>  </td>
 
     <td> Transportation expenses; employees assigned to danger areas.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER II—TRAVEL AND TRANSPORTATION EXPENSES; NEW APPOINTEES, STUDENT TRAI
 
   <tr>
 
-    <td> 5726.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5726" data-uslm-ref="/us/usc/t5/s5726">5726.</a>  </td>
 
     <td> Storage expenses; household goods and personal effects.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER II—TRAVEL AND TRANSPORTATION EXPENSES; NEW APPOINTEES, STUDENT TRAI
 
   <tr>
 
-    <td> 5727.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5727" data-uslm-ref="/us/usc/t5/s5727">5727.</a>  </td>
 
     <td> Transportation of motor vehicles.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER II—TRAVEL AND TRANSPORTATION EXPENSES; NEW APPOINTEES, STUDENT TRAI
 
   <tr>
 
-    <td> 5728.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5728" data-uslm-ref="/us/usc/t5/s5728">5728.</a>  </td>
 
     <td> Travel and transportation expenses; vacation leave.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER II—TRAVEL AND TRANSPORTATION EXPENSES; NEW APPOINTEES, STUDENT TRAI
 
   <tr>
 
-    <td> 5729.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5729" data-uslm-ref="/us/usc/t5/s5729">5729.</a>  </td>
 
     <td> Transportation expenses; prior return of family.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER II—TRAVEL AND TRANSPORTATION EXPENSES; NEW APPOINTEES, STUDENT TRAI
 
   <tr>
 
-    <td> 5730.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5730" data-uslm-ref="/us/usc/t5/s5730">5730.</a>  </td>
 
     <td> Funds available.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER II—TRAVEL AND TRANSPORTATION EXPENSES; NEW APPOINTEES, STUDENT TRAI
 
   <tr>
 
-    <td> 5731.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5731" data-uslm-ref="/us/usc/t5/s5731">5731.</a>  </td>
 
     <td> Expenses limited to lowest first-class rate.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER II—TRAVEL AND TRANSPORTATION EXPENSES; NEW APPOINTEES, STUDENT TRAI
 
   <tr>
 
-    <td> 5732.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5732" data-uslm-ref="/us/usc/t5/s5732">5732.</a>  </td>
 
     <td> General average contribution; payment or reimbursement.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER II—TRAVEL AND TRANSPORTATION EXPENSES; NEW APPOINTEES, STUDENT TRAI
 
   <tr>
 
-    <td> 5733.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5733" data-uslm-ref="/us/usc/t5/s5733">5733.</a>  </td>
 
     <td> Expeditious travel.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER II—TRAVEL AND TRANSPORTATION EXPENSES; NEW APPOINTEES, STUDENT TRAI
 
   <tr>
 
-    <td> 5734.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5734" data-uslm-ref="/us/usc/t5/s5734">5734.</a>  </td>
 
     <td> Travel, transportation, and relocation expenses of employees transferred from the Postal Service.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER II—TRAVEL AND TRANSPORTATION EXPENSES; NEW APPOINTEES, STUDENT TRAI
 
   <tr>
 
-    <td> 5735.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5735" data-uslm-ref="/us/usc/t5/s5735">5735.</a>  </td>
 
     <td> Travel, transportation, and relocation expenses of employees transferring to the United States Postal Service.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER II—TRAVEL AND TRANSPORTATION EXPENSES; NEW APPOINTEES, STUDENT TRAI
 
   <tr>
 
-    <td> 5736.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5736" data-uslm-ref="/us/usc/t5/s5736">5736.</a>  </td>
 
     <td> Travel, transportation, and relocation expenses of certain nonappropriated fund employees.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER II—TRAVEL AND TRANSPORTATION EXPENSES; NEW APPOINTEES, STUDENT TRAI
 
   <tr>
 
-    <td> 5737.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5737" data-uslm-ref="/us/usc/t5/s5737">5737.</a>  </td>
 
     <td> Relocation expenses of an employee who is performing an extended assignment.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER II—TRAVEL AND TRANSPORTATION EXPENSES; NEW APPOINTEES, STUDENT TRAI
 
   <tr>
 
-    <td> 5737a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5737a" data-uslm-ref="/us/usc/t5/s5737a">5737a.</a>  </td>
 
     <td> Employees temporarily deployed in contingency operations.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER II—TRAVEL AND TRANSPORTATION EXPENSES; NEW APPOINTEES, STUDENT TRAI
 
   <tr>
 
-    <td> 5738.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5738" data-uslm-ref="/us/usc/t5/s5738">5738.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER II—TRAVEL AND TRANSPORTATION EXPENSES; NEW APPOINTEES, STUDENT TRAI
 
   <tr>
 
-    <td> 5739.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5739" data-uslm-ref="/us/usc/t5/s5739">5739.</a>  </td>
 
     <td> Authority for relocation expenses test programs.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER III—TRANSPORTATION OF REMAINS, DEPENDENTS, AND EFFECTS  </td>
 
   <tr>
 
-    <td> 5741.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5741" data-uslm-ref="/us/usc/t5/s5741">5741.</a>  </td>
 
     <td> General prohibition.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER III—TRANSPORTATION OF REMAINS, DEPENDENTS, AND EFFECTS  </td>
 
   <tr>
 
-    <td> 5742.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5742" data-uslm-ref="/us/usc/t5/s5742">5742.</a>  </td>
 
     <td> Transportation of remains, dependents, and effects; death occurring away from official station or abroad.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER IV—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 5751.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5751" data-uslm-ref="/us/usc/t5/s5751">5751.</a>  </td>
 
     <td> Travel expenses of witnesses.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER IV—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 5752.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5752" data-uslm-ref="/us/usc/t5/s5752">5752.</a>  </td>
 
     <td> Travel expenses of Senior Executive Service candidates.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER IV—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 5753.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5753" data-uslm-ref="/us/usc/t5/s5753">5753.</a>  </td>
 
     <td> Recruitment and relocation bonuses.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER IV—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 5754.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5754" data-uslm-ref="/us/usc/t5/s5754">5754.</a>  </td>
 
     <td> Retention bonuses.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER IV—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 5755.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5755" data-uslm-ref="/us/usc/t5/s5755">5755.</a>  </td>
 
     <td> Supervisory differentials.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER IV—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 5756.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5756" data-uslm-ref="/us/usc/t5/s5756">5756.</a>  </td>
 
     <td> Home marketing incentive payment.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER IV—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 5757. <sup>[1]</sup>  <sup><sup> 1 So in original. Two sections 5757 have been enacted. </sup></sup>   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5757" data-uslm-ref="/us/usc/t5/s5757">5757.</a> <sup>[1]</sup>  <sup><sup> 1 So in original. Two sections 5757 have been enacted. </sup></sup>   </td>
 
     <td> Payment of expenses to obtain professional credentials.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER IV—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 5757. <sup>[1]</sup>   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5757" data-uslm-ref="/us/usc/t5/s5757">5757.</a> <sup>[1]</sup>   </td>
 
     <td> Extended assignment incentive.  </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER IV—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 5759.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5759" data-uslm-ref="/us/usc/t5/s5759">5759.</a>  </td>
 
     <td> Retention and relocation bonuses for the Federal Bureau of Investigation.  </td>
 
@@ -457,7 +457,7 @@ SUBCHAPTER IV—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 5760.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5760" data-uslm-ref="/us/usc/t5/s5760">5760.</a>  </td>
 
     <td> Travel and transportation allowances: transportation of family members incident to the repatriation of employees held captive.  </td>
 
@@ -465,7 +465,7 @@ SUBCHAPTER IV—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 5761.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5761" data-uslm-ref="/us/usc/t5/s5761">5761.</a>  </td>
 
     <td> Foreign language proficiency pay awards for the Federal Bureau of Investigation.  </td>
 

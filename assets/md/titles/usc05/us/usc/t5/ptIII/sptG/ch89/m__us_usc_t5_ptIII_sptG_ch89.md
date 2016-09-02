@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8901" data-uslm-ref="/us/usc/t5/s8901">8901.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8902" data-uslm-ref="/us/usc/t5/s8902">8902.</a>  </td>
 
     <td> Contracting authority.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 8902a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8902a" data-uslm-ref="/us/usc/t5/s8902a">8902a.</a>  </td>
 
     <td> Debarment and other sanctions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 8903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8903" data-uslm-ref="/us/usc/t5/s8903">8903.</a>  </td>
 
     <td> Health benefits plans.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 8903a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8903a" data-uslm-ref="/us/usc/t5/s8903a">8903a.</a>  </td>
 
     <td> Additional health benefits plans.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 8903b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8903b" data-uslm-ref="/us/usc/t5/s8903b">8903b.</a>  </td>
 
     <td> Authority to readmit an employee organization plan.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 8904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8904" data-uslm-ref="/us/usc/t5/s8904">8904.</a>  </td>
 
     <td> Types of benefits.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 8905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8905" data-uslm-ref="/us/usc/t5/s8905">8905.</a>  </td>
 
     <td> Election of coverage.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 8905a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8905a" data-uslm-ref="/us/usc/t5/s8905a">8905a.</a>  </td>
 
     <td> Continued coverage.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 8906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8906" data-uslm-ref="/us/usc/t5/s8906">8906.</a>  </td>
 
     <td> Contributions.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 8906a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8906a" data-uslm-ref="/us/usc/t5/s8906a">8906a.</a>  </td>
 
     <td> Temporary employees.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 8907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8907" data-uslm-ref="/us/usc/t5/s8907">8907.</a>  </td>
 
     <td> Information to individuals eligible to enroll.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 8908.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8908" data-uslm-ref="/us/usc/t5/s8908">8908.</a>  </td>
 
     <td> Coverage of restored employees and survivor or disability annuitants.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 8909.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8909" data-uslm-ref="/us/usc/t5/s8909">8909.</a>  </td>
 
     <td> Employees Health Benefits Fund.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 8909a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8909a" data-uslm-ref="/us/usc/t5/s8909a">8909a.</a>  </td>
 
     <td> Postal Service Retiree Health Benefits Fund. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 8910.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8910" data-uslm-ref="/us/usc/t5/s8910">8910.</a>  </td>
 
     <td> Studies, reports, and audits.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 8911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8911" data-uslm-ref="/us/usc/t5/s8911">8911.</a>  </td>
 
     <td> Advisory committee.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 8912.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8912" data-uslm-ref="/us/usc/t5/s8912">8912.</a>  </td>
 
     <td> Jurisdiction of courts.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 8913.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8913" data-uslm-ref="/us/usc/t5/s8913">8913.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 8914.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8914" data-uslm-ref="/us/usc/t5/s8914">8914.</a>  </td>
 
     <td> Effect of other statutes.  </td>
 

@@ -807,7 +807,7 @@ Section 101(f) \[title VI, § 633(b)\] of [Pub. L. 104–208][/us/pl/104/208] 
 
 >     “(2) October 1, 1978,
 
->         whichever date is later.”
+>     whichever date is later.”
 
  __Effective Date of 1978 Amendment; Survivor Annuities Subject to Reduction, Etc.__ 
 
@@ -899,17 +899,15 @@ Section 101(f) \[title VI, § 633(b)\] of [Pub. L. 104–208][/us/pl/104/208] 
 
 >     “(2) who shall have remarried on or after such date; and
 
->     “(3)
+>     “(3) who, immediately before such remarriage, was receiving annuity from the Civil Service Retirement and Disability Fund;
 
->      who, immediately before such remarriage, was receiving annuity from the Civil Service Retirement and Disability Fund;
+>     except that no annuity shall be paid by reason of this section for any period prior to the enactment of this section. No annuity shall be terminated solely by reason of the enactment of this section. Notwithstanding the prohibition contained in the first sentence of this section on the payment of annuity for any period prior to the enactment of this section, in any case in which the Civil Service Commission determines that—
 
->         except that no annuity shall be paid by reason of this section for any period prior to the enactment of this section. No annuity shall be terminated solely by reason of the enactment of this section. Notwithstanding the prohibition contained in the first sentence of this section on the payment of annuity for any period prior to the enactment of this section, in any case in which the Civil Service Commission determines that—
+>     “(1) the remarriage of any widow or widower described in such sentence was entered into by the widow or widower in good faith and in reliance on erroneous information provided by Government authority prior to that remarriage that the then existing survivor annuity of the widow or widower would not be terminated because of the remarriage; and
 
->         “(1) the remarriage of any widow or widower described in such sentence was entered into by the widow or widower in good faith and in reliance on erroneous information provided by Government authority prior to that remarriage that the then existing survivor annuity of the widow or widower would not be terminated because of the remarriage; and
+>     “(2) such annuity was terminated by law because of that remarriage;
 
->         “(2) such annuity was terminated by law because of that remarriage;
-
->         then payment of annuity may be made by reason of this section in such case, beginning as of the effective date of the termination because of the remarriage.”
+>     then payment of annuity may be made by reason of this section in such case, beginning as of the effective date of the termination because of the remarriage.”
 
 ----------
 

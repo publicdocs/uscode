@@ -15,13 +15,13 @@
 
 ## § 8172. Employees not citizens or residents of the United States
 
-In case of disability or death resulting from injury, as defined by section 2(2) of the Longshore and Harbor Workers’ Compensation Act ([33 U.S.C. 902(2)][/us/usc/t33/s902/2]), occurring to an employee of a nonappropriated fund instrumentality described by [section 2105(c) of this title][/us/usc/t5/s2105/c] who is—
+    In case of disability or death resulting from injury, as defined by section 2(2) of the Longshore and Harbor Workers’ Compensation Act ([33 U.S.C. 902(2)][/us/usc/t33/s902/2]), occurring to an employee of a nonappropriated fund instrumentality described by [section 2105(c) of this title][/us/usc/t5/s2105/c] who is—
 
     (1) not a citizen or permanent resident of the United States or a territory or possession of the United States; and
 
     (2) employed outside the continental United States;
 
-        compensation shall be provided in accordance with regulations prescribed by the Secretary of the military department concerned and approved by the Secretary of Defense or regulations prescribed by the Secretary of Transportation, as the case may be.
+    compensation shall be provided in accordance with regulations prescribed by the Secretary of the military department concerned and approved by the Secretary of Defense or regulations prescribed by the Secretary of Transportation, as the case may be.
 
 ([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 556][/us/stat/80/556]; [Pub. L. 103–272, § 4(b)(3)][/us/pl/103/272/s4/b/3], July 5, 1994, [108 Stat. 1361][/us/stat/108/1361]; [Pub. L. 103–337, div. A, title X, § 1070(d)(8)(B)][/us/pl/103/337/s1070/d/8/B], Oct. 5, 1994, [108 Stat. 2859][/us/stat/108/2859]; [Pub. L. 104–106, div. A, title XV, § 1505(b)(2)][/us/pl/104/106/s1505/b/2], Feb. 10, 1996, [110 Stat. 514][/us/stat/110/514].)
 

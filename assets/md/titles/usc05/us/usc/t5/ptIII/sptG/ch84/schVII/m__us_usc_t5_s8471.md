@@ -15,7 +15,7 @@
 
 ## § 8471. Definitions
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (1) the term “beneficiary” means an individual (other than a participant) entitled to payment from the Thrift Savings Fund under subchapter III of this chapter;
 

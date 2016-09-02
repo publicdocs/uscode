@@ -15,7 +15,7 @@
 
 ## § 10101. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) the term “Agency” means the Federal Emergency Management Agency;
 

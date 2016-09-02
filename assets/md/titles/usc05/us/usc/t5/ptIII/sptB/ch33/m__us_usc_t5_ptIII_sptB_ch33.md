@@ -33,7 +33,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3301" data-uslm-ref="/us/usc/t5/s3301">3301.</a>  </td>
 
     <td> Civil service; generally.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3302" data-uslm-ref="/us/usc/t5/s3302">3302.</a>  </td>
 
     <td> Competitive service; rules.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3303" data-uslm-ref="/us/usc/t5/s3303">3303.</a>  </td>
 
     <td> Competitive service; recommendations of Senators or Representatives.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3304" data-uslm-ref="/us/usc/t5/s3304">3304.</a>  </td>
 
     <td> Competitive service; examinations.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3304a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3304a" data-uslm-ref="/us/usc/t5/s3304a">3304a.</a>  </td>
 
     <td> Competitive service; career appointment after 3 years’ temporary service.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3305" data-uslm-ref="/us/usc/t5/s3305">3305.</a>  </td>
 
     <td> Competitive service; examinations; when held.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> [3306.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3306" data-uslm-ref="/us/usc/t5/s3306">3306.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3307" data-uslm-ref="/us/usc/t5/s3307">3307.</a>  </td>
 
     <td> Competitive service; maximum-age entrance requirements; exceptions.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3308" data-uslm-ref="/us/usc/t5/s3308">3308.</a>  </td>
 
     <td> Competitive service; examinations; educational requirements prohibited; exceptions.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3309" data-uslm-ref="/us/usc/t5/s3309">3309.</a>  </td>
 
     <td> Preference eligibles; examinations; additional points for.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3310" data-uslm-ref="/us/usc/t5/s3310">3310.</a>  </td>
 
     <td> Preference eligibles; examinations; guards, elevator operators, messengers, and custodians.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3311" data-uslm-ref="/us/usc/t5/s3311">3311.</a>  </td>
 
     <td> Preference eligibles; examinations; crediting experience.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3312" data-uslm-ref="/us/usc/t5/s3312">3312.</a>  </td>
 
     <td> Preference eligibles; physical qualifications; waiver.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3313" data-uslm-ref="/us/usc/t5/s3313">3313.</a>  </td>
 
     <td> Competitive service; registers of eligibles.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3314" data-uslm-ref="/us/usc/t5/s3314">3314.</a>  </td>
 
     <td> Registers; preference eligibles who resigned.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3315" data-uslm-ref="/us/usc/t5/s3315">3315.</a>  </td>
 
     <td> Registers; preference eligibles furloughed or separated.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> [3315a.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3315a" data-uslm-ref="/us/usc/t5/s3315a">3315a.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3316" data-uslm-ref="/us/usc/t5/s3316">3316.</a>  </td>
 
     <td> Preference eligibles; reinstatement.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3317" data-uslm-ref="/us/usc/t5/s3317">3317.</a>  </td>
 
     <td> Competitive service; certification from registers.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3318.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3318" data-uslm-ref="/us/usc/t5/s3318">3318.</a>  </td>
 
     <td> Competitive service; selection from certificates.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3319.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3319" data-uslm-ref="/us/usc/t5/s3319">3319.</a>  </td>
 
     <td> Alternative ranking and selection procedures.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3320.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3320" data-uslm-ref="/us/usc/t5/s3320">3320.</a>  </td>
 
     <td> Excepted service; government of the District of Columbia; selection.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3321" data-uslm-ref="/us/usc/t5/s3321">3321.</a>  </td>
 
     <td> Competitive service; probationary period.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> [3322.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3322" data-uslm-ref="/us/usc/t5/s3322">3322.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3323" data-uslm-ref="/us/usc/t5/s3323">3323.</a>  </td>
 
     <td> Automatic separations; reappointment; reemployment of annuitants.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3324" data-uslm-ref="/us/usc/t5/s3324">3324.</a>  </td>
 
     <td> Appointments to positions classified above GS–15.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3325" data-uslm-ref="/us/usc/t5/s3325">3325.</a>  </td>
 
     <td> Appointments to scientific and professional positions.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3326.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3326" data-uslm-ref="/us/usc/t5/s3326">3326.</a>  </td>
 
     <td> Appointments of retired members of the armed forces to positions in the Department of Defense.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3327.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3327" data-uslm-ref="/us/usc/t5/s3327">3327.</a>  </td>
 
     <td> Civil service employment information.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3328.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3328" data-uslm-ref="/us/usc/t5/s3328">3328.</a>  </td>
 
     <td> Selective Service registration.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3329.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3329" data-uslm-ref="/us/usc/t5/s3329">3329.</a>  </td>
 
     <td> Appointments of military reserve technicians to positions in the competitive service.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3330.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3330" data-uslm-ref="/us/usc/t5/s3330">3330.</a>  </td>
 
     <td> Government-wide list of vacant positions.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3330a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3330a" data-uslm-ref="/us/usc/t5/s3330a">3330a.</a>  </td>
 
     <td> Preference eligibles; administrative redress.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3330b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3330b" data-uslm-ref="/us/usc/t5/s3330b">3330b.</a>  </td>
 
     <td> Preference eligibles; judicial redress.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3330c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3330c" data-uslm-ref="/us/usc/t5/s3330c">3330c.</a>  </td>
 
     <td> Preference eligibles; remedy.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT  </td>
 
   <tr>
 
-    <td> 3330d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3330d" data-uslm-ref="/us/usc/t5/s3330d">3330d.</a>  </td>
 
     <td> Appointment of certain military spouses.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER II—OATH OF OFFICE  </td>
 
   <tr>
 
-    <td> 3331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3331" data-uslm-ref="/us/usc/t5/s3331">3331.</a>  </td>
 
     <td> Oath of office.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER II—OATH OF OFFICE  </td>
 
   <tr>
 
-    <td> 3332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3332" data-uslm-ref="/us/usc/t5/s3332">3332.</a>  </td>
 
     <td> Officer affidavit; no consideration paid for appointment.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER II—OATH OF OFFICE  </td>
 
   <tr>
 
-    <td> 3333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3333" data-uslm-ref="/us/usc/t5/s3333">3333.</a>  </td>
 
     <td> Employee affidavit; loyalty and striking against the Government.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER III—DETAILS, VACANCIES, AND APPOINTMENTS  </td>
 
   <tr>
 
-    <td> 3341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3341" data-uslm-ref="/us/usc/t5/s3341">3341.</a>  </td>
 
     <td> Details; within Executive or military departments.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER III—DETAILS, VACANCIES, AND APPOINTMENTS  </td>
 
   <tr>
 
-    <td> [3342.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3342" data-uslm-ref="/us/usc/t5/s3342">3342.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER III—DETAILS, VACANCIES, AND APPOINTMENTS  </td>
 
   <tr>
 
-    <td> 3343.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3343" data-uslm-ref="/us/usc/t5/s3343">3343.</a>  </td>
 
     <td> Details; to international organizations.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER III—DETAILS, VACANCIES, AND APPOINTMENTS  </td>
 
   <tr>
 
-    <td> 3344.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3344" data-uslm-ref="/us/usc/t5/s3344">3344.</a>  </td>
 
     <td> Details; administrative law judges.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER III—DETAILS, VACANCIES, AND APPOINTMENTS  </td>
 
   <tr>
 
-    <td> 3345.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3345" data-uslm-ref="/us/usc/t5/s3345">3345.</a>  </td>
 
     <td> Acting officer.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER III—DETAILS, VACANCIES, AND APPOINTMENTS  </td>
 
   <tr>
 
-    <td> 3346.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3346" data-uslm-ref="/us/usc/t5/s3346">3346.</a>  </td>
 
     <td> Time limitation.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER III—DETAILS, VACANCIES, AND APPOINTMENTS  </td>
 
   <tr>
 
-    <td> 3347.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3347" data-uslm-ref="/us/usc/t5/s3347">3347.</a>  </td>
 
     <td> Exclusivity.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER III—DETAILS, VACANCIES, AND APPOINTMENTS  </td>
 
   <tr>
 
-    <td> 3348.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3348" data-uslm-ref="/us/usc/t5/s3348">3348.</a>  </td>
 
     <td> Vacant office.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER III—DETAILS, VACANCIES, AND APPOINTMENTS  </td>
 
   <tr>
 
-    <td> 3349.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3349" data-uslm-ref="/us/usc/t5/s3349">3349.</a>  </td>
 
     <td> Reporting of vacancies.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER III—DETAILS, VACANCIES, AND APPOINTMENTS  </td>
 
   <tr>
 
-    <td> 3349a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3349a" data-uslm-ref="/us/usc/t5/s3349a">3349a.</a>  </td>
 
     <td> Presidential inaugural transitions.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER III—DETAILS, VACANCIES, AND APPOINTMENTS  </td>
 
   <tr>
 
-    <td> 3349b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3349b" data-uslm-ref="/us/usc/t5/s3349b">3349b.</a>  </td>
 
     <td> Holdover provisions relating to certain independent establishments. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER III—DETAILS, VACANCIES, AND APPOINTMENTS  </td>
 
   <tr>
 
-    <td> 3349c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3349c" data-uslm-ref="/us/usc/t5/s3349c">3349c.</a>  </td>
 
     <td> Exclusion of certain officers.  </td>
 
@@ -457,7 +457,7 @@ SUBCHAPTER III—DETAILS, VACANCIES, AND APPOINTMENTS  </td>
 
   <tr>
 
-    <td> 3349d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3349d" data-uslm-ref="/us/usc/t5/s3349d">3349d.</a>  </td>
 
     <td> Notification of intent to nominate during certain recesses or adjournments.  </td>
 
@@ -473,7 +473,7 @@ SUBCHAPTER IV—TRANSFERS  </td>
 
   <tr>
 
-    <td> 3351.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3351" data-uslm-ref="/us/usc/t5/s3351">3351.</a>  </td>
 
     <td> Preference eligibles; transfer; physical qualifications; waiver.  </td>
 
@@ -481,7 +481,7 @@ SUBCHAPTER IV—TRANSFERS  </td>
 
   <tr>
 
-    <td> 3352.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3352" data-uslm-ref="/us/usc/t5/s3352">3352.</a>  </td>
 
     <td> Preference in transfers for employees making certain disclosures.  </td>
 
@@ -497,7 +497,7 @@ SUBCHAPTER V—PROMOTION  </td>
 
   <tr>
 
-    <td> 3361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3361" data-uslm-ref="/us/usc/t5/s3361">3361.</a>  </td>
 
     <td> Promotion; competitive service; examination.  </td>
 
@@ -505,7 +505,7 @@ SUBCHAPTER V—PROMOTION  </td>
 
   <tr>
 
-    <td> 3362.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3362" data-uslm-ref="/us/usc/t5/s3362">3362.</a>  </td>
 
     <td> Promotion; effect of incentive award.  </td>
 
@@ -513,7 +513,7 @@ SUBCHAPTER V—PROMOTION  </td>
 
   <tr>
 
-    <td> 3363.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3363" data-uslm-ref="/us/usc/t5/s3363">3363.</a>  </td>
 
     <td> Preference eligibles; promotion; physical qualifications; waiver.  </td>
 
@@ -521,7 +521,7 @@ SUBCHAPTER V—PROMOTION  </td>
 
   <tr>
 
-    <td> [3364.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3364" data-uslm-ref="/us/usc/t5/s3364">3364.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -537,7 +537,7 @@ SUBCHAPTER VI—ASSIGNMENTS TO AND FROM STATES  </td>
 
   <tr>
 
-    <td> 3371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3371" data-uslm-ref="/us/usc/t5/s3371">3371.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -545,7 +545,7 @@ SUBCHAPTER VI—ASSIGNMENTS TO AND FROM STATES  </td>
 
   <tr>
 
-    <td> 3372.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3372" data-uslm-ref="/us/usc/t5/s3372">3372.</a>  </td>
 
     <td> General provisions.  </td>
 
@@ -553,7 +553,7 @@ SUBCHAPTER VI—ASSIGNMENTS TO AND FROM STATES  </td>
 
   <tr>
 
-    <td> 3373.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3373" data-uslm-ref="/us/usc/t5/s3373">3373.</a>  </td>
 
     <td> Assignments of employees to State or local governments. <sup>[1]</sup>   </td>
 
@@ -561,7 +561,7 @@ SUBCHAPTER VI—ASSIGNMENTS TO AND FROM STATES  </td>
 
   <tr>
 
-    <td> 3374.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3374" data-uslm-ref="/us/usc/t5/s3374">3374.</a>  </td>
 
     <td> Assignments of employees from State or local governments.  </td>
 
@@ -569,7 +569,7 @@ SUBCHAPTER VI—ASSIGNMENTS TO AND FROM STATES  </td>
 
   <tr>
 
-    <td> 3375.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3375" data-uslm-ref="/us/usc/t5/s3375">3375.</a>  </td>
 
     <td> Travel expenses.  </td>
 
@@ -577,7 +577,7 @@ SUBCHAPTER VI—ASSIGNMENTS TO AND FROM STATES  </td>
 
   <tr>
 
-    <td> 3376.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3376" data-uslm-ref="/us/usc/t5/s3376">3376.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -593,7 +593,7 @@ SUBCHAPTER VII—AIR TRAFFIC CONTROLLERS  </td>
 
   <tr>
 
-    <td> 3381.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3381" data-uslm-ref="/us/usc/t5/s3381">3381.</a>  </td>
 
     <td> Training.  </td>
 
@@ -601,7 +601,7 @@ SUBCHAPTER VII—AIR TRAFFIC CONTROLLERS  </td>
 
   <tr>
 
-    <td> 3382.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3382" data-uslm-ref="/us/usc/t5/s3382">3382.</a>  </td>
 
     <td> Involuntary separation for retirement.  </td>
 
@@ -609,7 +609,7 @@ SUBCHAPTER VII—AIR TRAFFIC CONTROLLERS  </td>
 
   <tr>
 
-    <td> 3383.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3383" data-uslm-ref="/us/usc/t5/s3383">3383.</a>  </td>
 
     <td> Determinations; review procedures.  </td>
 
@@ -617,7 +617,7 @@ SUBCHAPTER VII—AIR TRAFFIC CONTROLLERS  </td>
 
   <tr>
 
-    <td> 3384.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3384" data-uslm-ref="/us/usc/t5/s3384">3384.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -625,7 +625,7 @@ SUBCHAPTER VII—AIR TRAFFIC CONTROLLERS  </td>
 
   <tr>
 
-    <td> 3385.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3385" data-uslm-ref="/us/usc/t5/s3385">3385.</a>  </td>
 
     <td> Effect on other authority.  </td>
 
@@ -641,7 +641,7 @@ SUBCHAPTER VIII—APPOINTMENT, REASSIGNMENT, TRANSFER, AND DEVELOPMENT IN THE SE
 
   <tr>
 
-    <td> 3391.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3391" data-uslm-ref="/us/usc/t5/s3391">3391.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -649,7 +649,7 @@ SUBCHAPTER VIII—APPOINTMENT, REASSIGNMENT, TRANSFER, AND DEVELOPMENT IN THE SE
 
   <tr>
 
-    <td> 3392.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3392" data-uslm-ref="/us/usc/t5/s3392">3392.</a>  </td>
 
     <td> General appointment provisions.  </td>
 
@@ -657,7 +657,7 @@ SUBCHAPTER VIII—APPOINTMENT, REASSIGNMENT, TRANSFER, AND DEVELOPMENT IN THE SE
 
   <tr>
 
-    <td> 3393.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3393" data-uslm-ref="/us/usc/t5/s3393">3393.</a>  </td>
 
     <td> Career appointments.  </td>
 
@@ -665,7 +665,7 @@ SUBCHAPTER VIII—APPOINTMENT, REASSIGNMENT, TRANSFER, AND DEVELOPMENT IN THE SE
 
   <tr>
 
-    <td> [3393a.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3393a" data-uslm-ref="/us/usc/t5/s3393a">3393a.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -673,7 +673,7 @@ SUBCHAPTER VIII—APPOINTMENT, REASSIGNMENT, TRANSFER, AND DEVELOPMENT IN THE SE
 
   <tr>
 
-    <td> 3394.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3394" data-uslm-ref="/us/usc/t5/s3394">3394.</a>  </td>
 
     <td> Noncareer and limited appointments.  </td>
 
@@ -681,7 +681,7 @@ SUBCHAPTER VIII—APPOINTMENT, REASSIGNMENT, TRANSFER, AND DEVELOPMENT IN THE SE
 
   <tr>
 
-    <td> 3395.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3395" data-uslm-ref="/us/usc/t5/s3395">3395.</a>  </td>
 
     <td> Reassignment and transfer within the Senior Executive Service.  </td>
 
@@ -689,7 +689,7 @@ SUBCHAPTER VIII—APPOINTMENT, REASSIGNMENT, TRANSFER, AND DEVELOPMENT IN THE SE
 
   <tr>
 
-    <td> 3396.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3396" data-uslm-ref="/us/usc/t5/s3396">3396.</a>  </td>
 
     <td> Development for and within the Senior Executive Service.  </td>
 
@@ -697,7 +697,7 @@ SUBCHAPTER VIII—APPOINTMENT, REASSIGNMENT, TRANSFER, AND DEVELOPMENT IN THE SE
 
   <tr>
 
-    <td> 3397.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs3397" data-uslm-ref="/us/usc/t5/s3397">3397.</a>  </td>
 
     <td> Regulations.  </td>
 

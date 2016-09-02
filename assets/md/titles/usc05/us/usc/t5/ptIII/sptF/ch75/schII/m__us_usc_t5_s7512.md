@@ -15,7 +15,7 @@
 
 ## § 7512. Actions covered
 
-This subchapter applies to—
+    This subchapter applies to—
 
     (1) a removal;
 
@@ -25,21 +25,19 @@ This subchapter applies to—
 
     (4) a reduction in pay; and
 
-    (5)
+    (5) a furlough of 30 days or less;
 
-     a furlough of 30 days or less;
+    but does not apply to—
 
-        but does not apply to—
+    (A) a suspension or removal under [section 7532 of this title][/us/usc/t5/s7532],
 
-        (A) a suspension or removal under [section 7532 of this title][/us/usc/t5/s7532],
+    (B) a reduction-in-force action under [section 3502 of this title][/us/usc/t5/s3502],
 
-        (B) a reduction-in-force action under [section 3502 of this title][/us/usc/t5/s3502],
+    (C) the reduction in grade of a supervisor or manager who has not completed the probationary period under [section 3321(a)(2) of this title][/us/usc/t5/s3321/a/2] if such reduction is to the grade held immediately before becoming such a supervisor or manager,
 
-        (C) the reduction in grade of a supervisor or manager who has not completed the probationary period under [section 3321(a)(2) of this title][/us/usc/t5/s3321/a/2] if such reduction is to the grade held immediately before becoming such a supervisor or manager,
+    (D) a reduction in grade or removal under [section 4303 of this title][/us/usc/t5/s4303], or
 
-        (D) a reduction in grade or removal under [section 4303 of this title][/us/usc/t5/s4303], or
-
-        (E) an action initiated under section 1215 or 7521 of this title.
+    (E) an action initiated under section 1215 or 7521 of this title.
 
 (Added [Pub. L. 95–454, title II, § 204(a)][/us/pl/95/454/s204/a], Oct. 13, 1978, [92 Stat. 1136][/us/stat/92/1136]; amended [Pub. L. 101–12, § 9(a)(2)][/us/pl/101/12/s9/a/2], Apr. 10, 1989, [103 Stat. 35][/us/stat/103/35].)
 

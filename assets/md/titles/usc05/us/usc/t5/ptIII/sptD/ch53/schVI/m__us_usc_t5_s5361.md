@@ -15,7 +15,7 @@
 
 ## § 5361. Definitions
 
-For the purpose of this subchapter—
+    For the purpose of this subchapter—
 
     (1) “employee” means an employee to whom chapter 51 of this title applies, and a prevailing rate employee, as defined by [section 5342(a)(2) of this title][/us/usc/t5/s5342/a/2], whose employment is other than on a temporary or term basis;
 

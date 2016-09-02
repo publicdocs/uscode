@@ -15,7 +15,7 @@
 
 ## § 5531. Definitions
 
-For the purpose of [section 5533 of this title][/us/usc/t5/s5533]—
+    For the purpose of [section 5533 of this title][/us/usc/t5/s5533]—
 
     (1) “member” has the meaning given such term by [section 101(23) of title 37][/us/usc/t37/s101/23];
 

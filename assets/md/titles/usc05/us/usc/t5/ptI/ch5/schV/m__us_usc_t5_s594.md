@@ -15,7 +15,7 @@
 
 ## § 594. Powers and duties of the Conference
 
-To carry out the purposes of this subchapter, the Administrative Conference of the United States may—
+    To carry out the purposes of this subchapter, the Administrative Conference of the United States may—
 
     (1) study the efficiency, adequacy, and fairness of the administrative procedure used by administrative agencies in carrying out administrative programs, and make recommendations to administrative agencies, collectively or individually, and to the President, Congress, or the Judicial Conference of the United States, in connection therewith, as it considers appropriate;
 
@@ -33,7 +33,7 @@ To carry out the purposes of this subchapter, the Administrative Conference of t
 
         (B) such assistance may only be undertaken on a fully reimbursable basis, including all direct and indirect administrative costs.
 
-        Payment for services provided by the Conference pursuant to paragraph (4) shall be credited to the operating account for the Conference and shall remain available until expended.
+    Payment for services provided by the Conference pursuant to paragraph (4) shall be credited to the operating account for the Conference and shall remain available until expended.
 
 ([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 390][/us/stat/80/390], § 574; [Pub. L. 101–422, § 2][/us/pl/101/422/s2], Oct. 12, 1990, [104 Stat. 910][/us/stat/104/910]; renumbered § 594, [Pub. L. 102–354, § 2(2)][/us/pl/102/354/s2/2], Aug. 26, 1992, [106 Stat. 944][/us/stat/106/944]; [Pub. L. 102–403][/us/pl/102/403], Oct. 9, 1992, [106 Stat. 1968][/us/stat/106/1968]; [Pub. L. 108–401, § 2(b)(1)][/us/pl/108/401/s2/b/1], Oct. 30, 2004, [118 Stat. 2255][/us/stat/118/2255].)
 

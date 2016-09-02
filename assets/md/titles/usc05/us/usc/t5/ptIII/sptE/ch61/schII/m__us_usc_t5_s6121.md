@@ -15,7 +15,7 @@
 
 ## § 6121. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) “agency” means any Executive agency, any military department, the Government Printing Office, the Library of Congress, the Architect of the Capitol, and the Botanic Garden;
 

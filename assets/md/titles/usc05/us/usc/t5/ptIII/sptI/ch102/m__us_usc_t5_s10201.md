@@ -15,7 +15,7 @@
 
 ## § 10201. Definitions
 
-In this chapter—
+    In this chapter—
 
     (1) the term “member” means an employee of the United States Secret Service Uniformed Division having the authorities described under [section 3056A(b) of title 18][/us/usc/t18/s3056A/b];
 
@@ -259,19 +259,31 @@ In this chapter—
 
 >                 “(iii) __Step 13 conversion maximum rate.—__ 
 
->                      “(I) In general.—A member who, at the time of conversion, is in step 13 of any rank below Deputy Chief, is entitled to that rate of basic pay which is the greater of—
+>                          “(I) __In general.—__ 
 
->                     “(aa) the rate of pay for step 13 under the new salary schedule; or
+>                     A member who, at the time of conversion, is in step 13 of any rank below Deputy Chief, is entitled to that rate of basic pay which is the greater of—
 
->                     “(bb) the rate of pay for step 14 under the pay schedule in effect immediately before conversion.         “(II) Step 14 rate.—Clause (iv) shall apply to a member whose pay is set in accordance with subclause (I)(bb).
+>                         “(aa) the rate of pay for step 13 under the new salary schedule; or
+
+>                         “(bb) the rate of pay for step 14 under the pay schedule in effect immediately before conversion.
+
+>                          “(II) __Step 14 rate.—__ 
+
+>                     Clause (iv) shall apply to a member whose pay is set in accordance with subclause (I)(bb).
 
 >                 “(iv) __Adjustment based on former rate of pay.—__ 
 
->                          “(I) Definition.—In this clause, the term ‘former rate of basic pay’ means the rate of basic pay last received by a member before the conversion.
+>                          “(I) __Definition.—__ 
 
->                          “(II) In general.—If, as a result of conversion to the new salary schedule, the member’s former rate of basic pay is greater than the maximum rate of basic pay payable for the rank of the member’s position immediately after the conversion, the member is entitled to basic pay at a rate equal to the member’s former rate of basic pay, and increased at the time of any increase in the maximum rate of basic pay payable for the rank of the member’s position by 50 percent of the dollar amount of each such increase.
+>                     In this clause, the term ‘former rate of basic pay’ means the rate of basic pay last received by a member before the conversion.
 
->                          “(III) Promotions.—For the purpose of applying [section 10207 of title 5][/us/usc/t5/s10207], United States Code, relating to promotions, (as added by section 2(a)) an employee receiving a rate above the maximum rate as provided under this clause shall be deemed to be at step 13.
+>                          “(II) __In general.—__ 
+
+>                     If, as a result of conversion to the new salary schedule, the member’s former rate of basic pay is greater than the maximum rate of basic pay payable for the rank of the member’s position immediately after the conversion, the member is entitled to basic pay at a rate equal to the member’s former rate of basic pay, and increased at the time of any increase in the maximum rate of basic pay payable for the rank of the member’s position by 50 percent of the dollar amount of each such increase.
+
+>                          “(III) __Promotions.—__ 
+
+>                     For the purpose of applying [section 10207 of title 5][/us/usc/t5/s10207], United States Code, relating to promotions, (as added by section 2(a)) an employee receiving a rate above the maximum rate as provided under this clause shall be deemed to be at step 13.
 
 >         “(2) __Credit for service.—__ 
 

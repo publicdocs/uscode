@@ -15,7 +15,7 @@
 
 ## § 5552. Lump-sum payment for accumulated and accrued leave on entering active duty; election
 
-An employee as defined by [section 2105 of this title][/us/usc/t5/s2105] or an individual employed by a territory or possession of the United States or the government of the District of Columbia who enters on active duty in the armed forces is entitled to—
+    An employee as defined by [section 2105 of this title][/us/usc/t5/s2105] or an individual employed by a territory or possession of the United States or the government of the District of Columbia who enters on active duty in the armed forces is entitled to—
 
     (1) receive, in addition to his pay and allowances from the armed forces, a lump-sum payment for accumulated and current accrued annual or vacation leave in accordance with [section 5551 of this title][/us/usc/t5/s5551]; or
 

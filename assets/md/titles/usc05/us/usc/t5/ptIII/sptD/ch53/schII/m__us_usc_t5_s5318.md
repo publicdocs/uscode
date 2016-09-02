@@ -101,13 +101,21 @@
 
 >             For purposes of the provisions of law amended by paragraph (2), the ‘most recent percentage change in the ECI’, as of any date, shall be one-half of 1 percent less than the percentage (rounded to the nearest one-tenth of 1 percent) derived by—
 
->                 “(i) reducing—         “(I) the ECI for the last base quarter prior to that date, by
+>                 “(i)
+
+>                  reducing—
+
+>                          “(I) the ECI for the last base quarter prior to that date, by
 
 >                          “(II) the ECI for the second to last base quarter prior to that date,
 
 >                 “(ii) dividing the difference under clause (i) by the ECI for the base quarter referred to in clause (i)(II), and
 
->                 “(iii) multiplying the quotient under clause (ii) by 100, except that no percentage change determined under this paragraph shall be—         “(I) less than zero; or
+>                 “(iii)
+
+>                  multiplying the quotient under clause (ii) by 100, except that no percentage change determined under this paragraph shall be—
+
+>                          “(I) less than zero; or
 
 >                          “(II) greater than 5 percent.
 

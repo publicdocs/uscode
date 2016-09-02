@@ -15,7 +15,7 @@
 
 ## § 5104. Basis for grading positions
 
-The General Schedule, the symbol for which is “GS”, is the basic pay schedule for positions to which this chapter applies. The General Schedule is divided into grades of difficulty and responsibility of work, as follows:
+    The General Schedule, the symbol for which is “GS”, is the basic pay schedule for positions to which this chapter applies. The General Schedule is divided into grades of difficulty and responsibility of work, as follows:
 
     (1)
 
@@ -367,61 +367,71 @@ June 20, 1958, Pub. L. 85–462, § 13(a), 72 Stat. 214.  </td>
 
 > “That this Act may be cited as the ‘Job Evaluation Policy Act of 1970’.
 
- __“Title I—Congressional Findings With Respect to Job Evaluation and Ranking in the Executive Branch__ 
+> “Title I— __Congressional Findings With Respect to Job Evaluation and Ranking in the Executive Branch__ 
 
-    “Sec. 101. The Congress hereby finds that—
+> “Sec. 101.
 
-    “(1) the tremendous growth required in the activities of the Federal Government in order to meet the country’s needs during the past several decades has led to the need for employees in an ever-increasing and changing variety of occupations and professions, many of which did not exist when the basic principles of job evaluation and ranking were established by the Classification Act of 1923 \[[Act Mar. 4, 1923, ch. 265][/us/act/1923-03-04/ch265], [42 Stat. 1488][/us/stat/42/1488]\]. The diverse and constantly changing nature of these occupations and professions requires that the Federal Government reassess its approach to job evaluation and ranking better to fulfill its role as an employer and assure efficient economical administration;
+>  The Congress hereby finds that—
 
-    “(2) the large number and variety of job evaluation and ranking systems in the executive branch have resulted in significant inequities in selection, promotion, and pay of employees in comparable positions among these systems;
+>     “(1) the tremendous growth required in the activities of the Federal Government in order to meet the country’s needs during the past several decades has led to the need for employees in an ever-increasing and changing variety of occupations and professions, many of which did not exist when the basic principles of job evaluation and ranking were established by the Classification Act of 1923 \[[Act Mar. 4, 1923, ch. 265][/us/act/1923-03-04/ch265], [42 Stat. 1488][/us/stat/42/1488]\]. The diverse and constantly changing nature of these occupations and professions requires that the Federal Government reassess its approach to job evaluation and ranking better to fulfill its role as an employer and assure efficient economical administration;
 
-    “(3) little effort has been made by Congress or the executive branch to consolidate or coordinate the various job evaluation and ranking systems, and there has been no progress toward the establishment of a coordinated system in which job evaluation and ranking, regardless of the methods used, is related to a unified set of principles providing coherence and equity throughout the executive branch;
+>     “(2) the large number and variety of job evaluation and ranking systems in the executive branch have resulted in significant inequities in selection, promotion, and pay of employees in comparable positions among these systems;
 
-    “(4) within the executive branch, there has been no significant study of, or experimentation with the several recognized methods of job evaluation and ranking to determine which of those methods are most appropriate for use and application to meet the present and future needs of the Federal Government; and
+>     “(3) little effort has been made by Congress or the executive branch to consolidate or coordinate the various job evaluation and ranking systems, and there has been no progress toward the establishment of a coordinated system in which job evaluation and ranking, regardless of the methods used, is related to a unified set of principles providing coherence and equity throughout the executive branch;
 
-    “(5) notwithstanding the recommendations resulting from the various studies conducted during the last twenty years, the Federal Government has not taken the initiative to implement those recommendations with respect to the job evaluation and ranking systems within the executive branch, with the result that such systems have not, in many cases, been adapted or administered to meet the rapidly changing needs of the Federal Government.
+>     “(4) within the executive branch, there has been no significant study of, or experimentation with the several recognized methods of job evaluation and ranking to determine which of those methods are most appropriate for use and application to meet the present and future needs of the Federal Government; and
 
- __“Title II—Statement of Policy__ 
+>     “(5) notwithstanding the recommendations resulting from the various studies conducted during the last twenty years, the Federal Government has not taken the initiative to implement those recommendations with respect to the job evaluation and ranking systems within the executive branch, with the result that such systems have not, in many cases, been adapted or administered to meet the rapidly changing needs of the Federal Government.
 
-    “Sec. 201. It is the sense of Congress that—
+> “Title II— __Statement of Policy__ 
 
-    “(1) the executive branch shall, in the interest of equity, efficiency, and good administration, operate under a coordinated job evaluation and ranking system for all civilian positions, to the greatest extent practicable;
+> “Sec. 201.
 
-    “(2) the system shall be designed so as to utilize such methods of job evaluation and ranking as are appropriate for use in the executive branch, taking into account the various occupational categories of positions therein; and
+>  It is the sense of Congress that—
 
-    “(3) the United States Civil Service Commission shall be authorized to exercise general supervision and control over such a system.
+>     “(1) the executive branch shall, in the interest of equity, efficiency, and good administration, operate under a coordinated job evaluation and ranking system for all civilian positions, to the greatest extent practicable;
 
- __“__  __Title III—Preparation of a Job Evaluation and Ranking Plan By the Civil Service Commission and Reports and Recommendations to Congress__ 
+>     “(2) the system shall be designed so as to utilize such methods of job evaluation and ranking as are appropriate for use in the executive branch, taking into account the various occupational categories of positions therein; and
 
-    “Sec. 301. The Civil Service Commission, through such organizational unit which it shall establish within the Commission and which shall report directly to the Commission, shall prepare a comprehensive plan for the establishment of a coordinated system of job evaluation and ranking for civilian positions, in the executive branch. The plan shall include, among other things—
+>     “(3) the United States Civil Service Commission shall be authorized to exercise general supervision and control over such a system.
 
-    “(1) provision for the establishment of a method or methods for evaluating jobs and alining them by level;
+> “Title III— __Preparation of a Job Evaluation and Ranking Plan By the Civil Service Commission and Reports and Recommendations to Congress__ 
 
-    “(2) a time schedule for the conversion of existing job evaluation and ranking systems into the coordinated system;
+> “Sec. 301.
 
-    “(3) provision that the Civil Service Commission shall have general supervision of and control over the coordinated job evaluation and ranking system, including, if the Commission deems it appropriate, the authority to approve or disapprove the adoption, use and administration in the executive branch of the method or methods established under that system;
+>  The Civil Service Commission, through such organizational unit which it shall establish within the Commission and which shall report directly to the Commission, shall prepare a comprehensive plan for the establishment of a coordinated system of job evaluation and ranking for civilian positions, in the executive branch. The plan shall include, among other things—
 
-    “(4) provision for the establishment of procedures for the periodic review by the Civil Service Commission of the effectiveness of the method or methods adopted for use under the system; and
+>     “(1) provision for the establishment of a method or methods for evaluating jobs and alining them by level;
 
-    “(5) provision for maintenance of the system to meet the changing needs of the executive branch in the future.
+>     “(2) a time schedule for the conversion of existing job evaluation and ranking systems into the coordinated system;
 
-    “Sec. 302. In carrying out its functions under section 301 of this Act, the Commission shall consider all recognized methods of job evaluation and ranking.
+>     “(3) provision that the Civil Service Commission shall have general supervision of and control over the coordinated job evaluation and ranking system, including, if the Commission deems it appropriate, the authority to approve or disapprove the adoption, use and administration in the executive branch of the method or methods established under that system;
 
-    “Sec. 303. The Civil Service Commission is authorized to secure directly from any executive agency, as defined by [section 105 of title 5][/us/usc/t5/s105], United States Code, or any bureau, office, or part thereof, information, suggestions, estimates, statistics, and technical assistance for the purposes of this Act; and each such executive agency or bureau, office, or part thereof is authorized and directed to furnish such information, suggestions, estimates, statistics, and technical assistance directly to the Civil Service Commission upon request by the Commission.
+>     “(4) provision for the establishment of procedures for the periodic review by the Civil Service Commission of the effectiveness of the method or methods adopted for use under the system; and
 
-    “Sec. 304. (a) Within one year after the date of enactment of this Act, the Commission shall submit to the President and the Congress an interim progress report on the current status and results of its activities under this Act, together with its current findings.
+>     “(5) provision for maintenance of the system to meet the changing needs of the executive branch in the future.
 
-    “(b) Within two years after the date of enactment of this Act \[Mar. 17, 1970\]—
+> “Sec. 302. In carrying out its functions under section 301 of this Act, the Commission shall consider all recognized methods of job evaluation and ranking.
 
-    “(1) the Civil Service Commission shall complete its functions under this Act and shall transmit to the President a comprehensive report of the result of its activities, together with its recommendations (including its draft of proposed legislation to carry out such recommendations), and
+> “Sec. 303. The Civil Service Commission is authorized to secure directly from any executive agency, as defined by [section 105 of title 5][/us/usc/t5/s105], United States Code, or any bureau, office, or part thereof, information, suggestions, estimates, statistics, and technical assistance for the purposes of this Act; and each such executive agency or bureau, office, or part thereof is authorized and directed to furnish such information, suggestions, estimates, statistics, and technical assistance directly to the Civil Service Commission upon request by the Commission.
 
-    “(2) the President shall transmit that report (including the recommendations and draft of proposed legislation of the Commission) to the Congress, together with such recommendations as the President deems appropriate.
+> “Sec. 304.
 
-    “(c) The Commission shall submit to the Committees on Post Office and Civil Service of the Senate and House of Representatives once each calendar month, or at such other intervals as may be directed by those committees, or either of them, an interim progress report on the then current status and results of the activities of the Commission under this Act, together with the then current findings of the Commission.
+>      (a) Within one year after the date of enactment of this Act, the Commission shall submit to the President and the Congress an interim progress report on the current status and results of its activities under this Act, together with its current findings.
 
-    “(d) The Commission shall periodically consult with, and solicit the views of, appropriate employee and professional organizations.
+>     “(b)
 
-    “(e) The organizational unit established under section 301 of this Act shall cease to exist upon the submission of the report to the Congress under subsection (b) of this section.”
+>      Within two years after the date of enactment of this Act \[Mar. 17, 1970\]—
+
+>         “(1) the Civil Service Commission shall complete its functions under this Act and shall transmit to the President a comprehensive report of the result of its activities, together with its recommendations (including its draft of proposed legislation to carry out such recommendations), and
+
+>         “(2) the President shall transmit that report (including the recommendations and draft of proposed legislation of the Commission) to the Congress, together with such recommendations as the President deems appropriate.
+
+>     “(c) The Commission shall submit to the Committees on Post Office and Civil Service of the Senate and House of Representatives once each calendar month, or at such other intervals as may be directed by those committees, or either of them, an interim progress report on the then current status and results of the activities of the Commission under this Act, together with the then current findings of the Commission.
+
+>     “(d) The Commission shall periodically consult with, and solicit the views of, appropriate employee and professional organizations.
+
+>     “(e) The organizational unit established under section 301 of this Act shall cease to exist upon the submission of the report to the Congress under subsection (b) of this section.”
 
 ----------
 

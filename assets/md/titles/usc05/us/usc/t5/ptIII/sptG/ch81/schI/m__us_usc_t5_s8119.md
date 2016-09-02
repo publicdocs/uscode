@@ -15,7 +15,7 @@
 
 ## § 8119. Notice of injury or death
 
-An employee injured in the performance of his duty, or someone on his behalf, shall give notice thereof. Notice of a death believed to be related to the employment shall be given by an eligible beneficiary specified in [section 8133 of this title][/us/usc/t5/s8133], or someone on his behalf. A notice of injury or death shall—
+    An employee injured in the performance of his duty, or someone on his behalf, shall give notice thereof. Notice of a death believed to be related to the employment shall be given by an eligible beneficiary specified in [section 8133 of this title][/us/usc/t5/s8133], or someone on his behalf. A notice of injury or death shall—
 
     (a) be given within 30 days after the injury or death;
 

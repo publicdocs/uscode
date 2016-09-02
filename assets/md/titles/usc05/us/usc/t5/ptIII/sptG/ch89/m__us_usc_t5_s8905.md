@@ -233,7 +233,11 @@ Mar. 17, 1964, Pub. L. 88–284, § 1(5), 78 Stat. 164.  </td>
 
 >      (a) Notwithstanding any other provision of law, an annuitant, as defined under [section 8901(3) of title 5][/us/usc/t5/s8901/3], United States Code, who is participating or who is eligible to participate in the health benefits program offered under the Retired Federal Employees Health Benefits Act ([74 Stat. 849][/us/stat/74/849]; [Public Law 86–724][/us/pl/86/724]), may elect, in accordance with regulations prescribed by the United States Civil Service Commission, to be covered under the provisions of chapter 89 of title 5, United States Code \[this chapter\], in lieu of coverage under such Act.
 
->     “(b) An annuitant who elects to be covered under the provisions of chapter 89 of title 5, United States Code \[this chapter\], in accordance with subsection (a) of this section, shall be entitled to the benefits under such chapter 89.    “\[Sec. 4\] (b) Section 2 \[set out above\] shall take effect on the one hundred and eightieth day following the date of enactment \[Jan. 1, 1974\] or on such earlier date as the United States Civil Service Commission may prescribe.”
+>     “(b) An annuitant who elects to be covered under the provisions of chapter 89 of title 5, United States Code \[this chapter\], in accordance with subsection (a) of this section, shall be entitled to the benefits under such chapter 89.
+
+> “\[Sec. 4\]
+
+>      (b) Section 2 \[set out above\] shall take effect on the one hundred and eightieth day following the date of enactment \[Jan. 1, 1974\] or on such earlier date as the United States Civil Service Commission may prescribe.”
 
 ----------
 

@@ -15,7 +15,7 @@
 
 ## § 6361. Definitions
 
-For the purpose of this subchapter the term—
+    For the purpose of this subchapter the term—
 
     (1) “employee” means an employee as defined by section 6301(2), but shall exclude any individual employed by the government of the District of Columbia;
 

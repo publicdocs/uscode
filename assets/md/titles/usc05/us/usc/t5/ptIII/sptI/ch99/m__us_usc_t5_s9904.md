@@ -15,7 +15,7 @@
 
 ## § 9904. Special pay and benefits for certain employees outside the United States
 
-The Secretary may provide to certain civilian employees of the Department of Defense assigned to activities outside the United States as determined by the Secretary to be in support of Department of Defense activities abroad hazardous to life or health or so specialized because of security requirements as to be clearly distinguishable from normal Government employment—
+    The Secretary may provide to certain civilian employees of the Department of Defense assigned to activities outside the United States as determined by the Secretary to be in support of Department of Defense activities abroad hazardous to life or health or so specialized because of security requirements as to be clearly distinguishable from normal Government employment—
 
     (1)
 

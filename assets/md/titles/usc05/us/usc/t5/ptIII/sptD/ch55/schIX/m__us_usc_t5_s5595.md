@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t5/ptIII/sptD/ch55/schIX/m__us_usc_t5_s5591 to 5594.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptD/ch55/schIX/m__us_usc_t5_s5596.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5595)
+[Previous](./../../../../../../..//us/usc/t5/ptIII/sptD/ch55/schIX/m__us_usc_t5_ptIII_sptD_ch55_schIX.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptD/ch55/schIX/m__us_usc_t5_s5596.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5595)
 
 ## § 5595. Severance pay
 
@@ -329,7 +329,7 @@ Nov. 2, 1966, Pub. L. 89–737, § 2, 80 Stat. 1164.  </td>
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t5/ptIII/sptD/ch55/schIX/m__us_usc_t5_s5591 to 5594.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptD/ch55/schIX/m__us_usc_t5_s5596.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5595)
+[Previous](./../../../../../../..//us/usc/t5/ptIII/sptD/ch55/schIX/m__us_usc_t5_ptIII_sptD_ch55_schIX.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptD/ch55/schIX/m__us_usc_t5_s5596.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5595)
 
 ----------
 ----------

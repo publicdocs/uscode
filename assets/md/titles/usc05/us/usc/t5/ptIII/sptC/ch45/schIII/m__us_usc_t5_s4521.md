@@ -15,7 +15,7 @@
 
 ## § 4521. Definition
 
-For the purpose of this subchapter, the term “law enforcement officer” means—
+    For the purpose of this subchapter, the term “law enforcement officer” means—
 
     (1) a law enforcement officer within the meaning of section 5541(3) and to whom the provisions of chapter 51 apply;
 

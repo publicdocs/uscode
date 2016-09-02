@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs901" data-uslm-ref="/us/usc/t5/s901">901.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs902" data-uslm-ref="/us/usc/t5/s902">902.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs903" data-uslm-ref="/us/usc/t5/s903">903.</a>  </td>
 
     <td> Reorganization plans.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs904" data-uslm-ref="/us/usc/t5/s904">904.</a>  </td>
 
     <td> Additional contents of reorganization plan.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs905" data-uslm-ref="/us/usc/t5/s905">905.</a>  </td>
 
     <td> Limitations on powers. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs906" data-uslm-ref="/us/usc/t5/s906">906.</a>  </td>
 
     <td> Effective date and publication of reorganization plans.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs907" data-uslm-ref="/us/usc/t5/s907">907.</a>  </td>
 
     <td> Effect on other laws, pending legal proceedings, and unexpended appropriations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 908.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs908" data-uslm-ref="/us/usc/t5/s908">908.</a>  </td>
 
     <td> Rules of Senate and House of Representatives on reorganization plans.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 909.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs909" data-uslm-ref="/us/usc/t5/s909">909.</a>  </td>
 
     <td> Terms of resolution.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 910.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs910" data-uslm-ref="/us/usc/t5/s910">910.</a>  </td>
 
     <td> Introduction and reference of resolution.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs911" data-uslm-ref="/us/usc/t5/s911">911.</a>  </td>
 
     <td> Discharge of committee considering resolution.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 912.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs912" data-uslm-ref="/us/usc/t5/s912">912.</a>  </td>
 
     <td> Procedure after report or discharge of committee; debate; vote on final passage.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> [913.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs913" data-uslm-ref="/us/usc/t5/s913">913.</a>  </td>
 
     <td> Omitted.]  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 5341. Policy
 
-It is the policy of Congress that rates of pay of prevailing rate employees be fixed and adjusted from time to time as nearly as is consistent with the public interest in accordance with prevailing rates and be based on principles that—
+    It is the policy of Congress that rates of pay of prevailing rate employees be fixed and adjusted from time to time as nearly as is consistent with the public interest in accordance with prevailing rates and be based on principles that—
 
     (1) there will be equal pay for substantially equal work for all prevailing rate employees who are working under similar conditions of employment in all agencies within the same local wage area;
 

@@ -91,323 +91,413 @@
 
 >     \[Omitted.\]
 
- __“TITLE I—GENERAL PROVISIONS__ 
+> “TITLE I— __GENERAL PROVISIONS__ 
 
-    “SEC. 101. FINDINGS.
+> “SEC. 101. __FINDINGS.__ 
 
-    “Congress finds that—
+> “Congress finds that—
 
-    “(1) Federal agencies cannot be run effectively if those agencies practice or tolerate discrimination;
+>     “(1) Federal agencies cannot be run effectively if those agencies practice or tolerate discrimination;
 
-    “(2) Congress has heard testimony from individuals, including representatives of the National Association for the Advancement of Colored People and the American Federation of Government Employees, that point to chronic problems of discrimination and retaliation against Federal employees;
+>     “(2) Congress has heard testimony from individuals, including representatives of the National Association for the Advancement of Colored People and the American Federation of Government Employees, that point to chronic problems of discrimination and retaliation against Federal employees;
 
-    “(3) in August 2000, a jury found that the Environmental Protection Agency had discriminated against a senior social scientist, and awarded that scientist $600,000;
+>     “(3) in August 2000, a jury found that the Environmental Protection Agency had discriminated against a senior social scientist, and awarded that scientist $600,000;
 
-    “(4) in October 2000, an Occupational Safety and Health Administration investigation found that the Environmental Protection Agency had retaliated against a senior scientist for disagreeing with that agency on a matter of science and for helping Congress to carry out its oversight responsibilities;
+>     “(4) in October 2000, an Occupational Safety and Health Administration investigation found that the Environmental Protection Agency had retaliated against a senior scientist for disagreeing with that agency on a matter of science and for helping Congress to carry out its oversight responsibilities;
 
-    “(5) there have been several recent class action suits based on discrimination brought against Federal agencies, including the Federal Bureau of Investigation, the Bureau of Alcohol, Tobacco, and Firearms, the Drug Enforcement Administration, the Immigration and Naturalization Service, the United States Marshals Service, the Department of Agriculture, the United States Information Agency, and the Social Security Administration;
+>     “(5) there have been several recent class action suits based on discrimination brought against Federal agencies, including the Federal Bureau of Investigation, the Bureau of Alcohol, Tobacco, and Firearms, the Drug Enforcement Administration, the Immigration and Naturalization Service, the United States Marshals Service, the Department of Agriculture, the United States Information Agency, and the Social Security Administration;
 
-    “(6) notifying Federal employees of their rights under discrimination and whistleblower laws should increase Federal agency compliance with the law;
+>     “(6) notifying Federal employees of their rights under discrimination and whistleblower laws should increase Federal agency compliance with the law;
 
-    “(7) requiring annual reports to Congress on the number and severity of discrimination and whistleblower cases brought against each Federal agency should enable Congress to improve its oversight over compliance by agencies with the law; and
+>     “(7) requiring annual reports to Congress on the number and severity of discrimination and whistleblower cases brought against each Federal agency should enable Congress to improve its oversight over compliance by agencies with the law; and
 
-    “(8) requiring Federal agencies to pay for any discrimination or whistleblower judgment, award, or settlement should improve agency accountability with respect to discrimination and whistleblower laws.
+>     “(8) requiring Federal agencies to pay for any discrimination or whistleblower judgment, award, or settlement should improve agency accountability with respect to discrimination and whistleblower laws.
 
-    “SEC. 102. SENSE OF CONGRESS.
+> “SEC. 102. __SENSE OF CONGRESS.__ 
 
-    “It is the sense of Congress that—
+> “It is the sense of Congress that—
 
-    “(1) Federal agencies should not retaliate for court judgments or settlements relating to discrimination and whistleblower laws by targeting the claimant or other employees with reductions in compensation, benefits, or workforce to pay for such judgments or settlements;
+>     “(1) Federal agencies should not retaliate for court judgments or settlements relating to discrimination and whistleblower laws by targeting the claimant or other employees with reductions in compensation, benefits, or workforce to pay for such judgments or settlements;
 
-    “(2) the mission of the Federal agency and the employment security of employees who are blameless in a whistleblower incident should not be compromised;
+>     “(2) the mission of the Federal agency and the employment security of employees who are blameless in a whistleblower incident should not be compromised;
 
-    “(3) Federal agencies should not use a reduction in force or furloughs as means of funding a reimbursement under this Act;
+>     “(3) Federal agencies should not use a reduction in force or furloughs as means of funding a reimbursement under this Act;
 
-    “(4)(A) accountability in the enforcement of employee rights is not furthered by terminating—
+>     “(4)
 
-    “(i) the employment of other employees; or
+>         (A)
 
-    “(ii) the benefits to which those employees are entitled through statute or contract; and
+>          accountability in the enforcement of employee rights is not furthered by terminating—
 
-    “(B) this Act is not intended to authorize those actions;
+>             “(i) the employment of other employees; or
 
-    “(5)(A) nor is accountability furthered if Federal agencies react to the increased accountability under this Act by taking unfounded disciplinary actions against managers or by violating the procedural rights of managers who have been accused of discrimination; and
+>             “(ii) the benefits to which those employees are entitled through statute or contract; and
 
-    “(B) Federal agencies should ensure that managers have adequate training in the management of a diverse workforce and in dispute resolution and other essential communication skills; and
+>         “(B) this Act is not intended to authorize those actions;
 
-    “(6)(A) Federal agencies are expected to reimburse the General Fund of the Treasury within a reasonable time under this Act; and
+>     “(5)
 
-    “(B) a Federal agency, particularly if the amount of reimbursement under this Act is large relative to annual appropriations for that agency, may need to extend reimbursement over several years in order to avoid—
+>         (A) nor is accountability furthered if Federal agencies react to the increased accountability under this Act by taking unfounded disciplinary actions against managers or by violating the procedural rights of managers who have been accused of discrimination; and
 
-    “(i) reductions in force;
+>         “(B) Federal agencies should ensure that managers have adequate training in the management of a diverse workforce and in dispute resolution and other essential communication skills; and
 
-    “(ii) furloughs;
+>     “(6)
 
-    “(iii) other reductions in compensation or benefits for the workforce of the agency; or
+>         (A) Federal agencies are expected to reimburse the General Fund of the Treasury within a reasonable time under this Act; and
 
-    “(iv) an adverse effect on the mission of the agency.
+>         “(B)
 
-    “SEC. 103. DEFINITIONS.
+>          a Federal agency, particularly if the amount of reimbursement under this Act is large relative to annual appropriations for that agency, may need to extend reimbursement over several years in order to avoid—
 
-    “For purposes of this Act—
+>             “(i) reductions in force;
 
-    “(1) the term ‘applicant for Federal employment’ means an individual applying for employment in or under a Federal agency;
+>             “(ii) furloughs;
 
-    “(2) the term ‘basis of alleged discrimination’ shall have the meaning given such term under section 303;
+>             “(iii) other reductions in compensation or benefits for the workforce of the agency; or
 
-    “(3) the term ‘Federal agency’ means an Executive agency (as defined in [section 105 of title 5][/us/usc/t5/s105], United States Code), the United States Postal Service, or the Postal Regulatory Commission;
+>             “(iv) an adverse effect on the mission of the agency.
 
-    “(4) the term ‘Federal employee’ means an individual employed in or under a Federal agency;
+> “SEC. 103. __DEFINITIONS.__ 
 
-    “(5) the term ‘former Federal employee’ means an individual formerly employed in or under a Federal agency; and
+> “For purposes of this Act—
 
-    “(6) the term ‘issue of alleged discrimination’ shall have the meaning given such term under section 303.
+>     “(1) the term ‘applicant for Federal employment’ means an individual applying for employment in or under a Federal agency;
 
-    “SEC. 104. EFFECTIVE DATE.
+>     “(2) the term ‘basis of alleged discrimination’ shall have the meaning given such term under section 303;
 
-    “This Act and the amendments made by this Act shall take effect on the 1st day of the 1st fiscal year beginning more than 180 days after the date of the enactment of this Act \[May 15, 2002\].
+>     “(3) the term ‘Federal agency’ means an Executive agency (as defined in [section 105 of title 5][/us/usc/t5/s105], United States Code), the United States Postal Service, or the Postal Regulatory Commission;
 
- __“TITLE II—FEDERAL EMPLOYEE DISCRIMINATION AND RETALIATION__ 
+>     “(4) the term ‘Federal employee’ means an individual employed in or under a Federal agency;
 
-    “SEC. 201. REIMBURSEMENT REQUIREMENT.
+>     “(5) the term ‘former Federal employee’ means an individual formerly employed in or under a Federal agency; and
 
-    “(a) Applicability.—This section applies with respect to any payment made in accordance with section 2414, 2517, 2672, or 2677 of title 28, United States Code, and under [section 1304 of title 31][/us/usc/t31/s1304], United States Code (relating to judgments, awards, and compromise settlements) to any Federal employee, former Federal employee, or applicant for Federal employment, in connection with any proceeding brought by or on behalf of such employee, former employee, or applicant under—
+>     “(6) the term ‘issue of alleged discrimination’ shall have the meaning given such term under section 303.
 
-    “(1) any provision of law cited in subsection (c); or
+> “SEC. 104. __EFFECTIVE DATE.__ 
 
-    “(2) any other provision of law which prohibits any form of discrimination, as identified under rules issued under section 204.
+>     “This Act and the amendments made by this Act shall take effect on the 1st day of the 1st fiscal year beginning more than 180 days after the date of the enactment of this Act \[May 15, 2002\].
 
-    “(b) Requirement.—An amount equal to the amount of each payment described in subsection (a) shall be reimbursed to the fund described in [section 1304 of title 31][/us/usc/t31/s1304], United States Code, out of any appropriation, fund, or other account (excluding any part of such appropriation, of such fund, or of such account available for the enforcement of any Federal law) available for operating expenses of the Federal agency to which the discriminatory conduct involved is attributable as determined under section 204.
+> “TITLE II— __FEDERAL EMPLOYEE DISCRIMINATION AND RETALIATION__ 
 
-    “(c) Scope.—The provisions of law cited in this subsection are the following:
+> “SEC. 201. __REIMBURSEMENT REQUIREMENT.__ 
 
-    “(1) [Section 2302(b) of title 5][/us/usc/t5/s2302/b], United States Code, as applied to discriminatory conduct described in paragraphs (1) and (8), or described in paragraph (9) of such section as applied to discriminatory conduct described in paragraphs (1) and (8), of such section.
+>     “(a) __Applicability.—__ 
 
-    “(2) The provisions of law specified in [section 2302(d) of title 5][/us/usc/t5/s2302/d], United States Code.
+>     This section applies with respect to any payment made in accordance with section 2414, 2517, 2672, or 2677 of title 28, United States Code, and under [section 1304 of title 31][/us/usc/t31/s1304], United States Code (relating to judgments, awards, and compromise settlements) to any Federal employee, former Federal employee, or applicant for Federal employment, in connection with any proceeding brought by or on behalf of such employee, former employee, or applicant under—
 
-    “SEC. 202. NOTIFICATION REQUIREMENT.
+>         “(1) any provision of law cited in subsection (c); or
 
-    “(a) In General.—Written notification of the rights and protections available to Federal employees, former Federal employees, and applicants for Federal employment (as the case may be) in connection with the respective provisions of law covered by paragraphs (1) and (2) of section 201(a) shall be provided to such employees, former employees, and applicants—
+>         “(2) any other provision of law which prohibits any form of discrimination, as identified under rules issued under section 204.
 
-    “(1) in accordance with otherwise applicable provisions of law; or
+>     “(b) __Requirement.—__ 
 
-    “(2) if, or to the extent that, no such notification would otherwise be required, in such time, form, and manner as shall under section 204 be required in order to carry out the requirements of this section.
+>     An amount equal to the amount of each payment described in subsection (a) shall be reimbursed to the fund described in [section 1304 of title 31][/us/usc/t31/s1304], United States Code, out of any appropriation, fund, or other account (excluding any part of such appropriation, of such fund, or of such account available for the enforcement of any Federal law) available for operating expenses of the Federal agency to which the discriminatory conduct involved is attributable as determined under section 204.
 
-    “(b) Posting on the Internet.—Any written notification under this section shall include, but not be limited to, the posting of the information required under paragraph (1) or (2) (as applicable) of subsection (a) on the Internet site of the Federal agency involved.
+>     “(c) __Scope.—__ 
 
-    “(c) Employee Training.—Each Federal agency shall provide to the employees of such agency training regarding the rights and remedies applicable to such employees under the laws cited in section 201(c).
+>     The provisions of law cited in this subsection are the following:
 
-    “SEC. 203. REPORTING REQUIREMENT.
+>         “(1) [Section 2302(b) of title 5][/us/usc/t5/s2302/b], United States Code, as applied to discriminatory conduct described in paragraphs (1) and (8), or described in paragraph (9) of such section as applied to discriminatory conduct described in paragraphs (1) and (8), of such section.
 
-    “(a) Annual Report.—Subject to subsection (b), not later than 180 days after the end of each fiscal year, each Federal agency shall submit to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, each committee of Congress with jurisdiction relating to the agency, the Equal Employment Opportunity Commission, and the Attorney General an annual report which shall include, with respect to the fiscal year—
+>         “(2) The provisions of law specified in [section 2302(d) of title 5][/us/usc/t5/s2302/d], United States Code.
 
-    “(1) the number of cases arising under each of the respective provisions of law covered by paragraphs (1) and (2) of section 201(a) in which discrimination on the part of such agency was alleged;
+> “SEC. 202. __NOTIFICATION REQUIREMENT.__ 
 
-    “(2) the status or disposition of cases described in paragraph (1);
+>     “(a) __In General.—__ 
 
-    “(3) the amount of money required to be reimbursed by such agency under section 201 in connection with each of such cases, separately identifying the aggregate amount of such reimbursements attributable to the payment of attorneys’ fees, if any;
+>     Written notification of the rights and protections available to Federal employees, former Federal employees, and applicants for Federal employment (as the case may be) in connection with the respective provisions of law covered by paragraphs (1) and (2) of section 201(a) shall be provided to such employees, former employees, and applicants—
 
-    “(4) the number of employees disciplined for discrimination, retaliation, harassment, or any other infraction of any provision of law referred to in paragraph (1);
+>         “(1) in accordance with otherwise applicable provisions of law; or
 
-    “(5) the final year-end data posted under section 301(c)(1)(B) for such fiscal year (without regard to section 301(c)(2));
+>         “(2) if, or to the extent that, no such notification would otherwise be required, in such time, form, and manner as shall under section 204 be required in order to carry out the requirements of this section.
 
-    “(6) a detailed description of—
+>     “(b) __Posting on the Internet.—__ 
 
-    “(A) the policy implemented by that agency relating to appropriate disciplinary actions against a Federal employee who—
+>     Any written notification under this section shall include, but not be limited to, the posting of the information required under paragraph (1) or (2) (as applicable) of subsection (a) on the Internet site of the Federal agency involved.
 
-    “(i) discriminated against any individual in violation of any of the laws cited under section 201(a)(1) or (2); or
+>     “(c) __Employee Training.—__ 
 
-    “(ii) committed another prohibited personnel practice that was revealed in the investigation of a complaint alleging a violation of any of the laws cited under section 201(a)(1) or (2); and
+>     Each Federal agency shall provide to the employees of such agency training regarding the rights and remedies applicable to such employees under the laws cited in section 201(c).
 
-    “(B) with respect to each of such laws, the number of employees who are disciplined in accordance with such policy and the specific nature of the disciplinary action taken;
+> “SEC. 203. __REPORTING REQUIREMENT.__ 
 
-    “(7) an analysis of the information described under paragraphs (1) through (6) (in conjunction with data provided to the Equal Employment Opportunity Commission in compliance with part 1614 of title 29 of the Code of Federal Regulations) including—
+>     “(a) __Annual Report.—__ 
 
-    “(A) an examination of trends;
+>     Subject to subsection (b), not later than 180 days after the end of each fiscal year, each Federal agency shall submit to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, each committee of Congress with jurisdiction relating to the agency, the Equal Employment Opportunity Commission, and the Attorney General an annual report which shall include, with respect to the fiscal year—
 
-    “(B) causal analysis;
+>         “(1) the number of cases arising under each of the respective provisions of law covered by paragraphs (1) and (2) of section 201(a) in which discrimination on the part of such agency was alleged;
 
-    “(C) practical knowledge gained through experience; and
+>         “(2) the status or disposition of cases described in paragraph (1);
 
-    “(D) any actions planned or taken to improve complaint or civil rights programs of the agency; and
+>         “(3) the amount of money required to be reimbursed by such agency under section 201 in connection with each of such cases, separately identifying the aggregate amount of such reimbursements attributable to the payment of attorneys’ fees, if any;
 
-    “(8) any adjustment (to the extent the adjustment can be ascertained in the budget of the agency) to comply with the requirements under section 201.
+>         “(4) the number of employees disciplined for discrimination, retaliation, harassment, or any other infraction of any provision of law referred to in paragraph (1);
 
-    “(b) First Report.—The 1st report submitted under subsection (a) shall include for each item under subsection (a) data for each of the 5 immediately preceding fiscal years (or, if data are not available for all 5 fiscal years, for each of those 5 fiscal years for which data are available).
+>         “(5) the final year-end data posted under section 301(c)(1)(B) for such fiscal year (without regard to section 301(c)(2));
 
-    “SEC. 204. RULES AND GUIDELINES.
+>         “(6)
 
-    “(a) Issuance of Rules and Guidelines.—The President (or the designee of the President) shall issue—
+>          a detailed description of—
 
-    “(1) rules to carry out this title;
+>             “(A)
 
-    “(2) rules to require that a comprehensive study be conducted in the executive branch to determine the best practices relating to the appropriate disciplinary actions against Federal employees who commit the actions described under clauses (i) and (ii) of section 203(a)(6)(A); and
+>              the policy implemented by that agency relating to appropriate disciplinary actions against a Federal employee who—
 
-    “(3) based on the results of such study, advisory guidelines incorporating best practices that Federal agencies may follow to take such actions against such employees.
+>                 “(i) discriminated against any individual in violation of any of the laws cited under section 201(a)(1) or (2); or
 
-    “(b) Agency Notification Regarding Implementation of Guidelines.—Not later than 30 days after the issuance of guidelines under subsection (a), each Federal agency shall submit to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Equal Employment Opportunity Commission, and the Attorney General a written statement specifying in detail—
+>                 “(ii) committed another prohibited personnel practice that was revealed in the investigation of a complaint alleging a violation of any of the laws cited under section 201(a)(1) or (2); and
 
-    “(1) whether such agency has adopted and will fully follow such guidelines;
+>             “(B) with respect to each of such laws, the number of employees who are disciplined in accordance with such policy and the specific nature of the disciplinary action taken;
 
-    “(2) if such agency has not adopted such guidelines; the reasons for the failure to adopt such guidelines; and
+>         “(7)
 
-    “(3) if such agency will not fully follow such guidelines, the reasons for the decision not to fully follow such guidelines and an explanation of the extent to which such agency will not follow such guidelines.
+>          an analysis of the information described under paragraphs (1) through (6) (in conjunction with data provided to the Equal Employment Opportunity Commission in compliance with part 1614 of title 29 of the Code of Federal Regulations) including—
 
-    “SEC. 205. CLARIFICATION OF REMEDIES.
+>             “(A) an examination of trends;
 
-    “Consistent with Federal law, nothing in this title shall prevent any Federal employee, former Federal employee, or applicant for Federal employment from exercising any right otherwise available under the laws of the United States.
+>             “(B) causal analysis;
 
-    “SEC. 206. STUDIES BY GENERAL ACCOUNTING OFFICE \[now GOVERNMENT ACCOUNTABILITY OFFICE\] ON EXHAUSTION OF ADMINISTRATIVE REMEDIES AND ON ASCERTAINMENT OF CERTAIN DEPARTMENT OF JUSTICE COSTS.
+>             “(C) practical knowledge gained through experience; and
 
-    “(a) Study on Exhaustion of Administrative Remedies.—
+>             “(D) any actions planned or taken to improve complaint or civil rights programs of the agency; and
 
-    “(1) Study.—
+>         “(8) any adjustment (to the extent the adjustment can be ascertained in the budget of the agency) to comply with the requirements under section 201.
 
-    “(A) In general.—Not later than 180 days after the date of enactment of this Act \[May 15, 2002\], the General Accounting Office \[now Government Accountability Office\] shall conduct a study relating to the effects of eliminating the requirement that Federal employees aggrieved by violations of any of the laws specified under section 201(c) exhaust administrative remedies before filing complaints with the Equal Employment Opportunity Commission.
+>     “(b) __First Report.—__ 
 
-    “(B) Contents.—The study shall include a detailed summary of matters investigated, information collected, and conclusions formulated that lead to determinations of how the elimination of such requirement will—
+>     The 1st report submitted under subsection (a) shall include for each item under subsection (a) data for each of the 5 immediately preceding fiscal years (or, if data are not available for all 5 fiscal years, for each of those 5 fiscal years for which data are available).
 
-    “(i) expedite handling of allegations of such violations within Federal agencies and will streamline the complaint-filing process;
+> “SEC. 204. __RULES AND GUIDELINES.__ 
 
-    “(ii) affect the workload of the Commission;
+>     “(a) __Issuance of Rules and Guidelines.—__ 
 
-    “(iii) affect established alternative dispute resolution procedures in such agencies; and
+>     The President (or the designee of the President) shall issue—
 
-    “(iv) affect any other matters determined by the General Accounting Office \[now Government Accountability Office\] to be appropriate for consideration.
+>         “(1) rules to carry out this title;
 
-    “(2) Report.—Not later than 90 days after completion of the study required by paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Equal Employment Opportunity Commission, and the Attorney General a report containing the information required to be included in such study.
+>         “(2) rules to require that a comprehensive study be conducted in the executive branch to determine the best practices relating to the appropriate disciplinary actions against Federal employees who commit the actions described under clauses (i) and (ii) of section 203(a)(6)(A); and
 
-    “(b) Study on Ascertainment of Certain Costs of the Department of Justice in Defending Discrimination and Whistleblower Cases.—
+>         “(3) based on the results of such study, advisory guidelines incorporating best practices that Federal agencies may follow to take such actions against such employees.
 
-    “(1) Study.—Not later than 180 days after the date of enactment of this Act \[May 15, 2002\], the General Accounting Office \[now Government Accountability Office\] shall conduct a study of the methods that could be used for, and the extent of any administrative burden that would be imposed on, the Department of Justice to ascertain the personnel and administrative costs incurred in defending in each case arising from a proceeding identified under section 201(a)(1) and (2).
+>     “(b) __Agency Notification Regarding Implementation of Guidelines.—__ 
 
-    “(2) Report.—Not later than 90 days after completion of the study required by paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit to the Speaker of the House of Representatives and the President pro tempore of the Senate a report containing the information required to be included in the study.
+>     Not later than 30 days after the issuance of guidelines under subsection (a), each Federal agency shall submit to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Equal Employment Opportunity Commission, and the Attorney General a written statement specifying in detail—
 
-    “(c) Studies on Statutory Effects on Agency Operations.—
+>         “(1) whether such agency has adopted and will fully follow such guidelines;
 
-    “(1) In general.—Not later than 18 months after the date of enactment of this Act \[May 15, 2002\], the General Accounting Office \[now Government Accountability Office\] shall conduct—
+>         “(2) if such agency has not adopted such guidelines; the reasons for the failure to adopt such guidelines; and
 
-    “(A) a study on the effects of section 201 on the operations of Federal agencies; and
+>         “(3) if such agency will not fully follow such guidelines, the reasons for the decision not to fully follow such guidelines and an explanation of the extent to which such agency will not follow such guidelines.
 
-    “(B) a study on the effects of section 13 of the Contract Disputes Act of 1978 ([41 U.S.C. 612][/us/usc/t41/s612]) \[now [41 U.S.C. 7108][/us/usc/t41/s7108]\] on the operations of Federal agencies.
+> “SEC. 205. __CLARIFICATION OF REMEDIES.__ 
 
-    “(2) Contents.—Each study under paragraph (1) shall include, with respect to the applicable statutes of the study—
+>     “Consistent with Federal law, nothing in this title shall prevent any Federal employee, former Federal employee, or applicant for Federal employment from exercising any right otherwise available under the laws of the United States.
 
-    “(A) a summary of the number of cases in which a payment was made in accordance with section 2414, 2517, 2672, or 2677 of title 28, United States Code, and under [section 1304 of title 31][/us/usc/t31/s1304], United States Code;
+> “SEC. 206.
 
-    “(B) a summary of the length of time Federal agencies used to complete reimbursements of payments described under subparagraph (A); and
+>  STUDIES BY GENERAL ACCOUNTING OFFICE \[now GOVERNMENT ACCOUNTABILITY OFFICE\] ON EXHAUSTION OF ADMINISTRATIVE REMEDIES AND ON ASCERTAINMENT OF CERTAIN DEPARTMENT OF JUSTICE COSTS.
 
-    “(C) conclusions that assist in making determinations on how the reimbursements of payments described under subparagraph (A) will affect—
+>     “(a) __Study on Exhaustion of Administrative Remedies.—__ 
 
-    “(i) the operations of Federal agencies;
+>         “(1) __Study.—__ 
 
-    “(ii) funds appropriated on an annual basis;
+>             “(A) __In general.—__ 
 
-    “(iii) employee relations and other human capital matters;
+>             Not later than 180 days after the date of enactment of this Act \[May 15, 2002\], the General Accounting Office \[now Government Accountability Office\] shall conduct a study relating to the effects of eliminating the requirement that Federal employees aggrieved by violations of any of the laws specified under section 201(c) exhaust administrative remedies before filing complaints with the Equal Employment Opportunity Commission.
 
-    “(iv) settlements; and
+>             “(B) __Contents.—__ 
 
-    “(v) any other matter determined by the General Accounting Office \[now Government Accountability Office\] to be appropriate for consideration.
+>             The study shall include a detailed summary of matters investigated, information collected, and conclusions formulated that lead to determinations of how the elimination of such requirement will—
 
-    “(3) Reports.—Not later than 90 days after the completion of each study under paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit a report on each study, respectively, to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, and the Attorney General.
+>                 “(i) expedite handling of allegations of such violations within Federal agencies and will streamline the complaint-filing process;
 
-    “(d) Study on Administrative and Personnel Costs Incurred by the Department of the Treasury.—
+>                 “(ii) affect the workload of the Commission;
 
-    “(1) In general.—Not later than 1 year after the date of enactment of this Act \[May 15, 2002\], the General Accounting Office \[now Government Accountability Office\] shall conduct a study on the extent of any administrative and personnel costs incurred by the Department of the Treasury to account for payments made in accordance with section 2414, 2517, 2672, or 2677 of title 28, United States Code, and under [section 1304 of title 31][/us/usc/t31/s1304], United States Code, as a result of—
+>                 “(iii) affect established alternative dispute resolution procedures in such agencies; and
 
-    “(A) this Act; and
+>                 “(iv) affect any other matters determined by the General Accounting Office \[now Government Accountability Office\] to be appropriate for consideration.
 
-    “(B) the Contracts Dispute \[Contract Disputes\] Act of 1978 ([41 U.S.C. 601][/us/usc/t41/s601] note \[see [41 U.S.C. 7101][/us/usc/t41/s7101] et seq.\]; [Public Law 95–563][/us/pl/95/563]).
+>         “(2) __Report.—__ 
 
-    “(2) Report.—Not later than 90 days after the completion of the study under paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit a report on the study to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, and the Attorney General.
+>         Not later than 90 days after completion of the study required by paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Equal Employment Opportunity Commission, and the Attorney General a report containing the information required to be included in such study.
 
- __“TITLE III—EQUAL EMPLOYMENT OPPORTUNITY COMPLAINT DATA DISCLOSURE__ 
+>     “(b) __Study on Ascertainment of Certain Costs of the Department of Justice in Defending Discrimination and Whistleblower Cases.—__ 
 
-    “SEC. 301. DATA TO BE POSTED BY EMPLOYING FEDERAL AGENCIES.
+>         “(1) __Study.—__ 
 
-    “(a) In General.—Each Federal agency shall post on its public Web site, in the time, form, and manner prescribed under section 303 (in conformance with the requirements of this section), summary statistical data relating to equal employment opportunity complaints filed with such agency by employees or former employees of, or applicants for employment with, such agency.
+>         Not later than 180 days after the date of enactment of this Act \[May 15, 2002\], the General Accounting Office \[now Government Accountability Office\] shall conduct a study of the methods that could be used for, and the extent of any administrative burden that would be imposed on, the Department of Justice to ascertain the personnel and administrative costs incurred in defending in each case arising from a proceeding identified under section 201(a)(1) and (2).
 
-    “(b) Content Requirements.—The data posted by a Federal agency under this section shall include, for the then current fiscal year, the following:
+>         “(2) __Report.—__ 
 
-    “(1) The number of complaints filed with such agency in such fiscal year.
+>         Not later than 90 days after completion of the study required by paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit to the Speaker of the House of Representatives and the President pro tempore of the Senate a report containing the information required to be included in the study.
 
-    “(2) The number of individuals filing those complaints (including as the agent of a class).
+>     “(c) __Studies on Statutory Effects on Agency Operations.—__ 
 
-    “(3) The number of individuals who filed 2 or more of those complaints.
+>         “(1) __In general.—__ 
 
-    “(4) The number of complaints (described in paragraph (1)) in which each of the various bases of alleged discrimination is alleged.
+>         Not later than 18 months after the date of enactment of this Act \[May 15, 2002\], the General Accounting Office \[now Government Accountability Office\] shall conduct—
 
-    “(5) The number of complaints (described in paragraph (1)) in which each of the various issues of alleged discrimination is alleged.
+>             “(A) a study on the effects of section 201 on the operations of Federal agencies; and
 
-    “(6) The average length of time, for each step of the process, it is taking such agency to process complaints (taking into account all complaints pending for any length of time in such fiscal year, whether first filed in such fiscal year or earlier). Average times under this paragraph shall be posted—
+>             “(B) a study on the effects of section 13 of the Contract Disputes Act of 1978 ([41 U.S.C. 612][/us/usc/t41/s612]) \[now [41 U.S.C. 7108][/us/usc/t41/s7108]\] on the operations of Federal agencies.
 
-    “(A) for all such complaints,
+>         “(2) __Contents.—__ 
 
-    “(B) for all such complaints in which a hearing before an administrative judge of the Equal Employment Opportunity Commission is not requested, and
+>         Each study under paragraph (1) shall include, with respect to the applicable statutes of the study—
 
-    “(C) for all such complaints in which a hearing before an administrative judge of the Equal Employment Opportunity Commission is requested.
+>             “(A) a summary of the number of cases in which a payment was made in accordance with section 2414, 2517, 2672, or 2677 of title 28, United States Code, and under [section 1304 of title 31][/us/usc/t31/s1304], United States Code;
 
-    “(7) The total number of final agency actions rendered in such fiscal year involving a finding of discrimination and, of that number—
+>             “(B) a summary of the length of time Federal agencies used to complete reimbursements of payments described under subparagraph (A); and
 
-    “(A) the number and percentage that were rendered without a hearing before an administrative judge of the Equal Employment Opportunity Commission, and
+>             “(C)
 
-    “(B) the number and percentage that were rendered after a hearing before an administrative judge of the Equal Employment Opportunity Commission.
+>              conclusions that assist in making determinations on how the reimbursements of payments described under subparagraph (A) will affect—
 
-    “(8) Of the total number of final agency actions rendered in such fiscal year involving a finding of discrimination—
+>                 “(i) the operations of Federal agencies;
 
-    “(A) the number and percentage involving a finding of discrimination based on each of the respective bases of alleged discrimination, and
+>                 “(ii) funds appropriated on an annual basis;
 
-    “(B) of the number specified under subparagraph (A) for each of the respective bases of alleged discrimination—
+>                 “(iii) employee relations and other human capital matters;
 
-    “(i) the number and percentage that were rendered without a hearing before an administrative judge of the Equal Employment Opportunity Commission, and
+>                 “(iv) settlements; and
 
-    “(ii) the number and percentage that were rendered after a hearing before an administrative judge of the Equal Employment Opportunity Commission.
+>                 “(v) any other matter determined by the General Accounting Office \[now Government Accountability Office\] to be appropriate for consideration.
 
-    “(9) Of the total number of final agency actions rendered in such fiscal year involving a finding of discrimination—
+>         “(3) __Reports.—__ 
 
-    “(A) the number and percentage involving a finding of discrimination in connection with each of the respective issues of alleged discrimination, and
+>         Not later than 90 days after the completion of each study under paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit a report on each study, respectively, to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, and the Attorney General.
 
-    “(B) of the number specified under subparagraph (A) for each of the respective issues of alleged discrimination—
+>     “(d) __Study on Administrative and Personnel Costs Incurred by the Department of the Treasury.—__ 
 
-    “(i) the number and percentage that were rendered without a hearing before an administrative judge of the Equal Employment Opportunity Commission, and
+>         “(1) __In general.—__ 
 
-    “(ii) the number and percentage that were rendered after a hearing before an administrative judge of the Equal Employment Opportunity Commission.
+>         Not later than 1 year after the date of enactment of this Act \[May 15, 2002\], the General Accounting Office \[now Government Accountability Office\] shall conduct a study on the extent of any administrative and personnel costs incurred by the Department of the Treasury to account for payments made in accordance with section 2414, 2517, 2672, or 2677 of title 28, United States Code, and under [section 1304 of title 31][/us/usc/t31/s1304], United States Code, as a result of—
 
-    “(10)(A) Of the total number of complaints pending in such fiscal year (as described in the parenthetical matter in paragraph (6)), the number that were first filed before the start of the then current fiscal year.
+>             “(A) this Act; and
 
-    “(B) With respect to those pending complaints that were first filed before the start of the then current fiscal year—
+>             “(B) the Contracts Dispute \[Contract Disputes\] Act of 1978 ([41 U.S.C. 601][/us/usc/t41/s601] note \[see [41 U.S.C. 7101][/us/usc/t41/s7101] et seq.\]; [Public Law 95–563][/us/pl/95/563]).
 
-    “(i) the number of individuals who filed those complaints, and
+>         “(2) __Report.—__ 
 
-    “(ii) the number of those complaints which are at the various steps of the complaint process.
+>         Not later than 90 days after the completion of the study under paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit a report on the study to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, and the Attorney General.
 
-    “(C) Of the total number of complaints pending in such fiscal year (as described in the parenthetical matter in paragraph (6)), the total number of complaints with respect to which the agency violated the requirements of section 1614.106(e)(2) of title 29 of the Code of Federal Regulations (as in effect on July 1, 2000, and amended from time to time) by failing to conduct within 180 days of the filing of such complaints an impartial and appropriate investigation of such complaints.
+> “TITLE III— __EQUAL EMPLOYMENT OPPORTUNITY COMPLAINT DATA DISCLOSURE__ 
 
-    “(c) Timing and Other Requirements.—
+> “SEC. 301. __DATA TO BE POSTED BY EMPLOYING FEDERAL AGENCIES.__ 
 
-    “(1) Current year data.—Data posted under this section for the then current fiscal year shall include both—
+>     “(a) __In General.—__ 
 
-    “(A) interim year-to-date data, updated quarterly, and
+>     Each Federal agency shall post on its public Web site, in the time, form, and manner prescribed under section 303 (in conformance with the requirements of this section), summary statistical data relating to equal employment opportunity complaints filed with such agency by employees or former employees of, or applicants for employment with, such agency.
 
-    “(B) final year-end data.
+>     “(b) __Content Requirements.—__ 
 
-    “(2) Data for prior years.—The data posted by a Federal agency under this section for a fiscal year (both interim and final) shall include, for each item under subsection (b), such agency’s corresponding year-end data for each of the 5 immediately preceding fiscal years (or, if not available for all 5 fiscal years, for however many of those 5 fiscal years for which data are available).
+>     The data posted by a Federal agency under this section shall include, for the then current fiscal year, the following:
 
-    “SEC. 302. DATA TO BE POSTED BY THE EQUAL EMPLOYMENT OPPORTUNITY COMMISSION.
+>         “(1) The number of complaints filed with such agency in such fiscal year.
 
-    “(a) In General.—The Equal Employment Opportunity Commission shall post on its public Web site, in the time, form, and manner prescribed under section 303 for purposes of this section, summary statistical data relating to—
+>         “(2) The number of individuals filing those complaints (including as the agent of a class).
 
-    “(1) hearings requested before an administrative judge of the Commission on complaints described in section 301, and
+>         “(3) The number of individuals who filed 2 or more of those complaints.
 
-    “(2) appeals filed with the Commission from final agency actions on complaints described in section 301.
+>         “(4) The number of complaints (described in paragraph (1)) in which each of the various bases of alleged discrimination is alleged.
 
-    “(b) Specific Requirements.—The data posted under this section shall, with respect to the hearings and appeals described in subsection (a), include summary statistical data corresponding to that described in paragraphs (1) through (10) of section 301(b), and shall be subject to the same timing and other requirements as set forth in section 301(c).
+>         “(5) The number of complaints (described in paragraph (1)) in which each of the various issues of alleged discrimination is alleged.
 
-    “(c) Coordination.—The data required under this section shall be in addition to the data the Commission is required to post under section 301 as an employing Federal agency.
+>         “(6)
 
-    “SEC. 303. RULES.
+>          The average length of time, for each step of the process, it is taking such agency to process complaints (taking into account all complaints pending for any length of time in such fiscal year, whether first filed in such fiscal year or earlier). Average times under this paragraph shall be posted—
 
-    “The Equal Employment Opportunity Commission shall issue any rules necessary to carry out this title.”
+>             “(A) for all such complaints,
+
+>             “(B) for all such complaints in which a hearing before an administrative judge of the Equal Employment Opportunity Commission is not requested, and
+
+>             “(C) for all such complaints in which a hearing before an administrative judge of the Equal Employment Opportunity Commission is requested.
+
+>         “(7)
+
+>          The total number of final agency actions rendered in such fiscal year involving a finding of discrimination and, of that number—
+
+>             “(A) the number and percentage that were rendered without a hearing before an administrative judge of the Equal Employment Opportunity Commission, and
+
+>             “(B) the number and percentage that were rendered after a hearing before an administrative judge of the Equal Employment Opportunity Commission.
+
+>         “(8)
+
+>          Of the total number of final agency actions rendered in such fiscal year involving a finding of discrimination—
+
+>             “(A) the number and percentage involving a finding of discrimination based on each of the respective bases of alleged discrimination, and
+
+>             “(B)
+
+>              of the number specified under subparagraph (A) for each of the respective bases of alleged discrimination—
+
+>                 “(i) the number and percentage that were rendered without a hearing before an administrative judge of the Equal Employment Opportunity Commission, and
+
+>                 “(ii) the number and percentage that were rendered after a hearing before an administrative judge of the Equal Employment Opportunity Commission.
+
+>         “(9)
+
+>          Of the total number of final agency actions rendered in such fiscal year involving a finding of discrimination—
+
+>             “(A) the number and percentage involving a finding of discrimination in connection with each of the respective issues of alleged discrimination, and
+
+>             “(B)
+
+>              of the number specified under subparagraph (A) for each of the respective issues of alleged discrimination—
+
+>                 “(i) the number and percentage that were rendered without a hearing before an administrative judge of the Equal Employment Opportunity Commission, and
+
+>                 “(ii) the number and percentage that were rendered after a hearing before an administrative judge of the Equal Employment Opportunity Commission.
+
+>         “(10)
+
+>             (A) Of the total number of complaints pending in such fiscal year (as described in the parenthetical matter in paragraph (6)), the number that were first filed before the start of the then current fiscal year.
+
+>             “(B)
+
+>              With respect to those pending complaints that were first filed before the start of the then current fiscal year—
+
+>                 “(i) the number of individuals who filed those complaints, and
+
+>                 “(ii) the number of those complaints which are at the various steps of the complaint process.
+
+>             “(C) Of the total number of complaints pending in such fiscal year (as described in the parenthetical matter in paragraph (6)), the total number of complaints with respect to which the agency violated the requirements of section 1614.106(e)(2) of title 29 of the Code of Federal Regulations (as in effect on July 1, 2000, and amended from time to time) by failing to conduct within 180 days of the filing of such complaints an impartial and appropriate investigation of such complaints.
+
+>     “(c) __Timing and Other Requirements.—__ 
+
+>         “(1) __Current year data.—__ 
+
+>         Data posted under this section for the then current fiscal year shall include both—
+
+>             “(A) interim year-to-date data, updated quarterly, and
+
+>             “(B) final year-end data.
+
+>         “(2) __Data for prior years.—__ 
+
+>         The data posted by a Federal agency under this section for a fiscal year (both interim and final) shall include, for each item under subsection (b), such agency’s corresponding year-end data for each of the 5 immediately preceding fiscal years (or, if not available for all 5 fiscal years, for however many of those 5 fiscal years for which data are available).
+
+> “SEC. 302. __DATA TO BE POSTED BY THE EQUAL EMPLOYMENT OPPORTUNITY COMMISSION.__ 
+
+>     “(a) __In General.—__ 
+
+>     The Equal Employment Opportunity Commission shall post on its public Web site, in the time, form, and manner prescribed under section 303 for purposes of this section, summary statistical data relating to—
+
+>         “(1) hearings requested before an administrative judge of the Commission on complaints described in section 301, and
+
+>         “(2) appeals filed with the Commission from final agency actions on complaints described in section 301.
+
+>     “(b) __Specific Requirements.—__ 
+
+>     The data posted under this section shall, with respect to the hearings and appeals described in subsection (a), include summary statistical data corresponding to that described in paragraphs (1) through (10) of section 301(b), and shall be subject to the same timing and other requirements as set forth in section 301(c).
+
+>     “(c) __Coordination.—__ 
+
+>     The data required under this section shall be in addition to the data the Commission is required to post under section 301 as an employing Federal agency.
+
+> “SEC. 303. __RULES.__ 
+
+>     “The Equal Employment Opportunity Commission shall issue any rules necessary to carry out this title.”
 
     \[For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of Title 8][/us/usc/t8/s1551], Aliens and Nationality.\]
 

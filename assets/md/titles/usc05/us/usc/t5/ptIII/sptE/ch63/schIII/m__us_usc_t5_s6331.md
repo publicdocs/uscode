@@ -15,7 +15,7 @@
 
 ## § 6331. Definitions
 
-For the purpose of this subchapter—
+    For the purpose of this subchapter—
 
     (1) the term “employee” means an employee as defined by section 6301(2), excluding an individual employed by the government of the District of Columbia;
 

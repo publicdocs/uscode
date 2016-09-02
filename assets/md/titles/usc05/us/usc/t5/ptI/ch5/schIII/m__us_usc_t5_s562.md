@@ -15,7 +15,7 @@
 
 ## § 562. Definitions
 
-For the purposes of this subchapter, the term—
+    For the purposes of this subchapter, the term—
 
     (1) “agency” has the same meaning as in [section 551(1) of this title][/us/usc/t5/s551/1];
 

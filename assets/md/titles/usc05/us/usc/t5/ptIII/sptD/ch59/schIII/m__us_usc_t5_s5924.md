@@ -15,7 +15,7 @@
 
 ## § 5924. Cost-of-living allowances
 
-The following cost-of-living allowances may be granted, when applicable, to an employee in a foreign area:
+    The following cost-of-living allowances may be granted, when applicable, to an employee in a foreign area:
 
     (1) A post allowance to offset the difference between the cost of living at the post of assignment of the employee in a foreign area and the cost of living in the District of Columbia, except that employees receiving the temporary subsistence allowance under section 5923(1) are ineligible for a post allowance under this paragraph.
 

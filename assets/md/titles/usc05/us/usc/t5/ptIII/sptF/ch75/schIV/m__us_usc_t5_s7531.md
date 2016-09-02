@@ -15,7 +15,7 @@
 
 ## § 7531. Definitions
 
-For the purpose of this subchapter, “agency” means—
+    For the purpose of this subchapter, “agency” means—
 
     (1) the Department of State;
 
@@ -35,7 +35,7 @@ For the purpose of this subchapter, “agency” means—
 
     (9) such other agency of the Government of the United States as the President designates in the best interests of national security.
 
-        The President shall report any designation to the Committees on the Armed Services of the Congress.
+    The President shall report any designation to the Committees on the Armed Services of the Congress.
 
 ([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 528][/us/stat/80/528].)
 

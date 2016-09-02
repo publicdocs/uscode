@@ -15,7 +15,7 @@
 
 ## § 591. Purposes
 
-The purposes of this subchapter are—
+    The purposes of this subchapter are—
 
     (1) to provide suitable arrangements through which Federal agencies, assisted by outside experts, may cooperatively study mutual problems, exchange information, and develop recommendations for action by proper authorities to the end that private rights may be fully protected and regulatory activities and other Federal responsibilities may be carried out expeditiously in the public interest;
 

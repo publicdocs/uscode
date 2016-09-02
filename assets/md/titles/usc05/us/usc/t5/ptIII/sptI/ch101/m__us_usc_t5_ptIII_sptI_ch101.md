@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 10101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs10101" data-uslm-ref="/us/usc/t5/s10101">10101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 10102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs10102" data-uslm-ref="/us/usc/t5/s10102">10102.</a>  </td>
 
     <td> Strategic human capital plan.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 10103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs10103" data-uslm-ref="/us/usc/t5/s10103">10103.</a>  </td>
 
     <td> Career paths.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 10104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs10104" data-uslm-ref="/us/usc/t5/s10104">10104.</a>  </td>
 
     <td> Recruitment bonuses.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 10105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs10105" data-uslm-ref="/us/usc/t5/s10105">10105.</a>  </td>
 
     <td> Retention bonuses.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 10106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs10106" data-uslm-ref="/us/usc/t5/s10106">10106.</a>  </td>
 
     <td> Quarterly report on vacancy rate in employee positions.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 5708. Effect on other statutes
 
-This subchapter does not modify or repeal—
+    This subchapter does not modify or repeal—
 
     (1) any statute providing for the traveling expenses of the President;
 

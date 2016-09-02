@@ -29,51 +29,51 @@
 
   <tr>
 
-    <td> 11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptII%2Fch11" data-uslm-ref="/us/usc/t5/ptII/ch11">11.</a>  </td>
 
     <td> Office of Personnel Management  </td>
 
-    <td> 1101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1101" data-uslm-ref="/us/usc/t5/s1101">1101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 12.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptII%2Fch12" data-uslm-ref="/us/usc/t5/ptII/ch12">12.</a>  </td>
 
     <td> Merit Systems Protection Board, Office of Special Counsel, and Employee Right of Action  </td>
 
-    <td> 1201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1201" data-uslm-ref="/us/usc/t5/s1201">1201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptII%2Fch13" data-uslm-ref="/us/usc/t5/ptII/ch13">13.</a>  </td>
 
     <td> Special Authority  </td>
 
-    <td> 1301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1301" data-uslm-ref="/us/usc/t5/s1301">1301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 14.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptII%2Fch14" data-uslm-ref="/us/usc/t5/ptII/ch14">14.</a>  </td>
 
     <td> Agency Chief Human Capital Officers  </td>
 
-    <td> 1401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1401" data-uslm-ref="/us/usc/t5/s1401">1401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 15.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptII%2Fch15" data-uslm-ref="/us/usc/t5/ptII/ch15">15.</a>  </td>
 
     <td> Political Activity of Certain State and Local Employees  </td>
 
-    <td> 1501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1501" data-uslm-ref="/us/usc/t5/s1501">1501</a>  </td>
 
   </tr>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1501" data-uslm-ref="/us/usc/t5/s1501">1501.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1502" data-uslm-ref="/us/usc/t5/s1502">1502.</a>  </td>
 
     <td> Influencing elections; taking part in political campaigns; prohibitions; exceptions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1503" data-uslm-ref="/us/usc/t5/s1503">1503.</a>  </td>
 
     <td> Nonpartisan candidacies permitted.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1504" data-uslm-ref="/us/usc/t5/s1504">1504.</a>  </td>
 
     <td> Investigations; notice of hearing.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1505" data-uslm-ref="/us/usc/t5/s1505">1505.</a>  </td>
 
     <td> Hearings; adjudications; notice of determinations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1506" data-uslm-ref="/us/usc/t5/s1506">1506.</a>  </td>
 
     <td> Orders; withholding loans or grants; limitations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1507" data-uslm-ref="/us/usc/t5/s1507">1507.</a>  </td>
 
     <td> Subpenas and depositions.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1508" data-uslm-ref="/us/usc/t5/s1508">1508.</a>  </td>
 
     <td> Judicial review.  </td>
 

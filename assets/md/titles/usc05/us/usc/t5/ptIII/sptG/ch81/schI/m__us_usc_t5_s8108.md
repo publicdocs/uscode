@@ -15,13 +15,13 @@
 
 ## § 8108. Reduction of compensation for subsequent injury to same member
 
-The period of compensation payable under the schedule in [section 8107(c) of this title][/us/usc/t5/s8107/c] is reduced by the period of compensation paid or payable under the schedule for an earlier injury if—
+    The period of compensation payable under the schedule in [section 8107(c) of this title][/us/usc/t5/s8107/c] is reduced by the period of compensation paid or payable under the schedule for an earlier injury if—
 
     (1) compensation in both cases is for disability of the same member or function or different parts of the same member or function or for disfigurement; and
 
     (2) the Secretary of Labor finds that compensation payable for the later disability in whole or in part would duplicate the compensation payable for the preexisting disability.
 
-        In such a case, compensation for disability continuing after the scheduled period starts on expiration of that period as reduced under this section.
+    In such a case, compensation for disability continuing after the scheduled period starts on expiration of that period as reduced under this section.
 
 ([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 538][/us/stat/80/538]; [Pub. L. 90–83, § 1(51)][/us/pl/90/83/s1/51], Sept. 11, 1967, [81 Stat. 210][/us/stat/81/210].)
 

@@ -33,7 +33,7 @@ SUBCHAPTER I—AWARDS FOR SUPERIOR ACCOMPLISHMENTS  </td>
 
   <tr>
 
-    <td> 4501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4501" data-uslm-ref="/us/usc/t5/s4501">4501.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—AWARDS FOR SUPERIOR ACCOMPLISHMENTS  </td>
 
   <tr>
 
-    <td> 4502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4502" data-uslm-ref="/us/usc/t5/s4502">4502.</a>  </td>
 
     <td> General provisions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—AWARDS FOR SUPERIOR ACCOMPLISHMENTS  </td>
 
   <tr>
 
-    <td> 4503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4503" data-uslm-ref="/us/usc/t5/s4503">4503.</a>  </td>
 
     <td> Agency awards.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—AWARDS FOR SUPERIOR ACCOMPLISHMENTS  </td>
 
   <tr>
 
-    <td> 4504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4504" data-uslm-ref="/us/usc/t5/s4504">4504.</a>  </td>
 
     <td> Presidential awards.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—AWARDS FOR SUPERIOR ACCOMPLISHMENTS  </td>
 
   <tr>
 
-    <td> 4505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4505" data-uslm-ref="/us/usc/t5/s4505">4505.</a>  </td>
 
     <td> Awards to former employees.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—AWARDS FOR SUPERIOR ACCOMPLISHMENTS  </td>
 
   <tr>
 
-    <td> 4505a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4505a" data-uslm-ref="/us/usc/t5/s4505a">4505a.</a>  </td>
 
     <td> Performance-based cash awards.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—AWARDS FOR SUPERIOR ACCOMPLISHMENTS  </td>
 
   <tr>
 
-    <td> 4506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4506" data-uslm-ref="/us/usc/t5/s4506">4506.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—AWARDS FOR SUPERIOR ACCOMPLISHMENTS  </td>
 
   <tr>
 
-    <td> 4507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4507" data-uslm-ref="/us/usc/t5/s4507">4507.</a>  </td>
 
     <td> Awarding of Ranks  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  in the Senior Executive Service.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—AWARDS FOR SUPERIOR ACCOMPLISHMENTS  </td>
 
   <tr>
 
-    <td> 4507a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4507a" data-uslm-ref="/us/usc/t5/s4507a">4507a.</a>  </td>
 
     <td> Awarding of ranks to other senior career employees.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—AWARDS FOR SUPERIOR ACCOMPLISHMENTS  </td>
 
   <tr>
 
-    <td> 4508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4508" data-uslm-ref="/us/usc/t5/s4508">4508.</a>  </td>
 
     <td> Limitation of awards during a Presidential election year.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—AWARDS FOR SUPERIOR ACCOMPLISHMENTS  </td>
 
   <tr>
 
-    <td> 4509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4509" data-uslm-ref="/us/usc/t5/s4509">4509.</a>  </td>
 
     <td> Prohibition of cash award to Executive Schedule officers.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—AWARDS FOR COST SAVINGS DISCLOSURES  </td>
 
   <tr>
 
-    <td> 4511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4511" data-uslm-ref="/us/usc/t5/s4511">4511.</a>  </td>
 
     <td> Definition and general provisions.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—AWARDS FOR COST SAVINGS DISCLOSURES  </td>
 
   <tr>
 
-    <td> 4512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4512" data-uslm-ref="/us/usc/t5/s4512">4512.</a>  </td>
 
     <td> Agency awards for cost savings disclosures.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—AWARDS FOR COST SAVINGS DISCLOSURES  </td>
 
   <tr>
 
-    <td> 4513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4513" data-uslm-ref="/us/usc/t5/s4513">4513.</a>  </td>
 
     <td> Presidential awards for cost savings disclosures.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—AWARDS FOR COST SAVINGS DISCLOSURES  </td>
 
   <tr>
 
-    <td> [4514.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4514" data-uslm-ref="/us/usc/t5/s4514">4514.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—AWARDS TO LAW ENFORCEMENT OFFICERS FOR FOREIGN LANGUAGE CAPABIL
 
   <tr>
 
-    <td> 4521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4521" data-uslm-ref="/us/usc/t5/s4521">4521.</a>  </td>
 
     <td> Definition.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—AWARDS TO LAW ENFORCEMENT OFFICERS FOR FOREIGN LANGUAGE CAPABIL
 
   <tr>
 
-    <td> 4522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4522" data-uslm-ref="/us/usc/t5/s4522">4522.</a>  </td>
 
     <td> General provision.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—AWARDS TO LAW ENFORCEMENT OFFICERS FOR FOREIGN LANGUAGE CAPABIL
 
   <tr>
 
-    <td> 4523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4523" data-uslm-ref="/us/usc/t5/s4523">4523.</a>  </td>
 
     <td> Award authority.  </td>
 

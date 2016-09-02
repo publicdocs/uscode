@@ -15,7 +15,7 @@
 
 ## § 1401. Establishment of agency Chief Human Capital Officers
 
-The head of each agency referred to under paragraphs (1) and (2) of [section 901(b) of title 31][/us/usc/t31/s901/b] shall appoint or designate a Chief Human Capital Officer, who shall—
+    The head of each agency referred to under paragraphs (1) and (2) of [section 901(b) of title 31][/us/usc/t31/s901/b] shall appoint or designate a Chief Human Capital Officer, who shall—
 
     (1) advise and assist the head of the agency and other agency officials in carrying out the agency’s responsibilities for selecting, developing, training, and managing a high-quality, productive workforce in accordance with merit system principles;
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 10201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs10201" data-uslm-ref="/us/usc/t5/s10201">10201.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 10202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs10202" data-uslm-ref="/us/usc/t5/s10202">10202.</a>  </td>
 
     <td> Authorities.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 10203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs10203" data-uslm-ref="/us/usc/t5/s10203">10203.</a>  </td>
 
     <td> Basic pay.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 10204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs10204" data-uslm-ref="/us/usc/t5/s10204">10204.</a>  </td>
 
     <td> Rate of pay for original appointments.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 10205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs10205" data-uslm-ref="/us/usc/t5/s10205">10205.</a>  </td>
 
     <td> Service step adjustments.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 10206.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs10206" data-uslm-ref="/us/usc/t5/s10206">10206.</a>  </td>
 
     <td> Technician positions.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 10207.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs10207" data-uslm-ref="/us/usc/t5/s10207">10207.</a>  </td>
 
     <td> Promotions.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 10208.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs10208" data-uslm-ref="/us/usc/t5/s10208">10208.</a>  </td>
 
     <td> Demotions.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 10209.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs10209" data-uslm-ref="/us/usc/t5/s10209">10209.</a>  </td>
 
     <td> Clothing allowances.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 10210.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs10210" data-uslm-ref="/us/usc/t5/s10210">10210.</a>  </td>
 
     <td> Reporting requirement.  </td>
 

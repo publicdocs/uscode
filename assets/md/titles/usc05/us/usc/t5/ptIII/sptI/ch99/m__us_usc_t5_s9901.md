@@ -15,7 +15,7 @@
 
 ## § 9901. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) the term “Director” means the Director of the Office of Personnel Management; and
 

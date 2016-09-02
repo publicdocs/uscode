@@ -15,7 +15,7 @@
 
 ## § 5301. Policy
 
-It is the policy of Congress that Federal pay fixing for employees under the General Schedule be based on the principles that—
+    It is the policy of Congress that Federal pay fixing for employees under the General Schedule be based on the principles that—
 
     (1) there be equal pay for substantially equal work within each local pay area;
 

@@ -15,7 +15,7 @@
 
 ## § 5113. Classification records
 
-The Office of Personnel Management may—
+    The Office of Personnel Management may—
 
     (1) prescribe the form in which each agency shall record the duties and responsibilities of positions and the places where these records shall be maintained;
 

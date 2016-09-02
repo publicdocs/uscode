@@ -33,7 +33,7 @@ SUBCHAPTER I—REGULATION OF CONDUCT  </td>
 
   <tr>
 
-    <td> 7301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7301" data-uslm-ref="/us/usc/t5/s7301">7301.</a>  </td>
 
     <td> Presidential regulations.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—REGULATION OF CONDUCT  </td>
 
   <tr>
 
-    <td> 7302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7302" data-uslm-ref="/us/usc/t5/s7302">7302.</a>  </td>
 
     <td> Post-employment notification.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER II—EMPLOYMENT LIMITATIONS  </td>
 
   <tr>
 
-    <td> 7311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7311" data-uslm-ref="/us/usc/t5/s7311">7311.</a>  </td>
 
     <td> Loyalty and striking.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—EMPLOYMENT LIMITATIONS  </td>
 
   <tr>
 
-    <td> 7312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7312" data-uslm-ref="/us/usc/t5/s7312">7312.</a>  </td>
 
     <td> Employment and clearance; individuals removed for national security.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—EMPLOYMENT LIMITATIONS  </td>
 
   <tr>
 
-    <td> 7313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7313" data-uslm-ref="/us/usc/t5/s7313">7313.</a>  </td>
 
     <td> Riots and civil disorders.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER III—POLITICAL ACTIVITIES  </td>
 
   <tr>
 
-    <td> 7321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7321" data-uslm-ref="/us/usc/t5/s7321">7321.</a>  </td>
 
     <td> Political participation.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER III—POLITICAL ACTIVITIES  </td>
 
   <tr>
 
-    <td> 7322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7322" data-uslm-ref="/us/usc/t5/s7322">7322.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER III—POLITICAL ACTIVITIES  </td>
 
   <tr>
 
-    <td> 7323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7323" data-uslm-ref="/us/usc/t5/s7323">7323.</a>  </td>
 
     <td> Political activity authorized; prohibitions.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER III—POLITICAL ACTIVITIES  </td>
 
   <tr>
 
-    <td> 7324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7324" data-uslm-ref="/us/usc/t5/s7324">7324.</a>  </td>
 
     <td> Political activities on duty; prohibition.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER III—POLITICAL ACTIVITIES  </td>
 
   <tr>
 
-    <td> 7325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7325" data-uslm-ref="/us/usc/t5/s7325">7325.</a>  </td>
 
     <td> Political activity permitted; employees residing in certain municipalities.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER III—POLITICAL ACTIVITIES  </td>
 
   <tr>
 
-    <td> 7326.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7326" data-uslm-ref="/us/usc/t5/s7326">7326.</a>  </td>
 
     <td> Penalties.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER IV—FOREIGN GIFTS AND DECORATIONS  </td>
 
   <tr>
 
-    <td> [7341.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7341" data-uslm-ref="/us/usc/t5/s7341">7341.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER IV—FOREIGN GIFTS AND DECORATIONS  </td>
 
   <tr>
 
-    <td> 7342.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7342" data-uslm-ref="/us/usc/t5/s7342">7342.</a>  </td>
 
     <td> Receipt and disposition of foreign gifts and decorations.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER V—MISCONDUCT  </td>
 
   <tr>
 
-    <td> 7351.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7351" data-uslm-ref="/us/usc/t5/s7351">7351.</a>  </td>
 
     <td> Gifts to superiors.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER V—MISCONDUCT  </td>
 
   <tr>
 
-    <td> 7352.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7352" data-uslm-ref="/us/usc/t5/s7352">7352.</a>  </td>
 
     <td> Excessive and habitual use of intoxicants.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER V—MISCONDUCT  </td>
 
   <tr>
 
-    <td> 7353.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7353" data-uslm-ref="/us/usc/t5/s7353">7353.</a>  </td>
 
     <td> Gifts to Federal employees.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER VI—DRUG ABUSE, ALCOHOL ABUSE, AND ALCOHOLISM  </td>
 
   <tr>
 
-    <td> 7361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7361" data-uslm-ref="/us/usc/t5/s7361">7361.</a>  </td>
 
     <td> Drug abuse.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER VI—DRUG ABUSE, ALCOHOL ABUSE, AND ALCOHOLISM  </td>
 
   <tr>
 
-    <td> 7362.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7362" data-uslm-ref="/us/usc/t5/s7362">7362.</a>  </td>
 
     <td> Alcohol abuse and alcoholism.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER VI—DRUG ABUSE, ALCOHOL ABUSE, AND ALCOHOLISM  </td>
 
   <tr>
 
-    <td> 7363.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7363" data-uslm-ref="/us/usc/t5/s7363">7363.</a>  </td>
 
     <td> Reports to Congress.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER VII—MANDATORY REMOVAL FROM EMPLOYMENT OF CONVICTED LAW ENFORCEMENT 
 
   <tr>
 
-    <td> 7371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7371" data-uslm-ref="/us/usc/t5/s7371">7371.</a>  </td>
 
     <td> Mandatory removal from employment of law enforcement officers convicted of felonies.  </td>
 

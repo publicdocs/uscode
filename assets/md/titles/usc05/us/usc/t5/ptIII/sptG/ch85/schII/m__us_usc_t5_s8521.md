@@ -155,9 +155,13 @@ Aug. 28, 1958, Pub. L. 85–848, § 3 “Sec. 1511(a)–(c)”, 72 Stat. 1088.
 
 [Pub. L. 97–362, title II, § 201(c)][/us/pl/97/362/s201/c], Oct. 25, 1982, [96 Stat. 1732][/us/stat/96/1732], provided that:
 
->     “(1) __In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\], shall apply with respect to terminations of service on or after__  __July 1, 1981__  __, but only for purposes of determining eligibility for benefits for weeks of unemployment beginning after the date of the enactment of this Act \[__  __Oct. 25, 1982__  __\].__ 
+>     “(1) __In general.—__ 
 
->     “(2) __Transitional rule.—The amendments made by this section shall not apply to the extent that such amendments would (but for this paragraph) reduce the amount of compensation payable in the case of benefit years established before the date of the enactment of this Act \[__  __Oct. 25, 1982__  __\].”__ 
+>     Except as provided in paragraph (2), the amendments made by this section \[amending this section\], shall apply with respect to terminations of service on or after July 1, 1981, but only for purposes of determining eligibility for benefits for weeks of unemployment beginning after the date of the enactment of this Act \[Oct. 25, 1982\].
+
+>     “(2) __Transitional rule.—__ 
+
+>     The amendments made by this section shall not apply to the extent that such amendments would (but for this paragraph) reduce the amount of compensation payable in the case of benefit years established before the date of the enactment of this Act \[Oct. 25, 1982\].”
 
  __Effective Date of 1981 Amendment__ 
 

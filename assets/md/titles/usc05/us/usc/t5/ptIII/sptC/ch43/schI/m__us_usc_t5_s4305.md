@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t5/ptIII/sptC/ch43/schI/m__us_usc_t5_s4304.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptC/ch43/schI/m__us_usc_t5_s4306 to 4308.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4305)
+[Previous](./../../../../../../..//us/usc/t5/ptIII/sptC/ch43/schI/m__us_usc_t5_s4304.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptC/ch43/schII/m__us_usc_t5_ptIII_sptC_ch43_schII.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4305)
 
 ## § 4305. Regulations
 
@@ -79,9 +79,21 @@ Sept. 30, 1950, ch. 1123, § 7, 64 Stat. 1099.  </td>
 
     Amendment by [Pub. L. 95–454][/us/pl/95/454] effective 90 days after Oct. 13, 1978, see [section 907 of Pub. L. 95–454][/us/pl/95/454/s907], set out as a note under [section 1101 of this title][/us/usc/t5/s1101].
 
+\[§§ 4306 to 4308. __Omitted\]__ 
+
+ __Codification__ 
+
+    Sections 4306 to 4308, [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 441][/us/stat/80/441], 442, were omitted in the general revision of this chapter by the Civil Service Reform Act of 1978, [Pub. L. 95–454, § 203(a)][/us/pl/95/454/s203/a], Oct. 13, 1978, [92 Stat. 1131][/us/stat/92/1131].
+
+    Section 4306 related to inspection of performance-rating plans.
+
+    Section 4307 related to prohibition of other rating procedures.
+
+    Section 4308 related to regulations for administration of the chapter, and is covered by revised section 4305.
+
 ----------
 
-[Previous](./../../../../../../..//us/usc/t5/ptIII/sptC/ch43/schI/m__us_usc_t5_s4304.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptC/ch43/schI/m__us_usc_t5_s4306 to 4308.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4305)
+[Previous](./../../../../../../..//us/usc/t5/ptIII/sptC/ch43/schI/m__us_usc_t5_s4304.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptC/ch43/schII/m__us_usc_t5_ptIII_sptC_ch43_schII.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4305)
 
 ----------
 ----------
@@ -94,5 +106,9 @@ Sept. 30, 1950, ch. 1123, § 7, 64 Stat. 1099.  </td>
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
+[/us/stat/80/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F441
+[/us/pl/95/454/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs203%2Fa
+[/us/stat/92/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1131
 
 

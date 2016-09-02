@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 5501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5501" data-uslm-ref="/us/usc/t5/s5501">5501.</a>  </td>
 
     <td> Disposition of money accruing from lapsed salaries or unused appropriations for salaries.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 5502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5502" data-uslm-ref="/us/usc/t5/s5502">5502.</a>  </td>
 
     <td> Unauthorized office; prohibition on use of funds.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 5503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5503" data-uslm-ref="/us/usc/t5/s5503">5503.</a>  </td>
 
     <td> Recess appointments.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 5504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5504" data-uslm-ref="/us/usc/t5/s5504">5504.</a>  </td>
 
     <td> Biweekly pay periods; computation of pay.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 5505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5505" data-uslm-ref="/us/usc/t5/s5505">5505.</a>  </td>
 
     <td> Monthly pay periods; computation of pay.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 5506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5506" data-uslm-ref="/us/usc/t5/s5506">5506.</a>  </td>
 
     <td> Computation of extra pay based on standard or daylight saving time.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 5507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5507" data-uslm-ref="/us/usc/t5/s5507">5507.</a>  </td>
 
     <td> Officer affidavit; condition to pay.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 5508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5508" data-uslm-ref="/us/usc/t5/s5508">5508.</a>  </td>
 
     <td> Officer entitled to leave; effect on pay status.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 5509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5509" data-uslm-ref="/us/usc/t5/s5509">5509.</a>  </td>
 
     <td> Appropriations.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—WITHHOLDING PAY  </td>
 
   <tr>
 
-    <td> 5511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5511" data-uslm-ref="/us/usc/t5/s5511">5511.</a>  </td>
 
     <td> Withholding pay; employees removed for cause.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—WITHHOLDING PAY  </td>
 
   <tr>
 
-    <td> 5512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5512" data-uslm-ref="/us/usc/t5/s5512">5512.</a>  </td>
 
     <td> Withholding pay; individuals in arrears.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—WITHHOLDING PAY  </td>
 
   <tr>
 
-    <td> 5513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5513" data-uslm-ref="/us/usc/t5/s5513">5513.</a>  </td>
 
     <td> Withholding pay; credit disallowed or charge raised for payment.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—WITHHOLDING PAY  </td>
 
   <tr>
 
-    <td> 5514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5514" data-uslm-ref="/us/usc/t5/s5514">5514.</a>  </td>
 
     <td> Installment deduction for indebtedness because of erroneous payment. <sup>[1]</sup>  <sup><sup> 1 Section catchline amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F97%2F365" data-uslm-ref="/us/pl/97/365">Pub. L. 97–365</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—WITHHOLDING PAY  </td>
 
   <tr>
 
-    <td> 5515.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5515" data-uslm-ref="/us/usc/t5/s5515">5515.</a>  </td>
 
     <td> Crediting amounts received for jury or witness service.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—WITHHOLDING PAY  </td>
 
   <tr>
 
-    <td> 5516.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5516" data-uslm-ref="/us/usc/t5/s5516">5516.</a>  </td>
 
     <td> Withholding District of Columbia income taxes.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—WITHHOLDING PAY  </td>
 
   <tr>
 
-    <td> 5517.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5517" data-uslm-ref="/us/usc/t5/s5517">5517.</a>  </td>
 
     <td> Withholding State income taxes.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—WITHHOLDING PAY  </td>
 
   <tr>
 
-    <td> 5518.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5518" data-uslm-ref="/us/usc/t5/s5518">5518.</a>  </td>
 
     <td> Deductions for State retirement systems; National Guard employees.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—WITHHOLDING PAY  </td>
 
   <tr>
 
-    <td> 5519.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5519" data-uslm-ref="/us/usc/t5/s5519">5519.</a>  </td>
 
     <td> Crediting amounts received for certain Reserve or National Guard service.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—WITHHOLDING PAY  </td>
 
   <tr>
 
-    <td> 5520.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5520" data-uslm-ref="/us/usc/t5/s5520">5520.</a>  </td>
 
     <td> Withholding of city or county income or employment taxes.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—WITHHOLDING PAY  </td>
 
   <tr>
 
-    <td> 5520a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5520a" data-uslm-ref="/us/usc/t5/s5520a">5520a.</a>  </td>
 
     <td> Garnishment of pay.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER III—ADVANCEMENT, ALLOTMENT, AND ASSIGNMENT OF PAY  </td>
 
   <tr>
 
-    <td> 5521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5521" data-uslm-ref="/us/usc/t5/s5521">5521.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER III—ADVANCEMENT, ALLOTMENT, AND ASSIGNMENT OF PAY  </td>
 
   <tr>
 
-    <td> 5522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5522" data-uslm-ref="/us/usc/t5/s5522">5522.</a>  </td>
 
     <td> Advance payments; rates; amounts recoverable.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER III—ADVANCEMENT, ALLOTMENT, AND ASSIGNMENT OF PAY  </td>
 
   <tr>
 
-    <td> 5523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5523" data-uslm-ref="/us/usc/t5/s5523">5523.</a>  </td>
 
     <td> Duration of payments; rates; active service period.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER III—ADVANCEMENT, ALLOTMENT, AND ASSIGNMENT OF PAY  </td>
 
   <tr>
 
-    <td> 5524.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5524" data-uslm-ref="/us/usc/t5/s5524">5524.</a>  </td>
 
     <td> Review of accounts.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER III—ADVANCEMENT, ALLOTMENT, AND ASSIGNMENT OF PAY  </td>
 
   <tr>
 
-    <td> 5524a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5524a" data-uslm-ref="/us/usc/t5/s5524a">5524a.</a>  </td>
 
     <td> Advance payments for new appointees.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER III—ADVANCEMENT, ALLOTMENT, AND ASSIGNMENT OF PAY  </td>
 
   <tr>
 
-    <td> 5525.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5525" data-uslm-ref="/us/usc/t5/s5525">5525.</a>  </td>
 
     <td> Allotment and assignment of pay.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER III—ADVANCEMENT, ALLOTMENT, AND ASSIGNMENT OF PAY  </td>
 
   <tr>
 
-    <td> 5526.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5526" data-uslm-ref="/us/usc/t5/s5526">5526.</a>  </td>
 
     <td> Funds available on reimbursable basis.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER III—ADVANCEMENT, ALLOTMENT, AND ASSIGNMENT OF PAY  </td>
 
   <tr>
 
-    <td> 5527.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5527" data-uslm-ref="/us/usc/t5/s5527">5527.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER IV—DUAL PAY AND DUAL EMPLOYMENT  </td>
 
   <tr>
 
-    <td> 5531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5531" data-uslm-ref="/us/usc/t5/s5531">5531.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER IV—DUAL PAY AND DUAL EMPLOYMENT  </td>
 
   <tr>
 
-    <td> [5532.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5532" data-uslm-ref="/us/usc/t5/s5532">5532.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER IV—DUAL PAY AND DUAL EMPLOYMENT  </td>
 
   <tr>
 
-    <td> 5533.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5533" data-uslm-ref="/us/usc/t5/s5533">5533.</a>  </td>
 
     <td> Dual pay from more than one position; limitations; exceptions.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER IV—DUAL PAY AND DUAL EMPLOYMENT  </td>
 
   <tr>
 
-    <td> 5534.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5534" data-uslm-ref="/us/usc/t5/s5534">5534.</a>  </td>
 
     <td> Dual employment and pay of Reserves and National Guardsmen.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER IV—DUAL PAY AND DUAL EMPLOYMENT  </td>
 
   <tr>
 
-    <td> 5534a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5534a" data-uslm-ref="/us/usc/t5/s5534a">5534a.</a>  </td>
 
     <td> Dual employment and pay during terminal leave from uniformed services.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER IV—DUAL PAY AND DUAL EMPLOYMENT  </td>
 
   <tr>
 
-    <td> 5535.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5535" data-uslm-ref="/us/usc/t5/s5535">5535.</a>  </td>
 
     <td> Extra pay for details prohibited.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER IV—DUAL PAY AND DUAL EMPLOYMENT  </td>
 
   <tr>
 
-    <td> 5536.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5536" data-uslm-ref="/us/usc/t5/s5536">5536.</a>  </td>
 
     <td> Extra pay for extra services prohibited.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER IV—DUAL PAY AND DUAL EMPLOYMENT  </td>
 
   <tr>
 
-    <td> 5537.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5537" data-uslm-ref="/us/usc/t5/s5537">5537.</a>  </td>
 
     <td> Fees for jury and witness service.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER IV—DUAL PAY AND DUAL EMPLOYMENT  </td>
 
   <tr>
 
-    <td> 5538.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5538" data-uslm-ref="/us/usc/t5/s5538">5538.</a>  </td>
 
     <td> Nonreduction in pay while serving in the uniformed services or National Guard.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER V—PREMIUM PAY  </td>
 
   <tr>
 
-    <td> 5541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5541" data-uslm-ref="/us/usc/t5/s5541">5541.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER V—PREMIUM PAY  </td>
 
   <tr>
 
-    <td> 5542.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5542" data-uslm-ref="/us/usc/t5/s5542">5542.</a>  </td>
 
     <td> Overtime rates; computation.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER V—PREMIUM PAY  </td>
 
   <tr>
 
-    <td> 5543.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5543" data-uslm-ref="/us/usc/t5/s5543">5543.</a>  </td>
 
     <td> Compensatory time off.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER V—PREMIUM PAY  </td>
 
   <tr>
 
-    <td> 5544.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5544" data-uslm-ref="/us/usc/t5/s5544">5544.</a>  </td>
 
     <td> Wage-board overtime and Sunday rates; computation.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER V—PREMIUM PAY  </td>
 
   <tr>
 
-    <td> 5545.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5545" data-uslm-ref="/us/usc/t5/s5545">5545.</a>  </td>
 
     <td> Night, standby, irregular, and hazardous duty differential.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER V—PREMIUM PAY  </td>
 
   <tr>
 
-    <td> 5545a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5545a" data-uslm-ref="/us/usc/t5/s5545a">5545a.</a>  </td>
 
     <td> Availability pay for criminal investigators.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER V—PREMIUM PAY  </td>
 
   <tr>
 
-    <td> 5545b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5545b" data-uslm-ref="/us/usc/t5/s5545b">5545b.</a>  </td>
 
     <td> Pay for firefighters.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER V—PREMIUM PAY  </td>
 
   <tr>
 
-    <td> 5546.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5546" data-uslm-ref="/us/usc/t5/s5546">5546.</a>  </td>
 
     <td> Pay for Sunday and holiday work.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER V—PREMIUM PAY  </td>
 
   <tr>
 
-    <td> 5546a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5546a" data-uslm-ref="/us/usc/t5/s5546a">5546a.</a>  </td>
 
     <td> Differential pay for certain employees of the Federal Aviation Administration and the Department of Defense.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER V—PREMIUM PAY  </td>
 
   <tr>
 
-    <td> 5547.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5547" data-uslm-ref="/us/usc/t5/s5547">5547.</a>  </td>
 
     <td> Limitation on premium pay.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER V—PREMIUM PAY  </td>
 
   <tr>
 
-    <td> 5548.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5548" data-uslm-ref="/us/usc/t5/s5548">5548.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER V—PREMIUM PAY  </td>
 
   <tr>
 
-    <td> 5549.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5549" data-uslm-ref="/us/usc/t5/s5549">5549.</a>  </td>
 
     <td> Effect on other statutes.  </td>
 
@@ -457,7 +457,7 @@ SUBCHAPTER V—PREMIUM PAY  </td>
 
   <tr>
 
-    <td> [5550.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5550" data-uslm-ref="/us/usc/t5/s5550">5550.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -465,7 +465,7 @@ SUBCHAPTER V—PREMIUM PAY  </td>
 
   <tr>
 
-    <td> 5550a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5550a" data-uslm-ref="/us/usc/t5/s5550a">5550a.</a>  </td>
 
     <td> Compensatory time off for religious observ­ances.  </td>
 
@@ -473,7 +473,7 @@ SUBCHAPTER V—PREMIUM PAY  </td>
 
   <tr>
 
-    <td> 5550b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5550b" data-uslm-ref="/us/usc/t5/s5550b">5550b.</a>  </td>
 
     <td> Compensatory time off for travel.  </td>
 
@@ -489,7 +489,7 @@ SUBCHAPTER VI—PAYMENT FOR ACCUMULATED AND ACCRUED LEAVE  </td>
 
   <tr>
 
-    <td> 5551.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5551" data-uslm-ref="/us/usc/t5/s5551">5551.</a>  </td>
 
     <td> Lump-sum payment for accumulated and accrued leave on separation.  </td>
 
@@ -497,7 +497,7 @@ SUBCHAPTER VI—PAYMENT FOR ACCUMULATED AND ACCRUED LEAVE  </td>
 
   <tr>
 
-    <td> 5552.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5552" data-uslm-ref="/us/usc/t5/s5552">5552.</a>  </td>
 
     <td> Lump-sum payment for accumulated and accrued leave on entering active duty; election.  </td>
 
@@ -505,7 +505,7 @@ SUBCHAPTER VI—PAYMENT FOR ACCUMULATED AND ACCRUED LEAVE  </td>
 
   <tr>
 
-    <td> 5553.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5553" data-uslm-ref="/us/usc/t5/s5553">5553.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -521,7 +521,7 @@ SUBCHAPTER VII—PAYMENTS TO MISSING EMPLOYEES  </td>
 
   <tr>
 
-    <td> 5561.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5561" data-uslm-ref="/us/usc/t5/s5561">5561.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -529,7 +529,7 @@ SUBCHAPTER VII—PAYMENTS TO MISSING EMPLOYEES  </td>
 
   <tr>
 
-    <td> 5562.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5562" data-uslm-ref="/us/usc/t5/s5562">5562.</a>  </td>
 
     <td> Pay and allowances; continuance while in a missing status; limitations.  </td>
 
@@ -537,7 +537,7 @@ SUBCHAPTER VII—PAYMENTS TO MISSING EMPLOYEES  </td>
 
   <tr>
 
-    <td> 5563.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5563" data-uslm-ref="/us/usc/t5/s5563">5563.</a>  </td>
 
     <td> Allotments; continuance, suspension, initiation, resumption, or increase while in a missing status; limitations.  </td>
 
@@ -545,7 +545,7 @@ SUBCHAPTER VII—PAYMENTS TO MISSING EMPLOYEES  </td>
 
   <tr>
 
-    <td> 5564.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5564" data-uslm-ref="/us/usc/t5/s5564">5564.</a>  </td>
 
     <td> Travel and transportation; dependents; household and personal effects; motor vehicles; sale of bulky items; claims for proceeds; appropriation chargeable.  </td>
 
@@ -553,7 +553,7 @@ SUBCHAPTER VII—PAYMENTS TO MISSING EMPLOYEES  </td>
 
   <tr>
 
-    <td> 5565.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5565" data-uslm-ref="/us/usc/t5/s5565">5565.</a>  </td>
 
     <td> Agency review.  </td>
 
@@ -561,7 +561,7 @@ SUBCHAPTER VII—PAYMENTS TO MISSING EMPLOYEES  </td>
 
   <tr>
 
-    <td> 5566.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5566" data-uslm-ref="/us/usc/t5/s5566">5566.</a>  </td>
 
     <td> Agency determinations.  </td>
 
@@ -569,7 +569,7 @@ SUBCHAPTER VII—PAYMENTS TO MISSING EMPLOYEES  </td>
 
   <tr>
 
-    <td> 5567.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5567" data-uslm-ref="/us/usc/t5/s5567">5567.</a>  </td>
 
     <td> Settlement of accounts.  </td>
 
@@ -577,7 +577,7 @@ SUBCHAPTER VII—PAYMENTS TO MISSING EMPLOYEES  </td>
 
   <tr>
 
-    <td> 5568.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5568" data-uslm-ref="/us/usc/t5/s5568">5568.</a>  </td>
 
     <td> Income tax deferment.  </td>
 
@@ -585,7 +585,7 @@ SUBCHAPTER VII—PAYMENTS TO MISSING EMPLOYEES  </td>
 
   <tr>
 
-    <td> 5569.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5569" data-uslm-ref="/us/usc/t5/s5569">5569.</a>  </td>
 
     <td> Benefits for captives.  </td>
 
@@ -593,7 +593,7 @@ SUBCHAPTER VII—PAYMENTS TO MISSING EMPLOYEES  </td>
 
   <tr>
 
-    <td> 5570.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5570" data-uslm-ref="/us/usc/t5/s5570">5570.</a>  </td>
 
     <td> Compensation for disability or death.  </td>
 
@@ -609,7 +609,7 @@ SUBCHAPTER VIII—SETTLEMENT OF ACCOUNTS  </td>
 
   <tr>
 
-    <td> 5581.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5581" data-uslm-ref="/us/usc/t5/s5581">5581.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -617,7 +617,7 @@ SUBCHAPTER VIII—SETTLEMENT OF ACCOUNTS  </td>
 
   <tr>
 
-    <td> 5582.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5582" data-uslm-ref="/us/usc/t5/s5582">5582.</a>  </td>
 
     <td> Designation of beneficiary; order of precedence.  </td>
 
@@ -625,7 +625,7 @@ SUBCHAPTER VIII—SETTLEMENT OF ACCOUNTS  </td>
 
   <tr>
 
-    <td> 5583.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5583" data-uslm-ref="/us/usc/t5/s5583">5583.</a>  </td>
 
     <td> Payment of money due; settlement of accounts.  </td>
 
@@ -633,7 +633,7 @@ SUBCHAPTER VIII—SETTLEMENT OF ACCOUNTS  </td>
 
   <tr>
 
-    <td> 5584.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5584" data-uslm-ref="/us/usc/t5/s5584">5584.</a>  </td>
 
     <td> Claims for overpayment of pay and allowances, and of travel, transportation and relocation expenses and allowances.  </td>
 
@@ -649,7 +649,7 @@ SUBCHAPTER IX—SEVERANCE PAY AND BACK PAY  </td>
 
   <tr>
 
-    <td> [5591 to 5594.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5591" data-uslm-ref="/us/usc/t5/s5591">5591</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5594" data-uslm-ref="/us/usc/t5/s5594">5594.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -657,7 +657,7 @@ SUBCHAPTER IX—SEVERANCE PAY AND BACK PAY  </td>
 
   <tr>
 
-    <td> 5595.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5595" data-uslm-ref="/us/usc/t5/s5595">5595.</a>  </td>
 
     <td> Severance pay.  </td>
 
@@ -665,7 +665,7 @@ SUBCHAPTER IX—SEVERANCE PAY AND BACK PAY  </td>
 
   <tr>
 
-    <td> 5596.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5596" data-uslm-ref="/us/usc/t5/s5596">5596.</a>  </td>
 
     <td> Back pay due to unjustified personnel action.  </td>
 
@@ -673,7 +673,7 @@ SUBCHAPTER IX—SEVERANCE PAY AND BACK PAY  </td>
 
   <tr>
 
-    <td> 5597.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5597" data-uslm-ref="/us/usc/t5/s5597">5597.</a>  </td>
 
     <td> Separation pay.  </td>
 

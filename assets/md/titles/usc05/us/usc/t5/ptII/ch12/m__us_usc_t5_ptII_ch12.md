@@ -33,7 +33,7 @@ SUBCHAPTER I—MERIT SYSTEMS PROTECTION BOARD  </td>
 
   <tr>
 
-    <td> 1201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1201" data-uslm-ref="/us/usc/t5/s1201">1201.</a>  </td>
 
     <td> Appointment of members of the Merit Systems Protection Board.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—MERIT SYSTEMS PROTECTION BOARD  </td>
 
   <tr>
 
-    <td> 1202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1202" data-uslm-ref="/us/usc/t5/s1202">1202.</a>  </td>
 
     <td> Term of office; filling vacancies; removal.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—MERIT SYSTEMS PROTECTION BOARD  </td>
 
   <tr>
 
-    <td> 1203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1203" data-uslm-ref="/us/usc/t5/s1203">1203.</a>  </td>
 
     <td> Chairman; Vice Chairman.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—MERIT SYSTEMS PROTECTION BOARD  </td>
 
   <tr>
 
-    <td> 1204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1204" data-uslm-ref="/us/usc/t5/s1204">1204.</a>  </td>
 
     <td> Powers and functions of the Merit Systems Protection Board.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—MERIT SYSTEMS PROTECTION BOARD  </td>
 
   <tr>
 
-    <td> 1205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1205" data-uslm-ref="/us/usc/t5/s1205">1205.</a>  </td>
 
     <td> Transmittal of information to Congress.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—MERIT SYSTEMS PROTECTION BOARD  </td>
 
   <tr>
 
-    <td> 1206.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1206" data-uslm-ref="/us/usc/t5/s1206">1206.</a>  </td>
 
     <td> Annual report.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—OFFICE OF SPECIAL COUNSEL  </td>
 
   <tr>
 
-    <td> 1211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1211" data-uslm-ref="/us/usc/t5/s1211">1211.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—OFFICE OF SPECIAL COUNSEL  </td>
 
   <tr>
 
-    <td> 1212.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1212" data-uslm-ref="/us/usc/t5/s1212">1212.</a>  </td>
 
     <td> Powers and functions of the Office of Special Counsel.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—OFFICE OF SPECIAL COUNSEL  </td>
 
   <tr>
 
-    <td> 1213.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1213" data-uslm-ref="/us/usc/t5/s1213">1213.</a>  </td>
 
     <td> Provisions relating to disclosures of violations of law, mismanagement, and certain other matters. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—OFFICE OF SPECIAL COUNSEL  </td>
 
   <tr>
 
-    <td> 1214.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1214" data-uslm-ref="/us/usc/t5/s1214">1214.</a>  </td>
 
     <td> Investigation of prohibited personnel practices; corrective action.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—OFFICE OF SPECIAL COUNSEL  </td>
 
   <tr>
 
-    <td> 1215.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1215" data-uslm-ref="/us/usc/t5/s1215">1215.</a>  </td>
 
     <td> Disciplinary action.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—OFFICE OF SPECIAL COUNSEL  </td>
 
   <tr>
 
-    <td> 1216.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1216" data-uslm-ref="/us/usc/t5/s1216">1216.</a>  </td>
 
     <td> Other matters within the jurisdiction of the Office of Special Counsel.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—OFFICE OF SPECIAL COUNSEL  </td>
 
   <tr>
 
-    <td> 1217.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1217" data-uslm-ref="/us/usc/t5/s1217">1217.</a>  </td>
 
     <td> Transmittal of information to Congress.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—OFFICE OF SPECIAL COUNSEL  </td>
 
   <tr>
 
-    <td> 1218.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1218" data-uslm-ref="/us/usc/t5/s1218">1218.</a>  </td>
 
     <td> Annual report.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—OFFICE OF SPECIAL COUNSEL  </td>
 
   <tr>
 
-    <td> 1219.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1219" data-uslm-ref="/us/usc/t5/s1219">1219.</a>  </td>
 
     <td> Public information.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—INDIVIDUAL RIGHT OF ACTION IN CERTAIN REPRISAL CASES  </td>
 
   <tr>
 
-    <td> 1221.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1221" data-uslm-ref="/us/usc/t5/s1221">1221.</a>  </td>
 
     <td> Individual right of action in certain reprisal cases.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—INDIVIDUAL RIGHT OF ACTION IN CERTAIN REPRISAL CASES  </td>
 
   <tr>
 
-    <td> 1222.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs1222" data-uslm-ref="/us/usc/t5/s1222">1222.</a>  </td>
 
     <td> Availability of other remedies.  </td>
 

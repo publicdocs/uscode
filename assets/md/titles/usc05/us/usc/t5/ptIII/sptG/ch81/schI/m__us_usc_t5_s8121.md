@@ -15,7 +15,7 @@
 
 ## § 8121. Claim
 
-Compensation under this subchapter may be allowed only if an individual or someone on his behalf makes claim therefor. The claim shall—
+    Compensation under this subchapter may be allowed only if an individual or someone on his behalf makes claim therefor. The claim shall—
 
     (1) be made in writing within the time specified by [section 8122 of this title][/us/usc/t5/s8122];
 
@@ -29,7 +29,7 @@ Compensation under this subchapter may be allowed only if an individual or someo
 
     (6) except in case of death, be accompanied by a certificate of the physician of the employee stating the nature of the injury and the nature and probable extent of the disability.
 
-        The Secretary may waive paragraphs (3)–(6) of this section for reasonable cause shown.
+    The Secretary may waive paragraphs (3)–(6) of this section for reasonable cause shown.
 
 ([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 543][/us/stat/80/543]; [Pub. L. 93–416, § 13][/us/pl/93/416/s13], Sept. 7, 1974, [88 Stat. 1147][/us/stat/88/1147].)
 

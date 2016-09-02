@@ -231,9 +231,13 @@
 
 >         “(2) Interest on amounts so allotted with respect to any such pay period shall be calculated as if the allotment had occurred at the end of such pay period.
 
->     “(b) __Medical and Health Care; Educational Expenses.—Subsections (c) and (f) of such section 5569 (as so added) shall be carried out with respect to the period after__  __January 21, 1981__  __, and before the effective date of those subsections, under regulations prescribed by the President.__ 
+>     “(b) __Medical and Health Care; Educational Expenses.—__ 
 
->     “(c) __Definition.—For the purpose of this subsection, ‘pay and allowances’ has the meaning provided under__  __[__  __section 5561 of title 5__  __][/us/usc/t5/s5561]__  __, United States Code.”__ 
+>     Subsections (c) and (f) of such section 5569 (as so added) shall be carried out with respect to the period after January 21, 1981, and before the effective date of those subsections, under regulations prescribed by the President.
+
+>     “(c) __Definition.—__ 
+
+>     For the purpose of this subsection, ‘pay and allowances’ has the meaning provided under [section 5561 of title 5][/us/usc/t5/s5561], United States Code.”
 
  __Regulations__ 
 

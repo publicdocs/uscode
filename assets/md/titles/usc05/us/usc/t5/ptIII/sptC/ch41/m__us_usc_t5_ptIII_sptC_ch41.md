@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4101" data-uslm-ref="/us/usc/t5/s4101">4101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4102" data-uslm-ref="/us/usc/t5/s4102">4102.</a>  </td>
 
     <td> Exceptions; Presidential authority.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4103" data-uslm-ref="/us/usc/t5/s4103">4103.</a>  </td>
 
     <td> Establishment of training programs.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4104" data-uslm-ref="/us/usc/t5/s4104">4104.</a>  </td>
 
     <td> Government facilities; use of.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4105" data-uslm-ref="/us/usc/t5/s4105">4105.</a>  </td>
 
     <td> Non-Government facilities; use of.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [4106.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4106" data-uslm-ref="/us/usc/t5/s4106">4106.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4107" data-uslm-ref="/us/usc/t5/s4107">4107.</a>  </td>
 
     <td> Academic degree training.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 4108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4108" data-uslm-ref="/us/usc/t5/s4108">4108.</a>  </td>
 
     <td> Employee agreements; service after training.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 4109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4109" data-uslm-ref="/us/usc/t5/s4109">4109.</a>  </td>
 
     <td> Expenses of training.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 4110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4110" data-uslm-ref="/us/usc/t5/s4110">4110.</a>  </td>
 
     <td> Expenses of attendance at meetings.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 4111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4111" data-uslm-ref="/us/usc/t5/s4111">4111.</a>  </td>
 
     <td> Acceptance of contributions, awards, and other payments.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 4112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4112" data-uslm-ref="/us/usc/t5/s4112">4112.</a>  </td>
 
     <td> Absorption of costs within funds available.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> [4113.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4113" data-uslm-ref="/us/usc/t5/s4113">4113.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> [4114.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4114" data-uslm-ref="/us/usc/t5/s4114">4114.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 4115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4115" data-uslm-ref="/us/usc/t5/s4115">4115.</a>  </td>
 
     <td> Collection of training information.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 4116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4116" data-uslm-ref="/us/usc/t5/s4116">4116.</a>  </td>
 
     <td> Training program assistance.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 4117.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4117" data-uslm-ref="/us/usc/t5/s4117">4117.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 4118.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4118" data-uslm-ref="/us/usc/t5/s4118">4118.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 4119.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4119" data-uslm-ref="/us/usc/t5/s4119">4119.</a>  </td>
 
     <td> Training for employees under the Office of the Architect of the Capitol and the Botanic Garden.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 4120.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4120" data-uslm-ref="/us/usc/t5/s4120">4120.</a>  </td>
 
     <td> Training for employees of the Capitol Police.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 4121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4121" data-uslm-ref="/us/usc/t5/s4121">4121.</a>  </td>
 
     <td> Specific training programs.  </td>
 

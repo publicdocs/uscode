@@ -203,7 +203,7 @@
 
 >     “(3) after service described in paragraph (2), becomes subject to and thereafter entitled to benefits under chapter 84 of title 5, United States Code,
 
->         shall, for purposes of section 302 of the Federal Employees’ Retirement System Act of 1986 \[[Pub. L. 99–335][/us/pl/99/335]\] ([100 Stat. 601][/us/stat/100/601]; [5 U.S.C. 8331][/us/usc/t5/s8331] note) be considered to have become subject to chapter 84 of title 5, United States Code, pursuant to an election under section 301 of such Act \[[5 U.S.C. 8331][/us/usc/t5/s8331] note\].”
+>     shall, for purposes of section 302 of the Federal Employees’ Retirement System Act of 1986 \[[Pub. L. 99–335][/us/pl/99/335]\] ([100 Stat. 601][/us/stat/100/601]; [5 U.S.C. 8331][/us/usc/t5/s8331] note) be considered to have become subject to chapter 84 of title 5, United States Code, pursuant to an election under section 301 of such Act \[[5 U.S.C. 8331][/us/usc/t5/s8331] note\].”
 
 ----------
 

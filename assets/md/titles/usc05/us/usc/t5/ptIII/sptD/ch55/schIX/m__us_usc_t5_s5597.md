@@ -211,11 +211,19 @@
 
 >             The amount required under this subparagraph shall be determined as follows:
 
->                 “(i) First, determine the sum of the following:         “(I) The amount equal to 19 percent of the final basic pay of each employee described in paragraph (2) who takes early retirement under [section 8336(d) of title 5][/us/usc/t5/s8336/d], United States Code.
+>                 “(i)
+
+>                  First, determine the sum of the following:
+
+>                          “(I) The amount equal to 19 percent of the final basic pay of each employee described in paragraph (2) who takes early retirement under [section 8336(d) of title 5][/us/usc/t5/s8336/d], United States Code.
 
 >                          “(II) The amount equal to 58 percent of the final basic pay of each employee described in paragraph (2) who retires on an immediate annuity under section 8336 of such title 5 (not including any employee covered by subclause (I)).
 
->                 “(ii) Second, reduce the sum of the amounts determined under clause (i) by the sum of the following (but not below zero):         “(I) The amount equal to 419 percent of the final basic pay of each employee described in paragraph (2), who is covered by subchapter III of chapter 83 of title 5, United States Code, and who resigns.
+>                 “(ii)
+
+>                  Second, reduce the sum of the amounts determined under clause (i) by the sum of the following (but not below zero):
+
+>                          “(I) The amount equal to 419 percent of the final basic pay of each employee described in paragraph (2), who is covered by subchapter III of chapter 83 of title 5, United States Code, and who resigns.
 
 >                          “(II) The amount equal to 17 percent of the final basic pay of each employee described in paragraph (2) who takes early retirement under section 8414(b) of such title 5.
 

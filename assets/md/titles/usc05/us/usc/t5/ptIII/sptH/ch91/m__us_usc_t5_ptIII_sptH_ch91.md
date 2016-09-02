@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs9101" data-uslm-ref="/us/usc/t5/s9101">9101.</a>  </td>
 
     <td> Access to criminal history records for national security and other purposes.  </td>
 

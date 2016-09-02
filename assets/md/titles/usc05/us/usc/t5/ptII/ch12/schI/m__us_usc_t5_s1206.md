@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t5/ptII/ch12/schI/m__us_usc_t5_s1205.md) | [Next](./../../../../../..//us/usc/t5/ptII/ch12/schI/m__us_usc_t5_s1207, 1208.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1206)
+[Previous](./../../../../../..//us/usc/t5/ptII/ch12/schI/m__us_usc_t5_s1205.md) | [Next](./../../../../../..//us/usc/t5/ptII/ch12/schI/m__us_usc_t5_s1209.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1206)
 
 ## § 1206. Annual report
 
@@ -35,9 +35,19 @@
 
     For termination, effective May 15, 2000, of provisions in first sentence of this section relating to annual reports to Congress (formerly [5 U.S.C. 1209(b)][/us/usc/t5/s1209/b]), see [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance, and page 176 of House Document No. 103–7.
 
+\[§§ 1207, 1208. __Repealed.__  __[__  __Pub. L. 101–12, § 3(a)(8)__  __][/us/pl/101/12/s3/a/8]__  __,__  __Apr. 10, 1989__  __,__  __[__  __103 Stat. 18__  __][/us/stat/103/18]__  __\]__ 
+
+    Section 1207, added [Pub. L. 95–454, title II, § 202(a)][/us/pl/95/454/s202/a], Oct. 13, 1978, [92 Stat. 1130][/us/stat/92/1130], provided for hearings and decisions on complaints filed by Special Counsel. See section 1215(a)(2) to (5) of this title.
+
+    Section 1208, added [Pub. L. 95–454, title II, § 202(a)][/us/pl/95/454/s202/a], Oct. 13, 1978, [92 Stat. 1130][/us/stat/92/1130], related to stays of certain personnel actions. See [section 1214(b) of this title][/us/usc/t5/s1214/b].
+
+ __Effective Date of Repeal__ 
+
+    Repeal of sections effective 90 days following Apr. 10, 1989, see [section 11 of Pub. L. 101–12][/us/pl/101/12/s11], set out as an Effective Date of 1989 Amendment note under [section 1201 of this title][/us/usc/t5/s1201].
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t5/ptII/ch12/schI/m__us_usc_t5_s1205.md) | [Next](./../../../../../..//us/usc/t5/ptII/ch12/schI/m__us_usc_t5_s1207, 1208.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1206)
+[Previous](./../../../../../..//us/usc/t5/ptII/ch12/schI/m__us_usc_t5_s1205.md) | [Next](./../../../../../..//us/usc/t5/ptII/ch12/schI/m__us_usc_t5_s1209.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1206)
 
 ----------
 ----------
@@ -59,5 +69,14 @@
 [/us/usc/t5/s1209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1209%2Fb
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
+[/us/pl/101/12/s3/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs3%2Fa%2F8
+[/us/stat/103/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F18
+[/us/pl/95/454/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs202%2Fa
+[/us/stat/92/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1130
+[/us/pl/95/454/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs202%2Fa
+[/us/stat/92/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1130
+[/us/usc/t5/s1214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1214%2Fb
+[/us/pl/101/12/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs11
+[/us/usc/t5/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1201
 
 

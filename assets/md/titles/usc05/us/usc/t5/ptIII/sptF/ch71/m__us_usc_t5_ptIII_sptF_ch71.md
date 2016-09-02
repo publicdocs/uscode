@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 7101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7101" data-uslm-ref="/us/usc/t5/s7101">7101.</a>  </td>
 
     <td> Findings and purpose.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 7102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7102" data-uslm-ref="/us/usc/t5/s7102">7102.</a>  </td>
 
     <td> Employees’ rights.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 7103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7103" data-uslm-ref="/us/usc/t5/s7103">7103.</a>  </td>
 
     <td> Definitions; application.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 7104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7104" data-uslm-ref="/us/usc/t5/s7104">7104.</a>  </td>
 
     <td> Federal Labor Relations Authority.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 7105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7105" data-uslm-ref="/us/usc/t5/s7105">7105.</a>  </td>
 
     <td> Powers and duties of the Authority.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 7106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7106" data-uslm-ref="/us/usc/t5/s7106">7106.</a>  </td>
 
     <td> Management rights.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—RIGHTS AND DUTIES OF AGENCIES AND LABOR ORGANIZATIONS  </td>
 
   <tr>
 
-    <td> 7111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7111" data-uslm-ref="/us/usc/t5/s7111">7111.</a>  </td>
 
     <td> Exclusive recognition of labor organizations.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—RIGHTS AND DUTIES OF AGENCIES AND LABOR ORGANIZATIONS  </td>
 
   <tr>
 
-    <td> 7112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7112" data-uslm-ref="/us/usc/t5/s7112">7112.</a>  </td>
 
     <td> Determination of appropriate units for labor organization representation.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—RIGHTS AND DUTIES OF AGENCIES AND LABOR ORGANIZATIONS  </td>
 
   <tr>
 
-    <td> 7113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7113" data-uslm-ref="/us/usc/t5/s7113">7113.</a>  </td>
 
     <td> National consultation rights.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—RIGHTS AND DUTIES OF AGENCIES AND LABOR ORGANIZATIONS  </td>
 
   <tr>
 
-    <td> 7114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7114" data-uslm-ref="/us/usc/t5/s7114">7114.</a>  </td>
 
     <td> Representation rights and duties.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—RIGHTS AND DUTIES OF AGENCIES AND LABOR ORGANIZATIONS  </td>
 
   <tr>
 
-    <td> 7115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7115" data-uslm-ref="/us/usc/t5/s7115">7115.</a>  </td>
 
     <td> Allotments to representatives.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—RIGHTS AND DUTIES OF AGENCIES AND LABOR ORGANIZATIONS  </td>
 
   <tr>
 
-    <td> 7116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7116" data-uslm-ref="/us/usc/t5/s7116">7116.</a>  </td>
 
     <td> Unfair labor practices.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—RIGHTS AND DUTIES OF AGENCIES AND LABOR ORGANIZATIONS  </td>
 
   <tr>
 
-    <td> 7117.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7117" data-uslm-ref="/us/usc/t5/s7117">7117.</a>  </td>
 
     <td> Duty to bargain in good faith; compelling need; duty to consult.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—RIGHTS AND DUTIES OF AGENCIES AND LABOR ORGANIZATIONS  </td>
 
   <tr>
 
-    <td> 7118.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7118" data-uslm-ref="/us/usc/t5/s7118">7118.</a>  </td>
 
     <td> Prevention of unfair labor practices.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—RIGHTS AND DUTIES OF AGENCIES AND LABOR ORGANIZATIONS  </td>
 
   <tr>
 
-    <td> 7119.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7119" data-uslm-ref="/us/usc/t5/s7119">7119.</a>  </td>
 
     <td> Negotiation impasses; Federal Service Impasses Panel.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—RIGHTS AND DUTIES OF AGENCIES AND LABOR ORGANIZATIONS  </td>
 
   <tr>
 
-    <td> 7120.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7120" data-uslm-ref="/us/usc/t5/s7120">7120.</a>  </td>
 
     <td> Standards of conduct for labor organizations.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—GRIEVANCES, APPEALS, AND REVIEW  </td>
 
   <tr>
 
-    <td> 7121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7121" data-uslm-ref="/us/usc/t5/s7121">7121.</a>  </td>
 
     <td> Grievance procedures.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—GRIEVANCES, APPEALS, AND REVIEW  </td>
 
   <tr>
 
-    <td> 7122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7122" data-uslm-ref="/us/usc/t5/s7122">7122.</a>  </td>
 
     <td> Exceptions to arbitral awards.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—GRIEVANCES, APPEALS, AND REVIEW  </td>
 
   <tr>
 
-    <td> 7123.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7123" data-uslm-ref="/us/usc/t5/s7123">7123.</a>  </td>
 
     <td> Judicial review; enforcement.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER IV—ADMINISTRATIVE AND OTHER PROVISIONS  </td>
 
   <tr>
 
-    <td> 7131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7131" data-uslm-ref="/us/usc/t5/s7131">7131.</a>  </td>
 
     <td> Official time.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER IV—ADMINISTRATIVE AND OTHER PROVISIONS  </td>
 
   <tr>
 
-    <td> 7132.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7132" data-uslm-ref="/us/usc/t5/s7132">7132.</a>  </td>
 
     <td> Subpenas.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER IV—ADMINISTRATIVE AND OTHER PROVISIONS  </td>
 
   <tr>
 
-    <td> 7133.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7133" data-uslm-ref="/us/usc/t5/s7133">7133.</a>  </td>
 
     <td> Compilation and publication of data.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER IV—ADMINISTRATIVE AND OTHER PROVISIONS  </td>
 
   <tr>
 
-    <td> 7134.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7134" data-uslm-ref="/us/usc/t5/s7134">7134.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER IV—ADMINISTRATIVE AND OTHER PROVISIONS  </td>
 
   <tr>
 
-    <td> 7135.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7135" data-uslm-ref="/us/usc/t5/s7135">7135.</a>  </td>
 
     <td> Continuation of existing laws, recognitions, agreements, and procedures.  </td>
 

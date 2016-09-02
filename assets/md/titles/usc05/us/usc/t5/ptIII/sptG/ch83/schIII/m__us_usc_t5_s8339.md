@@ -1221,7 +1221,9 @@ Section 15204(b), formerly 15204(c), of [Pub. L. 99–272][/us/pl/99/272], as re
 
 [Pub. L. 85–465][/us/pl/85/465], June 25, 1958, [72 Stat. 218][/us/stat/72/218], as amended by [Pub. L. 86–604, § 3(a)][/us/pl/86/604/s3/a], July 7, 1960, [74 Stat. 359][/us/stat/74/359]; [Pub. L. 87–114][/us/pl/87/114], July 31, 1961, [75 Stat. 241][/us/stat/75/241], provided:
 
->     “That (a) the annuity of each retired employee or Member of Congress who, on August 1, 1958, is receiving or entitled to receive an annuity from the civil service retirement and disability fund based on service which terminated prior to October 1, 1956, shall be increased by 10 per centum, but no such increase shall exceed $500 per annum.
+>     “That 
+
+>     (a) the annuity of each retired employee or Member of Congress who, on August 1, 1958, is receiving or entitled to receive an annuity from the civil service retirement and disability fund based on service which terminated prior to October 1, 1956, shall be increased by 10 per centum, but no such increase shall exceed $500 per annum.
 
 >     “(b)
 

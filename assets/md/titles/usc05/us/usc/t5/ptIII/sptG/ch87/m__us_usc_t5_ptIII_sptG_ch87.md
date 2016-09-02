@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8701" data-uslm-ref="/us/usc/t5/s8701">8701.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8702" data-uslm-ref="/us/usc/t5/s8702">8702.</a>  </td>
 
     <td> Automatic coverage.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 8703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8703" data-uslm-ref="/us/usc/t5/s8703">8703.</a>  </td>
 
     <td> Benefit certificate.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 8704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8704" data-uslm-ref="/us/usc/t5/s8704">8704.</a>  </td>
 
     <td> Group insurance; amounts.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 8705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8705" data-uslm-ref="/us/usc/t5/s8705">8705.</a>  </td>
 
     <td> Death claims; order of precedence; escheat.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 8706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8706" data-uslm-ref="/us/usc/t5/s8706">8706.</a>  </td>
 
     <td> Termination of insurance; assignment of ownership.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 8707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8707" data-uslm-ref="/us/usc/t5/s8707">8707.</a>  </td>
 
     <td> Employee deductions; withholding.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 8708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8708" data-uslm-ref="/us/usc/t5/s8708">8708.</a>  </td>
 
     <td> Government contributions.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 8709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8709" data-uslm-ref="/us/usc/t5/s8709">8709.</a>  </td>
 
     <td> Insurance policies.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 8710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8710" data-uslm-ref="/us/usc/t5/s8710">8710.</a>  </td>
 
     <td> Reinsurance.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 8711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8711" data-uslm-ref="/us/usc/t5/s8711">8711.</a>  </td>
 
     <td> Basic tables of premium rates.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 8712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8712" data-uslm-ref="/us/usc/t5/s8712">8712.</a>  </td>
 
     <td> Annual accounting; special contingency reserve.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 8713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8713" data-uslm-ref="/us/usc/t5/s8713">8713.</a>  </td>
 
     <td> Effect of other statutes.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 8714.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8714" data-uslm-ref="/us/usc/t5/s8714">8714.</a>  </td>
 
     <td> Employees’ Life Insurance Fund.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 8714a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8714a" data-uslm-ref="/us/usc/t5/s8714a">8714a.</a>  </td>
 
     <td> Optional insurance.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 8714b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8714b" data-uslm-ref="/us/usc/t5/s8714b">8714b.</a>  </td>
 
     <td> Additional optional life insurance.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 8714c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8714c" data-uslm-ref="/us/usc/t5/s8714c">8714c.</a>  </td>
 
     <td> Optional life insurance on family members.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 8714d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8714d" data-uslm-ref="/us/usc/t5/s8714d">8714d.</a>  </td>
 
     <td> Option to receive “living benefits”.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 8715.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8715" data-uslm-ref="/us/usc/t5/s8715">8715.</a>  </td>
 
     <td> Jurisdiction of courts.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 8716.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8716" data-uslm-ref="/us/usc/t5/s8716">8716.</a>  </td>
 
     <td> Regulations.  </td>
 

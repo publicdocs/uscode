@@ -15,7 +15,7 @@
 
 ## § 5364. Remedial actions
 
-Under regulations prescribed by the Office of Personnel Management, the Office may require any agency—
+    Under regulations prescribed by the Office of Personnel Management, the Office may require any agency—
 
     (1) to report to the Office information with respect to vacancies (including impending vacancies);
 

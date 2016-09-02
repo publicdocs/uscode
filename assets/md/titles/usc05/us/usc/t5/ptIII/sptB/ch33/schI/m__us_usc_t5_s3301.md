@@ -15,7 +15,7 @@
 
 ## § 3301. Civil service; generally
 
-The President may—
+    The President may—
 
     (1) prescribe such regulations for the admission of individuals into the civil service in the executive branch as will best promote the efficiency of that service;
 

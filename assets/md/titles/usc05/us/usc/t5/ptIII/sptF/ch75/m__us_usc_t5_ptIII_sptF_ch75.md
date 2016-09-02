@@ -33,7 +33,7 @@ SUBCHAPTER I—SUSPENSION OF  <sup>[1]</sup>  <sup><sup> 1 So in original. D
 
   <tr>
 
-    <td> 7501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7501" data-uslm-ref="/us/usc/t5/s7501">7501.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—SUSPENSION OF  <sup>[1]</sup>  <sup><sup> 1 So in original. D
 
   <tr>
 
-    <td> 7502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7502" data-uslm-ref="/us/usc/t5/s7502">7502.</a>  </td>
 
     <td> Actions covered.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—SUSPENSION OF  <sup>[1]</sup>  <sup><sup> 1 So in original. D
 
   <tr>
 
-    <td> 7503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7503" data-uslm-ref="/us/usc/t5/s7503">7503.</a>  </td>
 
     <td> Cause and procedure.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—SUSPENSION OF  <sup>[1]</sup>  <sup><sup> 1 So in original. D
 
   <tr>
 
-    <td> 7504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7504" data-uslm-ref="/us/usc/t5/s7504">7504.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—REMOVAL, SUSPENSION FOR MORE THAN 14 DAYS, REDUCTION IN GRADE OR
 
   <tr>
 
-    <td> 7511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7511" data-uslm-ref="/us/usc/t5/s7511">7511.</a>  </td>
 
     <td> Definitions; application.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—REMOVAL, SUSPENSION FOR MORE THAN 14 DAYS, REDUCTION IN GRADE OR
 
   <tr>
 
-    <td> 7512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7512" data-uslm-ref="/us/usc/t5/s7512">7512.</a>  </td>
 
     <td> Actions covered.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—REMOVAL, SUSPENSION FOR MORE THAN 14 DAYS, REDUCTION IN GRADE OR
 
   <tr>
 
-    <td> 7513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7513" data-uslm-ref="/us/usc/t5/s7513">7513.</a>  </td>
 
     <td> Cause and procedure.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—REMOVAL, SUSPENSION FOR MORE THAN 14 DAYS, REDUCTION IN GRADE OR
 
   <tr>
 
-    <td> 7514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7514" data-uslm-ref="/us/usc/t5/s7514">7514.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER III—ADMINISTRATIVE LAW JUDGES  </td>
 
   <tr>
 
-    <td> 7521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7521" data-uslm-ref="/us/usc/t5/s7521">7521.</a>  </td>
 
     <td> Actions against administrative law judges.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER IV—NATIONAL SECURITY  </td>
 
   <tr>
 
-    <td> 7531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7531" data-uslm-ref="/us/usc/t5/s7531">7531.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER IV—NATIONAL SECURITY  </td>
 
   <tr>
 
-    <td> 7532.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7532" data-uslm-ref="/us/usc/t5/s7532">7532.</a>  </td>
 
     <td> Suspension and removal.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER IV—NATIONAL SECURITY  </td>
 
   <tr>
 
-    <td> 7533.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7533" data-uslm-ref="/us/usc/t5/s7533">7533.</a>  </td>
 
     <td> Effect on other statutes.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER V—SENIOR EXECUTIVE SERVICE  </td>
 
   <tr>
 
-    <td> 7541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7541" data-uslm-ref="/us/usc/t5/s7541">7541.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER V—SENIOR EXECUTIVE SERVICE  </td>
 
   <tr>
 
-    <td> 7542.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7542" data-uslm-ref="/us/usc/t5/s7542">7542.</a>  </td>
 
     <td> Actions covered.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER V—SENIOR EXECUTIVE SERVICE  </td>
 
   <tr>
 
-    <td> 7543.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs7543" data-uslm-ref="/us/usc/t5/s7543">7543.</a>  </td>
 
     <td> Cause and procedure.  </td>
 

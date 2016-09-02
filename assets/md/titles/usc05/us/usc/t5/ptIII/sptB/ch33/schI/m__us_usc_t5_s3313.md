@@ -15,7 +15,7 @@
 
 ## § 3313. Competitive service; registers of eligibles
 
-The names of applicants who have qualified in examinations for the competitive service shall be entered on appropriate registers or lists of eligibles in the following order—
+    The names of applicants who have qualified in examinations for the competitive service shall be entered on appropriate registers or lists of eligibles in the following order—
 
     (1) for scientific and professional positions in GS–9 or higher, in the order of their ratings, including points added under [section 3309 of this title][/us/usc/t5/s3309]; and
 
@@ -27,7 +27,7 @@ The names of applicants who have qualified in examinations for the competitive s
 
         (B) remaining applicants, in the order of their ratings, including points added under [section 3309 of this title][/us/usc/t5/s3309].
 
-        The names of preference eligibles shall be entered ahead of others having the same rating.
+    The names of preference eligibles shall be entered ahead of others having the same rating.
 
 ([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 420][/us/stat/80/420].)
 

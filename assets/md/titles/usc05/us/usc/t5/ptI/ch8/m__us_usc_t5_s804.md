@@ -15,7 +15,7 @@
 
 ## § 804. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) The term “Federal agency” means any agency as that term is defined in section 551(1).
 

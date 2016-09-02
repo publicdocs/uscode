@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs101" data-uslm-ref="/us/usc/t5/s101">101.</a>  </td>
 
     <td> Executive departments.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs102" data-uslm-ref="/us/usc/t5/s102">102.</a>  </td>
 
     <td> Military departments.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs103" data-uslm-ref="/us/usc/t5/s103">103.</a>  </td>
 
     <td> Government corporation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs104" data-uslm-ref="/us/usc/t5/s104">104.</a>  </td>
 
     <td> Independent establishment.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs105" data-uslm-ref="/us/usc/t5/s105">105.</a>  </td>
 
     <td> Executive agency.  </td>
 

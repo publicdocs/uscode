@@ -15,7 +15,7 @@
 
 ## § 8143a. Members of the National Teacher Corps
 
-Subject to the provisions of this section, this subchapter applies to a member of the National Teacher Corps. In administering this subchapter for a member covered by this section—
+    Subject to the provisions of this section, this subchapter applies to a member of the National Teacher Corps. In administering this subchapter for a member covered by this section—
 
     (1)
 

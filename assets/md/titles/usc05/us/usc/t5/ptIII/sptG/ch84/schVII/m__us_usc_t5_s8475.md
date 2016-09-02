@@ -15,7 +15,7 @@
 
 ## § 8475. Investment policies
 
-The Board shall develop investment policies under [section 8472(f)(1) of this title][/us/usc/t5/s8472/f/1] which provide for—
+    The Board shall develop investment policies under [section 8472(f)(1) of this title][/us/usc/t5/s8472/f/1] which provide for—
 
     (1) prudent investments suitable for accumulating funds for payment of retirement income; and
 

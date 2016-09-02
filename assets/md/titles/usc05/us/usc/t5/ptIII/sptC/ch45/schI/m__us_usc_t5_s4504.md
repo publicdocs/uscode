@@ -15,13 +15,13 @@
 
 ## § 4504. Presidential awards
 
-The President may pay a cash award to, and incur necessary expense for the honorary recognition of, an employee who—
+    The President may pay a cash award to, and incur necessary expense for the honorary recognition of, an employee who—
 
     (1) by his suggestion, invention, superior accomplishment, or other personal effort contributes to the efficiency, economy, or other improvement of Government operations or achieves a significant reduction in paperwork; or
 
     (2) performs an exceptionally meritorious special act or service in the public interest in connection with or related to his official employment.
 
-        A Presidential award may be in addition to an agency award under [section 4503 of this title][/us/usc/t5/s4503].
+    A Presidential award may be in addition to an agency award under [section 4503 of this title][/us/usc/t5/s4503].
 
 ([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 443][/us/stat/80/443]; [Pub. L. 95–454, title V, § 502(b)][/us/pl/95/454/s502/b], Oct. 13, 1978, [92 Stat. 1183][/us/stat/92/1183].)
 

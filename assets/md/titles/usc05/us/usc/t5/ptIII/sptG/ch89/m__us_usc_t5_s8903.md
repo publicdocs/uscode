@@ -15,19 +15,29 @@
 
 ## § 8903. Health benefits plans
 
-The Office of Personnel Management may contract for or approve the following health benefits plans:
+    The Office of Personnel Management may contract for or approve the following health benefits plans:
 
-    (1) __Service Benefit Plan.—One Government-wide plan, which may be underwritten by participating affiliates licensed in any number of States, offering two levels of benefits, under which payment is made by a carrier under contracts with physicians, hospitals, or other providers of health services for benefits of the types described by__  __[__  __section 8904(1) of this title__  __][/us/usc/t5/s8904/1]__  __given to employees, annuitants, members of their families, former spouses, or persons having continued coverage under__  __[__  __section 8905a of this title__  __][/us/usc/t5/s8905a]__  __, or, under certain conditions, payment is made by a carrier to the employee, annuitant, family member, former spouse, or person having continued coverage under__  __[__  __section 8905a of this title__  __][/us/usc/t5/s8905a]__  __.__ 
+    (1) __Service Benefit Plan.—__ 
 
-    (2) __Indemnity Benefit Plan.—One Government-wide plan, offering two levels of benefits, under which a carrier agrees to pay certain sums of money, not in excess of the actual expenses incurred, for benefits of the types described by__  __[__  __section 8904(2) of this title__  __][/us/usc/t5/s8904/2]__  __.__ 
+    One Government-wide plan, which may be underwritten by participating affiliates licensed in any number of States, offering two levels of benefits, under which payment is made by a carrier under contracts with physicians, hospitals, or other providers of health services for benefits of the types described by [section 8904(1) of this title][/us/usc/t5/s8904/1] given to employees, annuitants, members of their families, former spouses, or persons having continued coverage under [section 8905a of this title][/us/usc/t5/s8905a], or, under certain conditions, payment is made by a carrier to the employee, annuitant, family member, former spouse, or person having continued coverage under [section 8905a of this title][/us/usc/t5/s8905a].
 
-    (3) __Employee Organization Plans.—Employee organization plans which offer benefits of the types referred to by__  __[__  __section 8904(3) of this title__  __][/us/usc/t5/s8904/3]__  __, which are sponsored or underwritten, and are administered, in whole or substantial part, by employee organizations described in__  __[__  __section 8901(8)(A) of this title__  __][/us/usc/t5/s8901/8/A]__  __, which are available only to individuals, and members of their families, who at the time of enrollment are members of the organization.__ 
+    (2) __Indemnity Benefit Plan.—__ 
+
+    One Government-wide plan, offering two levels of benefits, under which a carrier agrees to pay certain sums of money, not in excess of the actual expenses incurred, for benefits of the types described by [section 8904(2) of this title][/us/usc/t5/s8904/2].
+
+    (3) __Employee Organization Plans.—__ 
+
+    Employee organization plans which offer benefits of the types referred to by [section 8904(3) of this title][/us/usc/t5/s8904/3], which are sponsored or underwritten, and are administered, in whole or substantial part, by employee organizations described in [section 8901(8)(A) of this title][/us/usc/t5/s8901/8/A], which are available only to individuals, and members of their families, who at the time of enrollment are members of the organization.
 
     (4) __Comprehensive Medical Plans.—__ 
 
-        (A) __Group-practice prepayment plans.—Group-practice prepayment plans which offer health benefits of the types referred to by__  __[__  __section 8904(4) of this title__  __][/us/usc/t5/s8904/4]__  __, in whole or in substantial part on a prepaid basis, with professional services thereunder provided by physicians practicing as a group in a common center or centers. The group shall include at least 3 physicians who receive all or a substantial part of their professional income from the prepaid funds and who represent 1 or more medical specialties appropriate and necessary for the population proposed to be served by the plan.__ 
+        (A) __Group-practice prepayment plans.—__ 
 
-        (B) __Individual-practice prepayment plans.—Individual-practice prepayment plans which offer health services in whole or substantial part on a prepaid basis, with professional services thereunder provided by individual physicians who agree, under certain conditions approved by the Office, to accept the payments provided by the plans as full payment for covered services given by them including, in addition to in-hospital services, general care given in their offices and the patients’ homes, out-of-hospital diagnostic procedures, and preventive care, and which plans are offered by organizations which have successfully operated similar plans before approval by the Office of the plan in which employees may enroll.__ 
+        Group-practice prepayment plans which offer health benefits of the types referred to by [section 8904(4) of this title][/us/usc/t5/s8904/4], in whole or in substantial part on a prepaid basis, with professional services thereunder provided by physicians practicing as a group in a common center or centers. The group shall include at least 3 physicians who receive all or a substantial part of their professional income from the prepaid funds and who represent 1 or more medical specialties appropriate and necessary for the population proposed to be served by the plan.
+
+        (B) __Individual-practice prepayment plans.—__ 
+
+        Individual-practice prepayment plans which offer health services in whole or substantial part on a prepaid basis, with professional services thereunder provided by individual physicians who agree, under certain conditions approved by the Office, to accept the payments provided by the plans as full payment for covered services given by them including, in addition to in-hospital services, general care given in their offices and the patients’ homes, out-of-hospital diagnostic procedures, and preventive care, and which plans are offered by organizations which have successfully operated similar plans before approval by the Office of the plan in which employees may enroll.
 
         (C) __Mixed model prepayment plans.—__ 
 

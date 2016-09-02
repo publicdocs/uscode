@@ -15,7 +15,7 @@
 
 ## § 3131. The Senior Executive Service
 
-It is the purpose of this subchapter to establish a Senior Executive Service to ensure that the executive management of the Government of the United States is responsive to the needs, policies, and goals of the Nation and otherwise is of the highest quality. The Senior Executive Service shall be administered so as to—
+    It is the purpose of this subchapter to establish a Senior Executive Service to ensure that the executive management of the Government of the United States is responsive to the needs, policies, and goals of the Nation and otherwise is of the highest quality. The Senior Executive Service shall be administered so as to—
 
     (1) provide for a compensation system, including salaries, benefits, and incentives, and for other conditions of employment, designed to attract and retain highly competent senior executives;
 

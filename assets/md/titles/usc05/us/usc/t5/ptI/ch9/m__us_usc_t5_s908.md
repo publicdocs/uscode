@@ -15,7 +15,7 @@
 
 ## § 908. Rules of Senate and House of Representatives on reorganization plans
 
-Sections 909 through 912 of this title are enacted by Congress—
+    Sections 909 through 912 of this title are enacted by Congress—
 
     (1) as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they are deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions with respect to any reorganization plans transmitted to Congress (in accordance with section 903(b) of this chapter  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “title”. </sup></sup> ) on or before December 31, 1984; and they supersede other rules only to the extent that they are inconsistent therewith; and
 

@@ -15,7 +15,7 @@
 
 ## § 5101. Purpose
 
-It is the purpose of this chapter to provide a plan for classification of positions whereby—
+    It is the purpose of this chapter to provide a plan for classification of positions whereby—
 
     (1)
 

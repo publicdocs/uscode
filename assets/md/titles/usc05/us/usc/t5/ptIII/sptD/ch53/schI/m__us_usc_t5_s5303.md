@@ -581,7 +581,7 @@ Aug. 14, 1964, Pub. L. 88–426, § 123, 78 Stat. 412.  </td>
 
 >     “(2) shall be placed into effect on the first day of the first pay period that begins on or after January 1, 1972.
 
->         Nothing in this section shall be construed to provide any adjustments in rates of pay of any Federal statutory pay system which are greater than the adjustments based on the 1971 Bureau of Labor Statistics survey.”
+>     Nothing in this section shall be construed to provide any adjustments in rates of pay of any Federal statutory pay system which are greater than the adjustments based on the 1971 Bureau of Labor Statistics survey.”
 
 [Pub. L. 91–656, § 3(c)][/us/pl/91/656/s3/c], Jan. 8, 1971, [84 Stat. 1951][/us/stat/84/1951], provided that: 
 
@@ -599,23 +599,23 @@ Aug. 14, 1964, Pub. L. 88–426, § 123, 78 Stat. 412.  </td>
 
 >         “(B) by 3 per centum,
 
->         whichever is greater; and
+>     whichever is greater; and
 
->         “(2) effective on the first day of the first pay period beginning on or after July 1, 1969, adjust the rates he has established under subparagraph (1) of this section, and the rates established by Postal Field Service Schedule II, and Rural Carrier Schedule II (contained in the amendments made by subsections (a) and (b) of section 205 \[amending sections 3542 and 3543 of Title 39, Postal Service\], by amounts equal, as nearly as may be practicable, to the amounts by which such rates are exceeded by rates of pay paid for the same levels of work in private enterprise as determined on the basis of the 1968 annual survey conducted by the Bureau of Labor Statistics in accordance with the provisions of [section 5302 of title 5][/us/usc/t5/s5302], United States Code.
+>     “(2) effective on the first day of the first pay period beginning on or after July 1, 1969, adjust the rates he has established under subparagraph (1) of this section, and the rates established by Postal Field Service Schedule II, and Rural Carrier Schedule II (contained in the amendments made by subsections (a) and (b) of section 205 \[amending sections 3542 and 3543 of Title 39, Postal Service\], by amounts equal, as nearly as may be practicable, to the amounts by which such rates are exceeded by rates of pay paid for the same levels of work in private enterprise as determined on the basis of the 1968 annual survey conducted by the Bureau of Labor Statistics in accordance with the provisions of [section 5302 of title 5][/us/usc/t5/s5302], United States Code.
 
->         Adjustments made by the President under this section shall have the force and effect of statute. The rates of pay of personnel subject to sections 210, 213 (except subsections (d) and (e) ), and 214 of this title \[see Short Title note under [section 5332 of this title][/us/usc/t5/s5332]\], and any minimum or maximum rate, limitation, or allowance applicable to any such personnel, shall be adjusted, by amounts which are equal, insofar as practicable and with such exceptions as may be necessary to provide for appropriate relationships between positions, to the amounts of the adjustments made by the President under subparagraphs (1) and (2) of this section, by the following authorities—
+>     Adjustments made by the President under this section shall have the force and effect of statute. The rates of pay of personnel subject to sections 210, 213 (except subsections (d) and (e) ), and 214 of this title \[see Short Title note under [section 5332 of this title][/us/usc/t5/s5332]\], and any minimum or maximum rate, limitation, or allowance applicable to any such personnel, shall be adjusted, by amounts which are equal, insofar as practicable and with such exceptions as may be necessary to provide for appropriate relationships between positions, to the amounts of the adjustments made by the President under subparagraphs (1) and (2) of this section, by the following authorities—
 
->         “(i) the President pro tempore of the Senate, with respect to the United States Senate;
+>     “(i) the President pro tempore of the Senate, with respect to the United States Senate;
 
->         “(ii) the Speaker of the House of Representatives with respect to the United States House of Representatives;
+>     “(ii) the Speaker of the House of Representatives with respect to the United States House of Representatives;
 
->         “(iii) the Architect of the Capitol, with respect to the Office of the Architect of the Capitol;
+>     “(iii) the Architect of the Capitol, with respect to the Office of the Architect of the Capitol;
 
->         “(iv) the Director of the Administrative Office of the United States Courts, with respect to the judicial branch of the Government; and
+>     “(iv) the Director of the Administrative Office of the United States Courts, with respect to the judicial branch of the Government; and
 
->         “(v) the Secretary of Agriculture, with respect to persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act ([16 U.S.C. 590h(b)][/us/usc/t16/s590h/b] ).
+>     “(v) the Secretary of Agriculture, with respect to persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act ([16 U.S.C. 590h(b)][/us/usc/t16/s590h/b] ).
 
->         Such adjustments shall be made in such manner as the appropriate authority concerned deems advisable and shall have the force and effect of statute. Nothing in this section shall impair any authority pursuant to which rates of pay may be fixed by administrative action.” \[[Section 212 of Pub. L. 90–206][/us/pl/90/206/s212] effective Dec. 16, 1967, see [section 220(a)(1) of Pub. L. 90–206][/us/pl/90/206/s220/a/1], set out as a note under [section 3110 of this title][/us/usc/t5/s3110].\]
+>     Such adjustments shall be made in such manner as the appropriate authority concerned deems advisable and shall have the force and effect of statute. Nothing in this section shall impair any authority pursuant to which rates of pay may be fixed by administrative action.” \[[Section 212 of Pub. L. 90–206][/us/pl/90/206/s212] effective Dec. 16, 1967, see [section 220(a)(1) of Pub. L. 90–206][/us/pl/90/206/s220/a/1], set out as a note under [section 3110 of this title][/us/usc/t5/s3110].\]
 
 ----------
 

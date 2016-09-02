@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs9501" data-uslm-ref="/us/usc/t5/s9501">9501.</a>  </td>
 
     <td> Internal Revenue Service personnel flexibilities.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs9502" data-uslm-ref="/us/usc/t5/s9502">9502.</a>  </td>
 
     <td> Pay authority for critical positions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs9503" data-uslm-ref="/us/usc/t5/s9503">9503.</a>  </td>
 
     <td> Streamlined critical pay authority.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 9504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs9504" data-uslm-ref="/us/usc/t5/s9504">9504.</a>  </td>
 
     <td> Recruitment, retention, relocation incentives, and relocation expenses.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 9505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs9505" data-uslm-ref="/us/usc/t5/s9505">9505.</a>  </td>
 
     <td> Performance awards for senior executives.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 9506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs9506" data-uslm-ref="/us/usc/t5/s9506">9506.</a>  </td>
 
     <td> Limited appointments to career reserved Senior Executive Service positions.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 9507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs9507" data-uslm-ref="/us/usc/t5/s9507">9507.</a>  </td>
 
     <td> Streamlined demonstration project authority.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 9508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs9508" data-uslm-ref="/us/usc/t5/s9508">9508.</a>  </td>
 
     <td> General workforce performance management system.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 9509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs9509" data-uslm-ref="/us/usc/t5/s9509">9509.</a>  </td>
 
     <td> General workforce classification and pay.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 9510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs9510" data-uslm-ref="/us/usc/t5/s9510">9510.</a>  </td>
 
     <td> General workforce staffing.  </td>
 

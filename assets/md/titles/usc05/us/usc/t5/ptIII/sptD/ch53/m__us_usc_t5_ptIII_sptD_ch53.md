@@ -33,7 +33,7 @@ SUBCHAPTER I—PAY COMPARABILITY SYSTEM  </td>
 
   <tr>
 
-    <td> 5301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5301" data-uslm-ref="/us/usc/t5/s5301">5301.</a>  </td>
 
     <td> Policy.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—PAY COMPARABILITY SYSTEM  </td>
 
   <tr>
 
-    <td> 5302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5302" data-uslm-ref="/us/usc/t5/s5302">5302.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—PAY COMPARABILITY SYSTEM  </td>
 
   <tr>
 
-    <td> 5303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5303" data-uslm-ref="/us/usc/t5/s5303">5303.</a>  </td>
 
     <td> Annual adjustments to pay schedules.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—PAY COMPARABILITY SYSTEM  </td>
 
   <tr>
 
-    <td> 5304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5304" data-uslm-ref="/us/usc/t5/s5304">5304.</a>  </td>
 
     <td> Locality-based comparability payments.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—PAY COMPARABILITY SYSTEM  </td>
 
   <tr>
 
-    <td> 5304a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5304a" data-uslm-ref="/us/usc/t5/s5304a">5304a.</a>  </td>
 
     <td> Authority to fix an alternative level of comparability payments.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—PAY COMPARABILITY SYSTEM  </td>
 
   <tr>
 
-    <td> 5305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5305" data-uslm-ref="/us/usc/t5/s5305">5305.</a>  </td>
 
     <td> Special pay authority.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—PAY COMPARABILITY SYSTEM  </td>
 
   <tr>
 
-    <td> 5306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5306" data-uslm-ref="/us/usc/t5/s5306">5306.</a>  </td>
 
     <td> Pay fixed by administrative action.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—PAY COMPARABILITY SYSTEM  </td>
 
   <tr>
 
-    <td> 5307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5307" data-uslm-ref="/us/usc/t5/s5307">5307.</a>  </td>
 
     <td> Limitation on certain payments.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—PAY COMPARABILITY SYSTEM  </td>
 
   <tr>
 
-    <td> [5308.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5308" data-uslm-ref="/us/usc/t5/s5308">5308.</a>  </td>
 
     <td> Omitted.]  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—EXECUTIVE SCHEDULE PAY RATES  </td>
 
   <tr>
 
-    <td> 5311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5311" data-uslm-ref="/us/usc/t5/s5311">5311.</a>  </td>
 
     <td> The Executive Schedule.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—EXECUTIVE SCHEDULE PAY RATES  </td>
 
   <tr>
 
-    <td> 5312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5312" data-uslm-ref="/us/usc/t5/s5312">5312.</a>  </td>
 
     <td> Positions at level I.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—EXECUTIVE SCHEDULE PAY RATES  </td>
 
   <tr>
 
-    <td> 5313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5313" data-uslm-ref="/us/usc/t5/s5313">5313.</a>  </td>
 
     <td> Positions at level II.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—EXECUTIVE SCHEDULE PAY RATES  </td>
 
   <tr>
 
-    <td> 5314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5314" data-uslm-ref="/us/usc/t5/s5314">5314.</a>  </td>
 
     <td> Positions at level III.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—EXECUTIVE SCHEDULE PAY RATES  </td>
 
   <tr>
 
-    <td> 5315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5315" data-uslm-ref="/us/usc/t5/s5315">5315.</a>  </td>
 
     <td> Positions at level IV.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—EXECUTIVE SCHEDULE PAY RATES  </td>
 
   <tr>
 
-    <td> 5316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5316" data-uslm-ref="/us/usc/t5/s5316">5316.</a>  </td>
 
     <td> Positions at level V.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—EXECUTIVE SCHEDULE PAY RATES  </td>
 
   <tr>
 
-    <td> 5317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5317" data-uslm-ref="/us/usc/t5/s5317">5317.</a>  </td>
 
     <td> Presidential authority to place positions at levels IV and V.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—EXECUTIVE SCHEDULE PAY RATES  </td>
 
   <tr>
 
-    <td> 5318.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5318" data-uslm-ref="/us/usc/t5/s5318">5318.</a>  </td>
 
     <td> Adjustments in rates of pay.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—GENERAL SCHEDULE PAY RATES  </td>
 
   <tr>
 
-    <td> 5331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5331" data-uslm-ref="/us/usc/t5/s5331">5331.</a>  </td>
 
     <td> Definitions; application.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—GENERAL SCHEDULE PAY RATES  </td>
 
   <tr>
 
-    <td> 5332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5332" data-uslm-ref="/us/usc/t5/s5332">5332.</a>  </td>
 
     <td> The General Schedule.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER III—GENERAL SCHEDULE PAY RATES  </td>
 
   <tr>
 
-    <td> 5333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5333" data-uslm-ref="/us/usc/t5/s5333">5333.</a>  </td>
 
     <td> Minimum rate for new appointments.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER III—GENERAL SCHEDULE PAY RATES  </td>
 
   <tr>
 
-    <td> 5334.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5334" data-uslm-ref="/us/usc/t5/s5334">5334.</a>  </td>
 
     <td> Rate on change of position or type of appointment; regulations.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER III—GENERAL SCHEDULE PAY RATES  </td>
 
   <tr>
 
-    <td> 5335.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5335" data-uslm-ref="/us/usc/t5/s5335">5335.</a>  </td>
 
     <td> Periodic step-increases.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER III—GENERAL SCHEDULE PAY RATES  </td>
 
   <tr>
 
-    <td> 5336.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5336" data-uslm-ref="/us/usc/t5/s5336">5336.</a>  </td>
 
     <td> Additional step-increases.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER III—GENERAL SCHEDULE PAY RATES  </td>
 
   <tr>
 
-    <td> [5337.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5337" data-uslm-ref="/us/usc/t5/s5337">5337.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER III—GENERAL SCHEDULE PAY RATES  </td>
 
   <tr>
 
-    <td> 5338.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5338" data-uslm-ref="/us/usc/t5/s5338">5338.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER IV—PREVAILING RATE SYSTEMS  </td>
 
   <tr>
 
-    <td> 5341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5341" data-uslm-ref="/us/usc/t5/s5341">5341.</a>  </td>
 
     <td> Policy.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER IV—PREVAILING RATE SYSTEMS  </td>
 
   <tr>
 
-    <td> 5342.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5342" data-uslm-ref="/us/usc/t5/s5342">5342.</a>  </td>
 
     <td> Definitions; application.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER IV—PREVAILING RATE SYSTEMS  </td>
 
   <tr>
 
-    <td> 5343.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5343" data-uslm-ref="/us/usc/t5/s5343">5343.</a>  </td>
 
     <td> Prevailing rate determinations; wage schedules; night differentials.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER IV—PREVAILING RATE SYSTEMS  </td>
 
   <tr>
 
-    <td> 5344.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5344" data-uslm-ref="/us/usc/t5/s5344">5344.</a>  </td>
 
     <td> Effective date of wage increase; retroactive pay.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER IV—PREVAILING RATE SYSTEMS  </td>
 
   <tr>
 
-    <td> [5345.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5345" data-uslm-ref="/us/usc/t5/s5345">5345.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER IV—PREVAILING RATE SYSTEMS  </td>
 
   <tr>
 
-    <td> 5346.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5346" data-uslm-ref="/us/usc/t5/s5346">5346.</a>  </td>
 
     <td> Job grading system.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER IV—PREVAILING RATE SYSTEMS  </td>
 
   <tr>
 
-    <td> 5347.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5347" data-uslm-ref="/us/usc/t5/s5347">5347.</a>  </td>
 
     <td> Federal Prevailing Rate Advisory Committee.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER IV—PREVAILING RATE SYSTEMS  </td>
 
   <tr>
 
-    <td> 5348.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5348" data-uslm-ref="/us/usc/t5/s5348">5348.</a>  </td>
 
     <td> Crews of vessels.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER IV—PREVAILING RATE SYSTEMS  </td>
 
   <tr>
 
-    <td> 5349.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5349" data-uslm-ref="/us/usc/t5/s5349">5349.</a>  </td>
 
     <td> Prevailing rate employees; legislative, judicial, Bureau of Engraving and Printing, and government of the District of Columbia.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER V—STUDENT-EMPLOYEES  </td>
 
   <tr>
 
-    <td> 5351.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5351" data-uslm-ref="/us/usc/t5/s5351">5351.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER V—STUDENT-EMPLOYEES  </td>
 
   <tr>
 
-    <td> 5352.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5352" data-uslm-ref="/us/usc/t5/s5352">5352.</a>  </td>
 
     <td> Stipends.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER V—STUDENT-EMPLOYEES  </td>
 
   <tr>
 
-    <td> 5353.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5353" data-uslm-ref="/us/usc/t5/s5353">5353.</a>  </td>
 
     <td> Quarters, subsistence, and laundry.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER V—STUDENT-EMPLOYEES  </td>
 
   <tr>
 
-    <td> 5354.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5354" data-uslm-ref="/us/usc/t5/s5354">5354.</a>  </td>
 
     <td> Effect of detail or affiliation; travel expenses.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER V—STUDENT-EMPLOYEES  </td>
 
   <tr>
 
-    <td> 5355.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5355" data-uslm-ref="/us/usc/t5/s5355">5355.</a>  </td>
 
     <td> Effect on other statutes.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER V—STUDENT-EMPLOYEES  </td>
 
   <tr>
 
-    <td> 5356.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5356" data-uslm-ref="/us/usc/t5/s5356">5356.</a>  </td>
 
     <td> Appropriations.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER VI—GRADE AND PAY RETENTION  </td>
 
   <tr>
 
-    <td> 5361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5361" data-uslm-ref="/us/usc/t5/s5361">5361.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER VI—GRADE AND PAY RETENTION  </td>
 
   <tr>
 
-    <td> 5362.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5362" data-uslm-ref="/us/usc/t5/s5362">5362.</a>  </td>
 
     <td> Grade retention following a change of positions or reclassification.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER VI—GRADE AND PAY RETENTION  </td>
 
   <tr>
 
-    <td> 5363.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5363" data-uslm-ref="/us/usc/t5/s5363">5363.</a>  </td>
 
     <td> Pay retention.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER VI—GRADE AND PAY RETENTION  </td>
 
   <tr>
 
-    <td> 5364.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5364" data-uslm-ref="/us/usc/t5/s5364">5364.</a>  </td>
 
     <td> Remedial actions.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER VI—GRADE AND PAY RETENTION  </td>
 
   <tr>
 
-    <td> 5365.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5365" data-uslm-ref="/us/usc/t5/s5365">5365.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER VI—GRADE AND PAY RETENTION  </td>
 
   <tr>
 
-    <td> 5366.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5366" data-uslm-ref="/us/usc/t5/s5366">5366.</a>  </td>
 
     <td> Appeals.  </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER VII—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 5371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5371" data-uslm-ref="/us/usc/t5/s5371">5371.</a>  </td>
 
     <td> Health care positions.  </td>
 
@@ -457,7 +457,7 @@ SUBCHAPTER VII—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 5372.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5372" data-uslm-ref="/us/usc/t5/s5372">5372.</a>  </td>
 
     <td> Administrative law judges.  </td>
 
@@ -465,7 +465,7 @@ SUBCHAPTER VII—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 5372a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5372a" data-uslm-ref="/us/usc/t5/s5372a">5372a.</a>  </td>
 
     <td> Contract appeals board members.  </td>
 
@@ -473,7 +473,7 @@ SUBCHAPTER VII—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 5372b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5372b" data-uslm-ref="/us/usc/t5/s5372b">5372b.</a>  </td>
 
     <td> Administrative appeals judges.  </td>
 
@@ -481,7 +481,7 @@ SUBCHAPTER VII—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 5373.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5373" data-uslm-ref="/us/usc/t5/s5373">5373.</a>  </td>
 
     <td> Limitation on pay fixed by administrative action.  </td>
 
@@ -489,7 +489,7 @@ SUBCHAPTER VII—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 5374.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5374" data-uslm-ref="/us/usc/t5/s5374">5374.</a>  </td>
 
     <td> Miscellaneous positions in the executive branch.  </td>
 
@@ -497,7 +497,7 @@ SUBCHAPTER VII—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 5375.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5375" data-uslm-ref="/us/usc/t5/s5375">5375.</a>  </td>
 
     <td> Police force of the National Zoological Park.  </td>
 
@@ -505,7 +505,7 @@ SUBCHAPTER VII—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 5376.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5376" data-uslm-ref="/us/usc/t5/s5376">5376.</a>  </td>
 
     <td> Pay for certain senior-level positions.  </td>
 
@@ -513,7 +513,7 @@ SUBCHAPTER VII—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 5377.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5377" data-uslm-ref="/us/usc/t5/s5377">5377.</a>  </td>
 
     <td> Pay authority for critical positions.  </td>
 
@@ -521,7 +521,7 @@ SUBCHAPTER VII—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 5378.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5378" data-uslm-ref="/us/usc/t5/s5378">5378.</a>  </td>
 
     <td> Police forces of the Bureau of Engraving and Printing and the United States Mint.  </td>
 
@@ -529,7 +529,7 @@ SUBCHAPTER VII—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 5379.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5379" data-uslm-ref="/us/usc/t5/s5379">5379.</a>  </td>
 
     <td> Student loan repayments.  </td>
 
@@ -537,7 +537,7 @@ SUBCHAPTER VII—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> [5380.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5380" data-uslm-ref="/us/usc/t5/s5380">5380.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -553,7 +553,7 @@ SUBCHAPTER VIII—PAY FOR THE SENIOR EXECUTIVE SERVICE  </td>
 
   <tr>
 
-    <td> 5381.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5381" data-uslm-ref="/us/usc/t5/s5381">5381.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -561,7 +561,7 @@ SUBCHAPTER VIII—PAY FOR THE SENIOR EXECUTIVE SERVICE  </td>
 
   <tr>
 
-    <td> 5382.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5382" data-uslm-ref="/us/usc/t5/s5382">5382.</a>  </td>
 
     <td> Establishment and adjustment of rates of pay for the Senior Executive Service. <sup>[1]</sup>  <sup><sup> 1 Section catchline amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F108%2F136" data-uslm-ref="/us/pl/108/136">Pub. L. 108–136</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
@@ -569,7 +569,7 @@ SUBCHAPTER VIII—PAY FOR THE SENIOR EXECUTIVE SERVICE  </td>
 
   <tr>
 
-    <td> 5383.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5383" data-uslm-ref="/us/usc/t5/s5383">5383.</a>  </td>
 
     <td> Setting individual senior executive pay.  </td>
 
@@ -577,7 +577,7 @@ SUBCHAPTER VIII—PAY FOR THE SENIOR EXECUTIVE SERVICE  </td>
 
   <tr>
 
-    <td> 5384.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5384" data-uslm-ref="/us/usc/t5/s5384">5384.</a>  </td>
 
     <td> Performance awards in the Senior Executive Service.  </td>
 
@@ -585,7 +585,7 @@ SUBCHAPTER VIII—PAY FOR THE SENIOR EXECUTIVE SERVICE  </td>
 
   <tr>
 
-    <td> 5385.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5385" data-uslm-ref="/us/usc/t5/s5385">5385.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -601,7 +601,7 @@ SUBCHAPTER IX—SPECIAL OCCUPATIONAL PAY SYSTEMS  </td>
 
   <tr>
 
-    <td> 5391.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5391" data-uslm-ref="/us/usc/t5/s5391">5391.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -609,7 +609,7 @@ SUBCHAPTER IX—SPECIAL OCCUPATIONAL PAY SYSTEMS  </td>
 
   <tr>
 
-    <td> 5392.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5392" data-uslm-ref="/us/usc/t5/s5392">5392.</a>  </td>
 
     <td> Establishment of special occupational pay systems.  </td>
 

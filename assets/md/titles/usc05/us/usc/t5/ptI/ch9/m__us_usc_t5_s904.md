@@ -15,7 +15,7 @@
 
 ## § 904. Additional contents of reorganization plan
 
-A reorganization plan transmitted by the President under [section 903 of this title][/us/usc/t5/s903]—
+    A reorganization plan transmitted by the President under [section 903 of this title][/us/usc/t5/s903]—
 
     (1) may, subject to section 905, change, in such cases as the President considers necessary, the name of an agency affected by a reorganization and the title of its head, and shall designate the name of an agency resulting from a reorganization and the title of its head;
 
@@ -27,7 +27,7 @@ A reorganization plan transmitted by the President under [section 903 of this ti
 
     (5) shall provide for terminating the affairs of an agency abolished.
 
-        A reorganization plan transmitted by the President containing provisions authorized by paragraph (2) of this section may provide that the head of an agency be an individual or a commission or board with more than one member. In the case of an appointment of the head of such an agency, the term of office may not be fixed at more than four years, the pay may not be at a rate in excess of that found by the President to be applicable to comparable officers in the executive branch, and if the appointment is not to a position in the competitive service, it shall be by the President, by and with the advice and consent of the Senate. Any reorganization plan transmitted by the President containing provisions required by paragraph (4) of this section shall provide for the transfer of unexpended balances only if such balances are used for the purposes for which the appropriation was originally made.
+    A reorganization plan transmitted by the President containing provisions authorized by paragraph (2) of this section may provide that the head of an agency be an individual or a commission or board with more than one member. In the case of an appointment of the head of such an agency, the term of office may not be fixed at more than four years, the pay may not be at a rate in excess of that found by the President to be applicable to comparable officers in the executive branch, and if the appointment is not to a position in the competitive service, it shall be by the President, by and with the advice and consent of the Senate. Any reorganization plan transmitted by the President containing provisions required by paragraph (4) of this section shall provide for the transfer of unexpended balances only if such balances are used for the purposes for which the appropriation was originally made.
 
 ([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 395][/us/stat/80/395]; [Pub. L. 92–179, § 3][/us/pl/92/179/s3], Dec. 10, 1971, [85 Stat. 575][/us/stat/85/575]; [Pub. L. 95–17, § 2][/us/pl/95/17/s2], Apr. 6, 1977, [91 Stat. 31][/us/stat/91/31]; [Pub. L. 98–614, § 5(b)][/us/pl/98/614/s5/b], Nov. 8, 1984, [98 Stat. 3194][/us/stat/98/3194].)
 

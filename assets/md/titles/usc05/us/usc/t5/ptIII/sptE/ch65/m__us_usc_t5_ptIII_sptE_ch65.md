@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs6501" data-uslm-ref="/us/usc/t5/s6501">6501.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs6502" data-uslm-ref="/us/usc/t5/s6502">6502.</a>  </td>
 
     <td> Executive agencies telework requirement.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs6503" data-uslm-ref="/us/usc/t5/s6503">6503.</a>  </td>
 
     <td> Training and monitoring.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs6504" data-uslm-ref="/us/usc/t5/s6504">6504.</a>  </td>
 
     <td> Policy and support.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs6505" data-uslm-ref="/us/usc/t5/s6505">6505.</a>  </td>
 
     <td> Telework Managing Officer.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs6506" data-uslm-ref="/us/usc/t5/s6506">6506.</a>  </td>
 
     <td> Reports.  </td>
 

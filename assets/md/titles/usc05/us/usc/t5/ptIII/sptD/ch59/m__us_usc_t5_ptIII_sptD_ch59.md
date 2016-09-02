@@ -33,7 +33,7 @@ SUBCHAPTER I—UNIFORMS  </td>
 
   <tr>
 
-    <td> 5901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5901" data-uslm-ref="/us/usc/t5/s5901">5901.</a>  </td>
 
     <td> Uniform allowances.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—UNIFORMS  </td>
 
   <tr>
 
-    <td> 5902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5902" data-uslm-ref="/us/usc/t5/s5902">5902.</a>  </td>
 
     <td> Increase in maximum uniform allowance.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—UNIFORMS  </td>
 
   <tr>
 
-    <td> 5903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5903" data-uslm-ref="/us/usc/t5/s5903">5903.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—QUARTERS  </td>
 
   <tr>
 
-    <td> 5911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5911" data-uslm-ref="/us/usc/t5/s5911">5911.</a>  </td>
 
     <td> Quarters and facilities; employees in the United States.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—QUARTERS  </td>
 
   <tr>
 
-    <td> 5912.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5912" data-uslm-ref="/us/usc/t5/s5912">5912.</a>  </td>
 
     <td> Quarters in Government owned or rented buildings; employees in foreign countries.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—QUARTERS  </td>
 
   <tr>
 
-    <td> 5913.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5913" data-uslm-ref="/us/usc/t5/s5913">5913.</a>  </td>
 
     <td> Official residence expenses.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER III—OVERSEAS DIFFERENTIALS AND ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5921.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5921" data-uslm-ref="/us/usc/t5/s5921">5921.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER III—OVERSEAS DIFFERENTIALS AND ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5922.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5922" data-uslm-ref="/us/usc/t5/s5922">5922.</a>  </td>
 
     <td> General provisions.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER III—OVERSEAS DIFFERENTIALS AND ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5923.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5923" data-uslm-ref="/us/usc/t5/s5923">5923.</a>  </td>
 
     <td> Quarters allowances.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER III—OVERSEAS DIFFERENTIALS AND ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5924.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5924" data-uslm-ref="/us/usc/t5/s5924">5924.</a>  </td>
 
     <td> Cost-of-living allowances.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER III—OVERSEAS DIFFERENTIALS AND ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5925.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5925" data-uslm-ref="/us/usc/t5/s5925">5925.</a>  </td>
 
     <td> Post differentials.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—OVERSEAS DIFFERENTIALS AND ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5926.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5926" data-uslm-ref="/us/usc/t5/s5926">5926.</a>  </td>
 
     <td> Compensatory time off at certain posts in foreign areas.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—OVERSEAS DIFFERENTIALS AND ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5927.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5927" data-uslm-ref="/us/usc/t5/s5927">5927.</a>  </td>
 
     <td> Advances of pay.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—OVERSEAS DIFFERENTIALS AND ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5928.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5928" data-uslm-ref="/us/usc/t5/s5928">5928.</a>  </td>
 
     <td> Danger pay allowance.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER IV—MISCELLANEOUS ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5941.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5941" data-uslm-ref="/us/usc/t5/s5941">5941.</a>  </td>
 
     <td> Allowances based on living costs and conditions of environment; employees stationed outside continental United States or in Alaska.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER IV—MISCELLANEOUS ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5942.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5942" data-uslm-ref="/us/usc/t5/s5942">5942.</a>  </td>
 
     <td> Allowance based on duty at remote worksites.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER IV—MISCELLANEOUS ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5942a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5942a" data-uslm-ref="/us/usc/t5/s5942a">5942a.</a>  </td>
 
     <td> Separate maintenance allowance for duty at Johnston Island.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER IV—MISCELLANEOUS ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5943.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5943" data-uslm-ref="/us/usc/t5/s5943">5943.</a>  </td>
 
     <td> Foreign currency appreciation allowances.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER IV—MISCELLANEOUS ALLOWANCES  </td>
 
   <tr>
 
-    <td> [5944.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5944" data-uslm-ref="/us/usc/t5/s5944">5944.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER IV—MISCELLANEOUS ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5945.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5945" data-uslm-ref="/us/usc/t5/s5945">5945.</a>  </td>
 
     <td> Notary public commission expenses.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER IV—MISCELLANEOUS ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5946.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5946" data-uslm-ref="/us/usc/t5/s5946">5946.</a>  </td>
 
     <td> Membership fees; expenses of attendance at meetings; limitations.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER IV—MISCELLANEOUS ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5947.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5947" data-uslm-ref="/us/usc/t5/s5947">5947.</a>  </td>
 
     <td> Quarters, subsistence, and allowances for employees of the Corps of Engineers, Department of the Army, engaged in floating plant operations.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER IV—MISCELLANEOUS ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5948.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5948" data-uslm-ref="/us/usc/t5/s5948">5948.</a>  </td>
 
     <td> Physicians comparability allowances.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER IV—MISCELLANEOUS ALLOWANCES  </td>
 
   <tr>
 
-    <td> 5949.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5949" data-uslm-ref="/us/usc/t5/s5949">5949.</a>  </td>
 
     <td> Hostile fire pay.  </td>
 

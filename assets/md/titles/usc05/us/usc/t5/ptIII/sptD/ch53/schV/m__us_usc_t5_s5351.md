@@ -15,7 +15,7 @@
 
 ## § 5351. Definitions
 
-For the purpose of this subchapter—
+    For the purpose of this subchapter—
 
     (1) “agency” means an Executive agency, a military department, and the government of the District of Columbia; and
 

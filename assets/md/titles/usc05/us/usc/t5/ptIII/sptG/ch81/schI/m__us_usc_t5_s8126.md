@@ -15,7 +15,7 @@
 
 ## § 8126. Subpenas; oaths; examination of witnesses
 
-The Secretary of Labor, on any matter within his jurisdiction under this subchapter, may—
+    The Secretary of Labor, on any matter within his jurisdiction under this subchapter, may—
 
     (1) issue subpenas for and compel the attendance of witnesses within a radius of 100 miles;
 

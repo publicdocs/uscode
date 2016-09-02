@@ -15,7 +15,7 @@
 
 ## § 5701. Definitions
 
-Except as otherwise provided in section 5707(d), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  for the purpose of this subchapter—
+    Except as otherwise provided in section 5707(d), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  for the purpose of this subchapter—
 
     (1)
 

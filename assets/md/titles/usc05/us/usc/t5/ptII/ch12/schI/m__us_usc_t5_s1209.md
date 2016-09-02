@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t5/ptII/ch12/schI/m__us_usc_t5_s1207, 1208.md) | [Next](./../../../../../..//us/usc/t5/ptII/ch12/schII/m__us_usc_t5_ptII_ch12_schII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1209)
+[Previous](./../../../../../..//us/usc/t5/ptII/ch12/schI/m__us_usc_t5_s1206.md) | [Next](./../../../../../..//us/usc/t5/ptII/ch12/schII/m__us_usc_t5_ptII_ch12_schII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1209)
 
 ## \[§ 1209. Renumbered §§ 1205 and 1206\]
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t5/ptII/ch12/schI/m__us_usc_t5_s1207, 1208.md) | [Next](./../../../../../..//us/usc/t5/ptII/ch12/schII/m__us_usc_t5_ptII_ch12_schII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1209)
+[Previous](./../../../../../..//us/usc/t5/ptII/ch12/schI/m__us_usc_t5_s1206.md) | [Next](./../../../../../..//us/usc/t5/ptII/ch12/schII/m__us_usc_t5_ptII_ch12_schII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1209)
 
 ----------
 ----------

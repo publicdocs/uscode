@@ -1,7 +1,7 @@
 ---
 ---
 
-# 5 U.S.C., USLM ref /us/usc/t5/s3598
+# 5 U.S.C., USLM ref /us/usc/t5/s3598.1
 
 * Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
   Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
@@ -11,9 +11,9 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t5/ptIII/sptB/ch35/schVII/m__us_usc_t5_ptIII_sptB_ch35_schVII.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptB/ch35/schVII/m__us_usc_t5_s3598^extra.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3598)
+[Previous](./../../../../../../..//us/usc/t5/ptIII/sptB/ch35/schVII/m__us_usc_t5_s3598.1.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptB/ch37/m__us_usc_t5_ptIII_sptB_ch37.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3598.1)
 
-## § 3598. <sup>\[1\]</sup>  <sup><sup> 1 Another section 3598 is set out after this section. </sup></sup>  Federal Bureau of Investigation Reserve Service
+## § 3598. <sup>\[1\]</sup>  <sup><sup> 1 Another section 3598 is set out preceding this section. </sup></sup>  Federal Bureau of Investigation Reserve Service
 
     (a) __Establishment.—__ 
 
@@ -25,7 +25,7 @@
 
     (c) __Annuitants.—__ 
 
-    If an annuitant receiving an annuity from the Civil Service Retirement and Disability Fund becomes temporarily reemployed pursuant to this section, such annuity shall not be discontinued thereby. An annuitant so reemployed shall not be considered an employee for the purposes of chapter 83 or 84.
+    If an individual receiving an annuity from the Civil Service Retirement and Disability Fund on the basis of such individual’s service becomes temporarily reemployed pursuant to this section, such annuity shall not be discontinued thereby. An individual so reemployed shall not be considered an employee for the purposes of chapter 83 or 84.
 
     (d) __No Impact on Bureau Personnel Ceiling.—__ 
 
@@ -39,16 +39,20 @@
 
     Membership of the FBI Reserve Service is not to exceed 500 members at any given time.
 
-(Added [Pub. L. 108–447, div. B, title I, § 114(a)][/us/pl/108/447/s114/a], Dec. 8, 2004, [118 Stat. 2869][/us/stat/118/2869].)
+    (g) __Limitation on Duration of Service.—__ 
+
+    An individual may not be reemployed under this section for more than 180 days in connection with any particular emergency unless, in the judgment of the Director, the public interest so requires.
+
+(Added [Pub. L. 108–458, title II, § 2004(a)][/us/pl/108/458/s2004/a], Dec. 17, 2004, [118 Stat. 3703][/us/stat/118/3703].)
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t5/ptIII/sptB/ch35/schVII/m__us_usc_t5_ptIII_sptB_ch35_schVII.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptB/ch35/schVII/m__us_usc_t5_s3598^extra.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3598)
+[Previous](./../../../../../../..//us/usc/t5/ptIII/sptB/ch35/schVII/m__us_usc_t5_s3598.1.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptB/ch37/m__us_usc_t5_ptIII_sptB_ch37.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3598.1)
 
 ----------
 ----------
 
-[/us/pl/108/447/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs114%2Fa
-[/us/stat/118/2869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2869
+[/us/pl/108/458/s2004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs2004%2Fa
+[/us/stat/118/3703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3703
 
 

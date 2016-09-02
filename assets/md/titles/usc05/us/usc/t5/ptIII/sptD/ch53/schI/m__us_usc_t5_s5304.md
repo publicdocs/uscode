@@ -523,7 +523,11 @@ Oct. 11, 1962, Pub. L. 87–793, § 505, 76 Stat. 842.  </td>
 
 >              any employee who—
 
->                 “(i) on the day before the date of enactment of this Act \[Oct. 28, 2009\]—         “(I) was eligible to be paid a cost-of-living allowance under 5941 of title 5, United States Code; and
+>                 “(i)
+
+>                  on the day before the date of enactment of this Act \[Oct. 28, 2009\]—
+
+>                          “(I) was eligible to be paid a cost-of-living allowance under 5941 of title 5, United States Code; and
 
 >                          “(II) was not eligible to be paid locality-based comparability payments under 5304 or 5304a of that title; or
 
@@ -533,7 +537,11 @@ Oct. 11, 1962, Pub. L. 87–793, § 505, 76 Stat. 842.  </td>
 
 >              any employee who—
 
->                 “(i) on the day before the date of enactment of this Act—         “(I) was eligible to be paid an allowance under [section 1603(b) of title 10][/us/usc/t10/s1603/b], United States Code;
+>                 “(i)
+
+>                  on the day before the date of enactment of this Act—
+
+>                          “(I) was eligible to be paid an allowance under [section 1603(b) of title 10][/us/usc/t10/s1603/b], United States Code;
 
 >                          “(II) was eligible to be paid an allowance under [section 1005(b) of title 39][/us/usc/t39/s1005/b], United States Code;
 
@@ -541,7 +549,11 @@ Oct. 11, 1962, Pub. L. 87–793, § 505, 76 Stat. 842.  </td>
 
 >                          “(IV) was eligible to be paid under any other authority a cost-of-living allowance that is equivalent to the cost-of-living allowance under [section 5941 of title 5][/us/usc/t5/s5941], United States Code; or
 
->                 “(ii) on or after the date of enactment of this Act \[Oct. 28, 2009\]—         “(I) becomes eligible to be paid an allowance under [section 1603(b) of title 10][/us/usc/t10/s1603/b], United States Code;
+>                 “(ii)
+
+>                  on or after the date of enactment of this Act \[Oct. 28, 2009\]—
+
+>                          “(I) becomes eligible to be paid an allowance under [section 1603(b) of title 10][/us/usc/t10/s1603/b], United States Code;
 
 >                          “(II) becomes eligible to be paid an allowance under [section 1005(b) of title 39][/us/usc/t39/s1005/b], United States Code;
 
@@ -577,7 +589,11 @@ Oct. 11, 1962, Pub. L. 87–793, § 505, 76 Stat. 842.  </td>
 
 >                 “(i) may result in the allowance exceeding 25 percent of the rate of basic pay of that employee; and
 
->                 “(ii) shall be the greater of—         “(I) the cost-of-living allowance rate in effect on December 31, 2009 for the applicable area; or
+>                 “(ii)
+
+>                  shall be the greater of—
+
+>                          “(I) the cost-of-living allowance rate in effect on December 31, 2009 for the applicable area; or
 
 >                          “(II) the applicable locality-based comparability pay percentage under section 1914.
 

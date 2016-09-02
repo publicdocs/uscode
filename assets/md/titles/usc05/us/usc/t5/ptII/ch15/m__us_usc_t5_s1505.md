@@ -15,7 +15,7 @@
 
 ## § 1505. Hearings; adjudications; notice of determinations
 
-Either the State or local officer or employee or the State or local agency employing him, or both, are entitled to appear with counsel at the hearing under [section 1504 of this title][/us/usc/t5/s1504], and be heard. After this hearing, the Merit Systems Protection Board shall—
+    Either the State or local officer or employee or the State or local agency employing him, or both, are entitled to appear with counsel at the hearing under [section 1504 of this title][/us/usc/t5/s1504], and be heard. After this hearing, the Merit Systems Protection Board shall—
 
     (1) determine whether a violation of [section 1502 of this title][/us/usc/t5/s1502] has occurred;
 

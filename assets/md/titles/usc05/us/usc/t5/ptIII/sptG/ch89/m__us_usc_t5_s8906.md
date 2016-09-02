@@ -399,19 +399,25 @@ July 18, 1966, Pub. L. 89–504, §§ 406(b), 602, 80 Stat. 298, 303.  </td>
 
 [Pub. L. 101–76][/us/pl/101/76], Aug. 11, 1989, [103 Stat. 556][/us/stat/103/556], as amended by [Pub. L. 101–508, title VII, § 7002(e)][/us/pl/101/508/s7002/e], Nov. 5, 1990, [104 Stat. 1388–330][/us/stat/104/1388-330]; [Pub. L. 103–66, title XI, § 11005][/us/pl/103/66/s11005], Aug. 10, 1993, [107 Stat. 412][/us/stat/107/412], provided: 
 
-> “That (a)(1) in the administration of chapter 89 of title 5, United States Code, for each of contract years 1990 through 1998 (inclusive), in order to compute the average subscription charges under section 8906(a) of such title for such contract years, the subscription charges in effect for the indemnity benefit plan on the beginning date of each such contract year—
+>     “That 
 
->     “(A) shall be deemed to be the subscription charges which were in effect for such plan on the beginning date of the preceding contract year as adjusted under paragraph (2); or
+>     (a)
 
->     “(B)
+>         (1)
 
->      if subparagraph (A) does not apply, shall be deemed to be—
+>          in the administration of chapter 89 of title 5, United States Code, for each of contract years 1990 through 1998 (inclusive), in order to compute the average subscription charges under section 8906(a) of such title for such contract years, the subscription charges in effect for the indemnity benefit plan on the beginning date of each such contract year—
 
->         “(i) the subscription charges which were deemed under this Act to have been in effect for such plan with respect to the preceding contract year as adjusted under paragraph (2), except as provided in clause (ii); or
+>             “(A) shall be deemed to be the subscription charges which were in effect for such plan on the beginning date of the preceding contract year as adjusted under paragraph (2); or
 
->         “(ii) for each of contract years 1997 and 1998, the subscription charges which would be derived by applying the terms of clause (i), reduced by 1 percent.
+>             “(B)
 
->     “(2) The subscription charges under paragraph (1) shall be increased or decreased (as appropriate) by the average percentage by which the respective subscription charges taken into account under paragraphs (1), (3), and (4) of such section 8906(a) for that contract year increased or decreased from the subscription charges taken into account under such paragraphs (1), (3), and (4) for the preceding contract year.
+>              if subparagraph (A) does not apply, shall be deemed to be—
+
+>                 “(i) the subscription charges which were deemed under this Act to have been in effect for such plan with respect to the preceding contract year as adjusted under paragraph (2), except as provided in clause (ii); or
+
+>                 “(ii) for each of contract years 1997 and 1998, the subscription charges which would be derived by applying the terms of clause (i), reduced by 1 percent.
+
+>         “(2) The subscription charges under paragraph (1) shall be increased or decreased (as appropriate) by the average percentage by which the respective subscription charges taken into account under paragraphs (1), (3), and (4) of such section 8906(a) for that contract year increased or decreased from the subscription charges taken into account under such paragraphs (1), (3), and (4) for the preceding contract year.
 
 >     “(b) Separate percentages shall be computed under subsection (a)(2) with respect to enrollments for self alone and enrollments for self and family, respectively.
 

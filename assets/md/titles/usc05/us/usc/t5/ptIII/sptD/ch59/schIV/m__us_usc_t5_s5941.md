@@ -167,7 +167,7 @@ June 30, 1948, ch. 775, § 104, 62 Stat. 1205.  </td>
 
 >     “(3) an evaluation of the likely impact of the different approaches on the Government’s ability to recruit and retain a well-qualified workforce.
 
->         For the purpose of conducting such study and preparing such report, the Office may accept and utilize (without regard to any restriction on unanticipated travel expenses imposed in an Appropriations Act) funds made available to the Office pursuant to court approval.”
+>     For the purpose of conducting such study and preparing such report, the Office may accept and utilize (without regard to any restriction on unanticipated travel expenses imposed in an Appropriations Act) funds made available to the Office pursuant to court approval.”
 
  __Ex. Ord. No. 10000. Regulations Governing Additional Compensation and Credit Granted Certain Federal Employees Serving Outside the United States__ 
 

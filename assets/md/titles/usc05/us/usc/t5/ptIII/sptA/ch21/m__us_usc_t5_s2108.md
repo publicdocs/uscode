@@ -15,7 +15,7 @@
 
 ## § 2108. Veteran; disabled veteran; preference eligible
 
-For the purpose of this title—
+    For the purpose of this title—
 
     (1)
 

@@ -15,7 +15,7 @@
 
 ## § 3349c. Exclusion of certain officers
 
-Sections 3345 through 3349b shall not apply to—
+    Sections 3345 through 3349b shall not apply to—
 
     (1)
 

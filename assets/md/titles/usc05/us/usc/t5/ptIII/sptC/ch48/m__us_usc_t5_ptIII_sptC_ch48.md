@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4801" data-uslm-ref="/us/usc/t5/s4801">4801.</a>  </td>
 
     <td> Nonapplicability of chapter 47.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4802" data-uslm-ref="/us/usc/t5/s4802">4802.</a>  </td>
 
     <td> Securities and Exchange Commission.  </td>
 

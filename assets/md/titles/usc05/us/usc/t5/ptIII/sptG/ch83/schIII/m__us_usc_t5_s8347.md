@@ -413,15 +413,21 @@ Section 1043(b), (c) of [Pub. L. 104–106][/us/pl/104/106] provided that:
 
 >                 “(iii) __Condition subsequent relating to deficiency in payments relative to amounts needed to ensure that benefits are fully funded.—__ 
 
->                          “(I) In general.—Except as provided in subclause (II), the payment described in clause (i) shall not be made (and the election to which it relates shall be ineffective) if the actuarial present value of the future benefits that would be payable under the previous system with respect to service performed by such individual after the move on which the election under this paragraph is based and before the effective date of the election, exceeds the total amounts required to be transferred to the previous system under the preceding provisions of this subparagraph with respect to such service, as determined by the authority administering such previous system (in this section referred to as the ‘administrative authority’).
+>                          “(I) __In general.—__ 
 
->                          “(II) Payment of deficiency.—A determination of a deficiency under this clause shall not render an election ineffective if the individual pays or arranges to pay, at a time and in a manner satisfactory to such administrative authority, the full amount of the deficiency described in subclause (I).
+>                     Except as provided in subclause (II), the payment described in clause (i) shall not be made (and the election to which it relates shall be ineffective) if the actuarial present value of the future benefits that would be payable under the previous system with respect to service performed by such individual after the move on which the election under this paragraph is based and before the effective date of the election, exceeds the total amounts required to be transferred to the previous system under the preceding provisions of this subparagraph with respect to such service, as determined by the authority administering such previous system (in this section referred to as the ‘administrative authority’).
+
+>                          “(II) __Payment of deficiency.—__ 
+
+>                     A determination of a deficiency under this clause shall not render an election ineffective if the individual pays or arranges to pay, at a time and in a manner satisfactory to such administrative authority, the full amount of the deficiency described in subclause (I).
 
 >             “(D) __Alternative election for an individual then participating in fers.—__ 
 
 >                 “(i) __Applicability.—__ 
 
->                 This subparagraph applies with respect to any individual who—         “(I) is then currently participating in FERS; and
+>                 This subparagraph applies with respect to any individual who—
+
+>                          “(I) is then currently participating in FERS; and
 
 >                          “(II) would then otherwise be eligible to make an election under subparagraphs (A) through (C) of this paragraph, determined disregarding the matter in subclause (I) of subparagraph (B) before the first semicolon therein.
 
@@ -439,7 +445,9 @@ Section 1043(b), (c) of [Pub. L. 104–106][/us/pl/104/106] provided that:
 
 >                 “(v) __Conditions.—__ 
 
->                 An election under this subparagraph shall be subject to requirements, similar to those set forth in subparagraph (C), to ensure that—         “(I) appropriate transfers of individual and Government contributions are made to the Civil Service Retirement and Disability Fund; and
+>                 An election under this subparagraph shall be subject to requirements, similar to those set forth in subparagraph (C), to ensure that—
+
+>                          “(I) appropriate transfers of individual and Government contributions are made to the Civil Service Retirement and Disability Fund; and
 
 >                          “(II) the actuarial present value of future benefits under FERS attributable to service made creditable by such election is fully funded.
 
@@ -447,7 +455,9 @@ Section 1043(b), (c) of [Pub. L. 104–106][/us/pl/104/106] provided that:
 
 >                 “(i) __Applicability.—__ 
 
->                 This subparagraph applies with respect to any individual who—         “(I) is then currently participating in any retirement system established for employees described in [section 2105(c) of title 5][/us/usc/t5/s2105/c], United States Code (in this subparagraph referred to as a ‘NAFI retirement system’); and
+>                 This subparagraph applies with respect to any individual who—
+
+>                          “(I) is then currently participating in any retirement system established for employees described in [section 2105(c) of title 5][/us/usc/t5/s2105/c], United States Code (in this subparagraph referred to as a ‘NAFI retirement system’); and
 
 >                          “(II) would then otherwise be eligible to make an election under subparagraphs (A) through (C) of this paragraph (determined disregarding the matter in subclause (I) of subparagraph (B) before the first semicolon therein) based on a move from FERS.
 
@@ -465,9 +475,13 @@ Section 1043(b), (c) of [Pub. L. 104–106][/us/pl/104/106] provided that:
 
 >                 “(v) __Funding requirements.—__ 
 
->                          “(I) In general.—Except as provided in subclause (II), nothing in this section or in any other provision of law or any other authority shall be considered to require any payment or transfer of monies in order for an election under this subparagraph to be effective.
+>                          “(I) __In general.—__ 
 
->                          “(II) Contribution required only if individual elects to have service made creditable for computation purposes as well.—Under regulations prescribed by the appropriate administrative authority, an individual making an election under this subparagraph may further elect to have the qualifying FERS service made creditable for computation purposes under a NAFI retirement system, but only if the individual pays or arranges to pay, at a time and in a manner satisfactory to such administrative authority, the amount necessary to fully fund the actuarial present value of future benefits under the NAFI retirement system attributable to the qualifying FERS service.
+>                     Except as provided in subclause (II), nothing in this section or in any other provision of law or any other authority shall be considered to require any payment or transfer of monies in order for an election under this subparagraph to be effective.
+
+>                          “(II) __Contribution required only if individual elects to have service made creditable for computation purposes as well.—__ 
+
+>                     Under regulations prescribed by the appropriate administrative authority, an individual making an election under this subparagraph may further elect to have the qualifying FERS service made creditable for computation purposes under a NAFI retirement system, but only if the individual pays or arranges to pay, at a time and in a manner satisfactory to such administrative authority, the amount necessary to fully fund the actuarial present value of future benefits under the NAFI retirement system attributable to the qualifying FERS service.
 
 >         “(3) __Information.—__ 
 

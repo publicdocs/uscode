@@ -15,7 +15,7 @@
 
 ## § 5405. Regulations
 
-The Office shall issue such regulations as it determines to be necessary for the administration of this chapter, including the administration of the Fund. The Office’s regulations shall include criteria governing—
+    The Office shall issue such regulations as it determines to be necessary for the administration of this chapter, including the administration of the Fund. The Office’s regulations shall include criteria governing—
 
     (1) an agency plan under section 5406;
 

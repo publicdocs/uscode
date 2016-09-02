@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4301" data-uslm-ref="/us/usc/t5/s4301">4301.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4302" data-uslm-ref="/us/usc/t5/s4302">4302.</a>  </td>
 
     <td> Establishment of performance appraisal systems.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> [4302a.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4302a" data-uslm-ref="/us/usc/t5/s4302a">4302a.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4303" data-uslm-ref="/us/usc/t5/s4303">4303.</a>  </td>
 
     <td> Actions based on unacceptable performance.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4304" data-uslm-ref="/us/usc/t5/s4304">4304.</a>  </td>
 
     <td> Responsibilities of  <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>  Office of Personnel Management.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4305" data-uslm-ref="/us/usc/t5/s4305">4305.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—PERFORMANCE APPRAISAL IN THE SENIOR EXECUTIVE SERVICE  </td>
 
   <tr>
 
-    <td> 4311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4311" data-uslm-ref="/us/usc/t5/s4311">4311.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—PERFORMANCE APPRAISAL IN THE SENIOR EXECUTIVE SERVICE  </td>
 
   <tr>
 
-    <td> 4312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4312" data-uslm-ref="/us/usc/t5/s4312">4312.</a>  </td>
 
     <td> Senior Executive Service performance appraisal systems.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—PERFORMANCE APPRAISAL IN THE SENIOR EXECUTIVE SERVICE  </td>
 
   <tr>
 
-    <td> 4313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4313" data-uslm-ref="/us/usc/t5/s4313">4313.</a>  </td>
 
     <td> Criteria for performance appraisals.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—PERFORMANCE APPRAISAL IN THE SENIOR EXECUTIVE SERVICE  </td>
 
   <tr>
 
-    <td> 4314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4314" data-uslm-ref="/us/usc/t5/s4314">4314.</a>  </td>
 
     <td> Ratings for performance appraisals.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—PERFORMANCE APPRAISAL IN THE SENIOR EXECUTIVE SERVICE  </td>
 
   <tr>
 
-    <td> 4315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs4315" data-uslm-ref="/us/usc/t5/s4315">4315.</a>  </td>
 
     <td> Regulations.  </td>
 

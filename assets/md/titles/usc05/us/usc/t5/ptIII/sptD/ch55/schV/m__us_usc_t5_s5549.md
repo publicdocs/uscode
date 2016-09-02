@@ -15,7 +15,7 @@
 
 ## § 5549. Effect on other statutes
 
-This subchapter does not prevent payment for overtime services or for Sunday or holiday work under any of the following statutes—
+    This subchapter does not prevent payment for overtime services or for Sunday or holiday work under any of the following statutes—
 
     (1) section 10703 of the Farm Security and Rural Investment Act of 2002;
 
@@ -27,7 +27,7 @@ This subchapter does not prevent payment for overtime services or for Sunday or 
 
     (5) [section 154(f)(3) of title 47][/us/usc/t47/s154/f/3].
 
-        However, an employee may not receive premium pay under this subchapter for the same services for which he is paid under one of these statutes.
+    However, an employee may not receive premium pay under this subchapter for the same services for which he is paid under one of these statutes.
 
 ([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 488][/us/stat/80/488]; [Pub. L. 98–89, § 3(a)][/us/pl/98/89/s3/a], Aug. 26, 1983, [97 Stat. 599][/us/stat/97/599]; [Pub. L. 107–171, title X, § 10703(c)(4)][/us/pl/107/171/s10703/c/4], May 13, 2002, [116 Stat. 518][/us/stat/116/518].)
 

@@ -15,7 +15,7 @@
 
 ## § 706. Scope of review
 
-To the extent necessary to decision and when presented, the reviewing court shall decide all relevant questions of law, interpret constitutional and statutory provisions, and determine the meaning or applicability of the terms of an agency action. The reviewing court shall—
+    To the extent necessary to decision and when presented, the reviewing court shall decide all relevant questions of law, interpret constitutional and statutory provisions, and determine the meaning or applicability of the terms of an agency action. The reviewing court shall—
 
     (1) compel agency action unlawfully withheld or unreasonably delayed; and
 
@@ -35,7 +35,7 @@ To the extent necessary to decision and when presented, the reviewing court shal
 
         (F) unwarranted by the facts to the extent that the facts are subject to trial de novo by the reviewing court.
 
-        In making the foregoing determinations, the court shall review the whole record or those parts of it cited by a party, and due account shall be taken of the rule of prejudicial error.
+    In making the foregoing determinations, the court shall review the whole record or those parts of it cited by a party, and due account shall be taken of the rule of prejudicial error.
 
 ([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 393][/us/stat/80/393].)
 
