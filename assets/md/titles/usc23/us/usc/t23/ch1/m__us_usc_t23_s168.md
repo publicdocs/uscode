@@ -161,7 +161,7 @@
 
     (f) __Rules of Construction.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         This section does not make the environmental review process applicable to the transportation planning process conducted under this title and chapter 53 of title 49.
 

@@ -159,6 +159,8 @@
 
     Subsec. (f). [Pub. L. 114–94][/us/pl/114/94], § 1404(a)(2), inserted “pedestrian walkways,” after “bikeways,”.
 
+    Subsec. (q). [Pub. L. 114–94][/us/pl/114/94], § 1446(d)(5)(B), amended [Pub. L. 112–141][/us/pl/112/141], § 1519(c). See 2012 Amendment note below.
+
     2012—Subsec. (q). [Pub. L. 112–141][/us/pl/112/141], § 1519(c)(3), formerly § 1519(c)(4), as renumbered by [Pub. L. 114–94][/us/pl/114/94], § 1446(d)(5)(B), struck out “in accordance with section 303 or” after “system established”.
 
     Subsec. (r). [Pub. L. 112–141][/us/pl/112/141], § 1504, added subsec. (r).
@@ -247,7 +249,7 @@
 
 [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1314(b), Dec. 4, 2015, [129 Stat. 1403][/us/stat/129/1403], provided that: 
 
-> “The first adjustment made pursuant to the amendments made by subsection (a) \[amending [section 1317 of Pub. L. 112–141][/us/pl/112/141/s1317], set out below\] shall—
+> “The first adjustment made pursuant to the amendments made by subsection (a) \[amending [section 1317 of Pub. L. 112–141][/us/pl/112/141/s1317], set out under this section\] shall—
 
 >     “(1) be carried out not later than 60 days after the date of enactment of this Act \[Dec. 4, 2015\]; and
 
@@ -257,7 +259,7 @@
 
 [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1315(b), Dec. 4, 2015, [129 Stat. 1403][/us/stat/129/1403], provided that: 
 
-> “Not later than 30 days after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\] shall revise section 771.117(g) of title 23, Code of Federal Regulations, to allow a programmatic agreement under this section \[see [section 1318(e) of Pub. L. 112–141][/us/pl/112/141/s1318/e], set out below\] to include responsibility for making categorical exclusion determinations—
+> “Not later than 30 days after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\] shall revise section 771.117(g) of title 23, Code of Federal Regulations, to allow a programmatic agreement under this section \[see [section 1318(e) of Pub. L. 112–141][/us/pl/112/141/s1318/e], set out under this section\] to include responsibility for making categorical exclusion determinations—
 
 >     “(1) for actions described in subsections (c) and (d) of section 771.117 of title 23, Code of Federal Regulations; and
 
@@ -301,11 +303,11 @@
 
 >         “(3)  __Emergency procedures__  __.—__ 
 
->         The emergency procedures for issuing permits in accordance with section 325.2(e)(4) of title 33, Code of Federal Regulations (as in effect on the date of enactment of this Act \[Dec. 4, 2015\]) shall apply to reconstruction under subsection (a), and the reconstruction shall be considered an emergency under that regulation.
+>         The emergency procedures for issuing permits in accordance with section 325.2(e)(4) of title 33, Code of Federal Regulations (as in effect on the date of enactment of this Act) shall apply to reconstruction under subsection (a), and the reconstruction shall be considered an emergency under that regulation.
 
 >         “(4)  __National historic preservation act exemption__  __.—__ 
 
->         Reconstruction under subsection (a) is eligible for an exemption from the requirements of the National Historic Preservation Act of 1966 \[[Pub. L. 89–665][/us/pl/89/665], see Tables for classification\] pursuant to part 78 of title 36, Code of Federal Regulations (as in effect on the date of enactment of this Act \[Dec. 4, 2015\]).
+>         Reconstruction under subsection (a) is eligible for an exemption from the requirements of the National Historic Preservation Act of 1966 \[[Pub. L. 89–665][/us/pl/89/665], see Tables for classification\] pursuant to part 78 of title 36, Code of Federal Regulations (as in effect on the date of enactment of this Act).
 
 >         “(5)  __Endangered species act exemption__  __.—__ 
 
@@ -313,7 +315,7 @@
 
 >         “(6)  __Expedited consultation under endangered species act__  __.—__ 
 
->         Expedited consultation pursuant to section 402.05 of title 50, Code of Federal Regulations (as in effect on the date of enactment of this Act \[Dec. 4, 2015\]) shall apply to reconstruction under subsection (a).
+>         Expedited consultation pursuant to section 402.05 of title 50, Code of Federal Regulations (as in effect on the date of enactment of this Act) shall apply to reconstruction under subsection (a).
 
 >         “(7)  __Other exemptions__  __.—__ 
 
@@ -451,7 +453,7 @@
 
 >         “(2)  __Use of template__  __.—__ 
 
->         The Secretary \[of Transportation\]—
+>         The Secretary—
 
 >             “(A) on receipt of a request from a State, shall use the template programmatic agreement developed under paragraph (1) in carrying out this section; and
 
@@ -780,6 +782,8 @@
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141

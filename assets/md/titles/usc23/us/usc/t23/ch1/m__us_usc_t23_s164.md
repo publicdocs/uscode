@@ -207,7 +207,7 @@
 
     “(i) a suspension of all driving privileges for not less than 1 year; or
 
-    “(ii) a suspension of unlimited driving privileges for 1 year, allowing for the reinstatement of limited driving privileges subject to restrictions and limited exemptions as established by State law, if an ignition interlock device is installed for not less than 1 year on each of the motor vehicles owned or operated, or both, by the individual;”
+    “(ii) a suspension of unlimited driving privileges for 1 year, allowing for the reinstatement of limited driving privileges subject to restrictions and limited exemptions as established by State law, if an ignition interlock device is installed for not less than 1 year on each of the motor vehicles owned or operated, or both, by the individual;”.
 
     Subsec. (a)(5)(B). [Pub. L. 114–94][/us/pl/114/94], § 1414(3)(C), (D), redesignated subpar. (C) as (B) and struck out former subpar. (B), which read as follows: “be subject to the impoundment or immobilization of, or the installation of an ignition interlock system on, each motor vehicle owned or operated, or both, by the individual;”.
 

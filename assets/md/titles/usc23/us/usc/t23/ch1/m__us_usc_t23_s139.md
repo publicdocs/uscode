@@ -827,9 +827,9 @@
 
     [Section 204 of this title][/us/usc/t23/s204], referred to in subsec. (j)(3), was repealed and a new section 204 enacted by [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1119(a), July 6, 2012, [126 Stat. 473][/us/stat/126/473], 489.
 
-    The date of enactment of this subsection, referred to in subsec. (o)(1), means Dec. 4, 2015, the date of approval of [Pub. L. 114–94][/us/pl/114/94].
+    The date of enactment of this subsection, referred to in subsec. (o)(1), is the date of enactment of [Pub. L. 114–94][/us/pl/114/94], which was approved Dec. 4, 2015.
 
-    Section 41003(b) of the FAST Act, referred to in subsec. (o)(2), is [section 41003(b) of Pub. L. 114–94][/us/pl/114/94/s41003/b], known as the FAST Act and also known as the Fixing America’s Surface Transportation Act, which is classified to [section 4370m–2(b) of Title 42][/us/usc/t42/s4370m–2/b], The Public Health and Welfare.
+    Section 41003(b) of the FAST Act, referred to in subsec. (o)(1)(A), is [section 41003(b) of Pub. L. 114–94][/us/pl/114/94/s41003/b], known as the FAST Act and also known as the Fixing America’s Surface Transportation Act, which is classified to [section 4370m–2(b) of Title 42][/us/usc/t42/s4370m–2/b], The Public Health and Welfare.
 
  __Codification__ 
 
@@ -881,7 +881,7 @@
 
     Subsec. (h)(5)(C). [Pub. L. 114–94][/us/pl/114/94], § 1304(h)(2), substituted “paragraph (6)” for “paragraph (5) and”.
 
-    Subsec. (h)(6), (7). [Pub. L. 114–94][/us/pl/114/94], § 1304(h)(1)(A), redesignated pars. (5) and (6) as (6) and (7). Former par. (7) redesignated (8).
+    Subsec. (h)(6), (7). [Pub. L. 114–94][/us/pl/114/94], § 1304(h)(1)(A), redesignated pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
 
     Subsec. (h)(7)(B)(i)(I). [Pub. L. 114–94][/us/pl/114/94], § 1304(h)(3)(A), substituted “is required under subsection (h) or (i) of section 106” for “under section 106(i) is required”.
 

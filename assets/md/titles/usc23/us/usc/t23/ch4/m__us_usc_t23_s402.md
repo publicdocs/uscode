@@ -567,7 +567,7 @@
 
     Except as otherwise provided, amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
-    Amendment by [section 4002 of Pub. L. 114–94][/us/pl/114/94/s4002] effective Oct. 1, 2016, see [section 4015 of Pub. L. 114–94][/us/pl/114/94/s4015], set out as a note under under [section 164 of this title][/us/usc/t23/s164].
+    Amendment by [section 4002 of Pub. L. 114–94][/us/pl/114/94/s4002] effective Oct. 1, 2016, see [section 4015 of Pub. L. 114–94][/us/pl/114/94/s4015], set out as a note under [section 164 of this title][/us/usc/t23/s164].
 
  __Effective Date of 2012 Amendment__ 
 
@@ -853,9 +853,11 @@ Similar provisions were contained in the following prior acts:
 
 >         “(2)  __Contract authority__  __.—__ 
 
->         Funds made available under this subsection shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code, except the Federal share of the cost of activities carried out using such funds shall be 80 percent.”
+>         Funds made available under this subsection shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code, except the Federal share of the cost of activities carried out using such funds shall be 80 percent.
 
-    “(3) Other uses.—The Secretary may reallocate, before the last day of any fiscal year, amounts remaining available under paragraph (1) to increase the amounts made available to carry out any of other activities authorized under [section 403 of title 23][/us/usc/t23/s403], United States Code, in order to ensure, to the maximum extent possible, that all such amounts are obligated during such fiscal year.
+>         “(3)  __Other uses__  __.—__ 
+
+>         The Secretary may reallocate, before the last day of any fiscal year, amounts remaining available under paragraph (1) to increase the amounts made available to carry out any of other activities authorized under [section 403 of title 23][/us/usc/t23/s403], United States Code, in order to ensure, to the maximum extent possible, that all such amounts are obligated during such fiscal year.”
 
  __High Visibility Enforcement Program__ 
 

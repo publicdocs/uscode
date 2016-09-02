@@ -23,6 +23,8 @@
 
  __Amendments__ 
 
+    2015—[Pub. L. 114–94][/us/pl/114/94] amended [Pub. L. 112–141][/us/pl/112/141], § 1519(c). See 2012 Amendment notes below.
+
     2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141], § 1519(c)(10)(A), formerly § 1519(c)(11)(A), as renumbered by [Pub. L. 114–94][/us/pl/114/94], § 1446(d)(5)(B), designated third sentence as subsec. (a), struck out “, in addition to such funds,” after “provision of law” and “such highway or” after “expend on”, and struck out former first, second, fourth, and fifth sentences, including pars. (1) to (5), relating to reconstruction of the Alaska Highway from the Alaskan border to Haines Junction in Canada and the Haines Cutoff Highway from Haines Junction in Canada to Haines, appropriations for reconstruction, obligation limitation enacted for fiscal year 1983, and certain restrictions on expenditures for construction of highways in Canada.
 
     Subsecs. (b), (c). [Pub. L. 112–141][/us/pl/112/141], § 1519(c)(10)(B), (C), formerly § 1519(c)(11)(B), (C), as renumbered by [Pub. L. 114–94][/us/pl/114/94], § 1446(d)(5)(B), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The survey and construction work undertaken in Canada pursuant to this section shall be under the general supervision of the Secretary.”
@@ -86,6 +88,8 @@
 [/us/stat/126/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F576
 [/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141

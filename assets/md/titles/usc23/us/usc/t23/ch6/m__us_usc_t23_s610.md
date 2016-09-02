@@ -231,6 +231,8 @@
 
     Subsec. (d)(1)(A). [Pub. L. 114–94][/us/pl/114/94], § 2001(i)(2)(A), substituted “each of fiscal years 2016 through 2020 under each of paragraphs (1), (2), and (5) of section 104(b); and” for “fiscal years 2005 through 2009 under each of sections 104(b)(1), 104(b)(3), 104(b)(4), and 144; and”.
 
+    Subsec. (d)(1)(B). [Pub. L. 114–94][/us/pl/114/94], § 1446(d)(5)(B), amended [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1519(c). See 2012 Amendment note below.
+
     Subsec. (d)(2), (3). [Pub. L. 114–94][/us/pl/114/94], § 2001(i)(2)(B), (C), substituted “fiscal years 2016 through 2020” for “fiscal years 2005 through 2009”.
 
     Subsec. (d)(4) to (7). [Pub. L. 114–94][/us/pl/114/94], § 2001(i)(2)(D)–(F), added par. (4), redesignated former pars. (4) to (6) as (5) to (7), respectively, and substituted “section 133(d)(1)(A)(i)” for “section 133(d)(3)” in par. (6).
@@ -287,6 +289,8 @@
 [/us/stat/129/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1444
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94

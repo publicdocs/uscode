@@ -53,7 +53,7 @@
 
                 (i) contains innovative project delivery methods that improve work zone safety for motorists or workers and the quality of the facility;
 
-                (ii) contains innovative technologies, engineering or design approaches, manufacturing processes, financing, or contracting methods that improve the quality of, extend the service life of, or decrease the long-term costs of maintaining highways and bridges;
+                (ii) contains innovative technologies, engineering or design approaches, manufacturing processes, financing, or contracting or project delivery methods that improve the quality of, extend the service life of, or decrease the long-term costs of maintaining highways and bridges;
 
                 (iii) accelerates project delivery while complying with other applicable Federal laws (including regulations) and not causing any significant adverse environmental impact; or
 

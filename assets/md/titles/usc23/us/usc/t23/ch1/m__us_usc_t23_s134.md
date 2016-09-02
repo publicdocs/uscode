@@ -595,7 +595,7 @@
 
             The Secretary shall establish an appropriate phase-in schedule for compliance with the requirements of this section but no sooner than 1 year after the identification of a transportation management area.
 
-            (C) __Congestion management plan.—__ 
+            (C)  __Congestion management plan__  __.—__ 
 
             A metropolitan planning organization serving a transportation management area may develop a plan that includes projects and strategies that will be considered in the TIP of such metropolitan planning organization. Such plan shall—
 
@@ -605,7 +605,7 @@
 
                 (iii) identify proposed projects and programs to reduce congestion and increase job access opportunities.
 
-            (D) __Participation.—__ 
+            (D)  __Participation__  __.—__ 
 
             In developing the plan under subparagraph (C), a metropolitan planning organization shall consult with employers, private and nonprofit providers of public transportation, transportation management organizations, and organizations that provide job access reverse commute projects or job-related services to low-income individuals.
 
@@ -783,7 +783,7 @@
 
     Subsec. (k)(3)(C), (D). [Pub. L. 114–94][/us/pl/114/94], § 1201(8)(B), added subpars. (C) and (D).
 
-    Subsec. (l)(1). [Pub. L. 114–94][/us/pl/114/94], § 1201(9)(A), added period at end.
+    Subsec. (l)(1). [Pub. L. 114–94][/us/pl/114/94], § 1201(9)(A), inserted period at end.
 
     Subsec. (l)(2)(D). [Pub. L. 114–94][/us/pl/114/94], § 1201(9)(B), substituted “with a population of 200,000 or less” for “of less than 200,000”.
 

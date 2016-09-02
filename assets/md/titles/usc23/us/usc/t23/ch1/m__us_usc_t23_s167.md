@@ -363,7 +363,7 @@
 
                 (i) in proximity to, or within, an existing right of way on a Federal-aid highway; or
 
-                (ii) that connect land ports-of entry to existing Federal-aid highways; or
+                (ii) that connect land ports-of entry  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  to existing Federal-aid highways; or
 
             (B) communications or information processing systems that improve the efficiency, security, or safety of freight movements on the Federal-aid highway system, including to improve the conveyance of freight on dedicated intelligent freight lanes.
 
@@ -383,7 +383,7 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–94][/us/pl/114/94], amended section generally. Prior to amendment, section related to national freight policy.
+    2015—[Pub. L. 114–94][/us/pl/114/94] amended section generally. Prior to amendment, section related to national freight policy.
 
  __Effective Date of 2015 Amendment__ 
 
@@ -395,7 +395,7 @@
 
  __Freight Movement Projects, Advisory Committees, and Plans__ 
 
-    [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], §§ 1116–1118, July 6, 2012, [126 Stat. 472][/us/stat/126/472], 473, which related to prioritization of projects to improve freight movement, state freight advisory committees, and state freight plans, was repealed by [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1116(c), Dec. 4, 2015, [129 Stat. 1356][/us/stat/129/1356].
+    [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], §§ 1116–1118, July 6, 2012, [126 Stat. 472][/us/stat/126/472], 473, which related to prioritization of projects to improve freight movement, State freight advisory committees, and State freight plans, was repealed by [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1116(c), Dec. 4, 2015, [129 Stat. 1356][/us/stat/129/1356].
 
 ----------
 

@@ -127,7 +127,7 @@
 
  __Effective Date__ 
 
-    Section effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
+    Section effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
 ----------
 

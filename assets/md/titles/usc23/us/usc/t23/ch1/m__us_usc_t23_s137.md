@@ -75,7 +75,7 @@
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title][/us/usc/t23/s101].
 
- __Relinquishment of Park-and-Ride lot Facilities__ 
+ __Relinquishment of Park-and-Ride Lot Facilities__ 
 
 [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1423, Dec. 4, 2015, [129 Stat. 1425][/us/stat/129/1425], provided that: 
 

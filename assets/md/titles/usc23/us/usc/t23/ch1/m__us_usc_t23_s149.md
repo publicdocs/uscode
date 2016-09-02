@@ -241,7 +241,7 @@
 
         In order to meet the requirements of paragraph (1), a State or metropolitan planning organization may elect to obligate funds to install diesel emission control technology on nonroad diesel equipment or on-road diesel equipment that is operated on a highway construction project within a PM2.5 nonattainment or maintenance area.
 
-        (3) __PM2.5 nonattainment and maintenance in low population density states.—__ 
+        (3)  __PM__  __2.5 nonattainment and maintenance in low population density states.—__ 
 
             (A)  __Exception__  __.—__ 
 
@@ -311,7 +311,9 @@
 
     Subsec. (d)(1)(B). [Pub. L. 114–94][/us/pl/114/94], § 1114(3)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “is eligible under the surface transportation program under section 133.”
 
-    Subsec. (d)(2)(A). [Pub. L. 114–94][/us/pl/114/94], § 1109(c)(5), subsituted “surface transportation block grant program” for “surface transportation program” in introductory provisions.
+    Subsec. (d)(2)(A). [Pub. L. 114–94][/us/pl/114/94], § 1114(3)(B)(i)(I), inserted “would otherwise be eligible under subsection (b) if the project were carried out in a nonattainment or maintenance area or” after “may use for any project that” in introductory provisions.
+
+    [Pub. L. 114–94][/us/pl/114/94], § 1109(c)(5), substituted “surface transportation block grant program” for “surface transportation program” in introductory provisions.
 
     Subsec. (d)(2)(A)(i). [Pub. L. 114–94][/us/pl/114/94], § 1114(3)(B)(i)(II), substituted “subsection (k)(1)” for “paragraph (l)”.
 
@@ -589,6 +591,7 @@
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94

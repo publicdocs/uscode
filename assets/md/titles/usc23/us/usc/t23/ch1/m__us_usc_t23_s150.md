@@ -139,11 +139,15 @@
 
         (4) the ways in which the State is addressing congestion at freight bottlenecks, including those identified in the national freight strategic plan, within the State.
 
-(Added [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1203(a), July 6, 2012, [126 Stat. 524][/us/stat/126/524], as amended by [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1446(d)(2)(A), Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438]; [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1446(a)(4)–(6), Dec. 4, 2015, [129 Stat. 1437][/us/stat/129/1437].)
+(Added [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1203(a), July 6, 2012, [126 Stat. 524][/us/stat/126/524], amended [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1446(a)(4)–(6), (d)(2)(A), Dec. 4, 2015, [129 Stat. 1437][/us/stat/129/1437], 1438.)
 
  __References in Text__ 
 
     The date of enactment of the MAP–21, referred to in subsecs. (c)(1) and (e), is deemed to be Oct. 1, 2012, see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of this title][/us/usc/t23/s101].
+
+ __Codification__ 
+
+    [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1446(d)(2)(A), Dec. 4, 2015, [129 Stat. 1438][/us/stat/129/1438], amended directory language of [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1203(a), July 6, 2012, [126 Stat. 524][/us/stat/126/524], which enacted this section.
 
  __Prior Provisions__ 
 
@@ -209,11 +213,13 @@
 [/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F524
 [/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
-[/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
-[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1437
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
+[/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
+[/us/stat/126/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F524
 [/us/pl/93/87/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F87%2FtI
 [/us/stat/87/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F277
 [/us/pl/97/424/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtI

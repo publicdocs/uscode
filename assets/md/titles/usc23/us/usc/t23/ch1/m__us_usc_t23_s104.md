@@ -389,7 +389,7 @@
 
     Section 105(a)(2) and subsection (b)(3), as in effect on the day before the date of enactment of the MAP–21, referred to in subsecs. (b)(4)(B), (5)(D)(ii), (6)(B) and (f)(3)(C), mean [section 105(a)(2) of this title][/us/usc/t23/s105/a/2] and subsec. (b)(3) of this section, respectively, as in effect on the day before the date of enactment of [Pub. L. 112–141][/us/pl/112/141], which repealed section 105 and amended this section generally. The date of enactment of the MAP–21 is deemed to be Oct. 1, 2012, see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of this title][/us/usc/t23/s101].
 
-    The date of enactment of the FAST Act, referred to in subsec. (g), is the date of enactment of [Pub. L. 114–94][/us/pl/114/94], which was approved Dec. 4, 2015.
+    The date of enactment of the FAST Act, referred to in subsec. (g)(1), is the date of enactment of [Pub. L. 114–94][/us/pl/114/94], which was approved Dec. 4, 2015.
 
  __Codification__ 
 
@@ -413,7 +413,7 @@
 
     Subsec. (b)(4). [Pub. L. 114–94][/us/pl/114/94], § 1104(b)(4), substituted “the amount of the base apportionment remaining for the State under subsection (c) after making the set aside in accordance with paragraph (5)” for “the amount determined for the State under subsection (c)” in introductory provisions.
 
-    Subsec. (b)(5). Pub. L. 114—94, § 1104(b)(6), added par. (5). Former par. (5) redesignated (6).
+    Subsec. (b)(5). [Pub. L. 114–94][/us/pl/114/94], § 1104(b)(6), added par. (5). Former par. (5) redesignated (6).
 
     Subsec. (b)(6). [Pub. L. 114–94][/us/pl/114/94], § 1104(b)(5), (7), redesignated former par. (5) as (6), and substituted “the amount of the base apportionment remaining for a State under subsection (c) after making the set aside in accordance with paragraph (5)” for “the amount determined for the State under subsection (c)” in introductory provisions.
 
@@ -423,7 +423,7 @@
 
     Subsec. (e). [Pub. L. 114–94][/us/pl/114/94], § 1446(d)(5)(A), repealed amendment by [Pub. L. 112–141][/us/pl/112/141], § 1519(c)(3). See 2012 Amendment note below.
 
-    Subsec. (g). [Pub. L. 114–94][/us/pl/114/94], § 1402(a), amended subsec. (g) generally. Prior to amendment, text related to reports to Congress for each fiscal year.
+    Subsec. (g). [Pub. L. 114–94][/us/pl/114/94], § 1402(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to reports to Congress for each fiscal year.
 
     Subsecs. (h), (i). [Pub. L. 114–94][/us/pl/114/94], § 1104(d), added subsecs. (h) and (i).
 
@@ -1691,6 +1691,7 @@ Provisions entitling each State, for specific fiscal years, to receive at least 
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/102/240/s1003/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1003%2Fe
 [/us/pl/105/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F130
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94

@@ -213,9 +213,9 @@
 
  __References in Text__ 
 
-    For the effective date of title I of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (a)(7), see [section 1100 of Pub. L. 102–240][/us/pl/102/240/s1100], set out as an Effective Date of 1991 Amendment note under [section 104 of this title][/us/usc/t23/s104].
+    For the effective date of title I of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (a)(6), see [section 1100 of Pub. L. 102–240][/us/pl/102/240/s1100], set out as an Effective Date of 1991 Amendment note under [section 104 of this title][/us/usc/t23/s104].
 
-    The date of enactment of the MAP–21, referred to in subsec. (a)(9), is deemed to be Oct. 1, 2012, see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of this title][/us/usc/t23/s101].
+    The date of enactment of the MAP–21, referred to in subsec. (a)(8), is deemed to be Oct. 1, 2012, see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of this title][/us/usc/t23/s101].
 
  __Amendments__ 
 
@@ -225,11 +225,9 @@
 
     Subsec. (a)(4)(B). [Pub. L. 114–94][/us/pl/114/94], § 1411(a)(3), substituted “Federal-aid highways” for “Federal-aid system”.
 
-    Subsec. (a)(5) to (8). [Pub. L. 114–94][/us/pl/114/94], § 1411(a)(2), redesignated pars. (6) to (8) as (5) to (7), respectively. Former par. (5) redesignated (4).
+    Subsec. (a)(5) to (8). [Pub. L. 114–94][/us/pl/114/94], § 1411(a)(2), redesignated pars. (6) to (9) as (5) to (8), respectively. Former par. (5) redesignated (4).
 
-    Subsec. (a)(9). [Pub. L. 114–94][/us/pl/114/94], § 1411(a)(4), added par. (9).
-
-    [Pub. L. 114–94][/us/pl/114/94], § 1411(a)(2), redesignated par. (9) as (8).
+    Subsec. (a)(9). [Pub. L. 114–94][/us/pl/114/94], § 1411(a)(4), added par. (9). Former par. (9) redesignated (8).
 
     Subsec. (a)(10)(C) to (E). [Pub. L. 114–94][/us/pl/114/94], § 1411(a)(5), added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
 
@@ -493,7 +491,7 @@
 
 >                 “(IV) use of revenues to meet transportation or impact mitigation needs.
 
->             \[“(B) Repealed. [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1419(b), Dec. 4, 2015, [129 Stat. 1423][/us/stat/129/1423].\]”
+>         “\[(B) Repealed. [Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1419(b), Dec. 4, 2015, [129 Stat. 1423][/us/stat/129/1423].\]”
 
  __Interstate System Construction Toll Pilot Program__ 
 
@@ -826,7 +824,6 @@
 [/us/usc/t23/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94

@@ -31,7 +31,7 @@
 
         Under the pilot program, the Secretary may assign, and a State may assume, any of the Secretary’s responsibilities (other than responsibilities relating to federally recognized Indian tribes) for environmental reviews, consultation, or decisionmaking or other actions required under any Federal law as such requirements apply to the following projects:
 
-            (A) Projects funded under section 104(h). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
+            (A) Projects funded under section 104(h).
 
             (B) Transportation enhancement activities under section 133, as such term is defined in section 101(a)(35).1
 
@@ -111,8 +111,6 @@
 
     The date of enactment of the SAFETEA–LU, referred to in subsec. (a)(1)(B), is the date of enactment of [Pub. L. 109–59][/us/pl/109/59], which was approved Aug. 10, 2005.
 
-    Section 104, referred to in subsec. (a)(2)(A), was amended generally by [Pub. L. 112–141][/us/pl/112/141] and no longer contains a subsec. (h).
-
     Section 101(a)(35), referred to in subsec. (a)(2)(B), was redesignated section 101(a)(29) and subsequently amended by [Pub. L. 112–141][/us/pl/112/141] and no longer defines transportation enhancement activities.
 
  __Prior Provisions__ 
@@ -129,7 +127,6 @@
 [/us/pl/109/59/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtVI
 [/us/stat/119/1865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1865
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/102/240/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtVI
 [/us/stat/105/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2168

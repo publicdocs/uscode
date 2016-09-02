@@ -47,6 +47,8 @@
 
  __Amendments__ 
 
+    2015—Subsec. (b). [Pub. L. 114–94][/us/pl/114/94] amended [Pub. L. 112–141][/us/pl/112/141], § 1519(c). See 2012 Amendment note below.
+
     2012—Subsec. (b). [Pub. L. 112–141][/us/pl/112/141], § 1519(c)(4), formerly § 1519(c)(5), as renumbered by [Pub. L. 114–94][/us/pl/114/94], § 1446(d)(5)(B), designated par. (2) as subsec. (b), struck out “(other than for Interstate construction)” after “this title”, and struck out former par. (1) relating to interstate construction funds and heading of former par. (2) which read “Other funds”.
 
     Subsecs. (c) to (e). [Pub. L. 112–141][/us/pl/112/141], § 1519(b)(1)(B), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which related to set asides for interstate discretionary projects.
@@ -274,6 +276,8 @@
 [/us/stat/126/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F575
 [/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1438
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141

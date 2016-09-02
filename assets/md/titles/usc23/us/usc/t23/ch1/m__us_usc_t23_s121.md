@@ -97,7 +97,7 @@
 
 >         “(1) assume all risk for preliminary engineering costs incurred prior to project authorization; and
 
->         “(2) be responsible for ensuring and demonstrating to the Secretary \[of Transportation\] that all applicable cost eligibility conditions are met after the authorization is received.
+>         “(2) be responsible for ensuring and demonstrating to the Secretary that all applicable cost eligibility conditions are met after the authorization is received.
 
 >     “(e)  __Restrictions__  __.—__ 
 

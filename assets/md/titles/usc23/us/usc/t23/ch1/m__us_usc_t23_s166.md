@@ -17,7 +17,7 @@
 
     (a) __In General.—__ 
 
-        (1)  __authority of public authorities__  __.—__ 
+        (1)  __Authority of public authorities__  __.—__ 
 
         A public authority that has jurisdiction over the operation of a HOV facility shall establish the occupancy requirements of vehicles operating on the facility.
 

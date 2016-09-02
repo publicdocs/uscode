@@ -57,7 +57,7 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1). [Pub. L. 114–94][/us/pl/114/94], § 1446(d)(5)(D), amended directory language of [Pub. L. 112–141][/us/pl/112/141], § 1519(c)(8)(A)(i)(I). See 2012 Amendment note below.
+    2015—[Pub. L. 114–94][/us/pl/114/94], § 1446(d)(5)(B), (D), amended [Pub. L. 112–141][/us/pl/112/141], § 1519(c). See 2012 Amendment notes below.
 
     Subsec. (e)(2). [Pub. L. 114–94][/us/pl/114/94], § 1109(c)(5), substituted “surface transportation block grant program” for “surface transportation program”.
 

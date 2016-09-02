@@ -93,6 +93,8 @@
 
  __Amendments__ 
 
+    2015—Subsec. (m). [Pub. L. 114–94][/us/pl/114/94] amended [Pub. L. 112–141][/us/pl/112/141], § 1519(c). See 2012 Amendment note below.
+
     2012—Subsec. (i). [Pub. L. 112–141][/us/pl/112/141], § 1539(b), inserted at end “A State may permit the installation of signs that acknowledge the sponsorship of rest areas within such rest areas or along the main traveled way of the system, provided that such signs shall not affect the safe and efficient utilization of the Interstate System and the primary system. The Secretary shall establish criteria for the installation of such signs on the main traveled way, including criteria pertaining to the placement of rest area sponsorship acknowledgment signs in relation to the placement of advance guide signs for rest areas.”
 
     Subsec. (m). [Pub. L. 112–141][/us/pl/112/141], § 1519(c)(6), formerly § 1519(c)(7), as renumbered by [Pub. L. 114–94][/us/pl/114/94], § 1446(d)(5)(B), substituted “A State” for “Subject to approval by the Secretary in accordance with the program of projects approval process of section 105, a State”.
@@ -309,6 +311,8 @@
 [/us/pl/93/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F643
 [/us/pl/102/240/s1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1047
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94

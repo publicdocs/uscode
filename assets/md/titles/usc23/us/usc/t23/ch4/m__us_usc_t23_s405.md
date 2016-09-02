@@ -1105,7 +1105,9 @@
 
     Subsec. (d)(6). [Pub. L. 114–94][/us/pl/114/94], § 4005(c)(2)(A), amended heading generally. Prior to amendment, heading read as follows: “Grants to states that adopt and enforce mandatory alcohol-ignition interlock laws.”.
 
-    Subsec. (d)(6)(B). [Pub. L. 114–94][/us/pl/114/94], § 4005(c)(2)(C)–(E), added subpar. (B). Former subsec. (B) redesignated (C).
+    Subsec. (d)(6)(A). [Pub. L. 114–94][/us/pl/114/94], § 4005(c)(2)(B), amended heading generally. Prior to amendment, heading read as follows: “In general.—”.
+
+    Subsec. (d)(6)(B). [Pub. L. 114–94][/us/pl/114/94], § 4005(c)(2)(D), added subpar. (B). Former subsec. (B) redesignated (C).
 
     Subsec. (d)(6)(C). [Pub. L. 114–94][/us/pl/114/94], § 4014(3)(A)(ii), which directed substitution of “in proportion to the State’s apportionment under section 402 for fiscal year 2009” for “on the basis of the apportionment formula set forth in section 402(c)” in subpar. (D) as redesignated by [Pub. L. 114–94][/us/pl/114/94], § 4005(c)(2)(C), was executed by making substitution to subpar. (C), pending future execution of [Pub. L. 114–94][/us/pl/114/94], § 4005, to reflect the probable intent of Congress.
 
@@ -1131,7 +1133,7 @@
 
     Subsec. (e). [Pub. L. 114–94][/us/pl/114/94], § 4005(d), amended subsec. (e) generally. Prior to amendment, section provided for award of distracted driving grants.
 
-    Subsec. (f)(2). [Pub. L. 114–94][/us/pl/114/94], § 4005(e)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The amount of a grant awarded to a State for a fiscal year under this subsection may not exceed 25 percent of the amount apportioned to the State for fiscal year 2003 under section 402.”.
+    Subsec. (f)(2). [Pub. L. 114–94][/us/pl/114/94], § 4005(e)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The amount of a grant awarded to a State for a fiscal year under this subsection may not exceed 25 percent of the amount apportioned to the State for fiscal year 2003 under section 402.”
 
     Subsec. (f)(4)(A)(iv). [Pub. L. 114–94][/us/pl/114/94], § 4014(3)(B), substituted “including” for “such as the” and struck out “developed under subsection (g)” after “safety messages”.
 
@@ -1241,6 +1243,7 @@
 [/us/stat/88/2289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2289
 [/us/pl/94/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtI
 [/us/stat/90/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F442
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94

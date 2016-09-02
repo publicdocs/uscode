@@ -23,7 +23,7 @@
 
         (2)  __Contents__  __.—__ 
 
-        The statewide transportation plan and the transportation improvement program developed for each State shall provide for the development and integrated management and operation of transportation systems and facilities (including accessible pedestrian walkways , bicycle transportation facilities, and intermodal facilities that support intercity transportation, including intercity buses and intercity bus facilities and commuter van pool providers) that will function as an intermodal transportation system for the State and an integral part of an intermodal transportation system for the United States.
+        The statewide transportation plan and the transportation improvement program developed for each State shall provide for the development and integrated management and operation of transportation systems and facilities (including accessible pedestrian walkways, bicycle transportation facilities, and intermodal facilities that support intercity transportation, including intercity buses and intercity bus facilities and commuter van pool providers) that will function as an intermodal transportation system for the State and an integral part of an intermodal transportation system for the United States.
 
         (3)  __Process of development__  __.—__ 
 

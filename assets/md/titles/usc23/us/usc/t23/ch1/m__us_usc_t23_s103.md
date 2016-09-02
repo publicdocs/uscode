@@ -195,7 +195,7 @@
 
     2015—Subsec. (b)(3)(A). [Pub. L. 114–94][/us/pl/114/94], § 1122(e)(1), in introductory provisions, struck out “, including any modification consisting of a connector to a major intermodal terminal,” after “any modification” and inserted “, including any modification consisting of a connector to a major intermodal terminal or the withdrawal of a road from that system,” after “the National Highway System”.
 
-    Subsec. (b)(3)(A)(ii). [Pub. L. 114–94][/us/pl/114/94], § 1122(e)(2), designated existing provisions as subcl. (I), substituted “; or” for period at end of subcl. (I), and added subcl. (II).
+    Subsec. (b)(3)(A)(ii). [Pub. L. 114–94][/us/pl/114/94], § 1122(e)(2), designated existing provisions as subcl. (I) and added subcl. (II).
 
     2014—Subsec. (c)(5)(B)(i). [Pub. L. 113–287][/us/pl/113/287], § 5(f)(1)(A), substituted “[section 306108 of title 54][/us/usc/t54/s306108]” for “section 106 of the National Historic Preservation Act ([16 U.S.C. 470f][/us/usc/t16/s470f])”.
 
@@ -435,7 +435,7 @@
 
 >     “(d)  __Report to Congress__  __.—__ 
 
->     Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], and annually thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that includes a description of—
+>     Not later than 1 year after the date of enactment of this Act, and annually thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that includes a description of—
 
 >         “(1) each request for reclassification of National Highway System roads;
 

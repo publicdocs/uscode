@@ -127,7 +127,9 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–94][/us/pl/114/94], § 1412, substituted “the relocation of highways to eliminate grade crossings, and projects at grade crossings to eliminate hazards posed by blocked grade crossings due to idling trains” for “and the relocation of highways to eliminate grade crossings”.
+    2015—[Pub. L. 114–94][/us/pl/114/94], § 1446(d)(5)(B), amended [Pub. L. 112–141][/us/pl/112/141], § 1519(c). See 2012 Amendment notes below.
+
+    Subsec. (a). [Pub. L. 114–94][/us/pl/114/94], § 1412, substituted “the relocation of highways to eliminate grade crossings, and projects at grade crossings to eliminate hazards posed by blocked grade crossings due to idling trains” for “and the relocation of highways to eliminate grade crossings”.
 
     Subsec. (e)(1). [Pub. L. 114–94][/us/pl/114/94], § 1108, amended par. (1) generally. Prior to amendment, text read as follows: “Before making an apportionment under section 104(b)(3) for a fiscal year, the Secretary shall set aside, from amounts made available to carry out the highway safety improvement program under section 148 for such fiscal year, at least $220,000,000 for the elimination of hazards and the installation of protective devices at railway-highway crossings. At least ½ of the funds authorized for and expended under this section shall be available for the installation of protective devices at railway-highway crossings. Sums authorized to be appropriated to carry out this section shall be available for obligation in the same manner as funds apportioned under [section 104(b)(1) of this title][/us/usc/t23/s104/b/1].”
 
@@ -343,6 +345,8 @@ Highway authorizations provisions of section 104(a)(1) and (2) of [Pub. L. 93–
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F432
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t23/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs104%2Fb%2F1

@@ -241,7 +241,7 @@
 
     Subsec. (a)(3). [Pub. L. 114–94][/us/pl/114/94], § 2001(a)(3), substituted “the TIFIA program” for “this chapter”.
 
-    Subsec. (a)(10). [Pub. L. 114–94][/us/pl/114/94], § 2001(a)(4)(A), added heading and introductory provisions and struck out former heading and introductory provisions. Prior to amendment, introductory provisions read as follows: “The term ‘master credit agreement’ means an agreement to extend credit assistance for a program of projects secured by a common security pledge (which shall receive an investment grade rating from a rating agency), or for a single project covered under section 602(b)(2) that would—”.
+    Subsec. (a)(10). [Pub. L. 114–94][/us/pl/114/94], § 2001(a)(4)(A), inserted heading and introductory provisions and struck out former heading and introductory provisions. Prior to amendment, introductory provisions read as follows: “The term ‘master credit agreement’ means an agreement to extend credit assistance for a program of projects secured by a common security pledge (which shall receive an investment grade rating from a rating agency), or for a single project covered under section 602(b)(2) that would—”.
 
     Subsec. (a)(10)(A). [Pub. L. 114–94][/us/pl/114/94], § 2001(a)(4)(B), substituted “subject to—” for “subject to the availability of future funds being made available to carry out this chapter;” and added cls. (i) and (ii).
 
@@ -309,7 +309,7 @@
 
 >     “(c)  __Application__  __.—__ 
 
->     To be eligible for a designation under subsection (b), a proposed regional infrastructure accelerator shall submit to the Secretary \[of Transportation\] a proposal at such time, in such manner, and containing such information as the Secretary may require.
+>     To be eligible for a designation under subsection (b), a proposed regional infrastructure accelerator shall submit to the Secretary a proposal at such time, in such manner, and containing such information as the Secretary may require.
 
 >     “(d)  __Criteria__  __.—__ 
 
@@ -337,7 +337,7 @@
 
 >     “(e)  __Annual Report__  __.—__ 
 
->     Not less frequently than once each year, the Secretary \[of Transportation\] shall submit to Congress a report that describes the findings and effectiveness of the program.
+>     Not less frequently than once each year, the Secretary shall submit to Congress a report that describes the findings and effectiveness of the program.
 
 >     “(f)  __Authorization of Appropriations__  __.—__ 
 

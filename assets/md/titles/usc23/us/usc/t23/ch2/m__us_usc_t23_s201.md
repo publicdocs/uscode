@@ -119,7 +119,7 @@
 
                 (iii)  __Inclusions__  __.—__ 
 
-                Data collected under this paragraph includes—’
+                Data collected under this paragraph includes—
 
                     (I) inventory and condition information on Federal lands transportation facilities and tribal transportation facilities; and
 

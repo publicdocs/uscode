@@ -213,13 +213,11 @@
 
     Subsec. (a)(5)(A)(ii). [Pub. L. 114–94][/us/pl/114/94], § 2001(b)(1)(D)(ii)(III), struck out “assistance” after “highway”.
 
-    Subsec. (a)(5)(B). [Pub. L. 114–94][/us/pl/114/94], § 2001(b)(1)(D)(iii)(I), substituted “Exceptions” for “Intelligent transportation system projects” in heading, designated existing provisions as cl. (i), added cl. (i) heading, and realigned margins.
-
-    Subsec. (a)(5)(B)(ii) to (iv). [Pub. L. 114–94][/us/pl/114/94], § 2001(b)(1)(D)(iii)(II), added cls. (ii) to (iv).
+    Subsec. (a)(5)(B). [Pub. L. 114–94][/us/pl/114/94], § 2001(b)(1)(D)(iii), substituted “Exceptions” for “Intelligent transportation system projects” in heading, designated existing provisions as cl. (i), inserted cl. (i) heading, and added cls. (ii) to (iv).
 
     Subsec. (a)(9). [Pub. L. 114–94][/us/pl/114/94], § 2001(b)(1)(E), substituted “the TIFIA program” for “this chapter” in introductory provisions.
 
-    Subsec. (a)(10). [Pub. L. 114–94][/us/pl/114/94], § 2001(b)(1)(F), designated existing provisions as subpar. (A), added subpar. (A) heading, substituted “Except as provided in subparagraph (B), to be eligible” for “To be eligible”, “the TIFIA program” for “this chapter” in two places, and “no later than” for “not later than”, and added subpar. (B).
+    Subsec. (a)(10). [Pub. L. 114–94][/us/pl/114/94], § 2001(b)(1)(F), designated existing provisions as subpar. (A), inserted subpar. (A) heading, substituted “Except as provided in subparagraph (B), to be eligible” for “To be eligible”, “the TIFIA program” for “this chapter” in two places, and “no later than” for “not later than”, and added subpar. (B).
 
     Subsec. (b)(2). [Pub. L. 114–94][/us/pl/114/94], § 2001(b)(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “If the Secretary fully obligates funding to eligible projects in a fiscal year, and adequate funding is not available to fund a credit instrument, a project sponsor of an eligible project may elect to enter into a master credit agreement and wait until the earlier of—
 
@@ -302,7 +300,6 @@
 [/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
 [/us/stat/84/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1894
 [/us/usc/t42/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94

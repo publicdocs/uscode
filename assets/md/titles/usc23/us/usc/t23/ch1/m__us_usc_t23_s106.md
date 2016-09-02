@@ -281,7 +281,7 @@
 
  __Amendments__ 
 
-    2015—Subsec. (b)(1). [Pub. L. 114–94][/us/pl/114/94], § 2002(b), inserted “(including payments made pursuant to a long-term concession agreement, such as availability payments)” after “construction of the project”.
+    2015—Subsec. (b)(1). [Pub. L. 114–94][/us/pl/114/94] inserted “(including payments made pursuant to a long-term concession agreement, such as availability payments)” after “construction of the project”.
 
     2012—Subsec. (a)(2). [Pub. L. 112–141][/us/pl/112/141], § 1503(a)(1), inserted “recipient” before “formalizing”.
 
@@ -385,7 +385,7 @@
 
 >     “(b)  __Submission of Recommendations__  __.—__ 
 
->     Not later than 18 months after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\], in cooperation with the States, shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate recommendations for legislation to permit the assumption of additional authorities by States, including with respect to real estate acquisition and project design.”
+>     Not later than 18 months after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary, in cooperation with the States, shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate recommendations for legislation to permit the assumption of additional authorities by States, including with respect to real estate acquisition and project design.”
 
  __Consolidation of Grants__ 
 

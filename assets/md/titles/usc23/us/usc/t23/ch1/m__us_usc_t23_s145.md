@@ -41,6 +41,8 @@
 
  __Amendments__ 
 
+    2015—Subsec. (b). [Pub. L. 114–94][/us/pl/114/94], § 1446(d)(5)(B), amended [Pub. L. 112–141][/us/pl/112/141], § 1519(c). See 2012 Amendment note below.
+
     2012—Subsec. (b). [Pub. L. 112–141][/us/pl/112/141], § 1519(c)(9), formerly § 1519(c)(10), as renumbered by [Pub. L. 114–94][/us/pl/114/94], § 1446(d)(5)(B), struck out “[section 117 of this title][/us/usc/t23/s117],” after “21st Century,” second time appearing.
 
     2005—Subsec. (b). [Pub. L. 109–59][/us/pl/109/59] inserted “section 1702 of the SAFETEA–LU,” after “described in” and “section 1101(a)(16) of the SAFETEA–LU,” after “for such projects by” and substituted “[section 117 of this title][/us/usc/t23/s117],” for “117 of title 23, United States Code,”.
@@ -86,6 +88,8 @@
 [/us/stat/119/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1155
 [/us/pl/105/178/s1101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1101%2Fa%2F13
 [/us/stat/112/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F113
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/usc/t23/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs117
