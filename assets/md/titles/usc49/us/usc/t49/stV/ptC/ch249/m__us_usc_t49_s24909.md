@@ -69,7 +69,7 @@
 
                 (xvii) provide additional catenary renewal and power supply upgrading between the District of Columbia and New York, New York;
 
-                (xviii) rehabilitate structural, electrical, and mechanical systems at the 30th Street Station in Philadelphia, Pennsylvania;
+                (xviii) rehabilitate structural, electrical, and mechanical systems at the William H. Gray III 30th Street Station in Philadelphia, Pennsylvania;
 
                 (xix) install evacuation and fire protection facilities in tunnels in New York, New York;
 
@@ -123,7 +123,7 @@
 
     An amount greater than that authorized for a fiscal year may be appropriated to the extent that the amount appropriated for any prior fiscal year is less than the amount authorized for that year.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 937][/us/stat/108/937].)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 937][/us/stat/108/937]; [Pub. L. 113–158, § 2][/us/pl/113/158/s2], Aug. 8, 2014, [128 Stat. 1838][/us/stat/128/1838].)
 
 <table>
 
@@ -419,6 +419,20 @@ Feb. 5, 1976, Pub. L. 94–210, 90 Stat. 31, § 704(a) (4th–last sentences);
 
     Section 602 of the Rail Passenger Service Act, referred to in subsec. (c), was classified to [section 602 of Title 45][/us/usc/t45/s602], Railroads, prior to repeal by [Pub. L. 102–533, § 7(c)][/us/pl/102/533/s7/c], Oct. 27, 1992, [106 Stat. 3519][/us/stat/106/3519].
 
+ __Change of Name__ 
+
+    “William H. Gray III 30th Street Station” substituted for “30th Street Station” in subsec. (a)(1)(C)(xviii) pursuant to [section 2 of Pub. L. 113–158][/us/pl/113/158/s2], set out below.
+
+[Pub. L. 113–158][/us/pl/113/158], Aug. 8, 2014, [128 Stat. 1838][/us/stat/128/1838], provided that:
+
+> “SECTION 1. __REDESIGNATION.__ 
+
+>     “The railroad station located at 2955 Market Street in Philadelphia, Pennsylvania, commonly known as ‘30th Street Station’, shall be known and designated as the ‘William H. Gray III 30th Street Station’.
+
+> “SEC. 2. __REFERENCES.__ 
+
+>     “Any reference in a law, map, regulation, document, paper, or other record of the United States to the railroad station referred to in section 1 shall be deemed to be a reference to the ‘William H. Gray III 30th Street Station’.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t49/stV/ptC/ch249/m__us_usc_t49_s24908.md) | [Next](./../../../../../..//us/usc/t49/stV/ptC/ch249/m__us_usc_t49_s24910.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24909)
@@ -433,6 +447,8 @@ Feb. 5, 1976, Pub. L. 94–210, 90 Stat. 31, § 704(a) (4th–last sentences);
 [/us/usc/t49/s24902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24902
 [/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
 [/us/stat/108/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F937
+[/us/pl/113/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F158%2Fs2
+[/us/stat/128/1838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1838
 [/us/usc/t45/s743/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs743%2Fb
 [/us/usc/t49/s851/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs851%2Fb
 [/us/usc/t49/s24902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs24902
@@ -443,5 +459,8 @@ Feb. 5, 1976, Pub. L. 94–210, 90 Stat. 31, § 704(a) (4th–last sentences);
 [/us/usc/t45/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs602
 [/us/pl/102/533/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F533%2Fs7%2Fc
 [/us/stat/106/3519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3519
+[/us/pl/113/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F158%2Fs2
+[/us/pl/113/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F158
+[/us/stat/128/1838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1838
 
 

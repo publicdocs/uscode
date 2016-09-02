@@ -117,7 +117,7 @@
 
             (C)  __Eligibility__  __.—__ 
 
-            If the Secretary determines, after notice and opportunity for a hearing, that a surety provider of a broker registered under this chapter has violated the requirements of this subsection or a regulation prescribed under this subsection, the surety provider shall be ineligible to provider broker financial security for 3 years.
+            If the Secretary determines, after notice and opportunity for a hearing, that a surety provider of a broker registered under this chapter has violated the requirements of this subsection or a regulation prescribed under this subsection, the surety provider shall be ineligible to provider  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “provide”. </sup></sup>  broker financial security for 3 years.
 
         (8)  __Deduction of costs prohibited__  __.—__ 
 
@@ -151,7 +151,7 @@
 
                 (i) subject to the review by the surety provider, the freight forwarder consents to the payment;
 
-                (ii) in the case the freight forwarder does not respond to adequate notice to address the validity of the claim, the surety provider determines the claim is valid; or
+                (ii) in the case  <sup>\[3\]</sup>  <sup><sup> 3 So in original. </sup></sup>  the freight forwarder does not respond to adequate notice to address the validity of the claim, the surety provider determines the claim is valid; or
 
                 (iii)
 
