@@ -169,6 +169,10 @@
 
 (Added [Pub. L. 101–508, title XI, § 11221(a)][/us/pl/101/508/s11221/a], Nov. 5, 1990, [104 Stat. 1388–439][/us/stat/104/1388-439]; amended [Pub. L. 103–66, title XIII, § 13161(a)][/us/pl/103/66/s13161/a], Aug. 10, 1993, [107 Stat. 449][/us/stat/107/449]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1607(a), (b), 1703(c)(1), Aug. 20, 1996, [110 Stat. 1839][/us/stat/110/1839], 1875; [Pub. L. 105–34, title IX, § 906(a)][/us/pl/105/34/s906/a]–(b)(2), title XVI, § 1601(f)(3)(A), (B), Aug. 5, 1997, [111 Stat. 874][/us/stat/111/874], 875, 1090.)
 
+ __Inflation Adjusted Items for Certain Years__ 
+
+    For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
+
  __Amendments__ 
 
     1997—Subsec. (a). [Pub. L. 105–34, § 906(a)][/us/pl/105/34/s906/a], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There is hereby imposed on the 1st retail sale of any passenger vehicle a tax equal to 10 percent of the price for which so sold to the extent such price exceeds $30,000.”
@@ -258,6 +262,7 @@
 [/us/stat/110/1839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1839
 [/us/pl/105/34/s906/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs906%2Fa
 [/us/stat/111/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F874
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/105/34/s906/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs906%2Fa
 [/us/pl/105/34/s906/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs906%2Fb%2F1
 [/us/pl/105/34/s1601/f/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1601%2Ff%2F3%2FA%2Fi

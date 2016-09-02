@@ -33,21 +33,23 @@
 
     Amounts in the Harbor Maintenance Trust Fund shall be available, as provided by appropriation Acts, for making expenditures—
 
-        (1) to carry out section 210 of the Water Resources Development Act of 1986 (as in effect on the date of the enactment of the Water Resources Development Act of 1996),
+        (1) to carry out section 210 of the Water Resources Development Act of 1986,
 
         (2) for payments of rebates of tolls or charges pursuant to [section 13(b) of the Act of May 13, 1954][/us/act/1954-05-13/s13/b] (as in effect on April 1, 1987), and
 
         (3) for the payment of all expenses of administration incurred by the Department of the Treasury, the Army Corps of Engineers, and the Department of Commerce related to the administration of subchapter A of chapter 36 (relating to harbor maintenance tax), but not in excess of $5,000,000 for any fiscal year.
 
-(Added [Pub. L. 99–662, title XIV, § 1403(a)][/us/pl/99/662/s1403/a], Nov. 17, 1986, [100 Stat. 4269][/us/stat/100/4269]; amended [Pub. L. 103–182, title VI, § 683(a)][/us/pl/103/182/s683/a], Dec. 8, 1993, [107 Stat. 2218][/us/stat/107/2218]; [Pub. L. 104–303, title VI, § 601][/us/pl/104/303/s601], Oct. 12, 1996, [110 Stat. 3792][/us/stat/110/3792].)
+(Added [Pub. L. 99–662, title XIV, § 1403(a)][/us/pl/99/662/s1403/a], Nov. 17, 1986, [100 Stat. 4269][/us/stat/100/4269]; amended [Pub. L. 103–182, title VI, § 683(a)][/us/pl/103/182/s683/a], Dec. 8, 1993, [107 Stat. 2218][/us/stat/107/2218]; [Pub. L. 104–303, title VI, § 601][/us/pl/104/303/s601], Oct. 12, 1996, [110 Stat. 3792][/us/stat/110/3792]; [Pub. L. 113–121, title II, § 2102(c)][/us/pl/113/121/s2102/c], June 10, 2014, [128 Stat. 1278][/us/stat/128/1278].)
 
  __References in Text__ 
 
     [Section 13 of the Act of May 13, 1954][/us/act/1954-05-13/s13], referred to in subsecs. (a)(2) and (c)(2), is classified to [section 988a of Title 33][/us/usc/t33/s988a], Navigation and Navigable Waters.
 
-    Section 210 of the Water Resources Development Act of 1986 (as in effect on the date of the enactment of the Water Resources Development Act of 1996), referred to in subsec. (c)(1), is classified to [section 2238 of Title 33][/us/usc/t33/s2238], Navigation and Navigable Waters. The date of the enactment of the Water Resources Development Act of 1996 is the date of enactment of [Pub. L. 104–303][/us/pl/104/303], which was approved Oct. 12, 1996.
+    Section 210 of the Water Resources Development Act of 1986, referred to in subsec. (c)(1), is classified to [section 2238 of Title 33][/us/usc/t33/s2238], Navigation and Navigable Waters.
 
  __Amendments__ 
+
+    2014—Subsec. (c)(1). [Pub. L. 113–121][/us/pl/113/121] struck out “(as in effect on the date of the enactment of the Water Resources Development Act of 1996)” after “1986”.
 
     1996—Subsec. (c)(1). [Pub. L. 104–303][/us/pl/104/303] amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to carry out section 210(a) of the Water Resources Development Act of 1986 (as in effect on the date of enactment of this section),”.
 
@@ -108,10 +110,12 @@
 [/us/stat/107/2218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2218
 [/us/pl/104/303/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs601
 [/us/stat/110/3792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3792
+[/us/pl/113/121/s2102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2102%2Fc
+[/us/stat/128/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1278
 [/us/act/1954-05-13/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-13%2Fs13
 [/us/usc/t33/s988a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs988a
 [/us/usc/t33/s2238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2238
-[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
+[/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/103/182/s683/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs683%2Fb
