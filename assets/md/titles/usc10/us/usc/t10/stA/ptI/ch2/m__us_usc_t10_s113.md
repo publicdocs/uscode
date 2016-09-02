@@ -2691,57 +2691,9 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
  __Reliability of Department of Defense Financial Statements__ 
 
-[Pub. L. 107–107, div. A, title X, § 1008][/us/pl/107/107/s1008], Dec. 28, 2001, [115 Stat. 1204][/us/stat/115/1204], as amended by [Pub. L. 112–81, div. A, title X, § 1052][/us/pl/112/81/s1052], Dec. 31, 2011, [125 Stat. 1582][/us/stat/125/1582], provided that:
+[Pub. L. 107–107, div. A, title X, § 1008][/us/pl/107/107/s1008], Dec. 28, 2001, [115 Stat. 1204][/us/stat/115/1204], as amended by [Pub. L. 112–81, div. A, title X, § 1052][/us/pl/112/81/s1052], Dec. 31, 2011, [125 Stat. 1582][/us/stat/125/1582]; [Pub. L. 113–188, title IV, § 401(b)][/us/pl/113/188/s401/b], Nov. 26, 2014, [128 Stat. 2019][/us/stat/128/2019], provided that:
 
->     “(a)  __Annual Report on Reliability__  __.—__ 
-
->         (1) Not later than September 30 of each year but subject to subsection (f), the Secretary of Defense shall submit to the recipients specified in paragraph (3) a report on the reliability of the Department of Defense financial statements, including the financial statements of each component of the Department that is required to prepare a financial statement under [section 3515(c) of title 31][/us/usc/t31/s3515/c], United States Code.
-
->         “(2)
-
->          The annual report shall contain the following:
-
->             “(A) A conclusion regarding whether the policies and procedures of the Department of Defense, and the systems used within the Department of Defense, for the preparation of financial statements allow the achievement of reliability in those financial statements.
-
->             “(B) For each of the financial statements prepared for the Department of Defense for the fiscal year in which the report is submitted, a conclusion regarding the expected reliability of the financial statement (evaluated on the basis of Office of Management and Budget guidance on financial statements), together with a discussion of the major deficiencies to be expected in the statement.
-
->             “(C)
-
->              A summary of the specific sections of the annual Financial Management Improvement Plan of the Department of Defense, current as of the date of the report, that—
-
->                 “(i) detail the priorities, milestones, and measures of success that apply to the preparation of the financial statements;
-
->                 “(ii) detail the planned improvements in the process for the preparation of financial statements that are to be implemented within 12 months after the date on which the plan is issued; and
-
->                 “(iii) provide an estimate of when each financial statement will convey reliable information.
-
->         “(3)
-
->          The annual report shall be submitted to the following:
-
->             “(A) The Committee on Armed Services and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate.
-
->             “(B) The Committee on Armed Services and the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives.
-
->             “(C) The Director of the Office of Management and Budget.
-
->             “(D) The Secretary of the Treasury.
-
->             “(E) The Comptroller General of the United States.
-
->         “(4) The Secretary of Defense shall make a copy of the annual report available to the Inspector General of the Department of Defense.
-
->     “(b)  __Minimization of Use of Resources for Unreliable Financial Statements__  __.—__ 
-
->         (1) With respect to each financial statement for a fiscal year that the Secretary of Defense assesses as being expected to be unreliable in the annual report under subsection (a), the Under Secretary of Defense (Comptroller) shall take appropriate actions to minimize, consistent with the benefits to be derived, the resources (including contractor support) that are used to develop, compile, and report the financial statement.
-
->         “(2)
-
->          With the annual budget justifications for the Department of Defense submitted to Congress each year, the Under Secretary of Defense (Comptroller) shall submit, with respect to the fiscal year in which submitted, the preceding fiscal year, and the following fiscal year, the following information:
-
->             “(A) An estimate of the resources that the Department of Defense is saving or expects to save as a result of actions taken and to be taken under paragraph (1) with respect to the preparation of financial statements.
-
->             “(B) A discussion of how the resources saved as estimated under subparagraph (A) have been redirected or are to be redirected from the preparation of financial statements to the improvement of systems underlying financial management within the Department of Defense and to the improvement of financial management policies, procedures, and internal controls within the Department of Defense.
+>     “\[(a), (b) Repealed. [Pub. L. 113–188, title IV, § 401(b)(1)][/us/pl/113/188/s401/b/1], Nov. 26, 2014, [128 Stat. 2019][/us/stat/128/2019].\]
 
 >     “(c)  __Information to Auditors__  __.—__ 
 
@@ -2749,7 +2701,7 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
 >     “(d)  __Limitation on Inspector General Audits__  __.—__ 
 
->         (1) On each financial statement that an official asserts is unreliable under subsection (b) or (c), the Inspector General of the Department of Defense shall only perform the audit procedures required by generally accepted government auditing standards consistent with any representation made by management.
+>         (1) On each financial statement that an official asserts is unreliable under subsection (c), the Inspector General of the Department of Defense shall only perform the audit procedures required by generally accepted government auditing standards consistent with any representation made by management.
 
 >         “(2)
 
@@ -4868,7 +4820,10 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/115/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1204
 [/us/pl/112/81/s1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1052
 [/us/stat/125/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1582
-[/us/usc/t31/s3515/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3515%2Fc
+[/us/pl/113/188/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs401%2Fb
+[/us/stat/128/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2019
+[/us/pl/113/188/s401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs401%2Fb%2F1
+[/us/stat/128/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2019
 [/us/pl/107/314/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1043
 [/us/stat/116/2646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2646
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

@@ -243,29 +243,7 @@
 
  __Display of Annual Budget Requirements for Air Sovereignty Alert Mission__ 
 
-[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 354, Oct. 14, 2008, [122 Stat. 4426][/us/stat/122/4426], provided that:
-
->     “(a)  __Submission With Annual Budget Justification Documents__  __.—__ 
-
->     For fiscal year 2010 and each subsequent fiscal year, the Secretary of Defense shall submit to the President, for consideration by the President for inclusion with the budget materials submitted to Congress under [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code, a consolidated budget justification display that covers all programs and activities of the Air Sovereignty Alert mission of the Air Force.
-
->     “(b)  __Requirements for Budget Display__  __.—__ 
-
->     The budget display under subsection (a) for a fiscal year shall include for such fiscal year the following:
-
->         “(1)
-
->          The funding requirements for the Air Sovereignty Alert mission, and the associated Command and Control mission, including such requirements for—
-
->             “(A) military personnel costs;
-
->             “(B) flying hours; and
-
->             “(C) any other associated mission costs.
-
->         “(2) The amount in the budget for the Air Force for each of the items referred to in paragraph (1).
-
->         “(3) The amount in the budget for the Air National Guard for each such item.”
+    [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 354, Oct. 14, 2008, [122 Stat. 4426][/us/stat/122/4426], which required the Secretary of Defense to submit to the President a display of annual budget requirements for the Air Sovereignty Alert Mission of the Air Force, was repealed by [Pub. L. 113–188, title IV, § 401(a)][/us/pl/113/188/s401/a], Nov. 26, 2014, [128 Stat. 2019][/us/stat/128/2019].
 
  __Requirement for Separate Display of Budgets for Afghanistan and Iraq__ 
 
@@ -637,7 +615,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/122/4386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4386
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4426
-[/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
+[/us/pl/113/188/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs401%2Fa
+[/us/stat/128/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2019
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4649
 [/us/pl/110/181/s718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs718
