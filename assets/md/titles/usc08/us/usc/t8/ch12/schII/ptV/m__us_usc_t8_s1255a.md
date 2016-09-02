@@ -431,7 +431,7 @@
 
             (E) The Headstart-Follow Through Act \[[42 U.S.C. 2921][/us/usc/t42/s2921] et seq.\].
 
-            (F) Title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\].
+            (F) Title I of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3111][/us/usc/t29/s3111] et seq.\].
 
             (G) Title IV of the Higher Education Act of 1965 \[[20 U.S.C. 1070][/us/usc/t20/s1070] et seq., [42 U.S.C. 2751][/us/usc/t42/s2751] et seq.\].
 
@@ -448,10 +448,6 @@
         Beginning not later than the date designated by the Attorney General under subsection (a)(1)(A) of this section, the Attorney General, in cooperation with qualified designated entities, shall broadly disseminate information respecting the benefits which aliens may receive under this section and the requirements to obtain such benefits.
 
 ([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 5, § 245A, as added [Pub. L. 99–603, title II, § 201(a)(1)][/us/pl/99/603/s201/a/1], Nov. 6, 1986, [100 Stat. 3394][/us/stat/100/3394]; amended [Pub. L. 100–525, § 2(h)(1)][/us/pl/100/525/s2/h/1], Oct. 24, 1988, [102 Stat. 2611][/us/stat/102/2611]; [Pub. L. 101–649, title VI, § 603(a)(13)][/us/pl/101/649/s603/a/13], title VII, § 703, Nov. 29, 1990, [104 Stat. 5083][/us/stat/104/5083], 5086; [Pub. L. 102–140, title I][/us/pl/102/140], Oct. 28, 1991, [105 Stat. 785][/us/stat/105/785]; [Pub. L. 102–232, title III, § 307][/us/pl/102/232/s307](l)(6), Dec. 12, 1991, [105 Stat. 1756][/us/stat/105/1756]; [Pub. L. 103–382, title III, § 394(g)][/us/pl/103/382/s394/g], Oct. 20, 1994, [108 Stat. 4028][/us/stat/108/4028]; [Pub. L. 103–416, title I, § 108(b)][/us/pl/103/416/s108/b], title II, § 219(l)(1), Oct. 25, 1994, [108 Stat. 4310][/us/stat/108/4310], 4317; [Pub. L. 104–132, title IV, § 431(a)][/us/pl/104/132/s431/a], Apr. 24, 1996, [110 Stat. 1273][/us/stat/110/1273]; [Pub. L. 104–193, title I, § 110(s)(2)][/us/pl/104/193/s110/s/2], Aug. 22, 1996, [110 Stat. 2175][/us/stat/110/2175]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208], §§ 308(g)(2)(B), (5)(A)(iii), 377(a), 384(d)(1), title VI, § 623(a), Sept. 30, 1996, [110 Stat. 3009–622][/us/stat/110/3009-622], 3009–623, 3009–649, 3009–653, 3009–696; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(4), (f)(4)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–419, 2681–430; [Pub. L. 105–332, § 3(a)][/us/pl/105/332/s3/a], Oct. 31, 1998, [112 Stat. 3125][/us/stat/112/3125]; [Pub. L. 106–78, title VII, § 752(b)(5)][/us/pl/106/78/s752/b/5], Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169]; [Pub. L. 109–270, § 2(a)][/us/pl/109/270/s2/a], Aug. 12, 2006, [120 Stat. 746][/us/stat/120/746]; [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (2)(J), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (2)(J), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858; [Pub. L. 113–128, title V, § 512(q)][/us/pl/113/128/s512/q], July 22, 2014, [128 Stat. 1712][/us/stat/128/1712].)
-
- __Amendment of Subsection (h)(4)(F)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(q), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1712, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (h)(4)(F) of this section is amended by striking “Title I of the Workforce Investment Act of 1998” and inserting “Title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -483,7 +479,7 @@
 
     The Headstart-Follow Through Act, referred to in subsec. (h)(4)(E), is title V of [Pub. L. 88–452][/us/pl/88/452], Aug. 20, 1964, [78 Stat. 527][/us/stat/78/527], as amended, which was classified generally to subchapter V (§ 2921 et seq.) of chapter 34 of Title 42, The Public Health and Welfare, prior to repeal by [Pub. L. 97–35, title VI, § 683(a)][/us/pl/97/35/s683/a], Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519]. For complete classification of this Act to the Code, see Tables.
 
-    The Workforce Investment Act of 1998, referred to in subsec. (h)(4)(F), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
+    The Workforce Innovation and Opportunity Act, referred to in subsec. (h)(4)(F), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
     The Higher Education Act of 1965, referred to in subsec. (h)(4)(G), is [Pub. L. 89–329][/us/pl/89/329], Nov. 8, 1965, [79 Stat. 1219][/us/stat/79/1219], as amended. Title IV of the Higher Education Act of 1965 is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education, and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20][/us/usc/t20/s1001] and Tables.
 
@@ -583,7 +579,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -841,7 +837,7 @@
 [/us/usc/t20/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2301
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/usc/t42/s2921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2921
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
 [/us/usc/t20/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
@@ -886,8 +882,6 @@
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/113/128/s512/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fq
 [/us/stat/128/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1712
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F604
 [/us/usc/t50/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs451
@@ -939,9 +933,9 @@
 [/us/stat/78/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F527
 [/us/pl/97/35/s683/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs683%2Fa
 [/us/stat/95/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F519
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001

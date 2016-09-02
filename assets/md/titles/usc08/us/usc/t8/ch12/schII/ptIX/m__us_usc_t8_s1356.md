@@ -213,7 +213,7 @@
 
         (2) __Use of fees for job training__ 
 
-            50 percent of amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Labor until expended for demonstration programs and projects described in [section 2916a of title 29][/us/usc/t29/s2916a].
+            50 percent of amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Labor until expended for demonstration programs and projects described in [section 3224a of title 29][/us/usc/t29/s3224a].
 
         (3) __Use of fees for low-income scholarship program__ 
 
@@ -664,7 +664,7 @@
 [/us/usc/t8/s1182/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa
 [/us/pl/101/162/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162%2Fs606
 [/us/usc/t8/s1184/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1184%2Fc
-[/us/usc/t29/s2916a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2916a
+[/us/usc/t29/s3224a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3224a
 [/us/usc/t42/s1869c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1869c
 [/us/usc/t42/s1862/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862%2Fa%2F1
 [/us/usc/t8/s1184/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1184%2Fc

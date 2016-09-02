@@ -15,7 +15,7 @@
 
 ## § 1431. Children born outside the United States and residing permanently in the United States; conditions under which citizenship automatically acquired; determinations of name and birth date
 
-     (a) __In general__ 
+    (a) __In general__ 
 
      A child born outside of the United States automatically becomes a citizen of the United States when all of the following conditions have been fulfilled:
 
@@ -25,7 +25,7 @@
 
         (3) The child is residing in the United States in the legal and physical custody of the citizen parent pursuant to a lawful admission for permanent residence.
 
-     (b) __Adoption__ 
+    (b) __Adoption__ 
 
          Subsection (a) of this section shall apply to a child adopted by a United States citizen parent if the child satisfies the requirements applicable to adopted children under [section 1101(b)(1) of this title][/us/usc/t8/s1101/b/1].
 

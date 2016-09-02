@@ -323,7 +323,7 @@
 
 >     “(10) Means-tested programs under the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 6301][/us/usc/t20/s6301] et seq.\].
 
->     “(11) Benefits under the \[sic\] title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\].”
+>     “(11) Benefits under the \[sic\] title I of the Workforce Investment Act of 1998 \[former [29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\].”
 
 ----------
 

@@ -809,6 +809,8 @@
 
     Determinations by the President pursuant to this section concerning the admission and adjustment of status of refugees for particular fiscal years were contained in the following Presidential Determinations:
 
+    Presidential Determination No. 2014–17, Sept. 30, 2014, 79 F.R. 69753.
+
     Presidential Determination No. 2014–01, Oct. 2, 2013, 78 F.R. 62415.
 
     Presidential Determination No. 2012–17, Sept. 28, 2012, 77 F.R. 61507.

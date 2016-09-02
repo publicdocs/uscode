@@ -219,8 +219,6 @@
 
                 (iii) A petition under this subparagraph shall be in such form as the Secretary of State may by regulation prescribe and shall contain such information and be supported by such documentary evidence as the Secretary of State may require.
 
-                (iv) Each petition to compete for consideration for a visa under [section 1153(c) of this title][/us/usc/t8/s1153/c]  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  shall be accompanied by a fee equal to $30. All amounts collected under this clause shall be deposited into the Treasury as miscellaneous receipts.
-
             (J) In acting on petitions filed under clause (iii) or (iv) of subparagraph (A) or clause (ii) or (iii) of subparagraph (B), or in making determinations under subparagraphs (C) and (D), the Attorney General shall consider any credible evidence relevant to the petition. The determination of what evidence is credible and the weight to be given that evidence shall be within the sole discretion of the Attorney General.
 
             (K)
@@ -231,7 +229,7 @@
 
                 (ii) may be provided an “employment authorized” endorsement or appropriate work permit incidental to such approval.
 
-            (L) Notwithstanding the previous provisions of this paragraph, an individual who was a VAWA petitioner or who had the status of a nonimmigrant under subparagraph (T) or (U) of [section 1101(a)(15) of this title][/us/usc/t8/s1101/a/15] may not file a petition for classification under this section or [section 1184 of this title][/us/usc/t8/s1184] to classify any person who committed the battery or extreme cruelty or trafficking against the individual (or the individual’s child) which established the individual’s (or individual’s child  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “child’s”. </sup></sup> ) eligibility as a VAWA petitioner or for such nonimmigrant status.
+            (L) Notwithstanding the previous provisions of this paragraph, an individual who was a VAWA petitioner or who had the status of a nonimmigrant under subparagraph (T) or (U) of [section 1101(a)(15) of this title][/us/usc/t8/s1101/a/15] may not file a petition for classification under this section or [section 1184 of this title][/us/usc/t8/s1184] to classify any person who committed the battery or extreme cruelty or trafficking against the individual (or the individual’s child) which established the individual’s (or individual’s child  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “child’s”. </sup></sup> ) eligibility as a VAWA petitioner or for such nonimmigrant status.
 
         (2)
 
@@ -263,7 +261,7 @@
 
     (e) __Subsequent finding of non-entitlement to preference classification__ 
 
-        Nothing in this section shall be construed to entitle an immigrant, in behalf of whom a petition under this section is approved, to be admitted  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be followed by “to”. </sup></sup>  the United States as an immigrant under subsection (a), (b), or (c) of [section 1153 of this title][/us/usc/t8/s1153] or as an immediate relative under [section 1151(b) of this title][/us/usc/t8/s1151/b] if upon his arrival at a port of entry in the United States he is found not to be entitled to such classification.
+        Nothing in this section shall be construed to entitle an immigrant, in behalf of whom a petition under this section is approved, to be admitted  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be followed by “to”. </sup></sup>  the United States as an immigrant under subsection (a), (b), or (c) of [section 1153 of this title][/us/usc/t8/s1153] or as an immediate relative under [section 1151(b) of this title][/us/usc/t8/s1151/b] if upon his arrival at a port of entry in the United States he is found not to be entitled to such classification.
 
     (f) __Preferential treatment for children fathered by United States citizens and born in Korea, Vietnam, Laos, Kampuchea, or Thailand after 1950 and before__  __October 22, 1982__ 
 
@@ -311,7 +309,7 @@
 
         (1) __In general__ 
 
-            A petition under subsection (a)(4)(D)  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be subsection “(a)(1)(D)”. </sup></sup>  of this section for classification of a professional athlete shall remain valid for the athlete after the athlete changes employers, if the new employer is a team in the same sport as the team which was the employer who filed the petition.
+            A petition under subsection (a)(4)(D)  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be subsection “(a)(1)(D)”. </sup></sup>  of this section for classification of a professional athlete shall remain valid for the athlete after the athlete changes employers, if the new employer is a team in the same sport as the team which was the employer who filed the petition.
 
         (2) __“Professional athlete” defined__ 
 
@@ -369,23 +367,17 @@
 
 ([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 1, § 204, [66 Stat. 179][/us/stat/66/179]; [Pub. L. 87–885, § 3][/us/pl/87/885/s3], Oct. 24, 1962, [76 Stat. 1247][/us/stat/76/1247]; [Pub. L. 89–236, § 4][/us/pl/89/236/s4], Oct. 3, 1965, [79 Stat. 915][/us/stat/79/915]; [Pub. L. 94–571, § 7(b)][/us/pl/94/571/s7/b], Oct. 20, 1976, [90 Stat. 2706][/us/stat/90/2706]; [Pub. L. 95–417][/us/pl/95/417], §§ 2, 3, Oct. 5, 1978, [92 Stat. 917][/us/stat/92/917]; [Pub. L. 96–470, title II, § 207][/us/pl/96/470/s207], Oct. 19, 1980, [94 Stat. 2245][/us/stat/94/2245]; [Pub. L. 97–116][/us/pl/97/116], §§ 3, 18(d), Dec. 29, 1981, [95 Stat. 1611][/us/stat/95/1611], 1620; [Pub. L. 97–359][/us/pl/97/359], Oct. 22, 1982, [96 Stat. 1716][/us/stat/96/1716]; [Pub. L. 99–639][/us/pl/99/639], §§ 2(c), 4(a), 5(b), Nov. 10, 1986, [100 Stat. 3541][/us/stat/100/3541], 3543; [Pub. L. 100–525, § 9(g)][/us/pl/100/525/s9/g], Oct. 24, 1988, [102 Stat. 2620][/us/stat/102/2620]; [Pub. L. 101–649, title I, § 162(b)][/us/pl/101/649/s162/b], title VII, § 702(b), Nov. 29, 1990, [104 Stat. 5010][/us/stat/104/5010], 5086; [Pub. L. 102–232, title III][/us/pl/102/232], §§ 302(e)(4), (5), 308(b), 309(b)(5), Dec. 12, 1991, [105 Stat. 1745][/us/stat/105/1745], 1746, 1757, 1758; [Pub. L. 103–322, title IV, § 40701(a)][/us/pl/103/322/s40701/a], (b)(1), (c), Sept. 13, 1994, [108 Stat. 1953][/us/stat/108/1953], 1954; [Pub. L. 103–416, title II, § 219(b)(2)][/us/pl/103/416/s219/b/2], Oct. 25, 1994, [108 Stat. 4316][/us/stat/108/4316]; [Pub. L. 104–208, div. C, title III, § 308(e)(1)(A)][/us/pl/104/208/s308/e/1/A], (f)(2)(A), title VI, § 624(b), Sept. 30, 1996, [110 Stat. 3009–619][/us/stat/110/3009-619], 3009–621, 3009–699; [Pub. L. 106–279, title III, § 302(b)][/us/pl/106/279/s302/b], Oct. 6, 2000, [114 Stat. 839][/us/stat/114/839]; [Pub. L. 106–313, title I, § 106(c)(1)][/us/pl/106/313/s106/c/1], Oct. 17, 2000, [114 Stat. 1254][/us/stat/114/1254]; [Pub. L. 106–386, div. B, title V][/us/pl/106/386], §§ 1503(b)–(d), 1507(a)(1), (2), (b), Oct. 28, 2000, [114 Stat. 1518–1521][/us/stat/114/1518-1521], 1529, 1530; [Pub. L. 107–208][/us/pl/107/208], §§ 6, 7, Aug. 6, 2002, [116 Stat. 929][/us/stat/116/929]; [Pub. L. 109–162, title VIII][/us/pl/109/162], §§ 805(a),(c), 814(b),(e), 816, Jan. 5, 2006, [119 Stat. 3056][/us/stat/119/3056], 3059, 3060; [Pub. L. 109–248, title IV, § 402(a)][/us/pl/109/248/s402/a], July 27, 2006, [120 Stat. 622][/us/stat/120/622]; [Pub. L. 109–271, § 6(a)][/us/pl/109/271/s6/a], Aug. 12, 2006, [120 Stat. 762][/us/stat/120/762]; [Pub. L. 111–83, title V, § 568(d)(1)][/us/pl/111/83/s568/d/1], Oct. 28, 2009, [123 Stat. 2187][/us/stat/123/2187]; [Pub. L. 113–4, title VIII, § 803][/us/pl/113/4/s803], Mar. 7, 2013, [127 Stat. 111][/us/stat/127/111]; [Pub. L. 113–6, div. D, title V, § 563][/us/pl/113/6/s563], Mar. 26, 2013, [127 Stat. 380][/us/stat/127/380].)
 
- __Amendment of Section__ 
-
-    For termination of amendment by section 563 of Pub. L. 113—6, see Effective and Termination Dates of 2013 Amendment note below.
-
  __References in Text__ 
 
     This chapter, referred to in subsec. (a)(1)(A)(iii)(II)(aa)(BB), (B)(ii)(II)(aa)(BB), was in the original, “this Act”, meaning [act June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], [66 Stat. 163][/us/stat/66/163], known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of this title][/us/usc/t8/s1101] and Tables.
 
     The Child Status Protection Act, referred to in subsec. (a)(1)(D)(iii), is [Pub. L. 107–208][/us/pl/107/208], Aug. 6, 2002, [116 Stat. 927][/us/stat/116/927], which amended this section and sections 1151, 1153, 1157, and 1158 of this title and enacted provisions set out as notes under sections 1101 and 1151 of this title. For complete classification of this Act to the Code, see Short Title of 2002 Amendments note set out under [section 1101 of this title][/us/usc/t8/s1101] and Tables.
 
-    [Section 1153(c) of this title][/us/usc/t8/s1153/c], referred to in subsec. (a)(1)(I)(iv), was so in the original, but probably should have been a reference to section 203(c) of [act June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], which is classified to [section 1153(c) of this title][/us/usc/t8/s1153/c].
-
     The Intercountry Adoption Act of 2000, referred to in subsec. (d)(2), is [Pub. L. 106–279][/us/pl/106/279], Oct. 6, 2000, [114 Stat. 825][/us/stat/114/825], which is classified principally to chapter 143 (§ 14901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 14901 of Title 42][/us/usc/t42/s14901] and Tables.
 
  __Amendments__ 
 
-    2013—Subsec. (a)(1)(I)(iv). [Pub. L. 113–6][/us/pl/113/6] temporarily added cl. (iv). See Effective and Termination Dates of 2013 Amendment note below.
+    2013—Subsec. (a)(1)(I)(iv). [Pub. L. 113–6][/us/pl/113/6] temporarily added cl. (iv). Text read as follows: “Each petition to compete for consideration for a visa under [section 1153(c) of this title][/us/usc/t8/s1153/c] shall be accompanied by a fee equal to $30. All amounts collected under this clause shall be deposited into the Treasury as miscellaneous receipts.” See Effective and Termination Dates of 2013 Amendment note below.
 
     Subsec. (l)(2)(F), (G). [Pub. L. 113–4][/us/pl/113/4] added subpar. (F) and redesignated former subpar. (F) as (G).
 
@@ -641,7 +633,6 @@
 [/us/usc/t8/s1153/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1153%2Fc
 [/us/usc/t8/s1153/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1153%2Fc
 [/us/usc/t8/s1153/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1153%2Fc
-[/us/usc/t8/s1153/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1153%2Fc
 [/us/usc/t8/s1101/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15
 [/us/usc/t8/s1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1184
 [/us/usc/t8/s1153/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1153%2Fa%2F2
@@ -724,13 +715,11 @@
 [/us/pl/107/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F208
 [/us/stat/116/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F927
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/usc/t8/s1153/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1153%2Fc
-[/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
-[/us/usc/t8/s1153/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1153%2Fc
 [/us/pl/106/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279
 [/us/stat/114/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F825
 [/us/usc/t42/s14901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14901
 [/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
+[/us/usc/t8/s1153/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1153%2Fc
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/111/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83
 [/us/pl/109/248/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs402%2Fa%2F1
