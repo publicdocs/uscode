@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    Section was enacted as part of act Mar. 3, 1899, popularly known as the “Rivers and Harbors Appropriation Act of 1899”, and not as part of [act Mar. 1, 1983, ch. 183][/us/act/1983-03-01/ch183], [27 Stat. 507][/us/stat/27/507], which comprises this chapter.
+    Section was enacted as part of act Mar. 3, 1899, popularly known as the “Rivers and Harbors Appropriation Act of 1899”, and not as part of [act Mar. 1, 1893, ch. 183][/us/act/1893-03-01/ch183], [27 Stat. 507][/us/stat/27/507], which comprises this chapter.
 
  __Change of Name__ 
 
@@ -38,7 +38,7 @@
 [/us/stat/30/1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F1148
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
-[/us/act/1983-03-01/ch183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1983-03-01%2Fch183
+[/us/act/1893-03-01/ch183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-03-01%2Fch183
 [/us/stat/27/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F507
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
