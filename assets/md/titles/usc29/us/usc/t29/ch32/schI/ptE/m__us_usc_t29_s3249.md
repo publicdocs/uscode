@@ -85,7 +85,7 @@
 
     (h) __Enforcement of Military Selective Service Act__ 
 
-        The Secretary shall ensure that each individual participating in any program or activity established under this subchapter, or receiving any assistance or benefit under this subchapter, has not violated section 3 of the Military Selective Service Act (50 U.S.C. App. 453) by not presenting and submitting to registration as required pursuant to such section. The Director of the Selective Service System shall cooperate with the Secretary to enable the Secretary to carry out this subsection.
+        The Secretary shall ensure that each individual participating in any program or activity established under this subchapter, or receiving any assistance or benefit under this subchapter, has not violated section 3 of the Military Selective Service Act (50 U.S.C. App. 453) \[now [50 U.S.C. 3802][/us/usc/t50/s3802]\] by not presenting and submitting to registration as required pursuant to such section. The Director of the Selective Service System shall cooperate with the Secretary to enable the Secretary to carry out this subsection.
 
     (i) __Waivers__ 
 
@@ -152,6 +152,7 @@
 [/us/usc/t29/s3224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3224
 [/us/usc/t29/s3224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3224
 [/us/usc/t29/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3201
+[/us/usc/t50/s3802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3802
 [/us/usc/t29/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3121
 [/us/pl/113/128/s189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs189
 [/us/stat/128/1599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1599

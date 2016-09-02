@@ -17,7 +17,7 @@
 
     (a) __Relationship between enrollment and military obligations__ 
 
-        Enrollment in the Job Corps shall not relieve any individual of obligations under the Military Selective Service Act (50 U.S.C. App. 451 et seq.).
+        Enrollment in the Job Corps shall not relieve any individual of obligations under the Military Selective Service Act (50 U.S.C. App. 451 et seq.) \[now [50 U.S.C. 3801][/us/usc/t50/s3801] et seq.\].
 
     (b) __Period of enrollment__ 
 
@@ -35,7 +35,7 @@
 
  __References in Text__ 
 
-    The Military Selective Service Act, referred to in subsec. (a), is [act June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], [62 Stat. 604][/us/stat/62/604], which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under [section 451 of Title 50][/us/usc/t50/s451], Appendix and Tables.
+    The Military Selective Service Act, referred to in subsec. (a), is [act June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], [62 Stat. 604][/us/stat/62/604], which was classified principally to section 451 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 49 (§ 3801 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
  __Effective Date__ 
 
@@ -48,13 +48,13 @@
 ----------
 ----------
 
+[/us/usc/t50/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3801
 [/us/usc/t29/s3198/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3198%2Fc
 [/us/usc/t29/s3192/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3192%2F5
 [/us/pl/113/128/s146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs146
 [/us/stat/128/1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1542
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F604
-[/us/usc/t50/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs451
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
