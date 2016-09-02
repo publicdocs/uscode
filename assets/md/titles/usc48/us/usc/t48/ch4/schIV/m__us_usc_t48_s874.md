@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t48/ch4/schIV/m__us_usc_t48_s873a.md) | [Next](./../../../../..//us/usc/t48/ch4/schIV/m__us_usc_t48_s875, 876.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs874)
+[Previous](./../../../../..//us/usc/t48/ch4/schIV/m__us_usc_t48_s873a.md) | [Next](./../../../../..//us/usc/t48/ch4/schV/m__us_usc_t48_ch4_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs874)
 
 ## § 874. Judicial process; officials to be citizens of United States; oath
 
@@ -27,9 +27,19 @@
 
     “Puerto Rico” substituted in text for “Porto Rico” pursuant to act May 17, 1932, which is classified to [section 731a of this title][/us/usc/t48/s731a].
 
+§§ 875, 876. __Repealed.__  __[__  __June 25, 1948, ch. 646, § 39__  __][/us/act/1948-06-25/ch646/s39]__  __,__  __[__  __62 Stat. 992__  __][/us/stat/62/992]__ 
+
+    Section 875, [act Mar. 2, 1917, ch. 145, § 55][/us/act/1917-03-02/ch145/s55], [39 Stat. 968][/us/stat/39/968], related to continuation of court’s jurisdiction.
+
+    Section 876, [act Jan. 7, 1913, ch. 6][/us/act/1913-01-07/ch6], [37 Stat. 648][/us/stat/37/648], related to temporary judge.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Sept. 1, 1948, see section 38 of act June 25, 1948, set out as an Effective Date note preceding [section 1 of Title 28][/us/usc/t28/s1], Judiciary and Judicial Procedure.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t48/ch4/schIV/m__us_usc_t48_s873a.md) | [Next](./../../../../..//us/usc/t48/ch4/schIV/m__us_usc_t48_s875, 876.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs874)
+[Previous](./../../../../..//us/usc/t48/ch4/schIV/m__us_usc_t48_s873a.md) | [Next](./../../../../..//us/usc/t48/ch4/schV/m__us_usc_t48_ch4_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs874)
 
 ----------
 ----------
@@ -41,5 +51,12 @@
 [/us/act/1900-04-12/ch191/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-12%2Fch191%2Fs16
 [/us/stat/31/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F81
 [/us/usc/t48/s731a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs731a
+[/us/act/1948-06-25/ch646/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs39
+[/us/stat/62/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F992
+[/us/act/1917-03-02/ch145/s55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145%2Fs55
+[/us/stat/39/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F968
+[/us/act/1913-01-07/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-01-07%2Fch6
+[/us/stat/37/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F648
+[/us/usc/t28/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1
 
 

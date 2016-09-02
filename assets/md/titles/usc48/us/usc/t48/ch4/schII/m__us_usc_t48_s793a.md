@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t48/ch4/schII/m__us_usc_t48_s771 to 793.md) | [Next](./../../../../..//us/usc/t48/ch4/schII/m__us_usc_t48_s793b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs793a)
+[Previous](./../../../../..//us/usc/t48/ch4/schII/m__us_usc_t48_ch4_schII.md) | [Next](./../../../../..//us/usc/t48/ch4/schII/m__us_usc_t48_s793b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs793a)
 
 ## § 793a. Repealed. [June 30, 1954, ch. 428, § 1][/us/act/1954-06-30/ch428/s1], [68 Stat. 336][/us/stat/68/336]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t48/ch4/schII/m__us_usc_t48_s771 to 793.md) | [Next](./../../../../..//us/usc/t48/ch4/schII/m__us_usc_t48_s793b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs793a)
+[Previous](./../../../../..//us/usc/t48/ch4/schII/m__us_usc_t48_ch4_schII.md) | [Next](./../../../../..//us/usc/t48/ch4/schII/m__us_usc_t48_s793b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs793a)
 
 ----------
 ----------

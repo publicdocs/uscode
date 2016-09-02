@@ -13,9 +13,9 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t48/ch1/m__us_usc_t48_ch1.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48)
 
-# 
+# Title 48—TERRITORIES AND INSULAR POSSESSIONS
 
-Title 48—TERRITORIES AND INSULAR POSSESSIONS
+Current through 113–44
 
 <table>
 

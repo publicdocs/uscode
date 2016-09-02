@@ -15,7 +15,7 @@
 
 ## § 1951. Entry into force of Compact
 
-Notwithstanding the provisions of [Section 101(d)(1)(B) of Public Law 99–658][/us/pl/99/658/s101/d/1/B] \[[48 U.S.C. 1931(d)(1)(B)][/us/usc/t48/s1931/d/1/B]\], entry into force of the Compact of Free Association between the United States and Palau (set forth in title II of [Public Law 99–658][/us/pl/99/658] and hereafter in this joint resolution referred to as the “Compact”) in accordance with subsections (a) and (d) of [section 101 of Public Law 99–658][/us/pl/99/658/s101] ([100 Stat. 3673][/us/stat/100/3673]) \[[48 U.S.C. 1931(a)][/us/usc/t48/s1931/a], (d)\] is hereby authorized—
+    Notwithstanding the provisions of [Section 101(d)(1)(B) of Public Law 99–658][/us/pl/99/658/s101/d/1/B] \[[48 U.S.C. 1931(d)(1)(B)][/us/usc/t48/s1931/d/1/B]\], entry into force of the Compact of Free Association between the United States and Palau (set forth in title II of [Public Law 99–658][/us/pl/99/658] and hereafter in this joint resolution referred to as the “Compact”) in accordance with subsections (a) and (d) of [section 101 of Public Law 99–658][/us/pl/99/658/s101] ([100 Stat. 3673][/us/stat/100/3673]) \[[48 U.S.C. 1931(a)][/us/usc/t48/s1931/a], (d)\] is hereby authorized—
 
     (1) subject to the condition that the Compact, as approved by the Congress in [Public Law 99–658][/us/pl/99/658], is approved by the requisite percentage of the votes cast in a referendum conducted pursuant to the Constitution of Palau, and such approval is free from any legal challenge, and
 

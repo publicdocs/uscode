@@ -15,7 +15,7 @@
 
 ## § 1753. Qualifications for office of Delegate
 
-To be eligible for the office of Delegate a candidate shall—
+    To be eligible for the office of Delegate a candidate shall—
 
     (1) be at least 25 years of age on the date of the election;
 

@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1457 to 1469–1.md) | [Next](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1469a–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1469a)
+[Previous](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1456.md) | [Next](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1469a–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1469a)
 
 ## § 1469a. Congressional declaration of policy respecting “Insular Areas”
 
-In order to minimize the burden caused by existing application and reporting procedures for certain grant-in-aid programs available to the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Government of the Northern Mariana Islands (hereafter referred to as “Insular Areas”) it is declared to be the policy of the Congress, notwithstanding any provision of law to the contrary, that:
+    In order to minimize the burden caused by existing application and reporting procedures for certain grant-in-aid programs available to the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Government of the Northern Mariana Islands (hereafter referred to as “Insular Areas”) it is declared to be the policy of the Congress, notwithstanding any provision of law to the contrary, that:
 
     (a) Any department or agency of the Government of the United States which administers any Act of Congress which specifically provides for making grants to any Insular Area under which payments received may be used by such Insular Area only for certain specified purposes (other than direct payments to classes of individuals) may, acting through appropriate administrative authorities of such department or agency, consolidate any or all grants made to such area for any fiscal year or years.
 
@@ -29,7 +29,7 @@ In order to minimize the burden caused by existing application and reporting pro
 
  __Amendment of Subsection (d)__ 
 
-[Pub. L. 96–205, title VI, § 601][/us/pl/96/205/s601], Mar. 12, 1980, [94 Stat. 90][/us/stat/94/90], as amended [Pub. L. 98–213, § 6][/us/pl/98/213/s6], Dec. 8, 1983, [97 Stat. 1460][/us/stat/97/1460]; [Pub. L. 98–454, title VI, § 601(b)][/us/pl/98/454/s601/b], Oct. 5, 1984, [98 Stat. 1736][/us/stat/98/1736], provided that this section shall be applied with respect to the Department of the Interior by substituting “shall” for “may” in the last sentence of subsection (d), and adding the following sentence at the end of subsection (d): “Notwithstanding any other provision of law, in the case of American Samoa, Guam, the Virgin Islands, and the Northern Mariana Islands any department or agency shall waive any requirement for local matching funds under $200,000 (including in-kind contributions) required by law to be provided by American Samoa, Guam, the Virgin Islands, or the Northern Mariana Islands.”
+    [Pub. L. 96–205, title VI, § 601][/us/pl/96/205/s601], Mar. 12, 1980, [94 Stat. 90][/us/stat/94/90], as amended [Pub. L. 98–213, § 6][/us/pl/98/213/s6], Dec. 8, 1983, [97 Stat. 1460][/us/stat/97/1460]; [Pub. L. 98–454, title VI, § 601(b)][/us/pl/98/454/s601/b], Oct. 5, 1984, [98 Stat. 1736][/us/stat/98/1736], provided that this section shall be applied with respect to the Department of the Interior by substituting “shall” for “may” in the last sentence of subsection (d), and adding the following sentence at the end of subsection (d): “Notwithstanding any other provision of law, in the case of American Samoa, Guam, the Virgin Islands, and the Northern Mariana Islands any department or agency shall waive any requirement for local matching funds under $200,000 (including in-kind contributions) required by law to be provided by American Samoa, Guam, the Virgin Islands, or the Northern Mariana Islands.”
 
  __Amendments__ 
 
@@ -49,7 +49,7 @@ In order to minimize the burden caused by existing application and reporting pro
 
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1457 to 1469–1.md) | [Next](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1469a–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1469a)
+[Previous](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1456.md) | [Next](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1469a–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1469a)
 
 ----------
 ----------

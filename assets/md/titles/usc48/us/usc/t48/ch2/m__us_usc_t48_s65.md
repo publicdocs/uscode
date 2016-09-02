@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s61 to 64.md) | [Next](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s65a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs65)
+[Previous](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s50f.md) | [Next](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s65a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs65)
 
 ## § 65. Repealed. [Dec. 16, 1930, ch. 14, § 1][/us/act/1930-12-16/ch14/s1], [46 Stat. 1029][/us/stat/46/1029]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s61 to 64.md) | [Next](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s65a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs65)
+[Previous](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s50f.md) | [Next](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s65a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs65)
 
 ----------
 ----------

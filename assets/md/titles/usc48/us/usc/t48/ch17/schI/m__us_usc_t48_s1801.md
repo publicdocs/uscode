@@ -55,7 +55,7 @@
 
     [Pub. L. 94–241, § 1][/us/pl/94/241/s1], Mar. 24, 1976, [90 Stat. 263][/us/stat/90/263], as amended by [Pub. L. 98–213, § 9][/us/pl/98/213/s9], Dec. 8, 1983, [97 Stat. 1461][/us/stat/97/1461]; [Pub. L. 104–208, div. A, title I, § 101(d)][/us/pl/104/208/s101/d] \[title I\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–196; [Pub. L. 110–229, title VII, § 702(g)(1)][/us/pl/110/229/s702/g/1], May 8, 2008, [122 Stat. 864][/us/stat/122/864], contained the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America as follows:
 
- __“Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America__ 
+“Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America
 
     “Whereas, the Charter of the United Nations and the Trusteeship Agreement between the Security Council of the United Nations and the United States of America guarantee to the people of the Northern Mariana Islands the right freely to express their wishes for self-government or independence; and
 
@@ -67,9 +67,9 @@
 
     “Now, therefore, the Marianas Political Status Commission, being the duly appointed representative of the people of the Northern Mariana Islands, and the Personal Representative of the President of the United States have entered into this Covenant in order to establish a self-governing commonwealth for the Northern Mariana Islands within the American political system and to define the future relationship between the Northern Mariana Islands and the United States. This Covenant will be mutually binding when it is approved by the United States, by the Mariana Islands District Legislature and by the people of the Northern Mariana Islands in a plebiscite, constituting on their part a sovereign act of self-determination.
 
- __“Article I__ 
+“Article I
 
- __“political relationship__ 
+“political relationship
 
     “Section 101. The Northern Mariana Islands upon termination of the Trusteeship Agreement will become a self-governing commonwealth to be known as the ‘Commonwealth of the Northern Mariana Islands’, in political union with and under the sovereignty of the United States of America.
 
@@ -81,9 +81,9 @@
 
     “Section 105. The United States may enact legislation in accordance with its constitutional processes which will be applicable to the Northern Mariana Islands, but if such legislation cannot also be made applicable to the several States the Northern Mariana Islands must be specifically named therein for it to become effective in the Northern Mariana Islands. In order to respect the right of self-government guaranteed by this Covenant the United States agrees to limit the exercise of that authority so that the fundamental provisions of this Covenant, namely Articles I, II and III and Sections 501 and 805, may be modified only with the consent of the Government of the United States and the Government of the Northern Mariana Islands.
 
- __“Article II__ 
+“Article II
 
- __“constitution of the northern mariana islands__ 
+“constitution of the northern mariana islands
 
     “Section 201. The people of the Northern Mariana Islands will formulate and approve a Constitution and may amend their Constitution pursuant to the procedures provided therein.
 
@@ -99,9 +99,9 @@
 
     “Section 204. All members of the legislature of the Northern Mariana Islands and all officers and employees of the Government of the Northern Mariana Islands will take an oath or affirmation to support this Covenant, those provisions of the Constitution, treaties and laws of the United States applicable to the Northern Mariana Islands, and the Constitution and laws of the Northern Mariana Islands.
 
- __“Article III__ 
+“Article III
 
- __“citizenship and nationality__ 
+“citizenship and nationality
 
     “Section 301. The following persons and their children under the age of 18 years on the effective date of this Section, who are not citizens or nationals of the United States under any other provision of law, and who on that date do not owe allegiance to any foreign state, are declared to be citizens of the United States, except as otherwise provided in Section 302:
 
@@ -119,9 +119,9 @@
 
     “Section 304. Citizens of the Northern Mariana Islands will be entitled to all privileges and immunities of citizens in the several States of the United States.
 
- __“Article IV__ 
+“Article IV
 
- __“judicial authority__ 
+“judicial authority
 
     “Section 401. The United States will establish for and within the Northern Mariana Islands a court of record to be known as the ‘District Court for the Northern Mariana Islands’. The Northern Mariana Islands will constitute a part of the same judicial circuit of the United States as Guam.
 
@@ -135,9 +135,9 @@
 
     “(b) Those portions of Title 28 of the United States Code which apply to Guam or the District Court of Guam will be applicable to the Northern Mariana Islands or the District Court for the Northern Mariana Islands, respectively, except as otherwise provided in this Article.
 
- __“Article V__ 
+“Article V
 
- __“applicability of laws__ 
+“applicability of laws
 
     “Section 501. (a) To the extent that they are not applicable of their own force, the following provisions of the Constitution of the United States will be applicable within the Northern Mariana Islands as if the Northern Mariana Islands were one of the several States: Article I, Section 9, Clauses 2, 3, and 8; Article I, Section 10, Clauses 1 and 3; Article IV, Section 1 and Section 2, Clauses 1 and 2; Amendments 1 through 9, inclusive; Amendment 13; Amendment 14, Section 1; Amendment 15; Amendment 19; and Amendment 26; provided, however, that neither trial by jury nor indictment by grand jury shall be required in any civil action or criminal prosecution based on local law, except where required by local law. Other provisions of or amendments to the Constitution of the United States, which do not apply of their own force within the Northern Mariana Islands, will be applicable within the Northern Mariana Islands only with approval of the Government of the Northern Mariana Islands and of the Government of the United States.
 
@@ -165,9 +165,9 @@
 
     “Section 506. \[Repealed. [Pub. L. 110–229, title VII, § 702(g)(1)(B)][/us/pl/110/229/s702/g/1/B], May 8, 2008, [122 Stat. 864][/us/stat/122/864].\]
 
- __“Article VI__ 
+“Article VI
 
- __“revenue and taxation__ 
+“revenue and taxation
 
     “Section 601. (a) The income tax laws in force in the United States will come into force in the Northern Mariana Islands as a local territorial income tax on the first day of January following the effective date of this Section, in the same manner as those laws are in force in Guam.
 
@@ -207,9 +207,9 @@
 
     “(b) During the initial seven year period of financial assistance provided for in Section 702, and during such subsequent periods of financial assistance as may be agreed, the Government of the Northern Mariana Islands will authorize no public indebtedness (other than bonds or other obligations of the Government payable solely from revenues derived from any public improvement or undertaking) in excess of ten percentum of the aggregate assessed valuation of the property within the Northern Mariana Islands.
 
- __“Article VII__ 
+“Article VII
 
- __“united states financial assistance__ 
+“united states financial assistance
 
     “Section 701. The Government of the United States will assist the Government of the Northern Mariana Islands in its efforts to achieve a progressively higher standard of living for its people as part of the American economic community and to develop the economic resources needed to meet the financial responsibilities of local self-government. To this end, the United States will provide direct multi-year financial support to the Government of the Northern Mariana Islands for local government operations, for capital improvement programs and for economic development. The initial period of such support will be seven years, as provided in Section 702.
 
@@ -233,9 +233,9 @@
 
     “(d) Upon expiration of the seven year period of guaranteed annual direct grant assistance provided by Section 702, the annual level of payments in each category listed in Section 702 will continue until Congress appropriates a different amount or otherwise provides by law.
 
- __“Article VIII__ 
+“Article VIII
 
- __“property__ 
+“property
 
     “Section 801. All right, title and interest of the Government of the Trust Territory of the Pacific Islands in and to real property in the Northern Mariana Islands on the date of the signing of this Covenant or thereafter acquired in any manner whatsoever will, no later than upon the termination of the Trusteeship Agreement, be transferred to the Government of the Northern Mariana Islands. All right, title and interest of the Government of the Trust Territory of the Pacific Islands in and to all personal property on the date of the signing of this Covenant or thereafter acquired in any manner whatsoever will, no later than upon the termination of the Trusteeship Agreement, be distributed equitably in a manner to be determined by the Government of the Trust Territory of the Pacific Islands in consultation with those concerned, including the Government of the Northern Mariana Islands.
 
@@ -283,9 +283,9 @@
 
     “(c) In the event it is not possible for the United States to obtain an interest in real property for public purposes by voluntary means, it may exercise within the Commonwealth the power of eminent domain to the same extent and in the same manner as it has and can exercise the power of eminent domain in a State of the Union. The power of eminent domain will be exercised within the Commonwealth only to the extent necessary and in compliance with applicable United States laws, and with full recognition of the due process required by the United States Constitution.
 
- __“Article IX__ 
+“Article IX
 
- __“northern mariana islands representative and consultation__ 
+“northern mariana islands representative and consultation
 
     “Section 901. The Constitution or laws of the Northern Mariana Islands may provide for the appointment or election of a Resident Representative to the United States, whose term of office will be two years, unless otherwise determined by local law, and who will be entitled to receive official recognition as such Representative by all of the departments and agencies of the Government of the United States upon presentation through the Department of State of a certificate of selection from the Governor. The Representative must be a citizen and resident of the Northern Mariana Islands, at least twenty-five years of age, and, after termination of the Trusteeship Agreement, a citizen of the United States.
 
@@ -299,9 +299,9 @@
 
     “(c) On its request the Northern Mariana Islands may participate in regional and other international organizations concerned with social, economic, educational, scientific, technical and cultural matters when similar participation is authorized for any other territory or possession of the United States under comparable circumstances.
 
- __“Article X__ 
+“Article X
 
- __“approval, effective dates, and definitions__ 
+“approval, effective dates, and definitions
 
     “Section 1001. (a) This Covenant will be submitted to the Mariana Islands District Legislature for its approval. After its approval by the Mariana Islands District Legislature, this Covenant will be submitted to the people of the Northern Mariana Islands for approval in a plebiscite to be called by the United States. Only persons who are domiciled exclusively in the Northern Mariana Islands and who meet such other qualifications, including timely registration, as are promulgated by the United States as administering authority will be eligible to vote in the plebiscite. Approval must be by a majority of at least 55% of the valid votes cast in the plebiscite. The results of the plebiscite will be certified to the President of the United States.
 
@@ -339,23 +339,23 @@
 
                               Edward DLG. Pangelinan,  
 
-    Chairman, Marianas 
+Chairman, Marianas 
 
-    Political Status Commission.
+Political Status Commission.
 
-    Vicente N. Santos.  
+Vicente N. Santos.  
 
-    Vice Chairman, Marianas 
+Vice Chairman, Marianas 
 
-    Political Status Commission.
+Political Status Commission.
 
     “For the United States of America:
 
                               Ambassador F. Haydn Williams,  
 
-    Personal Representative of the 
+Personal Representative of the 
 
-    President of the United States.
+President of the United States.
 
     “Members of the Marianas Political Status Commission:
 

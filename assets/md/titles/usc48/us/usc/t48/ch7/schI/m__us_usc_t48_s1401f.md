@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t48/ch7/schI/m__us_usc_t48_s1401 to 1401e.md) | [Next](./../../../../..//us/usc/t48/ch7/schI/m__us_usc_t48_s1402.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1401f)
+[Previous](./../../../../..//us/usc/t48/ch7/schI/m__us_usc_t48_s1400.md) | [Next](./../../../../..//us/usc/t48/ch7/schI/m__us_usc_t48_s1402.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1401f)
 
 ## § 1401f. Omitted
 
@@ -105,7 +105,7 @@ Section, act Oct. 5, 1992, [Pub. L. 102–381, title I][/us/pl/102/381], [106 St
 
 ----------
 
-[Previous](./../../../../..//us/usc/t48/ch7/schI/m__us_usc_t48_s1401 to 1401e.md) | [Next](./../../../../..//us/usc/t48/ch7/schI/m__us_usc_t48_s1402.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1401f)
+[Previous](./../../../../..//us/usc/t48/ch7/schI/m__us_usc_t48_s1400.md) | [Next](./../../../../..//us/usc/t48/ch7/schI/m__us_usc_t48_s1402.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1401f)
 
 ----------
 ----------

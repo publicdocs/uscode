@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch7/schVI/m__us_usc_t48_s1409m to 1409o.md) | [Next](./../../../..//us/usc/t48/ch8/m__us_usc_t48_s1411.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch8)
+[Previous](./../../../..//us/usc/t48/ch7/schVI/m__us_usc_t48_ch7_schVI.md) | [Next](./../../../..//us/usc/t48/ch8/m__us_usc_t48_s1411.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch8)
 
 ## CHAPTER 8—GUANO ISLANDS
 
@@ -99,7 +99,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch7/schVI/m__us_usc_t48_s1409m to 1409o.md) | [Next](./../../../..//us/usc/t48/ch8/m__us_usc_t48_s1411.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch8)
+[Previous](./../../../..//us/usc/t48/ch7/schVI/m__us_usc_t48_ch7_schVI.md) | [Next](./../../../..//us/usc/t48/ch8/m__us_usc_t48_s1411.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch8)
 
 ----------
 ----------

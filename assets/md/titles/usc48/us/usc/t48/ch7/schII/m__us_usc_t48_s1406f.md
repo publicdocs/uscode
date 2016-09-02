@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405z to 1406e.md) | [Next](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1406g.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1406f)
+[Previous](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405y.md) | [Next](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1406g.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1406f)
 
 ## § 1406f. Judicial process; title of criminal prosecutions
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405z to 1406e.md) | [Next](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1406g.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1406f)
+[Previous](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405y.md) | [Next](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1406g.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1406f)
 
 ----------
 ----------

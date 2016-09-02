@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch6/m__us_usc_t48_s1323 to 1323–3.md) | [Next](./../../../..//us/usc/t48/ch6/m__us_usc_t48_s1323b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1323a)
+[Previous](./../../../..//us/usc/t48/ch6/m__us_usc_t48_s1320.md) | [Next](./../../../..//us/usc/t48/ch6/m__us_usc_t48_s1323b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1323a)
 
 ## § 1323a. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch6/m__us_usc_t48_s1323 to 1323–3.md) | [Next](./../../../..//us/usc/t48/ch6/m__us_usc_t48_s1323b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1323a)
+[Previous](./../../../..//us/usc/t48/ch6/m__us_usc_t48_s1320.md) | [Next](./../../../..//us/usc/t48/ch6/m__us_usc_t48_s1323b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1323a)
 
 ----------
 ----------

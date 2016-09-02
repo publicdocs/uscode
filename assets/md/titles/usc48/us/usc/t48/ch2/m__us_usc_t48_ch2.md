@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch1/m__us_usc_t48_s4, 5.md) | [Next](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s7.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch2)
+[Previous](./../../../..//us/usc/t48/ch1/m__us_usc_t48_s3.md) | [Next](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s7.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch2)
 
 ## CHAPTER 2—ALASKA
 
@@ -65,7 +65,7 @@
 
 [Pub. L. 85–508][/us/pl/85/508], July 7, 1958, [72 Stat. 339][/us/stat/72/339], as amended, provided:
 
->     “\[Sec. 1. Declaration; acceptance, ratification, and confirmation of Constitution.\] That, subject to the provisions of this Act, and upon issuance of the proclamation required by section 8(c) of this Act, the State of Alaska is hereby declared to be a State of the United States of America, is declared admitted into the Union on an equal footing with the other States in all respects whatever, and the constitution formed pursuant to the provisions of the Act of the Territorial Legislature of Alaska entitled, ‘An Act to provide for the holding of a constitutional convention to prepare a constitution for the State of Alaska; to submit the constitution to the people for adoption or rejection; to prepare for the admission of Alaska as a State; to make an appropriation; and setting an effective date’, approved March 19, 1955 (Chapter 46, Session Laws of Alaska, 1955), and adopted by a vote of the people of Alaska in the election held on April 24, 1956, is hereby found to be republican in form and in conformity with the Constitution of the United States and the principles of the Declaration of Independence, and is hereby accepted, ratified, and confirmed.
+> “\[Sec. 1. Declaration; acceptance, ratification, and confirmation of Constitution.\] That, subject to the provisions of this Act, and upon issuance of the proclamation required by section 8(c) of this Act, the State of Alaska is hereby declared to be a State of the United States of America, is declared admitted into the Union on an equal footing with the other States in all respects whatever, and the constitution formed pursuant to the provisions of the Act of the Territorial Legislature of Alaska entitled, ‘An Act to provide for the holding of a constitutional convention to prepare a constitution for the State of Alaska; to submit the constitution to the people for adoption or rejection; to prepare for the admission of Alaska as a State; to make an appropriation; and setting an effective date’, approved March 19, 1955 (Chapter 46, Session Laws of Alaska, 1955), and adopted by a vote of the people of Alaska in the election held on April 24, 1956, is hereby found to be republican in form and in conformity with the Constitution of the United States and the principles of the Declaration of Independence, and is hereby accepted, ratified, and confirmed.
 
 > “Sec. 2. __\[Territory.\]__ 
 
@@ -257,7 +257,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch1/m__us_usc_t48_s4, 5.md) | [Next](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s7.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch2)
+[Previous](./../../../..//us/usc/t48/ch1/m__us_usc_t48_s3.md) | [Next](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s7.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch2)
 
 ----------
 ----------

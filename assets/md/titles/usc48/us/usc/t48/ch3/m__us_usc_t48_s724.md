@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s721 to 723.md) | [Next](./../../../..//us/usc/t48/ch4/m__us_usc_t48_ch4.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs724)
+[Previous](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s651.md) | [Next](./../../../..//us/usc/t48/ch4/m__us_usc_t48_ch4.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs724)
 
 ## § 724. Repealed. [Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], title II, § 205, [68 Stat. 622][/us/stat/68/622]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s721 to 723.md) | [Next](./../../../..//us/usc/t48/ch4/m__us_usc_t48_ch4.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs724)
+[Previous](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s651.md) | [Next](./../../../..//us/usc/t48/ch4/m__us_usc_t48_ch4.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs724)
 
 ----------
 ----------

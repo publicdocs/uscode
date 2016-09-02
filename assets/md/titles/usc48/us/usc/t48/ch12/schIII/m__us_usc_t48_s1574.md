@@ -27,11 +27,9 @@
 
         (A) Subject to the provisions of this paragraph (ii), the legislature of the government of the Virgin Islands may cause to be issued such negotiable general obligation bonds or other evidence of indebtedness, including but not limited to notes in anticipation of the collection of taxes or revenues, as it may deem necessary and advisable for any public purpose authorized by the legislature: Provided, That no such indebtedness of the Virgin Islands shall be incurred in excess of 10 per centum of the aggregate assessed valuation of the taxable real property in the Virgin Islands. Bonds issued pursuant to this paragraph (ii) shall bear such date or dates, may be in such denominations, may mature in such amounts and at such time or times, not exceeding thirty years from the date thereof, may be payable at such place or places, may be sold at either public or private sale, may be redeemable (either with or without premium) or nonredeemable, may carry such registration privileges as to either principal and interest, or principal only, and may be executed by such officers and in such manner, as shall be prescribed by the legislature of the government of the Virgin Islands. In case any of the officers whose signatures appear on the bonds or coupons shall cease to be such officers before delivery of such bonds, such signature, whether manual or facsimile, shall nevertheless be valid and sufficient for all purposes, the same as if such officers had remained in office until such delivery. The bonds so issued shall bear interest at a rate not to exceed that specified by the legislature. All bonds issued by the government of the Virgin Islands, including specifically interest thereon, shall be exempt from taxation by the Government of the United States, or by the government of the Virgin Islands or any political subdivision thereof, or by any State, territory, or possession or by any political subdivision of any State, territory, or possession, or by the District of Columbia.
 
-        (B)
+        (B) Bonds or other obligations issued pursuant to this paragraph (ii) shall not be a debt of the United States, nor shall the United States be liable thereon.
 
-         Bonds or other obligations issued pursuant to this paragraph (ii) shall not be a debt of the United States, nor shall the United States be liable thereon.
-
-            (iii)
+    (iii)
 
         (A) The legislature of the government of the Virgin Islands may cause to be issued after September 30, 1984, industrial development bonds (within the meaning of section 103(b)(2)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 26).
 

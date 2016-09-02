@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t48/ch4/schIII/m__us_usc_t48_s824 to 844.md) | [Next](./../../../../..//us/usc/t48/ch4/schIV/m__us_usc_t48_ch4_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs845)
+[Previous](./../../../../..//us/usc/t48/ch4/schIII/m__us_usc_t48_s823a.md) | [Next](./../../../../..//us/usc/t48/ch4/schIV/m__us_usc_t48_ch4_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs845)
 
 ## § 845. Income tax laws; modification or repeal by legislature
 
@@ -35,7 +35,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t48/ch4/schIII/m__us_usc_t48_s824 to 844.md) | [Next](./../../../../..//us/usc/t48/ch4/schIV/m__us_usc_t48_ch4_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs845)
+[Previous](./../../../../..//us/usc/t48/ch4/schIII/m__us_usc_t48_s823a.md) | [Next](./../../../../..//us/usc/t48/ch4/schIV/m__us_usc_t48_ch4_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs845)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s411 to 423.md) | [Next](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s432.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs431)
+[Previous](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s392.md) | [Next](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s432.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs431)
 
 ## § 431. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s411 to 423.md) | [Next](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s432.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs431)
+[Previous](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s392.md) | [Next](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s432.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs431)
 
 ----------
 ----------

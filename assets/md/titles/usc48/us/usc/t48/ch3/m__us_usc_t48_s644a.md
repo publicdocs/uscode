@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s641 to 644.md) | [Next](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s645.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs644a)
+[Previous](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s541.md) | [Next](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s645.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs644a)
 
 ## § 644a. Jurisdiction of district court of cases arising on or within Midway, Wake, Johnston, Sand, etc., Islands; laws applicable to jury trials
 
@@ -37,7 +37,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s641 to 644.md) | [Next](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s645.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs644a)
+[Previous](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s541.md) | [Next](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s645.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs644a)
 
 ----------
 ----------

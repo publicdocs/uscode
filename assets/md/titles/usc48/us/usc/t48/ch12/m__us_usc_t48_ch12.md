@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch11/m__us_usc_t48_s1509 to 1512.md) | [Next](./../../../..//us/usc/t48/ch12/schI/m__us_usc_t48_ch12_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch12)
+[Previous](./../../../..//us/usc/t48/ch11/m__us_usc_t48_s1508.md) | [Next](./../../../..//us/usc/t48/ch12/schI/m__us_usc_t48_ch12_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch12)
 
 ## CHAPTER 12—VIRGIN ISLANDS \[1954\]
 
@@ -429,7 +429,7 @@ SUBCHAPTER VII—FISCAL PROVISIONS  </td>
 
 [Pub. L. 94–584][/us/pl/94/584], Oct. 21, 1976, [90 Stat. 2899][/us/stat/90/2899], as amended by [Pub. L. 96–597, title V, § 501][/us/pl/96/597/s501], Dec. 24, 1980, [94 Stat. 3479][/us/stat/94/3479]; [Pub. L. 111–194, § 2][/us/pl/111/194/s2], June 30, 2010, [124 Stat. 1310][/us/stat/124/1310], provided:
 
->     “\[Section 1. Authorization to organize governments\] That the Congress, recognizing the basic democratic principle of government by the consent of the governed, authorizes the peoples of the Virgin Islands and of Guam, respectively, to organize governments pursuant to constitutions of their own adoption as provided in this Act.
+> “\[Section 1. Authorization to organize governments\] That the Congress, recognizing the basic democratic principle of government by the consent of the governed, authorizes the peoples of the Virgin Islands and of Guam, respectively, to organize governments pursuant to constitutions of their own adoption as provided in this Act.
 
 > “Sec. 2.
 
@@ -483,7 +483,7 @@ SUBCHAPTER VII—FISCAL PROVISIONS  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch11/m__us_usc_t48_s1509 to 1512.md) | [Next](./../../../..//us/usc/t48/ch12/schI/m__us_usc_t48_ch12_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch12)
+[Previous](./../../../..//us/usc/t48/ch11/m__us_usc_t48_s1508.md) | [Next](./../../../..//us/usc/t48/ch12/schI/m__us_usc_t48_ch12_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch12)
 
 ----------
 ----------

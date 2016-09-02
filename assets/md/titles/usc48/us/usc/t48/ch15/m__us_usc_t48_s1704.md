@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch15/m__us_usc_t48_s1701 to 1703.md) | [Next](./../../../..//us/usc/t48/ch15/m__us_usc_t48_s1705.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1704)
+[Previous](./../../../..//us/usc/t48/ch15/m__us_usc_t48_ch15.md) | [Next](./../../../..//us/usc/t48/ch15/m__us_usc_t48_s1705.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1704)
 
 ## § 1704. Concurrent jurisdiction; exceptions for national defense purposes
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch15/m__us_usc_t48_s1701 to 1703.md) | [Next](./../../../..//us/usc/t48/ch15/m__us_usc_t48_s1705.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1704)
+[Previous](./../../../..//us/usc/t48/ch15/m__us_usc_t48_ch15.md) | [Next](./../../../..//us/usc/t48/ch15/m__us_usc_t48_s1705.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1704)
 
 ----------
 ----------

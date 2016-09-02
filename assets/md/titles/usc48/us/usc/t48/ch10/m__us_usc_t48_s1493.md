@@ -15,7 +15,7 @@
 
 ## § 1493. Prosecution; authorization to seek review; local or Federal appellate courts; decisions, judgments or orders
 
-The prosecution in a territory or Commonwealth is authorized—unless precluded by local law—to seek review or other suitable relief in the appropriate local or Federal appellate court, or, where applicable, in the Supreme Court of the United States from—
+    The prosecution in a territory or Commonwealth is authorized—unless precluded by local law—to seek review or other suitable relief in the appropriate local or Federal appellate court, or, where applicable, in the Supreme Court of the United States from—
 
     (a) a decision, judgment, or order of a trial court dismissing an indictment or information as to any one or more counts, except that no review shall lie where the constitutional prohibition against double jeopardy would further prosecution;
 

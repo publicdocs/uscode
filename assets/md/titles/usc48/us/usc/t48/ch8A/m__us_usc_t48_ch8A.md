@@ -543,9 +543,15 @@ SUBCHAPTER VI—GUAM DEVELOPMENT FUND  </td>
 
   </tr>
 
-</table>
+  <tr>
 
- __Constitutions for Virgin Islands and Guam: Establishment; Congressional Authorization__ 
+    <td> 
+
+Constitutions for Virgin Islands and Guam: Establishment; Congressional Authorization  </td>
+
+  </tr>
+
+</table>
 
     Authorization for the peoples of the Virgin Islands and Guam to call constitutional conventions to draft constitutions for local self-government, see [Pub. L. 94–584][/us/pl/94/584], Oct. 21, 1976, [90 Stat. 2899][/us/stat/90/2899], set out as a note under [section 1541 of this title][/us/usc/t48/s1541].
 

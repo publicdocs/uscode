@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405u to 1405w.md) | [Next](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405x.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1405w%E2%80%931)
+[Previous](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405r.md) | [Next](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405x.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1405w%E2%80%931)
 
 ## § 1405w–1. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405u to 1405w.md) | [Next](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405x.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1405w%E2%80%931)
+[Previous](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405r.md) | [Next](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405x.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1405w%E2%80%931)
 
 ----------
 ----------

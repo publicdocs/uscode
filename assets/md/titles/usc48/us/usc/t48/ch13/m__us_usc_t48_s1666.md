@@ -15,7 +15,7 @@
 
 ## § 1666. Extension of scientific, technical, and other assistance; grant-in-aid program restriction; limitations on expenditures
 
-Upon request of the Secretary of the Interior—
+    Upon request of the Secretary of the Interior—
 
     (a) the head of any Federal department, agency, or corporation may, notwithstanding any other provision of law, extend to American Samoa, without reimbursement, such scientific, technical, and other assistance under any program which it administers as, in the judgment of the Secretary of the Interior, will promote the welfare of American Samoa. The provisions of the preceding sentence shall not apply to financial assistance under any grant-in-aid program. The Secretary of the Interior shall not request assistance pursuant to this subsection which will involve nonreimbursable costs as estimated for him in advance by the heads of the departments, agencies, and corporations concerned in excess of an aggregate of $150,000 in any one fiscal year;
 

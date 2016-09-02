@@ -15,7 +15,7 @@
 
 ## § 1631. Establishment and maintenance; scope
 
-The Governor shall establish and maintain systems of accounting and internal control designed to provide—
+    The Governor shall establish and maintain systems of accounting and internal control designed to provide—
 
     (a) full disclosure of the financial results of the government’s activities;
 

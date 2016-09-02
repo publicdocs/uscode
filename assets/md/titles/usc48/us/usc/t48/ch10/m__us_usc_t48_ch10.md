@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch9/m__us_usc_t48_s1431 to 1440.md) | [Next](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1451.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch10)
+[Previous](./../../../..//us/usc/t48/ch9/m__us_usc_t48_ch9.md) | [Next](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1451.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch10)
 
 ## CHAPTER 10—TERRITORIAL PROVISIONS OF A GENERAL NATURE
 
@@ -243,7 +243,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch9/m__us_usc_t48_s1431 to 1440.md) | [Next](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1451.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch10)
+[Previous](./../../../..//us/usc/t48/ch9/m__us_usc_t48_ch9.md) | [Next](./../../../..//us/usc/t48/ch10/m__us_usc_t48_s1451.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch10)
 
 ----------
 ----------

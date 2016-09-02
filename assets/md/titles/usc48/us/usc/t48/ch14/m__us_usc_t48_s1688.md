@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch14/m__us_usc_t48_s1686, 1687.md) | [Next](./../../../..//us/usc/t48/ch14/m__us_usc_t48_s1689.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1688)
+[Previous](./../../../..//us/usc/t48/ch14/m__us_usc_t48_s1685.md) | [Next](./../../../..//us/usc/t48/ch14/m__us_usc_t48_s1689.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1688)
 
 ## § 1688. Trust Territory of the Pacific Islands Economic Development Loan Fund
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch14/m__us_usc_t48_s1686, 1687.md) | [Next](./../../../..//us/usc/t48/ch14/m__us_usc_t48_s1689.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1688)
+[Previous](./../../../..//us/usc/t48/ch14/m__us_usc_t48_s1685.md) | [Next](./../../../..//us/usc/t48/ch14/m__us_usc_t48_s1689.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1688)
 
 ----------
 ----------

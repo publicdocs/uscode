@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405j to 1405p.md) | [Next](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405r.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1405q)
+[Previous](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405c.md) | [Next](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405r.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1405q)
 
 ## § 1405q. Laws continued in force until modified; patent, trade mark, and copyright laws extended to Virgin Islands; jurisdiction of district court
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405j to 1405p.md) | [Next](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405r.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1405q)
+[Previous](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405c.md) | [Next](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405r.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1405q)
 
 ----------
 ----------

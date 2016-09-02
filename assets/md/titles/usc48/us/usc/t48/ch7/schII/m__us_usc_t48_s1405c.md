@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405a, 1405b.md) | [Next](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405d to 1405g.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1405c)
+[Previous](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405.md) | [Next](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405q.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1405c)
 
 ## § 1405c. Transfer of property to government
 
@@ -75,9 +75,41 @@
 
     (4) Federal laws levying tonnage duties, light money, or entrance and clearance fees.
 
+§§ 1405d to 1405g. __Repealed.__  __[__  __Pub. L. 97–357, title III, § 307__  __][/us/pl/97/357/s307]__  __,__  __Oct. 19, 1982__  __,__  __[__  __96 Stat. 1709__  __][/us/stat/96/1709]__ 
+
+    Section 1405d, [act June 22, 1936, ch. 699, § 5][/us/act/1936-06-22/ch699/s5], [49 Stat. 1808][/us/stat/49/1808], related to composition, election, and legislative powers of Municipal Council of Saint Croix.
+
+    Section 1405e, [act June 22, 1936, ch. 699, § 6][/us/act/1936-06-22/ch699/s6], [49 Stat. 1808][/us/stat/49/1808], related to composition, election, and legislative powers of Municipal Council of Saint Thomas and Saint John.
+
+    Section 1405f, [act June 22, 1936, ch. 699, § 7][/us/act/1936-06-22/ch699/s7], [49 Stat. 1808][/us/stat/49/1808], related to composition, meetings, and powers of two municipal councils to be known as the Legislative Assembly of the Virgin Islands.
+
+    Section 1405g, [act June 22, 1936, ch. 699, § 8][/us/act/1936-06-22/ch699/s8], [49 Stat. 1809][/us/stat/49/1809], related to time of holding elections.
+
+§§ 1405h, 1405i. __Repealed.__  __[__  __Pub. L. 89–554, § 8(a)__  __][/us/pl/89/554/s8/a]__  __,__  __Sept. 6, 1966__  __,__  __[__  __80 Stat. 649__  __][/us/stat/80/649]__ 
+
+    Section 1405h, [act June 22, 1936, ch. 699, § 9][/us/act/1936-06-22/ch699/s9], [49 Stat. 1809][/us/stat/49/1809], related to eligibility for membership in municipal councils.
+
+    Section 1405i, [act June 22, 1936, ch. 699, § 10][/us/act/1936-06-22/ch699/s10], [49 Stat. 1809][/us/stat/49/1809], related to compensation and travel expenses of municipal council members.
+
+§§ 1405j to 1405p. __Repealed.__  __[__  __Pub. L. 97–357, title III, § 307__  __][/us/pl/97/357/s307]__  __,__  __Oct. 19, 1982__  __,__  __[__  __96 Stat. 1709__  __][/us/stat/96/1709]__ 
+
+    Section 1405j, [act June 22, 1936, ch. 699, § 11][/us/act/1936-06-22/ch699/s11], [49 Stat. 1809][/us/stat/49/1809], related to powers of municipal councils, exemption of members from liability for debate in council, and privilege from arrest.
+
+    Section 1405k, [act June 22, 1936, ch. 699, § 12][/us/act/1936-06-22/ch699/s12], [49 Stat. 1809][/us/stat/49/1809], related to appointment by each municipal council of members to serve on Municipal Committee and powers of Municipal Committee.
+
+    Section 1405l, [act June 22, 1936, ch. 699, § 13][/us/act/1936-06-22/ch699/s13], [49 Stat. 1810][/us/stat/49/1810], related to time and place of meetings of each municipal council.
+
+    Section 1405m, [act June 22, 1936, ch. 699, § 14][/us/act/1936-06-22/ch699/s14], [49 Stat. 1810][/us/stat/49/1810], related to introduction of bills in municipal councils by Governor, submission to councils of a budget of estimated receipts and expenditures, and submission of reports.
+
+    Section 1405n, [act June 22, 1936, ch. 699, § 15][/us/act/1936-06-22/ch699/s15], [49 Stat. 1810][/us/stat/49/1810], related to quorum of councils, vote on adoption of bills, and a journal of proceedings.
+
+    Section 1405o, [act June 22, 1936, ch. 699, § 16][/us/act/1936-06-22/ch699/s16], [49 Stat. 1810][/us/stat/49/1810], related to acts of councils and assembly, approval or veto thereof by Governor, submission of repassed vetoed bills to the President, annulment of acts by Congress, and authorization of appropriations.
+
+    Section 1405p, [act June 22, 1936, ch. 699, § 17][/us/act/1936-06-22/ch699/s17], [49 Stat. 1811][/us/stat/49/1811], related to vesting of voting franchise in residents of the Virgin Islands who are citizens of the United States and prescription by legislative assembly of additional qualifications.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405a, 1405b.md) | [Next](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405d to 1405g.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1405c)
+[Previous](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405.md) | [Next](./../../../../..//us/usc/t48/ch7/schII/m__us_usc_t48_s1405q.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1405c)
 
 ----------
 ----------
@@ -100,5 +132,37 @@
 [/us/stat/49/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F668
 [/us/stat/49/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1367
 [/us/stat/54/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F150
+[/us/pl/97/357/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2Fs307
+[/us/stat/96/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1709
+[/us/act/1936-06-22/ch699/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch699%2Fs5
+[/us/stat/49/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1808
+[/us/act/1936-06-22/ch699/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch699%2Fs6
+[/us/stat/49/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1808
+[/us/act/1936-06-22/ch699/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch699%2Fs7
+[/us/stat/49/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1808
+[/us/act/1936-06-22/ch699/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch699%2Fs8
+[/us/stat/49/1809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1809
+[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/stat/80/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F649
+[/us/act/1936-06-22/ch699/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch699%2Fs9
+[/us/stat/49/1809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1809
+[/us/act/1936-06-22/ch699/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch699%2Fs10
+[/us/stat/49/1809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1809
+[/us/pl/97/357/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F357%2Fs307
+[/us/stat/96/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1709
+[/us/act/1936-06-22/ch699/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch699%2Fs11
+[/us/stat/49/1809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1809
+[/us/act/1936-06-22/ch699/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch699%2Fs12
+[/us/stat/49/1809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1809
+[/us/act/1936-06-22/ch699/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch699%2Fs13
+[/us/stat/49/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1810
+[/us/act/1936-06-22/ch699/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch699%2Fs14
+[/us/stat/49/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1810
+[/us/act/1936-06-22/ch699/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch699%2Fs15
+[/us/stat/49/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1810
+[/us/act/1936-06-22/ch699/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch699%2Fs16
+[/us/stat/49/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1810
+[/us/act/1936-06-22/ch699/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch699%2Fs17
+[/us/stat/49/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1811
 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch6/m__us_usc_t48_s1344a to 1355.md) | [Next](./../../../..//us/usc/t48/ch6/m__us_usc_t48_s1357, 1358.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1356)
+[Previous](./../../../..//us/usc/t48/ch6/m__us_usc_t48_s1344–1.md) | [Next](./../../../..//us/usc/t48/ch6/m__us_usc_t48_s1361.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1356)
 
 ## § 1356. Repealed. [June 25, 1948, ch. 646, § 35][/us/act/1948-06-25/ch646/s35], [62 Stat. 991][/us/stat/62/991]
 
@@ -21,9 +21,17 @@
 
     Repeal effective Sept. 1, 1948, see section 38 of act June 25, 1948, set out as an Effective Date note preceding [section 1 of Title 28][/us/usc/t28/s1], Judiciary and Judicial Procedure.
 
+§§ 1357, 1358. __Omitted__ 
+
+ __Codification__ 
+
+    Section 1357, acts [Aug. 24, 1912, ch. 390, § 9][/us/act/1912-08-24/ch390/s9], [37 Stat. 565][/us/stat/37/565]; [Sept. 21, 1922, ch. 370, § 3][/us/act/1922-09-21/ch370/s3], [42 Stat. 1006][/us/stat/42/1006], related to blending of law and equity jurisdiction.
+
+    Section 1358, [act June 28, 1906, ch. 3585][/us/act/1906-06-28/ch3585], [34 Stat. 552][/us/stat/34/552], related to acknowledgment of deeds and was omitted as not of general application, and as covered by the Canal Zone Code. The Canal Zone Code was subsequently redesignated the Panama Canal Code by [Pub. L. 96–70, § 3303(b)][/us/pl/96/70/s3303/b], and repealed by [Pub. L. 104–201, § 3549][/us/pl/104/201/s3549].
+
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch6/m__us_usc_t48_s1344a to 1355.md) | [Next](./../../../..//us/usc/t48/ch6/m__us_usc_t48_s1357, 1358.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1356)
+[Previous](./../../../..//us/usc/t48/ch6/m__us_usc_t48_s1344–1.md) | [Next](./../../../..//us/usc/t48/ch6/m__us_usc_t48_s1361.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1356)
 
 ----------
 ----------
@@ -37,5 +45,13 @@
 [/us/act/1933-02-16/ch91/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-02-16%2Fch91%2Fs3
 [/us/stat/47/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F817
 [/us/usc/t28/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1
+[/us/act/1912-08-24/ch390/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fch390%2Fs9
+[/us/stat/37/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F565
+[/us/act/1922-09-21/ch370/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch370%2Fs3
+[/us/stat/42/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1006
+[/us/act/1906-06-28/ch3585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-28%2Fch3585
+[/us/stat/34/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F552
+[/us/pl/96/70/s3303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs3303%2Fb
+[/us/pl/104/201/s3549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3549
 
 

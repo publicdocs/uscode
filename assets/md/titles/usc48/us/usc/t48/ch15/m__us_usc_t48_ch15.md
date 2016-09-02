@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch14/m__us_usc_t48_s1695.md) | [Next](./../../../..//us/usc/t48/ch15/m__us_usc_t48_s1701 to 1703.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch15)
+[Previous](./../../../..//us/usc/t48/ch14/m__us_usc_t48_s1695.md) | [Next](./../../../..//us/usc/t48/ch15/m__us_usc_t48_s1704.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch15)
 
 ## CHAPTER 15—CONVEYANCE OF SUBMERGED LANDS TO TERRITORIES
 
@@ -73,12 +73,30 @@
 
 </table>
 
+§§ 1701 to 1703. __Repealed.__  __[__  __Pub. L. 93–435, § 5__  __][/us/pl/93/435/s5]__  __,__  __Oct. 5, 1974__  __,__  __[__  __88 Stat. 1212__  __][/us/stat/88/1212]__ 
+
+    Section 1701, [Pub. L. 88–183, § 1][/us/pl/88/183/s1], Nov. 20, 1963, [77 Stat. 338][/us/stat/77/338], related to authority of Secretary of the Interior to transfer tidelands, submerged lands, and filled lands to governments of Guam, Virgin Islands, and American Samoa with certain restrictions and conditions. See [section 1705 of this title][/us/usc/t48/s1705].
+
+    Section 1702, [Pub. L. 88–183, § 2][/us/pl/88/183/s2], Nov. 20, 1963, [77 Stat. 339][/us/stat/77/339], related to administrative responsibility of Secretary of the Interior for tidelands, submerged lands, and filled lands in adjacent to Guam, Virgin Islands, and American Samoa. See sections 1705 to 1708 of this title.
+
+    Section 1703, [Pub. L. 88–183, § 3][/us/pl/88/183/s3], Nov. 20, 1963, [77 Stat. 339][/us/stat/77/339], related to certain rights reserved for the United States for purposes of defense, navigation, flood control, commerce and international affairs. See [section 1706 of this title][/us/usc/t48/s1706].
+
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch14/m__us_usc_t48_s1695.md) | [Next](./../../../..//us/usc/t48/ch15/m__us_usc_t48_s1701 to 1703.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch15)
+[Previous](./../../../..//us/usc/t48/ch14/m__us_usc_t48_s1695.md) | [Next](./../../../..//us/usc/t48/ch15/m__us_usc_t48_s1704.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch15)
 
 ----------
 ----------
 
+[/us/pl/93/435/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F435%2Fs5
+[/us/stat/88/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1212
+[/us/pl/88/183/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F183%2Fs1
+[/us/stat/77/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F338
+[/us/usc/t48/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1705
+[/us/pl/88/183/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F183%2Fs2
+[/us/stat/77/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F339
+[/us/pl/88/183/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F183%2Fs3
+[/us/stat/77/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F339
+[/us/usc/t48/s1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1706
 
 

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t48/ch7/schIII/m__us_usc_t48_s1407 to 1407i.md) | [Next](./../../../../..//us/usc/t48/ch7/schIV/m__us_usc_t48_s1408.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch7%2FschIV)
+[Previous](./../../../../..//us/usc/t48/ch7/schIII/m__us_usc_t48_ch7_schIII.md) | [Next](./../../../../..//us/usc/t48/ch7/schIV/m__us_usc_t48_s1408.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch7%2FschIV)
 
 ### SUBCHAPTER IV—PUBLIC HOUSING
 
 ----------
 
-[Previous](./../../../../..//us/usc/t48/ch7/schIII/m__us_usc_t48_s1407 to 1407i.md) | [Next](./../../../../..//us/usc/t48/ch7/schIV/m__us_usc_t48_s1408.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch7%2FschIV)
+[Previous](./../../../../..//us/usc/t48/ch7/schIII/m__us_usc_t48_ch7_schIII.md) | [Next](./../../../../..//us/usc/t48/ch7/schIV/m__us_usc_t48_s1408.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fch7%2FschIV)
 
 ----------
 ----------

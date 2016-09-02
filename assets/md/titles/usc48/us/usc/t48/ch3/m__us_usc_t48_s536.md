@@ -11,15 +11,25 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s531 to 535.md) | [Next](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s537, 538.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs536)
+[Previous](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s520.md) | [Next](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s539.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs536)
 
 ## § 536. Repealed. [Pub. L. 86–3, § 14(e)][/us/pl/86/3/s14/e], Mar. 18, 1959, [73 Stat. 10][/us/stat/73/10]
 
     Section, acts [Apr. 30, 1900, ch. 339, § 92][/us/act/1900-04-30/ch339/s92], [31 Stat. 159][/us/stat/31/159]; [May 27, 1910, ch. 258, § 8][/us/act/1910-05-27/ch258/s8], [36 Stat. 448][/us/stat/36/448]; [July 9, 1921, ch. 42, § 314][/us/act/1921-07-09/ch42/s314], [42 Stat. 120][/us/stat/42/120]; [Oct. 15, 1949, ch. 695, § 5(a)][/us/act/1949-10-15/ch695/s5/a], [63 Stat. 680][/us/stat/63/680], prescribed salary of governor and secretary of Territory of Hawaii, and specified incidental expenses of governor.
 
+§§ 537, 538. __Omitted__ 
+
+ __Codification__ 
+
+    Sections 537 and 538, relating to Territory of Hawaii, were omitted in view of admission of Hawaii into the Union.
+
+    Section 537, [act Apr. 30, 1900, ch. 339, § 71][/us/act/1900-04-30/ch339/s71], [31 Stat. 154][/us/stat/31/154], prescribed powers and duties of attorney general of Hawaii.
+
+    Section 538, [act Apr. 30, 1900, ch. 339, § 72][/us/act/1900-04-30/ch339/s72], [31 Stat. 154][/us/stat/31/154], prescribed powers and duties of treasurer of Hawaii.
+
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s531 to 535.md) | [Next](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s537, 538.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs536)
+[Previous](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s520.md) | [Next](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s539.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs536)
 
 ----------
 ----------
@@ -34,5 +44,9 @@
 [/us/stat/42/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F120
 [/us/act/1949-10-15/ch695/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-15%2Fch695%2Fs5%2Fa
 [/us/stat/63/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F680
+[/us/act/1900-04-30/ch339/s71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-30%2Fch339%2Fs71
+[/us/stat/31/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F154
+[/us/act/1900-04-30/ch339/s72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-04-30%2Fch339%2Fs72
+[/us/stat/31/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F154
 
 

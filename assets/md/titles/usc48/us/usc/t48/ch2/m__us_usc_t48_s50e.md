@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s50b to 50d–1.md) | [Next](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s50f.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs50e)
+[Previous](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s49.md) | [Next](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s50f.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs50e)
 
 ## § 50e. Appropriations for benefit of natives; purchase of supplies for resale to natives, cooperatives, and Department employees
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s50b to 50d–1.md) | [Next](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s50f.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs50e)
+[Previous](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s49.md) | [Next](./../../../..//us/usc/t48/ch2/m__us_usc_t48_s50f.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs50e)
 
 ----------
 ----------

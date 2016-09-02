@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s537, 538.md) | [Next](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s540.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs539)
+[Previous](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s536.md) | [Next](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s540.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs539)
 
 ## § 539. Repealed. [Pub. L. 86–3, § 14(e)][/us/pl/86/3/s14/e], Mar. 18, 1959, [73 Stat. 10][/us/stat/73/10]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s537, 538.md) | [Next](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s540.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs539)
+[Previous](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s536.md) | [Next](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s540.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs539)
 
 ----------
 ----------

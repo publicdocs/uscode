@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t48/ch4/schIII/m__us_usc_t48_s811 to 820.md) | [Next](./../../../../..//us/usc/t48/ch4/schIII/m__us_usc_t48_s822, 823.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs821)
+[Previous](./../../../../..//us/usc/t48/ch4/schIII/m__us_usc_t48_ch4_schIII.md) | [Next](./../../../../..//us/usc/t48/ch4/schIII/m__us_usc_t48_s823a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs821)
 
 ## § 821. Legislative power
 
@@ -27,9 +27,19 @@
 
     “Puerto Rico” substituted in text for “Porto Rico” pursuant to act May 17, 1932, which is classified to [section 731a of this title][/us/usc/t48/s731a].
 
+§§ 822, 823. __Repealed.__  __[__  __July 3, 1950, ch. 446, § 5(2)__  __][/us/act/1950-07-03/ch446/s5/2]__  __,__  __[__  __64 Stat. 320__  __][/us/stat/64/320]__ 
+
+    Section 822, [act Mar. 2, 1917, ch. 145, § 34][/us/act/1917-03-02/ch145/s34], [39 Stat. 960][/us/stat/39/960], related to origin of bills and resolutions.
+
+    Section 823, acts [Mar. 2, 1917, ch. 145, § 34][/us/act/1917-03-02/ch145/s34], [39 Stat. 960][/us/stat/39/960]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158], related to enacting clauses of bills and resolutions.
+
+ __Effective Date of Repeal__ 
+
+    Repeal of sections 822 and 823 effective July 25, 1952, see note set out under [section 732 of this title][/us/usc/t48/s732].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t48/ch4/schIII/m__us_usc_t48_s811 to 820.md) | [Next](./../../../../..//us/usc/t48/ch4/schIII/m__us_usc_t48_s822, 823.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs821)
+[Previous](./../../../../..//us/usc/t48/ch4/schIII/m__us_usc_t48_ch4_schIII.md) | [Next](./../../../../..//us/usc/t48/ch4/schIII/m__us_usc_t48_s823a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs821)
 
 ----------
 ----------
@@ -42,5 +52,14 @@
 [/us/stat/39/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F951
 [/us/usc/t48/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs731
 [/us/usc/t48/s731a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs731a
+[/us/act/1950-07-03/ch446/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-07-03%2Fch446%2Fs5%2F2
+[/us/stat/64/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F320
+[/us/act/1917-03-02/ch145/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145%2Fs34
+[/us/stat/39/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F960
+[/us/act/1917-03-02/ch145/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch145%2Fs34
+[/us/stat/39/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F960
+[/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
+[/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158
+[/us/usc/t48/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs732
 
 

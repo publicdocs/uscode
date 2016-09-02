@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s505 to 518.md) | [Next](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s519.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs518a)
+[Previous](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s504.md) | [Next](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s519.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs518a)
 
 ## § 518a. Repealed. [July 25, 1947, ch. 327, § 1][/us/act/1947-07-25/ch327/s1], [61 Stat. 449][/us/stat/61/449]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s505 to 518.md) | [Next](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s519.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs518a)
+[Previous](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s504.md) | [Next](./../../../..//us/usc/t48/ch3/m__us_usc_t48_s519.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs518a)
 
 ----------
 ----------
