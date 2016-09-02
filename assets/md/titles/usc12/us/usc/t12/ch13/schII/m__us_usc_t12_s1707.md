@@ -1,0 +1,138 @@
+---
+---
+
+# 12 U.S.C., USLM ref /us/usc/t12/s1707
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t12/ch13/schII/m__us_usc_t12_ch13_schII.md) | [Next](./../../../../..//us/usc/t12/ch13/schII/m__us_usc_t12_s1708.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1707)
+
+## § 1707. Definitions
+
+As used in [section 1709 of this title][/us/usc/t12/s1709]—
+
+    (a) The term “mortgage” means (A) a first mortgage on real estate, in fee simple, (B) a first mortgage on a leasehold on real estate (i) under a lease for not less than ninety-nine years which is renewable, or (ii) under a lease having a period of not less than ten years to run beyond the maturity date of the mortgage, or (C) a first mortgage given to secure the unpaid purchase price of a fee interest in, or long-term leasehold interest in, real estate consisting of a one-family unit in a multifamily project, including a project in which the dwelling units are attached, or are manufactured housing units, semi-detached, or detached, and an undivided interest in the common areas and facilities which serve the project; and the term “first mortgage” means such classes of first liens as are commonly given to secure advances on, or the unpaid purchase price of, real estate, under the laws of the State, in which the real estate is located, together with the credit instruments, if any, secured thereby.
+
+    (b) The term “mortgagee” includes the original lender under a mortgage, and his successors and assigns approved by the Secretary; and the term “mortgagor” includes the original borrower under a mortgage and his successors and assigns.
+
+    (c) The term “maturity date” means the date on which the mortgage indebtedness would be extinguished if paid in accordance with periodic payments provided for in the mortgage.
+
+    (d) The term “State” includes the several States, and Puerto Rico, the District of Columbia, Guam, the Commonwealth of the Northern Mariana Islands, American Samoa, and the Virgin Islands.
+
+    (e) The term “family member” means, with respect to a mortgagor under such section, a child, parent, or grandparent of the mortgagor (or the mortgagor’s spouse). In determining whether any of the relationships referred to in the preceding sentence exist, a legally adopted son or daughter of an individual (and a child who is a member of an individual’s household, if placed with such individual by an authorized placement agency for legal adoption by such individual), and a foster child of an individual, shall be treated as a child of such individual by blood.
+
+    (f) The term “child” means, with respect to a mortgagor under such section, a son, stepson, daughter, or stepdaughter of such mortgagor.
+
+    (g) The term “real estate” means land and all natural resources and structures permanently affixed to the land, including residential buildings and stationary manufactured housing. The Secretary may not require, for treatment of any land or other property as real estate for purposes of this subchapter, that such land or property be treated as real estate for purposes of State taxation.
+
+([June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], title II, § 201, [48 Stat. 1247][/us/stat/48/1247]; [Feb. 3, 1938, ch. 13, § 3][/us/act/1938-02-03/ch13/s3], [52 Stat. 9][/us/stat/52/9]; [Mar. 28, 1941, ch. 31, § 4(a)][/us/act/1941-03-28/ch31/s4/a], [55 Stat. 61][/us/stat/55/61]; [Apr. 20, 1950, ch. 94][/us/act/1950-04-20/ch94], title I, § 122, [64 Stat. 59][/us/stat/64/59]; [July 14, 1952, ch. 723, § 10(a)(2)][/us/act/1952-07-14/ch723/s10/a/2], [66 Stat. 603][/us/stat/66/603]; [Pub. L. 86–70, § 10(a)][/us/pl/86/70/s10/a], June 25, 1959, [73 Stat. 142][/us/stat/73/142]; [Pub. L. 86–624, § 6][/us/pl/86/624/s6], July 12, 1960, [74 Stat. 411][/us/stat/74/411]; [Pub. L. 90–19, § 1(a)(3)][/us/pl/90/19/s1/a/3], May 25, 1967, [81 Stat. 17][/us/stat/81/17]; [Pub. L. 91–152, title IV, § 403(c)(1)][/us/pl/91/152/s403/c/1], Dec. 24, 1969, [83 Stat. 395][/us/stat/83/395]; [Pub. L. 96–399, title III, § 306][/us/pl/96/399/s306], Oct. 8, 1980, [94 Stat. 1640][/us/stat/94/1640]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 407(b)\], Nov. 30, 1983, [97 Stat. 1211][/us/stat/97/1211]; [Pub. L. 104–204, title IV, § 425(b)][/us/pl/104/204/s425/b], Sept. 26, 1996, [110 Stat. 2928][/us/stat/110/2928]; [Pub. L. 110–289, div. B, title I][/us/pl/110/289], §§ 2117(b), (c), 2120(c), July 30, 2008, [122 Stat. 2833][/us/stat/122/2833], 2835.)
+
+ __Amendments__ 
+
+    2008—Subsec. (a). [Pub. L. 110–289, § 2117(b)][/us/pl/110/289/s2117/b], inserted “(A)” before “a first mortgage”, substituted “(B) a first mortgage on a leasehold on real estate (i)” for “or on a leasehold (1)” and “, or (ii)” for “or (2)”, and inserted “, or (C) a first mortgage given to secure the unpaid purchase price of a fee interest in, or long-term leasehold interest in, real estate consisting of a one-family unit in a multifamily project, including a project in which the dwelling units are attached, or are manufactured housing units, semi-detached, or detached, and an undivided interest in the common areas and facilities which serve the project” before semicolon.
+
+    Subsec. (d). [Pub. L. 110–289, § 2120(c)][/us/pl/110/289/s2120/c], substituted “the Commonwealth of the Northern Mariana Islands” for “the Trust Territory of the Pacific Islands”.
+
+    Subsec. (g). [Pub. L. 110–289, § 2117(c)][/us/pl/110/289/s2117/c], added subsec. (g).
+
+    1996—Subsecs. (e), (f). [Pub. L. 104–204][/us/pl/104/204] added subsecs. (e) and (f).
+
+    1983—Subsec. (d). [Pub. L. 98–181][/us/pl/98/181] inserted “American Samoa,” after “Pacific Islands,”.
+
+    1980—Subsec. (a). [Pub. L. 96–399][/us/pl/96/399] substituted “ten years to run beyond the maturity date of the mortgage” for “fifty years to run from the date the mortgage was executed”.
+
+    1969—Subsec. (d). [Pub. L. 91–152][/us/pl/91/152] inserted “the Trust Territory of the Pacific Islands” after “Guam”.
+
+    1967—Subsec. (b). [Pub. L. 90–19][/us/pl/90/19] substituted “Secretary” for “Commissioner”.
+
+    1960—Subsec. (d). [Pub. L. 86–624][/us/pl/86/624] struck out “Hawaii,” before “Puerto Rico”.
+
+    1959—Subsec. (d). [Pub. L. 86–70][/us/pl/86/70] struck out “Alaska,” before “Hawaii”.
+
+    1952—Subsec. (d). Act July 14, 1952, inserted “Guam,” after “District of Columbia”.
+
+    1950—Act Apr. 20, 1950, substituted “Commissioner” for “Administrator”.
+
+    1941—Subsec. (a). Act Mar. 28, 1941, § 4(a)(1), struck out “district, or Territory”.
+
+    Subsec. (d). Act Mar. 28, 1941, § 4(a)(2), added subsec. (d).
+
+    1938—Subsec. (a)(2). Act Feb. 3, 1938, struck out “upon which there is located a dwelling for not more than four families which is used in whole or in part for residential purposes, irrespective of whether such dwelling has a party wall or is otherwise physically connected with another dwelling” after “executed”.
+
+    Subsec. (c). Act Feb. 3, 1938, added subsec. (c).
+
+ __Improvement of Financing for Multifamily Housing__ 
+
+    [Pub. L. 102–550, title V][/us/pl/102/550], subtitle C, Oct. 28, 1992, [106 Stat. 3794][/us/stat/106/3794], which related to improvement of financing for multifamily housing and was formerly set out as a note under this section, was transferred or omitted as follows:
+
+    [Section 541 of Pub. L. 102–550][/us/pl/102/550/s541] was transferred and is set out as a note under [section 1701 of this title][/us/usc/t12/s1701];
+
+    [Section 542 of Pub. L. 102–550][/us/pl/102/550/s542] was transferred to [section 1715z–22 of this title][/us/usc/t12/s1715z–22];
+
+    [Section 543 of Pub. L. 102–550][/us/pl/102/550/s543], as amended by [Pub. L. 111–203, title III, § 371][/us/pl/111/203/s371], July 21, 2010, [124 Stat. 1565][/us/stat/124/1565], was omitted from the Code;
+
+    [Section 544 of Pub. L. 102–550][/us/pl/102/550/s544] was transferred to [section 1715z–22a of this title][/us/usc/t12/s1715z–22a].
+
+----------
+
+[Previous](./../../../../..//us/usc/t12/ch13/schII/m__us_usc_t12_ch13_schII.md) | [Next](./../../../../..//us/usc/t12/ch13/schII/m__us_usc_t12_s1708.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1707)
+
+----------
+----------
+
+[/us/usc/t12/s1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1709
+[/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
+[/us/stat/48/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1247
+[/us/act/1938-02-03/ch13/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-03%2Fch13%2Fs3
+[/us/stat/52/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F9
+[/us/act/1941-03-28/ch31/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-03-28%2Fch31%2Fs4%2Fa
+[/us/stat/55/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F61
+[/us/act/1950-04-20/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-20%2Fch94
+[/us/stat/64/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F59
+[/us/act/1952-07-14/ch723/s10/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-14%2Fch723%2Fs10%2Fa%2F2
+[/us/stat/66/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F603
+[/us/pl/86/70/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs10%2Fa
+[/us/stat/73/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F142
+[/us/pl/86/624/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs6
+[/us/stat/74/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F411
+[/us/pl/90/19/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs1%2Fa%2F3
+[/us/stat/81/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F17
+[/us/pl/91/152/s403/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2Fs403%2Fc%2F1
+[/us/stat/83/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F395
+[/us/pl/96/399/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs306
+[/us/stat/94/1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1640
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/stat/97/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1211
+[/us/pl/104/204/s425/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs425%2Fb
+[/us/stat/110/2928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2928
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/stat/122/2833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2833
+[/us/pl/110/289/s2117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2117%2Fb
+[/us/pl/110/289/s2120/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2120%2Fc
+[/us/pl/110/289/s2117/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2117%2Fc
+[/us/pl/104/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204
+[/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
+[/us/pl/96/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399
+[/us/pl/91/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/stat/106/3794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3794
+[/us/pl/102/550/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs541
+[/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
+[/us/pl/102/550/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs542
+[/us/usc/t12/s1715z–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%9322
+[/us/pl/102/550/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs543
+[/us/pl/111/203/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs371
+[/us/stat/124/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1565
+[/us/pl/102/550/s544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs544
+[/us/usc/t12/s1715z–22a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z%E2%80%9322a
+
+

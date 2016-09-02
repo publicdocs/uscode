@@ -1,0 +1,39 @@
+---
+---
+
+# 12 U.S.C., USLM ref /us/usc/t12/s1447
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1446.md) | [Next](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1448.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1447)
+
+## § 1447. Repealed. [Pub. L. 106–102, title VI, § 606(c)][/us/pl/106/102/s606/c], Nov. 12, 1999, [113 Stat. 1454][/us/stat/113/1454]
+
+    Section, [act July 22, 1932, ch. 522, § 27][/us/act/1932-07-22/ch522/s27], as added [Pub. L. 103–204, § 18][/us/pl/103/204/s18], Dec. 17, 1993, [107 Stat. 2401][/us/stat/107/2401], related to Housing Opportunity Hotline program.
+
+    A prior section 1447, [act July 22, 1932, ch. 522, § 27][/us/act/1932-07-22/ch522/s27], [47 Stat. 740][/us/stat/47/740], related to institutions authorized to subscribe for stock of banks, prior to repeal by [Pub. L. 101–73, title VII, § 704(c)][/us/pl/101/73/s704/c], Aug. 9, 1989, [103 Stat. 416][/us/stat/103/416].
+
+----------
+
+[Previous](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1446.md) | [Next](./../../../..//us/usc/t12/ch11/m__us_usc_t12_s1448.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1447)
+
+----------
+----------
+
+[/us/pl/106/102/s606/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs606%2Fc
+[/us/stat/113/1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1454
+[/us/act/1932-07-22/ch522/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522%2Fs27
+[/us/pl/103/204/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204%2Fs18
+[/us/stat/107/2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2401
+[/us/act/1932-07-22/ch522/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522%2Fs27
+[/us/stat/47/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F740
+[/us/pl/101/73/s704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs704%2Fc
+[/us/stat/103/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F416
+
+
