@@ -671,7 +671,7 @@
 
                 (ii) the transfer to, or possession by, a law enforcement officer employed by an entity referred to in clause (i) of a handgun for law enforcement purposes (whether on or off duty); or
 
-            (B) the transfer to, or possession by, a rail police officer employed by a rail carrier and certified or commissioned as a police officer under the laws of a State of a handgun for purposes of law enforcement (whether on or off duty);
+            (B) the transfer to, or possession by, a rail police officer directly employed by or contracted by a rail carrier and certified or commissioned as a police officer under the laws of a State of a handgun for purposes of law enforcement (whether on or off duty);
 
             (C) the transfer to any person of a handgun listed as a curio or relic by the Secretary pursuant to section 921(a)(13); or
 
@@ -703,7 +703,7 @@
 
             \[APPENDIX A Repealed. [Pub. L. 103–322, title XI, § 110105(2)][/us/pl/103/322/s110105/2], Sept. 13, 1994, [108 Stat. 2000][/us/stat/108/2000]\]
 
-(Added [Pub. L. 90–351, title IV, § 902][/us/pl/90/351/s902], June 19, 1968, [82 Stat. 228][/us/stat/82/228]; amended [Pub. L. 90–618, title I, § 102][/us/pl/90/618/s102], Oct. 22, 1968, [82 Stat. 1216][/us/stat/82/1216]; [Pub. L. 97–377, title I, § 165(a)][/us/pl/97/377/s165/a], Dec. 21, 1982, [96 Stat. 1923][/us/stat/96/1923]; [Pub. L. 99–308, § 102][/us/pl/99/308/s102], May 19, 1986, [100 Stat. 451][/us/stat/100/451]; [Pub. L. 99–408, § 2][/us/pl/99/408/s2], Aug. 28, 1986, [100 Stat. 920][/us/stat/100/920]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–649, § 2(a)][/us/pl/100/649/s2/a], (f)(2)(A), Nov. 10, 1988, [102 Stat. 3816][/us/stat/102/3816], 3818; [Pub. L. 100–690, title VII, § 7060(c)][/us/pl/100/690/s7060/c], Nov. 18, 1988, [102 Stat. 4404][/us/stat/102/4404]; [Pub. L. 101–647, title XVII, § 1702(b)(1)][/us/pl/101/647/s1702/b/1], title XXII, §§ 2201, 2202, 2204(b), title XXXV, § 3524, Nov. 29, 1990, [104 Stat. 4844][/us/stat/104/4844], 4856, 4857, 4924; [Pub. L. 103–159, title I, § 102(a)(1)][/us/pl/103/159/s102/a/1], (b), title III, § 302(a)–(c), Nov. 30, 1993, [107 Stat. 1536][/us/stat/107/1536], 1539, 1545; [Pub. L. 103–322, title XI][/us/pl/103/322], §§ 110102(a), 110103(a), 110105(2), 110106, 110201(a), 110401(b), (c), 110511, 110514, title XXXII, §§ 320904, 320927, title XXXIII, § 330011(i), Sept. 13, 1994, [108 Stat. 1996][/us/stat/108/1996], 1998, 2000, 2010, 2014, 2019, 2125, 2131, 2145; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, §§ 657, 658(b)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–369, 3009–372; [Pub. L. 104–294, title VI, § 603(b)][/us/pl/104/294/s603/b], (c)(1), (d)–(f)(1), (g), Oct. 11, 1996, [110 Stat. 3503][/us/stat/110/3503], 3504; [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title I, § 121\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–71; [Pub. L. 107–273, div. B, title IV, § 4003(a)(1)][/us/pl/107/273/s4003/a/1], Nov. 2, 2002, [116 Stat. 1811][/us/stat/116/1811]; [Pub. L. 107–296, title XI, § 1112(f)(4)][/us/pl/107/296/s1112/f/4], (6), Nov. 25, 2002, [116 Stat. 2276][/us/stat/116/2276]; [Pub. L. 109–92][/us/pl/109/92], §§ 5(c)(1), 6(a), Oct. 26, 2005, [119 Stat. 2099][/us/stat/119/2099], 2101.)
+(Added [Pub. L. 90–351, title IV, § 902][/us/pl/90/351/s902], June 19, 1968, [82 Stat. 228][/us/stat/82/228]; amended [Pub. L. 90–618, title I, § 102][/us/pl/90/618/s102], Oct. 22, 1968, [82 Stat. 1216][/us/stat/82/1216]; [Pub. L. 97–377, title I, § 165(a)][/us/pl/97/377/s165/a], Dec. 21, 1982, [96 Stat. 1923][/us/stat/96/1923]; [Pub. L. 99–308, § 102][/us/pl/99/308/s102], May 19, 1986, [100 Stat. 451][/us/stat/100/451]; [Pub. L. 99–408, § 2][/us/pl/99/408/s2], Aug. 28, 1986, [100 Stat. 920][/us/stat/100/920]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–649, § 2(a)][/us/pl/100/649/s2/a], (f)(2)(A), Nov. 10, 1988, [102 Stat. 3816][/us/stat/102/3816], 3818; [Pub. L. 100–690, title VII, § 7060(c)][/us/pl/100/690/s7060/c], Nov. 18, 1988, [102 Stat. 4404][/us/stat/102/4404]; [Pub. L. 101–647, title XVII, § 1702(b)(1)][/us/pl/101/647/s1702/b/1], title XXII, §§ 2201, 2202, 2204(b), title XXXV, § 3524, Nov. 29, 1990, [104 Stat. 4844][/us/stat/104/4844], 4856, 4857, 4924; [Pub. L. 103–159, title I, § 102(a)(1)][/us/pl/103/159/s102/a/1], (b), title III, § 302(a)–(c), Nov. 30, 1993, [107 Stat. 1536][/us/stat/107/1536], 1539, 1545; [Pub. L. 103–322, title XI][/us/pl/103/322], §§ 110102(a), 110103(a), 110105(2), 110106, 110201(a), 110401(b), (c), 110511, 110514, title XXXII, §§ 320904, 320927, title XXXIII, § 330011(i), Sept. 13, 1994, [108 Stat. 1996][/us/stat/108/1996], 1998, 2000, 2010, 2014, 2019, 2125, 2131, 2145; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, §§ 657, 658(b)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–369, 3009–372; [Pub. L. 104–294, title VI, § 603(b)][/us/pl/104/294/s603/b], (c)(1), (d)–(f)(1), (g), Oct. 11, 1996, [110 Stat. 3503][/us/stat/110/3503], 3504; [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title I, § 121\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–71; [Pub. L. 107–273, div. B, title IV, § 4003(a)(1)][/us/pl/107/273/s4003/a/1], Nov. 2, 2002, [116 Stat. 1811][/us/stat/116/1811]; [Pub. L. 107–296, title XI, § 1112(f)(4)][/us/pl/107/296/s1112/f/4], (6), Nov. 25, 2002, [116 Stat. 2276][/us/stat/116/2276]; [Pub. L. 109–92][/us/pl/109/92], §§ 5(c)(1), 6(a), Oct. 26, 2005, [119 Stat. 2099][/us/stat/119/2099], 2101; [Pub. L. 114–94, div. A, title XI, § 11412(c)(2)][/us/pl/114/94/s11412/c/2], Dec. 4, 2015, [129 Stat. 1688][/us/stat/129/1688].)
 
  __Amendment of Section__ 
 
@@ -734,6 +734,8 @@
 For information regarding constitutionality of certain provisions of this section, as added by [section 102(a)(1) of Pub. L. 103–159][/us/pl/103/159/s102/a/1], see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
  __Amendments__ 
+
+    2015—Subsec. (z)(2)(B). [Pub. L. 114–94][/us/pl/114/94] substituted “directly employed by or contracted by” for “employed by”.
 
     2005—Subsec. (a)(7), (8). [Pub. L. 109–92, § 6(a)][/us/pl/109/92/s6/a], added pars. (7) and (8) and struck out former pars. (7) and (8) which related to prohibitions on the manufacture, importation, sale, and delivery of armor piercing ammunition.
 
@@ -932,6 +934,10 @@ For information regarding constitutionality of certain provisions of this sectio
     Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of [Pub. L. 108–458][/us/pl/108/458], set out as a note under [section 3001 of Title 50][/us/usc/t50/s3001], War and National Defense.
 
     Post Office Department, referred to in subsec. (c)(2), redesignated United States Postal Service pursuant to [Pub. L. 91–375, § 6][/us/pl/91/375/s6](o), Aug. 12, 1970, [84 Stat. 733][/us/stat/84/733], set out as a note preceding [section 101 of Title 39][/us/usc/t39/s101], Postal Service.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2015, see [section 1003 of Pub. L. 114–94][/us/pl/114/94/s1003], set out as a note under [section 5313 of Title 5][/us/usc/t5/s5313], Government Organization and Employees.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -1755,6 +1761,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/116/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2276
 [/us/pl/109/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92
 [/us/stat/119/2099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2099
+[/us/pl/114/94/s11412/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11412%2Fc%2F2
+[/us/stat/129/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1688
 [/us/pl/100/649/s2/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F649%2Fs2%2Ff%2F2%2FA
 [/us/stat/102/3818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3818
 [/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
@@ -1771,6 +1779,7 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
 [/us/pl/103/159/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159%2Fs103
 [/us/pl/103/159/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159%2Fs102%2Fa%2F1
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/109/92/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92%2Fs6%2Fa
 [/us/pl/109/92/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92%2Fs5%2Fc%2F1
 [/us/pl/107/296/s1112/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Ff%2F6
@@ -1879,6 +1888,9 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/91/375/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6
 [/us/stat/84/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F733
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
+[/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/109/92/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92%2Fs5%2Fd
 [/us/stat/119/2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2101
 [/us/usc/t18/s924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs924
