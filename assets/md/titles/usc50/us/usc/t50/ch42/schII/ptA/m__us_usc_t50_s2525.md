@@ -25,7 +25,7 @@
 
         (1) The head of each national security laboratory.
 
-        (2) The commander  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  of the United States Strategic Command.
+        (2) The commander of the United States Strategic Command.
 
     (c) __Dual validation teams in support of assessments__ 
 

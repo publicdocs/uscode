@@ -65,7 +65,7 @@
 
 >     “(b)  __Exceptions__  __.—__ 
 
->         (1) Sections 3202, 3204, 3251, 3295, and 3297 \[enacting sections 2451 and former 2483 of this title and sections 7144a to 7144c of Title 42, amending [section 7132 of Title 42][/us/usc/t42/s7132], and enacting provisions set out as a note below\] shall take effect on the date of the enactment of this Act \[Oct. 5, 1999\].
+>         (1) Sections 3202, 3204, 3251, 3295, and 3297 \[enacting section 2451 and former [section 2483 of this title][/us/usc/t50/s2483] and sections 7144a to 7144c of Title 42, The Public Health and Welfare, amending [section 7132 of Title 42][/us/usc/t42/s7132], and enacting provisions set out as a note below\] shall take effect on the date of the enactment of this Act \[Oct. 5, 1999\].
 
 >         “(2) Sections 3234 and 3235 \[enacting sections 2424 and 2425 of this title\] shall take effect on the date of the enactment of this Act. During the period beginning on the date of the enactment of this Act and ending on the effective date of this title, the Secretary of Energy shall carry out those sections and any reference in those sections to the Administrator and the Administration shall be treated as references to the Secretary and the Department of Energy, respectively.”
 
@@ -177,6 +177,7 @@
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/106/65/s3299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3299
 [/us/stat/113/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F971
+[/us/usc/t50/s2483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2483
 [/us/usc/t42/s7132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7132
 [/us/pl/106/65/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3201
 [/us/stat/113/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F953

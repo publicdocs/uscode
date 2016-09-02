@@ -29,13 +29,15 @@
 
         Any report submitted pursuant to subsection (a) shall also be submitted to the President and Congress with the matters required to be submitted under [section 2525(f) of this title][/us/usc/t50/s2525/f] for the year in which such report is submitted.
 
-([Pub. L. 107–314, div. D, title XLII, § 4213][/us/pl/107/314/s4213], formerly [Pub. L. 104–201, div. C, title XXXI, § 3159][/us/pl/104/201/s3159], Sept. 23, 1996, [110 Stat. 2842][/us/stat/110/2842], § 4218(b), (c), formerly [Pub. L. 105–85, div. A, title XIII, § 1305(c)][/us/pl/105/85/s1305/c], (d), Nov. 18, 1997, [111 Stat. 1954][/us/stat/111/1954]; [Pub. L. 106–65, div. C, title XXXI, § 3163(f)][/us/pl/106/65/s3163/f], Oct. 5, 1999, [113 Stat. 946][/us/stat/113/946]; [Pub. L. 107–314, div. D, title XLII, § 4213][/us/pl/107/314/s4213], by [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(14)][/us/pl/108/136/s3141/e/14], Nov. 24, 2003, [117 Stat. 1760][/us/stat/117/1760]; renumbered [Pub. L. 107–314, div. D, title XLII, § 4213][/us/pl/107/314/s4213], by [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(14)][/us/pl/108/136/s3141/e/14], Nov. 24, 2003, [117 Stat. 1760][/us/stat/117/1760]; renumbered [Pub. L. 107–314, div. D, title XLII, § 4218(c)][/us/pl/107/314/s4218/c], (d), and amended [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239], §§ 3131(f)(1), 3164(a)(3), Jan. 2, 2013, [126 Stat. 2181][/us/stat/126/2181], 2206; renumbered [Pub. L. 107–314, div. D, title XLII, § 4218(b)][/us/pl/107/314/s4218/b], (c), and amended [Pub. L. 113–66, div. C, title XXXI, § 3146(c)(7)][/us/pl/113/66/s3146/c/7], (10)(B), Dec. 26, 2013, [127 Stat. 1074][/us/stat/127/1074], 1075.)
+([Pub. L. 107–314, div. D, title XLII, § 4213][/us/pl/107/314/s4213], formerly [Pub. L. 104–201, div. C, title XXXI, § 3159][/us/pl/104/201/s3159], Sept. 23, 1996, [110 Stat. 2842][/us/stat/110/2842], § 4218(b), (c), formerly [Pub. L. 105–85, div. A, title XIII, § 1305(c)][/us/pl/105/85/s1305/c], (d), Nov. 18, 1997, [111 Stat. 1954][/us/stat/111/1954]; [Pub. L. 106–65, div. C, title XXXI, § 3163(f)][/us/pl/106/65/s3163/f], Oct. 5, 1999, [113 Stat. 946][/us/stat/113/946]; renumbered [Pub. L. 107–314, div. D, title XLII, § 4213][/us/pl/107/314/s4213], by [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(14)][/us/pl/108/136/s3141/e/14], Nov. 24, 2003, [117 Stat. 1760][/us/stat/117/1760]; renumbered [Pub. L. 107–314, div. D, title XLII, § 4218(c)][/us/pl/107/314/s4218/c], (d), and amended [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239], §§ 3131(f)(1), 3164(a)(3), Jan. 2, 2013, [126 Stat. 2181][/us/stat/126/2181], 2206; renumbered [Pub. L. 107–314, div. D, title XLII, § 4218(b)][/us/pl/107/314/s4218/b], (c), and amended [Pub. L. 113–66, div. C, title XXXI, § 3146(c)(7)][/us/pl/113/66/s3146/c/7], (10)(B), Dec. 26, 2013, [127 Stat. 1074][/us/stat/127/1074], 1075.)
 
  __Codification__ 
 
     Section was formerly classified to section 7274o of Title 42, The Public Health and Welfare, prior to renumbering by [Pub. L. 108–136][/us/pl/108/136].
 
-    Section is comprised of [section 4213 of Pub. L. 107–314][/us/pl/107/314/s4213]. Subsec. (c) of [section 4213 of Pub. L. 107–314][/us/pl/107/314/s4213] amended [section 179 of Title 10][/us/usc/t10/s179], Armed Forces.
+    Section is comprised in part of [section 4213 of Pub. L. 107–314][/us/pl/107/314/s4213]. See note below. Subsec. (c) of [section 4213 of Pub. L. 107–314][/us/pl/107/314/s4213] amended [section 179 of Title 10][/us/usc/t10/s179], Armed Forces.
+
+    Section is comprised of sections 4213 and 4218(b), (c) of [Pub. L. 107–314][/us/pl/107/314]. Section 4213, which was formerly part of [Pub. L. 104–201][/us/pl/104/201], originally enacted this section, and section 4218(b), (c), which was formerly part of [Pub. L. 105–85][/us/pl/105/85], originally amended this section. Both sections were renumbered to become part of [Pub. L. 107–314][/us/pl/107/314] and, as a result, are shown in the source credit above as jointly comprising this section.
 
  __Amendments__ 
 
@@ -83,9 +85,6 @@
 [/us/pl/107/314/s4213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4213
 [/us/pl/108/136/s3141/e/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fe%2F14
 [/us/stat/117/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1760
-[/us/pl/107/314/s4213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4213
-[/us/pl/108/136/s3141/e/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fe%2F14
-[/us/stat/117/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1760
 [/us/pl/107/314/s4218/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4218%2Fc
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/stat/126/2181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2181
@@ -96,6 +95,10 @@
 [/us/pl/107/314/s4213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4213
 [/us/pl/107/314/s4213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4213
 [/us/usc/t10/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs179
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/113/66/s3146/c/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fc%2F10%2FB
 [/us/pl/107/314/s4218/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4218%2Fc
 [/us/pl/112/239/s3164/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3164%2Fa%2F3

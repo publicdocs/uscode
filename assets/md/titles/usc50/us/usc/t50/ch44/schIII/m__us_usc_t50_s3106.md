@@ -21,7 +21,7 @@
 
          The date for the submittal to the congressional intelligence committees of the following annual reports shall be the date each year provided in subsection (c)(1)(A) of this section:
 
-            (A) The annual report of the Inspectors Generals of the intelligence community on proposed resources and activities of their offices required by section 8H(g) of the Inspector General Act of 1978.
+            (A) The annual report of the Inspectors Generals  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “General”. </sup></sup>  of the intelligence community on proposed resources and activities of their offices required by section 8H(g) of the Inspector General Act of 1978.
 
             (B) The annual report on certifications for immunity in interdiction of aircraft engaged in illicit drug trafficking required by [section 2291–4(c)(2) of title 22][/us/usc/t22/s2291–4/c/2].
 
@@ -41,7 +41,7 @@
 
         (1) The semiannual reports on decisions not to prosecute certain violations of law under the Classified Information Procedures Act (18 U.S.C. App.) as required by section 13 of that Act.
 
-        (2) The semiannual reports on the disclosure of information and consumer reports to the Federal Bureau of Investigation for counterintelligence purposes required by [section 1681u(h)(2) of title 15][/us/usc/t15/s1681u/h/2]. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
+        (2) The semiannual reports on the disclosure of information and consumer reports to the Federal Bureau of Investigation for counterintelligence purposes required by [section 1681u(h)(2) of title 15][/us/usc/t15/s1681u/h/2]. <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup> 
 
         (3) The semiannual provision of information on requests for financial information for foreign counterintelligence purposes required by [section 3414(a)(5)(C) of title 12][/us/usc/t12/s3414/a/5/C].
 

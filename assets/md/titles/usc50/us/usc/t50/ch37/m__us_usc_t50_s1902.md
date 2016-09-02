@@ -189,7 +189,7 @@
 
             (D) The head of the element of the intelligence community concerned may release an employee, in whole or in part, from the obligation to reimburse the United States under an agreement under subparagraph (A) when, in the discretion of the head of the element, the head of the element determines that equity or the interests of the United States so require.
 
-    (k) __Employment of Program Participants__ 
+    (k) __Employment of program participants__ 
 
         (1) __Appointment authority__ 
 
