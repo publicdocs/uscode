@@ -27,49 +27,55 @@
 
     In this section:
 
-        “child” means—
+        (1)
 
-        (A) a person under 18 years of age; and
+         The term “child” means—
 
-        (B) a person 18 or more years of age with respect to whom a child support order has been issued pursuant to the laws of a State.
+            (A) a person under 18 years of age; and
 
-        “child’s State” means the State in which a child resides.
+            (B) a person 18 or more years of age with respect to whom a child support order has been issued pursuant to the laws of a State.
 
-        “child’s home State” means the State in which a child lived with a parent or a person acting as parent for at least 6 consecutive months immediately preceding the time of filing of a petition or comparable pleading for support and, if a child is less than 6 months old, the State in which the child lived from birth with any of them. A period of temporary absence of any of them is counted as part of the 6-month period.
+        (2) The term “child’s State” means the State in which a child resides.
 
-        “child support” means a payment of money, continuing support, or arrearages or the provision of a benefit (including payment of health insurance, child care, and educational expenses) for the support of a child.
+        (3) The term “child’s home State” means the State in which a child lived with a parent or a person acting as parent for at least 6 consecutive months immediately preceding the time of filing of a petition or comparable pleading for support and, if a child is less than 6 months old, the State in which the child lived from birth with any of them. A period of temporary absence of any of them is counted as part of the 6-month period.
 
-        “child support order”—
+        (4) The term “child support” means a payment of money, continuing support, or arrearages or the provision of a benefit (including payment of health insurance, child care, and educational expenses) for the support of a child.
 
-        (A) means a judgment, decree, or order of a court requiring the payment of child support in periodic amounts or in a lump sum; and
+        (5)
 
-        (B)
+         The term “child support order”—
 
-         includes—
+            (A) means a judgment, decree, or order of a court requiring the payment of child support in periodic amounts or in a lump sum; and
 
-            (i) a permanent or temporary order; and
+            (B)
 
-            (ii) an initial order or a modification of an order.
+             includes—
 
-        “contestant” means—
+                (i) a permanent or temporary order; and
 
-        (A)
+                (ii) an initial order or a modification of an order.
 
-         a person (including a parent) who—
+        (6)
 
-            (i) claims a right to receive child support;
+         The term “contestant” means—
 
-            (ii) is a party to a proceeding that may result in the issuance of a child support order; or
+            (A)
 
-            (iii) is under a child support order; and
+             a person (including a parent) who—
 
-        (B) a State or political subdivision of a State to which the right to obtain child support has been assigned.
+                (i) claims a right to receive child support;
 
-        “court” means a court or administrative agency of a State that is authorized by State law to establish the amount of child support payable by a contestant or make a modification of a child support order.
+                (ii) is a party to a proceeding that may result in the issuance of a child support order; or
 
-        “modification” means a change in a child support order that affects the amount, scope, or duration of the order and modifies, replaces, supersedes, or otherwise is made subsequent to the child support order.
+                (iii) is under a child support order; and
 
-        “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the territories and possessions of the United States, and Indian country (as defined in [section 1151 of title 18][/us/usc/t18/s1151]).
+            (B) a State or political subdivision of a State to which the right to obtain child support has been assigned.
+
+        (7) The term “court” means a court or administrative agency of a State that is authorized by State law to establish the amount of child support payable by a contestant or make a modification of a child support order.
+
+        (8) The term “modification” means a change in a child support order that affects the amount, scope, or duration of the order and modifies, replaces, supersedes, or otherwise is made subsequent to the child support order.
+
+        (9) The term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the territories and possessions of the United States, and Indian country (as defined in [section 1151 of title 18][/us/usc/t18/s1151]).
 
     (c)  __Requirements of Child Support Orders__  __.—__ 
 
@@ -137,9 +143,25 @@
 
     If there is no individual contestant or child residing in the issuing State, the party or support enforcement agency seeking to modify, or to modify and enforce, a child support order issued in another State shall register that order in a State with jurisdiction over the nonmovant for the purpose of modification.
 
-(Added [Pub. L. 103–383, § 3(a)][/us/pl/103/383/s3/a], Oct. 20, 1994, [108 Stat. 4064][/us/stat/108/4064]; amended [Pub. L. 104–193, title III, § 322][/us/pl/104/193/s322], Aug. 22, 1996, [110 Stat. 2221][/us/stat/110/2221]; [Pub. L. 105–33, title V, § 5554][/us/pl/105/33/s5554], Aug. 5, 1997, [111 Stat. 636][/us/stat/111/636].)
+(Added [Pub. L. 103–383, § 3(a)][/us/pl/103/383/s3/a], Oct. 20, 1994, [108 Stat. 4064][/us/stat/108/4064]; amended [Pub. L. 104–193, title III, § 322][/us/pl/104/193/s322], Aug. 22, 1996, [110 Stat. 2221][/us/stat/110/2221]; [Pub. L. 105–33, title V, § 5554][/us/pl/105/33/s5554], Aug. 5, 1997, [111 Stat. 636][/us/stat/111/636]; [Pub. L. 113–183, title III, § 301(f)(2)][/us/pl/113/183/s301/f/2], Sept. 29, 2014, [128 Stat. 1944][/us/stat/128/1944].)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 113–183, title III, § 301(f)(2)(A)][/us/pl/113/183/s301/f/2/A], (B), (3)(B)(i), Sept. 29, 2014, [128 Stat. 1944][/us/stat/128/1944], 1945, provided that, effective on the date on which the Hague Convention of 23 November 2007 on the International Recovery of Child Support and Other Forms of Family Maintenance enters into force for the United States, this section is amended as follows:
+
+    (1) in subsection (d), by striking “individual contestant” and inserting “individual contestant or the parties have consented in a record or open court that the tribunal of the State may continue to exercise jurisdiction to modify its order,”; and
+
+    (2) in subsection (e)(2)(A), by striking “individual contestant” and inserting “individual contestant and the parties have not consented in a record or open court that the tribunal of the other State may continue to exercise jurisdiction to modify its order”.
+
+    See 2014 Amendment notes below.
 
  __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–183, § 301(f)(2)(C)][/us/pl/113/183/s301/f/2/C], inserted designations for pars. (1) to (9) and “The term” after each designation.
+
+    Subsec. (d). [Pub. L. 113–183, § 301(f)(2)(A)][/us/pl/113/183/s301/f/2/A], substituted “individual contestant or the parties have consented in a record or open court that the tribunal of the State may continue to exercise jurisdiction to modify its order,” for “individual contestant”.
+
+    Subsec. (e)(2)(A). [Pub. L. 113–183, § 301(f)(2)(B)][/us/pl/113/183/s301/f/2/B], substituted “individual contestant and the parties have not consented in a record or open court that the tribunal of the other State may continue to exercise jurisdiction to modify its order” for “individual contestant”.
 
     1997—Subsec. (f)(4). [Pub. L. 105–33, § 5554(1)][/us/pl/105/33/s5554/1], substituted “a court having jurisdiction over the parties shall issue a child support order, which must be recognized.” for “a court may issue a child support order, which must be recognized.”
 
@@ -172,6 +194,14 @@
     [Pub. L. 104–193, § 322(9)][/us/pl/104/193/s322/9], redesignated subsec. (g) as (h).
 
     Subsec. (i). [Pub. L. 104–193, § 322(13)][/us/pl/104/193/s322/13], added subsec. (i).
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–183, title III, § 301(f)(3)(B)][/us/pl/113/183/s301/f/3/B], Sept. 29, 2014, [128 Stat. 1945][/us/stat/128/1945], provided that:
+
+>     “(i) The amendments made by subparagraphs (A) and (B) of paragraph (2) \[amending this section\] shall take effect on the date on which the Hague Convention of 23 November 2007 on the International Recovery of Child Support and Other Forms of Family Maintenance enters into force for the United States.
+
+>     “(ii) The amendments made by subparagraph (C) of paragraph (2) \[amending this section\] shall take effect on the date of the enactment of this Act \[Sept. 29, 2014\].”
 
  __Effective Date of 1997 Amendment__ 
 
@@ -247,6 +277,13 @@
 [/us/stat/110/2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2221
 [/us/pl/105/33/s5554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5554
 [/us/stat/111/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F636
+[/us/pl/113/183/s301/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs301%2Ff%2F2
+[/us/stat/128/1944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1944
+[/us/pl/113/183/s301/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs301%2Ff%2F2%2FA
+[/us/stat/128/1944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1944
+[/us/pl/113/183/s301/f/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs301%2Ff%2F2%2FC
+[/us/pl/113/183/s301/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs301%2Ff%2F2%2FA
+[/us/pl/113/183/s301/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs301%2Ff%2F2%2FB
 [/us/pl/105/33/s5554/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5554%2F1
 [/us/pl/105/33/s5554/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5554%2F2
 [/us/pl/104/193/s322/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs322%2F1
@@ -263,6 +300,8 @@
 [/us/pl/104/193/s322/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs322%2F12
 [/us/pl/104/193/s322/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs322%2F9
 [/us/pl/104/193/s322/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs322%2F13
+[/us/pl/113/183/s301/f/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs301%2Ff%2F3%2FB
+[/us/stat/128/1945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1945
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/105/33/s5557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5557
