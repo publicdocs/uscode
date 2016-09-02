@@ -77,7 +77,23 @@
 
         The Secretary shall issue all determinations of allocations of production for units and communitization agreements within 120 days of a request for determination. If the Secretary fails to issue a determination within such 120-day period, the Secretary shall waive interest due on obligations subject to the determination until the end of the month following the month in which the determination is made.
 
-([Pub. L. 97–451, title I, § 111][/us/pl/97/451/s111], Jan. 12, 1983, [96 Stat. 2455][/us/stat/96/2455]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 104–185, § 6(a)][/us/pl/104/185/s6/a]–(e), (h)(1), Aug. 13, 1996, [110 Stat. 1712–1715][/us/stat/110/1712-1715]; [Pub. L. 104–200, § 1(3)][/us/pl/104/200/s1/3]–(6), Sept. 22, 1996, [110 Stat. 2421][/us/stat/110/2421].)
+([Pub. L. 97–451, title I, § 111][/us/pl/97/451/s111], Jan. 12, 1983, [96 Stat. 2455][/us/stat/96/2455]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 104–185, § 6(a)][/us/pl/104/185/s6/a]–(e), (h)(1), Aug. 13, 1996, [110 Stat. 1712–1715][/us/stat/110/1712-1715]; [Pub. L. 104–200, § 1(3)][/us/pl/104/200/s1/3]–(6), Sept. 22, 1996, [110 Stat. 2421][/us/stat/110/2421]; [Pub. L. 113–67, div. A, title III, § 305(a)][/us/pl/113/67/s305/a], Dec. 26, 2013, [127 Stat. 1183][/us/stat/127/1183].)
+
+ __Amendment of Subsection (i)__ 
+
+    [Pub. L. 113–67, div. A, title III, § 305][/us/pl/113/67/s305], Dec. 26, 2013, [127 Stat. 1183][/us/stat/127/1183], provided that, effective July 1, 2014, subsection (i) is amended by striking “(i) Upon” and all that follows through “For purposes” and inserting the following:
+
+    “(i) Limitation on interest
+
+    “(1) In general
+
+    “Interest shall not be paid on any excessive overpayment.
+
+    “(2) Excessive overpayment defined
+
+    “For purposes”.
+
+    See 2013 Amendment note below.
 
  __References in Text__ 
 
@@ -92,6 +108,8 @@
     Section is comprised of [section 111 of Pub. L. 97–451][/us/pl/97/451/s111]. Subsec. (g) of [section 111 of Pub. L. 97–451][/us/pl/97/451/s111] amended [section 191(a) of this title][/us/usc/t30/s191/a].
 
  __Amendments__ 
+
+    2013—Subsec. (i). [Pub. L. 113–67][/us/pl/113/67] inserted subsec. heading; designated first sentence as par. (1), inserted heading, and substituted “Interest shall not be paid on any excessive overpayment.” for “Upon a determination by the Secretary that an excessive overpayment (based upon all obligations of a lessee or its designee for a given reporting month) was made for the sole purpose of receiving interest, interest shall not be paid on the excessive amount of such overpayment.”; and designated second sentence as par. (2) and inserted heading.
 
     1996—[Pub. L. 104–185, § 6(h)(1)][/us/pl/104/185/s6/h/1], substituted “Royalty terms and conditions, interest, and penalties” for “Royalty interest, penalties and payments” in section catchline.
 
@@ -112,6 +130,12 @@
     Subsec. (l). [Pub. L. 104–185, § 6(e)][/us/pl/104/185/s6/e], added subsec. (l).
 
     1986—Subsecs. (a), (b), (d). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+
+ __Effective Date of 2013 Amendment__ 
+
+[Pub. L. 113–67, div. A, title III, § 305(b)][/us/pl/113/67/s305/b], Dec. 26, 2013, [127 Stat. 1183][/us/stat/127/1183], provided that: 
+
+> “The amendment made by subsection (a) \[amending this section\] shall take effect on July 1, 2014.”
 
  __Effective Date of 1996 Amendment__ 
 
@@ -152,6 +176,10 @@
 [/us/stat/110/1712-1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1712-1715
 [/us/pl/104/200/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F200%2Fs1%2F3
 [/us/stat/110/2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2421
+[/us/pl/113/67/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs305%2Fa
+[/us/stat/127/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1183
+[/us/pl/113/67/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs305
+[/us/stat/127/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1183
 [/us/pl/93/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F159
 [/us/stat/87/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F628
 [/us/usc/t15/s760g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs760g
@@ -164,6 +192,7 @@
 [/us/pl/97/451/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs111
 [/us/pl/97/451/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451%2Fs111
 [/us/usc/t30/s191/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs191%2Fa
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/104/185/s6/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs6%2Fh%2F1
 [/us/pl/104/185/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs6%2Fa
 [/us/pl/104/200/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F200%2Fs1%2F3
@@ -174,6 +203,8 @@
 [/us/pl/104/200/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F200%2Fs1%2F6
 [/us/pl/104/185/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs6%2Fe
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/113/67/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs305%2Fb
+[/us/stat/127/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1183
 [/us/pl/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185
 [/us/pl/104/185/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F185%2Fs11
 [/us/usc/t30/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1701

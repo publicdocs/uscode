@@ -19,9 +19,9 @@
 
         All money received from sales, bonuses, royalties including interest charges collected under the Federal Oil and Gas Royalty Management Act of 1982 \[[30 U.S.C. 1701][/us/usc/t30/s1701] et seq.\], and rentals of the public lands under the provisions of this chapter and the Geothermal Steam Act of 1970 \[[30 U.S.C. 1001][/us/usc/t30/s1001] et seq.\], shall be paid into the Treasury of the United States; and, subject to the provisions of subsection (b) of this section, 50 per centum thereof shall be paid by the Secretary of the Treasury to the State other than Alaska within the boundaries of which the leased lands or deposits are or were located; said moneys paid to any of such States on or after January 1, 1976, to be used by such State and its subdivisions, as the legislature of the State may direct giving priority to those subdivisions of the State socially or economically impacted by development of minerals leased under this chapter, for (i) planning, (ii) construction and maintenance of public facilities, and (iii) provision of public service; and excepting those from Alaska, 40 per centum thereof shall be paid into, reserved, appropriated, as part of the reclamation fund created by the Act of Congress known as the Reclamation Act, approved June 17, 1902, and of those from Alaska, 90 per centum thereof shall be paid to the State of Alaska for disposition by the legislature thereof: Provided, That all moneys which may accrue to the United States under the provisions of this chapter and the Geothermal Steam Act of 1970 from lands within the naval petroleum reserves shall be deposited in the Treasury as “miscellaneous receipts”, as provided by [section 7433(b) of title 10][/us/usc/t10/s7433/b]. All moneys received under the provisions of this chapter and the Geothermal Steam Act of 1970 not otherwise disposed of by this section shall be credited to miscellaneous receipts. Payments to States under this section with respect to any moneys received by the United States, shall be made not later than the last business day of the month in which such moneys are warranted by the United States Treasury to the Secretary as having been received, except for any portion of such moneys which is under challenge and placed in a suspense account pending resolution of a dispute. Such warrants shall be issued by the United States Treasury not later than 10 days after receipt of such moneys by the Treasury. Moneys placed in a suspense account which are determined to be payable to a State shall be made not later than the last business day of the month in which such dispute is resolved. Any such amount placed in a suspense account pending resolution shall bear interest until the dispute is resolved.
 
-    (b) __Administrative costs__ 
+    (b) __Deduction for administrative costs__ 
 
-        In determining the amount of payments to the States under this section, the amount of such payments shall not be reduced by any administrative or other costs incurred by the United States.
+        In determining the amount of payments to the States under this section, beginning in fiscal year 2014 and for each year thereafter, the amount of such payments shall be reduced by 2 percent for any administrative or other costs incurred by the United States in carrying out the program authorized by this chapter, and the amount of such reduction shall be deposited to miscellaneous receipts of the Treasury.
 
     (c) __Rentals received on or after__  __August 8, 2005__ 
 
@@ -37,7 +37,7 @@
 
         (3) For each of fiscal years 2006 through 2015, the Fund shall be available to the Secretary of the Interior for expenditure, without further appropriation and without fiscal year limitation, for the coordination and processing of oil and gas use authorizations on onshore Federal land under the jurisdiction of the Pilot Project offices identified in [section 15924(d) of title 42][/us/usc/t42/s15924/d].
 
-([Feb. 25, 1920, ch. 85, § 35][/us/act/1920-02-25/ch85/s35], [41 Stat. 450][/us/stat/41/450]; [May 27, 1947, ch. 83][/us/act/1947-05-27/ch83], [61 Stat. 119][/us/stat/61/119]; [Aug. 3, 1950, ch. 527][/us/act/1950-08-03/ch527], [64 Stat. 402][/us/stat/64/402]; [Pub. L. 85–88, § 2][/us/pl/85/88/s2], July 10, 1957, [71 Stat. 282][/us/stat/71/282]; [Pub. L. 85–508][/us/pl/85/508], §§ 6(k), 28(b), July 7, 1958, [72 Stat. 343][/us/stat/72/343], 351; [Pub. L. 94–273, § 6(2)][/us/pl/94/273/s6/2], Apr. 21, 1976, [90 Stat. 377][/us/stat/90/377]; [Pub. L. 94–377, § 9][/us/pl/94/377/s9], Aug. 4, 1976, [90 Stat. 1089][/us/stat/90/1089]; [Pub. L. 94–422, title III, § 301][/us/pl/94/422/s301], Sept. 28, 1976, [90 Stat. 1323][/us/stat/90/1323]; [Pub. L. 94–579, title III, § 317(a)][/us/pl/94/579/s317/a], Oct. 21, 1976, [90 Stat. 2770][/us/stat/90/2770]; [Pub. L. 97–451, title I][/us/pl/97/451], §§ 104(a), 111(g), Jan. 12, 1983, [96 Stat. 2451][/us/stat/96/2451], 2456; [Pub. L. 100–203, title V, § 5109][/us/pl/100/203/s5109], Dec. 22, 1987, [101 Stat. 1330–261][/us/stat/101/1330-261]; [Pub. L. 100–443, § 5(b)][/us/pl/100/443/s5/b], Sept. 22, 1988, [102 Stat. 1768][/us/stat/102/1768]; [Pub. L. 103–66, title X, § 10201][/us/pl/103/66/s10201], Aug. 10, 1993, [107 Stat. 407][/us/stat/107/407]; [Pub. L. 106–393, title V, § 503][/us/pl/106/393/s503], Oct. 30, 2000, [114 Stat. 1624][/us/stat/114/1624]; [Pub. L. 109–58, title III, § 365(g)][/us/pl/109/58/s365/g], Aug. 8, 2005, [119 Stat. 725][/us/stat/119/725].)
+([Feb. 25, 1920, ch. 85, § 35][/us/act/1920-02-25/ch85/s35], [41 Stat. 450][/us/stat/41/450]; [May 27, 1947, ch. 83][/us/act/1947-05-27/ch83], [61 Stat. 119][/us/stat/61/119]; [Aug. 3, 1950, ch. 527][/us/act/1950-08-03/ch527], [64 Stat. 402][/us/stat/64/402]; [Pub. L. 85–88, § 2][/us/pl/85/88/s2], July 10, 1957, [71 Stat. 282][/us/stat/71/282]; [Pub. L. 85–508][/us/pl/85/508], §§ 6(k), 28(b), July 7, 1958, [72 Stat. 343][/us/stat/72/343], 351; [Pub. L. 94–273, § 6(2)][/us/pl/94/273/s6/2], Apr. 21, 1976, [90 Stat. 377][/us/stat/90/377]; [Pub. L. 94–377, § 9][/us/pl/94/377/s9], Aug. 4, 1976, [90 Stat. 1089][/us/stat/90/1089]; [Pub. L. 94–422, title III, § 301][/us/pl/94/422/s301], Sept. 28, 1976, [90 Stat. 1323][/us/stat/90/1323]; [Pub. L. 94–579, title III, § 317(a)][/us/pl/94/579/s317/a], Oct. 21, 1976, [90 Stat. 2770][/us/stat/90/2770]; [Pub. L. 97–451, title I][/us/pl/97/451], §§ 104(a), 111(g), Jan. 12, 1983, [96 Stat. 2451][/us/stat/96/2451], 2456; [Pub. L. 100–203, title V, § 5109][/us/pl/100/203/s5109], Dec. 22, 1987, [101 Stat. 1330–261][/us/stat/101/1330-261]; [Pub. L. 100–443, § 5(b)][/us/pl/100/443/s5/b], Sept. 22, 1988, [102 Stat. 1768][/us/stat/102/1768]; [Pub. L. 103–66, title X, § 10201][/us/pl/103/66/s10201], Aug. 10, 1993, [107 Stat. 407][/us/stat/107/407]; [Pub. L. 106–393, title V, § 503][/us/pl/106/393/s503], Oct. 30, 2000, [114 Stat. 1624][/us/stat/114/1624]; [Pub. L. 109–58, title III, § 365(g)][/us/pl/109/58/s365/g], Aug. 8, 2005, [119 Stat. 725][/us/stat/119/725]; [Pub. L. 113–67, div. A, title III, § 302][/us/pl/113/67/s302], Dec. 26, 2013, [127 Stat. 1181][/us/stat/127/1181].)
 
  __References in Text__ 
 
@@ -54,6 +54,8 @@
     Provisions of subsec. (a) which authorized the payment of monies to the Territory of Alaska were omitted as superseded by the provisions authorizing the payment of monies to the State of Alaska.
 
  __Amendments__ 
+
+    2013—Subsec. (b). [Pub. L. 113–67][/us/pl/113/67] amended subsec. (b) generally. Prior to amendment, text read as follows: “In determining the amount of payments to the States under this section, the amount of such payments shall not be reduced by any administrative or other costs incurred by the United States.”
 
     2005—Subsec. (c). [Pub. L. 109–58][/us/pl/109/58] added subsec. (c).
 
@@ -162,6 +164,8 @@
 [/us/stat/114/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1624
 [/us/pl/109/58/s365/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs365%2Fg
 [/us/stat/119/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F725
+[/us/pl/113/67/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs302
+[/us/stat/127/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1181
 [/us/pl/97/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451
 [/us/stat/96/2447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2447
 [/us/usc/t30/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1701
@@ -176,6 +180,7 @@
 [/us/stat/52/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1252
 [/us/act/1956-08-10/ch1041/s49/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs49%2Fb
 [/us/stat/70A/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F640
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/106/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
