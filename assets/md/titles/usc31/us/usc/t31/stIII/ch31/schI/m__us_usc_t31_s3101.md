@@ -161,21 +161,161 @@ June 30, 1967, Pub. L. 90–39, § 2, 81 Stat. 99.  </td>
 
     [Pub. L. 98–34][/us/pl/98/34] substituted “$1,389,000,000,000” for “$400,000,000,000”.
 
+ __Default Prevention__ 
+
+[Pub. L. 113–46, div. B, § 1002][/us/pl/113/46/s1002], Oct. 17, 2013, [127 Stat. 566][/us/stat/127/566], provided that:
+
+>     “(a)  __Short Title__  __.—__ 
+
+>     This section may be cited as the ‘Default Prevention Act of 2013’.
+
+>     “(b)  __Certification__  __.—__ 
+
+>     Not later than 3 days after the date of enactment of this Act \[Oct. 17, 2013\], the President may submit to Congress a written certification that absent a suspension of the limit under [section 3101(b) of title 31][/us/usc/t31/s3101/b], United States Code, the Secretary of the Treasury would be unable to issue debt to meet existing commitments.
+
+>     “(c) __Suspension.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         [Section 3101(b) of title 31][/us/usc/t31/s3101/b], United States Code, shall not apply for the period beginning on the date on which the President submits to Congress a certification under subsection (b) and ending on February 7, 2014.
+
+>         “(2)  __Special rule relating to obligations issued during suspension period__  __.—__ 
+
+>         Effective February 8, 2014, the limitation in [section 3101(b) of title 31][/us/usc/t31/s3101/b], United States Code, as increased by section 3101A of such title and section 2 of the No Budget, No Pay Act of 2013 \[[Pub. L. 113–3][/us/pl/113/3]\] ([31 U.S.C. 3101][/us/usc/t31/s3101] note), is increased to the extent that—
+
+>             “(A) the face amount of obligations issued under chapter 31 of such title and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) outstanding on February 8, 2014, exceeds
+
+>             “(B) the face amount of such obligations outstanding on the date of enactment of this Act \[Oct. 17, 2013\].
+
+>             An obligation shall not be taken into account under subparagraph (A) unless the issuance of such obligation was necessary to fund a commitment incurred by the Federal Government that required payment before February 8, 2014.
+
+>     “(d)  __Disapproval__  __.—__ 
+
+>     If there is enacted into law within 22 calendar days after Congress receives a written certification by the President under subsection (b) a joint resolution disapproving the President’s exercise of authority to suspend the debt ceiling under subsection (e), effective on the date of enactment of the joint resolution, subsection (c) is amended to read as follows:    “|‘(c) Suspension.—
+
+>         “|‘(1) In general.—[Section 3101(b) of title 31][/us/usc/t31/s3101/b], United States Code, shall not apply for the period beginning on the date on which the President submits to Congress a certification under subsection (b) and ending on the date of enactment of the joint resolution pursuant to section 1002(e) of the Continuing Appropriations Act, 2014 \[[Pub. L. 113–46][/us/pl/113/46]; [31 U.S.C. 3101][/us/usc/t31/s3101] note\].
+
+>         “|‘(2) Special rule relating to obligations issued during suspension period.—Effective on the day after the date of enactment of the joint resolution pursuant to section 1002(e) of the Continuing Appropriations Act, 2014, the limitation in [section 3101(b) of title 31][/us/usc/t31/s3101/b], United States Code, as increased by section 3101A of such title and section 2 of the No Budget, No Pay Act of 2013 \[[Pub. L. 113–3][/us/pl/113/3]\] ([31 U.S.C. 3101][/us/usc/t31/s3101] note), is increased to the extent that—
+
+>         “|‘(A) the face amount of obligations issued under chapter 31 of such title and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) outstanding on the day after the date of enactment of the joint resolution pursuant to section 1002(e) of the Continuing Appropriations Act, 2014, exceeds
+
+>         “|‘(B) the face amount of such obligations outstanding on the date of enactment of this Act \[Oct. 17, 2013\].
+
+>         An obligation shall not be taken into account under subparagraph (A) unless the issuance of such obligation was necessary to fund a commitment incurred by the Federal Government that required payment before the day after the date of enactment of the joint resolution pursuant to section 1002(e) of the Continuing Appropriations Act, 2014 \[[Pub. L. 113–46][/us/pl/113/46]; [31 U.S.C. 3101][/us/usc/t31/s3101] note\].’.
+
+>     “(e) __Disapproval Process.—__ 
+
+>         “(1)  __Contents of joint resolution__  __.—__ 
+
+>         For the purpose of this subsection, the term ‘joint resolution’ means only a joint resolution—
+
+>             “(A) disapproving the President’s exercise of authority to suspend the debt limit that is introduced within 14 calendar days after the date on which the President submits to Congress the certification under subsection (b);
+
+>             “(B) which does not have a preamble;
+
+>             “(C) the title of which is only as follows: ‘Joint resolution relating to the disapproval of the President’s exercise of authority to suspend the debt limit, as submitted under section 1002(b) of the Continuing Appropriations Act, 2014 on \_\_\_\_\_\_’ (with the blank containing the date of such submission); and
+
+>             “(D) the matter after the resolving clause of which is only as follows: ‘That Congress disapproves of the President’s exercise of authority to suspend the debt limit, as exercised pursuant to the certification under section 1002(b) of the Continuing Appropriations Act, 2014.’.
+
+>         “(2) __Expedited consideration in house of representatives.—__ 
+
+>             “(A)  __Reporting and discharge__  __.—__ 
+
+>             Any committee of the House of Representatives to which a joint resolution is referred shall report it to the House of Representatives without amendment not later than 5 calendar days after the date of introduction of a joint resolution described in paragraph (1). If a committee fails to report the joint resolution within that period, the committee shall be discharged from further consideration of the joint resolution and the joint resolution shall be referred to the appropriate calendar.
+
+>             “(B)  __Proceeding to consideration__  __.—__ 
+
+>             After each committee authorized to consider a joint resolution reports it to the House of Representatives or has been discharged from its consideration, it shall be in order, not later than the sixth day after introduction of a joint resolution under paragraph (1), to move to proceed to consider the joint resolution in the House of Representatives. All points of order against the motion are waived. Such a motion shall not be in order after the House of Representatives has disposed of a motion to proceed on a joint resolution. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. The motion shall not be debatable. A motion to reconsider the vote by which the motion is disposed of shall not be in order.
+
+>             “(C)  __Consideration__  __.—__ 
+
+>             The joint resolution shall be considered as read. All points of order against the joint resolution and against its consideration are waived. The previous question shall be considered as ordered on the joint resolution to its passage without intervening motion except 2 hours of debate equally divided and controlled by the proponent and an opponent. A motion to reconsider the vote on passage of the joint resolution shall not be in order.
+
+>         “(3) __Expedited procedure in senate.—__ 
+
+>             “(A)  __Reconvening__  __.—__ 
+
+>             Upon receipt of a certification under subsection (b), if the Senate would otherwise be adjourned, the majority leader of the Senate, after consultation with the minority leader of the Senate, shall notify the Members of the Senate that, pursuant to this subsection, the Senate shall convene not later than the thirteenth calendar day after receipt of such certification.
+
+>             “(B)  __Placement on calendar__  __.—__ 
+
+>             Upon introduction in the Senate, the joint resolution shall be immediately placed on the calendar.
+
+>             “(C) __Floor consideration.—__ 
+
+>                 “(i)  __In general__  __.—__ 
+
+>                 Notwithstanding rule XXII of the Standing Rules of the Senate, it is in order at any time during the period beginning on the day after the date on which Congress receives a certification under subsection (b) and ending on the 6th day after the date of introduction of a joint resolution under paragraph (1) (even if a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the joint resolution, and all points of order against the joint resolution (and against consideration of the joint resolution) are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the joint resolution is agreed to, the joint resolution shall remain the unfinished business until disposed of.
+
+>                 “(ii)  __Consideration__  __.—__ 
+
+>                 Consideration of the joint resolution, and on all debatable motions and appeals in connection therewith, shall be limited to not more than 10 hours, which shall be divided equally between the majority and minority leaders or their designees. A motion further to limit debate is in order and not debatable. An amendment to, or a motion to postpone, or a motion to proceed to the consideration of other business, or a motion to recommit the joint resolution is not in order.
+
+>                 “(iii)  __Vote on passage__  __.—__ 
+
+>                 If the Senate has voted to proceed to a joint resolution, the vote on passage of the joint resolution shall occur immediately following the conclusion of consideration of the joint resolution, and a single quorum call at the conclusion of the debate if requested in accordance with the rules of the Senate.
+
+>                 “(iv)  __Rulings of the chair on procedure__  __.—__ 
+
+>                 Appeals from the decisions of the Chair relating to the application of the rules of the Senate, as the case may be, to the procedure relating to a joint resolution shall be decided without debate.
+
+>         “(4)  __Amendment not in order__  __.—__ 
+
+>         A joint resolution of disapproval considered pursuant to this subsection shall not be subject to amendment in either the House of Representatives or the Senate.
+
+>         “(5) __Coordination with action by other house.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             If, before passing the joint resolution, one House receives from the other a joint resolution—
+
+>                 “(i) the joint resolution of the other House shall not be referred to a committee; and
+
+>                 “(ii) the procedure in the receiving House shall be the same as if no joint resolution had been received from the other House, except that the vote on passage shall be on the joint resolution of the other House.
+
+>             “(B)  __Treatment of joint resolution of other house__  __.—__ 
+
+>             If the Senate fails to introduce or consider a joint resolution under this subsection, the joint resolution of the House of Representatives shall be entitled to expedited floor procedures under this subsection.
+
+>             “(C)  __Treatment of companion measures__  __.—__ 
+
+>             If, following passage of the joint resolution in the Senate, the Senate then receives the companion measure from the House of Representatives, the companion measure shall not be debatable.
+
+>             “(D) __Consideration after passage.—__ 
+
+>                 “(i)  __In general__  __.—__ 
+
+>                 If Congress passes a joint resolution, the period beginning on the date the President is presented with the joint resolution and ending on the date the President signs, allows to become law without his signature, or vetoes and returns the joint resolution (but excluding days when either House is not in session) shall be disregarded in computing the calendar day period described in subsection (d).
+
+>                 “(ii)  __Debate on a veto message__  __.—__ 
+
+>                 Debate on a veto message in the Senate under this subsection shall be 1 hour equally divided between the majority and minority leaders or their designees.
+
+>         “(6)  __Rules of house of representatives and senate__  __.—__ 
+
+>         This subsection is enacted by Congress—
+
+>             “(A) as an exercise of the rulemaking power of the Senate and House of Representatives, respectively, and as such it is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of a joint resolution, and it supersedes other rules only to the extent that it is inconsistent with such rules; and
+
+>             “(B) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.”
+
  __Temporary Suspension of Debt Ceiling__ 
 
 [Pub. L. 113–3, § 2][/us/pl/113/3/s2], Feb. 4, 2013, [127 Stat. 51][/us/stat/127/51], provided that:
 
->     “(a) __Suspension.—__ 
+>     “(a)  __Suspension__  __.—__ 
 
 >     [Section 3101(b) of title 31][/us/usc/t31/s3101/b], United States Code, shall not apply for the period beginning on the date of the enactment of this Act \[Feb. 4, 2013\] and ending on May 18, 2013.
 
->     “(b) __Special Rule Relating to Obligations Issued During Suspension Period.—__ 
+>     “(b)  __Special Rule Relating to Obligations Issued During Suspension Period__  __.—__ 
 
 >     Effective May 19, 2013, the limitation in [section 3101(b) of title 31][/us/usc/t31/s3101/b], United States Code, as increased by section 3101A of such title, is increased to the extent that—
 
 >         “(1) the face amount of obligations issued under chapter 31 of such title and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) outstanding on May 19, 2013, exceeds
 
->         “(2) the face amount of such obligations outstanding on the date of the enactment of this Act.    “An obligation shall not be taken into account under paragraph (1) unless the issuance of such obligation was necessary to fund a commitment incurred by the Federal Government that required payment before May 19, 2013.”
+>         “(2) the face amount of such obligations outstanding on the date of the enactment of this Act.
+
+>         An obligation shall not be taken into account under paragraph (1) unless the issuance of such obligation was necessary to fund a commitment incurred by the Federal Government that required payment before May 19, 2013.”
 
  __Treatment of Certain Obligations of United States__ 
 
@@ -392,6 +532,21 @@ Provisions requiring the Secretary of the Treasury to restore certain Federal tr
 [/us/pl/98/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F342
 [/us/pl/98/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F161
 [/us/pl/98/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F34
+[/us/pl/113/46/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F46%2Fs1002
+[/us/stat/127/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F566
+[/us/usc/t31/s3101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101%2Fb
+[/us/usc/t31/s3101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101%2Fb
+[/us/usc/t31/s3101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101%2Fb
+[/us/pl/113/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F3
+[/us/usc/t31/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101
+[/us/usc/t31/s3101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101%2Fb
+[/us/pl/113/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F46
+[/us/usc/t31/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101
+[/us/usc/t31/s3101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101%2Fb
+[/us/pl/113/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F3
+[/us/usc/t31/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101
+[/us/pl/113/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F46
+[/us/usc/t31/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101
 [/us/pl/113/3/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F3%2Fs2
 [/us/stat/127/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F51
 [/us/usc/t31/s3101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101%2Fb

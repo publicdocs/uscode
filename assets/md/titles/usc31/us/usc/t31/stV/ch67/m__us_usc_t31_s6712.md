@@ -15,11 +15,11 @@
 
 ## § 6712. Discrimination proceedings
 
-    (a) __Notice of Noncompliance.—__ 
+    (a)  __Notice of Noncompliance__  __.—__ 
 
     By the 10th day after the Secretary makes a finding of discrimination or receives a holding of discrimination about a unit of general local government, the Secretary shall submit a notice of noncompliance to the government. The notice shall state the basis of the finding or holding.
 
-    (b) __Informal Presentation of Evidence.—__ 
+    (b)  __Informal Presentation of Evidence__  __.—__ 
 
     A unit of general local government may present evidence informally to the Secretary within 30 days after the government receives a notice of noncompliance from the Secretary. Except as provided in subsection (e), the government may present evidence on whether—
 
@@ -29,7 +29,7 @@
 
         (3) any part of that program or activity has been paid for with a payment received under this chapter.
 
-    (c) __Temporary Suspension of Payments.—__ 
+    (c)  __Temporary Suspension of Payments__  __.—__ 
 
     By the end of the 30-day period under subsection (b), the Secretary shall decide whether the unit of general local government has not complied with section 6711(a) or (b), unless the government has entered into a compliance agreement under section 6714. If the Secretary decides that the government has not complied, the Secretary shall notify the government of the decision and shall suspend payments to the government under this chapter unless, within 10 days after the government receives notice of the decision, the government—
 
@@ -39,11 +39,11 @@
 
     (d) __Administrative Review of Suspensions.—__ 
 
-        (1) __Proceeding.—__ 
+        (1)  __Proceeding__  __.—__ 
 
         A proceeding requested under subsection (c)(2) shall begin by the 30th day after the Secretary receives a request for the proceeding. The proceeding shall be before an administrative law judge appointed under [section 3105 of title 5][/us/usc/t5/s3105], United States Code. By the 30th day after the beginning of the proceeding, the judge shall issue a preliminary decision based on the record at the time on whether the unit of general local government is likely to prevail in showing compliance with section 6711(a) or (b).
 
-        (2) __Decision.—__ 
+        (2)  __Decision__  __.—__ 
 
         If the administrative law judge decides at the end of a proceeding under paragraph (1) that the unit of general local government has—
 
@@ -51,11 +51,11 @@
 
             (B) complied with section 6711(a) or (b), a suspension under section 6713(a)(1)(A) shall be discontinued promptly.
 
-        (3) __Likelihood of prevailing.—__ 
+        (3)  __Likelihood of prevailing__  __.—__ 
 
         An administrative law judge may not issue a preliminary decision that the government is not likely to prevail if the judge has issued a decision described in paragraph (2)(A).
 
-    (e) __Basis for Review.—__ 
+    (e)  __Basis for Review__  __.—__ 
 
     In a proceeding under subsections (b) through (d) on a program or activity of a unit of general local government about which a holding of discrimination has been made, the Secretary or administrative law judge may consider only whether a payment under this chapter was used to pay for any part of the program or activity. The holding of discrimination is conclusive. If the holding is reversed by an appellate court, the Secretary or judge shall end the proceeding.
 

@@ -45,7 +45,7 @@
 
     (c) This section or a regulation under this section does not apply to a common carrier of passengers when a passenger possesses a monetary instrument, or to a common carrier of goods if the shipper does not declare the instrument.
 
-    (d) __Cumulation of Closely Related Events.—__ 
+    (d)  __Cumulation of Closely Related Events__  __.—__ 
 
     The Secretary of the Treasury may prescribe regulations under this section defining the term “at one time” for purposes of subsection (a). Such regulations may permit the cumulation of closely related events in order that such events may collectively be considered to occur at one time for the purposes of subsection (a).
 

@@ -15,7 +15,7 @@
 
 ## § 5324. Structuring transactions to evade reporting requirement prohibited
 
-    (a) __Domestic Coin and Currency Transactions Involving Financial Institutions.—__ 
+    (a)  __Domestic Coin and Currency Transactions Involving Financial Institutions__  __.—__ 
 
     No person shall, for the purpose of evading the reporting requirements of section 5313(a) or 5325 or any regulation prescribed under any such section, the reporting or recordkeeping requirements imposed by any order issued under section 5326, or the recordkeeping requirements imposed by any regulation prescribed under section 21 of the Federal Deposit Insurance Act or [section 123 of Public Law 91–508][/us/pl/91/508/s123]—
 
@@ -25,7 +25,7 @@
 
         (3) structure or assist in structuring, or attempt to structure or assist in structuring, any transaction with one or more domestic financial institutions.
 
-    (b) __Domestic Coin and Currency Transactions Involving Nonfinancial Trades or Businesses.—__ 
+    (b)  __Domestic Coin and Currency Transactions Involving Nonfinancial Trades or Businesses__  __.—__ 
 
     No person shall, for the purpose of evading the report requirements of section 5331 or any regulation prescribed under such section—
 
@@ -35,7 +35,7 @@
 
         (3) structure or assist in structuring, or attempt to structure or assist in structuring, any transaction with 1 or more nonfinancial trades or businesses.
 
-    (c) __International Monetary Instrument Transactions.—__ 
+    (c)  __International Monetary Instrument Transactions__  __.—__ 
 
     No person shall, for the purpose of evading the reporting requirements of section 5316—
 
@@ -47,11 +47,11 @@
 
     (d) __Criminal Penalty.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Whoever violates this section shall be fined in accordance with title 18, United States Code, imprisoned for not more than 5 years, or both.
 
-        (2) __Enhanced penalty for aggravated cases.—__ 
+        (2)  __Enhanced penalty for aggravated cases__  __.—__ 
 
         Whoever violates this section while violating another law of the United States or as part of a pattern of any illegal activity involving more than $100,000 in a 12-month period shall be fined twice the amount provided in subsection (b)(3) or (c)(3) (as the case may be) of [section 3571 of title 18][/us/usc/t18/s3571], United States Code, imprisoned for not more than 10 years, or both.
 

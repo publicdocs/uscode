@@ -293,47 +293,47 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 [Pub. L. 107–303, title III, § 302(a)][/us/pl/107/303/s302/a], Nov. 27, 2002, [116 Stat. 2360][/us/stat/116/2360], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 ([31 U.S.C. 1113][/us/usc/t31/s1113] note; [Public Law 104–66][/us/pl/104/66]) does not apply to any report required to be submitted under any of the following provisions of law:
 
->         “(1) __Effects of pollution on estuaries of the united states.—__ 
+>         “(1)  __Effects of pollution on estuaries of the united states__  __.—__ 
 
 >         Section 104(n)(3) of the Federal Water Pollution Control Act ([33 U.S.C. 1254(n)(3)][/us/usc/t33/s1254/n/3]).
 
->         “(2) __Implementation of great lakes water quality agreement of 1978.—__ 
+>         “(2)  __Implementation of great lakes water quality agreement of 1978__  __.—__ 
 
 >         Section 118(c)(10) of the Federal Water Pollution Control Act ([33 U.S.C. 1268(c)(10)][/us/usc/t33/s1268/c/10]).
 
->         “(3) __Comprehensive conservation and management plan for long island sound.—__ 
+>         “(3)  __Comprehensive conservation and management plan for long island sound__  __.—__ 
 
 >         Section 119(c)(7) of the Federal Water Pollution Control Act ([33 U.S.C. 1269(c)(7)][/us/usc/t33/s1269/c/7]).
 
->         “(4) __Level b plan on all river basins.—__ 
+>         “(4)  __Level b plan on all river basins__  __.—__ 
 
 >         Section 209(b) of the Federal Water Pollution Control Act ([33 U.S.C. 1289(b)][/us/usc/t33/s1289/b]).
 
->         “(5) __State reports on water quality of all navigable waters.—__ 
+>         “(5)  __State reports on water quality of all navigable waters__  __.—__ 
 
 >         Section 305(b) of the Federal Water Pollution Control Act ([33 U.S.C. 1315(b)][/us/usc/t33/s1315/b]).
 
->         “(6) __Exemptions from water pollution control requirements for executive agencies.—__ 
+>         “(6)  __Exemptions from water pollution control requirements for executive agencies__  __.—__ 
 
 >         Section 313(a) of the Federal Water Pollution Control Act ([33 U.S.C. 1323(a)][/us/usc/t33/s1323/a]).
 
->         “(7) __Status of water quality in united states lakes.—__ 
+>         “(7)  __Status of water quality in united states lakes__  __.—__ 
 
 >         Section 314(a) of the Federal Water Pollution Control Act ([33 U.S.C. 1324(a)][/us/usc/t33/s1324/a]).
 
->         “(8) __National estuary program activities.—__ 
+>         “(8)  __National estuary program activities__  __.—__ 
 
 >         Section 320(j)(2) of the Federal Water Pollution Control Act ([33 U.S.C. 1330(j)(2)][/us/usc/t33/s1330/j/2]).
 
->         “(9) __Reports on contracts entered into relating to procurement from violators of water quality standards.—__ 
+>         “(9)  __Reports on contracts entered into relating to procurement from violators of water quality standards__  __.—__ 
 
 >         Section 508(e) of the Federal Water Pollution Control Act ([33 U.S.C. 1368(e)][/us/usc/t33/s1368/e]).
 
->         “(10) __National requirements and costs of water pollution control.—__ 
+>         “(10)  __National requirements and costs of water pollution control__  __.—__ 
 
 >         Section 516 of the Federal Water Pollution Control Act ([33 U.S.C. 1375][/us/usc/t33/s1375]).”
 
@@ -341,27 +341,27 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 > “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[[Pub. L. 104–66][/us/pl/104/66]\] ([31 U.S.C. 1113][/us/usc/t31/s1113] note) does not apply to any report required to be submitted under any of the following provisions of law:
 
->     “(1) __Coast guard operations and expenditures.—__ 
+>     “(1)  __Coast guard operations and expenditures__  __.—__ 
 
 >     [Section 651 of title 14][/us/usc/t14/s651], United States Code.
 
->     “(2) __Summary of marine casualties reported during prior fiscal year.—__ 
+>     “(2)  __Summary of marine casualties reported during prior fiscal year__  __.—__ 
 
 >     [Section 6307(c) of title 46][/us/usc/t46/s6307/c], United States Code.
 
->     “(3) __User fee activities and amounts.—__ 
+>     “(3)  __User fee activities and amounts__  __.—__ 
 
 >     [Section 664 of title 46][/us/usc/t46/s664] \[14\], United States Code.
 
->     “(4) __Conditions of public ports of the united states.—__ 
+>     “(4)  __Conditions of public ports of the united states__  __.—__ 
 
 >     [Section 308(c) of title 49][/us/usc/t49/s308/c], United States Code.
 
->     “(5) __Activities of federal maritime commission.—__ 
+>     “(5)  __Activities of federal maritime commission__  __.—__ 
 
 >     Section 208 of the Merchant Marine Act, 1936 (\[former\] 46 App. U.S.C. 1118) \[see [46 U.S.C. 306(a)][/us/usc/t46/s306/a], 50111(a)\].
 
->     “(6) __Activities of interagency coordinating committee on oil pollution research.—__ 
+>     “(6)  __Activities of interagency coordinating committee on oil pollution research__  __.—__ 
 
 >     Section 7001(e) of the Oil Pollution Act of 1990 ([33 U.S.C. 2761(e)][/us/usc/t33/s2761/e]).”
 
@@ -923,11 +923,11 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 >     “(a) __Termination.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to the provisions of paragraph (2) of this subsection and subsection (d), each provision of law requiring the submittal to Congress (or any committee of the Congress) of any annual, semiannual, or other regular periodic report specified on the list described under subsection (c) shall cease to be effective, with respect to that requirement, May 15, 2000.
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         The provisions of paragraph (1) shall not apply to any report required under—
 
@@ -935,15 +935,15 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 >             “(B) the Chief Financial Officers Act of 1990 ([Public Law 101–576][/us/pl/101/576]) \[see Short Title of 1990 Amendment note set out under [section 501 of this title][/us/usc/t31/s501]\], including provisions enacted by the amendments made by that Act.
 
->     “(b) __Identification of Wasteful Reports.—__ 
+>     “(b)  __Identification of Wasteful Reports__  __.—__ 
 
 >     The President shall include in the first annual budget submitted pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code, after the date of enactment of this Act \[Dec. 21, 1995\] a list of reports that the President has determined are unnecessary or wasteful and the reasons for such determination.
 
->     “(c) __List of Reports.—__ 
+>     “(c)  __List of Reports__  __.—__ 
 
 >     The list referred to under subsection (a) is the list prepared by the Clerk of the House of Representatives for the first session of the One Hundred Third Congress under clause 2 of rule III \[now cl. 2(b) of rule II\] of the Rules of the House of Representatives (House Document No. 103–7).
 
->     “(d) __Specific Reports Exempted.—__ 
+>     “(d)  __Specific Reports Exempted__  __.—__ 
 
 >     Subsection (a)(1) shall not apply to any report required under—
 
@@ -1017,19 +1017,19 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 [Pub. L. 103–356, title III, § 301][/us/pl/103/356/s301], Oct. 13, 1994, [108 Stat. 3412][/us/stat/108/3412], provided that:
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     The purpose of this title is to improve the efficiency of executive branch performance in implementing statutory requirements for reports to Congress and committees of Congress such as the elimination or consolidation of duplicative or obsolete reporting requirements and adjustments to deadlines that shall provide for more efficient workload distribution or improve the quality of reports.
 
->     “(b) __Authority of the Director.—__ 
+>     “(b)  __Authority of the Director__  __.—__ 
 
 >     The Director of the Office of Management and Budget may publish annually in the budget submitted by the President to the Congress, recommendations for consolidation, elimination, or adjustments in frequency and due dates of statutorily required periodic reports to the Congress or committees of Congress. For each recommendation, the Director shall provide an individualized statement of the reasons that support the recommendation. In addition, for each report for which a recommendation is made, the Director shall state with specificity the exact consolidation, elimination, or adjustment in frequency or due date that is recommended.
 
->     “(c) __Recommendations.—__ 
+>     “(c)  __Recommendations__  __.—__ 
 
 >     The Director’s recommendations shall be consistent with the purpose stated in subsection (a).
 
->     “(d) __Consultation.—__ 
+>     “(d)  __Consultation__  __.—__ 
 
 >     Before the publication of the recommendations under subsection (b), the Director or his designee shall consult with the appropriate congressional committees concerning the recommendations.”
 

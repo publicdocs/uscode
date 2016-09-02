@@ -15,21 +15,21 @@
 
 ## § 6708. Adjustments of local government allocations
 
-    (a) __Maximum Amount.—__ 
+    (a)  __Maximum Amount__  __.—__ 
 
     The amount allocated to a unit of general local government for a payment period may not exceed the adjusted taxes imposed by the unit of general local government as determined under section 6705(b)(3). <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be section “6705(c)(3).” </sup></sup>  Amounts in excess of adjusted taxes shall be paid to the Governor of the State in which the unit of local government is located.
 
-    (b) __De Minimis Allocations to Units of General Local Government.—__ 
+    (b)  __De Minimis Allocations to Units of General Local Government__  __.—__ 
 
     If the amount allocated to a unit of general local government (except an Indian tribe or an Alaskan native  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be capitalized. </sup></sup>  village) for a payment period would be less than $5,000 but for this subsection or is waived by the governing authority of the unit of general local government, the Secretary shall pay the amount to the Governor of the State in which the unit is located.
 
-    (c) __Use of Payments to States.—__ 
+    (c)  __Use of Payments to States__  __.—__ 
 
     The Governor of a State shall use all amounts paid to the Governor under subsections (a) and (b) for programs described in section 6701(a)(2) in areas of the State where are located the units of general local government with respect to which amounts are paid under subsection (b).
 
     (d) __De Minimis Allocations to Indian Tribes and Alaskan Native Villages.—__ 
 
-        (1) __Aggregation of de minimis allocations.—__ 
+        (1)  __Aggregation of de minimis allocations__  __.—__ 
 
         If the amount allocated to an Indian tribe or an Alaskan native 2 village for a payment period would be less than $5,000 but for this subsection or is waived by the chief elected official of the tribe or village, the amount—
 
@@ -37,7 +37,7 @@
 
             (B) shall be aggregated with other such amounts and available for use by the Attorney General under paragraph (2).
 
-        (2) __Use of aggregated amounts.—__ 
+        (2)  __Use of aggregated amounts__  __.—__ 
 
         Amounts aggregated under paragraph (1) for a payment period shall be available for use by the Attorney General to make grants in the payment period on a competitive basis to Indian Tribes  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should not be capitalized. </sup></sup>  and Alaskan native 2 village  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “villages”. </sup></sup>  for—
 

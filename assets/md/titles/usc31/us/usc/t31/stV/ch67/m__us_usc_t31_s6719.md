@@ -15,7 +15,7 @@
 
 ## § 6719. Reports
 
-    (a) __Reports by Secretary to Congress.—__ 
+    (a)  __Reports by Secretary to Congress__  __.—__ 
 
     Before June 2 of each year prior to 2002, the Secretary personally shall report to the Congress on—
 
@@ -35,7 +35,7 @@
 
     (b) __Reports by Units of General Local Government to Secretary.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         At the end of each fiscal year, each unit of general local government which received a payment under this chapter for the fiscal year shall submit a report to the Secretary. The report shall be submitted in the form and at a time prescribed by the Secretary and shall be available to the public for inspection. The report shall state—
 
@@ -45,7 +45,7 @@
 
             (C) the differences between the actual and proposed use of the payment.
 
-        (2) __Availability of report.—__ 
+        (2)  __Availability of report__  __.—__ 
 
         The Secretary shall provide a copy of a report submitted under paragraph (1) by a unit of general local government to the chief executive officer of the State in which the government is located. The Secretary shall provide the report in the manner and form prescribed by the Secretary.
 

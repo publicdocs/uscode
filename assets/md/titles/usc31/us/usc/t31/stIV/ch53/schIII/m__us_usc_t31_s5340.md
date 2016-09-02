@@ -17,11 +17,11 @@
 
     For purposes of this subchapter, the following definitions shall apply:
 
-    (1) __Department of the treasury law enforcement organizations.—__ 
+    (1)  __Department of the treasury law enforcement organizations__  __.—__ 
 
     The term “Department of the Treasury law enforcement organizations” has the meaning given to such term in section 9703(p)(1).
 
-    (2) __Money laundering and related financial crime.—__ 
+    (2)  __Money laundering and related financial crime__  __.—__ 
 
     The term “money laundering and related financial crime”—
 
@@ -29,11 +29,11 @@
 
         (B) has the meaning given that term (or the term used for an equivalent offense) under State and local criminal statutes pertaining to the movement of illicit cash or cash equivalent proceeds.
 
-    (3) __Secretary.—__ 
+    (3)  __Secretary__  __.—__ 
 
     The term “Secretary” means the Secretary of the Treasury.
 
-    (4) __Attorney general.—__ 
+    (4)  __Attorney general__  __.—__ 
 
     The term “Attorney General” means the Attorney General of the United States.
 

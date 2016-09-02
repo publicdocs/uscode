@@ -17,35 +17,35 @@
 
     (a) __Office of Terrorism and Financial Intelligence.—__ 
 
-        (1) __Establishment.—__ 
+        (1)  __Establishment__  __.—__ 
 
         There is established within the Department of the Treasury the Office of Terrorism and Financial Intelligence (in this section referred to as “OTFI”), which shall be the successor to any such office in existence on the date of enactment of this section.
 
         (2) __Leadership.—__ 
 
-            (A) __Undersecretary.—__ 
+            (A)  __Undersecretary__  __.—__ 
 
             There is established within the Department of the Treasury, the Office of the Undersecretary for Terrorism and Financial Crimes, who shall serve as the head of the OTFI, and shall report to the Secretary of the Treasury through the Deputy Secretary of the Treasury. The Office of the Undersecretary for Terrorism and Financial Crimes shall be the successor to the Office of the Undersecretary for Enforcement.
 
-            (B) __Appointment.—__ 
+            (B)  __Appointment__  __.—__ 
 
             The Undersecretary for Terrorism and Financial Crimes shall be appointed by the President, by and with the advice and consent of the Senate.
 
         (3) __Assistant secretary for terrorist financing.—__ 
 
-            (A) __Establishment.—__ 
+            (A)  __Establishment__  __.—__ 
 
             There is established within the OTFI the position of Assistant Secretary for Terrorist Financing.
 
-            (B) __Appointment.—__ 
+            (B)  __Appointment__  __.—__ 
 
             The Assistant Secretary for Terrorist Financing shall be appointed by the President, by and with the advice and consent of the Senate.
 
-            (C) __Duties.—__ 
+            (C)  __Duties__  __.—__ 
 
             The Assistant Secretary for Terrorist Financing shall be responsible for formulating and coordinating the counter terrorist financing and anti-money laundering efforts of the Department of the Treasury, and shall report directly to the Undersecretary for Terrorism and Financial Crimes.
 
-        (4) __Functions.—__ 
+        (4)  __Functions__  __.—__ 
 
         The functions of the OTFI include providing policy, strategic, and operational direction to the Department on issues relating to—
 
@@ -63,11 +63,11 @@
 
             (G) the security functions and programs of the Department of the Treasury.
 
-        (5) __Reports to congress on proposed measures.—__ 
+        (5)  __Reports to congress on proposed measures__  __.—__ 
 
         The Undersecretary for Terrorism and Financial Crimes and the Assistant Secretary for Terrorist Financing shall report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives not later than 72 hours after proposing by rule, regulation, order, or otherwise, any measure to reorganize the structure of the Department for combatting money laundering and terrorist financing, before any such proposal becomes effective.
 
-        (6) __Other offices within otfi.—__ 
+        (6)  __Other offices within otfi__  __.—__ 
 
         Notwithstanding any other provision of law, the following offices of the Department of the Treasury shall be within the OTFI:
 
@@ -85,25 +85,25 @@
 
         (7) __FinCEN.—__ 
 
-            (A) __Reporting to undersecretary.—__ 
+            (A)  __Reporting to undersecretary__  __.—__ 
 
             The Financial Crimes Enforcement Network (in this section referred to as “FinCEN”), a bureau of the Department of the Treasury, shall report to the Undersecretary for Terrorism and Financial Crimes. The Undersecretary for Terrorism and Financial Crimes may not redelegate its reporting authority over FinCEN.
 
-            (B) __Office of compliance.—__ 
+            (B)  __Office of compliance__  __.—__ 
 
             There is established within FinCEN, an Office of Compliance.
 
     (b) __Office of Intelligence and Analysis.—__ 
 
-        (1) __Assistant secretary for intelligence and analysis.—__ 
+        (1)  __Assistant secretary for intelligence and analysis__  __.—__ 
 
         The Assistant Secretary for Intelligence and Analysis shall head the OIA.
 
-        (2) __Responsibilities.—__ 
+        (2)  __Responsibilities__  __.—__ 
 
         The OIA shall be responsible for the receipt, analysis, collation, and dissemination of intelligence and counterintelligence information related to the operations and responsibilities of the entire Department of the Treasury, including all components and bureaus of the Department.
 
-        (3) __Primary functions.—__ 
+        (3)  __Primary functions__  __.—__ 
 
         The primary functions of the OIA are—
 
@@ -111,7 +111,7 @@
 
             (B) to provide intelligence support to senior officials of the Department on a wide range of international economic and other relevant issues.
 
-        (4) __Other functions and duties.—__ 
+        (4)  __Other functions and duties__  __.—__ 
 
         The OIA shall—
 
@@ -121,23 +121,23 @@
 
             (C) represent the Department in various intelligence related activities.
 
-        (5) __Duties of the assistant secretary.—__ 
+        (5)  __Duties of the assistant secretary__  __.—__ 
 
         The Assistant Secretary for Intelligence and Analysis shall serve as the Senior Officer Intelligence Community, and shall represent the Department in intelligence community fora, including the National Foreign Intelligence Board committees and the Intelligence Community Management Staff.
 
-    (c) __Delegation.—__ 
+    (c)  __Delegation__  __.—__ 
 
     To the extent that any authorities, powers, and responsibilities over enforcement matters delegated to the Undersecretary for Terrorism and Financial Crimes, or the positions of Assistant Secretary for Terrorism and Financial Crimes, Assistant Secretary for Enforcement and Operations, or Deputy Assistant Secretary for Terrorist Financing and Financial Crimes, have not been transferred to the Department of Homeland Security, the Department of Justice, or the Assistant Secretary for Tax Policy (related to the customs revenue functions of the Bureau of Alcohol and Tobacco Tax and Trade), those remaining authorities, powers, and responsibilities are delegated to the Undersecretary for Terrorism and Financial Crimes.
 
-    (d) __Designation as Enforcement Organization.—__ 
+    (d)  __Designation as Enforcement Organization__  __.—__ 
 
     The Office of Terrorism and Financial Intelligence (including any components thereof) is designated as a law enforcement organization of the Department of the Treasury for purposes of [section 9703 of title 31][/us/usc/t31/s9703], United States Code, and other relevant authorities.
 
-    (e) __Use of Existing Resources.—__ 
+    (e)  __Use of Existing Resources__  __.—__ 
 
     The Secretary may employ personnel, facilities, and other Department of the Treasury resources available to the Secretary on the date of enactment of this section in carrying out this section, except as otherwise prohibited by law.
 
-    (f) __References.—__ 
+    (f)  __References__  __.—__ 
 
     References in this section to the “Secretary”, “Undersecretary”, “Deputy Secretary”, “Deputy Assistant Secretary”, “Office”, “Assistant Secretary”, and “Department” are references to positions and offices of the Department of the Treasury, unless otherwise specified.
 

@@ -15,11 +15,11 @@
 
 ## § 6702. Local Government Fiscal Assistance Fund
 
-    (a) __Administration of Fund.—__ 
+    (a)  __Administration of Fund__  __.—__ 
 
     The Department of the Treasury has a Local Government Fiscal Assistance Fund, which consists of amounts appropriated to the Fund.
 
-    (b) __Authorization of Appropriations.—__ 
+    (b)  __Authorization of Appropriations__  __.—__ 
 
     There are authorized to be appropriated to the Fund—
 
@@ -35,7 +35,7 @@
 
         Such sums are to remain available until expended.
 
-    (c) __Administrative Costs.—__ 
+    (c)  __Administrative Costs__  __.—__ 
 
     Up to 2.5 percent of the amount authorized to be appropriated under subsection (b) is authorized to be appropriated for the period fiscal year 1995 through fiscal year 2000 to be available for administrative costs by the Secretary in furtherance of the purposes of the program. Such sums are to remain available until expended.
 

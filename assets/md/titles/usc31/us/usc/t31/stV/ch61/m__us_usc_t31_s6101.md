@@ -203,7 +203,7 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 [Pub. L. 112–239, div. A, title VIII, § 861][/us/pl/112/239/s861], Jan. 2, 2013, [126 Stat. 1857][/us/stat/126/1857], provided that:
 
->     “(a) __Requirements.—__ 
+>     “(a)  __Requirements__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the head of the covered agency concerned shall ensure the following:
 
@@ -237,11 +237,11 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 >             “(B) Suspension and debarment matters that are not formally referred.
 
->     “(b) __Duties of Interagency Committee on Debarment and Suspension.—__ 
+>     “(b)  __Duties of Interagency Committee on Debarment and Suspension__  __.—__ 
 
 >     \[Amended [section 873 of Pub. L. 110–417][/us/pl/110/417/s873], set out below.\]
 
->     “(c) __Covered Agency.—__ 
+>     “(c)  __Covered Agency__  __.—__ 
 
 >     In this section, the term ‘covered agency’ means the Department of Defense, the Department of State, and the United States Agency for International Development.”
 
@@ -249,7 +249,7 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 873, Oct. 14, 2008, [122 Stat. 4557][/us/stat/122/4557], as amended by [Pub. L. 111–383, div. A, title X, § 1075(e)(16)][/us/pl/111/383/s1075/e/16], Jan. 7, 2011, [124 Stat. 4375][/us/stat/124/4375]; [Pub. L. 112–239, div. A, title VIII, § 861(b)][/us/pl/112/239/s861/b], Jan. 2, 2013, [126 Stat. 1858][/us/stat/126/1858], provided that:
 
->     “(a) __Requirement.—__ 
+>     “(a)  __Requirement__  __.—__ 
 
 >     The Interagency Committee on Debarment and Suspension shall—
 
@@ -277,11 +277,11 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 >             “(D) a summary of suspensions, debarments, and administrative agreements during the previous year.
 
->     “(b) __Date of Submittal of Annual Reports.—__ 
+>     “(b)  __Date of Submittal of Annual Reports__  __.—__ 
 
 >     The annual report required by subsection (a)(7) shall be submitted not later than January 31 of each year, beginning with January 31, 2014.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -303,11 +303,11 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 > “SEC. 2. __FULL DISCLOSURE OF ENTITIES RECEIVING FEDERAL FUNDING.__ 
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Entity.—__ 
+>         “(1)  __Entity__  __.—__ 
 
 >         The term ‘entity’—
 
@@ -343,7 +343,7 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 >                 “(ii) a Federal employee.
 
->         “(2) __Federal award.—__ 
+>         “(2)  __Federal award__  __.—__ 
 
 >         The term ‘Federal award’—
 
@@ -359,7 +359,7 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 >             “(C) before October 1, 2008, does not include credit card transactions.
 
->         “(3) __Searchable website.—__ 
+>         “(3)  __Searchable website__  __.—__ 
 
 >         The term ‘searchable website’ means a website that allows the public to—
 
@@ -373,7 +373,7 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 >     “(b) __In General.—__ 
 
->         “(1) __Website.—__ 
+>         “(1)  __Website__  __.—__ 
 
 >         Not later than January 1, 2008, the Office of Management and Budget shall, in accordance with this section, section 204 of the E-Government Act of 2002 ([Public Law 107–347][/us/pl/107/347]; [44 U.S.C. 3501][/us/usc/t44/s3501] note), and the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 403][/us/usc/t41/s403] \[401\] et seq.) \[now division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41\], ensure the existence and operation of a single searchable website, accessible by the public at no cost to access, that includes for each Federal award—
 
@@ -403,19 +403,19 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 >             “(G) any other relevant information specified by the Office of Management and Budget.
 
->         “(2) __Scope of data.—__ 
+>         “(2)  __Scope of data__  __.—__ 
 
 >         The website shall include data for fiscal year 2007, and each fiscal year thereafter.
 
->         “(3) __Designation of agencies.—__ 
+>         “(3)  __Designation of agencies__  __.—__ 
 
 >         The Director of the Office of Management and Budget is authorized to designate one or more Federal agencies to participate in the development, establishment, operation, and support of the single website. In the initial designation, or in subsequent instructions and guidance, the Director may specify the scope of the responsibilities of each such agency.
 
->         “(4) __Agency responsibilities.—__ 
+>         “(4)  __Agency responsibilities__  __.—__ 
 
 >         Federal agencies shall comply with the instructions and guidance issued by the Director of the Office of Management and Budget under paragraph (3), and shall provide appropriate assistance to the Director upon request, so as to assist the Director in ensuring the existence and operation of the single website.
 
->     “(c) __Website.—__ 
+>     “(c)  __Website__  __.—__ 
 
 >     The website established under this section—
 
@@ -439,7 +439,7 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 >         “(1) __Pilot program.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Not later than July 1, 2007, the Director of the Office of Management and Budget shall commence a pilot program to—
 
@@ -453,13 +453,13 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 >                          “(II) a mechanism for collecting and incorporating agency and public feedback on the design and utility of the website.
 
->             “(B) __Termination.—__ 
+>             “(B)  __Termination__  __.—__ 
 
 >             The pilot program under subparagraph (A) shall terminate not later than January 1, 2009.
 
 >         “(2) __Reporting of subawards.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Based on the pilot program conducted under paragraph (1), and, except as provided in subparagraph (B), not later than January 1, 2009, the Director of the Office of Management and Budget—
 
@@ -475,25 +475,25 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 >                          “(III) establishes cost-effective requirements for collecting subaward data under block grants, formula grants, and other types of assistance to State and local governments.
 
->             “(B) __Extension of deadline.—__ 
+>             “(B)  __Extension of deadline__  __.—__ 
 
 >             For subaward recipients that receive Federal funds through State, local, or tribal governments, the Director of the Office of Management and Budget may extend the deadline for ensuring that data regarding such subawards are disclosed in the same manner as data regarding other Federal awards for a period not to exceed 18 months, if the Director determines that compliance would impose an undue burden on the subaward recipient.
 
->     “(e) __Exception.—__ 
+>     “(e)  __Exception__  __.—__ 
 
 >     Any entity that demonstrates to the Director of the Office of Management and Budget that the gross income, from all sources, for such entity did not exceed $300,000 in the previous tax year of such entity shall be exempt from the requirement to report subawards under subsection (d), until the Director determines that the imposition of such reporting requirements will not cause an undue burden on such entities.
 
->     “(f) __Construction.—__ 
+>     “(f)  __Construction__  __.—__ 
 
 >     Nothing in this Act shall prohibit the Office of Management and Budget from including through the website established under this section access to data that is publicly available in any other Federal database.
 
 >     “(g) __Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Director of the Office of Management and Budget shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives an annual report regarding the implementation of the website established under this section.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         Each report submitted under paragraph (1) shall include—
 
@@ -503,7 +503,7 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 >             “(C) an explanation of any extension of the subaward reporting deadline under subsection (d)(2)(B), if applicable.
 
->         “(3) __Publication.—__ 
+>         “(3)  __Publication__  __.—__ 
 
 >         The Director of the Office of Management and Budget shall make each report submitted under paragraph (1) publicly available on the website established under this section.
 
@@ -551,27 +551,27 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 > “In this Act:
 
->     “(1) __Director.—__ 
+>     “(1)  __Director__  __.—__ 
 
 >     The term ‘Director’ means the Director of the Office of Management and Budget.
 
->     “(2) __Federal agency.—__ 
+>     “(2)  __Federal agency__  __.—__ 
 
 >     The term ‘Federal agency’ means any agency as defined under [section 551(1) of title 5][/us/usc/t5/s551/1], United States Code.
 
->     “(3) __Federal financial assistance.—__ 
+>     “(3)  __Federal financial assistance__  __.—__ 
 
 >     The term ‘Federal financial assistance’ has the same meaning as defined in [section 7501(a)(5) of title 31][/us/usc/t31/s7501/a/5], United States Code, under which Federal financial assistance is provided, directly or indirectly, to a non-Federal entity.
 
->     “(4) __Local government.—__ 
+>     “(4)  __Local government__  __.—__ 
 
 >     The term ‘local government’ means a political subdivision of a State that is a unit of general local government (as defined under [section 7501(a)(11) of title 31][/us/usc/t31/s7501/a/11], United States Code).
 
->     “(5) __Non-federal entity.—__ 
+>     “(5)  __Non-federal entity__  __.—__ 
 
 >     The term ‘non-Federal entity’ means a State, local government, or nonprofit organization.
 
->     “(6) __Nonprofit organization.—__ 
+>     “(6)  __Nonprofit organization__  __.—__ 
 
 >     The term ‘nonprofit organization’ means any corporation, trust, association, cooperative, or other organization that—
 
@@ -581,21 +581,21 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 >         “(C) uses net proceeds to maintain, improve, or expand the operations of the organization.
 
->     “(7) __State.—__ 
+>     “(7)  __State__  __.—__ 
 
 >     The term ‘State’ means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands, and any instrumentality thereof, any multi-State, regional, or interstate entity which has governmental functions, and any Indian Tribal Government.
 
->     “(8) __Tribal government.—__ 
+>     “(8)  __Tribal government__  __.—__ 
 
 >     The term ‘tribal government’ means an Indian tribe, as that term is defined in [section 7501(a)(9) of title 31][/us/usc/t31/s7501/a/9], United States Code.
 
->     “(9) __Uniform administrative rule.—__ 
+>     “(9)  __Uniform administrative rule__  __.—__ 
 
 >     The term ‘uniform administrative rule’ means a Governmentwide uniform rule for any generally applicable requirement established to achieve national policy objectives that applies to multiple Federal financial assistance programs across Federal agencies.
 
 > “SEC. 5. __DUTIES OF FEDERAL AGENCIES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided under subsection (b), not later than 18 months after the date of the enactment of this Act \[Nov. 20, 1999\], each Federal agency shall develop and implement a plan that—
 
@@ -613,27 +613,27 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 >         “(7) in cooperation with recipients of Federal financial assistance, establishes specific annual goals and objectives to further the purposes of this Act and measure annual performance in achieving those goals and objectives, which may be done as part of the agency’s annual planning responsibilities under the Government Performance and Results Act of 1993 ([Public Law 103–62][/us/pl/103/62]; [107 Stat. 285][/us/stat/107/285]) \[see Short Title of 1993 Amendment note set out under [section 1101 of this title][/us/usc/t31/s1101]\].
 
->     “(b) __Extension.—__ 
+>     “(b)  __Extension__  __.—__ 
 
 >     If a Federal agency is unable to comply with subsection (a), the Director may extend for up to 12 months the period for the agency to develop and implement a plan in accordance with subsection (a).
 
 >     “(c) __Comment and Consultation on Agency Plans.—__ 
 
->         “(1) __Comment.—__ 
+>         “(1)  __Comment__  __.—__ 
 
 >         Each agency shall publish the plan developed under subsection (a) in the Federal Register and shall receive public comment of the plan through the Federal Register and other means (including electronic means). To the maximum extent practicable, each Federal agency shall hold public forums on the plan.
 
->         “(2) __Consultation.—__ 
+>         “(2)  __Consultation__  __.—__ 
 
 >         The lead official designated under subsection (a)(4) shall consult with representatives of non-Federal entities during development and implementation of the plan. Consultation with representatives of State, local, and tribal governments shall be in accordance with section 204 of the Unfunded Mandates Reform Act of 1995 ([2 U.S.C. 1534][/us/usc/t2/s1534]).
 
->     “(d) __Submission of Plan.—__ 
+>     “(d)  __Submission of Plan__  __.—__ 
 
 >     Each Federal agency shall submit the plan developed under subsection (a) to the Director and Congress and report annually thereafter on the implementation of the plan and performance of the agency in meeting the goals and objectives specified under subsection (a)(7). Such report may be included as part of any of the general management reports required under law.
 
 > “SEC. 6. __DUTIES OF THE DIRECTOR.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Director, in consultation with agency heads and representatives of non-Federal entities, shall direct, coordinate, and assist Federal agencies in establishing—
 
@@ -657,33 +657,33 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 >             “(C) improvements in the timeliness, completeness, and quality of information received by Federal agencies from recipients of Federal financial assistance.
 
->     “(b) __Lead Agency and Working Groups.—__ 
+>     “(b)  __Lead Agency and Working Groups__  __.—__ 
 
 >     The Director may designate a lead agency to assist the Director in carrying out the responsibilities under this section. The Director may use interagency working groups to assist in carrying out such responsibilities.
 
->     “(c) __Review of Plans and Reports.—__ 
+>     “(c)  __Review of Plans and Reports__  __.—__ 
 
 >     Upon the request of the Director, agencies shall submit to the Director, for the Director’s review, information and other reporting regarding agency implementation of this Act.
 
->     “(d) __Exemptions.—__ 
+>     “(d)  __Exemptions__  __.—__ 
 
 >     The Director may exempt any Federal agency or Federal financial assistance program from the requirements of this Act if the Director determines that the Federal agency does not have a significant number of Federal financial assistance programs. The Director shall maintain a list of exempted agencies which shall be available to the public through the Office of Management and Budget’s Internet site.
 
->     “(e) __Report on Recommended Changes in Law.—__ 
+>     “(e)  __Report on Recommended Changes in Law__  __.—__ 
 
 >     Not later than 18 months after the date of the enactment of this Act \[Nov. 20, 1999\], the Director shall submit to Congress a report containing recommendations for changes in law to improve the effectiveness, performance, and coordination of Federal financial assistance programs.
 
->     “(f) __Deadline.—__ 
+>     “(f)  __Deadline__  __.—__ 
 
 >     All actions required under this section shall be carried out not later than 18 months after the date of the enactment of this Act \[Nov. 20, 1999\].
 
 > “SEC. 7. __EVALUATION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Government Accountability Office shall evaluate the effectiveness of this Act. Not later than 6 years after the date of the enactment of this Act \[Nov. 20, 1999\], the evaluation shall be submitted to the lead agency, the Director, and Congress. The evaluation shall be performed with input from State, local, and tribal governments, and nonprofit organizations.
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     The evaluation under subsection (a) shall—
 
@@ -713,15 +713,15 @@ Dec. 28, 1977, Pub. L. 95–220, § 2, 91 Stat. 1615.  </td>
 
 [Pub. L. 103–355, title II, § 2455][/us/pl/103/355/s2455], Oct. 13, 1994, [108 Stat. 3327][/us/stat/108/3327], as amended by [Pub. L. 111–84, div. A, title VIII, § 815][/us/pl/111/84/s815], Oct. 28, 2009, [123 Stat. 2408][/us/stat/123/2408], provided that:
 
->     “(a) __Requirement for Regulations.—__ 
+>     “(a)  __Requirement for Regulations__  __.—__ 
 
 >     Regulations shall be issued providing that provisions for the debarment, suspension, or other exclusion of a participant in a procurement activity under the Federal Acquisition Regulation, or in a nonprocurement activity under regulations issued pursuant to Executive Order No. 12549 \[set out below\], shall have government-wide effect. No agency shall allow a party to participate in any procurement or nonprocurement activity if any agency has debarred, suspended, or otherwise excluded (to the extent specified in the exclusion agreement) that party from participation in a procurement or nonprocurement activity.
 
->     “(b) __Authority To Grant Exception.—__ 
+>     “(b)  __Authority To Grant Exception__  __.—__ 
 
 >     The regulations issued pursuant to subsection (a) shall provide that an agency may grant an exception permitting a debarred, suspended, or otherwise excluded party to participate in procurement activities of that agency to the extent exceptions are authorized under the Federal Acquisition Regulation, or to participate in nonprocurement activities of that agency to the extent exceptions are authorized under regulations issued pursuant to Executive Order No. 12549.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 

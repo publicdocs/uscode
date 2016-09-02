@@ -175,11 +175,11 @@ Jan. 30, 1934, ch. 6, 48 Stat. 337, § 10(b)(2); added Nov. 8, 1978, Pub. L. 9
 
 > “SEC. 403. __PRESIDENTIAL REPORTS.__ 
 
->     “(a) __Reporting Requirement.—__ 
+>     “(a)  __Reporting Requirement__  __.—__ 
 
 >     Not later than June 30, 1995, and every 6 months thereafter, the President shall transmit to the appropriate congressional committees a report concerning all guarantees issued to, and short-term and long-term currency swaps with, the Government of Mexico by the United States Government, including the Board of Governors of the Federal Reserve System.
 
->     “(b) __Contents of Reports.—__ 
+>     “(b)  __Contents of Reports__  __.—__ 
 
 >     Each report described in subsection (a) shall contain a description of the following actions taken, or economic situations existing, during the preceding 6-month period or, in the case of the initial report, during the period beginning on the date of enactment of this Act \[Apr. 10, 1995\]:
 
@@ -197,17 +197,17 @@ Jan. 30, 1934, ch. 6, 48 Stat. 337, § 10(b)(2); added Nov. 8, 1978, Pub. L. 9
 
 >         “(7) The progress the Government of Mexico has made in stabilizing the peso and establishing an independent central bank or currency board.
 
->     “(c) __Summary of Treasury Department Reports.—__ 
+>     “(c)  __Summary of Treasury Department Reports__  __.—__ 
 
 >     In addition to the information required to be included under subsection (b), each report required under this section shall contain a summary of the information contained in all reports submitted under section 404 during the period covered by the report required under this section.
 
 > “SEC. 404. __REPORTS BY THE SECRETARY OF THE TREASURY.__ 
 
->     “(a) __Reporting Requirement.—__ 
+>     “(a)  __Reporting Requirement__  __.—__ 
 
 >     Beginning on the last day of the first month which begins after the date of enactment of this Act \[Apr. 10, 1995\], and on the last day of every month thereafter, the Secretary of the Treasury shall submit to the appropriate congressional committees a report concerning all guarantees issued to, and short-term and long-term currency swaps with, the Government of Mexico by the United States Government, including the Board of Governors of the Federal Reserve System.
 
->     “(b) __Contents of Reports.—__ 
+>     “(b)  __Contents of Reports__  __.—__ 
 
 >     Each report described in subsection (a) shall include a description of the following actions taken, or economic situations existing, during the month in which the report is required to be submitted:
 
@@ -239,7 +239,7 @@ Jan. 30, 1934, ch. 6, 48 Stat. 337, § 10(b)(2); added Nov. 8, 1978, Pub. L. 9
 
 > “SEC. 406. __PRESIDENTIAL CERTIFICATION REGARDING SWAP OF CURRENCIES TO MEXICO THROUGH EXCHANGE STABILIZATION FUND OR FEDERAL RESERVE.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law, no loan, credit, guarantee, or arrangement for a swap of currencies to Mexico through the exchange stabilization fund or by the Board of Governors of the Federal Reserve System may be extended or (if already extended) further utilized, unless and until the President submits to the appropriate congressional committees a certification that—
 
@@ -253,7 +253,7 @@ Jan. 30, 1934, ch. 6, 48 Stat. 337, § 10(b)(2); added Nov. 8, 1978, Pub. L. 9
 
 >         “(5) the President has provided the documents described in paragraphs (1) through (28) of House Resolution 80, adopted March 1, 1995.
 
->     “(b) __Treatment of Classified or Privileged Material.—__ 
+>     “(b)  __Treatment of Classified or Privileged Material__  __.—__ 
 
 >     For purposes of the certification required by subsection (a)(5), the President shall specify, in the case of any document that is classified or subject to applicable privileges, that, while such document may not have been produced to the House of Representatives, in lieu thereof it has been produced to specified Members of Congress or their designees by mutual agreement among the President, the Speaker of the House, and the chairmen and ranking members of the Committee on Banking and Financial Services \[now Committee on Financial Services\], the Committee on International Relations \[now Committee on Foreign Affairs\], and the Permanent Select Committee on Intelligence of the House.
 
@@ -261,11 +261,11 @@ Jan. 30, 1934, ch. 6, 48 Stat. 337, § 10(b)(2); added Nov. 8, 1978, Pub. L. 9
 
 > “For purposes of this title, the following definitions shall apply:
 
->     “(1) __Appropriate congressional committees.—__ 
+>     “(1)  __Appropriate congressional committees__  __.—__ 
 
 >     The term ‘appropriate congressional committees’ means the Committees on International Relations \[now Committee on Foreign Affairs\] and Banking and Financial Services \[now Committee on Financial Services\] of the House of Representatives, the Committees on Foreign Relations and Banking, Housing, and Urban Affairs of the Senate, and the Committees on Appropriations of the House of Representatives and the Senate.
 
->     “(2) __Exchange stabilization fund.—__ 
+>     “(2)  __Exchange stabilization fund__  __.—__ 
 
 >     The term ‘exchange stabilization fund’ means the stabilization fund referred to in [section 5302(a)(1) of title 31][/us/usc/t31/s5302/a/1], United States Code.”
 

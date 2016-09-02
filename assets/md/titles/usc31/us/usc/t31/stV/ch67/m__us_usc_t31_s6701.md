@@ -17,11 +17,11 @@
 
     (a) __Payment and Use.—__ 
 
-        (1) __Payment.—__ 
+        (1)  __Payment__  __.—__ 
 
         The Secretary shall pay to each unit of general local government which qualifies for a payment under this chapter an amount equal to the sum of any amounts allocated to the government under this chapter for each payment period. The Secretary shall pay such amount out of the Local Government Fiscal Assistance Fund under section 6702.
 
-        (2) __Use.—__ 
+        (2)  __Use__  __.—__ 
 
         Amounts paid to a unit of general local government under this section shall be used by that unit for carrying out one or more programs of the unit related to—
 
@@ -31,31 +31,31 @@
 
             (C) job programs to prevent crime.
 
-        (3) __Coordination.—__ 
+        (3)  __Coordination__  __.—__ 
 
         Programs funded under this title shall be coordinated with other existing Federal programs to meet the overall needs of communities that benefit from funds received under this section.
 
-    (b) __Timing of Payments.—__ 
+    (b)  __Timing of Payments__  __.—__ 
 
     The Secretary shall pay each amount allocated under this chapter to a unit of general local government for a payment period by the later of 90 days after the date the amount is available or the first day of the payment period provided that the unit of general local government has provided the Secretary with the assurances required by section 6703(d).
 
     (c) __Adjustments.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to paragraph (2), the Secretary shall adjust a payment under this chapter to a unit of general local government to the extent that a prior payment to the government was more or less than the amount required to be paid.
 
-        (2) __Considerations.—__ 
+        (2)  __Considerations__  __.—__ 
 
         The Secretary may increase or decrease under this subsection a payment to a unit of local government only if the Secretary determines the need for the increase or decrease, or the unit requests the increase or decrease, within one year after the end of the payment period for which the payment was made.
 
-    (d) __Reservation for Adjustments.—__ 
+    (d)  __Reservation for Adjustments__  __.—__ 
 
     The Secretary may reserve a percentage of not more than 2 percent of the amount under this section for a payment period for all units of general local government in a State if the Secretary considers the reserve is necessary to ensure the availability of sufficient amounts to pay adjustments after the final allocation of amounts among the units of general local government in the State.
 
     (e) __Repayment of Unexpended Amounts.—__ 
 
-        (1) __Repayment required.—__ 
+        (1)  __Repayment required__  __.—__ 
 
         A unit of general local government shall repay to the Secretary, by not later than 15 months after receipt from the Secretary, any amount that is—
 
@@ -63,17 +63,17 @@
 
             (B) not expended by the unit within one year after receipt from the Secretary.
 
-        (2) __Penalty for failure to repay.—__ 
+        (2)  __Penalty for failure to repay__  __.—__ 
 
         If the amount required to be repaid is not repaid, the Secretary shall reduce payments in future payment periods accordingly.
 
-        (3) __Deposit of amounts repaid.—__ 
+        (3)  __Deposit of amounts repaid__  __.—__ 
 
         Amounts received by the Secretary as repayments under this subsection shall be deposited in the Local Government Fiscal Assistance Fund for future payments to units of general local government.
 
     (f) __Expenditure With Disadvantaged Business Enterprises.—__ 
 
-        (1) __General rule.—__ 
+        (1)  __General rule__  __.—__ 
 
         Of amounts paid to a unit of general local government under this chapter for a payment period, not less than 10 percent of the total combined amounts obligated by the unit for contracts and subcontracts shall be expended with—
 
@@ -83,11 +83,11 @@
 
             (C) qualified HUBZone small business concerns.
 
-        (2) __Exception.—__ 
+        (2)  __Exception__  __.—__ 
 
         Paragraph (1) shall not apply to amounts paid to a unit of general local government to the extent the unit determines that the paragraph does not apply through a process that provides for public participation.
 
-        (3) __Definitions.—__ 
+        (3)  __Definitions__  __.—__ 
 
         For purposes of this subsection—
 
@@ -99,11 +99,11 @@
 
     (g) __Nonsupplanting Requirement.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Funds made available under this chapter to units of local government shall not be used to supplant State or local funds, but will be used to increase the amount of funds that would, in the absence of funds under this chapter, be made available from State or local sources.
 
-        (2) __Base level amount.—__ 
+        (2)  __Base level amount__  __.—__ 
 
         The total level of funding available to a unit of local government for accounts serving eligible purposes under this chapter in the fiscal year immediately preceding receipt of a grant under this chapter shall be designated the “base level account” for the fiscal year in which a grant is received. Grants under this chapter in a given fiscal year shall be reduced on a dollar for dollar basis to the extent that a unit of local government reduces its base level account in that fiscal year.
 

@@ -15,7 +15,7 @@
 
 ## § 5325. Identification required to purchase certain monetary instruments
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     No financial institution may issue or sell a bank check, cashier’s check, traveler’s check, or money order to any individual in connection with a transaction or group of such contemporaneous transactions which involves United States coins or currency (or such other monetary instruments as the Secretary may prescribe) in amounts or denominations of $3,000 or more unless—
 
@@ -29,11 +29,11 @@
 
         (2) the individual furnishes the financial institution with such forms of identification as the Secretary of the Treasury may require in regulations which the Secretary shall prescribe and the financial institution verifies and records such information in accordance with regulations which such Secretary shall prescribe.
 
-    (b) __Report to Secretary Upon Request.—__ 
+    (b)  __Report to Secretary Upon Request__  __.—__ 
 
     Any information required to be recorded by any financial institution under paragraph (1) or (2) of subsection (a) shall be reported by such institution to the Secretary of the Treasury at the request of such Secretary.
 
-    (c) __Transaction Account Defined.—__ 
+    (c)  __Transaction Account Defined__  __.—__ 
 
     For purposes of this section, the term “transaction account” has the meaning given to such term in section 19(b)(1)(C) of the Federal Reserve Act.
 

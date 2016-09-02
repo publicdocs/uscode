@@ -17,7 +17,7 @@
 
     (a) __Imposition and Continuation of Suspensions.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall suspend payment under this chapter to a unit of general local government—
 
@@ -27,15 +27,15 @@
 
             (C) if required under section 6712(c).
 
-        (2) __Effectiveness.—__ 
+        (2)  __Effectiveness__  __.—__ 
 
         A suspension already ordered under paragraph (1)(A) continues in effect if the administrative law judge makes a decision under paragraph (1)(B).
 
-    (b) __Lifting of Suspensions and Terminations.—__ 
+    (b)  __Lifting of Suspensions and Terminations__  __.—__ 
 
     If a holding of discrimination is reversed by an appellate court, a suspension or termination of payments in a proceeding based on the holding shall be discontinued.
 
-    (c) __Resumption of Payments Upon Attaining Compliance.—__ 
+    (c)  __Resumption of Payments Upon Attaining Compliance__  __.—__ 
 
     The Secretary may resume payment to a unit of general local government of payments suspended by the Secretary only—
 
@@ -53,11 +53,11 @@
 
         (4) if a suspension is discontinued under subsection (b).
 
-    (d) __Payment of Damages as Compliance.—__ 
+    (d)  __Payment of Damages as Compliance__  __.—__ 
 
     For purposes of subsection (c)(2), compliance by a government may consist of the payment of restitution to a person injured because the government did not comply with section 6711(a) or (b).
 
-    (e) __Resumption of Payments Upon Reversal by Court.—__ 
+    (e)  __Resumption of Payments Upon Reversal by Court__  __.—__ 
 
     The Secretary may resume payment to a unit of general local government of payments terminated under section 6712(d)(2)(A) only if the decision resulting in the termination is reversed by an appellate court.
 

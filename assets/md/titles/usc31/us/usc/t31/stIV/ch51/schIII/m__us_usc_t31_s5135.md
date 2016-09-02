@@ -17,17 +17,17 @@
 
     (a) __Establishment.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         There is hereby established the Citizens Coinage Advisory Committee (in this section referred to as the “Advisory Committee”) to advise the Secretary of the Treasury on the selection of themes and designs for coins.
 
-        (2) __Oversight of advisory committee.—__ 
+        (2)  __Oversight of advisory committee__  __.—__ 
 
         The Advisory Committee shall be subject to the authority of the Secretary of the Treasury (hereafter in this section referred to as the “Secretary”).
 
     (b) __Membership.—__ 
 
-        (1) __Appointment.—__ 
+        (1)  __Appointment__  __.—__ 
 
         The Advisory Committee shall consist of 11 members appointed by the Secretary as follows:
 
@@ -59,11 +59,11 @@
 
         (2) __Terms.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided in subparagraph (B), members of the Advisory Committee shall be appointed for a term of 4 years.
 
-            (B) __Terms of initial appointees.—__ 
+            (B)  __Terms of initial appointees__  __.—__ 
 
             As designated by the Secretary at the time of appointment, of the members first appointed—
 
@@ -73,51 +73,51 @@
 
                 (iii) three of the members appointed under paragraph (1)(A) shall be appointed for a term of 2 years.
 
-        (3) __Preservation of public advisory status.—__ 
+        (3)  __Preservation of public advisory status__  __.—__ 
 
         No individual may be appointed to the Advisory Committee while serving as an officer or employee of the Federal Government.
 
-        (4) __Continuation of service.—__ 
+        (4)  __Continuation of service__  __.—__ 
 
         Each appointed member may continue to serve for up to 6 months after the expiration of the term of office to which such member was appointed until a successor has been appointed.
 
         (5) __Vacancy and removal.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Any vacancy on the Advisory Committee shall be filled in the manner in which the original appointment was made.
 
-            (B) __Removal.—__ 
+            (B)  __Removal__  __.—__ 
 
             Advisory Committee members shall serve at the discretion of the Secretary and may be removed at any time for good cause.
 
-        (6) __Chairperson.—__ 
+        (6)  __Chairperson__  __.—__ 
 
         The Chairperson of the Advisory Committee shall be appointed for a term of 1 year by the Secretary from among the members of the Advisory Committee.
 
-        (7) __Pay and expenses.—__ 
+        (7)  __Pay and expenses__  __.—__ 
 
         Members of the Advisory Committee shall serve without pay for such service but each member of the Advisory Committee shall be reimbursed from the United States Mint Public Enterprise Fund for travel, lodging, meals, and incidental expenses incurred in connection with attendance of such members at meetings of the Advisory Committee in the same amounts and under the same conditions as employees of the United States Mint who engage in official travel, as determined by the Secretary.
 
         (8) __Meetings.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Advisory Committee shall meet at the call of the Secretary, the chairperson, or a majority of the members, but not less frequently than twice annually.
 
-            (B) __Open meetings.—__ 
+            (B)  __Open meetings__  __.—__ 
 
             Each meeting of the Advisory Committee shall be open to the public.
 
-            (C) __Prior notice of meetings.—__ 
+            (C)  __Prior notice of meetings__  __.—__ 
 
             Timely notice of each meeting of the Advisory Committee shall be published in the Federal Register, and timely notice of each meeting shall be made to trade publications and publications of general circulation.
 
-        (9) __Quorum.—__ 
+        (9)  __Quorum__  __.—__ 
 
         Seven members of the Advisory Committee shall constitute a quorum.
 
-    (c) __Duties of the Advisory Committee.—__ 
+    (c)  __Duties of the Advisory Committee__  __.—__ 
 
     The duties of the Advisory Committee are as follows:
 
@@ -133,29 +133,29 @@
 
             (C) the proposed designs for commemorative coins.
 
-    (d) __Expenses.—__ 
+    (d)  __Expenses__  __.—__ 
 
     The expenses of the Advisory Committee that the Secretary of the Treasury determines to be reasonable and appropriate shall be paid by the Secretary from the United States Mint Public Enterprise Fund.
 
-    (e) __Administrative Support, Technical Services, and Advice.—__ 
+    (e)  __Administrative Support, Technical Services, and Advice__  __.—__ 
 
     Upon the request of the Advisory Committee, or as necessary for the Advisory Committee to carry out the responsibilities of the Advisory Committee under this section, the Director of the United States Mint shall provide to the Advisory Committee the administrative support, technical services, and advice that the Secretary of the Treasury determines to be reasonable and appropriate.
 
-    (f) __Consultation Authority.—__ 
+    (f)  __Consultation Authority__  __.—__ 
 
     In carrying out the duties of the Advisory Committee under this section, the Advisory Committee may consult with the Commission of Fine Arts.
 
     (g) __Annual Report.—__ 
 
-        (1) __Required.—__ 
+        (1)  __Required__  __.—__ 
 
         Not later than September 30 of each year, the Advisory Committee shall submit a report to the Secretary, the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate. Should circumstances arise in which the Advisory Committee cannot meet the September 30 deadline in any year, the Secretary shall advise the Chairpersons of the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate of the reasons for such delay and the date on which the submission of the report is anticipated.
 
-        (2) __Contents.—__ 
+        (2)  __Contents__  __.—__ 
 
         The report required by paragraph (1) shall describe the activities of the Advisory Committee during the preceding year and the reports and recommendations made by the Advisory Committee to the Secretary of the Treasury.
 
-    (h) __Federal Advisory Committee Act Does Not Apply.—__ 
+    (h)  __Federal Advisory Committee Act Does Not Apply__  __.—__ 
 
     Subject to the requirements of subsection (b)(8), the Federal Advisory Committee Act shall not apply with respect to the Committee.
 
@@ -179,13 +179,13 @@
 
 [Pub. L. 108–15, title I, § 103(b)][/us/pl/108/15/s103/b], (c), Apr. 23, 2003, [117 Stat. 618][/us/stat/117/618], 619, provided that:
 
->     “(b) __Abolishment of Citizens Commemorative Coin Advisory Committee.__ 
+>     “(b)  __Abolishment of Citizens Commemorative Coin Advisory Committee.__  __—__ 
 
->     —Effective on the date of the enactment of this Act \[Apr. 23, 2003\], the Citizens Commemorative Coin Advisory Committee (established by [section 5135 of title 31][/us/usc/t31/s5135], United States Code, as in effect before the amendment made by subsection (a)) is hereby abolished.
+>     Effective on the date of the enactment of this Act \[Apr. 23, 2003\], the Citizens Commemorative Coin Advisory Committee (established by [section 5135 of title 31][/us/usc/t31/s5135], United States Code, as in effect before the amendment made by subsection (a)) is hereby abolished.
 
->     “(c) __Continuity of Members of Citizens Commemorative Coin Advisory Committee.__ 
+>     “(c)  __Continuity of Members of Citizens Commemorative Coin Advisory Committee.__  __—__ 
 
->     —Subject to paragraphs (1) and (2) of [section 5135(b) of title 31][/us/usc/t31/s5135/b], United States Code, any person who is a member of the Citizens Commemorative Coin Advisory Committee on the date of the enactment of this Act \[Apr. 23, 2003\], other than the member of such committee who is appointed from among the officers or employees of the United States Mint, may continue to serve the remainder of the term to which such member was appointed as a member of the Citizens Coinage Advisory Committee in one of the positions as determined by the Secretary.”
+>     Subject to paragraphs (1) and (2) of [section 5135(b) of title 31][/us/usc/t31/s5135/b], United States Code, any person who is a member of the Citizens Commemorative Coin Advisory Committee on the date of the enactment of this Act \[Apr. 23, 2003\], other than the member of such committee who is appointed from among the officers or employees of the United States Mint, may continue to serve the remainder of the term to which such member was appointed as a member of the Citizens Coinage Advisory Committee in one of the positions as determined by the Secretary.”
 
  __Staggered Terms for Members of Citizens Commemorative Coin Advisory Committee__ 
 

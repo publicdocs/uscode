@@ -15,7 +15,7 @@
 
 ## § 9703. <sup>\[1\]</sup>  <sup><sup> 1 Another section 9703 is set out preceding [section 9704 of this title][/us/usc/t31/s9704]. </sup></sup>  Department of the Treasury Forfeiture Fund
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     There is established in the Treasury of the United States a fund to be known as the “Department of the Treasury Forfeiture Fund” (referred to in this section as the “Fund”). The Fund shall be available to the Secretary, without fiscal year limitation, with respect to seizures and forfeitures made pursuant to any law (other than section 7301 or 7302 of the Internal Revenue Code of 1986) enforced or administered by the Department of the Treasury or the United States Coast Guard for the following law enforcement purposes:
 
@@ -173,11 +173,11 @@
 
             (C) all amounts representing the equitable share of a Department of the Treasury law enforcement organization or the United States Coast Guard from the forfeiture of property under any Federal, State, local, or foreign law.
 
-    (e) __Investments.—__ 
+    (e)  __Investments__  __.—__ 
 
     Amounts in the Fund, and in any holding accounts associated with the Fund, which are not currently needed for the purposes of this section may be kept on deposit or invested in obligations of, or guaranteed by, the United States and all earnings on such investments shall be deposited in the Fund.
 
-    (f) __Reports to Congress.—__ 
+    (f)  __Reports to Congress__  __.—__ 
 
     The Secretary shall transmit to the Congress, not later than February 1 of each year—
 
@@ -281,11 +281,11 @@
 
         (3) Nothing in this section shall affect the authority of the Secretary under [section 981 of title 18][/us/usc/t18/s981] or section 616 of the Tariff Act of 1930 ([19 U.S.C. 1616a][/us/usc/t19/s1616a]).
 
-    (i) __Regulations.—__ 
+    (i)  __Regulations__  __.—__ 
 
     The Secretary may prescribe such rules and regulations as may be necessary to carry out this section.
 
-    (j) __Customs Forfeiture Fund.—__ 
+    (j)  __Customs Forfeiture Fund__  __.—__ 
 
     Notwithstanding any other provision of law—
 
@@ -299,15 +299,15 @@
 
         (2) any funds in the Customs Forfeiture Fund and any obligations of the Customs Forfeiture Fund on the effective date of the Treasury Forfeiture Act of 1992, shall be transferred to the Fund and all administrative costs of such transfer shall be paid for out of the Fund.
 
-    (k) __Limitation of Liability.—__ 
+    (k)  __Limitation of Liability__  __.—__ 
 
     The United States shall not be liable in any action relating to property transferred under this section or under section 616 of the Tariff Act of 1930 ([19 U.S.C. 1616a][/us/usc/t19/s1616a]) if such action is based on an act or omission occurring after the transfer.
 
-    (l) __Authority To Warrant Title.—__ 
+    (l)  __Authority To Warrant Title__  __.—__ 
 
     Following the completion of procedures for the forfeiture of property pursuant to any law enforced or administered by the Department of the Treasury, the Secretary is authorized, at the Secretary’s discretion, to warrant clear title to any subsequent purchaser or transferee of such forfeited property.
 
-    (m) __Forfeited Property.—__ 
+    (m)  __Forfeited Property__  __.—__ 
 
     For purposes of this section and notwithstanding section 524(c)(11) 7 of title 28 or any other law—
 
@@ -333,15 +333,15 @@
 
         (2) The Secretary shall transfer from the Fund to the Postmaster General for deposit in the Postal Service Fund amounts appropriate to reflect the degree of participation of the United States Postal Service in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by a Department of the Treasury law enforcement organization.
 
-    (o) __Definitions.—__ 
+    (o)  __Definitions__  __.—__ 
 
     For purposes of this section—
 
-        (1) __Department of the treasury law enforcement organization.—__ 
+        (1)  __Department of the treasury law enforcement organization__  __.—__ 
 
         The term “Department of the Treasury law enforcement organization” means the United States Customs Service, the United States Secret Service, the Tax and Trade Bureau, the Internal Revenue Service, the Federal Law Enforcement Training Center, the Financial Crimes Enforcement Network, and any other law enforcement component of the Department of the Treasury so designated by the Secretary.
 
-        (2) __Secretary.—__ 
+        (2)  __Secretary__  __.—__ 
 
         The term “Secretary” means the Secretary of the Treasury.
 

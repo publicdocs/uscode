@@ -15,7 +15,7 @@
 
 ## § 1125. Elimination of unnecessary agency reporting
 
-    (a) __Agency Identification of Unnecessary Reports.—__ 
+    (a)  __Agency Identification of Unnecessary Reports__  __.—__ 
 
     Annually, based on guidance provided by the Director of the Office of Management and Budget, the Chief Operating Officer at each agency shall—
 
@@ -29,15 +29,15 @@
 
     (b) __Plans and Reports.—__ 
 
-        (1) __First year.—__ 
+        (1)  __First year__  __.—__ 
 
         During the first year of implementation of this section, the list of plans and reports identified by each agency as outdated or duplicative shall be not less than 10 percent of all plans and reports identified under subsection (a)(1).
 
-        (2) __Subsequent years.—__ 
+        (2)  __Subsequent years__  __.—__ 
 
         In each year following the first year described under paragraph (1), the Director of the Office of Management and Budget shall determine the minimum percent of plans and reports to be identified as outdated or duplicative on each list of plans and reports.
 
-    (c) __Request for Elimination of Unnecessary Reports.—__ 
+    (c)  __Request for Elimination of Unnecessary Reports__  __.—__ 
 
     In addition to including the list of plans and reports determined to be outdated or duplicative by each agency in the budget of the United States Government, as provided by section 1105(a)(37), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the Director of the Office of Management and Budget may concurrently submit to Congress legislation to eliminate or consolidate such plans and reports.
 

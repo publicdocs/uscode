@@ -261,11 +261,11 @@ July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 3(f); added Oct. 25, 1982, P
 
 [Pub. L. 102–589, § 5][/us/pl/102/589/s5], Nov. 10, 1992, [106 Stat. 5134][/us/stat/106/5134], provided that:
 
->     “(a) __Contents of Audit.—__ 
+>     “(a)  __Contents of Audit__  __.—__ 
 
 >     The Inspector General of the Department of Justice shall conduct an audit, for the period beginning on October 1, 1991, and ending on September 30, 1994, of the actions of the Attorney General under subsection (b) of [section 3718 of title 31][/us/usc/t31/s3718], United States Code, under the pilot program referred to in section 3 of the Act entitled ‘An Act to amend [section 3718 of title 31][/us/usc/t31/s3718], United States Code, to authorize contracts retaining private counsel to furnish legal services in the case of indebtedness owed the United States.’, approved October 29, 1986 ([37 U.S.C. 3718][/us/usc/t37/s3718] note; [Public Law 99–578][/us/pl/99/578] \[set out below\]). The Inspector General shall determine the extent of the competition among private counsel to obtain contracts awarded under such subsection, the reasonableness of the fees provided in such contracts, the diligence and efforts of the Attorney General to retain private counsel in accordance with the provisions of such subsection, the results of the debt collection efforts of private counsel retained under such contracts, and the cost-effectiveness of the pilot project compared with the use of United States Attorneys’ Offices for debt collection.
 
->     “(b) __Report to Congress.—__ 
+>     “(b)  __Report to Congress__  __.—__ 
 
 >     After completing the audit under subsection (a), the Inspector General shall transmit to the Congress, not later than June 30, 1995, a report on the findings, conclusions, and recommendations resulting from the audit.”
 
@@ -291,11 +291,11 @@ Prior extensions of the pilot program for legal services were contained in the f
 
 [Pub. L. 99–578, § 6][/us/pl/99/578/s6], Oct. 28, 1986, [100 Stat. 3307][/us/stat/100/3307], provided that:
 
->     “(a) __Contents of Audit.—__ 
+>     “(a)  __Contents of Audit__  __.—__ 
 
 >     The Comptroller General of the United States shall, at the end of the 3-year period referred to in section 5 \[set out above\], conduct an audit of the actions of the Attorney General under subsection (b) of [section 3718 of title 31][/us/usc/t31/s3718], United States Code (as added by section 1 of this Act), under the pilot program referred to in section 3 \[set out above\]. The Comptroller General shall determine the extent of the competition among private counsel to obtain contracts awarded under such subsection, the reasonableness of the fees provided in such contracts, the diligence and efforts of the Attorney General to retain private counsel in accordance with the provisions of such subsection, and the results of the debt collection efforts of private counsel retained under such contracts.
 
->     “(b) __Report to Congress.—__ 
+>     “(b)  __Report to Congress__  __.—__ 
 
 >     After completing the audit under subsection (a), the Comptroller General shall transmit to the Congress a report on the findings and conclusions resulting from the audit.”
 

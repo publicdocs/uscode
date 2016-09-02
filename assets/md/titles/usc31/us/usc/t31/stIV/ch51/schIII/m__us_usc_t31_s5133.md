@@ -27,11 +27,11 @@
 
     (b) __Settlement of Accounts.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         At least once each year, the Secretary of the Treasury shall settle the accounts of the superintendents of the mints.
 
-        (2) __Procedure.—__ 
+        (2)  __Procedure__  __.—__ 
 
         At any settlement under this subsection, the superintendent shall—
 
@@ -39,7 +39,7 @@
 
             (B) present the Secretary with a statement of bullion received and returned since the last settlement (including any bullion returned for settlement).
 
-        (3) __Audit.—__ 
+        (3)  __Audit__  __.—__ 
 
         The Secretary shall—
 

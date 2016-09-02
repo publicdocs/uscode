@@ -15,15 +15,15 @@
 
 ## § 5352. Program authorization
 
-    (a) __Grant Eligibility.—__ 
+    (a)  __Grant Eligibility__  __.—__ 
 
     To be eligible to receive an initial grant or a renewal grant under this part, a State or local law enforcement agency or prosecutor shall meet each of the following criteria:
 
-        (1) __Application.—__ 
+        (1)  __Application__  __.—__ 
 
         The State or local law enforcement agency or prosecutor shall submit an application to the Secretary in accordance with section 5353(a)(2).
 
-        (2) __Accountability.—__ 
+        (2)  __Accountability__  __.—__ 
 
         The State or local law enforcement agency or prosecutor shall—
 
@@ -43,29 +43,29 @@
 
         (1) __Grants.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to subparagraph (D), for a fiscal year, the Secretary of the Treasury, in consultation with the Attorney General, may grant to an eligible applicant under this section for that fiscal year, an amount determined by the Secretary of the Treasury, in consultation with the Attorney General, to be appropriate.
 
-            (B) __Suspension of grants.—__ 
+            (B)  __Suspension of grants__  __.—__ 
 
             If such grant recipient fails to continue to meet the criteria specified in subsection (a), the Secretary may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
 
-            (C) __Renewal grants.—__ 
+            (C)  __Renewal grants__  __.—__ 
 
             Subject to subparagraph (D), the Secretary may award a renewal grant to a grant recipient under this subparagraph for each fiscal year following the fiscal year for which an initial grant is awarded.
 
-            (D) __Limitation.—__ 
+            (D)  __Limitation__  __.—__ 
 
             The amount of a grant award under this paragraph may not exceed $750,000 for a fiscal year.
 
         (2) __Grant awards.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided in subparagraph (B), the Secretary may, with respect to a community, make a grant to one eligible applicant that represents that community.
 
-            (B) __Exception.—__ 
+            (B)  __Exception__  __.—__ 
 
             The Secretary may make a grant to more than one eligible applicant that represent  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “represents”. </sup></sup>  a community if—
 
@@ -75,15 +75,15 @@
 
     (c) __Condition Relating to Proceeds of Asset Forfeitures.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         No grant may be made or renewed under this part to any State or local law enforcement agency or prosecutor unless the agency or prosecutor agrees to donate to the Secretary of the Treasury for the program established under this part any amount received by such agency or prosecutor (after the grant is made) pursuant to any criminal or civil forfeiture under chapter 46 of title 18, United States Code, or any similar provision of State law.
 
-        (2) __Scope of application.—__ 
+        (2)  __Scope of application__  __.—__ 
 
         Paragraph (1) shall not apply to any amount received by a State or local law enforcement agency or prosecutor pursuant to any criminal or civil forfeiture referred to in such paragraph in excess of the aggregate amount of grants received by such agency or prosecutor under this part.
 
-    (d) __Rolling Grant Application Periods.—__ 
+    (d)  __Rolling Grant Application Periods__  __.—__ 
 
     In establishing the program under this part, the Secretary shall take such action as may be necessary to ensure, to the extent practicable, that—
 

@@ -141,11 +141,11 @@ Aug. 2, 1946, ch. 753, § 424(a)(2d par. on p. 847), (b)(related to 2d par. of
 
 [Pub. L. 106–185, § 3(b)][/us/pl/106/185/s3/b], Apr. 25, 2000, [114 Stat. 211][/us/stat/114/211], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     With respect to a claim that cannot be settled under chapter 171 of title 28, United States Code, the Attorney General may settle, for not more than $50,000 in any case, a claim for damage to, or loss of, privately owned property caused by an investigative or law enforcement officer (as defined in [section 2680(h) of title 28][/us/usc/t28/s2680/h], United States Code) who is employed by the Department of Justice acting within the scope of his or her employment.
 
->     “(2) __Limitations.—__ 
+>     “(2)  __Limitations__  __.—__ 
 
 >     The Attorney General may not pay a claim under paragraph (1) that—
 

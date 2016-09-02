@@ -165,7 +165,7 @@ July 25, 1956, ch. 727, §§ 1(c)(last sentence), (d), 5, 70 Stat. 648, 649.  
 
 [Pub. L. 101–510, div. A, title XIV, § 1406][/us/pl/101/510/s1406], Nov. 5, 1990, [104 Stat. 1680][/us/stat/104/1680], provided that:
 
->     “(a) __Audit Requirement.—__ 
+>     “(a)  __Audit Requirement__  __.—__ 
 
 >     The Secretary of Defense shall provide for an audit of each account of the Department of Defense established under paragraph (1) of [section 1552(a) of title 31][/us/usc/t31/s1552/a], United States Code, as in effect on the day before the date of the enactment of this Act \[Nov. 5, 1990\]. The audit shall, with respect to each such account, identify—
 
@@ -177,11 +177,11 @@ July 25, 1956, ch. 727, §§ 1(c)(last sentence), (d), 5, 70 Stat. 648, 649.  
 
 >         “(4) such other matters as the Secretary considers appropriate.
 
->     “(b) __Deobligation of Obligations No Longer Valid.—__ 
+>     “(b)  __Deobligation of Obligations No Longer Valid__  __.—__ 
 
 >     Any obligated amounts in accounts of the Department of Defense established under paragraph (1) of [section 1552(a) of title 31][/us/usc/t31/s1552/a], United States Code, that are determined pursuant to the audit under subsection (a) to represent amounts for obligations that are no longer valid shall be deobligated and canceled.
 
->     “(c) __Report on Audit.—__ 
+>     “(c)  __Report on Audit__  __.—__ 
 
 >     Not later than December 31, 1991, the Secretary of Defense shall submit to Congress a report containing the results of the audit conducted pursuant to subsection (a). The report shall set forth—
 

@@ -135,11 +135,11 @@ R.S. § 297.  </td>
 
 [Pub. L. 113–6, div. F, title VI, § 1611][/us/pl/113/6/s1611], Mar. 26, 2013, [127 Stat. 427][/us/stat/127/427], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Available balances of expired Government Accountability Office appropriations shall be available to the Government Accountability Office to make the deposit to the credit of the Employees’ Compensation Fund required by [section 8147(b) of title 5][/us/usc/t5/s8147/b]\[,\] United States Code.
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     This section shall apply with respect to fiscal year 2013 and each fiscal year thereafter.”
 

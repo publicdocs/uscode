@@ -47,7 +47,7 @@
 
         (3) A claim that is not received in the time required under this subsection shall be returned with a copy of this subsection, and no further communication is required.
 
-    (c) __One-Year Limit for Check Claims.—__ 
+    (c)  __One-Year Limit for Check Claims__  __.—__ 
 
         (1) Any claim on account of a Treasury check shall be barred unless it is presented to the agency that authorized the issuance of such check within 1 year after the date of issuance of the check or the effective date of this subsection, whichever is later.
 

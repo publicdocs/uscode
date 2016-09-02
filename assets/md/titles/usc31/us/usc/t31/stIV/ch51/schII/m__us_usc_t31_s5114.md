@@ -17,11 +17,11 @@
 
     (a) __Authority To Engrave and Print.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary of the Treasury shall engrave and print United States currency and bonds of the United States Government and currency and bonds of United States territories and possessions from intaglio plates on plate printing presses the Secretary selects. However, other security documents and checks may be printed by any process the Secretary selects. Engraving and printing shall be carried out within the Department of the Treasury if the Secretary decides the engraving and printing can be carried out as cheaply, perfectly, and safely as outside the Department.
 
-        (2) __Engraving and printing for other governments.—__ 
+        (2)  __Engraving and printing for other governments__  __.—__ 
 
         The Secretary of the Treasury may produce currency, postage stamps, and other security documents for foreign governments if—
 
@@ -29,7 +29,7 @@
 
             (B) the Secretary of State determines that such production would be consistent with the foreign policy of the United States.
 
-        (3) __Procurement guidelines.—__ 
+        (3)  __Procurement guidelines__  __.—__ 
 
         Articles, material, and supplies procured for use in the production of currency, postage stamps, and other security documents for foreign governments pursuant to paragraph (2) shall be treated in the same manner as articles, material, and supplies procured for public use within the United States for purposes of title III of the Act of March 3, 1933 ([41 U.S.C. 10a][/us/usc/t41/s10a] et seq.; commonly referred to as the Buy American Act). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 

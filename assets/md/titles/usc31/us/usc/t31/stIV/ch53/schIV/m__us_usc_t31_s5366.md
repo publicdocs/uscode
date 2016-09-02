@@ -15,11 +15,11 @@
 
 ## § 5366. Criminal penalties
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Any person who violates section 5363 shall be fined under title 18, imprisoned for not more than 5 years, or both.
 
-    (b) __Permanent Injunction.—__ 
+    (b)  __Permanent Injunction__  __.—__ 
 
     Upon conviction of a person under this section, the court may enter a permanent injunction enjoining such person from placing, receiving, or otherwise making bets or wagers or sending, receiving, or inviting information assisting in the placing of bets or wagers.
 

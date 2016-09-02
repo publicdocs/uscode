@@ -309,17 +309,17 @@ Oct. 26, 1970, Pub. L. 91–510, § 204(d)(last sentence), 84 Stat. 1168; rest
 
 [Pub. L. 108–271, § 13][/us/pl/108/271/s13], July 7, 2004, [118 Stat. 816][/us/stat/118/816], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), this Act \[see Tables for classification\] and the amendments made by this Act shall take effect on the date of enactment of this Act \[July 7, 2004\].
 
 >     “(b) __Pay Adjustments.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Section 3 of this Act \[amending sections 732 and 733 of this title\] and the amendments made by that section shall take effect on October 1, 2005, and shall apply in the case of any annual pay adjustment taking effect on or after that date.
 
->         “(2) __Interim authorities.—__ 
+>         “(2)  __Interim authorities__  __.—__ 
 
 >         In connection with any pay adjustment taking effect under section 732(c)(3) or 733(a)(3)(B) of title 31, United States Code, before October 1, 2005, the Comptroller General may by regulation—
 
@@ -329,11 +329,11 @@ Oct. 26, 1970, Pub. L. 91–510, § 204(d)(last sentence), 84 Stat. 1168; rest
 
 >         “(3) __Additional authority.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Comptroller General may by regulation delay the effective date of section 3 of this Act and the amendments made by that section for groups of officers and employees that the Comptroller General considers appropriate.
 
->             “(B) __Interim authorities.—__ 
+>             “(B)  __Interim authorities__  __.—__ 
 
 >             If the Comptroller General provides for a delayed effective date under subparagraph (A) with respect to any group of officers or employees, paragraph (2) shall, for purposes of such group, be applied by substituting such date for ‘October 1, 2005’.”
 

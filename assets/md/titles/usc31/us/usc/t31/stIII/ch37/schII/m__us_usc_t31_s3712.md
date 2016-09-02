@@ -17,7 +17,7 @@
 
     (a) __Claims Over Forged or Unauthorized Endorsements.—__ 
 
-        (1) __Period for claims.—__ 
+        (1)  __Period for claims__  __.—__ 
 
         If the Secretary of the Treasury determines that a Treasury check has been paid over a forged or unauthorized endorsement, the Secretary may reclaim the amount of such check from the presenting bank or any other endorser that has breached its guarantee of endorsements prior to—
 
@@ -25,13 +25,13 @@
 
             (B) the expiration of the 180-day period beginning on the close of the period described in subparagraph (A) if a timely claim is received under section 3702.
 
-        (2) __Civil actions.—__ 
+        (2)  __Civil actions__  __.—__ 
 
             (A) Except as provided in subparagraph (B), the United States may bring a civil action to enforce the liability of an endorser, transferor, depository, or fiscal agent on a forged or unauthorized signature or endorsement on, or a change in, a check or warrant issued by the Secretary of the Treasury, the United States Postal Service, or any disbursing official or agent not later than 1 year after a check or warrant is presented to the drawee for payment.
 
             (B) If the United States has given an endorser written notice of a claim against the endorser within the time allowed by subparagraph (A), the 1-year period for bringing a civil action on that claim under subparagraph (A) shall be extended by 3 years.
 
-        (3) __Effect on agency authority.—__ 
+        (3)  __Effect on agency authority__  __.—__ 
 
         Nothing in this subsection shall be construed to limit the authority of any agency under subchapter II of chapter 37 of this title.
 
@@ -43,11 +43,11 @@
 
     (e) __Treasury Check Offset.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         To facilitate collection of amounts owed by presenting banks pursuant to subsection (a) or (b), upon the direction of the Secretary, a Federal reserve bank shall withhold credit from banks presenting Treasury checks for ultimate charge to the account of the United States Treasury. By presenting Treasury checks for payment a presenting bank is deemed to authorize this offset.
 
-        (2) __Attempt to collect required.—__ 
+        (2)  __Attempt to collect required__  __.—__ 
 
         Prior to directing offset under subsection (a)(1), the Secretary shall first attempt to collect amounts owed in the manner provided by sections 3711 and 3716.
 

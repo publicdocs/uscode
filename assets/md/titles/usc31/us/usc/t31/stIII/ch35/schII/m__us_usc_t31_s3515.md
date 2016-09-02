@@ -95,11 +95,11 @@
 
 [Pub. L. 107–289, § 2(b)][/us/pl/107/289/s2/b], Nov. 7, 2002, [116 Stat. 2050][/us/stat/116/2050], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Director of the Office of Management and Budget may waive the application of all or part of [section 3515(a) of title 31][/us/usc/t31/s3515/a], United States Code, as amended by this section, for financial statements required for the first 2 fiscal years beginning after the date of the enactment of this Act \[Nov. 7, 2002\] for an agency described in paragraph (2) of this subsection.
 
->     “(2) __Agencies described.—__ 
+>     “(2)  __Agencies described__  __.—__ 
 
 >     An agency referred to in paragraph (1) is any covered executive agency (as that term is defined by [section 3515(f) of title 31][/us/usc/t31/s3515/f], United States Code, as amended by subsection (a) of this section) that is not an executive agency identified in [section 901(b) of title 31][/us/usc/t31/s901/b], United States Code.”
 

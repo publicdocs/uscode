@@ -15,11 +15,11 @@
 
 ## § 1123. Chief Operating Officers
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     At each agency, the deputy head of agency, or equivalent, shall be the Chief Operating Officer of the agency.
 
-    (b) __Function.—__ 
+    (b)  __Function__  __.—__ 
 
     Each Chief Operating Officer shall be responsible for improving the management and performance of the agency, and shall—
 

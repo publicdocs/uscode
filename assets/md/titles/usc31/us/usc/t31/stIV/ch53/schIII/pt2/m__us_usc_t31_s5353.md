@@ -17,15 +17,15 @@
 
     (a) __Applicant and Grantee Information.—__ 
 
-        (1) __Application process.—__ 
+        (1)  __Application process__  __.—__ 
 
         The Secretary shall issue requests for proposal, as necessary, regarding, with respect to the grants awarded under section 5352, the application process, grant renewal, and suspension or withholding of renewal grants. Each application under this paragraph shall be in writing and shall be subject to review by the Secretary.
 
-        (2) __Reporting.—__ 
+        (2)  __Reporting__  __.—__ 
 
         The Secretary shall, to the maximum extent practicable and in a manner consistent with applicable law, minimize reporting requirements by a grant recipient and expedite any application for a renewal grant made under this part.
 
-    (b) __Activities of Secretary.—__ 
+    (b)  __Activities of Secretary__  __.—__ 
 
     The Secretary may—
 

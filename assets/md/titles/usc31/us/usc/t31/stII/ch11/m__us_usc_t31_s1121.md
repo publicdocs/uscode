@@ -15,7 +15,7 @@
 
 ## § 1121. Quarterly priority progress reviews and use of performance information
 
-    (a) __Use of Performance Information To Achieve Federal Government Priority Goals.—__ 
+    (a)  __Use of Performance Information To Achieve Federal Government Priority Goals__  __.—__ 
 
     Not less than quarterly, the Director of the Office of Management and Budget, with the support of the Performance Improvement Council, shall—
 
@@ -29,7 +29,7 @@
 
         (5) for the Federal Government priority goals at greatest risk of not meeting the planned level of performance, identify prospects and strategies for performance improvement, including any needed changes to agencies, organizations, program activities, regulations, tax expenditures, policies or other activities.
 
-    (b) __Agency Use of Performance Information To Achieve Agency Priority Goals.—__ 
+    (b)  __Agency Use of Performance Information To Achieve Agency Priority Goals__  __.—__ 
 
     Not less than quarterly, at each agency required to develop agency priority goals required by [section 1120(b) of this title][/us/usc/t31/s1120/b], the head of the agency and Chief Operating Officer, with the support of the agency Performance Improvement Officer, shall—
 

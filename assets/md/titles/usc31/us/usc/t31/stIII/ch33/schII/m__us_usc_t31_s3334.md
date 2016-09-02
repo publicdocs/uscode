@@ -15,19 +15,19 @@
 
 ## § 3334. Cancellation and proceeds distribution of Treasury checks
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
         (1) The Secretary shall provide monthly to each agency that authorizes the issuance of Treasury checks a list of those checks issued for such agency on or after such effective date that have not been paid and have become more than 12 months old during the preceding month, beginning with the fourteenth month following the effective date of this section.
 
         (2) Such checks shall be canceled by the Secretary and the proceeds thereof shall be returned to the agency concerned and credited to the appropriation or fund account initially charged for the payment.
 
-    (b) __Checks Issued Before Effective Date.—__ 
+    (b)  __Checks Issued Before Effective Date__  __.—__ 
 
         (1) Not later than 18 months after the effective date of this section, the Secretary shall identify and cancel all Treasury checks issued before such effective date that have not been paid in accordance with [section 3328 of this title][/us/usc/t31/s3328].
 
         (2) The proceeds from checks canceled pursuant to paragraph (1) shall be applied to eliminate the balances in accounts that represent uncollectible accounts receivable and other costs associated with the payment of checks and check claims by the Department of the Treasury on behalf of all payment certifying agencies. Any remaining proceeds shall be deposited to the miscellaneous receipts of the Treasury.
 
-    (c) __No Effect on Underlying Obligation.—__ 
+    (c)  __No Effect on Underlying Obligation__  __.—__ 
 
     Nothing in this section shall be construed to affect the underlying obligation of the United States, or any agency thereof, for which a Treasury check was issued.
 

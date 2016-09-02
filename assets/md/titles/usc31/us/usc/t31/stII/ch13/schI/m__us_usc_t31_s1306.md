@@ -15,11 +15,11 @@
 
 ## § 1306. Use of foreign credits
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Foreign credits (including currencies) owed to or owned by the United States may be used by any agency for any purpose for which appropriations are made for the agency for the current fiscal year (including the carrying out of Acts requiring or authorizing the use of such credits), but only when reimbursement therefor is made to the Treasury from applicable appropriations of the agency.
 
-    (b) __Exception to Reimbursement Requirement.—__ 
+    (b)  __Exception to Reimbursement Requirement__  __.—__ 
 
     Credits described in subsection (a) that are received as exchanged allowances, or as the proceeds of the sale of personal property, may be used in whole or partial payment for the acquisition of similar items, to the extent and in the manner authorized by law, without reimbursement to the Treasury.
 

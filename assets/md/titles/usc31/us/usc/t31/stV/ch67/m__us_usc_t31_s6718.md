@@ -17,7 +17,7 @@
 
     (a) __Investigations by Secretary.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall within a reasonable time limit—
 
@@ -27,11 +27,11 @@
 
             (C) advise a complainant of the status of an audit, investigation, or review of an allegation by the complainant of a violation of section 6711(a) or (b) or other provision of this chapter.
 
-        (2) __Time limit.—__ 
+        (2)  __Time limit__  __.—__ 
 
         The maximum time limit under paragraph (1)(A) is 120 days.
 
-    (b) __Reviews by Comptroller General.—__ 
+    (b)  __Reviews by Comptroller General__  __.—__ 
 
     The Comptroller General of the United States may carry out reviews of the activities of the Secretary, State governments, and units of general local government necessary for the Congress to evaluate compliance and operations under this chapter. These reviews may include a comparison of the waste and inefficiency of local governments using funds under this chapter compared to waste and inefficiency with other comparable Federal programs.
 

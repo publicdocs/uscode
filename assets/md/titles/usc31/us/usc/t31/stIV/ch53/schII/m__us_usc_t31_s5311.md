@@ -79,15 +79,15 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
 [Pub. L. 111–24, title V, § 503][/us/pl/111/24/s503], May 22, 2009, [123 Stat. 1756][/us/stat/123/1756], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 270 days after the date of enactment of this Act \[May 22, 2009\], the Secretary of the Treasury, in consultation with the Secretary of Homeland Security, shall issue regulations in final form implementing the Bank Secrecy Act \[see Short Title note under [section 1951 of Title 12][/us/usc/t12/s1951], Banks and Banking\], regarding the sale, issuance, redemption, or international transport of stored value, including stored value cards.
 
->     “(b) __Consideration of International Transport.—__ 
+>     “(b)  __Consideration of International Transport__  __.—__ 
 
 >     Regulations under this section regarding international transport of stored value may include reporting requirements pursuant to [section 5316 of title 31][/us/usc/t31/s5316], United States Code.
 
->     “(c) __Emerging Methods for Transmittal and Storage in Electronic Form.—__ 
+>     “(c)  __Emerging Methods for Transmittal and Storage in Electronic Form__  __.—__ 
 
 >     Regulations under this section shall take into consideration current and future needs and methodologies for transmitting and storing value in electronic form.”
 
@@ -97,7 +97,7 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
 > “SEC. 7701. __IMPROVING INTERNATIONAL STANDARDS AND COOPERATION TO FIGHT TERRORIST FINANCING.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -115,7 +115,7 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
 >         “(7) In fulfilling its duties in advancing incorporation of AML and CFT standards into the IFIs as part of the IFIs’ work on protecting the integrity of the international monetary system, the Department of the Treasury, under the guidance of the Secretary of the Treasury, has effectively brought together all of the key United States Government agencies. In particular, United States Government agencies continue to work together to foster broad support for this important undertaking in various multilateral fora, and United States Government agencies recognize the need for close coordination and communication within our own Government.
 
->     “(b) __Sense of Congress Regarding Success in Multilateral Organizations.—__ 
+>     “(b)  __Sense of Congress Regarding Success in Multilateral Organizations__  __.—__ 
 
 >     It is the sense of Congress that the Secretary of the Treasury should continue to promote the dissemination of international AML and CFT standards, and to press for full implementation of the FATF 40 + 8 Recommendations by all countries in order to curb financial risks and hinder terrorist financing around the globe. The efforts of the Secretary in this regard should include, where necessary or appropriate, multilateral action against countries whose counter-money laundering regimes and efforts against the financing of terrorism fall below recognized international standards.
 
@@ -137,7 +137,7 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
 [Pub. L. 107–56, title III, § 302][/us/pl/107/56/s302], Oct. 26, 2001, [115 Stat. 296][/us/stat/115/296], as amended by [Pub. L. 108–458, title VI, § 6202(c)][/us/pl/108/458/s6202/c], Dec. 17, 2004, [118 Stat. 3745][/us/stat/118/3745], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -161,7 +161,7 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
 >         “(10) the Basle Committee on Banking Regulation and Supervisory Practices and the Financial Action Task Force on Money Laundering, of both of which the United States is a member, have each adopted international anti-money laundering principles and recommendations.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this title \[see Short Title of 2001 Amendment note set out under [section 5301 of this title][/us/usc/t31/s5301]\] are—
 
@@ -211,11 +211,11 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
 >     “(a) __Cooperation Among Financial Institutions, Regulatory Authorities, and Law Enforcement Authorities.—__ 
 
->         “(1) __Regulations.—__ 
+>         “(1)  __Regulations__  __.—__ 
 
 >         The Secretary \[of the Treasury\] shall, within 120 days after the date of enactment of this Act \[Oct. 26, 2001\], adopt regulations to encourage further cooperation among financial institutions, their regulatory authorities, and law enforcement authorities, with the specific purpose of encouraging regulatory authorities and law enforcement authorities to share with financial institutions information regarding individuals, entities, and organizations engaged in, or reasonably suspected based on credible evidence of engaging in, terrorist acts or money laundering activities.
 
->         “(2) __Cooperation and information sharing procedures.—__ 
+>         “(2)  __Cooperation and information sharing procedures__  __.—__ 
 
 >         The regulations adopted under paragraph (1) may include or create procedures for cooperation and information sharing focusing on—
 
@@ -225,7 +225,7 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
 >             “(C) means of facilitating the identification of accounts and transactions involving terrorist groups and facilitating the exchange of information concerning such accounts and transactions between financial institutions and law enforcement organizations.
 
->         “(3) __Contents.—__ 
+>         “(3)  __Contents__  __.—__ 
 
 >         The regulations adopted pursuant to paragraph (1) may—
 
@@ -233,23 +233,23 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
 >             “(B) further establish procedures for the protection of the shared information, consistent with the capacity, size, and nature of the financial institution to which the particular procedures apply.
 
->         “(4) __Rule of construction.—__ 
+>         “(4)  __Rule of construction__  __.—__ 
 
 >         The receipt of information by a financial institution pursuant to this section shall not relieve or otherwise modify the obligations of the financial institution with respect to any other person or account.
 
->         “(5) __Use of information.—__ 
+>         “(5)  __Use of information__  __.—__ 
 
 >         Information received by a financial institution pursuant to this section shall not be used for any purpose other than identifying and reporting on activities that may involve terrorist acts or money laundering activities.
 
->     “(b) __Cooperation Among Financial Institutions.—__ 
+>     “(b)  __Cooperation Among Financial Institutions__  __.—__ 
 
 >     Upon notice provided to the Secretary, 2 or more financial institutions and any association of financial institutions may share information with one another regarding individuals, entities, organizations, and countries suspected of possible terrorist or money laundering activities. A financial institution or association that transmits, receives, or shares such information for the purposes of identifying and reporting activities that may involve terrorist acts or money laundering activities shall not be liable to any person under any law or regulation of the United States, any constitution, law, or regulation of any State or political subdivision thereof, or under any contract or other legally enforceable agreement (including any arbitration agreement), for such disclosure or for any failure to provide notice of such disclosure to the person who is the subject of such disclosure, or any other person identified in the disclosure, except where such transmission, receipt, or sharing violates this section or regulations promulgated pursuant to this section.
 
->     “(c) __Rule of Construction.—__ 
+>     “(c)  __Rule of Construction__  __.—__ 
 
 >     Compliance with the provisions of this title \[see Short Title of 2001 Amendment note set out under [section 5301 of this title][/us/usc/t31/s5301]\] requiring or allowing financial institutions and any association of financial institutions to disclose or share information regarding individuals, entities, and organizations engaged in or suspected of engaging in terrorist acts or money laundering activities shall not constitute a violation of the provisions of title V of the Gramm-Leach-Bliley Act ([Public Law 106–102][/us/pl/106/102]) \[[15 U.S.C. 6801][/us/usc/t15/s6801] et seq.\].
 
->     “(d) __Reports to the Financial Services Industry on Suspicious Financial Activities.—__ 
+>     “(d)  __Reports to the Financial Services Industry on Suspicious Financial Activities__  __.—__ 
 
 >     At least semiannually, the Secretary shall—
 
@@ -297,11 +297,11 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
 [Pub. L. 107–56, title III, § 356(c)][/us/pl/107/56/s356/c], Oct. 26, 2001, [115 Stat. 324][/us/stat/115/324], as amended by [Pub. L. 108–458, title VI, § 6202(j)][/us/pl/108/458/s6202/j], Dec. 17, 2004, [118 Stat. 3746][/us/stat/118/3746], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Oct. 26, 2001\], the Secretary \[of the Treasury\], the Board of Governors of the Federal Reserve System, and the Securities and Exchange Commission shall jointly submit a report to the Congress on recommendations for effective regulations to apply the requirements of subchapter II of chapter 53 of title 31, United States Code, to investment companies pursuant to [section 5312(a)(2)(I) of title 31][/us/usc/t31/s5312/a/2/I], United States Code.
 
->     “(2) __Definition.—__ 
+>     “(2)  __Definition__  __.—__ 
 
 >     For purposes of this subsection, the term ‘investment company’—
 
@@ -309,11 +309,11 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
 >         “(B) includes any person that, but for the exceptions provided for in paragraph (1) or (7) of section 3(c) of the Investment Company Act of 1940 ([15 U.S.C. 80a–3(c)][/us/usc/t15/s80a–3/c]), would be an investment company.
 
->     “(3) __Additional recommendations.—__ 
+>     “(3)  __Additional recommendations__  __.—__ 
 
 >     The report required by paragraph (1) may make different recommendations for different types of entities covered by this subsection.
 
->     “(4) __Beneficial ownership of personal holding companies.—__ 
+>     “(4)  __Beneficial ownership of personal holding companies__  __.—__ 
 
 >     The report described in paragraph (1) shall also include recommendations as to whether the Secretary should promulgate regulations to treat any corporation, business trust, or other grantor trust whose assets are predominantly securities, bank certificates of deposit, or other securities or investment instruments (other than such as relate to operating subsidiaries of such corporation or trust) and that has 5 or fewer common shareholders or holders of beneficial or other equity interest, as a financial institution within the meaning of that phrase in section 5312(a)(2)(I) and whether to require such corporations or trusts to disclose their beneficial owners when opening accounts or initiating funds transfers at any domestic financial institution.”
 
@@ -327,7 +327,7 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
 [Pub. L. 103–325, title IV, § 407][/us/pl/103/325/s407], Sept. 23, 1994, [108 Stat. 2247][/us/stat/108/2247], provided that:
 
->     “(a) __Uniform Laws and Enforcement.—__ 
+>     “(a)  __Uniform Laws and Enforcement__  __.—__ 
 
 >     For purposes of preventing money laundering and protecting the payment system from fraud and abuse, it is the sense of the Congress that the several States should—
 
@@ -341,15 +341,15 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
 >         “(2) provide sufficient resources to the appropriate State agency to enforce such laws and regulations prescribed pursuant to such laws.
 
->     “(b) __Model Statute.—__ 
+>     “(b)  __Model Statute__  __.—__ 
 
 >     It is the sense of the Congress that the several States should develop, through the auspices of the National Conference of Commissioners on Uniform State Laws, the American Law Institute, or such other forum as the States may determine to be appropriate, a model statute to carry out the goals described in subsection (a) which would include the following:
 
->         “(1) __Licensing requirements.—__ 
+>         “(1)  __Licensing requirements__  __.—__ 
 
 >         A requirement that any business described in subsection (a)(1) be licensed and regulated by an appropriate State agency in order to engage in any such activity within the State.
 
->         “(2) __Licensing standards.—__ 
+>         “(2)  __Licensing standards__  __.—__ 
 
 >         A requirement that—
 
@@ -381,7 +381,7 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
 >                   may be grounds for the denial of any such license by the appropriate State agency.
 
->         “(3) __Reporting requirements.—__ 
+>         “(3)  __Reporting requirements__  __.—__ 
 
 >         A requirement that any business described in subsection (a)(1)—
 
@@ -389,15 +389,15 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
 >             “(B) conspicuously disclose to the public, at each location of such business, the fees charged to consumers for such services.
 
->         “(4) __Procedures to ensure compliance with federal cash transaction reporting requirements.—__ 
+>         “(4)  __Procedures to ensure compliance with federal cash transaction reporting requirements__  __.—__ 
 
 >         A civil or criminal penalty for operating any business referred to in paragraph (1) without establishing and complying with appropriate procedures to ensure compliance with subchapter II of chapter 53 of title 31, United States Code (relating to records and reports on monetary instruments transactions).
 
->         “(5) __Criminal penalties for operation of business without a license.—__ 
+>         “(5)  __Criminal penalties for operation of business without a license__  __.—__ 
 
 >         A criminal penalty for operating any business referred to in paragraph (1) without a license within the State after the end of an appropriate transition period beginning on the date of enactment of such model statute by the State.
 
->     “(c) __Study Required.—__ 
+>     “(c)  __Study Required__  __.—__ 
 
 >     The Secretary of the Treasury shall conduct a study of—
 
@@ -423,11 +423,11 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
 >             “(B) the resources made available to the appropriate State agencies for such enforcement activity.
 
->     “(d) __Report Required.—__ 
+>     “(d)  __Report Required__  __.—__ 
 
 >     Not later than the end of the 3-year period beginning on the date of enactment of this Act \[Sept. 23, 1994\] and not later than the end of each of the first two 1-year periods beginning after the end of such 3-year period, the Secretary of the Treasury shall submit a report to the Congress containing the findings and recommendations of the Secretary in connection with the study under subsection (c), together with such recommendations for legislative and administrative action as the Secretary may determine to be appropriate.
 
->     “(e) __Recommendations in Cases of Inadequate Regulation and Enforcement by States.—__ 
+>     “(e)  __Recommendations in Cases of Inadequate Regulation and Enforcement by States__  __.—__ 
 
 >     If the Secretary of the Treasury determines that any State has been unable to—
 
@@ -441,11 +441,11 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
 >     “(f) __Federal Funding Study.—__ 
 
->         “(1) __Study required.—__ 
+>         “(1)  __Study required__  __.—__ 
 
 >         The Secretary of the Treasury shall conduct a study to identify possible available sources of Federal funding to cover costs which will be incurred by the States in carrying out the purposes of this section.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         The Secretary of the Treasury shall submit a report to the Congress on the study conducted pursuant to paragraph (1) not later than the end of the 18-month period beginning on the date of enactment of this Act \[Sept. 23, 1994\].”
 
@@ -459,11 +459,11 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
 [Pub. L. 102–550, title XV, § 1564][/us/pl/102/550/s1564], Oct. 28, 1992, [106 Stat. 4073][/us/stat/106/4073], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Oct. 28, 1992\], the Secretary of the Treasury shall establish a Bank Secrecy Act Advisory Group consisting of representatives of the Department of the Treasury, the Department of Justice, and the Office of National Drug Control Policy and of other interested persons and financial institutions subject to the reporting requirements of subchapter II of chapter 53 of title 31, United States Code, or section 6050I of the Internal Revenue Code of 1986 \[[26 U.S.C. 6050I][/us/usc/t26/s6050I]\].
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The Advisory Group shall provide a means by which the Secretary—
 
@@ -473,7 +473,7 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
 >         “(3) receives advice on the manner in which the reporting requirements referred to in subsection (a) should be modified to enhance the ability of law enforcement agencies to use the information provided for law enforcement purposes.
 
->     “(c) __Inapplicability of Federal Advisory Committee Act.—__ 
+>     “(c)  __Inapplicability of Federal Advisory Committee Act__  __.—__ 
 
 >     The Federal Advisory Committee Act \[5 U.S.C. App.\] shall not apply to the Bank Secrecy Act Advisory Group established pursuant to subsection (a).”
 
@@ -481,11 +481,11 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
 [Pub. L. 102–550, title XV, § 1565][/us/pl/102/550/s1565], Oct. 28, 1992, [106 Stat. 4074][/us/stat/106/4074], provided that:
 
->     “(a) __Study Required.—__ 
+>     “(a)  __Study Required__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct a feasibility study of the Financial Crimes Enforcement Network (popularly referred to as ‘Fincen’) established by the Secretary of the Treasury in cooperation with other agencies and departments of the United States and appropriate Federal banking agencies.
 
->     “(b) __Specific Requirements.—__ 
+>     “(b)  __Specific Requirements__  __.—__ 
 
 >     In conducting the study required under subsection (a), the Comptroller General shall examine and evaluate—
 
@@ -505,7 +505,7 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
 >         “(4) the extent to which the operating procedures established for the system provide for the prompt verification of the accuracy and completeness of information entered into the system and the prompt deletion or correction of inaccurate or incomplete information.
 
->     “(c) __Report to Congress.—__ 
+>     “(c)  __Report to Congress__  __.—__ 
 
 >     Before the end of the 1-year period, beginning on the date of the enactment of this Act \[Oct. 28, 1992\], the Comptroller General of the United States shall submit a report to the Congress containing the findings and conclusions of the Comptroller General in connection with the study conducted pursuant to subsection (a), together with such recommendations for legislative or administrative action as the Comptroller General may determine to be appropriate.”
 
@@ -537,15 +537,15 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
 [Pub. L. 100–690, title IV, § 4702][/us/pl/100/690/s4702], Nov. 18, 1988, [102 Stat. 4291][/us/stat/102/4291], as amended by [Pub. L. 103–447, title I, § 103(b)][/us/pl/103/447/s103/b], Nov. 2, 1994, [108 Stat. 4693][/us/stat/108/4693], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that international currency transactions, especially in United States currency, that involve the proceeds of narcotics trafficking fuel trade in narcotics in the United States and worldwide and consequently are a threat to the national security of the United States.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of this section is to provide for international negotiations that would expand access to information on transactions involving large amounts of United States currency wherever those transactions occur worldwide.
 
->     “(c) __Negotiations.—__ 
+>     “(c)  __Negotiations__  __.—__ 
 
 >         (1) The Secretary of the Treasury (hereinafter in this section referred to as the ‘Secretary’) shall enter into negotiations with the appropriate financial supervisory agencies and other officials of any foreign country the financial institutions of which do business in United States currency. Highest priority shall be attached to countries whose financial institutions the Secretary determines, in consultation with the Attorney General and the Director of National Drug Control Policy, may be engaging in currency transactions involving the proceeds of international narcotics trafficking, particularly United States currency derived from drug sales in the United States.
 
@@ -559,7 +559,7 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
 >             In carrying out such negotiations, the Secretary should seek to enter into and further cooperative efforts, voluntary information exchanges, the use of letters rogatory, and mutual legal assistance treaties.
 
->     “(d) __Reports.—__ 
+>     “(d)  __Reports__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Nov. 18, 1988\], the Secretary shall submit an interim report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on progress in the negotiations under subsection (c). Not later than 2 years after such enactment, the Secretary shall submit a final report to such Committees and the President on the outcome of those negotiations and shall identify, in consultation with the Attorney General and the Director of National Drug Control Policy, countries—
 
@@ -567,7 +567,7 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
 >         “(2) which have not reached agreement with United States authorities on a mechanism for exchanging adequate records on international currency transactions in connection with narcotics investigations and proceedings.
 
->     “(e) __Authority.—__ 
+>     “(e)  __Authority__  __.—__ 
 
 >     If after receiving the advice of the Secretary and in any case at the time of receipt of the Secretary’s report, the Secretary determines that a foreign country—
 
@@ -585,7 +585,7 @@ Oct. 26, 1970, Pub. L. 91–508, § 202, 84 Stat. 1118.  </td>
 
 >         Any penalties or sanctions so imposed may be delayed or waived upon certification of the President to the Congress that it is in the national interest to do so. Financial institutions in such countries that maintain adequate records shall be exempt from such penalties and sanctions.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     For the purposes of this section—
 

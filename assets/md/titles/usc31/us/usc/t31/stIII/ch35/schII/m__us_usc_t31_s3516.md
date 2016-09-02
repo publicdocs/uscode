@@ -93,7 +93,7 @@
 
 > “SEC. 2. __IMPROVING FINANCIAL ACCOUNTABILITY AND MANAGEMENT.__ 
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section—
 
@@ -105,11 +105,11 @@
 
 >         “(4) the term ‘unqualified opinion’ mean an unqualified opinion within the meaning given that term under generally accepted auditing standards.
 
->     “(b) __Reaching an Unqualified Audit Opinion.—__ 
+>     “(b)  __Reaching an Unqualified Audit Opinion__  __.—__ 
 
 >     In order to ensure compliance with the Department of Homeland Security Financial Accountability Act ([Public Law 108–330][/us/pl/108/330]; [118 Stat. 1275][/us/stat/118/1275]) \[see Short Title of 2004 Amendment note set out under [section 101 of Title 6][/us/usc/t6/s101], Domestic Security\], and the amendments made by that Act, the Secretary shall take the necessary steps to ensure that the full set of consolidated financial statements of the Department for the fiscal year ending September 30, 2013, and each fiscal year thereafter, are ready in a timely manner and in preparation for an audit as part of preparing the performance and accountability reports required under [section 3516(f) of title 31][/us/usc/t31/s3516/f], United States Code, (including submitting the reports not later than November 15, 2013, and each year thereafter) in order to obtain an unqualified opinion on the full set of financial statements for the fiscal year.
 
->     “(c) __Report to Congress on Progress of Meeting Audit Requirements.—__ 
+>     “(c)  __Report to Congress on Progress of Meeting Audit Requirements__  __.—__ 
 
 >     In order to ensure progress in implementing the Department of Homeland Security Financial Accountability Act ([Public Law 108–330][/us/pl/108/330]; [118 Stat. 1275][/us/stat/118/1275]), and the amendments made by that Act, during the period beginning on the date of enactment of this Act \[Dec. 20, 2012\] and ending on the date on which an unqualified opinion described in subsection (b) is submitted, each report submitted by the Chief Financial Officer of the Department under [section 902(a)(6) of title 31][/us/usc/t31/s902/a/6], United States Code, shall include a plan—
 
@@ -123,11 +123,11 @@
 
 [Pub. L. 108–330, § 4(b)][/us/pl/108/330/s4/b], (c), Oct. 16, 2004, [118 Stat. 1277][/us/stat/118/1277], provided that:
 
->     “(b) __Implementation of Audit Opinion Requirement.—__ 
+>     “(b)  __Implementation of Audit Opinion Requirement__  __.—__ 
 
 >     The Secretary of Homeland Security shall include audit opinions in performance and accountability reports under [section 3516(f) of title 31][/us/usc/t31/s3516/f], United States Code, as amended by subsection (a), only for fiscal years after fiscal year 2005.
 
->     “(c) __Assertion of Internal Controls.—__ 
+>     “(c)  __Assertion of Internal Controls__  __.—__ 
 
 >     The Secretary of Homeland Security shall include in the performance and accountability report for fiscal year 2005 submitted by the Secretary under [section 3516(f) of title 31][/us/usc/t31/s3516/f], United States Code, an assertion of the internal controls that apply to financial reporting by the Department of Homeland Security.”
 
@@ -135,7 +135,7 @@
 
 [Pub. L. 106–531, § 2][/us/pl/106/531/s2], Nov. 22, 2000, [114 Stat. 2537][/us/stat/114/2537], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -145,7 +145,7 @@
 
 >         “(3) pilot projects conducted by agencies under the direction of the Office of Management and Budget demonstrate that single consolidated reports providing an analysis of verifiable financial and performance management information produce more useful reports with greater efficiency.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this Act \[see Short Title of 2000 Amendment note set out under [section 3501 of this title][/us/usc/t31/s3501]\] are—
 

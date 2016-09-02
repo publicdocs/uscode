@@ -75,15 +75,15 @@
 
     (f) __Silver Coins.—__ 
 
-        (1) __Sale price.—__ 
+        (1)  __Sale price__  __.—__ 
 
         The Secretary shall sell the coins minted under subsection (e) to the public at a price equal to the market value of the bullion at the time of sale, plus the cost of minting, marketing, and distributing such coins (including labor, materials, dies, use of machinery, and promotional and overhead expenses).
 
-        (2) __Bulk sales.—__ 
+        (2)  __Bulk sales__  __.—__ 
 
         The Secretary shall make bulk sales of the coins minted under subsection (e) at a reasonable discount.
 
-        (3) __Numismatic items.—__ 
+        (3)  __Numismatic items__  __.—__ 
 
         For purposes of [section 5132(a)(1) of this title][/us/usc/t31/s5132/a/1], all coins minted under subsection (e) shall be considered to be numismatic items.
 
@@ -127,29 +127,29 @@
 
     (j) __General Waiver of Procurement Regulations.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in paragraph (2), no provision of law governing procurement or public contracts shall be applicable to the procurement of goods or services necessary for minting, marketing, or issuing any coin authorized under paragraph (7), (8), (9), or (10) of subsection (a) or subsection (e), including any proof version of any such coin.
 
-        (2) __Equal employment opportunity.—__ 
+        (2)  __Equal employment opportunity__  __.—__ 
 
         Paragraph (1) shall not relieve any person entering into a contract with respect to any coin referred to in such paragraph from complying with any law relating to equal employment opportunity.
 
     (k) The Secretary may mint and issue platinum bullion coins and proof platinum coins in accordance with such specifications, designs, varieties, quantities, denominations, and inscriptions as the Secretary, in the Secretary’s discretion, may prescribe from time to time.
 
-    (l) __Redesign and Issuance of Quarter Dollar in Commemoration of Each of the 50 States.—__ 
+    (l)  __Redesign and Issuance of Quarter Dollar in Commemoration of Each of the__  __50 States.—__ 
 
         (1) __Redesign beginning in 1999.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Notwithstanding the fourth sentence of subsection (d)(1) and subsection (d)(2), quarter dollar coins issued during the 10-year period beginning in 1999, shall have designs on the reverse side selected in accordance with this subsection which are emblematic of the 50 States.
 
-            (B) __Transition provision.—__ 
+            (B)  __Transition provision__  __.—__ 
 
             Notwithstanding subparagraph (A), the Secretary may continue to mint and issue quarter dollars in 1999 which bear the design in effect before the redesign required under this subsection and an inscription of the year “1998” as required to ensure a smooth transition into the 10-year program under this subsection.
 
-            (C) __Flexibility with regard to placement of inscriptions.—__ 
+            (C)  __Flexibility with regard to placement of inscriptions__  __.—__ 
 
             Notwithstanding subsection (d)(1), the Secretary may select a design for quarter dollars issued during the 10-year period referred to in subparagraph (A) in which—
 
@@ -157,23 +157,23 @@
 
                 (ii) any inscription described in the third sentence of subsection (d)(1) or the designation of the value of the coin appears on the obverse side of any such quarter dollars.
 
-        (2) __Single state designs.—__ 
+        (2)  __Single state designs__  __.—__ 
 
         The design on the reverse side of each quarter dollar issued during the 10-year period referred to in paragraph (1) shall be emblematic of 1 of the 50 States.
 
         (3) __Issuance of coins commemorating 5 states during each of the 10 years.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The designs for the quarter dollar coins issued during each year of the 10-year period referred to in paragraph (1) shall be emblematic of 5 States selected in the order in which such States ratified the Constitution of the United States or were admitted into the Union, as the case may be.
 
-            (B) __Number of each of 5 coin designs in each year.—__ 
+            (B)  __Number of each of 5 coin designs in each year__  __.—__ 
 
             Of the quarter dollar coins issued during each year of the 10-year period referred to in paragraph (1), the Secretary of the Treasury shall prescribe, on the basis of such factors as the Secretary determines to be appropriate, the number of quarter dollars which shall be issued with each of the 5 designs selected for such year.
 
         (4) __Selection of design.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Each of the 50 designs required under this subsection for quarter dollars shall be—
 
@@ -187,53 +187,53 @@
 
                 (ii) reviewed by the Citizens Coinage Advisory Committee.
 
-            (B) __Selection and approval process.—__ 
+            (B)  __Selection and approval process__  __.—__ 
 
             Designs for quarter dollars may be submitted in accordance with the design selection and approval process developed by the Secretary in the sole discretion of the Secretary.
 
-            (C) __Participation.—__ 
+            (C)  __Participation__  __.—__ 
 
             The Secretary may include participation by State officials, artists from the States, engravers of the United States Mint, and members of the general public.
 
-            (D) __Standards.—__ 
+            (D)  __Standards__  __.—__ 
 
             Because it is important that the Nation’s coinage and currency bear dignified designs of which the citizens of the United States can be proud, the Secretary shall not select any frivolous or inappropriate design for any quarter dollar minted under this subsection.
 
-            (E) __Prohibition on certain representations.—__ 
+            (E)  __Prohibition on certain representations__  __.—__ 
 
             No head and shoulders portrait or bust of any person, living or dead, and no portrait of a living person may be included in the design of any quarter dollar under this subsection.
 
-        (5) __Treatment as numismatic items.—__ 
+        (5)  __Treatment as numismatic items__  __.—__ 
 
         For purposes of sections 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
 
         (6) __Issuance.—__ 
 
-            (A) __Quality of coins.—__ 
+            (A)  __Quality of coins__  __.—__ 
 
             The Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (4) in uncirculated and proof qualities as the Secretary determines to be appropriate.
 
-            (B) __Silver coins.—__ 
+            (B)  __Silver coins__  __.—__ 
 
             Notwithstanding subsection (b), the Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (4) as the Secretary determines to be appropriate, with a content of 90 percent silver and 10 percent copper.
 
-            (C) __Sources of bullion.—__ 
+            (C)  __Sources of bullion__  __.—__ 
 
             The Secretary shall obtain silver for minting coins under subparagraph (B) from available resources, including stockpiles established under the Strategic and Critical Materials Stock Piling Act.
 
-        (7) __Application in event of the admission of additional states.—__ 
+        (7)  __Application in event of the admission of additional states__  __.—__ 
 
         If any additional State is admitted into the Union before the end of the 10-year period referred to in paragraph (1), the Secretary of the Treasury may issue quarter dollar coins, in accordance with this subsection, with a design which is emblematic of such State during any 1 year of such 10-year period, in addition to the quarter dollar coins issued during such year in accordance with paragraph (3)(A).
 
     (m) __Commemorative Coin Program Restrictions.—__ 
 
-        (1) __Maximum number.—__ 
+        (1)  __Maximum number__  __.—__ 
 
         Beginning January 1, 1999, the Secretary may mint and issue commemorative coins under this section during any calendar year with respect to not more than 2 commemorative coin programs.
 
         (2) __Mintage levels.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided in subparagraph (B), in carrying out any commemorative coin program, the Secretary shall mint—
 
@@ -243,17 +243,17 @@
 
                 (iii) not more than 100,000 gold five-dollar or ten-dollar coins.
 
-            (B) __Exception.—__ 
+            (B)  __Exception__  __.—__ 
 
             If the Secretary determines, based on independent, market-based research conducted by a designated recipient organization of a commemorative coin program, that the mintage levels described in subparagraph (A) are not adequate to meet public demand for that commemorative coin, the Secretary may waive one or more of the requirements of subparagraph (A) with respect to that commemorative coin program.
 
-            (C) __Designated recipient organization defined.—__ 
+            (C)  __Designated recipient organization defined__  __.—__ 
 
             For purposes of this paragraph, the term “designated recipient organization” means any organization designated, under any provision of law, as the recipient of any surcharge imposed on the sale of any numismatic item.
 
-    (n) __Redesign and Issuance of Circulating $1 Coins Honoring Each of the Presidents of the United States.—__ 
+    (n)  __Redesign and Issuance of Circulating__  __$1 Coins Honoring Each of the Presidents of the United States.—__ 
 
-        (1) __Redesign beginning in 2007.—__ 
+        (1)  __Redesign beginning in 2007__  __.—__ 
 
         Notwithstanding subsection (d) and in accordance with the provisions of this subsection, $1 coins issued during the period beginning January 1, 2007, and ending upon the termination of the program under paragraph (8), shall—
 
@@ -261,11 +261,11 @@
 
             (B) have a design on the reverse selected in accordance with paragraph (2)(A).
 
-        (2) __Design requirements.—__ 
+        (2)  __Design requirements__  __.—__ 
 
         The $1 coins issued in accordance with paragraph (1)(A) shall meet the following design requirements:
 
-            (A) __Coin reverse.—__ 
+            (A)  __Coin reverse__  __.—__ 
 
             The design on the reverse shall bear—
 
@@ -275,7 +275,7 @@
 
                 (iii) the inscription “United States of America”.
 
-            (B) __Coin obverse.—__ 
+            (B)  __Coin obverse__  __.—__ 
 
             The design on the obverse shall contain—
 
@@ -291,79 +291,79 @@
 
             (C) __Edge-incused inscriptions.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The inscription of the year of minting or issuance of the coin and the inscription “E Pluribus Unum” shall be edge-incused into the coin.
 
-                (ii) __Preservation of distinctive edge.—__ 
+                (ii)  __Preservation of distinctive edge__  __.—__ 
 
                 The edge-incusing of the inscriptions under clause (i) on coins issued under this subsection shall be done in a manner that preserves the distinctive edge of the coin so that the denomination of the coin is readily discernible, including by individuals who are blind or visually impaired.
 
-            (D) __Inscriptions of “liberty”.—__ 
+            (D)  __Inscriptions of “liberty”__  __.—__ 
 
             Notwithstanding the second sentence of subsection (d)(1), because the use of a design bearing the likeness of the Statue of Liberty on the reverse of the coins issued under this subsection adequately conveys the concept of Liberty, the inscription of “Liberty” shall not appear on the coins.
 
-            (E) __Limitation in series to deceased presidents.—__ 
+            (E)  __Limitation in series to deceased presidents__  __.—__ 
 
             No coin issued under this subsection may bear the image of a living former or current President, or of any deceased former President during the 2-year period following the date of the death of that President.
 
-            (F) __Inscription of “in god we trust”.—__ 
+            (F)  __Inscription of “in god we trust”__  __.—__ 
 
             The design on the obverse or the reverse shall bear the inscription “In God We Trust”.
 
         (3) __Issuance of coins commemorating presidents.—__ 
 
-            (A) __Order of issuance.—__ 
+            (A)  __Order of issuance__  __.—__ 
 
             The coins issued under this subsection commemorating Presidents of the United States shall be issued in the order of the period of service of each President, beginning with President George Washington.
 
             (B) __Treatment of period of service.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Subject to clause (ii), only 1 coin design shall be issued for a period of service for any President, no matter how many consecutive terms of office the President served.
 
-                (ii) __Nonconsecutive terms.—__ 
+                (ii)  __Nonconsecutive terms__  __.—__ 
 
                 If a President has served during 2 or more nonconsecutive periods of service, a coin shall be issued under this subsection for each such nonconsecutive period of service.
 
         (4) __Issuance of coins commemorating 4 presidents during each year of the period.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The designs for the $1 coins issued during each year of the period referred to in paragraph (1) shall be emblematic of 4 Presidents until each President has been so honored, subject to paragraph (2)(E).
 
-            (B) __Number of 4 circulating coin designs in each year.—__ 
+            (B)  __Number of 4 circulating coin designs in each year__  __.—__ 
 
             The Secretary shall prescribe, on the basis of such factors as the Secretary determines to be appropriate, the number of $1 coins that shall be issued with each of the designs selected for each year of the period referred to in paragraph (1).
 
-        (5) __Legal tender.—__ 
+        (5)  __Legal tender__  __.—__ 
 
         The coins minted under this title shall be legal tender, as provided in section 5103.
 
-        (6) __Treatment as numismatic items.—__ 
+        (6)  __Treatment as numismatic items__  __.—__ 
 
         For purposes of section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “sections”. </sup></sup>  5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
 
-        (7) __Issuance of numismatic coins.—__ 
+        (7)  __Issuance of numismatic coins__  __.—__ 
 
         The Secretary may mint and issue such number of $1 coins of each design selected under this subsection in uncirculated and proof qualities as the Secretary determines to be appropriate.
 
-        (8) __Termination of program.—__ 
+        (8)  __Termination of program__  __.—__ 
 
         The issuance of coins under this subsection shall terminate when each President has been so honored, subject to paragraph (2)(E), and may not be resumed except by an Act of Congress.
 
-        (9) __Reversion to preceding design.—__ 
+        (9)  __Reversion to preceding design__  __.—__ 
 
         Upon the termination of the issuance of coins under this subsection, the design of all $1 coins shall revert to the so-called “Sacagawea-design” $1 coins.
 
     (o) __First Spouse Bullion Coin Program.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         During the same period described in subsection (n), the Secretary shall issue bullion coins under this subsection that are emblematic of the spouse of each such President.
 
-        (2) __Specifications.—__ 
+        (2)  __Specifications__  __.—__ 
 
         The coins issued under this subsection shall—
 
@@ -375,7 +375,7 @@
 
         (3) __Design requirements.—__ 
 
-            (A) __Coin obverse.—__ 
+            (A)  __Coin obverse__  __.—__ 
 
             The design on the obverse of each coin issued under this subsection shall contain—
 
@@ -385,7 +385,7 @@
 
                 (iii) a number indicating the order of the period of service in which such President served.
 
-            (B) __Coin reverse.—__ 
+            (B)  __Coin reverse__  __.—__ 
 
             The design on the reverse of each coin issued under this subsection shall bear—
 
@@ -393,11 +393,11 @@
 
                 (ii) the inscription “United States of America”.
 
-            (C) __Designated denomination.—__ 
+            (C)  __Designated denomination__  __.—__ 
 
             Each coin issued under this subsection shall bear, on the reverse, an inscription of the nominal denomination of the coin which shall be “$10”.
 
-            (D) __Design in case of no first spouse.—__ 
+            (D)  __Design in case of no first spouse__  __.—__ 
 
             In the case of any President who served without a spouse—
 
@@ -411,15 +411,15 @@
 
                 (ii) the reverse of such bullion coin shall be of a design representative of themes of such President, except that in the case of the bullion coin referred to in clause (i)(II) the reverse of such coin shall be representative of the suffrage movement.
 
-            (E) __Design and coin for each spouse.—__ 
+            (E)  __Design and coin for each spouse__  __.—__ 
 
             A separate coin shall be designed and issued under this section for each person who was the spouse of a President during any portion of a term of office of such President.
 
-            (F) __Inscriptions.—__ 
+            (F)  __Inscriptions__  __.—__ 
 
             Each bullion coin issued under this subsection shall bear the inscription of the year of minting or issuance of the coin and such other inscriptions as the Secretary may determine to be appropriate.
 
-        (4) __Sale of bullion coins.—__ 
+        (4)  __Sale of bullion coins__  __.—__ 
 
         Each bullion coin issued under this subsection shall be sold by the Secretary at a price that is equal to or greater than the sum of—
 
@@ -429,11 +429,11 @@
 
         (5) __Issuance of coins commemorating first spouses.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The bullion coins issued under this subsection with respect to any spouse of a President shall be issued on the same schedule as the $1 coin issued under subsection (n) with respect to each such President.
 
-            (B) __Maximum number of bullion coins for each design.—__ 
+            (B)  __Maximum number of bullion coins for each design__  __.—__ 
 
             The Secretary shall—
 
@@ -441,39 +441,39 @@
 
                 (ii) announce, before the issuance of the bullion coins of each such design, the maximum number of bullion coins of that design that will be issued.
 
-            (C) __Termination of program.—__ 
+            (C)  __Termination of program__  __.—__ 
 
             No bullion coin may be issued under this subsection after the termination, in accordance with subsection (n)(8), of the $1 coin program established under subsection (n).
 
-        (6) __Quality of coins.—__ 
+        (6)  __Quality of coins__  __.—__ 
 
         The bullion coins minted under this Act shall be issued in both proof and uncirculated qualities.
 
         (7) __Source of gold bullion.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary shall acquire gold for the coins issued under this subsection by purchase of gold mined from natural deposits in the United States, or in a territory or possession of the United States, within 1 year after the month in which the ore from which it is derived was mined.
 
-            (B) __Price of gold.—__ 
+            (B)  __Price of gold__  __.—__ 
 
             The Secretary shall pay not more than the average world price for the gold mined under subparagraph (A).
 
-        (8) __Bronze medals.—__ 
+        (8)  __Bronze medals__  __.—__ 
 
         The Secretary may strike and sell bronze medals that bear the likeness of the bullion coins authorized under this subsection, at a price, size, and weight, and with such inscriptions, as the Secretary determines to be appropriate.
 
-        (9) __Legal tender.—__ 
+        (9)  __Legal tender__  __.—__ 
 
         The coins minted under this title shall be legal tender, as provided in section 5103.
 
-        (10) __Treatment as numismatic items.—__ 
+        (10)  __Treatment as numismatic items__  __.—__ 
 
         For purposes of section 1 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
 
-    (p) __Removal of Barriers to Circulation of $1 Coin.—__ 
+    (p)  __Removal of Barriers to Circulation of__  __$1 Coin.—__ 
 
-        (1) __Acceptance by agencies and instrumentalities.—__ 
+        (1)  __Acceptance by agencies and instrumentalities__  __.—__ 
 
         Beginning January 1, 2006, all agencies and instrumentalities of the United States, the United States Postal Service, all nonappropriated fund instrumentalities established under title 10, United States Code, all transit systems that receive operational subsidies or any disbursement of funds from the Federal Government, such as funds from the Federal Highway Trust Fund, including the Mass Transit Account, and all entities that operate any business, including vending machines, on any premises owned by the United States or under the control of any agency or instrumentality of the United States, including the legislative and judicial branches of the Federal Government, shall take such action as may be appropriate to ensure that by the end of the 2-year period beginning on such date—
 
@@ -487,11 +487,11 @@
 
             (B) displays signs and notices denoting such capability on the premises where coins or currency are accepted or dispensed, including on each vending machine.
 
-        (2) __Publicity.—__ 
+        (2)  __Publicity__  __.—__ 
 
         The Director of the United States Mint, <sup>\[2\]</sup>  <sup><sup> 2 So in original. The comma probably should not appear. </sup></sup>  shall work closely with consumer groups, media outlets, and schools to ensure an adequate amount of news coverage, and other means of increasing public awareness, of the inauguration of the Presidential $1 Coin Program established in subsection (n) to ensure that consumers know of the availability of the coin.
 
-        (3) __Coordination.—__ 
+        (3)  __Coordination__  __.—__ 
 
         The Board of Governors of the Federal Reserve System and the Secretary shall take steps to ensure that an adequate supply of $1 coins is available for commerce and collectors at such places and in such quantities as are appropriate by—
 
@@ -543,27 +543,27 @@
 
             (F) identifying, analyzing, and overcoming barriers to the robust circulation of $1 coins minted under subsections (n) and (o), including the use of demand prediction, improved methods of distribution and circulation, and improved public education and awareness campaigns.
 
-        (4) __Bullion dealers.—__ 
+        (4)  __Bullion dealers__  __.—__ 
 
         The Director of the United States Mint shall take all steps necessary to ensure that a maximum number of reputable, reliable, and responsible dealers are qualified to offer for sale all bullion coins struck and issued by the United States Mint.
 
-        (5) __Review of co-circulation.—__ 
+        (5)  __Review of co-circulation__  __.—__ 
 
         At such time as the Secretary determines to be appropriate, and after consultation with the Board of Governors of the Federal Reserve System, the Secretary shall notify the Congress of its assessment of issues related to the co-circulation of any circulating $1 coin bearing any design, other than the so-called “Sacagawea-design” $1 coin, in effect before the issuance of coins required under subsection (n), including the effect of co-circulation on the acceptance and use of $1 coins, and make recommendations to the Congress for improving the circulation of $1 coins.
 
     (q) __Gold Bullion Coins.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 6 months after the date of enactment of the Presidential $1 Coin Act of 2005, the Secretary shall commence striking and issuing for sale such number of $50 gold bullion and proof coins as the Secretary may determine to be appropriate, in such quantities, as the Secretary, in the Secretary’s discretion, may prescribe.
 
         (2) __Initial design.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided under subparagraph (B), the obverse and reverse of the gold bullion coins struck under this subsection during the first year of issuance shall bear the original designs by James Earle Fraser, which appear on the 5-cent coin commonly referred to as the “Buffalo nickel” or the “1913 Type 1”.
 
-            (B) __Variations.—__ 
+            (B)  __Variations__  __.—__ 
 
             The coins referred to in subparagraph (A) shall—
 
@@ -571,7 +571,7 @@
 
                 (ii) bear such other inscriptions as the Secretary determines to be appropriate.
 
-        (3) __Subsequent designs.—__ 
+        (3)  __Subsequent designs__  __.—__ 
 
         After the 1-year period described to in paragraph (2), the Secretary may—
 
@@ -581,15 +581,15 @@
 
         (4) __Source of gold bullion.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary shall acquire gold for the coins issued under this subsection by purchase of gold mined from natural deposits in the United States, or in a territory or possession of the United States, within 1 year after the month in which the ore from which it is derived was mined.
 
-            (B) __Price of gold.—__ 
+            (B)  __Price of gold__  __.—__ 
 
             The Secretary shall pay not more than the average world price for the gold mined under subparagraph (A).
 
-        (5) __Sale of coins.—__ 
+        (5)  __Sale of coins__  __.—__ 
 
         Each gold bullion coin issued under this subsection shall be sold for an amount the Secretary determines to be appropriate, but not less than the sum of—
 
@@ -597,29 +597,29 @@
 
             (B) the cost of designing and issuing the coins, including labor, materials, dies, use of machinery, overhead expenses, marketing, and shipping.
 
-        (6) __Legal tender.—__ 
+        (6)  __Legal tender__  __.—__ 
 
         The coins minted under this title shall be legal tender, as provided in section 5103.
 
-        (7) __Treatment as numismatic items.—__ 
+        (7)  __Treatment as numismatic items__  __.—__ 
 
         For purposes of section 1 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
 
         (8) __Protective covering.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Each bullion coin having a metallic content as described in subsection (a)(11) and a design specified in paragraph (2) shall be sold in an inexpensive covering that will protect the coin from damage due to ordinary handling or storage.
 
-            (B) __Design.—__ 
+            (B)  __Design__  __.—__ 
 
             The protective covering required under subparagraph (A) shall be readily distinguishable from any coin packaging that may be used to protect proof coins minted and issued under this subsection.
 
-    (r) __Redesign and Issuance of Circulating $1 Coins Honoring Native Americans and the Important Contributions Made by Indian Tribes and Individual Native Americans in United States History.—__ 
+    (r)  __Redesign and Issuance of Circulating__  __$1 Coins Honoring Native Americans and the Important Contributions Made by Indian Tribes and Individual Native Americans in United States History.—__ 
 
         (1) __Redesign beginning in 2008.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Effective beginning January 1, 2008, notwithstanding subsection (d), in addition to the coins to be issued pursuant to subsection (n), and in accordance with this subsection, the Secretary shall mint and issue $1 coins that—
 
@@ -627,15 +627,15 @@
 
                 (ii) have a design on the reverse selected in accordance with paragraph (2)(A), subject to paragraph (3)(A).
 
-            (B) __Delayed date.—__ 
+            (B)  __Delayed date__  __.—__ 
 
             If the date of the enactment of the Native American $1 Coin Act is after August 25, 2007, subparagraph (A) shall be applied by substituting “2009” for “2008”.
 
-        (2) __Design requirements.—__ 
+        (2)  __Design requirements__  __.—__ 
 
         The $1 coins issued in accordance with paragraph (1) shall meet the following design requirements:
 
-            (A) __Coin reverse.—__ 
+            (A)  __Coin reverse__  __.—__ 
 
             The design on the reverse shall bear—
 
@@ -645,7 +645,7 @@
 
                 (iii) the inscription “United States of America”.
 
-            (B) __Coin obverse.—__ 
+            (B)  __Coin obverse__  __.—__ 
 
             The design on the obverse shall—
 
@@ -655,15 +655,15 @@
 
             (C) __Edge-incused inscriptions.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The inscription of the year of minting and issuance of the coin and the inscription “E Pluribus Unum” shall be edge-incused into the coin.
 
-                (ii) __Preservation of distinctive edge.—__ 
+                (ii)  __Preservation of distinctive edge__  __.—__ 
 
                 The edge-incusing of the inscriptions under clause (i) on coins issued under this subsection shall be done in a manner that preserves the distinctive edge of the coin so that the denomination of the coin is readily discernible, including by individuals who are blind or visually impaired.
 
-            (D) __Reverse design selection.—__ 
+            (D)  __Reverse design selection__  __.—__ 
 
             The designs selected for the reverse of the coins described under this subsection—
 
@@ -691,21 +691,21 @@
 
                 (iv) in the case of a design depicting the contribution of an individual Native American to the development of the United States and the history of the United States, shall not depict the individual in a size such that the coin could be considered to be a “2-headed” coin.
 
-            (E) __Inscription of “in god we trust”.—__ 
+            (E)  __Inscription of “in god we trust”__  __.—__ 
 
             The design on the obverse or the reverse shall bear the inscription “In God We Trust”.
 
         (3) __Issuance of coins commemorating 1 native american event during each year.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Each design for the reverse of the $1 coins issued during each year shall be emblematic of 1 important Native American or Native American contribution each year.
 
-            (B) __Issuance period.—__ 
+            (B)  __Issuance period__  __.—__ 
 
             Each $1 coin minted with a design on the reverse in accordance with this subsection for any year shall be issued during the 1-year period beginning on January 1 of that year and shall be available throughout the entire 1-year period.
 
-            (C) __Order of issuance of designs.—__ 
+            (C)  __Order of issuance of designs__  __.—__ 
 
             Each coin issued under this subsection commemorating Native Americans and their contributions—
 
@@ -713,11 +713,11 @@
 
                 (ii) thereafter shall be issued in any order determined to be appropriate by the Secretary, after consultation with the Committee on Indian Affairs of the Senate, the Congressional Native American Caucus of the House of Representatives, and the National Congress of American Indians.
 
-        (4) __Issuance of numismatic coins.—__ 
+        (4)  __Issuance of numismatic coins__  __.—__ 
 
         The Secretary may mint and issue such number of $1 coins of each design selected under this subsection in uncirculated and proof qualities as the Secretary determines to be appropriate.
 
-        (5) __Quantity.—__ 
+        (5)  __Quantity__  __.—__ 
 
         The number of $1 coins minted and issued in a year with the Sacagawea-design on the obverse shall be not less than 20 percent of the total number of $1 coins minted and issued in such year.
 
@@ -725,11 +725,11 @@
 
         (1) __Redesign in 2009.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Notwithstanding the fourth sentence of subsection (d)(1) and subsection (d)(2) and subject to paragraph (6)(B), quarter dollar coins issued during 2009, shall have designs on the reverse side selected in accordance with this subsection which are emblematic of the District of Columbia and the territories.
 
-            (B) __Flexibility with regard to placement of inscriptions.—__ 
+            (B)  __Flexibility with regard to placement of inscriptions__  __.—__ 
 
             Notwithstanding subsection (d)(1), the Secretary may select a design for quarter dollars issued during 2009 in which—
 
@@ -737,13 +737,13 @@
 
                 (ii) any inscription described in the third sentence of subsection (d)(1) or the designation of the value of the coin appears on the obverse side of any such quarter dollars.
 
-        (2) __Single district or territory design.—__ 
+        (2)  __Single district or territory design__  __.—__ 
 
         The design on the reverse side of each quarter dollar issued during 2009 shall be emblematic of one of the following: The District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
         (3) __Selection of design.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Each of the 6 designs required under this subsection for quarter dollars shall be—
 
@@ -757,51 +757,51 @@
 
                 (ii) reviewed by the Citizens Coinage Advisory Committee.
 
-            (B) __Selection and approval process.—__ 
+            (B)  __Selection and approval process__  __.—__ 
 
             Designs for quarter dollars may be submitted in accordance with the design selection and approval process developed by the Secretary in the sole discretion of the Secretary.
 
-            (C) __Participation.—__ 
+            (C)  __Participation__  __.—__ 
 
             The Secretary may include participation by District or territorial officials, artists from the District of Columbia or the territory, engravers of the United States Mint, and members of the general public.
 
-            (D) __Standards.—__ 
+            (D)  __Standards__  __.—__ 
 
             Because it is important that the Nation’s coinage and currency bear dignified designs of which the citizens of the United States can be proud, the Secretary shall not select any frivolous or inappropriate design for any quarter dollar minted under this subsection.
 
-            (E) __Prohibition on certain representations.—__ 
+            (E)  __Prohibition on certain representations__  __.—__ 
 
             No head and shoulders portrait or bust of any person, living or dead, and no portrait of a living person may be included in the design of any quarter dollar under this subsection.
 
-        (4) __Treatment as numismatic items.—__ 
+        (4)  __Treatment as numismatic items__  __.—__ 
 
         For purposes of sections 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
 
         (5) __Issuance.—__ 
 
-            (A) __Quality of coins.—__ 
+            (A)  __Quality of coins__  __.—__ 
 
             The Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (3) in uncirculated and proof qualities as the Secretary determines to be appropriate.
 
-            (B) __Silver coins.—__ 
+            (B)  __Silver coins__  __.—__ 
 
             Notwithstanding subsection (b), the Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (3) as the Secretary determines to be appropriate, with a content of 90 percent silver and 10 percent copper.
 
-            (C) __Timing and order of issuance.—__ 
+            (C)  __Timing and order of issuance__  __.—__ 
 
             Coins minted under this subsection honoring the District of Columbia and each of the territories shall be issued in equal sequential intervals during 2009 in the following order: the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
         (6) __Other provisions.—__ 
 
-            (A) __Application in event of admission as a state.—__ 
+            (A)  __Application in event of admission as a state__  __.—__ 
 
             If the District of Columbia or any territory becomes a State before the end of the 10-year period referred to in subsection (l)(1), subsection (l)(7) shall apply, and this subsection shall not apply, with respect to such State.
 
-            (B) __Application in event of independence.—__ 
+            (B)  __Application in event of independence__  __.—__ 
 
             If any territory becomes independent or otherwise ceases to be a territory or possession of the United States before quarter dollars bearing designs which are emblematic of such territory are minted pursuant to this subsection, this subsection shall cease to apply with respect to such territory.
 
-        (7) __Territory defined.—__ 
+        (7)  __Territory defined__  __.—__ 
 
         For purposes of this subsection, the term “territory” means the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
@@ -809,11 +809,11 @@
 
         (1) __Redesign beginning upon completion of prior program.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Notwithstanding the fourth sentence of subsection (d)(1) and subsection (d)(2), quarter dollars issued beginning in 2010 shall have designs on the reverse selected in accordance with this subsection which are emblematic of the national sites in the States, the District of Columbia and the territories of the United States.
 
-            (B) __Flexibility with regard to placement of inscriptions.—__ 
+            (B)  __Flexibility with regard to placement of inscriptions__  __.—__ 
 
             Notwithstanding subsection (d)(1), the Secretary may select a design for quarter dollars referred to in subparagraph (A) in which—
 
@@ -821,11 +821,11 @@
 
                 (ii) any inscription described in the third sentence of subsection (d)(1) or the designation of the value of the coin appears on the obverse side of any such quarter dollars.
 
-            (C) __Inclusion of district of columbia, and territories.—__ 
+            (C)  __Inclusion of district of columbia, and territories__  __.—__ 
 
             For purposes of this subsection, the term “State” has the same meaning as in section 3(a)(3) of the Federal Deposit Insurance Act.
 
-        (2) __Single site in each state.—__ 
+        (2)  __Single site in each state__  __.—__ 
 
         The design on the reverse side of each quarter dollar issued during the period of issuance under this subsection shall be emblematic of 1 national site in each State.
 
@@ -833,15 +833,15 @@
 
             (A) __Site.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The selection of a national park or other national site in each State to be honored with a coin under this subsection shall be made by the Secretary of the Treasury, after consultation with the Secretary of the Interior and the governor or other chief executive of each State with respect to which a coin is to be issued under this subsection, and after giving full and thoughtful consideration to national sites that are not under the jurisdiction of the Secretary of the Interior so that the national site chosen for each State shall be the most appropriate in terms of natural or historic significance.
 
-                (ii) __Timing.—__ 
+                (ii)  __Timing__  __.—__ 
 
                 The selection process under clause (i) shall be completed before the end of the 270-day period beginning on the date of the enactment of the America’s Beautiful National Parks Quarter Dollar Coin Act of 2008.
 
-            (B) __Design.—__ 
+            (B)  __Design__  __.—__ 
 
             Each of the designs required under this subsection for quarter dollars shall be—
 
@@ -855,75 +855,75 @@
 
                 (ii) reviewed by the Citizens Coinage Advisory Committee.
 
-            (C) __Selection and approval process.—__ 
+            (C)  __Selection and approval process__  __.—__ 
 
             Recommendations for site selections and designs for quarter dollars may be submitted in accordance with the site and design selection and approval process developed by the Secretary in the sole discretion of the Secretary.
 
-            (D) __Participation in design.—__ 
+            (D)  __Participation in design__  __.—__ 
 
             The Secretary may include participation by officials of the State, artists from the State, engravers of the United States Mint, and members of the general public.
 
-            (E) __Standards.—__ 
+            (E)  __Standards__  __.—__ 
 
             Because it is important that the Nation’s coinage and currency bear dignified designs of which the citizens of the United States can be proud, the Secretary shall not select any frivolous or inappropriate design for any quarter dollar minted under this subsection.
 
-            (F) __Prohibition on certain representations.—__ 
+            (F)  __Prohibition on certain representations__  __.—__ 
 
             No head and shoulders portrait or bust of any person, living or dead, no portrait of a living person, and no outline or map of a State may be included in the design on the reverse of any quarter dollar under this subsection.
 
         (4) __Issuance of coins.—__ 
 
-            (A) __Order of issuance.—__ 
+            (A)  __Order of issuance__  __.—__ 
 
             The quarter dollar coins issued under this subsection bearing designs of national sites shall be issued in the order in which the sites selected under paragraph (3) were first established as a national site.
 
-            (B) __Rate of issuance.—__ 
+            (B)  __Rate of issuance__  __.—__ 
 
             The quarter dollar coins bearing designs of national sites under this subsection shall be issued at the rate of 5 new designs during each year of the period of issuance under this subsection.
 
-            (C) __Number of each of 5 coin designs in each year.—__ 
+            (C)  __Number of each of 5 coin designs in each year__  __.—__ 
 
             Of the quarter dollar coins issued during each year of the period of issuance, the Secretary of the Treasury shall prescribe, on the basis of such factors as the Secretary determines to be appropriate, the number of quarter dollars which shall be issued with each of the designs selected for such year.
 
-        (5) __Treatment as numismatic items.—__ 
+        (5)  __Treatment as numismatic items__  __.—__ 
 
         For purposes of sections 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
 
         (6) __Issuance.—__ 
 
-            (A) __Quality of coins.—__ 
+            (A)  __Quality of coins__  __.—__ 
 
             The Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (3) in uncirculated and proof qualities as the Secretary determines to be appropriate.
 
-            (B) __Silver coins.—__ 
+            (B)  __Silver coins__  __.—__ 
 
             Notwithstanding subsection (b), the Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (3) as the Secretary determines to be appropriate, with a content of 90 percent silver and 10 percent copper.
 
         (7) __Period of issuance.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to paragraph (2), the program established under this subsection shall continue in effect until a national site in each State has been honored.
 
             (B) __Second round at discretion of secretary.—__ 
 
-                (i) __Determination.—__ 
+                (i)  __Determination__  __.—__ 
 
                 The Secretary may make a determination before the end of the 9-year period beginning when the first quarter dollar is issued under this subsection to continue the period of issuance until a second national site in each State, the District of Columbia, and each territory referred to in this subsection has been honored with a design on a quarter dollar.
 
-                (ii) __Notice and report.—__ 
+                (ii)  __Notice and report__  __.—__ 
 
                 Within 30 days after making a determination under clause (i), the Secretary shall submit a written report on such determination to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
-                (iii) __Applicability of provisions.—__ 
+                (iii)  __Applicability of provisions__  __.—__ 
 
                 If the Secretary makes a determination under clause (i), the provisions of this subsection applicable to site and design selection and approval, the order, timing, and conditions of issuance shall apply in like manner as the initial issuance of quarter dollars under this subsection, except that the issuance of quarter dollars pursuant to such determination bearing the first design shall commence in order immediately following the last issuance of quarter dollars under the first round.
 
-                (iv) __Continuation until all states are honored.—__ 
+                (iv)  __Continuation until all states are honored__  __.—__ 
 
                 If the Secretary makes a determination under clause (i), the program under this subsection shall continue until a second site in each State has been so honored.
 
-        (8) __Designs after end of program.—__ 
+        (8)  __Designs after end of program__  __.—__ 
 
         Upon the completion of the coin program under this subsection, the design on—
 
@@ -931,17 +931,17 @@
 
             (B) notwithstanding the fourth sentence of subsection (d)(1), the reverse of the quarter dollar shall contain an image of General Washington crossing the Delaware River prior to the Battle of Trenton.
 
-        (9) __National site.—__ 
+        (9)  __National site__  __.—__ 
 
         For purposes of this subsection, the term “national site” means any site under the supervision, management, or conservancy of the National Park Service, the United States Forest Service, the United States Fish and Wildlife Service, or any similar department or agency of the Federal Government, including any national park, national monument, national battlefield, national military park, national historical park, national historic site, national lakeshore, seashore, recreation area, parkway, scenic river, or trail and any site in the National Wildlife Refuge System.
 
-        (10) __Application in event of independence.—__ 
+        (10)  __Application in event of independence__  __.—__ 
 
         If any territory becomes independent or otherwise ceases to be a territory or possession of the United States before quarter dollars bearing designs which are emblematic of such territory are minted pursuant to this subsection, this subsection shall cease to apply with respect to such territory.
 
     (u) __Silver Bullion Investment Product.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall strike and make available for sale such number of bullion coins as the Secretary determines to be appropriate that are likenesses of the quarter dollars issued under subsection (t), each of which shall—
 
@@ -953,7 +953,7 @@
 
             (D) not be minted or issued by the United States Mint as so-called “fractional” bullion coins or in any size other than the size described in paragraph (A).
 
-        (2) __Availability for sale.—__ 
+        (2)  __Availability for sale__  __.—__ 
 
         Bullion coins minted under paragraph (1)—
 
@@ -963,31 +963,31 @@
 
         (3) __Distribution.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             In addition to the authorized dealers utilized by the Secretary in distributing bullion coins and solely for purposes of distributing bullion coins issued under this subsection, the Director of the National Park Service, or the designee of the Director, may purchase numismatic items issued under this subsection, but only in units of no fewer than 1,000 at a time, and the Director, or the Director’s designee, may resell or repackage such numismatic items as the Director determines to be appropriate.
 
-            (B) __Resale.—__ 
+            (B)  __Resale__  __.—__ 
 
             The Director of the National Park Service, or the designee of the Director, may resell, at cost and without repackaging, numismatic items acquired by the Director or such designee under subparagraph (A) to any party affiliated with any national site honored by a quarter dollar under subsection (t) for repackaging and resale by such party in the same manner and to the same extent as such party would be authorized to engage in such activities under subparagraph (A) if the party were acting as the designee of the Director under such subparagraph.
 
     (v) __Palladium Bullion Investment Coins.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to the submission to the Secretary and the Congress of a marketing study described in paragraph (8), beginning not more than 1 year after the submission of the study to the Secretary and the Congress, the Secretary shall mint and issue the palladium coins described in paragraph (12) of subsection (a) in such quantities as the Secretary may determine to be appropriate to meet demand.
 
         (2) __Source of bullion.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary shall acquire bullion for the palladium coins issued under this subsection by purchase of palladium mined from natural deposits in the United States, or in a territory or possession of the United States, within 1 year after the month in which the ore from which it is derived was mined. If no such palladium is available or if it is not economically feasible to obtain such palladium, the Secretary may obtain palladium for the palladium coins described in paragraph (12) of subsection (a) from other available sources.
 
-            (B) __Price of bullion.—__ 
+            (B)  __Price of bullion__  __.—__ 
 
             The Secretary shall pay not more than the average world price for the palladium under subparagraph (A).
 
-        (3) __Sale of coins.—__ 
+        (3)  __Sale of coins__  __.—__ 
 
         Each coin issued under this subsection shall be sold for an amount the Secretary determines to be appropriate, but not less than the sum of—
 
@@ -995,15 +995,15 @@
 
             (B) the cost of designing and issuing the coins, including labor, materials, dies, use of machinery, overhead expenses, marketing, distribution, and shipping.
 
-        (4) __Treatment.—__ 
+        (4)  __Treatment__  __.—__ 
 
         For purposes of section 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
 
-        (5) __Quality.—__ 
+        (5)  __Quality__  __.—__ 
 
         The Secretary may issue the coins described in paragraph (1) in both proof and uncirculated versions, except that, should the Secretary determine that it is appropriate to issue proof or uncirculated versions of such coin, the Secretary shall, to the greatest extent possible, ensure that the surface treatment of each year’s proof or uncirculated version differs in some material way from that of the preceding year.
 
-        (6) __Design.—__ 
+        (6)  __Design__  __.—__ 
 
         Coins minted and issued under this subsection shall bear designs on the obverse and reverse that are close likenesses of the work of famed American coin designer and medallic artist Adolph Alexander Weinman—
 
@@ -1013,11 +1013,11 @@
 
             (C) the coin shall bear such other inscriptions, including “Liberty”, “In God We Trust”, “United States of America”, the denomination and weight of the coin and the fineness of the metal, as the Secretary determines to be appropriate and in keeping with the original design.
 
-        (7) __Mint facility.—__ 
+        (7)  __Mint facility__  __.—__ 
 
         Any United States mint, other than the United States Mint at West Point, New York, may be used to strike coins minted under this subsection other than any proof version of any such coin. If the Secretary determines that it is appropriate to issue any proof version of such coin, coins of such version shall be struck only at the United States Mint at West Point, New York.
 
-        (8) __Marketing study defined.—__ 
+        (8)  __Marketing study defined__  __.—__ 
 
         The market study described in paragraph (1) means an analysis of the market for palladium bullion investments conducted by a reputable, independent third party that demonstrates that there would be adequate demand for palladium bullion coins produced by the United States Mint to ensure that such coins could be minted and issued at no net cost to taxpayers.
 
@@ -1491,7 +1491,7 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
 [Pub. L. 111–302, § 2][/us/pl/111/302/s2], Dec. 14, 2010, [124 Stat. 3272][/us/stat/124/3272], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     To accomplish the goals of this Act \[amending this section and enacting provisions set out as notes under this section and [section 5101 of this title][/us/usc/t31/s5101]\] and the requirements of subchapter II of chapter 51 of title 31, United States Code, the Secretary of the Treasury may—
 
@@ -1501,7 +1501,7 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
 >         to complete the report referred to in this Act \[see [section 3 of Pub. L. 111–302][/us/pl/111/302/s3], set out as a note below\] and to develop and evaluate the use of new metallic materials.
 
->     “(b) __Factors to Be Considered.—__ 
+>     “(b)  __Factors to Be Considered__  __.—__ 
 
 >     In the conduct of research, development, and the solicitation of input or work in conjunction with entities within and outside the Federal Government, and in reporting to the Congress with recommendations, as required by this Act, the Secretary of the Treasury shall consider the following:
 
@@ -1515,27 +1515,27 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
 [Pub. L. 111–302, § 3][/us/pl/111/302/s3], Dec. 14, 2010, [124 Stat. 3273][/us/stat/124/3273], provided that:
 
->     “(a) __Report Required.—__ 
+>     “(a)  __Report Required__  __.—__ 
 
 >     Before the end of the 2-year period beginning on the date of the enactment of this Act \[Dec. 14, 2010\], and at 2-year intervals following the end of such period, the Secretary of the Treasury shall submit a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate analyzing production costs for each circulating coin, cost trends for such production, and possible new metallic materials or technologies for the production of circulating coins.
 
->     “(b) __Detailed Recommendations.—__ 
+>     “(b)  __Detailed Recommendations__  __.—__ 
 
 >     In preparing and submitting the reports required under subsection (a), the Secretary of the Treasury shall include detailed recommendations for any appropriate changes to the metallic content of circulating coins in such a form that the recommendations could be enacted into law as appropriate.
 
->     “(c) __Improved Production Efficiency.—__ 
+>     “(c)  __Improved Production Efficiency__  __.—__ 
 
 >     In preparing and submitting the reports required under subsection (a), the Secretary of the Treasury shall include recommendations for changes in the methods of producing coins that would further reduce the costs to produce circulating coins, and include notes on the legislative changes that are necessary to achieve such goals.
 
->     “(d) __Minimizing Conversion Costs.—__ 
+>     “(d)  __Minimizing Conversion Costs__  __.—__ 
 
 >     In preparing and submitting the reports required under subsection (a), the Secretary of the Treasury, to the greatest extent possible, may not include any recommendation for new specifications for producing a circulating coin that would require any significant change to coin-accepting and coin-handling equipment to accommodate changes to all circulating coins simultaneously.
 
->     “(e) __Fraud Prevention.—__ 
+>     “(e)  __Fraud Prevention__  __.—__ 
 
 >     The reports required under this section shall make no recommendation for a specification change that would facilitate or allow the use of a coin with a lesser value produced, minted, or issued by another country, or the use of any token or other easily or regularly produced metal device of minimal value, in the place of a circulating coin produced by the Secretary.
 
->     “(f) __Rule of Construction.—__ 
+>     “(f)  __Rule of Construction__  __.—__ 
 
 >     No provision of this Act \[amending this section and enacting provisions set out as notes under this section and [section 5101 of this title][/us/usc/t31/s5101]\] shall be construed as requiring that additional research and development be conducted for any report under this Act but any such report shall include information on any such research and development during the period covered by the report.”
 
@@ -1587,11 +1587,11 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
 [Pub. L. 110–82, § 4][/us/pl/110/82/s4], Sept. 20, 2007, [121 Stat. 779][/us/stat/121/779], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In order to remove barriers to circulation, the Secretary of the Treasury shall carry out an aggressive, cost-effective, continuing campaign to encourage commercial enterprises to accept and dispense $1 coins that have as designs on the obverse the so-called ‘Sacagawea design’.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     The Secretary of the Treasury shall submit to Congress an annual report on the success of the efforts described in subsection (a).”
 
@@ -1667,15 +1667,15 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
 > “SEC. 302. __REDESIGN OF LINCOLN CENT FOR 2009.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     During the year 2009, the Secretary of the Treasury shall issue 1-cent coins in accordance with the following design specifications:
 
->         “(1) __Obverse.—__ 
+>         “(1)  __Obverse__  __.—__ 
 
 >         The obverse of the 1-cent coin shall continue to bear the Victor David Brenner likeness of President Abraham Lincoln.
 
->         “(2) __Reverse.—__ 
+>         “(2)  __Reverse__  __.—__ 
 
 >         The reverse of the coins shall bear 4 different designs each representing a different aspect of the life of Abraham Lincoln, such as—
 
@@ -1687,17 +1687,17 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
 >             “(D) his presidency, in Washington, D.C.
 
->     “(b) __Issuance of Redesigned Lincoln Cents in 2009.—__ 
+>     “(b)  __Issuance of Redesigned Lincoln Cents in__  __2009.—__ 
 
->         “(1) __Order.—__ 
+>         “(1)  __Order__  __.—__ 
 
 >         The 1-cent coins to which this section applies shall be issued with 1 of the 4 designs referred to in subsection (a)(2) beginning at the start of each calendar quarter of 2009.
 
->         “(2) __Number.—__ 
+>         “(2)  __Number__  __.—__ 
 
 >         The Secretary shall prescribe, on the basis of such factors as the Secretary determines to be appropriate, the number of 1-cent coins that shall be issued with each of the designs selected for each calendar quarter of 2009.
 
->     “(c) __Design Selection.—__ 
+>     “(c)  __Design Selection__  __.—__ 
 
 >     The designs for the coins specified in this section shall be chosen by the Secretary—
 
@@ -1721,21 +1721,21 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
 [Pub. L. 108–15, title I, § 101][/us/pl/108/15/s101], Apr. 23, 2003, [117 Stat. 615][/us/stat/117/615], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to subsection (b) and after consulting with the Citizens Coinage Advisory Committee and the Commission of Fine Arts, the Secretary of the Treasury may change the design on the obverse and the reverse of the 5-cent coin for coins issued in 2003, 2004, and 2005 in recognition of the bicentennial of the Louisiana Purchase and the expedition of Meriwether Lewis and William Clark.
 
 >     “(b) __Design Specifications.—__ 
 
->         “(1) __Obverse.—__ 
+>         “(1)  __Obverse__  __.—__ 
 
 >         If the Secretary of the Treasury elects to change the obverse of 5-cent coins issued during 2003, 2004, and 2005, the design shall depict a likeness of President Thomas Jefferson, different from the likeness that appeared on the obverse of the 5-cent coins issued during 2002, in recognition of his role with respect to the Louisiana Purchase and the commissioning of the Lewis and Clark expedition.
 
->         “(2) __Reverse.—__ 
+>         “(2)  __Reverse__  __.—__ 
 
 >         If the Secretary of the Treasury elects to change the reverse of the 5-cent coins issued during 2003, 2004, and 2005, the design selected shall depict images that are emblematic of the Louisiana Purchase or the expedition of Meriwether Lewis and William Clark.
 
->         “(3) __Other inscriptions.—__ 
+>         “(3)  __Other inscriptions__  __.—__ 
 
 >         5-cent coins issued during 2003, 2004, and 2005 shall continue to meet all other requirements for inscriptions and designations applicable to circulating coins under [section 5112(d)(1) of title 31][/us/usc/t31/s5112/d/1], United States Code.”
 
@@ -1743,11 +1743,11 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
 [Pub. L. 107–201, § 3(b)][/us/pl/107/201/s3/b], July 23, 2002, [116 Stat. 737][/us/stat/116/737], provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Secretary of the Treasury shall conduct a study of the impact on the United States silver market of the American Eagle Silver Bullion Program, established under [section 5112(e) of title 31][/us/usc/t31/s5112/e], United States Code.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[July 23, 2002\], the Secretary of the Treasury shall submit a report of the study conducted under paragraph (1) to the chairman and ranking minority member of—
 
@@ -1781,29 +1781,29 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
 >     “(e) __Production of New Dollar Coins.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Upon the depletion of the Government’s supply (as of the date of enactment of this Act \[Dec. 1, 1997\]) of $1 coins bearing the likeness of Susan B. Anthony, the Secretary of the Treasury shall place into circulation $1 coins that comply with the requirements of subsections (b) and (d)(1) of [section 5112 of title 31][/us/usc/t31/s5112], United States Code, as amended by this section.
 
->         “(2) __Authority of secretary to continue production.—__ 
+>         “(2)  __Authority of secretary to continue production__  __.—__ 
 
 >         If the supply of $1 coins bearing the likeness of Susan B. Anthony is depleted before production has begun of $1 coins which bear a design which complies with the requirements of subsections (b) and (d)(1) of [section 5112 of title 31][/us/usc/t31/s5112], United States Code, as amended by this section, the Secretary of the Treasury may continue to mint and issue $1 coins bearing the likeness of Susan B. Anthony in accordance with that section 5112 (as in effect on the day before the date of enactment of this Act) until such time as production begins.
 
->         “(3) __Numismatic sets.—__ 
+>         “(3)  __Numismatic sets__  __.—__ 
 
 >         The Secretary may include such $1 coins in any numismatic set produced by the United States Mint before the date on which the $1 coins authorized by this section are placed in circulation.
 
 >     “(f) __Marketing Program.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Before placing into circulation $1 coins authorized under this section \[amending this section and enacting provisions set out as a note under [section 5101 of this title][/us/usc/t31/s5101]\], the Secretary of the Treasury shall adopt a program to promote the use of such coins by commercial enterprises, mass transit authorities, and Federal, State, and local government agencies.
 
->         “(2) __Study required.—__ 
+>         “(2)  __Study required__  __.—__ 
 
 >         The Secretary of the Treasury shall conduct a study on the progress of the marketing program adopted in accordance with paragraph (1).
 
->         “(3) __Report.—__ 
+>         “(3)  __Report__  __.—__ 
 
 >         Not later than March 31, 2001, the Secretary of the Treasury shall submit a report to the Congress on the results of the study conducted pursuant to paragraph (2).”
 
@@ -1811,31 +1811,31 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
 [Pub. L. 104–329, title III, § 302][/us/pl/104/329/s302], Oct. 20, 1996, [110 Stat. 4012][/us/stat/110/4012], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Secretary of the Treasury shall by June 1, 1997 complete a study of the feasibility of a circulating commemorative coin program to commemorate each of the 50 States. The study shall assess likely public acceptance of and consumer demand for different coins that might be issued in connection with such a program (taking into consideration the pace of issuance of coins and the length of such a program), a comparison of the costs of producing coins issued under the program and the revenue that the program would generate, the impact on coin distribution systems, the advantages and disadvantages of different approaches to selecting designs for coins in such a program, and such other factors as the Secretary considers appropriate in deciding upon the feasibility of such a program. No steps taken in order to gather information for this study shall be considered a collection of information within the meaning of [section 3502 of title 44][/us/usc/t44/s3502], United States Code.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     The Secretary shall submit the study required in subsection (a) above, to the Committee on Banking and Financial Services of the House of Representatives and the Committee on Banking, Housing and Urban Affairs of the Senate, simultaneously on its receipt by the Secretary.
 
->     “(c) __50-State Commemorative Coin Program.—__ 
+>     “(c) __50-__  __State Commemorative Coin Program__  __.—__ 
 
 >     The Secretary shall determine by August 1, 1997 whether the results of the study authorized by subsection (a) justify such a program. If the Secretary determines that such a program is justified, then he shall by January 1, 1999, notwithstanding the fourth sentence of subsection (d)(1) and subsection (d)(2) of section 5112, title 31, United States Code, commence a commemorative coin program consisting of the minting and issuance of quarter dollar coins bearing designs, selected in accordance with paragraph (4) of this subsection, which are emblematic of the 50 States. If the Secretary determines that such a commemorative coin program is justified but that it is not practicable to commence the program by January 1, 1999, then he shall notify the Committee on Banking and Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate of such impracticability and of the date on which the program will commence.
 
->         “(1) __Design.—__ 
+>         “(1)  __Design__  __.—__ 
 
 >         The design for each quarter dollar issued under the program shall be emblematic of 1 of the 50 States. The designs for quarter dollar coins issued during each year of the program shall be emblematic of States which have not previously been commemorated under the program.
 
->         “(2) __Order of issuance.—__ 
+>         “(2)  __Order of issuance__  __.—__ 
 
 >         Each State will be honored by a coin in the order of that State’s admission to the United States.
 
->         “(3) __Number of coins.—__ 
+>         “(3)  __Number of coins__  __.—__ 
 
 >         Of the quarter dollar coins issued during each year of the program, the Secretary shall prescribe, on the basis of such factors as the Secretary determines to be appropriate, the number of quarter dollar coins which shall be issued with each of the designs selected for such year.
 
->         “(4) __Selection of design.—__ 
+>         “(4)  __Selection of design__  __.—__ 
 
 >         Each of the 50 designs required for quarter dollars issued under the program shall be—
 
@@ -1843,25 +1843,25 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
 >             “(B) reviewed by the Citizens Commemorative Coin Advisory Committee and the Commission of Fine Arts.
 
->         “(5) __Treatment as numismatic items.—__ 
+>         “(5)  __Treatment as numismatic items__  __.—__ 
 
 >         For purposes of sections 5134 and 5136 of title 31, United States Code, all coins minted under this section shall be considered to be numismatic items.
 
 >         “(6) __Numismatic items.—__ 
 
->             “(A) __Quality of coins.—__ 
+>             “(A)  __Quality of coins__  __.—__ 
 
 >             The Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (4) of this subsection in uncirculated and proof qualities as the Secretary determines to be appropriate.
 
->             “(B) __Silver coins.—__ 
+>             “(B)  __Silver coins__  __.—__ 
 
 >             Notwithstanding the provisions of sub[section 5112(b) of title 31][/us/usc/t31/s5112/b], United States Code, the Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (4) of this subsection as the Secretary determines to be appropriate with a content of 90 percent silver and 10 percent copper.
 
->             “(C) __Sources of bullion.—__ 
+>             “(C)  __Sources of bullion__  __.—__ 
 
 >             The Secretary may obtain silver for minting coins under paragraph (6)(B) from stockpiles established under the Strategic and Critical Materials Stock Piling Act \[[50 U.S.C. 98][/us/usc/t50/s98] et seq.\].
 
->     “(d) __Funding.—__ 
+>     “(d)  __Funding__  __.—__ 
 
 >     Funds used to complete this study shall be offset from funds from the Department of the Treasury.”
 
@@ -1883,7 +1883,7 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
 > “SEC. 301. __SENSE OF CONGRESS RESOLUTION.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress hereby makes the following findings:
 
@@ -1895,7 +1895,7 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
 >         “(4) It is in the interests of all Members of Congress that a policy be established to control the flow of commemorative coin legislation.
 
->     “(b) __Declaration.—__ 
+>     “(b)  __Declaration__  __.—__ 
 
 >     It is the sense of the Congress that the Committee on Banking, Finance and Urban Affairs \[now Committee on Financial Services\] of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate should not report or otherwise clear for consideration by the House of Representatives or the Senate legislation providing for more than 2 commemorative coin programs for any year, unless the committee determines, on the basis of a recommendation by the Citizens Commemorative Coin Advisory Committee, that extraordinary merit exists for an additional commemorative coin program.
 
@@ -1903,19 +1903,19 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub
 
 >     “(a) __Quarterly Financial Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Each person who receives, after the date of the enactment of this Act \[Dec. 14, 1993\], any surcharge derived from the sale of commemorative coins under any Act of Congress shall submit a quarterly financial report to the Director of the United States Mint and the Comptroller General of the United States describing in detail the expenditures made by such person from the proceeds of the surcharge.
 
->         “(2) __Information to be included.—__ 
+>         “(2)  __Information to be included__  __.—__ 
 
 >         The report under paragraph (1) shall include information on the proportion of the surcharges received during the period covered by the report to the total revenue of such person during such period, expressed as a percentage, and the percentage of total revenue during such period which was spent on administrative expenses (including salaries, travel, overhead, and fund raising).
 
->         “(3) __Due dates.—__ 
+>         “(3)  __Due dates__  __.—__ 
 
 >         Quarterly reports under this subsection shall be due at the end of the 30-day period beginning on the last day of any calendar quarter during which any surcharge derived from the sale of commemorative coins is received by any person.
 
->     “(b) __Final Report.—__ 
+>     “(b)  __Final Report__  __.—__ 
 
 >     Each person who receives, after the date of the enactment of this Act, any surcharge derived from the sale of commemorative coins under any Act of Congress shall submit a final report on the expenditures made by such person from the proceeds of all surcharges received by such person, including information described in subsection (a)(2), before the end of the 1-year period beginning on the last day on which sales of such coins may be made.”
 

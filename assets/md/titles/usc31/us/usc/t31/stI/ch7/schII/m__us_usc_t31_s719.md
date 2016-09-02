@@ -435,7 +435,7 @@ Aug. 2, 1946, ch. 753, § 206(last sentence), 60 Stat. 837.  </td>
 
 [Pub. L. 108–271, § 11][/us/pl/108/271/s11], July 7, 2004, [118 Stat. 815][/us/stat/118/815], provided that:
 
->     “(a) __Annual Reports.—__ 
+>     “(a)  __Annual Reports__  __.—__ 
 
 >     The Comptroller General shall include—
 
@@ -469,7 +469,7 @@ Aug. 2, 1946, ch. 753, § 206(last sentence), 60 Stat. 837.  </td>
 
 >             “(C) a description of any extraordinary economic conditions or serious budget constraints which had a significant impact on the determination of the annual pay adjustments for officers and employees of the Office.
 
->     “(b) __Final Report.—__ 
+>     “(b)  __Final Report__  __.—__ 
 
 >     Not later than 6 years after the date of enactment of this Act \[July 7, 2004\], the Comptroller General shall submit to Congress a report concerning the implementation of this Act \[see Tables for classification\]. Such report shall include—
 
@@ -479,7 +479,7 @@ Aug. 2, 1946, ch. 753, § 206(last sentence), 60 Stat. 837.  </td>
 
 >         “(3) any assessment furnished by the General Accounting Office \[now Government Accountability Office\] Personnel Appeals Board or any interested groups or associations representing officers and employees of the Office for inclusion in such report.
 
->     “(c) __Additional Reporting.—__ 
+>     “(c)  __Additional Reporting__  __.—__ 
 
 >     Notwithstanding any other provision of this section, the reporting requirement under subsection (a)(2)(C) shall apply in the case any report submitted under [section 719(a) of title 31][/us/usc/t31/s719/a], United States Code, whether during the 5-year period beginning on the date of enactment of this Act \[July 7, 2004\] (as required by subsection (a)) or at any time thereafter.”
 
@@ -487,7 +487,7 @@ Aug. 2, 1946, ch. 753, § 206(last sentence), 60 Stat. 837.  </td>
 
 [Pub. L. 106–303, § 6][/us/pl/106/303/s6], Oct. 13, 2000, [114 Stat. 1069][/us/stat/114/1069], provided that:
 
->     “(a) __Annual Reports.—__ 
+>     “(a)  __Annual Reports__  __.—__ 
 
 >     The Comptroller General shall include in each report submitted to Congress under [section 719(a) of title 31][/us/usc/t31/s719/a], United States Code, during the 5-year period beginning on the date of the enactment of this Act \[Oct. 13, 2000\]—
 
@@ -511,7 +511,7 @@ Aug. 2, 1946, ch. 753, § 206(last sentence), 60 Stat. 837.  </td>
 
 >         “(2) recommendations for any legislation which the Comptroller General considers appropriate with respect to any of those sections.
 
->     “(b) __Three-Year Assessment.—__ 
+>     “(b)  __Three-Year Assessment__  __.—__ 
 
 >     Not later than 3 years after the date of the enactment of this Act \[Oct. 13, 2000\], the Comptroller General shall submit to the Congress a report concerning the implementation and effectiveness of this Act \[enacting [section 732a of this title][/us/usc/t31/s732a], amending sections 731, 732, and 733 of this title, and enacting provisions set out as notes under [section 732 of this title][/us/usc/t31/s732] and sections 5597 and 8336 of Title 5\]. Such report shall include—
 
@@ -521,7 +521,7 @@ Aug. 2, 1946, ch. 753, § 206(last sentence), 60 Stat. 837.  </td>
 
 >         “(3) any assessment or recommendations of the General Accounting Office \[now Government Accountability Office\] Personnel Appeals Board or of any interested groups or associations representing officers or employees of the General Accounting Office \[now Government Accountability Office\].
 
->     “(c) __Preference Eligible Defined.—__ 
+>     “(c)  __Preference Eligible Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘preference eligible’ has the meaning given such term under [section 2108(3) of title 5][/us/usc/t5/s2108/3], United States Code.”
 

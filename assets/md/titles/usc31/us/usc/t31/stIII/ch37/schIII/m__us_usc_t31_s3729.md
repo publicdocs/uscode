@@ -17,7 +17,7 @@
 
     (a) __Liability for Certain Acts.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to paragraph (2), any person who—
 
@@ -37,7 +37,7 @@
 
             is liable to the United States Government for a civil penalty of not less than $5,000 and not more than $10,000, as adjusted by the Federal Civil Penalties Inflation Adjustment Act of 1990 ([28 U.S.C. 2461][/us/usc/t28/s2461] note; [Public Law 104–410][/us/pl/104/410]  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “101–410”. </sup></sup> ), plus 3 times the amount of damages which the Government sustains because of the act of that person.
 
-        (2) __Reduced damages.—__ 
+        (2)  __Reduced damages__  __.—__ 
 
         If the court finds that—
 
@@ -49,11 +49,11 @@
 
             the court may assess not less than 2 times the amount of damages which the Government sustains because of the act of that person.
 
-        (3) __Costs of civil actions.—__ 
+        (3)  __Costs of civil actions__  __.—__ 
 
         A person violating this subsection shall also be liable to the United States Government for the costs of a civil action brought to recover any such penalty or damages.
 
-    (b) __Definitions.—__ 
+    (b)  __Definitions__  __.—__ 
 
     For purposes of this section—
 
@@ -97,11 +97,11 @@
 
         (4) the term “material” means having a natural tendency to influence, or be capable of influencing, the payment or receipt of money or property.
 
-    (c) __Exemption From Disclosure.—__ 
+    (c)  __Exemption From Disclosure__  __.—__ 
 
     Any information furnished pursuant to subsection (a)(2) shall be exempt from disclosure under [section 552 of title 5][/us/usc/t5/s552].
 
-    (d) __Exclusion.—__ 
+    (d)  __Exclusion__  __.—__ 
 
     This section does not apply to claims, records, or statements made under the Internal Revenue Code of 1986.
 

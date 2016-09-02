@@ -261,19 +261,19 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1010\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–251, as amended by [Pub. L. 107–107, div. A, title X, § 1007][/us/pl/107/107/s1007], Dec. 28, 2001, [115 Stat. 1204][/us/stat/115/1204], provided that:
 
->     “(a) __Prompt Payment Requirement for Interim Payments.—__ 
+>     “(a)  __Prompt Payment Requirement for Interim Payments__  __.—__ 
 
 >     Under regulations prescribed under subsection (c), the head of an agency acquiring services from a business concern under a cost reimbursement contract requiring interim payments who does not pay the concern a required interim payment by the date that is 30 days after the date of the receipt of a proper invoice shall pay an interest penalty to the concern on the amount of the payment due. The interest shall be computed as provided in [section 3902(a) of title 31][/us/usc/t31/s3902/a], United States Code.
 
->     “(b) __Regulations.—__ 
+>     “(b)  __Regulations__  __.—__ 
 
 >     The Director of the Office of Management and Budget shall prescribe regulations to carry out this section. Such regulations shall be prescribed as part of the regulations prescribed under [section 3903 of title 31][/us/usc/t31/s3903], United States Code.
 
->     “(c) __Incorporation of Certain Provisions of Law.—__ 
+>     “(c)  __Incorporation of Certain Provisions of Law__  __.—__ 
 
 >     The provisions of chapter 39 of title 31, United States Code, shall apply to this section in the same manner as if this section were enacted as part of such chapter.
 
->     “(d) __Effective Date.—__ 
+>     “(d)  __Effective Date__  __.—__ 
 
 >     Subsection (a) shall take effect on December 15, 2000, and shall apply with respect to interim payments that are due on or after such date under contracts entered into before, on, or after that date. No interest shall accrue by reason of that subsection for any period before that date.”
 

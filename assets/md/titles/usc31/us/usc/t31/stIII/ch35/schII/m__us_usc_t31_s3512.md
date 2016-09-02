@@ -445,7 +445,7 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, § 113(b)(last sentence); added Sept. 8
 
 > “SEC. 802. __FINDINGS AND PURPOSES.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds the following:
 
@@ -471,7 +471,7 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, § 113(b)(last sentence); added Sept. 8
 
 >         “(7) The development of financial management systems with the capacity to support these standards and concepts will, over the long term, improve Federal financial management.
 
->     “(b) __Purpose\[.\]—The purposes of this Act \[title\] are to—__ 
+>     “(b)  __Purpose__  __\[.\]—The purposes of this Act \[title\] are to—__ 
 
 >         “(1) provide for consistency of accounting by an agency from one fiscal year to the next, and uniform accounting standards throughout the Federal Government;
 
@@ -489,17 +489,17 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, § 113(b)(last sentence); added Sept. 8
 
 > “SEC. 803. __IMPLEMENTATION OF FEDERAL FINANCIAL MANAGEMENT IMPROVEMENTS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Each agency shall implement and maintain financial management systems that comply substantially with Federal financial management systems requirements, applicable Federal accounting standards, and the United States Government Standard General Ledger at the transaction level.
 
 >     “(b) __Audit Compliance Finding.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Each audit required by [section 3521(e) of title 31][/us/usc/t31/s3521/e], United States Code, shall report whether the agency financial management systems comply with the requirements of subsection (a).
 
->         “(2) __Content of Reports.—__ 
+>         “(2)  __Content of Reports__  __.—__ 
 
 >         When the person performing the audit required by [section 3521(e) of title 31][/us/usc/t31/s3521/e], United States Code, reports that the agency financial management systems do not comply with the requirements of subsection (a), the person performing the audit shall include in the report on the audit—
 
@@ -521,7 +521,7 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, § 113(b)(last sentence); added Sept. 8
 
 >     “(c) __Compliance Implementation.—__ 
 
->         “(1) __Determination.—__ 
+>         “(1)  __Determination__  __.—__ 
 
 >         No later than the date described under paragraph (2), the Head of an agency shall determine whether the financial management systems of the agency comply with the requirements of subsection (a). Such determination shall be based on—
 
@@ -529,7 +529,7 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, § 113(b)(last sentence); added Sept. 8
 
 >             “(B) any other information the Head of the agency considers relevant and appropriate.
 
->         “(2) __Date of determination.—__ 
+>         “(2)  __Date of determination__  __.—__ 
 
 >         The determination under paragraph (1) shall be made no later than 120 days after the earlier of—
 
@@ -543,7 +543,7 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, § 113(b)(last sentence); added Sept. 8
 
 >             “(B) If the determination of the head of the agency differs from the audit compliance findings required in subsection (b), the Director shall review such determinations and provide a report on the findings to the appropriate committees of the Congress.
 
->         “(4) __Time period for compliance.—__ 
+>         “(4)  __Time period for compliance__  __.—__ 
 
 >         A remediation plan shall bring the agency’s financial management systems into substantial compliance no later than 3 years after the date a determination is made under paragraph (1), unless the agency, with concurrence of the Director—
 
@@ -555,11 +555,11 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, § 113(b)(last sentence); added Sept. 8
 
 > “SEC. 804. __REPORTING REQUIREMENTS.__ 
 
->     “(a) __Reports by the Director.—__ 
+>     “(a)  __Reports by the Director__  __.—__ 
 
 >     No later than March 31 of each year, the Director shall submit a report to the Congress regarding implementation of this Act \[title\]. The Director may include the report in the financial management status report and the 5-year financial management plan submitted under [section 3512(a)(1) of title 31][/us/usc/t31/s3512/a/1], United States Code.
 
->     “(b) __Reports by the Inspector General\[.\]—Each Inspector General who prepares a report under section 5(a) of the Inspector General Act of 1978 (5 U.S.C. App.) shall report to Congress instances and reasons when an agency has not met the intermediate target dates established in the remediation plan required under section 3(c) \[803(c)\]. Specifically the report shall include—__ 
+>     “(b)  __Reports by the Inspector General__  __\[.\]—Each Inspector General who prepares a report under section 5(a) of the Inspector General Act of 1978 (5 U.S.C. App.) shall report to Congress instances and reasons when an agency has not met the intermediate target dates established in the remediation plan required under section 3(c) \[803(c)\]. Specifically the report shall include—__ 
 
 >         “(1) the entity or organization responsible for the non-compliance \[sic\];
 
@@ -567,7 +567,7 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, § 113(b)(last sentence); added Sept. 8
 
 >         “(3) a statement of the remedial actions needed to comply.
 
->     “(c) __Reports by the Comptroller General.—__ 
+>     “(c)  __Reports by the Comptroller General__  __.—__ 
 
 >     No later than October 1, 1997, and October 1, of each year thereafter, the Comptroller General of the United States shall report to the appropriate committees of the Congress concerning—
 
@@ -577,15 +577,15 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, § 113(b)(last sentence); added Sept. 8
 
 > “SEC. 805. __CONFORMING AMENDMENTS.__ 
 
->     “(a) __Audits by Agencies.—__ 
+>     “(a)  __Audits by Agencies__  __.—__ 
 
 >     \[Amended [section 3521 of this title][/us/usc/t31/s3521].\]
 
->     “(b) __Financial Management Status Report.—__ 
+>     “(b)  __Financial Management Status Report__  __.—__ 
 
 >     \[Amended this section.\]
 
->     “(c) __Inspector General Act of 1978.—__ 
+>     “(c)  __Inspector General Act of__  __1978.—__ 
 
 >     \[Amended section 5 of the Inspector General Act of 1978, set out in the Appendix to Title 5, Government Organization and Employees.\]
 
@@ -593,23 +593,23 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, § 113(b)(last sentence); added Sept. 8
 
 > “For purposes of this title:
 
->     “(1) __Agency.—__ 
+>     “(1)  __Agency__  __.—__ 
 
 >     The term ‘agency’ means a department or agency of the United States Government as defined in [section 901(b) of title 31][/us/usc/t31/s901/b], United States Code.
 
->     “(2) __Director.—__ 
+>     “(2)  __Director__  __.—__ 
 
 >     The term ‘Director’ means the Director of the Office of Management and Budget.
 
->     “(3) __Federal Accounting Standards.—__ 
+>     “(3)  __Federal Accounting Standards__  __.—__ 
 
 >     The term ‘Federal accounting standards’ means applicable accounting principles, standards, and requirements consistent with [section 902(a)(3)(A) of title 31][/us/usc/t31/s902/a/3/A], United States Code.
 
->     “(4) __Financial management systems.—__ 
+>     “(4)  __Financial management systems__  __.—__ 
 
 >     The term ‘financial management systems’ includes the financial systems and the financial portions of mixed systems necessary to support financial management, including automated and manual processes, procedures, controls, data, hardware, software, and support personnel dedicated to the operation and maintenance of system functions.
 
->     “(5) __Financial system.—__ 
+>     “(5)  __Financial system__  __.—__ 
 
 >     The term ‘financial system’ includes an information system, comprised of one or more applications, that is used for—
 
@@ -621,7 +621,7 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, § 113(b)(last sentence); added Sept. 8
 
 >         “(D) supporting the preparation of financial statements.
 
->     “(6) __Mixed system.—__ 
+>     “(6)  __Mixed system__  __.—__ 
 
 >     The term ‘mixed system’ means an information system that supports both financial and nonfinancial functions of the Federal Government or components thereof.
 

@@ -147,11 +147,11 @@ Oct. 16, 1968, Pub. L. 90–577, § 302, 82 Stat. 1102; Reorg. Plan No. 2 of 1
 
 [Pub. L. 106–541, title II, § 211][/us/pl/106/541/s211], Dec. 11, 2000, [114 Stat. 2592][/us/stat/114/2592], as amended by [Pub. L. 107–66, title I, § 109][/us/pl/107/66/s109], Nov. 12, 2001, [115 Stat. 496][/us/stat/115/496], provided that:
 
->     “(a) __Definition of State.—__ 
+>     “(a)  __Definition of State__  __.—__ 
 
 >     In this section, the term ‘State’ has the meaning given the term in [section 6501 of title 31][/us/usc/t31/s6501], United States Code.
 
->     “(b) __Authority.—__ 
+>     “(b)  __Authority__  __.—__ 
 
 >     The Corps of Engineers may provide specialized or technical services to a Federal agency (other than an agency of the Department of Defense) or a State or local government under [section 6505 of title 31][/us/usc/t31/s6505], United States Code, only if the chief executive of the requesting entity submits to the Secretary \[of the Army\]—
 
@@ -159,7 +159,7 @@ Oct. 16, 1968, Pub. L. 90–577, § 302, 82 Stat. 1102; Reorg. Plan No. 2 of 1
 
 >         “(2) a certification that includes adequate facts to establish that the services requested are not reasonably and quickly available through ordinary business channels.
 
->     “(c) __Corps Agreement To Perform Services.—__ 
+>     “(c)  __Corps Agreement To Perform Services__  __.—__ 
 
 >     The Secretary, after receiving a request described in subsection (b) to provide specialized or technical services, shall, before entering into an agreement to perform the services—
 
@@ -169,11 +169,11 @@ Oct. 16, 1968, Pub. L. 90–577, § 302, 82 Stat. 1102; Reorg. Plan No. 2 of 1
 
 >     “(d) __Annual Report to Congress.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than the last day of each calendar year, the Secretary shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report identifying any request submitted by a Federal agency (other than an agency of the Department of Defense) or a State or local government to the Corps to provide specialized or technical services.
 
->         “(2) __Contents of report.—__ 
+>         “(2)  __Contents of report__  __.—__ 
 
 >         The report shall include, with respect to each request described in paragraph (1)—
 
@@ -191,7 +191,7 @@ Oct. 16, 1968, Pub. L. 90–577, § 302, 82 Stat. 1102; Reorg. Plan No. 2 of 1
 
 >             “(G) copies of all certifications in support of the request.
 
->     “(e) __Engineering Research and Development Center.—__ 
+>     “(e)  __Engineering Research and Development Center__  __.—__ 
 
 >     The Engineering Research and Development Center is exempt from the requirements of this section.”
 

@@ -15,7 +15,7 @@
 
 ## § 705. Inspector General for the Government Accountability Office
 
-    (a) __Establishment of Office.—__ 
+    (a)  __Establishment of Office__  __.—__ 
 
     There is established an Office of the Inspector General in the Government Accountability Office, to—
 
@@ -33,7 +33,7 @@
 
         (3) The Inspector General shall be paid at an annual rate of pay equal to $5,000 less than the annual rate of pay of the Comptroller General, and may not receive any cash award or bonus, including any award under chapter 45 of title 5.
 
-    (c) __Authority of Inspector General.—__ 
+    (c)  __Authority of Inspector General__  __.—__ 
 
     In addition to the authority otherwise provided by this section, the Inspector General, in carrying out the provisions of this section, may—
 
@@ -67,7 +67,7 @@
 
         (3) Any employee who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or threaten to take any action against any employee as a reprisal for making a complaint or disclosing information to the Inspector General, unless the complaint was made or the information disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
 
-    (e) __Semiannual Reports.—__ 
+    (e)  __Semiannual Reports__  __.—__ 
 
         (1)
 
@@ -83,29 +83,29 @@
 
         (2) The Comptroller General shall transmit the semiannual reports of the Inspector General, together with any comments the Comptroller General considers appropriate, to Congress within 30 days after receipt of such reports.
 
-    (f) __Independence in Carrying Out Duties and Responsibilities.—__ 
+    (f)  __Independence in Carrying Out Duties and Responsibilities__  __.—__ 
 
     The Comptroller General may not prevent or prohibit the Inspector General from carrying out any of the duties or responsibilities of the Inspector General under this section.
 
     (g) __Authority for Staff.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Inspector General shall select, appoint, and employ (including fixing and adjusting the rates of pay of) such personnel as may be necessary to carry out this section consistent with the provisions of this title governing selections, appointments, and employment (including the fixing and adjusting the rates of pay) in the Government Accountability Office. Such personnel shall be appointed, promoted, and assigned only on the basis of merit and fitness, but without regard to those provisions of title 5 governing appointments and other personnel actions in the competitive service, except that no personnel of the Office may be paid at an annual rate greater than $1,000 less than the annual rate of pay of the Inspector General.
 
-        (2) __Experts and consultants.—__ 
+        (2)  __Experts and consultants__  __.—__ 
 
         The Inspector General may procure temporary and intermittent services under [section 3109 of title 5][/us/usc/t5/s3109] at rates not to exceed the daily equivalent of the annual rate of basic pay for level IV of the Executive Schedule under section 5315 of such title.
 
-        (3) __Independence in appointing staff.—__ 
+        (3)  __Independence in appointing staff__  __.—__ 
 
         No individual may carry out any of the duties or responsibilities of the Office of the Inspector General unless the individual is appointed by the Inspector General, or provides services obtained by the Inspector General, pursuant to this paragraph.
 
-        (4) __Limitation on program responsibilities.—__ 
+        (4)  __Limitation on program responsibilities__  __.—__ 
 
         The Inspector General and any individual carrying out any of the duties or responsibilities of the Office of the Inspector General are prohibited from performing any program responsibilities.
 
-    (h) __Office Space.—__ 
+    (h)  __Office Space__  __.—__ 
 
     The Comptroller General shall provide the Office of the Inspector General—
 
@@ -117,7 +117,7 @@
 
         (4) equipment and facilities located in such office space.
 
-    (i) __Definition.—__ 
+    (i)  __Definition__  __.—__ 
 
     As used in this section, the term “Federal agency” means a department, agency, instrumentality, or unit thereof, of the Federal Government.
 

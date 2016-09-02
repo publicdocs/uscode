@@ -15,7 +15,7 @@
 
 ## § 5364. Policies and procedures to identify and prevent restricted transactions
 
-    (a) __Regulations.—__ 
+    (a)  __Regulations__  __.—__ 
 
     Before the end of the 270-day period beginning on the date of the enactment of this subchapter, the Secretary and the Board of Governors of the Federal Reserve System, in consultation with the Attorney General, shall prescribe regulations (which the Secretary and the Board jointly determine to be appropriate) requiring each designated payment system, and all participants therein, to identify and block or otherwise prevent or prohibit restricted transactions through the establishment of policies and procedures reasonably designed to identify and block or otherwise prevent or prohibit the acceptance of restricted transactions in any of the following ways:
 
@@ -29,7 +29,7 @@
 
         (2) The establishment of policies and procedures that prevent or prohibit the acceptance of the products or services of the payment system in connection with a restricted transaction.
 
-    (b) __Requirements for Policies and Procedures.—__ 
+    (b)  __Requirements for Policies and Procedures__  __.—__ 
 
     In prescribing regulations under subsection (a), the Secretary and the Board of Governors of the Federal Reserve System shall—
 
@@ -41,7 +41,7 @@
 
         (4) ensure that transactions in connection with any activity excluded from the definition of unlawful internet gambling in subparagraph (B), (C), or (D)(i) of section 5362(10) are not blocked or otherwise prevented or prohibited by the prescribed regulations.
 
-    (c) __Compliance With Payment System Policies and Procedures.—__ 
+    (c)  __Compliance With Payment System Policies and Procedures__  __.—__ 
 
     A financial transaction provider shall be considered to be in compliance with the regulations prescribed under subsection (a) if—
 
@@ -55,7 +55,7 @@
 
         (2) such policies and procedures of the designated payment system comply with the requirements of regulations prescribed under subsection (a).
 
-    (d) __No Liability for Blocking or Refusing To Honor Restricted Transactions.—__ 
+    (d)  __No Liability for Blocking or Refusing To Honor Restricted Transactions__  __.—__ 
 
     A person that identifies and blocks a transaction, prevents or prohibits the acceptance of its products or services in connection with a transaction, or otherwise refuses to honor a transaction—
 
@@ -67,7 +67,7 @@
 
         shall not be liable to any party for such action.
 
-    (e) __Regulatory Enforcement.—__ 
+    (e)  __Regulatory Enforcement__  __.—__ 
 
     The requirements under this section shall be enforced exclusively by—
 

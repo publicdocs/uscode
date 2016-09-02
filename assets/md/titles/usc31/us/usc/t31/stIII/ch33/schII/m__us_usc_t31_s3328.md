@@ -17,7 +17,7 @@
 
     (a) __Time Limit on Treasury Checks.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in sections 3329 and 3330 of this title—
 
@@ -25,7 +25,7 @@
 
             (B) the Secretary shall not be required to pay a Treasury check issued before the effective date of this section unless it is negotiated to a financial institution within 12 months after such effective date.
 
-        (2) __Deferral pending settlement.—__ 
+        (2)  __Deferral pending settlement__  __.—__ 
 
         Notwithstanding the time limitations imposed by paragraph (1), if the Secretary is on notice of a question of law or fact about whether a Treasury check is properly payable when the check is presented for payment, the Secretary may defer payment on such check until the question is settled.
 
@@ -61,7 +61,7 @@
 
         (2) Regulations prescribed under paragraph (1) of this subsection shall prevent, as far as may be practicable, Government drafts from being used or placed in circulation as paper currency or a medium of exchange.
 
-    (f) __Authority To Decline Payment.—__ 
+    (f)  __Authority To Decline Payment__  __.—__ 
 
     Nothing in this section limits the authority of the Secretary to decline payment of a Treasury check after first examination thereof at the Treasury.
 

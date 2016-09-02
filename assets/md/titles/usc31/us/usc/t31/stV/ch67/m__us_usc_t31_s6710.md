@@ -17,17 +17,17 @@
 
     (a) __Hearings.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A unit of general local government expending payments under this chapter shall hold at least one public hearing on the proposed use of the payment in relation to its entire budget. At the hearing, persons shall be given an opportunity to provide written and oral views to the governmental authority responsible for enacting the budget and to ask questions about the entire budget and the relation of the payment to the entire budget. The government shall hold the hearing at a time and a place that allows and encourages public attendance and participation.
 
-        (2) __Senior citizens.—__ 
+        (2)  __Senior citizens__  __.—__ 
 
         A unit of general local government holding a hearing required under this subsection or by the budget process of the government shall try to provide senior citizens and senior citizen organizations with an opportunity to present views at the hearing before the government makes a final decision on the use of the payment.
 
     (b) __Disclosure of Information.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         By the 10th day before a hearing required under subsection (a)(1) is held, a unit of general local government shall—
 
@@ -35,7 +35,7 @@
 
             (B) publish in at least one newspaper of general circulation the proposed use of the payment with the summary of the proposed budget and a notice of the time and place of the hearing.
 
-        (2) __Availability.—__ 
+        (2)  __Availability__  __.—__ 
 
         By the 30th day after adoption of the budget under State or local law, the government shall—
 
@@ -43,7 +43,7 @@
 
             (B) publish in at least one newspaper of general circulation a notice that the information referred to in subparagraph (A) is available for inspection.
 
-    (c) __Waivers of Requirements.—__ 
+    (c)  __Waivers of Requirements__  __.—__ 
 
     A requirement—
 
@@ -57,7 +57,7 @@
 
         (2) under subsection (b)(1)(B) and paragraph (2)(B) may be waived if the cost of publishing the information would be unreasonably burdensome in relation to the amount allocated to the government from amounts available for payment under this chapter, or if publication is otherwise impracticable.
 
-    (d) __Exception to 10-Day Limitation.—__ 
+    (d)  __Exception to__  __10-__  __Day Limitation__  __.—__ 
 
     If the Secretary is satisfied that a unit of general local government will provide adequate notice of the proposed use of a payment received under this chapter, the 10-day period under subsection (b)(1) may be changed to the extent necessary to comply with applicable State or local law.
 

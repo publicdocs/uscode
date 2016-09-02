@@ -15,7 +15,7 @@
 
 ## § 6720. Definitions, application, and administration
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this chapter—
 
@@ -57,15 +57,15 @@
 
         (9) “Secretary” means the Secretary of Housing and Urban Development.
 
-    (b) __Delegation of Administration.—__ 
+    (b)  __Delegation of Administration__  __.—__ 
 
     The Secretary may enter into agreements with other executive branch departments and agencies to delegate to that department or agency all or part of the Secretary’s responsibility for administering this chapter.
 
-    (c) __Treatment of Subsumed Areas.—__ 
+    (c)  __Treatment of Subsumed Areas__  __.—__ 
 
     If the entire geographic area of a unit of general local government is located in a larger entity, the unit of general local government is deemed to be located in the larger entity. If only part of the geographic area of a unit is located in a larger entity, each part is deemed to be located in the larger entity and to be a separate unit of general local government in determining allocations under this chapter. Except as provided in regulations prescribed by the Secretary, the Secretary shall make all data computations based on the ratio of the estimated population of the part to the population of the entire unit of general local government.
 
-    (d) __Boundary and Other Changes.—__ 
+    (d)  __Boundary and Other Changes__  __.—__ 
 
     If a boundary line change, a State statutory or constitutional change, annexation, a governmental reorganization, or other circumstance results in the application of sections 6704 through 6708 in a way that does not carry out the purposes of sections 6701 through 6708, the Secretary shall apply sections 6701 through 6708 under regulations of the Secretary in a way that is consistent with those purposes.
 

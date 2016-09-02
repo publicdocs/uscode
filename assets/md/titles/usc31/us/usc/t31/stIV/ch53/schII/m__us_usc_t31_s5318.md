@@ -15,7 +15,7 @@
 
 ## § 5318. Compliance, exemptions, and summons authority
 
-    (a) __General Powers of Secretary.—__ 
+    (a)  __General Powers of Secretary__  __.—__ 
 
     The Secretary of the Treasury may (except under [section 5315 of this title][/us/usc/t31/s5315] and regulations prescribed under section 5315)—
 
@@ -39,39 +39,39 @@
 
     (b) __Limitations on Summons Power.—__ 
 
-        (1) __Scope of power.—__ 
+        (1)  __Scope of power__  __.—__ 
 
         The Secretary of the Treasury may take any action described in paragraph (3) or (4) of subsection (a) only in connection with investigations for the purpose of civil enforcement of violations of this subchapter, section 21 of the Federal Deposit Insurance Act, section 411  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the National Housing Act, or chapter 2 of [Public Law 91–508][/us/pl/91/508] ([12 U.S.C. 1951][/us/usc/t12/s1951] et seq.) or any regulation under any such provision.
 
-        (2) __Authority to issue.—__ 
+        (2)  __Authority to issue__  __.—__ 
 
         A summons may be issued under subsection (a)(4) only by, or with the approval of, the Secretary of the Treasury or a supervisory level delegate of the Secretary of the Treasury.
 
     (c) __Administrative Aspects of Summons.—__ 
 
-        (1) __Production at designated site.—__ 
+        (1)  __Production at designated site__  __.—__ 
 
         A summons issued pursuant to this section may require that books, papers, records, or other data stored or maintained at any place be produced at any designated location in any State or in any territory or other place subject to the jurisdiction of the United States not more than 500 miles distant from any place where the financial institution or nonfinancial trade or business operates or conducts business in the United States.
 
-        (2) __Fees and travel expenses.—__ 
+        (2)  __Fees and travel expenses__  __.—__ 
 
         Persons summoned under this section shall be paid the same fees and mileage for travel in the United States that are paid witnesses in the courts of the United States.
 
-        (3) __No liability for expenses.—__ 
+        (3)  __No liability for expenses__  __.—__ 
 
         The United States shall not be liable for any expense, other than an expense described in paragraph (2), incurred in connection with the production of books, papers, records, or other data under this section.
 
-    (d) __Service of Summons.—__ 
+    (d)  __Service of Summons__  __.—__ 
 
     Service of a summons issued under this section may be by registered mail or in such other manner calculated to give actual notice as the Secretary may prescribe by regulation.
 
     (e) __Contumacy or Refusal.—__ 
 
-        (1) __Referral to attorney general.—__ 
+        (1)  __Referral to attorney general__  __.—__ 
 
         In case of contumacy by a person issued a summons under paragraph (3) or (4) of subsection (a) or a refusal by such person to obey such summons, the Secretary of the Treasury shall refer the matter to the Attorney General.
 
-        (2) __Jurisdiction of court.—__ 
+        (2)  __Jurisdiction of court__  __.—__ 
 
         The Attorney General may invoke the aid of any court of the United States within the jurisdiction of which—
 
@@ -83,19 +83,19 @@
 
             to compel compliance with the summons.
 
-        (3) __Court order.—__ 
+        (3)  __Court order__  __.—__ 
 
         The court may issue an order requiring the person summoned to appear before the Secretary or his delegate to produce books, papers, records, and other data, to give testimony as may be necessary to explain how such material was compiled and maintained, and to pay the costs of the proceeding.
 
-        (4) __Failure to comply with order.—__ 
+        (4)  __Failure to comply with order__  __.—__ 
 
         Any failure to obey the order of the court may be punished by the court as a contempt thereof.
 
-        (5) __Service of process.—__ 
+        (5)  __Service of process__  __.—__ 
 
         All process in any case under this subsection may be served in any judicial district in which such person may be found.
 
-    (f) __Written and Signed Statement Required.—__ 
+    (f)  __Written and Signed Statement Required__  __.—__ 
 
     No person shall qualify for an exemption under subsection (a)(5)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  unless the relevant financial institution or nonfinancial trade or business prepares and maintains a statement which—
 
@@ -105,13 +105,13 @@
 
     (g) __Reporting of Suspicious Transactions.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary may require any financial institution, and any director, officer, employee, or agent of any financial institution, to report any suspicious transaction relevant to a possible violation of law or regulation.
 
         (2) __Notification prohibited.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             If a financial institution or any director, officer, employee, or agent of any financial institution, voluntarily or pursuant to this section or any other authority, reports a suspicious transaction to a government agency—
 
@@ -121,7 +121,7 @@
 
             (B) __Disclosures in certain employment references.—__ 
 
-                (i) __Rule of construction.—__ 
+                (i)  __Rule of construction__  __.—__ 
 
                 Notwithstanding the application of subparagraph (A) in any other context, subparagraph (A) shall not be construed as prohibiting any financial institution, or any director, officer, employee, or agent of such institution, from including information that was included in a report to which subparagraph (A) applies—
 
@@ -131,17 +131,17 @@
 
                  except that such written reference or notice may not disclose that such information was also included in any such report, or that such report was made.
 
-                (ii) __Information not required.—__ 
+                (ii)  __Information not required__  __.—__ 
 
                 Clause (i) shall not be construed, by itself, to create any affirmative duty to include any information described in clause (i) in any employment reference or termination notice referred to in clause (i).
 
         (3) __Liability for disclosures.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Any financial institution that makes a voluntary disclosure of any possible violation of law or regulation to a government agency or makes a disclosure pursuant to this subsection or any other authority, and any director, officer, employee, or agent of such institution who makes, or requires another to make any such disclosure, shall not be liable to any person under any law or regulation of the United States, any constitution, law, or regulation of any State or political subdivision of any State, or under any contract or other legally enforceable agreement (including any arbitration agreement), for such disclosure or for any failure to provide notice of such disclosure to the person who is the subject of such disclosure or any other person identified in the disclosure.
 
-            (B) __Rule of construction.—__ 
+            (B)  __Rule of construction__  __.—__ 
 
             Subparagraph (A) shall not be construed as creating—
 
@@ -151,21 +151,21 @@
 
         (4) __Single designee for reporting suspicious transactions.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             In requiring reports under paragraph (1) of suspicious transactions, the Secretary of the Treasury shall designate, to the extent practicable and appropriate, a single officer or agency of the United States to whom such reports shall be made.
 
-            (B) __Duty of designee.—__ 
+            (B)  __Duty of designee__  __.—__ 
 
             The officer or agency of the United States designated by the Secretary of the Treasury pursuant to subparagraph (A) shall refer any report of a suspicious transaction to any appropriate law enforcement, supervisory agency, or United States intelligence agency for use in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism.
 
-            (C) __Coordination with other reporting requirements.—__ 
+            (C)  __Coordination with other reporting requirements__  __.—__ 
 
             Subparagraph (A) shall not be construed as precluding any supervisory agency for any financial institution from requiring the financial institution to submit any information or report to the agency or another agency pursuant to any other applicable provision of law.
 
     (h) __Anti-Money Laundering Programs.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In order to guard against money laundering through financial institutions, each financial institution shall establish anti-money laundering programs, including, at a minimum—
 
@@ -177,11 +177,11 @@
 
             (D) an independent audit function to test programs.
 
-        (2) __Regulations.—__ 
+        (2)  __Regulations__  __.—__ 
 
         The Secretary of the Treasury, after consultation with the appropriate Federal functional regulator (as defined in section 509 of the Gramm-Leach-Bliley Act), may prescribe minimum standards for programs established under paragraph (1), and may exempt from the application of those standards any financial institution that is not subject to the provisions of the rules contained in part 103 of title 31, of the Code of Federal Regulations, or any successor rule thereto, for so long as such financial institution is not subject to the provisions of such rules.
 
-        (3) __Concentration accounts.—__ 
+        (3)  __Concentration accounts__  __.—__ 
 
         The Secretary may prescribe regulations under this subsection that govern maintenance of concentration accounts by financial institutions, in order to ensure that such accounts are not used to prevent association of the identity of an individual customer with the movement of funds of which the customer is the direct or beneficial owner, which regulations shall, at a minimum—
 
@@ -193,13 +193,13 @@
 
     (i) __Due Diligence for United States Private Banking and Correspondent Bank Accounts Involving Foreign Persons.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Each financial institution that establishes, maintains, administers, or manages a private banking account or a correspondent account in the United States for a non-United States person, including a foreign individual visiting the United States, or a representative of a non-United States person shall establish appropriate, specific, and, where necessary, enhanced, due diligence policies, procedures, and controls that are reasonably designed to detect and report instances of money laundering through those accounts.
 
         (2) __Additional standards for certain correspondent accounts.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subparagraph (B) shall apply if a correspondent account is requested or maintained by, or on behalf of, a foreign bank operating—
 
@@ -213,7 +213,7 @@
 
                     (II) by the Secretary of the Treasury as warranting special measures due to money laundering concerns.
 
-            (B) __Policies, procedures, and controls.—__ 
+            (B)  __Policies, procedures, and controls__  __.—__ 
 
             The enhanced due diligence policies, procedures, and controls required under paragraph (1) shall, at a minimum, ensure that the financial institution in the United States takes reasonable steps—
 
@@ -223,7 +223,7 @@
 
                 (iii) to ascertain whether such foreign bank provides correspondent accounts to other foreign banks and, if so, the identity of those foreign banks and related due diligence information, as appropriate under paragraph (1).
 
-        (3) __Minimum standards for private banking accounts.—__ 
+        (3)  __Minimum standards for private banking accounts__  __.—__ 
 
         If a private banking account is requested or maintained by, or on behalf of, a non-United States person, then the due diligence policies, procedures, and controls required under paragraph (1) shall, at a minimum, ensure that the financial institution takes reasonable steps—
 
@@ -231,15 +231,15 @@
 
             (B) to conduct enhanced scrutiny of any such account that is requested or maintained by, or on behalf of, a senior foreign political figure, or any immediate family member or close associate of a senior foreign political figure, that is reasonably designed to detect and report transactions that may involve the proceeds of foreign corruption.
 
-        (4) __Definitions.—__ 
+        (4)  __Definitions__  __.—__ 
 
         For purposes of this subsection, the following definitions shall apply:
 
-            (A) __Offshore banking license.—__ 
+            (A)  __Offshore banking license__  __.—__ 
 
             The term “offshore banking license” means a license to conduct banking activities which, as a condition of the license, prohibits the licensed entity from conducting banking activities with the citizens of, or with the local currency of, the country which issued the license.
 
-            (B) __Private banking account.—__ 
+            (B)  __Private banking account__  __.—__ 
 
             The term “private banking account” means an account (or any combination of accounts) that—
 
@@ -251,15 +251,15 @@
 
     (j) __Prohibition on United States Correspondent Accounts With Foreign Shell Banks.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A financial institution described in subparagraphs (A) through (G) of section 5312(a)(2) (in this subsection referred to as a “covered financial institution”) shall not establish, maintain, administer, or manage a correspondent account in the United States for, or on behalf of, a foreign bank that does not have a physical presence in any country.
 
-        (2) __Prevention of indirect service to foreign shell banks.—__ 
+        (2)  __Prevention of indirect service to foreign shell banks__  __.—__ 
 
         A covered financial institution shall take reasonable steps to ensure that any correspondent account established, maintained, administered, or managed by that covered financial institution in the United States for a foreign bank is not being used by that foreign bank to indirectly provide banking services to another foreign bank that does not have a physical presence in any country. The Secretary of the Treasury shall, by regulation, delineate the reasonable steps necessary to comply with this paragraph.
 
-        (3) __Exception.—__ 
+        (3)  __Exception__  __.—__ 
 
         Paragraphs (1) and (2) do not prohibit a covered financial institution from providing a correspondent account to a foreign bank, if the foreign bank—
 
@@ -267,7 +267,7 @@
 
             (B) is subject to supervision by a banking authority in the country regulating the affiliated depository institution, credit union, or foreign bank described in subparagraph (A), as applicable.
 
-        (4) __Definitions.—__ 
+        (4)  __Definitions__  __.—__ 
 
         For purposes of this subsection—
 
@@ -291,19 +291,19 @@
 
     (k) __Bank Records Related to Anti-Money Laundering Programs.—__ 
 
-        (1) __Definitions.—__ 
+        (1)  __Definitions__  __.—__ 
 
         For purposes of this subsection, the following definitions shall apply:
 
-            (A) __Appropriate federal banking agency.—__ 
+            (A)  __Appropriate federal banking agency__  __.—__ 
 
             The term “appropriate Federal banking agency” has the same meaning as in section 3 of the Federal Deposit Insurance Act ([12 U.S.C. 1813][/us/usc/t12/s1813]).
 
-            (B) __Incorporated term.—__ 
+            (B)  __Incorporated term__  __.—__ 
 
             The term “correspondent account” has the same meaning as in section 5318A(e)(1)(B).
 
-        (2) __120-hour rule.—__ 
+        (2) __120-__  __hour rule__  __.—__ 
 
         Not later than 120 hours after receiving a request by an appropriate Federal banking agency for information related to anti-money laundering compliance by a covered financial institution or a customer of such institution, a covered financial institution shall provide to the appropriate Federal banking agency, or make available at a location specified by the representative of the appropriate Federal banking agency, information and account documentation for any account opened, maintained, administered or managed in the United States by the covered financial institution.
 
@@ -311,27 +311,27 @@
 
             (A) __Summons or subpoena of records.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The Secretary of the Treasury or the Attorney General may issue a summons or subpoena to any foreign bank that maintains a correspondent account in the United States and request records related to such correspondent account, including records maintained outside of the United States relating to the deposit of funds into the foreign bank.
 
-                (ii) __Service of summons or subpoena.—__ 
+                (ii)  __Service of summons or subpoena__  __.—__ 
 
                 A summons or subpoena referred to in clause (i) may be served on the foreign bank in the United States if the foreign bank has a representative in the United States, or in a foreign country pursuant to any mutual legal assistance treaty, multilateral agreement, or other request for international law enforcement assistance.
 
             (B) __Acceptance of service.—__ 
 
-                (i) __Maintaining records in the united states.—__ 
+                (i)  __Maintaining records in the united states__  __.—__ 
 
                 Any covered financial institution which maintains a correspondent account in the United States for a foreign bank shall maintain records in the United States identifying the owners of such foreign bank and the name and address of a person who resides in the United States and is authorized to accept service of legal process for records regarding the correspondent account.
 
-                (ii) __Law enforcement request.—__ 
+                (ii)  __Law enforcement request__  __.—__ 
 
                 Upon receipt of a written request from a Federal law enforcement officer for information required to be maintained under this paragraph, the covered financial institution shall provide the information to the requesting officer not later than 7 days after receipt of the request.
 
             (C) __Termination of correspondent relationship.—__ 
 
-                (i) __Termination upon receipt of notice.—__ 
+                (i)  __Termination upon receipt of notice__  __.—__ 
 
                 A covered financial institution shall terminate any correspondent relationship with a foreign bank not later than 10 business days after receipt of written notice from the Secretary or the Attorney General (in each case, after consultation with the other) that the foreign bank has failed—
 
@@ -339,21 +339,21 @@
 
                     (II) to initiate proceedings in a United States court contesting such summons or subpoena.
 
-                (ii) __Limitation on liability.—__ 
+                (ii)  __Limitation on liability__  __.—__ 
 
                 A covered financial institution shall not be liable to any person in any court or arbitration proceeding for terminating a correspondent relationship in accordance with this subsection.
 
-                (iii) __Failure to terminate relationship.—__ 
+                (iii)  __Failure to terminate relationship__  __.—__ 
 
                 Failure to terminate a correspondent relationship in accordance with this subsection shall render the covered financial institution liable for a civil penalty of up to $10,000 per day until the correspondent relationship is so terminated.
 
     (l) __Identification and Verification of Accountholders.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to the requirements of this subsection, the Secretary of the Treasury shall prescribe regulations setting forth the minimum standards for financial institutions and their customers regarding the identity of the customer that shall apply in connection with the opening of an account at a financial institution.
 
-        (2) __Minimum requirements.—__ 
+        (2)  __Minimum requirements__  __.—__ 
 
         The regulations shall, at a minimum, require financial institutions to implement, and customers (after being given adequate notice) to comply with, reasonable procedures for—
 
@@ -363,33 +363,33 @@
 
             (C) consulting lists of known or suspected terrorists or terrorist organizations provided to the financial institution by any government agency to determine whether a person seeking to open an account appears on any such list.
 
-        (3) __Factors to be considered.—__ 
+        (3)  __Factors to be considered__  __.—__ 
 
         In prescribing regulations under this subsection, the Secretary shall take into consideration the various types of accounts maintained by various types of financial institutions, the various methods of opening accounts, and the various types of identifying information available.
 
-        (4) __Certain financial institutions.—__ 
+        (4)  __Certain financial institutions__  __.—__ 
 
         In the case of any financial institution the business of which is engaging in financial activities described in section 4(k) of the Bank Holding Company Act of 1956 (including financial activities subject to the jurisdiction of the Commodity Futures Trading Commission), the regulations prescribed by the Secretary under paragraph (1) shall be prescribed jointly with each Federal functional regulator (as defined in section 509 of the Gramm-Leach-Bliley Act, including the Commodity Futures Trading Commission) appropriate for such financial institution.
 
-        (5) __Exemptions.—__ 
+        (5)  __Exemptions__  __.—__ 
 
         The Secretary (and, in the case of any financial institution described in paragraph (4), any Federal agency described in such paragraph) may, by regulation or order, exempt any financial institution or type of account from the requirements of any regulation prescribed under this subsection in accordance with such standards and procedures as the Secretary may prescribe.
 
-        (6) __Effective date.—__ 
+        (6)  __Effective date__  __.—__ 
 
         Final regulations prescribed under this subsection shall take effect before the end of the 1-year period beginning on the date of enactment of the International Money Laundering Abatement and Financial Anti-Terrorism Act of 2001.
 
-    (m) __Applicability of Rules.—__ 
+    (m)  __Applicability of Rules__  __.—__ 
 
     Any rules promulgated pursuant to the authority contained in section 21 of the Federal Deposit Insurance Act ([12 U.S.C. 1829b][/us/usc/t12/s1829b]) shall apply, in addition to any other financial institution to which such rules apply, to any person that engages as a business in the transmission of funds, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system.
 
     (n) __Reporting of Certain Cross-Border Transmittals of Funds.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to paragraphs (3) and (4), the Secretary shall prescribe regulations requiring such financial institutions as the Secretary determines to be appropriate to report to the Financial Crimes Enforcement Network certain cross-border electronic transmittals of funds, if the Secretary determines that reporting of such transmittals is reasonably necessary to conduct the efforts of the Secretary against money laundering and terrorist financing.
 
-        (2) __Limitation on reporting requirements.—__ 
+        (2)  __Limitation on reporting requirements__  __.—__ 
 
         Information required to be reported by the regulations prescribed under paragraph (1) shall not exceed the information required to be retained by the reporting financial institution pursuant to section 21 of the Federal Deposit Insurance Act and the regulations promulgated thereunder, unless—
 
@@ -397,13 +397,13 @@
 
             (B) the Secretary determines, after consultation with the Board of Governors of the Federal Reserve System, that the reporting of such information is reasonably necessary to conduct the efforts of the Secretary to identify cross-border money laundering and terrorist financing.
 
-        (3) __Form and manner of reports.—__ 
+        (3)  __Form and manner of reports__  __.—__ 
 
         In prescribing the regulations required under paragraph (1), the Secretary shall, subject to paragraph (2), determine the appropriate form, manner, content, and frequency of filing of the required reports.
 
         (4) __Feasibility report.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Before prescribing the regulations required under paragraph (1), and as soon as is practicable after the date of enactment of the Intelligence Reform and Terrorism Prevention Act of 2004, the Secretary shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that—
 
@@ -415,17 +415,17 @@
 
                 (iv) discusses the information security protections required by the exercise of the Secretary’s authority under this subsection.
 
-            (B) __Consultation.—__ 
+            (B)  __Consultation__  __.—__ 
 
             In reporting the feasibility report under subparagraph (A), the Secretary may consult with the Bank Secrecy Act Advisory Group established by the Secretary, and any other group considered by the Secretary to be relevant.
 
         (5) __Regulations.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to subparagraph (B), the regulations required by paragraph (1) shall be prescribed in final form by the Secretary, in consultation with the Board of Governors of the Federal Reserve System, before the end of the 3-year period beginning on the date of enactment of the National Intelligence Reform Act of 2004.
 
-            (B) __Technological feasibility.—__ 
+            (B)  __Technological feasibility__  __.—__ 
 
             No regulations shall be prescribed under this subsection before the Secretary certifies to the Congress that the Financial Crimes Enforcement Network has the technological systems in place to effectively and efficiently receive, keep, exploit, protect the security of, and disseminate information from reports of cross-border electronic transmittals of funds to law enforcement and other entities engaged in efforts against money laundering and terrorist financing.
 
@@ -659,11 +659,11 @@ Oct. 26, 1970, Pub. L. 91–508, §§ 205(a), (b)(1st sentence), 206, 84 Stat.
 
 [Pub. L. 107–56, title III, § 356(a)][/us/pl/107/56/s356/a], (b), Oct. 26, 2001, [115 Stat. 324][/us/stat/115/324], provided that:
 
->     “(a) __Deadline for Suspicious Activity Reporting Requirements for Registered Brokers and Dealers.—__ 
+>     “(a)  __Deadline for Suspicious Activity Reporting Requirements for Registered Brokers and Dealers__  __.—__ 
 
 >     The Secretary \[of the Treasury\], after consultation with the Securities and Exchange Commission and the Board of Governors of the Federal Reserve System, shall publish proposed regulations in the Federal Register before January 1, 2002, requiring brokers and dealers registered with the Securities and Exchange Commission under the Securities Exchange Act of 1934 \[[15 U.S.C. 78a][/us/usc/t15/s78a] et seq.\] to submit suspicious activity reports under [section 5318(g) of title 31][/us/usc/t31/s5318/g], United States Code. Such regulations shall be published in final form not later than July 1, 2002.
 
->     “(b) __Suspicious Activity Reporting Requirements For Futures Commission Merchants, Commodity Trading Advisors, and Commodity Pool Operators.—__ 
+>     “(b)  __Suspicious Activity Reporting Requirements For Futures Commission Merchants, Commodity Trading Advisors, and Commodity Pool Operators__  __.—__ 
 
 >     The Secretary, in consultation with the Commodity Futures Trading Commission, may prescribe regulations requiring futures commission merchants, commodity trading advisors, and commodity pool operators registered under the Commodity Exchange Act \[[7 U.S.C. 1][/us/usc/t7/s1] et seq.\] to submit suspicious activity reports under [section 5318(g) of title 31][/us/usc/t31/s5318/g], United States Code.”
 
@@ -671,11 +671,11 @@ Oct. 26, 1970, Pub. L. 91–508, §§ 205(a), (b)(1st sentence), 206, 84 Stat.
 
 [Pub. L. 103–325, title IV, § 403(b)][/us/pl/103/325/s403/b], Sept. 23, 1994, [108 Stat. 2246][/us/stat/108/2246], provided that:
 
->     “(1) __Reports required.—__ 
+>     “(1)  __Reports required__  __.—__ 
 
 >     The Secretary of the Treasury shall submit an annual report to the Congress at the times required under paragraph (2) on the number of suspicious transactions reported to the officer or agency designated under [section 5318(g)(4)(A) of title 31][/us/usc/t31/s5318/g/4/A], United States Code, during the period covered by the report and the disposition of such reports.
 
->     “(2) __Time for submitting reports.—__ 
+>     “(2)  __Time for submitting reports__  __.—__ 
 
 >     The 1st report required under paragraph (1) shall be filed before the end of the 1-year period beginning on the date of enactment of the Money Laundering Suppression Act of 1994 \[Sept. 23, 1994\] and each subsequent report shall be filed within 90 days after the end of each of the 5 calendar years which begin after such date of enactment.”
 
@@ -689,7 +689,7 @@ Oct. 26, 1970, Pub. L. 91–508, §§ 205(a), (b)(1st sentence), 206, 84 Stat.
 
 [Pub. L. 103–325, title IV, § 404][/us/pl/103/325/s404], Sept. 23, 1994, [108 Stat. 2246][/us/stat/108/2246], provided that:
 
->     “(a) __Enhanced Training, Examinations, and Referrals by Banking Agencies.—__ 
+>     “(a)  __Enhanced Training, Examinations, and Referrals by Banking Agencies__  __.—__ 
 
 >     Before the end of the 6-month period beginning on the date of enactment of this Act \[Sept. 23, 1994\], each appropriate Federal banking agency shall, in consultation with the Secretary of the Treasury and other appropriate law enforcement agencies—
 
@@ -697,15 +697,15 @@ Oct. 26, 1970, Pub. L. 91–508, §§ 205(a), (b)(1st sentence), 206, 84 Stat.
 
 >         “(2) review and enhance procedures for referring cases to any appropriate law enforcement agency.
 
->     “(b) __Improved Reporting of Criminal Schemes by Law Enforcement Agencies.—__ 
+>     “(b)  __Improved Reporting of Criminal Schemes by Law Enforcement Agencies__  __.—__ 
 
 >     The Secretary of the Treasury and each appropriate law enforcement agency shall provide, on a regular basis, information regarding money laundering schemes and activities involving depository institutions to each appropriate Federal banking agency in order to enhance each agency’s ability to examine for and identify money laundering activity.
 
->     “(c) __Report to Congress.—__ 
+>     “(c)  __Report to Congress__  __.—__ 
 
 >     The Financial Institutions Examination Council shall submit a report on the progress made in carrying out subsection (a) and the usefulness of information received pursuant to subsection (b) to the Congress by the end of the 1-year period beginning on the date of enactment of this Act.
 
->     “(d) __Definition.—__ 
+>     “(d)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘appropriate Federal banking agency’ has the same meaning as in section 3 of the Federal Deposit Insurance Act \[[12 U.S.C. 1813][/us/usc/t12/s1813]\].”
 

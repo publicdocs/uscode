@@ -15,11 +15,11 @@
 
 ## § 3730. Civil actions for false claims
 
-    (a) __Responsibilities of the Attorney General.—__ 
+    (a)  __Responsibilities of the Attorney General__  __.—__ 
 
     The Attorney General diligently shall investigate a violation under section 3729. If the Attorney General finds that a person has violated or is violating section 3729, the Attorney General may bring a civil action under this section against the person.
 
-    (b) __Actions by Private Persons.—__ 
+    (b)  __Actions by Private Persons__  __.—__ 
 
         (1) A person may bring a civil action for a violation of section 3729 for the person and for the United States Government. The action shall be brought in the name of the Government. The action may be dismissed only if the court and the Attorney General give written consent to the dismissal and their reasons for consenting.
 
@@ -37,7 +37,7 @@
 
         (5) When a person brings an action under this subsection, no person other than the Government may intervene or bring a related action based on the facts underlying the pending action.
 
-    (c) __Rights of the Parties to Qui Tam Actions.—__ 
+    (c)  __Rights of the Parties to Qui Tam Actions__  __.—__ 
 
         (1) If the Government proceeds with the action, it shall have the primary responsibility for prosecuting the action, and shall not be bound by an act of the person bringing the action. Such person shall have the right to continue as a party to the action, subject to the limitations set forth in paragraph (2).
 
@@ -67,7 +67,7 @@
 
         (5) Notwithstanding subsection (b), the Government may elect to pursue its claim through any alternate remedy available to the Government, including any administrative proceeding to determine a civil money penalty. If any such alternate remedy is pursued in another proceeding, the person initiating the action shall have the same rights in such proceeding as such person would have had if the action had continued under this section. Any finding of fact or conclusion of law made in such other proceeding that has become final shall be conclusive on all parties to an action under this section. For purposes of the preceding sentence, a finding or conclusion is final if it has been finally determined on appeal to the appropriate court of the United States, if all time for filing such an appeal with respect to the finding or conclusion has expired, or if the finding or conclusion is not subject to judicial review.
 
-    (d) __Award to Qui Tam Plaintiff.—__ 
+    (d)  __Award to Qui Tam Plaintiff__  __.—__ 
 
         (1) If the Government proceeds with an action brought by a person under subsection (b), such person shall, subject to the second sentence of this paragraph, receive at least 15 percent but not more than 25 percent of the proceeds of the action or settlement of the claim, depending upon the extent to which the person substantially contributed to the prosecution of the action. Where the action is one which the court finds to be based primarily on disclosures of specific information (other than information provided by the person bringing the action) relating to allegations or transactions in a criminal, civil, or administrative hearing, in a congressional, administrative, or Government  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “General”. </sup></sup>  Accounting Office report, hearing, audit, or investigation, or from the news media, the court may award such sums as it considers appropriate, but in no case more than 10 percent of the proceeds, taking into account the significance of the information and the role of the person bringing the action in advancing the case to litigation. Any payment to a person under the first or second sentence of this paragraph shall be made from the proceeds. Any such person shall also receive an amount for reasonable expenses which the court finds to have been necessarily incurred, plus reasonable attorneys’ fees and costs. All such expenses, fees, and costs shall be awarded against the defendant.
 
@@ -77,7 +77,7 @@
 
         (4) If the Government does not proceed with the action and the person bringing the action conducts the action, the court may award to the defendant its reasonable attorneys’ fees and expenses if the defendant prevails in the action and the court finds that the claim of the person bringing the action was clearly frivolous, clearly vexatious, or brought primarily for purposes of harassment.
 
-    (e) __Certain Actions Barred.—__ 
+    (e)  __Certain Actions Barred__  __.—__ 
 
         (1) No court shall have jurisdiction over an action brought by a former or present member of the armed forces under subsection (b) of this section against a member of the armed forces arising out of such person’s service in the armed forces.
 
@@ -105,25 +105,25 @@
 
             (B) For purposes of this paragraph, “original source” means an individual who either (i) prior to a public disclosure under subsection (e)(4)(a), has voluntarily disclosed to the Government the information on which allegations or transactions in a claim are based, or (2) who has knowledge that is independent of and materially adds to the publicly disclosed allegations or transactions, and who has voluntarily provided the information to the Government before filing an action under this section.
 
-    (f) __Government Not Liable for Certain Expenses.—__ 
+    (f)  __Government Not Liable for Certain Expenses__  __.—__ 
 
     The Government is not liable for expenses which a person incurs in bringing an action under this section.
 
-    (g) __Fees and Expenses to Prevailing Defendant.—__ 
+    (g)  __Fees and Expenses to Prevailing Defendant__  __.—__ 
 
     In civil actions brought under this section by the United States, the provisions of [section 2412(d) of title 28][/us/usc/t28/s2412/d] shall apply.
 
     (h) __Relief From Retaliatory Actions.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Any employee, contractor, or agent shall be entitled to all relief necessary to make that employee, contractor, or agent whole, if that employee, contractor, or agent is discharged, demoted, suspended, threatened, harassed, or in any other manner discriminated against in the terms and conditions of employment because of lawful acts done by the employee, contractor, agent or associated others in furtherance of an action under this section or other efforts to stop 1 or more violations of this subchapter.
 
-        (2) __Relief.—__ 
+        (2)  __Relief__  __.—__ 
 
         Relief under paragraph (1) shall include reinstatement with the same seniority status that employee, contractor, or agent would have had but for the discrimination, 2 times the amount of back pay, interest on the back pay, and compensation for any special damages sustained as a result of the discrimination, including litigation costs and reasonable attorneys’ fees. An action under this subsection may be brought in the appropriate district court of the United States for the relief provided in this subsection.
 
-        (3) __Limitation on bringing civil action.—__ 
+        (3)  __Limitation on bringing civil action__  __.—__ 
 
         A civil action under this subsection may not be brought more than 3 years after the date when the retaliation occurred.
 

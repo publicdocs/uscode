@@ -119,27 +119,27 @@ July 25, 1956, ch. 727, § 8, 70 Stat. 650.  </td>
 
 [Pub. L. 101–510, div. A, title XIV, § 1405(b)][/us/pl/101/510/s1405/b], Nov. 5, 1990, [104 Stat. 1679][/us/stat/104/1679], as amended by [Pub. L. 102–484, div. A, title X, § 1004][/us/pl/102/484/s1004], Oct. 23, 1992, [106 Stat. 2481][/us/stat/106/2481], provided that:
 
->     “(1) __Application of amendments.—__ 
+>     “(1)  __Application of amendments__  __.—__ 
 
 >     The amendments made by subsection (a) \[amending this section and sections 1552 to 1557 of this title\] shall apply to any appropriation account the obligated balance of which, on the date of the enactment of this Act \[Nov. 5, 1990\], has not been transferred under [section 1552(a)(1) of title 31][/us/usc/t31/s1552/a/1], United States Code, as in effect on the day before the date of the enactment of this section.
 
->     “(2) __Restoration of certain unobligated amounts.—__ 
+>     “(2)  __Restoration of certain unobligated amounts__  __.—__ 
 
 >     The balance of any unobligated amount withdrawn under [section 1552(a)(2) of title 31][/us/usc/t31/s1552/a/2], United States Code, as in effect on the day before the date of the enactment of this Act, from an account the obligated balance of which has not been transferred under [section 1552(a)(1) of title 31][/us/usc/t31/s1552/a/1], United States Code, as in effect on the day before the date of the enactment of this section, is hereby restored to that account.
 
->     “(3) __Cancellation of unobligated balances.—__ 
+>     “(3)  __Cancellation of unobligated balances__  __.—__ 
 
 >     All balances of unobligated funds withdrawn from an account under sub[section 1552(a)(2) of title 31][/us/usc/t31/s1552/a/2], United States Code, as in effect on the day before the date of the enactment of this Act (other than funds restored under paragraph (2)) are canceled, effective at the end of the 30-day period beginning on the date of the enactment of this Act.
 
->     “(4) __Cancellation of obligated balances.—__ 
+>     “(4)  __Cancellation of obligated balances__  __.—__ 
 
 >     On the third September 30th after the date of the enactment of this Act, all obligated balances transferred under sub[section 1552(a)(1) of title 31][/us/usc/t31/s1552/a/1], United States Code, as in effect on the day before the date of the enactment of this Act, shall be canceled.
 
->     “(5) __Obligation of existing balances.—__ 
+>     “(5)  __Obligation of existing balances__  __.—__ 
 
 >     After the date of the enactment of this Act, an obligation of any part of a balance transferred before the date of the enactment of this Act under [section 1552(a)(1) of title 31][/us/usc/t31/s1552/a/1], United States Code, shall be subject to section 1553(c) of such title, as amended by subsection (a).
 
->     “(6) __Cancellation of oldest obligated balances.—__ 
+>     “(6)  __Cancellation of oldest obligated balances__  __.—__ 
 
 >         (A) At the end of the 30-day period beginning on the date on which the President submits to Congress the budget for fiscal year 1992, any amount in an account established under paragraph (1) of [section 1552 of title 31][/us/usc/t31/s1552], United States Code, as in effect before the date of the enactment of this Act, that has been in that account as of that date for a period in excess of five years shall be deobligated and shall be withdrawn in the manner provided in paragraph (2) of that section. Amounts so deobligated and withdrawn may not be restored.
 
@@ -151,13 +151,13 @@ July 25, 1956, ch. 727, § 8, 70 Stat. 650.  </td>
 
 >             “(ii) that are determined to be necessary for severance payments for foreign national employees.
 
->     “(7) __Obligations and adjustment of obligations.—__ 
+>     “(7)  __Obligations and adjustment of obligations__  __.—__ 
 
 >         (A) After cancellation of unobligated balances under paragraph (3) or cancellation of obligated balances under paragraph (4) or paragraph (6) and subject to the provisions of subparagraph (B), obligations and adjustments to obligations that would have been chargeable to those balances before such cancellations and that are not otherwise chargeable to current appropriations of the agency concerned may be charged to current appropriations of that agency available for the same purpose. Any charge made pursuant to this subsection shall be limited to the unobligated expired balances of the original appropriation available for the same purpose.
 
 >         “(B) Any charge made pursuant to subparagraph (A) shall be subject to the maximum amount chargeable under subsection (b) of [section 1553 of title 31][/us/usc/t31/s1553], United States Code, as amended by this section, and shall be included in the calculation of the total amount charged to any account under that section.
 
->     “(8) __Obligations and adjustments of obligations for expired but not closed accounts.—__ 
+>     “(8)  __Obligations and adjustments of obligations for expired but not closed accounts__  __.—__ 
 
 >         (A)
 
@@ -177,7 +177,7 @@ July 25, 1956, ch. 727, § 8, 70 Stat. 650.  </td>
 
 >         “(C) No obligation or adjustment of an obligation may be charged pursuant to the provisions of this paragraph until the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives are notified of the intent to make such a charge and a period of 30 days elapses after the notification is submitted.
 
->         “(D) __Certifications.—__ 
+>         “(D)  __Certifications__  __.—__ 
 
 >         No obligation or adjustment of an obligation may be charged pursuant to the provisions of this paragraph until the Secretary of Defense (except as otherwise provided in subparagraph (E)) certifies to Congress the following:
 
@@ -185,7 +185,7 @@ July 25, 1956, ch. 727, § 8, 70 Stat. 650.  </td>
 
 >             “(ii) That reports on any violations of such section 1341, whether intentional or inadvertent, are being submitted to the President and Congress immediately and with all relevant facts and a statement of actions taken as required by [section 1351 of title 31][/us/usc/t31/s1351], United States Code.
 
->         “(E) __Alternative to certification.—__ 
+>         “(E)  __Alternative to certification__  __.—__ 
 
 >         If the Secretary of Defense is unable to make the certifications referred to in subparagraph (D) within 60 days after the date of the enactment of this subparagraph \[Oct. 23, 1992\], the Secretary shall submit to the Congress a report stating that the Secretary is unable to make such certifications and setting forth the actions that the Secretary will take in order to enable the Secretary to make such certifications after the end of that period.”
 

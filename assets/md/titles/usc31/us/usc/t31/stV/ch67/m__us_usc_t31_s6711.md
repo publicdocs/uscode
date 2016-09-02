@@ -15,11 +15,11 @@
 
 ## § 6711. Prohibited discrimination
 
-    (a) __General Prohibition.—__ 
+    (a)  __General Prohibition__  __.—__ 
 
     No person in the United States shall be excluded from participating in, be denied the benefits of, or be subject to discrimination under, a program or activity of a unit of general local government because of race, color, national origin, or sex if the government receives a payment under this chapter.
 
-    (b) __Additional Prohibitions.—__ 
+    (b)  __Additional Prohibitions__  __.—__ 
 
     The following prohibitions and exemptions also apply to a program or activity of a unit of general local government if the government receives a payment under this chapter:
 
@@ -29,11 +29,11 @@
 
         (3) A prohibition against discrimination because of religion, or an exemption from that prohibition, under the Civil Rights Act of 1964 or title VIII of the Act of April 11, 1968 (popularly known as the Civil Rights Act of 1968).
 
-    (c) __Limitations on Applicability of Prohibitions.—__ 
+    (c)  __Limitations on Applicability of Prohibitions__  __.—__ 
 
     Subsections (a) and (b) do not apply if the government shows, by clear and convincing evidence, that a payment received under this chapter is not used to pay for any part of the program or activity with respect to which the allegation of discrimination is made.
 
-    (d) __Investigation Agreements.—__ 
+    (d)  __Investigation Agreements__  __.—__ 
 
     The Secretary shall try to make agreements with heads of agencies of the United States Government and State agencies to investigate noncompliance with this section. An agreement shall—
 

@@ -15,7 +15,7 @@
 
 ## § 5331. Reports relating to coins and currency received in nonfinancial trade or business
 
-    (a) __Coin and Currency Receipts of More Than $10,000.—__ 
+    (a)  __Coin and Currency Receipts of More Than __  __$10,000.—__ 
 
     Any person—
 
@@ -29,7 +29,7 @@
 
         shall file a report described in subsection (b) with respect to such transaction (or related transactions) with the Financial Crimes Enforcement Network at such time and in such manner as the Secretary may, by regulation, prescribe.
 
-    (b) __Form and Manner of Reports.—__ 
+    (b)  __Form and Manner of Reports__  __.—__ 
 
     A report is described in this subsection if such report—
 
@@ -49,17 +49,17 @@
 
     (c) __Exceptions.—__ 
 
-        (1) __Amounts received by financial institutions.—__ 
+        (1)  __Amounts received by financial institutions__  __.—__ 
 
         Subsection (a) shall not apply to amounts received in a transaction reported under section 5313 and regulations prescribed under such section.
 
-        (2) __Transactions occurring outside the united states.—__ 
+        (2)  __Transactions occurring outside the united states__  __.—__ 
 
         Except to the extent provided in regulations prescribed by the Secretary, subsection (a) shall not apply to any transaction if the entire transaction occurs outside the United States.
 
     (d) __Currency Includes Foreign Currency and Certain Monetary Instruments.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         For purposes of this section, the term “currency” includes—
 
@@ -67,7 +67,7 @@
 
             (B) to the extent provided in regulations prescribed by the Secretary, any monetary instrument (whether or not in bearer form) with a face amount of not more than $10,000.
 
-        (2) __Scope of application.—__ 
+        (2)  __Scope of application__  __.—__ 
 
         Paragraph (1)(B) shall not apply to any check drawn on the account of the writer in a financial institution referred to in subparagraph (A), (B), (C), (D), (E), (F), (G), (J), (K), (R), or (S) of section 5312(a)(2).
 

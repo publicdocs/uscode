@@ -25,31 +25,31 @@
 
         (4) __Structured Transaction Violation.—__ 
 
-            (A) __Penalty authorized.—__ 
+            (A)  __Penalty authorized__  __.—__ 
 
             The Secretary of the Treasury may impose a civil money penalty on any person who violates any provision of section 5324.
 
-            (B) __Maximum amount limitation.—__ 
+            (B)  __Maximum amount limitation__  __.—__ 
 
             The amount of any civil money penalty imposed under subparagraph (A) shall not exceed the amount of the coins and currency (or such other monetary instruments as the Secretary may prescribe) involved in the transaction with respect to which such penalty is imposed.
 
-            (C) __Coordination with forfeiture provision.—__ 
+            (C)  __Coordination with forfeiture provision__  __.—__ 
 
             The amount of any civil money penalty imposed by the Secretary under subparagraph (A) shall be reduced by the amount of any forfeiture to the United States in connection with the transaction with respect to which such penalty is imposed.
 
         (5) __Foreign financial agency transaction violation.—__ 
 
-            (A) __Penalty authorized.—__ 
+            (A)  __Penalty authorized__  __.—__ 
 
             The Secretary of the Treasury may impose a civil money penalty on any person who violates, or causes any violation of, any provision of section 5314.
 
             (B) __Amount of penalty.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Except as provided in subparagraph (C), the amount of any civil penalty imposed under subparagraph (A) shall not exceed $10,000.
 
-                (ii) __Reasonable cause exception.—__ 
+                (ii)  __Reasonable cause exception__  __.—__ 
 
                 No penalty shall be imposed under subparagraph (A) with respect to any violation if—
 
@@ -57,7 +57,7 @@
 
                     (II) the amount of the transaction or the balance in the account at the time of the transaction was properly reported.
 
-            (C) __Willful violations.—__ 
+            (C)  __Willful violations__  __.—__ 
 
             In the case of any person willfully violating, or willfully causing any violation of, any provision of section 5314—
 
@@ -71,7 +71,7 @@
 
                 (ii) subparagraph (B)(ii) shall not apply.
 
-            (D) __Amount.—__ 
+            (D)  __Amount__  __.—__ 
 
             The amount determined under this subparagraph is—
 
@@ -81,25 +81,25 @@
 
         (6) __Negligence.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary of the Treasury may impose a civil money penalty of not more than $500 on any financial institution or nonfinancial trade or business which negligently violates any provision of this subchapter or any regulation prescribed under this subchapter.
 
-            (B) __Pattern of negligent activity.—__ 
+            (B)  __Pattern of negligent activity__  __.—__ 
 
             If any financial institution or nonfinancial trade or business engages in a pattern of negligent violations of any provision of this subchapter or any regulation prescribed under this subchapter, the Secretary of the Treasury may, in addition to any penalty imposed under subparagraph (A) with respect to any such violation, impose a civil money penalty of not more than $50,000 on the financial institution or nonfinancial trade or business.
 
-        (7) __Penalties for international counter money laundering violations.—__ 
+        (7)  __Penalties for international counter money laundering violations__  __.—__ 
 
         The Secretary may impose a civil money penalty in an amount equal to not less than 2 times the amount of the transaction, but not more than $1,000,000, on any financial institution or agency that violates any provision of subsection (i) or (j) of section 5318 or any special measures imposed under section 5318A.
 
     (b) __Time Limitations for Assessments and Commencement of Civil Actions.—__ 
 
-        (1) __Assessments.—__ 
+        (1)  __Assessments__  __.—__ 
 
         The Secretary of the Treasury may assess a civil penalty under subsection (a) at any time before the end of the 6-year period beginning on the date of the transaction with respect to which the penalty is assessed.
 
-        (2) __Civil actions.—__ 
+        (2)  __Civil actions__  __.—__ 
 
         The Secretary may commence a civil action to recover a civil penalty assessed under subsection (a) at any time before the end of the 2-year period beginning on the later of—
 
@@ -109,27 +109,27 @@
 
     (c) The Secretary may remit any part of a forfeiture under subsection (c) or (d)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Section 5317 does not contain a subsec. (d). </sup></sup>  of [section 5317 of this title][/us/usc/t31/s5317] or civil penalty under subsection (a)(2) of this section.
 
-    (d) __Criminal Penalty Not Exclusive of Civil Penalty.—__ 
+    (d)  __Criminal Penalty Not Exclusive of Civil Penalty__  __.—__ 
 
     A civil money penalty may be imposed under subsection (a) with respect to any violation of this subchapter notwithstanding the fact that a criminal penalty is imposed with respect to the same violation.
 
     (e) __Delegation of Assessment Authority to Banking Agencies.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary of the Treasury shall delegate, in accordance with section 5318(a)(1) and subject to such terms and conditions as the Secretary may impose in accordance with paragraph (3), any authority of the Secretary to assess a civil money penalty under this section on depository institutions (as defined in section 3 of the Federal Deposit Insurance Act) to the appropriate Federal banking agencies (as defined in such section 3).
 
-        (2) __Authority of agencies.—__ 
+        (2)  __Authority of agencies__  __.—__ 
 
         Subject to any term or condition imposed by the Secretary of the Treasury under paragraph (3), the provisions of this section shall apply to an appropriate Federal banking agency to which is delegated any authority of the Secretary under this section in the same manner such provisions apply to the Secretary.
 
         (3) __Terms and conditions.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary of the Treasury shall prescribe by regulation the terms and conditions which shall apply to any delegation under paragraph (1).
 
-            (B) __Maximum dollar amount.—__ 
+            (B)  __Maximum dollar amount__  __.—__ 
 
             The terms and conditions authorized under subparagraph (A) may include, in the Secretary’s sole discretion, a limitation on the amount of any civil penalty which may be assessed by an appropriate Federal banking agency pursuant to a delegation under paragraph (1).
 

@@ -327,11 +327,11 @@ R.S. § 3620(d); added Aug. 7, 1972, Pub. L. 92–366, 86 Stat. 506.  </td>
 
 [Pub. L. 110–423, § 1][/us/pl/110/423/s1], Oct. 15, 2008, [122 Stat. 4818][/us/stat/122/4818], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Office of Personnel Management shall take such measures as may be appropriate to ensure that all employees who receive their pay by electronic funds transfer shall be given the option of receiving their pay stubs electronically.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 

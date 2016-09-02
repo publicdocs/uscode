@@ -17,7 +17,7 @@
 
     (a) __Transparency of Agency Programs.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than October 1, 2012, the Office of Management and Budget shall—
 
@@ -27,7 +27,7 @@
 
             (C) include on the website information about each program identified by the agencies.
 
-        (2) __Information.—__ 
+        (2)  __Information__  __.—__ 
 
         Information for each program described under paragraph (1) shall include—
 
@@ -37,7 +37,7 @@
 
             (C) an identification of funding for the current fiscal year and previous 2 fiscal years.
 
-    (b) __Transparency of Agency Priority Goals and Results.—__ 
+    (b)  __Transparency of Agency Priority Goals and Results__  __.—__ 
 
     The head of each agency required to develop agency priority goals shall make information about each agency priority goal available to the Office of Management and Budget for publication on the website, with the exception of any information covered by [section 1120(b)(2) of this title][/us/usc/t31/s1120/b/2]. In addition to an identification of each agency priority goal, the website shall also consolidate information about each agency priority goal, including—
 
@@ -83,7 +83,7 @@
 
         (9) any prospects or strategies for performance improvement.
 
-    (c) __Transparency of Federal Government Priority Goals and Results.—__ 
+    (c)  __Transparency of Federal Government Priority Goals and Results__  __.—__ 
 
     The Director of the Office of Management and Budget shall also make available on the website—
 
@@ -105,7 +105,7 @@
 
         (9) any prospects or strategies for performance improvement.
 
-    (d) __Information on Website.—__ 
+    (d)  __Information on Website__  __.—__ 
 
     The information made available on the website under this section shall be readily accessible and easily found on the Internet by the public and members and committees of Congress. Such information shall also be presented in a searchable, machine-readable format. The Director of the Office of Management and Budget shall issue guidance to ensure that such information is provided in a way that presents a coherent picture of all Federal programs, and the performance of the Federal Government as well as individual agencies.
 

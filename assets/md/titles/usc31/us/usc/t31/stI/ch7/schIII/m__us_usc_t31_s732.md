@@ -455,7 +455,7 @@ Feb. 15, 1980, Pub. L. 96–191, §§ 3, 6, 94 Stat. 27, 32.  </td>
 
 [Pub. L. 106–303, § 3(a)(2)][/us/pl/106/303/s3/a/2], (3), Oct. 13, 2000, [114 Stat. 1067][/us/stat/114/1067], 1068, provided that:
 
->     “(2) __Effective date.—__ 
+>     “(2)  __Effective date__  __.—__ 
 
 >     Subject to paragraph (3), the amendment made by paragraph (1) \[amending this section\] shall apply with respect to all reduction-in-force actions taking effect on or after—
 
@@ -463,7 +463,7 @@ Feb. 15, 1980, Pub. L. 96–191, §§ 3, 6, 94 Stat. 27, 32.  </td>
 
 >         “(B) if earlier, the date the Comptroller General issues the regulations required under such amendment.
 
->     “(3) __Savings provisions.—__ 
+>     “(3)  __Savings provisions__  __.—__ 
 
 >     If, before the effective date determined under paragraph (2), specific notice of a reduction-in-force action is given to an individual in accordance with section 1 of chapter 5 of GAO Order 2351.1 (dated February 28, 1996), then, for purposes of determining such individual’s rights in connection with such action, the amendment made by paragraph (1) shall be treated as if it had never been enacted.”
 
@@ -483,7 +483,7 @@ Feb. 15, 1980, Pub. L. 96–191, §§ 3, 6, 94 Stat. 27, 32.  </td>
 
 [Pub. L. 110–323, § 3][/us/pl/110/323/s3], Sept. 22, 2008, [122 Stat. 3540][/us/stat/122/3540], provided that:
 
->     “(a) __Applicability.—__ 
+>     “(a)  __Applicability__  __.—__ 
 
 >     This section applies in the case of any individual who, as of the date of the enactment of this Act \[Sept. 22, 2008\], is an officer or employee of the Government Accountability Office, excluding—
 
@@ -491,15 +491,15 @@ Feb. 15, 1980, Pub. L. 96–191, §§ 3, 6, 94 Stat. 27, 32.  </td>
 
 >         “(2) an officer or employee who received both a 2.6 percent pay increase in January 2006 and a 2.4 percent pay increase in February 2007.
 
->     “(b) __Pay Increase Defined.—__ 
+>     “(b)  __Pay Increase Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘pay increase’, as used with respect to an officer or employee in connection with a year, means the total increase in the rate of basic pay (expressed as a percentage) of such officer or employee, taking effect under sections 731(b) and 732(c)(3) of title 31, United States Code, in such year.
 
->     “(c) __Prospective Effect.—__ 
+>     “(c)  __Prospective Effect__  __.—__ 
 
 >     Effective with respect to pay for service performed in any pay period beginning after the end of the 6-month period beginning on the date of the enactment of this Act (or such earlier date as the Comptroller General may specify), the rate of basic pay for each individual to whom this section applies shall be determined as if such individual had received both a 2.6 percent pay increase for 2006 and a 2.4 percent pay increase for 2007, subject to subsection (e).
 
->     “(d) __Lump-Sum Payment.—__ 
+>     “(d)  __Lump-Sum Payment__  __.—__ 
 
 >     Not later than 6 months after the date of the enactment of this Act, the Comptroller General shall, subject to the availability of appropriations, pay to each individual to whom this section applies a lump-sum payment. Subject to subsection (e), such lump-sum payment shall be equal to—
 
@@ -513,7 +513,7 @@ Feb. 15, 1980, Pub. L. 96–191, §§ 3, 6, 94 Stat. 27, 32.  </td>
 
 >         Eligibility for a lump-sum payment under this subsection shall be determined solely on the basis of whether an individual satisfies the requirements of subsection (a) (to be considered an individual to whom this section applies), and without regard to such individual’s employment status as of any date following the date of the enactment of this Act or any other factor.
 
->     “(e) __Conditions.—__ 
+>     “(e)  __Conditions__  __.—__ 
 
 >     Nothing in subsection (c) or (d) shall be considered to permit or require—
 
@@ -531,7 +531,7 @@ Feb. 15, 1980, Pub. L. 96–191, §§ 3, 6, 94 Stat. 27, 32.  </td>
 
 >     “(f) __Retirement.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The portion of the lump-sum payment paid under subsection (d) to an officer or employee as calculated under subsection (d)(1) shall, for purposes of any determination of the average pay (as defined by section 8331 or 8401 of title 5, United States Code) which is used to compute an annuity under subchapter III of chapter 83 or chapter 84 of such title—
 
@@ -541,7 +541,7 @@ Feb. 15, 1980, Pub. L. 96–191, §§ 3, 6, 94 Stat. 27, 32.  </td>
 
 >         “(2) __Contributions to civil service retirement and disability retirement fund.—__ 
 
->             “(A) __Employee contributions.—__ 
+>             “(A)  __Employee contributions__  __.—__ 
 
 >             The Government Accountability Office shall deduct and withhold from the lump-sum payment paid to each employee under subsection (d) an amount equal to the difference between—
 
@@ -549,7 +549,7 @@ Feb. 15, 1980, Pub. L. 96–191, §§ 3, 6, 94 Stat. 27, 32.  </td>
 
 >                 “(ii) employee contributions that were actually deducted and withheld from pay under section 8334 or 8422 of title 5, United States Code, during that period.
 
->             “(B) __Agency contributions and payment to the fund.—__ 
+>             “(B)  __Agency contributions and payment to the fund__  __.—__ 
 
 >             Not later than 9 months after the Government Accountability Office makes the lump-sum payments under subsection (d), the Government Accountability Office shall pay into the Civil Service Retirement and Disability Fund—
 
@@ -557,7 +557,7 @@ Feb. 15, 1980, Pub. L. 96–191, §§ 3, 6, 94 Stat. 27, 32.  </td>
 
 >                 “(ii) an amount for applicable agency contributions under section 8334 or 8423 of title 5, United states Code, based on payments made under clause (i).
 
->     “(g) __Exclusive Remedy.—__ 
+>     “(g)  __Exclusive Remedy__  __.—__ 
 
 >     This section constitutes the exclusive remedy that any individuals to whom this section applies (as described in subsection (a)) have for any claim that they are owed any monies denied to them in the form of a pay increase for 2006 or 2007 under [section 732(c)(3) of title 31][/us/usc/t31/s732/c/3], United States Code, or any other law. Notwithstanding any other provision of law, no court or administrative body, including the Government Accountability Office Personnel Appeals Board, shall have jurisdiction to entertain any civil action or other civil proceeding based on the claim of such individuals that they were due money in the form of a pay increase for 2006 or 2007 pursuant to such section 732(c)(3) or any other law.”
 
@@ -565,11 +565,11 @@ Feb. 15, 1980, Pub. L. 96–191, §§ 3, 6, 94 Stat. 27, 32.  </td>
 
 [Pub. L. 110–323, § 4][/us/pl/110/323/s4], Sept. 22, 2008, [122 Stat. 3543][/us/stat/122/3543], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 6 months after the date of the enactment of this Act \[Sept. 22, 2008\], the Comptroller General shall, subject to the availability of appropriations, pay to each qualified individual a lump-sum payment equal to the amount of performance-based compensation such individual was denied for 2006, as determined under subsection (b).
 
->     “(b) __Amount.—__ 
+>     “(b)  __Amount__  __.—__ 
 
 >     The amount payable to a qualified individual under this section shall be equal to—
 
@@ -577,7 +577,7 @@ Feb. 15, 1980, Pub. L. 96–191, §§ 3, 6, 94 Stat. 27, 32.  </td>
 
 >         “(2) the total amount of performance-based compensation such individual was in fact granted, in January 2006, for that year.
 
->     “(c) __Qualified Individual.—__ 
+>     “(c)  __Qualified Individual__  __.—__ 
 
 >     For purposes of this section, the term ‘qualified individual’ means an individual who—
 
@@ -593,11 +593,11 @@ Feb. 15, 1980, Pub. L. 96–191, §§ 3, 6, 94 Stat. 27, 32.  </td>
 
 >         “(2) as of January 22, 2006, was a Band I staff member with a salary above the Band I cap, a Band IIA staff member with a salary above the Band IIA cap, or an administrative professional or support staff member with a salary above the cap for that individual’s pay band (determined in accordance with the orders cited in subsection (b)(1)).
 
->     “(d) __Exclusive Remedy.—__ 
+>     “(d)  __Exclusive Remedy__  __.—__ 
 
 >     This section constitutes the exclusive remedy that any officers and employees (as described in subsection (c)) have for any claim that they are owed any monies denied to them in the form of merit pay for 2006 under [section 731(b) of title 31][/us/usc/t31/s731/b], United States Code, or any other law. Notwithstanding any other provision of law, no court or administrative body in the United States, including the Government Accountability Office Personnel Appeals Board, shall have jurisdiction to entertain any civil action or other civil proceeding based on the claim of such officers or employees that they were due money in the form of merit pay for 2006 pursuant to such section 731(b) or any other law.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 

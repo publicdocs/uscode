@@ -15,7 +15,7 @@
 
 ## § 311. Office of Intelligence and Analysis
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There is established within the Department of the Treasury, the Office of Intelligence and Analysis (in this section referred to as the “Office”), which shall—
 
@@ -25,7 +25,7 @@
 
         (3) have such other related duties and authorities as may be assigned to it by the Secretary, subject to the authority, direction, and control of the Secretary.
 
-    (b) __Assistant Secretary for Intelligence and Analysis.—__ 
+    (b)  __Assistant Secretary for Intelligence and Analysis__  __.—__ 
 
     The Office shall be headed by an Assistant Secretary, who shall be appointed by the President, by and with the advice and consent of the Senate. The Assistant Secretary shall report directly to the Undersecretary of the Treasury for Terrorism and Financial Crimes.
 

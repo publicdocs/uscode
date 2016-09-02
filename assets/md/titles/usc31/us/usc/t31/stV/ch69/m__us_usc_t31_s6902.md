@@ -149,11 +149,11 @@ Oct. 20, 1976, Pub. L. 94–565, 90 Stat. 2662, § 5(c); added Oct. 17, 1978, 
 
 [Pub. L. 103–397, § 5(a)][/us/pl/103/397/s5/a], Oct. 22, 1994, [108 Stat. 4158][/us/stat/108/4158], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), this Act \[amending this section and [section 6903 of this title][/us/usc/t31/s6903] and enacting provisions set out as notes under sections 6901 and 6903 of this title\] and the amendments made by this Act shall become effective on October 1, 1994.
 
->     “(2) __Limitation.—__ 
+>     “(2)  __Limitation__  __.—__ 
 
 >     The amendment made by section 2(b)(2) \[amending [section 6903 of this title][/us/usc/t31/s6903]\] shall become effective on October 1, 1998.”
 

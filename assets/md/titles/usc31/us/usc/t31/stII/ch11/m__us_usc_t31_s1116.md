@@ -115,7 +115,7 @@
 
 [Pub. L. 112–199, title I, § 116(b)][/us/pl/112/199/s116/b], Nov. 27, 2012, [126 Stat. 1474][/us/stat/126/1474], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Each report submitted annually by the Merit Systems Protection Board under [section 1116 of title 31][/us/usc/t31/s1116], United States Code, shall, with respect to the period covered by such report, include as an addendum the following:
 
@@ -123,7 +123,7 @@
 
 >         “(B) The number of such cases filed in the regional and field offices, and the number of petitions for review filed in such cases, during the period covered by such report, and the outcomes of any such cases or petitions for review (irrespective of when filed) decided during such period.
 
->     “(2) __First report.—__ 
+>     “(2)  __First report__  __.—__ 
 
 >     The first report described under paragraph (1) submitted after the date of enactment of this Act \[Nov. 27, 2012\] shall include an addendum required under that paragraph that covers the period beginning on the effective date of this Act \[see Effective Date of 2012 Amendment note set out under [section 1204 of Title 5][/us/usc/t5/s1204], Government Organization and Employees\] and ending at the end of the fiscal year in which such effective date occurs.”
 

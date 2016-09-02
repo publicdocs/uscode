@@ -15,7 +15,7 @@
 
 ## § 1115. Federal Government and agency performance plans
 
-    (a) __Federal Government Performance Plans.—__ 
+    (a)  __Federal Government Performance Plans__  __.—__ 
 
     In carrying out the provisions of section 1105(a)(28), the Director of the Office of Management and Budget shall coordinate with agencies to develop the Federal Government performance plan. In addition to the submission of such plan with each budget of the United States Government, the Director of the Office of Management and Budget shall ensure that all information required by this subsection is concurrently made available on the website provided under section 1122 and updated periodically, but no less than annually. The Federal Government performance plan shall—
 
@@ -37,7 +37,7 @@
 
         (6) identify major management challenges that are Governmentwide or crosscutting in nature and describe plans to address such challenges, including relevant performance goals, performance indicators, and milestones.
 
-    (b) __Agency Performance Plans.—__ 
+    (b)  __Agency Performance Plans__  __.—__ 
 
     Not later than the first Monday in February of each year, the head of each agency shall make available on a public website of the agency, and notify the President and the Congress of its availability, a performance plan covering each program activity set forth in the budget of such agency. Such plan shall—
 
@@ -99,7 +99,7 @@
 
         (10) identify low-priority program activities based on an analysis of their contribution to the mission and goals of the agency and include an evidence-based justification for designating a program activity as low priority.
 
-    (c) __Alternative Form.—__ 
+    (c)  __Alternative Form__  __.—__ 
 
     If an agency, in consultation with the Director of the Office of Management and Budget, determines that it is not feasible to express the performance goals for a particular program activity in an objective, quantifiable, and measurable form, the Director of the Office of Management and Budget may authorize an alternative form. Such alternative form shall—
 
@@ -117,11 +117,11 @@
 
         (2) state why it is infeasible or impractical to express a performance goal in any form for the program activity.
 
-    (d) __Treatment of Program Activities.—__ 
+    (d)  __Treatment of Program Activities__  __.—__ 
 
     For the purpose of complying with this section, an agency may aggregate, disaggregate, or consolidate program activities, except that any aggregation or consolidation may not omit or minimize the significance of any program activity constituting a major function or operation for the agency.
 
-    (e) __Appendix.—__ 
+    (e)  __Appendix__  __.—__ 
 
     An agency may submit with an annual performance plan an appendix covering any portion of the plan that—
 
@@ -129,15 +129,15 @@
 
         (2) is properly classified pursuant to such Executive order.
 
-    (f) __Inherently Governmental Functions.—__ 
+    (f)  __Inherently Governmental Functions__  __.—__ 
 
     The functions and activities of this section shall be considered to be inherently governmental functions. The drafting of performance plans under this section shall be performed only by Federal employees.
 
-    (g) __Chief Human Capital Officers.—__ 
+    (g)  __Chief Human Capital Officers__  __.—__ 
 
     With respect to each agency with a Chief Human Capital Officer, the Chief Human Capital Officer shall prepare that portion of the annual performance plan described under subsection (b)(5)(A).
 
-    (h) __Definitions.—__ 
+    (h)  __Definitions__  __.—__ 
 
     For purposes of this section and sections 1116 through 1125, and sections 9703  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and 9704, the term—
 
@@ -179,7 +179,7 @@
 
 [Pub. L. 111–352, § 10][/us/pl/111/352/s10], Jan. 4, 2011, [124 Stat. 3880][/us/stat/124/3880], provided that:
 
->     “(a) __Searchable, Machine-readable Plans and Reports.—__ 
+>     “(a)  __Searchable, Machine-readable Plans and Reports__  __.—__ 
 
 >     For fiscal year 2012 and each fiscal year thereafter, each agency required to produce strategic plans, performance plans, and performance updates in accordance with the amendments made by this Act \[see Short Title of 2011 Amendment note set out under [section 1101 of this title][/us/usc/t31/s1101]\] shall—
 
@@ -191,15 +191,15 @@
 
 >     “(b) __Web-based Performance Planning and Reporting.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than June 1, 2012, the Director of the Office of Management and Budget shall issue guidance to agencies to provide concise and timely performance information for publication on the website described under [section 1122 of title 31][/us/usc/t31/s1122], United States Code, including, at a minimum, all requirements of sections 1115 and 1116 of title 31, United States Code, except for section 1115(e).
 
->         “(2) __High-priority goals.—__ 
+>         “(2)  __High-priority goals__  __.—__ 
 
 >         For agencies required to develop agency priority goals under [section 1120(b) of title 31][/us/usc/t31/s1120/b], United States Code, the performance information required under this section shall be merged with the existing information required under [section 1122 of title 31][/us/usc/t31/s1122], United States Code.
 
->         “(3) __Considerations.—__ 
+>         “(3)  __Considerations__  __.—__ 
 
 >         In developing guidance under this subsection, the Director of the Office of Management and Budget shall take into consideration the experiences of agencies in making consolidated performance planning and reporting information available on the website as required under [section 1122 of title 31][/us/usc/t31/s1122], United States Code.”
 
@@ -209,11 +209,11 @@
 
 >     “(a) __Interim Planning and Reporting.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Director of the Office of Management and Budget shall coordinate with agencies to develop interim Federal Government priority goals and submit interim Federal Government performance plans consistent with the requirements of this Act \[see Short Title of 2011 Amendment note set out under [section 1101 of this title][/us/usc/t31/s1101]\] beginning with the submission of the fiscal year 2013 Budget of the United States Government.
 
->         “(2) __Requirements.—__ 
+>         “(2)  __Requirements__  __.—__ 
 
 >         Each agency shall—
 
@@ -223,7 +223,7 @@
 
 >             “(C) make performance reporting updates consistent with the requirements of this Act beginning in fiscal year 2012.
 
->         “(3) __Quarterly reviews.—__ 
+>         “(3)  __Quarterly reviews__  __.—__ 
 
 >         The quarterly priority progress reviews required under this Act shall begin—
 
@@ -231,7 +231,7 @@
 
 >             “(B) with the quarter ending June 30, 2012 for the interim Federal Government priority goals.
 
->     “(b) __Guidance.—__ 
+>     “(b)  __Guidance__  __.—__ 
 
 >     The Director of the Office of Management and Budget shall prepare guidance for agencies in carrying out the interim planning and reporting activities required under subsection (a), in addition to other guidance as required for implementation of this Act.”
 
@@ -239,13 +239,13 @@
 
 [Pub. L. 111–352, § 15][/us/pl/111/352/s15], Jan. 4, 2011, [124 Stat. 3883][/us/stat/124/3883], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Nothing in this Act \[see Short Title of 2011 Amendment note set out under [section 1101 of this title][/us/usc/t31/s1101]\] shall be construed as limiting the ability of Congress to establish, amend, suspend, or annul a goal of the Federal Government or an agency.
 
 >     “(b) __GAO Reviews.—__ 
 
->         “(1) __Interim planning and reporting evaluation.—__ 
+>         “(1)  __Interim planning and reporting evaluation__  __.—__ 
 
 >         Not later than June 30, 2013, the Comptroller General shall submit a report to Congress that includes—
 
@@ -255,17 +255,17 @@
 
 >         “(2) __Implementation evaluations.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Comptroller General shall evaluate the implementation of this Act subsequent to the interim planning and reporting activities evaluated in the report submitted to Congress under paragraph (1).
 
 >             “(B) __Agency implementation.—__ 
 
->                 “(i) __Evaluations.—__ 
+>                 “(i)  __Evaluations__  __.—__ 
 
 >                 The Comptroller General shall evaluate how implementation of this Act is affecting performance management at the agencies described in [section 901(b) of title 31][/us/usc/t31/s901/b], United States Code, including whether performance management is being used by those agencies to improve the efficiency and effectiveness of agency programs.
 
->                 “(ii) __Reports.—__ 
+>                 “(ii)  __Reports__  __.—__ 
 
 >                 The Comptroller General shall submit to Congress—
 
@@ -275,11 +275,11 @@
 
 >             “(C) __Federal government planning and reporting implementation.—__ 
 
->                 “(i) __Evaluations.—__ 
+>                 “(i)  __Evaluations__  __.—__ 
 
 >                 The Comptroller General shall evaluate the implementation of the Federal Government priority goals, Federal Government performance plans and related reporting required by this Act.
 
->                 “(ii) __Reports.—__ 
+>                 “(ii)  __Reports__  __.—__ 
 
 >                 The Comptroller General shall submit to Congress—
 
@@ -287,7 +287,7 @@
 
 >                          “(II) subsequent reports on the evaluation under clause (i), not later than September 30, 2017 and every 4 years thereafter.
 
->             “(D) __Recommendations.—__ 
+>             “(D)  __Recommendations__  __.—__ 
 
 >             The Comptroller General shall include in the reports required by subparagraphs (B) and (C) any recommendations for improving implementation of this Act and for streamlining the planning and reporting requirements of the Government Performance and Results Act of 1993 \[[Pub. L. 103–62][/us/pl/103/62], Aug. 3, 1993, [107 Stat. 285][/us/stat/107/285]; see Short Title of 1993 Amendment note set out under [section 1101 of this title][/us/usc/t31/s1101]\].”
 

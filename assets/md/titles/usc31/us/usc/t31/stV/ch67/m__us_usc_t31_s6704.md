@@ -15,7 +15,7 @@
 
 ## § 6704. State area allocations; allocations and payments to territorial governments
 
-    (a) __Formula Allocation by State.—__ 
+    (a)  __Formula Allocation by State__  __.—__ 
 
     For each payment period, the Secretary shall allocate to each State out of the amount appropriated for the period under the authority of section 6702(b) (minus the amounts allocated to territorial governments under subsection (e) for the payment period) an amount bearing the same ratio to the amount appropriated (minus such amounts allocated under subsection (e)) as the amount allocated to the State under this section bears to the total amount allocated to all States under this section. The Secretary shall—
 
@@ -25,7 +25,7 @@
 
     (b) __General Formula.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         For the payment period beginning October 1, 1994, the amount allocated to a State under this subsection for a payment period is the amount bearing the same ratio to $5,300,000,000 as—
 
@@ -33,7 +33,7 @@
 
             (B) the sum of the products determined under subparagraph (A) of this paragraph for all States.
 
-        (2) __General tax effort factor.—__ 
+        (2)  __General tax effort factor__  __.—__ 
 
         The general tax effort factor of a State for a payment period is—
 
@@ -41,7 +41,7 @@
 
             (B) the total income of individuals, as determined by the Secretary of Commerce for national accounts purposes for 1992 as reported in the publication Survey of Current Business (August 1993), attributed to the State for the same year.
 
-        (3) __Relative income factor.—__ 
+        (3)  __Relative income factor__  __.—__ 
 
         The relative income factor of a State is a fraction in which—
 
@@ -49,7 +49,7 @@
 
             (B) the denominator is the per capita income of the State.
 
-        (4) __Relative rate of labor force.—__ 
+        (4)  __Relative rate of labor force__  __.—__ 
 
         The relative rate of the labor force unemployed in a State is a fraction in which—
 
@@ -57,7 +57,7 @@
 
             (B) the denominator is the percentage of the labor force of the United States that is unemployed in the calendar year preceding the payment period (as determined by the Secretary of Labor for general statistical purposes).
 
-    (c) __Alternative Formula.—__ 
+    (c)  __Alternative Formula__  __.—__ 
 
     For the payment period beginning October 1, 1994, the amount allocated to a State under this subsection for a payment period is the total amount the State would receive if—
 
@@ -101,11 +101,11 @@
 
     (d) __Income Tax Amount and Tax Effort Amount.—__ 
 
-        (1) __Income tax amount.—__ 
+        (1)  __Income tax amount__  __.—__ 
 
         The income tax amount of a State for a payment period is 15 percent of the net amount collected during the calendar year ending before the beginning of the payment period from the tax imposed on the income of individuals by the State and described as a State income tax under section 164(a)(3) of the Internal Revenue Code of 1986 ([26 U.S.C. 164(a)(3)][/us/usc/t26/s164/a/3]). The income tax amount for a payment period shall be at least 1 percent but not more than 6 percent of the United States Government individual income tax liability attributed to the State for the taxable year ending during the last calendar year ending before the beginning of the payment period. The Secretary shall determine the Government income tax liability attributed to the State by using the data published by the Secretary for 1991 in the publication Statistics of Income Bulletin (Winter 1993–1994).
 
-        (2) __General tax effort amount.—__ 
+        (2)  __General tax effort amount__  __.—__ 
 
         The general tax effort amount of a State for a payment period is the amount determined by multiplying—
 
@@ -115,17 +115,17 @@
 
     (e) __Allocation for Puerto Rico, Guam, American Samoa, and the Virgin Islands.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
             (A) For each payment period for which funds are available for allocation under this chapter, the Secretary shall allocate to each territorial government an amount equal to the product of 1 percent of the amount of funds available for allocation multiplied by the applicable territorial percentage.
 
             (B) For the purposes of this paragraph, the applicable territorial percentage of a territory is equal to the quotient resulting from the division of the territorial population of such territory by the sum of the territorial population for all territories.
 
-        (2) __Payments to local governments.—__ 
+        (2)  __Payments to local governments__  __.—__ 
 
         The governments of the territories shall make payments to local governments within their jurisdiction from sums received under this subsection as they consider appropriate.
 
-        (3) __Definitions.—__ 
+        (3)  __Definitions__  __.—__ 
 
         For purposes of this subsection—
 

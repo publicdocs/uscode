@@ -165,17 +165,17 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 > “SEC. 3. __IMPROVING THE DETERMINATION OF IMPROPER PAYMENTS BY FEDERAL AGENCIES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     \[Amended [Pub. L. 107–300][/us/pl/107/300], set out below.\]
 
 >     “(b) __Improved Estimates.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 180 days after the date of enactment of this Act \[Jan. 10, 2013\], the Director of the Office of Management and Budget shall provide guidance to agencies for improving the estimates of improper payments under the Improper Payments Information Act of 2002 \[[Pub. L. 107–300][/us/pl/107/300]\] ([31 U.S.C. 3321][/us/usc/t31/s3321] note).
 
->         “(2) __Guidance.—__ 
+>         “(2)  __Guidance__  __.—__ 
 
 >         Guidance under this subsection shall—
 
@@ -191,7 +191,7 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >             “(F) require agencies to tailor their corrective actions for the high-priority programs identified under section 2(b)(1)(A) of the Improper Payments Information Act of 2002 ([31 U.S.C. 3321][/us/usc/t31/s3321] note) to better reflect the unique processes, procedures, and risks involved in each specific program.
 
->     “(c) __Technical and Conforming Amendments.—__ 
+>     “(c)  __Technical and Conforming Amendments__  __.—__ 
 
 >     \[Amended sections 2(h), 3 of [Pub. L. 111–204][/us/pl/111/204], set out below.\]
 
@@ -201,11 +201,11 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >     “(a) __Prepayment and Preaward Procedures.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Each agency shall review prepayment and preaward procedures and ensure that a thorough review of available databases with relevant information on eligibility occurs to determine program or award eligibility and prevent improper payments before the release of any Federal funds.
 
->         “(2) __Databases.—__ 
+>         “(2)  __Databases__  __.—__ 
 
 >         At a minimum and before issuing any payment and award, each agency shall review as appropriate the following databases to verify eligibility of the payment and award:
 
@@ -221,7 +221,7 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >     “(b) __Do Not Pay Initiative.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         There is established the Do Not Pay Initiative which shall include—
 
@@ -229,7 +229,7 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >             “(B) use of other databases designated by the Director of the Office of Management and Budget in consultation with agencies and in accordance with paragraph (2).
 
->         “(2) __Other databases.—__ 
+>         “(2)  __Other databases__  __.—__ 
 
 >         In making designations of other databases under paragraph (1)(B), the Director of the Office of Management and Budget shall—
 
@@ -237,15 +237,15 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >             “(B) provide public notice and an opportunity for comment before designating a database under paragraph (1)(B).
 
->         “(3) __Access and review by agencies.—__ 
+>         “(3)  __Access and review by agencies__  __.—__ 
 
 >         For purposes of identifying and preventing improper payments, each agency shall have access to, and use of, the Do Not Pay Initiative to verify payment or award eligibility in accordance with subsection (a) when the Director of the Office of Management and Budget determines the Do Not Pay Initiative is appropriately established for the agency.
 
->         “(4) __Payment otherwise required.—__ 
+>         “(4)  __Payment otherwise required__  __.—__ 
 
 >         When using the Do Not Pay Initiative, an agency shall recognize that there may be circumstances under which the law requires a payment or award to be made to a recipient, regardless of whether that recipient is identified as potentially ineligible under the Do Not Pay Initiative.
 
->         “(5) __Annual report.—__ 
+>         “(5)  __Annual report__  __.—__ 
 
 >         The Director of the Office of Management and Budget shall submit to Congress an annual report, which may be included as part of another report submitted to Congress by the Director, regarding the operation of the Do Not Pay Initiative, which shall—
 
@@ -253,7 +253,7 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >             “(B) provide the frequency of corrections or identification of incorrect information.
 
->     “(c) __Database Integration Plan.—__ 
+>     “(c)  __Database Integration Plan__  __.—__ 
 
 >     Not later than 60 days after the date of enactment of this Act \[Jan. 10, 2013\], the Director of the Office of Management and Budget shall provide to the Congress a plan for—
 
@@ -265,11 +265,11 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >     “(d) __Initial Working System.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         Not later than 90 days after the date of enactment of this Act, the Director of the Office of Management and Budget shall establish a working system for prepayment and preaward review that includes the Do Not Pay Initiative as described under this section.
 
->         “(2) __Working system.—__ 
+>         “(2)  __Working system__  __.—__ 
 
 >         The working system established under paragraph (1)—
 
@@ -279,27 +279,27 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >             “(C) shall include investigation activities for fraud and systemic improper payments detection through analytic technologies and other techniques, which may include commercial database use or access.
 
->         “(3) __Application to all agencies.—__ 
+>         “(3)  __Application to all agencies__  __.—__ 
 
 >         Not later than June 1, 2013, each agency shall review all payments and awards for all programs of that agency through the system established under this subsection.
 
 >     “(e) __Facilitating Data Access by Federal Agencies and Offices of Inspectors General for Purposes of Program Integrity.—__ 
 
->         “(1) __Definition.—__ 
+>         “(1)  __Definition__  __.—__ 
 
 >         In this subsection, the term ‘Inspector General’ means any Inspector General described in subparagraph (A), (B), or (I) of section 11(b)(1) of the Inspector General Act of 1978 (5 U.S.C. App.) and any successor Inspector General.
 
 >         “(2) __Computer matching by federal agencies for purposes of investigation and prevention of improper payments and fraud.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in this paragraph, in accordance with [section 552a of title 5][/us/usc/t5/s552a], United States Code (commonly known as the Privacy Act of 1974), each Inspector General and the head of each agency may enter into computer matching agreements with other inspectors general and agency heads that allow ongoing data matching (which shall include automated data matching) in order to assist in the detection and prevention of improper payments.
 
->             “(B) __Review.—__ 
+>             “(B)  __Review__  __.—__ 
 
 >             Not later than 60 days after a proposal for an agreement under subparagraph (A) has been presented to a Data Integrity Board established under [section 552a(u) of title 5][/us/usc/t5/s552a/u], United States Code, for consideration, the Data Integrity Board shall respond to the proposal.
 
->             “(C) __Termination date.—__ 
+>             “(C)  __Termination date__  __.—__ 
 
 >             An agreement under subparagraph (A)—
 
@@ -307,15 +307,15 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >                 “(ii) during the 3-month period ending on the date on which the agreement is scheduled to terminate, may be renewed by the agencies entering the agreement for not more than 3 years.
 
->             “(D) __Multiple agencies.—__ 
+>             “(D)  __Multiple agencies__  __.—__ 
 
 >             For purposes of this paragraph, section 552a(o)(1) of title 5, United States Code, shall be applied by substituting ‘between the source agency and the recipient agency or non-Federal agency or an agreement governing multiple agencies’ for ‘between the source agency and the recipient agency or non-Federal agency’ in the matter preceding subparagraph (A).
 
->             “(E) __Cost-benefit analysis.—__ 
+>             “(E)  __Cost-benefit analysis__  __.—__ 
 
 >             A justification under section 552a(o)(1)(B) of title 5, United States Code, relating to an agreement under subparagraph (A) is not required to contain a specific estimate of any savings under the computer matching agreement.
 
->         “(3) __Guidance by the office of management and budget.—__ 
+>         “(3)  __Guidance by the office of management and budget__  __.—__ 
 
 >         Not later than 6 months after the date of enactment of this Act, and in consultation with the Council of the Inspectors General on Integrity and Efficiency, the Secretary of Health and Human Services, the Commissioner of Social Security, and the head of any other relevant agency, the Director of the Office of Management and Budget shall—
 
@@ -341,7 +341,7 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >             “(C) establish and clarify rules regarding what constitutes making an agreement entered under paragraph (2)(A) available upon request to the public for purposes of section 552a(o)(2)(A)(ii) of title 5, United States Code, which shall include requiring publication of the agreement on a public website.
 
->         “(4) __Corrections.—__ 
+>         “(4)  __Corrections__  __.—__ 
 
 >         The Director of the Office of Management and Budget shall establish procedures providing for the correction of data in order to ensure—
 
@@ -349,25 +349,25 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >             “(B) that corrections are made in any Do Not Pay Initiative database and in any relevant source databases designated by the Director of the Office of Management and Budget under subsection (b)(1).
 
->         “(5) __Compliance.—__ 
+>         “(5)  __Compliance__  __.—__ 
 
 >         The head of each agency, in consultation with the Inspector General of the agency, shall ensure that any information provided to an individual or entity under this subsection is provided in accordance with protocols established under this subsection.
 
->         “(6) __Rule of construction.—__ 
+>         “(6)  __Rule of construction__  __.—__ 
 
 >         Nothing in this subsection shall be construed to affect the rights of an individual under [section 552a(p) of title 5][/us/usc/t5/s552a/p], United States Code.
 
->     “(f) __Development and Access to a Database of Incarcerated Individuals.—__ 
+>     “(f)  __Development and Access to a Database of Incarcerated Individuals__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act, the Attorney General shall submit to Congress recommendations for increasing the use of, access to, and the technical feasibility of using data on the Federal, State, and local conviction and incarceration status of individuals for purposes of identifying and preventing improper payments by Federal agencies and programs and fraud.
 
 >     “(g) __Plan To Curb Federal Improper Payments to Deceased Individuals by Improving the Quality and Use by Federal Agencies of the Social Security Administration Death Master File.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         In conjunction with the Commissioner of Social Security and in consultation with relevant stakeholders that have an interest in or responsibility for providing the data, and the States, the Director of the Office of Management and Budget shall establish a plan for improving the quality, accuracy, and timeliness of death data maintained by the Social Security Administration, including death information reported to the Commissioner under section 205(r) of the Social Security Act ([42 U.S.C. 405(r)][/us/usc/t42/s405/r]).
 
->         “(2) __Additional actions under plan.—__ 
+>         “(2)  __Additional actions under plan__  __.—__ 
 
 >         The plan established under this subsection shall include recommended actions by agencies to—
 
@@ -381,17 +381,17 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >             “(E) address improper payments made by agencies to deceased individuals as part of Federal retirement programs.
 
->         “(3) __Report.—__ 
+>         “(3)  __Report__  __.—__ 
 
 >         Not later than 120 days after the date of enactment of this Act, the Director of the Office of Management and Budget shall submit a report to Congress on the plan established under this subsection, including recommended legislation.
 
 > “SEC. 6. __IMPROVING RECOVERY OF IMPROPER PAYMENTS.__ 
 
->     “(a) __Definition.—__ 
+>     “(a)  __Definition__  __.—__ 
 
 >     In this section, the term ‘recovery audit’ means a recovery audit described under section 2(h) of the Improper Payments Elimination and Recovery Act of 2010 \[[Pub. L. 111–204][/us/pl/111/204]\] ([31 U.S.C. 3301][/us/usc/t31/s3301] note).
 
->     “(b) __Review.—__ 
+>     “(b)  __Review__  __.—__ 
 
 >     The Director of the Office of Management and Budget shall determine—
 
@@ -413,17 +413,17 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 [Pub. L. 111–204, § 2(h)][/us/pl/111/204/s2/h], July 22, 2010, [124 Stat. 2228][/us/stat/124/2228], as amended by [Pub. L. 112–248, § 3(c)(1)][/us/pl/112/248/s3/c/1], Jan. 10, 2013, [126 Stat. 2392][/us/stat/126/2392], provided that:
 
->     “(1) __Definition.—__ 
+>     “(1)  __Definition__  __.—__ 
 
 >     In this subsection, the term ‘agency’ has the meaning given under section 2(g) of the Improper Payments Information Act of 2002 \[[Pub. L. 107–300][/us/pl/107/300]\] ([31 U.S.C. 3321][/us/usc/t31/s3321] note).
 
 >     “(2) __In general.—__ 
 
->         “(A) __Conduct of audits.—__ 
+>         “(A)  __Conduct of audits__  __.—__ 
 
 >         Except as provided under paragraph (4) and if not prohibited under any other provision of law, the head of each agency shall conduct recovery audits with respect to each program and activity of the agency that expends $1,000,000 or more annually if conducting such audits would be cost-effective.
 
->         “(B) __Procedures.—__ 
+>         “(B)  __Procedures__  __.—__ 
 
 >         In conducting recovery audits under this subsection, the head of an agency—
 
@@ -433,7 +433,7 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >             “(iii) may conduct recovery audits directly, by using other departments and agencies of the United States, or by procuring performance of recovery audits by private sector sources by contract (subject to the availability of appropriations), or by any combination thereof.
 
->         “(C) __Recovery audit contracts.—__ 
+>         “(C)  __Recovery audit contracts__  __.—__ 
 
 >         With respect to recovery audits procured by an agency by contract—
 
@@ -443,7 +443,7 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >         “(D) __Contract terms and conditions.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             The agency shall include in each contract for procurement of performance of a recovery audit a requirement that the contractor shall—
 
@@ -453,7 +453,7 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >                 “(III) report to the agency credible evidence of fraud or vulnerabilities to fraud, and conduct appropriate training of personnel of the contractor on identification of fraud.
 
->             “(ii) __Reports on actions taken.—__ 
+>             “(ii)  __Reports on actions taken__  __.—__ 
 
 >             Not later than November 1 of each year, each agency shall submit a report on actions taken by the agency during the preceding fiscal year to address the recommendations described under clause (i)(I) to—
 
@@ -461,17 +461,17 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >                 “(II) Congress.
 
->         “(E) __Agency action following notification.—__ 
+>         “(E)  __Agency action following notification__  __.—__ 
 
 >         An agency shall take prompt and appropriate action in response to a report or notification by a contractor under subparagraph (D)(i)(I) or (II), to collect overpayments and shall forward to other agencies any information that applies to such agencies.
 
 >     “(3) __Disposition of amounts recovered.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Amounts collected by agencies each fiscal year through recovery audits conducted under this subsection shall be treated in accordance with this paragraph. The agency head shall determine the distribution of collected amounts, less amounts needed to fulfill the purposes of [section 3562(a) of title 31][/us/usc/t31/s3562/a], United States Code, in accordance with subparagraphs (B), (C), and (D).
 
->         “(B) __Use for financial management improvement program.—__ 
+>         “(B)  __Use for financial management improvement program__  __.—__ 
 
 >         Not more than 25 percent of the amounts collected by an agency through recovery audits—
 
@@ -481,7 +481,7 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >             “(iii) shall be used to supplement and not supplant any other amounts available for that purpose and shall remain available until expended.
 
->         “(C) __Use for original purpose.—__ 
+>         “(C)  __Use for original purpose__  __.—__ 
 
 >         Not more than 25 percent of the amounts collected by an agency—
 
@@ -491,7 +491,7 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >             “(iii) if the appropriation from which the overpayment was made has expired, shall be newly available for the same time period as the funds were originally available for obligation, except that any amounts that are recovered more than five fiscal years from the last fiscal year in which the funds were available for obligation shall be deposited in the Treasury as miscellaneous receipts, except that in the case of recoveries of overpayments that are made from trust or special fund accounts, such amounts shall revert to those accounts.
 
->         “(D) __Use for inspector general activities.—__ 
+>         “(D)  __Use for inspector general activities__  __.—__ 
 
 >         Not more than 5 percent of the amounts collected by an agency shall be available to the Inspector General of that agency—
 
@@ -505,25 +505,25 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >             “(ii) shall remain available for the same period and purposes as the appropriation or fund to which credited.
 
->         “(E) __Remainder.—__ 
+>         “(E)  __Remainder__  __.—__ 
 
 >         Amounts collected that are not applied in accordance with subparagraph (A), (B), (C), or (D) shall be deposited in the Treasury as miscellaneous receipts, except that in the case of recoveries of overpayments that are made from trust or special fund accounts, such amounts shall revert to those accounts.
 
->         “(F) __Discretionary amounts.—__ 
+>         “(F)  __Discretionary amounts__  __.—__ 
 
 >         This paragraph shall apply only to recoveries of overpayments that are made from discretionary appropriations (as that term is defined by paragraph 7 of \[subsection (c) of\] section 250 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[[2 U.S.C. 900(c)(7)][/us/usc/t2/s900/c/7]\]) and shall not apply to recoveries of overpayments that are made from discretionary amounts that were appropriated prior to enactment of this Act \[July 22, 2010\].
 
->         “(G) __Application.—__ 
+>         “(G)  __Application__  __.—__ 
 
 >         This paragraph shall not apply to recoveries of overpayments if the appropriation from which the overpayment was made has not expired.
 
 >     “(4) __Financial management improvement program.—__ 
 
->         “(A) __Requirement.—__ 
+>         “(A)  __Requirement__  __.—__ 
 
 >         The head of each agency shall conduct a financial management improvement program, consistent with rules prescribed by the Director of the Office of Management and Budget.
 
->         “(B) __Program features.—__ 
+>         “(B)  __Program features__  __.—__ 
 
 >         In conducting the program, the head of the agency—
 
@@ -531,13 +531,13 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >             “(ii) may seek to reduce errors and waste in other agency programs and operations.
 
->     “(5) __Privacy protections.—__ 
+>     “(5)  __Privacy protections__  __.—__ 
 
 >     Any nongovernmental entity that, in the course of recovery auditing or recovery activity under this subsection, obtains information that identifies an individual or with respect to which there is a reasonable basis to believe that the information can be used to identify an individual, may not disclose the information for any purpose other than such recovery auditing or recovery activity and governmental oversight of such activity, unless disclosure for that other purpose is authorized by the individual to the executive agency that contracted for the performance of the recovery auditing or recovery activity.
 
->     “(6) __Other recovery audit requirements.—__ 
+>     “(6)  __Other recovery audit requirements__  __.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >             (i) Except as provided in clause (ii), subchapter VI of chapter 35 of title 31, United States Code, is repealed.
 
@@ -545,19 +545,19 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >         “(B) __Technical and conforming amendments.—__ 
 
->             “(i) __Table of sections.—__ 
+>             “(i)  __Table of sections__  __.—__ 
 
 >             \[Amended analysis of chapter 35 of this title.\]
 
->             “(ii) __Definition.—__ 
+>             “(ii)  __Definition__  __.—__ 
 
 >             \[Amended [section 3501 of this title][/us/usc/t31/s3501].\]
 
->             “(iii) __Homeland security grants.—__ 
+>             “(iii)  __Homeland security grants__  __.—__ 
 
 >             \[Amended [section 612 of Title 6][/us/usc/t6/s612], Domestic Security.\]
 
->     “(7) __Rule of construction.—__ 
+>     “(7)  __Rule of construction__  __.—__ 
 
 >     Except as provided under paragraph (5), nothing in this section shall be construed as terminating or in any way limiting authorities that are otherwise available to agencies under existing provisions of law to recover improper payments and use recovered amounts.”
 
@@ -565,19 +565,19 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 [Pub. L. 111–204, § 3][/us/pl/111/204/s3], July 22, 2010, [124 Stat. 2232][/us/stat/124/2232], as amended by [Pub. L. 112–248, § 3(c)(2)][/us/pl/112/248/s3/c/2], Jan. 10, 2013, [126 Stat. 2392][/us/stat/126/2392], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Agency.—__ 
+>         “(1)  __Agency__  __.—__ 
 
 >         The term ‘agency’ has the meaning given under section 2(g) of the Improper Payments Information Act of 2002 \[[Pub. L. 107–300][/us/pl/107/300]\] ([31 U.S.C. 3321][/us/usc/t31/s3321] note).
 
->         “(2) __Annual financial statement.—__ 
+>         “(2)  __Annual financial statement__  __.—__ 
 
 >         The term ‘annual financial statement’ means the annual financial statement required under [section 3515 of title 31][/us/usc/t31/s3515], United States Code, or similar provision of law.
 
->         “(3) __Compliance.—__ 
+>         “(3)  __Compliance__  __.—__ 
 
 >         The term ‘compliance’ means that the agency—
 
@@ -593,7 +593,7 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >             “(F) has reported an improper payment rate of less than 10 percent for each program and activity for which an estimate was published under section 2(c) of the Improper Payments Information Act of 2002 ([31 U.S.C. 3321][/us/usc/t31/s3321] note).
 
->     “(b) __Annual Compliance Report by Inspectors General of Agencies.—__ 
+>     “(b)  __Annual Compliance Report by Inspectors General of Agencies__  __.—__ 
 
 >     Each fiscal year, the Inspector General of each agency shall determine whether the agency is in compliance and submit a report on that determination to—
 
@@ -609,11 +609,11 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >         “(1) __Noncompliance.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             If an agency is determined by the Inspector General of that agency not to be in compliance under subsection (b) in a fiscal year, the head of the agency shall submit a plan to Congress describing the actions that the agency will take to come into compliance.
 
->             “(B) __Plan.—__ 
+>             “(B)  __Plan__  __.—__ 
 
 >             The plan described under subparagraph (A) shall include—
 
@@ -625,15 +625,15 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >         “(2) __Noncompliance for 2 fiscal years.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             If an agency is determined by the Inspector General of that agency not to be in compliance under subsection (b) for 2 consecutive fiscal years for the same program or activity, and the Director of the Office of Management and Budget determines that additional funding would help the agency come into compliance, the head of the agency shall obligate additional funding, in an amount determined by the Director, to intensified compliance efforts.
 
->             “(B) __Funding.—__ 
+>             “(B)  __Funding__  __.—__ 
 
 >             In providing additional funding described under subparagraph (A), the head of an agency shall use any reprogramming or transfer authority available to the agency. If after exercising that reprogramming or transfer authority additional funding is necessary to obligate the full level of funding determined by the Director of the Office of Management and Budget under subparagraph (A), the agency shall submit a request to Congress for additional reprogramming or transfer authority.
 
->         “(3) __Reauthorization and statutory proposals.—__ 
+>         “(3)  __Reauthorization and statutory proposals__  __.—__ 
 
 >         If an agency is determined by the Inspector General of that agency not to be in compliance under subsection (b) for more than 3 consecutive fiscal years for the same program or activity, the head of the agency shall, not later than 30 days after such determination, submit to Congress—
 
@@ -643,15 +643,15 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >     “(d) __Compliance Enforcement Pilot Programs.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Director of the Office of Management and Budget may establish 1 or more pilot programs which shall test potential accountability mechanisms with appropriate incentives and consequences tied to success in ensuring compliance with this Act \[see Short Title of 2010 Amendment note set out under [section 3301 of this title][/us/usc/t31/s3301]\] and eliminating improper payments.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than 5 years after the date of enactment of this Act \[July 22, 2010\], the Director of the Office of Management and Budget shall submit a report to Congress on the findings associated with any pilot programs conducted under paragraph (1). The report shall include any legislative or other recommendations that the Director determines necessary.
 
->     “(e) __Report on Chief Financial Officers Act of 1990.—__ 
+>     “(e)  __Report on Chief Financial Officers Act of__  __1990.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[July 22, 2010\], the Chief Financial Officers Council established under section 302 of the Chief Financial Officers Act of 1990 \[[Pub. L. 101–576][/us/pl/101/576]\] ([31 U.S.C. 901][/us/usc/t31/s901] note) and the Council of Inspectors General on Integrity and Efficiency established under section 7 of the Inspector General Reform Act of 2009 \[2008\] ([Public Law 110–409][/us/pl/110/409]) \[see section 11 of the Inspector General Act of 1978, [Pub. L. 95–452][/us/pl/95/452], set out in the Appendix to Title 5, Government Organization and Employees\], in consultation with a broad cross-section of experts and stakeholders in Government accounting and financial management shall—
 
@@ -685,17 +685,17 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >     “(a) __Identification of Susceptible Programs and Activities.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The head of each agency shall, in accordance with guidance prescribed by the Director of the Office of Management and Budget, periodically review all programs and activities that the relevant agency head administers and identify all programs and activities that may be susceptible to significant improper payments.
 
->         “(2) __Frequency.—__ 
+>         “(2)  __Frequency__  __.—__ 
 
 >         Reviews under paragraph (1) shall be performed for each program and activity that the relevant agency head administers during the year after which the Improper Payments Elimination and Recovery Act of 2010 is enacted \[July 22, 2010\] and at least once every 3 fiscal years thereafter. For those agencies already performing a risk assessment every 3 years, agencies may apply to the Director of the Office of Management and Budget for a waiver from the requirement of the preceding sentence and continue their 3-year risk assessment cycle.
 
 >         “(3) __Risk assessments.—__ 
 
->             “(A) __Definition.—__ 
+>             “(A)  __Definition__  __.—__ 
 
 >             In this subsection the term ‘significant’ means—
 
@@ -715,7 +715,7 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >                          “(II) $100,000,000.
 
->             “(B) __Scope.—__ 
+>             “(B)  __Scope__  __.—__ 
 
 >             In conducting the reviews under paragraph (1), the head of each agency shall take into account those risk factors that are likely to contribute to a susceptibility to significant improper payments, such as—
 
@@ -735,7 +735,7 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >     “(b) __Improving the Determination of Improper Payments.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Director of the Office of Management and Budget shall on an annual basis—
 
@@ -751,11 +751,11 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >         “(2) __Report on high-priority improper payments.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Subject to Federal privacy policies and to the extent permitted by law, each agency with a program identified under paragraph (1)(A) on an annual basis shall submit to the Inspector General of that agency, and make available to the public (including availability through the Internet), a report on that program.
 
->             “(B) __Contents.—__ 
+>             “(B)  __Contents__  __.—__ 
 
 >             Each report under this paragraph—
 
@@ -773,15 +773,15 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >                 “(ii) shall not include any referrals the agency made or anticipates making to the Department of Justice, or any information provided in connection with such referrals.
 
->             “(C) __Public availability on central website.—__ 
+>             “(C)  __Public availability on central website__  __.—__ 
 
 >             The Office of Management and Budget shall make each report submitted under this paragraph available on a central website.
 
->             “(D) __Availability of information to inspector general.—__ 
+>             “(D)  __Availability of information to inspector general__  __.—__ 
 
 >             Subparagraph (B)(ii) shall not prohibit any referral or information being made available to an Inspector General as otherwise provided by law.
 
->             “(E) __Assessment and recommendations.—__ 
+>             “(E)  __Assessment and recommendations__  __.—__ 
 
 >             The Inspector General of each agency that submits a report under this paragraph shall, for each program of the agency that is identified under paragraph (1)(A)—
 
@@ -795,7 +795,7 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >                 “(ii) submit to Congress recommendations, which may be included in another report submitted by the Inspector General to Congress, for modifying any plans of the agency relating to the program, including improvements for improper payments determination and estimation methodology.
 
->     “(c) __Estimation of Improper Payments.—__ 
+>     “(c)  __Estimation of Improper Payments__  __.—__ 
 
 >     With respect to each program and activity identified under subsection (a), the head of the relevant agency shall—
 
@@ -803,7 +803,7 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >         “(2) include those estimates in the accompanying materials to the annual financial statement of the agency required under [section 3515 of title 31][/us/usc/t31/s3515], United States Code, or similar provision of law and applicable guidance of the Office of Management and Budget.
 
->     “(d) __Reports on Actions To Reduce Improper Payments.—__ 
+>     “(d)  __Reports on Actions To Reduce Improper Payments__  __.—__ 
 
 >     With respect to any program or activity of an agency with estimated improper payments under subsection (c), the head of the agency shall provide with the estimate under subsection (c) a report on what actions the agency is taking to reduce improper payments, including—
 
@@ -837,7 +837,7 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >                 “(ii) promptly detect and recover improper payments that are made.
 
->     “(e) __Reports on Actions To Recover Improper Payments.—__ 
+>     “(e)  __Reports on Actions To Recover Improper Payments__  __.—__ 
 
 >     With respect to any improper payments identified in recovery audits conducted under section 2(h) of the Improper Payments Elimination and Recovery Act of 2010 \[[Pub. L. 111–204][/us/pl/111/204]\] ([31 U.S.C. 3321][/us/usc/t31/s3321] note), the head of the agency shall provide with the estimate under subsection (c) a report on all actions the agency is taking to recover improper payments, including—
 
@@ -857,7 +857,7 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >     “(f) __Governmentwide Reporting of Improper Payments and Actions To Recover Improper Payments.—__ 
 
->         “(1) __Report.—__ 
+>         “(1)  __Report__  __.—__ 
 
 >         Each fiscal year the Director of the Office of Management and Budget shall submit a report with respect to the preceding fiscal year on actions agencies have taken to report information regarding improper payments and actions to recover improper overpayments to—
 
@@ -865,7 +865,7 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >             “(B) the Committee on Oversight and Government Reform of the House of Representatives.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         Each report under this subsection shall include—
 
@@ -877,15 +877,15 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >             “(D) a discussion of progress made towards meeting governmentwide improper payment reduction targets.
 
->     “(g) __Definitions.—__ 
+>     “(g)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Agency.—__ 
+>         “(1)  __Agency__  __.—__ 
 
 >         The term ‘agency’ means an executive agency, as that term is defined in [section 102 of title 31][/us/usc/t31/s102], United States Code.
 
->         “(2) __Improper payment.—__ 
+>         “(2)  __Improper payment__  __.—__ 
 
 >         The term ‘improper payment’—
 
@@ -893,21 +893,21 @@ Exec. Order No. 6728, May 29, 1934.  </td>
 
 >             “(B) includes any payment to an ineligible recipient, any payment for an ineligible good or service, any duplicate payment, any payment for a good or service not received (except for such payments where authorized by law), and any payment that does not account for credit for applicable discounts.
 
->         “(3) __Payment.—__ 
+>         “(3)  __Payment__  __.—__ 
 
 >         The term ‘payment’ means any transfer or commitment for future transfer of Federal funds such as cash, securities, loans, loan guarantees, and insurance subsidies to any non-Federal person or entity or a Federal employee, that is made by a Federal agency, a Federal contractor, a Federal grantee, or a governmental or other organization administering a Federal program or activity.
 
->         “(4) __Payment for an ineligible good or service.—__ 
+>         “(4)  __Payment for an ineligible good or service__  __.—__ 
 
 >         The term ‘payment for an ineligible good or service’ shall include a payment for any good or service that is rejected under any provision of any contract, grant, lease, cooperative agreement, or any other funding mechanism.
 
 >     “(h) __Guidance by the Office of Management and Budget.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 6 months after the date of enactment of the Improper Payments Elimination and Recovery Act of 2010 \[July 22, 2010\], the Director of the Office of Management and Budget shall prescribe guidance for agencies to implement the requirements of this section. The guidance shall not include any exemptions to such requirements not specifically authorized by this section.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         The guidance under paragraph (1) shall prescribe—
 

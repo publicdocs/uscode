@@ -217,7 +217,7 @@
 
 [Pub. L. 99–509, title VI][/us/pl/99/509], subtitle B (§§ 6101–6104), § 6102, Oct. 21, 1986, [100 Stat. 1934][/us/stat/100/1934], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -229,7 +229,7 @@
 
 >         “(4) present civil and criminal remedies for such claims and statements are not sufficiently responsive.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this subtitle \[see Short Title note above\] are—
 

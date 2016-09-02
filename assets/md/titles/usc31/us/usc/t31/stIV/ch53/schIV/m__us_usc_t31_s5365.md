@@ -15,7 +15,7 @@
 
 ## § 5365. Civil remedies
 
-    (a) __Jurisdiction.—__ 
+    (a)  __Jurisdiction__  __.—__ 
 
     In addition to any other remedy under current law, the district courts of the United States shall have original and exclusive jurisdiction to prevent and restrain restricted transactions by issuing appropriate orders in accordance with this section, regardless of whether a prosecution has been initiated under this subchapter.
 
@@ -23,27 +23,27 @@
 
         (1) __Institution by federal government.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The United States, acting through the Attorney General, may institute proceedings under this section to prevent or restrain a restricted transaction.
 
-            (B) __Relief.—__ 
+            (B)  __Relief__  __.—__ 
 
             Upon application of the United States under this paragraph, the district court may enter a temporary restraining order, a preliminary injunction, or an injunction against any person to prevent or restrain a restricted transaction, in accordance with rule 65 of the Federal Rules of Civil Procedure.
 
         (2) __Institution by state attorney general.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The attorney general (or other appropriate State official) of a State in which a restricted transaction allegedly has been or will be initiated, received, or otherwise made may institute proceedings under this section to prevent or restrain the violation or threatened violation.
 
-            (B) __Relief.—__ 
+            (B)  __Relief__  __.—__ 
 
             Upon application of the attorney general (or other appropriate State official) of an affected State under this paragraph, the district court may enter a temporary restraining order, a preliminary injunction, or an injunction against any person to prevent or restrain a restricted transaction, in accordance with rule 65 of the Federal Rules of Civil Procedure.
 
         (3) __Indian lands.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Notwithstanding paragraphs (1) and (2), for a restricted transaction that allegedly has been or will be initiated, received, or otherwise made on Indian lands (as that term is defined in section 4 of the Indian Gaming Regulatory Act)—
 
@@ -51,13 +51,13 @@
 
                 (ii) the enforcement authorities specified in an applicable Tribal-State Compact negotiated under section 11 of the Indian Gaming Regulatory Act ([25 U.S.C. 2710][/us/usc/t25/s2710]) shall be carried out in accordance with that compact.
 
-            (B) __Rule of construction.—__ 
+            (B)  __Rule of construction__  __.—__ 
 
             No provision of this section shall be construed as altering, superseding, or otherwise affecting the application of the Indian Gaming Regulatory Act.
 
     (c) __Limitation Relating to Interactive Computer Services.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Relief granted under this section against an interactive computer service shall—
 
@@ -71,7 +71,7 @@
 
             (E) specifically identify the location of the online site or hypertext link to be removed or access to which is to be disabled.
 
-        (2) __Coordination with other law.—__ 
+        (2)  __Coordination with other law__  __.—__ 
 
         An interactive computer service that does not violate this subchapter shall not be liable under [section 1084(d) of title 18][/us/usc/t18/s1084/d], except that the limitation in this paragraph shall not apply if an interactive computer service has actual knowledge and control of bets and wagers and—
 
@@ -79,7 +79,7 @@
 
             (B) owns or controls, or is owned or controlled by, any person who operates, manages, supervises, or directs an Internet website at which unlawful bets or wagers may be placed, received, or otherwise made, or at which unlawful bets or wagers are offered to be placed, received, or otherwise made.
 
-    (d) __Limitation on Injunctions Against Regulated Persons.—__ 
+    (d)  __Limitation on Injunctions Against Regulated Persons__  __.—__ 
 
     Notwithstanding any other provision of this section, and subject to section 5367, no provision of this subchapter shall be construed as authorizing the Attorney General of the United States, or the attorney general (or other appropriate State official) of any State to institute proceedings to prevent or restrain a restricted transaction against any financial transaction provider, to the extent that the person is acting as a financial transaction provider.
 

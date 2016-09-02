@@ -15,7 +15,7 @@
 
 ## § 3562. Disposition of recovered funds
 
-    (a) __Availability of Funds for Recovery Audits and Activities Program.—__ 
+    (a)  __Availability of Funds for Recovery Audits and Activities Program__  __.—__ 
 
     Funds collected under a program carried out by an executive agency under section 3561  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text and Codification notes below. </sup></sup>  of this title shall be available to the executive agency for the following purposes:
 

@@ -91,15 +91,15 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
 >     “(a) __Service Contract Inventory Requirement.—__ 
 
->         “(1) __Guidance.—__ 
+>         “(1)  __Guidance__  __.—__ 
 
 >         Not later than March 1, 2010, the Director of the Office of Management and Budget shall develop and disseminate guidance to aid executive agencies in establishing systems for the collection of information required to meet the requirements of this section and to ensure consistency of inventories across agencies.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than July 31, 2010, the Director of the Office of Management and Budget shall submit a report to Congress on the status of efforts to enable executive agencies to prepare the inventories required under paragraph (3), including the development, as appropriate, of guidance, methodologies, and technical tools.
 
->         “(3) __Inventory contents.—__ 
+>         “(3)  __Inventory contents__  __.—__ 
 
 >         Not later than December 31, 2010, and annually thereafter, the head of each executive agency required to submit an inventory in accordance with the Federal Activities Inventory Reform Act of 1998 ([Public Law 105–270][/us/pl/105/270]; [31 U.S.C. 501][/us/usc/t31/s501] note), other than the Department of Defense, shall submit to the Office of Management and Budget an annual inventory of service contracts awarded or extended through the exercise of an option, and task orders issued under any such contract, on or after April 1, 2010, for or on behalf of such agency. For each service contract, the entry for an inventory under this section shall include, for the preceding fiscal year, the following:
 
@@ -121,11 +121,11 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
 >             “(I) Whether the contract was awarded on a noncompetitive basis, regardless of date of award.
 
->     “(b) __Form.—__ 
+>     “(b)  __Form__  __.—__ 
 
 >     Reports required under this section shall be submitted in unclassified form, but may include a classified annex.
 
->     “(c) __Publication.—__ 
+>     “(c)  __Publication__  __.—__ 
 
 >     Not later than 30 days after the date on which the inventory under subsection (a)(3) is required to be submitted to the Office of Management and Budget, the head of each executive agency shall—
 
@@ -133,11 +133,11 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
 >         “(2) publish in the Federal Register a notice that the inventory is available to the public.
 
->     “(d) __Government-wide Inventory Report.—__ 
+>     “(d)  __Government-wide Inventory Report__  __.—__ 
 
 >     Not later than 90 days after the deadline for submitting inventories under subsection (a)(3), and annually thereafter, the Director of the Office of Management and Budget shall submit to Congress and make publicly available on the Office of Management and Budget website a report on the inventories submitted. The report shall identify whether each agency required to submit an inventory under subsection (a)(3) has met such requirement and summarize the information submitted by each executive agency required to have a Chief Financial Officer pursuant to [section 901 of title 31][/us/usc/t31/s901], United States Code.
 
->     “(e) __Review and Planning Requirements.—__ 
+>     “(e)  __Review and Planning Requirements__  __.—__ 
 
 >     Not later than 180 days after the deadline for submitting inventories under subsection (a)(3) for an executive agency, the head of the executive agency, or an official designated by the agency head shall—
 
@@ -169,35 +169,35 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
 >             “(B) an alternative acquisition approach that would better enable the agency to efficiently utilize its assets and achieve its public mission.
 
->     “(f) __Report on Actions Taken in Response to Annual Inventory.—__ 
+>     “(f)  __Report on Actions Taken in Response to Annual Inventory__  __.—__ 
 
 >     Not later than one year after submitting an annual inventory under subsection (a)(3), the head of each executive agency submitting such an inventory shall submit to the Office of Management and Budget a report summarizing the actions taken pursuant to subsection (e), including any actions taken to consider and convert functions from contractor to Federal employee performance. The report shall be included as an attachment to the next annual inventory and made publicly available in accordance with subsection (c).
 
->     “(g) __Submission of Service Contract Inventory Before Public-private Competition.—__ 
+>     “(g)  __Submission of Service Contract Inventory Before Public-private Competition__  __.—__ 
 
 >     Notwithstanding any other provision of law, beginning in fiscal year 2011, if an executive agency has not submitted to the Office of Management and Budget the inventory required under subsection (a)(3) for the prior fiscal year, the agency may not begin, plan for, or announce a study or public-private competition regarding the conversion to contractor performance of any function performed by Federal employees pursuant to Office of Management and Budget Circular A–76 or any other administrative regulation or directive until such time as the inventory is submitted for the prior fiscal year.
 
 >     “(h) __GAO Reports on Implementation.—__ 
 
->         “(1) __Report on guidance.—__ 
+>         “(1)  __Report on guidance__  __.—__ 
 
 >         Not later than 120 days after submission of the report by the Director of the Office of Management and Budget required under subsection (a)(2), the Comptroller General of the United States shall report on the guidance issued and actions taken by the Director. The report shall be submitted to the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate and the Committee on Oversight and Government Reform and the Committee on Appropriations of the House of Representatives.
 
 >         “(2) __Reports on inventories.—__ 
 
->             “(A) __Initial inventory.—__ 
+>             “(A)  __Initial inventory__  __.—__ 
 
 >             Not later than September 30, 2011, the Comptroller General of the United States shall submit a report to the Committees named in the preceding paragraph on the initial implementation by executive agencies of the inventory requirement in subsection (a)(3) with respect to inventories required to be submitted by December 31, 2010.
 
->             “(B) __Second inventory.—__ 
+>             “(B)  __Second inventory__  __.—__ 
 
 >             Not later than September 30, 2012, the Comptroller General shall submit a report to the same Committees on annual inventories required to be submitted by December 31, 2011.
 
->         “(3) __Periodic briefings.—__ 
+>         “(3)  __Periodic briefings__  __.—__ 
 
 >         The Comptroller General shall provide periodic briefings, as may be requested by the Committees, on matters related to implementation of this section.
 
->     “(i) __Executive Agency Defined.—__ 
+>     “(i)  __Executive Agency Defined__  __.—__ 
 
 >     In this section, the term ‘executive agency’ has the meaning given the term in section 4 of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 403][/us/usc/t41/s403]) \[see [41 U.S.C. 133][/us/usc/t41/s133]\].”
 
@@ -211,7 +211,7 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 321, Oct. 14, 2008, [122 Stat. 4411][/us/stat/122/4411], provided that:
 
->     “(a) __Development and Implementation.—__ 
+>     “(a)  __Development and Implementation__  __.—__ 
 
 >     The Director of the Office of Management and Budget, in consultation with appropriate representatives of the Chief Acquisition Officers Council under section 16A of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 414b][/us/usc/t41/s414b]) \[now [41 U.S.C. 1311][/us/usc/t41/s1311] et seq.\] and the Chief Human Capital Officers Council under [section 1401 of title 5][/us/usc/t5/s1401], United States Code, shall—
 
@@ -253,7 +253,7 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
 >         “(5) solicit the views of the public regarding the matters identified in this section.
 
->     “(b) __Definitions of Inherently Governmental Function.—__ 
+>     “(b)  __Definitions of Inherently Governmental Function__  __.—__ 
 
 >     The definitions of inherently governmental function described in this subsection are the definitions of such term that are contained in—
 
@@ -267,7 +267,7 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
 >         “(5) any other relevant Federal law or regulation, as determined by the Director of the Office of Management and Budget in consultation with the Chief Acquisition Officers Council and the Chief Human Capital Officers Council.
 
->     “(c) __Report to Congress.—__ 
+>     “(c)  __Report to Congress__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act \[Oct. 14, 2008\], the Director of the Office of Management and Budget, in consultation with the Chief Acquisition Officers Council and the Chief Human Capital Officers Council, shall submit to the Committees on Armed Services of the Senate and House of Representatives, the Committee on Homeland Security and Governmental Affairs in the Senate, and the Committee on Oversight and Government Reform of the House of Representatives a report on the actions taken by the Director under this section. Such report shall contain each of the following:
 
@@ -285,7 +285,7 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
 >             “(C) to develop any necessary implementing guidance under this section for agency staffing and contracting decisions, along with appropriate milestones.
 
->     “(d) __Regulations.—__ 
+>     “(d)  __Regulations__  __.—__ 
 
 >     Not later than 180 days after submission of the report required by subsection (c), the Director of the Office of Management and Budget shall issue regulations to implement actions taken under this section to develop a single definition of inherently governmental function and criteria for critical functions.”
 
@@ -341,13 +341,13 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
 >     “(b) __Guidelines on Insourcing New and Contracted Out Functions.—__ 
 
->         “(1) __Guidelines required.—__ 
+>         “(1)  __Guidelines required__  __.—__ 
 
 >             (A) The heads of executive agencies subject to the Federal Activities Inventory Reform Act of 1998 ([Public Law 105–270][/us/pl/105/270]; [31 U.S.C. 501][/us/usc/t31/s501] note) shall devise and implement guidelines and procedures to ensure that consideration is given to using, on a regular basis, Federal employees to perform new functions and functions that are performed by contractors and could be performed by Federal employees.
 
 >             “(B) The guidelines and procedures required under subparagraph (A) may not include any specific limitation or restriction on the number of functions or activities that may be converted to performance by Federal employees.
 
->         “(2) __Special consideration for certain functions.—__ 
+>         “(2)  __Special consideration for certain functions__  __.—__ 
 
 >         The guidelines and procedures required under paragraph (1) shall provide for special consideration to be given to using Federal employees to perform any function that—
 
@@ -365,7 +365,7 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
 >             “(B) is a new requirement, with particular emphasis given to a new requirement that is similar to a function previously performed by Federal employees or is a function closely associated with the performance of an inherently governmental function.
 
->         “(3) __Exclusion of certain functions from competitions.—__ 
+>         “(3)  __Exclusion of certain functions from competitions__  __.—__ 
 
 >         The head of an executive agency may not conduct a public-private competition under Office of Management and Budget Circular A–76 or any other provision of law or regulation before—
 
@@ -375,13 +375,13 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
 >             “(C) in the case of an agency function performed by Federal employees, expanding the scope of the function.
 
->         “(4) __Deadline.—__ 
+>         “(4)  __Deadline__  __.—__ 
 
 >             (A) The head of each executive agency shall implement the guidelines and procedures required under this subsection by not later than 120 days after the date of the enactment of this subsection \[Mar. 11, 2009\].
 
 >             “(B) Not later than 210 days after the date of the enactment of this subsection, the Government Accountability Office shall submit a report on the implementation of this subsection to the Committees on Appropriations of the House of Representatives and the Senate, the Committee on Oversight and Government Reform of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate.
 
->         “(5) __Definitions.—__ 
+>         “(5)  __Definitions__  __.—__ 
 
 >         In this subsection:
 
@@ -389,11 +389,11 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
 >             “(B) The term ‘functions closely associated with inherently governmental functions’ means the functions described in section 7.503(d) of the Federal Acquisition Regulation.
 
->         “(6) __Applicability.—__ 
+>         “(6)  __Applicability__  __.—__ 
 
 >         This subsection shall not apply to the Department of Defense.
 
->     “(c) __Bid Protests by Federal Employees in Actions Under Office of Management and Budget Circular A–76.—__ 
+>     “(c)  __Bid Protests by Federal Employees in Actions Under Office of Management and Budget Circular A–__  __76.—__ 
 
 >         “(1) __Eligibility to protest.—__ 
 
@@ -407,7 +407,7 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
 >         “(2) __\[Amended__  __[__  __section 1491 of title 28__  __][/us/usc/t28/s1491]__  __, Judiciary and Judicial Procedure.\]__ 
 
->         “(3) __Applicability.—__ 
+>         “(3)  __Applicability__  __.—__ 
 
 >         Subparagraph (B) of [section 3551(2) of title 31][/us/usc/t31/s3551/2], United States Code (as added by paragraph (1)), and paragraph (5) of [section 1491(b) of title 28][/us/usc/t28/s1491/b], United States Code (as added by paragraph (2)), shall apply to—
 
@@ -415,7 +415,7 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
 >             “(B) any other protests and civil actions that relate to public-private competitions initiated under Office of Management and Budget Circular A–76, or a decision to convert a function performed by Federal employees to private sector performance without a competition under Office of Management and Budget Circular A–76, on or after the date of the enactment of this Act \[Dec. 26, 2007\].
 
->     “(d) __Limitation.—__ 
+>     “(d)  __Limitation__  __.—__ 
 
 >         (1)
 
@@ -427,7 +427,7 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
 >         “(2) An action specified in this paragraph is the preparation for, undertaking, continuation of, or completion of a public-private competition or direct conversion under Office of Management and Budget Circular A–76 or any other administrative regulation, directive, or policy.
 
->     “(e) __Applicability.—__ 
+>     “(e)  __Applicability__  __.—__ 
 
 >     This section shall apply with respect to fiscal year 2008 and each succeeding fiscal year.”
 
@@ -463,7 +463,7 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
 [Pub. L. 108–108, title III, § 340(a)][/us/pl/108/108/s340/a], (b), (f), Nov. 10, 2003, [117 Stat. 1315][/us/stat/117/1315], 1317, as amended by [Pub. L. 108–447, div. E, title III, § 332(c)][/us/pl/108/447/s332/c], Dec. 8, 2004, [118 Stat. 3100][/us/stat/118/3100], provided that:
 
->     “(a) __Justification of Competitive Sourcing Activities.—__ 
+>     “(a)  __Justification of Competitive Sourcing Activities__  __.—__ 
 
 >         (1) In each budget submitted by the President to Congress under [section 1105 of title 31][/us/usc/t31/s1105], United States Code, for a fiscal year, beginning with fiscal year 2005, amounts requested to perform competitive sourcing studies for programs, projects, and activities listed in paragraph (2) shall be set forth separately from other amounts requested.
 
@@ -479,7 +479,7 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
 >             \[(b) Repealed. [Pub. L. 108–447, div. E, title III, § 332(c)][/us/pl/108/447/s332/c], Dec. 8, 2004, [118 Stat. 3100][/us/stat/118/3100].\]
 
->     “(f) __Competitive Sourcing Study Defined.—__ 
+>     “(f)  __Competitive Sourcing Study Defined__  __.—__ 
 
 >     In this subsection \[probably means “this section”\], the term ‘competitive sourcing study’ means a study on subjecting work performed by Federal Government employees or private contractors to public-private competition or on converting the Federal Government employees or the work performed by such employees to private contractor performance under the Office of Management and Budget Circular A–76 or any other administrative regulation, directive, or policy.”
 
@@ -491,17 +491,17 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
 [Pub. L. 106–53, title II, § 227][/us/pl/106/53/s227], Aug. 17, 1999, [113 Stat. 298][/us/stat/113/298], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary \[of the Army\] shall comply with the requirements of the Federal Activities Inventory Reform Act of 1998 ([31 U.S.C. 501][/us/usc/t31/s501] note; [Public Law 105–270][/us/pl/105/270]).
 
 >     “(b) __Compliance With Other Law.—__ 
 
->         “(1) __Inventory and review.—__ 
+>         “(1)  __Inventory and review__  __.—__ 
 
 >         In carrying out this section, the Secretary shall inventory and review all activities that are not inherently governmental in nature in accordance with the Federal Activities Inventory Reform Act of 1998.
 
->         “(2) __Architectural and engineering services.—__ 
+>         “(2)  __Architectural and engineering services__  __.—__ 
 
 >         Any review and conversion by the Secretary to performance by private enterprise of an architectural or engineering service (including a surveying or mapping service) shall be carried out in accordance with title IX of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 541][/us/usc/t40/s541] et seq.) \[now sections 1101–1104 of title 40\].”
 
@@ -523,7 +523,7 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
 > “SEC. 2. __ANNUAL LISTS OF GOVERNMENT ACTIVITIES NOT INHERENTLY GOVERNMENTAL IN NATURE.__ 
 
->     “(a) __Lists Required.—__ 
+>     “(a)  __Lists Required__  __.—__ 
 
 >     Not later than the end of the third quarter of each fiscal year, the head of each executive agency shall submit to the Director of the Office of Management and Budget a list of activities performed by Federal Government sources for the executive agency that, in the judgment of the head of the executive agency, are not inherently governmental functions. The entry for an activity on the list shall include the following:
 
@@ -533,13 +533,13 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
 >         “(3) The name of a Federal Government employee responsible for the activity from whom additional information about the activity may be obtained.
 
->     “(b) __OMB Review and Consultation.—__ 
+>     “(b)  __OMB Review and Consultation__  __.—__ 
 
 >     The Director of the Office of Management and Budget shall review the executive agency’s list for a fiscal year and consult with the head of the executive agency regarding the content of the final list for that fiscal year.
 
 >     “(c) __Public Availability of Lists.—__ 
 
->         “(1) __Publication.—__ 
+>         “(1)  __Publication__  __.—__ 
 
 >         Upon the completion of the review and consultation regarding a list of an executive agency—
 
@@ -547,7 +547,7 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
 >             “(B) the Director of the Office of Management and Budget shall promptly publish in the Federal Register a notice that the list is available to the public.
 
->         “(2) __Changes.—__ 
+>         “(2)  __Changes__  __.—__ 
 
 >         If the list changes after the publication of the notice as a result of the resolution of a challenge under section 3, the head of the executive agency shall promptly—
 
@@ -555,21 +555,21 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
 >             “(B) publish in the Federal Register a notice that the change is available to the public.
 
->     “(d) __Competition Required.—__ 
+>     “(d)  __Competition Required__  __.—__ 
 
 >     Within a reasonable time after the date on which a notice of the public availability of a list is published under subsection (c), the head of the executive agency concerned shall review the activities on the list. Each time that the head of the executive agency considers contracting with a private sector source for the performance of such an activity, the head of the executive agency shall use a competitive process to select the source (except as may otherwise be provided in a law other than this Act, an Executive order, regulations, or any executive branch circular setting forth requirements or guidance that is issued by competent executive authority). The Director of the Office of Management and Budget shall issue guidance for the administration of this subsection.
 
->     “(e) __Realistic and Fair Cost Comparisons.—__ 
+>     “(e)  __Realistic and Fair Cost Comparisons__  __.—__ 
 
 >     For the purpose of determining whether to contract with a source in the private sector for the performance of an executive agency activity on the list on the basis of a comparison of the costs of procuring services from such a source with the costs of performing that activity by the executive agency, the head of the executive agency shall ensure that all costs (including the costs of quality assurance, technical monitoring of the performance of such function, liability insurance, employee retirement and disability benefits, and all other overhead costs) are considered and that the costs considered are realistic and fair.
 
 > “SEC. 3. __CHALLENGES TO THE LIST.__ 
 
->     “(a) __Challenge Authorized.—__ 
+>     “(a)  __Challenge Authorized__  __.—__ 
 
 >     An interested party may submit to an executive agency a challenge of an omission of a particular activity from, or an inclusion of a particular activity on, a list for which a notice of public availability has been published under section 2.
 
->     “(b) __Interested Party Defined.—__ 
+>     “(b)  __Interested Party Defined__  __.—__ 
 
 >     For the purposes of this section, the term ‘interested party’, with respect to an activity referred to in subsection (a), means the following:
 
@@ -587,11 +587,11 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
 >         “(4) The head of any labor organization referred to in [section 7103(a)(4) of title 5][/us/usc/t5/s7103/a/4], United States Code, that includes within its membership officers or employees of an organization referred to in paragraph (3).
 
->     “(c) __Time for Submission.—__ 
+>     “(c)  __Time for Submission__  __.—__ 
 
 >     A challenge to a list shall be submitted to the executive agency concerned within 30 days after the publication of the notice of the public availability of the list under section 2.
 
->     “(d) __Initial Decision.—__ 
+>     “(d)  __Initial Decision__  __.—__ 
 
 >     Within 28 days after an executive agency receives a challenge, an official designated by the head of the executive agency shall—
 
@@ -601,49 +601,49 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
 >     “(e) __Appeal.—__ 
 
->         “(1) __Authorization of appeal.—__ 
+>         “(1)  __Authorization of appeal__  __.—__ 
 
 >         An interested party may appeal an adverse decision of the official to the head of the executive agency within 10 days after receiving a notification of the decision under subsection (d).
 
->         “(2) __Decision on appeal.—__ 
+>         “(2)  __Decision on appeal__  __.—__ 
 
 >         Within 10 days after the head of an executive agency receives an appeal of a decision under paragraph (1), the head of the executive agency shall decide the appeal and transmit to the party submitting the appeal a written notification of the decision together with a discussion of the rationale for the decision.
 
 > “SEC. 4. __APPLICABILITY.__ 
 
->     “(a) __Executive Agencies Covered.—__ 
+>     “(a)  __Executive Agencies Covered__  __.—__ 
 
 >     Except as provided in subsection (b), this Act applies to the following executive agencies:
 
->         “(1) __Executive department.—__ 
+>         “(1)  __Executive department__  __.—__ 
 
 >         An executive department named in [section 101 of title 5][/us/usc/t5/s101], United States Code.
 
->         “(2) __Military department.—__ 
+>         “(2)  __Military department__  __.—__ 
 
 >         A military department named in [section 102 of title 5][/us/usc/t5/s102], United States Code.
 
->         “(3) __Independent establishment.—__ 
+>         “(3)  __Independent establishment__  __.—__ 
 
 >         An independent establishment, as defined in [section 104 of title 5][/us/usc/t5/s104], United States Code.
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >     This Act does not apply to or with respect to the following:
 
->         “(1) __Government accountability office.—__ 
+>         “(1)  __Government accountability office__  __.—__ 
 
 >         The Government Accountability Office.
 
->         “(2) __Government corporation.—__ 
+>         “(2)  __Government corporation__  __.—__ 
 
 >         A Government corporation or a Government controlled corporation, as those terms are defined in [section 103 of title 5][/us/usc/t5/s103], United States Code.
 
->         “(3) __Nonappropriated funds instrumentality.—__ 
+>         “(3)  __Nonappropriated funds instrumentality__  __.—__ 
 
 >         A part of a department or agency if all of the employees of that part of the department or agency are employees referred to in [section 2105(c) of title 5][/us/usc/t5/s2105/c], United States Code.
 
->         “(4) __Certain depot-level maintenance and repair.—__ 
+>         “(4)  __Certain depot-level maintenance and repair__  __.—__ 
 
 >         Depot-level maintenance and repair of the Department of Defense (as defined in [section 2460 of title 10][/us/usc/t10/s2460], United States Code).
 
@@ -653,17 +653,17 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
 > “In this Act:
 
->     “(1) __Federal government source.—__ 
+>     “(1)  __Federal government source__  __.—__ 
 
 >     The term ‘Federal Government source’, with respect to performance of an activity, means any organization within an executive agency that uses Federal Government employees to perform the activity.
 
 >     “(2) __Inherently governmental function.—__ 
 
->         “(A) __Definition.—__ 
+>         “(A)  __Definition__  __.—__ 
 
 >         The term ‘inherently governmental function’ means a function that is so intimately related to the public interest as to require performance by Federal Government employees.
 
->         “(B) __Functions included.—__ 
+>         “(B)  __Functions included__  __.—__ 
 
 >         The term includes activities that require either the exercise of discretion in applying Federal Government authority or the making of value judgments in making decisions for the Federal Government, including judgments relating to monetary transactions and entitlements. An inherently governmental function involves, among other things, the interpretation and execution of the laws of the United States so as—
 
@@ -677,7 +677,7 @@ June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of
 
 >             “(v) to exert ultimate control over the acquisition, use, or disposition of the property, real or personal, tangible or intangible, of the United States, including the collection, control, or disbursement of appropriated and other Federal funds.
 
->         “(C) __Functions excluded.—__ 
+>         “(C)  __Functions excluded__  __.—__ 
 
 >         The term does not normally include—
 
@@ -771,15 +771,15 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 103–356, title IV, § 403][/us/pl/103/356/s403], Oct. 13, 1994, [108 Stat. 3413][/us/stat/108/3413], as amended by [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 627\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–360; [Pub. L. 107–67, title VI, § 634][/us/pl/107/67/s634], Nov. 12, 2001, [115 Stat. 553][/us/stat/115/553]; [Pub. L. 108–7, div. J, title VI, § 633][/us/pl/108/7/s633], Feb. 20, 2003, [117 Stat. 471][/us/stat/117/471]; [Pub. L. 108–136, div. A, title XIV, § 1426][/us/pl/108/136/s1426], Nov. 24, 2003, [117 Stat. 1670][/us/stat/117/1670]; [Pub. L. 108–199, div. F, title VI, § 632][/us/pl/108/199/s632], Jan. 23, 2004, [118 Stat. 357][/us/stat/118/357]; [Pub. L. 108–447, div. H, title VI, § 632][/us/pl/108/447/s632], Dec. 8, 2004, [118 Stat. 3280][/us/stat/118/3280]; [Pub. L. 109–90, title V, § 539][/us/pl/109/90/s539], Oct. 18, 2005, [119 Stat. 2088][/us/stat/119/2088]; [Pub. L. 109–115, div. A, title VIII, § 831][/us/pl/109/115/s831], Nov. 30, 2005, [119 Stat. 2503][/us/stat/119/2503]; [Pub. L. 110–161, div. D, title VII, § 730][/us/pl/110/161/s730], Dec. 26, 2007, [121 Stat. 2026][/us/stat/121/2026], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is authorized to be established on a pilot program basis in each of six executive agencies a franchise fund. The Director of the Office of Management and Budget, after consultation with the chairman and ranking members of the Committees on Appropriations and Governmental Affairs of the Senate, and the Committees on Appropriations and Government Operations \[now Committee on Oversight and Government Reform\] of the House of Representatives, shall designate the agencies.
 
->     “(b) __Uses.—__ 
+>     “(b)  __Uses__  __.—__ 
 
 >     Each such fund may provide, consistent with guidelines established by the Director of the Office of Management and Budget, such common administrative support services to the agency and to other agencies as the head of such agency, with the concurrence of the Director, determines can be provided more efficiently through such a fund than by other means. To provide such services, each such fund is authorized to acquire the capital equipment, automated data processing systems, and financial management and management information systems needed. Services shall be provided by such funds on a competitive basis.
 
->     “(c) __Funding.—__ 
+>     “(c)  __Funding__  __.—__ 
 
 >         (1) There are authorized to be appropriated to the franchise fund of each agency designated under subsection (a) such funds as are necessary to carry out the purposes of the fund, to remain available until expended. To the extent that unexpended balances remain available in other accounts for the purposes to be carried out by the fund, the head of the agency may transfer such balances to the fund.
 
@@ -787,7 +787,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(3) Existing inventories, including inventories on order, equipment, and other assets or liabilities pertaining to the purposes of the fund may be transferred to the fund.
 
->     “(d) __Report on Pilot Programs.—__ 
+>     “(d)  __Report on Pilot Programs__  __.—__ 
 
 >     Within 6 months after the end of fiscal year 1997, the Director of the Office of Management and Budget shall forward a report on the results of the pilot programs to the Committees on Appropriations of the Senate and of the House of Representatives, and to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Operations \[now Committee on Oversight and Government Reform\] of the House of Representatives. The report shall contain the financial and program performance results of the pilot programs, including recommendations for—
 
@@ -799,11 +799,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(4) the desirability of extending the application and implementation of franchise funds to other Federal agencies.
 
->     “(e) __Procurement.—__ 
+>     “(e)  __Procurement__  __.—__ 
 
 >     Nothing in this section shall be construed as relieving any agency of any duty under applicable procurement laws.
 
->     “(f) __Termination of Certain Authority.—__ 
+>     “(f)  __Termination of Certain Authority__  __.—__ 
 
 >     The authority of the Secretary of Homeland Security to carry out a pilot program under this section shall terminate on October 1, 2008.”
 
@@ -827,7 +827,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 103–356, title IV, § 404][/us/pl/103/356/s404], Oct. 13, 1994, [108 Stat. 3414][/us/stat/108/3414], as amended by [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 646\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–366; [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title II, § 241\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–303, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     To improve the efficiency of executive branch performance in implementing statutory requirements for financial management reporting to the Congress and its committees, the Director of the Office of Management and Budget may adjust the frequency and due dates of or consolidate any statutorily required reports of agencies to the Office of Management and Budget or the President and of agencies or the Office of Management and Budget to the Congress under any laws for which the Office of Management and Budget has financial management responsibility, including—
 
@@ -835,11 +835,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(2) the Federal Civil Penalties Inflation Adjustment Act of 1990 ([28 U.S.C. 2461][/us/usc/t28/s2461] note; [Public Law 101–410][/us/pl/101/410]; [104 Stat. 890][/us/stat/104/890]).
 
->     “(b) __Application.—__ 
+>     “(b)  __Application__  __.—__ 
 
 >     The authority provided in subsection (a) shall apply only to reports of agencies to the Office of Management and Budget or the President and of agencies or the Office of Management and Budget to the Congress required by statute to be submitted between January 1, 1995, and April 30, 2000.
 
->     “(c) __Adjustments in Reporting.—__ 
+>     “(c)  __Adjustments in Reporting__  __.—__ 
 
 >     The Director may consolidate or adjust the frequency and due dates of any statutorily required reports under subsections (a) and (b) only after—
 
@@ -851,7 +851,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 101–576, title I, § 102][/us/pl/101/576/s102], Nov. 15, 1990, [104 Stat. 2838][/us/stat/104/2838], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds the following:
 
@@ -867,7 +867,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(6) Current financial reporting practices of the Federal Government do not accurately disclose the current and probable future cost of operating and investment decisions, including the future need for cash or other resources, do not permit adequate comparison of actual costs among executive agencies, and do not provide the timely information required for efficient management of programs.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this Act \[see Short Title of 1990 Amendment note above\] are the following:
 

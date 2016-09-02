@@ -811,15 +811,15 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
 [Pub. L. 111–85, title V, § 504][/us/pl/111/85/s504], Oct. 28, 2009, [123 Stat. 2879][/us/stat/123/2879], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Administrative expenses.—__ 
+>         “(1)  __Administrative expenses__  __.—__ 
 
 >         The term ‘administrative expenses’ has the meaning as determined by the Director under subsection (b)(2).
 
->         “(2) __Agency.—__ 
+>         “(2)  __Agency__  __.—__ 
 
 >         The term ‘agency’—
 
@@ -827,21 +827,21 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
 >             “(B) shall not include the District of Columbia government.
 
->         “(3) __Director.—__ 
+>         “(3)  __Director__  __.—__ 
 
 >         The term ‘Director’ means the Director of the Office of Management and Budget.
 
 >     “(b) __Administrative Expenses.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         All agencies shall include a separate category for administrative expenses when submitting their appropriation requests to the Office of Management and Budget for fiscal year 2011 and each fiscal year thereafter.
 
->         “(2) __Administrative expenses determined.—__ 
+>         “(2)  __Administrative expenses determined__  __.—__ 
 
 >         In consultation with the agencies, the Director shall establish and revise as necessary a definition of administration expenses for the purposes of this section. All questions regarding the definition of administrative expenses shall be resolved by the Director.
 
->     “(c) __Budget Submission.—__ 
+>     “(c)  __Budget Submission__  __.—__ 
 
 >     Each budget of the United States Government submitted under [section 1105 of title 31][/us/usc/t31/s1105], United States Code, for fiscal year 2011 and each fiscal year thereafter shall include the amount requested for each agency for administrative expenses.”
 
@@ -857,21 +857,21 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
 >     “(a) __Introduction and Referral of President’s Legislative Proposal.—__ 
 
->         “(1) __Introduction.—__ 
+>         “(1)  __Introduction__  __.—__ 
 
 >         In the case of a legislative proposal submitted by the President pursuant to [section 1105(h) of title 31][/us/usc/t31/s1105/h], United States Code, within the 15-day period specified in paragraph (1) of such section, the Majority Leader of the House of Representatives (or his designee) and the Minority Leader of the House of Representatives (or his designee) shall introduce such proposal (by request), the title of which is as follows: ‘A bill to respond to a medicare funding warning.’ Such bill shall be introduced within 3 legislative days after Congress receives such proposal.
 
->         “(2) __Referral.—__ 
+>         “(2)  __Referral__  __.—__ 
 
 >         Any legislation introduced pursuant to paragraph (1) shall be referred to the appropriate committees of the House of Representatives.
 
 >     “(b) __Direction to the Appropriate House Committees.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In the House, in any year during which the President is required to submit proposed legislation to Congress under [section 1105(h) of title 31][/us/usc/t31/s1105/h], United States Code, the appropriate committees shall report medicare funding legislation by not later than June 30 of such year.
 
->         “(2) __Medicare funding legislation.—__ 
+>         “(2)  __Medicare funding legislation__  __.—__ 
 
 >         For purposes of this section, the term ‘medicare funding legislation’ means—
 
@@ -879,7 +879,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
 >             “(B) any bill the title of which is as follows: ‘A bill to respond to a medicare funding warning.’.
 
->         “(3) __Certification.—__ 
+>         “(3)  __Certification__  __.—__ 
 
 >         With respect to any medicare funding legislation or any amendment to such legislation to respond to a medicare funding warning, the chairman of the Committee on the Budget of the House shall certify—
 
@@ -887,7 +887,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
 >             “(B) with respect to such an amendment, whether the legislation, as amended, would eliminate excess general revenue medicare funding (as defined in section 801(c)) for each fiscal year in such 7-fiscal-year reporting period.
 
->     “(c) __Fallback Procedure for Floor Consideration if the House Fails to Vote on Final Passage by July 30.—__ 
+>     “(c)  __Fallback Procedure for Floor Consideration if the House Fails to Vote on Final Passage by July __  __30.—__ 
 
 >         “(1) After July 30 of any year during which the President is required to submit proposed legislation to Congress under [section 1105(h) of title 31][/us/usc/t31/s1105/h], United States Code, unless the House of Representatives has voted on final passage of any medicare funding legislation for which there is an affirmative certification under subsection (b)(3)(A), then, after the expiration of not less than 30 calendar days (and concurrently 5 legislative days), it is in order to move to discharge any committee to which medicare funding legislation which has such a certification and which has been referred to such committee for 30 calendar days from further consideration of the legislation.
 
@@ -907,15 +907,15 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
 >         “(4) Except to the extent specifically provided in the preceding provisions of this subsection, consideration of any such legislation and amendments thereto (or any conference report thereon) shall be governed by the Rules of the House of Representatives applicable to other bills and resolutions, amendments, and conference reports in similar circumstances.
 
->     “(e) __Legislative Day Defined.—__ 
+>     “(e)  __Legislative Day Defined__  __.—__ 
 
 >     As used in this section, the term ‘legislative day’ means a day on which the House of Representatives is in session.
 
->     “(f) __Restriction on Waiver.—__ 
+>     “(f)  __Restriction on Waiver__  __.—__ 
 
 >     In the House, the provisions of this section may be waived only by a rule or order proposing only to waive such provisions.
 
->     “(g) __Rulemaking Power.—__ 
+>     “(g)  __Rulemaking Power__  __.—__ 
 
 >     The provisions of this section are enacted by the Congress—
 
@@ -929,15 +929,15 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
 >     “(a) __Introduction and Referral of President’s Legislative Proposal.—__ 
 
->         “(1) __Introduction.—__ 
+>         “(1)  __Introduction__  __.—__ 
 
 >         In the case of a legislative proposal submitted by the President pursuant to [section 1105(h) of title 31][/us/usc/t31/s1105/h], United States Code, within the 15-day period specified in paragraph (1) of such section, the Majority Leader and Minority Leader of the Senate (or their designees) shall introduce such proposal (by request), the title of which is as follows: ‘A bill to respond to a medicare funding warning.’ Such bill shall be introduced within 3 days of session after Congress receives such proposal.
 
->         “(2) __Referral.—__ 
+>         “(2)  __Referral__  __.—__ 
 
 >         Any legislation introduced pursuant to paragraph (1) shall be referred to the Committee on Finance.
 
->     “(b) __Medicare Funding Legislation.—__ 
+>     “(b)  __Medicare Funding Legislation__  __.—__ 
 
 >     For purposes of this section, the term ‘medicare funding legislation’ means—
 
@@ -947,7 +947,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
 >     “(c) __Qualification for Special Procedures.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The special procedures set forth in subsections (d) and (e) shall apply to medicare funding legislation, as described in subsection (b), only if the legislation—
 
@@ -955,33 +955,33 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
 >             “(B) contains matter within the jurisdiction of the Committee on Finance in the Senate.
 
->         “(2) __Failure to qualify for special procedures.—__ 
+>         “(2)  __Failure to qualify for special procedures__  __.—__ 
 
 >         If the medicare funding legislation does not satisfy paragraph (1), then the legislation shall be considered under the ordinary procedures of the Standing Rules of the Senate.
 
 >     “(d) __Discharge.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         If the Committee on Finance has not reported medicare funding legislation described in subsection (c)(1) by June 30 of a year in which the President is required to submit medicare funding legislation to Congress under [section 1105(h) of title 31][/us/usc/t31/s1105/h], United States Code, then any Senator may move to discharge the Committee of any single medicare funding legislation measure. Only one such motion shall be in order in any session of Congress.
 
->         “(2) __Debate limits.—__ 
+>         “(2)  __Debate limits__  __.—__ 
 
 >         Debate in the Senate on any such motion to discharge, and all appeals in connection therewith, shall be limited to not more than 2 hours. The time shall be equally divided between, and controlled by, the maker of the motion and the Majority Leader, or their designees, except that in the event the Majority Leader is in favor of such motion, the time in opposition thereto shall be controlled by the Minority Leader or the Minority Leader’s designee. A point of order under this subsection may be made at any time. It is not in order to move to proceed to another measure or matter while such motion (or the motion to reconsider such motion) is pending.
 
->         “(3) __Amendments.—__ 
+>         “(3)  __Amendments__  __.—__ 
 
 >         No amendment to the motion to discharge shall be in order.
 
->         “(4) __Exception if certified legislation enacted.—__ 
+>         “(4)  __Exception if certified legislation enacted__  __.—__ 
 
 >         Notwithstanding paragraph (1), it shall not be in order to discharge the Committee from further consideration of medicare funding legislation pursuant to this subsection during a session of a Congress if the chairman of the Committee on the Budget of the Senate certifies that medicare funding legislation has been enacted that eliminates excess general revenue medicare funding (as defined in section 801(c) \[set out as a note under [section 1395i of Title 42][/us/usc/t42/s1395i], The Public Health and Welfare\]) for each fiscal year in the 7-fiscal-year reporting period.
 
->     “(e) __Consideration.—__ 
+>     “(e)  __Consideration__  __.—__ 
 
 >     After the date on which the Committee on Finance has reported medicare funding legislation described in subsection (c)(1), or has been discharged (under subsection (d)) from further consideration of, such legislation, it is in order (even though a previous motion to the same effect has been disagreed to) for any Member of the Senate to move to proceed to the consideration of such legislation.
 
->     “(f) __Rules of the Senate.—__ 
+>     “(f)  __Rules of the Senate__  __.—__ 
 
 >     This section is enacted by the Senate—
 
@@ -1003,7 +1003,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
 [Pub. L. 106–554, § 1(a)(3)][/us/pl/106/554/s1/a/3] \[title VI, § 624\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–161, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For calendar year 2002 and each year thereafter, the Director of the Office of Management and Budget shall prepare and submit to Congress, with the budget submitted under [section 1105 of title 31][/us/usc/t31/s1105], United States Code, an accounting statement and associated report containing—
 
@@ -1021,11 +1021,11 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
 >         “(3) recommendations for reform.
 
->     “(b) __Notice.—__ 
+>     “(b)  __Notice__  __.—__ 
 
 >     The Director of the Office of Management and Budget shall provide public notice and an opportunity to comment on the statement and report under subsection (a) before the statement and report are submitted to Congress.
 
->     “(c) __Guidelines.—__ 
+>     “(c)  __Guidelines__  __.—__ 
 
 >     To implement this section, the Director of the Office of Management and Budget shall issue guidelines to agencies to standardize—
 
@@ -1033,7 +1033,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
 >         “(2) the format of accounting statements.
 
->     “(d) __Peer Review.—__ 
+>     “(d)  __Peer Review__  __.—__ 
 
 >     The Director of the Office of Management and Budget shall provide for independent and external peer review of the guidelines and each accounting statement and associated report under this section. Such peer review shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).”
 
@@ -1073,15 +1073,15 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 100–448, § 24][/us/pl/100/448/s24], Sept. 28, 1988, [102 Stat. 1847][/us/stat/102/1847], provided that:
 
->     “(a) __Opinion of Congress.—__ 
+>     “(a)  __Opinion of Congress__  __.—__ 
 
 >     It is the opinion of the Congress that the programs and activities of the Coast Guard could be more effectively and efficiently planned and managed if funds for the Coast Guard were provided on a 2-year cycle rather than annually.
 
->     “(b) __Submission of 2-Year Budget by President.—__ 
+>     “(b)  __Submission of __  __2__  __-Year Budget by President__  __.—__ 
 
 >     The President shall include in the budget for fiscal year 1990 submitted to the Congress pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code, a single proposed budget for the Coast Guard for fiscal years 1990 and 1991. Thereafter, the President shall submit a proposed 2-year budget for the Coast Guard every other year.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than October 1, 1988, the Secretary of the department in which the Coast Guard is operating shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate and to the Committee on Merchant Marine and Fisheries and the Committee on Appropriations of the House of Representatives a report containing—
 

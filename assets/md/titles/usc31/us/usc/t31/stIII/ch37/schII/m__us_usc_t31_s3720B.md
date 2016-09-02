@@ -35,11 +35,11 @@
 
 [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VIII, § 845(c)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–65, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] takes effect on the date of enactment of this Act \[Oct. 28, 2000\].
 
->     “(2) __Transition loan deficiency payments.—__ 
+>     “(2)  __Transition loan deficiency payments__  __.—__ 
 
 >     If the producers on a farm lost beneficial interest in a crop during the period beginning March 21, 2000, and ending on the day before the date of enactment of this Act and were ineligible for a marketing assistance loan under subtitle C of the Agricultural Market Transition Act ([7 U.S.C. 7231][/us/usc/t7/s7231] et seq.) because of [section 3720B(a) of title 31][/us/usc/t31/s3720B/a], United States Code, as in effect before the amendment made by subsection (a), the producers shall be eligible for any loan deficiency payment under subtitle C of that Act that was available on the date on which the producers lost beneficial interest in the crop.”
 

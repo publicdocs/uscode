@@ -17,7 +17,7 @@
 
     In this subchapter:
 
-    (1) __Bet or wager.—__ 
+    (1)  __Bet or wager__  __.—__ 
 
     The term “bet or wager”—
 
@@ -77,45 +77,45 @@
 
                     (bb) solely on any single performance of an individual athlete in any single real-world sporting or other event.
 
-    (2) __Business of betting or wagering.—__ 
+    (2)  __Business of betting or wagering__  __.—__ 
 
     The term “business of betting or wagering” does not include the activities of a financial transaction provider, or any interactive computer service or telecommunications service.
 
-    (3) __Designated payment system.—__ 
+    (3)  __Designated payment system__  __.—__ 
 
     The term “designated payment system” means any system utilized by a financial transaction provider that the Secretary and the Board of Governors of the Federal Reserve System, in consultation with the Attorney General, jointly determine, by regulation or order, could be utilized in connection with, or to facilitate, any restricted transaction.
 
-    (4) __Financial transaction provider.—__ 
+    (4)  __Financial transaction provider__  __.—__ 
 
     The term “financial transaction provider” means a creditor, credit card issuer, financial institution, operator of a terminal at which an electronic fund transfer may be initiated, money transmitting business, or international, national, regional, or local payment network utilized to effect a credit transaction, electronic fund transfer, stored value product transaction, or money transmitting service, or a participant in such network, or other participant in a designated payment system.
 
-    (5) __Internet.—__ 
+    (5)  __Internet__  __.—__ 
 
     The term “Internet” means the international computer network of interoperable packet switched data networks.
 
-    (6) __Interactive computer service.—__ 
+    (6)  __Interactive computer service__  __.—__ 
 
     The term “interactive computer service” has the meaning given the term in section 230(f) of the Communications Act of 1934 ([47 U.S.C. 230(f)][/us/usc/t47/s230/f]).
 
-    (7) __Restricted transaction.—__ 
+    (7)  __Restricted transaction__  __.—__ 
 
     The term “restricted transaction” means any transaction or transmittal involving any credit, funds, instrument, or proceeds described in any paragraph of section 5363 which the recipient is prohibited from accepting under section 5363.
 
-    (8) __Secretary.—__ 
+    (8)  __Secretary__  __.—__ 
 
     The term “Secretary” means the Secretary of the Treasury.
 
-    (9) __State.—__ 
+    (9)  __State__  __.—__ 
 
     The term “State” means any State of the United States, the District of Columbia, or any commonwealth, territory, or other possession of the United States.
 
     (10) __Unlawful internet gambling.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The term “unlawful Internet gambling” means to place, receive, or otherwise knowingly transmit a bet or wager by any means which involves the use, at least in part, of the Internet where such bet or wager is unlawful under any applicable Federal or State law in the State or Tribal lands in which the bet or wager is initiated, received, or otherwise made.
 
-        (B) __Intrastate transactions.—__ 
+        (B)  __Intrastate transactions__  __.—__ 
 
         The term “unlawful Internet gambling” does not include placing, receiving, or otherwise transmitting a bet or wager where—
 
@@ -141,7 +141,7 @@
 
                 (IV) the Indian Gaming Regulatory Act ([25 U.S.C. 2701][/us/usc/t25/s2701] et seq.).
 
-        (C) __Intratribal transactions.—__ 
+        (C)  __Intratribal transactions__  __.—__ 
 
         The term “unlawful Internet gambling” does not include placing, receiving, or otherwise transmitting a bet or wager where—
 
@@ -183,29 +183,29 @@
 
         (D) __Interstate horseracing.—__ 
 
-            (i) __In general.—__ 
+            (i)  __In general__  __.—__ 
 
             The term “unlawful Internet gambling” shall not include any activity that is allowed under the Interstate Horseracing Act of 1978 ([15 U.S.C. 3001][/us/usc/t15/s3001] et seq.).
 
-            (ii) __Rule of construction regarding preemption.—__ 
+            (ii)  __Rule of construction regarding preemption__  __.—__ 
 
             Nothing in this subchapter may be construed to preempt any State law prohibiting gambling.
 
-            (iii) __Sense of congress.—__ 
+            (iii)  __Sense of congress__  __.—__ 
 
             It is the sense of Congress that this subchapter shall not change which activities related to horse racing may or may not be allowed under Federal law. This subparagraph is intended to address concerns that this subchapter could have the effect of changing the existing relationship between the Interstate Horseracing Act and other Federal statutes in effect on the date of the enactment of this subchapter. This subchapter is not intended to change that relationship. This subchapter is not intended to resolve any existing disagreements over how to interpret the relationship between the Interstate Horseracing Act and other Federal statutes.
 
-        (E) __Intermediate routing.—__ 
+        (E)  __Intermediate routing__  __.—__ 
 
         The intermediate routing of electronic data shall not determine the location or locations in which a bet or wager is initiated, received, or otherwise made.
 
     (11) __Other terms.—__ 
 
-        (A) __Credit; creditor; credit card; and card issuer.—__ 
+        (A)  __Credit; creditor; credit card; and card issuer__  __.—__ 
 
         The terms “credit”, “creditor”, “credit card”, and “card issuer” have the meanings given the terms in section 103 of the Truth in Lending Act ([15 U.S.C. 1602][/us/usc/t15/s1602]).
 
-        (B) __Electronic fund transfer.—__ 
+        (B)  __Electronic fund transfer__  __.—__ 
 
         The term “electronic fund transfer”—
 
@@ -213,11 +213,11 @@
 
             (ii) includes any fund transfer covered by Article 4A of the Uniform Commercial Code, as in effect in any State.
 
-        (C) __Financial institution.—__ 
+        (C)  __Financial institution__  __.—__ 
 
         The term “financial institution” has the meaning given the term in section 903 of the Electronic Fund Transfer Act, except that such term does not include a casino, sports book, or other business at or through which bets or wagers may be placed or received.
 
-        (D) __Insured depository institution.—__ 
+        (D)  __Insured depository institution__  __.—__ 
 
         The term “insured depository institution”—
 
@@ -225,7 +225,7 @@
 
             (ii) includes an insured credit union (as defined in section 101 of the Federal Credit Union Act).
 
-        (E) __Money transmitting business and money transmitting service.—__ 
+        (E)  __Money transmitting business and money transmitting service__  __.—__ 
 
         The terms “money transmitting business” and “money transmitting service” have the meanings given the terms in section 5330(d) (determined without regard to any regulations prescribed by the Secretary thereunder).
 

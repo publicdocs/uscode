@@ -31,11 +31,11 @@
 
     (c) __Procurements Relating to Coin Production.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary may make contracts, on conditions the Secretary decides are appropriate and are in the public interest, to acquire articles, materials, supplies, and services (including equipment, manufacturing facilities, patents, patent rights, technical knowledge, and assistance) necessary to produce the coins referred to in this title.
 
-        (2) __Domestic control of coinage.—__ 
+        (2)  __Domestic control of coinage__  __.—__ 
 
             (A) Subject to subparagraph (B), in order to protect the national security through domestic control of the coinage process, the Secretary shall acquire only such articles, materials, supplies, and services (including equipment, manufacturing facilities, patents, patent rights, technical knowledge, and assistance) for the production of coins as have been produced or manufactured in the United States unless the Secretary determines it to be inconsistent with the public interest, or the cost to be unreasonable, and publishes in the Federal Register a written finding stating the basis for the determination.
 
@@ -43,11 +43,11 @@
 
         (3) __Determination.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Any determination of the Secretary referred to in paragraph (2) shall not be reviewable in any administrative proceeding or court of the United States.
 
-            (B) __Other rights unaffected.—__ 
+            (B)  __Other rights unaffected__  __.—__ 
 
             This paragraph does not alter or annul any right of review that arises under any provision of any law or regulation of the United States other than paragraph (2).
 

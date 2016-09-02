@@ -15,7 +15,7 @@
 
 ## § 5326. Records of certain domestic coin and currency transactions
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     If the Secretary of the Treasury finds, upon the Secretary’s own initiative or at the request of an appropriate Federal or State law enforcement official, that reasonable grounds exist for concluding that additional recordkeeping and reporting requirements are necessary to carry out the purposes of this subtitle and prevent evasions thereof, the Secretary may issue an order requiring any domestic financial institution or nonfinancial trade or business or group of domestic financial institutions or nonfinancial trades or businesses in a geographic area—
 
@@ -33,7 +33,7 @@
 
     (b) __Authority To Order Depository Institutions To Obtain Reports From Customers.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary of the Treasury may, by regulation or order, require any depository institution (as defined in section 3(c) of the Federal Deposit Insurance Act)—
 
@@ -41,15 +41,15 @@
 
             (B) if no copy of any report described in subparagraph (A) is received by the depository institution in connection with any reportable transaction to which such subparagraph applies, to submit (in addition to any report required under this subtitle with respect to the reportable transaction) a written notice to the Secretary that the financial institution or nonfinancial trade or business failed to provide any copy of such report.
 
-        (2) __Reportable transaction defined.—__ 
+        (2)  __Reportable transaction defined__  __.—__ 
 
         For purposes of this subsection, the term “reportable transaction” means any transaction involving coins or currency (or such other monetary instruments as the Secretary may describe in the regulation or order) the total amounts or denominations of which are equal to or greater than an amount which the Secretary may prescribe.
 
-    (c) __Nondisclosure of Orders.—__ 
+    (c)  __Nondisclosure of Orders__  __.—__ 
 
     No financial institution or nonfinancial trade or business or officer, director, employee or agent of a financial institution or nonfinancial trade or business subject to an order under this section may disclose the existence of, or terms of, the order to any person except as prescribed by the Secretary.
 
-    (d) __Maximum Effective Period for Order.—__ 
+    (d)  __Maximum Effective Period for Order__  __.—__ 
 
     No order issued under subsection (a) shall be effective for more than 180 days unless renewed pursuant to the requirements of subsection (a).
 

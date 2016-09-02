@@ -133,7 +133,7 @@ In clause (1), “agency” (which is defined for purposes of this title in sect
 
 [Pub. L. 103–62, § 2][/us/pl/103/62/s2], Aug. 3, 1993, [107 Stat. 285][/us/stat/107/285], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -143,7 +143,7 @@ In clause (1), “agency” (which is defined for purposes of this title in sect
 
 >         “(3) congressional policymaking, spending decisions and program oversight are seriously handicapped by insufficient attention to program performance and results.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this Act \[see Short Title of 1993 Amendment note set out above\] are to—
 

@@ -15,17 +15,17 @@
 
 ## § 314. Covered agreements
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary and the United States Trade Representative are authorized, jointly, to negotiate and enter into covered agreements on behalf of the United States.
 
     (b) __Requirements for Consultation With Congress.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Before initiating negotiations to enter into a covered agreement under subsection (a), during such negotiations, and before entering into any such agreement, the Secretary and the United States Trade Representative shall jointly consult with the Committee on Financial Services and the Committee on Ways and Means of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on Finance of the Senate.
 
-        (2) __Scope.—__ 
+        (2)  __Scope__  __.—__ 
 
         The consultation described in paragraph (1) shall include consultation with respect to—
 
@@ -35,7 +35,7 @@
 
             (C) the implementation of the agreement, including the general effect of the agreement on existing State laws.
 
-    (c) __Submission and Layover Provisions.—__ 
+    (c)  __Submission and Layover Provisions__  __.—__ 
 
     A covered agreement under subsection (a) may enter into force with respect to the United States only if—
 

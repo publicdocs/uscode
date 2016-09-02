@@ -75,11 +75,11 @@ R.S. § 3644.  </td>
 
 [Pub. L. 106–433, § 3][/us/pl/106/433/s3], Nov. 6, 2000, [114 Stat. 1910][/us/stat/114/1910], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The amendments made by this Act \[amending this section\] shall apply with respect to all mailings of checks or other drafts issued on or after the date which is 3 years after the date of the enactment of this Act \[Nov. 6, 2000\].
 
->     “(b) __Phase-in of Amendments.—__ 
+>     “(b)  __Phase-in of Amendments__  __.—__ 
 
 >     Effective on the date of the enactment of this Act, the Secretary of the Treasury shall commence procedures to gradually implement the amendments made by this Act in advance of the effective date described in subsection (a). Not later than 1 year after the date of the enactment of this Act, and annually thereafter for each of the next 2 years, the Secretary shall transmit to each House of the Congress a report describing the manner and extent to which the requirements of the preceding sentence have been carried out.”
 

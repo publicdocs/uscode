@@ -17,11 +17,11 @@
 
     (a) __International Counter-Money Laundering Requirements.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary of the Treasury may require domestic financial institutions and domestic financial agencies to take 1 or more of the special measures described in subsection (b) if the Secretary finds that reasonable grounds exist for concluding that a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States, or 1 or more types of accounts is of primary money laundering concern, in accordance with subsection (c).
 
-        (2) __Form of requirement.—__ 
+        (2)  __Form of requirement__  __.—__ 
 
         The special measures described in—
 
@@ -31,7 +31,7 @@
 
             (C) subsection (b)(5) may be imposed only by regulation.
 
-        (3) __Duration of orders; rulemaking.—__ 
+        (3)  __Duration of orders; rulemaking__  __.—__ 
 
         Any order by which a special measure described in paragraphs (1) through (4) of subsection (b) is imposed (other than an order described in section 5326)—
 
@@ -39,7 +39,7 @@
 
             (B) may not remain in effect for more than 120 days, except pursuant to a rule promulgated on or before the end of the 120-day period beginning on the date of issuance of such order.
 
-        (4) __Process for selecting special measures.—__ 
+        (4)  __Process for selecting special measures__  __.—__ 
 
         In selecting which special measure or measures to take under this subsection, the Secretary of the Treasury—
 
@@ -57,21 +57,21 @@
 
                 (iv) the effect of the action on United States national security and foreign policy.
 
-        (5) __No limitation on other authority.—__ 
+        (5)  __No limitation on other authority__  __.—__ 
 
         This section shall not be construed as superseding or otherwise restricting any other authority granted to the Secretary, or to any other agency, by this subchapter or otherwise.
 
-    (b) __Special Measures.—__ 
+    (b)  __Special Measures__  __.—__ 
 
     The special measures referred to in subsection (a), with respect to a jurisdiction outside of the United States, financial institution operating outside of the United States, class of transaction within, or involving, a jurisdiction outside of the United States, or 1 or more types of accounts are as follows:
 
         (1) __Recordkeeping and reporting of certain financial transactions.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary of the Treasury may require any domestic financial institution or domestic financial agency to maintain records, file reports, or both, concerning the aggregate amount of transactions, or concerning each transaction, with respect to a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States, or 1 or more types of accounts if the Secretary finds any such jurisdiction, institution, class of transactions, or type of account to be of primary money laundering concern.
 
-            (B) __Form of records and reports.—__ 
+            (B)  __Form of records and reports__  __.—__ 
 
             Such records and reports shall be made and retained at such time, in such manner, and for such period of time, as the Secretary shall determine, and shall include such information as the Secretary may determine, including—
 
@@ -83,11 +83,11 @@
 
                 (iv) a description of any transaction.
 
-        (2) __Information relating to beneficial ownership.—__ 
+        (2)  __Information relating to beneficial ownership__  __.—__ 
 
         In addition to any other requirement under any other provision of law, the Secretary may require any domestic financial institution or domestic financial agency to take such steps as the Secretary may determine to be reasonable and practicable to obtain and retain information concerning the beneficial ownership of any account opened or maintained in the United States by a foreign person (other than a foreign entity whose shares are subject to public reporting requirements or are listed and traded on a regulated exchange or trading market), or a representative of such a foreign person, that involves a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States, or 1 or more types of accounts if the Secretary finds any such jurisdiction, institution, or transaction or type of account to be of primary money laundering concern.
 
-        (3) __Information relating to certain payable-through accounts.—__ 
+        (3)  __Information relating to certain payable-through accounts__  __.—__ 
 
         If the Secretary finds a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, or 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States to be of primary money laundering concern, the Secretary may require any domestic financial institution or domestic financial agency that opens or maintains a payable-through account in the United States for a foreign financial institution involving any such jurisdiction or any such financial institution operating outside of the United States, or a payable through account through which any such transaction may be conducted, as a condition of opening or maintaining such account—
 
@@ -95,7 +95,7 @@
 
             (B) to obtain, with respect to each such customer (and each such representative), information that is substantially comparable to that which the depository institution obtains in the ordinary course of business with respect to its customers residing in the United States.
 
-        (4) __Information relating to certain correspondent accounts.—__ 
+        (4)  __Information relating to certain correspondent accounts__  __.—__ 
 
         If the Secretary finds a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, or 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States to be of primary money laundering concern, the Secretary may require any domestic financial institution or domestic financial agency that opens or maintains a correspondent account in the United States for a foreign financial institution involving any such jurisdiction or any such financial institution operating outside of the United States, or a correspondent account through which any such transaction may be conducted, as a condition of opening or maintaining such account—
 
@@ -103,21 +103,21 @@
 
             (B) to obtain, with respect to each such customer (and each such representative), information that is substantially comparable to that which the depository institution obtains in the ordinary course of business with respect to its customers residing in the United States.
 
-        (5) __Prohibitions or conditions on opening or maintaining certain correspondent or payable-through accounts.—__ 
+        (5)  __Prohibitions or conditions on opening or maintaining certain correspondent or payable-through accounts__  __.—__ 
 
         If the Secretary finds a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, or 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States to be of primary money laundering concern, the Secretary, in consultation with the Secretary of State, the Attorney General, and the Chairman of the Board of Governors of the Federal Reserve System, may prohibit, or impose conditions upon, the opening or maintaining in the United States of a correspondent account or payable-through account by any domestic financial institution or domestic financial agency for or on behalf of a foreign banking institution, if such correspondent account or payable-through account involves any such jurisdiction or institution, or if any such transaction may be conducted through such correspondent account or payable-through account.
 
     (c) __Consultations and Information To Be Considered in Finding Jurisdictions, Institutions, Types of Accounts, or Transactions To Be of Primary Money Laundering Concern.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In making a finding that reasonable grounds exist for concluding that a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States, or 1 or more types of accounts is of primary money laundering concern so as to authorize the Secretary of the Treasury to take 1 or more of the special measures described in subsection (b), the Secretary shall consult with the Secretary of State and the Attorney General.
 
-        (2) __Additional considerations.—__ 
+        (2)  __Additional considerations__  __.—__ 
 
         In making a finding described in paragraph (1), the Secretary shall consider in addition such information as the Secretary determines to be relevant, including the following potentially relevant factors:
 
-            (A) __Jurisdictional factors.—__ 
+            (A)  __Jurisdictional factors__  __.—__ 
 
             In the case of a particular jurisdiction—
 
@@ -135,7 +135,7 @@
 
                 (vii) the extent to which that jurisdiction is characterized by high levels of official or institutional corruption.
 
-            (B) __Institutional factors.—__ 
+            (B)  __Institutional factors__  __.—__ 
 
             In the case of a decision to apply 1 or more of the special measures described in subsection (b) only to a financial institution or institutions, or to a transaction or class of transactions, or to a type of account, or to all 3, within or involving a particular jurisdiction—
 
@@ -145,19 +145,19 @@
 
                 (iii) the extent to which such action is sufficient to ensure, with respect to transactions involving the jurisdiction and institutions operating in the jurisdiction, that the purposes of this subchapter continue to be fulfilled, and to guard against international money laundering and other financial crimes.
 
-    (d) __Notification of Special Measures Invoked by the Secretary.—__ 
+    (d)  __Notification of Special Measures Invoked by the Secretary__  __.—__ 
 
     Not later than 10 days after the date of any action taken by the Secretary of the Treasury under subsection (a)(1), the Secretary shall notify, in writing, the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate of any such action.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     Notwithstanding any other provision of this subchapter, for purposes of this section and subsections (i) and (j) of section 5318, the following definitions shall apply:
 
-        (1) __Bank definitions.—__ 
+        (1)  __Bank definitions__  __.—__ 
 
         The following definitions shall apply with respect to a bank:
 
-            (A) __Account.—__ 
+            (A)  __Account__  __.—__ 
 
             The term “account”—
 
@@ -165,27 +165,27 @@
 
                 (ii) includes a demand deposit, savings deposit, or other transaction or asset account and a credit account or other extension of credit.
 
-            (B) __Correspondent account.—__ 
+            (B)  __Correspondent account__  __.—__ 
 
             The term “correspondent account” means an account established to receive deposits from, make payments on behalf of a foreign financial institution, or handle other financial transactions related to such institution.
 
-            (C) __Payable-through account.—__ 
+            (C)  __Payable-through account__  __.—__ 
 
             The term “payable-through account” means an account, including a transaction account (as defined in section 19(b)(1)(C) of the Federal Reserve Act), opened at a depository institution by a foreign financial institution by means of which the foreign financial institution permits its customers to engage, either directly or through a subaccount, in banking activities usual in connection with the business of banking in the United States.
 
-        (2) __Definitions applicable to institutions other than banks.—__ 
+        (2)  __Definitions applicable to institutions other than banks__  __.—__ 
 
         With respect to any financial institution other than a bank, the Secretary shall, after consultation with the appropriate Federal functional regulators (as defined in section 509 of the Gramm-Leach-Bliley Act), define by regulation the term “account”, and shall include within the meaning of that term, to the extent, if any, that the Secretary deems appropriate, arrangements similar to payable-through and correspondent accounts.
 
-        (3) __Regulatory definition of beneficial ownership.—__ 
+        (3)  __Regulatory definition of beneficial ownership__  __.—__ 
 
         The Secretary shall promulgate regulations defining beneficial ownership of an account for purposes of this section and subsections (i) and (j) of section 5318. Such regulations shall address issues related to an individual’s authority to fund, direct, or manage the account (including, without limitation, the power to direct payments into or out of the account), and an individual’s material interest in the income or corpus of the account, and shall ensure that the identification of individuals under this section or subsection (i) or (j) of section 5318 does not extend to any individual whose beneficial interest in the income or corpus of the account is immaterial.
 
-        (4) __Other terms.—__ 
+        (4)  __Other terms__  __.—__ 
 
         The Secretary may, by regulation, further define the terms in paragraphs (1), (2), and (3), and define other terms for the purposes of this section, as the Secretary deems appropriate.
 
-    (f) __Classified Information.—__ 
+    (f)  __Classified Information__  __.—__ 
 
     In any judicial review of a finding of the existence of a primary money laundering concern, or of the requirement for 1 or more special measures with respect to a primary money laundering concern, made under this section, if the designation or imposition, or both, were based on classified information (as defined in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.), <sup>\[2\]</sup>  <sup><sup> 2 So in original. A second closing parenthesis probably should precede the comma. </sup></sup>  such information may be submitted by the Secretary to the reviewing court ex parte and in camera. This subsection does not confer or imply any right to judicial review of any finding made or any requirement imposed under this section.
 

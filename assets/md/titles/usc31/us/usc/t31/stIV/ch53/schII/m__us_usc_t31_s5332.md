@@ -17,43 +17,43 @@
 
     (a) __Criminal Offense.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Whoever, with the intent to evade a currency reporting requirement under section 5316, knowingly conceals more than $10,000 in currency or other monetary instruments on the person of such individual or in any conveyance, article of luggage, merchandise, or other container, and transports or transfers or attempts to transport or transfer such currency or monetary instruments from a place within the United States to a place outside of the United States, or from a place outside the United States to a place within the United States, shall be guilty of a currency smuggling offense and subject to punishment pursuant to subsection (b).
 
-        (2) __Concealment on person.—__ 
+        (2)  __Concealment on person__  __.—__ 
 
         For purposes of this section, the concealment of currency on the person of any individual includes concealment in any article of clothing worn by the individual or in any luggage, backpack, or other container worn or carried by such individual.
 
     (b) __Penalty.—__ 
 
-        (1) __Term of imprisonment.—__ 
+        (1)  __Term of imprisonment__  __.—__ 
 
         A person convicted of a currency smuggling offense under subsection (a), or a conspiracy to commit such offense, shall be imprisoned for not more than 5 years.
 
-        (2) __Forfeiture.—__ 
+        (2)  __Forfeiture__  __.—__ 
 
         In addition, the court, in imposing sentence under paragraph (1), shall order that the defendant forfeit to the United States, any property, real or personal, involved in the offense, and any property traceable to such property.
 
-        (3) __Procedure.—__ 
+        (3)  __Procedure__  __.—__ 
 
         The seizure, restraint, and forfeiture of property under this section shall be governed by section 413 of the Controlled Substances Act.
 
-        (4) __Personal money judgment.—__ 
+        (4)  __Personal money judgment__  __.—__ 
 
         If the property subject to forfeiture under paragraph (2) is unavailable, and the defendant has insufficient substitute property that may be forfeited pursuant to section 413(p) of the Controlled Substances Act, the court shall enter a personal money judgment against the defendant for the amount that would be subject to forfeiture.
 
     (c) __Civil Forfeiture.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Any property involved in a violation of subsection (a), or a conspiracy to commit such violation, and any property traceable to such violation or conspiracy, may be seized and forfeited to the United States.
 
-        (2) __Procedure.—__ 
+        (2)  __Procedure__  __.—__ 
 
         The seizure and forfeiture shall be governed by the procedures governing civil forfeitures in money laundering cases pursuant to [section 981(a)(1)(A) of title 18][/us/usc/t18/s981/a/1/A], United States Code.
 
-        (3) __Treatment of certain property as involved in the offense.—__ 
+        (3)  __Treatment of certain property as involved in the offense__  __.—__ 
 
         For purposes of this subsection and subsection (b), any currency or other monetary instrument that is concealed or intended to be concealed in violation of subsection (a) or a conspiracy to commit such violation, any article, container, or conveyance used, or intended to be used, to conceal or transport the currency or other monetary instrument, and any other property used, or intended to be used, to facilitate the offense, shall be considered property involved in the offense.
 
@@ -81,7 +81,7 @@
 
 [Pub. L. 107–56, title III, § 371(a)][/us/pl/107/56/s371/a], (b), Oct. 26, 2001, [115 Stat. 336][/us/stat/115/336], 337, provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds the following:
 
@@ -97,7 +97,7 @@
 
 >         “(6) The current penalties for violations of the currency reporting requirements are insufficient to provide a deterrent to the laundering of criminal proceeds. In particular, in cases where the only criminal violation under current law is a reporting offense, the law does not adequately provide for the confiscation of smuggled currency. In contrast, if the smuggling of bulk cash were itself an offense, the cash could be confiscated as the corpus delicti of the smuggling offense.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this section \[enacting this section\] are—
 

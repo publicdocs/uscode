@@ -137,11 +137,11 @@
 
 [Pub. L. 108–330, § 3(b)][/us/pl/108/330/s3/b], (c), Oct. 16, 2004, [118 Stat. 1276][/us/stat/118/1276], provided that:
 
->     “(b) __Appointment or Designation of CFO.—__ 
+>     “(b)  __Appointment or Designation of__  __CFO.—__ 
 
 >     The President shall appoint or designate a Chief Financial Officer of the Department of Homeland Security under the amendment made by subsection (a) \[amending this section\] by not later than 180 days after the date of the enactment of this Act \[Oct. 16, 2004\].
 
->     “(c) __Continued Service of Current Official.—__ 
+>     “(c)  __Continued Service of Current Official__  __.—__ 
 
 >     An individual serving as Chief Financial Officer of the Department of Homeland Security immediately before the enactment of this Act, or another person who is appointed to replace such an individual in an acting capacity after the enactment of this Act, may continue to serve in that position until the date of the confirmation or designation, as applicable (under [section 901(a)(1)(B) of title 31][/us/usc/t31/s901/a/1/B], United States Code), of a successor under the amendment made by subsection (a).”
 
@@ -149,19 +149,19 @@
 
 [Pub. L. 106–58, title VI, § 638(b)][/us/pl/106/58/s638/b]–(e), Sept. 29, 1999, [113 Stat. 475][/us/stat/113/475], provided that:
 
->     “(b) __Plan for Implementation.—__ 
+>     “(b)  __Plan for Implementation__  __.—__ 
 
 >     Not later than 90 days after the effective date of this section \[noon on Jan. 20, 2001\], the President shall communicate in writing, to the Chairmen of the Committees on Appropriations, the Chairman of the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, and the Chairman of the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, a plan for implementation of the provisions of, and amendments made by, this section \[amending this section and sections 503 and 1105 of this title\].
 
->     “(c) __Deadline for Appointment.—__ 
+>     “(c)  __Deadline for Appointment__  __.—__ 
 
 >     The Chief Financial Officer designated or appointed under [section 901(c) of title 31][/us/usc/t31/s901/c], United States Code (as added by subsection (a)), shall be so designated or appointed not later than 180 days after the effective date of this section \[noon on Jan. 20, 2001\].
 
->     “(d) __Pay.—__ 
+>     “(d)  __Pay__  __.—__ 
 
 >     The Chief Financial Officer designated or appointed under such section shall receive basic pay at the rate payable for level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315], United States Code.
 
->     “(e) __Transfer of Functions.—__ 
+>     “(e)  __Transfer of Functions__  __.—__ 
 
 >         (1) The President may transfer such offices, functions, powers, or duties thereof, as the President determines are properly related to the functions of the Chief Financial Officer under [section 901(c) of title 31][/us/usc/t31/s901/c], United States Code (as added by subsection (a)).
 
@@ -177,11 +177,11 @@
 
 [Pub. L. 101–576, title II, § 206][/us/pl/101/576/s206], Nov. 15, 1990, [104 Stat. 2845][/us/stat/104/2845], provided that:
 
->     “(a) __Agency Reviews of Financial Management Activities.—__ 
+>     “(a)  __Agency Reviews of Financial Management Activities__  __.—__ 
 
 >     Not later than 120 days after the date of the enactment of this Act \[Nov. 15, 1990\], the Director of the Office of Management and Budget shall require each agency listed in subsection (b) of [section 901 of title 31][/us/usc/t31/s901], United States Code, as amended by this Act, to conduct a review of its financial management activities for the purpose of consolidating its accounting, budgeting, and other financial management activities under the agency Chief Financial Officer appointed under subsection (a) of that section for the agency.
 
->     “(b) __Reorganization Proposal.—__ 
+>     “(b)  __Reorganization Proposal__  __.—__ 
 
 >     Not later than 120 days after the issuance of requirements under subsection (a) and subject to all laws vesting functions in particular officers and employees of the United States, the head of each agency shall submit to the Director of the Office of Management and Budget a proposal for reorganizing the agency for the purposes of this Act \[see Short Title of 1990 Amendment note set out under [section 501 of this title][/us/usc/t31/s501]\]. Such proposal shall include—
 
@@ -189,11 +189,11 @@
 
 >         “(2) a detailed outline of the administrative structure of the office of the agency Chief Financial Officer, including a description of the responsibility and authority of financial management personnel and resources in agencies or other subdivisions as appropriate to that agency.
 
->     “(c) __Review and Approval of Proposal.—__ 
+>     “(c)  __Review and Approval of Proposal__  __.—__ 
 
 >     Not later than 60 days after receiving a proposal from the head of an agency under subsection (b), the Director of the Office of Management and Budget shall approve or disapprove the proposal and notify the head of the agency of that approval or disapproval. The Director shall approve each proposal which establishes an agency Chief Financial Officer in conformance with [section 901 of title 31][/us/usc/t31/s901], United States Code, as added by this Act, and which establishes a financial management structure reasonably tailored to the functions of the agency. Upon approving or disapproving a proposal of an agency under this section, the Director shall transmit to the head of the agency a written notice of that approval or disapproval.
 
->     “(d) __Implementation of Proposal.—__ 
+>     “(d)  __Implementation of Proposal__  __.—__ 
 
 >     Upon receiving written notice of approval of a proposal under this section from the Director of the Office of Management and Budget, the head of an agency shall implement that proposal.”
 
@@ -201,7 +201,7 @@
 
 [Pub. L. 101–576, title III, § 302][/us/pl/101/576/s302], Nov. 15, 1990, [104 Stat. 2848][/us/stat/104/2848], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established a Chief Financial Officers Council, consisting of—
 
@@ -213,7 +213,7 @@
 
 >         “(4) each of the agency Chief Financial Officers appointed under [section 901 of title 31][/us/usc/t31/s901], United States Code, as amended by this Act.
 
->     “(b) __Functions.—__ 
+>     “(b)  __Functions__  __.—__ 
 
 >     The Chief Financial Officers Council shall meet periodically to advise and coordinate the activities of the agencies of its members on such matters as consolidation and modernization of financial systems, improved quality of financial information, financial data and information standards, internal controls, legislation affecting financial operations and organizations, and any other financial management matter.”
 

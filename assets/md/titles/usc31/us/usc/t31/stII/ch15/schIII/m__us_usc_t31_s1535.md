@@ -291,7 +291,7 @@ May 21, 1920, ch. 194, 41 Stat. 607, § 7(a) (last sentence); added Oct. 15, 1
 
 >     “(a) __Office of Management and Budget Policy Guidance.—__ 
 
->         “(1) __Report and guidelines.—__ 
+>         “(1)  __Report and guidelines__  __.—__ 
 
 >         Not later than one year after the date of the enactment of this Act \[Oct. 14, 2008\], the Director of the Office of Management and Budget shall—
 
@@ -299,7 +299,7 @@ May 21, 1920, ch. 194, 41 Stat. 607, § 7(a) (last sentence); added Oct. 15, 1
 
 >             “(B) issue guidelines to assist the heads of executive agencies in improving the management of interagency acquisitions.
 
->         “(2) __Matters covered by guidelines.—__ 
+>         “(2)  __Matters covered by guidelines__  __.—__ 
 
 >         For purposes of paragraph (1)(B), the Director shall include guidelines on the following matters:
 
@@ -311,7 +311,7 @@ May 21, 1920, ch. 194, 41 Stat. 607, § 7(a) (last sentence); added Oct. 15, 1
 
 >     “(b) __Regulations Required.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than one year after the date of the enactment of this Act \[Oct. 14, 2008\], the Federal Acquisition Regulation shall be revised to require that all interagency acquisitions—
 
@@ -321,15 +321,15 @@ May 21, 1920, ch. 194, 41 Stat. 607, § 7(a) (last sentence); added Oct. 15, 1
 
 >             “(C) include sufficient documentation to ensure an adequate audit.
 
->         “(2) __Multi-agency contracts.—__ 
+>         “(2)  __Multi-agency contracts__  __.—__ 
 
 >         Not later than one year after the date of the enactment of this Act, the Federal Acquisition Regulation shall be revised to require any multi-agency contract entered into by an executive agency after the effective date of such regulations to be supported by a business case analysis detailing the administration of such contract, including an analysis of all direct and indirect costs to the Federal Government of awarding and administering such contract and the impact such contract will have on the ability of the Federal Government to leverage its purchasing power.
 
->     “(c) __Agency Reporting Requirement.—__ 
+>     “(c)  __Agency Reporting Requirement__  __.—__ 
 
 >     The senior procurement executive for each executive agency shall, as directed by the Director of the Office of Management and Budget, submit to the Director annual reports on the actions taken by the executive agency pursuant to the guidelines issued under subsection (a).
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -345,7 +345,7 @@ May 21, 1920, ch. 194, 41 Stat. 607, § 7(a) (last sentence); added Oct. 15, 1
 
 [Pub. L. 108–136, div. A, title X, § 1058][/us/pl/108/136/s1058], Nov. 24, 2003, [117 Stat. 1619][/us/stat/117/1619], provided that:
 
->     “(a) __Review Required.—__ 
+>     “(a)  __Review Required__  __.—__ 
 
 >     The Director of the Office of Management and Budget shall conduct a review of existing authorities regarding the use of Air Force and Air National Guard Modular Airborne Fire-Fighting Systems units and other Department of Defense assets to fight wildfires to ensure that, in accordance with applicable legal requirements, such assets are available in the most expeditious manner to fight wildfires on Federal lands or non-Federal lands at the request of a Federal agency or State government. In conducting the review, the Director shall specifically consider—
 
@@ -353,19 +353,19 @@ May 21, 1920, ch. 194, 41 Stat. 607, § 7(a) (last sentence); added Oct. 15, 1
 
 >         “(2) whether the authorities under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121][/us/usc/t42/s5121] et seq.), including section 403(c) of such Act ([42 U.S.C. 5170b][/us/usc/t42/s5170b]), are being properly utilized to facilitate an expeditious Department of Defense response to State requests under, and consistent with, such Act for firefighting services.
 
->     “(b) __Determination Required.—__ 
+>     “(b)  __Determination Required__  __.—__ 
 
 >     On the basis of the review, the Director shall make a determination regarding whether existing authorities are being used in a manner consistent with using the available capabilities of Department of Defense assets to fight wildfires in the most expeditious and efficacious way to minimize the risk to public safety.
 
->     “(c) __Expedited Economy Act Review Process.—__ 
+>     “(c)  __Expedited Economy Act Review Process__  __.—__ 
 
 >     If the Director determines under subsection (b) that existing authorities are adequate for the deployment of Department of Defense assets to fight wildfires, the Director shall develop and implement, subject to subsection (f), such modifications to the process for conducting the cost comparison required by [section 1535(a)(4) of title 31][/us/usc/t31/s1535/a/4], United States Code, as the Director considers appropriate to further expedite the procurement of such firefighting services.
 
->     “(d) __Development and Implementation of Revised Policies.—__ 
+>     “(d)  __Development and Implementation of Revised Policies__  __.—__ 
 
 >     If the Director determines under subsection (b) that the existing authorities or their use is inadequate or can be improved, the Director shall develop and implement, subject to subsection (f), such regulations, policies, and interagency procedures as may be necessary to improve the ability of the Department of Defense to respond to a request by a Federal agency or State government to assist in fighting wildfires on Federal lands or non-Federal lands under [section 1535(a) of title 31][/us/usc/t31/s1535/a], United States Code, or the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121][/us/usc/t42/s5121] et seq.), or both.
 
->     “(e) __Reporting Requirement.—__ 
+>     “(e)  __Reporting Requirement__  __.—__ 
 
 >     Not later than 120 days after the date of the enactment of this Act \[Nov. 24, 2003\], the Director shall transmit to Congress a report—
 
@@ -373,7 +373,7 @@ May 21, 1920, ch. 194, 41 Stat. 607, § 7(a) (last sentence); added Oct. 15, 1
 
 >         “(2) based on such determination, describing the modifications proposed to be made to existing authorities under subsection (c) or (d), including whether there is a need for legislative changes to further improve the procedures for using Department of Defense assets to fight wildfires.
 
->     “(f) __Delayed Implementation.—__ 
+>     “(f)  __Delayed Implementation__  __.—__ 
 
 >     The modifications described in the report prepared under subsection (e) to be made to existing authorities under subsection (c) or (d) shall not take effect until the end of the 30-day period beginning on the date on which the report is transmitted to Congress.”
 

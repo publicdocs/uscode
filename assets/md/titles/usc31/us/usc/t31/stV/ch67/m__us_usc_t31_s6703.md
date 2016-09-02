@@ -15,7 +15,7 @@
 
 ## § 6703. Qualification for payment
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary shall issue regulations establishing procedures under which eligible units of general local government are required to provide notice to the Secretary of the units’ proposed use of assistance under this chapter. Subject to subsection (c), the assistance provided shall be used, in amounts determined by the unit, for activities under, or for activities that are substantially similar to an activity under, 1 or more of the following programs and the notice shall identify 1 or more of the following programs for each such use:
 
@@ -55,21 +55,21 @@
 
         (18) Job training programs administered by the Department of Agriculture, the Department of Defense, or the Department of Housing and Urban Development.
 
-    (b) __Notice to Agency.—__ 
+    (b)  __Notice to Agency__  __.—__ 
 
     Upon receipt of notice under subsection (a) from an eligible unit of general local government, the Secretary shall notify the head of the appropriate Federal agency for each program listed in subsection (a) that is identified in the notice as a program under which an activity will be conducted with assistance under this chapter. The notification shall state that the unit has elected to use some or all of its assistance under this chapter for activities under that program. The head of a Federal agency that receives such a notification shall ensure that such use is in compliance with the laws and regulations applicable to that program, except that any requirement to provide matching funds shall not apply to that use.
 
     (c) __Alternative Uses of Funds.—__ 
 
-        (1) __Alternative uses authorized.—__ 
+        (1)  __Alternative uses authorized__  __.—__ 
 
         In lieu of, or in addition to, use for an activity described in subsection (a) and notice for that use under subsection (a), an eligible unit of general local government may use assistance under this chapter, and shall provide notice of that use to the Secretary under subsection (a), for any other activity that is consistent with 1 or more of the purposes described in section 6701(a)(2).
 
-        (2) __Notice deemed to describe consistent use.—__ 
+        (2)  __Notice deemed to describe consistent use__  __.—__ 
 
         Notice by a unit of general local government that it intends to use assistance under this chapter for an activity other than an activity described in subsection (a) is deemed to describe an activity that is consistent with 1 or more of the purposes described in section 6701(a)(2) unless the Secretary provides to the unit, within 30 days after receipt of that notice of intent from the unit, written notice (including an explanation) that the use is not consistent with those purposes.
 
-    (d) __General Requirements for Qualification.—__ 
+    (d)  __General Requirements for Qualification__  __.—__ 
 
     A unit of general local government qualifies for a payment under this chapter for a payment period only after establishing to the satisfaction of the Secretary that—
 
@@ -91,13 +91,13 @@
 
         (9) the government will spend the funds only for the purposes set forth in section 6701(a)(2).
 
-    (e) __Review by Governors.—__ 
+    (e)  __Review by Governors__  __.—__ 
 
     A unit of general local government shall give the chief executive officer of the State in which the government is located an opportunity for review and comment before establishing compliance with subsection (d).
 
     (f) __Sanctions for Noncompliance.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         If the Secretary decides that a unit of general local government has not complied substantially with subsection (d) or regulations prescribed under subsection (d), the Secretary shall notify the government. The notice shall state that if the government does not take corrective action by the 60th day after the date the government receives the notice, the Secretary will withhold additional payments to the government for the current payment period and later payment periods until the Secretary is satisfied that the government—
 
@@ -105,11 +105,11 @@
 
             (B) will comply with subsection (d) and regulations prescribed under subsection (d).
 
-        (2) __Notice.—__ 
+        (2)  __Notice__  __.—__ 
 
         Before giving notice under paragraph (1), the Secretary shall give the chief executive officer of the unit of general local government reasonable notice and an opportunity for comment.
 
-        (3) __Payment conditions.—__ 
+        (3)  __Payment conditions__  __.—__ 
 
         The Secretary may make a payment to a unit of general local government notified under paragraph (1) only if the Secretary is satisfied that the government—
 

@@ -93,7 +93,7 @@
 
             (C) as the Secretary of the Treasury shall provide by regulation for purposes of sections 5316 and 5331, checks, drafts, notes, money orders, and other similar instruments which are drawn on or by a foreign financial institution and are not in bearer form.
 
-        (4) __Nonfinancial trade or business.—__ 
+        (4)  __Nonfinancial trade or business__  __.—__ 
 
         The term “nonfinancial trade or business” means any trade or business other than a financial institution that is subject to the reporting requirements of section 5313 and regulations prescribed under such section.
 
@@ -109,11 +109,11 @@
 
         (2) “foreign financial agency” and “foreign financial institution” apply to an action outside the United States of a financial agency or institution.
 
-    (c) __Additional Definitions.—__ 
+    (c)  __Additional Definitions__  __.—__ 
 
     For purposes of this subchapter, the following definitions shall apply:
 
-        (1)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. No par. (2) has been enacted.__  __ </sup></sup> __  __Certain institutions included in definition.—__ 
+        (1)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. No par. (2) has been enacted.__  __ </sup></sup> __   __Certain institutions included in definition__  __.—__ 
 
         The term “financial institution” (as defined in subsection (a)) includes the following:
 

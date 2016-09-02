@@ -15,7 +15,7 @@
 
 ## § 6714. Compliance agreements
 
-    (a) __Types of Compliance Agreements.—__ 
+    (a)  __Types of Compliance Agreements__  __.—__ 
 
     A compliance agreement is an agreement—
 
@@ -23,7 +23,7 @@
 
         (2) between the Secretary and the chief executive officer.
 
-    (b) __Contents of Agreements.—__ 
+    (b)  __Contents of Agreements__  __.—__ 
 
     A compliance agreement—
 
@@ -33,7 +33,7 @@
 
         (3) may be a series of agreements that dispose of those matters.
 
-    (c) __Availability of Agreements to Parties.—__ 
+    (c)  __Availability of Agreements to Parties__  __.—__ 
 
     The Secretary shall submit a copy of a compliance agreement to each person who filed a complaint referred to in section 6716(b), or, if an agreement under subsection (a)(1), each person who filed a complaint with a governmental authority, about a failure to comply with section 6711(a) or (b). The Secretary shall submit the copy by the 15th day after an agreement is made. However, if the Secretary approves an agreement under subsection (a)(1) after the agreement is made, the Secretary may submit the copy by the 15th day after approval of the agreement.
 

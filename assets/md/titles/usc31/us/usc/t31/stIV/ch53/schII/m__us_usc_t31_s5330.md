@@ -17,7 +17,7 @@
 
     (a) __Registration With Secretary of the Treasury Required.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Any person who owns or controls a money transmitting business shall register the business (whether or not the business is licensed as a money transmitting business in any State) with the Secretary of the Treasury not later than the end of the 180-day period beginning on the later of—
 
@@ -25,19 +25,19 @@
 
             (B) the date on which the business is established.
 
-        (2) __Form and manner of registration.—__ 
+        (2)  __Form and manner of registration__  __.—__ 
 
         Subject to the requirements of subsection (b), the Secretary of the Treasury shall prescribe, by regulation, the form and manner for registering a money transmitting business pursuant to paragraph (1).
 
-        (3) __Businesses remain subject to state law.—__ 
+        (3)  __Businesses remain subject to state law__  __.—__ 
 
         This section shall not be construed as superseding any requirement of State law relating to money transmitting businesses operating in such State.
 
-        (4) __False and incomplete information.—__ 
+        (4)  __False and incomplete information__  __.—__ 
 
         The filing of false or materially incomplete information in connection with the registration of a money transmitting business shall be considered as a failure to comply with the requirements of this subchapter.
 
-    (b) __Contents of Registration.—__ 
+    (b)  __Contents of Registration__  __.—__ 
 
     The registration of a money transmitting business under subsection (a) shall include the following information:
 
@@ -61,7 +61,7 @@
 
     (c) __Agents of Money Transmitting Businesses.—__ 
 
-        (1) __Maintenance of lists of agents of money transmitting businesses.—__ 
+        (1)  __Maintenance of lists of agents of money transmitting businesses__  __.—__ 
 
         Pursuant to regulations which the Secretary of the Treasury shall prescribe, each money transmitting business shall—
 
@@ -69,15 +69,15 @@
 
             (B) make the list and other information available on request to any appropriate law enforcement agency.
 
-        (2) __Treatment of agent as money transmitting business.—__ 
+        (2)  __Treatment of agent as money transmitting business__  __.—__ 
 
         The Secretary of the Treasury shall prescribe regulations establishing, on the basis of such criteria as the Secretary determines to be appropriate, a threshold point for treating an agent of a money transmitting business as a money transmitting business for purposes of this section.
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     For purposes of this section, the following definitions shall apply:
 
-        (1) __Money transmitting business.—__ 
+        (1)  __Money transmitting business__  __.—__ 
 
         The term “money transmitting business” means any business other than the United States Postal Service which—
 
@@ -87,21 +87,21 @@
 
             (C) is not a depository institution (as defined in section 5313(g)).
 
-        (2) __Money transmitting service.—__ 
+        (2)  __Money transmitting service__  __.—__ 
 
         The term “money transmitting service” includes accepting currency or funds denominated in the currency of any country and transmitting the currency or funds, or the value of the currency or funds, by any means through a financial agency or institution, a Federal reserve bank or other facility of the Board of Governors of the Federal Reserve System, or an electronic funds transfer network.
 
     (e) __Civil Penalty for Failure To Comply With Registration Requirements.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Any person who fails to comply with any requirement of this section or any regulation prescribed under this section shall be liable to the United States for a civil penalty of $5,000 for each such violation.
 
-        (2) __Continuing violation.—__ 
+        (2)  __Continuing violation__  __.—__ 
 
         Each day a violation described in paragraph (1) continues shall constitute a separate violation for purposes of such paragraph.
 
-        (3) __Assessments.—__ 
+        (3)  __Assessments__  __.—__ 
 
         Any penalty imposed under this subsection shall be assessed and collected by the Secretary of the Treasury in the manner provided in section 5321 and any such assessment shall be subject to the provisions of such section.
 
@@ -121,7 +121,7 @@
 
 [Pub. L. 103–325, title IV, § 408(a)][/us/pl/103/325/s408/a], Sept. 23, 1994, [108 Stat. 2249][/us/stat/108/2249], provided that:
 
->     “(1) __Findings.—__ 
+>     “(1)  __Findings__  __.—__ 
 
 >     The Congress hereby finds the following:
 
@@ -137,7 +137,7 @@
 
 >         “(C) Information on the identity of money transmitting businesses and the names of the persons who own or control, or are officers or employees of, a money transmitting business would have a high degree of usefulness in criminal, tax, or regulatory investigations and proceedings.
 
->     “(2) __Purpose.—__ 
+>     “(2)  __Purpose__  __.—__ 
 
 >     It is the purpose of this section \[enacting this section and amending [section 1960 of Title 18][/us/usc/t18/s1960], Crimes and Criminal Procedure\] to establish a registration requirement for businesses engaged in providing check cashing, currency exchange, or money transmitting or remittance services, or issuing or redeeming money orders, travelers’ checks, and other similar instruments to assist the Secretary of the Treasury, the Attorney General, and other supervisory and law enforcement agencies to effectively enforce the criminal, tax, and regulatory laws and prevent such money transmitting businesses from engaging in illegal activities.”
 

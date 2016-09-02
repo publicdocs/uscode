@@ -15,17 +15,17 @@
 
 ## § 310. Financial Crimes Enforcement Network
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Financial Crimes Enforcement Network established by order of the Secretary of the Treasury (Treasury Order Numbered 105–08, in this section referred to as “FinCEN”) on April 25, 1990, shall be a bureau in the Department of the Treasury.
 
     (b) __Director.—__ 
 
-        (1) __Appointment.—__ 
+        (1)  __Appointment__  __.—__ 
 
         The head of FinCEN shall be the Director, who shall be appointed by the Secretary of the Treasury.
 
-        (2) __Duties and powers.—__ 
+        (2)  __Duties and powers__  __.—__ 
 
         The duties and powers of the Director are as follows:
 
@@ -75,7 +75,7 @@
 
             (J) Such other duties and powers as the Secretary of the Treasury may delegate or prescribe.
 
-    (c) __Requirements Relating to Maintenance and Use of Data Banks.—__ 
+    (c)  __Requirements Relating to Maintenance and Use of Data Banks__  __.—__ 
 
     The Secretary of the Treasury shall establish and maintain operating procedures with respect to the government-wide data access service and the financial crimes communications center maintained by FinCEN which provide—
 
@@ -99,33 +99,33 @@
 
             (C) how information about activities or relationships which involve or are closely associated with the exercise of constitutional rights is to be screened out of the data maintenance system.
 
-    (d) __Authorization of Appropriations.—__ 
+    (d)  __Authorization of Appropriations__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         There are authorized to be appropriated for FinCEN $100,419,000 for fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 and 2013.
 
-        (2) __Authorization for funding key technological improvements in mission-critical fincen systems.—__ 
+        (2)  __Authorization for funding key technological improvements in mission-critical fincen systems__  __.—__ 
 
         There are authorized to be appropriated for fiscal year 2005 the following amounts, which are authorized to remain available until expended:
 
-            (A) __BSA direct.—__ 
+            (A) __BSA__  __direct__  __.—__ 
 
             For technological improvements to provide authorized law enforcement and financial regulatory agencies with Web-based access to FinCEN data, to fully develop and implement the highly secure network required under [section 362 of Public Law 107–56][/us/pl/107/56/s362] to expedite the filing of, and reduce the filing costs for, financial institution reports, including suspicious activity reports, collected by FinCEN under chapter 53 and related provisions of law, and enable FinCEN to immediately alert financial institutions about suspicious activities that warrant immediate and enhanced scrutiny, and to provide and upgrade advanced information-sharing technologies to materially improve the Government’s ability to exploit the information in the FinCEN data banks, $16,500,000.
 
-            (B) __Advanced analytical technologies.—__ 
+            (B)  __Advanced analytical technologies__  __.—__ 
 
             To provide advanced analytical tools needed to ensure that the data collected by FinCEN under chapter 53 and related provisions of law are utilized fully and appropriately in safeguarding financial institutions and supporting the war on terrorism, $5,000,000.
 
-            (C) __Data networking modernization.—__ 
+            (C)  __Data networking modernization__  __.—__ 
 
             To improve the telecommunications infrastructure to support the improved capabilities of the FinCEN systems, $3,000,000.
 
-            (D) __Enhanced compliance capability.—__ 
+            (D)  __Enhanced compliance capability__  __.—__ 
 
             To improve the effectiveness of the Office of Compliance in FinCEN, $3,000,000.
 
-            (E) __Detection and prevention of financial crimes and terrorism.—__ 
+            (E)  __Detection and prevention of financial crimes and terrorism__  __.—__ 
 
             To provide development of, and training in the use of, technology to detect and prevent financial crimes and terrorism within and without the United States, $8,000,000.
 
@@ -161,7 +161,7 @@
 
 [Pub. L. 107–56, title III, § 362][/us/pl/107/56/s362], Oct. 26, 2001, [115 Stat. 332][/us/stat/115/332], as amended by [Pub. L. 108–458, title VI, § 6202(m)][/us/pl/108/458/s6202/m], Dec. 17, 2004, [118 Stat. 3746][/us/stat/118/3746], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary \[of the Treasury\] shall establish a highly secure network in the Financial Crimes Enforcement Network that—
 
@@ -169,7 +169,7 @@
 
 >         “(2) provides financial institutions with alerts and other information regarding suspicious activities that warrant immediate and enhanced scrutiny.
 
->     “(b) __Expedited Development.—__ 
+>     “(b)  __Expedited Development__  __.—__ 
 
 >     The Secretary shall take such action as may be necessary to ensure that the secure network required under subsection (a) is fully operational before the end of the 9-month period beginning on the date of enactment of this Act \[Oct. 26, 2001\].”
 

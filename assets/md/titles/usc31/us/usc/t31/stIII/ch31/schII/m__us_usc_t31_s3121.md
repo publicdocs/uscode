@@ -447,7 +447,7 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, § 28; added Sept. 3, 1982, Pub. L. 97�
 
 [Pub. L. 103–202, title II, § 202][/us/pl/103/202/s202], Dec. 17, 1993, [107 Stat. 2356][/us/stat/107/2356], provided that:
 
->     “(a) __Ability to Submit Computer Tenders in Treasury Auctions.—__ 
+>     “(a)  __Ability to Submit Computer Tenders in Treasury Auctions__  __.—__ 
 
 >     By the end of 1995, any bidder shall be permitted to submit a computer-generated tender to any automated auction system established by the Secretary of the Treasury for the sale upon issuance of securities issued by the Secretary if the bidder—
 
@@ -457,13 +457,13 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, § 28; added Sept. 3, 1982, Pub. L. 97�
 
 >     “(b) __Prohibition on Favored Players.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         No government securities broker or government securities dealer may receive any advantage, favorable treatment, or other benefit, in connection with the purchase upon issuance of securities issued by the Secretary of the Treasury, which is not generally available to other government securities brokers or government securities dealers under the regulations governing the sale upon issuance of securities issued by the Secretary of the Treasury.
 
 >         “(2) __Exception.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary of the Treasury may grant an exception to the application of paragraph (1) if—
 
@@ -471,7 +471,7 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, § 28; added Sept. 3, 1982, Pub. L. 97�
 
 >                 “(ii) the grant of the exception is designed to minimize any anticompetitive effect.
 
->             “(B) __Annual report.—__ 
+>             “(B)  __Annual report__  __.—__ 
 
 >             The Secretary of the Treasury shall submit an annual report to the Congress describing any exception granted by the Secretary under subparagraph (A) during the year covered by the report and the basis upon which the exception was granted.
 
@@ -479,11 +479,11 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, § 28; added Sept. 3, 1982, Pub. L. 97�
 
 >         “(1) __Open meetings.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subparagraph (B), any meeting of the Treasury Borrowing Advisory Committee of the Public Securities Association (hereafter in this subsection referred to as the ‘advisory committee’), or any successor to the advisory committee, shall be open to the public.
 
->             “(B) __Exception.—__ 
+>             “(B)  __Exception__  __.—__ 
 
 >             Subparagraph (A) shall not apply with respect to any part of any meeting of the advisory committee in which the advisory committee—
 
@@ -491,17 +491,17 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, § 28; added Sept. 3, 1982, Pub. L. 97�
 
 >                 “(ii) makes recommendations to the Secretary.
 
->         “(2) __Minutes of each meeting.—__ 
+>         “(2)  __Minutes of each meeting__  __.—__ 
 
 >         The detailed minutes required to be maintained under section 10(c) of the Federal Advisory Committee Act \[5 U.S.C. App.\] for any meeting by the advisory committee shall be made available to the public within 3 business days of the date of the meeting.
 
->         “(3) __Prohibition on receipt of gratuities or expenses by any officer or employee of the board or department.—__ 
+>         “(3)  __Prohibition on receipt of gratuities or expenses by any officer or employee of the board or department__  __.—__ 
 
 >         In connection with any meeting of the advisory committee, no officer or employee of the Department of the Treasury, the Board of Governors of the Federal Reserve System, or any Federal reserve bank may accept any gratuity, consideration, expense of any sort, or any other thing of value from any advisory committee described in subsection (c), any member of such committee, or any other person.
 
 >         “(4) __Prohibition on outside discussions.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Subject to subparagraph (B), a member of the advisory committee may not discuss any part of any discussion, debate, or recommendation at a meeting of the advisory committee which occurs while such meeting is closed to the public (in accordance with paragraph (1)(B)) with, or disclose the contents of such discussion, debate, or recommendation to, anyone other than—
 
@@ -509,7 +509,7 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, § 28; added Sept. 3, 1982, Pub. L. 97�
 
 >                 “(ii) an officer or employee of the Department of the Treasury.
 
->             “(B) __Applicable period of prohibition.—__ 
+>             “(B)  __Applicable period of prohibition__  __.—__ 
 
 >             The prohibition contained in subparagraph (A) on discussions and disclosures of any discussion, debate, or recommendation at a meeting of the advisory committee shall cease to apply—
 
@@ -517,7 +517,7 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, § 28; added Sept. 3, 1982, Pub. L. 97�
 
 >                 “(ii) with respect to any other discussion, debate, or recommendation at the meeting, at the time the Secretary releases the minutes of the meeting in accordance with paragraph (2).
 
->             “(C) __Removal from advisory committee for violations of this paragraph.—__ 
+>             “(C)  __Removal from advisory committee for violations of this paragraph__  __.—__ 
 
 >             In addition to any penalty or enforcement action to which a person who violates a provision of this paragraph may be subject under any other provision of law, the Secretary of the Treasury shall—
 
@@ -527,7 +527,7 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, § 28; added Sept. 3, 1982, Pub. L. 97�
 
 >     “(d) __Report to Congress.—__ 
 
->         “(1) __Report required.—__ 
+>         “(1)  __Report required__  __.—__ 
 
 >         The Secretary of the Treasury shall submit an annual report to the Congress containing the following information with respect to material violations or suspected material violations of regulations of the Secretary relating to auctions and other offerings of securities upon the issuance of such securities by the Secretary:
 
@@ -537,7 +537,7 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, § 28; added Sept. 3, 1982, Pub. L. 97�
 
 >             “(C) A brief description of any action taken by the Secretary during such year with respect to any such violation, including any referrals made to the Attorney General, the Securities and Exchange Commission, any other law enforcement agency, and any Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act \[[12 U.S.C. 1813][/us/usc/t12/s1813]\]).
 
->         “(2) __Delay in disclosure of information in certain cases.—__ 
+>         “(2)  __Delay in disclosure of information in certain cases__  __.—__ 
 
 >         The Secretary of the Treasury shall not be required to include in a report under paragraph (1) any information the disclosure of which could jeopardize an investigation by an agency described in paragraph (1)(C) for so long as such disclosure could jeopardize the investigation.”
 

@@ -17,11 +17,11 @@
 
     (a) __Performance Improvement Officers.—__ 
 
-        (1) __Establishment.—__ 
+        (1)  __Establishment__  __.—__ 
 
         At each agency, the head of the agency, in consultation with the agency Chief Operating Officer, shall designate a senior executive of the agency as the agency Performance Improvement Officer.
 
-        (2) __Function.—__ 
+        (2)  __Function__  __.—__ 
 
         Each Performance Improvement Officer shall report directly to the Chief Operating Officer. Subject to the direction of the Chief Operating Officer, each Performance Improvement Officer shall—
 
@@ -39,7 +39,7 @@
 
     (b) __Performance Improvement Council.—__ 
 
-        (1) __Establishment.—__ 
+        (1)  __Establishment__  __.—__ 
 
         There is established a Performance Improvement Council, consisting of—
 
@@ -51,7 +51,7 @@
 
             (D) other individuals as determined appropriate by the chairperson.
 
-        (2) __Function.—__ 
+        (2)  __Function__  __.—__ 
 
         The Performance Improvement Council shall—
 
@@ -77,11 +77,11 @@
 
         (3) __Support.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Administrator of General Services shall provide administrative and other support for the Council to implement this section.
 
-            (B) __Personnel.—__ 
+            (B)  __Personnel__  __.—__ 
 
             The heads of agencies with Performance Improvement Officers serving on the Council shall, as appropriate and to the extent permitted by law, provide at the request of the chairperson of the Performance Improvement Council up to 2 personnel authorizations to serve at the direction of the chairperson.
 

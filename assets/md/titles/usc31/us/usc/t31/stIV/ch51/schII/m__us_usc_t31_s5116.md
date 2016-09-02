@@ -241,11 +241,11 @@ In subsection (a)(1), the words “With the approval of the President” are app
 
 [Pub. L. 107–201, § 3(c)][/us/pl/107/201/s3/c], July 23, 2002, [116 Stat. 737][/us/stat/116/737], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Director of the United States Mint shall prepare and submit to Congress an annual report on the purchases of silver made pursuant to this Act \[amending this section and enacting provisions set out as notes under this section and sections 5101 and 5112 of this title\] and the amendments made by this Act.
 
->     “(2) __Concurrent submission.—__ 
+>     “(2)  __Concurrent submission__  __.—__ 
 
 >     The report required by paragraph (1) may be incorporated into the annual report of the Director of the United States Mint on the operations of the mint and assay offices, referred to in [section 1329 of title 44][/us/usc/t44/s1329], United States Code.”
 

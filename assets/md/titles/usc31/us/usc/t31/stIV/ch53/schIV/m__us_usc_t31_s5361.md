@@ -15,7 +15,7 @@
 
 ## § 5361. Congressional findings and purpose
 
-    (a) __Findings.—__ 
+    (a)  __Findings__  __.—__ 
 
     Congress finds the following:
 
@@ -27,7 +27,7 @@
 
         (4) New mechanisms for enforcing gambling laws on the Internet are necessary because traditional law enforcement mechanisms are often inadequate for enforcing gambling prohibitions or regulations on the Internet, especially where such gambling crosses State or national borders.
 
-    (b) __Rule of Construction.—__ 
+    (b)  __Rule of Construction__  __.—__ 
 
     No provision of this subchapter shall be construed as altering, limiting, or extending any Federal or State law or Tribal-State compact prohibiting, permitting, or regulating gambling within the United States.
 
@@ -37,7 +37,7 @@
 
 [Pub. L. 109–347, title VIII, § 803][/us/pl/109/347/s803], Oct. 13, 2006, [120 Stat. 1962][/us/stat/120/1962], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In deliberations between the United States Government and any foreign country on money laundering, corruption, and crime issues, the United States Government should—
 
@@ -47,7 +47,7 @@
 
 >         “(3) encourage the Financial Action Task Force on Money Laundering, in its annual report on money laundering typologies, to study the extent to which Internet gambling operations are being used for money laundering purposes.
 
->     “(b) __Report Required.—__ 
+>     “(b)  __Report Required__  __.—__ 
 
 >     The Secretary of the Treasury shall submit an annual report to the Congress on any deliberations between the United States and other countries on issues relating to Internet gambling.”
 

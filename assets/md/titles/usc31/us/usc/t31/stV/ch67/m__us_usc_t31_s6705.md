@@ -15,21 +15,21 @@
 
 ## § 6705. Local government allocations
 
-    (a) __Indian Tribes and Alaskan Natives Villages.—__ 
+    (a)  __Indian Tribes and Alaskan Natives Villages__  __.—__ 
 
     If there is in a State an Indian tribe or Alaskan native  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  village having a recognized governing body carrying out substantial governmental duties and powers, the Secretary shall allocate to the tribe or village, out of the amount allocated to the State under section 6704, an amount bearing the same ratio to the amount allocated to the State as the population of the tribe or village bears to the population of the State. The Secretary shall allocate amounts under this subsection to Indian tribes and Alaskan native  <sup>\[1\]</sup>  villages in a State before allocating amounts to units of general local government in the State under subsection (c). For the payment period beginning October 1, 1994, the Secretary shall use as the population of each Indian tribe or Alaskan native  <sup>\[1\]</sup>  village the population for 1991 as reported by the Bureau of Indian Affairs in the publication Indian Service Population and Labor Force Estimates (January 1991). In addition to uses authorized under section 6701(a)(2), amounts allocated under this subsection and paid to an Indian tribe or Alaskan native  <sup>\[1\]</sup>  village under this chapter may be used for renovating or building prisons or other correctional facilities.
 
-    (b) __Newly Incorporated Local Governments and Annexed Governments.—__ 
+    (b)  __Newly Incorporated Local Governments and Annexed Governments__  __.—__ 
 
     If there is in a State a unit of general local government that has been incorporated since the date of the collection of the data used by the Secretary in making allocations pursuant to sections 6704 through 6706 and 6708, the Secretary shall allocate to this newly incorporated local government, out of the amount allocated to the State under section 6704, an amount bearing the same ratio to the amount allocated to the State as the population of the newly incorporated local government bears to the population of the State. If there is in the State a unit of general local government that has been annexed since the date of the collection of the data used by the Secretary in making allocations pursuant to sections 6704 through 6706 and 6708, the Secretary shall pay the amount that would have been allocated to this local government to the unit of general local government that annexed it.
 
     (c) __Other Local Government Allocations.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall allocate among the units of general local government in a State (other than units receiving allocations under subsection (a)) the amount allocated to the State under section 6704 (as that amount is reduced by allocations under subsection (a)). Of the amount to be allocated, the Secretary shall allocate a portion equal to ½ of such amount in accordance with section 6706(1), and shall allocate a portion equal to ½ of such amount in accordance with section 6706(2). A unit of general local government shall receive an amount equal to the sum of amounts allocated to the unit from each portion.
 
-        (2) __Ratio.—__ 
+        (2)  __Ratio__  __.—__ 
 
         From each portion to be allocated to units of local government in a State under paragraph (1), the Secretary shall allocate to a unit an amount bearing the same ratio to the funds to be allocated as—
 
@@ -37,7 +37,7 @@
 
             (B) the sum of the products determined under subparagraph (A) for all units in the State for which the income gap for that portion under paragraph (4) is greater than zero.
 
-        (3) __General tax effort factor.—__ 
+        (3)  __General tax effort factor__  __.—__ 
 
             (A)
 
@@ -107,7 +107,7 @@
 
                     (II) the term “units of general local government of the same type” means all townships if the unit of general local government is a township, all municipalities if the unit of general local government is a municipality, all counties if the unit of general local government is a county, or all unified city/county governments if the unit of general local government is a unified city/county government.
 
-        (4) __Income gap.—__ 
+        (4)  __Income gap__  __.—__ 
 
             (A)
 
@@ -119,7 +119,7 @@
 
             (B) If the amount determined under subparagraph (A) for a unit of general local government is less than zero, then the relative income factor of the unit is deemed to be zero.
 
-    (d) __Small Government Allocations.—__ 
+    (d)  __Small Government Allocations__  __.—__ 
 
     If the Secretary decides that information available for a unit of general local government with a population below a number (of not more than 500) prescribed by the Secretary is inadequate, the Secretary may allocate to the unit, in lieu of any allocation under subsection (b) for a payment period, an amount bearing the same ratio to the total amount to be allocated under subsection (b) for the period for all units of general local government in the State as the population of the unit bears to the population of all units in the State.
 

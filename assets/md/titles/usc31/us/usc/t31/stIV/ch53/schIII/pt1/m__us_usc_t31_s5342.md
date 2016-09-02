@@ -17,7 +17,7 @@
 
     (a) __Findings and Purpose.—__ 
 
-        (1) __Findings.—__ 
+        (1)  __Findings__  __.—__ 
 
         The Congress finds the following:
 
@@ -25,7 +25,7 @@
 
             (B) While the Secretary has the responsibility to act with regard to Federal offenses which are being committed in a particular locality or are directed at a single institution, because modern financial systems and institutions are interconnected to a degree which was not possible until recently, money laundering and other related financial crimes are likely to have local, State, national, and international effects wherever they are committed.
 
-        (2) __Purpose and objective.—__ 
+        (2)  __Purpose and objective__  __.—__ 
 
         It is the purpose of this section to provide a mechanism for designating any area where money laundering or a related financial crime appears to be occurring at a higher than average rate such that—
 
@@ -33,21 +33,21 @@
 
             (B) such area can be targeted for law enforcement action.
 
-    (b) __Element of National Strategy.—__ 
+    (b)  __Element of National Strategy__  __.—__ 
 
     The designation of certain areas as areas in which money laundering and related financial crimes are extensive or present a substantial risk shall be an element of the national strategy developed pursuant to section 5341(b).
 
     (c) __Designation of Areas.—__ 
 
-        (1) __Designation by secretary.—__ 
+        (1)  __Designation by secretary__  __.—__ 
 
         The Secretary, after taking into consideration the factors specified in subsection (d), shall designate any geographical area, industry, sector, or institution in the United States in which money laundering and related financial crimes are extensive or present a substantial risk as a “high-risk money laundering and related financial crimes area”.
 
-        (2) __Case-by-case determination in consultation with the attorney general.—__ 
+        (2)  __Case-by-case determination in consultation with the attorney general__  __.—__ 
 
         In addition to the factors specified in subsection (d), any designation of any area under paragraph (1) shall be made on the basis of a determination by the Secretary, in consultation with the Attorney General, that the particular area, industry, sector, or institution is being victimized by, or is particularly vulnerable to, money laundering and related financial crimes.
 
-        (3) __Specific initiatives.—__ 
+        (3)  __Specific initiatives__  __.—__ 
 
         Any head of a department, bureau, or law enforcement agency, including any State or local prosecutor, involved in the detection, prevention, and suppression of money laundering and related financial crimes and any State or local official or prosecutor may submit—
 
@@ -55,7 +55,7 @@
 
             (B) a written request for funding under section 5351 for a specific prevention or enforcement initiative, or to determine the extent of financial criminal activity, in an area.
 
-    (d) __Factors.—__ 
+    (d)  __Factors__  __.—__ 
 
     In considering the designation of any area as a high-risk money laundering and related financial crimes area, the Secretary shall, to the extent appropriate and in consultation with the Attorney General, take into account the following factors:
 

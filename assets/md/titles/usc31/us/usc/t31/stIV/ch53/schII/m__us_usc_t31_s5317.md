@@ -17,7 +17,7 @@
 
     (a) The Secretary of the Treasury may apply to a court of competent jurisdiction for a search warrant when the Secretary reasonably believes a monetary instrument is being transported and a report on the instrument under [section 5316 of this title][/us/usc/t31/s5316] has not been filed or contains a material omission or misstatement. The Secretary shall include a statement of information in support of the warrant. On a showing of probable cause, the court may issue a search warrant for a designated person or a designated or described place or physical object. This subsection does not affect the authority of the Secretary under another law.
 
-    (b) __Searches at Border.—__ 
+    (b)  __Searches at Border__  __.—__ 
 
     For purposes of ensuring compliance with the requirements of section 5316, a customs officer may stop and search, at the border and without a search warrant, any vehicle, vessel, aircraft, or other conveyance, any envelope or other container, and any person entering or departing from the United States.
 
@@ -25,15 +25,15 @@
 
         (1) __Criminal forfeiture.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The court in imposing sentence for any violation of section 5313, 5316, or 5324 of this title, or any conspiracy to commit such violation, shall order the defendant to forfeit all property, real or personal, involved in the offense and any property traceable thereto.
 
-            (B) __Procedure.—__ 
+            (B)  __Procedure__  __.—__ 
 
             Forfeitures under this paragraph shall be governed by the procedures established in section 413 of the Controlled Substances Act.
 
-        (2) __Civil forfeiture.—__ 
+        (2)  __Civil forfeiture__  __.—__ 
 
         Any property involved in a violation of section 5313, 5316, or 5324 of this title, or any conspiracy to commit any such violation, and any property traceable to any such violation or conspiracy, may be seized and forfeited to the United States in accordance with the procedures governing civil forfeitures in money laundering cases pursuant to [section 981(a)(1)(A) of title 18][/us/usc/t18/s981/a/1/A], United States Code.
 

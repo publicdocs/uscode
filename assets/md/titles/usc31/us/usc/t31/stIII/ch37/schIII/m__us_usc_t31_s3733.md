@@ -17,7 +17,7 @@
 
     (a) __In General.—__ 
 
-        (1) __Issuance and service.—__ 
+        (1)  __Issuance and service__  __.—__ 
 
         Whenever the Attorney General, or a designee (for purposes of this section), has reason to believe that any person may be in possession, custody, or control of any documentary material or information relevant to a false claims law investigation, the Attorney General, or a designee, may, before commencing a civil proceeding under section 3730(a) or other false claims law, or making an election under section 3730(b), issue in writing and cause to be served upon such person, a civil investigative demand requiring such person—
 
@@ -77,7 +77,7 @@
 
     (b) __Protected Material or Information.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A civil investigative demand issued under subsection (a) may not require the production of any documentary material, the submission of any answers to written interrogatories, or the giving of any oral testimony if such material, answers, or testimony would be protected from disclosure under—
 
@@ -85,23 +85,23 @@
 
             (B) the standards applicable to discovery requests under the Federal Rules of Civil Procedure, to the extent that the application of such standards to any such demand is appropriate and consistent with the provisions and purposes of this section.
 
-        (2) __Effect on other orders, rules, and laws.—__ 
+        (2)  __Effect on other orders, rules, and laws__  __.—__ 
 
         Any such demand which is an express demand for any product of discovery supersedes any inconsistent order, rule, or provision of law (other than this section) preventing or restraining disclosure of such product of discovery to any person. Disclosure of any product of discovery pursuant to any such express demand does not constitute a waiver of any right or privilege which the person making such disclosure may be entitled to invoke to resist discovery of trial preparation materials.
 
     (c) __Service; Jurisdiction.—__ 
 
-        (1) __By whom served.—__ 
+        (1)  __By whom served__  __.—__ 
 
         Any civil investigative demand issued under subsection (a) may be served by a false claims law investigator, or by a United States marshal or a deputy marshal, at any place within the territorial jurisdiction of any court of the United States.
 
-        (2) __Service in foreign countries.—__ 
+        (2)  __Service in foreign countries__  __.—__ 
 
         Any such demand or any petition filed under subsection (j) may be served upon any person who is not found within the territorial jurisdiction of any court of the United States in such manner as the Federal Rules of Civil Procedure prescribe for service in a foreign country. To the extent that the courts of the United States can assert jurisdiction over any such person consistent with due process, the United States District Court for the District of Columbia shall have the same jurisdiction to take any action respecting compliance with this section by any such person that such court would have if such person were personally within the jurisdiction of such court.
 
     (d) __Service Upon Legal Entities and Natural Persons.—__ 
 
-        (1) __Legal entities.—__ 
+        (1)  __Legal entities__  __.—__ 
 
         Service of any civil investigative demand issued under subsection (a) or of any petition filed under subsection (j) may be made upon a partnership, corporation, association, or other legal entity by—
 
@@ -111,7 +111,7 @@
 
             (C) depositing an executed copy of such demand or petition in the United States mails by registered or certified mail, with a return receipt requested, addressed to such partnership, corporation, association, or entity at its principal office or place of business.
 
-        (2) __Natural persons.—__ 
+        (2)  __Natural persons__  __.—__ 
 
         Service of any such demand or petition may be made upon any natural person by—
 
@@ -119,13 +119,13 @@
 
             (B) depositing an executed copy of such demand or petition in the United States mails by registered or certified mail, with a return receipt requested, addressed to the person at the person’s residence or principal office or place of business.
 
-    (e) __Proof of Service.—__ 
+    (e)  __Proof of Service__  __.—__ 
 
     A verified return by the individual serving any civil investigative demand issued under subsection (a) or any petition filed under subsection (j) setting forth the manner of such service shall be proof of such service. In the case of service by registered or certified mail, such return shall be accompanied by the return post office receipt of delivery of such demand.
 
     (f) __Documentary Material.—__ 
 
-        (1) __Sworn certificates.—__ 
+        (1)  __Sworn certificates__  __.—__ 
 
         The production of documentary material in response to a civil investigative demand served under this section shall be made under a sworn certificate, in such form as the demand designates, by—
 
@@ -135,11 +135,11 @@
 
             The certificate shall state that all of the documentary material required by the demand and in the possession, custody, or control of the person to whom the demand is directed has been produced and made available to the false claims law investigator identified in the demand.
 
-        (2) __Production of materials.—__ 
+        (2)  __Production of materials__  __.—__ 
 
         Any person upon whom any civil investigative demand for the production of documentary material has been served under this section shall make such material available for inspection and copying to the false claims law investigator identified in such demand at the principal place of business of such person, or at such other place as the false claims law investigator and the person thereafter may agree and prescribe in writing, or as the court may direct under subsection (j)(1). Such material shall be made so available on the return date specified in such demand, or on such later date as the false claims law investigator may prescribe in writing. Such person may, upon written agreement between the person and the false claims law investigator, substitute copies for originals of all or any part of such material.
 
-    (g) __Interrogatories.—__ 
+    (g)  __Interrogatories__  __.—__ 
 
     Each interrogatory in a civil investigative demand served under this section shall be answered separately and fully in writing under oath and shall be submitted under a sworn certificate, in such form as the demand designates, by—
 
@@ -151,47 +151,47 @@
 
     (h) __Oral Examinations.—__ 
 
-        (1) __Procedures.—__ 
+        (1)  __Procedures__  __.—__ 
 
         The examination of any person pursuant to a civil investigative demand for oral testimony served under this section shall be taken before an officer authorized to administer oaths and affirmations by the laws of the United States or of the place where the examination is held. The officer before whom the testimony is to be taken shall put the witness on oath or affirmation and shall, personally or by someone acting under the direction of the officer and in the officer’s presence, record the testimony of the witness. The testimony shall be taken stenographically and shall be transcribed. When the testimony is fully transcribed, the officer before whom the testimony is taken shall promptly transmit a copy of the transcript of the testimony to the custodian. This subsection shall not preclude the taking of testimony by any means authorized by, and in a manner consistent with, the Federal Rules of Civil Procedure.
 
-        (2) __Persons present.—__ 
+        (2)  __Persons present__  __.—__ 
 
         The false claims law investigator conducting the examination shall exclude from the place where the examination is held all persons except the person giving the testimony, the attorney for and any other representative of the person giving the testimony, the attorney for the Government, any person who may be agreed upon by the attorney for the Government and the person giving the testimony, the officer before whom the testimony is to be taken, and any stenographer taking such testimony.
 
-        (3) __Where testimony taken.—__ 
+        (3)  __Where testimony taken__  __.—__ 
 
         The oral testimony of any person taken pursuant to a civil investigative demand served under this section shall be taken in the judicial district of the United States within which such person resides, is found, or transacts business, or in such other place as may be agreed upon by the false claims law investigator conducting the examination and such person.
 
-        (4) __Transcript of testimony.—__ 
+        (4)  __Transcript of testimony__  __.—__ 
 
         When the testimony is fully transcribed, the false claims law investigator or the officer before whom the testimony is taken shall afford the witness, who may be accompanied by counsel, a reasonable opportunity to examine and read the transcript, unless such examination and reading are waived by the witness. Any changes in form or substance which the witness desires to make shall be entered and identified upon the transcript by the officer or the false claims law investigator, with a statement of the reasons given by the witness for making such changes. The transcript shall then be signed by the witness, unless the witness in writing waives the signing, is ill, cannot be found, or refuses to sign. If the transcript is not signed by the witness within 30 days after being afforded a reasonable opportunity to examine it, the officer or the false claims law investigator shall sign it and state on the record the fact of the waiver, illness, absence of the witness, or the refusal to sign, together with the reasons, if any, given therefor.
 
-        (5) __Certification and delivery to custodian.—__ 
+        (5)  __Certification and delivery to custodian__  __.—__ 
 
         The officer before whom the testimony is taken shall certify on the transcript that the witness was sworn by the officer and that the transcript is a true record of the testimony given by the witness, and the officer or false claims law investigator shall promptly deliver the transcript, or send the transcript by registered or certified mail, to the custodian.
 
-        (6) __Furnishing or inspection of transcript by witness.—__ 
+        (6)  __Furnishing or inspection of transcript by witness__  __.—__ 
 
         Upon payment of reasonable charges therefor, the false claims law investigator shall furnish a copy of the transcript to the witness only, except that the Attorney General, the Deputy Attorney General, or an Assistant Attorney General may, for good cause, limit such witness to inspection of the official transcript of the witness’ testimony.
 
-        (7) __Conduct of oral testimony.—__ 
+        (7)  __Conduct of oral testimony__  __.—__ 
 
             (A) Any person compelled to appear for oral testimony under a civil investigative demand issued under subsection (a) may be accompanied, represented, and advised by counsel. Counsel may advise such person, in confidence, with respect to any question asked of such person. Such person or counsel may object on the record to any question, in whole or in part, and shall briefly state for the record the reason for the objection. An objection may be made, received, and entered upon the record when it is claimed that such person is entitled to refuse to answer the question on the grounds of any constitutional or other legal right or privilege, including the privilege against self-incrimination. Such person may not otherwise object to or refuse to answer any question, and may not directly or through counsel otherwise interrupt the oral examination. If such person refuses to answer any question, a petition may be filed in the district court of the United States under subsection (j)(1) for an order compelling such person to answer such question.
 
             (B) If such person refuses to answer any question on the grounds of the privilege against self-incrimination, the testimony of such person may be compelled in accordance with the provisions of part V of title 18.
 
-        (8) __Witness fees and allowances.—__ 
+        (8)  __Witness fees and allowances__  __.—__ 
 
         Any person appearing for oral testimony under a civil investigative demand issued under subsection (a) shall be entitled to the same fees and allowances which are paid to witnesses in the district courts of the United States.
 
     (i) __Custodians of Documents, Answers, and Transcripts.—__ 
 
-        (1) __Designation.—__ 
+        (1)  __Designation__  __.—__ 
 
         The Attorney General shall designate a false claims law investigator to serve as custodian of documentary material, answers to interrogatories, and transcripts of oral testimony received under this section, and shall designate such additional false claims law investigators as the Attorney General determines from time to time to be necessary to serve as deputies to the custodian.
 
-        (2) __Responsibility for materials; disclosure.—__ 
+        (2)  __Responsibility for materials; disclosure__  __.—__ 
 
             (A) A false claims law investigator who receives any documentary material, answers to interrogatories, or transcripts of oral testimony under this section shall transmit them to the custodian. The custodian shall take physical possession of such material, answers, or transcripts and shall be responsible for the use made of them and for the return of documentary material under paragraph (4).
 
@@ -207,11 +207,11 @@
 
                 (ii) transcripts of oral testimony shall be available for examination by the person who produced such testimony, or by a representative of that person authorized by that person to examine such transcripts.
 
-        (3) __Use of material, answers, or transcripts in other proceedings.—__ 
+        (3)  __Use of material, answers, or transcripts in other proceedings__  __.—__ 
 
         Whenever any attorney of the Department of Justice has been designated to appear before any court, grand jury, or Federal agency in any case or proceeding, the custodian of any documentary material, answers to interrogatories, or transcripts of oral testimony received under this section may deliver to such attorney such material, answers, or transcripts for official use in connection with any such case or proceeding as such attorney determines to be required. Upon the completion of any such case or proceeding, such attorney shall return to the custodian any such material, answers, or transcripts so delivered which have not passed into the control of such court, grand jury, or agency through introduction into the record of such case or proceeding.
 
-        (4) __Conditions for return of material.—__ 
+        (4)  __Conditions for return of material__  __.—__ 
 
         If any documentary material has been produced by any person in the course of any false claims law investigation pursuant to a civil investigative demand under this section, and—
 
@@ -221,7 +221,7 @@
 
             the custodian shall, upon written request of the person who produced such material, return to such person any such material (other than copies furnished to the false claims law investigator under subsection (f)(2) or made for the Department of Justice under paragraph (2)(B)) which has not passed into the control of any court, grand jury, or agency through introduction into the record of such case or proceeding.
 
-        (5) __Appointment of successor custodians.—__ 
+        (5)  __Appointment of successor custodians__  __.—__ 
 
         In the event of the death, disability, or separation from service in the Department of Justice of the custodian of any documentary material, answers to interrogatories, or transcripts of oral testimony produced pursuant to a civil investigative demand under this section, or in the event of the official relief of such custodian from responsibility for the custody and control of such material, answers, or transcripts, the Attorney General shall promptly—
 
@@ -233,11 +233,11 @@
 
     (j) __Judicial Proceedings.—__ 
 
-        (1) __Petition for enforcement.—__ 
+        (1)  __Petition for enforcement__  __.—__ 
 
         Whenever any person fails to comply with any civil investigative demand issued under subsection (a), or whenever satisfactory copying or reproduction of any material requested in such demand cannot be done and such person refuses to surrender such material, the Attorney General may file, in the district court of the United States for any judicial district in which such person resides, is found, or transacts business, and serve upon such person a petition for an order of such court for the enforcement of the civil investigative demand.
 
-        (2) __Petition to modify or set aside demand.—__ 
+        (2)  __Petition to modify or set aside demand__  __.—__ 
 
             (A)
 
@@ -249,7 +249,7 @@
 
             (B) The petition shall specify each ground upon which the petitioner relies in seeking relief under subparagraph (A), and may be based upon any failure of the demand to comply with the provisions of this section or upon any constitutional or other legal right or privilege of such person. During the pendency of the petition in the court, the court may stay, as it deems proper, the running of the time allowed for compliance with the demand, in whole or in part, except that the person filing the petition shall comply with any portions of the demand not sought to be modified or set aside.
 
-        (3) __Petition to modify or set aside demand for product of discovery.—__ 
+        (3)  __Petition to modify or set aside demand for product of discovery__  __.—__ 
 
             (A)
 
@@ -261,23 +261,23 @@
 
             (B) The petition shall specify each ground upon which the petitioner relies in seeking relief under subparagraph (A), and may be based upon any failure of the portions of the demand from which relief is sought to comply with the provisions of this section, or upon any constitutional or other legal right or privilege of the petitioner. During the pendency of the petition, the court may stay, as it deems proper, compliance with the demand and the running of the time allowed for compliance with the demand.
 
-        (4) __Petition to require performance by custodian of duties.—__ 
+        (4)  __Petition to require performance by custodian of duties__  __.—__ 
 
         At any time during which any custodian is in custody or control of any documentary material or answers to interrogatories produced, or transcripts of oral testimony given, by any person in compliance with any civil investigative demand issued under subsection (a), such person, and in the case of an express demand for any product of discovery, the person from whom such discovery was obtained, may file, in the district court of the United States for the judicial district within which the office of such custodian is situated, and serve upon such custodian, a petition for an order of such court to require the performance by the custodian of any duty imposed upon the custodian by this section.
 
-        (5) __Jurisdiction.—__ 
+        (5)  __Jurisdiction__  __.—__ 
 
         Whenever any petition is filed in any district court of the United States under this subsection, such court shall have jurisdiction to hear and determine the matter so presented, and to enter such order or orders as may be required to carry out the provisions of this section. Any final order so entered shall be subject to appeal under [section 1291 of title 28][/us/usc/t28/s1291]. Any disobedience of any final order entered under this section by any court shall be punished as a contempt of the court.
 
-        (6) __Applicability of federal rules of civil procedure.—__ 
+        (6)  __Applicability of federal rules of civil procedure__  __.—__ 
 
         The Federal Rules of Civil Procedure shall apply to any petition under this subsection, to the extent that such rules are not inconsistent with the provisions of this section.
 
-    (k) __Disclosure Exemption.—__ 
+    (k)  __Disclosure Exemption__  __.—__ 
 
     Any documentary material, answers to written interrogatories, or oral testimony provided under any civil investigative demand issued under subsection (a) shall be exempt from disclosure under [section 552 of title 5][/us/usc/t5/s552].
 
-    (l) __Definitions.—__ 
+    (l)  __Definitions__  __.—__ 
 
     For purposes of this section—
 

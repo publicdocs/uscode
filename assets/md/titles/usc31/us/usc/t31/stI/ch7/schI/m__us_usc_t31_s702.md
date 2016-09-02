@@ -175,11 +175,11 @@ Subsection (b) is substituted for 31:41(1st sentence last 14 words) and 42(a)(1s
 
 [Pub. L. 108–271, § 8][/us/pl/108/271/s8], July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The General Accounting Office is hereby redesignated the Government Accountability Office.
 
->     “(b) __References.—__ 
+>     “(b)  __References__  __.—__ 
 
 >     Any reference to the General Accounting Office in any law, rule, regulation, certificate, directive, instruction, or other official paper in force on the date of enactment of this Act \[July 7, 2004\] shall be considered to refer and apply to the Government Accountability Office.”
 
@@ -189,35 +189,35 @@ Subsection (b) is substituted for 31:41(1st sentence last 14 words) and 42(a)(1s
 
 >     “(a) __In General.—__ 
 
->         “(1) __Functions transferred.—__ 
+>         “(1)  __Functions transferred__  __.—__ 
 
 >         In any case in which a provision of law authorizing the performance of a function by the Comptroller General of the United States or the General Accounting Office \[now Government Accountability Office\] is amended by this title \[see Tables for classification\] to substitute another Federal officer, employee, or agency in that authorization, the authority under that provision to perform that function is transferred to the other Federal officer, employee, or agency.
 
->         “(2) __Functions terminated.—__ 
+>         “(2)  __Functions terminated__  __.—__ 
 
 >         In any case in which a provision of law authorizing the performance of a function by the Comptroller General of the United States or the General Accounting Office \[now Government Accountability Office\] is repealed by this Act \[see Tables for classification\], the authority under that provision to perform that function is terminated.
 
->         “(3) __Delegation of functions.—__ 
+>         “(3)  __Delegation of functions__  __.—__ 
 
 >         The Director of the Office of Management and Budget may delegate, in whole or in part, to any other agency or agencies any function transferred to or vested in the Director under section 103(d), 105(b), 116, or 202(n) of this Act \[amending [section 3702 of this title][/us/usc/t31/s3702], [section 5584 of Title 5][/us/usc/t5/s5584], Government Organization and Employees, [section 2774 of Title 10][/us/usc/t10/s2774], Armed Forces, and [section 716 of Title 32][/us/usc/t32/s716], National Guard\], and may transfer to such agency or agencies any personnel, budget authority, records, and property received by the Director pursuant to subsection (b) of this section that relate to the delegated functions.
 
 >     “(b) __Incidental Transfers.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Incident to any transfer of authority under subsection (a)(1), there shall be transferred to the recipient Federal officer, employee, or agency such personnel, records, budget authority, and property of the General Accounting Office \[now Government Accountability Office\] as the Comptroller General and the Director of the Office of Management and Budget jointly determine to be necessary to effectuate the transfer.
 
->         “(2) __Effect on personnel.—__ 
+>         “(2)  __Effect on personnel__  __.—__ 
 
 >         Personnel transferred under this section shall not be separated or reduced in classification or compensation for one year after any such transfer, except for cause.
 
->     “(c) __References.—__ 
+>     “(c)  __References__  __.—__ 
 
 >     With respect to any function or authority transferred under this Act and exercised on or after the effective date of that transfer, reference in any Federal law to the Comptroller General or to any officer or employee of the General Accounting Office \[now Government Accountability Office\] is deemed to refer to the Federal officer or agency to which the function or authority is transferred under this Act.
 
 >     “(d) __Savings Provisions.—__ 
 
->         “(1) __Orders and other official actions not affected.—__ 
+>         “(1)  __Orders and other official actions not affected__  __.—__ 
 
 >         All orders, determinations, rules, regulations, permits, grants, contracts, certificates, licenses, and privileges—
 
@@ -227,11 +227,11 @@ Subsection (b) is substituted for 31:41(1st sentence last 14 words) and 42(a)(1s
 
 >             shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law.
 
->         “(2) __Pending matters and proceedings.—__ 
+>         “(2)  __Pending matters and proceedings__  __.—__ 
 
 >         This Act shall not affect any pending matters or proceedings, including notices of proposed rulemaking, relating to a function or authority transferred under this Act. Such matters or proceedings shall continue under the authority of the agency to which the function or authority is transferred until completed or terminated in accordance with law.
 
->         “(3) __Judicial proceedings and causes of actions.—__ 
+>         “(3)  __Judicial proceedings and causes of actions__  __.—__ 
 
 >         No suit, action, or other proceeding or cause of action relating to a function or authority transferred under this Act shall abate by reason of the enactment of this Act. If, before the date on which a transfer of a function or authority this Act takes effect, the Comptroller General of the United States or any officer or employee of the General Accounting Office \[now Government Accountability Office\] in their official capacity is party to a suit relating to the function or authority, then such suit shall be continued and the head of the agency to which the function or authority is transferred, or other appropriate official of that agency, shall be substituted or added as a party.”
 
@@ -239,7 +239,7 @@ Subsection (b) is substituted for 31:41(1st sentence last 14 words) and 42(a)(1s
 
 [Pub. L. 110–161, div. H, title I, § 1501][/us/pl/110/161/s1501], Dec. 26, 2007, [121 Stat. 2249][/us/stat/121/2249], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section—
 
@@ -265,29 +265,29 @@ Subsection (b) is substituted for 31:41(1st sentence last 14 words) and 42(a)(1s
 
 >             “(H) any other agency, including any office, board, or commission, established in the legislative branch; and
 
->     “(b) __Establishment.—__ 
+>     “(b)  __Establishment__  __.—__ 
 
 >     There is established a Contract Appeals Board within the Government Accountability Office. The Board shall hear and decide appeals from decisions of a contracting officer with respect to any contract entered into by a legislative branch agency.
 
 >     “(c) __Members of the Board.—__ 
 
->         “(1) __Appointment.—__ 
+>         “(1)  __Appointment__  __.—__ 
 
 >         The Comptroller General shall appoint at least 3 members to the Contract Appeals Board.
 
->         “(2) __Qualifications.—__ 
+>         “(2)  __Qualifications__  __.—__ 
 
 >         Each member shall have not less than 5 years experience in public contract law.
 
->         “(3) __Pay.—__ 
+>         “(3)  __Pay__  __.—__ 
 
 >         Subject to any provision of law relating to pay applicable to the Office of General Counsel of the Government Accountability Office, the Comptroller General shall establish and adjust the annual rate of basic pay of members of the Board.
 
->     “(d) __Provisions Applicable to Appeals.—__ 
+>     “(d)  __Provisions Applicable to Appeals__  __.—__ 
 
 >     The Contract Disputes Act of 1978 ([Public Law 95–563][/us/pl/95/563], \[former\] [41 U.S.C. 601][/us/usc/t41/s601] et seq. \[see [41 U.S.C. 7101][/us/usc/t41/s7101] et seq.\]), as amended, shall apply to appeals to the Board, except that section 4 \[now [41 U.S.C. 7102(d)][/us/usc/t41/s7102/d]\], subsections 8(a), (b), and (c) \[now [41 U.S.C. 7105(a)][/us/usc/t41/s7105/a], (c), (d), (e)(1)(C)\], and subsection 10(a) \[now [41 U.S.C. 7104(b)][/us/usc/t41/s7104/b]\] shall not apply to such appeals and the amount of any claim referenced in subsection 6(c) \[now [41 U.S.C. 7103(b)][/us/usc/t41/s7103/b], (f)\] shall be $50,000. The Comptroller General shall prescribe regulations for procedures for appeals to the Board that are consistent with procedures under the Contract Disputes Act of 1978.
 
->     “(e) __Effective Date.—__ 
+>     “(e)  __Effective Date__  __.—__ 
 
 >     This section shall apply with respect to fiscal year 2008 and each fiscal year thereafter.”
 

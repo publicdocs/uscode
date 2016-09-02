@@ -41,7 +41,7 @@
 
     (d) __Mandatory Exemptions From Reporting Requirements.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary of the Treasury shall exempt, pursuant to section 5318(a)(6), a depository institution from the reporting requirements of subsection (a) with respect to transactions between the depository institution and the following categories of entities:
 
@@ -53,17 +53,17 @@
 
             (D) Any business or category of business the reports on which have little or no value for law enforcement purposes.
 
-        (2) __Notice of exemption.—__ 
+        (2)  __Notice of exemption__  __.—__ 
 
         The Secretary of the Treasury shall publish in the Federal Register at such times as the Secretary determines to be appropriate (but not less frequently than once each year) a list of all the entities whose transactions with a depository institution are exempt under this subsection from the reporting requirements of subsection (a).
 
     (e) __Discretionary Exemptions From Reporting Requirements.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary of the Treasury may exempt, pursuant to section 5318(a)(6), a depository institution from the reporting requirements of subsection (a) with respect to transactions between the depository institution and a qualified business customer of the institution on the basis of information submitted to the Secretary by the institution in accordance with procedures which the Secretary shall establish.
 
-        (2) __Qualified business customer defined.—__ 
+        (2)  __Qualified business customer defined__  __.—__ 
 
         For purposes of this subsection, the term “qualified business customer” means a business which—
 
@@ -73,21 +73,21 @@
 
             (C) meets criteria which the Secretary determines are sufficient to ensure that the purposes of this subchapter are carried out without requiring a report with respect to such transactions.
 
-        (3) __Criteria for exemption.—__ 
+        (3)  __Criteria for exemption__  __.—__ 
 
         The Secretary of the Treasury shall establish, by regulation, the criteria for granting and maintaining an exemption under paragraph (1).
 
         (4) __Guidelines.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary of the Treasury shall establish guidelines for depository institutions to follow in selecting customers for an exemption under this subsection.
 
-            (B) __Contents.—__ 
+            (B)  __Contents__  __.—__ 
 
             The guidelines may include a description of the types of businesses or an itemization of specific businesses for which no exemption will be granted under this subsection to any depository institution.
 
-        (5) __Annual review.—__ 
+        (5)  __Annual review__  __.—__ 
 
         The Secretary of the Treasury shall prescribe regulations requiring each depository institution to—
 
@@ -95,13 +95,13 @@
 
             (B) upon the completion of such review, resubmit information about such customers, with such modifications as the institution determines to be appropriate, to the Secretary for the Secretary’s approval.
 
-        (6) __2-year phase-in provision.—__ 
+        (6) __2-__  __year phase-in provision__  __.—__ 
 
         During the 2-year period beginning on the date of enactment of the Money Laundering Suppression Act of 1994, this subsection shall be applied by the Secretary on the basis of such criteria as the Secretary determines to be appropriate to achieve an orderly implementation of the requirements of this subsection.
 
     (f) __Provisions Applicable to Mandatory and Discretionary Exemptions.—__ 
 
-        (1) __Limitation on liability of depository institutions.—__ 
+        (1)  __Limitation on liability of depository institutions__  __.—__ 
 
         No depository institution shall be subject to any penalty which may be imposed under this subchapter for the failure of the institution to file a report with respect to a transaction with a customer for whom an exemption has been granted under subsection (d) or (e) unless the institution—
 
@@ -109,7 +109,7 @@
 
             (B) has reason to believe at the time the exemption is granted or the transaction is entered into that the customer or the transaction does not meet the criteria established for granting such exemption.
 
-        (2) __Coordination with other provisions.—__ 
+        (2)  __Coordination with other provisions__  __.—__ 
 
         Any exemption granted by the Secretary of the Treasury under section 5318(a) in accordance with this section, and any transaction which is subject to such exemption, shall be subject to any other provision of law applicable to such exemption, including—
 
@@ -117,7 +117,7 @@
 
             (B) any requirement to report, or any authority to require a report on, any possible violation of any law or regulation or any suspected criminal activity.
 
-    (g) __Depository Institution Defined.—__ 
+    (g)  __Depository Institution Defined__  __.—__ 
 
     For purposes of this section, the term “depository institution”—
 
@@ -247,7 +247,7 @@ In subsection (a), the words “coins or” are added, and the words “prescrib
 
 [Pub. L. 107–56, title III, § 366][/us/pl/107/56/s366], Oct. 26, 2001, [115 Stat. 335][/us/stat/115/335], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds the following:
 
@@ -265,7 +265,7 @@ In subsection (a), the words “coins or” are added, and the words “prescrib
 
 >     “(b) __Study and Report.—__ 
 
->         “(1) __Study required.—__ 
+>         “(1)  __Study required__  __.—__ 
 
 >         The Secretary shall conduct a study of—
 
@@ -273,7 +273,7 @@ In subsection (a), the words “coins or” are added, and the words “prescrib
 
 >             “(B) methods for improving financial institution utilization of the statutory exemption provisions as a way of reducing the submission of currency transaction reports that have little or no value for law enforcement purposes, including improvements in the systems in effect at financial institutions for regular review of the exemption procedures used at the institution and the training of personnel in its effective use.
 
->         “(2) __Report required.—__ 
+>         “(2)  __Report required__  __.—__ 
 
 >         The Secretary of the Treasury shall submit a report to the Congress before the end of the 1-year period beginning on the date of enactment of this Act \[Oct. 26, 2001\] containing the findings and conclusions of the Secretary with regard to the study required under subsection (a), and such recommendations for legislative or administrative action as the Secretary determines to be appropriate.”
 
@@ -283,19 +283,19 @@ In subsection (a), the words “coins or” are added, and the words “prescrib
 
 >     “(b) __Report Reduction Goal; Reports.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In implementing the amendment made by subsection (a) \[amending this section\], the Secretary of the Treasury shall seek to reduce, within a reasonable period of time, the number of reports required to be filed in the aggregate by depository institutions pursuant to [section 5313(a) of title 31][/us/usc/t31/s5313/a], United States Code, by at least 30 percent of the number filed during the year preceding the date of enactment of this Act \[Sept. 23, 1994\].
 
->         “(2) __Interim report.—__ 
+>         “(2)  __Interim report__  __.—__ 
 
 >         The Secretary of the Treasury shall submit a report to the Congress not later than the end of the 180-day period beginning on the date of enactment of this Act on the progress made by the Secretary in implementing the amendment made by subsection (a).
 
->         “(3) __Annual report.—__ 
+>         “(3)  __Annual report__  __.—__ 
 
 >         The Secretary of the Treasury shall submit an annual report to the Congress after the end of each of the first 5 calendar years which begin after the date of enactment of this Act on the extent to which the Secretary has reduced the overall number of currency transaction reports filed with the Secretary pursuant to [section 5313(a) of title 31][/us/usc/t31/s5313/a], United States Code, consistent with the purposes of such section and effective law enforcement.
 
->     “(c) __Streamlined Currency Transaction Reports.—__ 
+>     “(c)  __Streamlined Currency Transaction Reports__  __.—__ 
 
 >     The Secretary of the Treasury shall take such action as may be appropriate to—
 

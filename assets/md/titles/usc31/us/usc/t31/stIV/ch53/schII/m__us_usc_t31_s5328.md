@@ -15,15 +15,15 @@
 
 ## § 5328. Whistleblower protections
 
-    (a) __Prohibition Against Discrimination.—__ 
+    (a)  __Prohibition Against Discrimination__  __.—__ 
 
     No financial institution or nonfinancial trade or business may discharge or otherwise discriminate against any employee with respect to compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to the request of the employee) provided information to the Secretary of the Treasury, the Attorney General, or any Federal supervisory agency regarding a possible violation of any provision of this subchapter or section 1956, 1957, or 1960 of title 18, or any regulation under any such provision, by the financial institution or nonfinancial trade or business or any director, officer, or employee of the financial institution or nonfinancial trade or business.
 
-    (b) __Enforcement.—__ 
+    (b)  __Enforcement__  __.—__ 
 
     Any employee or former employee who believes that such employee has been discharged or discriminated against in violation of subsection (a) may file a civil action in the appropriate United States district court before the end of the 2-year period beginning on the date of such discharge or discrimination.
 
-    (c) __Remedies.—__ 
+    (c)  __Remedies__  __.—__ 
 
     If the district court determines that a violation has occurred, the court may order the financial institution or nonfinancial trade or business which committed the violation to—
 
@@ -33,7 +33,7 @@
 
         (3) take other appropriate actions to remedy any past discrimination.
 
-    (d) __Limitation.—__ 
+    (d)  __Limitation__  __.—__ 
 
     The protections of this section shall not apply to any employee who—
 
@@ -41,7 +41,7 @@
 
         (2) knowingly or recklessly provides substantially false information to the Secretary, the Attorney General, or any Federal supervisory agency.
 
-    (e) __Coordination With Other Provisions of Law.—__ 
+    (e)  __Coordination With Other Provisions of Law__  __.—__ 
 
     This section shall not apply with respect to any financial institution or nonfinancial trade or business which is subject to section 33 of the Federal Deposit Insurance Act, section 213 of the Federal Credit Union Act, or section 21A(q)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Home Owners’ Loan Act (as added by section 251(c) of the Federal Deposit Insurance Corporation Improvement Act of 1991).
 

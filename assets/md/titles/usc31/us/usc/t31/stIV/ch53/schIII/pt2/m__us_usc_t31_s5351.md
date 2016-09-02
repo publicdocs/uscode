@@ -15,11 +15,11 @@
 
 ## § 5351. Establishment of financial crime-free communities support program
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Secretary of the Treasury, in consultation with the Attorney General, shall establish a program to support local law enforcement efforts in the development and implementation of a program for the detection, prevention, and suppression of money laundering and related financial crimes.
 
-    (b) __Program.—__ 
+    (b)  __Program__  __.—__ 
 
     In carrying out the program, the Secretary of the Treasury, in consultation with the Attorney General, shall—
 
@@ -29,11 +29,11 @@
 
         (3) provide for the general administration of the program.
 
-    (c) __Administration.—__ 
+    (c)  __Administration__  __.—__ 
 
     The Secretary shall appoint an administrator to carry out the program.
 
-    (d) __Contracting.—__ 
+    (d)  __Contracting__  __.—__ 
 
     The Secretary may employ any necessary staff and may enter into contracts or agreements with Federal and State law enforcement agencies to delegate authority for the execution of grants and for such other activities necessary to carry out this chapter.
 

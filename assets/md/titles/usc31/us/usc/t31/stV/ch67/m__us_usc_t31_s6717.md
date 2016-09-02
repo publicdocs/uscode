@@ -15,19 +15,19 @@
 
 ## § 6717. Judicial review
 
-    (a) __Appeals in Federal Court of Appeals.—__ 
+    (a)  __Appeals in Federal Court of Appeals__  __.—__ 
 
     A unit of general local government which receives notice from the Secretary about withholding payments under section 6703(f), suspending payments under section 6713(a)(1)(B), or terminating payments under section 6712(d)(2)(A), may apply for review of the action of the Secretary by filing a petition for review with the court of appeals of the United States for the circuit in which the government is located. The petition shall be filed by the 60th day after the date the notice is received. The clerk of the court shall immediately send a copy of the petition to the Secretary.
 
-    (b) __Filing of Record of Administrative Proceeding.—__ 
+    (b)  __Filing of Record of Administrative Proceeding__  __.—__ 
 
     The Secretary shall file with the court a record of the proceeding on which the Secretary based the action. The court may consider only objections to the action of the Secretary that were presented before the Secretary.
 
-    (c) __Court Action.—__ 
+    (c)  __Court Action__  __.—__ 
 
     The court may affirm, change, or set aside any part of the action of the Secretary. The findings of fact by the Secretary are conclusive if supported by substantial evidence in the record. If a finding is not supported by substantial evidence in the record, the court may remand the case to the Secretary to take additional evidence. Upon such a remand, the Secretary may make new or modified findings and shall certify additional proceedings to the court.
 
-    (d) __Review Only by Supreme Court.—__ 
+    (d)  __Review Only by Supreme Court__  __.—__ 
 
     A judgment of a court under this section may be reviewed only by the Supreme Court under [section 1254 of title 28][/us/usc/t28/s1254], United States Code.
 

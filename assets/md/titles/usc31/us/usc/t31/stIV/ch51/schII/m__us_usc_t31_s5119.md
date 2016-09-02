@@ -33,7 +33,7 @@
 
             (E) United States currency notes, including those issued under [section 1 of the Act of February 25, 1862][/us/act/1862-02-25/s1] (ch. 33, [12 Stat. 345][/us/stat/12/345]), the Act of July 11, 1862 (ch. 142, [12 Stat. 532][/us/stat/12/532]), the resolution of January 17, 1863 (P.R. 9; [12 Stat. 822][/us/stat/12/822]), [section 2 of the Act of March 3, 1863][/us/act/1863-03-03/s2] (ch. 73, [12 Stat. 710][/us/stat/12/710]), or [section 5115 of this title][/us/usc/t31/s5115].
 
-        (2) __Redemption, cancellation, and destruction of currency.—__ 
+        (2)  __Redemption, cancellation, and destruction of currency__  __.—__ 
 
         The Secretary shall—
 

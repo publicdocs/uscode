@@ -157,11 +157,11 @@ Oct. 16, 1968, Pub. L. 90–577, §§ 202, 203, 82 Stat. 1101.  </td>
 
 [Pub. L. 101–453, § 5(d)][/us/pl/101/453/s5/d], Oct. 24, 1990, [104 Stat. 1061][/us/stat/104/1061], as amended by [Pub. L. 102–589, § 2(2)(A)][/us/pl/102/589/s2/2/A], (B), Nov. 10, 1992, [106 Stat. 5133][/us/stat/106/5133], provided that:
 
->     “(1) __Secretary’s efforts to enter agreements.—__ 
+>     “(1)  __Secretary’s efforts to enter agreements__  __.—__ 
 
 >     The Secretary of the Treasury shall make all reasonable efforts to enter into an agreement with each State under [section 6503(b) of title 31][/us/usc/t31/s6503/b], United States Code, as added by this section (relating to procedures and requirements for transfers of funds between executive agencies and States), by July 1, 1993 or the first day of a State’s fiscal year beginning in 1993, whichever is later.
 
->     “(2) __Effective date of regulations.—__ 
+>     “(2)  __Effective date of regulations__  __.—__ 
 
 >     Regulations issued by the Secretary of the Treasury under subsection (b)(3) of [section 6503 of title 31][/us/usc/t31/s6503], United States Code, as added by the \[this\] section (relating to procedures and requirements for transfers of funds involving States not entering agreements), shall take effect on July 1, 1993 or the first day of a State’s fiscal year beginning in 1993, whichever is later.”
 

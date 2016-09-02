@@ -15,11 +15,11 @@
 
 ## § 6716. Civil action by a person adversely affected
 
-    (a) __Authority for Private Suits in Federal or State Court.—__ 
+    (a)  __Authority for Private Suits in Federal or State Court__  __.—__ 
 
     If a unit of general local government, or an officer or employee of a unit of general local government acting in an official capacity, engages in a practice prohibited by this chapter, a person adversely affected by the practice may bring a civil action in an appropriate district court of the United States or a State court of general jurisdiction. Before bringing an action under this section, the person must exhaust administrative remedies under subsection (b).
 
-    (b) __Administrative Remedies Required To Be Exhausted.—__ 
+    (b)  __Administrative Remedies Required To Be Exhausted__  __.—__ 
 
     A person adversely affected shall file an administrative complaint with the Secretary or the head of another agency of the United States Government or the State agency with which the Secretary has an agreement under section 6711(d). Administrative remedies are deemed to be exhausted by the person after the 90th day after the complaint was filed if the Secretary, the head of the Government agency, or the State agency—
 
@@ -27,7 +27,7 @@
 
         (2) does not issue a decision on the complaint.
 
-    (c) __Authority of Court.—__ 
+    (c)  __Authority of Court__  __.—__ 
 
     In an action under this section, the court—
 
@@ -43,7 +43,7 @@
 
         (2) to enforce compliance with section 6711(a) or (b), may allow a prevailing party (except the United States Government) a reasonable attorney’s fee.
 
-    (d) __Intervention by Attorney General.—__ 
+    (d)  __Intervention by Attorney General__  __.—__ 
 
     In an action under this section to enforce compliance with section 6711(a) or (b), the Attorney General may intervene in the action if the Attorney General certifies that the action is of general public importance. The United States Government is entitled to the same relief as if the Government had brought the action and is liable for the same fees and costs as a private person.
 
