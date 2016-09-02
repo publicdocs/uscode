@@ -173,7 +173,7 @@ Sentences: forfeiture of pay and allowances during confinement.  </td>
 
     <td> 
 
-Sec.  </td>
+   </td>
 
     <td> 
 
@@ -189,7 +189,7 @@ Art.  </td>
 
     <td> 
 
-856. Art  </td>
+856.  </td>
 
     <td> 
 
@@ -203,7 +203,7 @@ Maximum and minimum limits.  </td>
 
 </table>
 
-    See 2013 Amendment notes below.
+    See 2013 Amendment note below.
 
  __Amendments__ 
 

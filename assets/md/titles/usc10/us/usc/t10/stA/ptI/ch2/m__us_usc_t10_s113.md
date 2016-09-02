@@ -3749,11 +3749,13 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
  __Plan Requiring Disbursing Officials of Department of Defense To Match Disbursements to Particular Obligations__ 
 
-[Pub. L. 113–6, div. C, title VIII, § 8067][/us/pl/113/6/s8067], Mar. 26, 2013, [127 Stat. 313][/us/stat/127/313], provided that: 
+[Pub. L. 113–76, div. C, title VIII, § 8067][/us/pl/113/76/s8067], Jan. 17, 2014, [128 Stat. 121][/us/stat/128/121], provided that: 
 
-> “Section 8106 of the Department of Defense Appropriations Act, 1997 (titles I through VIII of the matter under sub[section 101(b) of Public Law 104–208][/us/pl/104/208/s101/b]; [110 Stat. 3009–111][/us/stat/110/3009-111]; [10 U.S.C. 113][/us/usc/t10/s113] note) shall continue in effect to apply to disbursements that are made by the Department of Defense in fiscal year 2013.”
+> “Section 8106 of the Department of Defense Appropriations Act, 1997 (titles I through VIII of the matter under sub[section 101(b) of Public Law 104–208][/us/pl/104/208/s101/b]; [110 Stat. 3009–111][/us/stat/110/3009-111]; [10 U.S.C. 113][/us/usc/t10/s113] note) shall continue in effect to apply to disbursements that are made by the Department of Defense in fiscal year 2014.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–6, div. C, title VIII, § 8067][/us/pl/113/6/s8067], Mar. 26, 2013, [127 Stat. 313][/us/stat/127/313].
 
     [Pub. L. 112–74, div. A, title VIII, § 8068][/us/pl/112/74/s8068], Dec. 23, 2011, [125 Stat. 822][/us/stat/125/822].
 
@@ -5051,11 +5053,13 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/103/337/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1031
 [/us/stat/108/2838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2838
 [/us/usc/t38/s101/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F9
-[/us/pl/113/6/s8067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs8067
-[/us/stat/127/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F313
+[/us/pl/113/76/s8067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs8067
+[/us/stat/128/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F121
 [/us/pl/104/208/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fb
 [/us/stat/110/3009-111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-111
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
+[/us/pl/113/6/s8067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs8067
+[/us/stat/127/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F313
 [/us/pl/112/74/s8068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs8068
 [/us/stat/125/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F822
 [/us/pl/112/10/s8070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs8070

@@ -141,7 +141,7 @@ Service of charges.  </td>
 
     <td> 
 
-Sec.  </td>
+   </td>
 
     <td> 
 
@@ -171,7 +171,7 @@ Preliminary hearing.  </td>
 
 </table>
 
-    See 2013 Amendment notes below.
+    See 2013 Amendment note below.
 
  __Amendments__ 
 

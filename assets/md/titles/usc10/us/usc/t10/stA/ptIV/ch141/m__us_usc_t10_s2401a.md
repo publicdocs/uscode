@@ -61,7 +61,7 @@
 
 > “During the current fiscal year and hereafter, [section 2533a of title 10][/us/usc/t10/s2533a], United States Code, shall not apply to any transaction entered into to acquire or sustain aircraft under the authority of section 8159 of the Department of Defense Appropriations Act, 2002 (division A of [Public Law 107–117][/us/pl/107/117]; [115 Stat. 2284][/us/stat/115/2284]) \[set out below\].”
 
-[Pub. L. 107–117, div. A, title VIII, § 8159][/us/pl/107/117/s8159], Jan. 10, 2002, [115 Stat. 2284][/us/stat/115/2284], as amended by [Pub. L. 107–248, title VIII, § 8117][/us/pl/107/248/s8117], Oct. 23, 2002, [116 Stat. 1564][/us/stat/116/1564], provided that:
+[Pub. L. 107–117, div. A, title VIII, § 8159][/us/pl/107/117/s8159], Jan. 10, 2002, [115 Stat. 2284][/us/stat/115/2284], as amended by [Pub. L. 107–248, title VIII, § 8117][/us/pl/107/248/s8117], Oct. 23, 2002, [116 Stat. 1564][/us/stat/116/1564]; [Pub. L. 113–76, div. C, title VIII, § 8122][/us/pl/113/76/s8122], Jan. 17, 2014, [128 Stat. 133][/us/stat/128/133], provided that:
 
 >     “(a) The Secretary of the Air Force may, from funds provided in this Act \[see Tables for classification\] or any future appropriations Act, establish and make payments on a multi-year pilot program for leasing general purpose Boeing 767 aircraft and Boeing 737 aircraft in commercial configuration.
 
@@ -89,7 +89,7 @@
 
 >             “(B) A period of not less than 30 calendar days has elapsed after submitting the report.
 
->         “(7) Not later than 1 year after the date on which the first aircraft is delivered under this Pilot Program, and yearly thereafter on the anniversary of the first delivery, the Secretary shall submit a report to the congressional defense committees describing the status of the Pilot Program. The Report will be based on at least 6 months of experience in operating the Pilot Program.
+>         “\[(7) Repealed. [Pub. L. 113–76, div. C, title VIII, § 8122][/us/pl/113/76/s8122], Jan. 17, 2014, [128 Stat. 133][/us/stat/128/133].\]
 
 >         “(8) The Air Force shall accept delivery of the aircraft in a general purpose configuration.
 
@@ -212,7 +212,11 @@
 [/us/stat/115/2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2284
 [/us/pl/107/248/s8117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2Fs8117
 [/us/stat/116/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1564
+[/us/pl/113/76/s8122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs8122
+[/us/stat/128/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F133
 [/us/usc/t31/s3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3324
+[/us/pl/113/76/s8122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs8122
+[/us/stat/128/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F133
 [/us/pl/106/79/s8133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F79%2Fs8133
 [/us/stat/113/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1267
 [/us/pl/105/262/s8126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F262%2Fs8126

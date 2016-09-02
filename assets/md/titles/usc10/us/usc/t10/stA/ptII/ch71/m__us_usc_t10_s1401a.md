@@ -125,9 +125,9 @@
 
     For purposes of this section, the price index for a calendar quarter is the arithmetical mean of the price index for the three months comprising that quarter.
 
-(Added [Pub. L. 88–132, § 5(g)(1)][/us/pl/88/132/s5/g/1], Oct. 2, 1963, [77 Stat. 213][/us/stat/77/213]; amended [Pub. L. 89–132, § 5(b)][/us/pl/89/132/s5/b], Aug. 21, 1965, [79 Stat. 547][/us/stat/79/547]; [Pub. L. 90–207, § 2(a)(1)][/us/pl/90/207/s2/a/1], Dec. 16, 1967, [81 Stat. 652][/us/stat/81/652]; [Pub. L. 91–179, § 1][/us/pl/91/179/s1], Dec. 30, 1969, [83 Stat. 837][/us/stat/83/837]; [Pub. L. 94–106, title VIII, § 806][/us/pl/94/106/s806], Oct. 7, 1975, [89 Stat. 538][/us/stat/89/538]; [Pub. L. 94–361, title VIII, § 801(a)][/us/pl/94/361/s801/a], July 14, 1976, [90 Stat. 929][/us/stat/90/929]; [Pub. L. 94–440, title XIII, § 1306(d)(1)][/us/pl/94/440/s1306/d/1], Oct. 1, 1976, [90 Stat. 1462][/us/stat/90/1462]; [Pub. L. 96–342, title VIII, § 812(b)(1)][/us/pl/96/342/s812/b/1], Sept. 8, 1980, [94 Stat. 1098][/us/stat/94/1098]; [Pub. L. 98–94, title IX][/us/pl/98/94], §§ 921(a)(1), (b), 922(a)(2), Sept. 24, 1983, [97 Stat. 640][/us/stat/97/640], 641; [Pub. L. 98–525, title XIV, § 1405(26)][/us/pl/98/525/s1405/26], Oct. 19, 1984, [98 Stat. 2623][/us/stat/98/2623]; [Pub. L. 99–348, title I, § 102][/us/pl/99/348/s102], July 1, 1986, [100 Stat. 683][/us/stat/100/683]; [Pub. L. 100–180, div. A, title XII, § 1231(21)][/us/pl/100/180/s1231/21], Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161]; [Pub. L. 100–224, § 1][/us/pl/100/224/s1], Dec. 30, 1987, [101 Stat. 1536][/us/stat/101/1536]; [Pub. L. 100–456, div. A, title VI, § 622(a)][/us/pl/100/456/s622/a], Sept. 29, 1988, [102 Stat. 1983][/us/stat/102/1983]; [Pub. L. 101–189, div. A, title VI, § 651(b)(1)][/us/pl/101/189/s651/b/1], Nov. 29, 1989, [103 Stat. 1460][/us/stat/103/1460]; [Pub. L. 103–66, title II, § 2001][/us/pl/103/66/s2001], Aug. 10, 1993, [107 Stat. 335][/us/stat/107/335]; [Pub. L. 103–160, div. A, title XI, § 1182(e)][/us/pl/103/160/s1182/e], Nov. 30, 1993, [107 Stat. 1773][/us/stat/107/1773]; [Pub. L. 103–335, title VIII, § 8114A(b)(1)][/us/pl/103/335/s8114A/b/1], Sept. 30, 1994, [108 Stat. 2648][/us/stat/108/2648]; [Pub. L. 103–337, div. A, title VI, § 633(a)][/us/pl/103/337/s633/a], Oct. 5, 1994, [108 Stat. 2787][/us/stat/108/2787]; [Pub. L. 104–106, div. A, title VI, § 631(a)][/us/pl/104/106/s631/a], (c), Feb. 10, 1996, [110 Stat. 364][/us/stat/110/364], 365; [Pub. L. 104–201, div. A, title VI][/us/pl/104/201], §§ 631(a), 632(a), Sept. 23, 1996, [110 Stat. 2549][/us/stat/110/2549]; [Pub. L. 106–65, div. A, title VI][/us/pl/106/65], §§ 641(b), 643(b)(1), title X, § 1066(a)(10), Oct. 5, 1999, [113 Stat. 662][/us/stat/113/662], 663, 771; [Pub. L. 107–314, div. A, title VI, § 633][/us/pl/107/314/s633], Dec. 2, 2002, [116 Stat. 2572][/us/stat/116/2572]; [Pub. L. 110–181, div. A, title VI, § 661(b)(3)][/us/pl/110/181/s661/b/3], Jan. 28, 2008, [122 Stat. 178][/us/stat/122/178]; [Pub. L. 113–66, div. A, title VI, § 631(a)][/us/pl/113/66/s631/a], (b), title X, § 1091(a)(9), Dec. 26, 2013, [127 Stat. 785][/us/stat/127/785], 876; [Pub. L. 113–67, div. A, title IV, § 403(a)][/us/pl/113/67/s403/a], Dec. 26, 2013, [127 Stat. 1186][/us/stat/127/1186].)
+(Added [Pub. L. 88–132, § 5(g)(1)][/us/pl/88/132/s5/g/1], Oct. 2, 1963, [77 Stat. 213][/us/stat/77/213]; amended [Pub. L. 89–132, § 5(b)][/us/pl/89/132/s5/b], Aug. 21, 1965, [79 Stat. 547][/us/stat/79/547]; [Pub. L. 90–207, § 2(a)(1)][/us/pl/90/207/s2/a/1], Dec. 16, 1967, [81 Stat. 652][/us/stat/81/652]; [Pub. L. 91–179, § 1][/us/pl/91/179/s1], Dec. 30, 1969, [83 Stat. 837][/us/stat/83/837]; [Pub. L. 94–106, title VIII, § 806][/us/pl/94/106/s806], Oct. 7, 1975, [89 Stat. 538][/us/stat/89/538]; [Pub. L. 94–361, title VIII, § 801(a)][/us/pl/94/361/s801/a], July 14, 1976, [90 Stat. 929][/us/stat/90/929]; [Pub. L. 94–440, title XIII, § 1306(d)(1)][/us/pl/94/440/s1306/d/1], Oct. 1, 1976, [90 Stat. 1462][/us/stat/90/1462]; [Pub. L. 96–342, title VIII, § 812(b)(1)][/us/pl/96/342/s812/b/1], Sept. 8, 1980, [94 Stat. 1098][/us/stat/94/1098]; [Pub. L. 98–94, title IX][/us/pl/98/94], §§ 921(a)(1), (b), 922(a)(2), Sept. 24, 1983, [97 Stat. 640][/us/stat/97/640], 641; [Pub. L. 98–525, title XIV, § 1405(26)][/us/pl/98/525/s1405/26], Oct. 19, 1984, [98 Stat. 2623][/us/stat/98/2623]; [Pub. L. 99–348, title I, § 102][/us/pl/99/348/s102], July 1, 1986, [100 Stat. 683][/us/stat/100/683]; [Pub. L. 100–180, div. A, title XII, § 1231(21)][/us/pl/100/180/s1231/21], Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161]; [Pub. L. 100–224, § 1][/us/pl/100/224/s1], Dec. 30, 1987, [101 Stat. 1536][/us/stat/101/1536]; [Pub. L. 100–456, div. A, title VI, § 622(a)][/us/pl/100/456/s622/a], Sept. 29, 1988, [102 Stat. 1983][/us/stat/102/1983]; [Pub. L. 101–189, div. A, title VI, § 651(b)(1)][/us/pl/101/189/s651/b/1], Nov. 29, 1989, [103 Stat. 1460][/us/stat/103/1460]; [Pub. L. 103–66, title II, § 2001][/us/pl/103/66/s2001], Aug. 10, 1993, [107 Stat. 335][/us/stat/107/335]; [Pub. L. 103–160, div. A, title XI, § 1182(e)][/us/pl/103/160/s1182/e], Nov. 30, 1993, [107 Stat. 1773][/us/stat/107/1773]; [Pub. L. 103–335, title VIII, § 8114A(b)(1)][/us/pl/103/335/s8114A/b/1], Sept. 30, 1994, [108 Stat. 2648][/us/stat/108/2648]; [Pub. L. 103–337, div. A, title VI, § 633(a)][/us/pl/103/337/s633/a], Oct. 5, 1994, [108 Stat. 2787][/us/stat/108/2787]; [Pub. L. 104–106, div. A, title VI, § 631(a)][/us/pl/104/106/s631/a], (c), Feb. 10, 1996, [110 Stat. 364][/us/stat/110/364], 365; [Pub. L. 104–201, div. A, title VI][/us/pl/104/201], §§ 631(a), 632(a), Sept. 23, 1996, [110 Stat. 2549][/us/stat/110/2549]; [Pub. L. 106–65, div. A, title VI][/us/pl/106/65], §§ 641(b), 643(b)(1), title X, § 1066(a)(10), Oct. 5, 1999, [113 Stat. 662][/us/stat/113/662], 663, 771; [Pub. L. 107–314, div. A, title VI, § 633][/us/pl/107/314/s633], Dec. 2, 2002, [116 Stat. 2572][/us/stat/116/2572]; [Pub. L. 110–181, div. A, title VI, § 661(b)(3)][/us/pl/110/181/s661/b/3], Jan. 28, 2008, [122 Stat. 178][/us/stat/122/178]; [Pub. L. 113–66, div. A, title VI, § 631(a)][/us/pl/113/66/s631/a], (b), title X, § 1091(a)(9), Dec. 26, 2013, [127 Stat. 785][/us/stat/127/785], 876; [Pub. L. 113–67, div. A, title IV, § 403(a)][/us/pl/113/67/s403/a], Dec. 26, 2013, [127 Stat. 1186][/us/stat/127/1186]; [Pub. L. 113–76, div. C, title X, § 10001(a)][/us/pl/113/76/s10001/a], (b)(3), Jan. 17, 2014, [128 Stat. 151][/us/stat/128/151]; [Pub. L. 113–82, § 2(a)][/us/pl/113/82/s2/a], Feb. 15, 2014, [128 Stat. 1009][/us/stat/128/1009].)
 
- __Amendment of Subsection (b)__ 
+ __Amendment of Subsections (b) and (f)__ 
 
 [Pub. L. 113–67, div. A, title IV, § 403(a)][/us/pl/113/67/s403/a], (c), Dec. 26, 2013, [127 Stat. 1186][/us/stat/127/1186], provided that, effective Dec. 1, 2015, subsection (b) of this section is amended:
 
@@ -155,11 +155,39 @@
 
     See 2013 Amendment notes below.
 
+[Pub. L. 113–76, div. C, title X, § 10001(a)][/us/pl/113/76/s10001/a], (b)(3), (c), Jan. 17, 2014, [128 Stat. 151][/us/stat/128/151], provided that, effective Dec. 1, 2015, immediately after the coming into effect of [section 403 of Pub. L. 113–67][/us/pl/113/67/s403] and the amendments made by that section, this section is amended:
+
+    (1) in subsection (b)(4), as added by [section 403(a) of Pub. L. 113–67][/us/pl/113/67/s403/a] (see above):
+
+    (A) in subparagraph (A), by inserting after “age” the following: “(other than a member or former member retired under chapter 61 of this title)”; and
+
+    (B) by adding at the end the following new subparagraph:
+
+    “(F) Inapplicability to amount of retired pay used in computation of sbp annuity for survivors.—In the computation pursuant to subsection (d) or (f) of [section 1448 of this title][/us/usc/t10/s1448] of an annuity for survivors of a member or person who dies while subject to the application of this paragraph, the amount of the retired pay of such member or person for purposes of such computation shall be the amount of retired pay that would have been payable to such member or person at the time of death without regard to the application of this paragraph.”; and
+
+    (2) in subsection (f)(2), by inserting “or subsection (b)(4)” after “subsection (b)(2)”.
+
+    See 2014 Amendment notes below.
+
+[Pub. L. 113–82, § 2][/us/pl/113/82/s2], Feb. 15, 2014, [128 Stat. 1009][/us/stat/128/1009], provided that, effective Dec. 1, 2015, immediately after the coming into effect of [section 403 of Pub. L. 113–67][/us/pl/113/67/s403] and the amendments made by that section, subsection (b)(4) of this section, as added by [section 403(a) of Pub. L. 113–67][/us/pl/113/67/s403/a] (see above), is amended by adding at the end the following new subparagraph:
+
+    (G) Members covered.—This paragraph applies to a member or former member of an armed force who first became a member of a uniformed service on or after January 1, 2014.
+
+    See 2014 Amendment note below.
+
  __References in Text__ 
 
     [Section 322 of title 37][/us/usc/t37/s322] (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008), referred to in subsec. (b)(3), and [section 322 of title 37][/us/usc/t37/s322] (as in effect before January 28, 2008), referred to in subsecs. (d), and (e), means [section 322 of title 37][/us/usc/t37/s322] as in effect before enactment of [Pub. L. 110–181][/us/pl/110/181] on January 28, 2008. [Section 322 of title 37][/us/usc/t37/s322] was renumbered as [section 354 of title 37][/us/usc/t37/s354] and amended by [Pub. L. 110–181, div. A, title VI, § 661(b)(1)][/us/pl/110/181/s661/b/1], (2), Jan. 28, 2008, [122 Stat. 178][/us/stat/122/178].
 
  __Amendments__ 
+
+    2014—Subsec. (b)(4)(A). [Pub. L. 113–76, § 10001(a)(1)][/us/pl/113/76/s10001/a/1], inserted “(other than a member or former member retired under chapter 61 of this title)” after “age”.
+
+    Subsec. (b)(4)(F). [Pub. L. 113–76, § 10001(a)(2)][/us/pl/113/76/s10001/a/2], added subpar. (F).
+
+    Subsec. (b)(4)(G). [Pub. L. 113–82][/us/pl/113/82] added subpar. (G).
+
+    Subsec. (f)(3). [Pub. L. 113–76, § 10001(b)(3)][/us/pl/113/76/s10001/b/3], which directed the insertion of “or subsection (b)(4)” after “subsection (b)(2)” in par. (2), was executed by making the insertion in par. (3) to reflect the probable intent of Congress.
 
     2013—Subsec. (b)(1). [Pub. L. 113–67, § 403(a)(1)][/us/pl/113/67/s403/a/1], substituted “paragraph (2), (3), or (4)” for “paragraphs (2) and (3)”.
 
@@ -316,6 +344,16 @@
     Subsecs. (c) to (e). [Pub. L. 90–207][/us/pl/90/207] added subsecs. (c) to (e).
 
     1965—Subsec. (b). [Pub. L. 89–132][/us/pl/89/132] substituted provisions requiring the Secretary of Defense to determine the per centum for each calendar month that the Consumer Price Index has increased over the base Consumer Price Index, and if the index has shown an increase of at least 3 per centum over the base index for three consecutive calendar months to increase the retired or retainer pay by the highest per centum of increase in the index, for provisions which required a determination of the increase over the preceding calendar year and permitted an increase in the retired or retainer pay if the index advanced 3 per centum or more for a full calendar year.
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–82, § 2(b)][/us/pl/113/82/s2/b], Feb. 15, 2014, [128 Stat. 1009][/us/stat/128/1009], provided that: 
+
+> “The amendment made by subsection (a) \[amending this section\] shall take effect on December 1, 2015, immediately after the coming into effect of section 403 of the Bipartisan Budget Act of 2013 \[[section 403 of Pub. L. 113–67][/us/pl/113/67/s403], amending this section and [section 1410 of this title][/us/usc/t10/s1410] and enacting provisions set out as a note under this section\] and the amendments made by that section.”
+
+[Pub. L. 113–76, div. C, title X, § 10001(c)][/us/pl/113/76/s10001/c], Jan. 17, 2014, [128 Stat. 151][/us/stat/128/151], provided that: 
+
+> “The amendments made by subsections (a) and (b) \[amending this section and sections 1413a and 1414 of this title\] shall take effect on December 1, 2015, immediately after the coming into effect of section 403 of the Bipartisan Budget Act of 2013 \[[section 403 of Pub. L. 113–67][/us/pl/113/67/s403], amending this section and [section 1410 of this title][/us/usc/t10/s1410] and enacting provisions set out as a note under this section\] and the amendments made by that section.”
 
  __Effective Date of 2013 Amendment__ 
 
@@ -664,9 +702,22 @@
 [/us/stat/127/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F785
 [/us/pl/113/67/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403%2Fa
 [/us/stat/127/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1186
+[/us/pl/113/76/s10001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs10001%2Fa
+[/us/stat/128/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F151
+[/us/pl/113/82/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F82%2Fs2%2Fa
+[/us/stat/128/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1009
 [/us/pl/113/67/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403%2Fa
 [/us/stat/127/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1186
 [/us/usc/t10/s1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1410
+[/us/pl/113/76/s10001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs10001%2Fa
+[/us/stat/128/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F151
+[/us/pl/113/67/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403
+[/us/pl/113/67/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403%2Fa
+[/us/usc/t10/s1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448
+[/us/pl/113/82/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F82%2Fs2
+[/us/stat/128/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1009
+[/us/pl/113/67/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403
+[/us/pl/113/67/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403%2Fa
 [/us/usc/t37/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs322
 [/us/usc/t37/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs322
 [/us/usc/t37/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs322
@@ -675,6 +726,10 @@
 [/us/usc/t37/s354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs354
 [/us/pl/110/181/s661/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs661%2Fb%2F1
 [/us/stat/122/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F178
+[/us/pl/113/76/s10001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs10001%2Fa%2F1
+[/us/pl/113/76/s10001/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs10001%2Fa%2F2
+[/us/pl/113/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F82
+[/us/pl/113/76/s10001/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs10001%2Fb%2F3
 [/us/pl/113/67/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403%2Fa%2F1
 [/us/pl/113/67/s403/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403%2Fa%2F2
 [/us/pl/113/66/s631/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs631%2Fb
@@ -741,6 +796,14 @@
 [/us/pl/89/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F132
 [/us/pl/90/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F207
 [/us/pl/89/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F132
+[/us/pl/113/82/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F82%2Fs2%2Fb
+[/us/stat/128/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1009
+[/us/pl/113/67/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403
+[/us/usc/t10/s1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1410
+[/us/pl/113/76/s10001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs10001%2Fc
+[/us/stat/128/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F151
+[/us/pl/113/67/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403
+[/us/usc/t10/s1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1410
 [/us/pl/113/67/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403%2Fc
 [/us/stat/127/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1186
 [/us/pl/113/66/s631/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs631%2Fc
