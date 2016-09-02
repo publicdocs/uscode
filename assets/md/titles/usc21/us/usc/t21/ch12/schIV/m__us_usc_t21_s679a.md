@@ -111,7 +111,7 @@
 
 Use of Appropriated Funds
 
-    For prohibition of use of funds appropriated by div. A of [Pub. L. 113–235][/us/pl/113/235] or any other Act to carry out this section see section 741 [Pub. L. 113–235][/us/pl/113/235], set out as a note under [section 471 of this title][/us/usc/t21/s471].
+    For prohibition of use of funds appropriated by div. A of [Pub. L. 113–235][/us/pl/113/235] or any other Act to carry out this section, see section 741 [Pub. L. 113–235][/us/pl/113/235], set out as a note under [section 471 of this title][/us/usc/t21/s471].
 
 ----------
 

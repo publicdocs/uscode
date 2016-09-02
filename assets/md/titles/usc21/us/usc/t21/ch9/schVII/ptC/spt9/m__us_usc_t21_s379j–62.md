@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../../..//us/usc/t21/ch9/schVII/ptC/spt9/m__us_usc_t21_s379j–61.md) | [Next](./../../../../../../..//us/usc/t21/ch9/schVII/ptD/m__us_usc_t21_ch9_schVII_ptD.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9362)
 
-## 379j–62. Authority to assess and use outsourcing facility fees
+## § 379j–62. Authority to assess and use outsourcing facility fees
 
     (a) __Establishment and reinspection fees__ 
 
