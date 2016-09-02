@@ -13,11 +13,11 @@
 
 [Previous](./../../../../..//us/usc/t13/ch1/schI/m__us_usc_t13_s6.md) | [Next](./../../../../..//us/usc/t13/ch1/schI/m__us_usc_t13_s8.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs7)
 
-## § 7. Printing; requisitions upon Public Printer; publication of bulletins and reports
+## § 7. Printing; requisitions upon Director of the Government Publishing Office; publication of bulletins and reports
 
-    The Secretary may make requisition upon the Public Printer for miscellaneous printing necessary to carry out the provisions of this title. He may further have printed by the Public Printer, in such editions as he deems necessary, preliminary and other census bulletins, and final reports of the results of the several investigations authorized by this title, and may publish and distribute such bulletins and reports.
+    The Secretary may make requisition upon the Director of the Government Publishing Office for miscellaneous printing necessary to carry out the provisions of this title. He may further have printed by the Director of the Government Publishing Office, in such editions as he deems necessary, preliminary and other census bulletins, and final reports of the results of the several investigations authorized by this title, and may publish and distribute such bulletins and reports.
 
-([Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], [68 Stat. 1013][/us/stat/68/1013].)
+([Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], [68 Stat. 1013][/us/stat/68/1013]; [Pub. L. 113–235, div. H, title I, § 1301(d)][/us/pl/113/235/s1301/d], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
@@ -31,6 +31,10 @@
 
     For remainder of [section 1442 of title 42][/us/usc/t42/s1442], U.S.C., 1952 ed. (which section has been transferred in its entirety to this revised title), see Distribution Table.
 
+ __Change of Name__ 
+
+    “Director of the Government Publishing Office” substituted for “Public Printer” in section catchline and text on authority of [section 1301(d) of Pub. L. 113–235][/us/pl/113/235/s1301/d], set out as a note under [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t13/ch1/schI/m__us_usc_t13_s6.md) | [Next](./../../../../..//us/usc/t13/ch1/schI/m__us_usc_t13_s8.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs7)
@@ -40,6 +44,8 @@
 
 [/us/act/1954-08-31/ch1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1158
 [/us/stat/68/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1013
+[/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/usc/t42/s1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1442
 [/us/act/1929-06-18/ch28/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-18%2Fch28%2Fs13
 [/us/stat/46/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F25
@@ -49,5 +55,7 @@
 [/us/usc/t42/s1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1442
 [/us/usc/t13/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs213
 [/us/usc/t42/s1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1442
+[/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 
 

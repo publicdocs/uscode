@@ -83,7 +83,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs7" data-uslm-ref="/us/usc/t13/s7">7.</a>  </td>
 
-    <td> Printing; requisitions upon Public Printer; publication of bulletins and reports.  </td>
+    <td> Printing; requisitions upon Director of the Government Publishing Office; publication of bulletins and reports.  </td>
 
   </tr>
 
@@ -231,6 +231,10 @@ SUBCHAPTER II—OFFICERS AND EMPLOYEES  </td>
 
     1957—[Pub. L. 85–207, § 1][/us/pl/85/207/s1], Aug. 28, 1957, [71 Stat. 481][/us/stat/71/481], inserted “, acquisition of reports from governmental and other sources” in item 6, and added items 12, 13 and 26.
 
+ __Change of Name__ 
+
+    “Director of the Government Publishing Office” substituted for “Public Printer” in item 7 on authority of [section 1301(d) of Pub. L. 113–235][/us/pl/113/235/s1301/d], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], set out as a note under [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
+
 ----------
 
 [Previous](./../../../..//us/usc/t13/m__us_usc_t13.md) | [Next](./../../../..//us/usc/t13/ch1/schI/m__us_usc_t13_ch1_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fch1)
@@ -253,5 +257,8 @@ SUBCHAPTER II—OFFICERS AND EMPLOYEES  </td>
 [/us/stat/76/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F104
 [/us/pl/85/207/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207%2Fs1
 [/us/stat/71/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F481
+[/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 
 
