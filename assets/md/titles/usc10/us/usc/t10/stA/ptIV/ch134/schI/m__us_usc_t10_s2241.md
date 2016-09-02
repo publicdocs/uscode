@@ -57,6 +57,18 @@
 
     2003—Subsec. (c). [Pub. L. 108–136][/us/pl/108/136] added subsec. (c).
 
+ __Funds Prohibited for Support of Department or Agency in Arrears in Making Payment to Department of Defense__ 
+
+[Pub. L. 113–235, div. C, title VIII, § 8063][/us/pl/113/235/s8063], Dec. 16, 2014, [128 Stat. 2268][/us/stat/128/2268], provided that: 
+
+> “During the current fiscal year and hereafter, none of the funds available to the Department of Defense may be used to provide support to another department or agency of the United States if such department or agency is more than 90 days in arrears in making payment to the Department of Defense for goods or services previously provided to such department or agency on a reimbursable basis:  Provided, That this restriction shall not apply if the department is authorized by law to provide support to such department or agency on a nonreimbursable basis, and is providing the requested support pursuant to such authority:  Provided further, That the Secretary of Defense may waive this restriction on a case-by-case basis by certifying in writing to the Committees on Appropriations of the House of Representatives and the Senate that it is in the national security interest to do so.”
+
+ __Public Financial Disclosure Required by Senior Mentor Advising Department of Defense__ 
+
+[Pub. L. 113–235, div. C, title VIII, § 8104][/us/pl/113/235/s8104], Dec. 16, 2014, [128 Stat. 2278][/us/stat/128/2278], provided that: 
+
+> “None of the funds appropriated or otherwise made available by this Act \[div. C of [Pub. L. 113–235][/us/pl/113/235], see Tables for classification\] and hereafter may be obligated or expended to pay a retired general or flag officer to serve as a senior mentor advising the Department of Defense unless such retired officer files a Standard Form 278 (or successor form concerning public financial disclosure under part 2634 of title 5, Code of Federal Regulations) to the Office of Government Ethics.”
+
  __Limitation on Source of Funds for Certain Joint Cargo Aircraft Expenditures__ 
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title II, § 216, Oct. 14, 2008, [122 Stat. 4387][/us/stat/122/4387], provided that:
@@ -351,6 +363,11 @@ The following general provisions, that had been repeated as fiscal year provisio
 [/us/usc/t10/s2241/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2241%2Fb
 [/us/pl/98/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F212
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/113/235/s8063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs8063
+[/us/stat/128/2268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2268
+[/us/pl/113/235/s8104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs8104
+[/us/stat/128/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2278
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4387
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417

@@ -107,9 +107,13 @@
 
  __Incremental Contingency Operations Cost Report__ 
 
-[Pub. L. 113–76, div. C, title VIII, § 8092][/us/pl/113/76/s8092], Jan. 17, 2014, [128 Stat. 126][/us/stat/128/126], provided that: 
+[Pub. L. 113–235, div. C, title VIII, § 8097][/us/pl/113/235/s8097], Dec. 16, 2014, [128 Stat. 2276][/us/stat/128/2276], provided that: 
 
-> “The Department of Defense shall continue to report incremental contingency operations costs for Operation Enduring Freedom on a monthly basis and any other operation designated and identified by the Secretary of Defense for the purposes of [section 127a of title 10][/us/usc/t10/s127a], United States Code, on a semi-annual basis in the Cost of War Execution Report as prescribed in the Department of Defense Financial Management Regulation Department of Defense Instruction 7000.14, Volume 12, Chapter 23 ‘Contingency Operations’, Annex 1, dated September 2005.”
+> “The Department of Defense shall continue to report incremental contingency operations costs for Operation Inherent Resolve, Operation Enduring Freedom, and any named successor operations, on a monthly basis and any other operation designated and identified by the Secretary of Defense for the purposes of [section 127a of title 10][/us/usc/t10/s127a], United States Code, on a semi-annual basis in the Cost of War Execution Report as prescribed in the Department of Defense Financial Management Regulation Department of Defense Instruction 7000.14, Volume 12, Chapter 23 ‘Contingency Operations’, Annex 1, dated September 2005.”
+
+    Similar provisions were contained in the following appropriation act:
+
+    [Pub. L. 113–76, div. C, title VIII, § 8092][/us/pl/113/76/s8092], Jan. 17, 2014, [128 Stat. 126][/us/stat/128/126].
 
 ----------
 
@@ -141,8 +145,10 @@
 [/us/pl/104/106/s1003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1003%2Fb
 [/us/stat/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F417
 [/us/usc/t10/s127a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs127a
+[/us/pl/113/235/s8097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs8097
+[/us/stat/128/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2276
+[/us/usc/t10/s127a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs127a
 [/us/pl/113/76/s8092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs8092
 [/us/stat/128/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F126
-[/us/usc/t10/s127a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs127a
 
 

@@ -231,6 +231,12 @@
 
 > “Section 2486(e) \[now 2484(e)\] of title 10, United States Code, as added by subsection (a), shall not affect the terms, conditions, or duration of any contract or other agreement entered into by the Secretary of Defense before the date of the enactment of this Act \[Sept. 23, 1996\] for the procurement of commercial items for resale in commissary stores.”
 
+ __Competitive Pricing of Legal Consumer Tobacco Products Sold in Department of Defense Retail Stores__ 
+
+[Pub. L. 113–235, div. C, title VIII, § 8073][/us/pl/113/235/s8073], Dec. 16, 2014, [128 Stat. 2271][/us/stat/128/2271], provided that: 
+
+> “The Secretary of Defense shall issue regulations to prohibit the sale of any tobacco or tobacco-related products in military resale outlets in the United States, its territories and possessions at a price below the most competitive price in the local community:  Provided, That such regulations shall direct that the prices of tobacco or tobacco-related products in overseas military retail outlets shall be within the range of prices established for military retail system stores located in the United States.”
+
  __Test Program of Sale of Certain Items in Commissary Stores__ 
 
 [Pub. L. 108–375, div. A, title VI, § 651(g)][/us/pl/108/375/s651/g], Oct. 28, 2004, [118 Stat. 1972][/us/stat/118/1972], provided that:
@@ -322,6 +328,8 @@
 [/us/stat/101/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1074
 [/us/pl/104/201/s342/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs342%2Fb
 [/us/stat/110/2489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2489
+[/us/pl/113/235/s8073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs8073
+[/us/stat/128/2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2271
 [/us/pl/108/375/s651/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs651%2Fg
 [/us/stat/118/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1972
 [/us/pl/105/85/s372/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs372%2Ff

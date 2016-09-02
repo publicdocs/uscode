@@ -203,11 +203,13 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(2) specifically states that such provision of law modifies or supersedes the provisions of subsection (b) or (c), as the case may be.”
 
-[Pub. L. 113–76, div. C, title VIII, § 8045(a)][/us/pl/113/76/s8045/a], Jan. 17, 2014, [128 Stat. 115][/us/stat/128/115], provided that: 
+[Pub. L. 113–235, div. C, title VIII, § 8045(a)][/us/pl/113/235/s8045/a], Dec. 16, 2014, [128 Stat. 2264][/us/stat/128/2264], provided that: 
 
 > “None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–76, div. C, title VIII, § 8045(a)][/us/pl/113/76/s8045/a], Jan. 17, 2014, [128 Stat. 115][/us/stat/128/115].
 
     [Pub. L. 113–6, div. C, title VIII, § 8045(a)][/us/pl/113/6/s8045/a], Mar. 26, 2013, [127 Stat. 308][/us/stat/127/308].
 
@@ -460,6 +462,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/110/3009-71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-71
 [/us/pl/103/337/s1011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1011%2Fb
 [/us/stat/108/2836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2836
+[/us/pl/113/235/s8045/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs8045%2Fa
+[/us/stat/128/2264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2264
 [/us/pl/113/76/s8045/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs8045%2Fa
 [/us/stat/128/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F115
 [/us/pl/113/6/s8045/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs8045%2Fa

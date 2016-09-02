@@ -441,6 +441,8 @@ Similar provisions were contained in the following prior appropriation acts:
 
 Similar provisions were contained in the following appropriation acts:
 
+    [Pub. L. 113–235, div. C, title VIII, § 8078][/us/pl/113/235/s8078], Dec. 16, 2014, [128 Stat. 2272][/us/stat/128/2272].
+
     [Pub. L. 113–76, div. C, title VIII, § 8075][/us/pl/113/76/s8075], Jan. 17, 2014, [128 Stat. 123][/us/stat/128/123].
 
     [Pub. L. 113–6, div. C, title VIII, § 8075][/us/pl/113/6/s8075], Mar. 26, 2013, [127 Stat. 315][/us/stat/127/315].
@@ -679,6 +681,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/107/248/s8132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2Fs8132
 [/us/stat/116/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1568
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
+[/us/pl/113/235/s8078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs8078
+[/us/stat/128/2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2272
 [/us/pl/113/76/s8075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs8075
 [/us/stat/128/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F123
 [/us/pl/113/6/s8075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs8075
