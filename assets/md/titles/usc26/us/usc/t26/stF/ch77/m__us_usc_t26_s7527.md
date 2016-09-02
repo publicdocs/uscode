@@ -17,7 +17,7 @@
 
     (a) __General rule__ 
 
-        Not later than August 1, 2003, the Secretary shall establish a program for making payments on behalf of certified individuals to providers of qualified health insurance (as defined in section 35(e)) for such individuals.
+        Not later than the date that is 1 year after the date of the enactment of the Trade Adjustment Assistance Reauthorization Act of 2015, the Secretary shall establish a program for making payments on behalf of certified individuals to providers of qualified health insurance (as defined in section 35(e)) for such individuals.
 
     (b) __Limitation on advance payments during any taxable year__ 
 
@@ -51,23 +51,31 @@
 
         (1) __In general__ 
 
-            The program established under subsection (a) shall provide that the Secretary shall make 1 or more retroactive payments on behalf of a certified individual in an aggregate amount equal to 72.5 percent of the premiums for coverage of the taxpayer and qualifying family members under qualified health insurance for eligible coverage months (as defined in section 35(b)) occurring prior to the first month for which an advance payment is made on behalf of such individual under subsection (a).
+        The program established under subsection (a) shall provide that the Secretary shall make 1 or more retroactive payments on behalf of a certified individual in an aggregate amount equal to 72.5 percent of the premiums for coverage of the taxpayer and qualifying family members under qualified health insurance for eligible coverage months (as defined in section 35(b)) occurring—
+
+            (A) after the date that is 1 year after the date of the enactment of the Trade Adjustment Assistance Reauthorization Act of 2015; and
+
+            (B) prior to the first month for which an advance payment is made on behalf of such individual under subsection (a).
 
         (2) __Reduction of payment for amounts received under national emergency grants__ 
 
-            The amount of any payment determined under paragraph (1) shall be reduced by the amount of any payment made to the taxpayer for the purchase of qualified health insurance under a national emergency grant pursuant to section 173(f) of the Workforce Investment Act of 1998 for a taxable year including the eligible coverage months described in paragraph (1).
+            The amount of any payment determined under paragraph (1) shall be reduced by the amount of any payment made to the taxpayer for the purchase of qualified health insurance under a national emergency grant pursuant to section 173(f) of the Workforce Investment Act of 1998 (as in effect on the day before the date of enactment of the Workforce Innovation and Opportunity Act) for a taxable year including the eligible coverage months described in paragraph (1).
 
-(Added [Pub. L. 107–210, div. A, title II, § 202(a)][/us/pl/107/210/s202/a], Aug. 6, 2002, [116 Stat. 960][/us/stat/116/960]; amended [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1899A(a)(2), 1899B(a), 1899H(a), Feb. 17, 2009, [123 Stat. 424][/us/stat/123/424], 430; [Pub. L. 111–344, title I][/us/pl/111/344], §§ 111(b), 112(a), 118(a), Dec. 29, 2010, [124 Stat. 3615][/us/stat/124/3615], 3616; [Pub. L. 112–40, title II, § 241(b)(2)][/us/pl/112/40/s241/b/2], Oct. 21, 2011, [125 Stat. 418][/us/stat/125/418]; [Pub. L. 113–128, title V, § 512(r)][/us/pl/113/128/s512/r], July 22, 2014, [128 Stat. 1712][/us/stat/128/1712].)
-
- __Amendment of Subsection (e)(2)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(r), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1712, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (e)(2) of this section is amended by inserting “(as in effect on the day before the date of enactment of the Workforce Innovation and Opportunity Act)” after “of 1998”. See 2014 Amendment note below.
+(Added [Pub. L. 107–210, div. A, title II, § 202(a)][/us/pl/107/210/s202/a], Aug. 6, 2002, [116 Stat. 960][/us/stat/116/960]; amended [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1899A(a)(2), 1899B(a), 1899H(a), Feb. 17, 2009, [123 Stat. 424][/us/stat/123/424], 430; [Pub. L. 111–344, title I][/us/pl/111/344], §§ 111(b), 112(a), 118(a), Dec. 29, 2010, [124 Stat. 3615][/us/stat/124/3615], 3616; [Pub. L. 112–40, title II, § 241(b)(2)][/us/pl/112/40/s241/b/2], Oct. 21, 2011, [125 Stat. 418][/us/stat/125/418]; [Pub. L. 113–128, title V, § 512(r)][/us/pl/113/128/s512/r], July 22, 2014, [128 Stat. 1712][/us/stat/128/1712]; [Pub. L. 114–27, title IV, § 407(c)][/us/pl/114/27/s407/c], June 29, 2015, [129 Stat. 382][/us/stat/129/382].)
 
  __References in Text__ 
 
-    Section 173(f) of the Workforce Investment Act of 1998, referred to in subsec. (e)(2), is classified to [section 2918(f) of Title 29][/us/usc/t29/s2918/f], Labor.
+    The date of the enactment of the Trade Adjustment Assistance Reauthorization Act of 2015, referred to in subsecs. (a) and (e)(1)(A), is the date of enactment of title IV of [Pub. L. 114–27][/us/pl/114/27], which was approved June 29, 2015.
+
+    Section 173(f) of the Workforce Investment Act of 1998, referred to in subsec. (e)(2), was classified to former [section 2918(f) of Title 29][/us/usc/t29/s2918/f], Labor, prior to repeal by [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015.
+
+    The date of enactment of the Workforce Innovation and Opportunity Act, referred to in subsec. (e)(2), is the date of enactment of [Pub. L. 113–128][/us/pl/113/128], which was approved July 22, 2014.
 
  __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–27, § 407(c)(1)][/us/pl/114/27/s407/c/1], substituted “the date that is 1 year after the date of the enactment of the Trade Adjustment Assistance Reauthorization Act of 2015” for “August 1, 2003”.
+
+    Subsec. (e)(1). [Pub. L. 114–27, § 407(c)(2)][/us/pl/114/27/s407/c/2], substituted “occurring—” for “occurring prior to the first month for which an advance payment is made on behalf of such individual under subsection (a).” and added subpars. (A) and (B).
 
     2014—Subsec. (e)(2). [Pub. L. 113–128][/us/pl/113/128] inserted “(as in effect on the day before the date of enactment of the Workforce Innovation and Opportunity Act)” after “of 1998”.
 
@@ -95,9 +103,13 @@
 
     Subsec. (e). [Pub. L. 111–5, § 1899B(a)][/us/pl/111/5/s1899B/a], added subsec. (e).
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–27][/us/pl/114/27] applicable to coverage months in taxable years beginning after Dec. 31, 2013, see [section 407(f) of Pub. L. 114–27][/us/pl/114/27/s407/f], set out as a note under [section 35 of this title][/us/usc/t26/s35].
+
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2011 Amendment__ 
 
@@ -131,7 +143,7 @@
 
  __Construction__ 
 
-    Nothing in the amendments made by title II of [Pub. L. 107–210][/us/pl/107/210], other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating a new mandate on any party regarding health insurance coverage, see [section 203(f) of Pub. L. 107–210][/us/pl/107/210/s203/f], set out as a Construction of 2002 Amendment note under [section 2918 of Title 29][/us/usc/t29/s2918], Labor.
+    Nothing in the amendments made by title II of [Pub. L. 107–210][/us/pl/107/210], other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating a new mandate on any party regarding health insurance coverage, see [section 203(f) of Pub. L. 107–210][/us/pl/107/210/s203/f], set out as a note under [section 35 of this title][/us/usc/t26/s35].
 
  __Transitional Rule__ 
 
@@ -156,9 +168,15 @@
 [/us/stat/125/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F418
 [/us/pl/113/128/s512/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fr
 [/us/stat/128/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1712
+[/us/pl/114/27/s407/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs407%2Fc
+[/us/stat/129/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F382
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/usc/t29/s2918/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918%2Ff
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2918/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918%2Ff
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/114/27/s407/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs407%2Fc%2F1
+[/us/pl/114/27/s407/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs407%2Fc%2F2
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/112/40/s241/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs241%2Fb%2F2%2FA
 [/us/pl/112/40/s241/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs241%2Fb%2F2%2FB
@@ -170,6 +188,9 @@
 [/us/pl/111/5/s1899A/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1899A%2Fa%2F2
 [/us/pl/111/5/s1899H/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1899H%2Fa
 [/us/pl/111/5/s1899B/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1899B%2Fa
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27/s407/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs407%2Ff
+[/us/usc/t26/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs35
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
@@ -197,7 +218,7 @@
 [/us/stat/123/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F431
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/pl/107/210/s203/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs203%2Ff
-[/us/usc/t29/s2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918
+[/us/usc/t26/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs35
 [/us/pl/111/5/s1899B/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1899B%2Fc
 [/us/stat/123/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F424
 

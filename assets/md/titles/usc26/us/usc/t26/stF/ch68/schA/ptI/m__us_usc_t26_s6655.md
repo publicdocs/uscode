@@ -759,6 +759,14 @@
 
  __Payment of Corporate Estimated Taxes__ 
 
+[Pub. L. 114–27, title VIII, § 803][/us/pl/114/27/s803], June 29, 2015, [129 Stat. 415][/us/stat/129/415], provided that: 
+
+> “Notwithstanding section 6655 of the Internal Revenue Code of 1986, in the case of a corporation with assets of not less than $1,000,000,000 (determined as of the end of the preceding taxable year)—
+
+>     “(1) the amount of any required installment of corporate estimated tax which is otherwise due in July, August, or September of 2020 shall be increased by 8 percent of such amount (determined without regard to any increase in such amount not contained in such Code); and
+
+>     “(2) the amount of the next required installment after an installment referred to in paragraph (1) shall be appropriately reduced to reflect the amount of the increase by reason of such paragraph.”
+
 [Pub. L. 112–163, § 4][/us/pl/112/163/s4], Aug. 10, 2012, [126 Stat. 1277][/us/stat/126/1277], provided that: 
 
 > “Notwithstanding section 6655 of the Internal Revenue Code of 1986—
@@ -1246,6 +1254,8 @@
 [/us/stat/128/4025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4025
 [/us/pl/112/96/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs7001
 [/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/114/27/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs803
+[/us/stat/129/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F415
 [/us/pl/112/163/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163%2Fs4
 [/us/stat/126/1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1277
 [/us/pl/112/43/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F43%2Fs502

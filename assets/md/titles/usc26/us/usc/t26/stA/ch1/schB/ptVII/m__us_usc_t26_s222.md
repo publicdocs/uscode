@@ -103,7 +103,17 @@
 
             If the taxpayer is a nonresident alien individual for any portion of the taxable year, this section shall apply only if such individual is treated as a resident alien of the United States for purposes of this chapter by reason of an election under subsection (g) or (h) of section 6013.
 
-        (6) __Regulations__ 
+        (6) __Payee statement requirement__ 
+
+            (A) __In general__ 
+
+                Except as otherwise provided by the Secretary, no deduction shall be allowed under subsection (a) unless the taxpayer receives a statement furnished under section 6050S(d) which contains all of the information required by paragraph (2) thereof.
+
+            (B) __Statement received by dependent__ 
+
+                The receipt of the statement referred to in subparagraph (A) by an individual described in subsection (c)(3) shall be treated for purposes of subparagraph (A) as received by the taxpayer.
+
+        (7) __Regulations__ 
 
             The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations requiring recordkeeping and information reporting.
 
@@ -111,7 +121,7 @@
 
         This section shall not apply to taxable years beginning after December 31, 2014.
 
-(Added [Pub. L. 107–16, title IV, § 431(a)][/us/pl/107/16/s431/a], June 7, 2001, [115 Stat. 66][/us/stat/115/66]; amended [Pub. L. 108–357, title I, § 102(d)(3)][/us/pl/108/357/s102/d/3], Oct. 22, 2004, [118 Stat. 1429][/us/stat/118/1429]; [Pub. L. 109–432, div. A, title I, § 101(a)][/us/pl/109/432/s101/a], (b), Dec. 20, 2006, [120 Stat. 2933][/us/stat/120/2933]; [Pub. L. 110–343, div. C, title II, § 202(a)][/us/pl/110/343/s202/a], Oct. 3, 2008, [122 Stat. 3864][/us/stat/122/3864]; [Pub. L. 111–312, title VII, § 724(a)][/us/pl/111/312/s724/a], Dec. 17, 2010, [124 Stat. 3316][/us/stat/124/3316]; [Pub. L. 112–240, title II, § 207(a)][/us/pl/112/240/s207/a], Jan. 2, 2013, [126 Stat. 2324][/us/stat/126/2324]; [Pub. L. 113–295, div. A, title I, § 107(a)][/us/pl/113/295/s107/a], Dec. 19, 2014, [128 Stat. 4013][/us/stat/128/4013].)
+(Added [Pub. L. 107–16, title IV, § 431(a)][/us/pl/107/16/s431/a], June 7, 2001, [115 Stat. 66][/us/stat/115/66]; amended [Pub. L. 108–357, title I, § 102(d)(3)][/us/pl/108/357/s102/d/3], Oct. 22, 2004, [118 Stat. 1429][/us/stat/118/1429]; [Pub. L. 109–432, div. A, title I, § 101(a)][/us/pl/109/432/s101/a], (b), Dec. 20, 2006, [120 Stat. 2933][/us/stat/120/2933]; [Pub. L. 110–343, div. C, title II, § 202(a)][/us/pl/110/343/s202/a], Oct. 3, 2008, [122 Stat. 3864][/us/stat/122/3864]; [Pub. L. 111–312, title VII, § 724(a)][/us/pl/111/312/s724/a], Dec. 17, 2010, [124 Stat. 3316][/us/stat/124/3316]; [Pub. L. 112–240, title II, § 207(a)][/us/pl/112/240/s207/a], Jan. 2, 2013, [126 Stat. 2324][/us/stat/126/2324]; [Pub. L. 113–295, div. A, title I, § 107(a)][/us/pl/113/295/s107/a], Dec. 19, 2014, [128 Stat. 4013][/us/stat/128/4013]; [Pub. L. 114–27, title VIII, § 804(b)][/us/pl/114/27/s804/b], June 29, 2015, [129 Stat. 415][/us/stat/129/415].)
 
  __Prior Provisions__ 
 
@@ -120,6 +130,8 @@
     Another prior section 222, added [Pub. L. 97–34, title I, § 125(a)][/us/pl/97/34/s125/a], Aug. 13, 1981, [95 Stat. 201][/us/stat/95/201]; amended [Pub. L. 97–448, title I, § 101(f)][/us/pl/97/448/s101/f], Jan. 12, 1983, [96 Stat. 2367][/us/stat/96/2367], related to deduction of adoption expenses, prior to repeal by [Pub. L. 99–514, title I][/us/pl/99/514], §§ 135(a), 151(a), Oct. 22, 1986, [100 Stat. 2116][/us/stat/100/2116], 2121, applicable to taxable years beginning after Dec. 31, 1986.
 
  __Amendments__ 
+
+    2015—Subsec. (d)(6), (7). [Pub. L. 114–27][/us/pl/114/27] added par. (6) and redesignated former par. (6) as (7).
 
     2014—Subsec. (e). [Pub. L. 113–295][/us/pl/113/295] substituted “December 31, 2014” for “December 31, 2013”.
 
@@ -134,6 +146,10 @@
     Subsec. (e). [Pub. L. 109–432, § 101(a)][/us/pl/109/432/s101/a], substituted “2007” for “2005”.
 
     2004—Subsec. (b)(2)(C)(i). [Pub. L. 108–357][/us/pl/108/357] inserted “199,” before “911”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–27][/us/pl/114/27] applicable to taxable years beginning after June 29, 2015, see [section 804(d) of Pub. L. 114–27][/us/pl/114/27/s804/d], set out as a note under [section 25A of this title][/us/usc/t26/s25A].
 
  __Effective Date of 2014 Amendment__ 
 
@@ -194,6 +210,8 @@
 [/us/stat/126/2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2324
 [/us/pl/113/295/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs107%2Fa
 [/us/stat/128/4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4013
+[/us/pl/114/27/s804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs804%2Fb
+[/us/stat/129/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F415
 [/us/usc/t26/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs224
 [/us/pl/97/34/s125/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs125%2Fa
 [/us/stat/95/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F201
@@ -201,6 +219,7 @@
 [/us/stat/96/2367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2367
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2116
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
@@ -208,6 +227,9 @@
 [/us/pl/109/432/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs101%2Fb
 [/us/pl/109/432/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs101%2Fa
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27/s804/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs804%2Fd
+[/us/usc/t26/s25A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs25A
 [/us/pl/113/295/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs107%2Fb
 [/us/stat/128/4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4013
 [/us/pl/112/240/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs207%2Fb

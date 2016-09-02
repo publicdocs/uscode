@@ -1815,6 +1815,10 @@ The corresponding percentages shall be substituted for
 
  __Short Title of 2015 Amendment__ 
 
+[Pub. L. 114–26, § 1][/us/pl/114/26/s1], June 29, 2015, [129 Stat. 319][/us/stat/129/319], provided that: 
+
+> “This Act \[see Tables for classification\] may be cited as the ‘Defending Public Safety Employees’ Retirement Act’.”
+
 [Pub. L. 114–14, § 1][/us/pl/114/14/s1], May 22, 2015, [129 Stat. 198][/us/stat/129/198], provided that: 
 
 > “This Act \[amending [section 104 of this title][/us/usc/t26/s104]\] may be cited as the ‘Don’t Tax Our Fallen Public Safety Heroes Act’.”
@@ -3524,6 +3528,8 @@ The corresponding percentages shall be substituted for
 [/us/stat/78/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F30
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
+[/us/pl/114/26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F26%2Fs1
+[/us/stat/129/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F319
 [/us/pl/114/14/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F14%2Fs1
 [/us/stat/129/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F198
 [/us/usc/t26/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs104

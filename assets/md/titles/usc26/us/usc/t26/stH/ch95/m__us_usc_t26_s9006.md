@@ -67,7 +67,7 @@
 
 > “In addition to the amounts appropriated to the Presidential Election Campaign Fund established under section 9006 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to payments to eligible candidates) by the last sentence of subsection (a) of such section (as amended by subsection (a) of this section), there is appropriated to such fund an amount equal to the sum of the amounts designated for payment under section 6096 of such Code (relating to designation by individuals to the Presidential Election Campaign Fund) before January 1, 1975, not otherwise taken into account under the provisions of such section 9006, as amended by this section.”
 
-    Provision effective Jan. 1, 1975, see [section 410(a) of Pub. L. 93–443][/us/pl/93/443/s410/a], set out as a note under [section 30101 of Title 52][/us/usc/t52/s30101], Voting and Elections.
+    \[Provision effective Jan. 1, 1975, see [section 410(a) of Pub. L. 93–443][/us/pl/93/443/s410/a], set out as a note under [section 30101 of Title 52][/us/usc/t52/s30101], Voting and Elections.\]
 
  __Designation to the Presidential Election Campaign Fund__ 
 

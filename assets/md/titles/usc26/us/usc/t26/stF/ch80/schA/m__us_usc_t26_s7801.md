@@ -99,7 +99,7 @@
 
 > “That not later than 14 days after the end of each quarter of each fiscal year, the Internal Revenue Service shall submit a report to the House and Senate Committees on Appropriations and the Comptroller General of the United States detailing the cost and schedule performance for its major information technology investments, including the purpose and life-cycle stages of the investments; the reasons for any cost and schedule variances; the risks of such investments and strategies the Internal Revenue Service is using to mitigate such risks; and the expected developmental milestones to be achieved and costs to be incurred in the next quarter”.
 
-    Similar provisions were contained in the following appropriation act:
+Similar provisions were contained in the following appropriation acts:
 
     [Pub. L. 113–235, div. E, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2337][/us/stat/128/2337].
 
@@ -109,7 +109,7 @@
 
 > “That not later than 14 days after the end of each quarter of each fiscal year, the Internal Revenue Service shall submit a report to the House and Senate Committees on Appropriations and the Comptroller General of the United States detailing the cost and schedule performance for CADE2 and Modernized e-File information technology investments, including the purposes and life-cycle stages of the investments; the reasons for any cost and schedule variances; the risks of such investments and the strategies the Internal Revenue Service is using to mitigate such risks; and the expected developmental milestones to be achieved and costs to be incurred in the next quarter.”
 
-    Similar provisions were contained in the following appropriation act:
+Similar provisions were contained in the following appropriation acts:
 
     [Pub. L. 113–235, div. E, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2337][/us/stat/128/2337].
 

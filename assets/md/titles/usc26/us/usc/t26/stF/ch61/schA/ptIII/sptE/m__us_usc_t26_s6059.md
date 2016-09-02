@@ -33,7 +33,7 @@
 
             (A) that to the best of his knowledge the report is complete and accurate, and
 
-            (B) the requirements for reasonable actuarial assumptions under section 430(h)(1), 431(c)(3), or 433(c)(3), whichever are applicable, have been complied with. <sup>\[1\]</sup>  <sup><sup> 1 So in original. The period probably should be a comma. </sup></sup> 
+            (B) the  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “that”. </sup></sup>  requirements for reasonable actuarial assumptions under section 430(h)(1), 431(c)(3), or 433(c)(3), whichever are applicable, have been complied with. <sup>\[2\]</sup>  <sup><sup> 2 So in original. The period probably should be a comma. </sup></sup> 
 
         (4) such other information as may be necessary to fully and fairly disclose the actuarial position of the plan, and
 

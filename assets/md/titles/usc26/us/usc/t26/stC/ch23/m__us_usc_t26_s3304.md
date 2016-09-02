@@ -919,7 +919,7 @@
 
 >                 “(ii) an assessment of the skills of the individual;
 
->                 “(iii) orientation to the services available through the one-stop centers established under title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\]; and
+>                 “(iii) orientation to the services available through the one-stop centers established under title I of the Workforce Investment Act of 1998 \[former [29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\]; and
 
 >                 “(iv) review of the eligibility of the individual for emergency unemployment compensation relating to the job search activities of the individual; and
 

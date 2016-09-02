@@ -19,7 +19,7 @@
 
         (1) __In general__ 
 
-            In the case of a failure described in paragraph (2) by any person with respect to an information return, such person shall pay a penalty of $100 for each return with respect to which such a failure occurs, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $1,500,000.
+            In the case of a failure described in paragraph (2) by any person with respect to an information return, such person shall pay a penalty of $250 for each return with respect to which such a failure occurs, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $3,000,000.
 
         (2) __Failures subject to penalty__ 
 
@@ -35,17 +35,17 @@
 
         If any failure described in subsection (a)(2) is corrected on or before the day 30 days after the required filing date—
 
-            (A) the penalty imposed by subsection (a) shall be $30 in lieu of $100, and
+            (A) the penalty imposed by subsection (a) shall be $50 in lieu of $250, and
 
-            (B) the total amount imposed on the person for all such failures during any calendar year which are so corrected shall not exceed $250,000.
+            (B) the total amount imposed on the person for all such failures during any calendar year which are so corrected shall not exceed $500,000.
 
         (2) __Failures corrected on or before August 1__ 
 
         If any failure described in subsection (a)(2) is corrected after the 30th day referred to in paragraph (1) but on or before August 1 of the calendar year in which the required filing date occurs—
 
-            (A) the penalty imposed by subsection (a) shall be $60 in lieu of $100, and
+            (A) the penalty imposed by subsection (a) shall be $100 in lieu of $250, and
 
-            (B) the total amount imposed on the person for all such failures during the calendar year which are so corrected shall not exceed $500,000.
+            (B) the total amount imposed on the person for all such failures during the calendar year which are so corrected shall not exceed $1,500,000.
 
     (c) __Exception for de minimis failures to include all required information__ 
 
@@ -75,11 +75,11 @@
 
         If any person meets the gross receipts test of paragraph (2) with respect to any calendar year, with respect to failures during such calendar year—
 
-            (A) subsection (a)(1) shall be applied by substituting “$500,000” for “$1,500,000”,
+            (A) subsection (a)(1) shall be applied by substituting “$1,000,000” for “$3,000,000”,
 
-            (B) subsection (b)(1)(B) shall be applied by substituting “$75,000” for “$250,000”, and
+            (B) subsection (b)(1)(B) shall be applied by substituting “$175,000” for “$500,000”, and
 
-            (C) subsection (b)(2)(B) shall be applied by substituting “$200,000” for “$500,000”.
+            (C) subsection (b)(2)(B) shall be applied by substituting “$500,000” for “$1,500,000”.
 
         (2) __Gross receipts test__ 
 
@@ -99,7 +99,7 @@
 
         (2)
 
-         the penalty imposed under subsection (a) shall be $250, or, if greater—
+         the penalty imposed under subsection (a) shall be $500, or, if greater—
 
             (A) in the case of a return other than a return required under section 6045(a), 6041A(b), 6050H, 6050I, 6050J, 6050K, or 6050L, 10 percent of the aggregate amount of the items required to be reported correctly,
 
@@ -119,7 +119,7 @@
 
          in the case of any penalty determined under paragraph (2)—
 
-            (A) the $1,500,000 limitation under subsection (a) shall not apply, and
+            (A) the $3,000,000 limitation under subsection (a) shall not apply, and
 
             (B) such penalty shall not be taken into account in applying such limitation (or any similar limitation under subsection (b)) to penalties not determined under paragraph (2).
 
@@ -137,9 +137,29 @@
 
             (B) is not described in subparagraph (A) and is not a multiple of $10, such amount shall be rounded to the next lowest multiple of $10.
 
-(Added [Pub. L. 99–514, title XV, § 1501(a)][/us/pl/99/514/s1501/a], Oct. 22, 1986, [100 Stat. 2732][/us/stat/100/2732]; amended [Pub. L. 100–690, title VII, § 7601(a)(2)(A)][/us/pl/100/690/s7601/a/2/A], Nov. 18, 1988, [102 Stat. 4503][/us/stat/102/4503]; [Pub. L. 101–239, title VII, § 7711(a)][/us/pl/101/239/s7711/a], Dec. 19, 1989, [103 Stat. 2388][/us/stat/103/2388]; [Pub. L. 101–508, title XI, § 11318(b)][/us/pl/101/508/s11318/b], Nov. 5, 1990, [104 Stat. 1388–459][/us/stat/104/1388-459]; [Pub. L. 109–280, title XII, § 1211(b)(2)][/us/pl/109/280/s1211/b/2], Aug. 17, 2006, [120 Stat. 1073][/us/stat/120/1073]; [Pub. L. 111–240, title II, § 2102(a)][/us/pl/111/240/s2102/a]–(f), Sept. 27, 2010, [124 Stat. 2561][/us/stat/124/2561], 2562; [Pub. L. 113–295, div. B, title II, § 208(f)][/us/pl/113/295/s208/f], Dec. 19, 2014, [128 Stat. 4074][/us/stat/128/4074].)
+(Added [Pub. L. 99–514, title XV, § 1501(a)][/us/pl/99/514/s1501/a], Oct. 22, 1986, [100 Stat. 2732][/us/stat/100/2732]; amended [Pub. L. 100–690, title VII, § 7601(a)(2)(A)][/us/pl/100/690/s7601/a/2/A], Nov. 18, 1988, [102 Stat. 4503][/us/stat/102/4503]; [Pub. L. 101–239, title VII, § 7711(a)][/us/pl/101/239/s7711/a], Dec. 19, 1989, [103 Stat. 2388][/us/stat/103/2388]; [Pub. L. 101–508, title XI, § 11318(b)][/us/pl/101/508/s11318/b], Nov. 5, 1990, [104 Stat. 1388–459][/us/stat/104/1388-459]; [Pub. L. 109–280, title XII, § 1211(b)(2)][/us/pl/109/280/s1211/b/2], Aug. 17, 2006, [120 Stat. 1073][/us/stat/120/1073]; [Pub. L. 111–240, title II, § 2102(a)][/us/pl/111/240/s2102/a]–(f), Sept. 27, 2010, [124 Stat. 2561][/us/stat/124/2561], 2562; [Pub. L. 113–295, div. B, title II, § 208(f)][/us/pl/113/295/s208/f], Dec. 19, 2014, [128 Stat. 4074][/us/stat/128/4074]; [Pub. L. 114–27, title VIII, § 806(a)][/us/pl/114/27/s806/a]–(d), June 29, 2015, [129 Stat. 416][/us/stat/129/416], 417.)
 
  __Amendments__ 
+
+    2015—Subsec. (a)(1). [Pub. L. 114–27, § 806(a)][/us/pl/114/27/s806/a], substituted “$250” for “$100” and “$3,000,000” for “$1,500,000”.
+
+    Subsec. (b)(1)(A). [Pub. L. 114–27, § 806(b)(1)(A)][/us/pl/114/27/s806/b/1/A], (B), substituted “$50” for “$30” and “$250” for “$100”.
+
+    Subsec. (b)(1)(B). [Pub. L. 114–27, § 806(b)(1)(C)][/us/pl/114/27/s806/b/1/C], substituted “$500,000” for “$250,000”.
+
+    Subsec. (b)(2)(A). [Pub. L. 114–27, § 806(b)(2)(A)][/us/pl/114/27/s806/b/2/A], (B), substituted “$100” for “$60” and “$250” for “$100”.
+
+    Subsec. (b)(2)(B). [Pub. L. 114–27, § 806(b)(2)(C)][/us/pl/114/27/s806/b/2/C], substituted “$1,500,000” for “$500,000”.
+
+    Subsec. (d)(1)(A). [Pub. L. 114–27, § 806(c)(1)][/us/pl/114/27/s806/c/1], substituted “$1,000,000” for “$500,000” and “$3,000,000” for “$1,500,000”.
+
+    Subsec. (d)(1)(B). [Pub. L. 114–27, § 806(c)(2)][/us/pl/114/27/s806/c/2], substituted “$175,000” for “$75,000” and “$500,000” for “$250,000”.
+
+    Subsec. (d)(1)(C). [Pub. L. 114–27, § 806(c)(3)][/us/pl/114/27/s806/c/3], substituted “$500,000” for “$200,000” and “$1,500,000” for “$500,000”.
+
+    Subsec. (e)(2). [Pub. L. 114–27, § 806(d)(1)][/us/pl/114/27/s806/d/1], substituted “$500” for “$250”.
+
+    Subsec. (e)(3)(A). [Pub. L. 114–27, § 806(d)(2)][/us/pl/114/27/s806/d/2], substituted “$3,000,000” for “$1,500,000”.
 
     2014—Subsec. (f)(1). [Pub. L. 113–295][/us/pl/113/295] substituted “In the case of any failure relating to a return required to be filed in a calendar year beginning after 2014” for “For each fifth calendar year beginning after 2012”.
 
@@ -174,6 +194,12 @@
     1989—[Pub. L. 101–239][/us/pl/101/239] substituted “correct” for “certain” in section catchline and amended text generally, substituting subsecs. (a) to (e) for former subsec. (a) stating general rule and subsec. (b) relating to penalty in case of intentional disregard.
 
     1988—Subsec. (b)(1)(A). [Pub. L. 100–690][/us/pl/100/690] inserted “(or, if greater, in the case of a return filed under section 6050I, 10 percent of the taxable income derived from the transaction)” after “reported”.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–27, title VIII, § 806(f)][/us/pl/114/27/s806/f], June 29, 2015, [129 Stat. 418][/us/stat/129/418], provided that: 
+
+> “The amendments made by this section \[amending this section and [section 6722 of this title][/us/usc/t26/s6722]\] shall apply with respect to returns and statements required to be filed after December 31, 2015.”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -230,6 +256,18 @@
 [/us/stat/124/2561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2561
 [/us/pl/113/295/s208/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Ff
 [/us/stat/128/4074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4074
+[/us/pl/114/27/s806/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fa
+[/us/stat/129/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F416
+[/us/pl/114/27/s806/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fa
+[/us/pl/114/27/s806/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fb%2F1%2FA
+[/us/pl/114/27/s806/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fb%2F1%2FC
+[/us/pl/114/27/s806/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fb%2F2%2FA
+[/us/pl/114/27/s806/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fb%2F2%2FC
+[/us/pl/114/27/s806/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fc%2F1
+[/us/pl/114/27/s806/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fc%2F2
+[/us/pl/114/27/s806/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fc%2F3
+[/us/pl/114/27/s806/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fd%2F1
+[/us/pl/114/27/s806/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fd%2F2
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/240/s2102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2102%2Fa
 [/us/pl/111/240/s2102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2102%2Fa%2F1
@@ -247,6 +285,9 @@
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/114/27/s806/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Ff
+[/us/stat/129/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F418
+[/us/usc/t26/s6722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6722
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s208/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fh
 [/us/usc/t26/s6651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6651

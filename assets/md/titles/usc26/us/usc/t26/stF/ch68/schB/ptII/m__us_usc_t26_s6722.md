@@ -19,7 +19,7 @@
 
         (1) __General rule__ 
 
-            In the case of each failure described in paragraph (2) by any person with respect to a payee statement, such person shall pay a penalty of $100 for each statement with respect to which such a failure occurs, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $1,500,000.
+            In the case of each failure described in paragraph (2) by any person with respect to a payee statement, such person shall pay a penalty of $250 for each statement with respect to which such a failure occurs, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $3,000,000.
 
         (2) __Failures subject to penalty__ 
 
@@ -35,17 +35,17 @@
 
         If any failure described in subsection (a)(2) is corrected on or before the day 30 days after the date prescribed for furnishing such statement—
 
-            (A) the penalty imposed by subsection (a) shall be $30 in lieu of $100, and
+            (A) the penalty imposed by subsection (a) shall be $50 in lieu of $250, and
 
-            (B) the total amount imposed on the person for all such failures during any calendar year which are so corrected shall not exceed $250,000.
+            (B) the total amount imposed on the person for all such failures during any calendar year which are so corrected shall not exceed $500,000.
 
         (2) __Failures corrected on or before August 1__ 
 
         If any failure described in subsection (a)(2) is corrected after the 30th day referred to in paragraph (1) but on or before August 1 of the calendar year in which the date prescribed for furnishing such statement occurs—
 
-            (A) the penalty imposed by subsection (a) shall be $60 in lieu of $100, and
+            (A) the penalty imposed by subsection (a) shall be $100 in lieu of $250, and
 
-            (B) the total amount imposed on the person for all such failures during the calendar year which are so corrected shall not exceed $500,000.
+            (B) the total amount imposed on the person for all such failures during the calendar year which are so corrected shall not exceed $1,500,000.
 
     (c) __Exception for de minimis failures__ 
 
@@ -75,11 +75,11 @@
 
         If any person meets the gross receipts test of paragraph (2) with respect to any calendar year, with respect to failures during such calendar year—
 
-            (A) subsection (a)(1) shall be applied by substituting “$500,000” for “$1,500,000”,
+            (A) subsection (a)(1) shall be applied by substituting “$1,000,000” for “$3,000,000”,
 
-            (B) subsection (b)(1)(B) shall be applied by substituting “$75,000” for “$250,000”, and
+            (B) subsection (b)(1)(B) shall be applied by substituting “$175,000” for “$500,000”, and
 
-            (C) subsection (b)(2)(B) shall be applied by substituting “$200,000” for “$500,000”.
+            (C) subsection (b)(2)(B) shall be applied by substituting “$500,000” for “$1,500,000”.
 
         (2) __Gross receipts test__ 
 
@@ -93,7 +93,7 @@
 
         (2)
 
-         the penalty imposed under subsection (a)(1) shall be $250, or, if greater—
+         the penalty imposed under subsection (a)(1) shall be $500, or, if greater—
 
             (A) in the case of a payee statement other than a statement required under section 6045(b), 6041A(e) (in respect of a return required under section 6041A(b)), 6050H(d), 6050J(e), 6050K(b), or 6050L(c), 10 percent of the aggregate amount of the items required to be reported correctly, or
 
@@ -103,7 +103,7 @@
 
          in the case of any penalty determined under paragraph (2)—
 
-            (A) the $1,500,000 limitation under subsection (a) shall not apply, and
+            (A) the $3,000,000 limitation under subsection (a) shall not apply, and
 
             (B) such penalty shall not be taken into account in applying such limitation to penalties not determined under paragraph (2).
 
@@ -121,9 +121,29 @@
 
             (B) is not described in subparagraph (A) and is not a multiple of $10, such amount shall be rounded to the next lowest multiple of $10.
 
-(Added [Pub. L. 99–514, title XV, § 1501(a)][/us/pl/99/514/s1501/a], Oct. 22, 1986, [100 Stat. 2733][/us/stat/100/2733]; amended [Pub. L. 101–239, title VII, § 7711(a)][/us/pl/101/239/s7711/a], Dec. 19, 1989, [103 Stat. 2390][/us/stat/103/2390]; [Pub. L. 111–240, title II, § 2102(g)][/us/pl/111/240/s2102/g], Sept. 27, 2010, [124 Stat. 2562][/us/stat/124/2562]; [Pub. L. 113–295, div. A, title II, § 207(a)(2)][/us/pl/113/295/s207/a/2], (3), div. B, title II, § 208(g), Dec. 19, 2014, [128 Stat. 4027][/us/stat/128/4027], 4028, 4074.)
+(Added [Pub. L. 99–514, title XV, § 1501(a)][/us/pl/99/514/s1501/a], Oct. 22, 1986, [100 Stat. 2733][/us/stat/100/2733]; amended [Pub. L. 101–239, title VII, § 7711(a)][/us/pl/101/239/s7711/a], Dec. 19, 1989, [103 Stat. 2390][/us/stat/103/2390]; [Pub. L. 111–240, title II, § 2102(g)][/us/pl/111/240/s2102/g], Sept. 27, 2010, [124 Stat. 2562][/us/stat/124/2562]; [Pub. L. 113–295, div. A, title II, § 207(a)(2)][/us/pl/113/295/s207/a/2], (3), div. B, title II, § 208(g), Dec. 19, 2014, [128 Stat. 4027][/us/stat/128/4027], 4028, 4074; [Pub. L. 114–27, title VIII, § 806(e)][/us/pl/114/27/s806/e], June 29, 2015, [129 Stat. 417][/us/stat/129/417].)
 
  __Amendments__ 
+
+    2015—Subsec. (a)(1). [Pub. L. 114–27, § 806(e)(1)][/us/pl/114/27/s806/e/1], substituted “$250” for “$100” and “$3,000,000” for “$1,500,000”.
+
+    Subsec. (b)(1)(A). [Pub. L. 114–27, § 806(e)(2)(A)(i)][/us/pl/114/27/s806/e/2/A/i], (ii), substituted “$50” for “$30” and “$250” for “$100”.
+
+    Subsec. (b)(1)(B). [Pub. L. 114–27, § 806(e)(2)(A)(iii)][/us/pl/114/27/s806/e/2/A/iii], substituted “$500,000” for “$250,000”.
+
+    Subsec. (b)(2)(A). [Pub. L. 114–27, § 806(e)(2)(B)(i)][/us/pl/114/27/s806/e/2/B/i], (ii), substituted “$100” for “$60” and “$250” for “$100”.
+
+    Subsec. (b)(2)(B). [Pub. L. 114–27, § 806(e)(2)(B)(iii)][/us/pl/114/27/s806/e/2/B/iii], substituted “$1,500,000” for “$500,000”.
+
+    Subsec. (d)(1)(A). [Pub. L. 114–27, § 806(e)(3)(A)][/us/pl/114/27/s806/e/3/A], substituted “$1,000,000” for “$500,000” and “$3,000,000” for “$1,500,000”.
+
+    Subsec. (d)(1)(B). [Pub. L. 114–27, § 806(e)(3)(B)][/us/pl/114/27/s806/e/3/B], substituted “$175,000” for “$75,000” and “$500,000” for “$250,000”.
+
+    Subsec. (d)(1)(C). [Pub. L. 114–27, § 806(e)(3)(C)][/us/pl/114/27/s806/e/3/C], substituted “$500,000” for “$200,000” and “$1,500,000” for “$500,000”.
+
+    Subsec. (e)(2). [Pub. L. 114–27, § 806(e)(4)(A)][/us/pl/114/27/s806/e/4/A], substituted “$500” for “$250” in introductory provisions.
+
+    Subsec. (e)(3)(A). [Pub. L. 114–27, § 806(e)(4)(B)][/us/pl/114/27/s806/e/4/B], substituted “$3,000,000” for “$1,500,000”.
 
     2014—Subsecs. (b)(1), (2), (c)(1)(C). [Pub. L. 113–295, § 207(a)(2)][/us/pl/113/295/s207/a/2], substituted “the date prescribed for furnishing such statement” for “the required filing date”.
 
@@ -134,6 +154,10 @@
     2010—[Pub. L. 111–240][/us/pl/111/240] amended section generally. Prior to amendment, section related to: in subsec. (a), general rule for imposition of penalty for failure to furnish correct payee statements; in subsec. (b), failures subject to penalty; and, in subsec. (c), penalty in case of intentional disregard.
 
     1989—[Pub. L. 101–239][/us/pl/101/239] substituted “correct” for “certain” in section catchline and amended text generally, substituting subsecs. (a) to (c) for former subsec. (a) stating general rule and subsec. (b) relating to failure to notify partnership of exchange of partnership interest.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–27][/us/pl/114/27] applicable with respect to returns and statements required to be filed after Dec. 31, 2015, see [section 806(f) of Pub. L. 114–27][/us/pl/114/27/s806/f], set out as a note under [section 6721 of this title][/us/usc/t26/s6721].
 
  __Effective Date of 2014 Amendment__ 
 
@@ -170,11 +194,26 @@
 [/us/stat/124/2562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2562
 [/us/pl/113/295/s207/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs207%2Fa%2F2
 [/us/stat/128/4027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4027
+[/us/pl/114/27/s806/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fe
+[/us/stat/129/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F417
+[/us/pl/114/27/s806/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fe%2F1
+[/us/pl/114/27/s806/e/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fe%2F2%2FA%2Fi
+[/us/pl/114/27/s806/e/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fe%2F2%2FA%2Fiii
+[/us/pl/114/27/s806/e/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fe%2F2%2FB%2Fi
+[/us/pl/114/27/s806/e/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fe%2F2%2FB%2Fiii
+[/us/pl/114/27/s806/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fe%2F3%2FA
+[/us/pl/114/27/s806/e/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fe%2F3%2FB
+[/us/pl/114/27/s806/e/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fe%2F3%2FC
+[/us/pl/114/27/s806/e/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fe%2F4%2FA
+[/us/pl/114/27/s806/e/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Fe%2F4%2FB
 [/us/pl/113/295/s207/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs207%2Fa%2F2
 [/us/pl/113/295/s207/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs207%2Fa%2F3
 [/us/pl/113/295/s208/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fg
 [/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/27/s806/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs806%2Ff
+[/us/usc/t26/s6721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6721
 [/us/pl/113/295/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs207%2Fb
 [/us/stat/128/4028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4028
 [/us/usc/t26/s6721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6721

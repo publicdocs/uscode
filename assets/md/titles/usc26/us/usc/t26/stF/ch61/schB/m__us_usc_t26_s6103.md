@@ -2613,7 +2613,7 @@
 
  __Construction of 2002 Amendment__ 
 
-    Nothing in amendment by [Pub. L. 107–210][/us/pl/107/210], other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see [section 203(f) of Pub. L. 107–210][/us/pl/107/210/s203/f], set out as a note under [section 2918 of Title 29][/us/usc/t29/s2918], Labor.
+    Nothing in amendment by [Pub. L. 107–210][/us/pl/107/210], other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see [section 203(f) of Pub. L. 107–210][/us/pl/107/210/s203/f], set out as a Construction note under [section 35 of this title][/us/usc/t26/s35].
 
  __Transfer of Functions__ 
 
@@ -4909,7 +4909,7 @@ Jan. 22, 1976  </td>
 [/us/stat/107/2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2161
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/pl/107/210/s203/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs203%2Ff
-[/us/usc/t29/s2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918
+[/us/usc/t26/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs35
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/106/170/s521/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs521%2Fb

@@ -315,11 +315,11 @@
 
                 <td> 
 
-             In the case of the following required installments:  </td>
+            In the case of the following required installments:  </td>
 
                 <td> 
 
-             The due date is:  </td>
+            The due date is:  </td>
 
   </tr>
 
@@ -601,15 +601,23 @@
 
                     <td> 
 
-                 If the years of participation are:  </td>
+   </td>
 
                     <td> 
 
-                 The applicable percentage is:  </td>
+                If the years of participation are:  </td>
+
+                    <td> 
+
+                The applicable percentage is:  </td>
 
   </tr>
 
                   <tr>
+
+                    <td> 
+
+   </td>
 
                     <td> 
 
@@ -625,6 +633,10 @@
 
                     <td> 
 
+   </td>
+
+                    <td> 
+
                 2  </td>
 
                     <td> 
@@ -634,6 +646,10 @@
   </tr>
 
                   <tr>
+
+                    <td> 
+
+   </td>
 
                     <td> 
 
@@ -649,6 +665,10 @@
 
                     <td> 
 
+   </td>
+
+                    <td> 
+
                 4  </td>
 
                     <td> 
@@ -658,6 +678,10 @@
   </tr>
 
                   <tr>
+
+                    <td> 
+
+   </td>
 
                     <td> 
 

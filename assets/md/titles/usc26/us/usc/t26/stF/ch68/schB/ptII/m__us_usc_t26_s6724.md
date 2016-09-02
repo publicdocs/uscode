@@ -235,7 +235,11 @@
 
         If any partnership return under section 6031(a) is required under section 6011(e) to be filed on magnetic media or in other machine-readable form, for purposes of this part, each schedule required to be included with such return with respect to each partner shall be treated as a separate information return.
 
-(Added [Pub. L. 99–514, title XV, § 1501(a)][/us/pl/99/514/s1501/a], Oct. 22, 1986, [100 Stat. 2734][/us/stat/100/2734]; amended [Pub. L. 100–418, title I, § 1941(b)(2)(M)][/us/pl/100/418/s1941/b/2/M], Aug. 23, 1988, [102 Stat. 1323][/us/stat/102/1323]; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1006(h)(3)(A), 1015(a), title III, § 3001(b)(1), (2), Nov. 10, 1988, [102 Stat. 3410][/us/stat/102/3410], 3568, 3614; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7711(a), 7811(c)(3), 7813(a), Dec. 19, 1989, [103 Stat. 2391][/us/stat/103/2391], 2407, 2412; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11212(e)(1), 11323(b)(2), (c)(2), Nov. 5, 1990, [104 Stat. 1388–432][/us/stat/104/1388-432], 1388–465; [Pub. L. 102–486, title XIX, § 1933(b)][/us/pl/102/486/s1933/b], Oct. 24, 1992, [106 Stat. 3031][/us/stat/106/3031]; [Pub. L. 103–66, title XIII, § 13252(b)][/us/pl/103/66/s13252/b], Aug. 10, 1993, [107 Stat. 532][/us/stat/107/532]; [Pub. L. 103–322, title II, § 20415(b)(1)][/us/pl/103/322/s20415/b/1], (2), Sept. 13, 1994, [108 Stat. 1833][/us/stat/108/1833]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1116(b)(2)(A), (B), 1455(a), 1615(a)(2)(B), 1702(b)(1), (c)(2), 1704(j)(3), 1901(c)(1), Aug. 20, 1996, [110 Stat. 1764][/us/stat/110/1764], 1817, 1853, 1868, 1869, 1881, 1908; [Pub. L. 104–191, title III, § 323(b)][/us/pl/104/191/s323/b], Aug. 21, 1996, [110 Stat. 2062][/us/stat/110/2062]; [Pub. L. 105–34, title II, § 201(c)(2)][/us/pl/105/34/s201/c/2], title XII, §§ 1213(b), 1223(b), title XVI, § 1602(d)(2)(A), Aug. 5, 1997, [111 Stat. 805][/us/stat/111/805], 1001, 1019, 1094; [Pub. L. 105–206, title VI][/us/pl/105/206], §§ 6004(a)(3), 6010(o)(4)(B), (C), 6012(b)(5), (d), July 22, 1998, [112 Stat. 792][/us/stat/112/792], 816, 819; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(23)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–647; [Pub. L. 107–210, div. A, title II, § 202(c)(2)][/us/pl/107/210/s202/c/2], Aug. 6, 2002, [116 Stat. 962][/us/stat/116/962]; [Pub. L. 108–357, title VIII][/us/pl/108/357], §§ 805(b), 853(d)(2)(L), (M), Oct. 22, 2004, [118 Stat. 1574][/us/stat/118/1574], 1613; [Pub. L. 109–280, title VIII, § 844(d)(2)][/us/pl/109/280/s844/d/2], title XII, § 1211(b)(1), Aug. 17, 2006, [120 Stat. 1012][/us/stat/120/1012], 1073; [Pub. L. 109–432, div. A, title IV, § 403(c)(1)][/us/pl/109/432/s403/c/1], (2), Dec. 20, 2006, [120 Stat. 2955][/us/stat/120/2955]; [Pub. L. 110–172, § 11(b)(2)][/us/pl/110/172/s11/b/2], Dec. 29, 2007, [121 Stat. 2488][/us/stat/121/2488]; [Pub. L. 110–289, div. C, title III, § 3091(b)][/us/pl/110/289/s3091/b], July 30, 2008, [122 Stat. 2910][/us/stat/122/2910]; [Pub. L. 110–343, div. B, title IV, § 403(c)(2)][/us/pl/110/343/s403/c/2], (d)(2), Oct. 3, 2008, [122 Stat. 3858][/us/stat/122/3858], 3860; [Pub. L. 111–147, title V][/us/pl/111/147], §§ 501(c)(6), (7), 522(b), Mar. 18, 2010, [124 Stat. 106][/us/stat/124/106], 113; [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1502(b), 1514(b), title X, § 10108(j)(3)(E), (F), Mar. 23, 2010, [124 Stat. 251][/us/stat/124/251], 257, 915; [Pub. L. 113–295, div. A, title II, § 220(x)][/us/pl/113/295/s220/x], Dec. 19, 2014, [128 Stat. 4036][/us/stat/128/4036].)
+    (f) __Special rule for returns of educational institutions related to higher education tuition and related expenses__ 
+
+        No penalty shall be imposed under section 6721 or 6722 solely by reason of failing to provide the TIN of an individual on a return or statement required by section 6050S(a)(1) if the eligible educational institution required to make such return contemporaneously makes a true and accurate certification under penalty of perjury (and in such form and manner as may be prescribed by the Secretary) that it has complied with standards promulgated by the Secretary for obtaining such individual’s TIN.
+
+(Added [Pub. L. 99–514, title XV, § 1501(a)][/us/pl/99/514/s1501/a], Oct. 22, 1986, [100 Stat. 2734][/us/stat/100/2734]; amended [Pub. L. 100–418, title I, § 1941(b)(2)(M)][/us/pl/100/418/s1941/b/2/M], Aug. 23, 1988, [102 Stat. 1323][/us/stat/102/1323]; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1006(h)(3)(A), 1015(a), title III, § 3001(b)(1), (2), Nov. 10, 1988, [102 Stat. 3410][/us/stat/102/3410], 3568, 3614; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7711(a), 7811(c)(3), 7813(a), Dec. 19, 1989, [103 Stat. 2391][/us/stat/103/2391], 2407, 2412; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11212(e)(1), 11323(b)(2), (c)(2), Nov. 5, 1990, [104 Stat. 1388–432][/us/stat/104/1388-432], 1388–465; [Pub. L. 102–486, title XIX, § 1933(b)][/us/pl/102/486/s1933/b], Oct. 24, 1992, [106 Stat. 3031][/us/stat/106/3031]; [Pub. L. 103–66, title XIII, § 13252(b)][/us/pl/103/66/s13252/b], Aug. 10, 1993, [107 Stat. 532][/us/stat/107/532]; [Pub. L. 103–322, title II, § 20415(b)(1)][/us/pl/103/322/s20415/b/1], (2), Sept. 13, 1994, [108 Stat. 1833][/us/stat/108/1833]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1116(b)(2)(A), (B), 1455(a), 1615(a)(2)(B), 1702(b)(1), (c)(2), 1704(j)(3), 1901(c)(1), Aug. 20, 1996, [110 Stat. 1764][/us/stat/110/1764], 1817, 1853, 1868, 1869, 1881, 1908; [Pub. L. 104–191, title III, § 323(b)][/us/pl/104/191/s323/b], Aug. 21, 1996, [110 Stat. 2062][/us/stat/110/2062]; [Pub. L. 105–34, title II, § 201(c)(2)][/us/pl/105/34/s201/c/2], title XII, §§ 1213(b), 1223(b), title XVI, § 1602(d)(2)(A), Aug. 5, 1997, [111 Stat. 805][/us/stat/111/805], 1001, 1019, 1094; [Pub. L. 105–206, title VI][/us/pl/105/206], §§ 6004(a)(3), 6010(o)(4)(B), (C), 6012(b)(5), (d), July 22, 1998, [112 Stat. 792][/us/stat/112/792], 816, 819; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(23)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–647; [Pub. L. 107–210, div. A, title II, § 202(c)(2)][/us/pl/107/210/s202/c/2], Aug. 6, 2002, [116 Stat. 962][/us/stat/116/962]; [Pub. L. 108–357, title VIII][/us/pl/108/357], §§ 805(b), 853(d)(2)(L), (M), Oct. 22, 2004, [118 Stat. 1574][/us/stat/118/1574], 1613; [Pub. L. 109–280, title VIII, § 844(d)(2)][/us/pl/109/280/s844/d/2], title XII, § 1211(b)(1), Aug. 17, 2006, [120 Stat. 1012][/us/stat/120/1012], 1073; [Pub. L. 109–432, div. A, title IV, § 403(c)(1)][/us/pl/109/432/s403/c/1], (2), Dec. 20, 2006, [120 Stat. 2955][/us/stat/120/2955]; [Pub. L. 110–172, § 11(b)(2)][/us/pl/110/172/s11/b/2], Dec. 29, 2007, [121 Stat. 2488][/us/stat/121/2488]; [Pub. L. 110–289, div. C, title III, § 3091(b)][/us/pl/110/289/s3091/b], July 30, 2008, [122 Stat. 2910][/us/stat/122/2910]; [Pub. L. 110–343, div. B, title IV, § 403(c)(2)][/us/pl/110/343/s403/c/2], (d)(2), Oct. 3, 2008, [122 Stat. 3858][/us/stat/122/3858], 3860; [Pub. L. 111–147, title V][/us/pl/111/147], §§ 501(c)(6), (7), 522(b), Mar. 18, 2010, [124 Stat. 106][/us/stat/124/106], 113; [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1502(b), 1514(b), title X, § 10108(j)(3)(E), (F), Mar. 23, 2010, [124 Stat. 251][/us/stat/124/251], 257, 915; [Pub. L. 113–295, div. A, title II, § 220(x)][/us/pl/113/295/s220/x], Dec. 19, 2014, [128 Stat. 4036][/us/stat/128/4036]; [Pub. L. 114–27, title VIII, § 805(a)][/us/pl/114/27/s805/a], June 29, 2015, [129 Stat. 416][/us/stat/129/416].)
 
  __Codification__ 
 
@@ -244,6 +248,8 @@
     Amendments to subsec. (d)(2) of this section by [section 1901(c)(1) of Pub. L. 104–188][/us/pl/104/188/s1901/c/1] were executed before amendments by sections 1116(b)(2)(B) and 1455(a)(2) of [Pub. L. 104–188][/us/pl/104/188], to reflect the probable intent of Congress.
 
  __Amendments__ 
+
+    2015—Subsec. (f). [Pub. L. 114–27][/us/pl/114/27] added subsec. (f).
 
     2014—Subsec. (d)(2)(FF). [Pub. L. 113–295][/us/pl/113/295] substituted “section 6050W(f)” for “section 6050W(c)”.
 
@@ -531,6 +537,12 @@
 
     Subsec. (d)(2)(B). [Pub. L. 100–647, § 1015(a)][/us/pl/100/647/s1015/a], substituted “6031(b) or (c)” for “6031(b)”.
 
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–27, title VIII, § 805(b)][/us/pl/114/27/s805/b], June 29, 2015, [129 Stat. 416][/us/stat/129/416], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to returns required to be made, and statements required to be furnished, after December 31, 2015.”
+
  __Effective Date of 2010 Amendment__ 
 
     Amendment by [section 1502(b) of Pub. L. 111–148][/us/pl/111/148/s1502/b] applicable to calendar years beginning after 2013, see [section 1502(e) of Pub. L. 111–148][/us/pl/111/148/s1502/e], set out as an Effective Date note under [section 6055 of this title][/us/usc/t26/s6055].
@@ -659,7 +671,7 @@
 
  __Construction of 2002 Amendment__ 
 
-    Nothing in amendment by [Pub. L. 107–210][/us/pl/107/210], other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see [section 203(f) of Pub. L. 107–210][/us/pl/107/210/s203/f], set out as a note under [section 2918 of Title 29][/us/usc/t29/s2918], Labor.
+    Nothing in amendment by [Pub. L. 107–210][/us/pl/107/210], other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see [section 203(f) of Pub. L. 107–210][/us/pl/107/210/s203/f], set out as a Construction note under [section 35 of this title][/us/usc/t26/s35].
 
  __Plan Amendments Not Required Until January 1, 1998__ 
 
@@ -718,9 +730,12 @@
 [/us/stat/124/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F251
 [/us/pl/113/295/s220/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Fx
 [/us/stat/128/4036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4036
+[/us/pl/114/27/s805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs805%2Fa
+[/us/stat/129/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F416
 [/us/pl/109/280/s1211/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1211%2Fb%2F1
 [/us/pl/104/188/s1901/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1901%2Fc%2F1
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/147/s522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs522%2Fb
 [/us/pl/111/147/s501/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs501%2Fc%2F6
@@ -865,6 +880,8 @@
 [/us/pl/100/418/s1941/b/2/M/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1941%2Fb%2F2%2FM%2Fii
 [/us/pl/100/418/s1941/b/2/M/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1941%2Fb%2F2%2FM%2Fii
 [/us/pl/100/647/s1015/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1015%2Fa
+[/us/pl/114/27/s805/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs805%2Fb
+[/us/stat/129/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F416
 [/us/pl/111/148/s1502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1502%2Fb
 [/us/pl/111/148/s1502/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1502%2Fe
 [/us/usc/t26/s6055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6055
@@ -980,7 +997,7 @@
 [/us/usc/t26/s6721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6721
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/pl/107/210/s203/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs203%2Ff
-[/us/usc/t29/s2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918
+[/us/usc/t26/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs35
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/104/188/s1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1465
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401

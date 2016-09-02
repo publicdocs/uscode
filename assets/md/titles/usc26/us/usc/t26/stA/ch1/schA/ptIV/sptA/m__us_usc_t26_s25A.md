@@ -161,9 +161,11 @@
 
         If a deduction under section 151 with respect to an individual is allowed to another taxpayer for a taxable year beginning in the calendar year in which such individual’s taxable year begins—
 
-            (A) no credit shall be allowed under subsection (a) to such individual for such individual’s taxable year, and
+            (A) no credit shall be allowed under subsection (a) to such individual for such individual’s taxable year,
 
-            (B) qualified tuition and related expenses paid by such individual during such individual’s taxable year shall be treated for purposes of this section as paid by such other taxpayer.
+            (B) qualified tuition and related expenses paid by such individual during such individual’s taxable year shall be treated for purposes of this section as paid by such other taxpayer, and
+
+            (C) a statement described in paragraph (8) and received by such individual shall be treated as received by the taxpayer.
 
         (4) __Treatment of certain prepayments__ 
 
@@ -180,6 +182,10 @@
         (7) __Nonresident aliens__ 
 
             If the taxpayer is a nonresident alien individual for any portion of the taxable year, this section shall apply only if such individual is treated as a resident alien of the United States for purposes of this chapter by reason of an election under subsection (g) or (h) of section 6013.
+
+        (8) __Payee statement requirement__ 
+
+            Except as otherwise provided by the Secretary, no credit shall be allowed under this section unless the taxpayer receives a statement furnished under section 6050S(d) which contains all of the information required by paragraph (2) thereof.
 
     (h) __Inflation adjustments__ 
 
@@ -257,7 +263,7 @@
 
         The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations providing for a recapture of the credit allowed under this section in cases where there is a refund in a subsequent taxable year of any amount which was taken into account in determining the amount of such credit.
 
-(Added [Pub. L. 105–34, title II, § 201(a)][/us/pl/105/34/s201/a], Aug. 5, 1997, [111 Stat. 799][/us/stat/111/799]; amended [Pub. L. 107–16, title IV, § 401(g)(2)(A)][/us/pl/107/16/s401/g/2/A], June 7, 2001, [115 Stat. 59][/us/stat/115/59]; [Pub. L. 111–5, div. B, title I, § 1004(a)][/us/pl/111/5/s1004/a], Feb. 17, 2009, [123 Stat. 313][/us/stat/123/313]; [Pub. L. 111–148, title X, § 10909(b)(2)(C)][/us/pl/111/148/s10909/b/2/C], (c), Mar. 23, 2010, [124 Stat. 1023][/us/stat/124/1023]; [Pub. L. 111–312, title I][/us/pl/111/312], §§ 101(b)(1), 103(a)(1), Dec. 17, 2010, [124 Stat. 3298][/us/stat/124/3298], 3299; [Pub. L. 112–240, title I][/us/pl/112/240], §§ 103(a)(1), 104(c)(2)(D), Jan. 2, 2013, [126 Stat. 2319][/us/stat/126/2319], 2322; [Pub. L. 113–295, div. A, title II, § 209(b)][/us/pl/113/295/s209/b], Dec. 19, 2014, [128 Stat. 4028][/us/stat/128/4028].)
+(Added [Pub. L. 105–34, title II, § 201(a)][/us/pl/105/34/s201/a], Aug. 5, 1997, [111 Stat. 799][/us/stat/111/799]; amended [Pub. L. 107–16, title IV, § 401(g)(2)(A)][/us/pl/107/16/s401/g/2/A], June 7, 2001, [115 Stat. 59][/us/stat/115/59]; [Pub. L. 111–5, div. B, title I, § 1004(a)][/us/pl/111/5/s1004/a], Feb. 17, 2009, [123 Stat. 313][/us/stat/123/313]; [Pub. L. 111–148, title X, § 10909(b)(2)(C)][/us/pl/111/148/s10909/b/2/C], (c), Mar. 23, 2010, [124 Stat. 1023][/us/stat/124/1023]; [Pub. L. 111–312, title I][/us/pl/111/312], §§ 101(b)(1), 103(a)(1), Dec. 17, 2010, [124 Stat. 3298][/us/stat/124/3298], 3299; [Pub. L. 112–240, title I][/us/pl/112/240], §§ 103(a)(1), 104(c)(2)(D), Jan. 2, 2013, [126 Stat. 2319][/us/stat/126/2319], 2322; [Pub. L. 113–295, div. A, title II, § 209(b)][/us/pl/113/295/s209/b], Dec. 19, 2014, [128 Stat. 4028][/us/stat/128/4028]; [Pub. L. 114–27, title VIII, § 804(a)][/us/pl/114/27/s804/a], June 29, 2015, [129 Stat. 415][/us/stat/129/415].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -272,6 +278,10 @@
     Section 702(a)(1)(B) of the Heartland Disaster Tax Relief Act of 2008, referred to in subsec. (i)(6), is [section 702(a)(1)(B) of Pub. L. 110–343][/us/pl/110/343/s702/a/1/B], div. C, title VII, Oct. 3, 2008, [122 Stat. 3912][/us/stat/122/3912], which is not classified to the Code.
 
  __Amendments__ 
+
+    Subsec. (g)(3)(C). [Pub. L. 114–27, § 804(a)(2)][/us/pl/114/27/s804/a/2], added subpar. (C).
+
+    Subsec. (g)(8). [Pub. L. 114–27, § 804(a)(1)][/us/pl/114/27/s804/a/1], added par. (8).
 
     2014—Subsec. (i)(3). [Pub. L. 113–295][/us/pl/113/295] substituted “For purposes of determining the Hope Scholarship Credit, subsection (f)(1)(A) shall be applied” for “Subsection (f)(1)(A) shall be applied”.
 
@@ -290,6 +300,12 @@
     “(1) In general.—No credit shall be allowed under subsection (a) for a taxable year with respect to the qualified tuition and related expenses of an individual unless the taxpayer elects to have this section apply with respect to such individual for such year.
 
     “(2) Coordination with exclusions.—An election under this subsection shall not take effect with respect to an individual for any taxable year if any portion of any distribution during such taxable year from an education individual retirement account is excluded from gross income under section 530(d)(2).”
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–27, title VIII, § 804(d)][/us/pl/114/27/s804/d], June 29, 2015, [129 Stat. 416][/us/stat/129/416], provided that: 
+
+> “The amendments made by this section \[amending this section and sections 222 and 6050S of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[June 29, 2015\].”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -386,6 +402,8 @@
 [/us/stat/126/2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2319
 [/us/pl/113/295/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fb
 [/us/stat/128/4028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4028
+[/us/pl/114/27/s804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs804%2Fa
+[/us/stat/129/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F415
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
@@ -393,6 +411,8 @@
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/pl/110/343/s702/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs702%2Fa%2F1%2FB
 [/us/stat/122/3912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3912
+[/us/pl/114/27/s804/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs804%2Fa%2F2
+[/us/pl/114/27/s804/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs804%2Fa%2F1
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs103%2Fa%2F1
 [/us/pl/112/240/s104/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs104%2Fc%2F2%2FD
@@ -401,6 +421,8 @@
 [/us/pl/111/312/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs101%2Fb%2F1
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/107/16/s401/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs401%2Fg%2F2%2FA
+[/us/pl/114/27/s804/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs804%2Fd
+[/us/stat/129/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F416
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/113/295/s209/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fk

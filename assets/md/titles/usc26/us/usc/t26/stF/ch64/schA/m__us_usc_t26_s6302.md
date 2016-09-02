@@ -41,7 +41,7 @@
 
             (A) __Amounts considered collected__ 
 
-                In the case of a person required to make deposits of the tax imposed by sections 4251, 4261, or 4271 with respect to amounts considered collected by such person during any semimonthly period, the amount of such tax included in bills rendered or tickets sold during the period beginning on September 1 and ending on September 11 shall be deposited not later than September 29.
+                In the case of a person required to make deposits of the tax imposed by sections  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup>  4251, 4261, or 4271 with respect to amounts considered collected by such person during any semimonthly period, the amount of such tax included in bills rendered or tickets sold during the period beginning on September 1 and ending on September 11 shall be deposited not later than September 29.
 
             (B) __Special rule where September 29 is on Saturday or Sunday__ 
 

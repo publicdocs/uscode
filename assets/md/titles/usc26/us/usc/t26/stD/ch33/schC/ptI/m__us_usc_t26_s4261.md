@@ -167,11 +167,9 @@
 
                     (I) is not located within 75 miles of another airport which is not described in clause (i),
 
-                    (II) is receiving essential air service subsidies as of the date of Bthe enactment of this paragraph, or
+                    (II) is receiving essential air service subsidies as of the date of the enactment of this paragraph, or
 
                     (III) is not connected by paved roads to another airport.
-
-            \[(C) __Repealed.__  __[__  __Pub. L. 113–295, div. A, title II, § 221(a)(104)(A)__  __][/us/pl/113/295/s221/a/104/A]__  __,__  __Dec. 19, 2014__  __,__  __[__  __128 Stat. 4053__  __][/us/stat/128/4053]__  __\]__ 
 
         (2) __Amounts paid outside the United States__ 
 
@@ -218,8 +216,6 @@
             (D) __Special rule for amounts paid for domestic segments beginning after 2002__ 
 
                 If an amount is paid during a calendar year for a domestic segment beginning in a later calendar year, then the rate of tax under subsection (b) on such amount shall be the rate in effect for the calendar year in which such amount is paid.
-
-        \[(5) __Repealed.__  __[__  __Pub. L. 113–295, div. A, title II, § 221(a)(104)(B)__  __][/us/pl/113/295/s221/a/104/B]__  __,__  __Dec. 19, 2014__  __,__  __[__  __128 Stat. 4053__  __][/us/stat/128/4053]__  __\]__ 
 
     (f) __Exemption for certain uses__ 
 
@@ -287,9 +283,9 @@
 
  __Amendments__ 
 
-    2014—Subsec. (e)(1)(C). [Pub. L. 113–295, § 221(a)(104)(A)][/us/pl/113/295/s221/a/104/A], struck out subpar. (C), which provided for no phasein of reduced ticket tax for certain transportation
+    2014—Subsec. (e)(1)(C). [Pub. L. 113–295, § 221(a)(104)(A)][/us/pl/113/295/s221/a/104/A], struck out subpar. (C) which provided for no phasein of reduced ticket tax for certain transportation.
 
-    Subsec. (e)(5). [Pub. L. 113–295, § 221(a)(104)(B)][/us/pl/113/295/s221/a/104/B], struck out par. (5), which related to rates of ticket tax for transportation beginning before October 1, 1999.
+    Subsec. (e)(5). [Pub. L. 113–295, § 221(a)(104)(B)][/us/pl/113/295/s221/a/104/B], struck out par. (5) which related to rates of ticket tax for transportation beginning before Oct. 1, 1999.
 
     2012—Subsec. (j). [Pub. L. 112–95, § 1103(c)][/us/pl/112/95/s1103/c], added subsec. (j). Former subsec. (j) redesignated (k).
 
@@ -666,10 +662,6 @@
 ----------
 ----------
 
-[/us/pl/113/295/s221/a/104/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F104%2FA
-[/us/stat/128/4053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4053
-[/us/pl/113/295/s221/a/104/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F104%2FB
-[/us/stat/128/4053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4053
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F506
 [/us/act/1956-07-25/ch725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-25%2Fch725

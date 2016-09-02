@@ -37,7 +37,7 @@
 
  __References in Text__ 
 
-    Par. (3) of section 165(h), referred to in subsec. (a), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(27)(A)][/us/pl/113/295/s221/a/27/A], Dec. 19, 2014, [128 Stat. 4040][/us/stat/128/4040]. However, the term “federally declared disaster” is defined elsewhere in that section.
+    Par. (3) of section 165(h), referred to in subsec. (a), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(27)(A)][/us/pl/113/295/s221/a/27/A], Dec. 19, 2014, [128 Stat. 4040][/us/stat/128/4040]. However, the term “federally declared disaster” is defined elsewhere in section 165.
 
  __Amendments__ 
 

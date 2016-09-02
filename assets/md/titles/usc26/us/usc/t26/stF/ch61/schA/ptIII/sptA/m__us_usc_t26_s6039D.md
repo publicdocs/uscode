@@ -69,7 +69,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–295, § 221(a)(108)][/us/pl/113/295/s221/a/108], struck out “beginning after December 31, 1984,” after “during any year”.
+    2014—Subsec. (a). [Pub. L. 113–295, § 221(a)(108)][/us/pl/113/295/s221/a/108], struck out “beginning after December 31, 1984,” after “during any year” in introductory provisions.
 
     Subsec. (d)(1). [Pub. L. 113–295, § 221(a)(19)(B)(vii)][/us/pl/113/295/s221/a/19/B/vii], struck out “120,” after “106,”.
 

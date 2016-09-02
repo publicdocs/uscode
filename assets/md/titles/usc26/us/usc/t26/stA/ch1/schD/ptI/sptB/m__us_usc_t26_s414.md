@@ -1397,7 +1397,7 @@
 
         (2) __Aggregation__ 
 
-            All employers that are treated as a single employer under subsection (b) or (c) shall be treated as a single employer for purposes of determining if a plan was maintained by more than one employer under subparagraph (B) and (C) of paragraph (1).
+            All employers that are treated as a single employer under subsection (b) or (c) shall be treated as a single employer for purposes of determining if a plan was maintained by more than one employer under subparagraph  <sup>\[6\]</sup>  <sup><sup> 6 So in original. </sup></sup>  (B) and  <sup>\[6\]</sup>  (C) of paragraph (1).
 
         (3) __Election__ 
 

@@ -35,7 +35,7 @@
 
         (2) __Applicable percentage__ 
 
-            For purposes of paragraph (1), the term “applicable percentage” means 40 percent reduced (but not below zero) by 2 percentage points for each percentage point (or fraction thereof) by which the value of the qualified conservation easement is less than 30 percent of the value of the land  <sup>\[2\]</sup>  <sup><sup> 2 So in original. No closing parenthesis was enacted. </sup></sup>  (determined without regard to the value of such easement and reduced by the value of any retained development right (as defined in paragraph (5)). The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B).
+            For purposes of paragraph (1), the term “applicable percentage” means 40 percent reduced (but not below zero) by 2 percentage points for each percentage point (or fraction thereof) by which the value of the qualified conservation easement is less than 30 percent of the value of the land (  <sup>\[2\]</sup>  <sup><sup> 2 So in original. There is no corresponding closing parenthesis. </sup></sup>  determined without regard to the value of such easement and reduced by the value of any retained development right (as defined in paragraph (5)). The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B).
 
         \[(3) __Repealed.__  __[__  __Pub. L. 113–295, div. A, title II, § 221(a)(96)__  __][/us/pl/113/295/s221/a/96]__  __,__  __Dec. 19, 2014__  __,__  __[__  __128 Stat. 4051__  __][/us/stat/128/4051]__  __\]__ 
 

@@ -109,6 +109,10 @@
 
             In the case of any taxable year beginning after 2008 and before 2018, paragraph (1)(B)(i) shall be applied by substituting “$3,000” for “$10,000”.
 
+        (5) __Exception for taxpayers excluding foreign earned income__ 
+
+            Paragraph (1) shall not apply to any taxpayer for any taxable year if such taxpayer elects to exclude any amount from gross income under section 911 for such taxable year.
+
     (e) __Identification requirement__ 
 
         No credit shall be allowed under this section to a taxpayer with respect to any qualifying child unless the taxpayer includes the name and taxpayer identification number of such qualifying child on the return of tax for the taxable year.
@@ -117,7 +121,7 @@
 
         Except in the case of a taxable year closed by reason of the death of the taxpayer, no credit shall be allowable under this section in the case of a taxable year covering a period of less than 12 months.
 
-(Added [Pub. L. 105–34, title I, § 101(a)][/us/pl/105/34/s101/a], Aug. 5, 1997, [111 Stat. 796][/us/stat/111/796]; amended [Pub. L. 105–206, title VI, § 6003(a)][/us/pl/105/206/s6003/a], July 22, 1998, [112 Stat. 790][/us/stat/112/790]; [Pub. L. 105–277, div. J, title II, § 2001(b)][/us/pl/105/277/s2001/b], Oct. 21, 1998, [112 Stat. 2681–901][/us/stat/112/2681-901]; [Pub. L. 106–170, title V, § 501(b)(1)][/us/pl/106/170/s501/b/1], Dec. 17, 1999, [113 Stat. 1919][/us/stat/113/1919]; [Pub. L. 107–16, title II][/us/pl/107/16], §§ 201(a)–(b)(2)(C), (c)(1), (2), (d), 202(f)(2)(B), title VI, § 618(b)(2)(A), June 7, 2001, [115 Stat. 45–47][/us/stat/115/45-47], 49, 108; [Pub. L. 107–90, title II, § 204(e)(1)][/us/pl/107/90/s204/e/1], Dec. 21, 2001, [115 Stat. 893][/us/stat/115/893]; [Pub. L. 107–147, title IV][/us/pl/107/147], §§ 411(b), 417(23)(A), Mar. 9, 2002, [116 Stat. 45][/us/stat/116/45], 57; [Pub. L. 108–27, title I, § 101(a)][/us/pl/108/27/s101/a], May 28, 2003, [117 Stat. 753][/us/stat/117/753]; [Pub. L. 108–311, title I][/us/pl/108/311], §§ 101(a), 102(a), 104(a), title II, § 204, title IV, § 408(b)(4), Oct. 4, 2004, [118 Stat. 1167][/us/stat/118/1167], 1168, 1176, 1192; [Pub. L. 109–135, title IV, § 402(i)(3)(B)][/us/pl/109/135/s402/i/3/B], Dec. 21, 2005, [119 Stat. 2613][/us/stat/119/2613]; [Pub. L. 110–172, § 11(c)(1)][/us/pl/110/172/s11/c/1], Dec. 29, 2007, [121 Stat. 2488][/us/stat/121/2488]; [Pub. L. 110–343, div. B, title I, § 106(e)(2)(B)][/us/pl/110/343/s106/e/2/B], title II, § 205(d)(1)(A), div. C, title V, § 501(a), Oct. 3, 2008, [122 Stat. 3817][/us/stat/122/3817], 3838, 3876; [Pub. L. 110–351, title V, § 501(c)(1)][/us/pl/110/351/s501/c/1], Oct. 7, 2008, [122 Stat. 3979][/us/stat/122/3979]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1003(a), 1004(b)(1), 1142(b)(1)(A), 1144(b)(1)(A), Feb. 17, 2009, [123 Stat. 313][/us/stat/123/313], 314, 330, 332; [Pub. L. 111–148, title X, § 10909(b)(2)(A)][/us/pl/111/148/s10909/b/2/A], (c), Mar. 23, 2010, [124 Stat. 1023][/us/stat/124/1023]; [Pub. L. 111–312, title I][/us/pl/111/312], §§ 101(b)(1), 103(b), Dec. 17, 2010, [124 Stat. 3298][/us/stat/124/3298], 3299; [Pub. L. 112–240, title I][/us/pl/112/240], §§ 103(b), 104(c)(2)(B), Jan. 2, 2013, [126 Stat. 2319][/us/stat/126/2319], 2321; [Pub. L. 113–295, div. A, title II, § 209(a)][/us/pl/113/295/s209/a], Dec. 19, 2014, [128 Stat. 4028][/us/stat/128/4028].)
+(Added [Pub. L. 105–34, title I, § 101(a)][/us/pl/105/34/s101/a], Aug. 5, 1997, [111 Stat. 796][/us/stat/111/796]; amended [Pub. L. 105–206, title VI, § 6003(a)][/us/pl/105/206/s6003/a], July 22, 1998, [112 Stat. 790][/us/stat/112/790]; [Pub. L. 105–277, div. J, title II, § 2001(b)][/us/pl/105/277/s2001/b], Oct. 21, 1998, [112 Stat. 2681–901][/us/stat/112/2681-901]; [Pub. L. 106–170, title V, § 501(b)(1)][/us/pl/106/170/s501/b/1], Dec. 17, 1999, [113 Stat. 1919][/us/stat/113/1919]; [Pub. L. 107–16, title II][/us/pl/107/16], §§ 201(a)–(b)(2)(C), (c)(1), (2), (d), 202(f)(2)(B), title VI, § 618(b)(2)(A), June 7, 2001, [115 Stat. 45–47][/us/stat/115/45-47], 49, 108; [Pub. L. 107–90, title II, § 204(e)(1)][/us/pl/107/90/s204/e/1], Dec. 21, 2001, [115 Stat. 893][/us/stat/115/893]; [Pub. L. 107–147, title IV][/us/pl/107/147], §§ 411(b), 417(23)(A), Mar. 9, 2002, [116 Stat. 45][/us/stat/116/45], 57; [Pub. L. 108–27, title I, § 101(a)][/us/pl/108/27/s101/a], May 28, 2003, [117 Stat. 753][/us/stat/117/753]; [Pub. L. 108–311, title I][/us/pl/108/311], §§ 101(a), 102(a), 104(a), title II, § 204, title IV, § 408(b)(4), Oct. 4, 2004, [118 Stat. 1167][/us/stat/118/1167], 1168, 1176, 1192; [Pub. L. 109–135, title IV, § 402(i)(3)(B)][/us/pl/109/135/s402/i/3/B], Dec. 21, 2005, [119 Stat. 2613][/us/stat/119/2613]; [Pub. L. 110–172, § 11(c)(1)][/us/pl/110/172/s11/c/1], Dec. 29, 2007, [121 Stat. 2488][/us/stat/121/2488]; [Pub. L. 110–343, div. B, title I, § 106(e)(2)(B)][/us/pl/110/343/s106/e/2/B], title II, § 205(d)(1)(A), div. C, title V, § 501(a), Oct. 3, 2008, [122 Stat. 3817][/us/stat/122/3817], 3838, 3876; [Pub. L. 110–351, title V, § 501(c)(1)][/us/pl/110/351/s501/c/1], Oct. 7, 2008, [122 Stat. 3979][/us/stat/122/3979]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1003(a), 1004(b)(1), 1142(b)(1)(A), 1144(b)(1)(A), Feb. 17, 2009, [123 Stat. 313][/us/stat/123/313], 314, 330, 332; [Pub. L. 111–148, title X, § 10909(b)(2)(A)][/us/pl/111/148/s10909/b/2/A], (c), Mar. 23, 2010, [124 Stat. 1023][/us/stat/124/1023]; [Pub. L. 111–312, title I][/us/pl/111/312], §§ 101(b)(1), 103(b), Dec. 17, 2010, [124 Stat. 3298][/us/stat/124/3298], 3299; [Pub. L. 112–240, title I][/us/pl/112/240], §§ 103(b), 104(c)(2)(B), Jan. 2, 2013, [126 Stat. 2319][/us/stat/126/2319], 2321; [Pub. L. 113–295, div. A, title II, § 209(a)][/us/pl/113/295/s209/a], Dec. 19, 2014, [128 Stat. 4028][/us/stat/128/4028]; [Pub. L. 114–27, title VIII, § 807(a)][/us/pl/114/27/s807/a], June 29, 2015, [129 Stat. 418][/us/stat/129/418].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -128,6 +132,8 @@
     A prior section 24, added [Pub. L. 92–178, title VII, § 701(a)][/us/pl/92/178/s701/a], Dec. 10, 1971, [85 Stat. 560][/us/stat/85/560], § 41; amended [Pub. L. 93–625][/us/pl/93/625], §§ 11(a)–(c), (e), 12(a), Jan. 3, 1975, [88 Stat. 2119][/us/stat/88/2119], 2120; [Pub. L. 94–455, title V, § 503(b)(4)][/us/pl/94/455/s503/b/4], title XIX, §§ 1901(b)(1)(B), (H)(ii), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1562][/us/stat/90/1562], 1790, 1791, 1834; [Pub. L. 95–600, title I, § 113(c)][/us/pl/95/600/s113/c], Nov. 6, 1978, [92 Stat. 2778][/us/stat/92/2778]; [Pub. L. 97–473, title II, § 202(b)(1)][/us/pl/97/473/s202/b/1], Jan. 14, 1983, [96 Stat. 2609][/us/stat/96/2609]; [Pub. L. 98–21, title I, § 122(c)(1)][/us/pl/98/21/s122/c/1], Apr. 20, 1983, [97 Stat. 87][/us/stat/97/87]; renumbered § 24 and amended [Pub. L. 98–369, div. A, title IV][/us/pl/98/369], §§ 471(c), 474(f), July 18, 1984, [98 Stat. 826][/us/stat/98/826], 831, related to contributions to candidates for public office, prior to repeal by [Pub. L. 99–514, title I][/us/pl/99/514], §§ 112(a), 151(a), Oct. 22, 1986, [100 Stat. 2108][/us/stat/100/2108], 2121, applicable to taxable years beginning after Dec. 31, 1986.
 
  __Amendments__ 
+
+    2015—Subsec. (d)(5). [Pub. L. 114–27][/us/pl/114/27] added par. (5).
 
     2014—Subsec. (d)(4). [Pub. L. 113–295][/us/pl/113/295] amended par. (4) generally. The amendment was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 ([Pub. L. 111–5, div. B, title I][/us/pl/111/5]) to which it relates. As amended by [Pub. L. 111–5, § 1003(a)][/us/pl/111/5/s1003/a], par. (4) read as follows: “Special rule for 2009 and 2010.—Notwithstanding paragraph (3), in the case of any taxable year beginning in 2009 or 2010, the dollar amount in effect for such taxable year under paragraph (1)(B)(i) shall be $3,000.” See 2009 Amendment and Effective Date of 2014 Amendment notes below.
 
@@ -274,6 +280,12 @@
     Subsec. (d)(4). [Pub. L. 105–206, § 6003(a)(1)(A)][/us/pl/105/206/s6003/a/1/A], struck out heading and text of par. (4). Text read as follows: “If the amount of the credit under paragraph (1)(B) exceeds the amount of the credit under paragraph (1)(A), such excess shall be treated as a credit to which subpart C applies. The rule of section 32(h) shall apply to such excess.”
 
     Subsec. (d)(5). [Pub. L. 105–206, § 6003(a)(1)(B)][/us/pl/105/206/s6003/a/1/B], redesignated par. (5) as (3).
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–27, title VIII, § 807(b)][/us/pl/114/27/s807/b], June 29, 2015, [129 Stat. 418][/us/stat/129/418], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2014.”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -498,6 +510,8 @@
 [/us/stat/126/2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2319
 [/us/pl/113/295/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fa
 [/us/stat/128/4028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4028
+[/us/pl/114/27/s807/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs807%2Fa
+[/us/stat/129/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F418
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/92/178/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs701%2Fa
 [/us/stat/85/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F560
@@ -515,6 +529,7 @@
 [/us/stat/98/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F826
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2108
+[/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/111/5/s1003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1003%2Fa
@@ -578,6 +593,8 @@
 [/us/pl/105/206/s6003/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6003%2Fa%2F1%2FA
 [/us/pl/105/206/s6003/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6003%2Fa%2F1%2FA
 [/us/pl/105/206/s6003/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6003%2Fa%2F1%2FB
+[/us/pl/114/27/s807/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs807%2Fb
+[/us/stat/129/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F418
 [/us/pl/113/295/s209/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fk
 [/us/stat/128/4031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4031
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5

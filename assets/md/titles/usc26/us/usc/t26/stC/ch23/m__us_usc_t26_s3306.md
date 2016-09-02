@@ -477,7 +477,7 @@
 
         (5) such employees meet the availability for work and work search test requirements while collecting short-time compensation benefits, by being available for their workweek as required by the State agency;
 
-        (6) eligible employees may participate, as appropriate, in training (including employer-sponsored training or worker training funded under the Workforce Investment Act of 1998) to enhance job skills if such program has been approved by the State agency;
+        (6) eligible employees may participate, as appropriate, in training (including employer-sponsored training or worker training funded under the Workforce Investment Act of 1998)  <sup>\[6\]</sup>  <sup><sup> 6 See References in Text note below. </sup></sup>  to enhance job skills if such program has been approved by the State agency;
 
         (7) the State agency shall require employers to certify that if the employer provides health benefits and retirement benefits under a defined benefit plan (as defined in section 414(j)) or contributions under a defined contribution plan (as defined in section 414(i)) to any employee whose workweek is reduced under the program that such benefits will continue to be provided to employees participating in the short-time compensation program under the same terms and conditions as though the workweek of such employee had not been reduced or to the same extent as other employees not participating in the short-time compensation program;
 
@@ -501,7 +501,7 @@
 
     The Migrant and Seasonal Agricultural Worker Protection Act, referred to in subsec. (o)(1)(A)(i), is [Pub. L. 97–470][/us/pl/97/470], Jan. 14, 1983, [96 Stat. 2584][/us/stat/96/2584], as amended, which is classified generally to chapter 20 (§ 1801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of Title 29][/us/usc/t29/s1801] and Tables.
 
-    The Workforce Investment Act of 1998, referred to in subsec. (v)(6), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936]. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
+    The Workforce Investment Act of 1998, referred to in subsec. (v)(6), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and was repealed by [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29][/us/usc/t29/s3361/a], references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425], effective July 1, 2015. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t26/s3101] and Tables.
 
  __Amendments__ 
 
@@ -1195,7 +1195,12 @@
 [/us/usc/t29/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1801
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s3361/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3361%2Fa
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t26/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3101
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/96/s2161/b/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs2161%2Fb%2F1%2FB%2Fi
 [/us/pl/112/96/s2161/b/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs2161%2Fb%2F1%2FB%2Fii
