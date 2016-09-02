@@ -3959,13 +3959,13 @@
 
     Subsec. (b)(3)(D)(iv). [Pub. L. 114–10][/us/pl/114/10], § 205(b)(1)(B), substituted “through fiscal year 2017” for “through fiscal year 2014 and the portion of fiscal year 2015 before April 1, 2015”.
 
-    Subsec. (d)(9)(E)(iv). [Pub. L. 114–113][/us/pl/114/113], § 601(2)(A), inserted “and before January 1, 2016,” after “2004,”.
-
-    Subsec. (d)(9)(E)(v). [Pub. L. 114–113][/us/pl/114/113], § 601(1), (2)(B), (3), added cl. (v).
-
     Subsec. (d)(5)(G)(i). [Pub. L. 114–10][/us/pl/114/10], § 205(a)(1), substituted “October 1, 2017” for “April 1, 2015”.
 
     Subsec. (d)(5)(G)(ii)(II). [Pub. L. 114–10][/us/pl/114/10], § 205(a)(2), substituted “October 1, 2017” for “April 1, 2015”.
+
+    Subsec. (d)(9)(E)(iv). [Pub. L. 114–113][/us/pl/114/113], § 601(2)(A), inserted “and before January 1, 2016,” after “2004,”.
+
+    Subsec. (d)(9)(E)(v). [Pub. L. 114–113][/us/pl/114/113], § 601(1), (2)(B), (3), added cl. (v).
 
     Subsec. (d)(12)(B). [Pub. L. 114–10][/us/pl/114/10], § 204(1), substituted “in fiscal year 2018 and subsequent fiscal years” for “in fiscal year 2015 (beginning on April 1, 2015), fiscal year 2016, and subsequent fiscal years” in introductory provisions.
 
@@ -9119,10 +9119,10 @@
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
-[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
-[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10

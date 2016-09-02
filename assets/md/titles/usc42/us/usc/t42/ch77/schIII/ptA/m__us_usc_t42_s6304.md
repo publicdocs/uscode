@@ -21,7 +21,7 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–11][/us/pl/114/11] substituted “paragraph (5), (6), (7), or (8) of section 6302(a)” for “section 6302(a)(5)” and “section 6302(a)(6)” for “section 6302(a)(6)”.
+    2015—[Pub. L. 114–11][/us/pl/114/11] substituted “paragraph (5), (6), (7), or (8) of section 6302(a)” for “section 6302(a)(5)” and “section 6302(a)(7)” for “section 6302(a)(6)”.
 
     2007—[Pub. L. 110–140][/us/pl/110/140] inserted after second sentence “Any such action to restrain any person from distributing in commerce a general service incandescent lamp that does not comply with the applicable standard established under [section 6295(i) of this title][/us/usc/t42/s6295/i] or an adapter prohibited under [section 6302(a)(6) of this title][/us/usc/t42/s6302/a/6] may also be brought by the attorney general of a State in the name of the State.”
 

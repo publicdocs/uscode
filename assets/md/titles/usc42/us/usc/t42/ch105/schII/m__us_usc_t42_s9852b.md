@@ -143,7 +143,7 @@
 
         There are authorized to be appropriated such sums as may be necessary for each of fiscal years 2008 through 2012 to make bonus grants to centers of excellence under subsection (b) to carry out activities described in subsection (d) and research and report activities described in subsection (e).
 
-([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 657B, as added [Pub. L. 110–134][/us/pl/110/134], § 26, Dec. 12, 2007, [121 Stat. 1444][/us/stat/121/1444]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(nn)(6), Dec. 10, 2015, [129 Stat. 2177][/us/stat/129/2177].)
+([Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 657B, as added [Pub. L. 110–134][/us/pl/110/134], § 26, Dec. 12, 2007, [121 Stat. 1444][/us/stat/121/1444]; amended [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(nn)(6), Dec. 10, 2015, [129 Stat. 2177][/us/stat/129/2177].)
 
  __References in Text__ 
 

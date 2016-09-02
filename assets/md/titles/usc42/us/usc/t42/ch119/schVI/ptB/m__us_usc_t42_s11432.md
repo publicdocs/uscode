@@ -739,7 +739,7 @@
 
     “(ii) Receiving school.—
 
-    “When the child or youth completes the final grade level served by the school of origin, as described in clause (i), the term “school of origin” shall include the designated receiving school at the next grade level for all feeder schools.
+    “When the child or youth completes the final grade level served by the school of origin, as described in clause (i), the term ‘school of origin’ shall include the designated receiving school at the next grade level for all feeder schools.
 
     “(4) Comparable services.—
 

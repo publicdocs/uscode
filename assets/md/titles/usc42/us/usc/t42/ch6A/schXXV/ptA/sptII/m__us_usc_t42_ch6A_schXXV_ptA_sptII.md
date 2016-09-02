@@ -1,7 +1,7 @@
 ---
 ---
 
-# 42 U.S.C., USLM ref /us/usc/t42/ch6A/schXXV/ptA/sptii
+# 42 U.S.C., USLM ref /us/usc/t42/ch6A/schXXV/ptA/sptII
 
 * Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
   Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
@@ -11,9 +11,9 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/spt1/m__us_usc_t42_s300gg–9.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptii/m__us_usc_t42_s300gg–11.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschXXV%2FptA%2Fsptii)
+[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptI/m__us_usc_t42_s300gg–9.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptII/m__us_usc_t42_s300gg–11.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschXXV%2FptA%2FsptII)
 
-##### subpart ii—improving coverage
+##### Subpart II—Improving Coverage
 
     A prior subpart 2, consisting of sections 300gg–4 to 300gg–7, related to other requirements, prior to repeal of the subpart designation and heading and transfer of sections 300gg–4 to 300gg–7 to 300gg–25 to 300gg–28, respectively, of this title by [Pub. L. 111–148, title I][/us/pl/111/148/tI], §§ 1001(2), 1563(c)(2), formerly § 1562(c)(2), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 130][/us/stat/124/130], 265, 911.
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/spt1/m__us_usc_t42_s300gg–9.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptii/m__us_usc_t42_s300gg–11.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschXXV%2FptA%2Fsptii)
+[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptI/m__us_usc_t42_s300gg–9.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptII/m__us_usc_t42_s300gg–11.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschXXV%2FptA%2FsptII)
 
 ----------
 ----------

@@ -873,7 +873,7 @@
 
     “(10) An individual who has authorized the Commissioner of Social Security to obtain records from a payroll data provider under paragraph (1)(B)(iii) (or on whose behalf another person described in subclause (I) of such paragraph has provided such authorization) shall not be subject to a penalty under [section 1320a–8a of this title][/us/usc/t42/s1320a–8a] for any omission or error with respect to such individual’s wages as reported by the payroll data provider.”
 
-    See 2015 amendment notes below.
+    See 2015 Amendment notes below.
 
  __References in Text__ 
 
@@ -903,7 +903,9 @@
 
     Subsec. (e)(1)(B)(iii). [Pub. L. 114–74][/us/pl/114/74], § 824(b)(2), added cl. (iii).
 
-    Subsec. (e)(2)(A). [Pub. L. 114–74][/us/pl/114/74], § 824(c)(2)(A)(i), (ii), which directed substituting “(A) In the case of the failure” for “In the case of the failure” and redesignating former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), was executed by substituting “(A) In the case of the failure” for “In case of the failure” and by redesignating former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), to reflect the probable intent of Congress.
+    Subsec. (e)(2)(A). [Pub. L. 114–74][/us/pl/114/74], § 824(c)(2)(A)(ii), redesignated subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A).
+
+    [Pub. L. 114–74][/us/pl/114/74], § 824(c)(2)(A)(i), which directed substituting “(A) In the case of the failure” for “In the case of the failure”, was executed by making the substitution for “In case of the failure” to reflect the probable intent of Congress.
 
     Subsec. (e)(2)(B). [Pub. L. 114–74][/us/pl/114/74], § 824(c)(2)(A)(iii), added subpar. (B).
 
@@ -1964,6 +1966,7 @@ As enacted by [Pub. L. 92–603, title XVI][/us/pl/92/603/tXVI] of the Social Se
 [/us/pl/92/512/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F512%2FtIII
 [/us/stat/86/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F946
 [/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74

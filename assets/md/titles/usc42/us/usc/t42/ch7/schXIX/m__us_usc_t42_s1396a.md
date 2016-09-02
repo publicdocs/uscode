@@ -4693,7 +4693,7 @@
 
 >                 “(i) ensure that each State’s participation in the project complies with budget neutrality requirements; and
 
->                 “(ii) require the Secretary to treat any expenditures of a State participating in the demonstration project that are excess of the expenditures projected under the budget neutrality standard for the State as an overpayment under title XIX of the Social Security Act.
+>                 “(ii) require the Secretary to treat any expenditures of a State participating in the demonstration project that are \[in\] excess of the expenditures projected under the budget neutrality standard for the State as an overpayment under title XIX of the Social Security Act.
 
 >         “(5)  __Funding__  __.—__ 
 

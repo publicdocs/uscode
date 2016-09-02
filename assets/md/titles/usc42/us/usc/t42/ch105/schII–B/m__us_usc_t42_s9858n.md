@@ -125,7 +125,7 @@
 
  __Amendments__ 
 
-    2015—Par. (5). [Pub. L. 114–95][/us/pl/114/95] substituted “an individual who is an English learner, as defined in section [section 7801 of title 20][/us/usc/t20/s7801], or who is limited English proficient, as defined in [section 9832 of this title][/us/usc/t42/s9832]” for “an individual who is limited English proficient, as defined in [section 7801 of title 20][/us/usc/t20/s7801] or [section 9832 of this title][/us/usc/t42/s9832]”.
+    2015—Par. (5). [Pub. L. 114–95][/us/pl/114/95] substituted “an individual who is an English learner, as defined in [section 7801 of title 20][/us/usc/t20/s7801], or who is limited English proficient, as defined in [section 9832 of this title][/us/usc/t42/s9832]” for “an individual who is limited English proficient, as defined in [section 7801 of title 20][/us/usc/t20/s7801] or [section 9832 of this title][/us/usc/t42/s9832]”.
 
     2014—Pars. (3), (4). [Pub. L. 113–186][/us/pl/113/186], § 10(1), added pars. (3) and (4) and struck out former par. (4) which defined “eligible child”.
 

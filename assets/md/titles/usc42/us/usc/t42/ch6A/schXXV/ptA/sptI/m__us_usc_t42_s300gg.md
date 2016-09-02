@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/spt1/m__us_usc_t42_ch6A_schXXV_ptA_spt1.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/spt1/m__us_usc_t42_s300gg–1.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg)
+[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptI/m__us_usc_t42_ch6A_schXXV_ptA_sptI.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptI/m__us_usc_t42_s300gg–1.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg)
 
 ## § 300gg. Fair health insurance premiums
 
@@ -163,7 +163,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/spt1/m__us_usc_t42_ch6A_schXXV_ptA_spt1.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/spt1/m__us_usc_t42_s300gg–1.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg)
+[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptI/m__us_usc_t42_ch6A_schXXV_ptA_sptI.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptI/m__us_usc_t42_s300gg–1.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg)
 
 ----------
 ----------

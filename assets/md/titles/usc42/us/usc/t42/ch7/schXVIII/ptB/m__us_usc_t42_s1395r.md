@@ -391,7 +391,7 @@
 
     Subsec. (i)(3)(A)(i). [Pub. L. 114–10][/us/pl/114/10], § 402(b)(2), inserted “applicable” before “table”.
 
-    Subsec. (i)(3)(A)(ii). [Pub. L. 114–74][/us/pl/114/74], § 601(c), designated existing provisions as subcl. (I) and added subcl. (II).
+    Subsec. (i)(3)(A)(ii). [Pub. L. 114–74][/us/pl/114/74], § 601(c), designated existing provisions as subcl. (I) and substituted “; plus” for period and added subcl. (II).
 
     Subsec. (i)(3)(C)(i). [Pub. L. 114–10][/us/pl/114/10], § 402(a), designated existing provisions as subcl. (I) and inserted introductory provisions and added subcl. (II).
 

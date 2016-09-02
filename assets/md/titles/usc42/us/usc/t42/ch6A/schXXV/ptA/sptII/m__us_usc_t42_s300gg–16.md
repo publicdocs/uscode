@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptii/m__us_usc_t42_s300gg–15a.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptii/m__us_usc_t42_s300gg–17.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9316)
+[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptII/m__us_usc_t42_s300gg–15a.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptII/m__us_usc_t42_s300gg–17.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9316)
 
 ## § 300gg–16. Prohibition on discrimination in favor of highly compensated individuals
 
@@ -47,7 +47,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptii/m__us_usc_t42_s300gg–15a.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptii/m__us_usc_t42_s300gg–17.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9316)
+[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptII/m__us_usc_t42_s300gg–15a.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptII/m__us_usc_t42_s300gg–17.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9316)
 
 ----------
 ----------

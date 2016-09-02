@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptii/m__us_usc_t42_s300gg–12.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptii/m__us_usc_t42_s300gg–14.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9313)
+[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptII/m__us_usc_t42_s300gg–12.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptII/m__us_usc_t42_s300gg–14.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9313)
 
 ## § 300gg–13. Coverage of preventive health services
 
@@ -59,7 +59,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptii/m__us_usc_t42_s300gg–12.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptii/m__us_usc_t42_s300gg–14.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9313)
+[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptII/m__us_usc_t42_s300gg–12.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptII/m__us_usc_t42_s300gg–14.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9313)
 
 ----------
 ----------

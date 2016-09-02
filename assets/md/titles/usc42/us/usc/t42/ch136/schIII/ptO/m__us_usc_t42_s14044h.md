@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t42/ch136/schIII/ptO/m__us_usc_t42_s14044g.md) | [Next](./../../../../../..//us/usc/t42/ch136/schIII/ptP/m__us_usc_t42_ch136_schIII_ptP.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14044h)
 
-## § 14044h. Establishing a National Strategy to Combat Human Trafficking
+## § 14044h. Establishing a national strategy to combat human trafficking
 
     (a) __In general__ 
 

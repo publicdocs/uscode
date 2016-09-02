@@ -363,7 +363,7 @@
 
     The Trading with the Enemy Act, referred to in subsec. (e)(2)(A), is [act Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], [40 Stat. 411][/us/stat/40/411], which was classified generally to sections 1 to 6, 7 to 39, and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§ 4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
-     The September 11th Victim Compensation Fund, referred to in subsec. (j)(6), probably means the September 11th Victim Compensation Fund of 2001, title IV of [Pub. L. 107–42][/us/pl/107/42], Sept. 22, 2001, [115 Stat. 237][/us/stat/115/237], which is set out in a note under [section 40101 of Title 49][/us/usc/t49/s40101], Transportation.
+    The September 11th Victim Compensation Fund, referred to in subsec. (j)(6), probably means the September 11th Victim Compensation Fund of 2001, title IV of [Pub. L. 107–42][/us/pl/107/42], Sept. 22, 2001, [115 Stat. 237][/us/stat/115/237], which is set out in a note under [section 40101 of Title 49][/us/usc/t49/s40101], Transportation.
 
  __Codification__ 
 

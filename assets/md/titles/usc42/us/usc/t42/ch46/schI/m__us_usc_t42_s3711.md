@@ -41,6 +41,12 @@
 
 >         “(2) Section 609Z \[repealing [section 204 of Pub. L. 98–411][/us/pl/98/411/s204], which had amended sections 3796 to 3796b of this title and enacted provisions set out as a note under [section 3796 of this title][/us/usc/t42/s3796]\] shall take effect on October 1, 1984.”
 
+ __Short Title of 2016 Amendment__ 
+
+[Pub. L. 114–155][/us/pl/114/155], § 1, May 16, 2016, [130 Stat. 389][/us/stat/130/389], provided that: 
+
+> “This Act \[amending sections 3766a, 3793, and 3796ll of this title\] may be cited as the ‘Bulletproof Vest Partnership Grant Program Reauthorization Act of 2015’.”
+
  __Short Title of 2015 Amendment__ 
 
 [Pub. L. 114–22, title X][/us/pl/114/22/tX], § 1001, May 29, 2015, [129 Stat. 266][/us/stat/129/266], provided that: 
@@ -255,6 +261,8 @@
 [/us/stat/98/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2107
 [/us/pl/98/411/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F411%2Fs204
 [/us/usc/t42/s3796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796
+[/us/pl/114/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F155
+[/us/stat/130/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F389
 [/us/pl/114/22/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtX
 [/us/stat/129/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F266
 [/us/usc/t42/s3796dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796dd

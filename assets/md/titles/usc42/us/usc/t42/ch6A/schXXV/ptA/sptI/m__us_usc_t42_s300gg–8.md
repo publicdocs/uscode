@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/spt1/m__us_usc_t42_s300gg–7.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/spt1/m__us_usc_t42_s300gg–9.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%938)
+[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptI/m__us_usc_t42_s300gg–7.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptI/m__us_usc_t42_s300gg–9.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%938)
 
 ## § 300gg–8. Coverage for individuals participating in approved clinical trials
 
@@ -141,7 +141,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/spt1/m__us_usc_t42_s300gg–7.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/spt1/m__us_usc_t42_s300gg–9.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%938)
+[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptI/m__us_usc_t42_s300gg–7.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptI/m__us_usc_t42_s300gg–9.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%938)
 
 ----------
 ----------

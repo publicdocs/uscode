@@ -439,7 +439,7 @@
 
                 In applying subparagraphs (A) and (D) of paragraph (2) under clause (i)—
 
-                    (I) the reference in subparagraph (A)(i) of such paragraph to “1990” shall be deemed a reference to ‘2014’;
+                    (I) the reference in subparagraph (A)(i) of such paragraph to “1990” shall be deemed a reference to “2014”;
 
                     (II) subject to clause (iii), the reference in subparagraph (A)(ii) of such paragraph to “the calendar quarter beginning July 1, 1990” shall be deemed a reference to “the calendar quarter beginning July 1, 2014”; and
 

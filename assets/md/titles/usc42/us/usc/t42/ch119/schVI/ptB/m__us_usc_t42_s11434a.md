@@ -87,6 +87,8 @@
 
  __Effective Date of 2015 Amendment__ 
 
+    Amendment by [section 9215(zz) of Pub. L. 114–95][/us/pl/114/95/s9215/zz] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t42/s6301].
+
 [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9105(b), Dec. 10, 2015, [129 Stat. 2137][/us/stat/129/2137], provided that:
 
 >     “(1) __In general.—__ 
@@ -97,7 +99,7 @@
 
 >     In the case of a covered State, the amendment made by subsection (a)(1) shall take effect on the date that is 2 years after the date of enactment of this Act.”
 
-    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Oct. 1, 2016, except as provided in [section 9105(b) of Pub. L. 114–95][/us/pl/114/95/s9105/b] (set out above), see [section 9107 of Pub. L. 114–95][/us/pl/114/95/s9107], set out as a note under [section 11431 of this title][/us/usc/t42/s11431].
+    Amendment by [section 9105(a) of Pub. L. 114–95][/us/pl/114/95/s9105/a] effective Oct. 1, 2016, except as provided in [section 9105(b) of Pub. L. 114–95][/us/pl/114/95/s9105/b] (set out above), see [section 9107 of Pub. L. 114–95][/us/pl/114/95/s9107], set out as a note under [section 11431 of this title][/us/usc/t42/s11431].
 
  __Definition of Covered State__ 
 
@@ -144,9 +146,12 @@
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s9215/zz]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs9215%2Fzz
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t42/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6301
 [/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
 [/us/stat/129/2137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2137
-[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s9105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs9105%2Fa
 [/us/pl/114/95/s9105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs9105%2Fb
 [/us/pl/114/95/s9107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs9107
 [/us/usc/t42/s11431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11431

@@ -19,11 +19,29 @@
 
     (b) The functions, powers, and duties specified in this subchapter to be carried out by the Bureau shall not be transferred elsewhere in the Department of Justice unless specifically hereafter authorized by the Congress by law.
 
-([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 521, as added [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6091(a), Nov. 18, 1988, [102 Stat. 4337][/us/stat/102/4337].)
+    (c)
+
+        (1)
+
+         Notwithstanding any other provision of law, a grantee that uses funds made available under this subchapter to purchase an armor vest or body armor shall—
+
+            (A) comply with any requirements established for the use of grants made under subchapter XII–M;
+
+            (B) have a written policy requiring uniformed patrol officers to wear an armor vest or body armor; and
+
+            (C) use the funds to purchase armor vests or body armor that meet any performance standards established by the Director of the Bureau of Justice Assistance.
+
+        (2) In this subsection, the terms “armor vest”and “body armor” have the meanings given such terms in section 3796ll–2 of this title.
+
+([Pub. L. 90–351, title I][/us/pl/90/351/tI], § 521, as added [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6091(a), Nov. 18, 1988, [102 Stat. 4337][/us/stat/102/4337]; amended [Pub. L. 114–155][/us/pl/114/155], § 6, May 16, 2016, [130 Stat. 390][/us/stat/130/390].)
 
  __Prior Provisions__ 
 
     For prior [section 521 of Pub. L. 90–351][/us/pl/90/351/s521], see note set out preceding [section 3750 of this title][/us/usc/t42/s3750].
+
+ __Amendments__ 
+
+    2016—Subsec. (c). [Pub. L. 114–155][/us/pl/114/155] added subsec. (c).
 
 ----------
 
@@ -35,7 +53,10 @@
 [/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
 [/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4337
+[/us/pl/114/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F155
+[/us/stat/130/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F390
 [/us/pl/90/351/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs521
 [/us/usc/t42/s3750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3750
+[/us/pl/114/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F155
 
 

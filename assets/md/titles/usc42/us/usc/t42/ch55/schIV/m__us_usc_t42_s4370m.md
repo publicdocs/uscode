@@ -133,7 +133,7 @@
 
  __References in Text__ 
 
-    The National Environmental Policy Act of 1969, referred to in par. (16), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], which is classified generally to this chapter. NEPA, referred to in in pars. (6)(A), (11), and (15), means the National Environmental Policy Act of 1969. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title][/us/usc/t42/s4321] and Tables.
+    The National Environmental Policy Act of 1969, referred to in par. (16), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title][/us/usc/t42/s4321] and Tables.
 
  __Codification__ 
 

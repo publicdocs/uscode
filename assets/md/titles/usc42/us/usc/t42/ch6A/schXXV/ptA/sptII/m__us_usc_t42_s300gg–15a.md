@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptii/m__us_usc_t42_s300gg–15.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptii/m__us_usc_t42_s300gg–16.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9315a)
+[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptII/m__us_usc_t42_s300gg–15.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptII/m__us_usc_t42_s300gg–16.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9315a)
 
 ## § 300gg–15a. Provision of additional information
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptii/m__us_usc_t42_s300gg–15.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptii/m__us_usc_t42_s300gg–16.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9315a)
+[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptII/m__us_usc_t42_s300gg–15.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXV/ptA/sptII/m__us_usc_t42_s300gg–16.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9315a)
 
 ----------
 ----------
