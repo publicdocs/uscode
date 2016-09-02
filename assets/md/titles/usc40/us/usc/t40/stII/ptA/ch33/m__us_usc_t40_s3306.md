@@ -33,7 +33,7 @@
 
         (4)  __Historical, architectural, or cultural significance__  __.—__ 
 
-        The term “historical, architectural, or cultural significance” includes buildings listed or eligible to be listed on the National Register established under section 101 of the National Historic Preservation Act ([16 U.S.C. 470a][/us/usc/t16/s470a]).
+        The term “historical, architectural, or cultural significance” includes buildings listed or eligible to be listed on the National Register established under chapter 3021 of title 54.
 
         (5)  __Recreational activities__  __.—__ 
 
@@ -63,7 +63,7 @@
 
         (2) solicit the comments of other community leaders and members of the general public as the Administrator considers appropriate.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1160][/us/stat/116/1160].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1160][/us/stat/116/1160]; [Pub. L. 113–287, § 5(j)(6)][/us/pl/113/287/s5/j/6], Dec. 19, 2014, [128 Stat. 3269][/us/stat/128/3269].)
 
 <table>
 
@@ -217,6 +217,10 @@ Pub. L. 94–541, title I, §§ 102, 105(3)–(8), Oct. 18, 1976, 90 Stat. 250
 
     The Demonstration Cities and Metropolitan Development Act of 1966, referred to in subsec. (c)(1), is [Pub. L. 89–754][/us/pl/89/754], Nov. 3, 1966, [80 Stat. 1255][/us/stat/80/1255], as amended. Title II of the Act is classified generally to subchapter II (§ 3331 et seq.) of chapter 41 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3331 of Title 42][/us/usc/t42/s3331] and Tables.
 
+ __Amendments__ 
+
+    2014—Subsec. (a)(4). [Pub. L. 113–287][/us/pl/113/287] substituted “chapter 3021 of title 54” for “section 101 of the National Historic Preservation Act ([16 U.S.C. 470a][/us/usc/t16/s470a])”.
+
  __Ex. Ord. No. 13006. Locating Federal Facilities on Historic Properties in Our Nation’s Central Cities__ 
 
     Ex. Ord. No. 13006, May 21, 1996, 61 F.R. 26071, provided:
@@ -244,11 +248,12 @@ Pub. L. 94–541, title I, §§ 102, 105(3)–(8), Oct. 18, 1976, 90 Stat. 250
 ----------
 ----------
 
-[/us/usc/t16/s470a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470a
 [/us/usc/t42/s3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3331
 [/us/usc/t31/s6506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6506
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1160
+[/us/pl/113/287/s5/j/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fj%2F6
+[/us/stat/128/3269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3269
 [/us/usc/t31/s6506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6506
 [/us/pl/94/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F541
 [/us/stat/90/2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2505
@@ -258,6 +263,8 @@ Pub. L. 94–541, title I, §§ 102, 105(3)–(8), Oct. 18, 1976, 90 Stat. 250
 [/us/pl/89/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754
 [/us/stat/80/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1255
 [/us/usc/t42/s3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3331
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/usc/t16/s470a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470a
 [/us/usc/t16/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470
 [/us/stat/90/2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2505
 [/us/pl/94/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F541

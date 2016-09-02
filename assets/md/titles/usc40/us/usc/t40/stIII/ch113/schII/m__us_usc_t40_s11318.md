@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t40/stIII/ch113/schII/m__us_usc_t40_s11317.md) | [Next](./../../../../../..//us/usc/t40/stIII/ch113/schIII/m__us_usc_t40_stIII_ch113_schIII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11318)
+[Previous](./../../../../../..//us/usc/t40/stIII/ch113/schII/m__us_usc_t40_s11317.md) | [Next](./../../../../../..//us/usc/t40/stIII/ch113/schII/m__us_usc_t40_s11319.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11318)
 
 ## § 11318. Interagency support
 
@@ -67,7 +67,7 @@ Pub. L. 104–106, div. E, title LI, § 5128, Feb. 10, 1996, 110 Stat. 687.  <
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t40/stIII/ch113/schII/m__us_usc_t40_s11317.md) | [Next](./../../../../../..//us/usc/t40/stIII/ch113/schIII/m__us_usc_t40_stIII_ch113_schIII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11318)
+[Previous](./../../../../../..//us/usc/t40/stIII/ch113/schII/m__us_usc_t40_s11317.md) | [Next](./../../../../../..//us/usc/t40/stIII/ch113/schII/m__us_usc_t40_s11319.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11318)
 
 ----------
 ----------

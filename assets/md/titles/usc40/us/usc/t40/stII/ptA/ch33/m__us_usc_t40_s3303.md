@@ -41,7 +41,7 @@
 
     (c)  __Request for Identification of Existing Buildings of Historical, Architectural, or Cultural Significance__  __.—__ 
 
-    When the Administrator undertakes a survey of the public buildings needs of the Government within a geographical area, the Administrator shall request that, within 60 days, the Advisory Council on Historic Preservation established by title II of the National Historic Preservation Act ([16 U.S.C. 470i][/us/usc/t16/s470i] et seq.) identify any existing buildings in the geographical area that—
+    When the Administrator undertakes a survey of the public buildings needs of the Government within a geographical area, the Administrator shall request that, within 60 days, the Advisory Council on Historic Preservation established by [section 304101 of title 54][/us/usc/t54/s304101] identify any existing buildings in the geographical area that—
 
         (1) are of historical, architectural, or cultural significance (as defined in [section 3306(a) of this title][/us/usc/t40/s3306/a]); and
 
@@ -51,7 +51,7 @@
 
     In carrying out the duties of the Administrator under this chapter, the Administrator shall provide for the construction and acquisition of public buildings equitably throughout the United States with due regard to the comparative urgency of the need for each particular building. In developing plans for new buildings, the Administrator shall give due consideration to excellence of architecture and design.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1158][/us/stat/116/1158].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1158][/us/stat/116/1158]; [Pub. L. 113–287, § 5(j)(5)][/us/pl/113/287/s5/j/5], Dec. 19, 2014, [128 Stat. 3269][/us/stat/128/3269].)
 
 <table>
 
@@ -147,9 +147,9 @@ Pub. L. 86–249, § 12(c), as added Pub. L. 94–541, title I, § 103(3), O
 
     In subsection (c)(2), the word “purchase” is omitted as being included in \[“\]‘acquisition”.
 
- __References in Text__ 
+ __Amendments__ 
 
-    The National Historic Preservation Act, referred to in subsec. (c), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], as amended. Title II of the Act is classified generally to sections 470i to 470v of Title 16, Conservation. For complete classification of this Act to the Code, see [section 470 of Title 16][/us/usc/t16/s470] and Tables.
+    2014—Subsec. (c). [Pub. L. 113–287][/us/pl/113/287] substituted “[section 304101 of title 54][/us/usc/t54/s304101]” for “title II of the National Historic Preservation Act ([16 U.S.C. 470i][/us/usc/t16/s470i] et seq.)” in introductory provisions.
 
 ----------
 
@@ -158,12 +158,14 @@ Pub. L. 86–249, § 12(c), as added Pub. L. 94–541, title I, § 103(3), O
 ----------
 ----------
 
-[/us/usc/t16/s470i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470i
+[/us/usc/t54/s304101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs304101
 [/us/usc/t40/s3306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3306%2Fa
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1158
-[/us/pl/89/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665
-[/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
-[/us/usc/t16/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470
+[/us/pl/113/287/s5/j/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fj%2F5
+[/us/stat/128/3269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3269
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/usc/t54/s304101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs304101
+[/us/usc/t16/s470i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470i
 
 

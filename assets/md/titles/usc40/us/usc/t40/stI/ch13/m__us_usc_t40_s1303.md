@@ -41,7 +41,7 @@
 
     (c)  __Demolition__  __.—__ 
 
-    The Administrator may demolish any building declared to be surplus to the needs of the Government under this section on deciding that demolition will be in the best interest of the Government. Before proceeding with the demolition, the Administrator shall inform the Secretary of the Interior in writing of the Administrator’s intention to demolish the building, and shall not proceed with the demolition until receiving written notice from the Secretary that the building is not an historic building of national significance within the meaning of the Act of August 21, 1935 ([16 U.S.C. 461][/us/usc/t16/s461] et seq.) (known as the Historic Sites, Buildings, and Antiquities Act). If the Secretary does not notify the Administrator of the Secretary’s decision as to whether the building is an historic building of national significance within 90 days of the receipt of the notice of intention to demolish the building, the Administrator may proceed to demolish the building.
+    The Administrator may demolish any building declared to be surplus to the needs of the Government under this section on deciding that demolition will be in the best interest of the Government. Before proceeding with the demolition, the Administrator shall inform the Secretary of the Interior in writing of the Administrator’s intention to demolish the building, and shall not proceed with the demolition until receiving written notice from the Secretary that the building is not an historic building of national significance within the meaning of chapter 3201 of title 54. If the Secretary does not notify the Administrator of the Secretary’s decision as to whether the building is an historic building of national significance within 90 days of the receipt of the notice of intention to demolish the building, the Administrator may proceed to demolish the building.
 
     (d)  __Repairs and Alterations to Assigned Real Property__  __.—__ 
 
@@ -65,7 +65,7 @@
 
     The Administrator may prescribe regulations as necessary to carry out this section.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1131][/us/stat/116/1131].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1131][/us/stat/116/1131]; [Pub. L. 113–287, § 5(j)(3)][/us/pl/113/287/s5/j/3], Dec. 19, 2014, [128 Stat. 3269][/us/stat/128/3269].)
 
 <table>
 
@@ -231,9 +231,9 @@ Aug. 27, 1935, ch. 744, § 4, 49 Stat. 886; July 18, 1940, ch. 635, § 3, 54
 
     In subsection (f), the words “as hereinafter” are omitted as obsolete. The words “which have been or may hereafter be” and “notwithstanding any declaration that the same is in excess of its needs” are omitted as unnecessary.
 
- __References in Text__ 
+ __Amendments__ 
 
-    The Historic Sites, Buildings, and Antiquities Act, referred to in subsec. (c), is the popular name for [act Aug. 21, 1935, ch. 593][/us/act/1935-08-21/ch593], [49 Stat. 666][/us/stat/49/666], as amended, also known as the Historic Sites Act of August 21, 1935, which is classified generally to sections 461 to 467 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 461 of Title 16][/us/usc/t16/s461] and Tables.
+    2014—Subsec. (c). [Pub. L. 113–287][/us/pl/113/287] substituted “chapter 3201 of title 54” for “the Act of August 21, 1935 ([16 U.S.C. 461][/us/usc/t16/s461] et seq.) (known as the Historic Sites, Buildings, and Antiquities Act)”.
 
 ----------
 
@@ -242,13 +242,13 @@ Aug. 27, 1935, ch. 744, § 4, 49 Stat. 886; July 18, 1940, ch. 635, § 3, 54
 ----------
 ----------
 
-[/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1131
+[/us/pl/113/287/s5/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fj%2F3
+[/us/stat/128/3269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3269
 [/us/stat/63/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F380
 [/us/stat/63/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F380
-[/us/act/1935-08-21/ch593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-21%2Fch593
-[/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
 
 

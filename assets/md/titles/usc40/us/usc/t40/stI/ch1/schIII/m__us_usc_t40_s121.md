@@ -571,7 +571,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
     (v) identify and pursue goals, with appropriate deadlines, consistent with and supportive of the agency’s asset management plan and measure progress against such goals;
 
-    (vi) incorporate planning and management requirements for historic property under Executive Order 13287 of March 3, 2003 \[[16 U.S.C. 470h–2][/us/usc/t16/s470h–2] note\], and for environmental management under other executive orders; and
+    (vi) incorporate planning and management requirements for historic property under Executive Order 13287 of March 3, 2003 \[[54 U.S.C. 306101][/us/usc/t54/s306101] note\], and for environmental management under other executive orders; and
 
     (vii) identify any other information and pursue any other actions necessary to the appropriate development and implementation of the agency asset management plan.
 
@@ -695,7 +695,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t40/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs121%2Fa
 [/us/usc/t40/s484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs484
 [/us/usc/t40/s541–555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs541%E2%80%93555
-[/us/usc/t16/s470h–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470h%E2%80%932
+[/us/usc/t54/s306101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306101
 [/us/usc/t5/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs306
 
 

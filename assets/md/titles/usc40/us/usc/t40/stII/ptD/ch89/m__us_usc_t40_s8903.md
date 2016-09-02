@@ -195,7 +195,7 @@ Commemorative Works  </td>
 
     <td> 
 
-Adams Memorial.—Pub. L. 107–62, Nov. 5, 2001, 115 Stat. 411; Pub. L. 107–315, Dec. 2, 2002, 116 Stat. 2763; Pub. L. 108–7, div. F, title I, § 142, Feb. 20, 2003, 117 Stat. 244; Pub. L. 111–169, § 1, May 24, 2010, 124 Stat. 1192.  </td>
+Adams Memorial.—Pub. L. 107–62, Nov. 5, 2001, 115 Stat. 411; Pub. L. 107–315, Dec. 2, 2002, 116 Stat. 2763; Pub. L. 108–7, div. F, title I, § 142, Feb. 20, 2003, 117 Stat. 244; Pub. L. 111–169, § 1, May 24, 2010, 124 Stat. 1192; Pub. L. 113–291, div. B, title XXX, § 3094, Dec. 19, 2014, 128 Stat. 3880.  </td>
 
   </tr>
 
@@ -332,6 +332,14 @@ Mahatma Gandhi Memorial.—Pub. L. 105–284, § 1, Oct. 26, 1998, 112 Stat. 2
     <td> 
 
 Martin Luther King, Jr., Memorial.—Pub. L. 104–333, div. I, title V, § 508, Nov. 12, 1996, 110 Stat. 4157; Pub. L. 105–201, § 1, July 16, 1998, 112 Stat. 675; Pub. L. 106–176, title I, § 108, Mar. 10, 2000, 114 Stat. 26; Pub. L. 108–125, § 1, Nov. 11, 2003, 117 Stat. 1347; Pub. L. 109–54, title I, § 134(c), Aug. 2, 2005, 119 Stat. 527; Pub. L. 110–453, title III, § 301, Dec. 2, 2008, 122 Stat. 5034; Pub. L. 111–88, div. A, title I, § 129, Oct. 30, 2009, 123 Stat. 2933.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+National Desert Storm and Desert Shield Memorial.—Pub. L. 113–291, div. B, title XXX, § 3093(a), Dec. 19, 2014, 128 Stat. 3879.  </td>
 
   </tr>
 

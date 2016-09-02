@@ -59,11 +59,55 @@
 
         The National Capital Planning Commission and the Commission of Fine Arts may develop such criteria or guidelines specific to each site that are mutually agreed upon to ensure that the design of the commemorative work carries out the purposes of this chapter.
 
-        (7)  __Donor contributions__  __.—__ 
+    (c) __Donor Contributions.—__ 
 
-        Donor contributions to commemorative works shall not be acknowledged in any manner as part of the commemorative work or its site.
+        (1)  __Acknowledgment of donor contribution__  __.—__ 
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1229][/us/stat/116/1229]; [Pub. L. 108–126, title II][/us/pl/108/126], §§ 203(e), 204, Nov. 17, 2003, [117 Stat. 1351][/us/stat/117/1351], 1352.)
+        Except as otherwise provided in this subsection, the Secretary of the Interior or Administrator of General Services, as applicable, may permit a sponsor to acknowledge donor contributions at the commemorative work.
+
+        (2) __Requirements.—__ 
+
+        An acknowledgment under paragraph (1) shall—
+
+            (A)
+
+             be displayed—
+
+                (i) inside an ancillary structure associated with the commemorative work; or
+
+                (ii) as part of a manmade landscape feature at the commemorative work; and
+
+            (B) conform to applicable National Park Service or General Services Administration guidelines for donor recognition, as applicable.
+
+        (3)  __Limitations__  __.—__ 
+
+        An acknowledgment under paragraph (1) shall—
+
+            (A) be limited to an appropriate statement or credit recognizing the contribution;
+
+            (B) be displayed in a form in accordance with National Park Service and General Services Administration guidelines;
+
+            (C) be displayed for a period of up to 10 years, with the display period to be commensurate with the level of the contribution, as determined in accordance with the plan and guidelines described in subparagraph (B);
+
+            (D) be freestanding; and
+
+            (E)
+
+             not be affixed to—
+
+                (i) any landscape feature at the commemorative work; or
+
+                (ii) any object in a museum collection.
+
+        (4)  __Cost__  __.—__ 
+
+        The sponsor shall bear all expenses related to the display of donor acknowledgments under paragraph (1).
+
+        (5)  __Applicability__  __.—__ 
+
+        This subsection shall apply to any commemorative work dedicated after January 1, 2010.
+
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1229][/us/stat/116/1229]; [Pub. L. 108–126, title II][/us/pl/108/126], §§ 203(e), 204, Nov. 17, 2003, [117 Stat. 1351][/us/stat/117/1351], 1352; [Pub. L. 113–291, div. B, title XXX, § 3054(c)][/us/pl/113/291/s3054/c], Dec. 19, 2014, [128 Stat. 3807][/us/stat/128/3807].)
 
 <table>
 
@@ -127,6 +171,10 @@ Pub. L. 99–652, § 7, Nov. 14, 1986, 100 Stat. 3652; Pub. L. 103–321, §�
 
  __Amendments__ 
 
+    2014—Subsec. (b)(7). [Pub. L. 113–291, § 3054(c)(1)][/us/pl/113/291/s3054/c/1], struck out par. (7) which read as follows: “Donor contributions to commemorative works shall not be acknowledged in any manner as part of the commemorative work or its site.”
+
+    Subsec. (c). [Pub. L. 113–291, § 3054(c)(2)][/us/pl/113/291/s3054/c/2], added subsec. (c).
+
     2003—Subsec. (a). [Pub. L. 108–126, § 203(e)(1)(A)][/us/pl/108/126/s203/e/1/A], substituted “sponsor” for “person” wherever appearing.
 
     Subsec. (a)(1). [Pub. L. 108–126, § 203(e)(1)(B)][/us/pl/108/126/s203/e/1/B], inserted “Advisory” before “Commission” and substituted “design concepts” for “designs”.
@@ -152,6 +200,10 @@ Pub. L. 99–652, § 7, Nov. 14, 1986, 100 Stat. 3652; Pub. L. 103–321, §�
 [/us/stat/116/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1229
 [/us/pl/108/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126
 [/us/stat/117/1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1351
+[/us/pl/113/291/s3054/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3054%2Fc
+[/us/stat/128/3807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3807
+[/us/pl/113/291/s3054/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3054%2Fc%2F1
+[/us/pl/113/291/s3054/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3054%2Fc%2F2
 [/us/pl/108/126/s203/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs203%2Fe%2F1%2FA
 [/us/pl/108/126/s203/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs203%2Fe%2F1%2FB
 [/us/pl/108/126/s203/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F126%2Fs203%2Fe%2F2%2FA

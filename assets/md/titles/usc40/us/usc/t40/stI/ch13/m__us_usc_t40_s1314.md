@@ -33,7 +33,7 @@
 
                 (i) land reserved or dedicated for national forest purposes;
 
-                (ii) land the Secretary of the Interior administers or supervises in accordance with the Act of August 25, 1916 ([16 U.S.C. 1][/us/usc/t16/s1], 2, 3, 4) (known as the National Park Service Organic Act);
+                (ii) land the Secretary of the Interior administers or supervises in accordance with section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54;
 
                 (iii) Indian-owned trust and restricted land; and
 
@@ -83,7 +83,7 @@
 
     Rights of way over, under, and through public lands and lands in the National Forest System may not be granted under this section.
 
-([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1139][/us/stat/116/1139].)
+([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1139][/us/stat/116/1139]; [Pub. L. 113–287, § 5(j)(4)][/us/pl/113/287/s5/j/4], Dec. 19, 2014, [128 Stat. 3269][/us/stat/128/3269].)
 
 <table>
 
@@ -209,9 +209,9 @@ Pub. L. 94–579, title VII, § 706(a) (related to the Act of Oct. 23, 1962 (P
 
     In subsection (c), the words “affected” and “concerned” before “a notice” are omitted as unnecessary. The words “chief executive officer” are substituted for “Governor” for clarity.
 
- __References in Text__ 
+ __Amendments__ 
 
-    The National Park Service Organic Act, referred to in subsec. (a)(2)(A)(ii), is [act Aug. 25, 1916, ch. 408][/us/act/1916-08-25/ch408], [39 Stat. 35][/us/stat/39/35], as amended, which is classified generally to sections 1, 2, 3, and 4 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of Title 16][/us/usc/t16/s1] and Tables.
+    2014—Subsec. (a)(2)(A)(ii). [Pub. L. 113–287][/us/pl/113/287] substituted “section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54” for “the Act of August 25, 1916 ([16 U.S.C. 1][/us/usc/t16/s1], 2, 3, 4) (known as the National Park Service Organic Act)”.
 
 ----------
 
@@ -220,11 +220,11 @@ Pub. L. 94–579, title VII, § 706(a) (related to the Act of Oct. 23, 1962 (P
 ----------
 ----------
 
-[/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1139
-[/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
-[/us/stat/39/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F35
+[/us/pl/113/287/s5/j/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fj%2F4
+[/us/stat/128/3269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3269
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 
 
