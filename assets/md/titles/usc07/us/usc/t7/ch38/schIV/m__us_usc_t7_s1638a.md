@@ -21,11 +21,11 @@
 
             Except as provided in subsection (b), a retailer of a covered commodity shall inform consumers, at the final point of sale of the covered commodity to consumers, of the country of origin of the covered commodity.
 
-        (2) __Designation of country of origin for beef, lamb, pork, chicken, goat, and venison meat__ 
+        (2) __Designation of country of origin for lamb, chicken, goat, and venison meat__ 
 
             (A) __United States country of origin__ 
 
-            A retailer of a covered commodity that is beef, lamb, pork, chicken, goat, or venison meat may designate the covered commodity as exclusively having a United States country of origin only if the covered commodity is derived from an animal that was—
+            A retailer of a covered commodity that is lamb, chicken, goat, or venison meat may designate the covered commodity as exclusively having a United States country of origin only if the covered commodity is derived from an animal that was—
 
                 (i) exclusively born, raised, and slaughtered in the United States;
 
@@ -37,7 +37,7 @@
 
                 (i) __In general__ 
 
-                A retailer of a covered commodity that is beef, lamb, pork, chicken, goat, or venison meat that is derived from an animal that is—
+                A retailer of a covered commodity that is lamb, chicken, goat, or venison meat that is derived from an animal that is—
 
                     (I) not exclusively born, raised, and slaughtered in the United States,
 
@@ -53,7 +53,7 @@
 
             (C) __Imported for immediate slaughter__ 
 
-            A retailer of a covered commodity that is beef, lamb, pork, chicken, goat, or venison meat that is derived from an animal that is imported into the United States for immediate slaughter shall designate the origin of such covered commodity as—
+            A retailer of a covered commodity that is lamb, chicken, goat, or venison meat that is derived from an animal that is imported into the United States for immediate slaughter shall designate the origin of such covered commodity as—
 
                 (i) the country from which the animal was imported; and
 
@@ -61,15 +61,15 @@
 
             (D) __Foreign country of origin__ 
 
-                A retailer of a covered commodity that is beef, lamb, pork, chicken, goat, or venison meat that is derived from an animal that is not born, raised, or slaughtered in the United States shall designate a country other than the United States as the country of origin of such commodity.
+                A retailer of a covered commodity that is lamb, chicken, goat, or venison meat that is derived from an animal that is not born, raised, or slaughtered in the United States shall designate a country other than the United States as the country of origin of such commodity.
 
-            (E) __Ground beef, pork, lamb, chicken, goat, and venison__ 
+            (E) __Ground lamb, chicken, goat, and venison__ 
 
-            The notice of country of origin for ground beef, ground pork, ground lamb, ground chicken, ground goat, or ground venison shall include—
+            The notice of country of origin for ground lamb, ground chicken, ground goat, or ground venison shall include—
 
-                (i) a list of all countries of origin of such ground beef, ground pork, ground lamb, ground chicken, ground goat, or ground venison; or
+                (i) a list of all countries of origin of such ground lamb, ground chicken, ground goat, or ground venison; or
 
-                (ii) a list of all reasonably possible countries of origin of such ground beef, ground pork, ground lamb, ground chicken, ground goat, or ground venison.
+                (ii) a list of all reasonably possible countries of origin of such ground lamb, ground chicken, ground goat, or ground venison.
 
         (3) __Designation of country of origin for fish__ 
 
@@ -155,19 +155,15 @@
 
             (A) the carcass grading and certification system carried out under this Act;
 
-            (B) the voluntary country of origin beef labeling system carried out under this Act;
+            (B) the origin verification system established to carry out the child and adult care food program established under [section 1766 of title 42][/us/usc/t42/s1766]; or
 
-            (C) voluntary programs established to certify certain premium beef cuts;
+            (C) the origin verification system established to carry out the market access program under [section 5623 of this title][/us/usc/t7/s5623].
 
-            (D) the origin verification system established to carry out the child and adult care food program established under [section 1766 of title 42][/us/usc/t42/s1766]; or
-
-            (E) the origin verification system established to carry out the market access program under [section 5623 of this title][/us/usc/t7/s5623].
-
-([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 282, as added [Pub. L. 107–171, title X, § 10816][/us/pl/107/171/s10816], May 13, 2002, [116 Stat. 533][/us/stat/116/533]; amended [Pub. L. 107–206, title I, § 208][/us/pl/107/206/s208], Aug. 2, 2002, [116 Stat. 833][/us/stat/116/833]; [Pub. L. 110–234, title XI, § 11002(2)][/us/pl/110/234/s11002/2], May 22, 2008, [122 Stat. 1352][/us/stat/122/1352]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11002(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2113; [Pub. L. 113–79, title XII, § 12104(b)(2)][/us/pl/113/79/s12104/b/2], Feb. 7, 2014, [128 Stat. 979][/us/stat/128/979].)
+([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 282, as added [Pub. L. 107–171, title X, § 10816][/us/pl/107/171/s10816], May 13, 2002, [116 Stat. 533][/us/stat/116/533]; amended [Pub. L. 107–206, title I, § 208][/us/pl/107/206/s208], Aug. 2, 2002, [116 Stat. 833][/us/stat/116/833]; [Pub. L. 110–234, title XI, § 11002(2)][/us/pl/110/234/s11002/2], May 22, 2008, [122 Stat. 1352][/us/stat/122/1352]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11002(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2113; [Pub. L. 113–79, title XII, § 12104(b)(2)][/us/pl/113/79/s12104/b/2], Feb. 7, 2014, [128 Stat. 979][/us/stat/128/979]; [Pub. L. 114–113, div. A, title VII, § 759(b)][/us/pl/114/113/s759/b], Dec. 18, 2015, [129 Stat. 2285][/us/stat/129/2285].)
 
  __References in Text__ 
 
-    This Act, referred to in subsec. (f)(2)(A), (B), is [act Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], [60 Stat. 1082][/us/stat/60/1082], which enacted this chapter and sections 427h to 427j of this title and amended [section 427 of this title][/us/usc/t7/s427]. For complete classification of this Act to the Code, see Tables.
+    This Act, referred to in subsec. (f)(2)(A), is [act Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], [60 Stat. 1082][/us/stat/60/1082], which enacted this chapter and sections 427h to 427j of this title and amended [section 427 of this title][/us/usc/t7/s427]. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 
@@ -176,6 +172,18 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2015—Subsec. (a)(2). [Pub. L. 114–113, § 759(b)(1)(A)][/us/pl/114/113/s759/b/1/A], in heading, struck out “beef,” before “lamb,” and “pork,” before “chicken,”.
+
+    Subsec. (a)(2)(A) to (D). [Pub. L. 114–113, § 759(b)(1)(B)][/us/pl/114/113/s759/b/1/B], struck out “beef,” and “pork,” wherever appearing.
+
+    Subsec. (a)(2)(E). [Pub. L. 114–113, § 759(b)(1)(C)][/us/pl/114/113/s759/b/1/C], in heading, struck out “beef, pork,” after “Ground” and, in text, struck out “ground beef, ground pork,” werever appearing.
+
+    Subsec. (f)(2)(B) to (E). [Pub. L. 114–113, § 759(b)(2)][/us/pl/114/113/s759/b/2], redesignated subpars. (D) and (E) as (B) and (C), respectively, and struck out former subpars. (B) and (C), which read as follows:
+
+    “(B) the voluntary country of origin beef labeling system carried out under this Act;
+
+    “(C) voluntary programs established to certify certain premium beef cuts;”.
 
     2014—Subsec. (a)(2). [Pub. L. 113–79, § 12104(b)(2)(A)][/us/pl/113/79/s12104/b/2/A], substituted “goat, and venison” for “and goat” in heading.
 
@@ -218,6 +226,8 @@
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/113/79/s12104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12104%2Fb%2F2
 [/us/stat/128/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F979
+[/us/pl/114/113/s759/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs759%2Fb
+[/us/stat/129/2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2285
 [/us/act/1946-08-14/ch966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch966
 [/us/stat/60/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1082
 [/us/usc/t7/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs427
@@ -226,6 +236,10 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/114/113/s759/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs759%2Fb%2F1%2FA
+[/us/pl/114/113/s759/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs759%2Fb%2F1%2FB
+[/us/pl/114/113/s759/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs759%2Fb%2F1%2FC
+[/us/pl/114/113/s759/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs759%2Fb%2F2
 [/us/pl/113/79/s12104/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12104%2Fb%2F2%2FA
 [/us/pl/113/79/s12104/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12104%2Fb%2F2%2FB
 [/us/pl/113/79/s12104/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12104%2Fb%2F2%2FC

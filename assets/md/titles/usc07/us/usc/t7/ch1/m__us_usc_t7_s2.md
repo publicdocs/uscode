@@ -909,9 +909,19 @@
 
                 (i) __In general__ 
 
-                    An affiliate of a person that qualifies for an exception under subparagraph (A) (including affiliate entities predominantly engaged in providing financing for the purchase of the merchandise or manufactured goods of the person) may qualify for the exception only if the affiliate, acting on behalf of the person and as an agent, uses the swap to hedge or mitigate the commercial risk of the person or other affiliate of the person that is not a financial entity.
+                An affiliate of a person that qualifies for an exception under subparagraph (A) (including affiliate entities predominantly engaged in providing financing for the purchase of the merchandise or manufactured goods of the person) may qualify for the exception only if the affiliate—
 
-                (ii) __Prohibition relating to certain affiliates__ 
+                    (I) enters into the swap to hedge or mitigate the commercial risk of the person or other affiliate of the person that is not a financial entity, and the commercial risk that the affiliate is hedging or mitigating has been transferred to the affiliate;
+
+                    (II) is directly and wholly-owned by another affiliate qualified for the exception under this subparagraph or an entity that is not a financial entity;
+
+                    (III) is not indirectly majority-owned by a financial entity;
+
+                    (IV) is not ultimately owned by a parent company that is a financial entity; and
+
+                    (V) does not provide any services, financial or otherwise, to any affiliate that is a nonbank financial company supervised by the Board of Governors (as defined under [section 5311 of title 12][/us/usc/t12/s5311]).
+
+                (ii) __Limitation on qualifying affiliates__ 
 
                 The exception in clause (i) shall not apply if the affiliate is—
 
@@ -923,15 +933,51 @@
 
                     (IV) a major security-based swap participant;
 
-                    (V) an issuer that would be an investment company, as defined in section 3 of the Investment Company Act of 1940 ([15 U.S.C. 80a–3][/us/usc/t15/s80a–3]), but for paragraph (1) or (7) of subsection (c) of that Act  <sup>\[8\]</sup>  <sup><sup> 8 So in original. Probably should be “section”. </sup></sup>  ([15 U.S.C. 80a–3(c)][/us/usc/t15/s80a–3/c]);
+                    (V) a commodity pool;
 
-                    (VI) a commodity pool; or
+                    (VI) a bank holding company;
 
-                    (VII) a bank holding company with over $50,000,000,000 in consolidated assets.
+                    (VII) a private fund, as defined in [section 80b–2(a) of title 15][/us/usc/t15/s80b–2/a];
 
-                (iii) __Transition rule for affiliates__ 
+                    (VIII) an employee benefit plan or government  <sup>\[8\]</sup>  <sup><sup> 8 So in original. Probably should be “governmental”. </sup></sup>  plan, as defined in paragraphs (3) and (32) of [section 1002 of title 29][/us/usc/t29/s1002];
+
+                    (IX) an insured depository institution;
+
+                    (X) a farm credit system institution;
+
+                    (XI) a credit union;
+
+                    (XII) a nonbank financial company supervised by the Board of Governors (as defined under [section 5311 of title 12][/us/usc/t12/s5311]); or
+
+                    (XIII) an entity engaged in the business of insurance and subject to capital requirements established by an insurance governmental authority of a State, a territory of the United States, the District of Columbia, a country other than the United States, or a political subdivision of a country other than the United States that is engaged in the supervision of insurance companies under insurance law.
+
+                (iii) __Limitation on affiliates’ affiliates__ 
+
+                Unless the Commission determines, by order, rule, or regulation, that it is in the public interest, the exception in clause (i) shall not apply with respect to an affiliate if the affiliate is itself affiliated with—
+
+                    (I) a major security-based swap participant;
+
+                    (II) a security-based swap dealer;
+
+                    (III) a major swap participant; or
+
+                    (IV) a swap dealer.
+
+                (iv) __Conditions on transactions__ 
+
+                With respect to an affiliate that qualifies for the exception in clause (i)—
+
+                    (I) the affiliate may not enter into any swap other than for the purpose of hedging or mitigating commercial risk; and
+
+                    (II) neither the affiliate nor any person affiliated with the affiliate that is not a financial entity may enter into a swap with or on behalf of any affiliate that is a financial entity or otherwise assume, net, combine, or consolidate the risk of swaps entered into by any such financial entity, except one that is an affiliate that qualifies for the exception under clause (i).
+
+                (v) __Transition rule for affiliates__ 
 
                     An affiliate, subsidiary, or a wholly owned entity of a person that qualifies for an exception under subparagraph (A) and is predominantly engaged in providing financing for the purchase or lease of merchandise or manufactured goods of the person shall be exempt from the margin requirement described in [section 6s(e) of this title][/us/usc/t7/s6s/e] and the clearing requirement described in paragraph (1) with regard to swaps entered into to mitigate the risk of the financing activities for not less than a 2-year period beginning on July 21, 2010.
+
+                (vi) __Risk management program__ 
+
+                    Any swap entered into by an affiliate that qualifies for the exception in clause (i) shall be subject to a centralized risk management program of the affiliate, which is reasonably designed both to monitor and manage the risks associated with the swap and to identify each of the affiliates on whose behalf a swap was entered into.
 
             (E) __Election of counterparty__ 
 
@@ -977,7 +1023,7 @@
 
         Exemptions from the requirements of subsection (h)(1) to clear a swap and subsection (h)(8) to execute a swap through a board of trade or swap execution facility shall be available to a counterparty that is an issuer of securities that are registered under section 12 of the Securities Exchange Act of 1934 ([15 U.S.C. 78][/us/usc/t15/s78]l) or that is required to file reports pursuant to section 15(d) of the Securities Exchange Act of 1934 ([15 U.S.C. 78][/us/usc/t15/s78]o\[d\]) only if an appropriate committee of the issuer’s board or governing body has reviewed and approved its decision to enter into swaps that are subject to such exemptions.
 
-([Sept. 21, 1922, ch. 369, § 2][/us/act/1922-09-21/ch369/s2], [42 Stat. 998][/us/stat/42/998]; [June 15, 1936, ch. 545][/us/act/1936-06-15/ch545], §§ 2, 3, [49 Stat. 1491][/us/stat/49/1491]; [Apr. 7, 1938, ch. 108][/us/act/1938-04-07/ch108], [52 Stat. 205][/us/stat/52/205]; [Oct. 9, 1940, ch. 786, § 1][/us/act/1940-10-09/ch786/s1], [54 Stat. 1059][/us/stat/54/1059]; [Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title VII, § 710(a), [68 Stat. 913][/us/stat/68/913]; [July 26, 1955, ch. 382, § 1][/us/act/1955-07-26/ch382/s1], [69 Stat. 375][/us/stat/69/375]; [Pub. L. 90–258, § 1][/us/pl/90/258/s1], Feb. 19, 1968, [82 Stat. 26][/us/stat/82/26]; [Pub. L. 90–418][/us/pl/90/418], July 23, 1968, [82 Stat. 413][/us/stat/82/413]; [Pub. L. 93–463, title I, § 101(a)][/us/pl/93/463/s101/a], title II, §§ 201, 202, Oct. 23, 1974, [88 Stat. 1389][/us/stat/88/1389], 1395; [Pub. L. 95–405, § 2][/us/pl/95/405/s2], Sept. 30, 1978, [92 Stat. 865][/us/stat/92/865]; [Pub. L. 97–444, title I, § 101][/us/pl/97/444/s101], title II, §§ 201, 202, Jan. 11, 1983, [96 Stat. 2294][/us/stat/96/2294], 2297, 2298; [Pub. L. 99–641, title I, § 110(1)][/us/pl/99/641/s110/1], Nov. 10, 1986, [100 Stat. 3561][/us/stat/100/3561]; [Pub. L. 102–546, title II][/us/pl/102/546], §§ 209(b)(1), 215, 226, title IV, § 404(b), title V, § 501, Oct. 28, 1992, [106 Stat. 3606][/us/stat/106/3606], 3611, 3618, 3628; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, §§ 102—105(b), 106, 107, 123(a)(2), title II, § 251(a), (b), (i), (j)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–376 to 2763A–379, 2763A–382, 2763A–405, 2763A–436, 2763A–441, 2763A–445; [Pub. L. 107–171, title X, § 10702(a)][/us/pl/107/171/s10702/a], May 13, 2002, [116 Stat. 516][/us/stat/116/516]; [Pub. L. 110–234, title XIII][/us/pl/110/234], §§ 13101(a), 13201(b), 13203(c)–(f), May 22, 2008, [122 Stat. 1427][/us/stat/122/1427], 1436, 1439; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIII, §§ 13101(a), 13201(b), 13203(c)–(f), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2189, 2198, 2201; [Pub. L. 111–203, title VII][/us/pl/111/203], §§ 717(a), 721(e)(1), 722(a), (c)–(e), 723(a), (b), 727, 734(b)(1), 741(b)(8), (9), 742(a), (c), 751, July 21, 2010, [124 Stat. 1651][/us/stat/124/1651], 1671–1673, 1675, 1681, 1696, 1718, 1731–1733, 1749.)
+([Sept. 21, 1922, ch. 369, § 2][/us/act/1922-09-21/ch369/s2], [42 Stat. 998][/us/stat/42/998]; [June 15, 1936, ch. 545][/us/act/1936-06-15/ch545], §§ 2, 3, [49 Stat. 1491][/us/stat/49/1491]; [Apr. 7, 1938, ch. 108][/us/act/1938-04-07/ch108], [52 Stat. 205][/us/stat/52/205]; [Oct. 9, 1940, ch. 786, § 1][/us/act/1940-10-09/ch786/s1], [54 Stat. 1059][/us/stat/54/1059]; [Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title VII, § 710(a), [68 Stat. 913][/us/stat/68/913]; [July 26, 1955, ch. 382, § 1][/us/act/1955-07-26/ch382/s1], [69 Stat. 375][/us/stat/69/375]; [Pub. L. 90–258, § 1][/us/pl/90/258/s1], Feb. 19, 1968, [82 Stat. 26][/us/stat/82/26]; [Pub. L. 90–418][/us/pl/90/418], July 23, 1968, [82 Stat. 413][/us/stat/82/413]; [Pub. L. 93–463, title I, § 101(a)][/us/pl/93/463/s101/a], title II, §§ 201, 202, Oct. 23, 1974, [88 Stat. 1389][/us/stat/88/1389], 1395; [Pub. L. 95–405, § 2][/us/pl/95/405/s2], Sept. 30, 1978, [92 Stat. 865][/us/stat/92/865]; [Pub. L. 97–444, title I, § 101][/us/pl/97/444/s101], title II, §§ 201, 202, Jan. 11, 1983, [96 Stat. 2294][/us/stat/96/2294], 2297, 2298; [Pub. L. 99–641, title I, § 110(1)][/us/pl/99/641/s110/1], Nov. 10, 1986, [100 Stat. 3561][/us/stat/100/3561]; [Pub. L. 102–546, title II][/us/pl/102/546], §§ 209(b)(1), 215, 226, title IV, § 404(b), title V, § 501, Oct. 28, 1992, [106 Stat. 3606][/us/stat/106/3606], 3611, 3618, 3628; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title I, §§ 102—105(b), 106, 107, 123(a)(2), title II, § 251(a), (b), (i), (j)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–376 to 2763A–379, 2763A–382, 2763A–405, 2763A–436, 2763A–441, 2763A–445; [Pub. L. 107–171, title X, § 10702(a)][/us/pl/107/171/s10702/a], May 13, 2002, [116 Stat. 516][/us/stat/116/516]; [Pub. L. 110–234, title XIII][/us/pl/110/234], §§ 13101(a), 13201(b), 13203(c)–(f), May 22, 2008, [122 Stat. 1427][/us/stat/122/1427], 1436, 1439; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIII, §§ 13101(a), 13201(b), 13203(c)–(f), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2189, 2198, 2201; [Pub. L. 111–203, title VII][/us/pl/111/203], §§ 717(a), 721(e)(1), 722(a), (c)–(e), 723(a), (b), 727, 734(b)(1), 741(b)(8), (9), 742(a), (c), 751, July 21, 2010, [124 Stat. 1651][/us/stat/124/1651], 1671–1673, 1675, 1681, 1696, 1718, 1731–1733, 1749; [Pub. L. 114–113, div. O, title VII, § 705(a)][/us/pl/114/113/s705/a], Dec. 18, 2015, [129 Stat. 3025][/us/stat/129/3025].)
 
  __References in Text__ 
 
@@ -1006,6 +1052,8 @@
     Subsec. (a)(1)(B) of this section was formerly classified to [section 4 of this title][/us/usc/t7/s4]. Subsec. (a)(1)(C) of this section was formerly classified to [section 2a of this title][/us/usc/t7/s2a]. Subsec. (a)(2) to (11) of this section was formerly classified to [section 4a of this title][/us/usc/t7/s4a]. Subsec. (b) of this section was formerly classified to [section 3 of this title][/us/usc/t7/s3].
 
  __Amendments__ 
+
+    2015—Subsec. (h)(7)(D). [Pub. L. 114–113][/us/pl/114/113] added cls. (i) to (iv) and (vi), redesignated former cl. (iii) as (v), and struck out former cls. (i) and (ii) which related to application of exception to affiliates and prohibition relating to certain affiliates, respectively.
 
     2010—Subsec. (a)(1)(A). [Pub. L. 111–203, § 734(b)(1)(A)][/us/pl/111/203/s734/b/1/A], which directed amendment of subpar. (A) by striking “or 7a”, could not be executed because of prior amendment by [Pub. L. 111–203, § 722(a)(1)][/us/pl/111/203/s722/a/1]. See below.
 
@@ -1522,8 +1570,10 @@ Similar provisions were contained in the following prior appropriations acts:
 [/us/usc/t15/s80b–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%932%2Fa
 [/us/usc/t29/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002
 [/us/usc/t12/s1843/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1843%2Fk
-[/us/usc/t15/s80a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%933
-[/us/usc/t15/s80a–3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%933%2Fc
+[/us/usc/t12/s5311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5311
+[/us/usc/t15/s80b–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%932%2Fa
+[/us/usc/t29/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002
+[/us/usc/t12/s5311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5311
 [/us/usc/t7/s6s/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6s%2Fe
 [/us/usc/t7/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7
 [/us/usc/t7/s7b–3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7b%E2%80%933%2Ff
@@ -1565,6 +1615,8 @@ Similar provisions were contained in the following prior appropriations acts:
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1651
+[/us/pl/114/113/s705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs705%2Fa
+[/us/stat/129/3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3025
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1641
 [/us/usc/t15/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8301
@@ -1593,6 +1645,7 @@ Similar provisions were contained in the following prior appropriations acts:
 [/us/usc/t7/s2a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2a
 [/us/usc/t7/s4a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4a
 [/us/usc/t7/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/111/203/s734/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs734%2Fb%2F1%2FA
 [/us/pl/111/203/s722/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs722%2Fa%2F1
 [/us/pl/111/203/s722/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs722%2Fa%2F1

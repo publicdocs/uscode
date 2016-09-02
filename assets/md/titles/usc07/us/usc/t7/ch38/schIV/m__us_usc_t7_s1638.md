@@ -17,19 +17,15 @@
 
     In this subchapter:
 
-    (1) __Beef__ 
-
-        The term “beef” means meat produced from cattle (including veal).
-
-    (2) __Covered commodity__ 
+    (1) __Covered commodity__ 
 
         (A) __In general__ 
 
         The term “covered commodity” means—
 
-            (i) muscle cuts of beef, lamb, pork, and venison;
+            (i) muscle cuts of lamb and venison;
 
-            (ii) ground beef, ground lamb, ground pork, and ground venison;
+            (ii) ground lamb and ground venison;
 
             (iii) farm-raised fish;
 
@@ -53,7 +49,7 @@
 
             The term “covered commodity” does not include an item described in subparagraph (A) if the item is an ingredient in a processed food item.
 
-    (3) __Farm-raised fish__ 
+    (2) __Farm-raised fish__ 
 
     The term “farm-raised fish” includes—
 
@@ -61,27 +57,23 @@
 
         (B) fillets, steaks, nuggets, and any other flesh from a farm-raised fish or shellfish.
 
-    (4) __Food service establishment__ 
+    (3) __Food service establishment__ 
 
         The term “food service establishment” means a restaurant, cafeteria, lunch room, food stand, saloon, tavern, bar, lounge, or other similar facility operated as an enterprise engaged in the business of selling food to the public.
 
-    (5) __Lamb__ 
+    (4) __Lamb__ 
 
         The term “lamb” means meat, other than mutton, produced from sheep.
 
-    (6) __Perishable agricultural commodity; retailer__ 
+    (5) __Perishable agricultural commodity; retailer__ 
 
         The terms “perishable agricultural commodity” and “retailer” have the meanings given the terms in [section 499a(b) of this title][/us/usc/t7/s499a/b].
 
-    (7) __Pork__ 
-
-        The term “pork” means meat produced from hogs.
-
-    (8) __Secretary__ 
+    (6) __Secretary__ 
 
         The term “Secretary” means the Secretary of Agriculture, acting through the Agricultural Marketing Service.
 
-    (9) __Wild fish__ 
+    (7) __Wild fish__ 
 
         (A) __In general__ 
 
@@ -95,13 +87,15 @@
 
             The term “wild fish” excludes net-pen aquacultural or other farm-raised fish.
 
-([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 281, as added [Pub. L. 107–171, title X, § 10816][/us/pl/107/171/s10816], May 13, 2002, [116 Stat. 533][/us/stat/116/533]; amended [Pub. L. 110–234, title XI, § 11002(1)][/us/pl/110/234/s11002/1], May 22, 2008, [112 Stat. 1351][/us/stat/112/1351]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11002(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2113; [Pub. L. 113–79, title XII, § 12104(b)(1)][/us/pl/113/79/s12104/b/1], Feb. 7, 2014, [128 Stat. 979][/us/stat/128/979].)
+([Aug. 14, 1946, ch. 966][/us/act/1946-08-14/ch966], title II, § 281, as added [Pub. L. 107–171, title X, § 10816][/us/pl/107/171/s10816], May 13, 2002, [116 Stat. 533][/us/stat/116/533]; amended [Pub. L. 110–234, title XI, § 11002(1)][/us/pl/110/234/s11002/1], May 22, 2008, [112 Stat. 1351][/us/stat/112/1351]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XI, § 11002(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2113; [Pub. L. 113–79, title XII, § 12104(b)(1)][/us/pl/113/79/s12104/b/1], Feb. 7, 2014, [128 Stat. 979][/us/stat/128/979]; [Pub. L. 114–113, div. A, title VII, § 759(a)][/us/pl/114/113/s759/a], Dec. 18, 2015, [129 Stat. 2284][/us/stat/129/2284].)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–113][/us/pl/114/113] redesignated pars. (2), (3), (4), (5), (6), (8), and (9) as pars. (1), (2), (3), (4), (5), (6), and (7), respectively, in par. (1)(A)(i) struck out references to beef and pork, in par. (1)(A)(ii) struck out references to ground beef and ground pork, and struck out former pars. (1) and (7), which defined “beef” and “pork”, respectively .
 
     2014—Par. (2)(A)(i). [Pub. L. 113–79, § 12104(b)(1)(A)][/us/pl/113/79/s12104/b/1/A], substituted “pork, and venison” for “and pork”.
 
@@ -130,10 +124,13 @@
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/113/79/s12104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12104%2Fb%2F1
 [/us/stat/128/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F979
+[/us/pl/114/113/s759/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs759%2Fa
+[/us/stat/129/2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2284
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/79/s12104/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12104%2Fb%2F1%2FA
 [/us/pl/113/79/s12104/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12104%2Fb%2F1%2FB
 [/us/pl/110/246/s11002/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs11002%2F1
