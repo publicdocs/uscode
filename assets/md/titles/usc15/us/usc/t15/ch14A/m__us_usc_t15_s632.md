@@ -375,13 +375,25 @@
 
             (A) __Qualified census tract__ 
 
-                The term “qualified census tract” has the meaning given that term in section 42(d)(5)(C)(ii)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of title 26.
+                (i) __In general__ 
+
+                    The term “qualified census tract” has the meaning given that term in [section 42(d)(5)(B)(ii) of title 26][/us/usc/t26/s42/d/5/B/ii].
+
+                (ii) __Exception__ 
+
+                For any metropolitan statistical area in the Commonwealth of Puerto Rico, the term “qualified census tract” has the meaning given that term in [section 42(d)(5)(B)(ii) of title 26][/us/usc/t26/s42/d/5/B/ii] as applied without regard to subclause (II) of such section, except that this clause shall only apply—
+
+                    (I) 10 years after the date that the Administrator implements this clause, or
+
+                    (II) the date on which the Financial Oversight and Management Board for the Commonwealth of Puerto Rico created by the Puerto Rico Oversight, Management, and Economic Stability Act ceases to exist,
+
+                 whichever event occurs first.
 
             (B) __Qualified nonmetropolitan county__ 
 
             The term “qualified nonmetropolitan county” means any county—
 
-                (i) that was not located in a metropolitan statistical area (as defined in [section 143(k)(2)(B) of title 26][/us/usc/t26/s143/k/2/B]) at the time of the most recent census taken for purposes of selecting qualified census tracts under section 42(d)(5)(C)(ii) 2 of title 26; and
+                (i) that was not located in a metropolitan statistical area (as defined in [section 143(k)(2)(B) of title 26][/us/usc/t26/s143/k/2/B]) at the time of the most recent census taken for purposes of selecting qualified census tracts under section 42(d)(5)(C)(ii)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of title 26; and
 
                 (ii)
 
@@ -705,7 +717,7 @@
 
             The term “at any tier” means any subcontractor other than a subcontractor who is a first tier subcontractor.
 
-([Pub. L. 85–536][/us/pl/85/536], § 2\[3\], July 18, 1958, [72 Stat. 384][/us/stat/72/384]; [Pub. L. 94–305, title I][/us/pl/94/305/tI], § 112(b), June 4, 1976, [90 Stat. 667][/us/stat/90/667]; [Pub. L. 95–507, title II][/us/pl/95/507/tII], § 224(b), Oct. 24, 1978, [92 Stat. 1772][/us/stat/92/1772]; [Pub. L. 96–302, title V][/us/pl/96/302/tV], § 504, July 2, 1980, [94 Stat. 851][/us/stat/94/851]; [Pub. L. 96–481, title I][/us/pl/96/481/tI], § 108, Oct. 21, 1980, [94 Stat. 2323][/us/stat/94/2323]; [Pub. L. 97–35, title XIX][/us/pl/97/35/tXIX], § 1903, Aug. 13, 1981, [95 Stat. 771][/us/stat/95/771]; [Pub. L. 98–270, title III][/us/pl/98/270/tIII], § 310, Apr. 18, 1984, [98 Stat. 161][/us/stat/98/161]; [Pub. L. 98–362][/us/pl/98/362], § 6, July 16, 1984, [98 Stat. 434][/us/stat/98/434]; [Pub. L. 98–473, title I][/us/pl/98/473/tI], § 111A(b), Oct. 12, 1984, [98 Stat. 1966][/us/stat/98/1966]; [Pub. L. 99–272, title XVIII][/us/pl/99/272/tXVIII], § 18016, Apr. 7, 1986, [100 Stat. 371][/us/stat/100/371]; [Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title X, § 921(f)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–149, and [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title X, § 921(f)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–149; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661/dA/tIX], formerly title IV, § 921(f), Nov. 14, 1986, [100 Stat. 3929][/us/stat/100/3929], renumbered title IX, [Pub. L. 100–26][/us/pl/100/26], § 3(5), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–26][/us/pl/100/26], § 10(b)(2), Apr. 21, 1987, [101 Stat. 288][/us/stat/101/288]; [Pub. L. 100–456, div. A, title VIII][/us/pl/100/456/dA/tVIII], § 845, Sept. 29, 1988, [102 Stat. 2027][/us/stat/102/2027]; [Pub. L. 100–590, title I][/us/pl/100/590/tI], § 119(b), Nov. 3, 1988, [102 Stat. 2999][/us/stat/102/2999]; [Pub. L. 100–656, title VII][/us/pl/100/656/tVII], § 732, Nov. 15, 1988, [102 Stat. 3897][/us/stat/102/3897]; [Pub. L. 101–510, div. A, title VIII][/us/pl/101/510/dA/tVIII], § 806(e)(1), Nov. 5, 1990, [104 Stat. 1592][/us/stat/104/1592]; [Pub. L. 102–366, title II][/us/pl/102/366/tII], § 222(a), Sept. 4, 1992, [106 Stat. 999][/us/stat/106/999]; [Pub. L. 103–355, title IV][/us/pl/103/355/tIV], § 4404(a), title VII, § 7106(d), Oct. 13, 1994, [108 Stat. 3349][/us/stat/108/3349], 3376; [Pub. L. 103–403, title III][/us/pl/103/403/tIII], § 301, Oct. 22, 1994, [108 Stat. 4187][/us/stat/108/4187]; [Pub. L. 104–208, div. D, title I][/us/pl/104/208/dD/tI], § 104(b)(1), Sept. 30, 1996, [110 Stat. 3009–730][/us/stat/110/3009-730]; [Pub. L. 105–135, title IV][/us/pl/105/135/tIV], § 412, title VI, § 602(a), Dec. 2, 1997, [111 Stat. 2617][/us/stat/111/2617], 2627; [Pub. L. 106–50, title I][/us/pl/106/50/tI], § 103(a), title IV, § 401(a), Aug. 17, 1999, [113 Stat. 234][/us/stat/113/234], 243; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title VI, §§ 602–604, 611, 612(b)–615(a), title VIII, § 806(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–697 to 2763A–701, 2763A–706; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 108–447, div. K, title I][/us/pl/108/447/dK/tI], §§ 151, 152(a)(1), (3)–(c)(1), 162, Dec. 8, 2004, [118 Stat. 3456][/us/stat/118/3456], 3457, 3465; [Pub. L. 109–59, title X][/us/pl/109/59/tX], § 10203, Aug. 10, 2005, [119 Stat. 1933][/us/stat/119/1933]; [Pub. L. 109–163, div. A, title VIII][/us/pl/109/163/dA/tVIII], §§ 844, 845(a)(1), Jan. 6, 2006, [119 Stat. 3389][/us/stat/119/3389], 3390; [Pub. L. 110–186, title II][/us/pl/110/186/tII], § 205, Feb. 14, 2008, [122 Stat. 629][/us/stat/122/629]; [Pub. L. 110–234, title XII][/us/pl/110/234/tXII], §§ 12063(c)(1), 12071, May 22, 2008, [122 Stat. 1408][/us/stat/122/1408], 1411; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, §§ 12063(c)(1), 12071, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2170, 2173; [Pub. L. 111–240, title I][/us/pl/111/240/tI], §§ 1116, 1202(b)(1), 1311, 1341, 1342, 1343(b), 1501, Sept. 27, 2010, [124 Stat. 2509][/us/stat/124/2509], 2521, 2536, 2543–2545, 2550; [Pub. L. 112–81, div. E, title LI][/us/pl/112/81/dE/tLI], § 5107(b), Dec. 31, 2011, [125 Stat. 1829][/us/stat/125/1829]; [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239/dA/tXVI], §§ 1661, 1696(b)(1), Jan. 2, 2013, [126 Stat. 2083][/us/stat/126/2083], 2090; [Pub. L. 113–66, div. A, title XVI][/us/pl/113/66/dA/tXVI], § 1614(b), Dec. 26, 2013, [127 Stat. 949][/us/stat/127/949]; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], §§ 866(a), 869(b), Nov. 25, 2015, [129 Stat. 929][/us/stat/129/929], 938.)
+([Pub. L. 85–536][/us/pl/85/536], § 2\[3\], July 18, 1958, [72 Stat. 384][/us/stat/72/384]; [Pub. L. 94–305, title I][/us/pl/94/305/tI], § 112(b), June 4, 1976, [90 Stat. 667][/us/stat/90/667]; [Pub. L. 95–507, title II][/us/pl/95/507/tII], § 224(b), Oct. 24, 1978, [92 Stat. 1772][/us/stat/92/1772]; [Pub. L. 96–302, title V][/us/pl/96/302/tV], § 504, July 2, 1980, [94 Stat. 851][/us/stat/94/851]; [Pub. L. 96–481, title I][/us/pl/96/481/tI], § 108, Oct. 21, 1980, [94 Stat. 2323][/us/stat/94/2323]; [Pub. L. 97–35, title XIX][/us/pl/97/35/tXIX], § 1903, Aug. 13, 1981, [95 Stat. 771][/us/stat/95/771]; [Pub. L. 98–270, title III][/us/pl/98/270/tIII], § 310, Apr. 18, 1984, [98 Stat. 161][/us/stat/98/161]; [Pub. L. 98–362][/us/pl/98/362], § 6, July 16, 1984, [98 Stat. 434][/us/stat/98/434]; [Pub. L. 98–473, title I][/us/pl/98/473/tI], § 111A(b), Oct. 12, 1984, [98 Stat. 1966][/us/stat/98/1966]; [Pub. L. 99–272, title XVIII][/us/pl/99/272/tXVIII], § 18016, Apr. 7, 1986, [100 Stat. 371][/us/stat/100/371]; [Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title X, § 921(f)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–149, and [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title X, § 921(f)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–149; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661/dA/tIX], formerly title IV, § 921(f), Nov. 14, 1986, [100 Stat. 3929][/us/stat/100/3929], renumbered title IX, [Pub. L. 100–26][/us/pl/100/26], § 3(5), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–26][/us/pl/100/26], § 10(b)(2), Apr. 21, 1987, [101 Stat. 288][/us/stat/101/288]; [Pub. L. 100–456, div. A, title VIII][/us/pl/100/456/dA/tVIII], § 845, Sept. 29, 1988, [102 Stat. 2027][/us/stat/102/2027]; [Pub. L. 100–590, title I][/us/pl/100/590/tI], § 119(b), Nov. 3, 1988, [102 Stat. 2999][/us/stat/102/2999]; [Pub. L. 100–656, title VII][/us/pl/100/656/tVII], § 732, Nov. 15, 1988, [102 Stat. 3897][/us/stat/102/3897]; [Pub. L. 101–510, div. A, title VIII][/us/pl/101/510/dA/tVIII], § 806(e)(1), Nov. 5, 1990, [104 Stat. 1592][/us/stat/104/1592]; [Pub. L. 102–366, title II][/us/pl/102/366/tII], § 222(a), Sept. 4, 1992, [106 Stat. 999][/us/stat/106/999]; [Pub. L. 103–355, title IV][/us/pl/103/355/tIV], § 4404(a), title VII, § 7106(d), Oct. 13, 1994, [108 Stat. 3349][/us/stat/108/3349], 3376; [Pub. L. 103–403, title III][/us/pl/103/403/tIII], § 301, Oct. 22, 1994, [108 Stat. 4187][/us/stat/108/4187]; [Pub. L. 104–208, div. D, title I][/us/pl/104/208/dD/tI], § 104(b)(1), Sept. 30, 1996, [110 Stat. 3009–730][/us/stat/110/3009-730]; [Pub. L. 105–135, title IV][/us/pl/105/135/tIV], § 412, title VI, § 602(a), Dec. 2, 1997, [111 Stat. 2617][/us/stat/111/2617], 2627; [Pub. L. 106–50, title I][/us/pl/106/50/tI], § 103(a), title IV, § 401(a), Aug. 17, 1999, [113 Stat. 234][/us/stat/113/234], 243; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title VI, §§ 602–604, 611, 612(b)–615(a), title VIII, § 806(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–697 to 2763A–701, 2763A–706; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 108–447, div. K, title I][/us/pl/108/447/dK/tI], §§ 151, 152(a)(1), (3)–(c)(1), 162, Dec. 8, 2004, [118 Stat. 3456][/us/stat/118/3456], 3457, 3465; [Pub. L. 109–59, title X][/us/pl/109/59/tX], § 10203, Aug. 10, 2005, [119 Stat. 1933][/us/stat/119/1933]; [Pub. L. 109–163, div. A, title VIII][/us/pl/109/163/dA/tVIII], §§ 844, 845(a)(1), Jan. 6, 2006, [119 Stat. 3389][/us/stat/119/3389], 3390; [Pub. L. 110–186, title II][/us/pl/110/186/tII], § 205, Feb. 14, 2008, [122 Stat. 629][/us/stat/122/629]; [Pub. L. 110–234, title XII][/us/pl/110/234/tXII], §§ 12063(c)(1), 12071, May 22, 2008, [122 Stat. 1408][/us/stat/122/1408], 1411; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, §§ 12063(c)(1), 12071, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2170, 2173; [Pub. L. 111–240, title I][/us/pl/111/240/tI], §§ 1116, 1202(b)(1), 1311, 1341, 1342, 1343(b), 1501, Sept. 27, 2010, [124 Stat. 2509][/us/stat/124/2509], 2521, 2536, 2543–2545, 2550; [Pub. L. 112–81, div. E, title LI][/us/pl/112/81/dE/tLI], § 5107(b), Dec. 31, 2011, [125 Stat. 1829][/us/stat/125/1829]; [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239/dA/tXVI], §§ 1661, 1696(b)(1), Jan. 2, 2013, [126 Stat. 2083][/us/stat/126/2083], 2090; [Pub. L. 113–66, div. A, title XVI][/us/pl/113/66/dA/tXVI], § 1614(b), Dec. 26, 2013, [127 Stat. 949][/us/stat/127/949]; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], §§ 866(a), 869(b), Nov. 25, 2015, [129 Stat. 929][/us/stat/129/929], 938; [Pub. L. 114–187, title IV][/us/pl/114/187/tIV], § 412(a)(1), June 30, 2016, [130 Stat. 595][/us/stat/130/595].)
 
  __References in Text__ 
 
@@ -715,7 +727,9 @@
 
     The Community Economic Development Act of 1981, referred to in subsec. (p)(3)(E)(i), is subchapter A (§§ 611–633) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 489][/us/stat/95/489]. Part 1 of subchapter A of the Act is classified generally to part A (§ 9805 et seq.) of subchapter I of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42][/us/usc/t42/s9801] and Tables.
 
-    Subpar. (C) of [section 42(d)(5) of title 26][/us/usc/t26/s42/d/5], referred to in subsec. (p)(4)(A), (B)(i), (ii)(III), was redesignated (B) by [Pub. L. 110–289, div. C, title I][/us/pl/110/289/dC/tI], § 3003(g)(3), July 30, 2008, [122 Stat. 2882][/us/stat/122/2882].
+    The Puerto Rico Oversight, Management, and Economic Stability Act, referred to in subsec. (p)(4)(A)(ii)(II), is [Pub. L. 114–187][/us/pl/114/187], June 30, 2016, [130 Stat. 549][/us/stat/130/549], which is classified principally to chapter 20 (§ 2101 et seq.) of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of Title 48][/us/usc/t48/s2101] and Tables.
+
+    Subpar. (C) of [section 42(d)(5) of title 26][/us/usc/t26/s42/d/5], referred to in subsec. (p)(4)(B)(i), (ii)(III), was redesignated (B) by [Pub. L. 110–289, div. C, title I][/us/pl/110/289/dC/tI], § 3003(g)(3), July 30, 2008, [122 Stat. 2882][/us/stat/122/2882].
 
     The Federal Credit Reform Act of 1990, referred to in subsec. (q)(5)(C), is title V of [Pub. L. 93–344][/us/pl/93/344], as added by [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13201(a), Nov. 5, 1990, [104 Stat. 1388–609][/us/stat/104/1388-609], which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2][/us/usc/t2/s621] and Tables.
 
@@ -736,6 +750,8 @@
     Prior similar provisions were contained in section 203 of [act July 30, 1953, ch. 282, title II][/us/act/1953-07-30/ch282/tII], [67 Stat. 233][/us/stat/67/233], which was previously classified to this section. See Codification note set out under [section 631 of this title][/us/usc/t15/s631].
 
  __Amendments__ 
+
+    2016—Subsec. (p)(4)(A). [Pub. L. 114–187][/us/pl/114/187] amended subpar. (A) generally. Prior to amendment, text read as follows: “The term ‘qualified census tract’ has the meaning given that term in [section 42(d)(5)(C)(ii) of title 26][/us/usc/t26/s42/d/5/C/ii].”
 
     2015—Subsec. (a)(9). [Pub. L. 114–92][/us/pl/114/92], § 869(b), added par. (9).
 
@@ -1005,6 +1021,10 @@ Section 101(c) \[title X, § 921(g), (h)\] of [Pub. L. 99–500][/us/pl/99/500
 
  __Regulations__ 
 
+[Pub. L. 114–187, title IV][/us/pl/114/187/tIV], § 412(a)(2), June 30, 2016, [130 Stat. 595][/us/stat/130/595], provided that: 
+
+> “The Administrator of the Small Business Administration shall issue regulations to implement the amendment made by paragraph (1) \[amending this section\] not later than 90 days after the date of the enactment of this Act \[June 30, 2016\].”
+
 [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239/dA/tXVI], § 1696(c), Jan. 2, 2013, [126 Stat. 2091][/us/stat/126/2091], provided that: 
 
 > “Not later than 180 days after the date of enactment of this part \[Jan. 2, 2013\], the Administrator of the Small Business Administration shall issue guidance with respect to the changes made to the Small Business Act \[[15 U.S.C. 631][/us/usc/t15/s631] et seq.\] by the amendments in this subtitle \[subtitle C (§§ 1621–1699a) of title XVI of div. A of [Pub. L. 112–239][/us/pl/112/239], see Tables for classification\], with opportunities for notice and comment.”
@@ -1197,6 +1217,8 @@ Section 101(c) \[title X, § 921(g), (h)\] of [Pub. L. 99–500][/us/pl/99/500
 [/us/usc/t43/s1626/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1626%2Fe%2F2
 [/us/usc/t15/s637/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fa%2F15
 [/us/usc/t42/s9805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9805
+[/us/usc/t26/s42/d/5/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42%2Fd%2F5%2FB%2Fii
+[/us/usc/t26/s42/d/5/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42%2Fd%2F5%2FB%2Fii
 [/us/usc/t26/s143/k/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs143%2Fk%2F2%2FB
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
@@ -1307,6 +1329,8 @@ Section 101(c) \[title X, § 921(g), (h)\] of [Pub. L. 99–500][/us/pl/99/500
 [/us/stat/127/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F949
 [/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F929
+[/us/pl/114/187/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F187%2FtIV
+[/us/stat/130/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F595
 [/us/pl/85/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699
 [/us/stat/72/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F689
 [/us/usc/t15/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs661
@@ -1317,6 +1341,9 @@ Section 101(c) \[title X, § 921(g), (h)\] of [Pub. L. 99–500][/us/pl/99/500
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F489
 [/us/usc/t42/s9801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9801
+[/us/pl/114/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F187
+[/us/stat/130/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F549
+[/us/usc/t48/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs2101
 [/us/usc/t26/s42/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42%2Fd%2F5
 [/us/pl/110/289/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdC%2FtI
 [/us/stat/122/2882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2882
@@ -1344,6 +1371,8 @@ Section 101(c) \[title X, § 921(g), (h)\] of [Pub. L. 99–500][/us/pl/99/500
 [/us/act/1953-07-30/ch282/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-30%2Fch282%2FtII
 [/us/stat/67/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F233
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
+[/us/pl/114/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F187
+[/us/usc/t26/s42/d/5/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42%2Fd%2F5%2FC%2Fii
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
@@ -1481,6 +1510,8 @@ Section 101(c) \[title X, § 921(g), (h)\] of [Pub. L. 99–500][/us/pl/99/500
 [/us/pl/96/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302
 [/us/pl/96/302/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs507
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
+[/us/pl/114/187/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F187%2FtIV
+[/us/stat/130/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F595
 [/us/pl/112/239/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVI
 [/us/stat/126/2091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2091
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631

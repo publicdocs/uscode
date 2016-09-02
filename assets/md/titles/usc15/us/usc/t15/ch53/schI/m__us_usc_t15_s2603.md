@@ -345,7 +345,7 @@
 
  __Amendments__ 
 
-    Subsec. (a)(1). [Pub. L. 114–182][/us/pl/114/182], § 4(2)(B)(x), in concluding provisions, inserted “, or, in the case of a chemical substance or mixture described in subparagraph (A)(i), by rule, order, or consent agreement,” after “shall by rule”, substituted “information” for “data” in two places, and substituted “and which is relevant” for “and which are relevant”.
+    2016—Subsec. (a)(1). [Pub. L. 114–182][/us/pl/114/182], § 4(2)(B)(x), in concluding provisions, inserted “, or, in the case of a chemical substance or mixture described in subparagraph (A)(i), by rule, order, or consent agreement,” after “shall by rule”, substituted “information” for “data” in two places, and substituted “and which is relevant” for “and which are relevant”.
 
     [Pub. L. 114–182][/us/pl/114/182], § 4(2)(B)(v), substituted “such information” for “such data” in two places.
 
