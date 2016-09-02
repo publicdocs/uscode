@@ -51,7 +51,7 @@
 
             (C) seek to coordinate all reviews or requirements with appropriate local, State, and Federal agencies; and
 
-            (D) provide such technical assistance to port authorities or commissions or their subdivisions and agents as needed for project planning, design, and construction.
+            (D) provide such technical assistance and financial assistance, including grants, to port authorities or commissions or their subdivisions and agents as needed for project planning, design, and construction.
 
         (3) __Port infrastructure development fund.—__ 
 
@@ -113,7 +113,7 @@
 
         There are authorized to be appropriated to the Fund such sums as may be necessary to carry out the program, taking into account amounts received under paragraph (3)(A)(ii).
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1564][/us/stat/120/1564]; [Pub. L. 111–84, div. C, title XXXV, § 3512][/us/pl/111/84/s3512], Oct. 28, 2009, [123 Stat. 2722][/us/stat/123/2722].)
+([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1564][/us/stat/120/1564]; [Pub. L. 111–84, div. C, title XXXV, § 3512][/us/pl/111/84/s3512], Oct. 28, 2009, [123 Stat. 2722][/us/stat/123/2722]; [Pub. L. 113–66, div. C, title XXXV, § 3505(b)][/us/pl/113/66/s3505/b], Dec. 26, 2013, [127 Stat. 1086][/us/stat/127/1086].)
 
 <table>
 
@@ -199,7 +199,21 @@ June 5, 1920, ch. 250, § 8, 41 Stat. 992; Exec. Order No. 6166, June 10, 1933
 
  __Amendments__ 
 
+    2013—Subsec. (c)(2)(D). [Pub. L. 113–66][/us/pl/113/66] inserted “and financial assistance, including grants,” after “technical assistance”
+
     2009—Subsec. (c). [Pub. L. 111–84][/us/pl/111/84] added subsec. (c).
+
+ __Strategic Seaports__ 
+
+[Pub. L. 113–66, div. C, title XXXV, § 3505(a)][/us/pl/113/66/s3505/a], Dec. 26, 2013, [127 Stat. 1086][/us/stat/127/1086], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     Under the port infrastructure development program established under [section 50302(c) of title 46][/us/usc/t46/s50302/c], United States Code, the Maritime Administrator, in consultation with the Secretary of Defense, may give priority to providing funding to strategic seaports in support of national security requirements.
+
+>     “(2)  __Strategic seaport defined__  __.—__ 
+
+>     In this subsection the term ‘strategic seaport’ means a military port or and \[sic\] commercial port that is subject to a port planning order or Basic Ordering Agreement (or both) that is projected to be used for the deployment of forces and shipment of ammunition or sustainment supplies in support of military operations.”
 
 ----------
 
@@ -217,6 +231,8 @@ June 5, 1920, ch. 250, § 8, 41 Stat. 992; Exec. Order No. 6166, June 10, 1933
 [/us/stat/120/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1564
 [/us/pl/111/84/s3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3512
 [/us/stat/123/2722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2722
+[/us/pl/113/66/s3505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3505%2Fb
+[/us/stat/127/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1086
 [/us/stat/41/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F992
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/usc/t10/s3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3011
@@ -237,6 +253,10 @@ June 5, 1920, ch. 250, § 8, 41 Stat. 992; Exec. Order No. 6166, June 10, 1933
 [/us/stat/119/1934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1934
 [/us/pl/110/417/s3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3512
 [/us/usc/t48/s1421r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1421r
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/113/66/s3505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3505%2Fa
+[/us/stat/127/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1086
+[/us/usc/t46/s50302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50302%2Fc
 
 
