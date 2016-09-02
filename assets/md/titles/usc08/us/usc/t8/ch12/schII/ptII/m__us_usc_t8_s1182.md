@@ -2561,6 +2561,12 @@
 
 > “The amendments made by this section \[amending this section and [section 1184 of this title][/us/usc/t8/s1184]\] shall apply to aliens admitted to the United States under section 101(a)(15)(J) of the Immigration and Nationality Act \[[8 U.S.C. 1101(a)(15)(J)][/us/usc/t8/s1101/a/15/J]\], or acquiring such status after admission to the United States, before, on, or after the date of enactment of this Act \[Oct. 25, 1994\] and before September 30, 2015.”
 
+\[[Pub. L. 114–113, div. F, title V, § 574][/us/pl/114/113/s574], Dec. 18, 2015, [129 Stat. 2526][/us/stat/129/2526], provided that: 
+
+> “Section 220(c) of the Immigration and Nationality Technical Corrections Act of 1994 \[[Pub. L. 103–416][/us/pl/103/416]\] ([8 U.S.C. 1182][/us/usc/t8/s1182] note) \[set out above\] shall be applied by substituting ‘September 30, 2016’ for the date specified in section 106(3) of the Continuing Appropriations Act, 2016 ([Public Law 114–53][/us/pl/114/53]) \[Dec. 11, 2015, which had been substituted as applied by [Pub. L. 114–53, div. B, § 133][/us/pl/114/53/s133], Sept. 30, 2015, [129 Stat. 509][/us/stat/129/509]\].”
+
+\]
+
 \[[Pub. L. 109–477, § 3][/us/pl/109/477/s3], Jan. 12, 2007, [120 Stat. 3572][/us/stat/120/3572], provided that: 
 
 > “The amendment made by section 2 \[amending [section 220(c) of Pub. L. 103–416][/us/pl/103/416/s220/c], set out above\] shall take effect as if enacted on May 31, 2006.”
@@ -2789,25 +2795,39 @@
 
  __Inadmissibility of Foreign Officials and Family Members Involved in Kleptocracy__ 
 
-[Pub. L. 113–235, div. J, title VII, § 7031(c)][/us/pl/113/235/s7031/c], Dec. 16, 2014, [128 Stat. 2620][/us/stat/128/2620], provided that:
+[Pub. L. 114–113, div. K, title VII, § 7031(c)][/us/pl/114/113/s7031/c], Dec. 18, 2015, [129 Stat. 2755][/us/stat/129/2755], provided that:
 
 >     “(1)
 
->         (A) Officials of foreign governments and their immediate family members about whom the Secretary of State has credible information have been involved in significant corruption, including corruption related to the extraction of natural resources, or a gross violation of human rights shall be ineligible for entry into the United States.
+>         (A)  __Ineligibility__  __.—__ 
+
+>         Officials of foreign governments and their immediate family members about whom the Secretary of State has credible information have been involved in significant corruption, including corruption related to the extraction of natural resources, or a gross violation of human rights shall be ineligible for entry into the United States.
 
 >         “(B) The Secretary may also publicly or privately designate or identify officials of foreign governments and their immediate family members about whom the Secretary has such credible information without regard to whether the individual has applied for a visa.
 
->     “(2) Individuals shall not be ineligible if entry into the United States would further important United States law enforcement objectives or is necessary to permit the United States to fulfill its obligations under the United Nations Headquarters Agreement:  Provided, That nothing in paragraph (1) shall be construed to derogate from United States Government obligations under applicable international agreements.
+>     “(2)  __Exception__  __.—__ 
 
->     “(3) The Secretary may waive the application of paragraph (1) if the Secretary determines that the waiver would serve a compelling national interest or that the circumstances which caused the individual to be ineligible have changed sufficiently.
+>     Individuals shall not be ineligible if entry into the United States would further important United States law enforcement objectives or is necessary to permit the United States to fulfill its obligations under the United Nations Headquarters Agreement: Provided, That nothing in paragraph (1) shall be construed to derogate from United States Government obligations under applicable international agreements.
 
->     “(4) Not later than 6 months after enactment of this Act \[div. J of [Pub. L. 113–235][/us/pl/113/235], approved Dec. 16, 2014\], the Secretary of State shall submit a report, including a classified annex if necessary, to the Committees on Appropriations and the Committees on the Judiciary describing the information related to corruption or violation of human rights concerning each of the individuals found ineligible in the previous 12 months pursuant to paragraph (1)(A) as well as the individuals who the Secretary designated or identified pursuant to paragraph (1)(B), or who would be ineligible but for the application of paragraph (2), a list of any waivers provided under paragraph (3), and the justification for each waiver.
+>     “(3)  __Waiver__  __.—__ 
 
->     “(5) Any unclassified portion of the report required under paragraph (4) shall be posted on the Department of State’s Web site.
+>     The Secretary may waive the application of paragraph (1) if the Secretary determines that the waiver would serve a compelling national interest or that the circumstances which caused the individual to be ineligible have changed sufficiently.
 
->     “(6) For purposes of paragraphs (1)(B), (4), and (5), the records of the Department of State and of diplomatic and consular offices of the United States pertaining to the issuance or refusal of visas or permits to enter the United States shall not be considered confidential.”
+>     “(4)  __Report__  __.—__ 
+
+>     Not later than 6 months after enactment of this Act \[div. K of [Pub. L. 114–113][/us/pl/114/113], approved Dec. 18, 2015\], the Secretary of State shall submit a report, including a classified annex if necessary, to the Committees on Appropriations and the Committees on the Judiciary describing the information related to corruption or violation of human rights concerning each of the individuals found ineligible in the previous 12 months pursuant to paragraph (1)(A) as well as the individuals who the Secretary designated or identified pursuant to paragraph (1)(B), or who would be ineligible but for the application of paragraph (2), a list of any waivers provided under paragraph (3), and the justification for each waiver.
+
+>     “(5)  __Posting of report__  __.—__ 
+
+>     Any unclassified portion of the report required under paragraph (4) shall be posted on the Department of State Web site.
+
+>     “(6)  __Clarification__  __.—__ 
+
+>     For purposes of paragraphs (1)(B), (4), and (5), the records of the Department of State and of diplomatic and consular offices of the United States pertaining to the issuance or refusal of visas or permits to enter the United States shall not be considered confidential.”
 
 Similar provisions were contained in the following prior acts:
+
+    [Pub. L. 113–235, div. J, title VII, § 7031(c)][/us/pl/113/235/s7031/c], Dec. 16, 2014, [128 Stat. 2620][/us/stat/128/2620].
 
     [Pub. L. 113–76, div. K, title VII, § 7031(c)][/us/pl/113/76/s7031/c], Jan. 17, 2014, [128 Stat. 511][/us/stat/128/511].
 
@@ -4183,6 +4203,13 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/126/1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1325
 [/us/usc/t8/s1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1184
 [/us/usc/t8/s1101/a/15/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FJ
+[/us/pl/114/113/s574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs574
+[/us/stat/129/2526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2526
+[/us/pl/103/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416
+[/us/usc/t8/s1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182
+[/us/pl/114/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F53
+[/us/pl/114/53/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F53%2Fs133
+[/us/stat/129/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F509
 [/us/pl/109/477/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F477%2Fs3
 [/us/stat/120/3572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3572
 [/us/pl/103/416/s220/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F416%2Fs220%2Fc
@@ -4315,9 +4342,11 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t8/s1182/m/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fm%2F6%2FB
 [/us/pl/110/161/s691/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs691%2Fe
 [/us/stat/121/2365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2365
+[/us/pl/114/113/s7031/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs7031%2Fc
+[/us/stat/129/2755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2755
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/235/s7031/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7031%2Fc
 [/us/stat/128/2620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2620
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/113/76/s7031/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7031%2Fc
 [/us/stat/128/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F511
 [/us/pl/112/74/s7031/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7031%2Fc

@@ -953,6 +953,12 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 >         “(2) describing what actions the Secretary of Homeland Security shall take before undertaking the expansion of the E-Verify Program to all 50 States in accordance with section 401(c)(1), in order to resolve any outstanding problems raised in the report filed under subsection (a).”
 
+\[[Pub. L. 114–113, div. F, title V, § 572][/us/pl/114/113/s572], Dec. 18, 2015, [129 Stat. 2525][/us/stat/129/2525], provided that: 
+
+> “Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[[Pub. L. 104–208][/us/pl/104/208]\] ([8 U.S.C. 1324a][/us/usc/t8/s1324a] note) shall be applied by substituting ‘September 30, 2016’ for the date specified in section 106(3) of the Continuing Appropriations Act, 2016 ([Public Law 114–53][/us/pl/114/53]) \[Dec. 11, 2015, which had been substituted as applied by [Pub. L. 114–53, div. B, § 130][/us/pl/114/53/s130], Sept. 30, 2015, [129 Stat. 509][/us/stat/129/509]\].”
+
+\]
+
 \[[Pub. L. 110–329, div. A, § 143][/us/pl/110/329/s143], Sept. 30, 2008, [122 Stat. 3580][/us/stat/122/3580], as amended by [Pub. L. 111–8, div. J, § 101][/us/pl/111/8/s101], Mar. 11, 2009, [123 Stat. 988][/us/stat/123/988], provided that: 
 
 > “Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[[Pub. L. 104–208][/us/pl/104/208]\] ([8 U.S.C. 1324a][/us/usc/t8/s1324a] note) shall be applied by substituting \[‘\]September 30, 2009\[’\] for ‘the 11-year period beginning on the first day the pilot program is in effect’.”
@@ -1251,6 +1257,13 @@ Sec. 5. (a) Executive departments and agencies that enter into contracts shall r
 [/us/usc/t8/s1324a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324a
 [/us/usc/t8/s1101/a/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F36
 [/us/usc/t8/s1324a/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324a%2Fe%2F4
+[/us/pl/114/113/s572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs572
+[/us/stat/129/2525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2525
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/usc/t8/s1324a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324a
+[/us/pl/114/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F53
+[/us/pl/114/53/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F53%2Fs130
+[/us/stat/129/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F509
 [/us/pl/110/329/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2Fs143
 [/us/stat/122/3580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3580
 [/us/pl/111/8/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs101

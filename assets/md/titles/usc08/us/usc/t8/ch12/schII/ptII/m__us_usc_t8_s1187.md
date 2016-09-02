@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1186b.md) | [Next](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1188.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1187)
+[Previous](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1186b.md) | [Next](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1187a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1187)
 
 ## § 1187. Visa waiver program for certain visitors
 
     (a) __Establishment of program__ 
 
-    The Attorney General and the Secretary of State are authorized to establish a program (hereinafter in this section referred to as the “program”) under which the requirement of paragraph (7)(B)(i)(II) of [section 1182(a) of this title][/us/usc/t8/s1182/a] may be waived by the Attorney General, in consultation with the Secretary of State and in accordance with this section, in the case of an alien who meets the following requirements:
+    The Secretary of Homeland Security and the Secretary of State are authorized to establish a program (hereinafter in this section referred to as the “program”) under which the requirement of paragraph (7)(B)(i)(II) of [section 1182(a) of this title][/us/usc/t8/s1182/a] may be waived by the Secretary of Homeland Security, in consultation with the Secretary of State and in accordance with this section, in the case of an alien who meets the following requirements:
 
         (1) __Seeking entry as tourist for 90 days or less__ 
 
@@ -31,27 +31,25 @@
 
             (B) is designated as a pilot program country under subsection (c).
 
-        (3) __Machine readable passport__ 
+        (3) __Passport requirements__ 
 
-            (A) __In general__ 
+        The alien, at the time of application for admission, is in possession of a valid unexpired passport that satisfies the following:
 
-                Except as provided in subparagraph (B), on or after October 1, 2003, the alien at the time of application for admission is in possession of a valid unexpired machine-readable passport that satisfies the internationally accepted standard for machine readability.
+            (A) __Machine readable__ 
 
-            (B) __Limited waiver authority__ 
+                The passport is a machine-readable passport that is tamper-resistant, incorporates document authentication identifiers, and otherwise satisfies the internationally accepted standard for machine readability.
 
-            For the period beginning October 1, 2003, and ending September 30, 2007, the Secretary of State may waive the requirement of subparagraph (A) with respect to nationals of a program country (as designated under subsection (c)), if the Secretary of State finds that the program country—
+            (B) __Electronic__ 
 
-                (i) is making progress toward ensuring that passports meeting the requirement of subparagraph (A) are generally available to its nationals; and
-
-                (ii) has taken appropriate measures to protect against misuse of passports the country has issued that do not meet the requirement of subparagraph (A).
+                Beginning on April 1, 2016, the passport is an electronic passport that is fraud-resistant, contains relevant biographic and biometric information (as determined by the Secretary of Homeland Security), and otherwise satisfies internationally accepted standards for electronic passports.
 
         (4) __Executes immigration forms__ 
 
-            The alien before the time of such admission completes such immigration form as the Attorney General shall establish.
+            The alien before the time of such admission completes such immigration form as the Secretary of Homeland Security shall establish.
 
         (5) __Entry into the United States__ 
 
-            If arriving by sea or air, the alien arrives at the port of entry into the United States on a carrier, including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a noncommercial aircraft that is owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  which has entered into an agreement with the Attorney General pursuant to subsection (e). The Attorney General is authorized to require a carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a domestic corporation conducting operations under part 91 of that title, to give suitable and proper bond, in such reasonable amount and containing such conditions as the Attorney General may deem sufficient to ensure compliance with the indemnification requirements of this section, as a term of such an agreement.
+            If arriving by sea or air, the alien arrives at the port of entry into the United States on a carrier, including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a noncommercial aircraft that is owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  which has entered into an agreement with the Secretary of Homeland Security pursuant to subsection (e). The Secretary of Homeland Security is authorized to require a carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a domestic corporation conducting operations under part 91 of that title, to give suitable and proper bond, in such reasonable amount and containing such conditions as the Secretary of Homeland Security may deem sufficient to ensure compliance with the indemnification requirements of this section, as a term of such an agreement.
 
         (6) __Not a safety threat__ 
 
@@ -63,7 +61,7 @@
 
         (8) __Round-trip ticket__ 
 
-            The alien is in possession of a round-trip transportation ticket (unless this requirement is waived by the Attorney General under regulations or the alien is arriving at the port of entry on an aircraft operated under part 135 of title 14, Code of Federal Regulations, or a noncommercial aircraft that is owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations).
+            The alien is in possession of a round-trip transportation ticket (unless this requirement is waived by the Secretary of Homeland Security under regulations or the alien is arriving at the port of entry on an aircraft operated under part 135 of title 14, Code of Federal Regulations, or a noncommercial aircraft that is owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations).
 
         (9) __Automated system check__ 
 
@@ -71,11 +69,73 @@
 
         (10) __Electronic transmission of identification information__ 
 
-            Operators of aircraft under part 135 of title 14, Code of Federal Regulations, or operators of noncommercial aircraft that are owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations, carrying any alien passenger who will apply for admission under this section shall furnish such information as the Attorney General by regulation shall prescribe as necessary for the identification of any alien passenger being transported and for the enforcement of the immigration laws. Such information shall be electronically transmitted not less than one hour prior to arrival at the port of entry for purposes of checking for inadmissibility using the automated electronic database.
+            Operators of aircraft under part 135 of title 14, Code of Federal Regulations, or operators of noncommercial aircraft that are owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations, carrying any alien passenger who will apply for admission under this section shall furnish such information as the Secretary of Homeland Security by regulation shall prescribe as necessary for the identification of any alien passenger being transported and for the enforcement of the immigration laws. Such information shall be electronically transmitted not less than one hour prior to arrival at the port of entry for purposes of checking for inadmissibility using the automated electronic database.
 
-        (11) __Eligibility determination under the electronic travel authorization system__ 
+        (11) __Eligibility determination under the electronic system for travel authorization__ 
 
-            Beginning on the date on which the electronic travel authorization system developed under subsection (h)(3) is fully operational, each alien traveling under the program shall, before applying for admission to the United States, electronically provide to the system biographical information and such other information as the Secretary of Homeland Security shall determine necessary to determine the eligibility of, and whether there exists a law enforcement or security risk in permitting, the alien to travel to the United States. Upon review of such biographical information, the Secretary of Homeland Security shall determine whether the alien is eligible to travel to the United States under the program.
+            Beginning on the date on which the electronic system for travel authorization developed under subsection (h)(3) is fully operational, each alien traveling under the program shall, before applying for admission to the United States, electronically provide to the system biographical information and such other information as the Secretary of Homeland Security shall determine necessary to determine the eligibility of, and whether there exists a law enforcement or security risk in permitting, the alien to travel to the United States. Upon review of such biographical information, the Secretary of Homeland Security shall determine whether the alien is eligible to travel to the United States under the program.
+
+        (12) __Not present in Iraq, Syria, or any other country or area of concern__ 
+
+            (A) __In general__ 
+
+            Except as provided in subparagraphs (B) and (C)—
+
+                (i)
+
+                 the alien has not been present, at any time on or after March 1, 2011—
+
+                    (I) in Iraq or Syria;
+
+                    (II) in a country that is designated by the Secretary of State under [section 4605(j) of title 50][/us/usc/t50/s4605/j] (as continued in effect under the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.)), [section 2780 of title 22][/us/usc/t22/s2780], [section 2371 of title 22][/us/usc/t22/s2371], or any other provision of law, as a country, the government of which has repeatedly provided support of acts of international terrorism; or
+
+                    (III) in any other country or area of concern designated by the Secretary of Homeland Security under subparagraph (D); and
+
+                (ii)
+
+                 regardless of whether the alien is a national of a program country, the alien is not a national of—
+
+                    (I) Iraq or Syria;
+
+                    (II) a country that is designated, at the time the alien applies for admission, by the Secretary of State under [section 4605(j) of title 50][/us/usc/t50/s4605/j] (as continued in effect under the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.)), [section 2780 of title 22][/us/usc/t22/s2780], [section 2371 of title 22][/us/usc/t22/s2371], or any other provision of law, as a country, the government of which has repeatedly provided support of acts of international terrorism; or
+
+                    (III) any other country that is designated, at the time the alien applies for admission, by the Secretary of Homeland Security under subparagraph (D).
+
+            (B) __Certain military personnel and government employees__ 
+
+            Subparagraph (A)(i) shall not apply in the case of an alien if the Secretary of Homeland Security determines that the alien was present—
+
+                (i) in order to perform military service in the armed forces of a program country; or
+
+                (ii) in order to carry out official duties as a full time employee of the government of a program country.
+
+            (C) __Waiver__ 
+
+                The Secretary of Homeland Security may waive the application of subparagraph (A) to an alien if the Secretary determines that such a waiver is in the law enforcement or national security interests of the United States.
+
+            (D) __Countries or areas of concern__ 
+
+                (i) __In general__ 
+
+                    Not later than 60 days after December 18, 2015, the Secretary of Homeland Security, in consultation with the Secretary of State and the Director of National Intelligence, shall determine whether the requirement under subparagraph (A) shall apply to any other country or area.
+
+                (ii) __Criteria__ 
+
+                In making a determination under clause (i), the Secretary shall consider—
+
+                    (I) whether the presence of an alien in the country or area increases the likelihood that the alien is a credible threat to the national security of the United States;
+
+                    (II) whether a foreign terrorist organization has a significant presence in the country or area; and
+
+                    (III) whether the country or area is a safe haven for terrorists.
+
+                (iii) __Annual review__ 
+
+                    The Secretary shall conduct a review, on an annual basis, of any determination made under clause (i).
+
+            (E) __Report__ 
+
+                Beginning not later than one year after December 18, 2015, and annually thereafter, the Secretary of Homeland Security shall submit to the Committee on Homeland Security, the Committee on Foreign Affairs, the Permanent Select Committee on Intelligence, and the Committee on the Judiciary of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs, the Committee on Foreign Relations, the Select Committee on Intelligence, and the Committee on the Judiciary of the Senate a report on each instance in which the Secretary exercised the waiver authority under subparagraph (C) during the previous year.
 
     (b) __Waiver of rights__ 
 
@@ -89,7 +149,7 @@
 
         (1) __In general__ 
 
-            The Attorney General, in consultation with the Secretary of State, may designate any country as a program country if it meets the requirements of paragraph (2).
+            The Secretary of Homeland Security, in consultation with the Secretary of State, may designate any country as a program country if it meets the requirements of paragraph (2).
 
         (2) __Qualifications__ 
 
@@ -109,33 +169,29 @@
 
                 (ii) such refusal rate for nationals of that country during the previous full fiscal year was less than 3.0 percent.
 
-            (B) __Machine readable passport program__ 
+            (B) __Passport program__ 
 
-                (i) __In general__ 
+                (i) __Issuance of passports__ 
 
-                    Subject to clause (ii), the government of the country certifies that it issues to its citizens machine-readable passports that satisfy the internationally accepted standard for machine readability.
+                    The government of the country certifies that it issues to its citizens passports described in subparagraph (A) of subsection (a)(3), and on or after April 1, 2016, passports described in subparagraph (B) of subsection (a)(3).
 
-                (ii) __Deadline for compliance for certain countries__ 
+                (ii) __Validation of passports__ 
 
-                In the case of a country designated as a program country under this subsection prior to May 1, 2000, as a condition on the continuation of that designation, the country—
-
-                    (I) shall certify, not later than October 1, 2000, that it has a program to issue machine-readable passports to its citizens not later than October 1, 2003; and
-
-                    (II) shall satisfy the requirement of clause (i) not later than October 1, 2003.
+                    Not later than October 1, 2016, the government of the country certifies that it has in place mechanisms to validate passports described in subparagraphs (A) and (B) of subsection (a)(3) at each key port of entry into that country. This requirement shall not apply to travel between countries which fall within the Schengen Zone.
 
             (C) __Law enforcement and security interests__ 
 
-            The Attorney General, in consultation with the Secretary of State—
+            The Secretary of Homeland Security, in consultation with the Secretary of State—
 
                 (i) evaluates the effect that the country’s designation would have on the law enforcement and security interests of the United States (including the interest in enforcement of the immigration laws of the United States and the existence and effectiveness of its agreements and procedures for extraditing to the United States individuals, including its own nationals, who commit crimes that violate United States law);
 
                 (ii) determines that such interests would not be compromised by the designation of the country; and
 
-                (iii) submits a written report to the Committee on the Judiciary and the Committee on International Relations of the House of Representatives and the Committee on the Judiciary and the Committee on Foreign Relations of the Senate regarding the country’s qualification for designation that includes an explanation of such determination.
+                (iii) submits a written report to the Committee on the Judiciary, the Committee on Foreign Affairs, and the Committee on Homeland Security of the House of Representatives and the Committee on the Judiciary, the Committee on Foreign Relations, and the Committee on Homeland Security and Governmental Affairs of the Senate regarding the country’s qualification for designation that includes an explanation of such determination.
 
             (D) __Reporting lost and stolen passports__ 
 
-                The government of the country enters into an agreement with the United States to report, or make available through Interpol or other means as designated by the Secretary of Homeland Security, to the United States Government information about the theft or loss of passports within a strict time limit and in a manner specified in the agreement.
+                The government of the country enters into an agreement with the United States to report, or make available through Interpol or other means as designated by the Secretary of Homeland Security, to the United States Government information about the theft or loss of passports not later than 24 hours after becoming aware of the theft or loss and in a manner specified in the agreement.
 
             (E) __Repatriation of aliens__ 
 
@@ -143,7 +199,11 @@
 
             (F) __Passenger information exchange__ 
 
-                The government of the country enters into an agreement with the United States to share information regarding whether citizens and nationals of that country traveling to the United States represent a threat to the security or welfare of the United States or its citizens.
+                The government of the country enters into an agreement with the United States to share information regarding whether citizens and nationals of that country traveling to the United States represent a threat to the security or welfare of the United States or its citizens, and fully implements such agreement.
+
+            (G) __Interpol screening__ 
+
+                Not later than 270 days after December 18, 2015, except in the case of a country in which there is not an international airport, the government of the country certifies to the Secretary of Homeland Security that, to the maximum extent allowed under the laws of the country, it is screening, for unlawful activity, each person who is not a citizen or national of that country who is admitted to or departs that country, by using relevant databases and notices maintained by Interpol, or other means designated by the Secretary of Homeland Security. This requirement shall not apply to travel between countries which fall within the Schengen Zone.
 
         (3) __Continuing and subsequent qualifications__ 
 
@@ -187,9 +247,11 @@
 
                     (II) shall determine, based upon the evaluation in subclause (I), whether any such designation ought to be continued or terminated under subsection (d);
 
-                    (III) shall submit a written report to the Committee on the Judiciary, the Committee on Foreign Affairs, and the Committee on Homeland Security, of the House of Representatives and the Committee on the Judiciary, the Committee on Foreign Relations, and the Committee on Homeland Security and Governmental Affairs of the Senate regarding the continuation or termination of the country’s designation that includes an explanation of such determination and the effects described in subclause (I); and
+                    (III) shall submit a written report to the Committee on the Judiciary, the Committee on Foreign Affairs, the Permanent Select Committee on Intelligence, and the Committee on Homeland Security, of the House of Representatives and the Committee on the Judiciary, the Committee on Foreign Relations, the Select Committee on Intelligence and the Committee on Homeland Security and Governmental Affairs of the Senate regarding the continuation or termination of the country’s designation that includes an explanation of such determination and the effects described in subclause (I);
 
-                    (IV) shall submit to Congress a report regarding the implementation of the electronic travel authorization system under subsection (h)(3) and the participation of new countries in the program through a waiver under paragraph (8).
+                    (IV) shall submit to Congress a report regarding the implementation of the electronic system for travel authorization under subsection (h)(3) and the participation of new countries in the program through a waiver under paragraph (8); and
+
+                    (V) shall submit to the committees described in subclause (III), a report that includes an assessment of the threat to the national security of the United States of the designation of each country designated as a program country, including the compliance of the government of each such country with the requirements under subparagraphs (D) and (F) of paragraph (2), as well as each such government’s capacity to comply with such requirements.
 
                 (ii) __Effective date__ 
 
@@ -249,7 +311,7 @@
 
         (6) __Computation of visa refusal rates__ 
 
-            For purposes of determining the eligibility of a country to be designated as a program country, the calculation of visa refusal rates shall not include any visa refusals which incorporate any procedures based on, or are otherwise based on, race, sex, or disability, unless otherwise specifically authorized by law or regulation. No court shall have jurisdiction under this paragraph to review any visa refusal, the denial of admission to the United States of any alien by the Attorney General, the Secretary’s computation of the visa refusal rate, or the designation or nondesignation of any country.
+            For purposes of determining the eligibility of a country to be designated as a program country, the calculation of visa refusal rates shall not include any visa refusals which incorporate any procedures based on, or are otherwise based on, race, sex, or disability, unless otherwise specifically authorized by law or regulation. No court shall have jurisdiction under this paragraph to review any visa refusal, the denial of admission to the United States of any alien by the Secretary of Homeland Security, the Secretary’s computation of the visa refusal rate, or the designation or nondesignation of any country.
 
         (7) __Visa waiver information__ 
 
@@ -277,7 +339,7 @@
 
             (D) __Consideration of countries in the visa waiver program__ 
 
-                Upon notification to the Attorney General that a country is under consideration for inclusion in the visa waiver program, the Secretary of State shall provide all of the information described in subparagraph (B) to the Attorney General.
+                Upon notification to the Secretary of Homeland Security that a country is under consideration for inclusion in the visa waiver program, the Secretary of State shall provide all of the information described in subparagraph (B) to the Secretary of Homeland Security.
 
             (E) __Definition__ 
 
@@ -289,7 +351,7 @@
 
                 (i) __In general__ 
 
-                    On the date on which an air exit system is in place that can verify the departure of not less than 97 percent of foreign nationals who exit through airports of the United States and the electronic travel authorization system required under subsection (h)(3) is fully operational, the Secretary of Homeland Security shall certify to Congress that such air exit system and electronic travel authorization system are in place.
+                    On the date on which an air exit system is in place that can verify the departure of not less than 97 percent of foreign nationals who exit through airports of the United States and the electronic system for travel authorization required under subsection (h)(3) is fully operational, the Secretary of Homeland Security shall certify to Congress that such air exit system and electronic system for travel authorization are in place.
 
                 (ii) __Notification to Congress__ 
 
@@ -379,6 +441,38 @@
 
                 (v) recommendations to mitigate the risks identified in clause (iv).
 
+        (12) __Designation of high risk program countries__ 
+
+            (A) __In general__ 
+
+                The Secretary of Homeland Security, in consultation with the Director of National Intelligence and the Secretary of State, shall evaluate program countries on an annual basis based on the criteria described in subparagraph (B) and shall identify any program country, the admission of nationals from which under the visa waiver program under this section, the Secretary determines presents a high risk to the national security of the United States.
+
+            (B) __Criteria__ 
+
+            In evaluating program countries under subparagraph (A), the Secretary of Homeland Security, in consultation with the Director of National Intelligence and the Secretary of State, shall consider the following criteria:
+
+                (i) The number of nationals of the country determined to be ineligible to travel to the United States under the program during the previous year.
+
+                (ii) The number of nationals of the country who were identified in United States Government databases related to the identities of known or suspected terrorists during the previous year.
+
+                (iii) The estimated number of nationals of the country who have traveled to Iraq or Syria at any time on or after March 1, 2011 to engage in terrorism.
+
+                (iv) The capacity of the country to combat passport fraud.
+
+                (v) The level of cooperation of the country with the counter-terrorism efforts of the United States.
+
+                (vi) The adequacy of the border and immigration control of the country.
+
+                (vii) Any other criteria the Secretary of Homeland Security determines to be appropriate.
+
+            (C) __Suspension of designation__ 
+
+                The Secretary of Homeland Security, in consultation with the Secretary of State, may suspend the designation of a program country based on a determination that the country presents a high risk to the national security of the United States under subparagraph (A) until such time as the Secretary determines that the country no longer presents such a risk.
+
+            (D) __Report__ 
+
+                Not later than 60 days after December 18, 2015, and annually thereafter, the Secretary of Homeland Security, in consultation with the Director of National Intelligence and the Secretary of State, shall submit to the Committee on Homeland Security, the Committee on Foreign Affairs, the Permanent Select Committee on Intelligence, and the Committee on the Judiciary of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs, the Committee on Foreign Relations, the Select Committee on Intelligence, and the Committee on the Judiciary of the Senate a report, which includes an evaluation and threat assessment of each country determined to present a high risk to the national security of the United States under subparagraph (A).
+
     (d) __Authority__ 
 
         Notwithstanding any other provision of this section, the Secretary of Homeland Security, in consultation with the Secretary of State, may for any reason (including national security) refrain from waiving the visa requirement in respect to nationals of any country which may otherwise qualify for designation or may, at any time, rescind any waiver or designation previously granted under this section. The Secretary of Homeland Security may not waive any eligibility requirement under this section unless the Secretary notifies, with respect to the House of Representatives, the Committee on Homeland Security, the Committee on the Judiciary, the Committee on Foreign Affairs, and the Committee on Appropriations, and with respect to the Senate, the Committee on Homeland Security and Governmental Affairs, the Committee on the Judiciary, the Committee on Foreign Relations, and the Committee on Appropriations not later than 30 days before the effective date of such waiver.
@@ -387,29 +481,29 @@
 
         (1) __In general__ 
 
-        The agreement referred to in subsection (a)(4) is an agreement between a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title and the Attorney General under which the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title agrees, in consideration of the waiver of the visa requirement with respect to a nonimmigrant visitor under the program—
+        The agreement referred to in subsection (a)(4) is an agreement between a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title and the Secretary of Homeland Security under which the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title agrees, in consideration of the waiver of the visa requirement with respect to a nonimmigrant visitor under the program—
 
             (A) to indemnify the United States against any costs for the transportation of the alien from the United States if the visitor is refused admission to the United States or remains in the United States unlawfully after the 90-day period described in subsection (a)(1)(A),
 
             (B) to submit daily to immigration officers any immigration forms received with respect to nonimmigrant visitors provided a waiver under the program,
 
-            (C) to be subject to the imposition of fines resulting from the transporting into the United States of a national of a designated country without a passport pursuant to regulations promulgated by the Attorney General, and
+            (C) to be subject to the imposition of fines resulting from the transporting into the United States of a national of a designated country without a passport pursuant to regulations promulgated by the Secretary of Homeland Security, and
 
             (D) to collect, provide, and share passenger data as required under subsection (h)(1)(B).
 
         (2) __Termination of agreements__ 
 
-            The Attorney General may terminate an agreement under paragraph (1) with five days’ notice to the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title for the failure by a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title to meet the terms of such agreement.
+            The Secretary of Homeland Security may terminate an agreement under paragraph (1) with five days’ notice to the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title for the failure by a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title to meet the terms of such agreement.
 
         (3) __Business aircraft requirements__ 
 
             (A) __In general__ 
 
-                For purposes of this section, a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by a comma. </sup></sup>  that owns or operates a noncommercial aircraft is a corporation that is organized under the laws of any of the States of the United States or the District of Columbia and is accredited by or a member of a national organization that sets business aviation standards. The Attorney General shall prescribe by regulation the provision of such information as the Attorney General deems necessary to identify the domestic corporation, its officers, employees, shareholders, its place of business, and its business activities.
+                For purposes of this section, a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by a comma. </sup></sup>  that owns or operates a noncommercial aircraft is a corporation that is organized under the laws of any of the States of the United States or the District of Columbia and is accredited by or a member of a national organization that sets business aviation standards. The Secretary of Homeland Security shall prescribe by regulation the provision of such information as the Secretary of Homeland Security deems necessary to identify the domestic corporation, its officers, employees, shareholders, its place of business, and its business activities.
 
             (B) __Collections__ 
 
-                In addition to any other fee authorized by law, the Attorney General is authorized to charge and collect, on a periodic basis, an amount from each domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations, for nonimmigrant visa waiver admissions on noncommercial aircraft owned or operated by such domestic corporation equal to the total amount of fees assessed for issuance of nonimmigrant visa waiver arrival/departure forms at land border ports of entry. All fees collected under this paragraph shall be deposited into the Immigration User Fee Account established under [section 1356(h) of this title][/us/usc/t8/s1356/h].
+                In addition to any other fee authorized by law, the Secretary of Homeland Security is authorized to charge and collect, on a periodic basis, an amount from each domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations, for nonimmigrant visa waiver admissions on noncommercial aircraft owned or operated by such domestic corporation equal to the total amount of fees assessed for issuance of nonimmigrant visa waiver arrival/departure forms at land border ports of entry. All fees collected under this paragraph shall be deposited into the Immigration User Fee Account established under [section 1356(h) of this title][/us/usc/t8/s1356/h].
 
     (f) __Duration and termination of designation__ 
 
@@ -417,21 +511,21 @@
 
             (A) __Determination and notification of disqualification rate__ 
 
-                Upon determination by the Attorney General that a program country’s disqualification rate is 2 percent or more, the Attorney General shall notify the Secretary of State.
+                Upon determination by the Secretary of Homeland Security that a program country’s disqualification rate is 2 percent or more, the Secretary of Homeland Security shall notify the Secretary of State.
 
             (B) __Probationary status__ 
 
-                If the program country’s disqualification rate is greater than 2 percent but less than 3.5 percent, the Attorney General shall place the program country in probationary status for a period not to exceed 2 full fiscal years following the year in which the determination under subparagraph (A) is made.
+                If the program country’s disqualification rate is greater than 2 percent but less than 3.5 percent, the Secretary of Homeland Security shall place the program country in probationary status for a period not to exceed 2 full fiscal years following the year in which the determination under subparagraph (A) is made.
 
             (C) __Termination of designation__ 
 
-                Subject to paragraph (3), if the program country’s disqualification rate is 3.5 percent or more, the Attorney General shall terminate the country’s designation as a program country effective at the beginning of the second fiscal year following the fiscal year in which the determination under subparagraph (A) is made.
+                Subject to paragraph (3), if the program country’s disqualification rate is 3.5 percent or more, the Secretary of Homeland Security shall terminate the country’s designation as a program country effective at the beginning of the second fiscal year following the fiscal year in which the determination under subparagraph (A) is made.
 
         (2) __Termination of probationary status__ 
 
             (A) __In general__ 
 
-                If the Attorney General determines at the end of the probationary period described in paragraph (1)(B) that the program country placed in probationary status under such paragraph has failed to develop a machine-readable passport program as required by section  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “subsection”. </sup></sup>  (c)(2)(C), or has a disqualification rate of 2 percent or more, the Attorney General shall terminate the designation of the country as a program country. If the Attorney General determines that the program country has developed a machine-readable passport program and has a disqualification rate of less than 2 percent, the Attorney General shall redesignate the country as a program country.
+                If the Secretary of Homeland Security determines at the end of the probationary period described in paragraph (1)(B) that the program country placed in probationary status under such paragraph has failed to develop a machine-readable passport program as required by section  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “subsection”. </sup></sup>  (c)(2)(C), or has a disqualification rate of 2 percent or more, the Secretary of Homeland Security shall terminate the designation of the country as a program country. If the Secretary of Homeland Security determines that the program country has developed a machine-readable passport program and has a disqualification rate of less than 2 percent, the Secretary of Homeland Security shall redesignate the country as a program country.
 
             (B) __Effective date__ 
 
@@ -459,6 +553,26 @@
 
             If the Secretary of Homeland Security and the Secretary of State jointly determine that the program country is not reporting the theft or loss of passports, as required by subsection (c)(2)(D), the Secretary of Homeland Security shall terminate the designation of the country as a program country.
 
+        (6) __Failure to share information__ 
+
+            (A) __In general__ 
+
+                If the Secretary of Homeland Security and the Secretary of State jointly determine that the program country is not sharing information, as required by subsection (c)(2)(F), the Secretary of Homeland Security shall terminate the designation of the country as a program country.
+
+            (B) __Redesignation__ 
+
+                In the case of a termination under this paragraph, the Secretary of Homeland Security shall redesignate the country as a program country, without regard to paragraph (2) or (3) of subsection (c) or paragraphs (1) through (4), when the Secretary of Homeland Security, in consultation with the Secretary of State, determines that the country is sharing information, as required by subsection (c)(2)(F).
+
+        (7) __Failure to screen__ 
+
+            (A) __In general__ 
+
+                Beginning on the date that is 270 days after December 18, 2015, if the Secretary of Homeland Security and the Secretary of State jointly determine that the program country is not conducting the screening required by subsection (c)(2)(G), the Secretary of Homeland Security shall terminate the designation of the country as a program country.
+
+            (B) __Redesignation__ 
+
+                In the case of a termination under this paragraph, the Secretary of Homeland Security shall redesignate the country as a program country, without regard to paragraph (2) or (3) of subsection (c) or paragraphs (1) through (4), when the Secretary of Homeland Security, in consultation with the Secretary of State, determines that the country is conducting the screening required by subsection (c)(2)(G).
+
     (g) __Visa application sole method to dispute denial of waiver based on a ground of inadmissibility__ 
 
         In the case of an alien denied a waiver under the program by reason of a ground of inadmissibility described in [section 1182(a) of this title][/us/usc/t8/s1182/a] that is discovered at the time of the alien’s application for the waiver or through the use of an automated electronic database required under subsection (a)(9), the alien may apply for a visa at an appropriate consular office outside the United States. There shall be no other means of administrative or judicial review of such a denial, and no court or person otherwise shall have jurisdiction to consider any claim attacking the validity of such a denial.
@@ -469,7 +583,7 @@
 
             (A) __System__ 
 
-                Not later than October 1, 2001, the Attorney General shall develop and implement a fully automated entry and exit control system that will collect a record of arrival and departure for every alien who arrives and departs by sea or air at a port of entry into the United States and is provided a waiver under the program.
+                Not later than October 1, 2001, the Secretary of Homeland Security shall develop and implement a fully automated entry and exit control system that will collect a record of arrival and departure for every alien who arrives and departs by sea or air at a port of entry into the United States and is provided a waiver under the program.
 
             (B) __Requirements__ 
 
@@ -481,25 +595,25 @@
 
                 (ii) __Data provision by carriers__ 
 
-                    Not later than October 1, 2002, no waiver may be provided under this section to an alien arriving by sea or air at a port of entry into the United States on a carrier unless the carrier is electronically transmitting to the automated entry and exit control system passenger data determined by the Attorney General to be sufficient to permit the Attorney General to carry out this paragraph.
+                    Not later than October 1, 2002, no waiver may be provided under this section to an alien arriving by sea or air at a port of entry into the United States on a carrier unless the carrier is electronically transmitting to the automated entry and exit control system passenger data determined by the Secretary of Homeland Security to be sufficient to permit the Secretary of Homeland Security to carry out this paragraph.
 
                 (iii) __Calculation__ 
 
-                    The system shall contain sufficient data to permit the Attorney General to calculate, for each program country and each fiscal year, the portion of nationals of that country who are described in subparagraph (A) and for whom no record of departure exists, expressed as a percentage of the total number of such nationals who are so described.
+                    The system shall contain sufficient data to permit the Secretary of Homeland Security to calculate, for each program country and each fiscal year, the portion of nationals of that country who are described in subparagraph (A) and for whom no record of departure exists, expressed as a percentage of the total number of such nationals who are so described.
 
             (C) __Reporting__ 
 
                 (i) __Percentage of nationals lacking departure record__ 
 
-                    As part of the annual report required to be submitted under [section 1365a(e)(1) of this title][/us/usc/t8/s1365a/e/1], the Attorney General shall include a section containing the calculation described in subparagraph (B)(iii) for each program country for the previous fiscal year, together with an analysis of that information.
+                    As part of the annual report required to be submitted under [section 1365a(e)(1) of this title][/us/usc/t8/s1365a/e/1], the Secretary of Homeland Security shall include a section containing the calculation described in subparagraph (B)(iii) for each program country for the previous fiscal year, together with an analysis of that information.
 
                 (ii) __System effectiveness__ 
 
-                Not later than December 31, 2004, the Attorney General shall submit a written report to the Committee on the Judiciary of the United States House of Representatives and of the Senate containing the following:
+                Not later than December 31, 2004, the Secretary of Homeland Security shall submit a written report to the Committee on the Judiciary of the United States House of Representatives and of the Senate containing the following:
 
-                    (I) The conclusions of the Attorney General regarding the effectiveness of the automated entry and exit control system to be developed and implemented under this paragraph.
+                    (I) The conclusions of the Secretary of Homeland Security regarding the effectiveness of the automated entry and exit control system to be developed and implemented under this paragraph.
 
-                    (II) The recommendations of the Attorney General regarding the use of the calculation described in subparagraph (B)(iii) as a basis for evaluating whether to terminate or continue the designation of a country as a program country.
+                    (II) The recommendations of the Secretary of Homeland Security regarding the use of the calculation described in subparagraph (B)(iii) as a basis for evaluating whether to terminate or continue the designation of a country as a program country.
 
                  The report required by this clause may be combined with the annual report required to be submitted on that date under [section 1365a(e)(1) of this title][/us/usc/t8/s1365a/e/1].
 
@@ -507,7 +621,7 @@
 
             (A) __System__ 
 
-                The Attorney General and the Secretary of State shall develop and implement an automated data sharing system that will permit them to share data in electronic form from their respective records systems regarding the admissibility of aliens who are nationals of a program country.
+                The Secretary of Homeland Security and the Secretary of State shall develop and implement an automated data sharing system that will permit them to share data in electronic form from their respective records systems regarding the admissibility of aliens who are nationals of a program country.
 
             (B) __Requirements__ 
 
@@ -523,7 +637,7 @@
 
                 (ii) __Supplying photographs of inadmissible aliens__ 
 
-                    The system shall permit the Attorney General electronically to obtain any photograph contained in the records of the Secretary of State pertaining to an alien who is a national of a program country and has been determined to be ineligible to receive a visa.
+                    The system shall permit the Secretary of Homeland Security electronically to obtain any photograph contained in the records of the Secretary of State pertaining to an alien who is a national of a program country and has been determined to be ineligible to receive a visa.
 
                 (iii) __Maintaining records on applications for admission__ 
 
@@ -535,11 +649,11 @@
 
                     (III) The results of the application.
 
-        (3) __Electronic travel authorization system__ 
+        (3) __Electronic system for travel authorization__ 
 
             (A) __System__ 
 
-                The Secretary of Homeland Security, in consultation with the Secretary of State, shall develop and implement a fully automated electronic travel authorization system (referred to in this paragraph as the “System”) to collect such biographical and other information as the Secretary of Homeland Security determines necessary to determine, in advance of travel, the eligibility of, and whether there exists a law enforcement or security risk in permitting, the  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “an”. </sup></sup>  alien to travel to the United States.
+                The Secretary of Homeland Security, in consultation with the Secretary of State, shall develop and implement a fully automated electronic system for travel authorization (referred to in this paragraph as the “System”) to collect such biographical and other information as the Secretary of Homeland Security determines necessary to determine, in advance of travel, the eligibility of, and whether there exists a law enforcement or security risk in permitting, the  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “an”. </sup></sup>  alien to travel to the United States.
 
             (B) __Fees__ 
 
@@ -563,7 +677,7 @@
 
                 (i) __Period__ 
 
-                    The Secretary of Homeland Security, in consultation with the Secretary of State, shall prescribe regulations that provide for a period, not to exceed three years, during which a determination of eligibility to travel under the program will be valid. Notwithstanding any other provision under this section, the Secretary of Homeland Security may revoke any such determination at any time and for any reason.
+                    The Secretary of Homeland Security, in consultation with the Secretary of State, shall prescribe regulations that provide for a period, not to exceed three years, during which a determination of eligibility to travel under the program will be valid. Notwithstanding any other provision under this section, the Secretary of Homeland Security may revoke any such determination or shorten the period of eligibility under any such determination at any time and for any reason.
 
                 (ii) __Limitation__ 
 
@@ -577,29 +691,17 @@
 
                     Notwithstanding any other provision of law, no court shall have jurisdiction to review an eligibility determination under the System.
 
-            (D) __Report__ 
+            (D) __Fraud detection__ 
 
-            Not later than 60 days before publishing notice regarding the implementation of the System in the Federal Register, the Secretary of Homeland Security shall submit a report regarding the implementation of the system to—
+                The Secretary of Homeland Security shall research opportunities to incorporate into the System technology that will detect and prevent fraud and deception in the System.
 
-                (i) the Committee on Homeland Security of the House of Representatives;
+            (E) __Additional and previous countries of citizenship__ 
 
-                (ii) the Committee on the Judiciary of the House of Representatives;
+                The Secretary of Homeland Security shall collect from an applicant for admission pursuant to this section information on any additional or previous countries of citizenship of that applicant. The Secretary shall take any information so collected into account when making determinations as to the eligibility of the alien for admission pursuant to this section.
 
-                (iii) the Committee on Foreign Affairs of the House of Representatives;
+            (F) __Report on certain limitations on travel__ 
 
-                (iv) the Permanent Select Committee on Intelligence of the House of Representatives;
-
-                (v) the Committee on Appropriations of the House of Representatives;
-
-                (vi) the Committee on Homeland Security and Governmental Affairs of the Senate;
-
-                (vii) the Committee on the Judiciary of the Senate;
-
-                (viii) the Committee on Foreign Relations of the Senate;
-
-                (ix) the Select Committee on Intelligence of the Senate; and
-
-                (x) the Committee on Appropriations of the Senate.
+                Not later than 30 days after December 18, 2015, and annually thereafter, the Secretary of Homeland Security, in consultation with the Secretary of State, shall submit to the Committee on Homeland Security, the Committee on the Judiciary, and the Committee on Foreign Affairs of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs, the Committee on the Judiciary, and the Committee on Foreign Relations of the Senate a report on the number of individuals who were denied eligibility to travel under the program, or whose eligibility for such travel was revoked during the previous year, and the number of such individuals determined, in accordance with subsection (a)(6), to represent a threat to the national security of the United States, and shall include the country or countries of citizenship of each such individual.
 
     (i) __Exit system__ 
 
@@ -623,13 +725,57 @@
 
             (B) the procedures by which the Secretary shall improve the method of calculating the rates of nonimmigrants who overstay their authorized period of stay in the United States.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 2, § 217, as added [Pub. L. 99–603, title III, § 313(a)][/us/pl/99/603/s313/a], Nov. 6, 1986, [100 Stat. 3435][/us/stat/100/3435]; amended [Pub. L. 100–525, § 2(p)(1)][/us/pl/100/525/s2/p/1], (2), Oct. 24, 1988, [102 Stat. 2613][/us/stat/102/2613]; [Pub. L. 101–649, title II, § 201(a)][/us/pl/101/649/s201/a], Nov. 29, 1990, [104 Stat. 5012][/us/stat/104/5012]; [Pub. L. 102–232, title III][/us/pl/102/232], §§ 303(a)(1), (2), 307(l)(3), Dec. 12, 1991, [105 Stat. 1746][/us/stat/105/1746], 1756; [Pub. L. 103–415, § 1(m)][/us/pl/103/415/s1/m], Oct. 25, 1994, [108 Stat. 4301][/us/stat/108/4301]; [Pub. L. 103–416, title II][/us/pl/103/416], §§ 210, 211, Oct. 25, 1994, [108 Stat. 4312][/us/stat/108/4312], 4313; [Pub. L. 104–208, div. C, title III, § 308(d)(4)(F)][/us/pl/104/208/s308/d/4/F], (e)(9), title VI, § 635(a)–(c)(1), (3), Sept. 30, 1996, [110 Stat. 3009–618][/us/stat/110/3009-618], 3009–620, 3009–702, 3009–703; [Pub. L. 105–119, title I, § 125][/us/pl/105/119/s125], Nov. 26, 1997, [111 Stat. 2471][/us/stat/111/2471]; [Pub. L. 105–173][/us/pl/105/173], §§ 1, 3, Apr. 27, 1998, [112 Stat. 56][/us/stat/112/56]; [Pub. L. 106–396, title I, § 101(a)][/us/pl/106/396/s101/a], title II, §§ 201–207, title IV, § 403(a)–(d), Oct. 30, 2000, [114 Stat. 1637–1644][/us/stat/114/1637-1644], 1647, 1648; [Pub. L. 107–56, title IV, § 417(c)][/us/pl/107/56/s417/c], (d), Oct. 26, 2001, [115 Stat. 355][/us/stat/115/355]; [Pub. L. 107–173, title III, § 307(a)][/us/pl/107/173/s307/a], May 14, 2002, [116 Stat. 556][/us/stat/116/556]; [Pub. L. 110–53, title VII, § 711(c)][/us/pl/110/53/s711/c], (d)(1), Aug. 3, 2007, [121 Stat. 339][/us/stat/121/339], 341; [Pub. L. 111–145, § 9(h)][/us/pl/111/145/s9/h], formerly § 9(e), Mar. 4, 2010, [124 Stat. 62][/us/stat/124/62], renumbered [Pub. L. 113–235, div. B, title VI, § 606(1)][/us/pl/113/235/s606/1], Dec. 16, 2014, [128 Stat. 2219][/us/stat/128/2219]; [Pub. L. 111–198, § 5(a)][/us/pl/111/198/s5/a], July 2, 2010, [124 Stat. 1357][/us/stat/124/1357]; [Pub. L. 113–235, div. B, title VI, § 605(b)][/us/pl/113/235/s605/b], Dec. 16, 2014, [128 Stat. 2219][/us/stat/128/2219].)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 2, § 217, as added [Pub. L. 99–603, title III, § 313(a)][/us/pl/99/603/s313/a], Nov. 6, 1986, [100 Stat. 3435][/us/stat/100/3435]; amended [Pub. L. 100–525, § 2(p)(1)][/us/pl/100/525/s2/p/1], (2), Oct. 24, 1988, [102 Stat. 2613][/us/stat/102/2613]; [Pub. L. 101–649, title II, § 201(a)][/us/pl/101/649/s201/a], Nov. 29, 1990, [104 Stat. 5012][/us/stat/104/5012]; [Pub. L. 102–232, title III][/us/pl/102/232], §§ 303(a)(1), (2), 307(l)(3), Dec. 12, 1991, [105 Stat. 1746][/us/stat/105/1746], 1756; [Pub. L. 103–415, § 1(m)][/us/pl/103/415/s1/m], Oct. 25, 1994, [108 Stat. 4301][/us/stat/108/4301]; [Pub. L. 103–416, title II][/us/pl/103/416], §§ 210, 211, Oct. 25, 1994, [108 Stat. 4312][/us/stat/108/4312], 4313; [Pub. L. 104–208, div. C, title III, § 308(d)(4)(F)][/us/pl/104/208/s308/d/4/F], (e)(9), title VI, § 635(a)–(c)(1), (3), Sept. 30, 1996, [110 Stat. 3009–618][/us/stat/110/3009-618], 3009–620, 3009–702, 3009–703; [Pub. L. 105–119, title I, § 125][/us/pl/105/119/s125], Nov. 26, 1997, [111 Stat. 2471][/us/stat/111/2471]; [Pub. L. 105–173][/us/pl/105/173], §§ 1, 3, Apr. 27, 1998, [112 Stat. 56][/us/stat/112/56]; [Pub. L. 106–396, title I, § 101(a)][/us/pl/106/396/s101/a], title II, §§ 201–207, title IV, § 403(a)–(d), Oct. 30, 2000, [114 Stat. 1637–1644][/us/stat/114/1637-1644], 1647, 1648; [Pub. L. 107–56, title IV, § 417(c)][/us/pl/107/56/s417/c], (d), Oct. 26, 2001, [115 Stat. 355][/us/stat/115/355]; [Pub. L. 107–173, title III, § 307(a)][/us/pl/107/173/s307/a], May 14, 2002, [116 Stat. 556][/us/stat/116/556]; [Pub. L. 110–53, title VII, § 711(c)][/us/pl/110/53/s711/c], (d)(1), Aug. 3, 2007, [121 Stat. 339][/us/stat/121/339], 341; [Pub. L. 111–145, § 9(h)][/us/pl/111/145/s9/h], formerly § 9(e), Mar. 4, 2010, [124 Stat. 62][/us/stat/124/62], renumbered [Pub. L. 113–235, div. B, title VI, § 606(1)][/us/pl/113/235/s606/1], Dec. 16, 2014, [128 Stat. 2219][/us/stat/128/2219]; [Pub. L. 111–198, § 5(a)][/us/pl/111/198/s5/a], July 2, 2010, [124 Stat. 1357][/us/stat/124/1357]; [Pub. L. 113–235, div. B, title VI, § 605(b)][/us/pl/113/235/s605/b], Dec. 16, 2014, [128 Stat. 2219][/us/stat/128/2219]; [Pub. L. 114–113, div. O, title II][/us/pl/114/113], §§ 202(a), (b), 203–205(a), 206, 207(a), 209, Dec. 18, 2015, [129 Stat. 2989–2995][/us/stat/129/2989-2995].)
 
  __References in Text__ 
+
+    The International Emergency Economic Powers Act, referred to in subsec. (a)(12)(A)(i)(II), (ii)(II), is title II of [Pub. L. 95–223][/us/pl/95/223], Dec. 28, 1977, [91 Stat. 1626][/us/stat/91/1626], which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50][/us/usc/t50/s1701] and Tables.
 
     This chapter, referred to in subsecs. (b)(1) and (c)(7)(B)(iv), was in the original, “this Act”, meaning [act June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], [66 Stat. 163][/us/stat/66/163], known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of this title][/us/usc/t8/s1101] and Tables.
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–113, § 209(b)(1)][/us/pl/114/113/s209/b/1], substituted “electronic system for travel authorization” for “electronic travel authorization system” wherever appearing.
+
+    Subsec. (a). [Pub. L. 114–113, § 209(a)][/us/pl/114/113/s209/a], substituted “Secretary of Homeland Security” for “Attorney General” wherever appearing in introductory provisions and pars. (4), (5), (8), and (10).
+
+    Subsec. (a)(3). [Pub. L. 114–113, § 202(a)][/us/pl/114/113/s202/a], amended par. (3) generally. Prior to amendment, par. (3) related to machine readable passport requirement.
+
+    Subsec. (a)(11). [Pub. L. 114–113, § 209(b)(2)][/us/pl/114/113/s209/b/2], substituted “electronic system for travel authorization” for “electronic travel authorization system” in heading.
+
+    Subsec. (a)(12). [Pub. L. 114–113, § 203][/us/pl/114/113/s203], added par. (12).
+
+    Subsec. (c). [Pub. L. 114–113, § 209(a)][/us/pl/114/113/s209/a], substituted “Secretary of Homeland Security” for “Attorney General” wherever appearing in pars. (1), (2)(C), (6), and (7)(D).
+
+    Subsec. (c)(2)(B). [Pub. L. 114–113, § 202(b)][/us/pl/114/113/s202/b], amended subpar. (B) generally. Prior to amendment, subpar. (B) related to machine readable passport program.
+
+    Subsec. (c)(2)(C)(iii). [Pub. L. 114–113, § 205(a)(1)][/us/pl/114/113/s205/a/1], substituted “, the Committee on Foreign Affairs, and the Committee on Homeland Security” for “and the Committee on International Relations” and “, the Committee on Foreign Relations, and the Committee on Homeland Security and Governmental Affairs” for “and the Committee on Foreign Relations”.
+
+    Subsec. (c)(2)(D). [Pub. L. 114–113, § 204(a)][/us/pl/114/113/s204/a], substituted “not later than 24 hours after becoming aware of the theft or loss” for “within a strict time limit”.
+
+    Subsec. (c)(2)(F). [Pub. L. 114–113, § 204(c)][/us/pl/114/113/s204/c], inserted before period at end “, and fully implements such agreement”.
+
+    Subsec. (c)(2)(G). [Pub. L. 114–113, § 204(b)][/us/pl/114/113/s204/b], added subpar. (G).
+
+    Subsec. (c)(5)(A)(i)(III). [Pub. L. 114–113, § 205(a)(2)(A)(i)][/us/pl/114/113/s205/a/2/A/i], (ii), inserted “the Permanent Select Committee on Intelligence,” after “the Committee on Foreign Affairs,” and “the Select Committee on Intelligence” after “the Committee on Foreign Relations,”.
+
+    Subsec. (c)(5)(A)(i)(V). [Pub. L. 114–113, § 205(a)(2)(A)(iii)][/us/pl/114/113/s205/a/2/A/iii]–(C), added subcl. (V).
+
+    Subsec. (c)(12). [Pub. L. 114–113, § 206][/us/pl/114/113/s206], added par. (12).
+
+    Subsec. (e). [Pub. L. 114–113, § 209(a)][/us/pl/114/113/s209/a], substituted “Secretary of Homeland Security” for “Attorney General” wherever appearing.
+
+    Subsec. (f)(1), (2)(A). [Pub. L. 114–113, § 209(a)][/us/pl/114/113/s209/a], substituted “Secretary of Homeland Security” for “Attorney General” wherever appearing.
+
+    Subsec. (f)(6), (7). [Pub. L. 114–113, § 204(d)][/us/pl/114/113/s204/d], added pars. (6) and (7).
+
+    Subsec. (h)(1), (2). [Pub. L. 114–113, § 209(a)][/us/pl/114/113/s209/a], substituted “Secretary of Homeland Security” for “Attorney General” wherever appearing.
+
+    Subsec. (h)(3). [Pub. L. 114–113, § 209(b)(3)][/us/pl/114/113/s209/b/3], substituted “Electronic system for travel authorization” for “Electronic travel authorization system” in heading.
+
+    Subsec. (h)(3)(C)(i). [Pub. L. 114–113, § 207(a)(1)][/us/pl/114/113/s207/a/1], inserted “or shorten the period of eligibility under any such determination” after “any such determination”.
+
+    Subsec. (h)(3)(D) to (F). [Pub. L. 114–113, § 207(a)(2)][/us/pl/114/113/s207/a/2], added subpars. (D) to (F) and struck out former subpar. (D) which required submission of report regarding the implementation of the automated electronic travel authorization system.
 
     2014—Subsec. (h)(3)(B)(iii). [Pub. L. 113–235, § 605(b)][/us/pl/113/235/s605/b], substituted “September 30, 2020” for “September 30, 2015”.
 
@@ -855,6 +1001,12 @@
 
     For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of this title][/us/usc/t8/s1551].
 
+ __Date of Submission of First Report__ 
+
+[Pub. L. 114–113, div. O, title II, § 205(b)][/us/pl/114/113/s205/b], Dec. 18, 2015, [129 Stat. 2993][/us/stat/129/2993], provided that: 
+
+> “The Secretary of Homeland Security shall submit the first report described in subclause (V) of section 217(c)(5)(A)(i) of the Immigration and Nationality Act (8 U.S.C. (c)(5)(A)(i)), as added by subsection (a), not later than 90 days after the date of the enactment of this Act \[Dec. 18, 2015\].”
+
  __Modernizing and Strengthening of Security of Visa Waiver Program__ 
 
 [Pub. L. 110–53, title VII, § 711(b)][/us/pl/110/53/s711/b], Aug. 3, 2007, [121 Stat. 338][/us/stat/121/338], provided that: 
@@ -887,21 +1039,7 @@
 
  __Machine Readable Passports__ 
 
-[Pub. L. 107–56, title IV, § 417(a)][/us/pl/107/56/s417/a], (b), Oct. 26, 2001, [115 Stat. 355][/us/stat/115/355], provided that:
-
->     “(a)  __Audits__  __.—__ 
-
->     The Secretary of State shall, each fiscal year until September 30, 2007—
-
->         “(1) perform annual audits of the implementation of section 217(c)(2)(B) of the Immigration and Nationality Act ([8 U.S.C. 1187(c)(2)(B)][/us/usc/t8/s1187/c/2/B]);
-
->         “(2) check for the implementation of precautionary measures to prevent the counterfeiting and theft of passports; and
-
->         “(3) ascertain that countries designated under the visa waiver program have established a program to develop tamper-resistant passports.
-
->     “(b)  __Periodic Reports__  __.—__ 
-
->     Beginning one year after the date of enactment of this Act \[Oct. 26, 2001\], and every year thereafter until 2007, the Secretary of State shall submit a report to Congress setting forth the findings of the most recent audit conducted under subsection (a)(1).”
+    [Pub. L. 107–56, title IV, § 417(a)][/us/pl/107/56/s417/a], (b), Oct. 26, 2001, [115 Stat. 355][/us/stat/115/355], required the Secretary of State to perform annual audits and submit reports relating to machine readable, counterfeit, and tamper-resistant passports until Sept. 30, 2007.
 
  __Report Required__ 
 
@@ -953,13 +1091,21 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1186b.md) | [Next](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1188.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1187)
+[Previous](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1186b.md) | [Next](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1187a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1187)
 
 ----------
 ----------
 
 [/us/usc/t8/s1182/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa
 [/us/usc/t8/s1101/a/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FB
+[/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
+[/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
+[/us/usc/t22/s2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780
+[/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
+[/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
+[/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
+[/us/usc/t22/s2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780
+[/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
 [/us/usc/t8/s1184/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1184%2Fb
 [/us/usc/t8/s1356/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1356%2Fh
 [/us/usc/t8/s1182/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa
@@ -1002,9 +1148,35 @@
 [/us/stat/124/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1357
 [/us/pl/113/235/s605/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs605%2Fb
 [/us/stat/128/2219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2219
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/stat/129/2989-2995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2989-2995
+[/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
+[/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626
+[/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
+[/us/pl/114/113/s209/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs209%2Fb%2F1
+[/us/pl/114/113/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs209%2Fa
+[/us/pl/114/113/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs202%2Fa
+[/us/pl/114/113/s209/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs209%2Fb%2F2
+[/us/pl/114/113/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs203
+[/us/pl/114/113/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs209%2Fa
+[/us/pl/114/113/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs202%2Fb
+[/us/pl/114/113/s205/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs205%2Fa%2F1
+[/us/pl/114/113/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs204%2Fa
+[/us/pl/114/113/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs204%2Fc
+[/us/pl/114/113/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs204%2Fb
+[/us/pl/114/113/s205/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs205%2Fa%2F2%2FA%2Fi
+[/us/pl/114/113/s205/a/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs205%2Fa%2F2%2FA%2Fiii
+[/us/pl/114/113/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs206
+[/us/pl/114/113/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs209%2Fa
+[/us/pl/114/113/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs209%2Fa
+[/us/pl/114/113/s204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs204%2Fd
+[/us/pl/114/113/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs209%2Fa
+[/us/pl/114/113/s209/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs209%2Fb%2F3
+[/us/pl/114/113/s207/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs207%2Fa%2F1
+[/us/pl/114/113/s207/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs207%2Fa%2F2
 [/us/pl/113/235/s605/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs605%2Fb
 [/us/pl/111/145/s9/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs9%2Fh
 [/us/pl/113/235/s606/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs606%2F1
@@ -1120,13 +1292,14 @@
 [/us/pl/100/525/s2/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs2%2Fs
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
+[/us/pl/114/113/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs205%2Fb
+[/us/stat/129/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2993
 [/us/pl/110/53/s711/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs711%2Fb
 [/us/stat/121/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F338
 [/us/usc/t8/s1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1187
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/pl/107/56/s417/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs417%2Fa
 [/us/stat/115/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F355
-[/us/usc/t8/s1187/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1187%2Fc%2F2%2FB
 [/us/pl/106/396/s403/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F396%2Fs403%2Fe
 [/us/stat/114/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1649
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101

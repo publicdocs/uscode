@@ -695,6 +695,12 @@
 
 >     “(d) In processing petitions under section 204(a)(1)(H) of the Immigration and Nationality Act ([8 U.S.C. 1154(a)(1)(H)][/us/usc/t8/s1154/a/1/H]) for classification under section 203(b)(5) of such Act ([8 U.S.C. 1153(b)(5)][/us/usc/t8/s1153/b/5]), the Secretary of Homeland Security may give priority to petitions filed by aliens seeking admission under the program described in this section. Notwithstanding section 203(e) of such Act ([8 U.S.C. 1153(e)][/us/usc/t8/s1153/e]), immigrant visas made available under such section 203(b)(5) may be issued to such aliens in an order that takes into account any priority accorded under the preceding sentence.”
 
+\[[Pub. L. 114–113, div. F, title V, § 575][/us/pl/114/113/s575], Dec. 18, 2015, [129 Stat. 2526][/us/stat/129/2526], provided that: 
+
+> “Section 610(b) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1993 \[[Pub. L. 102–395][/us/pl/102/395]\] ([8 U.S.C. 1153][/us/usc/t8/s1153] note) \[set out above\] shall be applied by substituting ‘September 30, 2016’ for the date specified in section 106(3) of the Continuing Appropriations Act, 2016 ([Public Law 114–53][/us/pl/114/53]) \[Dec. 11, 2015, which had been substituted as applied by [Pub. L. 114–53, div. B, § 131][/us/pl/114/53/s131], Sept. 30, 2015, [129 Stat. 509][/us/stat/129/509]\].”
+
+\]
+
 \[[Pub. L. 110–329, div. A, § 144][/us/pl/110/329/s144], Sept. 30, 2008, [122 Stat. 3581][/us/stat/122/3581], as amended by [Pub. L. 111–8, div. J, § 101][/us/pl/111/8/s101], Mar. 11, 2009, [123 Stat. 988][/us/stat/123/988], provided that: 
 
 > “The requirement set forth in section 610(b) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1993 \[[Pub. L. 102–395][/us/pl/102/395]\] ([8 U.S.C. 1153][/us/usc/t8/s1153] note) \[set out above\] shall continue through September 30, 2009.”
@@ -1220,6 +1226,13 @@
 [/us/usc/t8/s1154/a/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1154%2Fa%2F1%2FH
 [/us/usc/t8/s1153/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1153%2Fb%2F5
 [/us/usc/t8/s1153/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1153%2Fe
+[/us/pl/114/113/s575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs575
+[/us/stat/129/2526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2526
+[/us/pl/102/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395
+[/us/usc/t8/s1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1153
+[/us/pl/114/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F53
+[/us/pl/114/53/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F53%2Fs131
+[/us/stat/129/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F509
 [/us/pl/110/329/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2Fs144
 [/us/stat/122/3581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3581
 [/us/pl/111/8/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs101

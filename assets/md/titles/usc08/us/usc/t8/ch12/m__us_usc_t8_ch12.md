@@ -337,6 +337,14 @@ Part II—Admission Qualifications for Aliens; Travel Control of Citizens and Al
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1187a" data-uslm-ref="/us/usc/t8/s1187a">1187a.</a>  </td>
+
+    <td> Provision of assistance to non-program countries.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft8%2Fs1188" data-uslm-ref="/us/usc/t8/s1188">1188.</a>  </td>
 
     <td> Admission of temporary H–2A workers.  </td>

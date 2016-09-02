@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1187.md) | [Next](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1189.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1188)
+[Previous](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1187a.md) | [Next](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1189.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1188)
 
 ## § 1188. Admission of temporary H–2A workers
 
@@ -261,7 +261,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1187.md) | [Next](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1189.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1188)
+[Previous](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1187a.md) | [Next](./../../../../../..//us/usc/t8/ch12/schII/ptII/m__us_usc_t8_s1189.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1188)
 
 ----------
 ----------

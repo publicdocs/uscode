@@ -55,23 +55,17 @@
 
             The systems employed to implement paragraphs (1) and (2) shall utilize the technology standard established pursuant to [section 1379 of this title][/us/usc/t8/s1379].
 
-    (c) __Technology standard for visa waiver participants__ 
-
-        (1) __Certification requirement__ 
-
-            Not later than October 26, 2005, the government of each country that is designated to participate in the visa waiver program established under [section 1187 of this title][/us/usc/t8/s1187] shall certify, as a condition for designation or continuation of that designation, that it has a program to issue to its nationals machine-readable passports that are tamper-resistant and incorporate biometric and document authentication identifiers that comply with applicable biometric and document identifying standards established by the International Civil Aviation Organization. This paragraph shall not be construed to rescind the requirement of [section 1187(a)(3) of this title][/us/usc/t8/s1187/a/3].
-
-        (2) __Use of technology standard__ 
-
-            On and after October 26, 2005, any alien applying for admission under the visa waiver program under [section 1187 of this title][/us/usc/t8/s1187] shall present a passport that meets the requirements of paragraph (1) unless the alien’s passport was issued prior to that date.
+    (c) __Repealed.__  __[__  __Pub. L. 114–113, div. O, title II, § 202(c)__  __][/us/pl/114/113/s202/c]__  __,__  __Dec. 18, 2015__  __,__  __[__  __129 Stat. 2989__  __][/us/stat/129/2989]__ 
 
     (d) __Authorization of appropriations__ 
 
         There are authorized to be appropriated such sums as may be necessary to carry out this section, including reimbursement to international and domestic standards organizations.
 
-([Pub. L. 107–173, title III, § 303][/us/pl/107/173/s303], May 14, 2002, [116 Stat. 553][/us/stat/116/553]; [Pub. L. 108–299, § 1][/us/pl/108/299/s1], Aug. 9, 2004, [118 Stat. 1100][/us/stat/118/1100].)
+([Pub. L. 107–173, title III, § 303][/us/pl/107/173/s303], May 14, 2002, [116 Stat. 553][/us/stat/116/553]; [Pub. L. 108–299, § 1][/us/pl/108/299/s1], Aug. 9, 2004, [118 Stat. 1100][/us/stat/118/1100]; [Pub. L. 114–113, div. O, title II, § 202(c)][/us/pl/114/113/s202/c], Dec. 18, 2015, [129 Stat. 2989][/us/stat/129/2989].)
 
  __Amendments__ 
+
+    2015—Subsec. (c). [Pub. L. 114–113][/us/pl/114/113] struck out subsec. (c), which related to technology standard for visa waiver participants.
 
     2004—Subsecs. (b)(2)(A), (c)(1), (2). [Pub. L. 108–299][/us/pl/108/299] substituted “2005” for “2004”.
 
@@ -87,13 +81,15 @@
 ----------
 
 [/us/usc/t8/s1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1379
-[/us/usc/t8/s1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1187
-[/us/usc/t8/s1187/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1187%2Fa%2F3
-[/us/usc/t8/s1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1187
+[/us/pl/114/113/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs202%2Fc
+[/us/stat/129/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2989
 [/us/pl/107/173/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173%2Fs303
 [/us/stat/116/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F553
 [/us/pl/108/299/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F299%2Fs1
 [/us/stat/118/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1100
+[/us/pl/114/113/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs202%2Fc
+[/us/stat/129/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2989
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/108/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F299
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 

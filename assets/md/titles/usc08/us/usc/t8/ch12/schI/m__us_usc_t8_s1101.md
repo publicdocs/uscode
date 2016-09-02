@@ -1843,6 +1843,10 @@
 
  __Short Title of 2015 Amendment__ 
 
+[Pub. L. 114–113, div. O, title II, § 201][/us/pl/114/113/s201], Dec. 18, 2015, [129 Stat. 2988][/us/stat/129/2988], provided that: 
+
+> “This title \[enacting [section 1187a of this title][/us/usc/t8/s1187a], amending sections 1187 and 1732 of this title, and enacting provisions set out as a note under [section 1187 of this title][/us/usc/t8/s1187]\] may be cited as the ‘Visa Waiver Program Improvement and Terrorist Travel Prevention Act of 2015’.”
+
 [Pub. L. 114–70, § 1][/us/pl/114/70/s1], Oct. 16, 2015, [129 Stat. 561][/us/stat/129/561], provided that: 
 
 > “This Act \[amending [section 1201 of this title][/us/usc/t8/s1201]\] may be cited as the ‘Adoptive Family Relief Act’.”
@@ -2252,6 +2256,12 @@
     \[Prior determination was contained in the following:
 
     \[Determination of President of the United States, No. 95–49, Sept. 28, 1995, 60 F.R. 53677.\]
+
+ __Availability of Funds__ 
+
+[Pub. L. 114–113, div. F, title V, § 573][/us/pl/114/113/s573], Dec. 18, 2015, [129 Stat. 2526][/us/stat/129/2526], provided that: 
+
+> “Subclauses 101(a)(27)(C)(ii)(II) and (III) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(27)(C)(ii)(II)][/us/usc/t8/s1101/a/27/C/ii/II] and (III)) shall be applied by substituting ‘September 30, 2016’ for the date specified in section 106(3) of the Continuing Appropriations Act, 2016 ([Public Law 114–53][/us/pl/114/53]) \[Dec. 11, 2015, which had been substituted as applied by [Pub. L. 114–53, div. B, § 132][/us/pl/114/53/s132], Sept. 30, 2015, [129 Stat. 509][/us/stat/129/509]\].”
 
  __Annual Report on Immigration Applications Made by Victims of Abuse__ 
 
@@ -4351,6 +4361,10 @@ This Administration has had success deterring large ship-based smuggling directl
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F281
 [/us/usc/t8/s1106/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1106%2Fk
+[/us/pl/114/113/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs201
+[/us/stat/129/2988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2988
+[/us/usc/t8/s1187a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1187a
+[/us/usc/t8/s1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1187
 [/us/pl/114/70/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F70%2Fs1
 [/us/stat/129/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F561
 [/us/usc/t8/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1201
@@ -4616,6 +4630,12 @@ This Administration has had success deterring large ship-based smuggling directl
 [/us/stat/105/1757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1757
 [/us/pl/101/649/s705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs705%2Fb
 [/us/stat/104/5087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5087
+[/us/pl/114/113/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs573
+[/us/stat/129/2526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2526
+[/us/usc/t8/s1101/a/27/C/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F27%2FC%2Fii%2FII
+[/us/pl/114/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F53
+[/us/pl/114/53/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F53%2Fs132
+[/us/stat/129/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F509
 [/us/pl/113/4/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs802
 [/us/stat/127/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F110
 [/us/usc/t8/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa
