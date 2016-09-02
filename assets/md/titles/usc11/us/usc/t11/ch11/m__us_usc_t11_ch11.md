@@ -33,7 +33,7 @@ SUBCHAPTER I—OFFICERS AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 1101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1101" data-uslm-ref="/us/usc/t11/s1101">1101.</a>  </td>
 
     <td> Definitions for this chapter.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—OFFICERS AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 1102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1102" data-uslm-ref="/us/usc/t11/s1102">1102.</a>  </td>
 
     <td> Creditors’ and equity security holders’ committees.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—OFFICERS AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 1103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1103" data-uslm-ref="/us/usc/t11/s1103">1103.</a>  </td>
 
     <td> Powers and duties of committees.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—OFFICERS AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 1104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1104" data-uslm-ref="/us/usc/t11/s1104">1104.</a>  </td>
 
     <td> Appointment of trustee or examiner.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—OFFICERS AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 1105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1105" data-uslm-ref="/us/usc/t11/s1105">1105.</a>  </td>
 
     <td> Termination of trustee’s appointment.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—OFFICERS AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 1106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1106" data-uslm-ref="/us/usc/t11/s1106">1106.</a>  </td>
 
     <td> Duties of trustee and examiner.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—OFFICERS AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 1107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1107" data-uslm-ref="/us/usc/t11/s1107">1107.</a>  </td>
 
     <td> Rights, powers, and duties of debtor in possession.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—OFFICERS AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 1108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1108" data-uslm-ref="/us/usc/t11/s1108">1108.</a>  </td>
 
     <td> Authorization to operate business.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—OFFICERS AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 1109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1109" data-uslm-ref="/us/usc/t11/s1109">1109.</a>  </td>
 
     <td> Right to be heard.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—OFFICERS AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 1110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1110" data-uslm-ref="/us/usc/t11/s1110">1110.</a>  </td>
 
     <td> Aircraft equipment and vessels.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—OFFICERS AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 1111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1111" data-uslm-ref="/us/usc/t11/s1111">1111.</a>  </td>
 
     <td> Claims and interests.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—OFFICERS AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 1112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1112" data-uslm-ref="/us/usc/t11/s1112">1112.</a>  </td>
 
     <td> Conversion or dismissal.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—OFFICERS AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 1113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1113" data-uslm-ref="/us/usc/t11/s1113">1113.</a>  </td>
 
     <td> Rejection of collective bargaining agreements.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—OFFICERS AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 1114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1114" data-uslm-ref="/us/usc/t11/s1114">1114.</a>  </td>
 
     <td> Payment of insurance benefits to retired employees.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—OFFICERS AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 1115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1115" data-uslm-ref="/us/usc/t11/s1115">1115.</a>  </td>
 
     <td> Property of the estate.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—OFFICERS AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 1116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1116" data-uslm-ref="/us/usc/t11/s1116">1116.</a>  </td>
 
     <td> Duties of trustee or debtor in possession in small business cases.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—THE PLAN  </td>
 
   <tr>
 
-    <td> 1121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1121" data-uslm-ref="/us/usc/t11/s1121">1121.</a>  </td>
 
     <td> Who may file a plan.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—THE PLAN  </td>
 
   <tr>
 
-    <td> 1122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1122" data-uslm-ref="/us/usc/t11/s1122">1122.</a>  </td>
 
     <td> Classification of claims or interests.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—THE PLAN  </td>
 
   <tr>
 
-    <td> 1123.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1123" data-uslm-ref="/us/usc/t11/s1123">1123.</a>  </td>
 
     <td> Contents of plan.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—THE PLAN  </td>
 
   <tr>
 
-    <td> 1124.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1124" data-uslm-ref="/us/usc/t11/s1124">1124.</a>  </td>
 
     <td> Impairment of claims or interests.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—THE PLAN  </td>
 
   <tr>
 
-    <td> 1125.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1125" data-uslm-ref="/us/usc/t11/s1125">1125.</a>  </td>
 
     <td> Postpetition disclosure and solicitation.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER II—THE PLAN  </td>
 
   <tr>
 
-    <td> 1126.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1126" data-uslm-ref="/us/usc/t11/s1126">1126.</a>  </td>
 
     <td> Acceptance of plan.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER II—THE PLAN  </td>
 
   <tr>
 
-    <td> 1127.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1127" data-uslm-ref="/us/usc/t11/s1127">1127.</a>  </td>
 
     <td> Modification of plan.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER II—THE PLAN  </td>
 
   <tr>
 
-    <td> 1128.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1128" data-uslm-ref="/us/usc/t11/s1128">1128.</a>  </td>
 
     <td> Confirmation hearing.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER II—THE PLAN  </td>
 
   <tr>
 
-    <td> 1129.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1129" data-uslm-ref="/us/usc/t11/s1129">1129.</a>  </td>
 
     <td> Confirmation of plan.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER III—POSTCONFIRMATION MATTERS  </td>
 
   <tr>
 
-    <td> 1141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1141" data-uslm-ref="/us/usc/t11/s1141">1141.</a>  </td>
 
     <td> Effect of confirmation.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER III—POSTCONFIRMATION MATTERS  </td>
 
   <tr>
 
-    <td> 1142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1142" data-uslm-ref="/us/usc/t11/s1142">1142.</a>  </td>
 
     <td> Implementation of plan.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER III—POSTCONFIRMATION MATTERS  </td>
 
   <tr>
 
-    <td> 1143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1143" data-uslm-ref="/us/usc/t11/s1143">1143.</a>  </td>
 
     <td> Distribution.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER III—POSTCONFIRMATION MATTERS  </td>
 
   <tr>
 
-    <td> 1144.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1144" data-uslm-ref="/us/usc/t11/s1144">1144.</a>  </td>
 
     <td> Revocation of an order of confirmation.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER III—POSTCONFIRMATION MATTERS  </td>
 
   <tr>
 
-    <td> 1145.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1145" data-uslm-ref="/us/usc/t11/s1145">1145.</a>  </td>
 
     <td> Exemption from securities laws.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER III—POSTCONFIRMATION MATTERS  </td>
 
   <tr>
 
-    <td> 1146.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1146" data-uslm-ref="/us/usc/t11/s1146">1146.</a>  </td>
 
     <td> Special tax provisions.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER IV—RAILROAD REORGANIZATION  </td>
 
   <tr>
 
-    <td> 1161.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1161" data-uslm-ref="/us/usc/t11/s1161">1161.</a>  </td>
 
     <td> Inapplicability of other sections.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER IV—RAILROAD REORGANIZATION  </td>
 
   <tr>
 
-    <td> 1162.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1162" data-uslm-ref="/us/usc/t11/s1162">1162.</a>  </td>
 
     <td> Definition.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER IV—RAILROAD REORGANIZATION  </td>
 
   <tr>
 
-    <td> 1163.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1163" data-uslm-ref="/us/usc/t11/s1163">1163.</a>  </td>
 
     <td> Appointment of trustee.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER IV—RAILROAD REORGANIZATION  </td>
 
   <tr>
 
-    <td> 1164.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1164" data-uslm-ref="/us/usc/t11/s1164">1164.</a>  </td>
 
     <td> Right to be heard.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER IV—RAILROAD REORGANIZATION  </td>
 
   <tr>
 
-    <td> 1165.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1165" data-uslm-ref="/us/usc/t11/s1165">1165.</a>  </td>
 
     <td> Protection of the public interest.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER IV—RAILROAD REORGANIZATION  </td>
 
   <tr>
 
-    <td> 1166.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1166" data-uslm-ref="/us/usc/t11/s1166">1166.</a>  </td>
 
     <td> Effect of subtitle IV of title 49 and of Federal, State, or local regulations.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER IV—RAILROAD REORGANIZATION  </td>
 
   <tr>
 
-    <td> 1167.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1167" data-uslm-ref="/us/usc/t11/s1167">1167.</a>  </td>
 
     <td> Collective bargaining agreements.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER IV—RAILROAD REORGANIZATION  </td>
 
   <tr>
 
-    <td> 1168.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1168" data-uslm-ref="/us/usc/t11/s1168">1168.</a>  </td>
 
     <td> Rolling stock equipment.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER IV—RAILROAD REORGANIZATION  </td>
 
   <tr>
 
-    <td> 1169.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1169" data-uslm-ref="/us/usc/t11/s1169">1169.</a>  </td>
 
     <td> Effect of rejection of lease of railroad line.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER IV—RAILROAD REORGANIZATION  </td>
 
   <tr>
 
-    <td> 1170.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1170" data-uslm-ref="/us/usc/t11/s1170">1170.</a>  </td>
 
     <td> Abandonment of railroad line.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER IV—RAILROAD REORGANIZATION  </td>
 
   <tr>
 
-    <td> 1171.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1171" data-uslm-ref="/us/usc/t11/s1171">1171.</a>  </td>
 
     <td> Priority claims.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER IV—RAILROAD REORGANIZATION  </td>
 
   <tr>
 
-    <td> 1172.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1172" data-uslm-ref="/us/usc/t11/s1172">1172.</a>  </td>
 
     <td> Contents of plan.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER IV—RAILROAD REORGANIZATION  </td>
 
   <tr>
 
-    <td> 1173.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1173" data-uslm-ref="/us/usc/t11/s1173">1173.</a>  </td>
 
     <td> Confirmation of plan.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER IV—RAILROAD REORGANIZATION  </td>
 
   <tr>
 
-    <td> 1174.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1174" data-uslm-ref="/us/usc/t11/s1174">1174.</a>  </td>
 
     <td> Liquidation.  </td>
 

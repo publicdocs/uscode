@@ -15,7 +15,7 @@
 
 ## § 1527. Forms of cooperation
 
-Cooperation referred to in sections 1525 and 1526 may be implemented by any appropriate means, including—
+    Cooperation referred to in sections 1525 and 1526 may be implemented by any appropriate means, including—
 
     (1) appointment of a person or body, including an examiner, to act at the direction of the court;
 

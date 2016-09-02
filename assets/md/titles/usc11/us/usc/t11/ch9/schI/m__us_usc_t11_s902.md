@@ -15,7 +15,7 @@
 
 ## § 902. Definitions for this chapter
 
-In this chapter—
+    In this chapter—
 
     (1) “property of the estate”, when used in a section that is made applicable in a case under this chapter by section 103(e)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or 901 of this title, means property of the debtor;
 

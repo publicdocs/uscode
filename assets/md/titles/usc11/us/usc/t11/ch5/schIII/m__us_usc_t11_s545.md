@@ -15,7 +15,7 @@
 
 ## § 545. Statutory liens
 
-The trustee may avoid the fixing of a statutory lien on property of the debtor to the extent that such lien—
+    The trustee may avoid the fixing of a statutory lien on property of the debtor to the extent that such lien—
 
     (1)
 

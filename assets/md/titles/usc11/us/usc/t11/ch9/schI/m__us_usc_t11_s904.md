@@ -15,7 +15,7 @@
 
 ## § 904. Limitation on jurisdiction and powers of court
 
-Notwithstanding any power of the court, unless the debtor consents or the plan so provides, the court may not, by any stay, order, or decree, in the case or otherwise, interfere with—
+    Notwithstanding any power of the court, unless the debtor consents or the plan so provides, the court may not, by any stay, order, or decree, in the case or otherwise, interfere with—
 
     (1) any of the political or governmental powers of the debtor;
 

@@ -15,7 +15,7 @@
 
 ## § 1518. Subsequent information
 
-From the time of filing the petition for recognition of a foreign proceeding, the foreign representative shall file with the court promptly a notice of change of status concerning—
+    From the time of filing the petition for recognition of a foreign proceeding, the foreign representative shall file with the court promptly a notice of change of status concerning—
 
     (1) any substantial change in the status of such foreign proceeding or the status of the foreign representative’s appointment; and
 

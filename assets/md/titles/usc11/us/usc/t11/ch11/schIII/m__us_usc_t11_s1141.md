@@ -79,7 +79,9 @@
 
                 and if the requirements of subparagraph (A) or (B) are met.
 
-                (6) Notwithstanding paragraph (1), the confirmation of a plan does not discharge a debtor that is a corporation from any debt—
+        (6)
+
+         Notwithstanding paragraph (1), the confirmation of a plan does not discharge a debtor that is a corporation from any debt—
 
             (A) of a kind specified in paragraph (2)(A) or (2)(B) of section 523(a) that is owed to a domestic governmental unit, or owed to a person as the result of an action filed under subchapter III of chapter 37 of title 31 or any similar State statute; or
 

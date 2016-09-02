@@ -33,7 +33,7 @@ SUBCHAPTER I—OFFICERS, ADMINISTRATION, AND THE ESTATE  </td>
 
   <tr>
 
-    <td> 1301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1301" data-uslm-ref="/us/usc/t11/s1301">1301.</a>  </td>
 
     <td> Stay of action against codebtor.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—OFFICERS, ADMINISTRATION, AND THE ESTATE  </td>
 
   <tr>
 
-    <td> 1302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1302" data-uslm-ref="/us/usc/t11/s1302">1302.</a>  </td>
 
     <td> Trustee.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—OFFICERS, ADMINISTRATION, AND THE ESTATE  </td>
 
   <tr>
 
-    <td> 1303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1303" data-uslm-ref="/us/usc/t11/s1303">1303.</a>  </td>
 
     <td> Rights and powers of debtor.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—OFFICERS, ADMINISTRATION, AND THE ESTATE  </td>
 
   <tr>
 
-    <td> 1304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1304" data-uslm-ref="/us/usc/t11/s1304">1304.</a>  </td>
 
     <td> Debtor engaged in business.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—OFFICERS, ADMINISTRATION, AND THE ESTATE  </td>
 
   <tr>
 
-    <td> 1305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1305" data-uslm-ref="/us/usc/t11/s1305">1305.</a>  </td>
 
     <td> Filing and allowance of postpetition claims.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—OFFICERS, ADMINISTRATION, AND THE ESTATE  </td>
 
   <tr>
 
-    <td> 1306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1306" data-uslm-ref="/us/usc/t11/s1306">1306.</a>  </td>
 
     <td> Property of the estate.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—OFFICERS, ADMINISTRATION, AND THE ESTATE  </td>
 
   <tr>
 
-    <td> 1307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1307" data-uslm-ref="/us/usc/t11/s1307">1307.</a>  </td>
 
     <td> Conversion or dismissal.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—OFFICERS, ADMINISTRATION, AND THE ESTATE  </td>
 
   <tr>
 
-    <td> 1308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1308" data-uslm-ref="/us/usc/t11/s1308">1308.</a>  </td>
 
     <td> Filing of prepetition tax returns.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—THE PLAN  </td>
 
   <tr>
 
-    <td> 1321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1321" data-uslm-ref="/us/usc/t11/s1321">1321.</a>  </td>
 
     <td> Filing of plan.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—THE PLAN  </td>
 
   <tr>
 
-    <td> 1322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1322" data-uslm-ref="/us/usc/t11/s1322">1322.</a>  </td>
 
     <td> Contents of plan.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—THE PLAN  </td>
 
   <tr>
 
-    <td> 1323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1323" data-uslm-ref="/us/usc/t11/s1323">1323.</a>  </td>
 
     <td> Modification of plan before confirmation.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—THE PLAN  </td>
 
   <tr>
 
-    <td> 1324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1324" data-uslm-ref="/us/usc/t11/s1324">1324.</a>  </td>
 
     <td> Confirmation hearing.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—THE PLAN  </td>
 
   <tr>
 
-    <td> 1325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1325" data-uslm-ref="/us/usc/t11/s1325">1325.</a>  </td>
 
     <td> Confirmation of plan.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—THE PLAN  </td>
 
   <tr>
 
-    <td> 1326.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1326" data-uslm-ref="/us/usc/t11/s1326">1326.</a>  </td>
 
     <td> Payments.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—THE PLAN  </td>
 
   <tr>
 
-    <td> 1327.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1327" data-uslm-ref="/us/usc/t11/s1327">1327.</a>  </td>
 
     <td> Effect of confirmation.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—THE PLAN  </td>
 
   <tr>
 
-    <td> 1328.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1328" data-uslm-ref="/us/usc/t11/s1328">1328.</a>  </td>
 
     <td> Discharge.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—THE PLAN  </td>
 
   <tr>
 
-    <td> 1329.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1329" data-uslm-ref="/us/usc/t11/s1329">1329.</a>  </td>
 
     <td> Modification of plan after confirmation.  </td>
 
@@ -177,15 +177,21 @@ SUBCHAPTER II—THE PLAN  </td>
 
   <tr>
 
-    <td> 1330.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1330" data-uslm-ref="/us/usc/t11/s1330">1330.</a>  </td>
 
     <td> Revocation of an order of confirmation.  </td>
 
   </tr>
 
-</table>
+  <tr>
 
- __Amendments__ 
+    <td> 
+
+Amendments  </td>
+
+  </tr>
+
+</table>
 
     2005—[Pub. L. 109–8, title VII, § 716(b)(2)][/us/pl/109/8/s716/b/2], Apr. 20, 2005, [119 Stat. 130][/us/stat/119/130], added item 1308.
 

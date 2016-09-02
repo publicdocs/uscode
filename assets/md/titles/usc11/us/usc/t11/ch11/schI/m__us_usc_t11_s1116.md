@@ -15,7 +15,7 @@
 
 ## § 1116. Duties of trustee or debtor in possession in small business cases
 
-In a small business case, a trustee or the debtor in possession, in addition to the duties provided in this title and as otherwise required by law, shall—
+    In a small business case, a trustee or the debtor in possession, in addition to the duties provided in this title and as otherwise required by law, shall—
 
     (1)
 

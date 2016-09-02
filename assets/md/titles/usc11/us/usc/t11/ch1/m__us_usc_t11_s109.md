@@ -97,7 +97,7 @@
 
  __Adjustment of Dollar Amounts__ 
 
-For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.
+    For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.
 
  __Historical and Revision Notes__ 
 

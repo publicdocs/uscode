@@ -15,7 +15,7 @@
 
 ## § 1101. Definitions for this chapter
 
-In this chapter—
+    In this chapter—
 
     (1) “debtor in possession” means debtor except when a person that has qualified under [section 322 of this title][/us/usc/t11/s322] is serving as trustee in the case;
 

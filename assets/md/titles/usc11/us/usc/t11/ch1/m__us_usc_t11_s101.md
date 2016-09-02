@@ -15,7 +15,7 @@
 
 ## § 101. Definitions
 
-In this title the following definitions shall apply:
+    In this title the following definitions shall apply:
 
     (1) The term “accountant” means accountant authorized under applicable law to practice public accounting, and includes professional accounting association, corporation, or partnership, if so authorized.
 
@@ -61,7 +61,7 @@ In this title the following definitions shall apply:
 
      The term “community claim” means claim that arose before the commencement of the case concerning the debtor for which property of the kind specified in [section 541(a)(2) of this title][/us/usc/t11/s541/a/2] is liable, whether or not there is any such property at the time of the commencement of the case.
 
-    (7A) The term “commercial fishing operation” means—
+        (7A) The term “commercial fishing operation” means—
 
         (A) the catching or harvesting of fish, shrimp, lobsters, urchins, seaweed, shellfish, or other aquatic species or products of such species; or
 
@@ -123,7 +123,7 @@ In this title the following definitions shall apply:
 
      The term “debt” means liability on a claim.
 
-    (12A) The term “debt relief agency” means any person who provides any bankruptcy assistance to an assisted person in return for the payment of money or other valuable consideration, or who is a bankruptcy petition preparer under section 110, but does not include—
+        (12A) The term “debt relief agency” means any person who provides any bankruptcy assistance to an assisted person in return for the payment of money or other valuable consideration, or who is a bankruptcy petition preparer under section 110, but does not include—
 
         (A) any person who is an officer, director, employee, or agent of a person who provides such assistance or of the bankruptcy petition preparer;
 
@@ -139,7 +139,7 @@ In this title the following definitions shall apply:
 
      The term “debtor” means person or municipality concerning which a case under this title has been commenced.
 
-    (13A) The term “debtor’s principal residence”—
+        (13A) The term “debtor’s principal residence”—
 
         (A) means a residential structure if used as the principal residence by the debtor, including incidental property, without regard to whether that structure is attached to real property; and
 
@@ -219,7 +219,7 @@ In this title the following definitions shall apply:
 
      The term “family farmer with regular annual income” means family farmer whose annual income is sufficiently stable and regular to enable such family farmer to make payments under a plan under chapter 12 of this title.
 
-    (19A) The term “family fisherman” means—
+        (19A) The term “family fisherman” means—
 
         (A)
 
@@ -255,7 +255,7 @@ In this title the following definitions shall apply:
 
      The term “farming operation” includes farming, tillage of the soil, dairy farming, ranching, production or raising of crops, poultry, or livestock, and production of poultry or livestock products in an unmanufactured state.
 
-    (21A) The term “farmout agreement” means a written agreement in which—
+        (21A) The term “farmout agreement” means a written agreement in which—
 
         (A) the owner of a right to drill, produce, or operate liquid or gaseous hydrocarbons on property agrees or has agreed to transfer or assign all or a part of such right to another entity; and
 
@@ -305,7 +305,7 @@ In this title the following definitions shall apply:
 
      The term “governmental unit” means United States; State; Commonwealth; District; Territory; municipality; foreign state; department, agency, or instrumentality of the United States (but not a United States trustee while serving as a trustee in a case under this title), a State, a Commonwealth, a District, a Territory, a municipality, or a foreign state; or other foreign or domestic government.
 
-    (27A) The term “health care business”—
+        (27A) The term “health care business”—
 
         (A)
 
@@ -481,7 +481,7 @@ In this title the following definitions shall apply:
 
      The term “margin payment” means, for purposes of the forward contract provisions of this title, payment or deposit of cash, a security or other property, that is commonly known in the forward contract trade as original margin, initial margin, maintenance margin, or variation margin, including mark-to-market payments, or variation payments.
 
-    (38A) The term “master netting agreement”—
+        (38A) The term “master netting agreement”—
 
         (A) means an agreement providing for the exercise of rights, including rights of netting, setoff, liquidation, termination, acceleration, or close out, under or in connection with one or more contracts that are described in any one or more of paragraphs (1) through (5) of section 561(a), or any security agreement or arrangement or other credit enhancement related to one or more of the foregoing, including any guarantee or reimbursement obligation related to 1 or more of the foregoing; and
 
@@ -491,7 +491,7 @@ In this title the following definitions shall apply:
 
      The term “mask work” has the meaning given it in [section 901(a)(2) of title 17][/us/usc/t17/s901/a/2].
 
-    (39A) The term “median family income” means for any year—
+        (39A) The term “median family income” means for any year—
 
         (A) the median family income both calculated and reported by the Bureau of the Census in the then most recent year; and
 
@@ -525,7 +525,7 @@ In this title the following definitions shall apply:
 
         shall be considered, for purposes of [section 1102 of this title][/us/usc/t11/s1102], to be a person with respect to such asset or such benefit.
 
-    (41A) The term “personally identifiable information” means—
+        (41A) The term “personally identifiable information” means—
 
         (A)
 
@@ -555,7 +555,7 @@ In this title the following definitions shall apply:
 
      The term “petition” means petition filed under section 301, 302, 303 and  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “or”. See 2010 Amendment note below. </sup></sup>  1504 of this title, as the case may be, commencing a case under this title.
 
-    (42A) The term “production payment” means a term overriding royalty satisfiable in cash or in kind—
+        (42A) The term “production payment” means a term overriding royalty satisfiable in cash or in kind—
 
         (A) contingent on the production of a liquid or gaseous hydrocarbon from particular real property; and
 
@@ -653,13 +653,13 @@ In this title the following definitions shall apply:
 
      The term “security interest” means lien created by an agreement.
 
-    (51A) The term “settlement payment” means, for purposes of the forward contract provisions of this title, a preliminary settlement payment, a partial settlement payment, an interim settlement payment, a settlement payment on account, a final settlement payment, a net settlement payment, or any other similar payment commonly used in the forward contract trade.
+        (51A) The term “settlement payment” means, for purposes of the forward contract provisions of this title, a preliminary settlement payment, a partial settlement payment, an interim settlement payment, a settlement payment on account, a final settlement payment, a net settlement payment, or any other similar payment commonly used in the forward contract trade.
 
-    (51B) The term “single asset real estate” means real property constituting a single property or project, other than residential real property with fewer than 4 residential units, which generates substantially all of the gross income of a debtor who is not a family farmer and on which no substantial business is being conducted by a debtor other than the business of operating the real property and activities incidental thereto.
+        (51B) The term “single asset real estate” means real property constituting a single property or project, other than residential real property with fewer than 4 residential units, which generates substantially all of the gross income of a debtor who is not a family farmer and on which no substantial business is being conducted by a debtor other than the business of operating the real property and activities incidental thereto.
 
-    (51C) The term “small business case” means a case filed under chapter 11 of this title in which the debtor is a small business debtor.
+        (51C) The term “small business case” means a case filed under chapter 11 of this title in which the debtor is a small business debtor.
 
-    (51D) The term “small business debtor”—
+        (51D) The term “small business debtor”—
 
         (A) subject to subparagraph (B), means a person engaged in commercial or business activities (including any affiliate of such person that is also a debtor under this title and excluding a person whose primary activity is the business of owning or operating real property or activities incidental thereto) that has aggregate noncontingent liquidated secured and unsecured debts as of the date of the filing of the petition or the date of the order for relief in an amount not more than $2,000,000 (excluding debts owed to 1 or more affiliates or insiders) for a case in which the United States trustee has not appointed under section 1102(a)(1) a committee of unsecured creditors or where the court has determined that the committee of unsecured creditors is not sufficiently active and representative to provide effective oversight of the debtor; and
 
@@ -671,7 +671,7 @@ In this title the following definitions shall apply:
 
      The term “statutory lien” means lien arising solely by force of a statute on specified circumstances or conditions, or lien of distress for rent, whether or not statutory, but does not include security interest or judicial lien, whether or not such interest or lien is provided by or is dependent on a statute and whether or not such interest or lien is made fully effective by statute.
 
-    (53A) The term “stockbroker” means person—
+        (53A) The term “stockbroker” means person—
 
         (A) with respect to which there is a customer, as defined in [section 741 of this title][/us/usc/t11/s741]; and
 
@@ -757,7 +757,7 @@ In this title the following definitions shall apply:
 
  __Adjustment of Dollar Amounts__ 
 
-For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.
+    For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.
 
  __Historical and Revision Notes__ 
 

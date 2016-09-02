@@ -15,7 +15,7 @@
 
 ## § 102. Rules of construction
 
-In this title—
+    In this title—
 
     (1)
 

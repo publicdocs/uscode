@@ -15,7 +15,7 @@
 
 ## § 1529. Coordination of a case under this title and a foreign proceeding
 
-If a foreign proceeding and a case under another chapter of this title are pending concurrently regarding the same debtor, the court shall seek cooperation and coordination under sections 1525, 1526, and 1527, and the following shall apply:
+    If a foreign proceeding and a case under another chapter of this title are pending concurrently regarding the same debtor, the court shall seek cooperation and coordination under sections 1525, 1526, and 1527, and the following shall apply:
 
     (1)
 

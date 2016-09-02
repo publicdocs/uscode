@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1501" data-uslm-ref="/us/usc/t11/s1501">1501.</a>  </td>
 
     <td> Purpose and scope of application.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1502" data-uslm-ref="/us/usc/t11/s1502">1502.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1503" data-uslm-ref="/us/usc/t11/s1503">1503.</a>  </td>
 
     <td> International obligations of the United States.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1504" data-uslm-ref="/us/usc/t11/s1504">1504.</a>  </td>
 
     <td> Commencement of ancillary case.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1505" data-uslm-ref="/us/usc/t11/s1505">1505.</a>  </td>
 
     <td> Authorization to act in a foreign country.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1506" data-uslm-ref="/us/usc/t11/s1506">1506.</a>  </td>
 
     <td> Public policy exception.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1507" data-uslm-ref="/us/usc/t11/s1507">1507.</a>  </td>
 
     <td> Additional assistance.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1508" data-uslm-ref="/us/usc/t11/s1508">1508.</a>  </td>
 
     <td> Interpretation.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—ACCESS OF FOREIGN REPRESENTATIVES AND CREDITORS TO THE COURT  </
 
   <tr>
 
-    <td> 1509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1509" data-uslm-ref="/us/usc/t11/s1509">1509.</a>  </td>
 
     <td> Right of direct access.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—ACCESS OF FOREIGN REPRESENTATIVES AND CREDITORS TO THE COURT  </
 
   <tr>
 
-    <td> 1510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1510" data-uslm-ref="/us/usc/t11/s1510">1510.</a>  </td>
 
     <td> Limited jurisdiction.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—ACCESS OF FOREIGN REPRESENTATIVES AND CREDITORS TO THE COURT  </
 
   <tr>
 
-    <td> 1511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1511" data-uslm-ref="/us/usc/t11/s1511">1511.</a>  </td>
 
     <td> Commencement of case under section 301 or 303. <sup>[1]</sup>  <sup><sup> 1 So in original. Section catchline amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F111%2F327" data-uslm-ref="/us/pl/111/327">Pub. L. 111–327</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—ACCESS OF FOREIGN REPRESENTATIVES AND CREDITORS TO THE COURT  </
 
   <tr>
 
-    <td> 1512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1512" data-uslm-ref="/us/usc/t11/s1512">1512.</a>  </td>
 
     <td> Participation of a foreign representative in a case under this title.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—ACCESS OF FOREIGN REPRESENTATIVES AND CREDITORS TO THE COURT  </
 
   <tr>
 
-    <td> 1513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1513" data-uslm-ref="/us/usc/t11/s1513">1513.</a>  </td>
 
     <td> Access of foreign creditors to a case under this title.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—ACCESS OF FOREIGN REPRESENTATIVES AND CREDITORS TO THE COURT  </
 
   <tr>
 
-    <td> 1514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1514" data-uslm-ref="/us/usc/t11/s1514">1514.</a>  </td>
 
     <td> Notification to foreign creditors concerning a case under this title.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—RECOGNITION OF A FOREIGN PROCEEDING AND RELIEF  </td>
 
   <tr>
 
-    <td> 1515.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1515" data-uslm-ref="/us/usc/t11/s1515">1515.</a>  </td>
 
     <td> Application for recognition.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—RECOGNITION OF A FOREIGN PROCEEDING AND RELIEF  </td>
 
   <tr>
 
-    <td> 1516.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1516" data-uslm-ref="/us/usc/t11/s1516">1516.</a>  </td>
 
     <td> Presumptions concerning recognition.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—RECOGNITION OF A FOREIGN PROCEEDING AND RELIEF  </td>
 
   <tr>
 
-    <td> 1517.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1517" data-uslm-ref="/us/usc/t11/s1517">1517.</a>  </td>
 
     <td> Order granting recognition.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—RECOGNITION OF A FOREIGN PROCEEDING AND RELIEF  </td>
 
   <tr>
 
-    <td> 1518.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1518" data-uslm-ref="/us/usc/t11/s1518">1518.</a>  </td>
 
     <td> Subsequent information.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—RECOGNITION OF A FOREIGN PROCEEDING AND RELIEF  </td>
 
   <tr>
 
-    <td> 1519.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1519" data-uslm-ref="/us/usc/t11/s1519">1519.</a>  </td>
 
     <td> Relief that may be granted upon filing petition for recognition.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER III—RECOGNITION OF A FOREIGN PROCEEDING AND RELIEF  </td>
 
   <tr>
 
-    <td> 1520.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1520" data-uslm-ref="/us/usc/t11/s1520">1520.</a>  </td>
 
     <td> Effects of recognition of a foreign main proceeding.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER III—RECOGNITION OF A FOREIGN PROCEEDING AND RELIEF  </td>
 
   <tr>
 
-    <td> 1521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1521" data-uslm-ref="/us/usc/t11/s1521">1521.</a>  </td>
 
     <td> Relief that may be granted upon recognition.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER III—RECOGNITION OF A FOREIGN PROCEEDING AND RELIEF  </td>
 
   <tr>
 
-    <td> 1522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1522" data-uslm-ref="/us/usc/t11/s1522">1522.</a>  </td>
 
     <td> Protection of creditors and other interested persons.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER III—RECOGNITION OF A FOREIGN PROCEEDING AND RELIEF  </td>
 
   <tr>
 
-    <td> 1523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1523" data-uslm-ref="/us/usc/t11/s1523">1523.</a>  </td>
 
     <td> Actions to avoid acts detrimental to creditors.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER III—RECOGNITION OF A FOREIGN PROCEEDING AND RELIEF  </td>
 
   <tr>
 
-    <td> 1524.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1524" data-uslm-ref="/us/usc/t11/s1524">1524.</a>  </td>
 
     <td> Intervention by a foreign representative.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER IV—COOPERATION WITH FOREIGN COURTS AND FOREIGN REPRESENTATIVES  </t
 
   <tr>
 
-    <td> 1525.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1525" data-uslm-ref="/us/usc/t11/s1525">1525.</a>  </td>
 
     <td> Cooperation and direct communication between the court and foreign courts or foreign representatives.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER IV—COOPERATION WITH FOREIGN COURTS AND FOREIGN REPRESENTATIVES  </t
 
   <tr>
 
-    <td> 1526.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1526" data-uslm-ref="/us/usc/t11/s1526">1526.</a>  </td>
 
     <td> Cooperation and direct communication between the trustee and foreign courts or foreign representatives.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER IV—COOPERATION WITH FOREIGN COURTS AND FOREIGN REPRESENTATIVES  </t
 
   <tr>
 
-    <td> 1527.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1527" data-uslm-ref="/us/usc/t11/s1527">1527.</a>  </td>
 
     <td> Forms of cooperation.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER V—CONCURRENT PROCEEDINGS  </td>
 
   <tr>
 
-    <td> 1528.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1528" data-uslm-ref="/us/usc/t11/s1528">1528.</a>  </td>
 
     <td> Commencement of a case under this title after recognition of a foreign main proceeding.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER V—CONCURRENT PROCEEDINGS  </td>
 
   <tr>
 
-    <td> 1529.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1529" data-uslm-ref="/us/usc/t11/s1529">1529.</a>  </td>
 
     <td> Coordination of a case under this title and a foreign proceeding.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER V—CONCURRENT PROCEEDINGS  </td>
 
   <tr>
 
-    <td> 1530.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1530" data-uslm-ref="/us/usc/t11/s1530">1530.</a>  </td>
 
     <td> Coordination of more than 1 foreign proceeding.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER V—CONCURRENT PROCEEDINGS  </td>
 
   <tr>
 
-    <td> 1531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1531" data-uslm-ref="/us/usc/t11/s1531">1531.</a>  </td>
 
     <td> Presumption of insolvency based on recognition of a foreign main proceeding.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER V—CONCURRENT PROCEEDINGS  </td>
 
   <tr>
 
-    <td> 1532.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1532" data-uslm-ref="/us/usc/t11/s1532">1532.</a>  </td>
 
     <td> Rule of payment in concurrent proceedings.  </td>
 

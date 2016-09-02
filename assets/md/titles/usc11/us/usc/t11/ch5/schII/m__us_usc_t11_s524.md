@@ -353,111 +353,97 @@
 
             (J)
 
-                (i) The following additional statements:
+                (i) The following additional statements:    “Reaffirming a debt is a serious financial decision. The law requires you to take certain steps to make sure the decision is in your best interest. If these steps are not completed, the reaffirmation agreement is not effective, even though you have signed it.
 
-            “Reaffirming a debt is a serious financial decision. The law requires you to take certain steps to make sure the decision is in your best interest. If these steps are not completed, the reaffirmation agreement is not effective, even though you have signed it.
+                    “1. Read the disclosures in this Part A carefully. Consider the decision to reaffirm carefully. Then, if you want to reaffirm, sign the reaffirmation agreement in Part B (or you may use a separate agreement you and your creditor agree on).
 
-        “1. Read the disclosures in this Part A carefully. Consider the decision to reaffirm carefully. Then, if you want to reaffirm, sign the reaffirmation agreement in Part B (or you may use a separate agreement you and your creditor agree on).
+                    “2. Complete and sign Part D and be sure you can afford to make the payments you are agreeing to make and have received a copy of the disclosure statement and a completed and signed reaffirmation agreement.
 
-        “2. Complete and sign Part D and be sure you can afford to make the payments you are agreeing to make and have received a copy of the disclosure statement and a completed and signed reaffirmation agreement.
+                    “3. If you were represented by an attorney during the negotiation of your reaffirmation agreement, the attorney must have signed the certification in Part C.
 
-        “3. If you were represented by an attorney during the negotiation of your reaffirmation agreement, the attorney must have signed the certification in Part C.
+                    “4. If you were not represented by an attorney during the negotiation of your reaffirmation agreement, you must have completed and signed Part E.
 
-        “4. If you were not represented by an attorney during the negotiation of your reaffirmation agreement, you must have completed and signed Part E.
+                    “5. The original of this disclosure must be filed with the court by you or your creditor. If a separate reaffirmation agreement (other than the one in Part B) has been signed, it must be attached.
 
-        “5. The original of this disclosure must be filed with the court by you or your creditor. If a separate reaffirmation agreement (other than the one in Part B) has been signed, it must be attached.
+                    “6. If you were represented by an attorney during the negotiation of your reaffirmation agreement, your reaffirmation agreement becomes effective upon filing with the court unless the reaffirmation is presumed to be an undue hardship as explained in Part D.
 
-        “6. If you were represented by an attorney during the negotiation of your reaffirmation agreement, your reaffirmation agreement becomes effective upon filing with the court unless the reaffirmation is presumed to be an undue hardship as explained in Part D.
+                    “7. If you were not represented by an attorney during the negotiation of your reaffirmation agreement, it will not be effective unless the court approves it. The court will notify you of the hearing on your reaffirmation agreement. You must attend this hearing in bankruptcy court where the judge will review your reaffirmation agreement. The bankruptcy court must approve your reaffirmation agreement as consistent with your best interests, except that no court approval is required if your reaffirmation agreement is for a consumer debt secured by a mortgage, deed of trust, security deed, or other lien on your real property, like your home.
 
-        “7. If you were not represented by an attorney during the negotiation of your reaffirmation agreement, it will not be effective unless the court approves it. The court will notify you of the hearing on your reaffirmation agreement. You must attend this hearing in bankruptcy court where the judge will review your reaffirmation agreement. The bankruptcy court must approve your reaffirmation agreement as consistent with your best interests, except that no court approval is required if your reaffirmation agreement is for a consumer debt secured by a mortgage, deed of trust, security deed, or other lien on your real property, like your home.
+                    “Your right to rescind (cancel) your reaffirmation agreement. You may rescind (cancel) your reaffirmation agreement at any time before the bankruptcy court enters a discharge order, or before the expiration of the 60-day period that begins on the date your reaffirmation agreement is filed with the court, whichever occurs later. To rescind (cancel) your reaffirmation agreement, you must notify the creditor that your reaffirmation agreement is rescinded (or canceled).
 
-        “Your right to rescind (cancel) your reaffirmation agreement. You may rescind (cancel) your reaffirmation agreement at any time before the bankruptcy court enters a discharge order, or before the expiration of the 60-day period that begins on the date your reaffirmation agreement is filed with the court, whichever occurs later. To rescind (cancel) your reaffirmation agreement, you must notify the creditor that your reaffirmation agreement is rescinded (or canceled).
+                    “What are your obligations if you reaffirm the debt? A reaffirmed debt remains your personal legal obligation. It is not discharged in your bankruptcy case. That means that if you default on your reaffirmed debt after your bankruptcy case is over, your creditor may be able to take your property or your wages. Otherwise, your obligations will be determined by the reaffirmation agreement which may have changed the terms of the original agreement. For example, if you are reaffirming an open end credit agreement, the creditor may be permitted by that agreement or applicable law to change the terms of that agreement in the future under certain conditions.
 
-        “What are your obligations if you reaffirm the debt? A reaffirmed debt remains your personal legal obligation. It is not discharged in your bankruptcy case. That means that if you default on your reaffirmed debt after your bankruptcy case is over, your creditor may be able to take your property or your wages. Otherwise, your obligations will be determined by the reaffirmation agreement which may have changed the terms of the original agreement. For example, if you are reaffirming an open end credit agreement, the creditor may be permitted by that agreement or applicable law to change the terms of that agreement in the future under certain conditions.
+                    “Are you required to enter into a reaffirmation agreement by any law? No, you are not required to reaffirm a debt by any law. Only agree to reaffirm a debt if it is in your best interest. Be sure you can afford the payments you agree to make.
 
-        “Are you required to enter into a reaffirmation agreement by any law? No, you are not required to reaffirm a debt by any law. Only agree to reaffirm a debt if it is in your best interest. Be sure you can afford the payments you agree to make.
+                    “What if your creditor has a security interest or lien? Your bankruptcy discharge does not eliminate any lien on your property. A ‘lien’ is often referred to as a security interest, deed of trust, mortgage or security deed. Even if you do not reaffirm and your personal liability on the debt is discharged, because of the lien your creditor may still have the right to take the property securing the lien if you do not pay the debt or default on it. If the lien is on an item of personal property that is exempt under your State’s law or that the trustee has abandoned, you may be able to redeem the item rather than reaffirm the debt. To redeem, you must make a single payment to the creditor equal to the amount of the allowed secured claim, as agreed by the parties or determined by the court.”.
 
-        “What if your creditor has a security interest or lien? Your bankruptcy discharge does not eliminate any lien on your property. A ‘lien’ is often referred to as a security interest, deed of trust, mortgage or security deed. Even if you do not reaffirm and your personal liability on the debt is discharged, because of the lien your creditor may still have the right to take the property securing the lien if you do not pay the debt or default on it. If the lien is on an item of personal property that is exempt under your State’s law or that the trustee has abandoned, you may be able to redeem the item rather than reaffirm the debt. To redeem, you must make a single payment to the creditor equal to the amount of the allowed secured claim, as agreed by the parties or determined by the court.”.
+                (ii) In the case of a reaffirmation under subsection (m)(2), numbered paragraph 6 in the disclosures required by clause (i) of this subparagraph shall read as follows:    “6. If you were represented by an attorney during the negotiation of your reaffirmation agreement, your reaffirmation agreement becomes effective upon filing with the court.”.
 
-        (ii)
+        (4) The form of such agreement required under this paragraph shall consist of the following:    “Part B: Reaffirmation Agreement. I (we) agree to reaffirm the debts arising under the credit agreement described below.
 
-         In the case of a reaffirmation under subsection (m)(2), numbered paragraph 6 in the disclosures required by clause (i) of this subparagraph shall read as follows:
+            “Brief description of credit agreement:
 
-        “6. If you were represented by an attorney during the negotiation of your reaffirmation agreement, your reaffirmation agreement becomes effective upon filing with the court.”.
+            “Description of any changes to the credit agreement made as part of this reaffirmation agreement:
 
-            (4) The form of such agreement required under this paragraph shall consist of the following:    “Part B: Reaffirmation Agreement. I (we) agree to reaffirm the debts arising under the credit agreement described below.
+            “Signature:              Date:
 
-                “Brief description of credit agreement:
+            “Borrower:
 
-                “Description of any changes to the credit agreement made as part of this reaffirmation agreement:
+            “Co-borrower, if also reaffirming these debts:
 
-                “Signature:              Date:
+            “Accepted by creditor:
 
-                “Borrower:
+            “Date of creditor acceptance:”.
 
-                “Co-borrower, if also reaffirming these debts:
+        (5)
 
-                “Accepted by creditor:
+         The declaration shall consist of the following:
 
-                “Date of creditor acceptance:”.
-
-            (5)
-
-             The declaration shall consist of the following:
-
-                (A) The following certification:
-
-                “Part C: Certification by Debtor’s Attorney (If Any).
+            (A) The following certification:    “Part C: Certification by Debtor’s Attorney (If Any).
 
                 “I hereby certify that (1) this agreement represents a fully informed and voluntary agreement by the debtor; (2) this agreement does not impose an undue hardship on the debtor or any dependent of the debtor; and (3) I have fully advised the debtor of the legal effect and consequences of this agreement and any default under this agreement.
 
                 “Signature of Debtor’s Attorney:      Date:”.
 
-                (B) If a presumption of undue hardship has been established with respect to such agreement, such certification shall state that, in the opinion of the attorney, the debtor is able to make the payment.
+            (B) If a presumption of undue hardship has been established with respect to such agreement, such certification shall state that, in the opinion of the attorney, the debtor is able to make the payment.
 
-                (C) In the case of a reaffirmation agreement under subsection (m)(2), subparagraph (B) is not applicable.
+            (C) In the case of a reaffirmation agreement under subsection (m)(2), subparagraph (B) is not applicable.
 
-            (6)
+        (6)
 
-                (A) The statement in support of such agreement, which the debtor shall sign and date prior to filing with the court, shall consist of the following:    “Part D: Debtor’s Statement in Support of Reaffirmation Agreement.
+            (A) The statement in support of such agreement, which the debtor shall sign and date prior to filing with the court, shall consist of the following:    “Part D: Debtor’s Statement in Support of Reaffirmation Agreement.
 
-                    “1. I believe this reaffirmation agreement will not impose an undue hardship on my dependents or me. I can afford to make the payments on the reaffirmed debt because my monthly income (take home pay plus any other income received) is $\_\_\_, and my actual current monthly expenses including monthly payments on post-bankruptcy debt and other reaffirmation agreements total $\_\_\_, leaving $\_\_\_ to make the required payments on this reaffirmed debt. I understand that if my income less my monthly expenses does not leave enough to make the payments, this reaffirmation agreement is presumed to be an undue hardship on me and must be reviewed by the court. However, this presumption may be overcome if I explain to the satisfaction of the court how I can afford to make the payments here: \_\_\_.
+                “1. I believe this reaffirmation agreement will not impose an undue hardship on my dependents or me. I can afford to make the payments on the reaffirmed debt because my monthly income (take home pay plus any other income received) is $\_\_\_, and my actual current monthly expenses including monthly payments on post-bankruptcy debt and other reaffirmation agreements total $\_\_\_, leaving $\_\_\_ to make the required payments on this reaffirmed debt. I understand that if my income less my monthly expenses does not leave enough to make the payments, this reaffirmation agreement is presumed to be an undue hardship on me and must be reviewed by the court. However, this presumption may be overcome if I explain to the satisfaction of the court how I can afford to make the payments here: \_\_\_.
 
-                    “2. I received a copy of the Reaffirmation Disclosure Statement in Part A and a completed and signed reaffirmation agreement.”.
+                “2. I received a copy of the Reaffirmation Disclosure Statement in Part A and a completed and signed reaffirmation agreement.”.
 
-                (B) Where the debtor is represented by an attorney and is reaffirming a debt owed to a creditor defined in section 19(b)(1)(A)(iv) of the Federal Reserve Act, the statement of support of the reaffirmation agreement, which the debtor shall sign and date prior to filing with the court, shall consist of the following:    “I believe this reaffirmation agreement is in my financial interest. I can afford to make the payments on the reaffirmed debt. I received a copy of the Reaffirmation Disclosure Statement in Part A and a completed and signed reaffirmation agreement.”.
+            (B) Where the debtor is represented by an attorney and is reaffirming a debt owed to a creditor defined in section 19(b)(1)(A)(iv) of the Federal Reserve Act, the statement of support of the reaffirmation agreement, which the debtor shall sign and date prior to filing with the court, shall consist of the following:    “I believe this reaffirmation agreement is in my financial interest. I can afford to make the payments on the reaffirmed debt. I received a copy of the Reaffirmation Disclosure Statement in Part A and a completed and signed reaffirmation agreement.”.
 
-            (7) The motion that may be used if approval of such agreement by the court is required in order for it to be effective, shall be signed and dated by the movant and shall consist of the following:    “Part E: Motion for Court Approval (To be completed only if the debtor is not represented by an attorney.). I (we), the debtor(s), affirm the following to be true and correct:
+        (7) The motion that may be used if approval of such agreement by the court is required in order for it to be effective, shall be signed and dated by the movant and shall consist of the following:    “Part E: Motion for Court Approval (To be completed only if the debtor is not represented by an attorney.). I (we), the debtor(s), affirm the following to be true and correct:
 
-                “I am not represented by an attorney in connection with this reaffirmation agreement.
+            “I am not represented by an attorney in connection with this reaffirmation agreement.
 
-                “I believe this reaffirmation agreement is in my best interest based on the income and expenses I have disclosed in my Statement in Support of this reaffirmation agreement, and because (provide any additional relevant reasons the court should consider):
+            “I believe this reaffirmation agreement is in my best interest based on the income and expenses I have disclosed in my Statement in Support of this reaffirmation agreement, and because (provide any additional relevant reasons the court should consider):
 
-                “Therefore, I ask the court for an order approving this reaffirmation agreement.”.
+            “Therefore, I ask the court for an order approving this reaffirmation agreement.”.
 
-            (8)
+        (8) The court order, which may be used to approve such agreement, shall consist of the following:    “Court Order: The court grants the debtor’s motion and approves the reaffirmation agreement described above.”.
 
-             The court order, which may be used to approve such agreement, shall consist of the following:
+    (l)
 
-            “Court Order: The court grants the debtor’s motion and approves the reaffirmation agreement described above.”.
+     Notwithstanding any other provision of this title the following shall apply:
 
-                (l)
+        (1) A creditor may accept payments from a debtor before and after the filing of an agreement of the kind specified in subsection (c) with the court.
 
-                 Notwithstanding any other provision of this title the following shall apply:
+        (2) A creditor may accept payments from a debtor under such agreement that the creditor believes in good faith to be effective.
 
-                    (1) A creditor may accept payments from a debtor before and after the filing of an agreement of the kind specified in subsection (c) with the court.
+        (3) The requirements of subsections (c)(2) and (k) shall be satisfied if disclosures required under those subsections are given in good faith.
 
-                    (2) A creditor may accept payments from a debtor under such agreement that the creditor believes in good faith to be effective.
+    (m)
 
-                    (3)
+        (1) Until 60 days after an agreement of the kind specified in subsection (c) is filed with the court (or such additional period as the court, after notice and a hearing and for cause, orders before the expiration of such period), it shall be presumed that such agreement is an undue hardship on the debtor if the debtor’s monthly income less the debtor’s monthly expenses as shown on the debtor’s completed and signed statement in support of such agreement required under subsection (k)(6)(A) is less than the scheduled payments on the reaffirmed debt. This presumption shall be reviewed by the court. The presumption may be rebutted in writing by the debtor if the statement includes an explanation that identifies additional sources of funds to make the payments as agreed upon under the terms of such agreement. If the presumption is not rebutted to the satisfaction of the court, the court may disapprove such agreement. No agreement shall be disapproved without notice and a hearing to the debtor and creditor, and such hearing shall be concluded before the entry of the debtor’s discharge.
 
-                     The requirements of subsections (c)(2) and (k) shall be satisfied if disclosures required under those subsections are given in good faith.
-
-                        (m)
-
-                    (1) Until 60 days after an agreement of the kind specified in subsection (c) is filed with the court (or such additional period as the court, after notice and a hearing and for cause, orders before the expiration of such period), it shall be presumed that such agreement is an undue hardship on the debtor if the debtor’s monthly income less the debtor’s monthly expenses as shown on the debtor’s completed and signed statement in support of such agreement required under subsection (k)(6)(A) is less than the scheduled payments on the reaffirmed debt. This presumption shall be reviewed by the court. The presumption may be rebutted in writing by the debtor if the statement includes an explanation that identifies additional sources of funds to make the payments as agreed upon under the terms of such agreement. If the presumption is not rebutted to the satisfaction of the court, the court may disapprove such agreement. No agreement shall be disapproved without notice and a hearing to the debtor and creditor, and such hearing shall be concluded before the entry of the debtor’s discharge.
-
-            (2) This subsection does not apply to reaffirmation agreements where the creditor is a credit union, as defined in section 19(b)(1)(A)(iv) of the Federal Reserve Act.
+        (2) This subsection does not apply to reaffirmation agreements where the creditor is a credit union, as defined in section 19(b)(1)(A)(iv) of the Federal Reserve Act.
 
 ([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2592][/us/stat/92/2592]; [Pub. L. 98–353, title III][/us/pl/98/353], §§ 308, 455, July 10, 1984, [98 Stat. 354][/us/stat/98/354], 376; [Pub. L. 99–554, title II][/us/pl/99/554], §§ 257(o), 282, 283(k), Oct. 27, 1986, [100 Stat. 3115–3117][/us/stat/100/3115-3117]; [Pub. L. 103–394, title I][/us/pl/103/394], §§ 103, 111(a), title V, § 501(d)(14), Oct. 22, 1994, [108 Stat. 4108][/us/stat/108/4108], 4113, 4145; [Pub. L. 109–8, title II][/us/pl/109/8], §§ 202, 203(a), title XII, § 1210, Apr. 20, 2005, [119 Stat. 43][/us/stat/119/43], 194; [Pub. L. 111–327, § 2(a)(19)][/us/pl/111/327/s2/a/19], Dec. 22, 2010, [124 Stat. 3559][/us/stat/124/3559].)
 

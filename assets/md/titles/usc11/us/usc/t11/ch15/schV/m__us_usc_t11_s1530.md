@@ -15,7 +15,7 @@
 
 ## § 1530. Coordination of more than 1 foreign proceeding
 
-In matters referred to in section 1501, with respect to more than 1 foreign proceeding regarding the debtor, the court shall seek cooperation and coordination under sections 1525, 1526, and 1527, and the following shall apply:
+    In matters referred to in section 1501, with respect to more than 1 foreign proceeding regarding the debtor, the court shall seek cooperation and coordination under sections 1525, 1526, and 1527, and the following shall apply:
 
     (1) Any relief granted under section 1519 or 1521 to a representative of a foreign nonmain proceeding after recognition of a foreign main proceeding must be consistent with the foreign main proceeding.
 

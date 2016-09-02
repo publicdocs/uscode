@@ -15,7 +15,7 @@
 
 ## § 1124. Impairment of claims or interests
 
-Except as provided in [section 1123(a)(4) of this title][/us/usc/t11/s1123/a/4], a class of claims or interests is impaired under a plan unless, with respect to each claim or interest of such class, the plan—
+    Except as provided in [section 1123(a)(4) of this title][/us/usc/t11/s1123/a/4], a class of claims or interests is impaired under a plan unless, with respect to each claim or interest of such class, the plan—
 
     (1) leaves unaltered the legal, equitable, and contractual rights to which such claim or interest entitles the holder of such claim or interest; or
 

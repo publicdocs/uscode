@@ -13,11 +13,11 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t11/ch1/m__us_usc_t11_ch1.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11)
 
-# 
-
-Title 11—BANKRUPTCY
+# Title 11—BANKRUPTCY
 
 This title was enacted by [Pub. L. 95–598, title I, § 101][/us/pl/95/598/s101], Nov. 6, 1978, [92 Stat. 2549][/us/stat/92/2549]
+
+Current through 113–44
 
 <table>
 
@@ -33,91 +33,91 @@ This title was enacted by [Pub. L. 95–598, title I, § 101][/us/pl/95/598/s1
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fch1" data-uslm-ref="/us/usc/t11/ch1">1.</a>  </td>
 
     <td> General Provisions  </td>
 
-    <td> 101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs101" data-uslm-ref="/us/usc/t11/s101">101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fch3" data-uslm-ref="/us/usc/t11/ch3">3.</a>  </td>
 
     <td> Case Administration  </td>
 
-    <td> 301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs301" data-uslm-ref="/us/usc/t11/s301">301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fch5" data-uslm-ref="/us/usc/t11/ch5">5.</a>  </td>
 
     <td> Creditors, the Debtor, and the Estate  </td>
 
-    <td> 501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs501" data-uslm-ref="/us/usc/t11/s501">501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fch7" data-uslm-ref="/us/usc/t11/ch7">7.</a>  </td>
 
     <td> Liquidation  </td>
 
-    <td> 701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs701" data-uslm-ref="/us/usc/t11/s701">701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fch9" data-uslm-ref="/us/usc/t11/ch9">9.</a>  </td>
 
     <td> Adjustment of Debts of a Municipality  </td>
 
-    <td> 901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs901" data-uslm-ref="/us/usc/t11/s901">901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fch11" data-uslm-ref="/us/usc/t11/ch11">11.</a>  </td>
 
     <td> Reorganization  </td>
 
-    <td> 1101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1101" data-uslm-ref="/us/usc/t11/s1101">1101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 12.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fch12" data-uslm-ref="/us/usc/t11/ch12">12.</a>  </td>
 
     <td> Adjustments of Debts of a Family Farmer or Family Fisherman with Regular Annual Income  <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to chapter heading. </sup></sup>   </td>
 
-    <td> 1201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1201" data-uslm-ref="/us/usc/t11/s1201">1201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fch13" data-uslm-ref="/us/usc/t11/ch13">13.</a>  </td>
 
     <td> Adjustment of Debts of an Individual With Regular Income  </td>
 
-    <td> 1301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1301" data-uslm-ref="/us/usc/t11/s1301">1301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 15.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fch15" data-uslm-ref="/us/usc/t11/ch15">15.</a>  </td>
 
     <td> Ancillary and Other Cross-Border Cases  </td>
 
-    <td> 1501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs1501" data-uslm-ref="/us/usc/t11/s1501">1501</a>  </td>
 
   </tr>
 

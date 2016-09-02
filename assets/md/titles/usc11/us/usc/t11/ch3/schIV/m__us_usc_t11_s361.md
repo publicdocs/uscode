@@ -15,7 +15,7 @@
 
 ## § 361. Adequate protection
 
-When adequate protection is required under section 362, 363, or 364 of this title of an interest of an entity in property, such adequate protection may be provided by—
+    When adequate protection is required under section 362, 363, or 364 of this title of an interest of an entity in property, such adequate protection may be provided by—
 
     (1) requiring the trustee to make a cash payment or periodic cash payments to such entity, to the extent that the stay under [section 362 of this title][/us/usc/t11/s362], use, sale, or lease under [section 363 of this title][/us/usc/t11/s363], or any grant of a lien under [section 364 of this title][/us/usc/t11/s364] results in a decrease in the value of such entity’s interest in such property;
 

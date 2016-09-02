@@ -15,7 +15,7 @@
 
 ## § 1502. Definitions
 
-For the purposes of this chapter, the term—
+    For the purposes of this chapter, the term—
 
     (1) “debtor” means an entity that is the subject of a foreign proceeding;
 

@@ -15,7 +15,7 @@
 
 ## § 761. Definitions for this subchapter
 
-In this subchapter—
+    In this subchapter—
 
     (1) “Act” means Commodity Exchange Act;
 

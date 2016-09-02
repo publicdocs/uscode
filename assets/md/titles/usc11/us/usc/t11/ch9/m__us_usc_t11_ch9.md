@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs901" data-uslm-ref="/us/usc/t11/s901">901.</a>  </td>
 
     <td> Applicability of other sections of this title.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs902" data-uslm-ref="/us/usc/t11/s902">902.</a>  </td>
 
     <td> Definitions for this chapter.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs903" data-uslm-ref="/us/usc/t11/s903">903.</a>  </td>
 
     <td> Reservation of State power to control municipalities.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs904" data-uslm-ref="/us/usc/t11/s904">904.</a>  </td>
 
     <td> Limitation on jurisdiction and powers of court.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 921.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs921" data-uslm-ref="/us/usc/t11/s921">921.</a>  </td>
 
     <td> Petition and proceedings relating to petition.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 922.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs922" data-uslm-ref="/us/usc/t11/s922">922.</a>  </td>
 
     <td> Automatic stay of enforcement of claims against the debtor.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 923.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs923" data-uslm-ref="/us/usc/t11/s923">923.</a>  </td>
 
     <td> Notice.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 924.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs924" data-uslm-ref="/us/usc/t11/s924">924.</a>  </td>
 
     <td> List of creditors.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 925.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs925" data-uslm-ref="/us/usc/t11/s925">925.</a>  </td>
 
     <td> Effect of list of claims.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 926.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs926" data-uslm-ref="/us/usc/t11/s926">926.</a>  </td>
 
     <td> Avoiding powers.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 927.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs927" data-uslm-ref="/us/usc/t11/s927">927.</a>  </td>
 
     <td> Limitation on recourse.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 928.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs928" data-uslm-ref="/us/usc/t11/s928">928.</a>  </td>
 
     <td> Post petition effect of security interest.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 929.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs929" data-uslm-ref="/us/usc/t11/s929">929.</a>  </td>
 
     <td> Municipal leases.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 930.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs930" data-uslm-ref="/us/usc/t11/s930">930.</a>  </td>
 
     <td> Dismissal.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—THE PLAN  </td>
 
   <tr>
 
-    <td> 941.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs941" data-uslm-ref="/us/usc/t11/s941">941.</a>  </td>
 
     <td> Filing of plan.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—THE PLAN  </td>
 
   <tr>
 
-    <td> 942.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs942" data-uslm-ref="/us/usc/t11/s942">942.</a>  </td>
 
     <td> Modification of plan.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—THE PLAN  </td>
 
   <tr>
 
-    <td> 943.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs943" data-uslm-ref="/us/usc/t11/s943">943.</a>  </td>
 
     <td> Confirmation.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—THE PLAN  </td>
 
   <tr>
 
-    <td> 944.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs944" data-uslm-ref="/us/usc/t11/s944">944.</a>  </td>
 
     <td> Effect of confirmation.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—THE PLAN  </td>
 
   <tr>
 
-    <td> 945.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs945" data-uslm-ref="/us/usc/t11/s945">945.</a>  </td>
 
     <td> Continuing jurisdiction and closing of the case.  </td>
 
@@ -201,15 +201,21 @@ SUBCHAPTER III—THE PLAN  </td>
 
   <tr>
 
-    <td> 946.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft11%2Fs946" data-uslm-ref="/us/usc/t11/s946">946.</a>  </td>
 
     <td> Effect of exchange of securities before the date of the filing of the petition.  </td>
 
   </tr>
 
-</table>
+  <tr>
 
- __Amendments__ 
+    <td> 
+
+Amendments  </td>
+
+  </tr>
+
+</table>
 
     1988—[Pub. L. 100–597, § 11][/us/pl/100/597/s11], Nov. 3, 1988, [102 Stat. 3030][/us/stat/102/3030], added items 927 to 929 and redesignated former item 927 as 930.
 

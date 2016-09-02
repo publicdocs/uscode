@@ -15,7 +15,7 @@
 
 ## § 741. Definitions for this subchapter
 
-In this subchapter—
+    In this subchapter—
 
     (1) “Commission” means Securities and Exchange Commission;
 
