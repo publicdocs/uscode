@@ -163,7 +163,7 @@
 
 >     The amendments made by section 3 shall apply to claims of discrimination in compensation brought under sections 501 and 504 of the Rehabilitation Act of 1973 ([29 U.S.C. 791][/us/usc/t29/s791], 794), pursuant to—
 
->         “(1) sections 501(g) and 504(d) of such Act ([29 U.S.C. 791(g)][/us/usc/t29/s791/g], 794(d)), respectively, which adopt the standards applied under title I of the Americans with Disabilities Act of 1990 \[[42 U.S.C. 12111][/us/usc/t42/s12111] et seq.\] for determining whether a violation has occurred in a complaint alleging employment discrimination; and
+>         “(1) sections 501(g) and 504(d) of such Act ([29 U.S.C. 791(g)][/us/usc/t29/s791/g] \[now [29 U.S.C. 791(f)][/us/usc/t29/s791/f]\], 794(d)), respectively, which adopt the standards applied under title I of the Americans with Disabilities Act of 1990 \[[42 U.S.C. 12111][/us/usc/t42/s12111] et seq.\] for determining whether a violation has occurred in a complaint alleging employment discrimination; and
 
 >         “(2) paragraphs (1) and (2) of section 505(a) of such Act ([29 U.S.C. 794a(a)][/us/usc/t29/s794a/a]) (as amended by subsection (c)).”
 
@@ -226,6 +226,7 @@
 [/us/usc/t42/s2000e–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%935
 [/us/usc/t29/s791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs791
 [/us/usc/t29/s791/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs791%2Fg
+[/us/usc/t29/s791/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs791%2Ff
 [/us/usc/t42/s12111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12111
 [/us/usc/t29/s794a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794a%2Fa
 

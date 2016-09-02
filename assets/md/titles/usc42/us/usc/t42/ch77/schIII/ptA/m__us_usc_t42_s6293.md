@@ -79,7 +79,7 @@
 
             (A) Test procedures for medium base compact fluorescent lamps shall be based on the test methods for compact fluorescent lamps used under the August 9, 2001, version of the Energy Star program of the Environmental Protection Agency and the Department of Energy.
 
-            (B) Except as provided in subparagraph (C), medium base compact fluorescent lamps shall meet all test requirements for regulated parameters of [section 6295(cc) of this title][/us/usc/t42/s6295/cc].
+            (B) Except as provided in subparagraph (C), medium base compact fluorescent lamps shall meet all test requirements for regulated parameters of section 6295(cc)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be section “6295(bb)”. </sup></sup>  of this title.
 
             (C) Notwithstanding subparagraph (B), if manufacturers document engineering predictions and analysis that support expected attainment of lumen maintenance at 40 percent rated life and lamp lifetime, medium base compact fluorescent lamps may be marketed before completion of the testing of lamp life and lumen maintenance at 40 percent of rated life.
 
@@ -221,7 +221,6 @@
 [/us/usc/t42/s6295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295
 [/us/usc/t42/s6317/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6317%2Fa
 [/us/usc/t42/s6317/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6317%2Fa%2F1
-[/us/usc/t42/s6295/cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295%2Fcc
 [/us/usc/t42/s6297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6297
 [/us/usc/t42/s6295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295
 [/us/pl/94/163/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs323

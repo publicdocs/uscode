@@ -233,6 +233,14 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs3515e" data-uslm-ref="/us/usc/t42/s3515e">3515e.</a>  </td>
+
+    <td> Transfer of functions regarding independent living to Department of Health and Human Services, and savings provisions.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER II—OFFICE OF INSPECTOR GENERAL  </td>

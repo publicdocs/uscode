@@ -3027,7 +3027,7 @@ Part R—Programs Relating to Autism  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs280i%E2%80%933" data-uslm-ref="/us/usc/t42/s280i–3">280i–3.</a>  </td>
 
-    <td> Report to Congress.  </td>
+    <td> Reports to Congress.  </td>
 
   </tr>
 

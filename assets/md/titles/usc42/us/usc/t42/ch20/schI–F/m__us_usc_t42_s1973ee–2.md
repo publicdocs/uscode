@@ -13,13 +13,11 @@
 
 [Previous](./../../../../..//us/usc/t42/ch20/schI–F/m__us_usc_t42_s1973ee–1.md) | [Next](./../../../../..//us/usc/t42/ch20/schI–F/m__us_usc_t42_s1973ee–3.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973ee%E2%80%932)
 
-## § 1973ee–2. Selection of registration facilities
+## § 1973ee–2. Transferred
 
-    (a) Each State or political subdivision responsible for registration for Federal elections shall provide a reasonable number of accessible permanent registration facilities.
+ __Codification__ 
 
-    (b) Subsection (a) of this section does not apply to any State that has in effect a system that provides an opportunity for each potential voter to register by mail or at the residence of such voter.
-
-([Pub. L. 98–435, § 4][/us/pl/98/435/s4], Sept. 28, 1984, [98 Stat. 1679][/us/stat/98/1679].)
+    Section 1973ee–2 was editorially reclassified as [section 20103 of Title 52][/us/usc/t52/s20103], Voting and Elections.
 
 ----------
 
@@ -28,7 +26,6 @@
 ----------
 ----------
 
-[/us/pl/98/435/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F435%2Fs4
-[/us/stat/98/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1679
+[/us/usc/t52/s20103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20103
 
 

@@ -143,7 +143,17 @@
 
         (8) On the request of the Committee, any Federal Government employee may be detailed to the Committee without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
 
-([Pub. L. 89–73, title II, § 203][/us/pl/89/73/s203], as added [Pub. L. 93–29, title II, § 201(c)][/us/pl/93/29/s201/c], May 3, 1973, [87 Stat. 32][/us/stat/87/32]; amended [Pub. L. 95–478, title I, § 102(b)][/us/pl/95/478/s102/b], Oct. 18, 1978, [92 Stat. 1513][/us/stat/92/1513]; [Pub. L. 97–115, § 2(d)][/us/pl/97/115/s2/d], Dec. 29, 1981, [95 Stat. 1595][/us/stat/95/1595]; [Pub. L. 98–459, title II, § 203][/us/pl/98/459/s203], Oct. 9, 1984, [98 Stat. 1768][/us/stat/98/1768]; [Pub. L. 100–175, title I][/us/pl/100/175], §§ 104(a), 105(b), 106(b), Nov. 29, 1987, [101 Stat. 929][/us/stat/101/929], 930; [Pub. L. 102–240, title III, § 3003(b)][/us/pl/102/240/s3003/b], Dec. 18, 1991, [105 Stat. 2088][/us/stat/105/2088]; [Pub. L. 102–375, title II, § 203][/us/pl/102/375/s203], title IX, § 904(a)(5), Sept. 30, 1992, [106 Stat. 1210][/us/stat/106/1210], 1306; [Pub. L. 103–82, title IV, § 405(g)(2)][/us/pl/103/82/s405/g/2], Sept. 21, 1993, [107 Stat. 921][/us/stat/107/921]; [Pub. L. 103–171][/us/pl/103/171], §§ 2(4), 3(a)(13), Dec. 2, 1993, [107 Stat. 1988][/us/stat/107/1988], 1990; [Pub. L. 105–220, title II, § 251(b)(3)][/us/pl/105/220/s251/b/3], Aug. 7, 1998, [112 Stat. 1080][/us/stat/112/1080]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(33)(A), (f)(25)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–425, 2681–433; [Pub. L. 106–402, title IV, § 401(b)(9)(A)][/us/pl/106/402/s401/b/9/A], Oct. 30, 2000, [114 Stat. 1739][/us/stat/114/1739]; [Pub. L. 106–501, title II, § 202(1)][/us/pl/106/501/s202/1], Nov. 13, 2000, [114 Stat. 2230][/us/stat/114/2230]; [Pub. L. 109–365, title II, § 203][/us/pl/109/365/s203], Oct. 17, 2006, [120 Stat. 2532][/us/stat/120/2532].)
+([Pub. L. 89–73, title II, § 203][/us/pl/89/73/s203], as added [Pub. L. 93–29, title II, § 201(c)][/us/pl/93/29/s201/c], May 3, 1973, [87 Stat. 32][/us/stat/87/32]; amended [Pub. L. 95–478, title I, § 102(b)][/us/pl/95/478/s102/b], Oct. 18, 1978, [92 Stat. 1513][/us/stat/92/1513]; [Pub. L. 97–115, § 2(d)][/us/pl/97/115/s2/d], Dec. 29, 1981, [95 Stat. 1595][/us/stat/95/1595]; [Pub. L. 98–459, title II, § 203][/us/pl/98/459/s203], Oct. 9, 1984, [98 Stat. 1768][/us/stat/98/1768]; [Pub. L. 100–175, title I][/us/pl/100/175], §§ 104(a), 105(b), 106(b), Nov. 29, 1987, [101 Stat. 929][/us/stat/101/929], 930; [Pub. L. 102–240, title III, § 3003(b)][/us/pl/102/240/s3003/b], Dec. 18, 1991, [105 Stat. 2088][/us/stat/105/2088]; [Pub. L. 102–375, title II, § 203][/us/pl/102/375/s203], title IX, § 904(a)(5), Sept. 30, 1992, [106 Stat. 1210][/us/stat/106/1210], 1306; [Pub. L. 103–82, title IV, § 405(g)(2)][/us/pl/103/82/s405/g/2], Sept. 21, 1993, [107 Stat. 921][/us/stat/107/921]; [Pub. L. 103–171][/us/pl/103/171], §§ 2(4), 3(a)(13), Dec. 2, 1993, [107 Stat. 1988][/us/stat/107/1988], 1990; [Pub. L. 105–220, title II, § 251(b)(3)][/us/pl/105/220/s251/b/3], Aug. 7, 1998, [112 Stat. 1080][/us/stat/112/1080]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(33)(A), (f)(25)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–425, 2681–433; [Pub. L. 106–402, title IV, § 401(b)(9)(A)][/us/pl/106/402/s401/b/9/A], Oct. 30, 2000, [114 Stat. 1739][/us/stat/114/1739]; [Pub. L. 106–501, title II, § 202(1)][/us/pl/106/501/s202/1], Nov. 13, 2000, [114 Stat. 2230][/us/stat/114/2230]; [Pub. L. 109–365, title II, § 203][/us/pl/109/365/s203], Oct. 17, 2006, [120 Stat. 2532][/us/stat/120/2532]; [Pub. L. 113–128, title V, § 512(w)(1)][/us/pl/113/128/s512/w/1], July 22, 2014, [128 Stat. 1713][/us/stat/128/1713].)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(w)(1), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1713, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended as follows:
+
+    in subsection (a)(2), by striking “In particular, the Secretary of Labor shall consult and cooperate with the Assistant Secretary in carrying out title I of the Workforce Investment Act of 1998” and inserting “In particular, the Secretary of Labor shall consult and cooperate with the Assistant Secretary in carrying out title I of the Workforce Innovation and Opportunity Act”; and
+
+    in subsection (b)(1), by striking “title I of the Workforce Investment Act of 1998” and inserting “title I of the Workforce Innovation and Opportunity Act”.
+
+    See 2014 Amendment notes below.
 
  __References in Text__ 
 
@@ -180,6 +190,10 @@
     In subsec. (b)(9), “sections 5309 and 5310 of title 49” substituted for “sections 3, 9, and 16 of the Federal Transit Act” on authority of [Pub. L. 103–272, § 6(b)][/us/pl/103/272/s6/b], July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. Previously, section 9 of the Federal Transit Act, classified to section 1607a of former Title 49, Transportation, was repealed by [Pub. L. 95–599, title III, § 305(a)][/us/pl/95/599/s305/a], Nov. 6, 1978, [92 Stat. 2473][/us/stat/92/2473], and a new section 9 of the Act, classified to section 1607a of former Title 49, was enacted by [Pub. L. 97–424, title III, § 303][/us/pl/97/424/s303], formerly § 303(a), Jan. 6, 1983, [96 Stat. 2141][/us/stat/96/2141]. The new section 9 of the Act was repealed and reenacted as sections 5307 and 5336 of Title 49, Transportation, by [Pub. L. 103–272][/us/pl/103/272], §§ 1(b), 7(b), July 5, 1994, [108 Stat. 795][/us/stat/108/795], 840, 1379.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(2). [Pub. L. 113–128, § 512(w)(1)(A)][/us/pl/113/128/s512/w/1/A], substituted “In particular, the Secretary of Labor shall consult and cooperate with the Assistant Secretary in carrying out title I of the Workforce Innovation and Opportunity Act” for “In particular, the Secretary of Labor shall consult and cooperate with the Assistant Secretary in carrying out title I of the Workforce Investment Act of 1998”.
+
+    Subsec. (b)(1). [Pub. L. 113–128, § 512(w)(1)(B)][/us/pl/113/128/s512/w/1/B], substituted “title I of the Workforce Innovation and Opportunity Act” for “title I of the Workforce Investment Act of 1998”.
 
     2006—Subsec. (a)(3)(A). [Pub. L. 109–365, § 203(1)][/us/pl/109/365/s203/1], substituted “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “(with particular attention to low-income minority older individuals and older individuals residing in rural areas)” and “section 3056p” for “section 3056e”.
 
@@ -238,6 +252,10 @@
     1978—Subsec. (a). [Pub. L. 95–478][/us/pl/95/478] added subsec. (a) and struck out similar prior provisions stating that “Federal agencies proposing to establish programs substantially related to the purposes of this chapter shall consult with the Administration on Aging prior to the establishment of such services, and Federal agencies administering such programs shall cooperate with the Administration on Aging in carrying out such services”.
 
     Subsec. (b). [Pub. L. 95–478][/us/pl/95/478] added subsec. (b).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -313,6 +331,10 @@
 [/us/stat/114/2230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2230
 [/us/pl/109/365/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs203
 [/us/stat/120/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2532
+[/us/pl/113/128/s512/w/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fw%2F1
+[/us/stat/128/1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1713
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
 [/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
@@ -366,6 +388,8 @@
 [/us/stat/96/2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2141
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F795
+[/us/pl/113/128/s512/w/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fw%2F1%2FA
+[/us/pl/113/128/s512/w/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fw%2F1%2FB
 [/us/pl/109/365/s203/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs203%2F1
 [/us/pl/109/365/s203/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs203%2F2
 [/us/pl/109/365/s203/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs203%2F3
@@ -398,6 +422,7 @@
 [/us/usc/t42/s2809/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2809%2Fa%2F8
 [/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
 [/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277

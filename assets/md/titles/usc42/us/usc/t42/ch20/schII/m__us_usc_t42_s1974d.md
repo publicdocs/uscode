@@ -13,11 +13,11 @@
 
 [Previous](./../../../../..//us/usc/t42/ch20/schII/m__us_usc_t42_s1974c.md) | [Next](./../../../../..//us/usc/t42/ch20/schII/m__us_usc_t42_s1974e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1974d)
 
-## § 1974d. Jurisdiction to compel production of records or papers
+## § 1974d. Transferred
 
-    The United States district court for the district in which a demand is made pursuant to [section 1974b of this title][/us/usc/t42/s1974b], or in which a record or paper so demanded is located, shall have jurisdiction by appropriate process to compel the production of such record or paper.
+ __Codification__ 
 
-([Pub. L. 86–449, title III, § 305][/us/pl/86/449/s305], May 6, 1960, [74 Stat. 88][/us/stat/74/88].)
+    Section 1974d was editorially reclassified as [section 20705 of Title 52][/us/usc/t52/s20705], Voting and Elections.
 
 ----------
 
@@ -26,8 +26,6 @@
 ----------
 ----------
 
-[/us/usc/t42/s1974b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1974b
-[/us/pl/86/449/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F449%2Fs305
-[/us/stat/74/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F88
+[/us/usc/t52/s20705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20705
 
 

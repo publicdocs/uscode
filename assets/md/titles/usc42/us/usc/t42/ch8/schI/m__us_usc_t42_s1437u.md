@@ -257,7 +257,23 @@
 
         (2) __Repealed.__  __[__  __Pub. L. 104–330, title V, § 501(b)(8)__  __][/us/pl/104/330/s501/b/8]__  __,__  __Oct. 26, 1996__  __,__  __[__  __110 Stat. 4042__  __][/us/stat/110/4042]__ 
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 23, as added [Pub. L. 101–625, title V, § 554(a)][/us/pl/101/625/s554/a], Nov. 28, 1990, [104 Stat. 4225][/us/stat/104/4225]; amended [Pub. L. 102–550, title I][/us/pl/102/550], §§ 106, 185(b), Oct. 28, 1992, [106 Stat. 3684][/us/stat/106/3684], 3747; [Pub. L. 104–316, title I, § 122][/us/pl/104/316/s122](l), Oct. 19, 1996, [110 Stat. 3837][/us/stat/110/3837]; [Pub. L. 104–330, title V, § 501(b)(8)][/us/pl/104/330/s501/b/8], Oct. 26, 1996, [110 Stat. 4042][/us/stat/110/4042]; [Pub. L. 105–276, title V, § 509(a)][/us/pl/105/276/s509/a], Oct. 21, 1998, [112 Stat. 2530][/us/stat/112/2530]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(31), (f)(23)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–425, 2681–433.)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 23, as added [Pub. L. 101–625, title V, § 554(a)][/us/pl/101/625/s554/a], Nov. 28, 1990, [104 Stat. 4225][/us/stat/104/4225]; amended [Pub. L. 102–550, title I][/us/pl/102/550], §§ 106, 185(b), Oct. 28, 1992, [106 Stat. 3684][/us/stat/106/3684], 3747; [Pub. L. 104–316, title I, § 122][/us/pl/104/316/s122](l), Oct. 19, 1996, [110 Stat. 3837][/us/stat/110/3837]; [Pub. L. 104–330, title V, § 501(b)(8)][/us/pl/104/330/s501/b/8], Oct. 26, 1996, [110 Stat. 4042][/us/stat/110/4042]; [Pub. L. 105–276, title V, § 509(a)][/us/pl/105/276/s509/a], Oct. 21, 1998, [112 Stat. 2530][/us/stat/112/2530]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(31), (f)(23)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–425, 2681–433; [Pub. L. 113–128, title V, § 512(ii)][/us/pl/113/128/s512/ii], July 22, 2014, [128 Stat. 1721][/us/stat/128/1721].)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(ii), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1721, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended as follows:
+
+    (1) in subsection (b)(2)(A), by striking “lack of supportive services accessible to eligible families, which shall include insufficient availability of resources for programs under title I of the Workforce Investment Act of 1998” and inserting “lack of supportive services accessible to eligible families, which shall include insufficient availability of resources for programs under title I of the Workforce Innovation and Opportunity Act”;
+
+    (2) in subsection (f)(2), by striking “the local agencies (if any) responsible for carrying out programs under title I of the Workforce Investment Act of 1998 or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act,” and inserting “the local agencies (if any) responsible for carrying out programs under title I of the Workforce Innovation and Opportunity Act or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act,”; and
+
+    (3) in subsection (g):
+
+    (A) in paragraph (2), by striking “any local agencies responsible for programs under title I of the Workforce Investment Act of 1998 or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act” and inserting “any local agencies responsible for programs under title I of the Workforce Innovation and Opportunity Act or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act”; and
+
+    (B) in paragraph (3)(H), by striking “programs under title I of the Workforce Investment Act of 1998 and any other relevant employment, child care, transportation, training, and education programs in the applicable area” and inserting “programs under title I of the Workforce Innovation and Opportunity Act and any other relevant employment, child care, transportation, training, and education programs in the applicable area”.
+
+    See 2014 Amendment notes below.
 
  __References in Text__ 
 
@@ -272,6 +288,14 @@
     [Section 1437g(c) of this title][/us/usc/t42/s1437g/c], referred to in subsec. (h)(2), was amended generally by [Pub. L. 105–276, title V, § 519(a)][/us/pl/105/276/s519/a], Oct. 21, 1998, [112 Stat. 2551][/us/stat/112/2551], and, as so amended, does not relate to appropriations for fiscal years 1993 and 1994.
 
  __Amendments__ 
+
+    2014—Subsec. (b)(2)(A). [Pub. L. 113–128, § 512(ii)(1)][/us/pl/113/128/s512/ii/1], substituted “lack of supportive services accessible to eligible families, which shall include insufficient availability of resources for programs under title I of the Workforce Innovation and Opportunity Act” for “lack of supportive services accessible to eligible families, which shall include insufficient availability of resources for programs under title I of the Workforce Investment Act of 1998”.
+
+    Subsec. (f)(2). [Pub. L. 113–128, § 512(ii)(2)][/us/pl/113/128/s512/ii/2], substituted “the local agencies (if any) responsible for carrying out programs under title I of the Workforce Innovation and Opportunity Act or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act,” for “the local agencies (if any) responsible for carrying out programs under title I of the Workforce Investment Act of 1998 or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act,”.
+
+    Subsec. (g)(2). [Pub. L. 113–128, § 512(ii)(3)(A)][/us/pl/113/128/s512/ii/3/A], substituted “any local agencies responsible for programs under title I of the Workforce Innovation and Opportunity Act or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act” for “any local agencies responsible for programs under title I of the Workforce Investment Act of 1998 or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act”.
+
+    Subsec. (g)(3)(H). [Pub. L. 113–128, § 512(ii)(3)(B)][/us/pl/113/128/s512/ii/3/B], substituted “programs under title I of the Workforce Innovation and Opportunity Act and any other relevant employment, child care, transportation, training, and education programs in the applicable area” for “programs under title I of the Workforce Investment Act of 1998 and any other relevant employment, child care, transportation, training, and education programs in the applicable area”.
 
     1998—Subsec. (b)(1)(A). [Pub. L. 105–276, § 509(a)(1)(A)(i)][/us/pl/105/276/s509/a/1/A/i], struck out “and” at end.
 
@@ -345,6 +369,10 @@
 
     Subsec. (o)(2). [Pub. L. 102–550, § 106(j)][/us/pl/102/550/s106/j], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “(2) Applicability to indian public housing.—In accordance with [section 1437aa(b)(2) of this title][/us/usc/t42/s1437aa/b/2], the provisions of this section shall also apply to public housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority.”
 
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+
  __Effective Date of 1998 Amendments__ 
 
     Amendment by section 101(f) \[title VIII, § 405(d)(31)\] of [Pub. L. 105–277][/us/pl/105/277] effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, § 405(f)(23)\] of [Pub. L. 105–277][/us/pl/105/277] effective July 1, 2000, see section 101(f) \[title VIII, § 405(g)(1), (2)(B)\] of [Pub. L. 105–277][/us/pl/105/277], set out as a note under [section 3502 of Title 5][/us/usc/t5/s3502], Government Organization and Employees.
@@ -415,6 +443,10 @@
 [/us/stat/112/2530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2530
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
+[/us/pl/113/128/s512/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fii
+[/us/stat/128/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1721
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/stat/104/4079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4079
 [/us/usc/t42/s12701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12701
@@ -432,6 +464,10 @@
 [/us/usc/t42/s1437g/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g%2Fc
 [/us/pl/105/276/s519/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs519%2Fa
 [/us/stat/112/2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2551
+[/us/pl/113/128/s512/ii/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fii%2F1
+[/us/pl/113/128/s512/ii/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fii%2F2
+[/us/pl/113/128/s512/ii/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fii%2F3%2FA
+[/us/pl/113/128/s512/ii/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fii%2F3%2FB
 [/us/pl/105/276/s509/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs509%2Fa%2F1%2FA%2Fi
 [/us/pl/105/276/s509/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs509%2Fa%2F1%2FA%2Fii
 [/us/pl/105/276/s509/a/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs509%2Fa%2F1%2FA%2Fiii
@@ -465,6 +501,7 @@
 [/us/pl/102/550/s106/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs106%2Fi
 [/us/pl/102/550/s106/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs106%2Fj
 [/us/usc/t42/s1437aa/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437aa%2Fb%2F2
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277

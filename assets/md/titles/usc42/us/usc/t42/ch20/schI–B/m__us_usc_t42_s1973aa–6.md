@@ -13,15 +13,11 @@
 
 [Previous](./../../../../..//us/usc/t42/ch20/schI–B/m__us_usc_t42_s1973aa–5.md) | [Next](./../../../../..//us/usc/t42/ch20/schI–C/m__us_usc_t42_ch20_schI–C.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973aa%E2%80%936)
 
-## § 1973aa–6. Voting assistance for blind, disabled or illiterate persons
+## § 1973aa–6. Transferred
 
-    Any voter who requires assistance to vote by reason of blindness, disability, or inability to read or write may be given assistance by a person of the voter’s choice, other than the voter’s employer or agent of that employer or officer or agent of the voter’s union.
+ __Codification__ 
 
-([Pub. L. 89–110, title II, § 208][/us/pl/89/110/s208], as added [Pub. L. 97–205, § 5][/us/pl/97/205/s5], June 29, 1982, [96 Stat. 135][/us/stat/96/135].)
-
- __Effective Date__ 
-
-    [Pub. L. 97–205, § 5][/us/pl/97/205/s5], June 29, 1982, [96 Stat. 135][/us/stat/96/135], provided that this section is effective Jan. 1, 1984.
+    Section 1973aa–6 was editorially reclassified as [section 10508 of Title 52][/us/usc/t52/s10508], Voting and Elections.
 
 ----------
 
@@ -30,10 +26,6 @@
 ----------
 ----------
 
-[/us/pl/89/110/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F110%2Fs208
-[/us/pl/97/205/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F205%2Fs5
-[/us/stat/96/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F135
-[/us/pl/97/205/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F205%2Fs5
-[/us/stat/96/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F135
+[/us/usc/t52/s10508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs10508
 
 

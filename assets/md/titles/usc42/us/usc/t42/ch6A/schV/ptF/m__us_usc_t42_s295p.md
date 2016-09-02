@@ -169,7 +169,11 @@
 
     The term “rural health clinic” has the meaning given that term in [section 1395x(aa) of this title][/us/usc/t42/s1395x/aa].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 799B, formerly § 799, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2066][/us/stat/106/2066]; renumbered § 799B and amended [Pub. L. 105–392, title I][/us/pl/105/392], §§ 106(a)(2)(E), 108, Nov. 13, 1998, [112 Stat. 3557][/us/stat/112/3557], 3560; [Pub. L. 107–251, title VI, § 601(a)][/us/pl/107/251/s601/a], Oct. 26, 2002, [116 Stat. 1664][/us/stat/116/1664]; [Pub. L. 111–148, title V, § 5002(b)][/us/pl/111/148/s5002/b], Mar. 23, 2010, [124 Stat. 590][/us/stat/124/590].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 799B, formerly § 799, as added [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 2066][/us/stat/106/2066]; renumbered § 799B and amended [Pub. L. 105–392, title I][/us/pl/105/392], §§ 106(a)(2)(E), 108, Nov. 13, 1998, [112 Stat. 3557][/us/stat/112/3557], 3560; [Pub. L. 107–251, title VI, § 601(a)][/us/pl/107/251/s601/a], Oct. 26, 2002, [116 Stat. 1664][/us/stat/116/1664]; [Pub. L. 111–148, title V, § 5002(b)][/us/pl/111/148/s5002/b], Mar. 23, 2010, [124 Stat. 590][/us/stat/124/590]; [Pub. L. 113–128, title V, § 512(z)(3)][/us/pl/113/128/s512/z/3], July 22, 2014, [128 Stat. 1716][/us/stat/128/1716].)
+
+ __Amendment of Paragraph (23)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(z)(3), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1716, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], paragraph (23) of this section is amended by striking “one-stop delivery system described in [section 2864(c) of title 29][/us/usc/t29/s2864/c]” and inserting “one-stop delivery system described in [section 3151(e) of title 29][/us/usc/t29/s3151/e]”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -178,6 +182,8 @@
     [Section 256a of this title][/us/usc/t42/s256a], referred to in par. (6)(B), was repealed by [Pub. L. 104–299, § 4(a)(3)][/us/pl/104/299/s4/a/3], Oct. 11, 1996, [110 Stat. 3645][/us/stat/110/3645].
 
  __Amendments__ 
+
+    2014—Par. (23). [Pub. L. 113–128][/us/pl/113/128] substituted “one-stop delivery system described in [section 3151(e) of title 29][/us/usc/t29/s3151/e]” for “one-stop delivery system described in [section 2864(c) of title 29][/us/usc/t29/s2864/c]”.
 
     2010—Par. (3). [Pub. L. 111–148, § 5002(b)(1)][/us/pl/111/148/s5002/b/1], added par. (3) and struck out former par. (3) which defined “program for the training of physician assistants” by describing its objective, duration, minimum enrollment, and specific areas of instruction.
 
@@ -202,6 +208,10 @@
     Par. (6)(D). [Pub. L. 105–392, § 108(c)][/us/pl/105/392/s108/c], added subpar. (D).
 
     Par. (11). [Pub. L. 105–392, § 108(e)][/us/pl/105/392/s108/e], added par. (11).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center__ 
 
@@ -241,6 +251,12 @@
 [/us/stat/116/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1664
 [/us/pl/111/148/s5002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5002%2Fb
 [/us/stat/124/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F590
+[/us/pl/113/128/s512/z/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fz%2F3
+[/us/stat/128/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1716
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
+[/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
 [/us/usc/t42/s254c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254c
 [/us/pl/104/299/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs2
@@ -249,6 +265,9 @@
 [/us/usc/t42/s256a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs256a
 [/us/pl/104/299/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs4%2Fa%2F3
 [/us/stat/110/3645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3645
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
+[/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
 [/us/pl/111/148/s5002/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5002%2Fb%2F1
 [/us/pl/111/148/s5002/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5002%2Fb%2F2
 [/us/pl/107/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F251
@@ -260,6 +279,7 @@
 [/us/pl/105/392/s108/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs108%2Fb%2F2
 [/us/pl/105/392/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs108%2Fc
 [/us/pl/105/392/s108/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs108%2Fe
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/104/299/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F299%2Fs4%2Fc
 [/us/usc/t42/s254b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681

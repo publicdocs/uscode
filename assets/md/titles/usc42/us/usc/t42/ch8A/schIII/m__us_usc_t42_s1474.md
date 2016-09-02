@@ -33,7 +33,11 @@
 
         (4) For purposes of this subsection, the terms “elderly,” “handicapped person,” “low income,” and “weatherization materials” shall have the same meanings given such terms in paragraphs (3), (5), (7), and (9), respectively, of section 412 of the Energy Conservation in Existing Buildings Act of 1976 \[[42 U.S.C. 6862][/us/usc/t42/s6862]\].
 
-([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 504, [63 Stat. 434][/us/stat/63/434]; [Pub. L. 87–723, § 4(c)(3)][/us/pl/87/723/s4/c/3], Sept. 28, 1962, [76 Stat. 672][/us/stat/76/672]; [Pub. L. 89–754, title VIII, § 803][/us/pl/89/754/s803], Nov. 3, 1966, [80 Stat. 1282][/us/stat/80/1282]; [Pub. L. 91–609, title VIII, § 803(a)][/us/pl/91/609/s803/a], Dec. 31, 1970, [84 Stat. 1806][/us/stat/84/1806]; [Pub. L. 93–383, title V, § 504][/us/pl/93/383/s504], Aug. 22, 1974, [88 Stat. 693][/us/stat/88/693]; [Pub. L. 95–619, title II, § 232(a)][/us/pl/95/619/s232/a], Nov. 9, 1978, [92 Stat. 3226][/us/stat/92/3226]; [Pub. L. 96–153, title V, § 510][/us/pl/96/153/s510], Dec. 21, 1979, [93 Stat. 1137][/us/stat/93/1137]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title V, § 504\], Nov. 30, 1983, [97 Stat. 1242][/us/stat/97/1242]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(32), (f)(24)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–425, 2681–433; [Pub. L. 106–569, title VII, § 702][/us/pl/106/569/s702], Dec. 27, 2000, [114 Stat. 3013][/us/stat/114/3013].)
+([July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title V, § 504, [63 Stat. 434][/us/stat/63/434]; [Pub. L. 87–723, § 4(c)(3)][/us/pl/87/723/s4/c/3], Sept. 28, 1962, [76 Stat. 672][/us/stat/76/672]; [Pub. L. 89–754, title VIII, § 803][/us/pl/89/754/s803], Nov. 3, 1966, [80 Stat. 1282][/us/stat/80/1282]; [Pub. L. 91–609, title VIII, § 803(a)][/us/pl/91/609/s803/a], Dec. 31, 1970, [84 Stat. 1806][/us/stat/84/1806]; [Pub. L. 93–383, title V, § 504][/us/pl/93/383/s504], Aug. 22, 1974, [88 Stat. 693][/us/stat/88/693]; [Pub. L. 95–619, title II, § 232(a)][/us/pl/95/619/s232/a], Nov. 9, 1978, [92 Stat. 3226][/us/stat/92/3226]; [Pub. L. 96–153, title V, § 510][/us/pl/96/153/s510], Dec. 21, 1979, [93 Stat. 1137][/us/stat/93/1137]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title V, § 504\], Nov. 30, 1983, [97 Stat. 1242][/us/stat/97/1242]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(32), (f)(24)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–425, 2681–433; [Pub. L. 106–569, title VII, § 702][/us/pl/106/569/s702], Dec. 27, 2000, [114 Stat. 3013][/us/stat/114/3013]; [Pub. L. 113–128, title V, § 512][/us/pl/113/128/s512](o), July 22, 2014, [128 Stat. 1711][/us/stat/128/1711].)
+
+ __Amendment of Subsection (c)(3)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(o), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1711, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (c)(3) of this section is amended by striking “an insufficient number of volunteers and training participants and public service employment workers, assisted pursuant to title I of the Workforce Investment Act of 1998 or the Older American Community Service Employment Act,” and inserting “an insufficient number of volunteers and training participants and public service employment workers, assisted pursuant to title I of the Workforce Innovation and Opportunity Act or the Community Service Senior Opportunities Act,”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -46,6 +50,8 @@
     The Older American Community Service Employment Act, referred to in subsec. (c)(3), was title V of [Pub. L. 89–73][/us/pl/89/73], as added [Pub. L. 94–135, title I, § 113(a)][/us/pl/94/135/s113/a], Nov. 28, 1975, [89 Stat. 720][/us/stat/89/720], and amended. Title V of [Pub. L. 89–73][/us/pl/89/73] was amended generally and renamed the Community Service Senior Opportunities Act by [Pub. L. 109–365, title V, § 501][/us/pl/109/365/s501], Oct. 17, 2006, [120 Stat. 2563][/us/stat/120/2563], and is classified generally to subchapter IX (§ 3056 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title][/us/usc/t42/s3001] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (c)(3). [Pub. L. 113–128][/us/pl/113/128] substituted “an insufficient number of volunteers and training participants and public service employment workers, assisted pursuant to title I of the Workforce Innovation and Opportunity Act or the Community Service Senior Opportunities Act,” for “an insufficient number of volunteers and training participants and public service employment workers, assisted pursuant to title I of the Workforce Investment Act of 1998 or the Older American Community Service Employment Act,”.
 
     2000—Subsec. (a). [Pub. L. 106–569][/us/pl/106/569] substituted “$7,500” for “$2,500” in fourth sentence.
 
@@ -66,6 +72,10 @@
     1966—Subsec. (a). [Pub. L. 89–754][/us/pl/89/754] increased limitation on assistance from $1,000 to $1,500.
 
     1962—Subsec. (a). [Pub. L. 87–723][/us/pl/87/723] substituted “in the form of a loan, grant, or combined loan and grant in excess of $1,000” for “(1) in the form of a loan, or combined loan and grant, in excess of $1,000, or (2) in the form of a grant (whether or not combined with a loan) in excess of $500.”
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -111,6 +121,10 @@
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/pl/106/569/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs702
 [/us/stat/114/3013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3013
+[/us/pl/113/128/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512
+[/us/stat/128/1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1711
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/usc/t42/s2809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2809
 [/us/pl/97/35/s683/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs683%2Fa
 [/us/stat/95/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F519
@@ -127,6 +141,7 @@
 [/us/pl/109/365/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs501
 [/us/stat/120/2563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2563
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
@@ -137,6 +152,9 @@
 [/us/pl/91/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609
 [/us/pl/89/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754
 [/us/pl/87/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F723
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277

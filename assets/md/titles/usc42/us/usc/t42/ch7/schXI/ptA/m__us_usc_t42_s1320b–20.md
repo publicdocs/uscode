@@ -151,7 +151,11 @@
 
         There are authorized to be appropriated to carry out this section $23,000,000 for each of the fiscal years 2000 through 2011.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1149, as added [Pub. L. 106–170, title I, § 121][/us/pl/106/170/s121], Dec. 17, 1999, [113 Stat. 1887][/us/stat/113/1887]; amended [Pub. L. 108–203, title IV][/us/pl/108/203], §§ 404(a)(1), 407(a), Mar. 2, 2004, [118 Stat. 525][/us/stat/118/525], 527; [Pub. L. 111–63, § 2][/us/pl/111/63/s2], Sept. 18, 2009, [123 Stat. 2001][/us/stat/123/2001]; [Pub. L. 111–280][/us/pl/111/280], §§ 2(a), 3(a), (b)(1), Oct. 13, 2010, [124 Stat. 2903][/us/stat/124/2903].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1149, as added [Pub. L. 106–170, title I, § 121][/us/pl/106/170/s121], Dec. 17, 1999, [113 Stat. 1887][/us/stat/113/1887]; amended [Pub. L. 108–203, title IV][/us/pl/108/203], §§ 404(a)(1), 407(a), Mar. 2, 2004, [118 Stat. 525][/us/stat/118/525], 527; [Pub. L. 111–63, § 2][/us/pl/111/63/s2], Sept. 18, 2009, [123 Stat. 2001][/us/stat/123/2001]; [Pub. L. 111–280][/us/pl/111/280], §§ 2(a), 3(a), (b)(1), Oct. 13, 2010, [124 Stat. 2903][/us/stat/124/2903]; [Pub. L. 113–128, title V, § 512(dd)(3)][/us/pl/113/128/s512/dd/3], July 22, 2014, [128 Stat. 1718][/us/stat/128/1718].)
+
+ __Amendment of Subsection (a)(3)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(dd)(3), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1718, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a)(3) of this section is amended by striking “a one-stop delivery system established under subtitle B of title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2811][/us/usc/t29/s2811] et seq.)” and inserting “a one-stop delivery system established under [section 3151(e) of title 29][/us/usc/t29/s3151/e]”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -169,6 +173,8 @@
 
  __Amendments__ 
 
+    2014—Subsec. (a)(3). [Pub. L. 113–128][/us/pl/113/128] substituted “a one-stop delivery system established under [section 3151(e) of title 29][/us/usc/t29/s3151/e]” for “a one-stop delivery system established under subtitle B of title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2811][/us/usc/t29/s2811] et seq.)”.
+
     2010—Subsec. (b)(4). [Pub. L. 111–280, § 3(b)(1)][/us/pl/111/280/s3/b/1], substituted “Funding” for “Allocation of costs” in par. (4) heading, designated existing provisions as subpar. (A), inserted subpar. (A) heading, and added subpar. (B).
 
     Subsec. (c). [Pub. L. 111–280, § 3(a)][/us/pl/111/280/s3/a], added subsec. (c). Former subsec. (c) redesignated (d).
@@ -184,6 +190,10 @@
     2004—Subsec. (c)(2). [Pub. L. 108–203, § 404(a)(1)][/us/pl/108/203/s404/a/1], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘disabled beneficiary’ has the meaning given that term in [section 1320b–19(k)(2) of this title][/us/usc/t42/s1320b–19/k/2].”
 
     Subsec. (d). [Pub. L. 108–203, § 407(a)][/us/pl/108/203/s407/a], substituted “2009” for “2004”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -227,6 +237,12 @@
 [/us/stat/123/2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2001
 [/us/pl/111/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F280
 [/us/stat/124/2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2903
+[/us/pl/113/128/s512/dd/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fdd%2F3
+[/us/stat/128/1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1718
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2811
+[/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
 [/us/pl/106/170/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Ff
 [/us/usc/t42/s1320b–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
@@ -244,6 +260,9 @@
 [/us/usc/t42/s15025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15025
 [/us/pl/93/66/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212
 [/us/usc/t42/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
+[/us/usc/t29/s2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2811
 [/us/pl/111/280/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F280%2Fs3%2Fb%2F1
 [/us/pl/111/280/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F280%2Fs3%2Fa
 [/us/pl/111/280/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F280%2Fs3%2Fa
@@ -253,6 +272,7 @@
 [/us/pl/108/203/s404/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs404%2Fa%2F1
 [/us/usc/t42/s1320b–19/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319%2Fk%2F2
 [/us/pl/108/203/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs407%2Fa
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/111/280/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F280%2Fs3%2Fb%2F2
 [/us/stat/124/2904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2904
 [/us/usc/t42/s1320b–20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9320

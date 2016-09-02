@@ -293,7 +293,11 @@
 
             (E) any other health professional the Comptroller General of the United States determines appropriate.
 
-([Pub. L. 111–148, title V, § 5101][/us/pl/111/148/s5101], title X, § 10501(a), Mar. 23, 2010, [124 Stat. 592][/us/stat/124/592], 993.)
+([Pub. L. 111–148, title V, § 5101][/us/pl/111/148/s5101], title X, § 10501(a), Mar. 23, 2010, [124 Stat. 592][/us/stat/124/592], 993; [Pub. L. 113–128, title V, § 512(y)][/us/pl/113/128/s512/y], July 22, 2014, [128 Stat. 1716][/us/stat/128/1716].)
+
+ __Amendment of Subsection (d)(3)(D)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(y), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1716, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (d)(3)(D) of this section is amended by striking “other health care workforce programs, including those supported through the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.),” and inserting “other health care workforce programs, including those supported through the Workforce Innovation and Opportunity Act,”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -333,11 +337,17 @@
 
  __Amendments__ 
 
+    2014—Subsec. (d)(3)(D). [Pub. L. 113–128][/us/pl/113/128] substituted “other health care workforce programs, including those supported through the Workforce Innovation and Opportunity Act,” for “other health care workforce programs, including those supported through the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.),”.
+
     2010—Subsec. (c)(2)(B)(i)(II). [Pub. L. 111–148, § 10501(a)(1)][/us/pl/111/148/s10501/a/1], inserted “, including representatives of small business and self-employed individuals” after “employers”.
 
     Subsec. (d)(4)(A)(iv), (v). [Pub. L. 111–148, § 10501(a)(2)][/us/pl/111/148/s10501/a/2], added cl. (iv) and redesignated former cl. (iv) as (v).
 
     Subsec. (i)(2)(A), (C). [Pub. L. 111–148, § 10501(a)(3)][/us/pl/111/148/s10501/a/3], which directed insertion of “optometrists, ophthalmologists,” after “occupational therapists,” in subpar. (B) of subsec. (i)(2), was executed by making the insertion in subpars. (A) and (C). The words “occupational therapists,” do not appear in subpar. (B).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Purpose__ 
 
@@ -438,6 +448,11 @@
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/pl/111/148/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5101
 [/us/stat/124/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F592
+[/us/pl/113/128/s512/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fy
+[/us/stat/128/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1716
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/92/463/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs5
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/stat/92/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1824
@@ -483,9 +498,12 @@
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/pl/99/129/s209/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2Fs209%2Fa%2F4
 [/us/stat/99/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F532
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/111/148/s10501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10501%2Fa%2F1
 [/us/pl/111/148/s10501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10501%2Fa%2F2
 [/us/pl/111/148/s10501/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10501%2Fa%2F3
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/111/148/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5001
 [/us/stat/124/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F588
 [/us/pl/111/148/s5002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5002%2Fa

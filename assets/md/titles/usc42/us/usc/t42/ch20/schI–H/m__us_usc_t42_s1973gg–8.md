@@ -13,11 +13,11 @@
 
 [Previous](./../../../../..//us/usc/t42/ch20/schI–H/m__us_usc_t42_s1973gg–7.md) | [Next](./../../../../..//us/usc/t42/ch20/schI–H/m__us_usc_t42_s1973gg–9.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973gg%E2%80%938)
 
-## § 1973gg–8. Designation of chief State election official
+## § 1973gg–8. Transferred
 
-    Each State shall designate a State officer or employee as the chief State election official to be responsible for coordination of State responsibilities under this subchapter.
+ __Codification__ 
 
-([Pub. L. 103–31, § 10][/us/pl/103/31/s10], May 20, 1993, [107 Stat. 87][/us/stat/107/87].)
+    Section 1973gg–8 was editorially reclassified as [section 20509 of Title 52][/us/usc/t52/s20509], Voting and Elections.
 
 ----------
 
@@ -26,7 +26,6 @@
 ----------
 ----------
 
-[/us/pl/103/31/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F31%2Fs10
-[/us/stat/107/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F87
+[/us/usc/t52/s20509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20509
 
 

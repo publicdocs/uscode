@@ -25,7 +25,7 @@
 
  __References in Text__ 
 
-    This Act, referred to in text, is [Pub. L. 85–315][/us/pl/85/315], Sept. 9, 1957, [71 Stat. 634][/us/stat/71/634], as amended, known as the Civil Rights Act of 1957, which enacted this section, sections 1975 to 1975e of this title and section 295–1 of former Title 5, Executive Departments and Government Officers and Employees, repealed [section 1993 of this title][/us/usc/t42/s1993], amended [section 1971 of this title][/us/usc/t42/s1971] and sections 1343 and 1861 of Title 28, Judiciary and Judicial Procedure, and enacted provisions set out as a note under [section 1971 of this title][/us/usc/t42/s1971]. For complete classification of this Act to the Code, see Short Title note set out under [section 1971 of this title][/us/usc/t42/s1971] and Tables.
+    This Act, referred to in text, is [Pub. L. 85–315][/us/pl/85/315], Sept. 9, 1957, [71 Stat. 634][/us/stat/71/634], known as the Civil Rights Act of 1957. For complete classification of this Act to the Code, see Tables.
 
 ----------
 
@@ -38,9 +38,5 @@
 [/us/stat/71/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F638
 [/us/pl/85/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F315
 [/us/stat/71/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F634
-[/us/usc/t42/s1993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1993
-[/us/usc/t42/s1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1971
-[/us/usc/t42/s1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1971
-[/us/usc/t42/s1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1971
 
 

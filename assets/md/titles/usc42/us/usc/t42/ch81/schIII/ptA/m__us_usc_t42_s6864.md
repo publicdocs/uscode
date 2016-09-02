@@ -43,7 +43,11 @@
 
         Effective with fiscal year 1991, and annually thereafter, the Secretary shall update the population, eligible households, climatic, residential energy use, and all other data used in allocating the funds under this part among the States pursuant to subsection (a) of this section.
 
-([Pub. L. 94–385, title IV, § 414][/us/pl/94/385/s414], Aug. 14, 1976, [90 Stat. 1154][/us/stat/90/1154]; [Pub. L. 96–294, title V][/us/pl/96/294], §§ 573(c), 577(2), June 30, 1980, [94 Stat. 759][/us/stat/94/759], 760; [Pub. L. 101–440, § 7(c)][/us/pl/101/440/s7/c], (g), Oct. 18, 1990, [104 Stat. 1012][/us/stat/104/1012], 1014; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(38), (f)(29)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–427, 2681–434.)
+([Pub. L. 94–385, title IV, § 414][/us/pl/94/385/s414], Aug. 14, 1976, [90 Stat. 1154][/us/stat/90/1154]; [Pub. L. 96–294, title V][/us/pl/96/294], §§ 573(c), 577(2), June 30, 1980, [94 Stat. 759][/us/stat/94/759], 760; [Pub. L. 101–440, § 7(c)][/us/pl/101/440/s7/c], (g), Oct. 18, 1990, [104 Stat. 1012][/us/stat/104/1012], 1014; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(38), (f)(29)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–427, 2681–434; [Pub. L. 113–128, title V, § 512(k)][/us/pl/113/128/s512/k], July 22, 2014, [128 Stat. 1709][/us/stat/128/1709].)
+
+ __Amendment of Subsection (b)(3)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(k), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1709, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (b)(3) of this section is amended by striking “securing, to the maximum extent practicable, the services of volunteers and training participants and public service employment workers, pursuant to title I of the Workforce Investment Act of 1998” and inserting “securing, to the maximum extent practicable, the services of volunteers and training participants and public service employment workers, pursuant to title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -52,6 +56,8 @@
     The Economic Opportunity Act of 1964, referred to in subsec. (b)(4), is [Pub. L. 88–452][/us/pl/88/452], Aug. 20, 1964, [78 Stat. 508][/us/stat/78/508], as amended. Title II of the Economic Opportunity Act of 1964 was classified generally to subchapter II (§ 2781 et seq.) of chapter 34 of this title prior to repeal by [Pub. L. 97–35, title VI, § 683(a)][/us/pl/97/35/s683/a], Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519]. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (b)(3). [Pub. L. 113–128][/us/pl/113/128] substituted “securing, to the maximum extent practicable, the services of volunteers and training participants and public service employment workers, pursuant to title I of the Workforce Innovation and Opportunity Act” for “securing, to the maximum extent practicable, the services of volunteers and training participants and public service employment workers, pursuant to title I of the Workforce Investment Act of 1998”.
 
     1998—Subsec. (b)(3). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(f)(29)\], struck out “the Job Training Partnership Act or” after “pursuant to”.
 
@@ -66,6 +72,10 @@
     1980—Subsec. (a). [Pub. L. 96–294, § 577(2)][/us/pl/96/294/s577/2], substituted “Secretary” for “Administrator” wherever appearing.
 
     Subsec. (b). [Pub. L. 96–294][/us/pl/96/294], §§ 573(c), 577(2), substituted “Secretary” for “Administrator” and added par. (4).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -91,6 +101,10 @@
 [/us/stat/104/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1012
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
+[/us/pl/113/128/s512/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fk
+[/us/stat/128/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1709
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
 [/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
@@ -98,6 +112,7 @@
 [/us/stat/78/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F508
 [/us/pl/97/35/s683/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs683%2Fa
 [/us/stat/95/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F519
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/pl/101/440/s7/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs7%2Fc%2F1
@@ -105,6 +120,9 @@
 [/us/pl/101/440/s7/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F440%2Fs7%2Fc%2F2
 [/us/pl/96/294/s577/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs577%2F2
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277

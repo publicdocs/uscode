@@ -13,21 +13,11 @@
 
 [Previous](./../../../../..//us/usc/t42/ch20/schI–F/m__us_usc_t42_s1973ee–3.md) | [Next](./../../../../..//us/usc/t42/ch20/schI–F/m__us_usc_t42_s1973ee–5.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973ee%E2%80%934)
 
-## § 1973ee–4. Enforcement
+## § 1973ee–4. Transferred
 
-    (a) __Action for declaratory or injunctive relief__ 
+ __Codification__ 
 
-        If a State or political subdivision does not comply with this subchapter, the United States Attorney General or a person who is personally aggrieved by the noncompliance may bring an action for declaratory or injunctive relief in the appropriate district court.
-
-    (b) __Prerequisite notice of noncompliance__ 
-
-        An action may be brought under this section only if the plaintiff notifies the chief election officer of the State of the noncompliance and a period of 45 days has elapsed since the date of notification.
-
-    (c) __Attorney fees__ 
-
-        Notwithstanding any other provision of law, no award of attorney fees may be made with respect to an action under this section, except in any action brought to enforce the original judgment of the court.
-
-([Pub. L. 98–435, § 6][/us/pl/98/435/s6], Sept. 28, 1984, [98 Stat. 1679][/us/stat/98/1679].)
+    Section 1973ee–4 was editorially reclassified as [section 20105 of Title 52][/us/usc/t52/s20105], Voting and Elections.
 
 ----------
 
@@ -36,7 +26,6 @@
 ----------
 ----------
 
-[/us/pl/98/435/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F435%2Fs6
-[/us/stat/98/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1679
+[/us/usc/t52/s20105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20105
 
 

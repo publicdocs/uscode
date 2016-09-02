@@ -13,17 +13,11 @@
 
 [Previous](./../../../../../../..//us/usc/t42/ch146/schII/ptD/spt3/m__us_usc_t42_s15441.md) | [Next](./../../../../../../..//us/usc/t42/ch146/schII/ptD/spt3/m__us_usc_t42_s15443.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15442)
 
-## § 15442. Report
+## § 15442. Transferred
 
-    (a) __In general__ 
+ __Codification__ 
 
-        Each entity which receives a grant under this subpart shall submit to the Commission a report describing the activities carried out with the funds provided under the grant.
-
-    (b) __Deadline__ 
-
-        An entity shall submit a report required under subsection (a) of this section not later than 60 days after the end of the fiscal year for which the entity received the grant which is the subject of the report.
-
-([Pub. L. 107–252, title II, § 272][/us/pl/107/252/s272], Oct. 29, 2002, [116 Stat. 1700][/us/stat/116/1700].)
+    Section 15442 was editorially reclassified as [section 21042 of Title 52][/us/usc/t52/s21042], Voting and Elections.
 
 ----------
 
@@ -32,7 +26,6 @@
 ----------
 ----------
 
-[/us/pl/107/252/s272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2Fs272
-[/us/stat/116/1700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1700
+[/us/usc/t52/s21042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs21042
 
 

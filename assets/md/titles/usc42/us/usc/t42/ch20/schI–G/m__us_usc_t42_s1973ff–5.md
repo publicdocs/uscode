@@ -13,11 +13,11 @@
 
 [Previous](./../../../../..//us/usc/t42/ch20/schI–G/m__us_usc_t42_s1973ff–4a.md) | [Next](./../../../../..//us/usc/t42/ch20/schI–G/m__us_usc_t42_s1973ff–6.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973ff%E2%80%935)
 
-## § 1973ff–5. Effect on certain other laws
+## § 1973ff–5. Transferred
 
-    The exercise of any right under this subchapter shall not affect, for purposes of any Federal, State, or local tax, the residence or domicile of a person exercising such right.
+ __Codification__ 
 
-([Pub. L. 99–410, title I, § 106][/us/pl/99/410/s106], Aug. 28, 1986, [100 Stat. 927][/us/stat/100/927].)
+    Section 1973ff–5 was editorially reclassified as [section 20309 of Title 52][/us/usc/t52/s20309], Voting and Elections.
 
 ----------
 
@@ -26,7 +26,6 @@
 ----------
 ----------
 
-[/us/pl/99/410/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410%2Fs106
-[/us/stat/100/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F927
+[/us/usc/t52/s20309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20309
 
 

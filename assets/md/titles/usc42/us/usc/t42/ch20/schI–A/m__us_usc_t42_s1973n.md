@@ -13,11 +13,11 @@
 
 [Previous](./../../../../..//us/usc/t42/ch20/schI–A/m__us_usc_t42_s1973m.md) | [Next](./../../../../..//us/usc/t42/ch20/schI–A/m__us_usc_t42_s1973o.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973n)
 
-## § 1973n. Impairment of voting rights of persons holding current registration
+## § 1973n. Transferred
 
-    Nothing in subchapters I–A to I–C of this chapter shall be construed to deny, impair, or otherwise adversely affect the right to vote of any person registered to vote under the law of any State or political subdivision.
+ __Codification__ 
 
-([Pub. L. 89–110, title I, § 17][/us/pl/89/110/s17], Aug. 6, 1965, [79 Stat. 446][/us/stat/79/446]; renumbered title I, [Pub. L. 91–285, § 2][/us/pl/91/285/s2], June 22, 1970, [84 Stat. 314][/us/stat/84/314].)
+    Section 1973n was editorially reclassified as [section 10311 of Title 52][/us/usc/t52/s10311], Voting and Elections.
 
 ----------
 
@@ -26,9 +26,6 @@
 ----------
 ----------
 
-[/us/pl/89/110/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F110%2Fs17
-[/us/stat/79/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F446
-[/us/pl/91/285/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F285%2Fs2
-[/us/stat/84/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F314
+[/us/usc/t52/s10311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs10311
 
 

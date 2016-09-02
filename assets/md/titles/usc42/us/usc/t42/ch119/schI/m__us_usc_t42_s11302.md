@@ -77,7 +77,11 @@
 
         Any references in this chapter to homeless individuals (including homeless persons) or homeless groups (including homeless persons) shall be considered to include, and to refer to, individuals experiencing homelessness or groups experiencing homelessness, respectively.
 
-([Pub. L. 100–77, title I, § 103][/us/pl/100/77/s103], July 22, 1987, [101 Stat. 485][/us/stat/101/485]; [Pub. L. 101–625, title VIII, § 822][/us/pl/101/625/s822], Nov. 28, 1990, [104 Stat. 4355][/us/stat/104/4355]; [Pub. L. 101–645, title VI, § 602][/us/pl/101/645/s602], Nov. 29, 1990, [104 Stat. 4734][/us/stat/104/4734]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(41), (f)(32)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–427, 2681–434; [Pub. L. 111–22, div. B, § 1003(a)][/us/pl/111/22/s1003/a], title V, § 1502(b), May 20, 2009, [123 Stat. 1664][/us/stat/123/1664], 1701.)
+([Pub. L. 100–77, title I, § 103][/us/pl/100/77/s103], July 22, 1987, [101 Stat. 485][/us/stat/101/485]; [Pub. L. 101–625, title VIII, § 822][/us/pl/101/625/s822], Nov. 28, 1990, [104 Stat. 4355][/us/stat/104/4355]; [Pub. L. 101–645, title VI, § 602][/us/pl/101/645/s602], Nov. 29, 1990, [104 Stat. 4734][/us/stat/104/4734]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(41), (f)(32)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–427, 2681–434; [Pub. L. 111–22, div. B, § 1003(a)][/us/pl/111/22/s1003/a], title V, § 1502(b), May 20, 2009, [123 Stat. 1664][/us/stat/123/1664], 1701; [Pub. L. 113–128, title V, § 512(s)][/us/pl/113/128/s512/s], July 22, 2014, [128 Stat. 1712][/us/stat/128/1712].)
+
+ __Amendment of Subsection (c)(2)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(s), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1712, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (c)(2) of this section is amended by striking “a homeless individual shall be eligible for assistance under title I of the Workforce Investment Act of 1998” and inserting “a homeless individual shall be eligible for assistance under title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -86,6 +90,8 @@
     The Workforce Investment Act of 1998, referred to in subsec. (c)(2), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936]. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (c)(2). [Pub. L. 113–128][/us/pl/113/128] substituted “a homeless individual shall be eligible for assistance under title I of the Workforce Innovation and Opportunity Act” for “a homeless individual shall be eligible for assistance under title I of the Workforce Investment Act of 1998”.
 
     2009—[Pub. L. 111–22][/us/pl/111/22] added subsecs. (a), (b), and (e), redesignated former subsecs. (b) and (c) as (c) and (d), respectively, and struck out former subsec. (a) which defined “homeless” or “homeless individual or homeless person”.
 
@@ -96,6 +102,10 @@
     1990—Subsec. (a). [Pub. L. 101–625][/us/pl/101/625] inserted “or homeless person” after “homeless individual” in introductory provisions.
 
     Subsec. (b). [Pub. L. 101–645][/us/pl/101/645] amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “A homeless individual shall be eligible for assistance under any program provided by this chapter, or by the amendments made by this Act, only if the individual complies with the income eligibility requirements otherwise applicable to such program.”
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -143,17 +153,25 @@
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/pl/111/22/s1003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1003%2Fa
 [/us/stat/123/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1664
+[/us/pl/113/128/s512/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fs
+[/us/stat/128/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1712
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77
 [/us/stat/101/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F482
 [/us/usc/t42/s11301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11301
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
 [/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
 [/us/pl/101/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/111/22/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs1503
 [/us/stat/123/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1702
 [/us/usc/t42/s11301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11301

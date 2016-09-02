@@ -13,15 +13,11 @@
 
 [Previous](./../../../../../..//us/usc/t42/ch146/schIII/ptA/m__us_usc_t42_s15484.md) | [Next](./../../../../../..//us/usc/t42/ch146/schIII/ptB/m__us_usc_t42_ch146_schIII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15485)
 
-## § 15485. Methods of implementation left to discretion of State
+## § 15485. Transferred
 
-    The specific choices on the methods of complying with the requirements of this subchapter shall be left to the discretion of the State.
+ __Codification__ 
 
-([Pub. L. 107–252, title III, § 305][/us/pl/107/252/s305], Oct. 29, 2002, [116 Stat. 1714][/us/stat/116/1714].)
-
- __References in Text__ 
-
-    This subchapter, referred to in text, was in the original “this title”, meaning title III of [Pub. L. 107–252][/us/pl/107/252], Oct. 29, 2002, [116 Stat. 1704][/us/stat/116/1704], which is classified principally to this subchapter. For complete classification of title III to the Code, see Tables.
+    Section 15485 was editorially reclassified as [section 21085 of Title 52][/us/usc/t52/s21085], Voting and Elections.
 
 ----------
 
@@ -30,9 +26,6 @@
 ----------
 ----------
 
-[/us/pl/107/252/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2Fs305
-[/us/stat/116/1714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1714
-[/us/pl/107/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252
-[/us/stat/116/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1704
+[/us/usc/t52/s21085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs21085
 
 

@@ -151,7 +151,11 @@
 
         For fiscal year 2000, to be eligible to receive a grant or allotment under section 9905 or 9906 of this title, a State shall prepare and submit to the Secretary an application and State plan in accordance with the provisions of this chapter (as in effect on the day before October 27, 1998), rather than the provisions of subsections (a) through (c) of this section relating to applications and plans.
 
-([Pub. L. 97–35, title VI, § 676][/us/pl/97/35/s676], as added [Pub. L. 105–285, title II, § 201][/us/pl/105/285/s201], Oct. 27, 1998, [112 Stat. 2735][/us/stat/112/2735].)
+([Pub. L. 97–35, title VI, § 676][/us/pl/97/35/s676], as added [Pub. L. 105–285, title II, § 201][/us/pl/105/285/s201], Oct. 27, 1998, [112 Stat. 2735][/us/stat/112/2735]; amended [Pub. L. 113–128, title V, § 512(f)][/us/pl/113/128/s512/f], July 22, 2014, [128 Stat. 1707][/us/stat/128/1707].)
+
+ __Amendment of Subsection (b)(5)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(f), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1707, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (b)(5) of this section is amended by striking “the eligible entities will coordinate the provision of employment and training activities, as defined in section 101 of such Act, in the State and in communities with entities providing activities through statewide and local workforce investment systems under the Workforce Investment Act of 1998” and inserting “the eligible entities will coordinate the provision of employment and training activities, as defined in section 3 of the Workforce Innovation and Opportunity Act, in the State and in communities with entities providing activities through statewide and local workforce development systems under such Act”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -168,6 +172,14 @@
     A prior section 9908, [Pub. L. 97–35, title VI, § 679][/us/pl/97/35/s679], Aug. 13, 1981, [95 Stat. 517][/us/stat/95/517]; [Pub. L. 98–558, title II, § 205][/us/pl/98/558/s205], Oct. 30, 1984, [98 Stat. 2886][/us/stat/98/2886]; [Pub. L. 99–425, title IV, § 404(a)][/us/pl/99/425/s404/a], Sept. 30, 1986, [100 Stat. 969][/us/stat/100/969], related to withholding of funds, prior to the general amendment of this chapter by [Pub. L. 105–285][/us/pl/105/285].
 
     A prior [section 676 of Pub. L. 97–35][/us/pl/97/35/s676] was classified to [section 9905 of this title][/us/usc/t42/s9905], prior to the general amendment of this chapter by [Pub. L. 105–285][/us/pl/105/285].
+
+ __Amendments__ 
+
+    2014—Subsec. (b)(5). [Pub. L. 113–128][/us/pl/113/128] substituted “the eligible entities will coordinate the provision of employment and training activities, as defined in section 3 of the Workforce Innovation and Opportunity Act, in the State and in communities with entities providing activities through statewide and local workforce development systems under such Act” for “the eligible entities will coordinate the provision of employment and training activities, as defined in section 101 of such Act, in the State and in communities with entities providing activities through statewide and local workforce investment systems under the Workforce Investment Act of 1998”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -191,6 +203,10 @@
 [/us/pl/97/35/s676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs676
 [/us/pl/105/285/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs201
 [/us/stat/112/2735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2735
+[/us/pl/113/128/s512/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Ff
+[/us/stat/128/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1707
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -212,5 +228,9 @@
 [/us/pl/97/35/s676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs676
 [/us/usc/t42/s9905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9905
 [/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

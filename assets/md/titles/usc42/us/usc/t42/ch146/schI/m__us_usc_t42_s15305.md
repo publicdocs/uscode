@@ -13,11 +13,11 @@
 
 [Previous](./../../../../..//us/usc/t42/ch146/schI/m__us_usc_t42_s15304.md) | [Next](./../../../../..//us/usc/t42/ch146/schI/m__us_usc_t42_s15306.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15305)
 
-## § 15305. Administration of programs
+## § 15305. Transferred
 
-    In administering the programs under this subchapter, the Administrator shall take such actions as the Administrator considers appropriate to expedite the payment of funds to States.
+ __Codification__ 
 
-([Pub. L. 107–252, title I, § 105][/us/pl/107/252/s105], Oct. 29, 2002, [116 Stat. 1673][/us/stat/116/1673].)
+    Section 15305 was editorially reclassified as [section 20905 of Title 52][/us/usc/t52/s20905], Voting and Elections.
 
 ----------
 
@@ -26,7 +26,6 @@
 ----------
 ----------
 
-[/us/pl/107/252/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2Fs105
-[/us/stat/116/1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1673
+[/us/usc/t52/s20905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20905
 
 

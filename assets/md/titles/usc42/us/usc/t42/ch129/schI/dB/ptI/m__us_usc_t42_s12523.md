@@ -123,7 +123,11 @@
 
             (B) create and sustain effective partnerships for service-learning programs between local educational agencies, community-based entities, businesses, and other stakeholders.
 
-([Pub. L. 101–610, title I, § 112][/us/pl/101/610/s112], as added [Pub. L. 111–13, title I, § 1201][/us/pl/111/13/s1201], Apr. 21, 2009, [123 Stat. 1468][/us/stat/123/1468].)
+([Pub. L. 101–610, title I, § 112][/us/pl/101/610/s112], as added [Pub. L. 111–13, title I, § 1201][/us/pl/111/13/s1201], Apr. 21, 2009, [123 Stat. 1468][/us/stat/123/1468]; amended [Pub. L. 113–128, title V, § 512(u)(1)][/us/pl/113/128/s512/u/1], July 22, 2014, [128 Stat. 1712][/us/stat/128/1712].)
+
+ __Amendment of Subsection (a)(3)(B)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(u)(1), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1712, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a)(3)(B) of this section is amended by striking “or who may participate in a Youthbuild program under [section 2918a of title 29][/us/usc/t29/s2918a]” and inserting “or who may participate in a Youthbuild program under [section 3226 of title 29][/us/usc/t29/s3226]”. See 2014 Amendment note below.
 
  __Prior Provisions__ 
 
@@ -134,6 +138,14 @@
     A prior [section 112 of Pub. L. 101–610][/us/pl/101/610/s112] was classified to section 12524 prior to the general amendment of this part by [Pub. L. 111–13][/us/pl/111/13].
 
     Another prior [section 112 of Pub. L. 101–610][/us/pl/101/610/s112] was classified to [section 12522 of this title][/us/usc/t42/s12522] prior to repeal by [Pub. L. 103–82][/us/pl/103/82].
+
+ __Amendments__ 
+
+    2014—Subsec. (a)(3)(B). [Pub. L. 113–128][/us/pl/113/128] substituted “or who may participate in a Youthbuild program under [section 3226 of title 29][/us/usc/t29/s3226]” for “or who may participate in a Youthbuild program under [section 2918a of title 29][/us/usc/t29/s2918a]”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -151,6 +163,12 @@
 [/us/pl/101/610/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs112
 [/us/pl/111/13/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs1201
 [/us/stat/123/1468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1468
+[/us/pl/113/128/s512/u/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fu%2F1
+[/us/stat/128/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1712
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
+[/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
 [/us/pl/101/610/s111B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs111B
 [/us/pl/103/82/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs103%2Fa%2F2
 [/us/stat/107/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F827
@@ -165,5 +183,9 @@
 [/us/pl/101/610/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs112
 [/us/usc/t42/s12522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12522
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
+[/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

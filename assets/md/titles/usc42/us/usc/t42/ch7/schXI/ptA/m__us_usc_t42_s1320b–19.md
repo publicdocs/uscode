@@ -327,7 +327,11 @@
 
         Not later than 1 year after December 17, 1999, the Commissioner shall prescribe such regulations as are necessary to carry out the provisions of this section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1148, as added [Pub. L. 106–170, title I, § 101(a)][/us/pl/106/170/s101/a], Dec. 17, 1999, [113 Stat. 1863][/us/stat/113/1863]; amended [Pub. L. 108–203, title IV, § 405(a)][/us/pl/108/203/s405/a], Mar. 2, 2004, [118 Stat. 526][/us/stat/118/526].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1148, as added [Pub. L. 106–170, title I, § 101(a)][/us/pl/106/170/s101/a], Dec. 17, 1999, [113 Stat. 1863][/us/stat/113/1863]; amended [Pub. L. 108–203, title IV, § 405(a)][/us/pl/108/203/s405/a], Mar. 2, 2004, [118 Stat. 526][/us/stat/118/526]; [Pub. L. 113–128, title V, § 512(dd)(2)][/us/pl/113/128/s512/dd/2], July 22, 2014, [128 Stat. 1718][/us/stat/128/1718].)
+
+ __Amendment of Subsection (f)(1)(B)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(dd)(2), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1718, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (f)(1)(B) of this section is amended by striking “a one-stop delivery system established under subtitle B of title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2811][/us/usc/t29/s2811] et seq.)” and inserting “a one-stop delivery system established under [section 3151(e) of title 29][/us/usc/t29/s3151/e]”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -341,7 +345,13 @@
 
  __Amendments__ 
 
+    2014—Subsec. (f)(1)(B). [Pub. L. 113–128][/us/pl/113/128] substituted “a one-stop delivery system established under [section 3151(e) of title 29][/us/usc/t29/s3151/e]” for “a one-stop delivery system established under subtitle B of title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2811][/us/usc/t29/s2811] et seq.)”.
+
     2004—Subsec. (g)(1). [Pub. L. 108–203][/us/pl/108/203] inserted concluding provisions.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2004 Amendment__ 
 
@@ -722,6 +732,12 @@
 [/us/stat/113/1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1863
 [/us/pl/108/203/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs405%2Fa
 [/us/stat/118/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F526
+[/us/pl/113/128/s512/dd/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fdd%2F2
+[/us/stat/128/1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1718
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2811
+[/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
@@ -729,7 +745,11 @@
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
 [/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
 [/us/pl/106/170/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Ff
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
+[/us/usc/t29/s2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2811
 [/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/108/203/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs405%2Fb
 [/us/stat/118/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F527
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170

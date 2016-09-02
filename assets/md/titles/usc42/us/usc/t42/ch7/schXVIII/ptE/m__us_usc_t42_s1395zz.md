@@ -147,7 +147,7 @@
 
 >     “(d) __GAO__  __Evaluation__  __.—__ 
 
->     Not later than 2 years after the date the demonstration program is first implemented, the Comptroller General, in consultation with the Inspector General of ‘the Department of Health and Human Services, shall conduct an evaluation of the demonstration program. The evaluation shall include a determination of whether claims error rates are reduced for small providers of services or suppliers who participated in the program and the extent of improper payments made as a result of the demonstration program. The Comptroller General shall submit a report to the Secretary and the Congress on such evaluation and shall include in such report recommendations regarding the continuation or extension of the demonstration program.
+>     Not later than 2 years after the date the demonstration program is first implemented, the Comptroller General, in consultation with the Inspector General of the Department of Health and Human Services, shall conduct an evaluation of the demonstration program. The evaluation shall include a determination of whether claims error rates are reduced for small providers of services or suppliers who participated in the program and the extent of improper payments made as a result of the demonstration program. The Comptroller General shall submit a report to the Secretary and the Congress on such evaluation and shall include in such report recommendations regarding the continuation or extension of the demonstration program.
 
 >     “(e)  __Financial Participation by Providers__  __.—__ 
 

@@ -33,7 +33,11 @@
 
             The Secretary shall consult with the Secretary of Education to promote and coordinate efforts to carry out projects under this subchapter jointly with activities in which eligible individuals may participate that are carried out under the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301][/us/usc/t20/s2301] et seq.).
 
-([Pub. L. 89–73, title V, § 505][/us/pl/89/73/s505], as added [Pub. L. 109–365, title V, § 501][/us/pl/109/365/s501], Oct. 17, 2006, [120 Stat. 2575][/us/stat/120/2575].)
+([Pub. L. 89–73, title V, § 505][/us/pl/89/73/s505], as added [Pub. L. 109–365, title V, § 501][/us/pl/109/365/s501], Oct. 17, 2006, [120 Stat. 2575][/us/stat/120/2575]; amended [Pub. L. 113–128, title V, § 512(w)(5)][/us/pl/113/128/s512/w/5], July 22, 2014, [128 Stat. 1715][/us/stat/128/1715].)
+
+ __Amendment of Subsection (c)(1)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(w)(5), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1715, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (c)(1) of this section is amended by striking “activities carried out under other Acts, especially activities provided under the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.), including activities provided through one-stop delivery systems established under section 134(c)) of such Act ([29 U.S.C. 2864(c)][/us/usc/t29/s2864/c]),” and inserting “activities carried out under other Acts, especially activities provided under the Workforce Innovation and Opportunity Act, including activities provided through one-stop delivery systems established under section 121(e) of such Act,”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -49,6 +53,14 @@
 
     Another prior [section 505 of Pub. L. 89–73][/us/pl/89/73/s505] was classified to [section 3041d of this title][/us/usc/t42/s3041d], prior to repeal by [Pub. L. 95–478][/us/pl/95/478].
 
+ __Amendments__ 
+
+    2014—Subsec. (c)(1). [Pub. L. 113–128][/us/pl/113/128] substituted “activities carried out under other Acts, especially activities provided under the Workforce Innovation and Opportunity Act, including activities provided through one-stop delivery systems established under section 121(e) of such Act,” for “activities carried out under other Acts, especially activities provided under the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.), including activities provided through one-stop delivery systems established under section 134(c)) of such Act ([29 U.S.C. 2864(c)][/us/usc/t29/s2864/c]),”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t42/ch35/schIX/m__us_usc_t42_s3056b.md) | [Next](./../../../../..//us/usc/t42/ch35/schIX/m__us_usc_t42_s3056d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3056c)
@@ -62,6 +74,12 @@
 [/us/pl/89/73/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs505
 [/us/pl/109/365/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs501
 [/us/stat/120/2575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2575
+[/us/pl/113/128/s512/w/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fw%2F5
+[/us/stat/128/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1715
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
 [/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
@@ -93,5 +111,9 @@
 [/us/pl/89/73/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73%2Fs505
 [/us/usc/t42/s3041d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3041d
 [/us/pl/95/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

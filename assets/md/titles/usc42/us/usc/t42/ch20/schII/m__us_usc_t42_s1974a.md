@@ -13,11 +13,11 @@
 
 [Previous](./../../../../..//us/usc/t42/ch20/schII/m__us_usc_t42_s1974.md) | [Next](./../../../../..//us/usc/t42/ch20/schII/m__us_usc_t42_s1974b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1974a)
 
-## § 1974a. Theft, destruction, concealment, mutilation, or alteration of records or papers; penalties
+## § 1974a. Transferred
 
-    Any person, whether or not an officer of election or custodian, who willfully steals, destroys, conceals, mutilates, or alters any record or paper required by [section 1974 of this title][/us/usc/t42/s1974] to be retained and preserved shall be fined not more than $1,000 or imprisoned not more than one year, or both.
+ __Codification__ 
 
-([Pub. L. 86–449, title III, § 302][/us/pl/86/449/s302], May 6, 1960, [74 Stat. 88][/us/stat/74/88].)
+    Section 1974a was editorially reclassified as [section 20702 of Title 52][/us/usc/t52/s20702], Voting and Elections.
 
 ----------
 
@@ -26,8 +26,6 @@
 ----------
 ----------
 
-[/us/usc/t42/s1974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1974
-[/us/pl/86/449/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F449%2Fs302
-[/us/stat/74/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F88
+[/us/usc/t52/s20702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20702
 
 

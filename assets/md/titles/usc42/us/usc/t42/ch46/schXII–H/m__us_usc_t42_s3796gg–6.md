@@ -39,7 +39,7 @@
 
         (1)
 
-         any person providing legal assistance through a program funded under subsection (c) of this section—”
+         any person providing legal assistance through a program funded under subsection (c) of this section—”  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The closing quotation marks probably should not appear. </sup></sup> 
 
             (A) has demonstrated expertise in providing legal assistance to victims of domestic violence, dating violence, sexual assault, or stalking in the targeted population; or
 

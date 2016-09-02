@@ -13,23 +13,11 @@
 
 [Previous](./../../../../../../..//us/usc/t42/ch146/schII/ptD/spt2/m__us_usc_t42_s15423.md) | [Next](./../../../../../../..//us/usc/t42/ch146/schII/ptD/spt2/m__us_usc_t42_s15425.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15424)
 
-## § 15424. Authorization of appropriations
+## § 15424. Transferred
 
-    (a) __In general__ 
+ __Codification__ 
 
-    There are authorized to be appropriated to carry out the provisions of this subpart the following amounts:
-
-        (1) For fiscal year 2003, $50,000,000.
-
-        (2) For fiscal year 2004, $25,000,000.
-
-        (3) For fiscal year 2005, $25,000,000.
-
-    (b) __Availability__ 
-
-        Any amounts appropriated pursuant to the authority of subsection (a) of this section shall remain available without fiscal year limitation until expended.
-
-([Pub. L. 107–252, title II, § 264][/us/pl/107/252/s264], Oct. 29, 2002, [116 Stat. 1699][/us/stat/116/1699].)
+    Section 15424 was editorially reclassified as [section 21024 of Title 52][/us/usc/t52/s21024], Voting and Elections.
 
 ----------
 
@@ -38,7 +26,6 @@
 ----------
 ----------
 
-[/us/pl/107/252/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2Fs264
-[/us/stat/116/1699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1699
+[/us/usc/t52/s21024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs21024
 
 

@@ -163,7 +163,11 @@
 
         It is the sense of the Congress that every State have an area health education center program in effect under this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 751, as added [Pub. L. 105–392, title I, § 103][/us/pl/105/392/s103], Nov. 13, 1998, [112 Stat. 3541][/us/stat/112/3541]; amended [Pub. L. 111–148, title V, § 5403(a)][/us/pl/111/148/s5403/a], Mar. 23, 2010, [124 Stat. 644][/us/stat/124/644].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 751, as added [Pub. L. 105–392, title I, § 103][/us/pl/105/392/s103], Nov. 13, 1998, [112 Stat. 3541][/us/stat/112/3541]; amended [Pub. L. 111–148, title V, § 5403(a)][/us/pl/111/148/s5403/a], Mar. 23, 2010, [124 Stat. 644][/us/stat/124/644]; [Pub. L. 113–128, title V, § 512(z)(2)][/us/pl/113/128/s512/z/2], July 22, 2014, [128 Stat. 1716][/us/stat/128/1716].)
+
+ __Amendment of Subsection (c)(1)(A)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(z)(2), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1716, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (c)(1)(A) of this section is amended by striking “the applicable one-stop delivery system under [section 2864(c) of title 29][/us/usc/t29/s2864/c],” and inserting “the applicable one-stop delivery system under [section 3151(e) of title 29][/us/usc/t29/s3151/e],”. See 2014 Amendment note below.
 
  __Prior Provisions__ 
 
@@ -181,7 +185,13 @@
 
  __Amendments__ 
 
+    2014—Subsec. (c)(1)(A). [Pub. L. 113–128][/us/pl/113/128] substituted “the applicable one-stop delivery system under [section 3151(e) of title 29][/us/usc/t29/s3151/e],” for “the applicable one-stop delivery system under [section 2864(c) of title 29][/us/usc/t29/s2864/c],”.
+
     2010—[Pub. L. 111–148][/us/pl/111/148] amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) which related to authority for provision of financial assistance, requirements for centers, and allocations and costs.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Waiver of Requirements__ 
 
@@ -203,6 +213,12 @@
 [/us/stat/112/3541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3541
 [/us/pl/111/148/s5403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5403%2Fa
 [/us/stat/124/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F644
+[/us/pl/113/128/s512/z/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fz%2F2
+[/us/stat/128/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1716
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
+[/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
 [/us/stat/106/2046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2046
@@ -251,7 +267,11 @@
 [/us/pl/102/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408
 [/us/usc/t42/s294t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294t
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
+[/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/stat/128/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F363
 [/us/usc/t42/s294a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294a

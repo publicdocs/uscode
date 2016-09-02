@@ -27,7 +27,7 @@
 
     The Secretary shall, subject to the availability of appropriations, establish and evaluate activities to—
 
-        (1) provide information and education on autism spectrum disorder and other developmental disabilities to increase public awareness of developmental milestones;
+        (1) provide culturally competent information and education on autism spectrum disorder and other developmental disabilities to increase public awareness of developmental milestones;
 
         (2) promote research into the development and validation of reliable screening tools for autism spectrum disorder and other developmental disabilities and disseminate information regarding those screening tools;
 
@@ -81,7 +81,7 @@
 
                 (i) to designate a public agency as a lead agency to coordinate the activities provided for under paragraph (1) in the State at the State level; and
 
-                (ii) acting through such lead agency, to make available to individuals and their family members, guardians, advocates, or authorized representatives; providers; and other appropriate individuals in the State, comprehensive culturally competent information about State and local resources regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, available services and supports, and evidence-based interventions.
+                (ii) acting through such lead agency, to make available to individuals and their family members, guardians, advocates, or authorized representatives; providers; and other appropriate individuals in the State, comprehensive culturally competent information about State and local resources regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, available services and supports (which may include respite care for caregivers of individuals with an autism spectrum disorder), and evidence-based interventions.
 
             (B) __Requirements of agency__ 
 
@@ -149,7 +149,7 @@
 
                 (iv) demonstrate a capacity to evaluate, diagnose or rule out, develop, and provide evidence-based interventions to individuals with autism spectrum disorder and other developmental disabilities; and
 
-                (v) demonstrate an ability to use a family-centered approach; and
+                (v) demonstrate an ability to use a family-centered approach, which may include collaborating with research centers or networks to provide training for providers of respite care (as defined in [section 300ii of this title][/us/usc/t42/s300ii]); and
 
             (C) program sites provide culturally competent services.
 
@@ -163,13 +163,13 @@
 
     (f) __Intervention__ 
 
-        The Secretary shall promote research, through grants or contracts, to determine the evidence-based practices for interventions for individuals with autism spectrum disorder or other developmental disabilities, develop guidelines for those interventions, and disseminate information related to such research and guidelines.
+        The Secretary shall promote research, through grants or contracts, which may include grants or contracts to research centers or networks, to determine the evidence-based practices for interventions to improve the physical and behavioral health of individuals with autism spectrum disorder or other developmental disabilities, develop guidelines for those interventions, and disseminate information related to such research and guidelines.
 
     (g) __Sunset__ 
 
-        This section shall not apply after September 30, 2014.
+        This section shall not apply after September 30, 2019.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399BB, as added [Pub. L. 109–416, § 3(a)][/us/pl/109/416/s3/a], Dec. 19, 2006, [120 Stat. 2823][/us/stat/120/2823]; amended [Pub. L. 112–32, § 2(2)][/us/pl/112/32/s2/2], Sept. 30, 2011, [125 Stat. 361][/us/stat/125/361].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399BB, as added [Pub. L. 109–416, § 3(a)][/us/pl/109/416/s3/a], Dec. 19, 2006, [120 Stat. 2823][/us/stat/120/2823]; amended [Pub. L. 112–32, § 2(2)][/us/pl/112/32/s2/2], Sept. 30, 2011, [125 Stat. 361][/us/stat/125/361]; [Pub. L. 113–157, § 4][/us/pl/113/157/s4], Aug. 8, 2014, [128 Stat. 1831][/us/stat/128/1831].)
 
  __References in Text__ 
 
@@ -184,6 +184,16 @@
     The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (d)(2)(A), is [Pub. L. 106–402][/us/pl/106/402], Oct. 30, 2000, [114 Stat. 1677][/us/stat/114/1677], which is classified principally to chapter 144 (§ 15001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 15001 of this title][/us/usc/t42/s15001] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (b)(1). [Pub. L. 113–157, § 4(1)][/us/pl/113/157/s4/1], inserted “culturally competent” after “provide”.
+
+    Subsec. (c)(2)(A)(ii). [Pub. L. 113–157, § 4(2)][/us/pl/113/157/s4/2], inserted “(which may include respite care for caregivers of individuals with an autism spectrum disorder)” after “services and supports”.
+
+    Subsec. (e)(1)(B)(v). [Pub. L. 113–157, § 4(3)][/us/pl/113/157/s4/3], inserted before semicolon “, which may include collaborating with research centers or networks to provide training for providers of respite care (as defined in [section 300ii of this title][/us/usc/t42/s300ii])”.
+
+    Subsec. (f). [Pub. L. 113–157, § 4(4)][/us/pl/113/157/s4/4], substituted “grants or contracts, which may include grants or contracts to research centers or networks, to determine the evidence-based practices for interventions to improve the physical and behavioral health of individuals with” for “grants or contracts, to determine the evidence-based practices for interventions for individuals with”.
+
+    Subsec. (g). [Pub. L. 113–157, § 4(5)][/us/pl/113/157/s4/5], substituted “2019” for “2014”.
 
     2011—Subsec. (g). [Pub. L. 112–32][/us/pl/112/32] substituted “2014” for “2011”.
 
@@ -207,11 +217,14 @@
 [/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
 [/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
 [/us/usc/t42/s701/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701%2Fa%2F2
+[/us/usc/t42/s300ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ii
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/pl/109/416/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F416%2Fs3%2Fa
 [/us/stat/120/2823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2823
 [/us/pl/112/32/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F32%2Fs2%2F2
 [/us/stat/125/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F361
+[/us/pl/113/157/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs4
+[/us/stat/128/1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1831
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/101/508/s5082/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5082%2F2
 [/us/stat/104/1388-236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-236
@@ -228,6 +241,12 @@
 [/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
 [/us/stat/114/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1677
 [/us/usc/t42/s15001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15001
+[/us/pl/113/157/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs4%2F1
+[/us/pl/113/157/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs4%2F2
+[/us/pl/113/157/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs4%2F3
+[/us/usc/t42/s300ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ii
+[/us/pl/113/157/s4/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs4%2F4
+[/us/pl/113/157/s4/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs4%2F5
 [/us/pl/112/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F32
 
 

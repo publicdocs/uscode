@@ -63,7 +63,11 @@
 
         (2) the term “exceptional circumstances” means circumstances in which a youth would benefit to an unusual extent from additional time in the program.
 
-([Pub. L. 93–415, title III, § 322][/us/pl/93/415/s322], as added [Pub. L. 100–690, title VII, § 7273(f)][/us/pl/100/690/s7273/f], Nov. 18, 1988, [102 Stat. 4456][/us/stat/102/4456]; amended [Pub. L. 102–586, § 3(f)][/us/pl/102/586/s3/f], Nov. 4, 1992, [106 Stat. 5022][/us/stat/106/5022]; [Pub. L. 106–71, § 3(f)][/us/pl/106/71/s3/f], Oct. 12, 1999, [113 Stat. 1038][/us/stat/113/1038]; [Pub. L. 108–96, title I][/us/pl/108/96], §§ 107, 108, 110, 111, Oct. 10, 2003, [117 Stat. 1168][/us/stat/117/1168], 1169; [Pub. L. 110–378, § 4][/us/pl/110/378/s4], Oct. 8, 2008, [122 Stat. 4069][/us/stat/122/4069].)
+([Pub. L. 93–415, title III, § 322][/us/pl/93/415/s322], as added [Pub. L. 100–690, title VII, § 7273(f)][/us/pl/100/690/s7273/f], Nov. 18, 1988, [102 Stat. 4456][/us/stat/102/4456]; amended [Pub. L. 102–586, § 3(f)][/us/pl/102/586/s3/f], Nov. 4, 1992, [106 Stat. 5022][/us/stat/106/5022]; [Pub. L. 106–71, § 3(f)][/us/pl/106/71/s3/f], Oct. 12, 1999, [113 Stat. 1038][/us/stat/113/1038]; [Pub. L. 108–96, title I][/us/pl/108/96], §§ 107, 108, 110, 111, Oct. 10, 2003, [117 Stat. 1168][/us/stat/117/1168], 1169; [Pub. L. 110–378, § 4][/us/pl/110/378/s4], Oct. 8, 2008, [122 Stat. 4069][/us/stat/122/4069]; [Pub. L. 113–128, title V, § 512(aa)][/us/pl/113/128/s512/aa], July 22, 2014, [128 Stat. 1717][/us/stat/128/1717].)
+
+ __Amendment of Subsection (a)(7)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(aa), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1717, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a)(7) of this section is amended by striking “(including services and programs for youth available under the Workforce Investment Act of 1998)” and inserting “(including services and programs for youth available under the Workforce Innovation and Opportunity Act)”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -74,6 +78,8 @@
     The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(15), is [Pub. L. 100–77][/us/pl/100/77], July 22, 1987, [101 Stat. 482][/us/stat/101/482], as amended. Subtitle B of title VII of the Act is classified generally to part B (§ 11431 et seq.) of subchapter VI of chapter 119 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of this title][/us/usc/t42/s11301] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(7). [Pub. L. 113–128][/us/pl/113/128] substituted “(including services and programs for youth available under the Workforce Innovation and Opportunity Act)” for “(including services and programs for youth available under the Workforce Investment Act of 1998)”.
 
     2008—Subsec. (a)(1). [Pub. L. 110–378, § 4(a)(1)][/us/pl/110/378/s4/a/1], substituted “by grant, agreement, or contract, shelter” for “directly or indirectly, shelter” and “and provide, by grant, agreement, or contract, services,” for “and services”.
 
@@ -99,6 +105,10 @@
 
     Subsec. (a)(13). [Pub. L. 102–586, § 3(f)(2)][/us/pl/102/586/s3/f/2], substituted “informed consent of the individual youth” for “consent of the individual youth and parent or legal guardian” and struck out “or a government agency involved in the disposition of criminal charges against youth” after “statistical records”.
 
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+
  __Effective Date__ 
 
     Section effective Oct. 1, 1988, see [section 7296(a) of Pub. L. 100–690][/us/pl/100/690/s7296/a], set out as an Effective Date of 1988 Amendment note under [section 5601 of this title][/us/usc/t42/s5601].
@@ -123,6 +133,10 @@
 [/us/stat/117/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1168
 [/us/pl/110/378/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F378%2Fs4
 [/us/stat/122/4069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4069
+[/us/pl/113/128/s512/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Faa
+[/us/stat/128/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1717
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
 [/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
@@ -132,6 +146,7 @@
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77
 [/us/stat/101/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F482
 [/us/usc/t42/s11301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11301
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/110/378/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F378%2Fs4%2Fa%2F1
 [/us/pl/110/378/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F378%2Fs4%2Fa%2F2
 [/us/pl/110/378/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F378%2Fs4%2Fa%2F3
@@ -144,6 +159,7 @@
 [/us/pl/106/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71
 [/us/pl/102/586/s3/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs3%2Ff%2F1
 [/us/pl/102/586/s3/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs3%2Ff%2F2
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/100/690/s7296/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7296%2Fa
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601
 

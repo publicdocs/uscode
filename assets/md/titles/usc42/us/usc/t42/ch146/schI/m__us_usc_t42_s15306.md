@@ -13,11 +13,11 @@
 
 [Previous](./../../../../..//us/usc/t42/ch146/schI/m__us_usc_t42_s15305.md) | [Next](./../../../../..//us/usc/t42/ch146/schII/m__us_usc_t42_ch146_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15306)
 
-## § 15306. Effective date
+## § 15306. Transferred
 
-    The Administrator shall implement the programs established under this subchapter in a manner that ensures that the Administrator is able to make payments under the program not later than the expiration of the 45-day period which begins on October 29, 2002.
+ __Codification__ 
 
-([Pub. L. 107–252, title I, § 106][/us/pl/107/252/s106], Oct. 29, 2002, [116 Stat. 1673][/us/stat/116/1673].)
+    Section 15306 was editorially reclassified as [section 20906 of Title 52][/us/usc/t52/s20906], Voting and Elections.
 
 ----------
 
@@ -26,7 +26,6 @@
 ----------
 ----------
 
-[/us/pl/107/252/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2Fs106
-[/us/stat/116/1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1673
+[/us/usc/t52/s20906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20906
 
 

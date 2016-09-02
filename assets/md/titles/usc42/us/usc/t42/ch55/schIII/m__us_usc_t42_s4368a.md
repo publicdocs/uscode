@@ -33,11 +33,15 @@
 
         Grants or agreements awarded under this section shall be subject to prior appropriation Acts.
 
-([Pub. L. 98–313, § 2][/us/pl/98/313/s2], June 12, 1984, [98 Stat. 235][/us/stat/98/235]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(35), (f)(27)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–426, 2681–434.)
+([Pub. L. 98–313, § 2][/us/pl/98/313/s2], June 12, 1984, [98 Stat. 235][/us/stat/98/235]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(35), (f)(27)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–426, 2681–434; [Pub. L. 113–128, title V, § 512(j)][/us/pl/113/128/s512/j], July 22, 2014, [128 Stat. 1709][/us/stat/128/1709].)
+
+ __Amendment of Subsection (a)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(j), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1709, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a) of this section is amended by striking “Funding for such grants or agreements may be made available from such programs or through title V of the Older Americans Act of 1965 and subtitle D of title I of the Workforce Investment Act of 1998” and inserting “Funding for such grants or agreements may be made available from such programs or through title V of the Older Americans Act of 1965 and subtitle D of title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
 
  __References in Text__ 
 
-    The Older Americans Act of 1965, referred to in subsec. (a), is [Pub. L. 89–73][/us/pl/89/73], July 14, 1965, [79 Stat. 218][/us/stat/79/218], as amended. Title V of the Act, known as the “Older American Community Service Employment Act”, is classified generally to subchapter IX (§ 3056 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title][/us/usc/t42/s3001] and Tables.
+    The Older Americans Act of 1965, referred to in subsec. (a), is [Pub. L. 89–73][/us/pl/89/73], July 14, 1965, [79 Stat. 218][/us/stat/79/218], which is classified generally to chapter 35 (§ 3001 et seq.) of this title. Title V of the Act, known as the “Community Service Senior Opportunities Act”, is classified generally to subchapter IX (§ 3056 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title][/us/usc/t42/s3001] and Tables.
 
     The Workforce Investment Act of 1998, referred to in subsec. (a), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. Subtitle D of title I of the Act is classified generally to subchapter IV (§ 2911 et seq.) of chapter 30 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
 
@@ -47,9 +51,15 @@
 
  __Amendments__ 
 
+    2014—Subsec. (a). [Pub. L. 113–128][/us/pl/113/128] substituted “Funding for such grants or agreements may be made available from such programs or through title V of the Older Americans Act of 1965 and subtitle D of title I of the Workforce Innovation and Opportunity Act” for “Funding for such grants or agreements may be made available from such programs or through title V of the Older Americans Act of 1965 and subtitle D of title I of the Workforce Investment Act of 1998”.
+
     1998—Subsec. (a). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(f)(27)\], struck out “title IV of the Job Training Partnership Act or” after “title V of the Older Americans Act of 1965 and” in last sentence.
 
     [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(35)\], substituted “and title IV of the Job Training Partnership Act or subtitle D of title I of the Workforce Investment Act of 1998” for “and title IV of the Job Training Partnership Act” in second sentence.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -74,14 +84,22 @@
 [/us/stat/98/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F235
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
+[/us/pl/113/128/s512/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fj
+[/us/stat/128/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1709
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
 [/us/stat/79/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F218
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
 [/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277

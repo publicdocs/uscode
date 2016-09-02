@@ -1733,7 +1733,7 @@
 
         (2) __Applicable computed tomography services defined__ 
 
-            In this subsection, the term “applicable computed tomography service” means a service billed using diagnostic radiological imaging codes for computed tomography (identified as of January 1, 2014, by HCPCS codes 70450–70498, 71250–71275, 72125–72133, 72191–72194, 73200–73206, 73700–73706, 74150–74178, 74261–74263, and 75571–75574 (and any succeeding codes). <sup>\[6\]</sup>  <sup><sup> 6 So in original. The period probably should be preceded by another closing parenthesis. </sup></sup> 
+            In this subsection, the term “applicable computed tomography service” means a service billed using diagnostic radiological imaging codes for computed tomography (identified as of January 1, 2014, by HCPCS codes 70450–70498, 71250–71275, 72125–72133, 72191–72194, 73200–73206, 73700–73706, 74150–74178, 74261–74263, and 75571–75574 (and any succeeding codes). <sup>\[5\]</sup>  <sup><sup> 5 So in original. The period probably should be preceded by another closing parenthesis. </sup></sup> 
 
         (3) __Applicable payment system defined__ 
 

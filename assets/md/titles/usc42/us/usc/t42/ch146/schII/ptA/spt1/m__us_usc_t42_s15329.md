@@ -13,11 +13,11 @@
 
 [Previous](./../../../../../../..//us/usc/t42/ch146/schII/ptA/spt1/m__us_usc_t42_s15328.md) | [Next](./../../../../../../..//us/usc/t42/ch146/schII/ptA/spt1/m__us_usc_t42_s15330.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15329)
 
-## § 15329. Limitation on rulemaking authority
+## § 15329. Transferred
 
-    The Commission shall not have any authority to issue any rule, promulgate any regulation, or take any other action which imposes any requirement on any State or unit of local government, except to the extent permitted under [section 1973gg–7(a) of this title][/us/usc/t42/s1973gg–7/a].
+ __Codification__ 
 
-([Pub. L. 107–252, title II, § 209][/us/pl/107/252/s209], Oct. 29, 2002, [116 Stat. 1678][/us/stat/116/1678].)
+    Section 15329 was editorially reclassified as [section 20929 of Title 52][/us/usc/t52/s20929], Voting and Elections.
 
 ----------
 
@@ -26,8 +26,6 @@
 ----------
 ----------
 
-[/us/usc/t42/s1973gg–7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973gg%E2%80%937%2Fa
-[/us/pl/107/252/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2Fs209
-[/us/stat/116/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1678
+[/us/usc/t52/s20929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20929
 
 

@@ -31,15 +31,21 @@
 
     (4) __Trauma__ 
 
-        The term “trauma” means an injury resulting from exposure to a mechanical force.
+    The term “trauma” means an injury resulting from exposure to—
+
+        (A) a mechanical force; or
+
+        (B) another extrinsic agent, including an extrinsic agent that is thermal, electrical, chemical, or radioactive.
 
     (5) __Trauma care component of State plan__ 
 
         The term “trauma care component”, with respect to components of the State plan for the provision of emergency medical services, means a plan for a comprehensive health care system, within rural and urban areas of the State, for the prompt recognition, prehospital care, emergency medical care, acute surgical and medical care, rehabilitation, and outcome evaluation of seriously injured patients.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1231, as added [Pub. L. 101–590, § 3][/us/pl/101/590/s3], Nov. 16, 1990, [104 Stat. 2926][/us/stat/104/2926]; amended [Pub. L. 102–321, title VI, § 602(2)][/us/pl/102/321/s602/2], July 10, 1992, [106 Stat. 436][/us/stat/106/436]; [Pub. L. 103–183, title VI, § 601(f)(4)][/us/pl/103/183/s601/f/4], Dec. 14, 1993, [107 Stat. 2239][/us/stat/107/2239].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1231, as added [Pub. L. 101–590, § 3][/us/pl/101/590/s3], Nov. 16, 1990, [104 Stat. 2926][/us/stat/104/2926]; amended [Pub. L. 102–321, title VI, § 602(2)][/us/pl/102/321/s602/2], July 10, 1992, [106 Stat. 436][/us/stat/106/436]; [Pub. L. 103–183, title VI, § 601(f)(4)][/us/pl/103/183/s601/f/4], Dec. 14, 1993, [107 Stat. 2239][/us/stat/107/2239]; [Pub. L. 113–152, § 2(a)][/us/pl/113/152/s2/a], Aug. 8, 2014, [128 Stat. 1825][/us/stat/128/1825].)
 
  __Amendments__ 
+
+    2014—Par. (4). [Pub. L. 113–152][/us/pl/113/152] amended par. (4) generally. Prior to amendment, text read as follows: “The term ‘trauma’ means an injury resulting from exposure to a mechanical force.”
 
     1993—Par. (3). [Pub. L. 103–183][/us/pl/103/183] substituted “Puerto Rico,” for “Puerto Rico;”.
 
@@ -64,6 +70,9 @@
 [/us/stat/106/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F436
 [/us/pl/103/183/s601/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183%2Fs601%2Ff%2F4
 [/us/stat/107/2239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2239
+[/us/pl/113/152/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F152%2Fs2%2Fa
+[/us/stat/128/1825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1825
+[/us/pl/113/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F152
 [/us/pl/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F183
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321
 [/us/pl/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321

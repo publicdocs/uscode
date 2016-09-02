@@ -13,11 +13,11 @@
 
 [Previous](./../../../../..//us/usc/t42/ch146/schIV/m__us_usc_t42_ch146_schIV.md) | [Next](./../../../../..//us/usc/t42/ch146/schIV/m__us_usc_t42_s15512.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15511)
 
-## § 15511. Actions by the Attorney General for declaratory and injunctive relief
+## § 15511. Transferred
 
-    The Attorney General may bring a civil action against any State or jurisdiction in an appropriate United States District Court for such declaratory and injunctive relief (including a temporary restraining order, a permanent or temporary injunction, or other order) as may be necessary to carry out the uniform and nondiscriminatory election technology and administration requirements under sections 15481, 15482, and 15483 of this title.
+ __Codification__ 
 
-([Pub. L. 107–252, title IV, § 401][/us/pl/107/252/s401], Oct. 29, 2002, [116 Stat. 1715][/us/stat/116/1715].)
+    Section 15511 was editorially reclassified as [section 21111 of Title 52][/us/usc/t52/s21111], Voting and Elections.
 
 ----------
 
@@ -26,7 +26,6 @@
 ----------
 ----------
 
-[/us/pl/107/252/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2Fs401
-[/us/stat/116/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1715
+[/us/usc/t52/s21111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs21111
 
 

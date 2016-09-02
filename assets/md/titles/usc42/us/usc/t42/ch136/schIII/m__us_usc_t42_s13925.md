@@ -49,7 +49,7 @@
 
         (6) __Culturally specific__ 
 
-            The term “culturally specific” means primarily directed toward racial and ethnic minority groups (as defined in section 1707(g) of the Public Health Service Act ([42 U.S.C. 300u–6(g)][/us/usc/t42/s300u–6/g]).
+            The term “culturally specific” means primarily directed toward racial and ethnic minority groups (as defined in section 1707(g) of the Public Health Service Act ([42 U.S.C. 300u–6(g)][/us/usc/t42/s300u–6/g]). <sup>\[1\]</sup>  <sup><sup> 1 So in original. The period probably should be preceded by another closing parenthesis. </sup></sup> 
 
         (7) __Culturally specific services__ 
 
@@ -415,7 +415,7 @@
 
             (A) __Nondiscrimination__ 
 
-                No person in the United States shall, on the basis of actual or perceived race, color, religion, national origin, sex, gender identity (as defined in paragraph 249(c)(4) of title 18), sexual orientation, or disability, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity funded in whole or in part with funds made available under the Violence Against Women Act of 1994 (title IV of [Public Law 103–322][/us/pl/103/322]; [108 Stat. 1902][/us/stat/108/1902]), the Violence Against Women Act of 2000 (division B of [Public Law 106–386][/us/pl/106/386]; [114 Stat. 1491][/us/stat/114/1491]), the Violence Against Women and Department of Justice Reauthorization Act of 2005 (title IX of [Public Law 109–162][/us/pl/109/162]; [119 Stat. 3080][/us/stat/119/3080]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the Violence Against Women Reauthorization Act of 2013, and any other program or activity funded in whole or in part with funds appropriated for grants, cooperative agreements, and other assistance administered by the Office on Violence Against Women.
+                No person in the United States shall, on the basis of actual or perceived race, color, religion, national origin, sex, gender identity (as defined in paragraph 249(c)(4) of title 18), sexual orientation, or disability, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity funded in whole or in part with funds made available under the Violence Against Women Act of 1994 (title IV of [Public Law 103–322][/us/pl/103/322]; [108 Stat. 1902][/us/stat/108/1902]), the Violence Against Women Act of 2000 (division B of [Public Law 106–386][/us/pl/106/386]; [114 Stat. 1491][/us/stat/114/1491]), the Violence Against Women and Department of Justice Reauthorization Act of 2005 (title IX of [Public Law 109–162][/us/pl/109/162]; [119 Stat. 3080][/us/stat/119/3080]), <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  the Violence Against Women Reauthorization Act of 2013, and any other program or activity funded in whole or in part with funds appropriated for grants, cooperative agreements, and other assistance administered by the Office on Violence Against Women.
 
             (B) __Exception__ 
 
@@ -423,7 +423,7 @@
 
             (C) __Discrimination__ 
 
-                The authority of the Attorney General and the Office of Justice Programs to enforce this paragraph shall be the same as it is under [section 3789d of this title][/us/usc/t42/s3789d].1
+                The authority of the Attorney General and the Office of Justice Programs to enforce this paragraph shall be the same as it is under [section 3789d of this title][/us/usc/t42/s3789d].2
 
             (D) __Construction__ 
 
@@ -471,7 +471,7 @@
 
                 (i) __In general__ 
 
-                    Beginning in the first fiscal year beginning after the date of the enactment of this Act,1 and in each fiscal year thereafter, the Inspector General of the Department of Justice shall conduct audits of recipients of grants under this Act to prevent waste, fraud, and abuse of funds by grantees. The Inspector General shall determine the appropriate number of grantees to be audited each year.
+                    Beginning in the first fiscal year beginning after the date of the enactment of this Act,2 and in each fiscal year thereafter, the Inspector General of the Department of Justice shall conduct audits of recipients of grants under this Act to prevent waste, fraud, and abuse of funds by grantees. The Inspector General shall determine the appropriate number of grantees to be audited each year.
 
                 (ii) __Definition__ 
 
@@ -523,7 +523,7 @@
 
             (D) __Annual certification__ 
 
-            Beginning in the first fiscal year beginning after the date of the enactment of this Act,1 the Attorney General shall submit, to the Committee on the Judiciary and the Committee on Appropriations of the Senate and the Committee on the Judiciary and the Committee on Appropriations of the House of Representatives, an annual certification that—
+            Beginning in the first fiscal year beginning after the date of the enactment of this Act,2 the Attorney General shall submit, to the Committee on the Judiciary and the Committee on Appropriations of the Senate and the Committee on the Judiciary and the Committee on Appropriations of the House of Representatives, an annual certification that—
 
                 (i) all audits issued by the Office of the Inspector General under paragraph (1) have been completed and reviewed by the appropriate Assistant Attorney General or Director;
 

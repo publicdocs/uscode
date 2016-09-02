@@ -17,19 +17,25 @@
 
     (a) __Developmental disabilities surveillance and research program__ 
 
-        To carry out [section 280i of this title][/us/usc/t42/s280i], there is authorized to be appropriated $22,000,000 for each of fiscal years 2012 through 2014.
+        To carry out [section 280i of this title][/us/usc/t42/s280i], there is authorized to be appropriated $22,000,000 for each of fiscal years 2015 through 2019.
 
     (b) __Autism education, early detection, and intervention__ 
 
-        To carry out [section 280i–1 of this title][/us/usc/t42/s280i–1], there is authorized to be appropriated $48,000,000 for each of fiscal years 2011 through 2014.
+        To carry out [section 280i–1 of this title][/us/usc/t42/s280i–1], there is authorized to be appropriated $48,000,000 for each of fiscal years 2015 through 2019.
 
     (c) __Interagency Autism Coordinating Committee; certain other programs__ 
 
-        To carry out sections 280i–2, 283j, and 284g of this title, there is authorized to be appropriated $161,000,000 for each of fiscal years 2011 through 2014.
+        To carry out sections 280i–2, 283j, and 284g of this title, there is authorized to be appropriated $190,000,000 for each of fiscal years 2015 through 2019.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399EE, as added [Pub. L. 109–416, § 4(a)][/us/pl/109/416/s4/a], Dec. 19, 2006, [120 Stat. 2829][/us/stat/120/2829]; amended [Pub. L. 112–32, § 3][/us/pl/112/32/s3], Sept. 30, 2011, [125 Stat. 361][/us/stat/125/361].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399EE, as added [Pub. L. 109–416, § 4(a)][/us/pl/109/416/s4/a], Dec. 19, 2006, [120 Stat. 2829][/us/stat/120/2829]; amended [Pub. L. 112–32, § 3][/us/pl/112/32/s3], Sept. 30, 2011, [125 Stat. 361][/us/stat/125/361]; [Pub. L. 113–157, § 7][/us/pl/113/157/s7], Aug. 8, 2014, [128 Stat. 1836][/us/stat/128/1836].)
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–157, § 7(1)][/us/pl/113/157/s7/1], substituted “fiscal years 2015 through 2019” for “fiscal years 2012 through 2014”.
+
+    Subsec. (b). [Pub. L. 113–157, § 7(2)][/us/pl/113/157/s7/2], substituted “fiscal years 2015 through 2019” for “fiscal years 2011 through 2014”.
+
+    Subsec. (c). [Pub. L. 113–157, § 7(3)][/us/pl/113/157/s7/3], substituted “$190,000,000 for each of fiscal years 2015 through 2019” for “$161,000,000 for each of fiscal years 2011 through 2014”.
 
     2011—[Pub. L. 112–32][/us/pl/112/32] amended section generally. Prior to amendment, section authorized appropriations for fiscal years 2007 to 2011.
 
@@ -47,6 +53,11 @@
 [/us/stat/120/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2829
 [/us/pl/112/32/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F32%2Fs3
 [/us/stat/125/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F361
+[/us/pl/113/157/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs7
+[/us/stat/128/1836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1836
+[/us/pl/113/157/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs7%2F1
+[/us/pl/113/157/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs7%2F2
+[/us/pl/113/157/s7/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F157%2Fs7%2F3
 [/us/pl/112/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F32
 
 

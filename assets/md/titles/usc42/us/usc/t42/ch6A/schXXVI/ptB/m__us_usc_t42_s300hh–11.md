@@ -47,7 +47,7 @@
 
             (C) __Considerations for at-risk populations__ 
 
-                The Secretary shall take steps to ensure that an appropriate specialized and focused range of public health and medical capabilities are  <sup>\[1\]</sup>  <sup><sup> 1 So In original. Probably should be “is”. </sup></sup>  represented in the National Disaster Medical System, which take  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “takes”. </sup></sup>  into account the needs of at-risk individuals, in the event of a public health emergency.
+                The Secretary shall take steps to ensure that an appropriate specialized and focused range of public health and medical capabilities are  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “is”. </sup></sup>  represented in the National Disaster Medical System, which take  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “takes”. </sup></sup>  into account the needs of at-risk individuals, in the event of a public health emergency.
 
             (D) __Administration__ 
 

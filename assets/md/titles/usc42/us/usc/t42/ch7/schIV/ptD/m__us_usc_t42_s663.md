@@ -53,7 +53,7 @@
 
     (e) __Agreement on use of Federal Parent Locator Service with United States Central Authority under Convention on the Civil Aspects of International Child Abduction__ 
 
-        The Secretary shall enter into an agreement with the Central Authority designated by the President in accordance with [section 11606 of this title][/us/usc/t42/s11606], under which the services of the Federal Parent Locator Service established under [section 653 of this title][/us/usc/t42/s653] shall be made available to such Central Authority upon its request for the purpose of locating any parent or child on behalf of an applicant to such Central Authority within the meaning of [section 11602(1) of this title][/us/usc/t42/s11602/1]. The Federal Parent Locator Service shall charge no fees for services requested pursuant to this subsection.
+        The Secretary shall enter into an agreement with the Central Authority designated by the President in accordance with [section 9006 of title 22][/us/usc/t22/s9006], under which the services of the Federal Parent Locator Service established under [section 653 of this title][/us/usc/t42/s653] shall be made available to such Central Authority upon its request for the purpose of locating any parent or child on behalf of an applicant to such Central Authority within the meaning of [section 9002(1) of title 22][/us/usc/t22/s9002/1]. The Federal Parent Locator Service shall charge no fees for services requested pursuant to this subsection.
 
     (f) __Agreement to assist in locating missing children under Federal Parent Locator Service__ 
 
@@ -132,9 +132,9 @@
 [/us/usc/t42/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654
 [/us/usc/t42/s653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs653
 [/us/usc/t42/s653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs653
-[/us/usc/t42/s11606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11606
+[/us/usc/t22/s9006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9006
 [/us/usc/t42/s653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs653
-[/us/usc/t42/s11602/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11602%2F1
+[/us/usc/t22/s9002/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9002%2F1
 [/us/usc/t42/s653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs653
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/pl/96/611/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F611%2Fs9%2Fb

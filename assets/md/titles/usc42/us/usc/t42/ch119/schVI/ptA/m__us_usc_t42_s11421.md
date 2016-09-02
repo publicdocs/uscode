@@ -25,6 +25,8 @@
 
 > “The repeal made by subsection (b)(1) \[repealing sections 11421, 11461 to 11466, 11471, and 11472 of this title\] shall take effect on July 1, 1999.”
 
+    \[[Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], [section 199(c)(2)(A) of Pub. L. 105–220][/us/pl/105/220/s199/c/2/A], set out above, is repealed.\]
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t42/ch119/schVI/ptA/m__us_usc_t42_ch119_schVI_ptA.md) | [Next](./../../../../../..//us/usc/t42/ch119/schVI/ptB/m__us_usc_t42_ch119_schVI_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11421)
@@ -48,5 +50,8 @@
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/pl/105/220/s199/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs199%2Fc%2F2%2FA
 [/us/stat/112/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1059
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/pl/105/220/s199/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs199%2Fc%2F2%2FA
 
 

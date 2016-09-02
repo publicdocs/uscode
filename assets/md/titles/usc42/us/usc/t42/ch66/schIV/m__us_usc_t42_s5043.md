@@ -17,7 +17,7 @@
 
     (a) __Funds use prohibition; “election” and “Federal office” defined__ 
 
-        No part of any funds appropriated to carry out this chapter, or any program administered by the Corporation under this chapter, shall be used to finance, directly or indirectly, any activity designed to influence the outcome of any election to Federal office, or the outcome of any election to any State or local public office, or any voter registration activity, or to pay the salary of any officer or employee of the Corporation, who, in an official capacity as such an officer or employee, engages in any such activity. As used in this section, the term “election” (when referring to an election for Federal office) has the same meaning given such term by [section 431(1) of title 2][/us/usc/t2/s431/1], and the term “Federal office” has the same meaning given such term by [section 431(3) of title 2][/us/usc/t2/s431/3].
+        No part of any funds appropriated to carry out this chapter, or any program administered by the Corporation under this chapter, shall be used to finance, directly or indirectly, any activity designed to influence the outcome of any election to Federal office, or the outcome of any election to any State or local public office, or any voter registration activity, or to pay the salary of any officer or employee of the Corporation, who, in an official capacity as such an officer or employee, engages in any such activity. As used in this section, the term “election” (when referring to an election for Federal office) has the same meaning given such term by [section 30101(1) of title 52][/us/usc/t52/s30101/1], and the term “Federal office” has the same meaning given such term by [section 30101(3) of title 52][/us/usc/t52/s30101/3].
 
     (b) __Prohibition on program identification__ 
 
@@ -59,6 +59,10 @@
 
     This chapter, referred to in subsecs. (a) to (c), was in the original “this Act”, meaning [Pub. L. 93–113][/us/pl/93/113], Oct. 1, 1973, [87 Stat. 394][/us/stat/87/394], known as the Domestic Volunteer Service Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of this title][/us/usc/t42/s4950] and Tables.
 
+ __Codification__ 
+
+    References in subsec. (a) to “[section 30101(1) of title 52][/us/usc/t52/s30101/1]” and to “[section 30101(3) of title 52][/us/usc/t52/s30101/3]” were formerly references to “[section 431(1) of title 2][/us/usc/t2/s431/1]” and to “[section 431(3) of title 2][/us/usc/t2/s431/3]”, respectively, and were updated to reflect the editorial reclassification of [section 431 of Title 2][/us/usc/t2/s431], The Congress, to [section 30101 of Title 52][/us/usc/t52/s30101], Voting and Elections. See 1980 Amendment note below.
+
  __Amendments__ 
 
     1993—Subsec. (a). [Pub. L. 103–82, § 405(a)(7)][/us/pl/103/82/s405/a/7], substituted “administered by the Corporation under this chapter” for “administered by the ACTION Agency” and “of the Corporation” for “of the ACTION Agency”.
@@ -73,7 +77,7 @@
 
     1986—Subsec. (a). [Pub. L. 99–551][/us/pl/99/551] substituted “an official capacity” for “his official capacity”.
 
-    1980—Subsec. (a). [Pub. L. 96–187][/us/pl/96/187] substituted “[section 431(1) of title 2][/us/usc/t2/s431/1]” and “[section 431(3) of title 2][/us/usc/t2/s431/3]” for “[section 431(a) of title 2][/us/usc/t2/s431/a]” and “[section 431(c) of title 2][/us/usc/t2/s431/c]”, respectively.
+    1980—Subsec. (a). [Pub. L. 96–187][/us/pl/96/187] substituted “[section 431(1) of title 2][/us/usc/t2/s431/1]” and “[section 431(3) of title 2][/us/usc/t2/s431/3]” for “[section 431(a) of title 2][/us/usc/t2/s431/a]” and “[section 431(c) of title 2][/us/usc/t2/s431/c]”, respectively. See Codification note above.
 
     1979—[Pub. L. 96–143, § 8(a)][/us/pl/96/143/s8/a], inserted “or the outcome of any election to any State or local public office,” after “Federal office,” and “(when referring to an election for Federal office)” before “has the same meaning”.
 
@@ -93,7 +97,7 @@
 
  __Effective Date of 1980 Amendment__ 
 
-    Amendment by [Pub. L. 96–187][/us/pl/96/187] effective Jan. 8, 1980, see [section 301(a) of Pub. L. 96–187][/us/pl/96/187/s301/a], set out as a note under [section 431 of Title 2][/us/usc/t2/s431], The Congress.
+    Amendment by [Pub. L. 96–187][/us/pl/96/187] effective Jan. 8, 1980, see [section 301(a) of Pub. L. 96–187][/us/pl/96/187/s301/a], set out as a note under [section 30101 of Title 52][/us/usc/t52/s30101], Voting and Elections.
 
 ----------
 
@@ -102,8 +106,8 @@
 ----------
 ----------
 
-[/us/usc/t2/s431/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431%2F1
-[/us/usc/t2/s431/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431%2F3
+[/us/usc/t52/s30101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101%2F1
+[/us/usc/t52/s30101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101%2F3
 [/us/pl/93/113/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs403
 [/us/stat/87/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F408
 [/us/pl/96/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143
@@ -117,6 +121,12 @@
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
+[/us/usc/t52/s30101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101%2F1
+[/us/usc/t52/s30101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101%2F3
+[/us/usc/t2/s431/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431%2F1
+[/us/usc/t2/s431/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431%2F3
+[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 [/us/pl/103/82/s405/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs405%2Fa%2F7
 [/us/pl/103/82/s363/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs363%2F3
 [/us/pl/103/82/s363/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs363%2F3
@@ -142,6 +152,6 @@
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
 [/us/pl/96/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187
 [/us/pl/96/187/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187%2Fs301%2Fa
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 
 

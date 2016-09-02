@@ -235,11 +235,23 @@
 
         There are authorized to be appropriated to the Attorney General to carry out this section, $5,000,000 for each of fiscal years 2009 and 2010.
 
-([Pub. L. 110–199, title II, § 231][/us/pl/110/199/s231], Apr. 9, 2008, [122 Stat. 683][/us/stat/122/683].)
+([Pub. L. 110–199, title II, § 231][/us/pl/110/199/s231], Apr. 9, 2008, [122 Stat. 683][/us/stat/122/683]; [Pub. L. 113–128, title V, § 512(bb)(2)][/us/pl/113/128/s512/bb/2], July 22, 2014, [128 Stat. 1717][/us/stat/128/1717].)
+
+ __Amendment of Subsection (e)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(bb)(2), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1717, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (e) of this section is amended by striking “the one-stop partners and one-stop operators (as such terms are defined in [section 2801 of title 29][/us/usc/t29/s2801]) that provide services at any center operated under a one-stop delivery system established under [section 2864(c) of title 29][/us/usc/t29/s2864/c]” and inserting “the one-stop partners and one-stop operators (as such terms are defined in [section 3102 of title 29][/us/usc/t29/s3102]) that provide services at any center operated under a one-stop delivery system established under [section 3151(e) of title 29][/us/usc/t29/s3151/e]”. See 2014 Amendment note below.
 
  __Codification__ 
 
     Section is comprised of [section 231 of Pub. L. 110–199][/us/pl/110/199/s231]. Subsec. (d)(1) of [section 231 of Pub. L. 110–199][/us/pl/110/199/s231] amended [section 4042(a) of Title 18][/us/usc/t18/s4042/a], Crimes and Criminal Procedure. Subsec. (f) of [section 231 of Pub. L. 110–199][/us/pl/110/199/s231] amended [section 3621 of Title 18][/us/usc/t18/s3621].
+
+ __Amendments__ 
+
+    2014—Subsec. (e). [Pub. L. 113–128][/us/pl/113/128] substituted “the one-stop partners and one-stop operators (as such terms are defined in [section 3102 of title 29][/us/usc/t29/s3102]) that provide services at any center operated under a one-stop delivery system established under [section 3151(e) of title 29][/us/usc/t29/s3151/e]” for “the one-stop partners and one-stop operators (as such terms are defined in [section 2801 of title 29][/us/usc/t29/s2801]) that provide services at any center operated under a one-stop delivery system established under [section 2864(c) of title 29][/us/usc/t29/s2864/c]”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -258,10 +270,24 @@
 [/us/usc/t18/s3621/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3621%2Fe
 [/us/pl/110/199/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs231
 [/us/stat/122/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F683
+[/us/pl/113/128/s512/bb/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fbb%2F2
+[/us/stat/128/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1717
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
+[/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
 [/us/pl/110/199/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs231
 [/us/pl/110/199/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs231
 [/us/usc/t18/s4042/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4042%2Fa
 [/us/pl/110/199/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs231
 [/us/usc/t18/s3621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3621
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
+[/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

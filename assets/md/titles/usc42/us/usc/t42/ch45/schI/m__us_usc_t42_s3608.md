@@ -93,7 +93,7 @@
 
  __References in Text__ 
 
-    This Act, referred to in subsec. (a), means [Pub. L. 90–284][/us/pl/90/284], Apr. 11, 1968, [82 Stat. 73][/us/stat/82/73], as amended, known as the Civil Rights Act of 1968, which enacted this chapter, sections 231 to 233, 245, 2101, and 2102 of Title 18, Crimes and Criminal Procedure, and sections 1301 to 1303, 1311, 1312, 1321 to 1326, 1331, and 1341 of Title 25, Indians, amended sections 1973j, 3533, 3535 of this title, and sections 241, 242, and 1153 of Title 18, enacted provisions set out as notes under sections 231 and 245 of Title 18, and repealed provisions set out as notes under [section 1360 of Title 28][/us/usc/t28/s1360], Judiciary and Judicial Procedure. For complete classification of this Act to the Code, see Tables.
+    This Act, referred to in subsec. (a), means [Pub. L. 90–284][/us/pl/90/284], Apr. 11, 1968, [82 Stat. 73][/us/stat/82/73], known as the Civil Rights Act of 1968. For complete classification of this Act to the Code, see Tables.
 
     The Civil Rights Act of 1964, referred to in subsec. (f)(1), is [Pub. L. 88–352][/us/pl/88/352], July 2, 1964, [78 Stat. 241][/us/stat/78/241], as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title][/us/usc/t42/s2000a] and Tables.
 
@@ -340,7 +340,6 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/102/1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1623
 [/us/pl/90/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284
 [/us/stat/82/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F73
-[/us/usc/t28/s1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1360
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241
 [/us/usc/t42/s2000a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000a

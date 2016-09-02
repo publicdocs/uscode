@@ -13,11 +13,11 @@
 
 [Previous](./../../../../..//us/usc/t42/ch20/schII/m__us_usc_t42_s1974d.md) | [Next](./../../../../..//us/usc/t42/ch20A/m__us_usc_t42_ch20A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1974e)
 
-## § 1974e. “Officer of election” defined
+## § 1974e. Transferred
 
-    As used in this subchapter, the term “officer of election” means any person who, under color of any Federal, State, Commonwealth, or local law, statute, ordinance, regulation, authority, custom, or usage, performs or is authorized to perform any function, duty, or task in connection with any application, registration, payment of poll tax, or other act requisite to voting in any general, special, or primary election at which votes are cast for candidates for the office of President, Vice President, presidential elector, Member of the Senate, Member of the House of Representatives, or Resident Commissioner from the Commonwealth of Puerto Rico.
+ __Codification__ 
 
-([Pub. L. 86–449, title III, § 306][/us/pl/86/449/s306], May 6, 1960, [74 Stat. 88][/us/stat/74/88].)
+    Section 1974e was editorially reclassified as [section 20706 of Title 52][/us/usc/t52/s20706], Voting and Elections.
 
 ----------
 
@@ -26,7 +26,6 @@
 ----------
 ----------
 
-[/us/pl/86/449/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F449%2Fs306
-[/us/stat/74/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F88
+[/us/usc/t52/s20706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20706
 
 

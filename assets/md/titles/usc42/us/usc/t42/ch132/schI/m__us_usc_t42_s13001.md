@@ -37,6 +37,12 @@
 
     1992—Pars. (3) to (7). [Pub. L. 102–586][/us/pl/102/586] added pars. (3) and (5) and redesignated former pars. (3), (4), and (5) as (4), (6), and (7), respectively.
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–163, § 1][/us/pl/113/163/s1], Aug. 8, 2014, [128 Stat. 1864][/us/stat/128/1864], provided that: 
+
+> “This Act \[enacting [section 13005 of this title][/us/usc/t42/s13005] and amending sections 10601 and 13004 of this title\] may be cited as the ‘Victims of Child Abuse Act Reauthorization Act of 2013’.”
+
  __Short Title__ 
 
 [Pub. L. 101–647, title II, § 201][/us/pl/101/647/s201], Nov. 29, 1990, [104 Stat. 4792][/us/stat/104/4792], provided that: 
@@ -55,6 +61,9 @@
 [/us/pl/102/586/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs6%2Fa
 [/us/stat/106/5029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5029
 [/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
+[/us/pl/113/163/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F163%2Fs1
+[/us/stat/128/1864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1864
+[/us/usc/t42/s13005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13005
 [/us/pl/101/647/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs201
 [/us/stat/104/4792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4792
 

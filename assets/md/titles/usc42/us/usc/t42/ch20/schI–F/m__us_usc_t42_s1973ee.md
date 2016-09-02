@@ -13,21 +13,11 @@
 
 [Previous](./../../../../..//us/usc/t42/ch20/schI–F/m__us_usc_t42_ch20_schI–F.md) | [Next](./../../../../..//us/usc/t42/ch20/schI–F/m__us_usc_t42_s1973ee–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973ee)
 
-## § 1973ee. Congressional declaration of purpose
+## § 1973ee. Transferred
 
-    It is the intention of Congress in enacting this subchapter to promote the fundamental right to vote by improving access for handicapped and elderly individuals to registration facilities and polling places for Federal elections.
+ __Codification__ 
 
-([Pub. L. 98–435, § 2][/us/pl/98/435/s2], Sept. 28, 1984, [98 Stat. 1678][/us/stat/98/1678].)
-
- __Effective Date__ 
-
-[Pub. L. 98–435, § 9][/us/pl/98/435/s9], Sept. 28, 1984, [98 Stat. 1680][/us/stat/98/1680], provided that: 
-
-> “This Act \[enacting this subchapter\] shall apply with respect to elections taking place after December 31, 1985.”
-
- __Short Title__ 
-
-    This subchapter is known as the “Voting Accessibility for the Elderly and Handicapped Act”, see Short Title note set out under [section 1971 of this title][/us/usc/t42/s1971].
+    Section 1973ee was editorially reclassified as [section 20101 of Title 52][/us/usc/t52/s20101], Voting and Elections.
 
 ----------
 
@@ -36,10 +26,6 @@
 ----------
 ----------
 
-[/us/pl/98/435/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F435%2Fs2
-[/us/stat/98/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1678
-[/us/pl/98/435/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F435%2Fs9
-[/us/stat/98/1680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1680
-[/us/usc/t42/s1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1971
+[/us/usc/t52/s20101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20101
 
 

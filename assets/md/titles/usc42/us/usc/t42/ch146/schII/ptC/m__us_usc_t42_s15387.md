@@ -13,11 +13,11 @@
 
 [Previous](./../../../../../..//us/usc/t42/ch146/schII/ptC/m__us_usc_t42_s15386.md) | [Next](./../../../../../..//us/usc/t42/ch146/schII/ptD/m__us_usc_t42_ch146_schII_ptD.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15387)
 
-## § 15387. Consultation with Standards Board and Board of Advisors
+## § 15387. Transferred
 
-    The Commission shall carry out its duties under this part in consultation with the Standards Board and the Board of Advisors.
+ __Codification__ 
 
-([Pub. L. 107–252, title II, § 247][/us/pl/107/252/s247], Oct. 29, 2002, [116 Stat. 1692][/us/stat/116/1692].)
+    Section 15387 was editorially reclassified as [section 20987 of Title 52][/us/usc/t52/s20987], Voting and Elections.
 
 ----------
 
@@ -26,7 +26,6 @@
 ----------
 ----------
 
-[/us/pl/107/252/s247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2Fs247
-[/us/stat/116/1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1692
+[/us/usc/t52/s20987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20987
 
 

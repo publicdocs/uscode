@@ -13,11 +13,11 @@
 
 [Previous](./../../../../../../..//us/usc/t42/ch146/schII/ptD/spt6/m__us_usc_t42_s15471.md) | [Next](./../../../../../../..//us/usc/t42/ch146/schIII/m__us_usc_t42_ch146_schIII.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15472)
 
-## § 15472. Authorization of appropriations
+## § 15472. Transferred
 
-    There are authorized to be appropriated to carry out the provisions of this part $200,000 for fiscal year 2003 and such sums as may be necessary for each of the 6 succeeding fiscal years.
+ __Codification__ 
 
-([Pub. L. 107–252, title II, § 296][/us/pl/107/252/s296], Oct. 29, 2002, [116 Stat. 1704][/us/stat/116/1704].)
+    Section 15472 was editorially reclassified as [section 21072 of Title 52][/us/usc/t52/s21072], Voting and Elections.
 
 ----------
 
@@ -26,7 +26,6 @@
 ----------
 ----------
 
-[/us/pl/107/252/s296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2Fs296
-[/us/stat/116/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1704
+[/us/usc/t52/s21072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs21072
 
 

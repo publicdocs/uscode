@@ -107,13 +107,19 @@
 
         Funds made available under this part shall supplement, and not supplant, any Federal, State, or local funds expended by a State or unit of general purpose local government (including an area agency on aging) to provide services described in subsection (a) of this section.
 
-([Pub. L. 89–73, title III, § 321][/us/pl/89/73/s321], as added [Pub. L. 95–478, title I, § 103(b)][/us/pl/95/478/s103/b], Oct. 18, 1978, [92 Stat. 1535][/us/stat/92/1535]; amended [Pub. L. 97–115][/us/pl/97/115], §§ 3(d), 10(a)–(c), Dec. 29, 1981, [95 Stat. 1597][/us/stat/95/1597], 1600; [Pub. L. 98–459, title III, § 312][/us/pl/98/459/s312], Oct. 9, 1984, [98 Stat. 1779][/us/stat/98/1779]; [Pub. L. 100–175, title I][/us/pl/100/175], §§ 136(d), 146(b), 182(m), Nov. 29, 1987, [101 Stat. 943][/us/stat/101/943], 950, 967; [Pub. L. 102–375, title III, § 312][/us/pl/102/375/s312], title VII, § 708(b), title IX, § 904(a)(15), Sept. 30, 1992, [106 Stat. 1237][/us/stat/106/1237], 1292, 1308; [Pub. L. 103–171][/us/pl/103/171], §§ 2(12), 3(a)(13), Dec. 2, 1993, [107 Stat. 1989][/us/stat/107/1989], 1990; [Pub. L. 106–501, title III, § 311][/us/pl/106/501/s311], title VIII, § 801(c)(5), Nov. 13, 2000, [114 Stat. 2251][/us/stat/114/2251], 2292; [Pub. L. 109–365, title III, § 311][/us/pl/109/365/s311], Oct. 17, 2006, [120 Stat. 2547][/us/stat/120/2547].)
+([Pub. L. 89–73, title III, § 321][/us/pl/89/73/s321], as added [Pub. L. 95–478, title I, § 103(b)][/us/pl/95/478/s103/b], Oct. 18, 1978, [92 Stat. 1535][/us/stat/92/1535]; amended [Pub. L. 97–115][/us/pl/97/115], §§ 3(d), 10(a)–(c), Dec. 29, 1981, [95 Stat. 1597][/us/stat/95/1597], 1600; [Pub. L. 98–459, title III, § 312][/us/pl/98/459/s312], Oct. 9, 1984, [98 Stat. 1779][/us/stat/98/1779]; [Pub. L. 100–175, title I][/us/pl/100/175], §§ 136(d), 146(b), 182(m), Nov. 29, 1987, [101 Stat. 943][/us/stat/101/943], 950, 967; [Pub. L. 102–375, title III, § 312][/us/pl/102/375/s312], title VII, § 708(b), title IX, § 904(a)(15), Sept. 30, 1992, [106 Stat. 1237][/us/stat/106/1237], 1292, 1308; [Pub. L. 103–171][/us/pl/103/171], §§ 2(12), 3(a)(13), Dec. 2, 1993, [107 Stat. 1989][/us/stat/107/1989], 1990; [Pub. L. 106–501, title III, § 311][/us/pl/106/501/s311], title VIII, § 801(c)(5), Nov. 13, 2000, [114 Stat. 2251][/us/stat/114/2251], 2292; [Pub. L. 109–365, title III, § 311][/us/pl/109/365/s311], Oct. 17, 2006, [120 Stat. 2547][/us/stat/120/2547]; [Pub. L. 113–128, title V, § 512(w)(2)][/us/pl/113/128/s512/w/2], July 22, 2014, [128 Stat. 1713][/us/stat/128/1713].)
+
+ __Amendment of Subsection (a)(12)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(w)(2), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1713, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a)(12) of this section is amended by striking “including programs carried out under the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)” and inserting “including programs carried out under the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
 
  __References in Text__ 
 
     The Workforce Investment Act of 1998, referred to in subsec. (a)(12), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(12). [Pub. L. 113–128][/us/pl/113/128] substituted “including programs carried out under the Workforce Innovation and Opportunity Act” for “including programs carried out under the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)”.
 
     2006—Subsec. (a)(8). [Pub. L. 109–365, § 311(1)][/us/pl/109/365/s311/1], inserted “(including mental health screening)” after “provide health screening”.
 
@@ -205,6 +211,10 @@
 
     Subsec. (a)(12) to (15). [Pub. L. 97–115, § 10(c)][/us/pl/97/115/s10/c], added pars. (12) to (14) and redesignated former par. (12) as (15).
 
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+
  __Effective Date of 1992 Amendment__ 
 
     Amendment by [section 708(b) of Pub. L. 102–375][/us/pl/102/375/s708/b] inapplicable with respect to fiscal year 1993, see [section 4(b) of Pub. L. 103–171][/us/pl/103/171/s4/b], set out as a note under [section 3001 of this title][/us/usc/t42/s3001].
@@ -253,9 +263,16 @@
 [/us/stat/114/2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2251
 [/us/pl/109/365/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs311
 [/us/stat/120/2547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2547
+[/us/pl/113/128/s512/w/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fw%2F2
+[/us/stat/128/1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1713
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
 [/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/109/365/s311/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs311%2F1
 [/us/pl/109/365/s311/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs311%2F2
 [/us/pl/109/365/s311/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F365%2Fs311%2F3
@@ -309,6 +326,7 @@
 [/us/pl/97/115/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs3%2Fd
 [/us/pl/97/115/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs10%2Fb
 [/us/pl/97/115/s10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs10%2Fc
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/102/375/s708/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F375%2Fs708%2Fb
 [/us/pl/103/171/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs4%2Fb
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001

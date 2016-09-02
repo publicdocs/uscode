@@ -131,7 +131,11 @@
 
         The Director may enter into agreements under which public and private nonprofit organizations, with sufficient financial capacity and size, pay for all or a portion of the costs of supporting the service of volunteers under this part.
 
-([Pub. L. 93–113, title I, § 103][/us/pl/93/113/s103], Oct. 1, 1973, [87 Stat. 396][/us/stat/87/396]; [Pub. L. 96–143, § 2][/us/pl/96/143/s2], Dec. 13, 1979, [93 Stat. 1074][/us/stat/93/1074]; [Pub. L. 98–288, § 4(a)][/us/pl/98/288/s4/a]–(c)(1), (d), May 21, 1984, [98 Stat. 189][/us/stat/98/189], 190; [Pub. L. 99–551, § 3(a)][/us/pl/99/551/s3/a], Oct. 27, 1986, [100 Stat. 3071][/us/stat/100/3071]; [Pub. L. 101–204, title I, § 101(a)][/us/pl/101/204/s101/a], (b), (d)(2), title VII, § 701, Dec. 7, 1989, [103 Stat. 1807][/us/stat/103/1807], 1809, 1811, 1820; [Pub. L. 103–82, title III, § 323][/us/pl/103/82/s323], title IV, § 405(a)(2)–(4), Sept. 21, 1993, [107 Stat. 899][/us/stat/107/899], 920; [Pub. L. 103–304, § 3(b)(7)][/us/pl/103/304/s3/b/7], (8), Aug. 23, 1994, [108 Stat. 1568][/us/stat/108/1568]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(36)(A), (f)(28)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–427, 2681–434; [Pub. L. 111–13, title II, § 2102][/us/pl/111/13/s2102], Apr. 21, 2009, [123 Stat. 1582][/us/stat/123/1582].)
+([Pub. L. 93–113, title I, § 103][/us/pl/93/113/s103], Oct. 1, 1973, [87 Stat. 396][/us/stat/87/396]; [Pub. L. 96–143, § 2][/us/pl/96/143/s2], Dec. 13, 1979, [93 Stat. 1074][/us/stat/93/1074]; [Pub. L. 98–288, § 4(a)][/us/pl/98/288/s4/a]–(c)(1), (d), May 21, 1984, [98 Stat. 189][/us/stat/98/189], 190; [Pub. L. 99–551, § 3(a)][/us/pl/99/551/s3/a], Oct. 27, 1986, [100 Stat. 3071][/us/stat/100/3071]; [Pub. L. 101–204, title I, § 101(a)][/us/pl/101/204/s101/a], (b), (d)(2), title VII, § 701, Dec. 7, 1989, [103 Stat. 1807][/us/stat/103/1807], 1809, 1811, 1820; [Pub. L. 103–82, title III, § 323][/us/pl/103/82/s323], title IV, § 405(a)(2)–(4), Sept. 21, 1993, [107 Stat. 899][/us/stat/107/899], 920; [Pub. L. 103–304, § 3(b)(7)][/us/pl/103/304/s3/b/7], (8), Aug. 23, 1994, [108 Stat. 1568][/us/stat/108/1568]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(36)(A), (f)(28)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–427, 2681–434; [Pub. L. 111–13, title II, § 2102][/us/pl/111/13/s2102], Apr. 21, 2009, [123 Stat. 1582][/us/stat/123/1582]; [Pub. L. 113–128, title V, § 512(h)][/us/pl/113/128/s512/h], July 22, 2014, [128 Stat. 1708][/us/stat/128/1708].)
+
+ __Amendment of Subsection (d)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(h), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1708, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (d) of this section is amended by striking “employment.” and all that follows and inserting the following: “employment. Whenever feasible, such efforts shall be coordinated with an appropriate local workforce development board established under [section 3122 of title 29][/us/usc/t29/s3122].”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -150,6 +154,8 @@
     The Higher Education Act of 1965, referred to in subsec. (c)(1)(E), is [Pub. L. 89–329][/us/pl/89/329], Nov. 8, 1965, [79 Stat. 1219][/us/stat/79/1219]. Parts B and E of title IV of the Higher Education Act of 1965 are classified to parts B (§ 1071 et seq.) and D (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20][/us/usc/t20/s1001] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–128][/us/pl/113/128] substituted “employment. Whenever feasible, such efforts shall be coordinated with an appropriate local workforce development board established under [section 3122 of title 29][/us/usc/t29/s3122].” for “employment. Whenever feasible, such efforts shall be coordinated with an appropriate local workforce investment board established under [section 2832 of title 29][/us/usc/t29/s2832].”.
 
     2009—Subsec. (a)(1). [Pub. L. 111–13, § 2102(1)(A)][/us/pl/111/13/s2102/1/A], inserted “the Commonwealth of the Northern Mariana Islands,” after “American Samoa,”.
 
@@ -281,6 +287,10 @@
 
     Subsec. (d). [Pub. L. 96–143, § 2(b)][/us/pl/96/143/s2/b], inserted “in a program or project” after “work” and “or project” after “program” and inserted provisions requiring notification by a Governor or other chief executive officer to the Director that such Governor or other chief executive officer has disapproved a program or project under this section and requiring the Director to terminate a program or project under this section in the event of a timely request by the Governor or other chief executive officer not later than 30 days after the date such request is received or at such date agreed upon by the Director and such Governor or other chief executive officer.
 
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+
  __Effective Date of 2009 Amendment__ 
 
     Amendment by [Pub. L. 111–13][/us/pl/111/13] effective Oct. 1, 2009, see [section 6101(a) of Pub. L. 111–13][/us/pl/111/13/s6101/a], set out as a note under [section 4950 of this title][/us/usc/t42/s4950].
@@ -345,6 +355,11 @@
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/pl/111/13/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2102
 [/us/stat/123/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1582
+[/us/pl/113/128/s512/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fh
+[/us/stat/128/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1708
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3122
 [/us/pl/93/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113
 [/us/stat/87/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F394
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
@@ -365,6 +380,9 @@
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/usc/t29/s3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3122
+[/us/usc/t29/s2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2832
 [/us/pl/111/13/s2102/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2102%2F1%2FA
 [/us/pl/111/13/s2102/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2102%2F1%2FB
 [/us/pl/111/13/s2102/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs2102%2F1%2FC
@@ -427,6 +445,9 @@
 [/us/pl/98/288/s4/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F288%2Fs4%2Fc%2F1%2FA
 [/us/pl/96/143/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143%2Fs2%2Fa
 [/us/pl/96/143/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F143%2Fs2%2Fb
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13
 [/us/pl/111/13/s6101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F13%2Fs6101%2Fa
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950

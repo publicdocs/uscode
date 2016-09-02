@@ -4011,7 +4011,7 @@
 
 >     “(A) the establishment of a mechanism for assuring appropriate utilization of outpatient physical therapy services, outpatient occupational therapy services, and speech-language pathology services that are covered under the medicare program under title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395]) \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\]; and
 
->     “(B) the establishment of an alternative payment policy for such services based on classification of individuals by diagnostic category, functional status, prior use of services (in both inpatient and outpatient settings), and such other criteria as the Secretary determines appropriate, in place of the uniform dollar limitations specified in section 1833(g) of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(g) \], as amended by paragraph (1).
+>     “(B) the establishment of an alternative payment policy for such services based on classification of individuals by diagnostic category, functional status, prior use of services (in both inpatient and outpatient settings), and such other criteria as the Secretary determines appropriate, in place of the uniform dollar limitations specified in section 1833(g) of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(g)\], as amended by paragraph (1).
 
 >     The recommendations shall include how such a mechanism or policy might be implemented in a budget-neutral manner.”
 

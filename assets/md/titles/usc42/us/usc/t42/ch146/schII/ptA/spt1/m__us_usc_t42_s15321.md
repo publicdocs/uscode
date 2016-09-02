@@ -13,11 +13,11 @@
 
 [Previous](./../../../../../../..//us/usc/t42/ch146/schII/ptA/spt1/m__us_usc_t42_ch146_schII_ptA_spt1.md) | [Next](./../../../../../../..//us/usc/t42/ch146/schII/ptA/spt1/m__us_usc_t42_s15322.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15321)
 
-## § 15321. Establishment
+## § 15321. Transferred
 
-    There is hereby established as an independent entity the Election Assistance Commission (hereafter in this subchapter referred to as the “Commission”), consisting of the members appointed under this subpart. Additionally, there is established the Election Assistance Commission Standards Board (including the Executive Board of such Board) and the Election Assistance Commission Board of Advisors under subpart 2 of this part (hereafter in this subpart referred to as the “Standards Board” and the “Board of Advisors”, respectively) and the Technical Guidelines Development Committee under subpart 3 of this part.
+ __Codification__ 
 
-([Pub. L. 107–252, title II, § 201][/us/pl/107/252/s201], Oct. 29, 2002, [116 Stat. 1673][/us/stat/116/1673].)
+    Section 15321 was editorially reclassified as [section 20921 of Title 52][/us/usc/t52/s20921], Voting and Elections.
 
 ----------
 
@@ -26,7 +26,6 @@
 ----------
 ----------
 
-[/us/pl/107/252/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2Fs201
-[/us/stat/116/1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1673
+[/us/usc/t52/s20921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20921
 
 

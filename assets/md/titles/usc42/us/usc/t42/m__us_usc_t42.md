@@ -15,7 +15,7 @@
 
 # Title 42—THE PUBLIC HEALTH AND WELFARE
 
-Current through 113-145not128u1
+Current through 113–163not159
 
 <table>
 
@@ -363,7 +363,7 @@ Current through 113-145not128u1
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fch20" data-uslm-ref="/us/usc/t42/ch20">20.</a>  </td>
 
-    <td> Elective Franchise  </td>
+    <td> Elective Franchise [Transferred, Omitted, or Repealed]  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1971" data-uslm-ref="/us/usc/t42/s1971">1971</a>  </td>
 
@@ -1513,7 +1513,7 @@ Current through 113-145not128u1
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fch121" data-uslm-ref="/us/usc/t42/ch121">121.</a>  </td>
 
-    <td> International Child Abduction Remedies  </td>
+    <td> International Child Abduction Remedies [Transferred or Repealed]  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11601" data-uslm-ref="/us/usc/t42/s11601">11601</a>  </td>
 
@@ -1783,7 +1783,7 @@ Current through 113-145not128u1
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fch146" data-uslm-ref="/us/usc/t42/ch146">146.</a>  </td>
 
-    <td> Election Administration Improvement  </td>
+    <td> Election Administration Improvement [Transferred]  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15301" data-uslm-ref="/us/usc/t42/s15301">15301</a>  </td>
 

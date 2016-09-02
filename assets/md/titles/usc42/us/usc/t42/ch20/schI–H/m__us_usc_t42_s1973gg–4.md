@@ -13,49 +13,11 @@
 
 [Previous](./../../../../..//us/usc/t42/ch20/schI–H/m__us_usc_t42_s1973gg–3.md) | [Next](./../../../../..//us/usc/t42/ch20/schI–H/m__us_usc_t42_s1973gg–5.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973gg%E2%80%934)
 
-## § 1973gg–4. Mail registration
+## § 1973gg–4. Transferred
 
-    (a) __Form__ 
+ __Codification__ 
 
-        (1) Each State shall accept and use the mail voter registration application form prescribed by the Federal Election Commission pursuant to [section 1973gg–7(a)(2) of this title][/us/usc/t42/s1973gg–7/a/2] for the registration of voters in elections for Federal office.
-
-        (2) In addition to accepting and using the form described in paragraph (1), a State may develop and use a mail voter registration form that meets all of the criteria stated in [section 1973gg–7(b) of this title][/us/usc/t42/s1973gg–7/b] for the registration of voters in elections for Federal office.
-
-        (3) A form described in paragraph (1) or (2) shall be accepted and used for notification of a registrant’s change of address.
-
-    (b) __Availability of forms__ 
-
-        The chief State election official of a State shall make the forms described in subsection (a) of this section available for distribution through governmental and private entities, with particular emphasis on making them available for organized voter registration programs.
-
-    (c) __First-time voters__ 
-
-        (1)
-
-         Subject to paragraph (2), a State may by law require a person to vote in person if—
-
-            (A) the person was registered to vote in a jurisdiction by mail; and
-
-            (B) the person has not previously voted in that jurisdiction.
-
-        (2)
-
-         Paragraph (1) does not apply in the case of a person—
-
-            (A) who is entitled to vote by absentee ballot under the Uniformed and Overseas Citizens Absentee Voting Act \[[42 U.S.C. 1973ff][/us/usc/t42/s1973ff] et seq.\];
-
-            (B) who is provided the right to vote otherwise than in person under [section 1973ee–1(b)(2)(B)(ii) of this title][/us/usc/t42/s1973ee–1/b/2/B/ii]; or
-
-            (C) who is entitled to vote otherwise than in person under any other Federal law.
-
-    (d) __Undelivered notices__ 
-
-        If a notice of the disposition of a mail voter registration application under [section 1973gg–6(a)(2) of this title][/us/usc/t42/s1973gg–6/a/2] is sent by nonforwardable mail and is returned undelivered, the registrar may proceed in accordance with [section 1973gg–6(d) of this title][/us/usc/t42/s1973gg–6/d].
-
-([Pub. L. 103–31, § 6][/us/pl/103/31/s6], May 20, 1993, [107 Stat. 79][/us/stat/107/79].)
-
- __References in Text__ 
-
-    The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. (c)(2)(A), is [Pub. L. 99–410][/us/pl/99/410], Aug. 28, 1986, [100 Stat. 924][/us/stat/100/924], as amended, which is classified principally to subchapter I–G (§ 1973ff et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 1971 of this title][/us/usc/t42/s1971] and Tables.
+    Section 1973gg–4 was editorially reclassified as [section 20505 of Title 52][/us/usc/t52/s20505], Voting and Elections.
 
 ----------
 
@@ -64,16 +26,6 @@
 ----------
 ----------
 
-[/us/usc/t42/s1973gg–7/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973gg%E2%80%937%2Fa%2F2
-[/us/usc/t42/s1973gg–7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973gg%E2%80%937%2Fb
-[/us/usc/t42/s1973ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973ff
-[/us/usc/t42/s1973ee–1/b/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973ee%E2%80%931%2Fb%2F2%2FB%2Fii
-[/us/usc/t42/s1973gg–6/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973gg%E2%80%936%2Fa%2F2
-[/us/usc/t42/s1973gg–6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973gg%E2%80%936%2Fd
-[/us/pl/103/31/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F31%2Fs6
-[/us/stat/107/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F79
-[/us/pl/99/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410
-[/us/stat/100/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F924
-[/us/usc/t42/s1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1971
+[/us/usc/t52/s20505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20505
 
 

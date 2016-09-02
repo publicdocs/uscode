@@ -97,7 +97,13 @@
 
         (2) The term “Director” means the Director of the National Institutes of Health.
 
-        (3) The term “trauma” means any serious injury that could result in loss of life or in significant disability and that would meet pre-hospital triage criteria for transport to a designated trauma center.
+        (3)
+
+         The term “trauma” means an injury resulting from exposure to—
+
+            (A) a mechanical force; or
+
+            (B) another extrinsic agent, including an extrinsic agent that is thermal, electrical, chemical, or radioactive.
 
         (4) The term “traumatic brain injury” means an acquired injury to the brain. Such term does not include brain dysfunction caused by congenital or degenerative disorders, nor birth trauma, but may include brain injuries caused by anoxia due to trauma. The Secretary may revise the definition of such term as the Secretary determines necessary, after consultation with States and other appropriate public or nonprofit private entities.
 
@@ -105,9 +111,11 @@
 
         For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005, and such sums as may be necessary for each of the fiscal years 2009 through 2012.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1261, as added [Pub. L. 103–43, title III, § 303(a)][/us/pl/103/43/s303/a], June 10, 1993, [107 Stat. 151][/us/stat/107/151]; amended [Pub. L. 104–166, § 2][/us/pl/104/166/s2], July 29, 1996, [110 Stat. 1445][/us/stat/110/1445]; [Pub. L. 106–310, div. A, title XIII, § 1303][/us/pl/106/310/s1303], Oct. 17, 2000, [114 Stat. 1138][/us/stat/114/1138]; [Pub. L. 110–206, § 5][/us/pl/110/206/s5], Apr. 28, 2008, [122 Stat. 716][/us/stat/122/716].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XII, § 1261, as added [Pub. L. 103–43, title III, § 303(a)][/us/pl/103/43/s303/a], June 10, 1993, [107 Stat. 151][/us/stat/107/151]; amended [Pub. L. 104–166, § 2][/us/pl/104/166/s2], July 29, 1996, [110 Stat. 1445][/us/stat/110/1445]; [Pub. L. 106–310, div. A, title XIII, § 1303][/us/pl/106/310/s1303], Oct. 17, 2000, [114 Stat. 1138][/us/stat/114/1138]; [Pub. L. 110–206, § 5][/us/pl/110/206/s5], Apr. 28, 2008, [122 Stat. 716][/us/stat/122/716]; [Pub. L. 113–152, § 2(b)][/us/pl/113/152/s2/b], Aug. 8, 2014, [128 Stat. 1825][/us/stat/128/1825].)
 
  __Amendments__ 
+
+    2014—Subsec. (h)(3). [Pub. L. 113–152][/us/pl/113/152] amended par. (3) generally. Prior to amendment, text read as follows: “The term ‘trauma’ means any serious injury that could result in loss of life or in significant disability and that would meet pre-hospital triage criteria for transport to a designated trauma center.”
 
     2008—Subsec. (b)(2). [Pub. L. 110–206, § 5(1)][/us/pl/110/206/s5/1], substituted “Health, Education, Labor, and Pensions” for “Labor and Human Resources”.
 
@@ -158,6 +166,9 @@
 [/us/stat/114/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1138
 [/us/pl/110/206/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs5
 [/us/stat/122/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F716
+[/us/pl/113/152/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F152%2Fs2%2Fb
+[/us/stat/128/1825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1825
+[/us/pl/113/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F152
 [/us/pl/110/206/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs5%2F1
 [/us/pl/110/206/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs5%2F2
 [/us/pl/110/206/s5/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F206%2Fs5%2F3
