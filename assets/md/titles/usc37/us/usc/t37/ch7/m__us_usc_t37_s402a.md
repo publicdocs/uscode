@@ -77,7 +77,7 @@
 
             (C) A service provided under the Head Start Act ([42 U.S.C. 9831][/us/usc/t42/s9831] et seq.).
 
-            (D) Assistance under the Child Care and Development Block Grant Act of 1990 ([42 U.S.C. 9858][/us/usc/t42/s9858] et seq.).
+            (D) Assistance under the Child Care and Development Block Grant Act of 1990 ([42 U.S.C. 9858][/us/usc/t42/s9858]  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  et seq.).
 
         (3) A household that includes a member of the armed forces receiving the supplemental subsistence allowance under this section and that, except on account of the receipt of such allowance, would be eligible to receive a benefit under the Low-Income Home Energy Assistance Act of 1981 ([42 U.S.C. 8621][/us/usc/t42/s8621] et seq.) shall be considered to be eligible for that benefit notwithstanding the receipt of such allowance.
 
@@ -107,7 +107,7 @@
 
     The Head Start Act, referred to in subsec. (f)(2)(C), is subchapter B (§ 635 et seq.) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 499][/us/stat/95/499], which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42][/us/usc/t42/s9801] and Tables.
 
-    The Child Care and Development Block Grant Act of 1990, referred to in subsec. (f)(2)(D), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], as added by [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–236][/us/stat/104/1388-236], which is classified generally to subchapter II–B (§ 9858 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42][/us/usc/t42/s9801] and Tables.
+    The Child Care and Development Block Grant Act of 1990, referred to in subsec. (f)(2)(D), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], as added by [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–236][/us/stat/104/1388-236], which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 9857(a) of Title 42][/us/usc/t42/s9857/a] and Tables.
 
     The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (f)(3), is title XXVI of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 893][/us/stat/95/893], which is classified principally to subchapter II (§ 8621 et seq.) of chapter 94 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 8621 of Title 42][/us/usc/t42/s8621] and Tables.
 
@@ -229,7 +229,7 @@
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/101/508/s5082/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5082%2F2
 [/us/stat/104/1388-236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-236
-[/us/usc/t42/s9801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9801
+[/us/usc/t42/s9857/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9857%2Fa
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F893
 [/us/usc/t42/s8621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621
