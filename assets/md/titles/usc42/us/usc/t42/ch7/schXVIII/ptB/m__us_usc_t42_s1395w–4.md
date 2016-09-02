@@ -935,6 +935,16 @@
 
                 The conversion factor under this subsection shall be computed under paragraph (1)(A) for 2014 and subsequent years as if subparagraph (A) had never applied.
 
+        (15) __Update for January through March of 2014__ 
+
+            (A) __In general__ 
+
+                Subject to paragraphs (7)(B), (8)(B), (9)(B), (10)(B), (11)(B), (12)(B), (13)(B), and (14)(B), in lieu of the update to the single conversion factor established in paragraph (1)(C) that would otherwise apply for 2014 for the period beginning on January 1, 2014, and ending on March 31, 2014, the update to the single conversion factor shall be 0.5 percent.
+
+            (B) __No effect on computation of conversion factor for remaining portion of 2014 and subsequent years__ 
+
+                The conversion factor under this subsection shall be computed under paragraph (1)(A) for the period beginning on April 1, 2014, and ending on December 31, 2014, and for 2015 and subsequent years as if subparagraph (A) had never applied.
+
     (e) __Geographic adjustment factors__ 
 
         (1) __Establishment of geographic indices__ 
@@ -963,7 +973,7 @@
 
             (E) __Floor at 1.0 on work geographic index__ 
 
-                After calculating the work geographic index in subparagraph (A)(iii), for purposes of payment for services furnished on or after January 1, 2004, and before January 1, 2014, the Secretary shall increase the work geographic index to 1.00 for any locality for which such work geographic index is less than 1.00.
+                After calculating the work geographic index in subparagraph (A)(iii), for purposes of payment for services furnished on or after January 1, 2004, and before April 1, 2014, the Secretary shall increase the work geographic index to 1.00 for any locality for which such work geographic index is less than 1.00.
 
             (G)  __ <sup>\[__  __2__  __\]</sup> __  __ <sup><sup> __  __2__  __ So in original. No subpar. (F) has been enacted.__  __ </sup></sup> __  __Floor for practice expense, malpractice, and work geographic indices for services furnished in Alaska__ 
 
@@ -2215,7 +2225,7 @@
 
             (G) the determination of costs under paragraph (8)(A).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1848, as added [Pub. L. 101–239, title VI, § 6102(a)][/us/pl/101/239/s6102/a], Dec. 19, 1989, [103 Stat. 2169][/us/stat/103/2169]; amended [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4102(b), (g)(2), 4104(b)(2), 4105(a)(3), (c), 4106(b)(1), 4107(a)(1), 4109(a), 4116, 4118(b)–(f)(1), (k), Nov. 5, 1990, [104 Stat. 1388–56][/us/stat/104/1388-56], 1388–57, 1388–59 to 1388–63, 1388–65, 1388–67, 1388–68, 1388–71; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13511(a), 13512–13514(c), 13515(a)(1), (c), 13516(a)(1), 13517(a), 13518(a), Aug. 10, 1993, [107 Stat. 580–583][/us/stat/107/580-583], 585, 586; [Pub. L. 103–432, title I][/us/pl/103/432], §§ 121(b)(1), (2), 122(a), (b), 123(a), (d), 126(b)(6), (g)(2)(B), (5)–(7), (10)(A), Oct. 31, 1994, [108 Stat. 4409][/us/stat/108/4409], 4410, 4412, 4415, 4416; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4022(b)(2)(B), (C), 4102(d), 4103(d), 4104(d), 4105(a)(2), 4106(b), 4501, 4502(a)(1), (b), 4503, 4504(a), 4505(a), (b), (e), (f)(1), 4644(d), 4714(b)(2), Aug. 5, 1997, [111 Stat. 354][/us/stat/111/354], 355, 361, 362, 365, 366, 368, 432–437, 488, 510; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title II, § 211(a)(1), (2)(A), (3)(A), (b), title III, § 321(k)(5)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–345 to 1501A–348, 1501A–366; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title I, § 104(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–469; [Pub. L. 108–7, div. N, title IV, § 402(a)][/us/pl/108/7/s402/a], Feb. 20, 2003, [117 Stat. 548][/us/stat/117/548]; [Pub. L. 108–173, title III, § 303(a)(1)][/us/pl/108/173/s303/a/1], (g)(2), title IV, § 412, title VI, §§ 601(a)(1), (2), (b)(1), 602, 611(c), title VII, § 736(b)(10), Dec. 8, 2003, [117 Stat. 2233][/us/stat/117/2233], 2253, 2274, 2300, 2301, 2304, 2356; [Pub. L. 109–171, title V][/us/pl/109/171], §§ 5102, 5104(a), 5112(c), Feb. 8, 2006, [120 Stat. 39][/us/stat/120/39], 40, 44; [Pub. L. 109–432, div. B, title I][/us/pl/109/432], §§ 101(a), (b), (d), 102, Dec. 20, 2006, [120 Stat. 2975][/us/stat/120/2975], 2980, 2981; [Pub. L. 110–90, § 6][/us/pl/110/90/s6], Sept. 29, 2007, [121 Stat. 985][/us/stat/121/985]; [Pub. L. 110–161, div. G, title II, § 225(c)(2)][/us/pl/110/161/s225/c/2], title V, § 524, Dec. 26, 2007, [121 Stat. 2190][/us/stat/121/2190], 2212; [Pub. L. 110–173, title I][/us/pl/110/173], §§ 101(a)(1), (2)(A), (b)(1), 103, Dec. 29, 2007, [121 Stat. 2493–2495][/us/stat/121/2493-2495]; [Pub. L. 110–252, title VII, § 7002(c)][/us/pl/110/252/s7002/c], June 30, 2008, [122 Stat. 2395][/us/stat/122/2395]; [Pub. L. 110–275, title I][/us/pl/110/275], §§ 131(a)(1), (3)(C), (b)(1)–(4)(A), (5), (c)(1), 132(a), (b), 133(b), 134, 139(a), 144(a)(2), 152(b)(1)(C), July 15, 2008, [122 Stat. 2520–2522][/us/stat/122/2520-2522], 2525–2527, 2529, 2532, 2541, 2546, 2552; [Pub. L. 111–5, div. B, title IV, § 4101(a)][/us/pl/111/5/s4101/a], (b), (f), Feb. 17, 2009, [123 Stat. 467][/us/stat/123/467], 472, 476; [Pub. L. 111–118, div. B, § 1011(a)][/us/pl/111/118/s1011/a], Dec. 19, 2009, [123 Stat. 3473][/us/stat/123/3473]; [Pub. L. 111–144, § 5][/us/pl/111/144/s5], Mar. 2, 2010, [124 Stat. 46][/us/stat/124/46]; [Pub. L. 111–148, title III][/us/pl/111/148], §§ 3002(a)–(c)(1), (d)–(f), 3003(a), 3007, 3101, 3102, 3111(a)(1), 3134(a), 3135(a), (b), title IV, § 4103(c)(2), title V, § 5501(c), title X, §§ 10310, 10324(c), 10327(a), 10501(h), Mar. 23, 2010, [124 Stat. 363–366][/us/stat/124/363-366], 373, 415, 416, 421, 434, 436, 437, 556, 654, 942, 960, 962, 997; [Pub. L. 111–152, title I][/us/pl/111/152], §§ 1107, 1108, Mar. 30, 2010, [124 Stat. 1050][/us/stat/124/1050]; [Pub. L. 111–157][/us/pl/111/157], §§ 4, 5(a)(1), Apr. 15, 2010, [124 Stat. 1117][/us/stat/124/1117]; [Pub. L. 111–192, title I, § 101(a)][/us/pl/111/192/s101/a], June 25, 2010, [124 Stat. 1280][/us/stat/124/1280]; [Pub. L. 111–286][/us/pl/111/286], §§ 2, 3, Nov. 30, 2010, [124 Stat. 3056][/us/stat/124/3056]; [Pub. L. 111–309, title I][/us/pl/111/309], §§ 101, 103, Dec. 15, 2010, [124 Stat. 3285][/us/stat/124/3285], 3287; [Pub. L. 112–78, title III][/us/pl/112/78], §§ 301, 303, 309, Dec. 23, 2011, [125 Stat. 1283][/us/stat/125/1283], 1284, 1286; [Pub. L. 112–96, title III][/us/pl/112/96], §§ 3003(a), 3004(a), Feb. 22, 2012, [126 Stat. 186][/us/stat/126/186], 187; [Pub. L. 112–240, title VI][/us/pl/112/240], §§ 601(a), (b)(1), 602, 633(a), 635, Jan. 2, 2013, [126 Stat. 2345][/us/stat/126/2345], 2347, 2355, 2356.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1848, as added [Pub. L. 101–239, title VI, § 6102(a)][/us/pl/101/239/s6102/a], Dec. 19, 1989, [103 Stat. 2169][/us/stat/103/2169]; amended [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4102(b), (g)(2), 4104(b)(2), 4105(a)(3), (c), 4106(b)(1), 4107(a)(1), 4109(a), 4116, 4118(b)–(f)(1), (k), Nov. 5, 1990, [104 Stat. 1388–56][/us/stat/104/1388-56], 1388–57, 1388–59 to 1388–63, 1388–65, 1388–67, 1388–68, 1388–71; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13511(a), 13512–13514(c), 13515(a)(1), (c), 13516(a)(1), 13517(a), 13518(a), Aug. 10, 1993, [107 Stat. 580–583][/us/stat/107/580-583], 585, 586; [Pub. L. 103–432, title I][/us/pl/103/432], §§ 121(b)(1), (2), 122(a), (b), 123(a), (d), 126(b)(6), (g)(2)(B), (5)–(7), (10)(A), Oct. 31, 1994, [108 Stat. 4409][/us/stat/108/4409], 4410, 4412, 4415, 4416; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4022(b)(2)(B), (C), 4102(d), 4103(d), 4104(d), 4105(a)(2), 4106(b), 4501, 4502(a)(1), (b), 4503, 4504(a), 4505(a), (b), (e), (f)(1), 4644(d), 4714(b)(2), Aug. 5, 1997, [111 Stat. 354][/us/stat/111/354], 355, 361, 362, 365, 366, 368, 432–437, 488, 510; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title II, § 211(a)(1), (2)(A), (3)(A), (b), title III, § 321(k)(5)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–345 to 1501A–348, 1501A–366; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title I, § 104(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–469; [Pub. L. 108–7, div. N, title IV, § 402(a)][/us/pl/108/7/s402/a], Feb. 20, 2003, [117 Stat. 548][/us/stat/117/548]; [Pub. L. 108–173, title III, § 303(a)(1)][/us/pl/108/173/s303/a/1], (g)(2), title IV, § 412, title VI, §§ 601(a)(1), (2), (b)(1), 602, 611(c), title VII, § 736(b)(10), Dec. 8, 2003, [117 Stat. 2233][/us/stat/117/2233], 2253, 2274, 2300, 2301, 2304, 2356; [Pub. L. 109–171, title V][/us/pl/109/171], §§ 5102, 5104(a), 5112(c), Feb. 8, 2006, [120 Stat. 39][/us/stat/120/39], 40, 44; [Pub. L. 109–432, div. B, title I][/us/pl/109/432], §§ 101(a), (b), (d), 102, Dec. 20, 2006, [120 Stat. 2975][/us/stat/120/2975], 2980, 2981; [Pub. L. 110–90, § 6][/us/pl/110/90/s6], Sept. 29, 2007, [121 Stat. 985][/us/stat/121/985]; [Pub. L. 110–161, div. G, title II, § 225(c)(2)][/us/pl/110/161/s225/c/2], title V, § 524, Dec. 26, 2007, [121 Stat. 2190][/us/stat/121/2190], 2212; [Pub. L. 110–173, title I][/us/pl/110/173], §§ 101(a)(1), (2)(A), (b)(1), 103, Dec. 29, 2007, [121 Stat. 2493–2495][/us/stat/121/2493-2495]; [Pub. L. 110–252, title VII, § 7002(c)][/us/pl/110/252/s7002/c], June 30, 2008, [122 Stat. 2395][/us/stat/122/2395]; [Pub. L. 110–275, title I][/us/pl/110/275], §§ 131(a)(1), (3)(C), (b)(1)–(4)(A), (5), (c)(1), 132(a), (b), 133(b), 134, 139(a), 144(a)(2), 152(b)(1)(C), July 15, 2008, [122 Stat. 2520–2522][/us/stat/122/2520-2522], 2525–2527, 2529, 2532, 2541, 2546, 2552; [Pub. L. 111–5, div. B, title IV, § 4101(a)][/us/pl/111/5/s4101/a], (b), (f), Feb. 17, 2009, [123 Stat. 467][/us/stat/123/467], 472, 476; [Pub. L. 111–118, div. B, § 1011(a)][/us/pl/111/118/s1011/a], Dec. 19, 2009, [123 Stat. 3473][/us/stat/123/3473]; [Pub. L. 111–144, § 5][/us/pl/111/144/s5], Mar. 2, 2010, [124 Stat. 46][/us/stat/124/46]; [Pub. L. 111–148, title III][/us/pl/111/148], §§ 3002(a)–(c)(1), (d)–(f), 3003(a), 3007, 3101, 3102, 3111(a)(1), 3134(a), 3135(a), (b), title IV, § 4103(c)(2), title V, § 5501(c), title X, §§ 10310, 10324(c), 10327(a), 10501(h), Mar. 23, 2010, [124 Stat. 363–366][/us/stat/124/363-366], 373, 415, 416, 421, 434, 436, 437, 556, 654, 942, 960, 962, 997; [Pub. L. 111–152, title I][/us/pl/111/152], §§ 1107, 1108, Mar. 30, 2010, [124 Stat. 1050][/us/stat/124/1050]; [Pub. L. 111–157][/us/pl/111/157], §§ 4, 5(a)(1), Apr. 15, 2010, [124 Stat. 1117][/us/stat/124/1117]; [Pub. L. 111–192, title I, § 101(a)][/us/pl/111/192/s101/a], June 25, 2010, [124 Stat. 1280][/us/stat/124/1280]; [Pub. L. 111–286][/us/pl/111/286], §§ 2, 3, Nov. 30, 2010, [124 Stat. 3056][/us/stat/124/3056]; [Pub. L. 111–309, title I][/us/pl/111/309], §§ 101, 103, Dec. 15, 2010, [124 Stat. 3285][/us/stat/124/3285], 3287; [Pub. L. 112–78, title III][/us/pl/112/78], §§ 301, 303, 309, Dec. 23, 2011, [125 Stat. 1283][/us/stat/125/1283], 1284, 1286; [Pub. L. 112–96, title III][/us/pl/112/96], §§ 3003(a), 3004(a), Feb. 22, 2012, [126 Stat. 186][/us/stat/126/186], 187; [Pub. L. 112–240, title VI][/us/pl/112/240], §§ 601(a), (b)(1), 602, 633(a), 635, Jan. 2, 2013, [126 Stat. 2345][/us/stat/126/2345], 2347, 2355, 2356; [Pub. L. 113–67, div. B, title I][/us/pl/113/67], §§ 1101, 1102, Dec. 26, 2013, [127 Stat. 1196][/us/stat/127/1196].)
 
  __References in Text__ 
 
@@ -2247,7 +2257,11 @@
 
     Subsec. (d)(14). [Pub. L. 112–240, § 601(a)][/us/pl/112/240/s601/a], added par. (14).
 
-    Subsec. (e)(1)(E). [Pub. L. 112–240, § 602][/us/pl/112/240/s602], substituted “before January 1, 2014” for “before January 1, 2013”.
+    Subsec. (d)(15). [Pub. L. 113–67, § 1101][/us/pl/113/67/s1101], added par. (15).
+
+    Subsec. (e)(1)(E). [Pub. L. 113–67, § 1102][/us/pl/113/67/s1102], substituted “April 1, 2014” for “January 1, 2014”.
+
+    [Pub. L. 112–240, § 602][/us/pl/112/240/s602], substituted “before January 1, 2014” for “before January 1, 2013”.
 
     Subsec. (m)(3)(D) to (F). [Pub. L. 112–240, § 601(b)(1)][/us/pl/112/240/s601/b/1], added subpars. (D) and (E) and redesignated former subpar. (D) as (F).
 
@@ -3021,6 +3035,24 @@
 
     For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which item 8 on page 94 identifies a reporting provision which, as subsequently amended, is contained in subsec. (g)(6)(B) of this section and in which item 9 on page 94 identifies a reporting provision which is contained in subsec. (g)(7)(B) of this section), see [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance.
 
+ __Centers for Medicare & Medicaid Services to Study Reform of Physician Reimbursements__ 
+
+[Pub. L. 113–67, div. B, § 1002][/us/pl/113/67/s1002], Dec. 26, 2013, [127 Stat. 1195][/us/stat/127/1195], provided that: 
+
+> “In order to support the provision of quality care for our nation’s seniors, Congress finds it appropriate to reform physician reimbursements under the Medicare program. SGR reform legislation provides such an opportunity, but not until next year. In order to facilitate such reform, Congress finds that the Centers for Medicare & Medicaid Services should continue to focus its efforts on the following areas:
+
+>     “(1)  __Simplify and reduce administrative burden on physicians__  __.—__ 
+
+>     The application and assessment of measures and other activities under SGR reform should be facilitated by the Centers for Medicare and Medicaid Services (CMS) in a way that accounts for the administrative burden such measurement places on physicians. Therefore, the Congress encourages CMS to identify and implement, to the extent practicable, mechanisms to ensure that the application and assessment of measures be coordinated across programs.
+
+>     “(2)  __Timely feedback for physicians__  __.—__ 
+
+>     In order for measure and assessment programs to encourage the highest quality care for Medicare seniors, the Congress finds it critical that CMS provide physicians with feedback on performance in as close to real time as possible. Such timely feedback will ensure that physicians can excel under a system of meaningful measurement.
+
+>     “(3)  __Encourage development of new models__  __.—__ 
+
+>     There is great need to test alternatives to Fee-For-Service reimbursement in the Medicare program. One option is the promotion and adoption of new models of care for physicians. To date, there has been significant development and testing of models for primary care. Congress supports these efforts and encourages them to continue in the future. Congress also encourages the development and testing of models of specialty care.”
+
  __Implementation of 2010 Amendment__ 
 
 [Pub. L. 111–157, § 5(c)][/us/pl/111/157/s5/c], Apr. 15, 2010, [124 Stat. 1118][/us/stat/124/1118], provided that: 
@@ -3417,7 +3449,7 @@
 
  __Ancillary Policies; Adjustment for Independent Laboratories Furnishing Physician Pathology Services__ 
 
-[Pub. L. 101–508, title IV, § 4104(c)][/us/pl/101/508/s4104/c], Nov. 5, 1990, [104 Stat. 1388–59][/us/stat/104/1388-59], provided: 
+[Pub. L. 101–508, title IV, § 4104(c)][/us/pl/101/508/s4104/c], Nov. 5, 1990, [104 Stat. 1388–59][/us/stat/104/1388-59], provided that: 
 
 > “The Secretary of Health and Human Services, in establishing ancillary policies under section 1848(c)(3) of the Social Security Act \[[42 U.S.C. 1395w–4(c)(3)][/us/usc/t42/s1395w–4/c/3]\], shall consider an appropriate adjustment to reflect the technical component of furnishing physician pathology services through a laboratory that is independent of a hospital and separate from an attending or consulting physician’s office.”
 
@@ -3621,6 +3653,8 @@
 [/us/stat/126/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F186
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/stat/126/2345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2345
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/stat/127/1196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1196
 [/us/pl/103/66/s13515/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13515%2Fb
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
 [/us/pl/101/239/s6105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6105%2Fb
@@ -3643,6 +3677,8 @@
 [/us/pl/112/240/s633/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs633%2Fa
 [/us/pl/112/240/s635/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs635%2F2
 [/us/pl/112/240/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs601%2Fa
+[/us/pl/113/67/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs1101
+[/us/pl/113/67/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs1102
 [/us/pl/112/240/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs602
 [/us/pl/112/240/s601/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs601%2Fb%2F1
 [/us/pl/112/96/s3003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs3003%2Fa%2F1
@@ -4072,6 +4108,8 @@
 [/us/usc/t42/s1395b–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%936
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
+[/us/pl/113/67/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs1002
+[/us/stat/127/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1195
 [/us/pl/111/157/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F157%2Fs5%2Fc
 [/us/stat/124/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1118
 [/us/usc/t42/s1396b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b

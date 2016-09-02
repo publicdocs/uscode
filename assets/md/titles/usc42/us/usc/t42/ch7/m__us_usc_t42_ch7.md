@@ -1913,6 +1913,14 @@ Part A—General Provisions  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1306c" data-uslm-ref="/us/usc/t42/s1306c">1306c.</a>  </td>
+
+    <td> Restriction on access to the Death Master File.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1307" data-uslm-ref="/us/usc/t42/s1307">1307.</a>  </td>
 
     <td> Penalty for fraud.  </td>

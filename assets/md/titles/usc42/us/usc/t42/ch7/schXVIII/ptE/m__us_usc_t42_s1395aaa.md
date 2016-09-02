@@ -203,9 +203,9 @@
 
     (d) __Funding__ 
 
-        For purposes of carrying out this section, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under [section 1395i of this title][/us/usc/t42/s1395i] and the Federal Supplementary Medical Insurance Trust Fund under [section 1395t of this title][/us/usc/t42/s1395t] (in such proportion as the Secretary determines appropriate), of $10,000,000 to the Centers for Medicare & Medicaid Services Program Management Account for each of fiscal years 2009 through 2013.
+        For purposes of carrying out this section, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under [section 1395i of this title][/us/usc/t42/s1395i] and the Federal Supplementary Medical Insurance Trust Fund under [section 1395t of this title][/us/usc/t42/s1395t] (in such proportion as the Secretary determines appropriate), of $10,000,000 to the Centers for Medicare & Medicaid Services Program Management Account for each of fiscal years 2009 through 2013. Amounts transferred under the preceding sentence shall remain available until expended.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1890, as added [Pub. L. 110–275, title I, § 183(a)(1)][/us/pl/110/275/s183/a/1], July 15, 2008, [122 Stat. 2583][/us/stat/122/2583]; amended [Pub. L. 111–148, title III][/us/pl/111/148], §§ 3003(b), 3014(a), title X, §§ 10304, 10322(b), Mar. 23, 2010, [124 Stat. 367][/us/stat/124/367], 384, 938, 954; [Pub. L. 112–240, title VI, § 609(a)][/us/pl/112/240/s609/a], Jan. 2, 2013, [126 Stat. 2349][/us/stat/126/2349].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1890, as added [Pub. L. 110–275, title I, § 183(a)(1)][/us/pl/110/275/s183/a/1], July 15, 2008, [122 Stat. 2583][/us/stat/122/2583]; amended [Pub. L. 111–148, title III][/us/pl/111/148], §§ 3003(b), 3014(a), title X, §§ 10304, 10322(b), Mar. 23, 2010, [124 Stat. 367][/us/stat/124/367], 384, 938, 954; [Pub. L. 112–240, title VI, § 609(a)][/us/pl/112/240/s609/a], Jan. 2, 2013, [126 Stat. 2349][/us/stat/126/2349]; [Pub. L. 113–67, div. B, title I, § 1109][/us/pl/113/67/s1109], Dec. 26, 2013, [127 Stat. 1197][/us/stat/127/1197].)
 
  __References in Text__ 
 
@@ -223,7 +223,9 @@
 
     2013—Subsec. (b)(4). [Pub. L. 112–240, § 609(a)(2)][/us/pl/112/240/s609/a/2], struck out par. (4). Text read as follows: “The entity shall promote the development and use of electronic health records that contain the functionality for automated collection, aggregation, and transmission of performance measurement information.”
 
-    Subsec. (d). [Pub. L. 112–240, § 609(a)(1)][/us/pl/112/240/s609/a/1], substituted “fiscal years 2009 through 2013” for “fiscal years 2009 through 2012”.
+    Subsec. (d). [Pub. L. 113–67][/us/pl/113/67] inserted at end “Amounts transferred under the preceding sentence shall remain available until expended.”
+
+    [Pub. L. 112–240, § 609(a)(1)][/us/pl/112/240/s609/a/1], substituted “fiscal years 2009 through 2013” for “fiscal years 2009 through 2012”.
 
     2010—Subsec. (b)(5)(A)(iv) to (vi). [Pub. L. 111–148, § 3014(a)(2)][/us/pl/111/148/s3014/a/2], added cls. (iv) to (vi).
 
@@ -264,6 +266,8 @@
 [/us/stat/124/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F367
 [/us/pl/112/240/s609/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs609%2Fa
 [/us/stat/126/2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2349
+[/us/pl/113/67/s1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs1109
+[/us/stat/127/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1197
 [/us/pl/104/113/s12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs12%2Fd
 [/us/usc/t15/s272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs272
 [/us/usc/t41/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs132
@@ -279,6 +283,7 @@
 [/us/stat/102/2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2421
 [/us/usc/t42/s1395y/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fe%2F2
 [/us/pl/112/240/s609/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs609%2Fa%2F2
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/112/240/s609/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs609%2Fa%2F1
 [/us/pl/111/148/s3014/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3014%2Fa%2F2
 [/us/pl/111/148/s3003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3003%2Fb

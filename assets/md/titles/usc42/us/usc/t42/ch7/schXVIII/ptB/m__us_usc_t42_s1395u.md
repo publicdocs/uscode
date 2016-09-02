@@ -2725,7 +2725,7 @@
 
 [Pub. L. 101–508, title IV, § 4114][/us/pl/101/508/s4114], Nov. 5, 1990, [104 Stat. 1388–65][/us/stat/104/1388-65], as amended by [Pub. L. 103–432, title I, § 126(g)(4)][/us/pl/103/432/s126/g/4], Oct. 31, 1994, [108 Stat. 4416][/us/stat/108/4416], provided that: 
 
-> “Not later than 180 days after the date of the enactment of this Act \[Nov. 5, 1990\], the Secretary of Health and Human Services shall issue guidelines to assure a uniform level of review of physician visits to patients of a rehabilitation hospital or unit after the medical review screen parameter established under section 4085(h) of the Omnibus Budget Reconciliation Act of 1987 \[[Pub. L. 100–203][/us/pl/100/203], set out below\] has been ex­ceeded.”
+> “Not later than 180 days after the date of the enactment of this Act \[Nov. 5, 1990\], the Secretary of Health and Human Services shall issue guidelines to assure a uniform level of review of physician visits to patients of a rehabilitation hospital or unit after the medical review screen parameter established under section 4085(h) of the Omnibus Budget Reconciliation Act of 1987 \[[Pub. L. 100–203][/us/pl/100/203], set out below\] has been exceeded.”
 
 [Pub. L. 100–203, title IV, § 4085(h)][/us/pl/100/203/s4085/h], Dec. 22, 1987, [101 Stat. 1330–131][/us/stat/101/1330-131], provided that:
 

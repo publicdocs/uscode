@@ -91,7 +91,7 @@
 
     Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; [64 Stat. 1267][/us/stat/64/1267]), referred to in subsec. (e), is set out in the Appendix to Title 5, Government Organization and Employees.
 
-    Part G of subchapter II of this chapter, referred to in subsec. (g), is classified to [section 264 of this title][/us/usc/t42/s264].
+    Part G of subchapter II of this chapter, referred to in subsec. (g), is classified to section 264 et seq. of this title.
 
  __Codification__ 
 
@@ -135,7 +135,6 @@
 [/us/pl/103/437/s15/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15%2Fa%2F2
 [/us/stat/108/4591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4591
 [/us/stat/64/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1267
-[/us/usc/t42/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs264
 [/us/usc/t40/s276a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs276a
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
 [/us/act/1934-06-13/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-13%2Fs2

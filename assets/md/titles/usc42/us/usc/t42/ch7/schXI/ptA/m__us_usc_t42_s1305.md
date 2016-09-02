@@ -21,6 +21,10 @@
 
  __Short Title of 2013 Amendment__ 
 
+[Pub. L. 113–67, div. B, § 1001(a)][/us/pl/113/67/s1001/a], Dec. 26, 2013, [127 Stat. 1195][/us/stat/127/1195], provided that: 
+
+> “This division \[amending sections 701, 1395l, 1395m, 1395w–4, 1395w–28, 1395mm, 1395ww, 1395aaa, 1396a, 1396r–4, 1396r–6, and 1396u–3 of this title and [section 901a of Title 2][/us/usc/t2/s901a], The Congress, enacting provisions set out as notes under sections 1395w–4, 1395ww, and 1396r–4 of this title, and amending provisions set out as notes under sections 1395b–3 and 1395ww of this title\] may be cited as the ‘Pathway for SGR Reform Act of 2013’.”
+
 [Pub. L. 112–275, § 1][/us/pl/112/275/s1], Jan. 14, 2013, [126 Stat. 2460][/us/stat/126/2460], provided that: 
 
 > “This Act \[amending [section 603 of this title][/us/usc/t42/s603]\] may be cited as the ‘Protect our Kids Act of 2012’.”
@@ -516,6 +520,9 @@
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F648
+[/us/pl/113/67/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs1001%2Fa
+[/us/stat/127/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1195
+[/us/usc/t2/s901a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901a
 [/us/pl/112/275/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F275%2Fs1
 [/us/stat/126/2460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2460
 [/us/usc/t42/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs603

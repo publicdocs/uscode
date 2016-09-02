@@ -105,7 +105,7 @@
 
     (d) __Annual report__ 
 
-        A State that is awarded a grant under this section shall submit an annual report to the Secretary on the use of funds provided under the grant. Each report shall include the percentage increase in the number of title II disability beneficiaries, as defined in [section 1320b–19(k)(3) of this title][/us/usc/t42/s1320b–19/k/3] in the State, and title XVI disability beneficiaries, as defined in [section 1320b–19(k)(4) of this title][/us/usc/t42/s1320b–19/k/4] in the State who return to work.
+        A State that is awarded a grant under this section shall submit an annual report to the Secretary on the use of funds provided under the grant. Each report shall include the percentage increase in the number of title II disability beneficiaries, as defined in [section 1320b–19(k)(3) of this title][/us/usc/t42/s1320b–19/k/3] (as added by section 101(a) of this Act) in the State, and title XVI disability beneficiaries, as defined in [section 1320b–19(k)(4) of this title][/us/usc/t42/s1320b–19/k/4] (as so added) in the State who return to work.
 
     (e) __Appropriation__ 
 
@@ -137,6 +137,8 @@
 
  __References in Text__ 
 
+    Section 101(a) of this Act, referred to in subsec. (d), is section 101(a) of the Ticket to Work and Work Incentives Improvement Act of 1999, [Pub. L. 106–170][/us/pl/106/170], which enacted [section 1320b–19 of this title][/us/usc/t42/s1320b–19].
+
     Section 101(f) of this Act, referred to in subsec. (f), is section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, [Pub. L. 106–170][/us/pl/106/170], which is set out as a note under [section 1320b–19 of this title][/us/usc/t42/s1320b–19].
 
  __Codification__ 
@@ -163,6 +165,8 @@
 [/us/usc/t42/s1320b–19/k/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319%2Fk%2F4
 [/us/pl/106/170/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs203
 [/us/stat/113/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1894
+[/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
+[/us/usc/t42/s1320b–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/usc/t42/s1320b–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319
 

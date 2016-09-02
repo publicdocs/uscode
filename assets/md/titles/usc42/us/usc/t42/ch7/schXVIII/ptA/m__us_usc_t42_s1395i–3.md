@@ -1331,7 +1331,7 @@
 
 > “The amendments made by this paragraph \[amending this section\] shall take effect January 1, 1995.”
 
-[Pub. L. 103–432, title I, § 106(d)(7)][/us/pl/103/432/s106/d/7], Oct. 31, 1994, [108 Stat. 4407][/us/stat/108/4407] provided that: 
+[Pub. L. 103–432, title I, § 106(d)(7)][/us/pl/103/432/s106/d/7], Oct. 31, 1994, [108 Stat. 4407][/us/stat/108/4407], provided that: 
 
 > “The amendments made by this subsection \[amending this section and provisions set out as a note below\] shall take effect as if included in the enactment of OBRA–1990 \[[Pub. L. 101–508][/us/pl/101/508]\].”
 

@@ -41,7 +41,7 @@
 
         (1) __In general__ 
 
-            The Director may provide training grants in the field of health services research related to activities authorized under subsection (a) of this section, to include pre- and post-doctoral fellowships and training programs, young investigator awards, and other programs and activities as appropriate. In carrying out this subsection, the Director shall make use of funds made available under [section 288(d)(3) of this title][/us/usc/t42/s288/d/3] as well as other appropriated funds.
+            The Director may provide training grants in the field of health services research related to activities authorized under subsection (a) of this section, to include pre- and post-doctoral fellowships and training programs, young investigator awards, and other programs and activities as appropriate. In carrying out this subsection, the Director shall make use of funds made available under section 288(d)(3)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title as well as other appropriated funds.
 
         (2) __Requirements__ 
 
@@ -66,6 +66,8 @@
 ([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IX, § 902, as added [Pub. L. 106–129, § 2(a)][/us/pl/106/129/s2/a], Dec. 6, 1999, [113 Stat. 1654][/us/stat/113/1654]; amended [Pub. L. 106–525, title II, § 201(a)(1)][/us/pl/106/525/s201/a/1], Nov. 22, 2000, [114 Stat. 2505][/us/stat/114/2505].)
 
  __References in Text__ 
+
+    [Section 288(d)(3) of this title][/us/usc/t42/s288/d/3], referred to in subsec. (b)(1), was repealed by [Pub. L. 109–482, title I, § 103(b)(47)][/us/pl/109/482/s103/b/47], Jan. 15, 2007, [120 Stat. 3688][/us/stat/120/3688].
 
     The Social Security Act, referred to in subsec. (d), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], which is classified generally to chapter 7 (§ 301 et seq.) of this title. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
 
@@ -117,7 +119,6 @@
 ----------
 
 [/us/usc/t42/s299/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299%2Fb
-[/us/usc/t42/s288/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs288%2Fd%2F3
 [/us/usc/t42/s299/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299%2Fc%2F1%2FB
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
@@ -127,6 +128,9 @@
 [/us/stat/113/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1654
 [/us/pl/106/525/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F525%2Fs201%2Fa%2F1
 [/us/stat/114/2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2505
+[/us/usc/t42/s288/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs288%2Fd%2F3
+[/us/pl/109/482/s103/b/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs103%2Fb%2F47
+[/us/stat/120/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3688
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305

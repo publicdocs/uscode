@@ -33,15 +33,25 @@
 
     (b) Such part of any amount collected by the State under an assignment made under the provisions of this section shall be retained by the State as is necessary to reimburse it for medical assistance payments made on behalf of an individual with respect to whom such assignment was executed (with appropriate reimbursement of the Federal Government to the extent of its participation in the financing of such medical assistance), and the remainder of such amount collected shall be paid to such individual.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1912, as added [Pub. L. 95–142, § 11(b)][/us/pl/95/142/s11/b], Oct. 25, 1977, [91 Stat. 1196][/us/stat/91/1196]; amended [Pub. L. 98–369, div. B, title III, § 2367(b)][/us/pl/98/369/s2367/b], July 18, 1984, [98 Stat. 1109][/us/stat/98/1109]; [Pub. L. 99–272, title IX, § 9503(e)][/us/pl/99/272/s9503/e], Apr. 7, 1986, [100 Stat. 207][/us/stat/100/207]; [Pub. L. 101–508, title IV, § 4606(a)][/us/pl/101/508/s4606/a], Nov. 5, 1990, [104 Stat. 1388–170][/us/stat/104/1388-170].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1912, as added [Pub. L. 95–142, § 11(b)][/us/pl/95/142/s11/b], Oct. 25, 1977, [91 Stat. 1196][/us/stat/91/1196]; amended [Pub. L. 98–369, div. B, title III, § 2367(b)][/us/pl/98/369/s2367/b], July 18, 1984, [98 Stat. 1109][/us/stat/98/1109]; [Pub. L. 99–272, title IX, § 9503(e)][/us/pl/99/272/s9503/e], Apr. 7, 1986, [100 Stat. 207][/us/stat/100/207]; [Pub. L. 101–508, title IV, § 4606(a)][/us/pl/101/508/s4606/a], Nov. 5, 1990, [104 Stat. 1388–170][/us/stat/104/1388-170]; [Pub. L. 113–67, div. A, title II, § 202(b)(2)][/us/pl/113/67/s202/b/2], Dec. 26, 2013, [127 Stat. 1177][/us/stat/127/1177].)
+
+ __Amendment of Subsection (a)(1)(A)__ 
+
+    [Pub. L. 113–67, div. A, title II, § 202(b)(2)][/us/pl/113/67/s202/b/2], (c), Dec. 26, 2013, [127 Stat. 1177][/us/stat/127/1177], provided that, effective Oct. 1, 2014, subsection (a)(1)(A) of this section is amended by striking “payment for medical care from any third party” and inserting “any payment from a third party that has a legal liability to pay for care and services available under the plan”. See 2013 Amendment note below.
 
  __Amendments__ 
+
+    2013—Subsec. (a)(1)(A). [Pub. L. 113–67][/us/pl/113/67] substituted “any payment from a third party that has a legal liability to pay for care and services available under the plan” for “payment for medical care from any third party”.
 
     1990—Subsec. (a)(1)(B). [Pub. L. 101–508][/us/pl/101/508] inserted “the individual is described in section 1396a(l)(1)(A) of this title or” after “unless (in either case)”.
 
     1986—Subsec. (a)(1)(C). [Pub. L. 99–272][/us/pl/99/272] added subpar. (C).
 
     1984—Subsec. (a). [Pub. L. 98–369][/us/pl/98/369] substituted “State plan for medical assistance shall” for “State plan for medical assistance may”.
+
+ __Effective Date of 2013 Amendment__ 
+
+    Amendment by [Pub. L. 113–67][/us/pl/113/67] effective Oct. 1, 2014, see [section 202(c) of Pub. L. 113–67][/us/pl/113/67/s202/c], set out as a note under [section 1396a of this title][/us/usc/t42/s1396a].
 
  __Effective Date of 1990 Amendment__ 
 
@@ -74,9 +84,17 @@
 [/us/stat/100/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F207
 [/us/pl/101/508/s4606/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4606%2Fa
 [/us/stat/104/1388-170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-170
+[/us/pl/113/67/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs202%2Fb%2F2
+[/us/stat/127/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1177
+[/us/pl/113/67/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs202%2Fb%2F2
+[/us/stat/127/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1177
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/pl/113/67/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs202%2Fc
+[/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
 [/us/pl/101/508/s4606/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4606%2Fb
 [/us/stat/104/1388-170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-170
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272

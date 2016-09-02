@@ -75,12 +75,6 @@
 
     A prior section 296j, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VIII, § 815, as added July 29, 1975, [Pub. L. 94–63, title IX, § 921][/us/pl/94/63/s921], [89 Stat. 358][/us/stat/89/358]; amended Aug. 13, 1981, [Pub. L. 97–35, title XXVII, § 2752][/us/pl/97/35/s2752], [95 Stat. 929][/us/stat/95/929], set forth provisions relating to authorization, terms and conditions, etc., respecting grants for operational costs or meeting accreditation requirements, prior to repeal by [Pub. L. 99–92][/us/pl/99/92], §§ 9(a)(1), 10(a), Aug. 16, 1985, [99 Stat. 400][/us/stat/99/400], 402, effective Oct. 1, 1985.
 
-    Prior sections 296k and 296l were repealed by [Pub. L. 105–392, title I, § 123(1)][/us/pl/105/392/s123/1], Nov. 13, 1998, [112 Stat. 3562][/us/stat/112/3562].
-
-    Section 296k, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VIII, § 820, as added [Pub. L. 94–63, title IX, § 931(a)][/us/pl/94/63/s931/a], July 29, 1975, [89 Stat. 359][/us/stat/89/359]; amended [Pub. L. 96–76, title I, § 105][/us/pl/96/76/s105], Sept. 29, 1979, [93 Stat. 579][/us/stat/93/579]; [Pub. L. 97–35, title XXVII, § 2753(a)(1)][/us/pl/97/35/s2753/a/1], (b), Aug. 13, 1981, [95 Stat. 929][/us/stat/95/929]; [Pub. L. 99–92, § 3][/us/pl/99/92/s3], Aug. 16, 1985, [99 Stat. 393][/us/stat/99/393]; [Pub. L. 99–129, title II, § 227(a)][/us/pl/99/129/s227/a], Oct. 22, 1985, [99 Stat. 547][/us/stat/99/547]; [Pub. L. 100–607, title VII][/us/pl/100/607], §§ 701(a)(2), (b)–(i), 721(b)(1), Nov. 4, 1988, [102 Stat. 3153–3156][/us/stat/102/3153-3156], 3165; [Pub. L. 102–408, title II, § 202(a)][/us/pl/102/408/s202/a], Oct. 13, 1992, [106 Stat. 2069][/us/stat/106/2069]; [Pub. L. 102–531, title III, § 313(a)(9)][/us/pl/102/531/s313/a/9], Oct. 27, 1992, [106 Stat. 3507][/us/stat/106/3507], authorized grants and contracts for special projects.
-
-    Section 296l, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VIII, § 821, as added [Pub. L. 94–63, title IX, § 931(a)][/us/pl/94/63/s931/a], July 29, 1975, [89 Stat. 361][/us/stat/89/361]; amended [Pub. L. 96–76, title I, § 106][/us/pl/96/76/s106], Sept. 29, 1979, [93 Stat. 579][/us/stat/93/579]; [Pub. L. 97–35, title XXVII, § 2754][/us/pl/97/35/s2754], Aug. 13, 1981, [95 Stat. 930][/us/stat/95/930]; [Pub. L. 99–92, § 4][/us/pl/99/92/s4], Aug. 16, 1985, [99 Stat. 394][/us/stat/99/394]; [Pub. L. 99–129, title II, § 227(b)][/us/pl/99/129/s227/b], Oct. 22, 1985, [99 Stat. 548][/us/stat/99/548]; [Pub. L. 100–607, title VII, § 702][/us/pl/100/607/s702], Nov. 4, 1988, [102 Stat. 3157][/us/stat/102/3157]; [Pub. L. 102–408, title II, § 203][/us/pl/102/408/s203], Oct. 13, 1992, [106 Stat. 2072][/us/stat/106/2072], authorized grants and contracts for advanced nurse education.
-
  __Amendments__ 
 
     2010—Subsec. (c). [Pub. L. 111–148, § 5308(1)][/us/pl/111/148/s5308/1], struck out “and nurse midwifery programs” after “practitioner” in heading and “and nurse midwifery” after “practitioner” in introductory provisions.
@@ -113,40 +107,6 @@
 [/us/stat/95/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F929
 [/us/pl/99/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F92
 [/us/stat/99/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F400
-[/us/pl/105/392/s123/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F392%2Fs123%2F1
-[/us/stat/112/3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3562
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/94/63/s931/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2Fs931%2Fa
-[/us/stat/89/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F359
-[/us/pl/96/76/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2Fs105
-[/us/stat/93/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F579
-[/us/pl/97/35/s2753/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2753%2Fa%2F1
-[/us/stat/95/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F929
-[/us/pl/99/92/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F92%2Fs3
-[/us/stat/99/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F393
-[/us/pl/99/129/s227/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2Fs227%2Fa
-[/us/stat/99/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F547
-[/us/pl/100/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607
-[/us/stat/102/3153-3156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3153-3156
-[/us/pl/102/408/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs202%2Fa
-[/us/stat/106/2069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2069
-[/us/pl/102/531/s313/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs313%2Fa%2F9
-[/us/stat/106/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3507
-[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
-[/us/pl/94/63/s931/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F63%2Fs931%2Fa
-[/us/stat/89/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F361
-[/us/pl/96/76/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2Fs106
-[/us/stat/93/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F579
-[/us/pl/97/35/s2754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2754
-[/us/stat/95/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F930
-[/us/pl/99/92/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F92%2Fs4
-[/us/stat/99/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F394
-[/us/pl/99/129/s227/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F129%2Fs227%2Fb
-[/us/stat/99/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F548
-[/us/pl/100/607/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs702
-[/us/stat/102/3157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3157
-[/us/pl/102/408/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs203
-[/us/stat/106/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2072
 [/us/pl/111/148/s5308/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5308%2F1
 [/us/pl/111/148/s5308/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5308%2F3
 [/us/pl/111/148/s5308/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5308%2F3

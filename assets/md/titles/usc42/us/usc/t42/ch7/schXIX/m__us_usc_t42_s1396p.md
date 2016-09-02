@@ -553,13 +553,27 @@
 
         (5) The term “resources” has the meaning given such term in [section 1382b of this title][/us/usc/t42/s1382b], without regard (in the case of an institutionalized individual) to the exclusion described in subsection (a)(1) of such section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1917, as added [Pub. L. 97–248, title I, § 132(b)][/us/pl/97/248/s132/b], Sept. 3, 1982, [96 Stat. 370][/us/stat/96/370]; amended [Pub. L. 97–448, title III, § 309(b)(21)][/us/pl/97/448/s309/b/21], (22), Jan. 12, 1983, [96 Stat. 2410][/us/stat/96/2410]; [Pub. L. 100–203, title IV, § 4211(h)(12)][/us/pl/100/203/s4211/h/12], Dec. 22, 1987, [101 Stat. 1330–207][/us/stat/101/1330-207]; [Pub. L. 100–360, title III, § 303(b)][/us/pl/100/360/s303/b], title IV, § 411(l)(3)(I), July 1, 1988, [102 Stat. 760][/us/stat/102/760], 803; [Pub. L. 100–485, title VI, § 608(d)(16)(B)][/us/pl/100/485/s608/d/16/B], Oct. 13, 1988, [102 Stat. 2417][/us/stat/102/2417]; [Pub. L. 101–239, title VI, § 6411(e)(1)][/us/pl/101/239/s6411/e/1], Dec. 19, 1989, [103 Stat. 2271][/us/stat/103/2271]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13611(a)–(c), 13612(a)–(c), Aug. 10, 1993, [107 Stat. 622–628][/us/stat/107/622-628]; [Pub. L. 109–171, title VI][/us/pl/109/171], §§ 6011(a), (b), (e), 6012(a)–(c), 6014(a), 6015(b), 6016(a)–(d), 6021(a)(1), Feb. 8, 2006, [120 Stat. 61–68][/us/stat/120/61-68]; [Pub. L. 109–432, div. B, title IV, § 405(b)(1)][/us/pl/109/432/s405/b/1], Dec. 20, 2006, [120 Stat. 2998][/us/stat/120/2998]; [Pub. L. 110–275, title I, § 115(a)][/us/pl/110/275/s115/a], July 15, 2008, [122 Stat. 2507][/us/stat/122/2507]; [Pub. L. 111–5, div. B, title V, § 5006(c)][/us/pl/111/5/s5006/c], Feb. 17, 2009, [123 Stat. 507][/us/stat/123/507].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1917, as added [Pub. L. 97–248, title I, § 132(b)][/us/pl/97/248/s132/b], Sept. 3, 1982, [96 Stat. 370][/us/stat/96/370]; amended [Pub. L. 97–448, title III, § 309(b)(21)][/us/pl/97/448/s309/b/21], (22), Jan. 12, 1983, [96 Stat. 2410][/us/stat/96/2410]; [Pub. L. 100–203, title IV, § 4211(h)(12)][/us/pl/100/203/s4211/h/12], Dec. 22, 1987, [101 Stat. 1330–207][/us/stat/101/1330-207]; [Pub. L. 100–360, title III, § 303(b)][/us/pl/100/360/s303/b], title IV, § 411(l)(3)(I), July 1, 1988, [102 Stat. 760][/us/stat/102/760], 803; [Pub. L. 100–485, title VI, § 608(d)(16)(B)][/us/pl/100/485/s608/d/16/B], Oct. 13, 1988, [102 Stat. 2417][/us/stat/102/2417]; [Pub. L. 101–239, title VI, § 6411(e)(1)][/us/pl/101/239/s6411/e/1], Dec. 19, 1989, [103 Stat. 2271][/us/stat/103/2271]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13611(a)–(c), 13612(a)–(c), Aug. 10, 1993, [107 Stat. 622–628][/us/stat/107/622-628]; [Pub. L. 109–171, title VI][/us/pl/109/171], §§ 6011(a), (b), (e), 6012(a)–(c), 6014(a), 6015(b), 6016(a)–(d), 6021(a)(1), Feb. 8, 2006, [120 Stat. 61–68][/us/stat/120/61-68]; [Pub. L. 109–432, div. B, title IV, § 405(b)(1)][/us/pl/109/432/s405/b/1], Dec. 20, 2006, [120 Stat. 2998][/us/stat/120/2998]; [Pub. L. 110–275, title I, § 115(a)][/us/pl/110/275/s115/a], July 15, 2008, [122 Stat. 2507][/us/stat/122/2507]; [Pub. L. 111–5, div. B, title V, § 5006(c)][/us/pl/111/5/s5006/c], Feb. 17, 2009, [123 Stat. 507][/us/stat/123/507]; [Pub. L. 113–67, div. A, title II, § 202(b)(3)][/us/pl/113/67/s202/b/3], Dec. 26, 2013, [127 Stat. 1177][/us/stat/127/1177].)
+
+ __Amendment of Subsection (a)(1)(A)__ 
+
+[Pub. L. 113–67, div. A, title II, § 202(b)(3)][/us/pl/113/67/s202/b/3], (c), Dec. 26, 2013, [127 Stat. 1177][/us/stat/127/1177], provided that, effective Oct. 1, 2014, subsection (a)(1)(A) of this section is amended to read as follows:
+
+    (A) pursuant to—
+
+    (i) the judgment of a court on account of benefits incorrectly paid on behalf of such individual, or
+
+    (ii) rights acquired by or assigned to the State in accordance with [section 1396a(a)(25)(H) of this title][/us/usc/t42/s1396a/a/25/H] or [section 1396k(a)(1)(A) of this title][/us/usc/t42/s1396k/a/1/A], or
+
+    See 2013 Amendment note below.
 
  __References in Text__ 
 
     The Internal Revenue Code of 1986, referred to in subsecs. (b)(1)(C)(iii)(II) and (c)(1)(G)(i), is classified generally to Title 26, Internal Revenue Code.
 
  __Amendments__ 
+
+    2013—Subsec. (a)(1)(A). [Pub. L. 113–67][/us/pl/113/67] amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “pursuant to the judgment of a court on account of benefits incorrectly paid on behalf of such individual, or”.
 
     2009—Subsec. (b)(3). [Pub. L. 111–5][/us/pl/111/5] designated existing provisions as subpar. (A) and added subpar. (B)
 
@@ -666,6 +680,10 @@
     1983—Subsec. (b)(2)(B). [Pub. L. 97–448, § 309(b)(21)][/us/pl/97/448/s309/b/21], substituted “who” for “and” before “has lawfully resided”.
 
     Subsec. (c)(2)(B)(iii). [Pub. L. 97–448, § 309(b)(22)][/us/pl/97/448/s309/b/22], substituted in subcl. (I) “can” for “cannot” and struck out from subcl. (IV) the introductory word “if”.
+
+ __Effective Date of 2013 Amendment__ 
+
+    Amendment by [Pub. L. 113–67][/us/pl/113/67] effective Oct. 1, 2014, see [section 202(c) of Pub. L. 113–67][/us/pl/113/67/s202/c], set out as a note under [section 1396a of this title][/us/usc/t42/s1396a].
 
  __Effective Date of 2009 Amendment__ 
 
@@ -908,6 +926,13 @@
 [/us/stat/122/2507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2507
 [/us/pl/111/5/s5006/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs5006%2Fc
 [/us/stat/123/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F507
+[/us/pl/113/67/s202/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs202%2Fb%2F3
+[/us/stat/127/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1177
+[/us/pl/113/67/s202/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs202%2Fb%2F3
+[/us/stat/127/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1177
+[/us/usc/t42/s1396a/a/25/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F25%2FH
+[/us/usc/t42/s1396k/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396k%2Fa%2F1%2FA
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
 [/us/usc/t42/s1396a/a/10/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F10%2FE
@@ -968,6 +993,9 @@
 [/us/pl/100/360/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411
 [/us/pl/97/448/s309/b/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs309%2Fb%2F21
 [/us/pl/97/448/s309/b/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs309%2Fb%2F22
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/pl/113/67/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs202%2Fc
+[/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/111/5/s5006/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs5006%2Ff
 [/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a

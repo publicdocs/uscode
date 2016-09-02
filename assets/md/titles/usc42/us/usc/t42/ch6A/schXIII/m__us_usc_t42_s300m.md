@@ -65,7 +65,7 @@
 
                 (i)
 
-                 assurances, satisfactory to the Secretary, that the State will maintain the average annual level of State fiscal year expenditures for the services and activities described in paragraphs (1) and (2) of [section 300k(a) of this title][/us/usc/t42/s300k/a] for the period for which the waiver is granted, and for the period for which any extension of such wavier is granted, at a level that is not less than—
+                 assurances, satisfactory to the Secretary, that the State will maintain the average annual level of State fiscal year expenditures for the services and activities described in paragraphs (1) and (2) of [section 300k(a) of this title][/us/usc/t42/s300k/a] for the period for which the waiver is granted, and for the period for which any extension of such wavier  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “waiver”. </sup></sup>  is granted, at a level that is not less than—
 
                     (I) the level of the State fiscal year expenditures for such services and activities for the fiscal year preceding the first fiscal year for which the waiver is granted; or
 
@@ -111,7 +111,7 @@
 
         The Secretary shall include as part of the evaluations and reports required under [section 300n–4 of this title][/us/usc/t42/s300n–4], the following:
 
-            (A) A description of the total amount of dollars leveraged annually from Non-Federal  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “non-Federal”. </sup></sup>  entities in States receiving a waiver under paragraph (1) and how these amounts were used.
+            (A) A description of the total amount of dollars leveraged annually from Non-Federal  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “non-Federal”. </sup></sup>  entities in States receiving a waiver under paragraph (1) and how these amounts were used.
 
             (B)
 

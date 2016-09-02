@@ -3889,6 +3889,8 @@ Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as
 
 > “Subsection (a) \[amending [section 326(d) of Pub. L. 97–35][/us/pl/97/35/s326/d], set out above\] shall apply with respect to actions by public housing agencies initiated on or after the date of the enactment of this Act \[Oct. 28, 1992\].”
 
+\]
+
  __Study by Secretary Concerning Feasibility of Minimum Rent Payment Requirements__ 
 
     [Pub. L. 96–153, title II, § 212][/us/pl/96/153/s212], Dec. 21, 1979, [93 Stat. 1110][/us/stat/93/1110], directed the Secretary of Housing and Urban Development to conduct a study of the feasibility and financial desirability of requiring minimum rent payments from tenants in low-income housing assisted under this chapter, and to submit a report to the Congress containing the findings and conclusions of such study not later than ten days after the Budget for fiscal year 1981 is transmitted pursuant to section 11 of former Title 31, Money and Finance, and directed the Secretary of Housing and Urban Development to conduct a study to provide detailed comparisons between the rents paid by tenants occupying low-income housing assisted under this chapter and the rents paid by tenants at the same income level who are not in assisted housing and to transmit a report on such study to the Congress not later than Mar. 1, 1980.

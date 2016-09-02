@@ -31,7 +31,7 @@
 
     Each center assisted under this section shall, at least, conduct—
 
-        (1) basic and clinical research into the cause diagnosis, early detection, prevention, control and treatment of disorders of hearing and other communication processes and complications resulting from such disorders, including research into rehabilitative aids, implantable biomaterials, auditory speech processors, speech production devices, and other otolaryngologic procedures;
+        (1) basic and clinical research into the cause  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  diagnosis, early detection, prevention, control and treatment of disorders of hearing and other communication processes and complications resulting from such disorders, including research into rehabilitative aids, implantable biomaterials, auditory speech processors, speech production devices, and other otolaryngologic procedures;
 
         (2) training programs for physicians, scientists, and other health and allied health professionals;
 

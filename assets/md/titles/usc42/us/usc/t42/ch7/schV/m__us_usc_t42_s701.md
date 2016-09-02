@@ -91,9 +91,11 @@
 
                 (i) $3,000,000 for fiscal year 2007;
 
-                (ii) $4,000,000 for fiscal year 2008; and
+                (ii) $4,000,000 for fiscal year 2008;
 
-                (iii) $5,000,000 for each of fiscal years 2009 through 2013.
+                (iii) $5,000,000 for each of fiscal years 2009 through 2013; and
+
+                (iv) $2,500,000 for the portion of fiscal year 2014 before April 1, 2014.
 
             (B)
 
@@ -141,7 +143,7 @@
 
         (5) For purposes of this subsection, the term “State” means each of the 50 States and the District of Columbia.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 501, as added [Pub. L. 97–35, title XXI, § 2192(a)][/us/pl/97/35/s2192/a], Aug. 13, 1981, [95 Stat. 818][/us/stat/95/818]; amended [Pub. L. 97–248, title I, § 137(b)(1)][/us/pl/97/248/s137/b/1], (2), Sept. 3, 1982, [96 Stat. 376][/us/stat/96/376]; [Pub. L. 98–369, div. B, title III, § 2372(a)][/us/pl/98/369/s2372/a], July 18, 1984, [98 Stat. 1110][/us/stat/98/1110]; [Pub. L. 99–272, title IX, § 9527(a)][/us/pl/99/272/s9527/a]–(c), Apr. 7, 1986, [100 Stat. 219][/us/stat/100/219]; [Pub. L. 99–509, title IX, § 9441(a)][/us/pl/99/509/s9441/a], Oct. 21, 1986, [100 Stat. 2071][/us/stat/100/2071]; [Pub. L. 100–203, title IV, § 4118(p)(8)][/us/pl/100/203/s4118/p/8], Dec. 22, 1987, [101 Stat. 1330–159][/us/stat/101/1330-159]; [Pub. L. 101–239, title VI, § 6501(a)][/us/pl/101/239/s6501/a], Dec. 19, 1989, [103 Stat. 2273][/us/stat/103/2273]; [Pub. L. 103–432, title II, § 201][/us/pl/103/432/s201], Oct. 31, 1994, [108 Stat. 4453][/us/stat/108/4453]; [Pub. L. 105–12, § 9(d)][/us/pl/105/12/s9/d], Apr. 30, 1997, [111 Stat. 27][/us/stat/111/27]; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 921(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–584; [Pub. L. 109–171, title VI, § 6064][/us/pl/109/171/s6064], Feb. 8, 2006, [120 Stat. 100][/us/stat/120/100]; [Pub. L. 111–148, title V, § 5507(b)][/us/pl/111/148/s5507/b], Mar. 23, 2010, [124 Stat. 668][/us/stat/124/668]; [Pub. L. 112–240, title VI, § 624][/us/pl/112/240/s624], Jan. 2, 2013, [126 Stat. 2352][/us/stat/126/2352].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 501, as added [Pub. L. 97–35, title XXI, § 2192(a)][/us/pl/97/35/s2192/a], Aug. 13, 1981, [95 Stat. 818][/us/stat/95/818]; amended [Pub. L. 97–248, title I, § 137(b)(1)][/us/pl/97/248/s137/b/1], (2), Sept. 3, 1982, [96 Stat. 376][/us/stat/96/376]; [Pub. L. 98–369, div. B, title III, § 2372(a)][/us/pl/98/369/s2372/a], July 18, 1984, [98 Stat. 1110][/us/stat/98/1110]; [Pub. L. 99–272, title IX, § 9527(a)][/us/pl/99/272/s9527/a]–(c), Apr. 7, 1986, [100 Stat. 219][/us/stat/100/219]; [Pub. L. 99–509, title IX, § 9441(a)][/us/pl/99/509/s9441/a], Oct. 21, 1986, [100 Stat. 2071][/us/stat/100/2071]; [Pub. L. 100–203, title IV, § 4118(p)(8)][/us/pl/100/203/s4118/p/8], Dec. 22, 1987, [101 Stat. 1330–159][/us/stat/101/1330-159]; [Pub. L. 101–239, title VI, § 6501(a)][/us/pl/101/239/s6501/a], Dec. 19, 1989, [103 Stat. 2273][/us/stat/103/2273]; [Pub. L. 103–432, title II, § 201][/us/pl/103/432/s201], Oct. 31, 1994, [108 Stat. 4453][/us/stat/108/4453]; [Pub. L. 105–12, § 9(d)][/us/pl/105/12/s9/d], Apr. 30, 1997, [111 Stat. 27][/us/stat/111/27]; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 921(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–584; [Pub. L. 109–171, title VI, § 6064][/us/pl/109/171/s6064], Feb. 8, 2006, [120 Stat. 100][/us/stat/120/100]; [Pub. L. 111–148, title V, § 5507(b)][/us/pl/111/148/s5507/b], Mar. 23, 2010, [124 Stat. 668][/us/stat/124/668]; [Pub. L. 112–240, title VI, § 624][/us/pl/112/240/s624], Jan. 2, 2013, [126 Stat. 2352][/us/stat/126/2352]; [Pub. L. 113–67, div. B, title II, § 1203][/us/pl/113/67/s1203], Dec. 26, 2013, [127 Stat. 1199][/us/stat/127/1199].)
 
  __References in Text__ 
 
@@ -168,6 +170,8 @@
  __Amendments__ 
 
     2013—Subsec. (c)(1)(A)(iii). [Pub. L. 112–240][/us/pl/112/240] substituted “2013” for “2012”.
+
+    Subsec. (c)(1)(A)(iv). [Pub. L. 113–67][/us/pl/113/67] added cl. (iv).
 
     2010—Subsec. (c)(1)(A)(iii). [Pub. L. 111–148][/us/pl/111/148] substituted “each of fiscal years 2009 through 2012” for “fiscal year 2009”.
 
@@ -393,6 +397,8 @@
 [/us/stat/124/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F668
 [/us/pl/112/240/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs624
 [/us/stat/126/2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2352
+[/us/pl/113/67/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs1203
+[/us/stat/127/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1199
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
@@ -451,6 +457,7 @@
 [/us/stat/79/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F354
 [/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554

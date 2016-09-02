@@ -1599,7 +1599,7 @@
 
 >     The amendment made by subsection (c) \[amending this section\] shall be effective as if included in the enactment of the Health Insurance Portability and Accountability Act of 1996 \[[Pub. L. 104–191][/us/pl/104/191]\].”
 
-[Pub. L. 105–33, title IV, § 4032(b)][/us/pl/105/33/s4032/b], Aug. 5, 1997, [111 Stat. 359][/us/stat/111/359] provided that:
+[Pub. L. 105–33, title IV, § 4032(b)][/us/pl/105/33/s4032/b], Aug. 5, 1997, [111 Stat. 359][/us/stat/111/359], provided that:
 
 >     “(1)  __In general__  __.—__ 
 

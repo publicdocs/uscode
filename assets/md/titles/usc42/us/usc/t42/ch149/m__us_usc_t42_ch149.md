@@ -1897,65 +1897,9 @@ Part J—Ultra-Deepwater and Unconventional Natural Gas and Other Petroleum Reso
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16371" data-uslm-ref="/us/usc/t42/s16371">16371.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16371" data-uslm-ref="/us/usc/t42/s16371">16371</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16378" data-uslm-ref="/us/usc/t42/s16378">16378.</a>  </td>
 
-    <td> Program authority.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16372" data-uslm-ref="/us/usc/t42/s16372">16372.</a>  </td>
-
-    <td> Ultra-deepwater and unconventional onshore natural gas and other petroleum research and development program.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16373" data-uslm-ref="/us/usc/t42/s16373">16373.</a>  </td>
-
-    <td> Additional requirements for awards.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16374" data-uslm-ref="/us/usc/t42/s16374">16374.</a>  </td>
-
-    <td> Advisory committees.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16375" data-uslm-ref="/us/usc/t42/s16375">16375.</a>  </td>
-
-    <td> Limits on participation.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16376" data-uslm-ref="/us/usc/t42/s16376">16376.</a>  </td>
-
-    <td> Sunset.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16377" data-uslm-ref="/us/usc/t42/s16377">16377.</a>  </td>
-
-    <td> Definitions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16378" data-uslm-ref="/us/usc/t42/s16378">16378.</a>  </td>
-
-    <td> Funding.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 

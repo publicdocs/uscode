@@ -203,7 +203,7 @@
 
 >         “(2)
 
->             (A) review any relevant information developed in connection with research carried out by others, including research carried out pursuant to subtitle J of title IX of the Energy Policy Act of 2005 ([42 U.S.C. 16371][/us/usc/t42/s16371] et seq.); and
+>             (A) review any relevant information developed in connection with research carried out by others, including research carried out pursuant to subtitle J of title IX of the Energy Policy Act of 2005 (\[former\] [42 U.S.C. 16371][/us/usc/t42/s16371] et seq.); and
 
 >             “(B) to the extent the Secretary determines to be advisable, include that information in the report under subsection (d)(2);
 

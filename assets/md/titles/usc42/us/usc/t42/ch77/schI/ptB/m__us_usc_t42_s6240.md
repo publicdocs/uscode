@@ -17,13 +17,7 @@
 
     (a) __Eligibility of petroleum products__ 
 
-    The Secretary may acquire, place in storage, transport, or exchange—
-
-        (1) crude oil produced from Federal lands  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a semicolon. </sup></sup> 
-
-        (2) crude oil which the United States is entitled to receive in kind as royalties from production on Federal lands; and
-
-        (3) petroleum products acquired by purchase, exchange, or otherwise.
+        The Secretary may acquire, place in storage, transport, or exchange petroleum products acquired by purchase or exchange.
 
     (b) __Objectives in determining manner of acquisition__ 
 
@@ -75,9 +69,17 @@
 
             (B) shall not exceed the price that would have been paid if the Secretary had acquired petroleum products of a similar quality on the open market under competitive bid procedures without regard to the source of the petroleum products.
 
-([Pub. L. 94–163, title I, § 160][/us/pl/94/163/s160], Dec. 22, 1975, [89 Stat. 888][/us/stat/89/888]; [Pub. L. 95–619, title VI, § 691(b)(2)][/us/pl/95/619/s691/b/2], Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288]; [Pub. L. 96–294, title VIII][/us/pl/96/294], §§ 801(a), 802(a), 803, June 30, 1980, [94 Stat. 775][/us/stat/94/775], 776; [Pub. L. 97–35, title X, § 1033][/us/pl/97/35/s1033], Aug. 13, 1981, [95 Stat. 618][/us/stat/95/618]; [Pub. L. 97–229, § 4(a)(1)][/us/pl/97/229/s4/a/1], (b)(2)(C), Aug. 3, 1982, [96 Stat. 250][/us/stat/96/250], 252; [Pub. L. 99–58, title I][/us/pl/99/58], §§ 102(b), 103(b)(1), July 2, 1985, [99 Stat. 103][/us/stat/99/103], 104; [Pub. L. 99–88, title I, § 100][/us/pl/99/88/s100], Aug. 15, 1985, [99 Stat. 342][/us/stat/99/342]; [Pub. L. 99–272, title VII, § 7102][/us/pl/99/272/s7102], Apr. 7, 1986, [100 Stat. 141][/us/stat/100/141]; [Pub. L. 99–509, title III, § 3202][/us/pl/99/509/s3202], Oct. 21, 1986, [100 Stat. 1889][/us/stat/100/1889]; [Pub. L. 101–383][/us/pl/101/383], §§ 4(b), (c), 5(a), (b)(3), 7, Sept. 15, 1990, [104 Stat. 728][/us/stat/104/728], 729, 734; [Pub. L. 101–548, § 1][/us/pl/101/548/s1], Nov. 14, 1990, [104 Stat. 2398][/us/stat/104/2398]; [Pub. L. 102–486, title XIV, § 1404(a)][/us/pl/102/486/s1404/a], (b)(2), Oct. 24, 1992, [106 Stat. 2994][/us/stat/106/2994], 2995; [Pub. L. 104–66, title I, § 1051(f)][/us/pl/104/66/s1051/f], Dec. 21, 1995, [109 Stat. 716][/us/stat/109/716]; [Pub. L. 106–469, title I, § 103(14)][/us/pl/106/469/s103/14], Nov. 9, 2000, [114 Stat. 2031][/us/stat/114/2031]; [Pub. L. 109–58, title III, § 301(e)(2)(A)][/us/pl/109/58/s301/e/2/A], Aug. 8, 2005, [119 Stat. 684][/us/stat/119/684].)
+([Pub. L. 94–163, title I, § 160][/us/pl/94/163/s160], Dec. 22, 1975, [89 Stat. 888][/us/stat/89/888]; [Pub. L. 95–619, title VI, § 691(b)(2)][/us/pl/95/619/s691/b/2], Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288]; [Pub. L. 96–294, title VIII][/us/pl/96/294], §§ 801(a), 802(a), 803, June 30, 1980, [94 Stat. 775][/us/stat/94/775], 776; [Pub. L. 97–35, title X, § 1033][/us/pl/97/35/s1033], Aug. 13, 1981, [95 Stat. 618][/us/stat/95/618]; [Pub. L. 97–229, § 4(a)(1)][/us/pl/97/229/s4/a/1], (b)(2)(C), Aug. 3, 1982, [96 Stat. 250][/us/stat/96/250], 252; [Pub. L. 99–58, title I][/us/pl/99/58], §§ 102(b), 103(b)(1), July 2, 1985, [99 Stat. 103][/us/stat/99/103], 104; [Pub. L. 99–88, title I, § 100][/us/pl/99/88/s100], Aug. 15, 1985, [99 Stat. 342][/us/stat/99/342]; [Pub. L. 99–272, title VII, § 7102][/us/pl/99/272/s7102], Apr. 7, 1986, [100 Stat. 141][/us/stat/100/141]; [Pub. L. 99–509, title III, § 3202][/us/pl/99/509/s3202], Oct. 21, 1986, [100 Stat. 1889][/us/stat/100/1889]; [Pub. L. 101–383][/us/pl/101/383], §§ 4(b), (c), 5(a), (b)(3), 7, Sept. 15, 1990, [104 Stat. 728][/us/stat/104/728], 729, 734; [Pub. L. 101–548, § 1][/us/pl/101/548/s1], Nov. 14, 1990, [104 Stat. 2398][/us/stat/104/2398]; [Pub. L. 102–486, title XIV, § 1404(a)][/us/pl/102/486/s1404/a], (b)(2), Oct. 24, 1992, [106 Stat. 2994][/us/stat/106/2994], 2995; [Pub. L. 104–66, title I, § 1051(f)][/us/pl/104/66/s1051/f], Dec. 21, 1995, [109 Stat. 716][/us/stat/109/716]; [Pub. L. 106–469, title I, § 103(14)][/us/pl/106/469/s103/14], Nov. 9, 2000, [114 Stat. 2031][/us/stat/114/2031]; [Pub. L. 109–58, title III, § 301(e)(2)(A)][/us/pl/109/58/s301/e/2/A], Aug. 8, 2005, [119 Stat. 684][/us/stat/119/684]; [Pub. L. 113–67, div. A, title III, § 306(a)][/us/pl/113/67/s306/a], Dec. 26, 2013, [127 Stat. 1183][/us/stat/127/1183].)
 
  __Amendments__ 
+
+    2013—Subsec. (a). [Pub. L. 113–67][/us/pl/113/67] amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary may acquire, place in storage, transport, or exchange—
+
+    “(1) crude oil produced from Federal lands
+
+    “(2) crude oil which the United States is entitled to receive in kind as royalties from production on Federal lands; and
+
+    “(3) petroleum products acquired by purchase, exchange, or otherwise.”
 
     2005—Subsec. (c). [Pub. L. 109–58][/us/pl/109/58] added subsec. (c).
 
@@ -326,6 +328,9 @@
 [/us/stat/114/2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2031
 [/us/pl/109/58/s301/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs301%2Fe%2F2%2FA
 [/us/stat/119/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F684
+[/us/pl/113/67/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs306%2Fa
+[/us/stat/127/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1183
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/106/469/s103/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F14%2FA
 [/us/pl/106/469/s103/14/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F14%2FB

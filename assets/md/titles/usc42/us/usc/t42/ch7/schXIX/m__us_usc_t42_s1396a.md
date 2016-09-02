@@ -91,9 +91,21 @@
 
                     (VI) who are described in subparagraph (C) of subsection (l)(1) of this section and whose family income does not exceed the income level the State is required to establish under subsection (l)(2)(B) of this section for such a family,
 
-                    (VII) who are described in subparagraph (D) of subsection (l)(1) of this section and whose family income does not exceed the income level the State is required to establish under subsection (l)(2)(C) of this section for such a family; 2 or
+                    (VII) who are described in subparagraph (D) of subsection (l)(1) of this section and whose family income does not exceed the income level the State is required to establish under subsection (l)(2)(C) of this section for such a family; 2
 
-                    (VIII) beginning January 1, 2014, who are under 65 years of age, not pregnant, not entitled to, or enrolled for, benefits under part A of subchapter XVIII, or enrolled for benefits under part B of subchapter XVIII, and are not described in a previous subclause of this clause, and whose income (as determined under subsection (e)(14)) does not exceed 133 percent of the poverty line (as defined in [section 1397jj(c)(5) of this title][/us/usc/t42/s1397jj/c/5]) applicable to a family of the size involved, subject to subsection (k);  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be followed by “and”. </sup></sup> 
+                    (VIII) beginning January 1, 2014, who are under 65 years of age, not pregnant, not entitled to, or enrolled for, benefits under part A of subchapter XVIII, or enrolled for benefits under part B of subchapter XVIII, and are not described in a previous subclause of this clause, and whose income (as determined under subsection (e)(14)) does not exceed 133 percent of the poverty line (as defined in [section 1397jj(c)(5) of this title][/us/usc/t42/s1397jj/c/5]) applicable to a family of the size involved, subject to subsection (k); 2 or
+
+                    (IX)
+
+                     who—
+
+                        (aa) are under 26 years of age;
+
+                        (bb) are not described in or enrolled under any of subclauses (I) through (VII) of this clause or are described in any of such subclauses but have income that exceeds the level of income applicable under the State plan for eligibility to enroll for medical assistance under such subclause;
+
+                        (cc) were in foster care under the responsibility of the State on the date of attaining 18 years of age or such higher age as the State has elected under [section 675(8)(B)(iii) of this title][/us/usc/t42/s675/8/B/iii]; and
+
+                        (dd) were enrolled in the State plan under this subchapter or under a waiver of the plan while in such foster care;  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be followed by “and”. </sup></sup> 
 
                 (ii)
 
@@ -187,7 +199,7 @@
 
                 (iii) for making medical assistance available for medicare cost sharing described in [section 1396d(p)(3)(A)(ii) of this title][/us/usc/t42/s1396d/p/3/A/ii] subject to [section 1396d(p)(4) of this title][/us/usc/t42/s1396d/p/4], for individuals who would be qualified medicare beneficiaries described in [section 1396d(p)(1) of this title][/us/usc/t42/s1396d/p/1] but for the fact that their income exceeds the income level established by the State under [section 1396d(p)(2) of this title][/us/usc/t42/s1396d/p/2] but is less than 110 percent in 1993 and 1994, and 120 percent in 1995 and years thereafter of the official poverty line (referred to in such section) for a family of the size involved; and
 
-                (iv) subject to sections 1396u–3 and 1396d(p)(4) of this title, for making medical assistance available (but only for premiums payable with respect to months during the period beginning with January 1998, and ending with December 2013) for medicare cost-sharing described in [section 1396d(p)(3)(A)(ii) of this title][/us/usc/t42/s1396d/p/3/A/ii] for individuals who would be qualified medicare beneficiaries described in [section 1396d(p)(1) of this title][/us/usc/t42/s1396d/p/1] but for the fact that their income exceeds the income level established by the State under [section 1396d(p)(2) of this title][/us/usc/t42/s1396d/p/2] and is at least 120 percent, but less than 135 percent, of the official poverty line (referred to in such section) for a family of the size involved and who are not otherwise eligible for medical assistance under the State plan;
+                (iv) subject to sections 1396u–3 and 1396d(p)(4) of this title, for making medical assistance available (but only for premiums payable with respect to months during the period beginning with January 1998, and ending with March 2014) for medicare cost-sharing described in [section 1396d(p)(3)(A)(ii) of this title][/us/usc/t42/s1396d/p/3/A/ii] for individuals who would be qualified medicare beneficiaries described in [section 1396d(p)(1) of this title][/us/usc/t42/s1396d/p/1] but for the fact that their income exceeds the income level established by the State under [section 1396d(p)(2) of this title][/us/usc/t42/s1396d/p/2] and is at least 120 percent, but less than 135 percent, of the official poverty line (referred to in such section) for a family of the size involved and who are not otherwise eligible for medical assistance under the State plan;
 
             (F) at the option of a State, for making medical assistance available for COBRA premiums (as defined in subsection (u)(2) of this section) for qualified COBRA continuation beneficiaries described in subsection (u)(1) of this section; and
 
@@ -227,9 +239,9 @@
 
         (16) provide for inclusion, to the extent required by regulations prescribed by the Secretary, of provisions (conforming to such regulations) with respect to the furnishing of medical assistance under the plan to individuals who are residents of the State but are absent therefrom;
 
-        (17) except as provided in subsections (e)(14), (l)(3), (m)(3), and (m)(4) of this section, include reasonable standards (which shall be comparable for all groups and may, in accordance with standards prescribed by the Secretary, differ with respect to income levels, but only in the case of applicants or recipients of assistance under the plan who are not receiving aid or assistance under any plan of the State approved under subchapter I, X, XIV, or XVI, or part A of subchapter IV of this chapter, and with respect to whom supplemental security income benefits are not being paid under subchapter XVI of this chapter, based on the variations between shelter costs in urban areas and in rural areas) for determining eligibility for and the extent of medical assistance under the plan which (A) are consistent with the objectives of this subchapter, (B) provide for taking into account only such income and resources as are, as determined in accordance with standards prescribed by the Secretary, available to the applicant or recipient and (in the case of any applicant or recipient who would, except for income and resources, be eligible for aid or assistance in the form of money payments under any plan of the State approved under subchapter I, X, XIV, or XVI, or part A of subchapter IV, or to have paid with respect to him supplemental security income benefits under subchapter XVI of this chapter) as would not be disregarded (or set aside for future needs) in determining his eligibility for such aid, assistance, or benefits, (C) provide for reasonable evaluation of any such income or resources, and (D) do not take into account the financial responsibility of any individual for any applicant or recipient of assistance under the plan unless such applicant or recipient is such individual’s spouse or such individual’s child who is under age 21 or (with respect to States eligible to participate in the State program established under subchapter XVI of this chapter), is blind or permanently and totally disabled, or is blind or disabled as defined in [section 1382c of this title][/us/usc/t42/s1382c] (with respect to States which are not eligible to participate in such program); and provide for flexibility in the application of such standards with respect to income by taking into account, except to the extent prescribed by the Secretary, the costs (whether in the form of insurance premiums, payments made to the State under [section 1396b(f)(2)(B) of this title][/us/usc/t42/s1396b/f/2/B], or otherwise and regardless of whether such costs are reimbursed under another public program of the State or political subdivision thereof) incurred for medical care or for any other type of remedial care recognized under State law;
+        (17) except as provided in subsections (e)(14), (e)(14), <sup>\[6\]</sup>  <sup><sup> 6 See 2010 Amendment notes below. </sup></sup>  (l)(3), (m)(3), and (m)(4) of this section, include reasonable standards (which shall be comparable for all groups and may, in accordance with standards prescribed by the Secretary, differ with respect to income levels, but only in the case of applicants or recipients of assistance under the plan who are not receiving aid or assistance under any plan of the State approved under subchapter I, X, XIV, or XVI, or part A of subchapter IV of this chapter, and with respect to whom supplemental security income benefits are not being paid under subchapter XVI of this chapter, based on the variations between shelter costs in urban areas and in rural areas) for determining eligibility for and the extent of medical assistance under the plan which (A) are consistent with the objectives of this subchapter, (B) provide for taking into account only such income and resources as are, as determined in accordance with standards prescribed by the Secretary, available to the applicant or recipient and (in the case of any applicant or recipient who would, except for income and resources, be eligible for aid or assistance in the form of money payments under any plan of the State approved under subchapter I, X, XIV, or XVI, or part A of subchapter IV, or to have paid with respect to him supplemental security income benefits under subchapter XVI of this chapter) as would not be disregarded (or set aside for future needs) in determining his eligibility for such aid, assistance, or benefits, (C) provide for reasonable evaluation of any such income or resources, and (D) do not take into account the financial responsibility of any individual for any applicant or recipient of assistance under the plan unless such applicant or recipient is such individual’s spouse or such individual’s child who is under age 21 or (with respect to States eligible to participate in the State program established under subchapter XVI of this chapter), is blind or permanently and totally disabled, or is blind or disabled as defined in [section 1382c of this title][/us/usc/t42/s1382c] (with respect to States which are not eligible to participate in such program); and provide for flexibility in the application of such standards with respect to income by taking into account, except to the extent prescribed by the Secretary, the costs (whether in the form of insurance premiums, payments made to the State under [section 1396b(f)(2)(B) of this title][/us/usc/t42/s1396b/f/2/B], or otherwise and regardless of whether such costs are reimbursed under another public program of the State or political subdivision thereof) incurred for medical care or for any other type of remedial care recognized under State law;
 
-        (18) comply with the provisions of [section 1396p of this title][/us/usc/t42/s1396p] with respect to liens, adjustments and recoveries of medical assistance correctly paid,, <sup>\[6\]</sup>  <sup><sup> 6 So in original. </sup></sup>  transfers of assets, and treatment of certain trusts;
+        (18) comply with the provisions of [section 1396p of this title][/us/usc/t42/s1396p] with respect to liens, adjustments and recoveries of medical assistance correctly paid,, <sup>\[7\]</sup>  <sup><sup> 7 So in original. </sup></sup>  transfers of assets, and treatment of certain trusts;
 
         (19) provide such safeguards as may be necessary to assure that eligibility for care and services under the plan will be determined, and such care and services will be provided, in a manner consistent with simplicity of administration and the best interests of the recipients;
 
@@ -419,7 +431,7 @@
 
                         (bb) that [section 1396b(d) of this title][/us/usc/t42/s1396b/d] shall apply to amounts recovered under the program; and
 
-                        (cc) that the State and any such contractors under contract with the State shall coordinate such recovery audit efforts with other contractors or entities performing audits of entities receiving payments under the State plan or waiver in the State, including efforts with Federal and State law enforcement with respect to the Department of Justice, including the Federal Bureau of Investigations, <sup>\[7\]</sup>  <sup><sup> 7 So in original. Probably should be “Investigation,”. </sup></sup>  the Inspector General of the Department of Health and Human Services, and the State medicaid fraud control unit; and
+                        (cc) that the State and any such contractors under contract with the State shall coordinate such recovery audit efforts with other contractors or entities performing audits of entities receiving payments under the State plan or waiver in the State, including efforts with Federal and State law enforcement with respect to the Department of Justice, including the Federal Bureau of Investigations, <sup>\[8\]</sup>  <sup><sup> 8 So in original. Probably should be “Investigation,”. </sup></sup>  the Inspector General of the Department of Health and Human Services, and the State medicaid fraud control unit; and
 
         (43)
 
@@ -439,7 +451,7 @@
 
                 (ii) the number of children referred for corrective treatment (the need for which is disclosed by such child health screening services),
 
-                (iii) the number of children receiving dental services, and other information relating to the provision of dental services to such children described in section 1397hh(e)  <sup>\[8\]</sup>  <sup><sup> 8 Probably means the subsec. (e) of section 1397hh relating to information on dental care for children. </sup></sup>  of this title and
+                (iii) the number of children receiving dental services, and other information relating to the provision of dental services to such children described in section 1397hh(e)  <sup>\[9\]</sup>  <sup><sup> 9 Probably means the subsec. (e) of section 1397hh relating to information on dental care for children. </sup></sup>  of this title and
 
                 (iv) the State’s results in attaining the participation goals set for the State under [section 1396d(r) of this title][/us/usc/t42/s1396d/r];
 
@@ -465,7 +477,13 @@
 
                 (ii) subsection (ee);
 
-        (47) at the option of the State, provide for making ambulatory prenatal care available to pregnant women during a presumptive eligibility period in accordance with [section 1396r–1 of this title][/us/usc/t42/s1396r–1] and provide for making medical assistance for items and services described in subsection (a) of [section 1396r–1a of this title][/us/usc/t42/s1396r–1a] available to children during a presumptive eligibility period in accordance with such section and provide for making medical assistance available to individuals described in subsection (a) of [section 1396r–1b of this title][/us/usc/t42/s1396r–1b] during a presumptive eligibility period in accordance with such section;
+        (47)
+
+         provide—
+
+            (A) at the option of the State, for making ambulatory prenatal care available to pregnant women during a presumptive eligibility period in accordance with [section 1396r–1 of this title][/us/usc/t42/s1396r–1] and provide for making medical assistance for items and services described in subsection (a) of [section 1396r–1a of this title][/us/usc/t42/s1396r–1a] available to children during a presumptive eligibility period in accordance with such section and provide for making medical assistance available to individuals described in subsection (a) of [section 1396r–1b of this title][/us/usc/t42/s1396r–1b] during a presumptive eligibility period in accordance with such section and provide for making medical assistance available to individuals described in subsection (a) of [section 1396r–1c of this title][/us/usc/t42/s1396r–1c] during a presumptive eligibility period in accordance with such section; and
+
+            (B) that any hospital that is a participating provider under the State plan may elect to be a qualified entity for purposes of determining, on the basis of preliminary information, whether any individual is eligible for medical assistance under the State plan or under a waiver of the plan for purposes of providing the individual with medical assistance during a presumptive eligibility period, in the same manner, and subject to the same requirements, as apply to the State options with respect to populations described in section 1396r–1, 1396r–1a, 1396r–1b, or 1396r–1c of this title (but without regard to whether the State has elected to provide for a presumptive eligibility period under any such sections), subject to such guidance as the Secretary shall establish;
 
         (48) provide a method of making cards evidencing eligibility for medical assistance available to an eligible individual who does not reside in a permanent dwelling or does not have a fixed home or mailing address;
 
@@ -491,7 +509,7 @@
 
          provide for receipt and initial processing of applications of individuals for medical assistance under subsection (a)(10)(A)(i)(IV), (a)(10)(A)(i)(VI), (a)(10)(A)(i)(VII), or (a)(10)(A)(ii)(IX) of this section—
 
-            (A) at locations which are other than those used for the receipt and processing of applications for aid under part A of subchapter IV of this chapter and which include facilities defined as disproportionate share hospitals under [section 1396r–4(a)(1)(A) of this title][/us/usc/t42/s1396r–4/a/1/A] and Federally-qualified health centers described in section 1396d(1)(2)(B)  <sup>\[9\]</sup>  <sup><sup> 9 So in original. Probably should be section “1396d(l)(2)(B)”. </sup></sup>  of this title, and
+            (A) at locations which are other than those used for the receipt and processing of applications for aid under part A of subchapter IV of this chapter and which include facilities defined as disproportionate share hospitals under [section 1396r–4(a)(1)(A) of this title][/us/usc/t42/s1396r–4/a/1/A] and Federally-qualified health centers described in section 1396d(1)(2)(B)  <sup>\[10\]</sup>  <sup><sup> 10 So in original. Probably should be section “1396d(l)(2)(B)”. </sup></sup>  of this title, and
 
             (B) using applications which are other than those used for applications for aid under such part;
 
@@ -587,7 +605,7 @@
 
         (77) provide that the State shall comply with provider and supplier screening, oversight, and reporting requirements in accordance with subsection (kk);
 
-        (79)  <sup>\[10\]</sup>  <sup><sup> 10 So in original. There is no par. (78). </sup></sup>  provide that any agent, clearinghouse, or other alternate payee (as defined by the Secretary) that submits claims on behalf of a health care provider must register with the State and the Secretary in a form and manner specified by the Secretary;
+        (79)  <sup>\[11\]</sup>  <sup><sup> 11 So in original. There is no par. (78). </sup></sup>  provide that any agent, clearinghouse, or other alternate payee (as defined by the Secretary) that submits claims on behalf of a health care provider must register with the State and the Secretary in a form and manner specified by the Secretary;
 
         (80) provide that the State shall not provide any payments for items or services provided under the State plan or under a waiver to any financial institution or entity located outside of the United States; and
 
@@ -615,7 +633,7 @@
 
     (d) __Performance of medical or utilization review functions__ 
 
-        If a State contracts with an entity which meets the requirements of [section 1320c–1 of this title][/us/usc/t42/s1320c–1], as determined by the Secretary, or a utilization and quality control peer review organization  <sup>\[11\]</sup>  <sup><sup> 11 So in original. Probably should be “a quality improvement organization”. </sup></sup>  having a contract with the Secretary under part B of subchapter XI of this chapter for the performance of medical or utilization review functions required under this subchapter of a State plan with respect to specific services or providers (or services or providers in a geographic area of the State), such requirements shall be deemed to be met for those services or providers (or services or providers in that area) by delegation to such an entity or organization under the contract of the State’s authority to conduct such review activities if the contract provides for the performance of activities not inconsistent with part B of subchapter XI of this chapter and provides for such assurances of satisfactory performance by such an entity or organization as the Secretary may prescribe.
+        If a State contracts with an entity which meets the requirements of [section 1320c–1 of this title][/us/usc/t42/s1320c–1], as determined by the Secretary, or a utilization and quality control peer review organization  <sup>\[12\]</sup>  <sup><sup> 12 So in original. Probably should be “a quality improvement organization”. </sup></sup>  having a contract with the Secretary under part B of subchapter XI of this chapter for the performance of medical or utilization review functions required under this subchapter of a State plan with respect to specific services or providers (or services or providers in a geographic area of the State), such requirements shall be deemed to be met for those services or providers (or services or providers in that area) by delegation to such an entity or organization under the contract of the State’s authority to conduct such review activities if the contract provides for the performance of activities not inconsistent with part B of subchapter XI of this chapter and provides for such assurances of satisfactory performance by such an entity or organization as the Secretary may prescribe.
 
     (e) __Continued eligibility of families determined ineligible because of income and resources or hours of work limitations of plan; individuals enrolled with health maintenance organizations; persons deemed recipients of supplemental security income or State supplemental payments; entitlement for certain newborns; postpartum eligibility for pregnant women__ 
 
@@ -623,7 +641,7 @@
 
             (A) Notwithstanding any other provision of this subchapter, effective January 1, 1974, subject to subparagraph (B) each State plan approved under this subchapter must provide that each family which was receiving aid pursuant to a plan of the State approved under part A of subchapter IV of this chapter in at least 3 of the 6 months immediately preceding the month in which such family became ineligible for such aid because of increased hours of, or increased income from, employment, shall, while a member of such family is employed, remain eligible for assistance under the plan approved under this subchapter (as though the family was receiving aid under the plan approved under part A of subchapter IV of this chapter) for 4 calendar months beginning with the month in which such family became ineligible for aid under the plan approved under part A of subchapter IV of this chapter because of income and resources or hours of work limitations contained in such plan.
 
-            (B) Subparagraph (A) shall not apply with respect to families that cease to be eligible for aid under part A of subchapter IV of this chapter during the period beginning on April 1, 1990, and ending on December 31, 2013. During such period, for provisions relating to extension of eligibility for medical assistance for certain families who have received aid pursuant to a State plan approved under part A of subchapter IV of this chapter and have earned income, see [section 1396r–6 of this title][/us/usc/t42/s1396r–6].
+            (B) Subparagraph (A) shall not apply with respect to families that cease to be eligible for aid under part A of subchapter IV of this chapter during the period beginning on April 1, 1990, and ending on March 31, 2014. During such period, for provisions relating to extension of eligibility for medical assistance for certain families who have received aid pursuant to a State plan approved under part A of subchapter IV of this chapter and have earned income, see [section 1396r–6 of this title][/us/usc/t42/s1396r–6].
 
         (2)
 
@@ -809,7 +827,7 @@
 
                 (i)  __In general__  __.—__ 
 
-                For purposes of subparagraph (A)(iv), <sup>\[12\]</sup>  <sup><sup> 12 So in original. Probably should be “subparagraph (A)(i)(V),”. </sup></sup>  the requirement of this subparagraph for a State is that the State agrees to—
+                For purposes of subparagraph (A)(iv), <sup>\[13\]</sup>  <sup><sup> 13 So in original. Probably should be “subparagraph (A)(i)(V),”. </sup></sup>  the requirement of this subparagraph for a State is that the State agrees to—
 
                     (I) assign such codes as the Secretary shall require to the children who are enrolled in the State Medicaid plan or the State CHIP plan through reliance on a finding made by an Express Lane agency for the duration of the State’s election under this paragraph;
 
@@ -901,7 +919,7 @@
 
                 Nothing in this paragraph shall be construed as—
 
-                    (I) exempting a State Medicaid agency from complying with the requirements of [section 1396a(a)(4) of this title][/us/usc/t42/s1396a/a/4] relating to merit-based personnel standards for employees of the State Medicaid agency and safeguards against conflicts of interest);  <sup>\[13\]</sup>  <sup><sup> 13 So in original. The closing parenthesis probably should not appear. </sup></sup>  or
+                    (I) exempting a State Medicaid agency from complying with the requirements of [section 1396a(a)(4) of this title][/us/usc/t42/s1396a/a/4] relating to merit-based personnel standards for employees of the State Medicaid agency and safeguards against conflicts of interest);  <sup>\[14\]</sup>  <sup><sup> 14 So in original. The closing parenthesis probably should not appear. </sup></sup>  or
 
                     (II) authorizing a State Medicaid agency that elects to use Express Lane agencies under this subparagraph to use the Express Lane option to avoid complying with such requirements for purposes of making eligibility determinations under the State Medicaid plan.
 
@@ -941,9 +959,83 @@
 
             This paragraph shall not apply with respect to eligibility determinations made after September 30, 2014.
 
-        (14)  __Exclusion of compensation for participation in a clinical trial for testing of treatments for a rare disease or condition__  __.—__ 
+        (14)  __ <sup>\[__  __15__  __\]</sup> __  __ <sup><sup> __  __15__  __ So in original. Two pars. (14) have been enacted.__  __ </sup></sup> __   __Exclusion of compensation for participation in a clinical trial for testing of treatments for a rare disease or condition__  __.—__ 
 
         The first $2,000 received by an individual (who has attained 19 years of age) as compensation for participation in a clinical trial meeting the requirements of [section 1382a(b)(26) of this title][/us/usc/t42/s1382a/b/26] shall be disregarded for purposes of determining the income eligibility of such individual for medical assistance under the State plan or any waiver of such plan.
+
+        (14)  __15__  __Income determined using modified adjusted gross income.—__ 
+
+            (A)  __In general__  __.—__ 
+
+            Notwithstanding subsection (r) or any other provision of this subchapter, except as provided in subparagraph (D), for purposes of determining income eligibility for medical assistance under the State plan or under any waiver of such plan and for any other purpose applicable under the plan or waiver for which a determination of income is required, including with respect to the imposition of premiums and cost-sharing, a State shall use the modified adjusted gross income of an individual and, in the case of an individual in a family greater than 1, the household income of such family. A State shall establish income eligibility thresholds for populations to be eligible for medical assistance under the State plan or a waiver of the plan using modified adjusted gross income and household income that are not less than the effective income eligibility levels that applied under the State plan or waiver on March 23, 2010. For purposes of complying with the maintenance of effort requirements under subsection (gg) during the transition to modified adjusted gross income and household income, a State shall, working with the Secretary, establish an equivalent income test that ensures individuals eligible for medical assistance under the State plan or under a waiver of the plan on March 23, 2010, do not lose coverage under the State plan or under a waiver of the plan. The Secretary may waive such provisions of this subchapter and subchapter XXI as are necessary to ensure that States establish income and eligibility determination systems that protect beneficiaries.
+
+            (B)  __No income or expense disregards__  __.—__ 
+
+            Subject to subparagraph (I), no type of expense, block, or other income disregard shall be applied by a State to determine income eligibility for medical assistance under the State plan or under any waiver of such plan or for any other purpose applicable under the plan or waiver for which a determination of income is required.
+
+            (C)  __No assets test__  __.—__ 
+
+            A State shall not apply any assets or resources test for purposes of determining eligibility for medical assistance under the State plan or under a waiver of the plan.
+
+            (D) __Exceptions.—__ 
+
+                (i)  __Individuals eligible because of other aid or assistance, elderly individuals, medically needy individuals, and individuals eligible for medicare cost-sharing__  __.—__ 
+
+                Subparagraphs (A), (B), and (C) shall not apply to the determination of eligibility under the State plan or under a waiver for medical assistance for the following:
+
+                    (I) Individuals who are eligible for medical assistance under the State plan or under a waiver of the plan on a basis that does not require a determination of income by the State agency administering the State plan or waiver, including as a result of eligibility for, or receipt of, other Federal or State aid or assistance, individuals who are eligible on the basis of receiving (or being treated as if receiving) supplemental security income benefits under subchapter XVI, and individuals who are eligible as a result of being or being deemed to be a child in foster care under the responsibility of the State.
+
+                    (II) Individuals who have attained age 65.
+
+                    (III) Individuals who qualify for medical assistance under the State plan or under any waiver of such plan on the basis of being blind or disabled (or being treated as being blind or disabled) without regard to whether the individual is eligible for supplemental security income benefits under subchapter XVI on the basis of being blind or disabled and including an individual who is eligible for medical assistance on the basis of paragraph (3).
+
+                    (IV) Individuals described in subsection (a)(10)(C).
+
+                    (V) Individuals described in any clause of subsection (a)(10)(E).
+
+                (ii)  __Express lane agency findings__  __.—__ 
+
+                In the case of a State that elects the Express Lane option under paragraph (13), notwithstanding subparagraphs (A), (B), and (C), the State may rely on a finding made by an Express Lane agency in accordance with that paragraph relating to the income of an individual for purposes of determining the individual’s eligibility for medical assistance under the State plan or under a waiver of the plan.
+
+                (iii)  __Medicare prescription drug subsidies determinations__  __.—__ 
+
+                Subparagraphs (A), (B), and (C) shall not apply to any determinations of eligibility for premium and cost-sharing subsidies under and in accordance with [section 1395w–114 of this title][/us/usc/t42/s1395w–114] made by the State pursuant to [section 1396u–5(a)(2) of this title][/us/usc/t42/s1396u–5/a/2].
+
+                (iv)  __Long-term care__  __.—__ 
+
+                Subparagraphs (A), (B), and (C) shall not apply to any determinations of eligibility of individuals for purposes of medical assistance for nursing facility services, a level of care in any institution equivalent to that of nursing facility services, home or community-based services furnished under a waiver or State plan amendment under [section 1396n of this title][/us/usc/t42/s1396n] or a waiver under [section 1315 of this title][/us/usc/t42/s1315], and services described in [section 1396p(c)(1)(C)(ii) of this title][/us/usc/t42/s1396p/c/1/C/ii].
+
+                (v)  __Grandfather of current enrollees until date of next regular redetermination__  __.—__ 
+
+                An individual who, on January 1, 2014, is enrolled in the State plan or under a waiver of the plan and who would be determined ineligible for medical assistance solely because of the application of the modified adjusted gross income or household income standard described in subparagraph (A), shall remain eligible for medical assistance under the State plan or waiver (and subject to the same premiums and cost-sharing as applied to the individual on that date) through March 31, 2014, or the date on which the individual’s next regularly scheduled redetermination of eligibility is to occur, whichever is later.
+
+            (E)  __Transition planning and oversight__  __.—__ 
+
+            Each State shall submit to the Secretary for the Secretary’s approval the income eligibility thresholds proposed to be established using modified adjusted gross income and household income, the methodologies and procedures to be used to determine income eligibility using modified adjusted gross income and household income and, if applicable, a State plan amendment establishing an optional eligibility category under subsection (a)(10)(A)(ii)(XX). To the extent practicable, the State shall use the same methodologies and procedures for purposes of making such determinations as the State used on March 23, 2010. The Secretary shall ensure that the income eligibility thresholds proposed to be established using modified adjusted gross income and household income, including under the eligibility category established under subsection (a)(10)(A)(ii)(XX), and the methodologies and procedures proposed to be used to determine income eligibility, will not result in children who would have been eligible for medical assistance under the State plan or under a waiver of the plan on March 23, 2010, no longer being eligible for such assistance.
+
+            (F)  __Limitation on secretarial authority__  __.—__ 
+
+            The Secretary shall not waive compliance with the requirements of this paragraph except to the extent necessary to permit a State to coordinate eligibility requirements for dual eligible individuals (as defined in [section 1396n(h)(2)(B) of this title][/us/usc/t42/s1396n/h/2/B]) under the State plan or under a waiver of the plan and under subchapter XVIII and individuals who require the level of care provided in a hospital, a nursing facility, or an intermediate care facility for the mentally retarded.
+
+            (G)  __Definitions of modified adjusted gross income and household income__  __.—__ 
+
+            In this paragraph, the terms “modified adjusted gross income” and “household income” have the meanings given such terms in section 36B(d)(2) of the Internal Revenue Code of 1986.
+
+            (H)  __Continued application of medicaid rules regarding point-in-time income and sources of income__  __.—__ 
+
+            The requirement under this paragraph for States to use modified adjusted gross income and household income to determine income eligibility for medical assistance under the State plan or under any waiver of such plan and for any other purpose applicable under the plan or waiver for which a determination of income is required shall not be construed as affecting or limiting the application of—
+
+                (i) the requirement under this subchapter and under the State plan or a waiver of the plan to determine an individual’s income as of the point in time at which an application for medical assistance under the State plan or a waiver of the plan is processed; or
+
+                (ii) any rules established under this subchapter or under the State plan or a waiver of the plan regarding sources of countable income.
+
+            (I)  __Treatment of portion of modified adjusted gross income__  __.—__ 
+
+            For purposes of determining the income eligibility of an individual for medical assistance whose eligibility is determined based on the application of modified adjusted gross income under subparagraph (A), the State shall—
+
+                (i) determine the dollar equivalent of the difference between the upper income limit on eligibility for such an individual (expressed as a percentage of the poverty line) and such upper income limit increased by 5 percentage points; and
+
+                (ii) notwithstanding the requirement in subparagraph (A) with respect to use of modified adjusted gross income, utilize as the applicable income of such individual, in determining such income eligibility, an amount equal to the modified adjusted gross income applicable to such individual reduced by such dollar equivalent amount.
 
     (f) __Effective date of State plan as determinative of duty of State to provide medical assistance to aged, blind, or disabled individuals__ 
 
@@ -961,7 +1053,7 @@
 
         (1)
 
-         In addition to any other authority under State law, where a State determines that a  <sup>\[14\]</sup>  <sup><sup> 14 So in original. Probably should be “an”. </sup></sup>  intermediate care facility for the mentally retarded which is certified for participation under its plan no longer substantially meets the requirements for such a facility under this subchapter and further determines that the facility’s deficiencies—
+         In addition to any other authority under State law, where a State determines that a  <sup>\[16\]</sup>  <sup><sup> 16 So in original. Probably should be “an”. </sup></sup>  intermediate care facility for the mentally retarded which is certified for participation under its plan no longer substantially meets the requirements for such a facility under this subchapter and further determines that the facility’s deficiencies—
 
             (A) immediately jeopardize the health and safety of its patients, the State shall provide for the termination of the facility’s certification for participation under the plan and may provide, or
 
@@ -983,7 +1075,7 @@
 
         (2) Beginning with the first day of any fiscal year quarter that begins on or after April 1, 2010, and before January 1, 2014, a State may elect through a State plan amendment to provide medical assistance to individuals who would be described in subclause (VIII) of subsection (a)(10)(A)(i) if that subclause were effective before January 1, 2014. A State may elect to phase-in the extension of eligibility for medical assistance to such individuals based on income, so long as the State does not extend such eligibility to individuals described in such subclause with higher income before making individuals described in such subclause with lower income eligible for medical assistance.
 
-        (3) If an individual described in subclause (VIII) of subsection (a)(10)(A)(i) is the parent of a child who is under 19 years of age (or such higher age as the State may have elected) who is eligible for medical assistance under the State plan or under a waiver of such plan (under that subclause or under a State plan amendment under paragraph (2), <sup>\[15\]</sup>  <sup><sup> 15 So in original. Another closing parenthesis probably should precede the comma. </sup></sup>  the individual may not be enrolled under the State plan unless the individual’s child is enrolled under the State plan or under a waiver of the plan or is enrolled in other health insurance coverage. For purposes of the preceding sentence, the term “parent” includes an individual treated as a caretaker relative for purposes of carrying out [section 1396u–1 of this title][/us/usc/t42/s1396u–1].
+        (3) If an individual described in subclause (VIII) of subsection (a)(10)(A)(i) is the parent of a child who is under 19 years of age (or such higher age as the State may have elected) who is eligible for medical assistance under the State plan or under a waiver of such plan (under that subclause or under a State plan amendment under paragraph (2), <sup>\[17\]</sup>  <sup><sup> 17 So in original. Another closing parenthesis probably should precede the comma. </sup></sup>  the individual may not be enrolled under the State plan unless the individual’s child is enrolled under the State plan or under a waiver of the plan or is enrolled in other health insurance coverage. For purposes of the preceding sentence, the term “parent” includes an individual treated as a caretaker relative for purposes of carrying out [section 1396u–1 of this title][/us/usc/t42/s1396u–1].
 
     (l) __Description of group__ 
 
@@ -1163,7 +1255,7 @@
 
                 (ii) who is or are determined to be eligible for medical assistance under the State plan.
 
-        (2) The minimum monthly personal needs allowance described in this paragraph  <sup>\[16\]</sup>  <sup><sup> 16 So in original. Probably should be “this subsection”. </sup></sup>  is $30 for an institutionalized individual and $60 for an institutionalized couple (if both are aged, blind, or disabled, and their incomes are considered available to each other in determining eligibility).
+        (2) The minimum monthly personal needs allowance described in this paragraph  <sup>\[18\]</sup>  <sup><sup> 18 So in original. Probably should be “this subsection”. </sup></sup>  is $30 for an institutionalized individual and $60 for an institutionalized couple (if both are aged, blind, or disabled, and their incomes are considered available to each other in determining eligibility).
 
     (r) __Disregarding payments for certain medical expenses by institutionalized individuals__ 
 
@@ -1195,7 +1287,7 @@
 
             (A)
 
-             The methodology to be employed in determining income and resource eligibility for individuals under subsection (a)(10)(A)(i)(III), (a)(10)(A)(i)(IV), (a)(10)(A)(i)(VI), (a)(10) (A)(i)(VII), (a)(10)(A)(ii), (a)(10)(C)(i)(III), or (f) of this section or under [section 1396d(p) of this title][/us/usc/t42/s1396d/p] may be less restrictive, and shall be no more restrictive, than the methodology—
+             The methodology to be employed in determining income and resource eligibility for individuals under subsection (a)(10)(A)(i)(III), (a)(10)(A)(i)(IV), (a)(10)(A)(i)(VI), (a)(10)(A)(i)(VII), (a)(10)(A)(ii), (a)(10)(C)(i)(III), or (f) of this section or under [section 1396d(p) of this title][/us/usc/t42/s1396d/p] may be less restrictive, and shall be no more restrictive, than the methodology—
 
                 (i) in the case of groups consisting of aged, blind, or disabled individuals, under the supplemental security income program under subchapter XVI of this chapter, or
 
@@ -1205,7 +1297,7 @@
 
     (s) __Adjustment in payment for hospital services furnished to low-income children under age of 6 years__ 
 
-    In order to meet the requirements of subsection (a)(55)  <sup>\[17\]</sup>  <sup><sup> 17 So in original. Probably should be subsection “(a)(56)”. </sup></sup>  of this section, the State plan must provide that payments to hospitals under the plan for inpatient hospital services furnished to infants who have not attained the age of 1 year, and to children who have not attained the age of 6 years and who receive such services in a disproportionate share hospital described in [section 1396r–4(b)(1) of this title][/us/usc/t42/s1396r–4/b/1], shall—
+    In order to meet the requirements of subsection (a)(55)  <sup>\[19\]</sup>  <sup><sup> 19 So in original. Probably should be subsection “(a)(56)”. </sup></sup>  of this section, the State plan must provide that payments to hospitals under the plan for inpatient hospital services furnished to infants who have not attained the age of 1 year, and to children who have not attained the age of 6 years and who receive such services in a disproportionate share hospital described in [section 1396r–4(b)(1) of this title][/us/usc/t42/s1396r–4/b/1], shall—
 
         (1) if made on a prospective basis (whether per diem, per case, or otherwise) provide for an outlier adjustment in payment amounts for medically necessary inpatient hospital services involving exceptionally high costs or exceptionally long lengths of stay,
 
@@ -1449,7 +1541,7 @@
 
                  if such coverage is obtained—
 
-                    (I) subject to paragraph (2) of section 1396o(h)  <sup>\[18\]</sup>  <sup><sup> 18 So in original. Probably should be section “1396o(i)”. </sup></sup>  of this title, reduce the premium imposed by the State under that section in an amount that reasonably reflects the premium contribution made by the parent for private coverage on behalf of a child with a disability; and
+                    (I) subject to paragraph (2) of section 1396o(h)  <sup>\[20\]</sup>  <sup><sup> 20 So in original. Probably should be section “1396o(i)”. </sup></sup>  of this title, reduce the premium imposed by the State under that section in an amount that reasonably reflects the premium contribution made by the parent for private coverage on behalf of a child with a disability; and
 
                     (II) treat such coverage as a third party liability under subsection (a)(25).
 
@@ -1457,7 +1549,7 @@
 
     (dd) __Electronic transmission of information__ 
 
-        If the State agency determining eligibility for medical assistance under this subchapter or child health assistance under subchapter XXI verifies an element of eligibility based on information from an Express Lane Agency  <sup>\[19\]</sup>  <sup><sup> 19 So in original. Probably should be “agency”. </sup></sup>  (as defined in subsection (e)(13)(F)), or from another public agency, then the applicant’s signature under penalty of perjury shall not be required as to such element. Any signature requirement for an application for medical assistance may be satisfied through an electronic signature, as defined in section 1710(1) of the Government Paperwork Elimination Act ([44 U.S.C. 3504][/us/usc/t44/s3504] note). The requirements of subparagraphs (A) and (B) of [section 1320b–7(d)(2) of this title][/us/usc/t42/s1320b–7/d/2] may be met through evidence in digital or electronic form.
+        If the State agency determining eligibility for medical assistance under this subchapter or child health assistance under subchapter XXI verifies an element of eligibility based on information from an Express Lane Agency  <sup>\[21\]</sup>  <sup><sup> 21 So in original. Probably should be “agency”. </sup></sup>  (as defined in subsection (e)(13)(F)), or from another public agency, then the applicant’s signature under penalty of perjury shall not be required as to such element. Any signature requirement for an application for medical assistance may be satisfied through an electronic signature, as defined in section 1710(1) of the Government Paperwork Elimination Act ([44 U.S.C. 3504][/us/usc/t44/s3504] note). The requirements of subparagraphs (A) and (B) of [section 1320b–7(d)(2) of this title][/us/usc/t42/s1320b–7/d/2] may be met through evidence in digital or electronic form.
 
     (ee) __Alternate State process for verification of citizenship or nationality declaration__ 
 
@@ -1491,7 +1583,7 @@
 
              In establishing the State program under this paragraph, the State may enter into an agreement with the Commissioner of Social Security—
 
-                (i) to provide, through an on-line system or otherwise, for the electronic submission of, and response to, the information submitted under subparagraph (A) for an individual enrolled in the State plan under this subchapter who declares to be  <sup>\[20\]</sup>  <sup><sup> 20 So in original. Probably should be followed by “a”. </sup></sup>  citizen or national on at least a monthly basis; or
+                (i) to provide, through an on-line system or otherwise, for the electronic submission of, and response to, the information submitted under subparagraph (A) for an individual enrolled in the State plan under this subchapter who declares to be  <sup>\[22\]</sup>  <sup><sup> 22 So in original. Probably should be followed by “a”. </sup></sup>  citizen or national on at least a monthly basis; or
 
                 (ii) to provide for a determination of the consistency of the information submitted with the information maintained in the records of the Commissioner through such other method as agreed to by the State and the Commissioner and approved by the Secretary, provided that such method is no more burdensome for individuals to comply with than any burdens that may apply under a method described in clause (i).
 
@@ -1577,7 +1669,7 @@
 
             (B) who are not pregnant.
 
-        (2) At the option of a State, individuals described in this subsection may include individuals who, had individuals applied on or before January 1, 2007, would have been made eligible pursuant to the standards and processes imposed by that State for benefits described in clause (XVI) of the matter following subparagraph (G) of section  <sup>\[21\]</sup>  <sup><sup> 21 So in original. The word “section” probably should not appear. </sup></sup>  subsection (a)(10) pursuant to a waiver granted under [section 1315 of this title][/us/usc/t42/s1315].
+        (2) At the option of a State, individuals described in this subsection may include individuals who, had individuals applied on or before January 1, 2007, would have been made eligible pursuant to the standards and processes imposed by that State for benefits described in clause (XVI) of the matter following subparagraph (G) of section  <sup>\[23\]</sup>  <sup><sup> 23 So in original. The word “section” probably should not appear. </sup></sup>  subsection (a)(10) pursuant to a waiver granted under [section 1315 of this title][/us/usc/t42/s1315].
 
         (3) At the option of a State, for purposes of subsection (a)(17)(B), in determining eligibility for services under this subsection, the State may consider only the income of the applicant or recipient.
 
@@ -1641,109 +1733,29 @@
 
             Nothing in this subsection shall be interpreted to preclude or limit the ability of a State to engage in provider and supplier screening or enhanced provider and supplier oversight activities beyond those required by the Secretary.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1902, as added [Pub. L. 89–97, title I, § 121(a)][/us/pl/89/97/s121/a], July 30, 1965, [79 Stat. 344][/us/stat/79/344]; amended [Pub. L. 90–248, title II][/us/pl/90/248], §§ 210(a)(6), 223(a), 224(a), (c)(1), 227(a), 228(a), 229(a), 231, 234(a), 235(a), 236(a), 237, 238, 241(f)(1)–(4), title III, § 302(b), Jan. 2, 1968, [81 Stat. 896][/us/stat/81/896], 901–906, 908, 911, 917, 929; [Pub. L. 91–56, § 2(c)][/us/pl/91/56/s2/c], (d), Aug. 9, 1969, [83 Stat. 99][/us/stat/83/99]; [Pub. L. 92–223, § 4(b)][/us/pl/92/223/s4/b], Dec. 28, 1971, [85 Stat. 809][/us/stat/85/809]; [Pub. L. 92–603, title II][/us/pl/92/603], §§ 208(a), 209(a), (b)(1), 221(c)(5), 231, 232(a), 236(b), 237(a)(2), 239(a), (b), 240, 246(a), 249(a), 255(a), 268(a), 274(a), 278(a)(18)–(20), (b)(14), 298, 299A, 299D(b), Oct. 30, 1972, [86 Stat. 1381][/us/stat/86/1381], 1389, 1410, 1415–1418, 1424, 1426, 1446, 1450, 1452–1454, 1460, 1462; [Pub. L. 93–233][/us/pl/93/233], §§ 13(a)(2)–(10), 18(o)–(q), (x)(1)–(4), Dec. 31, 1973, [87 Stat. 960–962][/us/stat/87/960-962], 971, 972; [Pub. L. 93–368, § 9(a)][/us/pl/93/368/s9/a], Aug. 7, 1974, [88 Stat. 422][/us/stat/88/422]; [Pub. L. 94–48][/us/pl/94/48], §§ 1, 2, July 1, 1975, [89 Stat. 247][/us/stat/89/247]; [Pub. L. 94–182, title I, § 111(a)][/us/pl/94/182/s111/a], Dec. 31, 1975, [89 Stat. 1054][/us/stat/89/1054]; [Pub. L. 94–552, § 1][/us/pl/94/552/s1], Oct. 18, 1976, [90 Stat. 2540][/us/stat/90/2540]; [Pub. L. 95–142][/us/pl/95/142], §§ 2(a)(3), (b)(1), 3(c)(1), 7(b), (c), 9, 19(b)(2), 20(b), Oct. 25, 1977, [91 Stat. 1176][/us/stat/91/1176], 1178, 1193, 1195, 1204, 1207; [Pub. L. 95–210, § 2(c)][/us/pl/95/210/s2/c], Dec. 13, 1977, [91 Stat. 1488][/us/stat/91/1488]; [Pub. L. 95–559, § 14(a)(1)][/us/pl/95/559/s14/a/1], Nov. 1, 1978, [92 Stat. 2140][/us/stat/92/2140]; [Pub. L. 96–272, title III, § 308(c)][/us/pl/96/272/s308/c], June 17, 1980, [94 Stat. 531][/us/stat/94/531]; [Pub. L. 96–499, title IX][/us/pl/96/499], §§ 902(b), 903(b), 905(a), 912(b), 913(c), (d), 914(b)(1), 916(b)(1), 918(b)(1), 962(a), 965(b), Dec. 5, 1980, [94 Stat. 2613][/us/stat/94/2613], 2615, 2618–2621, 2624, 2626, 2650, 2652; [Pub. L. 96–611, § 5(b)][/us/pl/96/611/s5/b], Dec. 28, 1980, [94 Stat. 3568][/us/stat/94/3568]; [Pub. L. 97–35, title XXI][/us/pl/97/35], §§ 2105(c), 2113(m), 2171(a), (b), 2172(a), 2173(a), (b)(1), 2174(a), 2175(a), (d)(1), 2178(b), 2181(a)(2), 2182, 2193(c)(9), Aug. 13, 1981, [95 Stat. 792][/us/stat/95/792], 795, 807–809, 811, 814–816, 828; [Pub. L. 97–248, title I][/us/pl/97/248], §§ 131(a), (c), formerly (b), 132(a), (c), 134(a), 136(d), 137(a)(3), (b)(7)–(10), (e), 146(a), Sept. 3, 1982, [96 Stat. 367][/us/stat/96/367], 369, 370, 373, 375–378, 381, 394; [Pub. L. 97–448, title III, § 309(a)(8)][/us/pl/97/448/s309/a/8], Jan. 12, 1983, [96 Stat. 2408][/us/stat/96/2408]; [Pub. L. 98–369, div. B, title III][/us/pl/98/369], §§ 2303(g)(1), 2314(b), 2335(e), 2361(a), 2362(a), 2363(a)(1), 2367(a), 2368(a), (b), 2373(b)(1)–(10), title VI, § 2651(c), July 18, 1984, [98 Stat. 1066][/us/stat/98/1066], 1079, 1091, 1104, 1105, 1108, 1109, 1111, 1149; [Pub. L. 98–378, § 20(c)][/us/pl/98/378/s20/c], Aug. 16, 1984, [98 Stat. 1322][/us/stat/98/1322]; [Pub. L. 98–617, § 3(a)(7)][/us/pl/98/617/s3/a/7], (b)(10), Nov. 8, 1984, [98 Stat. 3295][/us/stat/98/3295], 3296; [Pub. L. 99–272, title IX][/us/pl/99/272], §§ 9501(b), (c), 9503(a), 9505(b), (c)(1), (d), 9506(a), 9509(a), 9510(a), 9517(b), 9529(a)(1), (b)(1), title XII, § 12305(b)(3), Apr. 7, 1986, [100 Stat. 201][/us/stat/100/201], 202, 205, 208–212, 216, 220, 293; [Pub. L. 99–509, title IX][/us/pl/99/509], §§ 9320(h)(3), 9401(a)–(e)(1), 9402(a), (b), 9403(a), (c), (e)–(g)(1), (4)(A), 9404(a), 9405, 9406(b), 9407(a), 9408(a), (b), (c)(2), (3), 9431(a), (b)(1), 9433(a), 9435(b)(1), Oct. 21, 1986, [100 Stat. 2016][/us/stat/100/2016], 2050–2058, 2060, 2061, 2066, 2068, 2069; [Pub. L. 99–514, title XVIII, § 1895(c)(1)][/us/pl/99/514/s1895/c/1], (3)(B), (C), (7), Oct. 22, 1986, [100 Stat. 2935][/us/stat/100/2935], 2936; [Pub. L. 99–570, title XI, § 11005(b)][/us/pl/99/570/s11005/b], Oct. 27, 1986, [100 Stat. 3207–169][/us/stat/100/3207-169]; [Pub. L. 99–643][/us/pl/99/643], §§ 3(b), 7(b), Nov. 10, 1986, [100 Stat. 3575][/us/stat/100/3575], 3579; [Pub. L. 100–93][/us/pl/100/93], §§ 5(a), 7, 8(f), Aug. 18, 1987, [101 Stat. 689][/us/stat/101/689], 691, 694; [Pub. L. 100–203, title IV][/us/pl/100/203], §§ 4072(d), 4101(a)(1), (2), (b)(1)–(2)(B), (c)(2), (e)(1)–(5), 4102(b)(1), 4104, 4113(a)(2), (b)(1), (2), (c)(1), (2), (d)(2), 4116, 4118(c)(1), (h)(1), (2), (m)(1)(B), (p)(1)–(4), (6)–(8), 4211(b)(1), (h)(1)–(5), 4212(d)(2), (3), (e)(1), 4213(b)(1), 4218(a), title IX, §§ 9115(b), 9119(d)(1), Dec. 22, 1987, [101 Stat. 1330–117][/us/stat/101/1330-117], 1330–140 to 1330–143, 1330–146, 1330–147, 1330–151, 1330–152, 1330–154 to 1330–157, 1330–159, 1330–203, 1330–205, 1330–213, 1330–219, 1330–220, 1330–305, as amended [Pub. L. 100–360, title IV, § 411(k)(5)(A)][/us/pl/100/360/s411/k/5/A], (7)(B)–(D), (10)(G)(ii), (iv), (l)(3)(H), (J), (8)(C), (n)(2), (4), formerly (3), July 1, 1988, [102 Stat. 791][/us/stat/102/791], 794, 796, 803, 805, 807, as amended [Pub. L. 100–485, title VI, § 608(d)(14)(I)][/us/pl/100/485/s608/d/14/I], (15)(A), (27)(F)–(H), (28), Oct. 13, 1988, [102 Stat. 2416][/us/stat/102/2416], 2423; [Pub. L. 100–360, title II, § 204(d)(3)][/us/pl/100/360/s204/d/3], title III, §§ 301(a)(1), (e)(2), 302(a), (b)(1), (c)(1), (2), (d)–(e)(3), 303(d), (e), title IV, § 411(k)(5)(B), (17)(B), (l)(3)(E), (6)(C), (D), July 1, 1988, [102 Stat. 729][/us/stat/102/729], 748–753, 762, 763, 792, 800, 803, 804; [Pub. L. 100–485, title II, § 202(c)(4)][/us/pl/100/485/s202/c/4], title III, § 303(a)(2), (b)(1), (d), title IV, § 401(d)(1), title VI, § 608(d)(15)(B), (16)(C), Oct. 13, 1988, [102 Stat. 2378][/us/stat/102/2378], 2391, 2392, 2396, 2416, 2418; [Pub. L. 100–647, title VIII, § 8434(b)(1)][/us/pl/100/647/s8434/b/1], (2), Nov. 10, 1988, [102 Stat. 3805][/us/stat/102/3805]; [Pub. L. 101–234, title II, § 201(a)][/us/pl/101/234/s201/a], Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981]; [Pub. L. 101–239, title VI][/us/pl/101/239], §§ 6115(c), 6401(a), 6402(a), (c)(2), 6403(b), (d)(1), 6404(c), 6405(b), 6406(a), 6408(c)(1), (d)(1), (4)(C), 6411(a)(1), (d)(3)(B), (e)(2), Dec. 19, 1989, [103 Stat. 2219][/us/stat/103/2219], 2258, 2260, 2261, 2263–2265, 2268–2271; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4401(a)(2), 4402(a)(1), (c), (d)(1), 4501(b), (e)(2), 4601(a)(1), 4602(a), 4603(a), 4604(a), (b), 4701(b)(1), 4704(a), (e)(1), 4708(a), 4711(c)(1), (d), 4713(a), 4715(a), 4723(b), 4724(a), 4732(b)(1), 4751(a), 4752(a)(1)(A), (c)(1), 4754(a), 4755(a)(2), (c)(1), 4801(e)(1)(A), (11)(A), Nov. 5, 1990, [104 Stat. 1388–143][/us/stat/104/1388-143], 1388–161, 1388–163 to 1388–173, 1388–186, 1388–187, 1388–190, 1388–192, 1388–194, 1388–195, 1388–204, 1388–206, 1388–208 to 1388–210, 1388–215, 1388–217; [Pub. L. 102–234][/us/pl/102/234], §§ 2(b)(1), 3(a), Dec. 12, 1991, [105 Stat. 1799][/us/stat/105/1799]; [Pub. L. 103–66, title XIII, § 13581(b)(2)][/us/pl/103/66/s13581/b/2], 13601(b), 13602(c), 13603(a)–(c), 13611(d)(1), 13622(a)(1), (b), (c), 13623(a), 13625(a), 13631(a), (e)(1), (f)(1), Aug. 10, 1993, [107 Stat. 611][/us/stat/107/611], 613, 619, 620, 626, 632, 633, 636, 643, 644; [Pub. L. 103–296, title I, § 108(d)(1)][/us/pl/103/296/s108/d/1], Aug. 15, 1994, [108 Stat. 1486][/us/stat/108/1486]; [Pub. L. 103–448, title II, § 204(w)(2)(E)][/us/pl/103/448/s204/w/2/E], Nov. 2, 1994, [108 Stat. 4746][/us/stat/108/4746]; [Pub. L. 104–193, title I][/us/pl/104/193], §§ 108(k), 114(b)–(d)(1), title IX, § 913, Aug. 22, 1996, [110 Stat. 2169][/us/stat/110/2169], 2180, 2354; [Pub. L. 104–226, § 1(b)(2)][/us/pl/104/226/s1/b/2], Oct. 2, 1996, [110 Stat. 3033][/us/stat/110/3033]; [Pub. L. 104–248, § 1(a)(1)][/us/pl/104/248/s1/a/1], Oct. 9, 1996, [110 Stat. 3148][/us/stat/110/3148]; [Pub. L. 105–12, § 9(b)(2)][/us/pl/105/12/s9/b/2], Apr. 30, 1997, [111 Stat. 26][/us/stat/111/26]; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4106(c), 4454(b)(1), 4701(b)(2)(A)(i)–(iv), (d)(1), 4702(b)(2), 4709, 4711(a), 4712(a), (b)(1), (c)(1), 4714(a)(1), 4715(a), 4724(c)(1), (d), (f), (g)(1), 4731(a), (b), 4732(a), 4733, 4741(a), 4751(a), (b), 4752(a), 4753(b), 4911(b), 4912(b)(1), 4913(a), Aug. 5, 1997, [111 Stat. 368][/us/stat/111/368], 431, 493, 495, 506–510, 516, 517, 519, 520, 522–525, 571, 573; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, §§ 603(a)(1), 604(a)(1), (2)(A), (b)(1), 608(a)–(d), (y)(2), (aa)(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–394 to 1501A–398; [Pub. L. 106–169, title I, § 121(a)(1)][/us/pl/106/169/s121/a/1], (c)(4), title II, §§ 205(c), 206(b), Dec. 14, 1999, [113 Stat. 1829][/us/stat/113/1829], 1830, 1834, 1837; [Pub. L. 106–170, title II, § 201(a)(1)][/us/pl/106/170/s201/a/1], (2)(A), Dec. 17, 1999, [113 Stat. 1891][/us/stat/113/1891], 1892; [Pub. L. 106–354, § 2(a)(1)][/us/pl/106/354/s2/a/1]–(3), (b)(2)(A), Oct. 24, 2000, [114 Stat. 1381–1383][/us/stat/114/1381-1383]; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VII, §§ 702(a)–(c)(1), 707(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–572 to 2763A–574, 2763A–577; [Pub. L. 107–121, § 2(a)][/us/pl/107/121/s2/a], (b)(1), (2), Jan. 15, 2002, [115 Stat. 2384][/us/stat/115/2384]; [Pub. L. 108–40, § 7(b)][/us/pl/108/40/s7/b], June 30, 2003, [117 Stat. 837][/us/stat/117/837]; [Pub. L. 108–89, title IV, § 401(a)][/us/pl/108/89/s401/a], Oct. 1, 2003, [117 Stat. 1134][/us/stat/117/1134]; [Pub. L. 108–173, title I, § 103(a)(1)][/us/pl/108/173/s103/a/1], (f)(1), title II, § 236(b)(1), Dec. 8, 2003, [117 Stat. 2154][/us/stat/117/2154], 2160, 2211; [Pub. L. 108–265, title I, § 105(b)][/us/pl/108/265/s105/b], June 30, 2004, [118 Stat. 744][/us/stat/118/744]; [Pub. L. 108–448, § 1(a)][/us/pl/108/448/s1/a], Dec. 8, 2004, [118 Stat. 3467][/us/stat/118/3467]; [Pub. L. 109–91, title I, § 101(a)][/us/pl/109/91/s101/a], Oct. 20, 2005, [119 Stat. 2091][/us/stat/119/2091]; [Pub. L. 109–171, title VI][/us/pl/109/171], §§ 6032(a), 6034(b), 6035(a), (b), 6062(a), 6065(a), 6083(a), Feb. 8, 2006, [120 Stat. 73][/us/stat/120/73], 76, 78, 79, 96, 101, 120; [Pub. L. 109–432, div. B, title IV, § 405(c)(2)(A)(iv)][/us/pl/109/432/s405/c/2/A/iv], Dec. 20, 2006, [120 Stat. 3000][/us/stat/120/3000]; [Pub. L. 110–90, § 3(a)][/us/pl/110/90/s3/a], Sept. 29, 2007, [121 Stat. 984][/us/stat/121/984]; [Pub. L. 110–173, title II, § 203(a)][/us/pl/110/173/s203/a], Dec. 29, 2007, [121 Stat. 2513][/us/stat/121/2513]; [Pub. L. 110–252, title VII, § 7001(d)(2)][/us/pl/110/252/s7001/d/2], June 30, 2008, [122 Stat. 2394][/us/stat/122/2394]; [Pub. L. 110–275, title I, § 111(a)][/us/pl/110/275/s111/a], July 15, 2008, [122 Stat. 2503][/us/stat/122/2503]; [Pub. L. 111–3, title I, § 113(b)(1)][/us/pl/111/3/s113/b/1], title II, §§ 203(a)(1), (c), (d)(3), 211(a)(1)(A), (b)(3)(B), title V, § 501(d)(1), (e)(1), Feb. 4, 2009, [123 Stat. 34][/us/stat/123/34], 40, 47, 49, 54, 87; [Pub. L. 111–5, div. B, title V][/us/pl/111/5], §§ 5004(a)(1), 5005(a), 5006(b)(1), (e)(2)(A), Feb. 17, 2009, [123 Stat. 503][/us/stat/123/503], 505, 506, 510; [Pub. L. 111–148, title II][/us/pl/111/148], §§ 2001(a)(1), (2)(A), (4)(A), (5)(A), (B), (b), (d)(1), (e)(1), 2002(a), (b), 2004(a), 2202(a), 2301(b), 2303(a)(1)–(3), (b)(2)(A), 2402(d)(1), 2901(c), title III, § 3021(b), title IV, § 4302(b)(1)(A), title VI, §§ 6103(d)(2), 6401(b)(1), (3), 6411(a)(1), 6501–6503, 6505, title VIII, § 8002(a)(2), (b), title X, § 10201(a)(1), (2), (b), Mar. 23, 2010, [124 Stat. 271][/us/stat/124/271], 274, 275, 277–279, 282, 283, 291–294, 296, 303, 333, 394, 581, 710, 751, 753, 773, 776, 777, 846, 917, 918; [Pub. L. 111–152, title I][/us/pl/111/152], §§ 1004(b)(1), (e), 1202(a)(1), Mar. 30, 2010, [124 Stat. 1034][/us/stat/124/1034], 1036, 1052; [Pub. L. 111–255, § 3(c)][/us/pl/111/255/s3/c], Oct. 5, 2010, [124 Stat. 2641][/us/stat/124/2641]; [Pub. L. 111–296, title I, § 103(c)(1)][/us/pl/111/296/s103/c/1], Dec. 13, 2010, [124 Stat. 3191][/us/stat/124/3191]; [Pub. L. 111–309, title I][/us/pl/111/309], §§ 110(a), 111, title II, §§ 205(a), (b), (f)(1), Dec. 15, 2010, [124 Stat. 3288–3290][/us/stat/124/3288-3290]; [Pub. L. 112–78, title III][/us/pl/112/78], §§ 310(a), 311, Dec. 23, 2011, [125 Stat. 1286][/us/stat/125/1286]; [Pub. L. 112–96, title III][/us/pl/112/96], §§ 3101(a), 3102, Feb. 22, 2012, [126 Stat. 191][/us/stat/126/191]; [Pub. L. 112–240, title VI][/us/pl/112/240], §§ 621(a), 622, 623, 642(b)(2), Jan. 2, 2013, [126 Stat. 2352][/us/stat/126/2352], 2358.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1902, as added [Pub. L. 89–97, title I, § 121(a)][/us/pl/89/97/s121/a], July 30, 1965, [79 Stat. 344][/us/stat/79/344]; amended [Pub. L. 90–248, title II][/us/pl/90/248], §§ 210(a)(6), 223(a), 224(a), (c)(1), 227(a), 228(a), 229(a), 231, 234(a), 235(a), 236(a), 237, 238, 241(f)(1)–(4), title III, § 302(b), Jan. 2, 1968, [81 Stat. 896][/us/stat/81/896], 901–906, 908, 911, 917, 929; [Pub. L. 91–56, § 2(c)][/us/pl/91/56/s2/c], (d), Aug. 9, 1969, [83 Stat. 99][/us/stat/83/99]; [Pub. L. 92–223, § 4(b)][/us/pl/92/223/s4/b], Dec. 28, 1971, [85 Stat. 809][/us/stat/85/809]; [Pub. L. 92–603, title II][/us/pl/92/603], §§ 208(a), 209(a), (b)(1), 221(c)(5), 231, 232(a), 236(b), 237(a)(2), 239(a), (b), 240, 246(a), 249(a), 255(a), 268(a), 274(a), 278(a)(18)–(20), (b)(14), 298, 299A, 299D(b), Oct. 30, 1972, [86 Stat. 1381][/us/stat/86/1381], 1389, 1410, 1415–1418, 1424, 1426, 1446, 1450, 1452–1454, 1460, 1462; [Pub. L. 93–233][/us/pl/93/233], §§ 13(a)(2)–(10), 18(o)–(q), (x)(1)–(4), Dec. 31, 1973, [87 Stat. 960–962][/us/stat/87/960-962], 971, 972; [Pub. L. 93–368, § 9(a)][/us/pl/93/368/s9/a], Aug. 7, 1974, [88 Stat. 422][/us/stat/88/422]; [Pub. L. 94–48][/us/pl/94/48], §§ 1, 2, July 1, 1975, [89 Stat. 247][/us/stat/89/247]; [Pub. L. 94–182, title I, § 111(a)][/us/pl/94/182/s111/a], Dec. 31, 1975, [89 Stat. 1054][/us/stat/89/1054]; [Pub. L. 94–552, § 1][/us/pl/94/552/s1], Oct. 18, 1976, [90 Stat. 2540][/us/stat/90/2540]; [Pub. L. 95–142][/us/pl/95/142], §§ 2(a)(3), (b)(1), 3(c)(1), 7(b), (c), 9, 19(b)(2), 20(b), Oct. 25, 1977, [91 Stat. 1176][/us/stat/91/1176], 1178, 1193, 1195, 1204, 1207; [Pub. L. 95–210, § 2(c)][/us/pl/95/210/s2/c], Dec. 13, 1977, [91 Stat. 1488][/us/stat/91/1488]; [Pub. L. 95–559, § 14(a)(1)][/us/pl/95/559/s14/a/1], Nov. 1, 1978, [92 Stat. 2140][/us/stat/92/2140]; [Pub. L. 96–272, title III, § 308(c)][/us/pl/96/272/s308/c], June 17, 1980, [94 Stat. 531][/us/stat/94/531]; [Pub. L. 96–499, title IX][/us/pl/96/499], §§ 902(b), 903(b), 905(a), 912(b), 913(c), (d), 914(b)(1), 916(b)(1), 918(b)(1), 962(a), 965(b), Dec. 5, 1980, [94 Stat. 2613][/us/stat/94/2613], 2615, 2618–2621, 2624, 2626, 2650, 2652; [Pub. L. 96–611, § 5(b)][/us/pl/96/611/s5/b], Dec. 28, 1980, [94 Stat. 3568][/us/stat/94/3568]; [Pub. L. 97–35, title XXI][/us/pl/97/35], §§ 2105(c), 2113(m), 2171(a), (b), 2172(a), 2173(a), (b)(1), 2174(a), 2175(a), (d)(1), 2178(b), 2181(a)(2), 2182, 2193(c)(9), Aug. 13, 1981, [95 Stat. 792][/us/stat/95/792], 795, 807–809, 811, 814–816, 828; [Pub. L. 97–248, title I][/us/pl/97/248], §§ 131(a), (c), formerly (b), 132(a), (c), 134(a), 136(d), 137(a)(3), (b)(7)–(10), (e), 146(a), Sept. 3, 1982, [96 Stat. 367][/us/stat/96/367], 369, 370, 373, 375–378, 381, 394; [Pub. L. 97–448, title III, § 309(a)(8)][/us/pl/97/448/s309/a/8], Jan. 12, 1983, [96 Stat. 2408][/us/stat/96/2408]; [Pub. L. 98–369, div. B, title III][/us/pl/98/369], §§ 2303(g)(1), 2314(b), 2335(e), 2361(a), 2362(a), 2363(a)(1), 2367(a), 2368(a), (b), 2373(b)(1)–(10), title VI, § 2651(c), July 18, 1984, [98 Stat. 1066][/us/stat/98/1066], 1079, 1091, 1104, 1105, 1108, 1109, 1111, 1149; [Pub. L. 98–378, § 20(c)][/us/pl/98/378/s20/c], Aug. 16, 1984, [98 Stat. 1322][/us/stat/98/1322]; [Pub. L. 98–617, § 3(a)(7)][/us/pl/98/617/s3/a/7], (b)(10), Nov. 8, 1984, [98 Stat. 3295][/us/stat/98/3295], 3296; [Pub. L. 99–272, title IX][/us/pl/99/272], §§ 9501(b), (c), 9503(a), 9505(b), (c)(1), (d), 9506(a), 9509(a), 9510(a), 9517(b), 9529(a)(1), (b)(1), title XII, § 12305(b)(3), Apr. 7, 1986, [100 Stat. 201][/us/stat/100/201], 202, 205, 208–212, 216, 220, 293; [Pub. L. 99–509, title IX][/us/pl/99/509], §§ 9320(h)(3), 9401(a)–(e)(1), 9402(a), (b), 9403(a), (c), (e)–(g)(1), (4)(A), 9404(a), 9405, 9406(b), 9407(a), 9408(a), (b), (c)(2), (3), 9431(a), (b)(1), 9433(a), 9435(b)(1), Oct. 21, 1986, [100 Stat. 2016][/us/stat/100/2016], 2050–2058, 2060, 2061, 2066, 2068, 2069; [Pub. L. 99–514, title XVIII, § 1895(c)(1)][/us/pl/99/514/s1895/c/1], (3)(B), (C), (7), Oct. 22, 1986, [100 Stat. 2935][/us/stat/100/2935], 2936; [Pub. L. 99–570, title XI, § 11005(b)][/us/pl/99/570/s11005/b], Oct. 27, 1986, [100 Stat. 3207–169][/us/stat/100/3207-169]; [Pub. L. 99–643][/us/pl/99/643], §§ 3(b), 7(b), Nov. 10, 1986, [100 Stat. 3575][/us/stat/100/3575], 3579; [Pub. L. 100–93][/us/pl/100/93], §§ 5(a), 7, 8(f), Aug. 18, 1987, [101 Stat. 689][/us/stat/101/689], 691, 694; [Pub. L. 100–203, title IV][/us/pl/100/203], §§ 4072(d), 4101(a)(1), (2), (b)(1)–(2)(B), (c)(2), (e)(1)–(5), 4102(b)(1), 4104, 4113(a)(2), (b)(1), (2), (c)(1), (2), (d)(2), 4116, 4118(c)(1), (h)(1), (2), (m)(1)(B), (p)(1)–(4), (6)–(8), 4211(b)(1), (h)(1)–(5), 4212(d)(2), (3), (e)(1), 4213(b)(1), 4218(a), title IX, §§ 9115(b), 9119(d)(1), Dec. 22, 1987, [101 Stat. 1330–117][/us/stat/101/1330-117], 1330–140 to 1330–143, 1330–146, 1330–147, 1330–151, 1330–152, 1330–154 to 1330–157, 1330–159, 1330–203, 1330–205, 1330–213, 1330–219, 1330–220, 1330–305, as amended [Pub. L. 100–360, title IV, § 411(k)(5)(A)][/us/pl/100/360/s411/k/5/A], (7)(B)–(D), (10)(G)(ii), (iv), (l)(3)(H), (J), (8)(C), (n)(2), (4), formerly (3), July 1, 1988, [102 Stat. 791][/us/stat/102/791], 794, 796, 803, 805, 807, as amended [Pub. L. 100–485, title VI, § 608(d)(14)(I)][/us/pl/100/485/s608/d/14/I], (15)(A), (27)(F)–(H), (28), Oct. 13, 1988, [102 Stat. 2416][/us/stat/102/2416], 2423; [Pub. L. 100–360, title II, § 204(d)(3)][/us/pl/100/360/s204/d/3], title III, §§ 301(a)(1), (e)(2), 302(a), (b)(1), (c)(1), (2), (d)–(e)(3), 303(d), (e), title IV, § 411(k)(5)(B), (17)(B), (l)(3)(E), (6)(C), (D), July 1, 1988, [102 Stat. 729][/us/stat/102/729], 748–753, 762, 763, 792, 800, 803, 804; [Pub. L. 100–485, title II, § 202(c)(4)][/us/pl/100/485/s202/c/4], title III, § 303(a)(2), (b)(1), (d), title IV, § 401(d)(1), title VI, § 608(d)(15)(B), (16)(C), Oct. 13, 1988, [102 Stat. 2378][/us/stat/102/2378], 2391, 2392, 2396, 2416, 2418; [Pub. L. 100–647, title VIII, § 8434(b)(1)][/us/pl/100/647/s8434/b/1], (2), Nov. 10, 1988, [102 Stat. 3805][/us/stat/102/3805]; [Pub. L. 101–234, title II, § 201(a)][/us/pl/101/234/s201/a], Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981]; [Pub. L. 101–239, title VI][/us/pl/101/239], §§ 6115(c), 6401(a), 6402(a), (c)(2), 6403(b), (d)(1), 6404(c), 6405(b), 6406(a), 6408(c)(1), (d)(1), (4)(C), 6411(a)(1), (d)(3)(B), (e)(2), Dec. 19, 1989, [103 Stat. 2219][/us/stat/103/2219], 2258, 2260, 2261, 2263–2265, 2268–2271; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4401(a)(2), 4402(a)(1), (c), (d)(1), 4501(b), (e)(2), 4601(a)(1), 4602(a), 4603(a), 4604(a), (b), 4701(b)(1), 4704(a), (e)(1), 4708(a), 4711(c)(1), (d), 4713(a), 4715(a), 4723(b), 4724(a), 4732(b)(1), 4751(a), 4752(a)(1)(A), (c)(1), 4754(a), 4755(a)(2), (c)(1), 4801(e)(1)(A), (11)(A), Nov. 5, 1990, [104 Stat. 1388–143][/us/stat/104/1388-143], 1388–161, 1388–163 to 1388–173, 1388–186, 1388–187, 1388–190, 1388–192, 1388–194, 1388–195, 1388–204, 1388–206, 1388–208 to 1388–210, 1388–215, 1388–217; [Pub. L. 102–234][/us/pl/102/234], §§ 2(b)(1), 3(a), Dec. 12, 1991, [105 Stat. 1799][/us/stat/105/1799]; [Pub. L. 103–66, title XIII, § 13581(b)(2)][/us/pl/103/66/s13581/b/2], 13601(b), 13602(c), 13603(a)–(c), 13611(d)(1), 13622(a)(1), (b), (c), 13623(a), 13625(a), 13631(a), (e)(1), (f)(1), Aug. 10, 1993, [107 Stat. 611][/us/stat/107/611], 613, 619, 620, 626, 632, 633, 636, 643, 644; [Pub. L. 103–296, title I, § 108(d)(1)][/us/pl/103/296/s108/d/1], Aug. 15, 1994, [108 Stat. 1486][/us/stat/108/1486]; [Pub. L. 103–448, title II, § 204(w)(2)(E)][/us/pl/103/448/s204/w/2/E], Nov. 2, 1994, [108 Stat. 4746][/us/stat/108/4746]; [Pub. L. 104–193, title I][/us/pl/104/193], §§ 108(k), 114(b)–(d)(1), title IX, § 913, Aug. 22, 1996, [110 Stat. 2169][/us/stat/110/2169], 2180, 2354; [Pub. L. 104–226, § 1(b)(2)][/us/pl/104/226/s1/b/2], Oct. 2, 1996, [110 Stat. 3033][/us/stat/110/3033]; [Pub. L. 104–248, § 1(a)(1)][/us/pl/104/248/s1/a/1], Oct. 9, 1996, [110 Stat. 3148][/us/stat/110/3148]; [Pub. L. 105–12, § 9(b)(2)][/us/pl/105/12/s9/b/2], Apr. 30, 1997, [111 Stat. 26][/us/stat/111/26]; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4106(c), 4454(b)(1), 4701(b)(2)(A)(i)–(iv), (d)(1), 4702(b)(2), 4709, 4711(a), 4712(a), (b)(1), (c)(1), 4714(a)(1), 4715(a), 4724(c)(1), (d), (f), (g)(1), 4731(a), (b), 4732(a), 4733, 4741(a), 4751(a), (b), 4752(a), 4753(b), 4911(b), 4912(b)(1), 4913(a), Aug. 5, 1997, [111 Stat. 368][/us/stat/111/368], 431, 493, 495, 506–510, 516, 517, 519, 520, 522–525, 571, 573; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, §§ 603(a)(1), 604(a)(1), (2)(A), (b)(1), 608(a)–(d), (y)(2), (aa)(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–394 to 1501A–398; [Pub. L. 106–169, title I, § 121(a)(1)][/us/pl/106/169/s121/a/1], (c)(4), title II, §§ 205(c), 206(b), Dec. 14, 1999, [113 Stat. 1829][/us/stat/113/1829], 1830, 1834, 1837; [Pub. L. 106–170, title II, § 201(a)(1)][/us/pl/106/170/s201/a/1], (2)(A), Dec. 17, 1999, [113 Stat. 1891][/us/stat/113/1891], 1892; [Pub. L. 106–354, § 2(a)(1)][/us/pl/106/354/s2/a/1]–(3), (b)(2)(A), Oct. 24, 2000, [114 Stat. 1381–1383][/us/stat/114/1381-1383]; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VII, §§ 702(a)–(c)(1), 707(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–572 to 2763A–574, 2763A–577; [Pub. L. 107–121, § 2(a)][/us/pl/107/121/s2/a], (b)(1), (2), Jan. 15, 2002, [115 Stat. 2384][/us/stat/115/2384]; [Pub. L. 108–40, § 7(b)][/us/pl/108/40/s7/b], June 30, 2003, [117 Stat. 837][/us/stat/117/837]; [Pub. L. 108–89, title IV, § 401(a)][/us/pl/108/89/s401/a], Oct. 1, 2003, [117 Stat. 1134][/us/stat/117/1134]; [Pub. L. 108–173, title I, § 103(a)(1)][/us/pl/108/173/s103/a/1], (f)(1), title II, § 236(b)(1), Dec. 8, 2003, [117 Stat. 2154][/us/stat/117/2154], 2160, 2211; [Pub. L. 108–265, title I, § 105(b)][/us/pl/108/265/s105/b], June 30, 2004, [118 Stat. 744][/us/stat/118/744]; [Pub. L. 108–448, § 1(a)][/us/pl/108/448/s1/a], Dec. 8, 2004, [118 Stat. 3467][/us/stat/118/3467]; [Pub. L. 109–91, title I, § 101(a)][/us/pl/109/91/s101/a], Oct. 20, 2005, [119 Stat. 2091][/us/stat/119/2091]; [Pub. L. 109–171, title VI][/us/pl/109/171], §§ 6032(a), 6034(b), 6035(a), (b), 6062(a), 6065(a), 6083(a), Feb. 8, 2006, [120 Stat. 73][/us/stat/120/73], 76, 78, 79, 96, 101, 120; [Pub. L. 109–432, div. B, title IV, § 405(c)(2)(A)(iv)][/us/pl/109/432/s405/c/2/A/iv], Dec. 20, 2006, [120 Stat. 3000][/us/stat/120/3000]; [Pub. L. 110–90, § 3(a)][/us/pl/110/90/s3/a], Sept. 29, 2007, [121 Stat. 984][/us/stat/121/984]; [Pub. L. 110–173, title II, § 203(a)][/us/pl/110/173/s203/a], Dec. 29, 2007, [121 Stat. 2513][/us/stat/121/2513]; [Pub. L. 110–252, title VII, § 7001(d)(2)][/us/pl/110/252/s7001/d/2], June 30, 2008, [122 Stat. 2394][/us/stat/122/2394]; [Pub. L. 110–275, title I, § 111(a)][/us/pl/110/275/s111/a], July 15, 2008, [122 Stat. 2503][/us/stat/122/2503]; [Pub. L. 111–3, title I, § 113(b)(1)][/us/pl/111/3/s113/b/1], title II, §§ 203(a)(1), (c), (d)(3), 211(a)(1)(A), (b)(3)(B), title V, § 501(d)(1), (e)(1), Feb. 4, 2009, [123 Stat. 34][/us/stat/123/34], 40, 47, 49, 54, 87; [Pub. L. 111–5, div. B, title V][/us/pl/111/5], §§ 5004(a)(1), 5005(a), 5006(b)(1), (e)(2)(A), Feb. 17, 2009, [123 Stat. 503][/us/stat/123/503], 505, 506, 510; [Pub. L. 111–148, title II][/us/pl/111/148], §§ 2001(a)(1), (2)(A), (4)(A), (5)(A), (B), (b), (d)(1), (e)(1), 2002(a), (b), 2004(a), 2202(a), 2301(b), 2303(a)(1)–(3), (b)(2)(A), 2402(d)(1), 2901(c), title III, § 3021(b), title IV, § 4302(b)(1)(A), title VI, §§ 6103(d)(2), 6401(b)(1), (3), 6411(a)(1), 6501–6503, 6505, title VIII, § 8002(a)(2), (b), title X, § 10201(a)(1), (2), (b), Mar. 23, 2010, [124 Stat. 271][/us/stat/124/271], 274, 275, 277–279, 282, 283, 291–294, 296, 303, 333, 394, 581, 710, 751, 753, 773, 776, 777, 846, 917, 918; [Pub. L. 111–152, title I][/us/pl/111/152], §§ 1004(b)(1), (e), 1202(a)(1), Mar. 30, 2010, [124 Stat. 1034][/us/stat/124/1034], 1036, 1052; [Pub. L. 111–255, § 3(c)][/us/pl/111/255/s3/c], Oct. 5, 2010, [124 Stat. 2641][/us/stat/124/2641]; [Pub. L. 111–296, title I, § 103(c)(1)][/us/pl/111/296/s103/c/1], Dec. 13, 2010, [124 Stat. 3191][/us/stat/124/3191]; [Pub. L. 111–309, title I][/us/pl/111/309], §§ 110(a), 111, title II, §§ 205(a), (b), (f)(1), Dec. 15, 2010, [124 Stat. 3288–3290][/us/stat/124/3288-3290]; [Pub. L. 112–78, title III][/us/pl/112/78], §§ 310(a), 311, Dec. 23, 2011, [125 Stat. 1286][/us/stat/125/1286]; [Pub. L. 112–96, title III][/us/pl/112/96], §§ 3101(a), 3102, Feb. 22, 2012, [126 Stat. 191][/us/stat/126/191]; [Pub. L. 112–240, title VI][/us/pl/112/240], §§ 621(a), 622, 623, 642(b)(2), Jan. 2, 2013, [126 Stat. 2352][/us/stat/126/2352], 2358; [Pub. L. 113–67, div. A, title II, § 202(a)][/us/pl/113/67/s202/a], (b)(1), div. B, title II, §§ 1201(a), 1202, Dec. 26, 2013, [127 Stat. 1177][/us/stat/127/1177], 1198, 1199.)
 
  __Amendment of Subsection (a)__ 
 
     For repeal of amendment by [section 3(e) of Pub. L. 111–255][/us/pl/111/255/s3/e], see Effective and Termination Dates of 2010 Amendment note below.
 
-    [Pub. L. 111–148, title II, § 2004(a)][/us/pl/111/148/s2004/a], (d), title X, § 10201(a)(1), (3), Mar. 23, 2010, [124 Stat. 283][/us/stat/124/283], 917, 918, provided that, effective Jan. 1, 2014, subsection (a)(10)(A)(i) of this section is amended:
+[Pub. L. 113–67, div. A, title II, § 202(a)][/us/pl/113/67/s202/a], (b)(1), (c), Dec. 26, 2013, [127 Stat. 1177][/us/stat/127/1177], provided that, effective Oct. 1, 2014, subsection (a)(25) of this section is amended:
 
-    (1) by striking “or” at the end of subclause (VII);
+    (1) in subparagraph (B), by striking “to the extent of such legal liability”;
 
-    (2) by adding “or” at the end of subclause (VIII); and
+    (2) in subparagraph (E)(i), by inserting before the semicolon at the end “, except that the State may, if the State determines doing so is cost-effective and will not adversely affect access to care, only make such payment if a third party so liable has not made payment within 90 days after the date the provider of such services has initially submitted a claim to such third party for payment for such services”;
 
-    (3) by inserting after subclause (VIII) the following:
+    (3) in subparagraph (F)(i), by striking “30 days after such services are furnished” and inserting “90 days after the date the provider of such services has initially submitted a claim to such third party for payment for such services, except that the State may make such payment within 30 days after such date if the State determines doing so is cost-effective and necessary to ensure access to care.”; and
 
-    (IX) who—
+    (4) in subparagraph (H), by striking “payment by any other party for such health care items or services” and inserting “any payments by such third party”.
 
-    (aa) are under 26 years of age;
-
-    (bb) are not described in or enrolled under any of subclauses (I) through (VII) of this clause or are described in any of such subclauses but have income that exceeds the level of income applicable under the State plan for eligibility to enroll for medical assistance under such subclause;
-
-    (cc) were in foster care under the responsibility of the State on the date of attaining 18 years of age or such higher age as the State has elected under [section 675(8)(B)(iii) of this title][/us/usc/t42/s675/8/B/iii]; and
-
-    (dd) were enrolled in the State plan under this subchapter or under a waiver of the plan while in such foster care;
-
-    [Pub. L. 111–148, title II, § 2002(b)][/us/pl/111/148/s2002/b], (c), Mar. 23, 2010, [124 Stat. 282][/us/stat/124/282], provided that, effective Jan. 1, 2014, subsection (a)(17) of this section is amended by inserting “(e)(14),” before “(l)(3)”.
-
-[Pub. L. 111–148, title II, § 2202(a)][/us/pl/111/148/s2202/a], (c), Mar. 23, 2010, [124 Stat. 291][/us/stat/124/291], 292, provided that, effective Jan. 1, 2014, subsection (a)(47) of this section is amended as follows:
-
-    (1) by striking “at the option of the State, provide” and inserting “provide—
-
-    “(A) at the option of the State,”;
-
-    (2) by inserting “and” after the semicolon; and
-
-    (3) by adding at the end the following:
-
-    (B) that any hospital that is a participating provider under the State plan may elect to be a qualified entity for purposes of determining, on the basis of preliminary information, whether any individual is eligible for medical assistance under the State plan or under a waiver of the plan for purposes of providing the individual with medical assistance during a presumptive eligibility period, in the same manner, and subject to the same requirements, as apply to the State options with respect to populations described in section 1396r–1, 1396r–1a, or 1396r–1b of this title (but without regard to whether the State has elected to provide for a presumptive eligibility period under any such sections), subject to such guidance as the Secretary shall establish;
-
-[Pub. L. 111–148, title II, § 2303(b)(2)(A)][/us/pl/111/148/s2303/b/2/A], (d), Mar. 23, 2010, [124 Stat. 296][/us/stat/124/296], provided that, effective Mar. 23, 2010, and applicable to items and services furnished on or after such date, subsection (a)(47) of this section, as amended by [section 2202(a) of Pub. L. 111–148][/us/pl/111/148/s2202/a], set out above, is amended as follows:
-
-    (1) in subparagraph (A), by inserting before the semicolon at the end the following: “and provide for making medical assistance available to individuals described in subsection (a) of [section 1396r–1c of this title][/us/usc/t42/s1396r–1c] during a presumptive eligibility period in accordance with such section”; and
-
-    (2) in subparagraph (B), by striking “or 1396r–1b of this title” and inserting “1396r–1b, or 1396r–1c of this title”.
-
-    See 2010 Amendment notes below.
+    See 2013 Amendment notes below.
 
     [Pub. L. 101–508, title IV, § 4801(e)(11)][/us/pl/101/508/s4801/e/11], Nov. 5, 1990, [104 Stat. 1388–217][/us/stat/104/1388-217], provided that, effective on the date on which the Secretary promulgates standards regarding the qualifications of nursing facility administrators under [section 1396r(f)(4) of this title][/us/usc/t42/s1396r/f/4], subsection (a)(29) of this section is repealed.
 
  __Amendment of Subsection (e)(14)__ 
 
     For repeal of amendment by [section 3(e) of Pub. L. 111–255][/us/pl/111/255/s3/e], see Effective and Termination Dates of 2010 Amendment note below.
-
-    [Pub. L. 111–148, title II, § 2002(a)][/us/pl/111/148/s2002/a], (c), Mar. 23, 2010, [124 Stat. 279][/us/stat/124/279], 282; [Pub. L. 111–152, title I, § 1004(b)(1)(A)][/us/pl/111/152/s1004/b/1/A], (e), Mar. 30, 2010, [124 Stat. 1034][/us/stat/124/1034], 1036, provided that, effective Jan. 1, 2014, subsection (e) of this section is amended by adding at the end the following:
-
-    (14) Income determined using modified adjusted gross income.—
-
-    (A) In general.—Notwithstanding subsection (r) or any other provision of this subchapter, except as provided in subparagraph (D), for purposes of determining income eligibility for medical assistance under the State plan or under any waiver of such plan and for any other purpose applicable under the plan or waiver for which a determination of income is required, including with respect to the imposition of premiums and cost-sharing, a State shall use the modified adjusted gross income of an individual and, in the case of an individual in a family greater than 1, the household income of such family. A State shall establish income eligibility thresholds for populations to be eligible for medical assistance under the State plan or a waiver of the plan using modified adjusted gross income and household income that are not less than the effective income eligibility levels that applied under the State plan or waiver on March 23, 2010. For purposes of complying with the maintenance of effort requirements under subsection (gg) during the transition to modified adjusted gross income and household income, a State shall, working with the Secretary, establish an equivalent income test that ensures individuals eligible for medical assistance under the State plan or under a waiver of the plan on March 23, 2010, do not lose coverage under the State plan or under a waiver of the plan. The Secretary may waive such provisions of this subchapter and subchapter XXI as are necessary to ensure that States establish income and eligibility determination systems that protect beneficiaries.
-
-    (B) No income or expense disregards.—Subject to subparagraph (I), no type of expense, block, or other income disregard shall be applied by a State to determine income eligibility for medical assistance under the State plan or under any waiver of such plan or for any other purpose applicable under the plan or waiver for which a determination of income is required.
-
-    (C) No assets test.—A State shall not apply any assets or resources test for purposes of determining eligibility for medical assistance under the State plan or under a waiver of the plan.
-
-    (D) Exceptions.—
-
-    (i) Individuals eligible because of other aid or assistance, elderly individuals, medically needy individuals, and individuals eligible for medicare cost-sharing.—Subparagraphs (A), (B), and (C) shall not apply to the determination of eligibility under the State plan or under a waiver for medical assistance for the following:
-
-    (I) Individuals who are eligible for medical assistance under the State plan or under a waiver of the plan on a basis that does not require a determination of income by the State agency administering the State plan or waiver, including as a result of eligibility for, or receipt of, other Federal or State aid or assistance, individuals who are eligible on the basis of receiving (or being treated as if receiving) supplemental security income benefits under subchapter XVI, and individuals who are eligible as a result of being or being deemed to be a child in foster care under the responsibility of the State.
-
-    (II) Individuals who have attained age 65.
-
-    (III) Individuals who qualify for medical assistance under the State plan or under any waiver of such plan on the basis of being blind or disabled (or being treated as being blind or disabled) without regard to whether the individual is eligible for supplemental security income benefits under subchapter XVI on the basis of being blind or disabled and including an individual who is eligible for medical assistance on the basis of paragraph (3).
-
-    (IV) Individuals described in subsection (a)(10)(C).
-
-    (V) Individuals described in any clause of subsection (a)(10)(E).
-
-    (ii) Express lane agency findings.—In the case of a State that elects the Express Lane option under paragraph (13), notwithstanding subparagraphs (A), (B), and (C), the State may rely on a finding made by an Express Lane agency in accordance with that paragraph relating to the income of an individual for purposes of determining the individual’s eligibility for medical assistance under the State plan or under a waiver of the plan.
-
-    (iii) Medicare prescription drug subsidies determinations.—Subparagraphs (A), (B), and (C) shall not apply to any determinations of eligibility for premium and cost-sharing subsidies under and in accordance with [section 1395w–114 of this title][/us/usc/t42/s1395w–114] made by the State pursuant to [section 1396u–5(a)(2) of this title][/us/usc/t42/s1396u–5/a/2].
-
-    (iv) Long-term care.—Subparagraphs (A), (B), and (C) shall not apply to any determinations of eligibility of individuals for purposes of medical assistance for nursing facility services, a level of care in any institution equivalent to that of nursing facility services, home or community-based services furnished under a waiver or State plan amendment under [section 1396n of this title][/us/usc/t42/s1396n] or a waiver under [section 1315 of this title][/us/usc/t42/s1315], and services described in [section 1396p(c)(1)(C)(ii) of this title][/us/usc/t42/s1396p/c/1/C/ii].
-
-    (v) Grandfather of current enrollees until date of next regular redetermination.—An individual who, on January 1, 2014, is enrolled in the State plan or under a waiver of the plan and who would be determined ineligible for medical assistance solely because of the application of the modified adjusted gross income or household income standard described in subparagraph (A), shall remain eligible for medical assistance under the State plan or waiver (and subject to the same premiums and cost-sharing as applied to the individual on that date) through March 31, 2014, or the date on which the individual’s next regularly scheduled redetermination of eligibility is to occur, whichever is later.
-
-    (E) Transition planning and oversight.—Each State shall submit to the Secretary for the Secretary’s approval the income eligibility thresholds proposed to be established using modified adjusted gross income and household income, the methodologies and procedures to be used to determine income eligibility using modified adjusted gross income and household income and, if applicable, a State plan amendment establishing an optional eligibility category under subsection (a)(10)(A)(ii)(XX). To the extent practicable, the State shall use the same methodologies and procedures for purposes of making such determinations as the State used on March 23, 2010. The Secretary shall ensure that the income eligibility thresholds proposed to be established using modified adjusted gross income and household income, including under the eligibility category established under subsection (a)(10)(A)(ii)(XX), and the methodologies and procedures proposed to be used to determine income eligibility, will not result in children who would have been eligible for medical assistance under the State plan or under a waiver of the plan on March 23, 2010, no longer being eligible for such assistance.
-
-    (F) Limitation on secretarial authority.—The Secretary shall not waive compliance with the requirements of this paragraph except to the extent necessary to permit a State to coordinate eligibility requirements for dual eligible individuals (as defined in [section 1396n(h)(2)(B) of this title][/us/usc/t42/s1396n/h/2/B]) under the State plan or under a waiver of the plan and under subchapter XVIII and individuals who require the level of care provided in a hospital, a nursing facility, or an intermediate care facility for the mentally retarded.
-
-    (G) Definitions of modified adjusted gross income and household income.—In this paragraph, the terms “modified adjusted gross income” and “household income” have the meanings given such terms in section 36B(d)(2) of the Internal Revenue Code of 1986.
-
-    (H) Continued application of medicaid rules regarding point-in-time income and sources of income.—The requirement under this paragraph for States to use modified adjusted gross income and household income to determine income eligibility for medical assistance under the State plan or under any waiver of such plan and for any other purpose applicable under the plan or waiver for which a determination of income is required shall not be construed as affecting or limiting the application of—
-
-    (i) the requirement under this subchapter and under the State plan or a waiver of the plan to determine an individual’s income as of the point in time at which an application for medical assistance under the State plan or a waiver of the plan is processed; or
-
-    (ii) any rules established under this subchapter or under the State plan or a waiver of the plan regarding sources of countable income.
-
-    (I) Treatment of portion of modified adjusted gross income.—For purposes of determining the income eligibility of an individual for medical assistance whose eligibility is determined based on the application of modified adjusted gross income under subparagraph (A), the State shall—
-
-    (i) determine the dollar equivalent of the difference between the upper income limit on eligibility for such an individual (expressed as a percentage of the poverty line) and such upper income limit increased by 5 percentage points; and
-
-    (ii) notwithstanding the requirement in subparagraph (A) with respect to use of modified adjusted gross income, utilize as the applicable income of such individual, in determining such income eligibility, an amount equal to the modified adjusted gross income applicable to such individual reduced by such dollar equivalent amount.
-
-    See 2010 Amendment notes below.
 
  __References in Text__ 
 
@@ -1777,9 +1789,9 @@
 
     The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (e)(13)(F)(ii)(I)(ll), is [Pub. L. 104–330][/us/pl/104/330], Oct. 26, 1996, [110 Stat. 4016][/us/stat/110/4016], which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 25][/us/usc/t25/s4101] and Tables.
 
-    The Public Health Service Act, referred to in subsecs. (u)(3) and (aa)(3), is [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], [58 Stat. 682][/us/stat/58/682]. Titles XV and XXII of the Act are classified generally to subchapters XIII (§ 300k et seq.) and XX (§ 300bb–1 et seq.), respectively, of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
+    The Internal Revenue Code of 1986, referred to in subsecs. (e)(14)(G) and (u)(3), is classified generally to Title 26.
 
-    The Internal Revenue Code of 1986, referred to in subsec. (u)(3), is classified generally to Title 26.
+    The Public Health Service Act, referred to in subsecs. (u)(3) and (aa)(3), is [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], [58 Stat. 682][/us/stat/58/682]. Titles XV and XXII of the Act are classified generally to subchapters XIII (§ 300k et seq.) and XX (§ 300bb–1 et seq.), respectively, of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
 
     The Employee Retirement Income Security Act of 1974, referred to in subsec. (u)(3), is [Pub. L. 93–406][/us/pl/93/406], Sept. 2, 1974, [88 Stat. 829][/us/stat/88/829]. Title VI of the Act probably means part 6 of subtitle B of title I of the Act which is classified generally to part 6 (§ 1161 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor, because the Act has no title VI. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29][/us/usc/t29/s1001] and Tables.
 
@@ -1799,11 +1811,23 @@
 
  __Amendments__ 
 
-    2013—Subsec. (a)(10)(E)(iv). [Pub. L. 112–240, § 621(a)][/us/pl/112/240/s621/a], substituted “2013” for “2012”.
+    2013—Subsec. (a)(10)(E)(iv). [Pub. L. 113–67, § 1201(a)][/us/pl/113/67/s1201/a], substituted “March 2014” for “December 2013”.
+
+    [Pub. L. 112–240, § 621(a)][/us/pl/112/240/s621/a], substituted “2013” for “2012”.
+
+    Subsec. (a)(25)(B). [Pub. L. 113–67, § 202(b)(1)(A)][/us/pl/113/67/s202/b/1/A], struck out “to the extent of such legal liability” before semicolon at end.
+
+    Subsec. (a)(25)(E)(i). [Pub. L. 113–67, § 202(a)(1)][/us/pl/113/67/s202/a/1], inserted before semicolon at end “, except that the State may, if the State determines doing so is cost-effective and will not adversely affect access to care, only make such payment if a third party so liable has not made payment within 90 days after the date the provider of such services has initially submitted a claim to such third party for payment for such services”.
+
+    Subsec. (a)(25)(F)(i). [Pub. L. 113–67, § 202(a)(2)][/us/pl/113/67/s202/a/2], substituted “90 days after the date the provider of such services has initially submitted a claim to such third party for payment for such services, except that the State may make such payment within 30 days after such date if the State determines doing so is cost-effective and necessary to ensure access to care.” for “30 days after such services are furnished”.
+
+    Subsec. (a)(25)(H). [Pub. L. 113–67, § 202(b)(1)(B)][/us/pl/113/67/s202/b/1/B], substituted “any payments by such third party” for “payment by any other party for such health care items or services”.
 
     Subsec. (a)(81) to (83). [Pub. L. 112–240, § 642(b)(2)][/us/pl/112/240/s642/b/2], redesignated par. (83) as (81) and struck out former pars. (81) and (82) which required States to comply with regulations relating to payor rules with respect to beneficiaries under both the Medicaid and CLASS programs and to take certain actions relating to workers who provide personal care services to individuals under the CLASS program.
 
-    Subsec. (e)(1)(B). [Pub. L. 112–240, § 622][/us/pl/112/240/s622], substituted “2013” for “2012”.
+    Subsec. (e)(1)(B). [Pub. L. 113–67, § 1202][/us/pl/113/67/s1202], substituted “March 31, 2014” for “December 31, 2013”.
+
+    [Pub. L. 112–240, § 622][/us/pl/112/240/s622], substituted “2013” for “2012”.
 
     Subsec. (e)(13)(I). [Pub. L. 112–240, § 623][/us/pl/112/240/s623], substituted “2014” for “2013”.
 
@@ -3094,6 +3118,12 @@
     Subsec. (b)(2). [Pub. L. 90–248, § 241(f)(3)][/us/pl/90/248/s241/f/3], inserted “part A of” before “subchapter IV”.
 
     Subsec. (c). [Pub. L. 90–248, § 241(f)(4)][/us/pl/90/248/s241/f/4], struck out “IV,” after “I,” and inserted “, or part A of subchapter IV of this chapter” after “XVI of this chapter”.
+
+ __Effective Date of 2013 Amendment__ 
+
+[Pub. L. 113–67, div. A, title II, § 202(c)][/us/pl/113/67/s202/c], Dec. 26, 2013, [127 Stat. 1177][/us/stat/127/1177], provided that: 
+
+> “The amendments made by this section \[amending this section and sections 1396k and 1396p of this title\] shall take effect on October 1, 2014.”
 
  __Effective and Termination Dates of 2010 Amendment__ 
 
@@ -5854,6 +5884,7 @@
 [/us/usc/t42/s1396d/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fn
 [/us/usc/t42/s1396d/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fm%2F1
 [/us/usc/t42/s1397jj/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397jj%2Fc%2F5
+[/us/usc/t42/s675/8/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675%2F8%2FB%2Fiii
 [/us/usc/t42/s1396d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fa
 [/us/usc/t42/s1396d/a/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fa%2Fi
 [/us/usc/t42/s1396b/f/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b%2Ff%2F4%2FC
@@ -5934,6 +5965,7 @@
 [/us/usc/t42/s1396r–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%931
 [/us/usc/t42/s1396r–1a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%931a
 [/us/usc/t42/s1396r–1b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%931b
+[/us/usc/t42/s1396r–1c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%931c
 [/us/usc/t42/s1396r–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%932
 [/us/usc/t42/s1396r–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%935
 [/us/usc/t42/s1396r–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%936
@@ -5997,6 +6029,12 @@
 [/us/usc/t42/s1320b–9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%939%2Fc
 [/us/usc/t42/s1396a/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F4
 [/us/usc/t42/s1382a/b/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382a%2Fb%2F26
+[/us/usc/t42/s1395w–114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93114
+[/us/usc/t42/s1396u–5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396u%E2%80%935%2Fa%2F2
+[/us/usc/t42/s1396n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396n
+[/us/usc/t42/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315
+[/us/usc/t42/s1396p/c/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396p%2Fc%2F1%2FC%2Fii
+[/us/usc/t42/s1396n/h/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396n%2Fh%2F2%2FB
 [/us/usc/t42/s1382h/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382h%2Fb%2F3
 [/us/usc/t42/s1396r–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%935
 [/us/usc/t42/s1396d/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fs
@@ -6226,32 +6264,15 @@
 [/us/stat/126/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F191
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/stat/126/2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2352
+[/us/pl/113/67/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs202%2Fa
+[/us/stat/127/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1177
 [/us/pl/111/255/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F255%2Fs3%2Fe
-[/us/pl/111/148/s2004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2004%2Fa
-[/us/stat/124/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F283
-[/us/usc/t42/s675/8/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675%2F8%2FB%2Fiii
-[/us/pl/111/148/s2002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2002%2Fb
-[/us/stat/124/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F282
-[/us/pl/111/148/s2202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2202%2Fa
-[/us/stat/124/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F291
-[/us/pl/111/148/s2303/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2303%2Fb%2F2%2FA
-[/us/stat/124/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F296
-[/us/pl/111/148/s2202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2202%2Fa
-[/us/usc/t42/s1396r–1c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%931c
+[/us/pl/113/67/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs202%2Fa
+[/us/stat/127/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1177
 [/us/pl/101/508/s4801/e/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4801%2Fe%2F11
 [/us/stat/104/1388-217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-217
 [/us/usc/t42/s1396r/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%2Ff%2F4
 [/us/pl/111/255/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F255%2Fs3%2Fe
-[/us/pl/111/148/s2002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2002%2Fa
-[/us/stat/124/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F279
-[/us/pl/111/152/s1004/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1004%2Fb%2F1%2FA
-[/us/stat/124/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1034
-[/us/usc/t42/s1395w–114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93114
-[/us/usc/t42/s1396u–5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396u%E2%80%935%2Fa%2F2
-[/us/usc/t42/s1396n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396n
-[/us/usc/t42/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315
-[/us/usc/t42/s1396p/c/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396p%2Fc%2F1%2FC%2Fii
-[/us/usc/t42/s1396n/h/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396n%2Fh%2F2%2FB
 [/us/pl/89/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642
 [/us/stat/80/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F885
 [/us/usc/t42/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1771
@@ -6332,8 +6353,14 @@
 [/us/usc/t41/s2102/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs2102%2Fa%2F3
 [/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
+[/us/pl/113/67/s1201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs1201%2Fa
 [/us/pl/112/240/s621/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs621%2Fa
+[/us/pl/113/67/s202/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs202%2Fb%2F1%2FA
+[/us/pl/113/67/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs202%2Fa%2F1
+[/us/pl/113/67/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs202%2Fa%2F2
+[/us/pl/113/67/s202/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs202%2Fb%2F1%2FB
 [/us/pl/112/240/s642/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs642%2Fb%2F2
+[/us/pl/113/67/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs1202
 [/us/pl/112/240/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs622
 [/us/pl/112/240/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs623
 [/us/pl/112/96/s3101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs3101%2Fa
@@ -7139,6 +7166,8 @@
 [/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
 [/us/pl/90/248/s241/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs241%2Ff%2F3
 [/us/pl/90/248/s241/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs241%2Ff%2F4
+[/us/pl/113/67/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs202%2Fc
+[/us/stat/127/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1177
 [/us/pl/111/296/s103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs103%2Fc%2F2
 [/us/stat/124/3192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3192
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396

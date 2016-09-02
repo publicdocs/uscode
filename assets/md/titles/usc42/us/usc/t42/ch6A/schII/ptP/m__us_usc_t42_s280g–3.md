@@ -315,7 +315,7 @@
 
     Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (i)(4), is [section 264(c) of Pub. L. 104–191][/us/pl/104/191/s264/c], which is set out as a note under [section 1320d–2 of this title][/us/usc/t42/s1320d–2].
 
- __Prior Provisions__ 
+ __Codification__ 
 
     Another section 399O of act July 1, 1944, was renumbered section 399P and is classified to [section 280g–4 of this title][/us/usc/t42/s280g–4].
 

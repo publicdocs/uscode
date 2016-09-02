@@ -97,7 +97,7 @@
 
         (3) is intended for further manufacture into final dosage form outside the United States,
 
-        shall be subject to no restriction on the export of the product under this chapter or the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 301][/us/usc/t21/s301] et. seq.\] if the product is manufactured, processed, packaged, and held in conformity with current good manufacturing practice requirements or meets international manufacturing standards as certified by an international standards organization recognized by the Secretary and meets the requirements of section 801(e)(1) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 381(e)][/us/usc/t21/s381/e]).
+        shall be subject to no restriction on the export of the product under this chapter or the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 301][/us/usc/t21/s301] et seq.\] if the product is manufactured, processed, packaged, and held in conformity with current good manufacturing practice requirements or meets international manufacturing standards as certified by an international standards organization recognized by the Secretary and meets the requirements of section 801(e)(1) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 381(e)][/us/usc/t21/s381/e]).
 
     (i) __“Biological product” defined__ 
 

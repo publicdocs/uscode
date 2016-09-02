@@ -61,23 +61,23 @@
 
             (C) participate as part of the team of personnel working on proposed energy projects, planning, and environmental analyses.
 
-    (d) __Field offices__ 
+    (d) __Pilot Project offices__ 
 
-    The following Bureau of Land Management Field Offices shall serve as the Pilot Project offices:
+    The following Bureau of Land Management Offices shall serve as the Pilot Project offices:
 
-        (1) Rawlins, Wyoming.
+        (1) Rawlins Field Office, Wyoming.
 
-        (2) Buffalo, Wyoming.
+        (2) High Plains District Office, Wyoming.
 
-        (3) Miles City, Montana.
+        (3) Montana/Dakotas State Office, Montana.
 
-        (4) Farmington, New Mexico.
+        (4) Farmington Field Office, New Mexico.
 
-        (5) Carlsbad, New Mexico.
+        (5) Carlsbad Field Office, New Mexico.
 
-        (6) Grand Junction/Glenwood Springs, Colorado.
+        (6) Grand Junction/Glenwood Springs Field Office, Colorado.
 
-        (7) Vernal, Utah.
+        (7) Vernal Field Office, Utah.
 
     (e) __Reports__ 
 
@@ -125,7 +125,7 @@
 
         (2) any delegation of authority made by the head of a Federal agency whose employees are participating in the Pilot Project.
 
-([Pub. L. 109–58, title III, § 365][/us/pl/109/58/s365], Aug. 8, 2005, [119 Stat. 723][/us/stat/119/723].)
+([Pub. L. 109–58, title III, § 365][/us/pl/109/58/s365], Aug. 8, 2005, [119 Stat. 723][/us/stat/119/723]; [Pub. L. 113–69, § 1][/us/pl/113/69/s1], Dec. 26, 2013, [127 Stat. 1207][/us/stat/127/1207].)
 
  __References in Text__ 
 
@@ -140,6 +140,24 @@
  __Codification__ 
 
     Section is comprised of [section 365 of Pub. L. 109–58][/us/pl/109/58/s365]. Subsec. (g) of [section 365 of Pub. L. 109–58][/us/pl/109/58/s365] amended [section 191 of Title 30][/us/usc/t30/s191], Mineral Lands and Mining.
+
+ __Amendments__ 
+
+    2013—Subsec. (d). [Pub. L. 113–69][/us/pl/113/69] added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The following Bureau of Land Management Field Offices shall serve as the Pilot Project offices:
+
+    “(1) Rawlins, Wyoming.
+
+    “(2) Buffalo, Wyoming.
+
+    “(3) Miles City, Montana.
+
+    “(4) Farmington, New Mexico.
+
+    “(5) Carlsbad, New Mexico.
+
+    “(6) Grand Junction/Glenwood Springs, Colorado.
+
+    “(7) Vernal, Utah.”
 
 ----------
 
@@ -156,6 +174,8 @@
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
 [/us/pl/109/58/s365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs365
 [/us/stat/119/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F723
+[/us/pl/113/69/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F69%2Fs1
+[/us/stat/127/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1207
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
@@ -171,5 +191,6 @@
 [/us/pl/109/58/s365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs365
 [/us/pl/109/58/s365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs365
 [/us/usc/t30/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs191
+[/us/pl/113/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F69
 
 
