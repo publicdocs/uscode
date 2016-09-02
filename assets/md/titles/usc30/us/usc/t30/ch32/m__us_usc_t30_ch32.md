@@ -1,0 +1,92 @@
+---
+---
+
+# 30 U.S.C., USLM ref /us/usc/t30/ch32
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../..//us/usc/t30/ch31/m__us_usc_t30_s1905.md) | [Next](./../../../..//us/usc/t30/ch32/m__us_usc_t30_s2001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch32)
+
+## CHAPTER 32—METHANE HYDRATE RESEARCH AND DEVELOPMENT
+
+<table>
+
+  <tr>
+
+    <td> Sec.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 2001.  </td>
+
+    <td> Findings.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 2002.  </td>
+
+    <td> Definitions.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 2003.  </td>
+
+    <td> Methane hydrate research and development program.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 2004.  </td>
+
+    <td> National Research Council study.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 2005.  </td>
+
+    <td> Reports and studies for Congress.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 2006.  </td>
+
+    <td> Authorization of appropriations.  </td>
+
+  </tr>
+
+</table>
+
+ __Codification__ 
+
+    This chapter is comprised of [Pub. L. 106–193][/us/pl/106/193], as amended generally by [Pub. L. 109–58, title IX, § 968(a)][/us/pl/109/58/s968/a], Aug. 8, 2005, [119 Stat. 894][/us/stat/119/894], known as the Methane Hydrate Research and Development Act of 2000, which was formerly set out as a note under [section 1902 of this title][/us/usc/t30/s1902].
+
+----------
+
+[Previous](./../../../..//us/usc/t30/ch31/m__us_usc_t30_s1905.md) | [Next](./../../../..//us/usc/t30/ch32/m__us_usc_t30_s2001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch32)
+
+----------
+----------
+
+[/us/pl/106/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F193
+[/us/pl/109/58/s968/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs968%2Fa
+[/us/stat/119/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F894
+[/us/usc/t30/s1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1902
+
+

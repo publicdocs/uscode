@@ -1,0 +1,43 @@
+---
+---
+
+# 30 U.S.C., USLM ref /us/usc/t30/s1263
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t30/ch25/schV/m__us_usc_t30_s1262.md) | [Next](./../../../../..//us/usc/t30/ch25/schV/m__us_usc_t30_s1264.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1263)
+
+## § 1263. Public notice and public hearings
+
+    (a) __Submittal of advertisement to regulatory authority; notification of local governmental bodies__ 
+
+        At the time of submission of an application for a surface coal mining and reclamation permit, or revision of an existing permit, pursuant to the provisions of this chapter or an approved State program, the applicant shall submit to the regulatory authority a copy of his advertisement of the ownership, precise location, and boundaries of the land to be affected. At the time of submission such advertisement shall be placed by the applicant in a local newspaper of general circulation in the locality of the proposed surface mine at least once a week for four consecutive weeks. The regulatory authority shall notify various local governmental bodies, planning agencies, and sewage and water treatment authorities, of  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “or”. </sup></sup>  water companies in the locality in which the proposed surface mining will take place, notifying them of the operator’s intention to surface mine a particularly described tract of land and indicating the application’s permit number and where a copy of the proposed mining and reclamation plan may be inspected. These local bodies, agencies, authorities, or companies may submit written comments within a reasonable period established by the regulatory authority on the mining applications with respect to the effect of the proposed operation on the environment which are within their area of responsibility. Such comments shall immediately be transmitted to the applicant by the regulatory authority and shall be made available to the public at the same locations as are the mining applications.
+
+    (b) __Objections to permit applications; informal conference; record__ 
+
+        Any person having an interest which is or may be adversely affected or the officer or head of any Federal, State, or local governmental agency or authority shall have the right to file written objections to the proposed initial or revised application for a permit for surface coal mining and reclamation operation with the regulatory authority within thirty days after the last publication of the above notice. Such objections shall immediately be transmitted to the applicant by the regulatory authority and shall be made available to the public. If written objections are filed and an informal conference requested, the regulatory authority shall then hold an informal conference in the locality of the proposed mining, if requested within a reasonable time of the receipt of such objections or request. The date, time and location of such informal conference shall be advertised by the regulatory authority in a newspaper of general circulation in the locality at least two weeks prior to the scheduled conference date. The regulatory authority may arrange with the applicant upon request by any party to the administrative proceeding access to the proposed mining area for the purpose of gathering information relevant to the proceeding. An electronic or stenographic record shall be made of the conference proceeding, unless waived by all parties. Such record shall be maintained and shall be accessible to the parties until final release of the applicant’s performance bond. In the event all parties requesting the informal conference stipulate agreement prior to the requested informal conference and withdraw their request, such informal conference need not be held.
+
+    (c) __Prior Federal coal lease hearing as evidence__ 
+
+        Where the lands included in an application for a permit are the subject of a Federal coal lease in connection with which hearings were held and determinations were made under section 201(a)(3)(A), (B) and (C) of this title, such hearings shall be deemed as to the matters covered to satisfy the requirements of this section and [section 1264 of this title][/us/usc/t30/s1264] and such determinations shall be deemed to be a part of the record and conclusive for purposes of sections 1260, 1264 of this title and this section.
+
+([Pub. L. 95–87, title V, § 513][/us/pl/95/87/s513], Aug. 3, 1977, [91 Stat. 484][/us/stat/91/484].)
+
+----------
+
+[Previous](./../../../../..//us/usc/t30/ch25/schV/m__us_usc_t30_s1262.md) | [Next](./../../../../..//us/usc/t30/ch25/schV/m__us_usc_t30_s1264.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1263)
+
+----------
+----------
+
+[/us/usc/t30/s1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1264
+[/us/pl/95/87/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs513
+[/us/stat/91/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F484
+
+
