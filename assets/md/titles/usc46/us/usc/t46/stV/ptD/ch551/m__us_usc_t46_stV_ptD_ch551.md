@@ -191,9 +191,19 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs55122" data-uslm-ref="/us/usc/t46/s55122">55122.</a>  </td>
+
+    <td> Floating dry docks.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–291, div. C, title XXXV, § 3502(b)][/us/pl/113/291/s3502/b], Dec. 19, 2014, [128 Stat. 3904][/us/stat/128/3904], added item 55122.
 
     2008—[Pub. L. 110–181, div. C, title XXXV, § 3527(b)(2)][/us/pl/110/181/s3527/b/2], Jan. 28, 2008, [122 Stat. 602][/us/stat/122/602], inserted “valueless material or” before “dredged material” in item 55110.
 
@@ -204,6 +214,8 @@
 ----------
 ----------
 
+[/us/pl/113/291/s3502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3502%2Fb
+[/us/stat/128/3904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3904
 [/us/pl/110/181/s3527/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3527%2Fb%2F2
 [/us/stat/122/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F602
 
