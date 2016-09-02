@@ -71,6 +71,50 @@ Pub. L. 99–272, title XV, § 15308, Apr. 7, 1986, 100 Stat. 337.  </td>
 
 </table>
 
+ __Federal Vehicle Repair Cost Savings__ 
+
+[Pub. L. 114–65][/us/pl/114/65], Oct. 7, 2015, [129 Stat. 551][/us/stat/129/551], provided that:
+
+> “SECTION 1. __SHORT TITLE.__ 
+
+>     “This Act may be cited as the ‘Federal Vehicle Repair Cost Savings Act of 2015’.
+
+> “SEC. 2. __FINDINGS.__ 
+
+> “Congress finds that, in March 2013, the Government Accountability Office issued a report that confirmed that—
+
+>     “(1) there are approximately 588,000 vehicles in the civilian Federal fleet;
+
+>     “(2) Federal agencies spent approximately $975,000,000 on repair and maintenance of the Federal fleet in 2011;
+
+>     “(3) remanufactured vehicle components, such as engines, starters, alternators, steering racks, and clutches, tend to be less expensive than comparable new replacement parts; and
+
+>     “(4) the United States Postal Service and the Department of the Interior both informed the Government Accountability Office that the respective agencies rely on the use of remanufactured vehicle components to reduce costs.
+
+> “SEC. 3. __DEFINITIONS.__ 
+
+> “In this Act—
+
+>     “(1) the term ‘Federal agency’ has the meaning given that term in [section 102 of title 40][/us/usc/t40/s102], United States Code; and
+
+>     “(2) the term ‘remanufactured vehicle component’ means a vehicle component (including an engine, transmission, alternator, starter, turbocharger, steering, or suspension component) that has been returned to same-as-new, or better, condition and performance by a standardized industrial process that incorporates technical specifications (including engineering, quality, and testing standards) to yield fully warranted products.
+
+> “SEC. 4. __REQUIREMENT TO USE REMANUFACTURED VEHICLE COMPONENTS.__ 
+
+> “The head of each Federal agency—
+
+>     “(1) shall encourage the use of remanufactured vehicle components to maintain Federal vehicles, if using such components reduces the cost of maintaining the Federal vehicles while maintaining quality; and
+
+>     “(2)
+
+>      shall not encourage the use of remanufactured vehicle components to maintain Federal vehicles, if using such components—
+
+>         “(A) does not reduce the cost of maintaining Federal vehicles;
+
+>         “(B) lowers the quality of vehicle performance, as determined by the employee of the Federal agency responsible for the repair decision; or
+
+>         “(C) delays the return to service of a vehicle.”
+
 ----------
 
 [Previous](./../../../../..//us/usc/t40/stVI/ch175/m__us_usc_t40_s17506.md) | [Next](./../../../../..//us/usc/t40/stVI/ch175/m__us_usc_t40_s17508.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs17507)
@@ -82,5 +126,8 @@ Pub. L. 99–272, title XV, § 15308, Apr. 7, 1986, 100 Stat. 337.  </td>
 [/us/usc/t40/s17505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs17505
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1285
+[/us/pl/114/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F65
+[/us/stat/129/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F551
+[/us/usc/t40/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs102
 
 
