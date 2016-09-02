@@ -17,7 +17,7 @@
 
 This title was enacted by [Pub. L. 113–287, § 3][/us/pl/113/287/s3], Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094]
 
-Current through 113–290not235not287
+Current through 113–296not287
 
 <table>
 
@@ -2055,7 +2055,7 @@ Repealed as obsolete. Provided that within 18 months after November 12, 1996, th
 
     <td> 
 
-Transfer to 15 U.S.C. 1543  </td>
+Transfer to 15 U.S.C. 1544  </td>
 
   </tr>
 
@@ -2067,7 +2067,7 @@ Transfer to 15 U.S.C. 1543  </td>
 
     <td> 
 
-Transfer to 15 U.S.C. 1544  </td>
+Transfer to 15 U.S.C. 1545  </td>
 
   </tr>
 
@@ -2079,7 +2079,7 @@ Transfer to 15 U.S.C. 1544  </td>
 
     <td> 
 
-Transfer to 15 U.S.C. 1545  </td>
+Transfer to 15 U.S.C. 1546  </td>
 
   </tr>
 
@@ -2091,7 +2091,7 @@ Transfer to 15 U.S.C. 1545  </td>
 
     <td> 
 
-Transfer to 15 U.S.C. 1546  </td>
+Transfer to 15 U.S.C. 1547  </td>
 
   </tr>
 
@@ -2103,7 +2103,7 @@ Transfer to 15 U.S.C. 1546  </td>
 
     <td> 
 
-Transfer to 15 U.S.C. 1547  </td>
+Transfer to 15 U.S.C. 1548  </td>
 
   </tr>
 
@@ -2583,7 +2583,7 @@ Previously transferred to 16 U.S.C. 79.  </td>
 
     <td> 
 
-Not repealed but omitted from the text of title 54. The 4th and last paragraphs under the heading “Improvement of the National Forests” under the heading “FOREST SERVICE” in the Act of March 4, 1911 (ch. 238, 36 Stat. 1253), was in part classified to section 420 because it concerned rights of way within or through national parks, military parks, or any other reservation. Beginning with the 2006 edition of the United States Code, the provisions will be consolidated and classified at 43 U.S.C. 961.  </td>
+Not repealed but omitted from the text of title 54.  </td>
 
   </tr>
 
@@ -5596,6 +5596,18 @@ Not repealed but omitted from the text of title 54. Provides findings for this p
     <td> 
 
 54 U.S.C. 305306  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+16 U.S.C. 523  </td>
+
+    <td> 
+
+Not repealed but omitted from the text of title 54.  </td>
 
   </tr>
 
