@@ -15,7 +15,7 @@
 
 ## § 8305. Annual report
 
-Not later than 60 days after the end of each fiscal year, the Secretary of Defense shall submit to Congress a report on the amount of purchases by the Department of Defense from foreign entities in that fiscal year. The report shall separately indicate the dollar value of items for which this chapter was waived pursuant to—
+    Not later than 60 days after the end of each fiscal year, the Secretary of Defense shall submit to Congress a report on the amount of purchases by the Department of Defense from foreign entities in that fiscal year. The report shall separately indicate the dollar value of items for which this chapter was waived pursuant to—
 
     (1) a reciprocal defense procurement memorandum of understanding described in [section 8304(a) of this title][/us/usc/t41/s8304/a];
 

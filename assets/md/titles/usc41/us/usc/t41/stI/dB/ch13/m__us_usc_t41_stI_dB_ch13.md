@@ -33,7 +33,7 @@ SUBCHAPTER I—FEDERAL ACQUISITION REGULATORY COUNCIL  </td>
 
   <tr>
 
-    <td> 1301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1301" data-uslm-ref="/us/usc/t41/s1301">1301.</a>  </td>
 
     <td> Definition.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—FEDERAL ACQUISITION REGULATORY COUNCIL  </td>
 
   <tr>
 
-    <td> 1302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1302" data-uslm-ref="/us/usc/t41/s1302">1302.</a>  </td>
 
     <td> Establishment and membership.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—FEDERAL ACQUISITION REGULATORY COUNCIL  </td>
 
   <tr>
 
-    <td> 1303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1303" data-uslm-ref="/us/usc/t41/s1303">1303.</a>  </td>
 
     <td> Functions and authority.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—FEDERAL ACQUISITION REGULATORY COUNCIL  </td>
 
   <tr>
 
-    <td> 1304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1304" data-uslm-ref="/us/usc/t41/s1304">1304.</a>  </td>
 
     <td> Contract clauses and certifications.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—CHIEF ACQUISITION OFFICERS COUNCIL  </td>
 
   <tr>
 
-    <td> 1311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1311" data-uslm-ref="/us/usc/t41/s1311">1311.</a>  </td>
 
     <td> Establishment and membership.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—CHIEF ACQUISITION OFFICERS COUNCIL  </td>
 
   <tr>
 
-    <td> 1312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1312" data-uslm-ref="/us/usc/t41/s1312">1312.</a>  </td>
 
     <td> Functions.  </td>
 

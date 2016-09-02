@@ -15,7 +15,7 @@
 
 ## § 113. Responsible source
 
-In this subtitle, the term “responsible source” means a prospective contractor that—
+    In this subtitle, the term “responsible source” means a prospective contractor that—
 
     (1) has adequate financial resources to perform the contract or the ability to obtain those resources;
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs3101" data-uslm-ref="/us/usc/t41/s3101">3101.</a>  </td>
 
     <td> Applicability.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs3102" data-uslm-ref="/us/usc/t41/s3102">3102.</a>  </td>
 
     <td> Delegation and assignment of powers, functions, and responsibilities.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs3103" data-uslm-ref="/us/usc/t41/s3103">3103.</a>  </td>
 
     <td> Acquisition programs.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs3104" data-uslm-ref="/us/usc/t41/s3104">3104.</a>  </td>
 
     <td> Small business concerns.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs3105" data-uslm-ref="/us/usc/t41/s3105">3105.</a>  </td>
 
     <td> New contracts and grants and merit-based selection procedures.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs3106" data-uslm-ref="/us/usc/t41/s3106">3106.</a>  </td>
 
     <td> Erection, repair, or furnishing of public buildings and improvements not authorized, and certain contracts not permitted, by this division.  </td>
 

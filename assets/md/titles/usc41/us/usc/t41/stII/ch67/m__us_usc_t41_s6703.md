@@ -15,7 +15,7 @@
 
 ## § 6703. Required contract terms
 
-A contract, and bid specification for a contract, to which this chapter applies under [section 6702 of this title][/us/usc/t41/s6702] shall contain the following terms:
+    A contract, and bid specification for a contract, to which this chapter applies under [section 6702 of this title][/us/usc/t41/s6702] shall contain the following terms:
 
     (1) __Minimum wage.—__ 
 

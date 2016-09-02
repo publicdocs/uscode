@@ -15,7 +15,7 @@
 
 ## § 1123. Small business concerns
 
-In formulating the Federal Acquisition Regulation and procedures to ensure compliance with the Regulation, the Administrator, in consultation with the Small Business Administration, shall—
+    In formulating the Federal Acquisition Regulation and procedures to ensure compliance with the Regulation, the Administrator, in consultation with the Small Business Administration, shall—
 
     (1) conduct analyses of the impact on small business concerns resulting from revised procurement regulations; and
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs2301" data-uslm-ref="/us/usc/t41/s2301">2301.</a>  </td>
 
     <td> Use of electronic commerce in Federal procurement.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs2302" data-uslm-ref="/us/usc/t41/s2302">2302.</a>  </td>
 
     <td> Rights in technical data.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs2303" data-uslm-ref="/us/usc/t41/s2303">2303.</a>  </td>
 
     <td> Ethics safeguards related to contractor conflicts of interest.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs2304" data-uslm-ref="/us/usc/t41/s2304">2304.</a>  </td>
 
     <td> Conflict of interest standards for consultants.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs2305" data-uslm-ref="/us/usc/t41/s2305">2305.</a>  </td>
 
     <td> Authority of Director of Office of Management and Budget not affected.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs2306" data-uslm-ref="/us/usc/t41/s2306">2306.</a>  </td>
 
     <td> Openness of meetings.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs2307" data-uslm-ref="/us/usc/t41/s2307">2307.</a>  </td>
 
     <td> Comptroller General’s access to information.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs2308" data-uslm-ref="/us/usc/t41/s2308">2308.</a>  </td>
 
     <td> Modular contracting for information technology.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs2309" data-uslm-ref="/us/usc/t41/s2309">2309.</a>  </td>
 
     <td> Protection of constitutional rights of contractors.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs2310" data-uslm-ref="/us/usc/t41/s2310">2310.</a>  </td>
 
     <td> Performance-based contracts or task orders for services to be treated as contracts for the procurement of commercial items.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs2311" data-uslm-ref="/us/usc/t41/s2311">2311.</a>  </td>
 
     <td> Enhanced transparency on interagency contracting and other transactions.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs2312" data-uslm-ref="/us/usc/t41/s2312">2312.</a>  </td>
 
     <td> Contingency Contracting Corps.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs2313" data-uslm-ref="/us/usc/t41/s2313">2313.</a>  </td>
 
     <td> Database for Federal agency contract and grant officers and suspension and debarment officials.  </td>
 

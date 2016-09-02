@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1501" data-uslm-ref="/us/usc/t41/s1501">1501.</a>  </td>
 
     <td> Cost Accounting Standards Board.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1502" data-uslm-ref="/us/usc/t41/s1502">1502.</a>  </td>
 
     <td> Cost accounting standards.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1503" data-uslm-ref="/us/usc/t41/s1503">1503.</a>  </td>
 
     <td> Contract price adjustment.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1504" data-uslm-ref="/us/usc/t41/s1504">1504.</a>  </td>
 
     <td> Effect on other standards and regulations.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1505" data-uslm-ref="/us/usc/t41/s1505">1505.</a>  </td>
 
     <td> Examinations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1506" data-uslm-ref="/us/usc/t41/s1506">1506.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

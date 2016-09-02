@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs8501" data-uslm-ref="/us/usc/t41/s8501">8501.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs8502" data-uslm-ref="/us/usc/t41/s8502">8502.</a>  </td>
 
     <td> Committee for Purchase From People Who Are Blind or Severely Disabled.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 8503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs8503" data-uslm-ref="/us/usc/t41/s8503">8503.</a>  </td>
 
     <td> Duties and powers of the Committee.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 8504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs8504" data-uslm-ref="/us/usc/t41/s8504">8504.</a>  </td>
 
     <td> Procurement requirements for the Federal Government.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 8505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs8505" data-uslm-ref="/us/usc/t41/s8505">8505.</a>  </td>
 
     <td> Audit.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 8506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs8506" data-uslm-ref="/us/usc/t41/s8506">8506.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

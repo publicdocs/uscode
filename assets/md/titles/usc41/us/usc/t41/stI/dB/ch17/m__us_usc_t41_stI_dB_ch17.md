@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1701" data-uslm-ref="/us/usc/t41/s1701">1701.</a>  </td>
 
     <td> Cooperation with the Administrator.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1702" data-uslm-ref="/us/usc/t41/s1702">1702.</a>  </td>
 
     <td> Chief Acquisition Officers and senior procurement executives.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1703" data-uslm-ref="/us/usc/t41/s1703">1703.</a>  </td>
 
     <td> Acquisition workforce.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1704" data-uslm-ref="/us/usc/t41/s1704">1704.</a>  </td>
 
     <td> Planning and policy-making for acquisition workforce.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1705" data-uslm-ref="/us/usc/t41/s1705">1705.</a>  </td>
 
     <td> Advocates for competition.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1706" data-uslm-ref="/us/usc/t41/s1706">1706.</a>  </td>
 
     <td> Personnel evaluation.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1707" data-uslm-ref="/us/usc/t41/s1707">1707.</a>  </td>
 
     <td> Publication of proposed regulations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1708" data-uslm-ref="/us/usc/t41/s1708">1708.</a>  </td>
 
     <td> Procurement notice.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1709" data-uslm-ref="/us/usc/t41/s1709">1709.</a>  </td>
 
     <td> Contracting functions performed by Federal personnel.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1710" data-uslm-ref="/us/usc/t41/s1710">1710.</a>  </td>
 
     <td> Public-private competition required before conversion to contractor performance.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1711" data-uslm-ref="/us/usc/t41/s1711">1711.</a>  </td>
 
     <td> Value engineering.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1712" data-uslm-ref="/us/usc/t41/s1712">1712.</a>  </td>
 
     <td> Record requirements.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1713" data-uslm-ref="/us/usc/t41/s1713">1713.</a>  </td>
 
     <td> Procurement data.  </td>
 

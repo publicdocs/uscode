@@ -25,7 +25,7 @@
 
         The Federal Acquisition Regulation shall include a list of provisions of law that are inapplicable to contracts for the procurement of commercial items. A provision of law properly included on the list pursuant to paragraph (2) does not apply to purchases of commercial items by an executive agency. This section does not render a provision of law not included on the list inapplicable to contracts for the procurement of commercial items.
 
-        (2) __Laws enacted after october 13, 1994.—__ 
+        (2) __Laws enacted after__  __october 13, 1994__  __.—__ 
 
         A provision of law described in subsection (d) that is enacted after October 13, 1994, shall be included on the list of inapplicable provisions of law required by paragraph (1) unless the Council makes a written determination that it would not be in the best interest of the Federal Government to exempt contracts for the procurement of commercial items from the applicability of the provision.
 

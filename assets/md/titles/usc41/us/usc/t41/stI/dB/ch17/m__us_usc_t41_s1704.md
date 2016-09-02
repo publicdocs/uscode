@@ -139,15 +139,15 @@
 
 Subsec. (g) of this section was derived from [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 869, Oct. 14, 2008, [122 Stat. 4553][/us/stat/122/4553], which was set out as a note under section 433a of former Title 41, Public Contracts, prior to being repealed and reenacted as subsec. (g) of this section by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855. [Section 869 of Pub. L. 110–417][/us/pl/110/417/s869] was amended by [Pub. L. 111–383, div. A, title X, § 1075(e)(15)][/us/pl/111/383/s1075/e/15], Jan. 7, 2011, [124 Stat. 4375][/us/stat/124/4375]. For applicability of that amendment to this section, see [section 6(a) of Pub. L. 111–350][/us/pl/111/350/s6/a], set out as a Transitional and Savings Provisions note preceding [section 101 of this title][/us/usc/t41/s101]. [Section 869 of Pub. L. 110–417][/us/pl/110/417/s869] was amended as follows:
 
-(1) in subsection (b), by striking “433(a)” and inserting “433a(a)”; and
+    (1) in subsection (b), by striking “433(a)” and inserting “433a(a)”; and
 
-(2) in subsection (c)(4)—
+    (2) in subsection (c)(4)—
 
-(A) by striking “37(j)” and inserting “37(g)”; and
+    (A) by striking “37(j)” and inserting “37(g)”; and
 
-(B) by striking “433(j)” and inserting “433(g)”.
+    (B) by striking “433(j)” and inserting “433(g)”.
 
-Such references did not appear in the text of subsec. (g) as enacted. See Historical and Revision Notes below.
+    Such references did not appear in the text of subsec. (g) as enacted. See Historical and Revision Notes below.
 
 <table>
 

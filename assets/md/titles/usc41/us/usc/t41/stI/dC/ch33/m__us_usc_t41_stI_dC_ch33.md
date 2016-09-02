@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs3301" data-uslm-ref="/us/usc/t41/s3301">3301.</a>  </td>
 
     <td> Full and open competition.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs3302" data-uslm-ref="/us/usc/t41/s3302">3302.</a>  </td>
 
     <td> Requirements for purchase of property and services pursuant to multiple award contracts.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs3303" data-uslm-ref="/us/usc/t41/s3303">3303.</a>  </td>
 
     <td> Exclusion of particular source or restriction of solicitation to small business concerns.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs3304" data-uslm-ref="/us/usc/t41/s3304">3304.</a>  </td>
 
     <td> Use of noncompetitive procedures.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs3305" data-uslm-ref="/us/usc/t41/s3305">3305.</a>  </td>
 
     <td> Simplified procedures for small purchases.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs3306" data-uslm-ref="/us/usc/t41/s3306">3306.</a>  </td>
 
     <td> Planning and solicitation requirements.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs3307" data-uslm-ref="/us/usc/t41/s3307">3307.</a>  </td>
 
     <td> Preference for commercial items.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs3308" data-uslm-ref="/us/usc/t41/s3308">3308.</a>  </td>
 
     <td> Planning for future competition in contracts for major systems.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs3309" data-uslm-ref="/us/usc/t41/s3309">3309.</a>  </td>
 
     <td> Design-build selection procedures.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs3310" data-uslm-ref="/us/usc/t41/s3310">3310.</a>  </td>
 
     <td> Quantities to order.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 3311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs3311" data-uslm-ref="/us/usc/t41/s3311">3311.</a>  </td>
 
     <td> Qualification requirement.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 3312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs3312" data-uslm-ref="/us/usc/t41/s3312">3312.</a>  </td>
 
     <td> Database on price trends of items and services under Federal contracts.  </td>
 

@@ -29,11 +29,11 @@
 
   <tr>
 
-    <td> 71.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2FstIII%2Fch71" data-uslm-ref="/us/usc/t41/stIII/ch71">71.</a>  </td>
 
     <td> Contract Disputes  </td>
 
-    <td> 7101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs7101" data-uslm-ref="/us/usc/t41/s7101">7101</a>  </td>
 
   </tr>
 

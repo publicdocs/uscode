@@ -15,7 +15,7 @@
 
 ## § 1128. Maintaining necessary capability with respect to acquisition of architectural and engineering services
 
-The Administrator, in consultation with the Secretary of Defense, the Administrator of General Services, and the Director of the Office of Personnel Management, shall develop and implement a plan to ensure that the Federal Government maintains the necessary capability with respect to the acquisition of architectural and engineering services to—
+    The Administrator, in consultation with the Secretary of Defense, the Administrator of General Services, and the Director of the Office of Personnel Management, shall develop and implement a plan to ensure that the Federal Government maintains the necessary capability with respect to the acquisition of architectural and engineering services to—
 
     (1) ensure that Federal Government employees have the expertise to determine agency requirements for those services;
 

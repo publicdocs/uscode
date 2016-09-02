@@ -29,41 +29,41 @@
 
   <tr>
 
-    <td> 61.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2FstII%2Fch61" data-uslm-ref="/us/usc/t41/stII/ch61">61.</a>  </td>
 
     <td> Advertising  </td>
 
-    <td> 6101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs6101" data-uslm-ref="/us/usc/t41/s6101">6101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 63.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2FstII%2Fch63" data-uslm-ref="/us/usc/t41/stII/ch63">63.</a>  </td>
 
     <td> General Contract Provisions  </td>
 
-    <td> 6301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs6301" data-uslm-ref="/us/usc/t41/s6301">6301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 65.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2FstII%2Fch65" data-uslm-ref="/us/usc/t41/stII/ch65">65.</a>  </td>
 
     <td> Contracts for Materials, Supplies, Articles, and Equipment Exceeding $10,000  </td>
 
-    <td> 6501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs6501" data-uslm-ref="/us/usc/t41/s6501">6501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 67.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2FstII%2Fch67" data-uslm-ref="/us/usc/t41/stII/ch67">67.</a>  </td>
 
     <td> Service Contract Labor Standards  </td>
 
-    <td> 6701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs6701" data-uslm-ref="/us/usc/t41/s6701">6701</a>  </td>
 
   </tr>
 

@@ -15,7 +15,7 @@
 
 ## § 3106. Erection, repair, or furnishing of public buildings and improvements not authorized, and certain contracts not permitted, by this division
 
-This division does not—
+    This division does not—
 
     (1) authorize the erection, repair, or furnishing of a public building or public improvement; or
 

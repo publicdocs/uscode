@@ -29,41 +29,41 @@
 
   <tr>
 
-    <td> 81.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2FstIV%2Fch81" data-uslm-ref="/us/usc/t41/stIV/ch81">81.</a>  </td>
 
     <td> Drug-Free Workplace  </td>
 
-    <td> 8101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs8101" data-uslm-ref="/us/usc/t41/s8101">8101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 83.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2FstIV%2Fch83" data-uslm-ref="/us/usc/t41/stIV/ch83">83.</a>  </td>
 
     <td> Buy American  </td>
 
-    <td> 8301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs8301" data-uslm-ref="/us/usc/t41/s8301">8301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 85.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2FstIV%2Fch85" data-uslm-ref="/us/usc/t41/stIV/ch85">85.</a>  </td>
 
     <td> Committee for Purchase From People Who Are Blind or Severely Disabled  </td>
 
-    <td> 8501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs8501" data-uslm-ref="/us/usc/t41/s8501">8501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 87.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2FstIV%2Fch87" data-uslm-ref="/us/usc/t41/stIV/ch87">87.</a>  </td>
 
     <td> Kickbacks  </td>
 
-    <td> 8701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs8701" data-uslm-ref="/us/usc/t41/s8701">8701</a>  </td>
 
   </tr>
 

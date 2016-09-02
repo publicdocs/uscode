@@ -15,7 +15,7 @@
 
 ## § 6511. Effect on other law
 
-This chapter may not be construed to modify or amend the following provisions:
+    This chapter may not be construed to modify or amend the following provisions:
 
     (1) Chapter 83 of this title.
 

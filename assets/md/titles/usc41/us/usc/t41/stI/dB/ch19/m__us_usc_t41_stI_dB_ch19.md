@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1901" data-uslm-ref="/us/usc/t41/s1901">1901.</a>  </td>
 
     <td> Simplified acquisition procedures.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1902" data-uslm-ref="/us/usc/t41/s1902">1902.</a>  </td>
 
     <td> Procedures applicable to purchases below micro-purchase threshold.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1903" data-uslm-ref="/us/usc/t41/s1903">1903.</a>  </td>
 
     <td> Special emergency procurement authority.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1904" data-uslm-ref="/us/usc/t41/s1904">1904.</a>  </td>
 
     <td> Certain transactions for defense against attack.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1905" data-uslm-ref="/us/usc/t41/s1905">1905.</a>  </td>
 
     <td> List of laws inapplicable to contracts or subcontracts not greater than simplified acquisition threshold.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1906" data-uslm-ref="/us/usc/t41/s1906">1906.</a>  </td>
 
     <td> List of laws inapplicable to procurements of commercial items.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1907" data-uslm-ref="/us/usc/t41/s1907">1907.</a>  </td>
 
     <td> List of laws inapplicable to procurements of commercially available off-the-shelf items.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1908.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1908" data-uslm-ref="/us/usc/t41/s1908">1908.</a>  </td>
 
     <td> Inflation adjustment of acquisition-related dollar thresholds.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1909.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1909" data-uslm-ref="/us/usc/t41/s1909">1909.</a>  </td>
 
     <td> Management of purchase cards.  </td>
 

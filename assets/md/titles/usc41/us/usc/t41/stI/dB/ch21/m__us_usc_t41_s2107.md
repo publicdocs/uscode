@@ -15,7 +15,7 @@
 
 ## § 2107. Savings provisions
 
-This chapter does not—
+    This chapter does not—
 
     (1) restrict the disclosure of information to, or its receipt by, a person or class of persons authorized, in accordance with applicable agency regulations or procedures, to receive that information;
 

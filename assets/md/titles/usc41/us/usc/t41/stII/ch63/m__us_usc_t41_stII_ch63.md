@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs6301" data-uslm-ref="/us/usc/t41/s6301">6301.</a>  </td>
 
     <td> Authorization requirement.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs6302" data-uslm-ref="/us/usc/t41/s6302">6302.</a>  </td>
 
     <td> Contracts for fuel made by Secretary of the Army.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs6303" data-uslm-ref="/us/usc/t41/s6303">6303.</a>  </td>
 
     <td> Certain contracts limited to appropriated amounts.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs6304" data-uslm-ref="/us/usc/t41/s6304">6304.</a>  </td>
 
     <td> Certain contracts limited to one-year term.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs6305" data-uslm-ref="/us/usc/t41/s6305">6305.</a>  </td>
 
     <td> Prohibition on transfer of contract and certain allowable assignments.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs6306" data-uslm-ref="/us/usc/t41/s6306">6306.</a>  </td>
 
     <td> Prohibition on Members of Congress making contracts with Federal Government.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs6307" data-uslm-ref="/us/usc/t41/s6307">6307.</a>  </td>
 
     <td> Contracts with Federal Government-owned establishments and availability of appropriations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 6308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs6308" data-uslm-ref="/us/usc/t41/s6308">6308.</a>  </td>
 
     <td> Contracts for transportation of Federal Government securities.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 6309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs6309" data-uslm-ref="/us/usc/t41/s6309">6309.</a>  </td>
 
     <td> Honorable discharge certificate in lieu of birth certificate.  </td>
 

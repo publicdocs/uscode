@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs4701" data-uslm-ref="/us/usc/t41/s4701">4701.</a>  </td>
 
     <td> Determinations and decisions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs4702" data-uslm-ref="/us/usc/t41/s4702">4702.</a>  </td>
 
     <td> Prohibition on release of contractor proposals.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs4703" data-uslm-ref="/us/usc/t41/s4703">4703.</a>  </td>
 
     <td> Validation of proprietary data restrictions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs4704" data-uslm-ref="/us/usc/t41/s4704">4704.</a>  </td>
 
     <td> Prohibition of contractors limiting subcontractor sales directly to Federal Government.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs4705" data-uslm-ref="/us/usc/t41/s4705">4705.</a>  </td>
 
     <td> Protection of contractor employees from reprisal for disclosure of certain information.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs4706" data-uslm-ref="/us/usc/t41/s4706">4706.</a>  </td>
 
     <td> Examination of facilities and records of contractor.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs4707" data-uslm-ref="/us/usc/t41/s4707">4707.</a>  </td>
 
     <td> Remission of liquidated damages.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 4708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs4708" data-uslm-ref="/us/usc/t41/s4708">4708.</a>  </td>
 
     <td> Payment of reimbursable indirect costs in cost-type research and development contracts with educational institutions.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 4709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs4709" data-uslm-ref="/us/usc/t41/s4709">4709.</a>  </td>
 
     <td> Implementation of electronic commerce capability.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 4710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs4710" data-uslm-ref="/us/usc/t41/s4710">4710.</a>  </td>
 
     <td> Limitations on tiering of subcontractors.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 4711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs4711" data-uslm-ref="/us/usc/t41/s4711">4711.</a>  </td>
 
     <td> Linking of award and incentive fees to acquisition outcomes.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 4712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs4712" data-uslm-ref="/us/usc/t41/s4712">4712.</a>  </td>
 
     <td> Pilot program for enhancement of contractor protection from reprisal for disclosure of certain information.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs4101" data-uslm-ref="/us/usc/t41/s4101">4101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs4102" data-uslm-ref="/us/usc/t41/s4102">4102.</a>  </td>
 
     <td> Authorities or responsibilities not affected.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs4103" data-uslm-ref="/us/usc/t41/s4103">4103.</a>  </td>
 
     <td> General authority.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs4104" data-uslm-ref="/us/usc/t41/s4104">4104.</a>  </td>
 
     <td> Guidance on use of task and delivery order contracts.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs4105" data-uslm-ref="/us/usc/t41/s4105">4105.</a>  </td>
 
     <td> Advisory and assistance services.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs4106" data-uslm-ref="/us/usc/t41/s4106">4106.</a>  </td>
 
     <td> Orders.  </td>
 

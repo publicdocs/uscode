@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs4501" data-uslm-ref="/us/usc/t41/s4501">4501.</a>  </td>
 
     <td> Authority of executive agency.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs4502" data-uslm-ref="/us/usc/t41/s4502">4502.</a>  </td>
 
     <td> Payment.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs4503" data-uslm-ref="/us/usc/t41/s4503">4503.</a>  </td>
 
     <td> Security for advance payments.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs4504" data-uslm-ref="/us/usc/t41/s4504">4504.</a>  </td>
 
     <td> Conditions for progress payments.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs4505" data-uslm-ref="/us/usc/t41/s4505">4505.</a>  </td>
 
     <td> Payments for commercial items.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs4506" data-uslm-ref="/us/usc/t41/s4506">4506.</a>  </td>
 
     <td> Action in case of fraud.  </td>
 

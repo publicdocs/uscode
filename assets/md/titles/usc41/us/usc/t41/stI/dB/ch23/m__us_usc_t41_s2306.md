@@ -15,7 +15,7 @@
 
 ## § 2306. Openness of meetings
 
-The Administrator by regulation shall require that—
+    The Administrator by regulation shall require that—
 
     (1) formal meetings of the Office of Federal Procurement Policy, as designated by the Administrator, for developing procurement policies and regulations be open to the public; and
 

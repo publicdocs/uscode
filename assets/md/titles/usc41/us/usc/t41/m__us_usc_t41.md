@@ -13,11 +13,11 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t41/stI/m__us_usc_t41_stI.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41)
 
-# 
-
-Title 41—PUBLIC CONTRACTS
+# Title 41—PUBLIC CONTRACTS
 
 This title was enacted by [Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677]
+
+Current through 113–44
 
 <table>
 
@@ -33,41 +33,41 @@ This title was enacted by [Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2FstI" data-uslm-ref="/us/usc/t41/stI">I.</a>  </td>
 
     <td> FEDERAL PROCUREMENT POLICY  </td>
 
-    <td> 101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs101" data-uslm-ref="/us/usc/t41/s101">101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2FstII" data-uslm-ref="/us/usc/t41/stII">II.</a>  </td>
 
     <td> OTHER ADVERTISING AND CONTRACT PROVISIONS  </td>
 
-    <td> 6101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs6101" data-uslm-ref="/us/usc/t41/s6101">6101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2FstIII" data-uslm-ref="/us/usc/t41/stIII">III.</a>  </td>
 
     <td> CONTRACT DISPUTES  </td>
 
-    <td> 7101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs7101" data-uslm-ref="/us/usc/t41/s7101">7101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2FstIV" data-uslm-ref="/us/usc/t41/stIV">IV.</a>  </td>
 
     <td> MISCELLANEOUS  </td>
 
-    <td> 8101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs8101" data-uslm-ref="/us/usc/t41/s8101">8101</a>  </td>
 
   </tr>
 

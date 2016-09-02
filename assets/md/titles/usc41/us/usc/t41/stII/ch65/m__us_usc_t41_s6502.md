@@ -15,7 +15,7 @@
 
 ## § 6502. Required contract terms
 
-A contract made by an agency of the United States for the manufacture or furnishing of materials, supplies, articles, or equipment, in an amount exceeding $10,000, shall include the following representations and stipulations:
+    A contract made by an agency of the United States for the manufacture or furnishing of materials, supplies, articles, or equipment, in an amount exceeding $10,000, shall include the following representations and stipulations:
 
     (1) __Minimum wages to be paid.—__ 
 

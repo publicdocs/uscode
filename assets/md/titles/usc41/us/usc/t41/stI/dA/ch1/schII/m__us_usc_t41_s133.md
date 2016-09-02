@@ -15,7 +15,7 @@
 
 ## § 133. Executive agency
 
-In division B, the term “executive agency” means—
+    In division B, the term “executive agency” means—
 
     (1) an executive department specified in [section 101 of title 5][/us/usc/t5/s101];
 

@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1101" data-uslm-ref="/us/usc/t41/s1101">1101.</a>  </td>
 
     <td> Office of Federal Procurement Policy.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1102" data-uslm-ref="/us/usc/t41/s1102">1102.</a>  </td>
 
     <td> Administrator.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER II—AUTHORITY AND FUNCTIONS OF THE ADMINISTRATOR  </td>
 
   <tr>
 
-    <td> 1121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1121" data-uslm-ref="/us/usc/t41/s1121">1121.</a>  </td>
 
     <td> General authority.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—AUTHORITY AND FUNCTIONS OF THE ADMINISTRATOR  </td>
 
   <tr>
 
-    <td> 1122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1122" data-uslm-ref="/us/usc/t41/s1122">1122.</a>  </td>
 
     <td> Functions.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—AUTHORITY AND FUNCTIONS OF THE ADMINISTRATOR  </td>
 
   <tr>
 
-    <td> 1123.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1123" data-uslm-ref="/us/usc/t41/s1123">1123.</a>  </td>
 
     <td> Small business concerns.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—AUTHORITY AND FUNCTIONS OF THE ADMINISTRATOR  </td>
 
   <tr>
 
-    <td> 1124.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1124" data-uslm-ref="/us/usc/t41/s1124">1124.</a>  </td>
 
     <td> Tests of innovative procurement methods and procedures.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—AUTHORITY AND FUNCTIONS OF THE ADMINISTRATOR  </td>
 
   <tr>
 
-    <td> 1125.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1125" data-uslm-ref="/us/usc/t41/s1125">1125.</a>  </td>
 
     <td> Recipients of Federal grants or assistance.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—AUTHORITY AND FUNCTIONS OF THE ADMINISTRATOR  </td>
 
   <tr>
 
-    <td> 1126.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1126" data-uslm-ref="/us/usc/t41/s1126">1126.</a>  </td>
 
     <td> Policy regarding consideration of contractor past performance.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—AUTHORITY AND FUNCTIONS OF THE ADMINISTRATOR  </td>
 
   <tr>
 
-    <td> 1127.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1127" data-uslm-ref="/us/usc/t41/s1127">1127.</a>  </td>
 
     <td> Determining benchmark compensation amount.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—AUTHORITY AND FUNCTIONS OF THE ADMINISTRATOR  </td>
 
   <tr>
 
-    <td> 1128.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1128" data-uslm-ref="/us/usc/t41/s1128">1128.</a>  </td>
 
     <td> Maintaining necessary capability with respect to acquisition of architectural and engineering services.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—AUTHORITY AND FUNCTIONS OF THE ADMINISTRATOR  </td>
 
   <tr>
 
-    <td> 1129.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1129" data-uslm-ref="/us/usc/t41/s1129">1129.</a>  </td>
 
     <td> Center of excellence in contracting for services.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—AUTHORITY AND FUNCTIONS OF THE ADMINISTRATOR  </td>
 
   <tr>
 
-    <td> 1130.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1130" data-uslm-ref="/us/usc/t41/s1130">1130.</a>  </td>
 
     <td> Effect of division on other law.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—AUTHORITY AND FUNCTIONS OF THE ADMINISTRATOR  </td>
 
   <tr>
 
-    <td> 1131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs1131" data-uslm-ref="/us/usc/t41/s1131">1131.</a>  </td>
 
     <td> Annual report.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 1706. Personnel evaluation
 
-The head of each executive agency subject to division C shall ensure, with respect to the employees of that agency whose primary duties and responsibilities pertain to the award of contracts subject to the provisions of the Small Business and Federal Procurement Competition Enhancement Act of 1984 ([Public Law 98–577][/us/pl/98/577], [98 Stat. 3066][/us/stat/98/3066]), that the performance appraisal system applicable to those employees affords appropriate recognition to, among other factors, efforts to—
+    The head of each executive agency subject to division C shall ensure, with respect to the employees of that agency whose primary duties and responsibilities pertain to the award of contracts subject to the provisions of the Small Business and Federal Procurement Competition Enhancement Act of 1984 ([Public Law 98–577][/us/pl/98/577], [98 Stat. 3066][/us/stat/98/3066]), that the performance appraisal system applicable to those employees affords appropriate recognition to, among other factors, efforts to—
 
     (1) increase competition and achieve cost savings through the elimination of procedures that unnecessarily inhibit full and open competition;
 

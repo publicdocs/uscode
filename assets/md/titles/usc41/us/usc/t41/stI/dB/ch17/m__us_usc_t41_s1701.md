@@ -15,7 +15,7 @@
 
 ## § 1701. Cooperation with the Administrator
 
-On the request of the Administrator, each executive agency shall—
+    On the request of the Administrator, each executive agency shall—
 
     (1) make its services, personnel, and facilities available to the Office of Federal Procurement Policy to the greatest practicable extent for the performance of functions under this division; and
 

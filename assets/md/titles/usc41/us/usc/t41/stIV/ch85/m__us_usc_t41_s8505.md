@@ -15,7 +15,7 @@
 
 ## § 8505. Audit
 
-For the purpose of audit and examination, the Comptroller General shall have access to the books, documents, papers, and other records of—
+    For the purpose of audit and examination, the Comptroller General shall have access to the books, documents, papers, and other records of—
 
     (1) the Committee and of each central nonprofit agency the Committee designates under [section 8503(c) of this title][/us/usc/t41/s8503/c]; and
 

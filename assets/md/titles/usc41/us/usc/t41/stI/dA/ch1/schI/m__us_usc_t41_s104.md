@@ -15,7 +15,7 @@
 
 ## § 104. Commercially available off-the-shelf item
 
-In this subtitle, the term “commercially available off-the-shelf item”—
+    In this subtitle, the term “commercially available off-the-shelf item”—
 
     (1)
 

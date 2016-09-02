@@ -15,7 +15,7 @@
 
 ## § 8702. Prohibited conduct
 
-A person may not—
+    A person may not—
 
     (1) provide, attempt to provide, or offer to provide a kickback;
 

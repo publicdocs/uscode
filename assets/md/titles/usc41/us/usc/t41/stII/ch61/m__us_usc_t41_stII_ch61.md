@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs6101" data-uslm-ref="/us/usc/t41/s6101">6101.</a>  </td>
 
     <td> Advertising requirement for Federal Government purchases and sales.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs6102" data-uslm-ref="/us/usc/t41/s6102">6102.</a>  </td>
 
     <td> Exceptions from advertising requirement.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs6103" data-uslm-ref="/us/usc/t41/s6103">6103.</a>  </td>
 
     <td> Opening of bids.  </td>
 

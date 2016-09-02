@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs3701" data-uslm-ref="/us/usc/t41/s3701">3701.</a>  </td>
 
     <td> Basis of award and rejection.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs3702" data-uslm-ref="/us/usc/t41/s3702">3702.</a>  </td>
 
     <td> Sealed bids.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs3703" data-uslm-ref="/us/usc/t41/s3703">3703.</a>  </td>
 
     <td> Competitive proposals.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs3704" data-uslm-ref="/us/usc/t41/s3704">3704.</a>  </td>
 
     <td> Post-award debriefings.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs3705" data-uslm-ref="/us/usc/t41/s3705">3705.</a>  </td>
 
     <td> Pre-award debriefings.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs3706" data-uslm-ref="/us/usc/t41/s3706">3706.</a>  </td>
 
     <td> Encouragement of alternative dispute resolution.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs3707" data-uslm-ref="/us/usc/t41/s3707">3707.</a>  </td>
 
     <td> Antitrust violations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs3708" data-uslm-ref="/us/usc/t41/s3708">3708.</a>  </td>
 
     <td> Protests.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 1711. Value engineering
 
-Each executive agency shall establish and maintain cost-effective procedures and processes for analyzing the functions of a program, project, system, product, item of equipment, building, facility, service, or supply of the agency. The analysis shall be—
+    Each executive agency shall establish and maintain cost-effective procedures and processes for analyzing the functions of a program, project, system, product, item of equipment, building, facility, service, or supply of the agency. The analysis shall be—
 
     (1) performed by qualified agency or contractor personnel; and
 

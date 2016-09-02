@@ -15,7 +15,7 @@
 
 ## § 110. Nondevelopmental item
 
-In this subtitle, the term “nondevelopmental item” means—
+    In this subtitle, the term “nondevelopmental item” means—
 
     (1) a commercial item;
 

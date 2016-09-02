@@ -15,7 +15,7 @@
 
 ## § 8301. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __Public building, public use, and public work.—__ 
 

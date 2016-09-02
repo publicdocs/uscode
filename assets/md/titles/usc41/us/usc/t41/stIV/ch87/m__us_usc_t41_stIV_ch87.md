@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs8701" data-uslm-ref="/us/usc/t41/s8701">8701.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs8702" data-uslm-ref="/us/usc/t41/s8702">8702.</a>  </td>
 
     <td> Prohibited conduct.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 8703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs8703" data-uslm-ref="/us/usc/t41/s8703">8703.</a>  </td>
 
     <td> Contractor responsibilities.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 8704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs8704" data-uslm-ref="/us/usc/t41/s8704">8704.</a>  </td>
 
     <td> Inspection authority.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 8705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs8705" data-uslm-ref="/us/usc/t41/s8705">8705.</a>  </td>
 
     <td> Administrative offsets.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 8706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs8706" data-uslm-ref="/us/usc/t41/s8706">8706.</a>  </td>
 
     <td> Civil actions.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 8707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft41%2Fs8707" data-uslm-ref="/us/usc/t41/s8707">8707.</a>  </td>
 
     <td> Criminal penalties.  </td>
 

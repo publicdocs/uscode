@@ -15,7 +15,7 @@
 
 ## § 103. Commercial item
 
-In this subtitle, the term “commercial item” means—
+    In this subtitle, the term “commercial item” means—
 
     (1)
 
