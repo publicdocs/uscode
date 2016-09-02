@@ -39,7 +39,7 @@
 
                 (i)
 
-                    (I) the Clerk of the House of Representatives, in the case of a Representative in Congress, a Delegate to Congress, the Resident Commissioner from Puerto Rico, an officer or employee of the Congress whose compensation is disbursed by the Chief Administrative Officer of the House of Representatives, an officer or employee of the Architect of the Capitol, United States Capitol Police, the United States Botanic Garden, the Congressional Budget Office, the Government Printing Office, the Library of Congress, or the Copyright Royalty Tribunal (including any individual terminating service, under section 101(e), in any office or position referred to in this subclause), or an individual described in section 101(c) who is a candidate for nomination or election as a Representative in Congress, a Delegate to Congress, or the Resident Commissioner from Puerto Rico; and
+                    (I) the Clerk of the House of Representatives, in the case of a Representative in Congress, a Delegate to Congress, the Resident Commissioner from Puerto Rico, an officer or employee of the Congress whose compensation is disbursed by the Chief Administrative Officer of the House of Representatives, an officer or employee of the Architect of the Capitol, United States Capitol Police, the United States Botanic Garden, the Congressional Budget Office, the Government Publishing Office, the Library of Congress, or the Copyright Royalty Tribunal (including any individual terminating service, under section 101(e), in any office or position referred to in this subclause), or an individual described in section 101(c) who is a candidate for nomination or election as a Representative in Congress, a Delegate to Congress, or the Resident Commissioner from Puerto Rico; and
 
                     (II) the Secretary of the Senate, in the case of a Senator, an officer or employee of the Congress whose compensation is disbursed by the Secretary of the Senate, an officer or employee of the Government Accountability Office, the Office of Technology Assessment, or the Office of the Attending Physician (including any individual terminating service, under section 101(e), in any office or position referred to in this subclause), or an individual described in section 101(c) who is a candidate for nomination or election as a Senator; and
 
@@ -93,7 +93,7 @@
 
         (10) An officer or employee of the Congress, as defined under section 109(13).
 
-([Pub. L. 95–521, title I, § 103][/us/pl/95/521/s103], Oct. 26, 1978, [92 Stat. 1831][/us/stat/92/1831]; [Pub. L. 96–19][/us/pl/96/19], §§ 4(b)(2), 9(a), June 13, 1979, [93 Stat. 40][/us/stat/93/40], 42; [Pub. L. 101–194, title II, § 202][/us/pl/101/194/s202], Nov. 30, 1989, [103 Stat. 1736][/us/stat/103/1736]; [Pub. L. 101–280, § 3(1)][/us/pl/101/280/s3/1], (4), May 4, 1990, [104 Stat. 152][/us/stat/104/152], 153; [Pub. L. 102–90, title III, § 313(1)][/us/pl/102/90/s313/1], Aug. 14, 1991, [105 Stat. 469][/us/stat/105/469]; [Pub. L. 104–186, title II, § 216(1)][/us/pl/104/186/s216/1], Aug. 20, 1996, [110 Stat. 1747][/us/stat/110/1747]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–55, title I, § 1003(a)][/us/pl/109/55/s1003/a], Aug. 2, 2005, [119 Stat. 572][/us/stat/119/572]; [Pub. L. 112–105][/us/pl/112/105], §§ 6(a), 19(a), Apr. 4, 2012, [126 Stat. 293][/us/stat/126/293], 304.)
+([Pub. L. 95–521, title I, § 103][/us/pl/95/521/s103], Oct. 26, 1978, [92 Stat. 1831][/us/stat/92/1831]; [Pub. L. 96–19][/us/pl/96/19], §§ 4(b)(2), 9(a), June 13, 1979, [93 Stat. 40][/us/stat/93/40], 42; [Pub. L. 101–194, title II, § 202][/us/pl/101/194/s202], Nov. 30, 1989, [103 Stat. 1736][/us/stat/103/1736]; [Pub. L. 101–280, § 3(1)][/us/pl/101/280/s3/1], (4), May 4, 1990, [104 Stat. 152][/us/stat/104/152], 153; [Pub. L. 102–90, title III, § 313(1)][/us/pl/102/90/s313/1], Aug. 14, 1991, [105 Stat. 469][/us/stat/105/469]; [Pub. L. 104–186, title II, § 216(1)][/us/pl/104/186/s216/1], Aug. 20, 1996, [110 Stat. 1747][/us/stat/110/1747]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–55, title I, § 1003(a)][/us/pl/109/55/s1003/a], Aug. 2, 2005, [119 Stat. 572][/us/stat/119/572]; [Pub. L. 112–105][/us/pl/112/105], §§ 6(a), 19(a), Apr. 4, 2012, [126 Stat. 293][/us/stat/126/293], 304; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
@@ -148,6 +148,8 @@
     Subsec. (f). [Pub. L. 96–19, § 9(a)][/us/pl/96/19/s9/a], substituted “the designated committee of the House of Representatives” for “the Clerk shall, after consultation with the designated committee of the House of Representatives”.
 
  __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in subsec. (h)(1)(A)(i)(I) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
 
     Committee on Standards of Official Conduct of House of Representatives changed to Committee on Ethics of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
@@ -233,6 +235,8 @@
 [/us/stat/119/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F572
 [/us/pl/112/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105
 [/us/stat/126/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F293
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/pl/92/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225
 [/us/usc/t52/s30113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30113%2Fa
@@ -257,6 +261,8 @@
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/pl/96/19/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19%2Fs4%2Fb%2F2
 [/us/pl/96/19/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F19%2Fs9%2Fa
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/112/105/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105%2Fs6%2Fb
 [/us/stat/126/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F294
 [/us/pl/109/55/s1003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2Fs1003%2Fb

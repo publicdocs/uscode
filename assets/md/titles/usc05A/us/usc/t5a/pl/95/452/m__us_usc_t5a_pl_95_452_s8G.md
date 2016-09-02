@@ -725,11 +725,13 @@
 
  __Inspector General of Chemical Safety and Hazard Investigation Board__ 
 
-[Pub. L. 113–76, div. G, title III][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 332][/us/stat/128/332], provided in part: 
+[Pub. L. 113–235, div. F, title III][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2438][/us/stat/128/2438], provided in part: 
 
 > “That notwithstanding any other provision of law, the individual appointed to the position of Inspector General of the Environmental Protection Agency (EPA) shall, by virtue of such appointment, also hold the position of Inspector General of the \[Chemical Safety and Hazard Investigation\] Board: Provided further, That notwithstanding any other provision of law, the Inspector General of the Board shall utilize personnel of the Office of Inspector General of EPA in performing the duties of the Inspector General of the Board, and shall not appoint any individuals to positions within the Board.”
 
 Similar provisions were contained in the following prior appropriations acts:
+
+    [Pub. L. 113–76, div. G, title III][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 332][/us/stat/128/332].
 
     [Pub. L. 112–74, div. E, title III][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 1031][/us/stat/125/1031].
 
@@ -1181,6 +1183,8 @@ Section 409(b), (c) of [Pub. L. 105–134][/us/pl/105/134] provided that:
 [/us/stat/122/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F428
 [/us/pl/109/435/s605/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs605%2Fc
 [/us/stat/120/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3242
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/stat/128/2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2438
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/stat/128/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F332
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74

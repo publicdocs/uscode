@@ -57,7 +57,7 @@
 
             (H) The Deputy Director for Management of the Office of Management and Budget.
 
-            (I) The Inspectors General of the Library of Congress, Capitol Police, Government Printing Office, Government Accountability Office, and the Architect of the Capitol.
+            (I) The Inspectors General of the Library of Congress, Capitol Police, Government Publishing Office, Government Accountability Office, and the Architect of the Capitol.
 
         (2) __Chairperson and executive chairperson.—__ 
 
@@ -361,7 +361,7 @@
 
         This subsection is not intended to create any right or benefit, substantive or procedural, enforceable at law by a person against the United States, its agencies, its officers, or any person.
 
-([Pub. L. 95–452, § 11][/us/pl/95/452/s11], as added [Pub. L. 110–409, § 7(a)][/us/pl/110/409/s7/a], Oct. 14, 2008, [122 Stat. 4305][/us/stat/122/4305].)
+([Pub. L. 95–452, § 11][/us/pl/95/452/s11], as added [Pub. L. 110–409, § 7(a)][/us/pl/110/409/s7/a], Oct. 14, 2008, [122 Stat. 4305][/us/stat/122/4305]; amended [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
@@ -370,6 +370,10 @@
  __Prior Provisions__ 
 
     A prior section 11 of the Inspector General Act of 1978 was renumbered section 12.
+
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in subsec. (b)(1)(I) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
 
  __Effective Date; Existing Executive Orders__ 
 
@@ -464,7 +468,11 @@
 [/us/pl/95/452/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs11
 [/us/pl/110/409/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs7%2Fa
 [/us/stat/122/4305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4305
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/110/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/110/409/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F409%2Fs7%2Fc
 [/us/stat/122/4313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4313
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452

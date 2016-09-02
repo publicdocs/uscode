@@ -69,7 +69,7 @@
 
         (D) the Government Accountability Office;
 
-        (E) the Government Printing Office;
+        (E) the Government Publishing Office;
 
         (F) the Library of Congress;
 
@@ -133,7 +133,7 @@
 
     (19) “value” means a good faith estimate of the dollar value if the exact value is neither known nor easily obtainable by the reporting individual.
 
-([Pub. L. 95–521, title I, § 109][/us/pl/95/521/s109], Oct. 26, 1978, [92 Stat. 1836][/us/stat/92/1836]; [Pub. L. 101–194, title II, § 202][/us/pl/101/194/s202], Nov. 30, 1989, [103 Stat. 1741][/us/stat/103/1741]; [Pub. L. 101–280, § 3(1)][/us/pl/101/280/s3/1], (8), May 4, 1990, [104 Stat. 152][/us/stat/104/152], 155; [Pub. L. 102–378, § 4(a)(2)][/us/pl/102/378/s4/a/2], Oct. 2, 1992, [106 Stat. 1357][/us/stat/106/1357]; [Pub. L. 102–572, title IX, § 902(b)(2)][/us/pl/102/572/s902/b/2], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 103–160, div. A, title XI, § 1182(d)(3)][/us/pl/103/160/s1182/d/3], Nov. 30, 1993, [107 Stat. 1773][/us/stat/107/1773]; [Pub. L. 103–337, div. A, title IX, § 924(d)(3)][/us/pl/103/337/s924/d/3], Oct. 5, 1994, [108 Stat. 2832][/us/stat/108/2832]; [Pub. L. 104–186, title II, § 216(2)][/us/pl/104/186/s216/2], Aug. 20, 1996, [110 Stat. 1747][/us/stat/110/1747]; [Pub. L. 105–368, title V, § 512(b)(1)(D)][/us/pl/105/368/s512/b/1/D], Nov. 11, 1998, [112 Stat. 3342][/us/stat/112/3342]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–323, § 7][/us/pl/110/323/s7], Sept. 22, 2008, [122 Stat. 3547][/us/stat/122/3547].)
+([Pub. L. 95–521, title I, § 109][/us/pl/95/521/s109], Oct. 26, 1978, [92 Stat. 1836][/us/stat/92/1836]; [Pub. L. 101–194, title II, § 202][/us/pl/101/194/s202], Nov. 30, 1989, [103 Stat. 1741][/us/stat/103/1741]; [Pub. L. 101–280, § 3(1)][/us/pl/101/280/s3/1], (8), May 4, 1990, [104 Stat. 152][/us/stat/104/152], 155; [Pub. L. 102–378, § 4(a)(2)][/us/pl/102/378/s4/a/2], Oct. 2, 1992, [106 Stat. 1357][/us/stat/106/1357]; [Pub. L. 102–572, title IX, § 902(b)(2)][/us/pl/102/572/s902/b/2], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 103–160, div. A, title XI, § 1182(d)(3)][/us/pl/103/160/s1182/d/3], Nov. 30, 1993, [107 Stat. 1773][/us/stat/107/1773]; [Pub. L. 103–337, div. A, title IX, § 924(d)(3)][/us/pl/103/337/s924/d/3], Oct. 5, 1994, [108 Stat. 2832][/us/stat/108/2832]; [Pub. L. 104–186, title II, § 216(2)][/us/pl/104/186/s216/2], Aug. 20, 1996, [110 Stat. 1747][/us/stat/110/1747]; [Pub. L. 105–368, title V, § 512(b)(1)(D)][/us/pl/105/368/s512/b/1/D], Nov. 11, 1998, [112 Stat. 3342][/us/stat/112/3342]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–323, § 7][/us/pl/110/323/s7], Sept. 22, 2008, [122 Stat. 3547][/us/stat/122/3547]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
@@ -205,6 +205,8 @@
 
     Committee on Standards of Official Conduct of House of Representatives changed to Committee on Ethics of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
+    “Government Publishing Office” substituted for “Government Printing Office” in par. (11)(E) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
+
  __Effective Date of 1998 Amendment__ 
 
     Amendment by [Pub. L. 105–368][/us/pl/105/368] effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see [section 513 of Pub. L. 105–368][/us/pl/105/368/s513], set out as a note under [section 7251 of Title 38][/us/usc/t38/s7251], Veterans’ Benefits.
@@ -259,6 +261,8 @@
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/110/323/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323%2Fs7
 [/us/stat/122/3547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3547
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t2/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs709
 [/us/pl/110/323/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323%2Fs7%2F1
@@ -293,6 +297,8 @@
 [/us/pl/101/280/s3/8/I/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs3%2F8%2FI%2Fiii
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/105/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368
 [/us/pl/105/368/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs513
 [/us/usc/t38/s7251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7251
