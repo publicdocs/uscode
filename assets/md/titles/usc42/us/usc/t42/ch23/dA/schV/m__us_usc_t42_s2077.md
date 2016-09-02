@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch23/dA/schV/m__us_usc_t42_s2076.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schV/m__us_usc_t42_s2078.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2077)
+[Previous](./../../../../../..//us/usc/t42/ch23/dA/schV/m__us_usc_t42_s2076.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schV/m__us_usc_t42_s2077a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2077)
 
 ## § 2077. Unauthorized dealings in special nuclear material
 
@@ -73,7 +73,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch23/dA/schV/m__us_usc_t42_s2076.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schV/m__us_usc_t42_s2078.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2077)
+[Previous](./../../../../../..//us/usc/t42/ch23/dA/schV/m__us_usc_t42_s2076.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schV/m__us_usc_t42_s2077a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2077)
 
 ----------
 ----------

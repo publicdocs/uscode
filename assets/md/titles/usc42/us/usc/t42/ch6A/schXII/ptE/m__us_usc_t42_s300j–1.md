@@ -93,11 +93,43 @@
 
     (e) __Technical assistance__ 
 
-        The Administrator may provide technical assistance to small public water systems to enable such systems to achieve and maintain compliance with applicable national primary drinking water regulations. Such assistance may include circuit-rider and multi-State regional technical assistance programs, training, and preliminary engineering evaluations. The Administrator shall ensure that technical assistance pursuant to this subsection is available in each State. Each nonprofit organization receiving assistance under this subsection shall consult with the State in which the assistance is to be expended or otherwise made available before using assistance to undertake activities to carry out this subsection. There are authorized to be appropriated to the Administrator to be used for such technical assistance $15,000,000 for each of the fiscal years 1997 through 2003. No portion of any State loan fund established under [section 300j–12 of this title][/us/usc/t42/s300j–12] (relating to State loan funds) and no portion of any funds made available under this subsection may be used for lobbying expenses. Of the total amount appropriated under this subsection, 3 percent shall be used for technical assistance to public water systems owned or operated by Indian Tribes.
+        (1) The Administrator may provide technical assistance to small public water systems to enable such systems to achieve and maintain compliance with applicable national primary drinking water regulations.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1442, as added [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], Dec. 16, 1974, [88 Stat. 1682][/us/stat/88/1682]; amended [Pub. L. 95–190][/us/pl/95/190], §§ 2(a), 3(a), (b), (e)(1), 4, 9, 10(b), 13, Nov. 16, 1977, [91 Stat. 1393–1395][/us/stat/91/1393-1395], 1397–1399; [Pub. L. 96–63, § 1][/us/pl/96/63/s1], Sept. 6, 1979, [93 Stat. 411][/us/stat/93/411]; [Pub. L. 96–502, § 5][/us/pl/96/502/s5], Dec. 5, 1980, [94 Stat. 2738][/us/stat/94/2738]; [Pub. L. 99–339, title I, § 107][/us/pl/99/339/s107], title III, §§ 301(a), (g), 304(a), June 19, 1986, [100 Stat. 651][/us/stat/100/651], 663, 665, 667; [Pub. L. 104–66, title II, § 2021(h)][/us/pl/104/66/s2021/h], Dec. 21, 1995, [109 Stat. 727][/us/stat/109/727]; [Pub. L. 104–182, title I][/us/pl/104/182], §§ 121, 122, Aug. 6, 1996, [110 Stat. 1651][/us/stat/110/1651]; [Pub. L. 107–188, title IV, § 403(4)][/us/pl/107/188/s403/4], June 12, 2002, [116 Stat. 687][/us/stat/116/687].)
+        (2) Such assistance may include circuit-rider and multi-State regional technical assistance programs, training, and preliminary engineering evaluations.
+
+        (3) The Administrator shall ensure that technical assistance pursuant to this subsection is available in each State.
+
+        (4) Each nonprofit organization receiving assistance under this subsection shall consult with the State in which the assistance is to be expended or otherwise made available before using assistance to undertake activities to carry out this subsection.
+
+        (5) There are authorized to be appropriated to the Administrator to be used for such technical assistance $15,000,000 for each of the fiscal years 2015 through 2020.
+
+        (6) No portion of any State loan fund established under [section 300j–12 of this title][/us/usc/t42/s300j–12] (relating to State loan funds) and no portion of any funds made available under this subsection may be used for lobbying expenses.
+
+        (7) Of the total amount appropriated under this subsection, 3 percent shall be used for technical assistance to public water systems owned or operated by Indian Tribes.
+
+        (8) __Nonprofit organizations.—__ 
+
+            (A)  __In general__  __.—__ 
+
+            The Administrator may use amounts made available to carry out this section to provide grants or cooperative agreements to nonprofit organizations that provide to small public water systems onsite technical assistance, circuit-rider technical assistance programs, multistate, regional technical assistance programs, onsite and regional training, assistance with implementing source water protection plans, and assistance with implementing monitoring plans, rules, regulations, and water security enhancements.
+
+            (B)  __Preference__  __.—__ 
+
+            To ensure that technical assistance funding is used in a manner that is most beneficial to the small and rural communities of a State, the Administrator shall give preference under this paragraph to nonprofit organizations that, as determined by the Administrator, are the most qualified and experienced in providing training and technical assistance to small public water systems and that the small community water systems in that State find to be the most beneficial and effective.
+
+            (C)  __Limitation__  __.—__ 
+
+            No grant or cooperative agreement provided or otherwise made available under this section may be used for litigation pursuant to [section 300j–8 of this title][/us/usc/t42/s300j–8].
+
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1442, as added [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], Dec. 16, 1974, [88 Stat. 1682][/us/stat/88/1682]; amended [Pub. L. 95–190][/us/pl/95/190], §§ 2(a), 3(a), (b), (e)(1), 4, 9, 10(b), 13, Nov. 16, 1977, [91 Stat. 1393–1395][/us/stat/91/1393-1395], 1397–1399; [Pub. L. 96–63, § 1][/us/pl/96/63/s1], Sept. 6, 1979, [93 Stat. 411][/us/stat/93/411]; [Pub. L. 96–502, § 5][/us/pl/96/502/s5], Dec. 5, 1980, [94 Stat. 2738][/us/stat/94/2738]; [Pub. L. 99–339, title I, § 107][/us/pl/99/339/s107], title III, §§ 301(a), (g), 304(a), June 19, 1986, [100 Stat. 651][/us/stat/100/651], 663, 665, 667; [Pub. L. 104–66, title II, § 2021(h)][/us/pl/104/66/s2021/h], Dec. 21, 1995, [109 Stat. 727][/us/stat/109/727]; [Pub. L. 104–182, title I][/us/pl/104/182], §§ 121, 122, Aug. 6, 1996, [110 Stat. 1651][/us/stat/110/1651]; [Pub. L. 107–188, title IV, § 403(4)][/us/pl/107/188/s403/4], June 12, 2002, [116 Stat. 687][/us/stat/116/687]; [Pub. L. 114–98, § 4][/us/pl/114/98/s4], Dec. 11, 2015, [129 Stat. 2200][/us/stat/129/2200].)
 
  __Amendments__ 
+
+    2015—Subsec. (e). [Pub. L. 114–98, § 4(1)][/us/pl/114/98/s4/1], designated first to seventh sentences of existing provisions as pars. (1) to (7), respectively.
+
+    Subsec. (e)(5). [Pub. L. 114–98, § 4(2)][/us/pl/114/98/s4/2], substituted “2015 through 2020” for “1997 through 2003”.
+
+    Subsec. (e)(8). [Pub. L. 114–98, § 4(3)][/us/pl/114/98/s4/3], added par. (8).
 
     2002—Subsec. (b). [Pub. L. 107–188, § 403(4)(A)][/us/pl/107/188/s403/4/A], which directed substitution of “this subsection” for “this subparagraph”, was executed by making the substitution in three places to reflect the probable intent of Congress.
 
@@ -151,6 +183,28 @@
 
     Subsec. (e). [Pub. L. 95–190][/us/pl/95/190], §§ 2(a), 3(b), redesignated former subsec. (c) as (e) and inserted provisions authorizing appropriations for fiscal years 1978 and 1979, and provisions relating to appropriations for subsec. (a)(2)(B) of this section and for research.
 
+ __Findings__ 
+
+[Pub. L. 114–98, § 2][/us/pl/114/98/s2], Dec. 11, 2015, [129 Stat. 2199][/us/stat/129/2199], provided that: 
+
+> “Congress finds that—
+
+>     “(1) the Safe Drinking Water Act Amendments of 1996 ([Public Law 104–182][/us/pl/104/182]) \[see Short Title of 1996 Amendments note set out under [section 201 of this title][/us/usc/t42/s201]\] authorized technical assistance for small and rural communities to assist those communities in complying with regulations promulgated pursuant to the Safe Drinking Water Act ([42 U.S.C. 300f][/us/usc/t42/s300f] et seq.);
+
+>     “(2)
+
+>      technical assistance and compliance training—
+
+>         “(A) ensures that Federal regulations do not overwhelm the resources of small and rural communities; and
+
+>         “(B) provides small and rural communities lacking technical resources with the necessary skills to improve and protect water resources;
+
+>     “(3) across the United States, more than 90 percent of the community water systems serve a population of less than 10,000 individuals;
+
+>     “(4) small and rural communities have the greatest difficulty providing safe, affordable public drinking water and wastewater services due to limited economies of scale and lack of technical expertise; and
+
+>     “(5) in addition to being the main source of compliance assistance, small and rural water technical assistance has been the main source of emergency response assistance in small and rural communities.”
+
  __Scientific Research Review__ 
 
 [Pub. L. 104–182, title II, § 202][/us/pl/104/182/s202], Aug. 6, 1996, [110 Stat. 1682][/us/stat/110/1682], provided that:
@@ -196,6 +250,7 @@
 
 [/us/usc/t42/s300j–2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%932%2Fc
 [/us/usc/t42/s300j–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9312
+[/us/usc/t42/s300j–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%938
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
 [/us/stat/88/1682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1682
@@ -213,6 +268,11 @@
 [/us/stat/110/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1651
 [/us/pl/107/188/s403/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs403%2F4
 [/us/stat/116/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F687
+[/us/pl/114/98/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F98%2Fs4
+[/us/stat/129/2200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2200
+[/us/pl/114/98/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F98%2Fs4%2F1
+[/us/pl/114/98/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F98%2Fs4%2F2
+[/us/pl/114/98/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F98%2Fs4%2F3
 [/us/pl/107/188/s403/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs403%2F4%2FA
 [/us/pl/107/188/s403/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs403%2F4%2FB
 [/us/pl/104/182/s121/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs121%2F4%2FA
@@ -237,6 +297,11 @@
 [/us/pl/95/190/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190%2Fs10%2Fb
 [/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
 [/us/pl/95/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F190
+[/us/pl/114/98/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F98%2Fs2
+[/us/stat/129/2199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2199
+[/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
+[/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
+[/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
 [/us/pl/104/182/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs202
 [/us/stat/110/1682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1682
 [/us/pl/104/182/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs203

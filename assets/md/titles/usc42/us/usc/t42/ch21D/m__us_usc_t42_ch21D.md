@@ -47,6 +47,14 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2000dd%E2%80%932" data-uslm-ref="/us/usc/t42/s2000dd–2">2000dd–2.</a>  </td>
+
+    <td> Limitation on interrogation techniques.  </td>
+
+  </tr>
+
 </table>
 
 ----------

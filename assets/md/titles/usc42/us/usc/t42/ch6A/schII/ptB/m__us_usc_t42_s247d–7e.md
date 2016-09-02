@@ -185,7 +185,7 @@
 
                     (I) __In general__ 
 
-                        Subsections (b), (c), and (h) of section 845 of the National Defense Authorization Act for Fiscal Year 1994 ([10 U.S.C. 2371][/us/usc/t10/s2371] note) shall apply to other transactions under this subparagraph as if such transactions were for prototype projects described by subsection (a) of such section 845.
+                        Subsections (b), (c), and (h) of section 845  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the National Defense Authorization Act for Fiscal Year 1994 ([10 U.S.C. 2371][/us/usc/t10/s2371] note) shall apply to other transactions under this subparagraph as if such transactions were for prototype projects described by subsection (a) of such section 845.
 
                     (II) __Written determinations required__ 
 
@@ -331,7 +331,7 @@
 
     Section 405 of the Pandemic and All-Hazards Preparedness Act, referred to in subsec. (c)(4)(A)(iii), is [section 405 of Pub. L. 109–417][/us/pl/109/417/s405], which is set out as a note under [section 247d–6a of this title][/us/usc/t42/s247d–6a].
 
-    Section 845 of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsec. (c)(5)(A)(ii)(I), is [section 845 of Pub. L. 103–160][/us/pl/103/160/s845], which is set out as a note under [section 2371 of Title 10][/us/usc/t10/s2371], Armed Forces.
+    Section 845 of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsec. (c)(5)(A)(ii)(I), is [section 845 of Pub. L. 103–160][/us/pl/103/160/s845], which was formerly set out as a note under [section 2371 of Title 10][/us/usc/t10/s2371], Armed Forces, prior to repeal by [Pub. L. 114–92, div. A, title VIII, § 815(c)][/us/pl/114/92/s815/c], Nov. 25, 2015, [129 Stat. 896][/us/stat/129/896]. See [section 2371b of Title 10][/us/usc/t10/s2371b].
 
     The Federal Tort Claims Act, referred to in subsec. (c)(5)(B)(ii), is title IV of [act Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], [60 Stat. 842][/us/stat/60/842], which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 992][/us/stat/62/992], the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
@@ -412,6 +412,9 @@
 [/us/usc/t42/s247d–6a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936a
 [/us/pl/103/160/s845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs845
 [/us/usc/t10/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371
+[/us/pl/114/92/s815/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs815%2Fc
+[/us/stat/129/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F896
+[/us/usc/t10/s2371b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371b
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F842
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646

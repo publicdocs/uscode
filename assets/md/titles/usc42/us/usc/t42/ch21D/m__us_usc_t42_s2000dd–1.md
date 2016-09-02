@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch21D/m__us_usc_t42_s2000dd–0.md) | [Next](./../../../..//us/usc/t42/ch21E/m__us_usc_t42_ch21E.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000dd%E2%80%931)
+[Previous](./../../../..//us/usc/t42/ch21D/m__us_usc_t42_s2000dd–0.md) | [Next](./../../../..//us/usc/t42/ch21D/m__us_usc_t42_s2000dd–2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000dd%E2%80%931)
 
 ## § 2000dd–1. Protection of United States Government personnel engaged in authorized interrogations
 
@@ -57,7 +57,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch21D/m__us_usc_t42_s2000dd–0.md) | [Next](./../../../..//us/usc/t42/ch21E/m__us_usc_t42_ch21E.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000dd%E2%80%931)
+[Previous](./../../../..//us/usc/t42/ch21D/m__us_usc_t42_s2000dd–0.md) | [Next](./../../../..//us/usc/t42/ch21D/m__us_usc_t42_s2000dd–2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000dd%E2%80%931)
 
 ----------
 ----------

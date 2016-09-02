@@ -4537,11 +4537,11 @@
 
  __Medicaid Emergency Psychiatric Demonstration Project__ 
 
-[Pub. L. 111–148, title II, § 2707][/us/pl/111/148/s2707], Mar. 23, 2010, [124 Stat. 326][/us/stat/124/326], provided that:
+[Pub. L. 111–148, title II, § 2707][/us/pl/111/148/s2707], Mar. 23, 2010, [124 Stat. 326][/us/stat/124/326], as amended by [Pub. L. 114–97, § 2(a)][/us/pl/114/97/s2/a]–(d), Dec. 11, 2015, [129 Stat. 2194–2197][/us/stat/129/2194-2197], provided that:
 
 >     “(a)  __Authority To Conduct Demonstration Project__  __.—__ 
 
->     The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall establish a demonstration project under which an eligible State (as described in subsection (c)) shall provide payment under the State Medicaid plan under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] to an institution for mental diseases that is not publicly owned or operated and that is subject to the requirements of section 1867 of the Social Security Act ([42 U.S.C. 1395dd][/us/usc/t42/s1395dd]) for the provision of medical assistance available under such plan to individuals who—
+>     The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall establish a demonstration project under which an eligible State (as described in subsection (c)) shall provide payment under the State Medicaid plan under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] to an institution for mental diseases that is publicly or not publicly owned or operated and that is subject to the requirements of section 1867 of the Social Security Act ([42 U.S.C. 1395dd][/us/usc/t42/s1395dd]) for the provision of medical assistance available under such plan to individuals who—
 
 >         “(1) have attained age 21, but have not attained age 65;
 
@@ -4557,7 +4557,7 @@
 
 >         “(1)  __In general__  __.—__ 
 
->         An eligible State is a State that has made an application and has been selected pursuant to paragraphs (2) and (3).
+>         Except as otherwise provided in paragraph (4), an eligible State is a State that has made an application and has been selected pursuant to paragraphs (2) and (3).
 
 >         “(2)  __Application__  __.—__ 
 
@@ -4565,13 +4565,63 @@
 
 >         “(3)  __Selection__  __.—__ 
 
->         A State shall be determined eligible for the demonstration by the Secretary on a competitive basis among States with applications meeting the requirements of paragraph (1). In selecting State applications for the demonstration project, the Secretary shall seek to achieve an appropriate national balance in the geographic distribution of such projects.
+>         Except as otherwise provided in paragraph (4), a State shall be determined eligible for the demonstration by the Secretary on a competitive basis among States with applications meeting the requirements of paragraph (1). In selecting State applications for the demonstration project, the Secretary shall seek to achieve an appropriate national balance in the geographic distribution of such projects.
 
->     “(d)  __Length of Demonstration Project__  __.—__ 
+>         “(4)  __Nationwide availability__  __.—__ 
 
->     The demonstration project established under this section shall be conducted for a period of 3 consecutive years.
+>         In the event that the Secretary makes a recommendation pursuant to subsection (f)(4) that the demonstration project be expanded on a national basis, any State that has submitted or submits an application pursuant to paragraph (2) shall be deemed to have been selected to be an eligible State to participate in the demonstration project.
 
->     “(e) __Limitations on Federal Funding.—__ 
+>     “(d) __Length of Demonstration Project.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Except as provided in paragraphs (2) and (3), the demonstration project established under this section shall be conducted for a period of 3 consecutive years.
+
+>         “(2) __Temporary extension of participation eligibility for selected states.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             Subject to subparagraph (B) and paragraph (4), a State selected as an eligible State to participate in the demonstration project on or prior to March 13, 2012, shall, upon the request of the State, be permitted to continue to participate in the demonstration project through September 30, 2016, if—
+
+>                 “(i) the Secretary determines that the continued participation of the State in the demonstration project is projected not to increase net program spending under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\]; and
+
+>                 “(ii) the Chief Actuary of the Centers for Medicare & Medicaid Services certifies that such extension for that State is projected not to increase net program spending under title XIX of the Social Security Act.
+
+>             “(B)  __Notice of projections__  __.—__ 
+
+>             The Secretary shall provide each State selected to participate in the demonstration project on or prior to March 13, 2012, with notice of the determination and certification made under subparagraph (A) for the State.
+
+>         “(3) __Extension and expansion of demonstration project.—__ 
+
+>             “(A)  __Additional extension__  __.—__ 
+
+>             Taking into account the recommendations submitted to Congress under subsection (f)(3), the Secretary may permit an eligible State participating in the demonstration project as of the date such recommendations are submitted to continue to participate in the project through December 31, 2019, if, with respect to the State—
+
+>                 “(i) the Secretary determines that the continued participation of the State in the demonstration project is projected not to increase net program spending under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\]; and
+
+>                 “(ii) the Chief Actuary of the Centers for Medicare & Medicaid Services certifies that the continued participation of the State in the demonstration project is projected not to increase net program spending under title XIX of the Social Security Act.
+
+>             “(B)  __Option for expansion to additional states__  __.—__ 
+
+>             Taking into account the recommendations submitted to Congress pursuant to subsection (f)(3), the Secretary may expand the number of eligible States participating in the demonstration project through December 31, 2019, if, with respect to any new eligible State—
+
+>                 “(i) the Secretary determines that the participation of the State in the demonstration project is projected not to increase net program spending under title XIX of the Social Security Act; and
+
+>                 “(ii) the Chief Actuary of the Centers for Medicare & Medicaid Services certifies that the participation of the State in the demonstration project is projected not to increase net program spending under title XIX of the Social Security Act.
+
+>             “(C)  __Notice of projections__  __.—__ 
+
+>             The Secretary shall provide each State participating in the demonstration project as of the date the Secretary submits recommendations to Congress under subsection (f)(3), and any additional State that applies to be added to the demonstration project, with notice of the determination and certification made for the State under subparagraphs (A) and (B), respectively, and the standards used to make such determination and certification—
+
+>                 “(i) in the case of a State participating in the demonstration project as of the date the Secretary submits recommendations to Congress under subsection (f)(3), not later than August 31, 2016; and
+
+>                 “(ii) in the case of an additional State that applies to be added to the demonstration project, prior to the State making a final election to participate in the project.
+
+>         “(4)  __Authority to ensure budget neutrality__  __.—__ 
+
+>         The Secretary annually shall review each participating State’s demonstration project expenditures to ensure compliance with the requirements of paragraphs (2)(A)(i), (2)(A)(ii), (3)(A)(i), (3)(A)(ii), (3)(B)(i), and (3)(B)(ii) (as applicable). If the Secretary determines with respect to a State’s participation in the demonstration project that the State’s net program spending under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] has increased as a result of the State’s participation in the project, the Secretary shall treat the demonstration project excess expenditures of the State as an overpayment under title XIX of the Social Security Act.
+
+>     “(e) __Funding.—__ 
 
 >         “(1) __Appropriation.—__ 
 
@@ -4583,27 +4633,19 @@
 
 >             Subparagraph (A) constitutes budget authority in advance of appropriations Act \[sic\] and represents the obligation of the Federal Government to provide for the payment of the amounts appropriated under that subparagraph.
 
->         “(2) __5-__  __year availability__  __.—__ 
+>         “(2)  __availability__  __\[sic\].—__ 
 
->         Funds appropriated under paragraph (1) shall remain available for obligation through December 31, 2015.
+>         Funds appropriated under paragraph (1) shall remain available for obligation until expended.
 
->         “(3)  __Limitation on payments__  __.—__ 
+>         “(3)  __Funds allocated to states__  __.—__ 
 
->         In no case may—
+>         Funds shall be allocated to eligible States on the basis of criteria, including a State’s application (other than States deemed to be eligible States through the application of subsection (c)(4)), as determined by the Secretary.
 
->             “(A) the aggregate amount of payments made by the Secretary to eligible States under this section exceed $75,000,000; or
+>         “(4)  __Payments to states__  __.—__ 
 
->             “(B) payments be provided by the Secretary under this section after December 31, 2015.
+>         The Secretary shall pay to each eligible State (other than a State deemed to be an eligible State through the application of subsection (c)(4)), from its allocation under paragraph (3), an amount each quarter equal to the Federal medical assistance percentage of expenditures in the quarter for medical assistance described in subsection (a). In addition to any payments made to an eligible State under the preceding sentence, the Secretary shall, during any period in effect under paragraph (2) or (3) of subsection (d), or during any period in which a law described in subsection (f)(4)(C) is in effect, pay each eligible State (including any State deemed to be an eligible State through the application of subsection (c)(4)), an amount each quarter equal to the Federal medical assistance percentage of expenditures in the quarter during such period for medical assistance described in subsection (a). Payments made to a State for emergency psychiatric demonstration services under this section during the extension period shall be treated as medical assistance under the State plan for purposes of section 1903(a)(1) of the Social Security Act ([42 U.S.C. 1396b(a)(1)][/us/usc/t42/s1396b/a/1]). As a condition of receiving payment, a State shall collect and report information, as determined necessary by the Secretary, for the purposes of providing Federal oversight and conducting an evaluation under subsection (f)(1).
 
->         “(4)  __Funds allocated to states__  __.—__ 
-
->         Funds shall be allocated to eligible States on the basis of criteria, including a State’s application and the availability of funds, as determined by the Secretary.
-
->         “(5)  __Payments to states__  __.—__ 
-
->         The Secretary shall pay to each eligible State, from its allocation under paragraph (4), an amount each quarter equal to the Federal medical assistance percentage of expenditures in the quarter for medical assistance described in subsection (a). As a condition of receiving payment, a State shall collect and report information, as determined necessary by the Secretary, for the purposes of providing Federal oversight and conducting an evaluation under subsection (f)(1).
-
->     “(f) __Evaluation and Report to Congress.—__ 
+>     “(f) __Evaluation, Report, and Recommendations to Congress.—__ 
 
 >         “(1)  __Evaluation__  __.—__ 
 
@@ -4622,6 +4664,40 @@
 >         “(2)  __Report__  __.—__ 
 
 >         Not later than December 31, 2013, the Secretary shall submit to Congress and make available to the public a report on the findings of the evaluation under paragraph (1).
+
+>         “(3)  __Recommendation to congress regarding extension and expansion of project__  __.—__ 
+
+>         Not later than September 30, 2016, the Secretary shall submit to Congress and make available to the public recommendations based on an evaluation of the demonstration project, including the use of appropriate quality measures, regarding—
+
+>             “(A) whether the demonstration project should be continued after September 30, 2016; and
+
+>             “(B) whether the demonstration project should be expanded to additional States.
+
+>         “(4) __Recommendation to congress regarding permanent extension and nationwide expansion.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             Not later than April 1, 2019, the Secretary shall submit to Congress and make available to the public recommendations based on an evaluation of the demonstration project, including the use of appropriate quality measures, regarding—
+
+>                 “(i) whether the demonstration project should be permanently continued after December 31, 2019, in 1 or more States; and
+
+>                 “(ii) whether the demonstration project should be expanded (including on a nationwide basis).
+
+>             “(B)  __Requirements__  __.—__ 
+
+>             Any recommendation submitted under subparagraph (A) to permanently continue the project in a State, or to expand the project to 1 or more other States (including on a nationwide basis) shall include a certification from the Chief Actuary of the Centers for Medicare & Medicaid Services that permanently continuing the project in a particular State, or expanding the project to a particular State (or all States) is projected not to increase net program spending under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\].
+
+>             “(C)  __Congressional approval required__  __.—__ 
+
+>             The Secretary shall not permanently continue the demonstration project in any State after December 31, 2019, or expand the demonstration project to any additional State after December 31, 2019, unless Congress enacts a law approving either or both such actions and the law includes provisions that—
+
+>                 “(i) ensure that each State’s participation in the project complies with budget neutrality requirements; and
+
+>                 “(ii) require the Secretary to treat any expenditures of a State participating in the demonstration project that are excess of the expenditures projected under the budget neutrality standard for the State as an overpayment under title XIX of the Social Security Act.
+
+>         “(5)  __Funding__  __.—__ 
+
+>         Of the unobligated balances of amounts available in the Centers for Medicare & Medicaid Services Program Management account, $100,000 shall be available to carry out this subsection and shall remain available until expended.
 
 >     “(g) __Waiver Authority.—__ 
 
@@ -4660,6 +4736,12 @@
 >         “(6)  __State__  __.—__ 
 
 >         The term ‘State’ has the meaning given that term for purposes of title XIX of the Social Security Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.).”
+
+\[[Pub. L. 114–97, § 2(e)][/us/pl/114/97/s2/e], Dec. 11, 2015, [129 Stat. 2198][/us/stat/129/2198], provided that: 
+
+> “The amendments made by this section \[amending [section 2707 of Pub. L. 111–148][/us/pl/111/148/s2707], set out above\] shall take effect on the date of the enactment of this Act \[Dec. 11, 2015\].”
+
+\]
 
  __Incentives for Prevention of Chronic Diseases in Medicaid__ 
 
@@ -8266,8 +8348,15 @@
 [/us/usc/t42/s1397aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397aa
 [/us/pl/111/148/s2707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2707
 [/us/stat/124/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F326
+[/us/pl/114/97/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F97%2Fs2%2Fa
+[/us/stat/129/2194-2197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2194-2197
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1395dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395dd
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1396b/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b%2Fa%2F1
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1396d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fa
 [/us/usc/t42/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1301
 [/us/usc/t42/s1396a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F1
@@ -8276,6 +8365,9 @@
 [/us/usc/t42/s1396d/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fi
 [/us/usc/t42/s1396d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fa
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/pl/114/97/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F97%2Fs2%2Fe
+[/us/stat/129/2198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2198
+[/us/pl/111/148/s2707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2707
 [/us/pl/111/148/s4108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4108
 [/us/stat/124/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F561
 [/us/usc/t42/s1396a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F1

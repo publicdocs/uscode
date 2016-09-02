@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch23/dA/schV/m__us_usc_t42_s2077.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schVI/m__us_usc_t42_ch23_dA_schVI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2078)
+[Previous](./../../../../../..//us/usc/t42/ch23/dA/schV/m__us_usc_t42_s2077a.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schVI/m__us_usc_t42_ch23_dA_schVI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2078)
 
 ## § 2078. Congressional review of guaranteed purchase price, guaranteed purchase price period, and criteria for waiver of charges
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch23/dA/schV/m__us_usc_t42_s2077.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schVI/m__us_usc_t42_ch23_dA_schVI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2078)
+[Previous](./../../../../../..//us/usc/t42/ch23/dA/schV/m__us_usc_t42_s2077a.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schVI/m__us_usc_t42_ch23_dA_schVI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2078)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch21D/m__us_usc_t42_s2000dd–1.md) | [Next](./../../../..//us/usc/t42/ch21E/m__us_usc_t42_s2000ee.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch21E)
+[Previous](./../../../..//us/usc/t42/ch21D/m__us_usc_t42_s2000dd–2.md) | [Next](./../../../..//us/usc/t42/ch21E/m__us_usc_t42_s2000ee.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch21E)
 
 ## CHAPTER 21E—PRIVACY AND CIVIL LIBERTIES PROTECTION AND OVERSIGHT
 
@@ -59,7 +59,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch21D/m__us_usc_t42_s2000dd–1.md) | [Next](./../../../..//us/usc/t42/ch21E/m__us_usc_t42_s2000ee.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch21E)
+[Previous](./../../../..//us/usc/t42/ch21D/m__us_usc_t42_s2000dd–2.md) | [Next](./../../../..//us/usc/t42/ch21E/m__us_usc_t42_s2000ee.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch21E)
 
 ----------
 ----------

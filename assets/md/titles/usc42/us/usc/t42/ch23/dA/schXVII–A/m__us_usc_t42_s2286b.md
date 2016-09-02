@@ -37,7 +37,7 @@
 
          The Board may, for the purpose of performing its responsibilities under this subchapter—
 
-            (A) hire such staff as it considers necessary to perform the functions of the Board, including such scientific and technical personnel as the Board may determine necessary, but not more than the equivalent of 150 full-time employees; and
+            (A) in accordance with [section 2286(c)(7) of this title][/us/usc/t42/s2286/c/7], hire such staff as it considers necessary to perform the functions of the Board, including such scientific and technical personnel as the Board may determine necessary, but not more than the equivalent of 130 full-time employees; and
 
             (B) procure the temporary and intermittent services of experts and consultants to the extent authorized by [section 3109(b) of title 5][/us/usc/t5/s3109/b] at rates the Board determines to be reasonable.
 
@@ -79,17 +79,15 @@
 
         (2) suggestions for specific measures to improve the content of standards described in [section 2286a(b)(1) of this title][/us/usc/t42/s2286a/b/1], the implementation of such standards, or research relating to such standards at Department of Energy defense nuclear facilities.
 
-([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 313, as added [Pub. L. 100–456, div. A, title XIV, § 1441(a)(1)][/us/pl/100/456/s1441/a/1], Sept. 29, 1988, [102 Stat. 2079][/us/stat/102/2079]; amended [Pub. L. 101–510, div. C, title XXXII, § 3202][/us/pl/101/510/s3202], Nov. 5, 1990, [104 Stat. 1844][/us/stat/104/1844]; [Pub. L. 102–190, div. C, title XXXII, § 3202(a)][/us/pl/102/190/s3202/a], Dec. 5, 1991, [105 Stat. 1582][/us/stat/105/1582]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 112–239, div. C, title XXXII, § 3202(g)][/us/pl/112/239/s3202/g], Jan. 2, 2013, [126 Stat. 2220][/us/stat/126/2220]; [Pub. L. 113–291, div. C, title XXXII, § 3203(a)][/us/pl/113/291/s3203/a], Dec. 19, 2014, [128 Stat. 3903][/us/stat/128/3903].)
-
- __Amendment of Subsection (b)(1)(A)__ 
-
-    [Pub. L. 113–291, div. C, title XXXII, § 3203][/us/pl/113/291/s3203], Dec. 19, 2014, [128 Stat. 3903][/us/stat/128/3903], provided that, effective Oct. 1, 2015, subsection (b)(1)(A) of this section is amended by striking “150 full-time employees” and inserting “130 full-time employees”.
+([Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], title I, § 313, as added [Pub. L. 100–456, div. A, title XIV, § 1441(a)(1)][/us/pl/100/456/s1441/a/1], Sept. 29, 1988, [102 Stat. 2079][/us/stat/102/2079]; amended [Pub. L. 101–510, div. C, title XXXII, § 3202][/us/pl/101/510/s3202], Nov. 5, 1990, [104 Stat. 1844][/us/stat/104/1844]; [Pub. L. 102–190, div. C, title XXXII, § 3202(a)][/us/pl/102/190/s3202/a], Dec. 5, 1991, [105 Stat. 1582][/us/stat/105/1582]; renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)][/us/pl/102/486/s902/a/8], Oct. 24, 1992, [106 Stat. 2944][/us/stat/106/2944]; [Pub. L. 112–239, div. C, title XXXII, § 3202(g)][/us/pl/112/239/s3202/g], Jan. 2, 2013, [126 Stat. 2220][/us/stat/126/2220]; [Pub. L. 113–291, div. C, title XXXII, § 3203(a)][/us/pl/113/291/s3203/a], Dec. 19, 2014, [128 Stat. 3903][/us/stat/128/3903]; [Pub. L. 114–92, div. C, title XXXII, § 3202(b)(2)][/us/pl/114/92/s3202/b/2], Nov. 25, 2015, [129 Stat. 1218][/us/stat/129/1218].)
 
  __References in Text__ 
 
     The Federal Rules of Civil Procedure, referred to in subsec. (a)(2)(D), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
  __Amendments__ 
+
+    2015—Subsec. (b)(1)(A). [Pub. L. 114–92][/us/pl/114/92] substituted “in accordance with [section 2286(c)(7) of this title][/us/usc/t42/s2286/c/7], hire” for “hire”.
 
     2014—Subsec. (b)(1)(A). [Pub. L. 113–291][/us/pl/113/291] substituted “130 full-time employees” for “150 full-time employees”.
 
@@ -114,6 +112,7 @@
 ----------
 ----------
 
+[/us/usc/t42/s2286/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2286%2Fc%2F7
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
 [/us/usc/t42/s2201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2201%2Fd
 [/us/usc/t42/s2286a/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2286a%2Fb%2F1
@@ -130,8 +129,10 @@
 [/us/stat/126/2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2220
 [/us/pl/113/291/s3203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3203%2Fa
 [/us/stat/128/3903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3903
-[/us/pl/113/291/s3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3203
-[/us/stat/128/3903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3903
+[/us/pl/114/92/s3202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3202%2Fb%2F2
+[/us/stat/129/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1218
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/usc/t42/s2286/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2286%2Fc%2F7
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t42/s2286a/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2286a%2Fb%2F1

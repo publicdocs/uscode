@@ -21,6 +21,10 @@
 
  __Short Title of 2015 Amendment__ 
 
+[Pub. L. 114–97, § 1][/us/pl/114/97/s1], Dec. 11, 2015, [129 Stat. 2194][/us/stat/129/2194], provided that: 
+
+> “This Act \[enacting and amending provisions set out as notes under [section 1396a of this title][/us/usc/t42/s1396a]\] may be cited as the ‘Improving Access to Emergency Psychiatric Care Act’.”
+
 [Pub. L. 114–74, title VIII, § 801][/us/pl/114/74/s801], Nov. 2, 2015, [129 Stat. 601][/us/stat/129/601], provided that: 
 
 > “This title \[enacting sections 1320a–6a and 1320e–3 of this title, amending sections 401, 402, 404, 405, 408, 417, 421 to 423, 425 to 426–1, 434, 904, 1011, 1320a–8, 1320b–10, 1383, and 1383a of this title and [section 901 of Title 2][/us/usc/t2/s901], The Congress, and enacting provisions set out as notes under sections 401, 402, 404, 421, 423, 425, 904, 1320a–6a, and 1320e–3 of this title\] may be cited as the ‘Social Security Benefit Protection and Opportunity Enhancement Act of 2015’.”
@@ -564,6 +568,9 @@
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F648
+[/us/pl/114/97/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F97%2Fs1
+[/us/stat/129/2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2194
+[/us/usc/t42/s1396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a
 [/us/pl/114/74/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs801
 [/us/stat/129/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F601
 [/us/usc/t2/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901

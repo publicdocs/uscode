@@ -473,6 +473,14 @@ SUBCHAPTER V—SPECIAL NUCLEAR MATERIAL  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2077a" data-uslm-ref="/us/usc/t42/s2077a">2077a.</a>  </td>
+
+    <td> Interagency review of applications for the transfer of United States civil nuclear technology.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2078" data-uslm-ref="/us/usc/t42/s2078">2078.</a>  </td>
 
     <td> Congressional review of guaranteed purchase price, guaranteed purchase price period, and criteria for waiver of charges.  </td>
