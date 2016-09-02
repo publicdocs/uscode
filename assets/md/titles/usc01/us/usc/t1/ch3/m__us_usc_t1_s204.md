@@ -97,6 +97,8 @@ The following titles of the United States Code were enacted into positive law by
 
     Title 51, National and Commercial Space Programs—[Pub. L. 111–314, § 3][/us/pl/111/314/s3], Dec. 18, 2010, [124 Stat. 3328][/us/stat/124/3328].
 
+    Title 54, National Park Service and Related Programs—[Pub. L. 113–287, § 3][/us/pl/113/287/s3], Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094].
+
  __Title 26, Internal Revenue Code__ 
 
     The Internal Revenue Code of 1954 was enacted in the form of a separate code by [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 1][/us/stat/68A/1]. [Pub. L. 99–514, § 2(a)][/us/pl/99/514/s2/a], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that the Internal Revenue Title enacted Aug. 16, 1954, as heretofore, hereby, or hereafter amended, may be cited as the “Internal Revenue Code of 1986”. The sections of Title 26, United States Code, are identical to the sections of the Internal Revenue Code.
@@ -178,6 +180,8 @@ The following titles of the United States Code were enacted into positive law by
 [/us/stat/108/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F745
 [/us/pl/111/314/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs3
 [/us/stat/124/3328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3328
+[/us/pl/113/287/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs3
+[/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F1
 [/us/pl/99/514/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2%2Fa
