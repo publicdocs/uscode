@@ -51,7 +51,7 @@
 
                     (IV) Division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
-                    (V) [Section 13 of the Act of Oct. 3, 1944][/us/act/1944-10-03/s13] ([58 Stat. 770][/us/stat/58/770]; chapter 479) \[50 U.S.C. App. 1622\].
+                    (V) [Section 13 of the Act of Oct. 3, 1944][/us/act/1944-10-03/s13] ([58 Stat. 770][/us/stat/58/770]; chapter 479) \[[40 U.S.C. 545][/us/usc/t40/s545] note\].
 
                     (VI) Chapters 21, 25, 27, 29, and 31 of title 44.
 
@@ -329,6 +329,7 @@
 [/us/stat/60/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F809
 [/us/act/1944-10-03/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-10-03%2Fs13
 [/us/stat/58/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F770
+[/us/usc/t40/s545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs545
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f

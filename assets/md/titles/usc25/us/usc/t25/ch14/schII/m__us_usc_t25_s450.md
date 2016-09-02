@@ -73,17 +73,17 @@
 
 [Pub. L. 100–472, title I, § 101][/us/pl/100/472/s101], Oct. 5, 1988, [102 Stat. 2285][/us/stat/102/2285], provided that: 
 
-> “This Act \[enacting sections 450j–1 and 450m–1 of this title, amending sections 13a, 450a to 450c, 450f to 450j, 450k, and 450n of this title, sections 3371 and 3372 of Title 5, Government Organization and Employees, sections 2004b and 4762 of Title 42, The Public Health and Welfare, and section 456 of the Appendix to Title 50, War and National Defense, transferring section 450l of this title to [section 450c(f) of this title][/us/usc/t25/s450c/f], and enacting provisions set out as notes under this section and [section 450f of this title][/us/usc/t25/s450f]\] may be cited as the ‘Indian Self-Determination and Education Assistance Act Amendments of 1988’.”
+> “This Act \[enacting sections 450j–1 and 450m–1 of this title, amending sections 13a, 450a to 450c, 450f to 450j, 450k, and 450n of this title, sections 3371 and 3372 of Title 5, Government Organization and Employees, sections 2004b and 4762 of Title 42, The Public Health and Welfare, and [section 3806 of Title 50][/us/usc/t50/s3806], War and National Defense, transferring section 450l of this title to [section 450c(f) of this title][/us/usc/t25/s450c/f], and enacting provisions set out as notes under this section and [section 450f of this title][/us/usc/t25/s450f]\] may be cited as the ‘Indian Self-Determination and Education Assistance Act Amendments of 1988’.”
 
  __Short Title__ 
 
 [Pub. L. 93–638, § 1][/us/pl/93/638/s1], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], provided: 
 
-> “That this Act \[enacting this subchapter, [section 13a of this title][/us/usc/t25/s13a], and [section 2004b of Title 42][/us/usc/t42/s2004b], The Public Health and Welfare, amending [section 3371 of Title 5][/us/usc/t5/s3371], Government Organization and Employees, [section 4762 of Title 42][/us/usc/t42/s4762], and [section 456 of Title 50][/us/usc/t50/s456], Appendix, War and National Defense, and enacting provisions set out as notes under sections 450f, 455, and 457 of this title\] may be cited as the ‘Indian Self-Determination and Education Assistance Act’.”
+> “That this Act \[enacting this subchapter, [section 13a of this title][/us/usc/t25/s13a], and [section 2004b of Title 42][/us/usc/t42/s2004b], The Public Health and Welfare, amending [section 3371 of Title 5][/us/usc/t5/s3371], Government Organization and Employees, [section 4762 of Title 42][/us/usc/t42/s4762], and [section 3806 of Title 50][/us/usc/t50/s3806], War and National Defense, and enacting provisions set out as notes under sections 450f, 455, and 457 of this title\] may be cited as the ‘Indian Self-Determination and Education Assistance Act’.”
 
 [Pub. L. 93–638, title I, § 101][/us/pl/93/638/s101], Jan. 4, 1975, [88 Stat. 2206][/us/stat/88/2206], provided that: 
 
-> “This title \[enacting part A (§ 450f et seq.) of this subchapter and [section 2004b of Title 42][/us/usc/t42/s2004b], The Public Health and Welfare, and amending [section 3371 of Title 5][/us/usc/t5/s3371], Government Organization and Employees, [section 4762 of Title 42][/us/usc/t42/s4762], and section 456 of the Appendix to Title 50, War and National Defense\] may be cited as the ‘Indian Self-Determination Act’.”
+> “This title \[enacting part A (§ 450f et seq.) of this subchapter and [section 2004b of Title 42][/us/usc/t42/s2004b], The Public Health and Welfare, and amending [section 3371 of Title 5][/us/usc/t5/s3371], Government Organization and Employees, [section 4762 of Title 42][/us/usc/t42/s4762], and [section 3806 of Title 50][/us/usc/t50/s3806], War and National Defense\] may be cited as the ‘Indian Self-Determination Act’.”
 
 [Pub. L. 93–638, title II, § 201][/us/pl/93/638/s201], Jan. 4, 1975, [88 Stat. 2213][/us/stat/88/2213], provided that: 
 
@@ -425,6 +425,7 @@ In order to ensure that the rights of sovereign tribal governments are fully res
 [/us/usc/t25/s450h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450h
 [/us/pl/100/472/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs101
 [/us/stat/102/2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2285
+[/us/usc/t50/s3806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3806
 [/us/usc/t25/s450c/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450c%2Ff
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
 [/us/pl/93/638/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs1
@@ -433,12 +434,13 @@ In order to ensure that the rights of sovereign tribal governments are fully res
 [/us/usc/t42/s2004b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2004b
 [/us/usc/t5/s3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3371
 [/us/usc/t42/s4762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4762
-[/us/usc/t50/s456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs456
+[/us/usc/t50/s3806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3806
 [/us/pl/93/638/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs101
 [/us/stat/88/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2206
 [/us/usc/t42/s2004b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2004b
 [/us/usc/t5/s3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3371
 [/us/usc/t42/s4762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4762
+[/us/usc/t50/s3806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3806
 [/us/pl/93/638/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs201
 [/us/stat/88/2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2213
 [/us/usc/t25/s457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs457

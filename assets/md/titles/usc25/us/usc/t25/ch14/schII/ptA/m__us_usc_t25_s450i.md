@@ -69,7 +69,7 @@
 
  __Codification__ 
 
-    Section is comprised of [section 104 of Pub. L. 93–638][/us/pl/93/638/s104]. Subsecs. (a) to (d) of [section 104 of Pub. L. 93–638][/us/pl/93/638/s104] are classified to [section 3371 of Title 5][/us/usc/t5/s3371], Government Organization and Employees, [section 2004b of Title 42][/us/usc/t42/s2004b], The Public Health and Welfare, [section 456 of Title 50][/us/usc/t50/s456], Appendix, War and National Defense, and [section 4762 of Title 42][/us/usc/t42/s4762], respectively. Subsecs. (k) and (l) of [section 104 of Pub. L. 93–638][/us/pl/93/638/s104] are classified to [section 3372 of Title 5][/us/usc/t5/s3372].
+    Section is comprised of [section 104 of Pub. L. 93–638][/us/pl/93/638/s104]. Subsecs. (a) to (d) of [section 104 of Pub. L. 93–638][/us/pl/93/638/s104] are classified to [section 3371 of Title 5][/us/usc/t5/s3371], Government Organization and Employees, [section 2004b of Title 42][/us/usc/t42/s2004b], The Public Health and Welfare, [section 3806 of Title 50][/us/usc/t50/s3806], War and National Defense, and [section 4762 of Title 42][/us/usc/t42/s4762], respectively. Subsecs. (k) and (l) of [section 104 of Pub. L. 93–638][/us/pl/93/638/s104] are classified to [section 3372 of Title 5][/us/usc/t5/s3372].
 
  __Prior Provisions__ 
 
@@ -153,7 +153,7 @@
 [/us/pl/93/638/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs104
 [/us/usc/t5/s3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3371
 [/us/usc/t42/s2004b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2004b
-[/us/usc/t50/s456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs456
+[/us/usc/t50/s3806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3806
 [/us/usc/t42/s4762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4762
 [/us/pl/93/638/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638%2Fs104
 [/us/usc/t5/s3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3372
