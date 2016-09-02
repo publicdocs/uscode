@@ -21,8 +21,6 @@
 
  __Codification__ 
 
-    Section is comprised of subsec. (a) of [section 12309 of Pub. L. 113–79][/us/pl/113/79/s12309]. Subsec. (b) of section 12309 is not classified to the Code.
-
     Section was enacted as part of the Agricultural Act of 2014, and not as part of the Tariff Act of 1930 which comprises this chapter.
 
 ----------
@@ -34,6 +32,5 @@
 
 [/us/pl/113/79/s12309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12309%2Fa
 [/us/stat/128/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F991
-[/us/pl/113/79/s12309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12309
 
 
