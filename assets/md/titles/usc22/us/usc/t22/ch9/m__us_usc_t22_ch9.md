@@ -305,7 +305,7 @@ Proclamations Respecting War and Neutrality  </td>
 
 </table>
 
-    See notes preceding [section 1 of Title 50][/us/usc/t50/s1], Appendix, War and National Defense.
+    See notes preceding [section 1 of Title 50][/us/usc/t50/s1], War and National Defense.
 
 ----------
 

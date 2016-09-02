@@ -35,7 +35,7 @@
 
         (A) controlled on the United States Munitions List established under [section 2778 of this title][/us/usc/t22/s2778];
 
-        (B) controlled on any control list established under the Export Administration Act of 1979 or any successor statute (50 U.S.C. App. 2401 et seq.); or
+        (B) controlled on any control list established under the Export Administration Act of 1979 or any successor statute (50 U.S.C. App. 2401 et seq.) \[now [50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\]; or
 
         (C) used to facilitate the design, development, or production of chemical or biological weapons, missiles, or weapons of mass destruction.
 
@@ -43,7 +43,7 @@
 
  __References in Text__ 
 
-    The Export Administration Act of 1979, referred to in par. (2)(B), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2401 of Title 50][/us/usc/t50/s2401], Appendix, and Tables.
+    The Export Administration Act of 1979, referred to in par. (2)(B), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -59,13 +59,13 @@
 [/us/usc/t22/s7202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7202
 [/us/usc/t22/s7202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7202
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
 [/us/pl/107/56/s221/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs221%2Fa%2F1
 [/us/stat/115/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F292
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
-[/us/usc/t50/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2401
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 
 

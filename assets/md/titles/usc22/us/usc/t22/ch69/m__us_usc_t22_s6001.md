@@ -39,19 +39,19 @@
 
 [Pub. L. 102–484, div. A, title XVII, § 1712][/us/pl/102/484/s1712], Oct. 23, 1992, [106 Stat. 2581][/us/stat/106/2581], provided that: 
 
-> “This title \[enacting this chapter, amending [section 16 of Title 50][/us/usc/t50/s16], Appendix, War and National Defense, and enacting provisions set out as a note below\] shall take effect on the date of the enactment of this Act \[Oct. 23, 1992\].”
+> “This title \[enacting this chapter, amending [section 4315 of Title 50][/us/usc/t50/s4315], War and National Defense, and enacting provisions set out as a note below\] shall take effect on the date of the enactment of this Act \[Oct. 23, 1992\].”
 
  __Short Title__ 
 
 [Pub. L. 102–484, div. A, title XVII, § 1701][/us/pl/102/484/s1701], Oct. 23, 1992, [106 Stat. 2575][/us/stat/106/2575], provided that: 
 
-> “This title \[enacting this chapter, amending [section 16 of Title 50][/us/usc/t50/s16], Appendix, War and National Defense, and enacting provisions set out as a note above\] may be cited as the ‘Cuban Democracy Act of 1992’.”
+> “This title \[enacting this chapter, amending [section 4315 of Title 50][/us/usc/t50/s4315], War and National Defense, and enacting provisions set out as a note above\] may be cited as the ‘Cuban Democracy Act of 1992’.”
 
  __Ex. Ord. No. 12854. Implementation of Cuban Democracy Act__ 
 
     Ex. Ord. No. 12854, July 4, 1993, 58 F.R. 36587, provided:
 
-    By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Trading with the Enemy Act, as amended (50 U.S.C. App. 1–6, 7–39, 41–44), the Cuban Democracy Act of 1992 ([Public Law 102–484][/us/pl/102/484], sections 1701–1712, October 23, 1992, [106 Stat. 2575][/us/stat/106/2575]) (the “Act”) \[[22 U.S.C. 6001][/us/usc/t22/s6001] et seq.\], and [section 301 of title 3][/us/usc/t3/s301], United States Code,
+    By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Trading with the Enemy Act, as amended (50 U.S.C. App. 1–6, 7–39, 41–44)) \[now [50 U.S.C. 4301][/us/usc/t50/s4301] et seq.\], the Cuban Democracy Act of 1992 ([Public Law 102–484][/us/pl/102/484], sections 1701–1712, October 23, 1992, [106 Stat. 2575][/us/stat/106/2575]) (the “Act”) \[[22 U.S.C. 6001][/us/usc/t22/s6001] et seq.\], and [section 301 of title 3][/us/usc/t3/s301], United States Code,
 
     I, WILLIAM J. CLINTON, President of the United States of America, hereby order:
 
@@ -82,10 +82,11 @@
 [/us/stat/106/2575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2575
 [/us/pl/102/484/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1712
 [/us/stat/106/2581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2581
-[/us/usc/t50/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs16
+[/us/usc/t50/s4315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4315
 [/us/pl/102/484/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1701
 [/us/stat/106/2575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2575
-[/us/usc/t50/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs16
+[/us/usc/t50/s4315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4315
+[/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/stat/106/2575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2575
 [/us/usc/t22/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6001

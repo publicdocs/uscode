@@ -47,7 +47,7 @@
 
          Ordering the heads of the appropriate United States agencies not to issue any (or a specified number of) specific licenses, and not to grant any other specific authority (or a specified number of authorities), to export any goods or technology to the specific foreign government, agency, instrumentality, or official found or determined by the President to be responsible for violations under section 6441 or 6442 of this title, under—
 
-            (A) the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\];
+            (A) the Export Administration Act of 1979 \[[50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\];
 
             (B) the Arms Export Control Act \[[22 U.S.C. 2751][/us/usc/t22/s2751] et seq.\];
 
@@ -75,7 +75,7 @@
 
  __References in Text__ 
 
-    The Export Administration Act of 1979, referred to in subsec. (a)(13)(A), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+    The Export Administration Act of 1979, referred to in subsec. (a)(13)(A), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
     The Arms Export Control Act, referred to in subsec. (a)(13)(B), is [Pub. L. 90–629][/us/pl/90/629], Oct. 22, 1968, [82 Stat. 1320][/us/stat/82/1320], as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title][/us/usc/t22/s2751] and Tables.
 
@@ -91,6 +91,7 @@
 [/us/usc/t22/s2151n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151n
 [/us/usc/t22/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2304
 [/us/usc/t22/s262d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262d
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/usc/t22/s6401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6401%2Fb

@@ -41,7 +41,7 @@
 
         (1) __Designated foreign government__ 
 
-            As used in this section, the term “designated foreign government” means a foreign government that the Secretary of State has determined, for purposes of [section 2405(j)(1) of title 50][/us/usc/t50/s2405/j/1], Appendix, has repeatedly provided support for acts of international terrorism.
+            As used in this section, the term “designated foreign government” means a foreign government that the Secretary of State has determined, for purposes of [section 4605(j)(1) of title 50][/us/usc/t50/s4605/j/1], has repeatedly provided support for acts of international terrorism.
 
         (2) __Security forces__ 
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/usc/t50/s2405/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2405%2Fj%2F1
+[/us/usc/t50/s4605/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
 [/us/pl/99/399/s506/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs506%2F2
 [/us/stat/100/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F871

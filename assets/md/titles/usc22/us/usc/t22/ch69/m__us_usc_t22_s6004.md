@@ -17,7 +17,7 @@
 
     (a) __Provisions of law affected__ 
 
-        The provisions of this section apply notwithstanding any other provision of law, including [section 2370(a) of this title][/us/usc/t22/s2370/a], and notwithstanding the exercise of authorities, before October 23, 1992, under section 5(b) of the Trading With the Enemy Act \[[12 U.S.C. 95a][/us/usc/t12/s95a], 50 U.S.C. App. 5(b)\], the International Emergency Economic Powers Act \[[50 U.S.C. 1701][/us/usc/t50/s1701] et seq.\], or the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\].
+        The provisions of this section apply notwithstanding any other provision of law, including [section 2370(a) of this title][/us/usc/t22/s2370/a], and notwithstanding the exercise of authorities, before October 23, 1992, under section 5(b) of the Trading With the Enemy Act \[[50 U.S.C. 4305(b)][/us/usc/t50/s4305/b]\], the International Emergency Economic Powers Act \[[50 U.S.C. 1701][/us/usc/t50/s1701] et seq.\], or the Export Administration Act of 1979 \[[50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\].
 
     (b) __Donations of food__ 
 
@@ -59,7 +59,7 @@
 
         (3) __Licensing of payments to Cuba__ 
 
-            (A) The President may provide for the issuance of licenses for the full or partial payment to Cuba of amounts due Cuba as a result of the provision of telecommunications services authorized by this subsection, in a manner that is consistent with the public interest and the purposes of this chapter, except that this paragraph shall not require any withdrawal from any account blocked pursuant to regulations issued under section 5(b) of the Trading With the Enemy Act \[[12 U.S.C. 95a][/us/usc/t12/s95a], 50 U.S.C. App. 5(b)\].
+            (A) The President may provide for the issuance of licenses for the full or partial payment to Cuba of amounts due Cuba as a result of the provision of telecommunications services authorized by this subsection, in a manner that is consistent with the public interest and the purposes of this chapter, except that this paragraph shall not require any withdrawal from any account blocked pursuant to regulations issued under section 5(b) of the Trading With the Enemy Act \[[50 U.S.C. 4305(b)][/us/usc/t50/s4305/b]\].
 
             (B) If only partial payments are made to Cuba under subparagraph (A), the amounts withheld from Cuba shall be deposited in an account in a banking institution in the United States. Such account shall be blocked in the same manner as any other account containing funds in which Cuba has any interest, pursuant to regulations issued under section 5(b) of the Trading With the Enemy Act.
 
@@ -93,7 +93,7 @@
 
     The International Emergency Economic Powers Act, referred to in subsec. (a), is title II of [Pub. L. 95–223][/us/pl/95/223], Dec. 28, 1977, [91 Stat. 1626][/us/stat/91/1626], which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50][/us/usc/t50/s1701] and Tables.
 
-    The Export Administration Act of 1979, referred to in subsec. (a), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+    The Export Administration Act of 1979, referred to in subsec. (a), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -111,10 +111,11 @@
 ----------
 
 [/us/usc/t22/s2370/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370%2Fa
-[/us/usc/t12/s95a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs95a
+[/us/usc/t50/s4305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305%2Fb
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t50/s1702/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1702%2Fb%2F2
-[/us/usc/t12/s95a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs95a
+[/us/usc/t50/s4305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305%2Fb
 [/us/pl/102/484/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1705
 [/us/stat/106/2577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2577
 [/us/pl/104/114/s102/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs102%2Fg

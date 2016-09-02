@@ -39,7 +39,7 @@
 
 [Pub. L. 103–199, § 1][/us/pl/103/199/s1], Dec. 17, 1993, [107 Stat. 2317][/us/stat/107/2317], provided that: 
 
-> “This Act \[amending sections 295, 2301, 2364, 2370, 2460, 2461, 2578, 2591, 2592, 2595, 2799c, 2799d, 4501 to 4504, 4702, and 4901 of this title, [section 4101 of Title 15][/us/usc/t15/s4101], Commerce and Trade, sections 1151 and 1152 of Title 16, Conservation, [section 951 of Title 18][/us/usc/t18/s951], Crimes and Criminal Procedure, [section 783 of Title 50][/us/usc/t50/s783], War and National Defense, and sections 2401 and 2402 of Title 50, Appendix, repealing sections 254c–2, 2592a, and 2592b of this title, sections 781, 782, 784, 785, 788 to 795, and 798 of Title 50, and [section 2403–1 of Title 50][/us/usc/t50/s2403–1], Appendix, enacting provisions set out as notes under this section, sections 113 and 2431 of Title 10, Armed Forces, and [section 2402 of Title 50][/us/usc/t50/s2402], Appendix, amending provisions set out as notes under [section 4501 of this title][/us/usc/t22/s4501], [section 113 of Title 10][/us/usc/t10/s113], [section 2901 of Title 15][/us/usc/t15/s2901], and section 1003 of former Title 40, Public Buildings, Property, and Works, and repealing provisions set out as notes under sections 287, 2151, 2293, 2458, and 4301 of this title, [section 1307 of Title 19][/us/usc/t19/s1307], Customs Duties, and [section 781 of Title 50][/us/usc/t50/s781]\] may be cited as the ‘Act For Reform In Emerging New Democracies and Support and Help for Improved Partnership with Russia, Ukraine, and Other New Independent States’ or as the ‘FRIENDSHIP Act’.”
+> “This Act \[amending sections 295, 2301, 2364, 2370, 2460, 2461, 2578, 2591, 2592, 2595, 2799c, 2799d, 4501 to 4504, 4702, and 4901 of this title, [section 4101 of Title 15][/us/usc/t15/s4101], Commerce and Trade, sections 1151 and 1152 of Title 16, Conservation, [section 951 of Title 18][/us/usc/t18/s951], Crimes and Criminal Procedure, and sections 783, 4601, and 4602 of Title 50, War and National Defense, repealing sections 254c–2, 2592a, and 2592b of this title, sections 781, 782, 784, 785, 788 to 795, and 798 of Title 50, and former section 2403–1 of the former Appendix to Title 50, enacting provisions set out as notes under this section, sections 113 and 2431 of Title 10, Armed Forces, and [section 4602 of Title 50][/us/usc/t50/s4602], amending provisions set out as notes under [section 4501 of this title][/us/usc/t22/s4501], [section 113 of Title 10][/us/usc/t10/s113], [section 2901 of Title 15][/us/usc/t15/s2901], and section 1003 of former Title 40, Public Buildings, Property, and Works, and repealing provisions set out as notes under sections 287, 2151, 2293, 2458, and 4301 of this title, [section 1307 of Title 19][/us/usc/t19/s1307], Customs Duties, and [section 781 of Title 50][/us/usc/t50/s781]\] may be cited as the ‘Act For Reform In Emerging New Democracies and Support and Help for Improved Partnership with Russia, Ukraine, and Other New Independent States’ or as the ‘FRIENDSHIP Act’.”
 
  __Short Title__ 
 
@@ -97,7 +97,7 @@
 
 >         “(3) section 1222 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 ([Public Law 100–204][/us/pl/100/204]; [101 Stat. 1411][/us/stat/101/1411] \[1414\]),
 
->         “(4) the Multilateral Export Control Enhancement Amendments Act \[see Short Title of 1988 Amendment note set out under [section 2410 of Title 50][/us/usc/t50/s2410], App., War and National Defense\] (50 \[App.\] U.S.C. 2410 note, et seq.),
+>         “(4) the Multilateral Export Control Enhancement Amendments Act (50 \[App.\] U.S.C. 2410 note, et seq.) \[probably means former 50 U.S.C. App. 2410a note, see Short Title of 1988 Amendment note now set out under [section 4601 of Title 50][/us/usc/t50/s4601], War and National Defense\],
 
 >         “(5) the joint resolution providing for the designation of ‘Captive Nations Week’ ([Public Law 86–90][/us/pl/86/90]) \[[73 Stat. 212][/us/stat/73/212]\],
 
@@ -138,9 +138,7 @@
 [/us/stat/107/2317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2317
 [/us/usc/t15/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4101
 [/us/usc/t18/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs951
-[/us/usc/t50/s783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs783
-[/us/usc/t50/s2403–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2403%E2%80%931
-[/us/usc/t50/s2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2402
+[/us/usc/t50/s4602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4602
 [/us/usc/t22/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4501
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
 [/us/usc/t15/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2901
@@ -166,7 +164,7 @@
 [/us/pl/99/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93
 [/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
 [/us/stat/101/1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1411
-[/us/usc/t50/s2410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2410
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/pl/86/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F90
 [/us/stat/73/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F212
 [/us/pl/83/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F83%2F637

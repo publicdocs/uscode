@@ -63,7 +63,7 @@
 
                 (ii) an export license was issued under [section 2139(b) of title 42][/us/usc/t42/s2139/b];
 
-                (iii) approvals were issued under the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\], or [section 2139(b)(3) of title 42][/us/usc/t42/s2139/b/3], for the retransfer of any item, technical data, component, or substance; or
+                (iii) approvals were issued under the Export Administration Act of 1979 \[[50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\], or [section 2139(b)(3) of title 42][/us/usc/t42/s2139/b/3], for the retransfer of any item, technical data, component, or substance; or
 
                 (iv) authorizations were made as required by [section 2077(b)(2) of title 42][/us/usc/t42/s2077/b/2] to engage, directly or indirectly, in the production of special nuclear material;
 
@@ -91,7 +91,7 @@
 
             (C) the progress of those independent states of the former Soviet Union that are non-nuclear-weapon states and of the Baltic states towards achieving the objective of applying full scope safeguards to all their peaceful nuclear activities.
 
-        Portions of the information required by paragraph (6) may be submitted in classified form, as necessary. Any such information that may not be published or disclosed under section 12(c)(1) of the Export Administration Act of 1979 \[50 U.S.C. App. 2411(c)(1)\] shall be submitted as confidential.
+        Portions of the information required by paragraph (6) may be submitted in classified form, as necessary. Any such information that may not be published or disclosed under section 12(c)(1) of the Export Administration Act of 1979 \[[50 U.S.C. 4614(c)(1)][/us/usc/t50/s4614/c/1]\] shall be submitted as confidential.
 
     (b) __Analysis of civil agreements for cooperation__ 
 
@@ -103,7 +103,7 @@
 
     This chapter, referred to in subsec. (a)(4), was in the original “this Act”, meaning [Pub. L. 95–242][/us/pl/95/242], Mar. 10, 1978, [92 Stat. 120][/us/stat/92/120], known as the Nuclear Non-Proliferation Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under [section 3201 of this title][/us/usc/t22/s3201] and Tables.
 
-    The Export Administration Act of 1979, referred to in subsec. (a)(6)(A)(iii), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2401 of Title 50][/us/usc/t50/s2401], Appendix, and Tables.
+    The Export Administration Act of 1979, referred to in subsec. (a)(6)(A)(iii), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -137,6 +137,7 @@
 [/us/usc/t42/s2153c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153c%2Fa
 [/us/usc/t42/s2139a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2139a%2Fc
 [/us/usc/t42/s2139/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2139%2Fb
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t42/s2139/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2139%2Fb%2F3
 [/us/usc/t42/s2077/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2077%2Fb%2F2
 [/us/usc/t22/s6301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6301%2Fa
@@ -156,6 +157,7 @@
 [/us/usc/t22/s2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2375
 [/us/usc/t22/s2753/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2753%2Ff
 [/us/usc/t22/s2780/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780%2Fd
+[/us/usc/t50/s4614/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4614%2Fc%2F1
 [/us/usc/t42/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153
 [/us/pl/95/242/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F242%2Fs601
 [/us/stat/92/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F150
@@ -166,7 +168,6 @@
 [/us/usc/t22/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3201
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
-[/us/usc/t50/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2401
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
 [/us/pl/103/236/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs831

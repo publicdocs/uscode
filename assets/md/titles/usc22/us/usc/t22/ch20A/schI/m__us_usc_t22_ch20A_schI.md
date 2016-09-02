@@ -19,7 +19,7 @@
 
  __Codification__ 
 
-    Sections, [act Oct. 26, 1951, ch. 575][/us/act/1951-10-26/ch575], title I, §§ 101–105, [65 Stat. 645][/us/stat/65/645]; H. Res. 163, Mar. 19, 1975, were superseded, effective October 1, 1979, by [section 2416(e) of Title 50][/us/usc/t50/s2416/e], Appendix, War and National Defense. See section 2401 et seq. of Title 50, Appendix.
+    Sections, [act Oct. 26, 1951, ch. 575][/us/act/1951-10-26/ch575], title I, §§ 101–105, [65 Stat. 645][/us/stat/65/645]; H. Res. 163, Mar. 19, 1975, were superseded, effective October 1, 1979, by [section 4619(e) of Title 50][/us/usc/t50/s4619/e], War and National Defense. See chapter 56 (§ 4601 et seq.) of Title 50.
 
     Section 1611 set forth the Congressional declaration of policy.
 
@@ -33,7 +33,7 @@
 
  __Short Title__ 
 
-    [Act Oct. 26, 1951, ch. 575, § 1][/us/act/1951-10-26/ch575/s1], [65 Stat. 645][/us/stat/65/645], which provided that this chapter be cited as the “Mutual Defense Assistance Control Act of 1951”, was superseded, effective October 1, 1979, by [section 2416(e) of Title 50][/us/usc/t50/s2416/e], Appendix, War and National Defense.
+    [Act Oct. 26, 1951, ch. 575, § 1][/us/act/1951-10-26/ch575/s1], [65 Stat. 645][/us/stat/65/645], which provided that this chapter be cited as the “Mutual Defense Assistance Control Act of 1951”, was superseded, effective October 1, 1979, by [section 4619(e) of Title 50][/us/usc/t50/s4619/e], War and National Defense.
 
 ----------
 
@@ -44,9 +44,9 @@
 
 [/us/act/1951-10-26/ch575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-26%2Fch575
 [/us/stat/65/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F645
-[/us/usc/t50/s2416/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2416%2Fe
+[/us/usc/t50/s4619/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4619%2Fe
 [/us/act/1951-10-26/ch575/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-26%2Fch575%2Fs1
 [/us/stat/65/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F645
-[/us/usc/t50/s2416/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2416%2Fe
+[/us/usc/t50/s4619/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4619%2Fe
 
 

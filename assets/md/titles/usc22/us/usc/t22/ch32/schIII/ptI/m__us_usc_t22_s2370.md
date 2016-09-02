@@ -511,7 +511,7 @@
 
 >     “(1) the President authorized the exchange of notes of May 30, 1977, between the Governments of the United States and Cuba which established an Interests Section for the United States in the Embassy of Switzerland in Havana and an Interests Section for Cuba in the Embassy of Czechoslovakia in Washington;
 
->     “(2) the President has the authority under the Export Administration Act of 1969 \[section 2401 et seq. of the Appendix to Title 50, War and National Defense\] to limit trade with Cuba being conducted by subsidiaries of American firms operating in third countries;
+>     “(2) the President has the authority under the Export Administration Act of 1969 \[[50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\] to limit trade with Cuba being conducted by subsidiaries of American firms operating in third countries;
 
 >     “(3) the President has the power to sever all diplomatic and economic relations with Cuba; and
 
@@ -621,7 +621,7 @@ Similar provisions were contained in the following prior acts:
 
  __Interdiction of the Delivery of Offensive Weapons to Cuba__ 
 
-    For Presidential proclamation prohibiting the delivery of offensive weapons to Cuba, see Proc. No. 3504, Oct. 23, 1962, 27 F.R. 10401, set out as a note preceding section 1 of the Appendix to Title 50, War and National Defense.
+    For Presidential proclamation prohibiting the delivery of offensive weapons to Cuba, see Proc. No. 3504, Oct. 23, 1962, 27 F.R. 10401, set out as a note preceding [section 1 of Title 50][/us/usc/t50/s1], War and National Defense.
 
  __Proc. No. 3447. Embargo on Trade With Cuba__ 
 
@@ -875,6 +875,7 @@ WHEREAS the United States, in accordance with its international obligations, is 
 [/us/stat/92/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F990
 [/us/pl/97/241/s505/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs505%2Fa%2F2
 [/us/stat/96/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F299
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/pl/95/384/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs13%2Fa
 [/us/stat/92/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F737
 [/us/pl/95/92/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F92%2Fs25
@@ -936,6 +937,7 @@ WHEREAS the United States, in accordance with its international obligations, is 
 [/us/stat/80/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1022
 [/us/pl/89/273/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F273%2Fs116
 [/us/stat/79/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1005
+[/us/usc/t50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1
 [/us/stat/75/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F445
 [/us/stat/75/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F445
 

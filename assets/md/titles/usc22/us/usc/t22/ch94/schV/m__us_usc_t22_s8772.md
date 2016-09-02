@@ -59,7 +59,7 @@
 
         The term “blocked asset”—
 
-            (A) means any asset seized or frozen by the United States under section 5(b) of the Appendix to title 50 or under section 202 or 203 of the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] and 1702); and
+            (A) means any asset seized or frozen by the United States under [section 4305(b) of title 50][/us/usc/t50/s4305/b] or under section 202 or 203 of the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] and 1702); and
 
             (B)
 
@@ -118,6 +118,7 @@
 ----------
 ----------
 
+[/us/usc/t50/s4305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305%2Fb
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t22/s287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287

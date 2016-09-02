@@ -315,7 +315,7 @@
 
 >         “(2)  __Foreign government described__  __.—__ 
 
->         A foreign government described in this paragraph is a foreign government that the Secretary of State has determined, for purposes of section 6(j) of the Export Administration Act of 1979 \[50 U.S.C. App. 2405(j)\], section 620A of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2371][/us/usc/t22/s2371]\], section 40 of the Arms Export Control Act \[[22 U.S.C. 2780][/us/usc/t22/s2780]\], or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism.
+>         A foreign government described in this paragraph is a foreign government that the Secretary of State has determined, for purposes of section 6(j) of the Export Administration Act of 1979 \[[50 U.S.C. 4605(j)][/us/usc/t50/s4605/j]\], section 620A of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2371][/us/usc/t22/s2371]\], section 40 of the Arms Export Control Act \[[22 U.S.C. 2780][/us/usc/t22/s2780]\], or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism.
 
 >     “(c)  __Sanctions Described__  __.—__ 
 
@@ -992,6 +992,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t22/s2403/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2403%2Fd
 [/us/pl/109/472/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472%2Fs12
 [/us/stat/120/3558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3558
+[/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
 [/us/usc/t22/s2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151

@@ -27,13 +27,13 @@
 
                 (i) in which acts of international terrorism occurred which were, in the opinion of the Secretary, of major significance;
 
-                (ii) about which the Congress was notified during the preceding five years pursuant to section 2405(j) of the Appendix to title 50; and
+                (ii) about which the Congress was notified during the preceding five years pursuant to [section 4605(j) of title 50][/us/usc/t50/s4605/j]; and
 
                 (iii) which the Secretary determines should be the subject of such report; and
 
             (B) detailed assessments with respect to each foreign country whose territory is being used as a sanctuary for terrorists or terrorist organizations;
 
-        (2) all relevant information about the activities during the preceding year of any terrorist group, and any umbrella group under which such terrorist group falls, known to be responsible for the kidnapping or death of an American citizen during the preceding five years, any terrorist group known to have obtained or developed, or to have attempted to obtain or develop, weapons of mass destruction, any terrorist group known to be financed by countries about which Congress was notified during the preceding year pursuant to section 2405(j) of the Appendix to title 50, any group designated by the Secretary as a foreign terrorist organization under [section 1189 of title 8][/us/usc/t8/s1189], and any other known international terrorist group which the Secretary determines should be the subject of such report;
+        (2) all relevant information about the activities during the preceding year of any terrorist group, and any umbrella group under which such terrorist group falls, known to be responsible for the kidnapping or death of an American citizen during the preceding five years, any terrorist group known to have obtained or developed, or to have attempted to obtain or develop, weapons of mass destruction, any terrorist group known to be financed by countries about which Congress was notified during the preceding year pursuant to [section 4605(j) of title 50][/us/usc/t50/s4605/j], any group designated by the Secretary as a foreign terrorist organization under [section 1189 of title 8][/us/usc/t8/s1189], and any other known international terrorist group which the Secretary determines should be the subject of such report;
 
         (3)
 
@@ -155,7 +155,7 @@
 
              the government of which expressly consents to, or with knowledge, allows, tolerates, or disregards such use of its territory and is not subject to a determination under—
 
-                (i) section 2405(j)(1)(A) of the Appendix to title 50;
+                (i) [section 4605(j)(1)(A) of title 50][/us/usc/t50/s4605/j/1/A];
 
                 (ii) [section 2371(a) of this title][/us/usc/t22/s2371/a]; or
 
@@ -320,7 +320,10 @@
 ----------
 ----------
 
+[/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
+[/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/usc/t8/s1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1189
+[/us/usc/t50/s4605/j/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1%2FA
 [/us/usc/t22/s2371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371%2Fa
 [/us/usc/t22/s2780/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780%2Fd
 [/us/pl/100/204/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs140

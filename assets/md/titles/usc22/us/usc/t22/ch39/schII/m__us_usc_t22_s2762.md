@@ -25,7 +25,7 @@
 
     (c) __Applicability of Renegotiation Act of 1951__ 
 
-        The provisions of the Renegotiation Act of 1951 \[50 U.S.C. App. 1211 et seq.\] do not apply to procurement contracts heretofore or hereafter entered into under this section, [section 2769 of this title][/us/usc/t22/s2769], or predecessor provisions of law.
+        The provisions of the Renegotiation Act of 1951 do not apply to procurement contracts heretofore or hereafter entered into under this section, [section 2769 of this title][/us/usc/t22/s2769], or predecessor provisions of law.
 
     (d) __Competitive pricing__ 
 
@@ -39,7 +39,7 @@
 
     This chapter, referred to in subsec. (b), was in the original “this Act”, meaning [Pub. L. 90–629][/us/pl/90/629], Oct. 22, 1968, [82 Stat. 1321][/us/stat/82/1321], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title][/us/usc/t22/s2751] and Tables.
 
-    The Renegotiation Act of 1951, referred to in subsec. (c), is [act Mar. 23, 1951, ch. 15][/us/act/1951-03-23/ch15], [65 Stat. 7][/us/stat/65/7], as amended, which was classified principally to section 1211 et seq. of Title 50, Appendix, War and National Defense, prior to its omission from the Code. See Codification note set out under [section 1211 of Title 50][/us/usc/t50/s1211], Appendix.
+    The Renegotiation Act of 1951, referred to in subsec. (c), is [act Mar. 23, 1951, ch. 15][/us/act/1951-03-23/ch15], [65 Stat. 7][/us/stat/65/7], as amended, which was classified principally to section 1211 et seq. of the former Appendix to Title 50, War and National Defense, prior to its omission from the Code.
 
  __Amendments__ 
 
@@ -114,7 +114,6 @@ Provisions similar to those comprising subsec. (d)(2) of this section were conta
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/act/1951-03-23/ch15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-03-23%2Fch15
 [/us/stat/65/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F7
-[/us/usc/t50/s1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1211
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/104/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F107
 [/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533

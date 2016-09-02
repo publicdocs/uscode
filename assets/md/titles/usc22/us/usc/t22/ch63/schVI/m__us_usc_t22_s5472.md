@@ -19,13 +19,13 @@
 
     (1) the confidence building measures Poland and Hungary could undertake to facilitate the negotiation of agreements, including bilateral customs and technology transfer agreements, that would encourage greater direct private sector investment in that country; and
 
-    (2) the confidence building measures Poland and Hungary could undertake with respect to the treatment accorded those countries under the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\].
+    (2) the confidence building measures Poland and Hungary could undertake with respect to the treatment accorded those countries under the Export Administration Act of 1979 \[[50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\].
 
 ([Pub. L. 101–179, title VII, § 702][/us/pl/101/179/s702], Nov. 28, 1989, [103 Stat. 1320][/us/stat/103/1320].)
 
  __References in Text__ 
 
-    The Export Administration Act of 1979, referred to in par. (2), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+    The Export Administration Act of 1979, referred to in par. (2), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 ----------
 
@@ -34,6 +34,7 @@
 ----------
 ----------
 
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/pl/101/179/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs702
 [/us/stat/103/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1320
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72

@@ -19,7 +19,7 @@
 
     (1) use the authorities of the Arms Export Control Act \[[22 U.S.C. 2751][/us/usc/t22/s2751] et seq.\] to control the export of those defense articles and defense services, and
 
-    (2) use the authorities of the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\] to control the export of those goods and technology,
+    (2) use the authorities of the Export Administration Act of 1979 \[[50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\] to control the export of those goods and technology,
 
     that the President determines would assist the government of any foreign country in acquiring the capability to develop, produce, stockpile, deliver, or use chemical or biological weapons.
 
@@ -29,7 +29,7 @@
 
     The Arms Export Control Act, referred to in par. (1), is [Pub. L. 90–629][/us/pl/90/629], Oct. 22, 1968, [82 Stat. 1320][/us/stat/82/1320], as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title][/us/usc/t22/s2751] and Tables.
 
-    The Export Administration Act of 1979, referred to in par. (2), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+    The Export Administration Act of 1979, referred to in par. (2), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 ----------
 
@@ -39,6 +39,7 @@
 ----------
 
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/pl/102/182/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2Fs304%2Fa
 [/us/stat/105/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1246
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629

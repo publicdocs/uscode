@@ -43,7 +43,7 @@
 
  __References in Text__ 
 
-    Executive Order Numbered 9193, dated July 6, 1942 (7 F.R. 5205, July 9, 1942), referred to in subsec. (a), is Ex. Ord. No. 9193, July 6, 1942, 7 F.R. 5205, which amended Ex. Ord. No. 9095, formerly set out under [section 6 of Title 50][/us/usc/t50/s6], Appendix, War and National Defense, which was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+    Executive Order Numbered 9193, dated July 6, 1942 (7 F.R. 5205, July 9, 1942), referred to in subsec. (a), is Ex. Ord. No. 9193, July 6, 1942, 7 F.R. 5205, which amended Ex. Ord. No. 9095, formerly set out under section 6 of the former Appendix to Title 50, War and National Defense, which was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
 ----------
 
@@ -57,6 +57,5 @@
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
 [/us/pl/85/604/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F604%2Fs1
 [/us/stat/72/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F527
-[/us/usc/t50/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs6
 
 

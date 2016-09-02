@@ -127,7 +127,7 @@
 
                 (i) At any time during fiscal years 2009 through 2018, no United States contribution to the Global Fund may cause the total amount of United States Government contributions to the Global Fund to exceed 33 percent of the total amount of funds contributed to the Global Fund from all sources. Contributions to the Global Fund from the International Bank for Reconstruction and Development and the International Monetary Fund shall not be considered in determining compliance with this paragraph.
 
-                (ii) If, at any time during any of the fiscal years 2009 through 2018, the President determines that the Global Fund has provided assistance to a country, the government of which the Secretary of State has determined, for purposes of [section 2405(j)(1) of title 50][/us/usc/t50/s2405/j/1], Appendix, has repeatedly provided support for acts of international terrorism, then the United States shall withhold from its contribution for the next fiscal year an amount equal to the amount expended by the Fund to the government of each such country.
+                (ii) If, at any time during any of the fiscal years 2009 through 2018, the President determines that the Global Fund has provided assistance to a country, the government of which the Secretary of State has determined, for purposes of [section 4605(j)(1) of title 50][/us/usc/t50/s4605/j/1], has repeatedly provided support for acts of international terrorism, then the United States shall withhold from its contribution for the next fiscal year an amount equal to the amount expended by the Fund to the government of each such country.
 
                 (iii) If at any time the President determines that the expenses of the Governing, Administrative, and Advisory Bodies (including the Partnership Forum, the Foundation Board, the Secretariat, and the Technical Review Board) of the Global Fund exceed 10 percent of the total expenditures of the Fund for any 2-year period, the United States shall withhold from its contribution for the next fiscal year an amount equal the to the average annual amount expended by the Fund for such 2-year period for the expenses of the Governing, Administrative, and Advisory Bodies in excess of 10 percent of the total expenditures of the Fund.
 
@@ -385,7 +385,7 @@
 [/us/usc/t22/s288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs288
 [/us/usc/t22/s7671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7671
 [/us/usc/t22/s6841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6841
-[/us/usc/t50/s2405/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2405%2Fj%2F1
+[/us/usc/t50/s4605/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1
 [/us/usc/t3/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs104
 [/us/usc/t22/s2151b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%932
 [/us/usc/t22/s2151b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%932

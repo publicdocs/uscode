@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        The Secretary of the Treasury shall instruct the United States executive director of each international financial institution to use the voice and vote of the United States to oppose any loan or other use of the funds of the respective institution to or for a country for which the Secretary of State has made a determination under [section 2405(j) of title 50][/us/usc/t50/s2405/j], Appendix, or [section 2371 of this title][/us/usc/t22/s2371].
+        The Secretary of the Treasury shall instruct the United States executive director of each international financial institution to use the voice and vote of the United States to oppose any loan or other use of the funds of the respective institution to or for a country for which the Secretary of State has made a determination under [section 4605(j) of title 50][/us/usc/t50/s4605/j] or [section 2371 of this title][/us/usc/t22/s2371].
 
     (b) __“International financial institution” defined__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/usc/t50/s2405/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2405%2Fj
+[/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
 [/us/pl/95/118/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1621
 [/us/pl/104/132/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs327

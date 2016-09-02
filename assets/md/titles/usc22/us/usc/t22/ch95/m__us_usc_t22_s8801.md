@@ -45,7 +45,7 @@
 
         (6) __Good__ 
 
-            The term “good” has the meaning given that term in [section 2415 of title 50][/us/usc/t50/s2415], Appendix (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.)).
+            The term “good” has the meaning given that term in [section 4618 of title 50][/us/usc/t50/s4618] (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.)).
 
         (7) __Iranian financial institution__ 
 
@@ -197,7 +197,7 @@ I hereby delegate functions and authorities vested in the President by the Iran 
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t31/s5318A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5318A
 [/us/usc/t22/s8513/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8513%2Fi
-[/us/usc/t50/s2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2415
+[/us/usc/t50/s4618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4618
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t22/s8513b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8513b%2Fd
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321

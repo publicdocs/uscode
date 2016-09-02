@@ -21,7 +21,7 @@
 
  __Delegation of Powers__ 
 
-    Power to make rules and regulations under this subchapter delegated to Secretary of State by Proc. No. 2374, promulgated Nov. 4, 1939, 4 F.R. 4493, [54 Stat. 2671][/us/stat/54/2671]. See proclamations preceding [section 1 of Title 50][/us/usc/t50/s1], Appendix, War and National Defense.
+    Power to make rules and regulations under this subchapter delegated to Secretary of State by Proc. No. 2374, promulgated Nov. 4, 1939, 4 F.R. 4493, [54 Stat. 2671][/us/stat/54/2671]. See proclamations preceding [section 1 of Title 50][/us/usc/t50/s1], War and National Defense.
 
 ----------
 

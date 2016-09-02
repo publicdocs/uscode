@@ -105,7 +105,7 @@
 
         (7) __Licenses not required__ 
 
-            (A) Notwithstanding any other provision of law, an action under this section may be brought and may be settled, and a judgment rendered in such action may be enforced, without obtaining any license or other permission from any agency of the United States, except that this paragraph shall not apply to the execution of a judgment against, or the settlement of actions involving, property blocked under the authorities of [section 5(b) of title 50][/us/usc/t50/s5/b], Appendix, that were being exercised on July 1, 1977, as a result of a national emergency declared by the President before such date, and are being exercised on March 12, 1996.
+            (A) Notwithstanding any other provision of law, an action under this section may be brought and may be settled, and a judgment rendered in such action may be enforced, without obtaining any license or other permission from any agency of the United States, except that this paragraph shall not apply to the execution of a judgment against, or the settlement of actions involving, property blocked under the authorities of [section 4305(b) of title 50][/us/usc/t50/s4305/b], that were being exercised on July 1, 1977, as a result of a national emergency declared by the President before such date, and are being exercised on March 12, 1996.
 
             (B) Notwithstanding any other provision of law, and for purposes of this subchapter only, any claim against the Cuban Government shall not be deemed to be an interest in property the transfer of which to a United States national required before March 12, 1996, or requires after March 12, 1996, a license issued by, or the permission of, any agency of the United States.
 
@@ -205,7 +205,7 @@
 [/us/usc/t28/s1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1961
 [/us/usc/t22/s1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1643
 [/us/usc/t22/s1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1643
-[/us/usc/t50/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs5%2Fb
+[/us/usc/t50/s4305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305%2Fb
 [/us/usc/t28/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1331
 [/us/usc/t28/s1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1608
 [/us/usc/t22/s1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1643

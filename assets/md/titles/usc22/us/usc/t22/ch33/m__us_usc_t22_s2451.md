@@ -27,7 +27,7 @@
 
 [Pub. L. 87–256, § 1][/us/pl/87/256/s1], Sept. 21, 1961, [75 Stat. 527][/us/stat/75/527], provided: 
 
-> “That this Act \[enacting this chapter, amending sections 1101, 1182 and 1258 of Title 8, Aliens and Nationality, sections 117, 871, 872, 1441, 3121, 3306, 3401 and 3402 of Title 26, Internal Revenue Code, and [section 410 of Title 42][/us/usc/t42/s410], The Public Health and Welfare, repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468 and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and [section 1641(b)(2) of Title 50][/us/usc/t50/s1641/b/2], Appendix, War and National Defense, and enacting provisions set out as notes under this section and under sections 117, 1441, 3121 and 3401 of Title 26\] may be cited as the ‘Mutual Educational and Cultural Exchange Act of 1961’.”
+> “That this Act \[enacting this chapter, amending sections 1101, 1182 and 1258 of Title 8, Aliens and Nationality, sections 117, 871, 872, 1441, 3121, 3306, 3401 and 3402 of Title 26, Internal Revenue Code, and [section 410 of Title 42][/us/usc/t42/s410], The Public Health and Welfare, repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468 and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and former section 1641(b)(2) of the former Appendix to Title 50, War and National Defense, and enacting provisions set out as notes under this section and under sections 117, 1441, 3121 and 3401 of Title 26\] may be cited as the ‘Mutual Educational and Cultural Exchange Act of 1961’.”
 
     [Pub. L. 87–256][/us/pl/87/256] is also popularly known as the “Fulbright-Hays Act”.
 
@@ -129,13 +129,13 @@
 
 [Pub. L. 87–256, § 111(b)][/us/pl/87/256/s111/b], Sept. 21, 1961, [75 Stat. 538][/us/stat/75/538], provided that: 
 
-> “All Executive orders, agreements, determinations, regulations, contracts, appointments, and other actions issued, concluded, or taken under authority of any provisions of law repealed by subsection (a) of this section \[repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468, and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and [section 1641(b)(2) of Title 50][/us/usc/t50/s1641/b/2], Appendix, War and National Defense\] shall continue in full force and effect, and shall be applicable to the appropriate provisions of this Act \[this chapter\] until modified or superseded by appropriate authority.”
+> “All Executive orders, agreements, determinations, regulations, contracts, appointments, and other actions issued, concluded, or taken under authority of any provisions of law repealed by subsection (a) of this section \[repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468, and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and former section 1641(b)(2) of the former Appendix to Title 50, War and National Defense\] shall continue in full force and effect, and shall be applicable to the appropriate provisions of this Act \[this chapter\] until modified or superseded by appropriate authority.”
 
  __References in Other Laws to Repealed Provisions__ 
 
 [Pub. L. 87–256, § 111(c)][/us/pl/87/256/s111/c], Sept. 21, 1961, [75 Stat. 538][/us/stat/75/538], provided that: 
 
-> “Any reference in any other Act to the provisions of law listed in subsection (a) \[repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468, and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and [section 1641(b)(2) of Title 50][/us/usc/t50/s1641/b/2], Appendix, War and National Defense\] shall hereafter be considered to be references to the appropriate provisions of this Act \[this chapter\].”
+> “Any reference in any other Act to the provisions of law listed in subsection (a) \[repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468, and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and former section 1641(b)(2) of the former Appendix to Title 50, War and National Defense\] shall hereafter be considered to be references to the appropriate provisions of this Act \[this chapter\].”
 
 ----------
 
@@ -151,7 +151,6 @@
 [/us/pl/87/256/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256%2Fs1
 [/us/stat/75/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F527
 [/us/usc/t42/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs410
-[/us/usc/t50/s1641/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1641%2Fb%2F2
 [/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/91/1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1637
 [/us/usc/t22/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1461
@@ -168,9 +167,7 @@
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
 [/us/pl/87/256/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256%2Fs111%2Fb
 [/us/stat/75/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F538
-[/us/usc/t50/s1641/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1641%2Fb%2F2
 [/us/pl/87/256/s111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256%2Fs111%2Fc
 [/us/stat/75/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F538
-[/us/usc/t50/s1641/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1641%2Fb%2F2
 
 

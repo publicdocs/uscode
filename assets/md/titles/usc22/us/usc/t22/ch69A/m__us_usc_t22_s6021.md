@@ -97,7 +97,7 @@
 
 [Pub. L. 104–114, § 1(a)][/us/pl/104/114/s1/a], Mar. 12, 1996, [110 Stat. 785][/us/stat/110/785], provided that: 
 
-> “This Act \[enacting this chapter and sections 1643l and 1643m of this title, amending sections 2295a, 2295b, 2370, 6003, and 6004 of this title, [section 1611 of Title 28][/us/usc/t28/s1611], Judiciary and Judicial Procedure, and [section 16 of Title 50][/us/usc/t50/s16], Appendix, War and National Defense, repealing sections 1465 to 1465f, 1465aa to 1465ff, 6003, and 6005 of this title, amending provisions set out as a note under [section 1446g of Title 7][/us/usc/t7/s1446g], Agriculture, and repealing provisions set out as notes under sections 1465, 1465c, and 1465aa of this title\] may be cited as the ‘Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996’.”
+> “This Act \[enacting this chapter and sections 1643l and 1643m of this title, amending sections 2295a, 2295b, 2370, 6003, and 6004 of this title, [section 1611 of Title 28][/us/usc/t28/s1611], Judiciary and Judicial Procedure, and [section 4315 of Title 50][/us/usc/t50/s4315], War and National Defense, repealing sections 1465 to 1465f, 1465aa to 1465ff, 6003, and 6005 of this title, amending provisions set out as a note under [section 1446g of Title 7][/us/usc/t7/s1446g], Agriculture, and repealing provisions set out as notes under sections 1465, 1465c, and 1465aa of this title\] may be cited as the ‘Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996’.”
 
 ----------
 
@@ -122,7 +122,7 @@
 [/us/pl/104/114/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs1%2Fa
 [/us/stat/110/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F785
 [/us/usc/t28/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1611
-[/us/usc/t50/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs16
+[/us/usc/t50/s4315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4315
 [/us/usc/t7/s1446g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1446g
 
 

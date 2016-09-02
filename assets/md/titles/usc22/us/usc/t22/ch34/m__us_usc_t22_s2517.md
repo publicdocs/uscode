@@ -21,7 +21,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2517, [Pub. L. 87–293, title I, § 18][/us/pl/87/293/s18], Sept. 22, 1961, [75 Stat. 623][/us/stat/75/623], provided that Mutual Defense Assistance Control Act of 1951 ([22 U.S.C. 1611][/us/usc/t22/s1611] et seq.) applied, subject to an exception, to functions carried out under this chapter, prior to repeal by [Pub. L. 97–113, title VI, § 605(b)][/us/pl/97/113/s605/b], Dec. 29, 1981, [95 Stat. 1543][/us/stat/95/1543]. The 1951 Act was superseded by the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.).
+    A prior section 2517, [Pub. L. 87–293, title I, § 18][/us/pl/87/293/s18], Sept. 22, 1961, [75 Stat. 623][/us/stat/75/623], provided that Mutual Defense Assistance Control Act of 1951 ([22 U.S.C. 1611][/us/usc/t22/s1611] et seq.) applied, subject to an exception, to functions carried out under this chapter, prior to repeal by [Pub. L. 97–113, title VI, § 605(b)][/us/pl/97/113/s605/b], Dec. 29, 1981, [95 Stat. 1543][/us/stat/95/1543]. The 1951 Act was superseded by the Export Administration Act of 1979 ([50 U.S.C. 4601][/us/usc/t50/s4601] et seq.).
 
  __Paul D. Coverdell World Wise Schools Program__ 
 
@@ -112,6 +112,7 @@
 [/us/usc/t22/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1611
 [/us/pl/97/113/s605/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs605%2Fb
 [/us/stat/95/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1543
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/pl/106/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F570
 [/us/stat/114/3051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3051
 [/us/pl/107/21/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F21%2Fs2

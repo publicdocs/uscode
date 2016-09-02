@@ -41,7 +41,7 @@
 
         (5) __Exports of national security-sensitive goods and technology__ 
 
-            The authorities of [section 2405 of title 50][/us/usc/t50/s2405], Appendix, shall be used to prohibit the export to that country of any goods or technology on that part of the control list established under [section 2404(c)(1) of title 50][/us/usc/t50/s2404/c/1], Appendix.
+            The authorities of [section 4605 of title 50][/us/usc/t50/s4605] shall be used to prohibit the export to that country of any goods or technology on that part of the control list established under [section 4604(c)(1) of title 50][/us/usc/t50/s4604/c/1].
 
     (b) __Additional sanctions if certain conditions not met__ 
 
@@ -71,7 +71,7 @@
 
             (C) __Further export restrictions__ 
 
-                The authorities of [section 2405 of title 50][/us/usc/t50/s2405], Appendix, shall be used to prohibit exports to that country of all other goods and technology (excluding food and other agricultural commodities and products).
+                The authorities of [section 4605 of title 50][/us/usc/t50/s4605] shall be used to prohibit exports to that country of all other goods and technology (excluding food and other agricultural commodities and products).
 
             (D) __Import restrictions__ 
 
@@ -137,7 +137,7 @@
 
             (A) A sanction described in paragraph (4) or (5) of subsection (a) or in any of subparagraphs (A) through (D) of subsection (b)(2) shall not apply to any activity pursuant to any contract or international agreement entered into before the date of the presidential determination under [section 5604(a)(1) of this title][/us/usc/t22/s5604/a/1] unless the President determines, on a case-by-case basis, that to apply such sanction to that activity would prevent the performance of a contract or agreement that would have the effect of assisting a country in using chemical or biological weapons in violation of international law or in using lethal chemical or biological weapons against its own nationals.
 
-            (B) The same restrictions of subsection (p) of [section 2405 of title 50][/us/usc/t50/s2405], Appendix, as that subsection is so redesignated by [section 304(b) of this title][/us/usc/t22/s304/b], which are applicable to exports prohibited under [section 2405 of title 50][/us/usc/t50/s2405], Appendix, shall apply to exports prohibited under subsection (a)(5) or (b)(2)(C) of this section. For purposes of this subparagraph, any contract or agreement the performance of which (as determined by the President) would have the effect of assisting a foreign government in using chemical or biological weapons in violation of international law or in using lethal chemical or biological weapons against its own nationals shall be treated as constituting a breach of the peace that poses a serious and direct threat to the strategic interest of the United States, within the meaning of subparagraph (A) of [section 2405(p) of title 50][/us/usc/t50/s2405/p], Appendix.
+            (B) The same restrictions of subsection (p) of [section 4605 of title 50][/us/usc/t50/s4605], as that subsection is so redesignated by [section 304(b) of this title][/us/usc/t22/s304/b], which are applicable to exports prohibited under [section 4605 of title 50][/us/usc/t50/s4605], shall apply to exports prohibited under subsection (a)(5) or (b)(2)(C) of this section. For purposes of this subparagraph, any contract or agreement the performance of which (as determined by the President) would have the effect of assisting a foreign government in using chemical or biological weapons in violation of international law or in using lethal chemical or biological weapons against its own nationals shall be treated as constituting a breach of the peace that poses a serious and direct threat to the strategic interest of the United States, within the meaning of subparagraph (A) of [section 4605(p) of title 50][/us/usc/t50/s4605/p].
 
         (2) __Sanctions applied to existing contracts__ 
 
@@ -151,7 +151,7 @@
 
     The Arms Export Control Act, referred to in subsec. (a)(2)(A), (3), is [Pub. L. 90–629][/us/pl/90/629], Oct. 22, 1968, [82 Stat. 1320][/us/stat/82/1320], as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title][/us/usc/t22/s2751] and Tables.
 
-    [Section 304(b) of this title][/us/usc/t22/s304/b], referred to in subsec. (e)(1)(B), is [section 304(b) of Pub. L. 102–182][/us/pl/102/182/s304/b], title III, Dec. 4, 1991, [105 Stat. 1246][/us/stat/105/1246], which amended [section 2405 of Title 50][/us/usc/t50/s2405], Appendix, War and National Defense.
+    [Section 304(b) of this title][/us/usc/t22/s304/b], referred to in subsec. (e)(1)(B), is [section 304(b) of Pub. L. 102–182][/us/pl/102/182/s304/b], title III, Dec. 4, 1991, [105 Stat. 1246][/us/stat/105/1246], which amended [section 4605 of Title 50][/us/usc/t50/s4605], War and National Defense.
 
  __Codification__ 
 
@@ -171,20 +171,20 @@
 [/us/usc/t22/s5604/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5604%2Fa%2F1
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
-[/us/usc/t50/s2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2405
-[/us/usc/t50/s2404/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2404%2Fc%2F1
+[/us/usc/t50/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605
+[/us/usc/t50/s4604/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604%2Fc%2F1
 [/us/usc/t22/s5604/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5604%2Fa%2F1
 [/us/usc/t22/s262d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262d
-[/us/usc/t50/s2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2405
+[/us/usc/t50/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605
 [/us/usc/t22/s5604/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5604%2Fa%2F1
 [/us/usc/t22/s5604/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5604%2Fa%2F1
 [/us/usc/t49/s40102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102%2Fa
 [/us/usc/t22/s2394–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%E2%80%931
 [/us/usc/t22/s5604/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5604%2Fa%2F1
-[/us/usc/t50/s2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2405
+[/us/usc/t50/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605
 [/us/usc/t22/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs304%2Fb
-[/us/usc/t50/s2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2405
-[/us/usc/t50/s2405/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2405%2Fp
+[/us/usc/t50/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605
+[/us/usc/t50/s4605/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fp
 [/us/usc/t22/s5604/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5604%2Fa%2F1
 [/us/pl/102/182/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2Fs307
 [/us/stat/105/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1254
@@ -197,7 +197,7 @@
 [/us/usc/t22/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs304%2Fb
 [/us/pl/102/182/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2Fs304%2Fb
 [/us/stat/105/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1246
-[/us/usc/t50/s2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2405
+[/us/usc/t50/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605
 [/us/usc/t49/s40102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102%2Fa
 [/us/pl/103/272/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs6%2Fb
 [/us/stat/108/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1378

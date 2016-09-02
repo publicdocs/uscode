@@ -15,7 +15,7 @@
 
 ## § 1622b. Transfer of functions, powers, and duties of Foreign Claims Settlement Commission of the United States
 
-    All functions, powers, and duties of the Foreign Claims Settlement Commission established by Reorganization Plan Numbered 1 of 1954 are hereby transferred with the Commission, together with personnel, assets, liabilities, unexpended balances of appropriations, authorizations, allocations, and other funds held, used, available, or to be made available in connection with the statutory functions of the Commission. The Commission shall continue to perform its functions as provided by the War Claims Act of 1948, as amended \[50 U.S.C. App. 2001 et seq.\], the International Claims Settlement Act of 1949, as amended \[[22 U.S.C. 1621][/us/usc/t22/s1621] et seq.\], and Reorganization Plan Numbered 1 of 1954.
+    All functions, powers, and duties of the Foreign Claims Settlement Commission established by Reorganization Plan Numbered 1 of 1954 are hereby transferred with the Commission, together with personnel, assets, liabilities, unexpended balances of appropriations, authorizations, allocations, and other funds held, used, available, or to be made available in connection with the statutory functions of the Commission. The Commission shall continue to perform its functions as provided by the War Claims Act of 1948, as amended \[[50 U.S.C. 4101][/us/usc/t50/s4101] et seq.\], the International Claims Settlement Act of 1949, as amended \[[22 U.S.C. 1621][/us/usc/t22/s1621] et seq.\], and Reorganization Plan Numbered 1 of 1954.
 
 ([Pub. L. 96–209, title I, § 102][/us/pl/96/209/s102], Mar. 14, 1980, [94 Stat. 96][/us/stat/94/96].)
 
@@ -23,7 +23,7 @@
 
     Reorganization Plan Numbered 1 of 1954, referred to in text, is Reorg. Plan. No. 1 of 1954, July 1, 1954, 19 F.R. 3985, [68 Stat. 1279][/us/stat/68/1279], which is set out as a note under [section 1622 of this title][/us/usc/t22/s1622].
 
-    The War Claims Act of 1948, as amended, referred to in text, is [act July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], [62 Stat. 1240][/us/stat/62/1240], as amended, which is classified generally to section 2001 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 50][/us/usc/t50/s2001], Appendix, and Tables.
+    The War Claims Act of 1948, as amended, referred to in text, is [act July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], [62 Stat. 1240][/us/stat/62/1240], as amended, which is classified generally to chapter 51 (§ 4101 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
     The International Claims Settlement Act of 1949, as amended, referred to in text, is [act Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], [64 Stat. 12][/us/stat/64/12], as amended, which is classified generally to this chapter (§ 1621 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1621 of this title][/us/usc/t22/s1621] and Tables.
 
@@ -42,6 +42,7 @@
 ----------
 ----------
 
+[/us/usc/t50/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4101
 [/us/usc/t22/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1621
 [/us/pl/96/209/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F209%2Fs102
 [/us/stat/94/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F96
@@ -49,7 +50,6 @@
 [/us/usc/t22/s1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1622
 [/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
 [/us/stat/62/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1240
-[/us/usc/t50/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2001
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
 [/us/stat/64/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F12
 [/us/usc/t22/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1621

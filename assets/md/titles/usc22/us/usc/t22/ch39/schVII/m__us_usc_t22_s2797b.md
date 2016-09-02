@@ -27,7 +27,7 @@
 
             (C) facilitates such export, transfer, or trade by any other person,
 
-            or if the President has made a determination with respect to a foreign person under [section 2410b(b)(1) of title 50][/us/usc/t50/s2410b/b/1], Appendix, then the President shall impose on that foreign person the applicable sanctions under paragraph (2).
+            or if the President has made a determination with respect to a foreign person under [section 4612(b)(1) of title 50][/us/usc/t50/s4612/b/1], then the President shall impose on that foreign person the applicable sanctions under paragraph (2).
 
         (2)
 
@@ -91,7 +91,7 @@
 
     (f) __Presumption__ 
 
-        In determining whether to apply sanctions under subsection (a) to a foreign person involved in the export, transfer, or trade of an item on the MTCR Annex, it should be a rebuttable presumption that such item is designed for use in a missile listed in the MTCR Annex if the President determines that the final destination of the item is a country the government of which the Secretary of State has determined, for purposes of 2405(j)(1)(A)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be preceded by “section”. </sup></sup>  of title 50, Appendix, has repeatedly provided support for acts of international terrorism.
+        In determining whether to apply sanctions under subsection (a) to a foreign person involved in the export, transfer, or trade of an item on the MTCR Annex, it should be a rebuttable presumption that such item is designed for use in a missile listed in the MTCR Annex if the President determines that the final destination of the item is a country the government of which the Secretary of State has determined, for purposes of 4605(j)(1)(A)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be preceded by “section”. </sup></sup>  of title 50, has repeatedly provided support for acts of international terrorism.
 
     (g) __Additional waiver__ 
 
@@ -242,7 +242,7 @@
 ----------
 ----------
 
-[/us/usc/t50/s2410b/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2410b%2Fb%2F1
+[/us/usc/t50/s4612/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4612%2Fb%2F1
 [/us/usc/t22/s2295a/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2295a%2Fb%2F3%2FA
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/pl/101/510/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1703

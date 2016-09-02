@@ -29,11 +29,11 @@
 
          For purposes of this section—
 
-            (A) a foreign person complies with the boycott of Israel by Arab League countries when that foreign person takes or knowingly agrees to take any action, with respect to the boycott of Israel by Arab League countries, which [section 2407(a) of title 50][/us/usc/t50/s2407/a], Appendix, prohibits a United States person from taking, except that for purposes of this paragraph, the term “United States person” as used in subparagraphs (B) and (C) of [section 2407(a)(1) of title 50][/us/usc/t50/s2407/a/1], Appendix, shall be deemed to mean “person”; and
+            (A) a foreign person complies with the boycott of Israel by Arab League countries when that foreign person takes or knowingly agrees to take any action, with respect to the boycott of Israel by Arab League countries, which [section 4607(a) of title 50][/us/usc/t50/s4607/a] prohibits a United States person from taking, except that for purposes of this paragraph, the term “United States person” as used in subparagraphs (B) and (C) of [section 4607(a)(1) of title 50][/us/usc/t50/s4607/a/1] shall be deemed to mean “person”; and
 
-            (B) the term “foreign person” means any person other than a United States person as defined in [section 2415(2) of title 50][/us/usc/t50/s2415/2], Appendix.
+            (B) the term “foreign person” means any person other than a United States person as defined in [section 4618(2) of title 50][/us/usc/t50/s4618/2].
 
-        (3) For purposes of paragraph (1), a foreign person shall be deemed not to comply with the boycott of Israel by Arab League countries if that person, or the Secretary of State or his designee on the basis of available information, certifies that the person violates or otherwise does not comply with the boycott of Israel by Arab League countries by taking any actions prohibited by [section 2407(a) of title 50][/us/usc/t50/s2407/a], Appendix. Certification by the Secretary of State or his designee may occur only 30 days after notice has been given to the Congress that this certification procedure will be utilized at a specific overseas mission.
+        (3) For purposes of paragraph (1), a foreign person shall be deemed not to comply with the boycott of Israel by Arab League countries if that person, or the Secretary of State or his designee on the basis of available information, certifies that the person violates or otherwise does not comply with the boycott of Israel by Arab League countries by taking any actions prohibited by [section 4607(a) of title 50][/us/usc/t50/s4607/a]. Certification by the Secretary of State or his designee may occur only 30 days after notice has been given to the Congress that this certification procedure will be utilized at a specific overseas mission.
 
     (b) __Waiver by Secretary of State__ 
 
@@ -61,7 +61,7 @@
 
         (2) An Offeror would not be required to include the certification required by paragraph (1), if the Offeror is deemed not to comply with the Arab League boycott of Israel by the Secretary of State or a designee on the basis of available information. Certification by the Secretary of State or a designee may occur only 30 days after notice has been given to the Congress that this certification procedure will be utilized at a specific overseas mission.
 
-        (3) The Secretary of State shall ensure that all State Department contract solicitations include a detailed explanation of the requirements of [section 2407(a) of title 50][/us/usc/t50/s2407/a], Appendix.
+        (3) The Secretary of State shall ensure that all State Department contract solicitations include a detailed explanation of the requirements of [section 4607(a) of title 50][/us/usc/t50/s4607/a].
 
     (d) __Review and termination__ 
 
@@ -70,6 +70,10 @@
         (2) Upon complaint of any foreign or United States person of a violation of the certification as required by this section, filed with the Secretary of State, the Department of State shall investigate such complaint, and if such complaint is found to be correct and a violation of the certification has been found, all contracts with such violator shall be terminated for default as soon as practicable, and, for a period of two years thereafter, the State Department shall not enter into any contracts with such a violator.
 
 ([Pub. L. 103–236, title V, § 565][/us/pl/103/236/s565], Apr. 30, 1994, [108 Stat. 484][/us/stat/108/484]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1336(3), Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790].)
+
+ __References in Text__ 
+
+    Section 8(a) of the Export Administration Act of 1979 (50 U.S.C. App. 2407(a)), referred to in subsec. (c)(1) in the quoted clause, is [section 8(a) of Pub. L. 96–72][/us/pl/96/72/s8/a], Sept. 29, 1979, [93 Stat. 521][/us/stat/93/521], which was editorially transferred to [section 4607(a) of Title 50][/us/usc/t50/s4607/a], War and National Defense.
 
  __Codification__ 
 
@@ -97,15 +101,18 @@
 ----------
 
 [/us/usc/t41/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs134
-[/us/usc/t50/s2407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2407%2Fa
-[/us/usc/t50/s2407/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2407%2Fa%2F1
-[/us/usc/t50/s2415/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2415%2F2
-[/us/usc/t50/s2407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2407%2Fa
-[/us/usc/t50/s2407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2407%2Fa
+[/us/usc/t50/s4607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4607%2Fa
+[/us/usc/t50/s4607/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4607%2Fa%2F1
+[/us/usc/t50/s4618/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4618%2F2
+[/us/usc/t50/s4607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4607%2Fa
+[/us/usc/t50/s4607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4607%2Fa
 [/us/pl/103/236/s565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs565
 [/us/stat/108/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F484
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-790
+[/us/pl/96/72/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72%2Fs8%2Fa
+[/us/stat/93/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F521
+[/us/usc/t50/s4607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4607%2Fa
 [/us/usc/t41/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs134
 [/us/usc/t41/s403/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F11
 [/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc

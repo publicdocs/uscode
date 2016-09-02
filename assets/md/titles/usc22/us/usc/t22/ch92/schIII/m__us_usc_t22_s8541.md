@@ -73,7 +73,7 @@
 
     The term “state sponsor of terrorism” means any country the government of which the Secretary of State has determined has repeatedly provided support for acts of international terrorism pursuant to—
 
-        (A) section 2405(j)(1)(A) of the Appendix to title 50 (or any successor thereto);
+        (A) [section 4605(j)(1)(A) of title 50][/us/usc/t50/s4605/j/1/A] (or any successor thereto);
 
         (B) [section 2780(d) of this title][/us/usc/t22/s2780/d]; or
 
@@ -96,6 +96,7 @@
 ----------
 ----------
 
+[/us/usc/t50/s4605/j/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1%2FA
 [/us/usc/t22/s2780/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780%2Fd
 [/us/usc/t22/s2371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371%2Fa
 [/us/pl/111/195/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs301

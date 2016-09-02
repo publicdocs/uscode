@@ -47,7 +47,7 @@
 
  __References in Text__ 
 
-    Executive Order 8389 of April 10, 1940, referred to in subsecs. (a)(1) and (b)(1), is Ex. Ord. No. 8389, Apr. 10, 1940, 5 F.R. 1400, which is set out under [section 95a of Title 12][/us/usc/t12/s95a], Banks and Banking.
+    Executive Order 8389 of April 10, 1940, referred to in subsecs. (a)(1) and (b)(1), is Ex. Ord. No. 8389, Apr. 10, 1940, 5 F.R. 1400, which is set out under [section 4305 of Title 50][/us/usc/t50/s4305], War and National Defense.
 
  __Amendments__ 
 
@@ -74,7 +74,7 @@
 [/us/stat/72/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F951
 [/us/pl/90/421/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421%2Fs1%2F6
 [/us/stat/82/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F421
-[/us/usc/t12/s95a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs95a
+[/us/usc/t50/s4305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305
 [/us/pl/90/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F421
 [/us/usc/t22/s1631a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1631a%2Fa
 [/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791

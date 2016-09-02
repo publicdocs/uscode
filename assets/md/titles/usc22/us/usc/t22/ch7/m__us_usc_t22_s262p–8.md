@@ -61,7 +61,7 @@
 
         (1) has an excessive level of military expenditures;
 
-        (2) has repeatedly provided support for acts of international terrorism, as determined by the Secretary of State under [section 2405(j)(1) of title 50][/us/usc/t50/s2405/j/1], Appendix, or [section 2371(a) of this title][/us/usc/t22/s2371/a];
+        (2) has repeatedly provided support for acts of international terrorism, as determined by the Secretary of State under [section 4605(j)(1) of title 50][/us/usc/t50/s4605/j/1] or [section 2371(a) of this title][/us/usc/t22/s2371/a];
 
         (3) is failing to cooperate on international narcotics control matters; or
 
@@ -121,7 +121,7 @@
 ----------
 
 [/us/usc/t22/s262p–4p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%934p
-[/us/usc/t50/s2405/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2405%2Fj%2F1
+[/us/usc/t50/s4605/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1
 [/us/usc/t22/s2371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371%2Fa
 [/us/pl/95/118/s1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1625
 [/us/pl/108/25/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs501

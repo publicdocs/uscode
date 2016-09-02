@@ -15,7 +15,7 @@
 
 ## § 262p–11. Opposition to loans or funds for countries that support terrorism
 
-    The Secretary of the Treasury shall instruct the United States Executive Director at each of the International Financial Institutions  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  (as defined in [section 262r(c)(2) of this title][/us/usc/t22/s262r/c/2]) to use the voice and vote of the United States to oppose the provision of loans or other use of the funds of the respective institution to any country the government of which the Secretary of State has determined, for purposes of [section 2405(j) of title 50][/us/usc/t50/s2405/j], Appendix, [section 2371 of this title][/us/usc/t22/s2371], or [section 2780 of this title][/us/usc/t22/s2780], to be a government that has repeatedly provided support for acts of international terrorism.
+    The Secretary of the Treasury shall instruct the United States Executive Director at each of the International Financial Institutions  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  (as defined in [section 262r(c)(2) of this title][/us/usc/t22/s262r/c/2]) to use the voice and vote of the United States to oppose the provision of loans or other use of the funds of the respective institution to any country the government of which the Secretary of State has determined, for purposes of [section 4605(j) of title 50][/us/usc/t50/s4605/j], [section 2371 of this title][/us/usc/t22/s2371], or [section 2780 of this title][/us/usc/t22/s2780], to be a government that has repeatedly provided support for acts of international terrorism.
 
 ([Pub. L. 95–118, title XVI][/us/pl/95/118] (par.), as added [Pub. L. 111–32, title XIV, § 1404][/us/pl/111/32/s1404], June 24, 2009, [123 Stat. 1919][/us/stat/123/1919].)
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t22/s262r/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262r%2Fc%2F2
-[/us/usc/t50/s2405/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2405%2Fj
+[/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
 [/us/usc/t22/s2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780
 [/us/pl/95/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118

@@ -15,15 +15,15 @@
 
 ## § 1622g. Independence of Foreign Claims Settlement Commission of the United States; finality of Commission decisions
 
-    Nothing in this Act shall be construed to diminish the independence of the Commission in making its determinations on claims in programs that it is authorized to administer pursuant to the powers and responsibilities conferred upon the Commission by the War Claims Act of 1948, as amended \[50 U.S.C. App. 2001 et seq.\], the International Claims Settlement Act of 1949, as amended \[[22 U.S.C. 1621][/us/usc/t22/s1621] et seq.\], and Reorganization Plan Numbered 1 of 1954. The decisions of the Commission with respect to claims shall be final and conclusive on all questions of law and fact, and shall not be subject to review by the Attorney General or any other official of the United States or by any court by mandamus or otherwise.
+    Nothing in this Act shall be construed to diminish the independence of the Commission in making its determinations on claims in programs that it is authorized to administer pursuant to the powers and responsibilities conferred upon the Commission by the War Claims Act of 1948, as amended \[[50 U.S.C. 4101][/us/usc/t50/s4101] et seq.\], the International Claims Settlement Act of 1949, as amended \[[22 U.S.C. 1621][/us/usc/t22/s1621] et seq.\], and Reorganization Plan Numbered 1 of 1954. The decisions of the Commission with respect to claims shall be final and conclusive on all questions of law and fact, and shall not be subject to review by the Attorney General or any other official of the United States or by any court by mandamus or otherwise.
 
 ([Pub. L. 96–209, title I, § 107][/us/pl/96/209/s107], Mar. 14, 1980, [94 Stat. 97][/us/stat/94/97].)
 
  __References in Text__ 
 
-    This Act, referred to in text, is [Pub. L. 96–209][/us/pl/96/209], Mar. 14, 1980, [94 Stat. 96][/us/stat/94/96], which enacted sections 1622a to 1622g of this title, amended [section 5316 of Title 5][/us/usc/t5/s5316], Government Organization and Employees, and [section 2001 of Title 50][/us/usc/t50/s2001], Appendix, War and National Defense, and enacted provisions set out as notes under [section 1622a of this title][/us/usc/t22/s1622a], section 363 of former Title 31, Money and Finance, and [section 7546 of Title 42][/us/usc/t42/s7546], The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
+    This Act, referred to in text, is [Pub. L. 96–209][/us/pl/96/209], Mar. 14, 1980, [94 Stat. 96][/us/stat/94/96], which enacted sections 1622a to 1622g of this title, amended [section 5316 of Title 5][/us/usc/t5/s5316], Government Organization and Employees, and [section 4101 of Title 50][/us/usc/t50/s4101], War and National Defense, and enacted provisions set out as notes under [section 1622a of this title][/us/usc/t22/s1622a], section 363 of former Title 31, Money and Finance, and [section 7546 of Title 42][/us/usc/t42/s7546], The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
-    The War Claims Act of 1948, as amended, referred to in text, is [act July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], [62 Stat. 1240][/us/stat/62/1240], as amended, which is classified generally to section 2001 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 50][/us/usc/t50/s2001], Appendix, and Tables.
+    The War Claims Act of 1948, as amended, referred to in text, is [act July 3, 1948, ch. 826][/us/act/1948-07-03/ch826], [62 Stat. 1240][/us/stat/62/1240], as amended, which is classified generally to chapter 51 (§ 4101 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
     The International Claims Settlement Act of 1949, as amended, referred to in text, is [act Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], [64 Stat. 12][/us/stat/64/12], as amended, which is classified generally to this chapter (§ 1621 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1621 of this title][/us/usc/t22/s1621] and Tables.
 
@@ -44,18 +44,18 @@
 ----------
 ----------
 
+[/us/usc/t50/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4101
 [/us/usc/t22/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1621
 [/us/pl/96/209/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F209%2Fs107
 [/us/stat/94/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F97
 [/us/pl/96/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F209
 [/us/stat/94/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F96
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
-[/us/usc/t50/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2001
+[/us/usc/t50/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4101
 [/us/usc/t22/s1622a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1622a
 [/us/usc/t42/s7546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7546
 [/us/act/1948-07-03/ch826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch826
 [/us/stat/62/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1240
-[/us/usc/t50/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2001
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
 [/us/stat/64/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F12
 [/us/usc/t22/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1621

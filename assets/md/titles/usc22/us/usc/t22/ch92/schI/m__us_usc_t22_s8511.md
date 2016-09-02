@@ -69,7 +69,7 @@
 
  __References in Text__ 
 
-    This subchapter, referred to in introductory provisions, was in the original “this title”, meaning [Pub. L. 111–195, title I][/us/pl/111/195], July 1, 2010, [124 Stat. 1316][/us/stat/124/1316], which enacted this subchapter, amended sections 287c, 2778, and 2780 of this title, [section 310 of Title 31][/us/usc/t31/s310], Money and Finance, and section 16 of the Appendix to Title 50, War and National Defense, enacted and amended provisions set out as notes under [section 1701 of Title 50][/us/usc/t50/s1701]. For complete classification of title I to the Code, see Tables.
+    This subchapter, referred to in introductory provisions, was in the original “this title”, meaning [Pub. L. 111–195, title I][/us/pl/111/195], July 1, 2010, [124 Stat. 1316][/us/stat/124/1316], which enacted this subchapter, amended sections 287c, 2778, and 2780 of this title, [section 310 of Title 31][/us/usc/t31/s310], Money and Finance, and [section 4315 of Title 50][/us/usc/t50/s4315], War and National Defense, enacted and amended provisions set out as notes under [section 1701 of Title 50][/us/usc/t50/s1701]. For complete classification of title I to the Code, see Tables.
 
     Section 102 of this Act, referred to in par. (2), is [section 102 of Pub. L. 111–195][/us/pl/111/195/s102], which enacted and amended provisions set out as notes under [section 1701 of Title 50][/us/usc/t50/s1701], War and National Defense.
 
@@ -101,6 +101,7 @@
 [/us/pl/111/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195
 [/us/stat/124/1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1316
 [/us/usc/t31/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs310
+[/us/usc/t50/s4315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4315
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/pl/111/195/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs102
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701

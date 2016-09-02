@@ -15,7 +15,7 @@
 
 ## § 1644e. Offsets
 
-    In determining the amount of any claim, the Commission shall deduct all amounts the claimant has received from any source on account of the same loss or losses, including any amount claimant received under section 2017a(a) of the Appendix to title 50, for losses which occurred as a direct consequence of special measures directed against such property in any area covered under this subchapter.
+    In determining the amount of any claim, the Commission shall deduct all amounts the claimant has received from any source on account of the same loss or losses, including any amount claimant received under [section 4132(a) of title 50][/us/usc/t50/s4132/a], for losses which occurred as a direct consequence of special measures directed against such property in any area covered under this subchapter.
 
 ([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title VI, § 605, as added [Pub. L. 94–542][/us/pl/94/542], Oct. 18, 1976, [90 Stat. 2511][/us/stat/90/2511].)
 
@@ -26,6 +26,7 @@
 ----------
 ----------
 
+[/us/usc/t50/s4132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4132%2Fa
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
 [/us/pl/94/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F542
 [/us/stat/90/2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2511

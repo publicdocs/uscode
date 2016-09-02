@@ -131,7 +131,7 @@
 
 [Act Aug. 26, 1954, ch. 937, § 1][/us/act/1954-08-26/ch937/s1], [68 Stat. 832][/us/stat/68/832], as amended by act June 30, 1958, [Pub. L. 85–477, § 2][/us/pl/85/477/s2], [72 Stat. 261][/us/stat/72/261], provided in part: 
 
-> “That this act \[enacting this chapter, [section 281b–2 of this title][/us/usc/t22/s281b–2], and section 151c of former Title 5, Executive Departments and Government Officers and Employees, amending sections 279a, 281b, 290b, 1148, 1442, and 2658 of this title, [section 1704 of Title 7][/us/usc/t7/s1704], Agriculture, [section 1441 of Title 26][/us/usc/t26/s1441], Internal Revenue Code, and [section 1641 of Title 50][/us/usc/t50/s1641], App., War and National Defense, and enacting provisions set out as notes under [section 1751 of this title][/us/usc/t22/s1751]\] may be cited as the ‘Mutual Security Act of 1954’.”
+> “That this act \[enacting this chapter, [section 281b–2 of this title][/us/usc/t22/s281b–2], and section 151c of former Title 5, Executive Departments and Government Officers and Employees, amending sections 279a, 281b, 290b, 1148, 1442, and 2658 of this title, [section 1704 of Title 7][/us/usc/t7/s1704], Agriculture, [section 1441 of Title 26][/us/usc/t26/s1441], Internal Revenue Code, and section 1641 of the former Appendix to Title 50, War and National Defense, and enacting provisions set out as notes under [section 1751 of this title][/us/usc/t22/s1751]\] may be cited as the ‘Mutual Security Act of 1954’.”
 
  __Transfer of Functions__ 
 
@@ -240,7 +240,6 @@
 [/us/usc/t22/s281b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs281b%E2%80%932
 [/us/usc/t7/s1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1704
 [/us/usc/t26/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1441
-[/us/usc/t50/s1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1641
 [/us/usc/t22/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1751
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 [/us/pl/95/384/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs30

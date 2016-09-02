@@ -19,7 +19,7 @@
 
         (1) The United States shall, in accordance with its international obligations as set forth in the Charter of the United Nations and in keeping with the constitutional heritage and traditions of the United States, promote and encourage increased respect for human rights and fundamental freedoms throughout the world without distinction as to race, sex, language, or religion. Accordingly, a principal goal of the foreign policy of the United States shall be to promote the increased observance of internationally recognized human rights by all countries.
 
-        (2) Except under circumstances specified in this section, no security assistance may be provided to any country the government of which engages in a consistent pattern of gross violations of internationally recognized human rights. Security assistance may not be provided to the police, domestic intelligence, or similar law enforcement forces of a country, and licenses may not be issued under the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\] for the export of crime control and detection instruments and equipment to a country, the government of which engages in a consistent pattern of gross violations of internationally recognized human rights unless the President certifies in writing to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate and the chairman of the Committee on Banking, Housing, and Urban Affairs of the Senate (when licenses are to be issued pursuant to the Export Administration Act of 1979). <sup>\[1\]</sup>  <sup><sup> 1 So in original. The period probably should not appear. </sup></sup>  that extraordinary circumstances exist warranting provision of such assistance and issuance of such licenses. Assistance may not be provided under part V of this subchapter to a country the government of which engages in a consistent pattern of gross violations of internationally recognized human rights unless the President certifies in writing to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate that extraordinary circumstances exist warranting provision of such assistance.
+        (2) Except under circumstances specified in this section, no security assistance may be provided to any country the government of which engages in a consistent pattern of gross violations of internationally recognized human rights. Security assistance may not be provided to the police, domestic intelligence, or similar law enforcement forces of a country, and licenses may not be issued under the Export Administration Act of 1979 \[[50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\] for the export of crime control and detection instruments and equipment to a country, the government of which engages in a consistent pattern of gross violations of internationally recognized human rights unless the President certifies in writing to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate and the chairman of the Committee on Banking, Housing, and Urban Affairs of the Senate (when licenses are to be issued pursuant to the Export Administration Act of 1979). <sup>\[1\]</sup>  <sup><sup> 1 So in original. The period probably should not appear. </sup></sup>  that extraordinary circumstances exist warranting provision of such assistance and issuance of such licenses. Assistance may not be provided under part V of this subchapter to a country the government of which engages in a consistent pattern of gross violations of internationally recognized human rights unless the President certifies in writing to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate that extraordinary circumstances exist warranting provision of such assistance.
 
         (3) In furtherance of paragraphs (1) and (2), the President is directed to formulate and conduct international security assistance programs of the United States in a manner which will promote and advance human rights and avoid identification of the United States, through such programs, with governments which deny to their people internationally recognized human rights and fundamental freedoms, in violation of international law or in contravention of the policy of the United States as expressed in this section or otherwise.
 
@@ -183,7 +183,7 @@
 
  __References in Text__ 
 
-    The Export Administration Act of 1979, referred to in subsec. (a)(2), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2401 of Title 50][/us/usc/t50/s2401], Appendix, and Tables.
+    The Export Administration Act of 1979, referred to in subsec. (a)(2), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
     Section 2(a) of the Genocide Convention Implementation Act of 1987, referred to in subsec. (b), probably means section 2(a) of the Genocide Convention Implementation Act of 1987 (the Proxmire Act), [Pub. L. 100–606][/us/pl/100/606], Nov. 4, 1988, [102 Stat. 3045][/us/stat/102/3045], which enacted chapter 50A (§ 1091 et seq.) of Title 18, Crimes and Criminal Procedure.
 
@@ -292,6 +292,7 @@
 ----------
 ----------
 
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t22/s6402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6402
 [/us/usc/t22/s6402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6402
 [/us/usc/t22/s2151n/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151n%2Fd%2F8
@@ -346,7 +347,6 @@
 [/us/stat/128/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2992
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
-[/us/usc/t50/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2401
 [/us/pl/100/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F606
 [/us/stat/102/3045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3045
 [/us/pl/94/329/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs601

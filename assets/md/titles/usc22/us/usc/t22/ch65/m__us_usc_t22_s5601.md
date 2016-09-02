@@ -35,9 +35,9 @@
 
 [Pub. L. 102–182, title III, § 301][/us/pl/102/182/s301], Dec. 4, 1991, [105 Stat. 1245][/us/stat/105/1245], provided that: 
 
-> “This title \[enacting this chapter, [section 2798 of this title][/us/usc/t22/s2798], and [section 2410c of Title 50][/us/usc/t50/s2410c], Appendix, War and National Defense, amending sections 2798 and 5604 of this title and sections 2405 and 2410c of Title 50, Appendix, and repealing provisions which enacted this chapter, [section 2798 of this title][/us/usc/t22/s2798], and [section 2410c of Title 50][/us/usc/t50/s2410c], Appendix, and which amended [section 2405 of Title 50][/us/usc/t50/s2405], Appendix\] may be cited as the ‘Chemical and Biological Weapons Control and Warfare Elimination Act of 1991’.”
+> “This title \[enacting this chapter, [section 2798 of this title][/us/usc/t22/s2798], and [section 4613 of Title 50][/us/usc/t50/s4613], War and National Defense, amending sections 2798 and 5604 of this title and sections 4605 and 4613 of Title 50, and repealing provisions which enacted this chapter, [section 2798 of this title][/us/usc/t22/s2798], and [section 4613 of Title 50][/us/usc/t50/s4613], and which amended [section 4605 of Title 50][/us/usc/t50/s4605]\] may be cited as the ‘Chemical and Biological Weapons Control and Warfare Elimination Act of 1991’.”
 
-    [Pub. L. 102–138, title V, § 501][/us/pl/102/138/s501], Oct. 28, 1991, [105 Stat. 722][/us/stat/105/722], which provided that title V of [Pub. L. 102–138][/us/pl/102/138], which enacted this chapter, [section 2798 of this title][/us/usc/t22/s2798], and [section 2410c of Title 50][/us/usc/t50/s2410c], Appendix, War and National Defense, and amended [section 2405 of Title 50][/us/usc/t50/s2405], Appendix, was to be cited as the “Chemical and Biological Weapons Control and Warfare Elimination Act of 1991”, was repealed by [Pub. L. 102–182, title III, § 309(a)][/us/pl/102/182/s309/a], Dec. 4, 1991, [105 Stat. 1258][/us/stat/105/1258].
+    [Pub. L. 102–138, title V, § 501][/us/pl/102/138/s501], Oct. 28, 1991, [105 Stat. 722][/us/stat/105/722], which provided that title V of [Pub. L. 102–138][/us/pl/102/138], which enacted this chapter, [section 2798 of this title][/us/usc/t22/s2798], and [section 4613 of Title 50][/us/usc/t50/s4613], War and National Defense, and amended [section 4605 of Title 50][/us/usc/t50/s4605], was to be cited as the “Chemical and Biological Weapons Control and Warfare Elimination Act of 1991”, was repealed by [Pub. L. 102–182, title III, § 309(a)][/us/pl/102/182/s309/a], Dec. 4, 1991, [105 Stat. 1258][/us/stat/105/1258].
 
  __Matters Relating to the Control of Biological Weapons__ 
 
@@ -153,16 +153,16 @@
 [/us/pl/102/182/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2Fs301
 [/us/stat/105/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1245
 [/us/usc/t22/s2798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2798
-[/us/usc/t50/s2410c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2410c
+[/us/usc/t50/s4613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4613
 [/us/usc/t22/s2798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2798
-[/us/usc/t50/s2410c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2410c
-[/us/usc/t50/s2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2405
+[/us/usc/t50/s4613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4613
+[/us/usc/t50/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605
 [/us/pl/102/138/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs501
 [/us/stat/105/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F722
 [/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
 [/us/usc/t22/s2798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2798
-[/us/usc/t50/s2410c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2410c
-[/us/usc/t50/s2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2405
+[/us/usc/t50/s4613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4613
+[/us/usc/t50/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605
 [/us/pl/102/182/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2Fs309%2Fa
 [/us/stat/105/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1258
 [/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7

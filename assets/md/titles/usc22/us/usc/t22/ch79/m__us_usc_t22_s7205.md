@@ -19,7 +19,7 @@
 
         (1) __In general__ 
 
-            Notwithstanding any other provision of this chapter (other than [section 7203 of this title][/us/usc/t22/s7203]), the export of agricultural commodities, medicine, or medical devices to Cuba, the Taliban or the territory of Afghanistan controlled by the Taliban, or to the government of a country that has been determined by the Secretary of State to have repeatedly provided support for acts of international terrorism under [section 2371 of this title][/us/usc/t22/s2371], [section 2405(j)(1) of title 50][/us/usc/t50/s2405/j/1], Appendix, or [section 2780(d) of this title][/us/usc/t22/s2780/d], or to any other entity in such a country, shall only be made pursuant to 1-year licenses issued by the United States Government for contracts entered into during the 1-year period of the license and shipped within the 12-month period beginning on the date of the signing of the contract, except that the requirements of such 1-year licenses shall be no more restrictive than license exceptions administered by the Department of Commerce or general licenses administered by the Department of the Treasury, except that procedures shall be in place to deny licenses for exports to any entity within such country, or in the territory of Afghanistan controlled by the Taliban, promoting international terrorism.
+            Notwithstanding any other provision of this chapter (other than [section 7203 of this title][/us/usc/t22/s7203]), the export of agricultural commodities, medicine, or medical devices to Cuba, the Taliban or the territory of Afghanistan controlled by the Taliban, or to the government of a country that has been determined by the Secretary of State to have repeatedly provided support for acts of international terrorism under [section 2371 of this title][/us/usc/t22/s2371], [section 4605(j)(1) of title 50][/us/usc/t50/s4605/j/1], or [section 2780(d) of this title][/us/usc/t22/s2780/d], or to any other entity in such a country, shall only be made pursuant to 1-year licenses issued by the United States Government for contracts entered into during the 1-year period of the license and shipped within the 12-month period beginning on the date of the signing of the contract, except that the requirements of such 1-year licenses shall be no more restrictive than license exceptions administered by the Department of Commerce or general licenses administered by the Department of the Treasury, except that procedures shall be in place to deny licenses for exports to any entity within such country, or in the territory of Afghanistan controlled by the Taliban, promoting international terrorism.
 
         (2) __Exception__ 
 
@@ -60,7 +60,7 @@
 
 [/us/usc/t22/s7203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7203
 [/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
-[/us/usc/t50/s2405/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2405%2Fj%2F1
+[/us/usc/t50/s4605/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1
 [/us/usc/t22/s2780/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780%2Fd
 [/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549

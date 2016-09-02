@@ -215,7 +215,7 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XII, § 1201\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–497, provided that: 
 
-> “This title \[amending sections 2321h, 2321j, 2367, 2753, 2761, 2762, 2776, and 2779a of this title and [section 301 of Title 13][/us/usc/t13/s301], Census, and enacting provisions set out as notes under [section 2551 of this title][/us/usc/t22/s2551], sections 1 and 301 of Title 13, and [section 2099 of Title 50][/us/usc/t50/s2099], Appendix, War and National Defense\] may be cited as the ‘Security Assistance Act of 1999’.”
+> “This title \[amending sections 2321h, 2321j, 2367, 2753, 2761, 2762, 2776, and 2779a of this title and [section 301 of Title 13][/us/usc/t13/s301], Census, and enacting provisions set out as notes under [section 2551 of this title][/us/usc/t22/s2551], sections 1 and 301 of Title 13, and former section 2099 of the former Appendix to Title 50, War and National Defense\] may be cited as the ‘Security Assistance Act of 1999’.”
 
 [Pub. L. 106–87, § 1][/us/pl/106/87/s1], Nov. 3, 1999, [113 Stat. 1301][/us/stat/113/1301], provided that: 
 
@@ -271,7 +271,7 @@
 
 [Pub. L. 101–222, § 1(a)][/us/pl/101/222/s1/a], Dec. 12, 1989, [103 Stat. 1892][/us/stat/103/1892], provided that: 
 
-> “This Act \[amending sections 1732, 2364, 2371, 2753, 2776, 2778, and 2780 of this title and [section 2405 of Title 50][/us/usc/t50/s2405], Appendix, War and National Defense, and enacting provisions set out as a note under [section 2371 of this title][/us/usc/t22/s2371]\] may be cited as the ‘Anti-Terrorism and Arms Export Amendments Act of 1989’.”
+> “This Act \[amending sections 1732, 2364, 2371, 2753, 2776, 2778, and 2780 of this title and [section 4605 of Title 50][/us/usc/t50/s4605], War and National Defense, and enacting provisions set out as a note under [section 2371 of this title][/us/usc/t22/s2371]\] may be cited as the ‘Anti-Terrorism and Arms Export Amendments Act of 1989’.”
 
  __Short Title of 1988 Amendments__ 
 
@@ -327,7 +327,7 @@
 
 [Pub. L. 96–533, § 1][/us/pl/96/533/s1], Dec. 16, 1980, [94 Stat. 3131][/us/stat/94/3131], provided: 
 
-> “This Act \[enacting sections 290h to 290h–9, 2226, 2346a, 2346b, 2769, and 2778a of this title, amending sections 2151a to 2151d, 2151n, 2151s, 2151u, 2151v, 2174, 2221, 2222, 2291a, 2292, 2292a, 2292l, 2304, 2311, 2312, 2318, 2321h to 2321j, 2346, 2347a, 2348a, 2354, 2364, 2367, 2370, 2384, 2394, 2399d, 2403, 2411, 2421, 2427, 2502, 2514, 2753, 2761 to 2765, 2771, 2776 to 2779, 2791, 2794, and 3510 of this title, sections 1712 and 1733 of Title 7, Agriculture, sections 5041 and 5045 of Title 42, The Public Health and Welfare, and [section 2405 of Title 50][/us/usc/t50/s2405], Appendix, War and National Defense, repealing sections 2151q, 2346c to 2346e, and 2348b of this title, enacting provisions set out as notes under this section and sections 290h, 2151a, 2291a, 2293, 2370, and 3401 of this title, [section 1522 of Title 8][/us/usc/t8/s1522], Aliens and Nationality, and [section 2667 of Title 10][/us/usc/t10/s2667], Armed Forces, and repealing a provision set out as a note under [section 2293 of this title][/us/usc/t22/s2293]\] may be cited as the ‘International Security and Development Cooperation Act of 1980’.”
+> “This Act \[enacting sections 290h to 290h–9, 2226, 2346a, 2346b, 2769, and 2778a of this title, amending sections 2151a to 2151d, 2151n, 2151s, 2151u, 2151v, 2174, 2221, 2222, 2291a, 2292, 2292a, 2292l, 2304, 2311, 2312, 2318, 2321h to 2321j, 2346, 2347a, 2348a, 2354, 2364, 2367, 2370, 2384, 2394, 2399d, 2403, 2411, 2421, 2427, 2502, 2514, 2753, 2761 to 2765, 2771, 2776 to 2779, 2791, 2794, and 3510 of this title, sections 1712 and 1733 of Title 7, Agriculture, sections 5041 and 5045 of Title 42, The Public Health and Welfare, and [section 4605 of Title 50][/us/usc/t50/s4605], War and National Defense, repealing sections 2151q, 2346c to 2346e, and 2348b of this title, enacting provisions set out as notes under this section and sections 290h, 2151a, 2291a, 2293, 2370, and 3401 of this title, [section 1522 of Title 8][/us/usc/t8/s1522], Aliens and Nationality, and [section 2667 of Title 10][/us/usc/t10/s2667], Armed Forces, and repealing a provision set out as a note under [section 2293 of this title][/us/usc/t22/s2293]\] may be cited as the ‘International Security and Development Cooperation Act of 1980’.”
 
 [Pub. L. 96–257, § 1][/us/pl/96/257/s1], May 31, 1980, [94 Stat. 422][/us/stat/94/422], provided: 
 
@@ -351,7 +351,7 @@
 
 [Pub. L. 95–384, § 1][/us/pl/95/384/s1], Sept. 26, 1978, [92 Stat. 730][/us/stat/92/730], provided that: 
 
-> “This Act \[enacting sections 2348 to 2348c, 2373, 2417, 2428b, and 2766 of this title, amending sections 1754, 2261, 2291, 2291a, 2304, 2312, 2321b, 2321h to 2321j, 2346 to 2346c, 2347a, 2347b, 2360, 2372, 2413, 2429, 2429a, 2751, 2761, 2762, 2765, 2771, and 2776 of this title and [section 2403 of Title 50][/us/usc/t50/s2403], Appendix, War and National Defense, repealing sections 2441 to 2443 of this title, and enacting provisions set out as notes under this section and sections 287c, 1754, 2291, 2311, 2346, 2346a, 2370, and 2751 of this title\] may be cited as the ‘International Security Assistance Act of 1978’.”
+> “This Act \[enacting sections 2348 to 2348c, 2373, 2417, 2428b, and 2766 of this title, amending sections 1754, 2261, 2291, 2291a, 2304, 2312, 2321b, 2321h to 2321j, 2346 to 2346c, 2347a, 2347b, 2360, 2372, 2413, 2429, 2429a, 2751, 2761, 2762, 2765, 2771, and 2776 of this title and [section 4603 of Title 50][/us/usc/t50/s4603], War and National Defense, repealing sections 2441 to 2443 of this title, and enacting provisions set out as notes under this section and sections 287c, 1754, 2291, 2311, 2346, 2346a, 2370, and 2751 of this title\] may be cited as the ‘International Security Assistance Act of 1978’.”
 
 [Pub. L. 95–268, § 1][/us/pl/95/268/s1], Apr. 24, 1978, [92 Stat. 213][/us/stat/92/213], provided that: 
 
@@ -1877,7 +1877,7 @@
 
 >     “(2) United Nations Security Council Resolution 1373 (September 28, 2001) mandates that all states ‘refrain from providing any form of support, active or passive, to entities or persons involved in terrorist acts’, take ‘the necessary steps to prevent the commission of terrorist acts’, and ‘deny safe haven to those who finance, plan, support, or commit terrorist acts’.
 
->     “(3) The Government of Syria is currently prohibited by United States law from receiving United States assistance because it has repeatedly provided support for acts of international terrorism, as determined by the Secretary of State for purposes of section 6(j)(1) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)) and other relevant provisions of law.
+>     “(3) The Government of Syria is currently prohibited by United States law from receiving United States assistance because it has repeatedly provided support for acts of international terrorism, as determined by the Secretary of State for purposes of section 6(j)(1) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)) \[now [50 U.S.C. 4605(j)(1)][/us/usc/t50/s4605/j/1]\] and other relevant provisions of law.
 
 >     “(4) Although the Department of State lists Syria as a state sponsor of terrorism and reports that Syria provides ‘safe haven and support to several terrorist groups’, fewer United States sanctions apply with respect to Syria than with respect to any other country that is listed as a state sponsor of terrorism.
 
@@ -2575,7 +2575,7 @@ Similar provisions were contained in the following prior acts:
 
 >         “(4)  __Crime control and detection instruments and equipment__  __.—__ 
 
->         The issuance of any license under section 6(k) of the Export Administration Act of 1979 \[50 U.S.C. App. 2405(k)\] for the export to the People’s Republic of China of any crime control or detection instruments or equipment shall be suspended, unless the President makes a report under subsection (b)(1) or (2) of this section.
+>         The issuance of any license under section 6(k) of the Export Administration Act of 1979 \[[50 U.S.C. 4605(k)][/us/usc/t50/s4605/k]\] for the export to the People’s Republic of China of any crime control or detection instruments or equipment shall be suspended, unless the President makes a report under subsection (b)(1) or (2) of this section.
 
 >         “(5)  __Export of satellites for launch by the people’s republic of china__  __.—__ 
 
@@ -2587,7 +2587,7 @@ Similar provisions were contained in the following prior acts:
 
 >              Any—
 
->                 “(i) application for a license under the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\] for the export to the People’s Republic of China for use in a nuclear production or utilization facility of any goods or technology which, as determined under section 309(c) of the Nuclear Non-Proliferation Act of 1978 \[[42 U.S.C. 2139a(c)][/us/usc/t42/s2139a/c]\], could be of significance for nuclear explosive purposes, or which, in the judgment of the President, is likely to be diverted for use in such a facility, for any nuclear explosive device, or for research on or development of any nuclear explosive device, shall be suspended,
+>                 “(i) application for a license under the Export Administration Act of 1979 \[[50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\] for the export to the People’s Republic of China for use in a nuclear production or utilization facility of any goods or technology which, as determined under section 309(c) of the Nuclear Non-Proliferation Act of 1978 \[[42 U.S.C. 2139a(c)][/us/usc/t42/s2139a/c]\], could be of significance for nuclear explosive purposes, or which, in the judgment of the President, is likely to be diverted for use in such a facility, for any nuclear explosive device, or for research on or development of any nuclear explosive device, shall be suspended,
 
 >                 “(ii) application for a license for the export to the People’s Republic of China of any nuclear material, facilities, or components subject to the Agreement shall be suspended,
 
@@ -2613,7 +2613,7 @@ Similar provisions were contained in the following prior acts:
 
 >             (A)
 
->              The President shall negotiate with the governments participating in the group known as the Coordinating Committee (COCOM) to suspend, on a multilateral basis, any liberalization by the Coordinating Committee of controls on exports of goods and technology to the People’s Republic of China under section 5 of the Export Administration Act of 1979 \[50 U.S.C. App. 2404\], including—
+>              The President shall negotiate with the governments participating in the group known as the Coordinating Committee (COCOM) to suspend, on a multilateral basis, any liberalization by the Coordinating Committee of controls on exports of goods and technology to the People’s Republic of China under section 5 of the Export Administration Act of 1979 \[[50 U.S.C. 4604][/us/usc/t50/s4604]\], including—
 
 >                 “(i) the implementation of bulk licenses for exports to the People’s Republic of China; and
 
@@ -3322,7 +3322,6 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t13/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs301
 [/us/usc/t22/s2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2551
-[/us/usc/t50/s2099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2099
 [/us/pl/106/87/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F87%2Fs1
 [/us/stat/113/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1301
 [/us/usc/t22/s2152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152
@@ -3381,7 +3380,7 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 [/us/usc/t22/s2321k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2321k
 [/us/pl/101/222/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F222%2Fs1%2Fa
 [/us/stat/103/1892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1892
-[/us/usc/t50/s2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2405
+[/us/usc/t50/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605
 [/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
 [/us/pl/100/690/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4001
 [/us/stat/102/4261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4261
@@ -3428,7 +3427,7 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 [/us/stat/95/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1021
 [/us/pl/96/533/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs1
 [/us/stat/94/3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3131
-[/us/usc/t50/s2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2405
+[/us/usc/t50/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605
 [/us/usc/t8/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1522
 [/us/usc/t10/s2667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2667
 [/us/usc/t22/s2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293
@@ -3444,7 +3443,7 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 [/us/usc/t7/s1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1711
 [/us/pl/95/384/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F384%2Fs1
 [/us/stat/92/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F730
-[/us/usc/t50/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2403
+[/us/usc/t50/s4603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4603
 [/us/pl/95/268/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F268%2Fs1
 [/us/stat/92/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F213
 [/us/usc/t22/s2200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2200
@@ -3598,6 +3597,7 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 [/us/usc/t22/s2394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394
 [/us/pl/108/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F175
 [/us/stat/117/2482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2482
+[/us/usc/t50/s4605/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/pl/108/175/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F175%2Fs5%2Fb
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
@@ -3719,10 +3719,13 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 [/us/pl/102/549/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs202%2Fe
 [/us/stat/106/3658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3658
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
+[/us/usc/t50/s4605/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fk
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t42/s2139a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2139a%2Fc
 [/us/usc/t42/s2077/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2077%2Fb%2F2
 [/us/pl/99/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F183
 [/us/stat/99/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1174
+[/us/usc/t50/s4604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604
 [/us/pl/101/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246
 [/us/stat/104/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F80
 [/us/pl/101/246/s902/a/6/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F246%2Fs902%2Fa%2F6%2FB%2Fi

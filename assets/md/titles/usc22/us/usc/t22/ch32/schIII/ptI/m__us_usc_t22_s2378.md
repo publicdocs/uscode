@@ -19,7 +19,7 @@
 
         (1) __In general__ 
 
-            The President shall withhold assistance under this chapter to the government of any country that provides lethal military equipment to a country the government of which the Secretary of State has determined is a terrorist government for the purposes of [section 2405(j) of title 50][/us/usc/t50/s2405/j], Appendix, or 2371 of this title.
+            The President shall withhold assistance under this chapter to the government of any country that provides lethal military equipment to a country the government of which the Secretary of State has determined is a terrorist government for the purposes of [section 4605(j) of title 50][/us/usc/t50/s4605/j], or 2371 of this title.
 
         (2) __Applicability__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/usc/t50/s2405/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2405%2Fj
+[/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/pl/104/132/s326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs326
 [/us/stat/110/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1256

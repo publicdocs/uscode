@@ -25,7 +25,7 @@
 
     (c) __Employment without compensation of persons of outstanding experience and ability__ 
 
-        Persons of outstanding experience and ability may be employed without compensation by any agency of the United States Government for the performance of functions under this chapter in accordance with the provisions of section 2160(b) of the Appendix to title 50, and regulations issued thereunder.
+        Persons of outstanding experience and ability may be employed without compensation by any agency of the United States Government for the performance of functions under this chapter in accordance with the provisions of [section 4560(b) of title 50][/us/usc/t50/s4560/b], and regulations issued thereunder.
 
 ([Pub. L. 87–195][/us/pl/87/195], pt. III, § 626, Sept. 4, 1961, [75 Stat. 451][/us/stat/75/451]; [Pub. L. 88–205][/us/pl/88/205], pt. III, § 302(c), Dec. 16, 1963, [77 Stat. 389][/us/stat/77/389]; [Pub. L. 88–448, title IV][/us/pl/88/448], §§ 401(e), 402(a)(35), Aug. 19, 1964, [78 Stat. 490][/us/stat/78/490], 495; [Pub. L. 88–633][/us/pl/88/633], pt. III, § 302(b), Oct. 7, 1964, [78 Stat. 1014][/us/stat/78/1014]; [Pub. L. 89–171][/us/pl/89/171], pt. III, § 302(d), Sept. 6, 1965, [79 Stat. 660][/us/stat/79/660]; [Pub. L. 90–137][/us/pl/90/137], pt. III, § 302(e), Nov. 14, 1967, [81 Stat. 460][/us/stat/81/460]; [Pub. L. 94–329, title VI, § 603][/us/pl/94/329/s603], June 30, 1976, [90 Stat. 766][/us/stat/90/766]; [Pub. L. 95–88, title I, § 126][/us/pl/95/88/s126], Aug. 3, 1977, [91 Stat. 542][/us/stat/91/542].)
 
@@ -73,6 +73,7 @@
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s3323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3323%2Fa
+[/us/usc/t50/s4560/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4560%2Fb
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F451
 [/us/pl/88/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F205

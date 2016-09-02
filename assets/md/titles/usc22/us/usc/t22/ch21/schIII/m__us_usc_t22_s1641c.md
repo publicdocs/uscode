@@ -21,7 +21,7 @@
 
     (b) __Individuals who fail to file claims__ 
 
-        The Commission shall receive and determine, or redetermine, as the case may be, in accordance with applicable substantive law, including international law, the validity and amounts of claims owned by person who were eligible to file claims under the first sentence of subsection (a) of this section on August 9, 1955, but failed to file such claims or, if they filed such claims, failed to file such claims within the limit of time required therefor: Provided, That no awards shall be made to persons who have received compensation in any amount pursuant to the treaty of peace with Italy, subsection (a) of this section, or [section 2017a of title 50][/us/usc/t50/s2017a] Appendix.
+        The Commission shall receive and determine, or redetermine, as the case may be, in accordance with applicable substantive law, including international law, the validity and amounts of claims owned by person who were eligible to file claims under the first sentence of subsection (a) of this section on August 9, 1955, but failed to file such claims or, if they filed such claims, failed to file such claims within the limit of time required therefor: Provided, That no awards shall be made to persons who have received compensation in any amount pursuant to the treaty of peace with Italy, subsection (a) of this section, or [section 4132 of title 50][/us/usc/t50/s4132].
 
     (c) __Territory ceded by Italy__ 
 
@@ -37,7 +37,7 @@
 
     (f) __Transfers from Italian Claims Fund to War Claims Fund__ 
 
-        After payment in full of all awards certified to the Secretary of the Treasury pursuant to subsections (a) and (e) of this section, the Secretary of the Treasury is authorized and directed to transfer the unobligated balance in the Italian Claims Fund into the War Claims Fund created by [section 2012 of title 50][/us/usc/t50/s2012] Appendix.
+        After payment in full of all awards certified to the Secretary of the Treasury pursuant to subsections (a) and (e) of this section, the Secretary of the Treasury is authorized and directed to transfer the unobligated balance in the Italian Claims Fund into the War Claims Fund created by [section 4110 of title 50][/us/usc/t50/s4110].
 
 ([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title III, § 304, as added [Aug. 9, 1955, ch. 645, § 3][/us/act/1955-08-09/ch645/s3], [69 Stat. 572][/us/stat/69/572]; amended [Pub. L. 85–604, § 2][/us/pl/85/604/s2], Aug. 8, 1958, [72 Stat. 531][/us/stat/72/531]; [Pub. L. 90–421, § 1(11)][/us/pl/90/421/s1/11], July 24, 1968, [82 Stat. 422][/us/stat/82/422].)
 
@@ -56,9 +56,9 @@
 
 [/us/usc/t22/s1641a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1641a
 [/us/usc/t22/s1641i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1641i
-[/us/usc/t50/s2017a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2017a
+[/us/usc/t50/s4132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4132
 [/us/usc/t22/s1641i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1641i
-[/us/usc/t50/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2012
+[/us/usc/t50/s4110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4110
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
 [/us/act/1955-08-09/ch645/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645%2Fs3
 [/us/stat/69/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F572

@@ -87,7 +87,7 @@
 
             (F) The United States Government shall prohibit any United States bank from making any loan or providing any credit to the government of that country, except for loans or credits for the purpose of purchasing food or other agricultural commodities, which includes fertilizer.
 
-            (G) The authorities of [section 2405 of title 50][/us/usc/t50/s2405], Appendix, shall be used to prohibit exports to that country of specific goods and technology (excluding food and other agricultural commodities), except that such prohibition shall not apply to any transaction subject to the reporting requirements of title V of the National Security Act of 1947 \[[50 U.S.C. 3091][/us/usc/t50/s3091] et seq.\] (relating to congressional oversight of intelligence activities).
+            (G) The authorities of [section 4605 of title 50][/us/usc/t50/s4605] shall be used to prohibit exports to that country of specific goods and technology (excluding food and other agricultural commodities), except that such prohibition shall not apply to any transaction subject to the reporting requirements of title V of the National Security Act of 1947 \[[50 U.S.C. 3091][/us/usc/t50/s3091] et seq.\] (relating to congressional oversight of intelligence activities).
 
         (3)
 
@@ -312,7 +312,7 @@ Provisions relating to waiver of sanctions against India and Pakistan consistent
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t50/s3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3091
 [/us/usc/t22/s262d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262d
-[/us/usc/t50/s2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2405
+[/us/usc/t50/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605
 [/us/usc/t50/s3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3091
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/pl/103/236/s826/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs826%2Fa

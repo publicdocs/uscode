@@ -79,7 +79,7 @@
 
     (e) __Enforcement powers of President__ 
 
-        In carrying out functions under this section with respect to the export of defense articles and defense services, including defense articles and defense services exported or imported pursuant to a treaty referred to in subsection (j)(1)(C)(i), the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies and officials by subsections (c), (d), (e), and (g) of section 11 of the Export Administration Act of 1979 \[50 U.S.C. App. 2410(c), (d), (e), and (g)\], and by subsections (a) and (c) of section 12 of such Act \[50 U.S.C. App. 2411(a) and (c)\], subject to the same terms and conditions as are applicable to such powers under such Act \[50 U.S.C. App. 2401 et seq.\], except that section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that the names of the countries and the types and quantities of defense articles for which licenses are issued under this section shall not be withheld from public disclosure unless the President determines that the release of such information would be contrary to the national interest. Nothing in this subsection shall be construed as authorizing the withholding of information from the Congress. Notwithstanding section 11(c) of the Export Administration Act of 1979, the civil penalty for each violation involving controls imposed on the export of defense articles and defense services under this section may not exceed $500,000.
+        In carrying out functions under this section with respect to the export of defense articles and defense services, including defense articles and defense services exported or imported pursuant to a treaty referred to in subsection (j)(1)(C)(i), the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies and officials by subsections (c), (d), (e), and (g) of section 11 of the Export Administration Act of 1979 \[[50 U.S.C. 4610(c)][/us/usc/t50/s4610/c], (d), (e), and (g)\], and by subsections (a) and (c) of section 12 of such Act \[[50 U.S.C. 4614(a)][/us/usc/t50/s4614/a] and (c)\], subject to the same terms and conditions as are applicable to such powers under such Act \[[50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\], except that section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that the names of the countries and the types and quantities of defense articles for which licenses are issued under this section shall not be withheld from public disclosure unless the President determines that the release of such information would be contrary to the national interest. Nothing in this subsection shall be construed as authorizing the withholding of information from the Congress. Notwithstanding section 11(c) of the Export Administration Act of 1979, the civil penalty for each violation involving controls imposed on the export of defense articles and defense services under this section may not exceed $500,000.
 
     (f) __Periodic review of items on Munitions List; exemptions__ 
 
@@ -137,11 +137,11 @@
 
                 (i) this section,
 
-                (ii) section 11 of the Export Administration Act of 1979 (50 U.S.C. App. 2410),
+                (ii) section 11 of the Export Administration Act of 1979 (50 U.S.C. App. 2410) \[[50 U.S.C. 4610][/us/usc/t50/s4610]\],
 
                 (iii) section 793, 794, or 798 of title 18 (relating to espionage involving defense or classified information) or section 2339A of such title (relating to providing material support to terrorists),
 
-                (iv) section 16 of the Trading with the Enemy Act (50 U.S.C. App. 16),
+                (iv) section 16 of the Trading with the Enemy Act (50 U.S.C. App. 16) \[[50 U.S.C. 4315][/us/usc/t50/s4315]\],
 
                 (v) section 206 of the International Emergency Economic Powers Act (relating to foreign assets controls; 50 U.S.C. App. 1705) \[[50 U.S.C. 1705][/us/usc/t50/s1705]\],
 
@@ -365,7 +365,7 @@
 
     This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 90–629][/us/pl/90/629], Oct. 22, 1968, [82 Stat. 1321][/us/stat/82/1321], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title][/us/usc/t22/s2751] and Tables.
 
-    The Export Administration Act of 1979, referred to in subsec. (e), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2401 of Title 50][/us/usc/t50/s2401], Appendix, and Tables.
+    The Export Administration Act of 1979, referred to in subsec. (e), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
     Section 104 of the Foreign Corrupt Practices Act ([15 U.S.C. 78dd–2][/us/usc/t15/s78dd–2]), referred to in subsec. (g)(1)(A)(vi), probably means section 104 of the Foreign Corrupt Practices Act of 1977, which is classified to [section 78dd–2 of Title 15][/us/usc/t15/s78dd–2], Commerce and Trade.
 
@@ -507,7 +507,7 @@
 
  __Effective Date of 1979 Amendments__ 
 
-    Amendment by [Pub. L. 96–72][/us/pl/96/72] effective upon the expiration of the Export Administration Act of 1969, which terminated on Sept. 30, 1979, or upon any prior date which the Congress by concurrent resolution or the President by proclamation designated, see section 2418 and Prior Provisions note set out under [section 2413 of Title 50][/us/usc/t50/s2413], Appendix, War and National Defense.
+    Amendment by [Pub. L. 96–72][/us/pl/96/72] effective upon the expiration of the Export Administration Act of 1969, which terminated on Sept. 30, 1979, or upon any prior date which the Congress by concurrent resolution or the President by proclamation designated, see [section 4621 of Title 50][/us/usc/t50/s4621], War and National Defense, and Prior Provisions note set out under [section 4616 of Title 50][/us/usc/t50/s4616].
 
     Amendment by [Pub. L. 96–70][/us/pl/96/70] effective Oct. 1, 1979, see [section 3304 of Pub. L. 96–70][/us/pl/96/70/s3304], set out as an Effective Date note under [section 3601 of this title][/us/usc/t22/s3601].
 
@@ -669,7 +669,7 @@
 
 >     The term ‘state sponsor of terrorism’ means any country the government of which the Secretary of State has determined has repeatedly provided support for international terrorism pursuant to—
 
->         “(A) section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405) (as continued in effect under the International Emergency Economic Powers Act \[[50 U.S.C. 1701][/us/usc/t50/s1701] et seq.\]);
+>         “(A) section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405) \[now [50 U.S.C. 4605(j)][/us/usc/t50/s4605/j]\] (as continued in effect under the International Emergency Economic Powers Act \[[50 U.S.C. 1701][/us/usc/t50/s1701] et seq.\]);
 
 >         “(B) section 620A of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371][/us/usc/t22/s2371]);
 
@@ -873,7 +873,7 @@
 
 >     As used in this section, the term ‘countries and entities of concern’ means—
 
->         “(1) any country the government of which the Secretary of State has determined, for purposes of section 6(j) of the Export Administration Act of 1979 \[50 U.S.C. App. 2405(j)\] or other applicable law, to have repeatedly provided support for acts of international terrorism;
+>         “(1) any country the government of which the Secretary of State has determined, for purposes of section 6(j) of the Export Administration Act of 1979 \[[50 U.S.C. 4605(j)][/us/usc/t50/s4605/j]\] or other applicable law, to have repeatedly provided support for acts of international terrorism;
 
 >         “(2)
 
@@ -923,7 +923,7 @@
 
 >         “(A) report directly to the launch monitor with regard to issues relevant to the technology transfer control plan;
 
->         “(B) have received appropriate training in the International Trafficking in Arms Regulations (hereafter in this title \[enacting this note and amending provisions set out as a note under [section 2404 of Title 50][/us/usc/t50/s2404], Appendix, War and National Defense\] referred to as ‘ITAR’).
+>         “(B) have received appropriate training in the International Trafficking in Arms Regulations (hereafter in this title \[enacting this note and amending provisions set out as a note under [section 4604 of Title 50][/us/usc/t50/s4604], War and National Defense\] referred to as ‘ITAR’).
 
 >         “(C) have significant experience and expertise with satellite launches; and
 
@@ -1573,6 +1573,9 @@ Prior provisions relating to issuance and continued effect of rules, regulations
 [/us/usc/t22/s2779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2779
 [/us/pl/96/70/s3303/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs3303%2Fa%2F4
 [/us/stat/93/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F499
+[/us/usc/t50/s4610/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4610%2Fc
+[/us/usc/t50/s4614/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4614%2Fa
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t22/s2394–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394%E2%80%931%2Fa
 [/us/usc/t22/s2779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2779
 [/us/usc/t22/s2776/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2776%2Fb%2F5%2FA
@@ -1580,6 +1583,8 @@ Prior provisions relating to issuance and continued effect of rules, regulations
 [/us/usc/t22/s2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2415
 [/us/usc/t22/s2753/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2753%2Fd%2F3%2FA
 [/us/usc/t22/s2765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2765
+[/us/usc/t50/s4610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4610
+[/us/usc/t50/s4315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4315
 [/us/usc/t50/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1705
 [/us/usc/t15/s78dd–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78dd%E2%80%931
 [/us/usc/t15/s78dd–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78dd%E2%80%932
@@ -1645,7 +1650,6 @@ Prior provisions relating to issuance and continued effect of rules, regulations
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
-[/us/usc/t50/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2401
 [/us/usc/t15/s78dd–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78dd%E2%80%932
 [/us/usc/t15/s78dd–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78dd%E2%80%932
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
@@ -1720,7 +1724,8 @@ Prior provisions relating to issuance and continued effect of rules, regulations
 [/us/pl/99/83/s119/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs119%2Fc
 [/us/stat/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F204
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
-[/us/usc/t50/s2413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2413
+[/us/usc/t50/s4621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4621
+[/us/usc/t50/s4616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4616
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/pl/96/70/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70%2Fs3304
 [/us/usc/t22/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3601
@@ -1749,6 +1754,7 @@ Prior provisions relating to issuance and continued effect of rules, regulations
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/stat/112/2175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2175
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
+[/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
 [/us/usc/t22/s2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780
@@ -1779,6 +1785,7 @@ Prior provisions relating to issuance and continued effect of rules, regulations
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/107/107/s1048/g/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fg%2F8
 [/us/stat/115/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1228
+[/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/usc/t22/s6305/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6305%2F4
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-92
@@ -1787,7 +1794,7 @@ Prior provisions relating to issuance and continued effect of rules, regulations
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
-[/us/usc/t50/s2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2404
+[/us/usc/t50/s4604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/stat/112/2175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2175

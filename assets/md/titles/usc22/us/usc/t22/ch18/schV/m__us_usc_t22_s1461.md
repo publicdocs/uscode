@@ -223,7 +223,7 @@
 
     (10) Section 3(a) of the Arts and Artifacts Indemnity Act ([20 U.S.C. 972(a)][/us/usc/t20/s972/a]);
 
-    (11) [Section 7 of the Act of June 15, 1951][/us/act/1951-06-15/s7], c. 138, [65 Stat. 71][/us/stat/65/71] (50 U.S.C. App. 2316);
+    (11) [Section 7 of the Act of June 15, 1951][/us/act/1951-06-15/s7], c. 138, [65 Stat. 71][/us/stat/65/71] (\[former\] 50 U.S.C. App. 2316);
 
     (12) Section 9(b) of the National Foundation on the Arts and Humanities Act of 1965 ([20 U.S.C. 958(b)][/us/usc/t20/s958/b]), to the extent that such functions are vested in the Secretary of State;
 

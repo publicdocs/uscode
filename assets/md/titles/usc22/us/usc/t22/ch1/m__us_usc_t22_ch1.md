@@ -21,7 +21,7 @@
 
  __Proclamations Respecting War and Neutrality__ 
 
-    See notes preceding [section 1 of Title 50][/us/usc/t50/s1], Appendix, War and National Defense.
+    See notes preceding [section 1 of Title 50][/us/usc/t50/s1], War and National Defense.
 
 §§ 1 to 7. __Repealed.__  __[__  __Aug. 13, 1946, ch. 957__  __][/us/act/1946-08-13/ch957]__  __, title XI, § 1131(32)–(37), (49), (66),__  __[__  __60 Stat. 1037__  __][/us/stat/60/1037]__ 
 

@@ -185,7 +185,7 @@
 
 > “SEC. 4. __DESIGNATION OF TERRITORY CONTROLLED BY THE PALESTINIAN AUTHORITY AS TERRORIST SANCTUARY.__ 
 
->     “It is the sense of Congress that, during any period for which a certification described in section 620K(b) of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2378b(b)][/us/usc/t22/s2378b/b]\] (as added by section 2(b)(2) of this Act) is not in effect with respect to the Palestinian Authority, the territory controlled by the Palestinian Authority should be deemed to be in use as a sanctuary for terrorists or terrorist organizations for purposes of section 6(j)(5) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(5)) and section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 ([22 U.S.C. 2656f][/us/usc/t22/s2656f]).
+>     “It is the sense of Congress that, during any period for which a certification described in section 620K(b) of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2378b(b)][/us/usc/t22/s2378b/b]\] (as added by section 2(b)(2) of this Act) is not in effect with respect to the Palestinian Authority, the territory controlled by the Palestinian Authority should be deemed to be in use as a sanctuary for terrorists or terrorist organizations for purposes of section 6(j)(5) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(5)) \[now [50 U.S.C. 4605(j)(5)][/us/usc/t50/s4605/j/5]\] and section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 ([22 U.S.C. 2656f][/us/usc/t22/s2656f]).
 
 > “SEC. 5. __DENIAL OF VISAS FOR OFFICIALS OF THE PALESTINIAN AUTHORITY.__ 
 
@@ -348,6 +348,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t22/s2378c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2378c
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2378b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2378b%2Fb
+[/us/usc/t50/s4605/j/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F5
 [/us/usc/t22/s2656f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2656f
 [/us/usc/t22/s2378b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2378b%2Fb
 [/us/usc/t22/s2378b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2378b%2Fb

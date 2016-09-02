@@ -161,7 +161,7 @@
 
     (k) __Civil penalties; enforcement__ 
 
-        In the enforcement of this section, the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies, and officials by sections 11(c), 11(e), 11(g), and 12(a) of the Export Administration Act of 1979 \[50 U.S.C. App. 2410(c), (e), (g), 2411(a)\] (subject to the same terms and conditions as are applicable to such powers under that Act \[50 U.S.C. App. 2401 et seq.\]), except that section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that, notwithstanding section 11(c) of that Act, the civil penalty for each violation of this section may not exceed $500,000.
+        In the enforcement of this section, the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies, and officials by sections 11(c), 11(e), 11(g), and 12(a) of the Export Administration Act of 1979 \[[50 U.S.C. 4610(c)][/us/usc/t50/s4610/c], (e), (g), 4614(a)\] (subject to the same terms and conditions as are applicable to such powers under that Act \[[50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\]), except that section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that, notwithstanding section 11(c) of that Act, the civil penalty for each violation of this section may not exceed $500,000.
 
     (l) __Definitions__ 
 
@@ -209,7 +209,7 @@
 
     The National Security Act of 1947, referred to in subsec. (h), is [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], [61 Stat. 495][/us/stat/61/495], which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
-    The Export Administration Act of 1979, referred to in subsec. (k), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+    The Export Administration Act of 1979, referred to in subsec. (k), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -255,6 +255,8 @@
 [/us/usc/t22/s2364/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2364%2Fa
 [/us/usc/t22/s2364/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2364%2Fa
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
+[/us/usc/t50/s4610/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4610%2Fc
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t22/s6305/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6305%2F4
 [/us/usc/t22/s6305/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6305%2F8
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629

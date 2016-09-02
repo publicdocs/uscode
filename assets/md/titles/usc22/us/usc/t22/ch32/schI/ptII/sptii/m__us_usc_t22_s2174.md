@@ -37,7 +37,7 @@
 
  __References in Text__ 
 
-    The Mutual Defense Assistance Control Act of 1951, referred to in subsec. (b), is [act Oct. 26, 1951, ch. 575][/us/act/1951-10-26/ch575], [65 Stat. 644][/us/stat/65/644], as amended, which was classified generally to chapter 20A (§ 1611 et seq.) of this title prior to its supersedure by [section 2416(e) of Title 50][/us/usc/t50/s2416/e], Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
+    The Mutual Defense Assistance Control Act of 1951, referred to in subsec. (b), is [act Oct. 26, 1951, ch. 575][/us/act/1951-10-26/ch575], [65 Stat. 644][/us/stat/65/644], as amended, which was classified generally to chapter 20A (§ 1611 et seq.) of this title prior to its supersedure by [section 4619(e) of Title 50][/us/usc/t50/s4619/e], War and National Defense. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -167,7 +167,7 @@
 [/us/stat/99/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F217
 [/us/act/1951-10-26/ch575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-26%2Fch575
 [/us/stat/65/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F644
-[/us/usc/t50/s2416/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2416%2Fe
+[/us/usc/t50/s4619/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4619%2Fe
 [/us/pl/99/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83
 [/us/pl/97/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113
 [/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533

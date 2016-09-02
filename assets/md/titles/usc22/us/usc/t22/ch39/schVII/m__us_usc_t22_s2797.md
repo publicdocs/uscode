@@ -17,7 +17,7 @@
 
     (a) __Establishment of list of controlled items__ 
 
-        The Secretary of State, in consultation with the Secretary of Defense and the heads of other appropriate departments and agencies, shall establish and maintain, as part of the United States Munitions List, a list of all items on the MTCR Annex the export of which is not controlled under section 2405(l) of title 50, Appendix.
+        The Secretary of State, in consultation with the Secretary of Defense and the heads of other appropriate departments and agencies, shall establish and maintain, as part of the United States Munitions List, a list of all items on the MTCR Annex the export of which is not controlled under section 4605(l) of title 50.
 
     (b) __Referral of license applications__ 
 
@@ -113,9 +113,9 @@
 
     Ex. Ord. No. 12851, June 11, 1993, 58 F.R. 33181, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3][/us/usc/t3/s301], United States Code; sections 1701–1703 of the National Defense Authorization Act for Fiscal Year 1991, [Public Law 101–510][/us/pl/101/510] (50 U.S.C. App. 2402 note, 2405, 2410b; [22 U.S.C. 2797–279][/us/usc/t22/s2797–279]7c); sections 303, 324 \[[105 Stat. 708][/us/stat/105/708], 711\], and 401–405 \[[22 U.S.C. 2778][/us/usc/t22/s2778] note\] of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993, [Public Law 102–138][/us/pl/102/138]; sections 305–308 of the Chemical and Biological Weapons Control and Warfare Elimination Act of 1991, [Public Law 102–182][/us/pl/102/182] (50 U.S.C. App. 2410c; [22 U.S.C. 2798][/us/usc/t22/s2798], 5604–5606); sections 241 \[[105 Stat. 1326][/us/stat/105/1326]\] and 1097 \[former [22 U.S.C. 2751][/us/usc/t22/s2751] note\] of the National Defense Authorization Act for Fiscal Years 1992 and 1993, [Public Law 102–190][/us/pl/102/190]; and section 1364 of the National Defense Authorization Act for Fiscal Year 1993, [Public Law 102–484][/us/pl/102/484] \[[106 Stat. 2561][/us/stat/106/2561]\], I hereby order as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3][/us/usc/t3/s301], United States Code; sections 1701–1703 of the National Defense Authorization Act for Fiscal Year 1991, [Public Law 101–510][/us/pl/101/510] (50 U.S.C. App. 2402 note, 2405, 2410b \[now [50 U.S.C. 4602][/us/usc/t50/s4602] note, 4605, 4612\]; [22 U.S.C. 2797–279][/us/usc/t22/s2797–279]7c); sections 303, 324 \[[105 Stat. 708][/us/stat/105/708], 711\], and 401–405 \[[22 U.S.C. 2778][/us/usc/t22/s2778] note\] of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993, [Public Law 102–138][/us/pl/102/138]; sections 305–308 of the Chemical and Biological Weapons Control and Warfare Elimination Act of 1991, [Public Law 102–182][/us/pl/102/182] (50 U.S.C. App. 2410c \[now [50 U.S.C. 4613][/us/usc/t50/s4613]\]; [22 U.S.C. 2798][/us/usc/t22/s2798], 5604–5606); sections 241 \[[105 Stat. 1326][/us/stat/105/1326]\] and 1097 \[former [22 U.S.C. 2751][/us/usc/t22/s2751] note\] of the National Defense Authorization Act for Fiscal Years 1992 and 1993, [Public Law 102–190][/us/pl/102/190]; and section 1364 of the National Defense Authorization Act for Fiscal Year 1993, [Public Law 102–484][/us/pl/102/484] \[[106 Stat. 2561][/us/stat/106/2561]\], I hereby order as follows:
 
-    Section 1. Chemical and Biological Weapons Proliferation and Use Sanctions. (a) Chemical and Biological Weapons Proliferation. The authority and duties vested in me by section 81 of the Arms Export Control Act, as amended (“AECA”) ([22 U.S.C. 2798][/us/usc/t22/s2798]), and section 11C of the Export Administration Act of 1979, as amended (“EAA”) (50 U.S.C. App. 2410c), are delegated to the Secretary of State, except that:
+    Section 1. Chemical and Biological Weapons Proliferation and Use Sanctions. (a) Chemical and Biological Weapons Proliferation. The authority and duties vested in me by section 81 of the Arms Export Control Act, as amended (“AECA”) ([22 U.S.C. 2798][/us/usc/t22/s2798]), and section 11C of the Export Administration Act of 1979, as amended (“EAA”) (50 U.S.C. App. 2410c) \[now [50 U.S.C. 4613][/us/usc/t50/s4613]\], are delegated to the Secretary of State, except that:
 
     (1) The authority and duties vested in me to deny certain United States Government contracts, as provided in section 81(c)(1)(A) of the AECA and section 11C(c)(1)(A) of the EAA, pursuant to a determination made by the Secretary of State under section 81(a)(1) of the AECA or section 11C(a)(1) of the EAA, as well as the authority and duties vested in me to make the determinations provided for in section 81(c)(2) of the AECA and section 11C(c)(2) of the EAA are delegated to the Secretary of Defense. The Secretary of Defense shall notify the Secretary of the Treasury of determinations made pursuant to section 81(c)(2) of the AECA and section 11(c)(2) \[11C(c)(2)\] of the EAA.
 
@@ -133,13 +133,13 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Sec. 2. Missile Proliferation Sanctions. (a) Arms Export Control Act. The authority and duties vested in me by sections 72–73 of the AECA ([22 U.S.C. 2797a–279][/us/usc/t22/s2797a–279]7b) are delegated to the Secretary of State, except that:
 
-    (1) The authority and duties vested in me by section 72(a)(1) to make determinations with respect to violations by United States persons of the EAA \[50 U.S.C. App. 2401 et seq.\] are delegated to the Secretary of Commerce.
+    (1) The authority and duties vested in me by section 72(a)(1) to make determinations with respect to violations by United States persons of the EAA \[[50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\] are delegated to the Secretary of Commerce.
 
     (2) The authority and duties vested in me to deny certain United States Government contracts as provided in sections 73(a)(2)(A)(i) and 73(a)(2)(B)(i), pursuant to a determination made by the Secretary of State under section 73(a)(1), as well as the authority and duties vested in me to make the findings provided in sections 72(c), 73(f), and 73(g)(1), are delegated to the Secretary of Defense. The Secretary of State shall issue, transmit to the Congress, and notify the Secretary of the Treasury of, as appropriate, any waivers based upon findings made pursuant to sections 72(c) and 73(f).
 
     (3) The authority and duties vested in me to prohibit certain imports as provided in section 73(a)(2)(C), pursuant to a determination made by the Secretary of State under that section, and the obligation to implement the exceptions provided in section 73(g), are delegated to the Secretary of the Treasury.
 
-(b) Export Administration Act. The authority and duties vested in me by section 11B of the EAA (50 U.S.C. App. 2410b) are delegated to the Secretary of Commerce, except that:
+(b) Export Administration Act. The authority and duties vested in me by section 11B of the EAA (50 U.S.C. App. 2410b) \[now [50 U.S.C. 4612][/us/usc/t50/s4612]\] are delegated to the Secretary of Commerce, except that:
 
     (1) The authority and duties vested in me by sections 11B(a)(1)(A) (insofar as such section authorizes determinations with respect to violations by United States persons of the AECA \[[22 U.S.C. 2751][/us/usc/t22/s2751] et seq.\]), 11B(b)(1) (insofar as such section authorizes determinations regarding activities by foreign persons), and 11B(b)(5) are delegated to the Secretary of State.
 
@@ -210,11 +210,13 @@ Sec. 2. Missile Proliferation Sanctions. (a) Arms Export Control Act. The author
 [/us/stat/105/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1491
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/usc/t50/s4602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4602
 [/us/usc/t22/s2797–279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2797%E2%80%93279
 [/us/stat/105/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F708
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
 [/us/pl/102/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138
 [/us/pl/102/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182
+[/us/usc/t50/s4613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4613
 [/us/usc/t22/s2798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2798
 [/us/stat/105/1326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1326
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
@@ -222,9 +224,12 @@ Sec. 2. Missile Proliferation Sanctions. (a) Arms Export Control Act. The author
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/stat/106/2561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2561
 [/us/usc/t22/s2798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2798
+[/us/usc/t50/s4613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4613
 [/us/usc/t22/s5604–560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5604%E2%80%93560
 [/us/usc/t22/s5605/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5605%2Fb%2F2%2FD
 [/us/usc/t22/s2797a–279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2797a%E2%80%93279
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
+[/us/usc/t50/s4612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4612
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484

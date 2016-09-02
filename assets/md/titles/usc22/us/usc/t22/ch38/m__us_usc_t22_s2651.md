@@ -75,7 +75,7 @@
 
 [Pub. L. 102–138, § 1][/us/pl/102/138/s1], Oct. 28, 1991, [105 Stat. 647][/us/stat/105/647], provided that: 
 
-> “This Act \[enacting sections 269, 276c–4, 276l, 276m, 296a, 1475g, 1475h, 2075, 2652b, 2656g, 2656h, 2679b, 2680–1, 2686a, 2720, 2721, 2722, 2723, 2798, 4012a, 4351 to 4357, and 5601 to 5606 of this title and section 2410c of the Appendix to Title 50, War and National Defense, amending sections 277d–3, 290f, 294, 301, 1465ee, 1471, 1474, 1477c, 1928e, 2669, 2670, 2695, 2696, 2703, 2706, 2717, 2718, 2780, 2797b, 2797c, 2877, 2905, 3005, 3942, 3961, 3968, 4010, 4053, 4081, 4115, 4131, 4134, 4136, 4137, 4139, 4140, 4413, and 4852 of this title, sections 202 and 208 of Title 3, The President, sections 5315, 5523, 5551, 5922, 5923, and 5924 of Title 5, Government Organization and Employees, [section 2051 of Title 19][/us/usc/t19/s2051], Customs Duties, and section 2405 of the Appendix to Title 50, repealing [section 4509 of this title][/us/usc/t22/s4509] and former sections 269 and 2075 of this title, enacting provisions set out as notes under this section, sections 287e, 290f, 1475g, 2452, 2778, 4001, 4115, 4351, 4354, 4356, and 5601 of this title, sections 202 and 208 of Title 3, sections 5315, 5551, and 5561 of Title 5, and [section 1182 of Title 8][/us/usc/t8/s1182], Aliens and Nationality, amending provisions set out as notes under sections 287e, 2680, and 4021 of this title and [section 5561 of Title 5][/us/usc/t5/s5561], and repealing provisions set out as notes under this section and sections 287e, 1461, 2656, and 4010 of this title\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Years 1992 and 1993’.”
+> “This Act \[enacting sections 269, 276c–4, 276l, 276m, 296a, 1475g, 1475h, 2075, 2652b, 2656g, 2656h, 2679b, 2680–1, 2686a, 2720, 2721, 2722, 2723, 2798, 4012a, 4351 to 4357, and 5601 to 5606 of this title and [section 4613 of Title 50][/us/usc/t50/s4613], War and National Defense, amending sections 277d–3, 290f, 294, 301, 1465ee, 1471, 1474, 1477c, 1928e, 2669, 2670, 2695, 2696, 2703, 2706, 2717, 2718, 2780, 2797b, 2797c, 2877, 2905, 3005, 3942, 3961, 3968, 4010, 4053, 4081, 4115, 4131, 4134, 4136, 4137, 4139, 4140, 4413, and 4852 of this title, sections 202 and 208 of Title 3, The President, sections 5315, 5523, 5551, 5922, 5923, and 5924 of Title 5, Government Organization and Employees, [section 2051 of Title 19][/us/usc/t19/s2051], Customs Duties, and [section 4605 of Title 50][/us/usc/t50/s4605], repealing [section 4509 of this title][/us/usc/t22/s4509] and former sections 269 and 2075 of this title, enacting provisions set out as notes under this section, sections 287e, 290f, 1475g, 2452, 2778, 4001, 4115, 4351, 4354, 4356, and 5601 of this title, sections 202 and 208 of Title 3, sections 5315, 5551, and 5561 of Title 5, and [section 1182 of Title 8][/us/usc/t8/s1182], Aliens and Nationality, amending provisions set out as notes under sections 287e, 2680, and 4021 of this title and [section 5561 of Title 5][/us/usc/t5/s5561], and repealing provisions set out as notes under this section and sections 287e, 1461, 2656, and 4010 of this title\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Years 1992 and 1993’.”
 
  __Short Title of 1990 Amendment__ 
 
@@ -93,7 +93,7 @@
 
 [Pub. L. 99–93, § 1(a)][/us/pl/99/93/s1/a], Aug. 16, 1985, [99 Stat. 405][/us/stat/99/405], provided that: 
 
-> “This Act \[enacting sections 1461–1a, 2592, 2606, 2709, 2710, 2883, 3922a, 3929a, 4309a, 4314, 4414, 4415, and 4701 to 4715 of this title, amending sections 290j–1, 1477c, 2357, 2589, 2601, 2605, 2652, 2669, 2685, 2704, 2871, 2875, 2877, 3930, 3945, 4084, 4301, 4302, 4304, 4305, 4403, and 4413 of this title, [section 208 of Title 3][/us/usc/t3/s208], The President, sections 5314, 5315, and 5316 of Title 5, Government Organization and Employees, sections 2 and 11 of the Appendix to Title 5, [section 1622 of Title 50][/us/usc/t50/s1622], War and National Defense, and [section 39 of Title 50][/us/usc/t50/s39], Appendix, repealing sections 2666 and 2667 of this title, enacting provisions set out as notes under sections 287e, 1477c, 1928, 2291, 2605, 2656, 2669, 2697, 2875, 2877, 3943, 3945, 4021, and 4314 of this title, [section 1182 of Title 8][/us/usc/t8/s1182], Aliens and Nationality, [section 3181 of Title 18][/us/usc/t18/s3181], Crimes and Criminal Procedure, [section 701 of Title 47][/us/usc/t47/s701], Telecommunications, and [section 1701 of Title 50][/us/usc/t50/s1701], amending provisions set out as notes under this section and sections 287 and 287e of this title, and repealing provisions set out as a note under [section 3901 of this title][/us/usc/t22/s3901]\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Years 1986 and 1987’.”
+> “This Act \[enacting sections 1461–1a, 2592, 2606, 2709, 2710, 2883, 3922a, 3929a, 4309a, 4314, 4414, 4415, and 4701 to 4715 of this title, amending sections 290j–1, 1477c, 2357, 2589, 2601, 2605, 2652, 2669, 2685, 2704, 2871, 2875, 2877, 3930, 3945, 4084, 4301, 4302, 4304, 4305, 4403, and 4413 of this title, [section 208 of Title 3][/us/usc/t3/s208], The President, sections 5314, 5315, and 5316 of Title 5, Government Organization and Employees, sections 2 and 11 of the Appendix to Title 5, and sections 1622 and 4336 of Title 50, War and National Defense, repealing sections 2666 and 2667 of this title, enacting provisions set out as notes under sections 287e, 1477c, 1928, 2291, 2605, 2656, 2669, 2697, 2875, 2877, 3943, 3945, 4021, and 4314 of this title, [section 1182 of Title 8][/us/usc/t8/s1182], Aliens and Nationality, [section 3181 of Title 18][/us/usc/t18/s3181], Crimes and Criminal Procedure, [section 701 of Title 47][/us/usc/t47/s701], Telecommunications, and [section 1701 of Title 50][/us/usc/t50/s1701], amending provisions set out as notes under this section and sections 287 and 287e of this title, and repealing provisions set out as a note under [section 3901 of this title][/us/usc/t22/s3901]\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Years 1986 and 1987’.”
 
  __Short Title of 1976 Amendment__ 
 
@@ -111,7 +111,7 @@
 
 [Pub. L. 93–475, § 1][/us/pl/93/475/s1], Oct. 26, 1974, [88 Stat. 1439][/us/stat/88/1439], provided: 
 
-> “That this Act \[enacting sections 966, 2679a, 2680a, and 2686 of this title, amending sections 901a, 1439, 1476, and 2680 of this title, and [section 5924 of Title 5][/us/usc/t5/s5924], Government Organization and Employees, enacting provisions set out as notes under sections 901a, 966, and 2151 of this title and amending provisions set out as notes preceding [section 1 of Title 50][/us/usc/t50/s1], Appendix, War and National Defense\] may be cited as the ‘State Department/USIA Authorization Act, Fiscal Year 1975’.”
+> “That this Act \[enacting sections 966, 2679a, 2680a, and 2686 of this title, amending sections 901a, 1439, 1476, and 2680 of this title and [section 5924 of Title 5][/us/usc/t5/s5924], Government Organization and Employees, and enacting provisions set out as notes under sections 901a, 966, and 2151 of this title\] may be cited as the ‘State Department/USIA Authorization Act, Fiscal Year 1975’.”
 
  __Short Title of 1973 Amendment__ 
 
@@ -235,7 +235,9 @@
 [/us/stat/108/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F382
 [/us/pl/102/138/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F138%2Fs1
 [/us/stat/105/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F647
+[/us/usc/t50/s4613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4613
 [/us/usc/t19/s2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2051
+[/us/usc/t50/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605
 [/us/usc/t22/s4509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4509
 [/us/usc/t8/s1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182
 [/us/usc/t5/s5561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5561
@@ -257,8 +259,6 @@
 [/us/pl/99/93/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs1%2Fa
 [/us/stat/99/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F405
 [/us/usc/t3/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs208
-[/us/usc/t50/s1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1622
-[/us/usc/t50/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs39
 [/us/usc/t8/s1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182
 [/us/usc/t18/s3181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3181
 [/us/usc/t47/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs701
@@ -273,7 +273,6 @@
 [/us/pl/93/475/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F475%2Fs1
 [/us/stat/88/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1439
 [/us/usc/t5/s5924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5924
-[/us/usc/t50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1
 [/us/pl/93/126/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F126%2Fs1
 [/us/stat/87/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F451
 [/us/usc/t2/s194a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs194a

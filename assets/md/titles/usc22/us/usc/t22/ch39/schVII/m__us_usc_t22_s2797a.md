@@ -21,7 +21,7 @@
 
          If the President determines that a United States person knowingly—
 
-            (A) exports, transfers, or otherwise engages in the trade of any item on the MTCR Annex, in violation of the provisions of [section 2778 of this title][/us/usc/t22/s2778], section 2404 or 2405 of title 50, Appendix, or any regulations or orders issued under any such provisions,
+            (A) exports, transfers, or otherwise engages in the trade of any item on the MTCR Annex, in violation of the provisions of [section 2778 of this title][/us/usc/t22/s2778], section 4604 or 4605 of title 50 or any regulations or orders issued under any such provisions,
 
             (B) conspires to or attempts to engage in such export, transfer, or trade, or
 
@@ -55,7 +55,7 @@
 
     (c) __Presumption__ 
 
-        In determining whether to apply sanctions under subsection (a) to a United States person involved in the export, transfer, or trade of an item on the MTCR Annex, it should be a rebuttable presumption that such item is designed for use in a missile listed in the MTCR Annex if the President determines that the final destination of the item is a country the government of which the Secretary of State has determined, for purposes of 2405(j)(1)(A)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “section”. </sup></sup>  of title 50, Appendix, has repeatedly provided support for acts of international terrorism.
+        In determining whether to apply sanctions under subsection (a) to a United States person involved in the export, transfer, or trade of an item on the MTCR Annex, it should be a rebuttable presumption that such item is designed for use in a missile listed in the MTCR Annex if the President determines that the final destination of the item is a country the government of which the Secretary of State has determined, for purposes of 4605(j)(1)(A)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “section”. </sup></sup>  of title 50, has repeatedly provided support for acts of international terrorism.
 
     (d) __Waiver__ 
 

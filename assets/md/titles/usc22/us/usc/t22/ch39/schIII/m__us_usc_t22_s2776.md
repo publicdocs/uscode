@@ -247,7 +247,7 @@
 
     (g) __Confidentiality__ 
 
-        Information relating to offset agreements provided pursuant to subparagraph (C) of the fifth sentence of subsection (b)(1) and the second sentence of subsection (c)(1) shall be treated as confidential information in accordance with section 2411(c) of the Appendix to title 50.
+        Information relating to offset agreements provided pursuant to subparagraph (C) of the fifth sentence of subsection (b)(1) and the second sentence of subsection (c)(1) shall be treated as confidential information in accordance with [section 4614(c) of title 50][/us/usc/t50/s4614/c].
 
     (h) __Certification requirement relating to Israel’s qualitative military edge__ 
 
@@ -570,6 +570,7 @@
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
 [/us/usc/t22/s2778/j/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778%2Fj%2F1%2FC%2Fi
 [/us/usc/t22/s2778/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778%2Fj%2F1
+[/us/usc/t50/s4614/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4614%2Fc
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1326
 [/us/pl/93/189/s25/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189%2Fs25%2F10

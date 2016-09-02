@@ -697,7 +697,7 @@ Similar provisions were contained in the following appropriation acts:
 
 >         “(4) instructions to express concern in individual cases of torture brought to the attention of a United States diplomatic mission including, whenever feasible, sending United States observers to trials when there is reason to believe that torture has been used against the accused.
 
->     “(c) The Secretary of Commerce should continue to enforce vigorously the current restrictions on the export of crime control equipment pursuant to the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\].
+>     “(c) The Secretary of Commerce should continue to enforce vigorously the current restrictions on the export of crime control equipment pursuant to the Export Administration Act of 1979 \[[50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\].
 
 >     “(d) The heads of the appropriate departments of the United States Government that furnish military and law enforcement training to foreign personnel, particularly personnel from countries where the practice of torture has been a documented concern, shall include in such training, when relevant, instruction regarding international human rights standards and the policy of the United States with respect to torture.”
 
@@ -942,6 +942,7 @@ Similar provisions were contained in the following appropriation acts:
 [/us/stat/99/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F422
 [/us/pl/98/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F447
 [/us/stat/98/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1721
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
 [/us/pl/103/236/s161/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fd
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a

@@ -25,7 +25,7 @@
 
     (c) __Presidential authority__ 
 
-        In the enforcement of this section, the President is authorized to exercise the same powers concerning violations and enforcement and imposition of civil penalties which are conferred upon departments, agencies and officials by subsections (c), (d), (e), and (f) of section 11 of the Export Administration Act of 1979 \[50 U.S.C. App. 2410(c), (d), (e), (f)\], and section 12(a) of such Act \[50 U.S.C. App. 2411(a)\], subject to the same terms and conditions as are applicable to such powers under that Act \[50 U.S.C. App. 2401 et seq.\], except that section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that notwithstanding section 11(c) of that Act, the civil penalty for each violation of this section may not exceed $500,000 or five times the amount of the prohibited incentive payment, whichever is greater.
+        In the enforcement of this section, the President is authorized to exercise the same powers concerning violations and enforcement and imposition of civil penalties which are conferred upon departments, agencies and officials by subsections (c), (d), (e), and (f) of section 11 of the Export Administration Act of 1979 \[[50 U.S.C. 4610(c)][/us/usc/t50/s4610/c], (d), (e), (f)\], and section 12(a) of such Act \[[50 U.S.C. 4614(a)][/us/usc/t50/s4614/a]\], subject to the same terms and conditions as are applicable to such powers under that Act \[[50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\], except that section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that notwithstanding section 11(c) of that Act, the civil penalty for each violation of this section may not exceed $500,000 or five times the amount of the prohibited incentive payment, whichever is greater.
 
     (d) __Definitions__ 
 
@@ -55,7 +55,7 @@
 
     This chapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning [Pub. L. 90–629][/us/pl/90/629], Oct. 22, 1968, [82 Stat. 1321][/us/stat/82/1321], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title][/us/usc/t22/s2751] and Tables.
 
-    The Export Administration Act of 1979, referred to in subsec. (c), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2401 of Title 50][/us/usc/t50/s2401], Appendix, and Tables.
+    The Export Administration Act of 1979, referred to in subsec. (c), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, Tables.
 
  __Amendments__ 
 
@@ -79,6 +79,9 @@
 ----------
 
 [/us/usc/t22/s2778/j/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778%2Fj%2F1%2FC%2Fi
+[/us/usc/t50/s4610/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4610%2Fc
+[/us/usc/t50/s4614/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4614%2Fa
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/pl/103/236/s733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs733
 [/us/stat/108/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F504
@@ -91,7 +94,6 @@
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
-[/us/usc/t50/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2401
 [/us/pl/111/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266
 [/us/usc/t22/s2778/j/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778%2Fj%2F1%2FC%2Fi
 [/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7

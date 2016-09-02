@@ -543,7 +543,7 @@
 
 >     Not later than 90 days after the date of the enactment of the Belarus Democracy and Human Rights Act of 2011 \[[Pub. L. 112–82][/us/pl/112/82], approved Jan. 3, 2012\], and not later than 1 year thereafter, the President shall transmit to the appropriate congressional committees a report that describes, with respect to the preceding 12-month period, and to the extent practicable the following:
 
->         “(1) The sale or delivery or provision of weapons or weapons-related technologies or weapons-related training from the Republic of Belarus to any country, the government of which the Secretary of State has determined, for purposes of section 6(j)(1) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)), has repeatedly provided support for acts of international terrorism.
+>         “(1) The sale or delivery or provision of weapons or weapons-related technologies or weapons-related training from the Republic of Belarus to any country, the government of which the Secretary of State has determined, for purposes of section 6(j)(1) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)) \[now [50 U.S.C. 4605(j)(1)][/us/usc/t50/s4605/j/1]\], has repeatedly provided support for acts of international terrorism.
 
 >         “(2) An identification of each country described in paragraph (1) and a detailed description of the weapons or weapons-related technologies or weapons-related training involved in the sale or delivery or provision.
 
@@ -634,6 +634,7 @@
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t49/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102
 [/us/pl/112/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F82
+[/us/usc/t50/s4605/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1
 [/us/pl/109/480/s4/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F480%2Fs4%2Fc%2F2
 [/us/stat/120/3668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3668
 [/us/pl/108/347/s4/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F347%2Fs4%2Fd%2F1

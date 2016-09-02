@@ -25,7 +25,7 @@
 
             (B) through the export from any other country of any goods or technology that would be, if they were United States goods or technology, subject to the jurisdiction of the United States, or
 
-            (C) through any other transaction not subject to sanctions pursuant to the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\],
+            (C) through any other transaction not subject to sanctions pursuant to the Export Administration Act of 1979 \[[50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\],
 
             to the efforts by any foreign country, project, or entity described in paragraph (2) to use, develop, produce, stockpile, or otherwise acquire chemical or biological weapons.
 
@@ -43,7 +43,7 @@
 
                 (iii) made substantial preparations to engage in the activities described in clause (i) or (ii);
 
-            (B) any foreign country whose government is determined for purposes of section 6(j) of the Export Administration Act of 1979 \[50 U.S.C. App. 2405(j)\] to be a government that has repeatedly provided support for acts of international terrorism; or
+            (B) any foreign country whose government is determined for purposes of section 6(j) of the Export Administration Act of 1979 \[[50 U.S.C. 4605(j)][/us/usc/t50/s4605/j]\] to be a government that has repeatedly provided support for acts of international terrorism; or
 
             (C) any other foreign country, project, or entity designated by the President for purposes of this section.
 
@@ -143,7 +143,7 @@
 
  __References in Text__ 
 
-    The Export Administration Act of 1979, referred to in subsec. (a)(1)(C), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+    The Export Administration Act of 1979, referred to in subsec. (a)(1)(C), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
  __Prior Provisions__ 
 
@@ -164,6 +164,8 @@
 ----------
 ----------
 
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
+[/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/pl/102/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182
 [/us/stat/105/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1250

@@ -23,7 +23,7 @@
 
          the Government of Iran has ceased providing support for acts of international terrorism and no longer satisfies the requirements for designation as a state sponsor of terrorism (as defined in section 301 \[[22 U.S.C. 8541][/us/usc/t22/s8541]\]) under—
 
-            (A) section 2405(j)(1)(A) of the Appendix to title 50 (or any successor thereto);
+            (A) [section 4605(j)(1)(A) of title 50][/us/usc/t50/s4605/j/1/A] (or any successor thereto);
 
             (B) [section 2780(d) of this title][/us/usc/t22/s2780/d]; or
 
@@ -61,7 +61,7 @@
 
  __References in Text__ 
 
-    This Act, referred to in subsecs. (a) and (c)(1), is [Pub. L. 111–195][/us/pl/111/195], July 1, 2010, [124 Stat. 1312][/us/stat/124/1312], known as the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, which enacted this chapter, amended sections 287c, 2778, and 2780 of this title, [section 80a–13 of Title 15][/us/usc/t15/s80a–13], Commerce and Trade, [section 310 of Title 31][/us/usc/t31/s310], Money and Finance, and section 16 of the Appendix to Title 50, War and National Defense, enacted provisions set out as notes under [section 80a–13 of Title 15][/us/usc/t15/s80a–13] and [section 1701 of Title 50][/us/usc/t50/s1701], and amended provisions set out as notes under [section 1701 of Title 50][/us/usc/t50/s1701]. Title I of the Act enacted subchapter I of this chapter, amended sections 287c, 2778, and 2780 of this title, [section 310 of Title 31][/us/usc/t31/s310], and section 16 of the Appendix to Title 50, enacted provisions set out as a note under [section 1701 of Title 50][/us/usc/t50/s1701], and amended provisions set out as a note under [section 1701 of Title 50][/us/usc/t50/s1701]. Title III of the Act enacted subchapter III of this chapter. Section 102 of the Act enacted and amended provisions set out as notes under [section 1701 of Title 50][/us/usc/t50/s1701]. Section 107 of the Act amended sections 287c, 2778, and 2780 of this title and section 16 of the Appendix to Title 50. Section 109 of the Act enacted [section 8517 of this title][/us/usc/t22/s8517] and amended [section 310 of Title 31][/us/usc/t31/s310]. Section 205 of the Act amended [section 80a–13 of Title 15][/us/usc/t15/s80a–13], enacted provisions set out as a note under [section 80a–13 of Title 15][/us/usc/t15/s80a–13], and amended provisions set out as a note under [section 1701 of Title 50][/us/usc/t50/s1701]. For complete classification of this Act to the Code, see Short Title note set out under [section 8501 of this title][/us/usc/t22/s8501] and Tables.
+    This Act, referred to in subsecs. (a) and (c)(1), is [Pub. L. 111–195][/us/pl/111/195], July 1, 2010, [124 Stat. 1312][/us/stat/124/1312], known as the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, which enacted this chapter, amended sections 287c, 2778, and 2780 of this title, [section 80a–13 of Title 15][/us/usc/t15/s80a–13], Commerce and Trade, [section 310 of Title 31][/us/usc/t31/s310], Money and Finance, and [section 4315 of Title 50][/us/usc/t50/s4315], War and National Defense, enacted provisions set out as notes under [section 80a–13 of Title 15][/us/usc/t15/s80a–13] and [section 1701 of Title 50][/us/usc/t50/s1701], and amended provisions set out as notes under [section 1701 of Title 50][/us/usc/t50/s1701]. Title I of the Act enacted subchapter I of this chapter, amended sections 287c, 2778, and 2780 of this title, [section 310 of Title 31][/us/usc/t31/s310], and [section 4315 of Title 50][/us/usc/t50/s4315], enacted provisions set out as a note under [section 1701 of Title 50][/us/usc/t50/s1701], and amended provisions set out as a note under [section 1701 of Title 50][/us/usc/t50/s1701]. Title III of the Act enacted subchapter III of this chapter. Section 102 of the Act enacted and amended provisions set out as notes under [section 1701 of Title 50][/us/usc/t50/s1701]. Section 107 of the Act amended sections 287c, 2778, and 2780 of this title and [section 4315 of Title 50][/us/usc/t50/s4315]. Section 109 of the Act enacted [section 8517 of this title][/us/usc/t22/s8517] and amended [section 310 of Title 31][/us/usc/t31/s310]. Section 205 of the Act amended [section 80a–13 of Title 15][/us/usc/t15/s80a–13], enacted provisions set out as a note under [section 80a–13 of Title 15][/us/usc/t15/s80a–13], and amended provisions set out as a note under [section 1701 of Title 50][/us/usc/t50/s1701]. For complete classification of this Act to the Code, see Short Title note set out under [section 8501 of this title][/us/usc/t22/s8501] and Tables.
 
  __Amendments__ 
 
@@ -91,6 +91,7 @@
 [/us/usc/t22/s8514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8514
 [/us/usc/t15/s80a–13/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9313%2Fc%2F1%2FB
 [/us/usc/t22/s8541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8541
+[/us/usc/t50/s4605/j/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1%2FA
 [/us/usc/t22/s2780/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780%2Fd
 [/us/usc/t22/s2371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371%2Fa
 [/us/usc/t22/s8512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8512%2Fb
@@ -120,13 +121,16 @@
 [/us/stat/124/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1312
 [/us/usc/t15/s80a–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9313
 [/us/usc/t31/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs310
+[/us/usc/t50/s4315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4315
 [/us/usc/t15/s80a–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9313
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t31/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs310
+[/us/usc/t50/s4315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4315
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
+[/us/usc/t50/s4315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4315
 [/us/usc/t22/s8517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8517
 [/us/usc/t31/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs310
 [/us/usc/t15/s80a–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9313

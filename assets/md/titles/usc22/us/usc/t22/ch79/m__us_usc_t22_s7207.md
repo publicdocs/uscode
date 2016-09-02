@@ -43,11 +43,11 @@
 
         (2) __Penalties__ 
 
-            Any private person or entity that violates paragraph (1) shall be subject to the penalties provided in the Trading With the Enemy Act \[50 U.S.C. App. 1 et seq.\] for violations under that Act.
+            Any private person or entity that violates paragraph (1) shall be subject to the penalties provided in the Trading With the Enemy Act \[[50 U.S.C. 4301][/us/usc/t50/s4301] et seq.\] for violations under that Act.
 
         (3) __Administration and enforcement__ 
 
-            The President shall issue such regulations as are necessary to carry out this section, except that the President, in lieu of issuing new regulations, may apply any regulations in effect on October 28, 2000, pursuant to the Trading With the Enemy Act \[50 U.S.C. App. 1 et seq.\], with respect to the conduct prohibited in paragraph (1).
+            The President shall issue such regulations as are necessary to carry out this section, except that the President, in lieu of issuing new regulations, may apply any regulations in effect on October 28, 2000, pursuant to the Trading With the Enemy Act \[[50 U.S.C. 4301][/us/usc/t50/s4301] et seq.\], with respect to the conduct prohibited in paragraph (1).
 
         (4) __Definitions__ 
 
@@ -63,7 +63,7 @@
 
  __References in Text__ 
 
-    The Trading With the Enemy Act, referred to in subsec. (b)(2), (3), is [act Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], [40 Stat. 411][/us/stat/40/411], as amended, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
+    The Trading With the Enemy Act, referred to in subsec. (b)(2), (3), is [act Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], [40 Stat. 411][/us/stat/40/411], which is classified to chapter 53 (§ 4301 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
  __Determination and Waiver of Application of Section 908(a)(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000 With Respect to Libya__ 
 
@@ -97,6 +97,8 @@
 ----------
 
 [/us/usc/t22/s6039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6039
+[/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301
+[/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301
 [/us/pl/106/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F387%2Fs1%2Fa
 [/us/stat/114/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1549
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106

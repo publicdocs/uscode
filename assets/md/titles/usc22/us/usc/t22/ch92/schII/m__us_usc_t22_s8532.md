@@ -117,7 +117,7 @@
 
     The Employee Retirement Income Security Act of 1974, referred to in subsec. (g)(1)(B), is [Pub. L. 93–406][/us/pl/93/406], Sept. 2, 1974, [88 Stat. 829][/us/stat/88/829]. Title I of the Act is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29][/us/usc/t29/s1001] and Tables.
 
-    This Act, referred to in subsec. (j), is [Pub. L. 111–195][/us/pl/111/195], July 1, 2010, [124 Stat. 1312][/us/stat/124/1312], which enacted this chapter, amended sections 287c, 2778, and 2780 of this title, [section 80a–13 of Title 15][/us/usc/t15/s80a–13], Commerce and Trade, [section 310 of Title 31][/us/usc/t31/s310], Money and Finance, and section 16 of the Appendix to Title 50, War and National Defense, enacted provisions set out as notes under [section 80a–13 of Title 15][/us/usc/t15/s80a–13] and [section 1701 of Title 50][/us/usc/t50/s1701], and amended provisions set out as notes under [section 1701 of Title 50][/us/usc/t50/s1701]. For complete classification of this Act to the Code, see Short Title note set out under [section 8501 of this title][/us/usc/t22/s8501] and Tables.
+    This Act, referred to in subsec. (j), is [Pub. L. 111–195][/us/pl/111/195], July 1, 2010, [124 Stat. 1312][/us/stat/124/1312], which enacted this chapter, amended sections 287c, 2778, and 2780 of this title, [section 80a–13 of Title 15][/us/usc/t15/s80a–13], Commerce and Trade, [section 310 of Title 31][/us/usc/t31/s310], Money and Finance, and [section 4315 of Title 50][/us/usc/t50/s4315], War and National Defense, enacted provisions set out as notes under [section 80a–13 of Title 15][/us/usc/t15/s80a–13] and [section 1701 of Title 50][/us/usc/t50/s1701], and amended provisions set out as notes under [section 1701 of Title 50][/us/usc/t50/s1701]. For complete classification of this Act to the Code, see Short Title note set out under [section 8501 of this title][/us/usc/t22/s8501] and Tables.
 
     Act of March 9, 1945, referred to in subsec. (j), is [act Mar. 9, 1945, ch. 20][/us/act/1945-03-09/ch20], [59 Stat. 33][/us/stat/59/33], popularly known as the McCarran-Ferguson Act, which is classified generally to chapter 20 (§ 1011 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1011 of Title 15][/us/usc/t15/s1011] and Tables.
 
@@ -146,6 +146,7 @@
 [/us/stat/124/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1312
 [/us/usc/t15/s80a–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9313
 [/us/usc/t31/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs310
+[/us/usc/t50/s4315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4315
 [/us/usc/t15/s80a–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9313
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701

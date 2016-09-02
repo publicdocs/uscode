@@ -59,7 +59,7 @@
 
             (A) any country listed as a Communist country in [section 2370(f) of this title][/us/usc/t22/s2370/f];
 
-            (B) any country determined by the Secretary of State, for purposes of section 2405(j) of the Appendix to title 50, to be a country which has repeatedly provided support for acts of international terrorism; and
+            (B) any country determined by the Secretary of State, for purposes of [section 4605(j) of title 50][/us/usc/t50/s4605/j], to be a country which has repeatedly provided support for acts of international terrorism; and
 
             (C) any other country which engages in intelligence activities in the United States which are adverse to the national security interests of the United States.
 
@@ -98,6 +98,7 @@
 
 [/us/usc/t22/s4309/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4309%2Fb%2F2
 [/us/usc/t22/s2370/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370%2Ff
+[/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
 [/us/pl/97/241/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs202%2Fb
 [/us/stat/96/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F285

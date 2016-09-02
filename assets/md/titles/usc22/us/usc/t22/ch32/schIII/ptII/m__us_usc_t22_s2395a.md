@@ -91,7 +91,7 @@
 
 >         “(1) has an excessive level of military expenditures;
 
->         “(2) has repeatedly provided support for acts of international terrorism, as determined by the Secretary of State under section 6(j)(1) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)) or section 620A(a) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371(a)][/us/usc/t22/s2371/a]);
+>         “(2) has repeatedly provided support for acts of international terrorism, as determined by the Secretary of State under section 6(j)(1) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)) \[now [50 U.S.C. 4605(j)(1)][/us/usc/t50/s4605/j/1]\] or section 620A(a) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371(a)][/us/usc/t22/s2371/a]);
 
 >         “(3) is failing to cooperate on international narcotics control matters; or
 
@@ -178,6 +178,7 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t7/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1701
 [/us/stat/55/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F31
 [/us/usc/t22/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs411
+[/us/usc/t50/s4605/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1
 [/us/usc/t22/s2371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371%2Fa
 [/us/usc/t22/s262p–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%937
 [/us/usc/t22/s2370/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2370%2Fr

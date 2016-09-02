@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    The Trading With the Enemy Act of October 6, 1917, as amended, referred to in text, is [act Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], [40 Stat. 411][/us/stat/40/411], as amended, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
+    The Trading With the Enemy Act of October 6, 1917, as amended, referred to in text, is [act Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], [40 Stat. 411][/us/stat/40/411], which is classified generally to chapter 53 (§ 4301 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -57,15 +57,11 @@
 
     3. All personnel, records, files, furniture, funds, authorizations, equipment, and supplies of the Philippine Alien Property Administration are hereby transferred to the Department of Justice.
 
-    4. All necessary expenses incurred in the administration or operation of the functions, duties, authority, rights, privileges, and powers hereby vested in or transferred or delegated to the Attorney General shall be paid, to the extent permitted and in the manner prescribed by law, from funds or property or interests vested in or transferred to the Attorney General by or pursuant to the authority contained in this order, so as to prevent diminution of funds otherwise available for the War Claims Fund under section 39 of the Trading with the Enemy Act, as amended by [section 12 of the act of July 3, 1948][/us/act/1948-07-03/s12], [62 Stat. 1246][/us/stat/62/1246] \[[section 39 of Title 50][/us/usc/t50/s39], Appendix, War and National Defense\].
+    4. All necessary expenses incurred in the administration or operation of the functions, duties, authority, rights, privileges, and powers hereby vested in or transferred or delegated to the Attorney General shall be paid, to the extent permitted and in the manner prescribed by law, from funds or property or interests vested in or transferred to the Attorney General by or pursuant to the authority contained in this order, so as to prevent diminution of funds otherwise available for the War Claims Fund under section 39 of the Trading with the Enemy Act, as amended by [section 12 of the act of July 3, 1948][/us/act/1948-07-03/s12], [62 Stat. 1246][/us/stat/62/1246] \[[50 U.S.C. 4336][/us/usc/t50/s4336]\].
 
     This order shall become effective at the close of business in Washington, D.C., on June 29, 1951, and shall at that time supersede all prior Executive orders to the extent that they are in conflict with this order.
 
                               Harry S Truman.
-
- __Transfer of Alien Property Custodian Functions__ 
-
-    Functions of Alien Property Custodian and Office of Alien Property Custodian, except those relating to property or interests in Philippines, vested in Attorney General. See notes set out under [section 6 of Title 50][/us/usc/t50/s6], Appendix, War and National Defense.
 
 ----------
 
@@ -87,7 +83,6 @@
 [/us/stat/63/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F880
 [/us/act/1948-07-03/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fs12
 [/us/stat/62/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1246
-[/us/usc/t50/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs39
-[/us/usc/t50/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs6
+[/us/usc/t50/s4336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4336
 
 

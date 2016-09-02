@@ -55,7 +55,7 @@
 
     (d) __Clarification of applicability of sanctions__ 
 
-        The prohibitions contained in subsections (a), (b), and (c) shall not apply with respect to any activity otherwise permitted by [section 6004 of this title][/us/usc/t22/s6004] or [section 6006 of this title][/us/usc/t22/s6006] or any activity which may not be regulated or prohibited under section 5(b)(4) of the Trading With the Enemy Act \[[12 U.S.C. 95a(4)][/us/usc/t12/s95a/4], 50 U.S.C. App. 5(b)(4)\].
+        The prohibitions contained in subsections (a), (b), and (c) shall not apply with respect to any activity otherwise permitted by [section 6004 of this title][/us/usc/t22/s6004] or [section 6006 of this title][/us/usc/t22/s6006] or any activity which may not be regulated or prohibited under section 5(b)(4) of the Trading With the Enemy Act \[[50 U.S.C. 4305(b)(4)][/us/usc/t50/s4305/b/4]\].
 
 ([Pub. L. 102–484, div. A, title XVII, § 1706][/us/pl/102/484/s1706], Oct. 23, 1992, [106 Stat. 2578][/us/stat/106/2578].)
 
@@ -73,7 +73,7 @@
 [/us/usc/t19/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1401
 [/us/usc/t22/s6004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6004
 [/us/usc/t22/s6006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6006
-[/us/usc/t12/s95a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs95a%2F4
+[/us/usc/t50/s4305/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305%2Fb%2F4
 [/us/pl/102/484/s1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1706
 [/us/stat/106/2578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2578
 [/us/pl/104/114/s204/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs204%2Fd%2F3

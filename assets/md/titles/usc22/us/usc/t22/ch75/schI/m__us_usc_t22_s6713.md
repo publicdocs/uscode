@@ -95,7 +95,7 @@
 
                 (ii) __Sanctions under Export Administration Act of 1979__ 
 
-                    The authorities under section 6 of the Export Administration Act of 1979 \[50 U.S.C. App. 2405\] shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) of that Act \[50 U.S.C. App. 2404(c)(1)\] to a person described in subparagraph (A).
+                    The authorities under section 6 of the Export Administration Act of 1979 \[[50 U.S.C. 4605][/us/usc/t50/s4605]\] shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) of that Act \[[50 U.S.C. 4604(c)(1)][/us/usc/t50/s4604/c/1]\] to a person described in subparagraph (A).
 
                 (iii) __International financial assistance__ 
 
@@ -139,7 +139,7 @@
 
                 (iv) __Sanctions under Export Administration Act of 1979__ 
 
-                    The authorities of section 6 of the Export Administration Act of 1979 \[50 U.S.C. App. 2405\] shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) of that Act \[50 U.S.C. App. 2404(c)(1)\] to a country described in subparagraph (A).
+                    The authorities of section 6 of the Export Administration Act of 1979 \[[50 U.S.C. 4605][/us/usc/t50/s4605]\] shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) of that Act \[[50 U.S.C. 4604(c)(1)][/us/usc/t50/s4604/c/1]\] to a country described in subparagraph (A).
 
                 (v) __International financial assistance__ 
 
@@ -233,8 +233,12 @@
 ----------
 
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
+[/us/usc/t50/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605
+[/us/usc/t50/s4604/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604%2Fc%2F1
 [/us/usc/t22/s262d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262d
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
+[/us/usc/t50/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605
+[/us/usc/t50/s4604/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604%2Fc%2F1
 [/us/usc/t22/s262d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262d
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s6724/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6724%2Fe%2F2

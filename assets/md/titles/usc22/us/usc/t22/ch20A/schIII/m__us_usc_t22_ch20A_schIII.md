@@ -19,7 +19,7 @@
 
  __Codification__ 
 
-    Sections, acts [Oct. 26, 1951, ch. 575][/us/act/1951-10-26/ch575], title III, §§ 301–305, [65 Stat. 647][/us/stat/65/647]; Sept. 4, 1961, [Pub. L. 87–195][/us/pl/87/195], pt. IV, § 703(a), [75 Stat. 463][/us/stat/75/463]; Oct. 19, 1980, [Pub. L. 96–470, title I, § 111(a)][/us/pl/96/470/s111/a], [94 Stat. 2239][/us/stat/94/2239], were superseded, effective October 1, 1979, by [section 2416(e) of Title 50][/us/usc/t50/s2416/e], Appendix, War and National Defense. See section 2401 et seq. of Title 50, Appendix.
+    Sections, acts [Oct. 26, 1951, ch. 575][/us/act/1951-10-26/ch575], title III, §§ 301–305, [65 Stat. 647][/us/stat/65/647]; Sept. 4, 1961, [Pub. L. 87–195][/us/pl/87/195], pt. IV, § 703(a), [75 Stat. 463][/us/stat/75/463]; Oct. 19, 1980, [Pub. L. 96–470, title I, § 111(a)][/us/pl/96/470/s111/a], [94 Stat. 2239][/us/stat/94/2239], were superseded, effective October 1, 1979, by [section 4619(e) of Title 50][/us/usc/t50/s4619/e], War and National Defense. See chapter 56 (§ 4601 et seq.) of Title 50.
 
     Section 1613 set forth provisions relating to cooperation in the program by non-recipient countries.
 
@@ -44,6 +44,6 @@
 [/us/stat/75/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F463
 [/us/pl/96/470/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs111%2Fa
 [/us/stat/94/2239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2239
-[/us/usc/t50/s2416/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2416%2Fe
+[/us/usc/t50/s4619/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4619%2Fe
 
 

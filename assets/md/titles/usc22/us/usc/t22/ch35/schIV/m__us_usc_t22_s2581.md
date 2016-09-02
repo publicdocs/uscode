@@ -45,7 +45,7 @@
 
     (e) __Employment of outstanding personnel__ 
 
-        employ individuals of outstanding ability without compensation in accordance with the provisions of section 2160(b) of the Appendix to title 50 and regulations issued thereunder;
+        employ individuals of outstanding ability without compensation in accordance with the provisions of [section 4560(b) of title 50][/us/usc/t50/s4560/b] and regulations issued thereunder;
 
     (f) __Establishment of scientific and policy advisory board; compensation and expenses__ 
 
@@ -149,6 +149,7 @@
 ----------
 
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
+[/us/usc/t50/s4560/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4560%2Fb
 [/us/pl/87/297/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F297%2Fs401
 [/us/stat/75/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F635
 [/us/pl/93/332/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F332%2Fs1%2Fa

@@ -79,7 +79,7 @@
 
  __Sec. 4. Abolitions__ 
 
-    (a) The War Claims Commission provided for in the War Claims Act of 1948, [62 Stat. 1240][/us/stat/62/1240], as amended \[50 U.S.C. App. 2001 et seq.\] and the International Claims Commission, provided for in the International Claims Settlement Act of 1949, as amended \[[22 U.S.C. 1621–162][/us/usc/t22/s1621–162]7\], including the offices of the members of each of the said commissions, and the office of Commissioner provided for in the aforesaid Joint Resolution of August 4, 1939, are hereby abolished.
+    (a) The War Claims Commission provided for in the War Claims Act of 1948, [62 Stat. 1240][/us/stat/62/1240], as amended \[[50 U.S.C. 4101][/us/usc/t50/s4101] et seq.\] and the International Claims Commission, provided for in the International Claims Settlement Act of 1949, as amended \[[22 U.S.C. 1621–162][/us/usc/t22/s1621–162]7\], including the offices of the members of each of the said commissions, and the office of Commissioner provided for in the aforesaid Joint Resolution of August 4, 1939, are hereby abolished.
 
     (b) The functions of the Secretary of State under the third and fourth sentences of section 3(c) of the International Claims Settlement Act of 1949, as amended \[[22 U.S.C. 1622(c)][/us/usc/t22/s1622/c]\], are hereby abolished.
 
@@ -179,6 +179,7 @@
 [/us/act/1939-08-04/ch421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-04%2Fch421
 [/us/stat/53/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1199
 [/us/stat/62/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1240
+[/us/usc/t50/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4101
 [/us/usc/t22/s1621–162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1621%E2%80%93162
 [/us/usc/t22/s1622/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1622%2Fc
 [/us/usc/t22/s1622a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1622a

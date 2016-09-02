@@ -39,7 +39,7 @@
 
     (d) __Waiver of certain Federal laws__ 
 
-        Whenever the President determines it to be in furtherance of the purposes of this chapter, functions authorized by this chapter may be performed without regard to such provisions of law (other than sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41, and the Renegotiation Act of 1951, as amended \[50 U.S.C. App. 1211 et seq.\]) regulating the making, performance, amendment, or modification of contracts and the expenditure of Government funds as the President may specify.
+        Whenever the President determines it to be in furtherance of the purposes of this chapter, functions authorized by this chapter may be performed without regard to such provisions of law (other than sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41, and the Renegotiation Act of 1951, as amended) regulating the making, performance, amendment, or modification of contracts and the expenditure of Government funds as the President may specify.
 
     (e) __Allocation of funds__ 
 
@@ -73,7 +73,7 @@
 
     The Foreign Service Act of 1980, referred to in subsec. (a)(5), is [Pub. L. 96–465][/us/pl/96/465], Oct. 17, 1980, [94 Stat. 2071][/us/stat/94/2071], which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title][/us/usc/t22/s3901] and Tables.
 
-    The Renegotiation Act of 1951, as amended, referred to in subsec. (d), is [act Mar. 23, 1951, ch. 15][/us/act/1951-03-23/ch15], [65 Stat. 7][/us/stat/65/7], as amended, which was classified principally to section 1211 et seq. of Title 50, Appendix, War and National Defense, prior to its omission from the Code. See Codification note preceding [section 1211 of Title 50][/us/usc/t50/s1211], Appendix.
+    The Renegotiation Act of 1951, as amended, referred to in subsec. (d), is [act Mar. 23, 1951, ch. 15][/us/act/1951-03-23/ch15], [65 Stat. 7][/us/stat/65/7], as amended, which was classified principally to section 1211 et seq. of the former Appendix to Title 50, War and National Defense, prior to its omission from the Code.
 
  __Codification__ 
 
@@ -167,7 +167,6 @@
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
 [/us/act/1951-03-23/ch15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-03-23%2Fch15
 [/us/stat/65/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F7
-[/us/usc/t50/s1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1211
 [/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/112/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F57

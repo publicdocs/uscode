@@ -21,7 +21,7 @@
 
     (b) __Net proceeds of property vested in Alien Property Custodian or Attorney General__ 
 
-        The net proceeds of any property which was vested in the Alien Property Custodian or the Attorney General after December 17, 1941, pursuant to the Trading With the Enemy Act, as amended, and which at the date of vesting was owned directly or indirectly by Bulgaria, Hungary, or Rumania, or any national thereof, shall after completion of the administration, liquidation, and disposition of such property pursuant to such Act, including the adjudication of any suits or claims with respect thereto under such Act, be covered into the Treasury, except that the net proceeds of any such property which the President or his designee shall determine was directly owned by a natural person at the date of vesting shall be divested by the President or such officer or agency as he may designate and carried in blocked accounts with the Treasury, bearing no interest, in the name of the owner thereof at the date of vesting, subject to release when, as, and upon such terms as the President or his designee may prescribe.
+        The net proceeds of any property which was vested in the Alien Property Custodian or the Attorney General after December 17, 1941, pursuant to the Trading With the Enemy Act, as amended \[[50 U.S.C. 4301][/us/usc/t50/s4301] et seq.\], and which at the date of vesting was owned directly or indirectly by Bulgaria, Hungary, or Rumania, or any national thereof, shall after completion of the administration, liquidation, and disposition of such property pursuant to such Act, including the adjudication of any suits or claims with respect thereto under such Act, be covered into the Treasury, except that the net proceeds of any such property which the President or his designee shall determine was directly owned by a natural person at the date of vesting shall be divested by the President or such officer or agency as he may designate and carried in blocked accounts with the Treasury, bearing no interest, in the name of the owner thereof at the date of vesting, subject to release when, as, and upon such terms as the President or his designee may prescribe.
 
     (c) __Determination of ownership by natural person of vested property__ 
 
@@ -35,13 +35,9 @@
 
  __References in Text__ 
 
-    Executive Order 8389 of April 10, 1940, referred to in subsecs. (a) and (d), is Ex. Ord. 8389, Apr. 10, 1940, 5 F.R. 1400, which is set out under [section 95a of Title 12][/us/usc/t12/s95a], Banks and Banking.
+    Executive Order 8389 of April 10, 1940, referred to in subsecs. (a) and (d), is Ex. Ord. 8389, Apr. 10, 1940, 5 F.R. 1400, which is set out under [section 4305 of Title 50][/us/usc/t50/s4305], War and National Defense.
 
-    The Trading With the Enemy Act, as amended, and such Act, referred to in subsec. (b), is [act Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], [40 Stat. 411][/us/stat/40/411], as amended, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
-
- __Transfer of Alien Property Custodian Functions__ 
-
-    Functions of Alien Property Custodian and Office of Alien Property Custodian, except those relating to property or interests in Philippines, are now vested in Attorney General. See notes set out under [section 6 of Title 50][/us/usc/t50/s6], Appendix, War and National Defense.
+    The Trading With the Enemy Act, as amended, and such Act, referred to in subsec. (b), is [act Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], [40 Stat. 411][/us/stat/40/411], which is classified generally to chapter 53 (§ 4301 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
  __Executive Order No. 10644__ 
 
@@ -54,12 +50,12 @@
 ----------
 ----------
 
+[/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301
 [/us/act/1950-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-10%2Fch54
 [/us/act/1955-08-09/ch645/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch645%2Fs3
 [/us/stat/69/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F562
-[/us/usc/t12/s95a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs95a
+[/us/usc/t50/s4305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411
-[/us/usc/t50/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs6
 
 

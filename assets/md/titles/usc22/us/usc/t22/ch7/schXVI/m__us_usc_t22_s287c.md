@@ -135,7 +135,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
     Ex. Ord. No. 12918, May 26, 1994, 59 F.R. 28205, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 5 of the United Nations Participation Act of 1945, as amended ([22 U.S.C. 287c][/us/usc/t22/s287c]), the Export Administration Act of 1979, as amended (50 U.S.C. App. 2401 et seq.), the Arms Export Control Act ([22 U.S.C. 2751][/us/usc/t22/s2751] et seq.), and [section 301 of title 3][/us/usc/t3/s301], United States Code, and in view of United Nations Security Council Resolution 918 of May 17, 1994, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 5 of the United Nations Participation Act of 1945, as amended ([22 U.S.C. 287c][/us/usc/t22/s287c]), the Export Administration Act of 1979, as amended (50 U.S.C. App. 2401 et seq.) \[now [50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\], the Arms Export Control Act ([22 U.S.C. 2751][/us/usc/t22/s2751] et seq.), and [section 301 of title 3][/us/usc/t3/s301], United States Code, and in view of United Nations Security Council Resolution 918 of May 17, 1994, it is hereby ordered as follows:
 
     Section 1. Arms Embargo. The following activities are prohibited, notwithstanding the existence of any rights or obligations conferred or imposed by any international agreement or any contract entered into or any license or permit granted before the effective date of this order, except to the extent provided in regulations, orders, directives, or licenses that may hereafter be issued pursuant to this order: (a) The sale or supply to Rwanda from the territory of the United States by any person, or by any United States person in any foreign country or other location, or using any U.S.-registered vessel or aircraft, of arms and related materiel of all types, including weapons and ammunition, military vehicles and equipment, paramilitary police equipment, and spare parts for the aforementioned, irrespective of origin. This prohibition does not apply to activities related to the United Nations Assistance Mission for Rwanda or the United Nations Observer Mission Uganda-Rwanda or other entities permitted to have such items by the United Nations Security Council; and
 
@@ -191,6 +191,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/91/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F23
 [/us/usc/t22/s287c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287c
 [/us/usc/t22/s287c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287c
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t22/s287c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287c

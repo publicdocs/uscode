@@ -53,7 +53,7 @@
 
  __Codification__ 
 
-    Section is comprised of [section 102 of Pub. L. 104–114][/us/pl/104/114/s102]. Subsec. (d) of [section 102 of Pub. L. 104–114][/us/pl/104/114/s102] amended [section 16 of Title 50][/us/usc/t50/s16], Appendix, War and National Defense. Subsecs. (f) and (g) of [section 102 of Pub. L. 104–114][/us/pl/104/114/s102] amended sections 6003 and 6004 of this title, respectively.
+    Section is comprised of [section 102 of Pub. L. 104–114][/us/pl/104/114/s102]. Subsec. (d) of [section 102 of Pub. L. 104–114][/us/pl/104/114/s102] amended [section 4315 of Title 50][/us/usc/t50/s4315], War and National Defense. Subsecs. (f) and (g) of [section 102 of Pub. L. 104–114][/us/pl/104/114/s102] amended sections 6003 and 6004 of this title, respectively.
 
 ----------
 
@@ -73,7 +73,7 @@
 [/us/usc/t22/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6001
 [/us/pl/104/114/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs102
 [/us/pl/104/114/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs102
-[/us/usc/t50/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs16
+[/us/usc/t50/s4315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4315
 [/us/pl/104/114/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs102
 
 

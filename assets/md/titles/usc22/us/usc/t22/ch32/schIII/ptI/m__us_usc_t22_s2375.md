@@ -61,7 +61,7 @@
 
     (h) __Ballistic missile sanctions not affected__ 
 
-        Nothing contained herein shall affect sanctions for transfers of missile equipment or technology required under [section 2410b of title 50][/us/usc/t50/s2410b], Appendix, or [section 2797b of this title][/us/usc/t22/s2797b].
+        Nothing contained herein shall affect sanctions for transfers of missile equipment or technology required under [section 4612 of title 50][/us/usc/t50/s4612] or [section 2797b of this title][/us/usc/t22/s2797b].
 
 ([Pub. L. 87–195][/us/pl/87/195], pt. III, § 620E, as added [Pub. L. 97–113, title VII, § 736][/us/pl/97/113/s736], Dec. 29, 1981, [95 Stat. 1561][/us/stat/95/1561]; amended [Pub. L. 99–83, title IX, § 902][/us/pl/99/83/s902], Aug. 8, 1985, [99 Stat. 267][/us/stat/99/267]; [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title V, § 557\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–170; [Pub. L. 101–167, title V, § 591][/us/pl/101/167/s591], Nov. 21, 1989, [103 Stat. 1253][/us/stat/103/1253]; [Pub. L. 101–513, title V, § 574(a)][/us/pl/101/513/s574/a], Nov. 5, 1990, [104 Stat. 2042][/us/stat/104/2042]; [Pub. L. 102–145, § 118][/us/pl/102/145/s118], as added [Pub. L. 102–266, § 102][/us/pl/102/266/s102], Apr. 1, 1992, [106 Stat. 93][/us/stat/106/93]; [Pub. L. 102–391, title V, § 570(a)][/us/pl/102/391/s570/a], Oct. 6, 1992, [106 Stat. 1681][/us/stat/106/1681]; [Pub. L. 103–87, title V, § 536(a)][/us/pl/103/87/s536/a], Sept. 30, 1993, [107 Stat. 955][/us/stat/107/955]; [Pub. L. 103–236, title VIII, § 822(b)(2)][/us/pl/103/236/s822/b/2], Apr. 30, 1994, [108 Stat. 512][/us/stat/108/512]; [Pub. L. 104–107, title V, § 559(a)][/us/pl/104/107/s559/a], Feb. 12, 1996, [110 Stat. 743][/us/stat/110/743].)
 
@@ -301,7 +301,7 @@
 ----------
 
 [/us/usc/t22/s2799aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799aa
-[/us/usc/t50/s2410b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2410b
+[/us/usc/t50/s4612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4612
 [/us/usc/t22/s2797b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2797b
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/pl/97/113/s736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs736

@@ -29,7 +29,7 @@
 
         (5) the terms “missile equipment or technology” and “MTCR equipment or technology” mean those items listed in category I or category II of the MTCR Annex;
 
-        (6) the term “United States person” has the meaning given that term in [section 2415(2) of title 50][/us/usc/t50/s2415/2], Appendix;
+        (6) the term “United States person” has the meaning given that term in [section 4618(2) of title 50][/us/usc/t50/s4618/2];
 
         (7) the term “foreign person” means any person other than a United States person;
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/usc/t50/s2415/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2415%2F2
+[/us/usc/t50/s4618/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4618%2F2
 [/us/usc/t22/s2797b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2797b%2Fb
 [/us/usc/t22/s2797b/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2797b%2Fa%2F2
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
