@@ -25,9 +25,53 @@
 
 (Added [Pub. L. 113–287, § 4(b)(1)][/us/pl/113/287/s4/b/1], Dec. 19, 2014, [128 Stat. 3261][/us/stat/128/3261].)
 
- __Codification__ 
+<table>
 
-    Section is based on [section 457 of Title 16][/us/usc/t16/s457], Conservation, which was repealed and restated as this section by [Pub. L. 113–287][/us/pl/113/287], §§ 4(b)(1), 7, Dec. 19, 2014, [128 Stat. 3261][/us/stat/128/3261], 3272.
+  <tr>
+
+    <td colspan="3"> 
+
+Historical and Revision Notes  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Revised
+
+Section  </td>
+
+    <td> 
+
+Source (U.S. Code)  </td>
+
+    <td> 
+
+Source (Statutes at Large)  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+5001  </td>
+
+    <td> 
+
+16 U.S.C. 457  </td>
+
+    <td> 
+
+Feb. 1, 1928, ch. 15, 45 Stat. 54.  </td>
+
+  </tr>
+
+</table>
+
+    In subsection (a), the words “civil action” are substituted for “action” for consistency in the revised title and with other titles of the United States Code.
 
 ----------
 
@@ -37,9 +81,6 @@
 ----------
 
 [/us/pl/113/287/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs4%2Fb%2F1
-[/us/stat/128/3261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3261
-[/us/usc/t16/s457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs457
-[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3261
 
 

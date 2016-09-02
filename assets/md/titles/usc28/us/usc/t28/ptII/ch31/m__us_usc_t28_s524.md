@@ -63,7 +63,7 @@
 
                     (V) contracting for services directly related to the identification of forfeitable assets, and the processing of and accounting for forfeitures;
 
-            (B) the payment of awards for information or assistance directly relating to violations of the criminal drug laws of the United States or of sections 1956 and 1957 of title 18, sections 5313 and 5324 of title 31, and section 6050I of the Internal Revenue Code of 1986;
+            (B) the payment of awards for information or assistance directly relating to violations of the criminal drug laws of the United States or of chapter 77 of title 18, sections 1956 and 1957 of title 18, sections 5313 and 5324 of title 31, and section 6050I of the Internal Revenue Code of 1986;
 
             (C) at the discretion of the Attorney General, the payment of awards for information or assistance leading to a civil or criminal forfeiture involving any Federal agency participating in the Fund;
 
@@ -109,7 +109,7 @@
 
             (B) all amounts representing the Federal equitable share from the forfeiture of property under any Federal, State, local or foreign law, for any Federal agency participating in the Fund;
 
-            (C) all amounts transferred by the Secretary of the Treasury pursuant to section 9703(g)(4)(A)(ii)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 31; and
+            (C) all amounts transferred by the Secretary of the Treasury pursuant to [section 9705(g)(4)(A) of title 31][/us/usc/t31/s9705/g/4/A]; and
 
             (D)
 
@@ -173,11 +173,11 @@
 
             (B) For fiscal years 2002 and 2003, the Attorney General is authorized to transfer, under such terms and conditions as the Attorney General shall specify, real or personal property of limited or marginal value, to a State or local government agency, or its designated contractor or transferee, for use to support drug abuse treatment, drug and crime prevention and education, housing, job skills, and other community-based public health and safety programs. Each such transfer shall be subject to satisfaction by the recipient involved of any outstanding lien against the property transferred, but no such transfer shall create or confer any private right of action in any person against the United States.
 
-        (10) The Attorney General shall transfer from the Fund to the Secretary of the Treasury for deposit in the Department of the Treasury Forfeiture Fund amounts appropriate to reflect the degree of participation of the Department of the Treasury law enforcement organizations (described in section 9703(p) 1 of title 31) in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by the Department of Justice.
+        (10) The Attorney General shall transfer from the Fund to the Secretary of the Treasury for deposit in the Department of the Treasury Forfeiture Fund amounts appropriate to reflect the degree of participation of the Department of the Treasury law enforcement organizations (described in section 9705(o) of title 31) in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by the Department of Justice.
 
         (11)
 
-         For purposes of this subsection and notwithstanding section 9703 1 of title 31 or any other law, property is forfeited pursuant to a law enforced or administered by the Department of Justice if it is forfeited pursuant to—
+         For purposes of this subsection and notwithstanding [section 9705 of title 31][/us/usc/t31/s9705] or any other law, property is forfeited pursuant to a law enforced or administered by the Department of Justice if it is forfeited pursuant to—
 
             (A) a judicial forfeiture proceeding when the underlying seizure was made by an officer of a Federal law enforcement agency participating in the Department of Justice Assets Forfeiture Fund or the property was maintained by the United States Marshals Service; or
 
@@ -199,9 +199,9 @@
 
         (4) Evidences of any intangible personal property (other than money) accepted hereunder shall be deposited with the Secretary of the Treasury, who may hold or liquidate them, except that they shall be liquidated upon the request of the Attorney General.
 
-        (5) For purposes of federal  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be capitalized. </sup></sup>  income, estate, and gift taxes, property accepted hereunder shall be considered a gift, devise, or bequest to, or for the use of, the United States.
+        (5) For purposes of federal  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  income, estate, and gift taxes, property accepted hereunder shall be considered a gift, devise, or bequest to, or for the use of, the United States.
 
-(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 615][/us/stat/80/615]; amended [Pub. L. 97–258, § 2(g)(1)(B)][/us/pl/97/258/s2/g/1/B]–(D), Sept. 13, 1982, [96 Stat. 1060][/us/stat/96/1060]; [Pub. L. 98–473, title II][/us/pl/98/473], §§ 310, 2303, Oct. 12, 1984, [98 Stat. 2052][/us/stat/98/2052], 2193; [Pub. L. 99–570, title I, § 1152(a)][/us/pl/99/570/s1152/a], Oct. 27, 1986, [100 Stat. 3207–12][/us/stat/100/3207-12]; [Pub. L. 99–646, § 27][/us/pl/99/646/s27], Nov. 10, 1986, [100 Stat. 3597][/us/stat/100/3597]; [Pub. L. 100–202, § 101(a)][/us/pl/100/202/s101/a] \[title II, § 210(a)\], Dec. 22, 1987, [101 Stat. 1329][/us/stat/101/1329], 1329–18; [Pub. L. 100–690, title VI, § 6072][/us/pl/100/690/s6072], Nov. 18, 1988, [102 Stat. 4320][/us/stat/102/4320]; [Pub. L. 101–509, title III, § 1][/us/pl/101/509/s1], Nov. 5, 1990, [104 Stat. 1403][/us/stat/104/1403]; [Pub. L. 101–647, title XVI, § 1601][/us/pl/101/647/s1601], title XX, §§ 2001(a), 2002, 2005, 2006, Nov. 29, 1990, [104 Stat. 4842][/us/stat/104/4842], 4854, 4855; [Pub. L. 102–27, title II, § 101][/us/pl/102/27/s101], Apr. 10, 1991, [105 Stat. 135][/us/stat/105/135]; [Pub. L. 102–140, title I, § 112][/us/pl/102/140/s112], Oct. 28, 1991, [105 Stat. 795][/us/stat/105/795]; [Pub. L. 102–393, title VI, § 638(f)][/us/pl/102/393/s638/f], Oct. 6, 1992, [106 Stat. 1788][/us/stat/106/1788]; [Pub. L. 102–395, title I, § 114(b)][/us/pl/102/395/s114/b], (c), Oct. 6, 1992, [106 Stat. 1845][/us/stat/106/1845]; [Pub. L. 102–550, title XV, § 1529][/us/pl/102/550/s1529], Oct. 28, 1992, [106 Stat. 4065][/us/stat/106/4065]; [Pub. L. 103–121, title I, § 109][/us/pl/103/121/s109], Oct. 27, 1993, [107 Stat. 1164][/us/stat/107/1164]; [Pub. L. 103–317, title I, § 110][/us/pl/103/317/s110], Aug. 26, 1994, [108 Stat. 1735][/us/stat/108/1735]; [Pub. L. 103–322, title IX, § 90205(b)][/us/pl/103/322/s90205/b], title XXXII, §§ 320301, 320302, 320913(a), Sept. 13, 1994, [108 Stat. 1994][/us/stat/108/1994], 2114, 2128; [Pub. L. 104–66, title I, § 1091(h)][/us/pl/104/66/s1091/h], Dec. 21, 1995, [109 Stat. 722][/us/stat/109/722]; [Pub. L. 104–91, title I, § 101(a)][/us/pl/104/91/s101/a], Jan. 6, 1996, [110 Stat. 11][/us/stat/110/11], amended [Pub. L. 104–99, title II, § 211][/us/pl/104/99/s211], Jan. 26, 1996, [110 Stat. 37][/us/stat/110/37]; [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title I, § 122\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–22; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title I, §§ 108, 114, 116, 117\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–18, 3009–22, 3009–23; [Pub. L. 105–119, title I][/us/pl/105/119], §§ 108, 124, title II, § 211(b), Nov. 26, 1997, [111 Stat. 2457][/us/stat/111/2457], 2471, 2487; [Pub. L. 105–272, title VI, § 605][/us/pl/105/272/s605], Oct. 20, 1998, [112 Stat. 2413][/us/stat/112/2413]; [Pub. L. 106–185, § 19][/us/pl/106/185/s19], Apr. 25, 2000, [114 Stat. 223][/us/stat/114/223]; [Pub. L. 106–310, div. B, title XXXVI][/us/pl/106/310], §§ 3613(b), 3621(a), Oct. 17, 2000, [114 Stat. 1230][/us/stat/114/1230]; [Pub. L. 107–273, div. A, title II, § 204(a)][/us/pl/107/273/s204/a], Nov. 2, 2002, [116 Stat. 1775][/us/stat/116/1775]; [Pub. L. 111–350, § 5(g)(1)][/us/pl/111/350/s5/g/1], Jan. 4, 2011, [124 Stat. 3848][/us/stat/124/3848].)
+(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 615][/us/stat/80/615]; amended [Pub. L. 97–258, § 2(g)(1)(B)][/us/pl/97/258/s2/g/1/B]–(D), Sept. 13, 1982, [96 Stat. 1060][/us/stat/96/1060]; [Pub. L. 98–473, title II][/us/pl/98/473], §§ 310, 2303, Oct. 12, 1984, [98 Stat. 2052][/us/stat/98/2052], 2193; [Pub. L. 99–570, title I, § 1152(a)][/us/pl/99/570/s1152/a], Oct. 27, 1986, [100 Stat. 3207–12][/us/stat/100/3207-12]; [Pub. L. 99–646, § 27][/us/pl/99/646/s27], Nov. 10, 1986, [100 Stat. 3597][/us/stat/100/3597]; [Pub. L. 100–202, § 101(a)][/us/pl/100/202/s101/a] \[title II, § 210(a)\], Dec. 22, 1987, [101 Stat. 1329][/us/stat/101/1329], 1329–18; [Pub. L. 100–690, title VI, § 6072][/us/pl/100/690/s6072], Nov. 18, 1988, [102 Stat. 4320][/us/stat/102/4320]; [Pub. L. 101–509, title III, § 1][/us/pl/101/509/s1], Nov. 5, 1990, [104 Stat. 1403][/us/stat/104/1403]; [Pub. L. 101–647, title XVI, § 1601][/us/pl/101/647/s1601], title XX, §§ 2001(a), 2002, 2005, 2006, Nov. 29, 1990, [104 Stat. 4842][/us/stat/104/4842], 4854, 4855; [Pub. L. 102–27, title II, § 101][/us/pl/102/27/s101], Apr. 10, 1991, [105 Stat. 135][/us/stat/105/135]; [Pub. L. 102–140, title I, § 112][/us/pl/102/140/s112], Oct. 28, 1991, [105 Stat. 795][/us/stat/105/795]; [Pub. L. 102–393, title VI, § 638(f)][/us/pl/102/393/s638/f], Oct. 6, 1992, [106 Stat. 1788][/us/stat/106/1788]; [Pub. L. 102–395, title I, § 114(b)][/us/pl/102/395/s114/b], (c), Oct. 6, 1992, [106 Stat. 1845][/us/stat/106/1845]; [Pub. L. 102–550, title XV, § 1529][/us/pl/102/550/s1529], Oct. 28, 1992, [106 Stat. 4065][/us/stat/106/4065]; [Pub. L. 103–121, title I, § 109][/us/pl/103/121/s109], Oct. 27, 1993, [107 Stat. 1164][/us/stat/107/1164]; [Pub. L. 103–317, title I, § 110][/us/pl/103/317/s110], Aug. 26, 1994, [108 Stat. 1735][/us/stat/108/1735]; [Pub. L. 103–322, title IX, § 90205(b)][/us/pl/103/322/s90205/b], title XXXII, §§ 320301, 320302, 320913(a), Sept. 13, 1994, [108 Stat. 1994][/us/stat/108/1994], 2114, 2128; [Pub. L. 104–66, title I, § 1091(h)][/us/pl/104/66/s1091/h], Dec. 21, 1995, [109 Stat. 722][/us/stat/109/722]; [Pub. L. 104–91, title I, § 101(a)][/us/pl/104/91/s101/a], Jan. 6, 1996, [110 Stat. 11][/us/stat/110/11], amended [Pub. L. 104–99, title II, § 211][/us/pl/104/99/s211], Jan. 26, 1996, [110 Stat. 37][/us/stat/110/37]; [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title I, § 122\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–22; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title I, §§ 108, 114, 116, 117\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–18, 3009–22, 3009–23; [Pub. L. 105–119, title I][/us/pl/105/119], §§ 108, 124, title II, § 211(b), Nov. 26, 1997, [111 Stat. 2457][/us/stat/111/2457], 2471, 2487; [Pub. L. 105–272, title VI, § 605][/us/pl/105/272/s605], Oct. 20, 1998, [112 Stat. 2413][/us/stat/112/2413]; [Pub. L. 106–185, § 19][/us/pl/106/185/s19], Apr. 25, 2000, [114 Stat. 223][/us/stat/114/223]; [Pub. L. 106–310, div. B, title XXXVI][/us/pl/106/310], §§ 3613(b), 3621(a), Oct. 17, 2000, [114 Stat. 1230][/us/stat/114/1230]; [Pub. L. 107–273, div. A, title II, § 204(a)][/us/pl/107/273/s204/a], Nov. 2, 2002, [116 Stat. 1775][/us/stat/116/1775]; [Pub. L. 111–350, § 5(g)(1)][/us/pl/111/350/s5/g/1], Jan. 4, 2011, [124 Stat. 3848][/us/stat/124/3848]; [Pub. L. 114–22, title I, § 105(b)][/us/pl/114/22/s105/b], (c)(2)(A)(i), May 29, 2015, [129 Stat. 237][/us/stat/129/237].)
 
 <table>
 
@@ -313,8 +313,6 @@ Oct. 10, 1949, ch. 662, § 101 (par. under heading “General Provision—Depa
 
     The Controlled Substances Import and Export Act, referred to in subsec. (c)(1)(G), is title III of [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1285][/us/stat/84/1285], which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of Title 21][/us/usc/t21/s951] and Tables.
 
-    [Section 9703 of title 31][/us/usc/t31/s9703], referred to in subsec. (c)(4)(C), (10), (11), probably means the [section 9703 of Title 31][/us/usc/t31/s9703], Money and Finance, added by [Pub. L. 102–393, title VI, § 638(b)(1)][/us/pl/102/393/s638/b/1], Oct. 6, 1992, [106 Stat. 1779][/us/stat/106/1779]. Cl. (ii) of subsec. (g)(4)(A) of that section was repealed by [Pub. L. 103–322, title IX, § 90205(c)(2)(B)][/us/pl/103/322/s90205/c/2/B], Sept. 13, 1994, [108 Stat. 1995][/us/stat/108/1995].
-
     The effective date of the Comprehensive Forfeiture Act of 1983, referred to in subsec. (c)(7), probably means the date of enactment of the Comprehensive Forfeiture Act of 1984, chapter III (§§ 301 to 323) of title II of [Pub. L. 98–473][/us/pl/98/473], which was approved Oct. 12, 1984.
 
     Section 6073 of the Anti-Drug Abuse Act of 1988, referred to in subsec. (c)(8)(B), was classified to [section 1509 of Title 21][/us/usc/t21/s1509], Food and Drugs, prior to repeal by [Pub. L. 109–469, title XI, § 1101(b)][/us/pl/109/469/s1101/b], Dec. 29, 2006, [120 Stat. 3539][/us/stat/120/3539].
@@ -326,6 +324,14 @@ Oct. 10, 1949, ch. 662, § 101 (par. under heading “General Provision—Depa
     Amendment by [Pub. L. 104–91][/us/pl/104/91] is based on section 109 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, which was enacted into law by [Pub. L. 104–91][/us/pl/104/91].
 
  __Amendments__ 
+
+    2015—Subsec. (c)(1)(B). [Pub. L. 114–22, § 105(b)][/us/pl/114/22/s105/b], inserted “chapter 77 of title 18,” after “criminal drug laws of the United States or of”.
+
+    Subsec. (c)(4)(C). [Pub. L. 114–22, § 105(c)(2)(A)(i)(I)][/us/pl/114/22/s105/c/2/A/i/I], substituted “section 9705(g)(4)(A)” for “section 9703(g)(4)(A)(ii)”.
+
+    Subsec. (c)(10). [Pub. L. 114–22, § 105(c)(2)(A)(i)(II)][/us/pl/114/22/s105/c/2/A/i/II], substituted “section 9705(o)” for “section 9703(p)”.
+
+    Subsec. (c)(11). [Pub. L. 114–22, § 105(c)(2)(A)(i)(III)][/us/pl/114/22/s105/c/2/A/i/III], substituted “section 9705” for “section 9703”.
 
     2011—Subsec. (c)(1). [Pub. L. 111–350][/us/pl/111/350] substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes of the United States ([41 U.S.C. 5][/us/usc/t41/s5]), title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251][/us/usc/t41/s251] and following)” in concluding provisions.
 
@@ -649,8 +655,10 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t16/s1540/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1540%2Fd
 [/us/usc/t16/s3375/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3375%2Fd
 [/us/usc/t39/s2003/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs2003%2Fb%2F7
+[/us/usc/t31/s9705/g/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9705%2Fg%2F4%2FA
 [/us/usc/t21/s853/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853%2Fq
 [/us/pl/103/121/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F121%2Fs605
+[/us/usc/t31/s9705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9705
 [/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
 [/us/stat/80/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F615
 [/us/pl/97/258/s2/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fg%2F1%2FB
@@ -709,6 +717,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/116/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1775
 [/us/pl/111/350/s5/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fg%2F1
 [/us/stat/124/3848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3848
+[/us/pl/114/22/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs105%2Fb
+[/us/stat/129/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F237
 [/us/act/1964-08-14/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1964-08-14%2Fs307
 [/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
 [/us/stat/78/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F432
@@ -719,12 +729,6 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1285
 [/us/usc/t21/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs951
-[/us/usc/t31/s9703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9703
-[/us/usc/t31/s9703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9703
-[/us/pl/102/393/s638/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2Fs638%2Fb%2F1
-[/us/stat/106/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1779
-[/us/pl/103/322/s90205/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs90205%2Fc%2F2%2FB
-[/us/stat/108/1995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1995
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/usc/t21/s1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1509
 [/us/pl/109/469/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469%2Fs1101%2Fb
@@ -734,6 +738,10 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/107/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1194
 [/us/pl/104/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F91
 [/us/pl/104/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F91
+[/us/pl/114/22/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs105%2Fb
+[/us/pl/114/22/s105/c/2/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs105%2Fc%2F2%2FA%2Fi%2FI
+[/us/pl/114/22/s105/c/2/A/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs105%2Fc%2F2%2FA%2Fi%2FII
+[/us/pl/114/22/s105/c/2/A/i/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs105%2Fc%2F2%2FA%2Fi%2FIII
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251

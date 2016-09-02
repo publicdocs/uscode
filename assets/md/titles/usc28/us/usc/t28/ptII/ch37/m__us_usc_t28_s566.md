@@ -31,9 +31,11 @@
 
             (A) provide for the personal protection of Federal jurists, court officers, witnesses, and other threatened persons in the interests of justice where criminal intimidation impedes on the functioning of the judicial process or any other official proceeding;
 
-            (B) investigate such fugitive matters, both within and outside the United States, as directed by the Attorney General; and
+            (B) investigate such fugitive matters, both within and outside the United States, as directed by the Attorney General;
 
-            (C) issue administrative subpoenas in accordance with [section 3486 of title 18][/us/usc/t18/s3486], solely for the purpose of investigating unregistered sex offenders (as defined in such section 3486).
+            (C) issue administrative subpoenas in accordance with [section 3486 of title 18][/us/usc/t18/s3486], solely for the purpose of investigating unregistered sex offenders (as defined in such section 3486); and
+
+            (D) assist State, local, and other Federal law enforcement agencies, upon the request of such an agency, in locating and recovering missing children.
 
         (2) Nothing in paragraph (1)(B) shall be construed to interfere with or supersede the authority of other Federal agencies or bureaus.
 
@@ -51,13 +53,15 @@
 
     (i) The Director of the United States Marshals Service shall consult with the Judicial Conference of the United States on a continuing basis regarding the security requirements for the judicial branch of the United States Government, to ensure that the views of the Judicial Conference regarding the security requirements for the judicial branch of the Federal Government are taken into account when determining staffing levels, setting priorities for programs regarding judicial security, and allocating judicial security resources. In this paragraph, the term “judicial security” includes the security of buildings housing the judiciary, the personal security of judicial officers, the assessment of threats made to judicial officers, and the protection of all other judicial personnel. The United States Marshals Service retains final authority regarding security requirements for the judicial branch of the Federal Government.
 
-(Added [Pub. L. 100–690, title VII, § 7608(a)(1)][/us/pl/100/690/s7608/a/1], Nov. 18, 1988, [102 Stat. 4514][/us/stat/102/4514]; amended [Pub. L. 110–177, title I][/us/pl/110/177], §§ 101(a), 102(a), Jan. 7, 2008, [121 Stat. 2534][/us/stat/121/2534], 2535; [Pub. L. 112–206, § 4(b)][/us/pl/112/206/s4/b], Dec. 7, 2012, [126 Stat. 1492][/us/stat/126/1492].)
+(Added [Pub. L. 100–690, title VII, § 7608(a)(1)][/us/pl/100/690/s7608/a/1], Nov. 18, 1988, [102 Stat. 4514][/us/stat/102/4514]; amended [Pub. L. 110–177, title I][/us/pl/110/177], §§ 101(a), 102(a), Jan. 7, 2008, [121 Stat. 2534][/us/stat/121/2534], 2535; [Pub. L. 112–206, § 4(b)][/us/pl/112/206/s4/b], Dec. 7, 2012, [126 Stat. 1492][/us/stat/126/1492]; [Pub. L. 114–22, title VI, § 605][/us/pl/114/22/s605], May 29, 2015, [129 Stat. 260][/us/stat/129/260].)
 
  __Prior Provisions__ 
 
     A prior section 566, added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 620][/us/stat/80/620]; amended [Pub. L. 92–310, title II, § 206(b)][/us/pl/92/310/s206/b], June 6, 1972, [86 Stat. 203][/us/stat/86/203], provided that upon death of a marshal his deputy or deputies perform his duties until a successor is appointed and qualifies, prior to repeal by [Pub. L. 100–690, § 7608(a)(1)][/us/pl/100/690/s7608/a/1].
 
  __Amendments__ 
+
+    2015—Subsec. (e)(1)(D). [Pub. L. 114–22][/us/pl/114/22] added subpar. (D).
 
     2012—Subsec. (e)(1)(C). [Pub. L. 112–206][/us/pl/112/206] added subpar. (C).
 
@@ -96,11 +100,14 @@
 [/us/stat/121/2534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2534
 [/us/pl/112/206/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206%2Fs4%2Fb
 [/us/stat/126/1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1492
+[/us/pl/114/22/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs605
+[/us/stat/129/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F260
 [/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
 [/us/stat/80/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F620
 [/us/pl/92/310/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2Fs206%2Fb
 [/us/stat/86/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F203
 [/us/pl/100/690/s7608/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7608%2Fa%2F1
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
 [/us/pl/112/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206
 [/us/pl/110/177/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs102%2Fa
 [/us/pl/110/177/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs101%2Fa

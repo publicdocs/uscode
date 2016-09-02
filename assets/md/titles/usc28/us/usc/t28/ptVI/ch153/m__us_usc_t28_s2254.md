@@ -125,7 +125,7 @@
 
   <tr>
 
-    <td colspan="2"> (Effective Feb. 1, 1977, as amended to Jan. 2, 2014)  </td>
+    <td colspan="2"> (Effective Feb. 1, 1977, as amended to Jan. 5, 2015)  </td>
 
   </tr>
 
