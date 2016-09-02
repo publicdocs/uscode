@@ -13,35 +13,69 @@
 
 [Previous](./../../../../..//us/usc/t38/ptI/ch1/m__us_usc_t38_s116.md) | [Next](./../../../../..//us/usc/t38/ptI/ch1/m__us_usc_t38_s118.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs117)
 
-## § 117. Advance appropriations for certain medical care accounts
+## § 117. Advance appropriations for certain accounts
 
     (a)  __In General__  __.—__ 
 
-    For each fiscal year, beginning with fiscal year 2011, discretionary new budget authority provided in an appropriations Act for the medical care accounts of the Department shall—
+    For each fiscal year, new budget authority provided in an appropriations Act for the covered accounts of the Department shall—
 
         (1) be made available for that fiscal year; and
 
-        (2) include, for each such account, advance discretionary new budget authority that first becomes available for the first fiscal year after the budget year.
+        (2) include, for each such account, advance new budget authority that first becomes available for the first fiscal year after the budget year.
 
     (b)  __Estimates Required__  __.—__ 
 
-    The Secretary shall include in documents submitted to Congress in support of the President’s budget submitted pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code, detailed estimates of the funds necessary for the medical care accounts of the Department for the fiscal year following the fiscal year for which the budget is submitted.
+    The Secretary shall include in documents submitted to Congress in support of the President’s budget submitted pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code, detailed estimates of the funds necessary for the covered accounts of the Department for the fiscal year following the fiscal year for which the budget is submitted.
 
-    (c)  __Medical Care Accounts__  __.—__ 
+    (c)  __Covered Accounts of the Department__  __.—__ 
 
-    For purposes of this section, the term “medical care accounts of the Department” means the following medical care accounts of the Veterans Health Administration, Department of Veterans Affairs account:
+    For purposes of this section, the term “covered accounts of the Department” means the following accounts of the Department of Veterans Affairs account:
 
-        (1) Medical Services.
+        (1) Veterans Benefits Administration, Compensation and Pensions.
 
-        (2) Medical Support and Compliance.
+        (2) Veterans Benefits Administration, Readjustment Benefits.
 
-        (3) Medical Facilities.
+        (3) Veterans Benefits Administration, Veterans Insurance and Indemnities.
+
+        (4) Veterans Health Administration, Medical Services.
+
+        (5) Veterans Health Administration, Medical Support and Compliance.
+
+        (6) Veterans Health Administration, Medical Facilities.
 
     (d)  __Annual Report__  __.—__ 
 
     Not later than July 31 of each year, the Secretary shall submit to Congress an annual report on the sufficiency of the Department’s resources for the next fiscal year beginning after the date of the submittal of the report for the provision of medical care. Such report shall also include estimates of the workload and demand data for that fiscal year.
 
-(Added [Pub. L. 111–81, § 3(a)][/us/pl/111/81/s3/a], Oct. 22, 2009, [123 Stat. 2137][/us/stat/123/2137].)
+(Added [Pub. L. 111–81, § 3(a)][/us/pl/111/81/s3/a], Oct. 22, 2009, [123 Stat. 2137][/us/stat/123/2137]; [Pub. L. 113–235, div. I, title II, § 244(a)][/us/pl/113/235/s244/a], Dec. 16, 2014, [128 Stat. 2568][/us/stat/128/2568].)
+
+ __Amendments__ 
+
+    2014—[Pub. L. 113–235, § 244(a)(4)][/us/pl/113/235/s244/a/4], substituted “certain accounts” for “certain medical care accounts” in section catchline.
+
+    Subsec. (a). [Pub. L. 113–235, § 244(a)(2)][/us/pl/113/235/s244/a/2], struck out “beginning with fiscal year 2011,” after “each fiscal year,” in introductory provisions and “discretionary” before “new budget authority” in introductory provisions and par. (2).
+
+    [Pub. L. 113–235, § 244(a)(1)][/us/pl/113/235/s244/a/1], substituted “covered accounts of the Department” for “medical care accounts of the Department” in introductory provisions.
+
+    Subsec. (b). [Pub. L. 113–235, § 244(a)(1)][/us/pl/113/235/s244/a/1], substituted “covered accounts of the Department” for “medical care accounts of the Department”.
+
+    Subsec. (c). [Pub. L. 113–235, § 244(a)(3)(G)][/us/pl/113/235/s244/a/3/G], substituted “Covered Accounts of the Department” for “Medical Care Accounts” in heading.
+
+    [Pub. L. 113–235, § 244(a)(3)(A)][/us/pl/113/235/s244/a/3/A], substituted “accounts of the Department of Veterans Affairs account” for “medical care accounts of the Veterans Health Administration, Department of Veterans Affairs account” in introductory provisions.
+
+    [Pub. L. 113–235, § 244(a)(1)][/us/pl/113/235/s244/a/1], substituted “covered accounts of the Department” for “medical care accounts of the Department” in introductory provisions.
+
+    Subsec. (c)(1)–(6). [Pub. L. 113–235, § 244(a)(3)(B)][/us/pl/113/235/s244/a/3/B]–(F), inserted “Veterans Health Administration,” after enumerators for pars. (1) to (3), redesignated pars. (1) to (3) as (4) to (6), respectively, and added pars. (1) to (3).
+
+ __Effective Date of 2014Amendment__ 
+
+[Pub. L. 113–235, div. I, title II, § 244(b)][/us/pl/113/235/s244/b], Dec. 16, 2014, [128 Stat. 2569][/us/stat/128/2569], provided that: 
+
+> “[Section 117 of title 38][/us/usc/t38/s117], United States Code, shall apply as follows:
+
+>     “(1) With respect to an account described in paragraph (4), (5), or (6) of subsection (c) of such section, as redesignated by subsection (a) of this section, for each fiscal year beginning with fiscal year 2011.
+
+>     “(2) With respect to an account described in paragraph (1), (2), or (3) of such subsection (c), as added by subsection (a) of this section, for each fiscal year beginning with 2017.”
 
  __Comptroller General Review of the Accuracy of VA Medical Care Budget Submission in Relation to Baseline Health Care Model Projection__ 
 
@@ -81,6 +115,19 @@
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/111/81/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F81%2Fs3%2Fa
 [/us/stat/123/2137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2137
+[/us/pl/113/235/s244/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fa
+[/us/stat/128/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2568
+[/us/pl/113/235/s244/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fa%2F4
+[/us/pl/113/235/s244/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fa%2F2
+[/us/pl/113/235/s244/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fa%2F1
+[/us/pl/113/235/s244/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fa%2F1
+[/us/pl/113/235/s244/a/3/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fa%2F3%2FG
+[/us/pl/113/235/s244/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fa%2F3%2FA
+[/us/pl/113/235/s244/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fa%2F1
+[/us/pl/113/235/s244/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fa%2F3%2FB
+[/us/pl/113/235/s244/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fb
+[/us/stat/128/2569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2569
+[/us/usc/t38/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs117
 [/us/pl/111/81/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F81%2Fs4
 [/us/stat/123/2138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2138
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa

@@ -163,7 +163,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs117" data-uslm-ref="/us/usc/t38/s117">117.</a>  </td>
 
-    <td> Advance appropriations for certain medical care accounts.  </td>
+    <td> Advance appropriations for certain accounts.  </td>
 
   </tr>
 
@@ -178,6 +178,8 @@
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–235, div. I, title II, § 244(c)][/us/pl/113/235/s244/c], Dec. 16, 2014, [128 Stat. 2569][/us/stat/128/2569], added item 117 and struck out former item 117 “Advance appropriations for certain medical care accounts”.
 
     2013—[Pub. L. 112–260, title II, § 202(c)][/us/pl/112/260/s202/c], Jan. 10, 2013, [126 Stat. 2424][/us/stat/126/2424], added item 111A.
 
@@ -210,6 +212,8 @@
 ----------
 ----------
 
+[/us/pl/113/235/s244/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fc
+[/us/stat/128/2569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2569
 [/us/pl/112/260/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2Fs202%2Fc
 [/us/stat/126/2424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2424
 [/us/pl/111/275/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs1001%2Fa

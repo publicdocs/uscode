@@ -283,7 +283,7 @@
 
  __Veterans Access, Choice and Accountability in Health Care__ 
 
-[Pub. L. 113–146, § 2][/us/pl/113/146/s2], titles I, II, VIII, Aug. 7, 2014, [128 Stat. 1755][/us/stat/128/1755], 1769, 1801, as amended by [Pub. L. 113–175, title IV, § 409(a)][/us/pl/113/175/s409/a]–(f), Sept. 26, 2014, [128 Stat. 1906][/us/stat/128/1906], 1907, provided that:
+[Pub. L. 113–146, § 2][/us/pl/113/146/s2], titles I, II, VIII, Aug. 7, 2014, [128 Stat. 1755][/us/stat/128/1755], 1769, 1801, as amended by [Pub. L. 113–175, title IV, § 409(a)][/us/pl/113/175/s409/a]–(f), Sept. 26, 2014, [128 Stat. 1906][/us/stat/128/1906], 1907; [Pub. L. 113–235, div. I, title II, § 242][/us/pl/113/235/s242], Dec. 16, 2014, [128 Stat. 2568][/us/stat/128/2568], provided that:
 
 > “SEC. 2. __DEFINITIONS.__ 
 
@@ -426,6 +426,10 @@
 >                          “(II)  __Highly rural area defined__  __.—__ 
 
 >                     In this clause, the term ‘highly rural area’ means an area located in a county that has fewer than seven individuals residing in that county per square mile.
+
+>                          “(III)  __Other exceptions__  __.—__ 
+
+>                     With respect to furnishing care or services under this section in Alaska, the Alaska Fee Schedule of the Department of Veterans Affairs will be followed, except for when another payment agreement, including a contract or provider agreement, is in place. With respect to care or services furnished under this section in a State with an All-Payer Model Agreement under the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] that became effective on January 1, 2014, the Medicare payment rates under clause (i) shall be calculated based on the payment rates under such agreement.
 
 >             “(C)  __Limit on collection__  __.—__ 
 
@@ -962,6 +966,8 @@
 [/us/stat/128/1755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1755
 [/us/pl/113/175/s409/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs409%2Fa
 [/us/stat/128/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1906
+[/us/pl/113/235/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs242
+[/us/stat/128/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2568
 [/us/usc/t38/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701
 [/us/usc/t38/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
@@ -970,6 +976,7 @@
 [/us/usc/t42/s1395x/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fu
 [/us/usc/t42/s1395x/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fd
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/usc/t42/s1395cc/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc%2Fa
 [/us/usc/t42/s1395u/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u%2Fh
 [/us/usc/t42/s1395cc/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc%2Fa

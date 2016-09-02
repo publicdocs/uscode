@@ -17,7 +17,7 @@
 
  __Prior Provisions__ 
 
-    A prior subchapter II of this chapter consisting of sections 4121 to 4124, related to Regional Medical Education Centers, prior to repeal by [Pub. L. 102–40, title IV, § 401(a)(3)][/us/pl/102/40/s401/a/3], May 7, 1991, [105 Stat. 210][/us/stat/105/210]. See Prior Provisions notes set out under [section 4110A of this title][/us/usc/t38/s4110A].
+    A prior subchapter II of this chapter consisting of sections 4121 to 4124, related to Regional Medical Education Centers, prior to repeal by [Pub. L. 102–40, title IV, § 401(a)(3)][/us/pl/102/40/s401/a/3], May 7, 1991, [105 Stat. 210][/us/stat/105/210]. See Prior Provisions notes set out under [section 4114 of this title][/us/usc/t38/s4114].
 
 ----------
 
@@ -28,6 +28,6 @@
 
 [/us/pl/102/40/s401/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fa%2F3
 [/us/stat/105/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F210
-[/us/usc/t38/s4110A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4110A
+[/us/usc/t38/s4114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4114
 
 

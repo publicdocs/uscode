@@ -341,7 +341,7 @@
 
  __Pilot Program for Use of Contract Physicians for Disability Examinations__ 
 
-[Pub. L. 104–275, title V, § 504][/us/pl/104/275/s504], Oct. 9, 1996, [110 Stat. 3341][/us/stat/110/3341], provided that:
+[Pub. L. 104–275, title V, § 504][/us/pl/104/275/s504], Oct. 9, 1996, [110 Stat. 3341][/us/stat/110/3341], as amended by [Pub. L. 113–235, div. I, title II, § 241][/us/pl/113/235/s241], Dec. 16, 2014, [128 Stat. 2568][/us/stat/128/2568], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -349,15 +349,19 @@
 
 >     “(b)  __Limitation__  __.—__ 
 
->     The Secretary may carry out the pilot program under this section through not more than 10 regional offices of the Department of Veterans Affairs.
+>     The Secretary may carry out the pilot program under this section as follows:
 
->     “(c)  __Source of Funds__  __.—__ 
+>         “(1) In fiscal years before fiscal year 2015, through not more than 10 regional offices of the Department of Veterans Affairs.
 
->     Payments for contracts under the pilot program under this section shall be made from amounts available to the Secretary of Veterans Affairs for payment of compensation and pensions.
+>         “(2) In fiscal year 2015, through not more than 12 regional offices of the Department.
 
->     “(d)  __Report to Congress__  __.—__ 
+>         “(3) In fiscal year 2016, through not more than 15 regional offices of the Department.
 
->     Not later than three years after the date of the enactment of this Act \[Oct. 9, 1996\], the Secretary shall submit to the Congress a report on the effect of the use of the authority provided by subsection (a) on the cost, timeliness, and thoroughness of medical disability examinations.”
+>         “(4) In fiscal year 2017 and each fiscal year thereafter, through such regional offices of the Department as the Secretary considers appropriate.”
+
+    “(c) Source of Funds.—Payments for contracts under the pilot program under this section shall be made from amounts available to the Secretary of Veterans Affairs for payment of compensation and pensions.
+
+    “(d) Report to Congress.—Not later than three years after the date of the enactment of this Act \[Oct. 9, 1996\], the Secretary shall submit to the Congress a report on the effect of the use of the authority provided by subsection (a) on the cost, timeliness, and thoroughness of medical disability examinations.”
 
  __Expedited Treatment of Remanded Claims__ 
 
@@ -434,6 +438,8 @@
 [/us/usc/t38/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5101
 [/us/pl/104/275/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs504
 [/us/stat/110/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3341
+[/us/pl/113/235/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs241
+[/us/stat/128/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2568
 [/us/pl/103/446/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs302
 [/us/stat/108/4658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4658
 [/us/pl/105/368/s512/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F368%2Fs512%2Fc
