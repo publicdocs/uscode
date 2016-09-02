@@ -1011,6 +1011,12 @@
 
     For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of Title 8][/us/usc/t8/s1551], Aliens and Nationality.
 
+ __Availability of Information Under the Food and Nutrition Act of 2008__ 
+
+[Pub. L. 114–92, div. A, title VI, § 605][/us/pl/114/92/s605], Nov. 25, 2015, [129 Stat. 837][/us/stat/129/837], provided that: 
+
+> “In administering the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011][/us/usc/t7/s2011] et seq.), the Secretary of Agriculture shall ensure that any safeguards that prevent the use or disclosure of information obtained from applicant households shall not prevent the use of that information by, or the disclosure of that information to, the Secretary of Defense for purposes of determining the number of applicant households that contain one or more members of a regular component or reserve component of the Armed Forces.”
+
  __Report__ 
 
 [Pub. L. 105–379, § 1(b)][/us/pl/105/379/s1/b], Nov. 12, 1998, [112 Stat. 3399][/us/stat/112/3399], as amended by [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (2)(PP), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1098; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (2)(PP), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859, provided that: 
@@ -1432,6 +1438,9 @@
 [/us/pl/105/33/s1005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs1005%2Fa
 [/us/usc/t7/s2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2015
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
+[/us/pl/114/92/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs605
+[/us/stat/129/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F837
+[/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
 [/us/pl/105/379/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F379%2Fs1%2Fb
 [/us/stat/112/3399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3399
 [/us/pl/110/234/s4002/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4002%2Fb%2F1%2FB
