@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch44/m__us_usc_t25_s4306.md) | ~~Next~~ | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4307)
+[Previous](./../../../..//us/usc/t25/ch44/m__us_usc_t25_s4306.md) | [Next](./../../../..//us/usc/t25/ch48/m__us_usc_t25_ch48.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4307)
 
 ## § 4307. Authorization of appropriations
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch44/m__us_usc_t25_s4306.md) | ~~Next~~ | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4307)
+[Previous](./../../../..//us/usc/t25/ch44/m__us_usc_t25_s4306.md) | [Next](./../../../..//us/usc/t25/ch48/m__us_usc_t25_ch48.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs4307)
 
 ----------
 ----------
