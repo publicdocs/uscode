@@ -161,6 +161,14 @@ Part A—Drug-Free Communities Support Program  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs1536" data-uslm-ref="/us/usc/t21/s1536">1536.</a>  </td>
+
+    <td> Community-based coalition enhancement grants to address local drug crises.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 Part B—Advisory Commission  </td>

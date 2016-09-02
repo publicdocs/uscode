@@ -69,7 +69,43 @@
 
             (B) the dispensing or selling of a controlled substance pursuant to practices as determined by the Attorney General by regulation, which shall be consistent with effective controls against diversion.
 
-([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 309, Oct. 27, 1970, [84 Stat. 1260][/us/stat/84/1260]; [Pub. L. 110–425][/us/pl/110/425], § 2, Oct. 15, 2008, [122 Stat. 4820][/us/stat/122/4820].)
+    (f) __Partial fills of schedule II controlled substances__ 
+
+        (1) __Partial fills__ 
+
+        A prescription for a controlled substance in schedule II may be partially filled if—
+
+            (A) it is not prohibited by State law;
+
+            (B) the prescription is written and filled in accordance with this subchapter, regulations prescribed by the Attorney General, and State law;
+
+            (C) the partial fill is requested by the patient or the practitioner that wrote the prescription; and
+
+            (D) the total quantity dispensed in all partial fillings does not exceed the total quantity prescribed.
+
+        (2) __Remaining portions__ 
+
+            (A) __In general__ 
+
+            Except as provided in subparagraph (B), remaining portions of a partially filled prescription for a controlled substance in schedule II—
+
+                (i) may be filled; and
+
+                (ii) shall be filled not later than 30 days after the date on which the prescription is written.
+
+            (B) __Emergency situations__ 
+
+            In emergency situations, as described in subsection (a), the remaining portions of a partially filled prescription for a controlled substance in schedule II—
+
+                (i) may be filled; and
+
+                (ii) shall be filled not later than 72 hours after the prescription is issued.
+
+        (3) __Currently lawful partial fills__ 
+
+            Notwithstanding paragraph (1) or (2), in any circumstance in which, as of the day before July 22, 2016, a prescription for a controlled substance in schedule II may be lawfully partially filled, the Attorney General may allow such a prescription to be partially filled.
+
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 309, Oct. 27, 1970, [84 Stat. 1260][/us/stat/84/1260]; [Pub. L. 110–425][/us/pl/110/425], § 2, Oct. 15, 2008, [122 Stat. 4820][/us/stat/122/4820]; [Pub. L. 114–198, title VII][/us/pl/114/198/tVII], § 702(a), July 22, 2016, [130 Stat. 740][/us/stat/130/740].)
 
  __References in Text__ 
 
@@ -79,11 +115,19 @@
 
  __Amendments__ 
 
+    2016—Subsec. (f). [Pub. L. 114–198][/us/pl/114/198] added subsec. (f).
+
     2008—Subsec. (e). [Pub. L. 110–425][/us/pl/110/425] added subsec. (e).
 
  __Effective Date of 2008 Amendment__ 
 
     Amendment by [Pub. L. 110–425][/us/pl/110/425] effective 180 days after Oct. 15, 2008, except as otherwise provided, see [section 3(j) of Pub. L. 110–425][/us/pl/110/425/s3/j], set out as a note under [section 802 of this title][/us/usc/t21/s802].
+
+ __Construction of 2016 Amendment__ 
+
+[Pub. L. 114–198, title VII][/us/pl/114/198/tVII], § 702(b), July 22, 2016, [130 Stat. 741][/us/stat/130/741], provided that: 
+
+> “Nothing in this section \[amending this section\] shall be construed to affect the authority of the Attorney General to allow a prescription for a controlled substance in schedule III, IV, or V of section 202(c) of the Controlled Substances Act ([21 U.S.C. 812(c)][/us/usc/t21/s812/c]) to be partially filled.”
 
  __Effect of Scheduling on Prescriptions__ 
 
@@ -109,14 +153,20 @@
 [/us/stat/84/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1260
 [/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
 [/us/stat/122/4820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4820
+[/us/pl/114/198/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198%2FtVII
+[/us/stat/130/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F740
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
+[/us/pl/114/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198
 [/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
 [/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
 [/us/pl/110/425/s3/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425%2Fs3%2Fj
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
+[/us/pl/114/198/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198%2FtVII
+[/us/stat/130/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F741
+[/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
 [/us/pl/101/647/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXIX
 [/us/stat/104/4852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4852
 [/us/usc/t21/s829/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs829%2Fa

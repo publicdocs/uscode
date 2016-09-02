@@ -137,6 +137,14 @@ Part C—Registration of Manufacturers, Distributors, and Dispensers of Controll
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs822a" data-uslm-ref="/us/usc/t21/s822a">822a.</a>  </td>
+
+    <td> Prescription drug take back expansion.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs823" data-uslm-ref="/us/usc/t21/s823">823.</a>  </td>
 
     <td> Registration requirements.  </td>

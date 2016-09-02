@@ -605,6 +605,16 @@
 
     Section effective 180 days after Sept. 27, 2007, see [section 909 of Pub. L. 110–85][/us/pl/110/85/s909], set out as an Effective Date of 2007 Amendment note under [section 331 of this title][/us/usc/t21/s331].
 
+ __Prescriber Education__ 
+
+[Pub. L. 114–198, title I][/us/pl/114/198/tI], § 106(b), July 22, 2016, [130 Stat. 703][/us/stat/130/703], provided that: 
+
+> “Not later than 1 year after the date of the enactment of this Act \[July 22, 2016\], the Secretary \[of Health and Human Services\], acting through the Commissioner of Food and Drugs, as part of the Food and Drug Administration’s evaluation of the Extended-Release/Long-Acting Opioid Analgesics Risk Evaluation and Mitigation Strategy, and in consultation with relevant stakeholders, shall develop recommendations regarding education programs for prescribers of opioids pursuant to section 505–1 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355–1][/us/usc/t21/s355–1]), including recommendations on—
+
+>     “(1) which prescribers should participate in such programs; and
+
+>     “(2) how often participation in such programs is necessary.”
+
  __Guidance__ 
 
 [Pub. L. 112–144, title XI][/us/pl/112/144/tXI], § 1132(c), July 9, 2012, [126 Stat. 1122][/us/stat/126/1122], provided that: 
@@ -668,6 +678,9 @@
 [/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/pl/110/85/s909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs909
 [/us/usc/t21/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs331
+[/us/pl/114/198/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198%2FtI
+[/us/stat/130/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F703
+[/us/usc/t21/s355–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%E2%80%931
 [/us/pl/112/144/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtXI
 [/us/stat/126/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1122
 [/us/usc/t21/s355–1/h/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%E2%80%931%2Fh%2F2%2FA

@@ -87,11 +87,21 @@
 
             (B) Not later than the date of the public notice issued pursuant to subparagraph (A), the President shall notify, in writing and in classified or unclassified form, the Permanent Select Committee on Intelligence, and the Committees on the Judiciary, International Relations, Armed Services, and Ways and Means of the House of Representatives, and the Select Committee on Intelligence, and the Committees on the Judiciary, Foreign Relations, Armed Services, and Finance of the Senate of actions taken under this paragraph and a description of the basis for such actions.
 
-([Pub. L. 106–120, title VIII][/us/pl/106/120/tVIII], § 804, Dec. 3, 1999, [113 Stat. 1626][/us/stat/113/1626].)
+    (i) __Protection of classified information in Federal court challenges relating to designations__ 
+
+        In any judicial review of a determination made under this section, if the determination was based on classified information (as defined in section 1(a) of the Classified Information Procedures Act) such information may be submitted to the reviewing court ex parte and in camera. This subsection does not confer or imply any right to judicial review.
+
+([Pub. L. 106–120, title VIII][/us/pl/106/120/tVIII], § 804, Dec. 3, 1999, [113 Stat. 1626][/us/stat/113/1626]; [Pub. L. 114–198, title VIII][/us/pl/114/198/tVIII], § 801, July 22, 2016, [130 Stat. 755][/us/stat/130/755].)
 
  __References in Text__ 
 
     The National Security Act of 1947, referred to in subsec. (d)(3), is [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], [61 Stat. 495][/us/stat/61/495], which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified principally to chapter 44 (§ 3001 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+
+    Section 1(a) of the Classified Information Procedures Act, referred to in subsec. (i), is [section 1(a) of Pub. L. 96–456][/us/pl/96/456/s1/a], Oct. 15, 1980, [94 Stat. 2025][/us/stat/94/2025], which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+
+ __Amendments__ 
+
+    2016—Subsec. (i). [Pub. L. 114–198][/us/pl/114/198] added subsec. (i).
 
  __Change of Name__ 
 
@@ -134,8 +144,13 @@
 
 [/us/pl/106/120/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F120%2FtVIII
 [/us/stat/113/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1626
+[/us/pl/114/198/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198%2FtVIII
+[/us/stat/130/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F755
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
+[/us/pl/96/456/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456%2Fs1%2Fa
+[/us/stat/94/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2025
+[/us/pl/114/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

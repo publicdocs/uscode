@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t21/ch13/schI/ptC/m__us_usc_t21_s821.md) | [Next](./../../../../../..//us/usc/t21/ch13/schI/ptC/m__us_usc_t21_s823.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs822)
+[Previous](./../../../../../..//us/usc/t21/ch13/schI/ptC/m__us_usc_t21_s821.md) | [Next](./../../../../../..//us/usc/t21/ch13/schI/ptC/m__us_usc_t21_s822a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs822)
 
 ## § 822. Persons required to register
 
@@ -167,7 +167,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t21/ch13/schI/ptC/m__us_usc_t21_s821.md) | [Next](./../../../../../..//us/usc/t21/ch13/schI/ptC/m__us_usc_t21_s823.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs822)
+[Previous](./../../../../../..//us/usc/t21/ch13/schI/ptC/m__us_usc_t21_s821.md) | [Next](./../../../../../..//us/usc/t21/ch13/schI/ptC/m__us_usc_t21_s822a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs822)
 
 ----------
 ----------
