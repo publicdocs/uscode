@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t21/ch9/schV/ptH/m__us_usc_t21_s360eee–4.md) | [Next](./../../../../..//us/usc/t21/ch9/schVI/m__us_usc_t21_s361.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fch9%2FschVI)
+[Previous](./../../../../..//us/usc/t21/ch9/schV/ptI/m__us_usc_t21_s360fff–7.md) | [Next](./../../../../..//us/usc/t21/ch9/schVI/m__us_usc_t21_s361.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fch9%2FschVI)
 
 ### SUBCHAPTER VI—COSMETICS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t21/ch9/schV/ptH/m__us_usc_t21_s360eee–4.md) | [Next](./../../../../..//us/usc/t21/ch9/schVI/m__us_usc_t21_s361.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fch9%2FschVI)
+[Previous](./../../../../..//us/usc/t21/ch9/schV/ptI/m__us_usc_t21_s360fff–7.md) | [Next](./../../../../..//us/usc/t21/ch9/schVI/m__us_usc_t21_s361.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fch9%2FschVI)
 
 ----------
 ----------

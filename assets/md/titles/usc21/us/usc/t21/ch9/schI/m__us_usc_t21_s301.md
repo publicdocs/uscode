@@ -49,6 +49,12 @@
 
 > “This Act \[enacting this chapter and repealing sections 1 to 5 and 7 to 15 of this title\], shall take effect twelve months after the date of its enactment \[June 25, 1938\]. The Federal Food and Drugs Act of June 30, 1906, as amended (U.S.C., 1934 ed., title 21, secs. 1–15), shall remain in force until such effective date, and, except as otherwise provided in this subsection, is hereby repealed effective upon such date: Provided, That the provisions of section 701 \[[section 371 of this title][/us/usc/t21/s371]\] shall become effective on the enactment of this Act, and thereafter the Secretary is authorized hereby to (1) conduct hearings and to promulgate regulations which shall become effective on or after the effective date of this Act as the Secretary shall direct, and (2) designate prior to the effective date of this Act food having common or usual names and exempt such food from the requirements of clause (2) of section 403(i) \[[section 343(i) of this title][/us/usc/t21/s343/i]\] for a reasonable time to permit the formulation, promulgation, and effective application of definitions and standards of identity therefor as provided by section 401 \[[section 341 of this title][/us/usc/t21/s341]\]: Provided further, That sections 502(j), 505, and 601(a) \[sections 352(j), 355, 361(a), respectively of this title\], and all other provisions of this Act to the extent that they may relate to the enforcement of such sections, shall take effect on the date of the enactment of this Act, except that in the case of a cosmetic to which the proviso of section 601(a) \[[section 361(a) of this title][/us/usc/t21/s361/a]\], relates, such cosmetic shall not, prior to the ninetieth day after such date of enactment, be deemed adulterated by reason of the failure of its label to bear the legend prescribed in such proviso: Provided further, That the Act of March 4, 1923 (U.S.C., 1934 ed., title 21, sec. 6 \[[section 321a of this title][/us/usc/t21/s321a]\]; [42 Stat. 1500][/us/stat/42/1500], ch. 268), defining butter and providing a standard therefor; the Act of July 24, 1919 (U.S.C., 1934 ed., title 21, sec. 10 \[[section 321b of this title][/us/usc/t21/s321b]\]; [41 Stat. 271][/us/stat/41/271], ch. 26\], defining wrapped meats as in package form; and the amendment to the Food and Drugs Act, section 10A, approved August 27, 1935 (U.S.C. 1934 ed., Sup. III, title 21, sec. 14a \[[section 372a of this title][/us/usc/t21/s372a]\]) shall remain in force and effect and be applicable to the provisions of this Act.”
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–195, § 1][/us/pl/113/195/s1], Nov. 26, 2014, [128 Stat. 2035][/us/stat/128/2035], provided that: 
+
+> “This Act \[enacting part I of subchapter V of this chapter and provisions set out as a note under [section 360fff of this title][/us/usc/t21/s360fff]\] may be cited as the ‘Sunscreen Innovation Act’.”
+
  __Short Title of 2013 Amendment__ 
 
 [Pub. L. 113–54, § 1][/us/pl/113/54/s1], Nov. 27, 2013, [127 Stat. 587][/us/stat/127/587], provided that: 
@@ -441,6 +447,9 @@
 [/us/usc/t21/s321b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321b
 [/us/stat/41/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F271
 [/us/usc/t21/s372a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs372a
+[/us/pl/113/195/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F195%2Fs1
+[/us/stat/128/2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2035
+[/us/usc/t21/s360fff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360fff
 [/us/pl/113/54/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs1
 [/us/stat/127/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F587
 [/us/pl/113/54/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs101

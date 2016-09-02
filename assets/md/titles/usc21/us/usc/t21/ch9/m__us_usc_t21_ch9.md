@@ -1275,6 +1275,78 @@ Part H—Pharmaceutical Distribution Supply Chain  </td>
 
     <td> 
 
+Part I—Nonprescription Sunscreen and Other Active Ingredients  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs360fff" data-uslm-ref="/us/usc/t21/s360fff">360fff.</a>  </td>
+
+    <td> Definitions.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs360fff%E2%80%931" data-uslm-ref="/us/usc/t21/s360fff–1">360fff–1.</a>  </td>
+
+    <td> Submission of requests.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs360fff%E2%80%932" data-uslm-ref="/us/usc/t21/s360fff–2">360fff–2.</a>  </td>
+
+    <td> Eligibility determinations; data submission; filing.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs360fff%E2%80%933" data-uslm-ref="/us/usc/t21/s360fff–3">360fff–3.</a>  </td>
+
+    <td> GRASE determination.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs360fff%E2%80%934" data-uslm-ref="/us/usc/t21/s360fff–4">360fff–4.</a>  </td>
+
+    <td> Guidance; other provisions.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs360fff%E2%80%935" data-uslm-ref="/us/usc/t21/s360fff–5">360fff–5.</a>  </td>
+
+    <td> Sunscreen monograph.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs360fff%E2%80%936" data-uslm-ref="/us/usc/t21/s360fff–6">360fff–6.</a>  </td>
+
+    <td> Non-sunscreen time and extent applications.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs360fff%E2%80%937" data-uslm-ref="/us/usc/t21/s360fff–7">360fff–7.</a>  </td>
+
+    <td> Report.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
 SUBCHAPTER VI—COSMETICS  </td>
 
   </tr>
