@@ -29,6 +29,10 @@
 
         (3) Proceeds from the conveyance of property under [section 685 of this title][/us/usc/t14/s685] for the purpose of carrying out activities under this chapter with respect to military family housing and military unaccompanied housing.
 
+        (4) Monies received under section 93(a)(13).
+
+        (5) Amounts received under section 672a(b).
+
     (c)  __Use of Amounts in Fund__  __.—__ 
 
         (1)
@@ -51,9 +55,11 @@
 
     A transfer of appropriated amounts to the Fund under subsection (b)(2) of this section may be made only after the end of a 30-day period beginning on the date the Secretary submits written notice of, and justification for, the transfer to the appropriate committees of Congress.
 
-(Added [Pub. L. 104–324, title II, § 208(a)][/us/pl/104/324/s208/a], Oct. 19, 1996, [110 Stat. 3912][/us/stat/110/3912]; amended [Pub. L. 107–295, title IV, § 402(b)][/us/pl/107/295/s402/b], (c), Nov. 25, 2002, [116 Stat. 2114][/us/stat/116/2114]; [Pub. L. 107–296, title XVII, § 1704(a)][/us/pl/107/296/s1704/a], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–293, title II, § 207(d)][/us/pl/108/293/s207/d], Aug. 9, 2004, [118 Stat. 1034][/us/stat/118/1034]; [Pub. L. 111–281, title II, § 221(a)(6)][/us/pl/111/281/s221/a/6], Oct. 15, 2010, [124 Stat. 2919][/us/stat/124/2919]; [Pub. L. 111–330, § 1(2)][/us/pl/111/330/s1/2], Dec. 22, 2010, [124 Stat. 3569][/us/stat/124/3569].)
+(Added [Pub. L. 104–324, title II, § 208(a)][/us/pl/104/324/s208/a], Oct. 19, 1996, [110 Stat. 3912][/us/stat/110/3912]; amended [Pub. L. 107–295, title IV, § 402(b)][/us/pl/107/295/s402/b], (c), Nov. 25, 2002, [116 Stat. 2114][/us/stat/116/2114]; [Pub. L. 107–296, title XVII, § 1704(a)][/us/pl/107/296/s1704/a], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–293, title II, § 207(d)][/us/pl/108/293/s207/d], Aug. 9, 2004, [118 Stat. 1034][/us/stat/118/1034]; [Pub. L. 111–281, title II, § 221(a)(6)][/us/pl/111/281/s221/a/6], Oct. 15, 2010, [124 Stat. 2919][/us/stat/124/2919]; [Pub. L. 111–330, § 1(2)][/us/pl/111/330/s1/2], Dec. 22, 2010, [124 Stat. 3569][/us/stat/124/3569]; [Pub. L. 113–281, title II, § 208(c)][/us/pl/113/281/s208/c], Dec. 18, 2014, [128 Stat. 3026][/us/stat/128/3026].)
 
  __Amendments__ 
+
+    2014—Subsec. (b)(4), (5). [Pub. L. 113–281][/us/pl/113/281] added pars. (4) and (5).
 
     2010—Subsec. (b)(2). [Pub. L. 111–281, § 221(a)(6)(A)(i)][/us/pl/111/281/s221/a/6/A/i], substituted “or military unaccompanied” for “or unaccompanied”.
 
@@ -109,6 +115,9 @@
 [/us/stat/124/2919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2919
 [/us/pl/111/330/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330%2Fs1%2F2
 [/us/stat/124/3569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3569
+[/us/pl/113/281/s208/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs208%2Fc
+[/us/stat/128/3026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3026
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 [/us/pl/111/281/s221/a/6/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs221%2Fa%2F6%2FA%2Fi
 [/us/pl/111/281/s221/a/6/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs221%2Fa%2F6%2FA%2Fii
 [/us/pl/111/281/s221/a/6/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs221%2Fa%2F6%2FA%2Fiii

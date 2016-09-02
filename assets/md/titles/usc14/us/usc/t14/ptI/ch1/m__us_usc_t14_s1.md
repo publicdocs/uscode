@@ -41,6 +41,12 @@
 
     Amendment by [Pub. L. 107–296][/us/pl/107/296] effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see [section 1704(g) of Pub. L. 107–296][/us/pl/107/296/s1704/g], set out as a note under [section 101 of Title 10][/us/usc/t10/s101], Armed Forces.
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–281, § 1][/us/pl/113/281/s1], Dec. 18, 2014, [128 Stat. 3022][/us/stat/128/3022], provided that: 
+
+> “This Act \[see Tables for classification\] may be cited as the ‘Howard Coble Coast Guard and Maritime Transportation Act of 2014’.”
+
  __Short Title of 2012 Amendment__ 
 
 [Pub. L. 112–213, § 1(a)][/us/pl/112/213/s1/a], Dec. 20, 2012, [126 Stat. 1540][/us/stat/126/1540], provided that: 
@@ -119,6 +125,8 @@
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
+[/us/pl/113/281/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs1
+[/us/stat/128/3022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3022
 [/us/pl/112/213/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs1%2Fa
 [/us/stat/126/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1540
 [/us/pl/111/281/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs501

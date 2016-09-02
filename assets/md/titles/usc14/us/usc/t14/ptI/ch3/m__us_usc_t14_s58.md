@@ -21,13 +21,21 @@
 
     (b)  __Missions__  __.—__ 
 
-    Each center shall—
+    Any center established under subsection (a) shall—
 
-        (1) promote and facilitate education, training, and research;
+        (1)
 
-        (2) develop a repository of information on its missions and specialties; and
+         promote, facilitate, and conduct—
 
-        (3) perform any other missions as the Commandant may specify.
+            (A) education;
+
+            (B) training; and
+
+            (C) activities authorized under section 93(a)(4);
+
+        (2) be a repository of information on operations, practices, and resources related to the mission for which the center was established; and
+
+        (3) perform and support the mission for which the center was established.
 
     (c)  __Joint Operation With Educational Institution Authorized__  __.—__ 
 
@@ -51,7 +59,17 @@
 
         (3) The Commandant shall prescribe written guidance setting forth the criteria to be used in determining whether or not the acceptance of a donation from a foreign source would have a result described in paragraph (2).
 
-(Added [Pub. L. 111–281, title V, § 521(a)][/us/pl/111/281/s521/a], Oct. 15, 2010, [124 Stat. 2955][/us/stat/124/2955].)
+(Added [Pub. L. 111–281, title V, § 521(a)][/us/pl/111/281/s521/a], Oct. 15, 2010, [124 Stat. 2955][/us/stat/124/2955]; amended [Pub. L. 113–281, title II, § 204][/us/pl/113/281/s204], Dec. 18, 2014, [128 Stat. 3025][/us/stat/128/3025].)
+
+ __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–281][/us/pl/113/281] amended subsec. (b) generally. Prior to amendment, text read as follows: “Each center shall—
+
+    “(1) promote and facilitate education, training, and research;
+
+    “(2) develop a repository of information on its missions and specialties; and
+
+    “(3) perform any other missions as the Commandant may specify.”
 
 ----------
 
@@ -62,5 +80,8 @@
 
 [/us/pl/111/281/s521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs521%2Fa
 [/us/stat/124/2955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2955
+[/us/pl/113/281/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs204
+[/us/stat/128/3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3025
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 
 

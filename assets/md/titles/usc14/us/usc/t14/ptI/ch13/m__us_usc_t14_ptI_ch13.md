@@ -433,17 +433,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs514" data-uslm-ref="/us/usc/t14/s514">514.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs514" data-uslm-ref="/us/usc/t14/s514">514</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs515" data-uslm-ref="/us/usc/t14/s515">515.</a>  </td>
 
-    <td> Reimbursement for adoption expenses.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs515" data-uslm-ref="/us/usc/t14/s515">515.</a>  </td>
-
-    <td> Child development services.  </td>
+    <td> Renumbered.]  </td>
 
   </tr>
 
@@ -478,6 +470,8 @@
     Chapter 13 of this title deals with pay, allowances, awards, and other rights and benefits for personnel of the Coast Guard. Some of these sections are new as applied to the Coast Guard, some clarify and consolidate existing law, and others merely restate existing law. There is no intention to amend, enlarge or curtail the Pay Readjustment Act of 1942, as amended. 81st Congress, House Report No. 557.
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–281, title II, § 214(b)(2)(B)][/us/pl/113/281/s214/b/2/B], Dec. 18, 2014, [128 Stat. 3033][/us/stat/128/3033], struck out items 514 “Reimbursement for adoption expenses” and 515 “Child development services”.
 
     2010—[Pub. L. 111–281, title II][/us/pl/111/281], §§ 203(b), 224(d), Oct. 15, 2010, [124 Stat. 2910][/us/stat/124/2910], 2922, added items 491a, 492a, 492b, and 518 and struck out former item 492a “Distinguished flying cross”.
 
@@ -540,6 +534,8 @@
 ----------
 ----------
 
+[/us/pl/113/281/s214/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs214%2Fb%2F2%2FB
+[/us/stat/128/3033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3033
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/stat/124/2910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2910
 [/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293

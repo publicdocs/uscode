@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch17/m__us_usc_t14_s678.md) | [Next](./../../../../..//us/usc/t14/ptI/ch18/m__us_usc_t14_s680.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch18)
+[Previous](./../../../../..//us/usc/t14/ptI/ch17/m__us_usc_t14_s680.1.md) | [Next](./../../../../..//us/usc/t14/ptI/ch18/m__us_usc_t14_s680.1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch18)
 
 ### CHAPTER 18—COAST GUARD HOUSING AUTHORITIES
 
@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs680" data-uslm-ref="/us/usc/t14/s680">680.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs680" data-uslm-ref="/us/usc/t14/s680">680.</a> <sup>[1]</sup>  <sup><sup> 1 Another item 680 appears in the analysis for chapter 17 of this title. </sup></sup>   </td>
 
     <td> Definitions.  </td>
 
@@ -105,7 +105,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch17/m__us_usc_t14_s678.md) | [Next](./../../../../..//us/usc/t14/ptI/ch18/m__us_usc_t14_s680.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch18)
+[Previous](./../../../../..//us/usc/t14/ptI/ch17/m__us_usc_t14_s680.1.md) | [Next](./../../../../..//us/usc/t14/ptI/ch18/m__us_usc_t14_s680.1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch18)
 
 ----------
 ----------

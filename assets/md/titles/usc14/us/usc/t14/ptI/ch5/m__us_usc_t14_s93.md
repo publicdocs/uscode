@@ -25,13 +25,13 @@
 
         (3) assign vessels, aircraft, vehicles, aids to navigation, equipment, appliances, and supplies to Coast Guard districts and shore establishments, and transfer any of the foregoing from one district or shore establishment to another;
 
-        (4) conduct experiments, investigate, or cause to be investigated, plans, devices, and inventions relating to the performance of any Coast Guard function, including research, development, test, or evaluation related to intelligence systems and capabilities, and cooperate and coordinate such activities with other Government agencies and with private agencies;
+        (4) conduct experiments and investigate, or cause to be investigated, plans, devices, and inventions relating to the performance of any Coast Guard function, including research, development, test, or evaluation related to intelligence systems and capabilities;
 
         (5) conduct any investigations or studies that may be of assistance to the Coast Guard in the performance of any of its powers, duties, or functions;
 
         (6) collect, publish, and distribute information concerning Coast Guard operations;
 
-        (7) conduct or make available to personnel of the Coast Guard such specialized training and courses of instruction, including correspondence courses, as may be necessary or desirable for the good of the service;
+        (7) conduct or make available to personnel of the Coast Guard, and to eligible spouses as defined under section 542, such specialized training and courses of instruction, including correspondence courses and the textbooks, manuals, and other materials required as part of such training or course of instruction, as may be necessary or desirable for the good of the service;
 
         (8) design or cause to be designed, cause to be constructed, accept as gift, or otherwise acquire patrol boats and other small craft, equip, operate, maintain, supply, and repair such patrol boats, other small craft, aircraft, and vehicles, and subject to applicable regulations under subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 dispose of them;
 
@@ -43,7 +43,7 @@
 
         (12) accept and utilize, in times of emergency in order to save life or protect property, such voluntary services as may be offered to the Coast Guard;
 
-        (13) rent or lease, under such terms and conditions as are deemed advisable, for a period not exceeding five years, such real property under the control of the Coast Guard as may not be required for immediate use by the Coast Guard, the monies received from any such rental or lease, less amount of expenses incurred (exclusive of governmental personal services), to be deposited in the Treasury;
+        (13) rent or lease, under such terms and conditions as are deemed advisable, for a period not exceeding five years, such real property under the control of the Coast Guard as may not be required for immediate use by the Coast Guard, the monies received from any such rental or lease, less amount of expenses incurred (exclusive of governmental personal services), to be deposited in the fund established under section 687;
 
         (14) grant, under such terms and conditions as are deemed advisable, permits, licenses, easements, and rights-of-way over, across, in, and upon lands under the control of the Coast Guard when in the public interest and without substantially injuring the interests of the United States in the property thereby affected;
 
@@ -75,7 +75,7 @@
 
     (b)
 
-        (1) Notwithstanding subsection (a)(14), a lease described in paragraph (2) of this subsection may be for a term of up to 20 years.
+        (1) Notwithstanding subsection (a)(13), a lease described in paragraph (2) of this subsection may be for a term of up to 20 years.
 
         (2)
 
@@ -133,7 +133,29 @@
 
     All authority, including programmatic budget authority, for the operation and maintenance of Coast Guard vessels, aircraft, systems, aids to navigation, infrastructure, and other assets or facilities shall be allocated to and vested in the Coast Guard and the department in which the Coast Guard is operating.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 504][/us/stat/63/504]; [Aug. 3, 1950, ch. 536, § 2][/us/act/1950-08-03/ch536/s2], [64 Stat. 406][/us/stat/64/406]; [Oct. 31, 1951, ch. 654][/us/act/1951-10-31/ch654], §§ 1(33), 2(10), 4(1), [65 Stat. 702][/us/stat/65/702], 707, 709; [Pub. L. 94–546, § 1(9)][/us/pl/94/546/s1/9], Oct. 18, 1976, [90 Stat. 2519][/us/stat/90/2519]; [Pub. L. 97–136, § 6(d)][/us/pl/97/136/s6/d], Dec. 29, 1981, [95 Stat. 1706][/us/stat/95/1706]; [Pub. L. 97–276, § 143][/us/pl/97/276/s143], Oct. 2, 1982, [96 Stat. 1199][/us/stat/96/1199]; [Pub. L. 97–295, § 2(4)][/us/pl/97/295/s2/4], Oct. 12, 1982, [96 Stat. 1301][/us/stat/96/1301]; [Pub. L. 97–322, title I, § 115(c)][/us/pl/97/322/s115/c], Oct. 15, 1982, [96 Stat. 1586][/us/stat/96/1586]; [Pub. L. 102–241, § 7][/us/pl/102/241/s7], Dec. 19, 1991, [105 Stat. 2212][/us/stat/105/2212]; [Pub. L. 103–206, title II, § 202][/us/pl/103/206/s202], title III, § 316, Dec. 20, 1993, [107 Stat. 2420][/us/stat/107/2420], 2426; [Pub. L. 104–324, title II, § 207(a)][/us/pl/104/324/s207/a], Oct. 19, 1996, [110 Stat. 3908][/us/stat/110/3908]; [Pub. L. 105–383, title II][/us/pl/105/383], §§ 202, 203, Nov. 13, 1998, [112 Stat. 3414][/us/stat/112/3414], 3415; [Pub. L. 107–217, § 3(c)(2)][/us/pl/107/217/s3/c/2], Aug. 21, 2002, [116 Stat. 1298][/us/stat/116/1298]; [Pub. L. 108–293, title II][/us/pl/108/293], §§ 201, 217, Aug. 9, 2004, [118 Stat. 1031][/us/stat/118/1031], 1038; [Pub. L. 109–241, title IX, § 901(a)][/us/pl/109/241/s901/a], (c), July 11, 2006, [120 Stat. 564][/us/stat/120/564]; [Pub. L. 111–259, title IV, § 442(1)][/us/pl/111/259/s442/1], Oct. 7, 2010, [124 Stat. 2733][/us/stat/124/2733]; [Pub. L. 111–281, title V, § 523][/us/pl/111/281/s523], Oct. 15, 2010, [124 Stat. 2958][/us/stat/124/2958]; [Pub. L. 111–350, § 5(c)(2)][/us/pl/111/350/s5/c/2], Jan. 4, 2011, [124 Stat. 3847][/us/stat/124/3847]; [Pub. L. 112–213, title II, § 202][/us/pl/112/213/s202], Dec. 20, 2012, [126 Stat. 1543][/us/stat/126/1543].)
+    (f) __Leasing of Tidelands and Submerged Lands.—__ 
+
+        (1)  __Authority__  __.—__ 
+
+        The Commandant may lease under subsection (a)(13) submerged lands and tidelands under the control of the Coast Guard without regard to the limitation under that subsection with respect to lease duration.
+
+        (2)  __Limitation__  __.—__ 
+
+        The Commandant may lease submerged lands and tidelands under paragraph (1) only if—
+
+            (A)
+
+             lease payments are—
+
+                (i) received exclusively in the form of cash;
+
+                (ii) equal to the fair market value of the use of the leased submerged lands or tidelands for the period during which such lands are leased, as determined by the Commandant; and
+
+                (iii) deposited in the fund established under section 687; and
+
+            (B) the lease does not provide authority to or commit the Coast Guard to use or support any improvements to such submerged lands or tidelands, or obtain goods or services from the lessee.
+
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 504][/us/stat/63/504]; [Aug. 3, 1950, ch. 536, § 2][/us/act/1950-08-03/ch536/s2], [64 Stat. 406][/us/stat/64/406]; [Oct. 31, 1951, ch. 654][/us/act/1951-10-31/ch654], §§ 1(33), 2(10), 4(1), [65 Stat. 702][/us/stat/65/702], 707, 709; [Pub. L. 94–546, § 1(9)][/us/pl/94/546/s1/9], Oct. 18, 1976, [90 Stat. 2519][/us/stat/90/2519]; [Pub. L. 97–136, § 6(d)][/us/pl/97/136/s6/d], Dec. 29, 1981, [95 Stat. 1706][/us/stat/95/1706]; [Pub. L. 97–276, § 143][/us/pl/97/276/s143], Oct. 2, 1982, [96 Stat. 1199][/us/stat/96/1199]; [Pub. L. 97–295, § 2(4)][/us/pl/97/295/s2/4], Oct. 12, 1982, [96 Stat. 1301][/us/stat/96/1301]; [Pub. L. 97–322, title I, § 115(c)][/us/pl/97/322/s115/c], Oct. 15, 1982, [96 Stat. 1586][/us/stat/96/1586]; [Pub. L. 102–241, § 7][/us/pl/102/241/s7], Dec. 19, 1991, [105 Stat. 2212][/us/stat/105/2212]; [Pub. L. 103–206, title II, § 202][/us/pl/103/206/s202], title III, § 316, Dec. 20, 1993, [107 Stat. 2420][/us/stat/107/2420], 2426; [Pub. L. 104–324, title II, § 207(a)][/us/pl/104/324/s207/a], Oct. 19, 1996, [110 Stat. 3908][/us/stat/110/3908]; [Pub. L. 105–383, title II][/us/pl/105/383], §§ 202, 203, Nov. 13, 1998, [112 Stat. 3414][/us/stat/112/3414], 3415; [Pub. L. 107–217, § 3(c)(2)][/us/pl/107/217/s3/c/2], Aug. 21, 2002, [116 Stat. 1298][/us/stat/116/1298]; [Pub. L. 108–293, title II][/us/pl/108/293], §§ 201, 217, Aug. 9, 2004, [118 Stat. 1031][/us/stat/118/1031], 1038; [Pub. L. 109–241, title IX, § 901(a)][/us/pl/109/241/s901/a], (c), July 11, 2006, [120 Stat. 564][/us/stat/120/564]; [Pub. L. 111–259, title IV, § 442(1)][/us/pl/111/259/s442/1], Oct. 7, 2010, [124 Stat. 2733][/us/stat/124/2733]; [Pub. L. 111–281, title V, § 523][/us/pl/111/281/s523], Oct. 15, 2010, [124 Stat. 2958][/us/stat/124/2958]; [Pub. L. 111–350, § 5(c)(2)][/us/pl/111/350/s5/c/2], Jan. 4, 2011, [124 Stat. 3847][/us/stat/124/3847]; [Pub. L. 112–213, title II, § 202][/us/pl/112/213/s202], Dec. 20, 2012, [126 Stat. 1543][/us/stat/126/1543]; [Pub. L. 113–281, title II][/us/pl/113/281], §§ 206(a), 207, 208(a), 209, 214(c), 222(1), Dec. 18, 2014, [128 Stat. 3025][/us/stat/128/3025], 3026, 3034, 3038.)
 
  __Historical and Revision Notes__ 
 
@@ -184,6 +206,18 @@
     The date of enactment of this paragraph, referred to in subsec. (d)(2), is the date of enactment of [Pub. L. 111–281][/us/pl/111/281], which was approved Oct. 15, 2010.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(4). [Pub. L. 113–281, § 206(a)][/us/pl/113/281/s206/a], substituted “and investigate” for “, investigate” and struck out “, and cooperate and coordinate such activities with other Government agencies and with private agencies” before semicolon at end.
+
+    Subsec. (a)(7). [Pub. L. 113–281, § 214(c)][/us/pl/113/281/s214/c], inserted “, and to eligible spouses as defined under section 542,” after “Coast Guard”.
+
+    [Pub. L. 113–281, § 207][/us/pl/113/281/s207], inserted “and the textbooks, manuals, and other materials required as part of such training or course of instruction” after “correspondence courses”.
+
+    Subsec. (a)(13). [Pub. L. 113–281, § 208(a)][/us/pl/113/281/s208/a], substituted “the fund established under section 687” for “the Treasury”.
+
+    Subsec. (b)(1). [Pub. L. 113–281, § 222(1)][/us/pl/113/281/s222/1], substituted “(a)(13)” for “(a)(14)”.
+
+    Subsec. (f). [Pub. L. 113–281, § 209][/us/pl/113/281/s209], added subsec. (f).
 
     2012—Subsec. (e). [Pub. L. 112–213][/us/pl/112/213] added subsec. (e).
 
@@ -388,6 +422,8 @@
 [/us/stat/124/3847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3847
 [/us/pl/112/213/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs202
 [/us/stat/126/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1543
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/stat/128/3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3025
 [/us/act/1882-05-04/ch117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-05-04%2Fch117
 [/us/stat/22/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F22%2F56
 [/us/act/1916-08-29/ch417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-29%2Fch417
@@ -436,6 +472,12 @@
 [/us/pl/92/340/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F340%2Fs4%2Fe
 [/us/usc/t33/s1223/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1223%2Fe
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/113/281/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs206%2Fa
+[/us/pl/113/281/s214/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs214%2Fc
+[/us/pl/113/281/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs207
+[/us/pl/113/281/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs208%2Fa
+[/us/pl/113/281/s222/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs222%2F1
+[/us/pl/113/281/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs209
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251

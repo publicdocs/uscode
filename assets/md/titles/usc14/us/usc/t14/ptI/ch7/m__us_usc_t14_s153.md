@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch7/m__us_usc_t14_s152.md) | [Next](./../../../../..//us/usc/t14/ptI/ch9/m__us_usc_t14_ptI_ch9.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs153)
+[Previous](./../../../../..//us/usc/t14/ptI/ch7/m__us_usc_t14_s152.md) | [Next](./../../../../..//us/usc/t14/ptI/ch7/m__us_usc_t14_s154.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs153)
 
 ## § 153. Appointment of judges
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch7/m__us_usc_t14_s152.md) | [Next](./../../../../..//us/usc/t14/ptI/ch9/m__us_usc_t14_ptI_ch9.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs153)
+[Previous](./../../../../..//us/usc/t14/ptI/ch7/m__us_usc_t14_s152.md) | [Next](./../../../../..//us/usc/t14/ptI/ch7/m__us_usc_t14_s154.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs153)
 
 ----------
 ----------

@@ -33,6 +33,12 @@
 
 (Added [Pub. L. 112–213, title II, § 211(a)][/us/pl/112/213/s211/a], Dec. 20, 2012, [126 Stat. 1551][/us/stat/126/1551].)
 
+ __Multiyear Procurement Authority for Offshore Patrol Cutters__ 
+
+[Pub. L. 113–281, title II, § 223][/us/pl/113/281/s223], Dec. 18, 2014, [128 Stat. 3038][/us/stat/128/3038], provided that: 
+
+> “In fiscal year 2015 and each fiscal year thereafter, the Secretary of the department in which the Coast Guard is operating may enter into, in accordance with [section 2306b of title 10][/us/usc/t10/s2306b], United States Code, multiyear contracts for the procurement of Offshore Patrol Cutters and associated equipment.”
+
  __Long Lead Time Materials and Vessel Production; Immediate Availability of Funding__ 
 
 [Pub. L. 113–6, div. D, title V, § 557][/us/pl/113/6/s557], Mar. 26, 2013, [127 Stat. 377][/us/stat/127/377], provided that:
@@ -66,6 +72,9 @@
 
 [/us/pl/112/213/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs211%2Fa
 [/us/stat/126/1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1551
+[/us/pl/113/281/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs223
+[/us/stat/128/3038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3038
+[/us/usc/t10/s2306b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306b
 [/us/pl/113/6/s557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs557
 [/us/stat/127/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F377
 

@@ -15,31 +15,79 @@
 
 ## § 194. Annual Board of Visitors
 
-    (a) In addition to the Advisory Committee, a Board of Visitors to the Academy is established to visit the Academy annually and to make recommendations on the operation of the Academy.
+    (a)  __In General__  __.—__ 
 
-    (b)
+    A Board of Visitors to the Coast Guard Academy is established to review and make recommendations on the operation of the Academy.
 
-     The Board shall be composed of—
+    (b) __Membership.—__ 
 
-        (1) two Senators designated by the Chairman of the Committee on Commerce, Science, and Transportation of the Senate;
+        (1)  __In general__  __.—__ 
 
-        (2) three Members of the House of Representatives designated by the Chairman of the Committee on Transportation and Infrastructure of the House of Representatives;
+        The membership of the Board shall consist of the following:
 
-        (3) one Senator designated by the President of the Senate;
+            (A) The chairman of the Committee on Commerce, Science, and Transportation of the Senate, or the chairman’s designee.
 
-        (4) two Members of the House of Representatives designated by the Speaker of the House of Representatives; and
+            (B) The chairman of the Committee on Transportation and Infrastructure of the House of Representatives, or the chairman’s designee.
 
-        (5) the Chairman of the Committee on Commerce, Science, and Transportation of the Senate and the Chairman of the Committee on Transportation and Infrastructure of the House of Representatives, as ex officio Members.
+            (C) 3 Members of the Senate designated by the Vice President.
 
-    (c) When a Member is unable to attend the annual meeting another Member may be designated as provided under subsection (b).
+            (D) 4 Members of the House of Representatives designated by the Speaker of the House of Representatives.
 
-    (d) When an ex officio Member is unable to attend the annual meeting that Member may designate another Member.
+            (E) 6 individuals designated by the President.
 
-    (e) Members of the Board shall be designated in the First Session and serve for the duration of the Congress.
+        (2) __Length of service.—__ 
 
-    (f) The Board shall visit the Academy annually on the date chosen by the Secretary. Each Member of the Board shall be reimbursed, to the extent permitted by law, by the Coast Guard for actual expenses incurred while engaged in duties as a Member of the Board.
+            (A)  __Members of congress__  __.—__ 
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 510][/us/stat/63/510]; [Pub. L. 101–595, title III, § 304][/us/pl/101/595/s304], Nov. 16, 1990, [104 Stat. 2984][/us/stat/104/2984]; [Pub. L. 107–295, title IV, § 408(a)(1)][/us/pl/107/295/s408/a/1], Nov. 25, 2002, [116 Stat. 2117][/us/stat/116/2117].)
+            A Member of Congress designated under subparagraph (C) or (D) of paragraph (1) as a member of the Board shall be designated as a member in the First Session of a Congress and serve for the duration of that Congress.
+
+            (B)  __Individuals designated by the president__  __.—__ 
+
+            Each individual designated by the President under subparagraph (E) of paragraph (1) shall serve as a member of the Board for 3 years, except that any such member whose term of office has expired shall continue to serve until a successor is appointed.
+
+        (3)  __Death or resignation of a member__  __.—__ 
+
+        If a member of the Board dies or resigns, a successor shall be designated for any unexpired portion of the term of the member by the official who designated the member.
+
+    (c) __Academy Visits.—__ 
+
+        (1)  __Annual visit__  __.—__ 
+
+        The Board shall visit the Academy annually to review the operation of the Academy.
+
+        (2)  __Additional visits__  __.—__ 
+
+        With the approval of the Secretary, the Board or individual members of the Board may make other visits to the Academy in connection with the duties of the Board or to consult with the Superintendent of the Academy.
+
+    (d)  __Scope of Review__  __.—__ 
+
+    The Board shall review, with respect to the Academy—
+
+        (1) the state of morale and discipline;
+
+        (2) the curriculum;
+
+        (3) instruction;
+
+        (4) physical equipment;
+
+        (5) fiscal affairs; and
+
+        (6) other matters relating to the Academy that the Board determines appropriate.
+
+    (e)  __Report__  __.—__ 
+
+    Not later than 60 days after the date of an annual visit of the Board under subsection (c)(1), the Board shall submit to the Secretary, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives a report on the actions of the Board during such visit and the recommendations of the Board pertaining to the Academy.
+
+    (f)  __Advisors__  __.—__ 
+
+    If approved by the Secretary, the Board may consult with advisors in carrying out this section.
+
+    (g)  __Reimbursement__  __.—__ 
+
+    Each member of the Board and each adviser consulted by the Board under subsection (f) shall be reimbursed, to the extent permitted by law, by the Coast Guard for actual expenses incurred while engaged in duties as a member or adviser.
+
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 510][/us/stat/63/510]; [Pub. L. 101–595, title III, § 304][/us/pl/101/595/s304], Nov. 16, 1990, [104 Stat. 2984][/us/stat/104/2984]; [Pub. L. 107–295, title IV, § 408(a)(1)][/us/pl/107/295/s408/a/1], Nov. 25, 2002, [116 Stat. 2117][/us/stat/116/2117]; [Pub. L. 113–281, title II, § 211][/us/pl/113/281/s211], Dec. 18, 2014, [128 Stat. 3027][/us/stat/128/3027].)
 
  __Historical and Revision Notes__ 
 
@@ -48,6 +96,8 @@
     Changes were made in phraseology. 81st Congress, House Report No. 557.
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–281][/us/pl/113/281] amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to establishment and composition of Board of Visitors, designation of Members, absence of a Member or ex officio Member from an annual meeting, and annual visit to the Academy.
 
     2002—Subsec. (b)(2), (5). [Pub. L. 107–295][/us/pl/107/295] substituted “Transportation and Infrastructure” for “Merchant Marine and Fisheries”.
 
@@ -70,10 +120,13 @@
 [/us/stat/104/2984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2984
 [/us/pl/107/295/s408/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs408%2Fa%2F1
 [/us/stat/116/2117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2117
+[/us/pl/113/281/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs211
+[/us/stat/128/3027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3027
 [/us/act/1937-04-16/ch107/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-04-16%2Fch107%2Fs7
 [/us/stat/50/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F67
 [/us/act/1939-07-15/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-07-15%2Fch288
 [/us/stat/53/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1044
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/pl/101/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595
 

@@ -39,7 +39,7 @@
 
         (1) guilty of a class D felony;
 
-        (2) subject to a civil penalty of not more than $5,000; and
+        (2) subject to a civil penalty of not more than $10,000; and
 
         (3) liable for all costs the Coast Guard incurs as a result of the individual’s action.
 
@@ -53,7 +53,7 @@
 
         (2) subject to a civil penalty of not more than $1,000 per day for each violation.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 501][/us/stat/63/501]; [Pub. L. 91–278, § 1(3)][/us/pl/91/278/s1/3], June 12, 1970, [84 Stat. 304][/us/stat/84/304]; [Pub. L. 100–448, § 30(a)][/us/pl/100/448/s30/a], Sept. 28, 1988, [102 Stat. 1849][/us/stat/102/1849]; [Pub. L. 101–595, title IV, § 401][/us/pl/101/595/s401], Nov. 16, 1990, [104 Stat. 2989][/us/stat/104/2989]; [Pub. L. 104–324, title II, § 213(a)][/us/pl/104/324/s213/a], Oct. 19, 1996, [110 Stat. 3915][/us/stat/110/3915]; [Pub. L. 112–213, title II, § 201][/us/pl/112/213/s201], Dec. 20, 2012, [126 Stat. 1543][/us/stat/126/1543].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 501][/us/stat/63/501]; [Pub. L. 91–278, § 1(3)][/us/pl/91/278/s1/3], June 12, 1970, [84 Stat. 304][/us/stat/84/304]; [Pub. L. 100–448, § 30(a)][/us/pl/100/448/s30/a], Sept. 28, 1988, [102 Stat. 1849][/us/stat/102/1849]; [Pub. L. 101–595, title IV, § 401][/us/pl/101/595/s401], Nov. 16, 1990, [104 Stat. 2989][/us/stat/104/2989]; [Pub. L. 104–324, title II, § 213(a)][/us/pl/104/324/s213/a], Oct. 19, 1996, [110 Stat. 3915][/us/stat/110/3915]; [Pub. L. 112–213, title II, § 201][/us/pl/112/213/s201], Dec. 20, 2012, [126 Stat. 1543][/us/stat/126/1543]; [Pub. L. 113–281, title II, § 205(a)(4)][/us/pl/113/281/s205/a/4], Dec. 18, 2014, [128 Stat. 3025][/us/stat/128/3025].)
 
  __Historical and Revision Notes__ 
 
@@ -62,6 +62,8 @@
     This section broadens existing law in that it authorizes the Coast Guard to engage in saving life and property in the broadest possible terms, without limitation as to place. This section reflects existing sentiment as to Coast Guard functions in relation to saving life and property. There is no intention to supersede or conflict with the present authority of the Civil Aeronautics Board to investigate certain aircraft wrecks. 81st Congress, House Report No. 557.
 
  __Amendments__ 
+
+    2014—Subsec. (c)(2). [Pub. L. 113–281][/us/pl/113/281] substituted “$10,000” for “$5,000”.
 
     2012—Subsec. (e). [Pub. L. 112–213][/us/pl/112/213] added subsec. (e).
 
@@ -111,6 +113,8 @@
 [/us/stat/110/3915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3915
 [/us/pl/112/213/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs201
 [/us/stat/126/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1543
+[/us/pl/113/281/s205/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs205%2Fa%2F4
+[/us/stat/128/3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3025
 [/us/act/1878-06-18/ch265/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1878-06-18%2Fch265%2Fs4
 [/us/stat/20/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F20%2F163
 [/us/act/1906-04-19/ch1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-04-19%2Fch1640
@@ -123,6 +127,7 @@
 [/us/stat/39/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F601
 [/us/act/1947-08-06/ch502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-06%2Fch502
 [/us/stat/61/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F786
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/pl/101/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595

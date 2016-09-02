@@ -43,9 +43,7 @@
 
  __Annual Report on Drug Interdiction__ 
 
-[Pub. L. 104–324, title I, § 103][/us/pl/104/324/s103], Oct. 19, 1996, [110 Stat. 3905][/us/stat/110/3905], as amended by [Pub. L. 109–241, title IX, § 901(p)(1)][/us/pl/109/241/s901/p/1], July 11, 2006, [120 Stat. 565][/us/stat/120/565], provided that: 
-
-> “Not later than 30 days after the end of each fiscal year, the Secretary of the department in which the Coast Guard is operating shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on all expenditures related to drug interdiction activities of the Coast Guard on an annual basis.”
+    [Pub. L. 104–324, title I, § 103][/us/pl/104/324/s103], Oct. 19, 1996, [110 Stat. 3905][/us/stat/110/3905], as amended by [Pub. L. 109–241, title IX, § 901(p)(1)][/us/pl/109/241/s901/p/1], July 11, 2006, [120 Stat. 565][/us/stat/120/565], which required annual report to congressional committees on all expenditures related to drug interdiction activities of the Coast Guard, was repealed by [Pub. L. 113–281, title II, § 221(a)(3)][/us/pl/113/281/s221/a/3], Dec. 18, 2014, [128 Stat. 3037][/us/stat/128/3037].
 
  __Enhanced Drug-Interdiction Assistance__ 
 
@@ -74,6 +72,8 @@
 [/us/stat/110/3905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3905
 [/us/pl/109/241/s901/p/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs901%2Fp%2F1
 [/us/stat/120/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F565
+[/us/pl/113/281/s221/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs221%2Fa%2F3
+[/us/stat/128/3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3037
 [/us/pl/99/145/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1421
 [/us/stat/99/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F750
 [/us/pl/99/570/s3053/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3053%2Fb%2F3

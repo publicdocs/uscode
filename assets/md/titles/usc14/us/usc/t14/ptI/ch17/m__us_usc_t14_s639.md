@@ -15,15 +15,17 @@
 
 ## § 639. Penalty for unauthorized use of words “Coast Guard”
 
-    No individual, association, partnership, or corporation shall, without authority of the Commandant, use the combination of letters “USCG” or “USCGR”, the words “Coast Guard,” “United States Coast Guard,” “Coast Guard Reserve,” “United States Coast Guard Reserve,” “Coast Guard Auxiliary,” “United States Coast Guard Auxiliary,” “Lighthouse Service,” “Life Saving Service,” or any combination or variation of such letters or words alone or with other letters or words, as the name under which he or it shall do business, for the purpose of trade, or by way of advertisement to induce the effect of leading the public to believe that any such individual, association, partnership, or corporation has any connection with the Coast Guard. No individual, association, partnership, or corporation shall falsely advertise, or otherwise represent falsely by any device whatsoever, that any project or business in which he or it is engaged, or product which he or it manufactures, deals in, or sells, has been in any way endorsed, authorized, or approved by the Coast Guard. Every person violating this section shall be fined not more than $1,000, or imprisoned not more than one year, or both.
+    No individual, association, partnership, or corporation shall, without authority of the Commandant, use the combination of letters “USCG” or “USCGR”, the words “Coast Guard,” “United States Coast Guard,” “Coast Guard Reserve,” “United States Coast Guard Reserve,” “Coast Guard Auxiliary,” “United States Coast Guard Auxiliary,” “Lighthouse Service,” “Life Saving Service,” or any combination or variation of such letters or words alone or with other letters or words, as the name under which he or it shall do business, for the purpose of trade, or by way of advertisement to induce the effect of leading the public to believe that any such individual, association, partnership, or corporation has any connection with the Coast Guard. No individual, association, partnership, or corporation shall falsely advertise, or otherwise represent falsely by any device whatsoever, that any project or business in which he or it is engaged, or product which he or it manufactures, deals in, or sells, has been in any way endorsed, authorized, or approved by the Coast Guard. Every person violating this section shall be fined not more than $10,000, or imprisoned not more than one year, or both.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 546][/us/stat/63/546]; [Aug. 3, 1950, ch. 536, § 30][/us/act/1950-08-03/ch536/s30], [64 Stat. 408][/us/stat/64/408].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 546][/us/stat/63/546]; [Aug. 3, 1950, ch. 536, § 30][/us/act/1950-08-03/ch536/s30], [64 Stat. 408][/us/stat/64/408]; [Pub. L. 113–281, title II, § 205(b)][/us/pl/113/281/s205/b], Dec. 18, 2014, [128 Stat. 3025][/us/stat/128/3025].)
 
  __Historical and Revision Notes__ 
 
     This section makes the unauthorized use of the words “Coast Guard” or any derivative thereof, a crime. This is believed to be a desirable prohibition in view of the many commercial organizations which are manufacturing equipment approved by the Coast Guard and selling same to vessels in the United States. 81st Congress, House Report No. 557.
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–281][/us/pl/113/281] substituted “$10,000” for “$1,000”.
 
     1950—Act Aug. 3, 1950, made it possible for Commandant to grant authority to private business organizations to use terms or designations otherwise prohibited by this section.
 
@@ -44,6 +46,9 @@
 [/us/stat/63/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F546
 [/us/act/1950-08-03/ch536/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch536%2Fs30
 [/us/stat/64/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F408
+[/us/pl/113/281/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs205%2Fb
+[/us/stat/128/3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3025
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 [/us/pl/105/383/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs409
 [/us/stat/112/3431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3431
 

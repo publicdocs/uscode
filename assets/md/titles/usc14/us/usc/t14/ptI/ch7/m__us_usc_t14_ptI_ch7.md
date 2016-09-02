@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch5/m__us_usc_t14_s101.md) | [Next](./../../../../..//us/usc/t14/ptI/ch7/m__us_usc_t14_s141.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch7)
+[Previous](./../../../../..//us/usc/t14/ptI/ch5/m__us_usc_t14_s103.md) | [Next](./../../../../..//us/usc/t14/ptI/ch7/m__us_usc_t14_s141.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch7)
 
 ### CHAPTER 7—COOPERATION WITH OTHER AGENCIES
 
@@ -135,6 +135,14 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs154" data-uslm-ref="/us/usc/t14/s154">154.</a>  </td>
+
+    <td> Arctic maritime domain awareness.  </td>
+
+  </tr>
+
 </table>
 
  __Historical and Revision Notes__ 
@@ -142,6 +150,8 @@
     In connection with its maritime police, promoting safety of life and property at sea, and aiding navigation functions, the Coast Guard frequently finds it advisable to utilize the services of other agencies and correlatively, frequently finds its facilities useful to other agencies. This high degree of cooperation, a natural attribute of a producing and servicing agency, is important not only because it greatly promotes the quantity and quality of the services performed, but because the concentration of these functions in one agency results in savings to the Government of man-power, funds, and equipment. In the belief that legislative recognition of and specific power to continue this needed cooperation are desirable, Chapter 7 of this title contains a group of sections on cooperation with designated agencies. This is not meant to be a complete listing of cooperating agencies, but rather the designation of the principal ones. In addition, the first section of the chapter deals with availability of Coast Guard personnel and facilities to other agencies and the availability of other agency personnel and facilities to the Coast Guard. 81st Congress, House Report No. 557.
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–281, title V, § 502(b)][/us/pl/113/281/s502/b], Dec. 18, 2014, [128 Stat. 3058][/us/stat/128/3058], added item 154.
 
     2010—[Pub. L. 111–281, title II, § 201(b)][/us/pl/111/281/s201/b], title IX, § 903(b)(1), Oct. 15, 2010, [124 Stat. 2909][/us/stat/124/2909], 3011, inserted period at end of item 149 and added item 153.
 
@@ -159,11 +169,13 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch5/m__us_usc_t14_s101.md) | [Next](./../../../../..//us/usc/t14/ptI/ch7/m__us_usc_t14_s141.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch7)
+[Previous](./../../../../..//us/usc/t14/ptI/ch5/m__us_usc_t14_s103.md) | [Next](./../../../../..//us/usc/t14/ptI/ch7/m__us_usc_t14_s141.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch7)
 
 ----------
 ----------
 
+[/us/pl/113/281/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs502%2Fb
+[/us/stat/128/3058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3058
 [/us/pl/111/281/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs201%2Fb
 [/us/stat/124/2909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2909
 [/us/pl/109/241/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs202%2Fb

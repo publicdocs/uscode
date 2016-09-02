@@ -15,9 +15,9 @@
 
 ## § 44. Commandant; appointment
 
-    The President may appoint, by and with the advice and consent of the Senate, one Commandant for a period of four years, who may be reappointed for further periods of four years, who shall act as Chief of the Coast Guard. The Commandant shall be appointed from the officers on the active duty promotion list serving above the grade of captain who have completed at least ten years of active service as a commissioned officer in the Coast Guard. The Commandant while so serving shall have the grade of admiral.
+    The President may appoint, by and with the advice and consent of the Senate, one Commandant for a period of four years, who may be reappointed for further periods of four years, who shall act as Chief of the Coast Guard. The term of an appointment, and any reappointment, shall begin on June 1 of the appropriate year and end on May 31 of the appropriate year, except that, in the event of death, retirement, resignation, or reassignment, or when the needs of the Service demand, the Secretary may alter the date on which a term begins or ends if the alteration does not result in the term exceeding a period of 4 years. The Commandant shall be appointed from the officers on the active duty promotion list serving above the grade of captain who have completed at least ten years of active service as a commissioned officer in the Coast Guard. The Commandant while so serving shall have the grade of admiral.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 498][/us/stat/63/498]; [Pub. L. 86–474, § 1(3)][/us/pl/86/474/s1/3], May 14, 1960, [74 Stat. 144][/us/stat/74/144]; [Pub. L. 88–130, § 1(3)][/us/pl/88/130/s1/3], Sept. 24, 1963, [77 Stat. 175][/us/stat/77/175]; [Pub. L. 89–444, § 1(3)][/us/pl/89/444/s1/3], June 9, 1966, [80 Stat. 195][/us/stat/80/195]; [Pub. L. 92–451, § 1(3)][/us/pl/92/451/s1/3], Oct. 2, 1972, [86 Stat. 755][/us/stat/86/755].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 498][/us/stat/63/498]; [Pub. L. 86–474, § 1(3)][/us/pl/86/474/s1/3], May 14, 1960, [74 Stat. 144][/us/stat/74/144]; [Pub. L. 88–130, § 1(3)][/us/pl/88/130/s1/3], Sept. 24, 1963, [77 Stat. 175][/us/stat/77/175]; [Pub. L. 89–444, § 1(3)][/us/pl/89/444/s1/3], June 9, 1966, [80 Stat. 195][/us/stat/80/195]; [Pub. L. 92–451, § 1(3)][/us/pl/92/451/s1/3], Oct. 2, 1972, [86 Stat. 755][/us/stat/86/755]; [Pub. L. 113–281, title II, § 202][/us/pl/113/281/s202], Dec. 18, 2014, [128 Stat. 3024][/us/stat/128/3024].)
 
  __Historical and Revision Notes__ 
 
@@ -28,6 +28,8 @@
     The grade of the Commandant is fixed as vice admiral rather than that prescribed for Bureau Chiefs of the Navy. The additional qualifications that an officer appointed Commandant must have at least 10 years commissioned service in the Coast Guard has been inserted. 81st Congress, House Report No. 557.
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–281][/us/pl/113/281] inserted after first sentence “The term of an appointment, and any reappointment, shall begin on June 1 of the appropriate year and end on May 31 of the appropriate year, except that, in the event of death, retirement, resignation, or reassignment, or when the needs of the Service demand, the Secretary may alter the date on which a term begins or ends if the alteration does not result in the term exceeding a period of 4 years.”
 
     1972—[Pub. L. 92–451][/us/pl/92/451] substituted “above the grade of captain” for “in the grade of captain or above” in second sentence.
 
@@ -70,6 +72,8 @@
 [/us/stat/80/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F195
 [/us/pl/92/451/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F451%2Fs1%2F3
 [/us/stat/86/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F755
+[/us/pl/113/281/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs202
+[/us/stat/128/3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3024
 [/us/act/1908-04-16/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-04-16%2Fch145
 [/us/stat/35/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F61
 [/us/act/1915-01-28/ch20/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-01-28%2Fch20%2Fs1
@@ -83,6 +87,7 @@
 [/us/act/1940-06-06/ch257/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-06%2Fch257%2Fs1%2Fa
 [/us/stat/54/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F246
 [/us/usc/t14/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs45
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 [/us/pl/92/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F451
 [/us/pl/89/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444
 [/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130

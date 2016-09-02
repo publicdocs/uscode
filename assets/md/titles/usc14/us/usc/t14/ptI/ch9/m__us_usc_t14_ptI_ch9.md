@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch7/m__us_usc_t14_s153.md) | [Next](./../../../../..//us/usc/t14/ptI/ch9/m__us_usc_t14_s181.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch9)
+[Previous](./../../../../..//us/usc/t14/ptI/ch7/m__us_usc_t14_s154.md) | [Next](./../../../../..//us/usc/t14/ptI/ch9/m__us_usc_t14_s181.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch9)
 
 ### CHAPTER 9—COAST GUARD ACADEMY
 
@@ -219,7 +219,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch7/m__us_usc_t14_s153.md) | [Next](./../../../../..//us/usc/t14/ptI/ch9/m__us_usc_t14_s181.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch9)
+[Previous](./../../../../..//us/usc/t14/ptI/ch7/m__us_usc_t14_s154.md) | [Next](./../../../../..//us/usc/t14/ptI/ch9/m__us_usc_t14_s181.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch9)
 
 ----------
 ----------

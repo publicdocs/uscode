@@ -17,7 +17,7 @@
 
     (a)  __Maximum Total Number__  __.—__ 
 
-    The total number of Coast Guard commissioned officers on the active duty promotion list, excluding warrant officers, shall not exceed 7,200; except that the Commandant may temporarily increase that number by up to 2 percent for no more than 60 days following the date of the commissioning of a Coast Guard Academy class.
+    The total number of Coast Guard commissioned officers on the active duty promotion list, excluding warrant officers, shall not exceed 6,900; except that the Commandant may temporarily increase that number by up to 2 percent for no more than 60 days following the date of the commissioning of a Coast Guard Academy class.
 
     (b) __Distribution Percentages by Grade.—__ 
 
@@ -59,7 +59,7 @@
 
     The number of officers authorized to be serving on active duty in each grade of the permanent commissioned teaching staff of the Coast Guard Academy and of the Reserve serving in connection with organizing, administering, recruiting, instructing, or training the reserve components shall be prescribed by the Secretary.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 497][/us/stat/63/497]; [July 20, 1956, ch. 647, § 2][/us/act/1956-07-20/ch647/s2], [70 Stat. 588][/us/stat/70/588]; [Pub. L. 86–474, § 1(2)][/us/pl/86/474/s1/2], May 14, 1960, [74 Stat. 144][/us/stat/74/144]; [Pub. L. 88–130, § 1(2)][/us/pl/88/130/s1/2], Sept. 24, 1963, [77 Stat. 174][/us/stat/77/174]; [Pub. L. 89–444, § 1(2)][/us/pl/89/444/s1/2], June 9, 1966, [80 Stat. 195][/us/stat/80/195]; [Pub. L. 90–385][/us/pl/90/385], July 5, 1968, [82 Stat. 293][/us/stat/82/293]; [Pub. L. 92–451, § 1(2)][/us/pl/92/451/s1/2], Oct. 2, 1972, [86 Stat. 755][/us/stat/86/755]; [Pub. L. 93–174, § 1(2)][/us/pl/93/174/s1/2], Dec. 5, 1973, [87 Stat. 692][/us/stat/87/692]; [Pub. L. 96–23, § 4][/us/pl/96/23/s4], June 13, 1979, [93 Stat. 68][/us/stat/93/68]; [Pub. L. 97–417, § 2(2)][/us/pl/97/417/s2/2], Jan. 4, 1983, [96 Stat. 2085][/us/stat/96/2085]; [Pub. L. 97–449, § 5(b)][/us/pl/97/449/s5/b], Jan. 12, 1983, [96 Stat. 2442][/us/stat/96/2442]; [Pub. L. 98–557, § 25(a)(1)][/us/pl/98/557/s25/a/1], Oct. 30, 1984, [98 Stat. 2872][/us/stat/98/2872]; [Pub. L. 99–145, title V, § 514(c)(1)][/us/pl/99/145/s514/c/1], Nov. 8, 1985, [99 Stat. 629][/us/stat/99/629]; [Pub. L. 103–206, title II, § 201][/us/pl/103/206/s201], Dec. 20, 1993, [107 Stat. 2420][/us/stat/107/2420]; [Pub. L. 108–293, title II, § 214][/us/pl/108/293/s214], Aug. 9, 2004, [118 Stat. 1037][/us/stat/118/1037]; [Pub. L. 111–281, title II, § 204(a)][/us/pl/111/281/s204/a], Oct. 15, 2010, [124 Stat. 2910][/us/stat/124/2910].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 497][/us/stat/63/497]; [July 20, 1956, ch. 647, § 2][/us/act/1956-07-20/ch647/s2], [70 Stat. 588][/us/stat/70/588]; [Pub. L. 86–474, § 1(2)][/us/pl/86/474/s1/2], May 14, 1960, [74 Stat. 144][/us/stat/74/144]; [Pub. L. 88–130, § 1(2)][/us/pl/88/130/s1/2], Sept. 24, 1963, [77 Stat. 174][/us/stat/77/174]; [Pub. L. 89–444, § 1(2)][/us/pl/89/444/s1/2], June 9, 1966, [80 Stat. 195][/us/stat/80/195]; [Pub. L. 90–385][/us/pl/90/385], July 5, 1968, [82 Stat. 293][/us/stat/82/293]; [Pub. L. 92–451, § 1(2)][/us/pl/92/451/s1/2], Oct. 2, 1972, [86 Stat. 755][/us/stat/86/755]; [Pub. L. 93–174, § 1(2)][/us/pl/93/174/s1/2], Dec. 5, 1973, [87 Stat. 692][/us/stat/87/692]; [Pub. L. 96–23, § 4][/us/pl/96/23/s4], June 13, 1979, [93 Stat. 68][/us/stat/93/68]; [Pub. L. 97–417, § 2(2)][/us/pl/97/417/s2/2], Jan. 4, 1983, [96 Stat. 2085][/us/stat/96/2085]; [Pub. L. 97–449, § 5(b)][/us/pl/97/449/s5/b], Jan. 12, 1983, [96 Stat. 2442][/us/stat/96/2442]; [Pub. L. 98–557, § 25(a)(1)][/us/pl/98/557/s25/a/1], Oct. 30, 1984, [98 Stat. 2872][/us/stat/98/2872]; [Pub. L. 99–145, title V, § 514(c)(1)][/us/pl/99/145/s514/c/1], Nov. 8, 1985, [99 Stat. 629][/us/stat/99/629]; [Pub. L. 103–206, title II, § 201][/us/pl/103/206/s201], Dec. 20, 1993, [107 Stat. 2420][/us/stat/107/2420]; [Pub. L. 108–293, title II, § 214][/us/pl/108/293/s214], Aug. 9, 2004, [118 Stat. 1037][/us/stat/118/1037]; [Pub. L. 111–281, title II, § 204(a)][/us/pl/111/281/s204/a], Oct. 15, 2010, [124 Stat. 2910][/us/stat/124/2910]; [Pub. L. 113–281, title II, § 201][/us/pl/113/281/s201], Dec. 18, 2014, [128 Stat. 3024][/us/stat/128/3024].)
 
  __Historical and Revision Notes__ 
 
@@ -68,6 +68,8 @@
     The only change is in phraseology in the second sentence, it being necessary to include the extra numbers authorized by the act of July 23, 1947, in the figure given as the present number of extra numbers in the Coast Guard. 81st Congress, House Report No. 557.
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–281][/us/pl/113/281] substituted “6,900” for “7,200”.
 
     2010—[Pub. L. 111–281][/us/pl/111/281] amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to number and distribution of commissioned officers.
 
@@ -145,8 +147,11 @@
 [/us/stat/118/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1037
 [/us/pl/111/281/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs204%2Fa
 [/us/stat/124/2910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2910
+[/us/pl/113/281/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs201
+[/us/stat/128/3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3024
 [/us/act/1947-07-23/ch301/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-23%2Fch301%2Fs1
 [/us/stat/61/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F409
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/108/293/s214/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs214%2F1
 [/us/pl/108/293/s214/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs214%2F2

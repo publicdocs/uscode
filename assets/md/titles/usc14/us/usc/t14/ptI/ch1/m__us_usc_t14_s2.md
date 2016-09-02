@@ -61,9 +61,7 @@
 
  __Annual Report on Coast Guard Capabilities and Readiness to Fulfill National Defense Responsibilities__ 
 
-[Pub. L. 107–295, title IV, § 426][/us/pl/107/295/s426], Nov. 25, 2002, [116 Stat. 2126][/us/stat/116/2126], provided that: 
-
-> “Not later than February 15 each year, the Secretary of the department in which the Coast Guard is operating shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report, prepared in conjunction with the Commandant of the Coast Guard, setting forth the capabilities and readiness of the Coast Guard to fulfill its national defense responsibilities.”
+    [Pub. L. 107–295, title IV, § 426][/us/pl/107/295/s426], Nov. 25, 2002, [116 Stat. 2126][/us/stat/116/2126], which required report to congressional committees setting forth capabilities and readiness of the Coast Guard to fulfill its national defense responsibilities not later than February 15 each year, was repealed by [Pub. L. 113–281, title II, § 221(a)(4)][/us/pl/113/281/s221/a/4], Dec. 18, 2014, [128 Stat. 3037][/us/stat/128/3037].
 
 ----------
 
@@ -140,5 +138,7 @@
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/107/295/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs426
 [/us/stat/116/2126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2126
+[/us/pl/113/281/s221/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs221%2Fa%2F4
+[/us/stat/128/3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3037
 
 

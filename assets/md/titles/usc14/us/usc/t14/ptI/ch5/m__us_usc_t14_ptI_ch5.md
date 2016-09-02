@@ -73,9 +73,9 @@
 
   <tr>
 
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs87" data-uslm-ref="/us/usc/t14/s87">87.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs87" data-uslm-ref="/us/usc/t14/s87">87.</a>  </td>
 
-    <td> Repealed.]  </td>
+    <td> Icebreaking in polar regions.  </td>
 
   </tr>
 
@@ -97,9 +97,9 @@
 
   <tr>
 
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs90" data-uslm-ref="/us/usc/t14/s90">90.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs90" data-uslm-ref="/us/usc/t14/s90">90.</a>  </td>
 
-    <td> Repealed.]  </td>
+    <td> Arctic maritime transportation  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup>   </td>
 
   </tr>
 
@@ -191,9 +191,27 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs102" data-uslm-ref="/us/usc/t14/s102">102.</a>  </td>
+
+    <td> Agreements.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs103" data-uslm-ref="/us/usc/t14/s103">103.</a>  </td>
+
+    <td> Notification of certain determinations.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–281, title II][/us/pl/113/281], §§ 206(c), 210(b), title V, §§ 501(b), 506(b), Dec. 18, 2014, [128 Stat. 3026][/us/stat/128/3026], 3027, 3057, 3060, added items 87, 90, 102, and 103.
 
     2012—[Pub. L. 112–213, title II, § 216(b)][/us/pl/112/213/s216/b], (c), Dec. 20, 2012, [126 Stat. 1555][/us/stat/126/1555], struck out items 82 “Cooperation with Administrator of the Federal Aviation Administration” and 90 “Ocean stations”.
 
@@ -230,6 +248,8 @@
 ----------
 ----------
 
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/stat/128/3026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3026
 [/us/pl/112/213/s216/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs216%2Fb
 [/us/stat/126/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1555
 [/us/pl/111/330/s1/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330%2Fs1%2F6%2FB

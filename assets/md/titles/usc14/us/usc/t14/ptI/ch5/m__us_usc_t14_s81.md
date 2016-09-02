@@ -55,6 +55,12 @@
 
     For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48][/us/usc/t48/s1681], Territories and Insular Possessions.
 
+ __Improved Safety Information for Vessels__ 
+
+[Pub. L. 113–281, title II, § 228][/us/pl/113/281/s228], Dec. 18, 2014, [128 Stat. 3040][/us/stat/128/3040], provided that: 
+
+> “Not later than 1 year after the date of enactment of this Act \[Dec. 18, 2014\], the Secretary of the department in which the Coast Guard is operating shall establish a process that allows an operator of a marine exchange or other non-Federal vessel traffic information service to use the automatic identification system to transmit weather, ice, and other important navigation safety information to vessels.”
+
  __Aids to Navigation Report__ 
 
 [Pub. L. 105–383, title II, § 208][/us/pl/105/383/s208], Nov. 13, 1998, [112 Stat. 3416][/us/stat/112/3416], provided that: 
@@ -131,6 +137,8 @@
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
+[/us/pl/113/281/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs228
+[/us/stat/128/3040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3040
 [/us/pl/105/383/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs208
 [/us/stat/112/3416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3416
 [/us/pl/97/322/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F322%2Fs105%2Fb

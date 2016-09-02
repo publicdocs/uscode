@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch13/m__us_usc_t14_s517.md) | [Next](./../../../../..//us/usc/t14/ptI/ch15/m__us_usc_t14_ptI_ch15.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs518)
+[Previous](./../../../../..//us/usc/t14/ptI/ch13/m__us_usc_t14_s517.md) | [Next](./../../../../..//us/usc/t14/ptI/ch14/m__us_usc_t14_ptI_ch14.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs518)
 
 ## § 518. Reimbursement for medical-related travel expenses for certain persons residing on islands in the continental United States
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch13/m__us_usc_t14_s517.md) | [Next](./../../../../..//us/usc/t14/ptI/ch15/m__us_usc_t14_ptI_ch15.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs518)
+[Previous](./../../../../..//us/usc/t14/ptI/ch13/m__us_usc_t14_s517.md) | [Next](./../../../../..//us/usc/t14/ptI/ch14/m__us_usc_t14_ptI_ch14.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs518)
 
 ----------
 ----------

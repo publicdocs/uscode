@@ -83,71 +83,7 @@
 
  __Arctic Marine Shipping Assessment Implementation__ 
 
-[Pub. L. 111–281, title III, § 307][/us/pl/111/281/s307], Oct. 15, 2010, [124 Stat. 2927][/us/stat/124/2927], provided that:
-
->     “(a)  __Purpose__  __.—__ 
-
->     The purpose of this section is to ensure safe and secure maritime shipping in the Arctic including the availability of aids to navigation, vessel escorts, spill response capability, and maritime search and rescue in the Arctic.
-
->     “(b)  __International Maritime Organization Agreements__  __.—__ 
-
->     To carry out the purpose of this section, the Secretary of the department in which the Coast Guard is operating is encouraged to enter into negotiations through the International Maritime Organization to conclude and execute agreements to promote coordinated action among the United States, Russia, Canada, Iceland, Norway, and Denmark and other seafaring and Arctic nations to ensure, in the Arctic—
-
->         “(1) placement and maintenance of aids to navigation;
-
->         “(2) appropriate marine safety, tug, and salvage capabilities;
-
->         “(3) oil spill prevention and response capability;
-
->         “(4) maritime domain awareness, including long-range vessel tracking; and
-
->         “(5) search and rescue.
-
->     “(c)  __Coordination by Committee on the Maritime Transportation System__  __.—__ 
-
->     The Committee on the Maritime Transportation System established under a directive of the President in the Ocean Action Plan, issued December 17, 2004, shall coordinate the establishment of domestic transportation policies in the Arctic necessary to carry out the purpose of this section.
-
->     “(d)  __Agreements and Contracts__  __.—__ 
-
->     The Secretary of the department in which the Coast Guard is operating may, subject to the availability of appropriations, enter into cooperative agreements, contracts, or other agreements with, or make grants to individuals and governments to carry out the purpose of this section or any agreements established under subsection (b).
-
->     “(e)  __Icebreaking__  __.—__ 
-
->     The Secretary of the department in which the Coast Guard is operating shall promote safe maritime navigation by means of icebreaking where necessary, feasible, and effective to carry out the purposes of this section.
-
->     “(f) __Independent Ice Breaker Analyses.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         Not later than 90 days after the date of enactment of this Act \[Oct. 15, 2010\], the Secretary of the department in which the Coast Guard is operating shall require a nongovernmental, independent third party (other than the National Academy of Sciences) that has extensive experience in the analysis of military procurements, to—
-
->             “(A)
-
->              conduct a comparative cost-benefit analysis, taking into account future Coast Guard budget projections (which assume Coast Guard budget growth of no more than inflation) and other recapitalization needs, of—
-
->                 “(i) rebuilding, renovating, or improving the existing fleet of polar icebreakers for operation by the Coast Guard;
-
->                 “(ii) constructing new polar icebreakers for operation by the Coast Guard;
-
->                 “(iii) construction of new polar icebreakers by the National Science Foundation for operation by the Foundation;
-
->                 “(iv) rebuilding, renovating, or improving the existing fleet of polar icebreakers by the National Science Foundation for operation by the Foundation; and
-
->                 “(v) any combination of the activities described in clause (i), (ii), (iii), or (iv) to carry out the missions of the Coast Guard and the National Science Foundation; and
-
->             “(B) conduct a comprehensive analysis of the impact on all Coast Guard activities, including operations, maintenance, procurements, and end strength, of the acquisition of polar icebreakers described in subparagraph (A) by the Coast Guard or the National Science Foundation assuming that total Coast Guard funding will not increase more than the annual rate of inflation.
-
->         “(2)  __Report__  __.—__ 
-
->         Not later than 1 year after the date of enactment of this Act, the Secretary of the department in which the Coast Guard is operating shall submit a report containing the results of the analyses required under paragraph (1), together with recommendations the Commandant considers appropriate under [section 93(a)(24) of title 14][/us/usc/t14/s93/a/24], United States Code, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
-
->     “(g)  __High-Latitude Study__  __.—__ 
-
->     Not later than 90 days after the date of enactment of this Act \[Oct. 15, 2010\] or the date of completion of the ongoing High-Latitude Study to assess polar icebreaking mission requirements for all Coast Guard missions including search and rescue, marine pollution response and prevention, fisheries enforcement, and maritime commerce, whichever occurs later, the Commandant of the Coast Guard shall submit a report containing the results of the study, together with recommendations the Commandant considers appropriate under [section 93(a)(24) of title 14][/us/usc/t14/s93/a/24], United States Code, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
-
->     “(h)  __Arctic Definition__  __.—__ 
-
->     In this section the term ‘Arctic’ has the same meaning as in section 112 of the Arctic Research and Policy Act of 1984 ([15 U.S.C. 4111][/us/usc/t15/s4111]).”
+    [Pub. L. 111–281, title III, § 307][/us/pl/111/281/s307], Oct. 15, 2010, [124 Stat. 2927][/us/stat/124/2927], which related to encouragement of negotiations through the International Maritime Organization to conclude and execute agreements to promote coordinated action among the United States and other seafaring and Arctic nations to ensure safe and secure maritime shipping in the Arctic, was repealed by [Pub. L. 113–281, title V, § 501(c)][/us/pl/113/281/s501/c], Dec. 18, 2014, [128 Stat. 3057][/us/stat/128/3057].
 
  __Conveyance of Coast Guard Vessels for Public Purposes__ 
 
@@ -500,9 +436,8 @@ Provisions specifying the maximum number of aircraft on hand at any one time, ex
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/111/281/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs307
 [/us/stat/124/2927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2927
-[/us/usc/t14/s93/a/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs93%2Fa%2F24
-[/us/usc/t14/s93/a/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs93%2Fa%2F24
-[/us/usc/t15/s4111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4111
+[/us/pl/113/281/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs501%2Fc
+[/us/stat/128/3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3057
 [/us/pl/111/281/s914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs914
 [/us/stat/124/3018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3018
 [/us/usc/t15/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2601

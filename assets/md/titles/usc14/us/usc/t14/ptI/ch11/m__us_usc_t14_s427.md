@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s426.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s431.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs427)
+[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s426.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s428.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs427)
 
 ## § 427. Prohibition of certain involuntary administrative separations
 
@@ -35,11 +35,9 @@
 
 (Added [Pub. L. 112–213, title II, § 209(a)][/us/pl/112/213/s209/a], Dec. 20, 2012, [126 Stat. 1549][/us/stat/126/1549].)
 
- __SPECIAL PROVISIONS__ 
-
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s426.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s431.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs427)
+[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s426.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s428.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs427)
 
 ----------
 ----------

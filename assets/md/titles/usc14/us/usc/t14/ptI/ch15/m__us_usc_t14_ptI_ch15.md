@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch13/m__us_usc_t14_s518.md) | [Next](./../../../../..//us/usc/t14/ptI/ch15/schI/m__us_usc_t14_ptI_ch15_schI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch15)
+[Previous](./../../../../..//us/usc/t14/ptI/ch14/schIII/m__us_usc_t14_s555.md) | [Next](./../../../../..//us/usc/t14/ptI/ch15/schI/m__us_usc_t14_ptI_ch15_schI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch15)
 
 ### CHAPTER 15—ACQUISITIONS
 
@@ -99,7 +99,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs569" data-uslm-ref="/us/usc/t14/s569">569.</a>  </td>
 
-    <td> Report on former Coast Guard officials employed by contractors to the agency.  </td>
+    <td> Mission need statement.  </td>
 
   </tr>
 
@@ -197,31 +197,29 @@ SUBCHAPTER III—DEFINITIONS  </td>
 
   </tr>
 
-  <tr>
-
-    <td> 
-
-Prior Provisions  </td>
-
-  </tr>
-
 </table>
+
+ __Prior Provisions__ 
 
     A prior chapter 15 of this title, consisting of sections 561 to 576 and relating to Coast Guard discipline, was repealed by [act May 5, 1950, ch. 169, § 14(v)][/us/act/1950-05-05/ch169/s14/v], [64 Stat. 148][/us/stat/64/148].
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–281, title II, § 215(b)][/us/pl/113/281/s215/b], Dec. 18, 2014, [128 Stat. 3035][/us/stat/128/3035], substituted “Mission need statement” for “Report on former Coast Guard officials employed by contractors to the agency” in item 569.
+
     2012—[Pub. L. 112–213, title II][/us/pl/112/213], §§ 210(b), 211(b), Dec. 20, 2012, [126 Stat. 1551][/us/stat/126/1551], 1552, added items 569a and 577.
 
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch13/m__us_usc_t14_s518.md) | [Next](./../../../../..//us/usc/t14/ptI/ch15/schI/m__us_usc_t14_ptI_ch15_schI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch15)
+[Previous](./../../../../..//us/usc/t14/ptI/ch14/schIII/m__us_usc_t14_s555.md) | [Next](./../../../../..//us/usc/t14/ptI/ch15/schI/m__us_usc_t14_ptI_ch15_schI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch15)
 
 ----------
 ----------
 
 [/us/act/1950-05-05/ch169/s14/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-05%2Fch169%2Fs14%2Fv
 [/us/stat/64/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F148
+[/us/pl/113/281/s215/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs215%2Fb
+[/us/stat/128/3035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3035
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
 [/us/stat/126/1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1551
 

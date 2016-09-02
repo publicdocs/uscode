@@ -99,6 +99,16 @@
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch14" data-uslm-ref="/us/usc/t14/ptI/ch14">14.</a>  </td>
+
+    <td> Coast Guard Family Support and Child Care  </td>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs531" data-uslm-ref="/us/usc/t14/s531">531</a>  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch15" data-uslm-ref="/us/usc/t14/ptI/ch15">15.</a>  </td>
 
     <td> Acquisitions  </td>
@@ -151,6 +161,8 @@
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–281, title II, § 214(b)(2)(A)][/us/pl/113/281/s214/b/2/A], Dec. 18, 2014, [128 Stat. 3033][/us/stat/128/3033], added item for chapter 14.
+
     2010—[Pub. L. 111–281, title IV, § 402(b)][/us/pl/111/281/s402/b], Oct. 15, 2010, [124 Stat. 2950][/us/stat/124/2950], added item for chapter 15.
 
     1996—[Pub. L. 104–324, title II, § 208(c)][/us/pl/104/324/s208/c], Oct. 19, 1996, [110 Stat. 3913][/us/stat/110/3913], added item for chapter 18.
@@ -166,6 +178,8 @@
 ----------
 ----------
 
+[/us/pl/113/281/s214/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs214%2Fb%2F2%2FA
+[/us/stat/128/3033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3033
 [/us/pl/111/281/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs402%2Fb
 [/us/stat/124/2950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2950
 [/us/pl/104/324/s208/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs208%2Fc

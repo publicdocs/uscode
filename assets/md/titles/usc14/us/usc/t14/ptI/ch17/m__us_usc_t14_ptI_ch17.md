@@ -185,9 +185,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs651" data-uslm-ref="/us/usc/t14/s651">651.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs651" data-uslm-ref="/us/usc/t14/s651">651.</a>  </td>
 
-    <td> Annual report.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -233,9 +233,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs657" data-uslm-ref="/us/usc/t14/s657">657.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs657" data-uslm-ref="/us/usc/t14/s657">657.</a>  </td>
 
-    <td> Dependent school children.  </td>
+    <td> Renumbered.]  </td>
 
   </tr>
 
@@ -276,6 +276,14 @@
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs662" data-uslm-ref="/us/usc/t14/s662">662.</a>  </td>
 
     <td> Requirement for prior authorization of appropriations.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs662a" data-uslm-ref="/us/usc/t14/s662a">662a.</a>  </td>
+
+    <td> Transmission of annual Coast Guard authorization request.  </td>
 
   </tr>
 
@@ -415,9 +423,27 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs679" data-uslm-ref="/us/usc/t14/s679">679.</a>  </td>
+
+    <td> Inventory of real property.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs680" data-uslm-ref="/us/usc/t14/s680">680.</a> <sup>[1]</sup>  <sup><sup> 1 Another item 680 appears in the analysis for chapter 18 of this title. </sup></sup>   </td>
+
+    <td> Retired service members and dependents serving on advisory committees.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–281, title II][/us/pl/113/281], §§ 214(b)(2)(D), 216(b), 217(b), 218(b), 221(a)(2), Dec. 18, 2014, [128 Stat. 3034–3037][/us/stat/128/3034-3037], added items 662a, 679, and 680 and struck out items 651 “Annual report” and 657 “Dependent school children”.
 
     2012—[Pub. L. 112–213, title II][/us/pl/112/213], §§ 212(b)(2), 213(c)(1), 214(b), 217(9), Dec. 20, 2012, [126 Stat. 1552][/us/stat/126/1552], 1553, 1555, 1558, added items 656, 663, 669, 674, and 678 and struck out former items 656 “Use of moneys appropriated for acquisition, construction, and improvement; for research, development, test, and evaluation; and for the alteration of bridges over the navigable waters”, 663 “Submission of plans to Congress”, 669 “Telephone Installation and Charges”, and 674 “Small boat station capability”.
 
@@ -484,6 +510,8 @@
 ----------
 ----------
 
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/stat/128/3034-3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3034-3037
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
 [/us/stat/126/1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1552
 [/us/pl/111/281/s903/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs903%2Fb%2F2

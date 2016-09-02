@@ -401,6 +401,14 @@ d. discharges; retirements; revocation of commissions  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs296" data-uslm-ref="/us/usc/t14/s296">296.</a>  </td>
+
+    <td> Flag officers.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs301" data-uslm-ref="/us/usc/t14/s301">301</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs315" data-uslm-ref="/us/usc/t14/s315">315.</a>  </td>
 
     <td> Repealed.]  </td>
@@ -801,6 +809,14 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs428" data-uslm-ref="/us/usc/t14/s428">428.</a>  </td>
+
+    <td> Sea service letters.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SPECIAL PROVISIONS  </td>
@@ -840,6 +856,8 @@ SPECIAL PROVISIONS  </td>
     The subject matter seemed to break down into the sub-heads of “Commissioned Officers”, “Warrant Officers”, “Enlisted Men”, and “General Provisions”. Each of the first three sub-heads parallels the other two, insofar as the applicability of statutes of the three groups permits. The last sub-head includes the broad provisions which, in the same terms, can be made applicable to all military personnel. In accord with existing Navy and Coast Guard law, the term “commissioned officer” includes commissioned warrant officers unless specifically excepted, or manifestly inapplicable. Heretofore Coast Guard statutes have designated commissioned warrant officers as chief warrant officers; in line with Navy designation it is changed to commissioned warrant officers throughout this title. Terms such as “Coast Guard personnel” or “personnel of the Coast Guard”, as used throughout this title, are intended to include all employees of the Service, civilian and military. 81st Congress, House Report No. 557.
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–281, title II, § 212(b)][/us/pl/113/281/s212/b], title III, § 305(b)(2), Dec. 18, 2014, [128 Stat. 3029][/us/stat/128/3029], 3044, added items 296 and 428.
 
     2012—[Pub. L. 112–213, title II][/us/pl/112/213], §§ 208(d), 209(b), Dec. 20, 2012, [126 Stat. 1549][/us/stat/126/1549], 1550, added items 263 and 427.
 
@@ -915,6 +933,8 @@ SPECIAL PROVISIONS  </td>
 [/us/act/1946-02-21/ch34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-02-21%2Fch34
 [/us/stat/60/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F29
 [/us/usc/t14/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs305
+[/us/pl/113/281/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs212%2Fb
+[/us/stat/128/3029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3029
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
 [/us/stat/126/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1549
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281

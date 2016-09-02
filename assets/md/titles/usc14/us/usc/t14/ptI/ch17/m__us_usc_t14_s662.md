@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch17/m__us_usc_t14_s661.md) | [Next](./../../../../..//us/usc/t14/ptI/ch17/m__us_usc_t14_s663.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs662)
+[Previous](./../../../../..//us/usc/t14/ptI/ch17/m__us_usc_t14_s661.md) | [Next](./../../../../..//us/usc/t14/ptI/ch17/m__us_usc_t14_s662a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs662)
 
 ## § 662. Requirement for prior authorization of appropriations
 
@@ -83,7 +83,7 @@ Sept. 10, 1976, Pub. L. 94–406, § 5, 90 Stat. 1236.  </td>
 
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch17/m__us_usc_t14_s661.md) | [Next](./../../../../..//us/usc/t14/ptI/ch17/m__us_usc_t14_s663.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs662)
+[Previous](./../../../../..//us/usc/t14/ptI/ch17/m__us_usc_t14_s661.md) | [Next](./../../../../..//us/usc/t14/ptI/ch17/m__us_usc_t14_s662a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs662)
 
 ----------
 ----------
