@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2282.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2283.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2282a)
+[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2282.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2282b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2282a)
 
 ## § 2282a. Planning
 
@@ -137,7 +137,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2282.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2283.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2282a)
+[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2282.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2282b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2282a)
 
 ----------
 ----------

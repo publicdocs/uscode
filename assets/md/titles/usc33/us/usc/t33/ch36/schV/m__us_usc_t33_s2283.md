@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2282a.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2283a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2283)
+[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2282b.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2283a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2283)
 
 ## § 2283. Fish and wildlife mitigation
 
@@ -183,7 +183,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2282a.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2283a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2283)
+[Previous](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2282b.md) | [Next](./../../../../..//us/usc/t33/ch36/schV/m__us_usc_t33_s2283a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2283)
 
 ----------
 ----------

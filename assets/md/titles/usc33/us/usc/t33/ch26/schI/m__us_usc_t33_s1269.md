@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch26/schI/m__us_usc_t33_s1268.md) | [Next](./../../../../..//us/usc/t33/ch26/schI/m__us_usc_t33_s1270.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1269)
+[Previous](./../../../../..//us/usc/t33/ch26/schI/m__us_usc_t33_s1268a.md) | [Next](./../../../../..//us/usc/t33/ch26/schI/m__us_usc_t33_s1270.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1269)
 
 ## § 1269. Long Island Sound
 
@@ -613,7 +613,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t33/ch26/schI/m__us_usc_t33_s1268.md) | [Next](./../../../../..//us/usc/t33/ch26/schI/m__us_usc_t33_s1270.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1269)
+[Previous](./../../../../..//us/usc/t33/ch26/schI/m__us_usc_t33_s1268a.md) | [Next](./../../../../..//us/usc/t33/ch26/schI/m__us_usc_t33_s1270.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1269)
 
 ----------
 ----------
