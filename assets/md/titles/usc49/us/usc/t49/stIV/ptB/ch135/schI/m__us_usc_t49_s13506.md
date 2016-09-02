@@ -81,9 +81,11 @@
 
         (13) transportation of wood chips;
 
-        (14) brokers for motor carriers of passengers, except as provided in section 13904(d);  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or
+        (14) brokers for motor carriers of passengers, except as provided in section 13904(d);  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-        (15) transportation of broken, crushed, or powdered glass.
+        (15) transportation of broken, crushed, or powdered glass; or
+
+        (16) the transportation of passengers by 9 to 15 passenger motor vehicles operated by youth or family camps that provide recreational or educational activities.
 
     (b)  __Exempt Unless Otherwise Necessary__  __.—__ 
 
@@ -101,7 +103,7 @@
 
         (3) the emergency towing of an accidentally wrecked or disabled motor vehicle.
 
-(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 861][/us/stat/109/861]; amended [Pub. L. 105–102, § 2(8)][/us/pl/105/102/s2/8], Nov. 20, 1997, [111 Stat. 2204][/us/stat/111/2204]; [Pub. L. 107–298, § 3(b)(1)][/us/pl/107/298/s3/b/1], Nov. 26, 2002, [116 Stat. 2343][/us/stat/116/2343].)
+(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 861][/us/stat/109/861]; amended [Pub. L. 105–102, § 2(8)][/us/pl/105/102/s2/8], Nov. 20, 1997, [111 Stat. 2204][/us/stat/111/2204]; [Pub. L. 107–298, § 3(b)(1)][/us/pl/107/298/s3/b/1], Nov. 26, 2002, [116 Stat. 2343][/us/stat/116/2343]; [Pub. L. 114–113, div. L, title I, § 136][/us/pl/114/113/s136], Dec. 18, 2015, [129 Stat. 2851][/us/stat/129/2851].)
 
  __Historical and Revision Notes__ 
 
@@ -118,6 +120,8 @@
     Provisions similar to those in this section were contained in [section 10526 of this title][/us/usc/t49/s10526] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
 
  __Amendments__ 
+
+    2015—Subsec. (a)(16). [Pub. L. 114–113][/us/pl/114/113] added par. (16).
 
     2002—Subsec. (a)(2). [Pub. L. 107–298][/us/pl/107/298] amended par. (2) generally. Prior to amendment, par. (2) read as follows: “a motor vehicle providing taxicab service and having a capacity of not more than 6 passengers and not operated on a regular route or between specified places;”.
 
@@ -141,11 +145,14 @@
 [/us/stat/111/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2204
 [/us/pl/107/298/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F298%2Fs3%2Fb%2F1
 [/us/stat/116/2343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2343
+[/us/pl/114/113/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs136
+[/us/stat/129/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2851
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/pl/112/141/s32916/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32916%2Fb%2F2
 [/us/stat/126/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F821
 [/us/usc/t49/s10526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10526
 [/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/107/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F298
 [/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
 [/us/pl/104/88/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs101

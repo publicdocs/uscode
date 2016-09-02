@@ -25,7 +25,13 @@
 
 [Pub. L. 113–76, div. L, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 574][/us/stat/128/574], provided in part: 
 
-> “That notwithstanding any other provision of law, the powers and duties, functions, authorities and personnel of the Research and Innovative Technology Administration are hereby transferred to the Office of the Assistant Secretary for Research and Technology in the Office of the Secretary:  Provided further, That notwithstanding [section 102 of title 49][/us/usc/t49/s102] and [section 5315 of title 5][/us/usc/t5/s5315], United States Code, there shall be an Assistant Secretary for Research and Technology within the Office of the Secretary, appointed by the President with the advice and consent of the Senate, to lead such office:  Provided further, That any reference in law, regulation, judicial proceedings, or elsewhere to the Research and Innovative Technology Administration shall be deemed to be a reference to the Office of the Assistant Secretary for Research and Technology of the Department of Transportation.”
+> “That notwithstanding any other provision of law, the powers and duties, functions, authorities and personnel of the Research and Innovative Technology Administration are hereby transferred to the Office of the Assistant Secretary for Research and Technology in the Office of the Secretary: Provided further, That notwithstanding [section 102 of title 49][/us/usc/t49/s102] and [section 5315 of title 5][/us/usc/t5/s5315], United States Code, there shall be an Assistant Secretary for Research and Technology within the Office of the Secretary, appointed by the President with the advice and consent of the Senate, to lead such office: Provided further, That any reference in law, regulation, judicial proceedings, or elsewhere to the Research and Innovative Technology Administration shall be deemed to be a reference to the Office of the Assistant Secretary for Research and Technology of the Department of Transportation.”
+
+\[[Pub. L. 114–113, div. L, title I][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2835][/us/stat/129/2835], provided in part: 
+
+> “That any reference in law, regulation, judicial proceedings, or elsewhere to the Research and Innovative Technology Administration shall continue to be deemed to be a reference to the Office of the Assistant Secretary for Research and Technology of the Department of Transportation.”
+
+\]
 
 \[[Pub. L. 113–235, div. K, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2696][/us/stat/128/2696], provided in part: 
 
@@ -66,6 +72,8 @@
 [/us/stat/128/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F574
 [/us/usc/t49/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs102
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/stat/129/2835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2835
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/stat/128/2696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2696
 [/us/pl/108/426/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426%2Fs4%2Fd

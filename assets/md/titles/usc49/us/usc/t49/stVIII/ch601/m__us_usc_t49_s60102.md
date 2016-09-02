@@ -893,6 +893,12 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 203(b) (last sentence); adde
 
     Subsec. (l). [Pub. L. 104–304, § 4(f)][/us/pl/104/304/s4/f], added subsec. (l).
 
+ __Rulemaking To Expand Applicability of Comprehensive Oil Spill Response Plans__ 
+
+[Pub. L. 114–113, div. L, title I][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2861][/us/stat/129/2861], provided in part: 
+
+> “That no later than 90 days after the date of enactment of this Act \[Dec. 18, 2015\], the Secretary of Transportation shall initiate a rulemaking to expand the applicability of comprehensive oil spill response plans, and shall issue a final rule no later than one year after the date of enactment of this Act.”
+
  __Standards To Implement NTSB Recommendations__ 
 
 [Pub. L. 109–468, § 19][/us/pl/109/468/s19], Dec. 29, 2006, [120 Stat. 3498][/us/stat/120/3498], as amended by [Pub. L. 110–244, title III, § 302(j)][/us/pl/110/244/s302/j], June 6, 2008, [122 Stat. 1618][/us/stat/122/1618], provided that: 
@@ -966,6 +972,8 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 203(b) (last sentence); adde
 [/us/pl/104/304/s20/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs20%2Fg
 [/us/pl/104/304/s4/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs4%2Fh
 [/us/pl/104/304/s4/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F304%2Fs4%2Ff
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/stat/129/2861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2861
 [/us/pl/109/468/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F468%2Fs19
 [/us/stat/120/3498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3498
 [/us/pl/110/244/s302/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs302%2Fj

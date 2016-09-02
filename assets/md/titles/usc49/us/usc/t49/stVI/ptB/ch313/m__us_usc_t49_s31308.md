@@ -123,6 +123,12 @@ Oct. 27, 1986, Pub. L. 99–570, § 12006, 100 Stat. 3207–175.  </td>
 
 > “Not later than 180 days after the date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\] shall issue regulations to carry out the amendment made by paragraph (1) \[amending this section\].”
 
+ __Commercial Learner’s Permit for Individuals Under Age 18__ 
+
+[Pub. L. 114–113, div. L, title I, § 132][/us/pl/114/113/s132], Dec. 18, 2015, [129 Stat. 2850][/us/stat/129/2850], provided that: 
+
+> “None of the funds limited or otherwise made available under this Act, or any other Act, hereafter, shall be used by the Secretary to enforce any regulation prohibiting a State from issuing a commercial learner’s permit to individuals under the age of eighteen if the State had a law authorizing the issuance of commercial learner’s permits to individuals under eighteen years of age as of May 9, 2011.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t49/stVI/ptB/ch313/m__us_usc_t49_s31307.md) | [Next](./../../../../../..//us/usc/t49/stVI/ptB/ch313/m__us_usc_t49_s31309.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31308)
@@ -162,5 +168,7 @@ Oct. 27, 1986, Pub. L. 99–570, § 12006, 100 Stat. 3207–175.  </td>
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/pl/105/178/s4011/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs4011%2Fc%2F2
 [/us/stat/112/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F407
+[/us/pl/114/113/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs132
+[/us/stat/129/2850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2850
 
 

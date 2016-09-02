@@ -65,6 +65,12 @@
 
     2007—Subsec. (b)(3). [Pub. L. 110–53][/us/pl/110/53] added par. (3).
 
+ __Movement and Redeployment of Mobile Explosives Detection Systems__ 
+
+[Pub. L. 114–113, div. F, title II][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2499][/us/stat/129/2499], provided in part: 
+
+> “That notwithstanding any other provision of law, for the current fiscal year and each fiscal year hereafter, mobile explosives detection systems purchased and deployed using funds made available under this heading \[Transportation Security Administration, Aviation Security\] may be moved and redeployed to meet evolving passenger and baggage screening security priorities at airports”.
+
  __Issuance of Strategic Plan for Deployment and Use of Explosive Detection Equipment at Airport Screening Checkpoints__ 
 
 [Pub. L. 110–53, title XVI, § 1607(a)][/us/pl/110/53/s1607/a], Aug. 3, 2007, [121 Stat. 483][/us/stat/121/483], provided that: 
@@ -89,6 +95,8 @@
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/stat/129/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2499
 [/us/pl/110/53/s1607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1607%2Fa
 [/us/stat/121/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F483
 [/us/usc/t49/s44925/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44925%2Fb

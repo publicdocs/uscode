@@ -465,7 +465,7 @@
 
  __Safety of Cross-Border Trucking Between United States and Mexico__ 
 
-[Pub. L. 107–87, title III, § 350][/us/pl/107/87/s350], Dec. 18, 2001, [115 Stat. 864][/us/stat/115/864], provided that:
+[Pub. L. 107–87, title III, § 350][/us/pl/107/87/s350], Dec. 18, 2001, [115 Stat. 864][/us/stat/115/864], as amended by [Pub. L. 114–113, div. L, title I, § 130(b)][/us/pl/114/113/s130/b], Dec. 18, 2015, [129 Stat. 2850][/us/stat/129/2850], provided that:
 
 >     “(a)
 
@@ -589,7 +589,7 @@
 
 >         “(2) The Secretary of Transportation certifies in writing in a manner addressing the Inspector General’s findings in paragraphs (c)(1)(A) through (c)(1)(H) of this section that the opening of the border does not pose an unacceptable safety risk to the American public.
 
->     “(d) The Department of Transportation Inspector General shall conduct another review using the criteria in (c)(1)(A) through (c)(1)(H) consistent with paragraph (c) of this section, 180 days after the first review is completed, and at least annually thereafter.
+>     “\[(d) Repealed. [Pub. L. 114–113, div. L, title I, § 130(b)][/us/pl/114/113/s130/b], Dec. 18, 2015, [129 Stat. 2850][/us/stat/129/2850].\]
 
 >     “(e) For purposes of this section, the term ‘Mexican motor carrier’ shall be defined as a Mexico-domiciled motor carrier operating beyond United States municipalities and commercial zones on the United States-Mexico border.
 
@@ -802,12 +802,16 @@
 [/us/usc/t49/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10101
 [/us/pl/107/87/s350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F87%2Fs350
 [/us/stat/115/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F864
+[/us/pl/114/113/s130/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs130%2Fb
+[/us/stat/129/2850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2850
 [/us/pl/106/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159
 [/us/usc/t49/s31144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31144
 [/us/usc/t49/s31148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31148
 [/us/usc/t49/s31133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31133
 [/us/usc/t49/s14901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs14901
 [/us/usc/t49/s14901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs14901
+[/us/pl/114/113/s130/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs130%2Fb
+[/us/stat/129/2850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2850
 [/us/pl/97/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F261
 [/us/usc/t49/s10922/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10922%2Fm%2F1
 [/us/pl/97/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F261

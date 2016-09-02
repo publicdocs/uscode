@@ -31,7 +31,7 @@
 
         (2) the length of the property-carrying units of those commercial motor vehicle combinations, by specific configuration, in actual, lawful operation on a regular or periodic basis (including continuing seasonal operation) in that State before June 2, 1991.
 
-    (c)  __Special Rules for Wyoming, Ohio, Alaska, Iowa, and Nebraska__  __.—__ 
+    (c)  __Special Rules for Wyoming, Ohio, Alaska, Iowa, Nebraska, and Kansas__  __.—__ 
 
     In addition to the vehicles allowed under subsection (b) of this section—
 
@@ -39,11 +39,11 @@
 
         (2) Ohio may allow the operation of commercial motor vehicle combinations with 3 property-carrying units of 28.5 feet each (not including the truck tractor) not in actual operation on June 1, 1991, to be operated in Ohio on the 1-mile segment of Ohio State Route 7 that begins at and is south of exit 16 of the Ohio Turnpike;
 
-        (3) Alaska may allow the operation of commercial motor vehicle combinations that were not in actual operation on June 1, 1991, but were in actual operation before July 6, 1991; and
+        (3) Alaska may allow the operation of commercial motor vehicle combinations that were not in actual operation on June 1, 1991, but were in actual operation before July 6, 1991;
 
-        (4) Iowa may allow the operation on Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or on Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska of commercial motor vehicle combinations with trailer length, semitrailer length, and property-carrying unit length allowed by law or regulation and in actual lawful operation on a regular or periodic basis (including continued seasonal operation) in South Dakota or Nebraska, respectively, before June 2, 1991.
+        (4) Iowa may allow the operation on Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or on Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska of commercial motor vehicle combinations with trailer length, semitrailer length, and property-carrying unit length allowed by law or regulation and in actual lawful operation on a regular or periodic basis (including continued seasonal operation) in South Dakota or Nebraska, respectively, before June 2, 1991; and
 
-        (5) Nebraska may allow the operation of a truck tractor and 2 trailers or semitrailers not in actual lawful operation on a regular or periodic basis on June 1, 1991, if the length of the property-carrying units does not exceed 81 feet 6 inches and such combination is used only to transport equipment utilized by custom harvesters under contract to agricultural producers to harvest one or more of wheat, soybeans, and milo during the harvest months for such crops, as defined by the State of Nebraska.
+        (5) Nebraska and Kansas may allow the operation of a truck tractor and 2 trailers or semitrailers not in actual lawful operation on a regular or periodic basis on June 1, 1991, if the length of the property-carrying units does not exceed 81 feet 6 inches and such combination is used only to transport equipment utilized by custom harvesters under contract to agricultural producers to harvest one or more of wheat, soybeans, and milo during the harvest months for such crops, as defined by the relevant state. <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup> 
 
     (d)  __Additional Limitations__  __.—__ 
 
@@ -53,7 +53,7 @@
 
         (3) A State making a minor adjustment of a temporary and emergency nature as authorized by paragraph (1) of this subsection or further restricting or prohibiting the operation of a commercial motor vehicle combination as authorized by paragraph (2) of this subsection shall advise the Secretary not later than 30 days after the action. The Secretary shall publish a notice of the action in the Federal Register.
 
-        (4)  <sup>\[1\]</sup>  <sup><sup> 1 See 1996 Amendment note below. </sup></sup>  Nebraska may continue to allow to be operated under paragraphs (b)(1) and (b)(2) of this section, <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup>  the State of Nebraska may allow longer combination vehicles that were not in actual operation on June 1, 1991 to be operated within its boundaries to transport sugar beets from the field where such sugar beets are harvested to storage, market, factory or stockpile or from stockpile to storage, market or factory. This provision shall expire on February 28, 1998.
+        (4)  <sup>\[2\]</sup>  <sup><sup> 2 See 1996 Amendment note below. </sup></sup>  Nebraska may continue to allow to be operated under paragraphs (b)(1) and (b)(2) of this section, <sup>\[3\]</sup>  <sup><sup> 3 So in original. </sup></sup>  the State of Nebraska may allow longer combination vehicles that were not in actual operation on June 1, 1991 to be operated within its boundaries to transport sugar beets from the field where such sugar beets are harvested to storage, market, factory or stockpile or from stockpile to storage, market or factory. This provision shall expire on February 28, 1998.
 
     (e)  __List of State Length Limitations__  __.—__ 
 
@@ -83,7 +83,7 @@
 
         (2) Not later than June 15, 1992, the Secretary shall prescribe regulations establishing criteria for a State to follow in making minor adjustments under subsection (d) of this section.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 995][/us/stat/108/995]; [Pub. L. 104–59, title III, § 312(a)(3)][/us/pl/104/59/s312/a/3], Nov. 28, 1995, [109 Stat. 584][/us/stat/109/584]; [Pub. L. 104–205, title III, § 352][/us/pl/104/205/s352], Sept. 30, 1996, [110 Stat. 2980][/us/stat/110/2980]; [Pub. L. 105–66, title III, § 343][/us/pl/105/66/s343], Oct. 27, 1997, [111 Stat. 1449][/us/stat/111/1449]; [Pub. L. 109–59, title IV, § 4112][/us/pl/109/59/s4112], Aug. 10, 2005, [119 Stat. 1724][/us/stat/119/1724]; [Pub. L. 114–94, div. A, title V, § 5523(c)(1)][/us/pl/114/94/s5523/c/1], Dec. 4, 2015, [129 Stat. 1560][/us/stat/129/1560].)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 995][/us/stat/108/995]; [Pub. L. 104–59, title III, § 312(a)(3)][/us/pl/104/59/s312/a/3], Nov. 28, 1995, [109 Stat. 584][/us/stat/109/584]; [Pub. L. 104–205, title III, § 352][/us/pl/104/205/s352], Sept. 30, 1996, [110 Stat. 2980][/us/stat/110/2980]; [Pub. L. 105–66, title III, § 343][/us/pl/105/66/s343], Oct. 27, 1997, [111 Stat. 1449][/us/stat/111/1449]; [Pub. L. 109–59, title IV, § 4112][/us/pl/109/59/s4112], Aug. 10, 2005, [119 Stat. 1724][/us/stat/119/1724]; [Pub. L. 114–94, div. A, title V, § 5523(c)(1)][/us/pl/114/94/s5523/c/1], Dec. 4, 2015, [129 Stat. 1560][/us/stat/129/1560]; [Pub. L. 114–113, div. L, title I, § 137][/us/pl/114/113/s137], Dec. 18, 2015, [129 Stat. 2851][/us/stat/129/2851].)
 
 <table>
 
@@ -253,6 +253,14 @@ Jan 6, 1983, Pub. L. 97–424, 96 Stat. 2159, § 411(j); added Dec. 18, 1991, 
 
     2015—Subsec. (a)(1). [Pub. L. 114–94][/us/pl/114/94] inserted before period at end “, but not including a trailer or a semitrailer transported as part of a towaway trailer transporter combination (as defined in section 31111(a))”.
 
+    Subsec. (c). [Pub. L. 114–113, § 137(b)(1)][/us/pl/114/113/s137/b/1], substituted “Nebraska, and Kansas” for “and Nebraska” in heading.
+
+    Subsec. (c)(3). [Pub. L. 114–113, § 137(b)(2)][/us/pl/114/113/s137/b/2], substituted a semicolon for “; and” at end.
+
+    Subsec. (c)(4). [Pub. L. 114–113, § 137(b)(3)][/us/pl/114/113/s137/b/3], substituted “; and” for period at end.
+
+    Subsec. (c)(5). [Pub. L. 114–113, § 137(a)][/us/pl/114/113/s137/a], substituted “Nebraska and Kansas may” for “Nebraska may” and “the relevant state” for “the State of Nebraska”.
+
     2005—Subsec. (c). [Pub. L. 109–59, § 4112(b)][/us/pl/109/59/s4112/b], substituted “Iowa, and Nebraska” for “and Iowa” in heading.
 
     Subsec. (c)(5). [Pub. L. 109–59, § 4112(a)][/us/pl/109/59/s4112/a], added par. (5).
@@ -290,9 +298,15 @@ Jan 6, 1983, Pub. L. 97–424, 96 Stat. 2159, § 411(j); added Dec. 18, 1991, 
 [/us/stat/119/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1724
 [/us/pl/114/94/s5523/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs5523%2Fc%2F1
 [/us/stat/129/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1560
+[/us/pl/114/113/s137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs137
+[/us/stat/129/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2851
 [/us/pl/101/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F427
 [/us/stat/104/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F927
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/113/s137/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs137%2Fb%2F1
+[/us/pl/114/113/s137/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs137%2Fb%2F2
+[/us/pl/114/113/s137/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs137%2Fb%2F3
+[/us/pl/114/113/s137/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs137%2Fa
 [/us/pl/109/59/s4112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4112%2Fb
 [/us/pl/109/59/s4112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4112%2Fa
 [/us/pl/105/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F66

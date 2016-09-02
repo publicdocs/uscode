@@ -417,6 +417,12 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
     Except as otherwise specifically provided, amendment by [Pub. L. 104–264][/us/pl/104/264] applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see [section 3 of Pub. L. 104–264][/us/pl/104/264/s3], set out as a note under [section 106 of this title][/us/usc/t49/s106].
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. O, title IV, § 401][/us/pl/114/113/s401], Dec. 18, 2015, [129 Stat. 3000][/us/stat/129/3000], provided that: 
+
+> “This title \[enacting [section 10609 of Title 42][/us/usc/t42/s10609], The Public Health and Welfare, amending [section 905 of Title 2][/us/usc/t2/s905], The Congress, enacting provisions set out as a note under [section 905 of Title 2][/us/usc/t2/s905], and amending provisions set out as notes under this section\] may be cited as the ‘James Zadroga 9/11 Victim Compensation Fund Reauthorization Act’.”
+
  __Short Title of 2014 Amendment__ 
 
 [Pub. L. 113–238, § 1][/us/pl/113/238/s1], Dec. 18, 2014, [128 Stat. 2842][/us/stat/128/2842], provided that: 
@@ -2047,11 +2053,11 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
  __Air Transportation Safety and System Stabilization__ 
 
-[Pub. L. 112–10, div. B, title III, § 1347][/us/pl/112/10/s1347], Apr. 15, 2011, [125 Stat. 124][/us/stat/125/124], provided that: 
+[Pub. L. 112–10, div. B, title III, § 1347][/us/pl/112/10/s1347], Apr. 15, 2011, [125 Stat. 124][/us/stat/125/124], as amended by [Pub. L. 114–113, div. O, title IV, § 402(h)][/us/pl/114/113/s402/h], Dec. 18, 2015, [129 Stat. 3007][/us/stat/129/3007], provided that: 
 
-> “Notwithstanding any other provision of law, in fiscal year 2012 and thereafter payments for costs described in subsection (a) of [section 404 of Public Law 107–42][/us/pl/107/42/s404], as amended \[set out below\], shall be considered to be, and included in, payments for compensation for the purposes of sections 406(b) and (d)(1) of such Act.”
+> “Notwithstanding any other provision of law, in fiscal year 2012 and thereafter payments for costs described in subsection (a) of [section 404 of Public Law 107–42][/us/pl/107/42/s404], as amended \[set out below\], shall be considered to be, and included in, payments for compensation for the purposes of sections 406(b) and (d)(1) and (2) of such Act. Costs for payments for compensation for claims in Group A, as described in section 405(a)(3)(C)(ii) of such Act, shall be paid from amounts made available under section 406 of such Act. Costs for payments for compensation for claims in Group B, as described in section 405(a)(3)(C)(iii) of such Act, shall be paid from amounts in the Victims Compensation Fund established under section 410 of such Act.”
 
-[Pub. L. 107–42][/us/pl/107/42], Sept. 22, 2001, [115 Stat. 230][/us/stat/115/230], as amended by [Pub. L. 107–71, title I, § 124(a)][/us/pl/107/71/s124/a], (c), (d), title II, § 201, Nov. 19, 2001, [115 Stat. 631][/us/stat/115/631], 645; [Pub. L. 107–134, title I, § 114(a)][/us/pl/107/134/s114/a], Jan. 23, 2002, [115 Stat. 2435][/us/stat/115/2435]; [Pub. L. 107–296, title VIII, § 890][/us/pl/107/296/s890], title XII, § 1201(2), Nov. 25, 2002, [116 Stat. 2251][/us/stat/116/2251], 2286; [Pub. L. 110–113, § 3][/us/pl/110/113/s3], Nov. 8, 2007, [121 Stat. 1039][/us/stat/121/1039]; [Pub. L. 110–161, div. D, title I][/us/pl/110/161], Dec. 26, 2007, [121 Stat. 1974][/us/stat/121/1974]; [Pub. L. 111–347, title II][/us/pl/111/347], Jan. 2, 2011, [124 Stat. 3659][/us/stat/124/3659], provided that:
+[Pub. L. 107–42][/us/pl/107/42], Sept. 22, 2001, [115 Stat. 230][/us/stat/115/230], as amended by [Pub. L. 107–71, title I, § 124(a)][/us/pl/107/71/s124/a], (c), (d), title II, § 201, Nov. 19, 2001, [115 Stat. 631][/us/stat/115/631], 645; [Pub. L. 107–134, title I, § 114(a)][/us/pl/107/134/s114/a], Jan. 23, 2002, [115 Stat. 2435][/us/stat/115/2435]; [Pub. L. 107–296, title VIII, § 890][/us/pl/107/296/s890], title XII, § 1201(2), Nov. 25, 2002, [116 Stat. 2251][/us/stat/116/2251], 2286; [Pub. L. 110–113, § 3][/us/pl/110/113/s3], Nov. 8, 2007, [121 Stat. 1039][/us/stat/121/1039]; [Pub. L. 110–161, div. D, title I][/us/pl/110/161], Dec. 26, 2007, [121 Stat. 1974][/us/stat/121/1974]; [Pub. L. 111–347, title II][/us/pl/111/347], Jan. 2, 2011, [124 Stat. 3659][/us/stat/124/3659]; [Pub. L. 114–113, div. O, title IV, § 402(a)][/us/pl/114/113/s402/a]–(g), Dec. 18, 2015, [129 Stat. 3000–3006][/us/stat/129/3000-3006], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -2287,7 +2293,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >     “(9)  __Economic loss__  __.—__ 
 
->     The term ‘economic loss’ means any pecuniary loss resulting from harm (including the loss of earnings or other benefits related to employment, medical expense loss, replacement services loss, loss due to death, burial costs, and loss of business or employment opportunities) to the extent recovery for such loss is allowed under applicable State law.
+>     The term ‘economic loss’ means any pecuniary loss resulting from harm (including the loss of earnings or other benefits related to employment, replacement services loss, loss due to death, burial costs, loss of business or employment opportunities, and past out-of-pocket medical expense loss but not future medical expense loss) to the extent recovery for such loss is allowed under applicable State law.
 
 >     “(10)  __Eligible individual__  __.—__ 
 
@@ -2305,7 +2311,29 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >     The term ‘Special Master’ means the Special Master appointed under section 404(a).
 
->     “(14) __9/11__  __crash site__  __.—__ 
+>     “(14)  __WTC program administrator__  __.—__ 
+
+>     The term ‘WTC Program Administrator’ has the meaning given such term in section 3306 of the Public Health Service Act ([42 U.S.C. 300mm–5][/us/usc/t42/s300mm–5]).
+
+>     “(15)  __WTC-related physical health condition__  __.—__ 
+
+>     The term ‘WTC-related physical health condition’—
+
+>         “(A) means, subject to subparagraph (B), a WTC-related health condition as defined by section 3312(a) of the Public Health Service Act ([42 U.S.C. 300mm–22(a)][/us/usc/t42/s300mm–22/a]), including the conditions listed in section 3322(b) of such Act ([42 U.S.C. 300mm–32(b)][/us/usc/t42/s300mm–32/b]); and
+
+>         “(B)
+
+>          does not include—
+
+>             “(i) a mental health condition described in paragraph (1)(A)(ii) or (3)(B) of section 3312(a) of such Act ([42 U.S.C. 300mm–22(a)][/us/usc/t42/s300mm–22/a]);
+
+>             “(ii) any mental health condition certified under section 3312(b)(2)(B)(iii) of such Act ([42 U.S.C. 300mm–22(b)(2)(B)(iii)][/us/usc/t42/s300mm–22/b/2/B/iii]) (including such certification as applied under section 3322(a) of such Act ([42 U.S.C. 300mm–32(a)][/us/usc/t42/s300mm–32/a]);
+
+>             “(iii) a mental health condition described in section 3322(b)(2) of such Act ([42 U.S.C. 300mm–32(b)(2)][/us/usc/t42/s300mm–32/b/2]); or
+
+>             “(iv) any other mental health condition.
+
+>     “(16) __9/11__  __crash site__  __.—__ 
 
 >     The term ‘9/11 crash site’ means—
 
@@ -2313,13 +2341,13 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(B) the buildings or portions of buildings that were destroyed as a result of the terrorist-related aircraft crashes of September 11, 2001;
 
->         “(C) any area contiguous to a site of such crashes that the Special Master determines was sufficiently close to the site that there was a demonstrable risk of physical harm resulting from the impact of the aircraft or any subsequent fire, explosions, or building collapses (including the immediate area in which the impact occurred, fire occurred, portions of buildings fell, or debris fell upon and injured individuals); and
+>         “(C) the area in Manhattan that is south of the line that runs along Canal Street from the Hudson River to the intersection of Canal Street and East Broadway, north on East Broadway to Clinton Street, and east on Clinton Street to the East River;
 
 >         “(D) any area related to, or along, routes of debris removal, such as barges and Fresh Kills.
 
 > “SEC. 403. __PURPOSE.__ 
 
->     “It is the purpose of this title to provide compensation to any individual (or relatives of a deceased individual) who was physically injured or killed as a result of the terrorist-related aircraft crashes of September 11, 2001.
+>     “It is the purpose of this title to provide full compensation to any individual (or relatives of a deceased individual) who was physically injured or killed as a result of the terrorist-related aircraft crashes of September 11, 2001, or the rescue and recovery efforts during the immediate aftermath of such crashes.
 
 > “SEC. 404. __ADMINISTRATION.__ 
 
@@ -2369,7 +2397,37 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >             “(B)  __Exception__  __.—__ 
 
->             A claim may be filed under paragraph (1), in accordance with subsection (c)(3)(A)(i), by an individual (or by a personal representative on behalf of a deceased individual) during the period beginning on the date on which the regulations are updated under section 407(b) and ending on the date that is 5 years after the date on which such regulations are updated.
+>             A claim may be filed under paragraph (1), in accordance with subsection (c)(3)(A)(i), by an individual (or by a personal representative on behalf of a deceased individual) during the period beginning on the date on which the regulations are updated under section 407(b)(1) and ending on the date that is 5 years after the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act \[Dec. 18, 2015\].
+
+>             “(C) __Special master determination.—__ 
+
+>                 “(i)  __In general__  __.—__ 
+
+>                 For claims filed under this title during the period described in subparagraph (B), the Special Master shall establish a system for determining whether, for purposes of this title, the claim is—
+
+>                          “(I) a claim in Group A, as described in clause (ii); or
+
+>                          “(II) a claim in Group B, as described in clause (iii).
+
+>                 “(ii)  __Group a claims__  __.—__ 
+
+>                 A claim under this title is a claim in Group A if—
+
+>                          “(I) the claim is filed under this title during the period described in subparagraph (B); and
+
+>                          “(II) on or before the day before the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act \[Dec. 18, 2015\], the Special Master postmarks and transmits a final award determination to the claimant filing such claim.
+
+>                 “(iii)  __Group b claims__  __.—__ 
+
+>                 A claim under this title is a claim in Group B if the claim—
+
+>                          “(I) is filed under this title during the period described in subparagraph (B); and
+
+>                          “(II) is not a claim described in clause (ii).
+
+>                 “(iv)  __Definition of final award determination__  __.—__ 
+
+>                 For purposes of this subparagraph, the term ‘final award determination’ means a letter from the Special Master indicating the total amount of compensation to which a claimant is entitled for a claim under this title without regard to the limitation under the second sentence of section 406(d)(1), as such section was in effect on the day before the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act \[Dec. 18, 2015\].
 
 >     “(b) __Review and Determination.—__ 
 
@@ -2385,7 +2443,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                 “(i) the extent of the harm to the claimant, including any economic and noneconomic losses; and
 
->                 “(ii) the amount of compensation to which the claimant is entitled based on the harm to the claimant, the facts of the claim, and the individual circumstances of the claimant.
+>                 “(ii) subject to paragraph (7), the amount of compensation to which the claimant is entitled based on the harm to the claimant, the facts of the claim, and the individual circumstances of the claimant.
 
 >         “(2)  __Negligence__  __.—__ 
 
@@ -2409,9 +2467,39 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         The Special Master may not include amounts for punitive damages in any compensation paid under a claim under this title.
 
->         “(6)  __Collateral compensation__  __.—__ 
+>         “(6) __Collateral compensation.—__ 
 
->         The Special Master shall reduce the amount of compensation determined under paragraph (1)(B)(ii) by the amount of the collateral source compensation the claimant has received or is entitled to receive as a result of the terrorist-related aircraft crashes of September 11, 2001.
+>             “(A)  __In general__  __.—__ 
+
+>             The Special Master shall reduce the amount of compensation determined under paragraph (1)(B)(ii) by the amount of the collateral source compensation the claimant has received or is entitled to receive as a result of the terrorist-related aircraft crashes of September 11, 2001.
+
+>             “(B)  __Group b claims__  __.—__ 
+
+>             Notwithstanding any other provision of this title, in the case of a claim in Group B as described in subsection (a)(3)(C)(iii), a claimant filing such claim shall receive an amount of compensation under this title for such claim that is not greater than the amount determined under paragraph (1)(B)(ii) less the amount of any collateral source compensation that such claimant has received or is entitled to receive for such claim as a result of the terrorist-related aircraft crashes of September 11, 2001.
+
+>         “(7) __Limitations for group b claims.—__ 
+
+>             “(A)  __Noneconomic losses__  __.—__ 
+
+>             With respect to a claim in Group B as described in subsection (a)(3)(C)(iii), the total amount of compensation to which a claimant filing such claim is entitled to receive for such claim under this title on account of any noneconomic loss—
+
+>                 “(i) that results from any type of cancer shall not exceed $250,000; and
+
+>                 “(ii) that does not result from any type of cancer shall not exceed $90,000.
+
+>             “(B) __Determination of economic loss.—__ 
+
+>                 “(i)  __In general__  __.—__ 
+
+>                 Subject to the limitation described in clause (ii) and with respect to a claim in Group B as described in subsection (a)(3)(C)(iii), the Special Master shall, for purposes of calculating the amount of compensation to which a claimant is entitled under this title for such claim on account of any economic loss, determine the loss of earnings or other benefits related to employment by using the applicable methodology described in section 104.43 or 104.45 of title 28, Code of Federal Regulations, as such Code was in effect on the day before the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act \[Dec. 18, 2015\].
+
+>                 “(ii)  __Annual gross income limitation__  __.—__ 
+
+>                 In considering annual gross income under clause (i) for the purposes described in such clause, the Special Master shall, for each year of any loss of earnings or other benefits related to employment, limit the annual gross income of the claimant (or decedent in the case of a personal representative) for each such year to an amount that is not greater than $200,000.
+
+>             “(C)  __Gross income defined__  __.—__ 
+
+>             For purposes of this paragraph, the term ‘gross income’ has the meaning given such term in section 61 of the Internal Revenue Code of 1986 \[[26 U.S.C. 61][/us/usc/t26/s61]\].
 
 >     “(c) __Eligibility.—__ 
 
@@ -2453,7 +2541,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                 “(ii)  __Other eligibility requirements for filing claims__  __.—__ 
 
->                 An individual may file a claim during the period described in subsection (a)(3)(B) only if—
+>                 Except with respect to claims in Group B as described in subsection (a)(3)(C)(iii), an individual may file a claim during the period described in subsection (a)(3)(B) only if—
 
 >                          “(I) the individual was treated by a medical professional for suffering from a physical harm described in clause (i)(I) within a reasonable time from the date of discovering such harm; and
 
@@ -2461,7 +2549,17 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                 “(iii)  __Date specified__  __.—__ 
 
->                 The date specified in this clause is the date on which the regulations are updated under section 407(a).
+>                 The date specified in this clause is the date on which the regulations are updated under section 407(b)(1).
+
+>                 “(iv) __Group b claims.—__ 
+
+>                          “(I)  __In general__  __.—__ 
+
+>                     Subject to subclause (II), an individual filing a claim in Group B as described in subsection (a)(3)(C)(iii) may be eligible for compensation under this title only if the Special Master, with assistance from the WTC Program Administrator as necessary, determines based on the evidence presented that the individual has a WTC-related physical health condition, as defined by section 402 of this Act.
+
+>                          “(II)  __Personal representatives__  __.—__ 
+
+>                     An individual filing a claim in Group B, as described in subsection (a)(3)(C)(iii), who is a personal representative described in paragraph (2)(C) may be eligible for compensation under this title only if the Special Master, with assistance from the WTC Program Administrator as necessary, determines based on the evidence presented that the applicable decedent suffered from a condition that was, or would have been determined to be, a WTC-related physical health condition, as defined by section 402 of this Act.
 
 >             “(B) __Single claim.—__ 
 
@@ -2479,7 +2577,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >                          “(I) during the period described in subsection (a)(3)(A) unless such individual withdraws from such action by the date that is 90 days after the date on which regulations are promulgated under section 407(a); and
 
->                          “(II) during the period described in subsection (a)(3)(B) unless such individual withdraws from such action by the date that is 90 days after the date on which the regulations are updated under section 407(b).
+>                          “(II) during the period described in subsection (a)(3)(B) unless such individual withdraws from such action by the date that is 90 days after the date on which the regulations are updated under section 407(b)(1).
 
 >                 “(iii)  __Settled actions__  __.—__ 
 
@@ -2493,7 +2591,7 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >     “(b)  __Payment Authority__  __.—__ 
 
->     This title constitutes budget authority in advance of appropriations Acts in the amounts provided under subsection (d)(1) and represents the obligation of the Federal Government to provide for the payment of amounts for compensation under this title subject to the limitations under subsection (d).
+>     For the purpose of providing compensation for claims in Group A as described in section 405(a)(3)(C)(ii), this title constitutes budget authority in advance of appropriations Acts in the amounts provided under subsection (d)(1) and represents the obligation of the Federal Government to provide for the payment of amounts for compensation under this title subject to the limitations under subsection (d).
 
 >     “(c) __Additional Funding.—__ 
 
@@ -2505,33 +2603,51 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         In making payments under this section, amounts contained in any account containing funds provided under paragraph (1) shall be used prior to using appropriated amounts.
 
->     “(d) __Limitation.—__ 
+>     “(d) __Limitations.—__ 
 
->         “(1)  __In general__  __.—__ 
-
->         The total amount of Federal funds paid for compensation under this title, with respect to claims filed on or after the date on which the regulations are updated under section 407(b), shall not exceed $2,775,000,000. Of such amounts, not to exceed $875,000,000 shall be available to pay such claims during the 5-year period beginning on such date.
-
->         “(2) __Pro-ration and payment of remaining claims.—__ 
+>         “(1) __Group a claims.—__ 
 
 >             “(A)  __In general__  __.—__ 
 
->             The Special Master shall ratably reduce the amount of compensation due claimants under this title in a manner to ensure, to the extent possible, that—
+>             The total amount of Federal funds paid for compensation under this title, with respect to claims in Group A as described in section 405(a)(3)(C)(ii), shall not exceed $2,775,000,000.
 
->                 “(i) all claimants who, before application of the limitation under the second sentence of paragraph (1), would have been determined to be entitled to a payment under this title during such 5-year period, receive a payment during such period; and
+>             “(B)  __Remainder of claim amounts__  __.—__ 
 
->                 “(ii) the total amount of all such payments made during such 5-year period do not exceed the amount available under the second sentence of paragraph (1) to pay claims during such period.
+>             In the case of a claim in Group A as described in section 405(a)(3)(C)(ii) and for which the Special Master has ratably reduced the amount of compensation for such claim pursuant to paragraph (2) of this subsection, as this subsection was in effect on the day before the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act \[Dec. 18, 2015\], the Special Master shall, as soon as practicable after the date of enactment of such Act, authorize payment of the amount of compensation that is equal to the difference between—
 
->             “(B)  __Payment of remainder of claim amounts__  __.—__ 
+>                 “(i) the amount of compensation that the claimant would have been paid under this title for such claim without regard to the limitation under the second sentence of paragraph (1) of this subsection, as this subsection was in effect on the day before the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act; and
 
->             In any case in which the amount of a claim is ratably reduced pursuant to subparagraph (A), on or after the first day after the 5-year period described in paragraph (1), but in no event later than 1 year after such 5-year period, the Special Master shall pay to the claimant the amount that is equal to the difference between—
+>                 “(ii) the amount of compensation the claimant was paid under this title for such claim prior to the date of enactment of such Act.
 
->                 “(i) the amount that the claimant would have been paid under this title during such period without regard to the limitation under the second sentence of paragraph (1) applicable to such period; and
+>         “(2) __Group b claims.—__ 
 
->                 “(ii) the amount the claimant was paid under this title during such period.
+>             “(A)  __In general__  __.—__ 
 
->             “(C)  __Termination__  __.—__ 
+>             The total amount of Federal funds paid for compensation under this title, with respect to claims in Group B as described in section 405(a)(3)(C)(iii), shall not exceed the amount of funds deposited into the Victims Compensation Fund under section 410.
 
->             Upon completion of all payments pursuant to this subsection, the Victim’s Compensation Fund shall be permanently closed.
+>             “(B)  __Payment system__  __.—__ 
+
+>             The Special Master shall establish a system for providing compensation for claims in Group B as described in section 405(a)(3)(C)(iii) in accordance with this subsection and section 405(b)(7).
+
+>             “(C) __Development of agency policies and procedures.—__ 
+
+>                 “(i) __Development.—__ 
+
+>                          “(I)  __In general__  __.—__ 
+
+>                     Not later than 30 days after the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act \[Dec. 18, 2015\], the Special Master shall develop agency policies and procedures that meet the requirements under subclauses (II) and (III) for providing compensation for claims in Group B as described in section 405(a)(3)(C)(iii), including policies and procedures for presumptive award schedules, administrative expenses, and related internal memoranda.
+
+>                          “(II)  __Limitation__  __.—__ 
+
+>                     The policies and procedures developed under subclause (I) shall ensure that total expenditures, including administrative expenses, in providing compensation for claims in Group B, as described in section 405(a)(3)(C)(iii), do not exceed the amount of funds deposited into the Victims Compensation Fund under section 410.
+
+>                          “(III)  __Prioritization__  __.—__ 
+
+>                     The policies and procedures developed under subclause (I) shall prioritize claims for claimants who are determined by the Special Master as suffering from the most debilitating physical conditions to ensure, for purposes of equity, that such claimants are not unduly burdened by such policies or procedures.
+
+>                 “(ii)  __Reassessment__  __.—__ 
+
+>                 Beginning 1 year after the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act \[Dec. 18, 2015\], and each year thereafter until the Victims Compensation Fund is permanently closed under section 410(e), the Special Master shall conduct a reassessment of the agency policies and procedures developed under clause (i) to ensure that such policies and procedures continue to satisfy the requirements under subclauses (II) and (III) of such clause. If the Special Master determines, upon reassessment, that such agency policies or procedures do not achieve the requirements of such subclauses, the Special Master shall take additional actions or make such modifications as necessary to achieve such requirements.
 
 >     “(e) __Attorney Fees.—__ 
 
@@ -2573,9 +2689,15 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 
 >         “(5) other matters determined appropriate by the Attorney General.
 
->     “(b)  __Updated Regulations__  __.—__ 
+>     “(b) __Updated Regulations.—__ 
 
->     Not later than 180 days after the date of the enactment of the James Zadroga 9/11 Health and Compensation Act of 2010 \[Jan. 2, 2011\], the Special Master shall update the regulations promulgated under subsection (a) to the extent necessary to comply with the provisions of title II of such Act \[title II of [Pub. L. 111–347][/us/pl/111/347], amending this note\].
+>         “(1)  __James zadroga 9/11 health and compensation act of 2010__  __.—__ 
+
+>         Not later than 180 days after the date of the enactment of the James Zadroga 9/11 Health and Compensation Act of 2010 \[Jan. 2, 2011\], the Special Master shall update the regulations promulgated under subsection (a) to the extent necessary to comply with the provisions of title II of such Act \[title II of [Pub. L. 111–347][/us/pl/111/347], amending this note\].
+
+>         “(2)  __James zadroga 9/11 victim compensation fund reauthorization act__  __.—__ 
+
+>         Not later than 180 days after the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act \[Dec. 18, 2015\], the Special Master shall update the regulations promulgated under subsection (a), and updated under paragraph (1), to the extent necessary to comply with the amendments made by such Act \[amending [section 905 of Title 2][/us/usc/t2/s905], The Congress, and amending this note and [section 1347 of div. B of Pub. L. 112–10][/us/pl/112/10/s1347], set out as a note above\].
 
 > “SEC. 408. __LIMITATION ON LIABILITY.__ 
 
@@ -2654,6 +2776,66 @@ In subsection (c), before clause (1), the word “Administrator” in section 30
 > “SEC. 409. __RIGHT OF SUBROGATION.__ 
 
 >     “The United States shall have the right of subrogation with respect to any claim paid by the United States under this title, subject to the limitations described in section 408.
+
+> “SEC. 410. __VICTIMS COMPENSATION FUND.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>     There is established in the Treasury of the United States a fund to be known as the ‘Victims Compensation Fund’, consisting of amounts deposited into such fund under subsection (b).
+
+>     “(b)  __Deposits Into Fund__  __.—__ 
+
+>     There shall be deposited into the Victims Compensation Fund each of the following:
+
+>         “(1) Effective on the day after the date on which all claimants who file a claim in Group A, as described in section 405(a)(3)(C)(ii), have received the full compensation due such claimants under this title for such claim, any amounts remaining from the total amount made available under section 406 to compensate claims in Group A as described in section 405(a)(3)(C)(ii).
+
+>         “(2) The amount appropriated under subsection (c).
+
+>     “(c)  __Appropriations__  __.—__ 
+
+>     There is appropriated, out of any money in the Treasury not otherwise appropriated, $4,600,000,000 for fiscal year 2017, to remain available until expended, to provide compensation for claims in Group B as described in section 405(a)(3)(C)(iii).
+
+>     “(d)  __Availability of Funds__  __.—__ 
+
+>     Amounts deposited into the Victims Compensation Fund shall be available, without further appropriation, to the Special Master to provide compensation for claims in Group B as described in section 405(a)(3)(C)(iii).
+
+>     “(e)  __Termination__  __.—__ 
+
+>     Upon completion of all payments under this title, the Victims Compensation Fund shall be permanently closed.
+
+> “SEC. 411. __9-11 RESPONSE AND BIOMETRIC ENTRY-EXIT FEE.__ 
+
+>     “(a)  __Temporary L-__  __1__  __ Visa Fee Increase__  __.—__ 
+
+>     Notwithstanding section 281 of the Immigration and Nationality Act ([8 U.S.C. 1351][/us/usc/t8/s1351]) or any other provision of law, during the period beginning on the date of the enactment of this section \[Dec. 18, 2015\] and ending on September 30, 2025, the combined filing fee and fraud prevention and detection fee required to be submitted with an application for admission as a nonimmigrant under section 101(a)(15)(L) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(L)][/us/usc/t8/s1101/a/15/L]), including an application for an extension of such status, shall be increased by $4,500 for applicants that employ 50 or more employees in the United States if more than 50 percent of the applicant’s employees are nonimmigrants admitted pursuant to subparagraph (H)(i)(b) or (L) of section 101(a)(15) of such Act.
+
+>     “(b)  __Temporary H-__  __1__  __b Visa Fee Increase__  __.—__ 
+
+>     Notwithstanding section 281 of the Immigration and Nationality Act ([8 U.S.C. 1351][/us/usc/t8/s1351]) or any other provision of law, during the period beginning on the date of the enactment of this section \[Dec. 18, 2015\] and ending on September 30, 2025, the combined filing fee and fraud prevention and detection fee required to be submitted with an application for admission as a nonimmigrant under section 101(a)(15)(H)(i)(b) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(H)(i)(b)][/us/usc/t8/s1101/a/15/H/i/b]), including an application for an extension of such status, shall be increased by $4,000 for applicants that employ 50 or more employees in the United States if more than 50 percent of the applicant’s employees are such nonimmigrants or nonimmigrants described in section 101(a)(15)(L) of such Act.
+
+>     “(c) __9-11 Response and Biometric Exit Account.—__ 
+
+>         “(1)  __Establishment__  __.—__ 
+
+>         There is established in the general fund of the Treasury a separate account, which shall be known as the ‘9–11 Response and Biometric Exit Account’.
+
+>         “(2) __Deposits.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             Subject to subparagraph (B), of the amounts collected pursuant to the fee increases authorized under subsections (a) and (b)—
+
+>                 “(i) 50 percent shall be deposited in the general fund of the Treasury; and
+
+>                 “(ii) 50 percent shall be deposited as offsetting receipts into the 9–11 Response and Biometric Exit Account, and shall remain available until expended.
+
+>             “(B)  __Termination of deposits in account__  __.—__ 
+
+>             After a total of $1,000,000,000 is deposited into the 9–11 Response and Biometric Exit Account under subparagraph (A)(ii), all amounts collected pursuant to the fee increases authorized under subsections (a) and (b) shall be deposited in the general fund of the Treasury.
+
+>         “(3)  __Use of funds__  __.—__ 
+
+>         For fiscal year 2017, and each fiscal year thereafter, amounts in the 9–11 Response and Biometric Exit Account shall be available to the Secretary of Homeland Security without further appropriation for implementing the biometric entry and exit data system described in section 7208 of the Intelligence Reform and Terrorism Prevention Act of 2004 ([8 U.S.C. 1365b][/us/usc/t8/s1365b]).
 
 > “TITLE V— __AIR TRANSPORTATION SAFETY__ 
 
@@ -3503,6 +3685,11 @@ Sec. 5. Additional Functions of the Senior Policy Committee. In addition to perf
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
+[/us/pl/114/113/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs401
+[/us/stat/129/3000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3000
+[/us/usc/t42/s10609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10609
+[/us/usc/t2/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs905
+[/us/usc/t2/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs905
 [/us/pl/113/238/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F238%2Fs1
 [/us/stat/128/2842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2842
 [/us/usc/t49/s44946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44946
@@ -3681,6 +3868,8 @@ Sec. 5. Additional Functions of the Senior Policy Committee. In addition to perf
 [/us/usc/t42/s10601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10601
 [/us/pl/112/10/s1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1347
 [/us/stat/125/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F124
+[/us/pl/114/113/s402/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs402%2Fh
+[/us/stat/129/3007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3007
 [/us/pl/107/42/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F42%2Fs404
 [/us/pl/107/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F42
 [/us/stat/115/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F230
@@ -3696,6 +3885,8 @@ Sec. 5. Additional Functions of the Senior Policy Committee. In addition to perf
 [/us/stat/121/1974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1974
 [/us/pl/111/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347
 [/us/stat/124/3659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3659
+[/us/pl/114/113/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs402%2Fa
+[/us/stat/129/3000-3006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3000-3006
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/stat/121/1974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1974
 [/us/usc/t2/s901/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901%2Fe
@@ -3718,9 +3909,24 @@ Sec. 5. Additional Functions of the Senior Policy Committee. In addition to perf
 [/us/usc/t26/s4261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4261
 [/us/usc/t49/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102
 [/us/usc/t42/s300mm]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm
+[/us/usc/t42/s300mm–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%935
+[/us/usc/t42/s300mm–22/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%9322%2Fa
+[/us/usc/t42/s300mm–32/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%9332%2Fb
+[/us/usc/t42/s300mm–22/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%9322%2Fa
+[/us/usc/t42/s300mm–22/b/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%9322%2Fb%2F2%2FB%2Fiii
+[/us/usc/t42/s300mm–32/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%9332%2Fa
+[/us/usc/t42/s300mm–32/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%9332%2Fb%2F2
+[/us/usc/t26/s61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs61
 [/us/pl/111/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347
 [/us/pl/111/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347
+[/us/usc/t2/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs905
+[/us/pl/112/10/s1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1347
 [/us/usc/t49/s40120/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40120%2Fc
+[/us/usc/t8/s1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1351
+[/us/usc/t8/s1101/a/15/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FL
+[/us/usc/t8/s1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1351
+[/us/usc/t8/s1101/a/15/H/i/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FH%2Fi%2Fb
+[/us/usc/t8/s1365b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1365b
 [/us/pl/107/134/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs114%2Fb
 [/us/stat/115/2436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2436
 [/us/pl/107/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F42

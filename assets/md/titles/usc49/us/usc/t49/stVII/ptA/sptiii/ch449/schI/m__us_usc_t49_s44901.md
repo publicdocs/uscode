@@ -561,9 +561,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 315(c); added Aug. 5, 1974, 
 
  __Use of Existing Equipment To Screen Passenger Cargo; Reports__ 
 
-[Pub. L. 109–90, title V, § 525][/us/pl/109/90/s525], Oct. 18, 2005, [119 Stat. 2086][/us/stat/119/2086], provided that: 
+[Pub. L. 109–90, title V, § 525][/us/pl/109/90/s525], Oct. 18, 2005, [119 Stat. 2086][/us/stat/119/2086], as amended by [Pub. L. 114–113, div. F, title V, § 510(c)][/us/pl/114/113/s510/c], Dec. 18, 2015, [129 Stat. 2514][/us/stat/129/2514], provided that: 
 
-> “The Transportation Security Administration (TSA) shall utilize existing checked baggage explosive detection equipment and screeners to screen cargo carried on passenger aircraft to the greatest extent practicable at each airport: Provided, That beginning with November 2005, TSA shall provide a monthly report to the Committees on Appropriations of the Senate and the House of Representatives detailing, by airport, the amount of cargo carried on passenger aircraft that was screened by TSA in August 2005 and each month thereafter.”
+> “The Transportation Security Administration (TSA) shall utilize existing checked baggage explosive detection equipment and screeners to screen cargo carried on passenger aircraft to the greatest extent practicable at each airport: Provided, That beginning with November 2005, TSA shall provide a monthly report to the Committees on Appropriations of the Senate and the House of Representatives detailing, by airport, the amount of cargo carried on passenger aircraft that was screened by TSA in August 2005 and each month.”
 
  __In-Line Checked Baggage Screening__ 
 
@@ -915,6 +915,8 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 315(c); added Aug. 5, 1974, 
 [/us/stat/119/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2086
 [/us/pl/109/90/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F90%2Fs525
 [/us/stat/119/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2086
+[/us/pl/114/113/s510/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs510%2Fc
+[/us/stat/129/2514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2514
 [/us/pl/108/458/s4019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4019%2Fa
 [/us/stat/118/3721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3721
 [/us/usc/t49/s44901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44901
