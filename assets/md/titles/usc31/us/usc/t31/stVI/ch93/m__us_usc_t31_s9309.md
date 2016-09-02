@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t31/stVI/ch93/m__us_usc_t31_s9308.md) | [Next](./../../../../..//us/usc/t31/stVI/ch95/m__us_usc_t31_stVI_ch95.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9309)
+[Previous](./../../../../..//us/usc/t31/stVI/ch93/m__us_usc_t31_s9308.md) | [Next](./../../../../..//us/usc/t31/stVI/ch93/m__us_usc_t31_s9310.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9309)
 
 ## § 9309. Priority of sureties
 
@@ -71,7 +71,7 @@ R.S. § 3468.  </td>
 
 ----------
 
-[Previous](./../../../../..//us/usc/t31/stVI/ch93/m__us_usc_t31_s9308.md) | [Next](./../../../../..//us/usc/t31/stVI/ch95/m__us_usc_t31_stVI_ch95.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9309)
+[Previous](./../../../../..//us/usc/t31/stVI/ch93/m__us_usc_t31_s9308.md) | [Next](./../../../../..//us/usc/t31/stVI/ch93/m__us_usc_t31_s9310.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9309)
 
 ----------
 ----------

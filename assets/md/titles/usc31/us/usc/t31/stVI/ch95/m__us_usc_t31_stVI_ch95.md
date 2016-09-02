@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t31/stVI/ch93/m__us_usc_t31_s9309.md) | [Next](./../../../../..//us/usc/t31/stVI/ch95/m__us_usc_t31_s9501.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2FstVI%2Fch95)
+[Previous](./../../../../..//us/usc/t31/stVI/ch93/m__us_usc_t31_s9310.md) | [Next](./../../../../..//us/usc/t31/stVI/ch95/m__us_usc_t31_s9501.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2FstVI%2Fch95)
 
 ### CHAPTER 95—GOVERNMENT PENSION PLAN PROTECTION
 
@@ -59,7 +59,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t31/stVI/ch93/m__us_usc_t31_s9309.md) | [Next](./../../../../..//us/usc/t31/stVI/ch95/m__us_usc_t31_s9501.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2FstVI%2Fch95)
+[Previous](./../../../../..//us/usc/t31/stVI/ch93/m__us_usc_t31_s9310.md) | [Next](./../../../../..//us/usc/t31/stVI/ch95/m__us_usc_t31_s9501.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2FstVI%2Fch95)
 
 ----------
 ----------

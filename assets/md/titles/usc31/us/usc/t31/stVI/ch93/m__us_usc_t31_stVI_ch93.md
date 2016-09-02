@@ -97,6 +97,14 @@
 
 </table>
 
+ __Amendment of Analysis__ 
+
+    [Pub. L. 114–92, div. A, title VIII, § 874(a)(2)][/us/pl/114/92/s874/a/2], (c), Nov. 25, 2015, [129 Stat. 940][/us/stat/129/940], 941, provided that, effective 1 year after Nov. 25, 2015, this analysis is amended by adding item 9310 “Individual sureties”. See 2015 Amendment note below.
+
+ __Amendments__ 
+
+    2015—[Pub. L. 114–92, div. A, title VIII, § 874(a)(2)][/us/pl/114/92/s874/a/2], Nov. 25, 2015, [129 Stat. 940][/us/stat/129/940], added item 9310.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t31/stVI/ch91/m__us_usc_t31_s9110.md) | [Next](./../../../../..//us/usc/t31/stVI/ch93/m__us_usc_t31_s9301.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2FstVI%2Fch93)
@@ -104,5 +112,9 @@
 ----------
 ----------
 
+[/us/pl/114/92/s874/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs874%2Fa%2F2
+[/us/stat/129/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F940
+[/us/pl/114/92/s874/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs874%2Fa%2F2
+[/us/stat/129/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F940
 
 

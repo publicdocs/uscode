@@ -359,7 +359,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 >     “(5)  __Activities of federal maritime commission__  __.—__ 
 
->     Section 208 of the Merchant Marine Act, 1936 (\[former\] 46 App. U.S.C. 1118) \[see [46 U.S.C. 306(a)][/us/usc/t46/s306/a], 50111(a)\].
+>     Section 208 of the Merchant Marine Act, 1936 (\[former\] 46 App. U.S.C. 1118) \[see [46 U.S.C. 306(a)][/us/usc/t46/s306/a]\].
 
 >     “(6)  __Activities of interagency coordinating committee on oil pollution research__  __.—__ 
 
@@ -895,7 +895,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 >     “(22) [Section 12 of the Act of March 9, 1920][/us/act/1920-03-09/s12] (popularly known as the ‘Suits in Admiralty Act’) (46 App. U.S.C. 752) \[now [46 U.S.C. 30918][/us/usc/t46/s30918]\].
 
->     “(23) Sections 208, 901(b)(2), and 1211 of the Merchant Marine Act, 1936 (\[former\] 46 App. U.S.C. 1118, 1241(b)(2), 1291) \[see [46 U.S.C. 306(a)][/us/usc/t46/s306/a], 50111(a), 55305(d)\].
+>     “(23) Sections 208, 901(b)(2), and 1211 of the Merchant Marine Act, 1936 (\[former\] 46 App. U.S.C. 1118, 1241(b)(2), 1291) \[see [46 U.S.C. 306(a)][/us/usc/t46/s306/a], 55305(d)\].
 
 >     “(24) Sections 11 and 14 of the Strategic and Critical Materials Stock Piling Act ([50 U.S.C. 98h–2][/us/usc/t50/s98h–2], 98h–5).
 
