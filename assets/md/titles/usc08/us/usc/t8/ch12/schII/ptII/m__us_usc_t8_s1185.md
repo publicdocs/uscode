@@ -91,6 +91,16 @@
 
     Authority of President under subsec. (a)(1) of this section to maintain custody and conduct screening of any undocumented person seeking to enter the United States who is encountered in a vessel interdicted on the high seas through Dec. 31, 2000, delegated to Attorney General by Memorandum of President of the United States, Sept. 24, 1999, 64 F.R. 55809, set out as a note under [section 1182 of this title][/us/usc/t8/s1182].
 
+ __Trusted Traveler Programs__ 
+
+[Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(j), Feb. 24, 2016, [130 Stat. 216][/us/stat/130/216], provided that: 
+
+> “The Secretary of Homeland Security may not enter into or renew an agreement with the government of a foreign country for a trusted traveler program administered by U.S. Customs and Border Protection unless the Secretary certifies in writing that such government—
+
+>     “(1) routinely submits to INTERPOL for inclusion in INTERPOL’s Stolen and Lost Travel Documents database information about lost and stolen passports and travel documents of the citizens and nationals of such country; or
+
+>     “(2) makes available to the United States Government the information described in paragraph (1) through another means of reporting.”
+
  __Asia-Pacific Economic Cooperation Business Travel Cards__ 
 
 [Pub. L. 112–54][/us/pl/112/54], Nov. 12, 2011, [125 Stat. 550][/us/stat/125/550], provided that:
@@ -289,6 +299,8 @@ By virtue of the authority vested in me as President by the Constitution and law
 [/us/stat/108/4311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4311
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 [/us/usc/t8/s1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F216
 [/us/pl/112/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F54
 [/us/stat/125/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F550
 [/us/pl/110/53/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtVII

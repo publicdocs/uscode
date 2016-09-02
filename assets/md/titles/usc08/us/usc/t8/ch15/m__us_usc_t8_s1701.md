@@ -67,13 +67,13 @@
 
     (6) __President__ 
 
-        The term “President” means the President of the United States, acting through the Assistant to the President for Homeland Security, in coordination with the Secretary of State, the Commissioner of Immigration and Naturalization, the Attorney General, the Director of Central Intelligence, the Director of the Federal Bureau of Investigation, the Secretary of Transportation, the Commissioner of Customs, and the Secretary of the Treasury.
+        The term “President” means the President of the United States, acting through the Assistant to the President for Homeland Security, in coordination with the Secretary of State, the Commissioner of Immigration and Naturalization, the Attorney General, the Director of Central Intelligence, the Director of the Federal Bureau of Investigation, the Secretary of Transportation, the Commissioner of U.S. Customs and Border Protection, and the Secretary of the Treasury.
 
     (7) __USA PATRIOT Act__ 
 
         The term “USA PATRIOT Act” means the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001 ([Public Law 107–56][/us/pl/107/56]).
 
-([Pub. L. 107–173][/us/pl/107/173], § 2, May 14, 2002, [116 Stat. 544][/us/stat/116/544]; [Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1112(c), Nov. 25, 2002, [116 Stat. 2276][/us/stat/116/2276]; [Pub. L. 108–293, title VI][/us/pl/108/293/tVI], § 619, Aug. 9, 2004, [118 Stat. 1062][/us/stat/118/1062].)
+([Pub. L. 107–173][/us/pl/107/173], § 2, May 14, 2002, [116 Stat. 544][/us/stat/116/544]; [Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1112(c), Nov. 25, 2002, [116 Stat. 2276][/us/stat/116/2276]; [Pub. L. 108–293, title VI][/us/pl/108/293/tVI], § 619, Aug. 9, 2004, [118 Stat. 1062][/us/stat/118/1062]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
  __References in Text__ 
 
@@ -88,6 +88,8 @@
     2002—Par. (4)(J). [Pub. L. 107–296][/us/pl/107/296] substituted “Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice” for “Bureau of Alcohol, Tobacco, and Firearms”.
 
  __Change of Name__ 
+
+    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in par. (6) on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
 
     Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
@@ -196,6 +198,8 @@
 [/us/stat/116/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2276
 [/us/pl/108/293/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtVI
 [/us/stat/118/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1062
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
 [/us/pl/107/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F173
 [/us/stat/116/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F543
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
@@ -206,6 +210,8 @@
 [/us/usc/t18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1
 [/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
