@@ -259,7 +259,7 @@
 
         (4) __Specified plan or arrangement__ 
 
-            For purposes of this subsection, the term “specified plan or arrangement” means any plan, account, or arrangement described in section 220, 223, 401(a), 403(a), 403(b), 408, 408A, 529, or 530 of title 26, or any employee benefit or compensation plan or arrangement, including a plan that is subject to title I of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1001][/us/usc/t29/s1001] et seq.\], or any prepaid tuition program offered by a State.
+            For purposes of this subsection, the term “specified plan or arrangement” means any plan, account, or arrangement described in section 220, 223, 401(a), 403(a), 403(b), 408, 408A, 529, 529A, or 530 of title 26, or any employee benefit or compensation plan or arrangement, including a plan that is subject to title I of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1001][/us/usc/t29/s1001] et seq.\], or any prepaid tuition program offered by a State.
 
     (h) __Persons regulated by a State securities commission__ 
 
@@ -343,7 +343,7 @@
 
         No provision of this title 1 shall be construed as affecting any authority arising under the Fair Housing Act \[[42 U.S.C. 3601][/us/usc/t42/s3601] et seq.\].
 
-([Pub. L. 111–203, title X, § 1027][/us/pl/111/203/s1027], July 21, 2010, [124 Stat. 1995][/us/stat/124/1995].)
+([Pub. L. 111–203, title X, § 1027][/us/pl/111/203/s1027], July 21, 2010, [124 Stat. 1995][/us/stat/124/1995]; [Pub. L. 113–295, div. B, title I, § 102(e)(7)][/us/pl/113/295/s102/e/7], Dec. 19, 2014, [128 Stat. 4062][/us/stat/128/4062].)
 
  __References in Text__ 
 
@@ -364,6 +364,14 @@
     The Federal Credit Union Act, referred to in subsec. (r), is [act June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], [48 Stat. 1216][/us/stat/48/1216], which is classified principally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see [section 1751 of this title][/us/usc/t12/s1751] and Tables.
 
     The Fair Housing Act, referred to in subsec. (s), is title VIII of [Pub. L. 90–284][/us/pl/90/284], Apr. 11, 1968, [82 Stat. 81][/us/stat/82/81], which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of Title 42][/us/usc/t42/s3601] and Tables.
+
+ __Amendments__ 
+
+    2014—Subsec. (g)(4). [Pub. L. 113–295][/us/pl/113/295] inserted “, 529A” after “529”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] applicable to taxable years beginning after Dec. 31, 2014, see [section 102(f)(1) of Pub. L. 113–295][/us/pl/113/295/s102/f/1], set out as a note under [section 552a of Title 5][/us/usc/t5/s552a], Government Organization and Employees.
 
  __Effective Date__ 
 
@@ -392,6 +400,8 @@
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
 [/us/pl/111/203/s1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1027
 [/us/stat/124/1995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1995
+[/us/pl/113/295/s102/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs102%2Fe%2F7
+[/us/stat/128/4062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4062
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
@@ -417,6 +427,10 @@
 [/us/pl/90/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284
 [/us/stat/82/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F81
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s102/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs102%2Ff%2F1
+[/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/pl/111/203/s1029A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1029A
 [/us/usc/t12/s5511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5511
 
