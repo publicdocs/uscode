@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    Subject to subsection (b) of this section, not later than 90 days after the President decides to take action under [section 6441 of this title][/us/usc/t22/s6441] in response to violations of religious freedom and the President decides to take action under paragraphs (9) through (15) of [section 6445(a) of this title][/us/usc/t22/s6445/a] (or commensurate action in substitution thereto) with respect to that country, or not later than 90 days after the President designates a country as a country of particular concern for religious freedom under [section 6442 of this title][/us/usc/t22/s6442], as the case may be, the President shall submit a report to Congress containing the following:
+    Subject to subsection (b), not later than 90 days after the President decides to take action under [section 6441 of this title][/us/usc/t22/s6441] in response to violations of religious freedom and the President decides to take action under paragraphs (9) through (15) of [section 6445(a) of this title][/us/usc/t22/s6445/a] (or commensurate action in substitution thereto) with respect to that country, or not later than 90 days after the President designates a country as a country of particular concern for religious freedom under [section 6442 of this title][/us/usc/t22/s6442], as the case may be, the President shall submit a report to Congress containing the following:
 
         (1) __Identification of Presidential actions__ 
 
@@ -57,7 +57,7 @@
 
     (b) __Delay in transmittal of report__ 
 
-        If, on or before the date that the President is required (but for this subsection) to submit a report under subsection (a) of this section to Congress, the President determines and certifies to Congress that a single, additional period of time not to exceed 90 days is necessary pursuant to section 6441(b)(3) or 6442(c)(3) of this title, then the President shall not be required to submit the report to Congress until the expiration of that period of time.
+        If, on or before the date that the President is required (but for this subsection) to submit a report under subsection (a) to Congress, the President determines and certifies to Congress that a single, additional period of time not to exceed 90 days is necessary pursuant to section 6441(b)(3) or 6442(c)(3) of this title, then the President shall not be required to submit the report to Congress until the expiration of that period of time.
 
 ([Pub. L. 105–292, title IV, § 404][/us/pl/105/292/s404], Oct. 27, 1998, [112 Stat. 2805][/us/stat/112/2805].)
 

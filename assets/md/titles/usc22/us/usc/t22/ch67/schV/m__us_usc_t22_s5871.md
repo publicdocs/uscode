@@ -17,11 +17,11 @@
 
     (a) __Expedited review__ 
 
-        Any request for a license or other approval described in subsection (c) of this section that is submitted to any United States Government agency by the National Aeronautics and Space Administration, any of its contractors, or any other person shall be considered on an expedited basis by that agency and any other agency involved in an applicable interagency review process.
+        Any request for a license or other approval described in subsection (c) that is submitted to any United States Government agency by the National Aeronautics and Space Administration, any of its contractors, or any other person shall be considered on an expedited basis by that agency and any other agency involved in an applicable interagency review process.
 
     (b) __Notice to Congress if license denied__ 
 
-        If any United States Government agency denies a request for a license or other approval described in subsection (c) of this section, that agency shall immediately notify the designated congressional committees. Each such notification shall include a statement of the reasons for the denial.
+        If any United States Government agency denies a request for a license or other approval described in subsection (c), that agency shall immediately notify the designated congressional committees. Each such notification shall include a statement of the reasons for the denial.
 
     (c) __Description of discussions__ 
 

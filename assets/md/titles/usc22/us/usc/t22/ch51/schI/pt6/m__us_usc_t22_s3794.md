@@ -33,9 +33,9 @@
 
         After consideration of the relevant matter presented, the Commission may revise the proposed rules of measurement or rates of tolls, as the case may be, except that, in the case of rates of tolls, if such revision proposes rates greater than those originally proposed, a new analysis of the proposed rates shall be made available to the public, and a new notice of the revised proposal shall be published in the Federal Register apprising interested persons of the opportunity to participate further in the proceedings through submission of written data, views, or arguments, and participation in a public hearing to be held not less than 30 days after the date of publication of the new notice. The procedure set forth in this subsection shall be followed for any subsequent revision of the proposed rates of tolls by the Commission which proposes rates higher than those in the preceding proposal.
 
-    (c) __Publication of notice of changes in rules of meas­urement and rates of tolls in Federal Register__ 
+    (c) __Publication of notice of changes in rules of measurement and rates of tolls in Federal Register__ 
 
-        After the proceedings have been conducted pursuant to subsections (a) and (b) of this section, the Commission may change the rules of measurement or rates of tolls, as the case may be. The Commission shall publish notice of any such change in the Federal Register not less than 30 days before the effective date of the change.
+        After the proceedings have been conducted pursuant to subsections (a) and (b), the Commission may change the rules of measurement or rates of tolls, as the case may be. The Commission shall publish notice of any such change in the Federal Register not less than 30 days before the effective date of the change.
 
     (d) __Judicial review__ 
 

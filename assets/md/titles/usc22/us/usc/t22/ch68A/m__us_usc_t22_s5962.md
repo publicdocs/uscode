@@ -27,7 +27,7 @@
 
     (b) __Applicability__ 
 
-    Subsection (a) of this section shall apply to—
+    Subsection (a) shall apply to—
 
         (1) any facility the construction of which commences on or after November 24, 2003; and
 

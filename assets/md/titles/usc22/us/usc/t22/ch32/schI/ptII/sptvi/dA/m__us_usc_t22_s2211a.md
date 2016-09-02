@@ -65,7 +65,7 @@
 
     (c) __Targeted assistance__ 
 
-    In carrying out sustainable poverty-focused programs under subsection (a) of this section, 50 percent of all microenterprise resources shall be targeted to clients who are very poor. Specifically, until September 30, 2006, such resources shall be used for—
+    In carrying out sustainable poverty-focused programs under subsection (a), 50 percent of all microenterprise resources shall be targeted to clients who are very poor. Specifically, until September 30, 2006, such resources shall be used for—
 
         (1)
 

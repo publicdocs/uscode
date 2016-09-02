@@ -39,17 +39,17 @@
 
     (b) __Funding priorities__ 
 
-        Priority in carrying out this section shall be given to the activities described in paragraphs (1) through (5) of subsection (a) of this section.
+        Priority in carrying out this section shall be given to the activities described in paragraphs (1) through (5) of subsection (a).
 
     (c) __Use of defense funds__ 
 
         (1) __Authorization__ 
 
-            In recognition of the direct contributions to the national security interests of the United States of the programs and activities authorized by subsection (a) of this section, the President is authorized to make available for use in carrying out those programs and activities, in addition to amounts otherwise available for such purposes, funds made available pursuant to sections 108 and 109 of [Public Law 102–229][/us/pl/102/229] or under the amendments made by section 506(a) of this Act.
+            In recognition of the direct contributions to the national security interests of the United States of the programs and activities authorized by subsection (a), the President is authorized to make available for use in carrying out those programs and activities, in addition to amounts otherwise available for such purposes, funds made available pursuant to sections 108 and 109 of [Public Law 102–229][/us/pl/102/229] or under the amendments made by section 506(a) of this Act.
 
         (2) __Limitation__ 
 
-            Funds described in paragraph (1) may not be obligated for programs and activities under subsection (a) of this section unless the Director of the Office of Management and Budget has determined that expenditures during fiscal year 1993 pursuant to such obligation shall be counted against the defense category of the discretionary spending limits for that fiscal year (as defined in section 665(a)(2)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 2) for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985 \[[2 U.S.C. 900][/us/usc/t2/s900] et seq.\].
+            Funds described in paragraph (1) may not be obligated for programs and activities under subsection (a) unless the Director of the Office of Management and Budget has determined that expenditures during fiscal year 1993 pursuant to such obligation shall be counted against the defense category of the discretionary spending limits for that fiscal year (as defined in section 665(a)(2)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 2) for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985 \[[2 U.S.C. 900][/us/usc/t2/s900] et seq.\].
 
 ([Pub. L. 102–511, title V, § 503][/us/pl/102/511/s503], Oct. 24, 1992, [106 Stat. 3338][/us/stat/106/3338].)
 

@@ -25,7 +25,7 @@
 
     (c) __Deposits in United States Treasury of funds from disposal of materials__ 
 
-        Funds received from any disposal of materials under subsection (b) of this section shall be deposited as miscellaneous receipts in the United States Treasury.
+        Funds received from any disposal of materials under subsection (b) shall be deposited as miscellaneous receipts in the United States Treasury.
 
 ([Pub. L. 87–195][/us/pl/87/195], pt. III, § 663, as added [Pub. L. 93–559, § 32][/us/pl/93/559/s32], Dec. 30, 1974, [88 Stat. 1805][/us/stat/88/1805].)
 

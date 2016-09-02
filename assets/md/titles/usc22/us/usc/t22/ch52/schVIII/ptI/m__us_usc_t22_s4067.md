@@ -23,7 +23,7 @@
 
         (2) affects treatment which, immediately prior to the enactment of such law, was substantially identical to the treatment accorded to participants, former participants, annuitants, or survivors under the Foreign Service Retirement and Disability System;
 
-        such law shall be extended in accordance with subsection (b) of this section to the Foreign Service Retirement and Disability System so that it applies in like manner with respect to participants, former participants, annuitants, or survivors under that System.
+        such law shall be extended in accordance with subsection (b) to the Foreign Service Retirement and Disability System so that it applies in like manner with respect to participants, former participants, annuitants, or survivors under that System.
 
     (b) __Regulations to implement prescribed by Executive order__ 
 
@@ -35,7 +35,7 @@
 
     (c) __Federal Employees’ Retirement and Foreign Service Pension Systems__ 
 
-        The President shall maintain, under the same conditions and in the same manner as provided in subsections (a) and (b) of this section existing conformity between the Federal Employees’ Retirement System provided in chapter 84 of title 5 and the Foreign Service Pension System provided in part II of this subchapter.
+        The President shall maintain, under the same conditions and in the same manner as provided in subsections (a) and (b) existing conformity between the Federal Employees’ Retirement System provided in chapter 84 of title 5 and the Foreign Service Pension System provided in part II of this subchapter.
 
 ([Pub. L. 96–465, title I, § 827][/us/pl/96/465/s827], Oct. 17, 1980, [94 Stat. 2124][/us/stat/94/2124]; [Pub. L. 99–335, title IV, § 411][/us/pl/99/335/s411], June 6, 1986, [100 Stat. 614][/us/stat/100/614].)
 

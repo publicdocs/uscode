@@ -31,7 +31,7 @@
 
         (2)
 
-         subject to subsection (c) of this section, promptly make such information available to—
+         subject to subsection (c), promptly make such information available to—
 
             (A) the victims of such crimes; or
 
@@ -39,7 +39,7 @@
 
     (c) __Limitations__ 
 
-        The Secretary shall work with the heads of appropriate departments and agencies of the United States Government in order to ensure that information relevant to a crime covered by subsection (b) of this section is promptly reviewed and, to the maximum extent practicable, without jeopardizing sensitive sources and methods or other vital national security interests, or without jeopardizing an on-going criminal investigation or proceeding, made available under that subsection unless such disclosure is specifically prohibited by law.
+        The Secretary shall work with the heads of appropriate departments and agencies of the United States Government in order to ensure that information relevant to a crime covered by subsection (b) is promptly reviewed and, to the maximum extent practicable, without jeopardizing sensitive sources and methods or other vital national security interests, or without jeopardizing an on-going criminal investigation or proceeding, made available under that subsection unless such disclosure is specifically prohibited by law.
 
 ([Pub. L. 105–107, title III, § 307][/us/pl/105/107/s307], Nov. 20, 1997, [111 Stat. 2252][/us/stat/111/2252].)
 

@@ -43,15 +43,15 @@
 
     (d) __Procedures__ 
 
-        The Board shall prescribe such procedures as may be necessary for the expeditious decision of appeals and protests under subsections (b) and (c) of this section.
+        The Board shall prescribe such procedures as may be necessary for the expeditious decision of appeals and protests under subsections (b) and (c).
 
     (e) __Commencement__ 
 
-        The Board shall begin to function as soon as it has been established and has prescribed procedures under subsection (d) of this section.
+        The Board shall begin to function as soon as it has been established and has prescribed procedures under subsection (d).
 
     (f) __Transition__ 
 
-        The Board shall have jurisdiction under subsections (b) and (c) of this section over any appeals and protests filed on or after the date on which the Board begins to function. Any appeals and protests filed before such date shall remain before the forum in which they were filed.
+        The Board shall have jurisdiction under subsections (b) and (c) over any appeals and protests filed on or after the date on which the Board begins to function. Any appeals and protests filed before such date shall remain before the forum in which they were filed.
 
     (g) __Other functions__ 
 

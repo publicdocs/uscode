@@ -23,15 +23,15 @@
 
         (1) __Suspension__ 
 
-            The President is authorized to suspend the prohibition contained in subsection (a) of this section upon a determination made under [section 6063(c)(1) of this title][/us/usc/t22/s6063/c/1] that a transition government in Cuba is in power.
+            The President is authorized to suspend the prohibition contained in subsection (a) upon a determination made under [section 6063(c)(1) of this title][/us/usc/t22/s6063/c/1] that a transition government in Cuba is in power.
 
         (2) __Termination__ 
 
-            The prohibition contained in subsection (a) of this section shall cease to apply on the date on which the economic embargo of Cuba terminates as provided in [section 6064 of this title][/us/usc/t22/s6064].
+            The prohibition contained in subsection (a) shall cease to apply on the date on which the economic embargo of Cuba terminates as provided in [section 6064 of this title][/us/usc/t22/s6064].
 
     (c) __Penalties__ 
 
-        Violations of subsection (a) of this section shall be punishable by such civil penalties as are applicable to violations of the Cuban Assets Control Regulations set forth in part 515 of title 31, Code of Federal Regulations.
+        Violations of subsection (a) shall be punishable by such civil penalties as are applicable to violations of the Cuban Assets Control Regulations set forth in part 515 of title 31, Code of Federal Regulations.
 
     (d) __Definitions__ 
 

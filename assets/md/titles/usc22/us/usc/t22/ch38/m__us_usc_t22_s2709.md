@@ -47,11 +47,11 @@
 
         (1) __Agreement with Attorney General__ 
 
-            The authority conferred by paragraphs (1) and (4) of subsection (a) of this section shall be exercised subject to an agreement between the Secretary and the Attorney General.
+            The authority conferred by paragraphs (1) and (4) of subsection (a) shall be exercised subject to an agreement between the Secretary and the Attorney General.
 
         (2) __Agreement with Attorney General and Secretary of the Treasury__ 
 
-            The authority conferred by paragraphs (2) and (5) of subsection (a) of this section shall be exercised subject to an agreement among the Secretary, the Attorney General, and the Secretary of the Treasury.
+            The authority conferred by paragraphs (2) and (5) of subsection (a) shall be exercised subject to an agreement among the Secretary, the Attorney General, and the Secretary of the Treasury.
 
         (3) __Firearms regulations__ 
 
@@ -59,7 +59,7 @@
 
     (c) __Secret Service not affected__ 
 
-        Nothing in subsection (a)(3) of this section shall be construed to preclude or limit in any way the authority of the United States Secret Service to provide protective services pursuant to section 3056 or 3056A of title 18 at a level commensurate with protective requirements as determined by the United States Secret Service. The Secretary of State, the Attorney General, and the Secretary of the Treasury shall enter into an interagency agreement with respect to their law enforcement functions.
+        Nothing in subsection (a)(3) shall be construed to preclude or limit in any way the authority of the United States Secret Service to provide protective services pursuant to section 3056 or 3056A of title 18 at a level commensurate with protective requirements as determined by the United States Secret Service. The Secretary of State, the Attorney General, and the Secretary of the Treasury shall enter into an interagency agreement with respect to their law enforcement functions.
 
 ([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 37, as added [Pub. L. 99–93, title I, § 125(a)][/us/pl/99/93/s125/a], Aug. 16, 1985, [99 Stat. 415][/us/stat/99/415]; amended [Pub. L. 101–246, title I, § 113][/us/pl/101/246/s113], Feb. 16, 1990, [104 Stat. 22][/us/stat/104/22]; [Pub. L. 103–236, title I, § 139(1)][/us/pl/103/236/s139/1], Apr. 30, 1994, [108 Stat. 397][/us/stat/108/397]; [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title IV, § 406, formerly § 407\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–97, renumbered [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. A, § 213(a)(5)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–180; [Pub. L. 107–228, div. A, title II, § 202(a)][/us/pl/107/228/s202/a], (b), Sept. 30, 2002, [116 Stat. 1362][/us/stat/116/1362]; [Pub. L. 109–177, title VI, § 605(e)(2)(A)][/us/pl/109/177/s605/e/2/A], Mar. 9, 2006, [120 Stat. 255][/us/stat/120/255].)
 

@@ -17,7 +17,7 @@
 
     (a) __Prohibited uses of funds__ 
 
-    Except as provided under subsection (d) of this section or in accordance with the procedures under subsections (b) and (c) of this section—
+    Except as provided under subsection (d) or in accordance with the procedures under subsections (b) and (c) of this section—
 
         (1) no funds authorized to be appropriated to the Department of State shall be available to pay any expense related to the closing of any United States consular or diplomatic post abroad; and
 

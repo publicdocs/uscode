@@ -21,7 +21,7 @@
 
     (b) __Transmittal of certification__ 
 
-        The certification required by subsection (a) of this section, and the bases for that certification, shall be submitted by the Secretary of the Treasury to Congress.
+        The certification required by subsection (a), and the bases for that certification, shall be submitted by the Secretary of the Treasury to Congress.
 
 ([Pub. L. 106–264, title I, § 142][/us/pl/106/264/s142], Aug. 19, 2000, [114 Stat. 758][/us/stat/114/758].)
 

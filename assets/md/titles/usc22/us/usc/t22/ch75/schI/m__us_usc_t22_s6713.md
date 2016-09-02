@@ -55,7 +55,7 @@
 
     (c) __Waiver of sovereign immunity of United States__ 
 
-        In any action under subsection (a) or (b) of this section, the United States may not raise sovereign immunity as a defense.
+        In any action under subsection (a) or (b), the United States may not raise sovereign immunity as a defense.
 
     (d) __Authority for cause of action__ 
 

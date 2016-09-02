@@ -21,7 +21,7 @@
 
     (b) __Consistency with United Nations principles__ 
 
-        The code of conduct referred to in subsection (a) of this section shall, to the maximum extent practicable, be consistent with the six core principles of the United Nations Inter-Agency Standing Committee Task Force on Protection From Sexual Exploitation and Abuse in Humanitarian Crises.
+        The code of conduct referred to in subsection (a) shall, to the maximum extent practicable, be consistent with the six core principles of the United Nations Inter-Agency Standing Committee Task Force on Protection From Sexual Exploitation and Abuse in Humanitarian Crises.
 
     (c) __Reports__ 
 

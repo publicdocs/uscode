@@ -21,15 +21,15 @@
 
     (b) __Factor for consideration__ 
 
-        In making a determination under subsection (a) of this section with respect to the application of a law of the United States, or any provision thereof, to Hong Kong, the President should consider the terms, obligations, and expectations expressed in the Joint Declaration with respect to Hong Kong.
+        In making a determination under subsection (a) with respect to the application of a law of the United States, or any provision thereof, to Hong Kong, the President should consider the terms, obligations, and expectations expressed in the Joint Declaration with respect to Hong Kong.
 
     (c) __Publication in Federal Register__ 
 
-        Any Executive order issued under subsection (a) of this section shall be published in the Federal Register and shall specify the law or provision of law affected by the order.
+        Any Executive order issued under subsection (a) shall be published in the Federal Register and shall specify the law or provision of law affected by the order.
 
     (d) __Termination of suspension__ 
 
-        An Executive order issued under subsection (a) of this section may be terminated by the President with respect to a particular law or provision of law whenever the President determines that Hong Kong has regained sufficient autonomy to justify different treatment under the law or provision of law in question. Notice of any such termination shall be published in the Federal Register.
+        An Executive order issued under subsection (a) may be terminated by the President with respect to a particular law or provision of law whenever the President determines that Hong Kong has regained sufficient autonomy to justify different treatment under the law or provision of law in question. Notice of any such termination shall be published in the Federal Register.
 
 ([Pub. L. 102–383, title II, § 202][/us/pl/102/383/s202], Oct. 5, 1992, [106 Stat. 1453][/us/stat/106/1453].)
 

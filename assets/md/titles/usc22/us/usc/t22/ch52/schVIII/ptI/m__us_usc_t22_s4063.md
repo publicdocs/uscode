@@ -27,7 +27,7 @@
 
     If an annuitant becomes subject to part II of this subchapter by reason of recall service—
 
-        (1) subsections (a) and (b) of this section shall not apply to such annuitant; and
+        (1) subsections (a) and (b) shall not apply to such annuitant; and
 
         (2) [section 4064 of this title][/us/usc/t22/s4064] shall apply to the recall service as if such service were reemployment.
 

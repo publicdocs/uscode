@@ -21,21 +21,21 @@
 
         (1)
 
-         Exporting or otherwise providing (by sale, lease or loan, grant, or other means), directly or indirectly, any munitions item to a country described in subsection (d) of this section under the authority of this chapter, the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\], or any other law (except as provided in subsection (h) of this section). In implementing this paragraph, the United States Government—
+         Exporting or otherwise providing (by sale, lease or loan, grant, or other means), directly or indirectly, any munitions item to a country described in subsection (d) under the authority of this chapter, the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\], or any other law (except as provided in subsection (h)). In implementing this paragraph, the United States Government—
 
-            (A) shall suspend delivery to such country of any such item pursuant to any such transaction which has not been completed at the time the Secretary of State makes the determination described in subsection (d) of this section, and
+            (A) shall suspend delivery to such country of any such item pursuant to any such transaction which has not been completed at the time the Secretary of State makes the determination described in subsection (d), and
 
             (B) shall terminate any lease or loan to such country of any such item which is in effect at the time the Secretary of State makes that determination.
 
-        (2) Providing credits, guarantees, or other financial assistance under the authority of this chapter, the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\], or any other law (except as provided in subsection (h) of this section), with respect to the acquisition of any munitions item by a country described in subsection (d) of this section. In implementing this paragraph, the United States Government shall suspend expenditures pursuant to any such assistance obligated before the Secretary of State makes the determination described in subsection (d) of this section. The President may authorize expenditures otherwise required to be suspended pursuant to the preceding sentence if the President has determined, and reported to the Congress, that suspension of those expenditures causes undue financial hardship to a supplier, shipper, or similar person and allowing the expenditure will not result in any munitions item being made available for use by such country.
+        (2) Providing credits, guarantees, or other financial assistance under the authority of this chapter, the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\], or any other law (except as provided in subsection (h)), with respect to the acquisition of any munitions item by a country described in subsection (d). In implementing this paragraph, the United States Government shall suspend expenditures pursuant to any such assistance obligated before the Secretary of State makes the determination described in subsection (d). The President may authorize expenditures otherwise required to be suspended pursuant to the preceding sentence if the President has determined, and reported to the Congress, that suspension of those expenditures causes undue financial hardship to a supplier, shipper, or similar person and allowing the expenditure will not result in any munitions item being made available for use by such country.
 
-        (3) Consenting under [section 2753(a) of this title][/us/usc/t22/s2753/a], under section 505(a) of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2314(a)][/us/usc/t22/s2314/a]\], under the regulations issued to carry out [section 2778 of this title][/us/usc/t22/s2778], or under any other law (except as provided in subsection (h) of this section), to any transfer of any munitions item to a country described in subsection (d) of this section. In implementing this paragraph, the United States Government shall withdraw any such consent which is in effect at the time the Secretary of State makes the determination described in subsection (d) of this section, except that this sentence does not apply with respect to any item that has already been transferred to such country.
+        (3) Consenting under [section 2753(a) of this title][/us/usc/t22/s2753/a], under section 505(a) of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2314(a)][/us/usc/t22/s2314/a]\], under the regulations issued to carry out [section 2778 of this title][/us/usc/t22/s2778], or under any other law (except as provided in subsection (h)), to any transfer of any munitions item to a country described in subsection (d). In implementing this paragraph, the United States Government shall withdraw any such consent which is in effect at the time the Secretary of State makes the determination described in subsection (d), except that this sentence does not apply with respect to any item that has already been transferred to such country.
 
-        (4) Providing any license or other approval under [section 2778 of this title][/us/usc/t22/s2778] for any export or other transfer (including by means of a technical assistance agreement, manufacturing licensing agreement, or coproduction agreement) of any munitions item to a country described in subsection (d) of this section. In implementing this paragraph, the United States Government shall suspend any such license or other approval which is in effect at the time the Secretary of State makes the determination described in subsection (d) of this section, except that this sentence does not apply with respect to any item that has already been exported or otherwise transferred to such country.
+        (4) Providing any license or other approval under [section 2778 of this title][/us/usc/t22/s2778] for any export or other transfer (including by means of a technical assistance agreement, manufacturing licensing agreement, or coproduction agreement) of any munitions item to a country described in subsection (d). In implementing this paragraph, the United States Government shall suspend any such license or other approval which is in effect at the time the Secretary of State makes the determination described in subsection (d), except that this sentence does not apply with respect to any item that has already been exported or otherwise transferred to such country.
 
         (5)
 
-         Otherwise facilitating the acquisition of any munitions item by a country described in subsection (d) of this section. This paragraph applies with respect to activities undertaken—
+         Otherwise facilitating the acquisition of any munitions item by a country described in subsection (d). This paragraph applies with respect to activities undertaken—
 
             (A) by any department, agency, or other instrumentality of the Government,
 
@@ -51,13 +51,13 @@
 
         A United States person may not take any of the following actions:
 
-            (A) Exporting any munitions item to any country described in subsection (d) of this section.
+            (A) Exporting any munitions item to any country described in subsection (d).
 
-            (B) Selling, leasing, loaning, granting, or otherwise providing any munitions item to any country described in subsection (d) of this section.
+            (B) Selling, leasing, loaning, granting, or otherwise providing any munitions item to any country described in subsection (d).
 
-            (C) Selling, leasing, loaning, granting, or otherwise providing any munitions item to any recipient which is not the government of or a person in a country described in subsection (d) of this section if the United States person has reason to know that the munitions item will be made available to any country described in subsection (d) of this section.
+            (C) Selling, leasing, loaning, granting, or otherwise providing any munitions item to any recipient which is not the government of or a person in a country described in subsection (d) if the United States person has reason to know that the munitions item will be made available to any country described in subsection (d).
 
-            (D) Taking any other action which would facilitate the acquisition, directly or indirectly, of any munitions item by the government of any country described in subsection (d) of this section, or any person acting on behalf of that government, if the United States person has reason to know that that action will facilitate the acquisition of that item by such a government or person.
+            (D) Taking any other action which would facilitate the acquisition, directly or indirectly, of any munitions item by the government of any country described in subsection (d), or any person acting on behalf of that government, if the United States person has reason to know that that action will facilitate the acquisition of that item by such a government or person.
 
         (2) __Liability for actions of foreign subsidiaries, etc.__ 
 
@@ -65,15 +65,15 @@
 
         (3) __Applicability to actions outside the United States__ 
 
-            Paragraph (1) applies with respect to actions described in that paragraph which are taken either within or outside the United States by a United States person described in subsection (l)(3)(A) or (B) of this section. To the extent provided in regulations issued under subsection (l)(3)(D) of this section, paragraph (1) applies with respect to actions described in that paragraph which are taken outside the United States by a person designated as a United States person in those regulations.
+            Paragraph (1) applies with respect to actions described in that paragraph which are taken either within or outside the United States by a United States person described in subsection (l)(3)(A) or (B). To the extent provided in regulations issued under subsection (l)(3)(D), paragraph (1) applies with respect to actions described in that paragraph which are taken outside the United States by a person designated as a United States person in those regulations.
 
     (c) __Transfers to governments and persons covered__ 
 
     This section applies with respect to—
 
-        (1) the acquisition of munitions items by the government of a country described in subsection (d) of this section; and
+        (1) the acquisition of munitions items by the government of a country described in subsection (d); and
 
-        (2) the acquisition of munitions items by any individual, group, or other person within a country described in subsection (d) of this section, except to the extent that subparagraph (D) of subsection (b)(1) of this section provides otherwise.
+        (2) the acquisition of munitions items by any individual, group, or other person within a country described in subsection (d), except to the extent that subparagraph (D) of subsection (b)(1) provides otherwise.
 
     (d) __Countries covered by prohibition__ 
 
@@ -81,13 +81,13 @@
 
     (e) __Publication of determinations__ 
 
-        Each determination of the Secretary of State under subsection (d) of this section shall be published in the Federal Register.
+        Each determination of the Secretary of State under subsection (d) shall be published in the Federal Register.
 
     (f) __Rescission__ 
 
         (1)
 
-         A determination made by the Secretary of State under subsection (d) of this section may not be rescinded unless the President submits to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate—
+         A determination made by the Secretary of State under subsection (d) may not be rescinded unless the President submits to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate—
 
             (A)
 
@@ -109,7 +109,7 @@
 
         (2)
 
-            (A) No rescission under paragraph (1)(B) of a determination under subsection (d) of this section may be made if the Congress, within 45 days after receipt of a report under paragraph (1)(B), enacts a joint resolution the matter after the resolving clause of which is as follows: “That the proposed rescission of the determination under section 40(d) of the Arms Export Control Act pursuant to the report submitted to the Congress on \_\_\_\_\_\_\_\_\_ is hereby prohibited.”, the blank to be completed with the appropriate date.
+            (A) No rescission under paragraph (1)(B) of a determination under subsection (d) may be made if the Congress, within 45 days after receipt of a report under paragraph (1)(B), enacts a joint resolution the matter after the resolving clause of which is as follows: “That the proposed rescission of the determination under section 40(d) of the Arms Export Control Act pursuant to the report submitted to the Congress on \_\_\_\_\_\_\_\_\_ is hereby prohibited.”, the blank to be completed with the appropriate date.
 
             (B) A joint resolution described in subparagraph (A) and introduced within the appropriate 45-day period shall be considered in the Senate and the House of Representatives in accordance with paragraphs (3) through (7) of section 8066(c) of the Department of Defense Appropriations Act (as contained in [Public Law 98–473][/us/pl/98/473]), except that references in such paragraphs to the Committees on Appropriations of the House of Representatives and the Senate shall be deemed to be references to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, respectively.
 

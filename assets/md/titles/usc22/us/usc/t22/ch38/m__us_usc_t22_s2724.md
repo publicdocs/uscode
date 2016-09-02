@@ -23,7 +23,7 @@
 
     (b) __Use of fees__ 
 
-        Funds collected under the authority of subsection (a) of this section shall be deposited as an offsetting collection to any Department of State appropriation to recover the costs of providing commercial services. Funds deposited under this subsection shall remain available for obligation through September 30 of the fiscal year following the fiscal year in which the funds were deposited.
+        Funds collected under the authority of subsection (a) shall be deposited as an offsetting collection to any Department of State appropriation to recover the costs of providing commercial services. Funds deposited under this subsection shall remain available for obligation through September 30 of the fiscal year following the fiscal year in which the funds were deposited.
 
 ([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 52, as added [Pub. L. 103–236, title I, § 136][/us/pl/103/236/s136], Apr. 30, 1994, [108 Stat. 396][/us/stat/108/396]; amended [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXII, § 2204, Oct. 21, 1998, [112 Stat. 2681–808][/us/stat/112/2681-808].)
 

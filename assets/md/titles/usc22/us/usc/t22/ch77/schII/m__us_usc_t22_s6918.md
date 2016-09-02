@@ -27,7 +27,7 @@
 
         (2) the Chairman and Cochairman shall each have the authority to appoint, with the approval of the personnel and administration committee, at least four professional staff members who shall be responsible to the Chairman or the Cochairman (as the case may be) who appointed them.
 
-        Subject to subsection (d) of this section, the personnel and administration committee may appoint and fix the pay of such other personnel as it considers desirable.
+        Subject to subsection (d), the personnel and administration committee may appoint and fix the pay of such other personnel as it considers desirable.
 
     (c) __Staff appointments__ 
 

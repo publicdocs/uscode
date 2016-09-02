@@ -25,7 +25,7 @@
 
     (b) __Construction__ 
 
-        Nothing in subsection (a) of this section may be construed to prohibit actions carried out for purposes not prohibited by this chapter (as defined in [section 6701(8) of this title][/us/usc/t22/s6701/8]).
+        Nothing in subsection (a) may be construed to prohibit actions carried out for purposes not prohibited by this chapter (as defined in [section 6701(8) of this title][/us/usc/t22/s6701/8]).
 
     (c) __“Biological agent” defined__ 
 

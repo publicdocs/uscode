@@ -35,11 +35,11 @@
 
     (b) __Final 15 days in which funds available__ 
 
-        Funds appropriated for the Department of State may not be available for obligation or expenditure through any reprogramming described in subsection (a) of this section during the period which is the last 15 days in which such funds are available unless notice of such reprogramming is made before such period.
+        Funds appropriated for the Department of State may not be available for obligation or expenditure through any reprogramming described in subsection (a) during the period which is the last 15 days in which such funds are available unless notice of such reprogramming is made before such period.
 
     (c) __Waiver__ 
 
-        The Secretary of State may waive the notification requirement of subsection (a) of this section, if the Secretary determines that failure to do so would pose a substantial risk to human health or welfare. In the case of any waiver under this subsection, notification to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations and the Committee on Appropriations of the House of Representatives shall be provided as soon as practicable, but not later than 3 days after taking the action to which the notification requirement was applicable, and shall contain an explanation of the emergency circumstances.
+        The Secretary of State may waive the notification requirement of subsection (a), if the Secretary determines that failure to do so would pose a substantial risk to human health or welfare. In the case of any waiver under this subsection, notification to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations and the Committee on Appropriations of the House of Representatives shall be provided as soon as practicable, but not later than 3 days after taking the action to which the notification requirement was applicable, and shall contain an explanation of the emergency circumstances.
 
 ([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 34, as added [Pub. L. 98–164, title I, § 123][/us/pl/98/164/s123], Nov. 22, 1983, [97 Stat. 1025][/us/stat/97/1025]; amended [Pub. L. 100–204, title I, § 121][/us/pl/100/204/s121], Dec. 22, 1987, [101 Stat. 1339][/us/stat/101/1339]; [Pub. L. 102–138, title I, § 117(b)][/us/pl/102/138/s117/b], Oct. 28, 1991, [105 Stat. 657][/us/stat/105/657]; [Pub. L. 103–236, title I, § 122(c)][/us/pl/103/236/s122/c], Apr. 30, 1994, [108 Stat. 392][/us/stat/108/392]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXII, § 2243, Oct. 21, 1998, [112 Stat. 2681–823][/us/stat/112/2681-823].)
 

@@ -29,7 +29,7 @@
 
     (c) __Retirement of reemployed participants__ 
 
-        A participant who is retired under subsection (a)(2) of this section and is subsequently employed by the United States Government, thereafter, shall be eligible to retire only under the terms of the applicable retirement system.
+        A participant who is retired under subsection (a)(2) and is subsequently employed by the United States Government, thereafter, shall be eligible to retire only under the terms of the applicable retirement system.
 
 ([Pub. L. 96–465, title I, § 813][/us/pl/96/465/s813], Oct. 17, 1980, [94 Stat. 2113][/us/stat/94/2113]; [Pub. L. 102–138, title I, § 149][/us/pl/102/138/s149], Oct. 28, 1991, [105 Stat. 670][/us/stat/105/670]; [Pub. L. 103–236, title I, § 174][/us/pl/103/236/s174], Apr. 30, 1994, [108 Stat. 413][/us/stat/108/413].)
 

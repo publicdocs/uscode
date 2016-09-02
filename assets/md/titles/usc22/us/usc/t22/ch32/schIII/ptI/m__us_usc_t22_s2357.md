@@ -31,7 +31,7 @@
 
         (1)
 
-         Except as provided in subsection (d) of this section, no Government-owned excess property shall be made available under this section, [section 2358 of this title][/us/usc/t22/s2358], or otherwise in furtherance of the purposes of subchapter I of this chapter, unless, before the shipment of such property for use in a specified country (or transfer, if the property is already in such country), the agency administering such subchapter I has approved such shipment (or transfer) and made a written determination—
+         Except as provided in subsection (d), no Government-owned excess property shall be made available under this section, [section 2358 of this title][/us/usc/t22/s2358], or otherwise in furtherance of the purposes of subchapter I of this chapter, unless, before the shipment of such property for use in a specified country (or transfer, if the property is already in such country), the agency administering such subchapter I has approved such shipment (or transfer) and made a written determination—
 
             (A) that there is a need for such property in the quantity requested and that such property is suitable for the purpose requested;
 
@@ -43,7 +43,7 @@
 
     (d) __Transfer of Government-owned excess property to enhance environmental protection in foreign countries__ 
 
-    The Secretary of State, acting through the Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs, is authorized to transfer to any friendly country, international organization, the American Red Cross, or other voluntary nonprofit relief agency described in subsection (a) of this section, Government-owned excess property made available under this section or [section 2358 of this title][/us/usc/t22/s2358] in order to support activities carried out under subchapter I of this chapter which are designed to enhance environmental protection in foreign countries if the Secretary of State makes a written determination—
+    The Secretary of State, acting through the Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs, is authorized to transfer to any friendly country, international organization, the American Red Cross, or other voluntary nonprofit relief agency described in subsection (a), Government-owned excess property made available under this section or [section 2358 of this title][/us/usc/t22/s2358] in order to support activities carried out under subchapter I of this chapter which are designed to enhance environmental protection in foreign countries if the Secretary of State makes a written determination—
 
         (1) that there is a need for such property in the quantity requested and that such property is suitable for the purpose requested;
 
@@ -67,7 +67,7 @@
 
  __Amendments__ 
 
-    1985—Subsec. (c)(1). [Pub. L. 99–93, § 129(1)(A)][/us/pl/99/93/s129/1/A], (B), designated existing provisions of subsec. (c) as par. (1), redesignated existing pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, and in introductory provisions of par. (1) as so designated substituted “Except as provided in subsection (d) of this section, no” for “No”.
+    1985—Subsec. (c)(1). [Pub. L. 99–93, § 129(1)(A)][/us/pl/99/93/s129/1/A], (B), designated existing provisions of subsec. (c) as par. (1), redesignated existing pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, and in introductory provisions of par. (1) as so designated substituted “Except as provided in subsection (d), no” for “No”.
 
     Subsec. (c)(2). [Pub. L. 99–93, § 129(1)(C)][/us/pl/99/93/s129/1/C], added par. (2).
 

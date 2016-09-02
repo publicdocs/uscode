@@ -73,7 +73,7 @@
 
         (4) __Retention of support__ 
 
-            The Commission shall retain and make use of such staff, materials, and infrastructure (including leased premises) of the Trade Deficit Review Commission as the Commission determines, in the judgment of the members of the Commission, are required to facilitate the ready commencement of activities of the Commission under subsection (c) of this section or to carry out such activities after the commencement of such activities.
+            The Commission shall retain and make use of such staff, materials, and infrastructure (including leased premises) of the Trade Deficit Review Commission as the Commission determines, in the judgment of the members of the Commission, are required to facilitate the ready commencement of activities of the Commission under subsection (c) or to carry out such activities after the commencement of such activities.
 
         (5) __Chairman and Vice Chairman__ 
 

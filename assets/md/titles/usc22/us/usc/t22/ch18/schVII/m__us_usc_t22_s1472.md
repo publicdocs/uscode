@@ -31,7 +31,7 @@
 
         (1)
 
-         Any contract authorized by subsection (a) of this section and described in paragraph (3) of this subsection which is funded on the basis of annual appropriations may nevertheless be made for periods not in excess of 5 years when—
+         Any contract authorized by subsection (a) and described in paragraph (3) of this subsection which is funded on the basis of annual appropriations may nevertheless be made for periods not in excess of 5 years when—
 
             (A) appropriations are available and adequate for payment for the first fiscal year and for all potential cancellation costs; and
 

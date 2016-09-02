@@ -21,7 +21,7 @@
 
     (b) __Effective date__ 
 
-        Subsection (a) of this section applies with respect to funds made available for fiscal year 1991 or any fiscal year thereafter.
+        Subsection (a) applies with respect to funds made available for fiscal year 1991 or any fiscal year thereafter.
 
 ([Pub. L. 101–623, § 6][/us/pl/101/623/s6], Nov. 21, 1990, [104 Stat. 3355][/us/stat/104/3355].)
 

@@ -21,7 +21,7 @@
 
     (b) __Transportation to Poland of private contributions__ 
 
-    In further  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “furtherance”. </sup></sup>  of subsection (a) of this section, the President—
+    In further  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “furtherance”. </sup></sup>  of subsection (a), the President—
 
         (1) using all available authorities, including [section 402 of title 10][/us/usc/t10/s402] (relating to transportation of humanitarian relief supplies), should use resources of the Department of Defense (including the National Guard) to transport nonfinancial private contributions to Poland, <sup>\[2\]</sup>  <sup><sup> 2 So in original. The comma probably should be a semicolon. </sup></sup> 
 

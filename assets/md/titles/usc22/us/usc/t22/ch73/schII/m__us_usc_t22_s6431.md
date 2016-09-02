@@ -65,15 +65,15 @@
 
             (B) __Presidential appointments__ 
 
-                Of the three members of the Commission appointed by the President under subsection (b)(1)(B)(i) of this section, two shall be appointed to a 1-year term and one shall be appointed to a 2-year term.
+                Of the three members of the Commission appointed by the President under subsection (b)(1)(B)(i), two shall be appointed to a 1-year term and one shall be appointed to a 2-year term.
 
             (C) __Appointments by the President pro tempore of the Senate__ 
 
-                Of the three members of the Commission appointed by the President pro tempore of the Senate under subsection (b)(1)(B)(ii) of this section, one of the appointments made upon the recommendation of the leader in the Senate of the political party that is not the political party of the President shall be appointed to a 1-year term, and the other two appointments under such clause shall be 2-year terms.
+                Of the three members of the Commission appointed by the President pro tempore of the Senate under subsection (b)(1)(B)(ii), one of the appointments made upon the recommendation of the leader in the Senate of the political party that is not the political party of the President shall be appointed to a 1-year term, and the other two appointments under such clause shall be 2-year terms.
 
             (D) __Appointments by the Speaker of the House of Representatives__ 
 
-                Of the three members of the Commission appointed by the Speaker of the House of Representatives under subsection (b)(1)(B)(iii) of this section, one of the appointments made upon the recommendation of the leader in the House of the political party that is not the political party of the President shall be to a 1-year term, and the other two appointments under such clause shall be 2-year terms.
+                Of the three members of the Commission appointed by the Speaker of the House of Representatives under subsection (b)(1)(B)(iii), one of the appointments made upon the recommendation of the leader in the House of the political party that is not the political party of the President shall be to a 1-year term, and the other two appointments under such clause shall be 2-year terms.
 
             (E) __Appointments to 1-year terms__ 
 

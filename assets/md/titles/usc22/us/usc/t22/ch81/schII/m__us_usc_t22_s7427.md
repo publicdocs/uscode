@@ -17,11 +17,11 @@
 
     (a) __Authority__ 
 
-        The President is authorized to use all means necessary and appropriate to bring about the release of any person described in subsection (b) of this section who is being detained or imprisoned by, on behalf of, or at the request of the International Criminal Court.
+        The President is authorized to use all means necessary and appropriate to bring about the release of any person described in subsection (b) who is being detained or imprisoned by, on behalf of, or at the request of the International Criminal Court.
 
     (b) __Persons authorized to be freed__ 
 
-    The authority of subsection (a) of this section shall extend to the following persons:
+    The authority of subsection (a) shall extend to the following persons:
 
         (1) Covered United States persons.
 
@@ -31,7 +31,7 @@
 
     (c) __Authorization of legal assistance__ 
 
-    When any person described in subsection (b) of this section is arrested, detained, investigated, prosecuted, or imprisoned by, on behalf of, or at the request of the International Criminal Court, the President is authorized to direct any agency of the United States Government to provide—
+    When any person described in subsection (b) is arrested, detained, investigated, prosecuted, or imprisoned by, on behalf of, or at the request of the International Criminal Court, the President is authorized to direct any agency of the United States Government to provide—
 
         (1) legal representation and other legal assistance to that person (including, in the case of a person entitled to assistance under [section 1037 of title 10][/us/usc/t10/s1037], representation and other assistance in the manner provided in that section);
 
@@ -41,7 +41,7 @@
 
     (d) __Bribes and other inducements not authorized__ 
 
-        This section does not authorize the payment of bribes or the provision of other such incentives to induce the release of a person described in subsection (b) of this section.
+        This section does not authorize the payment of bribes or the provision of other such incentives to induce the release of a person described in subsection (b).
 
 ([Pub. L. 107–206, title II, § 2008][/us/pl/107/206/s2008], Aug. 2, 2002, [116 Stat. 905][/us/stat/116/905].)
 

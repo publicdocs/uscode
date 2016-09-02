@@ -25,7 +25,7 @@
 
     (c) __Availability of information__ 
 
-        The Secretary shall, as appropriate, provide religious freedom issue briefs under subsection (b) of this section to executive branch officials and Members of Congress in anticipation of bilateral contacts with foreign leaders, both in the United States and abroad.
+        The Secretary shall, as appropriate, provide religious freedom issue briefs under subsection (b) to executive branch officials and Members of Congress in anticipation of bilateral contacts with foreign leaders, both in the United States and abroad.
 
 ([Pub. L. 105–292, title I, § 108][/us/pl/105/292/s108], Oct. 27, 1998, [112 Stat. 2796][/us/stat/112/2796].)
 

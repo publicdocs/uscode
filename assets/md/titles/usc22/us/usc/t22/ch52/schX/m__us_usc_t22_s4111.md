@@ -43,7 +43,7 @@
 
         (2) is the exclusive representative of the employees involved;
 
-        may intervene with respect to a petition filed pursuant to subsection (b) of this section and shall be placed on the ballot of any election under subsection (b) of this section with respect to the petition.
+        may intervene with respect to a petition filed pursuant to subsection (b) and shall be placed on the ballot of any election under subsection (b) with respect to the petition.
 
     (d) __Eligibility to vote; regulations; choices on ballot; preferential voting; certification as exclusive representative__ 
 
@@ -67,7 +67,7 @@
 
         (1) if the Board determines that the labor organization is subject to corrupt influence or influences opposed to democratic principles; or
 
-        (2) in the case of a petition filed under subsection (b)(1)(A) of this section, if there is not credible evidence that at least 30 percent of the employees wish to be represented for the purpose of collective bargaining by the labor organization seeking exclusive recognition.
+        (2) in the case of a petition filed under subsection (b)(1)(A), if there is not credible evidence that at least 30 percent of the employees wish to be represented for the purpose of collective bargaining by the labor organization seeking exclusive recognition.
 
     (g) __Waiver of hearings; consent elections__ 
 

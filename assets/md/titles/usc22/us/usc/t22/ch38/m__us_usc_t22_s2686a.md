@@ -27,7 +27,7 @@
 
     (b) __Other responsibilities__ 
 
-        The individual designated under subsection (a) of this section may carry out the functions of subsection (a) of this section in addition to other assigned responsibilities.
+        The individual designated under subsection (a) may carry out the functions of subsection (a) in addition to other assigned responsibilities.
 
 ([Pub. L. 102–138, title I, § 180][/us/pl/102/138/s180], Oct. 28, 1991, [105 Stat. 682][/us/stat/105/682].)
 

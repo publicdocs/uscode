@@ -23,7 +23,7 @@
 
         (1) __In general__ 
 
-            An inspection referred to in subsection (a) of this section may be made only upon issuance of an actual written notice by the United States National Authority to the owner and to the operator, occupant, or agent in charge of the premises to be inspected.
+            An inspection referred to in subsection (a) may be made only upon issuance of an actual written notice by the United States National Authority to the owner and to the operator, occupant, or agent in charge of the premises to be inspected.
 
         (2) __Time of notification__ 
 

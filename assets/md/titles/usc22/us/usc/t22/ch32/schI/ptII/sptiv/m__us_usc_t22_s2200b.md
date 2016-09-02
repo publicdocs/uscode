@@ -31,7 +31,7 @@
 
     (b) __Reports by United States Trade Representative__ 
 
-        The United States Trade Representative shall review the actions of the Corporation under subsection (a) of this section and, after consultation with representatives of United States insurance companies, shall report to the Congress in the report required by [section 2241(b) of title 19][/us/usc/t19/s2241/b] with respect to such actions.
+        The United States Trade Representative shall review the actions of the Corporation under subsection (a) and, after consultation with representatives of United States insurance companies, shall report to the Congress in the report required by [section 2241(b) of title 19][/us/usc/t19/s2241/b] with respect to such actions.
 
     (c) __Definitions__ 
 

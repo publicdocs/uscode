@@ -31,15 +31,15 @@
 
     (b) __Status as Government employee__ 
 
-        A fellow detailed under subsection (a) of this section is deemed, for the purpose of preserving allowances, privileges, rights, seniority, and other benefits, an employee of the agency from which detailed, and is entitled to pay, allowances, and benefits from funds available to that agency. The authorization and payment of such allowances and other benefits from appropriations available therefore  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “therefor”. </sup></sup>  is deemed to comply with [section 5536 of title 5][/us/usc/t5/s5536].
+        A fellow detailed under subsection (a) is deemed, for the purpose of preserving allowances, privileges, rights, seniority, and other benefits, an employee of the agency from which detailed, and is entitled to pay, allowances, and benefits from funds available to that agency. The authorization and payment of such allowances and other benefits from appropriations available therefore  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “therefor”. </sup></sup>  is deemed to comply with [section 5536 of title 5][/us/usc/t5/s5536].
 
     (c) __Reimbursement__ 
 
-        Fellows may be detailed under subsection (a) of this section without reimbursement to the United States by the Center.
+        Fellows may be detailed under subsection (a) without reimbursement to the United States by the Center.
 
     (d) __Allowances and benefits__ 
 
-        A fellow detailed under subsection (a) of this section may be paid by the Center for allowances and benefits listed in [section 6102(4)(B) of this title][/us/usc/t22/s6102/4/B].
+        A fellow detailed under subsection (a) may be paid by the Center for allowances and benefits listed in [section 6102(4)(B) of this title][/us/usc/t22/s6102/4/B].
 
 ([Pub. L. 103–236, title II, § 255][/us/pl/103/236/s255], Apr. 30, 1994, [108 Stat. 431][/us/stat/108/431].)
 

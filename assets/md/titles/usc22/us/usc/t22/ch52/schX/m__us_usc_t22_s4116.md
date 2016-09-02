@@ -21,7 +21,7 @@
 
     (b) __Notice in complaint__ 
 
-    Any complaint under subsection (a) of this section shall contain a notice—
+    Any complaint under subsection (a) shall contain a notice—
 
         (1) of the charge;
 
@@ -57,7 +57,7 @@
 
     (g) __Findings of fact relative to issuance of orders; backpay__ 
 
-    If the Board (or any member thereof or any individual employed by the Board and designated for such purpose) determines after any hearing on a complaint under subsection (f) of this section that the preponderance of the evidence received demonstrates that the Department or labor organization named in the complaint has engaged in or is engaging in an unfair labor practice, then the individual or individuals conducting the hearing shall state in writing their findings of fact and shall issue and cause to be served on the Department or labor organization an order—
+    If the Board (or any member thereof or any individual employed by the Board and designated for such purpose) determines after any hearing on a complaint under subsection (f) that the preponderance of the evidence received demonstrates that the Department or labor organization named in the complaint has engaged in or is engaging in an unfair labor practice, then the individual or individuals conducting the hearing shall state in writing their findings of fact and shall issue and cause to be served on the Department or labor organization an order—
 
         (1) to cease and desist from any such unfair labor practice in which the Department or labor organization is engaged;
 

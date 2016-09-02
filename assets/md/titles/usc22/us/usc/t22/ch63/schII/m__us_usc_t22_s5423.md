@@ -21,7 +21,7 @@
 
     (b) __Participation by Enterprise Funds and other agencies and organizations__ 
 
-    In carrying out subsection (a) of this section, the Agency for International Development may utilize the Polish-American Enterprise Fund and the Hungarian-American Enterprise Fund and other appropriate Government and private agencies, programs, and organizations such as—
+    In carrying out subsection (a), the Agency for International Development may utilize the Polish-American Enterprise Fund and the Hungarian-American Enterprise Fund and other appropriate Government and private agencies, programs, and organizations such as—
 
         (1) the Department of Agriculture;
 
@@ -37,7 +37,7 @@
 
     (c) __Nonapplicability of other provisions of law__ 
 
-        Assistance provided pursuant to subsection (a) of this section under the authorities of part I of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\] may be provided notwithstanding any other provision of law.
+        Assistance provided pursuant to subsection (a) under the authorities of part I of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\] may be provided notwithstanding any other provision of law.
 
     (d) __Authorization of appropriations__ 
 

@@ -23,7 +23,7 @@
 
         (2) The term “fishing gear” means any equipment or appurtenance which is necessary for the carrying out of fishing operations by a fishing vessel, whether or not such equipment or appurtenance is attached to such vessel.
 
-        (3) The term “fund” means the Fishing Vessel and Gear Damage Compensation Fund established under subsection (f) of this section.
+        (3) The term “fund” means the Fishing Vessel and Gear Damage Compensation Fund established under subsection (f).
 
         (4) The term “resulting economic loss” means the gross income, as estimated by the Secretary, that a fishing vessel owner or operator who is eligible for compensation under this section for damage to, loss of, or destruction of, a fishing vessel or the fishing gear used with such vessel will lose by reason of not being able to engage in fishing, or having to reduce his fishing effort, during the period before the vessel or gear, or both, are repaired or replaced and available for use.
 
@@ -101,11 +101,11 @@
 
          The fund shall consist of—
 
-            (A) all sums recovered by the United States in the exercise of rights subrogated to it under subsection (d)(5) of this section;
+            (A) all sums recovered by the United States in the exercise of rights subrogated to it under subsection (d)(5);
 
-            (B) all administrative fees collected under subsection (c)(2) of this section;
+            (B) all administrative fees collected under subsection (c)(2);
 
-            (C) all surcharges collected under subsection (e) of this section;
+            (C) all surcharges collected under subsection (e);
 
             (D) revenues received from deposits or investments made under the last sentence of this paragraph; and
 

@@ -23,11 +23,11 @@
 
             (A) to oppose particularly severe violations of religious freedom that are or have been engaged in or tolerated by the governments of foreign countries; and
 
-            (B) to promote the right to freedom of religion in those countries through the actions described in subsection (c) of this section.
+            (B) to promote the right to freedom of religion in those countries through the actions described in subsection (c).
 
         (2) __Requirement of Presidential action__ 
 
-            Whenever the President determines that the government of a foreign country has engaged in or tolerated particularly severe violations of religious freedom, the President shall oppose such violations and promote the right to religious freedom through one or more of the actions described in subsection (c) of this section.
+            Whenever the President determines that the government of a foreign country has engaged in or tolerated particularly severe violations of religious freedom, the President shall oppose such violations and promote the right to religious freedom through one or more of the actions described in subsection (c).
 
     (b) __Designations of countries of particular concern for religious freedom__ 
 
@@ -61,7 +61,7 @@
 
         (1) __In general__ 
 
-        Subject to paragraphs (2), (3), (4), and (5) with respect to each country of particular concern for religious freedom designated under subsection (b)(1)(A) of this section, the President shall, after the requirements of sections 6443 and 6444 of this title have been satisfied, but not later than 90 days (or 180 days in case of a delay under paragraph (3)) after the date of designation of the country under that subsection, carry out one or more of the following actions under subparagraph (A) or subparagraph (B):
+        Subject to paragraphs (2), (3), (4), and (5) with respect to each country of particular concern for religious freedom designated under subsection (b)(1)(A), the President shall, after the requirements of sections 6443 and 6444 of this title have been satisfied, but not later than 90 days (or 180 days in case of a delay under paragraph (3)) after the date of designation of the country under that subsection, carry out one or more of the following actions under subparagraph (A) or subparagraph (B):
 
             (A) __Presidential actions__ 
 

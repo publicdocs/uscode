@@ -25,7 +25,7 @@
 
     (b) __Continuing references to USIA or Director__ 
 
-        Subsection (a) of this section shall not apply to section 4069a(f), 4069b(g), or 4069c(f) of this title.
+        Subsection (a) shall not apply to section 4069a(f), 4069b(g), or 4069c(f) of this title.
 
 ([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1331, Oct. 21, 1998, [112 Stat. 2681–785][/us/stat/112/2681-785].)
 

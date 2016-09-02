@@ -21,7 +21,7 @@
 
     (b) __Family nexus as affirmative hiring factor__ 
 
-        The fact that an applicant for employment in a position referred to in subsection (a) of this section is a family member of a Government employee assigned abroad shall be considered an affirmative factor in employing such person.
+        The fact that an applicant for employment in a position referred to in subsection (a) is a family member of a Government employee assigned abroad shall be considered an affirmative factor in employing such person.
 
     (c) __Compensation of family and non-family member employees__ 
 

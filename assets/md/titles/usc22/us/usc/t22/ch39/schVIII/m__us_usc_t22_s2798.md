@@ -19,7 +19,7 @@
 
         (1) __Determination by the President__ 
 
-        Except as provided in subsection (b)(2) of this section, the President shall impose both of the sanctions described in subsection (c) of this section if the President determines that a foreign person, on or after October 28, 1991, has knowingly and materially contributed—
+        Except as provided in subsection (b)(2), the President shall impose both of the sanctions described in subsection (c) if the President determines that a foreign person, on or after October 28, 1991, has knowingly and materially contributed—
 
             (A) through the export from the United States of any goods or technology that are subject to the jurisdiction of the United States,
 
@@ -63,29 +63,29 @@
 
         (1) __Consultations__ 
 
-            If the President makes the determinations described in subsection (a)(1) of this section with respect to a foreign person, the Congress urges the President to initiate consultations immediately with the government with primary jurisdiction over that foreign person with respect to the imposition of sanctions pursuant to this section.
+            If the President makes the determinations described in subsection (a)(1) with respect to a foreign person, the Congress urges the President to initiate consultations immediately with the government with primary jurisdiction over that foreign person with respect to the imposition of sanctions pursuant to this section.
 
         (2) __Actions by government of jurisdiction__ 
 
-            In order to pursue such consultations with that government, the President may delay imposition of sanctions pursuant to this section for a period of up to 90 days. Following these consultations, the President shall impose sanctions unless the President determines and certifies to the Congress that that government has taken specific and effective actions, including appropriate penalties, to terminate the involvement of the foreign person in the activities described in subsection (a)(1) of this section. The President may delay imposition of sanctions for an additional period of up to 90 days if the President determines and certifies to the Congress that that government is in the process of taking the actions described in the preceding sentence.
+            In order to pursue such consultations with that government, the President may delay imposition of sanctions pursuant to this section for a period of up to 90 days. Following these consultations, the President shall impose sanctions unless the President determines and certifies to the Congress that that government has taken specific and effective actions, including appropriate penalties, to terminate the involvement of the foreign person in the activities described in subsection (a)(1). The President may delay imposition of sanctions for an additional period of up to 90 days if the President determines and certifies to the Congress that that government is in the process of taking the actions described in the preceding sentence.
 
         (3) __Report to Congress__ 
 
-            The President shall report to the Congress, not later than 90 days after making a determination under subsection (a)(1) of this section, on the status of consultations with the appropriate government under this subsection, and the basis for any determination under paragraph (2) of this subsection that such government has taken specific corrective actions.
+            The President shall report to the Congress, not later than 90 days after making a determination under subsection (a)(1), on the status of consultations with the appropriate government under this subsection, and the basis for any determination under paragraph (2) of this subsection that such government has taken specific corrective actions.
 
     (c) __Sanctions__ 
 
         (1) __Description of sanctions__ 
 
-        The sanctions to be imposed pursuant to subsection (a)(1) of this section are, except as provided in paragraph (2) of this subsection, the following:
+        The sanctions to be imposed pursuant to subsection (a)(1) are, except as provided in paragraph (2) of this subsection, the following:
 
             (A) __Procurement sanction__ 
 
-                The United States Government shall not procure, or enter into any contract for the procurement of, any goods or services from any person described in subsection (a)(3) of this section.
+                The United States Government shall not procure, or enter into any contract for the procurement of, any goods or services from any person described in subsection (a)(3).
 
             (B) __Import sanctions__ 
 
-                The importation into the United States of products produced by any person described in subsection (a)(3) of this section shall be prohibited.
+                The importation into the United States of products produced by any person described in subsection (a)(3) shall be prohibited.
 
         (2) __Exceptions__ 
 
@@ -119,7 +119,7 @@
 
     (d) __Termination of sanctions__ 
 
-        The sanctions imposed pursuant to this section shall apply for a period of at least 12 months following the imposition of sanctions and shall cease to apply thereafter only if the President determines and certifies to the Congress that reliable information indicates that the foreign person with respect to which the determination was made under subsection (a)(1) of this section has ceased to aid or abet any foreign government, project, or entity in its efforts to acquire chemical or biological weapons capability as described in that subsection.
+        The sanctions imposed pursuant to this section shall apply for a period of at least 12 months following the imposition of sanctions and shall cease to apply thereafter only if the President determines and certifies to the Congress that reliable information indicates that the foreign person with respect to which the determination was made under subsection (a)(1) has ceased to aid or abet any foreign government, project, or entity in its efforts to acquire chemical or biological weapons capability as described in that subsection.
 
     (e) __Waiver__ 
 

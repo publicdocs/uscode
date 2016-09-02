@@ -41,7 +41,7 @@
 
     (b) __Eligibility determinations__ 
 
-        Consistent with subsection (a) of this section, the President shall determine whether a country is eligible to receive benefits under this subchapter. The President shall notify the appropriate congressional committees of his intention to designate a country as an eligible country at least 15 days in advance of any formal determination.
+        Consistent with subsection (a), the President shall determine whether a country is eligible to receive benefits under this subchapter. The President shall notify the appropriate congressional committees of his intention to designate a country as an eligible country at least 15 days in advance of any formal determination.
 
 ([Pub. L. 87–195][/us/pl/87/195], pt. IV, § 703, as added [Pub. L. 102–549, title VI, § 602(a)][/us/pl/102/549/s602/a], Oct. 28, 1992, [106 Stat. 3664][/us/stat/106/3664].)
 

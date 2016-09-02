@@ -21,7 +21,7 @@
 
     (b) __Periodic reports__ 
 
-        Not later than 45 days after March 12, 1996, and every three months thereafter until the conversion described in subsection (a) of this section is fully implemented, the Director of the International Broadcasting Bureau shall submit a report to the appropriate congressional committees on the progress made in carrying out subsection (a) of this section.
+        Not later than 45 days after March 12, 1996, and every three months thereafter until the conversion described in subsection (a) is fully implemented, the Director of the International Broadcasting Bureau shall submit a report to the appropriate congressional committees on the progress made in carrying out subsection (a).
 
     (c) __Termination of broadcasting authorities__ 
 

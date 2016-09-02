@@ -21,7 +21,7 @@
 
     (b) __Exception__ 
 
-        Subsection (a) of this section does not apply to the Broadcasting Board of Governors, the International Broadcasting Bureau, or any function performed by the Board or the Bureau.
+        Subsection (a) does not apply to the Broadcasting Board of Governors, the International Broadcasting Bureau, or any function performed by the Board or the Bureau.
 
 ([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIII, § 1312, Oct. 21, 1998, [112 Stat. 2681–776][/us/stat/112/2681-776].)
 

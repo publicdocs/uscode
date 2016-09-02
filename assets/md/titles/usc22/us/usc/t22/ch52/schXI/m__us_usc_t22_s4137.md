@@ -37,7 +37,7 @@
 
     (c) __Finality of decisions; judicial review__ 
 
-        Except as provided in subsection (d) of this section, decisions of the Board under this subchapter shall be final, subject only to judicial review as provided in [section 4140 of this title][/us/usc/t22/s4140].
+        Except as provided in subsection (d), decisions of the Board under this subchapter shall be final, subject only to judicial review as provided in [section 4140 of this title][/us/usc/t22/s4140].
 
     (d) __Recommendations__ 
 

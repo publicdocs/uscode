@@ -49,7 +49,7 @@
 
     Grants to RFE/RL, Incorporated, by the Board shall only be made in compliance with a grant agreement. The grant agreement shall establish guidelines for such grants. The grant agreement shall include the following provisions—
 
-        (1) that a grant be used only for activities which the Board determines are consistent with the purposes of subsection (f) of this section;
+        (1) that a grant be used only for activities which the Board determines are consistent with the purposes of subsection (f);
 
         (2) that RFE/RL, Incorporated, shall otherwise comply with the requirements of this section;
 

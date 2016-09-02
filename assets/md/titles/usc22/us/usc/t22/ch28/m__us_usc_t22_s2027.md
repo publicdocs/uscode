@@ -27,7 +27,7 @@
 
     (b) __Opposition to certain programs and projects of International Atomic Energy Agency__ 
 
-        The Secretary shall direct the United States representative to the International Atomic Energy Agency to oppose programs of the Agency that are determined by the Secretary under the review conducted under subsection (a)(1) of this section to be inconsistent with nuclear nonproliferation and safety goals of the United States.
+        The Secretary shall direct the United States representative to the International Atomic Energy Agency to oppose programs of the Agency that are determined by the Secretary under the review conducted under subsection (a)(1) to be inconsistent with nuclear nonproliferation and safety goals of the United States.
 
 ([Pub. L. 107–228, div. B, title XIII, § 1343][/us/pl/107/228/s1343], Sept. 30, 2002, [116 Stat. 1452][/us/stat/116/1452].)
 

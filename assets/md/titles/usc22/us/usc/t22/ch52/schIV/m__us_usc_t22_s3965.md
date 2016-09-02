@@ -17,7 +17,7 @@
 
     (a) __Eligibility; additional lump sum payment; excessive compensation not precluding award__ 
 
-    Subject to subsection (e) of this section, members of the Senior Foreign Service who are serving—
+    Subject to subsection (e), members of the Senior Foreign Service who are serving—
 
         (1) under career or career candidate appointments, or
 
@@ -41,15 +41,15 @@
 
     (c) __Determination of amount by Secretary; distribution on basis of selection board recommendations__ 
 
-        The Secretary shall determine the amount of performance pay available under subsection (b)(2) of this section each year for distribution among the members of the Senior Foreign Service and shall distribute performance pay to particular individuals on the basis of recommendations by selection boards established under [section 4002 of this title][/us/usc/t22/s4002].
+        The Secretary shall determine the amount of performance pay available under subsection (b)(2) each year for distribution among the members of the Senior Foreign Service and shall distribute performance pay to particular individuals on the basis of recommendations by selection boards established under [section 4002 of this title][/us/usc/t22/s4002].
 
     (d) __Recommendations for meritorious or distinguished service awards__ 
 
-        The President may grant awards of performance pay under subsection (b)(3) of this section on the basis of annual recommendations by the Secretary of State of members of the Senior Foreign Service who are nominated by their agencies as having performed especially meritorious or distinguished service. Such service in the promotion of internationally recognized human rights, including the right to freedom of religion, shall serve as a basis for granting awards under this section. Recommendations by the Secretary of State under this subsection shall be made on the basis of recommendations by special interagency selection boards established by the Secretary of State for the purpose of reviewing and evaluating the nominations of agencies.
+        The President may grant awards of performance pay under subsection (b)(3) on the basis of annual recommendations by the Secretary of State of members of the Senior Foreign Service who are nominated by their agencies as having performed especially meritorious or distinguished service. Such service in the promotion of internationally recognized human rights, including the right to freedom of religion, shall serve as a basis for granting awards under this section. Recommendations by the Secretary of State under this subsection shall be made on the basis of recommendations by special interagency selection boards established by the Secretary of State for the purpose of reviewing and evaluating the nominations of agencies.
 
     (e) __Recognition in lieu of award__ 
 
-        Notwithstanding any other provision of law, the Secretary of State may provide for recognition of the meritorious or distinguished service of any member of the Foreign Service described in subsection (a) of this section (including any member of the Senior Foreign Service) by means other than an award of performance pay in lieu of making such an award under this section.
+        Notwithstanding any other provision of law, the Secretary of State may provide for recognition of the meritorious or distinguished service of any member of the Foreign Service described in subsection (a) (including any member of the Senior Foreign Service) by means other than an award of performance pay in lieu of making such an award under this section.
 
 ([Pub. L. 96–465, title I, § 405][/us/pl/96/465/s405], Oct. 17, 1980, [94 Stat. 2088][/us/stat/94/2088]; [Pub. L. 100–204, title I, § 175(b)][/us/pl/100/204/s175/b], Dec. 22, 1987, [101 Stat. 1361][/us/stat/101/1361]; [Pub. L. 103–236, title I, § 173(d)][/us/pl/103/236/s173/d], Apr. 30, 1994, [108 Stat. 412][/us/stat/108/412]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXIII, § 2311(a), Oct. 21, 1998, [112 Stat. 2681–826][/us/stat/112/2681-826]; [Pub. L. 105–292, title V, § 504(a)][/us/pl/105/292/s504/a], Oct. 27, 1998, [112 Stat. 2811][/us/stat/112/2811]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title III, § 323\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–437; [Pub. L. 107–228, div. A, title III, § 312(a)][/us/pl/107/228/s312/a], Sept. 30, 2002, [116 Stat. 1378][/us/stat/116/1378]; [Pub. L. 108–447, div. B, title IV, § 412(b)][/us/pl/108/447/s412/b], Dec. 8, 2004, [118 Stat. 2905][/us/stat/118/2905].)
 
@@ -61,7 +61,7 @@
 
     1999—Subsec. (b)(1). [Pub. L. 106–113][/us/pl/106/113] substituted “33” for “50”.
 
-    1998—Subsec. (a). [Pub. L. 105–277, § 2311(a)(1)][/us/pl/105/277/s2311/a/1], substituted “Subject to subsection (e) of this section, members” for “Members” in introductory provisions.
+    1998—Subsec. (a). [Pub. L. 105–277, § 2311(a)(1)][/us/pl/105/277/s2311/a/1], substituted “Subject to subsection (e), members” for “Members” in introductory provisions.
 
     Subsec. (d). [Pub. L. 105–292][/us/pl/105/292] inserted “Such service in the promotion of internationally recognized human rights, including the right to freedom of religion, shall serve as a basis for granting awards under this section.” after first sentence.
 

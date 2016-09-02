@@ -21,7 +21,7 @@
 
     (b) __Actions by Secretary of State__ 
 
-        The Secretary of State, as part of the process established by the President referred to in subsection (a) of this section, shall take actions to carry out the recommendations made in each such review.
+        The Secretary of State, as part of the process established by the President referred to in subsection (a), shall take actions to carry out the recommendations made in each such review.
 
 ([Pub. L. 108–447, div. B, title IV, § 409][/us/pl/108/447/s409], Dec. 8, 2004, [118 Stat. 2904][/us/stat/118/2904]; [Pub. L. 112–74, div. I, title VII, § 7034(n)][/us/pl/112/74/s7034/n], Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217].)
 

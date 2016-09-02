@@ -37,7 +37,7 @@
 
         (1)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. No par. (2) has been enacted.__  __ </sup></sup> __  __Annual report__ 
 
-        The President shall transmit on an annual basis through 2010 a report describing the progress made toward the implementation of the strategy required by subsection (a) of this section and any changes to the strategy since the date of the submission of the last report to—
+        The President shall transmit on an annual basis through 2010 a report describing the progress made toward the implementation of the strategy required by subsection (a) and any changes to the strategy since the date of the submission of the last report to—
 
             (A) the Committee on Foreign Relations of the Senate;
 

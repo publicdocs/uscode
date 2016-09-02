@@ -155,7 +155,7 @@
 
     (b) __Consent to deductions; discharge of claims__ 
 
-        Each participant is deemed to consent and agree to the deductions under subsection (a) of this section. Notwithstanding any law or regulation affecting the pay of a participant, payment less such deductions is a full and complete discharge and acquittance of all claims and demands for regular services during the period covered by the payment, except the right to any benefits under this part based on the service of the participant.
+        Each participant is deemed to consent and agree to the deductions under subsection (a). Notwithstanding any law or regulation affecting the pay of a participant, payment less such deductions is a full and complete discharge and acquittance of all claims and demands for regular services during the period covered by the payment, except the right to any benefits under this part based on the service of the participant.
 
     (c) __Deposit of amounts__ 
 
@@ -163,7 +163,7 @@
 
     (d) __Entry on individual retirement records__ 
 
-        Under such regulations as the Secretary of State may issue, amounts deducted under subsection (a) of this section shall be entered on individual retirement records.
+        Under such regulations as the Secretary of State may issue, amounts deducted under subsection (a) shall be entered on individual retirement records.
 
 ([Pub. L. 96–465, title I, § 856][/us/pl/96/465/s856], as added [Pub. L. 99–335, title IV, § 415][/us/pl/99/335/s415], June 6, 1986, [100 Stat. 618][/us/stat/100/618]; amended [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 105–33, title VII, § 7001(e)(1)(A)][/us/pl/105/33/s7001/e/1/A], Aug. 5, 1997, [111 Stat. 661][/us/stat/111/661]; [Pub. L. 106–346, § 101(a)][/us/pl/106/346/s101/a] \[title V, § 505(e)(1)\], Oct. 23, 2000, [114 Stat. 1356][/us/stat/114/1356], 1356A–53; [Pub. L. 107–228, div. A, title III, § 322(b)(2)][/us/pl/107/228/s322/b/2], Sept. 30, 2002, [116 Stat. 1384][/us/stat/116/1384]; [Pub. L. 112–96, title V, § 5002(b)][/us/pl/112/96/s5002/b], Feb. 22, 2012, [126 Stat. 200][/us/stat/126/200]; [Pub. L. 113–67, div. A, title IV, § 402(b)][/us/pl/113/67/s402/b], Dec. 26, 2013, [127 Stat. 1185][/us/stat/127/1185].)
 

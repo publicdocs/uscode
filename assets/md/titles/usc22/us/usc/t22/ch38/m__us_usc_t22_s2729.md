@@ -29,11 +29,11 @@
 
     (b) __Database__ 
 
-        The Secretary shall establish and maintain a database containing the information collected under subsection (a) of this section.
+        The Secretary shall establish and maintain a database containing the information collected under subsection (a).
 
     (c) __Public availability of information__ 
 
-        Beginning three months after September 30, 2002, the Secretary, shall make available, on a country-by-country basis, on the Internet website of the Department’s Bureau of Consular Affairs, the information from the database described in subsection (b) of this section with respect to deaths occurring since September 30, 2002, or occurring during the preceding three calendar years, whichever period is shorter. The information shall be updated at least every six months.
+        Beginning three months after September 30, 2002, the Secretary, shall make available, on a country-by-country basis, on the Internet website of the Department’s Bureau of Consular Affairs, the information from the database described in subsection (b) with respect to deaths occurring since September 30, 2002, or occurring during the preceding three calendar years, whichever period is shorter. The information shall be updated at least every six months.
 
 ([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 57, as added [Pub. L. 107–228, div. A, title II, § 204][/us/pl/107/228/s204], Sept. 30, 2002, [116 Stat. 1363][/us/stat/116/1363].)
 

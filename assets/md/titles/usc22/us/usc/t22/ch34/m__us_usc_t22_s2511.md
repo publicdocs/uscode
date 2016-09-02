@@ -25,7 +25,7 @@
 
         (2)
 
-         Members of the Council shall (subject to subsection (d)(1) of this section) conduct on-site inspections, and make examinations, of the activities of the Peace Corps in the United States and in other countries in order to—
+         Members of the Council shall (subject to subsection (d)(1)) conduct on-site inspections, and make examinations, of the activities of the Peace Corps in the United States and in other countries in order to—
 
             (A) evaluate the accomplishments of the Peace Corps;
 

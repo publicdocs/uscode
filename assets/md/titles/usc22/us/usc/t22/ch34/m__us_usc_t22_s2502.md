@@ -27,7 +27,7 @@
 
     (c) __Appropriations for increases in salary, pay, etc.__ 
 
-        In addition to the amount authorized to be appropriated by subsection (b) of this section to carry out the purposes of this chapter, there are authorized to be appropriated for increases in salary, pay, retirement, or other employee benefits authorized by law, for each fiscal year, such sums as may be necessary.
+        In addition to the amount authorized to be appropriated by subsection (b) to carry out the purposes of this chapter, there are authorized to be appropriated for increases in salary, pay, retirement, or other employee benefits authorized by law, for each fiscal year, such sums as may be necessary.
 
     (d) __Integration of women into national economics__ 
 

@@ -25,7 +25,7 @@
 
     (c) __Priorities of funds for guaranty payments__ 
 
-        Any payments made to discharge liabilities under guaranties issued under [section 2182 of this title][/us/usc/t22/s2182] or heretofore under this subpart or under prior Latin American or other housing guaranty authorities repealed by the Foreign Assistance Act of 1969, shall be paid first out of fees referred to in subsection (b) of this section (excluding amounts required for purposes other than the discharge of liabilities under guaranties) as long as such fees are available, and thereafter shall be paid out of funds, if any, realized from the sale of currencies or other assets acquired in connection with any payment made to discharge liabilities under such guaranties as long as funds are available, and finally out of funds hereafter made available pursuant to subsection (e) of this section.
+        Any payments made to discharge liabilities under guaranties issued under [section 2182 of this title][/us/usc/t22/s2182] or heretofore under this subpart or under prior Latin American or other housing guaranty authorities repealed by the Foreign Assistance Act of 1969, shall be paid first out of fees referred to in subsection (b) (excluding amounts required for purposes other than the discharge of liabilities under guaranties) as long as such fees are available, and thereafter shall be paid out of funds, if any, realized from the sale of currencies or other assets acquired in connection with any payment made to discharge liabilities under such guaranties as long as funds are available, and finally out of funds hereafter made available pursuant to subsection (e).
 
     (d) __Guaranties as obligations backed by full faith and credit of United States__ 
 
@@ -39,7 +39,7 @@
 
             (A)
 
-             In order to meet obligations incurred for the payment of claims pursuant to loan guaranties described in subsection (d) of this section, the Administrator of the agency primarily responsible for administering subchapter I of this chapter may, to the extent that reserves are not sufficient, borrow from time to time from the Treasury, except that—
+             In order to meet obligations incurred for the payment of claims pursuant to loan guaranties described in subsection (d), the Administrator of the agency primarily responsible for administering subchapter I of this chapter may, to the extent that reserves are not sufficient, borrow from time to time from the Treasury, except that—
 
                 (i) the Administrator may exercise the authority to borrow under this paragraph only to such extent or in such amounts as are provided in advance in appropriation Acts; and
 
@@ -53,7 +53,7 @@
 
     (g) __Guaranties under prior acts__ 
 
-        Housing guaranties committed, authorized, or outstanding heretofore under this subpart or under prior housing guaranty authorities repealed by the Foreign Assistance Act of 1969 shall continue subject to provisions of law originally applicable thereto and fees collected hereafter with respect to such guaranties shall be available for the purposes specified in subsection (b) of this section.
+        Housing guaranties committed, authorized, or outstanding heretofore under this subpart or under prior housing guaranty authorities repealed by the Foreign Assistance Act of 1969 shall continue subject to provisions of law originally applicable thereto and fees collected hereafter with respect to such guaranties shall be available for the purposes specified in subsection (b).
 
     (h) __Fraud or misrepresentation__ 
 

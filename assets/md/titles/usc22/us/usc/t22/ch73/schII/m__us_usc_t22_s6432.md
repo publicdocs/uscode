@@ -33,7 +33,7 @@
 
     (d) __Effects on religious communities and individuals__ 
 
-        Together with specific policy recommendations provided under subsections (b) and (c) of this section, the Commission shall also indicate its evaluation of the potential effects of such policies, if implemented, on the religious communities and individuals whose rights are found to be violated in the country in question.
+        Together with specific policy recommendations provided under subsections (b) and (c), the Commission shall also indicate its evaluation of the potential effects of such policies, if implemented, on the religious communities and individuals whose rights are found to be violated in the country in question.
 
     (e) __Monitoring__ 
 

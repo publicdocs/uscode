@@ -17,7 +17,7 @@
 
     (a) __Competitive grant procedures__ 
 
-        Except as provided in subsection (b) of this section, the Department of State shall work to achieve full and open competition in the award of grants for carrying out its overseas public diplomacy functions.
+        Except as provided in subsection (b), the Department of State shall work to achieve full and open competition in the award of grants for carrying out its overseas public diplomacy functions.
 
     (b) __Exceptions__ 
 

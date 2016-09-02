@@ -33,11 +33,11 @@
 
         (2) The salary of a member of the Service assigned under this section shall be paid from appropriations made available for the payment of salaries and expenses of the Service. Such appropriations may be reimbursed for all or any part of the costs of salaries and other benefits for members assigned under this section.
 
-        (3) A member of the Service assigned under subsection (a)(4) of this section to a Member or office of the Congress shall be deemed to be an employee of the House of Representatives or the Senate, as the case may be, for purposes of payment of travel and other expenses.
+        (3) A member of the Service assigned under subsection (a)(4) to a Member or office of the Congress shall be deemed to be an employee of the House of Representatives or the Senate, as the case may be, for purposes of payment of travel and other expenses.
 
     (c) __Length of assignment__ 
 
-        Except as otherwise provided in subsection (d)(5) of this section, assignments under this section may not exceed four years of continuous service for any member of the Service unless the Secretary approves an extension of such period for that member because of special circumstances.
+        Except as otherwise provided in subsection (d)(5), assignments under this section may not exceed four years of continuous service for any member of the Service unless the Secretary approves an extension of such period for that member because of special circumstances.
 
     (d) __Assignment to the American Institute in Taiwan__ 
 
@@ -61,7 +61,7 @@
 
  __Amendments__ 
 
-    2002—Subsec. (c). [Pub. L. 107–228, § 326(2)][/us/pl/107/228/s326/2], substituted “Except as otherwise provided in subsection (d)(5) of this section, assignments” for “Assignments”.
+    2002—Subsec. (c). [Pub. L. 107–228, § 326(2)][/us/pl/107/228/s326/2], substituted “Except as otherwise provided in subsection (d)(5), assignments” for “Assignments”.
 
     Subsec. (d). [Pub. L. 107–228, § 326(1)][/us/pl/107/228/s326/1], added subsec. (d).
 

@@ -39,13 +39,13 @@
 
     (b) __Funding priorities__ 
 
-        Priority in carrying out this section shall be given to the activities described in paragraphs (1) through (5) of subsection (a) of this section.
+        Priority in carrying out this section shall be given to the activities described in paragraphs (1) through (5) of subsection (a).
 
     (c) __Use of security assistance funds__ 
 
         (1) __Authorization__ 
 
-            In recognition of the direct contributions to the national security interests of the United States of the programs and activities authorized by subsection (a) of this section, the President is authorized to make available for use in carrying out those programs and activities, in addition to amounts otherwise available for such purposes, up to $100,000,000 of security assistance funds for fiscal year 1993.
+            In recognition of the direct contributions to the national security interests of the United States of the programs and activities authorized by subsection (a), the President is authorized to make available for use in carrying out those programs and activities, in addition to amounts otherwise available for such purposes, up to $100,000,000 of security assistance funds for fiscal year 1993.
 
         (2) __“Security assistance funds” defined__ 
 

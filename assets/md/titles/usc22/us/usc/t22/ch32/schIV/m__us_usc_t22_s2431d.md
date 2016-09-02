@@ -45,7 +45,7 @@
 
         (1) __In general__ 
 
-            Any debt reduction pursuant to subsection (a) of this section shall be accomplished at the direction of the Facility by the exchange of a new obligation for obligations of the type referred to in subsection (a) of this section outstanding as of the date specified in subsection (a)(1) of this section.
+            Any debt reduction pursuant to subsection (a) shall be accomplished at the direction of the Facility by the exchange of a new obligation for obligations of the type referred to in subsection (a) outstanding as of the date specified in subsection (a)(1).
 
         (2) __Exchange of obligations__ 
 
@@ -61,13 +61,13 @@
 
         (1)
 
-         The following additional terms and conditions shall apply to the reduction of debt under subsection (a)(1) of this section in the same manner as such terms and conditions apply to the reduction of debt under [section 2430c(a)(1) of this title][/us/usc/t22/s2430c/a/1]:
+         The following additional terms and conditions shall apply to the reduction of debt under subsection (a)(1) in the same manner as such terms and conditions apply to the reduction of debt under [section 2430c(a)(1) of this title][/us/usc/t22/s2430c/a/1]:
 
             (A) The provisions relating to repayment of principal under [section 2430d of this title][/us/usc/t22/s2430d].
 
             (B) The provisions relating to interest on new obligations under [section 2430e of this title][/us/usc/t22/s2430e].
 
-        (2) In addition to the application of the provisions relating to repayment of principal under [section 2430d of this title][/us/usc/t22/s2430d] to the reduction of debt under subsection (a)(1) of this section (in accordance with paragraph (1)(A) of this subsection), repayment of principal on a new obligation established under subsection (b) of this section may be made in the local currency of the beneficiary country and deposited in the Tropical Forest Fund of the country in the same manner as the provisions relating to payment of interest on new obligations under [section 2430e of this title][/us/usc/t22/s2430e].
+        (2) In addition to the application of the provisions relating to repayment of principal under [section 2430d of this title][/us/usc/t22/s2430d] to the reduction of debt under subsection (a)(1) (in accordance with paragraph (1)(A) of this subsection), repayment of principal on a new obligation established under subsection (b) may be made in the local currency of the beneficiary country and deposited in the Tropical Forest Fund of the country in the same manner as the provisions relating to payment of interest on new obligations under [section 2430e of this title][/us/usc/t22/s2430e].
 
     (d) __Authorization of appropriations for fiscal years after fiscal year 2001__ 
 

@@ -31,7 +31,7 @@
 
         (1) The United States may use contractors to provide logistical support to the Multinational Force and Observers under this section in lieu of providing such support through a logistical support unit comprised of members of the United States Armed Forces.
 
-        (2) Notwithstanding subsections (a) and (b) of this section and [section 3426(b) of this title][/us/usc/t22/s3426/b], support by a contractor under this subsection may be provided without reimbursement whenever the President determines that such action enhances or supports the national security interests of the United States.
+        (2) Notwithstanding subsections (a) and (b) and [section 3426(b) of this title][/us/usc/t22/s3426/b], support by a contractor under this subsection may be provided without reimbursement whenever the President determines that such action enhances or supports the national security interests of the United States.
 
 ([Pub. L. 97–132, § 5][/us/pl/97/132/s5], Dec. 29, 1981, [95 Stat. 1695][/us/stat/95/1695]; [Pub. L. 107–107, div. A, title XII, § 1211][/us/pl/107/107/s1211], Dec. 28, 2001, [115 Stat. 1248][/us/stat/115/1248].)
 

@@ -29,7 +29,7 @@
 
     (c) __Congressional review of regulations__ 
 
-        Regulations issued pursuant to subsection (b) of this section shall be submitted to the Congress before they take effect.
+        Regulations issued pursuant to subsection (b) shall be submitted to the Congress before they take effect.
 
 ([Pub. L. 87–195][/us/pl/87/195], pt. I, § 487, as added [Pub. L. 100–690, title IV, § 4503][/us/pl/100/690/s4503], Nov. 18, 1988, [102 Stat. 4285][/us/stat/102/4285]; amended [Pub. L. 102–583, § 6(b)(6)][/us/pl/102/583/s6/b/6], Nov. 2, 1992, [106 Stat. 4932][/us/stat/106/4932]; [Pub. L. 103–447, title I, § 101(e)][/us/pl/103/447/s101/e], Nov. 2, 1994, [108 Stat. 4692][/us/stat/108/4692].)
 

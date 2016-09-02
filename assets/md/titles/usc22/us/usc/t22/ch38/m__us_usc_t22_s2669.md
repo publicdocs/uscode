@@ -21,7 +21,7 @@
 
     (b) for the purpose of promoting and maintaining friendly relations with foreign countries through the prompt settlement of certain claims, settle and pay any meritorious claim against the United States which is presented by a government of a foreign country for damage to or loss of real or personal property of, or personal injury to or death of, any national of such foreign country: Provided, That such claim is not cognizable under any other statute or international agreement of the United States and can be settled for not more than $15,000 or the foreign currency equivalent thereof;
 
-    (c) employ individuals or organizations, by contract, for services abroad, and individuals employed by contract to perform such services shall not by virtue of such employment be considered to be employees of the United States Government for purposes of any law administered by the Office of Personnel Management (except that the Secretary may determine the applicability to such individuals of subsection (f) of this section and of any other law administered by the Secretary concerning the employment of such individuals abroad); and such contracts are authorized to be negotiated, the terms of the contracts to be prescribed, and the work to be performed, where necessary, without regard to such statutory provisions as relate to the negotiation, making, and performance of contracts and performance of work in the United States;
+    (c) employ individuals or organizations, by contract, for services abroad, and individuals employed by contract to perform such services shall not by virtue of such employment be considered to be employees of the United States Government for purposes of any law administered by the Office of Personnel Management (except that the Secretary may determine the applicability to such individuals of subsection (f) and of any other law administered by the Secretary concerning the employment of such individuals abroad); and such contracts are authorized to be negotiated, the terms of the contracts to be prescribed, and the work to be performed, where necessary, without regard to such statutory provisions as relate to the negotiation, making, and performance of contracts and performance of work in the United States;
 
     (d) provide for official functions and courtesies;
 
@@ -43,7 +43,7 @@
 
     (m) pay obligations arising under international agreements, conventions, and binational contracts to the extent otherwise authorized by law;
 
-    (n) exercise the authority provided in subsection (c) of this section, upon the request of the Secretary of Defense or the head of any other department or agency of the United States, to enter into personal service contracts with individuals to perform services in support of the Department of Defense or such other department or agency, as the case may be; and
+    (n) exercise the authority provided in subsection (c), upon the request of the Secretary of Defense or the head of any other department or agency of the United States, to enter into personal service contracts with individuals to perform services in support of the Department of Defense or such other department or agency, as the case may be; and
 
     (o) make administrative corrections or adjustments to an employee’s pay, allowances, or differentials, resulting from mistakes or retroactive personnel actions, as well as provide back pay and other categories of payments under [section 5596 of title 5][/us/usc/t5/s5596], as part of the settlement or compromise of administrative claims or grievances filed against the Department.
 
@@ -87,7 +87,7 @@
 
     1985—[Pub. L. 99–93, § 114][/us/pl/99/93/s114], in provision preceding subsec. (a) substituted “may use funds appropriated or otherwise available to the Secretary to” for “, when funds are appropriated therefor, may”.
 
-    Subsec. (c). [Pub. L. 99–93, § 118(a)][/us/pl/99/93/s118/a], inserted “for purposes of any law administered by the Office of Personnel Management (except that the Secretary may determine the applicability to such individuals of subsection (f) of this section and of any other law administered by the Secretary concerning the employment of such individuals abroad)”.
+    Subsec. (c). [Pub. L. 99–93, § 118(a)][/us/pl/99/93/s118/a], inserted “for purposes of any law administered by the Office of Personnel Management (except that the Secretary may determine the applicability to such individuals of subsection (f) and of any other law administered by the Secretary concerning the employment of such individuals abroad)”.
 
     1984—Subsec. (c). [Pub. L. 98–533, § 303(a)(1)][/us/pl/98/533/s303/a/1], substituted “individuals or organizations” for “aliens” after “employ”, and “, and individuals employed by contract to perform such services shall not by virtue of such employment be considered to be employees of the United States Government”.
 

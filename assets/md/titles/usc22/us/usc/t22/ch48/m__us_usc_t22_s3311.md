@@ -21,7 +21,7 @@
 
     (b) __Agreements__ 
 
-    For purposes of subsection (a) of this section, the term “agreement” includes—
+    For purposes of subsection (a), the term “agreement” includes—
 
         (1) any agreement entered into between the Institute and the governing authorities on Taiwan or the instrumentality established by Taiwan; and
 

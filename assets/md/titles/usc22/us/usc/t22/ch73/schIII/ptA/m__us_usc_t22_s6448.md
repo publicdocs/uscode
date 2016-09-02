@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    Subject to subsection (b) of this section, the President shall cause to be published in the Federal Register the following:
+    Subject to subsection (b), the President shall cause to be published in the Federal Register the following:
 
         (1) __Determinations of governments, officials, and entities of particular concern__ 
 

@@ -21,11 +21,11 @@
 
     (b) __Authority for discounted sales of debt__ 
 
-        Notwithstanding any other provision of law, the President may undertake the discounted sale, to private purchasers, of United States Government debt obligations of an East European country which has taken substantive steps toward political democracy and economic pluralism, subject to subsection (c) of this section.
+        Notwithstanding any other provision of law, the President may undertake the discounted sale, to private purchasers, of United States Government debt obligations of an East European country which has taken substantive steps toward political democracy and economic pluralism, subject to subsection (c).
 
     (c) __Condition__ 
 
-    An obligation may be sold under subsection (b) of this section only if the sale will facilitate so-called debt-for-equity or debt-for-development swaps wherein such newly privatized debt is exchanged by the new holder of the obligation for—
+    An obligation may be sold under subsection (b) only if the sale will facilitate so-called debt-for-equity or debt-for-development swaps wherein such newly privatized debt is exchanged by the new holder of the obligation for—
 
         (1) local currencies, policy commitments, or other assets needed for development or other economic activities, or
 

@@ -25,7 +25,7 @@
 
     (c) __Grievances based on alleged discrimination__ 
 
-        (1) In applying subsection (a) of this section with respect to an alleged violation of a law, rule, regulation, or policy directive referred to in [section 4131(a)(1)(H) of this title][/us/usc/t22/s4131/a/1/H], the reference to “2 years” shall be deemed to read “180 days”, subject to paragraph (2).
+        (1) In applying subsection (a) with respect to an alleged violation of a law, rule, regulation, or policy directive referred to in [section 4131(a)(1)(H) of this title][/us/usc/t22/s4131/a/1/H], the reference to “2 years” shall be deemed to read “180 days”, subject to paragraph (2).
 
         (2)
 

@@ -27,11 +27,11 @@
 
     (b) __Disposition of proceeds; report to Congress__ 
 
-        Proceeds derived from dispositions, payments, or gifts under subsection (a) of this section shall, notwithstanding the provisions of any other law, be applied toward acquisition, construction, or other purposes authorized by this chapter or held in the Foreign Service Buildings Fund, as in the judgment of the Secretary may best serve the Government’s interest: Provided, That the Secretary shall report all such transactions annually to the Congress with the budget estimates of the Department of State.
+        Proceeds derived from dispositions, payments, or gifts under subsection (a) shall, notwithstanding the provisions of any other law, be applied toward acquisition, construction, or other purposes authorized by this chapter or held in the Foreign Service Buildings Fund, as in the judgment of the Secretary may best serve the Government’s interest: Provided, That the Secretary shall report all such transactions annually to the Congress with the budget estimates of the Department of State.
 
     (c) __Proceeds from sale of furniture, furnishings, and equipment__ 
 
-        Notwithstanding subsection (b) of this section, proceeds from the disposition of furniture, furnishings, and equipment from diplomatic and consular establishments in foreign countries shall be deposited into the Foreign Service Building Fund to be available for obligation or expenditure as directed by the Secretary.
+        Notwithstanding subsection (b), proceeds from the disposition of furniture, furnishings, and equipment from diplomatic and consular establishments in foreign countries shall be deposited into the Foreign Service Building Fund to be available for obligation or expenditure as directed by the Secretary.
 
 ([May 7, 1926, ch. 250, § 9][/us/act/1926-05-07/ch250/s9], as added [Apr. 19, 1945, ch. 78][/us/act/1945-04-19/ch78], [59 Stat. 53][/us/stat/59/53]; amended [Pub. L. 88–94, § 2(e)][/us/pl/88/94/s2/e], Aug. 12, 1963, [77 Stat. 122][/us/stat/77/122]; [Pub. L. 89–636, § 3][/us/pl/89/636/s3], Oct. 10, 1966, [80 Stat. 882][/us/stat/80/882]; [Pub. L. 99–399, title IV, § 401(h)(2)][/us/pl/99/399/s401/h/2], Aug. 27, 1986, [100 Stat. 863][/us/stat/100/863]; [Pub. L. 101–246, title I, § 116(c)][/us/pl/101/246/s116/c], Feb. 16, 1990, [104 Stat. 25][/us/stat/104/25].)
 

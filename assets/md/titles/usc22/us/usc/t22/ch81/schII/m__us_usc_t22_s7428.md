@@ -25,11 +25,11 @@
 
     (b) __Description of measures to achieve enhanced protection for members of the Armed Forces of the United States__ 
 
-        Not later than 1 year after August 2, 2002, the President should transmit to the appropriate congressional committees a description of modifications to command and operational control arrangements within military alliances to which the United States is a party that could be made in order to reduce any risks to members of the Armed Forces of the United States identified pursuant to subsection (a)(2) of this section.
+        Not later than 1 year after August 2, 2002, the President should transmit to the appropriate congressional committees a description of modifications to command and operational control arrangements within military alliances to which the United States is a party that could be made in order to reduce any risks to members of the Armed Forces of the United States identified pursuant to subsection (a)(2).
 
     (c) __Submission in classified form__ 
 
-        The report under subsection (a) of this section, and the description of measures under subsection (b) of this section, or appropriate parts thereof, may be submitted in classified form.
+        The report under subsection (a), and the description of measures under subsection (b), or appropriate parts thereof, may be submitted in classified form.
 
 ([Pub. L. 107–206, title II, § 2009][/us/pl/107/206/s2009], Aug. 2, 2002, [116 Stat. 906][/us/stat/116/906].)
 

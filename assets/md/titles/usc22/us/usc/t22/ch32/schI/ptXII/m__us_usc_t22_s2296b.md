@@ -25,7 +25,7 @@
 
     (b) __Authorization for programs__ 
 
-    To carry out the purposes of subsection (a) of this section, the following types of programs for the countries of the South Caucasus and Central Asia may be used to support the activities described in subsection (c) of this section:
+    To carry out the purposes of subsection (a), the following types of programs for the countries of the South Caucasus and Central Asia may be used to support the activities described in subsection (c):
 
         (1) Activities by the Export-Import Bank to complete the review process for eligibility for financing under the Export-Import Bank Act of 1945 \[[12 U.S.C. 635][/us/usc/t12/s635] et seq.\].
 
@@ -35,7 +35,7 @@
 
     (c) __Activities supported__ 
 
-        Activities that may be supported by programs under subsection (b) of this section include promoting actively the participation of United States companies and investors in the planning, financing, and construction of infrastructure for communications, transportation, including air transportation, and energy and trade including highways, railroads, port facilities, shipping, banking, insurance, telecommunications networks, and gas and oil pipelines.
+        Activities that may be supported by programs under subsection (b) include promoting actively the participation of United States companies and investors in the planning, financing, and construction of infrastructure for communications, transportation, including air transportation, and energy and trade including highways, railroads, port facilities, shipping, banking, insurance, telecommunications networks, and gas and oil pipelines.
 
 ([Pub. L. 87–195][/us/pl/87/195], pt. I, § 499B, as added [Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 596(b)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–124.)
 

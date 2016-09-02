@@ -21,7 +21,7 @@
 
     (b) __Licensing ban__ 
 
-        The prohibition on the issuance of a license for export of crime control and detection instruments or equipment under [section 2304(a)(2) of this title][/us/usc/t22/s2304/a/2] shall apply to the export and reexport of any item included pursuant to subsection (a) of this section on the list of crime control instruments.
+        The prohibition on the issuance of a license for export of crime control and detection instruments or equipment under [section 2304(a)(2) of this title][/us/usc/t22/s2304/a/2] shall apply to the export and reexport of any item included pursuant to subsection (a) on the list of crime control instruments.
 
 ([Pub. L. 105–292, title IV, § 423][/us/pl/105/292/s423], Oct. 27, 1998, [112 Stat. 2810][/us/stat/112/2810].)
 

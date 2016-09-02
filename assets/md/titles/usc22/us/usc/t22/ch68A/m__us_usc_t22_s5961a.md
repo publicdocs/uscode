@@ -17,11 +17,11 @@
 
     (a) __On-site manager requirement__ 
 
-        Before obligating any defense nuclear nonproliferation funds for a project described in subsection (b) of this section, the Secretary of Energy shall appoint one on-site manager for that project. The manager shall be appointed from among employees of the Federal Government.
+        Before obligating any defense nuclear nonproliferation funds for a project described in subsection (b), the Secretary of Energy shall appoint one on-site manager for that project. The manager shall be appointed from among employees of the Federal Government.
 
     (b) __Projects covered__ 
 
-    Subsection (a) of this section applies to a project—
+    Subsection (a) applies to a project—
 
         (1) to be located in a state of the former Soviet Union;
 
@@ -31,7 +31,7 @@
 
     (c) __Duties of on-site manager__ 
 
-    The on-site manager appointed under subsection (a) of this section shall—
+    The on-site manager appointed under subsection (a) shall—
 
         (1) develop, in cooperation with representatives from governments of countries participating in the project, a list of those steps or activities critical to achieving the project’s disarmament or nonproliferation goals;
 
@@ -49,9 +49,9 @@
 
     (e) __Steps or activities__ 
 
-    Steps or activities referred to in subsection (c)(1) of this section are those activities that, if not completed, will prevent a project from achieving its disarmament or nonproliferation goals, including, at a minimum, the following:
+    Steps or activities referred to in subsection (c)(1) are those activities that, if not completed, will prevent a project from achieving its disarmament or nonproliferation goals, including, at a minimum, the following:
 
-        (1) Identification and acquisition of permits (as defined in subsection (g) of this section).
+        (1) Identification and acquisition of permits (as defined in subsection (g)).
 
         (2) Verification that the items, substances, or capabilities to be dismantled, secured, or otherwise modified are available for dismantlement, securing, or modification.
 
@@ -59,7 +59,7 @@
 
     (f) __Notification to Congress__ 
 
-        In any case in which the Secretary of Energy directs an on-site manager to resume United States participation in a project under subsection (c)(4) of this section, the Secretary shall concurrently notify Congress of such direction.
+        In any case in which the Secretary of Energy directs an on-site manager to resume United States participation in a project under subsection (c)(4), the Secretary shall concurrently notify Congress of such direction.
 
     (g) __Permit defined__ 
 

@@ -47,11 +47,11 @@
 
     (b) __Provisions to be included in report__ 
 
-    The report required under subsection (a) of this section should to the extent feasible include (but not be limited to)—
+    The report required under subsection (a) should to the extent feasible include (but not be limited to)—
 
         (1)
 
-         with respect to subsection (a)(1)(A) of this section—
+         with respect to subsection (a)(1)(A)—
 
             (A) a review of major counterterrorism efforts undertaken by countries which are the subject of such report, including, as appropriate, steps taken in international fora;
 
@@ -73,7 +73,7 @@
 
         (2)
 
-         with respect to subsection (a)(1)(B) of this section—
+         with respect to subsection (a)(1)(B)—
 
             (A) the extent of knowledge by the government of the country with respect to terrorist activities in the territory of the country; and
 
@@ -89,7 +89,7 @@
 
         (3)
 
-  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Another par. (3) and par. (4) follow par. (5). </sup></sup>  with respect to subsection (a)(2) of this section, any—
+  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Another par. (3) and par. (4) follow par. (5). </sup></sup>  with respect to subsection (a)(2), any—
 
             (A) significant financial support provided by foreign governments to those groups directly, or provided in support of their activities;
 
@@ -123,9 +123,9 @@
 
     (c) __Classification of report__ 
 
-        (1) Except as provided in paragraph (2), the report required under subsection (a) of this section shall, to the extent practicable, be submitted in an unclassified form and may be accompanied by a classified appendix.
+        (1) Except as provided in paragraph (2), the report required under subsection (a) shall, to the extent practicable, be submitted in an unclassified form and may be accompanied by a classified appendix.
 
-        (2) If the Secretary of State determines that the transmittal of the information with respect to a foreign country under paragraph (3) or (4) of subsection (a) of this section in classified form would make more likely the cooperation of the government of the foreign country as specified in such paragraph, the Secretary may transmit the information under such paragraph in classified form.
+        (2) If the Secretary of State determines that the transmittal of the information with respect to a foreign country under paragraph (3) or (4) of subsection (a) in classified form would make more likely the cooperation of the government of the foreign country as specified in such paragraph, the Secretary may transmit the information under such paragraph in classified form.
 
     (d) __Definitions__ 
 
@@ -163,9 +163,9 @@
 
     (e) __Reporting period__ 
 
-        (1) The report required under subsection (a) of this section shall cover the events of the calendar year preceding the year in which the report is submitted.
+        (1) The report required under subsection (a) shall cover the events of the calendar year preceding the year in which the report is submitted.
 
-        (2) The report required by subsection (a) of this section to be submitted by March 31, 1988, may be submitted no later than August 31, 1988.
+        (2) The report required by subsection (a) to be submitted by March 31, 1988, may be submitted no later than August 31, 1988.
 
 ([Pub. L. 100–204, title I, § 140][/us/pl/100/204/s140], Dec. 22, 1987, [101 Stat. 1347][/us/stat/101/1347]; [Pub. L. 101–246, title I, § 122][/us/pl/101/246/s122], Feb. 16, 1990, [104 Stat. 27][/us/stat/104/27]; [Pub. L. 103–236, title I, § 133(b)(1)][/us/pl/103/236/s133/b/1], Apr. 30, 1994, [108 Stat. 395][/us/stat/108/395]; [Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title V, § 578\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–169; [Pub. L. 108–458, title VII, § 7102(d)(1)][/us/pl/108/458/s7102/d/1]–(3), Dec. 17, 2004, [118 Stat. 3777][/us/stat/118/3777], 3778; [Pub. L. 108–487, title VII, § 701(a)][/us/pl/108/487/s701/a], Dec. 23, 2004, [118 Stat. 3961][/us/stat/118/3961].)
 

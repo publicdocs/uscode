@@ -21,13 +21,13 @@
 
     (b) __Selection and appointment of scholars__ 
 
-        (1) Scholars participating in the Visiting Scholars Program shall be selected by a five-member board described in subsection (c) of this section.
+        (1) Scholars participating in the Visiting Scholars Program shall be selected by a five-member board described in subsection (c).
 
         (2) Each visiting scholar shall serve a term of one year, except that such term may be extended for one additional one-year period.
 
     (c) __Establishment of selection board__ 
 
-        The board referred to in subsection (b) of this section shall be composed of the Director of the institution, who shall serve as chairperson, and four other members appointed by the Secretary of State.
+        The board referred to in subsection (b) shall be composed of the Director of the institution, who shall serve as chairperson, and four other members appointed by the Secretary of State.
 
 ([Pub. L. 96–465, title I, § 707][/us/pl/96/465/s707], as added [Pub. L. 101–246, title I, § 144(a)][/us/pl/101/246/s144/a], Feb. 16, 1990, [104 Stat. 36][/us/stat/104/36]; amended [Pub. L. 103–236, title I, § 126(3)][/us/pl/103/236/s126/3], Apr. 30, 1994, [108 Stat. 394][/us/stat/108/394].)
 

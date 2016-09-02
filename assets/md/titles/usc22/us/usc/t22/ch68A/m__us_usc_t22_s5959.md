@@ -17,15 +17,15 @@
 
     (a) __Annual report__ 
 
-        In any year in which the budget of the President under [section 1105 of title 31][/us/usc/t31/s1105] for the fiscal year beginning in such year requests funds for the Department of Defense for assistance or activities under Cooperative Threat Reduction programs with the states of the former Soviet Union, the Secretary of Defense shall submit to Congress a report on activities and assistance during the preceding fiscal year under Cooperative Threat Reduction programs setting forth the matters in subsection (c) of this section.
+        In any year in which the budget of the President under [section 1105 of title 31][/us/usc/t31/s1105] for the fiscal year beginning in such year requests funds for the Department of Defense for assistance or activities under Cooperative Threat Reduction programs with the states of the former Soviet Union, the Secretary of Defense shall submit to Congress a report on activities and assistance during the preceding fiscal year under Cooperative Threat Reduction programs setting forth the matters in subsection (c).
 
     (b) __Deadline for report__ 
 
-        The report under subsection (a) of this section shall be submitted not later than the first Monday in February of a year.
+        The report under subsection (a) shall be submitted not later than the first Monday in February of a year.
 
     (c) __Matters to be included__ 
 
-    The report under subsection (a) of this section in a year shall set forth the following:
+    The report under subsection (a) in a year shall set forth the following:
 
         (1) An estimate of the total amount that will be required to be expended by the United States in order to achieve the objectives of the Cooperative Threat Reduction programs.
 
@@ -89,13 +89,13 @@
 
     (d) __Input of DCI__ 
 
-        The Director of Central Intelligence shall submit to the Secretary of Defense the views of the Director on any matters covered by subsection (c)(5) of this section in a report under subsection (a) of this section. Such views shall be included in such report as a classified annex to such report.
+        The Director of Central Intelligence shall submit to the Secretary of Defense the views of the Director on any matters covered by subsection (c)(5) in a report under subsection (a). Such views shall be included in such report as a classified annex to such report.
 
     (e) __Repealed.__  __[__  __Pub. L. 109–163, div. A, title XIII, § 1305__  __][/us/pl/109/163/s1305]__  __,__  __Jan. 6, 2006__  __,__  __[__  __119 Stat. 3474__  __][/us/stat/119/3474]__ 
 
     (f) __First report__ 
 
-        The first report submitted under subsection (a) of this section shall be submitted in 2001.
+        The first report submitted under subsection (a) shall be submitted in 2001.
 
     (g) __Omitted__ 
 

@@ -37,7 +37,7 @@
 
         (1) __In general__ 
 
-            Of the amounts made available to carry out chapter 4 of part II of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2346][/us/usc/t22/s2346] et seq.\] for fiscal year 2003, $21,500,000 is authorized to be available to the Fund for carrying out the purposes described in subsection (b) of this section. Amounts made available to the Fund under this paragraph shall also be deemed to have been made available under section 116(e) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151n(e)][/us/usc/t22/s2151n/e]).
+            Of the amounts made available to carry out chapter 4 of part II of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2346][/us/usc/t22/s2346] et seq.\] for fiscal year 2003, $21,500,000 is authorized to be available to the Fund for carrying out the purposes described in subsection (b). Amounts made available to the Fund under this paragraph shall also be deemed to have been made available under section 116(e) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151n(e)][/us/usc/t22/s2151n/e]).
 
         (2) __Allocation of funds for the Documentation Center of Cambodia__ 
 

@@ -27,7 +27,7 @@
 
     (b) __United States-Cuba council__ 
 
-    Upon making a determination under subsection (c)(3) of this section that a democratically elected government in Cuba is in power, the President, after consultation with the coordinating official, is authorized to designate a United States-Cuba council—
+    Upon making a determination under subsection (c)(3) that a democratically elected government in Cuba is in power, the President, after consultation with the coordinating official, is authorized to designate a United States-Cuba council—
 
         (1) to ensure coordination between the United States Government and the private sector in responding to change in Cuba, and in promoting market-based development in Cuba; and
 

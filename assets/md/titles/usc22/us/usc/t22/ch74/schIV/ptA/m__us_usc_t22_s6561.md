@@ -17,11 +17,11 @@
 
     (a) __In general__ 
 
-        Except for the components specified in subsection (b) of this section, the United States International Development Cooperation Agency (including the Institute for Scientific and Technological Cooperation) is abolished.
+        Except for the components specified in subsection (b), the United States International Development Cooperation Agency (including the Institute for Scientific and Technological Cooperation) is abolished.
 
     (b) __AID and OPIC exempted__ 
 
-        Subsection (a) of this section does not apply to the Agency for International Development or the Overseas Private Investment Corporation.
+        Subsection (a) does not apply to the Agency for International Development or the Overseas Private Investment Corporation.
 
 ([Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIV, § 1411, Oct. 21, 1998, [112 Stat. 2681–790][/us/stat/112/2681-790].)
 

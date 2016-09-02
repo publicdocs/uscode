@@ -53,7 +53,7 @@
 
     (c) __Exception__ 
 
-        The requirement under subsection (b)(2)(A) of this section shall not apply to inspections of United States chemical weapons destruction facilities (as used within the meaning of part IV(C)(13) of the Verification Annex to the Convention).
+        The requirement under subsection (b)(2)(A) shall not apply to inspections of United States chemical weapons destruction facilities (as used within the meaning of part IV(C)(13) of the Verification Annex to the Convention).
 
 ([Pub. L. 105–277, div. I, title III, § 303][/us/pl/105/277/s303], Oct. 21, 1998, [112 Stat. 2681–873][/us/stat/112/2681-873]; [Pub. L. 106–280, title III, § 305][/us/pl/106/280/s305], Oct. 6, 2000, [114 Stat. 854][/us/stat/114/854]; [Pub. L. 107–107, div. A, title XII, § 1204(a)][/us/pl/107/107/s1204/a], Dec. 28, 2001, [115 Stat. 1247][/us/stat/115/1247].)
 

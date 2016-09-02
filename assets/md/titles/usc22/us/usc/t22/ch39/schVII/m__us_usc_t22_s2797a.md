@@ -51,15 +51,15 @@
 
     (b) __Discretionary sanctions__ 
 
-        In the case of any determination made pursuant to subsection (a) of this section, the President may pursue any penalty provided in [section 2778(c) of this title][/us/usc/t22/s2778/c].
+        In the case of any determination made pursuant to subsection (a), the President may pursue any penalty provided in [section 2778(c) of this title][/us/usc/t22/s2778/c].
 
     (c) __Presumption__ 
 
-        In determining whether to apply sanctions under subsection (a) of this section to a United States person involved in the export, transfer, or trade of an item on the MTCR Annex, it should be a rebuttable presumption that such item is designed for use in a missile listed in the MTCR Annex if the President determines that the final destination of the item is a country the government of which the Secretary of State has determined, for purposes of 2405(j)(1)(A)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “section”. </sup></sup>  of title 50, Appendix, has repeatedly provided support for acts of international terrorism.
+        In determining whether to apply sanctions under subsection (a) to a United States person involved in the export, transfer, or trade of an item on the MTCR Annex, it should be a rebuttable presumption that such item is designed for use in a missile listed in the MTCR Annex if the President determines that the final destination of the item is a country the government of which the Secretary of State has determined, for purposes of 2405(j)(1)(A)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “section”. </sup></sup>  of title 50, Appendix, has repeatedly provided support for acts of international terrorism.
 
     (d) __Waiver__ 
 
-    The President may waive the imposition of sanctions under subsection (a) of this section with respect to a product or service if the President certifies to the Congress that—
+    The President may waive the imposition of sanctions under subsection (a) with respect to a product or service if the President certifies to the Congress that—
 
         (1) the product or service is essential to the national security of the United States; and
 

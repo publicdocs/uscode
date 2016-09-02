@@ -21,7 +21,7 @@
 
         (2) Only those officers and employees who have sworn to observe the provisions of section 5(c) of the International Investment and Trade in Services Survey Act ([22 U.S.C. 3104(c)][/us/usc/t22/s3104/c]) may have access under this Act to information to which such provisions apply, and such officers and employees are subject to the penalties for improper disclosure of such information provided in section 5(e) of that Act \[[22 U.S.C. 3104(e)][/us/usc/t22/s3104/e]\] to the same extent as such section applies to officers or employees designated to perform functions under that Act \[[22 U.S.C. 3101][/us/usc/t22/s3101] et seq.\].
 
-        (3) Those officers and employees referred to in paragraphs (1) and (2) of this section shall be subject to any other restriction or penalty imposed by law with respect to disclosure of information to which such officers or employees have access under this Act.
+        (3) Those officers and employees referred to in paragraphs (1) and (2) of this section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection”. </sup></sup>  shall be subject to any other restriction or penalty imposed by law with respect to disclosure of information to which such officers or employees have access under this Act.
 
     (b) __Violations and penalties__ 
 
@@ -33,7 +33,7 @@
 
     (d) __Information immune from process__ 
 
-        Information obtained under this Act shall be immune from legal process and shall not be used as evidence or for any purpose in any Federal, State, or local government action, suit, or other administrative or judicial proceeding except as necessary to enforce requirements imposed by law on the collection of information, to enforce the provisions of subsections (b) and (c) of this section.
+        Information obtained under this Act shall be immune from legal process and shall not be used as evidence or for any purpose in any Federal, State, or local government action, suit, or other administrative or judicial proceeding except as necessary to enforce requirements imposed by law on the collection of information, to enforce the provisions of subsections (b) and (c).
 
     (e) __Implementation__ 
 

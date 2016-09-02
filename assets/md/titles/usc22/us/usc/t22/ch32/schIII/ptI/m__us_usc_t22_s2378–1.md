@@ -21,11 +21,11 @@
 
     (b) __Exception__ 
 
-        Assistance may be furnished without regard to the restriction in subsection (a) of this section if the President determines that to do so is in the national security interest of the United States.
+        Assistance may be furnished without regard to the restriction in subsection (a) if the President determines that to do so is in the national security interest of the United States.
 
     (c) __Notice__ 
 
-        Prior to making any determination under subsection (b) of this section, the President shall notify the Committee on International Relations, the Committee on Foreign Relations, and the Committees on Appropriations of the Senate and House of Representatives of his intention to make such a determination, the effective date of the determination, and the reasons for making the determination.
+        Prior to making any determination under subsection (b), the President shall notify the Committee on International Relations, the Committee on Foreign Relations, and the Committees on Appropriations of the Senate and House of Representatives of his intention to make such a determination, the effective date of the determination, and the reasons for making the determination.
 
 ([Pub. L. 87–195][/us/pl/87/195], pt. III, § 620I, as added [Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title V, § 559\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–161.)
 

@@ -27,7 +27,7 @@
 
     (c) __Definitions__ 
 
-    For purposes of subsection (a) of this section—
+    For purposes of subsection (a)—
 
         (1)
 

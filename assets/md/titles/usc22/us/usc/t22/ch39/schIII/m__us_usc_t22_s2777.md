@@ -25,7 +25,7 @@
 
     (c) __Credit of funds to reserve under section 2764(c)__ 
 
-        Notwithstanding the provisions of subsection (b) of this section, to the extent that any of the funds constituting the reserve under [section 2764(c) of this title][/us/usc/t22/s2764/c] are paid out for a claim arising out of a loan guaranteed under [section 2764 of this title][/us/usc/t22/s2764], amounts received from a foreign government or international organization after the date of such payment, with respect to such claim, shall be credited to such reserve, shall be merged with the funds in such reserve, and shall be available for any purpose for which funds in such reserve are available.
+        Notwithstanding the provisions of subsection (b), to the extent that any of the funds constituting the reserve under [section 2764(c) of this title][/us/usc/t22/s2764/c] are paid out for a claim arising out of a loan guaranteed under [section 2764 of this title][/us/usc/t22/s2764], amounts received from a foreign government or international organization after the date of such payment, with respect to such claim, shall be credited to such reserve, shall be merged with the funds in such reserve, and shall be available for any purpose for which funds in such reserve are available.
 
 ([Pub. L. 90–629][/us/pl/90/629], ch. 3, § 37, Oct. 22, 1968, [82 Stat. 1326][/us/stat/82/1326]; [Pub. L. 93–189, § 25(11)][/us/pl/93/189/s25/11], Dec. 17, 1973, [87 Stat. 731][/us/stat/87/731]; [Pub. L. 96–533, title I][/us/pl/96/533], §§ 104(b), 105(e)(1), Dec. 16, 1980, [94 Stat. 3133][/us/stat/94/3133], 3135.)
 

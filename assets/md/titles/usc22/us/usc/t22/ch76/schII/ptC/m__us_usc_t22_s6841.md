@@ -21,7 +21,7 @@
 
     (b) __Allocation of funds__ 
 
-        Of the amounts authorized to be appropriated by subsection (a) of this section for the fiscal years 2001 and 2002, $50,000,000 are authorized to be available each such fiscal year only for programs that benefit orphans.
+        Of the amounts authorized to be appropriated by subsection (a) for the fiscal years 2001 and 2002, $50,000,000 are authorized to be available each such fiscal year only for programs that benefit orphans.
 
 ([Pub. L. 106–264, title I, § 141][/us/pl/106/264/s141], Aug. 19, 2000, [114 Stat. 758][/us/stat/114/758].)
 

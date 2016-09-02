@@ -21,7 +21,7 @@
 
     (b) __Availability of funds__ 
 
-        Amounts authorized to be appropriated under subparagraph (a) of this section are authorized to remain available until expended but not later than the date of termination of the Commission.
+        Amounts authorized to be appropriated under subparagraph (a) are authorized to remain available until expended but not later than the date of termination of the Commission.
 
 ([Pub. L. 105–292, title II, § 207][/us/pl/105/292/s207], formerly § 205, Oct. 27, 1998, [112 Stat. 2800][/us/stat/112/2800]; renumbered § 207 and amended [Pub. L. 106–55, § 1(b)(2)][/us/pl/106/55/s1/b/2], (4), Aug. 17, 1999, [113 Stat. 401][/us/stat/113/401], 403; [Pub. L. 107–228, div. A, title VI, § 681(e)][/us/pl/107/228/s681/e], Sept. 30, 2002, [116 Stat. 1409][/us/stat/116/1409]; [Pub. L. 112–75, § 4][/us/pl/112/75/s4], Dec. 23, 2011, [125 Stat. 1273][/us/stat/125/1273].)
 

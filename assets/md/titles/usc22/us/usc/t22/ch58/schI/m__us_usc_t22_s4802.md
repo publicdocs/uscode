@@ -105,7 +105,7 @@
 
     (d) __Federal agency__ 
 
-        As used in this subchapter and subchapter III of this chapter, the term “Federal agency” includes any department or agency of the United States Government.
+        As used in this subchapter and subchapter III, the term “Federal agency” includes any department or agency of the United States Government.
 
 ([Pub. L. 99–399, title I, § 103][/us/pl/99/399/s103], Aug. 27, 1986, [100 Stat. 856][/us/stat/100/856]; [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title II, § 201\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–141; [Pub. L. 100–461, title II, § 201][/us/pl/100/461/s201], Oct. 1, 1988, [102 Stat. 2268–10][/us/stat/102/2268-10]; [Pub. L. 101–246, title I, § 115(b)][/us/pl/101/246/s115/b], Feb. 16, 1990, [104 Stat. 22][/us/stat/104/22]; [Pub. L. 103–236, title I, § 162(g)(2)][/us/pl/103/236/s162/g/2], Apr. 30, 1994, [108 Stat. 406][/us/stat/108/406]; [Pub. L. 103–415, § 1(f)(4)(A)(i)][/us/pl/103/415/s1/f/4/A/i], Oct. 25, 1994, [108 Stat. 4300][/us/stat/108/4300]; [Pub. L. 107–228, div. A, title V, § 505(a)][/us/pl/107/228/s505/a], Sept. 30, 2002, [116 Stat. 1393][/us/stat/116/1393].)
 

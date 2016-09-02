@@ -21,7 +21,7 @@
 
     (b) __Waiver__ 
 
-        The President may waive the prohibition set forth in subsection (a) of this section with respect to a specific transaction if the President determines that the transaction is important to the national interests of the United States.
+        The President may waive the prohibition set forth in subsection (a) with respect to a specific transaction if the President determines that the transaction is important to the national interests of the United States.
 
 ([Pub. L. 90–629][/us/pl/90/629], ch. 3, § 40A, as added [Pub. L. 104–132, title III, § 330][/us/pl/104/132/s330], Apr. 24, 1996, [110 Stat. 1258][/us/stat/110/1258].)
 

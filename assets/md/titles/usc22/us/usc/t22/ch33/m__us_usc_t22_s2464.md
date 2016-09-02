@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        The Secretary shall make available funds for international exchanges to provide opportunities to researchers in developing countries to participate in activities related to ethical issues in human subject research, as described in subsection (c) of this section.
+        The Secretary shall make available funds for international exchanges to provide opportunities to researchers in developing countries to participate in activities related to ethical issues in human subject research, as described in subsection (c).
 
     (b) __Coordination with other programs__ 
 
@@ -25,7 +25,7 @@
 
     (c) __Ethical issues in human subject research__ 
 
-        For purposes of subsection (a) of this section, the phrase “activities related to ethical issues in human subject research” includes courses of study, conferences, and fora on development of and compliance with international ethical standards for clinical trials involving human subjects, particularly with respect to responsibilities of researchers to individuals and local communities participating in such trials, and on management and monitoring of such trials based on such international ethical standards.
+        For purposes of subsection (a), the phrase “activities related to ethical issues in human subject research” includes courses of study, conferences, and fora on development of and compliance with international ethical standards for clinical trials involving human subjects, particularly with respect to responsibilities of researchers to individuals and local communities participating in such trials, and on management and monitoring of such trials based on such international ethical standards.
 
 ([Pub. L. 107–228, div. A, title II, § 228][/us/pl/107/228/s228], Sept. 30, 2002, [116 Stat. 1371][/us/stat/116/1371].)
 

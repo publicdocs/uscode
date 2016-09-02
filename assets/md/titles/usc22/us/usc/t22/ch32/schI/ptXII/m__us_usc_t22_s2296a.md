@@ -21,11 +21,11 @@
 
     (b) __Authorization for assistance__ 
 
-        To carry out the purpose of subsection (a) of this section, the President is authorized to provide assistance for the countries of the South Caucasus and Central Asia to support the activities described in subsection (c) of this section.
+        To carry out the purpose of subsection (a), the President is authorized to provide assistance for the countries of the South Caucasus and Central Asia to support the activities described in subsection (c).
 
     (c) __Activities supported__ 
 
-        In addition to the activities described in [section 2295 of this title][/us/usc/t22/s2295], activities supported by assistance under subsection (b) of this section should support the development of the structures and means necessary for the growth of private sector economies based upon market principles.
+        In addition to the activities described in [section 2295 of this title][/us/usc/t22/s2295], activities supported by assistance under subsection (b) should support the development of the structures and means necessary for the growth of private sector economies based upon market principles.
 
 ([Pub. L. 87–195][/us/pl/87/195], pt. I, § 499A, as added [Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 596(b)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–124.)
 

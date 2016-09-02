@@ -69,7 +69,7 @@
 
         (3) To hold an ownership interest in any association or other entity established for the purposes of sharing risks under investment insurance.
 
-        (4) To issue, upon such terms and conditions as it may determine, reinsurance of liabilities assumed by other insurers or groups thereof in respect of risks referred to in subsection (a)(1) of this section.    The amount of reinsurance of liabilities under this subpart which the Corporation may issue shall not in the aggregate exceed at any one time an amount equal to the amount authorized for the maximum contingent liability outstanding at any one time under section 2195(a)(1) 1 of this title. All reinsurance issued by the Corporation under this subsection shall require that the reinsured party retain for his own account specified portions of liability, whether first loss or otherwise.
+        (4) To issue, upon such terms and conditions as it may determine, reinsurance of liabilities assumed by other insurers or groups thereof in respect of risks referred to in subsection (a)(1).    The amount of reinsurance of liabilities under this subpart which the Corporation may issue shall not in the aggregate exceed at any one time an amount equal to the amount authorized for the maximum contingent liability outstanding at any one time under section 2195(a)(1) 1 of this title. All reinsurance issued by the Corporation under this subsection shall require that the reinsured party retain for his own account specified portions of liability, whether first loss or otherwise.
 
     (g) __Pilot equity finance program__ 
 
@@ -79,7 +79,7 @@
 
             (A) the aggregate amount of the Corporation’s equity investment with respect to any project shall not exceed 30 percent of the aggregate amount of all equity investment made with respect to such project at the time that the Corporation’s equity investment is made, except for securities acquired through the enforcement of any lien, pledge, or contractual arrangement as a result of a default by any party under any agreement relating to the terms of the Corporation’s investment; and
 
-            (B) the Corporation’s equity investment under this subsection with respect to any project, when added to any other investments made or guaranteed by the Corporation under subsection (b) or (c) of this section with respect to such project, shall not cause the aggregate amount of all such investment to exceed, at the time any such investment is made or guaranteed by the Corporation, 75 percent of the total investment committed to such project as determined by the Corporation.
+            (B) the Corporation’s equity investment under this subsection with respect to any project, when added to any other investments made or guaranteed by the Corporation under subsection (b) or (c) with respect to such project, shall not cause the aggregate amount of all such investment to exceed, at the time any such investment is made or guaranteed by the Corporation, 75 percent of the total investment committed to such project as determined by the Corporation.
 
             The determination of the Corporation under subparagraph (B) shall be conclusive for purposes of the Corporation’s authority to make or guarantee any such investment.
 

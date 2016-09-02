@@ -29,11 +29,11 @@
 
     (b) __United States Information Agency individuals__ 
 
-        In the case of individuals in the Foreign Service in the United States Information Agency who immediately before October 17, 1980, are covered by a collective bargaining agreement between the Agency and the exclusive representative of those individuals, the 3-year period referred to in subsection (a) of this section shall begin on July 1, 1981.
+        In the case of individuals in the Foreign Service in the United States Information Agency who immediately before October 17, 1980, are covered by a collective bargaining agreement between the Agency and the exclusive representative of those individuals, the 3-year period referred to in subsection (a) shall begin on July 1, 1981.
 
     (c) __Department of State security officers__ 
 
-        The three-year period referred to in subsection (a) of this section shall be extended for an additional period not to exceed one year from November 22, 1983, in the case of Department of State security officers who are members of the Service and who were initially ineligible for conversion under that subsection because they were available for worldwide assignment and there was a need for their services in the Service, but as to whom subsequent events require the services of these members (and of those later employed who are similarly situated) only or primarily for domestic functions.
+        The three-year period referred to in subsection (a) shall be extended for an additional period not to exceed one year from November 22, 1983, in the case of Department of State security officers who are members of the Service and who were initially ineligible for conversion under that subsection because they were available for worldwide assignment and there was a need for their services in the Service, but as to whom subsequent events require the services of these members (and of those later employed who are similarly situated) only or primarily for domestic functions.
 
 ([Pub. L. 96–465, title II, § 2104][/us/pl/96/465/s2104], Oct. 17, 1980, [94 Stat. 2150][/us/stat/94/2150]; [Pub. L. 97–241, title III, § 303(b)][/us/pl/97/241/s303/b], Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291]; [Pub. L. 98–164, title I, § 132][/us/pl/98/164/s132], Nov. 22, 1983, [97 Stat. 1028][/us/stat/97/1028].)
 

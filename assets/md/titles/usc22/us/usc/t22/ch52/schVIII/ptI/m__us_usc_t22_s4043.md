@@ -17,7 +17,7 @@
 
     (a) __Career appointees or candidates; chiefs of mission__ 
 
-    Except as provided in subsection (d) of this section, the following members of the Service (hereinafter in this part referred to as “participants”) shall be entitled to the benefits of the System:
+    Except as provided in subsection (d), the following members of the Service (hereinafter in this part referred to as “participants”) shall be entitled to the benefits of the System:
 
         (1)
 
@@ -41,11 +41,11 @@
 
     (c) __Binational Center Grantees__ 
 
-        In addition to the individuals who are participants in the System under subsection (a) of this section, any individual who was appointed as a Binational Center Grantee and who completed at least 5 years of satisfactory service as such a grantee or under any other appointment under the Foreign Service Act of 1946 may become a participant in the System, and shall receive credit for such service if an appropriate special contribution is made to the Fund in accordance with section 4045(d) or (f) of this title.
+        In addition to the individuals who are participants in the System under subsection (a), any individual who was appointed as a Binational Center Grantee and who completed at least 5 years of satisfactory service as such a grantee or under any other appointment under the Foreign Service Act of 1946 may become a participant in the System, and shall receive credit for such service if an appropriate special contribution is made to the Fund in accordance with section 4045(d) or (f) of this title.
 
     (d) __Exclusion__ 
 
-        An individual subject to the Foreign Service Pension System (described in part II of this subchapter) is not a participant in this System.
+        An individual subject to the Foreign Service Pension System (described in part II) is not a participant in this System.
 
 ([Pub. L. 96–465, title I, § 803][/us/pl/96/465/s803], Oct. 17, 1980, [94 Stat. 2102][/us/stat/94/2102]; [Pub. L. 99–335, title IV][/us/pl/99/335], §§ 402(a)(2), 414, June 6, 1986, [100 Stat. 609][/us/stat/100/609], 614.)
 
@@ -55,7 +55,7 @@
 
  __Amendments__ 
 
-    1986—Subsec. (a). [Pub. L. 99–335][/us/pl/99/335], §§ 402(a)(2), 414(1), substituted “Except as provided in subsection (d) of this section, the” for “The” and “part” for “subchapter” in provisions preceding par. (1).
+    1986—Subsec. (a). [Pub. L. 99–335][/us/pl/99/335], §§ 402(a)(2), 414(1), substituted “Except as provided in subsection (d), the” for “The” and “part” for “subchapter” in provisions preceding par. (1).
 
     Subsec. (d). [Pub. L. 99–335, § 414(2)][/us/pl/99/335/s414/2], added subsec. (d).
 

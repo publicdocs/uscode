@@ -25,7 +25,7 @@
 
     (c) __Appointments by Secretary of Commerce__ 
 
-        (1) Appointments to the Senior Foreign Service by the Secretary of Commerce shall be excluded in the calculation and application of the limitation in subsection (b) of this section.
+        (1) Appointments to the Senior Foreign Service by the Secretary of Commerce shall be excluded in the calculation and application of the limitation in subsection (b).
 
         (2) Except as provided in paragraph (3), no more than one individual (other than an individual with reemployment rights under [section 3950 of this title][/us/usc/t22/s3950] as a career appointee in the Senior Executive Service) may serve under a limited appointment in the Senior Foreign Service in the Department of Commerce at any time.
 

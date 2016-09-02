@@ -49,7 +49,7 @@
 
         (1) __In general__ 
 
-            Except as provided in paragraph (2), the Secretary of State shall convene a Board not later than 60 days after the occurrence of an incident described in subsection (a)(1) of this section, except that such 60-day period may be extended for one additional 60-day period if the Secretary determines that the additional period is necessary for the convening of the Board.
+            Except as provided in paragraph (2), the Secretary of State shall convene a Board not later than 60 days after the occurrence of an incident described in subsection (a)(1), except that such 60-day period may be extended for one additional 60-day period if the Secretary determines that the additional period is necessary for the convening of the Board.
 
         (2) __Delay in cases involving intelligence activities__ 
 

@@ -21,7 +21,7 @@
 
     (b) __Contents of reports__ 
 
-    Each report required by subsection (a) of this section shall, for the period covered by the report, contain the following, to the extent such information is available:
+    Each report required by subsection (a) shall, for the period covered by the report, contain the following, to the extent such information is available:
 
         (1) A description of all bilateral assistance provided to Cuba by other foreign countries, including humanitarian assistance.
 

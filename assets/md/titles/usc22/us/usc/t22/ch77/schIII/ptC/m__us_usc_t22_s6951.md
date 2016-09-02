@@ -21,7 +21,7 @@
 
     (b) __Public participation__ 
 
-        In preparing the report described in subsection (a) of this section, the Trade Representative shall seek public participation by publishing a notice in the Federal Register and holding a public hearing.
+        In preparing the report described in subsection (a), the Trade Representative shall seek public participation by publishing a notice in the Federal Register and holding a public hearing.
 
 ([Pub. L. 106–286, div. B, title IV, § 421][/us/pl/106/286/s421], Oct. 10, 2000, [114 Stat. 903][/us/stat/114/903].)
 

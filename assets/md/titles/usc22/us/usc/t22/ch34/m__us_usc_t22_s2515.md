@@ -23,7 +23,7 @@
 
     (b) __Use of funds in account__ 
 
-        Funds transferred under subsection (a) of this section shall be merged with, and be available for the same time period, as the appropriation to which they are applied. Notwithstanding any provision of law limiting the amount of funds the Peace Corps may obligate in any fiscal year, such amount shall be increased to the extent necessary to reflect fluctuations in exchange rates from those used in preparing the budget submission.
+        Funds transferred under subsection (a) shall be merged with, and be available for the same time period, as the appropriation to which they are applied. Notwithstanding any provision of law limiting the amount of funds the Peace Corps may obligate in any fiscal year, such amount shall be increased to the extent necessary to reflect fluctuations in exchange rates from those used in preparing the budget submission.
 
     (c) __Exchange rates applicable to obligations__ 
 
@@ -39,7 +39,7 @@
 
     (e) __Limitation on transfers back__ 
 
-        A transfer of funds back to the account under subsection (d) of this section may not be made after the end of the fiscal year or other period for which the appropriation, to which the funds were originally transferred, is available for obligation.
+        A transfer of funds back to the account under subsection (d) may not be made after the end of the fiscal year or other period for which the appropriation, to which the funds were originally transferred, is available for obligation.
 
     (f) __Transfers to account from regular appropriations__ 
 

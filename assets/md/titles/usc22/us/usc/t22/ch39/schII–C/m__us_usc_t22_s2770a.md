@@ -17,7 +17,7 @@
 
     (a) __Authorization; eligibility; scope__ 
 
-        Subject to subsection (b) of this section, the President may provide training and related support to military and civilian defense personnel of a friendly foreign country or an international organization. Such training and related support shall be provided by a Secretary of a military department and may include the provision of transportation, food services, health services, and logistics and the use of facilities and equipment.
+        Subject to subsection (b), the President may provide training and related support to military and civilian defense personnel of a friendly foreign country or an international organization. Such training and related support shall be provided by a Secretary of a military department and may include the provision of transportation, food services, health services, and logistics and the use of facilities and equipment.
 
     (b) __Reciprocal arrangements; reimbursement__ 
 

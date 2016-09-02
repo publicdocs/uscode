@@ -17,11 +17,11 @@
 
     (a) __In general__ 
 
-        Notwithstanding any other provision of law, the President may conduct programs described in subsection (b) of this section to assist the independent states of the former Soviet Union in the demilitarization of the former Soviet Union. Any such program may be carried out only to the extent that the President determines that the program will directly contribute to the national security interests of the United States.
+        Notwithstanding any other provision of law, the President may conduct programs described in subsection (b) to assist the independent states of the former Soviet Union in the demilitarization of the former Soviet Union. Any such program may be carried out only to the extent that the President determines that the program will directly contribute to the national security interests of the United States.
 
     (b) __Authorized programs__ 
 
-    The programs referred to in subsection (a) of this section are the following:
+    The programs referred to in subsection (a) are the following:
 
         (1) Programs to facilitate the elimination, and the safe and secure transportation and storage, of nuclear, chemical, and other weapons and their delivery vehicles.
 
@@ -41,7 +41,7 @@
 
     (c) __United States participation__ 
 
-        The programs described in subsection (b) of this section should, to the extent feasible, draw upon United States technology and expertise, especially from the private sector of the United States.
+        The programs described in subsection (b) should, to the extent feasible, draw upon United States technology and expertise, especially from the private sector of the United States.
 
 ([Pub. L. 103–160, div. A, title XII, § 1203][/us/pl/103/160/s1203], Nov. 30, 1993, [107 Stat. 1778][/us/stat/107/1778]; [Pub. L. 107–314, div. A, title XIII, § 1306(c)][/us/pl/107/314/s1306/c], formerly § 1306(e), Dec. 2, 2002, [116 Stat. 2673][/us/stat/116/2673], renumbered § 1306(c), [Pub. L. 109–163, div. A, title XIII, § 1303(2)][/us/pl/109/163/s1303/2], Jan. 6, 2006, [119 Stat. 3474][/us/stat/119/3474]; [Pub. L. 110–53, title XVIII, § 1811(2)][/us/pl/110/53/s1811/2], Aug. 3, 2007, [121 Stat. 492][/us/stat/121/492]; [Pub. L. 110–181, div. A, title XIII, § 1304(a)(2)][/us/pl/110/181/s1304/a/2], Jan. 28, 2008, [122 Stat. 412][/us/stat/122/412].)
 

@@ -17,7 +17,7 @@
 
     (a)
 
-     Subject to subsection (b) of this section, nothing in this subchapter shall affect the authority of any management official of the Department, in accordance with applicable law—
+     Subject to subsection (b), nothing in this subchapter shall affect the authority of any management official of the Department, in accordance with applicable law—
 
         (1) to determine the mission, budget, organization, and internal security practices of the Department, and the number of individuals in the Service or in the Department;
 

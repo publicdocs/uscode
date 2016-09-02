@@ -29,7 +29,7 @@
 
     (d) __Reimbursement of applicable appropriation, fund, or account__ 
 
-        There are authorized to be appropriated to the President such sums as may be necessary to reimburse the applicable appropriation, fund, or account for commodities and services provided under subsection (c)(2) of this section.
+        There are authorized to be appropriated to the President such sums as may be necessary to reimburse the applicable appropriation, fund, or account for commodities and services provided under subsection (c)(2).
 
 ([Pub. L. 87–195][/us/pl/87/195], pt. II, § 552, as added [Pub. L. 95–384, § 12(a)][/us/pl/95/384/s12/a], Sept. 26, 1978, [92 Stat. 736][/us/stat/92/736]; amended [Pub. L. 96–92, § 10(a)][/us/pl/96/92/s10/a], (c), Oct. 29, 1979, [93 Stat. 705][/us/stat/93/705]; [Pub. L. 96–533, title I, § 116(a)][/us/pl/96/533/s116/a], Dec. 16, 1980, [94 Stat. 3140][/us/stat/94/3140]; [Pub. L. 97–113, title I, § 114][/us/pl/97/113/s114], Dec. 29, 1981, [95 Stat. 1528][/us/stat/95/1528]; [Pub. L. 99–83, title I, § 105(a)][/us/pl/99/83/s105/a], (b)(1), Aug. 8, 1985, [99 Stat. 195][/us/stat/99/195].)
 

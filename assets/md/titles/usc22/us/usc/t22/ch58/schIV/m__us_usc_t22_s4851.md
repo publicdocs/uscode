@@ -37,7 +37,7 @@
 
     (b) __Notification to authorizing Committees of requests for appropriations__ 
 
-        In any fiscal year, whenever the Secretary of State submits to the Congress a request for appropriations to carry out the program described in subsection (a) of this section, the Secretary shall notify the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate of such request, together with a justification of each item listed in such request.
+        In any fiscal year, whenever the Secretary of State submits to the Congress a request for appropriations to carry out the program described in subsection (a), the Secretary shall notify the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate of such request, together with a justification of each item listed in such request.
 
     (c) __Repealed.__  __[__  __Pub. L. 103–236, title I, § 122(b)__  __][/us/pl/103/236/s122/b]__  __,__  __Apr. 30, 1994__  __,__  __[__  __108 Stat. 392__  __][/us/stat/108/392]__ 
 
@@ -55,13 +55,13 @@
 
     (g) __Allocation of funds for certain security programs__ 
 
-        Of the amount of funds authorized to be appropriated by subsection (a)(1)(A) of this section, $34,537,000 shall be available to the Secretary of State only for the protection of classified office equipment, the expansion of information systems security, and the hiring of American systems managers and operators for computers at high threat locations.
+        Of the amount of funds authorized to be appropriated by subsection (a)(1)(A), $34,537,000 shall be available to the Secretary of State only for the protection of classified office equipment, the expansion of information systems security, and the hiring of American systems managers and operators for computers at high threat locations.
 
     (h) __Furniture, furnishings, and equipment__ 
 
         (1) __Use of existing furniture, furnishings, and equipment__ 
 
-            If physically possible, facilities constructed or acquired pursuant to subsection (a) of this section shall be furnished and equipped with the furniture, furnishings, and equipment that were being used in the facilities being replaced, rather than with newly acquired furniture, furnishings, and equipment.
+            If physically possible, facilities constructed or acquired pursuant to subsection (a) shall be furnished and equipped with the furniture, furnishings, and equipment that were being used in the facilities being replaced, rather than with newly acquired furniture, furnishings, and equipment.
 
         (2) __Omitted__ 
 

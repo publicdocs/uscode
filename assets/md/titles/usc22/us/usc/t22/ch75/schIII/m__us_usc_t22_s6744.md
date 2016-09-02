@@ -17,7 +17,7 @@
 
     (a) __Freedom of Information Act exemption for certain Convention information__ 
 
-        Except as provided in subsection (b) or (c) of this section, any confidential business information, as defined in [section 6713(g) of this title][/us/usc/t22/s6713/g], reported to, or otherwise acquired by, the United States Government under this chapter or under the Convention shall not be disclosed under [section 552(a) of title 5][/us/usc/t5/s552/a].
+        Except as provided in subsection (b) or (c), any confidential business information, as defined in [section 6713(g) of this title][/us/usc/t22/s6713/g], reported to, or otherwise acquired by, the United States Government under this chapter or under the Convention shall not be disclosed under [section 552(a) of title 5][/us/usc/t5/s552/a].
 
     (b) __Exceptions__ 
 
@@ -43,7 +43,7 @@
 
             (A) __Requirement__ 
 
-            If any Department or agency of the United States Government proposes pursuant to paragraph (1) to publish or disclose or otherwise provide information exempt from disclosure under subsection (a) of this section, the United States National Authority shall, unless contrary to national security or law enforcement needs, provide notice of intent to disclose the information—
+            If any Department or agency of the United States Government proposes pursuant to paragraph (1) to publish or disclose or otherwise provide information exempt from disclosure under subsection (a), the United States National Authority shall, unless contrary to national security or law enforcement needs, provide notice of intent to disclose the information—
 
                 (i) to the person that submitted such information; and
 
@@ -57,11 +57,11 @@
 
     (d) __Criminal penalty for wrongful disclosure__ 
 
-        Any officer or employee of the United States, and any former officer or employee of the United States, who by reason of such employment or official position has obtained possession of, or has access to, information the disclosure or other provision of which is prohibited by subsection (a) of this section, and who, knowing that disclosure or provision of such information is prohibited by such subsection, willfully discloses or otherwise provides the information in any manner to any person (including any person located outside the territory of the United States) not authorized to receive it, shall be fined under title 18 or imprisoned for not more than five years, or both.
+        Any officer or employee of the United States, and any former officer or employee of the United States, who by reason of such employment or official position has obtained possession of, or has access to, information the disclosure or other provision of which is prohibited by subsection (a), and who, knowing that disclosure or provision of such information is prohibited by such subsection, willfully discloses or otherwise provides the information in any manner to any person (including any person located outside the territory of the United States) not authorized to receive it, shall be fined under title 18 or imprisoned for not more than five years, or both.
 
     (e) __Criminal forfeiture__ 
 
-        The property of any person who violates subsection (d) of this section shall be subject to forfeiture to the United States in the same manner and to the same extent as is provided in section 229C  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be section “229B”. </sup></sup>  of title 18.
+        The property of any person who violates subsection (d) shall be subject to forfeiture to the United States in the same manner and to the same extent as is provided in section 229C  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be section “229B”. </sup></sup>  of title 18.
 
     (f) __International inspectors__ 
 

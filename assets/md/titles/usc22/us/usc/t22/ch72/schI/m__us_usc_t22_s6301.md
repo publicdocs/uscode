@@ -19,7 +19,7 @@
 
         (1) __In general__ 
 
-            Except as provided in subsection (b)(2) of this section, the President shall impose the sanction described in subsection (c) of this section if the President determines in writing that, on or after the effective date of this subchapter, a foreign person or a United States person has materially and with requisite knowledge contributed, through the export from the United States or any other country of any goods or technology (as defined in [section 6305(2) of this title][/us/usc/t22/s6305/2]), to the efforts by any individual, group, or non-nuclear-weapon state to acquire unsafeguarded special nuclear material or to use, develop, produce, stockpile, or otherwise acquire any nuclear explosive device.
+            Except as provided in subsection (b)(2), the President shall impose the sanction described in subsection (c) if the President determines in writing that, on or after the effective date of this subchapter, a foreign person or a United States person has materially and with requisite knowledge contributed, through the export from the United States or any other country of any goods or technology (as defined in [section 6305(2) of this title][/us/usc/t22/s6305/2]), to the efforts by any individual, group, or non-nuclear-weapon state to acquire unsafeguarded special nuclear material or to use, develop, produce, stockpile, or otherwise acquire any nuclear explosive device.
 
         (2) __Persons against which the sanction is to be imposed__ 
 
@@ -45,21 +45,21 @@
 
         (1) __Consultations__ 
 
-            If the President makes a determination described in subsection (a)(1) of this section with respect to a foreign person, the Congress urges the President to initiate consultations immediately with the government with primary jurisdiction over that foreign person with respect to the imposition of the sanction pursuant to this section.
+            If the President makes a determination described in subsection (a)(1) with respect to a foreign person, the Congress urges the President to initiate consultations immediately with the government with primary jurisdiction over that foreign person with respect to the imposition of the sanction pursuant to this section.
 
         (2) __Actions by government of jurisdiction__ 
 
-            In order to pursue such consultations with that government, the President may delay imposition of the sanction pursuant to this section for up to 90 days. Following these consultations, the President shall impose the sanction unless the President determines and certifies in writing to the Congress that that government has taken specific and effective actions, including appropriate penalties, to terminate the involvement of the foreign person in the activities described in subsection (a)(1) of this section. The President may delay the imposition of the sanction for up to an additional 90 days if the President determines and certifies in writing to the Congress that that government is in the process of taking the actions described in the preceding sentence.
+            In order to pursue such consultations with that government, the President may delay imposition of the sanction pursuant to this section for up to 90 days. Following these consultations, the President shall impose the sanction unless the President determines and certifies in writing to the Congress that that government has taken specific and effective actions, including appropriate penalties, to terminate the involvement of the foreign person in the activities described in subsection (a)(1). The President may delay the imposition of the sanction for up to an additional 90 days if the President determines and certifies in writing to the Congress that that government is in the process of taking the actions described in the preceding sentence.
 
         (3) __Report to Congress__ 
 
-            Not later than 90 days after making a determination under subsection (a)(1) of this section, the President shall submit to the Committee on Foreign Relations and the Committee on Governmental Affairs of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on the status of consultations with the appropriate government under this subsection, and the basis for any determination under paragraph (2) of this subsection that such government has taken specific corrective actions.
+            Not later than 90 days after making a determination under subsection (a)(1), the President shall submit to the Committee on Foreign Relations and the Committee on Governmental Affairs of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on the status of consultations with the appropriate government under this subsection, and the basis for any determination under paragraph (2) of this subsection that such government has taken specific corrective actions.
 
     (c) __Sanction__ 
 
         (1) __Description of sanction__ 
 
-            The sanction to be imposed pursuant to subsection (a)(1) of this section is, except as provided in paragraph (2) of this subsection, that the United States Government shall not procure, or enter into any contract for the procurement of, any goods or services from any person described in subsection (a)(2) of this section.
+            The sanction to be imposed pursuant to subsection (a)(1) is, except as provided in paragraph (2) of this subsection, that the United States Government shall not procure, or enter into any contract for the procurement of, any goods or services from any person described in subsection (a)(2).
 
         (2) __Exceptions__ 
 
@@ -99,9 +99,9 @@
 
     The sanction imposed pursuant to this section shall apply for a period of at least 12 months following the imposition of the sanction and shall cease to apply thereafter only if the President determines and certifies in writing to the Congress that—
 
-        (1) reliable information indicates that the foreign person or United States person with respect to which the determination was made under subsection (a)(1) of this section has ceased to aid or abet any individual, group, or non-nuclear-weapon state in its efforts to acquire unsafeguarded special nuclear material or any nuclear explosive device, as described in that subsection; and
+        (1) reliable information indicates that the foreign person or United States person with respect to which the determination was made under subsection (a)(1) has ceased to aid or abet any individual, group, or non-nuclear-weapon state in its efforts to acquire unsafeguarded special nuclear material or any nuclear explosive device, as described in that subsection; and
 
-        (2) the President has received reliable assurances from the foreign person or United States person, as the case may be, that such person will not, in the future, aid or abet any individual, group, or non-nuclear-weapon state in its efforts to acquire unsafeguarded special nuclear material or any nuclear explosive device, as described in subsection (a)(1) of this section.
+        (2) the President has received reliable assurances from the foreign person or United States person, as the case may be, that such person will not, in the future, aid or abet any individual, group, or non-nuclear-weapon state in its efforts to acquire unsafeguarded special nuclear material or any nuclear explosive device, as described in subsection (a)(1).
 
     (f) __Waiver__ 
 

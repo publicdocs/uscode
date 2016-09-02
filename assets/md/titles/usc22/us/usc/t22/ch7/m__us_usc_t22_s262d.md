@@ -43,69 +43,23 @@
 
         (4) in relation to assistance for the Socialist Republic of Vietnam, the People’s Democratic Republic of Laos, Russia and the other independent states of the former Soviet Union (as defined in [section 5801 of this title][/us/usc/t22/s5801]), and Democratic Kampuchea (Cambodia), the responsiveness of the governments of such countries in providing a more substantial accounting of Americans missing in action.
 
-    (c) __Reporting requirements__ 
-
-        (1) The Secretary of the Treasury shall report annually on all loans considered by the Boards of Executive Directors of the institutions listed in subsection (a) of this section to the Chairman and ranking minority member of the Committee on Banking, Finance and Urban Affairs of the House of Representatives, or the designees of such Chairman and ranking minority member, and the Chairman and ranking minority member of the Committee on Foreign Relations of the Senate.
-
-        (2)
-
-         Each report required by paragraph (1) shall—
-
-            (A)
-
-             include a list of all loans considered by the Board  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Boards”. </sup></sup>  of Executive Directors of the institutions listed in subsection (a) of this section and shall specify with respect to each such loan—
-
-                (i) the institution involved;
-
-                (ii) the date of final action;
-
-                (iii) the borrower;
-
-                (iv) the amount;
-
-                (v) the project or program;
-
-                (vi) the vote of the United States Government;
-
-                (vii) the reason for United States Government opposition, if any;
-
-                (viii) the final disposition of the loan; and
-
-                (ix) if the United States Government opposed the loan, whether the loan meets basic human needs;
-
-            (B) indicate whether the United States has opposed any loan, financial assistance, or technical assistance to a country on human rights grounds;
-
-            (C) indicate whether the United States has voted in favor of a loan, financial assistance, or technical assistance to a country with respect to which the United States had, in the preceding 2 years, opposed a loan, financial assistance, or technical assistance on human rights grounds; and
-
-            (D)
-
-             in cases where the United States changed its voting position from opposition to support or from support to opposition, on human rights grounds—
-
-                (i) indicate the policy considerations that were taken into account in the development of the United States voting position;
-
-                (ii) describe human rights conditions in the country involved;
-
-                (iii) indicate how the United States voted on all other loans, financial assistance, and technical assistance to such country during the preceding 2 years; and
-
-                (iv) contain information as to how the United States voting position relates to the overall United States Government policy on human rights in such country.
-
-    (d) __Requirements of United States assistance through institutions for projects in recipient countries__ 
+    (c) __Requirements of United States assistance through institutions for projects in recipient countries__ 
 
         The United States Government, in connection with its voice and vote in the institutions listed in subsection (a) of this section, shall seek to channel assistance to projects which address basic human needs of the people of the recipient country.
 
-    (e) __Criteria for determination of gross violations of internationally recognized human rights standards__ 
+    (d) __Criteria for determination of gross violations of internationally recognized human rights standards__ 
 
         In determining whether a country is in gross violation of internationally recognized human rights standards, as defined by the provisions of subsection (a) of this section, the United States Government shall give consideration to the extent of cooperation of such country in permitting an unimpeded investigation of alleged violations of internationally recognized human rights by appropriate international organizations including, but not limited to, the International Committee of the Red Cross, Amnesty International, the International Commission of Jurists, and groups or persons acting under the authority of the United Nations or the Organization of American States.
 
-    (f) __Opposition by United States Executive Directors of institutions to financial or technical assistance to violating countries__ 
+    (e) __Opposition by United States Executive Directors of institutions to financial or technical assistance to violating countries__ 
 
         The United States Executive Directors of the institutions listed in subsection (a) of this section are authorized and instructed to oppose any loan, any extension of financial assistance, or any technical assistance to any country described in subsection (a)(1) or (2) of this section, unless such assistance is directed specifically to programs which serve the basic human needs of the citizens of such country.
 
-    (g)  __ <sup>\[__  __2__  __\]</sup> __  __ <sup><sup> __  __2__  __ So in original. Two subsecs. (g) have been enacted.__  __ </sup></sup> __  __Consultative and additional reporting requirements__ 
+    (f) __Consultative requirement__ 
 
         The Secretary of the Treasury or his delegate shall consult frequently and in a timely manner with the chairmen and ranking minority members of the Committee on Banking, Finance and Urban Affairs of the House of Representatives and of the Committee on Foreign Relations of the Senate to inform them regarding any prospective changes in policy direction toward countries which have or recently have had poor human rights records.
 
-    (g)  __2__  __Violations of religious freedom__ 
+    (g) __Violations of religious freedom__ 
 
     In determining whether the government of a country engages in a pattern of gross violations of internationally recognized human rights, as described in subsection (a) of this section, the President shall give particular consideration to whether a foreign government—
 
@@ -113,9 +67,11 @@
 
         (2) has failed to undertake serious and sustained efforts to combat particularly severe violations of religious freedom when such efforts could have been reasonably undertaken.
 
-([Pub. L. 95–118, title VII, § 701][/us/pl/95/118/s701], Oct. 3, 1977, [91 Stat. 1069][/us/stat/91/1069]; [Pub. L. 96–259, title V, § 501(a)][/us/pl/96/259/s501/a], (b), June 3, 1980, [94 Stat. 431][/us/stat/94/431], 432; [Pub. L. 97–35, title XIII, § 1342(b)][/us/pl/97/35/s1342/b], Aug. 13, 1981, [95 Stat. 743][/us/stat/95/743]; [Pub. L. 97–375, title II, § 211][/us/pl/97/375/s211], Dec. 21, 1982, [96 Stat. 1826][/us/stat/96/1826]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title X, § 1004\], Nov. 30, 1983, [97 Stat. 1286][/us/stat/97/1286]; [Pub. L. 101–240, title V, § 541(c)][/us/pl/101/240/s541/c], (d)(4), (e)(8), Dec. 19, 1989, [103 Stat. 2517–2519][/us/stat/103/2517-2519]; [Pub. L. 101–513, title V, § 562(b)(2)][/us/pl/101/513/s562/b/2], Nov. 5, 1990, [104 Stat. 2034][/us/stat/104/2034]; [Pub. L. 102–511, title X, § 1008][/us/pl/102/511/s1008], Oct. 24, 1992, [106 Stat. 3361][/us/stat/106/3361]; [Pub. L. 103–236, title VIII, § 823(b)][/us/pl/103/236/s823/b], Apr. 30, 1994, [108 Stat. 512][/us/stat/108/512]; [Pub. L. 105–292, title IV, § 422][/us/pl/105/292/s422], Oct. 27, 1998, [112 Stat. 2810][/us/stat/112/2810]; [Pub. L. 106–569, title XI, § 1103(g)][/us/pl/106/569/s1103/g], Dec. 27, 2000, [114 Stat. 3031][/us/stat/114/3031].)
+([Pub. L. 95–118, title VII, § 701][/us/pl/95/118/s701], Oct. 3, 1977, [91 Stat. 1069][/us/stat/91/1069]; [Pub. L. 96–259, title V, § 501(a)][/us/pl/96/259/s501/a], (b), June 3, 1980, [94 Stat. 431][/us/stat/94/431], 432; [Pub. L. 97–35, title XIII, § 1342(b)][/us/pl/97/35/s1342/b], Aug. 13, 1981, [95 Stat. 743][/us/stat/95/743]; [Pub. L. 97–375, title II, § 211][/us/pl/97/375/s211], Dec. 21, 1982, [96 Stat. 1826][/us/stat/96/1826]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title X, § 1004\], Nov. 30, 1983, [97 Stat. 1286][/us/stat/97/1286]; [Pub. L. 101–240, title V, § 541(c)][/us/pl/101/240/s541/c], (d)(4), (e)(8), Dec. 19, 1989, [103 Stat. 2517–2519][/us/stat/103/2517-2519]; [Pub. L. 101–513, title V, § 562(b)(2)][/us/pl/101/513/s562/b/2], Nov. 5, 1990, [104 Stat. 2034][/us/stat/104/2034]; [Pub. L. 102–511, title X, § 1008][/us/pl/102/511/s1008], Oct. 24, 1992, [106 Stat. 3361][/us/stat/106/3361]; [Pub. L. 103–236, title VIII, § 823(b)][/us/pl/103/236/s823/b], Apr. 30, 1994, [108 Stat. 512][/us/stat/108/512]; [Pub. L. 105–292, title IV, § 422][/us/pl/105/292/s422], Oct. 27, 1998, [112 Stat. 2810][/us/stat/112/2810]; [Pub. L. 106–569, title XI, § 1103(g)][/us/pl/106/569/s1103/g], Dec. 27, 2000, [114 Stat. 3031][/us/stat/114/3031]; [Pub. L. 113–188, title XVI, § 1601(b)][/us/pl/113/188/s1601/b], Nov. 26, 2014, [128 Stat. 2025][/us/stat/128/2025].)
 
  __Amendments__ 
+
+    2014—Subsecs. (c) to (g). [Pub. L. 113–188][/us/pl/113/188], which directed amendment of this section by striking subsec. (c) and redesignating subsec. (d) through subsec. (g) as added by section “501(g)” of [Pub. L. 96–259][/us/pl/96/259] as subsecs. (c) through (f), respectively, was executed by redesignating subsec. (d) to subsec. (g) as added by [section 501(b) of Pub. L. 96–259][/us/pl/96/259/s501/b] (relating to consultative requirement) as (c) to (f), respectively, and striking out former subsec. (c) which related to reporting requirements, to reflect the probable intent of Congress.
 
     2000—Subsec. (c)(1). [Pub. L. 106–569][/us/pl/106/569] substituted “The Secretary of the Treasury shall report annually” for “Not later than 30 days after the end of each calendar quarter, the Secretary of the Treasury shall report quarterly”.
 
@@ -214,6 +170,11 @@
 [/us/stat/112/2810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2810
 [/us/pl/106/569/s1103/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs1103%2Fg
 [/us/stat/114/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3031
+[/us/pl/113/188/s1601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1601%2Fb
+[/us/stat/128/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2025
+[/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
+[/us/pl/96/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F259
+[/us/pl/96/259/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F259%2Fs501%2Fb
 [/us/pl/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569
 [/us/pl/105/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236

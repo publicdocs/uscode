@@ -21,7 +21,7 @@
 
     (b) __Use of funds__ 
 
-        Funds collected under the authority of subsection (a) of this section shall be deposited as an offsetting collection to any Department of State appropriation to recover the cost of providing translation or interpretation services in any foreign language. Such funds may remain available until expended.
+        Funds collected under the authority of subsection (a) shall be deposited as an offsetting collection to any Department of State appropriation to recover the cost of providing translation or interpretation services in any foreign language. Such funds may remain available until expended.
 
 ([Pub. L. 103–236, title I, § 193][/us/pl/103/236/s193], Apr. 30, 1994, [108 Stat. 419][/us/stat/108/419].)
 

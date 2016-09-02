@@ -21,7 +21,7 @@
 
     (b) __Sanctions__ 
 
-        Upon receipt of a certification under subsection (a) of this section, the President shall direct the heads of Federal agencies to impose similar conditions on the operation or transit of fishing vessels registered under the laws of the nation which has imposed conditions on United States fishing vessels.
+        Upon receipt of a certification under subsection (a), the President shall direct the heads of Federal agencies to impose similar conditions on the operation or transit of fishing vessels registered under the laws of the nation which has imposed conditions on United States fishing vessels.
 
     (c) __“Fishing vessel” defined__ 
 
@@ -29,7 +29,7 @@
 
     (d) __Sanctions commensurate with conditions certified__ 
 
-        It is the sense of the Congress that any action taken by any Federal agency under subsection (b) of this section should be commensurate with any conditions certified by the Secretary of State under subsection (a) of this section.
+        It is the sense of the Congress that any action taken by any Federal agency under subsection (b) should be commensurate with any conditions certified by the Secretary of State under subsection (a).
 
 ([Aug. 27, 1954, ch. 1018, § 12][/us/act/1954-08-27/ch1018/s12], as added [Pub. L. 104–43, title IV, § 402(b)][/us/pl/104/43/s402/b], Nov. 3, 1995, [109 Stat. 390][/us/stat/109/390].)
 

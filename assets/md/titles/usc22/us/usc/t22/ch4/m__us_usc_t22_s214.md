@@ -19,7 +19,7 @@
 
     (b)
 
-        (1) The Secretary of State may by regulation establish and collect a surcharge on applicable fees for the filing of each application for a passport in order to cover the costs of meeting the increased demand for passports as a result of actions taken to comply with section 7209(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 ([Public Law 108–458][/us/pl/108/458]; [8 U.S.C. 1185][/us/usc/t8/s1185] note). Such surcharge shall be in addition to the fees provided for in subsection (a) of this section and in addition to the surcharges or fees otherwise authorized by law and shall be deposited as an offsetting collection to the appropriate Department of State appropriation, to remain available until expended for the purposes of meeting such costs.
+        (1) The Secretary of State may by regulation establish and collect a surcharge on applicable fees for the filing of each application for a passport in order to cover the costs of meeting the increased demand for passports as a result of actions taken to comply with section 7209(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 ([Public Law 108–458][/us/pl/108/458]; [8 U.S.C. 1185][/us/usc/t8/s1185] note). Such surcharge shall be in addition to the fees provided for in subsection (a) and in addition to the surcharges or fees otherwise authorized by law and shall be deposited as an offsetting collection to the appropriate Department of State appropriation, to remain available until expended for the purposes of meeting such costs.
 
         (2) The authority to collect the surcharge provided under paragraph (1) may not be exercised after September 30, 2010.
 

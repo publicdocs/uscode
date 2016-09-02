@@ -19,7 +19,7 @@
 
         (1) __In general__ 
 
-            A passport may not be issued to an individual who is convicted of an offense described in subsection (b) of this section during the period described in subsection (c) of this section if the individual used a passport or otherwise crossed an international border in committing the offense.
+            A passport may not be issued to an individual who is convicted of an offense described in subsection (b) during the period described in subsection (c) if the individual used a passport or otherwise crossed an international border in committing the offense.
 
         (2) __Passport revocation__ 
 
@@ -29,23 +29,23 @@
 
         (1) __Felonies__ 
 
-            Subsection (a) of this section applies with respect to any individual convicted of a Federal drug offense, or a State drug offense, if the offense is a felony.
+            Subsection (a) applies with respect to any individual convicted of a Federal drug offense, or a State drug offense, if the offense is a felony.
 
         (2) __Certain misdemeanors__ 
 
-            Subsection (a) of this section also applies with respect to an individual convicted of a Federal drug offense, or a State drug offense, if the offense is  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “a”. </sup></sup>  misdemeanor, but only if the Secretary of State determines that subsection (a) of this section should apply with respect to that individual on account of that offense. This paragraph does not apply to an individual’s first conviction for a misdemeanor which involves only possession of a controlled substance.
+            Subsection (a) also applies with respect to an individual convicted of a Federal drug offense, or a State drug offense, if the offense is  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “a”. </sup></sup>  misdemeanor, but only if the Secretary of State determines that subsection (a) should apply with respect to that individual on account of that offense. This paragraph does not apply to an individual’s first conviction for a misdemeanor which involves only possession of a controlled substance.
 
     (c) __Period of ineligibility__ 
 
-    Subsection (a) of this section applies during the period that the individual—
+    Subsection (a) applies during the period that the individual—
 
-        (1) is imprisoned, or is legally required to be imprisoned, as the result of the conviction for the offense described in subsection (b) of this section; or
+        (1) is imprisoned, or is legally required to be imprisoned, as the result of the conviction for the offense described in subsection (b); or
 
         (2) is on parole or other supervised release after having been imprisoned as the result of that conviction.
 
     (d) __Emergency and humanitarian exceptions__ 
 
-        Notwithstanding subsection (a) of this section, the Secretary of State may issue a passport, in emergency circumstances or for humanitarian reasons, to an individual with respect to whom that subsection applies.
+        Notwithstanding subsection (a), the Secretary of State may issue a passport, in emergency circumstances or for humanitarian reasons, to an individual with respect to whom that subsection applies.
 
     (e) __Definitions__ 
 

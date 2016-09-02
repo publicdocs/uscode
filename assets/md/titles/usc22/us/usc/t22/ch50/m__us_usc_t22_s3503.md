@@ -33,7 +33,7 @@
 
     (b) __Review of programs, projects, and other activities; objectives of review__ 
 
-        In carrying out the functions specified in subsection (a) of this section, the Institute shall take particular care to review all of its programs, projects, and other activities to ensure that technologies which are developed, utilized, or promoted are assessed with regard to minimizing any new problems and that participants in such programs, projects, and activities are fully aware of the need for such review with respect to any technology-related activities for which the  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “they”. </sup></sup>  are responsible.
+        In carrying out the functions specified in subsection (a), the Institute shall take particular care to review all of its programs, projects, and other activities to ensure that technologies which are developed, utilized, or promoted are assessed with regard to minimizing any new problems and that participants in such programs, projects, and activities are fully aware of the need for such review with respect to any technology-related activities for which the  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “they”. </sup></sup>  are responsible.
 
     (c) __Presidential utilization of additional statutory authorities__ 
 

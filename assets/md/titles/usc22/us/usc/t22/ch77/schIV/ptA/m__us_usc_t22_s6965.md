@@ -21,7 +21,7 @@
 
     (b) __Contents of reports__ 
 
-    Each report under subsection (a) of this section shall set forth, at a minimum—
+    Each report under subsection (a) shall set forth, at a minimum—
 
         (1) the number of allegations of violations of [section 1307 of title 19][/us/usc/t19/s1307] with respect to products of the Peoples’  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “People’s”. </sup></sup>  Republic of China that were investigated during the preceding 1-year period;
 

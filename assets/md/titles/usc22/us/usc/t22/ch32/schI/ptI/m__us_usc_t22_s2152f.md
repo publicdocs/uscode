@@ -123,7 +123,7 @@
 
             (F) Disseminate a collection of best practices to field missions of the United States Agency for International Development to guide the development and implementation of programs to assist orphans and vulnerable children.
 
-            (G) Administer the monitoring and evaluation system established in subsection (d) of this section.
+            (G) Administer the monitoring and evaluation system established in subsection (d).
 
             (H) Prepare the annual report required by [section 2152g of this title][/us/usc/t22/s2152g].
 

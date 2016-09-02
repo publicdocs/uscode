@@ -71,13 +71,13 @@
 
     (i) __Terms and conditions__ 
 
-        Assistance under this part shall be provided on such terms and conditions as the President may determine, consistent with applicable provisions of law (except as otherwise provided in subsection (j) of this section).
+        Assistance under this part shall be provided on such terms and conditions as the President may determine, consistent with applicable provisions of law (except as otherwise provided in subsection (j)).
 
     (j) __Waiver of certain provisions__ 
 
         (1) __In general__ 
 
-        Funds authorized to be appropriated for fiscal year 1993 by this part, and any other funds appropriated for fiscal year 1993 that are used under the authority of subsection (f) or (g) of this section, may be used to provide assistance under this part notwithstanding any other provision of law, except for—
+        Funds authorized to be appropriated for fiscal year 1993 by this part, and any other funds appropriated for fiscal year 1993 that are used under the authority of subsection (f) or (g), may be used to provide assistance under this part notwithstanding any other provision of law, except for—
 
             (A) this part;
 

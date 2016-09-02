@@ -19,7 +19,7 @@
 
     (b)
 
-        (1) With respect to a claim under subsection (a) of this section for damages for injuries to a vessel or its cargo, if, at the time the injuries were incurred, the navigation or movement of the vessel was not under the control of a Panama Canal pilot, the Commission may pay not more than $50,000 on the claim, unless the injuries were caused by another vessel under the control of a Panama Canal pilot.
+        (1) With respect to a claim under subsection (a) for damages for injuries to a vessel or its cargo, if, at the time the injuries were incurred, the navigation or movement of the vessel was not under the control of a Panama Canal pilot, the Commission may pay not more than $50,000 on the claim, unless the injuries were caused by another vessel under the control of a Panama Canal pilot.
 
         (2) The provisions of subsections (c) through (e) of [section 3761 of this title][/us/usc/t22/s3761] shall apply to any claim described in paragraph (1).
 

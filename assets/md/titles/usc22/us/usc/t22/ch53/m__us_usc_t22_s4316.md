@@ -17,11 +17,11 @@
 
     (a) __Requirement for restrictions__ 
 
-        The Secretary shall apply the same generally applicable restrictions to the travel while in the United States of the individuals described in subsection (b) of this section as are applied under this chapter to the members of the missions of the Soviet Union in the United States.
+        The Secretary shall apply the same generally applicable restrictions to the travel while in the United States of the individuals described in subsection (b) as are applied under this chapter to the members of the missions of the Soviet Union in the United States.
 
     (b) __Individuals subject to restrictions__ 
 
-    The restrictions required by subsection (a) of this section shall be applied with respect to those individuals who (as determined by the Secretary) are—
+    The restrictions required by subsection (a) shall be applied with respect to those individuals who (as determined by the Secretary) are—
 
         (1) the personnel of an international organization, if the individual is a national of any foreign country whose government engages in intelligence activities in the United States that are harmful to the national security of the United States;
 
@@ -33,7 +33,7 @@
 
     (c) __Waivers__ 
 
-        The Secretary, after consultation with the Director of Central Intelligence and the Director of the Federal Bureau of Investigation, may waive application of the restrictions required by subsection (a) of this section if the Secretary determines that the national security and foreign policy interests of the United States so require.
+        The Secretary, after consultation with the Director of Central Intelligence and the Director of the Federal Bureau of Investigation, may waive application of the restrictions required by subsection (a) if the Secretary determines that the national security and foreign policy interests of the United States so require.
 
     (d) __Repealed.__  __[__  __Pub. L. 103–236, title I, § 139(3)__  __][/us/pl/103/236/s139/3]__  __,__  __Apr. 30, 1994__  __,__  __[__  __108 Stat. 397__  __][/us/stat/108/397]__ 
 

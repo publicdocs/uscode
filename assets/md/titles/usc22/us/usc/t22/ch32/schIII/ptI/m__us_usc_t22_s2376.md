@@ -41,13 +41,11 @@
 
         It is the sense of the Congress that the President should pursue a policy which seeks a regional negotiated solution to the issue of nuclear non-proliferation in South Asia at the earliest possible time, including a protocol to be signed by all nuclear weapons states, prohibiting nuclear attacks by nuclear weapons states on countries in the region. Such a policy should have as its ultimate goal concurrent accession by Pakistan and India to the Nuclear Non-Proliferation Treaty, and should also include as needed a phased approach to that goal through a series of agreements among the parties on nuclear issues, such as the agreement reached by Pakistan and India not to attack one another’s nuclear facilities.
 
-    (c) __Report on progress toward regional non-proliferation__ 
-
-        Not later than April 1 of each year, the President shall submit a report to the Committees on Appropriations, the Speaker of the House of Representatives, and the chairman of the Committee on Foreign Relations of the Senate, on nuclear proliferation in South Asia, including efforts taken by the United States to achieve a regional agreement on nuclear non-proliferation, and including a comprehensive list of the obstacles to concluding such a regional agreement.
-
-([Pub. L. 87–195][/us/pl/87/195], pt. III, § 620F, as added [Pub. L. 102–391, title V, § 585(a)][/us/pl/102/391/s585/a], Oct. 6, 1992, [106 Stat. 1688][/us/stat/106/1688]; amended [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXII, § 2219(b), Oct. 21, 1998, [112 Stat. 2681–817][/us/stat/112/2681-817].)
+([Pub. L. 87–195][/us/pl/87/195], pt. III, § 620F, as added [Pub. L. 102–391, title V, § 585(a)][/us/pl/102/391/s585/a], Oct. 6, 1992, [106 Stat. 1688][/us/stat/106/1688]; amended [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXII, § 2219(b), Oct. 21, 1998, [112 Stat. 2681–817][/us/stat/112/2681-817]; [Pub. L. 113–188, title XIV, § 1401][/us/pl/113/188/s1401], Nov. 26, 2014, [128 Stat. 2023][/us/stat/128/2023].)
 
  __Amendments__ 
+
+    2014—Subsec. (c). [Pub. L. 113–188][/us/pl/113/188] struck out subsec. (c). Text read as follows: “Not later than April 1 of each year, the President shall submit a report to the Committees on Appropriations, the Speaker of the House of Representatives, and the chairman of the Committee on Foreign Relations of the Senate, on nuclear proliferation in South Asia, including efforts taken by the United States to achieve a regional agreement on nuclear non-proliferation, and including a comprehensive list of the obstacles to concluding such a regional agreement.”
 
     1998—Subsec. (c). [Pub. L. 105–277][/us/pl/105/277], which directed the substitution of “Not later than April 1 of each year,” for “Not later than April 1, 1993 and every six months thereafter,” was executed by making the substitution for text which contained a comma after “1993” to reflect the probable intent of Congress.
 
@@ -57,17 +55,7 @@
 
  __Delegation of Authority With Respect to Reports to Congress Concerning Progress Toward Non­proliferation in South Asia__ 
 
-    Memorandum of President of the United States, Mar. 30, 1994, 59 F.R. 17229, provided:
-
-    Memorandum for the Secretary of State
-
-    By virtue of the authority vested in me by the Constitution and laws of the United States, including [section 301 of title 3][/us/usc/t3/s301] of the United States Code, I hereby delegate to the Secretary of State the functions vested in the President by section 620F(c) of the Foreign Assistance Act of 1961, as amended ([22 U.S.C. 2376(c)][/us/usc/t22/s2376/c]).
-
-    Any report prepared pursuant to this delegation of authority shall be coordinated with other agencies, as appropriate, and the Assistant to the President for National Security Affairs, before submission to the Congress.
-
-    The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
-
-                              William J. Clinton.
+    Memorandum of President of the United States, Mar. 30, 1994, 59 F.R. 17229, delegated to the Secretary of State the reporting functions vested in the President by former subsec. (c) of this section.
 
 ----------
 
@@ -81,9 +69,10 @@
 [/us/stat/106/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1688
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-817
+[/us/pl/113/188/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1401
+[/us/stat/128/2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2023
+[/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
-[/us/usc/t22/s2376/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2376%2Fc
 
 

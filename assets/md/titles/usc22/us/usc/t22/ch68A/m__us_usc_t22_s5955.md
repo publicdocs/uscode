@@ -27,7 +27,7 @@
 
     (b) __Reports on demilitarization or conversion projects__ 
 
-    Any report under subsection (a) of this section that covers proposed demilitarization or conversion projects under paragraph (5) or (6) of [section 5952(b) of this title][/us/usc/t22/s5952/b] shall contain additional information to assist the Congress in determining the merits of the proposed projects. Such information shall include descriptions of—
+    Any report under subsection (a) that covers proposed demilitarization or conversion projects under paragraph (5) or (6) of [section 5952(b) of this title][/us/usc/t22/s5952/b] shall contain additional information to assist the Congress in determining the merits of the proposed projects. Such information shall include descriptions of—
 
         (1) the facilities to be demilitarized;
 

@@ -85,7 +85,7 @@
 
     (d) __Activities supported__ 
 
-    Assistance provided under subsection (c) of this section shall, to the maximum extent practicable, be used to carry out the following activities:
+    Assistance provided under subsection (c) shall, to the maximum extent practicable, be used to carry out the following activities:
 
         (1) __Prevention__ 
 

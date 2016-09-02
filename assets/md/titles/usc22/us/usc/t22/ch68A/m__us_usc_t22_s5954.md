@@ -21,7 +21,7 @@
 
     (b) __Limitations__ 
 
-        (1) Not more than $15,000,000 of the funds referred to in subsection (a) of this section may be made available for programs authorized in subsection (b)(6) of [section 5952 of this title][/us/usc/t22/s5952].
+        (1) Not more than $15,000,000 of the funds referred to in subsection (a) may be made available for programs authorized in subsection (b)(6) of [section 5952 of this title][/us/usc/t22/s5952].
 
         (2) Not more than $20,000,000 of such funds may be made available for programs authorized in subsection (b)(7) of [section 5952 of this title][/us/usc/t22/s5952].
 

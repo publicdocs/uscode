@@ -29,11 +29,11 @@
 
     (b) __Consideration of resolution__ 
 
-        Any joint resolution under subsection (a) of this section shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
+        Any joint resolution under subsection (a) shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
 
     (c) __Highly privileged nature of resolution__ 
 
-        For the purpose of expediting the consideration and enactment of joint resolutions under subsection (a) of this section, a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.
+        For the purpose of expediting the consideration and enactment of joint resolutions under subsection (a), a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.
 
 ([Pub. L. 90–629][/us/pl/90/629], ch. 6, § 63, as added [Pub. L. 97–113, title I, § 109(a)][/us/pl/97/113/s109/a], Dec. 29, 1981, [95 Stat. 1525][/us/stat/95/1525]; amended [Pub. L. 99–247, § 1(d)][/us/pl/99/247/s1/d], Feb. 12, 1986, [100 Stat. 9][/us/stat/100/9]; [Pub. L. 104–164, title I, § 141(e)(2)][/us/pl/104/164/s141/e/2], July 21, 1996, [110 Stat. 1433][/us/stat/110/1433]; [Pub. L. 107–228, div. B, title XIV, § 1405(a)(3)][/us/pl/107/228/s1405/a/3], Sept. 30, 2002, [116 Stat. 1457][/us/stat/116/1457]; [Pub. L. 110–429, title II, § 203(b)(1)][/us/pl/110/429/s203/b/1], Oct. 15, 2008, [122 Stat. 4845][/us/stat/122/4845]; [Pub. L. 111–266, title III, § 301(1)][/us/pl/111/266/s301/1], Oct. 8, 2010, [124 Stat. 2804][/us/stat/124/2804].)
 

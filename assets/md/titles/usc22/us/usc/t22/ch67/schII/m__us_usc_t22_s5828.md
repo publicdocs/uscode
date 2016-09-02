@@ -21,7 +21,7 @@
 
     (b) __Enactment of OPIC Authorization Act__ 
 
-        The authority of subsection (a) of this section shall cease to be effective upon the enactment of the Overseas Private Investment Corporation Act Amendments Act of 1992.
+        The authority of subsection (a) shall cease to be effective upon the enactment of the Overseas Private Investment Corporation Act Amendments Act of 1992.
 
 ([Pub. L. 102–511, title III, § 308][/us/pl/102/511/s308], Oct. 24, 1992, [106 Stat. 3335][/us/stat/106/3335].)
 

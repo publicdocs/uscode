@@ -21,7 +21,7 @@
 
     (b) __Waiver__ 
 
-    Assistance prohibited by this section may be furnished to a foreign government described in subsection (a) of this section if the President determines that furnishing such assistance is important to the national interests of the United States and, not later than 15 days before obligating such assistance, furnishes a report to the appropriate committees of Congress including—
+    Assistance prohibited by this section may be furnished to a foreign government described in subsection (a) if the President determines that furnishing such assistance is important to the national interests of the United States and, not later than 15 days before obligating such assistance, furnishes a report to the appropriate committees of Congress including—
 
         (1) a statement of the determination;
 

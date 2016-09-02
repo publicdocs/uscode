@@ -33,7 +33,7 @@
 
         (3) The Historian shall inform the Advisory Committee of any failure by an originating agency to complete its declassification review of a record within 120 days and of any steps taken under paragraph (2).
 
-        (4) If the Advisory Committee determines that the meaning of the records proposed for inclusion in a volume of the FRUS series would be so altered or changed by deletions made under paragraph (1), or if the Advisory Committee determines as a result of inspection of other documents under subsection (a)(3) of this section that the selection of documents could be misleading or lead to an inaccurate or incomplete historical record, then the Advisory Committee shall so advise the Secretary of State and submit recommendations to resolve the issue.
+        (4) If the Advisory Committee determines that the meaning of the records proposed for inclusion in a volume of the FRUS series would be so altered or changed by deletions made under paragraph (1), or if the Advisory Committee determines as a result of inspection of other documents under subsection (a)(3) that the selection of documents could be misleading or lead to an inaccurate or incomplete historical record, then the Advisory Committee shall so advise the Secretary of State and submit recommendations to resolve the issue.
 
         (5)
 

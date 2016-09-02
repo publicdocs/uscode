@@ -29,7 +29,7 @@
 
     (b) __Computation of benefits__ 
 
-        The benefits provided by subsection (a)(2), (3), or (4) of this section shall be actuarially equivalent in value to the payment provided for by subsection (a)(1) of this section and shall be calculated upon such tables of mortality as may be from time to time prescribed for this purpose by the Secretary of the Treasury.
+        The benefits provided by subsection (a)(2), (3), or (4) shall be actuarially equivalent in value to the payment provided for by subsection (a)(1) and shall be calculated upon such tables of mortality as may be from time to time prescribed for this purpose by the Secretary of the Treasury.
 
     (c) __Lump-sum payment; time; order of precedence__ 
 

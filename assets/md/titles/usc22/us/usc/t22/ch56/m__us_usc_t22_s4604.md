@@ -109,7 +109,7 @@
 
     (j) __Participation fees and costs__ 
 
-        The Institute may charge and collect fees and other participation costs from persons and institutions participating in the Institute’s direct activities authorized in subsection (b) of this section.
+        The Institute may charge and collect fees and other participation costs from persons and institutions participating in the Institute’s direct activities authorized in subsection (b).
 
     (k) __Civil actions__ 
 

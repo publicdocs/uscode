@@ -69,7 +69,7 @@
 
     (b) __Criminal__ 
 
-        Any person who knowingly violates any provision of section 6726 or 6745 of this title, shall, in addition to or in lieu of any civil penalty which may be imposed under subsection (a) of this section for such violation, be fined under title 18, imprisoned for not more than one year, or both.
+        Any person who knowingly violates any provision of section 6726 or 6745 of this title, shall, in addition to or in lieu of any civil penalty which may be imposed under subsection (a) for such violation, be fined under title 18, imprisoned for not more than one year, or both.
 
 ([Pub. L. 105–277, div. I, title V, § 501][/us/pl/105/277/s501], Oct. 21, 1998, [112 Stat. 2681–883][/us/stat/112/2681-883].)
 

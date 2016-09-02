@@ -25,7 +25,7 @@
 
     (c) __Limitation on use of funds__ 
 
-        (1) Except as provided in [section 1461 of this title][/us/usc/t22/s1461] and [section 1461–1a of this title][/us/usc/t22/s1461–1a], funds specifically authorized to be appropriated for such public diplomacy programs, identified as public diplomacy funds in any Congressional Presentation Document described in subsection (e) of this section, or reprogrammed for public diplomacy purposes, shall not be used to influence public opinion in the United States, and no program material prepared using such funds shall be distributed or disseminated in the United States.
+        (1) Except as provided in [section 1461 of this title][/us/usc/t22/s1461] and [section 1461–1a of this title][/us/usc/t22/s1461–1a], funds specifically authorized to be appropriated for such public diplomacy programs, identified as public diplomacy funds in any Congressional Presentation Document described in subsection (e), or reprogrammed for public diplomacy purposes, shall not be used to influence public opinion in the United States, and no program material prepared using such funds shall be distributed or disseminated in the United States.
 
         (2)  __Construction__  __.—__ 
 
@@ -57,7 +57,7 @@
 
  __Amendments__ 
 
-    1999—Subsec. (c). [Pub. L. 106–113][/us/pl/106/113] designated existing provisions as par. (1), inserted “, identified as public diplomacy funds in any Congressional Presentation Document described in subsection (e) of this section, or reprogrammed for public diplomacy purposes,” after “diplomacy programs”, and added par. (2).
+    1999—Subsec. (c). [Pub. L. 106–113][/us/pl/106/113] designated existing provisions as par. (1), inserted “, identified as public diplomacy funds in any Congressional Presentation Document described in subsection (e), or reprogrammed for public diplomacy purposes,” after “diplomacy programs”, and added par. (2).
 
 ----------
 

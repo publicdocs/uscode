@@ -53,7 +53,7 @@
 
         (2) __Treatment__ 
 
-            Amounts retained under the authority of paragraph (1) shall be deposited into the fund under subsection (d) of this section.
+            Amounts retained under the authority of paragraph (1) shall be deposited into the fund under subsection (d).
 
 ([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title I, § 38, as added [Pub. L. 99–93, title I, § 128][/us/pl/99/93/s128], Aug. 16, 1985, [99 Stat. 419][/us/stat/99/419]; amended [Pub. L. 103–236, title I, § 123][/us/pl/103/236/s123], Apr. 30, 1994, [108 Stat. 392][/us/stat/108/392]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXII, § 2212(b), Oct. 21, 1998, [112 Stat. 2681–812][/us/stat/112/2681-812]; [Pub. L. 107–228, div. A, title II, § 203][/us/pl/107/228/s203], Sept. 30, 2002, [116 Stat. 1362][/us/stat/116/1362].)
 

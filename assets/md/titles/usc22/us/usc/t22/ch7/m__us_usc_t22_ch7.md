@@ -4731,7 +4731,7 @@ SUBCHAPTER XXVIII—NORTH AMERICAN DEVELOPMENT BANK AND RELATED PROVISIONS  </td
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290m%E2%80%936" data-uslm-ref="/us/usc/t22/s290m–6">290m–6.</a>  </td>
 
-    <td> Annual report.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 

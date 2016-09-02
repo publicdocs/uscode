@@ -17,11 +17,11 @@
 
     (a) __Authority__ 
 
-        The Secretary of State may, by regulation, impose controls on the provision of the services described in subsection (b) of this section if the Secretary determines that provision of such services would aid and abet international terrorism.
+        The Secretary of State may, by regulation, impose controls on the provision of the services described in subsection (b) if the Secretary determines that provision of such services would aid and abet international terrorism.
 
     (b) __Services subject to control__ 
 
-    The services subject to control under subsection (a) of this section are the following:
+    The services subject to control under subsection (a) are the following:
 
         (1) Serving in or with the security forces of a designated foreign government.
 
@@ -31,11 +31,11 @@
 
     (c) __Persons subject of controls__ 
 
-        These services may be controlled under subsection (a) of this section when they are provided within the United States by any individual or entity and when they are provided anywhere in the world by a United States person.
+        These services may be controlled under subsection (a) when they are provided within the United States by any individual or entity and when they are provided anywhere in the world by a United States person.
 
     (d) __Licenses__ 
 
-        In carrying out subsection (a) of this section, the Secretary of State may require licenses, which may be revoked, suspended, or amended, without prior notice, whenever such action is deemed to be advisable.
+        In carrying out subsection (a), the Secretary of State may require licenses, which may be revoked, suspended, or amended, without prior notice, whenever such action is deemed to be advisable.
 
     (e) __Definitions__ 
 

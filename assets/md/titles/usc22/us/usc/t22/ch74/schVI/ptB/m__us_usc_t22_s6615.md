@@ -45,7 +45,7 @@
 
     (c) __No effect on judicial or administrative proceedings__ 
 
-    Except as provided in subsection (e) of this section and [section 6543(d) of this title][/us/usc/t22/s6543/d]—
+    Except as provided in subsection (e) and [section 6543(d) of this title][/us/usc/t22/s6543/d]—
 
         (1) the provisions of this chapter shall not affect suits commenced prior to the effective dates of the respective subchapters of this chapter; and
 

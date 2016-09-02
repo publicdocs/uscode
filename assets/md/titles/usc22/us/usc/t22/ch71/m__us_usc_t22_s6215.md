@@ -23,7 +23,7 @@
 
         (1) __In general__ 
 
-            Effective 15 days after March 11, 2002, or the date on which the report required by subsection (a) of this section is submitted, whichever is later, the Broadcasting Board of Governors is authorized to make grants to support Radio Free Afghanistan.
+            Effective 15 days after March 11, 2002, or the date on which the report required by subsection (a) is submitted, whichever is later, the Broadcasting Board of Governors is authorized to make grants to support Radio Free Afghanistan.
 
         (2) __Supersedes existing limitation on total annual grant amounts__ 
 
@@ -31,7 +31,7 @@
 
     (c) __Available authorities__ 
 
-        In addition to the authorities in this section, the authorities applicable to carry out United States Government broadcasting activities under the United States Information and Educational Exchange Act of 1948 \[[22 U.S.C. 1431][/us/usc/t22/s1431] et seq.\], the United States International Broadcasting Act of 1994 \[[22 U.S.C. 6201][/us/usc/t22/s6201] et seq.\], the Foreign Affairs Reform and Restructuring Act of 1998, and other provisions of law consistent with such purpose may be used to carry out the grant authority of subsection (b) of this section.
+        In addition to the authorities in this section, the authorities applicable to carry out United States Government broadcasting activities under the United States Information and Educational Exchange Act of 1948 \[[22 U.S.C. 1431][/us/usc/t22/s1431] et seq.\], the United States International Broadcasting Act of 1994 \[[22 U.S.C. 6201][/us/usc/t22/s6201] et seq.\], the Foreign Affairs Reform and Restructuring Act of 1998, and other provisions of law consistent with such purpose may be used to carry out the grant authority of subsection (b).
 
     (d) __Standards; oversight__ 
 

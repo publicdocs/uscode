@@ -37,7 +37,7 @@
 
     (e) __Funding of EPA activities__ 
 
-        To enable the Environmental Protection Agency to carry out subsections (b), (c), and (d) of this section, there are authorized to be appropriated $10,000,000 for the 3-year period beginning October 1, 1989, to carry out chapter 1 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151][/us/usc/t22/s2151] and following; relating to development assistance) or chapter 4 of Part  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  II of that Act ([22 U.S.C. 2346][/us/usc/t22/s2346] and following; relating to the economic support fund). These funds may be used to carry out those subsections notwithstanding any provision of law relating to the use of foreign assistance funds.
+        To enable the Environmental Protection Agency to carry out subsections (b), (c), and (d), there are authorized to be appropriated $10,000,000 for the 3-year period beginning October 1, 1989, to carry out chapter 1 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151][/us/usc/t22/s2151] and following; relating to development assistance) or chapter 4 of Part  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  II of that Act ([22 U.S.C. 2346][/us/usc/t22/s2346] and following; relating to the economic support fund). These funds may be used to carry out those subsections notwithstanding any provision of law relating to the use of foreign assistance funds.
 
     (f) __Department of Energy activities relating to fossil fuels__ 
 

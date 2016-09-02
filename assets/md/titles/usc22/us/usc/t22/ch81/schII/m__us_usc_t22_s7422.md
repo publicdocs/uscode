@@ -39,7 +39,7 @@
 
     (b) __Authority to extend waiver of section 7424__ 
 
-    The President is authorized to waive the prohibitions and requirements of [section 7424 of this title][/us/usc/t22/s7424] for successive periods of 1 year each upon the expiration of a previous waiver pursuant to subsection (a) of this section or this subsection. A waiver under this subsection may be issued only if the President at least 15 days in advance of exercising such authority—
+    The President is authorized to waive the prohibitions and requirements of [section 7424 of this title][/us/usc/t22/s7424] for successive periods of 1 year each upon the expiration of a previous waiver pursuant to subsection (a) or this subsection. A waiver under this subsection may be issued only if the President at least 15 days in advance of exercising such authority—
 
         (1) notifies the appropriate congressional committees of the intention to exercise such authority; and
 
@@ -75,7 +75,7 @@
 
          determines and reports to the appropriate congressional committees that—
 
-            (A) a waiver pursuant to subsection (a) or (b) of this section of the prohibitions and requirements of [section 7424 of this title][/us/usc/t22/s7424] is in effect;
+            (A) a waiver pursuant to subsection (a) or (b) of the prohibitions and requirements of [section 7424 of this title][/us/usc/t22/s7424] is in effect;
 
             (B) there is reason to believe that the named individual committed the crime or crimes that are the subject of the International Criminal Court’s investigation or prosecution;
 
@@ -93,7 +93,7 @@
 
     (d) __Termination of waiver pursuant to subsection (c)__ 
 
-        Any waiver or waivers exercised pursuant to subsection (c) of this section of the prohibitions and requirements of sections 7423 and 7425 of this title shall terminate at any time that a waiver pursuant to subsection (a) or (b) of this section of the prohibitions and requirements of [section 7424 of this title][/us/usc/t22/s7424] expires and is not extended pursuant to subsection (b) of this section.
+        Any waiver or waivers exercised pursuant to subsection (c) of the prohibitions and requirements of sections 7423 and 7425 of this title shall terminate at any time that a waiver pursuant to subsection (a) or (b) of the prohibitions and requirements of [section 7424 of this title][/us/usc/t22/s7424] expires and is not extended pursuant to subsection (b).
 
     (e) __Termination of prohibitions of this subchapter__ 
 

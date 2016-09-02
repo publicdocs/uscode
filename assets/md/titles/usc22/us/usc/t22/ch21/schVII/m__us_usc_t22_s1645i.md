@@ -33,7 +33,7 @@
 
     (c) __Regulations__ 
 
-        Payments or applications for payments under subsection (b) of this section shall be made in accordance with such regulations as the Secretary of the Treasury may prescribe.
+        Payments or applications for payments under subsection (b) shall be made in accordance with such regulations as the Secretary of the Treasury may prescribe.
 
 ([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title VII, § 710, as added [Pub. L. 96–606][/us/pl/96/606], Dec. 28, 1980, [94 Stat. 3537][/us/stat/94/3537].)
 

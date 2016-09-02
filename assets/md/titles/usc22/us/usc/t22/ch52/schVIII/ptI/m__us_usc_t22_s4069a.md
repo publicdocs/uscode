@@ -17,7 +17,7 @@
 
     (a) __Eligibility; percentage of benefits__ 
 
-    Any individual who was a former spouse of a participant or former participant on February 14, 1981, shall be entitled, to the extent or in such amounts as are provided in advance in appropriations Acts, and except to the extent such former spouse is disqualified under subsection (b) of this section, to benefits—
+    Any individual who was a former spouse of a participant or former participant on February 14, 1981, shall be entitled, to the extent or in such amounts as are provided in advance in appropriations Acts, and except to the extent such former spouse is disqualified under subsection (b), to benefits—
 
         (1) if married to the participant throughout the creditable service of the participant, equal to 50 percent of the benefits of the participant; or
 
@@ -75,7 +75,7 @@
 
         (1) with respect to a participant or former participant subject to this part, the annuity of the participant or former participant; and
 
-        (2) with respect to a participant or former participant subject to part II of this subchapter, the benefits of the participant or former participant under that part.
+        (2) with respect to a participant or former participant subject to part II, the benefits of the participant or former participant under that part.
 
     (e) __Effect of section on annuity__ 
 

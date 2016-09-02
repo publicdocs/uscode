@@ -17,7 +17,7 @@
 
     (a) __Covered members__ 
 
-        Except for persons excluded by subsection (b), (c), or (d) of this section, all members of the Foreign Service, any of whose service after December 31, 1983, is employment for the purpose of title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] and chapter 21 of title 26, who would, but for this section, be participants in the Foreign Service Retirement and Disability System pursuant to [section 4043 of this title][/us/usc/t22/s4043] shall instead be participants in the Foreign Service Pension System.
+        Except for persons excluded by subsection (b), (c), or (d), all members of the Foreign Service, any of whose service after December 31, 1983, is employment for the purpose of title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] and chapter 21 of title 26, who would, but for this section, be participants in the Foreign Service Retirement and Disability System pursuant to [section 4043 of this title][/us/usc/t22/s4043] shall instead be participants in the Foreign Service Pension System.
 
     (b) __Exclusion of participants in Foreign Service Retirement and Disability System__ 
 

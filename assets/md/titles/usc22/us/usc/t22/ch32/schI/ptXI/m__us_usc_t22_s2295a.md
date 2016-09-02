@@ -75,7 +75,7 @@
 
     (c) __Exceptions to ineligibility__ 
 
-    Assistance prohibited by subsection (b) of this section or any similar provision of law, other than assistance prohibited by the provisions referred to in subsection (b)(4) of this section, may be furnished under any of the following circumstances:
+    Assistance prohibited by subsection (b) or any similar provision of law, other than assistance prohibited by the provisions referred to in subsection (b)(4), may be furnished under any of the following circumstances:
 
         (1) The President determines that furnishing such assistance is important to the national interest of the United States.
 

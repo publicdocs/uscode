@@ -33,7 +33,7 @@
 
     (c) __Standard for verification of compliance__ 
 
-        In making determinations under paragraphs (1) and (2) of subsection (a) of this section, the Secretary of State shall assume that all measures of concealment not expressly prohibited could be employed and that standard practices could be altered so as to impede verification.
+        In making determinations under paragraphs (1) and (2) of subsection (a), the Secretary of State shall assume that all measures of concealment not expressly prohibited could be employed and that standard practices could be altered so as to impede verification.
 
     (d) __Rule of construction__ 
 

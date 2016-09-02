@@ -33,7 +33,7 @@
 
     (c) __Transmission of certification__ 
 
-    The certification required by subsection (a) of this section shall be transmitted—
+    The certification required by subsection (a) shall be transmitted—
 
         (1) not less than 15 calendar days before the agreement is entered into or renewed in the case of an agreement with the North Atlantic Treaty Organization, any member country of that Organization or Australia, Japan, the Republic of Korea, Israel, or New Zealand; and
 

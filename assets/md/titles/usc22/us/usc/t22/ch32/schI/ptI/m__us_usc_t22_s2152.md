@@ -29,7 +29,7 @@
 
         (1) for direct services to victims of torture; and
 
-        (2) to provide research and training to health care providers outside of treatment centers or programs described in subsection (b) of this section, for the purpose of enabling such providers to provide the services described in paragraph (1).
+        (2) to provide research and training to health care providers outside of treatment centers or programs described in subsection (b), for the purpose of enabling such providers to provide the services described in paragraph (1).
 
 ([Pub. L. 87–195][/us/pl/87/195], pt. I, § 130, formerly § 129, as added [Pub. L. 105–320, § 4(a)][/us/pl/105/320/s4/a], Oct. 30, 1998, [112 Stat. 3017][/us/stat/112/3017]; renumbered § 130, [Pub. L. 106–87, § 6(a)][/us/pl/106/87/s6/a], Nov. 3, 1999, [113 Stat. 1302][/us/stat/113/1302].)
 

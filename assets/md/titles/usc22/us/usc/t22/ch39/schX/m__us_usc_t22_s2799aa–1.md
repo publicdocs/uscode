@@ -163,7 +163,7 @@
 
  __Waiver of Certain Sanctions Against North Korea__ 
 
-[Pub. L. 110–252, title I, § 1405][/us/pl/110/252/s1405], June 30, 2008, [122 Stat. 2337][/us/stat/122/2337], provided that:
+[Pub. L. 110–252, title I, § 1405][/us/pl/110/252/s1405], June 30, 2008, [122 Stat. 2337][/us/stat/122/2337], as amended by [Pub. L. 113–188, title VIII, § 801][/us/pl/113/188/s801], Nov. 26, 2014, [128 Stat. 2020][/us/stat/128/2020], provided that:
 
 >     “(a) __Waiver Authority.—__ 
 
@@ -207,47 +207,7 @@
 
 >         The authority under subsection (a) shall not apply with respect to any export of lethal defense articles that would be prevented by the application of section 102(b)(2) of the Arms Export Control Act \[[22 U.S.C. 2799aa–1(b)(2)][/us/usc/t22/s2799aa–1/b/2]\].
 
->     “(c) __Notifications and Reports.—__ 
-
->         “(1)  __Congressional notification__  __.—__ 
-
->         The President shall notify the appropriate congressional committees in writing not later than 15 days before exercising the waiver authority under subsection (a).
-
->         “(2)  __Annual report__  __.—__ 
-
->         Not later than January 31, 2009, and annually thereafter, the President shall submit to the appropriate congressional committees a report that—
-
->             “(A) lists all waivers issued under subsection (a) during the preceding year;
-
->             “(B) describes in detail the progress that is being made in the implementation of the commitment undertaken by North Korea, in the Joint Statement of September 19, 2005, to abandon all nuclear weapons and existing nuclear programs as part of the verifiable denuclearization of the Korean Peninsula;
-
->             “(C) discusses specifically any shortcomings in the implementation by North Korea of that commitment; and
-
->             “(D) lists and describes the progress and shortcomings, in the preceding year, of all other programs promoting the elimination of the capability of North Korea to develop, deploy, transfer, or maintain weapons of mass destruction or their delivery systems.
-
->         “(3) __Report on verification measures relating to north korea’s nuclear programs.—__ 
-
->             “(A)  __In general__  __.—__ 
-
->             Not later than 15 days after the date of enactment of this Act \[June 30, 2008\], the Secretary of State shall submit to the appropriate congressional committees a report on verification measures relating to North Korea’s nuclear programs under the Six-Party Talks Agreement of February 13, 2007, with specific focus on how such verification measures are defined under the Six-Party Talks Agreement and understood by the United States Government.
-
->             “(B)  __Matters to be included__  __.—__ 
-
->             The report required under subsection (A) shall include, among other elements, a description of—
-
->                 “(i) how the United States will confirm that North Korea has ‘provided a complete and correct declaration of all of its nuclear programs’;
-
->                 “(ii) how the United States will maintain a high and ongoing level of confidence that North Korea has fully met the terms of the Six-Party Talks Agreement relating to its nuclear programs;
-
->                 “(iii) any diplomatic agreement with North Korea regarding verification measures relating to North Korea’s nuclear programs under the Six-Party Talks Agreement (other than implementing arrangements made during on-site operations); and
-
->                 “(iv) any significant and continuing disagreement with North Korea regarding verification measures relating to North Korea’s nuclear programs under the Six-Party Talks Agreement.
-
->             “(C)  __Form__  __.—__ 
-
->             The report required under subsection (A) shall be submitted in unclassified form, but may include a classified annex.
-
->     “(d)  __Appropriate Congressional Committees Defined__  __.—__ 
+>     “(c)  __Appropriate Congressional Committees Defined__  __.—__ 
 
 >     In this section, the term ‘appropriate congressional committees’ means—
 
@@ -378,6 +338,8 @@ Provisions relating to waiver of sanctions against India and Pakistan consistent
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/pl/110/252/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs1405
 [/us/stat/122/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2337
+[/us/pl/113/188/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs801
+[/us/stat/128/2020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2020
 [/us/usc/t22/s2799aa–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799aa%E2%80%931%2Fb
 [/us/usc/t22/s2799aa–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799aa%E2%80%931%2Fb
 [/us/usc/t22/s2799aa–1/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2799aa%E2%80%931%2Fb%2F1%2FA

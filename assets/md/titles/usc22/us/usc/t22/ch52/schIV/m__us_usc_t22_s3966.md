@@ -27,7 +27,7 @@
 
     (b) __Additional increase for meritorious service__ 
 
-        The Secretary may grant, on the basis of especially meritorious service, to any member of the Service receiving an increase in salary under subsection (a) of this section, an additional salary increase to any higher step in the salary class in which the member is serving.
+        The Secretary may grant, on the basis of especially meritorious service, to any member of the Service receiving an increase in salary under subsection (a), an additional salary increase to any higher step in the salary class in which the member is serving.
 
 ([Pub. L. 96–465, title I, § 406][/us/pl/96/465/s406], Oct. 17, 1980, [94 Stat. 2089][/us/stat/94/2089].)
 

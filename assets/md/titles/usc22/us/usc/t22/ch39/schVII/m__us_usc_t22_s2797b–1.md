@@ -21,7 +21,7 @@
 
     (b) __Intelligence assessment report__ 
 
-        At such times that a report is transmitted pursuant to subsection (a) of this section, the Director of Central Intelligence shall promptly prepare and submit to the Congress a separate report containing any credible information indicating that the country described in subsection (a) of this section has engaged in any activity identified under subparagraph (A), (B), or (C) of [section 2797b(a)(1) of this title][/us/usc/t22/s2797b/a/1] within the previous two years.
+        At such times that a report is transmitted pursuant to subsection (a), the Director of Central Intelligence shall promptly prepare and submit to the Congress a separate report containing any credible information indicating that the country described in subsection (a) has engaged in any activity identified under subparagraph (A), (B), or (C) of [section 2797b(a)(1) of this title][/us/usc/t22/s2797b/a/1] within the previous two years.
 
 ([Pub. L. 90–629][/us/pl/90/629], ch. 7, § 73A, as added [Pub. L. 103–236, title VII, § 735(d)][/us/pl/103/236/s735/d], Apr. 30, 1994, [108 Stat. 506][/us/stat/108/506]; amended [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XI, § 1136(d)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–496.)
 

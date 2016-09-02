@@ -21,11 +21,11 @@
 
     (b) __Authorization for assistance__ 
 
-        To carry out the purpose of subsection (a) of this section, the President is authorized to provide assistance to the countries of the South Caucasus and Central Asia to support the activities described in subsection (c) of this section.
+        To carry out the purpose of subsection (a), the President is authorized to provide assistance to the countries of the South Caucasus and Central Asia to support the activities described in subsection (c).
 
     (c) __Activities supported__ 
 
-        Activities that may be supported by assistance under subsection (b) of this section include assisting those countries of the South Caucasus and Central Asia in developing capabilities to maintain national border guards, coast guard, and customs controls.
+        Activities that may be supported by assistance under subsection (b) include assisting those countries of the South Caucasus and Central Asia in developing capabilities to maintain national border guards, coast guard, and customs controls.
 
 ([Pub. L. 87–195][/us/pl/87/195], pt. I, § 499C, as added [Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 596(b)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–124.)
 

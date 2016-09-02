@@ -25,17 +25,17 @@
 
     (c) __Notice__ 
 
-        Notice of an action brought under subsection (b) of this section shall be given in accordance with the applicable law governing notice in interstate child custody proceedings.
+        Notice of an action brought under subsection (b) shall be given in accordance with the applicable law governing notice in interstate child custody proceedings.
 
     (d) __Determination of case__ 
 
-        The court in which an action is brought under subsection (b) of this section shall decide the case in accordance with the Convention.
+        The court in which an action is brought under subsection (b) shall decide the case in accordance with the Convention.
 
     (e) __Burdens of proof__ 
 
         (1)
 
-         A petitioner in an action brought under subsection (b) of this section shall establish by a preponderance of the evidence—
+         A petitioner in an action brought under subsection (b) shall establish by a preponderance of the evidence—
 
             (A) in the case of an action for the return of a child, that the child has been wrongfully removed or retained within the meaning of the Convention; and
 

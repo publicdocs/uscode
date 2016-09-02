@@ -33,7 +33,7 @@
 
     (d) __Regulations__ 
 
-        The heads of the agencies referred to in subsection (b)(2) of this section may prescribe regulations to carry out this section.
+        The heads of the agencies referred to in subsection (b)(2) may prescribe regulations to carry out this section.
 
 ([Pub. L. 96–465, title I, § 414][/us/pl/96/465/s414], as added [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title III, § 333(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–439.)
 

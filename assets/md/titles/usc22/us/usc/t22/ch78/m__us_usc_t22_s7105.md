@@ -79,7 +79,7 @@
 
                     (II)
 
-                        (aa) has made a bona fide application for a visa under [section 1101(a)(15)(T) of title 8][/us/usc/t8/s1101/a/15/T], as added by subsection (e) of this section, that has not been denied; or
+                        (aa) has made a bona fide application for a visa under [section 1101(a)(15)(T) of title 8][/us/usc/t8/s1101/a/15/T], as added by subsection (e), that has not been denied; or
 
                         (bb) is a person whose continued presence in the United States the Secretary of Homeland Security is ensuring in order to effectuate prosecution of traffickers in persons.
 
@@ -217,7 +217,7 @@
 
     (d) __Construction__ 
 
-        Nothing in subsection (c) of this section shall be construed as creating any private cause of action against the United States or its officers or employees.
+        Nothing in subsection (c) shall be construed as creating any private cause of action against the United States or its officers or employees.
 
     (e) __Protection from removal for certain crime victims__ 
 
@@ -225,7 +225,7 @@
 
         (5) __Statutory construction__ 
 
-            Nothing in this section, or in the amendments made by this section, shall be construed as prohibiting the Secretary of Homeland Security from instituting removal proceedings under [section 1229a of title 8][/us/usc/t8/s1229a] against an alien admitted as a nonimmigrant under [section 1101(a)(15)(T)(i) of title 8][/us/usc/t8/s1101/a/15/T/i], as added by subsection (e) of this section, for conduct committed after the alien’s admission into the United States, or for conduct or a condition that was not disclosed to the Secretary of Homeland Security prior to the alien’s admission as a nonimmigrant under such [section 1101(a)(15)(T)(i) of title 8][/us/usc/t8/s1101/a/15/T/i].
+            Nothing in this section, or in the amendments made by this section, shall be construed as prohibiting the Secretary of Homeland Security from instituting removal proceedings under [section 1229a of title 8][/us/usc/t8/s1229a] against an alien admitted as a nonimmigrant under [section 1101(a)(15)(T)(i) of title 8][/us/usc/t8/s1101/a/15/T/i], as added by subsection (e), for conduct committed after the alien’s admission into the United States, or for conduct or a condition that was not disclosed to the Secretary of Homeland Security prior to the alien’s admission as a nonimmigrant under such [section 1101(a)(15)(T)(i) of title 8][/us/usc/t8/s1101/a/15/T/i].
 
     (f)  __ <sup>\[__  __3__  __\]</sup> __  __ <sup><sup> __  __3__  __ So in original. Two subsecs. (f) have been enacted.__  __ </sup></sup> __  __Assistance for United States citizens and lawful permanent residents__ 
 
@@ -257,7 +257,7 @@
 
     (g) __Annual reports__ 
 
-        On or before October 31 of each year, the Secretary of Homeland Security shall submit a report to the appropriate congressional committees setting forth, with respect to the preceding fiscal year, the number, if any, of otherwise eligible applicants who did not receive visas under [section 1101(a)(15)(T) of title 8][/us/usc/t8/s1101/a/15/T], as added by subsection (e) of this section, or who were unable to adjust their status under section 1255(l) of title 8, solely on account of the unavailability of visas due to a limitation imposed by section 1184(o)(2) or 1255(l)(4)(A) of title 8.
+        On or before October 31 of each year, the Secretary of Homeland Security shall submit a report to the appropriate congressional committees setting forth, with respect to the preceding fiscal year, the number, if any, of otherwise eligible applicants who did not receive visas under [section 1101(a)(15)(T) of title 8][/us/usc/t8/s1101/a/15/T], as added by subsection (e), or who were unable to adjust their status under section 1255(l) of title 8, solely on account of the unavailability of visas due to a limitation imposed by section 1184(o)(2) or 1255(l)(4)(A) of title 8.
 
 ([Pub. L. 106–386, div. A, § 107][/us/pl/106/386/s107], Oct. 28, 2000, [114 Stat. 1474][/us/stat/114/1474]; [Pub. L. 107–228, div. A, title VI, § 682(a)][/us/pl/107/228/s682/a], Sept. 30, 2002, [116 Stat. 1409][/us/stat/116/1409]; [Pub. L. 108–193][/us/pl/108/193], §§ 4(a)(1)–(3), 6(a)(2), 8(b)(2), Dec. 19, 2003, [117 Stat. 2877][/us/stat/117/2877], 2880, 2887; [Pub. L. 109–162, title VIII, § 804][/us/pl/109/162/s804], Jan. 5, 2006, [119 Stat. 3055][/us/stat/119/3055]; [Pub. L. 109–164, title I, § 102(a)][/us/pl/109/164/s102/a], Jan. 10, 2006, [119 Stat. 3560][/us/stat/119/3560]; [Pub. L. 110–457, title I, § 104][/us/pl/110/457/s104], title II, §§ 205(a)(1), 212, 213(a)(1), (3), Dec. 23, 2008, [122 Stat. 5046][/us/stat/122/5046], 5060, 5063, 5064, 5066; [Pub. L. 113–4, title XII][/us/pl/113/4], §§ 1203(b), 1234, Mar. 7, 2013, [127 Stat. 139][/us/stat/127/139], 146.)
 

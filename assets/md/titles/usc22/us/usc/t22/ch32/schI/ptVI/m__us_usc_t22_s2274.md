@@ -53,7 +53,7 @@
 
     (c) __Participation of President in Organization__ 
 
-        Subject to subsection (d)(2) of this section, the President is authorized to participate in the Organization.
+        Subject to subsection (d)(2), the President is authorized to participate in the Organization.
 
     (d) __Preparation and transmission of proposal for implementation of provisions__ 
 

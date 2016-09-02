@@ -21,7 +21,7 @@
 
     (b) __Authorization of appropriations__ 
 
-        There are authorized to be appropriated $2,000,000 to carry out subsection (a) of this section.
+        There are authorized to be appropriated $2,000,000 to carry out subsection (a).
 
 ([Pub. L. 102–511, title III, § 307][/us/pl/102/511/s307], Oct. 24, 1992, [106 Stat. 3335][/us/stat/106/3335].)
 

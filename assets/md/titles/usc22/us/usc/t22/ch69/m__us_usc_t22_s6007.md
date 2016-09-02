@@ -31,7 +31,7 @@
 
     (b) __Policies__ 
 
-    If the President makes a determination under subsection (a) of this section, the President shall take the following actions with respect to a Cuban Government elected pursuant to elections described in subsection (a) of this section:
+    If the President makes a determination under subsection (a), the President shall take the following actions with respect to a Cuban Government elected pursuant to elections described in subsection (a):
 
         (1) To encourage the admission or reentry of such government to international organizations and international financial institutions.
 

@@ -31,7 +31,7 @@
 
     (4) __Confiscated__ 
 
-    As used in subchapters I and III of this chapter, the term “confiscated” refers to—
+    As used in subchapters I and III, the term “confiscated” refers to—
 
         (A)
 
@@ -105,7 +105,7 @@
 
         (A)
 
-         As used in subchapter III of this chapter, and except as provided in subparagraph (B), a person “traffics” in confiscated property if that person knowingly and intentionally—
+         As used in subchapter III, and except as provided in subparagraph (B), a person “traffics” in confiscated property if that person knowingly and intentionally—
 
             (i) sells, transfers, distributes, dispenses, brokers, manages, or otherwise disposes of confiscated property, or purchases, leases, receives, possesses, obtains control of, manages, uses, or otherwise acquires or holds an interest in confiscated property,
 

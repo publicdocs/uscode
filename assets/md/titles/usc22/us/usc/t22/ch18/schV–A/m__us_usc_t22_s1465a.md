@@ -21,7 +21,7 @@
 
     (b) __Broadcasting as part of Voice of America__ 
 
-        Radio broadcasting in accordance with subsection (a) of this section shall be part of the Voice of America radio broadcasting to Cuba and shall be in accordance with all Voice of America standards to ensure the broadcast of programs which are objective, accurate, balanced, and which present a variety of views.
+        Radio broadcasting in accordance with subsection (a) shall be part of the Voice of America radio broadcasting to Cuba and shall be in accordance with all Voice of America standards to ensure the broadcast of programs which are objective, accurate, balanced, and which present a variety of views.
 
     (c) __Location of broadcast facilities; frequency; leased time from nongovernmental shortwave stations__ 
 
@@ -29,7 +29,7 @@
 
     (d) __Changes in frequencies to other AM bands; jamming and interference__ 
 
-        Notwithstanding subsection (c) of this section, in the event that broadcasts to Cuba on the 1180 AM frequency are subject to jamming or interference greater by 25 per centum or more than the average daily jamming or interference in the twelve months preceding September 1, 1983, the Broadcasting Board of Governors may lease time on commercial or noncommercial educational AM band radio broadcasting stations. The Federal Communications Commission shall determine levels of jamming and interference by conducting regular monitoring of the 1180 AM frequency. In the event that more than two hours a day of time is leased, not less than 30 per centum of the programing broadcast shall be regular Voice of America broadcasts with particular emphasis on news and programs meeting the requirements of section 1463(2) 1 of this title.
+        Notwithstanding subsection (c), in the event that broadcasts to Cuba on the 1180 AM frequency are subject to jamming or interference greater by 25 per centum or more than the average daily jamming or interference in the twelve months preceding September 1, 1983, the Broadcasting Board of Governors may lease time on commercial or noncommercial educational AM band radio broadcasting stations. The Federal Communications Commission shall determine levels of jamming and interference by conducting regular monitoring of the 1180 AM frequency. In the event that more than two hours a day of time is leased, not less than 30 per centum of the programing broadcast shall be regular Voice of America broadcasts with particular emphasis on news and programs meeting the requirements of section 1463(2) 1 of this title.
 
     (e) __Voice of America: Cuba Service; Voice of America: Radio Marti program__ 
 

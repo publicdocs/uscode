@@ -25,7 +25,7 @@
 
     (b)
 
-     Not later than 3 years after February 15, 1981, Foreign Service Reserve officers and staff officers and employees who the Secretary determines under subsection (a)(2) of this section are not available for worldwide assignment shall also be converted, in accordance with [section 4156 of this title][/us/usc/t22/s4156], to the appropriate class in the Foreign Service Schedule established under [section 3963 of this title][/us/usc/t22/s3963] if—
+     Not later than 3 years after February 15, 1981, Foreign Service Reserve officers and staff officers and employees who the Secretary determines under subsection (a)(2) are not available for worldwide assignment shall also be converted, in accordance with [section 4156 of this title][/us/usc/t22/s4156], to the appropriate class in the Foreign Service Schedule established under [section 3963 of this title][/us/usc/t22/s3963] if—
 
         (1) the Secretary certifies that there is a need for their services in the Foreign Service; and
 

@@ -53,7 +53,7 @@
 
     (d) __Consistency with budget requirements__ 
 
-        Subsection (c) of this section should not be construed to authorize or require any budgetary obligations or outlays that are inconsistent with House Concurrent Resolution 106 of the 101st Congress (setting forth the congressional budget for the United States Government for fiscal year 1990).
+        Subsection (c) should not be construed to authorize or require any budgetary obligations or outlays that are inconsistent with House Concurrent Resolution 106 of the 101st Congress (setting forth the congressional budget for the United States Government for fiscal year 1990).
 
 ([Pub. L. 101–179, title I, § 103][/us/pl/101/179/s103], Nov. 28, 1989, [103 Stat. 1303][/us/stat/103/1303]; [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(U), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820], 1821.)
 

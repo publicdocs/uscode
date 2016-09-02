@@ -37,11 +37,11 @@
 
     (b) __Authorization__ 
 
-        To carry out the purposes of subsection (a) of this section, the President is authorized to furnish assistance for programs in developing countries to provide affordable and equitable access to safe water and sanitation.
+        To carry out the purposes of subsection (a), the President is authorized to furnish assistance for programs in developing countries to provide affordable and equitable access to safe water and sanitation.
 
     (c) __Activities supported__ 
 
-    Assistance provided under subsection (b) of this section shall, to the maximum extent practicable, be used to—
+    Assistance provided under subsection (b) shall, to the maximum extent practicable, be used to—
 
         (1) expand affordable and equitable access to safe water and sanitation for underserved populations;
 

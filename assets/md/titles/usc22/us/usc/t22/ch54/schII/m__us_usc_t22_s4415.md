@@ -21,7 +21,7 @@
 
     (b) __Publication in Federal Register__ 
 
-        For purposes of complying pursuant to subsection (a) of this section with section 552(a)(1) of such title, the Endowment shall make available to the Director of the United States Information Agency such records and other information as the Director determines may be necessary for such purposes. The Director shall cause such records and other information to be published in the Federal Register.
+        For purposes of complying pursuant to subsection (a) with section 552(a)(1) of such title, the Endowment shall make available to the Director of the United States Information Agency such records and other information as the Director determines may be necessary for such purposes. The Director shall cause such records and other information to be published in the Federal Register.
 
     (c) __Review by United States Information Agency__ 
 

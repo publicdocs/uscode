@@ -21,7 +21,7 @@
 
     (b) __En banc review__ 
 
-        Notwithstanding any other provision of law, during the full calendar year of, and the two full calendar years following October 21, 1998, any appeal from a final order entered by a district court in an action brought under subsection (a) of this section shall be heard promptly by the full Court of Appeals sitting en banc.
+        Notwithstanding any other provision of law, during the full calendar year of, and the two full calendar years following October 21, 1998, any appeal from a final order entered by a district court in an action brought under subsection (a) shall be heard promptly by the full Court of Appeals sitting en banc.
 
 ([Pub. L. 105–277, div. I, title V, § 503][/us/pl/105/277/s503], Oct. 21, 1998, [112 Stat. 2681–885][/us/stat/112/2681-885].)
 

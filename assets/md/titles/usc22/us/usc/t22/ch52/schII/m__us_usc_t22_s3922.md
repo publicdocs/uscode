@@ -45,7 +45,7 @@
 
      Subject to [section 3921(b) of this title][/us/usc/t22/s3921/b]—
 
-        (1) the agency heads referred to in subsection (a) of this section, and
+        (1) the agency heads referred to in subsection (a), and
 
         (2) the head of any other agency (to the extent authority to utilize the Foreign Service personnel system is granted to such agency head under any other chapter),
 

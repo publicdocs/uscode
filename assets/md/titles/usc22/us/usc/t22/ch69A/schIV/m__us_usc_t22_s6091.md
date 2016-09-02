@@ -87,7 +87,7 @@
 
     (c) __Exemption__ 
 
-        This section shall not apply where the Secretary of State finds, on a case by case basis, that the entry into the United States of the person who would otherwise be excluded under this section is necessary for medical reasons or for purposes of litigation of an action under subchapter III of this chapter.
+        This section shall not apply where the Secretary of State finds, on a case by case basis, that the entry into the United States of the person who would otherwise be excluded under this section is necessary for medical reasons or for purposes of litigation of an action under subchapter III.
 
     (d) __Effective date__ 
 
@@ -103,7 +103,7 @@
 
  __References in Text__ 
 
-    Subchapter III of this chapter, referred to in subsec. (c), was in the original “title III”, meaning title III of [Pub. L. 104–114][/us/pl/104/114], Mar. 12, 1996, [110 Stat. 814][/us/stat/110/814], which enacted subchapter III of this chapter and sections 1643l and 1643m of this title and amended [section 1611 of Title 28][/us/usc/t28/s1611], Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Tables.
+    Subchapter III, referred to in subsec. (c), was in the original “title III”, meaning title III of [Pub. L. 104–114][/us/pl/104/114], Mar. 12, 1996, [110 Stat. 814][/us/stat/110/814], which enacted subchapter III of this chapter and sections 1643l and 1643m of this title and amended [section 1611 of Title 28][/us/usc/t28/s1611], Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Tables.
 
  __Reports on Determinations Under Title IV of the LIBERTAD Act__ 
 

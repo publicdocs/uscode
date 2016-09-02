@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    Subject to subsection (b) of this section, the President may waive the application of any of the actions described in paragraphs (9) through (15) of [section 6445(a) of this title][/us/usc/t22/s6445/a] (or commensurate action in substitution thereto) with respect to a country, if the President determines and so reports to the appropriate congressional committees that—
+    Subject to subsection (b), the President may waive the application of any of the actions described in paragraphs (9) through (15) of [section 6445(a) of this title][/us/usc/t22/s6445/a] (or commensurate action in substitution thereto) with respect to a country, if the President determines and so reports to the appropriate congressional committees that—
 
         (1) the respective foreign government has ceased the violations giving rise to the Presidential action;
 
@@ -27,7 +27,7 @@
 
     (b) __Congressional notification__ 
 
-        Not later than the date of the exercise of a waiver under subsection (a) of this section, the President shall notify the appropriate congressional committees of the waiver or the intention to exercise the waiver, together with a detailed justification thereof.
+        Not later than the date of the exercise of a waiver under subsection (a), the President shall notify the appropriate congressional committees of the waiver or the intention to exercise the waiver, together with a detailed justification thereof.
 
 ([Pub. L. 105–292, title IV, § 407][/us/pl/105/292/s407], Oct. 27, 1998, [112 Stat. 2808][/us/stat/112/2808].)
 

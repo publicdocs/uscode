@@ -21,7 +21,7 @@
 
     (b) __Authorization of transfer of funds__ 
 
-    The Secretary of Defense may, to the extent provided in appropriations Acts, transfer from the account “Operation and Maintenance, Defense Agencies” for fiscal year 1993 a sum not to exceed the amount appropriated pursuant to the authorization in subsection (a) of this section to—
+    The Secretary of Defense may, to the extent provided in appropriations Acts, transfer from the account “Operation and Maintenance, Defense Agencies” for fiscal year 1993 a sum not to exceed the amount appropriated pursuant to the authorization in subsection (a) to—
 
         (1) other accounts of the Department of Defense for the purpose of providing assistance to the independent states of the former Soviet Union; or
 
@@ -29,13 +29,13 @@
 
     (c) __Administrative provisions__ 
 
-        (1) Amounts transferred under subsection (b) of this section shall be available subject to the same terms and conditions as the appropriations to which transferred.
+        (1) Amounts transferred under subsection (b) shall be available subject to the same terms and conditions as the appropriations to which transferred.
 
         (2) The authority to make transfers pursuant to this section is in addition to any other transfer authority of the Department of Defense.
 
     (d) __Coordination of programs__ 
 
-        The President shall coordinate the programs described in subsection (b) of this section with those authorized in the other provisions of this chapter and in the provisions of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 ([Public Law 102–511][/us/pl/102/511]) so as to optimize the contribution such programs make to the national interests of the United States.
+        The President shall coordinate the programs described in subsection (b) with those authorized in the other provisions of this chapter and in the provisions of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 ([Public Law 102–511][/us/pl/102/511]) so as to optimize the contribution such programs make to the national interests of the United States.
 
 ([Pub. L. 103–160, div. A, title XII, § 1209][/us/pl/103/160/s1209], Nov. 30, 1993, [107 Stat. 1782][/us/stat/107/1782].)
 

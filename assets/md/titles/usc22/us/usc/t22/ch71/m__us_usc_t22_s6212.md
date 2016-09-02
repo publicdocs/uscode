@@ -25,7 +25,7 @@
 
     (b) __Subsequent authorization__ 
 
-        The limitation under subsection (a) of this section shall not apply to the extent that an authorization of appropriations is enacted after such funds are appropriated.
+        The limitation under subsection (a) shall not apply to the extent that an authorization of appropriations is enacted after such funds are appropriated.
 
     (c) __Application__ 
 

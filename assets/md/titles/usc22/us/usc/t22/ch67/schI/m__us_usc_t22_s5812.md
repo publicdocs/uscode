@@ -33,11 +33,11 @@
 
     (b) __Export promotion activities__ 
 
-        Consistent with subsection (a) of this section, coordination of activities related to the promotion of exports of United States goods and services to the independent states of the former Soviet Union shall continue to be primarily the responsibility of the Secretary of Commerce, in the Secretary’s role as Chair of the Trade Promotion Coordination Committee.
+        Consistent with subsection (a), coordination of activities related to the promotion of exports of United States goods and services to the independent states of the former Soviet Union shall continue to be primarily the responsibility of the Secretary of Commerce, in the Secretary’s role as Chair of the Trade Promotion Coordination Committee.
 
     (c) __International economic activities__ 
 
-        Consistent with subsection (a) of this section, coordination of activities relating to United States participation in international financial institutions and relating to organization of multilateral efforts aimed at currency stabilization, currency convertibility, debt reduction, and comprehensive economic reform programs shall continue to be primarily the responsibility of the Secretary of the Treasury, in the Secretary’s role as Chair of the National Advisory Council on International Monetary and Financial Policies and as the United States Governor of the international financial institutions.
+        Consistent with subsection (a), coordination of activities relating to United States participation in international financial institutions and relating to organization of multilateral efforts aimed at currency stabilization, currency convertibility, debt reduction, and comprehensive economic reform programs shall continue to be primarily the responsibility of the Secretary of the Treasury, in the Secretary’s role as Chair of the National Advisory Council on International Monetary and Financial Policies and as the United States Governor of the international financial institutions.
 
     (d) __Accountability for funds__ 
 

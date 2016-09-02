@@ -33,13 +33,13 @@
 
     (b) __Rank and status of the coordinator__ 
 
-        The coordinator designated under subsection (a) of this section shall have the rank and status of ambassador.
+        The coordinator designated under subsection (a) shall have the rank and status of ambassador.
 
     (c) __Assistance plan__ 
 
         (1) __Submission to Congress__ 
 
-        The coordinator designated under subsection (a) of this section shall annually submit the Afghanistan assistance plan of the Administration to—
+        The coordinator designated under subsection (a) shall annually submit the Afghanistan assistance plan of the Administration to—
 
             (A) the Committee on Foreign Relations of the Senate;
 
@@ -61,11 +61,11 @@
 
         (1) __In general__ 
 
-            The coordinator designated under subsection (a) of this section shall work with the international community and the Government of Afghanistan to ensure that assistance to Afghanistan is implemented in a coherent, consistent, and efficient manner to prevent duplication and waste.
+            The coordinator designated under subsection (a) shall work with the international community and the Government of Afghanistan to ensure that assistance to Afghanistan is implemented in a coherent, consistent, and efficient manner to prevent duplication and waste.
 
         (2) __International financial institutions__ 
 
-            The coordinator designated under subsection (a) of this section, under the direction of the Secretary of State, shall work through the Secretary of the Treasury and the United States Executive Directors at the international financial institutions (as defined in [section 262r(c)(2) of this title][/us/usc/t22/s262r/c/2]) to coordinate United States assistance for Afghanistan with international financial institutions.
+            The coordinator designated under subsection (a), under the direction of the Secretary of State, shall work through the Secretary of the Treasury and the United States Executive Directors at the international financial institutions (as defined in [section 262r(c)(2) of this title][/us/usc/t22/s262r/c/2]) to coordinate United States assistance for Afghanistan with international financial institutions.
 
 ([Pub. L. 107–327, title I, § 104][/us/pl/107/327/s104], Dec. 4, 2002, [116 Stat. 2804][/us/stat/116/2804]; [Pub. L. 108–458, title VII, § 7104(c)(2)][/us/pl/108/458/s7104/c/2], (d), Dec. 17, 2004, [118 Stat. 3781][/us/stat/118/3781].)
 

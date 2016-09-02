@@ -185,7 +185,7 @@
 
         (4) __Relationship to certain other provisions of law__ 
 
-            The authority of the President to accept the return of a repairable defense article as provided in subsection (a) of this section shall not be subject to chapter 137 of title 10 or any other provision of law relating to the conclusion of contracts.
+            The authority of the President to accept the return of a repairable defense article as provided in subsection (a) shall not be subject to chapter 137 of title 10 or any other provision of law relating to the conclusion of contracts.
 
     (m) __Return of defense articles__ 
 

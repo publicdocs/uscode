@@ -17,7 +17,7 @@
 
     (a) __Compliance with regulations__ 
 
-        Each mission, members of the mission and their families, and individuals described in section 19 of the Convention on Privileges and Immunities of the United Nations of February 13, 1946, shall comply with any requirement imposed by the regulations promulgated by the Director of the Office of Foreign Missions in the Department of State pursuant to subsection (b) of this section.
+        Each mission, members of the mission and their families, and individuals described in section 19 of the Convention on Privileges and Immunities of the United Nations of February 13, 1946, shall comply with any requirement imposed by the regulations promulgated by the Director of the Office of Foreign Missions in the Department of State pursuant to subsection (b).
 
     (b) __Establishment by regulation of liability insurance requirements__ 
 
@@ -25,7 +25,7 @@
 
     (c) __Enforcement of liability insurance requirements__ 
 
-        The Director of the Office of Foreign Missions shall take such steps as he may deem necessary to insure that each mission, members of the mission and their families, and individuals described in section 19 of the Convention on Privileges and Immunities of the United Nations of February 13, 1946, who operate motor vehicles, vessels, or aircraft in the United States comply with the requirements established pursuant to subsection (b) of this section.
+        The Director of the Office of Foreign Missions shall take such steps as he may deem necessary to insure that each mission, members of the mission and their families, and individuals described in section 19 of the Convention on Privileges and Immunities of the United Nations of February 13, 1946, who operate motor vehicles, vessels, or aircraft in the United States comply with the requirements established pursuant to subsection (b).
 
 ([Pub. L. 95–393, § 6][/us/pl/95/393/s6], Sept. 30, 1978, [92 Stat. 809][/us/stat/92/809]; [Pub. L. 98–164, title VI, § 602][/us/pl/98/164/s602], Nov. 22, 1983, [97 Stat. 1042][/us/stat/97/1042].)
 

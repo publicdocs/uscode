@@ -59,7 +59,7 @@
 
         (7) “United States” means, when used in a geographic sense, the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States.
 
-    (b) Determinations with respect to the meaning and applicability of the terms used in subsection (a) of this section shall be committed to the discretion of the Secretary.
+    (b) Determinations with respect to the meaning and applicability of the terms used in subsection (a) shall be committed to the discretion of the Secretary.
 
 ([Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], title II, § 202, as added [Pub. L. 97–241, title II, § 202(b)][/us/pl/97/241/s202/b], Aug. 24, 1982, [96 Stat. 283][/us/stat/96/283]; amended [Pub. L. 99–93, title I, § 127(b)][/us/pl/99/93/s127/b], Aug. 16, 1985, [99 Stat. 418][/us/stat/99/418]; [Pub. L. 99–569, title VII, § 701][/us/pl/99/569/s701], Oct. 27, 1986, [100 Stat. 3204][/us/stat/100/3204]; [Pub. L. 100–204, title I, § 153(e)][/us/pl/100/204/s153/e], Dec. 22, 1987, [101 Stat. 1353][/us/stat/101/1353]; [Pub. L. 103–236, title I, § 162][/us/pl/103/236/s162](o)(1), Apr. 30, 1994, [108 Stat. 409][/us/stat/108/409].)
 

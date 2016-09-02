@@ -65,7 +65,7 @@
 
     (c) __Exception for countries having or negotiating bilateral agreements with United States__ 
 
-    Subsection (b) of this section shall not apply to any person of a foreign country if—
+    Subsection (b) shall not apply to any person of a foreign country if—
 
         (1) that country, as of January 1, 1987, was negotiating a bilateral agreement with the United States under the authority of [section 2112(b)(4)(A) of title 19][/us/usc/t19/s2112/b/4/A]; or
 

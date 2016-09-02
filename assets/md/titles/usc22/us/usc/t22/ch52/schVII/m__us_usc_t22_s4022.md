@@ -21,7 +21,7 @@
 
     (b) __Training__ 
 
-        The Secretary of State shall arrange for appropriate language training of members of the Service by the institution or otherwise in order to assist in meeting the requirements established under subsection (a) of this section.
+        The Secretary of State shall arrange for appropriate language training of members of the Service by the institution or otherwise in order to assist in meeting the requirements established under subsection (a).
 
     (c) __Report__ 
 

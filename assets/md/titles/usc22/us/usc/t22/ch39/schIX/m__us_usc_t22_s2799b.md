@@ -27,7 +27,7 @@
 
     (b) __Acceptance of NATO assistance in eliminating direct costs of transfers__ 
 
-        In order to eliminate direct costs of facilitating transfers of defense articles under subsection (a) of this section, the United States may utilize services provided by NATO or any NATO/CFE country, including inspection, repair, or transportation services with respect to defense articles so transferred.
+        In order to eliminate direct costs of facilitating transfers of defense articles under subsection (a), the United States may utilize services provided by NATO or any NATO/CFE country, including inspection, repair, or transportation services with respect to defense articles so transferred.
 
     (c) __Acceptance of NATO assistance in meeting certain United States obligations__ 
 
@@ -35,21 +35,21 @@
 
     (d) __Authority to transfer on grant basis__ 
 
-        Defense articles may be transferred under subsection (a) of this section without cost to the recipient country.
+        Defense articles may be transferred under subsection (a) without cost to the recipient country.
 
     (e) __Third country transfers restrictions__ 
 
-        For purposes of sections 2753(a)(2), 2753(a)(3), 2753(c), and 2753(d) of this title, defense articles transferred under subsection (a) of this section shall be deemed to have been sold under this chapter.
+        For purposes of sections 2753(a)(2), 2753(a)(3), 2753(c), and 2753(d) of this title, defense articles transferred under subsection (a) shall be deemed to have been sold under this chapter.
 
     (f) __Maintenance of military balance in Eastern Mediterranean__ 
 
-        The President shall ensure that transfers by the United States under subsection (a) of this section, taken together with transfers by other NATO/CFE countries in implementing the CFE Treaty, are of such valuations so as to be consistent with the United States policy, embodied in [section 2373 of this title][/us/usc/t22/s2373], of maintaining the military balance in the Eastern Mediterranean.
+        The President shall ensure that transfers by the United States under subsection (a), taken together with transfers by other NATO/CFE countries in implementing the CFE Treaty, are of such valuations so as to be consistent with the United States policy, embodied in [section 2373 of this title][/us/usc/t22/s2373], of maintaining the military balance in the Eastern Mediterranean.
 
     (g) __Expiration of authority__ 
 
         (1) __In general__ 
 
-            Except as provided in paragraph (2), the authority of subsection (a) of this section expires at the end of the 40-month period beginning on the date on which the CFE Treaty enters into force.
+            Except as provided in paragraph (2), the authority of subsection (a) expires at the end of the 40-month period beginning on the date on which the CFE Treaty enters into force.
 
         (2) __Transition rule__ 
 

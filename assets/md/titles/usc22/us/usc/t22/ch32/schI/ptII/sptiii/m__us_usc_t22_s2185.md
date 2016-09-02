@@ -27,33 +27,33 @@
 
     (b) __Guarantees available only for short-term guarantees and insurance__ 
 
-        Guarantees provided under subsection (a) of this section shall be for short-term guarantees and insurance extended by the Bank which shall be repayable within a period not to exceed one year from the date of arrival at the port of importation of the goods and services covered by such guarantees or insurance.
+        Guarantees provided under subsection (a) shall be for short-term guarantees and insurance extended by the Bank which shall be repayable within a period not to exceed one year from the date of arrival at the port of importation of the goods and services covered by such guarantees or insurance.
 
     (c) __Agreement on criteria and procedures__ 
 
-        Guarantees or insurance extended by the Bank and guaranteed pursuant to subsection (a) of this section shall be provided by the Bank in accordance with criteria and procedures agreed to by the Administrator and the Bank.
+        Guarantees or insurance extended by the Bank and guaranteed pursuant to subsection (a) shall be provided by the Bank in accordance with criteria and procedures agreed to by the Administrator and the Bank.
 
     (d) __Reserve fund__ 
 
-        The agreement referred to in subsection (c) of this section shall also provide for the establishment of a reserve fund by the administering agency, with such funds made available to the reserve as the Administrator deems necessary to discharge liabilities under guarantees provided under subsection (a) of this section.
+        The agreement referred to in subsection (c) shall also provide for the establishment of a reserve fund by the administering agency, with such funds made available to the reserve as the Administrator deems necessary to discharge liabilities under guarantees provided under subsection (a).
 
     (e) __Discharge of liabilities__ 
 
         (1) __Funds which may be used__ 
 
-            Such amounts of the funds made available to carry out part IV of subchapter II of this chapter (relating to the economic support fund) as the President determines are necessary may be made available to discharge liabilities under guarantees entered into under subsection (a) of this section.
+            Such amounts of the funds made available to carry out part IV of subchapter II of this chapter (relating to the economic support fund) as the President determines are necessary may be made available to discharge liabilities under guarantees entered into under subsection (a).
 
         (2) __Crediting of subsequent payments__ 
 
-            To the extent that any of the funds made available pursuant to paragraph (1) are paid out for a claim arising out of liabilities guaranteed under subsection (a) of this section, amounts received after the date of such payment, with respect to such claim, shall be credited to the reserve fund established pursuant to subsection (d) of this section, shall be merged with the funds in such reserve, and shall be available for the purpose of payments by the Administrator to the Bank for guarantees under subsection (a) of this section.
+            To the extent that any of the funds made available pursuant to paragraph (1) are paid out for a claim arising out of liabilities guaranteed under subsection (a), amounts received after the date of such payment, with respect to such claim, shall be credited to the reserve fund established pursuant to subsection (d), shall be merged with the funds in such reserve, and shall be available for the purpose of payments by the Administrator to the Bank for guarantees under subsection (a).
 
     (f) __Appropriations action required__ 
 
-        Commitments to guarantee under subsection (a) of this section are authorized only to the extent and in the amounts provided in advance in appropriations Acts.
+        Commitments to guarantee under subsection (a) are authorized only to the extent and in the amounts provided in advance in appropriations Acts.
 
     (g) __Limitation on outstanding commitments__ 
 
-        The aggregate amount of outstanding commitments under subsection (a) of this section may not exceed $200,000,000 of contingent liability for loan principal during any fiscal year.
+        The aggregate amount of outstanding commitments under subsection (a) may not exceed $200,000,000 of contingent liability for loan principal during any fiscal year.
 
     (h) __Omitted__ 
 
@@ -63,13 +63,13 @@
 
     (j) __Fees and premiums__ 
 
-    The Bank is authorized to charge fees and premiums, in connection with guarantees or insurance guaranteed by the administering agency under subsection (a) of this section, that are commensurate (in the judgment of the Bank) with the Bank’s administrative costs and the risks covered by the agency’s guarantees. Any amounts received by the Bank in excess of the estimated costs incurred by the Bank in administering such guarantees or insurance—
+    The Bank is authorized to charge fees and premiums, in connection with guarantees or insurance guaranteed by the administering agency under subsection (a), that are commensurate (in the judgment of the Bank) with the Bank’s administrative costs and the risks covered by the agency’s guarantees. Any amounts received by the Bank in excess of the estimated costs incurred by the Bank in administering such guarantees or insurance—
 
-        (1) shall be credited to the reserve fund established pursuant to subsection (d) of this section,
+        (1) shall be credited to the reserve fund established pursuant to subsection (d),
 
         (2) shall be merged with the funds in such reserve, and
 
-        (3) shall be available for the purpose of payments by the administering agency to the Bank for guarantees under subsection (a) of this section.
+        (3) shall be available for the purpose of payments by the administering agency to the Bank for guarantees under subsection (a).
 
     (k) __Restrictions not applicable__ 
 
@@ -77,7 +77,7 @@
 
     (l) __Expiration of authority__ 
 
-        The President may not enter into any commitments to guarantee under subsection (a) of this section after September 30, 1992.
+        The President may not enter into any commitments to guarantee under subsection (a) after September 30, 1992.
 
     (m) __Definitions__ 
 

@@ -49,7 +49,7 @@
 
     (d) __Detached service for graduate studies__ 
 
-        In obtaining assistance pursuant to subsection (c) of this section in training personnel who are officers or employees of the Department of State, the Secretary may provide for detached service for graduate study at accredited colleges and universities.
+        In obtaining assistance pursuant to subsection (c) in training personnel who are officers or employees of the Department of State, the Secretary may provide for detached service for graduate study at accredited colleges and universities.
 
 ([Pub. L. 95–426, title V, § 504][/us/pl/95/426/s504], Oct. 7, 1978, [92 Stat. 983][/us/stat/92/983]; [Pub. L. 97–241, title V, § 505(a)(2)][/us/pl/97/241/s505/a/2], Aug. 24, 1982, [96 Stat. 299][/us/stat/96/299]; [Pub. L. 100–418, title V, § 5171(d)][/us/pl/100/418/s5171/d], Aug. 23, 1988, [102 Stat. 1453][/us/stat/102/1453].)
 

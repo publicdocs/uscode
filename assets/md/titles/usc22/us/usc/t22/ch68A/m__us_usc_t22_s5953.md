@@ -17,11 +17,11 @@
 
     (a) __Designation of Fund__ 
 
-        The President is authorized to designate a Demilitarization Enterprise Fund for the purposes of this section. The President may designate as the Demilitarization Enterprise Fund any organization that satisfies the requirements of subsection (e) of this section.
+        The President is authorized to designate a Demilitarization Enterprise Fund for the purposes of this section. The President may designate as the Demilitarization Enterprise Fund any organization that satisfies the requirements of subsection (e).
 
     (b) __Purpose of Fund__ 
 
-        The purpose of the Demilitarization Enterprise Fund is to receive grants pursuant to this section and to use the grant proceeds to provide financial support under programs described in subsection (b)(5) of this section for demilitarization of industries and conversion of military technologies and capabilities into civilian activities.
+        The purpose of the Demilitarization Enterprise Fund is to receive grants pursuant to this section and to use the grant proceeds to provide financial support under programs described in subsection (b)(5) for demilitarization of industries and conversion of military technologies and capabilities into civilian activities.
 
     (c) __Grant authority__ 
 
@@ -29,7 +29,7 @@
 
     (d) __Risk capital funding of demilitarization__ 
 
-    The Demilitarization Enterprise Fund shall use the proceeds of grants received under this section to provide financial support in accordance with subsection (b) of this section through transactions as follows:
+    The Demilitarization Enterprise Fund shall use the proceeds of grants received under this section to provide financial support in accordance with subsection (b) through transactions as follows:
 
         (1) Making loans.
 
@@ -41,7 +41,7 @@
 
         (5) Providing venture capital in joint ventures with United States industry.
 
-        (6) Providing risk capital through any other form of transaction that the President considers appropriate for supporting programs described in subsection (b)(5) of this section.
+        (6) Providing risk capital through any other form of transaction that the President considers appropriate for supporting programs described in subsection (b)(5).
 
     (e) __Eligible organization__ 
 
@@ -89,7 +89,7 @@
 
     (j) __Termination of designation__ 
 
-        A designation of an organization as the Demilitarization Enterprise Fund under subsection (a) of this section shall be temporary. When making the designation, the President shall provide for the eventual termination of the designation.
+        A designation of an organization as the Demilitarization Enterprise Fund under subsection (a) shall be temporary. When making the designation, the President shall provide for the eventual termination of the designation.
 
 ([Pub. L. 103–160, div. A, title XII, § 1204][/us/pl/103/160/s1204], Nov. 30, 1993, [107 Stat. 1779][/us/stat/107/1779].)
 

@@ -21,7 +21,7 @@
 
     (b) __Assistance plan__ 
 
-    The report submitted pursuant to subsection (a) of this section shall include a plan specifying—
+    The report submitted pursuant to subsection (a) shall include a plan specifying—
 
         (1) the amount of the funds authorized to be appropriated for fiscal year 1993 by chapter 11 of part I of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2295][/us/usc/t22/s2295] et seq.\] proposed to be allocated for each of the categories of activities authorized by section 498 of that Act \[[22 U.S.C. 2295][/us/usc/t22/s2295]\] and to carry out [section 5821 of this title][/us/usc/t22/s5821] (relating to American Business Centers), [section 5823 of this title][/us/usc/t22/s5823] (relating to export promotion activities and capital projects), and subchapter III of this chapter (relating to the Democracy Corps);
 

@@ -33,7 +33,7 @@
 
         (1) __In general__ 
 
-            There are authorized to be appropriated to carry out subsection (a) of this section $50,000,000 for each of the fiscal years 2001 and 2002.
+            There are authorized to be appropriated to carry out subsection (a) $50,000,000 for each of the fiscal years 2001 and 2002.
 
         (2) __Availability__ 
 

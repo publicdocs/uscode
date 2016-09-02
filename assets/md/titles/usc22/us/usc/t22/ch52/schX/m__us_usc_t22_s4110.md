@@ -31,7 +31,7 @@
 
     (b) __Compensation; travel expenses__ 
 
-        Panel members referred to in subsection (a)(3) and (4) of this section shall receive compensation for each day they are performing their duties (including traveltime) at the daily equivalent of the maximum rate payable for grade GS–18 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332], except that the member who is also a member of the Federal Service Impasses Panel shall not be entitled to pay under this subsection for any day for which he or she receives pay under section 7119(b)(4)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 5. Members of the Panel shall be entitled to travel expenses as provided under [section 5703 of title 5][/us/usc/t5/s5703].
+        Panel members referred to in subsection (a)(3) and (4) shall receive compensation for each day they are performing their duties (including traveltime) at the daily equivalent of the maximum rate payable for grade GS–18 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332], except that the member who is also a member of the Federal Service Impasses Panel shall not be entitled to pay under this subsection for any day for which he or she receives pay under section 7119(b)(4)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 5. Members of the Panel shall be entitled to travel expenses as provided under [section 5703 of title 5][/us/usc/t5/s5703].
 
     (c) __Impasse investigation and settlement; hearings and other actions upon failure to settle; notice; binding nature of action__ 
 

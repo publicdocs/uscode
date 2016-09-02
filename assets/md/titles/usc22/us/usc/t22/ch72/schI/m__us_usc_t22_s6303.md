@@ -31,11 +31,11 @@
 
     (c) __Presidential determination and order with respect to United States and foreign persons__ 
 
-        If the President determines,, <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  that a United States person or a foreign person has engaged in a prohibited activity (without regard to whether subsection (b) of this section applies), the President shall, by order, impose the sanctions described in subsection (d) of this section on such person.
+        If the President determines,, <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  that a United States person or a foreign person has engaged in a prohibited activity (without regard to whether subsection (b) applies), the President shall, by order, impose the sanctions described in subsection (d) on such person.
 
     (d) __Sanctions__ 
 
-    The following sanctions shall be imposed pursuant to any order issued under subsection (c) of this section with respect to any United States person or any foreign person:
+    The following sanctions shall be imposed pursuant to any order issued under subsection (c) with respect to any United States person or any foreign person:
 
         (1) __Ban on dealings in Government finance__ 
 
@@ -59,25 +59,25 @@
 
         (1) __Consultations__ 
 
-            If the President makes a determination under subsection (c) of this section with respect to a foreign person, the Congress urges the President to initiate consultations immediately with any appropriate foreign government with respect to the imposition of any sanction pursuant to this section.
+            If the President makes a determination under subsection (c) with respect to a foreign person, the Congress urges the President to initiate consultations immediately with any appropriate foreign government with respect to the imposition of any sanction pursuant to this section.
 
         (2) __Actions by government of jurisdiction__ 
 
             (A) __Suspension of period for imposing sanctions__ 
 
-                In order to pursue consultations described in paragraph (1) with any government referred to in such paragraph, the President may delay, for up to 90 days, the effective date of an order under subsection (c) of this section imposing any sanction.
+                In order to pursue consultations described in paragraph (1) with any government referred to in such paragraph, the President may delay, for up to 90 days, the effective date of an order under subsection (c) imposing any sanction.
 
             (B) __Coordination with activities of foreign government__ 
 
-                Following consultations described in paragraph (1), the order issued by the President under subsection (c) of this section imposing any sanction on a foreign person shall take effect unless the President determines, and certifies in writing to the Congress, that the government referred to in paragraph (1) has taken specific and effective actions, including the imposition of appropriate penalties, to terminate the involvement of the foreign person in any prohibited activity.
+                Following consultations described in paragraph (1), the order issued by the President under subsection (c) imposing any sanction on a foreign person shall take effect unless the President determines, and certifies in writing to the Congress, that the government referred to in paragraph (1) has taken specific and effective actions, including the imposition of appropriate penalties, to terminate the involvement of the foreign person in any prohibited activity.
 
             (C) __Extension of period__ 
 
-                After the end of the period described in subparagraph (A), the President may delay, for up to an additional 90 days, the effective date of an order issued under subsection (b) of this section imposing any sanction on a foreign person if the President determines, and certifies in writing to the Congress, that the appropriate foreign government is in the process of taking actions described in subparagraph (B).
+                After the end of the period described in subparagraph (A), the President may delay, for up to an additional 90 days, the effective date of an order issued under subsection (b) imposing any sanction on a foreign person if the President determines, and certifies in writing to the Congress, that the appropriate foreign government is in the process of taking actions described in subparagraph (B).
 
         (3) __Report to Congress__ 
 
-        Before the end of the 90-day period beginning on the date on which an order is issued under subsection (c) of this section, the President shall submit to the Congress a report on—
+        Before the end of the 90-day period beginning on the date on which an order is issued under subsection (c), the President shall submit to the Congress a report on—
 
             (A) the status of consultations under this subsection with the government referred to in paragraph (1); and
 
@@ -85,7 +85,7 @@
 
     (f) __Termination of sanctions__ 
 
-    Any sanction imposed on any person pursuant to an order issued under subsection (c) of this section shall—
+    Any sanction imposed on any person pursuant to an order issued under subsection (c) shall—
 
         (1) remain in effect for a period of not less than 12 months; and
 
@@ -99,15 +99,15 @@
 
     (g) __Waiver__ 
 
-        The President may waive the continued application of any sanction imposed on any person pursuant to an order issued under subsection (c) of this section if the President determines, and certifies in writing to the Congress, that the continued imposition of the sanction would have a serious adverse effect on the safety and soundness of the domestic or international financial system or on domestic or international payments systems.
+        The President may waive the continued application of any sanction imposed on any person pursuant to an order issued under subsection (c) if the President determines, and certifies in writing to the Congress, that the continued imposition of the sanction would have a serious adverse effect on the safety and soundness of the domestic or international financial system or on domestic or international payments systems.
 
     (h) __Enforcement action__ 
 
     The Attorney General may bring an action in an appropriate district court of the United States for injunctive and other appropriate relief with respect to—
 
-        (1) any violation of subsection (b) of this section; or
+        (1) any violation of subsection (b); or
 
-        (2) any order issued pursuant to subsection (c) of this section.
+        (2) any order issued pursuant to subsection (c).
 
     (i) __“Knowingly” defined__ 
 

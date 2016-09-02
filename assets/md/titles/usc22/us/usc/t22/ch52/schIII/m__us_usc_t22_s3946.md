@@ -25,7 +25,7 @@
 
     (b) __Decisions by Secretary__ 
 
-        Decisions by the Secretary under subsection (a) of this section shall be based upon the recommendations of boards, established by the Secretary and composed entirely or primarily of career members of the Service, which shall evaluate the fitness and aptitude of career candidates for the work of the Service.
+        Decisions by the Secretary under subsection (a) shall be based upon the recommendations of boards, established by the Secretary and composed entirely or primarily of career members of the Service, which shall evaluate the fitness and aptitude of career candidates for the work of the Service.
 
     (c) __Foreign Service Grievance Board decisions__ 
 

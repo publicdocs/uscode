@@ -21,7 +21,7 @@
 
     (b) __Contents of report__ 
 
-    Each report submitted under subsection (a) of this section shall contain—
+    Each report submitted under subsection (a) shall contain—
 
         (1) an analysis of currency market developments and the relationship between the United States dollar and the currencies of our major trade competitors;
 

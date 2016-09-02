@@ -31,7 +31,7 @@
 
         (2) __Use of multilateral fora__ 
 
-            If the President determines it to be appropriate, such consultations may be sought and may occur in a multilateral forum, but, in any event, the President shall consult with appropriate foreign governments for the purposes of achieving a coordinated international policy on actions that may be taken with respect to a country described in subsection (a) of this section, prior to implementing any such action.
+            If the President determines it to be appropriate, such consultations may be sought and may occur in a multilateral forum, but, in any event, the President shall consult with appropriate foreign governments for the purposes of achieving a coordinated international policy on actions that may be taken with respect to a country described in subsection (a), prior to implementing any such action.
 
         (3) __Election of nondisclosure of negotiations to public__ 
 
@@ -39,11 +39,11 @@
 
     (c) __Duty to consult with humanitarian organizations__ 
 
-        The President should consult with appropriate humanitarian and religious organizations concerning the potential impact of United States policies to promote freedom of religion in countries described in subsection (a) of this section.
+        The President should consult with appropriate humanitarian and religious organizations concerning the potential impact of United States policies to promote freedom of religion in countries described in subsection (a).
 
     (d) __Duty to consult with United States interested parties__ 
 
-        The President shall, as appropriate, consult with United States interested parties as to the potential impact of intended Presidential action or actions in countries described in subsection (a) of this section on economic or other interests of the United States.
+        The President shall, as appropriate, consult with United States interested parties as to the potential impact of intended Presidential action or actions in countries described in subsection (a) on economic or other interests of the United States.
 
 ([Pub. L. 105–292, title IV, § 403][/us/pl/105/292/s403], Oct. 27, 1998, [112 Stat. 2804][/us/stat/112/2804].)
 

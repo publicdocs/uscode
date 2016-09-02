@@ -25,7 +25,7 @@
 
     (c) __Accountability of funds and criteria for programs__ 
 
-    As part of the negotiations described in [section 6821(a) of this title][/us/usc/t22/s6821/a], the Secretary of the Treasury shall, consistent with subsection (d) of this section—
+    As part of the negotiations described in [section 6821(a) of this title][/us/usc/t22/s6821/a], the Secretary of the Treasury shall, consistent with subsection (d)—
 
         (1) take such actions as are necessary to ensure that the Bank or the Association will have in effect adequate procedures and standards to account for and monitor the use of funds contributed to the Trust Fund, including the cost of administering the Trust Fund; and
 

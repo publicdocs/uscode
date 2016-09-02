@@ -25,7 +25,7 @@
 
     (b) __Industrial demilitarization__ 
 
-    Any report under subsection (a) of this section that covers proposed industrial demilitarization projects shall contain additional information to assist the Congress in determining the merits of the proposed projects. Such information shall include descriptions of—
+    Any report under subsection (a) that covers proposed industrial demilitarization projects shall contain additional information to assist the Congress in determining the merits of the proposed projects. Such information shall include descriptions of—
 
         (1) the facilities to be demilitarized;
 

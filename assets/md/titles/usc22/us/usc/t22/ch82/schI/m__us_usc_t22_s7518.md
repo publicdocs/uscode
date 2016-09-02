@@ -21,7 +21,7 @@
 
     (b) __Availability__ 
 
-    Amounts appropriated pursuant to the authorization of appropriations under subsection (a) of this section are—
+    Amounts appropriated pursuant to the authorization of appropriations under subsection (a) are—
 
         (1) authorized to remain available until expended; and
 

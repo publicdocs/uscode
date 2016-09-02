@@ -25,7 +25,7 @@
 
             (B) if not married to the participant throughout such creditable service, equal to that former spouse’s pro rata share of 50 percent of such annuity.
 
-            For the purposes of this paragraph, the term “creditable service” means service which is creditable under part I or II of this subchapter.
+            For the purposes of this paragraph, the term “creditable service” means service which is creditable under part I or II.
 
         (2) A former spouse shall not be qualified for an annuity under this subsection if before the commencement of that annuity the former spouse remarries before becoming 60 years of age.
 
@@ -41,7 +41,7 @@
 
         (5)
 
-            (A) The annuity payable to any participant shall be reduced by the amount of an annuity under this subsection paid to any former spouse based upon the service of that participant. Such reduction shall be disregarded in calculating the survivor annuity for any spouse, former spouse, or other survivor under this part, and in calculating any reduction in the annuity of the participant to provide survivor benefits under subsection (b) of this section or [section 4046(b)(3) of this title][/us/usc/t22/s4046/b/3].
+            (A) The annuity payable to any participant shall be reduced by the amount of an annuity under this subsection paid to any former spouse based upon the service of that participant. Such reduction shall be disregarded in calculating the survivor annuity for any spouse, former spouse, or other survivor under this part, and in calculating any reduction in the annuity of the participant to provide survivor benefits under subsection (b) or [section 4046(b)(3) of this title][/us/usc/t22/s4046/b/3].
 
             (B) If any annuitant whose annuity is reduced under subparagraph (A) is recalled to service under [section 3948 of this title][/us/usc/t22/s3948], or reinstated or reappointed in the Service in the case of a recovered disability annuitant or if any annuitant is reemployed as provided for under [section 4064 of this title][/us/usc/t22/s4064], the salary of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the Fund.
 
@@ -53,7 +53,7 @@
 
             (B) the amount of the annuity of the former spouse shall be calculated on the basis of the annuity for which the participant would otherwise so qualify.
 
-        (7) An annuity under this subsection shall be treated the same as a survivor annuity under subsection (b) of this section for purposes of [section 4046(h) of this title][/us/usc/t22/s4046/h] or any comparable provision of law.
+        (7) An annuity under this subsection shall be treated the same as a survivor annuity under subsection (b) for purposes of [section 4046(h) of this title][/us/usc/t22/s4046/h] or any comparable provision of law.
 
     (b) __Deceased Service members__ 
 
@@ -65,7 +65,7 @@
 
             (B) if not married to the participant throughout such creditable service, equal to that former spouse’s pro rata share of 55 percent of the full amount of such annuity.
 
-            For the purposes of this paragraph, the term “creditable service” means service which is creditable under part I or II of this subchapter.
+            For the purposes of this paragraph, the term “creditable service” means service which is creditable under part I or II.
 
         (2) A former spouse shall not be qualified for an annuity under this subsection if before the commencement of that annuity the former spouse remarries before becoming 60 years of age.
 
@@ -89,7 +89,7 @@
 
         (1)
 
-         In the case of any participant or former participant providing a survivor annuity benefit under subsection (b) of this section for a former spouse—
+         In the case of any participant or former participant providing a survivor annuity benefit under subsection (b) for a former spouse—
 
             (A) such participant may elect, or
 

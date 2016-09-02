@@ -27,11 +27,11 @@
 
     (b) __Additional requirement__ 
 
-        The Administrator shall provide for the maintenance and repair of any equipment transferred or leased under subsection (a) of this section.
+        The Administrator shall provide for the maintenance and repair of any equipment transferred or leased under subsection (a).
 
     (c) __Notification requirement__ 
 
-        Before the export of any item authorized for transfer under subsection (a) of this section, the Administrator shall provide written notice to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives in accordance with the procedures applicable to reprogramming notifications under [section 2394–1 of this title][/us/usc/t22/s2394–1].
+        Before the export of any item authorized for transfer under subsection (a), the Administrator shall provide written notice to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives in accordance with the procedures applicable to reprogramming notifications under [section 2394–1 of this title][/us/usc/t22/s2394–1].
 
     (d) __Sense of Congress__ 
 

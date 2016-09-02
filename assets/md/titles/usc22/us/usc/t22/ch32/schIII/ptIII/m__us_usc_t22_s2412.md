@@ -25,7 +25,7 @@
 
     (b) __Exception__ 
 
-        To the extent that legislation enacted after the making of an appropriation for foreign assistance (including foreign military sales) authorizes the obligation or expenditure thereof, the limitation contained in subsection (a) of this section shall have no effect.
+        To the extent that legislation enacted after the making of an appropriation for foreign assistance (including foreign military sales) authorizes the obligation or expenditure thereof, the limitation contained in subsection (a) shall have no effect.
 
     (c) __Specific repeal or modification of section__ 
 

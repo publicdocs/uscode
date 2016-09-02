@@ -29,7 +29,7 @@
 
     (b) __Supplemental views in annual report__ 
 
-        Not later than December 15 of each year, each member of the Board shall be entitled to receive a copy of the report required under subsection (a) of this section. Each member of the Board may prepare and submit supplemental views to the President on the implementation of this subchapter by December 31 for inclusion in the annual report when it is transmitted to Congress pursuant to this section.
+        Not later than December 15 of each year, each member of the Board shall be entitled to receive a copy of the report required under subsection (a). Each member of the Board may prepare and submit supplemental views to the President on the implementation of this subchapter by December 31 for inclusion in the annual report when it is transmitted to Congress pursuant to this section.
 
 ([Pub. L. 87–195][/us/pl/87/195], pt. V, § 813, as added [Pub. L. 105–214, § 1][/us/pl/105/214/s1], July 29, 1998, [112 Stat. 893][/us/stat/112/893].)
 

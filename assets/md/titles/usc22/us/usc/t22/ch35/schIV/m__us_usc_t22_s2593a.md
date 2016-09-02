@@ -49,7 +49,7 @@
 
     (b) __Classification of report__ 
 
-        The report required by this section shall be submitted in unclassified form, with classified annexes, as appropriate. The portions of this report described in paragraphs (4) and (5) of subsection (a) of this section shall summarize in detail, at least in classified annexes, the information, analysis, and conclusions relevant to possible noncompliance by other nations that are provided by United States intelligence agencies.
+        The report required by this section shall be submitted in unclassified form, with classified annexes, as appropriate. The portions of this report described in paragraphs (4) and (5) of subsection (a) shall summarize in detail, at least in classified annexes, the information, analysis, and conclusions relevant to possible noncompliance by other nations that are provided by United States intelligence agencies.
 
     (c) __Reporting consecutive noncompliance__ 
 
@@ -57,7 +57,7 @@
 
     (d) __Additional requirement__ 
 
-        Each report required by this section shall include a discussion of each significant issue described in subsection (a)(6) of this section that was contained in a previous report issued under this section during 1995, or after December 31, 1995, until the question or concern has been resolved and such resolution has been reported in detail to the appropriate committees of Congress (as defined in section 1102(1) of the Arms Control, Non-Proliferation, and Security Assistance Act of 1999).
+        Each report required by this section shall include a discussion of each significant issue described in subsection (a)(6) that was contained in a previous report issued under this section during 1995, or after December 31, 1995, until the question or concern has been resolved and such resolution has been reported in detail to the appropriate committees of Congress (as defined in section 1102(1) of the Arms Control, Non-Proliferation, and Security Assistance Act of 1999).
 
     (e) __Congressional briefing__ 
 
@@ -111,7 +111,7 @@
 
     Subsec. (a)(5) to (7). [Pub. L. 105–277, § 1223(15)(A)(v)][/us/pl/105/277/s1223/15/A/v], redesignated pars. (5) to (7) as (3) to (5), respectively.
 
-    Subsec. (b). [Pub. L. 105–277, § 1223(15)(B)][/us/pl/105/277/s1223/15/B], inserted at end “The portions of this report described in paragraphs (4) and (5) of subsection (a) of this section shall summarize in detail, at least in classified annexes, the information, analysis, and conclusions relevant to possible noncompliance by other nations that are provided by United States intelligence agencies.”
+    Subsec. (b). [Pub. L. 105–277, § 1223(15)(B)][/us/pl/105/277/s1223/15/B], inserted at end “The portions of this report described in paragraphs (4) and (5) of subsection (a) shall summarize in detail, at least in classified annexes, the information, analysis, and conclusions relevant to possible noncompliance by other nations that are provided by United States intelligence agencies.”
 
     1994—Subsec. (a)(5) to (7). [Pub. L. 103–236, § 828(a)(1)][/us/pl/103/236/s828/a/1]–(3), struck out “and” at end of par. (5), substituted “; and” for period at end of par. (6), and added par. (7).
 

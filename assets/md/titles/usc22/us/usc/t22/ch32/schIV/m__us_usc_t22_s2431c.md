@@ -27,7 +27,7 @@
 
         (1) __In general__ 
 
-            Consistent with subsection (a) of this section, the President shall determine whether a country is eligible to receive benefits under this subchapter.
+            Consistent with subsection (a), the President shall determine whether a country is eligible to receive benefits under this subchapter.
 
         (2) __Congressional notification__ 
 

@@ -31,7 +31,7 @@
 
     (b) __Rewards authorized__ 
 
-    In the sole discretion of the Secretary (except as provided in subsection (c)(2) of this section) and in consultation, as appropriate, with the heads of other relevant departments or agencies, the Secretary may pay a reward to any individual who furnishes information leading to—
+    In the sole discretion of the Secretary (except as provided in subsection (c)(2)) and in consultation, as appropriate, with the heads of other relevant departments or agencies, the Secretary may pay a reward to any individual who furnishes information leading to—
 
         (1) the arrest or conviction in any country of any individual for the commission of an act of international terrorism against a United States person or United States property;
 
@@ -133,7 +133,7 @@
 
     (f) __Ineligibility__ 
 
-        An officer or employee of any entity of Federal, State, or local government or of a foreign government who, while in the performance of his or her official duties, furnishes information described in subsection (b) of this section shall not be eligible for a reward under this section.
+        An officer or employee of any entity of Federal, State, or local government or of a foreign government who, while in the performance of his or her official duties, furnishes information described in subsection (b) shall not be eligible for a reward under this section.
 
     (g) __Reports__ 
 
@@ -195,7 +195,7 @@
 
         (4) __Rewards program__ 
 
-            The term “rewards program” means the program established in subsection (a)(1) of this section.
+            The term “rewards program” means the program established in subsection (a)(1).
 
         (5) __Transnational organized crime__ 
 

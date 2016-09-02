@@ -35,7 +35,7 @@
 
         (1) __In general__ 
 
-        Upon exercising the authority of subsection (a) of this section, the President shall report to the appropriate congressional committees—
+        Upon exercising the authority of subsection (a), the President shall report to the appropriate congressional committees—
 
             (A) identifying publicly the foreign persons that the President determines are appropriate for sanctions pursuant to this section and the basis for such determination; and
 
@@ -43,7 +43,7 @@
 
         (2) __Removal of sanctions__ 
 
-            Upon suspending or terminating any action imposed under the authority of subsection (a) of this section, the President shall report to the committees described in paragraph (1) on such suspension or termination.
+            Upon suspending or terminating any action imposed under the authority of subsection (a), the President shall report to the committees described in paragraph (1) on such suspension or termination.
 
         (3) __Submission of classified information__ 
 
@@ -59,7 +59,7 @@
 
         (1) __Delegation of authority__ 
 
-            The President may delegate any authority granted by this section, including the authority to designate foreign persons under paragraphs (1)(B) and (1)(C) of subsection (a) of this section.
+            The President may delegate any authority granted by this section, including the authority to designate foreign persons under paragraphs (1)(B) and (1)(C) of subsection (a).
 
         (2) __Promulgation of rules and regulations__ 
 
@@ -67,7 +67,7 @@
 
         (3) __Opportunity for review__ 
 
-            Such rules and regulations shall include procedures affording an opportunity for a person to be heard in an expeditious manner, either in person or through a representative, for the purpose of seeking changes to or termination of any determination, order, designation or other action associated with the exercise of the authority in subsection (a) of this section.
+            Such rules and regulations shall include procedures affording an opportunity for a person to be heard in an expeditious manner, either in person or through a representative, for the purpose of seeking changes to or termination of any determination, order, designation or other action associated with the exercise of the authority in subsection (a).
 
     (f) __Definition of foreign persons__ 
 
@@ -75,7 +75,7 @@
 
     (g) __Construction__ 
 
-        Nothing in this section shall be construed as precluding judicial review of the exercise of the authority described in subsection (a) of this section.
+        Nothing in this section shall be construed as precluding judicial review of the exercise of the authority described in subsection (a).
 
 ([Pub. L. 106–386, div. A, § 111][/us/pl/106/386/s111], Oct. 28, 2000, [114 Stat. 1484][/us/stat/114/1484].)
 

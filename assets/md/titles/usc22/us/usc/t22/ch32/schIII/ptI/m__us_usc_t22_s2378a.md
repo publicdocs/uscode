@@ -17,7 +17,7 @@
 
     (a) __Prohibition__ 
 
-    Except as provided in subsection (b) of this section, none of the funds made available to carry out this chapter or any other Act may be made available to facilitate in any way the sale of M–833 antitank shells or any comparable antitank shells containing a depleted uranium penetrating component to any country other than—
+    Except as provided in subsection (b), none of the funds made available to carry out this chapter or any other Act may be made available to facilitate in any way the sale of M–833 antitank shells or any comparable antitank shells containing a depleted uranium penetrating component to any country other than—
 
         (1) a country that is a member of the North Atlantic Treaty Organization;
 
@@ -27,7 +27,7 @@
 
     (b) __Exception__ 
 
-        The prohibition contained in subsection (a) of this section shall not apply with respect to the use of funds to facilitate the sale of antitank shells to a country if the President determines that to do so is in the national security interest of the United States.
+        The prohibition contained in subsection (a) shall not apply with respect to the use of funds to facilitate the sale of antitank shells to a country if the President determines that to do so is in the national security interest of the United States.
 
 ([Pub. L. 87–195][/us/pl/87/195], pt. III, § 620J, formerly § 620G, as added [Pub. L. 104–164, title I, § 149][/us/pl/104/164/s149], July 21, 1996, [110 Stat. 1436][/us/stat/110/1436]; renumbered § 620J, [Pub. L. 109–446, § 2(b)(1)][/us/pl/109/446/s2/b/1], Dec. 21, 2006, [120 Stat. 3318][/us/stat/120/3318].)
 

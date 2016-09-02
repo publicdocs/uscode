@@ -37,11 +37,11 @@
 
     (e) __Temporary assignment of employees__ 
 
-        The head of any of the departments or agencies referred to in subsection (a) of this section may temporarily assign, upon the request of the Chairman, any employee from such department or agency to the staff of the Committee.
+        The head of any of the departments or agencies referred to in subsection (a) may temporarily assign, upon the request of the Chairman, any employee from such department or agency to the staff of the Committee.
 
     (f) __Studies__ 
 
-    To carry out the purposes of subsection (a) of this section, the Committee shall—
+    To carry out the purposes of subsection (a), the Committee shall—
 
         (1) prepare studies on various development problems;
 

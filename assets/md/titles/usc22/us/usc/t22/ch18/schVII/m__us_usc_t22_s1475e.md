@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        Notwithstanding [section 3302 of title 31][/us/usc/t31/s3302] or any other law or limitation of authority, fees and receipts described in subsection (b) of this section are authorized to be credited each fiscal year for authorized purposes to the appropriate appropriations of the United States Information Agency to such extent as may be provided in advance in appropriations acts.
+        Notwithstanding [section 3302 of title 31][/us/usc/t31/s3302] or any other law or limitation of authority, fees and receipts described in subsection (b) are authorized to be credited each fiscal year for authorized purposes to the appropriate appropriations of the United States Information Agency to such extent as may be provided in advance in appropriations acts.
 
     (b) __Fees and receipts described__ 
 

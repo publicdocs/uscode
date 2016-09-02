@@ -39,7 +39,7 @@
 
     (c) __Exclusion of employees or positions from coverage__ 
 
-        The Commission may exclude any employee or position from coverage under any provision of this subpart, other than the interchange rights extended under subsection (a)(4) of this section.
+        The Commission may exclude any employee or position from coverage under any provision of this subpart, other than the interchange rights extended under subsection (a)(4).
 
 ([Pub. L. 96–70, title I, § 1212][/us/pl/96/70/s1212], Sept. 27, 1979, [93 Stat. 464][/us/stat/93/464]; [Pub. L. 104–201, div. C, title XXXV, § 3530(a)][/us/pl/104/201/s3530/a], Sept. 23, 1996, [110 Stat. 2862][/us/stat/110/2862]; [Pub. L. 105–85, div. C, title XXXV][/us/pl/105/85], §§ 3523(d), 3550(d)(5), Nov. 18, 1997, [111 Stat. 2065][/us/stat/111/2065], 2074; [Pub. L. 105–261, div. A, title XXXV][/us/pl/105/261], §§ 3507(c), 3512(a)(2), Oct. 17, 1998, [112 Stat. 2269][/us/stat/112/2269], 2271.)
 

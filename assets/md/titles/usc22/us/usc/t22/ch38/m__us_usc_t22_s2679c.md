@@ -19,7 +19,7 @@
 
         (1)
 
-         Except for real estate leases and as provided in subsection (b) of this section, the Department of State may not enter into any contract that expends funds appropriated to the Department of State for an amount in excess of the small purchase threshold (as defined in [section 134 of title 41][/us/usc/t41/s134]—  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “41)—”. </sup></sup> 
+         Except for real estate leases and as provided in subsection (b), the Department of State may not enter into any contract that expends funds appropriated to the Department of State for an amount in excess of the small purchase threshold (as defined in [section 134 of title 41][/us/usc/t41/s134]—  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “41)—”. </sup></sup> 
 
             (A) with a foreign person that complies with the Arab League boycott of Israel, or
 
@@ -41,7 +41,7 @@
 
     (c) __Responses to contract solicitations__ 
 
-        (1) Except as provided in paragraph (2) of this subsection, the Secretary of State shall ensure that any response to a solicitation for a bid or a request for a proposal, with respect to a contract covered by subsection (a) of this section, includes the following clause, in substantially the following form:“arab league boycott of israel
+        (1) Except as provided in paragraph (2) of this subsection, the Secretary of State shall ensure that any response to a solicitation for a bid or a request for a proposal, with respect to a contract covered by subsection (a), includes the following clause, in substantially the following form:“arab league boycott of israel
 
     “(a)  __Definitions__  __.—__ 
 

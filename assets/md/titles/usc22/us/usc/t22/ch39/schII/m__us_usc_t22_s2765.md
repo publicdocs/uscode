@@ -65,11 +65,11 @@
 
     (b) __Congressional request for additional information__ 
 
-        Not later than thirty days following the receipt of a request made by any of the congressional committees described in subsection (e) of this section for additional information with respect to any information submitted pursuant to subsection (a) of this section, the President shall submit such information to such committee.
+        Not later than thirty days following the receipt of a request made by any of the congressional committees described in subsection (e) for additional information with respect to any information submitted pursuant to subsection (a), the President shall submit such information to such committee.
 
     (c) __Submission of information in unclassified form or classified addendum with unclassified summary__ 
 
-        The President shall make every effort to submit all of the information required by subsection (a) or (b) of this section wholly in unclassified form. Whenever the President submits any such information in classified form, he shall submit such classified information in an addendum and shall also submit simultaneously a detailed summary, in unclassified form, of such classified information.
+        The President shall make every effort to submit all of the information required by subsection (a) or (b) wholly in unclassified form. Whenever the President submits any such information in classified form, he shall submit such classified information in an addendum and shall also submit simultaneously a detailed summary, in unclassified form, of such classified information.
 
     (d)  __ <sup>\[__  __2__  __\]</sup> __  __ <sup><sup> __  __2__  __ So in original. Two subsecs. (d) have been enacted.__  __ </sup></sup> __  __“Cash flow financing” defined__ 
 
@@ -105,7 +105,7 @@
 
     1997—Subsec. (a). [Pub. L. 105–118, § 519(1)][/us/pl/105/118/s519/1], substituted “appropriate congressional committees” for “Congress” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 105–118, § 519(2)][/us/pl/105/118/s519/2], substituted “any of the congressional committees described in subsection (e) of this section” for “the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives”.
+    Subsec. (b). [Pub. L. 105–118, § 519(2)][/us/pl/105/118/s519/2], substituted “any of the congressional committees described in subsection (e)” for “the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives”.
 
     Subsec. (e). [Pub. L. 105–118, § 519(3)][/us/pl/105/118/s519/3], added subsec. (e).
 
@@ -155,7 +155,7 @@
 
     Subsec. (e). [Pub. L. 96–92, § 14][/us/pl/96/92/s14], added subsec. (e).
 
-    1978—Subsec. (c). [Pub. L. 95–384, § 18(b)][/us/pl/95/384/s18/b], substituted “subsection (a) or (b) of this section” for “this section”.
+    1978—Subsec. (c). [Pub. L. 95–384, § 18(b)][/us/pl/95/384/s18/b], substituted “subsection (a) or (b)” for “this section”.
 
     Subsec. (d). [Pub. L. 95–384, § 18(a)][/us/pl/95/384/s18/a], added subsec. (d).
 

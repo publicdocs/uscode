@@ -25,7 +25,7 @@
 
     (b) __Program__ 
 
-    To carry out the policy set forth in subsection (a) of this section, the President is authorized to provide assistance to increase the availability of financial services to microenterprise households lacking full access to credit, including through—
+    To carry out the policy set forth in subsection (a), the President is authorized to provide assistance to increase the availability of financial services to microenterprise households lacking full access to credit, including through—
 
         (1) loans and guarantees to microfinance institutions for the purpose of expanding the availability of savings and credit to poor and low-income households;
 
@@ -35,7 +35,7 @@
 
     (c) __Eligibility criteria__ 
 
-    The Administrator of the Agency shall establish criteria for determining which microfinance institutions described in subsection (b)(1) of this section are eligible to carry out activities, with respect to microenterprise households, assisted under this section. Such criteria may include the following:
+    The Administrator of the Agency shall establish criteria for determining which microfinance institutions described in subsection (b)(1) are eligible to carry out activities, with respect to microenterprise households, assisted under this section. Such criteria may include the following:
 
         (1) The extent to which the recipients of financial services from the entity do not have access to the local formal financial sector.
 
@@ -49,7 +49,7 @@
 
     (d) __Additional requirement__ 
 
-        Assistance provided under this section may only be used to support programs for microenterprise households and may not be used to support programs not directly related to the purposes described in subsection (b) of this section.
+        Assistance provided under this section may only be used to support programs for microenterprise households and may not be used to support programs not directly related to the purposes described in subsection (b).
 
     (e) __Procurement provision__ 
 

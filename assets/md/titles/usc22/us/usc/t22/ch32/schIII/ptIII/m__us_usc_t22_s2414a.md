@@ -47,11 +47,11 @@
 
     (c) __Format__ 
 
-        Information required pursuant to subsection (b)(3) of this section shall also be submitted, together with an explanation of the statistical methodology, in a format identical to that contained in chapter II of the Report to Congress on Voting Practices in the United Nations, dated March 14, 1988.
+        Information required pursuant to subsection (b)(3) shall also be submitted, together with an explanation of the statistical methodology, in a format identical to that contained in chapter II of the Report to Congress on Voting Practices in the United Nations, dated March 14, 1988.
 
     (d) __Statement by Secretary of State__ 
 
-        Each report under subsection (a) of this section shall contain a statement by the Secretary of State discussing the measures which have been taken to inform United States diplomatic missions of United Nations General Assembly and Security Council activities.
+        Each report under subsection (a) shall contain a statement by the Secretary of State discussing the measures which have been taken to inform United States diplomatic missions of United Nations General Assembly and Security Council activities.
 
 ([Pub. L. 101–246, title IV, § 406][/us/pl/101/246/s406], Feb. 16, 1990, [104 Stat. 66][/us/stat/104/66]; [Pub. L. 108–447, div. D, title V, § 534(k)][/us/pl/108/447/s534/k], Dec. 8, 2004, [118 Stat. 3007][/us/stat/118/3007].)
 

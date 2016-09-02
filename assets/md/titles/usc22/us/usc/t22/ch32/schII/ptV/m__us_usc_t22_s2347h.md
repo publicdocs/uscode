@@ -21,7 +21,7 @@
 
     (b) __Form__ 
 
-        The report described in subsection (a) of this section shall be in unclassified form, but may include a classified annex.
+        The report described in subsection (a) shall be in unclassified form, but may include a classified annex.
 
 ([Pub. L. 87–195][/us/pl/87/195], pt. II, § 549, as added [Pub. L. 107–228, div. B, title XII, § 1212(a)][/us/pl/107/228/s1212/a], Sept. 30, 2002, [116 Stat. 1428][/us/stat/116/1428].)
 

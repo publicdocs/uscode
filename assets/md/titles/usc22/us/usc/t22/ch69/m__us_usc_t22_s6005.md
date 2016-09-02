@@ -55,7 +55,7 @@
 
     (d) __Clarification of applicability of sanctions__ 
 
-        The prohibitions contained in subsections (a), (b), and (c) of this section shall not apply with respect to any activity otherwise permitted by [section 6004 of this title][/us/usc/t22/s6004] or [section 6006 of this title][/us/usc/t22/s6006] or any activity which may not be regulated or prohibited under section 5(b)(4) of the Trading With the Enemy Act \[[12 U.S.C. 95a(4)][/us/usc/t12/s95a/4], 50 U.S.C. App. 5(b)(4)\].
+        The prohibitions contained in subsections (a), (b), and (c) shall not apply with respect to any activity otherwise permitted by [section 6004 of this title][/us/usc/t22/s6004] or [section 6006 of this title][/us/usc/t22/s6006] or any activity which may not be regulated or prohibited under section 5(b)(4) of the Trading With the Enemy Act \[[12 U.S.C. 95a(4)][/us/usc/t12/s95a/4], 50 U.S.C. App. 5(b)(4)\].
 
 ([Pub. L. 102–484, div. A, title XVII, § 1706][/us/pl/102/484/s1706], Oct. 23, 1992, [106 Stat. 2578][/us/stat/106/2578].)
 

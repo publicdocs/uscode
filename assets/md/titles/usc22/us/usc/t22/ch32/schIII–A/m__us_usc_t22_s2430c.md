@@ -35,7 +35,7 @@
 
         (1) __In general__ 
 
-            Any debt reduction pursuant to subsection (a) of this section shall be accomplished at the direction of the Facility by the exchange of a new obligation for obligations outstanding as of the date specified in subsection (a)(1) of this section.
+            Any debt reduction pursuant to subsection (a) shall be accomplished at the direction of the Facility by the exchange of a new obligation for obligations outstanding as of the date specified in subsection (a)(1).
 
         (2) __Exchange of obligations__ 
 

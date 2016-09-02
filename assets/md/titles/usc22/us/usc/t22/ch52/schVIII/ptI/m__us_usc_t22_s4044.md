@@ -75,7 +75,7 @@
 
         but does not include service in the National Guard except when ordered to active duty in the service of the United States;
 
-    (10) “pro rata share”, in the case of any former spouse of any participant or former participant, means a percentage which is equal to the percentage that (A) the number of years during which the former spouse was married to the participant during the creditable service (creditable under part I or II of this subchapter) of that participant is of (B) the total number of years of such creditable service (creditable under part I or II of this subchapter);
+    (10) “pro rata share”, in the case of any former spouse of any participant or former participant, means a percentage which is equal to the percentage that (A) the number of years during which the former spouse was married to the participant during the creditable service (creditable under part I or II) of that participant is of (B) the total number of years of such creditable service (creditable under part I or II);
 
     (11)
 
@@ -149,7 +149,7 @@
 
     Par. (3). [Pub. L. 99–335, § 403][/us/pl/99/335/s403], substituted “, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, or the Virgin Islands, and any Indian court as defined in [section 1301(3) of title 25][/us/usc/t25/s1301/3]” for “or of the District of Columbia”.
 
-    Par. (10). [Pub. L. 99–335, § 404(a)][/us/pl/99/335/s404/a], inserted “(creditable under part I or II of this subchapter)” after “creditable service” in two places.
+    Par. (10). [Pub. L. 99–335, § 404(a)][/us/pl/99/335/s404/a], inserted “(creditable under part I or II)” after “creditable service” in two places.
 
     Par. (14). [Pub. L. 99–335, § 402(a)(3)][/us/pl/99/335/s402/a/3], inserted “under this part” after “payable from the Fund” in provision preceding subpar. (A).
 

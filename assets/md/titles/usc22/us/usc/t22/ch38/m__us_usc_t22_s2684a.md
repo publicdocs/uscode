@@ -21,7 +21,7 @@
 
     (b) __Funding__ 
 
-        Funds otherwise available for the purposes of subsection (a) of this section may be deposited in such Fund.
+        Funds otherwise available for the purposes of subsection (a) may be deposited in such Fund.
 
     (c) __Availability__ 
 
@@ -29,7 +29,7 @@
 
     (d) __Expenditures from Fund__ 
 
-        Amounts deposited in the Fund shall be available for purposes of subsection (a) of this section.
+        Amounts deposited in the Fund shall be available for purposes of subsection (a).
 
     (e) __Reprogramming procedures__ 
 
@@ -43,7 +43,7 @@
 
     Subsec. (c). [Pub. L. 105–277, § 2209(2)][/us/pl/105/277/s2209/2], substituted “shall” for “are authorized to”.
 
-    Subsec. (d). [Pub. L. 105–277, § 2209(3)][/us/pl/105/277/s2209/3], substituted “for purposes of subsection (a) of this section” for “for expenditure to procure capital equipment and information technology”.
+    Subsec. (d). [Pub. L. 105–277, § 2209(3)][/us/pl/105/277/s2209/3], substituted “for purposes of subsection (a)” for “for expenditure to procure capital equipment and information technology”.
 
     Subsec. (e). [Pub. L. 105–277, § 2209(4)][/us/pl/105/277/s2209/4], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Funds credited to the Capital Investment Fund shall be treated as a reprogramming of funds under [section 2706 of this title][/us/usc/t22/s2706] and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogrammings.”
 

@@ -27,7 +27,7 @@
 
     (b) __Authorization of appropriations__ 
 
-    To carry out the purposes specified in subsection (a) of this section, there are authorized to be appropriated to the President—
+    To carry out the purposes specified in subsection (a), there are authorized to be appropriated to the President—
 
         (1) $240,000,000 to support the Polish-American Enterprise Fund; and
 
@@ -37,13 +37,13 @@
 
     (c) __Nonapplicability of other laws__ 
 
-        The funds appropriated under subsection (b) of this section may be made available to the Polish-American Enterprise Fund and the Hungarian-American Enterprise Fund and used for the purposes of this section notwithstanding any other provision of law.
+        The funds appropriated under subsection (b) may be made available to the Polish-American Enterprise Fund and the Hungarian-American Enterprise Fund and used for the purposes of this section notwithstanding any other provision of law.
 
     (d) __Designation of Enterprise Funds__ 
 
         (1) __Designation__ 
 
-            The President is authorized to designate two private, nonprofit organizations as eligible to receive funds and support pursuant to this section upon determining that such organizations have been established for the purposes specified in subsection (a) of this section. For purposes of this chapter, the organizations so designated shall be referred to as the Polish-American Enterprise Fund and the Hungarian-American Enterprise Fund (hereinafter in this section referred to as the “Enterprise Funds”).
+            The President is authorized to designate two private, nonprofit organizations as eligible to receive funds and support pursuant to this section upon determining that such organizations have been established for the purposes specified in subsection (a). For purposes of this chapter, the organizations so designated shall be referred to as the Polish-American Enterprise Fund and the Hungarian-American Enterprise Fund (hereinafter in this section referred to as the “Enterprise Funds”).
 
         (2) __Consultation with Congress__ 
 
@@ -67,13 +67,13 @@
 
     (e) __Grants to Enterprise Funds__ 
 
-        Funds appropriated to the President pursuant to subsection (b) of this section shall be granted to the Enterprise Funds by the Agency for International Development to enable the Enterprise Funds to carry out the purposes specified in subsection (a) of this section and for the administrative expenses of each Enterprise Fund.
+        Funds appropriated to the President pursuant to subsection (b) shall be granted to the Enterprise Funds by the Agency for International Development to enable the Enterprise Funds to carry out the purposes specified in subsection (a) and for the administrative expenses of each Enterprise Fund.
 
     (f) __Eligible programs and projects__ 
 
         (1) __In general__ 
 
-            The Enterprise Funds may provide assistance pursuant to this section only for programs and projects which are consistent with the purposes set forth in subsection (a) of this section.
+            The Enterprise Funds may provide assistance pursuant to this section only for programs and projects which are consistent with the purposes set forth in subsection (a).
 
         (2) __Employee stock ownership plans__ 
 
@@ -101,7 +101,7 @@
 
     (h) __Retention of interest__ 
 
-        An Enterprise Fund may hold funds granted to it pursuant to this section in interest-bearing accounts, prior to the disbursement of such funds for purposes specified in subsection (a) of this section, and may retain for such program purposes any interest earned on such deposits without returning such interest to the Treasury of the United States and without further appropriation by the Congress.
+        An Enterprise Fund may hold funds granted to it pursuant to this section in interest-bearing accounts, prior to the disbursement of such funds for purposes specified in subsection (a), and may retain for such program purposes any interest earned on such deposits without returning such interest to the Treasury of the United States and without further appropriation by the Congress.
 
     (i) __Use of United States private venture capital__ 
 

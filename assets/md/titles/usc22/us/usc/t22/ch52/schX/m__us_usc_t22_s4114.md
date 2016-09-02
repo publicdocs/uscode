@@ -27,7 +27,7 @@
 
     (b) __Review by Foreign Service Labor Relations Board__ 
 
-    Either party to an appeal under subsection (a)(3) of this section may file with the Board an exception to the action of the Foreign Service Grievance Board in resolving the implementation dispute. If, upon review, the Board finds that the action is deficient—
+    Either party to an appeal under subsection (a)(3) may file with the Board an exception to the action of the Foreign Service Grievance Board in resolving the implementation dispute. If, upon review, the Board finds that the action is deficient—
 
         (1) because it is contrary to any law, rule, or regulation; or
 
@@ -37,7 +37,7 @@
 
     (c) __Time of filing exceptions; finality and binding nature of action__ 
 
-        If no exception to a Foreign Service Grievance Board action is filed under subsection (b) of this section within 30 days after such action is communicated to the parties, such action shall become final and binding and shall be implemented by the parties.
+        If no exception to a Foreign Service Grievance Board action is filed under subsection (b) within 30 days after such action is communicated to the parties, such action shall become final and binding and shall be implemented by the parties.
 
     (d) __Judicial review__ 
 

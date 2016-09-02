@@ -21,7 +21,7 @@
 
     (b) __Calculation of amounts to be deposited__ 
 
-        The amounts deposited under subsection (a) of this section shall be based upon periodic actuarial studies conducted by experts or consultants whose services are procured by the Panama Canal Commission by contract. The amounts of such deposits shall take into consideration interest earnings in accordance with subsection (c) of this section and expected cost of living adjustments as provided in [section 8146a of title 5][/us/usc/t5/s8146a], but not amounts payable by the Commission for continuation of pay pursuant to section 8118 of such title.
+        The amounts deposited under subsection (a) shall be based upon periodic actuarial studies conducted by experts or consultants whose services are procured by the Panama Canal Commission by contract. The amounts of such deposits shall take into consideration interest earnings in accordance with subsection (c) of this section and expected cost of living adjustments as provided in [section 8146a of title 5][/us/usc/t5/s8146a], but not amounts payable by the Commission for continuation of pay pursuant to section 8118 of such title.
 
     (c) __Investment of amounts in Fund__ 
 

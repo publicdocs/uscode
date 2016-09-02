@@ -17,11 +17,11 @@
 
     (a) __Establishment of office__ 
 
-        The Administrator of AID shall establish a capital projects office to carry out the purposes described in subsection (b) of this section.
+        The Administrator of AID shall establish a capital projects office to carry out the purposes described in subsection (b).
 
     (b) __Purposes of office__ 
 
-    The purposes referred to in subsection (a) of this section are—
+    The purposes referred to in subsection (a) are—
 
         (1) to develop an AID program that would focus solely on developmentally sound capital projects, taking into consideration development needs of the host country and the export opportunities for the United States; and
 

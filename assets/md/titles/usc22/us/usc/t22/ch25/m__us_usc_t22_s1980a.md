@@ -35,7 +35,7 @@
 
     (d) __Funding; appropriations__ 
 
-        Such funds as may be necessary to meet the requirements of this section may be made available from the unobligated balance of previously appropriated funds remaining in the Fishermen’s Protective Fund established under [section 1979 of this title][/us/usc/t22/s1979]. To the extent that requests for reimbursement under this section exceed such funds, there are authorized to be appropriated such sums as may be needed for reimbursements authorized under subsection (a) of this section, which shall be deposited in the Fishermen’s Protective Fund established under [section 1979 of this title][/us/usc/t22/s1979].
+        Such funds as may be necessary to meet the requirements of this section may be made available from the unobligated balance of previously appropriated funds remaining in the Fishermen’s Protective Fund established under [section 1979 of this title][/us/usc/t22/s1979]. To the extent that requests for reimbursement under this section exceed such funds, there are authorized to be appropriated such sums as may be needed for reimbursements authorized under subsection (a), which shall be deposited in the Fishermen’s Protective Fund established under [section 1979 of this title][/us/usc/t22/s1979].
 
     (e) __Claim against foreign government__ 
 

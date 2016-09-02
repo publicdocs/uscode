@@ -27,7 +27,7 @@
 
     (b) __Contents__ 
 
-    The report described in subsection (a) of this section shall include the following:
+    The report described in subsection (a) shall include the following:
 
         (1) For each military training activity, the foreign policy justification and purpose for the activity, the number of foreign military personnel provided training and their units of operation, and the location of the training.
 
@@ -37,11 +37,11 @@
 
     (c) __Form__ 
 
-        The report described in subsection (a) of this section shall be in unclassified form but may include a classified annex.
+        The report described in subsection (a) shall be in unclassified form but may include a classified annex.
 
     (d) __Availability on Internet__ 
 
-        All unclassified portions of the report described in subsection (a) of this section shall be made available to the public on the Internet through the Department of State.
+        All unclassified portions of the report described in subsection (a) shall be made available to the public on the Internet through the Department of State.
 
     (e) __Definition__ 
 

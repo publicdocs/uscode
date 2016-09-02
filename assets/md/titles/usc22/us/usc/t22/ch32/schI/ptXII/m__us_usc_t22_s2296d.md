@@ -21,7 +21,7 @@
 
     (b) __Authorization for assistance__ 
 
-    To carry out the purpose of subsection (a) of this section, the President is authorized to provide the following types of assistance to the countries of the South Caucasus and Central Asia:
+    To carry out the purpose of subsection (a), the President is authorized to provide the following types of assistance to the countries of the South Caucasus and Central Asia:
 
         (1) Assistance for democracy building, including programs to strengthen parliamentary institutions and practices.
 
@@ -37,7 +37,7 @@
 
     (c) __Activities supported__ 
 
-        Activities that may be supported by assistance under subsection (b) of this section include activities that are designed to advance progress toward the development of democracy.
+        Activities that may be supported by assistance under subsection (b) include activities that are designed to advance progress toward the development of democracy.
 
 ([Pub. L. 87–195][/us/pl/87/195], pt. I, § 499D, as added [Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 596(b)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–125.)
 

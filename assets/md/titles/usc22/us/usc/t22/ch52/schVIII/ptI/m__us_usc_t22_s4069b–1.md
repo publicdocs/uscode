@@ -17,7 +17,7 @@
 
     (a) __Eligibility; amount of annuity__ 
 
-    Any individual who was a former spouse of a participant or former participant on February 14, 1981, shall be entitled, to the extent of available appropriations, and except to the extent such former spouse is disqualified under subsection (b) of this section, to a survivor annuity equal to 55 percent of the greater of—
+    Any individual who was a former spouse of a participant or former participant on February 14, 1981, shall be entitled, to the extent of available appropriations, and except to the extent such former spouse is disqualified under subsection (b), to a survivor annuity equal to 55 percent of the greater of—
 
         (1) the full amount of the participant’s or former participant’s annuity, as computed under this subchapter; or
 
@@ -25,7 +25,7 @@
 
     (b) __Election by former spouse__ 
 
-        If an election has been made with respect to such former spouse under section 4159 or 4046(f) of this title, then the survivor annuity under subsection (a) of this section of such former spouse shall be equal to the full amount of the participant’s or former participant’s annuity referred to in subsection (a) of this section less the amount of such election.
+        If an election has been made with respect to such former spouse under section 4159 or 4046(f) of this title, then the survivor annuity under subsection (a) of such former spouse shall be equal to the full amount of the participant’s or former participant’s annuity referred to in subsection (a) less the amount of such election.
 
     (c) __Disqualification__ 
 

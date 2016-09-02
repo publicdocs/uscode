@@ -27,7 +27,7 @@
 
     (b) __Quarterly reports__ 
 
-        The applicable department or agency of the Federal Government shall submit to the appropriate congressional committees on a quarterly basis a report on any activities undertaken under subsection (a)(1) of this section during the preceding calendar quarter.
+        The applicable department or agency of the Federal Government shall submit to the appropriate congressional committees on a quarterly basis a report on any activities undertaken under subsection (a)(1) during the preceding calendar quarter.
 
     (c) __Biennial reports__ 
 

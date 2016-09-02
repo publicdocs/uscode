@@ -53,7 +53,7 @@
 
     (b) __Additional factors__ 
 
-    In addition to the requirements in subsection (a) of this section, in determining whether a transition government in Cuba is in power, the President shall take into account the extent to which that government—
+    In addition to the requirements in subsection (a), in determining whether a transition government in Cuba is in power, the President shall take into account the extent to which that government—
 
         (1) is demonstrably in transition from a communist totalitarian dictatorship to representative democracy;
 

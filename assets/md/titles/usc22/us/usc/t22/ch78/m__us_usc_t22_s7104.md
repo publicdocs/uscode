@@ -57,7 +57,7 @@
 
     (f) __Consultation requirement__ 
 
-        The President shall consult with appropriate nongovernmental organizations with respect to the establishment and conduct of initiatives and programs described in subsections (a) through (e) of this section.
+        The President shall consult with appropriate nongovernmental organizations with respect to the establishment and conduct of initiatives and programs described in subsections (a) through (e).
 
     (g) __Termination of certain grants, contracts and cooperative agreements__ 
 

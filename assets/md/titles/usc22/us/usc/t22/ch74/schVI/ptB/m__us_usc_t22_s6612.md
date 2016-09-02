@@ -21,13 +21,13 @@
 
     (b) __Limitation on use of transferred funds__ 
 
-        Except as provided in subsection (c) of this section, unexpended and unobligated funds transferred pursuant to any subchapter of this chapter shall be used only for the purposes for which the funds were originally authorized and appropriated.
+        Except as provided in subsection (c), unexpended and unobligated funds transferred pursuant to any subchapter of this chapter shall be used only for the purposes for which the funds were originally authorized and appropriated.
 
     (c) __Funds to facilitate transition__ 
 
         (1) __Congressional notification__ 
 
-            Funds transferred pursuant to subsection (a) of this section may be available for the purposes of reorganization subject to notification of the appropriate congressional committees in accordance with the procedures applicable to a reprogramming of funds under [section 2706 of this title][/us/usc/t22/s2706].
+            Funds transferred pursuant to subsection (a) may be available for the purposes of reorganization subject to notification of the appropriate congressional committees in accordance with the procedures applicable to a reprogramming of funds under [section 2706 of this title][/us/usc/t22/s2706].
 
         (2) __Transfer authority__ 
 

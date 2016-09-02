@@ -33,7 +33,7 @@
 
     (c) __Access by grievant__ 
 
-        If the Board determines that an agency record, or a summary or extract of a record, made available to the Board under subsection (b) of this section is relevant and material to the grievance, the agency concerned shall make such record, summary, or extract, as the case may be, available to the grievant.
+        If the Board determines that an agency record, or a summary or extract of a record, made available to the Board under subsection (b) is relevant and material to the grievance, the agency concerned shall make such record, summary, or extract, as the case may be, available to the grievant.
 
     (d) __Denial of access as factor in determination of grievance__ 
 

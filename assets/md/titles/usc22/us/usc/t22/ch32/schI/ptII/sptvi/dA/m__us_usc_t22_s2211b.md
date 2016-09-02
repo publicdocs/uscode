@@ -17,11 +17,11 @@
 
     (a) __In general__ 
 
-        In order to maximize the sustainable development impact of assistance authorized under [section 2211a(a) of this title][/us/usc/t22/s2211a/a], the Administrator of the Agency, acting through the Director of the office, shall strengthen its monitoring system to meet the requirements of subsection (b) of this section.
+        In order to maximize the sustainable development impact of assistance authorized under [section 2211a(a) of this title][/us/usc/t22/s2211a/a], the Administrator of the Agency, acting through the Director of the office, shall strengthen its monitoring system to meet the requirements of subsection (b).
 
     (b) __Requirements__ 
 
-    The requirements referred to in subsection (a) of this section are the following:
+    The requirements referred to in subsection (a) are the following:
 
         (1) The monitoring system shall include performance goals for the assistance and expresses such goals in an objective and quantifiable form, to the extent feasible.
 

@@ -29,7 +29,7 @@
 
     (c) __Factors considered__ 
 
-    In determining whether or not a government falls within the provisions of subsection (a) of this section and in formulating development assistance programs under subchapter I of this chapter, the Administrator shall consider, in consultation with the Assistant Secretary of State for Democracy, Human Rights, and Labor and in consultation with the Ambassador at Large for International Religious Freedom—
+    In determining whether or not a government falls within the provisions of subsection (a) and in formulating development assistance programs under subchapter I of this chapter, the Administrator shall consider, in consultation with the Assistant Secretary of State for Democracy, Human Rights, and Labor and in consultation with the Ambassador at Large for International Religious Freedom—
 
         (1) the extent of cooperation of such government in permitting an unimpeded investigation of alleged violations of internationally recognized human rights by appropriate international organizations, including the International Committee of the Red Cross, or groups or persons acting under the authority of the United Nations or of the Organization of American States;
 
@@ -49,7 +49,7 @@
 
         (1)
 
-         the status of internationally recognized human rights, within the meaning of subsection (a) of this section—
+         the status of internationally recognized human rights, within the meaning of subsection (a)—
 
             (A) in countries that receive assistance under subchapter I of this chapter, and
 
@@ -129,7 +129,7 @@
 
         (1)
 
-         The report required by subsection (d) of this section shall include the following:
+         The report required by subsection (d) shall include the following:
 
             (A) A description of the nature and extent of severe forms of trafficking in persons, as defined in [section 7102 of this title][/us/usc/t22/s7102], in each foreign country.
 

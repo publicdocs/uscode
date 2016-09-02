@@ -15,7 +15,7 @@
 
 ## § 3949. Limited appointments
 
-    (a) A limited appointment in the Service, including an appointment of an individual who is an employee of an agency, may not exceed 5 years in duration and, except as provided in subsection (b) of this section, may not be extended or renewed. A limited appointment in the Service which is limited by its terms to a period of one year or less is a temporary appointment.
+    (a) A limited appointment in the Service, including an appointment of an individual who is an employee of an agency, may not exceed 5 years in duration and, except as provided in subsection (b), may not be extended or renewed. A limited appointment in the Service which is limited by its terms to a period of one year or less is a temporary appointment.
 
     (b)
 
@@ -25,7 +25,7 @@
 
         (2) in accordance with [section 3951(a) of this title][/us/usc/t22/s3951/a];
 
-        (3) as a career candidate, if continued service is determined appropriate to remedy a matter that would be cognizable as a grievance under subchapter XI of this chapter;
+        (3) as a career candidate, if continued service is determined appropriate to remedy a matter that would be cognizable as a grievance under subchapter XI;
 
         (4) as a career employee in another Federal personnel system serving in a Foreign Service position on detail from another agency; and
 
@@ -37,7 +37,7 @@
 
     1994—Subsec. (b)(5). [Pub. L. 103–236][/us/pl/103/236], as amended by [Pub. L. 103–415][/us/pl/103/415], added par. (5).
 
-    1987—[Pub. L. 100–204][/us/pl/100/204] designated existing provisions as subsec. (a), substituted “subsection (b) of this section” for “[section 3951(a) of this title][/us/usc/t22/s3951/a]”, and added subsec. (b).
+    1987—[Pub. L. 100–204][/us/pl/100/204] designated existing provisions as subsec. (a), substituted “subsection (b)” for “[section 3951(a) of this title][/us/usc/t22/s3951/a]”, and added subsec. (b).
 
 ----------
 

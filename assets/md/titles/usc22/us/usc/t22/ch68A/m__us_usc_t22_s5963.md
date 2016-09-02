@@ -35,7 +35,7 @@
 
     (b) __Scope of authority__ 
 
-        The authority in subsection (a) of this section to obligate and expend funds for a project or activity includes authority to provide equipment, goods, and services for such project or activity utilizing such funds, but does not include authority to provide cash directly to such project or activity.
+        The authority in subsection (a) to obligate and expend funds for a project or activity includes authority to provide equipment, goods, and services for such project or activity utilizing such funds, but does not include authority to provide cash directly to such project or activity.
 
     (c) __Limitation on availability of funds__ 
 
@@ -51,7 +51,7 @@
 
     (d) __Additional limitations and requirements__ 
 
-    Except as otherwise provided in subsections (a) and (b) of this section, the exercise of the authority in subsection (a) of this section shall be subject to any requirement or limitation under another provision of law as follows:
+    Except as otherwise provided in subsections (a) and (b), the exercise of the authority in subsection (a) shall be subject to any requirement or limitation under another provision of law as follows:
 
         (1) Any requirement for prior notice or other reports to Congress on the use of Cooperative Threat Reduction funds or on Cooperative Threat Reduction projects or activities.
 

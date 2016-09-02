@@ -21,7 +21,7 @@
 
     (b) __Limitation on amount of claims__ 
 
-        The Commission may pay not more than $50,000 on any claim described in subsection (a) of this section.
+        The Commission may pay not more than $50,000 on any claim described in subsection (a).
 
     (c) __Source of award; release__ 
 

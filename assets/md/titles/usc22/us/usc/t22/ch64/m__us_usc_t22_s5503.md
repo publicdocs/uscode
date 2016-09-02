@@ -21,7 +21,7 @@
 
     (b) __Department of State guidelines__ 
 
-        Not later than 60 days after November 16, 1990, the Secretary of State shall issue such regulations, guidelines, and circulars as are necessary to ensure that the policy under subsection (a) of this section is fully implemented.
+        Not later than 60 days after November 16, 1990, the Secretary of State shall issue such regulations, guidelines, and circulars as are necessary to ensure that the policy under subsection (a) is fully implemented.
 
 ([Pub. L. 101–604, title II, § 204][/us/pl/101/604/s204], Nov. 16, 1990, [104 Stat. 3083][/us/stat/104/3083].)
 

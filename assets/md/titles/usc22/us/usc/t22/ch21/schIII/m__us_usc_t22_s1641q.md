@@ -15,7 +15,7 @@
 
 ## § 1641q. Applicability of administrative provisions of subchapter I
 
-    The following provisions of subchapter I of this chapter shall be applicable to this subchapter: Subsections (b), (c), (d), (e), (h), and (j) of [section 1623 of this title][/us/usc/t22/s1623]; and subsections (c), (d), (e), and (f) of [section 1626 of this title][/us/usc/t22/s1626].
+    The following provisions of subchapter I shall be applicable to this subchapter: Subsections (b), (c), (d), (e), (h), and (j) of [section 1623 of this title][/us/usc/t22/s1623]; and subsections (c), (d), (e), and (f) of [section 1626 of this title][/us/usc/t22/s1626].
 
 ([Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], title III, § 318, as added [Aug. 9, 1955, ch. 645, § 3][/us/act/1955-08-09/ch645/s3], [69 Stat. 575][/us/stat/69/575].)
 

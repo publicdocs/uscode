@@ -27,7 +27,7 @@
 
     (b) __Initial SEED Program report__ 
 
-        Accordingly, the first report pursuant to subsection (c)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this section shall be a comprehensive report that includes a full description of all SEED Actions taken pursuant to each provision of this chapter since November 28, 1989.
+        Accordingly, the first report pursuant to subsection (c)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  shall be a comprehensive report that includes a full description of all SEED Actions taken pursuant to each provision of this chapter since November 28, 1989.
 
 ([Pub. L. 101–179, title VII, § 704][/us/pl/101/179/s704], Nov. 28, 1989, [103 Stat. 1321][/us/stat/103/1321]; [Pub. L. 112–74, div. I, title VII, § 7034(n)][/us/pl/112/74/s7034/n], Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217].)
 
@@ -35,7 +35,7 @@
 
     This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 101–179][/us/pl/101/179], Nov. 28, 1989, [103 Stat. 1298][/us/stat/103/1298], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5401 of this title][/us/usc/t22/s5401] and Tables.
 
-    Subsection (c) of this section, referred to in subsec. (b), was repealed by [Pub. L. 112–74, div. I, title VII, § 7034(n)][/us/pl/112/74/s7034/n], Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217].
+    Subsection (c), referred to in subsec. (b), was repealed by [Pub. L. 112–74, div. I, title VII, § 7034(n)][/us/pl/112/74/s7034/n], Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217].
 
  __Amendments__ 
 

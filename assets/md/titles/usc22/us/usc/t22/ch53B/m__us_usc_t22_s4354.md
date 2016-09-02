@@ -17,13 +17,13 @@
 
     (a) __Deadline for declassification__ 
 
-        (1) Except as provided in subsection (b) of this section, each classified record of permanent historical value (as determined by the Secretary of State and the Archivist of the United States) which was published, issued, or otherwise prepared by the Department of State (or any officer or employee thereof acting in an official capacity) shall be declassified not later than 30 years after the record was prepared, shall be transferred to the National Archives and Records Administration, and shall be made available at the National Archives for public inspection and copying.
+        (1) Except as provided in subsection (b), each classified record of permanent historical value (as determined by the Secretary of State and the Archivist of the United States) which was published, issued, or otherwise prepared by the Department of State (or any officer or employee thereof acting in an official capacity) shall be declassified not later than 30 years after the record was prepared, shall be transferred to the National Archives and Records Administration, and shall be made available at the National Archives for public inspection and copying.
 
         (2) Nothing in this subsection may be construed to require the declassification of a record wholly prepared by a foreign government.
 
     (b) __Exempted records__ 
 
-    Subsection (a) of this section shall not apply to any record (or portion thereof) the publication of which the Secretary of State, in coordination with any agency that originated information in the records, determines—
+    Subsection (a) shall not apply to any record (or portion thereof) the publication of which the Secretary of State, in coordination with any agency that originated information in the records, determines—
 
         (1) would compromise weapons technology important to the national defense of the United States or reveal sensitive information relating to the design of United States or foreign military equipment or relating to United States cryptologic systems or activities;
 
@@ -49,7 +49,7 @@
 
     (d) __Annual reports by the Advisory Committee__ 
 
-        The Advisory Committee shall annually submit to the Secretary of State and to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives a report setting forth its findings from the review conducted under subsection (c) of this section.
+        The Advisory Committee shall annually submit to the Secretary of State and to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives a report setting forth its findings from the review conducted under subsection (c).
 
     (e) __Annual reports by the Secretary__ 
 
