@@ -1813,6 +1813,12 @@ The corresponding percentages shall be substituted for
 
 > “Except for purposes of section 21 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to effect of changes in rates during a taxable year), the amendments made by parts I and II of this title \[amending this section and sections 2, 11, 37, 141, 144, 242, 821, 871, 963, 6016, 6074, 6154, 6212, 6504, and 6655 of this title\] shall apply with respect to taxable years beginning after December 31, 1963.”
 
+ __Short Title of 2016 Amendment__ 
+
+[Pub. L. 114–141][/us/pl/114/141], § 1(a), Mar. 30, 2016, [130 Stat. 322][/us/stat/130/322], provided that: 
+
+> “This Act \[amending sections 4081, 4083, 4261, 4271, and 9502 of this title and sections 106, 41742, 47104, 47107, 47115, 47124, 47141, and 48101 to 48103 of Title 49, Transportation, and amending provisions set out as a note preceding [section 42301 of Title 49][/us/usc/t49/s42301] and provisions set out as notes under sections 41731 and 47141 of Title 49\] may be cited as the ‘Airport and Airway Extension Act of 2016’.”
+
  __Short Title of 2015 Amendment__ 
 
 [Pub. L. 114–113, div. Q][/us/pl/114/113/dQ], § 1(a), Dec. 18, 2015, [129 Stat. 3040][/us/stat/129/3040], provided that: 
@@ -1825,7 +1831,7 @@ The corresponding percentages shall be substituted for
 
 [Pub. L. 114–55][/us/pl/114/55], § 1(a), Sept. 30, 2015, [129 Stat. 522][/us/stat/129/522], provided that: 
 
-> “This Act \[amending sections 4081, 4083, 4261, 4271, and 9502 of this title, sections 106, 41742, 47104, 47107, 47115, 47124, 47141, 48101 to 48103, and 48114 of Title 49, Transportation, [section 50905 of Title 51][/us/usc/t51/s50905], National and Commercial Space Programs, amending provisions set out as a note preceding [section 42301 of Title 49][/us/usc/t49/s42301], and provisions set out as notes under sections 41731 and 47141 of Title 49\] may be cited as the ‘Airport and Airway Extension Act of 2015’.”
+> “This Act \[amending sections 4081, 4083, 4261, 4271, and 9502 of this title, sections 106, 41742, 47104, 47107, 47115, 47124, 47141, 48101 to 48103, and 48114 of Title 49, Transportation, and [section 50905 of Title 51][/us/usc/t51/s50905], National and Commercial Space Programs, and amending provisions set out as a note preceding [section 42301 of Title 49][/us/usc/t49/s42301] and provisions set out as notes under sections 41731 and 47141 of Title 49\] may be cited as the ‘Airport and Airway Extension Act of 2015’.”
 
 [Pub. L. 114–26][/us/pl/114/26], § 1, June 29, 2015, [129 Stat. 319][/us/stat/129/319], provided that: 
 
@@ -3542,6 +3548,9 @@ The corresponding percentages shall be substituted for
 [/us/stat/78/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F30
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
+[/us/pl/114/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F141
+[/us/stat/130/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F322
+[/us/usc/t49/s42301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs42301
 [/us/pl/114/113/dQ]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ
 [/us/stat/129/3040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3040
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74

@@ -63,7 +63,7 @@
 
     (b) __Commercial aviation__ 
 
-        For purposes of this subpart, the term “commercial aviation” means any use of an aircraft in a business of transporting persons or property for compensation or hire by air, unless properly allocable to any transportation exempt from the taxes imposed by sections 4261 and 4271 by reason of section 4281 or 4282 or by reason of subsection (h) or (i) of section 4261. Such term shall not include the use of any aircraft before April 1, 2016, if tax is imposed under section 4043 with respect to the fuel consumed in such use or if no tax is imposed on such use under section 4043 by reason of subsection (c)(5) thereof.
+        For purposes of this subpart, the term “commercial aviation” means any use of an aircraft in a business of transporting persons or property for compensation or hire by air, unless properly allocable to any transportation exempt from the taxes imposed by sections 4261 and 4271 by reason of section 4281 or 4282 or by reason of subsection (h) or (i) of section 4261. Such term shall not include the use of any aircraft before July 16, 2016, if tax is imposed under section 4043 with respect to the fuel consumed in such use or if no tax is imposed on such use under section 4043 by reason of subsection (c)(5) thereof.
 
     (c) __Certain uses defined as removal__ 
 
@@ -101,9 +101,11 @@
 
                 For additional assessable penalty for the refusal to admit entry or other refusal to permit an action by the Secretary authorized by paragraph (1), see section 6717.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 483][/us/stat/68A/483]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–514, title XVII][/us/pl/99/514/tXVII], § 1703(a), Oct. 22, 1986, [100 Stat. 2776][/us/stat/100/2776]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13242(a), Aug. 10, 1993, [107 Stat. 517][/us/stat/107/517]; [Pub. L. 105–34, title IX][/us/pl/105/34/tIX], § 902(b)(3), title X, § 1032(a), (e)(4), Aug. 5, 1997, [111 Stat. 873][/us/stat/111/873], 933, 935; [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6010(h)(1), July 22, 1998, [112 Stat. 815][/us/stat/112/815]; [Pub. L. 108–357, title III][/us/pl/108/357/tIII], § 301(c)(8), title VIII, §§ 853(b), 858(a), 859(b)(1), 870(a), Oct. 22, 2004, [118 Stat. 1461][/us/stat/118/1461], 1611, 1617, 1618, 1623; [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11123(b), Aug. 10, 2005, [119 Stat. 1952][/us/stat/119/1952]; [Pub. L. 112–95, title XI][/us/pl/112/95/tXI], § 1103(b), Feb. 14, 2012, [126 Stat. 151][/us/stat/126/151]; [Pub. L. 114–55, title II][/us/pl/114/55/tII], § 202(c)(1), Sept. 30, 2015, [129 Stat. 525][/us/stat/129/525].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 483][/us/stat/68A/483]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–514, title XVII][/us/pl/99/514/tXVII], § 1703(a), Oct. 22, 1986, [100 Stat. 2776][/us/stat/100/2776]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13242(a), Aug. 10, 1993, [107 Stat. 517][/us/stat/107/517]; [Pub. L. 105–34, title IX][/us/pl/105/34/tIX], § 902(b)(3), title X, § 1032(a), (e)(4), Aug. 5, 1997, [111 Stat. 873][/us/stat/111/873], 933, 935; [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6010(h)(1), July 22, 1998, [112 Stat. 815][/us/stat/112/815]; [Pub. L. 108–357, title III][/us/pl/108/357/tIII], § 301(c)(8), title VIII, §§ 853(b), 858(a), 859(b)(1), 870(a), Oct. 22, 2004, [118 Stat. 1461][/us/stat/118/1461], 1611, 1617, 1618, 1623; [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11123(b), Aug. 10, 2005, [119 Stat. 1952][/us/stat/119/1952]; [Pub. L. 112–95, title XI][/us/pl/112/95/tXI], § 1103(b), Feb. 14, 2012, [126 Stat. 151][/us/stat/126/151]; [Pub. L. 114–55, title II][/us/pl/114/55/tII], § 202(c)(1), Sept. 30, 2015, [129 Stat. 525][/us/stat/129/525]; [Pub. L. 114–141, title II][/us/pl/114/141/tII], § 202(c)(1), Mar. 30, 2016, [130 Stat. 324][/us/stat/130/324].)
 
  __Amendments__ 
+
+    2016—Subsec. (b). [Pub. L. 114–141][/us/pl/114/141] substituted “July 16, 2016” for “April 1, 2016”.
 
     2015—Subsec. (b). [Pub. L. 114–55][/us/pl/114/55] substituted “April 1, 2016” for “October 1, 2015”.
 
@@ -216,6 +218,9 @@
 [/us/stat/126/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F151
 [/us/pl/114/55/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2FtII
 [/us/stat/129/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F525
+[/us/pl/114/141/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F141%2FtII
+[/us/stat/130/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F324
+[/us/pl/114/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F141
 [/us/pl/114/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
