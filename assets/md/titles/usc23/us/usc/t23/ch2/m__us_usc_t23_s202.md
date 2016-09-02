@@ -443,7 +443,7 @@
 
  __Tribal High Priority Projects Program__ 
 
-[Pub. L. 112–141, div. A, title I, § 1123][/us/pl/112/141/s1123], July 6, 2012, [126 Stat. 497][/us/stat/126/497], as amended by [Pub. L. 113–159, title I, § 1001(b)(2)][/us/pl/113/159/s1001/b/2], Aug. 8, 2014, [128 Stat. 1840][/us/stat/128/1840]; [Pub. L. 114–21, title I, § 1001(b)(2)][/us/pl/114/21/s1001/b/2], May 29, 2015, [129 Stat. 219][/us/stat/129/219]; [Pub. L. 114–41, title I, § 1001(b)(2)][/us/pl/114/41/s1001/b/2], July 31, 2015, [129 Stat. 444][/us/stat/129/444]; [Pub. L. 114–73, title I, § 1001(b)(2)][/us/pl/114/73/s1001/b/2], Oct. 29, 2015, [129 Stat. 569][/us/stat/129/569], provided that:
+[Pub. L. 112–141, div. A, title I, § 1123][/us/pl/112/141/s1123], July 6, 2012, [126 Stat. 497][/us/stat/126/497], as amended by [Pub. L. 113–159, title I, § 1001(b)(2)][/us/pl/113/159/s1001/b/2], Aug. 8, 2014, [128 Stat. 1840][/us/stat/128/1840]; [Pub. L. 114–21, title I, § 1001(b)(2)][/us/pl/114/21/s1001/b/2], May 29, 2015, [129 Stat. 219][/us/stat/129/219]; [Pub. L. 114–41, title I, § 1001(b)(2)][/us/pl/114/41/s1001/b/2], July 31, 2015, [129 Stat. 444][/us/stat/129/444]; [Pub. L. 114–73, title I, § 1001(b)(2)][/us/pl/114/73/s1001/b/2], Oct. 29, 2015, [129 Stat. 569][/us/stat/129/569]; [Pub. L. 114–87, title I, § 1001(b)(2)][/us/pl/114/87/s1001/b/2], Nov. 20, 2015, [129 Stat. 678][/us/stat/129/678], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -647,7 +647,7 @@
 
 >         “(1)  __In general__  __.—__ 
 
->         There is authorized to be appropriated $30,000,000 out of the general fund of the Treasury to carry out the program for each of fiscal years 2013 through 2015 and $4,180,328 out of the general fund of the Treasury to carry out the program for the period beginning on October 1, 2015, and ending on November 20, 2015.
+>         There is authorized to be appropriated $30,000,000 out of the general fund of the Treasury to carry out the program for each of fiscal years 2013 through 2015 and $5,327,869 out of the general fund of the Treasury to carry out the program for the period beginning on October 1, 2015, and ending on December 4, 2015.
 
 >         “(2)  __Administration__  __.—__ 
 
@@ -778,6 +778,8 @@
 [/us/stat/129/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F444
 [/us/pl/114/73/s1001/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs1001%2Fb%2F2
 [/us/stat/129/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F569
+[/us/pl/114/87/s1001/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs1001%2Fb%2F2
+[/us/stat/129/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F678
 [/us/usc/t23/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs125
 [/us/usc/t23/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs202
 [/us/usc/t23/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs202
