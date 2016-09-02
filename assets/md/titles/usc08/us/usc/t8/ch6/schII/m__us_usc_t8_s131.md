@@ -39,7 +39,7 @@
 
     Section 137–3, [act Oct. 16, 1918, ch. 186, § 4][/us/act/1918-10-16/ch186/s4], as added [Sept. 23, 1950, ch. 1024][/us/act/1950-09-23/ch1024], title I, § 22, [64 Stat. 1006][/us/stat/64/1006], related to deportation of subversive aliens.
 
-    Sections 137–4 to 137–8, [act Oct. 16, 1918, ch. 186][/us/act/1918-10-16/ch186], §§ 5–9, as added [Sept. 23, 1950, ch. 1024][/us/act/1950-09-23/ch1024], title I, § 22, 64 Stat., 1006, related to temporary exclusion of suspects, subversive aliens and penalties. See sections 1102, 1182, 1225, 1253, 1326 and 1327 of this title.
+    Sections 137–4 to 137–8, [act Oct. 16, 1918, ch. 186][/us/act/1918-10-16/ch186], §§ 5–9, as added [Sept. 23, 1950, ch. 1024][/us/act/1950-09-23/ch1024], title I, § 22, [64 Stat. 1006][/us/stat/64/1006], related to temporary exclusion of suspects, subversive aliens and penalties. See sections 1102, 1182, 1225, 1253, 1326 and 1327 of this title.
 
     Section 137–9, [act Mar. 28, 1951, ch. 23, § 1][/us/act/1951-03-28/ch23/s1], [65 Stat. 28][/us/stat/65/28], related to clarification of immigration status of certain aliens.
 
@@ -109,6 +109,7 @@
 [/us/stat/64/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1006
 [/us/act/1918-10-16/ch186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-10-16%2Fch186
 [/us/act/1950-09-23/ch1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-23%2Fch1024
+[/us/stat/64/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1006
 [/us/act/1951-03-28/ch23/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-03-28%2Fch23%2Fs1
 [/us/stat/65/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F28
 [/us/act/1951-03-28/ch23/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-03-28%2Fch23%2Fs2
