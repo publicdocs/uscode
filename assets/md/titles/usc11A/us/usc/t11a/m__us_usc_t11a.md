@@ -15,11 +15,11 @@
 
 # Title 11—APPENDIXBANKRUPTCY RULES
 
-Current through 114-93not92
+Current through 114-100not94not95
 
  __FEDERAL RULES OF BANKRUPTCY PROCEDURE__ 
 
-(Effective August 1, 1983, as amended to December 1, 2015) __Historical Note__ 
+(Effective August 1, 1983, as amended to January 3, 2016) __Historical Note__ 
 
     The Federal Rules of Bankruptcy Procedure were adopted by order of the Supreme Court on Apr. 25, 1983, transmitted to Congress by the Chief Justice on the same day, and became effective Aug. 1, 1983.
 
