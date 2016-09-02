@@ -65,9 +65,9 @@
 
     (f)  __University Transportation Research Funds__  __.—__ 
 
-    The Secretary may make a grant under [section 5505 of title 49][/us/usc/t49/s5505] to an institute designated under subsection (a) for maritime and maritime intermodal research under that section as if the institute were a university transportation center. In making a grant, the Secretary, through the Research and Innovative Technology Administration, shall advise the Maritime Administration on the availability of funds for the grants and consult with the Administration on making the grants.
+    The Secretary may make a grant under [section 5505 of title 49][/us/usc/t49/s5505] to an institute designated under subsection (a) for maritime and maritime intermodal research under that section as if the institute were a university transportation center. In making a grant, the Secretary, through the Office of the Assistant Secretary for Research and Technology of the Department of Transportation, shall advise the Maritime Administration on the availability of funds for the grants and consult with the Administration on making the grants.
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1561][/us/stat/120/1561].)
+([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1561][/us/stat/120/1561]; [Pub. L. 113–76, div. L, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 574][/us/stat/128/574].)
 
 <table>
 
@@ -115,6 +115,10 @@ Pub. L. 101–115, § 8, Oct. 13, 1989, 103 Stat. 694; Pub. L. 101–595, titl
 
 </table>
 
+ __Change of Name__ 
+
+    “Office of the Assistant Secretary for Research and Technology of the Department of Transportation” substituted for “Research and Innovative Technology Administration” in subsec. (f) on authority of title I of div. L of [Pub. L. 113–76][/us/pl/113/76], set out in part as a note under [section 112 of Title 49][/us/usc/t49/s112], Transportation.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t46/stV/ptA/ch501/m__us_usc_t46_s50111.md) | [Next](./../../../../../..//us/usc/t46/stV/ptA/ch501/m__us_usc_t46_s50113.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50112)
@@ -125,5 +129,9 @@ Pub. L. 101–115, § 8, Oct. 13, 1989, 103 Stat. 694; Pub. L. 101–595, titl
 [/us/usc/t49/s5505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5505
 [/us/pl/109/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fb
 [/us/stat/120/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1561
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F574
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/usc/t49/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs112
 
 
