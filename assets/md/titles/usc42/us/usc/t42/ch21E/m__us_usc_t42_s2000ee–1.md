@@ -73,7 +73,7 @@
 
         (1) __In general__ 
 
-        The privacy officers and civil liberties officers of each department, agency, or element referred to or described in subsection (a) or (b) shall periodically, but not less than quarterly, submit a report on the activities of such officers—
+        The privacy officers and civil liberties officers of each department, agency, or element referred to or described in subsection (a) or (b) shall periodically, but not less than semiannually, submit a report on the activities of such officers—
 
             (A)
 
@@ -109,9 +109,11 @@
 
         Nothing in this section shall be construed to limit or otherwise supplant any other authorities or responsibilities provided by law to privacy officers or civil liberties officers.
 
-([Pub. L. 108–458, title I, § 1062][/us/pl/108/458/s1062], Dec. 17, 2004, [118 Stat. 3688][/us/stat/118/3688]; [Pub. L. 110–53, title VIII, § 803(a)][/us/pl/110/53/s803/a], Aug. 3, 2007, [121 Stat. 360][/us/stat/121/360].)
+([Pub. L. 108–458, title I, § 1062][/us/pl/108/458/s1062], Dec. 17, 2004, [118 Stat. 3688][/us/stat/118/3688]; [Pub. L. 110–53, title VIII, § 803(a)][/us/pl/110/53/s803/a], Aug. 3, 2007, [121 Stat. 360][/us/stat/121/360]; [Pub. L. 113–126, title III, § 329(b)(4)][/us/pl/113/126/s329/b/4], July 7, 2014, [128 Stat. 1406][/us/stat/128/1406].)
 
  __Amendments__ 
+
+    2014—Subsec. (f)(1). [Pub. L. 113–126][/us/pl/113/126] substituted “semiannually” for “quarterly” in introductory provisions.
 
     2007—[Pub. L. 110–53][/us/pl/110/53] amended section generally. Prior to amendment, text of section read as follows: “It is the sense of Congress that each executive department or agency with law enforcement or antiterrorism functions should designate a privacy and civil liberties officer.”
 
@@ -127,6 +129,9 @@
 [/us/stat/118/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3688
 [/us/pl/110/53/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs803%2Fa
 [/us/stat/121/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F360
+[/us/pl/113/126/s329/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fb%2F4
+[/us/stat/128/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1406
+[/us/pl/113/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 
 
