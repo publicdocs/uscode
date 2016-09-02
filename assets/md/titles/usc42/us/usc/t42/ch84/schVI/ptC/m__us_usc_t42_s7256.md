@@ -87,7 +87,7 @@
 
             (C) The Secretary shall not have authority to carry out transactions under paragraph (1) until the guidelines for transactions required under subparagraph (A) are final.
 
-        (7) The annual report of the head of an executive agency under [section 2371(h) of title 10][/us/usc/t10/s2371/h] shall be submitted to Congress.
+        (7) The annual report of the head of an executive agency under section 2371(h)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 10 shall be submitted to Congress.
 
         (8)
 
@@ -106,6 +106,10 @@
         (10) Notwithstanding any other provision of law, the authority to enter into transactions under paragraph (1) shall terminate on September 30, 2020.
 
 ([Pub. L. 95–91, title VI, § 646][/us/pl/95/91/s646], Aug. 4, 1977, [91 Stat. 599][/us/stat/91/599]; [Pub. L. 103–160, div. C, title XXXI, § 3154][/us/pl/103/160/s3154], Nov. 30, 1993, [107 Stat. 1952][/us/stat/107/1952]; [Pub. L. 109–58, title X, § 1007][/us/pl/109/58/s1007], Aug. 8, 2005, [119 Stat. 932][/us/stat/119/932]; [Pub. L. 111–383, div. C, title XXXI, § 3118][/us/pl/111/383/s3118], Jan. 7, 2011, [124 Stat. 4514][/us/stat/124/4514]; [Pub. L. 113–66, div. C, title XXXI, § 3119][/us/pl/113/66/s3119], Dec. 26, 2013, [127 Stat. 1059][/us/stat/127/1059].)
+
+ __References in Text__ 
+
+    [Section 2371(h) of title 10][/us/usc/t10/s2371/h], referred to in subsec. (g)(7), was repealed by [Pub. L. 113–291, div. A, title X, § 1071(f)(20)][/us/pl/113/291/s1071/f/20], Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511].
 
  __Amendments__ 
 
@@ -199,7 +203,6 @@
 [/us/usc/t42/s5908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5908
 [/us/usc/t42/s2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2182
 [/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
-[/us/usc/t10/s2371/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371%2Fh
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/usc/t10/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371
 [/us/pl/95/91/s646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs646
@@ -212,6 +215,9 @@
 [/us/stat/124/4514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4514
 [/us/pl/113/66/s3119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3119
 [/us/stat/127/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1059
+[/us/usc/t10/s2371/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371%2Fh
+[/us/pl/113/291/s1071/f/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F20
+[/us/stat/128/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3511
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58

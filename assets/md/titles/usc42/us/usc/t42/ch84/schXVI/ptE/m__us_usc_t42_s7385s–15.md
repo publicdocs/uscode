@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch84/schXVI/ptE/m__us_usc_t42_s7385s–14.md) | [Next](./../../../../../..//us/usc/t42/ch84/schXVII/m__us_usc_t42_ch84_schXVII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7385s%E2%80%9315)
+[Previous](./../../../../../..//us/usc/t42/ch84/schXVI/ptE/m__us_usc_t42_s7385s–14.md) | [Next](./../../../../../..//us/usc/t42/ch84/schXVI/ptE/m__us_usc_t42_s7385s–16.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7385s%E2%80%9315)
 
 ## § 7385s–15. Office of Ombudsman
 
@@ -43,7 +43,7 @@
 
     (e) __Annual report__ 
 
-        (1) Not later than February 15 each year, the Ombudsman shall submit to Congress a report on activities under this part and part B.
+        (1) Not later than July 30 each year, the Ombudsman shall submit to Congress a report on activities under this part and part B.
 
         (2)
 
@@ -55,6 +55,16 @@
 
         (3) The first report under paragraph (1) shall be the report submitted in 2006.
 
+        (4)
+
+         Not later than 180 days after the submission to Congress of the annual report under paragraph (1), the Secretary shall submit to Congress in writing, and post on the public Internet website of the Department of Labor, a response to the report that—
+
+            (A) includes a statement of whether the Secretary agrees or disagrees with the specific issues raised by the Ombudsman in the report;
+
+            (B) if the Secretary agrees with the Ombudsman on those issues, describes the actions to be taken to correct those issues; and
+
+            (C) if the Secretary does not agree with the Ombudsman on those issues, describes the reasons the Secretary does not agree.
+
     (f) __Outreach__ 
 
         The Secretary of Labor and the Secretary of Health and Human Services shall each undertake outreach to advise the public of the existence and duties of the Office.
@@ -65,11 +75,17 @@
 
     (h) __Sunset__ 
 
-        Effective October 28, 2012, this section shall have no further force or effect.
+        Effective October 28, 2019, this section shall have no further force or effect.
 
-([Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXVI, § 3686\], as added [Pub. L. 108–375, div. C, title XXXI, § 3161][/us/pl/108/375/s3161], Oct. 28, 2004, [118 Stat. 2185][/us/stat/118/2185]; amended [Pub. L. 110–181, div. C, title XXXI, § 3116][/us/pl/110/181/s3116], Jan. 28, 2008, [122 Stat. 578][/us/stat/122/578]; [Pub. L. 111–84, div. C, title XXXI, § 3142(a)][/us/pl/111/84/s3142/a], Oct. 28, 2009, [123 Stat. 2715][/us/stat/123/2715].)
+([Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXVI, § 3686\], as added [Pub. L. 108–375, div. C, title XXXI, § 3161][/us/pl/108/375/s3161], Oct. 28, 2004, [118 Stat. 2185][/us/stat/118/2185]; amended [Pub. L. 110–181, div. C, title XXXI, § 3116][/us/pl/110/181/s3116], Jan. 28, 2008, [122 Stat. 578][/us/stat/122/578]; [Pub. L. 111–84, div. C, title XXXI, § 3142(a)][/us/pl/111/84/s3142/a], Oct. 28, 2009, [123 Stat. 2715][/us/stat/123/2715]; [Pub. L. 113–291, div. C, title XXXI, § 3141(b)][/us/pl/113/291/s3141/b], Dec. 19, 2014, [128 Stat. 3899][/us/stat/128/3899].)
 
  __Amendments__ 
+
+    2014—Subsec. (e)(1). [Pub. L. 113–291, § 3141(b)(1)(A)][/us/pl/113/291/s3141/b/1/A], substituted “July 30” for “February 15”.
+
+    Subsec. (e)(4). [Pub. L. 113–291, § 3141(b)(1)(B)][/us/pl/113/291/s3141/b/1/B], added par. (4).
+
+    Subsec. (h). [Pub. L. 113–291, § 3141(b)(2)][/us/pl/113/291/s3141/b/2], substituted “2019” for “2012”.
 
     2009—Subsecs. (c) to (e). [Pub. L. 111–84, § 3142(a)(1)][/us/pl/111/84/s3142/a/1]–(3), inserted “and part B” after “this part” wherever appearing.
 
@@ -85,7 +101,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch84/schXVI/ptE/m__us_usc_t42_s7385s–14.md) | [Next](./../../../../../..//us/usc/t42/ch84/schXVII/m__us_usc_t42_ch84_schXVII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7385s%E2%80%9315)
+[Previous](./../../../../../..//us/usc/t42/ch84/schXVI/ptE/m__us_usc_t42_s7385s–14.md) | [Next](./../../../../../..//us/usc/t42/ch84/schXVI/ptE/m__us_usc_t42_s7385s–16.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7385s%E2%80%9315)
 
 ----------
 ----------
@@ -97,6 +113,11 @@
 [/us/stat/122/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F578
 [/us/pl/111/84/s3142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3142%2Fa
 [/us/stat/123/2715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2715
+[/us/pl/113/291/s3141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3141%2Fb
+[/us/stat/128/3899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3899
+[/us/pl/113/291/s3141/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3141%2Fb%2F1%2FA
+[/us/pl/113/291/s3141/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3141%2Fb%2F1%2FB
+[/us/pl/113/291/s3141/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3141%2Fb%2F2
 [/us/pl/111/84/s3142/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3142%2Fa%2F1
 [/us/pl/111/84/s3142/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3142%2Fa%2F4
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181

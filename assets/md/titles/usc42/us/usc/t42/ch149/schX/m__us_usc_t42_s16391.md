@@ -47,7 +47,7 @@
 
     (e) __Technology Commercialization Fund__ 
 
-        The Secretary shall establish an Energy Technology Commercialization Fund, using 0.9 percent of the amount made available to the Department for applied energy research, development, demonstration, and commercial application for each fiscal year, to be used to provide matching funds with private partners to promote promising energy technologies for commercial purposes.
+        The Secretary shall establish an Energy Technology Commercialization Fund, using 0.9 percent of the amount made available to the Department for applied energy research, development, demonstration, and commercial application for each fiscal year based on future planned activities and the amount of the appropriations for the fiscal year, to be used to provide matching funds with private partners to promote promising energy technologies for commercial purposes.
 
     (f) __Technology transfer responsibility__ 
 
@@ -63,11 +63,15 @@
 
             Each year after the submission of the plan under paragraph (1), the Secretary shall submit to Congress an updated execution plan and reports that describe progress toward meeting goals set forth in the execution plan and the funds expended under subsection (e).
 
-([Pub. L. 109–58, title X, § 1001][/us/pl/109/58/s1001], Aug. 8, 2005, [119 Stat. 926][/us/stat/119/926].)
+([Pub. L. 109–58, title X, § 1001][/us/pl/109/58/s1001], Aug. 8, 2005, [119 Stat. 926][/us/stat/119/926]; [Pub. L. 113–291, div. C, title XXXI, § 3144][/us/pl/113/291/s3144], Dec. 19, 2014, [128 Stat. 3902][/us/stat/128/3902].)
 
  __References in Text__ 
 
     The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (f), is [Pub. L. 96–480][/us/pl/96/480], Oct. 21, 1980, [94 Stat. 2311][/us/stat/94/2311], as amended, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 15][/us/usc/t15/s3701] and Tables.
+
+ __Amendments__ 
+
+    2014—Subsec. (e). [Pub. L. 113–291][/us/pl/113/291] inserted “based on future planned activities and the amount of the appropriations for the fiscal year” after “each fiscal year”.
 
 ----------
 
@@ -80,8 +84,11 @@
 [/us/usc/t15/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701
 [/us/pl/109/58/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1001
 [/us/stat/119/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F926
+[/us/pl/113/291/s3144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3144
+[/us/stat/128/3902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3902
 [/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/stat/94/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2311
 [/us/usc/t15/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 
 

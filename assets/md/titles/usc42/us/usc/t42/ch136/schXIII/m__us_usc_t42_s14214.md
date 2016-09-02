@@ -209,7 +209,7 @@
 
     Section 31101, referred to in subsec. (d), is [section 31101 of Pub. L. 103–322][/us/pl/103/322/s31101], [108 Stat. 1882][/us/stat/108/1882], which is set out as a note under [section 13701 of this title][/us/usc/t42/s13701].
 
-    Sections 31501–31505, referred to in subsec. (d), are sections 31501–31505 of [Pub. L. 103–322][/us/pl/103/322], [108 Stat. 1888][/us/stat/108/1888], 1889, which amended sections 2502 to 2504, 2506, and 2512 of Title 16, Conservation.
+    Sections 31501–31505, referred to in subsec. (d), are sections 31501–31505 of [Pub. L. 103–322][/us/pl/103/322], [108 Stat. 1888][/us/stat/108/1888], 1889, which amended former sections 2502 to 2504, 2506, and 2512 of Title 16, Conservation.
 
     Section 31901, referred to in subsec. (d), is [section 31901 of Pub. L. 103–322][/us/pl/103/322/s31901], [108 Stat. 1892][/us/stat/108/1892], which enacted provisions set out as a note under [section 13701 of this title][/us/usc/t42/s13701].
 

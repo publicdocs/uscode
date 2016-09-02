@@ -25,15 +25,13 @@
 
     (c) __Studies of organization of housing and urban development functions and programs and recommendations regarding transfer of such functions and programs to or from Department__ 
 
-        The President shall undertake studies of the organization of housing and urban development functions and programs within the Federal Government, and he shall provide the Congress with the findings and conclusions of such studies, together with his recommendations regarding the transfer of such functions and programs to or from the Department. Notwithstanding any other provision of this chapter, none of the functions of the Secretary of the Interior authorized under the Land and Water Conservation Fund Act of 1965 \[[16 U.S.C. 460][/us/usc/t16/s460]l–4 et seq.\] or other functions carried out by the Bureau of Outdoor Recreation shall be transferred from the Department of the Interior or in any way be limited geographically unless specifically provided for by reorganization plan pursuant to provisions of chapter 9 of title 5, or by statute.
+        The President shall undertake studies of the organization of housing and urban development functions and programs within the Federal Government, and he shall provide the Congress with the findings and conclusions of such studies, together with his recommendations regarding the transfer of such functions and programs to or from the Department. Notwithstanding any other provision of this chapter, none of the functions of the Secretary of the Interior authorized under chapter 2003 of title 54 or other functions carried out by the Bureau of Outdoor Recreation shall be transferred from the Department of the Interior or in any way be limited geographically unless specifically provided for by reorganization plan pursuant to provisions of chapter 9 of title 5, or by statute.
 
-([Pub. L. 89–174, § 5][/us/pl/89/174/s5], Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669]; [Pub. L. 90–83, § 10(b)][/us/pl/90/83/s10/b], Sept. 11, 1967, [81 Stat. 223][/us/stat/81/223]; [Pub. L. 90–448, title VIII, § 807(c)][/us/pl/90/448/s807/c], Aug. 1, 1968, [82 Stat. 544][/us/stat/82/544]; [Pub. L. 102–550, title XIII, § 1352][/us/pl/102/550/s1352], Oct. 28, 1992, [106 Stat. 3969][/us/stat/106/3969]; [Pub. L. 110–289, div. A, title I, § 1161(f)][/us/pl/110/289/s1161/f], July 30, 2008, [122 Stat. 2780][/us/stat/122/2780].)
+([Pub. L. 89–174, § 5][/us/pl/89/174/s5], Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669]; [Pub. L. 90–83, § 10(b)][/us/pl/90/83/s10/b], Sept. 11, 1967, [81 Stat. 223][/us/stat/81/223]; [Pub. L. 90–448, title VIII, § 807(c)][/us/pl/90/448/s807/c], Aug. 1, 1968, [82 Stat. 544][/us/stat/82/544]; [Pub. L. 102–550, title XIII, § 1352][/us/pl/102/550/s1352], Oct. 28, 1992, [106 Stat. 3969][/us/stat/106/3969]; [Pub. L. 110–289, div. A, title I, § 1161(f)][/us/pl/110/289/s1161/f], July 30, 2008, [122 Stat. 2780][/us/stat/122/2780]; [Pub. L. 113–287, § 5(k)(3)][/us/pl/113/287/s5/k/3], Dec. 19, 2014, [128 Stat. 3270][/us/stat/128/3270].)
 
  __References in Text__ 
 
     This chapter, referred to in subsec. (c), was in the original “this Act”, meaning [Pub. L. 89–174][/us/pl/89/174], Sept. 9, 1965, [79 Stat. 667][/us/stat/79/667], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3531 of this title][/us/usc/t42/s3531] and Tables.
-
-    The Land and Water Conservation Fund Act of 1965, referred to in subsec. (c), is [Pub. L. 88–578][/us/pl/88/578], Sept. 3, 1964, [78 Stat. 897][/us/stat/78/897], which is classified generally to part B (§ 460l–4 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of Title 16 and Tables.
 
  __Codification__ 
 
@@ -42,6 +40,8 @@
     Section was formerly classified to section 624c of former Title 5, Executive Departments and Government Officers and Employees, prior to the general revision and enactment of Title 5, Government Organization and Employees by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 1, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Amendments__ 
+
+    2014—Subsec. (c). [Pub. L. 113–287][/us/pl/113/287] substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 ([78 Stat. 897][/us/stat/78/897])”.
 
     2008—Subsec. (d). [Pub. L. 110–289][/us/pl/110/289] struck out subsec. (d) which read as follows: “Notwithstanding any other provision of this chapter, the Secretary may not merge or consolidate the Office of Federal Housing Enterprise Oversight of the Department, or any of the functions or responsibilities of such Office, with any function or program administered by the Secretary.”
 
@@ -66,7 +66,6 @@
 ----------
 ----------
 
-[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
 [/us/pl/89/174/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174%2Fs5
 [/us/stat/79/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F669
 [/us/pl/90/83/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs10%2Fb
@@ -77,15 +76,17 @@
 [/us/stat/106/3969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3969
 [/us/pl/110/289/s1161/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1161%2Ff
 [/us/stat/122/2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2780
+[/us/pl/113/287/s5/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fk%2F3
+[/us/stat/128/3270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3270
 [/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F667
 [/us/usc/t42/s3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3531
-[/us/pl/88/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F578
-[/us/stat/78/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F897
 [/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/stat/78/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F897
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448

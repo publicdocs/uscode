@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch84/schXVI/ptE/m__us_usc_t42_s7385s–15.md) | [Next](./../../../../..//us/usc/t42/ch85/m__us_usc_t42_ch85.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch84%2FschXVII)
+[Previous](./../../../../..//us/usc/t42/ch84/schXVI/ptE/m__us_usc_t42_s7385s–16.md) | [Next](./../../../../..//us/usc/t42/ch85/m__us_usc_t42_ch85.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch84%2FschXVII)
 
 ### SUBCHAPTER XVII—\[Repealed\]
 
@@ -51,7 +51,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch84/schXVI/ptE/m__us_usc_t42_s7385s–15.md) | [Next](./../../../../..//us/usc/t42/ch85/m__us_usc_t42_ch85.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch84%2FschXVII)
+[Previous](./../../../../..//us/usc/t42/ch84/schXVI/ptE/m__us_usc_t42_s7385s–16.md) | [Next](./../../../../..//us/usc/t42/ch85/m__us_usc_t42_ch85.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch84%2FschXVII)
 
 ----------
 ----------

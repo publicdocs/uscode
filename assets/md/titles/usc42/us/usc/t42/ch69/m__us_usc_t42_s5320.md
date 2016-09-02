@@ -17,11 +17,7 @@
 
     (a) __Regulations__ 
 
-    With respect to applications for assistance under [section 5318 of this title][/us/usc/t42/s5318], the Secretary of the Interior, after consulting with the Secretary, shall prescribe and implement regulations concerning projects funded under [section 5318 of this title][/us/usc/t42/s5318] and their relationship with—
-
-        (1) “An Act to establish a program for the preservation of additional historic properties throughout the Nation, and for other purposes”, approved October 14, 1966, as amended \[[16 U.S.C. 470][/us/usc/t16/s470] et seq.\]; and
-
-        (2) “An Act to provide for the preservation of historical and archaeological data (including relics and specimens) which might otherwise be lost as a result of the construction of a dam”, approved June 27, 1960, as amended \[[16 U.S.C. 469][/us/usc/t16/s469] to 469c–1\].
+        With respect to applications for assistance under section 5318 <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, the Secretary of the Interior, after consulting with the Secretary, shall prescribe and implement regulations concerning projects funded under section 5318 <sup>\[1\]</sup>  of this title and their relationship with division A of subtitle III and chapter 3125 of title 54.
 
     (b) __Actions by State historic preservation officer and Secretary of the Interior__ 
 
@@ -33,17 +29,23 @@
 
     (c) __Regulations by Advisory Council on Historic Preservation providing for expeditious action__ 
 
-        The Advisory Council on Historic Preservation shall prescribe regulations providing for expeditious action by the Council in making its comments under section 106 of the Act \[[16 U.S.C. 470f][/us/usc/t16/s470f]\] referred to in subsection (a)(1) in the case of properties which are included on, or eligible for inclusion on, the National Register of Historic Places and which are affected by a project for which an application is made under [section 5318 of this title][/us/usc/t42/s5318].
+        The Advisory Council on Historic Preservation shall prescribe regulations providing for expeditious action by the Council in making its comments under [section 306108 of title 54][/us/usc/t54/s306108] in the case of properties which are included on, or eligible for inclusion on, the National Register of Historic Places and which are affected by a project for which an application is made under [section 5318 of this title][/us/usc/t42/s5318].
 
-([Pub. L. 93–383, title I, § 121][/us/pl/93/383/s121], as added [Pub. L. 96–399, title I, § 110(c)][/us/pl/96/399/s110/c], Oct. 8, 1980, [94 Stat. 1620][/us/stat/94/1620]; amended [Pub. L. 97–35, title III, § 308(b)][/us/pl/97/35/s308/b], Aug. 13, 1981, [95 Stat. 396][/us/stat/95/396].)
+([Pub. L. 93–383, title I, § 121][/us/pl/93/383/s121], as added [Pub. L. 96–399, title I, § 110(c)][/us/pl/96/399/s110/c], Oct. 8, 1980, [94 Stat. 1620][/us/stat/94/1620]; amended [Pub. L. 97–35, title III, § 308(b)][/us/pl/97/35/s308/b], Aug. 13, 1981, [95 Stat. 396][/us/stat/95/396]; [Pub. L. 113–287, § 5(k)(4)][/us/pl/113/287/s5/k/4], Dec. 19, 2014, [128 Stat. 3270][/us/stat/128/3270].)
 
  __References in Text__ 
 
-    “An Act to establish a program for the preservation of additional historic properties throughout the Nation, and for other purposes”, approved October 14, 1966, as amended, referred to in subsec. (a)(1), probably means [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], as amended, known as the National Historic Preservation Act, which is classified generally to subchapter II (§ 470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code see [section 470(a) of Title 16][/us/usc/t16/s470/a] and Tables.
-
-    “An Act to provide for the preservation of historical and archaeological data (including relics and specimens) which might otherwise be lost as a result of the construction of a dam”, approved June 27, 1960, as amended, referred to in subsec. (a)(2), is [Pub. L. 86–523][/us/pl/86/523], June 27, 1960, [74 Stat. 220][/us/stat/74/220], as amended, which enacted sections 469 to 469c–1 of Title 16. For complete classification of this Act, see Tables.
+    [Section 5318 of this title][/us/usc/t42/s5318], referred to in subsec. (a), probably should be a reference to section 119 of the Housing and Community Development Act of 1974, [Pub. L. 93–383, title I, § 119][/us/pl/93/383/s119], as added [Pub. L. 95–128, title I, § 110(b)][/us/pl/95/128/s110/b], Oct. 12, 1977, [91 Stat. 1125][/us/stat/91/1125], which is classified to [section 5318 of this title][/us/usc/t42/s5318].
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–287, § 5(k)(4)(A)][/us/pl/113/287/s5/k/4/A], amended subsec. (a) generally. Prior to amendment, text read as follows: “With respect to applications for assistance under [section 5318 of this title][/us/usc/t42/s5318], the Secretary of the Interior, after consulting with the Secretary, shall prescribe and implement regulations concerning projects funded under [section 5318 of this title][/us/usc/t42/s5318] and their relationship with—
+
+    “(1) ‘An Act to establish a program for the preservation of additional historic properties throughout the Nation, and for other purposes’, approved October 14, 1966, as amended; and
+
+    “(2) ‘An Act to provide for the preservation of historical and archaeological data (including relics and specimens) which might otherwise be lost as a result of the construction of a dam’, approved June 27, 1960, as amended.”
+
+    Subsec. (c). [Pub. L. 113–287, § 5(k)(4)(B)][/us/pl/113/287/s5/k/4/B], substituted “[section 306108 of title 54][/us/usc/t54/s306108]” for “section 106 of the Act referred to in subsection (a)(1)”.
 
     1981—Subsec. (b). [Pub. L. 97–35][/us/pl/97/35] substituted “subsection (c)(4)(B)” for “subsection (c)(7)(B)”.
 
@@ -59,22 +61,25 @@
 ----------
 
 [/us/usc/t42/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5318
-[/us/usc/t42/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5318
-[/us/usc/t16/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470
-[/us/usc/t16/s469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs469
-[/us/usc/t42/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5318
-[/us/usc/t16/s470f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470f
+[/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
 [/us/usc/t42/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5318
 [/us/pl/93/383/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs121
 [/us/pl/96/399/s110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs110%2Fc
 [/us/stat/94/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1620
 [/us/pl/97/35/s308/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs308%2Fb
 [/us/stat/95/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F396
-[/us/pl/89/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665
-[/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
-[/us/usc/t16/s470/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470%2Fa
-[/us/pl/86/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F523
-[/us/stat/74/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F220
+[/us/pl/113/287/s5/k/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fk%2F4
+[/us/stat/128/3270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3270
+[/us/usc/t42/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5318
+[/us/pl/93/383/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs119
+[/us/pl/95/128/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128%2Fs110%2Fb
+[/us/stat/91/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1125
+[/us/usc/t42/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5318
+[/us/pl/113/287/s5/k/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fk%2F4%2FA
+[/us/usc/t42/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5318
+[/us/usc/t42/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5318
+[/us/pl/113/287/s5/k/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fk%2F4%2FB
+[/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s308/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs308%2Fc

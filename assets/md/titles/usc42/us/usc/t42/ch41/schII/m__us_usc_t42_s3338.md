@@ -19,7 +19,7 @@
 
     (1) “Areawide development” means all proj­ects or programs for the acquisition, use, and development of open-space land; and the planning and construction of hospitals, libraries, airports, water supply and distribution facilities, sewerage facilities and waste treatment works, transportation facilities, highways, water development and land conservation, and other public works facilities.
 
-    (2) “Areawide development project” means a project assisted or to be assisted under section 702 of the Housing and Urban Development Act of 1965 \[[42 U.S.C. 3102][/us/usc/t42/s3102]\]; section 606 of the Public Health Service Act \[[42 U.S.C. 291f][/us/usc/t42/s291f]\]; section 8  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Federal Water Pollution Control Act \[[33 U.S.C. 1158][/us/usc/t33/s1158]\]; [section 120(a) of title 23][/us/usc/t23/s120/a]; section 12  <sup>\[1\]</sup>  of the Federal Airport Act; section 19  <sup>\[1\]</sup>  of the Airport and Airway Development Act of 1970; [section 5309 of title 49][/us/usc/t49/s5309]; title VII of the Housing Act of 1961 \[[42 U.S.C. 1500][/us/usc/t42/s1500] et seq.\]; or section 5(e) of the Land and Water Conservation Fund Act of 1965 \[[16 U.S.C. 460][/us/usc/t16/s460]l–8(e)\]; or under section 101(a)(1)  <sup>\[1\]</sup>  of the Public Works and Economic Development Act of 1965 (for a project of a type which the Secretary determines to be eligible for assistance under any of the other provisions listed above).
+    (2) “Areawide development project” means a project assisted or to be assisted under section 702 of the Housing and Urban Development Act of 1965 \[[42 U.S.C. 3102][/us/usc/t42/s3102]\]; section 606 of the Public Health Service Act \[[42 U.S.C. 291f][/us/usc/t42/s291f]\]; section 8  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Federal Water Pollution Control Act \[[33 U.S.C. 1158][/us/usc/t33/s1158]\]; [section 120(a) of title 23][/us/usc/t23/s120/a]; section 12  <sup>\[1\]</sup>  of the Federal Airport Act; section 19  <sup>\[1\]</sup>  of the Airport and Airway Development Act of 1970; [section 5309 of title 49][/us/usc/t49/s5309]; title VII of the Housing Act of 1961 \[[42 U.S.C. 1500][/us/usc/t42/s1500] et seq.\]; or [section 200305(e) of title 54][/us/usc/t54/s200305/e]; or under section 101(a)(1)  <sup>\[1\]</sup>  of the Public Works and Economic Development Act of 1965 (for a project of a type which the Secretary determines to be eligible for assistance under any of the other provisions listed above).
 
     (3) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, any territory or possession of the United States, or an agency or instrumentality of any of the foregoing.
 
@@ -37,7 +37,7 @@
 
     (10) “Secretary” means the Secretary of Housing and Urban Development.
 
-([Pub. L. 89–754, title II, § 208][/us/pl/89/754/s208], Nov. 3, 1966, [80 Stat. 1265][/us/stat/80/1265]; [Pub. L. 90–448, title VI, § 602(e)][/us/pl/90/448/s602/e], Aug. 1, 1968, [82 Stat. 532][/us/stat/82/532]; [Pub. L. 91–258, title I, § 52(b)(3)][/us/pl/91/258/s52/b/3], May 21, 1970, [84 Stat. 235][/us/stat/84/235]; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, [84 Stat. 2085][/us/stat/84/2085]; [Pub. L. 102–240, title III, § 3003(b)][/us/pl/102/240/s3003/b], Dec. 18, 1991, [105 Stat. 2088][/us/stat/105/2088]; [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VII, § 709(a)(6)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–312.)
+([Pub. L. 89–754, title II, § 208][/us/pl/89/754/s208], Nov. 3, 1966, [80 Stat. 1265][/us/stat/80/1265]; [Pub. L. 90–448, title VI, § 602(e)][/us/pl/90/448/s602/e], Aug. 1, 1968, [82 Stat. 532][/us/stat/82/532]; [Pub. L. 91–258, title I, § 52(b)(3)][/us/pl/91/258/s52/b/3], May 21, 1970, [84 Stat. 235][/us/stat/84/235]; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, [84 Stat. 2085][/us/stat/84/2085]; [Pub. L. 102–240, title III, § 3003(b)][/us/pl/102/240/s3003/b], Dec. 18, 1991, [105 Stat. 2088][/us/stat/105/2088]; [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VII, § 709(a)(6)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–312; [Pub. L. 113–287, § 5(k)(2)][/us/pl/113/287/s5/k/2], Dec. 19, 2014, [128 Stat. 3269][/us/stat/128/3269].)
 
  __References in Text__ 
 
@@ -60,6 +60,8 @@
     In par. (2), “[section 5309 of title 49][/us/usc/t49/s5309]” substituted for “section 3 of the Federal Transit Act \[49 App. U.S.C. 1602\]” on authority of [Pub. L. 103–272, § 6(b)][/us/pl/103/272/s6/b], July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
  __Amendments__ 
+
+    2014—Par. (2). [Pub. L. 113–287][/us/pl/113/287], which directed substitution of “[section 200305(e) of title 54][/us/usc/t54/s200305/e]” for “section 5(e) of the Land And Water Conservation Fund Act of 1965”, was executed by making the substitution for “section 5(e) of the Land and Water Conservation Fund Act of 1965” to reflect the probable intent of Congress.
 
     1996—Par. (2). [Pub. L. 104–208][/us/pl/104/208] struck out “title II of the Library Services and Construction Act;” before “section 606 of the Public Health Service Act”.
 
@@ -90,7 +92,7 @@
 [/us/usc/t23/s120/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs120%2Fa
 [/us/usc/t49/s5309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5309
 [/us/usc/t42/s1500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1500
-[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
+[/us/usc/t54/s200305/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200305%2Fe
 [/us/pl/89/754/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs208
 [/us/stat/80/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1265
 [/us/pl/90/448/s602/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs602%2Fe
@@ -102,6 +104,8 @@
 [/us/stat/105/2088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2088
 [/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
+[/us/pl/113/287/s5/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fk%2F2
+[/us/stat/128/3269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3269
 [/us/usc/t42/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3102
 [/us/usc/t42/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5316
 [/us/usc/t33/s1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1158
@@ -132,6 +136,8 @@
 [/us/usc/t49/s5309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5309
 [/us/pl/103/272/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs6%2Fb
 [/us/stat/108/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1378
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/usc/t54/s200305/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200305%2Fe
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/pl/91/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258

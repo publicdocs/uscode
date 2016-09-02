@@ -459,7 +459,7 @@ Part B—Access to Federal Lands  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs15924" data-uslm-ref="/us/usc/t42/s15924">15924.</a>  </td>
 
-    <td> Pilot project to improve Federal permit coordination.  </td>
+    <td> Project to improve Federal permit coordination.  </td>
 
   </tr>
 

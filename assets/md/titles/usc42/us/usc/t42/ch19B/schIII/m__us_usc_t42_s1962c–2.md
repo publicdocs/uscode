@@ -19,7 +19,7 @@
 
     (1) provides for comprehensive planning with respect to intrastate or interstate water resources, or both, in such State to meet the needs for water and water-related activities taking into account prospective demands for all purposes served through or affected by water and related land resources development, with adequate provision for coordination with all Federal, State, and local agencies, and nongovernmental entities having responsibilities in affected fields;
 
-    (2) provides, where comprehensive statewide development planning is being carried on with or without assistance under section 701 of the Housing Act of 1954  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or under the Land and Water Conservation Fund Act of 1965 \[[16 U.S.C. 460][/us/usc/t16/s460]l–4 et seq.\], for full coordination between comprehensive water resources planning and other statewide planning programs and for assurances that such water resources planning will be in conformity with the general development policy in such State;
+    (2) provides, where comprehensive statewide development planning is being carried on with or without assistance under section 701 of the Housing Act of 1954  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or under chapter 2003 of title 54, for full coordination between comprehensive water resources planning and other statewide planning programs and for assurances that such water resources planning will be in conformity with the general development policy in such State;
 
     (3) designates a State agency (hereinafter referred to as the “State agency”) to administer the program;
 
@@ -31,13 +31,15 @@
 
     The Council shall not disapprove any program without first giving reasonable notice and opportunity for hearing to the State agency administering such program.
 
-([Pub. L. 89–80, title III, § 303][/us/pl/89/80/s303], July 22, 1965, [79 Stat. 252][/us/stat/79/252].)
+([Pub. L. 89–80, title III, § 303][/us/pl/89/80/s303], July 22, 1965, [79 Stat. 252][/us/stat/79/252]; [Pub. L. 113–287, § 5(k)(1)][/us/pl/113/287/s5/k/1], Dec. 19, 2014, [128 Stat. 3269][/us/stat/128/3269].)
 
  __References in Text__ 
 
     Section 701 of the Housing Act of 1954, referred to in par. (2), is section 701 of [act Aug. 2, 1954, ch. 649][/us/act/1954-08-02/ch649], [68 Stat. 640][/us/stat/68/640], which was classified to section 461 of former Title 40, Public Buildings, Property, and Works, and was repealed by [Pub. L. 97–35, title III, § 313(b)][/us/pl/97/35/s313/b], Aug. 13, 1981, [95 Stat. 398][/us/stat/95/398].
 
-    The Land and Water Conservation Fund Act of 1965, referred to in par. (2), is [Pub. L. 88–578][/us/pl/88/578], Sept. 3, 1964, [78 Stat. 897][/us/stat/78/897], as amended, which is classified generally to part B (§ 460l–4 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of Title 16 and Tables.
+ __Amendments__ 
+
+    2014—Par. (2). [Pub. L. 113–287][/us/pl/113/287] substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965”.
 
 ----------
 
@@ -46,14 +48,14 @@
 ----------
 ----------
 
-[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
 [/us/pl/89/80/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80%2Fs303
 [/us/stat/79/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F252
+[/us/pl/113/287/s5/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fk%2F1
+[/us/stat/128/3269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3269
 [/us/act/1954-08-02/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-02%2Fch649
 [/us/stat/68/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F640
 [/us/pl/97/35/s313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs313%2Fb
 [/us/stat/95/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F398
-[/us/pl/88/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F578
-[/us/stat/78/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F897
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 
 

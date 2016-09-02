@@ -13,11 +13,11 @@
 
 [Previous](./../../../../../..//us/usc/t42/ch149/schIII/ptB/m__us_usc_t42_s15923.md) | [Next](./../../../../../..//us/usc/t42/ch149/schIII/ptB/m__us_usc_t42_s15925.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15924)
 
-## § 15924. Pilot project to improve Federal permit coordination
+## § 15924. Project to improve Federal permit coordination
 
     (a) __Establishment__ 
 
-        The Secretary of the Interior (referred to in this section as the “Secretary”) shall establish a Federal Permit Streamlining Pilot Project (referred to in this section as the “Pilot Project”).
+        The Secretary of the Interior (referred to in this section as the “Secretary”) shall establish a Federal Permit Streamlining Project (referred to in this section as the “Project”).
 
     (b) __Memorandum of understanding__ 
 
@@ -33,7 +33,7 @@
 
         (2) __State participation__ 
 
-            The Secretary may request that the Governors of Wyoming, Montana, Colorado, Utah, and New Mexico be signatories to the memorandum of understanding.
+            The Secretary may request that the Governors of the States in which Project offices are located be signatories to the memorandum of understanding.
 
     (c) __Designation of qualified staff__ 
 
@@ -61,9 +61,9 @@
 
             (C) participate as part of the team of personnel working on proposed energy projects, planning, and environmental analyses.
 
-    (d) __Pilot Project offices__ 
+    (d) __Project offices__ 
 
-    The following Bureau of Land Management Offices shall serve as the Pilot Project offices:
+    The following Bureau of Land Management Offices shall serve as the Project offices:
 
         (1) Rawlins Field Office, Wyoming.
 
@@ -79,19 +79,21 @@
 
         (7) Vernal Field Office, Utah.
 
-    (e) __Reports__ 
+        (8) Any other State, district, or field office of the Bureau of Land Management determined by the Secretary.
 
-    Not later than 3 years after August 8, 2005, the Secretary shall submit to Congress a report that—
+    (e) __Report to Congress__ 
 
-        (1) outlines the results of the Pilot Project to date; and
+    Not later than February 1 of the first fiscal year beginning after the date of enactment of the National Defense Authorization Act for Fiscal Year 2015 and each February 1 thereafter, the Secretary shall report to the Chairman and ranking minority Member of the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives, which shall include—
 
-        (2) makes a recommendation to the President regarding whether the Pilot Project should be implemented throughout the United States.
+        (1) the allocation of funds to each Project office for the previous fiscal year; and
+
+        (2) the accomplishments of each Project office relating to the coordination and processing of oil and gas use authorizations during that fiscal year.
 
     (f) __Additional personnel__ 
 
     The Secretary shall assign to each field office identified in subsection (d) any additional personnel that are necessary to ensure the effective implementation of—
 
-        (1) the Pilot Project; and
+        (1) the Project; and
 
         (2) other programs administered by the field offices, including inspection and enforcement relating to energy development on Federal land, in accordance with the multiple use mandate of the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1701][/us/usc/t43/s1701] et seq.).
 
@@ -99,7 +101,7 @@
 
     (h) __Transfer of funds__ 
 
-    For the purposes of coordination and processing of oil and gas use authorizations on Federal land under the administration of the Pilot Project offices identified in subsection (d), the Secretary may authorize the expenditure or transfer of such funds as are necessary to—
+    For the purposes of coordination and processing of oil and gas use authorizations on Federal land under the administration of the Project offices identified in subsection (d), the Secretary may authorize the expenditure or transfer of such funds as are necessary to—
 
         (1) the United States Fish and Wildlife Service;
 
@@ -111,21 +113,17 @@
 
         (5) the Corps of Engineers; and
 
-        (6) the States of Wyoming, Montana, Colorado, Utah, and New Mexico.
+        (6) the States in which Project offices are located.
 
-    (i) __Fees__ 
-
-        During the period in which the Pilot Project is authorized, the Secretary shall not implement a rulemaking that would enable an increase in fees to recover additional costs related to processing drilling-related permit applications and use authorizations.
-
-    (j) __Savings provision__ 
+    (i) __Savings provision__ 
 
     Nothing in this section affects—
 
         (1) the operation of any Federal or State law; or
 
-        (2) any delegation of authority made by the head of a Federal agency whose employees are participating in the Pilot Project.
+        (2) any delegation of authority made by the head of a Federal agency whose employees are participating in the Project.
 
-([Pub. L. 109–58, title III, § 365][/us/pl/109/58/s365], Aug. 8, 2005, [119 Stat. 723][/us/stat/119/723]; [Pub. L. 113–69, § 1][/us/pl/113/69/s1], Dec. 26, 2013, [127 Stat. 1207][/us/stat/127/1207].)
+([Pub. L. 109–58, title III, § 365][/us/pl/109/58/s365], Aug. 8, 2005, [119 Stat. 723][/us/stat/119/723]; [Pub. L. 113–69, § 1][/us/pl/113/69/s1], Dec. 26, 2013, [127 Stat. 1207][/us/stat/127/1207]; [Pub. L. 113–291, div. B, title XXX, § 3021(a)][/us/pl/113/291/s3021/a], Dec. 19, 2014, [128 Stat. 3759][/us/stat/128/3759].)
 
  __References in Text__ 
 
@@ -135,6 +133,8 @@
 
     The National Environmental Policy Act of 1969, referred to in subsec. (c)(1)(E), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title][/us/usc/t42/s4321] and Tables.
 
+    The date of enactment of the National Defense Authorization Act for Fiscal Year 2015, referred to in subsec. (e), probably means the date of enactment of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015, [Pub. L. 113–291][/us/pl/113/291], which was approved Dec. 19, 2014.
+
     The Federal Land Policy and Management Act of 1976, referred to in subsec. (f)(2), is [Pub. L. 94–579][/us/pl/94/579], Oct. 21, 1976, [90 Stat. 2743][/us/stat/90/2743], as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43][/us/usc/t43/s1701] and Tables.
 
  __Codification__ 
@@ -142,6 +142,30 @@
     Section is comprised of [section 365 of Pub. L. 109–58][/us/pl/109/58/s365]. Subsec. (g) of [section 365 of Pub. L. 109–58][/us/pl/109/58/s365] amended [section 191 of Title 30][/us/usc/t30/s191], Mineral Lands and Mining.
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–291, § 3021(a)(1)][/us/pl/113/291/s3021/a/1], struck out “Pilot” before “Project” in section catchline.
+
+    Subsec. (a). [Pub. L. 113–291, § 3021(a)(2)][/us/pl/113/291/s3021/a/2], substituted “Project” for “Pilot Project” in two places.
+
+    Subsec. (b)(2). [Pub. L. 113–291, § 3021(a)(3)][/us/pl/113/291/s3021/a/3], substituted “the States in which Project offices are located” for “Wyoming, Montana, Colorado, Utah, and New Mexico”.
+
+    Subsec. (d). [Pub. L. 113–291, § 3021(a)(4)(A)][/us/pl/113/291/s3021/a/4/A], struck out “Pilot” before “Project” in heading.
+
+    [Pub. L. 113–291, § 3021(a)(2)][/us/pl/113/291/s3021/a/2], substituted “Project” for “Pilot Project” in introductory provisions.
+
+    Subsec. (d)(8). [Pub. L. 113–291, § 3021(a)(4)(B)][/us/pl/113/291/s3021/a/4/B], added par. (8).
+
+    Subsec. (e). [Pub. L. 113–291, § 3021(a)(5)][/us/pl/113/291/s3021/a/5], added subsec. (e) and struck out former subsec. (e) which required the Secretary to submit to Congress a report about the Pilot Project not later than 3 years after Aug. 8, 2005.
+
+    Subsecs. (e)(1), (2), (f)(1), (h). [Pub. L. 113–291, § 3021(a)(2)][/us/pl/113/291/s3021/a/2], substituted “Project” for “Pilot Project”.
+
+    Subsec. (h)(6). [Pub. L. 113–291, § 3021(a)(6)][/us/pl/113/291/s3021/a/6], added par. (6) and struck out former par. (6) which read as follows: “the States of Wyoming, Montana, Colorado, Utah, and New Mexico.”
+
+    Subsec. (i). [Pub. L. 113–291, § 3021(a)(7)][/us/pl/113/291/s3021/a/7], (8), redesignated subsec. (j) as (i) and struck out former subsec. (i) which read as follows: “During the period in which the Pilot Project is authorized, the Secretary shall not implement a rulemaking that would enable an increase in fees to recover additional costs related to processing drilling-related permit applications and use authorizations.”
+
+    [Pub. L. 113–291, § 3021(a)(2)][/us/pl/113/291/s3021/a/2], substituted “Project” for “Pilot Project”.
+
+    Subsec. (j)(2). [Pub. L. 113–291, § 3021(a)(2)][/us/pl/113/291/s3021/a/2], substituted “Project” for “Pilot Project”.
 
     2013—Subsec. (d). [Pub. L. 113–69][/us/pl/113/69] added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The following Bureau of Land Management Field Offices shall serve as the Pilot Project offices:
 
@@ -176,6 +200,8 @@
 [/us/stat/119/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F723
 [/us/pl/113/69/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F69%2Fs1
 [/us/stat/127/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1207
+[/us/pl/113/291/s3021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fa
+[/us/stat/128/3759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3759
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
@@ -185,12 +211,25 @@
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
 [/us/pl/109/58/s365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs365
 [/us/pl/109/58/s365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs365
 [/us/usc/t30/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs191
+[/us/pl/113/291/s3021/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fa%2F1
+[/us/pl/113/291/s3021/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fa%2F2
+[/us/pl/113/291/s3021/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fa%2F3
+[/us/pl/113/291/s3021/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fa%2F4%2FA
+[/us/pl/113/291/s3021/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fa%2F2
+[/us/pl/113/291/s3021/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fa%2F4%2FB
+[/us/pl/113/291/s3021/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fa%2F5
+[/us/pl/113/291/s3021/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fa%2F2
+[/us/pl/113/291/s3021/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fa%2F6
+[/us/pl/113/291/s3021/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fa%2F7
+[/us/pl/113/291/s3021/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fa%2F2
+[/us/pl/113/291/s3021/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3021%2Fa%2F2
 [/us/pl/113/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F69
 
 

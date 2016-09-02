@@ -31,7 +31,7 @@
 
     Section 16377, [Pub. L. 109–58, title IX, § 999G][/us/pl/109/58/s999G], Aug. 8, 2005, [119 Stat. 923][/us/stat/119/923], defined terms for this part.
 
-    Section 16378, [Pub. L. 109–58, title IX, § 999H][/us/pl/109/58/s999H], Aug. 8, 2005, [119 Stat. 924][/us/stat/119/924], related to the Ultra-Deepwater and Unconventional Natural Gas and Other Petroleum Research Fund.
+    Section 16378, [Pub. L. 109–58, title IX, § 999H][/us/pl/109/58/s999H], Aug. 8, 2005, [119 Stat. 924][/us/stat/119/924]; [Pub. L. 113–287, § 5(k)(6)][/us/pl/113/287/s5/k/6], Dec. 19, 2014, [128 Stat. 3270][/us/stat/128/3270], related to the Ultra-Deepwater and Unconventional Natural Gas and Other Petroleum Research Fund.
 
  __Ex. Ord. No. 13605. Supporting Safe and Responsible Development of Unconventional Domestic Natural Gas Resources__ 
 
@@ -128,5 +128,7 @@
 [/us/stat/119/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F923
 [/us/pl/109/58/s999H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs999H
 [/us/stat/119/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F924
+[/us/pl/113/287/s5/k/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fk%2F6
+[/us/stat/128/3270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3270
 
 

@@ -125,7 +125,7 @@
 
 [Pub. L. 109–58, title IX, § 901][/us/pl/109/58/s901], Aug. 8, 2005, [119 Stat. 856][/us/stat/119/856], provided that: 
 
-> “This title \[enacting subchapter IX of this chapter, amending sections 8101 and 8102 of Title 7, Agriculture, and [section 5523 of Title 15][/us/usc/t15/s5523], Commerce and Trade, enacting provisions set out as notes under [section 8102 of Title 7][/us/usc/t7/s8102] and [section 2001 of Title 30][/us/usc/t30/s2001], Mineral Lands and Mining, amending provisions set out as notes under [section 8101 of Title 7][/us/usc/t7/s8101], and [section 1902 of Title 30][/us/usc/t30/s1902] may be cited as the ‘Energy Research, Development, Demonstration, and Commercial Application Act of 2005’.”
+> “This title \[enacting subchapter IX of this chapter, amending sections 8101 and 8102 of Title 7, Agriculture, and [section 5523 of Title 15][/us/usc/t15/s5523], Commerce and Trade, enacting provisions set out as notes under [section 8102 of Title 7][/us/usc/t7/s8102] and [section 2001 of Title 30][/us/usc/t30/s2001], Mineral Lands and Mining, amending provisions set out as notes under [section 8101 of Title 7][/us/usc/t7/s8101], and [section 1902 of Title 30][/us/usc/t30/s1902]\] may be cited as the ‘Energy Research, Development, Demonstration, and Commercial Application Act of 2005’.”
 
 [Pub. L. 109–58, title XII, § 1201][/us/pl/109/58/s1201], Aug. 8, 2005, [119 Stat. 941][/us/stat/119/941], provided that: 
 

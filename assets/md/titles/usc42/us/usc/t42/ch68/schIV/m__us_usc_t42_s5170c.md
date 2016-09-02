@@ -93,9 +93,9 @@
 
         For the purpose of providing assistance under this section, the President shall ensure that—
 
-            (A) adequate resources are devoted to ensure that applicable environmental reviews under the National Environmental Policy Act of 1969 \[[42 U.S.C. 4321][/us/usc/t42/s4321] et seq.\] and historic preservation reviews under the National Historic Preservation Act \[[16 U.S.C. 470][/us/usc/t16/s470] et seq.\] are completed on an expeditious basis; and
+            (A) adequate resources are devoted to ensure that applicable environmental reviews under the National Environmental Policy Act of 1969 \[[42 U.S.C. 4321][/us/usc/t42/s4321] et seq.\] and historic preservation reviews under the National Historic Preservation Act  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  are completed on an expeditious basis; and
 
-            (B) the shortest existing applicable process under the National Environmental Policy Act of 1969 \[[42 U.S.C. 4321][/us/usc/t42/s4321] et seq.\] and the National Historic Preservation Act \[[16 U.S.C. 470][/us/usc/t16/s470] et seq.\] is utilized.
+            (B) the shortest existing applicable process under the National Environmental Policy Act of 1969 \[[42 U.S.C. 4321][/us/usc/t42/s4321] et seq.\] and the National Historic Preservation Act 1 is utilized.
 
         (2) __Authority for other expedited procedures__ 
 
@@ -113,7 +113,7 @@
 
     The National Environmental Policy Act of 1969, referred to in subsec. (d)(1), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title][/us/usc/t42/s4321] and Tables.
 
-    The National Historic Preservation Act, referred to in subsec. (d)(1), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], which is classified generally to subchapter II (§ 470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see [section 470(a) of Title 16][/us/usc/t16/s470/a] and Tables.
+    The National Historic Preservation Act, referred to in subsec. (d)(1), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], which was classified generally to subchapter II (§ 470 et seq.) of chapter 1A of Title 16, Conservation, prior to the enactment of Title 54, National Park Service and Related Programs. See [54 U.S.C. 300101][/us/usc/t54/s300101] et seq.
 
  __Prior Provisions__ 
 
@@ -170,9 +170,7 @@
 [/us/usc/t42/s5165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5165
 [/us/usc/t42/s5165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5165
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/usc/t16/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/usc/t16/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470
 [/us/pl/93/288/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs404
 [/us/pl/100/707/s106/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs106%2Fa%2F3
 [/us/stat/102/4698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4698
@@ -196,7 +194,7 @@
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/pl/89/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665
 [/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
-[/us/usc/t16/s470/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470%2Fa
+[/us/usc/t54/s300101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs300101
 [/us/pl/93/288/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs404
 [/us/usc/t42/s5174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5174
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
