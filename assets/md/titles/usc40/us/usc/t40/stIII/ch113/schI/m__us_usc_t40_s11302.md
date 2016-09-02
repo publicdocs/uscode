@@ -33,7 +33,7 @@
 
             (B) The term “major information technology investment” means an investment within a covered agency information technology investment portfolio that is designated by the covered agency as major, in accordance with capital planning guidance issued by the Director.
 
-            (C) The term “national security system” has the meaning provided in [section 3542 of title 44][/us/usc/t44/s3542].  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
+            (C) The term “national security system” has the meaning provided in [section 3542 of title 44][/us/usc/t44/s3542]. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
         (2)  __Analyzing, tracking, and evaluating capital investments__  __.—__ 
 

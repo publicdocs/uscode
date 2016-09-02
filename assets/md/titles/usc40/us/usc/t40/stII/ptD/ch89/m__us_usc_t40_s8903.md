@@ -339,7 +339,7 @@ Martin Luther King, Jr., Memorial.—Pub. L. 104–333, div. I, title V, § 50
 
     <td> 
 
-National Desert Storm and Desert Shield Memorial.—Pub. L. 113–291, div. B, title XXX, § 3093(a), Dec. 19, 2014, 128 Stat. 3879.  </td>
+National Desert Storm and Desert Shield Memorial.—Pub. L. 113–291, div. B, title XXX, § 3093, Dec. 19, 2014, 128 Stat. 3879.  </td>
 
   </tr>
 
@@ -355,7 +355,7 @@ National Peace Garden.—Pub. L. 100–63, June 30, 1987, 101 Stat. 379; Pub. L.
 
     <td> 
 
-Peace Corps Memorial.—Pub. L. 113–78, Jan. 24, 2014, 128 Stat. 647.  </td>
+Peace Corps Memorial.—Pub. L. 113–78, § 1, Jan. 24, 2014, 128 Stat. 647.  </td>
 
   </tr>
 

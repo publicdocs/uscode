@@ -65,7 +65,7 @@
 
         Except as otherwise provided in this subsection, the Secretary of the Interior or Administrator of General Services, as applicable, may permit a sponsor to acknowledge donor contributions at the commemorative work.
 
-        (2) __Requirements.—__ 
+        (2)  __Requirements__  __.—__ 
 
         An acknowledgment under paragraph (1) shall—
 
@@ -171,7 +171,7 @@ Pub. L. 99–652, § 7, Nov. 14, 1986, 100 Stat. 3652; Pub. L. 103–321, §�
 
  __Amendments__ 
 
-    2014—Subsec. (b)(7). [Pub. L. 113–291, § 3054(c)(1)][/us/pl/113/291/s3054/c/1], struck out par. (7) which read as follows: “Donor contributions to commemorative works shall not be acknowledged in any manner as part of the commemorative work or its site.”
+    2014—Subsec. (b)(7). [Pub. L. 113–291, § 3054(c)(1)][/us/pl/113/291/s3054/c/1], struck out par. (7). Text read as follows: “Donor contributions to commemorative works shall not be acknowledged in any manner as part of the commemorative work or its site.”
 
     Subsec. (c). [Pub. L. 113–291, § 3054(c)(2)][/us/pl/113/291/s3054/c/2], added subsec. (c).
 

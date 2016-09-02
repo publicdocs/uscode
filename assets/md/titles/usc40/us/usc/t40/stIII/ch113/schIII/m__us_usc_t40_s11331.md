@@ -111,7 +111,7 @@ Pub. L. 104–106, div. E, title LI, § 5131(a)–(d), Feb. 10, 1996, 110 Stat
 
  __References in Text__ 
 
-    Sections 3532 and 3533 of title 44, referred to in subsecs. (a), (b)(2), and (c)(2) were repealed by [Pub. L. 113–283, § 2(a)][/us/pl/113/283/s2/a], Dec. 18, 2014, [128 Stat. 3073][/us/stat/128/3073]. Provisions similar to sections 3532 and 3533 of title 44 are now contained in sections 3552 and 3553, respectively, of title 44, as enacted by [Pub. L. 113–283][/us/pl/113/283].
+    Sections 3532 and 3533 of title 44, referred to in subsecs. (a), (b)(2), and (c)(2), were repealed by [Pub. L. 113–283, § 2(a)][/us/pl/113/283/s2/a], Dec. 18, 2014, [128 Stat. 3073][/us/stat/128/3073]. Provisions similar to sections 3532 and 3533 of title 44 are now contained in sections 3552 and 3553, respectively, of title 44, as enacted by [Pub. L. 113–283][/us/pl/113/283].
 
  __Amendments__ 
 
