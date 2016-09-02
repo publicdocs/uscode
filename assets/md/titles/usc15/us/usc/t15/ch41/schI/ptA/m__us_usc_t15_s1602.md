@@ -17,7 +17,7 @@
 
     (a) The definitions and rules of construction set forth in this section are applicable for the purposes of this subchapter.
 
-    (b) __Bureau.—__ 
+    (b)  __Bureau__  __.—__ 
 
     The term “Bureau” means the Bureau of Consumer Financial Protection.
 
@@ -75,7 +75,7 @@
 
         (1) __Definition.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The term “high-cost mortgage”, and a mortgage referred to in this subsection, means a consumer credit transaction that is secured by the consumer’s principal dwelling, other than a reverse mortgage transaction, if—
 
@@ -97,7 +97,7 @@
 
                 (iii) the credit transaction documents permit the creditor to charge or collect prepayment fees or penalties more than 36 months after the transaction closing or such fees or penalties exceed, in the aggregate, more than 2 percent of the amount prepaid.
 
-            (B) __Introductory rates taken into account.—__ 
+            (B)  __Introductory rates taken into account__  __.—__ 
 
             For purposes of subparagraph (A)(i), the annual percentage rate of interest shall be determined based on the following interest rate:
 
@@ -107,7 +107,7 @@
 
                 (iii) In the case of any other transaction in which the rate may vary at any time during the term of the loan for any reason, the interest charged on the transaction at the maximum rate that may be charged during the term of the loan.
 
-            (C) __Mortgage insurance.—__ 
+            (C)  __Mortgage insurance__  __.—__ 
 
             For the purposes of computing the total points and fees under paragraph (4), the total points and fees shall exclude—
 
@@ -165,7 +165,7 @@
 
             (G) such other charges as the Bureau determines to be appropriate.
 
-        (5) __Calculation of points and fees for open-end consumer credit plans.—__ 
+        (5)  __Calculation of points and fees for open-end consumer credit plans__  __.—__ 
 
         In the case of open-end consumer credit plans, points and fees shall be calculated, for purposes of this section and [section 1639 of this title][/us/usc/t15/s1639], by adding the total points and fees known at or before closing, including the maximum prepayment penalties which may be charged or collected under the terms of the credit transaction, plus the minimum additional fees the consumer would be required to pay to draw down an amount equal to the total credit line.
 
@@ -189,11 +189,11 @@
 
     (cc)  __1__  __Definitions Relating to Mortgage Origination and Residential Mortgage Loans.—__ 
 
-        (1) __Commission.—__ 
+        (1)  __Commission__  __.—__ 
 
         Unless otherwise specified, the term “Commission” means the Federal Trade Commission.
 
-        (2) __Mortgage originator.—__ 
+        (2)  __Mortgage originator__  __.—__ 
 
         The term “mortgage originator”—
 
@@ -303,7 +303,7 @@
 
     [Pub. L. 111–203, § 1100(A)(1)][/us/pl/111/203/s1100/A/1], redesignated subsec. (aa) as (bb). Former subsec. (bb) redesignated (cc).
 
-    Subsec. (bb)(2)(B). [Pub. L. 111–203, § 1431(b)][/us/pl/111/203/s1431/b], which directed amendment of subsec. (aa)(2) by adding subpar. (B) and striking out former subpar. (B), was executed by making the amendment to subsec. (bb)(2) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by [Pub. L. 111–203, § 1100(A)(1)][/us/pl/111/203/s1100/A/1]. See above. Text of former subpar. (B) read as follows: which read as follows: “An increase or decrease under subparagraph (A) may not result in the number of percentage points referred to in subparagraph (A) being—
+    Subsec. (bb)(2)(B). [Pub. L. 111–203, § 1431(b)][/us/pl/111/203/s1431/b], which directed amendment of subsec. (aa)(2) by adding subpar. (B) and striking out former subpar. (B), was executed by making the amendment to subsec. (bb)(2) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by [Pub. L. 111–203, § 1100(A)(1)][/us/pl/111/203/s1100/A/1]. See above. Text of former subpar. (B) read as follows: “An increase or decrease under subparagraph (A) may not result in the number of percentage points referred to in subparagraph (A) being—
 
     “(i) less that 8 percentage points; or
 

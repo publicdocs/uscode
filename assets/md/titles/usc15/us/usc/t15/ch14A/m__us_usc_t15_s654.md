@@ -193,7 +193,7 @@
 
 [Pub. L. 105–277, div. C, title IX, § 902][/us/pl/105/277/s902], Oct. 21, 1998, [112 Stat. 2681–707][/us/stat/112/2681-707], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -217,7 +217,7 @@
 
 >             “(E) employee turnover is significantly higher among drug users than among individuals who do not use drugs.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this title \[see Short Title of 1998 Amendment note set out under [section 631 of this title][/us/usc/t15/s631]\] are to—
 

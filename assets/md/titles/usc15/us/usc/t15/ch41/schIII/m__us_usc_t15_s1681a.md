@@ -23,7 +23,7 @@
 
     (d) __Consumer Report.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The term “consumer report” means any written, oral, or other communication of any information by a consumer reporting agency bearing on a consumer’s credit worthiness, credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living which is used or expected to be used or collected in whole or in part for the purpose of serving as a factor in establishing the consumer’s eligibility for—
 
@@ -33,7 +33,7 @@
 
             (C) any other purpose authorized under [section 1681b of this title][/us/usc/t15/s1681b].
 
-        (2) __Exclusions.—__ 
+        (2)  __Exclusions__  __.—__ 
 
         Except as provided in paragraph (3), the term “consumer report” does not include—
 
@@ -53,7 +53,7 @@
 
             (D) a communication described in subsection (o) or (x)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this section.
 
-        (3) __Restriction on sharing of medical information.—__ 
+        (3) __ Restriction on sharing of medical information__  __.—__ 
 
         Except for information or any communication of information disclosed as provided in [section 1681b(g)(3) of this title][/us/usc/t15/s1681b/g/3], the exclusions in paragraph (2) shall not apply with respect to information disclosed to any person related by common ownership or affiliated by corporate control, if the information is—
 
@@ -71,7 +71,7 @@
 
     (h) The term “employment purposes” when used in connection with a consumer report means a report used for the purpose of evaluating a consumer for employment, promotion, reassignment or retention as an employee.
 
-    (i) __Medical Information.—__ 
+    (i)  __Medical Information__  __.—__ 
 
     The term “medical information”—
 
@@ -89,17 +89,17 @@
 
     (j) __Definitions Relating to Child Support Obligations.—__ 
 
-        (1) __Overdue support.—__ 
+        (1)  __Overdue support__  __.—__ 
 
         The term “overdue support” has the meaning given to such term in [section 666(e) of title 42][/us/usc/t42/s666/e].
 
-        (2) __State or local child support enforcement agency.—__ 
+        (2)  __State or local child support enforcement agency__  __.—__ 
 
         The term “State or local child support enforcement agency” means a State or local agency which administers a State or local program for establishing and enforcing child support obligations.
 
     (k) __Adverse Action.—__ 
 
-        (1) __Actions included.—__ 
+        (1)  __Actions included__  __.—__ 
 
         The term “adverse action”—
 
@@ -123,11 +123,11 @@
 
                     (II) adverse to the interests of the consumer.
 
-        (2) __Applicable findings, decisions, commentary, and orders.—__ 
+        (2)  __Applicable findings, decisions, commentary, and orders__  __.—__ 
 
         For purposes of any determination of whether an action is an adverse action under paragraph (1)(A), all appropriate final findings, decisions, commentary, and orders issued under [section 1691(d)(6) of this title][/us/usc/t15/s1691/d/6] by the Bureau or any court shall apply.
 
-    (l) __Firm Offer of Credit or Insurance.—__ 
+    (l)  __Firm Offer of Credit or Insurance__  __.—__ 
 
     The term “firm offer of credit or insurance” means any offer of credit or insurance to a consumer that will be honored if the consumer is determined, based on information in a consumer report on the consumer, to meet the specific criteria used to select the consumer for the offer, except that the offer may be further conditioned on one or more of the following:
 
@@ -155,7 +155,7 @@
 
             (B) disclosed to the consumer in the offer of credit or insurance.
 
-    (m) __Credit or Insurance Transaction That Is Not Initiated by the Consumer.—__ 
+    (m)  __Credit or Insurance Transaction That Is Not Initiated by the Consumer__  __.—__ 
 
     The term “credit or insurance transaction that is not initiated by the consumer” does not include the use of a consumer report by a person with which the consumer has an account or insurance policy, for purposes of—
 
@@ -163,11 +163,11 @@
 
         (2) collecting the account.
 
-    (n) __State.—__ 
+    (n)  __State__  __.—__ 
 
     The term “State” means any State, the Commonwealth of Puerto Rico, the District of Columbia, and any territory or possession of the United States.
 
-    (o) __Excluded Communications.—__ 
+    (o)  __Excluded Communications__  __.—__ 
 
     A communication is described in this subsection if it is a communication—
 
@@ -209,7 +209,7 @@
 
                 (ii) notifies the consumer who is the subject of the communication, in writing, of the consumer’s right to request the information described in clause (i).
 
-    (p) __Consumer Reporting Agency That Compiles and Maintains Files on Consumers on a Nationwide Basis.—__ 
+    (p)  __Consumer Reporting Agency That Compiles and Maintains Files on Consumers on a Nationwide Basis__  __.—__ 
 
     The term “consumer reporting agency that compiles and maintains files on consumers on a nationwide basis” means a consumer reporting agency that regularly engages in the practice of assembling or evaluating, and maintaining, for the purpose of furnishing consumer reports to third parties bearing on a consumer’s credit worthiness, credit standing, or credit capacity, each of the following regarding consumers residing nationwide:
 
@@ -219,7 +219,7 @@
 
     (q) __Definitions Relating to Fraud Alerts.—__ 
 
-        (1) __Active duty military consumer.—__ 
+        (1)  __Active duty military consumer__  __.—__ 
 
         The term “active duty military consumer” means a consumer in military service who—
 
@@ -227,7 +227,7 @@
 
             (B) is assigned to service away from the usual duty station of the consumer.
 
-        (2) __Fraud alert; active duty alert.—__ 
+        (2)  __Fraud alert; active duty alert__  __.—__ 
 
         The terms “fraud alert” and “active duty alert” mean a statement in the file of a consumer that—
 
@@ -235,11 +235,11 @@
 
             (B) is presented in a manner that facilitates a clear and conspicuous view of the statement described in subparagraph (A) by any person requesting such consumer report.
 
-        (3) __Identity theft.—__ 
+        (3)  __Identity theft__  __.—__ 
 
         The term “identity theft” means a fraud committed using the identifying information of another person, subject to such further definition as the Bureau may prescribe, by regulation.
 
-        (4) __Identity theft report.—__ 
+        (4)  __Identity theft report__  __.—__ 
 
         The term “identity theft report” has the meaning given that term by rule of the Bureau, and means, at a minimum, a report—
 
@@ -249,13 +249,13 @@
 
             (C) the filing of which subjects the person filing the report to criminal penalties relating to the filing of false information if, in fact, the information in the report is false.
 
-        (5) __New credit plan.—__ 
+        (5)  __New credit plan__  __.—__ 
 
         The term “new credit plan” means a new account under an open end credit plan (as defined in section 1602(i) 1 of this title) or a new credit transaction not under an open end credit plan.
 
     (r) __Credit and Debit Related Terms—__ 
 
-        (1) __Card issuer.—__ 
+        (1)  __Card issuer__  __.—__ 
 
         The term “card issuer” means—
 
@@ -263,31 +263,31 @@
 
             (B) a debit card issuer, in the case of a debit card.
 
-        (2) __Credit card.—__ 
+        (2)  __Credit card__  __.—__ 
 
         The term “credit card” has the same meaning as in [section 1602 of this title][/us/usc/t15/s1602].
 
-        (3) __Debit card.—__ 
+        (3)  __Debit card__  __.—__ 
 
         The term “debit card” means any card issued by a financial institution to a consumer for use in initiating an electronic fund transfer from the account of the consumer at such financial institution, for the purpose of transferring money between accounts or obtaining money, property, labor, or services.
 
-        (4) __Account and electronic fund transfer.—__ 
+        (4)  __Account and electronic fund transfer__  __.—__ 
 
         The terms “account” and “electronic fund transfer” have the same meanings as in [section 1693a of this title][/us/usc/t15/s1693a].
 
-        (5) __Credit and creditor.—__ 
+        (5)  __Credit and creditor__  __.—__ 
 
         The terms “credit” and “creditor” have the same meanings as in [section 1691a of this title][/us/usc/t15/s1691a].
 
-    (s) __Federal Banking Agency.—__ 
+    (s)  __Federal Banking Agency__  __.—__ 
 
     The term “Federal banking agency” has the same meaning as in [section 1813 of title 12][/us/usc/t12/s1813].
 
-    (t) __Financial Institution.—__ 
+    (t)  __Financial Institution__  __.—__ 
 
     The term “financial institution” means a State or National bank, a State or Federal savings and loan association, a mutual savings bank, a State or Federal credit union, or any other person that, directly or indirectly, holds a transaction account (as defined in [section 461(b) of title 12][/us/usc/t12/s461/b]) belonging to a consumer.
 
-    (u) __Reseller.—__ 
+    (u)  __Reseller__  __.—__ 
 
     The term “reseller” means a consumer reporting agency that—
 
@@ -295,13 +295,13 @@
 
         (2) does not maintain a database of the assembled or merged information from which new consumer reports are produced.
 
-    (v) __Commission.—__ 
+    (v)  __Commission__  __.—__ 
 
     The term “Commission” means the Bureau. <sup>\[3\]</sup>  <sup><sup> 3 So in original. </sup></sup> 
 
     (w) The term “Bureau” means the Bureau of Consumer Financial Protection.
 
-    (x) __Nationwide Specialty Consumer Reporting Agency.—__ 
+    (x)  __Nationwide Specialty Consumer Reporting Agency__  __.—__ 
 
     The term “nationwide specialty consumer reporting agency” means a consumer reporting agency that compiles and maintains files on consumers on a nationwide basis relating to—
 
@@ -317,7 +317,7 @@
 
     (y) __Exclusion of Certain Communications for Employee Investigations.—__ 
 
-        (1) __Communications described in this subsection.—__ 
+        (1)  __Communications described in this subsection__  __.—__ 
 
         A communication is described in this subsection if—
 
@@ -347,11 +347,11 @@
 
                 (v) pursuant to [section 1681f of this title][/us/usc/t15/s1681f].
 
-        (2) __Subsequent disclosure.—__ 
+        (2)  __Subsequent disclosure__  __.—__ 
 
         After taking any adverse action based in whole or in part on a communication described in paragraph (1), the employer shall disclose to the consumer a summary containing the nature and substance of the communication upon which the adverse action is based, except that the sources of information acquired solely for use in preparing what would be but for subsection (d)(2)(D) of this section an investigative consumer report need not be disclosed.
 
-        (3) __Self-regulatory organization defined.—__ 
+        (3)  __Self-regulatory organization defined__  __.—__ 
 
         For purposes of this subsection, the term “self-regulatory organization” includes any self-regulatory organization (as defined in [section 78c(a)(26) of this title][/us/usc/t15/s78c/a/26]), any entity established under title I of the Sarbanes-Oxley Act of 2002 \[[15 U.S.C. 7211][/us/usc/t15/s7211] et seq.\], any board of trade designated by the Commodity Futures Trading Commission, and any futures association registered with such Commission.
 
@@ -437,11 +437,11 @@
 
 [Pub. L. 104–208, div. A, title II, § 2420][/us/pl/104/208/s2420], Sept. 30, 1996, [110 Stat. 3009–454][/us/stat/110/3009-454], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise specifically provided in this chapter \[chapter 1 (§§ 2401–2422) of subtitle D of title II of div. A of [Pub. L. 104–208][/us/pl/104/208], see Short Title of 1996 Amendment note set out under [section 1601 of this title][/us/usc/t15/s1601]\], the amendments made by this chapter shall become effective 365 days after the date of enactment of this Act \[Sept. 30, 1996\].
 
->     “(b) __Early Compliance.—__ 
+>     “(b)  __Early Compliance__  __.—__ 
 
 >     Any person or other entity that is subject to the requirements of this chapter may, at its option, comply with any provision of this chapter before the date on which that provision becomes effective under this chapter, in which case, each of the corresponding provisions of this chapter shall be fully applicable to such person or entity.”
 

@@ -53,7 +53,7 @@
 
             (D) be ineligible for participation in any program or activity conducted under the authority of this chapter or the Small Business Investment Act of 1958 ([15 U.S.C. 661][/us/usc/t15/s661] et seq.) for a period not to exceed 3 years.
 
-        (3) __Limitation on liability.—__ 
+        (3)  __Limitation on liability__  __.—__ 
 
         This subsection shall not apply to any conduct in violation of subsection (a) if the defendant acted in good faith reliance on a written advisory opinion from a Small Business Development Center (as defined in this chapter), or an entity participating in the Procurement Technical Assistance Cooperative Agreement Program defined in chapter 142 of title 10; however nothing in this chapter shall obligate either entity to provide such a letter nor shall the provision of such a letter in any way render the providing entity liable to the business concern should the Administrator later determine that the concern is not a small business concern. Upon issuance of an advisory opinion under this paragraph, the entity issuing the advisory opinion shall remit a copy of the opinion to the General Counsel of the Administration, who may reject the advisory opinion. If the General Counsel of the Administration rejects the advisory opinion, the Administration shall notify the entity issuing the advisory opinion and the recipient of the opinion, after which time the business concern may not rely upon the opinion.
 

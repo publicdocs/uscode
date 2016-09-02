@@ -233,7 +233,7 @@
 
 [Pub. L. 100–656, title VIII, § 803][/us/pl/100/656/s803], Nov. 15, 1988, [102 Stat. 3899][/us/stat/102/3899], as amended by [Pub. L. 101–37, § 31][/us/pl/101/37/s31], June 15, 1989, [103 Stat. 76][/us/stat/103/76], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided, the following provisions (and the amendments made by such provisions) shall take effect on the date of the enactment of this Act \[Nov. 15, 1988\]:
 
@@ -255,7 +255,7 @@
 
 >         “(9) Sections 7(j)(13)(G) and 7(j)(13)(I) of the Small Business Act \[section 636(j)(13)(G), (I) of this title\] (as added by section 301(b)).
 
->     “(b) __Special Rules.—__ 
+>     “(b)  __Special Rules__  __.—__ 
 
 >         (1)
 
@@ -589,11 +589,11 @@
 
 [Pub. L. 105–135, title IV, § 417][/us/pl/105/135/s417], Dec. 2, 1997, [111 Stat. 2620][/us/stat/111/2620], provided that:
 
->     “(a) __Proposed Regulations.—__ 
+>     “(a)  __Proposed Regulations__  __.—__ 
 
 >     Proposed amendments to the Federal Acquisition Regulation or proposed Small Business Administration regulations under this subtitle \[subtitle B (§§ 411–417) of title IV of [Pub. L. 105–135][/us/pl/105/135], amending this section and sections 632, 637 and 644 of this title and enacting provisions set out as notes under [section 637 of this title][/us/usc/t15/s637] and [section 405 of Title 41][/us/usc/t41/s405], Public Contracts\] and the amendments made by this subtitle shall be published not later than 120 days after the date of enactment of this Act \[Dec. 2, 1997\] for the purpose of obtaining public comment pursuant to section 22 of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 418b][/us/usc/t41/s418b]) \[now [41 U.S.C. 1707][/us/usc/t41/s1707]\], or chapter 5 of title 5, United States Code, as appropriate. The public shall be afforded not less than 60 days to submit comments.
 
->     “(b) __Final Regulations.—__ 
+>     “(b)  __Final Regulations__  __.—__ 
 
 >     Final regulations shall be published not later than 270 days after the date of enactment of this Act. The effective date for such final regulations shall be not less than 30 days after the date of publication.”
 
@@ -647,7 +647,7 @@
 
 >     “(b) There are authorized to be appropriated to the Administration for fiscal year 1991 such sums as may be necessary to carry out the provisions of this Act \[this chapter\] and the Small Business Investment Act of 1958 \[chapter 14B of this title\]. There also are hereby authorized to be appropriated such sums as may be necessary and appropriate for the carrying out of the provisions and purposes, including administrative expenses, of sections 7(b)(1) and 7(b)(2) of this Act \[section 636(b)(1), (2) of this title\]; and there are authorized to be transferred from the disaster loan revolving fund such sums as may be necessary and appropriate for such administrative expenses.
 
->     “(c) __Disaster Mitigation Pilot Program.—__ 
+>     “(c)  __Disaster Mitigation Pilot Program__  __.—__ 
 
 >     The following program levels are authorized for loans under section 7(b)(1)(C) \[[section 636(b)(1)(C) of this title][/us/usc/t15/s636/b/1/C]\]:
 
@@ -655,9 +655,9 @@
 
 >         “(2) $15,000,000 for fiscal year 2006.
 
->     “(d) __Fiscal Year 2005.—__ 
+>     “(d)  __Fiscal Year__  __2005.—__ 
 
->         “(1) __Program levels.—__ 
+>         “(1)  __Program levels__  __.—__ 
 
 >         The following program levels are authorized for fiscal year 2005:
 
@@ -705,9 +705,9 @@
 
 >                 “(ii) the Administration may not approve loans on its own behalf or on behalf of any other Federal department or agency, by contract or otherwise, under terms and conditions other than those specifically authorized under this Act or the Small Business Investment Act of 1958, except that it may approve loans under section 7(a)(21) of this Act in gross amounts of not more than $2,000,000.
 
->     “(e) __Fiscal Year 2006.—__ 
+>     “(e)  __Fiscal Year__  __2006.—__ 
 
->         “(1) __Program levels.—__ 
+>         “(1)  __Program levels__  __.—__ 
 
 >         The following program levels are authorized for fiscal year 2006:
 
@@ -757,7 +757,7 @@
 
 >     “\[(f) to (i) Repealed. [Pub. L. 108–447, div. K, title I, § 121(2)][/us/pl/108/447/s121/2], Dec. 8, 2004, [118 Stat. 3446][/us/stat/118/3446].\]
 
->     “(j) __Fiscal Year 2004 Purchase and Guarantee Authority Under Title III of Small Business Investment Act of 1958.—__ 
+>     “(j)  __Fiscal Year__  __2004__  __Purchase and Guarantee Authority Under Title III of Small Business Investment Act of__  __1958.—__ 
 
 >     For fiscal year 2004, for the programs authorized by title III of the Small Business Investment Act of 1958 ([15 U.S.C. 681][/us/usc/t15/s681] et seq.), the Administration is authorized to make—
 
@@ -769,11 +769,11 @@
 
 [Pub. L. 112–239, div. A, title XVI, § 1622(a)][/us/pl/112/239/s1622/a], (b), Jan. 2, 2013, [126 Stat. 2069][/us/stat/126/2069], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this part \[Jan. 2, 2013\], the Defense Acquisition University and the Federal Acquisition Institute shall each provide a course on contracting requirements under the Small Business Act \[[15 U.S.C. 631][/us/usc/t15/s631] et seq.\], including the requirements for small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women.
 
->     “(b) __Course Required.—__ 
+>     “(b)  __Course Required__  __.—__ 
 
 >     To have a Federal Acquisition Certification in Contracting (or any successor certification) or the equivalent Department of Defense certification an individual shall be required to complete the course established under subsection (a).”
 
@@ -781,9 +781,9 @@
 
 [Pub. L. 112–239, div. A, title XVI, § 1633(b)][/us/pl/112/239/s1633/b], (c), Jan. 2, 2013, [126 Stat. 2076][/us/stat/126/2076], provided that:
 
->     “(b) __Responsibility for Achieving Small Business Goals.—__ 
+>     “(b)  __Responsibility for Achieving Small Business Goals__  __.—__ 
 
->     The head of an agency shall take steps to ensure that members of the senior executive service, as defined under [section 3396(a) of title 5][/us/usc/t5/s3396/a], United States Code, responsible for acquisition, other senior officials responsible for acquisition, and other members of the senior executive service, as appropriate, assume responsibility for of the agency’s success in achieving small business contracting goals and percentages by—
+>     The head of an agency shall take steps to ensure that members of the senior executive service, as defined under [section 3396(a) of title 5][/us/usc/t5/s3396/a], United States Code, responsible for acquisition, other senior officials responsible for acquisition, and other members of the senior executive service, as appropriate, assume responsibility for of \[sic\] the agency’s success in achieving small business contracting goals and percentages by—
 
 >         “(1) promoting a climate or environment that is responsive to small business concerns;
 
@@ -791,25 +791,17 @@
 
 >         “(3) encouraging small business awareness, outreach, and support.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section \[enacting this note and provisions set out as a note under [section 3396 of Title 5][/us/usc/t5/s3396], Government Organization and Employees\] the term ‘responsible for acquisition’, with respect to a member of the senior executive service or other senior official, means such a member or official who acquires services or supplies, directs agency organizations to acquire services or supplies, oversees acquisition officials, including program managers, contracting officers, and other acquisition workforce personnel responsible for formulating and approving acquisition strategies and plans.”
 
  __Loan Application Processing__ 
 
-[Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title VIII, § 801\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–702, provided that:
-
->     “(a) __Study.—__ 
-
->     The Administrator of the Small Business Administration shall conduct a study to determine the average time that the Administration requires to process an application for each type of loan or loan guarantee made under the Small Business Act ([15 U.S.C. 631][/us/usc/t15/s631] et seq.).
-
->     “(b) __Transmittal.—__ 
-
->     Not later than 1 year after the date of the enactment of this Act \[Dec. 21, 2000\], the Administrator shall transmit to Congress the results of the study conducted under subsection (a).”
+    [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title VIII, § 801\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–702, required the Administrator of the Small Business Administration to conduct a loan application processing study and to transmit the results to Congress not later than 1 year after Dec. 21, 2000.
 
  __Service Disabled Veterans__ 
 
-Sections 701 to 704, 707, and 709 of title VII of [Pub. L. 105–135][/us/pl/105/135] provided that:
+[Pub. L. 105–135, title VII][/us/pl/105/135], §§ 701–704, 707, 709, Dec. 2, 1997, [111 Stat. 2636–2638][/us/stat/111/2636-2638], provided that:
 
 > “SEC. 701. __PURPOSES.__ 
 
@@ -825,11 +817,11 @@ Sections 701 to 704, 707, and 709 of title VII of [Pub. L. 105–135][/us/pl/105
 
 > “In this title:
 
->     “(1) __Eligible veteran.—__ 
+>     “(1)  __Eligible veteran__  __.—__ 
 
 >     The term ‘eligible veteran’ means a disabled veteran (as defined in [section 4211(3) of title 38][/us/usc/t38/s4211/3], United States Code).
 
->     “(2) __Small business concern owned and controlled by eligible veterans.—__ 
+>     “(2)  __Small business concern owned and controlled by eligible veterans__  __.—__ 
 
 >     The term ‘small business concern owned and controlled by eligible veterans’ means a small business concern (as defined in section 3 of the Small Business Act \[[15 U.S.C. 632][/us/usc/t15/s632]\])—
 
@@ -841,7 +833,7 @@ Sections 701 to 704, 707, and 709 of title VII of [Pub. L. 105–135][/us/pl/105
 
 >     “(a) __Study and Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 9 months after the date of enactment of this Act \[Dec. 2, 1997\], the Administrator shall conduct a comprehensive study and submit to the Committees a final report containing findings and recommendations of the Administrator on—
 
@@ -853,11 +845,11 @@ Sections 701 to 704, 707, and 709 of title VII of [Pub. L. 105–135][/us/pl/105
 
 >             “(D) methods to improve Administration and other agency programs to serve the needs of small business concerns owned and controlled by eligible veterans.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         The report under paragraph (1) shall include recommendations to Congress concerning the need for legislation and recommendations to the Office of Management and Budget, relevant offices within the Administration, and the Department of Veterans Affairs.
 
->     “(b) __Conduct of Study.—__ 
+>     “(b)  __Conduct of Study__  __.—__ 
 
 >     In carrying out subsection (a), the Administrator—
 
@@ -889,10 +881,6 @@ Sections 701 to 704, 707, and 709 of title VII of [Pub. L. 105–135][/us/pl/105
 
 > “In providing financial assistance with amounts appropriated pursuant to the amendments made by this Act \[see Short Title of 1992 Amendment note above\], the Administrator of the Small Business Administration shall, when practicable, accord preference to small business concerns which use or purchase equipment and supplies produced in the United States. The Administrator shall also encourage small business concerns receiving such assistance to purchase such equipment and supplies.”
 
- __National Seminar on Small Business Exports__ 
-
-    [Pub. L. 102–366, title II, § 224][/us/pl/102/366/s224], Sept. 4, 1992, [106 Stat. 1000][/us/stat/106/1000], directed Small Business Administration to conduct a National Seminar on Small Business Exports in Buffalo, New York, in connection with the World University Games Buffalo ’93 during July, 1993, in order to develop recommendations designed to stimulate exports from small companies, with such Seminar to build upon the information collected by Administration through previously conducted regional small business trade conferences and prior conference in State of Washington and to specifically consider utility of, and make recommendations regarding, subsequent International Conference on Small Business and Trade.
-
  __Feasibility Study of Business Cooperation Network__ 
 
     [Pub. L. 101–574, title II, § 233][/us/pl/101/574/s233], Nov. 15, 1990, [104 Stat. 2825][/us/stat/104/2825], directed Administrator of the Small Business Administration to conduct a study of feasibility of establishing a business cooperation system similar to Business Cooperation Network developed by the European Economic Community, specified the purpose of the study, and directed Administrator, not later than one year after Nov. 15, 1990, to transmit to Congress a report containing the results of the study together with recommendations for such legislative and administrative actions as the Administrator considered appropriate.
@@ -911,7 +899,9 @@ Sections 701 to 704, 707, and 709 of title VII of [Pub. L. 105–135][/us/pl/105
 
     [Pub. L. 100–418, title VIII, § 8009][/us/pl/100/418/s8009], Aug. 23, 1988, [102 Stat. 1561][/us/stat/102/1561], directed Administrator of Small Business Administration, within one year after Aug. 23, 1988, to submit a written report to Committees on Small Business of House of Representatives and Senate, prepared by Administration in conjunction with Bureau of Census and in cooperation with other relevant agencies, that would analyze to extent possible the effect of increased outsourcing and other shifts in production arrangements on small firms, particularly manufacturing firms, within United States subcontractor tier and to extent that such data is not available determine methods by which such data might be collected; assess the impact of specific economic policies, including, but not limited to, procurement, tax and trade policies, in facilitating outsourcing and other international production arrangements; and make recommendations as to changes in Government policy that would improve competitive position of smaller United States subcontractors, including recommendations as to incentives which could be provided to larger corporations to maximize their use of United States subcontractors and assist these subcontractors in changing production and marketing strategies and in obtaining new business in domestic and foreign markets.
 
- __National Seminar on Small Business Exports__ 
+ __National Seminars on Small Business Exports__ 
+
+    [Pub. L. 102–366, title II, § 224][/us/pl/102/366/s224], Sept. 4, 1992, [106 Stat. 1000][/us/stat/106/1000], directed Small Business Administration to conduct a National Seminar on Small Business Exports in Buffalo, New York, in connection with the World University Games Buffalo ’93 during July, 1993, in order to develop recommendations designed to stimulate exports from small companies, with such Seminar to build upon the information collected by Administration through previously conducted regional small business trade conferences and prior conference in State of Washington and to specifically consider utility of, and make recommendations regarding, subsequent International Conference on Small Business and Trade.
 
     [Pub. L. 100–418, title VIII, § 8011][/us/pl/100/418/s8011], Aug. 23, 1988, [102 Stat. 1562][/us/stat/102/1562], directed Small Business Administration to conduct a National Seminar on Small Business Exports within one year after Aug. 23, 1988, in order to develop recommendations designed to stimulate exports from small companies.
 
@@ -1743,8 +1733,8 @@ In order to coordinate executive departments’ and agencies’ efforts towards 
 [/us/usc/t5/s3396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3396
 [/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/stat/111/2636-2638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2636-2638
 [/us/usc/t38/s4211/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4211%2F3
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
@@ -1752,8 +1742,6 @@ In order to coordinate executive departments’ and agencies’ efforts towards 
 [/us/stat/108/4197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4197
 [/us/pl/102/366/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs103
 [/us/stat/106/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F988
-[/us/pl/102/366/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs224
-[/us/stat/106/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1000
 [/us/pl/101/574/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2Fs233
 [/us/stat/104/2825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2825
 [/us/pl/100/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533
@@ -1763,6 +1751,8 @@ In order to coordinate executive departments’ and agencies’ efforts towards 
 [/us/usc/t15/s637/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fd%2F3
 [/us/pl/100/418/s8009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs8009
 [/us/stat/102/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1561
+[/us/pl/102/366/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs224
+[/us/stat/106/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1000
 [/us/pl/100/418/s8011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs8011
 [/us/stat/102/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1562
 [/us/pl/100/418/s8012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs8012

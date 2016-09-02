@@ -211,11 +211,11 @@
 
 [Pub. L. 107–123, § 11][/us/pl/107/123/s11], Jan. 16, 2002, [115 Stat. 2401][/us/stat/115/2401], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsections (b) and (c), the amendments made by this Act \[see Short Title of 2002 Amendment note set out under [section 78a of this title][/us/usc/t15/s78a]\] shall take effect on October 1, 2001.
 
->     “(b) __Immediate Transaction Fee Reductions.—__ 
+>     “(b)  __Immediate Transaction Fee Reductions__  __.—__ 
 
 >     The amendments made by section 2 \[amending this section\] shall take effect on the later of—
 
@@ -223,7 +223,7 @@
 
 >         “(2) thirty days after the date on which a regular appropriation to the Commission for such fiscal year is enacted.
 
->     “(c) __Additional Exceptions.—__ 
+>     “(c)  __Additional Exceptions__  __.—__ 
 
 >     The authorities provided by section 6(b)(9) of the Securities Act of 1933 \[[15 U.S.C. 77f(b)(9)][/us/usc/t15/s77f/b/9]\] and sections 13(e)(9), 14(g)(9), and 31(k) of the Securities Exchange Act of 1934 \[[15 U.S.C. 78m(e)(9)][/us/usc/t15/s78m/e/9], 78n(g)(9), and 78ee(k)\], as so designated by this Act, shall not apply until October 1, 2002.”
 
@@ -231,11 +231,11 @@
 
 [Pub. L. 104–290, title IV, § 405(b)][/us/pl/104/290/s405/b], Oct. 11, 1996, [110 Stat. 3443][/us/stat/110/3443], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply with respect to transactions in securities that occur on or after October 1, 1997.
 
->     “(2) __Off-exchange trades of last sale reported transactions.—__ 
+>     “(2)  __Off-exchange trades of last sale reported transactions__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply with respect to transactions described in section 31(d)(1) of the Securities Exchange Act of 1934 \[subsec. (d)(1) of this section\] (as amended by subsection (a) of this section) that occur on or after September 1, 1997.”
 
@@ -257,11 +257,11 @@
 
 [Pub. L. 107–123, § 9][/us/pl/107/123/s9], Jan. 16, 2002, [115 Stat. 2400][/us/stat/115/2400], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Office of Economic Analysis of the Securities and Exchange Commission (hereinafter referred to as the ‘Office’) shall conduct a study of the extent to which the benefits of reductions in fees effected as a result of this Act \[see Short Title of 2002 Amendment note set out under [section 78a of this title][/us/usc/t15/s78a]\] are passed on to investors.
 
->     “(b) __Factors for Consideration.—__ 
+>     “(b)  __Factors for Consideration__  __.—__ 
 
 >     In conducting the study under subsection (a), the Office shall—
 
@@ -273,7 +273,7 @@
 
 >         “(4) consider the economic benefits to investors flowing from the fee reductions to include such factors as market efficiency, expansion of investment opportunities, and enhanced liquidity and capital formation.
 
->     “(c) __Report to Congress.—__ 
+>     “(c)  __Report to Congress__  __.—__ 
 
 >     Not later than 2 years after the date of the enactment of this Act \[Jan. 16, 2002\], the Securities and Exchange Commission shall submit to the Congress the report prepared by the Office on the findings of the study conducted under subsection (a).”
 

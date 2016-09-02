@@ -69,7 +69,7 @@
 
 > “SEC. 1103. __MANDATE FOR ACTION ON THE GLOBAL CLIMATE.__ 
 
->     “(a) __Goals of United States Policy.—__ 
+>     “(a)  __Goals of United States Policy__  __.—__ 
 
 >     United States policy should seek to—
 
@@ -87,11 +87,11 @@
 
 >         “(4) work toward multilateral agreements.
 
->     “(b) __Formulation of United States Policy.—__ 
+>     “(b)  __Formulation of United States Policy__  __.—__ 
 
 >     The President, through the Environmental Protection Agency, shall be responsible for developing and proposing to Congress a coordinated national policy on global climate change. Such policy formulation shall consider research findings of the Committee on Earth Sciences of the Federal Coordinating Council on Science and Engineering Technology, the National Academy of Sciences, the National Oceanic and Atmospheric Administration, the National Science Foundation, the National Aeronautic and Space Administration, the Department of Energy, the Environmental Protection Agency, and other organizations engaged in the conduct of scientific research.
 
->     “(c) __Coordination of United States Policy in the International Arena.—__ 
+>     “(c)  __Coordination of United States Policy in the International Arena__  __.—__ 
 
 >     The Secretary of State shall be responsible to coordinate those aspects of United States policy requiring action through the channels of multilateral diplomacy, including the United Nations Environment Program and other international organizations. In the formulation of these elements of United States policy, the Secretary of State shall, under the direction of the President, work jointly with the Administrator of the Environmental Protection Agency and other United States agencies concerned with environmental protection, consistent with applicable Federal law.
 

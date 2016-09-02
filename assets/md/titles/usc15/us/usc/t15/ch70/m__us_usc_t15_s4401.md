@@ -47,11 +47,11 @@
 
 [Pub. L. 99–252, § 11][/us/pl/99/252/s11], Feb. 27, 1986, [100 Stat. 35][/us/stat/100/35], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in sections 3(f) and 5(b) \[sections 4402(f) and 4404(b) of this title\] and subsection (b), this Act \[enacting this chapter and amending [section 342 of Title 21][/us/usc/t21/s342], Food and Drugs\] shall take effect one year after the date of enactment of this Act \[Feb. 27, 1986\].
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     Sections 2, 3(b), 3(c), 3(d), 3(e), 4(b), 7, 8, 9 \[sections 4401, 4402(b) to (e), 4403(b), and 4406 to 4408 of this title\], and 10 \[amending [section 342 of Title 21][/us/usc/t21/s342]\] shall take effect on the date of the enactment of this Act \[Feb. 27, 1986\].”
 

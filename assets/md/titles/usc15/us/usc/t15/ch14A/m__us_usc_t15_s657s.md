@@ -105,6 +105,12 @@
 
 ([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[46\], as added [Pub. L. 112–239, div. A, title XVI, § 1651][/us/pl/112/239/s1651], Jan. 2, 2013, [126 Stat. 2079][/us/stat/126/2079].)
 
+ __Inapplicability of Requirement To Review and Justify Certain Contracts__ 
+
+[Pub. L. 113–66, div. A, title XVI, § 1615][/us/pl/113/66/s1615], Dec. 26, 2013, [127 Stat. 950][/us/stat/127/950], provided that: 
+
+> “In the case of a contract to which the provisions of section 46 of the Small Business Act ([15 U.S.C. 657s][/us/usc/t15/s657s]) apply, the requirements under section 802 of the National Defense Authorization Act for Fiscal Year 2013 ([Public Law 112–239][/us/pl/112/239]; [126 Stat. 1824][/us/stat/126/1824]; [10 U.S.C. 2304][/us/usc/t10/s2304] note) do not apply.”
+
 ----------
 
 [Previous](./../../../..//us/usc/t15/ch14A/m__us_usc_t15_s657r.md) | [Next](./../../../..//us/usc/t15/ch14B/m__us_usc_t15_ch14B.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657s)
@@ -123,5 +129,11 @@
 [/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
 [/us/pl/112/239/s1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1651
 [/us/stat/126/2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2079
+[/us/pl/113/66/s1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1615
+[/us/stat/127/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F950
+[/us/usc/t15/s657s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657s
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/stat/126/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1824
+[/us/usc/t10/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304
 
 

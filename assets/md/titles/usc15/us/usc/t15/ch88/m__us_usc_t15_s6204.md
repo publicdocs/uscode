@@ -43,7 +43,7 @@
 
     Rule 6(e)(3)(C)(iv) of the Federal Rules of Criminal Procedure, referred to in par. (2), is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-    Executive Order 12356, referred to in par. (3), is Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which was formerly set out as a note under [section 435 of Title 50][/us/usc/t50/s435], War and National Defense, was revoked by Ex. Ord. No. 12958, § 6.1(d), Apr. 17, 1995, 60 F.R. 19843, prior to [section 435 of Title 50][/us/usc/t50/s435] being reclassified and renumbered as [section 3161 of Title 50][/us/usc/t50/s3161].
+    Executive Order 12356, referred to in par. (3), is Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which was formerly set out as a note under section 435 (now section 3161) of Title 50, War and National Defense, was revoked by Ex. Ord. No. 12958, § 6.1(d), Apr. 17, 1995, 60 F.R. 19843.
 
 ----------
 
@@ -57,8 +57,5 @@
 [/us/usc/t42/s2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2162
 [/us/pl/103/438/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438%2Fs5
 [/us/stat/108/4599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4599
-[/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
-[/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
-[/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
 
 

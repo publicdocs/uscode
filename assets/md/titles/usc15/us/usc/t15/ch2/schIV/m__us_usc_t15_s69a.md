@@ -49,6 +49,10 @@
 
 ([Aug. 8, 1951, ch. 298, § 3][/us/act/1951-08-08/ch298/s3], [65 Stat. 176][/us/stat/65/176]; [Pub. L. 111–313, § 3][/us/pl/111/313/s3], Dec. 18, 2010, [124 Stat. 3326][/us/stat/124/3326].)
 
+ __References in Text__ 
+
+    The Federal Trade Commission Act, referred to in text, is defined in [section 69 of this title][/us/usc/t15/s69].
+
  __Amendments__ 
 
     2010—Subsec. (g). [Pub. L. 111–313][/us/pl/111/313] added subsec. (g).
@@ -74,6 +78,7 @@
 [/us/stat/65/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F176
 [/us/pl/111/313/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F313%2Fs3
 [/us/stat/124/3326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3326
+[/us/usc/t15/s69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs69
 [/us/pl/111/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F313
 
 

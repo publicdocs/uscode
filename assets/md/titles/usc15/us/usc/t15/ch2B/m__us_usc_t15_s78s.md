@@ -47,7 +47,7 @@
 
             (A) __Approval process established.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Except as provided in clause (ii), not later than 45 days after the date of publication of a proposed rule change under paragraph (1), the Commission shall—
 
@@ -55,7 +55,7 @@
 
                     (II) institute proceedings under subparagraph (B) to determine whether the proposed rule change should be disapproved.
 
-                (ii) __Extension of time period.—__ 
+                (ii)  __Extension of time period__  __.—__ 
 
                 The Commission may extend the period established under clause (i) by not more than an additional 45 days, if—
 
@@ -65,7 +65,7 @@
 
             (B) __Proceedings.—__ 
 
-                (i) __Notice and hearing.—__ 
+                (i)  __Notice and hearing__  __.—__ 
 
                 If the Commission does not approve or disapprove a proposed rule change under subparagraph (A), the Commission shall provide to the self-regulatory organization that filed the proposed rule change—
 
@@ -75,11 +75,11 @@
 
                 (ii) __Order of approval or disapproval.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     Except as provided in subclause (II), not later than 180 days after the date of publication under paragraph (1), the Commission shall issue an order approving or disapproving the proposed rule change.
 
-                    (II) __Extension of time period.—__ 
+                    (II)  __Extension of time period__  __.—__ 
 
                     The Commission may extend the period for issuance under clause (I) by not more than 60 days, if—
 
@@ -89,19 +89,19 @@
 
             (C) __Standards for approval and disapproval.—__ 
 
-                (i) __Approval.—__ 
+                (i)  __Approval__  __.—__ 
 
                 The Commission shall approve a proposed rule change of a self-regulatory organization if it finds that such proposed rule change is consistent with the requirements of this chapter and the rules and regulations issued under this chapter that are applicable to such organization.
 
-                (ii) __Disapproval.—__ 
+                (ii)  __Disapproval__  __.—__ 
 
                 The Commission shall disapprove a proposed rule change of a self-regulatory organization if it does not make a finding described in clause (i).
 
-                (iii) __Time for approval.—__ 
+                (iii)  __Time for approval__  __.—__ 
 
                 The Commission may not approve a proposed rule change earlier than 30 days after the date of publication under paragraph (1), unless the Commission finds good cause for so doing and publishes the reason for the finding.
 
-            (D) __Result of failure to institute or conclude proceedings.—__ 
+            (D)  __Result of failure to institute or conclude proceedings__  __.—__ 
 
             A proposed rule change shall be deemed to have been approved by the Commission, if—
 
@@ -109,17 +109,17 @@
 
                 (ii) the Commission does not issue an order approving or disapproving the proposed rule change under subparagraph (B) within the period described in subparagraph (B)(ii).
 
-            (E) __Publication date based on federal register publishing.—__ 
+            (E)  __Publication date based on federal register publishing__  __.—__ 
 
             For purposes of this paragraph, if, after filing a proposed rule change with the Commission pursuant to paragraph (1), a self-regulatory organization publishes a notice of the filing of such proposed rule change, together with the substantive terms of such proposed rule change, on a publicly accessible website, the Commission shall thereafter send the notice to the Federal Register for publication thereof under paragraph (1) within 15 days of the date on which such website publication is made. If the Commission fails to send the notice for publication thereof within such 15 day period, then the date of publication shall be deemed to be the date on which such website publication was made.
 
             (F) __Rulemaking.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Not later than 180 days after July 21, 2010, after consultation with other regulatory agencies, the Commission shall promulgate rules setting forth the procedural requirements of the proceedings required under this paragraph.
 
-                (ii) __Notice and comment not required.—__ 
+                (ii)  __Notice and comment not required__  __.—__ 
 
                 The rules promulgated by the Commission under clause (i) are not required to include republication of proposed rule changes or solicitation of public comment.
 
@@ -159,21 +159,21 @@
 
         (7) __Security futures product rule changes.—__ 
 
-            (A) __Filing required.—__ 
+            (A)  __Filing required__  __.—__ 
 
             A self-regulatory organization that is an exchange registered with the Commission pursuant to [section 78f(g) of this title][/us/usc/t15/s78f/g] or that is a national securities association registered pursuant to section 78o–3(k) of this title shall file with the Commission, in accordance with such rules as the Commission may prescribe, copies of any proposed rule change or any proposed change in, addition to, or deletion from the rules of such self-regulatory organization (hereinafter in this paragraph collectively referred to as a “proposed rule change”) that relates to higher margin levels, fraud or manipulation, recordkeeping, reporting, listing standards, or decimal pricing for security futures products, sales practices for security futures products for persons who effect transactions in security futures products, or rules effectuating such self-regulatory organization’s obligation to enforce the securities laws. Such proposed rule change shall be accompanied by a concise general statement of the basis and purpose of such proposed rule change. The Commission shall, upon the filing of any proposed rule change, promptly publish notice thereof together with the terms of substance of the proposed rule change or a description of the subjects and issues involved. The Commission shall give interested persons an opportunity to submit data, views, and arguments concerning such proposed rule change.
 
-            (B) __Filing with cftc.—__ 
+            (B)  __Filing with cftc__  __.—__ 
 
             A proposed rule change filed with the Commission pursuant to subparagraph (A) shall be filed concurrently with the Commodity Futures Trading Commission. Such proposed rule change may take effect upon filing of a written certification with the Commodity Futures Trading Commission under [section 7a–2(c) of title 7][/us/usc/t7/s7a–2/c], upon a determination by the Commodity Futures Trading Commission that review of the proposed rule change is not necessary, or upon approval of the proposed rule change by the Commodity Futures Trading Commission.
 
-            (C) __Abrogation of rule changes.—__ 
+            (C)  __Abrogation of rule changes__  __.—__ 
 
             Any proposed rule change of a self-regulatory organization that has taken effect pursuant to subparagraph (B) may be enforced by such self-regulatory organization to the extent such rule is not inconsistent with the provisions of this chapter, the rules and regulations thereunder, and applicable Federal law. At any time within 60 days of the date of the filing of a written certification with the Commodity Futures Trading Commission under [section 7a–2(c) of title 7][/us/usc/t7/s7a–2/c], the date the Commodity Futures Trading Commission determines that review of such proposed rule change is not necessary, or the date the Commodity Futures Trading Commission approves such proposed rule change, the Commission, after consultation with the Commodity Futures Trading Commission, may summarily abrogate the proposed rule change and require that the proposed rule change be refiled in accordance with the provisions of paragraph (1), if it appears to the Commission that such proposed rule change unduly burdens competition or efficiency, conflicts with the securities laws, or is inconsistent with the public interest and the protection of investors. Commission action pursuant to the preceding sentence shall not affect the validity or force of the rule change during the period it was in effect and shall not be reviewable under [section 78y of this title][/us/usc/t15/s78y] nor deemed to be a final agency action for purposes of [section 704 of title 5][/us/usc/t5/s704].
 
             (D) __Review of resubmitted abrogated rules.—__ 
 
-                (i) __Proceedings.—__ 
+                (i)  __Proceedings__  __.—__ 
 
                 Within 35 days of the date of publication of notice of the filing of a proposed rule change that is abrogated in accordance with subparagraph (C) and refiled in accordance with paragraph (1), or within such longer period as the Commission may designate up to 90 days after such date if the Commission finds such longer period to be appropriate and publishes its reasons for so finding or as to which the self-regulatory organization consents, the Commission shall—
 
@@ -181,21 +181,21 @@
 
                     (II) after consultation with the Commodity Futures Trading Commission, institute proceedings to determine whether the proposed rule change should be disapproved. Proceedings under subclause (II) shall include notice of the grounds for disapproval under consideration and opportunity for hearing and be concluded within 180 days after the date of publication of notice of the filing of the proposed rule change. At the conclusion of such proceedings, the Commission, by order, shall approve or disapprove such proposed rule change. The Commission may extend the time for conclusion of such proceedings for up to 60 days if the Commission finds good cause for such extension and publishes its reasons for so finding or for such longer period as to which the self-regulatory organization consents.
 
-                (ii) __Grounds for approval.—__ 
+                (ii)  __Grounds for approval__  __.—__ 
 
                 The Commission shall approve a proposed rule change of a self-regulatory organization under this subparagraph if the Commission finds that such proposed rule change does not unduly burden competition or efficiency, does not conflict with the securities laws, and is not inconsistent with the public interest or the protection of investors. The Commission shall disapprove such a proposed rule change of a self-regulatory organization if it does not make such finding. The Commission shall not approve any proposed rule change prior to the 30th day after the date of publication of notice of the filing thereof, unless the Commission finds good cause for so doing and publishes its reasons for so finding.
 
-        (8) __Decimal pricing.—__ 
+        (8)  __Decimal pricing__  __.—__ 
 
         Not later than 9 months after the date on which trading in any security futures product commences under this chapter, all self-regulatory organizations listing or trading security futures products shall file proposed rule changes necessary to implement decimal pricing of security futures products. The Commission may not require such rules to contain equal minimum increments in such decimal pricing.
 
         (9) __Consultation with cftc.—__ 
 
-            (A) __Consultation required.—__ 
+            (A)  __Consultation required__  __.—__ 
 
             The Commission shall consult with and consider the views of the Commodity Futures Trading Commission prior to approving or disapproving a proposed rule change filed by a national securities association registered pursuant to section 78o–3(a) of this title or a national securities exchange subject to the provisions of subsection (a) of this section that primarily concerns conduct related to transactions in security futures products, except where the Commission determines that an emergency exists requiring expeditious or summary action and publishes its reasons therefor.
 
-            (B) __Responses to cftc comments and findings.—__ 
+            (B)  __Responses to cftc comments and findings__  __.—__ 
 
             If the Commodity Futures Trading Commission comments in writing to the Commission on a proposed rule that has been published for comment, the Commission shall respond in writing to such written comment before approving or disapproving the proposed rule. If the Commodity Futures Trading Commission determines, and notifies the Commission, that such rule, if implemented or as applied, would—
 
@@ -207,11 +207,11 @@
 
         (10)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Two pars. (10) have been enacted.__  __ </sup></sup> __  __Rule of construction relating to filing date of proposed rule changes.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             For purposes of this subsection, the date of filing of a proposed rule change shall be deemed to be the date on which the Commission receives the proposed rule change.
 
-            (B) __Exception.—__ 
+            (B)  __Exception__  __.—__ 
 
             A proposed rule change has not been received by the Commission for purposes of subparagraph (A) if, not later than 7 business days after the date of receipt by the Commission, the Commission notifies the self-regulatory organization that such proposed rule change does not comply with the rules of the Commission relating to the required form of a proposed rule change, except that if the Commission determines that the proposed rule change is unusually lengthy and is complex or raises novel regulatory issues, the Commission shall inform the self-regulatory organization of such determination not later than 7 business days after the date of receipt by the Commission and, for the purposes of subparagraph (A), a proposed rule change has not been received by the Commission, if, not later than 21 days after the date of receipt by the Commission, the Commission notifies the self-regulatory organization that such proposed rule change does not comply with the rules of the Commission relating to the required form of a proposed rule change.
 

@@ -119,7 +119,7 @@
 
             (E) The consumer shall receive the disclosures required under this paragraph before paying any fee to the creditor or other person in connection with the consumer’s application for an extension of credit that is secured by the dwelling of a consumer. If the disclosures are mailed to the consumer, the consumer is considered to have received them 3 business days after they are mailed. A creditor or other person may impose a fee for obtaining the consumer’s credit report before the consumer has received the disclosures under this paragraph, provided the fee is bona fide and reasonable in amount.
 
-            (F) __Waiver of timeliness of disclosures.—__ 
+            (F)  __Waiver of timeliness of disclosures__  __.—__ 
 
             To expedite consummation of a transaction, if the consumer determines that the extension of credit is needed to meet a bona fide personal financial emergency, the consumer may waive or modify the timing requirements for disclosures under subparagraph (A), provided that—
 
@@ -145,11 +145,11 @@
 
         (4) __Repayment analysis required to include escrow payments.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             In the case of any consumer credit transaction secured by a first mortgage or lien on the principal dwelling of the consumer, other than a consumer credit transaction under an open end credit plan or a reverse mortgage, for which an impound, trust, or other type of account has been or will be established in connection with the transaction for the payment of property taxes, hazard and flood (if any) insurance premiums, or other periodic payments or premiums with respect to the property, the information required to be provided under subsection (a) with respect to the number, amount, and due dates or period of payments scheduled to repay the total of payments shall take into account the amount of any monthly payment to such account for each such repayment in accordance with section 10(a)(2) of the Real Estate Settlement Procedures Act of 1974 \[[12 U.S.C. 2609(a)(2)][/us/usc/t12/s2609/a/2]\].
 
-            (B) __Assessment value.—__ 
+            (B)  __Assessment value__  __.—__ 
 
             The amount taken into account under subparagraph (A) for the payment of property taxes, hazard and flood (if any) insurance premiums, or other periodic payments or premiums with respect to the property shall reflect the taxable assessed value of the real property securing the transaction after the consummation of the transaction, including the value of any improvements on the property or to be constructed on the property (whether or not such construction will be financed from the proceeds of the transaction), if known, and the replacement costs of the property for hazard insurance, in the initial year after the transaction.
 
@@ -433,21 +433,21 @@
 
 [Pub. L. 110–315, title X, § 1003][/us/pl/110/315/s1003], Aug. 14, 2008, [122 Stat. 3478][/us/stat/122/3478], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b) and as otherwise provided in this title \[see Short Title of 2008 Amendment note set out under [section 1601 of this title][/us/usc/t15/s1601]\], this title and the amendments made by this title shall become effective on the date of enactment of this Act \[Aug. 14, 2008\].
 
->     “(b) __Effect Notwithstanding Regulations.—__ 
+>     “(b)  __Effect Notwithstanding Regulations__  __.—__ 
 
 >     Paragraphs (1), (2), (3), (4), (6), (7), and (8) of section 128(e) \[[15 U.S.C. 1638(e)][/us/usc/t15/s1638/e]\] and section 140(c) of the Truth in Lending Act \[[15 U.S.C. 1650(c)][/us/usc/t15/s1650/c]\], as added by this title, shall become effective on the earlier of the date on which regulations issued under section 1002 \[set out as a note below\] become effective \[Such regulations were issued effective Sept. 14, 2009, with compliance optional until Feb. 14, 2010. See 74 F.R. 41194.\] or 18 months after the date of enactment of this Act \[Aug. 14, 2008\].”
 
 [Pub. L. 110–289, div. B, title V, § 2502(c)][/us/pl/110/289/s2502/c], July 30, 2008, [122 Stat. 2857][/us/stat/122/2857], provided that:
 
->     “(1) __General disclosures.—__ 
+>     “(1)  __General disclosures__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] shall become effective 12 months after the date of enactment of this Act \[July 30, 2008\].
 
->     “(2) __Variable interest rates.—__ 
+>     “(2)  __Variable interest rates__  __.—__ 
 
 >     Subparagraph (C) of section 128(b)(2) of the Truth in Lending Act ([15 U.S.C. 1638(b)(2)(C)][/us/usc/t15/s1638/b/2/C]), as added by subsection (a) of this section, shall become effective on the earlier of—
 

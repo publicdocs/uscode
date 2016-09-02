@@ -33,6 +33,10 @@
 
 ([Pub. L. 107–305, § 16][/us/pl/107/305/s16], Nov. 27, 2002, [116 Stat. 2381][/us/stat/116/2381].)
 
+ __References in Text__ 
+
+    This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 107–305][/us/pl/107/305], Nov. 27, 2002, [116 Stat. 2367][/us/stat/116/2367], known as the Cyber Security Research and Development Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title][/us/usc/t15/s7401] and Tables.
+
 ----------
 
 [Previous](./../../../..//us/usc/t15/ch100/m__us_usc_t15_s7409.md) | [Next](./../../../..//us/usc/t15/ch100/m__us_usc_t15_s7411.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7410)
@@ -46,5 +50,8 @@
 [/us/usc/t8/s1762/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1762%2Fc
 [/us/pl/107/305/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305%2Fs16
 [/us/stat/116/2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2381
+[/us/pl/107/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305
+[/us/stat/116/2367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2367
+[/us/usc/t15/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7401
 
 

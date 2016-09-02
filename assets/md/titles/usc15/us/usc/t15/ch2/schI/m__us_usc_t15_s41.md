@@ -37,11 +37,11 @@
 
 [Pub. L. 106–102, title I, § 133(a)][/us/pl/106/102/s133/a], (b), Nov. 12, 1999, [113 Stat. 1383][/us/stat/113/1383], provided that:
 
->     “(a) __Clarification of Federal Trade Commission Jurisdiction.—__ 
+>     “(a)  __Clarification of Federal Trade Commission Jurisdiction__  __.—__ 
 
 >     Any person that directly or indirectly controls, is controlled directly or indirectly by, or is directly or indirectly under common control with, any bank or savings association (as such terms are defined in section 3 of the Federal Deposit Insurance Act \[[12 U.S.C. 1813][/us/usc/t12/s1813]\]) and is not itself a bank or savings association shall not be deemed to be a bank or savings association for purposes of any provisions applied by the Federal Trade Commission under the Federal Trade Commission Act \[[15 U.S.C. 41][/us/usc/t15/s41] et seq.\].
 
->     “(b) __Savings Provision.—__ 
+>     “(b)  __Savings Provision__  __.—__ 
 
 >     No provision of this section \[amending [section 18a of this title][/us/usc/t15/s18a]\] shall be construed as restricting the authority of any Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act \[[12 U.S.C. 1813][/us/usc/t12/s1813]\]) under any Federal banking law, including section 8 of the Federal Deposit Insurance Act \[[12 U.S.C. 1818][/us/usc/t12/s1818]\].”
 

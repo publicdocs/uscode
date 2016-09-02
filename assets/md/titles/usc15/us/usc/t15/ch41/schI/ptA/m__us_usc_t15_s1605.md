@@ -153,7 +153,7 @@
 
 >     “(1) __Report.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Not later than 6 months after the date of the enactment of this Act \[Sept. 30, 1995\], the Board of Governors of the Federal Reserve System shall submit to the Congress a report containing recommendations on any regulatory or statutory changes necessary—
 
@@ -161,7 +161,7 @@
 
 >             “(ii) to address abusive refinancing practices engaged in for the purpose of avoiding rescission.
 
->         “(B) __Report requirements.—__ 
+>         “(B)  __Report requirements__  __.—__ 
 
 >         In preparing the report under this paragraph, the Board shall—
 
@@ -169,7 +169,7 @@
 
 >             “(ii) consult with and consider the views of affected industries and consumer groups.
 
->     “(2) __Regulations.—__ 
+>     “(2)  __Regulations__  __.—__ 
 
 >     The Board of Governors of the Federal Reserve System shall prescribe any appropriate regulation in order to effect any change included in the report under paragraph (1), and shall publish the regulation in the Federal Register before the end of the 1-year period beginning on the date of enactment of this Act.”
 

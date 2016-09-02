@@ -91,15 +91,15 @@
 
 [Pub. L. 103–182, title III, § 335][/us/pl/103/182/s335], Dec. 8, 1993, [107 Stat. 2116][/us/stat/107/2116], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to subsections (b) and (c), the amendments made by this subtitle \[subtitle C (§§ 331–335) of title III of [Pub. L. 103–182][/us/pl/103/182], enacting [section 104A of Title 17][/us/usc/t17/s104A], Copyrights, amending this section, [section 1091 of this title][/us/usc/t15/s1091], and [section 104 of Title 35][/us/usc/t35/s104], Patents, and amending provisions set out as a note under [section 109 of Title 17][/us/usc/t17/s109]\] take effect on the date the Agreement \[North American Free Trade Agreement\] enters into force with respect to the United States \[Jan. 1, 1994\].
 
->     “(b) __Section 331.—__ 
+>     “(b)  __Section__  __331.—__ 
 
 >     The amendments made by section 331 \[amending [section 104 of Title 35][/us/usc/t35/s104]\] shall apply to all patent applications that are filed on or after the date of the enactment of this Act \[Dec. 8, 1993\]: Provided, That an applicant for a patent, or a patentee, may not establish a date of invention by reference to knowledge or use thereof, or other activity with respect thereto, in a NAFTA country, except as provided in sections 119 and 365 of title 35, United States Code, that is earlier than the date of the enactment of this Act.
 
->     “(c) __Section 333.—__ 
+>     “(c)  __Section__  __333.—__ 
 
 >     The amendments made by section 333 \[amending this section and [section 1091 of this title][/us/usc/t15/s1091]\] shall apply only to trademark applications filed on or after the date of the enactment of this Act.”
 

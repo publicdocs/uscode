@@ -71,11 +71,11 @@
 
 [Pub. L. 104–289, § 6][/us/pl/104/289/s6], Oct. 11, 1996, [110 Stat. 3415][/us/stat/110/3415], provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     This Act \[See Short Title of 1996 Amendment note set out under [section 205a of this title][/us/usc/t15/s205a]\] and the amendments made by this Act shall take effect 90 days after the date of enactment of this Act \[Oct. 11, 1996\].
 
->     “(b) __Savings Provisions.—__ 
+>     “(b)  __Savings Provisions__  __.—__ 
 
 >     This Act shall not apply to contracts awarded and solicitations issued on or before the effective date of this Act, unless the head of a Federal agency makes a written determination in his or her sole discretion that it would be in the public interest to apply one or more provisions of this Act or its amendments to these existing contracts or solicitations.”
 

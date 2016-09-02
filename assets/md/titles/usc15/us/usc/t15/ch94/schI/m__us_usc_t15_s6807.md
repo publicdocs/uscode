@@ -27,7 +27,7 @@
 
  __References in Text__ 
 
-    This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 501–510) of title V of [Pub. L. 106–102][/us/pl/106/102], Nov. 12, 1999, [113 Stat. 1436][/us/stat/113/1436], which enacted this subchapter and amended [section 1681s of this title][/us/usc/t15/s1681s]. For complete classification of subtitle A to the Code, see Tables.
+    This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 501–510) of title V of [Pub. L. 106–102][/us/pl/106/102], Nov. 12, 1999, [113 Stat. 1436][/us/stat/113/1436], which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
 
  __Amendments__ 
 
@@ -51,7 +51,6 @@
 [/us/stat/124/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2097
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/stat/113/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1436
-[/us/usc/t15/s1681s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681s
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H

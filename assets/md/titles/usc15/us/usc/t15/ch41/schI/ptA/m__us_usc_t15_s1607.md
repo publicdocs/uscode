@@ -83,7 +83,7 @@
 
                 (ii) require the full adjustment, but permit the creditor to make the required adjustment in partial payments over an extended period of time which the agency considers to be reasonable, if (in the case of an agency referred to in paragraph (1), (2), or (3) of subsection (a) of this section), the agency determines that a partial adjustment or making partial payments over an extended period is necessary to avoid causing the creditor to become undercapitalized pursuant to section 38 of the Federal Deposit Insurance Act \[[12 U.S.C. 1831][/us/usc/t12/s1831]o\];
 
-            (B) the  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be preceded by “if”. </sup></sup>  amount of the adjustment would be less than $1, except that if more than one year has elapsed since the date of the violation, the agency may require that such amount be paid into the Treasury of the United States, or
+            (B) the  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “if”. </sup></sup>  amount of the adjustment would be less than $1, except that if more than one year has elapsed since the date of the violation, the agency may require that such amount be paid into the Treasury of the United States, or
 
             (C)
 

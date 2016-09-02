@@ -81,7 +81,7 @@
 
  __Exceptions in Areas Where Major Disaster Exists__ 
 
-    Board of Governors of Federal Reserve System authorized to make exceptions to requirements of this subchapter for transactions within an area in which the President has determined that a major disaster exists, if Board determines that exception can reasonably be expected to alleviate hardships to the public that outweigh possible adverse effects, see [section 2 of Pub. L. 103–76][/us/pl/103/76/s2], set out as a note under [section 4008 of Title 12][/us/usc/t12/s4008], Banks and Banking.
+    Board of Governors of Federal Reserve System authorized to make exceptions to requirements of this subchapter for transactions within an area in which the President has determined that a major disaster exists, if Board determines that exception can reasonably be expected to alleviate hardships to the public that outweigh possible adverse effects, see [section 50002 of Pub. L. 105–18][/us/pl/105/18/s50002], set out as a note under [section 4008 of Title 12][/us/usc/t12/s4008], Banks and Banking, and similar provisions listed thereunder.
 
  __Adjustments for Inflation__ 
 
@@ -142,7 +142,7 @@
 [/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
 [/us/pl/93/495/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs416
 [/us/usc/t15/s1665a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1665a
-[/us/pl/103/76/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F76%2Fs2
+[/us/pl/105/18/s50002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2Fs50002
 [/us/usc/t12/s4008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4008
 [/us/pl/111/203/s1100E/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100E%2Fb
 [/us/stat/124/2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2111

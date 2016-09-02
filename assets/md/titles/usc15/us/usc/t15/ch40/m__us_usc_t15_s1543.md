@@ -17,11 +17,17 @@
 
     The Secretary of Commerce shall maintain a task force on job repatriation and manufacturing growth and shall produce an annual report on related incentive strategies, implementation plans and program results.
 
-([Pub. L. 113–6, div. B, title I][/us/pl/113/6], Mar. 26, 2013, [127 Stat. 240][/us/stat/127/240].)
+([Pub. L. 113–76, div. B, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 50][/us/stat/128/50].)
 
  __Codification__ 
 
-    Section is from the Department of Commerce Appropriations Act, 2013, which is title I of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2013.
+    Section is from the appropriation act cited as the credit to this section.
+
+ __Similar Provisions__ 
+
+Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–6, div. B, title I][/us/pl/113/6], Mar. 26, 2013, [127 Stat. 240][/us/stat/127/240].
 
 ----------
 
@@ -30,6 +36,8 @@
 ----------
 ----------
 
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F50
 [/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
 [/us/stat/127/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F240
 

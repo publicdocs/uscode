@@ -51,7 +51,7 @@
 
     (14) The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and any other commonwealth, territory, or possession of the United States.
 
-    (15) the term “person”, for purposes of applying any provision of the Federal Trade Commission Act \[[15 U.S.C. 41][/us/usc/t15/s41] et seq.\] with respect to any provision of the subchapter, includes a partnership and a corporation.
+    (15) the  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  term “person”, for purposes of applying any provision of the Federal Trade Commission Act \[[15 U.S.C. 41][/us/usc/t15/s41] et seq.\] with respect to any provision of the subchapter, includes a partnership and a corporation.
 
     (16) The term “distributor” means any person who receives automotive fuel and distributes such automotive fuel to another person other than the ultimate purchaser.
 

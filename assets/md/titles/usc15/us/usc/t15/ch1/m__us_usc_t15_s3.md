@@ -37,11 +37,11 @@
 
 [Pub. L. 107–273, div. C, title IV, § 14103][/us/pl/107/273/s14103], Nov. 2, 2002, [116 Stat. 1922][/us/stat/116/1922], provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     Except as provided in subsection (b), this subtitle \[probably means this title, amending this section and sections 12, 27, and 44 of this title, [section 225 of Title 7][/us/usc/t7/s225], Agriculture, [section 1413 of Title 30][/us/usc/t30/s1413], Mineral Lands and Mining, and [section 2135 of Title 42][/us/usc/t42/s2135], The Public Health and Welfare, repealing sections 30 and 31 of this title, enacting provisions set out as a note under [section 1 of this title][/us/usc/t15/s1], amending provisions set out as notes under sections 1 and 8 of this title, and repealing provisions set out as notes under [section 15 of this title][/us/usc/t15/s15] and [section 41309 of Title 49][/us/usc/t49/s41309], Transportation\] and the amendments made by this subtitle shall take effect on the date of enactment of this Act \[Nov. 2, 2002\].
 
->     “(b) __Application to Cases.—__ 
+>     “(b)  __Application to Cases__  __.—__ 
 
 >         (1) Section 14102(f) \[repealing [section 30 of this title][/us/usc/t15/s30]\] shall apply to cases pending on or after the date of the enactment of this Act.
 

@@ -101,7 +101,7 @@
 
 [Pub. L. 100–107, § 2][/us/pl/100/107/s2], Aug. 20, 1987, [101 Stat. 724][/us/stat/101/724], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds and declares that—
 
@@ -131,7 +131,7 @@
 
 >             “(D) providing specific guidance for other American organizations that wish to learn how to manage for high quality by making available detailed information on how winning organizations were able to change their cultures and achieve eminence.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     It is the purpose of this Act \[enacting this section, amending [section 3708 of this title][/us/usc/t15/s3708], and enacting provisions set out as a note under [section 3701 of this title][/us/usc/t15/s3701]\] to provide for the establishment and conduct of a national quality improvement program under which (1) awards are given to selected companies and other organizations in the United States that practice effective quality management and as a result make significant improvements in the quality of their goods and services, and (2) information is disseminated about the successful strategies and programs.”
 

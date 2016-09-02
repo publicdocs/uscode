@@ -157,7 +157,7 @@
 
 [Pub. L. 106–229, title I, § 107][/us/pl/106/229/s107], June 30, 2000, [114 Stat. 473][/us/stat/114/473], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), this title \[enacting this subchapter\] shall be effective on October 1, 2000.
 
@@ -165,7 +165,7 @@
 
 >         “(1) __Record retention.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Subject to subparagraph (B), this title \[enacting this subchapter\] shall be effective on March 1, 2001, with respect to a requirement that a record be retained imposed by—
 
@@ -173,15 +173,15 @@
 
 >                 “(ii) a State statute, regulation, or other rule of law administered or promulgated by a State regulatory agency.
 
->             “(B) __Delayed effect for pending rulemakings.—__ 
+>             “(B)  __Delayed effect for pending rulemakings__  __.—__ 
 
 >             If on March 1, 2001, a Federal regulatory agency or State regulatory agency has announced, proposed, or initiated, but not completed, a rulemaking proceeding to prescribe a regulation under section 104(b)(3) \[[15 U.S.C. 7004(b)(3)][/us/usc/t15/s7004/b/3]\] with respect to a requirement described in subparagraph (A), this title shall be effective on June 1, 2001, with respect to such requirement.
 
->         “(2) __Certain guaranteed and insured loans.—__ 
+>         “(2)  __Certain guaranteed and insured loans__  __.—__ 
 
 >         With regard to any transaction involving a loan guarantee or loan guarantee commitment (as those terms are defined in section 502 of the Federal Credit Reform Act of 1990 \[[2 U.S.C. 661a][/us/usc/t2/s661a]\]), or involving a program listed in the Federal Credit Supplement, Budget of the United States, FY 2001, this title applies only to such transactions entered into, and to any loan or mortgage made, insured, or guaranteed by the United States Government thereunder, on and after one year after the date of enactment of this Act \[June 30, 2000\].
 
->         “(3) __Student loans.—__ 
+>         “(3)  __Student loans__  __.—__ 
 
 >         With respect to any records that are provided or made available to a consumer pursuant to an application for a loan, or a loan made, pursuant to title IV of the Higher Education Act of 1965 \[[20 U.S.C. 1070][/us/usc/t20/s1070] et seq., [42 U.S.C. 2751][/us/usc/t42/s2751] et seq.\], section 101(c) of this Act \[[15 U.S.C. 7001(c)][/us/usc/t15/s7001/c]\] shall not apply until the earlier of—
 

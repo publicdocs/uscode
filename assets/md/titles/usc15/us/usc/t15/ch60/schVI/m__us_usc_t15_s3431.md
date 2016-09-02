@@ -29,7 +29,7 @@
 
                 (i) authorized under section 3362(a) or 3371(b) of this title; or
 
-                (ii) pursuant to any assigned authorized under [section 3372(a) of this title][/us/usc/t15/s3372/a].
+                (ii) pursuant to any assigned  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “assignment”. </sup></sup>  authorized under [section 3372(a) of this title][/us/usc/t15/s3372/a].
 
             (C) __Natural-gas company__ 
 

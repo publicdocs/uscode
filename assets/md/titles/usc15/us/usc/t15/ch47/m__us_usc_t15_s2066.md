@@ -93,7 +93,7 @@
 
 [Pub. L. 110–314, title II, § 222][/us/pl/110/314/s222], Aug. 14, 2008, [122 Stat. 3066][/us/stat/122/3066], provided that:
 
->     “(a) __Risk Assessment Methodology.—__ 
+>     “(a)  __Risk Assessment Methodology__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[Aug. 14, 2008\], the Commission shall develop a risk assessment methodology for the identification of shipments of consumer products that are—
 
@@ -101,7 +101,7 @@
 
 >         “(2) likely to include consumer products in violation of section 17(a) of the Consumer Product Safety Act ([15 U.S.C. 2066(a)][/us/usc/t15/s2066/a]) or other import provisions enforced by the Commission.
 
->     “(b) __Use of International Trade Data System and Other Databases.—__ 
+>     “(b)  __Use of International Trade Data System and Other Databases__  __.—__ 
 
 >     In developing the methodology required under subsection (a), the Commission shall—
 
@@ -113,9 +113,9 @@
 
 >         “(4) examine, in consultation with U.S. Customs and Border Protection, how to share information required by section 15(j) of the CPSA \[[15 U.S.C. 2064(j)][/us/usc/t15/s2064/j]\] as added by section 223 of this Act for the purpose of identifying shipments of consumer products in violation of section 17(a) of the Consumer Product Safety Act ([15 U.S.C. 2066(a)][/us/usc/t15/s2066/a]) or other import provisions enforced by the Commission.
 
->     “(c) __Cooperation With U.__ 
+>     “(c)  __Cooperation With U.S. Customs and Border Protection__  __.—__ 
 
->     S. Customs and Border Protection.—Not later than 1 year after the date of enactment of this Act \[Aug. 14, 2008\], the Commission shall develop a plan for sharing information and coordinating with U.S. Customs and Border Protection that considers, at a minimum, the following:
+>     Not later than 1 year after the date of enactment of this Act \[Aug. 14, 2008\], the Commission shall develop a plan for sharing information and coordinating with U.S. Customs and Border Protection that considers, at a minimum, the following:
 
 >         “(1) The number of full-time equivalent personnel employed by the Commission that should be stationed at U.S. ports of entry for the purpose of identifying shipments of consumer products that are in violation of section 17(a) of the Consumer Product Safety Act ([15 U.S.C. 2066(a)][/us/usc/t15/s2066/a]) or other import provisions enforced by the Commission.
 
@@ -135,7 +135,7 @@
 
 >         “(5) The information and resources necessary for the development, updating, and effective implementation of the risk assessment methodology required in subsection (a).
 
->     “(d) __Report to Congress.—__ 
+>     “(d)  __Report to Congress__  __.—__ 
 
 >     Not later than 180 days after completion of the risk assessment methodology required under this section, the Commission shall submit a report to the appropriate Congressional committees concerning, at a minimum, the following:
 

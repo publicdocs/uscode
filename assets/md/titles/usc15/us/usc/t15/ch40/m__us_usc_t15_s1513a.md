@@ -23,9 +23,17 @@
 
     Section is from the Department of Commerce and Related Agencies Appropriations Act, 2006, which is title II of the Science, State, Justice, Commerce, and Related Agencies Appropriations Act, 2006.
 
- __Prior Provisions__ 
+ __Similar Provisions__ 
 
-    Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–76, div. B, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 49][/us/stat/128/49].
+
+    [Pub. L. 113–6, div. B, title I][/us/pl/113/6], Mar. 26, 2013, [127 Stat. 239][/us/stat/127/239].
+
+    [Pub. L. 112–55, div. B, title I][/us/pl/112/55], Nov. 18, 2011, [125 Stat. 597][/us/stat/125/597].
+
+    [Pub. L. 111–117, div. B, title I][/us/pl/111/117], Dec. 16, 2009, [123 Stat. 3119][/us/stat/123/3119].
 
     [Pub. L. 108–447, div. B, title II][/us/pl/108/447], Dec. 8, 2004, [118 Stat. 2881][/us/stat/118/2881].
 
@@ -39,6 +47,14 @@
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/pl/109/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F108
 [/us/stat/119/2312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2312
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F49
+[/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
+[/us/stat/127/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F239
+[/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
+[/us/stat/125/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F597
+[/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
+[/us/stat/123/3119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3119
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/stat/118/2881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2881
 

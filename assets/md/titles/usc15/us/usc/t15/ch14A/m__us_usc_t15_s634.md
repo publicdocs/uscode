@@ -247,11 +247,11 @@
 
 [Pub. L. 104–36, § 8][/us/pl/104/36/s8], Oct. 12, 1995, [109 Stat. 297][/us/stat/109/297], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), the amendments made by this Act \[see Short Title of 1995 Amendment note set out under [section 631 of this title][/us/usc/t15/s631]\] do not apply with respect to any loan made or guaranteed under the Small Business Act \[[15 U.S.C. 631][/us/usc/t15/s631] et seq.\] or the Small Business Investment Act of 1958 \[[15 U.S.C. 661][/us/usc/t15/s661] et seq.\] before the date of enactment of this Act \[Oct. 12, 1995\].
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >     The amendments made by this Act apply to a loan made or guaranteed under the Small Business Act or the Small Business Investment Act of 1958 before the date of enactment of this Act \[Oct. 12, 1995\], if the loan is refinanced, extended, restructured, or renewed on or after the date of enactment of this Act.”
 

@@ -99,11 +99,11 @@
 
 [Pub. L. 103–42, § 4][/us/pl/103/42/s4], June 10, 1993, [107 Stat. 120][/us/stat/107/120], provided that:
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     The purpose of the reports required by this section is to inform Congress and the American people of the effect of the National Cooperative Research and Production Act of 1993 \[[15 U.S.C. 4301][/us/usc/t15/s4301] et seq.\] on the competitiveness of the United States in key technological areas of research, development, and production.
 
->     “(b) __Annual Report by the Attorney General.—__ 
+>     “(b)  __Annual Report by the Attorney General__  __.—__ 
 
 >     In the 30-day period beginning at each 1-year interval in the 6-year period beginning on the date of the enactment of this Act \[June 10, 1993\], the Attorney General shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate—
 
@@ -119,11 +119,11 @@
 
 >         “(2) a list of cases and proceedings, if any, brought during such period under the antitrust laws by the Department of Justice, and by the Federal Trade Commission, with respect to joint ventures for which notice was filed under such section at any time.
 
->     “(c) __Triennial Report by the Attorney General.—__ 
+>     “(c)  __Triennial Report by the Attorney General__  __.—__ 
 
 >     In the 30-day period beginning at each 3-year interval in the 6-year period beginning on the date of the enactment of this Act \[June 10, 1993\], the Attorney General, after consultation with such other agencies as the Attorney General considers to be appropriate, shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a description of the technological areas most commonly pursued by joint ventures for production for which notice was filed under section 6(a) of the National Cooperative Research and Production Act of 1993 \[[15 U.S.C. 4305(a)][/us/usc/t15/s4305/a]\] during the 3-year period for which such report is made, and an analysis of the trends in the competitiveness of United States industry in such areas.
 
->     “(d) __Review of Antitrust Treatment Under Foreign Laws.—__ 
+>     “(d)  __Review of Antitrust Treatment Under Foreign Laws__  __.—__ 
 
 >     In the three 30-day periods beginning 1 year, 3 years, and 6 years after the date of the enactment of this Act \[June 10, 1993\], the Attorney General, after consultation with such other agencies as the Attorney General considers to be appropriate, shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report on the antitrust treatment of United States businesses with respect to participation in joint ventures for production, under the law of each foreign nation any of whose domestic businesses disclosed its nationality under section 6(a)(3) of the National Cooperative Research and Production Act of 1993 \[[15 U.S.C. 4305(a)(3)][/us/usc/t15/s4305/a/3]\] at any time.”
 

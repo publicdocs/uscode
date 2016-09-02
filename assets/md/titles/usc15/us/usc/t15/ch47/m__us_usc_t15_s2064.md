@@ -261,7 +261,7 @@
 
 >     “(a) __Reports to Consumer Product Safety Commission.—__ 
 
->         “(1) __Requirement to report.—__ 
+>         “(1)  __Requirement to report__  __.—__ 
 
 >         Each manufacturer, distributor, retailer, and importer of a marble, small ball, or latex balloon, or a toy or game that contains a marble, small ball, latex balloon, or other small part, shall report to the Commission any information obtained by such manufacturer, distributor, retailer, or importer which reasonably supports the conclusion that—
 
@@ -269,15 +269,15 @@
 
 >             “(B) as a result of that incident the child died, suffered serious injury, ceased breathing for any length of time, or was treated by a medical professional.
 
->         “(2) __Treatment under cpsa.—__ 
+>         “(2)  __Treatment under cpsa__  __.—__ 
 
 >         For purposes of section 19(a)(3) of the Consumer Product Safety Act ([15 U.S.C. 2068(a)(3)][/us/usc/t15/s2068/a/3]), the requirement to report information under this subsection is deemed to be a requirement under such Act \[[15 U.S.C. 2051][/us/usc/t15/s2051] et seq.\].
 
->         “(3) __Effect on liability.—__ 
+>         “(3)  __Effect on liability__  __.—__ 
 
 >         A report by a manufacturer, distributor, retailer, or importer under paragraph (1) shall not be interpreted, for any purpose, as an admission of liability or of the truth of the information contained in the report.
 
->     “(b) __Confidentiality Protections.—__ 
+>     “(b)  __Confidentiality Protections__  __.—__ 
 
 >     The confidentiality protections of section 6(b) of the Consumer Product Safety Act ([15 U.S.C. 2055(b)][/us/usc/t15/s2055/b]) apply to any information reported to the Commission under subsection (a) of this section. For purposes of section 6(b)(5) of such Act, information so reported shall be treated as information submitted pursuant to section 15(b) of such Act \[[15 U.S.C. 2064(b)][/us/usc/t15/s2064/b]\] respecting a consumer product.”
 

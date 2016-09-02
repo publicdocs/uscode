@@ -41,29 +41,17 @@
 
  __Catalog of Programs To Assist Rural Small Business Concerns__ 
 
-[Pub. L. 101–574, title III, § 304][/us/pl/101/574/s304], Nov. 15, 1990, [104 Stat. 2829][/us/stat/104/2829], provided that:
-
->     “(a) __Compilation.—__ 
-
->     Not later than 180 days after the date of the enactment of this title \[Nov. 15, 1990\], the Small Business Administration shall compile a catalog of programs administered by Federal and State departments and agencies which offer assistance to small business concerns in rural areas. Such catalog shall include a description of each such program and the name, address, and telephone number of the respective Federal and State officials responsible for administering the program.
-
->     “(b) __Distribution.—__ 
-
->     Copies of the catalog compiled pursuant to subsection (a) shall be transmitted to the Congress and copies shall be made available to small business concerns in rural areas, appropriate trade associations, Federal and State agencies for the assistance of small business concerns, State and local chambers of commerce, other appropriate nonprofit organizations, and the general public.
-
->     “(c) __Biannual Update.—__ 
-
->     The Small Business Administration shall issue updates of the catalog compiled pursuant to subsection (a) by February 1, 1993, and February 1, 1995.”
+    [Pub. L. 101–574, title III, § 304][/us/pl/101/574/s304], Nov. 15, 1990, [104 Stat. 2829][/us/stat/104/2829], required the Small Business Administration to compile a catalog of programs administered by Federal and State departments and agencies which offer assistance to small business concerns in rural areas by no later than 180 days after Nov. 15, 1990, and to issue updates of the catalog by Feb. 1, 1993, and Feb. 1, 1995.
 
  __Rural Small Business Conferences__ 
 
 [Pub. L. 101–574, title III, § 306][/us/pl/101/574/s306], Nov. 15, 1990, [104 Stat. 2829][/us/stat/104/2829], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Chief Counsel for Advocacy of the Small Business Administration shall, as soon as practicable after the catalog (described in section 305 \[probably means section 304, set out above\] and hereinafter referred to as the ‘catalog’) is issued, but not later than 90 days after the date such catalog is issued, convene regional rural conferences in 5 cities or towns in the United States.
 
->     “(b) __Preparations.—__ 
+>     “(b)  __Preparations__  __.—__ 
 
 >     Prior to the conferences, the Office of Advocacy shall—
 
@@ -71,7 +59,7 @@
 
 >         “(2) distribute the catalog of programs and such other background materials prepared by the Office of Advocacy as the Chief Counsel deems appropriate.
 
->     “(c) __Purposes of the Conferences.—__ 
+>     “(c)  __Purposes of the Conferences__  __.—__ 
 
 >     The conference shall—
 
@@ -87,7 +75,7 @@
 
 >         “(6) determine any additional needs of small businesses in rural areas.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     The Chief Counsel for Advocacy shall prepare a summary of the findings and recommendations of each regional conference. Not later than 60 days after the last of the 5 regional conferences have been held, the Chief Counsel for Advocacy shall transmit such summaries to the Congress and the President, along with conclusions and recommendations, including specific legislative proposals and recommendations for administrative or other actions. The transmittal of the required information shall be deemed a report of the Chief Counsel for Advocacy under the terms and conditions of [section 206 of Public Law 94–305][/us/pl/94/305/s206] \[[15 U.S.C. 634f][/us/usc/t15/s634f]\]. To the extent practicable, the report shall estimate the cost of implementing each recommendation of a regional conference as well as those of the Chief Counsel.”
 

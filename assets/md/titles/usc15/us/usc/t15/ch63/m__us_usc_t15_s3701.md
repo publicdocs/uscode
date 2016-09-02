@@ -107,11 +107,11 @@
 
 >     “(a) __Study.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 1 year after the date of the enactment of this Act \[Jan. 4, 2011\], the Secretary of Commerce shall complete a comprehensive study of the economic competitiveness and innovative capacity of the United States.
 
->         “(2) __Matters covered.—__ 
+>         “(2)  __Matters covered__  __.—__ 
 
 >         The study required by paragraph (1) shall include the following:
 
@@ -169,17 +169,17 @@
 
 >         “(3) __Consultation.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The study required by paragraph (1) shall be conducted in consultation with the National Economic Council of the Office of Policy Development, such Federal agencies as the Secretary considers appropriate, and the Innovation Advisory Board established under subparagraph (B). The Secretary shall also establish a process for obtaining comments from the public.
 
 >             “(B) __Innovation advisory board.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 The Secretary shall establish an Innovation Advisory Board for purposes of obtaining advice with respect to the conduct of the study required by paragraph (1).
 
->                 “(ii) __Composition.—__ 
+>                 “(ii)  __Composition__  __.—__ 
 
 >                 The Advisory Board established under clause (i) shall be comprised of 15 members, appointed by the Secretary—
 
@@ -189,17 +189,17 @@
 
 >                          “(III) who may include economic or innovation policy experts, State and local government officials active in technology-based economic development, and representatives from higher education.
 
->                 “(iii) __Exemption from faca.—__ 
+>                 “(iii)  __Exemption from faca__  __.—__ 
 
 >                 The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the advisory board established under clause (i).
 
 >     “(b) __Strategy.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 1 year after the completion of the study required by subsection (a), the Secretary shall develop, based on the study required by subsection (a)(1), a national 10-year strategy to strengthen the innovative and competitive capacity of the Federal Government, State and local governments, United States institutions of higher education, and the private sector of the United States.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The strategy required by paragraph (1) shall include the following:
 
@@ -213,11 +213,11 @@
 
 >     “(c) __Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Upon the completion of the strategy required by subsection (b), the Secretary of Commerce shall submit to Congress and the President a report on the study conducted under subsection (a) and the strategy developed under subsection (b).
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The report required by paragraph (1) shall include the following:
 
@@ -229,7 +229,7 @@
 
 [Pub. L. 111–358, title VI, § 605][/us/pl/111/358/s605], Jan. 4, 2011, [124 Stat. 4040][/us/stat/124/4040], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -237,17 +237,17 @@
 
 >         “(2) such simulation and modeling would also benefit small- and medium-sized manufacturers in the United States if such manufacturers were to deploy such simulation and modeling throughout their manufacturing chains.
 
->     “(b) __Policy.—__ 
+>     “(b)  __Policy__  __.—__ 
 
 >     It is the policy of the United States to take all effective measures practicable to ensure that Federal programs and policies encourage and contribute to the use of high-end computing simulation and modeling in the United States manufacturing sector.
 
 >     “(c) __Study.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 30 days after the date of the enactment of this Act \[Jan. 4, 2011\], the Secretary of Commerce, in consultation with the Secretary of Energy and the Director of the Office of Science and Technology Policy, shall carry out, through an interagency consulting process, a study of the barriers to the use of high-end computing simulation and modeling by small- and medium-sized manufacturers in the United States.
 
->         “(2) __Factors.—__ 
+>         “(2)  __Factors__  __.—__ 
 
 >         In carrying out the study required by paragraph (1), the Secretary of Commerce, in consultation with the Secretary of Energy and the Director of the Office of Science and Technology Policy, shall consider the following:
 
@@ -261,11 +261,11 @@
 
 >             “(E) The availability of tools and other methods to such manufacturers to understand and manage the costs and risks associated with transitioning to the use of such facilities and resources.
 
->         “(3) __Report.—__ 
+>         “(3)  __Report__  __.—__ 
 
 >         Not later than 270 days after the commencement of the study required by paragraph (1), the Secretary of Commerce shall, in consultation with the Secretary of Energy and the Director of the Office of Science and Technology Policy, submit to Congress a report on such study. Such report shall include such recommendations for such legislative or administrative action as the Secretary of Commerce considers appropriate in light of the study to increase the utilization of high-end computing simulation and modeling by small- and medium-sized manufacturers in the United States.
 
->     “(d) __Authorization of Demonstration and Pilot Programs.—__ 
+>     “(d)  __Authorization of Demonstration and Pilot Programs__  __.—__ 
 
 >     As part of the study required by subsection (c)(1), the Secretary of Commerce, the Secretary of Energy, and the Director of the Office of Science and Technology Policy may carry out such demonstration or pilot programs as either \[the\] Secretary or the Director considers appropriate to gather experiential data to evaluate the feasibility and advisability of a specific program or policy initiative to reduce barriers to the utilization of high-end computer modeling and simulation by small- and medium-sized manufacturers in the United States.”
 
@@ -327,11 +327,11 @@
 
 [Pub. L. 102–245, title IV, § 401][/us/pl/102/245/s401], Feb. 14, 1992, [106 Stat. 21][/us/stat/106/21], provided that:
 
->     “(a) __Establishment and Purpose.—__ 
+>     “(a)  __Establishment and Purpose__  __.—__ 
 
 >     There is established a National Commission on Reducing Capital Costs for Emerging Technology (hereafter in this section referred to as the ‘Commission’), for the purpose of developing recommendations to increase the competitiveness of United States industry by encouraging investments in research, the development of new process and product technologies, and the production of those technologies.
 
->     “(b) __Issues.—__ 
+>     “(b)  __Issues__  __.—__ 
 
 >     The function of the Commission shall be to address the following issues:
 
@@ -351,7 +351,7 @@
 
 >         “(8) What specific policies should the Federal Government follow in order to reduce the cost of capital for United States companies to levels that are near parity with those faced by the Nation’s principal trading partners?
 
->     “(c) __Membership.—__ 
+>     “(c)  __Membership__  __.—__ 
 
 >         (1)
 
@@ -365,7 +365,7 @@
 
 >         “(2) Each member shall be appointed for the life of the Commission. A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
 
->     “(d) __Procedures.—__ 
+>     “(d)  __Procedures__  __.—__ 
 
 >         (1) The chairman shall call the first meeting of the Commission within 90 days after the date of enactment of this Act \[Feb. 14, 1992\].
 
@@ -375,19 +375,19 @@
 
 >         “(4) Members of the Commission, other than full-time employees of the Federal Government, while attending meetings of the Commission while away from their homes or regular places of business, shall be allowed travel expenses in accordance with subchapter I of chapter 57 of title 5, United States Code.
 
->     “(e) __Reports.—__ 
+>     “(e)  __Reports__  __.—__ 
 
 >     The Commission shall, within 1 year after the date of enactment of this Act \[Feb. 14, 1992\], submit to the President and Congress a report containing legislative and other recommendations with respect to the issues addressed under subsection (b).
 
->     “(f) __Consultation.—__ 
+>     “(f)  __Consultation__  __.—__ 
 
 >     The Commission shall consult, as appropriate, with the Commission on Technology and Procurement established by section 505 of this Act \[set out below\].
 
->     “(g) __Termination.—__ 
+>     “(g)  __Termination__  __.—__ 
 
 >     The Commission shall terminate 6 months after the submission of its report under subsection (e).
 
->     “(h) __Authorization of Appropriations.—__ 
+>     “(h)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this section such sums as may be necessary for the fiscal years 1992 and 1993.”
 
@@ -395,11 +395,11 @@
 
 [Pub. L. 102–245, title V, § 505][/us/pl/102/245/s505], Feb. 14, 1992, [106 Stat. 25][/us/stat/106/25], provided that:
 
->     “(a) __Establishment of Commission.—__ 
+>     “(a)  __Establishment of Commission__  __.—__ 
 
 >     The Secretary, in consultation with the Administrator of the Office of Federal Procurement Policy, shall establish a Commission on Technology and Procurement (hereafter in this section referred to as the ‘Commission’), for the purposes of analyzing the effect of Federal Government procurement laws, procedures, and policies on the development of advanced technologies within the United States and making recommendations on how Federal policy could be changed to promote further the development of advanced technologies.
 
->     “(b) __Issues.—__ 
+>     “(b)  __Issues__  __.—__ 
 
 >     The Commission shall address the following issues:
 
@@ -419,7 +419,7 @@
 
 >         “(8) To what extent should worldwide, state of the art technology be required in Federal Government procurement?
 
->     “(c) __Membership and Procedures.—__ 
+>     “(c)  __Membership and Procedures__  __.—__ 
 
 >         (1) The Commission shall be composed of 15 members, 8 of whom shall constitute a quorum.
 
@@ -441,21 +441,21 @@
 
 >         “(6) Members of the Commission, other than full-time employees of the Federal Government, while attending meetings of the Commission or otherwise performing duties of the Commission while away from their homes or regular places of business, shall be allowed travel expenses in accordance with subchapter I of chapter 57 of title 5, United States Code.
 
->     “(d) __Reports.—__ 
+>     “(d)  __Reports__  __.—__ 
 
 >         (1) The Commission shall, within 1 year after the date of enactment of this Act \[Feb. 14, 1992\], submit to the Secretary, the Administrator of the Office of Federal Procurement Policy, the President, and Congress a report containing preliminary recommendations with respect to the issues addressed under subsection (b).
 
 >         “(2) The Commission shall, within 2 years after the date of enactment of this Act, submit to the Secretary and Congress a final report containing final recommendations with respect to the issues addressed under subsection (b).
 
->     “(e) __Consultation.—__ 
+>     “(e)  __Consultation__  __.—__ 
 
 >     The Commission shall consult, as appropriate, with the National Commission on Reducing Capital Costs for Emerging Technology.
 
->     “(f) __Termination.—__ 
+>     “(f)  __Termination__  __.—__ 
 
 >     The Commission shall terminate 6 months after the submission of its final report under subsection (d)(2).
 
->     “(g) __Authorization of Appropriations.—__ 
+>     “(g)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this section such sums as may be necessary for the fiscal years 1992, 1993, and 1994.”
 
@@ -463,7 +463,7 @@
 
 [Pub. L. 102–245, title V, § 508][/us/pl/102/245/s508], Feb. 14, 1992, [106 Stat. 29][/us/stat/106/29], provided that:
 
->     “(a) __Contract With National Research Council.—__ 
+>     “(a)  __Contract With National Research Council__  __.—__ 
 
 >     Within 90 days after the date of enactment of this Act \[Feb. 14, 1992\] and within available appropriations, the Secretary shall enter into a contract with the National Research Council for a thorough review of international product testing and certification issues. The National Research Council will be asked to address the following issues and make recommendations as appropriate:
 
@@ -477,11 +477,11 @@
 
 >         “(5) The appropriate Federal, State, and private roles in coordination and oversight of testing, certification, accreditation, and quality control to support national and international trade.
 
->     “(b) __Membership.—__ 
+>     “(b)  __Membership__  __.—__ 
 
 >     In selecting the members of the review panel, the National Research Council shall consult with and draw from, among others, laboratory accreditation organizations, Federal and State government agencies involved in testing and certification, professional societies, trade associations, small business, and labor organizations.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     A report based on the findings and recommendations of the review panel shall be submitted to the Secretary, the President, and Congress within 18 months after the Secretary signs the contract with the National Research Council.”
 
@@ -489,7 +489,7 @@
 
 [Pub. L. 101–189, div. C, title XXXI, § 3132][/us/pl/101/189/s3132], Nov. 29, 1989, [103 Stat. 1674][/us/stat/103/1674], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -505,7 +505,7 @@
 
 >         “(6) more effective cooperation between those laboratories and the private sector in the United States is required to provide speed and certainty in the technology transfer process.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this part \[part C (§§ 3131–3133) of title XXXI of div. C of [Pub. L. 101–189][/us/pl/101/189], see Short Title of 1989 Amendment note above\] are to—
 

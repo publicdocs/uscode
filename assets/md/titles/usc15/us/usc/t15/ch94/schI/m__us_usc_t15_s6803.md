@@ -99,6 +99,10 @@
 
     2006—[Pub. L. 109–351][/us/pl/109/351] designated concluding provisions of subsec. (a) as (b), inserted heading, substituted “Disclosures required by subsection (a)” for “Such disclosures”, redesignated former subsec. (b) as (c), and added subsecs. (d) and (e).
 
+ __Termination of Trust Territory of the Pacific Islands__ 
+
+    For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48][/us/usc/t48/s1681], Territories and Insular Possessions.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t15/ch94/schI/m__us_usc_t15_s6802.md) | [Next](./../../../../..//us/usc/t15/ch94/schI/m__us_usc_t15_s6804.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6803)
@@ -119,5 +123,6 @@
 [/us/pl/109/351/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs609
 [/us/stat/120/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1983
 [/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 
 

@@ -73,6 +73,10 @@
 
 ([Pub. L. 107–231, § 4][/us/pl/107/231/s4], Oct. 1, 2002, [116 Stat. 1472][/us/stat/116/1472].)
 
+ __References in Text__ 
+
+    This chapter, referred to in subsecs. (a) and (d)(2) to (4), was in the original “this Act”, meaning [Pub. L. 107–231][/us/pl/107/231], Oct. 1, 2002, [116 Stat. 1471][/us/stat/116/1471], known as the National Construction Safety Team Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7301 of this title][/us/usc/t15/s7301] and Tables.
+
 ----------
 
 [Previous](./../../../..//us/usc/t15/ch99/m__us_usc_t15_s7302.md) | [Next](./../../../..//us/usc/t15/ch99/m__us_usc_t15_s7304.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7303)
@@ -83,5 +87,8 @@
 [/us/usc/t15/s7301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7301%2Fc%2F1
 [/us/pl/107/231/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231%2Fs4
 [/us/stat/116/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1472
+[/us/pl/107/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231
+[/us/stat/116/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1471
+[/us/usc/t15/s7301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7301
 
 

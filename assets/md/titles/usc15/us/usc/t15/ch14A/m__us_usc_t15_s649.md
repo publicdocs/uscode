@@ -479,7 +479,7 @@
 
 [Pub. L. 111–240, title I, § 1205(b)][/us/pl/111/240/s1205/b], Sept. 27, 2010, [124 Stat. 2529][/us/stat/124/2529], provided that:
 
->     “(1) __Study and report.—__ 
+>     “(1)  __Study and report__  __.—__ 
 
 >     Not later than 6 months after the date of enactment of this Act \[Sept. 27, 2010\], and every 2 years thereafter, the Administrator shall—
 
@@ -527,7 +527,7 @@
 
 >             “(iv) such additional information as the Administrator determines is appropriate.
 
->     “(2) __Definition.—__ 
+>     “(2)  __Definition__  __.—__ 
 
 >     In this subsection, the term ‘export finance specialist’ has the meaning given that term in section 22(l) of the Small Business Act \[[15 U.S.C. 649][/us/usc/t15/s649](l)\], as added by this title.”
 

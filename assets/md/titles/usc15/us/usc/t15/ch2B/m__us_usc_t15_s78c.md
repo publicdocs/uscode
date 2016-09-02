@@ -31,15 +31,15 @@
 
         (4) __Broker.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The term “broker” means any person engaged in the business of effecting transactions in securities for the account of others.
 
-            (B) __Exception for certain bank activities.—__ 
+            (B)  __Exception for certain bank activities__  __.—__ 
 
             A bank shall not be considered to be a broker because the bank engages in any one or more of the following activities under the conditions described:
 
-                (i) __Third party brokerage arrangements.—__ 
+                (i)  __Third party brokerage arrangements__  __.—__ 
 
                 The bank enters into a contractual or other written arrangement with a broker or dealer registered under this chapter under which the broker or dealer offers brokerage services on or off the premises of the bank if—
 
@@ -61,7 +61,7 @@
 
                     (IX) the bank, broker, or dealer informs each customer that the brokerage services are provided by the broker or dealer and not by the bank and that the securities are not deposits or other obligations of the bank, are not guaranteed by the bank, and are not insured by the Federal Deposit Insurance Corporation.
 
-                (ii) __Trust activities.—__ 
+                (ii)  __Trust activities__  __.—__ 
 
                 The bank effects transactions in a trustee capacity, or effects transactions in a fiduciary capacity in its trust department or other department that is regularly examined by bank examiners for compliance with fiduciary principles and standards, and—
 
@@ -69,7 +69,7 @@
 
                     (II) does not publicly solicit brokerage business, other than by advertising that it effects transactions in securities in conjunction with advertising its other trust activities.
 
-                (iii) __Permissible securities transactions.—__ 
+                (iii)  __Permissible securities transactions__  __.—__ 
 
                 The bank effects transactions in—
 
@@ -83,11 +83,11 @@
 
                 (iv) __Certain stock purchase plans.—__ 
 
-                    (I) __Employee benefit plans.—__ 
+                    (I)  __Employee benefit plans__  __.—__ 
 
                     The bank effects transactions, as part of its transfer agency activities, in the securities of an issuer as part of any pension, retirement, profit-sharing, bonus, thrift, savings, incentive, or other similar benefit plan for the employees of that issuer or its affiliates (as defined in [section 1841 of title 12][/us/usc/t12/s1841]), if the bank does not solicit transactions or provide investment advice with respect to the purchase or sale of securities in connection with the plan.
 
-                    (II) __Dividend reinvestment plans.—__ 
+                    (II)  __Dividend reinvestment plans__  __.—__ 
 
                     The bank effects transactions, as part of its transfer agency activities, in the securities of an issuer as part of that issuer’s dividend reinvestment plan, if—
 
@@ -95,7 +95,7 @@
 
                         (bb) the bank does not net shareholders’ buy and sell orders, other than for programs for odd-lot holders or plans registered with the Commission.
 
-                    (III) __Issuer plans.—__ 
+                    (III)  __Issuer plans__  __.—__ 
 
                     The bank effects transactions, as part of its transfer agency activities, in the securities of an issuer as part of a plan or program for the purchase or sale of that issuer’s shares, if—
 
@@ -103,7 +103,7 @@
 
                         (bb) the bank does not net shareholders’ buy and sell orders, other than for programs for odd-lot holders or plans registered with the Commission.
 
-                    (IV) __Permissible delivery of materials.—__ 
+                    (IV)  __Permissible delivery of materials__  __.—__ 
 
                     The exception to being considered a broker for a bank engaged in activities described in subclauses (I), (II), and (III) will not be affected by delivery of written or electronic plan materials by a bank to employees of the issuer, shareholders of the issuer, or members of affinity groups of the issuer, so long as such materials are—
 
@@ -111,11 +111,11 @@
 
                         (bb) otherwise permitted by the Commission.
 
-                (v) __Sweep accounts.—__ 
+                (v)  __Sweep accounts__  __.—__ 
 
                 The bank effects transactions as part of a program for the investment or reinvestment of deposit funds into any no-load, open-end management investment company registered under the Investment Company Act of 1940 \[[15 U.S.C. 80a–1][/us/usc/t15/s80a–1] et seq.\] that holds itself out as a money market fund.
 
-                (vi) __Affiliate transactions.—__ 
+                (vi)  __Affiliate transactions__  __.—__ 
 
                 The bank effects transactions for the account of any affiliate of the bank (as defined in [section 1841 of title 12][/us/usc/t12/s1841]) other than—
 
@@ -123,7 +123,7 @@
 
                     (II) an affiliate that is engaged in merchant banking, as described in [section 1843(k)(4)(H) of title 12][/us/usc/t12/s1843/k/4/H].
 
-                (vii) __Private securities offerings.—__ 
+                (vii)  __Private securities offerings__  __.—__ 
 
                 The bank—
 
@@ -135,7 +135,7 @@
 
                 (viii) __Safekeeping and custody activities.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     The bank, as part of customary banking activities—
 
@@ -149,23 +149,23 @@
 
                         (ee) serves as a custodian or provider of other related administrative services to any individual retirement account, pension, retirement, profit sharing, bonus, thrift savings, incentive, or other similar benefit plan.
 
-                    (II) __Exception for carrying broker activities.—__ 
+                    (II)  __Exception for carrying broker activities__  __.—__ 
 
                     The exception to being considered a broker for a bank engaged in activities described in subclause (I) shall not apply if the bank, in connection with such activities, acts in the United States as a carrying broker (as such term, and different formulations thereof, are used in section 78o(c)(3) of this title and the rules and regulations thereunder) for any broker or dealer, unless such carrying broker activities are engaged in with respect to government securities (as defined in paragraph (42) of this subsection).
 
-                (ix) __Identified banking products.—__ 
+                (ix)  __Identified banking products__  __.—__ 
 
                 The bank effects transactions in identified banking products as defined in section 206 of the Gramm-Leach-Bliley Act.
 
-                (x) __Municipal securities.—__ 
+                (x)  __Municipal securities__  __.—__ 
 
                 The bank effects transactions in municipal securities.
 
-                (xi) __De minimis exception.—__ 
+                (xi)  __De minimis exception__  __.—__ 
 
                 The bank effects, other than in transactions referred to in clauses (i) through (x), not more than 500 transactions in securities in any calendar year, and such transactions are not effected by an employee of the bank who is also an employee of a broker or dealer.
 
-            (C) __Execution by broker or dealer.—__ 
+            (C)  __Execution by broker or dealer__  __.—__ 
 
             The exception to being considered a broker for a bank engaged in activities described in clauses (ii), (iv), and (viii) of subparagraph (B) shall not apply if the activities described in such provisions result in the trade in the United States of any security that is a publicly traded security in the United States, unless—
 
@@ -181,7 +181,7 @@
 
                 (iii) the trade is conducted in some other manner permitted under rules, regulations, or orders as the Commission may prescribe or issue.
 
-            (D) __Fiduciary capacity.—__ 
+            (D)  __Fiduciary capacity__  __.—__ 
 
             For purposes of subparagraph (B)(ii), the term “fiduciary capacity” means—
 
@@ -191,7 +191,7 @@
 
                 (iii) in any other similar capacity.
 
-            (E) __Exception for entities subject to section 78__  __o__  __(e).__  __1__  __—__ 
+            (E)  __Exception for entities subject to section 78__  __o__  __(e).__  __1__  __—__ 
 
             The term “broker” does not include a bank that—
 
@@ -199,25 +199,25 @@
 
                 (ii) is subject to such restrictions and requirements as the Commission considers appropriate.
 
-            (F) __Joint rulemaking required.—__ 
+            (F)  __Joint rulemaking required__  __.—__ 
 
             The Commission and the Board of Governors of the Federal Reserve System shall jointly adopt a single set of rules or regulations to implement the exceptions in subparagraph (B).
 
         (5) __Dealer.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The term “dealer” means any person engaged in the business of buying and selling securities (not including security-based swaps, other than security-based swaps with or for persons that are not eligible contract participants) for such person’s own account through a broker or otherwise.
 
-            (B) __Exception for person not engaged in the business of dealing.—__ 
+            (B)  __Exception for person not engaged in the business of dealing__  __.—__ 
 
             The term “dealer” does not include a person that buys or sells securities (not including security-based swaps, other than security-based swaps with or for persons that are not eligible contract participants) for such person’s own account, either individually or in a fiduciary capacity, but not as a part of a regular business.
 
-            (C) __Exception for certain bank activities.—__ 
+            (C)  __Exception for certain bank activities__  __.—__ 
 
             A bank shall not be considered to be a dealer because the bank engages in any of the following activities under the conditions described:
 
-                (i) __Permissible securities transactions.—__ 
+                (i)  __Permissible securities transactions__  __.—__ 
 
                 The bank buys or sells—
 
@@ -229,7 +229,7 @@
 
                     (IV) any standardized, credit enhanced debt security issued by a foreign government pursuant to the March 1989 plan of then Secretary of the Treasury Brady, used by such foreign government to retire outstanding commercial bank loans.
 
-                (ii) __Investment, trustee, and fiduciary transactions.—__ 
+                (ii)  __Investment, trustee, and fiduciary transactions__  __.—__ 
 
                 The bank buys or sells securities for investment purposes—
 
@@ -237,7 +237,7 @@
 
                     (II) for accounts for which the bank acts as a trustee or fiduciary.
 
-                (iii) __Asset-backed transactions.—__ 
+                (iii)  __Asset-backed transactions__  __.—__ 
 
                 The bank engages in the issuance or sale to qualified investors, through a grantor trust or other separate entity, of securities backed by or representing an interest in notes, drafts, acceptances, loans, leases, receivables, other obligations (other than securities of which the bank is not the issuer), or pools of any such obligations predominantly originated by—
 
@@ -247,7 +247,7 @@
 
                     (III) a syndicate of banks of which the bank is a member, if the obligations or pool of obligations consists of mortgage obligations or consumer-related receivables.
 
-                (iv) __Identified banking products.—__ 
+                (iv)  __Identified banking products__  __.—__ 
 
                 The bank buys or sells identified banking products, as defined in section 206 of the Gramm-Leach-Bliley Act.
 
@@ -599,7 +599,7 @@
 
         (54) __Qualified investor.—__ 
 
-            (A) __Definition.—__ 
+            (A)  __Definition__  __.—__ 
 
             Except as provided in subparagraph (B), for purposes of this chapter, the term “qualified investor” means—
 
@@ -631,11 +631,11 @@
 
                 (xiv) any multinational or supranational entity or any agency or instrumentality thereof.
 
-            (B) __Altered thresholds for asset-backed securities and loan participations.—__ 
+            (B)  __Altered thresholds for asset-backed securities and loan participations__  __.—__ 
 
             For purposes of subsection (a)(5)(C)(iii) of this section and section 206(a)(5) of the Gramm-Leach-Bliley Act, the term “qualified investor” has the meaning given such term by subparagraph (A) of this paragraph except that clauses (xi) and (xii) shall be applied by substituting “$10,000,000” for “$25,000,000”.
 
-            (C) __Additional authority.—__ 
+            (C)  __Additional authority__  __.—__ 
 
             The Commission may, by rule or order, define a “qualified investor” as any other person, taking into consideration such factors as the financial sophistication of the person, net worth, and knowledge and experience in financial matters.
 
@@ -719,7 +719,7 @@
 
             (C) The terms “higher margin level” and “higher level of margin”, when used with respect to a security futures product, mean a margin level established by a national securities exchange registered pursuant to [section 78f(g) of this title][/us/usc/t15/s78f/g] that is higher than the minimum amount established and in effect pursuant to [section 78g(c)(2)(B) of this title][/us/usc/t15/s78g/c/2/B].
 
-        (58) __Audit committee.—__ 
+        (58)  __Audit committee__  __.—__ 
 
         The term “audit committee” means—
 
@@ -727,15 +727,15 @@
 
             (B) if no such committee exists with respect to an issuer, the entire board of directors of the issuer.
 
-        (59) __Registered public accounting firm.—__ 
+        (59)  __Registered public accounting firm__  __.—__ 
 
         The term “registered public accounting firm” has the same meaning as in section 2 of the Sarbanes-Oxley Act of 2002 \[[15 U.S.C. 7201][/us/usc/t15/s7201]\].
 
-        (60) __Credit rating.—__ 
+        (60)  __Credit rating__  __.—__ 
 
         The term “credit rating” means an assessment of the creditworthiness of an obligor as an entity or with respect to specific securities or money market instruments.
 
-        (61) __Credit rating agency.—__ 
+        (61)  __Credit rating agency__  __.—__ 
 
         The term “credit rating agency” means any person—
 
@@ -745,7 +745,7 @@
 
             (C) receiving fees from either issuers, investors, or other market participants, or a combination thereof.
 
-        (62) __Nationally recognized statistical rating organization.—__ 
+        (62)  __Nationally recognized statistical rating organization__  __.—__ 
 
         The term “nationally recognized statistical rating organization” means a credit rating agency that—
 
@@ -767,25 +767,25 @@
 
             (B) is registered under section 78o–7 of this title.
 
-        (63) __Person associated with a nationally recognized statistical rating organization.—__ 
+        (63)  __Person associated with a nationally recognized statistical rating organization__  __.—__ 
 
         The term “person associated with” a nationally recognized statistical rating organization means any partner, officer, director, or branch manager of a nationally recognized statistical rating organization (or any person occupying a similar status or performing similar functions), any person directly or indirectly controlling, controlled by, or under common control with a nationally recognized statistical rating organization, or any employee of a nationally recognized statistical rating organization.
 
-        (64) __Qualified institutional buyer.—__ 
+        (64)  __Qualified institutional buyer__  __.—__ 
 
         The term “qualified institutional buyer” has the meaning given such term in section 230.144A(a) of title 17, Code of Federal Regulations, or any successor thereto.
 
-        (65) __Eligible contract participant.—__ 
+        (65)  __Eligible contract participant__  __.—__ 
 
         The term “eligible contract participant” has the same meaning as in section 1a of the Commodity Exchange Act ([7 U.S.C. 1a][/us/usc/t7/s1a]).
 
-        (66) __Major swap participant.—__ 
+        (66)  __Major swap participant__  __.—__ 
 
         The term “major swap participant” has the same meaning as in section 1a of the Commodity Exchange Act ([7 U.S.C. 1a][/us/usc/t7/s1a]).
 
         (67) __Major security-based swap participant.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The term “major security-based swap participant” means any person—
 
@@ -805,17 +805,17 @@
 
                         (bb) maintains a substantial position in outstanding security-based swaps in any major security-based swap category, as such categories are determined by the Commission.
 
-            (B) __Definition of substantial position.—__ 
+            (B)  __Definition of substantial position__  __.—__ 
 
             For purposes of subparagraph (A), the Commission shall define, by rule or regulation, the term “substantial position” at the threshold that the Commission determines to be prudent for the effective monitoring, management, and oversight of entities that are systemically important or can significantly impact the financial system of the United States. In setting the definition under this subparagraph, the Commission shall consider the person’s relative position in uncleared as opposed to cleared security-based swaps and may take into consideration the value and quality of collateral held against counterparty exposures.
 
-            (C) __Scope of designation.—__ 
+            (C)  __Scope of designation__  __.—__ 
 
             For purposes of subparagraph (A), a person may be designated as a major security-based swap participant for 1 or more categories of security-based swaps without being classified as a major security-based swap participant for all classes of security-based swaps.
 
         (68) __Security-based swap.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided in subparagraph (B), the term “security-based swap” means any agreement, contract, or transaction that—
 
@@ -831,29 +831,29 @@
 
                     (III) the occurrence, nonoccurrence, or extent of the occurrence of an event relating to a single issuer of a security or the issuers of securities in a narrow-based security index, provided that such event directly affects the financial statements, financial condition, or financial obligations of the issuer.
 
-            (B) __Rule of construction regarding master agreements.—__ 
+            (B)  __Rule of construction regarding master agreements__  __.—__ 
 
             The term “security-based swap” shall be construed to include a master agreement that provides for an agreement, contract, or transaction that is a security-based swap pursuant to subparagraph (A), together with all supplements to any such master agreement, without regard to whether the master agreement contains an agreement, contract, or transaction that is not a security-based swap pursuant to subparagraph (A), except that the master agreement shall be considered to be a security-based swap only with respect to each agreement, contract, or transaction under the master agreement that is a security-based swap pursuant to subparagraph (A).
 
-            (C) __Exclusions.—__ 
+            (C)  __Exclusions__  __.—__ 
 
             The term “security-based swap” does not include any agreement, contract, or transaction that meets the definition of a security-based swap only because such agreement, contract, or transaction references, is based upon, or settles through the transfer, delivery, or receipt of an exempted security under paragraph (12), as in effect on January 11, 1983 (other than any municipal security as defined in paragraph (29) as in effect on January 11, 1983), unless such agreement, contract, or transaction is of the character of, or is commonly known in the trade as, a put, call, or other option.
 
-            (D) __Mixed swap.—__ 
+            (D)  __Mixed swap__  __.—__ 
 
             The term “security-based swap” includes any agreement, contract, or transaction that is as described in subparagraph (A) and also is based on the value of 1 or more interest or other rates, currencies, commodities, instruments of indebtedness, indices, quantitative measures, other financial or economic interest or property of any kind (other than a single security or a narrow-based security index), or the occurrence, non-occurrence, or the extent of the occurrence of an event or contingency associated with a potential financial, economic, or commercial consequence (other than an event described in subparagraph (A)(ii)(III)).
 
-            (E) __Rule of construction regarding use of the term index.—__ 
+            (E)  __Rule of construction regarding use of the term index__  __.—__ 
 
             The term “index” means an index or group of securities, including any interest therein or based on the value thereof.
 
-        (69) __Swap.—__ 
+        (69)  __Swap__  __.—__ 
 
         The term “swap” has the same meaning as in section 1a of the Commodity Exchange Act ([7 U.S.C. 1a][/us/usc/t7/s1a]).
 
         (70) __Person associated with a security-based swap dealer or major security-based swap participant.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The term “person associated with a security-based swap dealer or major security-based swap participant” or “associated person of a security-based swap dealer or major security-based swap participant” means—
 
@@ -863,13 +863,13 @@
 
                 (iii) any employee of such security-based swap dealer or major security-based swap participant.
 
-            (B) __Exclusion.—__ 
+            (B)  __Exclusion__  __.—__ 
 
             Other than for purposes of section 78o–10(l)(2) of this title, the term “person associated with a security-based swap dealer or major security-based swap participant” or “associated person of a security-based swap dealer or major security-based swap participant” does not include any person associated with a security-based swap dealer or major security-based swap participant whose functions are solely clerical or ministerial.
 
         (71) __Security-based swap dealer.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The term “security-based swap dealer” means any person who—
 
@@ -881,39 +881,39 @@
 
                 (iv) engages in any activity causing it to be commonly known in the trade as a dealer or market maker in security-based swaps.
 
-            (B) __Designation by type or class.—__ 
+            (B)  __Designation by type or class__  __.—__ 
 
             A person may be designated as a security-based swap dealer for a single type or single class or category of security-based swap or activities and considered not to be a security-based swap dealer for other types, classes, or categories of security-based swaps or activities.
 
-            (C) __Exception.—__ 
+            (C)  __Exception__  __.—__ 
 
             The term “security-based swap dealer” does not include a person that enters into security-based swaps for such person’s own account, either individually or in a fiduciary capacity, but not as a part of regular business.
 
-            (D) __De minimis exception.—__ 
+            (D)  __De minimis exception__  __.—__ 
 
             The Commission shall exempt from designation as a security-based swap dealer an entity that engages in a de minimis quantity of security-based swap dealing in connection with transactions with or on behalf of its customers. The Commission shall promulgate regulations to establish factors with respect to the making of any determination to exempt.
 
-        (72) __Appropriate federal banking agency.—__ 
+        (72)  __Appropriate federal banking agency__  __.—__ 
 
         The term “appropriate Federal banking agency” has the same meaning as in section 3(q) of the Federal Deposit Insurance Act ([12 U.S.C. 1813(q)][/us/usc/t12/s1813/q]).
 
-        (73) __Board.—__ 
+        (73)  __Board__  __.—__ 
 
         The term “Board” means the Board of Governors of the Federal Reserve System.
 
-        (74) __Prudential regulator.—__ 
+        (74)  __Prudential regulator__  __.—__ 
 
         The term “prudential regulator” has the same meaning as in section 1a of the Commodity Exchange Act ([7 U.S.C. 1a][/us/usc/t7/s1a]).
 
-        (75) __Security-based swap data repository.—__ 
+        (75)  __Security-based swap data repository__  __.—__ 
 
         The term “security-based swap data repository” means any person that collects and maintains information or records with respect to transactions or positions in, or the terms and conditions of, security-based swaps entered into by third parties for the purpose of providing a centralized recordkeeping facility for security-based swaps.
 
-        (76) __Swap dealer.—__ 
+        (76)  __Swap dealer__  __.—__ 
 
         The term “swap dealer” has the same meaning as in section 1a of the Commodity Exchange Act ([7 U.S.C. 1a][/us/usc/t7/s1a]).
 
-        (77) __Security-based swap execution facility.—__ 
+        (77)  __Security-based swap execution facility__  __.—__ 
 
         The term “security-based swap execution facility” means a trading system or platform in which multiple participants have the ability to execute or trade security-based swaps by accepting bids and offers made by multiple participants in the facility or system, through any means of interstate commerce, including any trading facility, that—
 
@@ -923,15 +923,15 @@
 
         (78) __Security-based swap agreement.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             For purposes of sections 78i, 78j, 78p, 78t, and 78u–1 of this title, and section 17 of the Securities Act of 1933 ([15 U.S.C. 77q][/us/usc/t15/s77q]), the term “security-based swap agreement” means a swap agreement as defined in section 206A of the Gramm-Leach-Bliley Act ([15 U.S.C. 78c][/us/usc/t15/s78c] note) of which a material term is based on the price, yield, value, or volatility of any security or any group or index of securities, or any interest therein.
 
-            (B) __Exclusions.—__ 
+            (B)  __Exclusions__  __.—__ 
 
             The term “security-based swap agreement” does not include any security-based swap.
 
-        (79) __Asset-backed security.—__ 
+        (79)  __Asset-backed security__  __.—__ 
 
         The term “asset-backed security”—
 
@@ -953,7 +953,7 @@
 
             (B) does not include a security issued by a finance subsidiary held by the parent company or a company controlled by the parent company, if none of the securities issued by the finance subsidiary are held by an entity that is not controlled by the parent company.
 
-        (80)  __ <sup>\[__  __7__  __\]</sup> __  __ <sup><sup> __  __7__  __ So in original. Two pars. (80) have been enacted.__  __ </sup></sup> __  __Emerging growth company.—__ 
+        (80)  __ <sup>\[__  __7__  __\]</sup> __  __ <sup><sup> __  __7__  __ So in original. Two pars. (80) have been enacted.__  __ </sup></sup> __   __Emerging growth company__  __.—__ 
 
         The term “emerging growth company” means an issuer that had total annual gross revenues of less than $1,000,000,000 (as such amount is indexed for inflation every 5 years by the Commission to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, setting the threshold to the nearest 1,000,000) during its most recently completed fiscal year. An issuer that is an emerging growth company as of the first day of that fiscal year shall continue to be deemed an emerging growth company until the earliest of—
 
@@ -965,7 +965,7 @@
 
             (D) the date on which such issuer is deemed to be a “large accelerated filer”, as defined in section 240.12b–2 of title 17, Code of Federal Regulations, or any successor thereto.
 
-        (80)  __7__  __Funding portal.—__ 
+        (80)  __7__   __Funding portal__  __.—__ 
 
         The term “funding portal” means any person acting as an intermediary in a transaction involving the offer or sale of securities for the account of others, solely pursuant to section 4(6) 1 of the Securities Act of 1933 ([15 U.S.C. 77d(6)][/us/usc/t15/s77d/6]), that does not—
 
@@ -1463,19 +1463,19 @@
 
 [Pub. L. 109–351, title I, § 101(a)(2)][/us/pl/109/351/s101/a/2]–(c), Oct. 13, 2006, [120 Stat. 1968][/us/stat/120/1968], provided that:
 
->     “(2) __Timing.—__ 
+>     “(2)  __Timing__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Oct. 13, 2006\], the Securities and Exchange Commission (in this section \[enacting this note and amending [15 U.S.C. 78c][/us/usc/t15/s78c]\] referred to as the ‘Commission’) and the Board of Governors of the Federal Reserve System (hereafter in this section referred to as the ‘Board’) shall jointly issue a proposed single set of rules or regulations to define the term ‘broker’ in accordance with section 3(a)(4) of the Securities Exchange Act of 1934 \[[15 U.S.C. 78c(a)(4)][/us/usc/t15/s78c/a/4]\], as amended by this subsection.
 
->     “(3) __Rulemaking supersedes previous rulemaking.—__ 
+>     “(3)  __Rulemaking supersedes previous rulemaking__  __.—__ 
 
 >     A final single set of rules or regulations jointly adopted in accordance with this section shall supersede any other proposed or final rule issued by the Commission on or after the date of enactment of section 201 of the Gramm-Leach-Bliley Act \[Nov. 12, 1999\] with regard to the exceptions to the definition of a broker under section 3(a)(4)(B) of the Securities Exchange Act of 1934. No such other rule, whether or not issued in final form, shall have any force or effect on or after that date of enactment.
 
->         “(b) __Consultation.—__ 
+>         “(b)  __Consultation__  __.—__ 
 
 >         Prior to jointly adopting the single set of final rules or regulations required by this section, the Commission and the Board shall consult with and seek the concurrence of the Federal banking agencies concerning the content of such rulemaking in implementing section 3(a)(4)(B) of the Securities Exchange Act of 1934 \[[15 U.S.C. 78c(a)(4)(B)][/us/usc/t15/s78c/a/4/B]\], as amended by this section and section 201 of the Gramm-Leach-Bliley Act \[[Pub. L. 106–102][/us/pl/106/102]\].
 
->         “(c) __Definition.—__ 
+>         “(c)  __Definition__  __.—__ 
 
 >         For purposes of this section, the term ‘Federal banking agencies’ means the Office of the Comptroller of the Currency, the Office of Thrift Supervision, and the Federal Deposit Insurance Corporation.”
 
@@ -1497,11 +1497,11 @@
 
 [Pub. L. 112–106, title I, § 107][/us/pl/112/106/s107], Apr. 5, 2012, [126 Stat. 312][/us/stat/126/312], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     With respect to an exemption provided to emerging growth companies under this title \[amending this section and sections 77b, 77e to 77g, 78k–1, 78m, 78n, 78n–1, 78o–6, 7213, and 7262 of this title, enacting provisions set out as notes under this section and sections 77b, 77g, and 78o–6 of this title, and amending provisions set out as a note under section 78l of this title\], or an amendment made by this title, an emerging growth company may choose to forgo such exemption and instead comply with the requirements that apply to an issuer that is not an emerging growth company.
 
->     “(b) __Special Rule.—__ 
+>     “(b)  __Special Rule__  __.—__ 
 
 >     Notwithstanding subsection (a), with respect to the extension of time to comply with new or revised financial accounting standards provided under section 7(a)(2)(B) of the Securities Act of 1933 \[[15 U.S.C. 77g(a)(2)(B)][/us/usc/t15/s77g/a/2/B]\] and section 13(a) of the Securities Exchange Act of 1934 \[[15 U.S.C. 78m(a)][/us/usc/t15/s78m/a]\], as added by section 102(b), if an emerging growth company chooses to comply with such standards to the same extent that a non-emerging growth company is required to comply with such standards, the emerging growth company—
 
@@ -1523,11 +1523,11 @@
 
 > “As used in this title \[amending this section and sections 77b, 77e to 77g, 78k–1, 78m, 78n, 78n–1, 78o–6, 7213, and 7262 of this title, enacting provisions set out as notes under this section and sections 77b, 77g, and 78o–6 of this title, and amending provisions set out as a note under section 78l of this title\], the following definitions shall apply:
 
->     “(1) __Commission.—__ 
+>     “(1)  __Commission__  __.—__ 
 
 >     The term ‘Commission’ means the Securities and Exchange Commission.
 
->     “(2) __Initial public offering date.—__ 
+>     “(2)  __Initial public offering date__  __.—__ 
 
 >     The term ‘initial public offering date’ means the date of the first sale of common equity securities of an issuer pursuant to an effective registration statement under the Securities Act of 1933 \[[15 U.S.C. 77a][/us/usc/t15/s77a] et seq.\].”
 
@@ -1537,7 +1537,7 @@
 
 [Pub. L. 106–102, title II, § 206][/us/pl/106/102/s206], Nov. 12, 1999, [113 Stat. 1393][/us/stat/113/1393], as amended by [Pub. L. 111–203, title VII, § 742(b)][/us/pl/111/203/s742/b], July 21, 2010, [124 Stat. 1733][/us/stat/124/1733], provided that:
 
->     “(a) __Definition of Identified Banking Product.—__ 
+>     “(a)  __Definition of Identified Banking Product__  __.—__ 
 
 >     Except as provided in subsection (e) \[sic\], for purposes of paragraphs (4) and (5) of section 3(a) of the Securities Exchange Act of 1934 ([15 U.S.C. 78c(a)(4)][/us/usc/t15/s78c/a/4], (5)), the term ‘identified banking product’ means—
 
@@ -1565,15 +1565,15 @@
 
 >         “(6) any swap agreement, including credit and equity swaps, except that an equity swap that is sold directly to any person other than a qualified investor (as defined in section 3(a)(54) of the Securities Act of 1934 \[[15 U.S.C. 78c(a)(54)][/us/usc/t15/s78c/a/54]\]) shall not be treated as an identified banking product.
 
->     “(b) __Definition of Swap Agreement.—__ 
+>     “(b)  __Definition of Swap Agreement__  __.—__ 
 
 >     For purposes of subsection (a)(6), the term ‘swap agreement’ means any individually negotiated contract, agreement, warrant, note, or option that is based, in whole or in part, on the value of, any interest in, or any quantitative measure or the occurrence of any event relating to, one or more commodities, securities, currencies, interest or other rates, indices, or other assets, but does not include any other identified banking product, as defined in paragraphs (1) through (5) of subsection (a).
 
->     “(c) __Classification Limited.—__ 
+>     “(c)  __Classification Limited__  __.—__ 
 
 >     Classification of a particular product as an identified banking product pursuant to this section shall not be construed as finding or implying that such product is or is not a security for any purpose under the securities laws, or is or is not an account, agreement, contract, or transaction for any purpose under the Commodity Exchange Act \[[7 U.S.C. 1][/us/usc/t7/s1] et seq.\].
 
->     “(d) __Incorporated Definitions.—__ 
+>     “(d)  __Incorporated Definitions__  __.—__ 
 
 >     For purposes of this section, the terms ‘bank’ and ‘qualified investor’ have the same meanings as given in section 3(a) of the Securities Exchange Act of 1934 \[[15 U.S.C. 78c(a)][/us/usc/t15/s78c/a]\], as amended by this Act.”
 
@@ -1581,7 +1581,7 @@
 
 > “SEC. 206A. __SWAP AGREEMENT.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), as used in this section, the term ‘swap agreement’ means any agreement, contract, or transaction that—
 
@@ -1595,7 +1595,7 @@
 
 >         “(5) is any combination or permutation of, or option on, any agreement, contract, or transaction described in any of paragraphs (1) through (4).
 
->     “(b) __Exclusions.—__ 
+>     “(b)  __Exclusions__  __.—__ 
 
 >     The term ‘swap agreement’ does not include—
 
@@ -1617,7 +1617,7 @@
 
 >             “(B) entered into directly or through an underwriter (as defined in section 2(a) of the Securities Act of 1933 \[[15 U.S.C. 77b(a)][/us/usc/t15/s77b/a]\]) by the issuer of such security for the purposes of raising capital, unless such agreement, contract, or transaction is entered into to manage a risk associated with capital raising.
 
->     “(c) __Rule of Construction Regarding Master Agreements.—__ 
+>     “(c)  __Rule of Construction Regarding Master Agreements__  __.—__ 
 
 >     As used in this section, the term ‘swap agreement’ shall be construed to include a master agreement that provides for an agreement, contract, or transaction that is a swap agreement pursuant to subsections (a) and (b), together with all supplements to any such master agreement, without regard to whether the master agreement contains an agreement, contract, or transaction that is not a swap agreement pursuant to subsections (a) and (b), except that the master agreement shall be considered to be a swap agreement only with respect to each agreement, contract, or transaction under the master agreement that is a swap agreement pursuant to subsections (a) and (b).”
 

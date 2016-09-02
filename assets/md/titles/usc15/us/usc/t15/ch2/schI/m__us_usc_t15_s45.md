@@ -237,23 +237,23 @@
 
 [Pub. L. 103–312, § 15][/us/pl/103/312/s15], Aug. 26, 1994, [108 Stat. 1697][/us/stat/108/1697], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsections (b), (c), (d), and (e), the provisions of this Act \[enacting [section 57b–5 of this title][/us/usc/t15/s57b–5], amending this section and sections 53, 57a, 57b–1, 57b–2, 57c, and 58 of this title, and enacting provisions set out as notes under sections 57c and 58 of this title\] shall take effect on the date of enactment of this Act \[Aug. 26, 1994\].
 
->     “(b) __Applicability of Section 5.—__ 
+>     “(b)  __Applicability of Section__  __5.—__ 
 
 >     The amendment made by section 5 of this Act \[amending [section 57a of this title][/us/usc/t15/s57a]\] shall apply only to rulemaking proceedings initiated after the date of enactment of this Act. Such amendment shall not be construed to affect in any manner a rulemaking proceeding which was initiated before the date of enactment of this Act \[Aug. 26, 1994\].
 
->     “(c) __Applicability of Section 6.—__ 
+>     “(c)  __Applicability of Section__  __6.—__ 
 
 >     The amendments made by section 6 of this Act \[amending this section\] shall apply only with respect to cease and desist orders issued under section 5 of the Federal Trade Commission Act ([15 U.S.C. 45][/us/usc/t15/s45]) after the date of enactment of this Act \[Aug. 26, 1994\]. These amendments shall not be construed to affect in any manner a cease and desist order which was issued before the date of enactment of this Act.
 
->     “(d) __Applicability of Sections 7 and 8.—__ 
+>     “(d)  __Applicability of Sections__  __7__  __and__  __8.—__ 
 
 >     The amendments made by sections 7 and 8 of this Act \[amending sections 57b–1 and 57b–2 of this title\] shall apply only with respect to compulsory process issued after the date of enactment of this Act \[Aug. 26, 1994\].
 
->     “(e) __Applicability of Section 9.—__ 
+>     “(e)  __Applicability of Section__  __9.—__ 
 
 >     The amendments made by section 9 of this Act \[amending this section\] shall apply only with respect to cease and desist orders issued under section 5 of the Federal Trade Commission Act ([15 U.S.C. 45][/us/usc/t15/s45]), or to rules promulgated under section 18 of the Federal Trade Commission Act ([15 U.S.C. 57a][/us/usc/t15/s57a]) after the date of enactment of this Act \[Aug. 26, 1994\]. These amendments shall not be construed to affect in any manner a cease and desist order which was issued, or a rule which was promulgated, before the date of enactment of this Act. These amendments shall not be construed to affect in any manner a cease and desist order issued after the date of enactment of this Act, if such order was issued pursuant to remand from a court of appeals or the Supreme Court of an order issued by the Federal Trade Commission before the date of enactment of this Act.”
 

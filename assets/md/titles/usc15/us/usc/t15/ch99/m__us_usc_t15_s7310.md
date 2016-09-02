@@ -35,6 +35,8 @@
 
  __References in Text__ 
 
+    This chapter, referred to in subsec. (a), was in the original “this Act”, meaning [Pub. L. 107–231][/us/pl/107/231], Oct. 1, 2002, [116 Stat. 1471][/us/stat/116/1471], known as the National Construction Safety Team Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7301 of this title][/us/usc/t15/s7301] and Tables.
+
     Section 14 of the Federal Advisory Committee Act, referred to in subsec. (c), is [section 14 of Pub. L. 92–463][/us/pl/92/463/s14], which is set out in the Appendix to Title 5, Government Organization and Employees.
 
  __Change of Name__ 
@@ -52,6 +54,9 @@
 [/us/usc/t15/s7307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7307
 [/us/pl/107/231/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231%2Fs11
 [/us/stat/116/1476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1476
+[/us/pl/107/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231
+[/us/stat/116/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1471
+[/us/usc/t15/s7301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7301
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 
 

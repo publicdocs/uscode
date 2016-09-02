@@ -85,11 +85,11 @@
 
 [Pub. L. 106–534, § 3][/us/pl/106/534/s3], Nov. 22, 2000, [114 Stat. 2556][/us/stat/114/2556], provided that:
 
->     “(a) __Authorization of Appropriations.—__ 
+>     “(a)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to the Attorney General $1,000,000 for each of the fiscal years 2001 through 2005 for programs for the National Association of TRIAD.
 
->     “(b) __Comptroller General.—__ 
+>     “(b)  __Comptroller General__  __.—__ 
 
 >     The Comptroller General of the United States shall submit to Congress a report on the effectiveness of the TRIAD program 180 days prior to the expiration of the authorization under this Act \[see Short Title of 2000 Amendment note above\], including an analysis of TRIAD programs and activities; identification of impediments to the establishment of TRIADs across the Nation; and recommendations to improve the effectiveness of the TRIAD program.”
 
@@ -97,11 +97,11 @@
 
 [Pub. L. 106–534, § 4][/us/pl/106/534/s4], Nov. 22, 2000, [114 Stat. 2556][/us/stat/114/2556], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Health and Human Services, acting through the Assistant Secretary of Health and Human Services for Aging, shall provide to the Attorney General of each State and publicly disseminate in each State, including dissemination to area agencies on aging, information designed to educate senior citizens and raise awareness about the dangers of fraud, including telemarketing and sweepstakes fraud.
 
->     “(b) __Information.—__ 
+>     “(b)  __Information__  __.—__ 
 
 >     In carrying out subsection (a), the Secretary shall—
 
@@ -119,7 +119,7 @@
 
 >         “(7) provide such other information as the Secretary considers necessary to protect senior citizens against fraudulent telemarketing and sweepstakes promotions.
 
->     “(c) __Means of Dissemination.—__ 
+>     “(c)  __Means of Dissemination__  __.—__ 
 
 >     The Secretary shall determine the means to disseminate information under this section. In making such determination, the Secretary shall consider—
 
@@ -133,7 +133,7 @@
 
 >         “(5) telephone outreach to individuals whose names appear on so-called ‘mooch lists’ confiscated from fraudulent marketers.
 
->     “(d) __Priority.—__ 
+>     “(d)  __Priority__  __.—__ 
 
 >     In disseminating information under this section, the Secretary shall give priority to areas with high incidents of fraud against senior citizens.”
 

@@ -105,31 +105,31 @@
 
 [Pub. L. 101–429, § 1(c)][/us/pl/101/429/s1/c], Oct. 15, 1990, [104 Stat. 931][/us/stat/104/931], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraphs (2) and (3), the amendments made by this Act \[enacting sections 77h–1, 78q–2, 78u–2, and 78u–3 of this title, amending this section and sections 77t, 78c, 78o, 78o–3, 78o–4, 78q–1, 78u, 78u–1, 78w, 78cc, 80a–9, 80a–41, 80b–3, 80b–9, and 80b–14 of this title, and enacting provisions set out as notes under sections 78a, 78o, and 78s of this title\] shall be effective upon enactment \[Oct. 15, 1990\].
 
 >     “(2) __Civil penalties.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         No civil penalty may be imposed pursuant to the amendments made by this Act on the basis of conduct occurring before the date of enactment of this Act \[Oct. 15, 1990\].
 
->         “(B) __Accounting and disgorgement.—__ 
+>         “(B)  __Accounting and disgorgement__  __.—__ 
 
 >         Subparagraph (A) shall not operate to preclude the Securities and Exchange Commission from ordering an accounting or disgorgement pursuant to the amendments made by this Act.
 
 >     “(3) __Special rules for title v.—__ 
 
->         “(A) __Sections 503 and 504.—__ 
+>         “(A)  __Sections 503 and 504__  __.—__ 
 
 >         Except as provided in subparagraph (C), sections 503 \[amending [section 78c of this title][/us/usc/t15/s78c]\] and 504 \[amending section 78o of this title and enacting provisions set out as a note under section 78o of this title\] shall be effective 12 months after the date of enactment of this Act \[Oct. 15, 1990\] or upon the issuance of final regulations initially implementing such section \[Such regulations were issued effective Apr. 28, 1992. See 57 F.R. 18004, 18037.\], whichever is earlier.
 
->         “(B) __Sections 505 and 508.—__ 
+>         “(B)  __Sections 505 and 508__  __.—__ 
 
 >         Except as provided in subparagraph (C), sections 505 \[amending section 78o of this title\] and 508 \[amending this section\] shall be effective 18 months after the date of enactment of this Act or upon the issuance of final regulations initially implementing such sections \[Such regulations were issued effective Apr. 28, 1992. See 57 F.R. 18004, 18037.\], whichever is earlier.
 
->         “(C) __Commencement of rulemaking.—__ 
+>         “(C)  __Commencement of rulemaking__  __.—__ 
 
 >         Not later than 180 days after the date of enactment of this Act, the Commission shall commence rulemaking proceedings to implement sections 503, 505, and 508.”
 

@@ -37,15 +37,15 @@
 
 [Pub. L. 100–42, § 2][/us/pl/100/42/s2], May 21, 1987, [101 Stat. 314][/us/stat/101/314], provided that:
 
->     “(a) __Repeal.—__ 
+>     “(a)  __Repeal__  __.—__ 
 
 >     Subject to subsections (b) and (c) of this section, title II of the Natural Gas Policy Act of 1978 ([15 U.S.C. 3341–334][/us/usc/t15/s3341–334]8) is repealed, and the items relating to title II are stricken from the table of contents of that Act.
 
->     “(b) __Limited Continuing Effect of Rules.—__ 
+>     “(b)  __Limited Continuing Effect of Rules__  __.—__ 
 
 >     A rule promulgated by the Federal Energy Regulatory Commission, under title II of the Natural Gas Policy Act of 1978 shall continue in effect only with respect to the flowthrough of costs incurred before the enactment of this section \[May 21, 1987\], including any surcharges based on such costs.
 
->     “(c) __Implementation.—__ 
+>     “(c)  __Implementation__  __.—__ 
 
 >     The Federal Energy Regulatory Commission may take appropriate action to implement this section.”
 

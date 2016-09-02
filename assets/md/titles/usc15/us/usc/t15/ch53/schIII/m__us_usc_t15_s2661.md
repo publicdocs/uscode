@@ -23,7 +23,7 @@
 
 [Pub. L. 100–628, title X, § 1091][/us/pl/100/628/s1091], Nov. 7, 1988, [102 Stat. 3283][/us/stat/102/3283], provided that:
 
->     “(a) __Purposes.—__ 
+>     “(a)  __Purposes__  __.—__ 
 
 >     The purposes of this section are—
 
@@ -33,7 +33,7 @@
 
 >     “(b) __Program.—__ 
 
->         “(1) __Applicability.—__ 
+>         “(1)  __Applicability__  __.—__ 
 
 >         The housing covered by this section is—
 
@@ -47,11 +47,11 @@
 
 >             “(E) housing assisted under section 221(d)(3) of the National Housing Act \[[12 U.S.C. 1715][/us/usc/t12/s1715]l(d)(3)\].
 
->         “(2) __In general.—__ 
+>         “(2)  __In general__  __.—__ 
 
 >         The Secretary of Housing and Urban Development shall develop and recommend to the Congress a policy for dealing with radon contamination that specifies programs for education, research, testing, and mitigation of radon hazards in housing covered by this section.
 
->         “(3) __Standards.—__ 
+>         “(3)  __Standards__  __.—__ 
 
 >         In developing the policy, the Secretary shall utilize any guidelines, information, or standards established by the Environmental Protection Agency for—
 
@@ -63,31 +63,31 @@
 
 >             “(D) identifying geographical areas that are likely to have elevated levels of radon.
 
->         “(4) __Coordination.—__ 
+>         “(4)  __Coordination__  __.—__ 
 
 >         In developing the policy, the Secretary shall coordinate the efforts of the Department of Housing and Urban Development with the Environmental Protection Agency, and other appropriate Federal agencies, and shall consult with State and local governments, the housing industry, consumer groups, health organizations, appropriate professional organizations, and other appropriate experts.
 
->         “(5) __Report.—__ 
+>         “(5)  __Report__  __.—__ 
 
 >         The Secretary shall submit a report to the Congress within 1 year after the date of the enactment of this Act \[Nov. 7, 1988\] that describes the Secretary’s recommended policy for dealing with radon contamination and the Secretary’s reasons for recommending such policy. The report shall include an estimate of the housing covered by this section that is likely to have hazardous levels of radon.
 
->     “(c) __Cooperation With Environmental Protection Agency.—__ 
+>     “(c)  __Cooperation With Environmental Protection Agency__  __.—__ 
 
 >     Within 6 months after the date of the enactment of this Act \[Nov. 7, 1988\], the Secretary and the Administrator of the Environmental Protection Agency shall enter into a memorandum of understanding describing the Secretary’s plan to assist the Administrator in carrying out the Environmental Protection Agency’s authority to assess the extent of radon contamination in the United States and assist in the development of measures to avoid and reduce radon contamination.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
->         “(1) __Administrator.—__ 
+>         “(1)  __Administrator__  __.—__ 
 
 >         The term ‘Administrator’ means the Administrator of the Environmental Protection Agency.
 
->         “(2) __Secretary.—__ 
+>         “(2)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of Housing and Urban Development.
 
->     “(e) __Authorization.—__ 
+>     “(e)  __Authorization__  __.—__ 
 
 >     Funds available for housing covered by this section shall be available to carry out this section with respect to such housing.”
 

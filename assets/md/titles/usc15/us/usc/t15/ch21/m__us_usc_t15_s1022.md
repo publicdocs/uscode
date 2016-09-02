@@ -73,7 +73,7 @@
 
  __Effective Date of 1946 Amendment__ 
 
-    Amendment by act Aug. 2, 1946, effective Aug. 2, 1946, see section 245 of that act, set out as a note under [section 72a of Title 2][/us/usc/t2/s72a], The Congress.
+    Amendment by act Aug. 2, 1946, effective Aug. 2, 1946, see section 245 of that act, set out as a note under [section 4301 of Title 2][/us/usc/t2/s4301], The Congress.
 
 ----------
 
@@ -113,6 +113,6 @@
 [/us/pl/96/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F10
 [/us/pl/95/523/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs103%2Fa
 [/us/pl/95/523/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs103%2Fb
-[/us/usc/t2/s72a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a
+[/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301
 
 
