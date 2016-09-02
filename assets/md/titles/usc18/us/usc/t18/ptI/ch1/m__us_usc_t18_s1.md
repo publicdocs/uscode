@@ -21,6 +21,12 @@
 
     Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see [section 235(a)(1) of Pub. L. 98–473][/us/pl/98/473/s235/a/1], set out as an Effective Date note under [section 3551 of this title][/us/usc/t18/s3551].
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–104, § 1][/us/pl/113/104/s1], May 20, 2014, [128 Stat. 1156][/us/stat/128/1156], provided that: 
+
+> “This Act \[amending [section 117 of this title][/us/usc/t18/s117]\] may be cited as the ‘Kilah Davenport Child Protection Act of 2013’.”
+
  __Short Title of 2013 Amendment__ 
 
 [Pub. L. 113–47, § 1][/us/pl/113/47/s1], Oct. 31, 2013, [127 Stat. 572][/us/stat/127/572], provided that: 
@@ -314,6 +320,9 @@
 [/us/stat/98/3138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3138
 [/us/pl/98/473/s235/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
+[/us/pl/113/104/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F104%2Fs1
+[/us/stat/128/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1156
+[/us/usc/t18/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs117
 [/us/pl/113/47/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F47%2Fs1
 [/us/stat/127/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F572
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
