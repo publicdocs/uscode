@@ -305,6 +305,14 @@ Part B—Additional Preparedness  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs765" data-uslm-ref="/us/usc/t6/s765">765.</a>  </td>
+
+    <td> Real property transactions.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 Part C—Miscellaneous Authorities  </td>

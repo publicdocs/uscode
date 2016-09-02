@@ -121,7 +121,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
     Sec. 23. \[Amended Ex. Ord. No. 12977, set out as a note under [section 121 of Title 40][/us/usc/t40/s121], Public Buildings, Property, and Works.\]
 
-    Sec. 24. \[Amended Ex. Ord. No. 12919, formerly set out as a note under [section 2153 of Title 50][/us/usc/t50/s2153], Appendix, War and National Defense.\]
+    Sec. 24. \[Amended Ex. Ord. No. 12919, formerly set out as a note under section 2153 of the former Appendix to Title 50, War and National Defense.\]
 
     Sec. 25. \[Amended Ex. Ord. No. 12906, set out as a note under [section 1457 of Title 43][/us/usc/t43/s1457], Public Lands.\]
 
@@ -183,19 +183,19 @@ Similar provisions were contained in the following prior appropriation acts:
 
     Sec. 53. \[Amended Ex. Ord. No. 12146, set out as a note under [section 509 of Title 28][/us/usc/t28/s509], Judiciary and Judicial Procedures.\]
 
-    Sec. 54. \[Amended Ex. Ord. No. 12002, set out as a note under [section 2403 of Title 50][/us/usc/t50/s2403], Appendix, War and National Defense.\]
+    Sec. 54. \[Amended Ex. Ord. No. 12002, set out as a note under [section 4603 of Title 50][/us/usc/t50/s4603], War and National Defense.\]
 
     Sec. 55. \[Amended Ex. Ord. No. 11965, set out as a note preceding [section 1121 of Title 10][/us/usc/t10/s1121], Armed Forces.\]
 
     Sec. 56. \[Amended Ex. Ord. No. 11926, set out as a note preceding [section 1121 of Title 10][/us/usc/t10/s1121], Armed Forces.\]
 
-    Sec. 57. \[Amended Ex. Ord. No. 11858, set out as a note under [section 2170 of Title 50][/us/usc/t50/s2170], Appendix, War and National Defense.\]
+    Sec. 57. \[Amended Ex. Ord. No. 11858, set out as a note under [section 4565 of Title 50][/us/usc/t50/s4565], War and National Defense.\]
 
     Sec. 58. \[Amended Ex. Ord. No. 11800, formerly set out as a note under [section 301a of Title 37][/us/usc/t37/s301a], Pay and Allowances of the Uniformed Services.\]
 
     Sec. 59. \[Amended Ex. Ord. No. 11645, set out as a note under [section 475 of Title 14][/us/usc/t14/s475], Coast Guard.\]
 
-    Sec. 60. \[Amended Ex. Ord. No. 11623, set out as a note under [section 460 of Title 50][/us/usc/t50/s460], Appendix, War and National Defense.\]
+    Sec. 60. \[Amended Ex. Ord. No. 11623, set out as a note under [section 3809 of Title 50][/us/usc/t50/s3809], War and National Defense.\]
 
     Sec. 61. \[Amended Ex. Ord. No. 11448, set out as a note preceding [section 1121 of Title 10][/us/usc/t10/s1121], Armed Forces.\]
 
@@ -235,7 +235,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
     Sec. 79. \[Amended Ex. Ord. No. 10448.\]
 
-    Sec. 80. \[Amended Ex. Ord. No. 10271, set out as a note under [section 471 of Title 50][/us/usc/t50/s471], Appendix, War and National Defense.\]
+    Sec. 80. \[Amended Ex. Ord. No. 10271, set out as a note under [section 3819 of Title 50][/us/usc/t50/s3819], War and National Defense.\]
 
     Sec. 81. \[Amended Ex. Ord. No. 10179.\]
 
@@ -370,7 +370,6 @@ Those elements of the Department of Homeland Security that are supervised by the
 [/us/usc/t10/s12304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12304
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t40/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs121
-[/us/usc/t50/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2153
 [/us/usc/t43/s1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1457
 [/us/usc/t15/s4727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4727
 [/us/usc/t15/s1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1023
@@ -400,13 +399,13 @@ Those elements of the Department of Homeland Security that are supervised by the
 [/us/usc/t42/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3501
 [/us/usc/t42/s5195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195
 [/us/usc/t28/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs509
-[/us/usc/t50/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2403
+[/us/usc/t50/s4603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4603
 [/us/usc/t10/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1121
 [/us/usc/t10/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1121
-[/us/usc/t50/s2170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2170
+[/us/usc/t50/s4565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4565
 [/us/usc/t37/s301a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs301a
 [/us/usc/t14/s475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs475
-[/us/usc/t50/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs460
+[/us/usc/t50/s3809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3809
 [/us/usc/t10/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1121
 [/us/usc/t5/s7342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7342
 [/us/usc/t10/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1124
@@ -419,7 +418,7 @@ Those elements of the Department of Homeland Security that are supervised by the
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t10/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs802
 [/us/usc/t10/s772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs772
-[/us/usc/t50/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs471
+[/us/usc/t50/s3819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3819
 [/us/usc/t37/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs418
 [/us/usc/t5/s4102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4102%2Fb%2F1
 [/us/usc/t6/s4118/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs4118%2Fa%2F8

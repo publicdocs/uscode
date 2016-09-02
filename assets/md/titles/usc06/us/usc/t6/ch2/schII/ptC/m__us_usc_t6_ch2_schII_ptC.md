@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t6/ch2/schII/ptB/m__us_usc_t6_s764.md) | [Next](./../../../../../..//us/usc/t6/ch2/schII/ptC/m__us_usc_t6_s771.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fch2%2FschII%2FptC)
+[Previous](./../../../../../..//us/usc/t6/ch2/schII/ptB/m__us_usc_t6_s765.md) | [Next](./../../../../../..//us/usc/t6/ch2/schII/ptC/m__us_usc_t6_s771.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fch2%2FschII%2FptC)
 
 #### Part C—Miscellaneous Authorities
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t6/ch2/schII/ptB/m__us_usc_t6_s764.md) | [Next](./../../../../../..//us/usc/t6/ch2/schII/ptC/m__us_usc_t6_s771.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fch2%2FschII%2FptC)
+[Previous](./../../../../../..//us/usc/t6/ch2/schII/ptB/m__us_usc_t6_s765.md) | [Next](./../../../../../..//us/usc/t6/ch2/schII/ptC/m__us_usc_t6_s771.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fch2%2FschII%2FptC)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t6/ch2/schII/ptB/m__us_usc_t6_s763a.md) | [Next](./../../../../../..//us/usc/t6/ch2/schII/ptC/m__us_usc_t6_ch2_schII_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs764)
+[Previous](./../../../../../..//us/usc/t6/ch2/schII/ptB/m__us_usc_t6_s763a.md) | [Next](./../../../../../..//us/usc/t6/ch2/schII/ptB/m__us_usc_t6_s765.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs764)
 
 ## § 764. National exercise simulation center
 
@@ -35,7 +35,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t6/ch2/schII/ptB/m__us_usc_t6_s763a.md) | [Next](./../../../../../..//us/usc/t6/ch2/schII/ptC/m__us_usc_t6_ch2_schII_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs764)
+[Previous](./../../../../../..//us/usc/t6/ch2/schII/ptB/m__us_usc_t6_s763a.md) | [Next](./../../../../../..//us/usc/t6/ch2/schII/ptB/m__us_usc_t6_s765.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs764)
 
 ----------
 ----------
