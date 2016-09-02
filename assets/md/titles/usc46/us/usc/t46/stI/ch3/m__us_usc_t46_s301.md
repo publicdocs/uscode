@@ -27,9 +27,23 @@
 
         (2)  __Terms__  __.—__ 
 
-        The term of each Commissioner is 5 years, with each term beginning one year apart. An individual appointed to fill a vacancy is appointed only for the unexpired term of the individual being succeeded. A vacancy shall be filled in the same manner as the original appointment. When the term of a Commissioner ends, the Commissioner may continue to serve until a successor is appointed and qualified.
+        The term of each Commissioner is 5 years. When the term of a Commissioner ends, the Commissioner may continue to serve until a successor is appointed and qualified, but for a period not to exceed one year. Except as provided in paragraph (3), no individual may serve more than 2 terms.
 
-        (3)  __Removal__  __.—__ 
+        (3)  __Vacancies__  __.—__ 
+
+        A vacancy shall be filled in the same manner as the original appointment. An individual appointed to fill a vacancy is appointed only for the unexpired term of the individual being succeeded. An individual appointed to fill a vacancy may serve 2 terms in addition to the remainder of the term for which the predecessor of that individual was appointed.
+
+        (4) __Conflicts of interest.—__ 
+
+            (A)  __Limitation on relationships with regulated entities__  __.—__ 
+
+            A Commissioner may not have a pecuniary interest in, hold an official relation to, or own stocks or bonds of any entity the Commission regulates under chapter 401 of this title.
+
+            (B)  __Limitation on other activities__  __.—__ 
+
+            A Commissioner may not engage in another business, vocation, or employment.
+
+        (5)  __Removal__  __.—__ 
 
         The President may remove a Commissioner for inefficiency, neglect of duty, or malfeasance in office.
 
@@ -71,7 +85,7 @@
 
     The Commission shall have a seal which shall be judicially recognized.
 
-([Pub. L. 109–304, § 4][/us/pl/109/304/s4], Oct. 6, 2006, [120 Stat. 1488][/us/stat/120/1488].)
+([Pub. L. 109–304, § 4][/us/pl/109/304/s4], Oct. 6, 2006, [120 Stat. 1488][/us/stat/120/1488]; [Pub. L. 113–281, title IV, § 403(a)][/us/pl/113/281/s403/a], Dec. 18, 2014, [128 Stat. 3056][/us/stat/128/3056].)
 
 <table>
 
@@ -213,6 +227,18 @@ June 29, 1936, ch. 858, title II, § 201(c) (related to seal), 49 Stat. 1986. 
 
     Subsection (c)(4) is based on section 3 of Reorganization Plan No. 6 of 1949.
 
+ __Amendments__ 
+
+    2014—Subsec. (b)(2). [Pub. L. 113–281, § 403(a)(1)][/us/pl/113/281/s403/a/1], amended par. (2) generally. Prior to amendment, text read as follows: “The term of each Commissioner is 5 years, with each term beginning one year apart. An individual appointed to fill a vacancy is appointed only for the unexpired term of the individual being succeeded. A vacancy shall be filled in the same manner as the original appointment. When the term of a Commissioner ends, the Commissioner may continue to serve until a successor is appointed and qualified.”
+
+    Subsec. (b)(3) to (5). [Pub. L. 113–281, § 403(a)(2)][/us/pl/113/281/s403/a/2], added pars. (3) and (4) and redesignated former par. (3) as (5).
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–281, title IV, § 403(b)][/us/pl/113/281/s403/b], Dec. 18, 2014, [128 Stat. 3056][/us/stat/128/3056], provided that: 
+
+> “The amendment made by subsection (a)(1) \[amending this section\] does not apply with respect to a Commissioner of the Federal Maritime Commission appointed and confirmed by the Senate before the date of the enactment of this Act \[Dec. 18, 2014\].”
+
 ----------
 
 [Previous](./../../../../..//us/usc/t46/stI/ch3/m__us_usc_t46_stI_ch3.md) | [Next](./../../../../..//us/usc/t46/stI/ch3/m__us_usc_t46_s302.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs301)
@@ -223,7 +249,13 @@ June 29, 1936, ch. 858, title II, § 201(c) (related to seal), 49 Stat. 1986. 
 [/us/usc/t46/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs304
 [/us/pl/109/304/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs4
 [/us/stat/120/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1488
+[/us/pl/113/281/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs403%2Fa
+[/us/stat/128/3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3056
 [/us/pl/89/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F56
 [/us/stat/79/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F195
+[/us/pl/113/281/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs403%2Fa%2F1
+[/us/pl/113/281/s403/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs403%2Fa%2F2
+[/us/pl/113/281/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs403%2Fb
+[/us/stat/128/3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3056
 
 

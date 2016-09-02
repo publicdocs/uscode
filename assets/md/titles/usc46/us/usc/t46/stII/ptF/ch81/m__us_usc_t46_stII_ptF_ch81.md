@@ -79,6 +79,14 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs8108" data-uslm-ref="/us/usc/t46/s8108">8108.</a>  </td>
+
+    <td> Merchant Marine Personnel Advisory Committee.  </td>
+
+  </tr>
+
 </table>
 
  __Historical and Revision Notes__ 
@@ -86,6 +94,8 @@
     Chapter 81 provides for the composition, citizenship, working hours, and other limitations affecting the complement of licensed individuals and crew on certain vessels, a safety watch onboard passenger vessels, membership in the Naval Reserve for certain deck and engineer officers, and penalties for violating, and regulatory authority for implementing its provisions.
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–281, title III, § 310(b)][/us/pl/113/281/s310/b], Dec. 18, 2014, [128 Stat. 3047][/us/stat/128/3047], added item 8108.
 
     2010—[Pub. L. 111–281, title IX][/us/pl/111/281], §§ 903(c)(1), 912(b), Oct. 15, 2010, [124 Stat. 3011][/us/stat/124/3011], 3017, inserted period at end of item 8106 and added item 8107.
 
@@ -104,6 +114,8 @@
 ----------
 ----------
 
+[/us/pl/113/281/s310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs310%2Fb
+[/us/stat/128/3047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3047
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/stat/124/3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3011
 [/us/pl/109/241/s312/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs312%2Fd

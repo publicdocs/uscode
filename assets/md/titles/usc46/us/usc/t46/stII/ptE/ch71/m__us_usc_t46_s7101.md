@@ -83,7 +83,15 @@
 
     (i) The Secretary shall require the testing of an individual who applies for issuance or renewal of a license or certificate of registry under this chapter for use of a dangerous drug in violation of law or Federal regulation.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 539][/us/stat/97/539]; [Pub. L. 98–557, § 29(a)][/us/pl/98/557/s29/a], Oct. 30, 1984, [98 Stat. 2873][/us/stat/98/2873]; [Pub. L. 101–380, title IV, § 4101(a)][/us/pl/101/380/s4101/a], Aug. 18, 1990, [104 Stat. 509][/us/stat/104/509]; [Pub. L. 104–324, title VII, § 720][/us/pl/104/324/s720], Oct. 19, 1996, [110 Stat. 3938][/us/stat/110/3938].)
+    (j)
+
+     The Secretary may issue a license under this section in a class under subsection (c) to an applicant that—
+
+        (1) has at least 3 months of qualifying service on vessels of the uniformed services (as that term is defined in [section 101(a) of title 10][/us/usc/t10/s101/a]) of appropriate tonnage or horsepower within the 7-year period immediately preceding the date of application; and
+
+        (2) satisfies all other requirements for such a license.
+
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 539][/us/stat/97/539]; [Pub. L. 98–557, § 29(a)][/us/pl/98/557/s29/a], Oct. 30, 1984, [98 Stat. 2873][/us/stat/98/2873]; [Pub. L. 101–380, title IV, § 4101(a)][/us/pl/101/380/s4101/a], Aug. 18, 1990, [104 Stat. 509][/us/stat/104/509]; [Pub. L. 104–324, title VII, § 720][/us/pl/104/324/s720], Oct. 19, 1996, [110 Stat. 3938][/us/stat/110/3938]; [Pub. L. 113–281, title III, § 305(a)][/us/pl/113/281/s305/a], Dec. 18, 2014, [128 Stat. 3043][/us/stat/128/3043].)
 
 <table>
 
@@ -259,6 +267,8 @@ Source section (U.S. Code)  </td>
 
  __Amendments__ 
 
+    2014—Subsec. (j). [Pub. L. 113–281][/us/pl/113/281] added subsec. (j).
+
     1996—Subsec. (e)(3). [Pub. L. 104–324][/us/pl/104/324] inserted “as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104]” after “1,600 gross tons”.
 
     1990—Subsecs. (g) to (i). [Pub. L. 101–380][/us/pl/101/380] added subsecs. (g) to (i).
@@ -286,6 +296,7 @@ Source section (U.S. Code)  </td>
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302
 [/us/usc/t46/s14104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14104
 [/us/usc/t23/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs401
+[/us/usc/t10/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F539
 [/us/pl/98/557/s29/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs29%2Fa
@@ -294,8 +305,11 @@ Source section (U.S. Code)  </td>
 [/us/stat/104/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F509
 [/us/pl/104/324/s720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs720
 [/us/stat/110/3938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3938
+[/us/pl/113/281/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs305%2Fa
+[/us/stat/128/3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3043
 [/us/pl/97/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F364
 [/us/usc/t23/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs401
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/usc/t46/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14502
 [/us/usc/t46/s14302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs14302

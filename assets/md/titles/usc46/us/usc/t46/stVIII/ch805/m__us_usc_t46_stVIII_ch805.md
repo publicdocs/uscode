@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t46/stVIII/ch803/m__us_usc_t46_s80303.md) | [Next](./../../../../..//us/usc/t46/stVIII/ch805/m__us_usc_t46_s80501.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2FstVIII%2Fch805)
+[Previous](./../../../../..//us/usc/t46/stVIII/ch803/m__us_usc_t46_s80304.md) | [Next](./../../../../..//us/usc/t46/stVIII/ch805/m__us_usc_t46_s80501.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2FstVIII%2Fch805)
 
 ### CHAPTER 805—SAFE CONTAINERS FOR INTERNATIONAL CARGO
 
@@ -99,7 +99,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t46/stVIII/ch803/m__us_usc_t46_s80303.md) | [Next](./../../../../..//us/usc/t46/stVIII/ch805/m__us_usc_t46_s80501.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2FstVIII%2Fch805)
+[Previous](./../../../../..//us/usc/t46/stVIII/ch803/m__us_usc_t46_s80304.md) | [Next](./../../../../..//us/usc/t46/stVIII/ch805/m__us_usc_t46_s80501.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2FstVIII%2Fch805)
 
 ----------
 ----------

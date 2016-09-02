@@ -71,6 +71,12 @@ Source section (U.S. Code)  </td>
 
     1984—Subsec. (a)(1). [Pub. L. 98–364][/us/pl/98/364] substituted “fishing, fish processing, fish tender vessels” for “decked fishing vessels”.
 
+ __Merchant Marine Post-Service Career Opportunities__ 
+
+[Pub. L. 113–281, title III, § 305(d)][/us/pl/113/281/s305/d], Dec. 18, 2014, [128 Stat. 3044][/us/stat/128/3044], provided that: 
+
+> “Not later than 180 days after the date of enactment of this Act \[Dec. 18, 2014\], the Commandant of the Coast Guard shall take steps to promote better awareness, on an ongoing basis, among Coast Guard personnel regarding post-service use of Coast Guard training, education, and practical experience in satisfaction of requirements for merchant mariner credentials under section 11.213 of title 46, Code of Federal Regulations.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t46/stII/ptE/ch73/m__us_usc_t46_stII_ptE_ch73.md) | [Next](./../../../../../..//us/usc/t46/stII/ptE/ch73/m__us_usc_t46_s7302.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs7301)
@@ -83,5 +89,7 @@ Source section (U.S. Code)  </td>
 [/us/pl/98/364/s402/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs402%2F9%2FB
 [/us/stat/98/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F448
 [/us/pl/98/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364
+[/us/pl/113/281/s305/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs305%2Fd
+[/us/stat/128/3044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3044
 
 

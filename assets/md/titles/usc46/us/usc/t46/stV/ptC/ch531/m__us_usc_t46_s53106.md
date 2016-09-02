@@ -55,7 +55,7 @@
 
             (B) 20 years of age, in the case of a tank vessel; or
 
-            (C) 30 years of age, in the case of a LASH vessel.
+            (C) 30 years of age, in the case of a lighter aboard ship vessel.
 
     (d)  __Reductions in Payments__  __.—__ 
 
@@ -82,10 +82,6 @@
         In this subsection the term “participates in a noncontiguous domestic trade” means directly or indirectly owns, charters, or operates a vessel engaged in transportation of cargo between a point in the contiguous 48 States and a point in Alaska, Hawaii, or Puerto Rico, other than a point in Alaska north of the Arctic Circle.
 
 (Added [Pub. L. 108–136, div. C, title XXXV, § 3531(a)][/us/pl/108/136/s3531/a], Nov. 24, 2003, [117 Stat. 1813][/us/stat/117/1813]; amended [Pub. L. 109–304, § 13(a)(5)][/us/pl/109/304/s13/a/5], Oct. 6, 2006, [120 Stat. 1701][/us/stat/120/1701]; [Pub. L. 109–364, div. C, title XXXV, § 3502(c)][/us/pl/109/364/s3502/c], Oct. 17, 2006, [120 Stat. 2516][/us/stat/120/2516]; [Pub. L. 111–383, div. C, title XXXV, § 3502(2)][/us/pl/111/383/s3502/2], Jan. 7, 2011, [124 Stat. 4518][/us/stat/124/4518]; [Pub. L. 112–239, div. C, title XXXV, § 3508(f)][/us/pl/112/239/s3508/f], Jan. 2, 2013, [126 Stat. 2225][/us/stat/126/2225].)
-
- __Amendment of Subsection (c)(3)(C)__ 
-
-    [Pub. L. 112–239, div. C, title XXXV, § 3508(f)(2)][/us/pl/112/239/s3508/f/2], (j)(2), Jan. 2, 2013, [126 Stat. 2225][/us/stat/126/2225], 2226, provided that, effective Dec. 31, 2014, subsection (c)(3)(C) of this section is amended by striking “a LASH vessel.” and inserting “a lighter aboard ship vessel.” See 2013 Amendment note below.
 
  __Amendments__ 
 
@@ -127,8 +123,6 @@
 [/us/pl/111/383/s3502/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs3502%2F2
 [/us/stat/124/4518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4518
 [/us/pl/112/239/s3508/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Ff
-[/us/stat/126/2225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2225
-[/us/pl/112/239/s3508/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Ff%2F2
 [/us/stat/126/2225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2225
 [/us/pl/112/239/s3508/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Ff%2F1
 [/us/pl/112/239/s3508/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Ff%2F2

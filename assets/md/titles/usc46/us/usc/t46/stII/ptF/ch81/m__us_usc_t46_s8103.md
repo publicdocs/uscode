@@ -317,7 +317,7 @@ Source section (U.S. Code)  </td>
 
  __Distant Water Tuna Fleet__ 
 
-[Pub. L. 109–241, title IV, § 421][/us/pl/109/241/s421], July 11, 2006, [120 Stat. 547][/us/stat/120/547], as amended by [Pub. L. 111–281, title IX, § 904][/us/pl/111/281/s904], Oct. 15, 2010, [124 Stat. 3011][/us/stat/124/3011]; [Pub. L. 112–213, title VII, § 701][/us/pl/112/213/s701], Dec. 20, 2012, [126 Stat. 1579][/us/stat/126/1579], provided that:
+[Pub. L. 109–241, title IV, § 421][/us/pl/109/241/s421], July 11, 2006, [120 Stat. 547][/us/stat/120/547], as amended by [Pub. L. 111–281, title IX, § 904][/us/pl/111/281/s904], Oct. 15, 2010, [124 Stat. 3011][/us/stat/124/3011]; [Pub. L. 112–213, title VII, § 701][/us/pl/112/213/s701], Dec. 20, 2012, [126 Stat. 1579][/us/stat/126/1579]; [Pub. L. 113–281, title VI, § 601][/us/pl/113/281/s601], Dec. 18, 2014, [128 Stat. 3060][/us/stat/128/3060], provided that:
 
 >     “(a)  __Manning Requirements__  __.—__ 
 
@@ -333,19 +333,11 @@ Source section (U.S. Code)  </td>
 
 >         An equivalent credential under paragraph (1) shall be considered as meeting the requirements of [section 8304 of title 46][/us/usc/t46/s8304], United States Code, but only while a person holding the credential is in the service of the vessel to which this section applies.
 
->     “(c)  __Limitation__  __.—__ 
-
->     Subsection (a) applies only to vessels operating in and out of American Samoa or Guam.
-
->     “(d)  __Expiration__  __.—__ 
+>     “(c)  __Expiration__  __.—__ 
 
 >     This section expires on the date the Treaty on Fisheries Between the Governments of Certain Pacific Island States and the Government of the United States of America ceases to have effect for any party under Article 12.6 or 12.7 of such treaty, as in effect on the date of enactment of the Coast Guard and Maritime Transportation Act of 2012 \[Dec. 20, 2012\].
 
->     “(e)  __Safety Inspections__  __.—__ 
-
->     A vessel may not engage a foreign citizen to meet a manning requirement under this section unless it has an annual safety examination by an individual authorized to enforce part B of subtitle II of title 46, United States Code.
-
->     “(f)  __Reports__  __.—__ 
+>     “(d)  __Reports__  __.—__ 
 
 >     On March 1, 2007, and annually thereafter until the date of expiration of this section, the Coast Guard and the National Marine Fisheries Service shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Resources \[now Natural Resources\] of the House of Representatives, providing the following information on the United States purse seine fleet referred to in subsection (a):
 
@@ -459,6 +451,8 @@ Source section (U.S. Code)  </td>
 [/us/stat/124/3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3011
 [/us/pl/112/213/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs701
 [/us/stat/126/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1579
+[/us/pl/113/281/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs601
+[/us/stat/128/3060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3060
 [/us/usc/t46/s8103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs8103%2Fa
 [/us/usc/t46/s8304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs8304
 [/us/pl/101/595/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs317

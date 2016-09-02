@@ -29,43 +29,11 @@
 
     (b)
 
-        (1) The Secretary shall establish a fee or charge as provided in paragraph (2) of this subsection, and collect it annually in fiscal years 1993 and 1994, from the owner or operator of each recreational vessel to which paragraph (2) of this subsection applies.
+        (1) In addition to the collection of fees and charges established under subsection (a), in providing a service or thing of value under this subtitle the Secretary may accept in-kind transportation, travel, and subsistence.
 
-        (2)
+        (2) The value of in-kind transportation, travel, and subsistence accepted under this paragraph may not exceed applicable per diem rates set forth in regulations prescribed under [section 464 of title 37][/us/usc/t37/s464].
 
-         The fee or charge established under paragraph (1) of this subsection is as follows:
-
-            (A)
-
-             in fiscal year 1993—
-
-                (i) for vessels of more than 21 feet in length but less than 27 feet, not more than $35;
-
-                (ii) for vessels of at least 27 feet in length but less than 40 feet, not more than $50; and
-
-                (iii) for vessels of at least 40 feet in length, not more than $100; and
-
-            (B)
-
-             in fiscal year 1994—
-
-                (i) for vessels of at least 37 feet in length but less than 40 feet, not more than $50; and
-
-                (ii) for vessels of at least 40 feet in length, not more than $100.
-
-        (3) The fee or charge established under this subsection applies only to vessels operated on the navigable waters of the United States where the Coast Guard has a presence.
-
-        (4)
-
-         The fee or charge established under this subsection does not apply to a—
-
-            (A) public vessel; or
-
-            (B) vessel deemed to be a public vessel under [section 827 of title 14][/us/usc/t14/s827].
-
-        (5) The Secretary shall provide to each person who pays a fee or charge under this subsection a separate document on which appears, in readily discernible print, only the following statement: “The fee for which this document was provided was established under the Omnibus Budget Reconciliation Act of 1990. Persons paying this fee can expect no increase in the quantity, quality, or variety of services the person receives from the Coast Guard as a result of that payment.”
-
-    (c) In addition to the collection of fees and charges established under subsections (a) and (b), the Secretary may recover appropriate collection and enforcement costs associated with delinquent payments of the fees and charges.
+    (c) In addition to the collection of fees and charges established under subsection (a), the Secretary may recover appropriate collection and enforcement costs associated with delinquent payments of the fees and charges.
 
     (d)
 
@@ -95,7 +63,7 @@
 
     (k) The Secretary may not plan, implement or finalize any regulation that would promulgate any new maritime user fee which was not implemented and collected prior to January 1, 1998, including a fee or charge for any domestic icebreaking service or any other navigational assistance service. This subsection expires on September 30, 2006.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 507][/us/stat/97/507]; [Pub. L. 99–509, title V, § 5102(b)(4)][/us/pl/99/509/s5102/b/4], Oct. 21, 1986, [100 Stat. 1927][/us/stat/100/1927]; [Pub. L. 100–710, title I, § 104(a)(3)][/us/pl/100/710/s104/a/3], Nov. 23, 1988, [102 Stat. 4749][/us/stat/102/4749]; [Pub. L. 101–508, title X, § 10401(a)][/us/pl/101/508/s10401/a], Nov. 5, 1990, [104 Stat. 1388–397][/us/stat/104/1388-397]; [Pub. L. 102–241, § 53][/us/pl/102/241/s53], Dec. 19, 1991, [105 Stat. 2232][/us/stat/105/2232]; [Pub. L. 102–582, title V, § 501(a)][/us/pl/102/582/s501/a], Nov. 2, 1992, [106 Stat. 4909][/us/stat/106/4909]; [Pub. L. 102–587, title V, § 5207][/us/pl/102/587/s5207], Nov. 4, 1992, [106 Stat. 5075][/us/stat/106/5075]; [Pub. L. 104–324, title XI, § 1112][/us/pl/104/324/s1112], Oct. 19, 1996, [110 Stat. 3970][/us/stat/110/3970]; [Pub. L. 105–383, title II, § 207][/us/pl/105/383/s207], Nov. 13, 1998, [112 Stat. 3416][/us/stat/112/3416]; [Pub. L. 107–295, title III, § 344][/us/pl/107/295/s344], Nov. 25, 2002, [116 Stat. 2106][/us/stat/116/2106]; [Pub. L. 109–304, § 15(6)][/us/pl/109/304/s15/6], Oct. 6, 2006, [120 Stat. 1702][/us/stat/120/1702].)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 507][/us/stat/97/507]; [Pub. L. 99–509, title V, § 5102(b)(4)][/us/pl/99/509/s5102/b/4], Oct. 21, 1986, [100 Stat. 1927][/us/stat/100/1927]; [Pub. L. 100–710, title I, § 104(a)(3)][/us/pl/100/710/s104/a/3], Nov. 23, 1988, [102 Stat. 4749][/us/stat/102/4749]; [Pub. L. 101–508, title X, § 10401(a)][/us/pl/101/508/s10401/a], Nov. 5, 1990, [104 Stat. 1388–397][/us/stat/104/1388-397]; [Pub. L. 102–241, § 53][/us/pl/102/241/s53], Dec. 19, 1991, [105 Stat. 2232][/us/stat/105/2232]; [Pub. L. 102–582, title V, § 501(a)][/us/pl/102/582/s501/a], Nov. 2, 1992, [106 Stat. 4909][/us/stat/106/4909]; [Pub. L. 102–587, title V, § 5207][/us/pl/102/587/s5207], Nov. 4, 1992, [106 Stat. 5075][/us/stat/106/5075]; [Pub. L. 104–324, title XI, § 1112][/us/pl/104/324/s1112], Oct. 19, 1996, [110 Stat. 3970][/us/stat/110/3970]; [Pub. L. 105–383, title II, § 207][/us/pl/105/383/s207], Nov. 13, 1998, [112 Stat. 3416][/us/stat/112/3416]; [Pub. L. 107–295, title III, § 344][/us/pl/107/295/s344], Nov. 25, 2002, [116 Stat. 2106][/us/stat/116/2106]; [Pub. L. 109–304, § 15(6)][/us/pl/109/304/s15/6], Oct. 6, 2006, [120 Stat. 1702][/us/stat/120/1702]; [Pub. L. 113–281, title III, § 311(a)][/us/pl/113/281/s311/a], Dec. 18, 2014, [128 Stat. 3047][/us/stat/128/3047].)
 
 <table>
 
@@ -142,6 +110,10 @@ Source section (U.S. Code)  </td>
     The Omnibus Budget Reconciliation Act of 1990, referred to in subsec. (b)(5), is [Pub. L. 101–508][/us/pl/101/508], Nov. 5, 1990, [104 Stat. 1388][/us/stat/104/1388]. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–281, § 311(a)(1)][/us/pl/113/281/s311/a/1], amended subsec. (b) generally. Prior to amendment, subsec. (b) related to fees and charges in fiscal years 1993 and 1994.
+
+    Subsec. (c). [Pub. L. 113–281, § 311(a)(2)][/us/pl/113/281/s311/a/2], substituted “subsection (a),” for “subsections (a) and (b),”.
 
     2006—Subsec. (a)(2). [Pub. L. 109–304, § 15(6)(A)][/us/pl/109/304/s15/6/A], substituted “part B of this subtitle” for “part B of this title”.
 
@@ -209,7 +181,7 @@ Source section (U.S. Code)  </td>
 ----------
 
 [/us/usc/t31/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9701
-[/us/usc/t14/s827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs827
+[/us/usc/t37/s464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs464
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F507
@@ -233,8 +205,12 @@ Source section (U.S. Code)  </td>
 [/us/stat/116/2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2106
 [/us/pl/109/304/s15/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F6
 [/us/stat/120/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1702
+[/us/pl/113/281/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs311%2Fa
+[/us/stat/128/3047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3047
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/stat/104/1388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388
+[/us/pl/113/281/s311/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs311%2Fa%2F1
+[/us/pl/113/281/s311/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs311%2Fa%2F2
 [/us/pl/109/304/s15/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F6%2FA
 [/us/pl/109/304/s15/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F6%2FB
 [/us/pl/109/304/s15/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs15%2F6%2FC

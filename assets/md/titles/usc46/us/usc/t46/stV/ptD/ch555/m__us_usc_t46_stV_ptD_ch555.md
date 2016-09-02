@@ -27,14 +27,6 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs55501" data-uslm-ref="/us/usc/t46/s55501">55501.</a>  </td>
 
-    <td> Mobile trade fairs.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs55502" data-uslm-ref="/us/usc/t46/s55502">55502.</a>  </td>
-
     <td> United States Committee on the Marine Transportation System.  </td>
 
   </tr>
@@ -42,6 +34,8 @@
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–281, title III, § 301(3)][/us/pl/113/281/s301/3], Dec. 18, 2014, [128 Stat. 3042][/us/stat/128/3042], added item 55501 and struck out former items 55501 “Mobile trade fairs” and 55502 “United States Committee on the Marine Transportation System”.
 
     2012—[Pub. L. 112–213, title III, § 310(b)][/us/pl/112/213/s310/b], Dec. 20, 2012, [126 Stat. 1568][/us/stat/126/1568], added item 55502.
 
@@ -52,6 +46,8 @@
 ----------
 ----------
 
+[/us/pl/113/281/s301/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs301%2F3
+[/us/stat/128/3042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3042
 [/us/pl/112/213/s310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs310%2Fb
 [/us/stat/126/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1568
 

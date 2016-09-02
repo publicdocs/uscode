@@ -53,7 +53,41 @@
 
         (2) pay the individual without regard to chapter 51 and subchapter III of chapter 53 of title 5.
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1569][/us/stat/120/1569]; [Pub. L. 112–213, title IV, § 404][/us/pl/112/213/s404], Dec. 20, 2012, [126 Stat. 1570][/us/stat/126/1570].)
+    (e) __Donation for Historical Purposes.—__ 
+
+        (1)  __In general__  __.—__ 
+
+        The Secretary may convey the right, title, and interest of the United States Government in any property administered by the Maritime Administration, except real estate or vessels, if—
+
+            (A) the Secretary determines that such property is not needed by the Maritime Administration; and
+
+            (B)
+
+             the recipient—
+
+                (i) is a nonprofit organization, a State, or a political subdivision of a State;
+
+                (ii) agrees to hold the Government harmless for any claims arising from exposure to hazardous materials, including asbestos, polychlorinated biphenyls, or lead paint, after conveyance of the property;
+
+                (iii) provides a description and explanation of the intended use of the property to the Secretary for approval;
+
+                (iv) has provided to the Secretary proof, as determined by the Secretary, of resources sufficient to accomplish the intended use provided under clause (iii) and to maintain the property;
+
+                (v)
+
+                 agrees that when the recipient no longer requires the property, the recipient shall—
+
+                    (I) return the property to the Secretary, at the recipient’s expense and in the same condition as received except for ordinary wear and tear; or
+
+                    (II) subject to the approval of the Secretary, retain, sell, or otherwise dispose of the property in a manner consistent with applicable law; and
+
+                (vi) agrees to any additional terms the Secretary considers appropriate.
+
+        (2)  __Reversion__  __.—__ 
+
+        The Secretary shall include in any conveyance under this subsection terms under which all right, title, and interest conveyed by the Secretary shall revert to the Government if the Secretary determines the property has been used other than as approved by the Secretary under paragraph (1)(B)(iii).
+
+([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1569][/us/stat/120/1569]; [Pub. L. 112–213, title IV, § 404][/us/pl/112/213/s404], Dec. 20, 2012, [126 Stat. 1570][/us/stat/126/1570]; [Pub. L. 113–281, title III, § 302][/us/pl/113/281/s302], Dec. 18, 2014, [128 Stat. 3042][/us/stat/128/3042].)
 
 <table>
 
@@ -149,6 +183,8 @@ June 29, 1936, ch. 858, title XIII, § 1308(b)–(d), as added Pub. L. 96–45
 
  __Amendments__ 
 
+    2014—Subsec. (e). [Pub. L. 113–281][/us/pl/113/281] added subsec. (e).
+
     2012—Subsec. (b). [Pub. L. 112–213, § 404(1)][/us/pl/112/213/s404/1], struck out “Surplus” before “Property” in heading.
 
     Subsec. (b)(1). [Pub. L. 112–213, § 404(2)][/us/pl/112/213/s404/2], amended par. (1) generally. Prior to amendment, text read as follows: “The Secretary may cooperate with and assist the institutions named in paragraph (2) by making vessels, shipboard equipment, and other marine equipment, owned by the United States Government and determined to be excess or surplus, available to those institutions for instructional purposes, by gift, loan, sale, lease, or charter on terms the Secretary considers appropriate.”
@@ -166,6 +202,9 @@ June 29, 1936, ch. 858, title XIII, § 1308(b)–(d), as added Pub. L. 96–45
 [/us/stat/120/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1569
 [/us/pl/112/213/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs404
 [/us/stat/126/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1570
+[/us/pl/113/281/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs302
+[/us/stat/128/3042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3042
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 [/us/pl/112/213/s404/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs404%2F1
 [/us/pl/112/213/s404/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs404%2F2
 [/us/pl/112/213/s404/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs404%2F3

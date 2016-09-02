@@ -173,7 +173,7 @@
 
         (3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 75 percent.
 
-        (4) There is authorized to be appropriated $3,000,000 for each of fiscal years 2010 through 2014 for grants under this subsection.
+        (4) There is authorized to be appropriated $3,000,000 for each of fiscal years 2015 through 2017 for grants under this subsection.
 
     (j)
 
@@ -183,11 +183,15 @@
 
         (3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 75 percent.
 
-        (4) There is authorized to be appropriated $3,000,000 for each fiscal years 2010 through 2014 for activities under this subsection.
+        (4) There is authorized to be appropriated $3,000,000 for each fiscal years 2015 through 2017 for activities under this subsection.
 
-(Added [Pub. L. 98–364, title IV, § 402(7)(C)][/us/pl/98/364/s402/7/C], July 17, 1984, [98 Stat. 447][/us/stat/98/447]; amended [Pub. L. 98–557, § 33(a)][/us/pl/98/557/s33/a], Oct. 30, 1984, [98 Stat. 2876][/us/stat/98/2876]; [Pub. L. 100–424, § 2(a)][/us/pl/100/424/s2/a], Sept. 9, 1988, [102 Stat. 1585][/us/stat/102/1585]; [Pub. L. 101–595, title VI, § 602(c)][/us/pl/101/595/s602/c], Nov. 16, 1990, [104 Stat. 2990][/us/stat/104/2990]; [Pub. L. 104–324, title III, § 307][/us/pl/104/324/s307], Oct. 19, 1996, [110 Stat. 3918][/us/stat/110/3918]; [Pub. L. 105–383, title III, § 301(b)(5)][/us/pl/105/383/s301/b/5], Nov. 13, 1998, [112 Stat. 3417][/us/stat/112/3417]; [Pub. L. 111–281, title VI, § 604(a)][/us/pl/111/281/s604/a], Oct. 15, 2010, [124 Stat. 2962][/us/stat/124/2962]; [Pub. L. 112–213, title III, § 305(a)][/us/pl/112/213/s305/a], (b), Dec. 20, 2012, [126 Stat. 1564][/us/stat/126/1564].)
+(Added [Pub. L. 98–364, title IV, § 402(7)(C)][/us/pl/98/364/s402/7/C], July 17, 1984, [98 Stat. 447][/us/stat/98/447]; amended [Pub. L. 98–557, § 33(a)][/us/pl/98/557/s33/a], Oct. 30, 1984, [98 Stat. 2876][/us/stat/98/2876]; [Pub. L. 100–424, § 2(a)][/us/pl/100/424/s2/a], Sept. 9, 1988, [102 Stat. 1585][/us/stat/102/1585]; [Pub. L. 101–595, title VI, § 602(c)][/us/pl/101/595/s602/c], Nov. 16, 1990, [104 Stat. 2990][/us/stat/104/2990]; [Pub. L. 104–324, title III, § 307][/us/pl/104/324/s307], Oct. 19, 1996, [110 Stat. 3918][/us/stat/110/3918]; [Pub. L. 105–383, title III, § 301(b)(5)][/us/pl/105/383/s301/b/5], Nov. 13, 1998, [112 Stat. 3417][/us/stat/112/3417]; [Pub. L. 111–281, title VI, § 604(a)][/us/pl/111/281/s604/a], Oct. 15, 2010, [124 Stat. 2962][/us/stat/124/2962]; [Pub. L. 112–213, title III, § 305(a)][/us/pl/112/213/s305/a], (b), Dec. 20, 2012, [126 Stat. 1564][/us/stat/126/1564]; [Pub. L. 113–281, title III, § 309][/us/pl/113/281/s309], Dec. 18, 2014, [128 Stat. 3045][/us/stat/128/3045].)
 
  __Amendments__ 
+
+    2014—Subsec. (i)(4). [Pub. L. 113–281, § 309(a)][/us/pl/113/281/s309/a], substituted “2015 through 2017” for “2010 through 2014”.
+
+    Subsec. (j)(4). [Pub. L. 113–281, § 309(b)][/us/pl/113/281/s309/b], substituted “2015 through 2017” for “2010 through 2014”.
 
     2012—Subsec. (f)(2). [Pub. L. 112–213, § 305(a)(2)(A)][/us/pl/112/213/s305/a/2/A], substituted “at least once every 5 years” for “at least once every 2 years”.
 
@@ -332,6 +336,10 @@
 [/us/stat/124/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2962
 [/us/pl/112/213/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs305%2Fa
 [/us/stat/126/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1564
+[/us/pl/113/281/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs309
+[/us/stat/128/3045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3045
+[/us/pl/113/281/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs309%2Fa
+[/us/pl/113/281/s309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs309%2Fb
 [/us/pl/112/213/s305/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs305%2Fa%2F2%2FA
 [/us/pl/112/213/s305/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs305%2Fa%2F1
 [/us/pl/112/213/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs305%2Fb

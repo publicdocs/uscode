@@ -121,6 +121,18 @@ Source section (U.S. Code)  </td>
 
     Amendment by [Pub. L. 101–380][/us/pl/101/380] applicable to incidents occurring after Aug. 18, 1990, see [section 1020 of Pub. L. 101–380][/us/pl/101/380/s1020], set out as an Effective Date note under [section 2701 of Title 33][/us/usc/t33/s2701], Navigation and Navigable Waters.
 
+ __Crediting of United States Armed Forces Service, Training, and Qualifications__ 
+
+[Pub. L. 113–281, title III, § 305(c)][/us/pl/113/281/s305/c], Dec. 18, 2014, [128 Stat. 3044][/us/stat/128/3044], provided that:
+
+>     “(1)  __Maximizing creditability__  __.—__ 
+
+>     The Secretary of the department in which the Coast Guard is operating, in implementing United States merchant mariner license, certification, and document laws and the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978, shall maximize the extent to which United States Armed Forces service, training, and qualifications are creditable toward meeting the requirements of such laws and such Convention.
+
+>     “(2)  __Notification__  __.—__ 
+
+>     Not later than 90 days after the date of enactment of this Act \[Dec. 18, 2014\], the Secretary shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the steps taken to implement this subsection.”
+
  __Merchant Mariners’ Documents Pilot Program__ 
 
 [Pub. L. 108–293, title VI, § 611][/us/pl/108/293/s611], Aug. 9, 2004, [118 Stat. 1058][/us/stat/118/1058], provided that: 
@@ -167,6 +179,8 @@ Source section (U.S. Code)  </td>
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380/s1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1020
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701
+[/us/pl/113/281/s305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs305%2Fc
+[/us/stat/128/3044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3044
 [/us/pl/108/293/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs611
 [/us/stat/118/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1058
 [/us/pl/101/380/s4102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4102%2Fc

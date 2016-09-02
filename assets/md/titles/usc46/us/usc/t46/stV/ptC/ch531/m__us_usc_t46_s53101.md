@@ -37,45 +37,41 @@
 
         (B) commerce or trade between foreign countries.
 
-    (5) __LASH__  __vessel__  __.—__ 
-
-    The term “LASH vessel” means a lighter aboard ship vessel.
-
-    (6)  __Participating fleet vessel__  __.—__ 
+    (5)  __Participating fleet vessel__  __.—__ 
 
     The term “participating fleet vessel” means any vessel that—
 
         (A)
 
-         on October 1, 2005—
+         on October 1, 2015—
 
             (i) meets the requirements of paragraph (1), (2), (3), or (4) of section 53102(c); and
 
-            (ii) is less than 25 years of age, or less than 30 years of age in the case of a LASH vessel; and
+            (ii) is less than 20 years of age if the vessel is a tank vessel, or is less than 25 years of age for all other vessel types; and
 
-        (B) on December 31, 2004, is covered by an operating agreement under subtitle B of title VI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1187 et seq.). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
+        (B) on December 31, 2014, is covered by an operating agreement under this chapter.
 
-    (7)  __Person__  __.—__ 
+    (6)  __Person__  __.—__ 
 
     The term “person” includes corporations, partnerships, and associations existing under or authorized by the laws of the United States, or any State, Territory, District, or possession thereof, or of any foreign country.
 
-    (8)  __Product tank vessel__  __.—__ 
+    (7)  __Product tank vessel__  __.—__ 
 
     The term “product tank vessel” means a double hulled tank vessel capable of carrying simultaneously more than 2 separated grades of refined petroleum products.
 
-    (9)  __Secretary__  __.—__ 
+    (8)  __Secretary__  __.—__ 
 
     The term “Secretary” means the Secretary of Transportation.
 
-    (10)  __Tank vessel__  __.—__ 
+    (9)  __Tank vessel__  __.—__ 
 
     The term “tank vessel” has the meaning that term has under [section 2101 of this title][/us/usc/t46/s2101].
 
-    (11)  __United states__  __.—__ 
+    (10)  __United states__  __.—__ 
 
     The term “United States” includes the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, the Virgin Islands.
 
-    (12)  __United states citizen trust__  __.—__ 
+    (11)  __United states citizen trust__  __.—__ 
 
         (A) Subject to subparagraph (C), the term “United States citizen trust” means a trust that is qualified under this paragraph.
 
@@ -91,37 +87,11 @@
 
         (D) This paragraph shall not be considered to prohibit a person who is not a citizen of the United States from holding more than 25 percent of the beneficial interest in a trust.
 
-    (13)  __United states-documented vessel__  __.—__ 
+    (12)  __United states-documented vessel__  __.—__ 
 
     The term “United States-documented vessel” means a vessel documented under chapter 121 of this title.
 
 (Added [Pub. L. 108–136, div. C, title XXXV, § 3531(a)][/us/pl/108/136/s3531/a], Nov. 24, 2003, [117 Stat. 1803][/us/stat/117/1803]; amended [Pub. L. 112–239, div. C, title XXXV, § 3508(a)][/us/pl/112/239/s3508/a], Jan. 2, 2013, [126 Stat. 2223][/us/stat/126/2223].)
-
- __Amendment of Section__ 
-
-    [Pub. L. 112–239, div. C, title XXXV, § 3508(a)(2)][/us/pl/112/239/s3508/a/2]–(4), (j)(1), Jan. 2, 2013, [126 Stat. 2223][/us/stat/126/2223], 2226, provided that, effective Dec. 31, 2014, this section is amended:
-
-    (1) by striking paragraph (5);
-
-    (2) by redesignating paragraphs (6) through (13) as paragraphs (5) through (12), respectively; and
-
-    (3) by amending paragraph (5), as so redesignated, to read as follows:
-
-    (5) Participating fleet vessel.—The term “participating fleet vessel” means any vessel that—
-
-    (A) on October 1, 2015—
-
-    (i) meets the requirements of paragraph (1), (2), (3), or (4) of section 53102(c); and
-
-    (ii) is less than 20 years of age if the vessel is a tank vessel, or is less than 25 years of age for all other vessel types; and
-
-    (B) on December 31, 2014, is covered by an operating agreement under this chapter.
-
-    See 2013 Amendment notes below.
-
- __References in Text__ 
-
-    The Merchant Marine Act, 1936, referred to in par. (6)(B), is [act June 29, 1936, ch. 858][/us/act/1936-06-29/ch858], [49 Stat. 1985][/us/stat/49/1985]. Subtitle B of title VI of the Act was classified generally to part B (§ 1187 et seq.) of subchapter VI of chapter 27 of the former Appendix to this title prior to repeal by [Pub. L. 108–136, div. C, title XXXV, § 3534(a)(1)][/us/pl/108/136/s3534/a/1], Nov. 24, 2003, [117 Stat. 1818][/us/stat/117/1818]. For complete classification of this Act to the Code, see Short Title of 1936 Amendment note set out under [section 101 of this title][/us/usc/t46/s101] and Tables.
 
  __Amendments__ 
 
@@ -427,13 +397,6 @@
 [/us/stat/117/1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1803
 [/us/pl/112/239/s3508/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Fa
 [/us/stat/126/2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2223
-[/us/pl/112/239/s3508/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Fa%2F2
-[/us/stat/126/2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2223
-[/us/act/1936-06-29/ch858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-29%2Fch858
-[/us/stat/49/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1985
-[/us/pl/108/136/s3534/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3534%2Fa%2F1
-[/us/stat/117/1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1818
-[/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
 [/us/pl/112/239/s3508/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Fa%2F1
 [/us/pl/112/239/s3508/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Fa%2F4
 [/us/pl/112/239/s3508/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Fa%2F2

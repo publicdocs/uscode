@@ -49,13 +49,17 @@
 
     (e) __Security of Government-Impelled Cargo.—__ 
 
-        (1) In order to ensure the safety of vessels and crewmembers transporting equipment, materials, or commodities under this section, the Secretary of Transportation shall direct each department or agency (except the Department of Defense), when responsible for the carriage of such equipment, materials, or commodities, to provide armed personnel aboard vessels of the United States carrying such equipment, materials, or commodities if the vessels are transiting high-risk waters.
+        (1) In order to ensure the safety of vessels and crewmembers transporting equipment, materials, or commodities under this section, the Secretary of Transportation shall direct each department or agency (except the Department of Defense), when responsible for the carriage of such equipment, materials, or commodities, to reimburse, subject to the availability of appropriations, the owners or operators of vessels of the United States carrying such equipment, materials, or commodities for the cost of providing armed personnel aboard such vessels if the vessels are transiting high-risk waters.
 
-        (2) The Secretary of Transportation shall direct each department or agency responsible to provide armed personnel under paragraph (1) to reimburse, subject to the availability of appropriations, the owners or operators of applicable vessels for the cost of providing armed personnel.
+        (2)
 
-        (3) In this subsection, the term “high-risk waters” means waters so designated by the Commandant of the Coast Guard in the Port Security Advisory in effect on the date on which an applicable voyage begins.
+         In this subsection, the term “high-risk waters” means waters so designated by the Commandant of the Coast Guard in the maritime security directive issued by the Commandant and in effect on the date on which an applicable voyage begins, if the Secretary of Transportation—
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1642][/us/stat/120/1642]; [Pub. L. 110–417, div. C, title XXXV, § 3511(a)][/us/pl/110/417/s3511/a], (b), Oct. 14, 2008, [122 Stat. 4769][/us/stat/122/4769]; [Pub. L. 112–213, title V, § 503][/us/pl/112/213/s503], Dec. 20, 2012, [126 Stat. 1575][/us/stat/126/1575].)
+            (A) determines that an act of piracy occurred in the 12-month period preceding the date the voyage begins; or
+
+            (B) in such period, issued an advisory warning that an act of piracy is possible in such waters.
+
+([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1642][/us/stat/120/1642]; [Pub. L. 110–417, div. C, title XXXV, § 3511(a)][/us/pl/110/417/s3511/a], (b), Oct. 14, 2008, [122 Stat. 4769][/us/stat/122/4769]; [Pub. L. 112–213, title V, § 503][/us/pl/112/213/s503], Dec. 20, 2012, [126 Stat. 1575][/us/stat/126/1575]; [Pub. L. 113–281, title III, § 306][/us/pl/113/281/s306], Dec. 18, 2014, [128 Stat. 3044][/us/stat/128/3044].)
 
 <table>
 
@@ -155,6 +159,14 @@ June 29, 1936, ch. 858, title IX, § 901(b), as added Aug. 26, 1954, ch. 936, 
 
  __Amendments__ 
 
+    2014—Subsec. (e)(1). [Pub. L. 113–281, § 306(1)][/us/pl/113/281/s306/1], substituted “reimburse, subject to the availability of appropriations, the owners or operators of vessels” for “provide armed personnel aboard vessels” and “commodities for the cost of providing armed personnel aboard such vessels” for “commodities”.
+
+    Subsec. (e)(2), (3). [Pub. L. 113–281, § 306(2)][/us/pl/113/281/s306/2], added par. (2) and struck out former pars. (2) and (3) which read as follows:
+
+    “(2) The Secretary of Transportation shall direct each department or agency responsible to provide armed personnel under paragraph (1) to reimburse, subject to the availability of appropriations, the owners or operators of applicable vessels for the cost of providing armed personnel.
+
+    “(3) In this subsection, the term ‘high-risk waters’ means waters so designated by the Commandant of the Coast Guard in the Port Security Advisory in effect on the date on which an applicable voyage begins.”
+
     2012—Subsec. (e). [Pub. L. 112–213][/us/pl/112/213] added subsec. (e).
 
     2008—Subsec. (b). [Pub. L. 110–417, § 3511(a)][/us/pl/110/417/s3511/a], substituted “foreign country, organization, or persons” for “foreign country”, “commodities, or provides financing in any way with Federal funds for the account of any persons unless otherwise exempted, within” for “commodities, within”, and “furnishing or obtaining” for “furnishing”.
@@ -181,10 +193,14 @@ June 29, 1936, ch. 858, title IX, § 901(b), as added Aug. 26, 1954, ch. 936, 
 [/us/stat/122/4769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4769
 [/us/pl/112/213/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs503
 [/us/stat/126/1575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1575
+[/us/pl/113/281/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs306
+[/us/stat/128/3044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3044
 [/us/usc/t41/s1303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1303%2Fa%2F1
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3677
 [/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101
+[/us/pl/113/281/s306/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs306%2F1
+[/us/pl/113/281/s306/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs306%2F2
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
 [/us/pl/110/417/s3511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3511%2Fa
 [/us/pl/110/417/s3511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3511%2Fb

@@ -21,7 +21,7 @@
 
     (c) On a towing vessel (except a towing vessel operated only for fishing, fish processing, fish tender, or engaged in salvage operations) operating on the Great Lakes, harbors of the Great Lakes, and connecting or tributary waters between Gary, Indiana, Duluth, Minnesota, Niagara Falls, New York, and Ogdensburg, New York, a licensed individual or seaman in the deck or engine department may not be required to work more than 8 hours in one day or permitted to work more than 15 hours in any 24-hour period, or more than 36 hours in any 72-hour period, except in an emergency when life or property are endangered.
 
-    (d) On a merchant vessel of more than 100 gross tons as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104] (except a vessel only operating on rivers, harbors, lakes (except the Great Lakes), bays, sounds, bayous, and canals, a fishing, fish tender, or whaling vessel, a fish processing vessel of not more than 5,000 gross tons as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104], yacht, or vessel engaged in salvage operations), the licensed individuals, sailors, coal passers, firemen, oilers, and water tenders shall be divided, when at sea, into at least 3 watches, and shall be kept on duty successively to perform ordinary work incident to the operation and management of the vessel. The requirement of this subsection applies to radio officers only when at least 3 radio officers are employed. A licensed individual or seaman in the deck or engine department may not be required to work more than 8 hours in one day.
+    (d) On a merchant vessel of more than 100 gross tons as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104] (except a vessel only operating on rivers, harbors, lakes (except the Great Lakes), bays, sounds, bayous, and canals, a fishing, fish tender, or whaling vessel, a fish processing vessel of not more than 5,000 gross tons as measured under [section 14502 of this title][/us/usc/t46/s14502], or an alternate tonnage measured under [section 14302 of this title][/us/usc/t46/s14302] as prescribed by the Secretary under [section 14104 of this title][/us/usc/t46/s14104], yacht, or vessel engaged in salvage operations), the licensed individuals, sailors, and oilers shall be divided, when at sea, into at least 3 watches, and shall be kept on duty successively to perform ordinary work incident to the operation and management of the vessel. The requirement of this subsection applies to radio officers only when at least 3 radio officers are employed. A licensed individual or seaman in the deck or engine department may not be required to work more than 8 hours in one day.
 
     (e)
 
@@ -53,7 +53,7 @@
 
     (g)
 
-        (1) On a towing vessel, an offshore supply vessel, or a barge to which this section applies, that is engaged on a voyage of less than 600 miles, the licensed individuals and crewmembers (except the coal passers, firemen, oilers, and water tenders) may be divided, when at sea, into at least 2 watches.
+        (1) On a towing vessel, an offshore supply vessel, or a barge to which this section applies, that is engaged on a voyage of less than 600 miles, the licensed individuals and crewmembers may be divided, when at sea, into at least 2 watches.
 
         (2) Paragraph (1) applies to an offshore supply vessel of at least 6,000 gross tons as measured under [section 14302 of this title][/us/usc/t46/s14302] if the individuals engaged on the vessel are in compliance with hours of service requirements (including recording and recordkeeping of that service) as prescribed by the Secretary.
 
@@ -101,7 +101,7 @@
 
     (p) The Secretary may prescribe the watchstanding and work hours requirements for an oil spill response vessel.
 
-([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 549][/us/stat/97/549]; [Pub. L. 98–364, title IV, § 402(11)][/us/pl/98/364/s402/11], July 17, 1984, [98 Stat. 448][/us/stat/98/448]; [Pub. L. 98–557, § 33(c)][/us/pl/98/557/s33/c], Oct. 30, 1984, [98 Stat. 2876][/us/stat/98/2876]; [Pub. L. 99–307, § 1(12)][/us/pl/99/307/s1/12], May 19, 1986, [100 Stat. 445][/us/stat/100/445]; [Pub. L. 101–380, title IV][/us/pl/101/380], §§ 4114(b), 4302(f), Aug. 18, 1990, [104 Stat. 517][/us/stat/104/517], 538; [Pub. L. 101–595, title VI, § 602(e)(1)][/us/pl/101/595/s602/e/1], Nov. 16, 1990, [104 Stat. 2991][/us/stat/104/2991]; [Pub. L. 102–587, title V, § 5212][/us/pl/102/587/s5212], Nov. 4, 1992, [106 Stat. 5077][/us/stat/106/5077]; [Pub. L. 103–206, title III, § 322(a)][/us/pl/103/206/s322/a], Dec. 20, 1993, [107 Stat. 2428][/us/stat/107/2428]; [Pub. L. 104–324, title VII, § 728][/us/pl/104/324/s728], title XI, §§ 1104(c), 1114, Oct. 19, 1996, [110 Stat. 3939][/us/stat/110/3939], 3967, 3971; [Pub. L. 109–241, title III, § 311(b)][/us/pl/109/241/s311/b], July 11, 2006, [120 Stat. 530][/us/stat/120/530]; [Pub. L. 111–281, title VI, § 617(d)][/us/pl/111/281/s617/d], title IX, § 903(a)(1), Oct. 15, 2010, [124 Stat. 2973][/us/stat/124/2973], 3010.)
+([Pub. L. 98–89][/us/pl/98/89], Aug. 26, 1983, [97 Stat. 549][/us/stat/97/549]; [Pub. L. 98–364, title IV, § 402(11)][/us/pl/98/364/s402/11], July 17, 1984, [98 Stat. 448][/us/stat/98/448]; [Pub. L. 98–557, § 33(c)][/us/pl/98/557/s33/c], Oct. 30, 1984, [98 Stat. 2876][/us/stat/98/2876]; [Pub. L. 99–307, § 1(12)][/us/pl/99/307/s1/12], May 19, 1986, [100 Stat. 445][/us/stat/100/445]; [Pub. L. 101–380, title IV][/us/pl/101/380], §§ 4114(b), 4302(f), Aug. 18, 1990, [104 Stat. 517][/us/stat/104/517], 538; [Pub. L. 101–595, title VI, § 602(e)(1)][/us/pl/101/595/s602/e/1], Nov. 16, 1990, [104 Stat. 2991][/us/stat/104/2991]; [Pub. L. 102–587, title V, § 5212][/us/pl/102/587/s5212], Nov. 4, 1992, [106 Stat. 5077][/us/stat/106/5077]; [Pub. L. 103–206, title III, § 322(a)][/us/pl/103/206/s322/a], Dec. 20, 1993, [107 Stat. 2428][/us/stat/107/2428]; [Pub. L. 104–324, title VII, § 728][/us/pl/104/324/s728], title XI, §§ 1104(c), 1114, Oct. 19, 1996, [110 Stat. 3939][/us/stat/110/3939], 3967, 3971; [Pub. L. 109–241, title III, § 311(b)][/us/pl/109/241/s311/b], July 11, 2006, [120 Stat. 530][/us/stat/120/530]; [Pub. L. 111–281, title VI, § 617(d)][/us/pl/111/281/s617/d], title IX, § 903(a)(1), Oct. 15, 2010, [124 Stat. 2973][/us/stat/124/2973], 3010; [Pub. L. 113–281, title III, § 316][/us/pl/113/281/s316], Dec. 18, 2014, [128 Stat. 3050][/us/stat/128/3050].)
 
 <table>
 
@@ -164,6 +164,10 @@ Source section (U.S. Code)  </td>
     Subsections (i) and (j) prescribe penalties for violations of the provisions of this section and, in certain instances, entitles the seaman to discharge and payment of wages.
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–281, § 316(1)][/us/pl/113/281/s316/1], substituted “and oilers” for “coal passers, firemen, oilers, and water tenders”.
+
+    Subsec. (g)(1). [Pub. L. 113–281, § 316(2)][/us/pl/113/281/s316/2], struck out “(except the coal passers, firemen, oilers, and water tenders)” after “crewmembers”.
 
     2010—Subsec. (g). [Pub. L. 111–281, § 617(d)][/us/pl/111/281/s617/d], designated existing provisions as par. (1) and added par. (2).
 
@@ -283,6 +287,10 @@ Source section (U.S. Code)  </td>
 [/us/stat/120/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F530
 [/us/pl/111/281/s617/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs617%2Fd
 [/us/stat/124/2973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2973
+[/us/pl/113/281/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs316
+[/us/stat/128/3050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3050
+[/us/pl/113/281/s316/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs316%2F1
+[/us/pl/113/281/s316/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs316%2F2
 [/us/pl/111/281/s617/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs617%2Fd
 [/us/pl/111/281/s903/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs903%2Fa%2F1
 [/us/pl/109/241/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs311%2Fb

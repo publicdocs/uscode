@@ -39,7 +39,7 @@
 
             (C) To improve the quality and effectiveness of marine safety information databases by ensuring that all Coast Guard personnel accurately and effectively report all safety, casualty, and injury information.
 
-            (D) To provide for a sufficient number of Coast Guard marine safety personnel, and provide adequate facilities and equipment to carry out the functions referred to in section 93(c). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
+            (D) To provide for a sufficient number of Coast Guard marine safety personnel, and provide adequate facilities and equipment to carry out the functions referred to in [section 93(c) of title 14][/us/usc/t14/s93/c].
 
         (2)  __Resource needs__  __.—__ 
 
@@ -65,15 +65,23 @@
 
             (A) on the performance of the marine safety program in achieving the goals of the marine safety strategy and annual plan under subsection (a) for the year covered by the report;
 
-            (B) on the program’s mission performance in achieving numerical measurable goals established under subsection (b); and
+            (B)
+
+             on the program’s mission performance in achieving numerical measurable goals established under subsection (b), including—
+
+                (i) the number of civilian and military Coast Guard personnel assigned to marine safety positions; and
+
+                (ii) an identification of marine safety positions that are understaffed to meet the workload required to accomplish each activity included in the strategy and plans under subsection (a); and
 
             (C) recommendations on how to improve performance of the program.
 
-(Added [Pub. L. 111–281, title V, § 522(a)][/us/pl/111/281/s522/a], Oct. 15, 2010, [124 Stat. 2956][/us/stat/124/2956].)
+(Added [Pub. L. 111–281, title V, § 522(a)][/us/pl/111/281/s522/a], Oct. 15, 2010, [124 Stat. 2956][/us/stat/124/2956]; amended [Pub. L. 113–281, title II, § 221(b)(1)(A)][/us/pl/113/281/s221/b/1/A], title III, § 307(a), Dec. 18, 2014, [128 Stat. 3037][/us/stat/128/3037], 3045.)
 
- __References in Text__ 
+ __Amendments__ 
 
-    Section 93(c), referred to in subsec. (b)(1)(D), probably means [section 93(c) of Title 14][/us/usc/t14/s93/c], Coast Guard, which relates to marine safety responsibilities of the Commandant of the Coast Guard.
+    2014—Subsec. (b)(1)(D). [Pub. L. 113–281, § 307(a)][/us/pl/113/281/s307/a], substituted “[section 93(c) of title 14][/us/usc/t14/s93/c]” for “section 93(c)”.
+
+    Subsec. (d)(2)(B). [Pub. L. 113–281, § 221(b)(1)(A)][/us/pl/113/281/s221/b/1/A], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “on the program’s mission performance in achieving numerical measurable goals established under subsection (b); and”.
 
 ----------
 
@@ -82,9 +90,14 @@
 ----------
 ----------
 
+[/us/usc/t14/s93/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs93%2Fc
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/111/281/s522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs522%2Fa
 [/us/stat/124/2956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2956
+[/us/pl/113/281/s221/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs221%2Fb%2F1%2FA
+[/us/stat/128/3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3037
+[/us/pl/113/281/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs307%2Fa
 [/us/usc/t14/s93/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs93%2Fc
+[/us/pl/113/281/s221/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs221%2Fb%2F1%2FA
 
 

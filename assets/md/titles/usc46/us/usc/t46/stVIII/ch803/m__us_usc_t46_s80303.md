@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t46/stVIII/ch803/m__us_usc_t46_s80302.md) | [Next](./../../../../..//us/usc/t46/stVIII/ch805/m__us_usc_t46_stVIII_ch805.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs80303)
+[Previous](./../../../../..//us/usc/t46/stVIII/ch803/m__us_usc_t46_s80302.md) | [Next](./../../../../..//us/usc/t46/stVIII/ch803/m__us_usc_t46_s80304.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs80303)
 
 ## § 80303. Speed of vessel in ice region
 
@@ -75,7 +75,7 @@ June 25, 1936, ch. 807, § 4, 49 Stat. 1923.  </td>
 
 ----------
 
-[Previous](./../../../../..//us/usc/t46/stVIII/ch803/m__us_usc_t46_s80302.md) | [Next](./../../../../..//us/usc/t46/stVIII/ch805/m__us_usc_t46_stVIII_ch805.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs80303)
+[Previous](./../../../../..//us/usc/t46/stVIII/ch803/m__us_usc_t46_s80302.md) | [Next](./../../../../..//us/usc/t46/stVIII/ch803/m__us_usc_t46_s80304.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs80303)
 
 ----------
 ----------

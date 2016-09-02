@@ -123,17 +123,21 @@
 
     (i)  __Authorization of Appropriations__  __.—__ 
 
-    There are authorized to be appropriated to the Administrator of the Maritime Administration for each of fiscal years 2009 through 2013 to carry out this section—
+    There are authorized to be appropriated to the Administrator of the Maritime Administration for each of fiscal years 2015 through 2017 to carry out this section—
 
         (1) $5,000,000 for training grants; and
 
         (2) $25,000,000 for capital and related improvements.
 
-(Added [Pub. L. 110–417, div. C, title XXXV, § 3508(a)][/us/pl/110/417/s3508/a], Oct. 14, 2008, [122 Stat. 4767][/us/stat/122/4767].)
+(Added [Pub. L. 110–417, div. C, title XXXV, § 3508(a)][/us/pl/110/417/s3508/a], Oct. 14, 2008, [122 Stat. 4767][/us/stat/122/4767]; amended [Pub. L. 113–281, title III, § 303][/us/pl/113/281/s303], Dec. 18, 2014, [128 Stat. 3043][/us/stat/128/3043].)
 
  __Prior Provisions__ 
 
     A prior section 54101, added and amended [Pub. L. 110–181, div. C, title XXXV, § 3523(a)(6)(B)][/us/pl/110/181/s3523/a/6/B]–(D), Jan. 28, 2008, [122 Stat. 599][/us/stat/122/599], which related to assistance for small shipyards and maritime communities, was repealed by [Pub. L. 110–417, div. C, title XXXV, § 3508(b)][/us/pl/110/417/s3508/b], Oct. 14, 2008, [122 Stat. 4769][/us/stat/122/4769], as amended by [Pub. L. 111–84, div. A, title X, § 1073(c)(14)][/us/pl/111/84/s1073/c/14], Oct. 28, 2009, [123 Stat. 2475][/us/stat/123/2475], effective Oct. 14, 2008, and as if included in [Pub. L. 110–417][/us/pl/110/417] as enacted.
+
+ __Amendments__ 
+
+    2014—Subsec. (i). [Pub. L. 113–281][/us/pl/113/281] substituted “2015 through 2017” for “2009 through 2013” in introductory provisions.
 
 ----------
 
@@ -144,6 +148,8 @@
 
 [/us/pl/110/417/s3508/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3508%2Fa
 [/us/stat/122/4767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4767
+[/us/pl/113/281/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs303
+[/us/stat/128/3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3043
 [/us/pl/110/181/s3523/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3523%2Fa%2F6%2FB
 [/us/stat/122/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F599
 [/us/pl/110/417/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3508%2Fb
@@ -151,5 +157,6 @@
 [/us/pl/111/84/s1073/c/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fc%2F14
 [/us/stat/123/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2475
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 
 

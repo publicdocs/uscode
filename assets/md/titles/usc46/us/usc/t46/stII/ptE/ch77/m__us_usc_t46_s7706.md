@@ -17,7 +17,7 @@
 
     (a)  __Release of Drug Test Results to Coast Guard__  __.—__ 
 
-    Not later than 2 weeks after receiving from a Medical Review Officer a report of a verified positive drug test or verified test violation by a civilian employee of a Federal agency, an officer in the Public Health Services, or an officer in the National Oceanic and Atmospheric Administration Commissioned Officer Corps, who is employed in any capacity on board a vessel operated by the agency, the head of the agency shall release to the Commandant of the Coast Guard the report.
+    Not later than 2 weeks after receiving from a Medical Review Officer a report of a verified positive drug test or verified test violation by a civilian employee of a Federal agency, an applicant for employment by a Federal agency, an officer in the Public Health Services, or an officer in the National Oceanic and Atmospheric Administration Commissioned Officer Corps, who is employed in any capacity on board a vessel operated by the agency, the head of the agency shall release to the Commandant of the Coast Guard the report.
 
     (b)  __Standards, Procedures, and Regulations__  __.—__ 
 
@@ -25,13 +25,19 @@
 
     (c)  __Waiver__  __.—__ 
 
-    Notwithstanding section 503(e) of the Supplemental Appropriations Act, 1987 ([5 U.S.C. 7301][/us/usc/t5/s7301] note), the report of a drug test of an employee may be released under this section without the prior written consent of the employee.
+    Notwithstanding section 503(e) of the Supplemental Appropriations Act, 1987 ([5 U.S.C. 7301][/us/usc/t5/s7301] note), the report of a drug test of an employee or an applicant for employment by a Federal agency may be released under this section without the prior written consent of the employee or the applicant.
 
-(Added [Pub. L. 108–293, title IV, § 414(a)][/us/pl/108/293/s414/a], Aug. 9, 2004, [118 Stat. 1046][/us/stat/118/1046].)
+(Added [Pub. L. 108–293, title IV, § 414(a)][/us/pl/108/293/s414/a], Aug. 9, 2004, [118 Stat. 1046][/us/stat/118/1046]; amended [Pub. L. 113–281, title III, § 304][/us/pl/113/281/s304], Dec. 18, 2014, [128 Stat. 3043][/us/stat/128/3043].)
 
  __References in Text__ 
 
     Section 503(e) of the Supplemental Appropriations Act, 1987, referred to in subsec. (c), is [section 503(e) of Pub. L. 100–71][/us/pl/100/71/s503/e], which is set out as a note under [section 7301 of Title 5][/us/usc/t5/s7301], Government Organization and Employees.
+
+ __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–281, § 304(1)][/us/pl/113/281/s304/1], inserted “an applicant for employment by a Federal agency,” after “Federal agency,”.
+
+    Subsec. (c). [Pub. L. 113–281, § 304(2)][/us/pl/113/281/s304/2], inserted “or an applicant for employment by a Federal agency” after “an employee” and substituted “the employee or the applicant” for “the employee”.
 
 ----------
 
@@ -43,7 +49,11 @@
 [/us/usc/t5/s7301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7301
 [/us/pl/108/293/s414/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs414%2Fa
 [/us/stat/118/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1046
+[/us/pl/113/281/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs304
+[/us/stat/128/3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3043
 [/us/pl/100/71/s503/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71%2Fs503%2Fe
 [/us/usc/t5/s7301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7301
+[/us/pl/113/281/s304/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs304%2F1
+[/us/pl/113/281/s304/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs304%2F2
 
 

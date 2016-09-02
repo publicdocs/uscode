@@ -13,71 +13,117 @@
 
 [Previous](./../../../../../..//us/usc/t46/stV/ptD/ch555/m__us_usc_t46_stV_ptD_ch555.md) | [Next](./../../../../../..//us/usc/t46/stV/ptD/ch555/m__us_usc_t46_s55502.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55501)
 
-## § 55501. Mobile trade fairs
+## § 55501. United States Committee on the Marine Transportation System
 
-    (a)  __In General__  __.—__ 
+    (a)  __Establishment__  __.—__ 
 
-    The Secretary of Commerce shall encourage and promote the development and use of mobile trade fairs designed to show and sell the products of United States business and agriculture at foreign ports and at other commercial centers throughout the world where the operators of the fairs use, insofar as practicable, vessels and aircraft of the United States in transporting their exhibits.
+    There is established a United States Committee on the Marine Transportation System (in this section referred to as the “Committee”).
 
-    (b)  __Technical and Financial Assistance__  __.—__ 
+    (b)  __Purpose__  __.—__ 
 
-    When the Secretary determines that a mobile trade fair provides an economical and effective means of promoting export sales, the Secretary may provide to the operator of the fair—
+    The Committee shall serve as a Federal interagency coordinating committee for the purpose of—
 
-        (1) technical assistance and support; and
+        (1) assessing the adequacy of the marine transportation system (including ports, waterways, channels, and their intermodal connections);
 
-        (2) financial assistance to defray certain expenses incurred outside the United States, except the cost of transportation on foreign vessels and aircraft.
+        (2) promoting the integration of the marine transportation system with other modes of transportation and other uses of the marine environment; and
 
-    (c)  __Use of Foreign Currencies__  __.—__ 
+        (3) coordinating, improving the coordination of, and making recommendations with regard to Federal policies that impact the marine transportation system.
 
-    To carry out this section, the President may use, in addition to amounts appropriated to carry out trade promotion activities, foreign currencies owned by or owed to the United States Government.
+    (c) __Membership.—__ 
 
-([Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1650][/us/stat/120/1650].)
+        (1)  __In general__  __.—__ 
 
-<table>
+        The Committee shall consist of—
 
-  <tr>
+            (A) the Secretary of Transportation;
 
-    <td colspan="3"> 
+            (B) the Secretary of Defense;
 
-Historical and Revision Notes  </td>
+            (C) the Secretary of Homeland Security;
 
-  </tr>
+            (D) the Secretary of Commerce;
 
-  <tr>
+            (E) the Secretary of the Treasury;
 
-    <td> 
+            (F) the Secretary of State;
 
-Revised
+            (G) the Secretary of the Interior;
 
-Section  </td>
+            (H) the Secretary of Agriculture;
 
-    <td> 
+            (I) the Attorney General;
 
-Source (U.S. Code)  </td>
+            (J) the Secretary of Labor;
 
-    <td> 
+            (K) the Secretary of Energy;
 
-Source (Statutes at Large)  </td>
+            (L) the Administrator of the Environmental Protection Agency;
 
-  </tr>
+            (M) the Chairman of the Federal Maritime Commission;
 
-  <tr>
+            (N) the Chairman of the Joint Chiefs of Staff; and
 
-    <td> 
+            (O) the head of any other Federal agency who a majority of the voting members of the Committee determines can further the purpose and activities of the Committee.
 
-55501  </td>
+        (2)  __Nonvoting members__  __.—__ 
 
-    <td> 
+        The Committee may include as many nonvoting members as a majority of the voting members of the Committee determines is appropriate to further the purpose and activities of the Committee.
 
-46 App.:1122b.  </td>
+    (d) __Support.—__ 
 
-    <td> 
+        (1) __Coordinating board.—__ 
 
-June 29, 1936, ch. 858, title II, § 212(B), as added Pub. L. 87–839, § 1, Oct. 18, 1962, 76 Stat. 1074; Pub. L. 89–66, July 7, 1965, 79 Stat. 211; Pub. L. 90–434, July 27, 1968, 82 Stat. 449; Pub. L. 100–418, title X, § 10003(a), Aug. 23, 1988, 102 Stat. 1572.  </td>
+            (A)  __In general__  __.—__ 
 
-  </tr>
+            There is hereby established, within the Committee, a Coordinating Board. Each member of the Committee may select a senior level representative to serve on such Board. The Board shall assist the Committee in carrying out its purpose and activities.
 
-</table>
+            (B)  __Chair__  __.—__ 
+
+            There shall be a Chair of the Coordinating Board. The Chair of the Coordinating Board shall rotate each year among the Secretary of Transportation, the Secretary of Defense, the Secretary of Homeland Security, and the Secretary of Commerce. The order of rotation shall be determined by a majority of the voting members of the Committee.
+
+        (2)  __Executive director__  __.—__ 
+
+        The Secretary of Transportation, in consultation with the Secretary of Defense, the Secretary of Homeland Security, and the Secretary of Commerce, shall appoint an Executive Director of the Committee.
+
+        (3)  __Transfers__  __.—__ 
+
+        Notwithstanding any other provision of law, the head of a Federal department or agency who is a member of the Committee may—
+
+            (A) provide, on a reimbursable or nonreimbursable basis, facilities, equipment, services, personnel, and other support services to carry out the activities of the Committee; and
+
+            (B) transfer funds to another Federal department or agency in order to carry out the activities of the Committee.
+
+    (e)  __Marine Transportation System Assessment and Strategy__  __.—__ 
+
+    Not later than one year after the date of enactment of this Act and every 5 years thereafter, the Committee shall provide to the Committee on Commerce, Science, and Transportation and the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that includes—
+
+        (1) steps taken to implement actions recommended in the document titled “National Strategy for the Marine Transportation System: A Framework for Action” and dated July 2008;
+
+        (2) an assessment of the condition of the marine transportation system;
+
+        (3) a discussion of the challenges the marine transportation system faces in meeting user demand, including estimates of investment levels required to ensure system infrastructure meets such demand;
+
+        (4) a plan, with recommended actions, for improving the marine transportation system to meet current and future challenges; and
+
+        (5) steps taken to implement actions recommended in previous reports required under this subsection.
+
+    (f)  __Consultation__  __.—__ 
+
+    In carrying out its purpose and activities, the Committee may consult with marine transportation system-related advisory committees, interested parties, and the public.
+
+(Added [Pub. L. 112–213, title III, § 310(a)][/us/pl/112/213/s310/a], Dec. 20, 2012, [126 Stat. 1567][/us/stat/126/1567], § 55502; renumbered § 55501, [Pub. L. 113–281, title III, § 301(2)][/us/pl/113/281/s301/2], Dec. 18, 2014, [128 Stat. 3042][/us/stat/128/3042].)
+
+ __References in Text__ 
+
+    The date of enactment of this Act, referred to in subsec. (e), probably means the date of enactment of [Pub. L. 112–213][/us/pl/112/213], which enacted this section and was approved Dec. 20, 2012.
+
+ __Prior Provisions__ 
+
+    A prior section 55501, [Pub. L. 109–304, § 8(c)][/us/pl/109/304/s8/c], Oct. 6, 2006, [120 Stat. 1650][/us/stat/120/1650], related to mobile trade fairs to show and sell United States products at foreign ports and other global commercial centers, prior to repeal by [Pub. L. 113–281, title III, § 301(1)][/us/pl/113/281/s301/1], Dec. 18, 2014, [128 Stat. 3042][/us/stat/128/3042].
+
+ __Amendments__ 
+
+    2014—[Pub. L. 113–281][/us/pl/113/281] renumbered [section 55502 of this title][/us/usc/t46/s55502] as this section.
 
 ----------
 
@@ -86,7 +132,16 @@ June 29, 1936, ch. 858, title II, § 212(B), as added Pub. L. 87–839, § 1
 ----------
 ----------
 
+[/us/pl/112/213/s310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs310%2Fa
+[/us/stat/126/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1567
+[/us/pl/113/281/s301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs301%2F2
+[/us/stat/128/3042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3042
+[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
 [/us/pl/109/304/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs8%2Fc
 [/us/stat/120/1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1650
+[/us/pl/113/281/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs301%2F1
+[/us/stat/128/3042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3042
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/usc/t46/s55502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55502
 
 

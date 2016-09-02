@@ -235,33 +235,19 @@
 
  __Vessel and Intermodal Security Reports__ 
 
-[Pub. L. 108–293, title VIII, § 809(g)][/us/pl/108/293/s809/g]–(i), (k), Aug. 9, 2004, [118 Stat. 1087][/us/stat/118/1087], 1088, provided that:
+[Pub. L. 108–293, title VIII, § 809(g)][/us/pl/108/293/s809/g]–(i), (k), Aug. 9, 2004, [118 Stat. 1087][/us/stat/118/1087], 1088, as amended by [Pub. L. 113–284, § 2(a)(1)][/us/pl/113/284/s2/a/1], (2)(B), Dec. 18, 2014, [128 Stat. 3089][/us/stat/128/3089], provided that:
 
->     “(g)  __Evaluation of Cargo Inspection Targeting System for International Intermodal Cargo Containers__  __.—__ 
-
->     Within 180 days after the date of the enactment of this Act \[Aug. 9, 2004\] and annually thereafter, the Inspector General of the department in which the Coast Guard is operating shall prepare a report that includes an assessment of—
-
->         “(1) the effectiveness of the current tracking system to determine whether it is adequate to prevent international intermodal containers from being used for purposes of terrorism;
-
->         “(2) the sources of information, and the quality of the information at the time of reporting, used by the system to determine whether targeting information is collected from the best and most credible sources and evaluate data sources to determine information gaps and weaknesses;
-
->         “(3) the targeting system for reporting and analyzing inspection statistics, as well as testing effectiveness;
-
->         “(4) the competence and training of employees operating the system to determine whether they are sufficiently capable to detect potential terrorist threats; and
-
->         “(5) whether the system is an effective system to detect potential acts of terrorism and whether additional steps need to be taken in order to remedy deficiencies in targeting international intermodal containers for inspection.
-
->     “(h)  __Action Report__  __.—__ 
-
->     If the Inspector General of the department in which the Coast Guard is operating determines in any of the reports prepared under subsection (g) that the targeting system is insufficiently effective as a means of detecting potential acts of terrorism utilizing international intermodal containers, then the Secretary of the department in which the Coast Guard is operating shall, within 90 days, submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure \[of the\] House of Representatives on what actions will be taken to correct deficiencies identified in the Inspector General Report.
-
->     “(i)  __Compliance With Security Standards Established Pursuant to Maritime Transportation Security Plans__  __.—__ 
+>     “(g)  __Compliance With Security Standards Established Pursuant to Maritime Transportation Security Plans__  __.—__ 
 
 >     Within 180 days after the date of the enactment of this Act \[Aug. 9, 2004\] and annually thereafter, the Secretary of the department in which the Coast Guard is operating shall prepare a report on compliance and steps taken to ensure compliance by ports, terminals, vessel operators, and shippers with security standards established pursuant to [section 70103 of title 46][/us/usc/t46/s70103], United States Code. The reports shall also include a summary of security standards established pursuant to such section during the previous year. The Secretary shall submit the reports to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
->     “(k)  __Report and Plan Formats__  __.—__ 
+>     \[(h) Repealed. [Pub. L. 113–284, § 2(a)(1)][/us/pl/113/284/s2/a/1], Dec. 18, 2014, [128 Stat. 3089][/us/stat/128/3089].\]
+
+>     “(i)  __Report and Plan Formats__  __.—__ 
 
 >     The Secretary and the Inspector General of the department in which the Coast Guard is operating may submit any plan or report required by this section in both classified and redacted formats, if the Secretary determines that it is appropriate or necessary.”
+
+    \[(k) Redesignated (i).\]
 
  __Findings__ 
 
@@ -416,7 +402,11 @@
 [/us/stat/118/3729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3729
 [/us/pl/108/293/s809/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs809%2Fg
 [/us/stat/118/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1087
+[/us/pl/113/284/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F284%2Fs2%2Fa%2F1
+[/us/stat/128/3089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3089
 [/us/usc/t46/s70103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70103
+[/us/pl/113/284/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F284%2Fs2%2Fa%2F1
+[/us/stat/128/3089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3089
 [/us/pl/107/295/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs101
 [/us/stat/116/2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2066
 [/us/pl/107/295/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs109

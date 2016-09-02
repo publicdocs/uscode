@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t46/stII/ptF/ch81/m__us_usc_t46_s8106.md) | [Next](./../../../../../..//us/usc/t46/stII/ptF/ch83/m__us_usc_t46_stII_ptF_ch83.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs8107)
+[Previous](./../../../../../..//us/usc/t46/stII/ptF/ch81/m__us_usc_t46_s8106.md) | [Next](./../../../../../..//us/usc/t46/stII/ptF/ch81/m__us_usc_t46_s8108.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs8107)
 
 ## § 8107. Use of force against piracy
 
@@ -37,7 +37,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t46/stII/ptF/ch81/m__us_usc_t46_s8106.md) | [Next](./../../../../../..//us/usc/t46/stII/ptF/ch83/m__us_usc_t46_stII_ptF_ch83.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs8107)
+[Previous](./../../../../../..//us/usc/t46/stII/ptF/ch81/m__us_usc_t46_s8106.md) | [Next](./../../../../../..//us/usc/t46/stII/ptF/ch81/m__us_usc_t46_s8108.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs8107)
 
 ----------
 ----------
