@@ -711,7 +711,7 @@ Sept. 3, 1954, ch. 1257, § 102(6), 68 Stat. 1150.  </td>
 
     The Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (a)(17)(C), is [Pub. L. 100–526][/us/pl/100/526], Oct. 24, 1988, [102 Stat. 2623][/us/stat/102/2623], as amended. Title II of the Act is set out as a note under [section 2687 of this title][/us/usc/t10/s2687]. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under [section 2687 of this title][/us/usc/t10/s2687] and Tables.
 
-    The Atomic Energy Act of 1954, referred to in subsec. (e)(4)(C)(iii), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 921][/us/stat/68/921], and amended, which is classified generally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act of 1954, referred to in subsec. (e)(4)(C)(iii), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42][/us/usc/t42/s2011] and Tables.
 
  __Codification__ 
 
@@ -977,6 +977,10 @@ Sept. 3, 1954, ch. 1257, § 102(6), 68 Stat. 1150.  </td>
 
  __Coordination of Certain Sections of an Act With Other Provisions of That Act__ 
 
+[Pub. L. 113–66, div. A, title X, § 1091(f)][/us/pl/113/66/s1091/f], Dec. 26, 2013, [127 Stat. 877][/us/stat/127/877], provided that: 
+
+> “For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], the amendments made by this section shall be treated as having been enacted immediately before any amendment made by other provisions of this Act.”
+
 [Pub. L. 112–239, div. A, title X, § 1076(m)][/us/pl/112/239/s1076/m], Jan. 2, 2013, [126 Stat. 1956][/us/stat/126/1956], provided that: 
 
 > “For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], the amendments made by this section shall be treated as having been enacted immediately before any amendment made by other provisions of this Act.”
@@ -1028,6 +1032,8 @@ Sept. 3, 1954, ch. 1257, § 102(6), 68 Stat. 1150.  </td>
  __Congressional Defense Committees Defined__ 
 
 The following provisions provided that the term “congressional defense committees” for purposes of the Acts in which they were contained has the meaning given that term in subsec. (a)(16) of this section:
+
+    [Pub. L. 113–66, § 3][/us/pl/113/66/s3], Dec. 26, 2013, [127 Stat. 689][/us/stat/127/689].
 
     [Pub. L. 112–239, § 3][/us/pl/112/239/s3], Jan. 2, 2013, [126 Stat. 1652][/us/stat/126/1652].
 
@@ -1249,7 +1255,7 @@ The following provisions provided that the term “congressional defense committ
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
 [/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
-[/us/stat/68/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F921
+[/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
 [/us/usc/t10/s101/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F9
@@ -1393,6 +1399,8 @@ The following provisions provided that the term “congressional defense committ
 [/us/stat/94/2955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2955
 [/us/usc/t33/s3071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3071
 [/us/usc/t42/s213a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs213a
+[/us/pl/113/66/s1091/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Ff
+[/us/stat/127/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F877
 [/us/pl/112/239/s1076/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fm
 [/us/stat/126/1956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1956
 [/us/pl/109/364/s1071/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fi
@@ -1418,6 +1426,8 @@ The following provisions provided that the term “congressional defense committ
 [/us/stat/107/1774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1774
 [/us/pl/102/484/s1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1055
 [/us/stat/106/2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2503
+[/us/pl/113/66/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3
+[/us/stat/127/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F689
 [/us/pl/112/239/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3
 [/us/stat/126/1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1652
 [/us/pl/112/81/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs3

@@ -17,19 +17,43 @@
 
     (a) The Secretary, in accordance with the provisions of this chapter, may enter into cooperative agreements with eligible entities to carry out the purposes of this chapter.
 
-    (b) Under any such cooperative agreement, the eligible entity shall agree to sponsor programs to furnish procurement technical assistance to business entities and the Secretary shall agree to defray not more than one-half of the eligible entity’s cost of furnishing such assistance under such programs, except that in the case of a program sponsored by such an entity that provides services solely in a distressed area, the Secretary may agree to furnish more than one-half, but not more than three-fourths, of such cost with respect to such program.
+    (b)
+
+     Under any such cooperative agreement, the eligible entity shall agree to sponsor programs to furnish procurement technical assistance to business entities and the Secretary shall agree to defray not more than 65 percent of the eligible entity’s cost of furnishing such assistance under such programs, except that—
+
+        (1) in the case of a program sponsored by such an entity that provides services solely in a distressed area, the Secretary may agree to furnish more than 65 percent, but not more than 75 percent, of such cost with respect to such program; and
+
+        (2) in the case of a program sponsored by such an entity that provides assistance for covered small businesses pursuant to [section 2419(b) of this title][/us/usc/t10/s2419/b], the Secretary may agree to furnish the full cost of such assistance.
 
     (c) In entering into cooperative agreements under subsection (a), the Secretary shall assure that at least one procurement technical assistance program is carried out in each Department of Defense contract administration services district during each fiscal year.
 
-    (d) In conducting a competition for the award of a cooperative agreement under subsection (a), and in determining the level of funding to provide under an agreement under subsection (b), the Secretary shall give significant weight to successful past performance of eligible entities under a cooperative agreement under this section.
+    (d) In conducting a competition for the award of a cooperative agreement under subsection (a), the Secretary shall give significant weight to successful past performance of eligible entities under a cooperative agreement under this section.
 
-(Added [Pub. L. 98–525, title XII, § 1241(a)(1)][/us/pl/98/525/s1241/a/1], Oct. 19, 1984, [98 Stat. 2605][/us/stat/98/2605]; amended [Pub. L. 99–145, title IX, § 919(a)][/us/pl/99/145/s919/a], Nov. 8, 1985, [99 Stat. 692][/us/stat/99/692]; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 956(b)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–174, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 956(b)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–174; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 956(b), Nov. 14, 1986, [100 Stat. 3954][/us/stat/100/3954], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], and amended [Pub. L. 100–180, div. A, title XII, § 1233(b)][/us/pl/100/180/s1233/b], Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161]; [Pub. L. 105–261, div. A, title VIII, § 802(a)(1)][/us/pl/105/261/s802/a/1], Oct. 17, 1998, [112 Stat. 2081][/us/stat/112/2081]; [Pub. L. 107–314, div. A, title VIII, § 814][/us/pl/107/314/s814], Dec. 2, 2002, [116 Stat. 2610][/us/stat/116/2610].)
+    (e) In determining the level of funding to provide under an agreement under subsection (b), the Secretary shall consider the forecast by the eligible entity of demand for procurement technical assistance, and, in the case of an established program under this chapter, the outlays and receipts of such program during prior years of operation.
+
+(Added [Pub. L. 98–525, title XII, § 1241(a)(1)][/us/pl/98/525/s1241/a/1], Oct. 19, 1984, [98 Stat. 2605][/us/stat/98/2605]; amended [Pub. L. 99–145, title IX, § 919(a)][/us/pl/99/145/s919/a], Nov. 8, 1985, [99 Stat. 692][/us/stat/99/692]; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 956(b)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–174, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 956(b)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–174; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 956(b), Nov. 14, 1986, [100 Stat. 3954][/us/stat/100/3954], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], and amended [Pub. L. 100–180, div. A, title XII, § 1233(b)][/us/pl/100/180/s1233/b], Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161]; [Pub. L. 105–261, div. A, title VIII, § 802(a)(1)][/us/pl/105/261/s802/a/1], Oct. 17, 1998, [112 Stat. 2081][/us/stat/112/2081]; [Pub. L. 107–314, div. A, title VIII, § 814][/us/pl/107/314/s814], Dec. 2, 2002, [116 Stat. 2610][/us/stat/116/2610]; [Pub. L. 113–66, div. A, title XVI][/us/pl/113/66], §§ 1611(c), 1612(a), Dec. 26, 2013, [127 Stat. 947][/us/stat/127/947], 948.)
 
  __Codification__ 
 
     [Pub. L. 99–591][/us/pl/99/591] is a corrected version of [Pub. L. 99–500][/us/pl/99/500].
 
  __Amendments__ 
+
+    2013—Subsec. (b). [Pub. L. 113–66, § 1612(a)(1)][/us/pl/113/66/s1612/a/1], substituted “65 percent” for “one-half” in introductory provisions.
+
+    [Pub. L. 113–66, § 1611(c)(1)(A)][/us/pl/113/66/s1611/c/1/A], (B), substituted “except that—
+
+    “(1) in the case”
+
+    for “except that in the case” and “; and” for period at end.
+
+    Subsec. (b)(1). [Pub. L. 113–66, § 1612(a)][/us/pl/113/66/s1612/a], substituted “65 percent” for “one-half” and “75 percent” for “three-fourths”.
+
+    2013—Subsec. (b)(2). [Pub. L. 113–66, § 1611(c)(1)(C)][/us/pl/113/66/s1611/c/1/C], added par. (2).
+
+    Subsec. (d). [Pub. L. 113–66, § 1611(c)(3)][/us/pl/113/66/s1611/c/3], struck out “and in determining the level of funding to provide under an agreement under subsection (b),” after “subsection (a),”.
+
+    Subsec. (e). [Pub. L. 113–66, § 1611(c)(2)][/us/pl/113/66/s1611/c/2], added subsec. (e).
 
     2002—Subsec. (d). [Pub. L. 107–314][/us/pl/107/314] added subsec. (d).
 
@@ -58,6 +82,7 @@
 ----------
 ----------
 
+[/us/usc/t10/s2419/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2419%2Fb
 [/us/pl/98/525/s1241/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1241%2Fa%2F1
 [/us/stat/98/2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2605
 [/us/pl/99/145/s919/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs919%2Fa
@@ -76,8 +101,16 @@
 [/us/stat/112/2081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2081
 [/us/pl/107/314/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs814
 [/us/stat/116/2610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2610
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/stat/127/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F947
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
+[/us/pl/113/66/s1612/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1612%2Fa%2F1
+[/us/pl/113/66/s1611/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1611%2Fc%2F1%2FA
+[/us/pl/113/66/s1612/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1612%2Fa
+[/us/pl/113/66/s1611/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1611%2Fc%2F1%2FC
+[/us/pl/113/66/s1611/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1611%2Fc%2F3
+[/us/pl/113/66/s1611/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1611%2Fc%2F2
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180

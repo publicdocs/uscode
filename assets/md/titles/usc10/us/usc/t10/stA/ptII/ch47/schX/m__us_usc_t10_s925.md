@@ -13,13 +13,21 @@
 
 [Previous](./../../../../../../..//us/usc/t10/stA/ptII/ch47/schX/m__us_usc_t10_s924.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptII/ch47/schX/m__us_usc_t10_s926.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs925)
 
-## § 925. Art. 125. Sodomy
+## § 925. Art 125. Forcible sodomy; bestiality
 
-    (a) Any person subject to this chapter who engages in unnatural carnal copulation with another person of the same or opposite sex or with an animal is guilty of sodomy. Penetration, however slight, is sufficient to complete the offense.
+    (a)  __Forcible Sodomy__  __.—__ 
 
-    (b) Any person found guilty of sodomy shall be punished as a court-martial may direct.
+    Any person subject to this chapter who engages in unnatural carnal copulation with another person of the same or opposite sex by force or without the consent of the other person is guilty of forcible sodomy and shall be punished as a court-martial may direct.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 74][/us/stat/70A/74].)
+    (b)  __Bestiality__  __.—__ 
+
+    Any person subject to this chapter who engages in unnatural carnal copulation with an animal is guilty of bestiality and shall be punished as a court-martial may direct.
+
+    (c)  __Scope of Offenses__  __.—__ 
+
+    Penetration, however slight, is sufficient to complete an offense under subsection (a) or (b).
+
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 74][/us/stat/70A/74]; [Pub. L. 113–66, div. A, title XVII, § 1707(a)][/us/pl/113/66/s1707/a], Dec. 26, 2013, [127 Stat. 961][/us/stat/127/961].)
 
 <table>
 
@@ -69,6 +77,14 @@ May 5, 1950, ch. 169, § 1 (Art. 125), 64 Stat. 141.  </td>
 
 </table>
 
+ __Amendments__ 
+
+    2013—[Pub. L. 113–66][/us/pl/113/66] amended section catchline and text generally. Prior to amendment, text read as follows:
+
+    “(a) Any person subject to this chapter who engages in unnatural carnal copulation with another person of the same or opposite sex or with an animal is guilty of sodomy. Penetration, however slight, is sufficient to complete the offense.
+
+    “(b) Any person found guilty of sodomy shall be punished as a court-martial may direct.”
+
 ----------
 
 [Previous](./../../../../../../..//us/usc/t10/stA/ptII/ch47/schX/m__us_usc_t10_s924.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptII/ch47/schX/m__us_usc_t10_s926.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs925)
@@ -78,5 +94,8 @@ May 5, 1950, ch. 169, § 1 (Art. 125), 64 Stat. 141.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F74
+[/us/pl/113/66/s1707/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1707%2Fa
+[/us/stat/127/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F961
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 
 

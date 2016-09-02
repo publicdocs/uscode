@@ -63,9 +63,11 @@
 
         (2) the type and description of humanitarian demining assistance or stockpiled conventional munitions assistance carried out in each country during the preceding fiscal year, as specified in paragraph (1), and whether such assistance was primarily related to the humanitarian demining efforts or stockpiled conventional munitions assistance;
 
-        (3) a list of countries in which humanitarian demining assistance or stockpiled conventional munitions assistance could not be carried out during the preceding fiscal year due to insufficient numbers of Department of Defense personnel to carry out such activities; and
+        (3) a list of countries in which humanitarian demining assistance or stockpiled conventional munitions assistance could not be carried out during the preceding fiscal year due to insufficient numbers of Department of Defense personnel to carry out such activities;
 
-        (4) the amount expended in carrying out such assistance in each such country during the preceding fiscal year.
+        (4) the amount expended in carrying out such assistance in each such country during the preceding fiscal year; and
+
+        (5) a description of interagency efforts to coordinate and improve research, development, test, and evaluation for humanitarian demining technology and mechanical clearance methods, including the transfer of relevant counter-improvised explosive device technology with potential humanitarian demining applications.
 
     (e)  __Definitions__  __.—__ 
 
@@ -75,9 +77,11 @@
 
         (2) The term “stockpiled conventional munitions assistance”, as it relates to the support of humanitarian assistance efforts, means training and support in the disposal, demilitarization, physical security, and stockpile management of potentially dangerous stockpiles of explosive ordnance, and includes activities related to the furnishing of education, training, and technical assistance with respect to explosive safety, the detection and clearance of landmines and other explosive remnants of war, and the disposal, demilitarization, physical security, and stockpile management of potentially dangerous stockpiles of explosive ordnance.
 
-(Added [Pub. L. 109–364, div. A, title XII, § 1203(b)(1)][/us/pl/109/364/s1203/b/1], Oct. 17, 2006, [120 Stat. 2413][/us/stat/120/2413]; amended [Pub. L. 112–81, div. A, title X, § 1092(a)][/us/pl/112/81/s1092/a], (b)(1), Dec. 31, 2011, [125 Stat. 1605][/us/stat/125/1605], 1606.)
+(Added [Pub. L. 109–364, div. A, title XII, § 1203(b)(1)][/us/pl/109/364/s1203/b/1], Oct. 17, 2006, [120 Stat. 2413][/us/stat/120/2413]; amended [Pub. L. 112–81, div. A, title X, § 1092(a)][/us/pl/112/81/s1092/a], (b)(1), Dec. 31, 2011, [125 Stat. 1605][/us/stat/125/1605], 1606; [Pub. L. 113–66, div. A, title X, § 1083][/us/pl/113/66/s1083], Dec. 26, 2013, [127 Stat. 871][/us/stat/127/871].)
 
  __Amendments__ 
+
+    2013—Subsec. (d)(5). [Pub. L. 113–66][/us/pl/113/66] added par. (5).
 
     2011—[Pub. L. 112–81, § 1092(b)(1)][/us/pl/112/81/s1092/b/1], amended section catchline generally, substituting “Humanitarian demining assistance and stockpiled conventional munitions assistance: authority; limitations” for “Humanitarian demining assistance: authority; limitations”.
 
@@ -137,6 +141,9 @@
 [/us/stat/120/2413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2413
 [/us/pl/112/81/s1092/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1092%2Fa
 [/us/stat/125/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1605
+[/us/pl/113/66/s1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1083
+[/us/stat/127/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F871
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/81/s1092/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1092%2Fb%2F1
 [/us/pl/112/81/s1092/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1092%2Fa%2F1%2FA
 [/us/pl/112/81/s1092/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1092%2Fa%2F1%2FB

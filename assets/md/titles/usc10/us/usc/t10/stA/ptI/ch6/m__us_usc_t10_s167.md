@@ -101,7 +101,7 @@
 
                     (IV) work with the military departments to ensure that the command is appropriately represented in any joint working group or integrated product team regarding acquisition programs for which the command is a customer.
 
-                (ii) The command acquisition executive of the special operations command shall be included on the distribution list for acquisition directives and instructions of the Department of Defense.
+                (ii) The command acquisition executive of the special operations command shall be responsible to the commander for rapidly delivering acquisition solutions to meet validated special operations-peculiar requirements, subordinate to the Defense Acquisition Executive in matters of acquisition, subject to the same oversight as the service acquisition executives, and included on the distribution list for acquisition directives and instructions of the Department of Defense.
 
             (D) The staff of the commander shall include an inspector general who shall conduct internal audits and inspections of purchasing and contracting actions through the special operations command and such other inspector general functions as may be assigned.
 
@@ -165,7 +165,7 @@
 
         (2) Before the budget proposal for a military department for any fiscal year is submitted to the Secretary of Defense, the Secretary of that military department shall consult with the commander of the special operations command concerning funding for special operations forces in the military personnel budget for a reserve component in that military department. If the commander of that command does not concur in the recommended level of funding with respect to reserve component special operations units, the Secretary shall include with the budget proposal submitted to the Secretary of Defense the views of the commander of that command.
 
-(Added [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title IX, § 9115(b)(1)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–122, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title IX, § 9115(b)(1)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–122; [Pub. L. 99–661, div. A, title XIII, § 1311(b)(1)][/us/pl/99/661/s1311/b/1], Nov. 14, 1986, [100 Stat. 3983][/us/stat/100/3983]; amended [Pub. L. 100–180, div. A, title XII, § 1211(d)][/us/pl/100/180/s1211/d], Dec. 4, 1987, [101 Stat. 1156][/us/stat/101/1156]; [Pub. L. 100–456, div. A, title VII, § 712][/us/pl/100/456/s712], Sept. 29, 1988, [102 Stat. 1997][/us/stat/102/1997]; [Pub. L. 102–88, title VI, § 602(c)(3)][/us/pl/102/88/s602/c/3], Aug. 14, 1991, [105 Stat. 444][/us/stat/105/444]; [Pub. L. 103–337, div. A, title IX, § 925][/us/pl/103/337/s925], Oct. 5, 1994, [108 Stat. 2832][/us/stat/108/2832]; [Pub. L. 110–181, div. A, title VIII, § 810][/us/pl/110/181/s810], Jan. 28, 2008, [122 Stat. 217][/us/stat/122/217]; [Pub. L. 112–81, div. A, title X, § 1086(1)][/us/pl/112/81/s1086/1], Dec. 31, 2011, [125 Stat. 1603][/us/stat/125/1603].)
+(Added [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title IX, § 9115(b)(1)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–122, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title IX, § 9115(b)(1)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–122; [Pub. L. 99–661, div. A, title XIII, § 1311(b)(1)][/us/pl/99/661/s1311/b/1], Nov. 14, 1986, [100 Stat. 3983][/us/stat/100/3983]; amended [Pub. L. 100–180, div. A, title XII, § 1211(d)][/us/pl/100/180/s1211/d], Dec. 4, 1987, [101 Stat. 1156][/us/stat/101/1156]; [Pub. L. 100–456, div. A, title VII, § 712][/us/pl/100/456/s712], Sept. 29, 1988, [102 Stat. 1997][/us/stat/102/1997]; [Pub. L. 102–88, title VI, § 602(c)(3)][/us/pl/102/88/s602/c/3], Aug. 14, 1991, [105 Stat. 444][/us/stat/105/444]; [Pub. L. 103–337, div. A, title IX, § 925][/us/pl/103/337/s925], Oct. 5, 1994, [108 Stat. 2832][/us/stat/108/2832]; [Pub. L. 110–181, div. A, title VIII, § 810][/us/pl/110/181/s810], Jan. 28, 2008, [122 Stat. 217][/us/stat/122/217]; [Pub. L. 112–81, div. A, title X, § 1086(1)][/us/pl/112/81/s1086/1], Dec. 31, 2011, [125 Stat. 1603][/us/stat/125/1603]; [Pub. L. 113–66, div. A, title IX, § 903][/us/pl/113/66/s903], Dec. 26, 2013, [127 Stat. 816][/us/stat/127/816].)
 
  __References in Text__ 
 
@@ -178,6 +178,8 @@
     [Pub. L. 99–661][/us/pl/99/661] and [Pub. L. 99–500][/us/pl/99/500] added identical sections.
 
  __Amendments__ 
+
+    2013—Subsec. (e)(4)(C)(ii). [Pub. L. 113–66][/us/pl/113/66] inserted “responsible to the commander for rapidly delivering acquisition solutions to meet validated special operations-peculiar requirements, subordinate to the Defense Acquisition Executive in matters of acquisition, subject to the same oversight as the service acquisition executives, and” after “shall be”.
 
     2011—Subsec. (j)(6). [Pub. L. 112–81][/us/pl/112/81] added par. (6) and struck out former par. (6) which read as follows: “Psychological operations.”
 
@@ -241,23 +243,7 @@
 
  __Counterterrorism Operational Briefing Requirement__ 
 
-[Pub. L. 112–81, div. A, title X, § 1031][/us/pl/112/81/s1031], Dec. 31, 2011, [125 Stat. 1570][/us/stat/125/1570], provided that:
-
->     “(a)  __Briefings Required__  __.—__ 
-
->     Beginning not later than March 1, 2012, the Secretary of Defense shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] quarterly briefings outlining Department of Defense counterterrorism operations and related activities involving special operations forces.
-
->     “(b)  __Elements__  __.—__ 
-
->     Each briefing under subsection (a) shall include each of the following:
-
->         “(1) A global update on activity within each geographic combatant command.
-
->         “(2) An overview of authorities and legal issues including limitations.
-
->         “(3) An outline of interagency activities and initiatives.
-
->         “(4) Any other matters the Secretary considers appropriate.”
+    [Pub. L. 112–81, div. A, title X, § 1031][/us/pl/112/81/s1031], Dec. 31, 2011, [125 Stat. 1570][/us/stat/125/1570], required the Secretary of Defense, beginning not later than March 1, 2012, to provide to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives quarterly briefings outlining Department of Defense counterterrorism operations and related activities involving special operations forces, prior to repeal by [Pub. L. 113–66, div. A, title X, § 1042(b)][/us/pl/113/66/s1042/b], Dec. 26, 2013, [127 Stat. 857][/us/stat/127/857].
 
  __Quarterly Reports on Use of Combat Mission Requirements Funds__ 
 
@@ -376,12 +362,15 @@
 [/us/stat/122/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F217
 [/us/pl/112/81/s1086/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1086%2F1
 [/us/stat/125/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1603
+[/us/pl/113/66/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs903
+[/us/stat/127/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F816
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
@@ -403,6 +392,8 @@
 [/us/stat/125/1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1533
 [/us/pl/112/81/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1031
 [/us/stat/125/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1570
+[/us/pl/113/66/s1042/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1042%2Fb
+[/us/stat/127/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F857
 [/us/pl/111/383/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs123
 [/us/stat/124/4158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4158
 [/us/pl/112/81/s145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs145

@@ -19,7 +19,7 @@
 
         (1) Under regulations prescribed by the Secretary of Defense, the Secretary of a military department shall ensure that a member of the armed forces under the jurisdiction of the Secretary who has been deployed overseas in support of a contingency operation during the previous 24 months, and who is diagnosed by a physician, clinical psychologist, psychiatrist, licensed clinical social worker, or psychiatric advanced practice registered nurse as experiencing post-traumatic stress disorder or traumatic brain injury or who otherwise reasonably alleges, based on the service of the member while deployed, the influence of such a condition, receives a medical examination to evaluate a diagnosis of post-traumatic stress disorder or traumatic brain injury.
 
-        (2) A member covered by paragraph (1) shall not be administratively separated under conditions other than honorable until the results of the medical examination have been reviewed by appropriate authorities responsible for evaluating, reviewing, and approving the separation case, as determined by the Secretary concerned.
+        (2) A member covered by paragraph (1) shall not be administratively separated under conditions other than honorable, including an administrative separation in lieu of court-martial, until the results of the medical examination have been reviewed by appropriate authorities responsible for evaluating, reviewing, and approving the separation case, as determined by the Secretary concerned.
 
         (3) In a case involving post-traumatic stress disorder, the medical examination shall be performed by a clinical psychologist, psychiatrist, licensed clinical social worker, or psychiatric advanced practice registered nurse. In cases involving traumatic brain injury, the medical examination may be performed by a physician, clinical psychologist, psychiatrist, or other health care professional, as appropriate.
 
@@ -31,7 +31,7 @@
 
     The medical examination and procedures required by this section do not apply to courts-martial or other proceedings conducted pursuant to the Uniform Code of Military Justice.
 
-(Added [Pub. L. 111–84, div. A, title V, § 512(a)(1)][/us/pl/111/84/s512/a/1], Oct. 28, 2009, [123 Stat. 2280][/us/stat/123/2280]; amended [Pub. L. 112–239, div. A, title V, § 518][/us/pl/112/239/s518], Jan. 2, 2013, [126 Stat. 1720][/us/stat/126/1720].)
+(Added [Pub. L. 111–84, div. A, title V, § 512(a)(1)][/us/pl/111/84/s512/a/1], Oct. 28, 2009, [123 Stat. 2280][/us/stat/123/2280]; amended [Pub. L. 112–239, div. A, title V, § 518][/us/pl/112/239/s518], Jan. 2, 2013, [126 Stat. 1720][/us/stat/126/1720]; [Pub. L. 113–66, div. A, title V, § 522][/us/pl/113/66/s522], Dec. 26, 2013, [127 Stat. 755][/us/stat/127/755].)
 
  __References in Text__ 
 
@@ -44,6 +44,8 @@
  __Amendments__ 
 
     2013—Subsec. (a)(1). [Pub. L. 112–239, § 518(1)][/us/pl/112/239/s518/1], substituted “psychiatrist, licensed clinical social worker, or psychiatric advanced practice registered nurse” for “or psychiatrist”.
+
+    Subsec. (a)(2). [Pub. L. 113–66][/us/pl/113/66] inserted “, including an administrative separation in lieu of court-martial,” after “honorable”.
 
     Subsec. (a)(3). [Pub. L. 112–239, § 518(2)][/us/pl/112/239/s518/2], substituted “, psychiatrist, licensed clinical social worker, or psychiatric advanced practice registered nurse” for “or psychiatrist”.
 
@@ -58,6 +60,8 @@
 [/us/stat/123/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2280
 [/us/pl/112/239/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs518
 [/us/stat/126/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1720
+[/us/pl/113/66/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs522
+[/us/stat/127/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F755
 [/us/pl/103/337/s560/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs560%2Fa%2F1
 [/us/stat/108/2777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2777
 [/us/pl/104/106/s567/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs567%2Fa%2F1
@@ -65,6 +69,7 @@
 [/us/pl/104/134/s2707/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs2707%2Fa%2F1
 [/us/stat/110/1321-330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-330
 [/us/pl/112/239/s518/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs518%2F1
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239/s518/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs518%2F2
 
 

@@ -53,7 +53,7 @@
 
  __Space Protection Strategy__ 
 
-[Pub. L. 110–181, div. A, title IX, § 911(a)][/us/pl/110/181/s911/a]–(f), Jan. 28, 2008, [122 Stat. 279][/us/stat/122/279], 280, provided that:
+[Pub. L. 110–181, div. A, title IX, § 911(a)][/us/pl/110/181/s911/a]–(f), Jan. 28, 2008, [122 Stat. 279][/us/stat/122/279], 280, as amended by [Pub. L. 113–66, div. A, title IX, § 912(c)][/us/pl/113/66/s912/c], Dec. 26, 2013, [127 Stat. 824][/us/stat/127/824], provided that:
 
 >     “(a)  __Sense of Congress__  __.—__ 
 
@@ -113,7 +113,11 @@
 
 >         “(1)  __Report__  __.—__ 
 
->         Not later than six months after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense, in conjunction with the Director of National Intelligence, shall submit to Congress a report on the strategy required by subsection (b), including each of the matters required by subsection (c).
+>         Not later than six months after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense, in conjunction with the Director of National Intelligence, shall submit to Congress a report on the strategy required by subsection (b), including—
+
+>             “(A) each of the matters required by subsection (c); and
+
+>             “(B) a description of how the Department of Defense and the intelligence community plan to provide necessary national security capabilities, through alternative space, airborne, or ground systems, if a foreign actor degrades, denies access to, or destroys United States national security space capabilities.
 
 >         “(2)  __Biennial update__  __.—__ 
 
@@ -197,6 +201,8 @@
 [/us/usc/t10/s668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs668
 [/us/pl/110/181/s911/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs911%2Fa
 [/us/stat/122/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F279
+[/us/pl/113/66/s912/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs912%2Fc
+[/us/stat/127/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F824
 [/us/usc/t50/s401a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a%2F4
 [/us/pl/110/181/s1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1065
 [/us/stat/122/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F324

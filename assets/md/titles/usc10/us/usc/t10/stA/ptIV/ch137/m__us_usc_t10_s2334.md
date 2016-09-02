@@ -45,9 +45,11 @@
 
                 (iv) any report under [section 2445c(f) of this title][/us/usc/t10/s2445c/f]; and
 
-            (B) at any other time considered appropriate by the Director or upon the request of the Under Secretary of Defense for Acquisition, Technology, and Logistics; and
+            (B) at any other time considered appropriate by the Director or upon the request of the Under Secretary of Defense for Acquisition, Technology, and Logistics;
 
-        (7) periodically assess and update the cost indexes used by the Department to ensure that such indexes have a sound basis and meet the Department’s needs for realistic cost estimation.
+        (7) periodically assess and update the cost indexes used by the Department to ensure that such indexes have a sound basis and meet the Department’s needs for realistic cost estimation; and
+
+        (8) annually review the cost and associated information required to be included, by [section 2432(c)(1) of this title][/us/usc/t10/s2432/c/1], in the Selected Acquisition Reports required by that section.
 
     (b)  __Review of Cost Estimates, Cost Analyses, and Records of the Military Departments and Defense Agencies__  __.—__ 
 
@@ -115,13 +117,15 @@
 
         (1)
 
-         The Director of Cost Assessment and Program Evaluation shall prepare an annual report summarizing the cost estimation and cost analysis activities of the Department of Defense during the previous year and assessing the progress of the Department in improving the accuracy of its cost estimates and analyses. Each report shall include, for the year covered by such report, an assessment of—
+         The Director of Cost Assessment and Program Evaluation shall prepare an annual report summarizing the cost estimation and cost analysis activities of the Department of Defense during the previous year and assessing the progress of the Department in improving the accuracy of its cost estimates and analyses. Each report shall include, for the year covered by such report—
 
-            (A) the extent to which each of the military departments and Defense Agencies have complied with policies, procedures, and guidance issued by the Director with regard to the preparation of cost estimates for major defense acquisition programs and major automated information systems;
+            (A) an assessment of the extent to which each of the military departments and Defense Agencies have complied with policies, procedures, and guidance issued by the Director with regard to the preparation of cost estimates for major defense acquisition programs and major automated information systems;
 
-            (B) the overall quality of cost estimates prepared by each of the military departments and Defense Agencies for major defense acquisition programs and major automated information system programs; and
+            (B) an assessment of the overall quality of cost estimates prepared by each of the military departments and Defense Agencies for major defense acquisition programs and major automated information system programs;
 
-            (C) any consistent differences in methodology or approach among the cost estimates prepared by the military departments, the Defense Agencies, and the Director.
+            (C) an assessment of any consistent differences in methodology or approach among the cost estimates prepared by the military departments, the Defense Agencies, and the Director; and
+
+            (D) a summary of the cost and associated information reviewed under subsection (a)(8), an identification of any trends in that information, an aggregation of the cumulative risk of the portfolio of systems reviewed under that subsection, and recommendations for improving cost estimates on the basis of the review under that subsection.
 
         (2) Each report under this subsection shall be submitted concurrently to the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Under Secretary of Defense (Comptroller), and the congressional defense committees not later than 10 days after the transmittal to Congress of the budget of the President for the next fiscal year (as submitted pursuant to [section 1105 of title 31][/us/usc/t31/s1105]).
 
@@ -139,9 +143,17 @@
 
     The Secretary of Defense shall ensure that the Director of Cost Assessment and Program Evaluation has sufficient professional staff of military and civilian personnel to enable the Director to carry out the duties and responsibilities of the Director under this section.
 
-(Added [Pub. L. 111–23, title I, § 101(b)(1)][/us/pl/111/23/s101/b/1], May 22, 2009, [123 Stat. 1706][/us/stat/123/1706]; amended [Pub. L. 111–383, div. A, title VIII, § 811][/us/pl/111/383/s811], Jan. 7, 2011, [124 Stat. 4263][/us/stat/124/4263]; [Pub. L. 112–81, div. A, title VIII, § 833][/us/pl/112/81/s833], Dec. 31, 2011, [125 Stat. 1506][/us/stat/125/1506].)
+(Added [Pub. L. 111–23, title I, § 101(b)(1)][/us/pl/111/23/s101/b/1], May 22, 2009, [123 Stat. 1706][/us/stat/123/1706]; amended [Pub. L. 111–383, div. A, title VIII, § 811][/us/pl/111/383/s811], Jan. 7, 2011, [124 Stat. 4263][/us/stat/124/4263]; [Pub. L. 112–81, div. A, title VIII, § 833][/us/pl/112/81/s833], Dec. 31, 2011, [125 Stat. 1506][/us/stat/125/1506]; [Pub. L. 113–66, div. A, title VIII, § 812(c)][/us/pl/113/66/s812/c], Dec. 26, 2013, [127 Stat. 808][/us/stat/127/808].)
 
  __Amendments__ 
+
+    2013—Subsec. (a)(8). [Pub. L. 113–66, § 812(c)(1)][/us/pl/113/66/s812/c/1], added par. (8).
+
+    Subsec. (f)(1). [Pub. L. 113–66, § 812(c)(2)(A)][/us/pl/113/66/s812/c/2/A], substituted “report—” for “report, an assessment of—” in introductory provisions.
+
+    Subsec. (f)(1)(A) to (C). [Pub. L. 113–66, § 812(c)(2)(B)][/us/pl/113/66/s812/c/2/B], inserted “an assessment of” at beginning of subpars. (A) to (C).
+
+    Subsec. (f)(1)(D). [Pub. L. 113–66, § 812(c)(2)(C)][/us/pl/113/66/s812/c/2/C]–(E), added subpar. (D).
 
     2011—Subsec. (d)(1). [Pub. L. 111–383, § 811(1)(A)][/us/pl/111/383/s811/1/A], substituted “paragraph (3)” for “paragraph (2)” and “and the rationale for selecting such confidence level;” for “, the rationale for selecting such confidence level, and, if such confidence level is less than 80 percent, the justification for selecting a confidence level of less than 80 percent; and”.
 
@@ -176,6 +188,7 @@
 
 [/us/usc/t10/s2433a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2433a
 [/us/usc/t10/s2445c/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2445c%2Ff
+[/us/usc/t10/s2432/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2432%2Fc%2F1
 [/us/usc/t10/s2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2432
 [/us/usc/t10/s2445c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2445c
 [/us/usc/t10/s2308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2308
@@ -186,6 +199,12 @@
 [/us/stat/124/4263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4263
 [/us/pl/112/81/s833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs833
 [/us/stat/125/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1506
+[/us/pl/113/66/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs812%2Fc
+[/us/stat/127/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F808
+[/us/pl/113/66/s812/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs812%2Fc%2F1
+[/us/pl/113/66/s812/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs812%2Fc%2F2%2FA
+[/us/pl/113/66/s812/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs812%2Fc%2F2%2FB
+[/us/pl/113/66/s812/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs812%2Fc%2F2%2FC
 [/us/pl/111/383/s811/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs811%2F1%2FA
 [/us/pl/111/383/s811/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs811%2F1%2FB
 [/us/pl/111/383/s811/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs811%2F3

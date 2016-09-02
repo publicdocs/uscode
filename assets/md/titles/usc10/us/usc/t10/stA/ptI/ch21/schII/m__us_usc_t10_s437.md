@@ -17,19 +17,25 @@
 
     (a)  __Proposed Regulations__  __.—__ 
 
-    Copies of regulations proposed to be prescribed under [section 436 of this title][/us/usc/t10/s436] (including any proposed revision to such regulations) shall be submitted to the intelligence committees not less than 30 days before they take effect.
+    Copies of regulations proposed to be prescribed under [section 436 of this title][/us/usc/t10/s436] (including any proposed revision to such regulations) shall be submitted to congressional defense committees and the congressional intelligence committees not less than 30 days before they take effect.
 
     (b)  __Current Information__  __.—__ 
 
-    Consistent with title V of the National Security Act of 1947 ([50 U.S.C. 413][/us/usc/t50/s413] et seq.), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the Secretary of Defense shall ensure that the intelligence committees are kept fully and currently informed of actions taken pursuant to this subchapter, including any significant anticipated activity to be authorized pursuant to this subchapter.
+    The Secretary of Defense shall ensure that congressional defense committees and the congressional intelligence committees are kept fully and currently informed of actions taken pursuant to this subchapter, including any significant anticipated activity to be authorized pursuant to this subchapter.
 
-(Added [Pub. L. 102–88, title V, § 504(a)(2)][/us/pl/102/88/s504/a/2], Aug. 14, 1991, [105 Stat. 440][/us/stat/105/440]; amended [Pub. L. 107–306, title VIII, § 811(b)(4)(A)][/us/pl/107/306/s811/b/4/A], Nov. 27, 2002, [116 Stat. 2423][/us/stat/116/2423]; [Pub. L. 108–136, div. A, title X, § 1031(a)(7)][/us/pl/108/136/s1031/a/7], Nov. 24, 2003, [117 Stat. 1596][/us/stat/117/1596]; [Pub. L. 108–375, div. A, title X, § 1084(d)(3)][/us/pl/108/375/s1084/d/3], Oct. 28, 2004, [118 Stat. 2061][/us/stat/118/2061]; [Pub. L. 112–81, div. A, title X, § 1061(5)][/us/pl/112/81/s1061/5], Dec. 31, 2011, [125 Stat. 1583][/us/stat/125/1583].)
+    (c)  __Congressional Intelligence Committees Defined__  __.—__ 
 
- __References in Text__ 
+    In this section, the term “congressional intelligence committees” has the meaning given the term in section 3 of the National Security Act of 1947 ([50 U.S.C. 3003][/us/usc/t50/s3003]).
 
-    The National Security Act of 1947, referred to in subsec. (b), is [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], [61 Stat. 495][/us/stat/61/495], which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
+(Added [Pub. L. 102–88, title V, § 504(a)(2)][/us/pl/102/88/s504/a/2], Aug. 14, 1991, [105 Stat. 440][/us/stat/105/440]; amended [Pub. L. 107–306, title VIII, § 811(b)(4)(A)][/us/pl/107/306/s811/b/4/A], Nov. 27, 2002, [116 Stat. 2423][/us/stat/116/2423]; [Pub. L. 108–136, div. A, title X, § 1031(a)(7)][/us/pl/108/136/s1031/a/7], Nov. 24, 2003, [117 Stat. 1596][/us/stat/117/1596]; [Pub. L. 108–375, div. A, title X, § 1084(d)(3)][/us/pl/108/375/s1084/d/3], Oct. 28, 2004, [118 Stat. 2061][/us/stat/118/2061]; [Pub. L. 112–81, div. A, title X, § 1061(5)][/us/pl/112/81/s1061/5], Dec. 31, 2011, [125 Stat. 1583][/us/stat/125/1583]; [Pub. L. 113–66, div. A, title IX, § 921(c)][/us/pl/113/66/s921/c], Dec. 26, 2013, [127 Stat. 827][/us/stat/127/827].)
 
  __Amendments__ 
+
+    2013—Subsec. (a). [Pub. L. 113–66, § 921(c)(1)][/us/pl/113/66/s921/c/1], substituted “congressional defense committees and the congressional intelligence committees” for “the intelligence committees”.
+
+    Subsec. (b). [Pub. L. 113–66, § 921(c)(2)][/us/pl/113/66/s921/c/2], substituted “The Secretary” for “Consistent with title V of the National Security Act of 1947 ([50 U.S.C. 413][/us/usc/t50/s413] et seq.), the Secretary” and “congressional defense committees and the congressional intelligence committees” for “the intelligence committees”.
+
+    Subsec. (c). [Pub. L. 113–66, § 921(c)(3)][/us/pl/113/66/s921/c/3], added subsec. (c).
 
     2011—Subsec. (c). [Pub. L. 112–81][/us/pl/112/81] struck out subsec. (c) which related to submission of an annual report on certain authorized commercial activities.
 
@@ -51,7 +57,7 @@
 ----------
 
 [/us/usc/t10/s436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs436
-[/us/usc/t50/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs413
+[/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
 [/us/pl/102/88/s504/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2Fs504%2Fa%2F2
 [/us/stat/105/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F440
 [/us/pl/107/306/s811/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs811%2Fb%2F4%2FA
@@ -62,8 +68,12 @@
 [/us/stat/118/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2061
 [/us/pl/112/81/s1061/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F5
 [/us/stat/125/1583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1583
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
-[/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
+[/us/pl/113/66/s921/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs921%2Fc
+[/us/stat/127/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F827
+[/us/pl/113/66/s921/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs921%2Fc%2F1
+[/us/pl/113/66/s921/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs921%2Fc%2F2
+[/us/usc/t50/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs413
+[/us/pl/113/66/s921/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs921%2Fc%2F3
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/usc/t50/s415b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs415b

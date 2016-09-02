@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_s187.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch8/m__us_usc_t10_stA_ptI_ch8.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs188)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_s187.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_s189.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs188)
 
 ## § 188. Interagency Council on the Strategic Capability of the National Laboratories
 
@@ -153,7 +153,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_s187.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch8/m__us_usc_t10_stA_ptI_ch8.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs188)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_s187.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_s189.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs188)
 
 ----------
 ----------

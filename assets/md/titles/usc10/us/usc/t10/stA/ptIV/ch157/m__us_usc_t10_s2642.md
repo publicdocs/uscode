@@ -13,25 +13,31 @@
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch157/m__us_usc_t10_s2641b.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch157/m__us_usc_t10_s2643.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2642)
 
-## § 2642. Airlift services provided to certain other agencies: use of Department of Defense reimbursement rate
+## § 2642. Transportation services provided to certain other agencies: use of Department of Defense reimbursement rate
 
     (a)  __Authority__  __.—__ 
 
-    The Secretary of Defense may authorize the use of the Department of Defense reimbursement rate for military airlift services provided by a component of the Department of Defense as follows:
+    The Secretary of Defense may authorize the use of the Department of Defense reimbursement rate for military transportation services provided by a component of the Department of Defense as follows:
 
-        (1) For military airlift services provided to the Central Intelligence Agency, if the Secretary of Defense determines that those military airlift services are provided for activities related to national security objectives.
+        (1) For military transportation services provided to the Central Intelligence Agency, if the Secretary of Defense determines that those military transportation services are provided for activities related to national security objectives.
 
-        (2) For military airlift services provided to the Department of State for the transportation of armored motor vehicles to a foreign country to meet requirements of the Department of State for armored motor vehicles associated with the overseas travel of the Secretary of State in that country.
+        (2) For military transportation services provided to the Department of State for the transportation of armored motor vehicles to a foreign country to meet requirements of the Department of State for armored motor vehicles associated with the overseas travel of the Secretary of State in that country.
 
-        (3) During the period beginning on October 28, 2009, and ending on October 28, 2014, for military airlift services provided to any element of the Federal Government outside the Department of Defense in circumstances other than those specified in paragraphs (1) and (2), but only if the Secretary of Defense determines that the provision of such services will promote the improved use of airlift capacity without any negative effect on the national security objectives or the national security interests contained within the United States commercial air industry.
+        (3) During the period beginning on October 28, 2009, and ending on September 30, 2019, for military transportation services provided to any element of the Federal Government outside the Department of Defense military  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “and”. </sup></sup>  transportation services provided in support of foreign military sales in circumstances other than those specified in paragraphs (1) and (2), but only if the Secretary of Defense determines that the provision of such services will promote the improved use of transportation capacity without any negative effect on the national security objectives or the national security interests contained within the United States commercial transportation industry.
 
     (b)  __Definition__  __.—__ 
 
     In this section, the term “Department of Defense reimbursement rate” means the amount charged a component of the Department of Defense by another component of the Department of Defense.
 
-(Added [Pub. L. 102–88, title V, § 501(a)][/us/pl/102/88/s501/a], Aug. 14, 1991, [105 Stat. 435][/us/stat/105/435]; amended [Pub. L. 108–136, div. A, title X, § 1006(a)][/us/pl/108/136/s1006/a], (b)(1), Nov. 24, 2003, [117 Stat. 1585][/us/stat/117/1585]; [Pub. L. 111–84, div. A, title III, § 351(a)][/us/pl/111/84/s351/a], Oct. 28, 2009, [123 Stat. 2262][/us/stat/123/2262]; [Pub. L. 111–383, div. A, title X, § 1075(b)(40)][/us/pl/111/383/s1075/b/40], Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371].)
+(Added [Pub. L. 102–88, title V, § 501(a)][/us/pl/102/88/s501/a], Aug. 14, 1991, [105 Stat. 435][/us/stat/105/435]; amended [Pub. L. 108–136, div. A, title X, § 1006(a)][/us/pl/108/136/s1006/a], (b)(1), Nov. 24, 2003, [117 Stat. 1585][/us/stat/117/1585]; [Pub. L. 111–84, div. A, title III, § 351(a)][/us/pl/111/84/s351/a], Oct. 28, 2009, [123 Stat. 2262][/us/stat/123/2262]; [Pub. L. 111–383, div. A, title X, § 1075(b)(40)][/us/pl/111/383/s1075/b/40], Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371]; [Pub. L. 113–66, div. A, title X, § 1073(a)][/us/pl/113/66/s1073/a], (b), Dec. 26, 2013, [127 Stat. 869][/us/stat/127/869].)
 
  __Amendments__ 
+
+    2013—[Pub. L. 113–66, § 1073(b)][/us/pl/113/66/s1073/b], substituted “Transportation” for “Airlift” in section catchline.
+
+    Subsec. (a). [Pub. L. 113–66, § 1073(a)(1)][/us/pl/113/66/s1073/a/1], substituted “transportation” for “airlift” wherever appearing.
+
+    Subsec. (a)(3). [Pub. L. 113–66, § 1073(a)(2)][/us/pl/113/66/s1073/a/2], substituted “September 30, 2019” for “October 28, 2014” and “transportation industry” for “air industry” and inserted “military transportation services provided in support of foreign military sales” after “Department of Defense”.
 
     2011—Subsec. (a)(3). [Pub. L. 111–383][/us/pl/111/383] substituted “During the period beginning on October 28, 2009, and ending on October 28, 2014” for “During the five-year period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010”.
 
@@ -60,6 +66,11 @@
 [/us/stat/123/2262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2262
 [/us/pl/111/383/s1075/b/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F40
 [/us/stat/124/4371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4371
+[/us/pl/113/66/s1073/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1073%2Fa
+[/us/stat/127/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F869
+[/us/pl/113/66/s1073/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1073%2Fb
+[/us/pl/113/66/s1073/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1073%2Fa%2F1
+[/us/pl/113/66/s1073/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1073%2Fa%2F2
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/108/136/s1006/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1006%2Fb%2F1

@@ -203,6 +203,74 @@
 
     Amendment by [Pub. L. 103–337][/us/pl/103/337] applicable only to members of the Coast Guard who are separated after Sept. 30, 1994, see [section 542(e) of Pub. L. 103–337][/us/pl/103/337/s542/e], set out as a note under [section 1141 of this title][/us/usc/t10/s1141].
 
+ __Mental Health Care Treatment Through Telemedicine__ 
+
+[Pub. L. 113–66, div. A, title VII, § 702][/us/pl/113/66/s702], Dec. 26, 2013, [127 Stat. 790][/us/stat/127/790], provided that:
+
+>     “(a) __Provision of Mental Health Care Via Telemedicine.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         In carrying out the Transitional Assistance Management Program, the Secretary of Defense may extend the coverage of such program for covered individuals for an additional 180 days for mental health care provided through telemedicine.
+
+>         “(2)  __Report__  __.—__ 
+
+>         If the Secretary extends coverage under paragraph (1), by not later than one year after the date of carrying out such extension, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that includes the following:
+
+>             “(A) The rate at which individuals are using the extended coverage provided pursuant to paragraph (1).
+
+>             “(B) A description of the mental health care provided pursuant to such subsection.
+
+>             “(C) An analysis of how the Secretary and the Secretary of Veterans Affairs coordinate the continuation of care with respect to veterans who are no longer eligible for the Transitional Assistance Management Program.
+
+>             “(D) Any other factors the Secretary of Defense determines necessary with respect to extending coverage of the Transitional Assistance Management Program.
+
+>         “(3)  __Termination__  __.—__ 
+
+>         The authority of the Secretary to carry out subsection (a) shall terminate on December 31, 2018.
+
+>     “(b) __Report on Use of Telemedicine.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than 270 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary shall submit to the congressional defense committees a report on the use of telemedicine to improve the diagnosis and treatment of post-traumatic stress disorder, traumatic brain injuries, and mental health conditions.
+
+>         “(2)  __Elements__  __.—__ 
+
+>         The report under paragraph (1) shall address the following:
+
+>             “(A) The current status, as of the date of the report, of telemedicine initiatives within the Department of Defense to diagnose and treat post-traumatic stress disorder, traumatic brain injuries, and mental health conditions.
+
+>             “(B) Plans for integrating telemedicine into the military health care system, including in health care delivery, records management, medical education, public health, and private sector partnerships.
+
+>             “(C) The status of the integration of the telemedicine initiatives of the Department with the telemedicine initiatives of the Department of Veterans Affairs.
+
+>             “(D) A description and assessment of challenges to the use of telemedicine as a means of in-home treatment, outreach in rural areas, and in settings that provide group treatment or therapy in connection with treatment of post-traumatic stress disorder, traumatic brain injuries, and mental health conditions, and a description and assessment of efforts to address such challenges.
+
+>             “(E) A description of privacy issues related to the use of telemedicine for the treatment of post-traumatic stress disorder, traumatic brain injuries, and mental health conditions, and recommendations for mechanisms to remedy any privacy concerns relating to such use of telemedicine.
+
+>             “(F) A description of professional licensing issues with respect to licensed medical providers who provide treatment using telemedicine.
+
+>     “(c)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1)
+
+>          The term ‘covered individual’ means an individual who—
+
+>             “(A) during the initial 180-day period of being enrolled in the Transitional Assistance Management Program, received any mental health care; or
+
+>             “(B) during the one-year period preceding separation or discharge from the Armed Forces, received any mental health care.
+
+>         “(2) The term ‘telemedicine’ means the use by a health care provider of telecommunications to assist in the diagnosis or treatment of a patient’s medical condition.”
+
+ __Temporary Extension of Transitional Health Care Benefits__ 
+
+    [Pub. L. 108–136, div. A, title VII, § 704][/us/pl/108/136/s704], Nov. 24, 2003, [117 Stat. 1527][/us/stat/117/1527], which provided during the period beginning on Nov. 24, 2003, and ending on Dec. 31, 2004, for the extension of transitional health care benefits to 180 days for members separated from active duty, was repealed by [Pub. L. 108–375, div. A, title VII, § 706(a)(2)(A)][/us/pl/108/375/s706/a/2/A], Oct. 28, 2004, [118 Stat. 1983][/us/stat/118/1983].
+
+    [Pub. L. 108–106, title I, § 1117][/us/pl/108/106/s1117], Nov. 6, 2003, [117 Stat. 1218][/us/stat/117/1218], which provided during the period beginning on Nov. 6, 2003, and ending on Sept. 30, 2004, for the extension of transitional health care benefits to 180 days for members separated from active duty, was repealed by [Pub. L. 108–375, div. A, title VII, § 706(a)(2)(B)][/us/pl/108/375/s706/a/2/B], Oct. 28, 2004, [118 Stat. 1983][/us/stat/118/1983].
+
  __Application of Amendments by__  __[__  __Pub. L. 102–484__  __][/us/pl/102/484]__  __to Existing Contracts__ 
 
     For provisions relating to the application of the amendments by [section 4407 of Pub. L. 102–484][/us/pl/102/484/s4407] to conversion health policies provided under subsec. (b) of this section and in effect on Oct. 23, 1992, see [section 4407(c) of Pub. L. 102–484][/us/pl/102/484/s4407/c], set out as a note under [section 1086a of this title][/us/usc/t10/s1086a].
@@ -216,12 +284,6 @@
  __Termination of Applicability of Other Conversion Health Policies__ 
 
     For provisions prohibiting purchase of, and allowing cancellation of, conversion health policies under subsec. (b) of this section on or after Oct. 1, 1994, see [section 4408(c) of Pub. L. 102–484][/us/pl/102/484/s4408/c], set out as a note under [section 1086a of this title][/us/usc/t10/s1086a].
-
- __Temporary Extension of Transitional Health Care Benefits__ 
-
-    [Pub. L. 108–136, div. A, title VII, § 704][/us/pl/108/136/s704], Nov. 24, 2003, [117 Stat. 1527][/us/stat/117/1527], which provided during the period beginning on Nov. 24, 2003, and ending on Dec. 31, 2004, for the extension of transitional health care benefits to 180 days for members separated from active duty, was repealed by [Pub. L. 108–375, div. A, title VII, § 706(a)(2)(A)][/us/pl/108/375/s706/a/2/A], Oct. 28, 2004, [118 Stat. 1983][/us/stat/118/1983].
-
-    [Pub. L. 108–106, title I, § 1117][/us/pl/108/106/s1117], Nov. 6, 2003, [117 Stat. 1218][/us/stat/117/1218], which provided during the period beginning on Nov. 6, 2003, and ending on Sept. 30, 2004, for the extension of transitional health care benefits to 180 days for members separated from active duty, was repealed by [Pub. L. 108–375, div. A, title VII, § 706(a)(2)(B)][/us/pl/108/375/s706/a/2/B], Oct. 28, 2004, [118 Stat. 1983][/us/stat/118/1983].
 
 ----------
 
@@ -320,6 +382,16 @@
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s542/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs542%2Fe
 [/us/usc/t10/s1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1141
+[/us/pl/113/66/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs702
+[/us/stat/127/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F790
+[/us/pl/108/136/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs704
+[/us/stat/117/1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1527
+[/us/pl/108/375/s706/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs706%2Fa%2F2%2FA
+[/us/stat/118/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1983
+[/us/pl/108/106/s1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F106%2Fs1117
+[/us/stat/117/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1218
+[/us/pl/108/375/s706/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs706%2Fa%2F2%2FB
+[/us/stat/118/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1983
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/102/484/s4407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4407
 [/us/pl/102/484/s4407/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4407%2Fc
@@ -331,13 +403,5 @@
 [/us/usc/t10/s1145/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1145%2Fa
 [/us/pl/102/484/s4408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4408%2Fc
 [/us/usc/t10/s1086a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1086a
-[/us/pl/108/136/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs704
-[/us/stat/117/1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1527
-[/us/pl/108/375/s706/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs706%2Fa%2F2%2FA
-[/us/stat/118/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1983
-[/us/pl/108/106/s1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F106%2Fs1117
-[/us/stat/117/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1218
-[/us/pl/108/375/s706/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs706%2Fa%2F2%2FB
-[/us/stat/118/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1983
 
 

@@ -339,6 +339,158 @@ Source (Statutes at Large)  </td>
 
 > “This title \[enacting sections 2303a, 2317 to 2323, 2384a, 2402 to 2405, and 2411 to 2416 of this title, amending sections 139a, 139b, 2302, 2305, 2311, 2384, and 2401 of this title, enacting provisions set out as notes under this section and sections 139, 139a, 2303a, 2305, 2318, 2319, 2322, 2323, 2384, 2384a, 2392, and 2402 of this title, amending provisions set out as notes under sections 2392, 2401, and 2452 of this title, and repealing provisions set out as notes under [section 2304 of this title][/us/usc/t10/s2304]\] may be cited as the ‘Defense Procurement Reform Act of 1984’.”
 
+ __Prohibition on Contracting With the Enemy__ 
+
+[Pub. L. 113–66, div. A, title VIII, § 831][/us/pl/113/66/s831], Dec. 26, 2013, [127 Stat. 810][/us/stat/127/810], provided that:
+
+>     “(a) __Authority To Terminate or Void Contracts, Grants, and Cooperative Agreements and To Restrict Future Award.—__ 
+
+>         “(1)  __Identification of persons and entities__  __.—__ 
+
+>         The Secretary of Defense shall establish in each covered combatant command a program to identify persons or entities, within the area of responsibility of such covered combatant command, that—
+
+>             “(A) provide funds received under a contract, grant, or cooperative agreement of the Department of Defense directly or indirectly to a covered person or entity; or
+
+>             “(B) fail to exercise due diligence to ensure that none of the funds received under a contract, grant, or cooperative agreement of the Department of Defense are provided directly or indirectly to a covered person or entity.
+
+>         “(2)  __Notice of persons or entities identified__  __.—__ 
+
+>         Upon the identification of a person or entity as meeting subparagraph (A) or (B) of paragraph (1), the commander of the combatant command concerned, and any deputies of the commander specified by the commander for purposes of this section, shall be notified in writing of such identification of such person or entity.
+
+>         “(3)  __Responsive actions__  __.—__ 
+
+>         Upon receipt of a notice under paragraph (2), the commander of the combatant command concerned may, in consultation with the Under Secretary of Defense for Policy, the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the appropriate Chief of Mission, notify the heads of appropriate contracting activities, in writing, of such identification and request that the heads of such contracting activities exercise the authorities provided pursuant to paragraph (4) and the Department of Defense Supplement to the Federal Acquisition Regulation, as revised, with respect to any contract, grant, or cooperative agreement that provides funding directly or indirectly to the person or entity covered by the notice.
+
+>         “(4)  __Authorities__  __.—__ 
+
+>         Not later than 30 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation to authorize the head of a contracting activity in each covered combatant command, pursuant to a request from the commander of a covered combatant command under paragraph (3)—
+
+>             “(A) to prohibit, limit, or otherwise place restrictions on the award of any Department of Defense contract, grant, or cooperative agreement to a person or entity identified pursuant to paragraph (1)(A);
+
+>             “(B) to terminate for default any Department contract, grant, or cooperative agreement awarded to a person or entity identified pursuant to paragraph (1)(B); or
+
+>             “(C) to void in whole or in part any Department contract, grant, or cooperative agreement awarded to a person or entity identified pursuant to paragraph (1)(A).
+
+>     “(b) __Contract Clause.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than 30 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Department of Defense Supplement to the Federal Acquisition Regulation shall be revised to require that—
+
+>             “(A) the clause described in paragraph (2) shall be included in each covered contract, grant, and cooperative agreement of the Department of Defense that is awarded on or after the date of the enactment of this Act; and
+
+>             “(B) to the maximum extent practicable, each covered contract, grant, and cooperative agreement of the Department of Defense that is awarded before the date of the enactment of this Act shall be modified to include the clause described in paragraph (2).
+
+>         “(2)  __Clause described__  __.—__ 
+
+>         The clause described in this paragraph is a clause that—
+
+>             “(A) requires the contractor, or the recipient of the grant or cooperative agreement, to exercise due diligence to ensure that none of the funds received under the contract, grant, or cooperative agreement are provided directly or indirectly to a covered person or entity; and
+
+>             “(B) notifies the contractor, or the recipient of the grant or cooperative agreement, of the authority of the head of the contracting activity to terminate or void the contract, grant, or cooperative agreement, in whole or in part.
+
+>         “(3)  __Covered contract, grant, or cooperative agreement__  __.—__ 
+
+>         In this subsection, the term ‘covered contract, grant, or cooperative agreement’ means a contract, grant, or cooperative agreement with an estimated value in excess of $50,000.
+
+>         “(4)  __Treatment as void__  __.—__ 
+
+>         For purposes of subsection (a)(4) and the exercise under subsection (a)(3) of the authorities in the Department of Defense Supplement to the Federal Acquisition Regulation pursuant to this subsection:
+
+>             “(A) A contract, grant, or cooperative agreement that is void is unenforceable as contrary to public policy.
+
+>             “(B) A contract, grant, or cooperative agreement that is void in part is unenforceable as contrary to public policy with regard to a segregable task or effort under the contract, grant, or cooperative agreement.
+
+>     “(c)  __Requirements Following Contract Actions__  __.—__ 
+
+>     Not later than 30 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Department of Defense Supplement to the Federal Acquisition Regulation shall be revised as follows:
+
+>         “(1) To require that any head of contracting activity taking an action pursuant to subsection (a)(3) or (a)(4) to terminate, void, or restrict a contract, grant, or cooperative agreement notify in writing the contractor or recipient of the grant or cooperative agreement, as applicable, of the action.
+
+>         “(2) To permit, in such manner as the Department of Defense Supplement to the Federal Acquisition Regulation as so revised shall provide, the contractor or recipient of a grant or cooperative agreement subject to an action taken pursuant to subsection (a)(3) or (a)(4) to terminate or void the contract, grant, or cooperative agreement, as the case may be, an opportunity to challenge the action by requesting administrative review within 30 days after receipt of notice of the action.
+
+>     “(d)  __Annual Review__  __.—__ 
+
+>     The commanders of the covered combatant commands shall, on an annual basis, review the lists of persons and entities previously identified pursuant to subsection (a)(1) in order to determine whether or not such persons and entities continue to warrant identification pursuant to that subsection. If a commander determines pursuant to such a review that a person or entity no longer warrants identification pursuant to subsection (a)(1), the commander shall notify the heads of contracting activities of the Department of Defense in writing of such determination.
+
+>     “(e)  __Protection of Classified Information__  __.—__ 
+
+>     Classified information relied upon to make an identification pursuant to subsection (a)(1) may not be disclosed to a contractor or a recipient of a grant or cooperative agreement with respect to which an action is taken pursuant to subsection (a)(3) or (a)(4) or to their representatives, in the absence of a protective order issued by a court of competent jurisdiction established under Article I or Article III of the Constitution of the United States that specifically addresses the conditions upon which such classified information may be so disclosed.
+
+>     “(f) __Delegation.—__ 
+
+>         “(1)  __Responsibilities relating to identification and review__  __.—__ 
+
+>         The commander of a covered combatant command may delegate the responsibilities in subsection (a)(3) to any deputies of the commander specified by the commander pursuant to that subsection. The commander may delegate any responsibilities under subsection (d) to the deputy commander of the combatant command. Any delegation of responsibilities under this paragraph shall be made in writing.
+
+>         “(2)  __Nondelegation of responsibility for contract actions__  __.—__ 
+
+>         The authority provided by subsections (a)(3) and (a)(4) to terminate, void, or restrict contracts, grants, and cooperative agreements may not be delegated below the level of head of contracting activity.
+
+>     “(g)  __Inclusion of Information on Contract Actions in FAPIIS__  __.—__ 
+
+>     Upon the termination, voiding, or restriction of a contract, grant, or cooperative agreement pursuant to subsection (a)(3) or (a)(4), the head of contracting activity concerned shall provide for the inclusion in the Federal Awardee Performance and Integrity Information System (FAPIIS), or other formal system of records on contractors or entities, of appropriate information on the termination, voiding, or restriction of the contract, grant, or cooperative agreement.
+
+>     “(h) __Reports.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than March 1 each year through 2019, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of the authorities in this section in the preceding calendar year, including the following:
+
+>             “(A)
+
+>              For each instance in which a contract, grant, or cooperative agreement was terminated or voided, or entry into contracts, grants, and cooperative agreements was restricted, pursuant to subsection (a)(3) or (a)(4), the following:
+
+>                 “(i) An explanation of the basis for the action taken.
+
+>                 “(ii) The value of the contract, grant, or cooperative agreement terminated or voided.
+
+>                 “(iii) The value of all contracts, grants, or cooperative agreements of the Department of Defense in force with the person or entity concerned at the time the contract, grant, or cooperative agreement was terminated or voided.
+
+>                 “(iv) Information on how the goods or services covered by the terminated or voided contract, grant, or cooperative agreement were otherwise obtained by the commander of the combatant command concerned.
+
+>             “(B) For each instance in which a contract, grant, or cooperative agreement of a person or entity identified pursuant to subsection (a)(1) was not terminated or voided pursuant to subsection (a)(3) or (a)(4), or the future award of contracts, grants, and cooperative agreements to such person or entity was not restricted pursuant to subsection (a)(3) or (a)(4), an explanation why such action was not taken.
+
+>         “(2)  __Form__  __.—__ 
+
+>         Any report under this subsection may be submitted in classified form.
+
+>     “(i)  __Other Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1) The term ‘covered combatant command’ means United States Central Command, United States European Command, United States Africa Command, United States Southern Command, or United States Pacific Command.
+
+>         “(2) The term ‘head of contracting activity’ has the meaning given that term in subpart 601 of part 1 of the Federal Acquisition Regulation.
+
+>         “(3) The term ‘covered person or entity’ means a person or entity that is actively opposing United States or coalition forces involved in a contingency operation in which members of the armed forces are actively engaged in hostilities.
+
+>     “(j)  __Sunset__  __.—__ 
+
+>     The provisions of this section shall cease to be effective on December 31, 2018.”
+
+ __Equipment Disposal__ 
+
+[Pub. L. 113–66, div. A, title XV, § 1531(d)][/us/pl/113/66/s1531/d], Dec. 26, 2013, [127 Stat. 938][/us/stat/127/938], provided that:
+
+>     “(1)  __Acceptance of certain equipment__  __.—__ 
+
+>     The Secretary of Defense may accept equipment procured using funds authorized under prior Acts that was transferred to the security forces of Afghanistan and returned by such forces to the United States if the Secretary provides written notification to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] of the Secretary’s intention to accept such equipment.
+
+>     “(2)  __Treatment as department of defense stocks__  __.—__ 
+
+>     The equipment described in paragraph (1), and equipment not yet transferred to the security forces of Afghanistan that is determined by the Commander, Combined Security Transition Command-Afghanistan (or the Commander’s designee) to no longer be required for transfer to such forces, may be treated as stocks of the Department of Defense upon notification to the congressional defense committees of such treatment.
+
+>     “(3) __Reports.—__ 
+
+>         “(A)  __Initial report__  __.—__ 
+
+>         Not later than 60 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall submit to the congressional defense committees a report that details all equipment that was transferred to the security forces of Afghanistan and returned by such forces to the United States, including type of equipment and reason for its return.
+
+>         “(B)  __Subsequent reports__  __.—__ 
+
+>         Not later than 30 days after the end of the first two fiscal year quarters of fiscal year 2014, and not later than 30 days after the end of each fiscal half-year thereafter, the Secretary shall submit to the congressional defense committees a report on the equipment accepted under paragraph (1) during such fiscal year quarter or half-year, as the case may be. Each report shall include, for the period covered by such report, a list of all equipment accepted under paragraph (1) that was treated as the stocks of the Department pursuant to paragraph (2).”
+
  __Department of Defense Policy on Contractor Profits__ 
 
 [Pub. L. 112–239, div. A, title VIII, § 804][/us/pl/112/239/s804], Jan. 2, 2013, [126 Stat. 1826][/us/stat/126/1826], provided that:
@@ -1083,7 +1235,7 @@ Source (Statutes at Large)  </td>
 
  __Pilot Program on Acquisition of Military Purpose Nondevelopmental Items__ 
 
-[Pub. L. 111–383, div. A, title VIII, § 866(a)][/us/pl/111/383/s866/a]–(f), Jan. 7, 2011, [124 Stat. 4296–4298][/us/stat/124/4296-4298], provided that:
+[Pub. L. 111–383, div. A, title VIII, § 866(a)][/us/pl/111/383/s866/a]–(f), Jan. 7, 2011, [124 Stat. 4296–4298][/us/stat/124/4296-4298], as amended by [Pub. L. 113–66, div. A, title VIII, § 814][/us/pl/113/66/s814], Dec. 26, 2013, [127 Stat. 808][/us/stat/127/808], provided that:
 
 >     “(a) __Pilot Program Authorized.—__ 
 
@@ -1177,7 +1329,7 @@ Source (Statutes at Large)  </td>
 
 >         “(1)  __In general__  __.—__ 
 
->         The authority to carry out the pilot program shall expire on the date that is five years after the date of the enactment of this Act.
+>         The authority to carry out the pilot program shall expire on December 31, 2019.
 
 >         “(2)  __Continuation of current contracts__  __.—__ 
 
@@ -4162,6 +4314,10 @@ Source (Statutes at Large)  </td>
 [/us/pl/98/525/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1201
 [/us/stat/98/2588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2588
 [/us/usc/t10/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304
+[/us/pl/113/66/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs831
+[/us/stat/127/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F810
+[/us/pl/113/66/s1531/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1531%2Fd
+[/us/stat/127/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F938
 [/us/pl/112/239/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs804
 [/us/stat/126/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1826
 [/us/pl/112/239/s829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs829
@@ -4223,6 +4379,8 @@ Source (Statutes at Large)  </td>
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
 [/us/pl/111/383/s866/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs866%2Fa
 [/us/stat/124/4296-4298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4296-4298
+[/us/pl/113/66/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs814
+[/us/stat/127/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F808
 [/us/usc/t10/s2306a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a
 [/us/usc/t41/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs422
 [/us/usc/t41/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1501

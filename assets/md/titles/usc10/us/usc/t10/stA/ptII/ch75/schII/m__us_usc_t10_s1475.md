@@ -165,6 +165,46 @@ In subsection (a), the word “receiving” is inserted for clarity. Clause (1) 
 
     Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary’s designee, see [section 3071 of Title 33][/us/usc/t33/s3071], Navigation and Navigable Waters.
 
+ __Improved Assistance for Gold Star Spouses and Other Dependents__ 
+
+[Pub. L. 113–66, div. A, title VI, § 633][/us/pl/113/66/s633], Dec. 26, 2013, [127 Stat. 786][/us/stat/127/786], provided that:
+
+>     “(a)  __Advocates for Gold Star Spouses and Other Dependents__  __.—__ 
+
+>     Each Secretary of a military department shall designate for each Armed Force under the jurisdiction of such Secretary a member of such Armed Force or civilian employee of such military department to assist spouses and other dependents of members of such Armed Force (including reserve components thereof) who die on active duty through the provision of the following services:
+
+>         “(1) Addressing complaints by spouses and other dependents of deceased members regarding casualty assistance or receipt of benefits authorized by law for such spouses and dependents.
+
+>         “(2) Providing support to such spouses and dependents regarding such casualty assistance or receipt of such benefits.
+
+>         “(3) Making reports to appropriate officers or officials in the Department of Defense or the military department concerned regarding resolution of such complaints, including recommendations regarding the settlement of claims with respect to such benefits, as appropriate.
+
+>         “(4) Performing such other actions as the Secretary of the military department concerned considers appropriate.
+
+>     “(b) __Training for Casualty Assistance Personnel.—__ 
+
+>         “(1)  __Training program required__  __.—__ 
+
+>         The Secretary of Defense shall implement a standardized comprehensive training program on casualty assistance for the following personnel of the Department of Defense:
+
+>             “(A) Casualty assistance officers.
+
+>             “(B) Casualty assistance calls officers.
+
+>             “(C) Casualty assistance representatives.
+
+>         “(2)  __General elements__  __.—__ 
+
+>         The training program required by paragraph (1) shall include training designed to ensure that the personnel specified in that paragraph provide the spouse and other dependents of a deceased member of the Armed Forces with accurate information on the benefits to which they are entitled and other casualty assistance available to them when the member dies while serving on active duty in the Armed Forces.
+
+>         “(3)  __Service-specific elements__  __.—__ 
+
+>         The Secretary of the military department concerned may, in coordination with the Secretary of Defense, provide for the inclusion in the training program required by paragraph (1) that is provided to casualty assistance personnel of such military department such elements of training that are specific or unique to the requirements or particulars of the Armed Forces under the jurisdiction of such military department as the Secretary of the military department concerned considers appropriate.
+
+>         “(4)  __Frequency of training__  __.—__ 
+
+>         Training shall be provided under the program required by paragraph (1) not less often than annually.”
+
  __Policy and Procedures on Casualty Assistance to Survivors of Military Decedents__ 
 
 [Pub. L. 109–163, div. A, title V, § 562][/us/pl/109/163/s562], Jan. 6, 2006, [119 Stat. 3267][/us/stat/119/3267], as amended by [Pub. L. 109–364, div. A, title V, § 566][/us/pl/109/364/s566], Oct. 17, 2006, [120 Stat. 2223][/us/stat/120/2223], provided that:
@@ -301,6 +341,8 @@ In subsection (a), the word “receiving” is inserted for clarity. Clause (1) 
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t42/s213a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs213a
 [/us/usc/t33/s3071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3071
+[/us/pl/113/66/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs633
+[/us/stat/127/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F786
 [/us/pl/109/163/s562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs562
 [/us/stat/119/3267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3267
 [/us/pl/109/364/s566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs566

@@ -241,7 +241,9 @@
 
         (2) Enrollment of a dependent described in paragraph (1) pursuant to such paragraph shall be on a tuition basis.
 
-(Added [Pub. L. 103–337, div. A, title III, § 351(a)][/us/pl/103/337/s351/a], Oct. 5, 1994, [108 Stat. 2727][/us/stat/108/2727]; amended [Pub. L. 104–106, div. A, title X, § 1075][/us/pl/104/106/s1075], Feb. 10, 1996, [110 Stat. 450][/us/stat/110/450]; [Pub. L. 104–201, div. A, title XVI, § 1608][/us/pl/104/201/s1608], Sept. 23, 1996, [110 Stat. 2737][/us/stat/110/2737]; [Pub. L. 105–261, div. A, title III, § 371(a)][/us/pl/105/261/s371/a]–(c)(2), Oct. 17, 1998, [112 Stat. 1988][/us/stat/112/1988], 1989; [Pub. L. 106–65, div. A, title III][/us/pl/106/65], §§ 352, 353, Oct. 5, 1999, [113 Stat. 572][/us/stat/113/572]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 361\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–76; [Pub. L. 108–446, title III, § 305(a)][/us/pl/108/446/s305/a], Dec. 3, 2004, [118 Stat. 2804][/us/stat/118/2804]; [Pub. L. 111–84, div. A, title V, § 534][/us/pl/111/84/s534], Oct. 28, 2009, [123 Stat. 2292][/us/stat/123/2292]; [Pub. L. 111–383, div. A, title V, § 561][/us/pl/111/383/s561], Jan. 7, 2011, [124 Stat. 4221][/us/stat/124/4221]; [Pub. L. 112–239, div. A, title V, § 565][/us/pl/112/239/s565], Jan. 2, 2013, [126 Stat. 1749][/us/stat/126/1749].)
+        (3) Any payments received by the Secretary of Defense under this subsection shall be credited to the account designated by the Secretary for the operation of the virtual educational program under this subsection. Payments so credited shall be merged with other funds in the account and shall be available, to the extent provided in advance in appropriation Acts, for the same purposes and the same period as other funds in the account.
+
+(Added [Pub. L. 103–337, div. A, title III, § 351(a)][/us/pl/103/337/s351/a], Oct. 5, 1994, [108 Stat. 2727][/us/stat/108/2727]; amended [Pub. L. 104–106, div. A, title X, § 1075][/us/pl/104/106/s1075], Feb. 10, 1996, [110 Stat. 450][/us/stat/110/450]; [Pub. L. 104–201, div. A, title XVI, § 1608][/us/pl/104/201/s1608], Sept. 23, 1996, [110 Stat. 2737][/us/stat/110/2737]; [Pub. L. 105–261, div. A, title III, § 371(a)][/us/pl/105/261/s371/a]–(c)(2), Oct. 17, 1998, [112 Stat. 1988][/us/stat/112/1988], 1989; [Pub. L. 106–65, div. A, title III][/us/pl/106/65], §§ 352, 353, Oct. 5, 1999, [113 Stat. 572][/us/stat/113/572]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 361\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–76; [Pub. L. 108–446, title III, § 305(a)][/us/pl/108/446/s305/a], Dec. 3, 2004, [118 Stat. 2804][/us/stat/118/2804]; [Pub. L. 111–84, div. A, title V, § 534][/us/pl/111/84/s534], Oct. 28, 2009, [123 Stat. 2292][/us/stat/123/2292]; [Pub. L. 111–383, div. A, title V, § 561][/us/pl/111/383/s561], Jan. 7, 2011, [124 Stat. 4221][/us/stat/124/4221]; [Pub. L. 112–239, div. A, title V, § 565][/us/pl/112/239/s565], Jan. 2, 2013, [126 Stat. 1749][/us/stat/126/1749]; [Pub. L. 113–66, div. A, title V, § 553(a)][/us/pl/113/66/s553/a], Dec. 26, 2013, [127 Stat. 764][/us/stat/127/764].)
 
  __References in Text__ 
 
@@ -256,6 +258,8 @@
  __Amendments__ 
 
     2013—Subsecs. (k), (l). [Pub. L. 112–239][/us/pl/112/239] added subsecs. (k) and (l).
+
+    Subsec. (l)(3). [Pub. L. 113–66][/us/pl/113/66] added par. (3).
 
     2011—Subsec. (a)(3). [Pub. L. 111–383][/us/pl/111/383] added par. (3).
 
@@ -292,6 +296,12 @@
     1996—Subsec. (d)(7). [Pub. L. 104–201][/us/pl/104/201] added par. (7).
 
     Subsec. (e)(4). [Pub. L. 104–106][/us/pl/104/106] added par. (4).
+
+ __Effective Date of 2013 Amendment__ 
+
+[Pub. L. 113–66, div. A, title V, § 553(b)][/us/pl/113/66/s553/b], Dec. 26, 2013, [127 Stat. 764][/us/stat/127/764], provided that: 
+
+> “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to tuition payments received under [section 2164(l) of title 10][/us/usc/t10/s2164/l], United States Code, for enrollments authorized by such section, after the date of the enactment of this Act \[Dec. 26, 2013\], in the virtual elementary and secondary education program of the Department of Defense education program.”
 
  __Effective Date of 1998 Amendment__ 
 
@@ -346,6 +356,8 @@
 [/us/stat/124/4221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4221
 [/us/pl/112/239/s565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs565
 [/us/stat/126/1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1749
+[/us/pl/113/66/s553/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs553%2Fa
+[/us/stat/127/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F764
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
@@ -357,6 +369,7 @@
 [/us/pl/103/382/s331/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs331%2Fb
 [/us/stat/108/3965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3965
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/108/446/s305/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs305%2Fa%2F1
@@ -375,6 +388,9 @@
 [/us/pl/105/261/s371/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs371%2Fc%2F2
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/113/66/s553/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs553%2Fb
+[/us/stat/127/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F764
+[/us/usc/t10/s2164/l]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2164%2Fl
 [/us/pl/105/261/s371/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs371%2Fc%2F3
 [/us/stat/112/1989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1989
 [/us/pl/103/337/s351/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs351%2Fc

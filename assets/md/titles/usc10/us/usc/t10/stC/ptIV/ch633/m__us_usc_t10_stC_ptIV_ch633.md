@@ -155,7 +155,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7306" data-uslm-ref="/us/usc/t10/s7306">7306.</a>  </td>
 
-    <td> Vessels stricken from Naval Vessel Register; captured vessels: transfer by gift or otherwise.  </td>
+    <td> Vessels stricken from Naval Vessel Register; captured vessels: conveyance by donation.  </td>
 
   </tr>
 
@@ -267,6 +267,8 @@
 
  __Amendments__ 
 
+    2013—[Pub. L. 113–66, div. A, title X, § 1022(e)(2)][/us/pl/113/66/s1022/e/2], Dec. 26, 2013, [127 Stat. 846][/us/stat/127/846], substituted “Vessels stricken from Naval Vessel Register; captured vessels: conveyance by donation.” for “Vessels stricken from Naval Vessel Register; captured vessels: transfer by gift or otherwise.” in item 7306.
+
     2011—[Pub. L. 112–81, div. A, title X, § 1061(27)(B)][/us/pl/112/81/s1061/27/B], Dec. 31, 2011, [125 Stat. 1584][/us/stat/125/1584], struck out item 7296 “Combatant surface vessels: notice before reduction in number; preservation of surge capability”.
 
     [Pub. L. 111–350, § 5(b)(51)][/us/pl/111/350/s5/b/51], Jan. 4, 2011, [124 Stat. 3846][/us/stat/124/3846], substituted “chapter 65 of title 41” for “Walsh-Healey Act” in item 7299.
@@ -318,6 +320,8 @@
 ----------
 ----------
 
+[/us/pl/113/66/s1022/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1022%2Fe%2F2
+[/us/stat/127/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F846
 [/us/pl/112/81/s1061/27/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F27%2FB
 [/us/stat/125/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1584
 [/us/pl/111/350/s5/b/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F51

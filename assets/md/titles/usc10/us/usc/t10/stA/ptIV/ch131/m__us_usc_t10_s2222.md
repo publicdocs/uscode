@@ -91,11 +91,11 @@
 
     The transition plan developed under subsection (c)(1)(B) shall include the following:
 
-        (1) A listing of the new systems that are expected to be needed to complete the defense business enterprise architecture, along with each system’s time-phased milestones, performance measures, financial resource needs, and risks or challenges to integration into the business enterprise architecture.
+        (1) A listing of the new systems that are expected to be needed to complete the target defense business systems computing environment described in subsection (d)(3), along with each system’s time-phased milestones, performance measures, financial resource needs, and risks or challenges to integration into the business enterprise architecture.
 
-        (2) A listing of the defense business systems existing as of September 30, 2011 (known as “legacy systems”) that will not be part of the defense business enterprise architecture, together with the schedule for terminating those legacy systems that provides for reducing the use of those legacy systems in phases.
+        (2) A listing of the defense business systems that will be phased out of the defense business systems computing environment within three years after review and certification as “legacy systems” by the investment management process established under subsection (g), together with the schedule for terminating those legacy systems.
 
-        (3) A listing of the legacy systems (referred to in subparagraph (B)) that will be a part of the target defense business systems computing environment described in subsection (d)(3), together with a strategy for making the modifications to those systems that will be needed to ensure that such systems comply with the defense business enterprise architecture, including time-phased milestones, performance measures, and financial resource needs.
+        (3) A listing of the existing systems that are part of the target defense business systems computing environment, together with a strategy for making the modifications to those systems that will be needed to ensure that such systems comply with the defense business enterprise architecture, including time-phased milestones, performance measures, and financial resource needs.
 
     (f)  __Designation of Appropriate Pre-certification Authorities and Senior Officials__  __.—__ 
 
@@ -211,7 +211,7 @@
 
         (5) The term “national security system” has the meaning given that term in [section 3542(b)(2) of title 44][/us/usc/t44/s3542/b/2].
 
-(Added [Pub. L. 108–375, div. A, title III, § 332(a)(1)][/us/pl/108/375/s332/a/1], Oct. 28, 2004, [118 Stat. 1851][/us/stat/118/1851]; amended [Pub. L. 109–364, div. A, title IX, § 906(a)][/us/pl/109/364/s906/a], Oct. 17, 2006, [120 Stat. 2354][/us/stat/120/2354]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 351, Oct. 14, 2008, [122 Stat. 4425][/us/stat/122/4425]; [Pub. L. 111–84, div. A, title X, § 1072(a)][/us/pl/111/84/s1072/a], Oct. 28, 2009, [123 Stat. 2470][/us/stat/123/2470]; [Pub. L. 111–383, div. A, title X, § 1075(b)(29)][/us/pl/111/383/s1075/b/29], Jan. 7, 2011, [124 Stat. 4370][/us/stat/124/4370]; [Pub. L. 112–81, div. A, title IX, § 901][/us/pl/112/81/s901], Dec. 31, 2011, [125 Stat. 1527][/us/stat/125/1527]; [Pub. L. 112–239, div. A, title IX, § 906][/us/pl/112/239/s906], Jan. 2, 2013, [126 Stat. 1869][/us/stat/126/1869].)
+(Added [Pub. L. 108–375, div. A, title III, § 332(a)(1)][/us/pl/108/375/s332/a/1], Oct. 28, 2004, [118 Stat. 1851][/us/stat/118/1851]; amended [Pub. L. 109–364, div. A, title IX, § 906(a)][/us/pl/109/364/s906/a], Oct. 17, 2006, [120 Stat. 2354][/us/stat/120/2354]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 351, Oct. 14, 2008, [122 Stat. 4425][/us/stat/122/4425]; [Pub. L. 111–84, div. A, title X, § 1072(a)][/us/pl/111/84/s1072/a], Oct. 28, 2009, [123 Stat. 2470][/us/stat/123/2470]; [Pub. L. 111–383, div. A, title X, § 1075(b)(29)][/us/pl/111/383/s1075/b/29], Jan. 7, 2011, [124 Stat. 4370][/us/stat/124/4370]; [Pub. L. 112–81, div. A, title IX, § 901][/us/pl/112/81/s901], Dec. 31, 2011, [125 Stat. 1527][/us/stat/125/1527]; [Pub. L. 112–239, div. A, title IX, § 906][/us/pl/112/239/s906], Jan. 2, 2013, [126 Stat. 1869][/us/stat/126/1869]; [Pub. L. 113–66, div. A, title IX, § 901][/us/pl/113/66/s901], Dec. 26, 2013, [127 Stat. 815][/us/stat/127/815].)
 
  __Prior Provisions__ 
 
@@ -219,7 +219,13 @@
 
  __Amendments__ 
 
-    2013—Subsec. (g)(3). [Pub. L. 112–239][/us/pl/112/239] added par. (3).
+    2013—Subsec. (e)(1). [Pub. L. 113–66, § 901(1)][/us/pl/113/66/s901/1], substituted “target defense business systems computing environment described in subsection (d)(3)” for “defense business enterprise architecture”.
+
+    Subsec. (e)(2). [Pub. L. 113–66, § 901(2)][/us/pl/113/66/s901/2], substituted “that will be phased out of the defense business systems computing environment within three years after review and certification as ‘legacy systems’ by the investment management process established under subsection (g)” for “existing as of September 30, 2011 (known as ‘legacy systems’) that will not be part of the defense business enterprise architecture” and struck out “that provides for reducing the use of those legacy systems in phases” before period at end.
+
+    Subsec. (e)(3). [Pub. L. 113–66, § 901(3)][/us/pl/113/66/s901/3], substituted “existing systems that are part of the target defense business systems computing environment” for “legacy systems (referred to in subparagraph (B)) that will be a part of the target defense business systems computing environment described in subsection (d)(3)”.
+
+    Subsec. (g)(3). [Pub. L. 112–239][/us/pl/112/239] added par. (3).
 
     2011—[Pub. L. 112–81][/us/pl/112/81] amended section generally. Prior to amendment, section related to architecture, accountability, and modernization of defense business systems.
 
@@ -236,6 +242,12 @@
     2008—Subsec. (i). [Pub. L. 110–417][/us/pl/110/417] substituted “2013” for “2009” in introductory provisions.
 
     2006—Subsec. (j)(6). [Pub. L. 109–364][/us/pl/109/364] substituted “in [section 3542(b)(2) of title 44][/us/usc/t44/s3542/b/2]” for “in [section 2315 of this title][/us/usc/t10/s2315]”.
+
+ __Audit of Department of Defense Fiscal Year 2018 Financial Statements__ 
+
+[Pub. L. 113–66, div. A, title X, § 1003(a)][/us/pl/113/66/s1003/a], Dec. 26, 2013, [127 Stat. 842][/us/stat/127/842], provided that: 
+
+> “In addition to the requirement under section 1003(a)(2)(A)(ii) of the National Defense Authorization Act for Fiscal Year 2010 ([Public Law 111–84][/us/pl/111/84]; [10 U.S.C. 2222][/us/usc/t10/s2222] note) that the Financial Improvement and Audit Readiness Plan describe specific actions to be taken and the costs associated with ensuring that the financial statements of the Department of Defense are validated as ready for audit by not later than September 30, 2017, upon the conclusion of fiscal year 2018, the Secretary of Defense shall ensure that a full audit is performed on the financial statements of the Department of Defense for such fiscal year. The Secretary shall submit to Congress the results of that audit by not later than March 31, 2019.”
 
  __Review of Obligation and Expenditure Thresholds__ 
 
@@ -417,7 +429,7 @@
 
 >             “(B) a recommendation on whether such option should be adopted, a schedule for implementing the option if adoption is recommended, or a reason for not recommending the option if adoption is not recommended.”
 
-[Pub. L. 111–84, div. A, title X, § 1003][/us/pl/111/84/s1003], Oct. 28, 2009, [123 Stat. 2439][/us/stat/123/2439], as amended by [Pub. L. 112–239, div. A, title X, § 1005(a)][/us/pl/112/239/s1005/a], Jan. 2, 2013, [126 Stat. 1904][/us/stat/126/1904], provided that:
+[Pub. L. 111–84, div. A, title X, § 1003][/us/pl/111/84/s1003], Oct. 28, 2009, [123 Stat. 2439][/us/stat/123/2439], as amended by [Pub. L. 112–239, div. A, title X, § 1005(a)][/us/pl/112/239/s1005/a], Jan. 2, 2013, [126 Stat. 1904][/us/stat/126/1904]; [Pub. L. 113–66, div. A, title X, § 1003(b)][/us/pl/113/66/s1003/b], Dec. 26, 2013, [127 Stat. 842][/us/stat/127/842], provided that:
 
 >     “(a) __Financial Improvement Audit Readiness Plan.—__ 
 
@@ -433,9 +445,11 @@
 
 >              describe specific actions to be taken and the costs associated with—
 
->                 “(i) correcting the financial management deficiencies that impair the ability of the Department of Defense to prepare timely, reliable, and complete financial management information; and
+>                 “(i) correcting the financial management deficiencies that impair the ability of the Department of Defense to prepare timely, reliable, and complete financial management information;
 
->                 “(ii) ensuring the financial statements of the Department of Defense are validated as ready for audit by not later than September 30, 2017, and the statement of budgetary resources of the Department of Defense is validated as ready for audit by not later than September 30, 2014;
+>                 “(ii) ensuring the financial statements of the Department of Defense are validated as ready for audit by not later than September 30, 2017, and the statement of budgetary resources of the Department of Defense is validated as ready for audit by not later than September 30, 2014; and
+
+>                 “(iii) ensuring the audit of the financial statements of the Department of Defense for fiscal year 2018 occurs by not later than March 31, 2019.
 
 >             “(B) systematically tie the actions described under subparagraph (A) to process and control improvements and business systems modernization efforts described in the business enterprise architecture and transition plan required by [section 2222 of title 10][/us/usc/t10/s2222], United States Code;
 
@@ -751,12 +765,17 @@
 [/us/stat/125/1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1527
 [/us/pl/112/239/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs906
 [/us/stat/126/1869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1869
+[/us/pl/113/66/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs901
+[/us/stat/127/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F815
 [/us/pl/105/85/s1008/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1008%2Fa%2F1
 [/us/stat/111/1870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1870
 [/us/pl/107/107/s1009/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1009%2Fb%2F1
 [/us/stat/115/1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1208
 [/us/pl/107/314/s1004/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1004%2Fh%2F1
 [/us/stat/116/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2631
+[/us/pl/113/66/s901/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs901%2F1
+[/us/pl/113/66/s901/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs901%2F2
+[/us/pl/113/66/s901/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs901%2F3
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
@@ -768,6 +787,10 @@
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t44/s3542/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3542%2Fb%2F2
 [/us/usc/t10/s2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2315
+[/us/pl/113/66/s1003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1003%2Fa
+[/us/stat/127/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F842
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/usc/t10/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222
 [/us/pl/111/383/s882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs882
 [/us/stat/124/4308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4308
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
@@ -815,6 +838,8 @@
 [/us/stat/123/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2439
 [/us/pl/112/239/s1005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1005%2Fa
 [/us/stat/126/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1904
+[/us/pl/113/66/s1003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1003%2Fb
+[/us/stat/127/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F842
 [/us/usc/t10/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/stat/115/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1204

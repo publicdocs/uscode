@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch24/m__us_usc_t10_s496.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch24/m__us_usc_t10_s498.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs497)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch24/m__us_usc_t10_s496.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch24/m__us_usc_t10_s497a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs497)
 
 ## § 497. Notification required for reduction, consolidation, or withdrawal of nuclear forces based in Europe
 
@@ -45,7 +45,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch24/m__us_usc_t10_s496.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch24/m__us_usc_t10_s498.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs497)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch24/m__us_usc_t10_s496.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch24/m__us_usc_t10_s497a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs497)
 
 ----------
 ----------

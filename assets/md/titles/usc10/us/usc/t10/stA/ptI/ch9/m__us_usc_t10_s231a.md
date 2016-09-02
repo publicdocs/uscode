@@ -17,7 +17,7 @@
 
     (a)  __Annual Aircraft Procurement Plan and Certification__  __.—__ 
 
-    Not later than 45 days after the date on which the President submits to Congress the budget for a fiscal year of  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “, the Secretary”. </sup></sup>  Defense shall submit to the congressional defense committees—
+    Not later than 45 days after the date on which the President submits to Congress the budget for a fiscal year, the Secretary of Defense shall submit to the congressional defense committees—
 
         (1) a plan for the procurement of the aircraft specified in subsection (b) for the Department of the Navy, the Department of the Army, and the Department of the Air Force developed in accordance with this section; and
 
@@ -51,7 +51,7 @@
 
     (c)  __Annual Aircraft Procurement Plan__  __.—__ 
 
-        (1) The annual aircraft procurement plan developed for a fiscal year for purposes of subsection (a)(1) should be designed so that the aviation force provided for under the plan is capable of supporting the national military strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 ([50 U.S.C. 404a][/us/usc/t50/s404a]), <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  except that, if at the time the plan is submitted with the defense budget materials for that fiscal year, a national security strategy report required under such section 108 has not been submitted to Congress as required by paragraph (2) or paragraph (3), if applicable, of subsection (a) of such section, then the plan should be designed so that the aviation force provided for under the plan is capable of supporting the aviation force structure recommended in the report of the most recent Quadrennial Defense Review.
+        (1) The annual aircraft procurement plan developed for a fiscal year for purposes of subsection (a)(1) should be designed so that the aviation force provided for under the plan is capable of supporting the national military strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 ([50 U.S.C. 404a][/us/usc/t50/s404a]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  except that, if at the time the plan is submitted with the defense budget materials for that fiscal year, a national security strategy report required under such section 108 has not been submitted to Congress as required by paragraph (2) or paragraph (3), if applicable, of subsection (a) of such section, then the plan should be designed so that the aviation force provided for under the plan is capable of supporting the aviation force structure recommended in the report of the most recent Quadrennial Defense Review.
 
         (2)
 
@@ -133,13 +133,15 @@
 
         (2) The term “Quadrennial Defense Review” means the review of the defense programs and policies of the United States that is carried out every 4 years under [section 118 of this title][/us/usc/t10/s118].
 
-(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title I, § 141(a), Oct. 14, 2008, [122 Stat. 4379][/us/stat/122/4379]; amended [Pub. L. 112–81, div. A, title X, § 1069(a)][/us/pl/112/81/s1069/a], (b), Dec. 31, 2011, [125 Stat. 1589][/us/stat/125/1589], 1591.)
+(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title I, § 141(a), Oct. 14, 2008, [122 Stat. 4379][/us/stat/122/4379]; amended [Pub. L. 112–81, div. A, title X, § 1069(a)][/us/pl/112/81/s1069/a], (b), Dec. 31, 2011, [125 Stat. 1589][/us/stat/125/1589], 1591; [Pub. L. 113–66, div. A, title X, § 1091(a)(5)][/us/pl/113/66/s1091/a/5], Dec. 26, 2013, [127 Stat. 875][/us/stat/127/875].)
 
  __References in Text__ 
 
     The National Security Act of 1947, referred to in subsec. (c)(1), is [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], [61 Stat. 495][/us/stat/61/495], which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 108 of the Act is now classified to [section 3043 of Title 50][/us/usc/t50/s3043]. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
+
+    2013—Subsec. (a). [Pub. L. 113–66][/us/pl/113/66] substituted “fiscal year, the Secretary of Defense” for “fiscal year of Defense” in introductory provisions.
 
     2011—[Pub. L. 112–81, § 1069(b)][/us/pl/112/81/s1069/b], amended section catchline generally, substituting “Budgeting for life-cycle cost of aircraft for the Navy, Army, and Air Force: annual plan and certification” for “Budgeting for procurement of aircraft for the Navy and Air Force: annual plan and certification”.
 
@@ -187,9 +189,12 @@
 [/us/stat/122/4379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4379
 [/us/pl/112/81/s1069/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1069%2Fa
 [/us/stat/125/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1589
+[/us/pl/113/66/s1091/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fa%2F5
+[/us/stat/127/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F875
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
 [/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/81/s1069/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1069%2Fb
 [/us/pl/112/81/s1069/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1069%2Fa%2F1%2FA
 [/us/pl/112/81/s1069/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1069%2Fa%2F1%2FB

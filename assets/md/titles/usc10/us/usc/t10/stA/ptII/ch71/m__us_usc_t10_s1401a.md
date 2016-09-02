@@ -53,7 +53,7 @@
 
         (1)  __First adjustment with intervening increase in basic pay__  __.—__ 
 
-        Notwithstanding subsection (b) but subject to subsection (f)(2), if a person described in paragraph (3) becomes entitled to retired pay based on rates of monthly basic pay that became effective after the last day of the calendar quarter of the base index, the retired pay of the member or former member shall be increased on the effective date of the next adjustment of retired pay under subsection (b) only by the percent (adjusted to the nearest one-tenth of 1 percent) by which—
+        Notwithstanding subsection (b) but subject to subsection (f)(3), if a person described in paragraph (3) becomes entitled to retired pay based on rates of monthly basic pay that became effective after the last day of the calendar quarter of the base index, the retired pay of the member or former member shall be increased on the effective date of the next adjustment of retired pay under subsection (b) only by the percent (adjusted to the nearest one-tenth of 1 percent) by which—
 
             (A) the price index for the base quarter of that year, exceeds
 
@@ -61,7 +61,7 @@
 
         (2)  __First adjustment with no intervening increase in basic pay__  __.—__ 
 
-        If a person described in paragraph (3) becomes entitled to retired pay on or after the effective date of an adjustment in retired pay under subsection (b) but before the effective date of the next increase in the rates of monthly basic pay, the retired pay of the member or former member shall be increased (subject to subsection (f)(2) as applied to other members whose retired pay is computed on the current rates of basic pay in the most recent adjustment under this section), effective on the date the member becomes entitled to that pay, by the percent (adjusted to the nearest one-tenth of 1 percent) by which—
+        If a person described in paragraph (3) becomes entitled to retired pay on or after the effective date of an adjustment in retired pay under subsection (b) but before the effective date of the next increase in the rates of monthly basic pay, the retired pay of the member or former member shall be increased (subject to subsection (f)(3) as applied to other members whose retired pay is computed on the current rates of basic pay in the most recent adjustment under this section), effective on the date the member becomes entitled to that pay, by the percent (adjusted to the nearest one-tenth of 1 percent) by which—
 
             (A) the base index, exceeds
 
@@ -73,7 +73,7 @@
 
     (d)  __First COLA Adjustment for Members With Retired Pay Computed Using High-Three__  __.—__ 
 
-    Notwithstanding subsection (b) but subject to subsection (f)(2), the retired pay of a member or former member of an armed force who first became a member of a uniformed service before August 1, 1986, or on or after August 1, 1986, if the member or former member did not elect to receive a bonus under section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or [section 354 of title 37][/us/usc/t37/s354] and whose retired pay base is determined under [section 1407 of this title][/us/usc/t10/s1407] shall be increased on the effective date of the first adjustment of retired pay under subsection (b) after the member or former member becomes entitled to retired pay by the percent (adjusted to the nearest one-tenth of 1 percent) equal to the difference between the percent by which—
+    Notwithstanding subsection (b) but subject to subsection (f)(3), the retired pay of a member or former member of an armed force who first became a member of a uniformed service before August 1, 1986, or on or after August 1, 1986, if the member or former member did not elect to receive a bonus under section 322 (as in effect before January 28, 2008) or [section 354 of title 37][/us/usc/t37/s354] and whose retired pay base is determined under [section 1407 of this title][/us/usc/t10/s1407] shall be increased on the effective date of the first adjustment of retired pay under subsection (b) after the member or former member becomes entitled to retired pay by the percent (adjusted to the nearest one-tenth of 1 percent) equal to the difference between the percent by which—
 
         (1) the price index for the base quarter of that year, exceeds
 
@@ -81,7 +81,7 @@
 
     (e)  __Pro Rating of Initial Adjustment__  __.—__ 
 
-    Notwithstanding subsection (b) but subject to subsection (f)(2), the retired pay of a member or former member of an armed force who first became a member of a uniformed service on or after August 1, 1986, and elected to receive a bonus under section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or [section 354 of title 37][/us/usc/t37/s354] shall be increased on the effective date of the first adjustment of retired pay under subsection (b) after the member or former member becomes entitled to retired pay by the percent (adjusted to the nearest one-tenth of 1 percent) equal to the difference between—
+    Notwithstanding subsection (b) but subject to subsection (f)(3), the retired pay of a member or former member of an armed force who first became a member of a uniformed service on or after August 1, 1986, and elected to receive a bonus under section 322 (as in effect before January 28, 2008) or [section 354 of title 37][/us/usc/t37/s354] shall be increased on the effective date of the first adjustment of retired pay under subsection (b) after the member or former member becomes entitled to retired pay by the percent (adjusted to the nearest one-tenth of 1 percent) equal to the difference between—
 
         (1)
 
@@ -97,11 +97,15 @@
 
     (f) __Prevention of Pay Inversions.—__ 
 
-        (1)  __Prevention of retired pay inversions__  __.—__ 
+        (1)  __Prevention of retired pay inversions for members with retired pay computed using final basic pay__  __.—__ 
 
-        Notwithstanding any other provision of law, the monthly retired pay of a member or a former member of an armed force who initially became entitled to that pay on or after January 1, 1971, may not be less than the monthly retired pay to which he would be entitled if he had become entitled to retired pay at an earlier date based on the grade in which the member is retired, adjusted to reflect any applicable increases in such pay under this section. In computing the amount of retired pay to which such a member or former member would have been entitled on that earlier date, the computation shall be based on his grade, length of service, and the rate of basic pay applicable to him at that time, except that such computation may not be based on a rate of basic pay for a grade higher than the grade in which the member is retired. This subsection does not authorize any increase in the monthly retired pay to which a member was entitled for any period before October 7, 1975.
+        The monthly retired pay of a member or a former member of an armed force who first became a member of a uniformed service before September 8, 1980, and who initially became entitled to that pay on or after January 1, 1971, may not be less than the monthly retired pay to which he would be entitled if he had become entitled to retired pay at an earlier date based on the grade in which the member is retired, adjusted to reflect any applicable increases in such pay under this section. In computing the amount of retired pay to which such a member or former member would have been entitled on that earlier date, the computation shall be based on his grade, length of service, and the rate of basic pay applicable to him at that time, except that such computation may not be based on a rate of basic pay for a grade higher than the grade in which the member is retired. This subsection does not authorize any increase in the monthly retired pay to which a member was entitled for any period before October 7, 1975.
 
-        (2)  __Prevention of cola inversions__  __.—__ 
+        (2)  __Prevention of retired pay inversions for members with retired pay computed using high-three__  __.—__ 
+
+        Subject to subsections (d) and (e), the monthly retired pay of a member or former member of an armed force who first became a member of a uniformed service on or after September 8, 1980, may not be less, on the date on which the member or former member initially becomes entitled to such pay, than the monthly retired pay to which the member or former member would be entitled on that date if the member or former member had become entitled to retired pay on an earlier date, adjusted to reflect any applicable increases in such pay under this section. However, in the case of a member or former member whose retired pay is computed subject to [section 1407(f) of this title][/us/usc/t10/s1407/f], paragraph (1) (rather than the preceding sentence) shall apply in the same manner as if the member or former member first became a member of a uniformed service before September 8, 1980, but only with respect to a calculation as of the date on which the member or former member first became entitled to retired pay.
+
+        (3)  __Prevention of cola inversions__  __.—__ 
 
         The percentage of the first adjustment under this section in the retired pay of any person, as determined under subsection (c)(1), (c)(2), (d), or (e), may not exceed the percentage increase in retired pay determined under subsection (b)(2) that is effective on the same date as the effective date of such first adjustment.
 
@@ -121,7 +125,7 @@
 
     For purposes of this section, the price index for a calendar quarter is the arithmetical mean of the price index for the three months comprising that quarter.
 
-(Added [Pub. L. 88–132, § 5(g)(1)][/us/pl/88/132/s5/g/1], Oct. 2, 1963, [77 Stat. 213][/us/stat/77/213]; amended [Pub. L. 89–132, § 5(b)][/us/pl/89/132/s5/b], Aug. 21, 1965, [79 Stat. 547][/us/stat/79/547]; [Pub. L. 90–207, § 2(a)(1)][/us/pl/90/207/s2/a/1], Dec. 16, 1967, [81 Stat. 652][/us/stat/81/652]; [Pub. L. 91–179, § 1][/us/pl/91/179/s1], Dec. 30, 1969, [83 Stat. 837][/us/stat/83/837]; [Pub. L. 94–106, title VIII, § 806][/us/pl/94/106/s806], Oct. 7, 1975, [89 Stat. 538][/us/stat/89/538]; [Pub. L. 94–361, title VIII, § 801(a)][/us/pl/94/361/s801/a], July 14, 1976, [90 Stat. 929][/us/stat/90/929]; [Pub. L. 94–440, title XIII, § 1306(d)(1)][/us/pl/94/440/s1306/d/1], Oct. 1, 1976, [90 Stat. 1462][/us/stat/90/1462]; [Pub. L. 96–342, title VIII, § 812(b)(1)][/us/pl/96/342/s812/b/1], Sept. 8, 1980, [94 Stat. 1098][/us/stat/94/1098]; [Pub. L. 98–94, title IX][/us/pl/98/94], §§ 921(a)(1), (b), 922(a)(2), Sept. 24, 1983, [97 Stat. 640][/us/stat/97/640], 641; [Pub. L. 98–525, title XIV, § 1405(26)][/us/pl/98/525/s1405/26], Oct. 19, 1984, [98 Stat. 2623][/us/stat/98/2623]; [Pub. L. 99–348, title I, § 102][/us/pl/99/348/s102], July 1, 1986, [100 Stat. 683][/us/stat/100/683]; [Pub. L. 100–180, div. A, title XII, § 1231(21)][/us/pl/100/180/s1231/21], Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161]; [Pub. L. 100–224, § 1][/us/pl/100/224/s1], Dec. 30, 1987, [101 Stat. 1536][/us/stat/101/1536]; [Pub. L. 100–456, div. A, title VI, § 622(a)][/us/pl/100/456/s622/a], Sept. 29, 1988, [102 Stat. 1983][/us/stat/102/1983]; [Pub. L. 101–189, div. A, title VI, § 651(b)(1)][/us/pl/101/189/s651/b/1], Nov. 29, 1989, [103 Stat. 1460][/us/stat/103/1460]; [Pub. L. 103–66, title II, § 2001][/us/pl/103/66/s2001], Aug. 10, 1993, [107 Stat. 335][/us/stat/107/335]; [Pub. L. 103–160, div. A, title XI, § 1182(e)][/us/pl/103/160/s1182/e], Nov. 30, 1993, [107 Stat. 1773][/us/stat/107/1773]; [Pub. L. 103–335, title VIII, § 8114A(b)(1)][/us/pl/103/335/s8114A/b/1], Sept. 30, 1994, [108 Stat. 2648][/us/stat/108/2648]; [Pub. L. 103–337, div. A, title VI, § 633(a)][/us/pl/103/337/s633/a], Oct. 5, 1994, [108 Stat. 2787][/us/stat/108/2787]; [Pub. L. 104–106, div. A, title VI, § 631(a)][/us/pl/104/106/s631/a], (c), Feb. 10, 1996, [110 Stat. 364][/us/stat/110/364], 365; [Pub. L. 104–201, div. A, title VI][/us/pl/104/201], §§ 631(a), 632(a), Sept. 23, 1996, [110 Stat. 2549][/us/stat/110/2549]; [Pub. L. 106–65, div. A, title VI][/us/pl/106/65], §§ 641(b), 643(b)(1), title X, § 1066(a)(10), Oct. 5, 1999, [113 Stat. 662][/us/stat/113/662], 663, 771; [Pub. L. 107–314, div. A, title VI, § 633][/us/pl/107/314/s633], Dec. 2, 2002, [116 Stat. 2572][/us/stat/116/2572]; [Pub. L. 110–181, div. A, title VI, § 661(b)(3)][/us/pl/110/181/s661/b/3], Jan. 28, 2008, [122 Stat. 178][/us/stat/122/178]; [Pub. L. 113–67, div. A, title IV, § 403(a)][/us/pl/113/67/s403/a], Dec. 26, 2013, [127 Stat. 1186][/us/stat/127/1186].)
+(Added [Pub. L. 88–132, § 5(g)(1)][/us/pl/88/132/s5/g/1], Oct. 2, 1963, [77 Stat. 213][/us/stat/77/213]; amended [Pub. L. 89–132, § 5(b)][/us/pl/89/132/s5/b], Aug. 21, 1965, [79 Stat. 547][/us/stat/79/547]; [Pub. L. 90–207, § 2(a)(1)][/us/pl/90/207/s2/a/1], Dec. 16, 1967, [81 Stat. 652][/us/stat/81/652]; [Pub. L. 91–179, § 1][/us/pl/91/179/s1], Dec. 30, 1969, [83 Stat. 837][/us/stat/83/837]; [Pub. L. 94–106, title VIII, § 806][/us/pl/94/106/s806], Oct. 7, 1975, [89 Stat. 538][/us/stat/89/538]; [Pub. L. 94–361, title VIII, § 801(a)][/us/pl/94/361/s801/a], July 14, 1976, [90 Stat. 929][/us/stat/90/929]; [Pub. L. 94–440, title XIII, § 1306(d)(1)][/us/pl/94/440/s1306/d/1], Oct. 1, 1976, [90 Stat. 1462][/us/stat/90/1462]; [Pub. L. 96–342, title VIII, § 812(b)(1)][/us/pl/96/342/s812/b/1], Sept. 8, 1980, [94 Stat. 1098][/us/stat/94/1098]; [Pub. L. 98–94, title IX][/us/pl/98/94], §§ 921(a)(1), (b), 922(a)(2), Sept. 24, 1983, [97 Stat. 640][/us/stat/97/640], 641; [Pub. L. 98–525, title XIV, § 1405(26)][/us/pl/98/525/s1405/26], Oct. 19, 1984, [98 Stat. 2623][/us/stat/98/2623]; [Pub. L. 99–348, title I, § 102][/us/pl/99/348/s102], July 1, 1986, [100 Stat. 683][/us/stat/100/683]; [Pub. L. 100–180, div. A, title XII, § 1231(21)][/us/pl/100/180/s1231/21], Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161]; [Pub. L. 100–224, § 1][/us/pl/100/224/s1], Dec. 30, 1987, [101 Stat. 1536][/us/stat/101/1536]; [Pub. L. 100–456, div. A, title VI, § 622(a)][/us/pl/100/456/s622/a], Sept. 29, 1988, [102 Stat. 1983][/us/stat/102/1983]; [Pub. L. 101–189, div. A, title VI, § 651(b)(1)][/us/pl/101/189/s651/b/1], Nov. 29, 1989, [103 Stat. 1460][/us/stat/103/1460]; [Pub. L. 103–66, title II, § 2001][/us/pl/103/66/s2001], Aug. 10, 1993, [107 Stat. 335][/us/stat/107/335]; [Pub. L. 103–160, div. A, title XI, § 1182(e)][/us/pl/103/160/s1182/e], Nov. 30, 1993, [107 Stat. 1773][/us/stat/107/1773]; [Pub. L. 103–335, title VIII, § 8114A(b)(1)][/us/pl/103/335/s8114A/b/1], Sept. 30, 1994, [108 Stat. 2648][/us/stat/108/2648]; [Pub. L. 103–337, div. A, title VI, § 633(a)][/us/pl/103/337/s633/a], Oct. 5, 1994, [108 Stat. 2787][/us/stat/108/2787]; [Pub. L. 104–106, div. A, title VI, § 631(a)][/us/pl/104/106/s631/a], (c), Feb. 10, 1996, [110 Stat. 364][/us/stat/110/364], 365; [Pub. L. 104–201, div. A, title VI][/us/pl/104/201], §§ 631(a), 632(a), Sept. 23, 1996, [110 Stat. 2549][/us/stat/110/2549]; [Pub. L. 106–65, div. A, title VI][/us/pl/106/65], §§ 641(b), 643(b)(1), title X, § 1066(a)(10), Oct. 5, 1999, [113 Stat. 662][/us/stat/113/662], 663, 771; [Pub. L. 107–314, div. A, title VI, § 633][/us/pl/107/314/s633], Dec. 2, 2002, [116 Stat. 2572][/us/stat/116/2572]; [Pub. L. 110–181, div. A, title VI, § 661(b)(3)][/us/pl/110/181/s661/b/3], Jan. 28, 2008, [122 Stat. 178][/us/stat/122/178]; [Pub. L. 113–66, div. A, title VI, § 631(a)][/us/pl/113/66/s631/a], (b), title X, § 1091(a)(9), Dec. 26, 2013, [127 Stat. 785][/us/stat/127/785], 876; [Pub. L. 113–67, div. A, title IV, § 403(a)][/us/pl/113/67/s403/a], Dec. 26, 2013, [127 Stat. 1186][/us/stat/127/1186].)
 
  __Amendment of Subsection (b)__ 
 
@@ -153,13 +157,23 @@
 
  __References in Text__ 
 
-    [Section 322 of title 37][/us/usc/t37/s322] (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008), referred to in subsecs. (b)(3), (d), and (e), means [section 322 of title 37][/us/usc/t37/s322] as in effect before enactment of [Pub. L. 110–181][/us/pl/110/181]. [Section 322 of title 37][/us/usc/t37/s322] was renumbered as [section 354 of title 37][/us/usc/t37/s354] and amended by [Pub. L. 110–181, div. A, title VI, § 661(b)(1)][/us/pl/110/181/s661/b/1], (2), Jan. 28, 2008, [122 Stat. 178][/us/stat/122/178].
+    [Section 322 of title 37][/us/usc/t37/s322] (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008), referred to in subsec. (b)(3), and [section 322 of title 37][/us/usc/t37/s322] (as in effect before January 28, 2008), referred to in subsecs. (d), and (e), means [section 322 of title 37][/us/usc/t37/s322] as in effect before enactment of [Pub. L. 110–181][/us/pl/110/181] on January 28, 2008. [Section 322 of title 37][/us/usc/t37/s322] was renumbered as [section 354 of title 37][/us/usc/t37/s354] and amended by [Pub. L. 110–181, div. A, title VI, § 661(b)(1)][/us/pl/110/181/s661/b/1], (2), Jan. 28, 2008, [122 Stat. 178][/us/stat/122/178].
 
  __Amendments__ 
 
     2013—Subsec. (b)(1). [Pub. L. 113–67, § 403(a)(1)][/us/pl/113/67/s403/a/1], substituted “paragraph (2), (3), or (4)” for “paragraphs (2) and (3)”.
 
     Subsec. (b)(4) to (6). [Pub. L. 113–67, § 403(a)(2)][/us/pl/113/67/s403/a/2], (3), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+
+    Subsec. (c)(1), (2). [Pub. L. 113–66, § 631(b)][/us/pl/113/66/s631/b], substituted “subsection (f)(3)” for “subsection (f)(2)” in introductory provisions.
+
+    Subsecs. (d), (e). [Pub. L. 113–66, § 1091(a)(9)][/us/pl/113/66/s1091/a/9], substituted “before January 28, 2008” for “before the enactment of the National Defense Authorization Act for Fiscal Year 2008” in introductory provisions.
+
+    [Pub. L. 113–66, § 631(b)][/us/pl/113/66/s631/b], substituted “subsection (f)(3)” for “subsection (f)(2)” in introductory provisions.
+
+    Subsec. (f)(1). [Pub. L. 113–66, § 631(a)(1)][/us/pl/113/66/s631/a/1], substituted “Prevention of retired pay inversions for members with retired pay computed using final basic pay.—The” for “Prevention of retired pay inversions.—Notwithstanding any other provision of law, the” and inserted “who first became a member of a uniformed service before September 8, 1980, and” after “of an armed force”.
+
+    Subsec. (f)(2), (3). [Pub. L. 113–66, § 631(a)(2)][/us/pl/113/66/s631/a/2], (3), added par. (2) and redesignated former par. (2) as (3).
 
     2008—Subsecs. (b)(3), (d), (e). [Pub. L. 110–181][/us/pl/110/181], in introductory provisions, substituted “section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or section 354” for “section 322”.
 
@@ -308,6 +322,10 @@
 [Pub. L. 113–67, div. A, title IV, § 403(c)][/us/pl/113/67/s403/c], Dec. 26, 2013, [127 Stat. 1186][/us/stat/127/1186], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on December 1, 2015.”
+
+[Pub. L. 113–66, div. A, title VI, § 631(c)][/us/pl/113/66/s631/c], Dec. 26, 2013, [127 Stat. 785][/us/stat/127/785], provided that: 
+
+> “Paragraph (2) of [section 1401a(f) of title 10][/us/usc/t10/s1401a/f], United States Code, as added by the amendment made by subsection (a)(3), applies to the computation of retired pay or retainer pay of any person who first became a member of a uniformed service on or after September 8, 1980, regardless of when the member first becomes entitled to retired or retainer pay.”
 
  __Effective Date of 1999 Amendment__ 
 
@@ -593,6 +611,7 @@
 [/us/usc/t37/s354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs354
 [/us/usc/t10/s1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1407
 [/us/usc/t37/s354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs354
+[/us/usc/t10/s1407/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1407%2Ff
 [/us/pl/88/132/s5/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132%2Fs5%2Fg%2F1
 [/us/stat/77/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F213
 [/us/pl/89/132/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F132%2Fs5%2Fb
@@ -641,11 +660,14 @@
 [/us/stat/116/2572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2572
 [/us/pl/110/181/s661/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs661%2Fb%2F3
 [/us/stat/122/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F178
+[/us/pl/113/66/s631/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs631%2Fa
+[/us/stat/127/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F785
 [/us/pl/113/67/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403%2Fa
 [/us/stat/127/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1186
 [/us/pl/113/67/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403%2Fa
 [/us/stat/127/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1186
 [/us/usc/t10/s1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1410
+[/us/usc/t37/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs322
 [/us/usc/t37/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs322
 [/us/usc/t37/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs322
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
@@ -655,6 +677,11 @@
 [/us/stat/122/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F178
 [/us/pl/113/67/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403%2Fa%2F1
 [/us/pl/113/67/s403/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403%2Fa%2F2
+[/us/pl/113/66/s631/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs631%2Fb
+[/us/pl/113/66/s1091/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fa%2F9
+[/us/pl/113/66/s631/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs631%2Fb
+[/us/pl/113/66/s631/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs631%2Fa%2F1
+[/us/pl/113/66/s631/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs631%2Fa%2F2
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/107/314/s633/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs633%2Fa%2F1
 [/us/pl/107/314/s633/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs633%2Fa%2F2
@@ -716,6 +743,9 @@
 [/us/pl/89/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F132
 [/us/pl/113/67/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403%2Fc
 [/us/stat/127/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1186
+[/us/pl/113/66/s631/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs631%2Fc
+[/us/stat/127/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F785
+[/us/usc/t10/s1401a/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401a%2Ff
 [/us/pl/106/65/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs644
 [/us/stat/113/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F664
 [/us/usc/t37/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs322

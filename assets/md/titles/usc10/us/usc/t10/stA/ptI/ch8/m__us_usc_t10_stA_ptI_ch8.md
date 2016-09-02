@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_s188.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch8/schI/m__us_usc_t10_stA_ptI_ch8_schI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch8)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_s189.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch8/schI/m__us_usc_t10_stA_ptI_ch8_schI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch8)
 
 #### CHAPTER 8—DEFENSE AGENCIES AND DEPARTMENT OF DEFENSE FIELD ACTIVITIES
 
@@ -51,7 +51,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_s188.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch8/schI/m__us_usc_t10_stA_ptI_ch8_schI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch8)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_s189.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch8/schI/m__us_usc_t10_stA_ptI_ch8_schI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch8)
 
 ----------
 ----------

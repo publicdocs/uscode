@@ -77,9 +77,13 @@
 
     (8) The term “theater component commander” means, with respect to any of the combatant commands, an officer of any of the armed forces who (A) is commander of all forces of that armed force assigned to that combatant command, and (B) is directly subordinate to the commander of the combatant command.
 
-(Added [Pub. L. 104–106, div. A, title V, § 569(b)(1)][/us/pl/104/106/s569/b/1], Feb. 10, 1996, [110 Stat. 350][/us/stat/110/350]; amended [Pub. L. 104–201, div. A, title V, § 578(a)(4)][/us/pl/104/201/s578/a/4], (b)(3), Sept. 23, 1996, [110 Stat. 2536][/us/stat/110/2536]; [Pub. L. 105–85, div. A, title V, § 599(a)(4)][/us/pl/105/85/s599/a/4], (b)(2), Nov. 18, 1997, [111 Stat. 1768][/us/stat/111/1768]; [Pub. L. 106–65, div. A, title X, § 1066(a)(15)][/us/pl/106/65/s1066/a/15], Oct. 5, 1999, [113 Stat. 771][/us/stat/113/771]; [Pub. L. 111–84, div. A, title V, § 541(c)][/us/pl/111/84/s541/c], Oct. 28, 2009, [123 Stat. 2298][/us/stat/123/2298].)
+    (9) The term “survival, evasion, resistance, and escape debriefing” means an interview conducted with a person described in [section 1501(c) of this title][/us/usc/t10/s1501/c] who is returned to United States control in order to record the person’s experiences while surviving, evading, resisting interrogation or exploitation, or escaping.
+
+(Added [Pub. L. 104–106, div. A, title V, § 569(b)(1)][/us/pl/104/106/s569/b/1], Feb. 10, 1996, [110 Stat. 350][/us/stat/110/350]; amended [Pub. L. 104–201, div. A, title V, § 578(a)(4)][/us/pl/104/201/s578/a/4], (b)(3), Sept. 23, 1996, [110 Stat. 2536][/us/stat/110/2536]; [Pub. L. 105–85, div. A, title V, § 599(a)(4)][/us/pl/105/85/s599/a/4], (b)(2), Nov. 18, 1997, [111 Stat. 1768][/us/stat/111/1768]; [Pub. L. 106–65, div. A, title X, § 1066(a)(15)][/us/pl/106/65/s1066/a/15], Oct. 5, 1999, [113 Stat. 771][/us/stat/113/771]; [Pub. L. 111–84, div. A, title V, § 541(c)][/us/pl/111/84/s541/c], Oct. 28, 2009, [123 Stat. 2298][/us/stat/123/2298]; [Pub. L. 113–66, div. A, title V, § 582(b)][/us/pl/113/66/s582/b], Dec. 26, 2013, [127 Stat. 776][/us/stat/127/776].)
 
  __Amendments__ 
+
+    2013—Par. (9). [Pub. L. 113–66][/us/pl/113/66] added par. (9).
 
     2009—Par. (1). [Pub. L. 111–84][/us/pl/111/84] substituted “subsection (a) of [section 1509 of this title][/us/usc/t10/s1509] who is required by subsection (b) of such section” for “[section 1509(b) of this title][/us/usc/t10/s1509/b] who is required by [section 1509(a)(1) of this title][/us/usc/t10/s1509/a/1]” in concluding provisions.
 
@@ -107,6 +111,7 @@
 [/us/usc/t10/s1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1509
 [/us/usc/t10/s1482/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1482%2Fc
 [/us/usc/t10/s655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs655
+[/us/usc/t10/s1501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1501%2Fc
 [/us/pl/104/106/s569/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs569%2Fb%2F1
 [/us/stat/110/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F350
 [/us/pl/104/201/s578/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs578%2Fa%2F4
@@ -117,6 +122,9 @@
 [/us/stat/113/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F771
 [/us/pl/111/84/s541/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs541%2Fc
 [/us/stat/123/2298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2298
+[/us/pl/113/66/s582/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs582%2Fb
+[/us/stat/127/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F776
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/usc/t10/s1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1509
 [/us/usc/t10/s1509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1509%2Fb

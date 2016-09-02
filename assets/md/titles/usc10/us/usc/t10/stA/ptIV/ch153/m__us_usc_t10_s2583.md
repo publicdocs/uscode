@@ -59,13 +59,11 @@
 
         (2) A horse owned by the Department of Defense.
 
-(Added [Pub. L. 106–446, § 1(a)][/us/pl/106/446/s1/a], Nov. 6, 2000, [114 Stat. 1932][/us/stat/114/1932], § 2582; renumbered § 2583, [Pub. L. 107–107, div. A, title X, § 1048(a)(25)][/us/pl/107/107/s1048/a/25], Dec. 28, 2001, [115 Stat. 1224][/us/stat/115/1224]; amended [Pub. L. 109–163, div. A, title V, § 599][/us/pl/109/163/s599], Jan. 6, 2006, [119 Stat. 3284][/us/stat/119/3284]; [Pub. L. 109–364, div. A, title III, § 352(a)][/us/pl/109/364/s352/a], Oct. 17, 2006, [120 Stat. 2160][/us/stat/120/2160]; [Pub. L. 110–181, div. A, title X, § 1063(a)(13)][/us/pl/110/181/s1063/a/13], Jan. 28, 2008, [122 Stat. 322][/us/stat/122/322]; [Pub. L. 112–81, div. A, title III, § 351][/us/pl/112/81/s351], title X, § 1061(20), Dec. 31, 2011, [125 Stat. 1375][/us/stat/125/1375], 1584; [Pub. L. 112–239, div. A, title III, § 371(a)][/us/pl/112/239/s371/a], Jan. 2, 2013, [126 Stat. 1706][/us/stat/126/1706].)
+(Added [Pub. L. 106–446, § 1(a)][/us/pl/106/446/s1/a], Nov. 6, 2000, [114 Stat. 1932][/us/stat/114/1932], § 2582; renumbered § 2583, [Pub. L. 107–107, div. A, title X, § 1048(a)(25)][/us/pl/107/107/s1048/a/25], Dec. 28, 2001, [115 Stat. 1224][/us/stat/115/1224]; amended [Pub. L. 109–163, div. A, title V, § 599][/us/pl/109/163/s599], Jan. 6, 2006, [119 Stat. 3284][/us/stat/119/3284]; [Pub. L. 109–364, div. A, title III, § 352(a)][/us/pl/109/364/s352/a], Oct. 17, 2006, [120 Stat. 2160][/us/stat/120/2160]; [Pub. L. 110–181, div. A, title X, § 1063(a)(13)][/us/pl/110/181/s1063/a/13], Jan. 28, 2008, [122 Stat. 322][/us/stat/122/322]; [Pub. L. 112–81, div. A, title III, § 351][/us/pl/112/81/s351], title X, § 1061(20), Dec. 31, 2011, [125 Stat. 1375][/us/stat/125/1375], 1584; [Pub. L. 112–239, div. A, title III, § 371(a)][/us/pl/112/239/s371/a], Jan. 2, 2013, [126 Stat. 1706][/us/stat/126/1706]; by [Pub. L. 113–66, div. A, title X, § 1091(b)(2)][/us/pl/113/66/s1091/b/2], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876].)
 
  __Amendments__ 
 
-    2013—Subsec. (f). [Pub. L. 112–239, § 371(a)(2)][/us/pl/112/239/s371/a/2], added subsec. (f). Former subsec. (f) redesignated (g).
-
-    Subsec. (g). [Pub. L. 112–239, § 371(a)(1)][/us/pl/112/239/s371/a/1], which directed the amendment of this section by redesignating subsecs. (f) and (g) as (g) and (h), respectively, was executed by redesignating subsec. (f) as (g) to reflect the probable intent of Congress and the intervening amendment by [Pub. L. 112–81, § 1061(20)][/us/pl/112/81/s1061/20]. See 2011 Amendment note below.
+    2013—Subsecs. (f), (g). [Pub. L. 112–239, § 371(a)][/us/pl/112/239/s371/a], as amended by [Pub. L. 113–66, § 1091(b)(2)][/us/pl/113/66/s1091/b/2], added subsec. (f) and redesignated former subsec. (f) as (g).
 
     2011—Subsec. (a)(2). [Pub. L. 112–81, § 351(1)][/us/pl/112/81/s351/1], inserted “, including circumstances under which the handler of a military working dog is killed in action, dies of wounds received in action, or is medically retired as a result of injuries received in action,” after “extraordinary circumstances”.
 
@@ -101,6 +99,10 @@
 
     2001—[Pub. L. 107–107][/us/pl/107/107] renumbered [section 2582 of this title][/us/usc/t10/s2582] as this section.
 
+ __Effective Date of 2013 Amendment__ 
+
+    [Pub. L. 113–66, div. A, title X, § 1091(b)][/us/pl/113/66/s1091/b], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876], provided in part that the amendment made by section 1091(b)(2) is effective as of Jan. 2, 2013, and as if included in [Pub. L. 112–239][/us/pl/112/239] as enacted.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch153/m__us_usc_t10_s2582.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch155/m__us_usc_t10_stA_ptIV_ch155.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2583)
@@ -122,9 +124,10 @@
 [/us/stat/125/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1375
 [/us/pl/112/239/s371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs371%2Fa
 [/us/stat/126/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1706
-[/us/pl/112/239/s371/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs371%2Fa%2F2
-[/us/pl/112/239/s371/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs371%2Fa%2F1
-[/us/pl/112/81/s1061/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F20
+[/us/pl/113/66/s1091/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb%2F2
+[/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
+[/us/pl/112/239/s371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs371%2Fa
+[/us/pl/113/66/s1091/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb%2F2
 [/us/pl/112/81/s351/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs351%2F1
 [/us/pl/112/81/s351/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs351%2F2
 [/us/pl/112/81/s1061/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F20
@@ -143,5 +146,8 @@
 [/us/pl/109/364/s352/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs352%2Fa%2F6
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/usc/t10/s2582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2582
+[/us/pl/113/66/s1091/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb
+[/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 
 

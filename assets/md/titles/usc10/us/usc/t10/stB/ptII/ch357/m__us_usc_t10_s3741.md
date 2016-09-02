@@ -97,7 +97,7 @@ The words “That the provisions of existing law relating to the award of medals
 
  __Review Regarding Award of Medal of Honor to Certain Jewish American and Hispanic American War Veterans__ 
 
-[Pub. L. 107–107, div. A, title V, § 552][/us/pl/107/107/s552], Dec. 28, 2001, [115 Stat. 1115][/us/stat/115/1115], provided that:
+[Pub. L. 107–107, div. A, title V, § 552][/us/pl/107/107/s552], Dec. 28, 2001, [115 Stat. 1115][/us/stat/115/1115], as amended by [Pub. L. 113–66, div. A, title V, § 566][/us/pl/113/66/s566], Dec. 26, 2013, [127 Stat. 769][/us/stat/127/769], provided that:
 
 >     “(a)  __Review Required__  __.—__ 
 
@@ -121,7 +121,9 @@ The words “That the provisions of existing law relating to the award of medals
 
 >     “(e)  __Authority To Award Medal of Honor__  __.—__ 
 
->     A Medal of Honor may be awarded to a Jewish American war veteran or Hispanic American war veteran in accordance with a recommendation of the Secretary concerned under subsection (d).
+>         (1) A Medal of Honor may be awarded to a Jewish American war veteran or Hispanic American war veteran in accordance with a recommendation of the Secretary concerned under subsection (d).
+
+>         “(2) In addition to the authority provided by paragraph (1), a Medal of Honor may be awarded to a veteran of the Armed Forces who, although not a Jewish-American war veteran or Hispanic-American war veteran described in subsection (b), was identified during the review of service records conducted under subsection (a) and regarding whom the Secretary of Defense submitted, before January 1, 2014, a recommendation to the President that the President award the Medal of Honor to that veteran.
 
 >     “(f)  __Waiver of Time Limitations__  __.—__ 
 
@@ -187,6 +189,8 @@ The words “That the provisions of existing law relating to the award of medals
 [/us/stat/125/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1444
 [/us/pl/107/107/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs552
 [/us/stat/115/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1115
+[/us/pl/113/66/s566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs566
+[/us/stat/127/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F769
 [/us/pl/104/106/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs524
 [/us/stat/110/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F312
 [/us/usc/t42/s2991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2991

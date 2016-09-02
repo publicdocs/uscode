@@ -1775,13 +1775,13 @@ In subsection (a), the words “The Secretary of Defense is hereby directed that
 
  __Termination of Authority To Issue Solicitations for Purchases of Commercial Items in Excess of Simplified Acquisition Threshold__ 
 
-[Pub. L. 104–106, div. D, title XLII, § 4202(e)][/us/pl/104/106/s4202/e], Feb. 10, 1996, [110 Stat. 654][/us/stat/110/654], as amended by [Pub. L. 106–65, div. A, title VIII, § 806(a)][/us/pl/106/65/s806/a], Oct. 5, 1999, [113 Stat. 705][/us/stat/113/705]; [Pub. L. 107–107, div. A, title VIII, § 823][/us/pl/107/107/s823], Dec. 28, 2001, [115 Stat. 1183][/us/stat/115/1183]; [Pub. L. 107–314, div. A, title VIII, § 812(a)][/us/pl/107/314/s812/a], Dec. 2, 2002, [116 Stat. 2609][/us/stat/116/2609]; [Pub. L. 108–136, div. A, title XIV, § 1443(b)][/us/pl/108/136/s1443/b], Nov. 24, 2003, [117 Stat. 1676][/us/stat/117/1676]; [Pub. L. 108–375, div. A, title VIII, § 817][/us/pl/108/375/s817], Oct. 28, 2004, [118 Stat. 2015][/us/stat/118/2015]; [Pub. L. 110–181, div. A, title VIII, § 822(a)][/us/pl/110/181/s822/a], Jan. 28, 2008, [122 Stat. 226][/us/stat/122/226]; [Pub. L. 111–84, div. A, title VIII, § 816][/us/pl/111/84/s816], Oct. 28, 2009, [123 Stat. 2408][/us/stat/123/2408]; [Pub. L. 112–239, div. A, title VIII, § 822][/us/pl/112/239/s822], Jan. 2, 2013, [126 Stat. 1830][/us/stat/126/1830], provided that: 
+[Pub. L. 104–106, div. D, title XLII, § 4202(e)][/us/pl/104/106/s4202/e], Feb. 10, 1996, [110 Stat. 654][/us/stat/110/654], as amended by [Pub. L. 106–65, div. A, title VIII, § 806(a)][/us/pl/106/65/s806/a], Oct. 5, 1999, [113 Stat. 705][/us/stat/113/705]; [Pub. L. 107–107, div. A, title VIII, § 823][/us/pl/107/107/s823], Dec. 28, 2001, [115 Stat. 1183][/us/stat/115/1183]; [Pub. L. 107–314, div. A, title VIII, § 812(a)][/us/pl/107/314/s812/a], Dec. 2, 2002, [116 Stat. 2609][/us/stat/116/2609]; [Pub. L. 108–136, div. A, title XIV, § 1443(b)][/us/pl/108/136/s1443/b], Nov. 24, 2003, [117 Stat. 1676][/us/stat/117/1676]; [Pub. L. 108–375, div. A, title VIII, § 817][/us/pl/108/375/s817], Oct. 28, 2004, [118 Stat. 2015][/us/stat/118/2015]; [Pub. L. 110–181, div. A, title VIII, § 822(a)][/us/pl/110/181/s822/a], Jan. 28, 2008, [122 Stat. 226][/us/stat/122/226]; [Pub. L. 111–84, div. A, title VIII, § 816][/us/pl/111/84/s816], Oct. 28, 2009, [123 Stat. 2408][/us/stat/123/2408]; [Pub. L. 112–239, div. A, title VIII, § 822][/us/pl/112/239/s822], Jan. 2, 2013, [126 Stat. 1830][/us/stat/126/1830]; [Pub. L. 113–66, div. A, title X, § 1091(b)(4)][/us/pl/113/66/s1091/b/4], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876], provided that: 
 
 > “The authority to issue solicitations for purchases of commercial items in excess of the simplified acquisition threshold pursuant to the special simplified procedures authorized by [section 2304(g)(1) of title 10][/us/usc/t10/s2304/g/1], United States Code, [section 3305(a) of title 41][/us/usc/t41/s3305/a], United States Code, and [section 1901(a) of title 41][/us/usc/t41/s1901/a], United States Code, shall expire January 1, 2015. Contracts may be awarded pursuant to solicitations that have been issued before such authority expires, notwithstanding the expiration of such authority.”
 
-    \[[Pub. L. 112–239, div. A, title VIII, § 822(a)][/us/pl/112/239/s822/a], Jan. 2, 2013, [126 Stat. 1830][/us/stat/126/1830], provided that amendment to [section 4202(e) of Pub. L. 104–106][/us/pl/104/106/s4202/e], set out above, by section 822(a) is effective as of Jan. 1, 2012.\]
+    \[[Pub. L. 113–66, div. A, title X, § 1091(b)][/us/pl/113/66/s1091/b], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876], provided in part that the amendment made by section 1091(b)(4) is effective as of Jan. 2, 2013, and as if included in [Pub. L. 112–239][/us/pl/112/239] as enacted.\]
 
-    \[[Section 822(b) of Pub. L. 112–239][/us/pl/112/239/s822/b], which directed amendment of subsection (e) of [Pub. L. 104–106][/us/pl/104/106], was executed to subsection (e) of [section 4202 of Pub. L. 104–106][/us/pl/104/106/s4202], set out above, to reflect the probable intent of Congress.\]
+    \[[Pub. L. 112–239, div. A, title VIII, § 822(a)][/us/pl/112/239/s822/a], Jan. 2, 2013, [126 Stat. 1830][/us/stat/126/1830], provided that amendment to [section 4202(e) of Pub. L. 104–106][/us/pl/104/106/s4202/e], set out above, by section 822(a) is effective as of Jan. 1, 2012.\]
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -2400,15 +2400,17 @@ In subsection (a), the words “The Secretary of Defense is hereby directed that
 [/us/stat/123/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2408
 [/us/pl/112/239/s822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs822
 [/us/stat/126/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1830
+[/us/pl/113/66/s1091/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb%2F4
+[/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
 [/us/usc/t10/s2304/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304%2Fg%2F1
 [/us/usc/t41/s3305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3305%2Fa
 [/us/usc/t41/s1901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1901%2Fa
+[/us/pl/113/66/s1091/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb
+[/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/239/s822/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs822%2Fa
 [/us/stat/126/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1830
 [/us/pl/104/106/s4202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4202%2Fe
-[/us/pl/112/239/s822/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs822%2Fb
-[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/104/106/s4202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4202
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
 [/us/pl/100/180/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1111

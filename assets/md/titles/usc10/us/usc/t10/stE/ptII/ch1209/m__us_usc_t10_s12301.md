@@ -247,6 +247,54 @@ Aug. 9, 1955, ch. 665, § 2(e), 69 Stat. 599.  </td>
 
     For rule of construction for certain duplicate provisions of Public Laws 99–500, 99–591, and 99–661, see [Pub. L. 100–26, § 6][/us/pl/100/26/s6], Apr. 21, 1987, [101 Stat. 274][/us/stat/101/274], set out as a note under [section 2302 of this title][/us/usc/t10/s2302].
 
+ __Limitations on Cancellations of Deployment of Certain Reserve Component Units and Involuntary Mobilizations of Certain Reserves__ 
+
+[Pub. L. 113–66, div. A, title V, § 513][/us/pl/113/66/s513], Dec. 26, 2013, [127 Stat. 752][/us/stat/127/752], provided that:
+
+>     “(a) __Limitation on Cancellation of Deployment of Certain Units Within 180 Days of Scheduled Deployment.—__ 
+
+>         “(1)  __Limitation__  __.—__ 
+
+>         The deployment of a unit of a reserve component of the Armed Forces described in paragraph (2) may not be cancelled during the 180-day period ending on the date on which the unit is otherwise scheduled for deployment without the approval, in writing, of the Secretary of Defense.
+
+>         “(2)  __Covered deployments__  __.—__ 
+
+>         A deployment of a unit of a reserve component described in this paragraph is a deployment whose cancellation as described in paragraph (1) is due to the deployment of a unit of a regular component of the Armed Forces to carry out the mission for which the unit of the reserve component was otherwise to be deployed.
+
+>         “(3)  __Notice to congress and governors on approval of cancellation of deployment__  __.—__ 
+
+>         On approving the cancellation of deployment of a unit under paragraph (1), the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] and the Governor concerned a notice on the approval of cancellation of deployment of the unit.
+
+>     “(b) __Advance Notice to Certain Reserves on Involuntary Mobilization.—__ 
+
+>         “(1)  __Advance notice required__  __.—__ 
+
+>         The Secretary concerned may not provide less than 120 days advance notice of an involuntary mobilization to a member of the reserve component of the Armed Forces described in paragraph (2) without the approval, in writing, of the Secretary of Defense.
+
+>         “(2)  __Covered reserves__  __.—__ 
+
+>         A member of a reserve component described in this paragraph is a member as follows:
+
+>             “(A) A member who is not assigned to a unit organized to serve as a unit.
+
+>             “(B) A member who is to be mobilized apart from the member’s unit.
+
+>         “(3)  __Commencement of applicability__  __.—__ 
+
+>         This subsection shall apply with respect to members who are mobilized on or after the date that is 120 days after the date of the enactment of this Act \[Dec. 26, 2013\].
+
+>         “(4)  __Secretary concerned defined__  __.—__ 
+
+>         In this subsection, the term ‘Secretary concerned’ has the meaning given that term in [section 101(a)(9) of title 10][/us/usc/t10/s101/a/9], United States Code.
+
+>         “(5)  __Sunset__  __.—__ 
+
+>         This subsection shall cease to apply as of the date of the completion of the withdrawal of United States combat forces from Afghanistan.
+
+>     “(c)  __Nondelegation of Approval__  __.—__ 
+
+>     The Secretary of Defense may not delegate the approval of cancellations of deployments of units under subsection (a) or the approval of mobilization of Reserves without advance notice under subsection (b).”
+
  __Advance Notice to Members of Reserve Components of Deployment in Support of Contingency Operations__ 
 
 [Pub. L. 110–181, div. A, title V, § 515][/us/pl/110/181/s515], Jan. 28, 2008, [122 Stat. 99][/us/stat/122/99], provided that:
@@ -322,6 +370,9 @@ Aug. 9, 1955, ch. 665, § 2(e), 69 Stat. 599.  </td>
 [/us/pl/100/26/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs6
 [/us/stat/101/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F274
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
+[/us/pl/113/66/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs513
+[/us/stat/127/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F752
+[/us/usc/t10/s101/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F9
 [/us/pl/110/181/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs515
 [/us/stat/122/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F99
 [/us/usc/t10/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13

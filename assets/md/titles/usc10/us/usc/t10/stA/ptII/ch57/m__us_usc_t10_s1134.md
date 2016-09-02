@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch57/m__us_usc_t10_s1133.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch57/m__us_usc_t10_s1135.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1134)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch57/m__us_usc_t10_s1133.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch57/m__us_usc_t10_s1134a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1134)
 
 ## § 1134. Medal of honor: award to individual interred in Tomb of the Unknowns as representative of casualties of a war
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch57/m__us_usc_t10_s1133.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch57/m__us_usc_t10_s1135.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1134)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch57/m__us_usc_t10_s1133.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch57/m__us_usc_t10_s1134a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1134)
 
 ----------
 ----------

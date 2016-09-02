@@ -43,9 +43,11 @@
 
         (1) The Secretary concerned shall withhold from personnel files under this section, as privileged information, debriefing reports provided by missing persons returned to United States control which are obtained under a promise of confidentiality made for the purpose of ensuring the fullest possible disclosure of information.
 
-        (2) If a debriefing report contains non-derogatory information about the status and whereabouts of a missing person other than the source of the debriefing report or about unnamed missing persons, the Secretary concerned shall prepare an extract of the non-derogatory information. That extract, following a review by the source of the debriefing report, shall be placed in the personnel file of each missing person named in the debriefing report in such a manner as to protect the identity of the source providing the information. Any information contained in the extract of the debriefing report that pertains to unnamed missing persons shall be made reasonably accessible to the primary next of kin, members of the immediate family, and the previously designated person.
+        (2) The Secretary concerned shall withhold from personnel files under this section, as privileged information, any survival, evasion, resistance, and escape debriefing report provided by a person described in [section 1501(c) of this title][/us/usc/t10/s1501/c] who is returned to United States control which is obtained under a promise of confidentiality made for the purpose of ensuring the fullest possible disclosure of information.
 
-        (3) Whenever the Secretary concerned withholds a debriefing report, or part of a debriefing report, from a personnel file under this subsection, the Secretary shall ensure that the file contains a notice that withheld information exists.
+        (3) If a debriefing report contains non-derogatory information about the status and whereabouts of a missing person other than the source of the debriefing report or about unnamed missing persons, the Secretary concerned shall prepare an extract of the non-derogatory information. That extract, following a review by the source of the debriefing report, shall be placed in the personnel file of each missing person named in the debriefing report in such a manner as to protect the identity of the source providing the information. Any information contained in the extract of the debriefing report that pertains to unnamed missing persons shall be made reasonably accessible to the primary next of kin, members of the immediate family, and the previously designated person.
+
+        (4) Whenever the Secretary concerned withholds a debriefing report, or part of a debriefing report, from a personnel file under this subsection, the Secretary shall ensure that the file contains a notice that withheld information exists.
 
     (e)  __Availability of Information__  __.—__ 
 
@@ -53,11 +55,15 @@
 
     (f)  __Nondisclosure of Certain Information__  __.—__ 
 
-    A record of the content of a debriefing of a missing person returned to United States control during the period beginning on July 8, 1959, and ending on February 10, 1996, that was conducted by an official of the United States authorized to conduct the debriefing is privileged information and, notwithstanding sections 552 and 552a of title 5, may not be disclosed, in whole or in part, under either such section. However, this subsection does not limit the responsibility of the Secretary concerned under paragraphs (2) and (3) of subsection (d) to place extracts of non-derogatory information, or a notice of the existence of such information, in the personnel file of a missing person.
+    A record of the content of a debriefing of a missing person returned to United States control during the period beginning on July 8, 1959, and ending on February 10, 1996, that was conducted by an official of the United States authorized to conduct the debriefing is privileged information and, notwithstanding sections 552 and 552a of title 5, may not be disclosed, in whole or in part, under either such section. However, this subsection does not limit the responsibility of the Secretary concerned under paragraphs (3) and (4) of subsection (d) to place extracts of non-derogatory information, or a notice of the existence of such information, in the personnel file of a missing person.
 
-(Added [Pub. L. 104–106, div. A, title V, § 569(b)(1)][/us/pl/104/106/s569/b/1], Feb. 10, 1996, [110 Stat. 346][/us/stat/110/346]; amended [Pub. L. 104–201, div. A, title V, § 578(d)][/us/pl/104/201/s578/d], Sept. 23, 1996, [110 Stat. 2537][/us/stat/110/2537]; [Pub. L. 105–85, div. A, title V, § 599(f)][/us/pl/105/85/s599/f], (g), Nov. 18, 1997, [111 Stat. 1770][/us/stat/111/1770]; [Pub. L. 106–65, div. A, title V, § 575][/us/pl/106/65/s575], Oct. 5, 1999, [113 Stat. 624][/us/stat/113/624]; [Pub. L. 107–107, div. A, title V, § 573][/us/pl/107/107/s573], Dec. 28, 2001, [115 Stat. 1122][/us/stat/115/1122].)
+(Added [Pub. L. 104–106, div. A, title V, § 569(b)(1)][/us/pl/104/106/s569/b/1], Feb. 10, 1996, [110 Stat. 346][/us/stat/110/346]; amended [Pub. L. 104–201, div. A, title V, § 578(d)][/us/pl/104/201/s578/d], Sept. 23, 1996, [110 Stat. 2537][/us/stat/110/2537]; [Pub. L. 105–85, div. A, title V, § 599(f)][/us/pl/105/85/s599/f], (g), Nov. 18, 1997, [111 Stat. 1770][/us/stat/111/1770]; [Pub. L. 106–65, div. A, title V, § 575][/us/pl/106/65/s575], Oct. 5, 1999, [113 Stat. 624][/us/stat/113/624]; [Pub. L. 107–107, div. A, title V, § 573][/us/pl/107/107/s573], Dec. 28, 2001, [115 Stat. 1122][/us/stat/115/1122]; [Pub. L. 113–66, div. A, title V, § 582(a)][/us/pl/113/66/s582/a], Dec. 26, 2013, [127 Stat. 776][/us/stat/127/776].)
 
  __Amendments__ 
+
+    2013—Subsec. (d)(2) to (4). [Pub. L. 113–66, § 582(a)(1)][/us/pl/113/66/s582/a/1], added par. (2) and redesignated former pars. (2) and (3) as (3) and (4).
+
+    Subsec. (f). [Pub. L. 113–66, § 582(a)(2)][/us/pl/113/66/s582/a/2], substituted “paragraphs (3) and (4)” for “paragraphs (2) and (3)”.
 
     2001—Subsec. (b)(2). [Pub. L. 107–107][/us/pl/107/107] designated existing provisions as subpar. (A), inserted “of all missing persons from the conflict or period of war to which the classified information pertains” before period at end, and added subpar. (B).
 
@@ -79,6 +85,7 @@
 ----------
 
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
+[/us/usc/t10/s1501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1501%2Fc
 [/us/pl/104/106/s569/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs569%2Fb%2F1
 [/us/stat/110/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F346
 [/us/pl/104/201/s578/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs578%2Fd
@@ -89,6 +96,10 @@
 [/us/stat/113/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F624
 [/us/pl/107/107/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs573
 [/us/stat/115/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1122
+[/us/pl/113/66/s582/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs582%2Fa
+[/us/stat/127/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F776
+[/us/pl/113/66/s582/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs582%2Fa%2F1
+[/us/pl/113/66/s582/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs582%2Fa%2F2
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/105/85/s599/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs599%2Ff

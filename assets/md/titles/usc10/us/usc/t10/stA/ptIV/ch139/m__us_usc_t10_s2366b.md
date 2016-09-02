@@ -31,7 +31,7 @@
 
             (D) funding is available to execute the product development and production plan under the program, through the period covered by the future-years defense program submitted during the fiscal year in which the certification is made, consistent with the estimates described in subparagraph (C) for the program;
 
-        (2) has received a preliminary design review and conducted a formal post-preliminary design review assessment, and certifies on the basis of such assessment that the program demonstrates a high likelihood of accomplishing its intended mission; and
+        (2) has received a preliminary design review and conducted a formal post-preliminary design review assessment, and certifies on the basis of such assessment that the program demonstrates a high likelihood of accomplishing its intended mission;
 
         (3)
 
@@ -47,9 +47,13 @@
 
             (E) life-cycle sustainment planning, including corrosion prevention and mitigation planning, has identified and evaluated relevant sustainment costs throughout development, production, operation, sustainment, and disposal of the program, and any alternatives, and that such costs are reasonable and have been accurately estimated;
 
-            (F) an estimate has been made of the requirements for core logistics capabilities and the associated sustaining workloads required to support such requirements; and
+            (F) an estimate has been made of the requirements for core logistics capabilities and the associated sustaining workloads required to support such requirements;
 
-            (G) the program complies with all relevant policies, regulations, and directives of the Department of Defense.
+            (G) there is a plan to mitigate and account for any costs in connection with any anticipated de-certification of cryptographic systems and components during the production and procurement of the major defense acquisition program to be acquired; and
+
+            (H) the program complies with all relevant policies, regulations, and directives of the Department of Defense; and
+
+        (4) in the case of a space system, performs a cost benefit analysis for any new or follow-on satellite system using a dedicated ground control system instead of a shared ground control system, except that no cost benefit analysis is required to be performed under this paragraph for any Milestone B approval of a space system after December 31, 2019.
 
     (b)  __Changes to Certification__  __.—__ 
 
@@ -117,7 +121,7 @@
 
         (5) The term “core logistics capabilities” means the core logistics capabilities identified under [section 2464(a) of this title][/us/usc/t10/s2464/a].
 
-(Added [Pub. L. 109–163, div. A, title VIII, § 801(a)][/us/pl/109/163/s801/a], Jan. 6, 2006, [119 Stat. 3366][/us/stat/119/3366], § 2366a; amended [Pub. L. 109–364, div. A, title VIII, § 805][/us/pl/109/364/s805], Oct. 17, 2006, [120 Stat. 2314][/us/stat/120/2314]; [Pub. L. 110–181, div. A, title VIII, § 812][/us/pl/110/181/s812], Jan. 28, 2008, [122 Stat. 219][/us/stat/122/219]; renumbered § 2366b, [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 813(a), (b), Oct. 14, 2008, [122 Stat. 4527][/us/stat/122/4527]; [Pub. L. 111–23, title I, § 101(d)(4)][/us/pl/111/23/s101/d/4], title II, §§ 201(f), 205(a), May 22, 2009, [123 Stat. 1710][/us/stat/123/1710], 1720, 1724; [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383], §§ 813(d)(1), 814(c), title IX, § 901(j)(4), title X, § 1075(k)(1), Jan. 7, 2011, [124 Stat. 4265][/us/stat/124/4265], 4266, 4324, 4378; [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81], §§ 801(b), (e)(2), 819(b), Dec. 31, 2011, [125 Stat. 1483][/us/stat/125/1483], 1484, 1501; [Pub. L. 112–239, div. A, title III, § 322(e)(2)][/us/pl/112/239/s322/e/2], title IX, § 904(e)(2), Jan. 2, 2013, [126 Stat. 1695][/us/stat/126/1695], 1867.)
+(Added [Pub. L. 109–163, div. A, title VIII, § 801(a)][/us/pl/109/163/s801/a], Jan. 6, 2006, [119 Stat. 3366][/us/stat/119/3366], § 2366a; amended [Pub. L. 109–364, div. A, title VIII, § 805][/us/pl/109/364/s805], Oct. 17, 2006, [120 Stat. 2314][/us/stat/120/2314]; [Pub. L. 110–181, div. A, title VIII, § 812][/us/pl/110/181/s812], Jan. 28, 2008, [122 Stat. 219][/us/stat/122/219]; renumbered § 2366b, [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 813(a), (b), Oct. 14, 2008, [122 Stat. 4527][/us/stat/122/4527]; [Pub. L. 111–23, title I, § 101(d)(4)][/us/pl/111/23/s101/d/4], title II, §§ 201(f), 205(a), May 22, 2009, [123 Stat. 1710][/us/stat/123/1710], 1720, 1724; [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383], §§ 813(d)(1), 814(c), title IX, § 901(j)(4), title X, § 1075(k)(1), Jan. 7, 2011, [124 Stat. 4265][/us/stat/124/4265], 4266, 4324, 4378; [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81], §§ 801(b), (e)(2), 819(b), Dec. 31, 2011, [125 Stat. 1483][/us/stat/125/1483], 1484, 1501; [Pub. L. 112–239, div. A, title III, § 322(e)(2)][/us/pl/112/239/s322/e/2], title IX, § 904(e)(2), Jan. 2, 2013, [126 Stat. 1695][/us/stat/126/1695], 1867; [Pub. L. 113–66, div. A, title VIII][/us/pl/113/66], §§ 821(a), 822(a), title X, § 1091(b)(1), Dec. 26, 2013, [127 Stat. 809][/us/stat/127/809], 876.)
 
  __Prior Provisions__ 
 
@@ -127,7 +131,11 @@
 
     2013—Subsec. (a)(3)(D). [Pub. L. 112–239, § 904(e)(2)][/us/pl/112/239/s904/e/2], substituted “the Assistant Secretary of Defense for Research and Engineering, in consultation with the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation” for “the Assistant Secretary of Defense for Research and Engineering”.
 
-    Subsec. (a)(3)(F). [Pub. L. 112–239, § 322(e)(2)][/us/pl/112/239/s322/e/2], which directed amendment of subsec. (A)(3)(F) of this section by substituting “core logistics capabilities” for “core depot-level maintenance and repair capabilities, as well as the associated logistics capabilities”, was executed by making the substitution in subsec. (a)(3)(F) of this section to reflect the probable intent of Congress.
+    Subsec. (a)(3)(F). [Pub. L. 112–239, § 322(e)(2)][/us/pl/112/239/s322/e/2], as amended by [Pub. L. 113–66, § 1091(b)(1)][/us/pl/113/66/s1091/b/1], substituted “core logistics capabilities” for “core depot-level maintenance and repair capabilities, as well as the associated logistics capabilities”.
+
+    Subsec. (a)(3)(G), (H). [Pub. L. 113–66, § 821(a)][/us/pl/113/66/s821/a], added subpar. (G) and redesignated former subpar. (G) as (H).
+
+    Subsec. (a)(4). [Pub. L. 113–66, § 822(a)][/us/pl/113/66/s822/a], added par. (4).
 
     2011—[Pub. L. 112–81, § 801(e)(2)(A)][/us/pl/112/81/s801/e/2/A], struck out “or Key Decision Point B” after “Milestone B” in section catchline.
 
@@ -205,6 +213,12 @@
 
  __Effective Date of 2013 Amendment__ 
 
+[Pub. L. 113–66, div. A, title VIII, § 821(b)][/us/pl/113/66/s821/b], Dec. 26, 2013, [127 Stat. 809][/us/stat/127/809], provided that: 
+
+> “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 26, 2013\], and shall apply with respect to major defense acquisition programs which are subject to Milestone B approval on or after the date occurring six months after the date of the enactment of this Act.”
+
+    [Pub. L. 113–66, div. A, title X, § 1091(b)][/us/pl/113/66/s1091/b], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876], provided in part that the amendment made by section 1091(b)(1) is effective as of Jan. 2, 2013, and as if included in [Pub. L. 112–239][/us/pl/112/239] as enacted.
+
     Amendment by [section 322(e)(2) of Pub. L. 112–239][/us/pl/112/239/s322/e/2] effective Dec. 31, 2011, immediately after enactment of [Pub. L. 112–81][/us/pl/112/81], see [section 322(f) of Pub. L. 112–239][/us/pl/112/239/s322/f], set out as an note under [section 2366a of this title][/us/usc/t10/s2366a].
 
  __Effective Date of 2011 Amendment__ 
@@ -266,9 +280,14 @@
 [/us/stat/125/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1483
 [/us/pl/112/239/s322/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs322%2Fe%2F2
 [/us/stat/126/1695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1695
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/stat/127/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F809
 [/us/usc/t10/s2366a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2366a
 [/us/pl/112/239/s904/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs904%2Fe%2F2
 [/us/pl/112/239/s322/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs322%2Fe%2F2
+[/us/pl/113/66/s1091/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb%2F1
+[/us/pl/113/66/s821/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs821%2Fa
+[/us/pl/113/66/s822/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs822%2Fa
 [/us/pl/112/81/s801/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs801%2Fe%2F2%2FA
 [/us/pl/112/81/s801/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs801%2Fe%2F2%2FB
 [/us/pl/111/383/s901/j/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fj%2F4
@@ -309,6 +328,11 @@
 [/us/pl/109/364/s805/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs805%2Fa%2F4
 [/us/pl/109/364/s805/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs805%2Fa%2F1
 [/us/pl/109/364/s805/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs805%2Fb
+[/us/pl/113/66/s821/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs821%2Fb
+[/us/stat/127/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F809
+[/us/pl/113/66/s1091/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb
+[/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/239/s322/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs322%2Fe%2F2
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/112/239/s322/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs322%2Ff

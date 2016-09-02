@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_stA_ptI_ch7.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_s172.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs171)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_stA_ptI_ch7.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_s171a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs171)
 
 ## § 171. Armed Forces Policy Council
 
@@ -129,7 +129,7 @@ July 26, 1947, ch. 343, § 210; restated Aug. 10, 1949, ch. 412, § 7(a), 63
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_stA_ptI_ch7.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_s172.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs171)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_stA_ptI_ch7.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_s171a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs171)
 
 ----------
 ----------

@@ -261,7 +261,7 @@
 
  __Prohibition on Disposing of Waste in Open-Air Burn Pits__ 
 
-[Pub. L. 111–84, div. A, title III, § 317][/us/pl/111/84/s317], Oct. 28, 2009, [123 Stat. 2249][/us/stat/123/2249], as amended by [Pub. L. 112–81, div. A, title III, § 316][/us/pl/112/81/s316], Dec. 31, 2011, [125 Stat. 1358][/us/stat/125/1358], provided that:
+[Pub. L. 111–84, div. A, title III, § 317][/us/pl/111/84/s317], Oct. 28, 2009, [123 Stat. 2249][/us/stat/123/2249], as amended by [Pub. L. 112–81, div. A, title III, § 316][/us/pl/112/81/s316], Dec. 31, 2011, [125 Stat. 1358][/us/stat/125/1358]; [Pub. L. 113–66, div. A, title III, § 314][/us/pl/113/66/s314], Dec. 26, 2013, [127 Stat. 729][/us/stat/127/729], provided that:
 
 >     “(a) __Regulations.—__ 
 
@@ -317,9 +317,39 @@
 
 >             “(A) hazardous waste, as defined by section 1004(5) of the Solid Waste Disposal Act ([42 U.S.C. 6903(5)][/us/usc/t42/s6903/5]);
 
->             “(B) medical waste; and
+>             “(B) medical waste;
 
->             “(C) other waste as designated by the Secretary.”
+>             “(C) tires;
+
+>             “(D) treated wood;
+
+>             “(E) batteries;
+
+>             “(F) plastics, except insignificant amounts of plastic remaining after a good-faith effort to remove or recover plastic materials from the solid waste stream;
+
+>             “(G) munitions and explosives, except when disposed of in compliance with guidance on the destruction of munitions and explosives contained in the Department of Defense Ammunition and Explosives Safety Standards, DoD Manual 6055.09-M;
+
+>             “(H) compressed gas cylinders, unless empty with valves removed;
+
+>             “(I) fuel containers, unless completely evacuated of its contents;
+
+>             “(J) aerosol cans;
+
+>             “(K) polychlorinated biphenyls;
+
+>             “(L) petroleum, oils, and lubricants products (other than waste fuel for initial combustion);
+
+>             “(M) asbestos;
+
+>             “(N) mercury;
+
+>             “(O) foam tent material;
+
+>             “(P) any item containing any of the materials referred to in a preceding paragraph; and
+
+>             “(Q) other waste as designated by the Secretary.”
+
+    \[[Pub. L. 113–66, div. A, title III, § 314][/us/pl/113/66/s314], Dec. 26, 2013, [127 Stat. 729][/us/stat/127/729], which directed amendment of [section 317(c)(2) of Pub. L. 111–84][/us/pl/111/84/s317/c/2], set out above, was executed to [section 317(d)(2) of Pub. L. 111–84][/us/pl/111/84/s317/d/2], to reflect the probable intent of Congress.\]
 
  __Purpose of__  __[__  __Pub. L. 109–284__  __][/us/pl/109/284]__ 
 
@@ -1256,8 +1286,14 @@
 [/us/stat/123/2249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2249
 [/us/pl/112/81/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs316
 [/us/stat/125/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1358
+[/us/pl/113/66/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs314
+[/us/stat/127/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F729
 [/us/usc/t10/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13
 [/us/usc/t42/s6903/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903%2F5
+[/us/pl/113/66/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs314
+[/us/stat/127/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F729
+[/us/pl/111/84/s317/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs317%2Fc%2F2
+[/us/pl/111/84/s317/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs317%2Fd%2F2
 [/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/pl/109/284/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs1
 [/us/stat/120/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1211

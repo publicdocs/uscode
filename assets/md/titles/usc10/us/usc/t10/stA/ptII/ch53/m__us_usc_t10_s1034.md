@@ -25,9 +25,9 @@
 
         (1)
 
-         No person may take (or threaten to take) an unfavorable personnel action, or withhold (or threaten to withhold) a favorable personnel action, as a reprisal against a member of the armed forces for making or preparing—
+         No person may take (or threaten to take) an unfavorable personnel action, or withhold (or threaten to withhold) a favorable personnel action, as a reprisal against a member of the armed forces for making or preparing or being perceived as making or preparing—
 
-            (A) a communication to a Member of Congress or an Inspector General that (under subsection (a)) may not be restricted; or
+            (A) a communication to a Member of Congress or an Inspector General that (under subsection (a)) may not be restricted;
 
             (B)
 
@@ -39,27 +39,47 @@
 
                 (iii) a member of a Department of Defense audit, inspection, investigation, or law enforcement organization;
 
-                (iv) any person or organization in the chain of command; or
+                (iv) any person or organization in the chain of command;
 
-                (v) any other person or organization designated pursuant to regulations or other established administrative procedures for such communications.
+                (v) a court-martial proceeding; or
 
-        (2) Any action prohibited by paragraph (1) (including the threat to take any unfavorable action and the withholding or threat to withhold any favorable action) shall be considered for the purposes of this section to be a personnel action prohibited by this subsection.
+                (vi) any other person or organization designated pursuant to regulations or other established administrative procedures for such communications; or
+
+            (C) testimony, or otherwise participating in or assisting in an investigation or proceeding related to a communication under subparagraph (A) or (B), or filing, causing to be filed, participating in, or otherwise assisting in an action brought under this section.
+
+        (2) Any action prohibited by paragraph (1) (including the threat to take any unfavorable action, the withholding or threat to withhold any favorable action, or making or threatening to make a significant change in the duties or responsibilities of a member of the armed forces not commensurate with the member’s grade) shall be considered for the purposes of this section to be a personnel action prohibited by this subsection.
 
     (c)  __Inspector General Investigation of Allegations of Prohibited Personnel Actions__  __.—__ 
 
-        (1) If a member of the armed forces submits to an Inspector General an allegation that a personnel action prohibited by subsection (b) has been taken (or threatened) against the member with respect to a communication described in paragraph (2), the Inspector General shall take the action required under paragraph (3).
+        (1) If a member of the armed forces submits to an Inspector General an allegation that a personnel action prohibited by subsection (b) has been taken (or threatened) against the member with respect to a communication described in paragraph (2), the Inspector General shall take the action required under paragraph (4).
 
         (2)
 
          A communication described in this paragraph is a communication in which a member of the armed forces complains of, or discloses information that the member reasonably believes constitutes evidence of, any of the following:
 
-            (A) A violation of law or regulation, including a law or regulation prohibiting sexual harassment or unlawful discrimination.
+            (A) A violation of law or regulation, including a law or regulation prohibiting rape, sexual assault, or other sexual misconduct in violation of sections 920 through 920c of this title (articles 120 through 120c of the Uniform Code of Military Justice), sexual harassment, or unlawful discrimination.
 
             (B) Gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.
 
             (C) A threat by another member of the armed forces or employee of the Federal Government that indicates a determination or intent to kill or cause serious bodily injury to members of the armed forces or civilians or damage to military, Federal, or civilian property.
 
         (3)
+
+         A communication described in paragraph (2) shall not be excluded from the protections provided in this section because—
+
+            (A) the communication was made to a person who participated in an activity that the member reasonably believed to be covered by paragraph (2);
+
+            (B) the communication revealed information that had previously been disclosed;
+
+            (C) of the member’s motive for making the communication;
+
+            (D) the communication was not made in writing;
+
+            (E) the communication was made while the member was off duty; and
+
+            (F) the communication was made during the normal course of duties of the member.
+
+        (4)
 
             (A) An Inspector General receiving an allegation as described in paragraph (1) shall expeditiously determine, in accordance with regulations prescribed under subsection (h), whether there is sufficient evidence to warrant an investigation of the allegation.
 
@@ -71,23 +91,29 @@
 
             (E) In the case of an investigation under subparagraph (D) within the Department of Defense, the results of the investigation shall be determined by, or approved by, the Inspector General of the Department of Defense (regardless of whether the investigation itself is conducted by the Inspector General of the Department of Defense or by an Inspector General within a military department).
 
-        (4) Neither an initial determination under paragraph (3)(A) nor an investigation under paragraph (3)(D) is required in the case of an allegation made more than 60 days after the date on which the member becomes aware of the personnel action that is the subject of the allegation.
+        (5) Neither an initial determination under paragraph (4)(A) nor an investigation under paragraph (4)(D) is required in the case of an allegation made more than one year after the date on which the member becomes aware of the personnel action that is the subject of the allegation.
 
-        (5) The Inspector General of the Department of Defense, or the Inspector General of the Department of Homeland Security (in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy), shall ensure that the Inspector General conducting the investigation of an allegation under this subsection is outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.
+        (6)
+
+         The Inspector General of the Department of Defense, or the Inspector General of the Department of Homeland Security (in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy), shall ensure that the Inspector General conducting the investigation of an allegation under this subsection is one or both of the following:
+
+            (A) Outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.
+
+            (B) At least one organization higher in the chain of command than the organization of the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.
 
     (d)  __Inspector General Investigation of Underlying Allegations__  __.—__ 
 
-    Upon receiving an allegation under subsection (c), the Inspector General receiving the allegation shall conduct a separate investigation of the information that the member making the allegation believes constitutes evidence of wrongdoing (as described in subparagraph (A) or (B) of subsection (c)(2)) if there previously has not been such an investigation or if the Inspector General determines that the original investigation was biased or otherwise inadequate. In the case of an allegation received by the Inspector General of the Department of Defense, the Inspector General may delegate that responsibility to the Inspector General of the armed force concerned.
+    Upon receiving an allegation under subsection (c), the Inspector General receiving the allegation shall conduct a separate investigation of the information that the member making the allegation believes constitutes evidence of wrongdoing (as described in subparagraph (A), (B), or (C) of subsection (c)(2)) if there previously has not been such an investigation or if the Inspector General determines that the original investigation was biased or otherwise inadequate. In the case of an allegation received by the Inspector General of the Department of Defense, the Inspector General may delegate that responsibility to the Inspector General of the armed force concerned.
 
     (e)  __Reports on Investigations__  __.—__ 
 
-        (1) After completion of an investigation under subsection (c) or (d) or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(3)(E), the Inspector General conducting the investigation shall submit a report on the results of the investigation to the Secretary of Defense (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and shall transmit a copy of the report on the results of the investigation to the member of the armed forces who made the allegation investigated. The report shall be transmitted to the Secretary, and the copy of the report shall be transmitted to the member, not later than 30 days after the completion of the investigation or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(3)(E).
+        (1) After completion of an investigation under subsection (c) or (d) or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(4)(E), the Inspector General conducting the investigation shall submit a report on the results of the investigation to the Secretary of Defense and the Secretary of the military department concerned (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and shall transmit a copy of the report on the results of the investigation to the member of the armed forces who made the allegation investigated. The report shall be transmitted to such Secretaries, and the copy of the report shall be transmitted to the member, not later than 30 days after the completion of the investigation or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(4)(E).
 
         (2) In the copy of the report transmitted to the member, the Inspector General shall ensure the maximum disclosure of information possible, with the exception of information that is not required to be disclosed under [section 552 of title 5][/us/usc/t5/s552]. However, the copy need not include summaries of interviews conducted, nor any document acquired, during the course of the investigation. Such items shall be transmitted to the member, if the member requests the items, with the copy of the report or after the transmittal to the member of the copy of the report, regardless of whether the request for those items is made before or after the copy of the report is transmitted to the member.
 
         (3)
 
-         If, in the course of an investigation of an allegation under this section, the Inspector General determines that it is not possible to submit the report required by paragraph (1) within 180 days after the date of receipt of the allegation being investigated, the Inspector General shall provide to the Secretary of Defense (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and to the member making the allegation a notice—
+         If, in the course of an investigation of an allegation under this section, the Inspector General determines that it is not possible to submit the report required by paragraph (1) within 180 days after the date of receipt of the allegation being investigated, the Inspector General shall provide to the Secretary of Defense and the Secretary of the military department concerned (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and to the member making the allegation a notice—
 
             (A) of that determination (including the reasons why the report may not be submitted within that time); and
 
@@ -95,7 +121,27 @@
 
         (4) The report on the results of the investigation shall contain a thorough review of the facts and circumstances relevant to the allegation and the complaint or disclosure and shall include documents acquired during the course of the investigation, including summaries of interviews conducted. The report may include a recommendation as to the disposition of the complaint.
 
-    (f)  __Correction of Records When Prohibited Action Taken__  __.—__ 
+    (f)  __Action in Case of Violations__  __.—__ 
+
+        (1) Not later than 30 days after receiving a report from the Inspector General under subsection (e), the Secretary of Homeland Security or the Secretary of the military department concerned, as applicable, shall determine whether there is sufficient basis to conclude whether a personnel action prohibited by subsection (b) has occurred.
+
+        (2)
+
+         If the Secretary concerned determines under paragraph (1) that a personnel action prohibited by subsection (b) has occurred, the Secretary shall—
+
+            (A) order such action as is necessary to correct the record of a personnel action prohibited by subsection (b); and
+
+            (B) take any appropriate disciplinary action against the individual who committed such prohibited personnel action.
+
+        (3)
+
+         If the Secretary concerned determines under paragraph (1) that an order for corrective or disciplinary action is not appropriate, not later than 30 days after making the determination, such Secretary shall—
+
+            (A) provide to the Secretary of Defense and the member or former member a notice of the determination and the reasons for not taking action; and
+
+            (B) when appropriate, refer the report to the appropriate board for the correction of military records for further review under subsection (g).
+
+    (g)  __Correction of Records When Prohibited Action Taken__  __.—__ 
 
         (1) A board for the correction of military records acting under [section 1552 of this title][/us/usc/t10/s1552], in resolving an application for the correction of records made by a member or former member of the armed forces who has alleged a personnel action prohibited by subsection (b), on the request of the member or former member or otherwise, may review the matter.
 
@@ -111,7 +157,7 @@
 
         (3)
 
-         If the board elects to hold an administrative hearing, the member or former member who filed the application described in paragraph (1)—
+         If the board holds an administrative hearing, the member or former member who filed the application described in paragraph (1)—
 
             (A)
 
@@ -119,7 +165,7 @@
 
                 (i) the Inspector General, in the report under subsection (e)(1), finds that there is probable cause to believe that a personnel action prohibited by subsection (b) has been taken (or threatened) against the member with respect to a communication described in subsection (c)(2);
 
-                (ii) the Judge Advocate General concerned determines that the case is unusually complex or otherwise requires judge advocate assistance to ensure proper presentation of the legal issues in the case; and
+                (ii) the Judge Advocate General concerned determines that the member or former member would benefit from judge advocate assistance to ensure proper presentation of the legal issues in the case; and
 
                 (iii) the member is not represented by outside counsel chosen by the member; and
 
@@ -131,15 +177,15 @@
 
         (6) If the Board determines that a personnel action prohibited by subsection (b) has occurred, the Board may recommend to the Secretary concerned that the Secretary take appropriate disciplinary action against the individual who committed such personnel action.
 
-    (g)  __Review by Secretary of Defense__  __.—__ 
+    (h)  __Review by Secretary of Defense__  __.—__ 
 
     Upon the completion of all administrative review under subsection (f), the member or former member of the armed forces (except for a member or former member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) who made the allegation referred to in subsection (c)(1), if not satisfied with the disposition of the matter, may submit the matter to the Secretary of Defense. The Secretary shall make a decision to reverse or uphold the decision of the Secretary of the military department concerned in the matter within 90 days after receipt of such a submittal.
 
-    (h)  __Regulations__  __.—__ 
+    (i)  __Regulations__  __.—__ 
 
     The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations to carry out this section.
 
-    (i)  __Definitions__  __.—__ 
+    (j)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -157,7 +203,7 @@
 
         (3) The term “unlawful discrimination” means discrimination on the basis of race, color, religion, sex, or national origin.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 80][/us/stat/70A/80]; [Pub. L. 98–525, title XIV, § 1405(19)(A)][/us/pl/98/525/s1405/19/A], (B)(i), Oct. 19, 1984, [98 Stat. 2622][/us/stat/98/2622]; [Pub. L. 100–456, div. A, title VIII, § 846(a)(1)][/us/pl/100/456/s846/a/1], Sept. 29, 1988, [102 Stat. 2027][/us/stat/102/2027]; [Pub. L. 101–225, title II, § 202][/us/pl/101/225/s202], Dec. 12, 1989, [103 Stat. 1910][/us/stat/103/1910]; [Pub. L. 103–337, div. A, title V, § 531(a)][/us/pl/103/337/s531/a]–(g)(1), Oct. 5, 1994, [108 Stat. 2756–2758][/us/stat/108/2756-2758]; [Pub. L. 105–261, div. A, title IX, § 933][/us/pl/105/261/s933], Oct. 17, 1998, [112 Stat. 2107][/us/stat/112/2107]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 903\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–224; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–375, div. A, title V, § 591(a)][/us/pl/108/375/s591/a], Oct. 28, 2004, [118 Stat. 1933][/us/stat/118/1933]; [Pub. L. 110–181, div. A, title X, § 1063(a)(8)][/us/pl/110/181/s1063/a/8], Jan. 28, 2008, [122 Stat. 322][/us/stat/122/322]; [Pub. L. 112–81, div. A, title V, § 523][/us/pl/112/81/s523], Dec. 31, 2011, [125 Stat. 1401][/us/stat/125/1401].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 80][/us/stat/70A/80]; [Pub. L. 98–525, title XIV, § 1405(19)(A)][/us/pl/98/525/s1405/19/A], (B)(i), Oct. 19, 1984, [98 Stat. 2622][/us/stat/98/2622]; [Pub. L. 100–456, div. A, title VIII, § 846(a)(1)][/us/pl/100/456/s846/a/1], Sept. 29, 1988, [102 Stat. 2027][/us/stat/102/2027]; [Pub. L. 101–225, title II, § 202][/us/pl/101/225/s202], Dec. 12, 1989, [103 Stat. 1910][/us/stat/103/1910]; [Pub. L. 103–337, div. A, title V, § 531(a)][/us/pl/103/337/s531/a]–(g)(1), Oct. 5, 1994, [108 Stat. 2756–2758][/us/stat/108/2756-2758]; [Pub. L. 105–261, div. A, title IX, § 933][/us/pl/105/261/s933], Oct. 17, 1998, [112 Stat. 2107][/us/stat/112/2107]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 903\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–224; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–375, div. A, title V, § 591(a)][/us/pl/108/375/s591/a], Oct. 28, 2004, [118 Stat. 1933][/us/stat/118/1933]; [Pub. L. 110–181, div. A, title X, § 1063(a)(8)][/us/pl/110/181/s1063/a/8], Jan. 28, 2008, [122 Stat. 322][/us/stat/122/322]; [Pub. L. 112–81, div. A, title V, § 523][/us/pl/112/81/s523], Dec. 31, 2011, [125 Stat. 1401][/us/stat/125/1401]; [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66], §§ 1714, 1715, Dec. 26, 2013, [127 Stat. 964–966][/us/stat/127/964-966].)
 
 <table>
 
@@ -210,6 +256,34 @@ June 24, 1948, ch. 625, § 4(a) (last par.); restated June 19, 1951, ch. 144, 
     The Inspector General Act of 1978, referred to in subsec. (b)(1)(B)(ii), is [Pub. L. 95–452][/us/pl/95/452], Oct. 12, 1978, [92 Stat. 1101][/us/stat/92/1101], as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
  __Amendments__ 
+
+    2013—Subsec. (b)(1). [Pub. L. 113–66, § 1714(a)(1)(A)][/us/pl/113/66/s1714/a/1/A], substituted “preparing or being perceived as making or preparing—” for “preparing—” in introductory provisions.
+
+    Subsec. (b)(1)(A). [Pub. L. 113–66, § 1714(a)(1)(B)][/us/pl/113/66/s1714/a/1/B], struck out “or” at end.
+
+    Subsec. (b)(1)(B). [Pub. L. 113–66, § 1714(a)(1)(C)][/us/pl/113/66/s1714/a/1/C], added cl. (v) and redesignated former cl. (v) as (vi).
+
+    Subsec. (b)(1)(C). [Pub. L. 113–66, § 1714(a)(1)(D)][/us/pl/113/66/s1714/a/1/D], added subpar. (C).
+
+    Subsec. (b)(2). [Pub. L. 113–66, § 1714(a)(2)][/us/pl/113/66/s1714/a/2], substituted a comma for “and” after “unfavorable action” and inserted “, or making or threatening to make a significant change in the duties or responsibilities of a member of the armed forces not commensurate with the member’s grade” after “favorable action”.
+
+    Subsec. (c)(1). [Pub. L. 113–66, § 1714(b)(1)][/us/pl/113/66/s1714/b/1], substituted “paragraph (4)” for “paragraph (3)”.
+
+    Subsec. (c)(2)(A). [Pub. L. 113–66, § 1715][/us/pl/113/66/s1715], substituted “rape, sexual assault, or other sexual misconduct in violation of sections 920 through 920c of this title (articles 120 through 120c of the Uniform Code of Military Justice), sexual harassment, or” for “sexual harassment or”.
+
+    Subsec. (c)(3)–(6). [Pub. L. 113–66, § 1714(b)(2)][/us/pl/113/66/s1714/b/2]–(5), added par. (3), redesignated former pars. (3) to (5) as (4) to (6), respectively, in par. (5), substituted “paragraph (4)(A)” for “paragraph (3)(A)”, “paragraph (4)(D)” for “paragraph (3)(D)”, and “one year” for “60 days”, and in par. (6), substituted “one or both of the following:” and subpars. (A) and (B) for “outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.”
+
+    Subsec. (d). [Pub. L. 113–66, § 1714(c)][/us/pl/113/66/s1714/c], substituted “subparagraph (A), (B), or (C) of subsection (c)(2)” for “subparagraph (A) or (B) of subsection (c)(2)”.
+
+    Subsec. (e)(1). [Pub. L. 113–66, § 1714(d)(1)][/us/pl/113/66/s1714/d/1], substituted “subsection (c)(4)(E)” for “subsection (c)(3)(E)” in two places and “transmitted to such Secretaries” for “transmitted to the Secretary” and inserted “and the Secretary of the military department concerned” after “the Secretary of Defense”.
+
+    Subsec. (e)(3). [Pub. L. 113–66, § 1714(d)(2)][/us/pl/113/66/s1714/d/2], inserted “and the Secretary of the military department concerned” after “the Secretary of Defense” in introductory provisions.
+
+    Subsec. (f). [Pub. L. 113–66, § 1714(e)][/us/pl/113/66/s1714/e], added subsec. (f) and redesignated former subsec. (f) as (g).
+
+    Subsec. (g). [Pub. L. 113–66, § 1714(e)(1)][/us/pl/113/66/s1714/e/1], (f), redesignated subsec. (f) as (g), and in par. (3), substituted “board holds” for “board elects to hold” in introductory provisions and “the member or former member would benefit from” for “the case is unusually complex or otherwise requires” in subpar. (A)(ii). Former subsec. (g) redesignated (h).
+
+    Subsecs. (h) to (j). [Pub. L. 113–66, § 1714(e)(1)][/us/pl/113/66/s1714/e/1], redesignated subsecs. (g) to (i) as (h) to (j), respectively.
 
     2011—Subsec. (c)(2)(C). [Pub. L. 112–81][/us/pl/112/81] added subpar. (C).
 
@@ -423,8 +497,24 @@ June 24, 1948, ch. 625, § 4(a) (last par.); restated June 19, 1951, ch. 144, 
 [/us/stat/122/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F322
 [/us/pl/112/81/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs523
 [/us/stat/125/1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1401
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/stat/127/964-966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F964-966
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
+[/us/pl/113/66/s1714/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1714%2Fa%2F1%2FA
+[/us/pl/113/66/s1714/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1714%2Fa%2F1%2FB
+[/us/pl/113/66/s1714/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1714%2Fa%2F1%2FC
+[/us/pl/113/66/s1714/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1714%2Fa%2F1%2FD
+[/us/pl/113/66/s1714/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1714%2Fa%2F2
+[/us/pl/113/66/s1714/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1714%2Fb%2F1
+[/us/pl/113/66/s1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1715
+[/us/pl/113/66/s1714/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1714%2Fb%2F2
+[/us/pl/113/66/s1714/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1714%2Fc
+[/us/pl/113/66/s1714/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1714%2Fd%2F1
+[/us/pl/113/66/s1714/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1714%2Fd%2F2
+[/us/pl/113/66/s1714/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1714%2Fe
+[/us/pl/113/66/s1714/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1714%2Fe%2F1
+[/us/pl/113/66/s1714/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1714%2Fe%2F1
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375

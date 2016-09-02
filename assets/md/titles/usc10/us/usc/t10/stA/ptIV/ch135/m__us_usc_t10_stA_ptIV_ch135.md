@@ -87,9 +87,27 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2278" data-uslm-ref="/us/usc/t10/s2278">2278.</a>  </td>
+
+    <td> Notification of foreign interference of national security space.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2279" data-uslm-ref="/us/usc/t10/s2279">2279.</a>  </td>
+
+    <td> Foreign commercial satellite services.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    2013—[Pub. L. 113–66, div. A, title IX, § 911(b)][/us/pl/113/66/s911/b], title XVI, § 1602(a)(2), Dec. 26, 2013, [127 Stat. 823][/us/stat/127/823], 942, added items 2278 and 2279.
 
     2013—[Pub. L. 112–239, div. A, title IX][/us/pl/112/239], §§ 911(b), 912(b), 913(c)(2), Jan. 2, 2013, [126 Stat. 1872][/us/stat/126/1872], 1874, 1876, added items 2275 to 2277.
 
@@ -108,6 +126,8 @@
 ----------
 ----------
 
+[/us/pl/113/66/s911/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs911%2Fb
+[/us/stat/127/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F823
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/stat/126/1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1872
 [/us/pl/111/84/s912/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs912%2Fb

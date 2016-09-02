@@ -31,7 +31,7 @@
 
             (C) enters into a service agreement with the Secretary of Defense as described in subsection (c).
 
-        (2) The amount of the financial assistance provided under a scholarship or fellowship awarded to a person under this subsection shall be the amount determined by the Secretary of Defense as being necessary to pay all educational expenses incurred by that person, including tuition, fees, cost of books, laboratory expenses, equipment expenses, and expenses of room and board.
+        (2) The amount of the financial assistance provided under a scholarship or fellowship awarded to a person under this subsection shall be an amount determined by the Secretary of Defense.
 
         (3) Financial assistance provided under a scholarship or fellowship awarded under this section may be paid directly to the recipient of such scholarship or fellowship or to an administering entity for disbursement of the funds.
 
@@ -93,13 +93,15 @@
 
     In this section, the term “institution of higher education” has the meaning given such term in section 101 of the Higher Education Act of 1965 ([20 U.S.C. 1001][/us/usc/t20/s1001]).
 
-(Added [Pub. L. 109–163, div. A, title XI, § 1104(d)(1)][/us/pl/109/163/s1104/d/1], Jan. 6, 2006, [119 Stat. 3449][/us/stat/119/3449]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(a)(5), Oct. 14, 2008, [122 Stat. 4612][/us/stat/122/4612]; [Pub. L. 111–84, div. A, title XI, § 1102(a)][/us/pl/111/84/s1102/a]–(d)(1), Oct. 28, 2009, [123 Stat. 2484][/us/stat/123/2484], 2485.)
+(Added [Pub. L. 109–163, div. A, title XI, § 1104(d)(1)][/us/pl/109/163/s1104/d/1], Jan. 6, 2006, [119 Stat. 3449][/us/stat/119/3449]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(a)(5), Oct. 14, 2008, [122 Stat. 4612][/us/stat/122/4612]; [Pub. L. 111–84, div. A, title XI, § 1102(a)][/us/pl/111/84/s1102/a]–(d)(1), Oct. 28, 2009, [123 Stat. 2484][/us/stat/123/2484], 2485; [Pub. L. 113–66, div. A, title XI, § 1105(a)(1)][/us/pl/113/66/s1105/a/1], Dec. 26, 2013, [127 Stat. 886][/us/stat/127/886].)
 
  __Codification__ 
 
     Section, as added by [Pub. L. 109–163][/us/pl/109/163], consists of text of [Pub. L. 108–375, div. A, title XI, § 1105][/us/pl/108/375/s1105], Oct. 28, 2004, [118 Stat. 2074][/us/stat/118/2074]; [Pub. L. 109–163, div. A, title X, § 1056(d)][/us/pl/109/163/s1056/d], title XI, § 1104(a)–(c), Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440], 3448, 3449; [Pub. L. 111–383, div. A, title X, § 1075(h)(5)][/us/pl/111/383/s1075/h/5], Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377], which was formerly set out as a note under [section 2192 of this title][/us/usc/t10/s2192], and was repealed by [Pub. L. 109–163, div. A, title XI, § 1104(e)(1)][/us/pl/109/163/s1104/e/1], Jan. 6, 2006, [119 Stat. 3450][/us/stat/119/3450].
 
  __Amendments__ 
+
+    2013—Subsec. (b)(2). [Pub. L. 113–66][/us/pl/113/66] substituted “an amount determined by the Secretary of Defense” for “the amount determined by the Secretary of Defense as being necessary to pay all educational expenses incurred by that person, including tuition, fees, cost of books, laboratory expenses, equipment expenses, and expenses of room and board”.
 
     2009—Subsec. (c)(2). [Pub. L. 111–84, § 1102(b)][/us/pl/111/84/s1102/b], substituted “The” for “Except as provided in subsection (d), the” in second sentence.
 
@@ -133,6 +135,8 @@
 [/us/stat/122/4612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4612
 [/us/pl/111/84/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1102%2Fa
 [/us/stat/123/2484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2484
+[/us/pl/113/66/s1105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1105%2Fa%2F1
+[/us/stat/127/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F886
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/108/375/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1105
 [/us/stat/118/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2074
@@ -143,6 +147,7 @@
 [/us/usc/t10/s2192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2192
 [/us/pl/109/163/s1104/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1104%2Fe%2F1
 [/us/stat/119/3450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3450
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/84/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1102%2Fb
 [/us/pl/111/84/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1102%2Fa
 [/us/pl/111/84/s1102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1102%2Fc
