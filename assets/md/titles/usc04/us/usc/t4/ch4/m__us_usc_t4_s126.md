@@ -15,11 +15,11 @@
 
 ## § 126. No inference
 
-    (a) __Internet Tax Freedom Act.—__ 
+    (a)  __Internet Tax Freedom Act__  __.—__ 
 
     Nothing in sections 116 through this section of this title shall be construed as bearing on Congressional intent in enacting the Internet Tax Freedom Act or to modify or supersede the operation of such Act.
 
-    (b) __Telecommunications Act of 1996.—__ 
+    (b)  __Telecommunications Act of __  __1996.—__ 
 
     Nothing in sections 116 through this section of this title shall limit or otherwise affect the implementation of the Telecommunications Act of 1996 or the amendments made by such Act.
 

@@ -15,15 +15,15 @@
 
 ## § 123. Scope; special rules
 
-    (a) __Act Does Not Supersede Customer’s Liability to Taxing Jurisdiction.—__ 
+    (a)  __Act Does Not Supersede Customer’s Liability to Taxing Jurisdiction__  __.—__ 
 
     Nothing in sections 116 through 126 modifies, impairs, supersedes, or authorizes the modification, impairment, or supersession of, any law allowing a taxing jurisdiction to collect a tax, charge, or fee from a customer that has failed to provide its place of primary use.
 
-    (b) __Additional Taxable Charges.—__ 
+    (b)  __Additional Taxable Charges__  __.—__ 
 
     If a taxing jurisdiction does not otherwise subject charges for mobile telecommunications services to taxation and if these charges are aggregated with and not separately stated from charges that are subject to taxation, then the charges for nontaxable mobile telecommunications services may be subject to taxation unless the home service provider can reasonably identify charges not subject to such tax, charge, or fee from its books and records that are kept in the regular course of business.
 
-    (c) __Nontaxable Charges.—__ 
+    (c)  __Nontaxable Charges__  __.—__ 
 
     If a taxing jurisdiction does not subject charges for mobile telecommunications services to taxation, a customer may not rely upon the nontaxability of charges for mobile telecommunications services unless the customer’s home service provider separately states the charges for nontaxable mobile telecommunications services from taxable charges or the home service provider elects, after receiving a written request from the customer in the form required by the provider, to provide verifiable data based upon the home service provider’s books and records that are kept in the regular course of business that reasonably identifies the nontaxable charges.
 
