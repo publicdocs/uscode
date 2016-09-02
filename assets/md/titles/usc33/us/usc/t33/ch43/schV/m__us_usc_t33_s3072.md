@@ -21,7 +21,7 @@
 
         (1) Laws administered by the Secretary of Veterans Affairs.
 
-        (2) The Servicemembers Civil Relief Act \[50 U.S.C. App. 501 et seq.\].
+        (2) The Servicemembers Civil Relief Act \[[50 U.S.C. 3901][/us/usc/t50/s3901] et seq.\].
 
         (3) [Section 410 of title 42][/us/usc/t42/s410], as in effect before September 1, 1950.
 
@@ -33,7 +33,7 @@
 
  __References in Text__ 
 
-    The Servicemembers Civil Relief Act, referred to in subsec. (a)(2), is [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], [54 Stat. 1178][/us/stat/54/1178], as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see [section 501 of Title 50][/us/usc/t50/s501], Appendix, and Tables.
+    The Servicemembers Civil Relief Act, referred to in subsec. (a)(2), is [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], [54 Stat. 1178][/us/stat/54/1178], which is classified principally to chapter 50 (§ 3901 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
  __Prior Provisions__ 
 
@@ -50,6 +50,7 @@
 ----------
 ----------
 
+[/us/usc/t50/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3901
 [/us/usc/t42/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs410
 [/us/pl/107/372/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs262
 [/us/stat/116/3092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3092
@@ -57,7 +58,6 @@
 [/us/stat/117/2866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2866
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1178
-[/us/usc/t50/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs501
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372
 [/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 
