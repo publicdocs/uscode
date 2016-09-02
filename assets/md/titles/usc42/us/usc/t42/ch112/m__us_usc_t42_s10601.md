@@ -367,7 +367,9 @@
 
 > “Notwithstanding any other provision of law, amounts deposited or available in the Fund established by section 1402 of chapter XIV of title II of [Public Law 98–473][/us/pl/98/473] ([42 U.S.C. 10601][/us/usc/t42/s10601]) in any fiscal year in excess of $2,361,000,000 shall not be available for obligation until the following fiscal year.”
 
-Similar provisions were contained in the following prior appropriation acts:[Pub. L. 113–76, div. B, title V, § 510][/us/pl/113/76/s510], Jan. 17, 2014, [128 Stat. 79][/us/stat/128/79].
+Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–76, div. B, title V, § 510][/us/pl/113/76/s510], Jan. 17, 2014, [128 Stat. 79][/us/stat/128/79].
 
     [Pub. L. 113–6, div. B, title V, § 510][/us/pl/113/6/s510], Mar. 26, 2013, [127 Stat. 271][/us/stat/127/271].
 

@@ -15,7 +15,7 @@
 
 # Title 42—THE PUBLIC HEALTH AND WELFARE
 
-Current through 113–296not287
+Current through 113-296
 
 <table>
 
