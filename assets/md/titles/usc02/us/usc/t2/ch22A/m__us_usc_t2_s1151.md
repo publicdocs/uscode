@@ -221,7 +221,7 @@
 
 [Pub. L. 106–31, title III, § 3011][/us/pl/106/31/s3011], May 21, 1999, [113 Stat. 93][/us/stat/113/93], as amended by [Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 585\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–117; [Pub. L. 106–554, § 1(a)(2)][/us/pl/106/554/s1/a/2] \[title III, § 310\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–119, provided that:
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     It is the purpose of this section to establish, in accordance with the provisions of this section—
 
@@ -233,21 +233,21 @@
 
 >     “(b) __Grants.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The head of the administering agency shall annually award grants to government or community organizations in the United States that seek to establish programs under which those organizations will host eligible Russians for the purpose described in subsection (a).
 
->         “(2) __Duration.—__ 
+>         “(2)  __Duration__  __.—__ 
 
 >         The period of stay in the United States for any eligible Russian supported with grant funds under this section shall not exceed 30 days.
 
->         “(3) __Limitation.—__ 
+>         “(3)  __Limitation__  __.—__ 
 
 >         The number of eligible Russians supported with grant funds under this section shall not exceed 3,000 in any fiscal year.
 
 >         “(4) __Administration.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Subject to the availability of appropriations, the head of the administering agency—
 
@@ -255,11 +255,11 @@
 
 >                 “(ii) may, without regard to the civil service laws and regulations (or, in the case of the Librarian of Congress, any requirement for competition in hiring), appoint and terminate an executive director and such other additional personnel as may be necessary to enable the administering agency to perform its duties under this section.
 
->             “(B) __Waiver of competitive bidding.—__ 
+>             “(B)  __Waiver of competitive bidding__  __.—__ 
 
 >             The Librarian of Congress, after consultation with the Joint Committee on the Library of Congress, may enter into contracts under subparagraph (A)(i) to carry out the pilot program during fiscal years 2000 and 2001 without regard to section 3709 of the Revised Statutes \[see [41 U.S.C. 6101][/us/usc/t41/s6101]\] or any other requirement for competitive contracting or the providing of notice of contracting opportunities.
 
->     “(c) __Use of Funds.—__ 
+>     “(c)  __Use of Funds__  __.—__ 
 
 >     Grants awarded under subsection (b) shall be used to pay—
 
@@ -271,11 +271,11 @@
 
 >     “(d) __Application.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Each organization in the United States desiring a grant under this section shall submit an application to the head of the administering agency at such time, in such manner, and accompanied by such information as such head may reasonably require.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         Each application submitted pursuant to paragraph (1) shall—
 
@@ -287,17 +287,17 @@
 
 >             “(D) provide such additional assurances as the head of the administering agency determines to be essential to ensure compliance with the requirements of this section.
 
->         “(3) __Waiver.—__ 
+>         “(3)  __Waiver__  __.—__ 
 
 >         The Librarian of Congress may waive the requirement of this subsection in carrying out the pilot program during fiscal years 2000 and 2001.
 
 >     “(e) __Advisory Board.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There is established a Russian Leadership Program Advisory Board which shall advise the head of the administering agency as to the carrying out of the permanent program during fiscal years 2002 and thereafter.
 
->         “(2) __Membership.—__ 
+>         “(2)  __Membership__  __.—__ 
 
 >         The Advisory Board under paragraph (1) shall consist of—
 
@@ -311,11 +311,11 @@
 
 >             “(E) an officer or employee of the administering agency, designated by the head of the administering agency.
 
->         “(3) __Terms.—__ 
+>         “(3)  __Terms__  __.—__ 
 
 >         Each member appointed under paragraph (2) shall serve for a term of 3 years. Any vacancy shall be filled in the same manner as the original appointment and the individual so appointed shall serve for the remainder of the term.
 
->     “(f) __Reporting.—__ 
+>     “(f)  __Reporting__  __.—__ 
 
 >     The head of the administering agency shall, not later than 3 months following the close of each fiscal year for which such agency administered the program, report to Congress with respect to the conduct of such program during such fiscal year. Such report shall include information with respect to the number of participants in the program and the cost of the program, and any recommendations on improvements necessary to enable the program to carry out the purposes of this section.
 
@@ -323,29 +323,29 @@
 
 >         “(1) __Fiscal year 1999.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Of funds made available under the heading ‘SENATE’ under title I of the Legislative \[Branch\] Appropriations Act, 1999 ([Public Law 105–275][/us/pl/105/275]; [112 Stat. 2430][/us/stat/112/2430] et seq.) \[see Tables for classification\], $10,000,000 shall be made available, subject to the approval of the Committee on Appropriations of the Senate, to the administering agency to carry out the program.
 
->             “(B) __Use of funds at close of fiscal year.—__ 
+>             “(B)  __Use of funds at close of fiscal year__  __.—__ 
 
 >             Funds made available under this paragraph which are unexpended and unobligated as of the close of fiscal year 1999 shall no longer be available for such purpose and shall be available for the purpose originally appropriated.
 
 >         “(2) __Fiscal year 2000 and subsequent fiscal years.—__ 
 
->             “(A) __Authorization of appropriations.—__ 
+>             “(A)  __Authorization of appropriations__  __.—__ 
 
 >             There are authorized to be appropriated to the administering agency for fiscal years 2000 and thereafter such sums as may be necessary to carry out the program.
 
->             “(B) __Availability of funds.—__ 
+>             “(B)  __Availability of funds__  __.—__ 
 
 >             Amounts appropriated pursuant to subparagraph (A) are authorized to remain available until expended.
 
->     “(h) __Definitions.—__ 
+>     “(h)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Administering agency.—__ 
+>         “(1)  __Administering agency__  __.—__ 
 
 >         The term ‘administering agency’ means—
 
@@ -353,15 +353,15 @@
 
 >             “(B) for fiscal year 2002, and subsequent fiscal years, the Executive agency designated by the President of the United States under subsection (a)(2).
 
->         “(2) __Eligible russian.—__ 
+>         “(2)  __Eligible russian__  __.—__ 
 
 >         The term ‘eligible Russian’ means a Russian national who is an emerging political leader at any level of government.
 
->         “(3) __Program.—__ 
+>         “(3)  __Program__  __.—__ 
 
 >         The term ‘program’ means the grant program established under this section.
 
->         “(4) __Program participant.—__ 
+>         “(4)  __Program participant__  __.—__ 
 
 >         The term ‘program participant’ means an eligible Russian selected for participation in the program.”
 

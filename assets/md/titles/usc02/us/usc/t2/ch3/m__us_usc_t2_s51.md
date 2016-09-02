@@ -23,11 +23,11 @@
 
 [Pub. L. 105–275, title II, § 209][/us/pl/105/275/s209], Oct. 21, 1998, [112 Stat. 2448][/us/stat/112/2448], provided that:
 
->     “(a) __Grant for Care and Maintenance of Congressional Cemetery.—__ 
+>     “(a)  __Grant for Care and Maintenance of Congressional Cemetery__  __.—__ 
 
 >     In order to assist in the perpetual care and maintenance of the historic Congressional Cemetery, the Architect of the Capitol shall make a grant to the National Trust for Historic Preservation (hereafter in this section referred to as the ‘National Trust’) in accordance with an agreement entered into by the Architect of the Capitol with the National Trust and the Association for the Preservation of Historic Congressional Cemetery (hereafter in this section referred to as the ‘Association’) which contains the terms and conditions described in subsection (b) and such other provisions as the Architect may deem necessary or desirable for the implementation of this section or for the protection of the interests of the Federal Government.
 
->     “(b) __Terms and Conditions of Agreement.—__ 
+>     “(b)  __Terms and Conditions of Agreement__  __.—__ 
 
 >     The terms and conditions described in this subsection are as follows:
 
@@ -39,7 +39,7 @@
 
 >         “(4) The Association, or any successor thereto, shall maintain adequate records and accounts of all financial transactions and operations carried out with such distributions, and such records shall be available at all times for audit and investigation by the Architect of the Capitol and the Comptroller General.
 
->     “(c) __No Title in United States.—__ 
+>     “(c)  __No Title in United States__  __.—__ 
 
 >     Nothing in this section shall be construed to vest title to the Congressional Cemetery in the United States.”
 

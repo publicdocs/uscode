@@ -27,6 +27,8 @@
 
     Section was classified to section 174j–10 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
 
+    Section is from the Congressional Operations Appropriations Act, 1998, which is title I of the Legislative Branch Appropriations Act, 1998.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t2/ch30/schIII/m__us_usc_t2_s2049.md) | [Next](./../../../../..//us/usc/t2/ch30/schIII/m__us_usc_t2_s2051.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2050)

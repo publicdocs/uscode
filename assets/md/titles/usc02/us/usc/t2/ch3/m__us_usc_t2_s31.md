@@ -127,11 +127,11 @@ Section 5 of act Mar. 2, 1955, provided that:
 
 >     “(a) __Holding Salaries in Escrow.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         If by April 15, 2013, a House of Congress has not agreed to a concurrent resolution on the budget for fiscal year 2014 pursuant to section 301 of the Congressional Budget Act of 1974 \[[2 U.S.C. 632][/us/usc/t2/s632]\], during the period described in paragraph (2) the payroll administrator of that House of Congress shall deposit in an escrow account all payments otherwise required to be made during such period for the compensation of Members of Congress who serve in that House of Congress, and shall release such payments to such Members only upon the expiration of such period.
 
->         “(2) __Period described.—__ 
+>         “(2)  __Period described__  __.—__ 
 
 >         With respect to a House of Congress, the period described in this paragraph is the period which begins on April 16, 2013, and ends on the earlier of—
 
@@ -139,23 +139,23 @@ Section 5 of act Mar. 2, 1955, provided that:
 
 >             “(B) the last day of the One Hundred Thirteenth Congress.
 
->         “(3) __Withholding and remittance of amounts from payments held in escrow.—__ 
+>         “(3)  __Withholding and remittance of amounts from payments held in escrow__  __.—__ 
 
 >         The payroll administrator shall provide for the same withholding and remittance with respect to a payment deposited in an escrow account under paragraph (1) that would apply to the payment if the payment were not subject to paragraph (1).
 
->         “(4) __Release of amounts at end of the congress.—__ 
+>         “(4)  __Release of amounts at end of the congress__  __.—__ 
 
 >         In order to ensure that this section is carried out in a manner that shall not vary the compensation of Senators or Representatives in violation of the twenty-seventh article of amendment to the Constitution of the United States, the payroll administrator of a House of Congress shall release for payments to Members of that House of Congress any amounts remaining in any escrow account under this section on the last day of the One Hundred Thirteenth Congress.
 
->         “(5) __Role of secretary of the treasury.—__ 
+>         “(5)  __Role of secretary of the treasury__  __.—__ 
 
 >         The Secretary of the Treasury shall provide the payroll administrators of the Houses of Congress with such assistance as may be necessary to enable the payroll administrators to carry out this section.
 
->     “(b) __Treatment of Delegates as Members.—__ 
+>     “(b)  __Treatment of Delegates as Members__  __.—__ 
 
 >     In this section, the term ‘Member’ includes a Delegate or Resident Commissioner to the Congress.
 
->     “(c) __Payroll Administrator Defined.—__ 
+>     “(c)  __Payroll Administrator Defined__  __.—__ 
 
 >     In this section, the ‘payroll administrator’ of a House of Congress means—
 
@@ -164,6 +164,10 @@ Section 5 of act Mar. 2, 1955, provided that:
 >         “(2) in the case of the Senate, the Secretary of the Senate, or an employee of the Office of the Secretary of the Senate who is designated by the Secretary to carry out this section.”
 
  __Cost of Living Adjustment__ 
+
+[Pub. L. 113–46, div. A, § 146][/us/pl/113/46/s146], Oct. 17, 2013, [127 Stat. 565][/us/stat/127/565], provided that: 
+
+> “Notwithstanding any other provision of law, no adjustment shall be made under section 610(a) \[probably should be “601(a)”\] of the Legislative Reorganization Act of 1946 ([2 U.S.C. 31][/us/usc/t2/s31]) (relating to cost of living adjustments for Members of Congress) during fiscal year 2014.”
 
 [Pub. L. 112–240, title VIII, § 802][/us/pl/112/240/s802], Jan. 2, 2013, [126 Stat. 2369][/us/stat/126/2369], provided that: 
 
@@ -183,11 +187,11 @@ Section 5 of act Mar. 2, 1955, provided that:
 
 [Pub. L. 103–6, § 7][/us/pl/103/6/s7], Mar. 4, 1993, [107 Stat. 35][/us/stat/107/35], provided that:
 
->     “(a) __Cost of Living Adjustment.—__ 
+>     “(a)  __Cost of Living Adjustment__  __.—__ 
 
 >     Notwithstanding section 601(a)(2) of the Legislative Reorganization Act of 1946 ([2 U.S.C. 31(2)][/us/usc/t2/s31/2]), the cost of living adjustment (relating to pay for Members of Congress) which would become effective under such provision of law during calendar year 1994 shall not take effect.
 
->     “(b) __Severability.—__ 
+>     “(b)  __Severability__  __.—__ 
 
 >     If any provision of this Act \[enacting provisions set out as notes under sections 1 and 3304 of Title 26, Internal Revenue Code, and [section 352 of Title 45][/us/usc/t45/s352], Railroads, and amending provisions set out as notes under [section 3304 of Title 26][/us/usc/t26/s3304] and [section 352 of Title 45][/us/usc/t45/s352]\], or an amendment made by this Act, or the application of such provision to any person or circumstance, is held to be invalid, the remainder of this Act, or an amendment made by this Act, or the application of such provision to other persons or circumstances, shall not be affected.”
 
@@ -291,6 +295,9 @@ Section 5 of act Mar. 2, 1955, provided that:
 [/us/pl/113/3/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F3%2Fs3
 [/us/stat/127/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F51
 [/us/usc/t2/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs632
+[/us/pl/113/46/s146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F46%2Fs146
+[/us/stat/127/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F565
+[/us/usc/t2/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31
 [/us/pl/112/240/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs802
 [/us/stat/126/2369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2369
 [/us/usc/t2/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31

@@ -55,11 +55,11 @@
 
 [Pub. L. 104–316, title I, § 101(e)][/us/pl/104/316/s101/e], Oct. 19, 1996, [110 Stat. 3827][/us/stat/110/3827], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), this title \[see Tables for classification\] shall take effect on the date of enactment of this Act \[Oct. 19, 1996\].
 
->     “(2) __Exceptions.—__ 
+>     “(2)  __Exceptions__  __.—__ 
 
 >     Sections 103(d), 105(b), and 116 \[amending [section 5584 of Title 5][/us/usc/t5/s5584], Government Organization and Employees, [section 2774 of Title 10][/us/usc/t10/s2774], Armed Forces, and [section 716 of Title 32][/us/usc/t32/s716], National Guard\] shall take effect 60 days after the date of enactment of this Act.”
 

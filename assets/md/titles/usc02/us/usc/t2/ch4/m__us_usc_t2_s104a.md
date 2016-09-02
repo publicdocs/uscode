@@ -91,11 +91,11 @@
 
 [Pub. L. 106–554, § 1(a)(2)][/us/pl/106/554/s1/a/2] \[title I, § 1(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–96, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Subject to paragraph (2), the amendment made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 21, 2000\].
 
->     “(2) __First report after enactment.—__ 
+>     “(2)  __First report after enactment__  __.—__ 
 
 >     The Secretary of the Senate may elect to compile and submit the report for the semiannual period during which the date of enactment of this section occurs, as if the amendment made by this section had not been enacted.”
 

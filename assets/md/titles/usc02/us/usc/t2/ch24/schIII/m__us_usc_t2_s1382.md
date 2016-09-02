@@ -181,15 +181,15 @@
 
 [Pub. L. 109–38, § 1][/us/pl/109/38/s1], July 27, 2005, [119 Stat. 408][/us/stat/119/408], provided that:
 
->     “(a) __Executive Director.—__ 
+>     “(a)  __Executive Director__  __.—__ 
 
 >     Notwithstanding section 302(a)(3) of the Congressional Accountability Act of 1995 ([2 U.S.C. 1382(a)(3)][/us/usc/t2/s1382/a/3]), the individual serving as Executive Director of the Office of Compliance as of the date of the enactment of this Act \[July 27, 2005\] may serve one additional term.
 
->     “(b) __Deputy Executive Directors.—__ 
+>     “(b)  __Deputy Executive Directors__  __.—__ 
 
 >     Notwithstanding section 302(b)(2) of such Act ([2 U.S.C. 1382(b)(2)][/us/usc/t2/s1382/b/2]), any individual serving as a Deputy Executive Director of the Office of Compliance as of the date of the enactment of this Act may serve one additional term.
 
->     “(c) __General Counsel.—__ 
+>     “(c)  __General Counsel__  __.—__ 
 
 >     Notwithstanding section 302(c)(5) of such Act ([2 U.S.C. 1382(c)(5)][/us/usc/t2/s1382/c/5]), the individual serving as General Counsel of the Office of Compliance as of the date of the enactment of this Act may serve one additional term.”
 

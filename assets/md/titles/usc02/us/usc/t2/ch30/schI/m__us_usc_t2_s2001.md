@@ -61,49 +61,49 @@
 
 >     “(a) __Disposal of Real Property.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Architect of the Capitol shall dispose of by sale at fair market value all right, title, and interest of the United States in and to the parcel of real property described in paragraph (9), including all improvements to such real property. Such disposal shall be made by quitclaim deed.
 
->         “(2) __House office building commission.—__ 
+>         “(2)  __House office building commission__  __.—__ 
 
 >         The Architect of the Capitol shall carry out this section under the direction of the House Office Building Commission.
 
->         “(3) __Procedures.—__ 
+>         “(3)  __Procedures__  __.—__ 
 
 >         Notwithstanding any other provision of law, the disposal under paragraph (1) shall be made in accordance with such procedures as the Architect of the Capitol determines appropriate.
 
->         “(4) __Sense of congress.—__ 
+>         “(4)  __Sense of congress__  __.—__ 
 
 >         It is the sense of Congress that the child care center of the House of Representatives should remain in operation during the implementation of this section.
 
->         “(5) __Terms and conditions.—__ 
+>         “(5)  __Terms and conditions__  __.—__ 
 
 >         The deed of conveyance for the property to be disposed of under paragraph (1) shall contain such terms and conditions as the Architect of the Capitol determines are necessary to protect the interests of the United States.
 
->         “(6) __Deposit of proceeds.—__ 
+>         “(6)  __Deposit of proceeds__  __.—__ 
 
 >         All proceeds from the disposal under paragraph (1) shall be deposited in the account established by subsection (b).
 
->         “(7) __Advertising and marketing.—__ 
+>         “(7)  __Advertising and marketing__  __.—__ 
 
 >         The Architect of the Capitol shall begin advertising and marketing the property to be disposed of under paragraph (1) not later than 30 days after the date of the enactment of this Act \[Jan. 26, 1996\].
 
->         “(8) __Local zoning and occupancy requirements.—__ 
+>         “(8)  __Local zoning and occupancy requirements__  __.—__ 
 
 >         Until such date as the purchaser of the property to be disposed of under paragraph (1) takes full occupancy of such property, such property and the tenants of such property shall be deemed to be in compliance with all applicable zoning and occupancy requirements of the District of Columbia.
 
->         “(9) __Property description.—__ 
+>         “(9)  __Property description__  __.—__ 
 
 >         The parcel of real property referred to in paragraph (1) is the approximately 31,725 square feet of land located at 501 First Street, SE., on square 736 S, Lot 801 (formerly part of Reservation 17) in the District of Columbia. Such parcel is bounded by E Street, SE., to the north, First Street, SE., to the east, New Jersey Avenue, SE., to the west, and Garfield Park to the south.
 
 >     “(b) __Separate Account in the Treasury.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         There is established in the Treasury of the United States a separate account which shall consist of amounts deposited into the account by the Architect of the Capitol under subsection (a).
 
->         “(2) __Availability of funds.—__ 
+>         “(2)  __Availability of funds__  __.—__ 
 
 >         Funds in the account established by paragraph (1) shall be available, in such amounts as are specified in appropriations Acts, to the Architect of the Capitol for—
 
@@ -117,25 +117,25 @@
 
 >             Funds made available under this paragraph shall not be subject to any fiscal year limitation.
 
->         “(3) __Reporting of transactions.—__ 
+>         “(3)  __Reporting of transactions__  __.—__ 
 
 >         Receipts, obligations, and expenditures of funds in the account established by paragraph (1) shall be reported in annual estimates submitted to Congress by the Architect of the Capitol for the operation and maintenance of the Capitol Buildings and Grounds.
 
->         “(4) __Termination of account.—__ 
+>         “(4)  __Termination of account__  __.—__ 
 
 >         Not later than 2 years after the date of settlement on the property to be disposed of under subsection (a)(1), the Architect of the Capitol shall terminate the account established by paragraph (1) and all amounts remaining in the account shall be deposited into the general fund of the Treasury of the United States and credited as miscellaneous receipts.
 
 >     “(c) __Authority To Furnish Steam and Chilled Water.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Architect of the Capitol is authorized to furnish steam and chilled water from the Capitol Power Plant to the owner of the property to be disposed of under subsection (a)(1) if the owner agrees to pay for such steam and chilled water at market rates, as determined by the Architect of the Capitol.
 
->         “(2) __Authority limited to existing facilities.—__ 
+>         “(2)  __Authority limited to existing facilities__  __.—__ 
 
 >         The Architect of the Capitol may furnish steam and chilled water under paragraph (1) only with respect to facilities which, on the date of the enactment of this Act \[Jan. 26, 1996\], are located on the property to be disposed of under subsection (a)(1).
 
->         “(3) __Proceeds.—__ 
+>         “(3)  __Proceeds__  __.—__ 
 
 >         All proceeds from the sale of steam and chilled water under paragraph (1) shall be deposited into the general fund of the Treasury of the United States and credited as miscellaneous receipts.”
 

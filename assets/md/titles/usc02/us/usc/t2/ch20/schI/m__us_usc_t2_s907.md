@@ -169,11 +169,11 @@
 
 [Pub. L. 99–509, title VII, § 7001][/us/pl/99/509/s7001], Oct. 21, 1986, [100 Stat. 1948][/us/stat/100/1948], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Benefits which are payable in calendar year 1987, 1988, 1989, 1990, or 1991, under programs listed in section 257(1)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985 ([Public Law 99–177][/us/pl/99/177]), \[[2 U.S.C. 907(1)(A)][/us/usc/t2/s907/1/A]\], including any cost-of-living adjustment in such benefits, shall not be subject to modification, suspension, or reduction in such calendar year pursuant to a Presidential order issued under such Act \[see Short Title note set out under [2 U.S.C. 900][/us/usc/t2/s900]\].
 
->     “(b) __Definition.—__ 
+>     “(b)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘cost-of-living adjustment’ means any increase or change in the amount of a benefit or in standards relating to such benefit under any provision of Federal law which requires such increase or change as a result of any change in the Consumer Price Index (or any component thereof) or any other index which measures costs, prices, or wages.”
 

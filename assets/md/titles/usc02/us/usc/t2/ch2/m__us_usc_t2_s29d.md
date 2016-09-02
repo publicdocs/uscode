@@ -105,7 +105,7 @@
 
 [Pub. L. 101–194, title VIII, § 805][/us/pl/101/194/s805], Nov. 30, 1989, [103 Stat. 1778][/us/stat/103/1778], provided that:
 
->     “(a) __Restrictions.—__ 
+>     “(a)  __Restrictions__  __.—__ 
 
 >     The Committee on Standards of Official Conduct \[now Committee on Ethics\] of the House of Representatives shall amend its advisory opinions relating to the acceptance of necessary travel expenses incurred on or after January 1, 1990, in connection with speaking engagements and similar events to—
 
@@ -113,7 +113,7 @@
 
 >         “(2) permit the acceptance of travel expenses for the spouse or other family member in connection with any substantial participation event or fact-finding activity.
 
->     “(b) __Exemption Authority.—__ 
+>     “(b)  __Exemption Authority__  __.—__ 
 
 >     The Committee on Standards of Official Conduct \[now Committee on Ethics\] of the House of Representatives is authorized to grant prior written exemptions from the limitations contained in subsection (a)(1) in exceptional circumstances.”
 

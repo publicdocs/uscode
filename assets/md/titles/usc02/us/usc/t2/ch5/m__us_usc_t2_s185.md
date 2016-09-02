@@ -87,6 +87,10 @@
 
     The Inspector General Act of 1978, referred to in subsec. (d)(1), is [Pub. L. 95–452][/us/pl/95/452], Oct. 12, 1978, [92 Stat. 1101][/us/stat/92/1101], as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+ __Codification__ 
+
+    Section is from the Legislative Branch Appropriations Act, 2006.
+
  __Amendments__ 
 
     2010—Subsec. (b)(1). [Pub. L. 111–145][/us/pl/111/145] repealed [Pub. L. 110–161, § 1004(d)(3)][/us/pl/110/161/s1004/d/3]. See 2007 Amendment note below.

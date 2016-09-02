@@ -199,7 +199,7 @@
 
     (16) The term “political party” means an association, committee, or organization which nominates a candidate for election to any Federal office whose name appears on the election ballot as the candidate of such association, committee, or organization.
 
-    (17) __Independent expenditure.—__ 
+    (17)  __Independent expenditure__  __.—__ 
 
     The term “independent expenditure” means an expenditure by a person—
 
@@ -221,7 +221,7 @@
 
     (20) __Federal election activity.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The term “Federal election activity” means—
 
@@ -233,7 +233,7 @@
 
             (iv) services provided during any month by an employee of a State, district, or local committee of a political party who spends more than 25 percent of that individual’s compensated time during that month on activities in connection with a Federal election.
 
-        (B) __Excluded activity.—__ 
+        (B)  __Excluded activity__  __.—__ 
 
         The term “Federal election activity” does not include an amount expended or disbursed by a State, district, or local committee of a political party for—
 
@@ -245,27 +245,27 @@
 
             (iv) the costs of grassroots campaign materials, including buttons, bumper stickers, and yard signs, that name or depict only a candidate for State or local office.
 
-    (21) __Generic campaign activity.—__ 
+    (21)  __Generic campaign activity__  __.—__ 
 
     The term “generic campaign activity” means a campaign activity that promotes a political party and does not promote a candidate or non-Federal candidate.
 
-    (22) __Public communication.—__ 
+    (22)  __Public communication__  __.—__ 
 
     The term “public communication” means a communication by means of any broadcast, cable, or satellite communication, newspaper, magazine, outdoor advertising facility, mass mailing, or telephone bank to the general public, or any other form of general public political advertising.
 
-    (23) __Mass mailing.—__ 
+    (23)  __Mass mailing__  __.—__ 
 
     The term “mass mailing” means a mailing by United States mail or facsimile of more than 500 pieces of mail matter of an identical or substantially similar nature within any 30-day period.
 
-    (24) __Telephone bank.—__ 
+    (24)  __Telephone bank__  __.—__ 
 
     The term “telephone bank” means more than 500 telephone calls of an identical or substantially similar nature within any 30-day period.
 
-    (25) __Election cycle.—__ 
+    (25)  __Election cycle__  __.—__ 
 
     For purposes of sections 441a(i) and 441a–1 of this title and paragraph (26), the term “election cycle” means the period beginning on the day after the date of the most recent election for the specific office or seat that a candidate is seeking and ending on the date of the next election for that office or seat. For purposes of the preceding sentence, a primary election and a general election shall be considered to be separate elections.
 
-    (26) __Personal funds.—__ 
+    (26)  __Personal funds__  __.—__ 
 
     The term “personal funds” means an amount that is derived from—
 
@@ -353,11 +353,11 @@
 
 >     “(a) __General Effective Date.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in the succeeding provisions of this section, the effective date of this Act \[see Short Title of 2002 Amendment note below\], and the amendments made by this Act, is November 6, 2002.
 
->         “(2) __Modification of contribution limits.—__ 
+>         “(2)  __Modification of contribution limits__  __.—__ 
 
 >         The amendments made by—
 
@@ -365,29 +365,29 @@
 
 >             “(B) section 307 \[amending [section 441a of this title][/us/usc/t2/s441a]\] shall take effect as provided in subsection (e) of such section \[enacting provisions set out as a note under [section 441a of this title][/us/usc/t2/s441a]\].
 
->         “(3) __Severability; effective dates and regulations; judicial review.—__ 
+>         “(3)  __Severability; effective dates and regulations; judicial review__  __.—__ 
 
 >         Title IV \[enacting provisions set out as notes under sections 437h and 454 of this title\] shall take effect on the date of enactment of this Act \[Mar. 27, 2002\].
 
->         “(4) __Provisions not to apply to runoff elections.—__ 
+>         “(4)  __Provisions not to apply to runoff elections__  __.—__ 
 
 >         Section 323(b) of the Federal Election Campaign Act of 1971 \[[2 U.S.C. 441i(b)][/us/usc/t2/s441i/b]\] (as added by section 101(a)), section 103(a) \[amending [section 434 of this title][/us/usc/t2/s434]\], title II \[amending this section and sections 434, 441a, and 441b of this title and enacting provisions set out as notes under sections 434 and 441a of this title\], sections 304 \[amending this section and sections 434 and 441a of this title\] (including section 315(j) of Federal Election Campaign Act of 1971 \[[2 U.S.C. 441a(j)][/us/usc/t2/s441a/j]\], as added by section 304(a)(2)), 305 \[amending [section 315 of Title 47][/us/usc/t47/s315], Telecommunications, and enacting provisions set out as a note under [section 315 of Title 47][/us/usc/t47/s315]\] (notwithstanding subsection (c) of such section \[enacting provisions set out as a note under [section 315 of Title 47][/us/usc/t47/s315]\]), 311 \[amending [section 441d of this title][/us/usc/t2/s441d]\], 316 \[amending [section 441a of this title][/us/usc/t2/s441a]\], 318 \[enacting [section 441k of this title][/us/usc/t2/s441k]\], and 319 \[enacting [section 441a–1 of this title][/us/usc/t2/s441a–1] and amending [section 441a of this title][/us/usc/t2/s441a]\], and title V \[enacting [section 438a of this title][/us/usc/t2/s438a] and amending [section 434 of this title][/us/usc/t2/s434] and [section 315 of Title 47][/us/usc/t47/s315]\] (and the amendments made by such sections and titles) shall take effect on November 6, 2002, but shall not apply with respect to runoff elections, recounts, or election contests resulting from elections held prior to such date.
 
 >     “(b) __Soft Money of National Political Parties.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except for subsection (b) of such section, section 323 of the Federal Election Campaign Act of 1971 \[[2 U.S.C. 441i][/us/usc/t2/s441i]\] (as added by section 101(a)) shall take effect on November 6, 2002.
 
 >         “(2) __Transitional rules for the spending of soft money of national political parties.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Notwithstanding section 323(a) of the Federal Election Campaign Act of 1971 \[[2 U.S.C. 441i(a)][/us/usc/t2/s441i/a]\] (as added by section 101(a)), if a national committee of a political party described in such section (including any person who is subject to such section under paragraph (2) of such section), has received funds described in such section prior to November 6, 2002, the rules described in subparagraph (B) shall apply with respect to the spending of the amount of such funds in the possession of such committee as of such date.
 
 >             “(B) __Use of excess soft money funds.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Subject to clauses (ii) and (iii), the national committee of a political party may use the amount described in subparagraph (A) prior to January 1, 2003, solely for the purpose of—
 
@@ -395,21 +395,21 @@
 
 >                          “(II) paying expenses or retiring outstanding debts or paying for obligations that were incurred solely in connection with any runoff election, recount, or election contest resulting from an election held prior to November 6, 2002.
 
->                 “(ii) __Prohibition on using soft money for hard money expenses, debts, and obligations.—__ 
+>                 “(ii)  __Prohibition on using soft money for hard money expenses, debts, and obligations__  __.—__ 
 
 >                 A national committee of a political party may not use the amount described in subparagraph (A) for any expenditure (as defined in section 301(9) of the Federal Election Campaign Act of 1971 ([2 U.S.C. 431(9)][/us/usc/t2/s431/9])) or for retiring outstanding debts or obligations that were incurred for such an expenditure.
 
->                 “(iii) __Prohibition of building fund uses.—__ 
+>                 “(iii)  __Prohibition of building fund uses__  __.—__ 
 
 >                 A national committee of a political party may not use the amount described in subparagraph (A) for activities to defray the costs of the construction or purchase of any office building or facility.
 
 >     “(c) __Regulations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), the Federal Election Commission shall promulgate regulations to carry out this Act \[see Short Title of 2002 Amendment note below\] and the amendments made by this Act that are under the Commission’s jurisdiction not later than 270 days after the date of enactment of this Act \[Mar. 27, 2002\].
 
->         “(2) __Soft money of political parties.—__ 
+>         “(2)  __Soft money of political parties__  __.—__ 
 
 >         Not later than 90 days after the date of enactment of this Act, the Federal Election Commission shall promulgate regulations to carry out title I of this Act \[enacting [section 441i of this title][/us/usc/t2/s441i] and amending this section and sections 434, 441a, and 453 of this title\] and the amendments made by such title.”
 
@@ -493,19 +493,19 @@
 
 [Pub. L. 107–155, title III, § 310][/us/pl/107/155/s310], Mar. 27, 2002, [116 Stat. 104][/us/stat/116/104], provided that:
 
->     “(a) __Clean Money Clean Elections Defined.—__ 
+>     “(a)  __Clean Money Clean Elections Defined__  __.—__ 
 
 >     In this section, the term ‘clean money clean elections’ means funds received under State laws that provide in whole or in part for the public financing of election campaigns.
 
 >     “(b) __Study.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Comptroller General shall conduct a study of the clean money clean elections of Arizona and Maine.
 
 >         “(2) __Matters studied.—__ 
 
->             “(A) __Statistics on clean money clean elections candidates.—__ 
+>             “(A)  __Statistics on clean money clean elections candidates__  __.—__ 
 
 >             The Comptroller General shall determine—
 
@@ -521,11 +521,11 @@
 
 >                 “(ii) the number of races in which at least one candidate ran an election with clean money clean elections.
 
->             “(B) __Effects of clean money clean elections.—__ 
+>             “(B)  __Effects of clean money clean elections__  __.—__ 
 
 >             The Comptroller General of the United States shall describe the effects of public financing under the clean money clean elections laws on the 2000 elections in Arizona and Maine.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Mar. 27, 2002\], the Comptroller General of the United States shall submit a report to the Congress detailing the results of the study conducted under subsection (b).”
 

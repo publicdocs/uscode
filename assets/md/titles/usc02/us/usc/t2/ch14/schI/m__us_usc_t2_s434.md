@@ -83,7 +83,7 @@
 
             (B) __Notification of expenditure from personal funds.—__ 
 
-                (i) __Definition of expenditure from personal funds.—__ 
+                (i)  __Definition of expenditure from personal funds__  __.—__ 
 
                 In this subparagraph, the term “expenditure from personal funds” means—
 
@@ -91,7 +91,7 @@
 
                     (II) a contribution or loan made by a candidate using personal funds or a loan secured using such funds to the candidate’s authorized committee.
 
-                (ii) __Declaration of intent.—__ 
+                (ii)  __Declaration of intent__  __.—__ 
 
                 Not later than the date that is 15 days after the date on which an individual becomes a candidate for the office of Senator, the candidate shall file a declaration stating the total amount of expenditures from personal funds that the candidate intends to make, or to obligate to make, with respect to the election that will exceed the State-by-State competitive and fair campaign formula with—
 
@@ -99,7 +99,7 @@
 
                     (II) each candidate in the same election.
 
-                (iii) __Initial notification.—__ 
+                (iii)  __Initial notification__  __.—__ 
 
                 Not later than 24 hours after a candidate described in clause (ii) makes or obligates to make an aggregate amount of expenditures from personal funds in excess of 2 times the threshold amount in connection with any election, the candidate shall file a notification with—
 
@@ -107,7 +107,7 @@
 
                     (II) each candidate in the same election.
 
-                (iv) __Additional notification.—__ 
+                (iv)  __Additional notification__  __.—__ 
 
                 After a candidate files an initial notification under clause (iii), the candidate shall file an additional notification each time expenditures from personal funds are made or obligated to be made in an aggregate amount that exceed  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “exceeds”. </sup></sup>  $10,000 with—
 
@@ -117,7 +117,7 @@
 
                     Such notification shall be filed not later than 24 hours after the expenditure is made.
 
-                (v) __Contents.—__ 
+                (v)  __Contents__  __.—__ 
 
                 A notification under clause (iii) or (iv) shall include—
 
@@ -127,11 +127,11 @@
 
                     (III) the total amount of expenditures from personal funds that the candidate has made, or obligated to make, with respect to an election as of the date of the expenditure that is the subject of the notification.
 
-            (C) __Notification of disposal of excess contributions.—__ 
+            (C)  __Notification of disposal of excess contributions__  __.—__ 
 
             In the next regularly scheduled report after the date of the election for which a candidate seeks nomination for election to, or election to, Federal office, the candidate or the candidate’s authorized committee shall submit to the Commission a report indicating the source and amount of any excess contributions (as determined under paragraph (1) of [section 441a(i) of this title][/us/usc/t2/s441a/i]) and the manner in which the candidate or the candidate’s authorized committee used such funds.
 
-            (D) __Enforcement.—__ 
+            (D)  __Enforcement__  __.—__ 
 
             For provisions providing for the enforcement of the reporting requirements under this paragraph, see [section 437g of this title][/us/usc/t2/s437g].
 
@@ -163,7 +163,7 @@
 
         (12) __Software for filing of reports.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Commission shall—
 
@@ -179,15 +179,15 @@
 
                 (ii) make a copy of software that meets the standards promulgated under clause (i) available to each person required to file a designation, statement, or report in electronic form under this Act.
 
-            (B) __Additional information.—__ 
+            (B)  __Additional information__  __.—__ 
 
             To the extent feasible, the Commission shall require vendors to include in the software developed under the standards under subparagraph (A) the ability for any person to file any designation, statement, or report required under this Act in electronic form.
 
-            (C) __Required use.—__ 
+            (C)  __Required use__  __.—__ 
 
             Notwithstanding any provision of this Act relating to times for filing reports, each candidate for Federal office (or that candidate’s authorized committee) shall use software that meets the standards promulgated under this paragraph once such software is made available to such candidate.
 
-            (D) __Required posting.—__ 
+            (D)  __Required posting__  __.—__ 
 
             The Commission shall, as soon as practicable, post on the Internet any information received under this paragraph.
 

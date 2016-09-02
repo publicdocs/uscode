@@ -61,7 +61,7 @@
 
 [Pub. L. 107–155, title IV, § 403][/us/pl/107/155/s403], Mar. 27, 2002, [116 Stat. 113][/us/stat/116/113], provided that:
 
->     “(a) __Special Rules for Actions Brought on Constitutional Grounds.—__ 
+>     “(a)  __Special Rules for Actions Brought on Constitutional Grounds__  __.—__ 
 
 >     If any action is brought for declaratory or injunctive relief to challenge the constitutionality of any provision of this Act \[see Short Title of 2002 Amendment note set out under [section 431 of this title][/us/usc/t2/s431]\] or any amendment made by this Act, the following rules shall apply:
 
@@ -73,21 +73,21 @@
 
 >         “(4) It shall be the duty of the United States District Court for the District of Columbia and the Supreme Court of the United States to advance on the docket and to expedite to the greatest possible extent the disposition of the action and appeal.
 
->     “(b) __Intervention by Members of Congress.—__ 
+>     “(b)  __Intervention by Members of Congress__  __.—__ 
 
 >     In any action in which the constitutionality of any provision of this Act or any amendment made by this Act is raised (including but not limited to an action described in subsection (a)), any member of the House of Representatives (including a Delegate or Resident Commissioner to the Congress) or Senate shall have the right to intervene either in support of or opposition to the position of a party to the case regarding the constitutionality of the provision or amendment. To avoid duplication of efforts and reduce the burdens placed on the parties to the action, the court in any such action may make such orders as it considers necessary, including orders to require intervenors taking similar positions to file joint papers or to be represented by a single attorney at oral argument.
 
->     “(c) __Challenge by Members of Congress.—__ 
+>     “(c)  __Challenge by Members of Congress__  __.—__ 
 
 >     Any Member of Congress may bring an action, subject to the special rules described in subsection (a), for declaratory or injunctive relief to challenge the constitutionality of any provision of this Act or any amendment made by this Act.
 
 >     “(d) __Applicability.—__ 
 
->         “(1) __Initial claims.—__ 
+>         “(1)  __Initial claims__  __.—__ 
 
 >         With respect to any action initially filed on or before December 31, 2006, the provisions of subsection (a) shall apply with respect to each action described in such section.
 
->         “(2) __Subsequent actions.—__ 
+>         “(2)  __Subsequent actions__  __.—__ 
 
 >         With respect to any action initially filed after December 31, 2006, the provisions of subsection (a) shall not apply to any action described in such section unless the person filing such action elects such provisions to apply to the action.”
 

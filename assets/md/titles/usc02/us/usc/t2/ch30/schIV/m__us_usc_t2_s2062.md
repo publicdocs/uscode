@@ -163,7 +163,7 @@
 
 [Pub. L. 103–69, title III, § 309][/us/pl/103/69/s309], Aug. 11, 1993, [107 Stat. 711][/us/stat/107/711], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     For the purpose of this section—
 
@@ -201,11 +201,11 @@
 
 >         “(2) Credit for service described in paragraph (1)(A) shall not be allowed under this section unless there is paid into the Civil Service Retirement and Disability Fund, by or on behalf of the employee involved, an amount equal to the deductions from pay which would have been payable under applicable provisions of law, for the period of service involved, if such employee were then a Congressional employee, including interest (computed in the same way as interest under subsection (b)(2)). Retirement credit may not be allowed under this section for any such service unless the full amount of the deposit required under the preceding sentence has been paid.
 
->     “(d) __Clarification.—__ 
+>     “(d)  __Clarification__  __.—__ 
 
 >     Nothing in this section shall be considered to relate to the Thrift Savings Plan.
 
->     “(e) __OPM Functions.—__ 
+>     “(e)  __OPM Functions__  __.—__ 
 
 >     The Office of Personnel Management shall—
 

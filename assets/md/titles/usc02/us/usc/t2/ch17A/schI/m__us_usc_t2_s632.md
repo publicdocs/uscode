@@ -233,7 +233,7 @@
 
 [Pub. L. 101–508, title XIII, § 13302][/us/pl/101/508/s13302], Nov. 5, 1990, [104 Stat. 1388–623][/us/stat/104/1388-623], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     It shall not be in order in the House of Representatives to consider any bill or joint resolution, as reported, or any amendment thereto or conference report thereon, if, upon enactment—
 
@@ -253,11 +253,11 @@
 
 >             (A) such legislation under consideration would provide for a net decrease in OASDI taxes (for the 5-year estimating period for such legislation under consideration), (B) such net decrease, together with the net decreases in OASDI taxes resulting from previous legislation enacted during that fiscal year or any of the previous 4 fiscal years (as estimated at the time of enactment) which are attributable to those portions of the 5-year estimating periods for such previous legislation that fall within the 5-year estimating period for such legislation under consideration, exceeds $250,000,000, and (C) such legislation under consideration does not provide at least a net decrease, for the 5-year estimating period for such legislation under consideration, in OASDI benefits which, together with net decreases in OASDI benefits resulting from such previous legislation which are attributable to those portions of the 5-year estimating periods for such previous legislation that fall within the 5-year estimating period for such legislation under consideration, equals the amount by which the net decrease derived under subparagraph (B) exceeds $250,000,000.
 
->     “(b) __Application.—__ 
+>     “(b)  __Application__  __.—__ 
 
 >     In applying paragraph (3) or (4) of subsection (a), any provision of any bill or joint resolution, as reported, or any amendment thereto, or conference report thereon, the effect of which is to provide for a net decrease for any period in taxes described in subsection (c)(2)(A) shall be disregarded if such bill, joint resolution, amendment, or conference report also includes a provision the effect of which is to provide for a net increase of at least an equivalent amount for such period in medicare taxes.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For purposes of this subsection:
 

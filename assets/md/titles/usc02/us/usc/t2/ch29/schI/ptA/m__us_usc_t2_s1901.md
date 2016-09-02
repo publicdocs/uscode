@@ -43,11 +43,11 @@
 
 [Pub. L. 111–145, § 6(d)][/us/pl/111/145/s6/d], Mar. 4, 2010, [124 Stat. 54][/us/stat/124/54], provided that:
 
->     “(1) __Repeal of duplicate provisions.—__ 
+>     “(1)  __Repeal of duplicate provisions__  __.—__ 
 
 >     Effective as if included in the enactment of the Legislative Branch Appropriations Act, 2008 ([Public Law 110–161][/us/pl/110/161]), section 1004 of such Act \[enacting sections 141b and 143c of this title, amending sections 167i, 167j, 182b, 185, and 1961 of this title and sections 5101, 5102, and 5104 of Title 40, Public Buildings, Property, and Works, repealing sections 167 to 167h of this title, enacting provisions set out as notes under this section and sections 167 and 182b of this title, and repealing provisions set out as notes under this section\] is repealed, and any provision of law amended or repealed by such section is restored or revived to read as if such section had not been enacted into law.
 
->     “(2) __No effect on other act.—__ 
+>     “(2)  __No effect on other act__  __.—__ 
 
 >     Nothing in paragraph (1) may be construed to prevent the enactment or implementation of any provision of the U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007 ([Public Law 110–178][/us/pl/110/178]) \[see Tables for classification\], including any provision of such Act that amends or repeals a provision of law which is restored or revived pursuant to paragraph (1).”
 
@@ -87,15 +87,15 @@
 
 >     “(a) __Capitol Police Board; Composition; Redefining Mission.—__ 
 
->         “(1) __Purpose.—__ 
+>         “(1)  __Purpose__  __.—__ 
 
 >         The purpose of the Capitol Police Board is to oversee and support the Capitol Police in its mission and to advance coordination between the Capitol Police and the Sergeant at Arms of the House of Representatives and the Sergeant at Arms and Doorkeeper of the Senate, in their law enforcement capacities, and the Congress. Consistent with this purpose, the Capitol Police Board shall establish general goals and objectives covering its major functions and operations to improve the efficiency and effectiveness of its operations.
 
->         “(2) __Composition.—__ 
+>         “(2)  __Composition__  __.—__ 
 
 >         The Capitol Police Board shall consist of the Sergeant at Arms of the House of Representatives, the Sergeant at Arms and Doorkeeper of the Senate, the Chief of the Capitol Police, and the Architect of the Capitol. The Chief of Capitol Police shall serve in an ex-officio capacity and be a non-voting member of the Board.
 
->     “(b) __Initial Review and Report.—__ 
+>     “(b)  __Initial Review and Report__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Feb. 20, 2003\], the Capitol Police Board shall—
 
@@ -107,33 +107,33 @@
 
 >     “(c) __Executive Assistant.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         There shall be established in the Capitol Police an Executive Assistant for the Capitol Police Board to act as a central point for communication and enhance the overall effectiveness and efficiency of the Capitol Police Board’s administrative activities.
 
->         “(2) __Appointment.—__ 
+>         “(2)  __Appointment__  __.—__ 
 
 >         The Executive Assistant shall be appointed by the Chief of the Capitol Police in consultation with the Sergeant at Arms of the House of Representatives and the Sergeant at Arms and Doorkeeper of the Senate.
 
->         “(3) __Duties.—__ 
+>         “(3)  __Duties__  __.—__ 
 
 >         The Executive Assistant shall be assigned to, and report to, the Chairman of the Board. The Executive Assistant shall assist the Capitol Police Board in developing, documenting, and implementing a clearly defined process for additional tasks assigned to the Capitol Police Board under this section, and shall perform any additional duties assigned by the Capitol Police Board.
 
 >     “(d) __Documentation.—__ 
 
->         “(1) __Functions and processes.—__ 
+>         “(1)  __Functions and processes__  __.—__ 
 
 >         The Capitol Police Board shall document its functions and processes, including its mission statement, policies, directives, and operating procedures established or revised under subsection (a)(1) or (b), and make such documentation available for examination to the Speaker and minority leader of the House of Representatives, the President pro tempore and minority leader of the Senate, the Chief of the Capitol Police, and the Comptroller General.
 
->         “(2) __Meetings.—__ 
+>         “(2)  __Meetings__  __.—__ 
 
 >         The Capitol Police Board shall document Board meetings and make the documentation available for distribution to the Speaker and minority leader of the House of Representatives and the President pro tempore and minority leader of the Senate.
 
->     “(e) __Assistance of Comptroller General.—__ 
+>     “(e)  __Assistance of Comptroller General__  __.—__ 
 
 >     Upon request, the Comptroller General shall provide assistance to the Capitol Police Board in carrying out its responsibilities under this subsection \[probably should be “section”\].
 
->     “(f) __References in Law; Effect on Other Laws.—__ 
+>     “(f)  __References in Law; Effect on Other Laws__  __.—__ 
 
 >         (1) Any reference in any law or resolution in effect as of the date of the enactment of this Act \[Feb. 20, 2003\] to the ‘Capitol Police Board’ shall be deemed to refer to the Capitol Police Board as composed under subsection (a)(2).
 
@@ -147,11 +147,11 @@
 
 >     “(a) __Transfers.—__ 
 
->         “(1) __Library of congress police employees.—__ 
+>         “(1)  __Library of congress police employees__  __.—__ 
 
 >         Effective on the employee’s transfer date, each Library of Congress Police employee shall be transferred to the United States Capitol Police and shall become either a member or civilian employee of the Capitol Police, as determined by the Chief of the Capitol Police under subsection (b).
 
->         “(2) __Library of congress police civilian employees.—__ 
+>         “(2)  __Library of congress police civilian employees__  __.—__ 
 
 >         Effective on the employee’s transfer date, each Library of Congress Police civilian employee shall be transferred to the United States Capitol Police and shall become a civilian employee of the Capitol Police.
 
@@ -159,7 +159,7 @@
 
 >         “(1) __Determination of status within capitol police.—__ 
 
->             “(A) __Eligibility to serve as members of the capitol police.—__ 
+>             “(A)  __Eligibility to serve as members of the capitol police__  __.—__ 
 
 >             A Library of Congress Police employee shall become a member of the Capitol Police on the employee’s transfer date if the Chief of the Capitol Police determines and issues a written certification that the employee meets each of the following requirements:
 
@@ -169,19 +169,19 @@
 
 >                 “(iii) The employee meets the qualifications required to be a member of the Capitol Police, as determined by the Chief of the Capitol Police.
 
->             “(B) __Service as civilian employee of capitol police.—__ 
+>             “(B)  __Service as civilian employee of capitol police__  __.—__ 
 
 >             If the Chief of the Capitol Police determines that a Library of Congress Police employee does not meet the eligibility requirements, the employee shall become a civilian employee of the Capitol Police on the employee’s transfer date.
 
->             “(C) __Finality of determinations.—__ 
+>             “(C)  __Finality of determinations__  __.—__ 
 
 >             Any determination of the Chief of the Capitol Police under this paragraph shall not be appealable or reviewable in any manner.
 
->             “(D) __Deadline for determinations.—__ 
+>             “(D)  __Deadline for determinations__  __.—__ 
 
 >             The Chief of the Capitol Police shall complete the determinations required under this paragraph for all Library of Congress Police employees not later than September 30, 2009.
 
->         “(2) __Exemption from mandatory separation.—__ 
+>         “(2)  __Exemption from mandatory separation__  __.—__ 
 
 >         Section 8335(c) or 8425(c) of title 5, United States Code, shall not apply to any Library of Congress Police employee who becomes a member of the Capitol Police under this subsection, until the earlier of—
 
@@ -197,11 +197,11 @@
 
 >         “(3) __Treatment of prior creditable service for retirement purposes.—__ 
 
->             “(A) __Prior service for purposes of eligibility for immediate retirement as member of capitol police.—__ 
+>             “(A)  __Prior service for purposes of eligibility for immediate retirement as member of capitol police__  __.—__ 
 
 >             Any Library of Congress Police employee who becomes a member of the Capitol Police under this subsection shall be entitled to have any creditable service under section 8332 or 8411 of title 5, United States Code, that was accrued prior to becoming a member of the Capitol Police included in calculating the employee’s service as a member of the Capitol Police for purposes of section 8336(m) or 8412(d) of title 5, United States Code.
 
->             “(B) __Prior service for purposes of computation of annuity.—__ 
+>             “(B)  __Prior service for purposes of computation of annuity__  __.—__ 
 
 >             Any creditable service under section 8332 or 8411 of title 5, United States Code, of an individual who becomes a member of the Capitol Police under this subsection that was accrued prior to becoming a member of the Capitol Police—
 
@@ -211,39 +211,39 @@
 
 >     “(c) __Duties of Employees Transferred to Civilian Positions.—__ 
 
->         “(1) __Duties.—__ 
+>         “(1)  __Duties__  __.—__ 
 
 >         The duties of any individual who becomes a civilian employee of the Capitol Police under this section, including a Library of Congress Police civilian employee under subsection (a)(2) and a Library of Congress Police employee who becomes a civilian employee of the Capitol Police under subsection (b)(1)(B), shall be determined solely by the Chief of the Capitol Police, except that a Library of Congress Police civilian employee under subsection (a)(2) shall continue to support Library of Congress police operations until all Library of Congress Police employees are transferred to the United States Capitol Police under this section.
 
->         “(2) __Finality of determinations.—__ 
+>         “(2)  __Finality of determinations__  __.—__ 
 
 >         Any determination of the Chief of the Capitol Police under this subsection shall not be appealable or reviewable in any manner.
 
 >     “(d) __Protecting Status of Transferred Employees.—__ 
 
->         “(1) __Nonreduction in pay, rank, or grade.—__ 
+>         “(1)  __Nonreduction in pay, rank, or grade__  __.—__ 
 
 >         The transfer of any individual under this section shall not cause that individual to be separated or reduced in basic pay, rank or grade.
 
->         “(2) __Leave and compensatory time.—__ 
+>         “(2)  __Leave and compensatory time__  __.—__ 
 
 >         Any annual leave, sick leave, or other leave, or compensatory time, to the credit of an individual transferred under this section shall be transferred to the credit of that individual as a member or an employee of the Capitol Police (as the case may be). The treatment of leave or compensatory time transferred under this section shall be governed by regulations of the Capitol Police Board.
 
->         “(3) __Prohibiting imposition of probationary period.—__ 
+>         “(3)  __Prohibiting imposition of probationary period__  __.—__ 
 
 >         The Chief of the Capitol Police may not impose a period of probation with respect to the transfer of any individual who is transferred under this section.
 
 >     “(e) __Rules of Construction Relating to Employee Representation.—__ 
 
->         “(1) __Employee representation.—__ 
+>         “(1)  __Employee representation__  __.—__ 
 
 >         Nothing in this Act \[see Short Title of 2008 Amendment note set out above\] shall be construed to authorize any labor organization that represented an individual who was a Library of Congress police employee or a Library of Congress police civilian employee before the individual’s transfer date to represent that individual as a member of the Capitol Police or an employee of the Capitol Police after the individual’s transfer date.
 
->         “(2) __Agreements not applicable.—__ 
+>         “(2)  __Agreements not applicable__  __.—__ 
 
 >         Nothing in this Act shall be construed to authorize any collective bargaining agreement (or any related court order, stipulated agreement, or agreement to the terms or conditions of employment) applicable to Library of Congress police employees or to Library of Congress police civilian employees to apply to members of the Capitol Police or to civilian employees of the Capitol Police.
 
->     “(f) __Rule of Construction Relating to Personnel Authority of the Chief of the Capitol Police.—__ 
+>     “(f)  __Rule of Construction Relating to Personnel Authority of the Chief of the Capitol Police__  __.—__ 
 
 >     Nothing in this Act shall be construed to affect the authority of the Chief of the Capitol Police to—
 
@@ -251,7 +251,7 @@
 
 >         “(2) transfer any individual serving as a member of the Capitol Police or a civilian employee of the Capitol Police to another position with the Capitol Police.
 
->     “(g) __Transfer Date Defined.—__ 
+>     “(g)  __Transfer Date Defined__  __.—__ 
 
 >     In this Act, the term ‘transfer date’ means, with respect to an employee—
 
@@ -261,7 +261,7 @@
 
 >         “(3) in the case of a Library of Congress Police civilian employee, the first day of the first pay period applicable to employees of the United States Capitol Police which begins after September 30, 2008.
 
->     “(h) __Cancellation in Portion of Unobligated Balance of FEDLINK Revolving Fund.—__ 
+>     “(h)  __Cancellation in Portion of Unobligated Balance of FEDLINK Revolving Fund__  __.—__ 
 
 >     Amounts available for obligation by the Librarian of Congress as of the date of the enactment of this Act \[Jan. 7, 2008\] from the unobligated balance in the revolving fund established under section 103 of the Library of Congress Fiscal Operations Improvement Act of 2000 ([2 U.S.C. 182c][/us/usc/t2/s182c]) for the Federal Library and Information Network program of the Library of Congress and the Federal Research program of the Library of Congress are reduced by a total of $560,000, and the amount so reduced is hereby cancelled.
 
@@ -269,7 +269,7 @@
 
 >     “(a) __Transfer and Allocations of Property and Appropriations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Effective on the transfer date of any Library of Congress Police employee and Library of Congress Police civilian employee who is transferred under this Act \[see Short Title of 2008 Amendment note set out above\]—
 
@@ -277,13 +277,13 @@
 
 >             “(B) the unexpended balances of appropriations, authorizations, allocations, and other funds employed, used, held, arising from, available to, or to be made available in connection with the employee shall be transferred to and made available under the appropriations accounts for the Capitol Police for ‘Salaries’ and ‘General Expenses’, as applicable.
 
->         “(2) __Joint review.—__ 
+>         “(2)  __Joint review__  __.—__ 
 
 >         During the transition period, the Chief of the Capitol Police and the Librarian of Congress shall conduct a joint review of the assets, liabilities, contracts, property records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, used, held, arising from, available to, or to be made available in connection with the transfer under this Act.
 
 >     “(b) __Treatment of Alleged Violations of Certain Employment Laws With Respect to Transferred Individuals.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law and except as provided in paragraph (3), in the case of an alleged violation of any covered law (as defined in paragraph (4)) which is alleged to have occurred prior to the transfer date with respect to an individual who is transferred under this Act, and for which the individual has not exhausted all of the remedies available for the consideration of the alleged violation which are provided for employees of the Library of Congress under the covered law prior to the transfer date, the following shall apply:
 
@@ -293,7 +293,7 @@
 
 >             “(C) Subject to paragraph (2), the individual may initiate and participate in any procedure which is available for the resolution of grievances of officers and employees of the Capitol Police under the Congressional Accountability Act of 1995 ([2 U.S.C. 1301][/us/usc/t2/s1301] et seq.) to provide for consideration of the alleged violation. The previous sentence does not apply in the case of an alleged violation for which the individual exhausted all of the available remedies which are provided for employees of the Library of Congress under the covered law prior to the transfer date.
 
->         “(2) __Special rules for applying congressional accountability act of 1995.—__ 
+>         “(2)  __Special rules for applying congressional accountability act of 1995__  __.—__ 
 
 >         In applying paragraph (1)(C) with respect to an individual to whom this subsection applies, for purposes of the consideration of the alleged violation under the Congressional Accountability Act of 1995—
 
@@ -303,19 +303,19 @@
 
 >             “(C) the employing office of the individual at the time of the alleged violation shall be the Capitol Police Board.
 
->         “(3) __Exception for alleged violations subject to hearing prior to transfer.—__ 
+>         “(3)  __Exception for alleged violations subject to hearing prior to transfer__  __.—__ 
 
 >         Paragraph (1) does not apply with respect to an alleged violation for which a hearing has commenced in accordance with the covered law on or before the transfer date.
 
->         “(4) __Covered law defined.—__ 
+>         “(4)  __Covered law defined__  __.—__ 
 
 >         In this subsection, a ‘covered law’ is any law for which the remedy for an alleged violation is provided for officers and employees of the Capitol Police under the Congressional Accountability Act of 1995 ([2 U.S.C. 1301][/us/usc/t2/s1301] et seq.).
 
->     “(c) __Availability of Detailees During Transition Period.—__ 
+>     “(c)  __Availability of Detailees During Transition Period__  __.—__ 
 
 >     During the transition period, the Chief of the Capitol Police may detail additional members of the Capitol Police to the Library of Congress, without reimbursement.
 
->     “(d) __Effect on Existing Memorandum of Understanding.—__ 
+>     “(d)  __Effect on Existing Memorandum of Understanding__  __.—__ 
 
 >     The Memorandum of Understanding between the Library of Congress and the Capitol Police entered into on December 12, 2004, shall remain in effect during the transition period, subject to—
 
@@ -323,7 +323,7 @@
 
 >         “(2) such modifications as may be made in accordance with the modification and dispute resolution provisions of the Memorandum of Understanding, consistent with the provisions of this Act.
 
->     “(e) __Rule of Construction Relating to Personnel Authority of the Librarian of Congress.—__ 
+>     “(e)  __Rule of Construction Relating to Personnel Authority of the Librarian of Congress__  __.—__ 
 
 >     Nothing in this Act shall be construed to affect the authority of the Librarian of Congress to—
 
@@ -355,33 +355,33 @@
 
 >     “(a) __Long Term Strategic Plan.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Chief of the United States Capitol Police, in consultation with the Comptroller General, shall develop a long term strategic plan which outlines the goals and objectives of the Capitol Police.
 
->         “(2) __Annual update.—__ 
+>         “(2)  __Annual update__  __.—__ 
 
 >         During the period in which the strategic plan developed under this subsection is in effect, the Chief shall annually update the plan.
 
->         “(3) __Period covered by plan.—__ 
+>         “(3)  __Period covered by plan__  __.—__ 
 
 >         The strategic plan under this subsection shall cover the first 5 fiscal years which begin after the plan is developed.
 
 >     “(b) __Annual Performance Plan.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         With respect to each year which is covered by the strategic plan developed under subsection (a), the Chief of the Capitol Police, in consultation with the Comptroller General, shall develop an annual performance plan for implementing the goals and objectives of the strategic plan during the year.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         The annual performance plan developed under this subsection for a year shall include performance goals for each of the goals and objectives of the strategic plan which apply during the year, and shall include (to the extent practicable) quantifiable performance measures for determining the success of the Capitol Police in meeting each such performance goal.
 
->         “(3) __Evaluation by comptroller general.—__ 
+>         “(3)  __Evaluation by comptroller general__  __.—__ 
 
 >         The Comptroller General shall annually evaluate the implementation of the plan and the extent to which the Capitol Police have met the performance goals of the plan, and shall provide the results of the evaluation to the Capitol Police Board, the Committees on Appropriations of the House of Representatives and Senate, the Committee on House Administration of the House of Representatives, and the Committee on Rules and Administration of the Senate.
 
->     “(c) __Initial Action Plan.—__ 
+>     “(c)  __Initial Action Plan__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Feb. 20, 2003\], the Chief of the Capitol Police shall develop an initial action plan describing the policies, procedures, and actions the Chief will carry out to meet the requirements of this section and setting forth a timetable for carrying out each such policy, procedure, and action, and shall submit such plan (upon the approval of the Capitol Police Board) to the Committees on Appropriations of the House of Representatives and Senate, the Committee on House Administration of the House of Representatives, and the Committee on Rules and Administration of the Senate.”
 

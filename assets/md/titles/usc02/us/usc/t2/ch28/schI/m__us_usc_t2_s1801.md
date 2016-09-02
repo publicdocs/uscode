@@ -75,11 +75,11 @@
 
 [Pub. L. 107–68, title I, § 129(d)][/us/pl/107/68/s129/d], Nov. 12, 2001, [115 Stat. 580][/us/stat/115/580], provided that:
 
->     “(1) __Study by comptroller general.—__ 
+>     “(1)  __Study by comptroller general__  __.—__ 
 
 >     Not later than November 1, 2002, the Comptroller General shall conduct a comprehensive management study of the operations of the Architect of the Capitol, and submit the study to the Architect of the Capitol and the Committees on Appropriations of the House of Representatives and Senate.
 
->     “(2) __Plan by architect in response.—__ 
+>     “(2)  __Plan by architect in response__  __.—__ 
 
 >     After the Comptroller General submits the study conducted under paragraph (1) to the Committees referred to in such paragraph, the Architect of the Capitol shall develop and submit to such Committees a management improvement plan which addresses the study and which indicates how the personnel for whom the Architect fixes the rate of basic pay under the amendment made by subsection (c)(1) \[amending [section 1849 of this title][/us/usc/t2/s1849]\] will support such plan.”
 

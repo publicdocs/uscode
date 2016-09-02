@@ -71,7 +71,7 @@
 
 > “SECTION 1. __ACQUISITION OF FACILITY IN CULPEPER, VIRGINIA.__ 
 
->     “(a) __Acquisition.—__ 
+>     “(a)  __Acquisition__  __.—__ 
 
 >     The Architect of the Capitol may acquire on behalf of the United States Government by transfer of title, without reimbursement or transfer of funds, the following property:
 
@@ -79,11 +79,11 @@
 
 >         “(2) Improvements to such real property.
 
->     “(b) __Uses.—__ 
+>     “(b)  __Uses__  __.—__ 
 
 >     Effective on the date on which the Architect of the Capitol acquires the property under subsection (a), such property shall be available to the Librarian of Congress for use as a national audiovisual conservation center.
 
->     “(c) __Transfer Payment by Architect.—__ 
+>     “(c)  __Transfer Payment by Architect__  __.—__ 
 
 >     Notwithstanding the limitation on reimbursement or transfer of funds under subsection (a) of this section, the Architect of the Capitol may, not later than 90 days after acquisition of the property under this section, transfer funds to the entity from which the property was acquired by the Architect of the Capitol. Such transfers may not exceed a total of $16,500,000.
 
@@ -101,11 +101,11 @@
 
 > “SEC. 5. __EFFECTIVE DATE.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), the provisions of this Act shall take effect on the date of the enactment of this Act \[Dec. 15, 1997\].
 
->     “(b) __Special Rule for Inclusion of Property Within Library Buildings and Grounds.—__ 
+>     “(b)  __Special Rule for Inclusion of Property Within Library Buildings and Grounds__  __.—__ 
 
 >     The amendment made by section 2 shall take effect upon the acquisition by the Architect of the Capitol of the property described in section 1.”
 

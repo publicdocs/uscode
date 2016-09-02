@@ -299,15 +299,15 @@
 
 [Pub. L. 101–508, title XIII, § 13401][/us/pl/101/508/s13401], Nov. 5, 1990, [104 Stat. 1388–628][/us/stat/104/1388-628], provided that:
 
->     “(a) __Order Rescinded.—__ 
+>     “(a)  __Order Rescinded__  __.—__ 
 
 >     Upon the enactment of this Act \[Nov. 5, 1990\], the orders issued by the President on August 25, 1990, and October 15, 1990 \[set out below\], pursuant to section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[[2 U.S.C. 902][/us/usc/t2/s902]\] are hereby rescinded.
 
->     “(b) __Amounts Restored.—__ 
+>     “(b)  __Amounts Restored__  __.—__ 
 
 >     Any action taken to implement the orders referred to in subsection (a) shall be reversed, and any sequestrable resource that has been reduced or sequestered by such orders is hereby restored, revived, or released and shall be available to the same extent and for the same purpose as if the orders had not been issued.
 
->     “(c) __Furloughed Employees.—__ 
+>     “(c)  __Furloughed Employees__  __.—__ 
 
 >         (1) Federal employees furloughed as a result of the lapse in appropriations from midnight October 5, 1990, until the enactment of House Joint Resolution 666 \[[Pub. L. 101–412][/us/pl/101/412], which was approved Oct. 9, 1990\] shall be compensated at their standard rate of compensation for the period during which there was a lapse in appropriations.
 
@@ -393,7 +393,7 @@ By the authority vested in me as President by the statutes of the United States 
 
 [Pub. L. 101–239, title XI, § 11002][/us/pl/101/239/s11002], Dec. 19, 1989, [103 Stat. 2490][/us/stat/103/2490], provided that:
 
->     “(a) __Order Rescinded.—__ 
+>     “(a)  __Order Rescinded__  __.—__ 
 
 >         (1) Upon the issuance of a new final order by the President under subsection (b)(4) \[set out below\], the order issued by the President on October 16, 1989 \[set out below\], pursuant to section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[[2 U.S.C. 902][/us/usc/t2/s902]\] is rescinded.
 
@@ -411,11 +411,11 @@ By the authority vested in me as President by the statutes of the United States 
 
 >         “(4) On the date that the Director submits a revised report to the President under paragraph (1) for fiscal year 1990, the President shall issue a new final order to make all of the reductions and cancellations specified in such report in conformity with section 252(a)(2) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[[2 U.S.C. 902(a)(2)][/us/usc/t2/s902/a/2]\]. Such order shall be deemed to have become effective on October 16, 1989.
 
->     “(c) __Compliance Report by Comptroller General.—__ 
+>     “(c)  __Compliance Report by Comptroller General__  __.—__ 
 
 >     Before the close of the thirtieth day beginning after the date the President issues a new final order under subsection (b)(4), the Comptroller General shall submit to the Congress and the President a compliance report setting forth the information required under section 253 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[[2 U.S.C. 903][/us/usc/t2/s903]\] with respect to such order.
 
->     “(d) __No Double Reduction in Medicare.—__ 
+>     “(d)  __No Double Reduction in Medicare__  __.—__ 
 
 >     With respect to items and services described in section 6001, 6101, or 6201 \[set out above\] for periods for which reductions are made pursuant to the respective sections, no reduction shall be made under subsection (b).”
 

@@ -37,11 +37,11 @@
 
 [Pub. L. 109–116, § 1][/us/pl/109/116/s1], Dec. 1, 2005, [119 Stat. 2524][/us/stat/119/2524], as amended by [Pub. L. 110–120, § 1(a)][/us/pl/110/120/s1/a], Nov. 19, 2007, [121 Stat. 1348][/us/stat/121/1348], provided that:
 
->     “(a) __Obtaining Statue.—__ 
+>     “(a)  __Obtaining Statue__  __.—__ 
 
 >     Not later than 4 years after the date of the enactment of this Act \[Dec. 1, 2005\], the Joint Committee on the Library shall enter into an agreement to obtain a statue of Rosa Parks, under such terms and conditions as the Joint Committee considers appropriate consistent with applicable law. The Joint Committee may authorize the Architect of the Capitol to enter into the agreement and related contracts required under this subsection on its behalf, under such terms and conditions as the Joint Committee may require.
 
->     “(b) __Placement.—__ 
+>     “(b)  __Placement__  __.—__ 
 
 >     The Joint Committee shall place the statue obtained under subsection (a) in the United States Capitol in a suitable permanent location in National Statuary Hall.”
 

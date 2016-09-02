@@ -93,7 +93,7 @@
 
 [Pub. L. 108–447, div. G, title I, § 1101][/us/pl/108/447/s1101], Dec. 8, 2004, [118 Stat. 3185][/us/stat/118/3185], provided that:
 
->     “(a) __Definition.—__ 
+>     “(a)  __Definition__  __.—__ 
 
 >     In this section, the term ‘appropriate congressional committees’ means—
 
@@ -103,7 +103,7 @@
 
 >         “(3) the House Office Building Commission.
 
->     “(b) __Study of Contract With a Private Entity.—__ 
+>     “(b)  __Study of Contract With a Private Entity__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Dec. 8, 2004\], the Comptroller General shall conduct a study and submit to the appropriate congressional committees and the Architect of the Capitol a report that—
 
@@ -111,7 +111,7 @@
 
 >         “(2) makes a recommendation on whether the Architect of the Capitol should enter into such a contract.
 
->     “(c) __Implementation Plan.—__ 
+>     “(c)  __Implementation Plan__  __.—__ 
 
 >     If the Comptroller General makes a recommendation under subsection (b)(2) in favor of entering into a contract, the Architect of the Capitol shall submit an implementation plan for that contract to the appropriate congressional committees not later than the later of—
 
@@ -119,11 +119,11 @@
 
 >         “(2) the date of the completion of the West Refrigeration Plant.
 
->     “(d) __Contract.—__ 
+>     “(d)  __Contract__  __.—__ 
 
 >     Subject to the approval of the appropriate congressional committees, the Architect of the Capitol shall enter into a contract with a private entity for the management and operation of the Capitol Power Plant.
 
->     “(e) __Effective Date.—__ 
+>     “(e)  __Effective Date__  __.—__ 
 
 >     This section shall apply to fiscal year 2005 and each fiscal year thereafter.”
 

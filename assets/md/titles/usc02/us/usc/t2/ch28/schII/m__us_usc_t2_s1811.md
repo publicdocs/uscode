@@ -33,11 +33,11 @@
 
 [Pub. L. 112–74, div. G, title I, § 1202][/us/pl/112/74/s1202], Dec. 23, 2011, [125 Stat. 1129][/us/stat/125/1129], provided that:
 
->     “(a) __Transfer.—__ 
+>     “(a)  __Transfer__  __.—__ 
 
 >     To the extent that the Director of the National Park Service has jurisdiction and control over any portion of the area described in subsection (b) and any monument or other facility which is located within such area, such jurisdiction and control is hereby transferred to the Architect of the Capitol as of the date of the enactment of this Act \[Dec. 23, 2011\].
 
->     “(b) __Area Described.—__ 
+>     “(b)  __Area Described__  __.—__ 
 
 >     The area described in this subsection is the property which is bounded on the north by Pennsylvania Avenue Northwest, on the east by First Street Northwest and First Street Southwest, on the south by Maryland Avenue Southwest, and on the west by Third Street Southwest and Third Street Northwest.”
 
@@ -47,11 +47,11 @@
 
 >     “(a) __Collection and Sale of Recyclable Materials.—__ 
 
->         “(1) __Establishment of program.—__ 
+>         “(1)  __Establishment of program__  __.—__ 
 
 >         The Architect of the Capitol shall establish a program for the collection and sale of recyclable materials collected from or on the Capitol buildings and grounds, in accordance with the procedures applicable under subchapter III of chapter 5 of subtitle I of title 40, United States Code\[,\] to the sale of surplus property by an executive agency.
 
->         “(2) __Exclusion of materials subject to other programs.—__ 
+>         “(2)  __Exclusion of materials subject to other programs__  __.—__ 
 
 >         The program established under this section shall not apply with respect to any materials which are subject to collection and sale under—
 
@@ -65,7 +65,7 @@
 
 >     “(b) __Revolving Fund.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There is established in the Treasury a revolving fund for the Office of the Architect of the Capitol, which shall consist of—
 
@@ -73,7 +73,7 @@
 
 >             “(B) such amounts as may be appropriated under law.
 
->         “(2) __Use of fund.—__ 
+>         “(2)  __Use of fund__  __.—__ 
 
 >         Amounts in the revolving fund established under paragraph (1) shall be available without fiscal year limitation to the Architect of the Capitol, subject to the Architect providing prior notice to the Committees on Appropriations of the House of Representatives and Senate—
 
@@ -83,7 +83,7 @@
 
 >             “(C) to carry out authorized programs and activities of the Architect to promote energy savings.
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     This section shall apply with respect to each of the fiscal years 2009 through 2013.”
 

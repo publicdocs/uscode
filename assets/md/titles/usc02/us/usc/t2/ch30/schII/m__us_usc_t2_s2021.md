@@ -33,29 +33,29 @@
 
 [Pub. L. 102–330, § 1][/us/pl/102/330/s1], Aug. 3, 1992, [106 Stat. 849][/us/stat/106/849], as amended by [Pub. L. 103–50][/us/pl/103/50], ch. XII, § 1202, July 2, 1993, [107 Stat. 267][/us/stat/107/267], provided that:
 
->     “(a) __Acquisition of Property.—__ 
+>     “(a)  __Acquisition of Property__  __.—__ 
 
 >         (1) The Architect of the Capitol, under the direction of the Senate Committee on Rules and Administration, may acquire, on behalf of the United States Government, by purchase, condemnation, transfer or otherwise, as an addition to the United States Capitol Grounds, such real property in the District of Columbia as may be necessary to carry out the provisions of this Act \[this note\]. Real property acquired for purposes of this Act, may, in the discretion of the Architect of the Capitol, extend to the outer face of the curbs of such property so acquired, including alleys or parts of alleys and streets within the lot lines and curblines surrounding such real property, together with any or all improvements thereon.
 
 >         “(2) Subject to the approval by the Committee on Appropriations of the Senate, an amount necessary to enable the Architect of the Capitol to carry out the provisions of this section may be transferred from any appropriation under the heading ‘senate’ and the subheadings ‘Salaries, Officers and Employees’, and ‘Office of the Sergeant at Arms and Doorkeeper’, and the subheadings ‘Contingent Expenses of the Senate’ and ‘Sergeant at Arms and Doorkeeper of the Senate’ to the account appropriated under the heading ‘architect of the capitol’ and the subheadings ‘Capitol Buildings and Grounds’ and ‘Senate Office Buildings’.
 
->     “(b) __United States Capitol Grounds and Buildings.—__ 
+>     “(b)  __United States Capitol Grounds and Buildings__  __.—__ 
 
 >     Immediately upon the acquisition by the Architect of the Capitol, on behalf of the United States, of the real property, and the improvements thereon, as provided under subsection (a), the real property acquired shall be a part of the United States Capitol Grounds, and the improvements on such real property shall be a part of the Senate Office Buildings. Such real property and improvements shall be subject to the Act of July 31, 1946 ([40 U.S.C. 193a][/us/usc/t40/s193a] et seq.) \[[2 U.S.C. 1922][/us/usc/t2/s1922], 1961, 1966, 1967, 1969; [40 U.S.C. 5101][/us/usc/t40/s5101] to 5107, 5109\], and the Act of June 8, 1942 ([40 U.S.C. 174c][/us/usc/t40/s174c]) \[[2 U.S.C. 2023][/us/usc/t2/s2023], 2024\].
 
->     “(c) __Building Codes.—__ 
+>     “(c)  __Building Codes__  __.—__ 
 
 >     The real property and improvements acquired in accordance with subsection (a) shall be repaired and altered, to the maximum extent feasible as determined by the Architect of the Capitol, in accordance with a nationally recognized model building code, and other applicable nationally recognized codes (including electrical codes, fire and life safety codes, and plumbing codes, as determined by the Architect of the Capitol), using the most current edition of the nationally recognized codes referred to in this subsection.
 
->     “(d) __Repairs; Expenditures.—__ 
+>     “(d)  __Repairs; Expenditures__  __.—__ 
 
 >     The Architect of the Capitol is authorized, without regard to the provisions of section 3709 of the Revised Statutes of the United States \[see [41 U.S.C. 6101][/us/usc/t41/s6101]\], to enter into contracts and to make expenditures for (1) necessary repairs to, and refurbishment of, the real property and the improvements on such real property acquired in accordance with subsection (a), including expenditures for personal and other services as may be necessary to carry out the purposes of this Act; and (2) for the construction on such real property of any facilities thereon as authorized under subsection (f). In no event shall the aggregate value of contracts and expenditures under this subsection exceed an amount equal to that authorized to be appropriated pursuant to subsection (e).
 
->     “(e) __Authorization.—__ 
+>     “(e)  __Authorization__  __.—__ 
 
 >     There is authorized to be appropriated to the account under the heading ‘Architect of the Capitol’ and the subheadings ‘Capitol Buildings and Grounds’ and ‘Senate Office Buildings’, $2,000,000 for carrying out the purposes of this Act. Moneys appropriated pursuant to this authorization may remain available until expended.
 
->     “(f) __Use of Property.—__ 
+>     “(f)  __Use of Property__  __.—__ 
 
 >     The real property, and improvements thereon, acquired in accordance with subsection (a) shall be available to the Sergeant at Arms and Doorkeeper of the Senate for use as a residential facility for United States Senate Pages, and for such other purposes as the Senate Committee on Rules and Administration may provide.”
 
@@ -63,11 +63,11 @@
 
 [Pub. L. 111–310, § 1][/us/pl/111/310/s1], Dec. 15, 2010, [124 Stat. 3293][/us/stat/124/3293], provided that:
 
->     “(a) __Designation.—__ 
+>     “(a)  __Designation__  __.—__ 
 
 >     The facility of the United States Postal Service located at 2 Massachusetts Avenue, NE, in Washington, D.C., shall be known and designated as the ‘Dorothy I. Height Post Office’.
 
->     “(b) __References.—__ 
+>     “(b)  __References__  __.—__ 
 
 >     Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the ‘Dorothy I. Height Post Office’.”
 

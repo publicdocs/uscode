@@ -349,7 +349,7 @@
 
 [Pub. L. 109–59, title VIII, § 8003][/us/pl/109/59/s8003], Aug. 10, 2005, [119 Stat. 1917][/us/stat/119/1917], as amended by [Pub. L. 111–147, title IV, § 446(a)][/us/pl/111/147/s446/a], (b), Mar. 18, 2010, [124 Stat. 95][/us/stat/124/95], 96; [Pub. L. 111–322, title II, § 2308][/us/pl/111/322/s2308], Dec. 22, 2010, [124 Stat. 3530][/us/stat/124/3530]; [Pub. L. 112–5, title III, § 308][/us/pl/112/5/s308], Mar. 4, 2011, [125 Stat. 21][/us/stat/125/21], provided that:
 
->     “(a) __Highway Category.—__ 
+>     “(a)  __Highway Category__  __.—__ 
 
 >     For the purposes of \[former\] section 251(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[former [2 U.S.C. 901(b)][/us/usc/t2/s901/b]\], the level of obligation limitations for the highway category is—
 
@@ -367,7 +367,7 @@
 
 >         “(7) for fiscal year 2011, $42,469,970,178.
 
->     “(b) __Mass Transit Category.—__ 
+>     “(b)  __Mass Transit Category__  __.—__ 
 
 >     For the purposes of section 251(b) of the Balanced Budget and Emergency Deficit Control Act of 1985, the level of obligation limitations for the mass transit category is—
 

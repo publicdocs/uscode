@@ -29,7 +29,7 @@
 
         (2) Whenever a conference report is filed in either House and such conference report or any amendment reported in disagreement or any amendment contained in the joint statement of managers to be proposed by the conferees in the case of technical disagreement on such bill or joint resolution provides new budget authority (other than continuing appropriations) or provides an increase or decrease in revenues for a fiscal year (or fiscal years), the statement of managers accompanying such conference report shall contain the information described in paragraph (1), if available on a timely basis. If such information is not available when the conference report is filed, the committee shall make such information available to Members as soon as practicable prior to the consideration of such conference report.
 
-        (3) __CBO paygo estimates.—__ 
+        (3) __CBO__  __paygo__  __estimates.—__ 
 
             (A) The Chairs of the Committees on the Budget of the House and Senate, as applicable, shall request from the Director of the Congressional Budget Office an estimate of the budgetary effects of PAYGO legislation.
 

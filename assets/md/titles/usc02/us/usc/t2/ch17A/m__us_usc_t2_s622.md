@@ -21,7 +21,7 @@
 
     (2) __Budget authority and new budget authority.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The term “budget authority” means the authority provided by Federal law to incur financial obligations, as follows:
 
@@ -33,11 +33,11 @@
 
             (iv) offsetting receipts and collections as negative budget authority, and the reduction thereof as positive budget authority.
 
-        (B) __Limitations on budget authority.—__ 
+        (B)  __Limitations on budget authority__  __.—__ 
 
         With respect to the Federal Hospital Insurance Trust Fund, the Supplementary Medical Insurance Trust Fund, the Unemployment Trust Fund, and the railroad retirement account, any amount that is precluded from obligation in a fiscal year by a provision of law (such as a limitation or a benefit formula) shall not be budget authority in that year.
 
-        (C) __New budget authority.—__ 
+        (C)  __New budget authority__  __.—__ 
 
         The term “new budget authority” means, with respect to a fiscal year—
 

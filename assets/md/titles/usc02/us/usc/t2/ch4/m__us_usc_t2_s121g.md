@@ -33,6 +33,10 @@
 
 ([Pub. L. 108–199, div. H, § 151][/us/pl/108/199/s151], Jan. 23, 2004, [118 Stat. 448][/us/stat/118/448].)
 
+ __Codification__ 
+
+    Section is from the Miscellaneous Appropriations and Offsets Act, 2004, which is division H of the Consolidated Appropriations Act, 2004.
+
 ----------
 
 [Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s121f.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s122.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs121g)

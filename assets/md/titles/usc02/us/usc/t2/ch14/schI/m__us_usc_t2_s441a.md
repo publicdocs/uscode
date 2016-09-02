@@ -159,7 +159,7 @@
 
         (4) __Independent versus coordinated expenditures by party.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             On or after the date on which a political party nominates a candidate, no committee of the political party may make—
 
@@ -167,11 +167,11 @@
 
                 (ii) any independent expenditure (as defined in [section 431(17) of this title][/us/usc/t2/s431/17]) with respect to the candidate during the election cycle at any time after it makes any coordinated expenditure under this subsection with respect to the candidate during the election cycle.
 
-            (B) __Application.—__ 
+            (B)  __Application__  __.—__ 
 
             For purposes of this paragraph, all political committees established and maintained by a national political party (including all congressional campaign committees) and all political committees established and maintained by a State political party (including any subordinate committee of a State committee) shall be considered to be a single political committee.
 
-            (C) __Transfers.—__ 
+            (C)  __Transfers__  __.—__ 
 
             A committee of a political party that makes coordinated expenditures under this subsection with respect to a candidate shall not, during an election cycle, transfer any funds to, assign authority to make coordinated expenditures under this subsection to, or receive a transfer of funds from, a committee of the political party that has made or intends to make an independent expenditure with respect to the candidate.
 

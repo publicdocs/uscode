@@ -65,7 +65,7 @@
 
 [Pub. L. 101–508, title XIII, § 13501][/us/pl/101/508/s13501], Nov. 5, 1990, [104 Stat. 1388–628][/us/stat/104/1388-628], provided that:
 
->     “(a) __Definition.—__ 
+>     “(a)  __Definition__  __.—__ 
 
 >     For purposes of this section, the terms ‘Government-sponsored enterprise’ and ‘GSE’ mean the Farm Credit System (including the Farm Credit Banks, Banks for Cooperatives, and Federal Agricultural Mortgage Corporation), the Federal Home Loan Bank System, the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, and the Student Loan Marketing Association.
 
@@ -109,13 +109,13 @@
 
 >         “(4) The Congressional Budget Office shall be exempt from section 203 of the Congressional Budget Act of 1974 \[[2 U.S.C. 603][/us/usc/t2/s603]\] with respect to any book, record, or information made available under this subsection and determined by the Director to be confidential under paragraph (1).
 
->     “(f) __Requirement to Report Legislation.—__ 
+>     “(f)  __Requirement to Report Legislation__  __.—__ 
 
 >         (1) The committees of jurisdiction in the House shall prepare and report to the House no later than September 15, 1991, legislation to ensure the financial soundness of GSEs and to minimize the possibility that a GSE might require future assistance from the Government.
 
 >         “(2) It is the sense of the Senate that the committees of jurisdiction in the Senate shall prepare and report to the Senate no later than September 15, 1991, legislation to ensure the financial safety and soundness of GSEs and to minimize the possibility that a GSE might require future assistance from the Government.
 
->     “(f) __\[sic\] President’s Budget.—__ 
+>     “(f) __\[sic\]__  __President’s Budget__  __.—__ 
 
 >     The President’s annual budget submission shall include an analysis of the financial condition of the GSEs and the financial exposure of the Government, if any, posed by GSEs.”
 
@@ -147,29 +147,29 @@
 
 >     “(c) __Waivers.—__ 
 
->         “(1) __Permanent.—__ 
+>         “(1)  __Permanent__  __.—__ 
 
 >         Sections 305(b)(2), 305(c)(4), 306, 310(d)(2), 313, 904(c), and 904(d) of this Act \[sections 636(b)(2), (c)(4), 637, 641(d)(2), and 644 of this title and subsecs. (c) and (d) of this note\] may be waived or suspended in the Senate only by the affirmative vote of three-fifths of the Members, duly chosen and sworn.
 
->         “(2) __Temporary.—__ 
+>         “(2)  __Temporary__  __.—__ 
 
 >         Sections 301(i), 302(c), 302(f), 310(g), 311(a), 312(b), 312(c), and 314(e) of this Act \[sections 632(i), 633(c), (f), 641(g), 642(a), 643(b), (c), and 645(e) of this title\] and sections 258(a)(4)(C), 258A(b)(3)(C)(I) \[(i)\], 258B(f)(1), 258B(h)(1), 258(h)(3) \[258B(h)(3)\], 258C(a)(5), and 258C(b)(1) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[sections 907a(a)(4)(C), 907b(b)(3)(C)(i), 907c(f)(1), (h)(1), (3), and 907d(a)(5), (b)(1) of this title\] may be waived or suspended in the Senate only by the affirmative vote of three-fifths of the Members, duly chosen and sworn.
 
 >     “(d) __Appeals.—__ 
 
->         “(1) __Procedure.—__ 
+>         “(1)  __Procedure__  __.—__ 
 
 >         Appeals in the Senate from the decisions of the Chair relating to any provision of title III or IV \[enacting subchapters I and II of this chapter\] or section 1017 \[[section 688 of this title][/us/usc/t2/s688]\] shall, except as otherwise provided therein, be limited to 1 hour, to be equally divided between, and controlled by, the mover and the manager of the resolution, concurrent resolution, reconciliation bill, or rescission bill, as the case may be.
 
->         “(2) __Permanent.—__ 
+>         “(2)  __Permanent__  __.—__ 
 
 >         An affirmative vote of three-fifths of the Members, duly chosen and sworn, shall be required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under sections 305(b)(2), 305(c)(4), 306, 310(d)(2), 313, 904(c), and 904(d) of this Act \[sections 636(b)(2), (c)(4), 637, 641(d)(2), 644 of this title and subsecs. (c) and (d) of this note\].
 
->         “(3) __Temporary.—__ 
+>         “(3)  __Temporary__  __.—__ 
 
 >         An affirmative vote of three-fifths of the Members, duly chosen and sworn, shall be required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under sections 301(i), 302(c), 302(f), 310(g), 311(a), 312(b), and 312(c) of this Act and sections 258(a)(4)(C), 258A(b)(3)(C)(I) \[(i)\], 258B(f)(1), 258B(h)(1), 258(h)(3) \[258B(h)(3)\], 258C(a)(5), and 258C(b)(1) of the Balanced Budget and Emergency Deficit Control Act of 1985.
 
->     “(e) __Expiration of Certain Supermajority Voting Requirements.—__ 
+>     “(e)  __Expiration of Certain Supermajority Voting Requirements__  __.—__ 
 
 >     Subsections (c)(2) and (d)(3) shall expire on September 30, 2002.”
 

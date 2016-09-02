@@ -207,7 +207,7 @@
 
 > “SECTION 1. __REFERENCES IN LAW TO COMMITTEES OF THE HOUSE OF REPRESENTATIVES.__ 
 
->     “(a) __References to Committees With New Names.—__ 
+>     “(a)  __References to Committees With New Names__  __.—__ 
 
 >     Except as provided in subsection (c), any reference in any provision of law enacted before January 4, 1995, to—
 
@@ -231,7 +231,7 @@
 
 >         “(10) the Committee on Science, Space, and Technology of the House of Representatives shall be treated as referring to the Committee on Science of the House of Representatives \[Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007; Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011\].
 
->     “(b) __References to Abolished Committees.—__ 
+>     “(b)  __References to Abolished Committees__  __.—__ 
 
 >     Any reference in any provision of law enacted before January 4, 1995, to—
 
@@ -253,7 +253,7 @@
 
 >             “(E) the Committee on Transportation and Infrastructure of the House of Representatives, in the case of a provision of law relating to a matter other than a matter described in any of subparagraphs (A) through (D).
 
->     “(c) __References to Committees With Jurisdiction Changes.—__ 
+>     “(c)  __References to Committees With Jurisdiction Changes__  __.—__ 
 
 >     Any reference in any provision of law enacted before January 4, 1995, to—
 

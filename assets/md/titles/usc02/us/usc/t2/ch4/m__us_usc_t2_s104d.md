@@ -33,11 +33,11 @@
 
 [Pub. L. 110–81, title I, § 105(c)][/us/pl/110/81/s105/c], Sept. 14, 2007, [121 Stat. 741][/us/stat/121/741], provided that:
 
->     “(1) __Notification of post-employment restrictions.—__ 
+>     “(1)  __Notification of post-employment restrictions__  __.—__ 
 
 >     Subsection (a) of section 103 \[[2 U.S.C. 104d(a)][/us/usc/t2/s104d/a]\] shall take effect on the 60th day after the date of the enactment of this Act \[Sept. 14, 2007\].
 
->     “(2) __Posting of information.—__ 
+>     “(2)  __Posting of information__  __.—__ 
 
 >     Subsection (b) of section 103 \[[2 U.S.C. 104d(b)][/us/usc/t2/s104d/b]\] shall take effect January 1, 2008, except that the Secretary of the Senate and the Clerk of the House of Representatives shall post the information contained in notifications required by that subsection that are made on or after the effective date provided under paragraph (1) of this subsection.”
 

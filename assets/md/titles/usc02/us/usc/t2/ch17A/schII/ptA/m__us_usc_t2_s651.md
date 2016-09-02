@@ -29,7 +29,7 @@
 
     (b) __Legislation providing new entitlement authority__ 
 
-        (1) __Point of order.—__ 
+        (1)  __Point of order__  __.—__ 
 
         It shall not be in order in either the House of Representatives or the Senate to consider any bill or joint resolution (in the House of Representatives only, as reported), amendment, motion, or conference report that provides new entitlement authority that is to become effective during the current fiscal year.
 

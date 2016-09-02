@@ -719,29 +719,29 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 
 [Pub. L. 108–83, title I, § 10][/us/pl/108/83/s10], Sept. 30, 2003, [117 Stat. 1014][/us/stat/117/1014], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Under the authority of section 105(d)(2) of the Legislative Branch Appropriations \[Appropriation\] Act, 1968 ([2 U.S.C. 61–1(d)(2)][/us/usc/t2/s61–1/d/2]), a Senator from a noncontiguous State may pay a high cost of living allowance to any employee employed in an office of the Senator located in that State.
 
->     “(b) __Limitation.—__ 
+>     “(b)  __Limitation__  __.—__ 
 
 >     An allowance under this section may not exceed 25 percent of the basic pay of an employee, determined without regard to this section.
 
->     “(c) __Basic Pay Treatment.—__ 
+>     “(c)  __Basic Pay Treatment__  __.—__ 
 
 >     An allowance under this section shall be treated as part of the basic pay of an employee.
 
 >     “(d) __Payment.—__ 
 
->         “(1) __Aggregate gross compensation.—__ 
+>         “(1)  __Aggregate gross compensation__  __.—__ 
 
 >         The amount of any allowance under this section shall not be taken into account for determining the amount of aggregate gross compensation in the table under section 105(d)(1)(A) of the Legislative Branch Appropriations \[Appropriation\] Act, 1968 ([2 U.S.C. 61–1(d)(1)(A)][/us/usc/t2/s61–1/d/1/A]).
 
->         “(2) __Appropriations.—__ 
+>         “(2)  __Appropriations__  __.—__ 
 
 >         Allowances under this section shall be paid from appropriations under the heading ‘senators’ official personnel and office expense account’.
 
->     “(e) __Effective Date.—__ 
+>     “(e)  __Effective Date__  __.—__ 
 
 >     This section shall apply with respect to fiscal year 2004 and each fiscal year thereafter.”
 

@@ -37,6 +37,10 @@
 
 ([Pub. L. 109–55, title I, § 1306][/us/pl/109/55/s1306], Aug. 2, 2005, [119 Stat. 583][/us/stat/119/583].)
 
+ __Codification__ 
+
+    Section is from the Legislative Branch Appropriations Act, 2006.
+
 ----------
 
 [Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s183a.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s185.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs184)
