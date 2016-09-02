@@ -35,29 +35,29 @@
 
         An individual who, as a part of an individualized plan for employment under a State plan approved under this chapter, participates in a program of unpaid work experience in a Federal agency, shall not, by reason thereof, be considered to be a Federal employee or to be subject to the provisions of law relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits.
 
-    (f) __Federal agency cooperation; special consideration for positions on President’s Committee on Employment of People With Disabilities__ 
-
-        (1) The Secretary of Labor and the Secretary of Education are authorized and directed to cooperate with the President’s Committee on Employment of People With Disabilities in carrying out its functions.
-
-        (2) In selecting personnel to fill all positions on the President’s Committee on Employment of People With Disabilities, special consideration shall be given to qualified individuals with disabilities.
-
-    (g) __Standards used in determining violation of section__ 
+    (f) __Standards used in determining violation of section__ 
 
         The standards used to determine whether this section has been violated in a complaint alleging nonaffirmative action employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12111][/us/usc/t42/s12111] et seq.) and the provisions of sections 501 through 504, and 510, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12201–122][/us/usc/t42/s12201–122]04 and 12210), as such sections relate to employment.
 
-([Pub. L. 93–112, title V, § 501][/us/pl/93/112/s501], Sept. 26, 1973, [87 Stat. 390][/us/stat/87/390]; [Pub. L. 98–221, title I, § 104(b)(3)][/us/pl/98/221/s104/b/3], Feb. 22, 1984, [98 Stat. 18][/us/stat/98/18]; [Pub. L. 99–506, title I, § 103(d)(2)(C)][/us/pl/99/506/s103/d/2/C], title X, §§ 1001(f)(1), 1002(e)(1), (2)(A), Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1843, 1844; [Pub. L. 100–630, title II, § 206(a)][/us/pl/100/630/s206/a], Nov. 7, 1988, [102 Stat. 3310][/us/stat/102/3310]; [Pub. L. 102–54, § 13(k)(1)(B)][/us/pl/102/54/s13/k/1/B], June 13, 1991, [105 Stat. 276][/us/stat/105/276]; [Pub. L. 102–569, title I, § 102(p)(29)][/us/pl/102/569/s102/p/29], title V, § 503, Oct. 29, 1992, [106 Stat. 4360][/us/stat/106/4360], 4424; [Pub. L. 103–73, title I, § 112(a)][/us/pl/103/73/s112/a], Aug. 11, 1993, [107 Stat. 727][/us/stat/107/727]; [Pub. L. 105–220, title III, § 341(c)][/us/pl/105/220/s341/c], title IV, § 408(a)(1), Aug. 7, 1998, [112 Stat. 1092][/us/stat/112/1092], 1202; [Pub. L. 109–435, title VI, § 604(d)][/us/pl/109/435/s604/d], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242]; [Pub. L. 111–256, § 2(d)(3)][/us/pl/111/256/s2/d/3], Oct. 5, 2010, [124 Stat. 2643][/us/stat/124/2643].)
+([Pub. L. 93–112, title V, § 501][/us/pl/93/112/s501], Sept. 26, 1973, [87 Stat. 390][/us/stat/87/390]; [Pub. L. 98–221, title I, § 104(b)(3)][/us/pl/98/221/s104/b/3], Feb. 22, 1984, [98 Stat. 18][/us/stat/98/18]; [Pub. L. 99–506, title I, § 103(d)(2)(C)][/us/pl/99/506/s103/d/2/C], title X, §§ 1001(f)(1), 1002(e)(1), (2)(A), Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1843, 1844; [Pub. L. 100–630, title II, § 206(a)][/us/pl/100/630/s206/a], Nov. 7, 1988, [102 Stat. 3310][/us/stat/102/3310]; [Pub. L. 102–54, § 13(k)(1)(B)][/us/pl/102/54/s13/k/1/B], June 13, 1991, [105 Stat. 276][/us/stat/105/276]; [Pub. L. 102–569, title I, § 102(p)(29)][/us/pl/102/569/s102/p/29], title V, § 503, Oct. 29, 1992, [106 Stat. 4360][/us/stat/106/4360], 4424; [Pub. L. 103–73, title I, § 112(a)][/us/pl/103/73/s112/a], Aug. 11, 1993, [107 Stat. 727][/us/stat/107/727]; [Pub. L. 105–220, title III, § 341(c)][/us/pl/105/220/s341/c], title IV, § 408(a)(1), Aug. 7, 1998, [112 Stat. 1092][/us/stat/112/1092], 1202; [Pub. L. 109–435, title VI, § 604(d)][/us/pl/109/435/s604/d], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242]; [Pub. L. 111–256, § 2(d)(3)][/us/pl/111/256/s2/d/3], Oct. 5, 2010, [124 Stat. 2643][/us/stat/124/2643]; [Pub. L. 113–128, title IV, § 456(a)][/us/pl/113/128/s456/a], July 22, 2014, [128 Stat. 1675][/us/stat/128/1675].)
 
  __References in Text__ 
 
     Level IV of the Executive Schedule, referred to in subsec. (a), is set out in [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees.
 
-    The Americans with Disabilities Act of 1990, referred to in subsec. (g), is [Pub. L. 101–336][/us/pl/101/336], July 26, 1990, [104 Stat. 327][/us/stat/104/327]. Title I of the Act is classified generally to subchapter I (§ 12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. Section 510 of the Act was renumbered section 511 by [Pub. L. 110–325, § 6(a)(2)][/us/pl/110/325/s6/a/2], Sept. 25, 2008, [122 Stat. 3558][/us/stat/122/3558]. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42][/us/usc/t42/s12101] and Tables.
+    The Americans with Disabilities Act of 1990, referred to in subsec. (f), is [Pub. L. 101–336][/us/pl/101/336], July 26, 1990, [104 Stat. 327][/us/stat/104/327]. Title I of the Act is classified generally to subchapter I (§ 12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. Section 510 of the Act was renumbered section 511 by [Pub. L. 110–325, § 6(a)(2)][/us/pl/110/325/s6/a/2], Sept. 25, 2008, [122 Stat. 3558][/us/stat/122/3558]. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42][/us/usc/t42/s12101] and Tables.
 
  __Prior Provisions__ 
 
     Prior similar provisions were set out in [section 38 of this title][/us/usc/t29/s38].
 
  __Amendments__ 
+
+    2014—Subsecs. (f), (g). [Pub. L. 113–128][/us/pl/113/128] redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows:
+
+    “(1) The Secretary of Labor and the Secretary of Education are authorized and directed to cooperate with the President’s Committee on Employment of People With Disabilities in carrying out its functions.
+
+    “(2) In selecting personnel to fill all positions on the President’s Committee on Employment of People With Disabilities, special consideration shall be given to qualified individuals with disabilities.”
 
     2010—Subsec. (a). [Pub. L. 111–256][/us/pl/111/256] substituted “President’s Disability Employment Partnership Board and the President’s Committee for People with Intellectual Disabilities” for “President’s Committees on Employment of People With Disabilities and on Mental Retardation”.
 
@@ -340,6 +340,8 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/120/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3242
 [/us/pl/111/256/s2/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2%2Fd%2F3
 [/us/stat/124/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2643
+[/us/pl/113/128/s456/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs456%2Fa
+[/us/stat/128/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1675
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
@@ -347,6 +349,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/122/3558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3558
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/usc/t29/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs38
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/111/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256
 [/us/pl/109/435/s604/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Fd
 [/us/pl/105/220/s408/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs408%2Fa%2F1%2FA

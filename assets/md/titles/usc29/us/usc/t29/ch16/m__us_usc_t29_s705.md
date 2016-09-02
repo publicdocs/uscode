@@ -79,27 +79,35 @@
 
                 (II) such information as can be provided by the individual and, where appropriate, by the family of the individual;
 
-            (iii) may include, to the degree needed to make such a determination, an assessment of the personality, interests, interpersonal skills, intelligence and related functional capacities, educational achievements, work experience, vocational aptitudes, personal and social adjustments, and employment opportunities of the individual, and the medical, psychiatric, psychological, and other pertinent vocational, educational, cultural, social, recreational, and environmental factors, that affect the employment and rehabilitation needs of the individual; and
+            (iii) may include, to the degree needed to make such a determination, an assessment of the personality, interests, interpersonal skills, intelligence and related functional capacities, educational achievements, work experience, vocational aptitudes, personal and social adjustments, and employment opportunities of the individual, and the medical, psychiatric, psychological, and other pertinent vocational, educational, cultural, social, recreational, and environmental factors, that affect the employment and rehabilitation needs of the individual;
 
-            (iv) may include, to the degree needed, an appraisal of the patterns of work behavior of the individual and services needed for the individual to acquire occupational skills, and to develop work attitudes, work habits, work tolerance, and social and behavior patterns necessary for successful job performance, including the utilization of work in real job situations to assess and develop the capacities of the individual to perform adequately in a work environment;
+            (iv) may include, to the degree needed, an appraisal of the patterns of work behavior of the individual and services needed for the individual to acquire occupational skills, and to develop work attitudes, work habits, work tolerance, and social and behavior patterns necessary for successful job performance, including the utilization of work in real job situations to assess and develop the capacities of the individual to perform adequately in a work environment; and
+
+            (v) to the maximum extent possible, relies on information obtained from experiences in integrated employment settings in the community, and other integrated community settings;
 
         (C) referral, for the provision of rehabilitation technology services to the individual, to assess and develop the capacities of the individual to perform in a work environment; and
 
         (D) an exploration of the individual’s abilities, capabilities, and capacity to perform in work situations, which shall be assessed periodically during trial work experiences, including experiences in which the individual is provided appropriate supports and training.
 
-    (3) __Assistive technology device__ 
+    (3) __Assistive technology terms__ 
 
-        The term “assistive technology device” has the meaning given such term in [section 3002 of this title][/us/usc/t29/s3002], except that the reference in such section to the term “individuals with disabilities” shall be deemed to mean more than one individual with a disability as defined in paragraph (20)(A).
+        (A) __Assistive technology__ 
 
-    (4) __Assistive technology service__ 
+            The term “assistive technology” has the meaning given such term in [section 3002 of this title][/us/usc/t29/s3002].
 
-    The term “assistive technology service” has the meaning given such term in [section 3002 of this title][/us/usc/t29/s3002], except that the reference in such section—
+        (B) __Assistive technology device__ 
 
-        (A) to the term “individual with a disability” shall be deemed to mean an individual with a disability, as defined in paragraph (20)(A); and
+            The term “assistive technology device” has the meaning given such term in [section 3002 of this title][/us/usc/t29/s3002], except that the reference in such section to the term “individuals with disabilities” shall be deemed to mean more than 1 individual with a disability as defined in paragraph (20)(A)). <sup>\[1\]</sup>  <sup><sup> 1 So in original. The second closing parenthesis probably should not appear. </sup></sup> 
 
-        (B) to the term “individuals with disabilities” shall be deemed to mean more than one such individual.
+        (C) __Assistive technology service__ 
 
-    (5) __Community rehabilitation program__ 
+        The term “assistive technology service” has the meaning given such term in [section 3002 of this title][/us/usc/t29/s3002], except that the reference in such section—
+
+            (i) to the term “individual with a disability” shall be deemed to mean an individual with a disability, as defined in paragraph (20)(A); and
+
+            (ii) to the term “individuals with disabilities” shall be deemed to mean more than 1 such individual.
+
+    (4) __Community rehabilitation program__ 
 
     The term “community rehabilitation program” means a program that provides directly or facilitates the provision of vocational rehabilitation services to individuals with disabilities, and that provides, singly or in combination, for an individual with a disability to enable the individual to maximize opportunities for employment, including career advancement—
 
@@ -131,11 +139,39 @@
 
         (N) supported employment services and extended services;
 
-        (O) services to family members when necessary to the vocational rehabilitation of the individual;
+        (O) customized employment;
 
-        (P) personal assistance services; or
+        (P) services to family members when necessary to the vocational rehabilitation of the individual;
 
-        (Q) services similar to the services described in one of subparagraphs (A) through (P).
+        (Q) personal assistance services; or
+
+        (R) services similar to the services described in one of subparagraphs (A) through (Q).
+
+    (5) __Competitive integrated employment__ 
+
+    The term “competitive integrated employment” means work that is performed on a full-time or part-time basis (including self-employment)—
+
+        (A)
+
+         for which an individual—
+
+            (i)
+
+             is compensated at a rate that—
+
+                (I)
+
+                    (aa) shall be not less than the higher of the rate specified in [section 206(a)(1) of this title][/us/usc/t29/s206/a/1] or the rate specified in the applicable State or local minimum wage law; and
+
+                    (bb) is not less than the customary rate paid by the employer for the same or similar work performed by other employees who are not individuals with disabilities, and who are similarly situated in similar occupations by the same employer and who have similar training, experience, and skills; or
+
+                (II) in the case of an individual who is self-employed, yields an income that is comparable to the income received by other individuals who are not individuals with disabilities, and who are self-employed in similar occupations or on similar tasks and who have similar training, experience, and skills; and
+
+            (ii) is eligible for the level of benefits provided to other employees;
+
+        (B) that is at a location where the employee interacts with other persons who are not individuals with disabilities (not including supervisory personnel or individuals who are providing services to such employee) to the same extent that individuals who are not individuals with disabilities and who are in comparable positions interact with other persons; and
+
+        (C) that, as appropriate, presents opportunities for advancement that are similar to those for other employees who are not individuals with disabilities and who have similar positions.
 
     (6) __Construction; cost of construction__ 
 
@@ -153,7 +189,23 @@
 
             The term “cost of construction” includes architects’ fees and the cost of acquisition of land in connection with construction but does not include the cost of offsite improvements.
 
-    (7) __Repealed.__  __[__  __Pub. L. 105–277, div. A, § 101(f)__  __][/us/pl/105/277/s101/f]__  __\[title VIII, § 402(c)(1)(B)\],__  __Oct. 21, 1998__  __,__  __[__  __112 Stat. 2681–337__  __][/us/stat/112/2681-337]__  __, 2681–415__ 
+    (7) __Customized employment__ 
+
+    The term “customized employment” means competitive integrated employment, for an individual with a significant disability, that is based on an individualized determination of the strengths, needs, and interests of the individual with a significant disability, is designed to meet the specific abilities of the individual with a significant disability and the business needs of the employer, and is carried out through flexible strategies, such as—
+
+        (A) job exploration by the individual;
+
+        (B)
+
+         working with an employer to facilitate placement, including—
+
+            (i) customizing a job description based on current employer needs or on previously unidentified and unmet employer needs;
+
+            (ii) developing a set of job duties, a work schedule and job arrangement, and specifics of supervision (including performance evaluation and review), and determining a job location;
+
+            (iii) representation by a professional chosen by the individual, or self-representation of the individual, in working with an employer to facilitate placement; and
+
+            (iv) providing services and supports at the job location.
 
     (8) __Designated State agency; designated State unit__ 
 
@@ -195,13 +247,13 @@
 
         (B) satisfying the vocational outcome of supported employment; or
 
-        (C) satisfying any other vocational outcome the Secretary may determine to be appropriate (including satisfying the vocational outcome of self-employment, telecommuting, or business ownership),
+        (C) satisfying any other vocational outcome the Secretary of Education may determine to be appropriate (including satisfying the vocational outcome of customized employment, self-employment, telecommuting, or business ownership),
 
         in a manner consistent with this chapter.
 
     (12) __Establishment of a community rehabilitation program__ 
 
-        The term “establishment of a community rehabilitation program” includes the acquisition, expansion, remodeling, or alteration of existing buildings necessary to adapt them to community rehabilitation program purposes or to increase their effectiveness for such purposes (subject, however, to such limitations as the Secretary may determine, in accordance with regulations the Secretary shall prescribe, in order to prevent impairment of the objectives of, or duplication of, other Federal laws providing Federal assistance in the construction of facilities for community rehabilitation programs), and may include such additional equipment and staffing as the Commissioner considers appropriate.
+        The term “establishment of a community rehabilitation program” includes the acquisition, expansion, remodeling, or alteration of existing buildings necessary to adapt them to community rehabilitation program purposes or to increase their effectiveness for such purposes (subject, however, to such limitations as the Secretary of Education may determine, in accordance with regulations the Secretary of Education shall prescribe, in order to prevent impairment of the objectives of, or duplication of, other Federal laws providing Federal assistance in the construction of facilities for community rehabilitation programs), and may include such additional equipment and staffing as the Commissioner considers appropriate.
 
     (13) __Extended services__ 
 
@@ -225,7 +277,7 @@
 
         (C) __Relationship to expenditures by a political subdivision__ 
 
-            For the purpose of determining the non-Federal share with respect to a State, expenditures by a political subdivision thereof or by a local agency shall be regarded as expenditures by such State, subject to such limitations and conditions as the Secretary shall by regulation prescribe.
+            For the purpose of determining the non-Federal share with respect to a State, expenditures by a political subdivision thereof or by a local agency shall be regarded as expenditures by such State, subject to such limitations and conditions as the Secretary of Education shall by regulation prescribe.
 
     (15) __Governor__ 
 
@@ -259,9 +311,19 @@
 
         (B) independent living skills training;
 
-        (C) peer counseling (including cross-disability peer counseling); and
+        (C) peer counseling (including cross-disability peer counseling);
 
-        (D) individual and systems advocacy.
+        (D) individual and systems advocacy; and
+
+        (E)
+
+         services that—
+
+            (i) facilitate the transition of individuals with significant disabilities from nursing homes and other institutions to home and community-based residences, with the requisite supports and services;
+
+            (ii) provide assistance to individuals with significant disabilities who are at risk of entering institutions so that the individuals may remain in the community; and
+
+            (iii) facilitate the transition of youth who are individuals with significant disabilities, who were eligible for individualized education programs under section 614(d) of the Individuals with Disabilities Education Act ([20 U.S.C. 1414(d)][/us/usc/t20/s1414/d]), and who have completed their secondary education or otherwise left school, to postsecondary life.
 
     (18) __Independent living services__ 
 
@@ -317,11 +379,11 @@
 
         (A) __In general__ 
 
-            The terms “Indian”, “American Indian”, and “Indian American” mean an individual who is a member of an Indian tribe.
+            The terms “Indian”, “American Indian”, and “Indian American” mean an individual who is a member of an Indian tribe and includes a Native and a descendant of a Native, as such terms are defined in subsections (b) and (r) of section 3 of the Alaska Native Claims Settlement Act ([43 U.S.C. 1602][/us/usc/t43/s1602]).
 
         (B) __Indian tribe__ 
 
-            The term “Indian tribe” means any Federal or State Indian tribe, band, rancheria, pueblo, colony, or community, including any Alaskan native village or regional village corporation (as defined in or established pursuant to the Alaska Native Claims Settlement Act \[[43 U.S.C. 1601][/us/usc/t43/s1601] et seq.\]).
+            The term “Indian tribe” means any Federal or State Indian tribe, band, rancheria, pueblo, colony, or community, including any Alaskan native village or regional village corporation (as defined in or established pursuant to the Alaska Native Claims Settlement Act \[[43 U.S.C. 1601][/us/usc/t43/s1601] et seq.\]) and a tribal organization (as defined in section 450b(l) of title 25).
 
     (20) __Individual with a disability__ 
 
@@ -433,15 +495,15 @@
 
     (23) __Institution of higher education__ 
 
-        The term “institution of higher education” has the meaning given the term in [section 1001 of title 20][/us/usc/t20/s1001].
+        The term “institution of higher education” has the meaning given the term in [section 1002 of title 20][/us/usc/t20/s1002].
 
     (24) __Local agency__ 
 
         The term “local agency” means an agency of a unit of general local government or of an Indian tribe (or combination of such units or tribes) which has an agreement with the designated State agency to conduct a vocational rehabilitation program under the supervision of such State agency in accordance with the State plan approved under [section 721 of this title][/us/usc/t29/s721]. Nothing in the preceding sentence of this paragraph or in [section 721 of this title][/us/usc/t29/s721] shall be construed to prevent the local agency from arranging to utilize another local public or nonprofit agency to provide vocational rehabilitation services if such an arrangement is made part of the agreement specified in this paragraph.
 
-    (25) __Local workforce investment board__ 
+    (25) __Local workforce development board__ 
 
-        The term “local workforce investment board” means a local workforce investment board established under section 117 of the Workforce Investment Act of 1998 \[[29 U.S.C. 2832][/us/usc/t29/s2832]\].
+        The term “local workforce development board” means a local board, as defined in section 3 of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3102][/us/usc/t29/s3102]\].
 
     (26) __Nonprofit__ 
 
@@ -487,71 +549,113 @@
 
         The term “personal assistance services” means a range of services, provided by one or more persons, designed to assist an individual with a disability to perform daily living activities on or off the job that the individual would typically perform if the individual did not have a disability. Such services shall be designed to increase the individual’s control in life and ability to perform everyday activities on or off the job.
 
-    (29) __Public or nonprofit__ 
+    (30)  __ <sup>\[__  __2__  __\]</sup> __  __ <sup><sup> __  __2__  __ So in original. There is no par. (29).__  __ </sup></sup> __  __Pre-employment transition services__ 
+
+        The term “pre-employment transition services” means services provided in accordance with [section 733 of this title][/us/usc/t29/s733].
+
+    (31) __Public or nonprofit__ 
 
         The term “public or nonprofit”, used with respect to an agency or organization, includes an Indian tribe.
 
-    (30) __Rehabilitation technology__ 
+    (32) __Rehabilitation technology__ 
 
         The term “rehabilitation technology” means the systematic application of technologies, engineering methodologies, or scientific principles to meet the needs of and address the barriers confronted by individuals with disabilities in areas which include education, rehabilitation, employment, transportation, independent living, and recreation. The term includes rehabilitation engineering, assistive technology devices, and assistive technology services.
 
-    (31) __Secretary__ 
+    (33) __Secretary__ 
 
-        The term “Secretary”, except when the context otherwise requires, means the Secretary of Education.
+    Unless where the context otherwise requires, the term “Secretary”—
 
-    (32) __State__ 
+        (A) used in subchapter I, III, IV, V, VI, or part B of subchapter VII, means the Secretary of Education; and
+
+        (B) used in subchapter II or part A of subchapter VII, means the Secretary of Health and Human Services.
+
+    (34) __State__ 
 
         The term “State” includes, in addition to each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-    (33) __State workforce investment board__ 
+    (35) __State workforce development board__ 
 
-        The term “State workforce investment board” means a State workforce investment board established under section 111 of the Workforce Investment Act of 1998 \[[29 U.S.C. 2821][/us/usc/t29/s2821]\].
+        The term “State workforce development board” means a State board, as defined in section 3 of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3102][/us/usc/t29/s3102]\].
 
-    (34) __Statewide workforce investment system__ 
+    (36) __Statewide workforce development system__ 
 
-        The term “statewide workforce investment system” means a system described in section 111(d)(2) of the Workforce Investment Act of 1998 \[[29 U.S.C. 2821(d)(2)][/us/usc/t29/s2821/d/2]\].
+        The term “statewide workforce development system” means a workforce development system, as defined in section 3 of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3102][/us/usc/t29/s3102]\].
 
-    (35) __Supported employment__ 
+    (37) __Student with a disability__ 
 
         (A) __In general__ 
 
-        The term “supported employment” means competitive work in integrated work settings, or employment in integrated work settings in which individuals are working toward competitive work, consistent with the strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice of the individuals, for individuals with the most significant disabilities—
+        The term “student with a disability” means an individual with a disability who—
 
             (i)
 
-                (I) for whom competitive employment has not traditionally occurred; or
+                (I)
 
-                (II) for whom competitive employment has been interrupted or intermittent as a result of a significant disability; and
+                    (aa) is not younger than the earliest age for the provision of transition services under section 614(d)(1)(A)(i)(VIII) of the Individuals with Disabilities Education Act ([20 U.S.C. 1414(d)(1)(A)(i)(VIII)][/us/usc/t20/s1414/d/1/A/i/VIII]); or
 
-            (ii) who, because of the nature and severity of their disability, need intensive supported employment services for the period, and any extension, described in paragraph (36)(C) and extended services after the transition described in paragraph (13)(C) in order to perform such work.
+                    (bb) if the State involved elects to use a lower minimum age for receipt of pre-employment transition services under this chapter, is not younger than that minimum age; and
 
-        (B) __Certain transitional employment__ 
+                (II)
 
-            Such term includes transitional employment for persons who are individuals with the most significant disabilities due to mental illness.
+                    (aa) is not older than 21 years of age; or
 
-    (36) __Supported employment services__ 
+                    (bb) if the State law for the State provides for a higher maximum age for receipt of services under the Individuals with Disabilities Education Act ([20 U.S.C. 1400][/us/usc/t20/s1400] et seq.), is not older than that maximum age; and
 
-    The term “supported employment services” means ongoing support services and other appropriate services needed to support and maintain an individual with a most significant disability in supported employment, that—
+            (ii)
 
-        (A) are provided singly or in combination and are organized and made available in such a way as to assist an eligible individual to achieve competitive employment;
+                (I) is eligible for, and receiving, special education or related services under part B of the Individuals with Disabilities Education Act ([20 U.S.C. 1411][/us/usc/t20/s1411] et seq.); or
+
+                (II) is an individual with a disability, for purposes of [section 794 of this title][/us/usc/t29/s794].
+
+        (B) __Students with disabilities__ 
+
+            The term “students with disabilities” means more than 1 student with a disability.
+
+    (38) __Supported employment__ 
+
+    The term “supported employment” means competitive integrated employment, including customized employment, or employment in an integrated work setting in which individuals are working on a short-term basis toward competitive integrated employment, that is individualized and customized consistent with the strengths, abilities, interests, and informed choice of the individuals involved, for individuals with the most significant disabilities—
+
+        (A)
+
+            (i) for whom competitive integrated employment has not historically occurred; or
+
+            (ii) for whom competitive integrated employment has been interrupted or intermittent as a result of a significant disability; and
+
+        (B) who, because of the nature and severity of their disability, need intensive supported employment services and extended services after the transition described in paragraph (13)(C), in order to perform the work involved.
+
+    (39) __Supported employment services__ 
+
+    The term “supported employment services” means ongoing support services, including customized employment, needed to support and maintain an individual with a most significant disability in supported employment, that—
+
+        (A) are provided singly or in combination and are organized and made available in such a way as to assist an eligible individual to achieve competitive integrated employment;
 
         (B) are based on a determination of the needs of an eligible individual, as specified in an individualized plan for employment; and
 
-        (C) are provided by the designated State unit for a period of time not to extend beyond 18 months, unless under special circumstances the eligible individual and the rehabilitation counselor or coordinator involved jointly agree to extend the time in order to achieve the employment outcome identified in the individualized plan for employment.
+        (C) are provided by the designated State unit for a period of not more than 24 months, except that period may be extended, if necessary, in order to achieve the employment outcome identified in the individualized plan for employment.
 
-    (37) __Transition services__ 
-
-        The term “transition services” means a coordinated set of activities for a student, designed within an outcome-oriented process, that promotes movement from school to post school activities, including postsecondary education, vocational training, integrated employment (including supported employment), continuing and adult education, adult services, independent living, or community participation. The coordinated set of activities shall be based upon the individual student’s needs, taking into account the student’s preferences and interests, and shall include instruction, community experiences, the development of employment and other post school adult living objectives, and, when appropriate, acquisition of daily living skills and functional vocational evaluation.
-
-    (38) __Vocational rehabilitation services__ 
+    (40) __Vocational rehabilitation services__ 
 
         The term “vocational rehabilitation services” means those services identified in [section 723 of this title][/us/usc/t29/s723] which are provided to individuals with disabilities under this chapter.
 
-    (39) __Workforce investment activities__ 
+    (41) __Workforce investment activities__ 
 
-        The term “workforce investment activities” means workforce investment activities, as defined in section 101 of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801]\], that are carried out under that Act.
+        The term “workforce investment activities” means workforce investment activities,as defined in section 3 of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3102][/us/usc/t29/s3102]\], that are carried out under that Act.
 
-([Pub. L. 93–112, § 7][/us/pl/93/112/s7], formerly § 6, as added [Pub. L. 105–220, title IV, § 403][/us/pl/105/220/s403], Aug. 7, 1998, [112 Stat. 1097][/us/stat/112/1097]; amended [Pub. L. 105–244, title I, § 102(a)(9)(A)][/us/pl/105/244/s102/a/9/A], Oct. 7, 1998, [112 Stat. 1619][/us/stat/112/1619]; renumbered § 7 and amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(a)(1), (b)(3), (c)(1)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–412, 2681–413, 2681–415; [Pub. L. 105–394, title IV, § 402(a)][/us/pl/105/394/s402/a], Nov. 13, 1998, [112 Stat. 3661][/us/stat/112/3661]; [Pub. L. 110–325, § 7][/us/pl/110/325/s7], Sept. 25, 2008, [122 Stat. 3558][/us/stat/122/3558]; [Pub. L. 111–256, § 2(d)(1)][/us/pl/111/256/s2/d/1], Oct. 5, 2010, [124 Stat. 2643][/us/stat/124/2643].)
+    (42) __Youth with a disability__ 
+
+        (A) __In general__ 
+
+        The term “youth with a disability” means an individual with a disability who—
+
+            (i) is not younger than 14 years of age; and
+
+            (ii) is not older than 24 years of age.
+
+        (B) __Youth with disabilities__ 
+
+            The term “youth with disabilities” means more than 1 youth with a disability.
+
+([Pub. L. 93–112, § 7][/us/pl/93/112/s7], formerly § 6, as added [Pub. L. 105–220, title IV, § 403][/us/pl/105/220/s403], Aug. 7, 1998, [112 Stat. 1097][/us/stat/112/1097]; amended [Pub. L. 105–244, title I, § 102(a)(9)(A)][/us/pl/105/244/s102/a/9/A], Oct. 7, 1998, [112 Stat. 1619][/us/stat/112/1619]; renumbered § 7 and amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(a)(1), (b)(3), (c)(1)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–412, 2681–413, 2681–415; [Pub. L. 105–394, title IV, § 402(a)][/us/pl/105/394/s402/a], Nov. 13, 1998, [112 Stat. 3661][/us/stat/112/3661]; [Pub. L. 110–325, § 7][/us/pl/110/325/s7], Sept. 25, 2008, [122 Stat. 3558][/us/stat/122/3558]; [Pub. L. 111–256, § 2(d)(1)][/us/pl/111/256/s2/d/1], Oct. 5, 2010, [124 Stat. 2643][/us/stat/124/2643]; [Pub. L. 113–128, title IV, § 404][/us/pl/113/128/s404], July 22, 2014, [128 Stat. 1632][/us/stat/128/1632].)
 
  __References in Text__ 
 
@@ -559,7 +663,9 @@
 
     The Alaska Native Claims Settlement Act, referred to in par. (19)(B), is [Pub. L. 92–203][/us/pl/92/203], Dec. 18, 1971, [85 Stat. 688][/us/stat/85/688], as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43][/us/usc/t43/s1601] and Tables.
 
-    The Workforce Investment Act of 1998, referred to in par. (39), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
+    The Individuals with Disabilities Education Act, referred to in par. (37)(A)(i)(II)(bb), (ii)(I), is title VI of [Pub. L. 91–230][/us/pl/91/230], Apr. 13, 1970, [84 Stat. 175][/us/stat/84/175], which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. Part B of the Act is classified generally to subchapter II (§ 1411 et seq.) of chapter 33 of Title 20. For complete classification of this Act to the Code, see [section 1400 of Title 20][/us/usc/t20/s1400] and Tables.
+
+    The Workforce Innovation and Opportunity Act, referred to in par. (41), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425], which enacted chapter 32 (§ 3101 et seq.) of this title, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t29/s3101] and Tables.
 
  __Prior Provisions__ 
 
@@ -572,6 +678,76 @@
     Another prior [section 7 of Pub. L. 93–112][/us/pl/93/112/s7] was classified to [section 706 of this title][/us/usc/t29/s706] prior to repeal by [Pub. L. 105–220][/us/pl/105/220].
 
  __Amendments__ 
+
+    2014—Par. (2)(B)(v). [Pub. L. 113–128, § 404(1)][/us/pl/113/128/s404/1], added cl. (v).
+
+    Par. (3). [Pub. L. 113–128, § 404(2)][/us/pl/113/128/s404/2], added par. (3) and struck out former par. (3) which defined “assistive technology device”.
+
+    Par. (4). [Pub. L. 113–128, § 404(3)][/us/pl/113/128/s404/3], redesignated par. (5) as (4).
+
+    [Pub. L. 113–128, § 404(2)][/us/pl/113/128/s404/2], struck out par. (4) which defined “assistive technology service”.
+
+    Par. (4)(O). [Pub. L. 113–128, § 404(4)(B)][/us/pl/113/128/s404/4/B], added subpar. (O). Former subpar. (O) redesignated (P).
+
+    Par. (4)(P), (Q). [Pub. L. 113–128, § 404(4)(A)][/us/pl/113/128/s404/4/A], redesignated subpars. (O) and (P) as (P) and (Q), respectively. Former subpar. (Q) redesignated (R).
+
+    Par. (4)(R). [Pub. L. 113–128, § 404(4)(C)][/us/pl/113/128/s404/4/C], substituted “(Q)” for “(P)”.
+
+    [Pub. L. 113–128, § 404(4)(A)][/us/pl/113/128/s404/4/A], redesignated subpar. (Q) as (R).
+
+    Par. (5). [Pub. L. 113–128, § 404(5)][/us/pl/113/128/s404/5], added par. (5). Former par. (5) redesignated (4).
+
+    Par. (6)(B). [Pub. L. 113–128, § 404(6)][/us/pl/113/128/s404/6], substituted “includes architects’ fees” for “includes architects’ fees”.
+
+    Par. (7). [Pub. L. 113–128, § 404(7)][/us/pl/113/128/s404/7], added par. (7).
+
+    Par. (11)(C). [Pub. L. 113–128, § 404(8)][/us/pl/113/128/s404/8], inserted “of Education” after “Secretary” and “customized employment,” after “vocational outcome of”.
+
+    Par. (12). [Pub. L. 113–128, § 404(9)][/us/pl/113/128/s404/9], inserted “of Education” after “Secretary” in two places.
+
+    Par. (14)(C). [Pub. L. 113–128, § 404(10)][/us/pl/113/128/s404/10], inserted “of Education” after “Secretary”.
+
+    Par. (17)(E). [Pub. L. 113–128, § 404(11)][/us/pl/113/128/s404/11], added subpar. (E).
+
+    Par. (18). [Pub. L. 113–128, § 404(12)][/us/pl/113/128/s404/12], substituted “term ‘independent living services’ includes—” for “term ‘independent living services’ includes—” in introductory provisions.
+
+    Par. (19)(A). [Pub. L. 113–128, § 404(13)(A)][/us/pl/113/128/s404/13/A], inserted “and includes a Native and a descendant of a Native, as such terms are defined in subsections (b) and (r) of section 3 of the Alaska Native Claims Settlement Act ([43 U.S.C. 1602][/us/usc/t43/s1602])” before period at end.
+
+    Par. (19)(B). [Pub. L. 113–128, § 404(13)(B)][/us/pl/113/128/s404/13/B], inserted “and a tribal organization (as defined in section 450b(l) of title 25)” before period at end.
+
+    Par. (23). [Pub. L. 113–128, § 404(14)][/us/pl/113/128/s404/14], substituted “section 1002” for “section 1001”.
+
+    Par. (25). [Pub. L. 113–128, § 404(15)][/us/pl/113/128/s404/15], added par. (25) and struck out former par. (25) which defined “local workforce investment board”.
+
+    Par. (29). [Pub. L. 113–128, § 404(17)][/us/pl/113/128/s404/17], redesignated par. (29) as (31).
+
+    Par. (30). [Pub. L. 113–128, § 404(18)][/us/pl/113/128/s404/18], added par. (30). Former par. (30) redesignated (32).
+
+    Pars. (31), (32). [Pub. L. 113–128, § 404(17)][/us/pl/113/128/s404/17], redesignated pars. (29) and (30) as (31) and (32), respectively. Former pars. (31) and (32) redesignated (33) and (34), respectively.
+
+    Par. (33). [Pub. L. 113–128, § 404(19)][/us/pl/113/128/s404/19], added par. (33) and struck out former par. (33) which defined “Secretary”.
+
+    [Pub. L. 113–128, § 404(17)][/us/pl/113/128/s404/17], redesignated par. (31) as (33). Former par. (33) redesignated (35).
+
+    Par. (34). [Pub. L. 113–128, § 404(17)][/us/pl/113/128/s404/17], redesignated par. (32) as (34). Former par. (34) redesignated (36).
+
+    Pars. (35), (36). [Pub. L. 113–128, § 404(20)][/us/pl/113/128/s404/20], added pars. (35) and (36) and struck out former pars. (35) and (36), which defined “State workforce investment board” and “statewide workforce investment system”, respectively.
+
+    [Pub. L. 113–128, § 404(17)][/us/pl/113/128/s404/17], redesignated pars. (33) and (34) as (35) and (36), respectively. Former pars. (35) and (36) redesignated (38) and (39), respectively.
+
+    Par. (37). [Pub. L. 113–128, § 404(16)][/us/pl/113/128/s404/16], (21), added par. (37) and struck out former par. (37) which defined “transition services”.
+
+    Pars. (38), (39). [Pub. L. 113–128, § 404(22)][/us/pl/113/128/s404/22], added pars. (38) and (39) and struck out former pars. (38) and (39) which defined “supported employment” and “supported employment services”, respectively.
+
+    [Pub. L. 113–128, § 404(17)][/us/pl/113/128/s404/17], redesignated pars. (35) and (36) as (38) and (39), respectively. Former pars. (38) and (39) redesignated (40) and (41), respectively.
+
+    Par. (40). [Pub. L. 113–128, § 404(17)][/us/pl/113/128/s404/17], redesignated par. (38) as (40).
+
+    Par. (41). [Pub. L. 113–128, § 404(23)][/us/pl/113/128/s404/23], substituted “as defined in section 3 of the Workforce Innovation and Opportunity Act” for “as defined in section 101 of the Workforce Investment Act of 1998”.
+
+    [Pub. L. 113–128, § 404(17)][/us/pl/113/128/s404/17], redesignated par. (39) as (41).
+
+    Par. (42). [Pub. L. 113–128, § 404(24)][/us/pl/113/128/s404/24], added par. (42).
 
     2010—Par. (21)(A)(iii). [Pub. L. 111–256][/us/pl/111/256] substituted “intellectual disability,” for “mental retardation,”.
 
@@ -630,8 +806,8 @@
 [/us/usc/t29/s721/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs721%2Fa%2F5%2FA
 [/us/usc/t29/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3002
 [/us/usc/t29/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3002
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
+[/us/usc/t29/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3002
+[/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
 [/us/usc/t29/s721/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs721%2Fa%2F2%2FA
 [/us/usc/t29/s721/a/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs721%2Fa%2F2%2FB%2Fii
 [/us/usc/t29/s721/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs721%2Fa%2F2%2FB%2Fi
@@ -643,19 +819,26 @@
 [/us/usc/t29/s731/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs731%2Fa%2F3
 [/us/usc/t29/s725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs725
 [/us/usc/t29/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs721
+[/us/usc/t20/s1414/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1414%2Fd
+[/us/usc/t43/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1602
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/usc/t42/s12102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12102
 [/us/usc/t29/s721/a/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs721%2Fa%2F5%2FC
-[/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
+[/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002
 [/us/usc/t29/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs721
 [/us/usc/t29/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs721
-[/us/usc/t29/s2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2832
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t29/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs723
-[/us/usc/t29/s2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2821
-[/us/usc/t29/s2821/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2821%2Fd%2F2
+[/us/usc/t29/s733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs733
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
+[/us/usc/t20/s1414/d/1/A/i/VIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1414%2Fd%2F1%2FA%2Fi%2FVIII
+[/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
+[/us/usc/t20/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1411
+[/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
 [/us/usc/t29/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs723
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 [/us/pl/93/112/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs7
 [/us/pl/105/220/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs403
 [/us/stat/112/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1097
@@ -669,15 +852,20 @@
 [/us/stat/122/3558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3558
 [/us/pl/111/256/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2%2Fd%2F1
 [/us/stat/124/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2643
+[/us/pl/113/128/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404
+[/us/stat/128/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1632
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
+[/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
+[/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/usc/t29/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs706
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/93/112/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs6
@@ -695,6 +883,42 @@
 [/us/pl/93/112/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs7
 [/us/usc/t29/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs706
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/113/128/s404/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F1
+[/us/pl/113/128/s404/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F2
+[/us/pl/113/128/s404/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F3
+[/us/pl/113/128/s404/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F2
+[/us/pl/113/128/s404/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F4%2FB
+[/us/pl/113/128/s404/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F4%2FA
+[/us/pl/113/128/s404/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F4%2FC
+[/us/pl/113/128/s404/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F4%2FA
+[/us/pl/113/128/s404/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F5
+[/us/pl/113/128/s404/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F6
+[/us/pl/113/128/s404/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F7
+[/us/pl/113/128/s404/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F8
+[/us/pl/113/128/s404/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F9
+[/us/pl/113/128/s404/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F10
+[/us/pl/113/128/s404/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F11
+[/us/pl/113/128/s404/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F12
+[/us/pl/113/128/s404/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F13%2FA
+[/us/usc/t43/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1602
+[/us/pl/113/128/s404/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F13%2FB
+[/us/pl/113/128/s404/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F14
+[/us/pl/113/128/s404/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F15
+[/us/pl/113/128/s404/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F17
+[/us/pl/113/128/s404/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F18
+[/us/pl/113/128/s404/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F17
+[/us/pl/113/128/s404/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F19
+[/us/pl/113/128/s404/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F17
+[/us/pl/113/128/s404/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F17
+[/us/pl/113/128/s404/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F20
+[/us/pl/113/128/s404/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F17
+[/us/pl/113/128/s404/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F16
+[/us/pl/113/128/s404/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F22
+[/us/pl/113/128/s404/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F17
+[/us/pl/113/128/s404/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F17
+[/us/pl/113/128/s404/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F23
+[/us/pl/113/128/s404/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F17
+[/us/pl/113/128/s404/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs404%2F24
 [/us/pl/111/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256
 [/us/pl/110/325/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs7%2F1
 [/us/usc/t42/s12102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12102

@@ -17,11 +17,11 @@
 
     (a) __Federal grants and contracts for certain research projects and related activities__ 
 
-        (1) To the extent consistent with priorities established in the 5-year plan described in [section 762(h) of this title][/us/usc/t29/s762/h], the Director may make grants to and contracts with States and public or private agencies and organizations, including institutions of higher education, Indian tribes, and tribal organizations, to pay part of the cost of projects for the purpose of planning and conducting research, demonstration projects, training, and related activities, the purposes of which are to develop methods, procedures, and rehabilitation technology, that maximize the full inclusion and integration into society, employment, independent living, family support, and economic and social self-sufficiency of individuals with disabilities, especially individuals with the most significant disabilities, and improve the effectiveness of services authorized under this chapter.
+        (1) To the extent consistent with priorities established in the 5-year plan described in [section 762(h) of this title][/us/usc/t29/s762/h], the Director may make grants to and contracts with States and public or private agencies and organizations, including institutions of higher education, Indian tribes, and tribal organizations, to fund part of the cost of projects for the purpose of planning and conducting research, demonstration projects, training, and related activities, the purposes of which are to develop methods, procedures, and rehabilitation technology, that have practical applications and maximize the full inclusion and integration into society, employment, education, independent living, health and wellness, family support, and economic and social self-sufficiency of individuals with disabilities, especially individuals with the most significant disabilities, and improve the effectiveness of services authorized under this chapter.
 
         (2)
 
-            (A) In carrying out this section, the Director shall emphasize projects that support the implementation of subchapters I, III, V, VI, and VII of this chapter, including projects addressing the needs described in the State plans submitted under section 721 or 796c of this title by State agencies.
+            (A) In carrying out this section, the Director shall emphasize projects that support the implementation of subchapters I, III, V, VI, and VII of this chapter, including projects addressing the needs described in the State plans submitted under section 721 or 796c of this title by State agencies and from which the research findings, conclusions, or recommendations can be transferred to practice.
 
             (B)
 
@@ -29,21 +29,31 @@
 
                 (i) medical and other scientific, technical, methodological, and other investigations into the nature of disability, methods of analyzing it, and restorative techniques, including basic research where related to rehabilitation techniques or services;
 
-                (ii) studies and analysis of industrial, vocational, social, recreational, psychiatric, psychological, economic, and other factors affecting rehabilitation of individuals with disabilities;
+                (ii) studies and analyses of factors related to industrial, vocational, educational, employment, social, recreational, psychiatric, psychological, economic, and health and wellness variables affecting individuals with disabilities, including traditionally underserved populations as described in [section 718 of this title][/us/usc/t29/s718], and how those variables affect such individuals’ ability to live independently and their participation in the work force;
 
-                (iii) studies and analysis of special problems of individuals who are homebound and individuals who are institutionalized;
+                (iii) studies and analysis of special problems of individuals who have significant challenges engaging in community life outside their homes and individuals who are in institutional settings;
 
-                (iv) studies, analyses, and demonstrations of architectural and engineering design adapted to meet the special needs of individuals with disabilities;
+                (iv) studies, analyses, and demonstrations of architectural and engineering design adapted to meet the special needs of individuals with disabilities, including the principles of universal design and the interoperability of products and services;
 
-                (v) studies, analyses, and other activities related to supported employment;
+                (v) studies, analyses, and other activities related to supported employment, and to promoting employment opportunities in competitive integrated employment;
 
-                (vi) related activities which hold promise of increasing knowledge and improving methods in the rehabilitation of individuals with disabilities and individuals with the most significant disabilities, particularly individuals with disabilities, and individuals with the most significant disabilities, who are members of populations that are unserved or underserved by programs under this chapter; and
+                (vi) related activities which hold promise of increasing knowledge and improving methods in the rehabilitation of individuals with disabilities and individuals with the most significant disabilities, particularly individuals with disabilities, and individuals with the most significant disabilities, who are members of populations that are unserved or underserved by programs under this chapter;
 
-                (vii) studies, analyses, and other activities related to job accommodations, including the use of rehabilitation engineering and assistive technology.
+                (vii) studies, analyses, and other activities related to job accommodations, including the use of rehabilitation engineering, assistive technology, and communications technology; and
+
+                (viii) studies, analyses, and other activities affecting employment outcomes as defined in [section 705(11) of this title][/us/usc/t29/s705/11], including self-employment and telecommuting, of individuals with disabilities.
+
+        (3)
+
+         In carrying out this section, the Director shall emphasize covered activities that include plans for—
+
+            (A) dissemination of high-quality materials, of scientifically valid research results, or of findings, conclusions, and recommendations resulting from covered activities, including through electronic means (such as the website of the Department of Health and Human Services), so that such information is available in a timely manner to the general public; or
+
+            (B) the commercialization of marketable products, research results, or findings, resulting from the covered activities.
 
     (b) __Research grants__ 
 
-        (1) In addition to carrying out projects under subsection (a) of this section, the Director may make grants under this subsection (referred to in this subsection as “research grants”) to pay part or all of the cost of the research or other specialized covered activities described in paragraphs (2) through (18). A research grant made under any of paragraphs (2) through (18) may only be used in a manner consistent with priorities established in the 5-year plan described in [section 762(h) of this title][/us/usc/t29/s762/h].
+        (1) In addition to carrying out projects under subsection (a) of this section, the Director may make grants under this subsection (referred to in this subsection as “research grants”) to pay part or all of the cost of the research or other specialized covered activities described in paragraphs (2) through (17). <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “paragraphs (2) through (16)”. </sup></sup>  A research grant made under any of paragraphs (2) through (17)  <sup>\[1\]</sup>  may only be used in a manner consistent with priorities established in the 5-year plan described in [section 762(h) of this title][/us/usc/t29/s762/h].
 
         (2)
 
@@ -51,41 +61,45 @@
 
              Research grants may be used for the establishment and support of Rehabilitation Research and Training Centers, for the purpose of providing an integrated program of research, which Centers shall—
 
-                (i) be operated in collaboration with institutions of higher education or providers of rehabilitation services or other appropriate services; and
+                (i) be operated in collaboration with institutions of higher education, providers of rehabilitation services, developers or providers of assistive technology devices, assistive technology services, or information technology devices or services, as appropriate, or providers of other appropriate services; and
 
-                (ii) serve as centers of national excellence and national or regional resources for providers and individuals with disabilities and the individuals’ representatives.
+                (ii) serve as centers of national excellence and national or regional resources for individuals with disabilities, as well as providers, educators, and researchers.
 
             (B)
 
              The Centers shall conduct research and training activities by—
 
-                (i) conducting coordinated and advanced programs of research in rehabilitation targeted toward the production of new knowledge that will improve rehabilitation methodology and service delivery systems, alleviate or stabilize disabling conditions, and promote maximum social and economic independence of individuals with disabilities, especially promoting the ability of the individuals to prepare for, secure, retain, regain, or advance in employment;
+                (i) conducting coordinated and advanced programs of research in independent living and rehabilitation targeted toward the production of new knowledge that will improve independent living and rehabilitation methodology and service delivery systems, maximize health and function (including alleviating or stabilizing conditions, or preventing secondary conditions), and promote maximum social and economic independence of individuals with disabilities, including promoting the ability of the individuals to prepare for, secure, retain, regain, or advance in employment;
 
-                (ii) providing training (including graduate, pre-service, and in-service training) to assist individuals to more effectively provide rehabilitation services;
+                (ii) conducting research in, and dissemination of, employer-based practices to facilitate the identification, recruitment, accommodation, advancement, and retention of qualified individuals with disabilities;
 
-                (iii) providing training (including graduate, pre-service, and in-service training) for rehabilitation research personnel and other rehabilitation personnel; and
+                (iii) providing training (including graduate, pre-service, and in-service training) to assist individuals to more effectively provide independent living and rehabilitation services;
 
-                (iv) serving as an informational and technical assistance resource to providers, individuals with disabilities, and the individuals’ representatives, through conferences, workshops, public education programs, in-service training programs, and similar activities.
+                (iv) providing training (including graduate, pre-service, and in-service training) for independent living and rehabilitation research personnel and other independent living and rehabilitation personnel;
+
+                (v) serving as an informational and technical assistance resource to individuals with disabilities, as well as to providers, educators, and researchers, by providing outreach and information that clarifies research implications for practice and identifies potential new areas of research; and
+
+                (vi) developing practical applications for the research findings of the Centers.
 
             (C)
 
              The research to be carried out at each such Center may include—
 
-                (i) basic or applied medical rehabilitation research;
+                (i) basic or applied medical rehabilitation research, including research on assistive technology devices, assistive technology services, and accessible electronic and information technology devices;
 
-                (ii) research regarding the psychological and social aspects of rehabilitation, including disability policy;
+                (ii) research regarding the psychological, social, and economic aspects of independent living and rehabilitation, including disability policy;
 
-                (iii) research related to vocational rehabilitation;
+                (iii) continuation of research that promotes the emotional, social, educational, and functional growth of children who are individuals with disabilities, as well as their integration in school, employment, and community activities;
 
-                (iv) continuation of research that promotes the emotional, social, educational, and functional growth of children who are individuals with disabilities;
+                (iv) continuation of research to develop and evaluate interventions, policies, and services that support families of those children and adults who are individuals with disabilities;
 
-                (v) continuation of research to develop and evaluate interventions, policies, and services that support families of those children and adults who are individuals with disabilities; and
+                (v) continuation of research that will improve services and policies that foster the independence and social integration of individuals with disabilities, and enable individuals with disabilities, including individuals with intellectual disabilities and other developmental disabilities, to live in their communities; and
 
-                (vi) continuation of research that will improve services and policies that foster the productivity, independence, and social integration of individuals with disabilities, and enable individuals with disabilities, including individuals with intellectual disabilities and other developmental disabilities, to live in their communities.
+                (vi) research, dissemination, and technical assistance, on best practices in vocational rehabilitation, including supported employment and other strategies to promote competitive integrated employment for persons with the most significant disabilities.
 
-            (D) Training of students preparing to be rehabilitation personnel shall be an important priority for such a Center.
+            (D) Training of students preparing to be independent living or rehabilitation personnel or to provide independent living, rehabilitative, assistive, or supportive services (such as rehabilitation counseling, personal care services, direct care, job coaching, aides in school based settings, or advice or assistance in utilizing assistive technology devices, assistive technology services, and accessible electronic and information technology devices and services) shall be an important priority for each such Center.
 
-            (E) The Director shall make grants under this paragraph to establish and support both comprehensive centers dealing with multiple disabilities and centers primarily focused on particular disabilities.
+            (E) The Director shall make grants under this paragraph to establish and support both centers dealing with multiple disabilities and centers primarily focused on particular disabilities.
 
             (F) Grants made under this paragraph may be used to provide funds for services rendered by such a Center to individuals with disabilities in connection with the research and training activities.
 
@@ -93,17 +107,15 @@
 
              Grants made under this paragraph may be used to provide faculty support for teaching—
 
-                (i) rehabilitation-related courses of study for credit; and
+                (i) independent living and rehabilitation-related courses of study for credit; and
 
                 (ii) other courses offered by the Centers, either directly or through another entity.
 
             (H) The research and training activities conducted by such a Center shall be conducted in a manner that is accessible to and usable by individuals with disabilities.
 
-            (I) The Director shall encourage the Centers to develop practical applications for the findings of the research of the Centers.
+            (I) In awarding grants under this paragraph, the Director shall take into consideration the location of any proposed Center and the appropriate geographic and regional allocation of such Centers.
 
-            (J) In awarding grants under this paragraph, the Director shall take into consideration the location of any proposed Center and the appropriate geographic and regional allocation of such Centers.
-
-            (K)
+            (J)
 
              To be eligible to receive a grant under this paragraph, each such institution or provider described in subparagraph (A) shall—
 
@@ -111,7 +123,7 @@
 
                 (ii) demonstrate the ability to carry out the training activities either directly or through another entity that can provide such training.
 
-            (L)
+            (K)
 
              The Director shall make grants under this paragraph for periods of 5 years, except that the Director may make a grant for a period of less than 5 years if—
 
@@ -119,15 +131,15 @@
 
                 (ii) the grant supports new or innovative research.
 
-            (M) Grants made under this paragraph shall be made on a competitive basis. To be eligible to receive a grant under this paragraph, a prospective grant recipient shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require.
+            (L) Grants made under this paragraph shall be made on a competitive basis. To be eligible to receive a grant under this paragraph, a prospective grant recipient shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require.
 
-            (N) In conducting scientific peer review under [section 762(f) of this title][/us/usc/t29/s762/f] of an application for the renewal of a grant made under this paragraph, the peer review panel shall take into account the past performance of the applicant in carrying out the grant and input from individuals with disabilities and the individuals’ representatives.
+            (M) In conducting scientific peer review under [section 762(f) of this title][/us/usc/t29/s762/f] of an application for the renewal of a grant made under this paragraph, the peer review panel shall take into account the past performance of the applicant in carrying out the grant and input from individuals with disabilities and the individuals’ representatives.
 
-            (O) An institution or provider that receives a grant under this paragraph to establish such a Center may not collect more than 15 percent of the amount of the grant received by the Center in indirect cost charges.
+            (N) An institution or provider that receives a grant under this paragraph to establish such a Center may not collect more than 15 percent of the amount of the grant received by the Center in indirect cost charges.
 
         (3)
 
-            (A) Research grants may be used for the establishment and support of Rehabilitation Engineering Research Centers, operated by or in collaboration with institutions of higher education or nonprofit organizations, to conduct research or demonstration activities, and training activities, regarding rehabilitation technology, including rehabilitation engineering, assistive technology devices, and assistive technology services, for the purposes of enhancing opportunities for better meeting the needs of, and addressing the barriers confronted by, individuals with disabilities in all aspects of their lives.
+            (A) Research grants may be used for the establishment and support of Rehabilitation Engineering Research Centers, operated by or in collaboration with institutions of higher education or nonprofit organizations, to conduct research or demonstration activities, and training activities, regarding independent living strategies and rehabilitation technology, including rehabilitation engineering, assistive technology devices, and assistive technology services, for the purposes of enhancing opportunities for better meeting the needs of, and addressing the barriers confronted by, individuals with disabilities in all aspects of their lives.
 
             (B)
 
@@ -137,7 +149,7 @@
 
                  developing and disseminating innovative methods of applying advanced technology, scientific achievement, and psychological and social knowledge to—
 
-                    (I) solve rehabilitation problems and remove environmental barriers through planning and conducting research, including cooperative research with public or private agencies and organizations, designed to produce new scientific knowledge, and new or improved methods, equipment, and devices; and
+                    (I) solve independent living and rehabilitation problems and remove environmental barriers through planning and conducting research, including cooperative research with public or private agencies and organizations, designed to produce new scientific knowledge, and new or improved methods, equipment, and devices; and
 
                     (II) study new or emerging technologies, products, or environments, and the effectiveness and benefits of such technologies, products, or environments;
 
@@ -147,7 +159,7 @@
 
                     (I) innovative models for the delivery, to rural and urban areas, of cost-effective rehabilitation technology services that promote utilization of assistive technology devices; and
 
-                    (II) other scientific research to assist in meeting the employment and independent living needs of individuals with significant disabilities; or
+                    (II) other scientific research to assist in meeting the educational, employment, and independent living needs of individuals with significant disabilities; or
 
                 (iii)
 
@@ -155,7 +167,7 @@
 
                     (I) consumer responsive and individual and family-centered innovative models for the delivery to both rural and urban areas, of innovative cost-effective rehabilitation technology services that promote utilization of rehabilitation technology; and
 
-                    (II) other scientific research to assist in meeting the employment and independent living needs of, and addressing the barriers confronted by, individuals with disabilities, including individuals with significant disabilities.
+                    (II) other scientific research to assist in meeting the educational, employment, and independent living needs of, and addressing the barriers confronted by, individuals with disabilities, including individuals with significant disabilities.
 
             (C)
 
@@ -181,7 +193,7 @@
 
                     (I) Early childhood services, including early intervention and family support.
 
-                    (II) Education at the elementary and secondary levels, including transition from school to postschool activities.
+                    (II) Education at the elementary and secondary levels, including transition from school to postsecondary education, competitive integrated employment, and other age-appropriate activities.
 
                     (III) Employment, including supported employment, and reasonable accommodations and the reduction of environmental barriers as required by the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101][/us/usc/t42/s12101] et seq.) and subchapter V of this chapter.
 
@@ -205,7 +217,7 @@
 
                 (i) cooperate with State agencies and other local, State, regional, and national programs and organizations developing or delivering rehabilitation technology, including State programs funded under the Assistive Technology Act of 1998 \[[29 U.S.C. 3001][/us/usc/t29/s3001] et seq.\]; and
 
-                (ii) prepare and submit to the Director as part of an application for continuation of a grant, or as a final report, a report that documents the outcomes of the program of the Center in terms of both short- and long-term impact on the lives of individuals with disabilities, and such other information as may be requested by the Director.
+                (ii) prepare and submit to the Director as part of an application for continuation of a grant, or as a final report, a report that documents the outcomes of the program of the Center in terms of both short- and long-term impact on the lives of individuals with disabilities, the impact of any commercialized product researched or developed through the Center, and such other information as may be requested by the Director.
 
         (4)
 
@@ -223,13 +235,13 @@
 
              Any agency or organization carrying out a project or demonstration project assisted by a grant under this paragraph that provides services to individuals with spinal cord injuries shall—
 
-                (i) establish, on an appropriate regional basis, a multidisciplinary system of providing vocational and other rehabilitation services, specifically designed to meet the special needs of individuals with spinal cord injuries, including acute care as well as periodic inpatient or outpatient followup and services;
+                (i) establish, on an appropriate regional basis, a multidisciplinary system of providing independent living, employment, and other rehabilitation services, specifically designed to meet the unique needs of individuals with spinal cord injuries, including social and functional needs, and acute care as well as periodic inpatient or outpatient followup and services;
 
                 (ii) demonstrate and evaluate the benefits to individuals with spinal cord injuries served in, and the degree of cost-effectiveness of, such a regional system;
 
                 (iii) demonstrate and evaluate existing, new, and improved methods and rehabilitation technology essential to the care, management, and rehabilitation of individuals with spinal cord injuries; and
 
-                (iv) demonstrate and evaluate methods of community outreach for individuals with spinal cord injuries and community education in connection with the problems of such individuals in areas such as housing, transportation, recreation, employment, and community activities.
+                (iv) demonstrate and evaluate methods of community outreach for individuals with spinal cord injuries and community education in connection with the problems of such individuals in areas such as housing, transportation, recreation, employment, education, health and wellness, and community activities.
 
             (C) In awarding grants under this paragraph, the Director shall take into account the location of any proposed Spinal Cord Injury Center and the appropriate geographic and regional allocation of such Centers.
 
@@ -249,15 +261,11 @@
 
         (7) Research grants may be used to conduct a research program concerning the use of existing telecommunications systems (including telephone, television, satellite, radio, and other similar systems) which have the potential for substantially improving service delivery methods, and the development of appropriate programming to meet the particular needs of individuals with disabilities.
 
-        (8) Research grants may be used to conduct a program of joint projects with the National Institutes of Health, the National Institute of Mental Health, the Health Services Administration, the Administration on Aging, the National Science Foundation, the Veterans’ Administration, the Department of Health and Human Services, the National Aeronautics and Space Administration, other Federal agencies, and private industry in areas of joint interest involving rehabilitation.
+        (8) Grants may be used to conduct a program of joint projects with other administrations and offices of the Department of Health and Human Services, the National Science Foundation, the Department of Veterans Affairs, the Department of Defense, the Federal Communications Commission, the National Aeronautics and Space Administration, the Small Business Administration, the Department of Labor, other Federal agencies, and private industry in areas of joint interest involving rehabilitation.
 
-        (9) Research grants may be used to conduct a program of research related to the rehabilitation of children, or older individuals, who are individuals with disabilities, including older American Indians who are individuals with disabilities. Such research program may include projects designed to assist the adjustment of, or maintain as residents in the community, older workers who are individuals with disabilities on leaving the workforce.
+        (9) Research grants may be used to conduct a research program to develop and demonstrate innovative methods to attract and retain professionals to serve in rural areas in the rehabilitation of individuals with disabilities, including individuals with significant disabilities.
 
-        (10) Research grants may be used to conduct a research program to develop and demonstrate innovative methods to attract and retain professionals to serve in rural areas in the rehabilitation of individuals with disabilities, including individuals with significant disabilities.
-
-        (11) Research grants may be used to conduct a model research and demonstration project designed to assess the feasibility of establishing a center for producing and distributing to individuals who are deaf or hard of hearing captioned video cassettes providing a broad range of educational, cultural, scientific, and vocational programming.
-
-        (12)
+        (10)
 
          Research grants may be used to conduct a model research and demonstration program to develop innovative methods of providing services for preschool age children who are individuals with disabilities, including—
 
@@ -267,25 +275,37 @@
 
             (C) appropriate services for the parents of such children, including psychological and psychiatric services, parent counseling, and training.
 
-        (13)
+        (11)
 
-         Research grants may be used to conduct a model research and training program under which model training centers shall be established to develop and use more advanced and effective methods of evaluating and addressing the employment needs of individuals with disabilities, including programs that—
+         Research grants may be used to conduct a model research and training program under which model training centers shall be established to develop and use more advanced and effective methods of evaluating and addressing the employment needs, opportunities, and outcomes (including those relating to self-employment, supported employment, and telecommuting) of individuals with disabilities, including programs that—
 
             (A) provide training and continuing education for personnel involved with the employment of individuals with disabilities;
 
-            (B) develop model procedures for testing and evaluating the employment needs of individuals with disabilities;
+            (B) develop model procedures for testing and evaluating the employment and employment related needs of individuals with disabilities;
 
             (C) develop model training programs to teach individuals with disabilities skills which will lead to appropriate employment;
 
             (D) develop new approaches for job placement of individuals with disabilities, including new followup procedures relating to such placement;
 
-            (E) provide information services regarding education, training, employment, and job placement for individuals with disabilities; and
+            (E) provide information services regarding education, training, employment, and job placement for individuals with disabilities;
 
-            (F) develop new approaches and provide information regarding job accommodations, including the use of rehabilitation engineering and assistive technology.
+            (F) develop new approaches and provide information regarding job accommodations, including the use of rehabilitation engineering and assistive technology;
 
-        (14)
+            (G) develop models to facilitate the successful transition of individuals with disabilities from nonintegrated employment and employment that is compensated at a wage less than the Federal minimum wage to competitive integrated employment;
 
-         Research grants may be used to conduct a rehabilitation research program under which financial assistance is provided in order to—
+            (H) develop models to maximize opportunities for integrated community living, including employment and independent living, for individuals with disabilities;
+
+            (I) provide training and continuing education for personnel involved with community living for individuals with disabilities;
+
+            (J) develop model procedures for testing and evaluating the community living related needs of individuals with disabilities;
+
+            (K) develop model training programs to teach individuals with disabilities skills which will lead to integrated community living and full participation in the community; and
+
+            (L) develop new approaches for long-term services and supports for individuals with disabilities, including supports necessary for competitive integrated employment.
+
+        (12)
+
+         Research grants may be used to conduct an independent living or a rehabilitation research program under which financial assistance is provided in order to—
 
             (A) test new concepts and innovative ideas;
 
@@ -293,17 +313,17 @@
 
             (C) purchase prototype aids and devices for evaluation;
 
-            (D) develop unique rehabilitation training curricula; and
+            (D) develop unique independent living or rehabilitation training curricula; and
 
             (E) be responsive to special initiatives of the Director.
 
-            No single grant under this paragraph may exceed $50,000 in any fiscal year and all payments made under this paragraph in any fiscal year may not exceed 5 percent of the amount available for this section to the National Institute on Disability and Rehabilitation Research in any fiscal year. Regulations and administrative procedures with respect to financial assistance under this paragraph shall, to the maximum extent possible, be expedited.
+            No single grant under this paragraph may exceed $50,000 in any fiscal year and all payments made under this paragraph in any fiscal year may not exceed 5 percent of the amount available for this section to the National Institute on Disability, Independent Living, and Rehabilitation Research in any fiscal year. Regulations and administrative procedures with respect to financial assistance under this paragraph shall, to the maximum extent possible, be expedited.
 
-        (15) Research grants may be used to conduct studies of the rehabilitation needs of American Indian populations and of effective mechanisms for the delivery of rehabilitation services to Indians residing on and off reservations.
+        (13) Research grants may be used to conduct studies of the independent living and rehabilitation needs of American Indian populations and of effective mechanisms for the delivery of rehabilitation services to Indians residing on and off reservations.
 
-        (16) Research grants may be used to conduct a demonstration program under which one or more projects national in scope shall be established to develop procedures to provide incentives for the development, manufacturing, and marketing of orphan technological devices, including technology transfer concerning such devices, designed to enable individuals with disabilities to achieve independence and access to gainful employment.
+        (14) Research grants may be used to conduct a demonstration program under which one or more projects national in scope shall be established to develop procedures to provide incentives for the development, manufacturing, and marketing of orphan technological devices, including technology transfer concerning such devices, designed to enable individuals with disabilities to achieve independence, full participation, and economic self-sufficiency.
 
-        (17)
+        (15)
 
             (A) Research grants may be used to conduct a research program related to quality assurance in the area of rehabilitation technology.
 
@@ -319,7 +339,7 @@
 
                 (iv) development and testing of research-based tools to enhance consumer decisionmaking about rehabilitation technology products and services.
 
-        (18)
+        (16)
 
          Research grants may be used to provide for research and demonstration projects and related activities that explore the use and effectiveness of specific alternative or complementary medical practices for individuals with disabilities. Such projects and activities may include projects and activities designed to—
 
@@ -337,7 +357,31 @@
 
         (2) The Director shall not make a grant under this section that exceeds $500,000 unless the peer review of the grant application has included a site visit.
 
-([Pub. L. 93–112, title II, § 204][/us/pl/93/112/s204], as added [Pub. L. 105–220, title IV, § 405][/us/pl/105/220/s405], Aug. 7, 1998, [112 Stat. 1173][/us/stat/112/1173]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 401(16)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–412; [Pub. L. 105–394, title IV, § 402(b)][/us/pl/105/394/s402/b], Nov. 13, 1998, [112 Stat. 3661][/us/stat/112/3661]; [Pub. L. 111–256, § 2(d)(2)][/us/pl/111/256/s2/d/2], Oct. 5, 2010, [124 Stat. 2643][/us/stat/124/2643].)
+    (d) __Application for grants__ 
+
+        (1) In awarding grants, contracts, or cooperative agreements under this subchapter, the Director shall award the funding on a competitive basis.
+
+        (2)
+
+            (A) To be eligible to receive funds under this section for a covered activity, an entity described in subsection (a)(1) shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require.
+
+            (B)
+
+             The application shall include information describing—
+
+                (i) measurable goals, as established through [section 1115 of title 31][/us/usc/t31/s1115], and a timeline and specific plan for meeting the goals, that the applicant has established;
+
+                (ii) how the project will address 1 or more of the following: commercialization of a marketable product, technology transfer (if applicable), dissemination of any research results, and other priorities as established by the Director; and
+
+                (iii) how the applicant will quantifiably measure the goals to determine whether such goals have been accomplished.
+
+        (3)
+
+            (A) In the case of an application for funding under this section to carry out a covered activity that results in the development of a marketable product, the application shall also include a commercialization and dissemination plan, as appropriate, containing commercialization and marketing strategies for the product involved, and strategies for disseminating information about the product. The funding received under this section shall not be used to carry out the commercialization and marketing strategies.
+
+            (B) In the case of any other application for funding to carry out a covered activity under this section, the application shall also include a dissemination plan, containing strategies for disseminating educational materials, research results, or findings, conclusions, and recommendations, resulting from the covered activity.
+
+([Pub. L. 93–112, title II, § 204][/us/pl/93/112/s204], as added [Pub. L. 105–220, title IV, § 405][/us/pl/105/220/s405], Aug. 7, 1998, [112 Stat. 1173][/us/stat/112/1173]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 401(16)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–412; [Pub. L. 105–394, title IV, § 402(b)][/us/pl/105/394/s402/b], Nov. 13, 1998, [112 Stat. 3661][/us/stat/112/3661]; [Pub. L. 111–256, § 2(d)(2)][/us/pl/111/256/s2/d/2], Oct. 5, 2010, [124 Stat. 2643][/us/stat/124/2643]; [Pub. L. 113–128, title IV, § 435][/us/pl/113/128/s435], July 22, 2014, [128 Stat. 1666][/us/stat/128/1666].)
 
  __References in Text__ 
 
@@ -352,6 +396,122 @@
     A prior section 764, [Pub. L. 93–112, title II, § 204][/us/pl/93/112/s204], Sept. 26, 1973, [87 Stat. 376][/us/stat/87/376], provided that a full report on research and training activities be included in annual report to Congress, prior to repeal by [Pub. L. 95–602, title I, § 109(3)][/us/pl/95/602/s109/3], Nov. 6, 1978, [92 Stat. 2963][/us/stat/92/2963].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1). [Pub. L. 113–128, § 435(1)(A)][/us/pl/113/128/s435/1/A], substituted “fund” for “pay” and “employment, education, independent living, health and wellness,” for “employment, independent living,” and inserted “have practical applications and” before “maximize”.
+
+    Subsec. (a)(2)(A). [Pub. L. 113–128, § 435(1)(B)(i)][/us/pl/113/128/s435/1/B/i], inserted “and from which the research findings, conclusions, or recommendations can be transferred to practice” after “State agencies”.
+
+    Subsec. (a)(2)(B)(ii). [Pub. L. 113–128, § 435(1)(B)(ii)(I)][/us/pl/113/128/s435/1/B/ii/I], added cl. (ii) and struck out former cl. (ii) which read as follows: “studies and analysis of industrial, vocational, social, recreational, psychiatric, psychological, economic, and other factors affecting rehabilitation of individuals with disabilities;”.
+
+    Subsec. (a)(2)(B)(iii). [Pub. L. 113–128, § 435(1)(B)(ii)(II)][/us/pl/113/128/s435/1/B/ii/II], substituted “have significant challenges engaging in community life outside their homes and individuals who are in institutional settings;” for “are homebound and individuals who are institutionalized;”.
+
+    Subsec. (a)(2)(B)(iv). [Pub. L. 113–128, § 435(1)(B)(ii)(III)][/us/pl/113/128/s435/1/B/ii/III], inserted “, including the principles of universal design and the interoperability of products and services” after “disabilities”.
+
+    Subsec. (a)(2)(B)(v). [Pub. L. 113–128, § 435(1)(B)(ii)(IV)][/us/pl/113/128/s435/1/B/ii/IV], inserted “, and to promoting employment opportunities in competitive integrated employment” after “employment”.
+
+    Subsec. (a)(2)(B)(vii). [Pub. L. 113–128, § 435(1)(B)(ii)(VI)][/us/pl/113/128/s435/1/B/ii/VI], substituted “, assistive technology, and communications technology; and” for “and assistive technology.”
+
+    Subsec. (a)(2)(B)(viii). [Pub. L. 113–128, § 435(1)(B)(ii)(V)][/us/pl/113/128/s435/1/B/ii/V], (VII), added cl. (viii).
+
+    Subsec. (a)(3). [Pub. L. 113–128, § 435(1)(C)][/us/pl/113/128/s435/1/C], added par. (3).
+
+    Subsec. (b)(1). [Pub. L. 113–128, § 435(2)(A)][/us/pl/113/128/s435/2/A], substituted “(17)” for “(18)” in two places.
+
+    Subsec. (b)(2)(A)(i), (ii). [Pub. L. 113–128, § 435(2)(B)(i)][/us/pl/113/128/s435/2/B/i], added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+
+    “‘(i) be operated in collaboration with institutions of higher education or providers of rehabilitation services or other appropriate services; and
+
+    “(ii) serve as centers of national excellence and national or regional resources for providers and individuals with disabilities and the individuals’ representatives.”
+
+    Subsec. (b)(2)(B)(i). [Pub. L. 113–128, § 435(2)(B)(ii)(I)][/us/pl/113/128/s435/2/B/ii/I], inserted “independent living and” after “research in” and after “will improve” and substituted “maximize health and function (including alleviating or stabilizing conditions, or preventing secondary conditions), and promote maximum social and economic independence of individuals with disabilities, including promoting the ability of the individuals to prepare for, secure, retain, regain, or advance in employment;” for “alleviate or stabilize disabling conditions, and promote maximum social and economic independence of individuals with disabilities, especially promoting the ability of the individuals to prepare for, secure, retain, regain, or advance in employment;”.
+
+    Subsec. (b)(2)(B)(ii). [Pub. L. 113–128, § 435(2)(B)(ii)(III)][/us/pl/113/128/s435/2/B/ii/III], added cl. (ii). Former cl. (ii) redesignated (iii).
+
+    Subsec. (b)(2)(B)(iii). [Pub. L. 113–128, § 435(2)(B)(ii)(IV)][/us/pl/113/128/s435/2/B/ii/IV], inserted “independent living and” before “rehabilitation services”.
+
+    [Pub. L. 113–128, § 435(2)(B)(ii)(II)][/us/pl/113/128/s435/2/B/ii/II], redesignated cl. (ii) as (iii). Former cl. (iii) redesignated (iv).
+
+    Subsec. (b)(2)(B)(iv). [Pub. L. 113–128, § 435(2)(B)(ii)(V)][/us/pl/113/128/s435/2/B/ii/V], inserted “independent living and” before “rehabilitation” in two places and struck out “and” at end.
+
+    [Pub. L. 113–128, § 435(2)(B)(ii)(II)][/us/pl/113/128/s435/2/B/ii/II], redesignated cl. (iii) as (iv). Former cl. (iv) redesignated (v).
+
+    Subsec. (b)(2)(B)(v). [Pub. L. 113–128, § 435(2)(B)(ii)(VI)][/us/pl/113/128/s435/2/B/ii/VI], added cl. (v) and struck out former cl. (v) which read as follows: “serving as an informational and technical assistance resource to providers, individuals with disabilities, and the individuals’ representatives, through conferences, workshops, public education programs, in-service training programs, and similar activities.”
+
+    [Pub. L. 113–128, § 435(2)(B)(ii)(II)][/us/pl/113/128/s435/2/B/ii/II], redesignated cl. (iv) as (v).
+
+    Subsec. (b)(2)(B)(vi). [Pub. L. 113–128, § 435(2)(B)(ii)(VI)][/us/pl/113/128/s435/2/B/ii/VI], added cl. (vi).
+
+    Subsec. (b)(2)(C)(i). [Pub. L. 113–128, § 435(2)(B)(iii)(I)][/us/pl/113/128/s435/2/B/iii/I], inserted “, including research on assistive technology devices, assistive technology services, and accessible electronic and information technology devices” after “rehabilitation research”.
+
+    Subsec. (b)(2)(C)(ii). [Pub. L. 113–128, § 435(2)(B)(iii)(II)][/us/pl/113/128/s435/2/B/iii/II], substituted “, social, and economic” for “and social” and inserted “independent living and” before “rehabilitation”.
+
+    Subsec. (b)(2)(C)(iii). [Pub. L. 113–128, § 435(2)(B)(iii)(V)][/us/pl/113/128/s435/2/B/iii/V], substituted “that promotes the emotional, social, educational, and functional growth of children who are individuals with disabilities, as well as their integration in school, employment, and community activities;” for “to develop and evaluate interventions, policies, and services that support families of those children and adults who are individuals with disabilities; and”.
+
+    [Pub. L. 113–128, § 435(2)(B)(iii)(III)][/us/pl/113/128/s435/2/B/iii/III], (IV), redesignated cl. (v) as (iii) and struck out former cl. (iii) which read as follows: “research related to vocational rehabilitation;”.
+
+    Subsec. (b)(2)(C)(iv). [Pub. L. 113–128, § 435(2)(B)(iii)(VI)][/us/pl/113/128/s435/2/B/iii/VI], substituted “to develop and evaluate interventions, policies, and services that support families of those children and adults who are individuals with disabilities;” for “that will improve services and policies that foster the productivity, independence, and social integration of individuals with disabilities, and enable individuals with disabilities, including individuals with intellectual disabilities and other developmental disabilities, to live in their communities.”
+
+    [Pub. L. 113–128, § 435(2)(B)(iii)(III)][/us/pl/113/128/s435/2/B/iii/III], (IV), redesignated cl. (vi) as (iv) and struck out former cl. (iv) which read as follows: “continuation of research that promotes the emotional, social, educational, and functional growth of children who are individuals with disabilities;”.
+
+    Subsec. (b)(2)(C)(v), (vi). [Pub. L. 113–128, § 435(2)(B)(iii)(VII)][/us/pl/113/128/s435/2/B/iii/VII], added cls. (v) and (vi).
+
+    Subsec. (b)(2)(D). [Pub. L. 113–128, § 435(2)(B)(iv)][/us/pl/113/128/s435/2/B/iv], added subpar. (D) and struck out former subpar. (D) which read as follows: “Training of students preparing to be rehabilitation personnel shall be an important priority for such a Center.”
+
+    Subsec. (b)(2)(E). [Pub. L. 113–128, § 435(2)(B)(v)][/us/pl/113/128/s435/2/B/v], struck out “comprehensive” after “both”.
+
+    Subsec. (b)(2)(G)(i). [Pub. L. 113–128, § 435(2)(B)(vi)][/us/pl/113/128/s435/2/B/vi], inserted “independent living and” before “rehabilitation-related”.
+
+    Subsec. (b)(2)(I). [Pub. L. 113–128, § 435(2)(B)(vii)][/us/pl/113/128/s435/2/B/vii], (viii), redesignated subpar. (J) as (I) and struck out former subpar. (I) which read as follows: “The Director shall encourage the Centers to develop practical applications for the findings of the research of the Centers.”
+
+    Subsec. (b)(2)(J) to (N). [Pub. L. 113–128, § 435(2)(B)(viii)][/us/pl/113/128/s435/2/B/viii], redesignated subpars. (K) to (O) as (J) to (N), respectively. Former subpar. (J) redesignated (I).
+
+    Subsec. (b)(3)(A). [Pub. L. 113–128, § 435(2)(C)(i)][/us/pl/113/128/s435/2/C/i], inserted “independent living strategies and” before “rehabilitation technology”.
+
+    Subsec. (b)(3)(B)(i)(I). [Pub. L. 113–128, § 435(2)(C)(ii)(I)][/us/pl/113/128/s435/2/C/ii/I], inserted “independent living and” before “rehabilitation problems”.
+
+    Subsec. (b)(3)(B)(ii)(II). [Pub. L. 113–128, § 435(2)(C)(ii)(II)][/us/pl/113/128/s435/2/C/ii/II], substituted “educational, employment,” for “employment”.
+
+    Subsec. (b)(3)(B)(iii)(II). [Pub. L. 113–128, § 435(2)(C)(ii)(III)][/us/pl/113/128/s435/2/C/ii/III], substituted “educational, employment,” for “employment”.
+
+    Subsec. (b)(3)(D)(i)(II). [Pub. L. 113–128, § 435(2)(C)(iii)][/us/pl/113/128/s435/2/C/iii], substituted “postsecondary education, competitive integrated employment, and other age-appropriate” for “postschool”.
+
+    Subsec. (b)(3)(G)(ii). [Pub. L. 113–128, § 435(2)(C)(iv)][/us/pl/113/128/s435/2/C/iv], inserted “the impact of any commercialized product researched or developed through the Center,” after “individuals with disabilities,”.
+
+    Subsec. (b)(4)(B)(i). [Pub. L. 113–128, § 435(2)(D)(i)][/us/pl/113/128/s435/2/D/i], substituted “independent living, employment,” for “vocational” and “unique” for “special” and inserted “social and functional needs, and” before “acute care”.
+
+    Subsec. (b)(4)(B)(iv). [Pub. L. 113–128, § 435(2)(D)(ii)][/us/pl/113/128/s435/2/D/ii], inserted “education, health and wellness,” after “employment,”.
+
+    Subsec. (b)(8). [Pub. L. 113–128, § 435(2)(E)][/us/pl/113/128/s435/2/E], added par. (8) and struck out former par. (8) which read as follows: “Research grants may be used to conduct a program of joint projects with the National Institutes of Health, the National Institute of Mental Health, the Health Services Administration, the Administration on Aging, the National Science Foundation, the Veterans’ Administration, the Department of Health and Human Services, the National Aeronautics and Space Administration, other Federal agencies, and private industry in areas of joint interest involving rehabilitation.”
+
+    Subsec. (b)(9). [Pub. L. 113–128, § 435(2)(F)][/us/pl/113/128/s435/2/F], (G), redesignated par. (10) as (9) and struck out former par. (9) which read as follows: “Research grants may be used to conduct a program of research related to the rehabilitation of children, or older individuals, who are individuals with disabilities, including older American Indians who are individuals with disabilities. Such research program may include projects designed to assist the adjustment of, or maintain as residents in the community, older workers who are individuals with disabilities on leaving the workforce.”
+
+    Subsec. (b)(10). [Pub. L. 113–128, § 435(2)(G)][/us/pl/113/128/s435/2/G], redesignated par. (12) as (10). Former par. (10) redesignated (9).
+
+    Subsec. (b)(11). [Pub. L. 113–128, § 435(2)(H)(i)][/us/pl/113/128/s435/2/H/i], substituted “employment needs, opportunities, and outcomes (including those relating to self-employment, supported employment, and telecommuting) of individuals with disabilities, including” for “employment needs of individuals with disabilities, including” in introductory provisions.
+
+    [Pub. L. 113–128, § 435(2)(F)][/us/pl/113/128/s435/2/F], (G), redesignated par. (13) as (11) and struck out former par. (11) which read as follows: “Research grants may be used to conduct a model research and demonstration project designed to assess the feasibility of establishing a center for producing and distributing to individuals who are deaf or hard of hearing captioned video cassettes providing a broad range of educational, cultural, scientific, and vocational programming.”
+
+    Subsec. (b)(11)(B). [Pub. L. 113–128, § 435(2)(H)(ii)][/us/pl/113/128/s435/2/H/ii], inserted “and employment related” after “the employment”.
+
+    Subsec. (b)(11)(G) to (L). [Pub. L. 113–128, § 435(2)(H)(iii)][/us/pl/113/128/s435/2/H/iii]–(v), added subpars. (G) to (L).
+
+    Subsec. (b)(12). [Pub. L. 113–128, § 435(2)(I)(i)][/us/pl/113/128/s435/2/I/i], (iii), in introductory provisions, inserted “an independent living or” after “conduct” and, in concluding provisions, substituted “National Institute on Disability, Independent Living, and Rehabilitation Research” for “National Institute on Disability and Rehabilitation Research”.
+
+    [Pub. L. 113–128, § 435(2)(G)][/us/pl/113/128/s435/2/G], redesignated par. (14) as (12). Former par. (12) redesignated (10).
+
+    Subsec. (b)(12)(D). [Pub. L. 113–128, § 435(2)(I)(ii)][/us/pl/113/128/s435/2/I/ii], inserted “independent living or” before “rehabilitation”.
+
+    Subsec. (b)(13). [Pub. L. 113–128, § 435(2)(J)][/us/pl/113/128/s435/2/J], inserted “independent living and” before “rehabilitation needs”.
+
+    [Pub. L. 113–128, § 435(2)(G)][/us/pl/113/128/s435/2/G], redesignated par. (15) as (13). Former par. (13) redesignated (11).
+
+    Subsec. (b)(14). [Pub. L. 113–128, § 435(2)(K)][/us/pl/113/128/s435/2/K], substituted “, full participation, and economic self-sufficiency.” for “and access to gainful employment.”
+
+    [Pub. L. 113–128, § 435(2)(G)][/us/pl/113/128/s435/2/G], redesignated par. (16) as (14). Former par. (14) redesignated (12).
+
+    Subsec. (b)(15) to (18). [Pub. L. 113–128, § 435(2)(G)][/us/pl/113/128/s435/2/G], redesignated pars. (17) and (18) as (15) and (16), respectively. Former pars. (15) and (16) redesignated (13) and (14), respectively.
+
+    Subsec. (d). [Pub. L. 113–128, § 435(3)][/us/pl/113/128/s435/3], added subsec. (d).
 
     2010—Subsec. (b)(2)(C)(vi). [Pub. L. 111–256][/us/pl/111/256] substituted “intellectual disabilities and other developmental disabilities” for “mental retardation and other developmental disabilities”.
 
@@ -371,11 +531,14 @@
 ----------
 
 [/us/usc/t29/s762/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs762%2Fh
+[/us/usc/t29/s718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs718
+[/us/usc/t29/s705/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs705%2F11
 [/us/usc/t29/s762/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs762%2Fh
 [/us/usc/t29/s762/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs762%2Ff
 [/us/usc/t29/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3001
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/usc/t29/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3001
+[/us/usc/t31/s1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1115
 [/us/pl/93/112/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs204
 [/us/pl/105/220/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs405
 [/us/stat/112/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1173
@@ -385,6 +548,8 @@
 [/us/stat/112/3661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3661
 [/us/pl/111/256/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2%2Fd%2F2
 [/us/stat/124/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2643
+[/us/pl/113/128/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435
+[/us/stat/128/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1666
 [/us/pl/105/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394
 [/us/stat/112/3627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3627
 [/us/usc/t29/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3001
@@ -397,6 +562,62 @@
 [/us/stat/87/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F376
 [/us/pl/95/602/s109/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs109%2F3
 [/us/stat/92/2963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2963
+[/us/pl/113/128/s435/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F1%2FA
+[/us/pl/113/128/s435/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F1%2FB%2Fi
+[/us/pl/113/128/s435/1/B/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F1%2FB%2Fii%2FI
+[/us/pl/113/128/s435/1/B/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F1%2FB%2Fii%2FII
+[/us/pl/113/128/s435/1/B/ii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F1%2FB%2Fii%2FIII
+[/us/pl/113/128/s435/1/B/ii/IV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F1%2FB%2Fii%2FIV
+[/us/pl/113/128/s435/1/B/ii/VI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F1%2FB%2Fii%2FVI
+[/us/pl/113/128/s435/1/B/ii/V]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F1%2FB%2Fii%2FV
+[/us/pl/113/128/s435/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F1%2FC
+[/us/pl/113/128/s435/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FA
+[/us/pl/113/128/s435/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FB%2Fi
+[/us/pl/113/128/s435/2/B/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FB%2Fii%2FI
+[/us/pl/113/128/s435/2/B/ii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FB%2Fii%2FIII
+[/us/pl/113/128/s435/2/B/ii/IV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FB%2Fii%2FIV
+[/us/pl/113/128/s435/2/B/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FB%2Fii%2FII
+[/us/pl/113/128/s435/2/B/ii/V]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FB%2Fii%2FV
+[/us/pl/113/128/s435/2/B/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FB%2Fii%2FII
+[/us/pl/113/128/s435/2/B/ii/VI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FB%2Fii%2FVI
+[/us/pl/113/128/s435/2/B/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FB%2Fii%2FII
+[/us/pl/113/128/s435/2/B/ii/VI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FB%2Fii%2FVI
+[/us/pl/113/128/s435/2/B/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FB%2Fiii%2FI
+[/us/pl/113/128/s435/2/B/iii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FB%2Fiii%2FII
+[/us/pl/113/128/s435/2/B/iii/V]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FB%2Fiii%2FV
+[/us/pl/113/128/s435/2/B/iii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FB%2Fiii%2FIII
+[/us/pl/113/128/s435/2/B/iii/VI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FB%2Fiii%2FVI
+[/us/pl/113/128/s435/2/B/iii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FB%2Fiii%2FIII
+[/us/pl/113/128/s435/2/B/iii/VII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FB%2Fiii%2FVII
+[/us/pl/113/128/s435/2/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FB%2Fiv
+[/us/pl/113/128/s435/2/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FB%2Fv
+[/us/pl/113/128/s435/2/B/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FB%2Fvi
+[/us/pl/113/128/s435/2/B/vii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FB%2Fvii
+[/us/pl/113/128/s435/2/B/viii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FB%2Fviii
+[/us/pl/113/128/s435/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FC%2Fi
+[/us/pl/113/128/s435/2/C/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FC%2Fii%2FI
+[/us/pl/113/128/s435/2/C/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FC%2Fii%2FII
+[/us/pl/113/128/s435/2/C/ii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FC%2Fii%2FIII
+[/us/pl/113/128/s435/2/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FC%2Fiii
+[/us/pl/113/128/s435/2/C/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FC%2Fiv
+[/us/pl/113/128/s435/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FD%2Fi
+[/us/pl/113/128/s435/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FD%2Fii
+[/us/pl/113/128/s435/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FE
+[/us/pl/113/128/s435/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FF
+[/us/pl/113/128/s435/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FG
+[/us/pl/113/128/s435/2/H/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FH%2Fi
+[/us/pl/113/128/s435/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FF
+[/us/pl/113/128/s435/2/H/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FH%2Fii
+[/us/pl/113/128/s435/2/H/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FH%2Fiii
+[/us/pl/113/128/s435/2/I/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FI%2Fi
+[/us/pl/113/128/s435/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FG
+[/us/pl/113/128/s435/2/I/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FI%2Fii
+[/us/pl/113/128/s435/2/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FJ
+[/us/pl/113/128/s435/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FG
+[/us/pl/113/128/s435/2/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FK
+[/us/pl/113/128/s435/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FG
+[/us/pl/113/128/s435/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F2%2FG
+[/us/pl/113/128/s435/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs435%2F3
 [/us/pl/111/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/220/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs405

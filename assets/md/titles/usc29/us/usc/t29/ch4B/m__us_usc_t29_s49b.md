@@ -33,7 +33,33 @@
 
         (3) ensure, for individuals otherwise eligible to receive unemployment compensation, the provision of reemployment services and other activities in which the individuals are required to participate to receive the compensation.
 
-([June 6, 1933, ch. 49, § 3][/us/act/1933-06-06/ch49/s3], [48 Stat. 114][/us/stat/48/114]; [Sept. 8, 1950, ch. 933, § 1][/us/act/1950-09-08/ch933/s1], [64 Stat. 822][/us/stat/64/822]; [Aug. 3, 1954, ch. 655, § 6(a)][/us/act/1954-08-03/ch655/s6/a], [68 Stat. 665][/us/stat/68/665]; [Aug. 1, 1956, ch. 852, § 17(a)][/us/act/1956-08-01/ch852/s17/a], [70 Stat. 910][/us/stat/70/910]; [Pub. L. 86–624, § 21(a)][/us/pl/86/624/s21/a], July 12, 1960, [74 Stat. 417][/us/stat/74/417]; [Pub. L. 93–198, title II, § 204(c)][/us/pl/93/198/s204/c], Dec. 24, 1973, [87 Stat. 783][/us/stat/87/783]; [Pub. L. 94–566, title V, § 508(a)][/us/pl/94/566/s508/a], Oct. 20, 1976, [90 Stat. 2689][/us/stat/90/2689]; [Pub. L. 97–300, title VI, § 601(a)][/us/pl/97/300/s601/a], formerly title V, § 501(a), Oct. 13, 1982, [96 Stat. 1392][/us/stat/96/1392]; renumbered title VI, § 601(a), [Pub. L. 100–628, title VII, § 712(a)(1)][/us/pl/100/628/s712/a/1], (2), Nov. 7, 1988, [102 Stat. 3248][/us/stat/102/3248]; [Pub. L. 99–198, title XV, § 1535(b)(2)][/us/pl/99/198/s1535/b/2], Dec. 23, 1985, [99 Stat. 1584][/us/stat/99/1584]; [Pub. L. 104–193, title I, § 110(m)][/us/pl/104/193/s110/m], Aug. 22, 1996, [110 Stat. 2173][/us/stat/110/2173]; [Pub. L. 105–220, title III][/us/pl/105/220], §§ 302(a), 310, Aug. 7, 1998, [112 Stat. 1080][/us/stat/112/1080], 1086; [Pub. L. 110–234, title IV, § 4002(b)(1)(A)][/us/pl/110/234/s4002/b/1/A], (B), (2)(Q), May 22, 2008, [122 Stat. 1095–1097][/us/stat/122/1095-1097]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(A), (B), (2)(Q), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858.)
+([June 6, 1933, ch. 49, § 3][/us/act/1933-06-06/ch49/s3], [48 Stat. 114][/us/stat/48/114]; [Sept. 8, 1950, ch. 933, § 1][/us/act/1950-09-08/ch933/s1], [64 Stat. 822][/us/stat/64/822]; [Aug. 3, 1954, ch. 655, § 6(a)][/us/act/1954-08-03/ch655/s6/a], [68 Stat. 665][/us/stat/68/665]; [Aug. 1, 1956, ch. 852, § 17(a)][/us/act/1956-08-01/ch852/s17/a], [70 Stat. 910][/us/stat/70/910]; [Pub. L. 86–624, § 21(a)][/us/pl/86/624/s21/a], July 12, 1960, [74 Stat. 417][/us/stat/74/417]; [Pub. L. 93–198, title II, § 204(c)][/us/pl/93/198/s204/c], Dec. 24, 1973, [87 Stat. 783][/us/stat/87/783]; [Pub. L. 94–566, title V, § 508(a)][/us/pl/94/566/s508/a], Oct. 20, 1976, [90 Stat. 2689][/us/stat/90/2689]; [Pub. L. 97–300, title VI, § 601(a)][/us/pl/97/300/s601/a], formerly title V, § 501(a), Oct. 13, 1982, [96 Stat. 1392][/us/stat/96/1392]; renumbered title VI, § 601(a), [Pub. L. 100–628, title VII, § 712(a)(1)][/us/pl/100/628/s712/a/1], (2), Nov. 7, 1988, [102 Stat. 3248][/us/stat/102/3248]; [Pub. L. 99–198, title XV, § 1535(b)(2)][/us/pl/99/198/s1535/b/2], Dec. 23, 1985, [99 Stat. 1584][/us/stat/99/1584]; [Pub. L. 104–193, title I, § 110(m)][/us/pl/104/193/s110/m], Aug. 22, 1996, [110 Stat. 2173][/us/stat/110/2173]; [Pub. L. 105–220, title III][/us/pl/105/220], §§ 302(a), 310, Aug. 7, 1998, [112 Stat. 1080][/us/stat/112/1080], 1086; [Pub. L. 110–234, title IV, § 4002(b)(1)(A)][/us/pl/110/234/s4002/b/1/A], (B), (2)(Q), May 22, 2008, [122 Stat. 1095–1097][/us/stat/122/1095-1097]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(A), (B), (2)(Q), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858; [Pub. L. 113–128, title III, § 303][/us/pl/113/128/s303], July 22, 2014, [128 Stat. 1625][/us/stat/128/1625].)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 113–128, title III, § 303][/us/pl/113/128/s303], title V, § 506, July 22, 2014, [128 Stat. 1625][/us/stat/128/1625], 1703, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended as follows:
+
+    (1) in subsection (a), by striking “services” and inserting “service offices”;
+
+    (2) in subsection (c):
+
+    (A) in paragraph (2), by striking the semicolon and inserting “, and identify and disseminate information on best practices for such system; and”; and
+
+    (B) by adding at the end the following:
+
+    “(4) in coordination with the State agencies and the staff of such agencies, assist in the planning and implementation of activities to enhance the professional development and career advancement opportunities of such staff, in order to strengthen the provision of a broad range of career guidance services, the identification of job openings (including providing intensive outreach to small and medium-sized employers and enhanced employer services), the provision of technical assistance and training to other providers of workforce development activities (including workplace learning advisors) relating to counseling and employment-related services, and the development of new strategies for coordinating counseling and technology.”; and
+
+    (3) by inserting after subsection (c) the following:
+
+    (d) In order to improve service delivery, avoid duplication of services, and enhance coordination of services, including location of staff to ensure access to services under [section 49f(a) of this title][/us/usc/t29/s49f/a] statewide in underserved areas, employment service offices in each State shall be colocated with one-stop centers.
+
+    (e) The Secretary, in consultation with States, is authorized to assist the States in the development of national electronic tools that may be used to improve access to workforce information for individuals through—
+
+    (1) the one-stop delivery systems established as described in [section 3151(e) of this title][/us/usc/t29/s3151/e]; and
+
+    (2) such other delivery systems as the Secretary determines to be appropriate.
+
+    See 2014 Amendment notes below.
 
  __References in Text__ 
 
@@ -46,6 +72,14 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–128, § 303(a)][/us/pl/113/128/s303/a], substituted “service offices” for “services”.
+
+    Subsec. (c)(2). [Pub. L. 113–128, § 303(b)(1)][/us/pl/113/128/s303/b/1], substituted “, and identify and disseminate information on best practices for such system; and” for semicolon.
+
+    Subsec. (c)(4). [Pub. L. 113–128, § 303(b)(2)][/us/pl/113/128/s303/b/2], added par. (4).
+
+    Subsecs. (d), (e). [Pub. L. 113–128, § 303(c)][/us/pl/113/128/s303/c], added subsecs. (d) and (e).
 
     2008—Subsec. (b). [Pub. L. 110–246, § 4002(b)(1)(A)][/us/pl/110/246/s4002/b/1/A], (B), (2)(Q), which directed amendment of the “Wagner-Peysner Act” by substituting “supplemental nutrition assistance program” for “food stamp program” wherever appearing and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” wherever appearing, was executed by making the substitutions in subsec. (b) of this section, which is section 3 of the Wagner-Peyser Act, to reflect the probable intent of Congress.
 
@@ -74,6 +108,10 @@
     1954—Subsec. (a). Act Aug. 3, 1954, inserted provisions relating to employment counseling and placement services for handicapped persons.
 
     1950—Subsec. (b). Act Sept. 8, 1950, included Puerto Rico and Virgin Islands in definition of “State” or “States”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of this title][/us/usc/t29/s3101].
 
  __Effective Date of 2008 Amendment__ 
 
@@ -141,6 +179,12 @@
 [/us/stat/122/1095-1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1095-1097
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/128/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs303
+[/us/stat/128/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1625
+[/us/pl/113/128/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs303
+[/us/stat/128/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1625
+[/us/usc/t29/s49f/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49f%2Fa
+[/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -151,6 +195,10 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/128/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs303%2Fa
+[/us/pl/113/128/s303/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs303%2Fb%2F1
+[/us/pl/113/128/s303/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs303%2Fb%2F2
+[/us/pl/113/128/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs303%2Fc
 [/us/pl/110/246/s4002/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FA
 [/us/pl/105/220/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs302%2Fa%2F1
 [/us/pl/105/220/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs310
@@ -162,6 +210,9 @@
 [/us/pl/93/198/s204/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs204%2Fc%2F1
 [/us/pl/93/198/s204/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs204%2Fc%2F2
 [/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

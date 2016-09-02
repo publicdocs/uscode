@@ -23,7 +23,7 @@
 
             (A) The total of payments under paragraph (1) to a State for a fiscal year may not exceed its allotment under subsection (a) of [section 730 of this title][/us/usc/t29/s730] for such year.
 
-            (B) For fiscal year 1994 and each fiscal year thereafter, the amount otherwise payable to a State for a fiscal year under this section shall be reduced by the amount by which expenditures from non-Federal sources under the State plan under this subchapter for the previous fiscal year are less than the total of such expenditures for the second fiscal year preceding the previous fiscal year.
+            (B) The amount otherwise payable to a State for a fiscal year under this section shall be reduced by the amount by which expenditures from non-Federal sources under the State plan under this subchapter for any previous fiscal year are less than the total of such expenditures for the second fiscal year preceding that previous fiscal year.
 
             (C) The Commissioner may waive or modify any requirement or limitation under subparagraph (B) or [section 721(a)(17) of this title][/us/usc/t29/s721/a/17] if the Commissioner determines that a waiver or modification is an equitable response to exceptional or uncontrollable circumstances affecting the State.
 
@@ -41,7 +41,7 @@
 
         (2) The Commissioner shall pay, from the allotment available therefor, the amount so estimated by the Commissioner for such period, reduced or increased, as the case may be, by any sum (not previously adjusted under this paragraph) by which the Commissioner finds that the estimate of the amount to be paid the State for any prior period under such subsection was greater or less than the amount which should have been paid to the State for such prior period under such subsection. Such payment shall be made prior to audit or settlement by the Government Accountability Office, shall be made through the disbursing facilities of the Treasury Department, and shall be made in such installments as the Commissioner may determine.
 
-([Pub. L. 93–112, title I, § 111][/us/pl/93/112/s111], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1162][/us/stat/112/1162]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(b)(8)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–413; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 93–112, title I, § 111][/us/pl/93/112/s111], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1162][/us/stat/112/1162]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(b)(8)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–413; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 113–128, title IV, § 420][/us/pl/113/128/s420], July 22, 2014, [128 Stat. 1656][/us/stat/128/1656].)
 
  __Prior Provisions__ 
 
@@ -49,9 +49,15 @@
 
  __Amendments__ 
 
+    2014—Subsec. (a)(2)(B). [Pub. L. 113–128][/us/pl/113/128] substituted “The” for “For fiscal year 1994 and each fiscal year thereafter, the”, “this subchapter for any previous” for “this subchapter for the previous”, and “year preceding that previous” for “year preceding the previous”.
+
     2004—Subsec. (b)(2). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office”.
 
     1998—[Pub. L. 105–277][/us/pl/105/277] made technical amendment to section designation and catchline in original.
+
+ __Definitions of Terms in__  __[__  __Pub. L. 113–128__  __][/us/pl/113/128]__ 
+
+    Except as otherwise provided, terms defined in [section 3 of Pub. L. 113–128][/us/pl/113/128/s3], which is classified to [section 3102 of this title][/us/usc/t29/s3102], apply to this section.
 
 ----------
 
@@ -70,6 +76,8 @@
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
+[/us/pl/113/128/s420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs420
+[/us/stat/128/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1656
 [/us/pl/93/112/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs111
 [/us/stat/87/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F371
 [/us/pl/95/602/s122/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs122%2Fb%2F1
@@ -83,7 +91,11 @@
 [/us/pl/103/73/s107/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs107%2Ff
 [/us/stat/107/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F723
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs3
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 
 

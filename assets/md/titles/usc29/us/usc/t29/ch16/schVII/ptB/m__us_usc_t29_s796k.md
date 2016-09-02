@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch16/schVII/ptB/m__us_usc_t29_s796j.md) | [Next](./../../../../../..//us/usc/t29/ch16/schVII/ptB/m__us_usc_t29_s796l.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796k)
+[Previous](./../../../../../..//us/usc/t29/ch16/schVII/ptB/m__us_usc_t29_s796j–1.md) | [Next](./../../../../../..//us/usc/t29/ch16/schVII/ptB/m__us_usc_t29_s796l.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796k)
 
 ## § 796k. Program of grants
 
@@ -47,7 +47,7 @@
 
         (2) __Allotments__ 
 
-            For grants under subsection (a) of this section for a fiscal year described in paragraph (1), the Commissioner shall make an allotment to each State in an amount determined in accordance with subsection (j) of this section, and shall make a grant to the State of the allotment made for the State if the State submits to the Commissioner an application in accordance with subsection (i) of this section.
+            For grants under subsection (a) of this section for a fiscal year described in paragraph (1), the Commissioner shall make an allotment to each State in an amount determined in accordance with subsection (i) of this section, and shall make a grant to the State of the allotment made for the State if the State submits to the Commissioner an application in accordance with subsection (h) of this section.
 
     (d) __Services generally__ 
 
@@ -101,17 +101,13 @@
 
     (g) __Certain expenditures of grants__ 
 
-        A State may expend a grant under subsection (a) of this section to carry out the purposes specified in subsection (d) of this section through grants to public and nonprofit private agencies or organizations.
+        A State may expend a grant under subsection (a) of this section to carry out the purposes specified in subsection (d) of this section through grants to, or contracts or cooperative agreements with, public and nonprofit private agencies or organizations.
 
-    (h) __Requirement regarding State plan__ 
-
-        The Commissioner may not make a grant under subsection (a) of this section unless the State involved agrees that, in carrying out subsection (d)(1) of this section, the State will seek to incorporate into the State plan under [section 796c of this title][/us/usc/t29/s796c] any new methods and approaches relating to independent living services for older individuals who are blind.
-
-    (i) __Application for grant__ 
+    (h) __Application for grant__ 
 
         (1) __In general__ 
 
-            The Commissioner may not make a grant under subsection (a) of this section unless an application for the grant is submitted to the Commissioner and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Commissioner determines to be necessary to carry out this section (including agreements, assurances, and information with respect to any grants under subsection (j)(4) of this section).
+            The Commissioner may not make a grant under subsection (a) of this section unless an application for the grant is submitted to the Commissioner and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Commissioner determines to be necessary to carry out this section (including agreements, assurances, and information with respect to any grants under subsection (i)(4) of this section).
 
         (2) __Contents__ 
 
@@ -131,7 +127,7 @@
 
                 (v) data on actions taken to employ, and advance in employment, qualified individuals with significant disabilities, including older individuals who are blind; and
 
-                (vi) a comparison, if appropriate, of prior year activities with the activities of the most recent year;
+                (vi) a comparison, if appropriate, of prior year activities with the activities of the most recent year; and
 
             (B)
 
@@ -147,11 +143,9 @@
 
                     (II) activities to promote community awareness, involvement, and assistance; and
 
-                    (III) outreach efforts; and
+                    (III) outreach efforts.
 
-            (C) an assurance that the application is consistent with the State plan for providing independent living services required by [section 796c of this title][/us/usc/t29/s796c].
-
-    (j) __Amount of formula grant__ 
+    (i) __Amount of formula grant__ 
 
         (1) __In general__ 
 
@@ -169,7 +163,7 @@
 
                 (i) $225,000; or
 
-                (ii) an amount equal to ⅓ of 1 percent of the amount appropriated under section 796l of this title for the fiscal year and available for allotments under subsection (a) of this section.
+                (ii) an amount equal to ⅓ of 1 percent of the amount appropriated under section 796l of this title, and not reserved under [section 796j–1 of this title][/us/usc/t29/s796j–1], for the fiscal year and available for allotments under subsection (a) of this section.
 
             (B) __Certain territories__ 
 
@@ -179,7 +173,7 @@
 
         The amount referred to in subparagraph (B) of paragraph (1) for a State for a fiscal year is the product of—
 
-            (A) the amount appropriated under section 796l of this title and available for allotments under subsection (a) of this section; and
+            (A) the amount appropriated under section 796l of this title, and not reserved under [section 796j–1 of this title][/us/usc/t29/s796j–1], and available for allotments under subsection (a) of this section; and
 
             (B)
 
@@ -199,7 +193,7 @@
 
             The amounts referred to in subparagraph (A) are any amounts that are not paid to States under subsection (a) of this section as a result of—
 
-                (i) the failure of any State to submit an application under subsection (i) of this section;
+                (i) the failure of any State to submit an application under subsection (h) of this section;
 
                 (ii) the failure of any State to prepare within a reasonable period of time such application in compliance with such subsection; or
 
@@ -209,7 +203,7 @@
 
                 The Commissioner may not make a grant under subparagraph (A) unless the State involved agrees that the grant is subject to the same conditions as grants made under subsection (a) of this section.
 
-([Pub. L. 93–112, title VII, § 752][/us/pl/93/112/s752], as added [Pub. L. 105–220, title IV, § 410][/us/pl/105/220/s410], Aug. 7, 1998, [112 Stat. 1237][/us/stat/112/1237].)
+([Pub. L. 93–112, title VII, § 752][/us/pl/93/112/s752], as added [Pub. L. 105–220, title IV, § 410][/us/pl/105/220/s410], Aug. 7, 1998, [112 Stat. 1237][/us/stat/112/1237]; amended [Pub. L. 113–128, title IV, § 487][/us/pl/113/128/s487], July 22, 2014, [128 Stat. 1694][/us/stat/128/1694].)
 
  __References in Text__ 
 
@@ -219,19 +213,41 @@
 
     A prior section 796k, [Pub. L. 93–112, title VII, § 752][/us/pl/93/112/s752], as added [Pub. L. 102–569, title VII, § 703(a)][/us/pl/102/569/s703/a], Oct. 29, 1992, [106 Stat. 4465][/us/stat/106/4465]; amended [Pub. L. 103–73, title I, § 114(m)][/us/pl/103/73/s114/m], Aug. 11, 1993, [107 Stat. 732][/us/stat/107/732], authorized grants to provide independent living services for older individuals who are blind, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
+ __Amendments__ 
+
+    2014—Subsec. (c)(2). [Pub. L. 113–128, § 487(3)][/us/pl/113/128/s487/3], substituted “subsection (i)” for “subsection (j)” and “subsection (h)” for “subsection (i)”.
+
+    Subsec. (g). [Pub. L. 113–128, § 487(4)][/us/pl/113/128/s487/4], inserted “, or contracts or cooperative agreements with,” after “grants to”.
+
+    Subsec. (h). [Pub. L. 113–128, § 487(1)][/us/pl/113/128/s487/1], (2), redesignated subsec. (i) as (h) and struck out former subsec. (h). Prior to amendment, text read as follows: “The Commissioner may not make a grant under subsection (a) of this section unless the State involved agrees that, in carrying out subsection (d)(1) of this section, the State will seek to incorporate into the State plan under [section 796c of this title][/us/usc/t29/s796c] any new methods and approaches relating to independent living services for older individuals who are blind.”
+
+    Subsec. (h)(1). [Pub. L. 113–128, § 487(5)(A)][/us/pl/113/128/s487/5/A], substituted “subsection (i)(4)” for “subsection (j)(4)”.
+
+    Subsec. (h)(2)(A)(vi) to (C). [Pub. L. 113–128, § 487(5)(B)][/us/pl/113/128/s487/5/B], inserted “and” after semicolon at end of subpar. (A)(vi), substituted a period for “; and” at end of subpar. (B)(ii)(III), and struck out subpar. (C) which read as follows: “an assurance that the application is consistent with the State plan for providing independent living services required by [section 796c of this title][/us/usc/t29/s796c].”
+
+    Subsec. (i). [Pub. L. 113–128, § 487(2)][/us/pl/113/128/s487/2], redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
+
+    Subsec. (i)(2)(A)(ii), (3)(A). [Pub. L. 113–128, § 487(6)(A)][/us/pl/113/128/s487/6/A], (B), inserted “, and not reserved under [section 796j–1 of this title][/us/usc/t29/s796j–1],” after “section 796l of this title”.
+
+    Subsec. (i)(4)(B)(i). [Pub. L. 113–128, § 487(6)(C)][/us/pl/113/128/s487/6/C], substituted “subsection (h)” for “subsection (i)”.
+
+    Subsec. (j). [Pub. L. 113–128, § 487(2)][/us/pl/113/128/s487/2], redesignated subsec. (j) as (i).
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch16/schVII/ptB/m__us_usc_t29_s796j.md) | [Next](./../../../../../..//us/usc/t29/ch16/schVII/ptB/m__us_usc_t29_s796l.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796k)
+[Previous](./../../../../../..//us/usc/t29/ch16/schVII/ptB/m__us_usc_t29_s796j–1.md) | [Next](./../../../../../..//us/usc/t29/ch16/schVII/ptB/m__us_usc_t29_s796l.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796k)
 
 ----------
 ----------
 
 [/us/usc/t29/s721/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs721%2Fa%2F2%2FA%2Fi
-[/us/usc/t29/s796c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796c
-[/us/usc/t29/s796c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796c
+[/us/usc/t29/s796j–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796j%E2%80%931
+[/us/usc/t29/s796j–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796j%E2%80%931
 [/us/pl/93/112/s752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs752
 [/us/pl/105/220/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs410
 [/us/stat/112/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1237
+[/us/pl/113/128/s487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs487
+[/us/stat/128/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1694
 [/us/pl/102/569/s701/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs701%2F1
 [/us/stat/106/4443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4443
 [/us/pl/93/112/s752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs752
@@ -240,5 +256,17 @@
 [/us/pl/103/73/s114/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs114%2Fm
 [/us/stat/107/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F732
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/113/128/s487/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs487%2F3
+[/us/pl/113/128/s487/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs487%2F4
+[/us/pl/113/128/s487/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs487%2F1
+[/us/usc/t29/s796c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796c
+[/us/pl/113/128/s487/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs487%2F5%2FA
+[/us/pl/113/128/s487/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs487%2F5%2FB
+[/us/usc/t29/s796c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796c
+[/us/pl/113/128/s487/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs487%2F2
+[/us/pl/113/128/s487/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs487%2F6%2FA
+[/us/usc/t29/s796j–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796j%E2%80%931
+[/us/pl/113/128/s487/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs487%2F6%2FC
+[/us/pl/113/128/s487/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs487%2F2
 
 

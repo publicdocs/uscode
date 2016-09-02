@@ -11,17 +11,17 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch16/schI/ptB/m__us_usc_t29_s731.md) | [Next](./../../../../../..//us/usc/t29/ch16/schI/ptC/m__us_usc_t29_ch16_schI_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs732)
+[Previous](./../../../../../..//us/usc/t29/ch16/schI/ptB/m__us_usc_t29_s731.md) | [Next](./../../../../../..//us/usc/t29/ch16/schI/ptB/m__us_usc_t29_s733.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs732)
 
 ## § 732. Client assistance program
 
     (a) __Establishment of grant program__ 
 
-        From funds appropriated under subsection (h) of this section, the Secretary shall, in accordance with this section, make grants to States to establish and carry out client assistance programs to provide assistance in informing and advising all clients and client applicants of all available benefits under this chapter, and, upon request of such clients or client applicants, to assist and advocate for such clients or applicants in their relationships with projects, programs, and services provided under this chapter, including assistance and advocacy in pursuing legal, administrative, or other appropriate remedies to ensure the protection of the rights of such individuals under this chapter and to facilitate access to the services funded under this chapter through individual and systemic advocacy. The client assistance program shall provide information on the available services and benefits under this chapter and title I of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12111][/us/usc/t42/s12111] et seq.) to individuals with disabilities in the State, especially with regard to individuals with disabilities who have traditionally been unserved or underserved by vocational rehabilitation programs. In providing assistance and advocacy under this subsection with respect to services under this subchapter, a client assistance program may provide the assistance and advocacy with respect to services that are directly related to facilitating the employment of the individual.
+        From funds appropriated under subsection (h) of this section, the Secretary shall, in accordance with this section, make grants to States to establish and carry out client assistance programs to provide assistance in informing and advising all clients and client applicants of all available benefits under this chapter, including under sections 733 and 794g of this title, and, upon request of such clients or client applicants, to assist and advocate for such clients or applicants in their relationships with projects, programs, and services provided under this chapter, including assistance and advocacy in pursuing legal, administrative, or other appropriate remedies to ensure the protection of the rights of such individuals under this chapter and to facilitate access to the services funded under this chapter through individual and systemic advocacy. The client assistance program shall provide information on the available services and benefits under this chapter and title I of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12111][/us/usc/t42/s12111] et seq.) to individuals with disabilities in the State, especially with regard to individuals with disabilities who have traditionally been unserved or underserved by vocational rehabilitation programs. In providing assistance and advocacy under this subsection with respect to services under this subchapter, a client assistance program may provide the assistance and advocacy with respect to services that are directly related to facilitating the employment of the individual.
 
     (b) __Existence of State program as requisite to receiving payments__ 
 
-    No State may receive payments from its allotment under this chapter in any fiscal year unless the State has in effect not later than October 1, 1984, a client assistance program which—
+    No State may receive payments from its allotment under this chapter in any fiscal year unless the State has in effect a client assistance program which—
 
         (1) has the authority to pursue legal, administrative, and other appropriate remedies to ensure the protection of rights of individuals with disabilities who are receiving treatments, services, or rehabilitation under this chapter within the State; and
 
@@ -67,7 +67,7 @@
 
         (1)
 
-            (A) The Secretary shall allot the sums appropriated for each fiscal year under this section among the States on the basis of relative population of each State, except that no State shall receive less than $50,000.
+            (A) After reserving funds under subparagraphs (E) and (F), the Secretary shall allot the remainder of the sums appropriated for each fiscal year under this section among the States on the basis of relative population of each State, except that no State shall receive less than $50,000.
 
             (B) The Secretary shall allot $30,000 each to American Samoa, Guam, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
@@ -78,6 +78,20 @@
                 (i) In any fiscal year that the funds appropriated for such fiscal year exceed $7,500,000, the minimum allotment shall be $100,000 for States and $45,000 for territories.
 
                 (ii) For any fiscal year in which the total amount appropriated under subsection (h) of this section exceeds the total amount appropriated under such subsection for the preceding fiscal year, the Secretary shall increase each of the minimum allotments under clause (i) by a percentage that shall not exceed the percentage increase in the total amount appropriated under such subsection between the preceding fiscal year and the fiscal year involved.
+
+            (E)
+
+                (i) The Secretary shall reserve funds appropriated under subsection (h) to make a grant to the protection and advocacy system serving the American Indian Consortium to provide services in accordance with this section. The amount of such a grant shall be the same amount as is provided to a territory under this subsection.
+
+                (ii)
+
+                 In this subparagraph:
+
+                    (I) The term “American Indian Consortium” has the meaning given the term in section 102 of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ([42 U.S.C. 15002][/us/usc/t42/s15002]).
+
+                    (II) The term “protection and advocacy system” means a protection and advocacy system established under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ([42 U.S.C. 15041][/us/usc/t42/s15041] et seq.).
+
+            (F) For any fiscal year for which the amount appropriated under subsection (h) equals or exceeds $14,000,000, the Secretary may reserve not less than 1.8 percent and not more than 2.2 percent of such amount to provide a grant for training and technical assistance for the programs established under this section. Such training and technical assistance shall be coordinated with activities provided under [section 794e(c)(1)(A) of this title][/us/usc/t29/s794e/c/1/A].
 
         (2) The amount of an allotment to a State for a fiscal year which the Secretary determines will not be required by the State during the period for which it is available for the purpose for which allotted shall be available for reallotment by the Secretary at appropriate times to other States with respect to which such a determination has not been made, in proportion to the original allotments of such States for such fiscal year, but with such proportionate amount for any of such other States being reduced to the extent it exceeds the sum the Secretary estimates such State needs and will be able to use during such period, and the total of such reduction shall be similarly reallotted among the States whose proportionate amounts were not so reduced. Any such amount so reallotted to a State for a fiscal year shall be deemed to be a part of its allotment for such fiscal year.
 
@@ -105,13 +119,27 @@
 
     (h) __Authorization of appropriations__ 
 
-        There are authorized to be appropriated such sums as may be necessary for fiscal years 1999 through 2003 to carry out the provisions of this section.
+    There are authorized to be appropriated to carry out the provisions of this section—
 
-([Pub. L. 93–112, title I, § 112][/us/pl/93/112/s112], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1163][/us/stat/112/1163]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(b)(9)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–413.)
+        (1) $12,000,000 for fiscal year 2015;
+
+        (2) $12,927,000 for fiscal year 2016;
+
+        (3) $13,195,000 for fiscal year 2017;
+
+        (4) $13,488,000 for fiscal year 2018;
+
+        (5) $13,805,000 for fiscal year 2019; and
+
+        (6) $14,098,000 for fiscal year 2020.
+
+([Pub. L. 93–112, title I, § 112][/us/pl/93/112/s112], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1163][/us/stat/112/1163]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(b)(9)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–413; [Pub. L. 113–128, title IV, § 421][/us/pl/113/128/s421], July 22, 2014, [128 Stat. 1656][/us/stat/128/1656].)
 
  __References in Text__ 
 
     The Americans with Disabilities Act of 1990, referred to in subsec. (a), is [Pub. L. 101–336][/us/pl/101/336], July 26, 1990, [104 Stat. 327][/us/stat/104/327], as amended. Title I of the Act is classified generally to subchapter I (§ 12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42][/us/usc/t42/s12101] and Tables.
+
+    The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (e)(1)(E)(ii)(II), is [Pub. L. 106–402][/us/pl/106/402], Oct. 30, 2000, [114 Stat. 1677][/us/stat/114/1677]. Subtitle C of title I of the Act is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 15001 of Title 42][/us/usc/t42/s15001] and Tables.
 
  __Prior Provisions__ 
 
@@ -125,24 +153,42 @@
 
  __Amendments__ 
 
+    2014—Subsec. (a). [Pub. L. 113–128, § 421(1)][/us/pl/113/128/s421/1], inserted “including under sections 733 and 794g of this title,” after “all available benefits under this chapter,”.
+
+    Subsec. (b). [Pub. L. 113–128, § 421(2)][/us/pl/113/128/s421/2], struck out “not later than October 1, 1984,” after “has in effect” in introductory provisions.
+
+    Subsec. (e)(1)(A). [Pub. L. 113–128, § 421(3)(A)][/us/pl/113/128/s421/3/A], substituted “After reserving funds under subparagraphs (E) and (F), the Secretary shall allot the remainder of” for “The Secretary shall allot”.
+
+    Subsec. (e)(1)(E), (F). [Pub. L. 113–128, § 421(3)(B)][/us/pl/113/128/s421/3/B], added subpars. (E) and (F).
+
+    Subsec. (h). [Pub. L. 113–128, § 421(4)][/us/pl/113/128/s421/4], added subsec. (h) and struck out former subsec. (h) which authorized appropriations for fiscal years 1999 through 2003.
+
     1998—[Pub. L. 105–277][/us/pl/105/277] made technical amendment to section designation and catchline in original.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch16/schI/ptB/m__us_usc_t29_s731.md) | [Next](./../../../../../..//us/usc/t29/ch16/schI/ptC/m__us_usc_t29_ch16_schI_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs732)
+[Previous](./../../../../../..//us/usc/t29/ch16/schI/ptB/m__us_usc_t29_s731.md) | [Next](./../../../../../..//us/usc/t29/ch16/schI/ptB/m__us_usc_t29_s733.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs732)
 
 ----------
 ----------
 
 [/us/usc/t42/s12111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12111
+[/us/usc/t42/s15002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15002
+[/us/usc/t42/s15041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15041
+[/us/usc/t29/s794e/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794e%2Fc%2F1%2FA
 [/us/pl/93/112/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs112
 [/us/pl/105/220/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs404
 [/us/stat/112/1163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1163
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
+[/us/pl/113/128/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs421
+[/us/stat/128/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1656
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
+[/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
+[/us/stat/114/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1677
+[/us/usc/t42/s15001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15001
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/93/112/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs112
 [/us/stat/87/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F371
@@ -182,6 +228,11 @@
 [/us/pl/100/630/s202/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs202%2Fg
 [/us/stat/102/3306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3306
 [/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/113/128/s421/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs421%2F1
+[/us/pl/113/128/s421/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs421%2F2
+[/us/pl/113/128/s421/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs421%2F3%2FA
+[/us/pl/113/128/s421/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs421%2F3%2FB
+[/us/pl/113/128/s421/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs421%2F4
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 
 

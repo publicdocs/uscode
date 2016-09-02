@@ -39,9 +39,9 @@
 
             (F) enjoy full inclusion and integration in the economic, political, social, cultural, and educational mainstream of American society;
 
-        (4) increased employment of individuals with disabilities can be achieved through implementation of statewide workforce investment systems under title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\] that provide meaningful and effective participation for individuals with disabilities in workforce investment activities and activities carried out under the vocational rehabilitation program established under subchapter I of this chapter, and through the provision of independent living services, support services, and meaningful opportunities for employment in integrated work settings through the provision of reasonable accommodations;
+        (4) increased employment of individuals with disabilities can be achieved through implementation of statewide workforce development systems defined in [section 3102 of this title][/us/usc/t29/s3102] that provide meaningful and effective participation for individuals with disabilities in workforce investment activities and activities carried out under the vocational rehabilitation program established under subchapter I of this chapter, and through the provision of independent living services, support services, and meaningful opportunities for employment in integrated work settings through the provision of reasonable accommodations;
 
-        (5) individuals with disabilities continually encounter various forms of discrimination in such critical areas as employment, housing, public accommodations, education, transportation, communication, recreation, institutionalization, health services, voting, and public services; and
+        (5) individuals with disabilities continually encounter various forms of discrimination in such critical areas as employment, housing, public accommodations, education, transportation, communication, recreation, institutionalization, health services, voting, and public services;
 
         (6)
 
@@ -49,7 +49,13 @@
 
             (A) make informed choices and decisions; and
 
-            (B) achieve equality of opportunity, full inclusion and integration in society, employment, independent living, and economic and social self-sufficiency, for such individuals.
+            (B) achieve equality of opportunity, full inclusion and integration in society, employment, independent living, and economic and social self-sufficiency, for such individuals; and
+
+        (7)
+
+            (A) a high proportion of students with disabilities is leaving secondary education without being employed in competitive integrated employment, or being enrolled in postsecondary education; and
+
+            (B) there is a substantial need to support such students as they transition from school to postsecondary life.
 
     (b) __Purpose__ 
 
@@ -59,7 +65,7 @@
 
          to empower individuals with disabilities to maximize employment, economic self-sufficiency, independence, and inclusion and integration into society, through—
 
-            (A) statewide workforce investment systems implemented in accordance with title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\] that include, as integral components, comprehensive and coordinated state-of-the-art programs of vocational rehabilitation;
+            (A) statewide workforce development systems defined in [section 3102 of this title][/us/usc/t29/s3102] that include, as integral components, comprehensive and coordinated state-of-the-art programs of vocational rehabilitation;
 
             (B) independent living centers and services;
 
@@ -69,9 +75,15 @@
 
             (E) demonstration projects; and
 
-            (F) the guarantee of equal opportunity; and
+            (F) the guarantee of equal opportunity;
 
-        (2) to ensure that the Federal Government plays a leadership role in promoting the employment of individuals with disabilities, especially individuals with significant disabilities, and in assisting States and providers of services in fulfilling the aspirations of such individuals with disabilities for meaningful and gainful employment and independent living.
+        (2) to maximize opportunities for individuals with disabilities, including individuals with significant disabilities, for competitive integrated employment;
+
+        (3) to ensure that the Federal Government plays a leadership role in promoting the employment of individuals with disabilities, especially individuals with significant disabilities, and in assisting States and providers of services in fulfilling the aspirations of such individuals with disabilities for meaningful and gainful employment and independent living;
+
+        (4) to increase employment opportunities and employment outcomes for individuals with disabilities, including through encouraging meaningful input by employers and vocational rehabilitation service providers on successful and prospective employment and placement strategies; and
+
+        (5) to ensure, to the greatest extent possible, that youth with disabilities and students with disabilities who are transitioning from receipt of special education services under the Individuals with Disabilities Education Act ([20 U.S.C. 1400][/us/usc/t20/s1400] et seq.) and receipt of services under [section 794 of this title][/us/usc/t29/s794] have opportunities for postsecondary success.
 
     (c) __Policy__ 
 
@@ -87,17 +99,25 @@
 
         (5) support for individual and systemic advocacy and community involvement.
 
-([Pub. L. 93–112, § 2][/us/pl/93/112/s2], as added [Pub. L. 105–220, title IV, § 403][/us/pl/105/220/s403], Aug. 7, 1998, [112 Stat. 1095][/us/stat/112/1095]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(b)(2)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–413.)
+([Pub. L. 93–112, § 2][/us/pl/93/112/s2], as added [Pub. L. 105–220, title IV, § 403][/us/pl/105/220/s403], Aug. 7, 1998, [112 Stat. 1095][/us/stat/112/1095]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(b)(2)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–413; [Pub. L. 113–128, title IV, § 402][/us/pl/113/128/s402], July 22, 2014, [128 Stat. 1631][/us/stat/128/1631].)
 
  __References in Text__ 
 
-    The Workforce Investment Act of 1998, referred to in subsecs. (a)(4) and (b)(1)(A), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936]. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
+    The Individuals with Disabilities Education Act, referred to in subsec. (b)(5), is title VI of [Pub. L. 91–230][/us/pl/91/230], Apr. 13, 1970, [84 Stat. 175][/us/stat/84/175], which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20][/us/usc/t20/s1400] and Tables.
 
  __Prior Provisions__ 
 
     A prior section 701, [Pub. L. 93–112, § 2][/us/pl/93/112/s2], Sept. 26, 1973, [87 Stat. 357][/us/stat/87/357]; [Pub. L. 95–602, title I, § 122(a)(1)][/us/pl/95/602/s122/a/1], Nov. 6, 1978, [92 Stat. 2984][/us/stat/92/2984]; [Pub. L. 99–506, title I, § 101][/us/pl/99/506/s101], Oct. 21, 1986, [100 Stat. 1808][/us/stat/100/1808]; [Pub. L. 102–569, title I, § 101][/us/pl/102/569/s101], Oct. 29, 1992, [106 Stat. 4346][/us/stat/106/4346], related to findings, purpose, and policy, prior to repeal by [Pub. L. 105–220, title IV, § 403][/us/pl/105/220/s403], Aug. 7, 1998, [112 Stat. 1093][/us/stat/112/1093].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(4). [Pub. L. 113–128, § 402(a)(1)][/us/pl/113/128/s402/a/1], substituted “workforce development systems defined in [section 3102 of this title][/us/usc/t29/s3102]” for “workforce investment systems under title I of the Workforce Investment Act of 1998”.
+
+    Subsec. (a)(7). [Pub. L. 113–128, § 402(a)(2)][/us/pl/113/128/s402/a/2]–(4), added par. (7).
+
+    Subsec. (b)(1)(A). [Pub. L. 113–128, § 402(b)(1)(A)][/us/pl/113/128/s402/b/1/A], substituted “workforce development systems defined in [section 3102 of this title][/us/usc/t29/s3102]” for “workforce investment systems implemented in accordance with title I of the Workforce Investment Act of 1998”.
+
+    Subsec. (b)(2) to (5). [Pub. L. 113–128, § 402(b)(1)(B)][/us/pl/113/128/s402/b/1/B], (2)–(5), added par. (2), redesignated former par. (2) as (3), and added pars. (4) and (5).
 
     1998—[Pub. L. 105–277][/us/pl/105/277] made technical amendment in original to section designation and catchline.
 
@@ -112,6 +132,8 @@
 [Pub. L. 105–220, title IV, § 401][/us/pl/105/220/s401], Aug. 7, 1998, [112 Stat. 1092][/us/stat/112/1092], provided that: 
 
 > “This title \[see Tables for classification\] may be cited as the ‘Rehabilitation Act Amendments of 1998’.”
+
+    \[[Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], [section 401 of Pub. L. 105–220][/us/pl/105/220/s401], set out above, is repealed.\]
 
  __Short Title of 1993 Amendment__ 
 
@@ -306,16 +328,20 @@ By the authority vested in me as President by the Constitution and the laws of t
 ----------
 ----------
 
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
+[/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
+[/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
 [/us/pl/93/112/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs2
 [/us/pl/105/220/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs403
 [/us/stat/112/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1095
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs402
+[/us/stat/128/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1631
+[/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
+[/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
+[/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 [/us/pl/93/112/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs2
 [/us/stat/87/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F357
 [/us/pl/95/602/s122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs122%2Fa%2F1
@@ -326,11 +352,20 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/106/4346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4346
 [/us/pl/105/220/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs403
 [/us/stat/112/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1093
+[/us/pl/113/128/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs402%2Fa%2F1
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
+[/us/pl/113/128/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs402%2Fa%2F2
+[/us/pl/113/128/s402/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs402%2Fb%2F1%2FA
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
+[/us/pl/113/128/s402/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs402%2Fb%2F1%2FB
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/111/213/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F213%2Fs1
 [/us/stat/124/2343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2343
 [/us/pl/105/220/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs401
 [/us/stat/112/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1092
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/pl/105/220/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs401
 [/us/pl/103/73/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs1
 [/us/stat/107/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F718
 [/us/usc/t41/s46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs46

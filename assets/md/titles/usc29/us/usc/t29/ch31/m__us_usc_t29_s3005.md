@@ -271,19 +271,21 @@
 
         (3) individuals employed by protection and advocacy systems funded under [section 3004 of this title][/us/usc/t29/s3004];
 
-        (4) relevant employees from Federal departments and agencies, other than the Department of Education;
+        (4) relevant employees from Federal departments and agencies, other than the Department of Health and Human Services;
 
         (5) representatives of businesses; and
 
         (6) venders and public and private researchers and developers.
 
-([Pub. L. 105–394, § 6][/us/pl/105/394/s6], as added [Pub. L. 108–364, § 2][/us/pl/108/364/s2], Oct. 25, 2004, [118 Stat. 1727][/us/stat/118/1727]; amended [Pub. L. 110–69, title III, § 3002(c)(7)][/us/pl/110/69/s3002/c/7], Aug. 9, 2007, [121 Stat. 587][/us/stat/121/587].)
+([Pub. L. 105–394, § 6][/us/pl/105/394/s6], as added [Pub. L. 108–364, § 2][/us/pl/108/364/s2], Oct. 25, 2004, [118 Stat. 1727][/us/stat/118/1727]; amended [Pub. L. 110–69, title III, § 3002(c)(7)][/us/pl/110/69/s3002/c/7], Aug. 9, 2007, [121 Stat. 587][/us/stat/121/587]; [Pub. L. 113–128, title IV, § 491][/us/pl/113/128/s491](o)(2), July 22, 2014, [128 Stat. 1698][/us/stat/128/1698].)
 
  __References in Text__ 
 
     The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (b)(2)(B)(ii), is [Pub. L. 106–402][/us/pl/106/402], Oct. 30, 2000, [114 Stat. 1677][/us/stat/114/1677], as amended. Subtitle D of title I of the Act is classified generally to part D (§ 15061 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 15001 of Title 42][/us/usc/t42/s15001] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (d)(4). [Pub. L. 113–128][/us/pl/113/128] substituted “Health and Human Services” for “Education”.
 
     2007—Subsec. (b)(4)(B)(v). [Pub. L. 110–69][/us/pl/110/69] substituted “the National Institute of Standards and Technology,” for “the Technology Administration of the Department of Commerce,”.
 
@@ -306,9 +308,12 @@
 [/us/stat/118/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1727
 [/us/pl/110/69/s3002/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3002%2Fc%2F7
 [/us/stat/121/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F587
+[/us/pl/113/128/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs491
+[/us/stat/128/1698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1698
 [/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
 [/us/stat/114/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1677
 [/us/usc/t42/s15001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15001
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
 
 

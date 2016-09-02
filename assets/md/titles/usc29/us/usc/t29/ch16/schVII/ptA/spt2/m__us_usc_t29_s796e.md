@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t29/ch16/schVII/ptA/spt2/m__us_usc_t29_ch16_schVII_ptA_spt2.md) | [Next](./../../../../../../..//us/usc/t29/ch16/schVII/ptA/spt2/m__us_usc_t29_s796e–1.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796e)
+[Previous](./../../../../../../..//us/usc/t29/ch16/schVII/ptA/spt2/m__us_usc_t29_ch16_schVII_ptA_spt2.md) | [Next](./../../../../../../..//us/usc/t29/ch16/schVII/ptA/spt2/m__us_usc_t29_s796e–0.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796e)
 
 ## § 796e. Allotments
 
@@ -21,7 +21,7 @@
 
             (A) __Population basis__ 
 
-                Except as provided in subparagraphs (B) and (C), from sums appropriated for each fiscal year to carry out this subpart, the Commissioner shall make an allotment to each State whose State plan has been approved under [section 796d–1 of this title][/us/usc/t29/s796d–1] of an amount bearing the same ratio to such sums as the population of the State bears to the population of all States.
+                After the reservation required by [section 796e–0 of this title][/us/usc/t29/s796e–0] is made, and except as provided in subparagraphs (B) and (C), from the remainder of the sums appropriated for each fiscal year to carry out this subpart, the Administrator shall make an allotment to each State whose State plan has been approved under [section 796d–1 of this title][/us/usc/t29/s796d–1] of an amount bearing the same ratio to such sums as the population of the State bears to the population of all States.
 
             (B) __Maintenance of 1992 amounts__ 
 
@@ -39,21 +39,25 @@
 
             (B) __Allotment__ 
 
-                Each jurisdiction described in subparagraph (A) shall be allotted under paragraph (1)(A) not less than ⅛ of 1 percent of the amounts made available for purposes of this subpart for the fiscal year for which the allotment is made.
+                Each jurisdiction described in subparagraph (A) shall be allotted under paragraph (1)(A) not less than ⅛ of 1 percent of the remainder described in paragraph (1)(A) for the fiscal year for which the allotment is made.
 
         (3) __Adjustment for inflation__ 
 
-            For any fiscal year, beginning in fiscal year 1999, in which the total amount appropriated to carry out this subpart exceeds the total amount appropriated to carry out this subpart for the preceding fiscal year, the Commissioner shall increase the minimum allotment under paragraph (1)(C) by a percentage that shall not exceed the percentage increase in the total amount appropriated to carry out this subpart between the preceding fiscal year and the fiscal year involved.
+            For any fiscal year, beginning in fiscal year 1999, in which the total amount appropriated to carry out this subpart exceeds the total amount appropriated to carry out this subpart for the preceding fiscal year, the Administrator shall increase the minimum allotment under paragraph (1)(C) by a percentage that shall not exceed the percentage increase in the total amount appropriated to carry out this subpart between the preceding fiscal year and the fiscal year involved.
 
     (b) __Proportional reduction__ 
 
-        To provide allotments to States in accordance with subsection (a)(1)(B) of this section, to provide minimum allotments to States (as increased under subsection (a)(3) of this section) under subsection (a)(1)(C) of this section, or to provide minimum allotments to States under subsection (a)(2)(B) of this section, the Commissioner shall proportionately reduce the allotments of the remaining States under subsection (a)(1)(A) of this section, with such adjustments as may be necessary to prevent the allotment of any such remaining State from being reduced to less than the amount required by subsection (a)(1)(B) of this section.
+        To provide allotments to States in accordance with subsection (a)(1)(B) of this section, to provide minimum allotments to States (as increased under subsection (a)(3) of this section) under subsection (a)(1)(C) of this section, or to provide minimum allotments to States under subsection (a)(2)(B) of this section, the Administrator shall proportionately reduce the allotments of the remaining States under subsection (a)(1)(A) of this section, with such adjustments as may be necessary to prevent the allotment of any such remaining State from being reduced to less than the amount required by subsection (a)(1)(B) of this section.
 
     (c) __Reallotment__ 
 
-        Whenever the Commissioner determines that any amount of an allotment to a State for any fiscal year will not be expended by such State in carrying out the provisions of this subpart, the Commissioner shall make such amount available for carrying out the provisions of this subpart to one or more of the States that the Commissioner determines will be able to use additional amounts during such year for carrying out such provisions. Any amount made available to a State for any fiscal year pursuant to the preceding sentence shall, for the purposes of this section, be regarded as an increase in the allotment of the State (as determined under the preceding provisions of this section) for such year.
+        Whenever the Administrator determines that any amount of an allotment to a State for any fiscal year will not be expended by such State in carrying out the provisions of this subpart, the Administrator shall make such amount available for carrying out the provisions of this subpart to one or more of the States that the Administrator determines will be able to use additional amounts during such year for carrying out such provisions. Any amount made available to a State for any fiscal year pursuant to the preceding sentence shall, for the purposes of this section, be regarded as an increase in the allotment of the State (as determined under the preceding provisions of this section) for such year.
 
-([Pub. L. 93–112, title VII, § 711][/us/pl/93/112/s711], as added [Pub. L. 105–220, title IV, § 410][/us/pl/105/220/s410], Aug. 7, 1998, [112 Stat. 1224][/us/stat/112/1224].)
+    (d) __Administration__ 
+
+        Funds allotted or made available to a State under this section shall be administered by the designated State entity, in accordance with the approved State plan.
+
+([Pub. L. 93–112, title VII, § 711][/us/pl/93/112/s711], as added [Pub. L. 105–220, title IV, § 410][/us/pl/105/220/s410], Aug. 7, 1998, [112 Stat. 1224][/us/stat/112/1224]; amended [Pub. L. 113–128, title IV, § 476(a)][/us/pl/113/128/s476/a], July 22, 2014, [128 Stat. 1690][/us/stat/128/1690].)
 
  __References in Text__ 
 
@@ -65,17 +69,30 @@
 
     Another prior section 796e, [Pub. L. 93–112, title VII, § 711][/us/pl/93/112/s711], as added [Pub. L. 95–602, title III, § 301][/us/pl/95/602/s301], Nov. 6, 1978, [92 Stat. 2998][/us/stat/92/2998]; amended [Pub. L. 98–221, title I, § 171][/us/pl/98/221/s171], Feb. 22, 1984, [98 Stat. 30][/us/stat/98/30]; [Pub. L. 99–506, title I, § 103(d)(2)(C)][/us/pl/99/506/s103/d/2/C], title VIII, §§ 804(a)(1), (b), (c), 805, Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1838, 1839; [Pub. L. 100–630, title II, § 208(f)][/us/pl/100/630/s208/f], Nov. 7, 1988, [102 Stat. 3314][/us/stat/102/3314], related to establishment and operation of independent living centers, prior to repeal by [Pub. L. 102–569, § 701(1)][/us/pl/102/569/s701/1].
 
+ __Amendments__ 
+
+    2014—Subsec. (a)(1)(A). [Pub. L. 113–128, § 476(a)(1)(A)][/us/pl/113/128/s476/a/1/A], (2), substituted “After the reservation required by [section 796e–0 of this title][/us/usc/t29/s796e–0] is made, and except” for “Except”, inserted “the remainder of the” before “sums appropriated”, and substituted “Administrator” for “Commissioner”.
+
+    Subsec. (a)(2)(B). [Pub. L. 113–128, § 476(a)(1)(B)][/us/pl/113/128/s476/a/1/B], substituted “remainder described in paragraph (1)(A)” for “amounts made available for purposes of this subpart”.
+
+    Subsecs. (a)(3) to (c). [Pub. L. 113–128, § 476(a)(2)][/us/pl/113/128/s476/a/2], substituted “Administrator” for “Commissioner” wherever appearing.
+
+    Subsec. (d). [Pub. L. 113–128, § 476(a)(3)][/us/pl/113/128/s476/a/3], added subsec. (d).
+
 ----------
 
-[Previous](./../../../../../../..//us/usc/t29/ch16/schVII/ptA/spt2/m__us_usc_t29_ch16_schVII_ptA_spt2.md) | [Next](./../../../../../../..//us/usc/t29/ch16/schVII/ptA/spt2/m__us_usc_t29_s796e–1.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796e)
+[Previous](./../../../../../../..//us/usc/t29/ch16/schVII/ptA/spt2/m__us_usc_t29_ch16_schVII_ptA_spt2.md) | [Next](./../../../../../../..//us/usc/t29/ch16/schVII/ptA/spt2/m__us_usc_t29_s796e–0.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796e)
 
 ----------
 ----------
 
+[/us/usc/t29/s796e–0]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796e%E2%80%930
 [/us/usc/t29/s796d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796d%E2%80%931
 [/us/pl/93/112/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs711
 [/us/pl/105/220/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs410
 [/us/stat/112/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1224
+[/us/pl/113/128/s476/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs476%2Fa
+[/us/stat/128/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1690
 [/us/pl/102/569/s701/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs701%2F1
 [/us/stat/106/4443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4443
 [/us/pl/93/112/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs711
@@ -94,5 +111,10 @@
 [/us/pl/100/630/s208/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs208%2Ff
 [/us/stat/102/3314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3314
 [/us/pl/102/569/s701/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs701%2F1
+[/us/pl/113/128/s476/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs476%2Fa%2F1%2FA
+[/us/usc/t29/s796e–0]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796e%E2%80%930
+[/us/pl/113/128/s476/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs476%2Fa%2F1%2FB
+[/us/pl/113/128/s476/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs476%2Fa%2F2
+[/us/pl/113/128/s476/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs476%2Fa%2F3
 
 

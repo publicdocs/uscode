@@ -137,7 +137,7 @@
 
     (13) __Secretary__ 
 
-        The term “Secretary” means the Secretary of Education.
+        The term “Secretary” means the Secretary of Health and Human Services.
 
     (14) __State__ 
 
@@ -197,7 +197,11 @@
 
         The term “universal design” means a concept or philosophy for designing and delivering products and services that are usable by people with the widest possible range of functional capabilities, which include products and services that are directly accessible (without requiring assistive technologies) and products and services that are interoperable with assistive technologies.
 
-([Pub. L. 105–394, § 3][/us/pl/105/394/s3], Nov. 13, 1998, [112 Stat. 3631][/us/stat/112/3631]; [Pub. L. 106–402, title IV, § 401(b)(4)(A)][/us/pl/106/402/s401/b/4/A], Oct. 30, 2000, [114 Stat. 1738][/us/stat/114/1738]; [Pub. L. 108–364, § 2][/us/pl/108/364/s2], Oct. 25, 2004, [118 Stat. 1709][/us/stat/118/1709]; [Pub. L. 110–315, title IX, § 941(k)(2)(K)][/us/pl/110/315/s941/k/2/K], Aug. 14, 2008, [122 Stat. 3467][/us/stat/122/3467].)
+([Pub. L. 105–394, § 3][/us/pl/105/394/s3], Nov. 13, 1998, [112 Stat. 3631][/us/stat/112/3631]; [Pub. L. 106–402, title IV, § 401(b)(4)(A)][/us/pl/106/402/s401/b/4/A], Oct. 30, 2000, [114 Stat. 1738][/us/stat/114/1738]; [Pub. L. 108–364, § 2][/us/pl/108/364/s2], Oct. 25, 2004, [118 Stat. 1709][/us/stat/118/1709]; [Pub. L. 110–315, title IX, § 941(k)(2)(K)][/us/pl/110/315/s941/k/2/K], Aug. 14, 2008, [122 Stat. 3467][/us/stat/122/3467]; [Pub. L. 113–128, title IV, § 491][/us/pl/113/128/s491](o)(1), title V, § 512(b)(1), July 22, 2014, [128 Stat. 1698][/us/stat/128/1698], 1705.)
+
+ __Amendment of Paragraph (1)(C)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(b)(1), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], paragraph (1)(C) of this section is amended by striking “such as a one-stop partner, as defined in [section 2801 of this title][/us/usc/t29/s2801]” and inserting “such as a one-stop partner, as defined in [section 3102 of this title][/us/usc/t29/s3102]”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -211,11 +215,19 @@
 
  __Amendments__ 
 
+    2014—Par. (1)(C). [Pub. L. 113–128, § 512(b)(1)][/us/pl/113/128/s512/b/1], substituted “such as a one-stop partner, as defined in [section 3102 of this title][/us/usc/t29/s3102]” for “such as a one-stop partner, as defined in [section 2801 of this title][/us/usc/t29/s2801]”.
+
+    Par. (13). [Pub. L. 113–128, § 491][/us/pl/113/128/s491](o)(1), substituted “Health and Human Services” for “Education”.
+
     2008—Par. (11). [Pub. L. 110–315][/us/pl/110/315] substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
 
     2004—[Pub. L. 108–364][/us/pl/108/364] amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) and (b) relating to definitions and references.
 
     2000—Subsec. (a)(11)(A). [Pub. L. 106–402][/us/pl/106/402] substituted “subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “part C of the Developmental Disabilities Assistance and Bill of Rights Act ([42 U.S.C. 6041][/us/usc/t42/s6041] et seq.)”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [section 512(b)(1) of Pub. L. 113–128][/us/pl/113/128/s512/b/1] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of this title][/us/usc/t29/s3101].
 
 ----------
 
@@ -246,6 +258,12 @@
 [/us/stat/118/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1709
 [/us/pl/110/315/s941/k/2/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fk%2F2%2FK
 [/us/stat/122/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3467
+[/us/pl/113/128/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs491
+[/us/stat/128/1698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1698
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
@@ -258,9 +276,16 @@
 [/us/pl/99/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F319
 [/us/stat/100/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F478
 [/us/usc/t42/s10801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10801
+[/us/pl/113/128/s512/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fb%2F1
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/pl/113/128/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs491
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/108/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364
 [/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
 [/us/usc/t42/s6041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6041
+[/us/pl/113/128/s512/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fb%2F1
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

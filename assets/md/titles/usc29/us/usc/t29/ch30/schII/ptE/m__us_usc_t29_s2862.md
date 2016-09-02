@@ -197,6 +197,10 @@
 
 ([Pub. L. 105–220, title I, § 132][/us/pl/105/220/s132], Aug. 7, 1998, [112 Stat. 983][/us/stat/112/983]; [Pub. L. 107–210, div. A, title II, § 203(d)][/us/pl/107/210/s203/d], Aug. 6, 2002, [116 Stat. 969][/us/stat/116/969].)
 
+ __Repeal of Section__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.
+
  __References in Text__ 
 
     The Job Training Partnership Act, referred to in subsec. (b)(1)(A)(ii), (B)(iv)(I)(bb), (IV), (v)(II), (2)(A)(ii), is [Pub. L. 97–300][/us/pl/97/300], Oct. 13, 1982, [96 Stat. 1322][/us/stat/96/1322], as amended, which was repealed by [Pub. L. 105–220, title I, § 199(b)(2)][/us/pl/105/220/s199/b/2], (c)(2)(B), Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], effective July 1, 2000. Part A of title II of the Act was classified generally to part A (§ 1601 et seq.) of subchapter II of chapter 19 of this title, prior to repeal by [Pub. L. 105–220][/us/pl/105/220]. Sections 202, 252, 262, and 302 of the Act were classified to sections 1602, 1631, 1642, and 1652 of this title, respectively, prior to repeal by [Pub. L. 105–220][/us/pl/105/220]. For complete classification of this Act to the Code, see Tables.
@@ -204,6 +208,10 @@
  __Amendments__ 
 
     2002—Subsec. (a)(2)(A). [Pub. L. 107–210][/us/pl/107/210] inserted “, other than under subsection (a)(4), (f), and (g)” after “national emergency grants”.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of this title][/us/usc/t29/s3101].
 
  __Effective Date of 2002 Amendment__ 
 
@@ -233,6 +241,8 @@
 [/us/stat/112/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F983
 [/us/pl/107/210/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs203%2Fd
 [/us/stat/116/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F969
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/97/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300
 [/us/stat/96/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1322
 [/us/pl/105/220/s199/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs199%2Fb%2F2
@@ -240,6 +250,8 @@
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/pl/107/210/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs151
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271

@@ -115,6 +115,10 @@
 
 ([Pub. L. 105–220, title I, § 189][/us/pl/105/220/s189], Aug. 7, 1998, [112 Stat. 1051][/us/stat/112/1051]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 401(13)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–411; [Pub. L. 109–281, § 2(c)][/us/pl/109/281/s2/c], Sept. 22, 2006, [120 Stat. 1181][/us/stat/120/1181].)
 
+ __Repeal of Section__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.
+
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a) to (c), (d)(1), (2), (e), (f), (g)(1)(A), (2), (h), and (i)(2), (3), was in the original “this title” meaning title I of [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 939][/us/stat/112/939], which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42][/us/usc/t42/s11421], and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8][/us/usc/t8/s1255a], Aliens and Nationality. For complete classification of title I to the Code, see Tables.
@@ -134,6 +138,10 @@
     2006—Subsec. (g)(1)(A). [Pub. L. 109–281][/us/pl/109/281] inserted “and [section 2918a of this title][/us/usc/t29/s2918a]” after “Except as provided in subparagraph (B)”.
 
     1998—Subsec. (i)(1). [Pub. L. 105–277][/us/pl/105/277] substituted “1998 ([Public Law 105–78][/us/pl/105/78]; [111 Stat. 1467][/us/stat/111/1467])” for “1997 ([Public Law 104–208][/us/pl/104/208]; [110 Stat. 3009–234][/us/stat/110/3009-234])”. The substitution was made to reflect the probable intent of Congress, in the absence of closing quotation marks designating the provisions to be inserted.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of this title][/us/usc/t29/s3101].
 
  __Effective Date of 2006 Amendment__ 
 
@@ -159,6 +167,8 @@
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/pl/109/281/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F281%2Fs2%2Fc
 [/us/stat/120/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1181
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F939
 [/us/usc/t42/s11421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11421
@@ -176,6 +186,8 @@
 [/us/stat/111/1467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1467
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/stat/110/3009-234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-234
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/109/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F281
 [/us/pl/109/281/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F281%2Fs2%2Ff
 [/us/usc/t12/s1701u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701u

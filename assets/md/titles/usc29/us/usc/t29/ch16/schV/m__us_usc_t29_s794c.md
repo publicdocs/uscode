@@ -17,7 +17,7 @@
 
     (a) __Establishment__ 
 
-        There is hereby established an Interagency Disability Coordinating Council (hereafter in this section referred to as the “Council”) composed of the Secretary of Education, the Secretary of Health and Human Services, the Secretary of Labor, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Assistant Secretary of the Interior for Indian Affairs, the Attorney General, the Director of the Office of Personnel Management, the Chairperson of the Equal Employment Opportunity Commission, the Chairperson of the Architectural and Transportation Barriers Compliance Board, and such other officials as may be designated by the President.
+        There is hereby established an Interagency Disability Coordinating Council (hereafter in this section referred to as the “Council”) composed of the Secretary of Education, the Secretary of Health and Human Services, the Secretary of Labor, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Assistant Secretary of the Interior for Indian Affairs, the Attorney General, the Director of the Office of Personnel Management, the Chairperson of the Equal Employment Opportunity Commission, the Chairperson of the Architectural and Transportation Barriers Compliance Board, the Chairperson of the National Council on Disability, and such other officials as may be designated by the President.
 
     (b) __Duties__ 
 
@@ -33,9 +33,11 @@
 
         On or before July 1 of each year, the Interagency Disability Coordinating Council shall prepare and submit to the President and to the Congress a report of the activities of the Council designed to promote and meet the employment needs of individuals with disabilities, together with such recommendations for legislative and administrative changes as the Council concludes are desirable to further promote this section, along with any comments submitted by the National Council on Disability as to the effectiveness of such activities and recommendations in meeting the needs of individuals with disabilities. Nothing in this section shall impair any responsibilities assigned by any Executive order to any Federal department, agency, or instrumentality to act as a lead Federal agency with respect to any provisions of this subchapter.
 
-([Pub. L. 93–112, title V, § 507][/us/pl/93/112/s507], as added [Pub. L. 95–602, title I, § 120(a)][/us/pl/95/602/s120/a], Nov. 6, 1978, [92 Stat. 2983][/us/stat/92/2983]; amended [Pub. L. 96–88, title V, § 508(m)(2)][/us/pl/96/88/s508/m/2], Oct. 17, 1979, [93 Stat. 694][/us/stat/93/694]; [Pub. L. 98–221, title I, § 104(b)(4)][/us/pl/98/221/s104/b/4], Feb. 22, 1984, [98 Stat. 18][/us/stat/98/18]; [Pub. L. 99–506, title VI, § 602][/us/pl/99/506/s602], title X, § 1001(f)(4), Oct. 21, 1986, [100 Stat. 1830][/us/stat/100/1830], 1843; [Pub. L. 102–569, title V, § 508(a)][/us/pl/102/569/s508/a], Oct. 29, 1992, [106 Stat. 4429][/us/stat/106/4429].)
+([Pub. L. 93–112, title V, § 507][/us/pl/93/112/s507], as added [Pub. L. 95–602, title I, § 120(a)][/us/pl/95/602/s120/a], Nov. 6, 1978, [92 Stat. 2983][/us/stat/92/2983]; amended [Pub. L. 96–88, title V, § 508(m)(2)][/us/pl/96/88/s508/m/2], Oct. 17, 1979, [93 Stat. 694][/us/stat/93/694]; [Pub. L. 98–221, title I, § 104(b)(4)][/us/pl/98/221/s104/b/4], Feb. 22, 1984, [98 Stat. 18][/us/stat/98/18]; [Pub. L. 99–506, title VI, § 602][/us/pl/99/506/s602], title X, § 1001(f)(4), Oct. 21, 1986, [100 Stat. 1830][/us/stat/100/1830], 1843; [Pub. L. 102–569, title V, § 508(a)][/us/pl/102/569/s508/a], Oct. 29, 1992, [106 Stat. 4429][/us/stat/106/4429]; [Pub. L. 113–128, title IV, § 456(d)][/us/pl/113/128/s456/d], July 22, 2014, [128 Stat. 1676][/us/stat/128/1676].)
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–128][/us/pl/113/128] inserted “the Chairperson of the National Council on Disability,” before “and such other”.
 
     1992—[Pub. L. 102–569][/us/pl/102/569] amended section generally, changing Council name from Interagency Coordinating Council to Interagency Disability Coordinating Council, including as members Secretary of Housing and Urban Development, Secretary of Transportation, and such other officials as designated by the President, requiring Council to be responsible for developing and implementing policies and practices to eliminate inconsistencies among Federal departments and agencies responsible for enforcement of provisions of this subchapter and to carry out such studies and other activities, with advice from the National Council on Disability, to identify methods for overcoming barriers to integration into society, independence, and productivity of individuals with disabilities, and directing in annual report inclusion of any comments submitted by National Council on Disability as to effectiveness of activities and recommendations in meeting needs of individuals with disabilities.
 
@@ -73,6 +75,9 @@
 [/us/stat/100/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1830
 [/us/pl/102/569/s508/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs508%2Fa
 [/us/stat/106/4429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4429
+[/us/pl/113/128/s456/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs456%2Fd
+[/us/stat/128/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1676
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
 [/us/pl/99/506/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs602
 [/us/pl/99/506/s1001/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs1001%2Ff%2F4

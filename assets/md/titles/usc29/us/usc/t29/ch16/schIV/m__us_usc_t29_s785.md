@@ -15,9 +15,9 @@
 
 ## § 785. Authorization of appropriations
 
-    There are authorized to be appropriated to carry out this subchapter such sums as may be necessary for each of the fiscal years 1999 through 2003.
+    There are authorized to be appropriated to carry out this subchapter $3,186,000 for fiscal year 2015, $3,432,000 for fiscal year 2016, $3,503,000 for fiscal year 2017, $3,581,000 for fiscal year 2018, $3,665,000 for fiscal year 2019, and $3,743,000 for fiscal year 2020.
 
-([Pub. L. 93–112, title IV, § 405][/us/pl/93/112/s405], as added [Pub. L. 105–220, title IV, § 407][/us/pl/105/220/s407], Aug. 7, 1998, [112 Stat. 1202][/us/stat/112/1202].)
+([Pub. L. 93–112, title IV, § 405][/us/pl/93/112/s405], as added [Pub. L. 105–220, title IV, § 407][/us/pl/105/220/s407], Aug. 7, 1998, [112 Stat. 1202][/us/stat/112/1202]; amended [Pub. L. 113–128, title IV, § 453][/us/pl/113/128/s453], July 22, 2014, [128 Stat. 1675][/us/stat/128/1675].)
 
  __Prior Provisions__ 
 
@@ -31,6 +31,10 @@
 
     Section 787, [Pub. L. 93–112, title IV, § 407][/us/pl/93/112/s407], Sept. 26, 1973, [87 Stat. 389][/us/stat/87/389], provided that the Secretary conduct a study on allotment of funds among the States for grants for basic vocational rehabilitation and report the results of this study to Congress not later than June 30, 1974.
 
+ __Amendments__ 
+
+    2014—[Pub. L. 113–128][/us/pl/113/128] substituted “$3,186,000 for fiscal year 2015, $3,432,000 for fiscal year 2016, $3,503,000 for fiscal year 2017, $3,581,000 for fiscal year 2018, $3,665,000 for fiscal year 2019, and $3,743,000 for fiscal year 2020.” for “such sums as may be necessary for each of the fiscal years 1999 through 2003.”
+
 ----------
 
 [Previous](./../../../../..//us/usc/t29/ch16/schIV/m__us_usc_t29_s784.md) | [Next](./../../../../..//us/usc/t29/ch16/schV/m__us_usc_t29_ch16_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs785)
@@ -41,6 +45,8 @@
 [/us/pl/93/112/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs405
 [/us/pl/105/220/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs407
 [/us/stat/112/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1202
+[/us/pl/113/128/s453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs453
+[/us/stat/128/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1675
 [/us/pl/93/112/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs405
 [/us/pl/95/602/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs117
 [/us/stat/92/2979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2979
@@ -66,5 +72,6 @@
 [/us/stat/87/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F389
 [/us/pl/93/112/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs407
 [/us/stat/87/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F389
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 
 

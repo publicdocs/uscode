@@ -49,7 +49,7 @@
 
                     (II) for plan years beginning after December 31, 2012, and before January 1, 2014, $42;
 
-                    (III) for plan years beginning after December 31, 2013 and before January 1, 2015,, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The second comma probably should follow “2013”. </sup></sup>  $49. <sup>\[2\]</sup>  <sup><sup> 2 So in original. The period probably should be a semicolon. </sup></sup> 
+                    (III) for plan years beginning after December 31, 2013 and before January 1, 2015,, <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  $49. <sup>\[2\]</sup>  <sup><sup> 2 So in original. The period probably should be a semicolon. </sup></sup> 
 
                     (IV) for plan years beginning after December 31, 2014, and before January 1, 2016, $57; and
 

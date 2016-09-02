@@ -109,6 +109,10 @@
 
 ([Pub. L. 105–220, title I, § 174][/us/pl/105/220/s174], Aug. 7, 1998, [112 Stat. 1037][/us/stat/112/1037]; [Pub. L. 107–210, div. A, title II, § 203(c)][/us/pl/107/210/s203/c], Aug. 6, 2002, [116 Stat. 969][/us/stat/116/969]; [Pub. L. 111–5, div. B, title I, § 1899K(b)][/us/pl/111/5/s1899K/b], Feb. 17, 2009, [123 Stat. 435][/us/stat/123/435].)
 
+ __Repeal of Section__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.
+
  __References in Text__ 
 
     The Trade Act of 1974, as amended by the Trade Act of 2002, referred to in subsec. (c)(3)(A), is [Pub. L. 93–618][/us/pl/93/618], Jan. 3, 1975, [88 Stat. 1978][/us/stat/88/1978], as amended by [Pub. L. 107–210][/us/pl/107/210], which is classified principally to chapter 12 (§ 2101 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see References in Text note set out under [section 2101 of Title 19][/us/usc/t19/s2101] and Tables.
@@ -120,6 +124,10 @@
     Subsec. (c)(1)(A). [Pub. L. 111–5, § 1899K(b)(2)][/us/pl/111/5/s1899K/b/2], added subpar. (A) and struck out former subpar. (A) which read as follows: “to carry out subsection (a)(4)(A) of [section 2918 of this title][/us/usc/t29/s2918], $10,000,000 for fiscal year 2002; and”.
 
     2002—Subsec. (c). [Pub. L. 107–210][/us/pl/107/210] added subsec. (c).
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of this title][/us/usc/t29/s3101].
 
  __Effective Date of 2009 Amendment__ 
 
@@ -167,6 +175,8 @@
 [/us/stat/116/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F969
 [/us/pl/111/5/s1899K/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1899K%2Fb
 [/us/stat/123/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F435
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/stat/88/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1978
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
@@ -175,6 +185,8 @@
 [/us/pl/111/5/s1899K/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1899K%2Fb%2F2
 [/us/usc/t29/s2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/111/5/s1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1891
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271

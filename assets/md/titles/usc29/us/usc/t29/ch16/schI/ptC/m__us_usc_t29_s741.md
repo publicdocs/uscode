@@ -17,7 +17,7 @@
 
     (a) __Governing bodies of Indian tribes; amount; non-Federal share__ 
 
-        The Commissioner, in accordance with the provisions of this part, may make grants to the governing bodies of Indian tribes located on Federal and State reservations (and consortia of such governing bodies) to pay 90 percent of the costs of vocational rehabilitation services for American Indians who are individuals with disabilities residing on or near such reservations. The non-Federal share of such costs may be in cash or in kind, fairly valued, and the Commissioner may waive such non-Federal share requirement in order to carry out the purposes of this chapter.
+        The Commissioner, in accordance with the provisions of this part, may make grants to the governing bodies of Indian tribes located on Federal and State reservations (and consortia of such governing bodies) to pay 90 percent of the costs of vocational rehabilitation services for American Indians who are individuals with disabilities residing on or near such reservations (referred to in this section as “eligible individuals”), consistent with such eligible individuals’ strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice, so that such individuals may prepare for, and engage in, high-quality employment that will increase opportunities for economic self-sufficiency. The non-Federal share of such costs may be in cash or in kind, fairly valued, and the Commissioner may waive such non-Federal share requirement in order to carry out the purposes of this chapter.
 
     (b) __Application; effective period; continuation of programs and services; separate service delivery systems__ 
 
@@ -27,9 +27,17 @@
 
             (A) is made at such time, in such manner, and contains such information as the Commissioner may require;
 
-            (B) contains assurances that the rehabilitation services provided under this part to American Indians who are individuals with disabilities residing on or near a reservation in a State shall be, to the maximum extent feasible, comparable to rehabilitation services provided under this subchapter to other individuals with disabilities residing in the State and that, where appropriate, may include services traditionally used by Indian tribes; and
+            (B) contains assurances that the rehabilitation services provided under this part to American Indians who are individuals with disabilities residing on or near a reservation in a State shall be, to the maximum extent feasible, comparable to rehabilitation services provided under this subchapter to other individuals with disabilities residing in the State and that, where appropriate, may include services traditionally used by Indian tribes;
 
-            (C) contains assurances that the application was developed in consultation with the designated State unit of the State.
+            (C) contains assurances that the application was developed in consultation with the designated State unit of the State; and
+
+            (D)
+
+             contains assurances that—
+
+                (i) all decisions affecting eligibility for vocational rehabilitation services, the nature and scope of available vocational rehabilitation services and the provision of such services will, consistent with this subchapter, be made by a representative of the tribal vocational rehabilitation program funded through the grant; and
+
+                (ii) such decisions will not be delegated to another agency or individual.
 
         (2) The provisions of sections 450c, 450d, 450e, and 450f(a) of title 25 shall be applicable to any application submitted under this part. For purposes of this paragraph, any reference in any such provision to the Secretary of Education or to the Secretary of the Interior shall be considered to be a reference to the Commissioner.
 
@@ -39,15 +47,25 @@
 
         (5) Nothing in this section may be construed to authorize a separate service delivery system for Indian residents of a State who reside in non-reservation areas.
 
-    (c) __“Reservation” defined__ 
+    (c) __Funds reserved for training and technical assistance__ 
+
+        (1) From the funds appropriated and made available to carry out this part for any fiscal year, beginning with fiscal year 2015, the Commissioner shall first reserve not less than 1.8 percent and not more than 2 percent of the funds to provide training and technical assistance to governing bodies described in subsection (a) for such fiscal year.
+
+        (2) From the funds reserved under paragraph (1), the Commissioner shall make grants to, or enter into contracts or other cooperative agreements with, entities that have experience in the operation of vocational rehabilitation services programs under this section to provide such training and technical assistance with respect to developing, conducting, administering, and evaluating such programs.
+
+        (3) The Commissioner shall conduct a survey of the governing bodies regarding training and technical assistance needs in order to determine funding priorities for such grants, contracts, or cooperative agreements.
+
+        (4) To be eligible to receive a grant or enter into a contract or cooperative agreement under this section, such an entity shall submit an application to the Commissioner at such time, in such manner, and containing a proposal to provide such training and technical assistance, and containing such additional information as the Commissioner may require. The Commissioner shall provide for peer review of applications by panels that include persons who are not government employees and who have experience in the operation of vocational rehabilitation services programs under this section.
+
+    (d) __“Reservation” defined__ 
 
         The term “reservation” includes Indian reservations, public domain Indian allotments, former Indian reservations in Oklahoma, and land held by incorporated Native groups, regional corporations, and village corporations under the provisions of the Alaska Native Claims Settlement Act \[[43 U.S.C. 1601][/us/usc/t43/s1601] et seq.\].
 
-([Pub. L. 93–112, title I, § 121][/us/pl/93/112/s121], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1166][/us/stat/112/1166]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(b)(10)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–413.)
+([Pub. L. 93–112, title I, § 121][/us/pl/93/112/s121], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1166][/us/stat/112/1166]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(b)(10)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–413; [Pub. L. 113–128, title IV, § 423][/us/pl/113/128/s423], July 22, 2014, [128 Stat. 1659][/us/stat/128/1659].)
 
  __References in Text__ 
 
-    The Alaska Native Claims Settlement Act, referred to in subsec. (c), is [Pub. L. 92–203][/us/pl/92/203], Dec. 18, 1971, [85 Stat. 688][/us/stat/85/688], as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43][/us/usc/t43/s1601] and Tables.
+    The Alaska Native Claims Settlement Act, referred to in subsec. (d), is [Pub. L. 92–203][/us/pl/92/203], Dec. 18, 1971, [85 Stat. 688][/us/stat/85/688], as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43][/us/usc/t43/s1601] and Tables.
 
  __Prior Provisions__ 
 
@@ -67,6 +85,12 @@
 
  __Amendments__ 
 
+    2014—Subsec. (a). [Pub. L. 113–128, § 423(1)][/us/pl/113/128/s423/1], inserted “(referred to in this section as ‘eligible individuals’), consistent with such eligible individuals’ strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice, so that such individuals may prepare for, and engage in, high-quality employment that will increase opportunities for economic self-sufficiency” after “on or near such reservations”.
+
+    Subsec. (b)(1)(D). [Pub. L. 113–128, § 423(2)][/us/pl/113/128/s423/2], added subpar. (D).
+
+    Subsecs. (c), (d). [Pub. L. 113–128, § 423(3)][/us/pl/113/128/s423/3], (4), added subsec. (c) and redesignated former subsec. (c) as (d).
+
     1998—[Pub. L. 105–277][/us/pl/105/277] made technical amendment to section designation and catchline in original.
 
 ----------
@@ -83,6 +107,8 @@
 [/us/stat/112/1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1166
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
+[/us/pl/113/128/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs423
+[/us/stat/128/1659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1659
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
@@ -134,6 +160,9 @@
 [/us/stat/102/3306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3306
 [/us/pl/102/569/s102/p/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs102%2Fp%2F11
 [/us/stat/106/4357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4357
+[/us/pl/113/128/s423/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs423%2F1
+[/us/pl/113/128/s423/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs423%2F2
+[/us/pl/113/128/s423/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs423%2F3
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 
 

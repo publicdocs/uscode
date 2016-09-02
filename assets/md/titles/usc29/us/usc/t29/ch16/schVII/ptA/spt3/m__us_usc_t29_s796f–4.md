@@ -31,7 +31,7 @@
 
             (C) development of peer relationships and peer role models; and
 
-            (D) equal access of individuals with significant disabilities to society and to all services, programs, activities, resources, and facilities, whether public or private and regardless of the funding source.
+            (D) equal access for individuals with significant disabilities, within their communities, to all services, programs, activities, resources, and facilities, whether public or private and regardless of the funding source.
 
         (2) __Provision of services__ 
 
@@ -59,7 +59,7 @@
 
     (c) __Assurances__ 
 
-    The eligible agency shall provide at such time and in such manner as the Commissioner may require, such satisfactory assurances as the Commissioner may require, including satisfactory assurances that—
+    The eligible agency shall provide at such time and in such manner as the Administrator may require, such satisfactory assurances as the Administrator may require, including satisfactory assurances that—
 
         (1) the applicant is an eligible agency;
 
@@ -99,17 +99,21 @@
 
         (12) the center will submit to the Statewide Independent Living Council a copy of its approved grant application and the annual report required under paragraph (8);
 
-        (13) the center will prepare and submit a report to the designated State unit or the Commissioner, as the case may be, at the end of each fiscal year that contains the information described in paragraph (8) and information regarding the extent to which the center is in compliance with the standards set forth in subsection (b) of this section; and
+        (13) the center will prepare and submit a report to the designated State unit or the Administrator, as the case may be, at the end of each fiscal year that contains the information described in paragraph (8) and information regarding the extent to which the center is in compliance with the standards set forth in subsection (b) of this section; and
 
         (14) an independent living plan described in [section 796c(e) of this title][/us/usc/t29/s796c/e] will be developed unless the individual who would receive services under the plan signs a waiver stating that such a plan is unnecessary.
 
-([Pub. L. 93–112, title VII, § 725][/us/pl/93/112/s725], as added [Pub. L. 105–220, title IV, § 410][/us/pl/105/220/s410], Aug. 7, 1998, [112 Stat. 1234][/us/stat/112/1234]; amended [Pub. L. 105–332, § 5(c)][/us/pl/105/332/s5/c], Oct. 31, 1998, [112 Stat. 3127][/us/stat/112/3127].)
+([Pub. L. 93–112, title VII, § 725][/us/pl/93/112/s725], as added [Pub. L. 105–220, title IV, § 410][/us/pl/105/220/s410], Aug. 7, 1998, [112 Stat. 1234][/us/stat/112/1234]; amended [Pub. L. 105–332, § 5(c)][/us/pl/105/332/s5/c], Oct. 31, 1998, [112 Stat. 3127][/us/stat/112/3127]; [Pub. L. 113–128, title IV, § 483][/us/pl/113/128/s483], July 22, 2014, [128 Stat. 1693][/us/stat/128/1693].)
 
  __Prior Provisions__ 
 
     A prior section 796f–4, [Pub. L. 93–112, title VII, § 725][/us/pl/93/112/s725], as added [Pub. L. 102–569, title VII, § 701(2)][/us/pl/102/569/s701/2], Oct. 29, 1992, [106 Stat. 4462][/us/stat/106/4462]; amended [Pub. L. 103–73, title I, § 114][/us/pl/103/73/s114](l), Aug. 11, 1993, [107 Stat. 731][/us/stat/107/731], related to standards and assurances for centers for independent living, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
  __Amendments__ 
+
+    2014—Subsec. (b)(1)(D). [Pub. L. 113–128, § 483(1)][/us/pl/113/128/s483/1], substituted “access for” for “access of” and “, within their communities,” for “to society and”.
+
+    Subsec. (c). [Pub. L. 113–128, § 483(2)][/us/pl/113/128/s483/2], substituted “Administrator” for “Commissioner” wherever appearing.
 
     1998—Subsec. (c)(7). [Pub. L. 105–332][/us/pl/105/332] substituted “management;” for “management, including making arrangements for an annual independent fiscal audit, notwithstanding [section 7502(a)(2)(A) of title 31][/us/usc/t31/s7502/a/2/A];”.
 
@@ -128,12 +132,16 @@
 [/us/stat/112/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1234
 [/us/pl/105/332/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs5%2Fc
 [/us/stat/112/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3127
+[/us/pl/113/128/s483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs483
+[/us/stat/128/1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1693
 [/us/pl/93/112/s725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs725
 [/us/pl/102/569/s701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs701%2F2
 [/us/stat/106/4462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4462
 [/us/pl/103/73/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs114
 [/us/stat/107/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F731
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/113/128/s483/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs483%2F1
+[/us/pl/113/128/s483/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs483%2F2
 [/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
 [/us/usc/t31/s7502/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs7502%2Fa%2F2%2FA
 

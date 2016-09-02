@@ -73,7 +73,11 @@
 
         The Secretary of Labor shall require grantees to report on the employment outcomes obtained by workers receiving training under this section using indicators of performance that are consistent with other indicators used for employment and training programs administered by the Secretary, such as entry into employment, retention in employment, and increases in earnings. The Secretary of Labor may also require grantees to participate in evaluations of projects carried out under this section.
 
-([Pub. L. 105–277, div. C, title IV, § 414(c)][/us/pl/105/277/s414/c], Oct. 21, 1998, [112 Stat. 2681–653][/us/stat/112/2681-653]; [Pub. L. 106–313, title I, § 111][/us/pl/106/313/s111], Oct. 17, 2000, [114 Stat. 1257][/us/stat/114/1257]; [Pub. L. 108–447, div. J, title IV, § 428][/us/pl/108/447/s428], Dec. 8, 2004, [118 Stat. 3358][/us/stat/118/3358].)
+([Pub. L. 105–277, div. C, title IV, § 414(c)][/us/pl/105/277/s414/c], Oct. 21, 1998, [112 Stat. 2681–653][/us/stat/112/2681-653]; [Pub. L. 106–313, title I, § 111][/us/pl/106/313/s111], Oct. 17, 2000, [114 Stat. 1257][/us/stat/114/1257]; [Pub. L. 108–447, div. J, title IV, § 428][/us/pl/108/447/s428], Dec. 8, 2004, [118 Stat. 3358][/us/stat/118/3358]; [Pub. L. 113–128, title V, § 512(a)][/us/pl/113/128/s512/a], July 22, 2014, [128 Stat. 1705][/us/stat/128/1705].)
+
+ __Amendment of Paragraph (3)(C)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], paragraph (3)(C) of this section is amended by striking “entities involved in administering the workforce investment system established under title I of the Workforce Investment Act of 1998” and inserting “entities involved in administering the workforce development system, as defined in [section 3102 of this title][/us/usc/t29/s3102]”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -86,6 +90,8 @@
     Section was enacted as part of the American Competitiveness and Workforce Improvement Act of 1998 and also as part of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of title I of the Workforce Investment Act of 1998 which comprises this chapter.
 
  __Amendments__ 
+
+    2014—Par. (3)(C). [Pub. L. 113–128][/us/pl/113/128] substituted “entities involved in administering the workforce development system, as defined in [section 3102 of this title][/us/usc/t29/s3102]” for “entities involved in administering the workforce investment system established under title I of the Workforce Investment Act of 1998”.
 
     2004—[Pub. L. 108–447][/us/pl/108/447] amended section catchline and text generally, substituting provisions relating to job training grants for provisions relating to demonstration programs and projects to provide technical skills training for workers.
 
@@ -100,6 +106,10 @@
     “(ii) local boards that will carry out such programs or projects through one-stop delivery systems established under [section 2841 of this title][/us/usc/t29/s2841]; or
 
     “(B) regional consortia of councils or local boards described in subparagraph (A).”
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of this title][/us/usc/t29/s3101].
 
  __Effective Date of 2004 Amendment__ 
 
@@ -120,10 +130,17 @@
 [/us/stat/114/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1257
 [/us/pl/108/447/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs428
 [/us/stat/118/3358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3358
+[/us/pl/113/128/s512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fa
+[/us/stat/128/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1705
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
 [/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
 [/us/usc/t29/s2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2916
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/106/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313
 [/us/usc/t29/s1732/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1732%2Fc
@@ -131,6 +148,9 @@
 [/us/usc/t8/s1356/s/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1356%2Fs%2F2
 [/us/usc/t29/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1512
 [/us/usc/t29/s2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2841
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/108/447/s430/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs430%2Fa
 [/us/usc/t8/s1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182

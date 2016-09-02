@@ -15,17 +15,9 @@
 
 ## § 761. Authorization of appropriations
 
-    (a)
+    There are authorized to be appropriated to carry out this subchapter $103,970,000 for fiscal year 2015, $112,001,000 for fiscal year 2016, $114,325,000 for fiscal year 2017, $116,860,000 for fiscal year 2018, $119,608,000 for fiscal year 2019, and $122,143,000 for fiscal year 2020.
 
-     There are authorized to be appropriated—
-
-        (1) for the purpose of providing for the expenses of the National Institute on Disability and Rehabilitation Research under [section 762 of this title][/us/usc/t29/s762], which shall include the expenses of the Rehabilitation Research Advisory Council under [section 765 of this title][/us/usc/t29/s765], and shall not include the expenses of such Institute to carry out [section 764 of this title][/us/usc/t29/s764], such sums as may be necessary for each of fiscal years 1999 through 2003; and
-
-        (2) to carry out [section 764 of this title][/us/usc/t29/s764], such sums as may be necessary for each of fiscal years 1999 through 2003.
-
-    (b) Funds appropriated under this subchapter shall remain available until expended.
-
-([Pub. L. 93–112, title II, § 201][/us/pl/93/112/s201], as added [Pub. L. 105–220, title IV, § 405][/us/pl/105/220/s405], Aug. 7, 1998, [112 Stat. 1168][/us/stat/112/1168]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 401(16)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–412.)
+([Pub. L. 93–112, title II, § 201][/us/pl/93/112/s201], as added [Pub. L. 105–220, title IV, § 405][/us/pl/105/220/s405], Aug. 7, 1998, [112 Stat. 1168][/us/stat/112/1168]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 401(16)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–412; [Pub. L. 113–128, title IV, § 432][/us/pl/113/128/s432], July 22, 2014, [128 Stat. 1660][/us/stat/128/1660].)
 
  __Prior Provisions__ 
 
@@ -39,6 +31,8 @@
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–128][/us/pl/113/128] amended section generally. Prior to amendment, section authorized appropriations to carry out sections 762 and 764 of this title for fiscal years 1999 through 2003.
+
     1998—[Pub. L. 105–277][/us/pl/105/277] made technical amendment to directory language of [Pub. L. 105–220, § 405][/us/pl/105/220/s405], which enacted this section.
 
 ----------
@@ -48,15 +42,13 @@
 ----------
 ----------
 
-[/us/usc/t29/s762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs762
-[/us/usc/t29/s765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs765
-[/us/usc/t29/s764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs764
-[/us/usc/t29/s764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs764
 [/us/pl/93/112/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs201
 [/us/pl/105/220/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs405
 [/us/stat/112/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1168
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
+[/us/pl/113/128/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs432
+[/us/stat/128/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1660
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/93/112/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs201
 [/us/stat/87/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F374
@@ -114,6 +106,7 @@
 [/us/pl/102/569/s102/p/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs102%2Fp%2F13
 [/us/stat/106/4358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4358
 [/us/usc/t29/s763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs763
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/220/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs405
 

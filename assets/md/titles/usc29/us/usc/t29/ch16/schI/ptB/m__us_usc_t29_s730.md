@@ -19,7 +19,7 @@
 
         (1)
 
-         Subject to the provisions of subsection (c) of this section, for each fiscal year beginning before October 1, 1978, each State shall be entitled to an allotment of an amount bearing the same ratio to the amount authorized to be appropriated under [section 720(b)(1) of this title][/us/usc/t29/s720/b/1] for allotment under this section as the product of—
+         Subject to the provisions of subsections (c) and (d),, <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  for each fiscal year beginning before October 1, 1978, each State shall be entitled to an allotment of an amount bearing the same ratio to the amount authorized to be appropriated under [section 720(b)(1) of this title][/us/usc/t29/s720/b/1] for allotment under this section as the product of—
 
             (A) the population of the State; and
 
@@ -33,7 +33,7 @@
 
             (B)
 
-             For each fiscal year beginning on or after October 1, 1978, each State shall be entitled to an allotment, from any amount authorized to be appropriated for such fiscal year under [section 720(b)(1) of this title][/us/usc/t29/s720/b/1] for allotment under this section in excess of the amount appropriated under section 720(b)(1)(A)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title for the fiscal year ending September 30, 1978, in an amount equal to the sum of—
+             For each fiscal year beginning on or after October 1, 1978, each State shall be entitled to an allotment, from any amount authorized to be appropriated for such fiscal year under [section 720(b)(1) of this title][/us/usc/t29/s720/b/1] for allotment under this section in excess of the amount appropriated under section 720(b)(1)(A)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of this title for the fiscal year ending September 30, 1978, in an amount equal to the sum of—
 
                 (i) an amount bearing the same ratio to 50 percent of such excess amount as the product of the population of the State and the square of its allotment percentage bears to the sum of the corresponding products for all the States; and
 
@@ -51,17 +51,17 @@
 
     (c) __Funds for American Indian vocational rehabilitation services__ 
 
-        (1) For fiscal year 1987 and for each subsequent fiscal year, the Commissioner shall reserve from the amount appropriated under [section 720(b)(1) of this title][/us/usc/t29/s720/b/1] for allotment under this section a sum, determined under paragraph (2), to carry out the purposes of part C of this subchapter.
+        (1) For fiscal year 2015 and for each subsequent fiscal year, the Commissioner shall reserve from the amount appropriated under [section 720(b)(1) of this title][/us/usc/t29/s720/b/1] for allotment under this section a sum, determined under paragraph (2), to carry out the purposes of part C of this subchapter.
 
-        (2)
+        (2) The sum referred to in paragraph (1) shall be, as determined by the Secretary, not less than 1 percent and not more than 1.5 percent of the amount referred to in paragraph (1), for each of fiscal years 2015 through 2020.
 
-         The sum referred to in paragraph (1) shall be, as determined by the Secretary—
+    (d) __Funds for pre-employment transition services__ 
 
-            (A) not less than three-quarters of 1 percent and not more than 1.5 percent of the amount referred to in paragraph (1), for fiscal year 1999; and
+        (1) From any State allotment under subsection (a) for a fiscal year, the State shall reserve not less than 15 percent of the allotted funds for the provision of pre-employment transition services.
 
-            (B) not less than 1 percent and not more than 1.5 percent of the amount referred to in paragraph (1), for each of fiscal years 2000 through 2003.
+        (2) Such reserved funds shall not be used to pay for the administrative costs of providing pre-employment transition services.
 
-([Pub. L. 93–112, title I, § 110][/us/pl/93/112/s110], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1160][/us/stat/112/1160]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(b)(7)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–413.)
+([Pub. L. 93–112, title I, § 110][/us/pl/93/112/s110], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1160][/us/stat/112/1160]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(b)(7)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–413; [Pub. L. 113–128, title IV, § 419][/us/pl/113/128/s419], July 22, 2014, [128 Stat. 1656][/us/stat/128/1656].)
 
  __References in Text__ 
 
@@ -73,7 +73,19 @@
 
  __Amendments__ 
 
+    2014—Subsec. (a)(1). [Pub. L. 113–128, § 419(1)][/us/pl/113/128/s419/1], substituted “Subject to the provisions of subsections (c) and (d),” for “Subject to the provisions of subsection (c)” in introductory provisions.
+
+    Subsec. (c)(1). [Pub. L. 113–128, § 419(2)(A)][/us/pl/113/128/s419/2/A], substituted “2015” for “1987”.
+
+    Subsec. (c)(2). [Pub. L. 113–128, § 419(2)(B)][/us/pl/113/128/s419/2/B], substituted “Secretary,” for “Secretary—” and “2015 through 2020” for “2000 through 2003”, struck out subpar. (B) designation before “not less than 1 percent”, and struck out subpar. (A) which read as follows: “not less than three-quarters of 1 percent and not more than 1.5 percent of the amount referred to in paragraph (1), for fiscal year 1999; and”.
+
+    Subsec. (d). [Pub. L. 113–128, § 419(3)][/us/pl/113/128/s419/3], added subsec. (d).
+
     1998—[Pub. L. 105–277][/us/pl/105/277] made technical amendment to section designation and catchline in original.
+
+ __Definitions of Terms in__  __[__  __Pub. L. 113–128__  __][/us/pl/113/128]__ 
+
+    Except as otherwise provided, terms defined in [section 3 of Pub. L. 113–128][/us/pl/113/128/s3], which is classified to [section 3102 of this title][/us/usc/t29/s3102], apply to this section.
 
 ----------
 
@@ -92,6 +104,8 @@
 [/us/stat/112/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1160
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
+[/us/pl/113/128/s419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs419
+[/us/stat/128/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1656
 [/us/usc/t29/s720/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs720%2Fb%2F1%2FA
 [/us/pl/102/569/s121/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs121%2Fb%2F1
 [/us/stat/106/4367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4367
@@ -110,6 +124,13 @@
 [/us/pl/103/73/s107/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs107%2Fe
 [/us/stat/107/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F723
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/113/128/s419/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs419%2F1
+[/us/pl/113/128/s419/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs419%2F2%2FA
+[/us/pl/113/128/s419/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs419%2F2%2FB
+[/us/pl/113/128/s419/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs419%2F3
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs3
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 
 

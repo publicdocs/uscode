@@ -15,9 +15,9 @@
 
 ## § 796f–6. Authorization of appropriations
 
-    There are authorized to be appropriated to carry out this subpart such sums as may be necessary for each of the fiscal years 1999 through 2003.
+    There are authorized to be appropriated to carry out this subpart $78,305,000 for fiscal year 2015, $84,353,000 for fiscal year 2016, $86,104,000 for fiscal year 2017, $88,013,000 for fiscal year 2018, $90,083,000 for fiscal year 2019, and $91,992,000 for fiscal year 2020.
 
-([Pub. L. 93–112, title VII, § 727][/us/pl/93/112/s727], as added [Pub. L. 105–220, title IV, § 410][/us/pl/105/220/s410], Aug. 7, 1998, [112 Stat. 1237][/us/stat/112/1237].)
+([Pub. L. 93–112, title VII, § 727][/us/pl/93/112/s727], as added [Pub. L. 105–220, title IV, § 410][/us/pl/105/220/s410], Aug. 7, 1998, [112 Stat. 1237][/us/stat/112/1237]; amended [Pub. L. 113–128, title IV, § 484][/us/pl/113/128/s484], July 22, 2014, [128 Stat. 1693][/us/stat/128/1693].)
 
  __Prior Provisions__ 
 
@@ -31,6 +31,10 @@
 
     Section 796i, [Pub. L. 93–112, title VII, § 741][/us/pl/93/112/s741], formerly § 731, as added [Pub. L. 95–602, title III, § 301][/us/pl/95/602/s301], Nov. 6, 1978, [92 Stat. 3001][/us/stat/92/3001]; renumbered § 741 and amended [Pub. L. 98–221, title I, § 172(a)(1)][/us/pl/98/221/s172/a/1], (b), Feb. 22, 1984, [98 Stat. 32][/us/stat/98/32]; [Pub. L. 99–506, title VIII, § 806][/us/pl/99/506/s806], Oct. 21, 1986, [100 Stat. 1840][/us/stat/100/1840]; [Pub. L. 100–630, title II, § 208(i)][/us/pl/100/630/s208/i], Nov. 7, 1988, [102 Stat. 3315][/us/stat/102/3315]; [Pub. L. 102–52, § 8][/us/pl/102/52/s8], June 6, 1991, [105 Stat. 262][/us/stat/105/262], provided for appropriations.
 
+ __Amendments__ 
+
+    2014—[Pub. L. 113–128][/us/pl/113/128] substituted “$78,305,000 for fiscal year 2015, $84,353,000 for fiscal year 2016, $86,104,000 for fiscal year 2017, $88,013,000 for fiscal year 2018, $90,083,000 for fiscal year 2019, and $91,992,000 for fiscal year 2020.” for “such sums as may be necessary for each of the fiscal years 1999 through 2003.”
+
 ----------
 
 [Previous](./../../../../../../..//us/usc/t29/ch16/schVII/ptA/spt3/m__us_usc_t29_s796f–5.md) | [Next](./../../../../../../..//us/usc/t29/ch16/schVII/ptB/m__us_usc_t29_ch16_schVII_ptB.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796f%E2%80%936)
@@ -41,6 +45,8 @@
 [/us/pl/93/112/s727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs727
 [/us/pl/105/220/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs410
 [/us/stat/112/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1237
+[/us/pl/113/128/s484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs484
+[/us/stat/128/1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1693
 [/us/pl/93/112/s727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs727
 [/us/pl/102/569/s701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs701%2F2
 [/us/stat/106/4464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4464
@@ -70,5 +76,6 @@
 [/us/stat/102/3315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3315
 [/us/pl/102/52/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F52%2Fs8
 [/us/stat/105/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F262
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 
 

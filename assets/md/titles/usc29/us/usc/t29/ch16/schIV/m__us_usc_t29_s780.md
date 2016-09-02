@@ -19,17 +19,41 @@
 
         (1)
 
-            (A) There is established within the Federal Government a National Council on Disability (hereinafter in this subchapter referred to as the “National Council”), which shall be composed of fifteen members appointed by the President.
+            (A)
+
+             There is established within the Federal Government a National Council on Disability (referred to in this subchapter as the “National Council”), which, subject to subparagraph (B), shall be composed of 9 members, of which—
+
+                (i) 5 shall be appointed by the President;
+
+                (ii) 1 shall be appointed by the Majority Leader of the Senate;
+
+                (iii) 1 shall be appointed by the Minority Leader of the Senate;
+
+                (iv) 1 shall be appointed by the Speaker of the House of Representatives; and
+
+                (v) 1 shall be appointed by the Minority Leader of the House of Representatives.
 
             (B)
 
-             The President shall select members of the National Council after soliciting recommendations from representatives of—
+             The National Council shall transition from 15 members (as of July 22, 2014) to 9 members as follows:
 
-                (i) organizations representing a broad range of individuals with disabilities; and
+                (i)
 
-                (ii) organizations interested in individuals with disabilities.
+                 On the first 4 expirations of National Council terms (after that date), replacement members shall be appointed to the National Council in the following order and manner:
 
-            (C) The members of the National Council shall be individuals with disabilities, parents or guardians of individuals with disabilities, or other individuals who have substantial knowledge or experience relating to disability policy or programs. The members of the National Council shall be appointed so as to be representative of individuals with disabilities, national organizations concerned with individuals with disabilities, providers and administrators of services to individuals with disabilities, individuals engaged in conducting medical or scientific research relating to individuals with disabilities, business concerns, and labor organizations. A majority of the members of the National Council shall be individuals with disabilities. The members of the National Council shall be broadly representative of minority and other individuals and groups.
+                    (I) 1 shall be appointed by the Majority Leader of the Senate.
+
+                    (II) 1 shall be appointed by the Minority Leader of the Senate.
+
+                    (III) 1 shall be appointed by the Speaker of the House of Representatives.
+
+                    (IV) 1 shall be appointed by the Minority Leader of the House of Representatives.
+
+                (ii) On the next 6 expirations of National Council terms (after the 4 expirations described in clause (i) occur), no replacement members shall be appointed to the National Council.
+
+            (C) For any vacancy on the National Council that occurs after the transition described in subparagraph (B), the vacancy shall be filled in the same manner as the original appointment was made.
+
+            (D) The members of the National Council shall be individuals with disabilities, parents or guardians of individuals with disabilities, national leaders on disability policy, or other individuals who have substantial knowledge or experience relating to disability policy or issues that affect individuals with disabilities. The members of the National Council shall be appointed so as to be representative of individuals with disabilities, national organizations concerned with individuals with disabilities, providers and administrators of services to individuals with disabilities, individuals engaged in conducting medical or scientific research relating to individuals with disabilities, business concerns, and labor organizations. A majority of the members of the National Council shall be individuals with disabilities. The members of the National Council shall be broadly representative of minority and other individuals and groups.
 
         (2)
 
@@ -41,7 +65,7 @@
 
     (b) __Term of office__ 
 
-        (1) Each member of the National Council shall serve for a term of 3 years, except that the terms of service of the members initially appointed after November 6, 1978, shall be (as specified by the President) for such fewer number of years as will provide for the expiration of terms on a staggered basis.
+        (1) Each member of the National Council shall serve for a term of 3 years.
 
         (2)
 
@@ -57,9 +81,9 @@
 
     (d) __Quorum; vacancies__ 
 
-        Eight members of the National Council shall constitute a quorum and any vacancy in the National Council shall not affect its power to function.
+        Five members of the National Council shall constitute a quorum and any vacancy in the National Council shall not affect its power to function.
 
-([Pub. L. 93–112, title IV, § 400][/us/pl/93/112/s400], as added [Pub. L. 105–220, title IV, § 407][/us/pl/105/220/s407], Aug. 7, 1998, [112 Stat. 1198][/us/stat/112/1198]; amended [Pub. L. 112–166, § 2(q)][/us/pl/112/166/s2/q], Aug. 10, 2012, [126 Stat. 1288][/us/stat/126/1288].)
+([Pub. L. 93–112, title IV, § 400][/us/pl/93/112/s400], as added [Pub. L. 105–220, title IV, § 407][/us/pl/105/220/s407], Aug. 7, 1998, [112 Stat. 1198][/us/stat/112/1198]; amended [Pub. L. 112–166, § 2(q)][/us/pl/112/166/s2/q], Aug. 10, 2012, [126 Stat. 1288][/us/stat/126/1288]; [Pub. L. 113–128, title IV, § 451][/us/pl/113/128/s451], July 22, 2014, [128 Stat. 1674][/us/stat/128/1674].)
 
  __Prior Provisions__ 
 
@@ -68,6 +92,26 @@
     Another prior section 780, [Pub. L. 93–112, title IV, § 400][/us/pl/93/112/s400], Sept. 26, 1973, [87 Stat. 385][/us/stat/87/385], related to general administrative powers of Secretary under this chapter, prior to repeal by [Pub. L. 95–602, § 117][/us/pl/95/602/s117].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1)(A) to (C). [Pub. L. 113–128, § 451(1)(B)][/us/pl/113/128/s451/1/B], added subpars. (A) to (C) and struck out former subpars. (A) and (B) which read as follows:
+
+    “(1)(A) There is established within the Federal Government a National Council on Disability (hereinafter in this subchapter referred to as the “National Council”), which shall be composed of fifteen members appointed by the President.
+
+    “(B) The President shall select members of the National Council after soliciting recommendations from representatives of—
+
+    “(i) organizations representing a broad range of individuals with disabilities; and
+
+    “(ii) organizations interested in individuals with disabilities.
+
+    Former subpar. (C) redesignated (D).
+
+    Subsec. (a)(1)(D). [Pub. L. 113–128, § 451(1)(C)][/us/pl/113/128/s451/1/C], inserted “national leaders on disability policy,” after “guardians of individuals with disabilities,” and substituted “policy or issues that affect individuals with disabilities” for “policy or programs”.
+
+    [Pub. L. 113–128, § 451(1)(A)][/us/pl/113/128/s451/1/A], redesignated subpar. (C) as (D).
+
+    Subsec. (b). [Pub. L. 113–128, § 451(2)][/us/pl/113/128/s451/2], which directed substitution of a period for “ ‘, except’ and all that follows”, was executed by substituting a period for “, except that the terms of service of the members initially appointed after November 6, 1978, shall be (as specified by the President) for such fewer number of years as will provide for the expiration of terms on a staggered basis.” in par. (1), to reflect the probable intent of Congress.
+
+    Subsec. (d). [Pub. L. 113–128, § 451(3)][/us/pl/113/128/s451/3], substituted “Five” for “Eight”.
 
     2012—Subsec. (a)(1)(A). [Pub. L. 112–166][/us/pl/112/166] struck out “, by and with the advice and consent of the Senate” before period at end.
 
@@ -87,6 +131,8 @@
 [/us/stat/112/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1198
 [/us/pl/112/166/s2/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fq
 [/us/stat/126/1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1288
+[/us/pl/113/128/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs451
+[/us/stat/128/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1674
 [/us/pl/93/112/s400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs400
 [/us/pl/95/602/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs117
 [/us/stat/92/2977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2977
@@ -102,6 +148,11 @@
 [/us/pl/93/112/s400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs400
 [/us/stat/87/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F385
 [/us/pl/95/602/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs117
+[/us/pl/113/128/s451/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs451%2F1%2FB
+[/us/pl/113/128/s451/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs451%2F1%2FC
+[/us/pl/113/128/s451/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs451%2F1%2FA
+[/us/pl/113/128/s451/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs451%2F2
+[/us/pl/113/128/s451/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs451%2F3
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/112/166/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs6%2Fa

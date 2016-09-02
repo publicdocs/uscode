@@ -17,7 +17,7 @@
 
     (a) __Establishment__ 
 
-        To be eligible to receive financial assistance under this part, each State shall establish a Statewide Independent Living Council (referred to in this section as the “Council”). The Council shall not be established as an entity within a State agency.
+        To be eligible to receive financial assistance under this part, each State shall establish and maintain a Statewide Independent Living Council (referred to in this section as the “Council”). The Council shall not be established as an entity within a State agency.
 
     (b) __Composition and appointment__ 
 
@@ -29,17 +29,11 @@
 
         The Council shall include—
 
-            (A) at least one director of a center for independent living chosen by the directors of centers for independent living within the State;
+            (A) among its voting members, at least 1 director of a center for independent living chosen by the directors of centers for independent living within the State;
 
-            (B)
+            (B) among its voting members, for a State in which 1 or more centers for independent living are run by, or in conjunction with, the governing bodies of American Indian tribes located on Federal or State reservations, at least 1 representative of the directors of such centers; and
 
-             as ex officio, nonvoting members—
-
-                (i) a representative from the designated State unit; and
-
-                (ii) representatives from other State agencies that provide services for individuals with disabilities; and
-
-            (C) in a State in which one or more projects are carried out under [section 741 of this title][/us/usc/t29/s741], at least one representative of the directors of the projects.
+            (C) as ex officio, nonvoting members, a representative of the designated State entity, and representatives from State agencies that provide services for individuals with disabilities.
 
         (3) __Additional members__ 
 
@@ -47,15 +41,17 @@
 
             (A) other representatives from centers for independent living;
 
-            (B) parents and guardians of individuals with disabilities;
+            (B) individuals with disabilities;
 
-            (C) advocates of and for individuals with disabilities;
+            (C) parents and guardians of individuals with disabilities;
 
-            (D) representatives from private businesses;
+            (D) advocates of and for individuals with disabilities;
 
-            (E) representatives from organizations that provide services for individuals with disabilities; and
+            (E) representatives from private businesses;
 
-            (F) other appropriate individuals.
+            (F) representatives from organizations that provide services for individuals with disabilities; and
+
+            (G) other appropriate individuals.
 
         (4) __Qualifications__ 
 
@@ -93,7 +89,7 @@
 
             (B) __Designation by chief executive officer__ 
 
-                In States in which the Governor does not have veto power pursuant to State law, the appointing authority described in paragraph (3) shall designate a voting member of the Council to serve as the chairperson of the Council or shall require the Council to so designate such a voting member.
+                In States in which the Governor does not have veto power pursuant to State law, the appointing authority described in paragraph (1) shall designate a voting member of the Council to serve as the chairperson of the Council or shall require the Council to so designate such a voting member.
 
         (6) __Terms of appointment__ 
 
@@ -107,7 +103,7 @@
 
             (B) __Number of terms__ 
 
-                No member of the Council may serve more than two consecutive full terms.
+                No member of the Council, other than a representative described in paragraph (2)(A) if there is only one center for independent living within the State, may serve more than two consecutive full terms.
 
         (7) __Vacancies__ 
 
@@ -119,19 +115,35 @@
 
                 The appointing authority described in paragraph (3) may delegate the authority to fill such a vacancy to the remaining voting members of the Council after making the original appointment.
 
-    (c) __Duties__ 
+    (c) __Functions__ 
 
-    The Council shall—
+        (1) __Duties__ 
 
-        (1) jointly develop and sign (in conjunction with the designated State unit) the State plan required in [section 796c of this title][/us/usc/t29/s796c];
+        The Council shall—
 
-        (2) monitor, review, and evaluate the implementation of the State plan;
+            (A) develop the State plan as provided in [section 796c(a)(2) of this title][/us/usc/t29/s796c/a/2];
 
-        (3) coordinate activities with the State Rehabilitation Council established under [section 725 of this title][/us/usc/t29/s725], if the State has such a Council, or the commission described in [section 721(a)(21)(A) of this title][/us/usc/t29/s721/a/21/A], if the State has such a commission, and councils that address the needs of specific disability populations and issues under other Federal law;
+            (B) monitor, review, and evaluate the implementation of the State plan;
 
-        (4) ensure that all regularly scheduled meetings of the Statewide Independent Living Council are open to the public and sufficient advance notice is provided; and
+            (C) meet regularly, and ensure that such meetings of the Council are open to the public and sufficient advance notice of such meetings is provided;
 
-        (5) submit to the Commissioner such periodic reports as the Commissioner may reasonably request, and keep such records, and afford such access to such records, as the Commissioner finds necessary to verify such reports.
+            (D) submit to the Administrator such periodic reports as the Administrator may reasonably request, and keep such records, and afford such access to such records, as the Administrator finds necessary to verify the information in such reports; and
+
+            (E) as appropriate, coordinate activities with other entities in the State that provide services similar to or complementary to independent living services, such as entities that facilitate the provision of or provide long-term community-based services and supports.
+
+        (2) __Authorities__ 
+
+        The Council may, consistent with the State plan described in [section 796c of this title][/us/usc/t29/s796c], unless prohibited by State law—
+
+            (A) in order to improve services provided to individuals with disabilities, work with centers for independent living to coordinate services with public and private entities;
+
+            (B) conduct resource development activities to support the activities described in this subsection or to support the provision of independent living services by centers for independent living; and
+
+            (C) perform such other functions, consistent with the purpose of this chapter and comparable to other functions described in this subsection, as the Council determines to be appropriate.
+
+        (3) __Limitation__ 
+
+            The Council shall not provide independent living services directly to individuals with significant disabilities or manage such services.
 
     (d) __Hearings and forums__ 
 
@@ -141,7 +153,7 @@
 
         (1) __In general__ 
 
-            The Council shall prepare, in conjunction with the designated State unit, a plan for the provision of such resources, including such staff and personnel, as may be necessary and sufficient to carry out the functions of the Council under this section, with funds made available under this part, and under [section 730 of this title][/us/usc/t29/s730] (consistent with [section 721(a)(18) of this title][/us/usc/t29/s721/a/18]), and from other public and private sources. The resource plan shall, to the maximum extent possible, rely on the use of resources in existence during the period of implementation of the plan.
+            The Council shall prepare, in conjunction with the designated State entity, a plan for the provision of such resources, including such staff and personnel, as may be necessary and sufficient to carry out the functions of the Council under this section, with funds made available under this part, and under [section 730 of this title][/us/usc/t29/s730] (consistent with [section 721(a)(18) of this title][/us/usc/t29/s721/a/18]), and from other public and private sources. The resource plan shall, to the maximum extent possible, rely on the use of resources in existence during the period of implementation of the plan.
 
         (2) __Supervision and evaluation__ 
 
@@ -149,13 +161,13 @@
 
         (3) __Conflict of interest__ 
 
-            While assisting the Council in carrying out its duties, staff and other personnel shall not be assigned duties by the designated State agency or any other agency or office of the State, that would create a conflict of interest.
+            While assisting the Council in carrying out its duties, staff and other personnel shall not be assigned duties by the designated State entity or any other agency or office of the State, that would create a conflict of interest.
 
     (f) __Compensation and expenses__ 
 
-        The Council may use such resources to reimburse members of the Council for reasonable and necessary expenses of attending Council meetings and performing Council duties (including child care and personal assistance services), and to pay compensation to a member of the Council, if such member is not employed or must forfeit wages from other employment, for each day the member is engaged in performing Council duties.
+        The Council may use available resources to reimburse members of the Council for reasonable and necessary expenses of attending Council meetings and performing Council duties (such as personal assistance services), and to pay reasonable compensation to a member of the Council, if such member is not employed or must forfeit wages from other employment, for each day the member is engaged in performing Council duties.
 
-([Pub. L. 93–112, title VII, § 705][/us/pl/93/112/s705], as added [Pub. L. 105–220, title IV, § 410][/us/pl/105/220/s410], Aug. 7, 1998, [112 Stat. 1220][/us/stat/112/1220]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(c)(7)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–416.)
+([Pub. L. 93–112, title VII, § 705][/us/pl/93/112/s705], as added [Pub. L. 105–220, title IV, § 410][/us/pl/105/220/s410], Aug. 7, 1998, [112 Stat. 1220][/us/stat/112/1220]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(c)(7)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–416; [Pub. L. 113–128, title IV, § 475][/us/pl/113/128/s475], July 22, 2014, [128 Stat. 1687][/us/stat/128/1687].)
 
  __Prior Provisions__ 
 
@@ -164,6 +176,36 @@
     Another prior section 796d, [Pub. L. 93–112, title VII, § 705][/us/pl/93/112/s705], as added [Pub. L. 95–602, title III, § 301][/us/pl/95/602/s301], Nov. 6, 1978, [92 Stat. 2997][/us/stat/92/2997]; amended [Pub. L. 99–506, title I, § 103(d)(2)(B)][/us/pl/99/506/s103/d/2/B], (C), (h)(2), title VIII, § 802, title X, § 1001(g)(3), Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1811, 1837, 1843; [Pub. L. 100–630, title II, § 208(d)][/us/pl/100/630/s208/d], Nov. 7, 1988, [102 Stat. 3314][/us/stat/102/3314]; [Pub. L. 102–119, § 26(e)][/us/pl/102/119/s26/e], Oct. 7, 1991, [105 Stat. 607][/us/stat/105/607], related to State plans for providing comprehensive services for independent living, prior to repeal by [Pub. L. 102–569, § 701(1)][/us/pl/102/569/s701/1].
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–128, § 475(1)][/us/pl/113/128/s475/1], inserted “and maintain” after “shall establish”.
+
+    Subsec. (b)(2)(A). [Pub. L. 113–128, § 475(2)(A)(i)][/us/pl/113/128/s475/2/A/i], inserted “among its voting members,” before “at least” and substituted “1” for “one”.
+
+    Subsec. (b)(2)(B), (C). [Pub. L. 113–128, § 475(2)(A)(ii)][/us/pl/113/128/s475/2/A/ii], added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
+
+    “(B) as ex officio, nonvoting members—
+
+    “(i) a representative from the designated State unit; and
+
+    “(ii) representatives from other State agencies that provide services for individuals with disabilities; and
+
+    “(C) in a State in which one or more projects are carried out under [section 741 of this title][/us/usc/t29/s741], at least one representative of the directors of the projects.”
+
+    Subsec. (b)(3)(B). [Pub. L. 113–128, § 475(2)(B)(ii)][/us/pl/113/128/s475/2/B/ii], struck out “parents and guardians of” before “individuals”.
+
+    Subsec. (b)(3)(C) to (G). [Pub. L. 113–128, § 475(2)(B)(i)][/us/pl/113/128/s475/2/B/i], (iii), added subpar. (C) and redesignated former subpars. (C) to (F) as (D) to (G), respectively.
+
+    Subsec. (b)(5)(B). [Pub. L. 113–128, § 475(2)(C)][/us/pl/113/128/s475/2/C], substituted “paragraph (1)” for “paragraph (3)”.
+
+    Subsec. (b)(6)(B). [Pub. L. 113–128, § 475(2)(D)][/us/pl/113/128/s475/2/D], inserted “, other than a representative described in paragraph (2)(A) if there is only one center for independent living within the State,” after “the Council”.
+
+    Subsec. (c). [Pub. L. 113–128, § 475(3)][/us/pl/113/128/s475/3], added subsec. (c) and struck out former subsec. (c) which related to duties of the Council.
+
+    Subsec. (e)(1). [Pub. L. 113–128, § 475(4)(A)][/us/pl/113/128/s475/4/A], substituted “prepare, in conjunction with the designated State entity, a plan” for “prepare, in conjunction with the designated State unit, a plan”.
+
+    Subsec. (e)(3). [Pub. L. 113–128, § 475(4)(B)][/us/pl/113/128/s475/4/B], substituted “State entity” for “State agency”.
+
+    Subsec. (f). [Pub. L. 113–128, § 475(5)][/us/pl/113/128/s475/5], substituted “available resources” for “such resources” and “(such as personal assistance services), and to pay reasonable compensation” for “(including child care and personal assistance services), and to pay compensation”.
 
     1998—Subsec. (b)(1). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(c)(7)(A)\], in first sentence, substituted “by the Governor or, in the case of a State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entity other than the Governor (such as one or more houses of the State legislature or an independent board), the chief officer of that entity” for “by the Governor” and, in second sentence, substituted “The appointing authority” for “The Governor”.
 
@@ -178,12 +220,10 @@
 ----------
 ----------
 
-[/us/usc/t29/s741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs741
 [/us/usc/t29/s705/20/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs705%2F20%2FB
 [/us/usc/t29/s705/20/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs705%2F20%2FB
+[/us/usc/t29/s796c/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796c%2Fa%2F2
 [/us/usc/t29/s796c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796c
-[/us/usc/t29/s725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs725
-[/us/usc/t29/s721/a/21/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs721%2Fa%2F21%2FA
 [/us/usc/t29/s730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs730
 [/us/usc/t29/s721/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs721%2Fa%2F18
 [/us/pl/93/112/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs705
@@ -191,6 +231,8 @@
 [/us/stat/112/1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1220
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
+[/us/pl/113/128/s475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs475
+[/us/stat/128/1687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1687
 [/us/pl/93/112/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs705
 [/us/pl/102/569/s701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs701%2F2
 [/us/stat/106/4446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4446
@@ -207,6 +249,18 @@
 [/us/pl/102/119/s26/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119%2Fs26%2Fe
 [/us/stat/105/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F607
 [/us/pl/102/569/s701/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs701%2F1
+[/us/pl/113/128/s475/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs475%2F1
+[/us/pl/113/128/s475/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs475%2F2%2FA%2Fi
+[/us/pl/113/128/s475/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs475%2F2%2FA%2Fii
+[/us/usc/t29/s741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs741
+[/us/pl/113/128/s475/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs475%2F2%2FB%2Fii
+[/us/pl/113/128/s475/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs475%2F2%2FB%2Fi
+[/us/pl/113/128/s475/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs475%2F2%2FC
+[/us/pl/113/128/s475/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs475%2F2%2FD
+[/us/pl/113/128/s475/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs475%2F3
+[/us/pl/113/128/s475/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs475%2F4%2FA
+[/us/pl/113/128/s475/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs475%2F4%2FB
+[/us/pl/113/128/s475/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs475%2F5
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff

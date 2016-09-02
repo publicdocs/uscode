@@ -49,13 +49,23 @@
 
         For purposes of this section, in determining whether a plant closing or mass layoff has occurred or will occur, employment losses for 2 or more groups at a single site of employment, each of which is less than the minimum number of employees specified in section 2101(a)(2) or (3) of this title but which in the aggregate exceed that minimum number, and which occur within any 90-day period shall be considered to be a plant closing or mass layoff unless the employer demonstrates that the employment losses are the result of separate and distinct actions and causes and are not an attempt by the employer to evade the requirements of this chapter.
 
-([Pub. L. 100–379, § 3][/us/pl/100/379/s3], Aug. 4, 1988, [102 Stat. 891][/us/stat/102/891]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(26), (f)(18)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–424, 2681–432.)
+([Pub. L. 100–379, § 3][/us/pl/100/379/s3], Aug. 4, 1988, [102 Stat. 891][/us/stat/102/891]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(26), (f)(18)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–424, 2681–432; [Pub. L. 113–128, title V, § 512(kk)][/us/pl/113/128/s512/kk], July 22, 2014, [128 Stat. 1722][/us/stat/128/1722].)
+
+ __Amendment of Subsection (a)(2)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(kk), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1722, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a)(2) of this section is amended by striking “the State or entity designated by the State to carry out rapid response activities under [section 2864(a)(2)(A) of this title][/us/usc/t29/s2864/a/2/A],” and inserting “the State or entity designated by the State to carry out rapid response activities under [section 3174(a)(2)(A) of this title][/us/usc/t29/s3174/a/2/A],”. See 2014 Amendment note below.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(2). [Pub. L. 113–128][/us/pl/113/128] substituted “the State or entity designated by the State to carry out rapid response activities under [section 3174(a)(2)(A) of this title][/us/usc/t29/s3174/a/2/A],” for “the State or entity designated by the State to carry out rapid response activities under [section 2864(a)(2)(A) of this title][/us/usc/t29/s2864/a/2/A],”.
 
     1998—Subsec. (a)(2). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(f)(18)\], struck out “the State dislocated worker unit or office (referred to in [section 1661(b)(2) of this title][/us/usc/t29/s1661/b/2]), or” before “the State or entity”.
 
     [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(26)\], substituted “to the State dislocated worker unit or office (referred to in [section 1661(b)(2) of this title][/us/usc/t29/s1661/b/2]), or the State or entity designated by the State to carry out rapid response activities under [section 2864(a)(2)(A) of this title][/us/usc/t29/s2864/a/2/A], and the chief” for “to the State dislocated worker unit (designated or created under title III of the Job Training Partnership Act) and the chief”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of this title][/us/usc/t29/s3101].
 
  __Effective Date of 1998 Amendment__ 
 
@@ -73,11 +83,21 @@
 [/us/stat/102/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F891
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
+[/us/pl/113/128/s512/kk]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fkk
+[/us/stat/128/1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1722
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2864/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fa%2F2%2FA
+[/us/usc/t29/s3174/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3174%2Fa%2F2%2FA
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/usc/t29/s3174/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3174%2Fa%2F2%2FA
+[/us/usc/t29/s2864/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fa%2F2%2FA
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/usc/t29/s1661/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1661%2Fb%2F2
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/usc/t29/s1661/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1661%2Fb%2F2
 [/us/usc/t29/s2864/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fa%2F2%2FA
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277

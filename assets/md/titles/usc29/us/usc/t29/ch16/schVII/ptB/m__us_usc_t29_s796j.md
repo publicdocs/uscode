@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch16/schVII/ptB/m__us_usc_t29_ch16_schVII_ptB.md) | [Next](./../../../../../..//us/usc/t29/ch16/schVII/ptB/m__us_usc_t29_s796k.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796j)
+[Previous](./../../../../../..//us/usc/t29/ch16/schVII/ptB/m__us_usc_t29_ch16_schVII_ptB.md) | [Next](./../../../../../..//us/usc/t29/ch16/schVII/ptB/m__us_usc_t29_s796j–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796j)
 
 ## § 796j. “Older individual who is blind” defined
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch16/schVII/ptB/m__us_usc_t29_ch16_schVII_ptB.md) | [Next](./../../../../../..//us/usc/t29/ch16/schVII/ptB/m__us_usc_t29_s796k.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796j)
+[Previous](./../../../../../..//us/usc/t29/ch16/schVII/ptB/m__us_usc_t29_ch16_schVII_ptB.md) | [Next](./../../../../../..//us/usc/t29/ch16/schVII/ptB/m__us_usc_t29_s796j–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796j)
 
 ----------
 ----------

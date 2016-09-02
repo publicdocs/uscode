@@ -19,15 +19,15 @@
 
         (1) __In general__ 
 
-            Notwithstanding any other provision of law, the Assistant Secretary for Special Education and Rehabilitative Services of the Department of Education, acting through the Rehabilitation Services Administration, shall be responsible for the administration of this chapter.
+            Notwithstanding any other provision of law, the Administrator of the Administration for Community Living shall be responsible for the administration of this chapter.
 
         (2) __Collaboration__ 
 
-            The Assistant Secretary for Special Education and Rehabilitative Services shall consult with the Office of Special Education Programs, the Rehabilitation Services Administration, and the National Institute on Disability and Rehabilitation Research in the Office of Special Education and Rehabilitative Services, and appropriate Federal entities in the administration of this chapter.
+            The Administrator of the Administration for Community Living shall consult with the Office of Special Education Programs of the Department of Education, the Rehabilitation Services Administration of the Department of Education, the Office of Disability Employment Policy of the Department of Labor, the National Institute on Disability, Independent Living, and Rehabilitation Research, and other appropriate Federal entities in the administration of this chapter.
 
         (3) __Administration__ 
 
-            In administering this chapter, the Rehabilitation Services Administration shall ensure that programs funded under this chapter will address the needs of individuals with disabilities of all ages, whether the individuals will use the assistive technology to obtain or maintain employment, to obtain education, or for other reasons.
+            In administering this chapter, the Administrator of the Administration for Community Living shall ensure that programs funded under this chapter will address the needs of individuals with disabilities of all ages, whether the individuals will use the assistive technology to obtain or maintain employment, to obtain education, or for other reasons.
 
         (4) __Orderly transition__ 
 
@@ -77,7 +77,7 @@
 
         (5) __Public notification__ 
 
-            The Secretary shall notify the public, by posting on the Internet website of the Department of Education, of each action taken by the Secretary under paragraph (1) or (2). As a part of such notification, the Secretary shall describe each such action taken under paragraph (1) or (2) and the outcomes of each such action.
+            The Secretary shall notify the public, by posting on the Internet website of the Department of Health and Human Services, of each action taken by the Secretary under paragraph (1) or (2). As a part of such notification, the Secretary shall describe each such action taken under paragraph (1) or (2) and the outcomes of each such action.
 
     (d) __Annual report to Congress__ 
 
@@ -105,11 +105,21 @@
 
         This chapter (as in effect on the day before October 25, 2004) shall apply to funds appropriated under this chapter for fiscal year 2004.
 
-([Pub. L. 105–394, § 7][/us/pl/105/394/s7], as added [Pub. L. 108–364, § 2][/us/pl/108/364/s2], Oct. 25, 2004, [118 Stat. 1734][/us/stat/118/1734].)
+([Pub. L. 105–394, § 7][/us/pl/105/394/s7], as added [Pub. L. 108–364, § 2][/us/pl/108/364/s2], Oct. 25, 2004, [118 Stat. 1734][/us/stat/118/1734]; amended [Pub. L. 113–128, title IV, § 491][/us/pl/113/128/s491](o)(3), July 22, 2014, [128 Stat. 1698][/us/stat/128/1698].)
 
  __References in Text__ 
 
     The General Education Provisions Act, referred to in subsec. (e), is title IV of [Pub. L. 90–247][/us/pl/90/247], Jan. 2, 1968, [81 Stat. 814][/us/stat/81/814]. Part D of the Act is classified generally to subchapter IV (§ 1234 et seq.) of chapter 31 of Title 20, Education. For complete classification of this Act to the Code, see [section 1221 of Title 20][/us/usc/t20/s1221] and Tables.
+
+ __Amendments__ 
+
+    2014—Subsec. (a)(1). [Pub. L. 113–128, § 491][/us/pl/113/128/s491](o)(3)(A)(i), substituted “the Administrator of the Administration for Community Living” for “the Assistant Secretary for Special Education and Rehabilitative Services of the Department of Education, acting through the Rehabilitation Services Administration,”.
+
+    Subsec. (a)(2). [Pub. L. 113–128, § 491][/us/pl/113/128/s491](o)(3)(A)(ii), substituted “The Administrator of the Administration for Community Living shall consult with the Office of Special Education Programs of the Department of Education, the Rehabilitation Services Administration of the Department of Education, the Office of Disability Employment Policy of the Department of Labor, the National Institute on Disability, Independent Living, and Rehabilitation Research, and other appropriate Federal entities in the administration of this chapter.” for “The Assistant Secretary for Special Education and Rehabilitative Services shall consult with the Office of Special Education Programs, the Rehabilitation Services Administration, and the National Institute on Disability and Rehabilitation Research in the Office of Special Education and Rehabilitative Services, and appropriate Federal entities in the administration of this chapter.”
+
+    Subsec. (a)(3). [Pub. L. 113–128, § 491][/us/pl/113/128/s491](o)(3)(A)(iii), substituted “the Administrator of the Administration for Community Living” for “the Rehabilitation Services Administration”.
+
+    Subsec. (c)(5). [Pub. L. 113–128, § 491][/us/pl/113/128/s491](o)(3)(B), substituted “Health and Human Services” for “Education”.
 
 ----------
 
@@ -128,8 +138,14 @@
 [/us/pl/105/394/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394%2Fs7
 [/us/pl/108/364/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364%2Fs2
 [/us/stat/118/1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1734
+[/us/pl/113/128/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs491
+[/us/stat/128/1698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1698
 [/us/pl/90/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247
 [/us/stat/81/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F814
 [/us/usc/t20/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221
+[/us/pl/113/128/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs491
+[/us/pl/113/128/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs491
+[/us/pl/113/128/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs491
+[/us/pl/113/128/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs491
 
 

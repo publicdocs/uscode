@@ -21,21 +21,21 @@
 
             (A) __Submission__ 
 
-                To be eligible to participate in programs under this subchapter, a State shall submit to the Commissioner a State plan for vocational rehabilitation services that meets the requirements of this section, on the same date that the State submits a State plan under section 112 of the Workforce Investment Act of 1998 \[[29 U.S.C. 2822][/us/usc/t29/s2822]\].
+                To be eligible to receive funds under this subchapter for a fiscal year, a State shall submit, and have approved by the Secretary and the Secretary of Labor, a unified State plan in accordance with section 102, or a combined State plan in accordance with section 103, of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3112][/us/usc/t29/s3112], 3113\]. The unified or combined State plan shall include, in the portion of the plan described in section 102(b)(2)(D) of such Act \[[29 U.S.C. 3112(b)(2)(D)][/us/usc/t29/s3112/b/2/D]\] (referred to in this subsection as the “vocational rehabilitation services portion”), the provisions of a State plan for vocational rehabilitation services, described in this subsection.
 
             (B) __Nonduplication__ 
 
-                The State shall not be required to submit, in the State plan for vocational rehabilitation services, policies, procedures, or descriptions required under this subchapter that have been previously submitted to the Commissioner and that demonstrate that such State meets the requirements of this subchapter, including any policies, procedures, or descriptions submitted under this subchapter as in effect on the day before August 7, 1998.
+                The State shall not be required to submit, as part of the vocational rehabilitation services portion of the unified or combined State plan submitted in accordance with subparagraph (A), policies, procedures, or descriptions required under this subchapter that have been previously submitted to the Commissioner and that demonstrate that such State meets the requirements of this subchapter, including any policies, procedures, or descriptions submitted under this subchapter as in effect on the day before the effective date of the Workforce Innovation and Opportunity Act.
 
             (C) __Duration__ 
 
-                The State plan shall remain in effect subject to the submission of such modifications as the State determines to be necessary or as the Commissioner may require based on a change in State policy, a change in Federal law (including regulations), an interpretation of this chapter by a Federal court or the highest court of the State, or a finding by the Commissioner of State noncompliance with the requirements of this chapter, until the State submits and receives approval of a new State plan.
+                The vocational rehabilitation services portion of the unified or combined State plan submitted in accordance with subparagraph (A) shall remain in effect until the State submits and receives approval of a new State plan in accordance with subparagraph (A), or until the submission of such modifications as the State determines to be necessary or as the Commissioner may require based on a change in State policy, a change in Federal law (including regulations), an interpretation of this chapter by a Federal court or the highest court of the State, or a finding by the Commissioner of State noncompliance with the requirements of this chapter.
 
         (2) __Designated State agency; designated State unit__ 
 
             (A) __Designated State agency__ 
 
-            The State plan shall designate a State agency as the sole State agency to administer the plan, or to supervise the administration of the plan by a local agency, except that—
+            The State plan for vocational rehabilitation services shall designate a State agency as the sole State agency to administer the plan, or to supervise the administration of the plan by a local agency, except that—
 
                 (i) where, under State law, the State agency for individuals who are blind or another agency that provides assistance or services to adults who are blind is authorized to provide vocational rehabilitation services to individuals who are blind, that agency may be designated as the sole State agency to administer the part of the plan under which vocational rehabilitation services are provided for individuals who are blind (or to supervise the administration of such part by a local agency) and a separate State agency may be designated as the sole State agency to administer or supervise the administration of the rest of the State plan;
 
@@ -55,11 +55,13 @@
 
                     (I) is primarily concerned with vocational rehabilitation, or vocational and other rehabilitation, of individuals with disabilities, and is responsible for the vocational rehabilitation program of the designated State agency;
 
-                    (II) has a full-time director;
+                    (II) has a full-time director who is responsible for the day-to-day operation of the vocational rehabilitation program;
 
-                    (III) has a staff employed on the rehabilitation work of the organizational unit all or substantially all of whom are employed full time on such work; and
+                    (III) has a staff employed on the rehabilitation work of the organizational unit all or substantially all of whom are employed full time on such work;
 
-                    (IV) is located at an organizational level and has an organizational status within the designated State agency comparable to that of other major organizational units of the designated State agency.
+                    (IV) is located at an organizational level and has an organizational status within the designated State agency comparable to that of other major organizational units of the designated State agency; and
+
+                    (V) has the sole authority and responsibility within the designated State agency described in subparagraph (A) to expend funds made available under this subchapter in a manner that is consistent with the purposes of this subchapter.
 
             (C) __Responsibility for services for the blind__ 
 
@@ -85,9 +87,11 @@
 
             (B) provide the justification for the order of selection;
 
-            (C) include an assurance that, in accordance with criteria established by the State for the order of selection, individuals with the most significant disabilities will be selected first for the provision of vocational rehabilitation services; and
+            (C) include an assurance that, in accordance with criteria established by the State for the order of selection, individuals with the most significant disabilities will be selected first for the provision of vocational rehabilitation services;
 
-            (D) provide that eligible individuals, who do not meet the order of selection criteria, shall have access to services provided through the information and referral system implemented under paragraph (20).
+            (D) notwithstanding subparagraph (C), permit the State, in its discretion, to elect to serve eligible individuals (whether or not receiving vocational rehabilitation services) who require specific services or equipment to maintain employment; and
+
+            (E) provide that eligible individuals, who do not meet the order of selection criteria, shall have access to services provided through the information and referral system implemented under paragraph (20).
 
         (6) __Methods for administration__ 
 
@@ -141,9 +145,9 @@
 
                  a description of the procedures and activities the designated State agency will undertake to ensure that all personnel employed by the designated State unit are appropriately and adequately trained and prepared, including—
 
-                    (I) a system for the continuing education of rehabilitation professionals and paraprofessionals within the designated State unit, particularly with respect to rehabilitation technology; and
+                    (I) a system for the continuing education of rehabilitation professionals and paraprofessionals within the designated State unit, particularly with respect to rehabilitation technology, including training implemented in coordination with entities carrying out State programs under [section 3003 of this title][/us/usc/t29/s3003]; and
 
-                    (II) procedures for acquiring and disseminating to rehabilitation professionals and paraprofessionals within the designated State unit significant knowledge from research and other sources, including procedures for providing training regarding the amendments to this chapter made by the Rehabilitation Act Amendments of 1998;
+                    (II) procedures for acquiring and disseminating to rehabilitation professionals and paraprofessionals within the designated State unit significant knowledge from research and other sources, including procedures for providing training regarding the amendments to this chapter made by the Workforce Innovation and Opportunity Act;
 
             (B)
 
@@ -151,7 +155,25 @@
 
                 (i) the establishment and maintenance of standards that are consistent with any national or State approved or recognized certification, licensing, registration, or other comparable requirements that apply to the area in which such personnel are providing vocational rehabilitation services; and
 
-                (ii) to the extent that such standards are not based on the highest requirements in the State applicable to a specific profession or discipline, the steps the State is taking to require the retraining or hiring of personnel within the designated State unit that meet appropriate professional requirements in the State; and
+                (ii)
+
+                 the establishment and maintenance of education and experience requirements, to ensure that the personnel have a 21st century understanding of the evolving labor force and the needs of individuals with disabilities, including requirements for—
+
+                    (I)
+
+                        (aa) attainment of a baccalaureate degree in a field of study reasonably related to vocational rehabilitation, to indicate a level of competency and skill demonstrating basic preparation in a field of study such as vocational rehabilitation counseling, social work, psychology, disability studies, business administration, human resources, special education, supported employment, customized employment, economics, or another field that reasonably prepares individuals to work with consumers and employers; and
+
+                        (bb)
+
+                         demonstrated paid or unpaid experience, for not less than 1 year, consisting of—
+
+                            (AA) direct work with individuals with disabilities in a setting such as an independent living center;
+
+                            (BB) direct service or advocacy activities that provide such individual with experience and skills in working with individuals with disabilities; or
+
+                            (CC) direct experience as an employer, as a small business owner or operator, or in self-employment, or other experience in human resources, recruitment, or experience in supervising employees, training, or other activities that provide experience in competitive integrated employment environments; or
+
+                    (II) attainment of a master’s or doctoral degree in a field of study such as vocational rehabilitation counseling, law, social work, psychology, disability studies, business administration, human resources, special education, management, public administration, or another field that reasonably provides competence in the employment sector, in a disability field, or in both business-related and rehabilitation-related fields; and
 
             (C) contain provisions relating to the establishment and maintenance of minimum standards to ensure the availability of personnel within the designated State unit, to the maximum extent feasible, trained to communicate in the native language or mode of communication of an applicant or eligible individual.
 
@@ -161,7 +183,7 @@
 
                 (i) __In general__ 
 
-                The State plan shall include an assurance that, prior to providing any vocational rehabilitation service to an eligible individual, except those services specified in paragraph (5)(D) and in paragraphs (1) through (4) and (14) of [section 723(a) of this title][/us/usc/t29/s723/a], the designated State unit will determine whether comparable services and benefits are available under any other program (other than a program carried out under this subchapter) unless such a determination would interrupt or delay—
+                The State plan shall include an assurance that, prior to providing an accommodation or auxiliary aid or service or any vocational rehabilitation service to an eligible individual, except those services specified in paragraph (5)(E) and in paragraphs (1) through (4) and (14) of [section 723(a) of this title][/us/usc/t29/s723/a], the designated State unit will determine whether comparable services and benefits are available under any other program (other than a program carried out under this subchapter) unless such a determination would interrupt or delay—
 
                     (I) the progress of the individual toward achieving the employment outcome identified in the individualized plan for employment of the individual in accordance with [section 722(b) of this title][/us/usc/t29/s722/b];
 
@@ -175,7 +197,7 @@
 
             (B) __Interagency agreement__ 
 
-            The State plan shall include an assurance that the Governor of the State, in consultation with the entity in the State responsible for the vocational rehabilitation program and other appropriate agencies, will ensure that an interagency agreement or other mechanism for interagency coordination takes effect between any appropriate public entity, including the State entity responsible for administering the State medicaid program, a public institution of higher education, and a component of the statewide workforce investment system, and the designated State unit, in order to ensure the provision of vocational rehabilitation services described in subparagraph (A) (other than those services specified in paragraph (5)(D), and in paragraphs (1) through (4) and (14) of [section 723(a) of this title][/us/usc/t29/s723/a]), that are included in the individualized plan for employment of an eligible individual, including the provision of such vocational rehabilitation services during the pendency of any dispute described in clause (iii). Such agreement or mechanism shall include the following:
+            The State plan shall include an assurance that the Governor of the State, in consultation with the entity in the State responsible for the vocational rehabilitation program and other appropriate agencies, will ensure that an interagency agreement or other mechanism for interagency coordination takes effect between any appropriate public entity, including the State entity responsible for administering the State Medicaid program, a public institution of higher education, and a component of the statewide workforce development system, and the designated State unit, in order to ensure the provision of vocational rehabilitation services described in subparagraph (A) (other than those services specified in paragraph (5)(E), and in paragraphs (1) through (4) and (14) of [section 723(a) of this title][/us/usc/t29/s723/a]), and, if appropriate, accommodations or auxiliary aids and services, that are included in the individualized plan for employment of an eligible individual, including the provision of such vocational rehabilitation services (including, if appropriate, accommodations or auxiliary aids and services) during the pendency of any dispute described in clause (iii). Such agreement or mechanism shall include the following:
 
                 (i) __Agency financial responsibility__ 
 
@@ -191,13 +213,13 @@
 
                 (iv) __Coordination of services procedures__ 
 
-                    Information specifying policies and procedures for public entities to determine and identify the interagency coordination responsibilities of each public entity to promote the coordination and timely delivery of vocational rehabilitation services (except those services specified in paragraph (5)(D) and in paragraphs (1) through (4) and (14) of [section 723(a) of this title][/us/usc/t29/s723/a]).
+                    Information specifying policies and procedures for public entities to determine and identify the interagency coordination responsibilities of each public entity to promote the coordination and timely delivery of vocational rehabilitation services (except those services specified in paragraph (5)(E) and in paragraphs (1) through (4) and (14) of [section 723(a) of this title][/us/usc/t29/s723/a]), and accommodations or auxiliary aids and services.
 
             (C) __Responsibilities of other public entities__ 
 
                 (i) __Responsibilities under other law__ 
 
-                    Notwithstanding subparagraph (B), if any public entity other than a designated State unit is obligated under Federal or State law, or assigned responsibility under State policy or under this paragraph, to provide or pay for any services that are also considered to be vocational rehabilitation services (other than those specified in paragraph (5)(D) and in paragraphs (1) through (4) and (14) of [section 723(a) of this title][/us/usc/t29/s723/a]), such public entity shall fulfill that obligation or responsibility, either directly or by contract or other arrangement.
+                    Notwithstanding subparagraph (B), if any public entity other than a designated State unit is obligated under Federal or State law, or assigned responsibility under State policy or under this paragraph, to provide or pay for any services that are also considered to be vocational rehabilitation services (other than those specified in paragraph (5)(E) and in paragraphs (1) through (4) and (14) of [section 723(a) of this title][/us/usc/t29/s723/a]), such public entity shall fulfill that obligation or responsibility, either directly or by contract or other arrangement.
 
                 (ii) __Reimbursement__ 
 
@@ -231,29 +253,29 @@
 
             (B) __Annual reporting__ 
 
-                In specifying the information to be submitted in the reports, the Commissioner shall require annual reporting on the eligible individuals receiving the services, on those specific data elements described in section 136(d)(2) of the Workforce Investment Act of 1998 \[[29 U.S.C. 2871(d)(2)][/us/usc/t29/s2871/d/2]\] that are determined by the Secretary to be relevant in assessing the performance of designated State units in carrying out the vocational rehabilitation program established under this subchapter.
+                In specifying the information to be submitted in the reports, the Commissioner shall require annual reporting of information, on eligible individuals receiving the services, that is necessary to assess the State’s performance on the standards and indicators described in [section 726(a) of this title][/us/usc/t29/s726/a] that are determined by the Secretary to be relevant in assessing the performance of designated State units in carrying out the vocational rehabilitation program established under this subchapter.
 
             (C) __Additional data__ 
 
-            In specifying the information required to be submitted in the reports, the Commissioner shall require additional data with regard to applicants and eligible individuals related to—
+            In specifying the information required to be submitted in the reports, the Commissioner shall require additional data, from each State, with regard to applicants and eligible individuals related to—
 
-                (i)
-
-                 the number of applicants and the number of individuals determined to be eligible or ineligible for the program carried out under this subchapter, including—
-
-                    (I) the number of individuals determined to be ineligible because they did not require vocational rehabilitation services, as provided in [section 722(a) of this title][/us/usc/t29/s722/a]; and
-
-                    (II) the number of individuals determined, on the basis of clear and convincing evidence, to be too severely disabled to benefit in terms of an employment outcome from vocational rehabilitation services;
+                (i) the number of applicants and the number of individuals determined to be eligible or ineligible for the program carried out under this subchapter, including the number of individuals determined to be ineligible (disaggregated by type of disability and age);
 
                 (ii)
 
                  the number of individuals who received vocational rehabilitation services through the program, including—
 
-                    (I) the number who received services under paragraph (5)(D), but not assistance under an individualized plan for employment;
+                    (I) the number who received services under paragraph (5)(E), but not assistance under an individualized plan for employment;
 
-                    (II) of those recipients who are individuals with significant disabilities, the number who received assistance under an individualized plan for employment consistent with [section 722(b) of this title][/us/usc/t29/s722/b]; and
+                    (II) of those recipients who are individuals with significant disabilities, the number who received assistance under an individualized plan for employment consistent with [section 722(b) of this title][/us/usc/t29/s722/b];
 
                     (III) of those recipients who are not individuals with significant disabilities, the number who received assistance under an individualized plan for employment consistent with [section 722(b) of this title][/us/usc/t29/s722/b];
+
+                    (IV) the number of individuals with open cases (disaggregated by those who are receiving training and those who are in postsecondary education), and the type of services the individuals are receiving (including supported employment);
+
+                    (V) the number of students with disabilities who are receiving pre-employment transition services under this subchapter: and
+
+                    (VI) the number of individuals referred to State vocational rehabilitation programs by one-stop operators (as defined in section 3 of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3102][/us/usc/t29/s3102]\]), and the number of individuals referred to such one-stop operators by State vocational rehabilitation programs;
 
                 (iii)
 
@@ -273,7 +295,7 @@
 
                  of those applicants and eligible recipients who are not individuals with significant disabilities—
 
-                    (I) the number who ended their participation in the program carried out under this subchapter and the number who achieved employment outcomes after receiving vocational rehabilitation services; and
+                    (I) the number who ended their participation in the program carried out under this subchapter and the number who achieved employment outcomes after receiving vocational rehabilitation services and, for those who achieved employment outcomes, the average length of time to obtain employment; and
 
                     (II)
 
@@ -287,7 +309,7 @@
 
             The Commissioner shall also require that the designated State agency include in the reports information on—
 
-                (i) the costs under this subchapter of conducting administration, providing assessment services, counseling and guidance, and other direct services provided by designated State agency staff, providing services purchased under individualized plans for employment, supporting small business enterprises, establishing, developing, and improving community rehabilitation programs, providing other services to groups, and facilitating use of other programs under this chapter and title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\] by eligible individuals; and
+                (i) the costs under this subchapter of conducting administration, providing assessment services, counseling and guidance, and other direct services provided by designated State agency staff, providing services purchased under individualized plans for employment, supporting small business enterprises, establishing, developing, and improving community rehabilitation programs, providing other services to groups, and facilitating use of other programs under this chapter and title I of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3111][/us/usc/t29/s3111] et seq.\] by eligible individuals; and
 
                 (ii) the results of annual evaluation by the State of program effectiveness under paragraph (15)(E).
 
@@ -313,23 +335,25 @@
 
                     (VII) the reasons for individuals terminating participation in the program without achieving an employment outcome; and
 
-                (ii)
-
-                 information necessary to determine the success of the State in meeting—
-
-                    (I) the State performance measures established under section 136(b) of the Workforce Investment Act of 1998 \[[29 U.S.C. 2871(b)][/us/usc/t29/s2871/b]\], to the extent the measures are applicable to individuals with disabilities; and
-
-                    (II) the standards and indicators established pursuant to [section 726 of this title][/us/usc/t29/s726].
+                (ii) information necessary to determine the success of the State in meeting the standards and indicators established pursuant to [section 726 of this title][/us/usc/t29/s726].
 
             (F) __Completeness and confidentiality__ 
 
                 The State plan shall include an assurance that the information submitted in the reports will include a complete count, except as provided in subparagraph (E), of the applicants and eligible individuals, in a manner permitting the greatest possible cross-classification of data and that the identity of each individual for which information is supplied under this paragraph will be kept confidential.
 
+            (G) __Rules for reporting of data__ 
+
+                The disaggregation of data under this chapter shall not be required within a category if the number of individuals in a category is insufficient to yield statistically reliable information, or if the results would reveal personally identifiable information about an individual.
+
+            (H) __Comprehensive report__ 
+
+                The State plan shall specify that the Commissioner will provide an annual comprehensive report that includes the reports and data required under this section, as well as a summary of the reports and data, for each fiscal year. The Commissioner shall submit the report to the Committee on Education and the Workforce of the House of Representatives, the Committee on Appropriations of the House of Representatives, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Appropriations of the Senate, not later than 90 days after the end of the fiscal year involved.
+
         (11) __Cooperation, collaboration, and coordination__ 
 
-            (A) __Cooperative agreements with other components of statewide workforce investment systems__ 
+            (A) __Cooperative agreements with other components of statewide workforce development systems__ 
 
-            The State plan shall provide that the designated State unit or designated State agency shall enter into a cooperative agreement with other entities that are components of the statewide workforce investment system of the State, regarding the system, which agreement may provide for—
+            The State plan shall provide that the designated State unit or designated State agency shall enter into a cooperative agreement with other entities that are components of the statewide workforce development system of the State, regarding the system, which agreement may provide for—
 
                 (i)
 
@@ -337,9 +361,9 @@
 
                     (I) the availability and benefits of, and information on eligibility standards for, vocational rehabilitation services; and
 
-                    (II) the promotion of equal, effective, and meaningful participation by individuals with disabilities in workforce investment activities in the State through the promotion of program accessibility, the use of nondiscriminatory policies and procedures, and the provision of reasonable accommodations, auxiliary aids and services, and rehabilitation technology, for individuals with disabilities;
+                    (II) the promotion of equal, effective, and meaningful participation by individuals with disabilities in workforce development activities in the State through the promotion of program accessibility (including programmatic accessibility and physical accessibility), the use of nondiscriminatory policies and procedures, and the provision of reasonable accommodations, auxiliary aids and services, and rehabilitation technology, for individuals with disabilities;
 
-                (ii) use of information and financial management systems that link all components of the statewide workforce investment system, that link the components to other electronic networks, including nonvisual electronic networks, and that relate to such subjects as employment statistics, and information on job vacancies, career planning, and workforce investment activities;
+                (ii) use of information and financial management systems that link all components of the statewide workforce development system, that link the components to other electronic networks, including nonvisual electronic networks, and that relate to such subjects as employment statistics, and information on job vacancies, career planning, and workforce investment activities;
 
                 (iii) use of customer service features such as common intake and referral procedures, customer databases, resource information, and human services hotlines;
 
@@ -351,43 +375,69 @@
 
                     (II) carry out any other activities that the designated State unit and the employers determine to be appropriate;
 
-                (v) identification of staff roles, responsibilities, and available resources, and specification of the financial responsibility of each component of the statewide workforce investment system with regard to paying for necessary services (consistent with State law and Federal requirements); and
+                (v) identification of staff roles, responsibilities, and available resources, and specification of the financial responsibility of each component of the statewide workforce development system with regard to paying for necessary services (consistent with State law and Federal requirements); and
 
                 (vi) specification of procedures for resolving disputes among such components.
 
             (B) __Replication of cooperative agreements__ 
 
-                The State plan shall provide for the replication of such cooperative agreements at the local level between individual offices of the designated State unit and local entities carrying out activities through the statewide workforce investment system.
+                The State plan shall provide for the replication of such cooperative agreements at the local level between individual offices of the designated State unit and local entities carrying out activities through the statewide workforce development system.
 
             (C) __Interagency cooperation with other agencies__ 
 
-                The State plan shall include descriptions of interagency cooperation with, and utilization of the services and facilities of, Federal, State, and local agencies and programs, including programs carried out by the Under Secretary for Rural Development of the Department of Agriculture and State use contracting programs, to the extent that such agencies and programs are not carrying out activities through the statewide workforce investment system.
+                The State plan shall include descriptions of interagency cooperation with, and utilization of the services and facilities of, Federal, State, and local agencies and programs, including the State programs carried out under [section 3003 of this title][/us/usc/t29/s3003], programs carried out by the Under Secretary for Rural Development of the Department of Agriculture, noneducational agencies serving out-of-school youth, and State use contracting programs, to the extent that such Federal, State, and local agencies and programs are not carrying out activities through the statewide workforce development system.
 
             (D) __Coordination with education officials__ 
 
-            The State plan shall contain plans, policies, and procedures for coordination between the designated State agency and education officials responsible for the public education of students with disabilities, that are designed to facilitate the transition of the students with disabilities from the receipt of educational services in school to the receipt of vocational rehabilitation services under this subchapter, including information on a formal interagency agreement with the State educational agency that, at a minimum, provides for—
+            The State plan shall contain plans, policies, and procedures for coordination between the designated State agency and education officials responsible for the public education of students with disabilities, that are designed to facilitate the transition of the students with disabilities from the receipt of educational services in school to the receipt of vocational rehabilitation services, including pre-employment transition services, under this subchapter, including information on a formal interagency agreement with the State educational agency that, at a minimum, provides for—
 
-                (i) consultation and technical assistance to assist educational agencies in planning for the transition of students with disabilities from school to post-school activities, including vocational rehabilitation services;
+                (i) consultation and technical assistance, which may be provided using alternative means for meeting participation (such as video conferences and conference calls), to assist educational agencies in planning for the transition of students with disabilities from school to post-school activities, including vocational rehabilitation services;
 
-                (ii) transition planning by personnel of the designated State agency and educational agency personnel for students with disabilities that facilitates the development and completion of their individualized education programs under section 614(d) of the Individuals with Disabilities Education Act \[[20 U.S.C. 1414(d)][/us/usc/t20/s1414/d]\];
+                (ii) transition planning by personnel of the designated State agency and educational agency personnel for students with disabilities that facilitates the development and implementation of their individualized education programs under section 614(d) of the Individuals with Disabilities Education Act \[[20 U.S.C. 1414(d)][/us/usc/t20/s1414/d]\];
 
                 (iii) the roles and responsibilities, including financial responsibilities, of each agency, including provisions for determining State lead agencies and qualified personnel responsible for transition services; and
 
                 (iv) procedures for outreach to and identification of students with disabilities who need the transition services.
 
-            (E) __Coordination with Statewide Independent Living Councils and independent living centers__ 
+            (E) __Coordination with employers__ 
 
-                The State plan shall include an assurance that the designated State unit, the Statewide Independent Living Council established under [section 796d of this title][/us/usc/t29/s796d], and the independent living centers described in subpart 3  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of part A of subchapter VII of this chapter within the State have developed working relationships and coordinate their activities.
+            The State plan shall describe how the designated State unit will work with employers to identify competitive integrated employment opportunities and career exploration opportunities, in order to facilitate the provision of—
 
-            (F) __Cooperative agreement with recipients of grants for services to American Indians__ 
+                (i) vocational rehabilitation services; and
+
+                (ii) transition services for youth with disabilities and students with disabilities, such as pre-employment transition services.
+
+            (F) __Coordination with Statewide Independent Living Councils and independent living centers__ 
+
+                The State plan shall include an assurance that the designated State unit, the Statewide Independent Living Council established under [section 796d of this title][/us/usc/t29/s796d], and the independent living centers described in subpart 3 of part A of subchapter VII of this chapter within the State have developed working relationships and coordinate their activities, as appropriate.
+
+            (G) __Cooperative agreement regarding individuals eligible for home and community-based waiver programs__ 
+
+                The State plan shall include an assurance that the designated State unit has entered into a formal cooperative agreement with the State agency responsible for administering the State Medicaid plan under title XIX of the Social Security Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.) and the State agency with primary responsibility for providing services and supports for individuals with intellectual disabilities and individuals with developmental disabilities, with respect to the delivery of vocational rehabilitation services, including extended services, for individuals with the most significant disabilities who have been determined to be eligible for home and community-based services under a Medicaid waiver, Medicaid State plan amendment, or other authority related to a State Medicaid program.
+
+            (H) __Cooperative agreement with recipients of grants for services to American Indians__ 
 
             In applicable cases, the State plan shall include an assurance that the State has entered into a formal cooperative agreement with each grant recipient in the State that receives funds under part C of this subchapter. The agreement shall describe strategies for collaboration and coordination in providing vocational rehabilitation services to American Indians who are individuals with disabilities, including—
 
                 (i) strategies for interagency referral and information sharing that will assist in eligibility determinations and the development of individualized plans for employment;
 
-                (ii) procedures for ensuring that American Indians who are individuals with disabilities and are living near a reservation or tribal service area are provided vocational rehabilitation services; and
+                (ii) procedures for ensuring that American Indians who are individuals with disabilities and are living on or near a reservation or tribal service area are provided vocational rehabilitation services;
 
-                (iii) provisions for sharing resources in cooperative studies and assessments, joint training activities, and other collaborative activities designed to improve the provision of services to American Indians who are individuals with disabilities.
+                (iii) strategies for the provision of transition planning, by personnel of the designated State unit, the State educational agency, and the recipient of funds under part C, that will facilitate the development and approval of the individualized plans for employment under [section 722 of this title][/us/usc/t29/s722]; and
+
+                (iv) provisions for sharing resources in cooperative studies and assessments, joint training activities, and other collaborative activities designed to improve the provision of services to American Indians who are individuals with disabilities.
+
+            (I) __Coordination with assistive technology programs__ 
+
+                The State plan shall include an assurance that the designated State unit, and the lead agency and implementing entity (if any) designated by the Governor of the State under [section 3003 of this title][/us/usc/t29/s3003], have developed working relationships and will enter into agreements for the coordination of their activities, including the referral of individuals with disabilities to programs and activities described in that section.
+
+            (J) __Coordination with ticket to work and self-sufficiency program__ 
+
+                The State plan shall include an assurance that the designated State unit will coordinate activities with any other State agency that is functioning as an employment network under the Ticket to Work and Self-Sufficiency Program established under section 1148 of the Social Security Act ([42 U.S.C. 1320b–19][/us/usc/t42/s1320b–19]).
+
+            (K) __Interagency cooperation__ 
+
+                The State plan shall describe how the designated State agency or agencies (if more than 1 agency is designated under paragraph (2)(A)) will collaborate with the State agency responsible for administering the State Medicaid plan under title XIX of the Social Security Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.), the State agency responsible for providing services for individuals with developmental disabilities, and the State agency responsible for providing mental health services, to develop opportunities for community-based employment in integrated settings, to the greatest extent practicable.
 
         (12) __Residency__ 
 
@@ -397,15 +447,17 @@
 
             The State plan shall include an assurance that, except as otherwise provided in part C of this subchapter, the designated State agency will provide vocational rehabilitation services to American Indians who are individuals with disabilities residing in the State to the same extent as the designated State agency provides such services to other significant populations of individuals with disabilities residing in the State.
 
-        (14) __Annual review of individuals in extended employment or other employment under special certificate provisions of the Fair Labor Standards Act of 1938__ 
+        (14) __Semiannual review of individuals in extended employment or other employment under special certificate provisions of the Fair Labor Standards Act of 1938__ 
 
         The State plan shall provide for—
 
-            (A) an annual review and reevaluation of the status of each individual with a disability served under this subchapter who has achieved an employment outcome either in an extended employment setting in a community rehabilitation program or any other employment under section 14(c) of the Fair Labor Standards Act ([29 U.S.C. 214(c)][/us/usc/t29/s214/c]) for 2 years after the achievement of the outcome (and thereafter if requested by the individual or, if appropriate, the individual’s representative), to determine the interests, priorities, and needs of the individual with respect to competitive employment or training for competitive employment;
+            (A) a semiannual review and reevaluation of the status of each individual with a disability served under this subchapter who is employed either in an extended employment setting in a community rehabilitation program or any other employment under section 14(c) of the Fair Labor Standards Act ([29 U.S.C. 214(c)][/us/usc/t29/s214/c]) for 2 years after the beginning of such employment, and annually thereafter, to determine the interests, priorities, and needs of the individual with respect to competitive integrated employment or training for competitive integrated employment;
 
-            (B) input into the review and reevaluation, and a signed acknowledgment that such review and reevaluation have been conducted, by the individual with a disability, or, if appropriate, the individual’s representative; and
+            (B) input into the review and reevaluation, and a signed acknowledgment that such review and reevaluation have been conducted, by the individual with a disability, or, if appropriate, the individual’s representative;
 
-            (C) maximum efforts, including the identification and provision of vocational rehabilitation services, reasonable accommodations, and other necessary support services, to assist the individuals described in subparagraph (A) in engaging in competitive employment.
+            (C) maximum efforts, including the identification and provision of vocational rehabilitation services, reasonable accommodations, and other necessary support services, to assist individuals described in subparagraph (A) in attaining competitive integrated employment; and
+
+            (D) an assurance that the State will report the information generated under subparagraphs (A), (B), and (C), for each of the individuals, to the Administrator of the Wage and Hour Division of the Department of Labor for each fiscal year, not later than 60 days after the end of the fiscal year.
 
         (15) __Annual State goals and reports of progress__ 
 
@@ -419,13 +471,17 @@
 
                     (I) individuals with the most significant disabilities, including their need for supported employment services;
 
-                    (II) individuals with disabilities who are minorities and individuals with disabilities who have been unserved or underserved by the vocational rehabilitation program carried out under this subchapter; and
+                    (II) individuals with disabilities who are minorities and individuals with disabilities who have been unserved or underserved by the vocational rehabilitation program carried out under this subchapter;
 
-                    (III) individuals with disabilities served through other components of the statewide workforce investment system (other than the vocational rehabilitation program), as identified by such individuals and personnel assisting such individuals through the components;
+                    (III) individuals with disabilities served through other components of the statewide workforce development system (other than the vocational rehabilitation program), as identified by such individuals and personnel assisting such individuals through the components; and
 
-                (ii) include an assessment of the need to establish, develop, or improve community rehabilitation programs within the State; and
+                    (IV) youth with disabilities, and students with disabilities, including their need for pre-employment transition services or other transition services;
 
-                (iii) provide that the State shall submit to the Commissioner a report containing information regarding updates to the assessments, for any year in which the State updates the assessments.
+                (ii) include an assessment of the needs of individuals with disabilities for transition services and pre-employment transition services, and the extent to which such services provided under this chapter are coordinated with transition services provided under the Individuals with Disabilities Education Act ([20 U.S.C. 1400][/us/usc/t20/s1400] et seq.) in order to meet the needs of individuals with disabilities.
+
+                (iii) include an assessment of the need to establish, develop, or improve community rehabilitation programs within the State; and
+
+                (iv) provide that the State shall submit to the Commissioner a report containing information regarding updates to the assessments, for any year in which the State updates the assessments.
 
             (B) __Annual estimates__ 
 
@@ -433,9 +489,11 @@
 
                 (i) the number of individuals in the State who are eligible for services under this subchapter;
 
-                (ii) the number of such individuals who will receive services provided with funds provided under part B of this subchapter and under part B of subchapter VI of this chapter, including, if the designated State agency uses an order of selection in accordance with paragraph (5), estimates of the number of individuals to be served under each priority category within the order; and
+                (ii) the number of such individuals who will receive services provided with funds provided under part B of this subchapter and under subchapter VI of this chapter, including, if the designated State agency uses an order of selection in accordance with paragraph (5), estimates of the number of individuals to be served under each priority category within the order;
 
-                (iii) the costs of the services described in clause (i), including, if the designated State agency uses an order of selection in accordance with paragraph (5), the service costs for each priority category within the order.
+                (iii) the number of individuals who are eligible for services under this subchapter, but are not receiving such services due to an order of selection; and
+
+                (iv) the costs of the services described in clause (i), including, if the designated State agency uses an order of selection in accordance with paragraph (5), the service costs for each priority category within the order.
 
             (C) __Goals and priorities__ 
 
@@ -465,11 +523,13 @@
 
                 (ii) outreach procedures to identify and serve individuals with disabilities who are minorities and individuals with disabilities who have been unserved or underserved by the vocational rehabilitation program;
 
-                (iii) where necessary, the plan of the State for establishing, developing, or improving community rehabilitation programs;
+                (iii) the methods to be used to improve and expand vocational rehabilitation services for students with disabilities, including the coordination of services designed to facilitate the transition of such students from the receipt of educational services in school to postsecondary life (including the receipt of vocational rehabilitation services under this subchapter, postsecondary education, employment, and pre-employment transition services);
 
-                (iv) strategies to improve the performance of the State with respect to the evaluation standards and performance indicators established pursuant to [section 726 of this title][/us/usc/t29/s726]; and
+                (iv) where necessary, the plan of the State for establishing, developing, or improving community rehabilitation programs;
 
-                (v) strategies for assisting entities carrying out other components of the statewide workforce investment system (other than the vocational rehabilitation program) in assisting individuals with disabilities.
+                (v) strategies to improve the performance of the State with respect to the evaluation standards and performance indicators established pursuant to [section 726 of this title][/us/usc/t29/s726]; and
+
+                (vi) strategies for assisting entities carrying out other components of the statewide workforce development system (other than the vocational rehabilitation program) in assisting individuals with disabilities.
 
             (E) __Evaluation and reports of progress__ 
 
@@ -515,7 +575,7 @@
 
             (A) the Federal share of the cost of construction for the facilities for a fiscal year will not exceed an amount equal to 10 percent of the State’s allotment under [section 730 of this title][/us/usc/t29/s730] for such year;
 
-            (B) the provisions of [section 776 of this title][/us/usc/t29/s776] (as in effect on the day before August 7, 1998) shall be applicable to such construction and such provisions shall be deemed to apply to such construction; and
+            (B) the provisions of section 776  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title (as in effect on the day before August 7, 1998) shall be applicable to such construction and such provisions shall be deemed to apply to such construction; and
 
             (C) there shall be compliance with regulations the Commissioner shall prescribe designed to assure that no State will reduce its efforts in providing other vocational rehabilitation services (other than for the establishment of facilities for community rehabilitation programs) because the plan includes such provisions for construction.
 
@@ -549,13 +609,13 @@
 
             (A) __In general__ 
 
-                The State plan shall include an assurance that the designated State agency will implement an information and referral system adequate to ensure that individuals with disabilities will be provided accurate vocational rehabilitation information and guidance, using appropriate modes of communication, to assist such individuals in preparing for, securing, retaining, or regaining employment, and will be appropriately referred to Federal and State programs (other than the vocational rehabilitation program carried out under this subchapter), including other components of the statewide workforce investment system in the State.
+                The State plan shall include an assurance that the designated State agency will implement an information and referral system adequate to ensure that individuals with disabilities will be provided accurate vocational rehabilitation information and guidance, using appropriate modes of communication, to assist such individuals in preparing for, securing, retaining, or regaining employment, and will be appropriately referred to Federal and State programs (other than the vocational rehabilitation program carried out under this subchapter), including other components of the statewide workforce development system in the State.
 
             (B) __Referrals__ 
 
             An appropriate referral made through the system shall—
 
-                (i) be to the Federal or State programs, including programs carried out by other components of the statewide workforce investment system in the State, best suited to address the specific employment needs of an individual with a disability; and
+                (i) be to the Federal or State programs, including programs carried out by other components of the statewide workforce development system in the State, best suited to address the specific employment needs of an individual with a disability; and
 
                 (ii)
 
@@ -617,7 +677,7 @@
 
         (22) __Supported employment State plan supplement__ 
 
-            The State plan shall include an assurance that the State has an acceptable plan for carrying out part B of subchapter VI of this chapter, including the use of funds under that part to supplement funds made available under part B of this subchapter to pay for the cost of services leading to supported employment.
+            The State plan shall include an assurance that the State has an acceptable plan for carrying out subchapter VI of this chapter, including the use of funds under that part to supplement funds made available under part B of this subchapter to pay for the cost of services leading to supported employment.
 
         (23) __Annual updates__ 
 
@@ -633,31 +693,53 @@
 
                 The State plan shall describe the manner in which cooperative agreements with private nonprofit vocational rehabilitation service providers will be established.
 
-    (b) __Approval; disapproval of the State plan__ 
+        (25) __Services for students with disabilities__ 
 
-        (1) __Approval__ 
+        The State plan shall provide an assurance that, with respect to students with disabilities, the State—
 
-            The Commissioner shall approve any plan that the Commissioner finds fulfills the conditions specified in this section, and shall disapprove any plan that does not fulfill such conditions.
+            (A)
 
-        (2) __Disapproval__ 
+             has developed and will implement—
 
-            Prior to disapproval of the State plan, the Commissioner shall notify the State of the intention to disapprove the plan and shall afford the State reasonable notice and opportunity for a hearing.
+                (i) strategies to address the needs identified in the assessments described in paragraph (15); and
 
-([Pub. L. 93–112, title I, § 101][/us/pl/93/112/s101], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1119][/us/stat/112/1119]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(c)(4)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–415; [Pub. L. 108–446, title III, § 305(h)(1)][/us/pl/108/446/s305/h/1], Dec. 3, 2004, [118 Stat. 2805][/us/stat/118/2805].)
+                (ii) strategies to achieve the goals and priorities identified by the State, in accordance with paragraph (15), to improve and expand vocational rehabilitation services for students with disabilities on a statewide basis; and
+
+            (B) has developed and will implement strategies to provide pre-employment transition services.
+
+        (26) __Job growth and development__ 
+
+            The State plan shall provide an assurance describing how the State will utilize initiatives involving in-demand industry sectors or occupations under sections 106(c) and 108 of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3121(c)][/us/usc/t29/s3121/c], 3123\] to increase competitive integrated employment opportunities for individuals with disabilities.
+
+    (b) __Submission; approval; modification__ 
+
+    The State plan for vocational rehabilitation services shall be subject to—
+
+        (1) subsection (c) of section 102 of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3112][/us/usc/t29/s3112]\], in a case in which that plan is a portion of the unified State plan described in that section 102; and
+
+        (2) subsection (b), and paragraphs (1), (2), and (3) of subsection (c), of section 103 of such Act \[[29 U.S.C. 3113][/us/usc/t29/s3113]\] in a case in which that State plan for vocational rehabilitation services is a portion of the combined State plan described in that section 103.
+
+    (c) __Construction__ 
+
+        Nothing in this part shall be construed to reduce the obligation under the Individuals with Disabilities Education Act ([20 U.S.C. 1400][/us/usc/t20/s1400] et seq.) of a local educational agency or any other agency to provide or pay for any transition services that are also considered special education or related services and that are necessary for ensuring a free appropriate public education to children with disabilities within the State involved.
+
+([Pub. L. 93–112, title I, § 101][/us/pl/93/112/s101], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1119][/us/stat/112/1119]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(c)(4)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–415; [Pub. L. 108–446, title III, § 305(h)(1)][/us/pl/108/446/s305/h/1], Dec. 3, 2004, [118 Stat. 2805][/us/stat/118/2805]; [Pub. L. 113–128, title IV, § 412][/us/pl/113/128/s412], July 22, 2014, [128 Stat. 1641][/us/stat/128/1641].)
 
  __References in Text__ 
+
+    For the effective date of the Workforce Innovation and Opportunity Act, referred to in subsec. (a)(1)(B), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as a note under [section 3101 of this title][/us/usc/t29/s3101].
 
     The Architectural Barriers Act of 1968, referred to in subsec. (a)(6)(C), is [Pub. L. 90–480][/us/pl/90/480], Aug. 12, 1968, [82 Stat. 718][/us/stat/82/718], as amended, which is classified generally to chapter 51 (§ 4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4151 of Title 42][/us/usc/t42/s4151] and Tables.
 
     The Americans with Disabilities Act of 1990, referred to in subsec. (a)(6)(C), is [Pub. L. 101–336][/us/pl/101/336], July 26, 1990, [104 Stat. 327][/us/stat/104/327], as amended, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42][/us/usc/t42/s12101] and Tables.
 
-    The Individuals with Disabilities Education Act, referred to in subsec. (a)(7)(A)(ii), is title VI of [Pub. L. 91–230][/us/pl/91/230], Apr. 13, 1970, [84 Stat. 175][/us/stat/84/175], as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20][/us/usc/t20/s1400] and Tables.
+    The Individuals with Disabilities Education Act, referred to in subsecs. (a)(7)(A)(ii), (15)(A)(ii) and (c), is title VI of [Pub. L. 91–230][/us/pl/91/230], Apr. 13, 1970, [84 Stat. 175][/us/stat/84/175], as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20][/us/usc/t20/s1400] and Tables.
 
-    The Rehabilitation Act Amendments of 1998, referred to in subsec. (a)(7)(A)(v)(II), is title IV of [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 1092][/us/stat/112/1092]. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under [section 701 of this title][/us/usc/t29/s701] and Tables.
+    The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(7)(A)(v)(II), (10)(D)(i), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425], which enacted chapter 32 (§ 3101 et seq.) of this title, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t29/s3101] and Tables.
 
-    The Workforce Investment Act of 1998, referred to in subsec. (a)(10)(D)(i), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
+    The Social Security Act, referred to in subsec. (a)(11)(G), (K), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
-    Subpart 3 of part A of subchapter VII of this chapter, referred to in subsec. (a)(11)(E), was in the original a reference to “part C of title VII”, meaning part C of title VII of the Rehabilitation Act of 1973, and was translated as if it referred to part C of chapter I of title VII of the Act to reflect the probable intent of Congress.
+    [Section 776 of this title][/us/usc/t29/s776], referred to in subsec. (a)(17)(B), was in the original a reference to section 306 which was renumbered [section 304 of Pub. L. 93–112][/us/pl/93/112/s304] by [Pub. L. 113–128, title IV, § 443(2)][/us/pl/113/128/s443/2], July 22, 2014, [128 Stat. 1674][/us/stat/128/1674].
 
  __Prior Provisions__ 
 
@@ -665,11 +747,125 @@
 
  __Amendments__ 
 
+    2014—Subsec. (a)(1)(A). [Pub. L. 113–128, § 412(a)(1)(A)][/us/pl/113/128/s412/a/1/A], substituted “to receive funds under this subchapter for a fiscal year, a State shall submit, and have approved by the Secretary and the Secretary of Labor, a unified State plan in accordance with section 102, or a combined State plan in accordance with section 103, of the Workforce Innovation and Opportunity Act. The unified or combined State plan shall include, in the portion of the plan described in section 102(b)(2)(D) of such Act (referred to in this subsection as the ‘vocational rehabilitation services portion’), the provisions of a State plan for vocational rehabilitation services, described in this subsection.” for “to participate in programs under this subchapter, a State shall submit to the Commissioner a State plan for vocational rehabilitation services that meets the requirements of this section, on the same date that the State submits a State plan under section 112 of the Workforce Investment Act of 1998.”
+
+    Subsec. (a)(1)(B). [Pub. L. 113–128, § 412(a)(1)(B)][/us/pl/113/128/s412/a/1/B], substituted “as part of the vocational rehabilitation services portion of the unified or combined State plan submitted in accordance with subparagraph (A),” for “in the State plan for vocational rehabilitation services,” and “the effective date of the Workforce Innovation and Opportunity Act” for “the effective date of the Rehabilitation Act Amendments of 1998”, which had been translated as “August 7, 1998”.
+
+    Subsec. (a)(1)(C). [Pub. L. 113–128, § 412(a)(1)(C)][/us/pl/113/128/s412/a/1/C], substituted “The vocational rehabilitation services portion of the unified or combined State plan submitted in accordance with subparagraph (A) shall remain in effect until the State submits and receives approval of a new State plan in accordance with subparagraph (A), or until the submission of such modifications” for “The State plan shall remain in effect subject to the submission of such modifications” and struck out “, until the State submits and receives approval of a new State plan” before period at end.
+
+    Subsec. (a)(2)(A). [Pub. L. 113–128, § 412(a)(2)(A)][/us/pl/113/128/s412/a/2/A], substituted “The State plan for vocational rehabilitation services” for “The State plan” in introductory provisions.
+
+    Subsec. (a)(2)(B)(ii)(II). [Pub. L. 113–128, § 412(a)(2)(B)(i)][/us/pl/113/128/s412/a/2/B/i], inserted “who is responsible for the day-to-day operation of the vocational rehabilitation program” before semicolon at end.
+
+    Subsec. (a)(2)(B)(ii)(V). [Pub. L. 113–128, § 412(a)(2)(B)(ii)][/us/pl/113/128/s412/a/2/B/ii]–(iv), added subcl. (V).
+
+    Subsec. (a)(5)(D), (E). [Pub. L. 113–128, § 412(a)(3)][/us/pl/113/128/s412/a/3], added subpar. (D) and redesignated former subpar. (D) as (E).
+
+    Subsec. (a)(7)(A)(v)(I). [Pub. L. 113–128, § 412(a)(4)(A)(i)][/us/pl/113/128/s412/a/4/A/i], inserted “, including training implemented in coordination with entities carrying out State programs under [section 3003 of this title][/us/usc/t29/s3003]” after “rehabilitation technology”.
+
+    Subsec. (a)(7)(A)(v)(II). [Pub. L. 113–128, § 412(a)(4)(A)(ii)][/us/pl/113/128/s412/a/4/A/ii], substituted “Workforce Innovation and Opportunity Act” for “Rehabilitation Act Amendments of 1998”.
+
+    Subsec. (a)(7)(B)(ii). [Pub. L. 113–128, § 412(a)(4)(B)][/us/pl/113/128/s412/a/4/B], added cl. (ii) and struck out former cl. (ii) which read as follows: “to the extent that such standards are not based on the highest requirements in the State applicable to a specific profession or discipline, the steps the State is taking to require the retraining or hiring of personnel within the designated State unit that meet appropriate professional requirements in the State; and”.
+
+    Subsec. (a)(8)(A)(i). [Pub. L. 113–128, § 412(a)(5)(A)][/us/pl/113/128/s412/a/5/A], inserted “an accommodation or auxiliary aid or service or” after “prior to providing” and substituted “(5)(E)” for “(5)(D)” in introductory provisions.
+
+    Subsec. (a)(8)(B). [Pub. L. 113–128, § 412(a)(5)(B)(i)][/us/pl/113/128/s412/a/5/B/i], in introductory provisions, substituted “Medicaid” for “medicaid”, “workforce development system” for “workforce investment system”, and “(5)(E)” for “(5)(D)”, inserted “and, if appropriate, accommodations or auxiliary aids and services,” before “that are included”, and substituted “provision of such vocational rehabilitation services (including, if appropriate, accommodations or auxiliary aids and services)” for “provision of such vocational rehabilitation services”.
+
+    Subsec. (a)(8)(B)(iv). [Pub. L. 113–128, § 412(a)(5)(B)(ii)][/us/pl/113/128/s412/a/5/B/ii], substituted “(5)(E)” for “(5)(D)” and inserted “, and accommodations or auxiliary aids and services” before period at end.
+
+    Subsec. (a)(8)(C)(i). [Pub. L. 113–128, § 412(a)(5)(C)][/us/pl/113/128/s412/a/5/C], substituted “(5)(E)” for “(5)(D)”.
+
+    Subsec. (a)(10)(B). [Pub. L. 113–128, § 412(a)(6)(A)][/us/pl/113/128/s412/a/6/A], substituted “annual reporting of information, on eligible individuals receiving the services, that is necessary to assess the State’s performance on the standards and indicators described in [section 726(a) of this title][/us/usc/t29/s726/a]” for “annual reporting on the eligible individuals receiving the services, on those specific data elements described in section 136(d)(2) of the Workforce Investment Act of 1998”.
+
+    Subsec. (a)(10)(C). [Pub. L. 113–128, § 412(a)(6)(B)(i)][/us/pl/113/128/s412/a/6/B/i], inserted “, from each State,” after “additional data” in introductory provisions.
+
+    Subsec. (a)(10)(C)(i). [Pub. L. 113–128, § 412(a)(6)(B)(ii)][/us/pl/113/128/s412/a/6/B/ii], added cl. (i) and struck out former cl. (i) which read as follows: “the number of applicants and the number of individuals determined to be eligible or ineligible for the program carried out under this subchapter, including—
+
+    “(I) the number of individuals determined to be ineligible because they did not require vocational rehabilitation services, as provided in [section 722(a) of this title][/us/usc/t29/s722/a]; and
+
+    “(II) the number of individuals determined, on the basis of clear and convincing evidence, to be too severely disabled to benefit in terms of an employment outcome from vocational rehabilitation services;”.
+
+    Subsec. (a)(10)(C)(ii)(I). [Pub. L. 113–128, § 412(a)(6)(B)(iii)(I)][/us/pl/113/128/s412/a/6/B/iii/I], substituted “(5)(E)” for “(5)(D)”.
+
+    Subsec. (a)(10)(C)(ii)(IV) to (VI). [Pub. L. 113–128, § 412(a)(6)(B)(iii)(II)][/us/pl/113/128/s412/a/6/B/iii/II], (III), added subcls. (IV) to (VI).
+
+    Subsec. (a)(10)(C)(iv)(I). [Pub. L. 113–128, § 412(a)(6)(B)(iv)][/us/pl/113/128/s412/a/6/B/iv], inserted “and, for those who achieved employment outcomes, the average length of time to obtain employment” before semicolon.
+
+    Subsec. (a)(10)(D)(i). [Pub. L. 113–128, § 412(a)(6)(C)][/us/pl/113/128/s412/a/6/C], substituted “title I of the Workforce Innovation and Opportunity Act” for “title I of the Workforce Investment Act of 1998”.
+
+    Subsec. (a)(10)(E)(ii). [Pub. L. 113–128, § 412(a)(6)(D)][/us/pl/113/128/s412/a/6/D], substituted “of the State in meeting the standards and indicators established pursuant to [section 726 of this title][/us/usc/t29/s726].” for “of the State in meeting—
+
+    “(I) the State performance measures established under section 136(b) of the Workforce Investment Act of 1998, to the extent the measures are applicable to individuals with disabilities; and
+
+    “(II) the standards and indicators established pursuant to [section 726 of this title][/us/usc/t29/s726].”
+
+    Subsec. (a)(10)(G), (H). [Pub. L. 113–128, § 412(a)(6)(E)][/us/pl/113/128/s412/a/6/E], added subpars. (G) and (H).
+
+    Subsec. (a)(11)(A). [Pub. L. 113–128, § 412(a)(7)(A)(i)][/us/pl/113/128/s412/a/7/A/i], (ii), substituted “workforce development systems” for “workforce investment systems” in heading and “workforce development system” for “workforce investment system” in introductory provisions.
+
+    Subsec. (a)(11)(A)(i)(II). [Pub. L. 113–128, § 412(a)(7)(A)(iii)][/us/pl/113/128/s412/a/7/A/iii], substituted “development” for “investment” and inserted “(including programmatic accessibility and physical accessibility)” after “program accessibility”.
+
+    Subsec. (a)(11)(A)(ii). [Pub. L. 113–128, § 412(a)(7)(A)(iv)][/us/pl/113/128/s412/a/7/A/iv], substituted “workforce development system” for “workforce investment system”.
+
+    Subsec. (a)(11)(A)(v). [Pub. L. 113–128, § 412(a)(7)(A)(v)][/us/pl/113/128/s412/a/7/A/v], substituted “workforce development system” for “workforce investment system”.
+
+    Subsec. (a)(11)(B). [Pub. L. 113–128, § 412(a)(7)(B)][/us/pl/113/128/s412/a/7/B], substituted “workforce development system” for “workforce investment system”.
+
+    Subsec. (a)(11)(C). [Pub. L. 113–128, § 412(a)(7)(C)][/us/pl/113/128/s412/a/7/C], inserted “the State programs carried out under [section 3003 of this title][/us/usc/t29/s3003],” after “including” and “, noneducational agencies serving out-of-school youth,” after “Agriculture” and substituted “such Federal, State, and local agencies and programs” for “such agencies and programs” and “workforce development system” for “workforce investment system”.
+
+    Subsec. (a)(11)(D). [Pub. L. 113–128, § 412(a)(7)(D)][/us/pl/113/128/s412/a/7/D], inserted “, including pre-employment transition services,” after “vocational rehabilitation services” in introductory provisions and “, which may be provided using alternative means for meeting participation (such as video conferences and conference calls),” after “consultation and technical assistance” in cl. (i) and substituted “implementation” for “completion” in cl. (ii).
+
+    Subsec. (a)(11)(E). [Pub. L. 113–128, § 412(a)(7)(F)][/us/pl/113/128/s412/a/7/F], added subpar. (E). Former subpar. (E) redesignated (F).
+
+    Subsec. (a)(11)(F). [Pub. L. 113–128, § 412(a)(7)(G)][/us/pl/113/128/s412/a/7/G], made technical amendment to reference in original act which appears in text as reference to subpart 3 of part A of subchapter VII and inserted “, as appropriate” before period at end.
+
+    [Pub. L. 113–128, § 412(a)(7)(E)][/us/pl/113/128/s412/a/7/E], redesignated subpar. (E) as (F). Former subpar. (F) redesignated (H).
+
+    Subsec. (a)(11)(G). [Pub. L. 113–128, § 412(a)(7)(H)][/us/pl/113/128/s412/a/7/H], added subpar. (G).
+
+    Subsec. (a)(11)(H). [Pub. L. 113–128, § 412(a)(7)(E)][/us/pl/113/128/s412/a/7/E], redesignated subpar. (F) as (H).
+
+    Subsec. (a)(11)(H)(ii) to (iv). [Pub. L. 113–128, § 412(a)(7)(I)][/us/pl/113/128/s412/a/7/I], inserted “on or” before “near” and struck out “and” after semicolon in cl. (ii), added cl. (iii), and redesignated former cl. (iii) as (iv).
+
+    Subsec. (a)(11)(I) to (K). [Pub. L. 113–128, § 412(a)(7)(J)][/us/pl/113/128/s412/a/7/J], added subpars. (I) to (K).
+
+    Subsec. (a)(14). [Pub. L. 113–128, § 412(a)(8)(A)][/us/pl/113/128/s412/a/8/A], substituted “Semiannual” for “Annual” in heading.
+
+    Subsec. (a)(14)(A). [Pub. L. 113–128, § 412(a)(8)(B)][/us/pl/113/128/s412/a/8/B], substituted “a semiannual” for “an annual”, “is employed” for “has achieved an employment outcome”, “beginning of such employment, and annually thereafter” for “achievement of the outcome (and thereafter if requested by the individual or, if appropriate, the individual’s representative)”, and “to competitive integrated employment or training for competitive integrated employment;” for “to competitive employment or training for competitive employment;”.
+
+    Subsec. (a)(14)(C), (D). [Pub. L. 113–128, § 412(a)(8)(C)][/us/pl/113/128/s412/a/8/C]–(E), substituted “individuals described in subparagraph (A) in attaining competitive integrated employment; and” for “the individuals described in subparagraph (A) in engaging in competitive employment.” in subpar. (C) and added subpar. (D).
+
+    Subsec. (a)(15)(A)(i)(III). [Pub. L. 113–128, § 412(a)(9)(A)(i)(II)(aa)][/us/pl/113/128/s412/a/9/A/i/II/aa], substituted “workforce development system” for “workforce investment system”.
+
+    Subsec. (a)(15)(A)(i)(IV). [Pub. L. 113–128, § 412(a)(9)(A)(i)(I)][/us/pl/113/128/s412/a/9/A/i/I], (II)(bb), (III), added subcl. (IV).
+
+    Subsec. (a)(15)(A)(ii) to (iv). [Pub. L. 113–128, § 412(a)(9)(A)(ii)][/us/pl/113/128/s412/a/9/A/ii], (iii), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
+
+    Subsec. (a)(15)(B)(ii). [Pub. L. 113–128, § 412(a)(9)(B)(i)][/us/pl/113/128/s412/a/9/B/i], substituted “subchapter VI” for “part B of subchapter VI”.
+
+    Subsec. (a)(15)(B)(iii), (iv). [Pub. L. 113–128, § 412(a)(9)(B)(ii)][/us/pl/113/128/s412/a/9/B/ii], (iii), added cl. (iii) and redesignated former cl. (iii) as (iv).
+
+    Subsec. (a)(15)(D)(iii) to (vi). [Pub. L. 113–128, § 412(a)(9)(C)][/us/pl/113/128/s412/a/9/C], added cl. (iii), redesignated former cls. (iii) to (v) as (iv) to (vi), respectively, and, in cl. (vi), substituted “workforce development system” for “workforce investment system”.
+
+    Subsec. (a)(20)(A), (B)(i). [Pub. L. 113–128, § 412(a)(10)][/us/pl/113/128/s412/a/10], substituted “workforce development system” for “workforce investment system”.
+
+    Subsec. (a)(22). [Pub. L. 113–128, § 412(a)(11)][/us/pl/113/128/s412/a/11], substituted “subchapter VI” for “part B of subchapter VI”.
+
+    Subsec. (a)(25), (26). [Pub. L. 113–128, § 412(a)(12)][/us/pl/113/128/s412/a/12], added pars. (25) and (26).
+
+    Subsec. (b). [Pub. L. 113–128, § 412(b)][/us/pl/113/128/s412/b], amended subsec. (b) generally. Prior to amendment, subsec. (b) related to approval and disapproval of State plans.
+
+    Subsec. (c). [Pub. L. 113–128, § 412(c)][/us/pl/113/128/s412/c], added subsec. (c).
+
     2004—Subsec. (a)(11)(D)(ii). [Pub. L. 108–446][/us/pl/108/446] struck out “(as added by [section 101 of Public Law 105–17][/us/pl/105/17/s101])” before semicolon at end.
 
     1998—Subsec. (a)(18)(C). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(c)(4)(A)\], substituted “were utilized during the preceding year” for “will be utilized”.
 
     Subsec. (a)(21)(A)(i)(II)(bb). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(c)(4)(B)\], substituted “commission” for “Commission”.
+
+ __Definitions of Terms in__  __[__  __Pub. L. 113–128__  __][/us/pl/113/128]__ 
+
+    Except as otherwise provided, terms defined in [section 3 of Pub. L. 113–128][/us/pl/113/128/s3], which is classified to [section 3102 of this title][/us/usc/t29/s3102], apply to this section.
 
 ----------
 
@@ -678,30 +874,38 @@
 ----------
 ----------
 
-[/us/usc/t29/s2822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2822
+[/us/usc/t29/s3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3112
+[/us/usc/t29/s3112/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3112%2Fb%2F2%2FD
 [/us/usc/t29/s793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs793
 [/us/usc/t42/s4151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4151
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
+[/us/usc/t29/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3003
 [/us/usc/t29/s723/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs723%2Fa
 [/us/usc/t29/s722/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs722%2Fb
 [/us/usc/t29/s723/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs723%2Fa
 [/us/usc/t29/s723/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs723%2Fa
 [/us/usc/t29/s723/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs723%2Fa
 [/us/usc/t29/s722/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs722%2Fb
-[/us/usc/t29/s2871/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2871%2Fd%2F2
-[/us/usc/t29/s722/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs722%2Fa
+[/us/usc/t29/s726/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs726%2Fa
 [/us/usc/t29/s722/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs722%2Fb
 [/us/usc/t29/s722/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs722%2Fb
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 [/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
 [/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/usc/t29/s2871/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2871%2Fb
+[/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
 [/us/usc/t29/s726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs726
+[/us/usc/t29/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3003
 [/us/usc/t20/s1414/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1414%2Fd
 [/us/usc/t29/s796d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796d
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t29/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs722
+[/us/usc/t29/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3003
+[/us/usc/t42/s1320b–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t29/s214/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs214%2Fc
+[/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 [/us/usc/t29/s726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs726
 [/us/usc/t29/s725/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs725%2Fc
 [/us/usc/t29/s727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs727
@@ -709,7 +913,6 @@
 [/us/usc/t29/s726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs726
 [/us/usc/t29/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs732
 [/us/usc/t29/s730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs730
-[/us/usc/t29/s776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs776
 [/us/usc/t29/s730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs730
 [/us/usc/t29/s725/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs725%2Fd%2F1
 [/us/usc/t29/s796d/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796d%2Fe%2F1
@@ -718,6 +921,10 @@
 [/us/usc/t29/s725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs725
 [/us/usc/t29/s725/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs725%2Fc%2F5
 [/us/usc/t29/s725/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs725%2Fc%2F4
+[/us/usc/t29/s3121/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3121%2Fc
+[/us/usc/t29/s3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3112
+[/us/usc/t29/s3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3113
+[/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 [/us/pl/93/112/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs101
 [/us/pl/105/220/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs404
 [/us/stat/112/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1119
@@ -725,6 +932,10 @@
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/pl/108/446/s305/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs305%2Fh%2F1
 [/us/stat/118/2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2805
+[/us/pl/113/128/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412
+[/us/stat/128/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1641
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/90/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F480
 [/us/stat/82/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F718
 [/us/usc/t42/s4151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4151
@@ -734,12 +945,16 @@
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1092
-[/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
+[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
+[/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
+[/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
+[/us/usc/t29/s776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs776
+[/us/pl/93/112/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs304
+[/us/pl/113/128/s443/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs443%2F2
+[/us/stat/128/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1674
 [/us/pl/93/112/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs101
 [/us/stat/87/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F363
 [/us/pl/93/516/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2Fs111%2Fb
@@ -767,9 +982,69 @@
 [/us/pl/104/106/s4321/i/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4321%2Fi%2F7
 [/us/stat/110/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F676
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/113/128/s412/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F1%2FA
+[/us/pl/113/128/s412/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F1%2FB
+[/us/pl/113/128/s412/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F1%2FC
+[/us/pl/113/128/s412/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F2%2FA
+[/us/pl/113/128/s412/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F2%2FB%2Fi
+[/us/pl/113/128/s412/a/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F2%2FB%2Fii
+[/us/pl/113/128/s412/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F3
+[/us/pl/113/128/s412/a/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F4%2FA%2Fi
+[/us/usc/t29/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3003
+[/us/pl/113/128/s412/a/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F4%2FA%2Fii
+[/us/pl/113/128/s412/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F4%2FB
+[/us/pl/113/128/s412/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F5%2FA
+[/us/pl/113/128/s412/a/5/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F5%2FB%2Fi
+[/us/pl/113/128/s412/a/5/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F5%2FB%2Fii
+[/us/pl/113/128/s412/a/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F5%2FC
+[/us/pl/113/128/s412/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F6%2FA
+[/us/usc/t29/s726/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs726%2Fa
+[/us/pl/113/128/s412/a/6/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F6%2FB%2Fi
+[/us/pl/113/128/s412/a/6/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F6%2FB%2Fii
+[/us/usc/t29/s722/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs722%2Fa
+[/us/pl/113/128/s412/a/6/B/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F6%2FB%2Fiii%2FI
+[/us/pl/113/128/s412/a/6/B/iii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F6%2FB%2Fiii%2FII
+[/us/pl/113/128/s412/a/6/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F6%2FB%2Fiv
+[/us/pl/113/128/s412/a/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F6%2FC
+[/us/pl/113/128/s412/a/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F6%2FD
+[/us/usc/t29/s726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs726
+[/us/usc/t29/s726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs726
+[/us/pl/113/128/s412/a/6/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F6%2FE
+[/us/pl/113/128/s412/a/7/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F7%2FA%2Fi
+[/us/pl/113/128/s412/a/7/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F7%2FA%2Fiii
+[/us/pl/113/128/s412/a/7/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F7%2FA%2Fiv
+[/us/pl/113/128/s412/a/7/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F7%2FA%2Fv
+[/us/pl/113/128/s412/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F7%2FB
+[/us/pl/113/128/s412/a/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F7%2FC
+[/us/usc/t29/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3003
+[/us/pl/113/128/s412/a/7/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F7%2FD
+[/us/pl/113/128/s412/a/7/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F7%2FF
+[/us/pl/113/128/s412/a/7/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F7%2FG
+[/us/pl/113/128/s412/a/7/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F7%2FE
+[/us/pl/113/128/s412/a/7/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F7%2FH
+[/us/pl/113/128/s412/a/7/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F7%2FE
+[/us/pl/113/128/s412/a/7/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F7%2FI
+[/us/pl/113/128/s412/a/7/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F7%2FJ
+[/us/pl/113/128/s412/a/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F8%2FA
+[/us/pl/113/128/s412/a/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F8%2FB
+[/us/pl/113/128/s412/a/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F8%2FC
+[/us/pl/113/128/s412/a/9/A/i/II/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F9%2FA%2Fi%2FII%2Faa
+[/us/pl/113/128/s412/a/9/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F9%2FA%2Fi%2FI
+[/us/pl/113/128/s412/a/9/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F9%2FA%2Fii
+[/us/pl/113/128/s412/a/9/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F9%2FB%2Fi
+[/us/pl/113/128/s412/a/9/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F9%2FB%2Fii
+[/us/pl/113/128/s412/a/9/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F9%2FC
+[/us/pl/113/128/s412/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F10
+[/us/pl/113/128/s412/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F11
+[/us/pl/113/128/s412/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F12
+[/us/pl/113/128/s412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fb
+[/us/pl/113/128/s412/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fc
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
 [/us/pl/105/17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs101
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs3
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 
 

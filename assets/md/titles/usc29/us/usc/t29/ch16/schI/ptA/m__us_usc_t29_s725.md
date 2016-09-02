@@ -55,11 +55,11 @@
 
                 (viii) current or former applicants for, or recipients of, vocational rehabilitation services;
 
-                (ix) in a State in which one or more projects are carried out under [section 741 of this title][/us/usc/t29/s741], at least one representative of the directors of the projects;
+                (ix) in a State in which one or more projects are funded under [section 741 of this title][/us/usc/t29/s741], at least one representative of the directors of the projects located in such State;
 
                 (x) at least one representative of the State educational agency responsible for the public education of students with disabilities who are eligible to receive services under this subchapter and part B of the Individuals with Disabilities Education Act \[[20 U.S.C. 1411][/us/usc/t20/s1411] et seq.\]; and
 
-                (xi) at least one representative of the State workforce investment board.
+                (xi) at least one representative of the State workforce development board.
 
             (B) __Separate Council__ 
 
@@ -171,7 +171,7 @@
 
     (c) __Functions of Council__ 
 
-    The Council shall, after consulting with the State workforce investment board—
+    The Council shall, after consulting with the State workforce development board—
 
         (1)
 
@@ -205,7 +205,7 @@
 
         (5) prepare and submit an annual report to the Governor and the Commissioner on the status of vocational rehabilitation programs operated within the State, and make the report available to the public;
 
-        (6) to avoid duplication of efforts and enhance the number of individuals served, coordinate activities with the activities of other councils within the State, including the Statewide Independent Living Council established under [section 796d of this title][/us/usc/t29/s796d], the advisory panel established under section 612(a)(20) of the Individuals with Disabilities Education Act \[[20 U.S.C. 1412(a)(20)][/us/usc/t20/s1412/a/20]\], the State Council on Developmental Disabilities established under [section 15025 of title 42][/us/usc/t42/s15025], the State mental health planning council established under [section 300x–3(a) of title 42][/us/usc/t42/s300x–3/a], and the State workforce investment board;
+        (6) to avoid duplication of efforts and enhance the number of individuals served, coordinate activities with the activities of other councils within the State, including the Statewide Independent Living Council established under [section 796d of this title][/us/usc/t29/s796d], the advisory panel established under section 612(a)(20) of the Individuals with Disabilities Education Act \[[20 U.S.C. 1412(a)(20)][/us/usc/t20/s1412/a/20]\], the State Council on Developmental Disabilities established under [section 15025 of title 42][/us/usc/t42/s15025], the State mental health planning council established under [section 300x–3(a) of title 42][/us/usc/t42/s300x–3/a] and the State workforce development board, and with the activities of entities carrying out programs under the Assistive Technology Act of 1998 ([29 U.S.C. 3001][/us/usc/t29/s3001] et seq.);
 
         (7) provide for coordination and the establishment of working relationships between the designated State agency and the Statewide Independent Living Council and centers for independent living within the State; and
 
@@ -245,17 +245,27 @@
 
         The Council is authorized to hold such hearings and forums as the Council may determine to be necessary to carry out the duties of the Council.
 
-([Pub. L. 93–112, title I, § 105][/us/pl/93/112/s105], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1151][/us/stat/112/1151]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(c)(6)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–415; [Pub. L. 106–402, title IV, § 401(b)(3)(A)][/us/pl/106/402/s401/b/3/A], Oct. 30, 2000, [114 Stat. 1737][/us/stat/114/1737]; [Pub. L. 108–446, title III, § 305(h)(2)][/us/pl/108/446/s305/h/2], (3), Dec. 3, 2004, [118 Stat. 2805][/us/stat/118/2805].)
+([Pub. L. 93–112, title I, § 105][/us/pl/93/112/s105], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1151][/us/stat/112/1151]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(c)(6)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–415; [Pub. L. 106–402, title IV, § 401(b)(3)(A)][/us/pl/106/402/s401/b/3/A], Oct. 30, 2000, [114 Stat. 1737][/us/stat/114/1737]; [Pub. L. 108–446, title III, § 305(h)(2)][/us/pl/108/446/s305/h/2], (3), Dec. 3, 2004, [118 Stat. 2805][/us/stat/118/2805]; [Pub. L. 113–128, title IV, § 415][/us/pl/113/128/s415], July 22, 2014, [128 Stat. 1654][/us/stat/128/1654].)
 
  __References in Text__ 
 
     The Individuals with Disabilities Education Act, referred to in subsec. (b)(1)(A)(x), is title VI of [Pub. L. 91–230][/us/pl/91/230], Apr. 13, 1970, [84 Stat. 175][/us/stat/84/175], as amended. Part B of the Act is classified generally to subchapter II (§ 1411 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20][/us/usc/t20/s1400] and Tables.
+
+    The Assistive Technology Act of 1998, referred to in subsec. (c)(6), is [Pub. L. 105–394][/us/pl/105/394], Nov. 13, 1998, [112 Stat. 3627][/us/stat/112/3627], which is classified principally to chapter 31 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title][/us/usc/t29/s3001] and Tables.
 
  __Prior Provisions__ 
 
     A prior section 725, [Pub. L. 93–112, title I, § 105][/us/pl/93/112/s105], as added [Pub. L. 102–569, title I, § 126(a)][/us/pl/102/569/s126/a], Oct. 29, 1992, [106 Stat. 4381][/us/stat/106/4381]; amended [Pub. L. 103–73, title I, § 107(d)(1)][/us/pl/103/73/s107/d/1], Aug. 11, 1993, [107 Stat. 721][/us/stat/107/721], related to State Rehabilitation Advisory Council, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
  __Amendments__ 
+
+    2014—Subsec. (b)(1)(A)(ix). [Pub. L. 113–128, § 415(1)(A)][/us/pl/113/128/s415/1/A], added cl. (ix) and struck out former cl. (ix) which read as follows: “in a State in which one or more projects are carried out under [section 741 of this title][/us/usc/t29/s741], at least one representative of the directors of the projects;”.
+
+    Subsec. (b)(1)(A)(xi). [Pub. L. 113–128, § 415(1)(B)][/us/pl/113/128/s415/1/B], substituted “State workforce development board” for “State workforce investment board”.
+
+    Subsec. (c). [Pub. L. 113–128, § 415(2)(A)][/us/pl/113/128/s415/2/A], substituted “State workforce development board” for “State workforce investment board” in introductory provisions.
+
+    Subsec. (c)(6). [Pub. L. 113–128, § 415(2)(B)][/us/pl/113/128/s415/2/B], substituted “[section 300x–3(a) of title 42][/us/usc/t42/s300x–3/a] and the State workforce development board, and with the activities of entities carrying out programs under the Assistive Technology Act of 1998 ([29 U.S.C. 3001][/us/usc/t29/s3001] et seq.);” for “[section 300x–3(a) of title 42][/us/usc/t42/s300x–3/a], and the State workforce investment board;”.
 
     2004—Subsec. (b)(1)(A)(ii). [Pub. L. 108–446, § 305(h)(2)][/us/pl/108/446/s305/h/2], substituted “671 of the Individuals with Disabilities Education Act” for “682(a) of the Individuals with Disabilities Education Act (as added by section 101 of the Individuals with Disabilities Education Act Amendments of 1997; [Public Law 105–17][/us/pl/105/17])”.
 
@@ -270,6 +280,10 @@
     Subsec. (b)(5)(B). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(c)(6)(C)\], substituted “chief executive officer” for “Governor” in heading and “appointing authority described in paragraph (3) shall” for “Governor shall” in text.
 
     Subsec. (b)(6)(A)(ii), (7)(B). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(c)(6)(D)\], substituted “appointing authority described in paragraph (3)” for “Governor”.
+
+ __Definitions of Terms in__  __[__  __Pub. L. 113–128__  __][/us/pl/113/128]__ 
+
+    Except as otherwise provided, terms defined in [section 3 of Pub. L. 113–128][/us/pl/113/128/s3], which is classified to [section 3102 of this title][/us/usc/t29/s3102], apply to this section.
 
 ----------
 
@@ -292,6 +306,7 @@
 [/us/usc/t20/s1412/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F20
 [/us/usc/t42/s15025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15025
 [/us/usc/t42/s300x–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%933%2Fa
+[/us/usc/t29/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3001
 [/us/usc/t29/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs732
 [/us/usc/t29/s730/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs730%2Fc
 [/us/pl/93/112/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs105
@@ -303,15 +318,28 @@
 [/us/stat/114/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1737
 [/us/pl/108/446/s305/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs305%2Fh%2F2
 [/us/stat/118/2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2805
+[/us/pl/113/128/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs415
+[/us/stat/128/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1654
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
+[/us/pl/105/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394
+[/us/stat/112/3627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3627
+[/us/usc/t29/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3001
 [/us/pl/93/112/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs105
 [/us/pl/102/569/s126/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs126%2Fa
 [/us/stat/106/4381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4381
 [/us/pl/103/73/s107/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs107%2Fd%2F1
 [/us/stat/107/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F721
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/113/128/s415/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs415%2F1%2FA
+[/us/usc/t29/s741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs741
+[/us/pl/113/128/s415/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs415%2F1%2FB
+[/us/pl/113/128/s415/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs415%2F2%2FA
+[/us/pl/113/128/s415/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs415%2F2%2FB
+[/us/usc/t42/s300x–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%933%2Fa
+[/us/usc/t29/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3001
+[/us/usc/t42/s300x–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%933%2Fa
 [/us/pl/108/446/s305/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs305%2Fh%2F2
 [/us/pl/105/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17
 [/us/pl/108/446/s305/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs305%2Fh%2F3
@@ -323,5 +351,8 @@
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs3
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 
 

@@ -443,7 +443,19 @@
 
                 (xi) the level of customer satisfaction with the services provided.
 
-([Pub. L. 105–394, § 4][/us/pl/105/394/s4], as added [Pub. L. 108–364, § 2][/us/pl/108/364/s2], Oct. 25, 2004, [118 Stat. 1714][/us/stat/118/1714].)
+([Pub. L. 105–394, § 4][/us/pl/105/394/s4], as added [Pub. L. 108–364, § 2][/us/pl/108/364/s2], Oct. 25, 2004, [118 Stat. 1714][/us/stat/118/1714]; amended [Pub. L. 113–128, title V, § 512(b)(2)][/us/pl/113/128/s512/b/2], July 22, 2014, [128 Stat. 1705][/us/stat/128/1705].)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(b)(2), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended:
+
+    (1) in subsection (c)(2)(B)(i)(IV), by striking “a representative of the State workforce investment board established under section 111 of the Workforce Investment Act of 1998 ([29 U.S.C. 2821][/us/usc/t29/s2821])” and inserting “a representative of the State workforce development board established under section 101 of the Workforce Innovation and Opportunity Act”;
+
+    (2) in subsection (e)(2)(D)(i), by striking “such as one-stop partners, as defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801]),” and inserting “such as one-stop partners, as defined in section 3 of the Workforce Innovation and Opportunity Act,”; and
+
+    (3) in subsection (e)(3)(B)(ii)(I)(aa), by striking “with entities in the statewide and local workforce investment systems established under the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.),” and inserting “with entities in the statewide and local workforce development systems established under the Workforce Innovation and Opportunity Act,”.
+
+    See 2014 Amendment notes below.
 
  __References in Text__ 
 
@@ -458,6 +470,18 @@
     The Americans with Disabilities Act of 1990, referred to in subsecs. (d)(6)(E) and (e)(2)(C), is [Pub. L. 101–336][/us/pl/101/336], July 26, 1990, [104 Stat. 327][/us/stat/104/327], as amended, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42][/us/usc/t42/s12101] and Tables.
 
     The Workforce Investment Act of 1998, referred to in subsec. (e)(3)(B)(ii)(I)(aa), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
+
+ __Amendments__ 
+
+    2014—Subsec. (c)(2)(B)(i)(IV). [Pub. L. 113–128, § 512(b)(2)(A)][/us/pl/113/128/s512/b/2/A], substituted “a representative of the State workforce development board established under section 101 of the Workforce Innovation and Opportunity Act” for “a representative of the State workforce investment board established under section 111 of the Workforce Investment Act of 1998 ([29 U.S.C. 2821][/us/usc/t29/s2821])”.
+
+    Subsec. (e)(2)(D)(i). [Pub. L. 113–128, § 512(b)(2)(B)(i)][/us/pl/113/128/s512/b/2/B/i], substituted “such as one-stop partners, as defined in section 3 of the Workforce Innovation and Opportunity Act,” for “such as one-stop partners, as defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801]),”.
+
+    Subsec. (e)(3)(B)(ii)(I)(aa). [Pub. L. 113–128, § 512(b)(2)(B)(ii)][/us/pl/113/128/s512/b/2/B/ii], substituted “with entities in the statewide and local workforce development systems established under the Workforce Innovation and Opportunity Act,” for “with entities in the statewide and local workforce investment systems established under the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.),”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of this title][/us/usc/t29/s3101].
 
 ----------
 
@@ -486,6 +510,13 @@
 [/us/pl/105/394/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394%2Fs4
 [/us/pl/108/364/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364%2Fs2
 [/us/stat/118/1714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1714
+[/us/pl/113/128/s512/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fb%2F2
+[/us/stat/128/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1705
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2821
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/usc/t29/s3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3011
 [/us/pl/108/364/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364%2Fs2
 [/us/stat/118/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1707
@@ -503,5 +534,14 @@
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
 [/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128/s512/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fb%2F2%2FA
+[/us/usc/t29/s2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2821
+[/us/pl/113/128/s512/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fb%2F2%2FB%2Fi
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/pl/113/128/s512/b/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fb%2F2%2FB%2Fii
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

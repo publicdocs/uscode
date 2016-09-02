@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t29/ch16/schVII/ptA/spt1/m__us_usc_t29_ch16_schVII_ptA_spt1.md) | [Next](./../../../../../../..//us/usc/t29/ch16/schVII/ptA/spt1/m__us_usc_t29_s796a.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796)
+[Previous](./../../../../../../..//us/usc/t29/ch16/schVII/ptA/spt1/m__us_usc_t29_ch16_schVII_ptA_spt1.md) | [Next](./../../../../../../..//us/usc/t29/ch16/schVII/ptA/spt1/m__us_usc_t29_s796–1.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796)
 
 ## § 796. Purpose
 
@@ -21,9 +21,9 @@
 
     (2) providing financial assistance to develop and support statewide networks of centers for independent living; and
 
-    (3) providing financial assistance to States for improving working relationships among State independent living rehabilitation service programs, centers for independent living, Statewide Independent Living Councils established under [section 796d of this title][/us/usc/t29/s796d], State vocational rehabilitation programs receiving assistance under subchapter I of this chapter, State programs of supported employment services receiving assistance under part B of subchapter VI of this chapter, client assistance programs receiving assistance under [section 732 of this title][/us/usc/t29/s732], programs funded under other subchapters of this chapter, programs funded under other Federal law, and programs funded through non-Federal sources.
+    (3) providing financial assistance to States for improving working relationships among State independent living rehabilitation service programs, centers for independent living, Statewide Independent Living Councils established under [section 796d of this title][/us/usc/t29/s796d], State vocational rehabilitation programs receiving assistance under subchapter I of this chapter, State programs of supported employment services receiving assistance under subchapter VI of this chapter, client assistance programs receiving assistance under [section 732 of this title][/us/usc/t29/s732], programs funded under other subchapters of this chapter, programs funded under other Federal law, and programs funded through non-Federal sources, with the goal of improving the independence of individuals with disabilities.
 
-([Pub. L. 93–112, title VII, § 701][/us/pl/93/112/s701], as added [Pub. L. 105–220, title IV, § 410][/us/pl/105/220/s410], Aug. 7, 1998, [112 Stat. 1217][/us/stat/112/1217].)
+([Pub. L. 93–112, title VII, § 701][/us/pl/93/112/s701], as added [Pub. L. 105–220, title IV, § 410][/us/pl/105/220/s410], Aug. 7, 1998, [112 Stat. 1217][/us/stat/112/1217]; amended [Pub. L. 113–128, title IV, § 471][/us/pl/113/128/s471], July 22, 2014, [128 Stat. 1685][/us/stat/128/1685].)
 
  __Prior Provisions__ 
 
@@ -31,9 +31,13 @@
 
     Another prior section 796, [Pub. L. 93–112, title VII, § 701][/us/pl/93/112/s701], as added [Pub. L. 95–602, title III, § 301][/us/pl/95/602/s301], Nov. 6, 1978, [92 Stat. 2995][/us/stat/92/2995], provided Congressional statement of purpose of former subchapter VII, prior to repeal by [Pub. L. 102–569, § 701(1)][/us/pl/102/569/s701/1].
 
+ __Amendments__ 
+
+    2014—Par. (3). [Pub. L. 113–128][/us/pl/113/128] substituted “subchapter VI” for “part B of subchapter VI” and inserted before period at end “, with the goal of improving the independence of individuals with disabilities”.
+
 ----------
 
-[Previous](./../../../../../../..//us/usc/t29/ch16/schVII/ptA/spt1/m__us_usc_t29_ch16_schVII_ptA_spt1.md) | [Next](./../../../../../../..//us/usc/t29/ch16/schVII/ptA/spt1/m__us_usc_t29_s796a.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796)
+[Previous](./../../../../../../..//us/usc/t29/ch16/schVII/ptA/spt1/m__us_usc_t29_ch16_schVII_ptA_spt1.md) | [Next](./../../../../../../..//us/usc/t29/ch16/schVII/ptA/spt1/m__us_usc_t29_s796–1.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796)
 
 ----------
 ----------
@@ -43,6 +47,8 @@
 [/us/pl/93/112/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs701
 [/us/pl/105/220/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs410
 [/us/stat/112/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1217
+[/us/pl/113/128/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs471
+[/us/stat/128/1685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1685
 [/us/pl/93/112/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs701
 [/us/pl/102/569/s701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs701%2F2
 [/us/stat/106/4443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4443
@@ -53,5 +59,6 @@
 [/us/pl/95/602/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs301
 [/us/stat/92/2995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2995
 [/us/pl/102/569/s701/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs701%2F1
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 
 

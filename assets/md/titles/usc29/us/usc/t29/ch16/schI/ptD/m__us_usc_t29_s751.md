@@ -33,17 +33,17 @@
 
         (2) __Employment statistics__ 
 
-            The Secretary of Labor shall provide the Commissioner with employment statistics specified in section 49l–2 of this title, that facilitate evaluation by the Commissioner of the program carried out under part B of this subchapter, and allow the Commissioner to compare the progress of individuals with disabilities who are assisted under the program in securing, retaining, regaining, and advancing in employment with the progress made by individuals who are assisted under title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\].
+            The Secretary of Labor shall provide the Commissioner with employment statistics specified in section 49l–2 of this title, that facilitate evaluation by the Commissioner of the program carried out under part B of this subchapter, and allow the Commissioner to compare the progress of individuals with disabilities who are assisted under the program in securing, retaining, regaining, and advancing in employment with the progress made by individuals who are assisted under title I of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3111][/us/usc/t29/s3111] et seq.\].
 
     (b) __Treatment of information__ 
 
         For purposes of the exchange described in subsection (a)(1) of this section, the data described in subsection (a)(1)(B)(ii) of this section shall not be considered return information (as defined in [section 6103(b)(2) of title 26][/us/usc/t26/s6103/b/2]) and, as appropriate, the confidentiality of all client information shall be maintained by the Rehabilitation Services Administration and the Social Security Administration.
 
-([Pub. L. 93–112, title I, § 131][/us/pl/93/112/s131], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1167][/us/stat/112/1167].)
+([Pub. L. 93–112, title I, § 131][/us/pl/93/112/s131], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1167][/us/stat/112/1167]; amended [Pub. L. 113–128, title IV, § 424][/us/pl/113/128/s424], July 22, 2014, [128 Stat. 1660][/us/stat/128/1660].)
 
  __References in Text__ 
 
-    The Workforce Investment Act of 1998, referred to in subsec. (a)(2), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
+    The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(2), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t29/s3101] and Tables.
 
  __Prior Provisions__ 
 
@@ -57,6 +57,14 @@
 
     Section 753a, [Pub. L. 93–112, title I, § 141][/us/pl/93/112/s141], as added [Pub. L. 103–73, title I, § 108][/us/pl/103/73/s108], Aug. 11, 1993, [107 Stat. 725][/us/stat/107/725], related to exchange of data.
 
+ __Amendments__ 
+
+    2014—Subsec. (a)(2). [Pub. L. 113–128][/us/pl/113/128] substituted “title I of the Workforce Innovation and Opportunity Act” for “title I of the Workforce Investment Act of 1998”.
+
+ __Definitions of Terms in__  __[__  __Pub. L. 113–128__  __][/us/pl/113/128]__ 
+
+    Except as otherwise provided, terms defined in [section 3 of Pub. L. 113–128][/us/pl/113/128/s3], which is classified to [section 3102 of this title][/us/usc/t29/s3102], apply to this section.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t29/ch16/schI/ptD/m__us_usc_t29_ch16_schI_ptD.md) | [Next](./../../../../../..//us/usc/t29/ch16/schII/m__us_usc_t29_ch16_schII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs751)
@@ -65,14 +73,16 @@
 ----------
 
 [/us/usc/t29/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs710
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
 [/us/usc/t26/s6103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6103%2Fb%2F2
 [/us/pl/93/112/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs131
 [/us/pl/105/220/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs404
 [/us/stat/112/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1167
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs424
+[/us/stat/128/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1660
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/93/112/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs131
 [/us/pl/95/602/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs106
 [/us/stat/92/2961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2961
@@ -94,5 +104,9 @@
 [/us/pl/93/112/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs141
 [/us/pl/103/73/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs108
 [/us/stat/107/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F725
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs3
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 
 

@@ -37,7 +37,23 @@
 
         (5) The Secretary shall, not later than March 15 of fiscal year 1983 and each succeeding fiscal year, provide preliminary planning estimates and shall, not later than May 15 of each such fiscal year, provide final planning estimates, showing each State’s projected allocation for the following year.
 
-([June 6, 1933, ch. 49, § 6][/us/act/1933-06-06/ch49/s6], as added [Pub. L. 97–300, title VI, § 601(c)][/us/pl/97/300/s601/c], formerly title V, § 501(c), Oct. 13, 1982, [96 Stat. 1393][/us/stat/96/1393]; renumbered title VI, § 601(c), [Pub. L. 100–628, title VII, § 712(a)(1)][/us/pl/100/628/s712/a/1], (2), Nov. 7, 1988, [102 Stat. 3248][/us/stat/102/3248]; amended [Pub. L. 105–220, title III, § 310][/us/pl/105/220/s310], Aug. 7, 1998, [112 Stat. 1086][/us/stat/112/1086].)
+([June 6, 1933, ch. 49, § 6][/us/act/1933-06-06/ch49/s6], as added [Pub. L. 97–300, title VI, § 601(c)][/us/pl/97/300/s601/c], formerly title V, § 501(c), Oct. 13, 1982, [96 Stat. 1393][/us/stat/96/1393]; renumbered title VI, § 601(c), [Pub. L. 100–628, title VII, § 712(a)(1)][/us/pl/100/628/s712/a/1], (2), Nov. 7, 1988, [102 Stat. 3248][/us/stat/102/3248]; amended [Pub. L. 105–220, title III, § 310][/us/pl/105/220/s310], Aug. 7, 1998, [112 Stat. 1086][/us/stat/112/1086]; [Pub. L. 113–128, title III, § 304][/us/pl/113/128/s304], July 22, 2014, [128 Stat. 1626][/us/stat/128/1626].)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 113–128, title III, § 304][/us/pl/113/128/s304], title V, § 506, July 22, 2014, [128 Stat. 1626][/us/stat/128/1626], 1703, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended as follows:
+
+    (1) in subsection (a), by striking “amounts appropriated pursuant to [section 49d of this title][/us/usc/t29/s49d]” and inserting “funds appropriated and (except for Guam) certified under [section 49d of this title][/us/usc/t29/s49d] and made available for allotments under this section”; and
+
+    (2) in subsection (b)(1):
+
+    (A) in the matter preceding subparagraph (A), by inserting “after making the allotments required by subsection (a),” before “the Secretary” and by striking “sums” and all that follows through “this title” and inserting “funds described in subsection (a)”;
+
+    (B) in each of subparagraphs (A) and (B), by striking “sums” and inserting “remainder”; and
+
+    (C) by adding at the end “For purposes of this paragraph, the term ‘State’ does not include Guam or the Virgin Islands.”
+
+    See 2014 Amendment notes below.
 
  __Prior Provisions__ 
 
@@ -45,7 +61,15 @@
 
  __Amendments__ 
 
+    2014—Subsec. (a). [Pub. L. 113–128, § 304(1)][/us/pl/113/128/s304/1], substituted “funds appropriated and (except for Guam) certified under [section 49d of this title][/us/usc/t29/s49d] and made available for allotments under this section” for “amounts appropriated pursuant to [section 49d of this title][/us/usc/t29/s49d]”.
+
+    Subsec. (b)(1). [Pub. L. 113–128, § 304(2)][/us/pl/113/128/s304/2], in introductory provisions, inserted “after making the allotments required by subsection (a),” before “the Secretary” and substituted “funds described in subsection (a)” for “sums appropriated and certified pursuant to [section 49d of this title][/us/usc/t29/s49d]”; in subpars. (A) and (B), substituted “remainder” for “sums”; and, in concluding provisions, inserted “For purposes of this paragraph, the term ‘State’ does not include Guam or the Virgin Islands.” at end.
+
     1998—Subsec. (b)(1). [Pub. L. 105–220][/us/pl/105/220] substituted “Secretary” for “Secretary of Labor” in concluding provisions.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of this title][/us/usc/t29/s3101].
 
  __Effective Date of 1998 Amendment__ 
 
@@ -71,11 +95,25 @@
 [/us/stat/102/3248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3248
 [/us/pl/105/220/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs310
 [/us/stat/112/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1086
+[/us/pl/113/128/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs304
+[/us/stat/128/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1626
+[/us/pl/113/128/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs304
+[/us/stat/128/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1626
+[/us/usc/t29/s49d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49d
+[/us/usc/t29/s49d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49d
 [/us/act/1933-06-06/ch49/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49%2Fs6
 [/us/stat/48/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F115
 [/us/act/1950-09-08/ch933/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch933%2Fs3
 [/us/stat/64/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F823
+[/us/pl/113/128/s304/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs304%2F1
+[/us/usc/t29/s49d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49d
+[/us/usc/t29/s49d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49d
+[/us/pl/113/128/s304/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs304%2F2
+[/us/usc/t29/s49d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49d
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/105/220/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs311
 [/us/usc/t29/s49a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49a

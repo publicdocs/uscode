@@ -45,7 +45,7 @@
 
         (7) Despite the success of the Federal-State partnership in providing access to assistive technology devices and assistive technology services, there is a continued need to provide information about the availability of assistive technology, advances in improving accessibility and functionality of assistive technology, and appropriate methods to secure and utilize assistive technology in order to maximize the independence and participation of individuals with disabilities in society.
 
-        (8) The combination of significant recent changes in Federal policy (including changes to [section 794d of this title][/us/usc/t29/s794d], accessibility provisions of the Help America Vote Act of 2002 ([42 U.S.C. 15301][/us/usc/t42/s15301] et seq.), and the amendments made to the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301][/us/usc/t20/s6301] et seq.) by the No Child Left Behind Act of 2001) and the rapid and unending evolution of technology require a Federal-State investment in State assistive technology systems to continue to ensure that individuals with disabilities reap the benefits of the technological revolution and participate fully in life in their communities.
+        (8) The combination of significant recent changes in Federal policy (including changes to [section 794d of this title][/us/usc/t29/s794d], accessibility provisions of the Help America Vote Act of 2002 ([42 U.S.C. 15301][/us/usc/t42/s15301] et seq.) \[now [52 U.S.C. 20901][/us/usc/t52/s20901] et seq.\], and the amendments made to the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301][/us/usc/t20/s6301] et seq.) by the No Child Left Behind Act of 2001) and the rapid and unending evolution of technology require a Federal-State investment in State assistive technology systems to continue to ensure that individuals with disabilities reap the benefits of the technological revolution and participate fully in life in their communities.
 
     (b) __Purposes__ 
 
@@ -75,7 +75,7 @@
 
  __References in Text__ 
 
-    The Help America Vote Act of 2002, referred to in subsec. (a)(8), is [Pub. L. 107–252][/us/pl/107/252], Oct. 29, 2002, [116 Stat. 1666][/us/stat/116/1666], which is classified principally to chapter 146 (§ 15301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 15301 of Title 42][/us/usc/t42/s15301] and Tables.
+    The Help America Vote Act of 2002, referred to in subsec. (a)(8), is [Pub. L. 107–252][/us/pl/107/252], Oct. 29, 2002, [116 Stat. 1666][/us/stat/116/1666], which was formerly classified principally to chapter 146 (§ 15301 et seq.) of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 209 (§ 20901 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
     The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(8), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], as amended, which is classified generally to chapter 70 (§ 6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20][/us/usc/t20/s6301] and Tables.
 
@@ -106,6 +106,7 @@
 
 [/us/usc/t29/s794d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794d
 [/us/usc/t42/s15301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15301
+[/us/usc/t52/s20901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20901
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/105/394/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394%2Fs2
 [/us/stat/112/3628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3628
@@ -113,7 +114,6 @@
 [/us/stat/118/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1707
 [/us/pl/107/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252
 [/us/stat/116/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1666
-[/us/usc/t42/s15301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15301
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301

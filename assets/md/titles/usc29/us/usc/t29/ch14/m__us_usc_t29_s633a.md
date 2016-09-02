@@ -85,6 +85,8 @@
 
 > “The amendments made by subsections (a), (b), and (c) \[amending this section, [section 791 of this title][/us/usc/t29/s791], and [section 2000e–16 of Title 42][/us/usc/t42/s2000e–16], The Public Health and Welfare\] shall take effect on the date of enactment of this Act \[Aug. 7, 1998\] and shall apply to and may be raised in any administrative or judicial claim or action brought before such date of enactment but pending on such date, and any administrative or judicial claim or action brought after such date regardless of whether the claim or action arose prior to such date, if the claim or action was brought within the applicable statute of limitations.”
 
+    \[[Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], [section 341(d) of Pub. L. 105–220][/us/pl/105/220/s341/d], set out above, is repealed.\]
+
  __Effective Date of 1995 Amendment__ 
 
     Amendment by [Pub. L. 104–1][/us/pl/104/1] effective 1 year after Jan. 23, 1995, see [section 1311(d) of Title 2][/us/usc/t2/s1311/d], The Congress.
@@ -144,6 +146,9 @@
 [/us/stat/112/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1092
 [/us/usc/t29/s791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs791
 [/us/usc/t42/s2000e–16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%9316
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/pl/105/220/s341/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs341%2Fd
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
 [/us/usc/t2/s1311/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1311%2Fd
 [/us/pl/95/256/s5/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256%2Fs5%2Ff

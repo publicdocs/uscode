@@ -29,11 +29,13 @@
 
             (D) personnel specifically trained to deliver services in the client assistance programs;
 
-            (E) personnel specifically trained to deliver services, through supported employment programs, to individuals with a most significant disability; and
+            (E) personnel specifically trained to deliver supported employment services and customized employment services to individuals with the most significant disabilities;
 
-            (F) personnel specifically trained to deliver services to individuals with disabilities pursuing self-employment, business ownership, and telecommuting; and
+            (F) personnel specifically trained to deliver services to individuals with disabilities pursuing self-employment, business ownership, and telecommuting;
 
-            (G) personnel trained in performing other functions necessary to the provision of vocational, medical, social, and psychological rehabilitation services, and other services provided under this chapter.
+            (G) personnel trained in performing other functions necessary to the provision of vocational, medical, social, and psychological rehabilitation services, and other services provided under this chapter; and
+
+            (H) personnel trained in providing assistive technology services.
 
         (2) __Authority to provide scholarships__ 
 
@@ -45,15 +47,15 @@
 
         (4) __Training for statewide workforce systems personnel__ 
 
-        The Commissioner may make grants to and enter into contracts under this subsection with States and public or nonprofit agencies and organizations, including institutions of higher education, to furnish training to personnel providing services to individuals with disabilities under title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\]. Under this paragraph, personnel may be trained—
+        The Commissioner may make grants to and enter into contracts under this subsection with States and public or nonprofit agencies and organizations, including institutions of higher education, to furnish training to personnel providing services to individuals with disabilities under subtitle B of title I of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3151][/us/usc/t29/s3151] et seq.\]. Under this paragraph, personnel may be trained—
 
-            (A) in evaluative skills to determine whether an individual with a disability may be served by the State vocational rehabilitation program or another component of a statewide workforce investment system; or
+            (A) in evaluative skills to determine whether an individual with a disability may be served by the State vocational rehabilitation program or another component of a statewide workforce development system; or
 
-            (B) to assist individuals with disabilities seeking assistance through one-stop delivery systems described in section 134(c) of the Workforce Investment Act of 1998 \[[29 U.S.C. 2864(c)][/us/usc/t29/s2864/c]\].
+            (B) to assist individuals with disabilities seeking assistance through one-stop delivery systems described in section 121(e) of the Workforce Innovation and Opportunity Act \[[28 U.S.C. 3151(e)][/us/usc/t28/s3151/e]\].
 
         (5) __Joint funding__ 
 
-            Training and other activities provided under paragraph (4) for personnel may be jointly funded with the Department of Labor, using funds made available under title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\].
+            Training and other activities provided under paragraph (4) for personnel may be jointly funded with the Department of Labor, using funds made available under subtitle B of title I of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3151][/us/usc/t29/s3151] et seq.\].
 
     (b) __Grants and contracts for academic degrees and academic certificate granting training projects__ 
 
@@ -67,7 +69,7 @@
 
             Academic training projects described in this subsection may include—
 
-                (i) projects to train personnel in the areas of assisting and supporting individuals with disabilities pursuing self-employment, business ownership, and telecommuting, and of vocational rehabilitation counseling, rehabilitation technology, rehabilitation medicine, rehabilitation nursing, rehabilitation social work, rehabilitation psychiatry, rehabilitation psychology, rehabilitation dentistry, physical therapy, occupational therapy, speech pathology and audiology, physical education, therapeutic recreation, community rehabilitation programs, or prosthetics and orthotics;
+                (i) projects to train personnel in the areas of assisting and supporting individuals with disabilities pursuing self-employment, business ownership, and telecommuting, and of vocational rehabilitation counseling, rehabilitation technology, rehabilitation medicine, rehabilitation nursing, rehabilitation social work, rehabilitation psychiatry, rehabilitation psychology, rehabilitation dentistry, physical therapy, occupational therapy, speech pathology and audiology, physical education, therapeutic recreation, community rehabilitation programs, prosthetics and orthotics, vision rehabilitation therapy, orientation and mobility instruction, or low vision therapy;
 
                 (ii)
 
@@ -189,33 +191,15 @@
 
             (D) such other information as the Commissioner may require.
 
-    (g) __Technical assistance and in-service training__ 
+    (g) __Technical assistance__ 
 
         (1) __Technical assistance__ 
 
-            The Commissioner is authorized to provide technical assistance to State designated agencies and community rehabilitation programs, directly or through contracts with State designated agencies or nonprofit organizations.
+            The Commissioner is authorized to provide technical assistance to State designated agencies and community rehabilitation programs, directly or through contracts with State designated agencies or nonprofit organizations. Any technical assistance provided to community rehabilitation programs shall be focused on the employment outcome of competitive integrated employment for individuals with disabilities.
 
         (2) __Compensation__ 
 
             An expert or consultant appointed or serving under contract pursuant to this section shall be compensated at a rate, subject to approval of the Commissioner, that shall not exceed the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under [section 5382 of title 5][/us/usc/t5/s5382]. Such an expert or consultant may be allowed travel and transportation expenses in accordance with [section 5703 of title 5][/us/usc/t5/s5703].
-
-        (3) __In-service training of rehabilitation personnel__ 
-
-            (A) __Projects__ 
-
-            Subject to subparagraph (B), at least 15 percent of the sums appropriated to carry out this section shall be allocated to designated State agencies to be used, directly or indirectly, for projects for in-service training for rehabilitation personnel, consistent with the needs identified through the comprehensive system for personnel development required by [section 721(a)(7) of this title][/us/usc/t29/s721/a/7], including projects designed—
-
-                (i) to address recruitment and retention of qualified rehabilitation professionals;
-
-                (ii) to provide for succession planning;
-
-                (iii) to provide for leadership development and capacity building; and
-
-                (iv) for fiscal years 1999 and 2000, to provide training regarding the Workforce Investment Act of 1998 and the amendments to this chapter made by the Rehabilitation Act Amendments of 1998.
-
-            (B) __Limitation__ 
-
-                If the allocation to designated State agencies required by subparagraph (A) would result in a lower level of funding for projects being carried out on August 7, 1998, by other recipients of funds under this section, the Commissioner may allocate less than 15 percent of the sums described in subparagraph (A) to designated State agencies for such in-service training.
 
     (h) __Provision of information__ 
 
@@ -223,9 +207,9 @@
 
     (i) __Authorization of appropriations__ 
 
-        There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 1999 through 2003.
+        There are authorized to be appropriated to carry out this section $33,657,000 for fiscal year 2015, $36,257,000 for fiscal year 2016, $37,009,000 for fiscal year 2017, $37,830,000 for fiscal year 2018, $38,719,000 for fiscal year 2019, and $39,540,000 for fiscal year 2020.
 
-([Pub. L. 93–112, title III, § 302][/us/pl/93/112/s302], as added [Pub. L. 105–220, title IV, § 406][/us/pl/105/220/s406], Aug. 7, 1998, [112 Stat. 1184][/us/stat/112/1184]; amended [Pub. L. 108–446, title III, § 305(h)(4)][/us/pl/108/446/s305/h/4], Dec. 3, 2004, [118 Stat. 2805][/us/stat/118/2805].)
+([Pub. L. 93–112, title III, § 302][/us/pl/93/112/s302], as added [Pub. L. 105–220, title IV, § 406][/us/pl/105/220/s406], Aug. 7, 1998, [112 Stat. 1184][/us/stat/112/1184]; amended [Pub. L. 108–446, title III, § 305(h)(4)][/us/pl/108/446/s305/h/4], Dec. 3, 2004, [118 Stat. 2805][/us/stat/118/2805]; [Pub. L. 113–128, title IV, § 441(b)][/us/pl/113/128/s441/b], July 22, 2014, [128 Stat. 1672][/us/stat/128/1672].)
 
  __References in Text__ 
 
@@ -233,9 +217,7 @@
 
     The Social Security Act, referred to in subsec. (a)(3), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Titles II and XVI of the Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
-    The Workforce Investment Act of 1998, referred to in subsecs. (a)(4), (5) and (g)(3)(A)(iv), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
-
-    The Rehabilitation Act Amendments of 1998, referred to in subsec. (g)(3)(A)(iv), is title IV of [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 1092][/us/stat/112/1092]. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under [section 701 of this title][/us/usc/t29/s701] and Tables.
+    The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(4) and (5), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Subtitle B of title I of the Act is classified generally to part B (§ 3151 et seq.) of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t29/s3101] and Tables.
 
  __Prior Provisions__ 
 
@@ -246,6 +228,30 @@
     A prior [section 302 of Pub. L. 93–112][/us/pl/93/112/s302] was classified to [section 771a of this title][/us/usc/t29/s771a] prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1)(E). [Pub. L. 113–128, § 441(b)(1)(A)(i)][/us/pl/113/128/s441/b/1/A/i], substituted “supported employment services and customized employment services to individuals with the most significant disabilities;” for “services, through supported employment programs, to individuals with a most significant disability; and”.
+
+    Subsec. (a)(1)(H). [Pub. L. 113–128, § 441(b)(1)(A)(ii)][/us/pl/113/128/s441/b/1/A/ii]–(iv), added subpar. (H).
+
+    Subsec. (a)(4). [Pub. L. 113–128, § 441(b)(1)(B)(i)][/us/pl/113/128/s441/b/1/B/i], substituted “subtitle B of title I of the Workforce Innovation and Opportunity Act” for “title I of the Workforce Investment Act of 1998” in introductory provisions.
+
+    Subsec. (a)(4)(A). [Pub. L. 113–128, § 441(b)(1)(B)(ii)][/us/pl/113/128/s441/b/1/B/ii], substituted “workforce development system” for “workforce investment system”.
+
+    Subsec. (a)(4)(B). [Pub. L. 113–128, § 441(b)(1)(B)(iii)][/us/pl/113/128/s441/b/1/B/iii], substituted “section 121(e) of the Workforce Innovation and Opportunity Act.” for “section 134(c) of the Workforce Investment Act of 1998.”
+
+    Subsec. (a)(5). [Pub. L. 113–128, § 441(b)(1)(C)][/us/pl/113/128/s441/b/1/C], substituted “subtitle B of title I of the Workforce Innovation and Opportunity Act” for “title I of the Workforce Investment Act of 1998”.
+
+    Subsec. (b)(1)(B)(i). [Pub. L. 113–128, § 441(b)(2)][/us/pl/113/128/s441/b/2], substituted “prosthetics and orthotics, vision rehabilitation therapy, orientation and mobility instruction, or low vision therapy” for “or prosthetics and orthotics”.
+
+    Subsec. (g). [Pub. L. 113–128, § 441(b)(3)(A)][/us/pl/113/128/s441/b/3/A], struck out “and in-service training” after “assistance” in heading.
+
+    Subsec. (g)(1). [Pub. L. 113–128, § 441(b)(3)(B)][/us/pl/113/128/s441/b/3/B], inserted after period at end “Any technical assistance provided to community rehabilitation programs shall be focused on the employment outcome of competitive integrated employment for individuals with disabilities.”
+
+    Subsec. (g)(3). [Pub. L. 113–128, § 441(b)(3)(C)][/us/pl/113/128/s441/b/3/C], struck out par. (3) which related to use of funding for projects for in-service training for rehabilitation personnel.
+
+    Subsec. (h). [Pub. L. 113–128, § 441(b)(4)][/us/pl/113/128/s441/b/4], made technical amendment to reference in original act which appears in text as reference to [section 776 of this title][/us/usc/t29/s776].
+
+    Subsec. (i). [Pub. L. 113–128, § 441(b)(5)][/us/pl/113/128/s441/b/5], substituted “$33,657,000 for fiscal year 2015, $36,257,000 for fiscal year 2016, $37,009,000 for fiscal year 2017, $37,830,000 for fiscal year 2018, $38,719,000 for fiscal year 2019, and $39,540,000 for fiscal year 2020.” for “such sums as may be necessary for each of the fiscal years 1999 through 2003.”
 
     2004—Subsec. (f)(1)(D)(ii). [Pub. L. 108–446][/us/pl/108/446] made technical amendment to reference in original act which appears in text as reference to [section 1402 of title 20][/us/usc/t20/s1402].
 
@@ -259,32 +265,30 @@
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
 [/us/usc/t42/s12111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12111
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151
+[/us/usc/t28/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs3151%2Fe
+[/us/usc/t29/s3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151
 [/us/usc/t20/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1402
 [/us/usc/t20/s1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1486
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/usc/t29/s721/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs721%2Fa%2F7
 [/us/usc/t29/s776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs776
 [/us/pl/93/112/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs302
 [/us/pl/105/220/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs406
 [/us/stat/112/1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1184
 [/us/pl/108/446/s305/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs305%2Fh%2F4
 [/us/stat/118/2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2805
+[/us/pl/113/128/s441/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs441%2Fb
+[/us/stat/128/1672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1672
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1092
-[/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/usc/t29/s771a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs771a
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/93/112/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs303
@@ -311,6 +315,19 @@
 [/us/pl/93/112/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs302
 [/us/usc/t29/s771a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs771a
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/113/128/s441/b/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs441%2Fb%2F1%2FA%2Fi
+[/us/pl/113/128/s441/b/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs441%2Fb%2F1%2FA%2Fii
+[/us/pl/113/128/s441/b/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs441%2Fb%2F1%2FB%2Fi
+[/us/pl/113/128/s441/b/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs441%2Fb%2F1%2FB%2Fii
+[/us/pl/113/128/s441/b/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs441%2Fb%2F1%2FB%2Fiii
+[/us/pl/113/128/s441/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs441%2Fb%2F1%2FC
+[/us/pl/113/128/s441/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs441%2Fb%2F2
+[/us/pl/113/128/s441/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs441%2Fb%2F3%2FA
+[/us/pl/113/128/s441/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs441%2Fb%2F3%2FB
+[/us/pl/113/128/s441/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs441%2Fb%2F3%2FC
+[/us/pl/113/128/s441/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs441%2Fb%2F4
+[/us/usc/t29/s776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs776
+[/us/pl/113/128/s441/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs441%2Fb%2F5
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
 [/us/usc/t20/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1402
 

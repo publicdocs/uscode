@@ -43,7 +43,7 @@
 
             (A) __Technical assistance__ 
 
-                For any fiscal year in which the amount appropriated to carry out this section equals or exceeds $5,500,000, the Commissioner shall set aside not less than 1.8 percent and not more than 2.2 percent of the amount to provide training and technical assistance to the systems established under this section.
+                For any fiscal year in which the amount appropriated to carry out this section equals or exceeds $5,500,000, the Commissioner shall set aside not less than 1.8 percent and not more than 2.2 percent of the amount to provide a grant, contract, or cooperative agreement for training and technical assistance to the systems established under this section.
 
             (B) __Grant for the eligible system serving the American Indian consortium__ 
 
@@ -91,7 +91,7 @@
 
         (1) have in effect a system to protect and advocate the rights of individuals with disabilities;
 
-        (2) have the same general authorities, including access to records and program income, as are set forth in subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[[42 U.S.C. 15041][/us/usc/t42/s15041] et seq.\];
+        (2) have the same general authorities, including the authority to access records and program income, as are set forth in subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[[42 U.S.C. 15041][/us/usc/t42/s15041] et seq.\];
 
         (3) have the authority to pursue legal, administrative, and other appropriate remedies or approaches to ensure the protection of, and advocacy for, the rights of such individuals within the State or the American Indian consortium who are individuals described in subsection (a)(1) of this section;
 
@@ -137,7 +137,7 @@
 
     (l) __Authorization of appropriations__ 
 
-        There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 1999 through 2003.
+        There are authorized to be appropriated to carry out this section $17,650,000 for fiscal year 2015, $19,013,000 for fiscal year 2016, $19,408,000 for fiscal year 2017, $19,838,000 for fiscal year 2018, $20,305,000 for fiscal year 2019, and $20,735,000 for fiscal year 2020.
 
     (m) __Definitions__ 
 
@@ -151,11 +151,11 @@
 
             The term “American Indian consortium” means a consortium established as described in section 142 2 of the Developmental Disabilities Assistance and Bill of Rights Act ([42 U.S.C. 6042][/us/usc/t42/s6042]).
 
-([Pub. L. 93–112, title V, § 509][/us/pl/93/112/s509], as added [Pub. L. 102–569, title V, § 510(a)][/us/pl/102/569/s510/a], Oct. 29, 1992, [106 Stat. 4430][/us/stat/106/4430]; amended [Pub. L. 103–73, title I, § 112(c)][/us/pl/103/73/s112/c], Aug. 11, 1993, [107 Stat. 727][/us/stat/107/727]; [Pub. L. 105–12, § 9(n)][/us/pl/105/12/s9/n], Apr. 30, 1997, [111 Stat. 28][/us/stat/111/28]; [Pub. L. 105–220, title IV, § 408(c)][/us/pl/105/220/s408/c], Aug. 7, 1998, [112 Stat. 1206][/us/stat/112/1206]; [Pub. L. 105–394, title IV, § 402(c)][/us/pl/105/394/s402/c], Nov. 13, 1998, [112 Stat. 3662][/us/stat/112/3662]; [Pub. L. 106–402, title IV, § 401(b)(3)(C)][/us/pl/106/402/s401/b/3/C], (D), Oct. 30, 2000, [114 Stat. 1738][/us/stat/114/1738].)
+([Pub. L. 93–112, title V, § 509][/us/pl/93/112/s509], as added [Pub. L. 102–569, title V, § 510(a)][/us/pl/102/569/s510/a], Oct. 29, 1992, [106 Stat. 4430][/us/stat/106/4430]; amended [Pub. L. 103–73, title I, § 112(c)][/us/pl/103/73/s112/c], Aug. 11, 1993, [107 Stat. 727][/us/stat/107/727]; [Pub. L. 105–12, § 9(n)][/us/pl/105/12/s9/n], Apr. 30, 1997, [111 Stat. 28][/us/stat/111/28]; [Pub. L. 105–220, title IV, § 408(c)][/us/pl/105/220/s408/c], Aug. 7, 1998, [112 Stat. 1206][/us/stat/112/1206]; [Pub. L. 105–394, title IV, § 402(c)][/us/pl/105/394/s402/c], Nov. 13, 1998, [112 Stat. 3662][/us/stat/112/3662]; [Pub. L. 106–402, title IV, § 401(b)(3)(C)][/us/pl/106/402/s401/b/3/C], (D), Oct. 30, 2000, [114 Stat. 1738][/us/stat/114/1738]; [Pub. L. 113–128, title IV, § 457][/us/pl/113/128/s457], July 22, 2014, [128 Stat. 1676][/us/stat/128/1676].)
 
  __References in Text__ 
 
-    The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsecs. (a)(1)(B)(i), (f)(2), (5)(B), and (m)(1), is [Pub. L. 106–402][/us/pl/106/402], Oct. 30, 2000, [114 Stat. 1677][/us/stat/114/1677], which is classified principally to chapter 144 (§ 15001 et seq.) of Title 42, The Public Health and Welfare. Subtitle C of the Act probably means subtitle C of title I of the Act which is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 15001 of Title 42][/us/usc/t42/s15001] and Tables.
+    The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsecs. (a)(1)(B)(i), (f)(2), (5)(B), and (m)(1), is [Pub. L. 106–402][/us/pl/106/402], Oct. 30, 2000, [114 Stat. 1677][/us/stat/114/1677], which is classified principally to chapter 144 (§ 15001 et seq.) of Title 42, The Public Health and Welfare. Subtitle C of title I of the Act is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 15001 of Title 42][/us/usc/t42/s15001] and Tables.
 
     The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsecs. (a)(1)(B)(ii) and (f)(5)(B), was [Pub. L. 99–319][/us/pl/99/319], May 23, 1986, [100 Stat. 478][/us/stat/100/478], as amended. [Pub. L. 99–319][/us/pl/99/319] was renamed the Protection and Advocacy for Individuals with Mental Illness Act by [Pub. L. 106–310, div. B, title XXXII, § 3206(a)][/us/pl/106/310/s3206/a], Oct. 17, 2000, [114 Stat. 1193][/us/stat/114/1193], and is classified generally to chapter 114 (§ 10801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 10801 of Title 42][/us/usc/t42/s10801] and Tables.
 
@@ -166,6 +166,12 @@
     Section 142 of the Developmental Disabilities Assistance and Bill of Rights Act ([42 U.S.C. 6042][/us/usc/t42/s6042]), referred to in subsec. (m)(2), was repealed by [Pub. L. 106–402, title IV, § 401(a)][/us/pl/106/402/s401/a], Oct. 30, 2000, [114 Stat. 1737][/us/stat/114/1737].
 
  __Amendments__ 
+
+    2014—Subsec. (c)(1)(A). [Pub. L. 113–128, § 457(1)][/us/pl/113/128/s457/1], inserted “a grant, contract, or cooperative agreement for” before “training”.
+
+    Subsec. (f)(2). [Pub. L. 113–128, § 457(2)][/us/pl/113/128/s457/2], substituted “general authorities, including the authority to access records” for “general authorities, including access to records” and inserted “of title I” after “subtitle C”.
+
+    Subsec. (l). [Pub. L. 113–128, § 457(3)][/us/pl/113/128/s457/3], substituted “$17,650,000 for fiscal year 2015, $19,013,000 for fiscal year 2016, $19,408,000 for fiscal year 2017, $19,838,000 for fiscal year 2018, $20,305,000 for fiscal year 2019, and $20,735,000 for fiscal year 2020.” for “such sums as may be necessary for each of the fiscal years 1999 through 2003.”
 
     2000—Subsecs. (a)(1)(B)(i), (f)(2). [Pub. L. 106–402, § 401(b)(3)(C)][/us/pl/106/402/s401/b/3/C], substituted “subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “part C of the Developmental Disabilities Assistance and Bill of Rights Act ([42 U.S.C. 6041][/us/usc/t42/s6041] et seq.)”.
 
@@ -246,6 +252,8 @@
 [/us/stat/112/3662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3662
 [/us/pl/106/402/s401/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs401%2Fb%2F3%2FC
 [/us/stat/114/1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1738
+[/us/pl/113/128/s457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs457
+[/us/stat/128/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1676
 [/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
 [/us/stat/114/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1677
 [/us/usc/t42/s15001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15001
@@ -264,6 +272,9 @@
 [/us/usc/t42/s6042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6042
 [/us/pl/106/402/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs401%2Fa
 [/us/stat/114/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1737
+[/us/pl/113/128/s457/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs457%2F1
+[/us/pl/113/128/s457/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs457%2F2
+[/us/pl/113/128/s457/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs457%2F3
 [/us/pl/106/402/s401/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs401%2Fb%2F3%2FC
 [/us/usc/t42/s6041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6041
 [/us/pl/106/402/s401/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs401%2Fb%2F3%2FD

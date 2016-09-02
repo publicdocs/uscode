@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t29/ch16/schV/m__us_usc_t29_s794e.md) | [Next](./../../../../..//us/usc/t29/ch16/schVI/m__us_usc_t29_ch16_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794f)
+[Previous](./../../../../..//us/usc/t29/ch16/schV/m__us_usc_t29_s794e.md) | [Next](./../../../../..//us/usc/t29/ch16/schV/m__us_usc_t29_s794g.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794f)
 
 ## § 794f. Establishment of standards for accessible medical diagnostic equipment
 
@@ -37,7 +37,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t29/ch16/schV/m__us_usc_t29_s794e.md) | [Next](./../../../../..//us/usc/t29/ch16/schVI/m__us_usc_t29_ch16_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794f)
+[Previous](./../../../../..//us/usc/t29/ch16/schV/m__us_usc_t29_s794e.md) | [Next](./../../../../..//us/usc/t29/ch16/schV/m__us_usc_t29_s794g.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794f)
 
 ----------
 ----------

@@ -17,11 +17,21 @@
 
     In order to promote the establishment and maintenance of a national system of public employment offices, the United States Employment Service shall be established and maintained within the Department of Labor.
 
-([June 6, 1933, ch. 49, § 1][/us/act/1933-06-06/ch49/s1], [48 Stat. 113][/us/stat/48/113]; [Pub. L. 97–300, title VI, § 601(a)][/us/pl/97/300/s601/a], formerly title V, § 501(a), Oct. 13, 1982, [96 Stat. 1392][/us/stat/96/1392]; renumbered title VI, § 601(a), [Pub. L. 100–628, title VII, § 712(a)(1)][/us/pl/100/628/s712/a/1], (2), Nov. 7, 1988, [102 Stat. 3248][/us/stat/102/3248].)
+([June 6, 1933, ch. 49, § 1][/us/act/1933-06-06/ch49/s1], [48 Stat. 113][/us/stat/48/113]; [Pub. L. 97–300, title VI, § 601(a)][/us/pl/97/300/s601/a], formerly title V, § 501(a), Oct. 13, 1982, [96 Stat. 1392][/us/stat/96/1392]; renumbered title VI, § 601(a), [Pub. L. 100–628, title VII, § 712(a)(1)][/us/pl/100/628/s712/a/1], (2), Nov. 7, 1988, [102 Stat. 3248][/us/stat/102/3248]; [Pub. L. 113–128, title III, § 301][/us/pl/113/128/s301], July 22, 2014, [128 Stat. 1624][/us/stat/128/1624].)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 113–128, title III, § 301][/us/pl/113/128/s301], title V, § 506, July 22, 2014, [128 Stat. 1624][/us/stat/128/1624], 1703, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended by inserting “service” before “offices”. See 2014 Amendment note below.
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–128][/us/pl/113/128] inserted “service” before “offices”.
+
     1982—[Pub. L. 97–300][/us/pl/97/300] substituted “the United States Employment Service shall be established and maintained within the Department of Labor” for “there is created in the Department of Labor a bureau to be known as the United States Employment Service”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of this title][/us/usc/t29/s3101].
 
  __Effective Date of 1982 Amendment__ 
 
@@ -88,7 +98,15 @@
 [/us/stat/96/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1392
 [/us/pl/100/628/s712/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs712%2Fa%2F1
 [/us/stat/102/3248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3248
+[/us/pl/113/128/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs301
+[/us/stat/128/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1624
+[/us/pl/113/128/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs301
+[/us/stat/128/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1624
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/97/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/97/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300
 [/us/pl/97/300/s181/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs181%2Fi
 [/us/usc/t29/s1591/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1591%2Fi

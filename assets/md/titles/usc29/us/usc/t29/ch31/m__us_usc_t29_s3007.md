@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t29/ch31/m__us_usc_t29_s3006.md) | ~~Next~~ | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3007)
+[Previous](./../../../..//us/usc/t29/ch31/m__us_usc_t29_s3006.md) | [Next](./../../../..//us/usc/t29/ch32/m__us_usc_t29_ch32.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3007)
 
 ## § 3007. Authorization of appropriations
 
@@ -115,7 +115,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t29/ch31/m__us_usc_t29_s3006.md) | ~~Next~~ | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3007)
+[Previous](./../../../..//us/usc/t29/ch31/m__us_usc_t29_s3006.md) | [Next](./../../../..//us/usc/t29/ch32/m__us_usc_t29_ch32.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3007)
 
 ----------
 ----------

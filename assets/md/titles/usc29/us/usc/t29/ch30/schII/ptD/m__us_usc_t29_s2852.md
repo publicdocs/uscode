@@ -211,6 +211,10 @@
 
 ([Pub. L. 105–220, title I, § 127][/us/pl/105/220/s127], Aug. 7, 1998, [112 Stat. 971][/us/stat/112/971].)
 
+ __Repeal of Section__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.
+
  __References in Text__ 
 
     The Job Training Partnership Act, referred to in subsec. (b)(1)(B)(i)(II), (C)(iv)(I)(bb), (IV), (2)(A), is [Pub. L. 97–300][/us/pl/97/300], Oct. 13, 1982, [96 Stat. 1322][/us/stat/96/1322], which was repealed by [Pub. L. 105–220, title I, § 199(b)(2)][/us/pl/105/220/s199/b/2], (c)(2)(B), Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], effective July 1, 2000. Parts B and C of title II of the Act were classified generally to parts B (§ 1630 et seq.) and C (§ 1641 et seq.) of subchapter II of chapter 19 of this title, respectively, prior to repeal by [Pub. L. 105–220][/us/pl/105/220]. Sections 252 and 262 of the Act were classified to sections 1631 and 1642 of this title, respectively, prior to repeal by [Pub. L. 105–220][/us/pl/105/220]. For complete classification of this Act to the Code, see Tables.
@@ -218,6 +222,10 @@
     This chapter, referred to in subsec. (b)(1)(B)(ii)(III)(aa), (bb), was in the original “this title” meaning title I of [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 939][/us/stat/112/939], which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and [section 11421 of Title 42][/us/usc/t42/s11421], and repealed provisions set out as notes under sections 801 and 2301 of this title and [section 1255a of Title 8][/us/usc/t8/s1255a], Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
     [Public Law 95–134][/us/pl/95/134], referred to in subsec. (b)(1)(B)(iii), is [Pub. L. 95–134][/us/pl/95/134], Oct. 15, 1977, [91 Stat. 1159][/us/stat/91/1159]. Provisions relating to consolidation of grants are contained in [section 501 of Pub. L. 95–134][/us/pl/95/134/s501] which is classified to [section 1469a of Title 48][/us/usc/t48/s1469a], Territories and Insular Possessions.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of this title][/us/usc/t29/s3101].
 
 ----------
 
@@ -242,6 +250,8 @@
 [/us/usc/t29/s2831/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2831%2Fa%2F2%2FB
 [/us/pl/105/220/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs127
 [/us/stat/112/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F971
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/97/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300
 [/us/stat/96/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1322
 [/us/pl/105/220/s199/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs199%2Fb%2F2
@@ -257,5 +267,7 @@
 [/us/stat/91/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1159
 [/us/pl/95/134/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134%2Fs501
 [/us/usc/t48/s1469a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1469a
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

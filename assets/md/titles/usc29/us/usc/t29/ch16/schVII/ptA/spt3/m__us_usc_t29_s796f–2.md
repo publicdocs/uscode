@@ -23,31 +23,31 @@
 
                 (i) __Determination__ 
 
-                    The director of a designated State unit, as provided in paragraph (2), or the Commissioner, as provided in paragraph (3), shall award grants under this section for an initial fiscal year if the Commissioner determines that the amount of State funds that were earmarked by a State for a preceding fiscal year to support the general operation of centers for independent living meeting the requirements of this subpart equaled or exceeded the amount of funds allotted to the State under subsection (c) or (d) of [section 796f of this title][/us/usc/t29/s796f] for such year.
+                    The director of a designated State unit, as provided in paragraph (2), or the Administrator, as provided in paragraph (3), shall award grants under this section for an initial fiscal year if the Administrator determines that the amount of State funds that were earmarked by a State for a preceding fiscal year to support the general operation of centers for independent living meeting the requirements of this subpart equaled or exceeded the amount of funds allotted to the State under subsection (c) or (d) of [section 796f of this title][/us/usc/t29/s796f] for such year.
 
                 (ii) __Grants__ 
 
-                    The director or the Commissioner, as appropriate, shall award such grants, from the amount of funds so allotted for the initial fiscal year, to eligible agencies in the State for the planning, conduct, administration, and evaluation of centers for independent living that comply with the standards and assurances set forth in [section 796f–4 of this title][/us/usc/t29/s796f–4].
+                    The director of a designated State unit or the Administrator, as appropriate, shall award such grants, from the amount of funds so allotted for the initial fiscal year, to eligible agencies in the State for the planning, conduct, administration, and evaluation of centers for independent living that comply with the standards and assurances set forth in [section 796f–4 of this title][/us/usc/t29/s796f–4].
 
                 (iii) __Regulation__ 
 
-                    The Commissioner shall by regulation specify the preceding fiscal year with respect to which the Commissioner will make the determinations described in clause (i) and subparagraph (B), making such adjustments as may be necessary to accommodate State funding cycles such as 2-year funding cycles or State fiscal years that do not coincide with the Federal fiscal year.
+                    The Administrator shall by regulation specify the preceding fiscal year with respect to which the Administrator will make the determinations described in clause (i) and subparagraph (B), making such adjustments as may be necessary to accommodate State funding cycles such as 2-year funding cycles or State fiscal years that do not coincide with the Federal fiscal year.
 
             (B) __Subsequent years__ 
 
-                For each year subsequent to the initial fiscal year described in subparagraph (A), the director of the designated State unit shall continue to have the authority to award such grants under this section if the Commissioner determines that the State continues to earmark the amount of State funds described in subparagraph (A)(i). If the State does not continue to earmark such an amount for a fiscal year, the State shall be ineligible to make grants under this section after a final year following such fiscal year, as defined in accordance with regulations established by the Commissioner, and for each subsequent fiscal year.
+                For each year subsequent to the initial fiscal year described in subparagraph (A), the director of the designated State unit shall continue to have the authority to award such grants under this section if the Administrator determines that the State continues to earmark the amount of State funds described in subparagraph (A)(i). If the State does not continue to earmark such an amount for a fiscal year, the State shall be ineligible to make grants under this section after a final year following such fiscal year, as defined in accordance with regulations established by the Administrator, and for each subsequent fiscal year.
 
         (2) __Grants by designated State units__ 
 
-            In order for the designated State unit to be eligible to award the grants described in paragraph (1) and carry out this section for a fiscal year with respect to a State, the designated State agency shall submit an application to the Commissioner at such time, and in such manner as the Commissioner may require, including information about the amount of State funds described in paragraph (1) for the preceding fiscal year. If the Commissioner makes a determination described in subparagraph (A)(i) or (B), as appropriate, of paragraph (1), the Commissioner shall approve the application and designate the director of the designated State unit to award the grant and carry out this section.
+            In order for the designated State unit to be eligible to award the grants described in paragraph (1) and carry out this section for a fiscal year with respect to a State, the designated State agency shall submit an application to the Administrator at such time, and in such manner as the Administrator may require, including information about the amount of State funds described in paragraph (1) for the preceding fiscal year. If the Administrator makes a determination described in subparagraph (A)(i) or (B), as appropriate, of paragraph (1), the Administrator shall approve the application and designate the director of the designated State unit to award the grant and carry out this section.
 
-        (3) __Grants by Commissioner__ 
+        (3) __Grants by Administrator__ 
 
-            If the designated State agency of a State described in paragraph (1) does not submit and obtain approval of an application under paragraph (2), the Commissioner shall award the grant described in paragraph (1) to eligible agencies in the State in accordance with [section 796f–1 of this title][/us/usc/t29/s796f–1].
+            If the designated State agency of a State described in paragraph (1) does not submit and obtain approval of an application under paragraph (2), the Administrator shall award the grant described in paragraph (1) to eligible agencies in the State in accordance with [section 796f–1 of this title][/us/usc/t29/s796f–1].
 
     (b) __Eligible agencies__ 
 
-    In any State in which the Commissioner has approved the State plan required by [section 796c of this title][/us/usc/t29/s796c], the director of the designated State unit may award a grant under this section to any eligible agency that—
+    In any State in which the Administrator has approved the State plan required by [section 796c of this title][/us/usc/t29/s796c], the director of the designated State unit may award a grant under this section to any eligible agency that—
 
         (1) has the power and authority to carry out the purpose of this subpart and perform the functions set forth in [section 796f–4 of this title][/us/usc/t29/s796f–4] within a community and to receive and administer funds under this subpart, funds and contributions from private or public sources that may be used in support of a center for independent living, and funds from other public and private programs;
 
@@ -57,7 +57,7 @@
 
     (c) __Existing eligible agencies__ 
 
-        In the administration of the provisions of this section, the director of the designated State unit shall award grants under this section to any eligible agency that has been awarded a grant under this subpart by September 30, 1997, unless the director makes a finding that the agency involved fails to comply with the standards and assurances set forth in [section 796f–4 of this title][/us/usc/t29/s796f–4].
+        In the administration of the provisions of this section, the director of the designated State unit shall award grants for a fiscal year under this section to any eligible agency that has been awarded a grant under this subpart for the preceding fiscal year, unless the director makes a finding that the agency involved fails to comply with the standards and assurances set forth in [section 796f–4 of this title][/us/usc/t29/s796f–4].
 
     (d) __New centers for independent living__ 
 
@@ -123,25 +123,35 @@
 
             (B) in the case of a center that requests an appeal under subsection (i) of this section, the date of any final decision under subsection (i) of this section,
 
-            unless the center submits a plan to achieve compliance within 90 days and such plan is approved by the director, or if appealed, by the Commissioner.
+            unless the center submits a plan to achieve compliance within 90 days and such plan is approved by the director, or if appealed, by the Administrator.
 
     (h) __Onsite compliance review__ 
 
-        The director of the designated State unit shall annually conduct onsite compliance reviews of at least 15 percent of the centers for independent living that receive funding under this section in the State. Each team that conducts onsite compliance review of centers for independent living shall include at least one person who is not an employee of the designated State agency, who has experience in the operation of centers for independent living, and who is jointly selected by the director of the designated State unit and the chairperson of or other individual designated by the Council acting on behalf of and at the direction of the Council. A copy of this review shall be provided to the Commissioner.
+        The director of the designated State unit shall annually conduct onsite compliance reviews of at least 15 percent of the centers for independent living that receive funding under this section in the State. Each team that conducts onsite compliance review of centers for independent living shall include at least one person who is not an employee of the designated State agency, who has experience in the operation of centers for independent living, and who is jointly selected by the director of the designated State unit and the chairperson of or other individual designated by the Council acting on behalf of and at the direction of the Council. A copy of this review shall be provided to the Administrator.
 
     (i) __Adverse actions__ 
 
-        If the director of the designated State unit proposes to take a significant adverse action against a center for independent living, the center may seek mediation and conciliation to be provided by an individual or individuals who are free of conflicts of interest identified by the chairperson of or other individual designated by the Council. If the issue is not resolved through the mediation and conciliation, the center may appeal the proposed adverse action to the Commissioner for a final decision.
+        If the director of the designated State unit proposes to take a significant adverse action against a center for independent living, the center may seek mediation and conciliation to be provided by an individual or individuals who are free of conflicts of interest identified by the chairperson of or other individual designated by the Council. If the issue is not resolved through the mediation and conciliation, the center may appeal the proposed adverse action to the Administrator for a final decision.
 
-([Pub. L. 93–112, title VII, § 723][/us/pl/93/112/s723], as added [Pub. L. 105–220, title IV, § 410][/us/pl/105/220/s410], Aug. 7, 1998, [112 Stat. 1231][/us/stat/112/1231].)
-
- __References in Text__ 
-
-    This subpart, referred to in subsec. (c), means subpart 3 (§ 796f et seq.) of part A of this subchapter, prior to the general amendment of this subchapter by [Pub. L. 105–220, title IV, § 410][/us/pl/105/220/s410], Aug. 7, 1998, [112 Stat. 1217][/us/stat/112/1217].
+([Pub. L. 93–112, title VII, § 723][/us/pl/93/112/s723], as added [Pub. L. 105–220, title IV, § 410][/us/pl/105/220/s410], Aug. 7, 1998, [112 Stat. 1231][/us/stat/112/1231]; amended [Pub. L. 113–128, title IV, § 482(b)][/us/pl/113/128/s482/b], July 22, 2014, [128 Stat. 1693][/us/stat/128/1693].)
 
  __Prior Provisions__ 
 
     A prior section 796f–2, [Pub. L. 93–112, title VII, § 723][/us/pl/93/112/s723], as added [Pub. L. 102–569, title VII, § 701(2)][/us/pl/102/569/s701/2], Oct. 29, 1992, [106 Stat. 4458][/us/stat/106/4458]; amended [Pub. L. 103–73, title I, § 114(j)][/us/pl/103/73/s114/j], Aug. 11, 1993, [107 Stat. 731][/us/stat/107/731], related to grants to centers for independent living in States in which State funding equals or exceeds Federal funding, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+
+ __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–128, § 482(b)(1)][/us/pl/113/128/s482/b/1], substituted “Administrator” for “Commissioner” wherever appearing in text.
+
+    Subsec. (a)(1)(A)(ii). [Pub. L. 113–128, § 482(b)(2)(A)][/us/pl/113/128/s482/b/2/A], inserted “of a designated State unit” after “director”.
+
+    Subsec. (a)(3). [Pub. L. 113–128, § 482(b)(2)(B)][/us/pl/113/128/s482/b/2/B], substituted “Administrator” for “Commissioner” in heading.
+
+    Subsec. (b). [Pub. L. 113–128, § 482(b)(1)][/us/pl/113/128/s482/b/1], substituted “Administrator” for “Commissioner” in introductory provisions.
+
+    Subsec. (c). [Pub. L. 113–128, § 482(b)(3)][/us/pl/113/128/s482/b/3], substituted “grants for a fiscal year” for “grants” and “for the preceding fiscal year” for “by September 30, 1997”.
+
+    Subsecs. (g)(2), (h), (i). [Pub. L. 113–128, § 482(b)(1)][/us/pl/113/128/s482/b/1], substituted “Administrator” for “Commissioner”.
 
  __Grants to Centers for Independent Living in States in Which State Funding Equals or Exceeds Federal Funding__ 
 
@@ -183,14 +193,20 @@
 [/us/pl/93/112/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs723
 [/us/pl/105/220/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs410
 [/us/stat/112/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1231
-[/us/pl/105/220/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs410
-[/us/stat/112/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1217
+[/us/pl/113/128/s482/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs482%2Fb
+[/us/stat/128/1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1693
 [/us/pl/93/112/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs723
 [/us/pl/102/569/s701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs701%2F2
 [/us/stat/106/4458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4458
 [/us/pl/103/73/s114/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs114%2Fj
 [/us/stat/107/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F731
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/113/128/s482/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs482%2Fb%2F1
+[/us/pl/113/128/s482/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs482%2Fb%2F2%2FA
+[/us/pl/113/128/s482/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs482%2Fb%2F2%2FB
+[/us/pl/113/128/s482/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs482%2Fb%2F1
+[/us/pl/113/128/s482/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs482%2Fb%2F3
+[/us/pl/113/128/s482/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs482%2Fb%2F1
 [/us/pl/111/213/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F213%2Fs2%2Fb
 [/us/stat/124/2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2344
 [/us/usc/t29/s796f–2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796f%E2%80%932%2Fc

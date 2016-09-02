@@ -31,7 +31,7 @@
 
             (B) as a group, individuals with disabilities experience staggering levels of unemployment and poverty;
 
-            (C) individuals with disabilities, including individuals with the most significant disabilities, have demonstrated their ability to achieve gainful employment in integrated settings if appropriate services and supports are provided;
+            (C) individuals with disabilities, including individuals with the most significant disabilities, have demonstrated their ability to achieve gainful employment in competitive integrated employment settings if appropriate services and supports are provided;
 
             (D)
 
@@ -41,23 +41,23 @@
 
                 (ii) lack of accessible and available transportation;
 
-                (iii) fear of losing health coverage under the medicare and medicaid programs carried out under titles XVIII and XIX of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq. and 1396 et seq.) or fear of losing private health insurance; and
+                (iii) fear of losing health coverage under the Medicare and Medicaid programs carried out under titles XVIII and XIX of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq. and 1396 et seq.) or fear of losing private health insurance; and
 
                 (iv) lack of education, training, and supports to meet job qualification standards necessary to secure, retain, regain, or advance in employment;
 
             (E) enforcement of subchapter V of this chapter and of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101][/us/usc/t42/s12101] et seq.) holds the promise of ending discrimination for individuals with disabilities;
 
-            (F) the provision of workforce investment activities and vocational rehabilitation services can enable individuals with disabilities, including individuals with the most significant disabilities, to pursue meaningful careers by securing gainful employment commensurate with their abilities and capabilities; and
+            (F) the provision of workforce development activities and vocational rehabilitation services can enable individuals with disabilities, including individuals with the most significant disabilities, to pursue meaningful careers by securing gainful employment commensurate with their abilities and capabilities; and
 
-            (G) linkages between the vocational rehabilitation programs established under this subchapter and other components of the statewide workforce investment systems are critical to ensure effective and meaningful participation by individuals with disabilities in workforce investment activities.
+            (G) linkages between the vocational rehabilitation programs established under this subchapter and other components of the statewide workforce development systems are critical to ensure effective and meaningful participation by individuals with disabilities in workforce development activities.
 
         (2) __Purpose__ 
 
         The purpose of this subchapter is to assist States in operating statewide comprehensive, coordinated, effective, efficient, and accountable programs of vocational rehabilitation, each of which is—
 
-            (A) an integral part of a statewide workforce investment system; and
+            (A) an integral part of a statewide workforce development system; and
 
-            (B) designed to assess, plan, develop, and provide vocational rehabilitation services for individuals with disabilities, consistent with their strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice, so that such individuals may prepare for and engage in gainful employment.
+            (B) designed to assess, plan, develop, and provide vocational rehabilitation services for individuals with disabilities, consistent with their strengths, resources, priorities, concerns, abilities, capabilities, interests, informed choice, and economic self-sufficiency, so that such individuals may prepare for and engage in gainful employment.
 
         (3) __Policy__ 
 
@@ -65,7 +65,7 @@
 
             (A) Individuals with disabilities, including individuals with the most significant disabilities, are generally presumed to be capable of engaging in gainful employment and the provision of individualized vocational rehabilitation services can improve their ability to become gainfully employed.
 
-            (B) Individuals with disabilities must be provided the opportunities to obtain gainful employment in integrated settings.
+            (B) Individuals with disabilities must be provided the opportunities to obtain competitive integrated employment.
 
             (C)
 
@@ -77,7 +77,7 @@
 
             (D) Families and other natural supports can play important roles in the success of a vocational rehabilitation program, if the individual with a disability involved requests, desires, or needs such supports.
 
-            (E) Vocational rehabilitation counselors that are trained and prepared in accordance with State policies and procedures as described in [section 721(a)(7)(B) of this title][/us/usc/t29/s721/a/7/B] (referred to individually in this subchapter as a “qualified vocational rehabilitation counselor”), other qualified rehabilitation personnel, and other qualified personnel facilitate the accomplishment of the employment outcomes and objectives of an individual.
+            (E) Vocational rehabilitation counselors that are trained and prepared in accordance with State policies and procedures as described in [section 721(a)(7)(B) of this title][/us/usc/t29/s721/a/7/B] (referred to individually in this subchapter as a “qualified vocational rehabilitation counselor”), other qualified rehabilitation personnel, and other qualified personnel should facilitate the accomplishment of the employment outcomes and objectives of an individual.
 
             (F) Individuals with disabilities and the individuals’ representatives are full partners in a vocational rehabilitation program and must be involved on a regular basis and in a meaningful manner with respect to policy development and implementation.
 
@@ -87,7 +87,7 @@
 
         (1) __In general__ 
 
-            For the purpose of making grants to States under part B of this subchapter to assist States in meeting the costs of vocational rehabilitation services provided in accordance with State plans under [section 721 of this title][/us/usc/t29/s721], there are authorized to be appropriated such sums as may be necessary for fiscal years 1999 through 2003, except that the amount to be appropriated for a fiscal year shall not be less than the amount of the appropriation under this paragraph for the immediately preceding fiscal year, increased by the percentage change in the Consumer Price Index determined under subsection (c) of this section for the immediately preceding fiscal year.
+            For the purpose of making grants to States under part B of this subchapter to assist States in meeting the costs of vocational rehabilitation services provided in accordance with State plans under [section 721 of this title][/us/usc/t29/s721], there are authorized to be appropriated $3,302,053,000 for each of the fiscal years 2015 through 2020, except that the amount to be appropriated for a fiscal year shall not be less than the amount of the appropriation under this paragraph for the immediately preceding fiscal year, increased by the percentage change in the Consumer Price Index determined under subsection (c) of this section for the immediately preceding fiscal year.
 
         (2) __Reference__ 
 
@@ -141,7 +141,7 @@
 
                 In any case where the Commissioner is required under an applicable statute to carry out certain acts or make certain determinations which are necessary for the continuation of the program authorized by this subchapter, if such acts or determinations are required during the terminal year of such program, such acts and determinations shall be required during any fiscal year in which the extension described in that part of paragraph (1) that follows clause (ii) of paragraph (1)(A) is in effect.
 
-([Pub. L. 93–112, title I, § 100][/us/pl/93/112/s100], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1116][/us/stat/112/1116].)
+([Pub. L. 93–112, title I, § 100][/us/pl/93/112/s100], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1116][/us/stat/112/1116]; amended [Pub. L. 113–128, title IV, § 411][/us/pl/113/128/s411], July 22, 2014, [128 Stat. 1640][/us/stat/128/1640].)
 
  __References in Text__ 
 
@@ -152,6 +152,30 @@
  __Prior Provisions__ 
 
     A prior section 720, [Pub. L. 93–112, title I, § 100][/us/pl/93/112/s100], Sept. 26, 1973, [87 Stat. 363][/us/stat/87/363]; [Pub. L. 93–516, title I, § 102(a)][/us/pl/93/516/s102/a], Dec. 7, 1974, [88 Stat. 1618][/us/stat/88/1618]; [Pub. L. 93–651, title I, § 102(a)][/us/pl/93/651/s102/a], Nov. 21, 1974, [89 Stat. 2–3][/us/stat/89/2-3]; [Pub. L. 94–230][/us/pl/94/230], §§ 2(a), 11(b)(2), (3), Mar. 15, 1976, [90 Stat. 211][/us/stat/90/211], 213; [Pub. L. 95–602, title I, § 101(a)][/us/pl/95/602/s101/a], (b), Nov. 6, 1978, [92 Stat. 2955][/us/stat/92/2955]; [Pub. L. 98–221, title I, § 111(a)][/us/pl/98/221/s111/a]–(d), Feb. 22, 1984, [98 Stat. 19][/us/stat/98/19]; [Pub. L. 99–506, title I, § 103(d)(2)(C)][/us/pl/99/506/s103/d/2/C], title II, § 201, Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1813; [Pub. L. 100–630, title II, § 202(a)][/us/pl/100/630/s202/a], Nov. 7, 1988, [102 Stat. 3304][/us/stat/102/3304]; [Pub. L. 102–52, § 2(a)][/us/pl/102/52/s2/a], (b)(1), June 6, 1991, [105 Stat. 260][/us/stat/105/260]; [Pub. L. 102–569, title I, § 121(a)][/us/pl/102/569/s121/a], (b), Oct. 29, 1992, [106 Stat. 4365][/us/stat/106/4365], 4367, related to congressional findings, purpose, policy, authorization of appropriations, change in Consumer Price Index, and extension of program, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+
+ __Amendments__ 
+
+    2014—Subsec. (a)(1)(C). [Pub. L. 113–128, § 411(a)(1)(A)][/us/pl/113/128/s411/a/1/A], substituted “competitive integrated employment” for “integrated”.
+
+    Subsec. (a)(1)(D)(iii). [Pub. L. 113–128, § 411(a)(1)(B)][/us/pl/113/128/s411/a/1/B], substituted “Medicare and Medicaid” for “medicare and medicaid”.
+
+    Subsec. (a)(1)(F). [Pub. L. 113–128, § 411(a)(1)(C)][/us/pl/113/128/s411/a/1/C], substituted “development” for “investment”.
+
+    Subsec. (a)(1)(G). [Pub. L. 113–128, § 411(a)(1)(D)][/us/pl/113/128/s411/a/1/D], substituted “workforce development systems” for “workforce investment systems” and “workforce development activities” for “workforce investment activities”.
+
+    Subsec. (a)(2)(A). [Pub. L. 113–128, § 411(a)(2)(A)][/us/pl/113/128/s411/a/2/A], substituted “workforce development system” for “workforce investment system”.
+
+    Subsec. (a)(2)(B). [Pub. L. 113–128, § 411(a)(2)(B)][/us/pl/113/128/s411/a/2/B], substituted “informed choice, and economic self-sufficiency,” for “and informed choice,”.
+
+    Subsec. (a)(3)(B). [Pub. L. 113–128, § 411(a)(3)(A)][/us/pl/113/128/s411/a/3/A], substituted “competitive integrated employment” for “gainful employment in integrated settings”.
+
+    Subsec. (a)(3)(E). [Pub. L. 113–128, § 411(a)(3)(B)][/us/pl/113/128/s411/a/3/B], inserted “should” before “facilitate the accomplishment”.
+
+    Subsec. (b)(1). [Pub. L. 113–128, § 411(b)][/us/pl/113/128/s411/b], substituted “$3,302,053,000 for each of the fiscal years 2015 through 2020” for “such sums as may be necessary for fiscal years 1999 through 2003”.
+
+ __Definitions of Terms in__  __[__  __Pub. L. 113–128__  __][/us/pl/113/128]__ 
+
+    Except as otherwise provided, terms defined in [section 3 of Pub. L. 113–128][/us/pl/113/128/s3], which is classified to [section 3102 of this title][/us/usc/t29/s3102], apply to this section.
 
 ----------
 
@@ -168,6 +192,8 @@
 [/us/pl/93/112/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs100
 [/us/pl/105/220/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs404
 [/us/stat/112/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1116
+[/us/pl/113/128/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs411
+[/us/stat/128/1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1640
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -195,5 +221,17 @@
 [/us/pl/102/569/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs121%2Fa
 [/us/stat/106/4365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4365
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/113/128/s411/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs411%2Fa%2F1%2FA
+[/us/pl/113/128/s411/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs411%2Fa%2F1%2FB
+[/us/pl/113/128/s411/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs411%2Fa%2F1%2FC
+[/us/pl/113/128/s411/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs411%2Fa%2F1%2FD
+[/us/pl/113/128/s411/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs411%2Fa%2F2%2FA
+[/us/pl/113/128/s411/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs411%2Fa%2F2%2FB
+[/us/pl/113/128/s411/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs411%2Fa%2F3%2FA
+[/us/pl/113/128/s411/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs411%2Fa%2F3%2FB
+[/us/pl/113/128/s411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs411%2Fb
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs3
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 
 

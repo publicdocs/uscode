@@ -267,7 +267,7 @@ Part A—General Provisions  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs728a" data-uslm-ref="/us/usc/t29/s728a">728a.</a>  </td>
 
-    <td> Training of employers with respect to Americans with Disabilities Act of 1990.  </td>
+    <td> Training and services for employers.  </td>
 
   </tr>
 
@@ -300,6 +300,14 @@ Part B—Basic Vocational Rehabilitation Services  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs732" data-uslm-ref="/us/usc/t29/s732">732.</a>  </td>
 
     <td> Client assistance program.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs733" data-uslm-ref="/us/usc/t29/s733">733.</a>  </td>
+
+    <td> Provision of pre-employment transition services.  </td>
 
   </tr>
 
@@ -363,7 +371,7 @@ SUBCHAPTER II—RESEARCH AND TRAINING  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs762" data-uslm-ref="/us/usc/t29/s762">762.</a>  </td>
 
-    <td> National Institute on Disability and Rehabilitation Research.  </td>
+    <td> National Institute on Disability, Independent Living, and Rehabilitation Research.  </td>
 
   </tr>
 
@@ -395,7 +403,15 @@ SUBCHAPTER II—RESEARCH AND TRAINING  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs765" data-uslm-ref="/us/usc/t29/s765">765.</a>  </td>
 
-    <td> Rehabilitation Research Advisory Council.  </td>
+    <td> Disability, Independent Living, and Rehabilitation Research Advisory Council.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs766" data-uslm-ref="/us/usc/t29/s766">766.</a>  </td>
+
+    <td> Definition of covered school.  </td>
 
   </tr>
 
@@ -433,17 +449,9 @@ SUBCHAPTER III—PROFESSIONAL DEVELOPMENT AND SPECIAL PROJECTS AND DEMONSTRATION
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs774" data-uslm-ref="/us/usc/t29/s774">774.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs774" data-uslm-ref="/us/usc/t29/s774">774</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs775" data-uslm-ref="/us/usc/t29/s775">775.</a>  </td>
 
-    <td> Migrant and seasonal farmworkers.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs775" data-uslm-ref="/us/usc/t29/s775">775.</a>  </td>
-
-    <td> Recreational programs.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -617,6 +625,14 @@ SUBCHAPTER V—RIGHTS AND ADVOCACY  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs794g" data-uslm-ref="/us/usc/t29/s794g">794g.</a>  </td>
+
+    <td> Limitations on use of subminimum wage.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER VI—EMPLOYMENT OPPORTUNITIES FOR INDIVIDUALS WITH DISABILITIES  </td>
@@ -625,33 +641,9 @@ SUBCHAPTER VI—EMPLOYMENT OPPORTUNITIES FOR INDIVIDUALS WITH DISABILITIES  </td
 
   <tr>
 
-    <td> 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs795" data-uslm-ref="/us/usc/t29/s795">795</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs795a" data-uslm-ref="/us/usc/t29/s795a">795a.</a>  </td>
 
-Part A—Projects With Industry  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs795" data-uslm-ref="/us/usc/t29/s795">795.</a>  </td>
-
-    <td> Projects With Industry.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs795a" data-uslm-ref="/us/usc/t29/s795a">795a.</a>  </td>
-
-    <td> Authorization of appropriations.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-Part B—Supported Employment Services for Individuals With the Most Significant Disabilities  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -715,6 +707,14 @@ Part B—Supported Employment Services for Individuals With the Most Significant
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs795n" data-uslm-ref="/us/usc/t29/s795n">795n.</a>  </td>
 
+    <td> Advisory Committee on Increasing Competitive Integrated Employment for Individuals with Disabilities.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs795" data-uslm-ref="/us/usc/t29/s795">795</a>o.  </td>
+
     <td> Authorization of appropriations.  </td>
 
   </tr>
@@ -748,6 +748,14 @@ subpart 1—general provisions  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796" data-uslm-ref="/us/usc/t29/s796">796.</a>  </td>
 
     <td> Purpose.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 796–1.Administration of the Independent Living program.  </td>
+
+    <td>   </td>
 
   </tr>
 
@@ -787,7 +795,7 @@ subpart 1—general provisions  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796d%E2%80%931" data-uslm-ref="/us/usc/t29/s796d–1">796d–1.</a>  </td>
 
-    <td> Responsibilities of Commissioner.  </td>
+    <td> Responsibilities of the Administrator.  </td>
 
   </tr>
 
@@ -804,6 +812,14 @@ subpart 2—independent living services  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796e" data-uslm-ref="/us/usc/t29/s796e">796e.</a>  </td>
 
     <td> Allotments.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796e%E2%80%930" data-uslm-ref="/us/usc/t29/s796e–0">796e–0.</a>  </td>
+
+    <td> Training and technical assistance.  </td>
 
   </tr>
 
@@ -908,6 +924,14 @@ Part B—Independent Living Services for Older Individuals Who Are Blind  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796j" data-uslm-ref="/us/usc/t29/s796j">796j.</a>  </td>
 
     <td> “Older individual who is blind” defined.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796j%E2%80%931" data-uslm-ref="/us/usc/t29/s796j–1">796j–1.</a>  </td>
+
+    <td> Training and technical assistance.  </td>
 
   </tr>
 

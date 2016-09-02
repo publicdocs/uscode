@@ -25,13 +25,13 @@
 
             (B) the allotment percentage for the District of Columbia, Puerto Rico, Guam, the Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be 75 per centum.
 
-        (2) The allotment percentages shall be promulgated by the Secretary between October 1 and December 31 of each even-numbered year, on the basis of the average of the per capita incomes of the States and of the United States for the three most recent consecutive years for which satisfactory data are available from the Department of Commerce. Such promulgation shall be conclusive for each of the 2 fiscal years in the period beginning on the October 1 next succeeding such promulgation.
+        (2) The allotment percentages shall be promulgated by the Secretary of Education between October 1 and December 31 of each even-numbered year, on the basis of the average of the per capita incomes of the States and of the United States for the three most recent consecutive years for which satisfactory data are available from the Department of Commerce. Such promulgation shall be conclusive for each of the 2 fiscal years in the period beginning on the October 1 next succeeding such promulgation.
 
         (3) The term “United States” means (but only for purposes of this subsection) the 50 States and the District of Columbia.
 
     (b) The population of the several States and of the United States shall be determined on the basis of the most recent data available, to be furnished by the Department of Commerce by October 1 of the year preceding the fiscal year for which funds are appropriated pursuant to statutory authorizations.
 
-([Pub. L. 93–112, § 8][/us/pl/93/112/s8], formerly § 7, as added [Pub. L. 105–220, title IV, § 403][/us/pl/105/220/s403], Aug. 7, 1998, [112 Stat. 1110][/us/stat/112/1110]; renumbered § 8, [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(a)(1)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–412.)
+([Pub. L. 93–112, § 8][/us/pl/93/112/s8], formerly § 7, as added [Pub. L. 105–220, title IV, § 403][/us/pl/105/220/s403], Aug. 7, 1998, [112 Stat. 1110][/us/stat/112/1110]; renumbered § 8, [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(a)(1)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–412; amended [Pub. L. 113–128, title IV, § 405(a)][/us/pl/113/128/s405/a], July 22, 2014, [128 Stat. 1637][/us/stat/128/1637].)
 
  __Prior Provisions__ 
 
@@ -42,6 +42,10 @@
     A prior [section 8 of Pub. L. 93–112][/us/pl/93/112/s8] was renumbered section 10 and is classified to [section 707 of this title][/us/usc/t29/s707].
 
     Another prior [section 8 of Pub. L. 93–112][/us/pl/93/112/s8] was classified to [section 707 of this title][/us/usc/t29/s707] prior to repeal by [Pub. L. 105–220][/us/pl/105/220].
+
+ __Amendments__ 
+
+    2014—Subsec. (a)(2). [Pub. L. 113–128][/us/pl/113/128] inserted “of Education” after “Secretary”.
 
 ----------
 
@@ -56,6 +60,8 @@
 [/us/stat/112/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1110
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
+[/us/pl/113/128/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs405%2Fa
+[/us/stat/128/1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1637
 [/us/usc/t29/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs707
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/93/112/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs7
@@ -94,5 +100,6 @@
 [/us/pl/93/112/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs8
 [/us/usc/t29/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs707
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 
 

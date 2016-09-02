@@ -33,7 +33,7 @@
 
             (A) a college, university, or other postsecondary institution, or a public system of higher education; or
 
-            (B) a local educational agency (as defined in [section 7801 of title 20][/us/usc/t20/s7801]), system of vocational education, or other school system;
+            (B) a local educational agency (as defined in [section 7801 of title 20][/us/usc/t20/s7801]), system of career and technical education, or other school system;
 
         (3)
 
@@ -59,7 +59,7 @@
 
         The standards used to determine whether this section has been violated in a complaint alleging employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12111][/us/usc/t42/s12111] et seq.) and the provisions of sections 501 through 504, and 510, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12201–122][/us/usc/t42/s12201–122]04 and 12210), as such sections relate to employment.
 
-([Pub. L. 93–112, title V, § 504][/us/pl/93/112/s504], Sept. 26, 1973, [87 Stat. 394][/us/stat/87/394]; [Pub. L. 95–602, title I][/us/pl/95/602], §§ 119, 122(d)(2), Nov. 6, 1978, [92 Stat. 2982][/us/stat/92/2982], 2987; [Pub. L. 99–506, title I, § 103(d)(2)(B)][/us/pl/99/506/s103/d/2/B], title X, § 1002(e)(4), Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1844; [Pub. L. 100–259, § 4][/us/pl/100/259/s4], Mar. 22, 1988, [102 Stat. 29][/us/stat/102/29]; [Pub. L. 100–630, title II, § 206(d)][/us/pl/100/630/s206/d], Nov. 7, 1988, [102 Stat. 3312][/us/stat/102/3312]; [Pub. L. 102–569, title I, § 102(p)(32)][/us/pl/102/569/s102/p/32], title V, § 506, Oct. 29, 1992, [106 Stat. 4360][/us/stat/106/4360], 4428; [Pub. L. 103–382, title III, § 394(i)(2)][/us/pl/103/382/s394/i/2], Oct. 20, 1994, [108 Stat. 4029][/us/stat/108/4029]; [Pub. L. 105–220, title IV, § 408(a)(3)][/us/pl/105/220/s408/a/3], Aug. 7, 1998, [112 Stat. 1203][/us/stat/112/1203]; [Pub. L. 107–110, title X, § 1076(u)(2)][/us/pl/107/110/s1076/u/2], Jan. 8, 2002, [115 Stat. 2093][/us/stat/115/2093].)
+([Pub. L. 93–112, title V, § 504][/us/pl/93/112/s504], Sept. 26, 1973, [87 Stat. 394][/us/stat/87/394]; [Pub. L. 95–602, title I][/us/pl/95/602], §§ 119, 122(d)(2), Nov. 6, 1978, [92 Stat. 2982][/us/stat/92/2982], 2987; [Pub. L. 99–506, title I, § 103(d)(2)(B)][/us/pl/99/506/s103/d/2/B], title X, § 1002(e)(4), Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1844; [Pub. L. 100–259, § 4][/us/pl/100/259/s4], Mar. 22, 1988, [102 Stat. 29][/us/stat/102/29]; [Pub. L. 100–630, title II, § 206(d)][/us/pl/100/630/s206/d], Nov. 7, 1988, [102 Stat. 3312][/us/stat/102/3312]; [Pub. L. 102–569, title I, § 102(p)(32)][/us/pl/102/569/s102/p/32], title V, § 506, Oct. 29, 1992, [106 Stat. 4360][/us/stat/106/4360], 4428; [Pub. L. 103–382, title III, § 394(i)(2)][/us/pl/103/382/s394/i/2], Oct. 20, 1994, [108 Stat. 4029][/us/stat/108/4029]; [Pub. L. 105–220, title IV, § 408(a)(3)][/us/pl/105/220/s408/a/3], Aug. 7, 1998, [112 Stat. 1203][/us/stat/112/1203]; [Pub. L. 107–110, title X, § 1076(u)(2)][/us/pl/107/110/s1076/u/2], Jan. 8, 2002, [115 Stat. 2093][/us/stat/115/2093]; [Pub. L. 113–128, title IV, § 456(c)][/us/pl/113/128/s456/c], July 22, 2014, [128 Stat. 1675][/us/stat/128/1675].)
 
  __References in Text__ 
 
@@ -68,6 +68,8 @@
     The Americans with Disabilities Act of 1990, referred to in subsec. (d), is [Pub. L. 101–336][/us/pl/101/336], July 26, 1990, [104 Stat. 327][/us/stat/104/327]. Title I of the Act is classified generally to subchapter I (§ 12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. Section 510 of the Act was renumbered section 511 by [Pub. L. 110–325, § 6(a)(2)][/us/pl/110/325/s6/a/2], Sept. 25, 2008, [122 Stat. 3558][/us/stat/122/3558]. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42][/us/usc/t42/s12101] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (b)(2)(B). [Pub. L. 113–128][/us/pl/113/128] substituted “career and technical education” for “vocational education”.
 
     2002—Subsec. (b)(2)(B). [Pub. L. 107–110][/us/pl/107/110] substituted “[section 7801 of title 20][/us/usc/t20/s7801]” for “[section 8801 of title 20][/us/usc/t20/s8801]”.
 
@@ -146,12 +148,15 @@
 [/us/stat/112/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1203
 [/us/pl/107/110/s1076/u/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1076%2Fu%2F2
 [/us/stat/115/2093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2093
+[/us/pl/113/128/s456/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs456%2Fc
+[/us/stat/128/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1675
 [/us/pl/95/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
 [/us/pl/110/325/s6/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs6%2Fa%2F2
 [/us/stat/122/3558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3558
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t20/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs8801

@@ -21,11 +21,17 @@
 
         (1) __Racial profile__ 
 
-            The racial profile of America is rapidly changing. While the rate of increase for white Americans is 3.2 percent, the rate of increase for racial and ethnic minorities is much higher: 38.6 percent for Latinos, 14.6 percent for African-Americans, and 40.1 percent for Asian-Americans and other ethnic groups. By the year 2000, the Nation will have 260,000,000 people, one of every three of whom will be either African-American, Latino, or Asian-American.
+            The demographic profile of America is rapidly changing. While the percentage increase from 2000 to 2010 for white Americans was 9.7 percent, the percentage increase for racial and ethnic minorities was much higher: 43.0 percent for Latinos, 12.3 percent for African-Americans, and 43.2 percent for Asian-Americans.
 
         (2) __Rate of disability__ 
 
-            Ethnic and racial minorities tend to have disabling conditions at a disproportionately high rate. The rate of work-related disability for American Indians is about one and one-half times that of the general population. African-Americans are also one and one-half times more likely to be disabled than whites and twice as likely to be significantly disabled.
+        Ethnic and racial minorities tend to have disabling conditions at a disproportionately high rate. In 2011—
+
+            (A) among Americans ages 16 through 64, the rate of disability was 12.1 percent;
+
+            (B) among African-Americans in that age range, the disability rate was more than twice as high, at 27.1 percent; and
+
+            (C) for American Indians and Alaska Natives in the same age range, the disability rate was also more than twice as high, at 27.0 percent.
 
         (3) __Inequitable treatment__ 
 
@@ -39,7 +45,7 @@
 
         (1) __In general__ 
 
-            For each fiscal year, the Commissioner and the Director of the National Institute on Disability and Rehabilitation Research (referred to in this subsection as the “Director”) shall reserve 1 percent of the funds appropriated for the fiscal year for programs authorized under subchapters II, III, VI, and VII of this chapter to carry out this subsection. The Commissioner and the Director shall use the reserved funds to carry out one or more of the activities described in paragraph (2) through a grant, contract, or cooperative agreement.
+            For each fiscal year, the Commissioner and the Director of the National Institute on Disability, Independent Living, and Rehabilitation Research (referred to in this subsection as the “Director”) shall reserve 1 percent of the funds appropriated for the fiscal year for programs authorized under subchapters II, III, VI, and VII of this chapter to carry out this subsection. The Commissioner and the Director shall use the reserved funds to carry out one or more of the activities described in paragraph (2) through a grant, contract, or cooperative agreement.
 
         (2) __Activities__ 
 
@@ -73,9 +79,9 @@
 
     (c) __Demonstration__ 
 
-        In awarding grants, or entering into contracts or cooperative agreements under subchapters I, II, III, VI, and VII of this chapter, and [section 794e of this title][/us/usc/t29/s794e], the Commissioner and the Director, in appropriate cases, shall require applicants to demonstrate how the applicants will address, in whole or in part, the needs of individuals with disabilities from minority backgrounds.
+        In awarding grants, or entering into contracts or cooperative agreements under subchapters I, II, III, VI, and VII of this chapter, and [section 794e of this title][/us/usc/t29/s794e], the Commissioner and the Director of the National Institute on Disability, Independent Living, and Rehabilitation Research, in appropriate cases, shall require applicants to demonstrate how the applicants will address, in whole or in part, the needs of individuals with disabilities from minority backgrounds.
 
-([Pub. L. 93–112, § 21][/us/pl/93/112/s21], formerly § 19, as added [Pub. L. 105–220, title IV, § 403][/us/pl/105/220/s403], Aug. 7, 1998, [112 Stat. 1115][/us/stat/112/1115]; renumbered § 21 and amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(a)(1), (b)(6), (c)(3)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–412, 2681–413, 2681–415.)
+([Pub. L. 93–112, § 21][/us/pl/93/112/s21], formerly § 19, as added [Pub. L. 105–220, title IV, § 403][/us/pl/105/220/s403], Aug. 7, 1998, [112 Stat. 1115][/us/stat/112/1115]; renumbered § 21 and amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(a)(1), (b)(6), (c)(3)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–412, 2681–413, 2681–415; [Pub. L. 113–128, title IV, § 409][/us/pl/113/128/s409], July 22, 2014, [128 Stat. 1639][/us/stat/128/1639].)
 
  __Prior Provisions__ 
 
@@ -90,6 +96,14 @@
     Section 718b, [Pub. L. 93–112, § 21][/us/pl/93/112/s21], as added [Pub. L. 102–569, title I, § 111(a)][/us/pl/102/569/s111/a], Oct. 29, 1992, [106 Stat. 4363][/us/stat/106/4363]; amended [Pub. L. 103–73, title I, § 106][/us/pl/103/73/s106], Aug. 11, 1993, [107 Stat. 719][/us/stat/107/719], related to traditionally underserved populations.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1). [Pub. L. 113–128, § 409(1)(A)][/us/pl/113/128/s409/1/A], in first sentence, substituted “demographic” for “racial”; in second sentence, substituted “While the percentage increase from 2000 to 2010” for “While the rate of increase”, “was 9.7” for “is 3.2”, “percentage increase for racial” for “rate of increase for racial”, “was much” for “is much”, “43.0” for “38.6”, “12.3” for “14.6”, and “43.2” for “40.1” and struck out “and other ethnic groups” before period at end; and struck out last sentence which read as follows: “By the year 2000, the Nation will have 260,000,000 people, one of every three of whom will be either African-American, Latino, or Asian-American.”
+
+    Subsec. (a)(2). [Pub. L. 113–128, § 409(1)(B)][/us/pl/113/128/s409/1/B], substituted “In 2011—” and subpars. (A) to (C) for second and third sentences which read as follows: “The rate of work-related disability for American Indians is about one and one-half times that of the general population. African-Americans are also one and one-half times more likely to be disabled than whites and twice as likely to be significantly disabled.”
+
+    Subsec. (b)(1). [Pub. L. 113–128, § 409(2)][/us/pl/113/128/s409/2], substituted “National Institute on Disability, Independent Living, and Rehabilitation Research” for “National Institute on Disability and Rehabilitation Research”.
+
+    Subsec. (c). [Pub. L. 113–128, § 409(3)][/us/pl/113/128/s409/3], substituted “Director of the National Institute on Disability, Independent Living, and Rehabilitation Research” for “Director”.
 
     1998—[Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(b)(6)\], made technical amendment in original to section designation and catchline.
 
@@ -109,6 +123,8 @@
 [/us/stat/112/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1115
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
+[/us/pl/113/128/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs409
+[/us/stat/128/1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1639
 [/us/usc/t29/s718b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs718b
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/105/220/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs403
@@ -130,6 +146,10 @@
 [/us/stat/106/4363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4363
 [/us/pl/103/73/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs106
 [/us/stat/107/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F719
+[/us/pl/113/128/s409/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs409%2F1%2FA
+[/us/pl/113/128/s409/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs409%2F1%2FB
+[/us/pl/113/128/s409/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs409%2F2
+[/us/pl/113/128/s409/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs409%2F3
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 

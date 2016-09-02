@@ -21,19 +21,21 @@
 
         An individual is eligible for assistance under this subchapter if the individual—
 
-            (A) is an individual with a disability under [section 705(20)(A) of this title][/us/usc/t29/s705/20/A]; and
+            (A) has undergone an assessment for determining eligibility and vocational rehabilitation needs and as a result has been determined to be an individual with a disability under [section 705(20)(A) of this title][/us/usc/t29/s705/20/A]; and
 
-            (B) requires vocational rehabilitation services to prepare for, secure, retain, or regain employment.
+            (B) requires vocational rehabilitation services to prepare for, secure, retain, advance in, or regain employment that is consistent with the individual’s strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice.
+
+            For purposes of an assessment for determining eligibility and vocational rehabilitation needs under this chapter, an individual shall be presumed to have a goal of an employment outcome.
 
         (2) __Presumption of benefit__ 
 
-            (A) __Demonstration__ 
+            (A) __Applicants__ 
 
-                For purposes of this section, an individual shall be presumed to be an individual that can benefit in terms of an employment outcome from vocational rehabilitation services under [section 705(20)(A) of this title][/us/usc/t29/s705/20/A], unless the designated State unit involved can demonstrate by clear and convincing evidence that such individual is incapable of benefiting in terms of an employment outcome from vocational rehabilitation services due to the severity of the disability of the individual.
+                For purposes of this section, an individual shall be presumed to be an individual that can benefit in terms of an employment outcome from vocational rehabilitation services under [section 705(20)(A) of this title][/us/usc/t29/s705/20/A].
 
-            (B) __Methods__ 
+            (B) __Responsibilities__ 
 
-                In making the demonstration required under subparagraph (A), the designated State unit shall explore the individual’s abilities, capabilities, and capacity to perform in work situations, through the use of trial work experiences, as described in [section 705(2)(D) of this title][/us/usc/t29/s705/2/D], with appropriate supports provided through the designated State unit, except under limited circumstances when an individual cannot take advantage of such experiences. Such experiences shall be of sufficient variety and over a sufficient period of time to determine the eligibility of the individual or to determine the existence of clear and convincing evidence that the individual is incapable of benefiting in terms of an employment outcome from vocational rehabilitation services due to the severity of the disability of the individual.
+                Prior to determining under this subsection that an applicant described in subparagraph (A) is unable to benefit due to the severity of the individual’s disability or that the individual is ineligible for vocational rehabilitation services, the designated State unit shall explore the individual’s abilities, capabilities, and capacity to perform in work situations, through the use of trial work experiences, as described in [section 705(2)(D) of this title][/us/usc/t29/s705/2/D], with appropriate supports provided through the designated State unit. Such experiences shall be of sufficient variety and over a sufficient period of time to determine the eligibility of the individual. In providing the trial experiences, the designated State unit shall provide the individual with the opportunity to try different employment experiences, including supported employment, and the opportunity to become employed in competitive integrated employment.
 
         (3) __Presumption of eligibility__ 
 
@@ -43,7 +45,7 @@
 
                 (i) considered to be an individual with a significant disability under [section 705(21)(A) of this title][/us/usc/t29/s705/21/A]; and
 
-                (ii) presumed to be eligible for vocational rehabilitation services under this subchapter (provided that the individual intends to achieve an employment outcome consistent with the unique strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice of the individual) unless the designated State unit involved can demonstrate by clear and convincing evidence that such individual is incapable of benefiting in terms of an employment outcome from vocational rehabilitation services due to the severity of the disability of the individual in accordance with paragraph (2).
+                (ii) presumed to be eligible for vocational rehabilitation services under this subchapter (provided that the individual intends to achieve an employment outcome consistent with the unique strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice of the individual) unless the designated State unit involved can demonstrate by clear and convincing evidence that such individual is incapable of benefiting in terms of an employment outcome due to the severity of the individual’s disability (as of the date of the determination).
 
             (B) __Construction__ 
 
@@ -69,21 +71,23 @@
 
         (5) __Determination of ineligibility__ 
 
-        If an individual who applies for services under this subchapter is determined, based on the review of existing data and, to the extent necessary, the assessment activities described in [section 705(2)(A)(ii) of this title][/us/usc/t29/s705/2/A/ii], not to be eligible for the services, or if an eligible individual receiving services under an individualized plan for employment is determined to be no longer eligible for the services—
+        If, after the designated State unit carries out the activities described in paragraph (2)(B), a review of existing data, and, to the extent necessary, the assessment activities described in [section 705(2)(A)(ii) of this title][/us/usc/t29/s705/2/A/ii], an individual who applies for services under this subchapter is determined not to be eligible for the services, or if an eligible individual receiving services under an individualized plan for employment is determined to be no longer eligible for the services—
 
-            (A) the ineligibility determination involved shall be made only after providing an opportunity for full consultation with the individual or, as appropriate, the individual’s representative;
+            (A) the ineligibility determination shall be an individualized one, based on the available data, and shall not be based on assumptions about broad categories of disabilities;
 
-            (B)
+            (B) the ineligibility determination involved shall be made only after providing an opportunity for full consultation with the individual or, as appropriate, the individual’s representative;
+
+            (C)
 
              the individual or, as appropriate, the individual’s representative, shall be informed in writing (supplemented as necessary by other appropriate modes of communication consistent with the informed choice of the individual) of the ineligibility determination, including—
 
-                (i) the reasons for the determination; and
+                (i) the reasons for the determination, including the clear and convincing evidence that forms the basis for the determination of ineligibility; and
 
                 (ii) a description of the means by which the individual may express, and seek a remedy for, any dissatisfaction with the determination, including the procedures for review by an impartial hearing officer under subsection (c) of this section;
 
-            (C) the individual shall be provided with a description of services available from the client assistance program under [section 732 of this title][/us/usc/t29/s732] and information on how to contact that program; and
+            (D) the individual shall be provided with a description of services available from the client assistance program under [section 732 of this title][/us/usc/t29/s732] and information on how to contact that program; and
 
-            (D)
+            (E)
 
              any ineligibility determination that is based on a finding that the individual is incapable of benefiting in terms of an employment outcome shall be reviewed—
 
@@ -105,7 +109,7 @@
 
         If an individual is determined to be eligible for vocational rehabilitation services as described in subsection (a) of this section, the designated State unit shall complete the assessment for determining eligibility and vocational rehabilitation needs, as appropriate, and shall provide the eligible individual or the individual’s representative, in writing and in an appropriate mode of communication, with information on the individual’s options for developing an individualized plan for employment, including—
 
-            (A) information on the availability of assistance, to the extent determined to be appropriate by the eligible individual, from a qualified vocational rehabilitation counselor in developing all or part of the individualized plan for employment for the individual, and the availability of technical assistance in developing all or part of the individualized plan for employment for the individual;
+            (A) information on the availability of assistance from a qualified vocational rehabilitation counselor or, as appropriate, a disability advocacy organization in developing all or part of the individualized plan for employment for the individual, and the availability of technical assistance in developing all or part of the individualized plan for employment for the individual;
 
             (B) a description of the full range of components that shall be included in an individualized plan for employment;
 
@@ -125,7 +129,11 @@
 
                 (ii) a description of the availability of a client assistance program established pursuant to [section 732 of this title][/us/usc/t29/s732] and information about how to contact the client assistance program.
 
-        (2) __Mandatory procedures__ 
+        (2) __Individuals desiring to enter the workforce__ 
+
+            For an individual entitled to benefits under title II or XVI of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401] et seq., 1381 et seq.) on the basis of a disability or blindness, the designated State unit shall provide to the individual general information on additional supports and assistance for individuals with disabilities desiring to enter the workforce, including assistance with benefits planning.
+
+        (3) __Mandatory procedures__ 
 
             (A) __Written document__ 
 
@@ -157,15 +165,21 @@
 
                     (I) a qualified vocational rehabilitation counselor; and
 
-                    (II) the eligible individual or, as appropriate, the individual’s representative; and
+                    (II) the eligible individual or, as appropriate, the individual’s representative;
 
-                (ii) amended, as necessary, by the individual or, as appropriate, the individual’s representative, in collaboration with a representative of the designated State agency or a qualified vocational rehabilitation counselor (to the extent determined to be appropriate by the individual), if there are substantive changes in the employment outcome, the vocational rehabilitation services to be provided, or the service providers of the services (which amendments shall not take effect until agreed to and signed by the eligible individual or, as appropriate, the individual’s representative, and by a qualified vocational rehabilitation counselor employed by the designated State unit).
+                (ii) amended, as necessary, by the individual or, as appropriate, the individual’s representative, in collaboration with a representative of the designated State agency or a qualified vocational rehabilitation counselor (to the extent determined to be appropriate by the individual), if there are substantive changes in the employment outcome, the vocational rehabilitation services to be provided, or the service providers of the services (which amendments shall not take effect until agreed to and signed by the eligible individual or, as appropriate, the individual’s representative, and by a qualified vocational rehabilitation counselor employed by the designated State unit); and
 
-        (3) __Mandatory components of an individualized plan for employment__ 
+                (iii) amended, as necessary, to include the postemployment services and service providers that are necessary for the individual to maintain or regain employment, consistent with the individual’s strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice.
+
+            (F) __Timeframe for completing the individualized plan for employment__ 
+
+                The individualized plan for employment shall be developed as soon as possible, but not later than a deadline of 90 days after the date of the determination of eligibility described in paragraph (1), unless the designated State unit and the eligible individual agree to an extension of that deadline to a specific date by which the individualized plan for employment shall be completed.
+
+        (4) __Mandatory components of an individualized plan for employment__ 
 
         Regardless of the approach selected by an eligible individual to develop an individualized plan for employment, an individualized plan for employment shall, at a minimum, contain mandatory components consisting of—
 
-            (A) a description of the specific employment outcome that is chosen by the eligible individual, consistent with the unique strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice of the eligible individual, and, to the maximum extent appropriate, results in employment in an integrated setting;
+            (A) a description of the specific employment outcome that is chosen by the eligible individual, consistent with the unique strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice of the eligible individual, consistent with the general goal of competitive integrated employment (except that in the case of an eligible individual who is a student, the description may be a description of the student’s projected postschool employment outcome);
 
             (B)
 
@@ -173,9 +187,17 @@
 
                  a description of the specific vocational rehabilitation services that are—
 
-                    (I) needed to achieve the employment outcome, including, as appropriate, the provision of assistive technology devices and assistive technology services, and personal assistance services, including training in the management of such services; and
+                    (I)
 
-                    (II) provided in the most integrated setting that is appropriate for the service involved and is consistent with the informed choice of the eligible individual; and
+                     needed to achieve the employment outcome, including, as appropriate—
+
+                        (aa) the provision of assistive technology devices and assistive technology services (including referrals described in [section 723(a)(3) of this title][/us/usc/t29/s723/a/3] to the device reutilization programs and demonstrations described in subparagraphs (B) and (D) of [section 3003(e)(2) of this title][/us/usc/t29/s3003/e/2] through agreements developed under [section 721(a)(11)(I) of this title][/us/usc/t29/s721/a/11/I]; and
+
+                        (bb) personal assistance services (including training in the management of such services);
+
+                    (II) in the case of a plan for an eligible individual that is a student, the specific transition services and supports needed to achieve the student’s employment outcome or projected postschool employment outcome; and
+
+                    (III) provided in the most integrated setting that is appropriate for the service involved and is consistent with the informed choice of the eligible individual; and
 
                 (ii) timelines for the achievement of the employment outcome and for the initiation of the services;
 
@@ -207,15 +229,17 @@
 
                 (i) the extended services needed by the eligible individual; and
 
-                (ii) the source of extended services or, to the extent that the source of the extended services cannot be identified at the time of the development of the individualized plan for employment, a description of the basis for concluding that there is a reasonable expectation that such source will become available; and
+                (ii) the source of extended services or, to the extent that the source of the extended services cannot be identified at the time of the development of the individualized plan for employment, a description of the basis for concluding that there is a reasonable expectation that such source will become available;
 
-            (G) as determined to be necessary, a statement of projected need for post-employment services.
+            (G) as determined to be necessary, a statement of projected need for post-employment services; and
+
+            (H) for an individual who also is receiving assistance from an employment network under the Ticket to Work and Self-Sufficiency Program established under section 1148 of the Social Security Act ([42 U.S.C. 1320b–19][/us/usc/t42/s1320b–19]), a description of how responsibility for service delivery will be divided between the employment network and the designated State unit.
 
     (c) __Procedures__ 
 
         (1) __In general__ 
 
-            Each State shall establish procedures for mediation of, and procedures for review through an impartial due process hearing of, determinations made by personnel of the designated State unit that affect the provision of vocational rehabilitation services to applicants or eligible individuals.
+            Each State shall establish procedures for mediation of, and procedures for review through an impartial due process hearing of, determinations made by personnel of the designated State unit that affect the provision of vocational rehabilitation services to applicants or eligible individuals. The procedures shall allow an applicant or an eligible individual the opportunity to request mediation, an impartial due process hearing, or both procedures.
 
         (2) __Notification__ 
 
@@ -225,9 +249,11 @@
 
                 (i) the right to obtain review of determinations described in paragraph (1) in an impartial due process hearing under paragraph (5);
 
-                (ii) the right to pursue mediation with respect to the determinations under paragraph (4); and
+                (ii) the right to pursue mediation with respect to the determinations under paragraph (4);
 
-                (iii) the availability of assistance from the client assistance program under [section 732 of this title][/us/usc/t29/s732].
+                (iii) the availability of assistance from the client assistance program under [section 732 of this title][/us/usc/t29/s732]; and
+
+                (iv) any applicable State limit on the time by which a request for mediation under paragraph (4) or a hearing under paragraph (5) shall be made, and any required procedure by which the request shall be made.
 
             (B) __Timing__ 
 
@@ -291,11 +317,11 @@
 
             (A) __Officer__ 
 
-                A due process hearing described in paragraph (2) shall be conducted by an impartial hearing officer who shall issue a decision based on the provisions of the approved State plan, this chapter (including regulations implementing this chapter), and State regulations and policies that are consistent with the Federal requirements specified in this subchapter. The officer shall provide the decision in writing to the applicant or eligible individual, or, as appropriate, the applicant’s representative or individual’s representative, and to the designated State unit.
+                A due process hearing described in paragraph (2) shall be conducted by an impartial hearing officer who, on reviewing the evidence presented, shall issue a written decision based on the provisions of the approved State plan, requirements specified in this chapter (including regulations implementing this chapter), and State regulations and policies that are consistent with the Federal requirements specified in this subchapter. The officer shall provide the written decision to the applicant or eligible individual, or, as appropriate, the applicant’s representative or individual’s representative, and to the designated State unit. The impartial hearing officer shall have the authority to render a decision and require actions regarding the applicant’s or eligible individual’s vocational rehabilitation services under this subchapter.
 
             (B) __List__ 
 
-            The designated State unit shall maintain a list of qualified impartial hearing officers who are knowledgeable in laws (including regulations) relating to the provision of vocational rehabilitation services under this subchapter from which the officer described in subparagraph (A) shall be selected. For the purposes of maintaining such list, impartial hearing officers shall be identified jointly by—
+            The designated State unit shall maintain a list of qualified impartial hearing officers who are knowledgeable about Federal laws (including regulations) relating to the provision of vocational rehabilitation services under this subchapter from which the officer described in subparagraph (A) shall be selected. For the purposes of maintaining such list, impartial hearing officers shall be identified jointly by—
 
                 (i) the designated State unit; and
 
@@ -439,11 +465,11 @@
 
         (5) to ensure that the availability and scope of informed choice provided under this section is consistent with the obligations of the designated State agency under this subchapter.
 
-([Pub. L. 93–112, title I, § 102][/us/pl/93/112/s102], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1138][/us/stat/112/1138]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(c)(5)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–415.)
+([Pub. L. 93–112, title I, § 102][/us/pl/93/112/s102], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1138][/us/stat/112/1138]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(c)(5)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–415; [Pub. L. 113–128, title IV, § 413][/us/pl/113/128/s413], July 22, 2014, [128 Stat. 1649][/us/stat/128/1649].)
 
  __References in Text__ 
 
-    The Social Security Act, referred to in subsec. (a)(3)(A), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Titles II and XVI of the Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
+    The Social Security Act, referred to in subsecs. (a)(3)(A) and (b)(2), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Titles II and XVI of the Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
  __Prior Provisions__ 
 
@@ -451,7 +477,55 @@
 
  __Amendments__ 
 
+    2014—Subsec. (a)(1). [Pub. L. 113–128, § 413(a)(1)(C)][/us/pl/113/128/s413/a/1/C], which directed the insertion “at the end” of “For purposes of an assessment for determining eligibility and vocational rehabilitation needs under this chapter, an individual shall be presumed to have a goal of an employment outcome.”, was executed by inserting text as concluding provisions of par. (1) to reflect the probable intent of Congress.
+
+    Subsec. (a)(1)(A). [Pub. L. 113–128, § 413(a)(1)(A)][/us/pl/113/128/s413/a/1/A], substituted “has undergone an assessment for determining eligibility and vocational rehabilitation needs and as a result has been determined to be an” for “is an”.
+
+    Subsec. (a)(1)(B). [Pub. L. 113–128, § 413(a)(1)(B)][/us/pl/113/128/s413/a/1/B], substituted “advance in, or regain employment that is consistent with the individual’s strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice.” for “or regain employment.”
+
+    Subsec. (a)(2)(A). [Pub. L. 113–128, § 413(a)(2)(A)][/us/pl/113/128/s413/a/2/A], substituted “Applicants” for “Demonstration” in heading and struck out “, unless the designated State unit involved can demonstrate by clear and convincing evidence that such individual is incapable of benefiting in terms of an employment outcome from vocational rehabilitation services due to the severity of the disability of the individual” before period at end.
+
+    Subsec. (a)(2)(B). [Pub. L. 113–128, § 413(a)(2)(B)][/us/pl/113/128/s413/a/2/B], in heading, substituted “Responsibilities” for “Methods” and, in text, substituted “Prior to determining under this subsection that an applicant described in subparagraph (A) is unable to benefit due to the severity of the individual’s disability or that the individual is ineligible for vocational rehabilitation services,” for “In making the demonstration required under subparagraph (A),”, “through the designated State unit.” for “through the designated State unit, except under limited circumstances when an individual cannot take advantage of such experiences.”, and “individual. In providing the trial experiences, the designated State unit shall provide the individual with the opportunity to try different employment experiences, including supported employment, and the opportunity to become employed in competitive integrated employment.” for “individual or to determine the existence of clear and convincing evidence that the individual is incapable of benefiting in terms of an employment outcome from vocational rehabilitation services due to the severity of the disability of the individual.”
+
+    Subsec. (a)(3)(A)(ii). [Pub. L. 113–128, § 413(a)(3)][/us/pl/113/128/s413/a/3], substituted “outcome due to the severity of the individual’s disability (as of the date of the determination).” for “outcome from vocational rehabilitation services due to the severity of the disability of the individual in accordance with paragraph (2).”
+
+    Subsec. (a)(5). [Pub. L. 113–128, § 413(a)(4)(B)][/us/pl/113/128/s413/a/4/B], (C), added subpar. (A) and redesignated former subpars. (A) to (D) as (B) to (E), respectively.
+
+    [Pub. L. 113–128, § 413(a)(4)(A)][/us/pl/113/128/s413/a/4/A], in introductory provisions, substituted “If, after the designated State unit carries out the activities described in paragraph (2)(B), a review of existing data, and, to the extent necessary, the assessment activities described in [section 705(2)(A)(ii) of this title][/us/usc/t29/s705/2/A/ii], an individual” for “If an individual” and “subchapter is determined not to be” for “subchapter is determined, based on the review of existing data and, to the extent necessary, the assessment activities described in [section 705(2)(A)(ii) of this title][/us/usc/t29/s705/2/A/ii], not to be”.
+
+    Subsec. (a)(5)(C)(i). [Pub. L. 113–128, § 413(a)(4)(D)][/us/pl/113/128/s413/a/4/D], inserted “, including the clear and convincing evidence that forms the basis for the determination of ineligibility” after “determination”.
+
+    Subsec. (b)(1)(A). [Pub. L. 113–128, § 413(b)(1)][/us/pl/113/128/s413/b/1], struck out “, to the extent determined to be appropriate by the eligible individual,” after “availability of assistance” and inserted “or, as appropriate, a disability advocacy organization” after “counselor”.
+
+    Subsec. (b)(2). [Pub. L. 113–128, § 413(b)(3)][/us/pl/113/128/s413/b/3], added par. (2). Former par. (2) redesignated (3).
+
+    Subsec. (b)(3). [Pub. L. 113–128, § 413(b)(2)][/us/pl/113/128/s413/b/2], redesignated par. (2) as (3). Former par. (3) redesignated (4).
+
+    Subsec. (b)(3)(E)(iii). [Pub. L. 113–128, § 413(b)(4)(A)][/us/pl/113/128/s413/b/4/A], added cl. (iii).
+
+    Subsec. (b)(3)(F). [Pub. L. 113–128, § 413(b)(4)(B)][/us/pl/113/128/s413/b/4/B], added subpar. (F).
+
+    Subsec. (b)(4). [Pub. L. 113–128, § 413(b)(2)][/us/pl/113/128/s413/b/2], redesignated par. (3) as (4).
+
+    Subsec. (b)(4)(A). [Pub. L. 113–128, § 413(b)(5)(A)][/us/pl/113/128/s413/b/5/A], substituted “choice of the eligible individual, consistent with the general goal of competitive integrated employment (except that in the case of an eligible individual who is a student, the description may be a description of the student’s projected postschool employment outcome);” for “choice of the eligible individual, and, to the maximum extent appropriate, results in employment in an integrated setting;”.
+
+    Subsec. (b)(4)(B)(i). [Pub. L. 113–128, § 413(b)(5)(B)][/us/pl/113/128/s413/b/5/B], added subcls. (I) and (II), redesignated former subcl. (II) as (III), and struck out former subcl. (I) which read as follows: “needed to achieve the employment outcome, including, as appropriate, the provision of assistive technology devices and assistive technology services, and personal assistance services, including training in the management of such services; and”.
+
+    Subsec. (b)(4)(H). [Pub. L. 113–128, § 413(b)(5)(C)][/us/pl/113/128/s413/b/5/C]–(E), added subpar. (H).
+
+    Subsec. (c)(1). [Pub. L. 113–128, § 413(c)(1)][/us/pl/113/128/s413/c/1], inserted at end “The procedures shall allow an applicant or an eligible individual the opportunity to request mediation, an impartial due process hearing, or both procedures.”
+
+    Subsec. (c)(2)(A)(iv). [Pub. L. 113–128, § 413(c)(2)][/us/pl/113/128/s413/c/2], added cl. (iv).
+
+    Subsec. (c)(5)(A). [Pub. L. 113–128, § 413(c)(3)(A)][/us/pl/113/128/s413/c/3/A], added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “A due process hearing described in paragraph (2) shall be conducted by an impartial hearing officer who shall issue a decision based on the provisions of the approved State plan, this chapter (including regulations implementing this chapter), and State regulations and policies that are consistent with the Federal requirements specified in this subchapter. The officer shall provide the decision in writing to the applicant or eligible individual, or, as appropriate, the applicant’s representative or individual’s representative, and to the designated State unit.”
+
+    Subsec. (c)(5)(B). [Pub. L. 113–128, § 413(c)(3)(B)][/us/pl/113/128/s413/c/3/B], substituted “about Federal laws” for “in laws” in introductory provisions.
+
     1998—Subsec. (c)(5)(F)(iv). [Pub. L. 105–277][/us/pl/105/277] added cl. (iv).
+
+ __Definitions of Terms in__  __[__  __Pub. L. 113–128__  __][/us/pl/113/128]__ 
+
+    Except as otherwise provided, terms defined in [section 3 of Pub. L. 113–128][/us/pl/113/128/s3], which is classified to [section 3102 of this title][/us/usc/t29/s3102], apply to this section.
 
 ----------
 
@@ -473,8 +547,13 @@
 [/us/usc/t29/s705/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs705%2F2%2FA%2Fii
 [/us/usc/t29/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs732
 [/us/usc/t29/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs732
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t29/s723/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs723%2Fa%2F3
+[/us/usc/t29/s3003/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3003%2Fe%2F2
+[/us/usc/t29/s721/a/11/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs721%2Fa%2F11%2FI
 [/us/usc/t29/s721/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs721%2Fa%2F8
 [/us/usc/t29/s721/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs721%2Fa%2F8
+[/us/usc/t42/s1320b–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319
 [/us/usc/t29/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs732
 [/us/usc/t29/s721/a/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs721%2Fa%2F21
 [/us/usc/t29/s721/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs721%2Fa%2F2
@@ -485,6 +564,8 @@
 [/us/stat/112/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1138
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
+[/us/pl/113/128/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413
+[/us/stat/128/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1649
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -507,6 +588,33 @@
 [/us/pl/103/73/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs107%2Fb
 [/us/stat/107/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F720
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/113/128/s413/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fa%2F1%2FC
+[/us/pl/113/128/s413/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fa%2F1%2FA
+[/us/pl/113/128/s413/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fa%2F1%2FB
+[/us/pl/113/128/s413/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fa%2F2%2FA
+[/us/pl/113/128/s413/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fa%2F2%2FB
+[/us/pl/113/128/s413/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fa%2F3
+[/us/pl/113/128/s413/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fa%2F4%2FB
+[/us/pl/113/128/s413/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fa%2F4%2FA
+[/us/usc/t29/s705/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs705%2F2%2FA%2Fii
+[/us/usc/t29/s705/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs705%2F2%2FA%2Fii
+[/us/pl/113/128/s413/a/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fa%2F4%2FD
+[/us/pl/113/128/s413/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fb%2F1
+[/us/pl/113/128/s413/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fb%2F3
+[/us/pl/113/128/s413/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fb%2F2
+[/us/pl/113/128/s413/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fb%2F4%2FA
+[/us/pl/113/128/s413/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fb%2F4%2FB
+[/us/pl/113/128/s413/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fb%2F2
+[/us/pl/113/128/s413/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fb%2F5%2FA
+[/us/pl/113/128/s413/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fb%2F5%2FB
+[/us/pl/113/128/s413/b/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fb%2F5%2FC
+[/us/pl/113/128/s413/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fc%2F1
+[/us/pl/113/128/s413/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fc%2F2
+[/us/pl/113/128/s413/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fc%2F3%2FA
+[/us/pl/113/128/s413/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fc%2F3%2FB
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs3
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 
 

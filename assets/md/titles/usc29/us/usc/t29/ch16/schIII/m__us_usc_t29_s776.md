@@ -11,19 +11,21 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t29/ch16/schIII/m__us_usc_t29_s775.md) | [Next](./../../../../..//us/usc/t29/ch16/schIV/m__us_usc_t29_ch16_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs776)
+[Previous](./../../../../..//us/usc/t29/ch16/schIII/m__us_usc_t29_s773.md) | [Next](./../../../../..//us/usc/t29/ch16/schIV/m__us_usc_t29_ch16_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs776)
 
 ## § 776. Measuring of project outcomes and performance
 
     The Commissioner may require that recipients of grants under this subchapter submit information, including data, as determined by the Commissioner to be necessary to measure project outcomes and performance, including any data needed to comply with the Government Performance and Results Act.
 
-([Pub. L. 93–112, title III, § 306][/us/pl/93/112/s306], as added [Pub. L. 105–220, title IV, § 406][/us/pl/105/220/s406], Aug. 7, 1998, [112 Stat. 1197][/us/stat/112/1197].)
+([Pub. L. 93–112, title III, § 304][/us/pl/93/112/s304], formerly § 306, as added [Pub. L. 105–220, title IV, § 406][/us/pl/105/220/s406], Aug. 7, 1998, [112 Stat. 1197][/us/stat/112/1197]; renumbered § 304, [Pub. L. 113–128, title IV, § 443(2)][/us/pl/113/128/s443/2], July 22, 2014, [128 Stat. 1674][/us/stat/128/1674].)
 
  __References in Text__ 
 
     The Government Performance and Results Act, referred to in text, probably means the Government Performance and Results Act of 1993, [Pub. L. 103–62][/us/pl/103/62], Aug. 3, 1993, [107 Stat. 285][/us/stat/107/285], which enacted [section 306 of Title 5][/us/usc/t5/s306], Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended [section 1105 of Title 31][/us/usc/t31/s1105], and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under [section 1101 of Title 31][/us/usc/t31/s1101] and Tables.
 
  __Prior Provisions__ 
+
+    A prior [section 304 of Pub. L. 93–112][/us/pl/93/112/s304] was classified to [section 774 of this title][/us/usc/t29/s774] prior to repeal by [Pub. L. 113–128, § 443(1)][/us/pl/113/128/s443/1].
 
     Prior sections 776 to 777b were omitted in the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
@@ -33,7 +35,7 @@
 
     Section 777a, [Pub. L. 93–112, title III, § 311][/us/pl/93/112/s311], as added [Pub. L. 95–602, title I, § 116(2)][/us/pl/95/602/s116/2], Nov. 6, 1978, [92 Stat. 2973][/us/stat/92/2973]; amended [Pub. L. 98–221, title I, § 136][/us/pl/98/221/s136], Feb. 22, 1984, [98 Stat. 26][/us/stat/98/26]; [Pub. L. 99–506, title I, § 103(d)(2)(C)][/us/pl/99/506/s103/d/2/C], title III, § 302(b), title IV, § 406, Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1821, 1826; [Pub. L. 100–630, title II, § 204(g)][/us/pl/100/630/s204/g], Nov. 7, 1988, [102 Stat. 3309][/us/stat/102/3309]; [Pub. L. 102–52, § 4(e)(2)][/us/pl/102/52/s4/e/2], June 6, 1991, [105 Stat. 261][/us/stat/105/261]; [Pub. L. 102–119, § 26(e)][/us/pl/102/119/s26/e], Oct. 7, 1991, [105 Stat. 607][/us/stat/105/607]; [Pub. L. 102–569, title I, § 102(p)(21)][/us/pl/102/569/s102/p/21], title III, § 308, Oct. 29, 1992, [106 Stat. 4359][/us/stat/106/4359], 4418; [Pub. L. 103–73, title I, § 110(c)][/us/pl/103/73/s110/c], Aug. 11, 1993, [107 Stat. 726][/us/stat/107/726]; [Pub. L. 104–66, title I, § 1041(b)][/us/pl/104/66/s1041/b], Dec. 21, 1995, [109 Stat. 714][/us/stat/109/714], related to special demonstration programs.
 
-    Section 777b, [Pub. L. 93–112, title III, § 312][/us/pl/93/112/s312], as added [Pub. L. 95–602, title I, § 116(2)][/us/pl/95/602/s116/2], Nov. 6, 1978, [92 Stat. 2974][/us/stat/92/2974]; amended [Pub. L. 99–506, title I, § 103(d)(2)(C)][/us/pl/99/506/s103/d/2/C], Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810]; [Pub. L. 100–630, title II, § 204(h)][/us/pl/100/630/s204/h], Nov. 7, 1988, [102 Stat. 3309][/us/stat/102/3309]; [Pub. L. 102–569, title I, § 102(p)(22)][/us/pl/102/569/s102/p/22], title III, § 309, Oct. 29, 1992, [106 Stat. 4359][/us/stat/106/4359], 4420, related to migratory workers, maintenance payments, and coordination with other programs. See [section 774 of this title][/us/usc/t29/s774].
+    Section 777b, [Pub. L. 93–112, title III, § 312][/us/pl/93/112/s312], as added [Pub. L. 95–602, title I, § 116(2)][/us/pl/95/602/s116/2], Nov. 6, 1978, [92 Stat. 2974][/us/stat/92/2974]; amended [Pub. L. 99–506, title I, § 103(d)(2)(C)][/us/pl/99/506/s103/d/2/C], Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810]; [Pub. L. 100–630, title II, § 204(h)][/us/pl/100/630/s204/h], Nov. 7, 1988, [102 Stat. 3309][/us/stat/102/3309]; [Pub. L. 102–569, title I, § 102(p)(22)][/us/pl/102/569/s102/p/22], title III, § 309, Oct. 29, 1992, [106 Stat. 4359][/us/stat/106/4359], 4420, related to migratory workers, maintenance payments, and coordination with other programs.
 
     A prior section 777c, [Pub. L. 93–112, title III, § 313][/us/pl/93/112/s313], as added [Pub. L. 95–602, title I, § 116(2)][/us/pl/95/602/s116/2], Nov. 6, 1978, [92 Stat. 2974][/us/stat/92/2974], related to Helen Keller National Center for Deaf-Blind Youths and Adults, prior to repeal by [Pub. L. 98–221, title II, § 203(a)][/us/pl/98/221/s203/a], Feb. 22, 1984, [98 Stat. 33][/us/stat/98/33]. See chapter 21 (§ 1901 et seq.) of this title.
 
@@ -45,23 +47,28 @@
 
     Section 777e, [Pub. L. 93–112, title III, § 315][/us/pl/93/112/s315], as added [Pub. L. 95–602, title I, § 116(2)][/us/pl/95/602/s116/2], Nov. 6, 1978, [92 Stat. 2975][/us/stat/92/2975]; amended [Pub. L. 102–569, title I, § 102(p)(24)][/us/pl/102/569/s102/p/24], Oct. 29, 1992, [106 Stat. 4359][/us/stat/106/4359], related to interpreter services for individuals who are deaf.
 
-    Section 777f, [Pub. L. 93–112, title III, § 316][/us/pl/93/112/s316], as added [Pub. L. 95–602, title I, § 116(2)][/us/pl/95/602/s116/2], Nov. 6, 1978, [92 Stat. 2976][/us/stat/92/2976]; amended [Pub. L. 98–221, title I, § 137][/us/pl/98/221/s137], Feb. 22, 1984, [98 Stat. 26][/us/stat/98/26]; [Pub. L. 99–506, title I, § 103(d)(2)(C)][/us/pl/99/506/s103/d/2/C], title IV, § 407, Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1827; [Pub. L. 100–630, title II, § 204(j)][/us/pl/100/630/s204/j], Nov. 7, 1988, [102 Stat. 3309][/us/stat/102/3309]; [Pub. L. 102–52, § 4(e)(3)][/us/pl/102/52/s4/e/3], June 6, 1991, [105 Stat. 261][/us/stat/105/261]; [Pub. L. 102–569, title I, § 102(p)(25)][/us/pl/102/569/s102/p/25], title III, § 310, Oct. 29, 1992, [106 Stat. 4359][/us/stat/106/4359], 4420; [Pub. L. 103–73, title I, § 110(d)][/us/pl/103/73/s110/d], Aug. 11, 1993, [107 Stat. 726][/us/stat/107/726], related to special recreational programs. See [section 775 of this title][/us/usc/t29/s775].
+    Section 777f, [Pub. L. 93–112, title III, § 316][/us/pl/93/112/s316], as added [Pub. L. 95–602, title I, § 116(2)][/us/pl/95/602/s116/2], Nov. 6, 1978, [92 Stat. 2976][/us/stat/92/2976]; amended [Pub. L. 98–221, title I, § 137][/us/pl/98/221/s137], Feb. 22, 1984, [98 Stat. 26][/us/stat/98/26]; [Pub. L. 99–506, title I, § 103(d)(2)(C)][/us/pl/99/506/s103/d/2/C], title IV, § 407, Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1827; [Pub. L. 100–630, title II, § 204(j)][/us/pl/100/630/s204/j], Nov. 7, 1988, [102 Stat. 3309][/us/stat/102/3309]; [Pub. L. 102–52, § 4(e)(3)][/us/pl/102/52/s4/e/3], June 6, 1991, [105 Stat. 261][/us/stat/105/261]; [Pub. L. 102–569, title I, § 102(p)(25)][/us/pl/102/569/s102/p/25], title III, § 310, Oct. 29, 1992, [106 Stat. 4359][/us/stat/106/4359], 4420; [Pub. L. 103–73, title I, § 110(d)][/us/pl/103/73/s110/d], Aug. 11, 1993, [107 Stat. 726][/us/stat/107/726], related to special recreational programs.
 
 ----------
 
-[Previous](./../../../../..//us/usc/t29/ch16/schIII/m__us_usc_t29_s775.md) | [Next](./../../../../..//us/usc/t29/ch16/schIV/m__us_usc_t29_ch16_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs776)
+[Previous](./../../../../..//us/usc/t29/ch16/schIII/m__us_usc_t29_s773.md) | [Next](./../../../../..//us/usc/t29/ch16/schIV/m__us_usc_t29_ch16_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs776)
 
 ----------
 ----------
 
-[/us/pl/93/112/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs306
+[/us/pl/93/112/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs304
 [/us/pl/105/220/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs406
 [/us/stat/112/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1197
+[/us/pl/113/128/s443/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs443%2F2
+[/us/stat/128/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1674
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F285
 [/us/usc/t5/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs306
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t31/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1101
+[/us/pl/93/112/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs304
+[/us/usc/t29/s774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs774
+[/us/pl/113/128/s443/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs443%2F1
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/93/112/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs306
 [/us/stat/87/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F384
@@ -120,7 +127,6 @@
 [/us/stat/102/3309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3309
 [/us/pl/102/569/s102/p/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs102%2Fp%2F22
 [/us/stat/106/4359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4359
-[/us/usc/t29/s774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs774
 [/us/pl/93/112/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs313
 [/us/pl/95/602/s116/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs116%2F2
 [/us/stat/92/2974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2974
@@ -169,6 +175,5 @@
 [/us/stat/106/4359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4359
 [/us/pl/103/73/s110/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs110%2Fd
 [/us/stat/107/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F726
-[/us/usc/t29/s775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs775
 
 

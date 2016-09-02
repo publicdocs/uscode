@@ -185,9 +185,9 @@
 
     (j) __Authorization of appropriations__ 
 
-        There are authorized to be appropriated for the purpose of carrying out the duties and functions of the Access Board under this section such sums as may be necessary for each of the fiscal years 1999 through 2003.
+        There are authorized to be appropriated for the purpose of carrying out the duties and functions of the Access Board under this section $7,448,000 for fiscal year 2015, $8,023,000 for fiscal year 2016, $8,190,000 for fiscal year 2017, $8,371,000 for fiscal year 2018, $8,568,000 for fiscal year 2019, and $8,750,000 for fiscal year 2020.
 
-([Pub. L. 93–112, title V, § 502][/us/pl/93/112/s502], Sept. 26, 1973, [87 Stat. 391][/us/stat/87/391]; [Pub. L. 93–516, title I][/us/pl/93/516], §§ 110, 111(n)–(q), Dec. 7, 1974, [88 Stat. 1619][/us/stat/88/1619], 1621, 1622; [Pub. L. 93–651, title I][/us/pl/93/651], §§ 110, 111(n)–(q), Nov. 21, 1974, [89 Stat. 2–4][/us/stat/89/2-4], 2–6, 2–7; [Pub. L. 94–230][/us/pl/94/230], §§ 10, 11(b)(13), Mar. 15, 1976, [90 Stat. 212][/us/stat/90/212], 214; [Pub. L. 95–251, § 2(a)(8)][/us/pl/95/251/s2/a/8], Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183]; [Pub. L. 95–602, title I, § 118][/us/pl/95/602/s118], Nov. 6, 1978, [92 Stat. 2979][/us/stat/92/2979]; [Pub. L. 96–374, title XIII, § 1321][/us/pl/96/374/s1321], Oct. 3, 1980, [94 Stat. 1499][/us/stat/94/1499]; [Pub. L. 98–221, title I, § 151][/us/pl/98/221/s151], Feb. 22, 1984, [98 Stat. 28][/us/stat/98/28]; [Pub. L. 99–506, title I, § 103(d)(2)(C)][/us/pl/99/506/s103/d/2/C], title VI, § 601, title X, § 1002(e)(2)(B)–(D), Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1829, 1844; [Pub. L. 100–630, title II, § 206(b)][/us/pl/100/630/s206/b], Nov. 7, 1988, [102 Stat. 3311][/us/stat/102/3311]; [Pub. L. 102–52, § 6][/us/pl/102/52/s6], June 6, 1991, [105 Stat. 262][/us/stat/105/262]; [Pub. L. 102–54, § 13(k)(1)(A)][/us/pl/102/54/s13/k/1/A], June 13, 1991, [105 Stat. 276][/us/stat/105/276]; [Pub. L. 102–569, title I, § 102(p)(30)][/us/pl/102/569/s102/p/30], title V, § 504, Oct. 29, 1992, [106 Stat. 4360][/us/stat/106/4360], 4424; [Pub. L. 103–73, title I, § 112(b)][/us/pl/103/73/s112/b], Aug. 11, 1993, [107 Stat. 727][/us/stat/107/727]; [Pub. L. 105–220, title IV, § 408(a)(2)][/us/pl/105/220/s408/a/2], Aug. 7, 1998, [112 Stat. 1202][/us/stat/112/1202]; [Pub. L. 105–394, title II, § 203(a)][/us/pl/105/394/s203/a], Nov. 13, 1998, [112 Stat. 3653][/us/stat/112/3653]; [Pub. L. 108–364, § 3(b)(3)][/us/pl/108/364/s3/b/3], Oct. 25, 2004, [118 Stat. 1737][/us/stat/118/1737].)
+([Pub. L. 93–112, title V, § 502][/us/pl/93/112/s502], Sept. 26, 1973, [87 Stat. 391][/us/stat/87/391]; [Pub. L. 93–516, title I][/us/pl/93/516], §§ 110, 111(n)–(q), Dec. 7, 1974, [88 Stat. 1619][/us/stat/88/1619], 1621, 1622; [Pub. L. 93–651, title I][/us/pl/93/651], §§ 110, 111(n)–(q), Nov. 21, 1974, [89 Stat. 2–4][/us/stat/89/2-4], 2–6, 2–7; [Pub. L. 94–230][/us/pl/94/230], §§ 10, 11(b)(13), Mar. 15, 1976, [90 Stat. 212][/us/stat/90/212], 214; [Pub. L. 95–251, § 2(a)(8)][/us/pl/95/251/s2/a/8], Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183]; [Pub. L. 95–602, title I, § 118][/us/pl/95/602/s118], Nov. 6, 1978, [92 Stat. 2979][/us/stat/92/2979]; [Pub. L. 96–374, title XIII, § 1321][/us/pl/96/374/s1321], Oct. 3, 1980, [94 Stat. 1499][/us/stat/94/1499]; [Pub. L. 98–221, title I, § 151][/us/pl/98/221/s151], Feb. 22, 1984, [98 Stat. 28][/us/stat/98/28]; [Pub. L. 99–506, title I, § 103(d)(2)(C)][/us/pl/99/506/s103/d/2/C], title VI, § 601, title X, § 1002(e)(2)(B)–(D), Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1829, 1844; [Pub. L. 100–630, title II, § 206(b)][/us/pl/100/630/s206/b], Nov. 7, 1988, [102 Stat. 3311][/us/stat/102/3311]; [Pub. L. 102–52, § 6][/us/pl/102/52/s6], June 6, 1991, [105 Stat. 262][/us/stat/105/262]; [Pub. L. 102–54, § 13(k)(1)(A)][/us/pl/102/54/s13/k/1/A], June 13, 1991, [105 Stat. 276][/us/stat/105/276]; [Pub. L. 102–569, title I, § 102(p)(30)][/us/pl/102/569/s102/p/30], title V, § 504, Oct. 29, 1992, [106 Stat. 4360][/us/stat/106/4360], 4424; [Pub. L. 103–73, title I, § 112(b)][/us/pl/103/73/s112/b], Aug. 11, 1993, [107 Stat. 727][/us/stat/107/727]; [Pub. L. 105–220, title IV, § 408(a)(2)][/us/pl/105/220/s408/a/2], Aug. 7, 1998, [112 Stat. 1202][/us/stat/112/1202]; [Pub. L. 105–394, title II, § 203(a)][/us/pl/105/394/s203/a], Nov. 13, 1998, [112 Stat. 3653][/us/stat/112/3653]; [Pub. L. 108–364, § 3(b)(3)][/us/pl/108/364/s3/b/3], Oct. 25, 2004, [118 Stat. 1737][/us/stat/118/1737]; [Pub. L. 113–128, title IV, § 456(b)][/us/pl/113/128/s456/b], July 22, 2014, [128 Stat. 1675][/us/stat/128/1675].)
 
  __References in Text__ 
 
@@ -202,6 +202,8 @@
     Subsecs. (h) and (i)(3) of this section, which required the Board to submit an annual report on its activities to Congress and, at the same time the Board transmits the report required under [section 4157(b) of Title 42][/us/usc/t42/s4157/b], The Public Health and Welfare, to transmit that report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, items 4 to 6 on page 155 of House Document No. 103–7.
 
  __Amendments__ 
+
+    2014—Subsec. (j). [Pub. L. 113–128][/us/pl/113/128] substituted “$7,448,000 for fiscal year 2015, $8,023,000 for fiscal year 2016, $8,190,000 for fiscal year 2017, $8,371,000 for fiscal year 2018, $8,568,000 for fiscal year 2019, and $8,750,000 for fiscal year 2020.” for “such sums as may be necessary for each of the fiscal years 1999 through 2003.”
 
     2004—Subsec. (d). [Pub. L. 108–364][/us/pl/108/364] substituted “targeted individuals and entities” for “targeted individuals”.
 
@@ -526,6 +528,8 @@
 [/us/stat/112/3653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3653
 [/us/pl/108/364/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364%2Fs3%2Fb%2F3
 [/us/stat/118/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1737
+[/us/pl/113/128/s456/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs456%2Fb
+[/us/stat/128/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1675
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/pl/90/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F480
 [/us/stat/82/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F718
@@ -536,6 +540,7 @@
 [/us/usc/t42/s4157/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4157%2Fb
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/108/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364
 [/us/pl/105/220/s408/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs408%2Fa%2F2%2FA
 [/us/pl/105/220/s408/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs408%2Fa%2F2%2FB%2Fi

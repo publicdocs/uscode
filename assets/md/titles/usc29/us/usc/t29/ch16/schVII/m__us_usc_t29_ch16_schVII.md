@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t29/ch16/schVI/ptB/m__us_usc_t29_s795n.md) | [Next](./../../../../..//us/usc/t29/ch16/schVII/ptA/m__us_usc_t29_ch16_schVII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch16%2FschVII)
+[Previous](./../../../../..//us/usc/t29/ch16/schVI/m__us_usc_t29_s795o.md) | [Next](./../../../../..//us/usc/t29/ch16/schVII/ptA/m__us_usc_t29_ch16_schVII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch16%2FschVII)
 
 ### SUBCHAPTER VII—INDEPENDENT LIVING SERVICES AND CENTERS FOR INDEPENDENT LIVING
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t29/ch16/schVI/ptB/m__us_usc_t29_s795n.md) | [Next](./../../../../..//us/usc/t29/ch16/schVII/ptA/m__us_usc_t29_ch16_schVII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch16%2FschVII)
+[Previous](./../../../../..//us/usc/t29/ch16/schVI/m__us_usc_t29_s795o.md) | [Next](./../../../../..//us/usc/t29/ch16/schVII/ptA/m__us_usc_t29_ch16_schVII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch16%2FschVII)
 
 ----------
 ----------

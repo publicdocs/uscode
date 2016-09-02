@@ -103,6 +103,10 @@
 
 ([Pub. L. 105–220, title I, § 167][/us/pl/105/220/s167], Aug. 7, 1998, [112 Stat. 1025][/us/stat/112/1025]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 401(8)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–411.)
 
+ __Repeal of Section__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is repealed.
+
  __References in Text__ 
 
     The Single Audit Act of 1984, referred to in subsec. (g), is [Pub. L. 98–502][/us/pl/98/502], Oct. 19, 1984, [98 Stat. 2327][/us/stat/98/2327], which enacted chapter 75 (§ 7501 et seq.) of Title 31, Money and Finance, and provisions set out as notes under [section 7501 of Title 31][/us/usc/t31/s7501]. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under [section 7501 of Title 31][/us/usc/t31/s7501] and Tables.
@@ -117,6 +121,10 @@
 
     1998—Subsec. (d). [Pub. L. 105–277][/us/pl/105/277] inserted “and [section 2852(b)(1)(A)(iii) of this title][/us/usc/t29/s2852/b/1/A/iii]” after “this section”.
 
+ __Effective Date of Repeal__ 
+
+    Repeal effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of this title][/us/usc/t29/s3101].
+
 ----------
 
 [Previous](./../../../../..//us/usc/t29/ch30/schIV/m__us_usc_t29_s2911.md) | [Next](./../../../../..//us/usc/t29/ch30/schIV/m__us_usc_t29_s2913.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2912)
@@ -129,6 +137,8 @@
 [/us/stat/112/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1025
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/98/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F502
 [/us/stat/98/2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2327
 [/us/usc/t31/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs7501
@@ -139,5 +149,7 @@
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t29/s2852/b/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2852%2Fb%2F1%2FA%2Fiii
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

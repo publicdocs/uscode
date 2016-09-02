@@ -15,7 +15,7 @@
 
 # Title 29—LABOR
 
-Current through 113-145not128u1
+Current through 113–163not159
 
 <table>
 
@@ -376,6 +376,16 @@ Current through 113-145not128u1
     <td> Assistive Technology for Individuals With Disabilities  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs3001" data-uslm-ref="/us/usc/t29/s3001">3001</a>  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fch32" data-uslm-ref="/us/usc/t29/ch32">32.</a>  </td>
+
+    <td> Workforce Innovation and Opportunity  </td>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs3101" data-uslm-ref="/us/usc/t29/s3101">3101</a>  </td>
 
   </tr>
 
