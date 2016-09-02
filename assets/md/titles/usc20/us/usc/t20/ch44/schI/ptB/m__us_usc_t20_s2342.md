@@ -267,7 +267,7 @@
 
     (2) in subsection (c)(20), by striking “the description and information specified in sections 2822(b)(8) and 2841(c) of title 29 concerning the provision of services only for postsecondary students and school dropouts” and inserting “the description and information specified in subparagraphs (B) and (C)(iii) of section 3112(b)(2), and, as appropriate, section 3113(b)(3)(A), and section 3151(c), of title 29 concerning the provision of services only for postsecondary students and school dropouts”; and
 
-    (3) in subsection (d)(2)
+    (3) in subsection (d)(2):
 
     (A) in the paragraph heading, by striking “501 plan” and inserting “combined plan”; and
 

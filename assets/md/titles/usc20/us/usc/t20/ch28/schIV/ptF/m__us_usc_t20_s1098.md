@@ -163,7 +163,7 @@
 
     (k) __Term of Committee__ 
 
-        Notwithstanding the sunset and charter provisions of the Federal Advisory Committee Act or any other statute or regulation, the Advisory Committee shall be authorized until October 1, 2014.
+        Notwithstanding the sunset and charter provisions of the Federal Advisory Committee Act or any other statute or regulation, the Advisory Committee shall be authorized until October 1, 2015.
 
     (l) __Review and analysis of regulations__ 
 
@@ -267,7 +267,7 @@
 
                 The Advisory Committee shall, not later than three years after August 14, 2008, prepare and submit to the authorizing committees and the Secretary a final report on the study, including recommendations for legislative, regulatory, and administrative changes based on findings related to the topics identified under paragraph (2).
 
-([Pub. L. 89–329, title IV, § 491][/us/pl/89/329/s491], as added [Pub. L. 99–498, title IV, § 407(a)][/us/pl/99/498/s407/a], Oct. 17, 1986, [100 Stat. 1492][/us/stat/100/1492]; amended [Pub. L. 100–50, § 15(16)][/us/pl/100/50/s15/16]–(18), June 3, 1987, [101 Stat. 357][/us/stat/101/357]; [Pub. L. 102–325, title IV, § 496][/us/pl/102/325/s496], July 23, 1992, [106 Stat. 631][/us/stat/106/631]; [Pub. L. 103–208, § 2(h)(45)][/us/pl/103/208/s2/h/45], (46), Dec. 20, 1993, [107 Stat. 2478][/us/stat/107/2478]; [Pub. L. 105–244, title IV, § 490C][/us/pl/105/244/s490C], Oct. 7, 1998, [112 Stat. 1754][/us/stat/112/1754]; [Pub. L. 110–315, title IV, § 494C][/us/pl/110/315/s494C], Aug. 14, 2008, [122 Stat. 3319][/us/stat/122/3319]; [Pub. L. 111–39, title IV, § 407(b)(11)][/us/pl/111/39/s407/b/11], July 1, 2009, [123 Stat. 1953][/us/stat/123/1953].)
+([Pub. L. 89–329, title IV, § 491][/us/pl/89/329/s491], as added [Pub. L. 99–498, title IV, § 407(a)][/us/pl/99/498/s407/a], Oct. 17, 1986, [100 Stat. 1492][/us/stat/100/1492]; amended [Pub. L. 100–50, § 15(16)][/us/pl/100/50/s15/16]–(18), June 3, 1987, [101 Stat. 357][/us/stat/101/357]; [Pub. L. 102–325, title IV, § 496][/us/pl/102/325/s496], July 23, 1992, [106 Stat. 631][/us/stat/106/631]; [Pub. L. 103–208, § 2(h)(45)][/us/pl/103/208/s2/h/45], (46), Dec. 20, 1993, [107 Stat. 2478][/us/stat/107/2478]; [Pub. L. 105–244, title IV, § 490C][/us/pl/105/244/s490C], Oct. 7, 1998, [112 Stat. 1754][/us/stat/112/1754]; [Pub. L. 110–315, title IV, § 494C][/us/pl/110/315/s494C], Aug. 14, 2008, [122 Stat. 3319][/us/stat/122/3319]; [Pub. L. 111–39, title IV, § 407(b)(11)][/us/pl/111/39/s407/b/11], July 1, 2009, [123 Stat. 1953][/us/stat/123/1953]; [Pub. L. 113–174, § 2][/us/pl/113/174/s2], Sept. 26, 2014, [128 Stat. 1900][/us/stat/128/1900].)
 
  __References in Text__ 
 
@@ -284,6 +284,8 @@
     Another prior [section 491 of Pub. L. 89–329][/us/pl/89/329/s491] amended former [section 403 of this title][/us/usc/t20/s403].
 
  __Amendments__ 
+
+    2014—Subsec. (k). [Pub. L. 113–174][/us/pl/113/174] substituted “2015” for “2014”.
 
     2009—Subsec. (l)(2)(A). [Pub. L. 111–39][/us/pl/111/39] made technical amendment to reference in original act which appears in text as reference to August 14, 2008.
 
@@ -412,6 +414,8 @@
 [/us/stat/122/3319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3319
 [/us/pl/111/39/s407/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F11
 [/us/stat/123/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1953
+[/us/pl/113/174/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F174%2Fs2
+[/us/stat/128/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1900
 [/us/usc/t20/s1233g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1233g
 [/us/pl/103/382/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs212%2Fa%2F2
 [/us/stat/108/3913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3913
@@ -428,6 +432,7 @@
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/pl/89/329/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs491
 [/us/usc/t20/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs403
+[/us/pl/113/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F174
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315/s494C/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs494C%2Fb
 [/us/pl/110/315/s494C/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs494C%2Fa%2F1
