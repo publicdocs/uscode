@@ -79,33 +79,7 @@
 
  __Modernization of National Distress and Response System__ 
 
-[Pub. L. 107–295, title III, § 346][/us/pl/107/295/s346], Nov. 25, 2002, [116 Stat. 2107][/us/stat/116/2107], provided that:
-
->     “(a)  __Report__  __.—__ 
-
->     The Secretary of the department in which the Coast Guard is operating shall prepare a status report on the modernization of the National Distress and Response System and transmit the report, not later than 60 days after the date of enactment of this Act \[Nov. 25, 2002\] and annually thereafter until completion of the project, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
-
->     “(b)  __Contents__  __.—__ 
-
->     The report required by subsection (a) shall—
-
->         “(1) set forth the scope of the modernization, the schedule for completion of the System, and information on progress in meeting the schedule and on any anticipated delays;
-
->         “(2) specify the funding expended to-date on the System, the funding required to complete the System, and the purposes for which the funds were or will be expended;
-
->         “(3) describe and map the existing public and private communications coverage throughout the waters of the coastal and internal regions of the continental United States, Alaska, Hawaii, Guam, and the Caribbean, and identify locations that possess direction-finding, asset-tracking communications, and digital selective calling service;
-
->         “(4) identify areas of high risk to boaters and Coast Guard personnel due to communications gaps;
-
->         “(5) specify steps taken by the Secretary to fill existing gaps in coverage, including obtaining direction-finding equipment, digital recording systems, asset-tracking communications, use of commercial VHF services, and digital selective calling services that meet or exceed Global Maritime Distress and Safety System requirements adopted under the International Convention for the Safety of Life at Sea \[see [33 U.S.C. 1602][/us/usc/t33/s1602] and notes thereunder\];
-
->         “(6) identify the number of VHF–FM radios equipped with digital selective calling sold to United States boaters;
-
->         “(7) list all reported marine accidents, casualties, and fatalities occurring in areas with existing communications gaps or failures, including incidents associated with gaps in VHF–FM coverage or digital selected calling capabilities and failures associated with inadequate communications equipment aboard the involved vessels during calendar years 1997 and thereafter;
-
->         “(8) identify existing systems available to close all identified marine safety gaps before January 1, 2003, including expeditious receipt and response by appropriate Coast Guard operations centers to VHF–FM digital selective calling distress signal; and
-
->         “(9) identify actions taken to-date to implement the recommendations of the National Transportation Safety Board in its Report No. MAR–99–01.”
+    [Pub. L. 107–295, title III, § 346][/us/pl/107/295/s346], Nov. 25, 2002, [116 Stat. 2107][/us/stat/116/2107], which required annual reports on the modernization of the National Distress and Response System, was repealed by [Pub. L. 113–188, title X, § 1001(d)(1)][/us/pl/113/188/s1001/d/1], Nov. 26, 2014, [128 Stat. 2022][/us/stat/128/2022].
 
  __Helicopter Rescue Swimming Program__ 
 
@@ -157,7 +131,8 @@
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/107/295/s346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs346
 [/us/stat/116/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2107
-[/us/usc/t33/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1602
+[/us/pl/113/188/s1001/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1001%2Fd%2F1
+[/us/stat/128/2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2022
 [/us/pl/98/557/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs9
 [/us/stat/98/2862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2862
 [/us/pl/104/324/s213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs213%2Fb
