@@ -15,15 +15,15 @@
 
 ## § 401. Exchange of census information with Bureau of Economic Analysis
 
-    (a) __Exchange of Information.—__ 
+    (a)  __Exchange of Information__  __.—__ 
 
     The Bureau of the Census shall exchange with the Bureau of Economic Analysis of the Department of Commerce information collected under this title, and under the International Investment and Trade in Services Survey Act, that pertains to any business enterprise that is operating in the United States, if the Secretary of Commerce determines such information is appropriate to augment and improve the quality of data collected under the International Investment and Trade in Services Survey Act. Information provided to the Bureau of Economic Analysis by the Bureau of the Census shall be only those data collected directly from respondents by the Bureau of the Census.
 
-    (b) __Requests for Information.—__ 
+    (b)  __Requests for Information__  __.—__ 
 
     The Director of the Bureau requesting information under this section shall make the request in writing and shall certify that the information will be used only for statistical activities performed to improve the quality of data collected under the authority of title 13, United States Code, and the International Investment and Trade in Services Survey Act.
 
-    (c) __Definition.—__ 
+    (c)  __Definition__  __.—__ 
 
     As used in subsection (a), the terms “business enterprise” and “United States” have the meanings given those terms in section 3 of the International Investment and Trade in Services Survey Act.
 

@@ -143,11 +143,11 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XII, § 1252(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–506, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Commerce, with the concurrence of the Secretary of State, shall publish regulations in the Federal Register to require that, upon the effective date of those regulations, exporters (or their agents) who are required to file Shippers’ Export Declarations under chapter 9 of title 13, United States Code, file such Declarations through the Automated Export System with respect to exports of items on the United States Munitions List or the Commerce Control List.
 
->     “(2) __Elements of the regulations.—__ 
+>     “(2)  __Elements of the regulations__  __.—__ 
 
 >     The regulations referred to in paragraph (1) shall include at a minimum—
 
@@ -161,7 +161,7 @@
 
 [Pub. L. 107–228, div. B, title XIV, § 1404(a)][/us/pl/107/228/s1404/a]–(c), Sept. 30, 2002, [116 Stat. 1454][/us/stat/116/1454], provided that:
 
->     “(a) __Contribution to the Automated Export System.—__ 
+>     “(a)  __Contribution to the Automated Export System__  __.—__ 
 
 >     Of the amount provided under section 1402 of this Act \[[116 Stat. 1453][/us/stat/116/1453]\], $250,000 is authorized to be available for the purpose of—
 
@@ -171,11 +171,11 @@
 
 >         “(3) providing operational support.
 
->     “(b) __Mandatory Filing.—__ 
+>     “(b)  __Mandatory Filing__  __.—__ 
 
 >     The Secretary of Commerce, with the concurrence of the Secretary of State and the Secretary of \[the\] Treasury, shall publish regulations in the Federal Register to require, upon the effective date of those regulations, that all persons who are required to file export information under chapter 9 of title 13, United States Code, file such information through the Automated Export System.
 
->     “(c) __Requirement for Information Sharing.—__ 
+>     “(c)  __Requirement for Information Sharing__  __.—__ 
 
 >     The Secretary \[of State\] shall conclude an information-sharing arrangement with the heads of the United States Customs Service and the Census Bureau—
 
@@ -205,19 +205,19 @@
 
 > “In this subtitle \[amending this section and enacting provisions set out as notes above\]:
 
->     “(1) __Automated export system.—__ 
+>     “(1)  __Automated export system__  __.—__ 
 
 >     The term ‘Automated Export System’ means the automated and electronic system for filing export information established under chapter 9 of title 13, United States Code, on June 19, 1995 (60 Federal Register 32040).
 
->     “(2) __Commerce control list.—__ 
+>     “(2)  __Commerce control list__  __.—__ 
 
 >     The term ‘Commerce Control List’ has the meaning given the term in section 774.1 of title 15, Code of Federal Regulations.
 
->     “(3) __Shippers’ export declaration.—__ 
+>     “(3)  __Shippers’ export declaration__  __.—__ 
 
 >     The term ‘Shippers’ Export Declaration’ means the export information filed under chapter 9 of title 13, United States Code, as described in part 30 of title 15, Code of Federal Regulations.
 
->     “(4) __United states munitions list.—__ 
+>     “(4)  __United states munitions list__  __.—__ 
 
 >     The term ‘United States Munitions List’ means the list of items controlled under section 38 of the Arms Export Control Act ([22 U.S.C. 2778][/us/usc/t22/s2778]).”
 

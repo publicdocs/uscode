@@ -17,7 +17,7 @@
 
 This title was enacted by [act Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], [68 Stat. 1012][/us/stat/68/1012]
 
-Current through 113-165
+Current through 113-185
 
 <table>
 
@@ -825,7 +825,7 @@ Rep.  </td>
 
  __Positive Law; Citation__ 
 
-    This title has been made positive law by [act Aug. 31, 1954, ch. 1158, § 1][/us/act/1954-08-31/ch1158/s1], [68 Stat. 1012][/us/stat/68/1012], which provided in part “That title 13 of the United States Code, entitled ‘Census’ is revised, codified and enacted into law and may , be cited as ‘Title 13, United States Code, section—’.”
+    This title has been made positive law by [act Aug. 31, 1954, ch. 1158, § 1][/us/act/1954-08-31/ch1158/s1], [68 Stat. 1012][/us/stat/68/1012], which provided in part “That title 13 of the United States Code, entitled ‘Census’, is revised, codified, and enacted into law, and may be cited as ‘Title 13, United States Code, section—’ ”.
 
  __References to Census Office__ 
 

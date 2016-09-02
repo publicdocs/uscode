@@ -41,7 +41,7 @@
 
 [Pub. L. 100–533, title V, § 501][/us/pl/100/533/s501], Oct. 25, 1988, [102 Stat. 2697][/us/stat/102/2697], provided that:
 
->     “(a) __Bureau of Labor Statistics.—__ 
+>     “(a)  __Bureau of Labor Statistics__  __.—__ 
 
 >     The Bureau of Labor Statistics of the Department of Labor shall include in any census report it may prepare on women owned business data on—
 
@@ -51,11 +51,11 @@
 
 >         “(3) corporations.
 
->     “(b) __Bureau of the Census.—__ 
+>     “(b)  __Bureau of the Census__  __.—__ 
 
 >     The Bureau of the Census of the Department of Commerce shall include in its Business Census for 1992 and each such succeeding census data on the number of corporations which are 51 per centum or more owned by women.
 
->     “(c) __Combined Study.—__ 
+>     “(c)  __Combined Study__  __.—__ 
 
 >     Not later than one hundred and eighty days after the effective date of this section \[Oct. 25, 1988\], the Office of the Chief Counsel for Advocacy of the Small Business Administration (hereinafter referred to in this subsection as the ‘Office’) shall conduct a study and prepare a report recommending the most cost effective and accurate means to gather and present the data required to be collected pursuant to subsections (a) and (b). The Department of Commerce and the Department of Labor shall provide the Office such assistance and cooperation as may be necessary and appropriate to achieve the purposes of this subsection.”
 

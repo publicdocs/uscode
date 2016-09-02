@@ -17,15 +17,15 @@
 
     (a) __Criminal Penalties.—__ 
 
-        (1) __Failure to file; submission of false or misleading information.—__ 
+        (1)  __Failure to file; submission of false or misleading information__  __.—__ 
 
         Any person who knowingly fails to file or knowingly submits false or misleading export information through the Shippers Export Declaration (SED) (or any successor document) or the Automated Export System (AES) shall be subject to a fine not to exceed $10,000 per violation or imprisonment for not more than 5 years, or both.
 
-        (2) __Furtherance of illegal activities.—__ 
+        (2)  __Furtherance of illegal activities__  __.—__ 
 
         Any person who knowingly reports any information on or uses the SED or the AES to further any illegal activity shall be subject to a fine not to exceed $10,000 per violation or imprisonment for not more than 5 years, or both.
 
-        (3) __Forfeiture penalties.—__ 
+        (3)  __Forfeiture penalties__  __.—__ 
 
         Any person who is convicted under this subsection shall, in addition to any other penalty, be subject to forfeiting to the United States—
 
@@ -35,21 +35,21 @@
 
             (C) any of that person’s property constituting, or derived from, any proceeds obtained directly or indirectly as a result of the violation.
 
-    (b) __Civil Penalties.—__ 
+    (b)  __Civil Penalties__  __.—__ 
 
     The Secretary (and officers of the Department of Commerce specifically designated by the Secretary) may impose a civil penalty not to exceed $10,000 per violation on any person violating the provisions of this chapter or any rule, regulation, or order issued thereunder, except as provided in section 304. Such penalty may be in addition to any other penalty imposed by law.
 
     (c) __Civil Penalty Procedure.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Whenever a civil penalty is sought for a violation of this section or of section 304, the charged party is entitled to receive a formal complaint specifying the charges and, at his or her request, to contest the charges in a hearing before an administrative law judge. Any such hearing shall be conducted in accordance with sections 556 and 557 of title 5, United States Code.
 
-        (2) __Commencement of civil actions.—__ 
+        (2)  __Commencement of civil actions__  __.—__ 
 
         If any person fails to pay a civil penalty imposed under this chapter, the Secretary may request the Attorney General to commence a civil action in an appropriate district court of the United States to recover the amount imposed (plus interest at currently prevailing rates from the date of the final order). No such action may be commenced more than 5 years after the date the order imposing the civil penalty becomes final. In such action, the validity, amount, and appropriateness of such penalty shall not be subject to review.
 
-        (3) __Remission or mitigation of penalties.—__ 
+        (3)  __Remission or mitigation of penalties__  __.—__ 
 
         The Secretary may remit or mitigate any penalties imposed under paragraph (1) if, in the Secretary’s opinion—
 
@@ -57,29 +57,29 @@
 
             (B) other circumstances exist that justify a remission or mitigation.
 
-        (4) __Applicable law for delegated functions.—__ 
+        (4)  __Applicable law for delegated functions__  __.—__ 
 
         If, pursuant to section 306, the Secretary delegates functions under this section to another agency, the provisions of law of that agency relating to penalty assessment, remission or mitigation of such penalties, collection of such penalties, and limitations of actions and compromise of claims, shall apply.
 
-        (5) __Deposit of payments in general fund of the treasury.—__ 
+        (5)  __Deposit of payments in general fund of the treasury__  __.—__ 
 
         Any amount paid in satisfaction of a civil penalty imposed under this section or section 304 shall be deposited into the general fund of the Treasury and credited as miscellaneous receipts.
 
     (d) __Enforcement.—__ 
 
-        (1) __By the secretary of commerce.—__ 
+        (1)  __By the secretary of commerce__  __.—__ 
 
         The Secretary of Commerce may designate officers or employees of the Office of Export Enforcement to conduct investigations pursuant to this chapter. In conducting such investigations, those officers or employees may, to the extent necessary or appropriate to the enforcement of this chapter, exercise such authorities as are conferred upon them by other laws of the United States, subject to policies and procedures approved by the Attorney General.
 
-        (2) __By the commissioner of customs.—__ 
+        (2)  __By the commissioner of customs__  __.—__ 
 
         The Commissioner of Customs may designate officers or employees of the Customs Service to enforce the provisions of this chapter, or to conduct investigations pursuant to this chapter.
 
-    (e) __Regulations.—__ 
+    (e)  __Regulations__  __.—__ 
 
     The Secretary of Commerce shall promulgate regulations for the implementation and enforcement of this section.
 
-    (f) __Exemption.—__ 
+    (f)  __Exemption__  __.—__ 
 
     The criminal fines provided for in this section are exempt from the provisions of [section 3571 of title 18][/us/usc/t18/s3571], United States Code.
 

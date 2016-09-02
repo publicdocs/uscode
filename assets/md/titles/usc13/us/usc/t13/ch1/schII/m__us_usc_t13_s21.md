@@ -17,33 +17,33 @@
 
     (a) __Appointment.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Bureau shall be headed by a Director of the Census, appointed by the President, by and with the advice and consent of the Senate, without regard to political affiliation.
 
-        (2) __Qualifications.—__ 
+        (2)  __Qualifications__  __.—__ 
 
         Such appointment shall be made from individuals who have a demonstrated ability in managing large organizations and experience in the collection, analysis, and use of statistical data.
 
     (b) __Term of Office.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The term of office of the Director shall be 5 years, and shall begin on January 1, 2012, and every fifth year thereafter. An individual may not serve more than 2 full terms as Director.
 
-        (2) __Vacancies.—__ 
+        (2)  __Vacancies__  __.—__ 
 
         Any individual appointed to fill a vacancy in such position, occurring before the expiration of the term for which such individual’s predecessor was appointed, shall be appointed for the remainder of that term. The Director may serve after the end of the Director’s term until reappointed or until a successor has been appointed, but in no event longer than 1 year after the end of such term.
 
-        (3) __Removal.—__ 
+        (3)  __Removal__  __.—__ 
 
         An individual serving as Director may be removed from office by the President. The President shall communicate in writing the reasons for any such removal to both Houses of Congress not later than 60 days before the removal.
 
-        (4) __Personnel actions.—__ 
+        (4)  __Personnel actions__  __.—__ 
 
         Except as provided under paragraph (3), nothing in this subsection shall prohibit a personnel action otherwise authorized by law with respect to the Director of the Census, other than removal.
 
-    (c) __Duties.—__ 
+    (c)  __Duties__  __.—__ 
 
     The Director shall perform such duties as may be imposed upon the Director by law, regulations, or orders of the Secretary.
 
@@ -73,11 +73,11 @@
 
 [Pub. L. 112–166, § 3(b)][/us/pl/112/166/s3/b], Aug. 10, 2012, [126 Stat. 1291][/us/stat/126/1291], provided that:
 
->     “(1) __Appointment of initial director.—__ 
+>     “(1)  __Appointment of initial director__  __.—__ 
 
 >     The initial Director of the Bureau of the Census shall be appointed in accordance with the provisions of [section 21(a) of title 13][/us/usc/t13/s21/a], United States Code, as amended by subsection (a).
 
->     “(2) __Interim role of current director of the census after date of enactment.—__ 
+>     “(2)  __Interim role of current director of the census after date of enactment__  __.—__ 
 
 >     If, as of January 1, 2012, the initial Director of the Bureau of the Census has not taken office, the officer serving on December 31, 2011, as Director of the Census (or Acting Director of the Census, if applicable) in the Department of Commerce—
 

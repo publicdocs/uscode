@@ -99,11 +99,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 101–382, title I, § 141][/us/pl/101/382/s141], Aug. 20, 1990, [104 Stat. 654][/us/stat/104/654], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     The determination of whether temporary 1990 census services constitute ‘Federal service’ for purposes of subchapter I of chapter 85 of title 5, United States Code, shall be made under the provisions of such subchapter without regard to any provision of law not contained in such subchapter.
 
->     “(b) __Temporary 1990 Census Services.—__ 
+>     “(b)  __Temporary__  __1990__  __Census Services__  __.—__ 
 
 >     For purposes of subsection (a), the term ‘temporary 1990 census services’ means services performed by individuals appointed to temporary positions within the Bureau of the Census for purposes relating to the 1990 decennial census of population (as determined under regulations determined by the Secretary of Commerce).”
 

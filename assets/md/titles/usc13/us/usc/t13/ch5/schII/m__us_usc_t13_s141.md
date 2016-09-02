@@ -343,11 +343,11 @@
 
 [Pub. L. 104–193, title I, § 105][/us/pl/104/193/s105], Aug. 22, 1996, [110 Stat. 2163][/us/stat/110/2163], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Aug. 22, 1996\], the Secretary of Commerce, in carrying out [section 141 of title 13][/us/usc/t13/s141], United States Code, shall expand the data collection efforts of the Bureau of the Census (in this section referred to as the ‘Bureau’) to enable the Bureau to collect statistically significant data, in connection with its decennial census and its mid-decade census, concerning the growing trend of grandparents who are the primary caregivers for their grandchildren.
 
->     “(b) __Expanded Census Question.—__ 
+>     “(b)  __Expanded Census Question__  __.—__ 
 
 >     In carrying out subsection (a), the Secretary of Commerce shall expand the Bureau’s census question that details households which include both grandparents and their grandchildren. The expanded question shall be formulated to distinguish between the following households:
 
