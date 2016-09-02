@@ -47,7 +47,7 @@
 
  __Port of Entry Partnership Pilot Program__ 
 
-[Pub. L. 113–76, div. F, title V, § 559][/us/pl/113/76/s559], Jan. 17, 2014, [128 Stat. 279][/us/stat/128/279], provided that:
+[Pub. L. 113–76, div. F, title V, § 559][/us/pl/113/76/s559], Jan. 17, 2014, [128 Stat. 279][/us/stat/128/279], as amended by [Pub. L. 114–4, title V, § 552(a)][/us/pl/114/4/s552/a], Mar. 4, 2015, [129 Stat. 71][/us/stat/129/71], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -127,7 +127,7 @@
 
 >             “(B)  __For certain costs__  __.—__ 
 
->             The authority found in this subsection may not be used at U.S. Customs and Border Protection-serviced air ports of entry to enter into reimbursable fee agreements for costs other than payment of overtime.
+>             The authority found in this subsection may not be used at U.S. Customs and Border Protection-serviced air ports of entry to enter into reimbursable fee agreements for costs other than payment of overtime and the salaries, training and benefits of individuals employed by U.S. Customs and Border Protection to support U.S. Customs and Border Protection officers in performing law enforcement functions at ports of entry, including primary and secondary processing of passengers.
 
 >             “(C) The authority found in this subsection may not be used to enter into new preclearance agreements or begin to provide U.S. Customs and Border Protection services outside of the United States.
 
@@ -183,7 +183,7 @@
 
 >                 “(iv) operations and maintenance; or
 
->             “(B) transfer such property or services to the Administrator for necessary activities described in subparagraph (A) related to a new or existing port of entry under the jurisdiction, custody, and control of the Administrator, subject to chapter 33 of title 40, United States Code.
+>             “(B) transfer such property or services to the Administrator for necessary activities described in subparagraph (A) related to a new or existing port of entry under the jurisdiction, custody, and control of the Administrator, subject to chapter 33 of title 40, United States Code. Such transfer shall not be required for personal property, including furniture, fixtures, and equipment.
 
 >         “(3) __Consultation and budget.—__ 
 
@@ -275,6 +275,8 @@
 
 >     Under this section, collaboration with the Administrator of General Services is required only with respect to partnerships at land ports of entry.”
 
+    \[[Pub. L. 114–4, title V, § 552(a)(2)][/us/pl/114/4/s552/a/2], Mar. 4, 2015, [129 Stat. 71][/us/stat/129/71], which directed amendment of subsection “(e)(3)(b)” of section 559 of division F of [Public Law 113–76][/us/pl/113/76], set out above, by inserting “and the salaries, training and benefits of individuals employed by U.S. Customs and Border Protection to support U.S. Customs and Border Protection officers in performing law enforcement functions at ports of entry, including primary and secondary processing of passengers” after “payment of overtime”, was executed by making the insertion in subsection (e)(3)(B) of section 559 of division F of [Public Law 113–76][/us/pl/113/76], to reflect the probable intent of Congress.\]
+
  __Reducing Passenger Processing Times__ 
 
 [Pub. L. 113–76, div. F, title V, § 571][/us/pl/113/76/s571], Jan. 17, 2014, [128 Stat. 287][/us/stat/128/287], provided that:
@@ -301,8 +303,14 @@
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/113/76/s559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs559
 [/us/stat/128/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F279
+[/us/pl/114/4/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F4%2Fs552%2Fa
+[/us/stat/129/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F71
 [/us/usc/t19/s58c/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58c%2Fe
 [/us/usc/t19/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1451
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/114/4/s552/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F4%2Fs552%2Fa%2F2
+[/us/stat/129/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F71
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/113/76/s571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs571
 [/us/stat/128/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F287

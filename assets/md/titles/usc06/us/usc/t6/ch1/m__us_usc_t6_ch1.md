@@ -1873,6 +1873,14 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs472" data-uslm-ref="/us/usc/t6/s472">472.</a>  </td>
+
+    <td> Annual weaponry report.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 Part I—Information Sharing  </td>

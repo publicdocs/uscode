@@ -33,25 +33,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs1402" data-uslm-ref="/us/usc/t6/s1402">1402</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs1403" data-uslm-ref="/us/usc/t6/s1403">1403.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs1402" data-uslm-ref="/us/usc/t6/s1402">1402</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs1404" data-uslm-ref="/us/usc/t6/s1404">1404.</a>  </td>
 
     <td> Repealed.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs1403" data-uslm-ref="/us/usc/t6/s1403">1403.</a>  </td>
-
-    <td> National Land Border Security Plan.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs1404" data-uslm-ref="/us/usc/t6/s1404">1404.</a>  </td>
-
-    <td> Port of entry technology demonstration program.  </td>
 
   </tr>
 

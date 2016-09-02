@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t6/ch1/schVIII/ptH/m__us_usc_t6_s470.md) | [Next](./../../../../../..//us/usc/t6/ch1/schVIII/ptI/m__us_usc_t6_ch1_schVIII_ptI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs471)
+[Previous](./../../../../../..//us/usc/t6/ch1/schVIII/ptH/m__us_usc_t6_s470.md) | [Next](./../../../../../..//us/usc/t6/ch1/schVIII/ptH/m__us_usc_t6_s472.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs471)
 
 ## § 471. Annual ammunition report
 
@@ -35,7 +35,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t6/ch1/schVIII/ptH/m__us_usc_t6_s470.md) | [Next](./../../../../../..//us/usc/t6/ch1/schVIII/ptI/m__us_usc_t6_ch1_schVIII_ptI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs471)
+[Previous](./../../../../../..//us/usc/t6/ch1/schVIII/ptH/m__us_usc_t6_s470.md) | [Next](./../../../../../..//us/usc/t6/ch1/schVIII/ptH/m__us_usc_t6_s472.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs471)
 
 ----------
 ----------
