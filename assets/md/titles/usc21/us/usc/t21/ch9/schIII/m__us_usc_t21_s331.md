@@ -211,7 +211,19 @@
 
         (3) The failure to report drugs or adverse events by an entity that is registered in accordance with subsection (b) of [section 353b of this title][/us/usc/t21/s353b].
 
-([June 25, 1938, ch. 675, § 301][/us/act/1938-06-25/ch675/s301], [52 Stat. 1042][/us/stat/52/1042]; [Dec. 22, 1941, ch. 613, § 1][/us/act/1941-12-22/ch613/s1], [55 Stat. 851][/us/stat/55/851]; [July 6, 1945, ch. 281, § 1][/us/act/1945-07-06/ch281/s1], [59 Stat. 463][/us/stat/59/463]; [Mar. 10, 1947, ch. 16, § 1][/us/act/1947-03-10/ch16/s1], [61 Stat. 11][/us/stat/61/11]; [June 24, 1948, ch. 613, § 1][/us/act/1948-06-24/ch613/s1], [62 Stat. 582][/us/stat/62/582]; [Mar. 16, 1950, ch. 61, § 3(b)][/us/act/1950-03-16/ch61/s3/b], [64 Stat. 20][/us/stat/64/20]; [Aug. 7, 1953, ch. 350, § 2][/us/act/1953-08-07/ch350/s2], [67 Stat. 477][/us/stat/67/477]; [Pub. L. 85–929, § 5][/us/pl/85/929/s5], Sept. 6, 1958, [72 Stat. 1788][/us/stat/72/1788]; [Pub. L. 86–618, title I][/us/pl/86/618], §§ 104, 105(a), July 12, 1960, [74 Stat. 403][/us/stat/74/403]; [Pub. L. 87–781, title I][/us/pl/87/781], §§ 103(c), 104(e)(1), 106(c), 114(a), title III, § 304, Oct. 10, 1962, [76 Stat. 784][/us/stat/76/784], 785, 788, 791, 795; [Pub. L. 89–74][/us/pl/89/74], §§ 5, 9(c), July 15, 1965, [79 Stat. 232][/us/stat/79/232], 235; [Pub. L. 90–399, § 103][/us/pl/90/399/s103], July 13, 1968, [82 Stat. 352][/us/stat/82/352]; [Pub. L. 90–639, § 2(b)][/us/pl/90/639/s2/b], Oct. 24, 1968, [82 Stat. 1361][/us/stat/82/1361]; [Pub. L. 91–513, title II, § 701(a)][/us/pl/91/513/s701/a], Oct. 27, 1970, [84 Stat. 1281][/us/stat/84/1281]; [Pub. L. 92–387, § 4(e)][/us/pl/92/387/s4/e], Aug. 16, 1972, [86 Stat. 562][/us/stat/86/562]; [Pub. L. 94–295][/us/pl/94/295], §§ 3(b), 4(b)(1), 7(b), May 28, 1976, [90 Stat. 576][/us/stat/90/576], 580, 582; [Pub. L. 96–359, § 5][/us/pl/96/359/s5], Sept. 26, 1980, [94 Stat. 1193][/us/stat/94/1193]; [Pub. L. 99–570, title IV, § 4014(b)(2)][/us/pl/99/570/s4014/b/2], Oct. 27, 1986, [100 Stat. 3207–120][/us/stat/100/3207-120]; [Pub. L. 100–293, § 7(a)][/us/pl/100/293/s7/a], Apr. 22, 1988, [102 Stat. 99][/us/stat/102/99]; [Pub. L. 101–502, § 5(j)][/us/pl/101/502/s5/j], Nov. 3, 1990, [104 Stat. 1289][/us/stat/104/1289]; [Pub. L. 101–508, title IV, § 4755(c)(2)][/us/pl/101/508/s4755/c/2], Nov. 5, 1990, [104 Stat. 1388–210][/us/stat/104/1388-210]; [Pub. L. 102–300, § 3(a)(1)][/us/pl/102/300/s3/a/1], June 16, 1992, [106 Stat. 238][/us/stat/106/238]; [Pub. L. 102–571, title I, § 107(2)][/us/pl/102/571/s107/2], (3), Oct. 29, 1992, [106 Stat. 4499][/us/stat/106/4499]; [Pub. L. 103–80, § 3(c)][/us/pl/103/80/s3/c], Aug. 13, 1993, [107 Stat. 775][/us/stat/107/775]; [Pub. L. 103–396, § 2(b)(1)][/us/pl/103/396/s2/b/1], Oct. 22, 1994, [108 Stat. 4154][/us/stat/108/4154]; [Pub. L. 103–417, § 10(b)][/us/pl/103/417/s10/b], Oct. 25, 1994, [108 Stat. 4332][/us/stat/108/4332]; [Pub. L. 104–134, title II, § 2103][/us/pl/104/134/s2103], Apr. 26, 1996, [110 Stat. 1321–319][/us/stat/110/1321-319]; [Pub. L. 104–170, title IV, § 403][/us/pl/104/170/s403], Aug. 3, 1996, [110 Stat. 1514][/us/stat/110/1514]; [Pub. L. 104–250, § 5(d)][/us/pl/104/250/s5/d], Oct. 9, 1996, [110 Stat. 3156][/us/stat/110/3156]; [Pub. L. 105–115, title I, § 125(a)(2)(A)][/us/pl/105/115/s125/a/2/A], (C), (b)(2)(B), title II, §§ 204(b), 210(c), title IV, §§ 401(b), 421, Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325], 2336, 2345, 2364, 2380; [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VII, § 745(d)(1)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–39; [Pub. L. 107–188, title III][/us/pl/107/188], §§ 303(b), 304(d), 305(b), 306(c), 307(b), 321(b)(2), 322(b), June 12, 2002, [116 Stat. 664][/us/stat/116/664], 666, 668, 670, 672, 676, 677; [Pub. L. 107–250, title II, § 201(d)][/us/pl/107/250/s201/d], Oct. 26, 2002, [116 Stat. 1609][/us/stat/116/1609]; [Pub. L. 108–136, div. A, title XVI, § 1603(c)][/us/pl/108/136/s1603/c], Nov. 24, 2003, [117 Stat. 1690][/us/stat/117/1690]; [Pub. L. 108–173, title XI, § 1121(b)(1)][/us/pl/108/173/s1121/b/1], Dec. 8, 2003, [117 Stat. 2469][/us/stat/117/2469]; [Pub. L. 108–214, § 2(b)(2)(A)][/us/pl/108/214/s2/b/2/A], Apr. 1, 2004, [118 Stat. 575][/us/stat/118/575]; [Pub. L. 108–282, title I, § 102(b)(5)(C)][/us/pl/108/282/s102/b/5/C], (D), Aug. 2, 2004, [118 Stat. 902][/us/stat/118/902]; [Pub. L. 109–59, title VII, § 7202(d)][/us/pl/109/59/s7202/d], (e), Aug. 10, 2005, [119 Stat. 1913][/us/stat/119/1913]; [Pub. L. 109–462][/us/pl/109/462], §§ 2(c), 3(b), 4(a), Dec. 22, 2006, [120 Stat. 3472][/us/stat/120/3472], 3475; [Pub. L. 110–85, title VIII, § 801(b)(1)][/us/pl/110/85/s801/b/1], title IX, §§ 901(d)(1), 912(a), title X, § 1005(d), Sept. 27, 2007, [121 Stat. 920][/us/stat/121/920], 939, 951, 968; [Pub. L. 111–31, div. A, title I, § 103(b)][/us/pl/111/31/s103/b], June 22, 2009, [123 Stat. 1833][/us/stat/123/1833]; [Pub. L. 111–353, title I][/us/pl/111/353], §§ 102(d)(1), 103(e), 105(c), 106(d), title II, §§ 204(j)(1), 206(d), 211(b), (c), title III, § 301(b), Jan. 4, 2011, [124 Stat. 3889][/us/stat/124/3889], 3898, 3904, 3906, 3937, 3943, 3953, 3954; [Pub. L. 112–144, title VII][/us/pl/112/144], §§ 714(a), 715(a), July 9, 2012, [126 Stat. 1073][/us/stat/126/1073], 1075; [Pub. L. 113–54, title I, § 103(a)][/us/pl/113/54/s103/a], title II, § 206(a), Nov. 27, 2013, [127 Stat. 597][/us/stat/127/597], 639.)
+    (ddd)
+
+        (1) The manufacture or the introduction or delivery for introduction into interstate commerce of a rinse-off cosmetic that contains intentionally-added plastic microbeads.
+
+        (2)
+
+         In this paragraph—
+
+            (A) the term “plastic microbead” means any solid plastic particle that is less than five millimeters in size and is intended to be used to exfoliate or cleanse the human body or any part thereof; and
+
+            (B) the term “rinse-off cosmetic” includes toothpaste.
+
+([June 25, 1938, ch. 675, § 301][/us/act/1938-06-25/ch675/s301], [52 Stat. 1042][/us/stat/52/1042]; [Dec. 22, 1941, ch. 613, § 1][/us/act/1941-12-22/ch613/s1], [55 Stat. 851][/us/stat/55/851]; [July 6, 1945, ch. 281, § 1][/us/act/1945-07-06/ch281/s1], [59 Stat. 463][/us/stat/59/463]; [Mar. 10, 1947, ch. 16, § 1][/us/act/1947-03-10/ch16/s1], [61 Stat. 11][/us/stat/61/11]; [June 24, 1948, ch. 613, § 1][/us/act/1948-06-24/ch613/s1], [62 Stat. 582][/us/stat/62/582]; [Mar. 16, 1950, ch. 61, § 3(b)][/us/act/1950-03-16/ch61/s3/b], [64 Stat. 20][/us/stat/64/20]; [Aug. 7, 1953, ch. 350, § 2][/us/act/1953-08-07/ch350/s2], [67 Stat. 477][/us/stat/67/477]; [Pub. L. 85–929, § 5][/us/pl/85/929/s5], Sept. 6, 1958, [72 Stat. 1788][/us/stat/72/1788]; [Pub. L. 86–618, title I][/us/pl/86/618], §§ 104, 105(a), July 12, 1960, [74 Stat. 403][/us/stat/74/403]; [Pub. L. 87–781, title I][/us/pl/87/781], §§ 103(c), 104(e)(1), 106(c), 114(a), title III, § 304, Oct. 10, 1962, [76 Stat. 784][/us/stat/76/784], 785, 788, 791, 795; [Pub. L. 89–74][/us/pl/89/74], §§ 5, 9(c), July 15, 1965, [79 Stat. 232][/us/stat/79/232], 235; [Pub. L. 90–399, § 103][/us/pl/90/399/s103], July 13, 1968, [82 Stat. 352][/us/stat/82/352]; [Pub. L. 90–639, § 2(b)][/us/pl/90/639/s2/b], Oct. 24, 1968, [82 Stat. 1361][/us/stat/82/1361]; [Pub. L. 91–513, title II, § 701(a)][/us/pl/91/513/s701/a], Oct. 27, 1970, [84 Stat. 1281][/us/stat/84/1281]; [Pub. L. 92–387, § 4(e)][/us/pl/92/387/s4/e], Aug. 16, 1972, [86 Stat. 562][/us/stat/86/562]; [Pub. L. 94–295][/us/pl/94/295], §§ 3(b), 4(b)(1), 7(b), May 28, 1976, [90 Stat. 576][/us/stat/90/576], 580, 582; [Pub. L. 96–359, § 5][/us/pl/96/359/s5], Sept. 26, 1980, [94 Stat. 1193][/us/stat/94/1193]; [Pub. L. 99–570, title IV, § 4014(b)(2)][/us/pl/99/570/s4014/b/2], Oct. 27, 1986, [100 Stat. 3207–120][/us/stat/100/3207-120]; [Pub. L. 100–293, § 7(a)][/us/pl/100/293/s7/a], Apr. 22, 1988, [102 Stat. 99][/us/stat/102/99]; [Pub. L. 101–502, § 5(j)][/us/pl/101/502/s5/j], Nov. 3, 1990, [104 Stat. 1289][/us/stat/104/1289]; [Pub. L. 101–508, title IV, § 4755(c)(2)][/us/pl/101/508/s4755/c/2], Nov. 5, 1990, [104 Stat. 1388–210][/us/stat/104/1388-210]; [Pub. L. 102–300, § 3(a)(1)][/us/pl/102/300/s3/a/1], June 16, 1992, [106 Stat. 238][/us/stat/106/238]; [Pub. L. 102–571, title I, § 107(2)][/us/pl/102/571/s107/2], (3), Oct. 29, 1992, [106 Stat. 4499][/us/stat/106/4499]; [Pub. L. 103–80, § 3(c)][/us/pl/103/80/s3/c], Aug. 13, 1993, [107 Stat. 775][/us/stat/107/775]; [Pub. L. 103–396, § 2(b)(1)][/us/pl/103/396/s2/b/1], Oct. 22, 1994, [108 Stat. 4154][/us/stat/108/4154]; [Pub. L. 103–417, § 10(b)][/us/pl/103/417/s10/b], Oct. 25, 1994, [108 Stat. 4332][/us/stat/108/4332]; [Pub. L. 104–134, title II, § 2103][/us/pl/104/134/s2103], Apr. 26, 1996, [110 Stat. 1321–319][/us/stat/110/1321-319]; [Pub. L. 104–170, title IV, § 403][/us/pl/104/170/s403], Aug. 3, 1996, [110 Stat. 1514][/us/stat/110/1514]; [Pub. L. 104–250, § 5(d)][/us/pl/104/250/s5/d], Oct. 9, 1996, [110 Stat. 3156][/us/stat/110/3156]; [Pub. L. 105–115, title I, § 125(a)(2)(A)][/us/pl/105/115/s125/a/2/A], (C), (b)(2)(B), title II, §§ 204(b), 210(c), title IV, §§ 401(b), 421, Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325], 2336, 2345, 2364, 2380; [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VII, § 745(d)(1)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–39; [Pub. L. 107–188, title III][/us/pl/107/188], §§ 303(b), 304(d), 305(b), 306(c), 307(b), 321(b)(2), 322(b), June 12, 2002, [116 Stat. 664][/us/stat/116/664], 666, 668, 670, 672, 676, 677; [Pub. L. 107–250, title II, § 201(d)][/us/pl/107/250/s201/d], Oct. 26, 2002, [116 Stat. 1609][/us/stat/116/1609]; [Pub. L. 108–136, div. A, title XVI, § 1603(c)][/us/pl/108/136/s1603/c], Nov. 24, 2003, [117 Stat. 1690][/us/stat/117/1690]; [Pub. L. 108–173, title XI, § 1121(b)(1)][/us/pl/108/173/s1121/b/1], Dec. 8, 2003, [117 Stat. 2469][/us/stat/117/2469]; [Pub. L. 108–214, § 2(b)(2)(A)][/us/pl/108/214/s2/b/2/A], Apr. 1, 2004, [118 Stat. 575][/us/stat/118/575]; [Pub. L. 108–282, title I, § 102(b)(5)(C)][/us/pl/108/282/s102/b/5/C], (D), Aug. 2, 2004, [118 Stat. 902][/us/stat/118/902]; [Pub. L. 109–59, title VII, § 7202(d)][/us/pl/109/59/s7202/d], (e), Aug. 10, 2005, [119 Stat. 1913][/us/stat/119/1913]; [Pub. L. 109–462][/us/pl/109/462], §§ 2(c), 3(b), 4(a), Dec. 22, 2006, [120 Stat. 3472][/us/stat/120/3472], 3475; [Pub. L. 110–85, title VIII, § 801(b)(1)][/us/pl/110/85/s801/b/1], title IX, §§ 901(d)(1), 912(a), title X, § 1005(d), Sept. 27, 2007, [121 Stat. 920][/us/stat/121/920], 939, 951, 968; [Pub. L. 111–31, div. A, title I, § 103(b)][/us/pl/111/31/s103/b], June 22, 2009, [123 Stat. 1833][/us/stat/123/1833]; [Pub. L. 111–353, title I][/us/pl/111/353], §§ 102(d)(1), 103(e), 105(c), 106(d), title II, §§ 204(j)(1), 206(d), 211(b), (c), title III, § 301(b), Jan. 4, 2011, [124 Stat. 3889][/us/stat/124/3889], 3898, 3904, 3906, 3937, 3943, 3953, 3954; [Pub. L. 112–144, title VII][/us/pl/112/144], §§ 714(a), 715(a), July 9, 2012, [126 Stat. 1073][/us/stat/126/1073], 1075; [Pub. L. 113–54, title I, § 103(a)][/us/pl/113/54/s103/a], title II, § 206(a), Nov. 27, 2013, [127 Stat. 597][/us/stat/127/597], 639; [Pub. L. 114–114, § 2(a)][/us/pl/114/114/s2/a], Dec. 28, 2015, [129 Stat. 3129][/us/stat/129/3129].)
 
  __References in Text__ 
 
@@ -224,6 +236,8 @@
 For information regarding constitutionality of certain provisions of section 301 of act June 25, 1938, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
  __Amendments__ 
+
+    2015—Par. (ddd). [Pub. L. 114–114][/us/pl/114/114] added par. (ddd).
 
     2013—Par. (t). [Pub. L. 113–54, § 206(a)][/us/pl/113/54/s206/a], struck out “or” after “the requirements of [section 353(d) of this title][/us/usc/t21/s353/d],” and inserted “, failure to comply with the requirements under [section 360eee–1 of this title][/us/usc/t21/s360eee–1], the failure to comply with the requirements under [section 360eee–3 of this title][/us/usc/t21/s360eee–3], as applicable,” after “in violation of [section 353(e) of this title][/us/usc/t21/s353/e]”.
 
@@ -423,6 +437,22 @@ For information regarding constitutionality of certain provisions of section 301
 
     1941—Par. (i). Act Dec. 22, 1941, inserted reference to [section 356 of this title][/us/usc/t21/s356].
 
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–114, § 2(b)][/us/pl/114/114/s2/b], Dec. 28, 2015, [129 Stat. 3129][/us/stat/129/3129], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     The amendment made by subsection (a) \[amending this section\] applies—
+
+>         “(A) with respect to manufacturing, beginning on July 1, 2017, and with respect to introduction or delivery for introduction into interstate commerce, beginning on July 1, 2018; and
+
+>         “(B) notwithstanding subparagraph (A), in the case of a rinse-off cosmetic that is a nonprescription drug, with respect to manufacturing, beginning on July 1, 2018, and with respect to the introduction or delivery for introduction into interstate commerce, beginning on July 1, 2019.
+
+>     “(2)  __Nonprescription drug__  __.—__ 
+
+>     For purposes of this subsection, the term ‘nonprescription drug’ means a drug not subject to section 503(b)(1) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 353(b)(1)][/us/usc/t21/s353/b/1]).”
+
  __Effective Date of 2011 Amendment__ 
 
     Amendment by [section 103(e) of Pub. L. 111–353][/us/pl/111/353/s103/e] effective 18 months after Jan. 4, 2011, and applicable to a small business (as defined in the regulations promulgated under [section 350g(n) of this title][/us/usc/t21/s350g/n]) beginning on the date that is 6 months after the effective date of such regulations and to a very small business (as defined in such regulations) beginning on the date that is 18 months after the effective date of such regulations, see [section 103(i) of Pub. L. 111–353][/us/pl/111/353/s103/i], set out as an Effective Date note under [section 350g of this title][/us/usc/t21/s350g].
@@ -565,6 +595,12 @@ For information regarding constitutionality of certain provisions of section 301
 
     Amendment by [Pub. L. 91–513][/us/pl/91/513] not to affect or abate any prosecutions for violation of law or any civil seizures or forfeitures and injunctive proceedings commenced prior to the effective date of such amendment, and all administrative proceedings pending before the Bureau of Narcotics and Dangerous Drugs \[now the Drug Enforcement Administration\] on Oct. 27, 1970, to be continued and brought to final determination in accord with laws and regulations in effect prior to Oct. 27, 1970, see [section 702 of Pub. L. 91–513][/us/pl/91/513/s702], set out as a note under [section 321 of this title][/us/usc/t21/s321].
 
+ __Construction of 2015 Amendment__ 
+
+[Pub. L. 114–114, § 2(d)][/us/pl/114/114/s2/d], Dec. 28, 2015, [129 Stat. 3130][/us/stat/129/3130], provided that: 
+
+> “Nothing in this Act \[amending this section and enacting provisions set out as notes under this section and [section 301 of this title][/us/usc/t21/s301]\] (or the amendments made by this Act) shall be construed to apply with respect to drugs that are not also cosmetics (as such terms are defined in section 201 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 321][/us/usc/t21/s321])).”
+
  __Construction of 2011 Amendment__ 
 
     Nothing in amendments by sections 103(e), 105(c), 106(d), 204(j)(1), 211(b), (c), and 301(b) of [Pub. L. 111–353][/us/pl/111/353] to be construed to apply to certain alcohol-related facilities, see [section 2206 of this title][/us/usc/t21/s2206].
@@ -586,6 +622,12 @@ For information regarding constitutionality of certain provisions of section 301
  __Transfer of Functions__ 
 
     For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under [section 321 of this title][/us/usc/t21/s321].
+
+ __Preemption of State Laws__ 
+
+[Pub. L. 114–114, § 2(c)][/us/pl/114/114/s2/c], Dec. 28, 2015, [129 Stat. 3129][/us/stat/129/3129], provided that: 
+
+> “No State or political subdivision of a State may directly or indirectly establish under any authority or continue in effect restrictions with respect to the manufacture or introduction or delivery for introduction into interstate commerce of rinse-off cosmetics containing plastic microbeads (as defined in section 301(ddd) of the Federal Food, Drug, and Cosmetic Act, as added by subsection (a)) that are not identical to the restrictions under such section 301(ddd) that have begun to apply under subsection (b) \[set out as a note above\].”
 
 ----------
 
@@ -742,6 +784,8 @@ For information regarding constitutionality of certain provisions of section 301
 [/us/stat/126/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1073
 [/us/pl/113/54/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs103%2Fa
 [/us/stat/127/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F597
+[/us/pl/114/114/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F114%2Fs2%2Fa
+[/us/stat/129/3129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3129
 [/us/usc/t21/s2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs2223
 [/us/pl/111/353/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs204
 [/us/usc/t21/s2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs2223
@@ -752,6 +796,7 @@ For information regarding constitutionality of certain provisions of section 301
 [/us/usc/t21/s353c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353c
 [/us/pl/113/54/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs102%2Fa%2F2
 [/us/usc/t21/s353b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353b
+[/us/pl/114/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F114
 [/us/pl/113/54/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs206%2Fa
 [/us/usc/t21/s353/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fd
 [/us/usc/t21/s360eee–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%E2%80%931
@@ -873,6 +918,9 @@ For information regarding constitutionality of certain provisions of section 301
 [/us/usc/t21/s348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs348
 [/us/usc/t21/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs357
 [/us/usc/t21/s356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs356
+[/us/pl/114/114/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F114%2Fs2%2Fb
+[/us/stat/129/3129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3129
+[/us/usc/t21/s353/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fb%2F1
 [/us/pl/111/353/s103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs103%2Fe
 [/us/usc/t21/s350g/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350g%2Fn
 [/us/pl/111/353/s103/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs103%2Fi
@@ -970,6 +1018,10 @@ For information regarding constitutionality of certain provisions of section 301
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/pl/91/513/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs702
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
+[/us/pl/114/114/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F114%2Fs2%2Fd
+[/us/stat/129/3130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3130
+[/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
+[/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 [/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
 [/us/usc/t21/s2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs2206
 [/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
@@ -980,5 +1032,7 @@ For information regarding constitutionality of certain provisions of section 301
 [/us/usc/t42/s247b–20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%9320
 [/us/usc/t18/s43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs43
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
+[/us/pl/114/114/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F114%2Fs2%2Fc
+[/us/stat/129/3129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3129
 
 

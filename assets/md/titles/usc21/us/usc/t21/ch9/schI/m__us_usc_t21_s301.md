@@ -51,6 +51,10 @@
 
  __Short Title of 2015 Amendment__ 
 
+[Pub. L. 114–114, § 1][/us/pl/114/114/s1], Dec. 28, 2015, [129 Stat. 3129][/us/stat/129/3129], provided that: 
+
+> “This Act \[amending [section 331 of this title][/us/usc/t21/s331] and enacting provisions set out as notes under [section 331 of this title][/us/usc/t21/s331]\] may be cited as the ‘Microbead-Free Waters Act of 2015’.”
+
 [Pub. L. 114–89, § 1][/us/pl/114/89/s1], Nov. 25, 2015, [129 Stat. 698][/us/stat/129/698], provided that: 
 
 > “This Act \[amending sections 355, 360b, 360ccc to 360ccc–2, 811, 823, and 953 of this title, [section 156 of Title 35][/us/usc/t35/s156], Patents, and [section 262 of Title 42][/us/usc/t42/s262], The Public Health and Welfare\] may be cited as the ‘Improving Regulatory Transparency for New Medical Therapies Act’.”
@@ -457,6 +461,10 @@
 [/us/usc/t21/s321b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321b
 [/us/stat/41/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F271
 [/us/usc/t21/s372a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs372a
+[/us/pl/114/114/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F114%2Fs1
+[/us/stat/129/3129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3129
+[/us/usc/t21/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs331
+[/us/usc/t21/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs331
 [/us/pl/114/89/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs1
 [/us/stat/129/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F698
 [/us/usc/t35/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs156
