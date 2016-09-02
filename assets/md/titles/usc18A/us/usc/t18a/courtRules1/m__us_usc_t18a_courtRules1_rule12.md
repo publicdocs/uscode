@@ -39,7 +39,7 @@
 
                 (iii) a violation of the constitutional right to a speedy trial;
 
-                (iv) selective or vindictive prosecution;
+                (iv) selective or vindictive prosecution; and
 
                 (v) an error in the grand-jury proceeding or preliminary hearing;
 
